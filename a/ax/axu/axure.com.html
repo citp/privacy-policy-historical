@@ -1,973 +1,974 @@
-<!--The following is the downloaded HTML source of the axure.com privacy policy that was archived on 2019-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190322032557id_/https%3A//www.axure.com/privacy) for the most accurate reproduction.-->
-
-<!DOCTYPE html><html><head>
-    <title>Privacy | Axure</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet">
-    <link href="data/styles.css" type="text/css" rel="stylesheet">
-    <link href="files/privacy___axure/styles.css" type="text/css" rel="stylesheet">
-    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-        AXSHARE_HOST_URL = 'http://share.axure.com';
-        AXSHARE_HOST_SECURE_URL = 'https://share.axure.com';
-        ACCOUNT_SERVICE_URL = 'http://accounts.axure.com';
-        ACCOUNT_SERVICE_SECURE_URL = 'https://accounts.axure.com';
-        ON_PREM_LDAP_ENABLED = 'false';
-</script><script src="resources/scripts/jquery-1.7.1.min.js"></script>
-    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
-    <script src="resources/scripts/prototypePre.js"></script>
-    <script src="data/document.js"></script>
-    <script src="resources/scripts/prototypePost.js"></script>
-    <script src="files/privacy___axure/data.js"></script>
-    <script type="text/javascript">
-      $axure.utils.getTransparentGifPath = function() { return 'https://d1h0x9w88ijkiq.cloudfront.net/3372/images/transparent.gif'; };
-      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
-      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
-    </script>
-  
-<script>
-    $(document).ready(function(){
-        $("iframe").each(function( index ) {
-            var iframeSrc = $(this).attr('src') || '';
-            if(iframeSrc.indexOf('http:') != -1){
-                $(this).attr('scrolling', 'auto');
-                $(this).css('overflow', 'auto');
-                $(this).attr('src', 'https://uftnur.axshare.com/');
-            }
-        });
-    });
-</script>
-<script type="text/javascript">
-    function getQueryString() {
-        var oResult = {};
-        var aQueryString = (location.search.substr(1)).split("&");
-        for(var i = 0; i < aQueryString.length; i++) {
-            if(aQueryString[i].length > 0) {
-                var aTemp = aQueryString[i].split("=");
-                if(aTemp[1].length > 0) {
-                    oResult[aTemp[0]] = unescape(aTemp[1]);
-                }
-            }
-        }
-        return oResult;
-    }
-</script>
-<meta name="google-site-verification" content="zDBtPCrTSpQTgwYPbUGN05xHHHQEt1tLks_1iIsy1g8">
-<link rel="shortcut icon" href="https://d3g1p8ush40lh4.cloudfront.net/Images/icon.ico">
-<link rel="apple-touch-icon" href="https://d3g1p8ush40lh4.cloudfront.net/Images/apple-touch-icon.png">
-<link rel="stylesheet" href="/content/proxima_nova.css" type="text/css">
-
-<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css">
-<style>.cc-revoke {display:none;}</style>
-<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
-<script type="text/javascript">
-    var disableCookies = false;
-    var notInit = true;
-    window.addEventListener("load", function () {
-        window.cookieconsent.initialise({
-            "palette": {
-                "popup": {
-                    "background": "#000"
-                },
-                "button": {
-                    "background": "#f1d600"
-                }
-            },
-            "theme": "classic",
-            "type": "opt-out",
-            "content": {
-                "message": "This website uses cookies to measure and improve the experience.",
-                "href": "https://www.axure.com/cookie-policy",
-                "dismiss": "Accept and Continue"
-            },
-            "dismissOnWindowClick" : true,
-            "cookie": {
-                "domain": ".axure.com",
-            },
-            onInitialise: function (status) {
-                notInit = false;
-                var type = this.options.type;
-                var didConsent = this.hasConsented();
-                if (type == 'opt-in' && didConsent) {
-                    // enable cookies
-                    disableCookies = false;
-                }
-                if (type == 'opt-out' && !didConsent) {
-                    // disable cookies
-                    disableCookies = true;
-                }
-            },
-
-            onStatusChange: function (status, chosenBefore) {
-                var type = this.options.type;
-                var didConsent = this.hasConsented();
-                if (type == 'opt-in' && didConsent) {
-                    // enable cookies
-                    disableCookies = false;
-                }
-                if (type == 'opt-out' && !didConsent) {
-                    // disable cookies
-                    disableCookies = true;
-                }
-            },
-
-            onRevokeChoice: function () {
-                var type = this.options.type;
-                if (type == 'opt-in') {
-                    // disable cookies
-                    disableCookies = true;
-                }
-                if (type == 'opt-out') {
-                    // enable cookies
-                    disableCookies = false;
-                }
-            },
-          onPopupOpen: function () {
-                notInit = false;
-            	$('.cc-allow').text("Accept and Continue").css('padding', '0.4em 3.8em');
-          	},
-          law: {
-                regionalLaw: true,
-            },
-  location: {
-    serviceDefinitions: {
-      mynewservice: function(options) {
-        return {
-          url: 'https://ipinfo.io?token={token}&someValue=1&callback={callback}',
-          isScript: true,
-          callback: function(done, response) {
-            try {
-              var json = JSON.parse(response);
-              if (json.country) {
-                setTimeout(function(){ 
-                  if(notInit) document.cookie = "cookieconsent_status=dismiss" }
-                           , 3000);
-                return {code: json.country}
-              }
-              return {code: 'UK'};
-            } catch (err) {
-              return new Error('Invalid response (' + err + ')');
-            }
-          },
-        };
-      },
-    },
- 
-services: [
-  {name: 'mynewservice', interpolateUrl: {token: 'b1ecb9108d4b54'}},
-]
-  }
-        });
-
-        var storage = disableCookies ? { 'storage': 'none' } : {}
-        ga('create', 'UA-586346-1', storage);
-        ga('set', 'anonymizeIp', disableCookies);
-  ga('send', 'pageview', {
- 'page': location.pathname + location.search  + location.hash
-});
-
-    });
-
-    (function (i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date(); a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-        
-</script>
-
-<script src="https://www.google.com/jsapi" type="text/javascript"></script>
-
-<script type="text/javascript">
-
-    $axure.internal(function ($ax) {
-        $ax.globalVariableProvider.getLinkUrl = function (url) {
-            var val = $ax.globalVariableProvider.getVariableValue('a', undefined, true);
-            if (val != null && val.length > 0) {
-                return url + '#a=' + encodeURIComponent(val);
-            }
-            return url;
-        }
-
-        var query = window.location.search.substring(1);
-        if (query.length > 0) {
-            var vars = query.split('&');
-            for (var i = 0; i < vars.length; i++) {
-                var pair = vars[i].split('=');
-                var varName = pair[0];
-                var varValue = pair[1];
-                $ax.globalVariableProvider.setVariableValue(varName, decodeURIComponent(varValue));
-            }
-        }
-
-        $(document).ready(function () {
-            var trAnchorText = window.location.hash.substring(1);
-            if (trAnchorText) {
-                trAnchorText = trAnchorText.replace('_', ' ').replace('%22', '"').toUpperCase();
-                var trAnchorId = $('div[class*="training_heading"]:contains(' + trAnchorText + ')').attr('id');
-                if (trAnchorId) {
-                    var targetTop = $ax('#' + trAnchorId).top(true) - 60;
-                    $(document).scrollTop(targetTop);
-                }
-            }
-        });
-    });
-</script>
-
-<script type="application/ld+json">
-    {
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "name": "Axure",
-    "alternateName": "Axure Software Solutions",
-    "url": "https://axure.com",
-    "logo": "https://www.axure.com/misc/og/axurelogo.png",
-    "address": {
-    "@type": "PostalAddress",
-    "addressCountry": "United States",
-    "addressLocality": "San Diego",
-    "postalCode": "92101",
-    "streetAddress": "311 4th Ave, Suite 617",
-    "addressRegion": "CA"
-    },
-    "telephone": "+1-800-895-0810",
-    "sameAs": [
-    "https://www.twitter.com/axurerp",
-    "https://plus.google.com/107983175038964150929",
-    "https://www.youtube.com/channel/UCBgDk0MgOuTCDhCSVQcoD0g",
-    "https://www.linkedin.com/company/axure-software-solutions",
-    "https://www.facebook.com/axurerp"
-    ],
-    "foundingDate": "2002"
-    }
-</script>
-<!--
-<script>
-  (function() {
-    
-    var myCallback = function() {
-      $('.gsc-search-button').attr('value','S E A R C H');
-    };
-    
-    window.__gcse = { callback : myCallback };
-    
-    var cx = '001641983463872431792:ivwg6g-egps';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);  
-  })();
-
-$(document).ready(function() {
-  $axure('@SearchButton').$().click(function() { 
-    window.setTimeout (function(){ 
-    $('#gsc-i-id1').focus(); $('#gsc-i-id1').select();
-    },300);
-    });
-});
-
-</script>
--->
-<meta property="og:image" content="http://www.axure.com/misc/og/axurelogo.png">
-<script type="text/javascript">
-
-$(function() { $('body').hide().show(); });
-</script>
-<script>
-  $(document).ready(function(){
-    $axure('@Sidebar Repeater').each(function(obj, elementId) {
-      var count = obj.repeaterPropMap.itemIds.length;
-      for(var i = 0; i < count; i++) {
-        var urlInfo = obj.data[i].page;
-        var itemDiv = $jobj(elementId + '-' + (i+1));
-        itemDiv.find('.repeater_sidebar_item').each(function() {
-          if (urlInfo) {
-            $(this).wrap('<a href="/'+ urlInfo.url +'" class="basiclink" style="text-decoration: none; cursor: pointer;" tabindex="0"></a>');
-          }
-        });
-      }
-    }); 
-    $('div[class*="training_heading"]').each(function(){
-  		var urlHash = $(this).find('span').text().toLowerCase().replace(' ','_').replace('"','%22');
-  		$(this).wrap('<a href="#'+urlHash+'"></a>').click(function(){
-    		$(document).scrollTop($(this).position().top - 60);//60 accounts for sticky header
-  		});
-	});
-  });
-</script>
-</head>
-  <body>
-    <div id="base" class="">
-
-      <!-- Unnamed (Footer) -->
-
-      <!-- Unnamed (Dynamic Panel) -->
-      <div id="u33101" class="ax_default" tabindex="0" style="cursor: pointer;">
-        <div id="u33101_state0" class="panel_state" data-label="State1" style="">
-          <div id="u33101_state0_content" class="panel_state_content">
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33102" class="ax_default heading_1">
-              <div id="u33102_div" class=""></div>
-              <div id="u33102_text" class="text " style="left: 0px; width: 42px; transform-origin: 21px 7px 0px;">
-                <p><span>© 2002-2019 Axure Software Solutions, Inc. All rights reserved. Axure® is a registered trademark of Axure Software Solutions, Inc.</span></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Image) -->
-
-<a href="./" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33103" class="ax_default image">
-              <img id="u33103_img" class="img " src="https://d2i72ju5buk5xz.cloudfront.net/gsc/GMDTUG/01/16/f2/0116f22ee0c042acaea35b98d06cced6/images/prototypes__specifications__and_diagrams_in_one_to/u155.png">
-            </div>
-</a>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33104" class="ax_default heading_1" style="cursor: pointer;">
-              <div id="u33104_div" class="" tabindex="0"></div>
-              <div id="u33104_text" class="text ">
-                <p><span>AXURE </span></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33105" class="ax_default heading_1" style="cursor: pointer;">
-              <div id="u33105_div" class="" tabindex="0"></div>
-              <div id="u33105_text" class="text ">
-                <p><a id="u33106" href="./" class="basiclink" style="text-decoration:none; cursor:pointer;" tabindex="0"><span style="color:#FFFFFF;">HOME</span></a></p><p><a id="u33107" class="link" tabindex="0" style="cursor: pointer;"><span style="color:#FFFFFF;">FEATURES</span></a></p><p><a id="u33108" href="./business-case" class="basiclink" style="text-decoration:none; cursor:pointer;" tabindex="0"><span style="color:#FFFFFF;">BUSINESS CASE</span></a></p><p><a id="u33109" href="./support" class="basiclink" style="text-decoration:none; cursor:pointer;" tabindex="0"><span style="color:#FFFFFF;">SUPPORT</span></a></p><p><a id="u33110" href="./company" class="basiclink" style="text-decoration:none; cursor:pointer;" tabindex="0"><span style="color:#FFFFFF;">COMPANY</span></a></p><p><a id="u33111" href="./download" class="basiclink" style="text-decoration:none; cursor:pointer;"><span style="color:#FFFFFF;">DOWNLOAD</span></a></p><p><a id="u33112" href="./buy" class="basiclink" style="text-decoration:none; cursor:pointer;"><span style="color:#FFFFFF;">PURCHASE</span></a></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33113" class="ax_default heading_1" style="cursor: pointer;">
-              <div id="u33113_div" class="" tabindex="0"></div>
-              <div id="u33113_text" class="text ">
-                <p><span>RESOURCES</span></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33114" class="ax_default heading_1" style="cursor: pointer;">
-              <div id="u33114_div" class="" tabindex="0"></div>
-              <div id="u33114_text" class="text ">
-                <p><a id="u33115" href="http://share.axure.com" class="basiclink" style="text-decoration:none; cursor:pointer;" tabindex="0"><span style="color:#FFFFFF;">AXURE SHARE</span></a></p><p><a id="u33116" href="http://www.axure.com/portal" class="basiclink" style="text-decoration:none; cursor:pointer;" tabindex="0"><span style="color:#FFFFFF;">AXURE PORTAL</span></a></p><p><a id="u33117" href="http://www.axure.com/blog" class="basiclink" style="text-decoration:none; cursor:pointer;"><span style="color:#FFFFFF;">AXURE BLOG</span></a></p><p><a id="u33118" href="http://www.axure.com/forum" class="basiclink" style="text-decoration:none; cursor:pointer;"><span style="color:#FFFFFF;">AXURE FORUM</span></a></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33119" class="ax_default heading_1" style="cursor: pointer;">
-              <div id="u33119_div" class="" tabindex="0"></div>
-              <div id="u33119_text" class="text ">
-                <p><span>LEGAL</span></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33120" class="ax_default heading_1" style="cursor: pointer;">
-              <div id="u33120_div" class="" tabindex="0"></div>
-              <div id="u33120_text" class="text ">
-                <p><a id="u33121" href="./terms" class="basiclink" style="text-decoration:none; cursor:pointer;" tabindex="0"><span style="color:#FFFFFF;">TERMS OF USE</span></a></p><p><a id="u33122" href="./privacy" class="basiclink" style="text-decoration:none; cursor:pointer;" tabindex="0"><span style="color:#FFFFFF;">PRIVACY POLICY</span></a></p><p><a id="u33123" href="./license" class="basiclink" style="text-decoration:none; cursor:pointer;" tabindex="0"><span style="color:#FFFFFF;">LICENSE AGREEMENT</span></a></p><p><a id="u33124" href="./patent" class="basiclink" style="text-decoration:none; cursor:pointer;" tabindex="0"><span style="color:#FFFFFF;">PATENTS</span></a></p><p><a id="u33125" href="./gdpr" class="basiclink" style="text-decoration:none; cursor:pointer;"><span style="color:#FFFFFF;">GDPR</span></a></p><p><a id="u33126" href="./subprocessors" class="basiclink" style="text-decoration:none; cursor:pointer;"><span style="color:#FFFFFF;">SUBPROCESSORS</span></a></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33127" class="ax_default heading_1" style="cursor: pointer;">
-              <div id="u33127_div" class="" tabindex="0"></div>
-              <div id="u33127_text" class="text ">
-                <p><span>CONNECT</span></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33128" class="ax_default heading_1" style="cursor: pointer;">
-              <div id="u33128_div" class="" tabindex="0"></div>
-              <div id="u33128_text" class="text ">
-                <p><a id="u33129" href="http://www.twitter.com/axurerp" class="basiclink" style="text-decoration:none; cursor:pointer;" tabindex="0"><span style="color:#FFFFFF;">TWITTER</span></a></p><p><a id="u33130" href="http://www.facebook.com/axurerp" class="basiclink" style="text-decoration:none; cursor:pointer;" tabindex="0"><span style="color:#FFFFFF;">FACEBOOK</span></a></p><p><a id="u33131" href="https://www.linkedin.com/company/axure-software-solutions" class="basiclink" style="text-decoration:none; cursor:pointer;"><span style="color:#FFFFFF;">LINKEDIN</span></a></p><p><a id="u33132" href="https://plus.google.com/107983175038964150929" class="basiclink" style="text-decoration:none; cursor:pointer;"><span style="color:#FFFFFF;">GOOGLE+</span></a></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33133" class="ax_default heading_1" style="cursor: pointer;">
-              <div id="u33133_div" class="" tabindex="0"></div>
-              <div id="u33133_text" class="text ">
-                <p><span>EMAIL</span></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33134" class="ax_default heading_1" style="cursor: pointer;">
-              <div id="u33134_div" class="" tabindex="0"></div>
-              <div id="u33134_text" class="text ">
-                <p><a id="u33135" href="mailto:contactus@axure.com" class="basiclink" style="text-decoration:none; cursor:pointer;" tabindex="0"><span style="color:#FFFFFF;">CONTACTUS@AXURE.COM</span></a></p><p><a id="u33136" href="mailto:support@axure.com" class="basiclink" style="text-decoration:none; cursor:pointer;" tabindex="0"><span style="color:#FFFFFF;">SUPPORT@AXURE.COM</span></a></p><p><a id="u33137" href="mailto:sales@axure.com" class="basiclink" style="text-decoration:none; cursor:pointer;"><span style="color:#FFFFFF;">SALES@AXURE.COM</span></a></p><p><a id="u33138" href="mailto:pr@axure.com" class="basiclink" style="text-decoration:none; cursor:pointer;"><span style="color:#FFFFFF;">PR@AXURE.COM</span></a></p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Unnamed (Legal Header) -->
-
-      <!-- Unnamed (Header Not Sticky) -->
-
-      <!-- HeaderPanel (Dynamic Panel) -->
-      <div id="u33141" class="ax_default" data-label="HeaderPanel">
-        <div id="u33141_state0" class="panel_state" data-label="State1" style="">
-          <div id="u33141_state0_content" class="panel_state_content">
-          </div>
-        </div>
-      </div>
-
-      <!-- HeaderContentPanel (Dynamic Panel) -->
-      <div id="u33142" class="ax_default" data-label="HeaderContentPanel" tabindex="0" style="cursor: pointer;">
-        <div id="u33142_state0" class="panel_state" data-label="State1" style="">
-          <div id="u33142_state0_content" class="panel_state_content">
-
-            <!-- Unnamed (Header Buttons) -->
-
-            <!-- Unnamed (Image) -->
-
-<a href="./" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33144" class="ax_default image" style="cursor: pointer;">
-              <img id="u33144_img" class="img " src="https://d2i72ju5buk5xz.cloudfront.net/gsc/GMDTUG/01/16/f2/0116f22ee0c042acaea35b98d06cced6/images/prototypes__specifications__and_diagrams_in_one_to/u21.png" tabindex="0">
-            </div>
-</a>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33145" class="ax_default topnav" style="cursor: pointer;">
-              <div id="u33145_div" class="" tabindex="0"></div>
-              <div id="u33145_text" class="text " style="left: 10px; width: 73px; transform-origin: 36.5px 7px 0px;">
-                <p><span>&nbsp;FEATURES </span></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-
-<a href="./business-case" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33146" class="ax_default topnav" style="cursor: pointer;">
-              <div id="u33146_div" class="" tabindex="0"></div>
-              <div id="u33146_text" class="text " style="left: 10px; width: 59px; transform-origin: 29.5px 7px 0px;">
-                <p><span>BUSINESS CASE</span></p>
-              </div>
-            </div>
-</a>
-
-            <!-- Unnamed (Rectangle) -->
-
-<a href="./enterprise" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33147" class="ax_default topnav" style="cursor: pointer;">
-              <div id="u33147_div" class="" tabindex="0"></div>
-              <div id="u33147_text" class="text " style="top: -1px; transform-origin: 37.5px 8px 0px;">
-                <p><span>ENTERPRISE</span></p>
-              </div>
-            </div>
-</a>
-
-            <!-- Unnamed (Rectangle) -->
-
-<a href="./support" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33148" class="ax_default topnav" style="cursor: pointer;">
-              <div id="u33148_div" class="" tabindex="0"></div>
-              <div id="u33148_text" class="text " style="left: 10px; width: 68px; top: -1px; transform-origin: 34px 8px 0px;">
-                <p><span>SUPPORT</span></p>
-              </div>
-            </div>
-</a>
-
-            <!-- Unnamed (Rectangle) -->
-
-<a href="./download" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33149" class="ax_default topnav_highlight" style="cursor: pointer;">
-              <div id="u33149_div" class="" tabindex="0"></div>
-              <div id="u33149_text" class="text " style="left: 10px; width: 81px; transform-origin: 40.5px 7px 0px;">
-                <p><span>DOWNLOAD</span></p>
-              </div>
-            </div>
-</a>
-
-            <!-- Unnamed (Rectangle) -->
-
-<a href="./buy" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33150" class="ax_default topnav_highlight">
-              <div id="u33150_div" class=""></div>
-              <div id="u33150_text" class="text " style="left: 2px; width: 12px; top: -48px; transform-origin: 6px 56px 0px;">
-                <p><span>PURCHASE</span></p>
-              </div>
-            </div>
-</a>
-
-            <!-- Unnamed (Rectangle) -->
-
-<a href="https://www.axure.com/portal" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33151" class="ax_default topnav" style="cursor: pointer;">
-              <div id="u33151_div" class="" tabindex="0"></div>
-              <div id="u33151_text" class="text " style="left: 2px; width: 14px; top: -51px; transform-origin: 7px 60px 0px;">
-                <p><span>MY LICENSES</span></p>
-              </div>
-            </div>
-</a>
-
-            <!-- Unnamed (Shape) -->
-            <div id="u33152" class="ax_default box_1">
-              <img id="u33152_img" class="img " src="https://d2i72ju5buk5xz.cloudfront.net/gsc/GMDTUG/01/16/f2/0116f22ee0c042acaea35b98d06cced6/images/prototypes__specifications__and_diagrams_in_one_to/u29.png">
-            </div>
-
-            <!-- SearchButton (Shape) -->
-            <div id="u33153" class="ax_default shape" data-label="SearchButton">
-              <img id="u33153_img" class="img " src="https://d2i72ju5buk5xz.cloudfront.net/gsc/GMDTUG/01/16/f2/0116f22ee0c042acaea35b98d06cced6/images/prototypes__specifications__and_diagrams_in_one_to/searchbutton_u30.png">
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33154" class="ax_default heading_3">
-              <div id="u33154_div" class=""></div>
-              <div id="u33154_text" class="text ">
-                <p><span>|</span></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33155" class="ax_default heading_3">
-              <div id="u33155_div" class=""></div>
-              <div id="u33155_text" class="text ">
-                <p><span>|</span></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33156" class="ax_default heading_3">
-              <div id="u33156_div" class=""></div>
-              <div id="u33156_text" class="text ">
-                <p><span>|</span></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33157" class="ax_default heading_3">
-              <div id="u33157_div" class=""></div>
-              <div id="u33157_text" class="text ">
-                <p><span>|</span></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33158" class="ax_default heading_3">
-              <div id="u33158_div" class=""></div>
-              <div id="u33158_text" class="text ">
-                <p><span>|</span></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33159" class="ax_default heading_3">
-              <div id="u33159_div" class=""></div>
-              <div id="u33159_text" class="text ">
-                <p><span>|</span></p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Unnamed (ResourcesMenu Not Sticky) -->
-
-      <!-- ResourcesMenu (Dynamic Panel) -->
-      <div id="u33161" class="ax_default ax_default_hidden" data-label="ResourcesMenu" style="display:none; visibility: hidden">
-        <div id="u33161_state0" class="panel_state" data-label="State1" style="">
-          <div id="u33161_state0_content" class="panel_state_content">
-
-            <!-- Unnamed (ResourcesMenuContent) -->
-
-            <!-- Unnamed (Hot Spot) -->
-            <div id="u33163" class="ax_default">
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33164" class="ax_default box_2">
-              <div id="u33164_div" class=""></div>
-            </div>
-
-            <!-- Unnamed (Shape) -->
-            <div id="u33165" class="ax_default box_1" style="cursor: pointer;">
-              <img id="u33165_img" class="img " src="https://d2i72ju5buk5xz.cloudfront.net/gsc/GMDTUG/01/16/f2/0116f22ee0c042acaea35b98d06cced6/images/prototypes__specifications__and_diagrams_in_one_to/u29.png" tabindex="0">
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33166" class="ax_default box_2" style="cursor: pointer;">
-              <div id="u33166_div" class="" tabindex="0"></div>
-            </div>
-
-            <!-- Unnamed (Rectangle) -->
-
-<a href="http://share.axure.com" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33167" class="ax_default topnav" style="cursor: pointer;">
-              <div id="u33167_div" class="" tabindex="0"></div>
-              <div id="u33167_text" class="text ">
-                <p><span>AXURE SHARE</span></p>
-              </div>
-            </div>
-</a>
-
-            <!-- Unnamed (Rectangle) -->
-
-<a href="http://www.axure.com/portal" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33168" class="ax_default topnav" style="cursor: pointer;">
-              <div id="u33168_div" class="" tabindex="0"></div>
-              <div id="u33168_text" class="text ">
-                <p><span>AXURE PORTAL</span></p>
-              </div>
-            </div>
-</a>
-
-            <!-- Unnamed (Rectangle) -->
-
-<a href="http://www.axure.com/blog" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33169" class="ax_default topnav">
-              <div id="u33169_div" class=""></div>
-              <div id="u33169_text" class="text ">
-                <p><span>AXURE BLOG</span></p>
-              </div>
-            </div>
-</a>
-
-            <!-- Unnamed (Rectangle) -->
-
-<a href="http://www.axure.com/forum" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33170" class="ax_default topnav">
-              <div id="u33170_div" class=""></div>
-              <div id="u33170_text" class="text ">
-                <p><span>AXURE FORUM</span></p>
-              </div>
-            </div>
-</a>
-
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33171" class="ax_default box_2">
-              <div id="u33171_div" class=""></div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Unnamed (SearchField Not Sticky) -->
-
-      <!-- SearchField (Dynamic Panel) -->
-      <div id="u33173" class="ax_default ax_default_hidden" data-label="SearchField" style="display:none; visibility: hidden">
-        <div id="u33173_state0" class="panel_state" data-label="State1" style="">
-          <div id="u33173_state0_content" class="panel_state_content">
-
-            <!-- search field bg (Rectangle) -->
-            <div id="u33174" class="ax_default primary_button" data-label="search field bg">
-              <div id="u33174_div" class="" tabindex="0"></div>
-            </div>
-
-            <!-- search field (Text Field) -->
-            <div id="u33175" class="ax_default text_field" data-label="search field">
-              <input id="u33175_input" type="text" value="">
-            </div>
-
-            <!-- search button (Rectangle) -->
-            <div id="u33176" class="ax_default primary_button" data-label="search button">
-              <div id="u33176_div" class=""></div>
-              <div id="u33176_text" class="text ">
-                <p><span>S E A R C H</span></p>
-              </div>
-            </div>
-          </div>
-        <!--
-<gcse:searchbox-only resultsUrl="http://www.axure.com/search" enableAutoComplete="true"></gcse:searchbox-only>
-<style type="text/css">
-
-  table.gsc-search-box td.gsc-input {
-    padding-right: 0px;
-  }
-form.gsc-search-box {
-    padding: 2px 2px 2px 2px;
+<!--The following is the downloaded HTML source of the axure.com privacy policy that was archived on 2019-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191225111844id_/https%3A//www.axure.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US"><head>
+
+    <!-- Google Tag Manager -->
+<script async="" src="https://static.addtoany.com/menu/page.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NLTMB3C"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+
+{'gtm.start': new Date().getTime(),event:'gtm.js'}
+);var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NLTMB3C');</script>
+<!-- End Google Tag Manager -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans" rel="stylesheet">
+
+	<title>Privacy Policy - Axure</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://www.axure.com/privacy">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Axure">
+<meta property="og:url" content="https://www.axure.com/privacy">
+<meta property="og:site_name" content="Axure">
+<meta property="article:publisher" content="https://www.facebook.com/axurerp/">
+<meta property="fb:app_id" content="2019882448317226">
+<meta property="og:image" content="https://www.axure.com/wp-content/uploads/2019/04/new-in-axure-rp-9@2x.png">
+<meta property="og:image:secure_url" content="https://www.axure.com/wp-content/uploads/2019/04/new-in-axure-rp-9@2x.png">
+<meta property="og:image:width" content="1920">
+<meta property="og:image:height" content="1054">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Privacy Policy - Axure">
+<meta name="twitter:site" content="@axurerp">
+<meta name="twitter:image" content="https://www.axure.com/wp-content/uploads/2019/04/new-in-axure-rp-9@2x.png">
+<meta name="twitter:creator" content="@axurerp">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.axure.com/#website","url":"https://www.axure.com/","name":"Axure","potentialAction":{"@type":"SearchAction","target":"https://www.axure.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.axure.com/privacy#webpage","url":"https://www.axure.com/privacy","inLanguage":"en-US","name":"Privacy Policy - Axure","isPartOf":{"@id":"https://www.axure.com/#website"},"datePublished":"2019-03-21T14:49:25+00:00","dateModified":"2019-04-22T17:38:56+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Axure » Feed" href="https://www.axure.com/feed">
+<link rel="alternate" type="application/rss+xml" title="Axure » Comments Feed" href="https://www.axure.com/comments/feed">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.axure.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.axure.com/wp-includes/js/wp-emoji-release.min.js?ver=5.2.3" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
 }
-input.gsc-search-button {
-  margin-left: 0px;
-  height:30px;
-  font-weight: normal;
-  font-size: 10px;
-  padding: 0px 14px;
-}
-
-input.gsc-input {
-  padding: 3px 6px 4px;
-    width: 100%;
-    height:30px;
-}
-td.gsc-clear-button {
-    width: 0px;
-}
-div.gsc-clear-button {
-    display: none;
-}
-.gs-title {
-  text-align:left;
-}
-.gsc-completion-container table {
-  font-family: Helvetica, Arial;
-}
-.gsc-completion-container {
-  border: 1px solid #000;
-}
-.gsc-completion-selected {
-  background-color: #eee;
-}
-
 </style>
--->
+	<link rel="stylesheet" id="wp-block-library-css" href="https://www.axure.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="cookie-law-info-css" href="https://www.axure.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/css/cookie-law-info-public.css?ver=2.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="cookie-law-info-gdpr-css" href="https://www.axure.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/css/cookie-law-info-gdpr.css?ver=2.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="axure-styles-css" href="https://www.axure.com/wp-content/themes/axure/html/src/public/styles/style.css?ver=f10d1368" type="text/css" media="all">
+<link rel="stylesheet" id="axure-style-css" href="https://www.axure.com/wp-content/themes/axure/style.css?ver=f10d1368" type="text/css" media="all">
+<link rel="stylesheet" id="addtoany-css" href="https://www.axure.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15" type="text/css" media="all">
+<script type="text/javascript" src="https://www.axure.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
+<script type="text/javascript" src="https://www.axure.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://www.axure.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":["viewed_cookie_policy"],"non_necessary_cookies":[],"cookielist":{"necessary":{"0":{"ID":1474,"post_author":"1","post_date":"2019-04-22 19:25:10","post_date_gmt":"2019-04-22 19:25:10","post_content":"The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.","post_title":"viewed_cookie_policy","post_excerpt":"viewed_cookie_policy","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"viewed_cookie_policy","to_ping":"","pinged":"","post_modified":"2019-04-22 19:25:10","post_modified_gmt":"2019-04-22 19:25:10","post_content_filtered":"","post_parent":0,"guid":"http:\/\/ec2-34-207-240-106.compute-1.amazonaws.com\/cookielawinfo\/viewed_cookie_policy","menu_order":0,"post_type":"cookielawinfo","post_mime_type":"","comment_count":"0","filter":"raw"},"term_id":9,"name":"Necessary","loadonstart":0,"defaultstate":"enabled"},"analytics":{"0":{"ID":1475,"post_author":"1","post_date":"2019-04-22 19:29:50","post_date_gmt":"2019-04-22 19:29:50","post_content":"","post_title":"Google Tag Manager","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"google-tag-manager","to_ping":"","pinged":"","post_modified":"2019-04-22 19:29:50","post_modified_gmt":"2019-04-22 19:29:50","post_content_filtered":"","post_parent":0,"guid":"http:\/\/ec2-34-207-240-106.compute-1.amazonaws.com\/?post_type=cookielawinfo&#038;p=1475","menu_order":0,"post_type":"cookielawinfo","post_mime_type":"","comment_count":"0","filter":"raw"},"term_id":15,"name":"Analytics","loadonstart":0,"defaultstate":"enabled"}},"ajax_url":"https:\/\/www.axure.com\/wp-admin\/admin-ajax.php","current_lang":"en","security":"3136082006","eu_countries":["GB"],"geoIP":"enabled","consentVersion":"1","strictlyEnabled":["necessary","obligatoire"]};
+var log_object = {"ajax_url":"https:\/\/www.axure.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.axure.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/js/cookie-law-info-public.js?ver=2.2.2"></script>
+<link rel="https://api.w.org/" href="https://www.axure.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.axure.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.axure.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.2.3">
+<link rel="shortlink" href="https://www.axure.com/?p=60">
+<link rel="alternate" type="application/json+oembed" href="https://www.axure.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.axure.com%2Fprivacy">
+<link rel="alternate" type="text/xml+oembed" href="https://www.axure.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.axure.com%2Fprivacy&amp;format=xml">
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+a2a_config.icon_color="#4d4d4d";
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<script>document.createElement( "picture" );if(!window.HTMLPictureElement && document.addEventListener) {window.addEventListener("DOMContentLoaded", function() {var s = document.createElement("script");s.src = "https://www.axure.com/wp-content/plugins/webp-express/js/picturefill.min.js";document.body.appendChild(s);});}</script><script type="text/plain" data-cli-class="cli-blocker-script" data-cli-category="analytics" data-cli-script-type="analytics" data-cli-block="true" data-cli-element-position="head">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+
+{'gtm.start': new Date().getTime(),event:'gtm.js'}
+);var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NLTMB3C');</script>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<link rel="icon" href="https://www.axure.com/wp-content/uploads/2019/04/favicon.ico" sizes="32x32">
+<link rel="icon" href="https://www.axure.com/wp-content/uploads/2019/04/favicon.ico" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://www.axure.com/wp-content/uploads/2019/04/favicon.ico">
+<meta name="msapplication-TileImage" content="https://www.axure.com/wp-content/uploads/2019/04/favicon.ico">
+		<style type="text/css" id="wp-custom-css">
+			h1.hero-home__title { font-size: 55px}
+div.blueTable {
+  text-align: left;
+}
+.divTable.blueTable .divTableCell, .divTable.blueTable .divTableHead {
+  border: 0px solid #AAAAAA;
+  padding: 5px 10px;
+}
+.divTable.blueTable .divTableHeading {
+  }
+.divTable.blueTable .divTableHeading .divTableHead {
+  font-weight: bold;
+}
+.blueTable .tableFootStyle {
+  font-size: 14px;
+}
+.blueTable .tableFootStyle .links {
+	 text-align: right;
+}
+.blueTable .tableFootStyle .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+.blueTable.outerTableFooter {
+  border-top: none;
+}
+.blueTable.outerTableFooter .tableFootStyle {
+  padding: 3px 5px; 
+}
+/* DivTable.com */
+.divTable{ display: table; }
+.divTableRow { display: table-row; }
+.divTableHeading { display: table-header-group;}
+.divTableCell, .divTableHead { display: table-cell;}
+.divTableHeading { display: table-header-group;}
+.divTableFoot { display: table-footer-group;}
+.divTableBody { display: table-row-group;}
+
+/*Blog Content Styles*/
+.b-single-post__content ul, .b-single-post__content ol { font-weight: inherit; }
+.b-single-post__content .callout-note, .b-single-post__content .callout-tip { font-style: italic; padding: 20px 20px 20px 32px; border-left: 8px solid black; }
+.b-single-post__content .callout-note { border-left-color: #004085; background-color: #cce5ff; }
+.b-single-post__content .callout-tip { border-left-color: #ffe564; background-color: #fff3cd; }
+.b-single-post__content blockquote { font-size: inherit; }
+.b-single-post__content .su-pullquote { font-family: "Univia Pro", Arial, sans-serif; border-left-color: #f9d923; background-color: #fff3cd; padding-right: 0.5em; }		</style>
+		
+</head>
+
+<body class="page-template page-template-templates page-template-wysiwyg-template page-template-templateswysiwyg-template-php page page-id-60">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NLTMB3C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script>
+
+jQuery(document).ready(function () {
+    var _logDownload = function (platform, emailAddress, callback) {
+        var downloadType = 'trial';
+        var ajaxData = {
+            email: emailAddress,
+            canEmail: true,
+            platform: platform,
+            downloadType: downloadType
+        };
+        $.ajax({
+            type: 'GET',
+            url: 'https://a.axure.com/log/download',
+            //url: 'https://cart.axure.com/LogDownload.aspx',
+            data: ajaxData,
+            success: function (response) {},
+            error: function (response) {},
+            dataType: 'jsonp'
+        });
+
+        callback();
+    };
+
+    function attachDlClick() {
+        var btn = $('.nf-form-content');
+        if (btn.length == 0) {
+            window.setTimeout(attachDlClick, 500);
+        } else {
+
+if ($('#nf-form-19-cont').length > 0) return;
+// if ($('#nf-form-10_2-cont').length > 0) return;
+            btn.on('click', function (event) {
+                var $target = $(event.target); 
+                if(!($target.hasClass('download-hero__form-btn') || $target.hasClass('btn_download'))) return; 
+                var formContent = $(this).closest('.nf-form-content');
+                var osList = formContent.find('.js-os-select');
+                var OS_MAC;
+                if (osList.length == 0) {
+                    var macRegex = /Mac/g;
+                    OS_MAC = Boolean(macRegex.exec(window.navigator.platform));
+                } else {
+                    OS_MAC = osList.children('option:selected').val().indexOf('mac') > -1 ? true : false;
+                }
+                var os = OS_MAC ? 'mac' : 'pc';
+
+                var emailAddress = formContent.find('input[name="email"]').val();
+                if (emailAddress.toUpperCase().indexOf('optional') > -1) emailAddress = '';
+
+                _logDownload(os.toLowerCase(), emailAddress, function (result) {
+                    location.href = '/downloadthanks?platform=' + os.toLowerCase();
+                });
+            })
+        }
+    }
+    attachDlClick();
+});
+
+    </script>
+
+
+
+    <header class="header js-header  header_lv2-presence">
+        <div class="header__inner header_light">
+            <div class="header__lv1 js-header-lv1">
+                <div class="container">
+
+                    <!-- Logo -->
+                    
+                    
+                        <div class="logo-box">
+                            <a href="/" class="logo-link">
+
+                                <img src="https://www.axure.com/wp-content/uploads/2019/04/logo-black.svg" alt="Privacy Policy" class="logo logo_dark">
+                                <img src="https://www.axure.com/wp-content/uploads/2019/03/logo-reverse.svg" alt="Privacy Policy" class="logo logo_light">
+
+                            </a>
+                        </div>
+
+                    
+                    <!-- Main menu -->
+                    <nav class="main-menu-box">
+                        
+                        <ul class="main-menu">
+
+                                                                                                                                            <li class="main-menu__item">
+                                                <a href="https://www.axure.com/" class="main-menu__link ">Tour</a>
+                                            </li>
+                                                                                                                                                                                                                <li class="main-menu__item">
+                                                <a href="https://www.axure.com/enterprise" class="main-menu__link ">Enterprise</a>
+                                            </li>
+                                                                                                                                                                                                                <li class="main-menu__item">
+                                                <a href="https://www.axure.com/pricing" class="main-menu__link ">Pricing</a>
+                                            </li>
+                                                                                                                                                                                                                <li class="main-menu__item">
+                                                <a href="/upgrade" class="main-menu__link ">Upgrade to 9</a>
+                                            </li>
+                                                                                                                                                                    <li class="main-menu__item main-menu__item_sub main-menu__item_sub-js">
+                                        <a href="https://www.axure.com/support" class="main-menu__link ">Support</a>
+                                        <ul class="submenu">
+                                                                                                                                                                                    <li class="submenu__item">
+                                                    <a href="https://www.axure.com/support/download-widget-libraries" class="submenu__link ">Widget Libraries</a>
+                                                </li>
+                                                                                                                                                                                                                                <li class="submenu__item">
+                                                    <a href="https://www.axure.com/support/trainers" class="submenu__link ">Trainers</a>
+                                                </li>
+                                                                                                                                                                                                                                <li class="submenu__item">
+                                                    <a href="http://docs.axure.com/" class="submenu__link ">Documentation</a>
+                                                </li>
+                                                                                                                                                                                                                                <li class="submenu__item">
+                                                    <a href="https://forum.axure.com/" class="submenu__link ">Forum</a>
+                                                </li>
+                                                                                                                            </ul>
+                                    </li>
+
+                                                            
+                            <!-- Social Links -->
+                            
+                                                            <li class="main-menu__item main-menu__item_social">
+                                    <ul class="header-social">
+
+                                                                                    <li>
+                                                <a href="https://www.instagram.com/axuresoftware" class="header-social__link" target="_blank">
+                                                    <svg class="icon icon-social_inst ">
+                                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#social_inst"></use>
+                                                    </svg>
+                                                </a>
+                                            </li>
+                                        
+                                                                                    <li>
+                                                <a href="https://www.facebook.com/axurerp/" class="header-social__link" target="_blank">
+                                                    <svg class="icon icon-social_fb ">
+                                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#social_fb"></use>
+                                                    </svg>
+                                                </a>
+                                            </li>
+                                        
+                                                                                    <li>
+                                                <a href="https://twitter.com/axurerp" class="header-social__link" target="_blank">
+                                                    <svg class="icon icon-social_tw ">
+                                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#social_tw"></use>
+                                                    </svg>
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                </li>
+                            
+                            <!-- Download button -->
+                                                            <li class="main-menu__item">
+                                    <a href="/download" class="main-menu__link btn btn_download btn_download-icon">Download</a>
+                                </li>
+                            
+                        </ul>
+                    </nav>
+
+                    <div class="menu-toggle-box">
+                        <a href="#" class="menu-toggle js-menu-toggle">
+                            <svg class="icon icon-burger-btn ">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#burger-btn"></use>
+                            </svg>
+                            <svg class="icon icon-close ">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close"></use>
+                            </svg>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+
+            
+                <div class="header__lv2 js-header-lv2">
+                    <div class="container">
+
+                        <nav class="sec-menu-box">
+                            <ul class="sec-menu">
+
+                                                                    <li class="sec-menu__item sec-menu__item_label">
+                                        <span class="sec-menu__label">Legal</span>
+                                    </li>
+                                
+                                                                                                            
+                                        
+                                        <li class="sec-menu__item ">
+                                            <a href="https://www.axure.com/license" class="sec-menu__link ">Customer Agreement</a>
+                                        </li>
+
+                                                                            
+                                        
+                                        <li class="sec-menu__item ">
+                                            <a href="https://www.axure.com/privacy" class="sec-menu__link active">Privacy Policy</a>
+                                        </li>
+
+                                                                            
+                                        
+                                        <li class="sec-menu__item ">
+                                            <a href="https://www.axure.com/cookie-policy" class="sec-menu__link ">Cookie Policy</a>
+                                        </li>
+
+                                                                            
+                                        
+                                        <li class="sec-menu__item ">
+                                            <a href="https://www.axure.com/patents" class="sec-menu__link ">Patents</a>
+                                        </li>
+
+                                                                            
+                                        
+                                        <li class="sec-menu__item ">
+                                            <a href="https://www.axure.com/gdpr" class="sec-menu__link ">GDPR</a>
+                                        </li>
+
+                                                                            
+                                        
+                                        <li class="sec-menu__item ">
+                                            <a href="https://www.axure.com/security" class="sec-menu__link ">Security</a>
+                                        </li>
+
+                                                                    
+                            </ul>
+                        </nav>
+
+                    </div>
+                </div>
+            
+        </div>
+    </header>
+
+    <div class="page-content">
+    <div class="wiw-page">
+                    <section class="section hero-base">
+                <div class="container">
+                    <h1 class="hero-base__title">Privacy Policy</h1>
+                </div>
+            </section>
+                <div class="b-sidebar-box">
+            <div class="container">
+                <div class="b-sidebar-box__inner">
+                    <div class="b-sidebar-box__content wiw">
+                        <p id="cache8"><span id="cache9">At Axure Software Solutions, Inc. (referred to as “Axure”, “us” or “we”, and which includes our affiliated companies and subsidiaries), we respect your privacy. We have developed and provided this Privacy Policy to inform you (the “User”) of our practices and policies regarding the collection, use, maintenance, and disclosure of your personal data and information that is collected during your access to and use of any of the following (collectively, the “Services”): the www.axure.com website and any other Axure websites (“Website”), all Axure mobile applications including the Axure Share App (collectively, the “Axure Share Apps”), and any services, including the Axure Share cloud hosting solution (to the extent hosted by Axure) (“Axure Share”), the Axure Customer Portal and any downloadable Axure software, including the Axure RP software tool suite and any Axure Share software enabling the hosting by a customer (collectively, the “Software”) that may include a link to this policy.&nbsp; The applicable Axure Software License Agreement (located at www.axure.com/license) otherwise governs your use of all Axure Software.</span></p>
+<p id="cache12"><span id="cache13">We are committed to providing you with the information you need to make an informed decision whether to visit our web site, or use any of the other Services, and whether you wish to voluntarily provide any personal data or information. If you have any questions about this Privacy Policy, we encourage you to please email us at&nbsp;</span><a id="u33208" class="basiclink" tabindex="0" href="mailto:contactus@axure.com"><span id="cache14">contactus@axure.com</span></a><span id="cache15">&nbsp;(remove spaces).</span></p>
+<p id="cache19"><span id="cache20">WE ENCOURAGE YOU TO READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING AND/OR USING THE AXURE WEBSITE OR ANY SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND THE AXURE TERMS OF SERVICE. IF YOU DO NOT AGREE TO THESE TERMS, PLEASE EXIT THIS PAGE AND DO NOT ACCESS OR USE ANY OF THE SERVICES.</span></p>
+<h3 id="cache24"><span id="cache25">1. What Types of Information Does Axure Collect?</span></h3>
+<p id="cache29"><span id="cache30">We collect two types of information about Users of our Website and the other Services: Personally Identifiable Information and Non-Personally Identifiable Information.</span></p>
+<p id="cache34"><span id="cache35">“Personally Identifiable Information” or “PII” is information that identifies a specific User. When you voluntarily engage in certain activities on the Website or using the other Services or the Software such as creating an account, purchasing or ordering a service or product, installing or activating Software, using the Software to access or use a Service, submitting information about yourself, submitting, posting and/or publishing prototypes or other content to the Services including via the Software, completing a survey, sending feedback, communicating with us via third party social media sites, requesting information or support, signing up for special offers or applying for a job, you may provide or be asked to provide certain information about yourself.&nbsp; In doing so, you may provide us with certain personal information about yourself, such as your full name, mailing address, email address, telephone numbers, passwords, password hints, age, gender, geographic location, etc. If you decide to order products or services from us, you may also be required to provide us with payment information such as your credit card number, expiration date and verification codes or related information. If some of the information requested is required to be provided to engage in the activity, and you do not wish to provide that information, then you will not be permitted to engage in that activity.&nbsp; In certain cases, Non-PII may be correlated to a particular User (as discussed below) in which such information would be treated as PII.&nbsp;</span></p>
+<p id="cache39"><span id="cache40">In some cases another user (such as a system administrator) may create an account on your behalf and may provide your information, including PII (most commonly when your company requests that you use our products). We collect PII information under the direction of our customers and often have no direct relationship with the individuals whose personal data we process. If you are an employee of one of our customers and would no longer like us to process your information, please contact your employer.&nbsp;</span></p>
+<p id="cache44"><span id="cache45">Axure also uses certain “Service Providers” who will receive PII in connection with the provision of services to Axure- the “Service Providers” are third party providers of goods or services to us and who may perform functions on our behalf, like providing cloud services, providing analytics services, collecting payments, managing forums and blogs and sending emails and other communications.&nbsp; These Service Providers may also collect and receive certain of the PII described above in connection with their provisions of such services but may not use PII for their own purposes.&nbsp;</span></p>
+<p id="cache49"><span id="cache50">Axure may obtain PII from third parties and combine that with information we collect through the Services. For example, we may have access to certain PII from a third party social media or authentication service if you log into our Services or that service or otherwise provide us with access to information from that service, including when we offer media features such as the Twitter “tweet” button. Any access that we may have to such PII from a third party social or authentication service is in accordance with the authorization procedures determined by that service. By authorizing us to connect with a third party service, you authorize us to access, use and share your PII. You should check your privacy settings on these third party services to understand and change the information sent to us through these services.</span></p>
+<p id="cache54"><span id="cache55">“Non-Personally Identifiable Information” or “Non-PII” is information that does not identify a specific User. This type of information may include things like the identity of the websites you visit before and after coming to our Website, the Software (and features) that you are using and other software and hardware used, your Internet Protocol (“IP”) address, your country or geography, and aggregate purchase data.&nbsp;</span></p>
+<p id="cache59"><span id="cache60">When Users install, activate and/or use the Software, a feature sends information about the technical operation and the licensing of the Software and information about the User’s operating system and other software and hardware, and it communicates with Axure servers for license authentication and technical issue identification and resolution purposes, as well as to check for updates, patches, and compatibility.&nbsp; All of the foregoing described information collected does not in and of itself identify a particular User but may be combined with other information to possibly correlate to determine a User’s identity; if the information is so correlated and does actually identify a User as a result, then the information would thereafter be considered as PII.&nbsp;</span></p>
+<p id="cache64"><span id="cache65">Axure and our Service Providers may also automatically collect Non-PII through the use of electronic tools like Cookies and Web beacons or Pixel tags, discussed below.&nbsp; For example, we currently use Google Analytics as an analytics provider. To learn more about the privacy policy of Google Analytics, refer to Google’s&nbsp;</span><a id="u33209" class="basiclink" tabindex="0" href="https://www.google.com/policies/"><span id="cache66">“Policies and Principles”</span></a><span id="cache67">. Use the Google Analytics Opt-out Browser Add-on to prevent analytics information from being sent to Google Analytics.</span></p>
+<h3 id="cache71"><span id="cache72">2. How Does Axure Use the Information it Collects?</span></h3>
+<p id="cache76"><span id="cache77">We use PII to provide products and services to you, improve our marketing and promotional efforts, analyze and enhance Website and other Services operation and use, improve product and service offerings, and to otherwise tailor your experience. We may also use PII to contact you, troubleshoot issues, provide marketing and promotional information, enable you to communicate, collaborate and share content, process and complete transactions, resolve disputes, accomplish administrative tasks, enforce our agreements with you (including our Website Terms of Service, software licenses and this Privacy Policy), investigate and prevent unauthorized access to Services or Software, fraudulent transactions, and other illegal activities, comply with applicable laws, and cooperate with law enforcement activities.</span></p>
+<p id="cache81"><span id="cache82">We use Non-PII to troubleshoot issues, administer and enhance the Website and other Services, analyze usage of our Software, the Website and other Services, gather demographic and other User information, investigate and prevent unauthorized access to Services, fraudulent transactions, and other illegal activities, comply with applicable law, and cooperate with law enforcement activities. We may also post or otherwise publicly disclose Non-PII on the Website or in publicly-available materials for promotional and marketing purposes.&nbsp;</span></p>
+<h3 id="cache86"><span id="cache87">3.&nbsp; How Does Axure Share PII and Non-PII?</span></h3>
+<p id="cache91"><span id="cache92">We will not share your PII with other parties except as provided below:</span></p>
+<p id="cache96"><strong><span id="cache97">We may share PII with Service Providers.</span></strong><span id="cache98">&nbsp;We provide certain Services and Software through Service Providers. We may share your PII with such Service Providers to fulfill orders, deliver packages, send postal or email, administer contests or sweepstakes, manage customer lists, analyze data, provide marketing assistance, process credit card and other payments, operate the Website, troubleshoot, and provide customer service. We will also share your information with Service Providers to accomplish our administrative tasks. For example, when you order Software, your credit card information may be provided to a Service Provider to accept payment for the Software and, if applicable, your address is provided to the delivery service to facilitate delivery. We seek Service Providers who adopt and post privacy policies. However, the use of your PII by such parties is governed by the privacy policies of such parties and is not subject to our control.</span></p>
+<p id="cache102"><strong><span id="cache103">We may share PII and Non-PII Upon a Merger, Sale, or Bankruptcy.</span></strong><span id="cache104">&nbsp;In the event that Axure is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign PII and Non-PII we have collected from our Users as part of such merger, acquisition, sale, or other change of control.&nbsp; Any PII transferred would remain subject to this Privacy Policy.&nbsp; In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.</span></p>
+<p id="cache108"><strong><span id="cache109">We may share PII and Non-PII to comply with law or for protection of others.</span></strong><span id="cache110">&nbsp;We may release PII and/or Non-PII if required to do so by law, or in the good faith belief that such action is necessary to comply with state and federal laws or respond to a court order, subpoena, or search warrant.&nbsp; We also reserve the right to disclose PII and/or Non-PII that we believe, in good faith, is appropriate or necessary to enforce our Terms of Service and our Tools and other software licenses, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of Website and other Services, and to protect the rights, property, or personal safety of Axure, our Users or others.</span></p>
+<p id="cache114"><strong><span id="cache115">We may share Non-PII with Partners and Service Providers.</span></strong><span id="cache116"><strong>&nbsp;</strong>We may disclose or share Non-PII with marketing or promotional partners (“Partners”).&nbsp; We may also have Service Providers use Non-PII to track and analyze usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes.&nbsp; This information is only general aggregated information relating to the activities of our Users.</span></p>
+<p id="cache120"><strong><span id="cache121">We may publicly share Non-PII.</span></strong><span id="cache122">&nbsp;We may disclose or share Non-PII on the Website or in other publicly-available materials for promotional and marketing purposes.&nbsp; For example, we may publicly post Service or Website usage statistics on the Website periodically.</span></p>
+<h3 id="cache126"><span id="cache127">4.&nbsp; How Do I Update My Information and Limit Information Sharing?</span></h3>
+<p id="cache131"><span id="cache132">At any time and for any reason, you have the ability to access and edit the PII you provide us. You may change any of your PII by sending us an email at contactus [at] Axure.com (remove spaces) or writing to us at 707 Broadway, Suite 1600, San Diego, CA 92101. Please provide your full contact information, and what information you would like to update when you contact us.</span></p>
+<p id="cache136"><span id="cache137">You should promptly update your PII whenever it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, it may be impossible for us to completely delete all of your information because we periodically backup and archive information.</span></p>
+<p id="cache141"><span id="cache142">You have the right to understand the following information as to any sharing of your PII with third party Partners for purposes of marketing products and services not offered or provided by Axure: the categories of PII we collect and Partners with whom we share that information; the names and addresses of those Partners; and identification of the types of products and services marketed by those Partners.&nbsp; Please send us a written request and we will promptly respond.&nbsp;</span></p>
+<h3 id="cache146"><span id="cache147">5. Your California Privacy Rights</span></h3>
+<p id="cache151"><span id="cache152">California Civil Code Section 1798.83 permits Users who are a California resident to request and obtain from Axure once a year, free of charge, information about the PII Axure discloses to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of PII that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you do not want your name and contact information to be shared with any company or organization, you may notify us at any time by writing to us at the email and or regular mail address below.</span></p>
+<h3 id="cache156"><span id="cache157">6.&nbsp; What Are My Choices As To Collection and Use of Information?</span></h3>
+<p id="cache161"><span id="cache162">As discussed above, you can always choose not to voluntarily provide information, although it may be required to engage in a certain activity on the Website or use of certain other Services, and you may limit our sharing of your PII with Partners for their marketing purposes.&nbsp; You also have the right to edit the PII you provide us.</span></p>
+<p id="cache166"><span id="cache167">As a condition of use of certain of our Services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. “Administrative Emails” relate to a User’s activity on the Website or other Services, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products or Services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at contactus [at] Axure.com (remove spaces), by writing to us at the address contained herein, or by hitting the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.</span></p>
+<h3 id="cache171"><span id="cache172">7.&nbsp; What About Information Security?</span></h3>
+<p id="cache176"><span id="cache177">Axure uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of PII and Non-PII. We cannot, however, ensure or warrant the security of any information transmitted to Axure and you do so at your own risk. Once we receive a transmission of information, Axure makes commercially reasonable efforts to ensure the security of our systems. However, please note this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</span></p>
+<p id="cache181"><span id="cache182">If Axure learns of a security systems breach, then Axure may attempt to notify you electronically so that you can take appropriate protective steps. Axure may post a notice on the Website or via the other Services if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us via email.</span></p>
+<h3 id="cache186"><span id="cache187">8.&nbsp; Does Axure Track Other Data?</span></h3>
+<p id="cache191"><span id="cache192">To facilitate and customize your experience with the Website and other Services, we store cookies on your computer. A cookie is a small text file that is stored on a User’s computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-PII from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website may not work properly.</span></p>
+<p id="cache196"><span id="cache197">We may use other industry standard technologies like pixel tags and web beacons to track your use of our Website pages, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our performance. We may also utilize pixel tags and web beacons provided by our Partners for the same purposes.</span></p>
+<h3 id="cache201"><span id="cache202">9.&nbsp; What About Third Party Websites?</span></h3>
+<p id="cache206"><span id="cache207">This Privacy Policy only addresses the use and disclosure of information we collect from you. Other websites that may be accessible through the Website or other Services have their own privacy policies and data collection, use and disclosure practices. If you visit any such website by a link from the Website or other Services, we urge you review the website’s privacy policy. We are not responsible for the policies or practices of third parties.</span></p>
+<h3 id="cache211"><span id="cache212">10.&nbsp; Are There Other Privacy Issues I Should Know About?</span></h3>
+<p id="cache216"><span id="cache217">We may provide areas on our Website and through other Services where you can publicly post information about yourself, can communicate with others, publish prototypes, submit content, etc. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address in a published prototype, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information.</span></p>
+<p id="cache221"><span id="cache222">Minors under the age of 18 may not use the Website or other Services. We do not collect or maintain information from anyone known to be under the age of 18, and no part of the Website or other Services are designed to attract anyone under the age of 18. Axure does not offer products or Services for access or use by children. If you are under 18, you may use the Services only with the involvement of a parent or guardian.</span></p>
+<p id="cache226"><span id="cache227">If you are a User accessing the Website and our other Services from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, please be advised that through your continued use of the Website and other Services, which are governed by U.S. law, this Privacy Notice, and our Terms of Service, you are transferring your personal information to the United States and you consent to that transfer.</span></p>
+<h3 id="cache231"><span id="cache232">11.&nbsp; Will There Be Changes to the Privacy Policy?</span></h3>
+<p id="cache236"><span id="cache237">This Privacy Policy may be revised periodically and this will be reflected by the date specified below. Please revisit this page to stay aware of any changes since the revised Privacy Policy is effective immediately when posted on the Website. In general, we only use PII in the manner described in the Privacy Policy in effect when we received the PII you provided. Your continued use of the Website or our other Services constitutes your agreement to this Privacy Policy and any future revisions.</span></p>
+<p id="cache241"><span id="cache242">This Axure Privacy Policy (Version 2.0) was last modified on and effective as of April 14, 2016.</span></p>
+<h3 id="cache246"><span id="cache247">12.&nbsp; How Do I Contact Axure?</span></h3>
+<p id="cache251"><span id="cache252">We value hearing from you and will do our best to respond in a timely manner to all inquiries.&nbsp;</span></p>
+<p id="cache256"><span id="cache257"><strong>Corporate Address</strong><br>
+</span><span id="cache259">Axure Software Solutions, Inc.<br>
+</span><span id="cache261">707 Broadway, Suite 1600<br>
+</span><span id="cache263">San Diego, CA 92101<br>
+</span><a id="u33210" class="basiclink" tabindex="0" href="mailto:contactus@axure.com"><span id="cache265">contactus@axure.com</span></a></p>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+
 </div>
-      </div>
 
-      <!-- Unnamed (Legal Sub Header) -->
+<!-- Group -->
 
-      <!-- StaticSub (Dynamic Panel) -->
-      <div id="u33178" class="ax_default" data-label="StaticSub">
-        <div id="u33178_state0" class="panel_state" data-label="State1" style="">
-          <div id="u33178_state0_content" class="panel_state_content">
+<footer class="footer ">
+    <div class="container">
 
-            <!-- Unnamed (Legal Sub Buttons) -->
+        <div class="footer-content">
 
-            <!-- Unnamed (Rectangle) -->
-            <div id="u33180" class="ax_default subnav_section">
-              <div id="u33180_div" class="" tabindex="0"></div>
-              <div id="u33180_text" class="text " style="left: 15px; width: 56px; top: -3px; transform-origin: 28px 10px 0px;">
-                <p><span>LEGAL</span></p>
-              </div>
+            <div class="footer-contact">
+
+                <div class="footer-subscribe">
+
+                    <!-- Sign Up Form Title -->
+                                            <h3 class="footer__title">Stay Connected</h3>
+                    
+                    <!-- Sign Up Form Description -->
+                                            <p>Sign up to receive Axure tutorials and news. You can unsubscribe at any time.</p>
+                    
+                    <!-- Ninja Form -->
+                    <noscript class="ninja-forms-noscript-message">
+    Notice: JavaScript is required for this content.</noscript><div id="nf-form-4-cont" class="nf-form-cont footer-subscribe__form" aria-live="polite" aria-labelledby="nf-form-title-4" aria-describedby="nf-form-errors-4" role="form">
+
+    <div class="nf-loading-spinner"></div>
+
+</div>
+        <!-- TODO: Move to Template File. -->
+        <script>var formDisplay=1;var nfForms=nfForms||[];var form=[];form.id='4';form.settings={"objectType":"Form Setting","editActive":true,"title":"Footer - Subscription Form","show_title":0,"clear_complete":1,"hide_complete":1,"default_label_pos":"above","wrapper_class":"footer-subscribe__form","element_class":"","key":"","add_submit":1,"currency":"","unique_field_error":"A form with this value has already been submitted.","logged_in":false,"not_logged_in_msg":"","sub_limit_msg":"The form has reached its submission limit.","calculations":[{"errors":[],"max_options":0,"order":0,"new":false,"options":[],"name":"status","eq":"","dec":"2","settingModel":{"settings":false,"hide_merge_tags":false,"error":false,"name":"calculations","type":"option-repeater","label":" <a href=\"#\" class=\"nf-add-new\">Add New<\/a>","width":"full","group":"primary","tmpl_row":"tmpl-nf-edit-setting-calculation-repeater-row","columns":{"name":{"header":"Variable Name","default":""},"eq":{"header":"Equation","default":""},"dec":{"header":"Precision","default":"2"}},"use_merge_tags":{"exclude":["user","system","post"]}}}],"formContentData":[{"order":1,"cells":[{"order":0,"fields":["email_1554512400042"],"width":67},{"order":1,"fields":["sign_up_1554991926260"],"width":33}]}],"changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","formErrorsCorrectErrors":" ","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fieldsMarkedRequired":" ","drawerDisabled":false,"container_styles_show_advanced_css":0,"title_styles_show_advanced_css":0,"row_styles_show_advanced_css":0,"row-odd_styles_show_advanced_css":0,"success-msg_styles_show_advanced_css":0,"error_msg_styles_show_advanced_css":0,"container_styles_border":"","container_styles_height":"","container_styles_margin":"","container_styles_padding":"","container_styles_float":"","title_styles_border":"","title_styles_height":"","title_styles_width":"","title_styles_font-size":"","title_styles_margin":"","title_styles_padding":"","title_styles_float":"","row_styles_border":"","row_styles_width":"","row_styles_font-size":"","row_styles_margin":"","row_styles_padding":"","row-odd_styles_border":"","row-odd_styles_height":"","row-odd_styles_width":"","row-odd_styles_font-size":"","row-odd_styles_margin":"","row-odd_styles_padding":"","success-msg_styles_border":"","success-msg_styles_height":"","success-msg_styles_width":"","success-msg_styles_font-size":"","success-msg_styles_margin":"","success-msg_styles_padding":"","error_msg_styles_border":"","error_msg_styles_width":"","error_msg_styles_font-size":"","error_msg_styles_margin":"","error_msg_styles_padding":"","ninjaForms":"Ninja Forms","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formHoneypot":"If you are a human seeing this field, please leave it empty.","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"&#36;","thousands_sep":",","decimal_point":".","siteLocale":"en_US","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"embed_form":"","currency_symbol":"","beforeForm":"","beforeFields":"","afterFields":"","afterForm":""};form.fields=[{"objectType":"Field","objectDomain":"fields","editActive":false,"order":1,"type":"email","label":"Email","key":"email_1554512400042","label_pos":"hidden","required":1,"default":"","placeholder":"Enter email address","container_class":"footer-subscribe__field","element_class":"footer-subscribe__test","admin_label":"","help_text":"","custom_name_attribute":"email","personally_identifiable":1,"drawerDisabled":false,"wrap_styles_show_advanced_css":0,"label_styles_show_advanced_css":0,"element_styles_show_advanced_css":0,"cellcid":"c3308","value":"","cellOrder":1,"id":37,"beforeField":"","afterField":"","parentType":"email","element_templates":["email","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":2,"type":"submit","label":"Sign up","processing_label":"Processing","container_class":"","element_class":"btn-green footer-subscribe__btn","key":"sign_up_1554991926260","drawerDisabled":false,"wrap_styles_show_advanced_css":0,"element_styles_show_advanced_css":0,"submit_element_hover_styles_show_advanced_css":0,"cellcid":"c3311","id":38,"beforeField":"","afterField":"","value":"","label_pos":"above","parentType":"textbox","element_templates":["submit","button","input"],"old_classname":"","wrap_template":"wrap-no-label"}];nfForms.push(form);</script>
+                <script id="nf-tmpl-cell" type="text/template">
+            <nf-fields></nf-fields>
+        </script>
+
+        <script id="nf-tmpl-row" type="text/template">
+            <nf-cells></nf-cells>
+        </script>
+
+        
+                </div>
+
+                <!-- Social Icons -->
+                                    <ul class="footer-social">
+                                                                                    
+                                    
+                                                                            <li>
+                                            <a href="https://www.facebook.com/axurerp/" class="footer-social__link" target="_blank">
+                                                                                                    <svg class="icon icon-social_fb">
+                                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#social_fb"></use>
+                                                    </svg>
+                                                                                            </a>
+                                        </li>
+                                    
+                                
+                                    
+                                                                            <li>
+                                            <a href="https://twitter.com/axurerp" class="footer-social__link" target="_blank">
+                                                                                                    <svg class="icon icon-social_tw">
+                                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#social_tw"></use>
+                                                    </svg>
+                                                                                            </a>
+                                        </li>
+                                    
+                                
+                                    
+                                                                            <li>
+                                            <a href="https://www.instagram.com/axuresoftware/" class="footer-social__link" target="_blank">
+                                                                                                    <svg class="icon icon-social_inst">
+                                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#social_inst"></use>
+                                                    </svg>
+                                                                                            </a>
+                                        </li>
+                                    
+                                
+                                    
+                                                                            <li>
+                                            <a href="https://www.linkedin.com/company/axure-software-solutions/" class="footer-social__link" target="_blank">
+                                                                                                    <svg class="icon icon-social_ln">
+                                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#social_ln"></use>
+                                                    </svg>
+                                                                                            </a>
+                                        </li>
+                                    
+                                                                                                        </ul>
+                
             </div>
 
-            <!-- Terms (Rectangle) -->
+                                                    <div class="footer-nav">
+                                            <div class="footer-nav__section">
+                            <h3 class="footer__title">
+                                <a href="/">
+                                    Axure                                </a>
+                            </h3>
+                                                            <ul class="footer-nav__list">
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://www.axure.com/">Tour</a>
+                                        </li>
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://www.axure.com/enterprise">Enterprise</a>
+                                        </li>
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://www.axure.com/company">Company</a>
+                                        </li>
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://www.axure.com/download">Download</a>
+                                        </li>
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://www.axure.com/pricing">Purchase</a>
+                                        </li>
+                                                                    </ul>
+                                                    </div>
+                                            <div class="footer-nav__section">
+                            <h3 class="footer__title">
+                                <a href="/license">
+                                    Legal                                </a>
+                            </h3>
+                                                            <ul class="footer-nav__list">
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://www.axure.com/license">Customer Agreement</a>
+                                        </li>
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://www.axure.com/privacy">Privacy Policy</a>
+                                        </li>
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://www.axure.com/gdpr">GDPR</a>
+                                        </li>
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://www.axure.com/security">Security</a>
+                                        </li>
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://www.axure.com/patents">Patents</a>
+                                        </li>
+                                                                    </ul>
+                                                    </div>
+                                            <div class="footer-nav__section">
+                            <h3 class="footer__title">
+                                <a href="https://www.axure.com/blog">
+                                    Resources                                </a>
+                            </h3>
+                                                            <ul class="footer-nav__list">
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="/blog">Blog</a>
+                                        </li>
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://forum.axure.com/">Forum</a>
+                                        </li>
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://portal.axure.com/">License Portal</a>
+                                        </li>
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://www.axure.cloud">Axure Cloud</a>
+                                        </li>
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://www.axure.com/careers">Jobs</a>
+                                        </li>
+                                                                    </ul>
+                                                    </div>
+                                            <div class="footer-nav__section">
+                            <h3 class="footer__title">
+                                <a href="/support">
+                                    Support                                </a>
+                            </h3>
+                                                            <ul class="footer-nav__list">
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://www.axure.com/support">Learn and Support</a>
+                                        </li>
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://docs.axure.com/tutorials/basics/getting-started/">Getting Started</a>
+                                        </li>
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://docs.axure.com">Reference</a>
+                                        </li>
+                                                                                                                    <li>
+                                            <a class="footer-nav__link" href="https://www.axure.com/support/download-widget-libraries">Widget Libraries</a>
+                                        </li>
+                                                                    </ul>
+                                                    </div>
+                                    </div>
+                    </div>
 
-<a href="./terms" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33181" class="ax_default subnav" data-label="Terms">
-              <div id="u33181_div" class=""></div>
-              <div id="u33181_text" class="text " style="left: 0px; top: -27px; transform-origin: 0.5px 35px 0px;">
-                <p><span>TERMS</span></p>
-              </div>
+        <!-- Copyright -->
+                    <div class="footer-copyright">© 2002-2019 Axure Software Solutions, Inc. All rights reserved. Axure® is a registered trademark of Axure Software Solutions, Inc.</div>
+        
+    </div>
+</footer>
+
+<div style="display: none!important;visibility: hidden!important;">
+    <!--?xml version="1.0" encoding="utf-8"?-->    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <symbol viewBox="0 0 21 18" id="burger-btn" xmlns="http://www.w3.org/2000/svg">
+            <path d="M1.526 16.933H19.86M1.526 1.067H19.86M1.526 9H19.86"></path>
+        </symbol>
+        <symbol viewBox="0 0 16 13" id="check" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" d="M13.985.858a1.315 1.315 0 0 0-.906.407c-2.555 2.581-4.886 5.12-7.354 7.653L2.7 6.483a1.315 1.315 0 0 0-1.855.208 1.337 1.337 0 0 0 .206 1.87l3.957 3.19a1.31 1.31 0 0 0 1.756-.1c2.84-2.87 5.391-5.693 8.177-8.508a1.34 1.34 0 0 0 .3-1.473 1.319 1.319 0 0 0-1.256-.812z"></path>
+        </symbol>
+        <symbol viewBox="0 0 22 22" id="close" xmlns="http://www.w3.org/2000/svg">
+            <path d="M20.335.476l-8.71 8.71c-.357.357-.922.357-1.249 0L1.666.476C1.308.12.742.12.415.476c-.356.357-.356.922 0 1.249l8.712 8.71c.356.357.356.923 0 1.25l-8.741 8.74c-.357.356-.357.921 0 1.248.356.356.922.356 1.248 0l8.711-8.712c.357-.356.922-.356 1.249 0l8.74 8.742c.356.356.922.356 1.248 0 .356-.357.356-.923 0-1.249l-8.68-8.741c-.357-.356-.357-.922 0-1.248l8.71-8.711c.357-.357.357-.923 0-1.249a.925.925 0 0 0-1.278-.029z"></path>
+        </symbol>
+        <symbol viewBox="0 0 33 33" id="download" xmlns="http://www.w3.org/2000/svg">
+            <path d="M16.5 0C7.366 0 0 7.366 0 16.5 0 25.56 7.366 33 16.5 33 25.56 33 33 25.634 33 16.5 32.927 7.366 25.56 0 16.5 0zm-4.714 11.27l3.167 3.167V6.261h3.167v8.176l3.168-3.167 2.21 2.21-6.924 6.923-6.997-6.923 2.209-2.21zM9.281 23.72l2.21-2.21a7.067 7.067 0 0 0 5.01 2.063 7.198 7.198 0 0 0 5.008-2.063l2.21 2.21c-1.842 1.842-4.42 3.02-7.219 3.02-2.799 0-5.377-1.178-7.219-3.02z"></path>
+        </symbol>
+        <symbol viewBox="0 0 20 24" id="ic-mac" xmlns="http://www.w3.org/2000/svg">
+            <path d="M14.796 0c-2.657.888-4.728 1.776-4.432 5.625C13.02 5.033 15.386 3.553 14.796 0zM6.358 5.344C3.8 5.344.105 7.594.105 11.812c0 5.907 3.98 11.813 6.253 11.813 1.705 0 3.126-1.125 4.263-1.125s2.274 1.125 3.979 1.125c2.274 0 4.832-3.375 5.4-6.469-1.99-1.406-3.41-2.25-3.41-4.781 0-1.688 1.42-3.375 3.126-4.781-.853-1.125-2.558-2.25-4.263-2.25-1.706 0-3.54 1.335-4.832 1.406-1.137 0-2.558-1.406-4.263-1.406z"></path>
+        </symbol>
+        <symbol viewBox="0 0 17 17" id="ic-pc" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M8.566 8.05h7.11c.18 0 .325-.146.325-.325V.63a.327.327 0 0 0-.325-.33c-.023 0-.046.004-.069.008l-7.083.937a.328.328 0 0 0-.28.326H8.24v6.154c0 .179.146.326.326.326zM7.474 1.742v5.984a.325.325 0 0 1-.321.326H.429a.326.326 0 0 1-.325-.326V2.597c0-.162.122-.306.283-.325L7.08 1.42a.326.326 0 0 1 .394.321zm0 13.502v-6.1a.326.326 0 0 0-.321-.33h-.03l-6.66.016a.326.326 0 0 0-.325.326v5.248c0 .17.13.31.295.325l6.678.84c.18.024.34-.104.363-.282v-.043zm8.527 1.127V9.155a.326.326 0 0 0-.325-.326h-.027l-7.083-.011a.326.326 0 0 0-.322.329H8.24v6.274c0 .175.138.318.31.326l7.084.949A.325.325 0 0 0 16 16.37z"></path>
+        </symbol>
+        <symbol viewBox="0 0 96 96" id="play" xmlns="http://www.w3.org/2000/svg">
+            <path d="M48 .344C21.672.344.344 21.672.344 48S21.672 95.656 48 95.656 95.656 74.328 95.656 48 74.328.344 48 .344zm-10.156 63.28v-31.25L64.953 48 37.844 63.625z" opacity=".7"></path>
+        </symbol>
+        <symbol viewBox="0 0 20 20" id="question" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.625 0H4.375A4.376 4.376 0 0 0 0 4.375v11.25A4.376 4.376 0 0 0 4.375 20h11.25A4.376 4.376 0 0 0 20 15.625V4.375A4.376 4.376 0 0 0 15.625 0zM8.897 13.845a1.248 1.248 0 0 1 1.633 1.633 1.25 1.25 0 1 1-1.633-1.633zM10 10v2.5H8.75V10c0-.69.56-1.25 1.25-1.25h1.25a1.875 1.875 0 0 0 0-3.75h-2.5c-1.035 0-1.875.84-1.875 1.875h-1.25c0-.829.329-1.623.916-2.21A3.121 3.121 0 0 1 8.75 3.75h2.5a3.124 3.124 0 0 1 2.706 4.687A3.124 3.124 0 0 1 11.25 10H10z"></path>
+        </symbol>
+        <symbol viewBox="0 0 11 22" id="social_fb" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" d="M10.739 7.066H7.235v-2.25c0-.846.572-1.043.975-1.043h2.472V.056L7.277.043c-3.78 0-4.64 2.772-4.64 4.546v2.477H.45v3.83h2.186v10.837h4.599V10.896h3.103l.4-3.83z"></path>
+        </symbol>
+        <symbol viewBox="0 0 25 25" id="social_inst" xmlns="http://www.w3.org/2000/svg">
+            <path clip-rule="evenodd" d="M12.496.008c-3.394 0-3.82.014-5.152.075-1.33.06-2.238.272-3.033.58a6.125 6.125 0 0 0-2.214 1.442A6.125 6.125 0 0 0 .657 4.32c-.31.794-.521 1.703-.582 3.033C.015 8.685 0 9.11 0 12.504s.014 3.82.075 5.152c.06 1.33.272 2.239.581 3.033.32.822.747 1.519 1.441 2.214a6.126 6.126 0 0 0 2.214 1.441c.795.309 1.703.52 3.033.58 1.333.062 1.758.076 5.152.076s3.82-.014 5.152-.075c1.33-.06 2.239-.272 3.033-.581a6.126 6.126 0 0 0 2.214-1.441 6.126 6.126 0 0 0 1.441-2.214c.309-.794.52-1.703.58-3.033.062-1.333.076-1.758.076-5.152s-.014-3.82-.075-5.152c-.06-1.33-.272-2.239-.58-3.033a6.125 6.125 0 0 0-1.442-2.214A6.124 6.124 0 0 0 20.68.664c-.794-.309-1.703-.52-3.033-.58C16.315.021 15.89.007 12.496.007zm0 2.251c3.337 0 3.732.013 5.05.073 1.218.056 1.88.26 2.32.43.583.227 1 .498 1.437.935.437.438.708.854.934 1.437.172.44.375 1.102.43 2.32.06 1.318.074 1.713.074 5.05 0 3.337-.013 3.732-.073 5.05-.056 1.218-.26 1.88-.43 2.32a3.87 3.87 0 0 1-.935 1.437 3.871 3.871 0 0 1-1.437.934c-.44.171-1.102.375-2.32.43-1.318.06-1.713.073-5.05.073-3.337 0-3.732-.012-5.05-.072-1.218-.056-1.88-.26-2.32-.43a3.88 3.88 0 0 1-1.437-.935 3.872 3.872 0 0 1-.934-1.437c-.171-.44-.375-1.102-.43-2.32-.06-1.318-.073-1.713-.073-5.05 0-3.337.012-3.732.072-5.05.056-1.218.26-1.88.43-2.32.227-.583.498-1 .935-1.437a3.871 3.871 0 0 1 1.437-.934c.44-.172 1.102-.375 2.32-.43 1.318-.06 1.713-.074 5.05-.074z"></path>
+            <path clip-rule="evenodd" d="M12.496 16.67a4.165 4.165 0 1 1 0-8.331 4.165 4.165 0 0 1 0 8.33zm0-10.583a6.417 6.417 0 1 0 0 12.834 6.417 6.417 0 0 0 0-12.834zm8.17-.253a1.5 1.5 0 1 1-2.999 0 1.5 1.5 0 0 1 2.999 0z"></path>
+        </symbol>
+        <symbol viewBox="0 0 30 25" id="social_ln" xmlns="http://www.w3.org/2000/svg">
+            <g fill-rule="evenodd">
+                <path d="M27.806 20h-.292v-.589h.37c.192 0 .41.031.41.28 0 .285-.22.308-.488.308zm.29.174c.295-.036.45-.198.45-.47 0-.33-.202-.49-.617-.49h-.665v1.74h.25v-.758h.31l.006.01.48.748h.268l-.515-.775.033-.005z"></path>
+                <path d="M27.834 21.517c-.79 0-1.412-.623-1.412-1.43 0-.809.621-1.432 1.412-1.432.793 0 1.413.623 1.413 1.431s-.62 1.43-1.413 1.43zm0-3.077c-.928 0-1.656.723-1.656 1.646 0 .924.728 1.647 1.656 1.647.928 0 1.656-.723 1.656-1.647 0-.923-.728-1.646-1.656-1.646zm-6.431 2.863h-3.725V15.5c0-1.384-.024-3.163-1.936-3.163-1.939 0-2.234 1.507-2.234 3.064v5.9H9.787V9.373h3.57v1.631h.052c.497-.938 1.712-1.927 3.524-1.927 3.773 0 4.47 2.47 4.47 5.684v6.543zM5.587 7.743a2.154 2.154 0 0 1-2.161-2.151c0-1.187.964-2.15 2.161-2.15 1.192 0 2.159.963 2.159 2.15 0 1.187-.967 2.15-2.159 2.15zm-1.866 13.56h3.73V9.373H3.72v11.93zM23.258 0H1.852C.83 0 0 .807 0 1.803v21.393C0 24.192.83 25 1.852 25h21.406c1.024 0 1.858-.808 1.858-1.804V1.803C25.116.807 24.282 0 23.258 0z"></path>
+            </g>
+        </symbol>
+        <symbol viewBox="0 0 24 20" id="social_tw" xmlns="http://www.w3.org/2000/svg">
+            <path d="M7.826 19.143c8.49 0 13.134-7.034 13.134-13.135 0-.2 0-.398-.013-.596a9.392 9.392 0 0 0 2.303-2.39 9.214 9.214 0 0 1-2.651.727 4.632 4.632 0 0 0 2.03-2.554 9.251 9.251 0 0 1-2.932 1.12 4.62 4.62 0 0 0-7.867 4.211 13.106 13.106 0 0 1-9.514-4.823 4.62 4.62 0 0 0 1.43 6.162 4.582 4.582 0 0 1-2.096-.578v.059c0 2.197 1.55 4.09 3.704 4.525a4.609 4.609 0 0 1-2.085.08 4.622 4.622 0 0 0 4.313 3.205A9.263 9.263 0 0 1 .75 17.07a13.069 13.069 0 0 0 7.076 2.07" fill-rule="evenodd"></path>
+        </symbol>
+    </svg>
+</div>
+
+<div class="wt-cli-cookie-bar-container"><div id="cookie-law-info-bar" data-cli-geo-loc="0" style="background:#000; padding:22px; box-sizing:border-box; float:left; border:solid 0px #fff; text-align:left; font-size:14px; letter-spacing:normal;"><div class="cli-wrapper"><a style="display:inline-block; background:none; border-radius:20px; border:solid 1px #000; color:#000; text-align:center; font-size:12px; width:22px; height:22px; line-height:22px; margin-right:-15px; margin-top:-15px; float:right; cursor:pointer; background-color:rgba(0, 0, 0, 0);" data-cli_action="accept" class="wt-cli-element cli_cookie_close_button" title="Close and Accept">X</a><span>This website uses cookies to measure and improve the experience. <a href="/cookie-policy" id="CONSTANT_OPEN_URL" style="display:inline-block; background:none; border-radius:2px; text-align:center; font-size:12px; padding:5px 8px; margin-left:0px; font-weight:normal; text-decoration:underline; border:solid 0px #fff; line-height:18px;" class="wt-cli-element wt-cli-element cli-plugin-main-link">Learn More</a> <a style="display:inline-block; background:#2c2b2b; border-radius:2px; text-align:center; font-size:12px; padding:5px 8px; margin-left:10px; float:right; border:solid 0px #fff; line-height:18px;" id="cookie_action_close_header_reject" class="wt-cli-element medium cli-plugin-button cli-plugin-main-button cookie_action_close_header_reject cli_action_button" data-cli_action="reject">Decline</a><a style="display:inline-block; background:#f4354c; border-radius:2px; text-align:center; font-size:12px; padding:5px 8px; margin-left:10px; float:right; border:solid 0px #fff; line-height:18px;" data-cli_action="accept" id="cookie_action_close_header" class="wt-cli-element medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button">Accept and Continue</a><a style="display:inline-block; background:#000; border-radius:2px; text-align:center; font-size:12px; padding:3px 6px; margin-left:10px; font-weight:normal; text-decoration:none; border:solid 1px #2c2b2b; line-height:18px;" class="wt-cli-element medium cli-plugin-button cli-plugin-main-button cli_settings_button">Settings</a></span></div></div><div id="cookie-law-info-again" style="display:none;"><span id="cookie_hdr_showagain">Privacy &amp; Cookies Policy</span></div><div class="cli-modal" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+    <div class="cli-modal-content cli-bar-popup">
+      <button type="button" class="cli-modal-close" id="cliModalClose">
+      <svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+      </button>
+      <div class="cli-modal-body">
+        <div class="wt-cli-element cli-container-fluid cli-tab-container">
+    <div class="cli-row">
+        <div class="cli-col-12 cli-align-items-stretch cli-px-0">
+            <div class="cli-privacy-overview">
+                                <h4>Cookie Overview</h4>
+                                       
+                <div class="cli-privacy-content">
+                    <p>We use cookies for a variety of reasons from providing authentication to measuring the performance of our website and products. We classify cookies in the following categories:</p>
+                </div>
+                <a class="cli-privacy-readmore" data-readmore-text="Show more" data-readless-text="Show less"></a>            </div>
+        </div>  
+        <div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+            <div class="cli-tab-section cli-privacy-tab">
+                <div class="cli-tab-header">
+                    <a class="cli-nav-link cli-settings-mobile">
+                        Cookie Overview                    </a>
+                </div>
+                <div class="cli-tab-content">
+                    <div class="cli-tab-pane cli-fade">
+                        <p>We use cookies for a variety of reasons from providing authentication to measuring the performance of our website and products. We classify cookies in the following categories:</p>
+                    </div>
+                </div>
+
             </div>
-</a>
-
-            <!-- Privacy (Rectangle) -->
-
-<a href="./privacy" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33182" class="ax_default subnav" data-label="Privacy">
-              <div id="u33182_div" class="" tabindex="0"></div>
-              <div id="u33182_text" class="text " style="left: 15px; width: 139px; transform-origin: 69.5px 7px 0px;">
-                <p><span>PRIVACY</span></p>
-              </div>
-            </div>
-</a>
-
-            <!-- Unnamed (Vertical Line) -->
-            <div id="u33183" class="ax_default line">
-              <img id="u33183_img" class="img " src="https://d2i72ju5buk5xz.cloudfront.net/gsc/GMDTUG/01/16/f2/0116f22ee0c042acaea35b98d06cced6/images/content_template/u681.png" tabindex="0">
-            </div>
-
-            <!-- License (Rectangle) -->
-
-<a href="./license" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33184" class="ax_default subnav" data-label="License">
-              <div id="u33184_div" class="" tabindex="0"></div>
-              <div id="u33184_text" class="text " style="left: 15px; width: 38px; transform-origin: 19px 7px 0px;">
-                <p><span>LICENSE AGREEMENT</span></p>
-              </div>
-            </div>
-</a>
-
-            <!-- Patents (Rectangle) -->
-
-<a href="./patent" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33185" class="ax_default subnav" data-label="Patents">
-              <div id="u33185_div" class="" tabindex="0"></div>
-              <div id="u33185_text" class="text " style="left: 15px; width: 65px; transform-origin: 32.5px 7px 0px;">
-                <p><span>PATENTS</span></p>
-              </div>
-            </div>
-</a>
-
-            <!-- GDPR (Rectangle) -->
-
-<a href="./gdpr" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33186" class="ax_default subnav" data-label="GDPR">
-              <div id="u33186_div" class="" tabindex="0"></div>
-              <div id="u33186_text" class="text " style="left: 15px; width: 103px; transform-origin: 51.5px 7px 0px;">
-                <p><span>GDPR</span></p>
-              </div>
-            </div>
-</a>
-
-            <!-- Security (Rectangle) -->
-
-<a href="./security" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33187" class="ax_default subnav" data-label="Security">
-              <div id="u33187_div" class=""></div>
-              <div id="u33187_text" class="text ">
-                <p><span>SECURITY</span></p>
-              </div>
-            </div>
-</a>
-
-            <!-- Cookie (Rectangle) -->
-
-<a href="./cookie-policy" class="basiclink" style="text-decoration: none; cursor: pointer;">            <div id="u33188" class="ax_default subnav" data-label="Cookie" style="z-index: 1001;">
-              <div id="u33188_div" class=""></div>
-              <div id="u33188_text" class="text ">
-                <p><span>COOKIE POLICY</span></p>
-              </div>
-            </div>
-</a>
-          </div>
+                            <div class="cli-tab-section">
+                <div class="cli-tab-header">
+                    <a class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+                        Necessary 
+                    </a>
+                                  
+                    <div class="wt-cli-necessary-checkbox">
+                        <input type="checkbox" class="cli-user-preference-checkbox" id="checkbox-necessary" data-id="checkbox-necessary" checked="">
+                        <label class="form-check-label" for="checkbox-necessary"> Necessary </label>
+                    </div>
+                    <span class="cli-necessary-caption">
+                        Always Enabled                    </span>                           
+                                </div>
+                <div class="cli-tab-content">
+                    <div class="cli-tab-pane cli-fade" data-id="necessary">
+                        <p>These cookies are essential to provide Axure products and services. For example, cookies are necessary to remember that you are logged in to Axure Cloud.</p>
+                    </div>
+                </div>
+                </div>
+                            <div class="cli-tab-section">
+                <div class="cli-tab-header">
+                    <a class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab">
+                        Analytics 
+                    </a>
+                                                <label class="cli-switch">
+                    <input type="checkbox" class="cli-user-preference-checkbox" data-id="checkbox-analytics" checked="">
+                    <span class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"></span>                           
+                </label>    
+                                </div>
+                <div class="cli-tab-content">
+                    <div class="cli-tab-pane cli-fade" data-id="analytics">
+                        <p>These cookies collect information on how visitors interact with the website and products. They allow us to measure and improve the performance and customer experience of our website and products. (The information these cookies collect is anonymous.) For example, we use Google Analytics cookies to help us understand how visitors navigate the website and look for ways to improve the experience.</p>
+                    </div>
+                </div>
+                </div>
+                       
         </div>
-      </div>
-
-      <!-- StickyGroup (Group) -->
-      <div id="u33189" class="ax_default ax_default_hidden" data-label="StickyGroup" style="display: none; visibility: hidden; z-index: 1002;" data-left="0" data-top="0" data-width="0" data-height="0">
-
-        <!-- HeaderPanel (Dynamic Panel) -->
-        <div id="u33190" class="ax_default" data-label="HeaderPanel" style="z-index: 1003;">
-          <div id="u33190_state0" class="panel_state" data-label="State1" style="">
-            <div id="u33190_state0_content" class="panel_state_content">
-            </div>
-          </div>
+        <div class="cli-col-12 cli-align-items-stretch cli-px-0">
+            <div class="cli-tab-footer">
+                                    <a class="cli_setting_save_button cli-btn">Save &amp; Accept</a>
+                            </div>
         </div>
-
-        <!-- HeaderUnderlinePanel (Dynamic Panel) -->
-        <div id="u33191" class="ax_default" data-label="HeaderUnderlinePanel">
-          <div id="u33191_state0" class="panel_state" data-label="State1" style="">
-            <div id="u33191_state0_content" class="panel_state_content">
-            </div>
-          </div>
-        </div>
-
-        <!-- StickySub (Dynamic Panel) -->
-        <div id="u33192" class="ax_default" data-label="StickySub">
-          <div id="u33192_state0" class="panel_state" data-label="State1" style="">
-            <div id="u33192_state0_content" class="panel_state_content">
-
-              <!-- Unnamed (Legal Sub Buttons) -->
-
-              <!-- Unnamed (Rectangle) -->
-              <div id="u33194" class="ax_default subnav_section">
-                <div id="u33194_div" class="" tabindex="0"></div>
-                <div id="u33194_text" class="text ">
-                  <p><span>LEGAL</span></p>
-                </div>
-              </div>
-
-              <!-- Terms (Rectangle) -->
-
-<a href="./terms" class="basiclink" style="text-decoration: none; cursor: pointer;">              <div id="u33195" class="ax_default subnav" data-label="Terms">
-                <div id="u33195_div" class=""></div>
-                <div id="u33195_text" class="text ">
-                  <p><span>TERMS</span></p>
-                </div>
-              </div>
-</a>
-
-              <!-- Privacy (Rectangle) -->
-
-<a href="./privacy" class="basiclink" style="text-decoration: none; cursor: pointer;">              <div id="u33196" class="ax_default subnav" data-label="Privacy">
-                <div id="u33196_div" class="" tabindex="0"></div>
-                <div id="u33196_text" class="text ">
-                  <p><span>PRIVACY</span></p>
-                </div>
-              </div>
-</a>
-
-              <!-- Unnamed (Vertical Line) -->
-              <div id="u33197" class="ax_default line">
-                <img id="u33197_img" class="img " src="https://d2i72ju5buk5xz.cloudfront.net/gsc/GMDTUG/01/16/f2/0116f22ee0c042acaea35b98d06cced6/images/content_template/u681.png" tabindex="0">
-              </div>
-
-              <!-- License (Rectangle) -->
-
-<a href="./license" class="basiclink" style="text-decoration: none; cursor: pointer;">              <div id="u33198" class="ax_default subnav" data-label="License">
-                <div id="u33198_div" class="" tabindex="0"></div>
-                <div id="u33198_text" class="text ">
-                  <p><span>LICENSE AGREEMENT</span></p>
-                </div>
-              </div>
-</a>
-
-              <!-- Patents (Rectangle) -->
-
-<a href="./patent" class="basiclink" style="text-decoration: none; cursor: pointer;">              <div id="u33199" class="ax_default subnav" data-label="Patents">
-                <div id="u33199_div" class="" tabindex="0"></div>
-                <div id="u33199_text" class="text ">
-                  <p><span>PATENTS</span></p>
-                </div>
-              </div>
-</a>
-
-              <!-- GDPR (Rectangle) -->
-
-<a href="./gdpr" class="basiclink" style="text-decoration: none; cursor: pointer;">              <div id="u33200" class="ax_default subnav" data-label="GDPR">
-                <div id="u33200_div" class="" tabindex="0"></div>
-                <div id="u33200_text" class="text ">
-                  <p><span>GDPR</span></p>
-                </div>
-              </div>
-</a>
-
-              <!-- Security (Rectangle) -->
-
-<a href="./security" class="basiclink" style="text-decoration: none; cursor: pointer;">              <div id="u33201" class="ax_default subnav" data-label="Security">
-                <div id="u33201_div" class=""></div>
-                <div id="u33201_text" class="text ">
-                  <p><span>SECURITY</span></p>
-                </div>
-              </div>
-</a>
-
-              <!-- Cookie (Rectangle) -->
-
-<a href="./cookie-policy" class="basiclink" style="text-decoration: none; cursor: pointer;">              <div id="u33202" class="ax_default subnav" data-label="Cookie">
-                <div id="u33202_div" class="" tabindex="0"></div>
-                <div id="u33202_text" class="text ">
-                  <p><span>COOKIE POLICY</span></p>
-                </div>
-              </div>
-</a>
-
-              <!-- Unnamed (Sub Download Buttons) -->
-
-              <!-- Unnamed (Rectangle) -->
-
-<a href="./download" class="basiclink" style="text-decoration: none; cursor: pointer;">              <div id="u33204" class="ax_default topnav_highlight">
-                <div id="u33204_div" class=""></div>
-                <div id="u33204_text" class="text ">
-                  <p><span>DOWNLOAD</span></p>
-                </div>
-              </div>
-</a>
-
-              <!-- Unnamed (Rectangle) -->
-
-<a href="./buy" class="basiclink" style="text-decoration: none; cursor: pointer;">              <div id="u33205" class="ax_default topnav_highlight">
-                <div id="u33205_div" class=""></div>
-                <div id="u33205_text" class="text ">
-                  <p><span>PURCHASE</span></p>
-                </div>
-              </div>
-</a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Page title (Rectangle) -->
-      <div id="u33206" class="ax_default heading_1" data-label="Page title">
-        <div id="u33206_div" class="" tabindex="0"></div>
-        <div id="u33206_text" class="text ">
-          <p><span>PRIVACY</span></p>
-        </div>
-      </div>
-
-      <!-- Unnamed (Rectangle) -->
-      <div id="u33207" class="ax_default p1">
-        <div id="u33207_div" class="" tabindex="0"></div>
-        <div id="u33207_text" class="text ">
-          <p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">At Axure Software Solutions, Inc. (referred to as “Axure”, “us” or “we”, and which includes our affiliated companies and subsidiaries), we respect your privacy. We have developed and provided this Privacy Policy to inform you (the “User”) of our practices and policies regarding the collection, use, maintenance, and disclosure of your personal data and information that is collected during your access to and use of any of the following (collectively, the “Services”): the www.axure.com website and any other Axure websites (“Website”), all Axure mobile applications including the Axure Share App (collectively, the “Axure Share Apps”), and any services, including the Axure Share cloud hosting solution (to the extent hosted by Axure) (“Axure Share”), the Axure Customer Portal and any downloadable Axure software, including the Axure RP software tool suite and any Axure Share software enabling the hosting by a customer (collectively, the “Software”) that may include a link to this policy.&nbsp; The applicable Axure Software License Agreement (located at www.axure.com/license) otherwise governs your use of all Axure Software. </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">&nbsp;</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">We are committed to providing you with the information you need to make an informed decision whether to visit our web site, or use any of the other Services, and whether you wish to voluntarily provide any personal data or information. If you have any questions about this Privacy Policy, we encourage you to please email us at </span><a id="u33208" href="mailto:contactus@axure.com" class="basiclink" style="text-decoration:none; cursor:pointer;" tabindex="0"><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;color:#009DDA;">contactus@axure.com</span></a><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"> (remove spaces).</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">WE ENCOURAGE YOU TO READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING AND/OR USING THE AXURE WEBSITE OR ANY SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND THE AXURE TERMS OF SERVICE. IF YOU DO NOT AGREE TO THESE TERMS, PLEASE EXIT THIS PAGE AND DO NOT ACCESS OR USE ANY OF THE SERVICES.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">1.&nbsp; &nbsp;&nbsp; What Types of Information Does Axure Collect?</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">We collect two types of information about Users of our Website and the other Services: Personally Identifiable Information and Non-Personally Identifiable Information. </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">“Personally Identifiable Information” or “PII” is information that identifies a specific User. When you voluntarily engage in certain activities on the Website or using the other Services or the Software such as creating an account, purchasing or ordering a service or product, installing or activating Software, using the Software to access or use a Service, submitting information about yourself, submitting, posting and/or publishing prototypes or other content to the Services including via the Software, completing a survey, sending feedback, communicating with us via third party social media sites, requesting information or support, signing up for special offers or applying for a job, you may provide or be asked to provide certain information about yourself.&nbsp; In doing so, you may provide us with certain personal information about yourself, such as your full name, mailing address, email address, telephone numbers, passwords, password hints, age, gender, geographic location, etc. If you decide to order products or services from us, you may also be required to provide us with payment information such as your credit card number, expiration date and verification codes or related information. If some of the information requested is required to be provided to engage in the activity, and you do not wish to provide that information, then you will not be permitted to engage in that activity.&nbsp; In certain cases, Non-PII may be correlated to a particular User (as discussed below) in which such information would be treated as PII.&nbsp; </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">In some cases another user (such as a system administrator) may create an account on your behalf and may provide your information, including PII (most commonly when your company requests that you use our products). We collect PII information under the direction of our customers and often have no direct relationship with the individuals whose personal data we process. If you are an employee of one of our customers and would no longer like us to process your information, please contact your employer.&nbsp; </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">Axure also uses certain “Service Providers” who will receive PII in connection with the provision of services to Axure- the “Service Providers” are third party providers of goods or services to us and who may perform functions on our behalf, like providing cloud services, providing analytics services, collecting payments, managing forums and blogs and sending emails and other communications.&nbsp; These Service Providers may also collect and receive certain of the PII described above in connection with their provisions of such services but may not use PII for their own purposes.&nbsp; </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">Axure may obtain PII from third parties and combine that with information we collect through the Services. For example, we may have access to certain PII from a third party social media or authentication service if you log into our Services or that service or otherwise provide us with access to information from that service, including when we offer media features such as the Twitter “tweet” button. Any access that we may have to such PII from a third party social or authentication service is in accordance with the authorization procedures determined by that service. By authorizing us to connect with a third party service, you authorize us to access, use and share your PII. You should check your privacy settings on these third party services to understand and change the information sent to us through these services.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">“Non-Personally Identifiable Information” or “Non-PII” is information that does not identify a specific User. This type of information may include things like the identity of the websites you visit before and after coming to our Website, the Software (and features) that you are using and other software and hardware used, your Internet Protocol (“IP”) address, your country or geography, and aggregate purchase data.&nbsp; </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">When Users install, activate and/or use the Software, a feature sends information about the technical operation and the licensing of the Software and information about the User’s operating system and other software and hardware, and it communicates with Axure servers for license authentication and technical issue identification and resolution purposes, as well as to check for updates, patches, and compatibility.&nbsp; All of the foregoing described information collected does not in and of itself identify a particular User but may be combined with other information to possibly correlate to determine a User’s identity; if the information is so correlated and does actually identify a User as a result, then the information would thereafter be considered as PII.&nbsp; </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">Axure and our Service Providers may also automatically collect Non-PII through the use of electronic tools like Cookies and Web beacons or Pixel tags, discussed below.&nbsp; For example, we currently use Google Analytics as an analytics provider. To learn more about the privacy policy of Google Analytics, refer to Google's </span><a id="u33209" href="https://www.google.com/policies/" class="basiclink" style="text-decoration:none; cursor:pointer;"><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;color:#009DDA;">“Policies and Principles”</span></a><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">. Use the Google Analytics Opt-out Browser Add-on to prevent analytics information from being sent to Google Analytics.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">2.&nbsp; &nbsp;&nbsp; How Does Axure Use the Information it Collects?</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">We use PII to provide products and services to you, improve our marketing and promotional efforts, analyze and enhance Website and other Services operation and use, improve product and service offerings, and to otherwise tailor your experience. We may also use PII to contact you, troubleshoot issues, provide marketing and promotional information, enable you to communicate, collaborate and share content, process and complete transactions, resolve disputes, accomplish administrative tasks, enforce our agreements with you (including our Website Terms of Service, software licenses and this Privacy Policy), investigate and prevent unauthorized access to Services or Software, fraudulent transactions, and other illegal activities, comply with applicable laws, and cooperate with law enforcement activities. </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">We use Non-PII to troubleshoot issues, administer and enhance the Website and other Services, analyze usage of our Software, the Website and other Services, gather demographic and other User information, investigate and prevent unauthorized access to Services, fraudulent transactions, and other illegal activities, comply with applicable law, and cooperate with law enforcement activities. We may also post or otherwise publicly disclose Non-PII on the Website or in publicly-available materials for promotional and marketing purposes.&nbsp; </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">3.&nbsp; &nbsp;&nbsp; How Does Axure Share PII and Non-PII?</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">We will not share your PII with other parties except as provided below: </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">We may share PII with Service Providers.</span><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"> We provide certain Services and Software through Service Providers. We may share your PII with such Service Providers to fulfill orders, deliver packages, send postal or email, administer contests or sweepstakes, manage customer lists, analyze data, provide marketing assistance, process credit card and other payments, operate the Website, troubleshoot, and provide customer service. We will also share your information with Service Providers to accomplish our administrative tasks. For example, when you order Software, your credit card information may be provided to a Service Provider to accept payment for the Software and, if applicable, your address is provided to the delivery service to facilitate delivery. We seek Service Providers who adopt and post privacy policies. However, the use of your PII by such parties is governed by the privacy policies of such parties and is not subject to our control. </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">We may share PII and Non-PII Upon a Merger, Sale, or Bankruptcy.</span><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"> In the event that Axure is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign PII and Non-PII we have collected from our Users as part of such merger, acquisition, sale, or other change of control.&nbsp; Any PII transferred would remain subject to this Privacy Policy.&nbsp; In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">We may share PII and Non-PII to comply with law or for protection of others.</span><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"> We may release PII and/or Non-PII if required to do so by law, or in the good faith belief that such action is necessary to comply with state and federal laws or respond to a court order, subpoena, or search warrant.&nbsp; We also reserve the right to disclose PII and/or Non-PII that we believe, in good faith, is appropriate or necessary to enforce our Terms of Service and our Tools and other software licenses, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of Website and other Services, and to protect the rights, property, or personal safety of Axure, our Users or others. </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">We may share Non-PII with Partners and Service Providers.</span><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"> We may disclose or share Non-PII with marketing or promotional partners (“Partners”).&nbsp; We may also have Service Providers use Non-PII to track and analyze usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes.&nbsp; This information is only general aggregated information relating to the activities of our Users.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">We may publicly share Non-PII.</span><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"> We may disclose or share Non-PII on the Website or in other publicly-available materials for promotional and marketing purposes.&nbsp; For example, we may publicly post Service or Website usage statistics on the Website periodically.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">4.&nbsp; &nbsp;&nbsp; How Do I Update My Information and Limit Information Sharing?</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">At any time and for any reason, you have the ability to access and edit the PII you provide us. You may change any of your PII by sending us an email at contactus [at] Axure.com (remove spaces) or writing to us at 707 Broadway, Suite 1600, San Diego, CA 92101. Please provide your full contact information, and what information you would like to update when you contact us. </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">You should promptly update your PII whenever it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, it may be impossible for us to completely delete all of your information because we periodically backup and archive information.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">You have the right to understand the following information as to any sharing of your PII with third party Partners for purposes of marketing products and services not offered or provided by Axure: the categories of PII we collect and Partners with whom we share that information; the names and addresses of those Partners; and identification of the types of products and services marketed by those Partners.&nbsp; Please send us a written request and we will promptly respond.&nbsp; </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">5.&nbsp; &nbsp;&nbsp; Your California Privacy Rights</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">California Civil Code Section 1798.83 permits Users who are a California resident to request and obtain from Axure once a year, free of charge, information about the PII Axure discloses to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of PII that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you do not want your name and contact information to be shared with any company or organization, you may notify us at any time by writing to us at the email and or regular mail address below.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">6.&nbsp; &nbsp;&nbsp; What Are My Choices As To Collection and Use of Information?</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">As discussed above, you can always choose not to voluntarily provide information, although it may be required to engage in a certain activity on the Website or use of certain other Services, and you may limit our sharing of your PII with Partners for their marketing purposes.&nbsp; You also have the right to edit the PII you provide us. </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">As a condition of use of certain of our Services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. “Administrative Emails” relate to a User’s activity on the Website or other Services, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products or Services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at contactus [at] Axure.com (remove spaces), by writing to us at the address contained herein, or by hitting the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive. </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">7.&nbsp; &nbsp;&nbsp; What About Information Security?</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">Axure uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of PII and Non-PII. We cannot, however, ensure or warrant the security of any information transmitted to Axure and you do so at your own risk. Once we receive a transmission of information, Axure makes commercially reasonable efforts to ensure the security of our systems. However, please note this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">If Axure learns of a security systems breach, then Axure may attempt to notify you electronically so that you can take appropriate protective steps. Axure may post a notice on the Website or via the other Services if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us via email. </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">8.&nbsp; &nbsp;&nbsp; Does Axure Track Other Data?</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">To facilitate and customize your experience with the Website and other Services, we store cookies on your computer. A cookie is a small text file that is stored on a User’s computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-PII from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website may not work properly.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">We may use other industry standard technologies like pixel tags and web beacons to track your use of our Website pages, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our performance. We may also utilize pixel tags and web beacons provided by our Partners for the same purposes.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">9.&nbsp; &nbsp;&nbsp; What About Third Party Websites?</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">This Privacy Policy only addresses the use and disclosure of information we collect from you. Other websites that may be accessible through the Website or other Services have their own privacy policies and data collection, use and disclosure practices. If you visit any such website by a link from the Website or other Services, we urge you review the website’s privacy policy. We are not responsible for the policies or practices of third parties. </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">10.&nbsp; &nbsp;&nbsp; Are There Other Privacy Issues I Should Know About?</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">We may provide areas on our Website and through other Services where you can publicly post information about yourself, can communicate with others, publish prototypes, submit content, etc. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address in a published prototype, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">Minors under the age of 18 may not use the Website or other Services. We do not collect or maintain information from anyone known to be under the age of 18, and no part of the Website or other Services are designed to attract anyone under the age of 18. Axure does not offer products or Services for access or use by children. If you are under 18, you may use the Services only with the involvement of a parent or guardian.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">If you are a User accessing the Website and our other Services from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, please be advised that through your continued use of the Website and other Services, which are governed by U.S. law, this Privacy Notice, and our Terms of Service, you are transferring your personal information to the United States and you consent to that transfer.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">11.&nbsp; &nbsp;&nbsp; Will There Be Changes to the Privacy Policy?</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">This Privacy Policy may be revised periodically and this will be reflected by the date specified below. Please revisit this page to stay aware of any changes since the revised Privacy Policy is effective immediately when posted on the Website. In general, we only use PII in the manner described in the Privacy Policy in effect when we received the PII you provided. Your continued use of the Website or our other Services constitutes your agreement to this Privacy Policy and any future revisions.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">This Axure Privacy Policy (Version 2.0) was last modified on and effective as of April 14, 2016.</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">12.&nbsp; &nbsp;&nbsp; How Do I Contact Axure?</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">We value hearing from you and will do our best to respond in a timely manner to all inquiries.&nbsp; </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'proxima_novabold', 'ProximaNova-Bold', 'proxima nova', 'Helvetica', 'Arial';font-weight:normal;font-style:normal;">Corporate Address</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">Axure Software Solutions, Inc. </span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">707 Broadway, Suite 1600</span></p><p><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;">San Diego, CA 92101</span></p><p><a id="u33210" href="mailto:contactus@axure.com" class="basiclink" style="text-decoration:none; cursor:pointer;"><span style="font-family:'proxima_novaregular', 'proxima nova', 'Helvetica', 'Arial';font-weight:400;color:#009DDA;">contactus@axure.com</span></a></p>
-        </div>
-      </div>
-
-      <!-- spacer (Hot Spot) -->
-      <div id="u33211" class="ax_default" data-label="spacer">
-      </div>
-
-      <!-- Unnamed (Horizontal Line) -->
-      <div id="u33212" class="ax_default line">
-        <img id="u33212_img" class="img " src="https://d2i72ju5buk5xz.cloudfront.net/gsc/GMDTUG/01/16/f2/0116f22ee0c042acaea35b98d06cced6/images/release_history___axure/u2850.png">
+    </div> 
+</div> 
       </div>
     </div>
-  
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+</div>
+<script type="text/javascript">
+  /* <![CDATA[ */
+    cli_cookiebar_settings='{"animate_speed_hide":"500","animate_speed_show":"500","background":"rgb(0, 0, 0)","border":"#b1a6a6c2","border_on":false,"button_1_button_colour":"rgb(244, 53, 76)","button_1_button_hover":"rgb(244, 53, 76)","button_1_link_colour":"#fff","button_1_as_button":true,"button_1_new_win":false,"button_2_button_colour":"rgba(0, 0, 0, 0)","button_2_button_hover":"rgba(0, 0, 0, 0)","button_2_link_colour":"#fff","button_2_as_button":false,"button_2_hidebar":true,"button_2_nofollow":false,"button_3_button_colour":"rgb(44, 43, 43)","button_3_button_hover":"rgb(44, 43, 43)","button_3_link_colour":"#fff","button_3_as_button":true,"button_3_new_win":false,"button_4_button_colour":"rgb(0, 0, 0)","button_4_button_hover":"rgb(0, 0, 0)","button_4_link_colour":"#fff","button_4_as_button":true,"font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"accept_close_reload":true,"reject_close_reload":true,"showagain_tab":false,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#fff","show_once_yn":false,"show_once":"10000","logging_on":true,"as_popup":false,"popup_overlay":true,"bar_heading_text":"","cookie_bar_as":"banner","cookie_setting_popup":true,"accept_all":true,"js_script_blocker":false,"popup_showagain_position":"bottom-right","widget_position":"left","button_1_style":{"0":["display","inline-block"],"1":["background","#f4354c"],"2":["border-radius","2px"],"4":["text-align","center"],"5":["font-size","12px"],"6":["padding","5px 8px"],"7":["margin-left","10px"],"8":["float","right"],"9":["border","solid 0px #fff"],"10":["line-height","18px"]},"button_2_style":{"0":["display","inline-block"],"1":["background","none"],"2":["border-radius","2px"],"4":["text-align","center"],"5":["font-size","12px"],"6":["padding","5px 8px"],"7":["margin-left","0px"],"8":["font-weight","normal"],"9":["text-decoration","underline"],"10":["border","solid 0px #fff"],"11":["line-height","18px"]},"button_3_style":{"0":["display","inline-block"],"1":["background","#2c2b2b"],"2":["border-radius","2px"],"4":["text-align","center"],"5":["font-size","12px"],"6":["padding","5px 8px"],"7":["margin-left","10px"],"8":["float","right"],"9":["border","solid 0px #fff"],"10":["line-height","18px"]},"button_4_style":{"0":["display","inline-block"],"1":["background","#000"],"2":["border-radius","2px"],"4":["text-align","center"],"5":["font-size","12px"],"6":["padding","3px 6px"],"7":["margin-left","10px"],"8":["font-weight","normal"],"9":["text-decoration","none"],"10":["border","solid 1px #2c2b2b"],"11":["line-height","18px"]},"button_5_style":{"0":["display","inline-block"],"1":["background","none"],"2":["border-radius","20px"],"3":["border","solid 1px #000"],"4":["color","#000"],"5":["text-align","center"],"6":["font-size","12px"],"7":["width","22px"],"8":["height","22px"],"9":["line-height","22px"],"10":["margin-right","-15px"],"11":["margin-top","-15px"],"12":["float","right"],"13":["cursor","pointer"],"15":["background-color","rgba(0, 0, 0, 0)"]}}';
+  /* ]]> */
+</script><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NLTMB3C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><link rel="stylesheet" id="dashicons-css" href="https://www.axure.com/wp-includes/css/dashicons.min.css?ver=5.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="nf-display-css" href="https://www.axure.com/wp-content/plugins/ninja-forms/assets/css/display-structure.css?ver=5.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="nf-layout-front-end-css" href="https://www.axure.com/wp-content/plugins/ninja-forms-style/layouts/assets/css/display-structure.css?ver=3.0.26" type="text/css" media="all">
+<script type="text/javascript" src="https://www.axure.com/wp-content/themes/axure/html/src/public/js/libraries.js?ver=f10d1368"></script>
+<script type="text/javascript" src="https://www.axure.com/wp-content/themes/axure/html/src/public/js/script.js?ver=f10d1368"></script>
+<script type="text/javascript" src="https://www.axure.com/wp-content/themes/axure/js/navigation.js?ver=f10d1368"></script>
+<script type="text/javascript" src="https://www.axure.com/wp-content/themes/axure/js/skip-link-focus-fix.js?ver=f10d1368"></script>
+<script type="text/javascript" src="https://www.axure.com/wp-includes/js/wp-embed.min.js?ver=5.2.3"></script>
+<script type="text/javascript" src="https://www.axure.com/wp-includes/js/underscore.min.js?ver=1.8.3"></script>
+<script type="text/javascript" src="https://www.axure.com/wp-includes/js/backbone.min.js?ver=1.2.3"></script>
+<script type="text/javascript" src="https://www.axure.com/wp-content/plugins/ninja-forms/assets/js/min/front-end-deps.js?ver=3.4.21"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","formHoneypot":"If you are a human seeing this field, please leave it empty.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","thousands_sep":",","decimal_point":".","siteLocale":"en_US","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"]};
+var nfFrontEnd = {"adminAjax":"https:\/\/www.axure.com\/wp-admin\/admin-ajax.php","ajaxNonce":"a94a98f565","requireBaseUrl":"https:\/\/www.axure.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","mailchimp-optin":"mailchimp-optin","file_upload":"file_upload"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","mailchimp-optin":"mailchimp-optin","file_upload":"file_upload"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","mailchimp-optin":"mailchimp-optin","file_upload":"file_upload"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","mailchimp-optin":"mailchimp-optin","file_upload":"file_upload"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.axure.com/wp-content/plugins/ninja-forms/assets/js/min/front-end.js?ver=3.4.21"></script>
+<script type="text/javascript" src="https://www.axure.com/wp-content/plugins/ninja-forms-style/layouts/assets/js/min/front-end.js?ver=3.0.26"></script>
+<script id="tmpl-nf-layout" type="text/template">
+	<span id="nf-form-title-{{{ data.id }}}" class="nf-form-title">
+		{{{ ( 1 == data.settings.show_title ) ? '<h3>' + data.settings.title + '</h3>' : '' }}}
+	</span>
+	<div class="nf-form-wrap ninja-forms-form-wrap">
+		<div class="nf-response-msg"></div>
+		<div class="nf-debug-msg"></div>
+		<div class="nf-before-form"></div>
+		<div class="nf-form-layout"></div>
+		<div class="nf-after-form"></div>
+	</div>
+</script>
 
-</body></html>
+<script id="tmpl-nf-empty" type="text/template">
+
+</script>
+<script id="tmpl-nf-before-form" type="text/template">
+	{{{ data.beforeForm }}}
+</script><script id="tmpl-nf-after-form" type="text/template">
+	{{{ data.afterForm }}}
+</script><script id="tmpl-nf-before-fields" type="text/template">
+    <div class="nf-form-fields-required">{{{ data.renderFieldsMarkedRequired() }}}</div>
+    {{{ data.beforeFields }}}
+</script><script id="tmpl-nf-after-fields" type="text/template">
+    {{{ data.afterFields }}}
+    <div id="nf-form-errors-{{{ data.id }}}" class="nf-form-errors" role="alert"></div>
+    <div class="nf-form-hp"></div>
+</script>
+<script id="tmpl-nf-before-field" type="text/template">
+    {{{ data.beforeField }}}
+</script><script id="tmpl-nf-after-field" type="text/template">
+    {{{ data.afterField }}}
+</script><script id="tmpl-nf-form-layout" type="text/template">
+	<form>
+		<div>
+			<div class="nf-before-form-content"></div>
+			<div class="nf-form-content {{{ data.element_class }}}"></div>
+			<div class="nf-after-form-content"></div>
+		</div>
+	</form>
+</script><script id="tmpl-nf-form-hp" type="text/template">
+	<label for="nf-field-hp-{{{ data.id }}}" aria-hidden="true">
+		{{{ nfi18n.formHoneypot }}}
+		<input id="nf-field-hp-{{{ data.id }}}" name="nf-field-hp" class="nf-element nf-field-hp" type="text" value=""/>
+	</label>
+</script>
+<script id="tmpl-nf-field-layout" type="text/template">
+    <div id="nf-field-{{{ data.id }}}-container" class="nf-field-container {{{ data.type }}}-container {{{ data.renderContainerClass() }}}">
+        <div class="nf-before-field"></div>
+        <div class="nf-field"></div>
+        <div class="nf-after-field"></div>
+    </div>
+</script>
+<script id="tmpl-nf-field-before" type="text/template">
+    {{{ data.beforeField }}}
+</script><script id="tmpl-nf-field-after" type="text/template">
+    <#
+    /*
+     * Render our input limit section if that setting exists.
+     */
+    #>
+    <div class="nf-input-limit"></div>
+    <#
+    /*
+     * Render our error section if we have an error.
+     */
+    #>
+    <div id="nf-error-{{{ data.id }}}" class="nf-error-wrap nf-error" role="alert"></div>
+    <#
+    /*
+     * Render any custom HTML after our field.
+     */
+    #>
+    {{{ data.afterField }}}
+</script>
+<script id="tmpl-nf-field-wrap" type="text/template">
+	<div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
+		<#
+		/*
+		 * This is our main field template. It's called for every field type.
+		 * Note that must have ONE top-level, wrapping element. i.e. a div/span/etc that wraps all of the template.
+		 */
+        #>
+		<#
+		/*
+		 * Render our label.
+		 */
+        #>
+		{{{ data.renderLabel() }}}
+		<#
+		/*
+		 * Render our field element. Uses the template for the field being rendered.
+		 */
+        #>
+		<div class="nf-field-element">{{{ data.renderElement() }}}</div>
+		<#
+		/*
+		 * Render our Description Text.
+		 */
+        #>
+		{{{ data.renderDescText() }}}
+	</div>
+</script>
+<script id="tmpl-nf-field-wrap-no-label" type="text/template">
+    <div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
+        <div class="nf-field-label"></div>
+        <div class="nf-field-element">{{{ data.renderElement() }}}</div>
+        <div class="nf-error-wrap"></div>
+    </div>
+</script>
+<script id="tmpl-nf-field-wrap-no-container" type="text/template">
+
+        {{{ data.renderElement() }}}
+
+        <div class="nf-error-wrap"></div>
+</script>
+<script id="tmpl-nf-field-label" type="text/template">
+	<div class="nf-field-label"><label for="nf-field-{{{ data.id }}}"
+	                                   id="nf-label-field-{{{ data.id }}}"
+	                                   class="{{{ data.renderLabelClasses() }}}">{{{ data.label }}} {{{ ( 'undefined' != typeof data.required && 1 == data.required ) ? '<span class="ninja-forms-req-symbol">*</span>' : '' }}} {{{ data.maybeRenderHelp() }}}</label></div>
+</script>
+<script id="tmpl-nf-field-error" type="text/template">
+	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
+</script><script id="tmpl-nf-form-error" type="text/template">
+	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
+</script><script id="tmpl-nf-field-input-limit" type="text/template">
+    {{{ data.currentCount() }}} {{{ nfi18n.of }}} {{{ data.input_limit }}} {{{ data.input_limit_msg }}}
+</script><script id="tmpl-nf-field-null" type="text/template">
+</script><script id="tmpl-nf-field-email" type="text/template">
+	<input
+			type="email"
+			value="{{{ data.value }}}"
+			class="{{{ data.renderClasses() }}} nf-element"
+
+			id="nf-field-{{{ data.id }}}"
+			<# if( ! data.disable_browser_autocompletes ){ #>
+			name="{{ data.custom_name_attribute || 'nf-field-' + data.id + '-' + data.type }}"
+			autocomplete="email"
+			<# } else { #>
+			name="{{ data.custom_name_attribute || 'nf-field-' + data.id }}"
+			{{{ data.maybeDisableAutocomplete() }}}
+			<# } #>
+			{{{ data.renderPlaceholder() }}}
+			{{{ data.maybeDisabled() }}}
+
+			aria-invalid="false"
+			aria-describedby="nf-error-{{{ data.id }}}"
+			aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+			{{{ data.maybeRequired() }}}
+	>
+</script>
+<script id="tmpl-nf-field-input" type="text/template">
+    <input id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" aria-invalid="false" aria-describedby="nf-error-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element" type="text" value="{{{ data.value }}}" {{{ data.renderPlaceholder() }}} {{{ data.maybeDisabled() }}}
+           aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+            {{{ data.maybeRequired() }}}
+    >
+</script>
+<script id="tmpl-nf-field-submit" type="text/template">
+	<input id="nf-field-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element " type="button" value="{{{ data.label }}}" {{{ ( data.disabled ) ? 'disabled' : '' }}}>
+</script><script id="tmpl-nf-field-button" type="text/template">
+    <button id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" class="{{{ data.classes }}} nf-element">
+        {{{ data.label }}}
+    </button>
+</script>
+
+
+
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: www.axure.com @ 2019-12-25 11:18:45 by W3 Total Cache
+--></body></html>
