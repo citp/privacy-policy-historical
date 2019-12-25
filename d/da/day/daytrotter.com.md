@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the daytrotter.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223155id_/https%3A//www.pastemagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytrotter.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225224046id_/https%3A//www.pastemagazine.com/privacy) for the most accurate reproduction.*
 
-# Privacy and Security :: Paste
+# Privacy - Paste
 
 **Privacy and Security**
 
-Paste Magazine helps our readers to discover what's happening in Pop Culture, Politics and more. We are committed to protecting your personal security and privacy, and we appreciate your trust that we will uphold this commitment. 
+(Last Updated on December 13, 2019) 
+
+Paste Magazine helps our readers to discover what's happening in Pop Culture, Music, Politics and more. We are committed to protecting your personal security and privacy, and we appreciate your trust that we will uphold this commitment. 
 
 This Privacy Policy applies to all websites and web applications ("Sites") which link to this policy and are published by Paste. 
 
@@ -12,7 +14,7 @@ If you have any questions about how we use your personal information, please con
 
 **Information we collect**
 
-1) Across our Sites you will be presented with the opportunity to sign up for our **Newsletters**. For this we collect your email address. 
+1) Across our Sites you will be presented with the opportunity to sign up for our **Newsletters**. For this we collect your email address. In our [NoiseTrade](https://web.archive.org/noisetrade/music/) section in exchange for your email address we enable you to download music and digital books for free. 
 
 If you would like to unsubscribe from our communications at any time, you may do so in the footer of any of our emails. If you would like us to delete your information entirely, or request the information we store about you, please send us an email at [privacy@paste.com](mailto:privacy@paste.com). Otherwise, by continuing to interact with our emails, you provide us with permission to manage and use your data as described above. 
 
@@ -34,6 +36,10 @@ More information about this practice and your choices about not having this info
 
 **To communicate with you via our newsletters** \- We want you to get the most out of our Sites. To do so we offer a Newsletter with carefully-curated articles and feature announcements. You are able to change your newsletter preferences through the footer of any of our emails. 
 
+**To enable you to stream and download content in our NoiseTrade section** \- By providing your e-mail address to us, you agree that we may contact you by e-mail regarding the music or other materials you have accessed from our Site, and that we may forward your e-mail to artists and authors whose content you have accessed. If you do not wish to receive such e-mails you will have the ability to opt-out. 
+
+**To process Tips to artists in our NoiseTrade section** \- If you wish to give a monetary tip to an artist or author in our NoiseTrade section you can do so. We use your information here for payment and refund processing. 
+
 **To improve our Sites** \- we use cookies to understand how our customers use our Sites and interact with our communications and journalism. For example, we use technology on our Sites, which records user movements, which pages are most popular, and how navigation options are used. This helps us to identify usability issues and improve the assistance we can provide to users and is also used for aggregated and statistical reporting purposes. We also use cookies to understand what type of device you are using to show you the best version of the site. 
 
 **Who we share your personal information with**
@@ -41,6 +47,8 @@ More information about this practice and your choices about not having this info
 We disclose personal information to our advertising partners, through cookies to collect personal information and serve you with advertisements that we believe are relevant to you and your interests. 
 
 We disclose your email address to a service provider we engage to manage our newsletter delivery. We do not rent or sell our email lists to anyone. 
+
+If you sign up for our NoiseTrade service, we forward your email address to each artist and author whose music and ebooks you enjoy, enabling them to connect directly with you and nurture an ongoing relationship. These artists and authors have all committed to the same privacy and communications preferences that we do. 
 
 We have contracts in place with all advertising partners and service providers. They can only use your personal information under our instruction. 
 
@@ -50,7 +58,7 @@ If you wish to manage your cookies, then please follow the instructions below. P
 
 We use Google Analytics as our primary analytics tool. If you wish to opt out of having cookies placed on your device for Google Analytics you can do so by using [Google's opt-out browser add-on](https://tools.google.com/dlpage/gaoptout), which helps make opting out easy and convenient. 
 
-On some of our Sites, we work with the Google ad platform. You can opt out of behaviourally targeted advertising through Google at [www.google.com/settings/ads](http://www.google.com/settings/ads)[]()
+On some of our Sites, we work with the Google ad platform. You can opt out of behaviourally targeted advertising through Google at [www.google.com/settings/ads](http://www.google.com/settings/ads)
 
 We also allow other third parties to target you based on data you have provided to them, to the extent that you have consented to this. For more information, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
@@ -80,4 +88,4 @@ All communications with our Sites, including submission of your email address fo
 
 **Contact Us regarding your privacy**
 
-If you have any questions or concerns about any aspect of this Privacy Policy, please [email us at privacy@paste.com](mailto:privacy@paste.com).
+If you have any questions or concerns about any aspect of this Privacy Policy, please [email us at privacy@paste.com](mailto:privacy@paste.com). 
