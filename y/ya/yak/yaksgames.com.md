@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yaksgames.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419130043id_/https%3A//yaksgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaksgames.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225053533id_/https%3A//yaksgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - YaksGames.com
 
