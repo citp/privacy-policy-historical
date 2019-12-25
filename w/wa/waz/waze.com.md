@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the waze.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526192749id_/https%3A//www.waze.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waze.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225050909id_/https%3A//www.waze.com/legal/privacy) for the most accurate reproduction.*
 
-# Free Driving Directions, Traffic Reports & GPS Navigation App by Waze
+# Driving Directions, Traffic Reports & Carpool Rideshares by Waze
 
 Waze Mobile Limited respects your privacy. Waze Mobile Limited and its affiliates (“Waze” or the “Company”) offer mapping, GPS navigation, community based services and Carpool services to users of [www.waze.com](https://web.archive.org/) (the “Website”) and/or users of Waze’s mobile applications (the “Application”) (collectively referred to as the “Services”). When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
 
@@ -11,6 +11,7 @@ This Privacy Policy is meant to help you understand what information we collect,
   * Why Waze collects data
   * Sharing your information
   * Visibility
+  * Waze Carpool Profile
   * Integration with social networks
   * Integration with other third party services
   * Controlling your personal information
@@ -218,9 +219,23 @@ Waze will not share your personal information with others, without your permissi
 
 
 
+We may share information which does not personally identify you with third party transportation services. For example, to allow you to find a carpool rider on third party transportation services, such as Moovit, we may share a temporary unique identifier along with pick-up and drop-off points that are generated based on proximity to your intended travel itinerary, with those third party transportation services.
+
+Waze Carpool partners with employers, organizations and governmental entities in order to encourage the use of carpooling. If you have joined a Carpool group which is promoted by a partner or any other third party, your carpool profile (or other information you have chosen to share) may be visible to other members of the group, including representatives of the partner or third party who may also be part of the group.
+
 Please note that your username and some other information will be visible to others. Note that your username will be included along with any information you submit for posting (such as traffic reports or chat messages). It will therefore be visible to others. Also - your friends on Waze will see your name & profile photo and any other information you chose to share with them.
 
 If you prefer to remain invisible on the Waze map, you can set the Waze Application not to show your location on the map. To do so you should go to the Privacy Settings and adjust accordingly by switching on to Invisible Mode. If on, **some features may not be available**. If you make this choice, while you will be ‘invisible’ on the map to other users, your location and route information will continue to be collected by Waze for the purposes listed in this Privacy Policy and your Carpool profile (if you choose to set one) may be visible to other Waze’s users.
+
+Waze Carpool is uniquely designed to help drivers and riders find a mutual ride that fits them. If you have opted-in to use the Waze Carpool feature, you will be required to create a unique profile.
+
+Your Waze Carpool profile includes your name, photo, number of completed rides and carpooled km, the date you joined the services, information that you have chosen to share from your social account, your carpool rating and endorsements you have received, and any other information you shared about yourself (for example your car details or any other information as part of “My Preferences” settings). You can edit some of this information through the in-app settings or through your social account (in case you have chosen to share the information from your social account).
+
+A complete Carpool profile is important so that riders or drivers can learn more about you, and vice versa. Your profile is therefore public to other Waze users and may be shared through our services. If you have joined the Carpool Groups feature, your Carpool profile will be visible to other group members, including your co-workers or employer in case of work related groups.
+
+If you choose to verify your work or university’s email address, your work or university will be listed publicly on your profile as well (but your email address will stay private).
+
+Note: your home and work addresses are not listed publicly on your profile, but rather only be saved on your Waze account. However, in certain circumstances, your pickup/drop-off spots may be your home or work address if for example you share a similar route with your driver or rider.
 
 You may choose to share information between your Waze account and your social network account (such as Facebook). Through this option, you may choose to have personal information and other content about you available from social networks, transmitted and shared through the Services. Similarly, you may choose to have personal information and other content about you available from Waze, including your location and route information, transmitted to and shared through your social network account.
 
@@ -370,6 +385,6 @@ Other changes will take effect 7 days after their initial posting on the Website
 
 You agree to be bound by any of the changes made in the terms of this Privacy Policy. Continuing to use the Services will indicate your acceptance of the amended terms. If you do not agree with any of the amended terms, you must avoid any further use of the Services.
 
-**Last modified: 25 May 2018**
+**Last modified: 3 December 2019**
 
 **The Company has registered a database with the Israeli Database Registrar**
