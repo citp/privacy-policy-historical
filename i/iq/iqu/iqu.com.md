@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iqu.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418195709id_/https%3A//iqu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqu.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225193521id_/https%3A//iqu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iQU
 
