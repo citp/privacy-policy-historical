@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navyfederal.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221849id_/https%3A//www.navyfederal.org/privacy/online.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navyfederal.org privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225225548id_/https%3A//www.navyfederal.org/privacy/online.php) for the most accurate reproduction.*
 
 # Navy Federal Online Privacy Policy | Navy Federal Credit Union
 
