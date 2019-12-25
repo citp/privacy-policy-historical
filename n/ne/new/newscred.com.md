@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscred.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623130900id_/https%3A//www.newscred.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscred.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225061550id_/https%3A//www.newscred.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - NewsCred
 
@@ -74,7 +74,7 @@ Our site uses the following types of cookies for the purposes set out below:
 
 We use Google Analytics for this purpose. Google Analytics uses its own cookies. It is only used to improve how our site works. You can find out more information about Google Analytics cookies here: <https://developers.google.com/analytics/resources/concepts/gaConceptsCookies>.
 
-You can find out more about how Google protects your data here: [www.google.com/analytics/learn/privacy.html](https://web.archive.org/web/20190623130900id_/https://www.newscred.com/privacypolicy/www.google.com/analytics/learn/privacy.html).
+You can find out more about how Google protects your data here: [www.google.com/analytics/learn/privacy.html](https://web.archive.org/web/20191225061550id_/https://www.newscred.com/privacypolicy/www.google.com/analytics/learn/privacy.html).
 
 You can prevent the use of Google Analytics relating to your use of our site by downloading and installing the browser plugin available via this link: <http://tools.google.com/dlpage/gaoptout?hl=en-GB>
 
@@ -87,7 +87,7 @@ You may opt out of cookies on NewsCred’s websites by downloading the plugin lo
 
 You can also typically remove or reject cookies via your browser settings. In order to do this, follow the instructions provided by your browser (usually located within the “settings”, “help” “tools” or “edit” facility). Many browsers are set to accept cookies until you change your settings.
 
-Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](https://web.archive.org/web/20190623130900id_/https://www.newscred.com/privacypolicy/www.allaboutcookies.org) and [www.youronlinechoices.com.uk](https://web.archive.org/web/20190623130900id_/https://www.newscred.com/privacypolicy/www.youronlinechoices.com.uk).
+Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](https://web.archive.org/web/20191225061550id_/https://www.newscred.com/privacypolicy/www.allaboutcookies.org) and [www.youronlinechoices.com.uk](https://web.archive.org/web/20191225061550id_/https://www.newscred.com/privacypolicy/www.youronlinechoices.com.uk).
 
 **Pixel tags**
 
