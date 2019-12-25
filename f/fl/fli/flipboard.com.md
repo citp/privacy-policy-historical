@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipboard.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620065307id_/https%3A//about.flipboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipboard.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225112254id_/https%3A//about.flipboard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,7 +92,8 @@ Legal Department
 
 Flipboard
 
-735 Emerson Street  
-Palo Alto, CA 94301
+811 Hamilton Street
+
+Redwood City, CA 94063
 
 For EU and EFTA users, if you feel you haven’t received a timely or satisfactory response from us with respect to a question or complaint related to this policy, you may raise the issue with your local supervisory authority without prejudice to any other rights you may have.
