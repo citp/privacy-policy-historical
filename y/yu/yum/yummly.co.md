@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the yummly.co privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223608id_/https%3A//www.yummly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yummly.co privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225191553id_/https%3A//www.yummly.co.uk/privacy) for the most accurate reproduction.*
 
 # Yummly: Personalized Recipe Recommendations and Search
 
-**Effective as of 12/20/18**
+**Effective as of 8/21/19**
 
-Welcome! Yummly is an online platform that provides users with a collaborative space to find, discuss and share information about all things food, and take advantage of other food- and cooking-related features, through the Yummly website (the " **Site** ") and/or a Yummly mobile application (the " **App** ") (collectively, our " **Services** "). Yummly, Inc. (" **Yummly"** ), a subsidiary of Whirlpool Corporation, provides this Privacy Notice to inform you of our policies and procedures regarding the collection, use and disclosure of your Personal Data and other data when you use our Services. For purposes of the European General Data Protection Regulation No. 679/2016 (" **GDPR** ") and similar data protection laws, Yummly processes your Personal Data as a data controller. 
+Welcome! Yummly is an online platform that provides users with a collaborative space to find, discuss and share information about all things food, and take advantage of other food- and cooking-related features, through the Yummly website (the " **Site** ") and/or a Yummly mobile application (the " **App** ") (collectively, our " **Services** "). Yummly, Inc. (" **Yummly** "), a subsidiary of Whirlpool Corporation, provides this Privacy Notice to inform you of our policies and procedures regarding the collection, use and disclosure of your Personal Data and other data when you use our Services. For purposes of the European General Data Protection Regulation No. 679/2016 (" **GDPR** ") and similar data protection laws, Yummly processes your Personal Data as a data controller. 
 
 Unless otherwise defined in this Privacy Notice, terms used in this Privacy Notice have the same meanings as in our [Terms of Use](https://www.yummly.com/terms). 
 
-As used in this Privacy Notice, the terms " **using"** and " **processing"** information include using cookies on a computer, subjecting the information to statistical or other analysis, and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally. 
+As used in this Privacy Notice, the terms " **using** " and " **processing** " information include using cookies on a computer, subjecting the information to statistical or other analysis, and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally. 
 
 ## Summary
 
@@ -113,9 +113,9 @@ We also use third parties (including Google Analytics and Mixpanel) to provide u
 
 Below is an explanation of the different legal grounds we have for processing your information: 
 
-  * **To satisfy our contractual obligation to you.** For example: allowing you to register for an Account; providing the Services to you; assisting you with pairing a kitchen appliance or accessory through the Services; and fulfilling your product orders and providing additional services (for example, delivery, after-sale services, and the management of returns).
-    * **With your consent.** For example: processing health information, such as information about your allergies, so that we can customize our recommendations for you; processing your entry into a prize promotion/competition; sending you customized marketing communications related to our products and services electronically (including email, notifications from third party services, and notifications from mobile applications); and sharing your Personal Data for customized marketing communication with our selected trusted partners with your consent.
-      * **When we have a legitimate business interest to do so.** For example: managing the requests for information you send us, including handling complaints; preventing fraud; enforcing our rights before the courts; improving the performance and security of our products and our Services, including the App and the Site; sending you customer care communications concerning products or services you have used or which you showed interest in, and in order to carry out customer satisfaction surveys; unless you opt-out, contacting you for marketing purposes by phone (non-automated) and via paper mail; and carrying out activities useful for the transfers of business and business branches, takeovers, mergers, demergers or other transformations and for the execution of such transactions.
+  * **To satisfy our contractual obligation to you**. For example: allowing you to register for an Account; providing the Services to you; assisting you with pairing a kitchen appliance or accessory through the Services; and fulfilling your product orders and providing additional services (for example, delivery, after-sale services, and the management of returns).
+    * **With your consent**. For example: processing health information, such as information about your allergies, so that we can customize our recommendations for you; processing your entry into a prize promotion/competition; sending you customized marketing communications related to our products and services electronically (including email, notifications from third party services, and notifications from mobile applications); and sharing your Personal Data for customized marketing communication with our selected trusted partners with your consent.
+      * **When we have a legitimate business interest to do so**. For example: managing the requests for information you send us, including handling complaints; preventing fraud; enforcing our rights before the courts; improving the performance and security of our products and our Services, including the App and the Site; sending you customer care communications concerning products or services you have used or which you showed interest in, and in order to carry out customer satisfaction surveys; unless you opt-out, contacting you for marketing purposes by phone (non-automated) and via paper mail; and carrying out activities useful for the transfers of business and business branches, takeovers, mergers, demergers or other transformations and for the execution of such transactions.
         * We may also use your Personal Data to the extent necessary to comply with our legal obligations.
 
 
@@ -126,8 +126,8 @@ If you do not want Yummly to use your electronic contact details for marketing p
 
 Yummly will process your Personal Data for as long as it is necessary to achieve the purposes described above. In any case, the following retention periods generally apply: 
 
-  * **If you delete your account we have processes designed to delete your Personal Data within approximately one month.**
-  * **If you do not use your account or receive emails from us for an extended period of time (generally up to two and one-half years), we will delete your Personal Data.**
+  * **If you delete your account we have processes designed to delete your Personal Data within approximately one month**.
+  * **If you do not use your account or receive emails from us for an extended period of time (generally up to two and one-half years), we will delete your Personal Data**.
 
 
 
@@ -139,7 +139,7 @@ We may share Other Information, such as de-identified data and Usage Information
 
 Your Personal Data is shared with: 
 
-_Whirlpool Brands and Entities._ Yummly is a subsidiary of Whirlpool Corporation. Any data, including Personal Data collected by Yummly, may also be shared with Whirlpool Corporation or its brands (including but not limited to Whirlpool®, Maytag®, KitchenAid®, Jenn-Air®, Amana®, EveryDrop®, and Affresh®) and subsidiaries located in the European Economic Area ( **EEA** ) and outside of the EEA, acting as autonomous controllers (e.g., Whirlpool Canada LP, Whirlpool EMEA S.p.A., Whirlpool UK Appliance Limited), who may use the information for the purposes described in this Privacy Notice. A more complete list of Whirlpool Corporation's brands and subsidiaries can be found by browsing http://whirlpoolcorp.com. All of these brands and entities are referred to within this Notice collectively as "Whirlpool." 
+_Whirlpool Brands and Entities._ Yummly is a subsidiary of Whirlpool Corporation. Any data, including Personal Data collected by Yummly, may also be shared with Whirlpool Corporation or its brands (including but not limited to Whirlpool®, Maytag®, KitchenAid®, Jenn-Air®, Amana®, EveryDrop®, and Affresh®) and subsidiaries located in the European Economic Area ( **EEA** ) and outside of the EEA, acting as autonomous controllers (e.g., Whirlpool Canada LP, Whirlpool EMEA S.p.A., Whirlpool UK Appliance Limited), who may use the information for the purposes described in this Privacy Notice. A more complete list of Whirlpool Corporation's brands and subsidiaries can be found by browsing [https://whirlpoolcorp.com](https://whirlpoolcorp.com/). All of these brands and entities are referred to within this Notice collectively as "Whirlpool." 
 
 _Other Users._ When you post comments or content (such as reviews or recipes) on any Yummly message boards or blogs, or when you use other interactive features (such as when you connect with friends) made available through or in connection with the Services, any data you choose to include will be accessible to other users. We urge you to be very careful when deciding to make any of your Personal Data, or any Other Information, publicly available through the Services. If you choose to use any social network features such as the Facebook "Like" button and other widgets, such as a "share" button or interactive mini-programs that we may offer through the Services, these features may collect your IP address and information about which page you are visiting on our Services, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the privacy statements of the companies providing them. 
 
@@ -192,13 +192,10 @@ We give you options to help you understand what Personal Data we use and to requ
 
 If you wish to manage your data as described above, or raise any questions about the Personal Data we hold about you, please send an email to [privacy@yummly.com](mailto:privacy@yummly.com) or write us: 
 
-Chief Data Officer 
-
-Yummly, Inc. 
-
-610 Walnut Street 
-
-Redwood City, CA 94063 
+Chief Data Officer  
+Yummly, Inc.  
+3101 Park Blvd  
+Palo Alto, CA 94306
 
 We respond to general privacy inquiries within 30 days. We process opt-out requests within 10 business days. 
 
@@ -234,12 +231,9 @@ From time to time, we may update this Privacy Notice. Please take a look at the 
 
 Your use of the Website following these changes means that you accept the revised Privacy Notice. 
 
-If you have any questions about this Privacy Notice, please contact us via email at [privacy@yummly.com](mailto:contact%20us%20via%20email%20at%20privacy@yummly.com), or please write to us at the following address: 
+If you have any questions about this Privacy Notice, please contact us via email at [privacy@yummly.com](mailto:privacy@yummly.com), or please write to us at the following address: 
 
-Chief Data Officer 
-
-Yummly, Inc. 
-
-610 Walnut Street 
-
-Redwood City, CA 94063 
+Chief Data Officer  
+Yummly, Inc.  
+3101 Park Blvd  
+Palo Alto, CA 94306
