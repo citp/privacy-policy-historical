@@ -1,24 +1,912 @@
-<!--The following is the downloaded HTML source of the macobserver.com privacy policy that was archived on 2019-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190518235208id_/https%3A//www.macobserver.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macobserver.com privacy policy that was archived on 2019-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191225093734id_/https%3A//www.macobserver.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" itemscope="" itemtype="http://schema.org/CreativeWork"><!--<![endif]--><head><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwQHUFFQGwcFVVlTBgQ="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(u){try{i("ierr",[u,c.now(),!0])}catch(d){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),u=t("gos"),f=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(u(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(f);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[f,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),u=XMLHttpRequest,f="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(u.prototype)):u.prototype.hasOwnProperty(f)&&(o(window),o(u.prototype)),a.on(f+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",u="clearTimeout",f="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[u,"clearImmediate"],u+d),i.on(c+f,r),i.on(s+f,o)},{}],6:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=f.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,f.emit("xhr-resolved",[],t)),d.inPlace(t,x,"fn-",s)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,R.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(3);var u=t("ee"),f=u.get("xhr"),d=t(18)(f),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",x=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=f;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{f.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),f.on("send-xhr-start",function(t,n){r(t,n),i(n)}),f.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else u.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],7:[function(t,n,e){function r(){var t=window.NREUM,n=t.info.accountID||null,e=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!n||!e||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:e,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&n!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(13);n.exports={generateTraceHeader:r}},{}],8:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);n.aborted||(e.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):a(this,t),e.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[n,e,this.startTime]))}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return v(r)}function i(t,n){var e=u(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}function a(t,n){t.params.status=n.status;var e=o(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),u=t(9),f=t(7).generateTraceHeader,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(12),v=t(11),w=window.XMLHttpRequest;s.features.xhr=!0,t(6),d.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){a(n,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(e=!!NREUM.init.distributed_tracing.enabled),e&&this.sameOrigin){var r=f();r&&n.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=v(r);i&&(e.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{d.emit("internal-error",[e])}catch(r){}}};for(var a=0;a<p;a++)n.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),d.on("xhr-load-added",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,n){n instanceof w&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],n)}),d.on("removeEventListener-end",function(t,n){n instanceof w&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],n)}),d.on("fn-start",function(t,n,e){n instanceof w&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,n){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,n],n)})}},{}],9:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],10:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[u.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),u=t("loader"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){f[n]=o(l+n,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,f.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[u.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[u.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[u.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,u.now(),!1,n])}},{}],11:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],12:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],13:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],14:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(u){l([u,"",[r,a,o],s])}f(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw f(n+"err",[r,a,d],s),d}finally{f(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function u(t,n,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,u?s+o:o,i,s))}function f(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=u,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,u=0;u<c;u++)s[u].apply(a,r);var d=f[g[e]];return d&&d.push([y,e,r,a]),a}}function p(t,n){x[t]=m(t).concat(n)}function h(t,n){var e=x[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return x[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){u(t,function(t,e){n=n||"feature",g[e]=n,n in f||(f[n]=[])})}var x={},g={},y={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return y}function i(){return new r}function a(){(f.api||f.feature)&&(l.aborted=!0,f=l.backlog={})}var s="nr@context",c=t("gos"),u=t(15),f={},d={},l=n.exports=o();l.backlog=f},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return f.abort();u(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),u=t(15),f=t("ee"),d=t(14),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var x=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},y=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:x,features:{},xhrWrappable:y,userAgent:d};t(10),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(17)},{}]},{},["loader",2,8]);</script><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="apple-touch-icon" sizes="180x180" href="//www.macobserver.com/wp-content/themes/observer/assets/images/icons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="//www.macobserver.com/wp-content/themes/observer/assets/images/icons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="//www.macobserver.com/wp-content/themes/observer/assets/images/icons/favicon-16x16.png"><link rel="manifest" href="//www.macobserver.com/wp-content/themes/observer/assets/images/icons/site.webmanifest"><link rel="mask-icon" href="//www.macobserver.com/wp-content/themes/observer/assets/images/icons/safari-pinned-tab.svg" color="#2b5797"><link rel="shortcut icon" href="//www.macobserver.com/wp-content/themes/observer/assets/images/icons/favicon.ico"><meta name="msapplication-TileColor" content="#2b5797"><meta name="msapplication-config" content="//www.macobserver.com/wp-content/themes/observer/assets/images/icons/browserconfig.xml"><link href="https://www.macobserver.com/feed/everything/" rel="alternate" type="application/rss+xml" title="The Mac Observer - Apple iPhone, Mac, Watch and iPad News, Opinions, Tips and Podcasts"><title>TMO Privacy Policy - The Mac Observer</title> <script>window._wca=window._wca||[];</script> <meta name="description" content="The Mac Observer, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website."><link rel="canonical" href="https://www.macobserver.com/privacy/"><meta property="og:locale" content="en_US"><meta property="og:type" content="article"><meta property="og:title" content="TMO Privacy Policy - The Mac Observer"><meta property="og:description" content="The Mac Observer, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website."><meta property="og:url" content="https://www.macobserver.com/privacy/"><meta property="og:site_name" content="The Mac Observer"><meta property="article:publisher" content="https://www.facebook.com/MacObserver"><meta property="article:author" content="themaccast"><meta property="fb:app_id" content="314031572034374"><meta property="og:image" content="https://www.macobserver.com/wp-content/uploads/2018/10/macobserver_logo_fullres_facebook_1408x742px.png"><meta property="og:image:secure_url" content="https://www.macobserver.com/wp-content/uploads/2018/10/macobserver_logo_fullres_facebook_1408x742px.png"><meta property="og:image:width" content="1408"><meta property="og:image:height" content="742"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:description" content="The Mac Observer, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website."><meta name="twitter:title" content="TMO Privacy Policy - The Mac Observer"><meta name="twitter:site" content="@MacObserver"><meta name="twitter:image" content="https://www.macobserver.com/wp-content/uploads/2018/10/macobserver_logo_fullres_facebook_1408x742px.png"><meta name="twitter:creator" content="@maccast"> <script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.macobserver.com/#organization","name":"The Mac Observer","url":"https://www.macobserver.com/","sameAs":["https://www.facebook.com/MacObserver","https://www.youtube.com/user/MacObserver","https://twitter.com/MacObserver"],"logo":{"@type":"ImageObject","@id":"https://www.macobserver.com/#logo","url":"https://www.macobserver.com/wp-content/uploads/2016/06/macobserver_logo_1408px.png","width":1408,"height":533,"caption":"The Mac Observer"},"image":{"@id":"https://www.macobserver.com/#logo"}},{"@type":"WebSite","@id":"https://www.macobserver.com/#website","url":"https://www.macobserver.com/","name":"The Mac Observer","publisher":{"@id":"https://www.macobserver.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.macobserver.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.macobserver.com/privacy/#webpage","url":"https://www.macobserver.com/privacy/","inLanguage":"en-US","name":"TMO Privacy Policy - The Mac Observer","isPartOf":{"@id":"https://www.macobserver.com/#website"},"datePublished":"2018-05-18T17:44:30+00:00","dateModified":"2018-05-18T18:37:24+00:00","description":"The Mac Observer, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website."}]}</script> <link rel="dns-prefetch" href="//s0.wp.com"><link rel="dns-prefetch" href="//ajax.googleapis.com"><link rel="dns-prefetch" href="//chimpstatic.com"><link rel="dns-prefetch" href="//platform.twitter.com"><link rel="dns-prefetch" href="//www.google.com"><link rel="dns-prefetch" href="//s.w.org"><link rel="stylesheet" id="wp-block-library-css" href="//www.macobserver.com/wp-includes/css/dist/block-library/style.min.css" type="text/css" media="all"><link rel="stylesheet" id="wc-block-style-css" href="//www.macobserver.com/wp-content/plugins/woocommerce/assets/css/blocks/style.css" type="text/css" media="all"><link rel="stylesheet" id="woocommerce-layout-css" href="//www.macobserver.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css" type="text/css" media="all"><style id="woocommerce-layout-inline-css">.infinite-scroll .woocommerce-pagination{display:none}</style><link rel="stylesheet" id="woocommerce-smallscreen-css" href="//www.macobserver.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css" type="text/css" media="only screen and (max-width: 768px)"><link rel="stylesheet" id="woocommerce-general-css" href="//www.macobserver.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css" type="text/css" media="all"><style id="woocommerce-inline-inline-css">.woocommerce form .form-row
-.required{visibility:visible}</style><link rel="stylesheet" id="wsl-widget-css" href="//www.macobserver.com/wp-content/plugins/wordpress-social-login/assets/css/style.css" type="text/css" media="all"><link rel="stylesheet" id="wpforo-widgets-css" href="//www.macobserver.com/wp-content/plugins/wpforo/wpf-themes/classic/widgets.css" type="text/css" media="all"><link rel="stylesheet" id="woocommerce-nyp-css" href="//www.macobserver.com/wp-content/plugins/woocommerce-name-your-price/assets/css/name-your-price.css" type="text/css" media="all"><link rel="stylesheet" id="wpforo-cross-css-css" href="//www.macobserver.com/wp-content/plugins/wpforo-cross-posting/assets/css/wpforo-cross.css" type="text/css" media="all"><link rel="stylesheet" id="main-stylesheet-css" href="//www.macobserver.com/wp-content/themes/observer/assets/stylesheets/foundation.css?x89847" type="text/css" media="all"><link rel="stylesheet" id="tmo_animate-css" href="//www.macobserver.com/wp-content/plugins/observer-plugin//css/animate.min.css" type="text/css" media="screen"><link rel="stylesheet" id="observer_plugin-css" href="//www.macobserver.com/wp-content/plugins/observer-plugin//css/observer-plugin.min.css" type="text/css" media="screen"><link rel="stylesheet" id="fancybox_css-css" href="//www.macobserver.com/wp-content/plugins/observer-plugin//javascript/vendor/fancybox/jquery.fancybox.css" type="text/css" media="screen"><link rel="stylesheet" id="jetpack_css-css" href="//www.macobserver.com/wp-content/plugins/jetpack/css/jetpack.css" type="text/css" media="all"> <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script> <script>var ltsettings={"link_audio":"1","link_video":"1","link_youtube":"1","link_vimeo":"1","link_spp":"","link_sc":"","auto_link":"1"};</script> <script src="//www.macobserver.com/wp-content/plugins/link-timestamp/public/js/link-timestamp-public.js"></script> <script src="//www.macobserver.com/wp-content/plugins/link-timestamp/public/js/vimeoplayer.js"></script> <script src="//www.macobserver.com/wp-content/plugins/link-timestamp/public/js/youtube_iframe_api.js"></script> <script src="//www.macobserver.com/wp-content/themes/observer/assets/javascript/vendor/modernizr.js"></script> <script src="//www.macobserver.com/wp-includes/js/jquery/jquery-migrate.min.js"></script> <script src="//platform.twitter.com/widgets.js"></script> <script src="//www.google.com/recaptcha/api.js"></script> <script src="//www.macobserver.com/wp-content/plugins/observer-plugin//javascript/vendor/fancybox/jquery.fancybox.pack.js"></script> <link rel="https://api.w.org/" href="https://www.macobserver.com/wp-json/"><link rel="alternate" type="application/json+oembed" href="https://www.macobserver.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.macobserver.com%2Fprivacy%2F"><link rel="alternate" type="text/xml+oembed" href="https://www.macobserver.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.macobserver.com%2Fprivacy%2F&amp;format=xml"><link rel="alternate" type="application/json" title="The Mac Observer » JSON Feed" href="https://www.macobserver.com/feed/json/"> <script>jQuery(document).ready(function($){var wpforo_wrap=$('#wpforo-wrap');$(wpforo_wrap).on('click','.attach_cant_view',function(){wpforo_notice_show("<p>Please <a href=\"https://www.macobserver.com/tmo-login/\">Login</a> or <a href=\"https://www.macobserver.com/tmo-register/\">Register</a></p>");});});</script> <meta name="referrer" content="always">	<noscript><style>.woocommerce-product-gallery{opacity:1 !important}</style></noscript> <script async="" src="https://stats.wp.com/s-201920.js"></script> </head><body class="privacy-policy page-template page-template-templates page-template-page-full page-template-templatespage-full-php page page-id-40320 woocommerce-js offcanvas"><div class="off-canvas-wrap" data-offcanvas=""><div class="fixed off-canvas-fixed"><nav class="tab-bar"><section class="left-small">
-<a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a></section><section class="tab-bar-section"><a id="sm-logo" href="/?utm_campaign=tmo_navbarlogo"><img src="//www.macobserver.com/wp-content/themes/observer/assets/images/sm-logo@2x.png" alt="Mac Observer"></a></section><section class="tmo-button-search right-small">
-<a href="#"><i class="fa fa-search"></i></a></section></nav><div id="tmo-mobile-search"><form role="search" method="get" id="searchform" class="n-search right clearfix" action="https://www.macobserver.com/">
-<input type="text" class="text-input" value="" name="s" id="s" placeholder="SEARCH">
-<input type="submit" id="searchsubmit" value="Search" class="hidden"></form></div><aside class="left-off-canvas-menu" aria-hidden="true" tabindex="-1"><ul id="menu-top-navigation" class="off-canvas-list"><li class="menu-item"><a href="https://www.macobserver.com/wp-login.php" class="icon-user">Login</a></li><li id="menu-item-67754" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-67754"><a href="https://www.macobserver.com/tag/wwdc-2019/">WWDC 2019</a></li><li id="menu-item-58826" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-58826"><a href="https://www.macobserver.com/tag/macos/">macOS</a></li><li id="menu-item-37117" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37117"><a href="https://www.macobserver.com/tag/iphone/">iPhone</a></li><li id="menu-item-39537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39537"><a href="https://www.macobserver.com/podcasts/">Podcasts</a></li><li id="menu-item-41013" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41013"><a href="https://www.macobserver.com/community/">Forums</a></li></ul></aside></div><div class="inner-wrap"><div class="top-bar-container fixed"><nav id="nav-bar" class="top-bar" data-topbar="" data-options="scrolltop:false;" role="navigation"><ul id="tmo-nav-logo" class="title-area"><li class="name">
-<a href="/?utm_campaign=tmo_logo"><img id="logo" src="//www.macobserver.com/wp-content/themes/observer/assets/images/logo.png" alt="Mac Observer"></a></li></ul><div class="top-bar-section"><ul id="menu-top-navigation-1" class="top-bar-menu left"><li class="divider"></li><li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-67754"><a href="https://www.macobserver.com/tag/wwdc-2019/">WWDC 2019</a></li><li class="divider"></li><li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-58826"><a href="https://www.macobserver.com/tag/macos/">macOS</a></li><li class="divider"></li><li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37117"><a href="https://www.macobserver.com/tag/iphone/">iPhone</a></li><li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39537"><a href="https://www.macobserver.com/podcasts/">Podcasts</a></li><li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41013"><a href="https://www.macobserver.com/community/">Forums</a></li></ul></div><div id="tmo-nav-searchbox"><div id="sn-login">
-<a href="https://www.macobserver.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.macobserver.com%2Fprivacy%2F"><span class="not-logged-in-avatar"><strong class="icon-user">Login</strong></span></a></div><div class="nav-search show-for-medium-up"><form role="search" method="get" id="searchform" class="n-search right clearfix" action="https://www.macobserver.com/">
-<input type="text" class="text-input" value="" name="s" id="s" placeholder="SEARCH">
-<input type="submit" id="searchsubmit" value="Search" class="hidden"></form></div></div></nav></div><div class="tmo-header row"><header role="contentinfo" class="header"><div class="small-12 columns collapse wrap"><div id="home-mobile-ad" class="hide-for-medium-up"> <script language="JavaScript">$(document).ready(function(){if($(window).width()<481)
-{var ad={"domain":"bullseye","pool":"22998","type":"21291","pos":"","zone":"5000","redirect":"aj","optcode":"","view":"","rnd":"","dontcount":""};var iframe={"domain":"bullseye","width":"320","height":"50","align":"middle","id":"#home-mobile-ad"};bbmWriteAd(ad,iframe);}});</script> </div><div id="ad-top-banner" class="show-for-large-up ad"> <script language="JavaScript">$(document).ready(function(){if($(window).width()>480)
-{var ad={"domain":"bullseye","pool":"124","type":"13","pos":"8","zone":"5000","redirect":"aj","optcode":"","view":"","rnd":"","dontcount":""};var iframe={"domain":"bullseye","width":"728","height":"90","align":"middle","id":"#ad-top-banner"};bbmWriteAd(ad,iframe);}});</script> </div></div></header></div><section class="container" role="document"><div class="row"><div class="small-12 large-12 columns" role="main"><article class="post-40320 page type-page status-publish hentry" id="post-40320"><header><h1 class="entry-title">TMO Privacy Policy</h1></header><div class="entry-content"><p>The Mac Observer, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website.</p><h2>Who we are</h2><p>Our website address is: https://www.macobserver.com owned and operated by The Mac Observer, Inc.</p><h2>What personal data we collect and why we collect it</h2><h3>Comments</h3><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.</p><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: <a target="_blank" href="https://automattic.com/privacy/">https://automattic.com/privacy/</a>. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><h3>Media</h3><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><h3>Cookies</h3><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><p>If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><h3>Embedded content from other websites</h3><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.</p><h2>How long we retain your data</h2><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><p>For users that register on our website, we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><h2>What rights you have over your data</h2><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><h2>Where we send your data</h2><p>Visitor comments may be checked through an automated spam detection service.</p><h2><b>Registration Information </b></h2><p>Our site’s registration forms may require users to give us contact information (like their name and email address). The customer’s contact information is used solely by The Mac Observer, Inc. to contact the visitor when necessary. For example, we direct e-mail to visitors who provide us with their e-mail addresses for specifically requested purposes such as receiving our e-mail newsletters or being notified if they have won one of our contests. Each e-mail newsletter always contains instructions on how to unsubscribe from the newsletter. We do not sell, trade, or otherwise transfer outside the company personally identifiable information that visitors voluntarily provide in any registration or contest submission unless specifically noted during the submission process. This information is used to better understand visitors’ use of our sites and to support related transactions made on the site.</p><h2><b>Third party links </b></h2><p>In an attempt to provide increased value to our visitors, our sites provide links to various third party web sites from our own site. However, even if the third party is affiliated with The Mac Observer, Inc., The Mac Observer, Inc. has no control over these linked sites who each have separate privacy and data collection practices, independent of The Mac Observer, Inc.. The Mac Observer, Inc. has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Nonetheless, The Mac Observer, Inc. seeks to protect the integrity of its web site and the links placed upon it and therefore requests any feedback on not only its own site, but for sites it links to as well (including if a specific link does not work).</p><h2><b>Online Surveys </b></h2><p>Our online surveys ask visitors for contact information (including, but not limited to, their email address) and demographic information (including, but not limited to, their zip code, age, or income level). The user’s contact information is used to contact the visitor when necessary. Users may cancel future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor’s experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.</p><h2><b>Site Advertisers </b></h2><p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.</p><p>Additionally, these ads may contain cookies. While we use cookies in other parts of our Web site, cookies received from banner ads are collected by our ad partner companies, and we do not necessarily have access to this information.</p><h2><b>Public Forums </b></h2><p>This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p><h2><b>Security </b></h2><p>This site has security measures in place to protect the loss, misuse and alteration of the information under our control.</p><h2>Contacting The Mac Observer</h2><p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:</p><p><a target="_blank" href="mailto:privacy@macobserver.com">Privacy Info</a><br>
-The Mac Observer, Inc.</p></div><footer><p></p></footer></article></div></div></section><div id="footer-container"><footer role="contentinfo" id="footer" class="secondary-content footer"><div class="wrap row clearfix"><div class="ft-block small-6 large-3 tmo-column-footer columns"><h4 class="">Navigation</h4><nav role="navigation"><ul class="foot-dir ft-nav"><li><a href="https://www.macobserver.com/features/news">News</a></li><li><a href="https://www.macobserver.com/features/reviews">Reviews</a></li><li><a href="https://www.macobserver.com/features/tips">Tutorials</a></li><li><a href="https://www.macobserver.com/podcasts">Podcasts</a></li><li><a href="https://www.macobserver.com/contact">Contact</a></li></ul></nav></div><div class="ft-block small-6 large-3 tmo-column-footer columns"><h4 class="">Categories</h4><ul class="foot-dir ft-cat left"><li><a href="https://deals.macobserver.com/">TMO Deals</a></li><li><a href="https://www.macobserver.com/features/columns-opinions">Columns</a></li><li><a href="https://www.macobserver.com/features/editorial">Editorials</a></li><li><a href="https://www.macobserver.com/features/quick-tip">Quick Tips</a></li><li><a href="https://www.macobserver.com/death-knell">Apple Death Knells</a></li><li><a href="https://www.macobserver.com">View All Categories</a></li></ul></div><div class="ft-block small-6 large-3 tmo-column-footer columns"><h4 class="">Connect with Us</h4><ul class="foot-dir ft-social"><li><a href="https://twitter.com/MacObserver">Twitter</a></li><li><a href="https://www.facebook.com/MacObserver">Facebook</a></li><li><a href="https://plus.google.com/107185496671557142447/posts" rel="publisher">Google+</a></li><li><a href="https://www.macobserver.com/feed/everything/">RSS Feed</a></li><li><a href="https://www.macobserver.com/podcasts">Podcast Directory</a></li><li><a href="https://www.macobserver.com/contact/">Author Directory</a></li><li><a href="mailto:macobserver@backbeatmedia.com" title="Advertising">Advertising</a></li><li><a href="https://www.macobserver.com/privacy/">Privacy Policy</a></li></ul></div><div class="small-6 large-3 tmo-column-logo columns">
-<a href="#"><img id="logo" src="//www.macobserver.com/wp-content/themes/observer/assets/images/logo.png" alt="Mac Observer"></a></div></div></footer></div></div></div>  <script>var c=document.body.className;c=c.replace(/woocommerce-no-js/,'woocommerce-js');document.body.className=c;</script> <script src="//s0.wp.com/wp-content/js/devicepx-jetpack.js"></script> <script src="//www.macobserver.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js"></script> <script src="//www.macobserver.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js"></script> <script>var woocommerce_params={"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};</script> <script src="//www.macobserver.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js"></script> <script>var wc_cart_fragments_params={"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_56bf0ffb19134e8201e398ee83971424","fragment_name":"wc_fragments_56bf0ffb19134e8201e398ee83971424","request_timeout":"5000"};</script> <script src="//www.macobserver.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js"></script> <script>jQuery('body').bind('wc_fragments_refreshed',function(){jQuery('body').trigger('jetpack-lazy-images-load');});</script> <script>var mailchimp_public_data={"site_url":"https:\/\/www.macobserver.com","ajax_url":"https:\/\/www.macobserver.com\/wp-admin\/admin-ajax.php","queue_url":"https:\/\/www.macobserver.com\/wp-json\/mailchimp-for-woocommerce\/v1\/queue\/work","queue_should_fire":"1"};</script> <script src="//www.macobserver.com/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js"></script> <script src="//chimpstatic.com/mcjs-connected/js/users/b7cd865e88cc0f8c9c81fc2f7/7e4a0112ddb2063022c76b3a4.js"></script> <script src="//www.macobserver.com/wp-content/themes/observer/assets/javascript/foundation.js"></script> <script src="//www.macobserver.com/wp-content/plugins/observer-plugin//javascript/observer.min.js"></script> <script src="//www.macobserver.com/wp-includes/js/wp-embed.min.js"></script>  <script src="//mint.macobserver.com/?js"></script>  <script>var _merchantSettings=_merchantSettings||[];_merchantSettings.push(['AT','10l69J']);(function(){var autolink=document.createElement('script');autolink.type='text/javascript';autolink.async=true;autolink.src=('https:'==document.location.protocol)?'https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js':'http://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(autolink,s);})();</script>  <script src="//s.skimresources.com/js/2679X589886.skimlinks.js" async="true"></script>  <script>var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"8452807"});(function(){var s=document.createElement("script"),el=document.getElementsByTagName("script")[0];s.async=true;s.src=(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,el);})();</script> <noscript>
-<img
-src="https://b.scorecardresearch.com/p?c1=2&c2=8452807&cv=2.0&cj=1">
-</noscript> <script>_qevents.push({qacct:"p-4bEZTZBVa48UQ"});</script> <noscript><div
-style="display: none;">
-<img
-src=https://pixel.quantserve.com/pixel/p-4bEZTZBVa48UQ.gif height=1 width=1 alt=Quantcast></div>
-</noscript> <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-438845-1','auto');ga('send','pageview');</script>  <script language="JavaScript" src="//adserver1.backbeatmedia.com/servlet/ajrotator/253/0/viewJScript?pool=25607&amp;type=42&amp;zone=5000&amp;optcode=false"></script> <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"57df84c614","applicationID":"4518115","transactionName":"NQFSbUBZCBcEABBfXwxLcVpGUQkKShMFUVVPAkVVXg==","queueTime":0,"applicationTime":735,"ttGuid":"","agentToken":"","atts":"GUZRGwhDGxk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body></html>
+<!DOCTYPE html><html class="no-js jetpack-lazy-images-js-enabled" lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" itemscope="" itemtype="http://schema.org/CreativeWork"><!--<![endif]--><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js"></script><script type="text/javascript" async="" defer="" src="https://matomo.macobserver.com/matomo.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script type="text/javascript">
+	var __banger_pmp_deals=[{"SlotName":"/1254144/macobserver_com-medrectangle-1","Deals":[{"DealId":17,"Floor":160},{"DealId":18,"Floor":25},{"DealId":19,"Floor":100},{"DealId":20,"Floor":300},{"DealId":7,"Floor":150},{"DealId":8,"Floor":200},{"DealId":9,"Floor":300},{"DealId":10,"Floor":400},{"DealId":11,"Floor":500},{"DealId":12,"Floor":600},{"DealId":13,"Floor":700},{"DealId":14,"Floor":800}]},{"SlotName":"/1254144/macobserver_com-medrectangle-2","Deals":[{"DealId":17,"Floor":160},{"DealId":18,"Floor":25},{"DealId":19,"Floor":100},{"DealId":20,"Floor":300},{"DealId":7,"Floor":150},{"DealId":8,"Floor":200},{"DealId":9,"Floor":300},{"DealId":10,"Floor":400},{"DealId":11,"Floor":500},{"DealId":12,"Floor":600},{"DealId":13,"Floor":700},{"DealId":14,"Floor":800},{"DealId":15,"Floor":1000}]},{"SlotName":"/1254144/macobserver_com-box-2","Deals":[{"DealId":17,"Floor":160},{"DealId":18,"Floor":25},{"DealId":19,"Floor":100},{"DealId":20,"Floor":300},{"DealId":7,"Floor":150},{"DealId":8,"Floor":200},{"DealId":9,"Floor":300},{"DealId":10,"Floor":400},{"DealId":11,"Floor":500},{"DealId":12,"Floor":600},{"DealId":13,"Floor":700},{"DealId":14,"Floor":800},{"DealId":15,"Floor":1000}]},{"SlotName":"/1254144/macobserver_com-box-3","Deals":[{"DealId":17,"Floor":160},{"DealId":18,"Floor":25},{"DealId":19,"Floor":100},{"DealId":20,"Floor":300},{"DealId":7,"Floor":150},{"DealId":8,"Floor":200},{"DealId":9,"Floor":300},{"DealId":10,"Floor":400},{"DealId":11,"Floor":500},{"DealId":12,"Floor":600},{"DealId":13,"Floor":700},{"DealId":14,"Floor":800},{"DealId":15,"Floor":1000}]},{"SlotName":"/1254144/macobserver_com-large-mobile-banner-2","Deals":[{"DealId":17,"Floor":160},{"DealId":18,"Floor":25},{"DealId":19,"Floor":100},{"DealId":20,"Floor":300},{"DealId":7,"Floor":150},{"DealId":8,"Floor":200},{"DealId":9,"Floor":300},{"DealId":10,"Floor":400},{"DealId":11,"Floor":500},{"DealId":12,"Floor":600},{"DealId":13,"Floor":700},{"DealId":14,"Floor":800},{"DealId":15,"Floor":1000}]},{"SlotName":"/1254144/macobserver_com-large-mobile-banner-1","Deals":[{"DealId":17,"Floor":160},{"DealId":18,"Floor":25},{"DealId":19,"Floor":100},{"DealId":20,"Floor":300},{"DealId":7,"Floor":150},{"DealId":8,"Floor":200},{"DealId":9,"Floor":300},{"DealId":10,"Floor":400},{"DealId":11,"Floor":500},{"DealId":12,"Floor":600},{"DealId":13,"Floor":700},{"DealId":14,"Floor":800},{"DealId":15,"Floor":1000}]}];
+</script>
+<script type="text/javascript">_ebcids=[138231308856,138231308940,138231308949,138231387842,138231421744,138231421759,138231421774,138231421783,138231421789,138231421792,138242067587,138242067590,138242067602,138242067605,138242067608,138242067614,138242229406,138242229415,138242229421,138242229430];</script>
+<script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">ezobv = 86;</script><script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">
+function ez_isclean( data ) {
+    if (typeof data === 'undefined') { data = document.URL; }
+    var re = /(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))(@|%2540|%40)((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))/;
+    var isClean = !re.test(data);
+    return isClean;
+}
+
+var ez_queue = new Array();
+function sort_queue(a, b)
+{
+  if( a.priority < b.priority ) return -1;
+  else if( a.priority == b.priority ) return 0;
+  else return 1;
+}
+function execute_ez_queue()
+{
+  ez_queue.sort( sort_queue );
+
+  for( var i in ez_queue )
+  {
+        if(typeof ez_queue[i].method != "undefined")
+        {
+            try{
+                ez_queue[i].method.call( null );
+            }
+            catch (err) {
+
+            }
+        }
+  }
+}
+
+window.ez_ad_units = new Array();
+window.ezslots = new Array();
+window.ezsrqt = {};
+function ez_write_tag(d) {
+    if(ez_isclean() && d instanceof Array) {
+        if(typeof ezstandalone !== 'undefined' && typeof ezstandalone.selectedPlaceholders !== 'undefined' && ezstandalone.selectedPlaceholders[d[3]] === true) {
+            return "1+1";
+        }
+        ez_ad_units[ez_ad_units.length] = d;
+        var dve = "";
+        if(typeof d[5] != 'undefined' && d[5] > 0){dve = '_'+d[5];}
+        var ezcmd = "googletag.cmd.push(function() {var divid = 'div-gpt-ad-"+d[1]+"-"+d[4]+""+dve+"';if(typeof ezlrarn == 'function'){ezlrarn(divid);}googletag.display(divid);var to = 0;if("+d[2]+".getTargeting('ga')[0] == '0'){to = 500;console.log('"+d[2]+" - no google');}if(window.ezDisableInitialLoad==true){setTimeout(function(){googletag.pubads().refresh(["+d[2]+"])},to);}});";
+        return ezcmd;
+    }
+
+    return "1+1";
+}
+function in_array(needle, haystack) {
+    var length = haystack.length;
+    for(var i = 0; i < length; i++) {
+        if(haystack[i] == needle) return true;
+    }
+    return false;
+}
+</script><script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">var ezrpos = new Array();var ez_current_interval;var ez_current_load = 0;</script><script data-cfasync="false" type="text/javascript" data-pagespeed-no-defer="" src="//go.ezoic.net/porpoiseant/dall2380.js?cb=188-1" async=""></script><script data-ezscrex="false" data-cfasync="false" type="text/javascript" data-pagespeed-no-defer="">
+var epbjs=epbjs||{};function epbjsRequestAdUnits(e){epbjs.que.push(function(){for(var s=0;s<e.length;s++)epbjs.ezAdUnits.push(e[s]);epbjs.addAdUnits(e),epbjs.requestBids({bidsBackHandler:function(e){"function"==typeof window.ezosethbbids?window.ezosethbbids(e):window.ezosethbbidsInterval=setInterval(function(e){"function"==typeof ezosethbbids&&ezosethbbids(e)},130,e)}})})}function epbjsRefreshSlot(e){epbjs.que.push(function(){epbjs.requestBids({adUnitCodes:[e.getSlotElementId()],bidsBackHandler:function(e){epbjs.fastLoadAuctionEnd=!0,window.ezosethbbids(e)}})})}epbjs.bidderTimeout=2000,epbjs.useAdj=true,epbjs.ezAdUnits=epbjs.ezAdUnits||[],epbjs.que=epbjs.que||[],epbjs.ezdss=epbjs.ezdss||[],epbjs.ezas=epbjs.ezas||[],epbjs.ezobid=epbjs.ezobid||[],epbjs.SS={"criteo":10050,"oftmedia":10081},epbjs.bidders=['sovrn','openx','pulsepoint','defymedia','aol','conversant','districtm','admedia','emx_digital','sonobi','criteo','ix','cox','audienceNetwork','pubmatic','rubicon','gumgum','oftmedia','lockerdome','triplelift','emx_digital','justpremium','teads','onemobile','yieldlab','unruly'],epbjs.que.push(function(){epbjs.aliasBidder('appnexus', 'oftmedia');}),epbjs.que.push(function(){epbjs.setConfig({priceGranularity:{buckets:[{precision:2,min:0,max:5,increment:.01},{precision:2,min:5,max:50,increment:.1},{precision:2,min:50,max:120,increment:5}]},userSync:{filterSettings:{iframe:{bidders:"*",filter:"include"}}},consentManagement:{cmpApi:'iab',timeout:8000,allowAuctionWithoutConsent:true}}),epbjs.bidderSettings={oftmedia: { bidCpmAdjustment: function(bidCpm) { var adj1 = bidCpm * 0.900000; var adj2 = adj1 * 1.200000; return adj2; }},criteo: { bidCpmAdjustment: function(bidCpm) { var adj1 = bidCpm * 0.720000; var adj2 = adj1 * 1.200000; return adj2; }}, standard:{adserverTargeting:[{key:"epb",val:function(e){return e.bidderCode}},{key:"epa",val:function(e){return e.adId}},{key:"epp",val:function(e){return e.pbCg}},{key:"epf",val:function(e){return e.mediaType}},{key:"eps",val:function(e){return"ehb"==e.bidder?0:void 0!==epbjs.SS[e.bidder.toLowerCase()]?epbjs.SS[e.bidder.toLowerCase()]:(console.error("epbjs: NO MATCH"),0)}}]}},epbjs.onEvent("bidWon",function(e){epbjs.ezas[e.adUnitCode]=e.size,"ehb"==e.bidder?epbjs.ezdss[e.adUnitCode]=e.ss:void 0!==epbjs.SS[e.bidder.toLowerCase()]?(epbjs.ezdss[e.adUnitCode]=epbjs.SS[e.bidder.toLowerCase()],1==epbjs.useAdj&&epbjs.bidders.indexOf(e.bidder)>-1&&(epbjs.ezobid[e.adUnitCode]=e.cpm/1.200000)):console.error("epbjs: NO MATCH")})});epbjsRequestAdUnits([{code: 'div-gpt-ad-macobserver_com-box-3-0', mediaTypes: {banner: { sizes:[[468,60]] }, video: {context:'outstream',playerSize:[[468, 60]]}}, bids: [{bidder: 'criteo', params: { zoneId: '1365411' }},{bidder: 'oftmedia', params:{ placementId: '14490040' }}] },{code: 'div-gpt-ad-macobserver_com-large-mobile-banner-1-0', mediaTypes: {banner: { sizes:[[300,250]] }, video: {context:'outstream',playerSize:[[300, 250]]}}, bids: [{bidder: 'criteo', params: { zoneId: '1248509' }},{bidder: 'oftmedia', params:{ placementId: '11660707' }}] },{code: 'div-gpt-ad-macobserver_com-medrectangle-2-0', mediaTypes: {banner: { sizes:[[970,90],[728,90]] }, video: {context:'outstream',playerSize:[[970, 90]]}}, bids: [{bidder: 'criteo', params: { zoneId: '1365441' }},{bidder: 'oftmedia', params:{ placementId: '14490043' }}] },{code: 'div-gpt-ad-macobserver_com-box-2-0', mediaTypes: {banner: { sizes:[[970,90],[728,90]] }, video: {context:'outstream',playerSize:[[970, 90]]}}, bids: [{bidder: 'criteo', params: { zoneId: '1365397' }},{bidder: 'oftmedia', params:{ placementId: '14490039' }}] },{code: 'div-gpt-ad-macobserver_com-medrectangle-1-0', mediaTypes: {banner: { sizes:[[728,90]] }, video: {context:'outstream',playerSize:[[728, 90]]}}, bids: [{bidder: 'criteo', params: { zoneId: '1365425' }},{bidder: 'oftmedia', params:{ placementId: '11660801' }}] },{code: 'div-gpt-ad-macobserver_com-box-3-0', mediaTypes: {banner: { sizes:[[468,60]] }, video: {context:'outstream',playerSize:[[468, 60]]}}, bids: [{bidder: 'criteo', params: { zoneId: '1365411' }},{bidder: 'oftmedia', params:{ placementId: '14490040' }}] },{code: 'div-gpt-ad-macobserver_com-box-2-0', mediaTypes: {banner: { sizes:[[970,90],[728,90]] }, video: {context:'outstream',playerSize:[[970, 90]]}}, bids: [{bidder: 'criteo', params: { zoneId: '1365397' }},{bidder: 'oftmedia', params:{ placementId: '14490039' }}] },{code: 'div-gpt-ad-macobserver_com-medrectangle-2-0', mediaTypes: {banner: { sizes:[[970,90],[728,90]] }, video: {context:'outstream',playerSize:[[970, 90]]}}, bids: [{bidder: 'criteo', params: { zoneId: '1365441' }},{bidder: 'oftmedia', params:{ placementId: '14490043' }}] },{code: 'div-gpt-ad-macobserver_com-large-mobile-banner-1-0', mediaTypes: {banner: { sizes:[[300,250]] }, video: {context:'outstream',playerSize:[[300, 250]]}}, bids: [{bidder: 'criteo', params: { zoneId: '1248509' }},{bidder: 'oftmedia', params:{ placementId: '11660707' }}] },{code: 'div-gpt-ad-macobserver_com-medrectangle-1-0', mediaTypes: {banner: { sizes:[[728,90]] }, video: {context:'outstream',playerSize:[[728, 90]]}}, bids: [{bidder: 'criteo', params: { zoneId: '1365425' }},{bidder: 'oftmedia', params:{ placementId: '11660801' }}] },{code: 'div-gpt-ad-macobserver_com-large-mobile-banner-2-0', mediaTypes: {banner: { sizes:[[580,400],[336,280],[300,250]] }, video: {context:'outstream',playerSize:[[580, 400]]}}, bids: [{bidder: 'criteo', params: { zoneId: '1248509' }},{bidder: 'oftmedia', params:{ placementId: '11660707' }}] },{code: 'div-gpt-ad-macobserver_com-large-mobile-banner-2-0', mediaTypes: {banner: { sizes:[[580,400],[336,280],[300,250]] }, video: {context:'outstream',playerSize:[[580, 400]]}}, bids: [{bidder: 'criteo', params: { zoneId: '1248509' }},{bidder: 'oftmedia', params:{ placementId: '11660707' }}] }]);</script><script type="text/javascript" data-ezscrex="false">var ezorbf = []; </script><script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">window.isEZABL=false;window.ezmadspc=300;window.ezoViewCheck = false;</script><script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">window.ezDisableInitialLoad=false;</script><script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">
+window.googletag = window.googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//securepubads.g.doubleclick.net/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">
+googletag.cmd.push(function() {googletag.destroySlots();if(typeof window.isEZABL == 'undefined' || window.isEZABL != true) {ezslot_2 = googletag.defineSlot('/1254144/macobserver_com-box-2',[970,90],'div-gpt-ad-macobserver_com-box-2-0').addService(googletag.pubads()).setTargeting('iid3','275610').setTargeting('t','134').setTargeting('d','136802').setTargeting('t1','134').setTargeting('pvc','0').setTargeting('ap','1101').setTargeting('sap','1101').setTargeting('a','|251|').setTargeting('as','revenue').setTargeting('plat','1').setTargeting('bra','mod1').setTargeting('ic','1').setTargeting('at','mbf').setTargeting('adr','399').setTargeting('ezosn','2').setTargeting('reft','tf').setTargeting('refs','120').setTargeting('ga','2497208').setTargeting('gala','').setTargeting('rid','99998').setTargeting('pt','1').setTargeting('al','1001').setTargeting('compid','0').setTargeting('tap','macobserver_com-box-2-275610').setTargeting('eb_br','04b5efc3207e2390972f099a6a3c4757').setTargeting('eba','1').setTargeting('bv','18').setTargeting('acptad','1').setCollapseEmptyDiv(false).setTargeting('br1','1400').setTargeting('br2','0').setTargeting('ezoic','1').setTargeting('nmau','0').setTargeting('deal1',[21,22,23,24,25,26,27,16]);ezslot_2.set('adsense_background_color','FFFFFF').set('adsense_border_color','FFFFFF').set('adsense_link_color','0C9C11').set('adsense_text_color','000000').set('adsense_url_color','0C9C11');ezrpos[2]="2";ezslot_0 = googletag.defineSlot('/1254144/macobserver_com-medrectangle-2',[970,90],'div-gpt-ad-macobserver_com-medrectangle-2-0').addService(googletag.pubads()).setTargeting('iid4','307611').setTargeting('t','134').setTargeting('d','136802').setTargeting('t1','134').setTargeting('pvc','0').setTargeting('ap','1100').setTargeting('sap','1100').setTargeting('a','|3|').setTargeting('as','revenue').setTargeting('plat','1').setTargeting('bra','mod1').setTargeting('ic','1').setTargeting('at','mbf').setTargeting('adr','399').setTargeting('ezosn','0').setTargeting('reft','n').setTargeting('refs','30').setTargeting('ga','2497208').setTargeting('gala','').setTargeting('rid','99998').setTargeting('pt','5').setTargeting('al','1005').setTargeting('compid','0').setTargeting('tap','macobserver_com-medrectangle-2-307611').setTargeting('eb_br','bfa042bdb1583c959161b7823290dc1f').setTargeting('eba','1').setTargeting('bv','18').setCollapseEmptyDiv(false).setTargeting('br1','1300').setTargeting('br2','0').setTargeting('ezoic','1').setTargeting('nmau','0').setTargeting('stl','64').setTargeting('deal1',[21,22,23,24,25,26,27,28,29,30,16]);ezslot_0.set('adsense_background_color','FFFFFF').set('adsense_border_color','FFFFFF').set('adsense_link_color','0000FF').set('adsense_text_color','000000').set('adsense_url_color','828282');ezrpos[0]="0";ezslot_5 = googletag.defineSlot('/1254144/macobserver_com-medrectangle-1',[728,90],'div-gpt-ad-macobserver_com-medrectangle-1-0').addService(googletag.pubads()).setTargeting('iid4','315753').setTargeting('t','134').setTargeting('d','136802').setTargeting('t1','134').setTargeting('pvc','0').setTargeting('ap','1127').setTargeting('sap','1127').setTargeting('a','|252|').setTargeting('as','revenue').setTargeting('plat','1').setTargeting('bra','mod1').setTargeting('ic','1').setTargeting('at','mbf').setTargeting('adr','399').setTargeting('ezosn','5').setTargeting('reft','n').setTargeting('refs','120').setTargeting('ga','2497208').setTargeting('gala','').setTargeting('rid','99998').setTargeting('pt','4').setTargeting('al','1004').setTargeting('compid','0').setTargeting('tap','macobserver_com-medrectangle-1-315753').setTargeting('eb_br','5297de5240aa45da173a0792747e0d26').setTargeting('eba','1').setTargeting('bv','18').setTargeting('acptad','1').setCollapseEmptyDiv(false).setTargeting('br1','850').setTargeting('br2','0').setTargeting('ezoic','1').setTargeting('nmau','0').setTargeting('stl','25').setTargeting('deal1',[21,22,23,24,25,26,15,16]);ezslot_5.set('adsense_background_color','FFFFFF').set('adsense_border_color','FFFFFF').set('adsense_link_color','FF6600').set('adsense_text_color','000000').set('adsense_url_color','FF6600');ezrpos[5]="5";ezslot_4 = googletag.defineSlot('/1254144/macobserver_com-large-mobile-banner-2',[580,400],'div-gpt-ad-macobserver_com-large-mobile-banner-2-0').addService(googletag.pubads()).setTargeting('iid3','284308').setTargeting('t','134').setTargeting('d','136802').setTargeting('t1','134').setTargeting('pvc','0').setTargeting('ap','1112').setTargeting('sap','1112').setTargeting('a','|2|').setTargeting('as','revenue').setTargeting('plat','1').setTargeting('bra','mod1').setTargeting('ic','1').setTargeting('at','mbf').setTargeting('adr','399').setTargeting('ezosn','4').setTargeting('reft','n').setTargeting('refs','120').setTargeting('ga','2497208').setTargeting('gala','').setTargeting('rid','99998').setTargeting('pt','702').setTargeting('al','1702').setTargeting('compid','0').setTargeting('tap','macobserver_com-large-mobile-banner-2-284308').setTargeting('eb_br','39abb99448d54704c4afa42efe76e15d').setTargeting('eba','1').setTargeting('bv','18').setCollapseEmptyDiv(false).setTargeting('br1','1100').setTargeting('br2','0').setTargeting('ezoic','1').setTargeting('nmau','0').setTargeting('stl','33').setTargeting('deal1',[21,22,23,24,25,26,16]);ezslot_4.set('adsense_background_color','FFFFFF').set('adsense_border_color','FFFFFF').set('adsense_link_color','37a5d7').set('adsense_text_color','000000').set('adsense_url_color','F0F0F0');ezrpos[4]="4";ezslot_1 = googletag.defineSlot('/1254144/macobserver_com-box-3',[468,60],'div-gpt-ad-macobserver_com-box-3-0').addService(googletag.pubads()).setTargeting('iid4','315768').setTargeting('t','134').setTargeting('d','136802').setTargeting('t1','134').setTargeting('pvc','0').setTargeting('ap','1106').setTargeting('sap','1106').setTargeting('a','|2|').setTargeting('as','revenue').setTargeting('plat','1').setTargeting('bra','mod1').setTargeting('ic','1').setTargeting('at','mbf').setTargeting('adr','399').setTargeting('ezosn','1').setTargeting('reft','n').setTargeting('refs','120').setTargeting('ga','2497208').setTargeting('gala','').setTargeting('rid','99998').setTargeting('pt','2').setTargeting('al','1002').setTargeting('compid','0').setTargeting('tap','macobserver_com-box-3-315768').setTargeting('eb_br','bfa042bdb1583c959161b7823290dc1f').setTargeting('eba','1').setTargeting('bv','18').setCollapseEmptyDiv(false).setTargeting('br1','1300').setTargeting('br2','0').setTargeting('ezoic','1').setTargeting('nmau','0').setTargeting('stl','40').setTargeting('deal1',[21,22,23,24,25,26,27,28,29,16]);ezslot_1.set('adsense_background_color','FFFFFF').set('adsense_border_color','FFFFFF').set('adsense_link_color','37a5d7').set('adsense_text_color','000000').set('adsense_url_color','F0F0F0');ezrpos[1]="1";ezslot_3 = googletag.defineSlot('/1254144/macobserver_com-large-mobile-banner-1',[300,250],'div-gpt-ad-macobserver_com-large-mobile-banner-1-0').addService(googletag.pubads()).setTargeting('iid4','300768').setTargeting('t','134').setTargeting('d','136802').setTargeting('t1','134').setTargeting('pvc','0').setTargeting('ap','1111').setTargeting('sap','1111').setTargeting('a','|6|').setTargeting('as','revenue').setTargeting('plat','1').setTargeting('bra','mod1').setTargeting('ic','1').setTargeting('at','mbf').setTargeting('adr','399').setTargeting('ezosn','3').setTargeting('reft','n').setTargeting('refs','120').setTargeting('ga','2497208').setTargeting('gala','').setTargeting('rid','99998').setTargeting('pt','701').setTargeting('al','1701').setTargeting('compid','0').setTargeting('tap','macobserver_com-large-mobile-banner-1-300768').setTargeting('eb_br','736e09a0771285737509ab8954c475a7').setTargeting('eba','1').setTargeting('bv','18').setCollapseEmptyDiv(false).setTargeting('br1','1200').setTargeting('br2','0').setTargeting('ezoic','1').setTargeting('nmau','4').setTargeting('stl','36').setTargeting('deal1',[21,22,23,24,25,26,16]);ezslot_3.set('adsense_background_color','FFFFFF').set('adsense_border_color','FFFFFF').set('adsense_link_color','858585').set('adsense_text_color','000000').set('adsense_url_color','F0F0F0');ezrpos[3]="3";}else{window.ezHideLocations=[];ezslot_2 = googletag.defineSlot('/1254144/macobserver_com-box-2',[970,90],'div-gpt-ad-macobserver_com-box-2-0').addService(googletag.pubads()).setTargeting('iid3','275610').setTargeting('t','134').setTargeting('d','136802').setTargeting('t1','134').setTargeting('pvc','0').setTargeting('ap','1101').setTargeting('sap','1101').setTargeting('a','|251|').setTargeting('as','revenue').setTargeting('plat','1').setTargeting('bra','mod1').setTargeting('ic','1').setTargeting('at','mbf').setTargeting('adr','399').setTargeting('ezosn','2').setTargeting('reft','tf').setTargeting('refs','120').setTargeting('ga','2497208').setTargeting('gala','').setTargeting('rid','99998').setTargeting('pt','1').setTargeting('al','1001').setTargeting('compid','0').setTargeting('tap','macobserver_com-box-2-275610').setTargeting('eb_br','04b5efc3207e2390972f099a6a3c4757').setTargeting('eba','1').setTargeting('bv','18').setTargeting('acptad','1').setCollapseEmptyDiv(false).setTargeting('br1','1400').setTargeting('br2','0').setTargeting('ezoic','1').setTargeting('nmau','0').setTargeting('deal1',[21,22,23,24,25,26,27,16]);ezslot_2.set('adsense_background_color','FFFFFF').set('adsense_border_color','FFFFFF').set('adsense_link_color','0C9C11').set('adsense_text_color','000000').set('adsense_url_color','0C9C11');ezrpos[2]="2";window.ezHideLocations.push('div-gpt-ad-macobserver_com-medrectangle-2-0');ezslot_5 = googletag.defineSlot('/1254144/macobserver_com-medrectangle-1',[728,90],'div-gpt-ad-macobserver_com-medrectangle-1-0').addService(googletag.pubads()).setTargeting('iid4','315753').setTargeting('t','134').setTargeting('d','136802').setTargeting('t1','134').setTargeting('pvc','0').setTargeting('ap','1127').setTargeting('sap','1127').setTargeting('a','|252|').setTargeting('as','revenue').setTargeting('plat','1').setTargeting('bra','mod1').setTargeting('ic','1').setTargeting('at','mbf').setTargeting('adr','399').setTargeting('ezosn','5').setTargeting('reft','n').setTargeting('refs','120').setTargeting('ga','2497208').setTargeting('gala','').setTargeting('rid','99998').setTargeting('pt','4').setTargeting('al','1004').setTargeting('compid','0').setTargeting('tap','macobserver_com-medrectangle-1-315753').setTargeting('eb_br','5297de5240aa45da173a0792747e0d26').setTargeting('eba','1').setTargeting('bv','18').setTargeting('acptad','1').setCollapseEmptyDiv(false).setTargeting('br1','850').setTargeting('br2','0').setTargeting('ezoic','1').setTargeting('nmau','0').setTargeting('stl','25').setTargeting('deal1',[21,22,23,24,25,26,15,16]);ezslot_5.set('adsense_background_color','FFFFFF').set('adsense_border_color','FFFFFF').set('adsense_link_color','FF6600').set('adsense_text_color','000000').set('adsense_url_color','FF6600');ezrpos[5]="5";window.ezHideLocations.push('div-gpt-ad-macobserver_com-large-mobile-banner-2-0');window.ezHideLocations.push('div-gpt-ad-macobserver_com-box-3-0');window.ezHideLocations.push('div-gpt-ad-macobserver_com-large-mobile-banner-1-0');}googletag.pubads().addEventListener('slotRenderEnded', function(event) { __ez.queue.addFunc("ezbanger", "ezbanger", event, false, ['banger.js'], true, true, false, true); });googletag.pubads().addEventListener('impressionViewable', function(event) { __ez.queue.addFunc("ezvb", "ezvb", event, false, ['banger.js'], true, true, false, true); });googletag.pubads().addEventListener('slotResponseReceived', function(event) { __ez.queue.addFunc("ezsr", "ezsr", event, false, ['banger.js'], true, true, false, true); });googletag.pubads().addEventListener('slotRequested', function(e) { window.ezsrqt[e.slot.getSlotElementId()] = Date.now();});googletag.pubads().enableLazyLoad({fetchMarginPercent: 400,renderMarginPercent: 250,mobileScaling: 2.0});googletag.enableServices();});window.ezoll = false;window.ezoadxnc = '1254144';window.ezorefgsl = function(slot) {slot.setTargeting('reqt', Date.now());if(typeof slot.DFPSlot != 'undefined') {googletag.pubads().refresh([slot.DFPSlot]);} else {googletag.pubads().refresh([slot]);}};var ezoibfh = Array();ezoibfh[0] = 'zero';ezoibfh[1000000] = 'off';ezoibfh[1100] = '39abb99448d54704c4afa42efe76e15d';
+ezoibfh[280] = 'c16fac08e79a971524b1c6834f5caad3';
+ezoibfh[220] = '43aa1607a0c08c74b14a9039e7b909b4';
+ezoibfh[70] = '527e52c10635ac8136a4c84094ee49a8';
+ezoibfh[60] = 'c352ba581bd3ffd8cea608cf2d55f519';
+ezoibfh[30] = '54d0fa6d5f6aabe7623cb24faa42a441';
+ezoibfh[850] = '5297de5240aa45da173a0792747e0d26';
+ezoibfh[300] = '90c3c48d0172916d27c102ea4aa9d49c';
+ezoibfh[240] = '8de2c8ca79e8623e3cb37120a35ebaa2';
+ezoibfh[180] = '9ae587f95e95c876b7b76fd4c72a3838';
+ezoibfh[700] = '8b07bae800b215e481d05a271b3e723b';
+ezoibfh[350] = '9e0a1ce5b2455cb9b48d5df4c6bf4053';
+ezoibfh[120] = '58ef7bddb438af5e257c4377f32c243a';
+ezoibfh[1300] = 'bfa042bdb1583c959161b7823290dc1f';
+ezoibfh[550] = '26dfa00588543c52511429ade391f561';
+ezoibfh[500] = '5f2b94bb26a5aa9b1a00e66d30cfd5ec';
+ezoibfh[50] = '3ba982fc4238dd4197b1d51b345478dc';
+ezoibfh[750] = '6ac330e431a70c7d8ce9fb95aee95c72';
+ezoibfh[650] = '5bac35e1a3b6adc56da706000a645484';
+ezoibfh[600] = '45a351e981f435b4c20fafca8a5d741c';
+ezoibfh[40] = 'ee685f77592ce296910ee91457d66ba3';
+ezoibfh[20] = '7432360301409ae695ba255f16fbcf06';
+ezoibfh[1200] = '736e09a0771285737509ab8954c475a7';
+ezoibfh[260] = '57914c3716312cb7e954090f0717ea25';
+ezoibfh[200] = '86802a923a1f32517e4c5d3b6d550271';
+ezoibfh[160] = '3530fcb6bcc13dc3c1712eaef7d92700';
+ezoibfh[140] = 'af063c244089b52ec5a0423a258f1f8e';
+ezoibfh[100] = 'a495ce7dbb4cefcd3e0a722048894f41';
+ezoibfh[80] = 'dfa60cee6e1053fc0c9e607c8047bd28';
+ezoibfh[0] = '60474211daf1dfd4d90000ea01f56c30';
+ezoibfh[1400] = '04b5efc3207e2390972f099a6a3c4757';
+ezoibfh[1000] = 'c5429b6ddd929d0bc40a832a87789a7c';
+ezoibfh[950] = 'c410f2a2b0c2123f4b6651cda6c5cf53';
+ezoibfh[900] = 'eeb0e32289ff31f9ddef18331038e5e9';
+ezoibfh[800] = 'dc3573d5dc41abdf97751be02f53537f';
+ezoibfh[450] = '6e85b37de1b1ffc2593baa5d6e4b02fc';
+ezoibfh[400] = '76163170a8636ae5b88417f095893e08';
+ezoibfh[90] = 'b355e9227b551c119a30a68852723b62';
+ezoibfh[10] = '291d27313eb66c50243129b23df8a579';
+if(typeof window.isEZABL == 'undefined' || window.isEZABL != true) {ezslots.push("ezslot_2");ezslots.push("ezslot_0");ezslots.push("ezslot_5");ezslots.push("ezslot_4");ezslots.push("ezslot_1");ezslots.push("ezslot_3");}else{ezslots.push("ezslot_2");ezslots.push("ezslot_5");}</script>
+<script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer="">var __ez=__ez||{};__ez.stms=Date.now();__ez.evt={};__ez.script={};__ez.ck={};__ez.template={};__ez.template.isOrig=false;__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.ck.get=function(e,n){null!==n&&(e=e+"_"+n);for(var o=e+"=",t=decodeURIComponent(document.cookie).split(";"),i=0;i<t.length;i++){for(var c=t[i];" "===c.charAt(0);)c=c.substring(1);if(0===c.indexOf(o))return c.substring(o.length,c.length)}return""},__ez.ck.setByCat=function(e,n){if(-1===e.indexOf("path=")&&(e+="; path=/"),"undefined"!=typeof cmpIsOn){if(null!=n){var o=__ez.ck.get("ezCMPCookieConsent",null);-1!==(o=o.substring(1,o.length)).indexOf(n+"=1")?document.cookie=e:""===o&&"undefined"!=typeof cmpCookies&&(void 0===cmpCookies[n]&&(cmpCookies[n]=[]),cmpCookies[n].push(e))}}else document.cookie=e};__ez.queue=function(){var e=0,i=0,n=[],t=!1,r=[],o=[],s=!0,a={func:function(e,i,t,r,o,s,a){var l=this;this.name=e,this.funcName=i,this.parameters=null===t?null:t instanceof Array?t:[t],this.isBlock=r,this.blockedBy=o,this.deleteWhenComplete=s,this.isError=!1,this.isComplete=!1,this.isInitialized=!1,this.proceedIfError=a,this.isTimeDelay=!1,this.process=function(){d("... func = "+e),l.isInitialized=!0,l.isComplete=!0,d("... func.apply: "+e);var i=l.funcName.split("."),t=null;i.length>3||(t=3===i.length?window[i[0]][i[1]][i[2]]:2===i.length?window[i[0]][i[1]]:window[l.funcName]),null!=t&&t.apply(null,this.parameters),!0===l.deleteWhenComplete&&delete n[e],!0===l.isBlock&&(d("----- F'D: "+l.name),f())}},file:function(e,i,n,t,r,o,s){var a=this;this.name=e,this.path=i,this.async=r,this.defer=o,this.isBlock=n,this.blockedBy=t,this.isInitialized=!1,this.isError=!1,this.isComplete=!1,this.proceedIfError=s,this.isTimeDelay=!1,this.process=function(){a.isInitialized=!0,d("... file = "+e);var n=document.createElement("script");n.src=i,!0===r?n.async=!0:!0===o&&(n.defer=!0),n.onerror=function(){d("----- ERR'D: "+a.name),a.isError=!0,!0===a.isBlock&&f()},n.onreadystatechange=n.onload=function(){var e=n.readyState;d("----- F'D: "+a.name),e&&!/loaded|complete/.test(e)||(a.isComplete=!0,!0===a.isBlock&&f())},document.getElementsByTagName("head")[0].appendChild(n)}}};function l(e){!0!==c(e)&&0!=s&&e.process()}function c(e){if(!0===e.isTimeDelay&&!1===t)return d(e.name+" blocked = TIME DELAY!"),!0;if(e.blockedBy instanceof Array)for(var i=0;i<e.blockedBy.length;i++){var r=e.blockedBy[i];if(!1===n.hasOwnProperty(r))return d(e.name+" blocked = "+r),!0;if(!0===e.proceedIfError&&!0===n[r].isError)return!1;if(!1===n[r].isComplete)return d(e.name+" blocked = "+r),!0}return!1}function d(e){var i=window.location.href,n=new RegExp("[?&]ezq=([^&#]*)","i").exec(i);"1"===(n?n[1]:null)&&console.debug(e)}function f(){++e>200||(d("let's go"),u(r),u(o))}function u(e){for(var i in e)if(!1!==e.hasOwnProperty(i)){var n=e[i];!0===n.isComplete||c(n)||!0===n.isInitialized||!0===n.isError?!0===n.isError?d(n.name+": error"):!0===n.isComplete?d(n.name+": complete already"):!0===n.isInitialized&&d(n.name+": initialized already"):n.process()}}return window.addEventListener("load",function(){setTimeout(function(){t=!0,d("TDELAY -----"),f()},5e3)},!1),{addFile:function(e,i,t,s,c,d,f,u){var h=new a.file(e,i,t,s,c,d,f);!0===u?r[e]=h:o[e]=h,n[e]=h,l(h)},addDelayFile:function(e,i){var t=new a.file(e,i,!1,[],!1,!1,!0);t.isTimeDelay=!0,d(e+" ...  FILE! TDELAY"),o[e]=t,n[e]=t,l(t)},addFunc:function(e,t,s,c,d,f,u,h,m){!0===f&&(e=e+"_"+i++);var p=new a.func(e,t,s,c,d,u,h);!0===m?r[e]=p:o[e]=p,n[e]=p,l(p)},addDelayFunc:function(e,i,t){var r=new a.func(e,i,t,!1,[],!0,!0);r.isTimeDelay=!0,d(e+" ...  FUNCTION! TDELAY"),o[e]=r,n[e]=r,l(r)},items:n,processAll:f,setallowLoad:function(e){s=e}}}();__ez.script.add=function(e){var t=document.createElement("script");t.src=e,t.async=!0,t.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(t)};</script>
+<script data-ezscrex="false">(function(){if("function"===typeof window.CustomEvent)return!1;window.CustomEvent=function(c,a){a=a||{bubbles:!1,cancelable:!1,detail:null};var b=document.createEvent("CustomEvent");b.initCustomEvent(c,a.bubbles,a.cancelable,a.detail);return b}})();</script><script data-ezscrex="false">window.requestIdleCallback=window.requestIdleCallback||function(b){var a=Date.now();return setTimeout(function(){b({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-a))}})},1)};
+	(function(){function b(c,d){for(var f=[],g=0;g<c;g++){for(var h=g*d*Math.random(),k=!0,l=2;l<=Math.sqrt(h);++l)if(0===h%l){k=!1;break}k&&f.push(h)}return f}function a(){var c=this;c.g=0;setInterval(function(){c.g++},1E3)}if("1"==window.ihajsdjhsadhjk){var e=new a;b(6,e);window.ihajsdjhsadhjk=null;window.doezifk="1"}"1"==window.doezifk&&(b(50,1E9),pointlessComputationsButton.disabled=!1,window.doezifk=null,window.ihajsdjhsadhjk="1");if("function"===typeof window.EzoIvent)return!1;window.EzoIvent=function(c,
+	d){d=d||{bubbles:!1,cancelable:!1,detail:null};var f=document.createEvent("EzoIvent");f.initCustomEvent(c,d.bubbles,d.cancelable,d.detail);return f}})();__ez.a=[];__ez.a[0]=0;__ez.a[1]=45;__ez.a[2]=[];__ez.a[3]=0;__ez.a[4]=1;__ez.a[5]=[];
+	function m(b){b=_findNetworkQuietPeriods(__ez.a[2],window.ezodomstart,b);b=_findOverlappingQuietPeriods(b,__ez.a[5]);if("undefined"!=typeof b){var a=0,e=Math.max(b[b.length-1].b.end,b[b.length-1].b.end);b.forEach(function(c){a+=Math.floor(c.f/55)});(a>=__ez.sswp&&1<a||10<=a||e<Date.now()-5E3)&&clearInterval(window.ezoIint);__ez.a[0]=a;window.dispatchEvent(new CustomEvent("EzoIvent",{detail:[__ez.a[0],50]}))}}
+	_findOverlappingQuietPeriods=function(b,a){var e=a.slice(),c=b.slice();e.shift();c.shift();var d=[];e.forEach(function(f){c.forEach(function(g){f.start>=g.start?g.end>=f.start+55&&d.push({b:f,i:g,h:a,j:b,f:Math.min(f.duration,g.duration)}):f.end>=g.start+55&&d.push({b:f,i:g,h:a,j:b,f:Math.min(f.duration,g.duration)})})});if(0<d.length)return d};var n=0;
+	_findNetworkQuietPeriods=function(b,a,e){0==n&&(n=a-1);a=[];for(var c in b){var d=b[c];0>d.end&&(d.end=99);a.push({time:d.start,c:!0});0<d.end&&a.push({time:d.end,c:!1})}a.sort(function(k,l){return k.time-l.time});var f=0,g=n,h=[];a.forEach(function(k){k.c?(f===__ez.a[4]&&h.push({start:g,end:k.time,duration:k.time-g}),f++):(f--,f===__ez.a[4]&&(g=k.time))});f<=__ez.a[4]&&h.push({start:g,end:e,duration:e-g});return h};
+	(function(){if("undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(19)){var b=window.setInterval;window.setInterval=function(a,e){var c=e;90>c&&56!=c&&(c=90);return 3>arguments.length?b(a,c):b(a.bind(window,Array.prototype.slice.call(arguments).slice(3)),c)}}})();
+	(function(){if("undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(19)){var b=window.setTimeout;window.setTimeout=function(a,e){var c=e;90>c&&(c=90);return 3>arguments.length?b(a,c):b(a.bind(window,Array.prototype.slice.call(arguments).slice(3)),c)}}})();
+	(function(){function b(){var e=new a;"undefined"!=typeof this.open?e.open=this.open:this.open=a.open;"undefined"!=typeof this.abort?e.abort=this.abort:this.open=a.open;"undefined"!=typeof this.getAllResponseHeaders?e.getAllResponseHeaders=this.getAllResponseHeaders:this.getAllResponseHeaders=a.getAllResponseHeaders;"undefined"!=typeof this.getResponseHeader?e.getResponseHeader=this.getResponseHeader:this.getResponseHeader=a.getResponseHeader;"undefined"!=typeof this.overrideMimeType?e.overrideMimeType=
+	this.overrideMimeType:this.overrideMimeType=a.overrideMimeType;"undefined"!=typeof this.setRequestHeader?e.setRequestHeader=this.setRequestHeader:this.setRequestHeader=a.setRequestHeader;var c=Math.random();e.addEventListener("loadstart",function(d){window.ezorqs(d,c)});e.addEventListener("loadend",function(d){window.ezorqe(d,c)});e.addEventListener("error",function(d){window.ezorqe(d,c)});e.addEventListener("abort",function(d){window.ezorqe(d,c)});return e}var a=window.XMLHttpRequest;b.prototype=
+	a.prototype;window.XMLHttpRequest=b})();window.ezoFetchConst=window.fetch;window.fetch=function(b){var a=arguments,e=this,c=Math.random();window.ezorqs(b,c);return new Promise(function(d,f){window.ezoFetchConst.apply(e,a).then(function(g){window.ezorqe(g,c);d(g)})["catch"](function(g){window.ezorqe(g,c);f(g)})})};
+	document.addEventListener("DOMContentLoaded",function(){window.ezodomstart=Date.now();if("requestIdleCallback"in window){var b=0;window.ezoIint=setInterval(function(){window.requestIdleCallback(function(a){var e=Date.now();a=a.timeRemaining();a<Date.now()&&(a>__ez.a[1]?0==b&&(b=e):0!=b&&(a={start:b,end:e-(50-a)},a.duration=a.end-a.start,55<=a.duration&&(__ez.a[5].push(a),m(e)),b=0))})},56)}else window.dispatchEvent(new CustomEvent("EzoIvent",{detail:[-1,-1]})),clearInterval(window.ezoIint)});
+	"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&(window.addEventListener("load",function(){window.__ez__w_load=!0}),window.addEventListener("DOMContentLoaded",function(){window.__ez__w_dom=!0}),function(){if(Element.prototype.addEventListener){window.__ez__ael=window.addEventListener;window.__ez__ael__proto=window.__ez__ael.prototype;var b=function(){"domcontentloaded"==arguments[0].toLowerCase()?arguments[0]="EzoicDOMContentLoaded":"load"==arguments[0].toLowerCase()&&(arguments[0]=
+	"Ezoicload");window.__ez__ael.apply(window,arguments)};window.__ez__ael.prototype=window.__ez__ael__proto;window.addEventListener=b;document.addEventListener=b}}());window.ezorqs=function(b,a){indexKey=window.ezogetrqbykey(a);"undefined"==typeof indexKey&&(__ez.a[2].push({start:Date.now(),end:-1,id:a}),__ez.a[3]++,setTimeout(function(){window.ezorqe(b,a)},2E3))};
+	window.ezorqe=function(b,a,e){indexKey=window.ezogetrqbykey(a);"undefined"!=typeof indexKey&&-1==__ez.a[2][indexKey].end?(__ez.a[2][indexKey].end=Date.now(),__ez.a[3]--):1==e&&__ez.a[3]--};window.ezogetrqbykey=function(b){for(var a=0,e=__ez.a[2].length;a<e;a++)if(__ez.a[2][a].id==b)return a};__ez.nap=__ez.a;
+	</script>
+<script data-ezscrex="false" type="text/javascript" data-cfasync="false">var _ezaq = {"ad_cache_level":2,"ad_location_ids":"5,2,1,701,702,4","ad_transform_level":0,"adx_ad_count":6,"bidder_version":3,"city":"","country":"US","days_since_last_visit":-1,"display_ad_count":5,"domain_id":136802,"ds_adsize_opt_id":-1,"engaged_time_visit":0,"ezcache_level":0,"forensiq_score":-1,"form_factor_id":1,"framework_id":1,"has_bad_image":0,"has_bad_words":0,"iab_category":"","is_from_recommended_pages":false,"is_return_visitor":false,"is_sitespeed":0,"last_page_load":"","last_pageview_id":"","lt_cache_level":0,"max_ads":10,"metro_code":0,"page_ad_positions":"1100,1101,1106,1111,1112,1127","page_view_count":0,"page_view_id":"1a3c414f-fa13-4f86-6c4c-648ac88a6847","position_selection_id":16,"postal_code":"","pv_event_count":0,"response_time_orig":283,"serverid":"18.144.61.14:4736","state":"","sub_page_ad_positions":"1100,1101,1106,1111,1112,1127","t_epoch":1577266654,"template_id":134,"time_on_site_visit":0,"url":"https://www.macobserver.com/privacy/","user_id":0,"word_count":1270,"worst_bad_word_level":0};var _ezim_d = {"macobserver_com-box-2":{"adsense_stat_source_id":5,"adx_ad_count":6,"adx_stat_source_id":35,"full_id":"macobserver_com-box-2/2019-12-25/275610","height":"90","position_id":1101,"sub_position_id":1101,"width":"970"},"macobserver_com-box-3":{"adsense_stat_source_id":5,"adx_ad_count":6,"adx_stat_source_id":35,"full_id":"macobserver_com-box-3/2019-12-25/315768","height":"60","position_id":1106,"sub_position_id":1106,"width":"468"},"macobserver_com-large-mobile-banner-1":{"adsense_stat_source_id":5,"adx_ad_count":6,"adx_stat_source_id":35,"full_id":"macobserver_com-large-mobile-banner-1/2019-12-25/300768","height":"250","position_id":1111,"sub_position_id":1111,"width":"300"},"macobserver_com-large-mobile-banner-2":{"adsense_stat_source_id":5,"adx_ad_count":6,"adx_stat_source_id":35,"full_id":"macobserver_com-large-mobile-banner-2/2019-12-25/284308","height":"400","position_id":1112,"sub_position_id":1112,"width":"580"},"macobserver_com-medrectangle-1":{"adsense_stat_source_id":5,"adx_ad_count":6,"adx_stat_source_id":35,"full_id":"macobserver_com-medrectangle-1/2019-12-25/315753","height":"90","position_id":1127,"sub_position_id":1127,"width":"728"},"macobserver_com-medrectangle-2":{"adsense_stat_source_id":5,"adx_ad_count":6,"adx_stat_source_id":35,"full_id":"macobserver_com-medrectangle-2/2019-12-25/307611","height":"90","position_id":1100,"sub_position_id":1100,"width":"970"}};var _ezat = {"domain_id":136802,"form_factor_id":1,"framework_id":1,"pageview_date":"2019-12-25","pageview_id":"1a3c414f-fa13-4f86-6c4c-648ac88a6847","template_id":134,"url":"https://www.macobserver.com/privacy/","visit_uuid":"39d97e10-3918-41c3-4bb8-c5df32520e2a"};</script><script data-ezscrex="false" data-pagespeed-no-defer="" data-cfasync="false" type="text/javascript">__ez.queue.addFile('banger.js', '/porpoiseant/banger.js?cb=188-1&bv=86&v=30&PageSpeed=off', true, [], true, false, false, true);</script><script src="/porpoiseant/banger.js?cb=188-1&amp;bv=86&amp;v=30&amp;PageSpeed=off" async=""></script>
+<script>(function(){function a(g,h,i){var j=new Date;j.setTime(j.getTime()+1e3*(60*(60*(24*i))));var k="expires="+j.toUTCString(),l=g+"="+h+";"+k+";path=/;";"undefined"!=typeof ezdomain&&(l+="domain="+ezdomain),document.cookie=l}var b=window.addEventListener?"addEventListener":"attachEvent",c=window[b],f="attachEvent"==b?"onmessage":"message";c(f,function(g){"undefined"!=typeof g.data.ezstatus&&(__ez.bit.AddAndFire(_ezaq.page_view_id,[new __ezDotData("dg",g.data.ezstatus)]),a("ezdg",g.data.ezstatus,730))})})();</script>
+<script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer="">__ez.dot={};var __ezDotData=function(e,t){"string"!=typeof e&&2==e.length&&(t=e[1],e=e[0]),this.name=e,this.val=t};__ez.dot.b64={_keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",encode:function(e){var t,r,n,o,i,d,a,_="",f=0;for(e=Base64._utf8_encode(e);f<e.length;)o=(t=e.charCodeAt(f++))>>2,i=(3&t)<<4|(r=e.charCodeAt(f++))>>4,d=(15&r)<<2|(n=e.charCodeAt(f++))>>6,a=63&n,isNaN(r)?d=a=64:isNaN(n)&&(a=64),_=_+this._keyStr.charAt(o)+this._keyStr.charAt(i)+this._keyStr.charAt(d)+this._keyStr.charAt(a);return _},decode:function(e){var t,r,n,o,i,d,a="",_=0;for(e=e.replace(/[^A-Za-z0-9+/=]/g,"");_<e.length;)t=this._keyStr.indexOf(e.charAt(_++))<<2|(o=this._keyStr.indexOf(e.charAt(_++)))>>4,r=(15&o)<<4|(i=this._keyStr.indexOf(e.charAt(_++)))>>2,n=(3&i)<<6|(d=this._keyStr.indexOf(e.charAt(_++))),a+=String.fromCharCode(t),64!=i&&(a+=String.fromCharCode(r)),64!=d&&(a+=String.fromCharCode(n));return a=Base64._utf8_decode(a)},_utf8_encode:function(e){e=e.replace(/rn/g,"n");for(var t="",r=0;r<e.length;r++){var n=e.charCodeAt(r);n<128?t+=String.fromCharCode(n):(127<n&&n<2048?t+=String.fromCharCode(n>>6|192):(t+=String.fromCharCode(n>>12|224),t+=String.fromCharCode(n>>6&63|128)),t+=String.fromCharCode(63&n|128))}return t},_utf8_decode:function(e){for(var t="",r=0,n=c1=c2=0;r<e.length;)(n=e.charCodeAt(r))<128?(t+=String.fromCharCode(n),r++):191<n&&n<224?(c2=e.charCodeAt(r+1),t+=String.fromCharCode((31&n)<<6|63&c2),r+=2):(c2=e.charCodeAt(r+1),c3=e.charCodeAt(r+2),t+=String.fromCharCode((15&n)<<12|(63&c2)<<6|63&c3),r+=3);return t}},__ez.dot.dataToStr=function(e){if(void 0===e)return[];try{for(var t in e)e[t].val=e[t].val+""}catch(e){}return e},__ez.dot.getCC=function(){var e="XX";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(e=_ezaq.country),e},__ez.dot.getDID=function(){var e="0";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(e=_ezaq.domain_id.toString()),e},__ez.dot.getEpoch=function(e){return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(e=_ezaq.t_epoch),e},__ez.dot.getPageviewId=function(){var e="";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("page_view_id")&&(e=_ezaq.page_view_id),e},__ez.dot.getURL=function(e){return("undefined"!=typeof ezJsu&&1==ezJsu||"undefined"!=typeof _ez_sa&&1==_ez_sa||"undefined"!=typeof isAmp&&!0===isAmp||"undefined"!=typeof ezWp&&!0===ezWp)&&(e="//g.ezoic.net"+e),e},__ez.dot.isValid=function(e){for(var t=0;t<e.length;t++)if(e[t]instanceof __ezDotData==!1)return console.error("Invalid data. ",e[t]),!1;return!0},__ez.dot.isDefined=function(){for(var e=0;e<arguments.length;e++)if(null==arguments[e])return console.error("Argument not defined. ",arguments),!1;return!0},__ez.dot.isAnyDefined=function(){for(var e=!1,t=0;t<arguments.length;t++)null!=arguments[t]&&(e=!0);return 0==e&&console.error("isAnyDefined Arguments not defined. ",arguments),e},__ez.dot.getSlotIID=function(e){var t="0";try{var r=__ez.dot.getTargetingMap(e);if(-1===__ez.dot.getElementId(e).indexOf("div-gpt-ad"))return t;if(void 0!==r)for(var n in r)if(-1!==n.indexOf("iid")&&void 0!==r[n][0]){t=r[n][0];break}}catch(e){}return t},__ez.dot.getElementId=function(e){return void 0!==e.ElementId?e.ElementId:e.getSlotElementId()},__ez.dot.getAdUnitPath=function(e){return void 0!==e.AdUnitPath?e.AdUnitPath:e.getAdUnitPath()},__ez.dot.getSizes=function(e){return void 0!==e.Sizes?e.Sizes:e.getSizes()},__ez.dot.getTargeting=function(e,t){return void 0!==e.Targeting?e.Targeting[t]:e.getTargeting(t)[0]},__ez.dot.getTargetingMap=function(e){return void 0!==e.Targeting?e.Targeting:e.getTargetingMap()},__ez.dot.getAdUnit=function(e){return!0===__ez.template.isOrig?__ez.dot.getAdUnitPath(e).split("/").pop()+"|~ez~|"+__ez.dot.getElementId(e):__ez.dot.getElementId(e)};__ez.bit=function(){function c(a,b){d(a,b),e()}function d(b,c){__ez.dot.isDefined(b)&&__ez.dot.isValid(c)&&a.push({type:"pageview",pageview_id:b,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(c)})}function e(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(a)&&a.length>0&&((new Image).src=__ez.dot.getURL(b)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&ds="+btoa(JSON.stringify(a))),a=[])}var a=[],b="/detroitchicago/greenoaks.gif";return{Add:d,AddAndFire:c,Fire:e}}();</script><script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer="">__ez.pel=function(){var u=[],i="/porpoiseant/army.gif";function t(e,i,t,_,d,o,n){if(__ez.dot.isDefined(e)&&0!=__ez.dot.isAnyDefined(e.getSlotElementId,e.ElementId)){var r=parseInt(__ez.dot.getTargeting(e,"ap")),a=__ez.dot.getSlotIID(e),s=__ez.dot.getAdUnit(e),p=parseInt(__ez.dot.getTargeting(e,"compid")),z=0,f=0,g=function(e){if("undefined"==typeof _ezim_d)return!1;var i=__ez.dot.getAdUnitPath(e).split("/").pop();if("object"==typeof _ezim_d&&_ezim_d.hasOwnProperty(i))return _ezim_d[i];for(var t in _ezim_d)if(t.split("/").pop()===i)return _ezim_d[t];return!1}(e);"object"==typeof g&&(void 0!==g.creative_id&&(f=g.creative_id),void 0!==g.line_item_id&&(z=g.line_item_id)),__ez.dot.isDefined(a,s)&&__ez.dot.isValid(i)&&u.push({type:"impression",impression_id:a,domain_id:__ez.dot.getDID(),unit:s,t_epoch:__ez.dot.getEpoch(0),revenue:t,est_revenue:_,ad_position:r,ad_size:"",bid_floor_filled:d,bid_floor_prev:o,stat_source_id:n,country_code:__ez.dot.getCC(),pageview_id:__ez.dot.getPageviewId(),comp_id:p,line_item_id:z,creative_id:f,data:__ez.dot.dataToStr(i)})}}function _(){if(void 0===document.visibilityState||"prerender"!==document.visibilityState){if(__ez.dot.isDefined(u)&&0<u.length){var e=__ez.dot.getURL(i)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&sts="+btoa(JSON.stringify(u));void 0!==window.isAmp&&isAmp&&void 0!==window._ezaq&&_ezaq.hasOwnProperty("domain_id")&&(e+="&visit_uuid="+_ezaq.visit_uuid),(new Image).src=e}u=[]}}return{Add:t,AddAndFire:function(e,i){t(e,i,0,0,0,0,0),_()},AddById:function(e,i){var t=e.split("/");if(__ez.dot.isDefined(e)&&3===t.length&&__ez.dot.isValid(i)){var _=t[0],d=t[2];u.push({type:"impression",impression_id:d,domain_id:__ez.dot.getDID(),unit:_,t_epoch:__ez.dot.getEpoch(0),pageview_id:__ez.dot.getPageviewId(),data:__ez.dot.dataToStr(i)})}},Fire:_,GetPixels:function(){return u}}}();var EzoicPixel=function(){this.pixels=[],this.pixelUrl="/ezoic/e.gif",("undefined"!=typeof ezJsu&&!0===ezJsu||"undefined"!=typeof _ez_sa&&!0===_ez_sa||void 0!==window.isAmp&&!0===isAmp||"undefined"!=typeof ezWp&&!0===ezWp)&&(this.pixelUrl="//g.ezoic.net"+this.pixelUrl),this.tEpoch=0,"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(this.tEpoch=_ezaq.t_epoch)},EzoicPixelData=function(e,i){this.name=e,this.val=i};EzoicPixel.prototype={constructor:EzoicPixel,AddAndFireImpPixel:function(e,i){this.AddImpPixel(e,i,0,0,0,0,0),this.FirePixels()},AddAndFirePVPixel:function(e,i){this.AddPVPixel(e,i),this.FirePixels()},AddImpPixel:function(e,i,t,n,o,a,d){if(0!=__ez.dot.isDefined(e)&&0!=__ez.dot.isAnyDefined(e.getSlotElementId,e.ElementId)){var s=parseInt(__ez.dot.getTargeting(e,"ap")),r=__ez.dot.getSizes(e)[0],_=r.l.toString()+"x"+r.j.toString(),p="0",l="XX";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(p=_ezaq.domain_id.toString()),"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(l=_ezaq.country);var h=__ez.dot.getSlotIID(e),c=__ez.dot.getSlotElementId(e);__ez.dot.isDefined(h,c)&&this.validateData(i)&&(i=this.convertDataToStr(i),this.pixels.push({type:"impression",impression_id:h,domain_id:p,unit:c,t_epoch:this.tEpoch,revenue:t,est_revenue:n,ad_position:s,ad_size:_,bid_floor_filled:o,bid_floor_prev:a,stat_source_id:d,country_code:l,data:i}))}},AddImpPixelById:function(e,i){var t="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(t=_ezaq.domain_id.toString());var n=e.split("/");if(__ez.dot.isDefined(e)&&3===n.length&&this.validateData(i)){var o=n[0],a=n[2];i=this.convertDataToStr(i),this.pixels.push({type:"impression",impression_id:a,domain_id:t,unit:o,t_epoch:this.tEpoch,data:i})}},AddPVPixel:function(e,i){var t="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(t=_ezaq.domain_id.toString()),__ez.dot.isDefined(e)&&this.validateData(i)&&(i=this.convertDataToStr(i),this.pixels.push({type:"pageview",pageview_id:e,domain_id:t,t_epoch:this.tEpoch,data:i}))},FirePixels:function(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(this.pixels)&&0<this.pixels.length&&((new Image).src=this.pixelUrl+"?orig="+(!0===__ez.template.isOrig?1:0)+"&pixels="+encodeURIComponent(JSON.stringify(this.pixels))),this.pixels=[])},NewData:function(e,i){return new EzoicPixelData(e,i)},convertDataToStr:function(e){if(void 0===e)return[];try{for(var i in e)e[i].val=e[i].val+""}catch(e){}return e},validateData:function(e){for(var i=0;i<e.length;i++)if(e[i]instanceof EzoicPixelData==!1)return console.error("Invalid pixelData. ",e[i]),!1;return!0}};</script>
+<script data-ezscrex="false" data-pagespeed-no-defer="" data-cfasync="false" type="text/javascript">__ez.queue.addFile('rochester.js', '/detroitchicago/rochester.js?cb=188-1&v=8', false, [], true, false, true, true);</script><script src="/detroitchicago/rochester.js?cb=188-1&amp;v=8" async=""></script>
+		<meta charset="utf-8">
+		<!-- activate Google Chrome Frame if Installed -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="apple-touch-icon" sizes="180x180" href="//www.macobserver.com/wp-content/themes/observer/assets/images/icons/apple-touch-icon.png?x70248">
+		<link rel="icon" type="image/png" sizes="32x32" href="//www.macobserver.com/wp-content/themes/observer/assets/images/icons/favicon-32x32.png?x70248">
+		<link rel="icon" type="image/png" sizes="16x16" href="//www.macobserver.com/wp-content/themes/observer/assets/images/icons/favicon-16x16.png?x70248">
+		<link rel="manifest" href="//www.macobserver.com/wp-content/themes/observer/assets/images/icons/site.webmanifest">
+		<link rel="mask-icon" href="//www.macobserver.com/wp-content/themes/observer/assets/images/icons/safari-pinned-tab.svg?x70248" color="#2b5797">
+		<link rel="shortcut icon" href="//www.macobserver.com/wp-content/themes/observer/assets/images/icons/favicon.ico?x70248">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="msapplication-config" content="//www.macobserver.com/wp-content/themes/observer/assets/images/icons/browserconfig.xml">
+
+					<link href="https://www.macobserver.com/feed/everything/" rel="alternate" type="application/rss+xml" title="The Mac Observer - Apple iPhone, Mac, Watch and iPad News, Opinions, Tips and Podcasts">
+		
+		<title>TMO Privacy Policy - The Mac Observer</title>
+<script>window._wca = window._wca || [];</script>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v12.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="The Mac Observer, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website.">
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://www.macobserver.com/privacy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="TMO Privacy Policy - The Mac Observer">
+<meta property="og:description" content="The Mac Observer, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website.">
+<meta property="og:url" content="https://www.macobserver.com/privacy/">
+<meta property="og:site_name" content="The Mac Observer">
+<meta property="article:publisher" content="https://www.facebook.com/MacObserver">
+<meta property="article:author" content="themaccast">
+<meta property="fb:app_id" content="314031572034374">
+<meta property="og:image" content="https://www.macobserver.com/wp-content/uploads/2018/10/macobserver_logo_fullres_facebook_1408x742px.png">
+<meta property="og:image:secure_url" content="https://www.macobserver.com/wp-content/uploads/2018/10/macobserver_logo_fullres_facebook_1408x742px.png">
+<meta property="og:image:width" content="1408">
+<meta property="og:image:height" content="742">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="The Mac Observer, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website.">
+<meta name="twitter:title" content="TMO Privacy Policy - The Mac Observer">
+<meta name="twitter:site" content="@MacObserver">
+<meta name="twitter:image" content="https://www.macobserver.com/wp-content/uploads/2018/10/macobserver_logo_fullres_facebook_1408x742px.png">
+<meta name="twitter:creator" content="@maccast">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.macobserver.com/#organization","name":"The Mac Observer","url":"https://www.macobserver.com/","sameAs":["https://www.facebook.com/MacObserver","https://www.youtube.com/user/MacObserver","https://twitter.com/MacObserver"],"logo":{"@type":"ImageObject","@id":"https://www.macobserver.com/#logo","url":"https://www.macobserver.com/wp-content/uploads/2016/06/macobserver_logo_1408px.png","width":1408,"height":533,"caption":"The Mac Observer"},"image":{"@id":"https://www.macobserver.com/#logo"}},{"@type":"WebSite","@id":"https://www.macobserver.com/#website","url":"https://www.macobserver.com/","name":"The Mac Observer","description":"Apple iPhone, Mac, Watch and iPad News, Opinions, Tips and Podcasts","publisher":{"@id":"https://www.macobserver.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.macobserver.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.macobserver.com/privacy/#webpage","url":"https://www.macobserver.com/privacy/","inLanguage":"en-US","name":"TMO Privacy Policy - The Mac Observer","isPartOf":{"@id":"https://www.macobserver.com/#website"},"datePublished":"2018-05-18T17:44:30+00:00","dateModified":"2018-05-18T18:37:24+00:00","description":"The Mac Observer, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website."}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//chimpstatic.com">
+<link rel="dns-prefetch" href="//stats.wp.com">
+<link rel="dns-prefetch" href="//platform.twitter.com">
+<link rel="dns-prefetch" href="//www.google.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="wp-block-library-css" href="//c0.wp.com/c/5.3.1/wp-includes/css/dist/block-library/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wc-block-style-css" href="//c0.wp.com/p/woocommerce/3.8.1/packages/woocommerce-blocks/build/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//c0.wp.com/p/woocommerce/3.8.1/assets/css/woocommerce-layout.css" type="text/css" media="all">
+<style id="woocommerce-layout-inline-css" type="text/css">
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//c0.wp.com/p/woocommerce/3.8.1/assets/css/woocommerce-smallscreen.css" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="//c0.wp.com/p/woocommerce/3.8.1/assets/css/woocommerce.css" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="wsl-widget-css" href="//www.macobserver.com/wp-content/plugins/wordpress-social-login/assets/css/style.css?x70248" type="text/css" media="all">
+<link rel="stylesheet" id="wpforo-widgets-css" href="//www.macobserver.com/wp-content/plugins/wpforo/wpf-themes/classic/widgets.css?x70248" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-nyp-css" href="//www.macobserver.com/wp-content/plugins/woocommerce-name-your-price/assets/css/name-your-price.css?x70248" type="text/css" media="all">
+<link rel="stylesheet" id="wpforo-cross-css-css" href="//www.macobserver.com/wp-content/plugins/wpforo-cross-posting/assets/css/wpforo-cross.css?x70248" type="text/css" media="all">
+<link rel="stylesheet" id="wpf-embed-css" href="//www.macobserver.com/wp-content/plugins/wpforo-embeds/assets/css/embed.css?x70248" type="text/css" media="all">
+<link rel="stylesheet" id="main-stylesheet-css" href="//www.macobserver.com/wp-content/themes/observer/assets/stylesheets/foundation.css?x70248" type="text/css" media="all">
+<link rel="stylesheet" id="tmo_animate-css" href="//www.macobserver.com/wp-content/plugins/observer-plugin//css/animate.min.css?x70248" type="text/css" media="screen">
+<link rel="stylesheet" id="observer_plugin-css" href="//www.macobserver.com/wp-content/plugins/observer-plugin//css/observer-plugin.min.css?x70248" type="text/css" media="screen">
+<link rel="stylesheet" id="fancybox_css-css" href="//www.macobserver.com/wp-content/plugins/observer-plugin//javascript/vendor/fancybox/jquery.fancybox.css?x70248" type="text/css" media="screen">
+<link rel="stylesheet" id="jetpack_css-css" href="//c0.wp.com/p/jetpack/8.0/css/jetpack.css" type="text/css" media="all">
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ltsettings = {"link_audio":"1","link_video":"1","link_youtube":"1","link_vimeo":"1","link_spp":"","link_sc":"","auto_link":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.macobserver.com/wp-content/plugins/link-timestamp/public/js/link-timestamp-public.js?x70248"></script>
+<script type="text/javascript" src="//www.macobserver.com/wp-content/plugins/link-timestamp/public/js/vimeoplayer.js?x70248"></script>
+<script type="text/javascript" src="//www.macobserver.com/wp-content/plugins/link-timestamp/public/js/youtube_iframe_api.js?x70248"></script>
+<script async="" type="text/javascript" src="//stats.wp.com/s-201952.js"></script>
+<script type="text/javascript" src="//www.macobserver.com/wp-content/themes/observer/assets/javascript/vendor/modernizr.js?x70248"></script>
+<script type="text/javascript" src="//c0.wp.com/c/5.3.1/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="//www.google.com/recaptcha/api.js"></script>
+<script type="text/javascript" src="//www.macobserver.com/wp-content/plugins/observer-plugin//javascript/vendor/fancybox/jquery.fancybox.pack.js?x70248"></script>
+<link rel="https://api.w.org/" href="https://www.macobserver.com/wp-json/">
+<link rel="alternate" type="application/json+oembed" href="https://www.macobserver.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.macobserver.com%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.macobserver.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.macobserver.com%2Fprivacy%2F&amp;format=xml">
+<link rel="alternate" type="application/json" title="The Mac Observer » JSON Feed" href="https://www.macobserver.com/feed/json/">
+<meta name="referrer" content="always">
+<link rel="dns-prefetch" href="//c0.wp.com">
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="dns-prefetch" href="//matomo.macobserver.com">			<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+			<style>.ezoic-ad.box-2 { display:block !important;float:none;margin-bottom:20px !important;margin-left:0px !important;margin-right:0px !important;margin-top:20px !important;min-height:90px;min-width:970px;text-align:center !important; }
+.ezoic-ad.box-3 { display:block !important;float:none;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;min-height:60px;min-width:468px;text-align:center !important; }
+.ezoic-ad.large-mobile-banner-2 { display:block !important;float:none;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;min-height:400px;min-width:580px;text-align:center !important; }
+.ezoic-ad.large-mobile-banner-1 { display:block !important;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:250px;min-width:300px;text-align:center !important; }
+.ezoic-ad.medrectangle-1 { display:block !important;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:110px;min-width:728px;text-align:center !important; }
+.ezoic-ad.medrectangle-2 { display:inline-block;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:90px;min-width:970px; }
+.ezoic-ad{display:inline-block;}
+.adtester-container-134{display:none !important}
+.adtester-container-132{display:none !important}
+.adtester-container-107{display:none !important}
+.adtester-container-135{display:none !important}
+.adtester-container-137{display:none !important}
+.adtester-container-124{display:none !important}
+.adtester-container-131{display:none !important}
+.adtester-container-138{display:none !important}
+.adtester-container-105{display:none !important}
+.adtester-container-121{display:none !important}
+.adtester-container-118{display:none !important}
+.adtester-container-126{display:none !important}
+.adtester-container-130{display:none !important}
+.adtester-container-102{display:none !important}
+.adtester-container-117{display:none !important}
+.adtester-container-122{display:none !important}
+.adtester-container-128{display:none !important}
+.adtester-container-123{display:none !important}
+.adtester-container-129{display:none !important}
+.adtester-container-133{display:none !important}
+.adtester-container-116{display:none !important}
+.adtester-container-113{display:none !important}
+.adtester-container-136{display:none !important}
+.adtester-container-119{display:none !important}
+.adtester-container-103{display:none !important}
+.adtester-container-120{display:none !important}
+.adtester-container-125{display:none !important}
+
+		.ezmob-footer {
+			position: fixed; left: 0px; bottom: 0px; width: 100%; background: white; z-index: 100000;
+		}
+		body {
+			padding-bottom: 50px;
+		}
+		.ezmob-footer-desktop {
+			background-color:rgba(255, 255, 255, 0.8);
+			border-top:1px solid lightgray;
+			padding-top:5px;
+		}
+		.ezmob-footer-close {
+			cursor: pointer;
+			color: #b2b2b2;
+			border: 1px solid #b2b2b2;
+			border-radius: 20px;
+			background: #fff;
+			line-height: 20px;
+			display: inline-block;
+			font-size: 20px;
+			font-family: arial,sans-serif;
+			padding: 0 5px;
+			position: absolute;
+			top: 5px;
+			right: 5px;
+			height: 24px;
+			width: 21px;
+		}
+	</style>
+<script data-ezscrex="false" data-cfasync="false" type="text/javascript">window.google_analytics_uacct = "UA-131119927-45";</script>
+<script data-ezscrex="false" data-cfasync="false" type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['e._setAccount', 'UA-131119927-45']);
+_gaq.push(['f._setAccount', 'UA-38339005-1']);
+_gaq.push(['e._setDomainName', 'macobserver.com']);
+_gaq.push(['f._setDomainName', 'macobserver.com']);
+_gaq.push(['e._setCustomVar',1,'template','pub_site',3]);
+_gaq.push(['e._setCustomVar',2,'t','134',3]);
+_gaq.push(['e._setCustomVar',3,'rid','0',2]);
+_gaq.push(['e._setCustomVar',4,'bra','mod1',3]);
+_gaq.push(['e._setAllowAnchor',true]);
+_gaq.push(['e._setSiteSpeedSampleRate', 10]);
+_gaq.push(['f._setCustomVar',1,'template','pub_site',3]);
+_gaq.push(['f._setCustomVar',2,'domain','macobserver.com',3]);
+_gaq.push(['f._setSiteSpeedSampleRate', 20]);
+_gaq.push(['e._trackPageview']);
+_gaq.push(['f._trackPageview']);
+
+
+(function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">var ezouid = "1";</script><base href="https://www.macobserver.com/privacy/"><script type="text/javascript">
+var ezoTemplate = 'pub_site';
+if(typeof ezouid == 'undefined')
+{
+    var ezouid = 'none';
+}
+var ezoFormfactor = '1';
+var ezo_elements_to_check = Array();
+</script><!-- START EZHEAD -->
+<script data-ezscrex="false" type="text/javascript">
+var soc_app_id = '0';
+var did = 136802;
+var ezdomain = 'macobserver.com';
+var ezoicSearchable = 1;
+</script>
+<!--{jquery}-->
+<!-- END EZHEAD -->
+<script data-ezscrex="false" data-pagespeed-no-defer="" data-cfasync="false" type="text/javascript" style="display:none">
+__ez.queue.addFile('__ezf_ezosuigeneris', '//g.ezoic.net/ezosuigeneris.js', true, [], true, false, false, false);
+var __ez_ezosuigenerisEvt = function() { if(typeof(ezosuigeneris) != 'undefined'){__ez.bit.AddAndFire(_ezaq['page_view_id'], [(new __ezDotData('universal_user_id', ezosuigeneris))]); }};
+__ez.queue.addFunc('__ez_ezosuigenerisEvt', '__ez_ezosuigenerisEvt', null, false, ['__ezf_ezosuigeneris'], false, false, false, false);</script><script src="//g.ezoic.net/ezosuigeneris.js" async=""></script><script data-ezscrex="false" data-pagespeed-no-defer="" data-cfasync="false" type="text/javascript" style="display:none">__ez.queue.addFile('__ezf_ezosuigenerisc', '//g.ezoic.net/ezosuigenerisc.js?nogen=1', true, [], true, false, false, false);</script><script src="//g.ezoic.net/ezosuigenerisc.js?nogen=1" async=""></script>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+(function(){
+	var div = document.createElement('div');
+	div.id = 'dmo1';
+	div.style = 'display:none';
+	var s = document.createElement('script');
+	var code = `var googleAdClient = "ca-pub-6396844742497208";
+			  window.google_ad_client = googleAdClient;
+			  /* dmo */
+			  window.google_ad_slot = "dmo";
+			  window.google_ad_width = 88;
+			  window.google_ad_height = 31;
+			  (adsbygoogle = window.adsbygoogle || []).push({
+				  google_ad_client: googleAdClient,
+				  enable_page_level_ads: false
+			  });`;
+	var ss = document.createElement('script');
+	ss.src = '//pagead2.googlesyndication.com/pagead/show_ads.js';
+	ss.type = 'text/javascript';
+	ss.async = false;
+	try {
+		s.appendChild(document.createTextNode(code));
+	} catch (e) {
+		s.text = code;
+	}
+	div.appendChild(s);
+	div.appendChild(ss);
+	if (document.readyState == 'interactive' || document.readyState == 'complete') {
+		document.body.appendChild(div);
+	} else {
+		document.addEventListener("DOMContentLoaded", function(event) {
+			document.body.appendChild(div);
+		});
+	}
+}());
+</script>
+<script data-ezscrex="false" data-pagespeed-no-defer="" data-cfasync="false">
+function create_ezolpl() {
+    var d = new Date();
+    d.setTime(d.getTime() + (365*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    __ez.ck.setByCat("ezux_lpl_136802=" + new Date().getTime() + "|1a3c414f-fa13-4f86-6c4c-648ac88a6847; " + expires, 3);
+}
+function attach_ezolpl() {
+    if(window.attachEvent) {
+        window.attachEvent('onload', create_ezolpl);
+    } else {
+        if(window.onload) {
+            var curronload = window.onload;
+            var newonload = function(evt) {
+                curronload(evt);
+                create_ezolpl();
+            };
+            window.onload = newonload;
+        } else {
+            window.onload = create_ezolpl;
+        }
+    }
+}
+attach_ezolpl();
+</script><script src="/ezoic/anchorfix.js?cb=188-1" async=""></script><script src="/detroitchicago/edmonton.webp?a=a&amp;cb=188-1&amp;shcb=32" async=""></script><script src="/porpoiseant/jellyfish.webp?a=a&amp;cb=188-1&amp;shcb=32" async=""></script><script src="https://web.archive.org/web/20191225093736/https://www.macobserver.com/porpoiseant/nmash.js?v=86"></script></head>
+	<body class="privacy-policy page-template page-template-templates page-template-page-full page-template-templatespage-full-php page page-id-40320 theme-observer woocommerce-js offcanvas wpf-default">
+	
+	
+	<div class="off-canvas-wrap" data-offcanvas="">
+  <div class="fixed off-canvas-fixed">
+
+  <nav class="tab-bar">
+    <section class="left-small">
+      <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+    </section>
+    <section class="tab-bar-section">
+
+      <a id="sm-logo" href="/?utm_campaign=tmo_navbarlogo"><img src="//www.macobserver.com/wp-content/themes/observer/assets/images/sm-logo@2x.png?x70248" alt="Mac Observer"></a>
+
+    </section>
+     <section class="tmo-button-search right-small">
+      <a href="#"><i class="fa fa-search"></i></a>
+    </section>
+  </nav>
+
+  <div id="tmo-mobile-search">
+      <form role="search" method="get" id="searchform" class="n-search right clearfix" action="https://www.macobserver.com/">
+		<input type="text" class="text-input" value="" name="s" id="s" placeholder="SEARCH">
+		<input type="submit" id="searchsubmit" value="Search" class="hidden">
+	</form>
+  </div>
+
+  <aside class="left-off-canvas-menu" aria-hidden="true" tabindex="-1">
+        <ul id="menu-top-navigation" class="off-canvas-list"><li class="menu-item"><a href="https://www.macobserver.com/wp-login.php" class="icon-user">Login</a></li><li id="menu-item-83897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83897"><a href="https://www.macobserver.com/link">TMO Deals</a></li>
+<li id="menu-item-79558" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-79558"><a href="https://www.macobserver.com/tag/macos-catalina/">macOS Catalina</a></li>
+<li id="menu-item-70848" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-70848"><a href="https://www.macobserver.com/tag/ios-13/">iOS 13</a></li>
+<li id="menu-item-39537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39537"><a href="https://www.macobserver.com/podcasts/">Podcasts</a></li>
+<li id="menu-item-41013" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41013"><a href="https://www.macobserver.com/community/">Forums</a></li>
+</ul>  </aside>
+
+  </div> <!-- off canvas fixed -->
+  <div class="inner-wrap">
+	<div class="top-bar-container fixed">
+   
+    <nav id="nav-bar" class="top-bar" data-topbar="" data-options="scrolltop:false;" role="navigation">
+        <ul id="tmo-nav-logo" class="title-area">
+            <li class="name">
+                 <a href="/?utm_campaign=tmo_logo"><img id="logo" src="//www.macobserver.com/wp-content/themes/observer/assets/images/logo.png?x70248" alt="Mac Observer"></a>
+            </li>
+        </ul>
+        <div class="top-bar-section">
+            <ul id="menu-top-navigation-1" class="top-bar-menu left"><li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83897"><a href="https://www.macobserver.com/link">TMO Deals</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-79558"><a href="https://www.macobserver.com/tag/macos-catalina/">macOS Catalina</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-70848"><a href="https://www.macobserver.com/tag/ios-13/">iOS 13</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39537"><a href="https://www.macobserver.com/podcasts/">Podcasts</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41013"><a href="https://www.macobserver.com/community/">Forums</a></li>
+</ul>                    </div>
+
+        <div id="tmo-nav-searchbox">
+            <div id="sn-login">
+            <a href="https://www.macobserver.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.macobserver.com%2Fprivacy%2F"><span class="not-logged-in-avatar"><strong class="icon-user">Login</strong></span></a>            
+            </div>
+
+            <!-- search box -->
+            <div class="nav-search show-for-medium-up">
+                <form role="search" method="get" id="searchform" class="n-search right clearfix" action="https://www.macobserver.com/">
+		<input type="text" class="text-input" value="" name="s" id="s" placeholder="SEARCH">
+		<input type="submit" id="searchsubmit" value="Search" class="hidden">
+	</form>
+            </div>
+        </div>
+    </nav>
+</div>
+<div class="tmo-header row">
+    <header role="contentinfo" class="header">
+
+        <div class="small-12 columns collapse wrap">
+            		        <!-- Ezoic - top of page wrapped - top_of_page -->
+				<span id="ezoic-pub-ad-placeholder-101"></span><span style="display:block !important;float:none;margin-bottom:20px !important;margin-left:0px !important;margin-right:0px !important;margin-top:20px !important;min-height:90px;min-width:970px;text-align:center !important;" class="ezoic-ad box-2 adtester-container adtester-container-101" data-ez-name="macobserver_com-box-2"><span id="div-gpt-ad-macobserver_com-box-2-0" ezaw="970" ezah="90" style="position:relative;z-index:0;display:inline-block;min-height:90px;min-width:970px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[970,90],'macobserver_com-box-2','ezslot_2',101,'0','0']));</script></span></span>
+            	<!-- End Ezoic - top of page wrapped - top_of_page -->
+                    </div>
+
+    </header>
+    
+</div>
+<section class="container" role="document">
+	
+
+<div class="row">
+	<div class="small-12 large-12 columns" role="main">
+
+				<article class="post-40320 page type-page status-publish hentry" id="post-40320">
+			<header>
+				<h1 class="entry-title">TMO Privacy Policy</h1><span class="ezoic-privacy-wrapper"><br><span class="ezoic-privacy">We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed <a href="//g.ezoic.net/privacy/macobserver.com" target="_blank">here</a>.</span><br></span>
+			<span id="ezoic-pub-ad-placeholder-106" class="ezoic-adpicker-ad"></span><span style="display:block !important;float:none;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;min-height:60px;min-width:468px;text-align:center !important;" class="ezoic-ad box-3 adtester-container adtester-container-106" data-ez-name="macobserver_com-box-3"><span id="div-gpt-ad-macobserver_com-box-3-0" ezaw="468" ezah="60" style="position:relative;z-index:0;display:inline-block;min-height:60px;min-width:468px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[468,60],'macobserver_com-box-3','ezslot_1',106,'0','0']));</script></span></span></header>
+			<div class="entry-content">
+				<p>The Mac Observer, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website.</p>
+<h2>Who we are</h2>
+<p>Our website address is: https://www.macobserver.com owned and operated by The Mac Observer, Inc.</p>
+<h2>What personal data we collect and why we collect it</h2>
+<h3>Comments</h3>
+<p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.</p>
+<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: <a target="_blank" href="https://automattic.com/privacy/">https://automattic.com/privacy/</a>. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
+<h3>Media</h3>
+<p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
+<h3>Cookies</h3>
+<p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
+<p>If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
+<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
+<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
+<h3>Embedded content from other websites</h3>
+<p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
+<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.</p>
+<h2>How long we retain your data</h2>
+<p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
+<p>For users that register on our website, we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
+<h2>What rights you have over your data</h2>
+<p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
+<h2>Where we send your data</h2>
+<p>Visitor comments may be checked through an automated spam detection service.</p>
+<h2><b>Registration Information </b></h2>
+<p>Our site’s registration forms may require users to give us contact information (like their name and email address). The customer’s contact information is used solely by The Mac Observer, Inc. to contact the visitor when necessary. For example, we direct e-mail to visitors who provide us with their e-mail addresses for specifically requested purposes such as receiving our e-mail newsletters or being notified if they have won one of our contests. Each e-mail newsletter always contains instructions on how to unsubscribe from the newsletter. We do not sell, trade, or otherwise transfer outside the company personally identifiable information that visitors voluntarily provide in any registration or contest submission unless specifically noted during the submission process. This information is used to better understand visitors’ use of our sites and to support related transactions made on the site.</p>
+<h2><b>Third party links </b></h2>
+<p>In an attempt to provide increased value to our visitors, our sites provide links to various third party web sites from our own site. However, even if the third party is affiliated with The Mac Observer, Inc., The Mac Observer, Inc. has no control over these linked sites who each have separate privacy and data collection practices, independent of The Mac Observer, Inc.. The Mac Observer, Inc. has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Nonetheless, The Mac Observer, Inc. seeks to protect the integrity of its web site and the links placed upon it and therefore requests any feedback on not only its own site, but for sites it links to as well (including if a specific link does not work).</p>
+<h2><b>Online Surveys </b></h2>
+<p>Our online surveys ask visitors for contact information (including, but not limited to, their email address) and demographic information (including, but not limited to, their zip code, age, or income level). The user’s contact information is used to contact the visitor when necessary. Users may cancel future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor’s experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.</p>
+<h2><b>Site Advertisers </b></h2>
+<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.</p>
+<p>Additionally, these ads may contain cookies. While we use cookies in other parts of our Web site, cookies received from banner ads are collected by our ad partner companies, and we do not necessarily have access to this information.</p>
+<h2><b>Public Forums </b></h2>
+<p>This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p>
+<h2><b>Security </b></h2>
+<p>This site has security measures in place to protect the loss, misuse and alteration of the information under our control.</p>
+<h2>Contacting The Mac Observer</h2>
+<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:</p>
+<p><a target="_blank" href="/cdn-cgi/l/email-protection#6010120916010319200d01030f021305121605124e030f0d">Privacy Info</a><br>
+The Mac Observer, Inc.</p>
+			</div><span id="ezoic-pub-ad-placeholder-112" class="ezoic-adpicker-ad"></span><span style="display:block !important;float:none;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;min-height:400px;min-width:580px;text-align:center !important;" class="ezoic-ad large-mobile-banner-2 adtester-container adtester-container-112" data-ez-name="macobserver_com-large-mobile-banner-2"><span id="div-gpt-ad-macobserver_com-large-mobile-banner-2-0" ezaw="580" ezah="400" style="position:relative;z-index:0;display:inline-block;min-height:400px;min-width:580px;" class="ezoic-ad"><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[580,400],'macobserver_com-large-mobile-banner-2','ezslot_4',112,'0','0']));</script></span></span>
+			<footer>
+								<p></p>
+			<span id="ezoic-pub-ad-placeholder-111" class="ezoic-adpicker-ad"></span><span style="display:block !important;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:250px;min-width:300px;text-align:center !important;" class="ezoic-ad large-mobile-banner-1 adtester-container adtester-container-111" data-ez-name="macobserver_com-large-mobile-banner-1"><span id="div-gpt-ad-macobserver_com-large-mobile-banner-1-0" ezaw="300" ezah="250" style="position:relative;z-index:0;display:inline-block;min-height:250px;min-width:300px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[300,250],'macobserver_com-large-mobile-banner-1','ezslot_3',111,'0','0']));</script></span></span></footer>
+			
+
+		</article>
+	
+	</div>
+</div>
+
+
+</section><span id="ezoic-pub-ad-placeholder-127" class="ezoic-adpicker-ad"></span><span style="display:block !important;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:110px;min-width:728px;text-align:center !important;" class="ezoic-ad medrectangle-1 adtester-container adtester-container-127" data-ez-name="macobserver_com-medrectangle-1"><span id="div-gpt-ad-macobserver_com-medrectangle-1-0" ezaw="728" ezah="90" style="position:relative;z-index:0;display:inline-block;min-height:90px;min-width:728px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[728,90],'macobserver_com-medrectangle-1','ezslot_5',127,'0','0']));</script></span><span style="width:728px;display:block;height:14px;margin:auto" class="reportline"><span style="text-align:center;font-size: smaller;float:left;line-height:normal;"><a href="https://www.ezoic.com/what-is-ezoic/" target="_blank" rel="noopener noreferrer nofollow" style="cursor:pointer"><img src="https://go.ezoic.net/utilcave_com/img/ezoic.png" style="height:12px !important; padding:2px !important; border:0px !important; cursor:pointer !important; width: 58px !important; margin:0 !important; box-sizing: content-box !important;"></a></span><span class="ez-report-ad-button" name="?pageview_id=1a3c414f-fa13-4f86-6c4c-648ac88a6847&amp;ad_position_id=127&amp;impression_group_id=macobserver_com-medrectangle-1/2019-12-25/315753&amp;ad_size=728x90&amp;domain_id=136802&amp;url=https://www.macobserver.com/privacy/" style="cursor: pointer!important; font-size:12px !important;color: #a5a5a5 ;float:right;text-decoration:none !important;font-family:arial !important;line-height:normal;">report this ad</span></span></span>
+<div id="footer-container">
+	<footer role="contentinfo" id="footer" class="secondary-content footer">
+				<div class="wrap row clearfix">
+
+			<div class="ft-block small-6 large-3 tmo-column-footer columns">
+				<h4 class="">Navigation</h4>
+				<nav role="navigation">
+				<ul class="foot-dir ft-nav">
+					<li><a href="https://www.macobserver.com/features/news">News</a></li>
+					<li><a href="https://www.macobserver.com/features/reviews">Reviews</a></li>
+					<li><a href="https://www.macobserver.com/features/tips">Tutorials</a></li>
+					<li><a href="https://www.macobserver.com/podcasts">Podcasts</a></li>
+					<li><a href="https://www.macobserver.com/contact">Contact</a></li>
+				</ul>
+				</nav>
+			</div>
+
+			<div class="ft-block small-6 large-3 tmo-column-footer columns">
+				<h4 class="">Categories</h4>
+				<ul class="foot-dir ft-cat left">
+					<li><a href="https://deals.macobserver.com/">TMO Deals</a></li>
+					<li><a href="https://www.macobserver.com/features/columns-opinions">Columns</a></li>
+					<li><a href="https://www.macobserver.com/features/editorial">Editorials</a></li>
+					<li><a href="https://www.macobserver.com/features/quick-tip">Quick Tips</a></li>
+					<li><a href="https://www.macobserver.com/death-knell">Apple Death Knells</a></li>
+					<li><a href="https://www.macobserver.com">View All Categories</a></li>
+				</ul>
+			</div>
+
+			<div class="ft-block small-6 large-3 tmo-column-footer columns">
+				<h4 class="">Connect with Us</h4>
+				<ul class="foot-dir ft-social">
+					<li><a href="https://twitter.com/MacObserver">Twitter</a></li>
+					<li><a href="https://www.facebook.com/MacObserver">Facebook</a></li>
+					<li><a href="https://plus.google.com/107185496671557142447/posts" rel="publisher">Google+</a></li>
+					<li><a href="https://www.macobserver.com/feed/everything/">RSS Feed</a></li>
+					<li><a href="https://www.macobserver.com/podcasts">Podcast Directory</a></li>
+					<li><a href="https://www.macobserver.com/contact/">Author Directory</a></li>
+					<li><a href="/cdn-cgi/l/email-protection#3954585a565b4a5c4b4f5c4b795b585a525b5c584d545c5d5058175a5654" title="Advertising">Advertising</a></li>
+               <li><a href="https://www.macobserver.com/privacy/">Privacy Policy</a></li>
+				</ul>
+			</div>
+
+			<div class="small-6 large-3 tmo-column-logo columns">
+				<a href="#"><img id="logo" src="//www.macobserver.com/wp-content/themes/observer/assets/images/logo.png?x70248" alt="Mac Observer"></a>
+			</div>
+
+		</div>	<!-- end inner footer -->
+					</footer>
+</div>
+
+
+   </div> <!-- inner-wrap  -->
+	</div> <!-- off canvas wrap -->
+
+
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" async="" src="https://tenor.com/embed.js"></script><!-- Matomo -->
+<script data-cfasync="false" type="text/javascript">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://matomo.macobserver.com/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<script type="text/javascript" src="//s0.wp.com/wp-content/js/devicepx-jetpack.js"></script>
+<script type="text/javascript" src="//c0.wp.com/p/woocommerce/3.8.1/assets/js/jquery-blockui/jquery.blockUI.min.js"></script>
+<script type="text/javascript" src="//c0.wp.com/p/woocommerce/3.8.1/assets/js/js-cookie/js.cookie.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//c0.wp.com/p/woocommerce/3.8.1/assets/js/frontend/woocommerce.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mailchimp_public_data = {"site_url":"https:\/\/www.macobserver.com","ajax_url":"https:\/\/www.macobserver.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.macobserver.com/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?x70248"></script>
+<script type="text/javascript" src="//chimpstatic.com/mcjs-connected/js/users/b7cd865e88cc0f8c9c81fc2f7/7e4a0112ddb2063022c76b3a4.js"></script>
+<script type="text/javascript" src="//www.macobserver.com/wp-content/themes/observer/assets/javascript/foundation.js?x70248"></script>
+<script type="text/javascript" src="//c0.wp.com/p/jetpack/8.0/_inc/build/lazy-images/js/lazy-images.min.js"></script>
+<script type="text/javascript" src="//www.macobserver.com/wp-content/plugins/observer-plugin//javascript/observer.min.js?x70248"></script>
+<script type="text/javascript" src="//c0.wp.com/c/5.3.1/wp-includes/js/wp-embed.min.js"></script>
+
+<!-- Begin TMO Footer Scripts -->
+
+<script src="//mint.macobserver.com/?js" type="text/javascript"></script>
+
+<!--iTunes Auto Link Maker Script-->
+<script type="text/javascript">var _merchantSettings=_merchantSettings || [];_merchantSettings.push(['AT', '10l69J']);(function(){var autolink=document.createElement('script');autolink.type='text/javascript';autolink.async=true; autolink.src= ('https:' == document.location.protocol) ? 'https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js' : 'http://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(autolink, s);})();</script>
+
+<!--Begin Skimlinks Tag-->
+<script type="text/javascript" src="//s.skimresources.com/js/2679X589886.skimlinks.js" async="true"></script>
+<!--End Skimlinks Tag-->
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "8452807" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="https://b.scorecardresearch.com/p?c1=2&c2=8452807&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Quantcast Tag, part 2 -->
+<script type="text/javascript">
+    _qevents.push( { qacct:"p-4bEZTZBVa48UQ"} );
+</script>
+<noscript>
+<div style="display: none;">
+    <img src="https://pixel.quantserve.com/pixel/p-4bEZTZBVa48UQ.gif" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast Tag, part 2 -->
+
+<!-- Begin GA Tag -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-438845-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- End GA Tag -->
+
+<!-- AJEnterprise request
+ Site: The Mac Observer
+ Pool: TMO-GDPR
+ Type: Text/HTML
+-->
+<script language="JavaScript" src="//adserver1.backbeatmedia.com/servlet/ajrotator/253/0/viewJScript?pool=25607&amp;type=42&amp;zone=5000&amp;optcode=false"></script> 
+
+<!-- End TMO Footer Scripts -->
+
+
+
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using redis 
+Content Delivery Network Full Site Delivery via cloudflare
+Database Caching 13/82 queries in 0.032 seconds using memcache
+Fragment Caching 52/56 fragments using redis
+
+Served from: www.macobserver.com @ 2019-12-25 04:09:44 by W3 Total Cache
+-->
+		<!-- Ezoic - Anchor Ad - bottom_floating -->
+		<div class="ezmob-footer ezoic-floating-bottom ezo_ad ezmob-footer-desktop" id="ezmobfooter"><center><span id="ezoic-pub-ad-placeholder-100"></span>
+		<!-- Ezoic - Anchor Ad - bottom_floating -->
+		<div class="ezmob-footer ezoic-floating-bottom ezo_ad ezmob-footer-desktop" id="ezmobfooter"><center><span style="display:inline-block;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:90px;min-width:970px;" class="ezoic-ad medrectangle-2 adtester-container adtester-container-100" data-ez-name="macobserver_com-medrectangle-2"><span id="div-gpt-ad-macobserver_com-medrectangle-2-0" ezaw="970" ezah="90" style="position:relative;z-index:0;display:inline-block;min-height:90px;min-width:970px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[970,90],'macobserver_com-medrectangle-2','ezslot_0',100,'0','0']));</script></span></span></center><span class="ezmob-footer-close" onclick="document.getElementById('ezmobfooter').style.display='none';">x</span></div>
+		<!-- End Ezoic - Anchor Ad - bottom_floating -->
+		</center><span class="ezmob-footer-close" onclick="document.getElementById('ezmobfooter').style.display='none';">x</span></div>
+		<!-- End Ezoic - Anchor Ad - bottom_floating -->
+		<script type="text/javascript" style="display:none;" async="">__ez.queue.addFile('anchorfix.js', '/ezoic/anchorfix.js?cb=188-1', false, [], true, true, true, false);</script>
+
+		<script type="text/javascript">
+		(function(f,a){function g(b,a,c){b.addEventListener?b.addEventListener(a,c):b.attachEvent("on"+a,function(){c.call(b)})}function k(b){b&&("string"==typeof b["class"]&&b["class"]&&a.getElementById("uglipop_popbox").setAttribute("class",b["class"]),b.keepLayout&&!b["class"]&&a.getElementById("uglipop_popbox").setAttribute("style","position:relative;height:300px;width:300px;background-color:white;opacity:1;"),"string"==typeof b.content&&b.content&&"html"==b.source&&(a.getElementById("uglipop_popbox").innerHTML=b.content),"string"==typeof b.content&&b.content&&"div"==b.source&&(a.getElementById("uglipop_popbox").innerHTML=a.getElementById(b.content).innerHTML));a.getElementById("uglipop_overlay_wrapper").style.display="";a.getElementById("uglipop_overlay").style.display="";a.getElementById("uglipop_content_fixed").style.display=""}function h(){a.getElementById("uglipop_overlay_wrapper").style.display="none";a.getElementById("uglipop_overlay").style.display="none";a.getElementById("uglipop_content_fixed").style.display="none"}g(a,"DOMContentLoaded",function(){var b=a.createElement("div"),e=a.createElement("div"),c=a.createElement("div"),d=a.createElement("div");e.id="uglipop_content_fixed";e.setAttribute("style","position:fixed;top: 50%;left: 50%;transform: translate(-50%, -50%);-webkit-transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);opacity:1;z-index:10000000;");c.id="uglipop_popbox";d.id="uglipop_overlay_wrapper";d.setAttribute("style","position:absolute;top:0;bottom:0;left:0;right:0;display:none");b.id="uglipop_overlay";b.setAttribute("style","position:fixed;top:0;bottom:0;left:0;right:0;opacity:0.3;width:100%;height:100%;background-color:black;");d.appendChild(b);e.appendChild(c);a.body.appendChild(d);a.body.appendChild(e);a.getElementById("uglipop_overlay_wrapper").style.display="none";a.getElementById("uglipop_overlay").style.display="none";a.getElementById("uglipop_content_fixed").style.display="none";d.addEventListener("click",h);g(f,"keydown",function(a){27==a.keyCode&&h()});f.uglipop=k})})(window,document);
+			var ezRBA = (function() {
+			  function init() {
+				var reportAdsBtns = document.querySelectorAll('.ez-report-ad-button');
+				for (var i = 0; i < reportAdsBtns.length; i++) {
+				  reportAdsBtns[i].addEventListener('click', function(e) {
+					var url = '<iframe src="https://ezoic.com/pub/reportads/reportads.html' + e.target.getAttribute('name') + '" width="400" height="500" style="border-radius: 10px; box-shadow: 2px 2px 30px 6px rgba(0,0,0,0.75); border: 1px solid black;"></iframe>'
+					uglipop({
+					  class: 'none',
+					  source: 'html',
+					  content: url,
+					});
+				  });
+				}
+				function bindEvent(element, eventName, eventHandler) {
+					if (element.addEventListener) {
+						element.addEventListener(eventName, eventHandler, false);
+					} else if (element.attachEvent) {
+						element.attachEvent('on' + eventName, eventHandler);
+					}
+				}
+				bindEvent(window, 'message', function(e) {
+					if (e.data === 'close-report-ad-modal') {
+						document.getElementById('uglipop_overlay_wrapper').style.display = 'none';	
+						document.getElementById('uglipop_overlay').style.display = 'none';	
+						document.getElementById('uglipop_content_fixed').style.display = 'none';	
+					}
+				})
+			  }
+
+			  return {
+				init: init
+			  };
+			})();
+			ezRBA.init();
+		</script>
+<script type="text/javascript">(function(){function b(e,c){for(var d=0;d<c.length;d++){var f=c[d];if(0==f.complete||"undefined"!=typeof f.readyState&&4>f.readyState){var g=f.getAttribute("src")||f.currentSrc;"undefined"!=typeof f.readyState&&0==f.readyState?f.addEventListener("loadstart",function(h){var k=h.getAttribute("src")||h.currentSrc;window.ezorqs(h,k)}):(g=f.getAttribute("src")||f.currentSrc,window.ezorqs(f,g));f.addEventListener("load",function(h){var k=h.currentTarget.getAttribute("src")||h.srcElement.currentSrc;window.ezorqe(h,
+		k)});f.addEventListener("loadeddata",function(h){var k=h.currentTarget.getAttribute("src")||h.srcElement.currentSrc;window.ezorqe(h,k)});f.addEventListener("error",function(h){var k=h.currentTarget.getAttribute("src")||h.srcElement.currentSrc;window.ezorqe(h,k)})}}}function a(e){for(var c=0;c<document.styleSheets.length;c++)if(document.styleSheets[c].href==e)return!0;return!1}b("img",document.querySelectorAll("img"));b("video",document.querySelectorAll("video"));b("audio",document.querySelectorAll("audio"));
+		(function(e){for(var c=0;c<e.length;c++){var d=e[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&a(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var f=document.createElement("img");f.onerror=function(g){"undefined"!=typeof g.path&&"undefined"!=typeof g.path[0].currentSrc?window.ezorqe(d,g.path[0].currentSrc):"undefined"!=typeof g.srcElement&&"undefined"!=typeof g.srcElement.href&&window.ezorqe(d,g.srcElement.href)};f.src=
+		d.getAttribute("href")}}})(document.querySelectorAll("link"));Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script>
+<script type="text/javascript" style="display:none;">
+var __ez_dims = (function() {
+	var setCookie = function( name, content, expiry ) {
+		return document.cookie = name+'='+content+((expiry)?';expires='+(new Date(Math.floor(new Date().getTime()+expiry*1000)).toUTCString()):'')+';path=/';
+	};
+	var ffid = 1;
+	var oh = window.screen.height;
+	var ow = window.screen.width;
+	var h = ffid === 1 ? oh : (oh > ow) ? oh : ow;
+	var w = ffid === 1 ? ow : (oh > ow) ? ow : oh;
+	var uh = window.innerHeight || document.documentElement.clientHeight || document.getElementsByTagName('body')[0].clientHeight;
+	var uw = window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
+	setCookie('ezds', encodeURIComponent('ffid='+ffid+',w='+w+',h='+h), (31536e3*7));
+	setCookie('ezohw', encodeURIComponent('w='+uw+',h='+uh), (31536e3*7));
+})();
+</script><script type="text/javascript" style="display:none;" async="">
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=188-1&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=188-1&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="macobserver_com",_audins_did=136802;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-1");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.macobserver_com,DomainId.136802" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+
+<script type="application/javascript">
+(function() {
+	var obj = {
+		getPrivacyElement: function() {
+			var elem = document.createElement('span');
+			elem.className = "ezoic-privacy";
+			elem.innerHTML = "We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed <a" + " href=\"//g.ezoic.net/privacy/macobserver.com\" target=\"_blank\">here</a>.";
+			return elem;
+		},
+		wrapPrivacyElement: function(e) {
+			e.cssText = "display:inline-block;font-size:large;";
+			var d = document.createElement('div');
+			d.appendChild(e)
+			d.cssText = "display:block;width:100%;padding:50px;";
+			return d;
+		},
+		spacePrivacyElement: function(e) {
+			var d = document.createElement('span');
+			d.className = "ezoic-privacy-wrapper";
+			d.appendChild(document.createElement('br'));
+			d.appendChild(e);
+			d.appendChild(document.createElement('br'));
+			return d;
+		},
+		getWCRecursive: function(elementList) {
+			var possibleTargets = Array.prototype.slice.call(elementList).filter(function(e) {
+				return e.nodeType === 3;
+			}).filter(function(e) {
+				var wc = 0;
+				if (e.textContent.trim() !== '') {
+					wc = e.textContent.trim().split(' ').length;
+				}
+				return wc > 50;
+			});
+			var result = [];
+			result = result.concat(possibleTargets);
+			for(var i=0; i < elementList.length; i++) {
+				var x = this.getWCRecursive(elementList[i].childNodes);
+				if (x.length > 0) {
+					result = result.concat(x);
+				}
+			}
+			return result;
+		},
+		insertPrivacy: function(elem) {
+			var privacyElem = this.getPrivacyElement();
+			if (elem === document.body) {
+				elem.appendChild(this.wrapPrivacyElement(privacyElem));
+			} else {
+				privacyElem = this.spacePrivacyElement(privacyElem);
+				elem.parentNode.insertBefore(privacyElem, elem.nextSibling);
+			}
+		},
+		getFirstHeader: function() {
+			var hdr = [];
+			["h1", "h2", "h3", "h4"].forEach(function(t) {
+				var h = document.querySelectorAll(t);
+				for (var i = 0; i < h.length; i++) {
+					if (h[i].textContent.match(/privacy (policy)|(statement)/i) || h[i].textContent.match(/terms/i)) {
+						hdr.push(h[i]);
+					}
+				};
+			});
+			if (hdr.length > 0) {
+				this.insertPrivacy(hdr[0]);
+				return true;
+			}
+			return false;
+		},
+		getWC: function() {
+			var elem = document.body;
+			var target = this.getWCRecursive(elem.childNodes);
+			if (target.length > 0) {
+				this.insertPrivacy(target[0]);
+			} else {
+				this.insertPrivacy(elem);            
+			}
+		},
+		doWork: function() {
+			var f = this.getFirstHeader();
+			if (f === true) {
+				return;
+			}
+			this.getWC();
+		}
+	}
+	obj.doWork();
+}());
+</script>
+
+<div id="dmo1" style="display: none;"><script>var googleAdClient = "ca-pub-6396844742497208";
+			  window.google_ad_client = googleAdClient;
+			  /* dmo */
+			  window.google_ad_slot = "dmo";
+			  window.google_ad_width = 88;
+			  window.google_ad_height = 31;
+			  (adsbygoogle = window.adsbygoogle || []).push({
+				  google_ad_client: googleAdClient,
+				  enable_page_level_ads: false
+			  });</script><script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript"></script></div><div id="uglipop_overlay_wrapper" style="position:absolute;top:0;bottom:0;left:0;right:0;display:none"><div id="uglipop_overlay" style="position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; opacity: 0.3; width: 100%; height: 100%; background-color: black; display: none;"></div></div><div id="uglipop_content_fixed" style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); opacity: 1; z-index: 10000000; display: none;"><div id="uglipop_popbox"></div></div></body></html>
