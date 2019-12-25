@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smartling.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614105350id_/https%3A//www.smartling.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartling.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225030952id_/https%3A//www.smartling.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Thank you for visiting this website (this “Site”), which is operated by Smartling, Inc. (“Smartling,” “we,” “us” or “our”). This Site is intended to provide existing and prospective and current business customers of Smartling with information regarding the services offered by Smartling and to enable existing and prospective business customers of Smartling to indicate their interest in purchasing such services.
 
-This privacy policy (“Privacy Policy”) is provided by Smartling to explain the ways in which we collect information from you through your use of this Site or when you otherwise interact with us, the ways that Smartling may use that information, and the choices that are available to you with respect to our handling of your data. This Privacy Policy does not apply to the personal data that we collect through the Smartling translation platform or through other Smartling services.
+This privacy policy (“Privacy Policy”) is provided by Smartling to explain the ways in which we collect information from you through your use of this Site or when you otherwise interact with us, the ways that Smartling may use that information, and the choices that are available to you with respect to our handling of your data. This Privacy Policy does not apply to the personal data that we collect through the Smartling translation platform or through other Smartling services. 
 
 Please read this Privacy Policy carefully so that you understand our online privacy practices. If you have questions regarding privacy issues, please contact us at [hi@smartling.com](mailto:hi@smartling.com) .
 
@@ -28,14 +28,15 @@ We may obtain information from other sources and combine that with information w
 
 ## Advertising and Analytics Services Provided by Others
 
-We may allow others to provide analytics services and serve advertisements on our behalf across the internet and in applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Site and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by Smartling and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Site and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit the Digital Advertising Alliance at www.aboutads.info/choices, or if you are in the European Economic Area (EEA) or Switzerland, the European Digital Advertising Alliance at <http://www.youronlinechoices.eu/> .
+We may allow others to provide analytics services and serve advertisements on our behalf across the internet and in applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Site and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by Smartling and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Site and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit the Digital Advertising Alliance at [www.aboutads.info/choices](https://www.aboutads.info/choices), or if you are in the European Economic Area (EEA), the European Digital Advertising Alliance at <http://www.youronlinechoices.eu/> .
 
 ## How We Use Your Information
 
-  * We use the information we collect to provide, maintain, and improve our services. We may also use the information we collect to:
+We use the information we collect to provide, maintain, and improve our services. We may also use the information we collect to:
+
   * Send you technical notices, updates, security alerts and support and administrative messages and to respond to your comments, questions and customer service requests;
   * Communicate with you about services offered by Smartling and provide news and information we think will be of interest to you;
-  * Monitor and analyze trends, usage, and activities in connection with our services; 
+  * Monitor and analyze trends, usage, and activities in connection with our services;
   * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Smartling and others; and 
   * Carry out any other purpose described to you at the time the information was collected.
 
@@ -60,15 +61,11 @@ We store the information we collect for as long as is necessary for the purpose(
 
 ## Data Transfers and Privacy Shield
 
-Smartling complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Smartling has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/)
-
 Smartling is based in the U.S. As such, we and our service providers may transfer your information to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction. We will take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it.
 
-When we transfer personal data from the European Union or Switzerland to the United States, we comply with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union and Switzerland to the United States, respectively. Smartling has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/> .
+When we transfer personal data from the European Union or Switzerland to the United States, we comply with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union and Switzerland to the United States, respectively. Smartling has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-Smartling is responsible for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on our behalf. We will remain liable under the Principles if our agent processes such personal information in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage.
-
-In compliance with the Privacy Shield Principles, we are committed to resolving complaints about our processing of your personal data. EU and Swiss individuals with inquiries or complaints regarding our compliance with the Privacy Shield program should first contact us at [hi@smartling.com](mailto:hi@smartling.com) . Smartling has further committed to cooperate with the panel established by the EU data protection authorities and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU and Switzerland. Under certain conditions, you may be able to invoke binding arbitration to resolve your complaint. These dispute resolution services are provided at no cost to you. Smartling is subject to the investigatory and enforcement powers of the Federal Trade Commission.
+In compliance with the Privacy Shield Principles, we are committed to resolving complaints about our processing of your personal data. EU and Swiss individuals with inquiries or complaints regarding our compliance with the Privacy Shield program should first contact us at [hi@smartling.com](mailto:hi@smartling.com). We have further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim> for more information or to file a complaint. The services of JAMS are provided at no cost to you. Under certain conditions, you may be able to invoke binding arbitration to resolve your complaint. Smartling is subject to the investigatory and enforcement powers of the Federal Trade Commission.
 
 ## Your Choices
 
@@ -80,31 +77,35 @@ If you have submitted information to us via our online form and we contact you b
 
 Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our services.
 
+#### Choices and Means for Limiting Use or Disclosure
+
+Smartling will offer EU and Swiss individuals whose personal information has been transferred to us the opportunity to choose whether the personal information it has received is to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. An individual may opt-out of such uses of their personal information by contacting us at [hi@smartling.com](mailto:hi@smartling.com).
+
 ## Residents of the European Economic Area and Switzerland
 
-If you are a resident of the European Economic Area (EEA) or Switzerland, you have certain rights and protections under the law regarding the processing of your personal data.
+If you are a resident of the European Economic Area (EEA), you have certain rights and protections under the law regarding the processing of your personal data.
 
 #### Legal Basis for Processing
 
-If you are a resident of the EEA or Switzerland, we will only process your personal data:
+If you are a resident of the EEA, we will only process your personal data:
 
   * To perform our responsibilities under our contract with you (e.g., processing payments for and providing the services you have requested);
-  * When we have a legitimate interest in processing your personal data (e.g., to communicate with you about changes to our services, to advertise our services, and to provide, secure, and improve our services); or 
+  * When we have a legitimate interest in processing your personal data (e.g., to communicate with you about changes to our services, to advertise our services, and to provide, secure, and improve our services); or
   * To comply with our legal or regulatory obligations.
 
 
 
 #### Data Subject Requests
 
-If you are a resident of the EEA or Switzerland, you have the right to access personal data we hold about you and to have certain personal data corrected or erased. You may also have the right to restrict certain processing of your data.
+If you are a resident of the EEA, you have the right to access personal data we hold about you and to have certain personal data corrected or erased. You may also have the right to restrict certain processing of your data.
 
-In compliance with the Privacy Shield Principles, Smartling commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Smartling at [hi@smartling.com](mailto:hi@smartling.com) . We will respond as soon as practicable and no later than one month after receipt of your request. We may request proof of identification to verify your request.
+To make any of these requests please email [hi@smartling.com](mailto:hi@smartling.com). We will respond as soon as practicable and no later than one month after receipt of your request. We may request proof of identification to verify your request.
 
 We may deny or restrict fulfillment of your request in some cases, such as when your access to data places another individual’s privacy rights at risk, or the continued processing of your data is necessary to comply with a legal obligation. If so, we will notify you of the reason(s) for this denial.
 
 #### Questions or Complaints
 
-If you are a resident of the EEA or Switzerland and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm> or [https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection—switzerland.html](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection%E2%80%94switzerland.html) .
+If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
 
 ## Data Security
 
@@ -125,5 +126,6 @@ If you have any questions about this Policy or our data protection practices, pl
  **Smartling, Inc**  
 1375 Broadway, Ste. 1400  
 New York, NY 10018, USA  
-ATTN: Legal  
-Last Updated: September 2018
+ATTN: Legal
+
+Last Updated: November 2019
