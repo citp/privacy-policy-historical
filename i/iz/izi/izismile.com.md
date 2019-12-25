@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the izismile.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628213902id_/https%3A//izismile.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izismile.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225192748id_/https%3A//izismile.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Izismile Privacy Policy
 
@@ -26,7 +26,7 @@ We collect information about your use of the Site, including your IP adress.
 
 **Cookies and Similar Technologies**
 
-We use cookies in connection with your use of the Site to collect information related to what you see and interact with on the Site. Please see our [Cookie Policy](http://izismile.com/cookie_policy.html) for more information on our use of cookies and how to opt-out of cookies.
+We use cookies in connection with your use of the Site to collect information related to what you see and interact with on the Site. Please see our [Cookie Policy](https://izismile.com/cookie_policy.html) for more information on our use of cookies and how to opt-out of cookies.
 
 **2\. Use of Information**
 
@@ -47,11 +47,11 @@ We do not rent or sell your personal contact information (such as your email add
 
 **Advertisers and Ad Networks**
 
-We use advertising networks and similar companies to serve advertisements on third-party sites and to assist us in evaluating the effectiveness of our advertising. We may work with advertising partners to serve ads on the Site. These types of companies use cookies and similar technologies. We may provide advertising networks, advertising partners, and businesses advertising on the Site with aggregate information but other than hashed information or device identifiers, we do not disclose your name, contact information, or other personal information. For more information, please see our [Cookie Policy](http://izismile.com/cookie_policy.html).
+We use advertising networks and similar companies to serve advertisements on third-party sites and to assist us in evaluating the effectiveness of our advertising. We may work with advertising partners to serve ads on the Site. These types of companies use cookies and similar technologies. We may provide advertising networks, advertising partners, and businesses advertising on the Site with aggregate information but other than hashed information or device identifiers, we do not disclose your name, contact information, or other personal information. For more information, please see our [Cookie Policy](https://izismile.com/cookie_policy.html).
 
-Businesses advertising on the Site may also use cookies or similar technologies to track your activities on the Site. Some of these businesses are participants in the [Network Advertising Initiative](http://izismile.com/go.php?url=https://www.networkadvertising.org/) or the [Digital Advertising Alliance](http://izismile.com/go.php?url=http://digitaladvertisingalliance.org/). Please visit these organisations' opt-out pages to learn about how you may opt out of receiving web-based personalised ads from participating businesses. You can access any settings offered by your mobile operating system to limit ad tracking or install the AppChoices app to learn more about how you may opt out of receiving personalised ads in mobile apps.
+Businesses advertising on the Site may also use cookies or similar technologies to track your activities on the Site. Some of these businesses are participants in the [Network Advertising Initiative](https://izismile.com/go.php?url=https://www.networkadvertising.org/) or the [Digital Advertising Alliance](https://izismile.com/go.php?url=http://digitaladvertisingalliance.org/). Please visit these organisations' opt-out pages to learn about how you may opt out of receiving web-based personalised ads from participating businesses. You can access any settings offered by your mobile operating system to limit ad tracking or install the AppChoices app to learn more about how you may opt out of receiving personalised ads in mobile apps.
 
-[Izismile advertising partners list can be found here](http://izismile.com/izismile_advertising_partners.html).
+[Izismile advertising partners list can be found here](https://izismile.com/izismile_advertising_partners.html).
 
 **Investigations**
 
@@ -93,7 +93,7 @@ In some regions, such as the EEA, you may have certain rights in relation to you
 
 You can object to processing of your personal information, ask us to restrict processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by contacting us as provided in the Contact Us section. You also can deactivate your profile and obtain a copy of your information.
 
-You can complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the EEA and Switzerland are available [here](http://izismile.com/go.php?url=http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
+You can complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the EEA and Switzerland are available [here](https://izismile.com/go.php?url=http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
 
 Similarly, if we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
