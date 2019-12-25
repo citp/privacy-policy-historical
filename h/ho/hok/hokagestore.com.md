@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the hokagestore.com privacy policy that was archived on 2019-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190107160806id_/https%3A//hokagestore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hokagestore.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225010943id_/https%3A//hokagestore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This Privacy Policy applies to Hokage Store and any of its affiliated websites, applications and other digital services in connection with which this Privacy Policy is linked or posted (collectively, “Services”). 
 
-This Privacy Policy explains how Hokage Store. collects and uses data and information that may identify or can be directly associated with an individual person (“Personal Information”). Hokage Store respects your right to privacy. Your ability to make informed choices about the uses of your information is important to us. This Privacy Policy explains Hokage Store’s policy regarding the collection, use, disclosure and protection of any information we receive including your Personal Information (if any).
+This Privacy Policy explains how Hokage Store collects and uses data and information that may identify or can be directly associated with an individual person (“Personal Information”). Hokage Store respects your right to privacy. Your ability to make informed choices about the uses of your information is important to us. This Privacy Policy explains Hokage Store’s policy regarding the collection, use, disclosure and protection of any information we receive including your Personal Information (if any).
 
 Hokage Store provides anime-themed goods, that can be distributed and offered on the website hokagestore.com.
 
-**Information Hokage Store Collects from Users**
+## **Information Hokage Store Collects from Users**
 
 Hokage Store uses services to collect information regarding Users’ activities and operations that interact with the website hokagestore.com. Such information might include IP-address, Session ID, browser type, mobile or desktop ID, referrer, phone numbers, emails, addresses, names, order details, method of payment, feedback or answers provided by the User to any interactive content unit made available with the website. Such information may qualify as Personal Information in some Users’ jurisdictions, however, we do not make any use of such data to directly identify individuals or to associate it with individuals.
 
@@ -65,5 +65,3 @@ Hokage Store may update this Privacy Policy from time to time. We reserve the ri
 ## **Comments and Questions / Contact Information**
 
 If you have any comments or questions about our privacy policy, please contact us at  support@hokagestore.com.
-
-[Go to Homepage](https://web.archive.org/)
