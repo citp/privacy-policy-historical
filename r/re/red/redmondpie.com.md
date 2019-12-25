@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redmondpie.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624180857id_/https%3A//www.redmondpie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redmondpie.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225114821id_/https%3A//www.redmondpie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Redmond Pie
 
