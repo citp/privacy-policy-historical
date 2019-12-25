@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3snoop.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215356id_/https%3A//www.w3snoop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3snoop.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225220743id_/https%3A//www.w3snoop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - W3Snoop.com
 
@@ -14,4 +14,4 @@ You may choose to opt-out of Interest-Based advertisements. To do so, click on t
 
 By using this site, you signify your assent to the W3Snoop.com privacy policy (specified on this page) as well as our Ezoic Privacy Policy (<https://g.ezoic.net/privacy/w3snoop.com>). If you do not agree to this privacy policy, please do not use this website and its contents/services. We reserve the right to make changes to this privacy policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes. 
 
-If there are any questions regarding our privacy policy you may contact us through the [contact us](https://www.w3snoop.com/contact/) page. 
+If there are any questions regarding our privacy policy you may contact us through the [contact us](https://w3snoop.com/contact/) page. 
