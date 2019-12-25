@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richrelevance.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605145030id_/https%3A//www.richrelevance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richrelevance.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225021748id_/https%3A//www.richrelevance.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RichRelevance
 
