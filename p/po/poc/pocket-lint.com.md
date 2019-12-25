@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocket-lint.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611085357id_/https%3A//www.pocket-lint.com/info/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocket-lint.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225200739id_/https%3A//www.pocket-lint.com/info/policies) for the most accurate reproduction.*
 
 # Policies - Pocket-lint
 
