@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucg.org privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628101545id_/https%3A//www.ucg.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucg.org privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225133639id_/https%3A//www.ucg.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | United Church of God
 
