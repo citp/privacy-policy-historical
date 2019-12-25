@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamieoliver.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604213103id_/https%3A//www.jamieoliver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamieoliver.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225204913id_/https%3A//www.jamieoliver.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Jamie Oliver
 
@@ -6,8 +6,8 @@
 
 This Privacy Policy explains what personal information we hold about you, how we collect it, and how we use and may share information about you. It relates to any personal information we collect from you via:
 
-  * our **Websites** : jamieoliver.com, jamiesministryoffood.com, jamiesfoodrevoultion.com and any other Jamie Oliver website that links to this Privacy Policy
-  * our **Social Pages** : social media pages and accounts for “Jamie Oliver” and “Jamie’s Ministry of Food UK”
+  * our Websites: jamieoliver.com, jamiesministryoffood.com and any other Jamie Oliver website that links to this Privacy Policy 
+  * our Social Pages: social media pages and accounts for “Jamie Oliver” and “Jamie’s Ministry of Food UK”
   * our **Services** : our subscription services and any other Jamie Oliver services that link to this Privacy Policy.
 
 
@@ -61,7 +61,7 @@ Whenever you interact with us directly, we receive information from you, for exa
 
 Sometimes we also obtain information about you from other sources, for example when you:
 
-  * use any of our Services or Website Functions which enable you to sign-in via a third party service, for example if you log-in to your jamieoliver.com account with Facebook or comment on a recipe using Disqus - we receive some of your account information
+  * use any of our Services or Website Functions which enable you to sign-in via a third party service, for example if you log-in to your jamieoliver.com account with Facebook - we receive some of your account information
   * use the Jamie Oliver e-commerce website to purchase any products - if you allow us to, we receive information from the website operator about which products you purchase 
   * complete one of our surveys – we receive your answers and any personal information you provide within your answers from Survey Monkey
   * apply to be an audience member or participate in one of our TV programmes
@@ -97,7 +97,7 @@ Where we propose to use your personal information for any other uses we will ens
 
 ### _With other Jamie Oliver Companies_
 
-We routinely share infrastructure, resources and technology with our affiliated companies Jamie Oliver Productions Ltd and Jamie Oliver Licensing Ltd (‘ **Jamie Oliver Companies** ’). This means any personal information we hold about you may be shared with these companies. This helps us provide you with a relevant, and consistent experience across all Jamie Oliver platforms. All Jamie Oliver Companies are located in the United Kingdom.  Sometimes, as noted in the table under the section 'More about the information we collect and hold' below, we may also share your personal information with Jamie’s Italian Limited. For example, if we receive an inquiry from you about a Jamie Oliver restaurant we may pass it on to Jamie’s Italian Limited and you may be contacted by one of their employees directly. Jamie’s Italian Limited is located in the United Kingdom.
+We routinely share infrastructure, resources and technology with our affiliated companies Jamie Oliver Productions Ltd, Jamie’s Italian International Limited, Recipease Limited and Jamie Oliver Licensing Ltd (‘ **Jamie Oliver Companies** ’). This means any personal information we hold about you may be shared with these companies. This helps us provide you with a relevant, and consistent experience across all Jamie Oliver platforms. All Jamie Oliver Companies are located in the United Kingdom.  Sometimes, as noted in the table under the section 'More about the information we collect and hold' below, we may also share your personal information with Jamie’s Italian Limited. For example, if we receive an inquiry from you about a Jamie Oliver restaurant we may pass it on to Jamie’s Italian Limited and you may be contacted by one of their employees directly. Jamie’s Italian Limited is located in the United Kingdom.
 
 ### _With Third-Party Partners_
 
@@ -107,7 +107,7 @@ We work with suppliers and other companies who help us provide and improve our W
 
 
 
-We work with third-party advertising companies (currently Core Audience, Inc., located in the USA) to serve ads while you are visiting our Websites. If you opt-in to our Advertising Cookies, we permit these companies to place and access their own cookies on your computer in the course of serving advertisements on our Websites. The information these companies may obtain through their cookies does not include your name, address, e-mail address or telephone number. Please refer to our [Cookie Policy](https://www.jamieoliver.com/cookies/) for further information about Advertising Cookies.
+We work with third-party advertising companies (currently Proper Media LLC, located in the USA) to serve ads while you are visiting our Websites. If you opt-in to our Advertising Cookies, we permit these companies to place and access their own cookies on your computer in the course of serving advertisements on our Websites. The information these companies may obtain through their cookies does not include your name, address, e-mail address or telephone number. Please refer to our [Cookie Policy](https://www.jamieoliver.com/cookies/) for further information about Advertising Cookies.
 
   * **Partners offering Jamie Oliver-branded products and services**
 
@@ -123,7 +123,7 @@ Other companies might sell Jamie Oliver-branded products or provide Jamie Oliver
 
 
 
-We provide information and content to vendors and service providers who support our business, such as by providing technical infrastructure services, analysing how our Websites and services are used, providing customer service, facilitating payments, conducting surveys, or providing fraud detection service.
+We provide information and content to vendors and service providers who support our business, such as by providing technical infrastructure services, assisting us to send our marketing and newsletters to customers who have consented to receive same, analysing how our Websites and services are used, providing customer service, facilitating payments, conducting surveys, or providing fraud detection service.
 
 We may also need to share personal information with other parties, such as external contractors and our professional advisers and potential purchasers of some or all of our business or on a re-structuring. Usually, information will be anonymised but this may not always be possible. We contractually bind all third parties with whom we share personal information to keep your information confidential and to use it only for the purpose of providing their services and pursuant to the applicable privacy legislation in the EU. We may also be required to share some personal information as required to comply with the law. Some of these third-party recipients may be based outside the European Economic Area — for further information including on how we safeguard your personal data when this occurs, see the section about ‘Transfer of your information out of the EEA’ below. 
 
@@ -152,7 +152,7 @@ We will not retain your personal information for longer than necessary for the p
 ## Reasons we can collect and use your personal information
 
 This section addresses the legal basis for processing your personal data. Some processing is addressed in multiple sections in the Table set out below because more than one legal basis may apply depending on the circumstances or service and to make it easy for you.  
-The legal basis on which we rely in each instance where we collect and use your personal data, generally, are:
+The legal bases on which we rely in each instance where we collect and use your personal data, generally, are:
 
   * to fulfil and enforce our [Terms of Use](https://www.jamieoliver.com/terms/), [Terms for Contributions](https://www.jamieoliver.com/terms/) and any other contract we have with you
   * consistent with your consent, which, for newsletters and marketing you may revoke at any time in the Subscription Centre, which can be accessed by clicking the ‘Unsubscribe’ option at the bottom of our emails or by clicking 'Change contact preferences' in your profile (if you have a jamieoliver.com account) - if you're having any issues unsubscribing please email unsubscribe@jamieoliver.com
@@ -200,11 +200,11 @@ For detailed information on how to protect your information and your computers 
 
 We hope that we can resolve any query or concern you raise about our use of your information.
 
-The General Data Protection Regulation also gives you right to lodge a complaint with a supervisory authority, in particular in the European Union (or European Economic Area) state where you work, normally live or where any alleged infringement of data protection laws occurred. The supervisory authority in the UK is the Information Commissioner who may be contacted at [https://ico.org.uk/concerns/](http://ico.org.uk/concerns/) or telephone: 0303 123 1113.
+The General Data Protection Regulation also gives you right to lodge a complaint with a supervisory authority, in particular in the European Union (or European Economic Area) state where you work, normally live or where any alleged infringement of data protection laws occurred. The supervisory authority in the UK is the Information Commissioner who may be contacted at <https://ico.org.uk/make-a-complaint/> or telephone: 0303 123 1113.
 
 ## Changes to this privacy notice
 
-This privacy notice was published on 23 May 2018 and last updated on 29 May 2019.
+This privacy notice was published on 23 May 2018 and last updated on 24 October 2019.
 
 We may change this privacy notice from time to time, when we do we will we will post the changes on the Website. Where the changes are significant, we will inform all our registered users by email. Where required by law, will we obtain your consent to make these changes.
 
@@ -286,7 +286,10 @@ To promote Jamie Oliver products and services and deliver you the marketing comm
 
 To update your preferences and unsubscribe you if you request us to.
 
-To manage our relationship with you, including to let you know about changes to our policies and terms.  
+To manage our relationship with you, including to let you know about changes to our policies and terms.
+
+In order to send our marketing or newsletters to you, we share this information with CRM providers who are located in the UK.  
+  
   
 Information you provide when you subscribe to one of our Exclusive Content Services (for example, “Five Day Veggie Challenge”):
 
@@ -391,8 +394,6 @@ Necessary for our legitimate interests (to view and respond to customers comment
 
 To allow you to comment on recipes and content on our Websites.
 
-The commenting function on our Websites is powered by Disqus Inc., which is located in the USA. Accordingly your personal information will be transferred to the USA. Disqus Inc. has certified its compliance with the EU-U.S. Privacy Shield Framework. Its Privacy Policy is available here.
-
 We may use and re-publish personal information and content made publicly available within comments. Please see our [Terms for Contributions](https://www.jamieoliver.com/terms/).  
   
 Information about purchase(s) you make on the [Jamie Oliver Shop](https://shop.jamieoliver.com/) (this does not include any payment or credit card details) 
@@ -422,7 +423,7 @@ From Typeform
 
 | 
 
-Consent (or, if you provide sensitive personal information, the fact it has been ‘manifestly made public’ to us)
+Consent
 
 Performance of a contract with you (if you sign one of our contributor/release forms)
 
