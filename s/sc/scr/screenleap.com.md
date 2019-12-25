@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenleap.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817203826id_/https%3A//www.screenleap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenleap.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225023759id_/https%3A//www.screenleap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Screenleap
 
@@ -129,7 +129,7 @@ We neither rent nor sell your Personal Data to anyone. We share your Personal Da
 
 **C. Protection of Screenleap and Others** \- We may release Personal Data when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Screenleap, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-**D. With Your Consent** \- Except as set forth above, you will be notified when your Personal Data may be shared with third parties, and will be able to prevent the sharing of this information.
+**D. With Your Consent** \- Except as set forth above, you will be notified when your Personal Data may be shared with third parties, and will be able to prevent the sharing of this information. Personal Data from our education solution will never be shared with third parties. 
 
 ## VI. Is Personal Data About Me Secure?
 
@@ -143,11 +143,21 @@ The Website may contain links to other third-party sites and services which are 
 
 Our Services are hosted and operated in the United States ("U.S.") through Screenleap and its service providers. We may transfer your Personal Data to the U.S., to any Screenleap affiliate worldwide, or to third parties acting on our behalf for the purposes of processing or storage. By using any of our Services or providing any Personal Data for any of the purposes stated above, you consent to the transfer and storage of your Personal Data, whether provided by you or obtained by a third party, to the U.S. as set forth herein, including the hosting of such Personal Data on U.S. servers.
 
+In the event of a merger, acquisition, reorganization, bankruptcy or other sale of all or a portion of our assets, any user information owned or controlled by us may be one of the assets transferred to third parties. Any successor entity will abide by the terms of this Privacy Policy with respect to personal information collected while this Privacy Policy was in effect. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity.
+
 ## VIII. What Personal Data Can I Access?
 
 You can always view or update the information we have on file about you, by contacting us using the information found in the "Questions or Concerns" section of this policy.
 
-## IX. What Choices Do I Have?
+## IX. What is your retention policy concerning my data?
+
+We will retain your data as long as you have an account with us. You may request that your account be deleted by contacting us from our [Support](https://web.archive.org/support) page. When your account is deleted, all data related to your account, including any associated Personal Data, will be deleted.
+
+For users of our education solution, we will contact you if you have not logged in in over a year to see if you plan to continue using the solution. Users who do not respond or who respond in the negative will have their students' Personal Data be deleted.
+
+Following deletion of your account, we will retain your data for a commercially reasonable amount of time to allow for backup, archival, and audit purposes. We may maintain anonymized or aggregated data, including usage data, for analytics purposes.
+
+## X. What Choices Do I Have?
 
 You can always opt not to disclose information to us, but keep in mind some information may be needed to take advantage of some of our features, options, customizations, and offers.
 
@@ -155,11 +165,13 @@ You can always add or update information as explained in the "What Personal Data
 
 If you do not wish to receive email or other mail from us, you can unsubscribe by updating your email preferences, clicking the "Unsubscribe" link found at the bottom of the emails, or by contacting us using the information found in the "Questions or Concerns" section of this policy. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
 
-## X. Changes to this Privacy Policy
+## XI. Changes to this Privacy Policy
 
 We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Data, we will notify you by posting an announcement on our Website or sending you an email. You are bound by any changes to the Privacy Policy when you use the Website after such changes have been posted.
 
-## XI. Questions or Concerns
+Users of our education solution will be notified via email if a material change has been made to the Privacy Policy. They will not be bound by the new Privacy Policy unless they opt in to the changes.
+
+## XII. Questions or Concerns
 
 **California Privacy Rights** \- Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and provide contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the address below.
 
@@ -169,6 +181,6 @@ Screenleap, Inc.
 808 Bauer Dr  
 San Carlos, CA 94070
 
-Last updated July 1, 2018
+Last updated October 16, 2018
 
 Effective November 1, 2011
