@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624183811id_/https%3A//www.stltoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225122439id_/https%3A//www.stltoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy | stltoday.com
 
@@ -158,7 +158,7 @@ If you choose not to accept cookies while on our website, please be aware that o
 If you have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below. We will attempt to respond to your requests and to provide you with additional privacy-related information.
 
 Email: [privacy@lee.net](https://www.stltoday.com/content/tncms/live/privacy@lee.net)  
-900 N. Tucker Blvd.  
+901 N. 10th St.  
 St. Louis, MO, 63101
 
 [314-340-8000](tel:+13143408000)
