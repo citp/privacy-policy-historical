@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webege.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215957id_/https%3A//www.000webhost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webege.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225200940id_/https%3A//www.000webhost.com/privacy) for the most accurate reproduction.*
 
 # Free Web Hosting, Domain Names, VPS | 000Webhost
 
@@ -13,7 +13,7 @@
 
 ### 1\. INTRODUCTION
 
-{HOSTINGER. a Cyprus private limited company, legal address, 61 Lordou Vironos st. 6023 Larnaca, Cyprus (" **000WEBHOST** "), provides you web-hosting, domain name registration, and related products and service.
+HOSTINGER. a Cyprus private limited company, legal address, 61 Lordou Vironos st. 6023 Larnaca, Cyprus (" **000WEBHOST** "), provides you web-hosting, domain name registration, and related products and service.
 
 000WEBHOST seeks to ensure the highest level of data privacy when offering its variety of quality products and services to subscribers (" **Subscribers** ") and visitors (" **Visitors** ") (collectively, " **Users** ").
 
@@ -229,7 +229,7 @@ We will share your Personal Data with companies, organizations or individuals ou
 
   * **Users' Personal Information** may be maintained, processed and stored by 000WEBHOST and our authorized affiliates and service providers in the United Kingdom, Netherlands, Lithuania or Cyprus, and in other jurisdictions as necessary for the proper delivery of our Services and/or as may be required by law (as further explained below).
   * **Job Applicants Information** will be maintained, processed and stored in Lithuania, in the applied position's location(s), and as necessary, in secured cloud storage provided by our Third Party Services.
-  * **{HOSTINGER** is based in Cyprus, which is a member of EU and offers an adequate level of protection for the Personal Information of EU Member State residents.
+  * **HOSTINGER** is based in Cyprus, which is a member of EU and offers an adequate level of protection for the Personal Information of EU Member State residents.
   * **000WEBHOST affiliates and service providers** that store or process your Personal Information on 000WEBHOST's behalf are each contractually committed to keep it protected and secured, in accordance with industry standards and regardless of any lesser legal requirements which may apply in their jurisdiction.
   * **Domain name registration data and identification data** is shared with third parties in accordance with ICANN rules. For more information see <https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#whois>
 
