@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stjobs.sg privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212227id_/https%3A//sph.com.sg/legal/sph_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stjobs.sg privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225043709id_/https%3A//sph.com.sg/legal/sph_privacy.html) for the most accurate reproduction.*
 
 # SPH Privacy Policy - Singapore Press Holdings
 
@@ -9,7 +9,7 @@
 
 This Privacy Policy supplements but does not supersede nor replace any other consents you may have previously provided to SPH nor does it affect any rights which SPH may have at law in connection with the collection, use or disclosure of your Personal Data. SPH may from time to time update this Privacy Policy to ensure that this Privacy Policy is consistent with our future developments, industry trends and/or any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of the Privacy Policy as updated from time to time on our websites. Please check regularly for updated information on the handling of your Personal Data.
 
-For avoidance of doubt, this Privacy Policy forms a part of the [Website Terms and Conditions](http://www.sph.com.sg/legal/website_tnc.html) (‘Website Conditions’). In the event of any conflict, inconsistency or conflict between this Privacy Policy and the Website Conditions, the Privacy Policy shall prevail. All defined terms contained in the Website Conditions shall apply to this Privacy Policy unless otherwise specifically stated.
+For avoidance of doubt, this Privacy Policy forms a part of the [Website Terms and Conditions](https://web.archive.org/legal/website_tnc.html) (‘Website Conditions’). In the event of any conflict, inconsistency or conflict between this Privacy Policy and the Website Conditions, the Privacy Policy shall prevail. All defined terms contained in the Website Conditions shall apply to this Privacy Policy unless otherwise specifically stated.
 
 **1.**
 
