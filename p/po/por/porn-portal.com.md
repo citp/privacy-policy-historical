@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porn-portal.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624200724id_/https%3A//www.porn-portal.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porn-portal.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225215635id_/https%3A//www.porn-portal.com/static/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Porn Portal
 
@@ -96,9 +96,9 @@ Google will use this information on our behalf to evaluate the use of the Websit
 
 Google Analytics operates under the following terms:
 
-  * Terms of Service: [http://www.google.com/analytics/terms/gb.html](http://www.google.com/analytics/terms/gb.html)
-  * Privacy Statement: [http://www.google.com/intl/en/analytics/learn/privacy.html](http://www.google.com/intl/en/analytics/learn/privacy.html)
-  * Privacy Policy: [http://www.google.com/intl/en/policies/privacy](http://www.google.com/intl/en/policies/privacy)
+  * Terms of Service: [http://www.google.com/analytics/terms/gb.html](https://www.google.com/analytics/terms/gb.html)
+  * Privacy Statement: [http://www.google.com/intl/en/analytics/learn/privacy.html](https://www.google.com/intl/en/analytics/learn/privacy.html)
+  * Privacy Policy: [http://www.google.com/intl/en/policies/privacy](https://www.google.com/intl/en/policies/privacy)
 
 
 
@@ -122,7 +122,7 @@ If you know or have reason to believe that your account credentials have been lo
 
 You may exercise any of the rights described in this section by adjusting settings in your profile or by sending an email using the form on our website here: <http://www.porn-portal.com/contact>
 
-[Please note that we will ask you to verify your identity before taking further action on your request, if we cannot identify you we cannot act according to your request.](http://info.xvideos.com/contact/)
+[Please note that we will ask you to verify your identity before taking further action on your request, if we cannot identify you we cannot act according to your request.](https://info.xvideos.com/contact/)
 
  **V. Managing Your Information.**
 
