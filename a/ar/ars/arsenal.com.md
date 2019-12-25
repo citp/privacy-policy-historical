@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arsenal.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220942id_/https%3A//www.arsenal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arsenal.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225110636id_/https%3A//www.arsenal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Club | News | Arsenal.com
 
@@ -77,6 +77,7 @@ We process your personal data when necessary to pursue our legitimate interests 
 
   * tailoring our websites and communications for you.  We collect information about your engagement with us online (such as pages that you have visited on our websites or apps) and combine that with aggregated insights we have about our supporter base, to build a fuller understanding of your individual preferences
   * monitoring, improving and protecting our products, content and services
+  * monitoring and enforcing compliance with our ticketing terms and conditions and ground regulations
   * checking the credit or debit card details you provide (to process your payments and prevent fraudulent transactions)
   * sending you some types of direct marketing, including by email and post
   * responding to your comments or complaints
@@ -113,10 +114,11 @@ We will share your personal data with the following recipients:
   * commercial partners, so they can advise us how best to communicate with you on their behalf.  We do not give your data to partners for them to communicate with you directly.  [Click here to see a list of our current partners](https://www.arsenal.com/the-club/sponsors-partners)
   * Facebook, so that we can display relevant advertising to you on their platform (your data is converted into a unique ID before it is shared with Facebook)
   * third party suppliers involved in: data insights; website hosting; online personalisation; advertising; systems maintenance; ticketing; database management; identity checking; payment processing; delivery logistics; facilities management; and credit and debt management   
+  * organisations undertaking official data scout spotting activities within Emirates Stadium
   * government authorities or law enforcement officials, to assist with their official requests and comply with our legal obligations  
   * recruitment and vetting agents, to assist with our recruitment processes  
   * other football clubs, where this is necessary to ensure the safety and security of supporters or if we think it’s appropriate to inform them of incidents at Emirates Stadium involving their supporters
-  * The Union of European Football Associations (‘UEFA’), when they ask for information about fans attending matches at Emirates Stadium 
+  * football authorities, such as the Premier League or The Union of European Football Associations (‘UEFA’), when they ask for information about fans attending matches at Emirates Stadium 
   * our advisers, any prospective purchaser’s advisers, and any new owners of the business (in the event our business is sold or integrated with another business)
   * agencies who partner with Arsenal in the Community (if you have been referred to those agencies through us)
 
