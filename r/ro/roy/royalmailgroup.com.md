@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalmailgroup.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427062219id_/https%3A//www.royalmailgroup.com/en/site/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmailgroup.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225154634id_/https%3A//www.royalmailgroup.com/en/site/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice
 
@@ -339,13 +339,17 @@ Back to top
 
   * #### __  Security and fraud prevention
 
-If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies. Information may be shared through the Cifas National Fraud Database (<https://www.cifas.org.uk/services/national-fraud-database>). Law enforcement agencies may access and use this information. Royal Mail Group and other organisations may also access and use this information to prevent fraud and money laundering, for example, when:
+Some of the personal information we have collected from you will be shared with fraud prevention agencies who will use it to prevent fraud and money-laundering and to verify your identity. If fraud is detected, you could be refused certain services, finance, or employment. Further details of how your information will be used by us and these fraud prevention agencies, and your data protection rights, can be found here: [www.cifas.org.uk/fpn](http://www.cifas.org.uk/fpn).
+
+Royal Mail Group and other organisations may also access and use this information to prevent fraud and money laundering, for example, when:
 
     * Checking details on applications for credit and credit-related or other facilities
     * Managing credit and credit-related accounts or facilities
     * Recovering debt
     * Checking details on proposals and claims for all types of insurance
     * Checking details of job applicants and employees
+
+We and other organisations will also access and use the information recorded by fraud prevention agencies from other countries.
 
 We and other organisations will also access and use the information recorded by fraud prevention agencies from other countries.
 
