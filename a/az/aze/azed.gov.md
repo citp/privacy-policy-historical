@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azed.gov privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610121931id_/http%3A//www.azed.gov/adeinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azed.gov privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225212057id_/https%3A//www.azed.gov/adeinfo/privacy) for the most accurate reproduction.*
 
 # ADE Information - Arizona Department of Education
 
