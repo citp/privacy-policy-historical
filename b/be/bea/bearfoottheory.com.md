@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bearfoottheory.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330000729id_/https%3A//bearfoottheory.com/disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearfoottheory.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225145310id_/https%3A//bearfoottheory.com/disclosures) for the most accurate reproduction.*
 
-# Privacy Policy / Disclosures - Bearfoot Theory
+# Privacy Policy / Disclosures – Bearfoot Theory
 
 ## Advertising Policy
 
