@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the comicbookmovie.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624192857id_/https%3A//www.comicbookmovie.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookmovie.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225211546id_/https%3A//www.comicbookmovie.com/about/privacy) for the most accurate reproduction.*
 
 # Comic Book Movie Privacy Policy
 
 * * *
-
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, no information on consumers who browse our Web page.
 
@@ -28,6 +26,12 @@ Users may opt out of the use of the DART cookie by visiting the [Google ad and c
 
 * * *
 
+**iOS/ MacOS & Cookies**
+
+This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie.
+
+* * *
+
 **Quantcast**
 
 Quantcast, as a third party vendor, uses cookies to serve ads on our site.
@@ -35,6 +39,8 @@ Quantcast, as a third party vendor, uses cookies to serve ads on our site.
 Quantcast's use of cookies enables it to serve ads based on your visit and other sites on the Internet.
 
 * * *
+
+To change your privacy settings, click here
 
 Users may opt out of the use of the Quantcast cookie by visiting the [Quantcast opt-out page](https://www.quantcast.com/docs/display/legal/Opt-out+of+Quantcast+Delivery) on their site.
 
