@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the handinhand2017.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608161156id_/http%3A//comicrelief.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handinhand2017.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225020658id_/http%3A//comicrelief.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy & Legal Disclosures - Comic Relief USA
+# Privacy Policy & Legal Disclosures | Comic Relief USA
 
-## Privacy Policy
+### Privacy Policy
 
 Effective Date: November 12, 2018
 
@@ -136,9 +136,9 @@ Your browser settings may allow you to automatically transmit a “Do Not Track�
 
 **C. Analytics and Advertising Tracking Technologies.**
 
-You may exercise choices regarding the use of cookies from Google Analytics by going to <https://tools.google.com/dlpage/gaoptout> or downloading the Google Analytics Opt-out Browser Add-on.
+You may exercise choices regarding the use of cookies from Google Analytics by going to [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) or downloading the Google Analytics Opt-out Browser Add-on.
 
-You may exercise choices regarding receipt of Interest-based Advertising by submitting opt outs. Some of the advertisers and Service Providers that perform advertising-related services for us and our partners may participate in the Digital Advertising Alliance (“ **DAA** “) Self-Regulatory Program for Online Behavioral Advertising. To learn more about how you can exercise certain choices regarding Interest-based Advertising, visit <http://www.aboutads.info/choices>, and <http://www.aboutads.info/appchoices> for information on the DAA’s opt out program for mobile apps. Some of these companies may also be members of the Network Advertising Initiative (“ **NAI** ”). To learn more about the NAI and your opt out options for their members, see <http://www.networkadvertising.org/choices/>. Please be aware that, even if you are able to opt out of certain kinds of Interest-based Advertising, you may continue to receive other types of ads. Opting out only means that those selected members should no longer deliver certain Interest-based Advertising to you, but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks). Comic Relief is not responsible for effectiveness of, or compliance with, any third-parties’ opt out options or programs or the accuracy of their statements regarding their programs.
+You may exercise choices regarding receipt of Interest-based Advertising by submitting opt outs. Some of the advertisers and Service Providers that perform advertising-related services for us and our partners may participate in the Digital Advertising Alliance (“ **DAA** “) Self-Regulatory Program for Online Behavioral Advertising. To learn more about how you can exercise certain choices regarding Interest-based Advertising, visit [http://www.aboutads.info/choices](http://www.aboutads.info/choices), and [http://www.aboutads.info/appchoices](http://www.aboutads.info/appchoices) for information on the DAA’s opt out program for mobile apps. Some of these companies may also be members of the Network Advertising Initiative (“ **NAI** ”). To learn more about the NAI and your opt out options for their members, see [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/). Please be aware that, even if you are able to opt out of certain kinds of Interest-based Advertising, you may continue to receive other types of ads. Opting out only means that those selected members should no longer deliver certain Interest-based Advertising to you, but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks). Comic Relief is not responsible for effectiveness of, or compliance with, any third-parties’ opt out options or programs or the accuracy of their statements regarding their programs.
 
 **D. Communications.**
 
@@ -148,7 +148,7 @@ You can opt-out of receiving certain promotional communications (e-mails, text m
 
 California’s “Shine the Light” law permits customers in California to request certain details about how certain types of their information are shared with third parties and, in some cases, affiliates, for those third parties’ and affiliates’ own direct marketing purposes. Under the law, a business should either provide California customers certain information upon request or permit California customers to opt in to, or opt out of, this type of sharing.
 
-Comic Relief may share personal information as defined by California’s “Shine the Light” law with third parties and/or affiliates for such third parties’ and affiliates’ own direct marketing purposes. If you are a California resident and wish to obtain information about our compliance with this law, please e-mail us at [info@comicrelief.org](mailto:info@comicrelief.org) or send us a letter to Comic Relief Inc. 488 Madison Ave., 10th floor New York, NY 10022. Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that Comic Relief is not required to respond to requests made by means other than through the provided e-mail address or mail address.
+Comic Relief may share personal information as defined by California’s “Shine the Light” law with third parties and/or affiliates for such third parties’ and affiliates’ own direct marketing purposes. If you are a California resident and wish to obtain information about our compliance with this law, please e-mail us at [info@comicrelief.org](mailto:info@comicrelief.org) or send us a letter to Comic Relief Inc. 28 Liberty Street, 35th Floor, New York, NY 10005. Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that Comic Relief is not required to respond to requests made by means other than through the provided e-mail address or mail address.
 
 **F. Your European Privacy Rights.**
 
@@ -162,7 +162,7 @@ If you have any issues with our compliance, you have the right to lodge a compla
 
 **8\. Children.**
 
-The Service is intended for a general audience and not directed to children under sixteen (16) years of age. Comic Relief does not knowingly collect personal information as defined by the U.S. Children’s Privacy Protection Act (“ **COPPA** ”) in a manner that is not permitted by COPPA. If you are a parent or guardian and believe Comic Relief has collected such information in a manner not permitted by COPPA, please e-mail us at [info@comicrelief.org](mailto:info@comicrelief.org) or send us a letter to Comic Relief Inc. 488 Madison Ave., 10th floor New York, NY 10022, and we will remove such data to the extent required by COPPA.
+The Service is intended for a general audience and not directed to children under sixteen (16) years of age. Comic Relief does not knowingly collect personal information as defined by the U.S. Children’s Privacy Protection Act (“ **COPPA** ”) in a manner that is not permitted by COPPA. If you are a parent or guardian and believe Comic Relief has collected such information in a manner not permitted by COPPA, please e-mail us at [info@comicrelief.org](mailto:info@comicrelief.org) or send us a letter to Comic Relief Inc. 28 Liberty Street, 35th Floor, New York, NY 10005, and we will remove such data to the extent required by COPPA.
 
 **9\. Data Security.**
 
@@ -178,20 +178,15 @@ Our privacy policy may change from time to time. We will post any privacy policy
 
 **12\. Contact Us.**
 
-If you have questions or concerns about any of our information collection or handling practices, or if you wish to change or remove any Personal Information provided to us, please contact us by e-mail at [info@comicrelief.org](mailto:info@comicrelief.org) or by postal mail at Comic Relief, Inc. 488 Madison Avenue, 10th Floor, New York, New York 10022.  
+If you have questions or concerns about any of our information collection or handling practices, or if you wish to change or remove any Personal Information provided to us, please contact us by e-mail at [info@comicrelief.org](mailto:info@comicrelief.org) or by postal mail at Comic Relief, Inc. 28 Liberty Street, 35th Floor, New York, NY 10005.
 
+### Legal Disclosure
 
-## Legal Disclosure
+**Comic Relief Inc. 2018  Annual Report**
 
-**Comic Relief Inc. 2017 Annual Report  
-**
+You can download Comic Relief Inc’s 2018 Annual Report [here](https://web.archive.org/sites/default/files/downloads/2018%20Comic%20Relief%20Annual%20Report%20%281%29.pdf).
 
-You can download Comic Relief Inc’s 2017 Annual Report [here](http://comicrelief.org/wp-content/uploads/2018/12/2017-Annual-Report-GT.pdf).
-
-**Red Nose Day Hashtag Campaign Rules and Procedures can be found[here](http://comicrelief.org/wp-content/uploads/2015/01/2016-05-19-Gates-Foundation-Twitter-Instagram-Hashtag-TsCs-FINAL.pdf)**  
-
-
-### Financial information
+#### Financial information
 
 **Tax exempt status**
 
@@ -204,10 +199,10 @@ Comic Relief, Inc. retains full discretion and control over all donations receiv
 If your workplace matches your contributions, the following may be useful for your company giving program:
 
 _Name:_ Comic Relief, Inc.  
-_Business address:_ Comic Relief, Inc., 488 Madison Avenue, 10th Floor, New York, New York 10022  
-_Tax # (EIN):_ 01-0885377
+ _Business address:_ Comic Relief, Inc., 28 Liberty Street, 35th Floor, New York, NY 10005  
+ _Tax # (EIN):_ 01-0885377
 
-Please[ email us](http://crintl.wpengine.com/contact-us/ "Contact us") at if you have any queries.
+Please [email us](https://web.archive.org/contact-us/ "Contact us") at if you have any queries.
 
 **Financial Information**
 
@@ -219,13 +214,13 @@ Red Nose Day Fund
 
 The key issues funded are health and education and the protection of children and young people at risk in the U.S. and the poorest countries in the world.
 
-View Comic Relief Inc’s [2015 990 here.](http://comicrelief.org/wp-content/uploads/2015/01/990.pdf)  
-View Comic Relief Inc’s [2016 990 here.](http://comicrelief.org/wp-content/uploads/2017/11/Comic-Relief-Form-990_2016_Final.pdf)  
-View Comic Relief Inc’s [2017 990 here.](http://comicrelief.org/wp-content/uploads/2018/05/2017-Comic-Relief-990PD.pdf)  
-View Comic Relief Inc’s [2018 990 here.](https://comicrelief.org/wp-content/uploads/2019/05/Comic-Relief-Form-990-2018.pdf)  
-View Comic Relief Inc’s [2015/2016 Audited Financial Statement here.](https://comicrelief.org/wp-content/uploads/2019/05/Comic-Relief-Inc-Audited-Financials-12-31-16-FINAL.pdf)  
-View Comic Relief Inc’s [2017 Audited Financial Statement here.](https://comicrelief.org/wp-content/uploads/2019/05/Comic-Relief-Financial-Statement-12-31-17-FINAL.pdf)  
-View Comic Relief Inc’s [2018 Audited Financial Statement here.](https://comicrelief.org/wp-content/uploads/2019/05/Comic-Relief-Inc-12-31-18-FINAL.pdf)
+View Comic Relief Inc’s [2015 990 here](https://web.archive.org/sites/default/files/downloads/990.pdf).  
+View Comic Relief Inc’s [2016 990 here](https://web.archive.org/sites/default/files/downloads/Comic-Relief-Form-990_2016_Final.pdf).  
+View Comic Relief Inc’s [2017 990 here](https://web.archive.org/sites/default/files/downloads/2017-Comic-Relief-990PD.pdf).  
+View Comic Relief Inc’s [2018 990 here](https://web.archive.org/sites/default/files/downloads/Comic-Relief-Form-990-2018.pdf).  
+View Comic Relief Inc’s [2015/2016 Audited Financial Statement here](https://web.archive.org/sites/default/files/downloads/Comic-Relief-Inc-Audited-Financials-12-31-16-FINAL.pdf).  
+View Comic Relief Inc’s [2017 Audited Financial Statement here](https://web.archive.org/sites/default/files/downloads/Comic-Relief-Financial-Statement-12-31-17-FINAL.pdf).  
+View Comic Relief Inc’s [2018 Audited Financial Statement here](https://web.archive.org/sites/default/files/downloads/Comic-Relief-Inc-12-31-18-FINAL.pdf).
 
 **U.S. State Information**  
 Under various state solicitation regulations, we are required to inform residents of the following U.S. states that they may also contact their state’s charities registration or licensing office for further information.
@@ -234,13 +229,13 @@ Under various state solicitation regulations, we are required to inform resident
 
 **Florida**  – FL REGISTRATION number CH 22640, a copy of the official registration and financial information may be obtained from the division of consumer services by calling toll-free, within the state 1-800-help-fla. Registration does not imply endorsement, approval, or recommendation by the state.
 
-**Georgia –** A copy of the current financial statement of Comic Relief, Inc. is available upon request.
+**Georgia – **A copy of the current financial statement of Comic Relief, Inc. is available upon request.
 
-**Maryland –** A copy of the current financial statement of Comic Relief, Inc. is available upon request.  For the cost of copies and postage, documents and information submitted under the Maryland Solicitations Act are available from the Maryland Secretary of State, 16 Francis Street, Annapolis MD 21061 (410) 974-5521.
+**Maryland – **A copy of the current financial statement of Comic Relief, Inc. is available upon request.  For the cost of copies and postage, documents and information submitted under the Maryland Solicitations Act are available from the Maryland Secretary of State, 16 Francis Street, Annapolis MD 21061 (410) 974-5521.
 
 **Michigan**  – MICS 37060
 
-**Minnesota –** Comic Relief, Inc. is located in New York, NY.  All contributions to Comic Relief, Inc. are tax deductible to the extent provided by US law.
+**Minnesota – **Comic Relief, Inc. is located in New York, NY.  All contributions to Comic Relief, Inc. are tax deductible to the extent provided by US law.
 
 **Mississippi**  – The official registration and financial information of Comic Relief, Inc. may be obtained from the Mississippi Secretary of State’s office by calling 1-888-236-6167. Registration by the Secretary of State does not imply endorsement by the Secretary of State.
 
@@ -258,4 +253,4 @@ Under various state solicitation regulations, we are required to inform resident
 
 **West Virginia**  – West Virginia residents may obtain a summary of the registration and financial documents from the Secretary of State, Capitol, Charleston, WV 25305. Inquiries can be made to the administrator at Comic Relief, Inc.
 
-Last Modified: November 2017
+Last Modified: November 12, 2018
