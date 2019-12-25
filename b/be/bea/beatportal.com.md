@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the beatportal.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330084609id_/https%3A//support.beatport.com/hc/articles/200353215) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatportal.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226005355id_/https%3A//support.beatport.com/hc/en-us/articles/200353215) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy – Beatport Customer Care
 
 **F. Privacy and Cookie Policy  ** **v 5.23.2018**
 
-This Privacy Policy describes the kinds of information that Beatport, LLC ("we") may collect about you through our group of websites, which currently include Beatport.com, Sounds.Beatport.com, and others where this Policy appears (the "Sites"), and what we may do with that information. Our contact details are Beatport, LLC, 3461 Ringsby Court, #150, Taxi Drive 2, Denver, Colorado 80216. You may also email us regarding our Privacy Policy at legal@beatport.com.
+This Privacy Policy describes the kinds of information that Beatport, LLC ("we") may collect about you through our group of websites, which currently include Beatport.com, Sounds.Beatport.com, and others where this Policy appears (the "Sites"), and what we may do with that information. Our contact details are Beatport, LLC, 3501 Wazee Street, Suite 318, Denver, CO 80216.
+
+You may also email our Data Processing Officer regarding our Privacy Policy at [dpo@beatport.com](mailto:legal@beatport.com) 
 
 This policy applies to you if you visit the Sites, are a registered user on the Sites and/or make purchases on the Sites. It also applies to our content suppliers, and their representatives with whom we may come into contact during the course of business. We reserve the right to modify this Policy at any time by posting the updated version here and changing the "version" date above. Therefore, please check this page for updates whenever you visit any of our Sites, and we may also elect to notify our registered users and our content suppliers of material changes via e-mail or other means. This Policy does not apply to information that may be collected off-line. 
 
@@ -112,7 +114,7 @@ If you reside in the EU or if your data is processed in connection with our Euro
 
 a) Data Controller
 
-For the purposes of the GDPR, Beatport, LLC, is the data controller of any personal data collected from or about you. Our EU representative is Beatport Europe B.V., with offices at Overhoeksplein 31, Floor 13 & 14, 1031 KS Amsterdam, the Netherlands and Pfuelstraße 5, 10997 Berlin, Germany; legal@beatport.com.
+For the purposes of the GDPR, Beatport, LLC, is the data controller of any personal data collected from or about you. Our EU representative is Beatport Europe B.V., with offices at Overhoeksplein 31, Floor 13 & 14, 1031 KS Amsterdam, the Netherlands and Pfuelstraße 5, 10997 Berlin, Germany; dpo@beatport.com.
 
 b) Lawful basis for processing
 
