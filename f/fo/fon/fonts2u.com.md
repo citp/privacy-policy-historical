@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fonts2u.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222224904id_/https%3A//fonts2u.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonts2u.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226003442id_/https%3A//fonts2u.com/privacy.html) for the most accurate reproduction.*
 
 # Fonts2u.com Download fonts
 
-Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
+Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users. 
 
- _Email address_
+_Email address_
 
 To access some pages, it's required for you to register and enter your email address. 
 
@@ -16,12 +16,12 @@ This email address is used:
 
 
 
-Please note your email address is never shared with or sold to third-parties. It's used exclusively for the purposes above.
+Please note your email address is never shared with or sold to third-parties. It's used exclusively for the purposes above. 
 
- _Cookies_
+_Cookies_
 
-We may use cookies to improve your browsing experience. It's useful to store your language preference and products per page settings so you don't need to set this every time you come back to our web site.
+We may use cookies to improve your browsing experience. It's useful to store your language preference and products per page settings so you don't need to set this every time you come back to our web site. 
 
- _Third-party advertising companies_
+_Third-party advertising companies_
 
 Some advertising companies may use your information (language preference / browser settings) to serve their ads more accurately. 
