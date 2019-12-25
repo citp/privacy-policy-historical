@@ -1,171 +1,286 @@
-> *The following text is extracted and transformed from the hotwire.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215012id_/https%3A//www.hotwire.com/en/content/privacy-policy%3Fcc%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotwire.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225200336id_/http%3A//www.hotwire.com/en/content/privacy-policy%3Fcc%3Dus) for the most accurate reproduction.*
 
-# Privacy policy | Hotwire.com
+# Privacy | Hotwire.com
 
-This Privacy Policy is effective as of April 17, 2016.
+**Categories of Personal Information We Collect**
 
-We understand that booking online involves significant trust on your part. We value your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read the following policy to learn about our privacy practices. By visiting this website, you are accepting the practices described herein.
+When you use our platform, Apps, or associated tools or services, we may collect the following kinds of personal information from you as needed:
 
- **What information we collect from you**
+  * Name, email address, telephone number, and home, business, and billing addressees
+  * Government issued Identification required for booking or identity verification, such as passport, driver’s license, and government redress numbers, and for vacation property owners, tax identification number
+  * Payment information such as payment card number, expiration date, and billing address
+  * Travel-related preferences and requests such as favorite destination and accommodation types, and special dietary and accessibility needs, as available
+  * Loyalty program and membership information
+  * Birth date and gender
+  * Geolocation
+  * Images, videos, and other recordings
+  * Social media account ID and other publicly available information
+  * Communications with us (such as recordings of calls with customer service representatives for quality assurance and training purposes)
+  * Searches you conduct, transactions, and other interactions with you on our online services and Apps
+  * Other communications that occur through the platform among partners and travelers, and in-group chat and traveler-collaboration tools
+  * The searches and transactions conducted through the platform
+  * Data you give us about other people, such as your travel companions or others for whom you are making a booking
+  * Information we receive about you from other Expedia Group companies and third parties such as our business and affiliate partners and authorized service providers which may include updated contact information, demographic information, interests, and purchase history, which we may add to your account or profile and use for market research and analysis
 
-**In General**  
-We receive and store any information you enter on our website or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and email addresses, and billing information (such as credit card number, cardholder name, and expiration date). We may also request information about your hotel room preferences, and frequent flyer and car rental program information. You can choose not to provide information to us, but in general some information about you is required in order for you to register as a member; book travel; complete a traveler profile; participate in a survey, contest, or sweepstakes; ask us a question; or initiate other transactions on our site.
 
-**Travel Companion Information**  
-When you make a reservation for someone else through this website, we will request personal information and travel preferences about that individual. You should obtain the consent of other individuals prior to providing us with their personal information and travel preferences, as any access to view or change their information will be available only through your account.
 
-**Information from Other Sources**  
-We also may periodically obtain both personal and non-personal information about you from affiliated entities, business partners and other independent third-party sources and add it to our account information. Examples of information we may receive include: updated delivery and address information, purchase history, and demographic information.
+When you install any of our apps or use our platform, we automatically collect the following types of information from your device:
 
-**Automatic Information**  
-We automatically collect some information about your computer when you visit this website. For example, we will collect your IP address, Web browser software (such as Firefox, Safari, or Internet Explorer), and referring website. We also may collect information about your online activity, such as trips viewed and bookings made. Our goals in collecting this automatic information include helping customize your user experience and inhibiting fraud. For more information, please see the "Cookies and other technologies" section below.
+  * IP address
+  * Device type
+  * Unique device identification numbers
+  * Internet browser-type (such as Firefox, Safari, Chrome, and Internet Explorer)
+  * Internet Service Provider
+  * Operating System
+  * Mobile carrier
+  * How your device has interacted with our online services, including the pages accessed, links clicked, trips viewed, and features used, along with associated dates and times
+  * Details of any referring website or exit pages, as well as general geographic location (such as at the country or city-level)
 
-**How we use your information**
 
-We use sensitive billing information (such as cardholder name, credit card number, and expiration date) for the purpose of completing the travel bookings you conduct on our site. We use other information about you for the following general purposes: to provide you with the products and services you request; to provide you with travel confirmation and updates; to manage your account, including processing bills and providing travel notifications; to communicate with you in general; to respond to your questions and comments; to measure interest in and improve our products, services, website, and our Apps; to notify you about special offers and products or services that may be of interest to you; to otherwise customize your experience with this website and our Apps; to reward you as part of any reward and recognition program you choose to join; to solicit information from you, including through surveys; to resolve disputes, collect fees, or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection.
 
-We often receive testimonials and comments from customers who have had positive booking and/or travel experiences on our website. We occasionally publish such content, using first name plus last initial, only, for attribution.
+Our Cookie Statement further explains how we use cookies and similar tracking technology.
 
-**E-mail Communications**  
-We want to make it easy for you to take advantage of travel-related opportunities on our website and through our Apps. One way we do this is by sending you email messages that contain information about your apparent travel-related interests. For example, if you search for a flight to New York on our website and have saved your itinerary or otherwise not yet booked your travel, we may send you an email message reminding you about your saved travel itinerary or about a special airfare to New York. Similarly, if you receive an email from us about New York travel and demonstrate an interest in New York hotels by affirmatively clicking on a link about New York hotels in the email, you may receive an email about New York hotel offers. We believe these email messages will provide you with useful information about travel-related special offers available through our site and our Apps. Please note that you will have the opportunity to choose not to receive these email messages in any such email we send.
+**Mobile Applications**
 
-Please review the section titled "Your choices with respect to the collection and use of your information" below.
+When you download and use any of our mobile apps, we collect certain technical information from your device to enable the app to work properly and as otherwise described in this Privacy Statement. That technical information includes:
 
-**With whom we share your information**
+  * Device and telephone connectivity information such as your carrier, network type, network operator, subscriber identity module ("SIM") operator, and SIM country
+  * Operating system and version
+  * Device model
+  * Performance and data usage
+  * Usage data, such as dates and times the app accesses our servers, the features and links clicked in the app, searches, transactions, and the data and files downloaded to the app
+  * Device settings selected or enabled, such as Wi-Fi, Global Positioning System ("GPS"), and Bluetooth (which may be used for location services, subject to your permission as explained below)
+  * Mobile device settings
+  * Other technical information such as app name, type, and version as needed to provide you with services
 
-This website may share your information with the following entities:
 
-**Suppliers** such as hotel, airline, car rental, and activity providers, who fulfill your travel reservations. Throughout this site, all services provided by a third-party supplier are described as such. We do not place limitations on our suppliers' use or disclosure of your personal information. Therefore, we encourage you to review the privacy policies of any travel supplier whose products you purchase through this site. Please note that these suppliers also may contact you as necessary to obtain additional information about you, facilitate your travel reservation, or respond to a review you may submit.
 
-**Third-party vendors** who provide services or functions on our behalf, including credit card processing, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our website or our Apps or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose.
+**_**_Permissions for Location-Based Services:_**_**
 
-**Business partners** with whom we may jointly offer products or services, or whose products or services may be offered on our website or through our Apps. You can tell when a third party is involved in a product or service you have requested because their name will appear, either alone or with ours. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners.
+Depending on your device’s settings and permissions and your choice to participate in certain programs, we may collect the location of your device by using GPS signals, cell phone towers, Wi-Fi signals, Bluetooth or other technologies. We will collect this information, if you opt in through the app or other program (either during your initial login or later) to enable certain location-based services available within the app (for example, locating available lodging closest to you). To disable location capabilities of the app, you can log off or change your mobile device’s settings.
 
-**Referring websites.** If you were referred to this website from another site (for example, through a link you clicked on another site that directed you to this one), we may share some information about you with that referring website. We have not placed limitations on the referring websites' use of your personal information and we encourage you to review the privacy policies of any website that referred you here.
+****Use of Personal Information****
 
-**Companies within our corporate family.** We may share your personal information with our parent company and corporate affiliates, such as Expedia.com, CarRentals.com and Hotels.com, as well as international corporate affiliates such as Expedia.co.uk. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email they send to choose not to receive such email messages in the future.
+We use your personal information for various purposes described below, which depend on the site you visit or the app you use.
 
-We also may share your information:
+_Your Use of Online Sites, Apps,_ _  and _ _Services:_
 
-  * In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us.
-  * When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of our company or this website or our Apps, our customers, or others; and in connection with our Terms of Service and other agreements.
-  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+  * Book the requested travel or enable vacation property booking
+  * Provide services related to the booking and/or account
+  * Create, maintain, and update user accounts on our platform and authenticate you as a user
+  * Maintain your search and travel history, accommodation and travel preferences, and similar information about your use of Expedia Group’s platform and services, and as otherwise described in this Privacy Statement
+  * Enable and facilitate acceptance and processing of payments, coupons, and other transactions
+  * Administer loyalty and rewards programs
+  * Collect and enable booking-related reviews
+  * Help you to use our services faster and easier through features like the ability to sign-in using your account within the online services and sites of some of the Expedia Group companies
 
 
 
-Other than as set out above, you will be notified when personal information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information.
+_Communications and Marketing:_
 
-We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our website receives or the most popular hotels and vacation destinations. This information does not contain any personal information and is used to develop content and services we hope you will find of interest.
+  * Respond to your questions, requests for information, and process information choices
+  * Enable communication between you and the travel supplier like hotels and vacation property owners
+  * Contact you (such as by text message, email, phone calls, mail, push notifications, or messages on other communication platforms) to provide information like travel booking confirmations and updates, for marketing purposes, or for other purposes as described in this Privacy Statement
+  * Market our products and services, optimize such marketing to be more relevant to you, and measure and analyze the effectiveness of our marketing and promotions
+  * Administer promotions like contests, sweepstakes, and similar giveaways
 
-**How you can access your information**
 
-Hotwire registered users can access and update their contact information by visiting the Hotwire My Account page. Hotwire email subscribers can access and update their subscription choices through Subscription Management links found in the footer of any Hotwire email. You can close your account by contacting us at the email address listed below. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. Please also note that we may retain certain information associated with your account, including for analytical purposes as well as for recordkeeping integrity.
 
-**Your choices with respect to collection and use of your information**
+_Other Business Purposes and Compliance_
 
-  * As discussed above, you can choose not to provide us with any information, although it may be needed to make travel bookings or to take advantage of certain features offered on our site or our Apps.
-  * You also can add or update information and close your account as described above.
-  * As a Hotwire registered user, you can modify your subscription choices at any time on the Hotwire My Account page. Whether registered as a member or not, you also will be given the opportunity to unsubscribe from commercial messages in any such email we send. Please note that we reserve the right to send you other communications, including service announcements, administrative messages, and surveys relating either to your account or to your transactions on this site, without offering you the opportunity to opt out of receiving them.
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies from our site, you will not be able to access portions of this site.
+  * Conduct surveys, market research, and data analytics
+  * Maintain, improve, research, and measure the effectiveness of our sites and apps, activities, tools, and services
+  * Monitor or record calls, chats, and other communications with our customer service team and other representatives, as well as platform communications between or among partners and travelers for quality control, training, dispute resolution, and as described in this Privacy Statement
+  * Create aggregated or otherwise anonymized or deidentified data, which we may use and disclose without restriction where permissible
+  * Promote security, verify identity of our customers, prevent and investigate fraud and unauthorized activities, defend against claims and other liabilities, and manage other risks
+  * Comply with applicable laws, protect our and our users’ rights and interest, defend ourselves, and respond to law enforcement, other legal authorities, and requests that are part of a legal process
+  * Comply with applicable security and anti-terrorism, anti-bribery, customs and immigration, and other such due diligence laws and requirements
+  * Operate our business using lawful business purposes and as permitted by law
 
 
 
-**Cookies and other technologies**
+****Sharing of Personal Information****
 
-Cookies are small data text files and can be stored on your computer's hard drive (if your Web browser permits). This website use cookies for the following general purposes:
+We share your personal information as described below and in this Privacy Statement, and as permitted by applicable law.
 
-  * To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting this site. For example, if you register on this site, we may use cookies to remember your registration information. Please note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purposes. Unless you register with us, these cookies will not contain any personal information.
-  * To help us customize the content and advertisements provided to you on this website and on other sites across the Internet. For example, when you access a page on our website, a cookie is automatically set by us, our service providers, or our partners to recognize your browser as you navigate on the Internet and to present you with information and advertising based on your apparent interests. See the "Display of advertising/Your choices" section for more information about our online advertising practices and your choices.
-  * To help measure and research the effectiveness of website features and offerings, advertisements, and email communications (by determining which emails you open and act upon).
+  * ****Expedia Group Companies.  ****We share your personal information within the Expedia Group companies, listed at [www.expediagroup.com](http://www.expediagroup.com/). Expedia Group companies share, access and use your personal information as described in this Privacy Statement.
+  * ****Third-party service providers.  ****We share personal information with third-parties in connection with the delivery of services to you and the operation of our business (for example, to provide credit card processing, customer service, business analytics, and fraud prevention and compliance services, and to serve you with advertising tailored to your interests). These third-party service providers are required to protect personal information we share with them and may not use any directly identifying personal information other than to provide services we contracted them for. They are not allowed to use the personal information we share for purposes of their own direct marketing (unless you have separately consented with the third-party under the terms provided by the third-party).
+  * ****Travel suppliers.  ****We share personal information with travel-related suppliers such as hotels, airlines, car-rental companies, insurance, vacation-rental property owners and managers, and where available, activity providers, rail, or cruise lines who fulfill your booking. Please note that travel suppliers may contact you to obtain additional information if and as required to facilitate your booking or to otherwise provide the travel or associated services.
+  * ****Business partners and offers.****  If we promote a program or offer a service or product in conjunction with a third-party business partner, we will share your information with that partner to assist in marketing or to provide the associated product or service. In most of those cases, the program or offer will include the name of the third-party business partner, either alone or with ours, or you will be redirected to the website of that business with notice. An example of such a business-partner relationship would be a third-party loyalty program for which you could earn points by completing a booking on our platform.
+  * ****Other Third-Parties.****  When you access certain features like Facebook’s “Like” button or a single sign-on that allows you to login with your social media credentials to our online services, you will share information with the third-party, like a social media company, such as the fact that you have visited or interacted with us. In the European Economic Area (EEA), Switzerland, and United Kingdom (UK) we will not load social media sharing or sign-on buttons on our website unless and until you accept our use of cookies and similar technologies. For more information, see our Cookie Statement. The third-party provider may combine this information with other information they have about you. The personal information shared will be governed by the third-party provider’s privacy policy (including any personal information we may access via the third-party provider). The third-party providers should inform you about how you can modify your privacy settings on their site.
+  * ****Legal rights and obligations.  ****We may disclose your personal information to enforce our policies, or where we are permitted (or believe in good faith that we are required) to do so by applicable law, such as in response to a request by a law enforcement or governmental authority, in connection with actual or proposed litigation, or to protect and defend our property, people and other rights or interests. We may also share your personal information pursuant to a subpoena or other legal request, or as necessary to remit certain taxes in the course of processing payments as required by law or legal process.
+  * ****Corporate transactions.  ****We may share your personal information in connection with a corporate transaction, such as a divestiture, merger, consolidation, assignments or asset sale, or in the unlikely event of bankruptcy. In the case of any acquisition, we will inform the buyer it must use your personal information only for the purposes disclosed in this Privacy Statement.
 
 
 
-The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies, you may not be able to access many of the travel tools offered on our site.
+****Your Rights and Choices****
 
-In addition to the above cookies, we use Local Shared Objects, also referred to as "flash cookies," on our website. These are used to enhance your user experience, for example, by storing your user preferences and settings, such as your volume/mute settings, and in connection with animated content on our website. Local Shared Objects are similar to browser cookies, but can store data more complex than simple text. By themselves, they cannot do anything to or with the data on your computer. Like other cookies, they can only access personally identifiable information that you have provided on this site, and cannot be accessed by other websites. To find out more about flash cookies or how to disable them, please click here: <http://kb2.adobe.com/cps/526/52697ee8.html>.
+You have certain rights and choices with respect to your personal information, as described below:
 
-This site may also use Web beacons (also known as clear gifs, pixel tags or Web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page. We use Web beacons to monitor the traffic patterns of users from one page within our site to another, to deliver or communicate with cookies, to understand whether you have come to this site from an online advertisement displayed on a third-party website, and to improve site performance. We also may allow our service providers to use Web beacons to help us understand which emails have been opened by recipients and to track the visitor traffic and actions on this site. This helps us measure the effectiveness of our content and other offerings.
+  * If you have an account with us, you may change your communication preferences by either (1) logging in and updating the information in your account (not available for all Expedia Group companies) or (2) contacting us here
+  * You can control our use of certain cookies by following the guidance in our Cookie Statement
+  * You can update the accuracy of your information at any time by either logging into your account or contacting us
+  * If you no longer wish to receive marketing and promotional emails, you may unsubscribe by clicking the ‘unsubscribe’ link in the email. You can also log into your account to change communication settings (not available for all Expedia Group companies) or contacting us here. Please note that if you choose to unsubscribe from or opt out of marketing emails, we may still send you important transactional and account-related messages from which you will not be able to unsubscribe
+  * For our mobile apps, you can view and manage notifications and preferences in the settings menus of the app and of your operating system
+  * If we are processing your personal information on the basis of consent, you may withdraw that consent at any time by contacting us. Withdrawing your consent will not affect the lawfulness of any processing that occurred before you withdrew consent and it will not affect our processing of your personal information that is conducted in reliance on a legal basis other than consent
 
-If you have any questions about our use of cookies or other technologies, please email us using our [customer service and feedback form.](https://www.hotwire.com/helpcenter/contact.jsp)
 
-**Display of tailored advertising/Your choices**
 
-**Data collected by this website to serve you with relevant advertising**  
-Hotwire is committed to providing you with relevant content and information. To do this, we may collect, through cookies and other technologies information about your travel-related searches, such as whether you are looking for airline flights or hotels, and use this information to serve you with ads, on our website or elsewhere online, that match your apparent interests. So, for example, if you search for a flight to Florida on our site, you may see an ad for a Florida travel package on our site or on another website you visit.
+For questions about privacy and your rights and choices, please contact us here.
 
-Please note that we do not combine the information we collect about your travel-related searches on this website with personal information (such as email address) to serve you with ads across other websites. We also do not share your personal information with third parties so they can serve you with advertisements. You can choose not to receive tailored online advertising on other websites, based on your travel-related searches on this website, by clicking [here](http://www.networkadvertising.org/) or [here](http://www.aboutads.info/). Note that if you choose not to receive tailored ads, you will see online advertisements, but they will be more general and less relevant to you.
+**_**_For California residents:_**_**
 
-**Data collected by business partners and ad networks to serve you with relevant advertising.**  
-The advertisements you see on this website are served by us or by our service providers. But we also allow third parties to collect information about your online activities through cookies and other technologies. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on our site, and (2) advertising networks, who collect information about your interests when you view or interact with one of the advertisements they place on many different websites on the Internet. The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences and to display advertisements on our site and across the Internet tailored to your apparent interests. We do not permit these third parties to collect personal information about you on our site, nor do we share with them any personal information about you.
+California residents may exercise the following rights:
 
-Please note that we do not have access to or control over cookies and other technologies. These third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. These companies may offer you a way to opt out of ad targeting based on their cookies. You may find more information by clicking on the company names above and following the links to the websites of each company. Some of these companies are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. To learn more, please click [here](http://www.networkadvertising.org/) or [here](http://www.youronlinechoices.com/).
+  * To request a copy of your personal information
+  * To request disclosure of personal information sold or disclosed for a business purpose
+  * To request the deletion of personal information
+  * To opt out of the sale of personal information [here](https://www.hotwire.com/hwdnsmpi).
 
-**Data collected by companies that operate cookie-based exchanges to serve you with relevant advertising.**  
-Like other companies operating online, Expedia.com participates in cookie-based exchanges where anonymous information is collected about your browsing behavior through cookies and other technologies and segmented into different topics of interest (such as travel). These topics of interest are then shared with third parties, including advertisers and ad networks, so they can tailor advertisements to your apparent interests. We do not share personal information (such as your email address) with these companies and we do not permit these companies to collect any such information about you on our site. Please click [here](http://www.networkadvertising.org/) to learn more about cookie-based exchanges, including how to access information about the topics of interest associated with cookies on your computer and how to decline participation in these programs.
 
-**Do-Not-Track Signals and Similar Mechanisms**  
-Some web browsers may transmit “do-not-track” signals to websites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Participants in the leading Internet standards-setting organization that is addressing this issue are in the process of determining what, if anything, websites should do when they receive such signals. Hotwire currently does not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals.
 
-**Using the Hotwire.com mobile phone and tablet Apps (the “Mobile Apps”)**
+****International Data Transfer****
 
-When you use a Hotwire.com Mobile App, we collect and use information about you in the same way and for the same purposes as we do when you use our website.
+The personal information we process may be transmitted or transferred to countries other than the country in which you reside. Those countries may have data protection laws that are different from the laws of your country.
 
-In addition to this, we also use some other information that we collect automatically when you use our Mobile Apps. Specifically:
+The servers for our platform are located in the United States, and the Expedia Group companies and third-party service providers operate in many countries around the world. When we collect your personal information, we may process it in any of those countries.
 
-  * We collect information about Mobile App functionality that you access and use. This allows us to identify those areas of the Mobile App that are of interest to our customers so that we can refine and continuously improve the Mobile App. The information we collect for this purpose does not enable us to directly identify you.
-  * Each Mobile App also creates a sequence of numbers or characters that are unique to your mobile device (a “Mobile Identifier”), which is used for identification purposes, including identifying your preferences. We use communicate with our advertising networks regarding the number of downloads resulting from clicks on their respective ad banners and other marketing tools using industry standard mobile identifiers.
-  * If you use a Mobile App's ’find hotels’ feature using your ‘current location,’ we use information about your current location – provided by your mobile device using GPS or similar technologies – to show nearby facilities. We do not collect location data unless you expressly click on the ’find hotels’ feature using ‘current location’ as your destination or you switch on location data collection through your phone settings menu.
-  * Each Mobile App will also send us error-reporting information in the event that it crashes or hangs. This enables us to investigate the error and to improve the stability of the Mobile App for future releases. As part of these error reports, the Mobile App sends us information about the mobile device type and version, the Mobile Identifier, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.
+We have taken appropriate steps and put safeguards in place to help ensure that your personal information remains protected in accordance with this Privacy Statement. For example, any data transfers between our group companies are governed by our intragroup agreements which incorporate strict data transfer terms (including the European Commission's Standard Contractual Clauses, for transfers from the EEA) and require all group companies to protect the personal information they process in accordance with applicable data protection law. In addition, certain Expedia Group U.S. affiliates have certified with the EU-U.S. and Swiss-U.S. Privacy Shield, as explained below in the "Privacy Shield" section.
 
+We also require that third-party service providers to whom a data transfer is made has appropriate safeguards in place to protect your personal information, in compliance with applicable data protection law. The particular measures used will depend on the service provider, and our agreements with them may include European Commission approved Standard Contractual Clauses, the service provider's certification under the EU-U.S. and/or Swiss-U.S. Privacy Shield certification, or reliance on the service provider's Binding Corporate Rules, as defined by the European Commission.
 
+****Privacy Shield****
 
-You always have the ability to control certain information a Mobile App sends to us. You can switch off location data collection at any time through your phone settings menu. Alternatively, you can remove the Mobile App from your mobile device entirely and access our services through our website.
+Certain Expedia Group U.S. affiliates have certified to the EU-U.S. and Swiss-U.S. Privacy Shield frameworks and that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfers, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability for personal information from the EU, Switzerland, and the United Kingdom. Our certifications can be found [here](https://www.privacyshield.gov/participant?id=a2zt0000000PJU6AAO&status=Active). For more information about the Privacy Shield principles, please visit: [www.privacyshield.gov](http://www.privacyshield.gov/). For more on our adherence to the Privacy Shield Frameworks, please see information posted [here](https://www.expediagroup.com/about/privacy-expedia-group/).
 
-**How we protect your information**
+****Security****
 
-We want you to feel confident about using this website and our Apps to make hotel and travel arrangements, and we are committed to protecting the information we collect. While no website can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they only may do so for permitted business functions. In addition, we use encryption when transmitting your sensitive personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information.
+We want you to feel confident about using our platform and all associated tools and services, and we are committed to taking appropriate steps to protect the information we collect. While no company can guarantee absolute security, we do take reasonable steps to implement appropriate physical, technical, and organizational measures to protect the personal information that we collect and process.
 
-**Children's privacy**
+****Record Retention****
 
-This is a general audience website and does not offer services directed to children. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information.
+We will retain your personal information in accordance with all applicable laws, for as long as it may be relevant to fulfill the purposes set forth in this Privacy Statement, unless a longer retention period is required or permitted by law. We will deidentify, aggregate, or otherwise anonymize your personal information if we intend to use it for analytical purposes or trend analysis over longer periods of time.
 
-**External links**
+The criteria we use to determine our retention periods include:
 
-If any part of this website links you to other sites, those sites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using, and disclosing personal information.
+  * The duration of our relationship with you, including any open accounts you may have with Expedia Group companies, or recent bookings or other transactions you have made on our platform
+  * Whether we have a legal obligation related to your personal information, such as laws requiring us to keep records of your transactions with us
+  * Whether there are any current and relevant legal obligations affecting how long we will keep your personal information, including contractual obligations, litigation holds, statutes of limitations, and regulatory investigations
 
-**Visiting our website from outside the United States**
 
-If you are visiting our website or using our Apps from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.
 
-**U.S.-Swiss Safe Harbor Framework**
+****Cookie Statement****
 
-As described in our [Safe Harbor Privacy Statement](http://www.expedia.com/p/info-other/safe-harbor-privacy.htm), we comply with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland.
+**_**_Types of cookies and similar technologies_**_**
 
-**Secure Flight Privacy Notice**
+_Cookies_
 
-**Privacy notice (found in Section 1560.103 of the Secure Flight Final Rule):** The Transportation Security Administration of the U.S. Department of Homeland Security requires us to collect information from you for purposes of watch list screening, under the authority of 49 U.S.C. section 114, and the Intelligence Reform and Terrorism Prevention Act of 2004. Providing this information is voluntary; however, if it is not provided, you may be subject to additional screening or denied transport or authorization to enter a sterile area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA Privacy policies, or to view the system of records notice and the privacy impact assessment, please see TSA's website at [www.tsa.gov](http://www.tsa.gov/).
+Cookies are small pieces of text sent as files to your computer or mobile device when you visit most websites. Cookies may be delivered by us (first party cookies) or delivered by a third-party partner or supplier (third-party cookies). Cookies are either session cookies or persistent cookies. Session cookies enable sites to recognize and link the actions of a user during a browsing session and expire at the end of each session. Persistent cookies help us recognize you as an existing user and these cookies are stored on your system or device until they expire, although you can delete them before the expiration date.
 
-**Agreement to Hotwire’s Terms of Use**
+_Other similar technologies_
 
-Your use of the Hotwire.com Website is also subject to [Hotwire’s Terms of use](http://merch.hotwire.com/en/content/terms-use?cc=us). Any disputes related to this Privacy Policy shall be governed by the dispute resolution provisions of the Terms of Use (including, but not limited to, its provisions concerned dispute arbitration) which are incorporated here by reference.
+  * ****Web beacons, gifs, and clear gifs****  are tiny graphics, each with a unique identifier that are embedded invisibly on sites and in emails. Web beacons allow us to know if a certain page was visited or if ad banners on our sites and other sites are effective. We also use web beacons in our HTML-based emails to let us know whether our emails have been opened by recipients, which helps us to gauge the effectiveness of certain communications, promotions, and marketing campaigns.
+  * ****Proximity based beacons****  send one-way signals over very short distances, to communicate with associated mobile apps installed on your phone. They can notify you, for example, about experiences related to your trip and can alert you to related deals or promotions. Beacons communicate with your device only when you are in close proximity and only if you have given consent within the relevant mobile application.
+  * ****Pixels****  are small objects embedded into a web page that are not visible to the user. We use pixels to deliver cookies to your computer, facilitate the log-in process, monitor the activity on our sites, and deliver online advertising.
+  * ****Tags  ****are small pieces of HTML code that tell your browser to request certain content generated by an ad server. We use tags to show you relevant advertising and promotions.
+  * ****Scripts  ****are pieces of JavaScript code that launch automatically when certain webpages load, to determine whether users view associated advertisements.
+  * ****Local Storage Objects**** , such as HTML 5, are used to store content and preferences. Third-parties with whom we partner to provide certain features on our site to display advertising based upon your web browsing activity use Local Storage Objects to collect and store information.
 
-**Changes to this Privacy Policy**
 
-We may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the email address you provided to us or by placing a prominent notice on our website and/or through our Apps.
 
-**How you can contact us**
+All of the technologies described above will be collectively referred to in this Cookie Statement as “cookies”.
 
-If you have questions about this Privacy Policy (or your travel planning or purchases), please contact us at:
+**_**_Expedia Group’s use of cookies_**_**
 
-> **Phone Toll-Free - within the U.S. and Canada**
-> 
-> **1-866-HOTWIRE (1-866-468-9473)**
-> 
-> **Phone - outside of the U.S. and Canada  
->  1-417-520-1680 (regular toll charges apply)**
-> 
-> **Mail**
-> 
-> Hotwire Customer Care  
->  PO Box 26285  
->  San Francisco, CA 94126
+At Expedia Group, we use cookies for a number of reasons, including to:
+
+  * Help us improve your experience when visiting our sites
+  * Fulfill transactions and ensure our sites perform as intended
+  * Remember your preferences, such as language, region, or currency
+  * Provide you with relevant advertising and analyze performance of the ads
+  * Enable you to return to previous travel searches
+  * Identify errors on our sites
+  * Help with data protection and potentially detect and investigate malicious or fraudulent activity
+  * Help us understand traffic to our site, including time and date of the visit, time and date of the last visit, and other information
+  * Analyze how well our sites are performing
+
+
+
+**_**_Types of information collected by cookies_**_**
+
+The types of information that we collect through cookies include:
+
+  * IP address
+  * Device ID
+  * Viewed pages
+  * Browser type
+  * Browsing information
+  * Operating system
+  * Internet Service Provider
+  * Whether you have responded to, or interacted with, an advertisement
+  * Referring or referred links or URLs
+  * Features used and activities engaged in on our sites and in our apps
+
+
+
+See the Categories of Personal Information We Collect section above for more information on what types of information are collected automatically.
+
+**_**_Types and functions of cookies_**_**
+
+_Essential Cookies_
+
+Certain cookies are required or “essential” for our sites to function as intended. Essential cookies are necessary for you to navigate our site and use certain features like logging in to your account and managing your bookings. These cookies are also used to remember security settings that allow access to particular content. Lastly, we use essential cookies to collect information on which web pages visitors go to most, so we can improve our online services. You are not able to opt out of essential cookies.
+
+_Other Types of Cookies_
+
+We also use other types of cookies to make our site engaging and useful to you:
+
+  * ****Functional Cookies.  ****We want to make sure when you visit our site, your preferences (such as your preferred language), settings, and previous searches are remembered. Functional cookies enhance your experience on any Expedia Group company’s site.
+  * ****Analytics Cookies.  ****We use analytics cookies to:  
+
+    * Understand our site’s performance and how it is used, including the number of visitors, how long you stay on the site, and which parts of the site you visit. We can see details about how visitors interacted with the site, like the number of clicks visitors made on a given page, their mouse movements and scrolling activity, the search words visitors used, and the text visitors enter into various fields
+    * Test different designs and features for our site
+    * Monitor how our visitors reach our sites
+    * Determine effectiveness of our advertising
+    * Improve our services, including your experience on our site
+
+
+
+For analytics, our third-party service providers may use cookies to perform their services and may combine the information that they collect about you on our sites with other information that they have collected. For example, we use Google analytics cookies to monitor the performance of our sites. Our ability to use and share information collected by Google Analytics about your visit to our sites is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. This Cookie Statement does not cover such third-parties’ use of your information.
+
+Some analytics cookies can perform tasks essential and/or functional to online services like enabling site improvements and testing changes on a site.
+
+  * ****Advertising Cookies.  ****Expedia Group and our third-party advertising partners may use advertising cookies to show you advertisements both on and off our sites that are based on your interests. We may allow third-parties to collect information about your online activities through cookies to perform their services and may combine the information that they collect about you on our sites with other information that they have collected. These third-parties include business partners who collect information when you view or interact with one of (1) their advertisements on our sites or (2) our advertising or booking information on their sites and advertising networks, which collect information about your interests when you view or interact with one of the advertisements or tracking mechanisms they place on many different sites on the Internet. Our partners may make assumptions about your interests, characteristics, or preferences and add you to groups based on those assumptions in order to show you tailored advertisements. Expedia Group does not have access to the cookies these third-parties may use to collect information about your interests, and the information practices of these third-parties are not covered by this Cookie Statement or our Privacy Statement. Some of these companies are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. To learn more, please click [here](http://optout.aboutads.info/?c=2&lang=EN) and [here](http://optout.networkadvertising.org/).
+
+
+
+**_**_Your information choices_**_**
+
+You can choose not to receive tailored online advertising on this site and other sites and learn more about opting out of having your information used for tailored advertising purposes by accessing one of the following resources:
+
+  * For EEA, Switzerland, and UK: <http://www.youronlinechoices.eu/>
+  * For Canada: <http://youradchoices.ca/choices/>
+  * For U.S. and rest of world:  
+
+    * <http://www.aboutads.info/choices/>
+    * <http://optout.networkadvertising.org/>
+
+
+
+Note that if you choose not to receive tailored ads, you will still see online advertisements, but they will be general and less relevant to you.
+
+**_**_How can you manage your cookies?_**_**
+
+You can set or amend your web browser controls to accept or refuse cookies whenever you like, but please remember if you do choose to reject cookies, your access to some of the functionality and areas of our site may be restricted.
+
+**_**_Do-Not-Track Signals and Similar Mechanisms._**_**
+
+Some web browsers may transmit "do-not-track" signals to sites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether users are even aware of them. Participants in the leading Internet standards-setting organization that is addressing this issue are in the process of determining what, if anything, sites should do when they receive such signals. We currently do not take action in response to these signals. If and when a final standard is established and accepted, we will reassess our sites’ responses to these signals and make appropriate updates to this Cookie Statement.
+
+****Contact Us****
+
+If you have any questions or concerns about our use of your personal information, please contact us via the Privacy Section on our Customer Services Portal [here](https://helpcenter.hotwire.com/). For a list of the Expedia Group companies, click [here](https://www.expediagroup.com/).
+
+****Updates to Privacy Statement****
+
+We may update this Privacy Statement in response to changing laws or technical or business developments. You can see when this Privacy Statement was last updated by checking the “last updated” date displayed at the top of this Statement.
