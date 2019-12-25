@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mediaweek.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230234112id_/http%3A//www.haymarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaweek.co.uk privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225024039id_/http%3A//www.haymarket.com/privacy-policy) for the most accurate reproduction.*
 
-# Haymarket Media Group Privacy Notice - Haymarket
+# Privacy Notice - Haymarket
 
-Last updated: 2nd November 2018.
+Last updated: 25th March 2019.
 
 ## Introduction
 
@@ -10,7 +10,7 @@ Haymarket Media Group Limited respects and is committed to protecting your priva
 
 To reflect changes in privacy laws, this updated Privacy Notice aims to clearly inform you of how we use your personal data, how we ensure it is kept secure and your choices about its use. We hope this can help you to make informed decisions when using our websites or other services we provide.
 
-In this Notice, references to "we", "us" and "our" refer to Haymarket Media Group Limited. Personal data, as defined by the GDPR, means any information which relates to a living individual who can be identified, either directly or indirectly, from this information. For example your name, email address, postal address, telephone number and other personal details.
+In this Notice, references to “we”, “us” and “our” refer to Haymarket Media Group Limited. Personal data, as defined by the GDPR, means any information which relates to a living individual who can be identified, either directly or indirectly, from this information. For example your name, email address, postal address, telephone number and other personal details.
 
 From time to time we will update this Privacy Notice, so encourage you to refer back to this page regularly. If significant changes are made we will endeavour to notify you.
 
@@ -18,7 +18,7 @@ In addition to this Notice, each service offered by us or our group of companies
 
 ### Using links to external sites
 
-Please remember that when you use a link to go from our website to another website, our Privacy Notice no longer applies. Your browsing and interaction on any other website or your dealings with any other third party service provider, is subject to that website's or third party service provider's own rules and notices/policies. We do not monitor, control, or endorse the information collection or privacy practices of any third parties. This Notice applies solely to Information collected by us through our website or services and does not apply to these third party websites and third party service providers.
+Please remember that when you use a link to go from our website to another website, our Privacy Notice no longer applies. Your browsing and interaction on any other website or your dealings with any other third party service provider, is subject to that website’s or third party service provider’s own rules and notices/policies. We do not monitor, control, or endorse the information collection or privacy practices of any third parties. This Notice applies solely to Information collected by us through our website or services and does not apply to these third party websites and third party service providers.
 
 ## About us
 
@@ -30,7 +30,7 @@ If you have any questions about this Privacy Notice you can contact us in the fo
 **Call us:** 020 8267 5000 (and ask for the Data Protection Officer)  
 **Email our Data Protection Officer:** [data.protection@haymarket.com](mailto:data.protection@haymarket.com)
 
-Haymarket Media Group's registered office is Bridge House, 69 London Road, Twickenham, TW1 3SP.  
+Haymarket Media Group’s registered office is Bridge House, 69 London Road, Twickenham, TW1 3SP.  
 Registered in England and Wales under the company number: 00267189.  
 VAT registration number is GB232584272.  
 ICO registration number is: ZA445905.
@@ -68,7 +68,7 @@ To learn more please see How we use your personal data.
 
 ### When you visit our websites
 
-When you visit one of our websites for the first time, you will receive a "pop-up" notice informing you that we use Cookies. Some personal data (for example a unique identifier, your IP address and geographical location) will be collected through our and our technology partners' use of cookies and similar technologies. To learn more please see our Cookie Notice.
+When you visit one of our websites for the first time, you will receive a “pop-up” notice informing you that we use Cookies. Some personal data (for example a unique identifier, your IP address and geographical location) will be collected through our and our technology partners’ use of cookies and similar technologies. To learn more please see our Cookie Notice.
 
 ### From other organisations or publicly available sources
 
@@ -85,17 +85,17 @@ We may also research publicly available sources (e.g. websites and LinkedIn) and
 
 Under the GDPR there are six lawful bases under which organisations can collect, use and store personal data. We have identified four which we rely upon for our business activities: Consent, Contractual, Legitimate Interests and Legal Obligation.
 
-Contractual - in many circumstances we rely on the lawful basis of "performance of a contract", this enables us to respond to you when you express an interest in our products and services and to fulfil any requests. To learn more please see Fulfilment of a service.
+Contractual – in many circumstances we rely on the lawful basis of “performance of a contract”, this enables us to respond to you when you express an interest in our products and services and to fulfil any requests. To learn more please see Fulfilment of a service.
 
-Consent - in some circumstances we rely on your specific consent, whereby you actively agree and "opt-in". We will always make it clear how you can withdraw you consent at any time. To learn more please see How to stop marketing communications.
+Consent – in some circumstances we rely on your specific consent, whereby you actively agree and “opt-in”. We will always make it clear how you can withdraw you consent at any time. To learn more please see How to stop marketing communications.
 
-Legal Obligation - there will be circumstances under which we are legally obliged to hold your personal data or required to disclose it to a third party by law.
+Legal Obligation – there will be circumstances under which we are legally obliged to hold your personal data or required to disclose it to a third party by law.
 
-Legitimate Interests - for some of our activities we rely on our legitimate business interests to collect and use your personal data. In such cases, we have balanced our interests with yours and do not believe these activities will have a negative impact on your privacy rights and freedoms. We specifically rely on Legitimate Interests to:
+Legitimate Interests – for some of our activities we rely on our legitimate business interests to collect and use your personal data. In such cases, we have balanced our interests with yours and do not believe these activities will have a negative impact on your privacy rights and freedoms. We specifically rely on Legitimate Interests to:
 
   * manage specific aspects of our events. To learn more please see Conference events, Award events and Forum events
   * send you marketing communications about our products and services. To learn more please see Marketing communications
-  * send you marketing communications related to other companies' products and services (in a business-to-business context). To learn more please see Marketing communications
+  * send you marketing communications related to other companies’ products and services (in a business-to-business context). To learn more please see Marketing communications
   * personalise the marketing content we provide you. To learn more please see Personalisation of marketing & website content
   * share your contact details with a named sponsor, when you access specific sponsored content. To learn more please see Sponsored content
   * undertake business sales and advertising activities
@@ -111,71 +111,69 @@ If you wish to object to our reliance on Legitimate Interests for any other purp
 
 ## How we use your personal data
 
-### Fulfilment of a service
+### Magazine subscriptions
 
-We will use your personal data for the purposes of fulfilling a product or service you have requested, which includes:
+If you subscribe to receive one of our magazines, we will use the details you provide us to send you the magazine, to process your payment details, to provide you access to any digital content that’s part of your subscription, to respond to any queries you may have and to contact you with information relating to your subscription (e.g. to confirm your subscription has started, to confirm if your subscription is due to expire, to send you password reminder emails, or to notify you of any changes to the service).
 
-  * Responding to your enquiries about our products and services
-  * Fulfilling your requests and delivery of a product or service. For example when you: 
-    * subscribe to a magazine
-    * register to attend an event
-    * register to access online content
-    * register to access site functionality
-    * apply for a job
-  * Administering your account
-  * Sending you specific service or transactional communications about a product or service
-  * Fulfilling prize draws and competitions
-  * Delivering customer services
+### Online accounts
 
+Creating an online account with one of our websites gives you access to further functionality, features and content. Online accounts can be created directly by you when you register or subscribe. The personal details we collect to create online accounts will include your name, email address, username and password. We also collect the IP address you are using to access our website so we can provide IP-based subscriptions and to detect and prevent any account misuse.
 
+Corporate subscriptions can rely on providing access to our website based on the domain name of the email address used to create a user account, or based on monitoring the IP address being used to access our website. This information would have been shared with us by the organisation who requested the corporate subscription.
 
-We use essential and functional cookies to ensure our websites function properly. To learn more please see our Cookie Notice.
+During your registration, you may provide us with further details about you, such as your job title and the industry sector you work in. We use these details combined and other information we know about you to help tailor the service to be more relevant, to help with our own analysis of how the service is used, and to provide summarised context to our research. This information will include the different pieces of content you have viewed on our websites.
+
+### Live events
+
+Some of our brands will organise live events aimed at delivering the latest information, insight and opinions from a wide range of industry sectors.
+
+We will use the personal details you provide us when you register to attend an event so we know who’s attending and to allow access. If you are making a group booking or booking on someone’s behalf, please ensure you have their permission to share their name and contact details with us.
+
+Photographs and video footage may be taken at our events and used in post-event publicity or future promotional material. If you don’t want to be captured in any photos or video footage, please let the photographer know on the day of the event. You can also [email us](mailto:live.eventsteam@haymarket.com?subject=Conference%20Event%20Privacy%20Query) if you believe you have been included in a photograph or video footage and object to it being used for post-event publicity or future promotional material.
+
+For some of our events, you may be asked for your badge to be scanned by our seminar hosts, sponsors and exhibitors. This allows us to confirm who attended a seminar and provides a way for our sponsors and exhibitors to send you further information about the event, using the details you provided us when you registered. Privacy notices will be displayed on the day of the event to inform you of this activity. If you do not wish for your details to be shared in this way, then please feel free to object to your badge from being scanned. 
+
+We will sometimes provide a formal meal with a set menu and table service at some of our events. You are given the opportunity to inform us of any dietary requirements during the registration process. We only use this information for the purpose of your attendance at the event. To ensure we’re able to meet these requirements, we have to share this information with venues so you receive your dietary choice.
+
+For some of our events, the content is spread out over a few days and some delegates are provided with accommodation at venues hosting the event. To ensure a seamless professional service, we share personal details with venues to ensure rooms are booked under their name, and to enable easy check-in.
+
+You may voluntarily inform us of specific accessibility requirements that help us ensure the service we provide you is specific to your needs. We only use this information for the purpose of your attendance at the event, and share it with venues hosting the event to help meet these requirements (e.g. table plans, specific accommodation).
+
+We will also share the delegate list with the venue for fire regulation and safety purposes.
+
+Please find below further information about how your personal details will be used when you register to attend one of our conferences, awards or forum events.
 
 #### Conference events
 
-Please find below information about how your personal data will be used when you register to attend one of our conferences.
+These events are a chance for delegates and other visitors to meet, learn and discuss the latest topics and trends with other attendees and industry service suppliers.
 
-If you are making a group booking please ensure you have permission from others to share their name and contact details with us.
-
-We will share your details (name, job title and company name ONLY) with events sponsors, to ensure that any content and activity on the day is tailored specifically to the audience attending. If you would prefer us not to do this please [email us](mailto:live.eventsteam@haymarket.com). We will share the delegate list with the venue for fire regulation purposes.
-
-Exhibitors at stands or seminar hosts/sponsors may ask to scan your badge at the event to gain your consent to contact you in future for their direct marketing purposes. If you would prefer your contact details are not shared, you can choose not to have your visitor pass scanned at any stand or seminar.
-
-Please note that photographs and video footage may be taken at our events and used in post-event publicity. If you have any objection to this please [email us](mailto:live.eventsteam@haymarket.com?subject=Conference%20Event%20Privacy%20Query)
+We will share your details (name, job title and company name ONLY) with event sponsors and speakers, to help them prepare for networking opportunities and to ensure that any content and activity on the day is tailored specifically to the audience attending. This information is not used for sales and marketing communications. Please [email us](mailto:live.eventsteam@haymarket.com) if you would prefer us not to share your details in this way.
 
 #### Award events
 
-Please find below information about how your personal data may be used when you register to attend one of our Awards.
+These events are a chance to celebrate the achievements of both our clients and customers, which will involve the disclosure of some limited personal details into the public. When entering an award, we will send you a few service emails to communicate important information relating to the awards. This may include a confirmation once you completed your entry, or a reminder if we notice you haven’t completed your entry and the last entry date is approaching.
 
-If you are making a group booking please ensure you have permission from others to share their name and contact details with us.
-
-We will share your details (full name & company name ONLY) with the Award sponsors and with other attendees via an Award brochure, an attendee list, table plan and/or screen presentation. Please [email us](mailto:live.eventsteam@haymarket.com?subject=Awards%20Event%20Privacy%20Query) if you would prefer your name not to appear.
-
-We will also share the attendee list with the venue for fire regulation purposes.
-
-Please note that photographs and video footage may be taken at this event for use in post-event publicity. If you have any objection to this please [email us](mailto:live.eventsteam@haymarket.com).
+Your details (name, job title and company name ONLY) will be shared with other attendees within an award brochure, event guide, table plan and screen presentation. Please [email us](mailto:live.eventsteam@haymarket.com?subject=Awards%20Event%20Privacy%20Query) if you would prefer your name not to appear.
 
 #### Forum events
 
-Please find below information about how your personal data may be used when you register to attend one of our Business Forums.
-
-These events are specifically designed to invite delegates to meet and network with specific service suppliers. We believe it is in everyone's interests for business contact details to be shared between delegates and suppliers. You will always be informed of this. We will also need to share basic details to facilitate your travel and accommodation.
-
-Please note that photographs and video footage may be taken at this event for use in post-event publicity.
+These events are specifically designed to invite delegates to tailored supplier meetings and to network with like-minded people. We believe it is in everyone’s interests for business contact details to be shared between delegates and suppliers. We will inform you about who the service suppliers are during the registration stage and when organising tailored supplier meetings.
 
 If you have any queries or concerns please [email us](mailto:live.eventsteam@haymarket.com).
 
-#### Sponsored content
+### Sponsored content
 
-Our Haymarket Business Media brands often provide sponsored content, such as webinars, expert reports, whitepapers, surveys or events.
+Our Haymarket Business Media brands often provide sponsored content, such as webinars, expert reports, whitepapers, surveys or events. Before being able to access any content, we ask that you create an free online account first. We collect basic work contact details and other information about your company and job role.
 
-We will share the details you provide to access this specific content with the named sponsor. However, this is always your choice and you will be provided with a clear opportunity to indicate if you would prefer us not to share this information.
+When accessing specific content that has been sponsored by another organisation, we will also ask you to complete a short form requesting your permission to share your details with the sponsor. We will share basic work contact details and some of the other information you provided when you created your account, or collected subsequently when accessing the specific content. We will always provide a link to the sponsor’s full privacy notice so you are fully aware of how they will process your personal data.
 
-#### Job seeking service
+Sharing your details with the content sponsor is always your choice and you will always be provided with a clear opportunity to indicate if you would prefer us not to share this information.
 
-Please find below information about how we use your personal data when you use our job seeking services. These services allow you to receive job alerts, upload your CV and share your details with recruiters.
+### Job seeking service
 
-If you apply for a job, your details will be shared with the recruiter promoting the specific role. At your request we will share your data with Top CV and/or allow recruiters to access your CV.
+Some of our Haymarket Business Media brands provide job seeking services that allow you to apply for jobs, receive job alerts and other job related emails, upload your CV, and share your details with recruiters via our searchable CV database. Your CV will only be included in our CV database with your permission. We ask for your permission when you upload your CV while applying for a specific job or creating an online account. You can subsequently choose to be removed from our CV database at anytime by changing your permission settings in your account area, or by [emailing us](mailto:onlinesupport@haymarket.com) directly.
+
+If you apply for a job, your details will be shared with the recruiter promoting the specific role. At your request we will share your CV with Top CV so they contact you about receiving a free CV review.
 
 ### Marketing communications
 
@@ -183,7 +181,7 @@ When we collect your personal data we will include a specific notice to inform y
 
 We will only send you direct marketing communications when you have either:
 
-  * provided your consent (e.g. ticked a box or clicked a "button" to submit a form)
+  * provided your consent (e.g. ticked a box or clicked a “button” to submit a form)
   * where we believe we can demonstrate a legitimate business interest and have balanced this with your interests and privacy.
 
 
@@ -192,28 +190,40 @@ It is always your choice and you can stop receiving direct marketing communicati
 
 For electronic marketing communications (via email, sms and phone) we adhere to the rules of the Privacy and Electronic Communications Regulations (PECR).
 
+When you provide us with your personal details for a particular service, we may also share some of these details with a 3rd party for their sales and marketing activities. We will only do this if you have given us your permission to share your details for this purpose. For example, we may ask for your permission to share your details with a 3rd party when you enter a prize draw, when you download sponsored content, or when you register to attend an event.
+
 ### Personalised marketing & website content
 
-We want to ensure our marketing communications are of interest to you. We therefore use the information we know about you to tailor our messages to be more relevant. We will use details such as your gender, age, geographical location, previous transactional history, website usage, and your interactions with our marketing content to try and do this. Please also see our Cookie Notice. You have the right to object, but this will mean we will be unable to send your marketing communications in future, as we do not wish to send irrelevant messages to you. To learn more please see How to stop marketing communications.
+We want to ensure our marketing communications are of interest to you. We therefore use the information we know about you to tailor our messages to be more relevant. We will use details such as your job title, industry sector, geographical location, previous transactional history, website usage, and your interactions with our marketing content to try and do this. Please also see our Cookie Notice. You have the right to object, but this will mean we will be unable to send your marketing communications in future, as we do not wish to send irrelevant messages to you. To learn more please see How to stop marketing communications.
 
 We believe website content is more interesting to you when it is relevant. We provide tailored recommendations and advertisements to customise the content that you see on our websites. To do this, we use cookies and similar technologies through various technology partners to help us understand how you interact with our websites (e.g. the content you viewed on a previous visit or aggregated website performance analytics). To learn more please see our Cookie Notice.
 
+### Research
+
+When you use our website, you may be asked for your feedback and opinions. Your answers will help us improve our products and services, develop new ones, and provide information for our editorial articles. If you’re a subscriber then we may use some of the information you have provided before to help summarise the answers and give our analysis further context. For example, a question that simply asks if you listen to industry podcasts, can be combined with the job title you previously provided us to report that 80% of Marketing Managers listen to industry podcasts.
+
+### Prize draws and prize competitions
+
+We will use the personal details you provide us to administer any prize draw or prize competition you decide to enter. The personal details we collect may include your name, email address, phone number, and postal address. These details will be used to notify you if you’ve been shortlisted or if you’re the winner. We will only share the details you provide us with a third party if they need this information to deliver or to fulfil the prize.
+
+If you’re the winner of a prize draw or prize competition, your details may be used for publicity or promotional purposes. If you don’t want your details used in this way, please notify us when we inform you that you’ve won. For more information, please visit our [competition terms and conditions](https://www.haymarket.com/terms-and-conditions/).
+
 ## How to stop receiving marketing communications
 
-We don't want to send you marketing communications if you do not want to receive them. You can stop receiving these messages from us at anytime.
+We don’t want to send you marketing communications if you do not want to receive them. You can stop receiving these messages from us at anytime.
 
 We have a diverse range of brands in our Haymarket Automotive, and Haymarket Business Media divisions, which you may not realise are all published by Haymarket Media Group. You may therefore wish to be selective and just stop receiving marketing communications from one brand rather than from them all.
 
 **Emails** : There will always be an unsubscribe link on any marketing email you receive from us. Some of our brands (where relevant) provide a level of granularity to the types of emails you can unsubscribe from.  
 **Post** : We will inform you in any postal communication how you can stop receiving direct mail in future.  
-**Phone** : If you receive a marketing call from us, please let the call operator know if you don't want to receive calls again.  
-**SMS** : Please text "STOP" to any message received.
+**Phone** : If you receive a marketing call from us, please let the call operator know if you don’t want to receive calls again.  
+**SMS** : Please text “STOP” to any message received.
 
 If you wish to stop ALL marketing communications from Haymarket Media Group please click the button below (remember this will stop all marketing communications from all of our brands).  
 
 
 If you wish to contact us directly about marketing communications you are receiving, please use one of the contact details below:  
- **Write to us** : Data Protection Officer, Haymarket Media Group, Bridge House, 69 London Road, Twickenham TW1 3SP  
+**Write to us** : Data Protection Officer, Haymarket Media Group, Bridge House, 69 London Road, Twickenham TW1 3SP  
 **Call us** : 020 8267 5000 (and ask for the Data Protection Officer)  
 **Email our Data Protection Officer** : [data.protection@haymarket.com](mailto:data.protection@haymarket.com)
 
@@ -239,7 +249,7 @@ We use a number of companies to help us in providing a professional service to o
 
 ### Audit and verification
 
-We may share your personal data with the auditing organisation, ABC (Audit Bureau of Circulations Ltd). This is only so ABC can verify aggregated statistics about circulation and usage of our products or review our policies, processes and procedures for compliance with relevant standards. To learn more please see [ABC's Privacy Policy](http://www.abc.org.uk/privacy-policy).
+We may share your personal data with the auditing organisation, ABC (Audit Bureau of Circulations Ltd). This is only so ABC can verify aggregated statistics about circulation and usage of our products or review our policies, processes and procedures for compliance with relevant standards. To learn more please see [ABC’s Privacy Policy](http://www.abc.org.uk/privacy-policy).
 
 ### Legal Disclosure
 
@@ -248,6 +258,8 @@ We may need to disclose your personal data to comply with any legal obligation. 
 ### Changes to our company
 
 In the event we go through a business transition such as a merger or acquisition by another company, or sale of all or a portion of our assets, your personal data may be among the assets transferred.
+
+## Social Media, message boards and chat
 
 ### Using social media sign-in
 
@@ -285,7 +297,7 @@ To exercise any of your rights please use Our contact details.
 
 If you are unhappy with the manner in which we have collected and are using your personal data please do not hesitate to contact us.
 
-If you are concerned with the manner in which we have handled your personal data, you have the right to complain to a supervisory authority. In the UK this is the [Information Commissioner's Office](https://ico.org.uk/).
+If you are concerned with the manner in which we have handled your personal data, you have the right to complain to a supervisory authority. In the UK this is the [Information Commissioner’s Office](https://ico.org.uk/).
 
 ### Access your personal data
 
@@ -325,7 +337,7 @@ We have a detailed internal schedule for ensuring we do not hold your personal d
 
 ### Reporting security vulnerabilities
 
-We are committed to the privacy, safety and security of our customers. If you discover a potential security vulnerability, we would ask you to please report it just to us in a responsible manner. Please email us at [data.protection@haymarket.com](mailto:data.protection@haymarket.com) and we will respond to you as soon as possible. This provides us with an opportunity to work with you and quickly address and resolve any issue. Publicly disclosing a potential vulnerability could put the wider community at risk, and therefore we encourage you to come to us first. We'll keep you informed as we move forward with our investigations.
+We are committed to the privacy, safety and security of our customers. If you discover a potential security vulnerability, we would ask you to please report it just to us in a responsible manner. Please email us at [data.protection@haymarket.com](mailto:data.protection@haymarket.com) and we will respond to you as soon as possible. This provides us with an opportunity to work with you and quickly address and resolve any issue. Publicly disclosing a potential vulnerability could put the wider community at risk, and therefore we encourage you to come to us first. We’ll keep you informed as we move forward with our investigations.
 
 ## Cookie Notice
 
@@ -337,11 +349,11 @@ Where Haymarket Media Group Ltd or its group companies talk about cookies and tr
 
 #### Flash Cookies
 
-A local shared object, sometimes called a "Flash cookie," is a data file that can be created on your computer by the websites you visit. They are most often used to enhance your web-browsing experience. Adobe's website provides details regarding [Flash Cookies](https://www.adobe.com/devnet/flashplayer/articles/privacy.html)
+A local shared object, sometimes called a “Flash cookie,” is a data file that can be created on your computer by the websites you visit. They are most often used to enhance your web-browsing experience. Adobe’s website provides details regarding [Flash Cookies](https://www.adobe.com/devnet/flashplayer/articles/privacy.html)
 
 #### Web Beacons
 
-To help us better manage content we employ web beacons in emails that we send to our subscribers. Web beacons are tiny graphics with a unique identifier and are used to track the online movements of internet users. Unlike cookies, which are stored on a user's computer hard drive, web beacons are embedded invisibly on websites. We use them in our HTML-based emails to learn which emails have been opened by recipients enabling us to gauge the effectiveness of our marketing campaigns.
+To help us better manage content we employ web beacons in emails that we send to our subscribers. Web beacons are tiny graphics with a unique identifier and are used to track the online movements of internet users. Unlike cookies, which are stored on a user’s computer hard drive, web beacons are embedded invisibly on websites. We use them in our HTML-based emails to learn which emails have been opened by recipients enabling us to gauge the effectiveness of our marketing campaigns.
 
 #### Pixels
 
@@ -357,15 +369,15 @@ We use log files to record events that occur on our websites. This may include, 
 
 There are two types of cookies:
 
-  1. "Session Cookies" - Stored temporarily in your computer's memory while you are visiting a website and are deleted when you close your browser.
-  2. "Persistent Cookies" - Stored for a set period on your computer and used to determine whether there has been any contact between us and your computer in the past.
+  1. “Session Cookies” – Stored temporarily in your computer’s memory while you are visiting a website and are deleted when you close your browser.
+  2. “Persistent Cookies” – Stored for a set period on your computer and used to determine whether there has been any contact between us and your computer in the past.
 
 
 
 There are two ways cookies set can be on our websites:
 
-  1. "1st Party Cookies" - cookies that are set by the website domain (or belonging to a sub domain) of the website.
-  2. "3rd Party Cookies" - cookies that are set by another website domain. (e.g. by one of our main technology partners or by an external web services)
+  1. “1st Party Cookies” – cookies that are set by the website domain (or belonging to a sub domain) of the website.
+  2. “3rd Party Cookies” – cookies that are set by another website domain. (e.g. by one of our main technology partners or by an external web services)
 
 
 
@@ -374,13 +386,13 @@ There are two ways cookies set can be on our websites:
 We are categorising cookies set on the site by ourselves and our main technology partners into the following categories:
 
 **Category 1: Strictly necessary cookies**  
-These cookies are essential, as they enable you to move around a website and use its features, such as accessing secure areas. Without these cookies, services you've asked for (such as access to secure areas) can't be provided. These cookies don't gather information about you that can be used for marketing or remembering where you've been on the internet.
+These cookies are essential, as they enable you to move around a website and use its features, such as accessing secure areas. Without these cookies, services you’ve asked for (such as access to secure areas) can’t be provided. These cookies don’t gather information about you that can be used for marketing or remembering where you’ve been on the internet.
 
 **Category 2: Performance cookies**  
-These cookies collect information about how you use a website, for example which pages you go to most often and if you get any error messages from certain pages. These cookies don't gather information that identifies you. All information these cookies collect is anonymous and is only used to improve how our website works. These cookies are not used to target you with online advertising. Without these cookies we can't learn how our website is performing and make relevant improvements that could better your browsing experience.
+These cookies collect information about how you use a website, for example which pages you go to most often and if you get any error messages from certain pages. These cookies don’t gather information that identifies you. All information these cookies collect is anonymous and is only used to improve how our website works. These cookies are not used to target you with online advertising. Without these cookies we can’t learn how our website is performing and make relevant improvements that could better your browsing experience.
 
 **Category 3: Functionality cookies**  
-These cookies allow a website to remember choices you make (such as your user name, language or the region you're in) and tailor the website to provide enhanced features and content for you. For instance, they can be used to remember log-in details, changes you've made to text size, font and other parts of pages that you can customise. They may also be used to provide services you've asked for such as watching a video or commenting on a blog. These cookies may be used to ensure that all our services and communications are relevant to you. The information these cookies collect cannot track your browsing activity on other websites. Without these cookies, a website cannot remember choices you've previously made or personalise your browsing experience.
+These cookies allow a website to remember choices you make (such as your user name, language or the region you’re in) and tailor the website to provide enhanced features and content for you. For instance, they can be used to remember log-in details, changes you’ve made to text size, font and other parts of pages that you can customise. They may also be used to provide services you’ve asked for such as watching a video or commenting on a blog. These cookies may be used to ensure that all our services and communications are relevant to you. The information these cookies collect cannot track your browsing activity on other websites. Without these cookies, a website cannot remember choices you’ve previously made or personalise your browsing experience.
 
 **Category 4: Targeting and advertising cookies**  
 We use these to provide adverts on our sites that we believe are more relevant to you. Without these cookies, online adverts you encounter will be less relevant to you and your interests. We also enable some advertising partners to set cookies specifically to enable them to analyse advertising campaign performance.
@@ -394,7 +406,7 @@ We use Google DoubleClick for the delivery and measurement of advertising campai
  
 
 **Google AdWords**  
-We use Google AdWords to promote our products and services through Google's advertising opportunities.  
+We use Google AdWords to promote our products and services through Google’s advertising opportunities.  
  
 
 **Google Analytics**  
@@ -422,8 +434,8 @@ We use Skimlinks to help us attribute traffic.
  
 
 **Dax**  
-We use Dax to customise the Radio adverting provided.  
- 
+We use Dax to customise the Radio advertising provided.  
+
 
 #### External web services
 
@@ -435,21 +447,21 @@ We may set cookies on certain third party sites that we advertise on to identify
 
 ### Your control options
 
-When you use any of our websites for the 1st time you will be notified about our use of cookies via a "pop up" banner. This is to inform you that cookies or similar technologies are deployed on your device. Some of these cookies or similar technologies may facilitate the processing of personal data. To learn more, please see Our main technology partners.
+When you use any of our websites for the 1st time you will be notified about our use of cookies via a “pop up” banner. This is to inform you that cookies or similar technologies are deployed on your device. Some of these cookies or similar technologies may facilitate the processing of personal data. To learn more, please see Our main technology partners.
 
 #### Managing your cookies
 
-You can choose to disable your web browser's ability to accept cookies. Please note that if you choose to do this, you may not be able to access or take advantage of many features of the service and some parts of the website may not work properly.
+You can choose to disable your web browser’s ability to accept cookies. Please note that if you choose to do this, you may not be able to access or take advantage of many features of the service and some parts of the website may not work properly.
 
 You can control how cookies are set within your browser settings. Each browser is different so check the ‘Help’ menu of your particular browser to learn how to change your cookie preferences, please see:
 
-["Privacy Browsing" in Firefox](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history)  
-["Incognito" Browsing in Chrome](https://support.google.com/chrome/answer/95464)  
-["InPrivate" Browsing in Internet Explorer 11](https://support.microsoft.com/en-us/help/17479/windows-internet-explorer-11-change-security-privacy-settings)  
-["InPrivate" Browsing in Microsoft Edge](https://support.microsoft.com/en-us/help/4026200/windows-browse-inprivate-in-microsoft-edge)  
-["Private Browsing" in Safari](https://support.apple.com/en-gb/guide/safari/browse-privately-ibrw1069/mac)
+[“Privacy Browsing” in Firefox](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history)  
+[“Incognito” Browsing in Chrome](https://support.google.com/chrome/answer/95464)  
+[“InPrivate” Browsing in Internet Explorer 11](https://support.microsoft.com/en-us/help/17479/windows-internet-explorer-11-change-security-privacy-settings)  
+[“InPrivate” Browsing in Microsoft Edge](https://support.microsoft.com/en-us/help/4026200/windows-browse-inprivate-in-microsoft-edge)  
+[“Private Browsing” in Safari](https://support.apple.com/en-gb/guide/safari/browse-privately-ibrw1069/mac)
 
-If you want to learn more about cookies, or how to control or delete them, you may also visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/) You may also wish to review the guidance provided by the Information Commissioner's Office <https://ico.org.uk/for-the-public/online/cookies/>
+If you want to learn more about cookies, or how to control or delete them, you may also visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/) You may also wish to review the guidance provided by the Information Commissioner’s Office <https://ico.org.uk/for-the-public/online/cookies/>
 
 #### Managing your preferences
 
@@ -465,9 +477,14 @@ Your Online Choices website, tips and advice about Online Behavioural Adverts an
 
 If you want to find out more or request information about our Cookie Notice use Our contact details
 
-**Changes to our Privacy Notice**  
+## Changes to our Privacy Notice
+
 If we decide to change our privacy notice we will post the changes here.
 
 July 2018: Updated to include additional technology partners who deploy cookies on our websites, with links to further information and controls.
 
 October 2018: Removed other companies within the Haymarket Media Group. Updated the website and marketing personalisation section. Added email marketing as an example of how pixels are used, within the ‘Pixels’ section. Updated the Google Analytics tech supplier section to illustrate its use for personalising content.
+
+March 2019: Added Data Hygge as a technology partner.
+
+November 2019: Added further details to explain how we use your personal details, including; online accounts, magazine subscriptions, marketing communications, prize draws and competitions, live events and research. Removed Data Hygge as a technology partner. 
