@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thenest.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624185103id_/https%3A//www.thenest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenest.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225103451id_/https%3A//www.thenest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[**Important: Please click here to review our new Privacy Policy that will be effective January 1, 2020.**](https://www.theknot.com/static/legal/TheKnotWorldwidePrivacyPolicyTemp.pdf)
 
 Your privacy is important to us. We created this privacy policy ("Policy") to explain the types of information we collect through The Nest websites, online services, mobile and other applications and social networking platforms on which it is posted (each referred to herein as a "Site"), as well as how we will use, disclose and protect this information once it is collected, and how you may be able to opt-out of some of our uses and disclosures of your information. By visiting this Site, you agree to the terms of this Policy as they may be amended from time to time. 
 
