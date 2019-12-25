@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518013325id_/https%3A//www.mmaglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225161202id_/https%3A//www.mmaglobal.com/privacy-policy) for the most accurate reproduction.*
 
 # MMA Privacy Policy | Mobile Marketing Association
 
@@ -56,7 +56,7 @@ The MMA is committed to providing reasonable and practical access to allow visit
 
 #### Third Parties
 
-This document addresses the use and disclosure of information we collect from you at [http://www.mmaglobal.com](http://www.mmaglobal.com/) and at MMA events. If you disclose your information to others, for instance when you attend an MMA event and share your contact details directly with vendors, different rules may apply to their use or disclosure of the information you provide to them. Since MMA does not control the privacy policies of third parties, you are subject to the privacy policies of those other parties. We encourage you to view posted privacy policies or ask questions before you disclose your personal information to others
+This document addresses the use and disclosure of information we collect from you at [http://www.mmaglobal.com](https://www.mmaglobal.com/) and at MMA events. If you disclose your information to others, for instance when you attend an MMA event and share your contact details directly with vendors, different rules may apply to their use or disclosure of the information you provide to them. Since MMA does not control the privacy policies of third parties, you are subject to the privacy policies of those other parties. We encourage you to view posted privacy policies or ask questions before you disclose your personal information to others
 
 #### Analytics Tool
 
