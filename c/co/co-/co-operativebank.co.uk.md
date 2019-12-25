@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the co-operativebank.co.uk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624234310id_/https%3A//www.co-operativebank.co.uk/global/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the co-operativebank.co.uk privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225202037id_/https%3A//www.co-operativebank.co.uk/global/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | The Co-operative Bank
 
