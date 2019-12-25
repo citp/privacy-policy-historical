@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singpromos.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521205857id_/https%3A//singpromos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singpromos.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225030006id_/https%3A//singpromos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SINGPromos.com
 
