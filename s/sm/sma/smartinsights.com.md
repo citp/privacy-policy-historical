@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartinsights.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630222457id_/https%3A//www.smartinsights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartinsights.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225203348id_/https%3A//www.smartinsights.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Smart Insights
 
@@ -52,7 +52,7 @@ We collect, store and use the following kinds of personal information:
 
 (b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our membership packages - we do not store any credit card or payment method information as part of payment processing during member subscription.
 
-(c) information that you provide to us for registering with us and for subscribing to our website services, email notifications and/or newsletters (including name, email, job role and communication preferences);
+(c) information that you provide to us for registering with us and for subscribing to our website services, email notifications, sms notifications and/or newsletters (including name, email, phone number, job role and communication preferences);
 
 (d) and any other information that you choose to send to us.
 
@@ -69,16 +69,18 @@ We may use your personal information to:
   5. share information with business partners who may contact you about topical and relevant information;
   6. send you general (non-marketing) commercial communications;
   7. send you email notifications which you have specifically requested;
-  8. send you our newsletter and other marketing communications relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
-  9. deal with enquiries and complaints made by or about you relating to the website;
-  10. provide third parties with anonymous statistical information about our users;
-  11. administer the website;
+  8. send you email notifications promoting our services;
+  9. send you sms notifications promoting our services;
+  10. send you our newsletter and other marketing communications relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you by post or, where you have specifically agreed to this, by email, sms, or similar technology (you can inform us at any time if you no longer require marketing communications);
+  11. deal with enquiries and complaints made by or about you relating to the website;
+  12. provide third parties with anonymous statistical information about our users;
+  13. administer the website;
 
 
 
 Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
 
-SmartInsights.com transmits credit card information directly to PayPal.com. The credit card information is not communicated to our servers. All transactions are protected with SSL encryption. SmartInsights.com does not store credit card numbers after the transmission is complete.
+SmartInsights.com transmits credit card information directly to [PayPal.com](https://paypal.com/) or [Stripe.com](https://stripe.com/gb). The credit card information is not communicated to our servers. All transactions are protected with SSL encryption. SmartInsights.com does not store credit card numbers after the transmission is complete.
 
 ### 1.1.5     Disclosures
 
