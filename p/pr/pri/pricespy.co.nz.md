@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pricespy.co.nz privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624194824id_/https%3A//pricespy.co.nz/info/privacy-policy--i6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricespy.co.nz privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225123945id_/https%3A//pricespy.co.nz/info/privacy-policy--i6) for the most accurate reproduction.*
 
-# Privacy policy - PriceSpy NZ
+# None
 
 In order to give you the world’s best price and product comparison site we need to handle personal data. In our privacy policy we explain what information we collect from our users, how we handle it, and what we do to protect the integrity of our users.
 
