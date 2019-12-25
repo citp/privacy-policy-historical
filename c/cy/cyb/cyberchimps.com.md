@@ -1,80 +1,69 @@
-> *The following text is extracted and transformed from the cyberchimps.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221146id_/https%3A//cyberchimps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberchimps.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225200415id_/https%3A//cyberchimps.com/gdpr-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# GDPR Privacy Policy
 
-_This policy was last modified on May 4, 2018._
+**Cyberchimps** (“us”, “we”, or “our”), website [https://cyberchimps.com](https://cyberchimps.com/) is committed to respecting your privacy. This privacy policy informs you about how our organization collects, stores and uses your personal data that you provide when you use our website.
 
-**What information do we collect?**
+**Topics included:**
 
-We collect information from you when you register on our site, place an order or subscribe to our newsletter.
+• What data do we collect?  
+• How do we collect and use your data?  
+• Data used for marketing or shared with third parties  
+• What are your data protection rights?  
+• Privacy policies for other websites  
+• Changes to our privacy policy  
+• How to contact us?
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, email address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+**What data do we collect?**
 
-**What do we use your information for?**
+We collect your personal information. Personal information is any data that relates to an individual to use as identification like:  
+• Personal identification information – This data is provided by you for registration and for using other services – name, email address, phone number, country, state, etc.  
+• Browser and visit information – This data is provided by your browser and visits you made on our website – browser type, operating system, IP address, demographics, etc.  
+• Cookie-related information – See cookie policy for cookie-related details.  
+However, you can browse our website without providing your personal information.
 
-Any of the information we collect from you may be used in one of the following ways:
+**How do we collect and use your personal information?**
 
-– To personalize your experience  
-(your information helps us to better respond to your individual needs)
+Collection of personal information  
+We collect your data in the following forms:  
+• Register online or place an order for any products or services  
+• Complete a survey or provide feedback on our products or services or via emails  
+• Visit our website using your browser’s cookies
 
-– To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Use of personal information  
+We use your personal information for the following purposes:  
+• To create and manage your account on our website  
+• To process details related to your orders and refunds  
+• To identify you once you register on our website  
+• To provide you better usability and service  
+• To contact you and respond to your queries and feedbacks  
+• To understand which sections of the website are visited and how frequently
 
-– To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+**Data used for marketing or shared with third parties**
 
-– To process transactions
+Data used for marketing  
+Based on your preference, our organization would like to send you marketing emails for products, services, and offers that you might like. You have the right at any time to stop our organization from contacting you. You can anytime opt-out of our marketing-related emails at a later date.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Data sharing with third-party sites  
+Our organization will never share your personal information with third-party sites without taking prior permission from you. Though, we share your personal information within the organization, business partners, authorized third-party services.
 
-– To administer a contest, promotion, survey or other site feature
+**What are your data protection rights?**
 
-– To send periodic emails
+We would like to make sure that you are fully aware of your data protection rights. Every user is entitled to the following rights:  
+• The right to access – You have the right to ask for copies of your personal information provided to us.  
+• The right to rectification – You have the right to tell us to correct the personal information that you believe needs correction. You also have the right to complete the information you believe is incomplete.  
+• The right to erase – You have the right to ask us to erase all your personal data at any time.  
+• The right to object – You have the right to object to our organization’s processing of your personal data, under certain conditions.  
+• The right to data portability – You can anytime ask us to transfer your personal information to any other organization or directly to you, under certain conditions.
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+**Privacy policies for other linked websites**
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Our website contains links from and to other websites. However, our privacy policy applies to only our website and not other linked websites. So, if you click on a link to other websites, you can read their privacy policy.
 
-**How do we protect your information?**
+**Changes to our privacy policy**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+Our organization reviews and updates its privacy policy on a regular basis. We may change our data privacy practices and place any updates on this privacy policy page.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+**How to contact us?**
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
-**We use Hotjar**
-
-We use Hotjar in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device’s IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on this link.
-
-You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this [opt-out link](https://www.hotjar.com/opt-out).
-
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Your Consent**
-
-By using our site, you consent to our privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may [contact us here](https://cyberchimps.com/contact/).
+If you have any queries related to our data privacy practices or this privacy policy, feel free to contact us at hello@cyberchimps.com
