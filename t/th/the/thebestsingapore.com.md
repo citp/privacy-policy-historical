@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebestsingapore.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129165505id_/http%3A//www.thebestsingapore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestsingapore.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225040204id_/https%3A//www.thebestsingapore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TheBestSingapore.com
+# Privacy Policy | The Best Singapore
 
 The Best Singapore Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. References in this document to “us,” “our,” and “we” refer to The Best Singapore.
 
