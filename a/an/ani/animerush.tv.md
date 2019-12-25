@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animerush.tv privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121010538id_/https%3A//www.animerush.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animerush.tv privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225210334id_/https%3A//www.animerush.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AnimeRush
 
