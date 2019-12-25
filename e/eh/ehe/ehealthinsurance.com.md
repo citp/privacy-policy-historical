@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221043id_/https%3A//www.ehealthinsurance.com/about-ehealth/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225221222id_/https%3A//www.ehealthinsurance.com/about-ehealth/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Security - eHealthInsurance
+
+Updated December 16, 2019
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=29c54704-1813-4238-b385-66cf1e5c6d3b)
 
@@ -14,7 +16,7 @@ Thank you for your interest in eHealthInsurance Services, Inc. (“eHealthInsura
 
 
 
-You can learn about our commitment to privacy with this Policy describing how we collect, use, share and secure the personal information you provide. It also describes your choices regarding use, access and correction of your personal information.
+You can learn about our commitment to privacy with this Policy describing how we collect, use, share and secure the personal information you provide. It also describes your choices regarding use, access and correction of your personal information. If you are a California resident, please see our [California Privacy Policy](https://web.archive.org/about-ehealth/privacy-policy/ccpa), which provides additional details about how we handle your personal information and how you can exercise your rights under the California Consumer Privacy Act.
 
 At eHealthInsurance, we are strongly committed to protecting your privacy. To serve as your licensed insurance agent, we will ask you to provide us with personal information about you. We use your personal information to help you find and, if you choose to do so, apply for health insurance and other products that may be of interest to you and your family. We only use and disclose your personal information in accordance with our Policy. Additionally, we use industry-leading technologies to ensure the security and confidentiality of the personal information you provide us. Throughout this Policy, we refer to information that can identify you as a specific individual, such as your name, phone number, email address, Social Security number or credit card number, as “personal information”.
 
