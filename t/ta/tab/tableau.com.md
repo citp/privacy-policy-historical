@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tableau.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628183625id_/https%3A//www.tableau.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tableau.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225110842id_/https%3A//www.tableau.com/privacy) for the most accurate reproduction.*
 
 # Tableau Software Privacy Policy | Tableau Software
 
