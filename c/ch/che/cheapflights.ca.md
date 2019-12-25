@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.ca privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624190046id_/https%3A//www.cheapflights.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.ca privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225104159id_/https%3A//www.cheapflights.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -244,7 +244,7 @@ You can opt out of such sharing by changing your [KAYAK account preferences](htt
 
 If you wish to exercise the legal rights you may have under applicable law, please submit your request by using our [feedback](https://web.archive.org/k/feedback/form) form. So that we can better process your request, please provide the email you use to log into your KAYAK account. If you do not have a KAYAK account, please provide the email you used to make requests or to use our Services.
 
-Where applicable, you may also have the right to register a complaint to your local data protection authority. For residents of the EU and UK, contact information for the EU data protection authorities can be found at [ here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). For residents of Australia, if you are not satisfied with the outcome of your complaint after first contacting us, you may wish to contact the Office of the Australian Information Commissioner; for more information, please refer to [ here](http://www.oaic.gov.au/).
+Where applicable, you may also have the right to register a complaint to your local data protection authority. For residents of the EU and UK, contact the [EU data protection authorities](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). For residents of Australia, if you are not satisfied with the outcome of your complaint after first contacting us, you may wish to contact the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/).
 
 ###  INTERNATIONAL TRANSFERS OF INFORMATION 
 
@@ -324,7 +324,7 @@ To personalize your experience of our Sites, for example, by showing you offers 
 
 Where required by law, functional cookies will only be used on the Sites where you have given your consent to their use.
 
-You can opt out of our use of Google Analytics by downloading the browser add-on [here](https://tools.google.com/dlpage/gaoptout).  
+[You can opt out of our use of Google Analytics by downloading the browser add-on](https://tools.google.com/dlpage/gaoptout).  
   
 Advertising (e.g., Google DoubleClick, Google Ads, Oath, Bing Ads)  | 
 
@@ -340,7 +340,7 @@ Where required by law, advertising cookies will be used only on the Sites where 
 
 See the section entitled “Your Cookie Choices” below to learn more about how to withdraw your consent to advertising cookies.
 
-You can opt out of our use of Google Analytics by downloading the browser add-on [here](https://tools.google.com/dlpage/gaoptout).  
+[You can opt out of our use of Google Analytics by downloading the browser add-on](https://tools.google.com/dlpage/gaoptout).  
   
 ###  Our Advertising Cookies 
 
