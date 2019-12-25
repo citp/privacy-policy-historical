@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ayurtimes.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602090244id_/https%3A//www.ayurtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayurtimes.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225023601id_/https%3A//www.ayurtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ayur Times
 
@@ -6,7 +6,7 @@ Hi there! We provide the privacy policy to help you to understand the nature an
 
  **Accepting Policies**
 
-  1. By using, reading content and visiting this website, you are accepting our privacy policy, [disclaimer](https://www.ayurtimes.com/disclaimer/) and [terms of service](https://www.ayurtimes.com/terms-conditions/).
+  1. By using, reading content and visiting this website, you are accepting our privacy policy, [disclaimer](https://web.archive.org/disclaimer/) and [terms of service](https://web.archive.org/terms-conditions/).
   2. When you visit any page of our websites, you expressly consent and agree that we can gather, use and disclose the information according to this privacy policy.
   3. If you do not agree to our privacy policy, please you should not visit, read or use our websites or any page of these websites.
 
@@ -14,20 +14,23 @@ Hi there! We provide the privacy policy to help you to understand the nature an
 
 ## Who We Are
 
-Business Name| Ayurveda Clinic (Ayur Times Health Care)  
+Business Name| Ayur Times  
 ---|---  
 Founder| Dr. Jagdev Singh  
 Contact| info@ayurtimes.com  
-Address| Ayurveda Clinic (Ayur Times Health Care), Opp. Tarnjit Bhasin Bhawan, Sheikhan Mohalla, Rupnagar, Punjab, India  
+Location & Post Code| Glandore SA 5037 Australia  
   
 ### Our Websites
 
 The following websites are operated under the supervision of Dr. Jagdev Singh:
 
-  1. [ _https://www.ayurtimes.com_](https://www.ayurtimes.com/)
-  2. [ _https://help.ayurtimes.com_](https://help.ayurtimes.com/)
-  3.  _https://www.ayurvedaclinic.org_
-  4.  _https://www.ayurtimes.in_
+  1. www.ayurtimes.com
+  2. https://help.ayurtimes.com
+  3. www.ayurtimes.in
+  4. ayurtimes.org
+  5. ayurtimes.net
+  6. ayurtimes.com.au
+  7. ayurvedaclinic.org
 
 
 
@@ -60,7 +63,7 @@ If you sign up for receiving newsletters or subscribe our website for getting no
 
 We use your email ID to send notification about newly published article. We don’t send spam. You can anytime unsubscribe our email notification.
 
-### Comments
+### 
 
 When visitors leave comments on any page of our website, we collect the information shown in the comment form. In addition to this, we also collect information about the visitor’s IP address, referrer, site URL and browser user agent string. We also use this information to detect spam comments.
 
