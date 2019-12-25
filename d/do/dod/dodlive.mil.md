@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dodlive.mil privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525234740id_/http%3A//www.dodlive.mil/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodlive.mil privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225083238id_/https%3A//www.dodlive.mil/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DoDLive
+# Privacy Policy – DoDLive
 
   1. This website is provided as a public service by the Office of the Assistant Secretary of Defense-Public Affairs.
   2. Information presented on this website is considered public information and may be distributed or copied unless otherwise specified. Use of appropriate byline/photo/image credits is requested.
