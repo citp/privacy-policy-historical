@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propakistani.pk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630222155id_/https%3A//propakistani.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propakistani.pk privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225230300id_/https%3A//propakistani.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ProPakistani
 
@@ -24,7 +24,7 @@ If users wish to subscribe to our e-mail newsletters, we ask for contact informa
 
 All users of ProPakistani.PK must keep in mind that third parties may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad servings on ProPakistani.PK.
 
-For instance, Google uses the [ DoubleClick DART cookie](http://www.google.com/doubleclick/) on ProPakistani.PK for displaying AdSense for content ads. Similarly, other advertising partners may use their respective cookies to track advertising stats.
+For instance, Google uses the [ DoubleClick DART cookie](https://www.google.com/doubleclick/) on ProPakistani.PK for displaying AdSense for content ads. Similarly, other advertising partners may use their respective cookies to track advertising stats.
 
 **External Links**
 
