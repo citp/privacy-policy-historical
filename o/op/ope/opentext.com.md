@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321194727id_/https%3A//www.opentext.com/about/copyright-information/site-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225010545id_/https%3A//www.opentext.com/about/copyright-information/site-privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy | OpenText
 
