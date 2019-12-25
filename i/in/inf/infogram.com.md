@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infogram.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428113811id_/https%3A//infogram.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infogram.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225114238id_/https%3A//infogram.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Infogram
 
@@ -14,7 +14,7 @@ In specific cases, we use the term **“Designated Countries”** to refer to co
 
 ### Data Controller and Contracting Parties
 
-Infogram will be the controller of your personal information provided to, or collected by or for, or processed in connection with, our Services. [The Terms of Use](https://web.archive.org/terms), together with the other policies and agreements listed therein, are between you and Infogram. In the case of content information you provide (see “Content Information” section below) you control such information, you should be solely liable for it and it is outside our control.
+Infogram will be the controller of your personal information provided to, or collected by or for, or processed in connection with, our Services. [The Terms of Use](https://infogram.com/terms), together with the other policies and agreements listed therein, are between you and Infogram. In the case of content information you provide (see “Content Information” section below) you control such information, you should be solely liable for it and it is outside our control.
 
 As a registered user or site visitor, the collection, use and sharing of your personal data is subject to this Privacy Policy and updates.
 
@@ -138,7 +138,7 @@ For example, we use Facebook Custom Audiences to promote specific Services on Fa
 
 ### For Safety and Security
 
-We use the information we collect, including account, payment and service usage information (including your communications) to verify accounts and activity, to monitor suspicious or fraudulent activity and to identify violations of Service policies including our [Terms of Service](https://web.archive.org/terms) or this Privacy Policy and/or attempts to harm our Members or Visitors.
+We use the information we collect, including account, payment and service usage information (including your communications) to verify accounts and activity, to monitor suspicious or fraudulent activity and to identify violations of Service policies including our [Terms of Service](https://infogram.com/terms) or this Privacy Policy and/or attempts to harm our Members or Visitors.
 
 ### To Protect Legitimate Interests and Legal Rights
 
@@ -224,7 +224,7 @@ You can ask us to stop using all or some of your personal data (e.g., if we have
 
 #### Access and/or Take Your Data
 
-You can ask us for a copy of your personal data and can ask for a copy of personal data you provided in machine readable form. Registered users and Visitors can learn more about how to make these [requests here.](https://web.archive.org/data-choices) You may also contact us using the contact information below, and we will consider your request in accordance with applicable laws.
+You can ask us for a copy of your personal data and can ask for a copy of personal data you provided in machine readable form. Registered users and Visitors can learn more about how to make these [requests here.](https://infogram.com/data-choices) You may also contact us using the contact information below, and we will consider your request in accordance with applicable laws.
 
 #### Your California Privacy Rights
 
@@ -232,13 +232,13 @@ California Civil Code Section 1798.83, known as the “Shine the Light” law, p
 
 ### Account Closure
 
-You may cancel your account and you may opt out of receiving marketing emails from us at any time. In order to cancel your account, opt out of, or modify your personal information, you must do so by logging in and visiting your [Settings & Account page](https://web.archive.org/app/#settings/profile) and following the instructions provided, or go to our [Help & Support page.](https://support.infogram.com/hc/en-us/articles/360001462693) We encourage you promptly to update your personal information when it changes. Information concerning your past behavior with the Services may be retained by us as long as necessary for the purposes set out above.
+You may cancel your account and you may opt out of receiving marketing emails from us at any time. In order to cancel your account, opt out of, or modify your personal information, you must do so by logging in and visiting your [Settings & Account page](https://infogram.com/app/#settings/profile) and following the instructions provided, or go to our [Help & Support page.](https://support.infogram.com/hc/en-us/articles/360001462693) We encourage you promptly to update your personal information when it changes. Information concerning your past behavior with the Services may be retained by us as long as necessary for the purposes set out above.
 
 Please note that although you may opt out of receiving certain emails, we reserve the right to communicate with you via email regarding specific products and services you have ordered, requested, or inquired about.
 
 ### Additional Rights of Members or Visitors from Designated Countries
 
-Members and visitors in the Designated Countries may have additional rights under their laws. Click here to [learn more.](https://web.archive.org/privacy/gdpr-rights)
+Members and visitors in the Designated Countries may have additional rights under their laws. Click here to [learn more.](https://infogram.com/privacy/gdpr-rights)
 
 ## How We Secure and Store Your Information
 
@@ -281,7 +281,7 @@ If you are a member or visitor in the Designated Countries, we collect and proce
 
 If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place. Where we are using your information because we or a third party (e.g. your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services.
 
-If you have any questions about the lawful bases upon which we collect and use your personal data [click here](https://web.archive.org/privacy/gdpr-rights) to learn how to get in touch with our Data Protection Officer.
+If you have any questions about the lawful bases upon which we collect and use your personal data [click here](https://infogram.com/privacy/gdpr-rights) to learn how to get in touch with our Data Protection Officer.
 
 ### Contact Information
 
