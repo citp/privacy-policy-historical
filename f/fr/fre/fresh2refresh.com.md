@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fresh2refresh.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915123646id_/http%3A//fresh2refresh.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fresh2refresh.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225153641id_/http%3A//fresh2refresh.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | fresh2refresh.com
+# Privacy Policy - fresh2refresh.com
 
 Your privacy is very important to us. Accordingly, we have developed our Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -13,23 +13,3 @@ Your privacy is very important to us. Accordingly, we have developed our Policy 
   * We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
 
-
-> 1\. Online Compilers - Compile & Run your C/C++ programs: 
-> 
-> ##### [✅ Online Compilers](http://compilers.fresh2refresh.com/)
-> 
-> 2\. Ask your questions or clarify your/others doubts from, 
-> 
-> ##### [✅ Online Discussion Forums by Fresh2Refresh.com](http://fresh2refresh.com/discussion-forums/)
-
-* * *
-
-* * *
-
-Close
-
-We Support JALLIKATTU !!!
-
-We Support JALLIKATTU!   
-By Fresh2Refresh.com   
-Show Your Support as well. Thanks! 
