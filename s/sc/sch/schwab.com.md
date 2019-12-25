@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624110225id_/https%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225125936id_/https%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.*
 
-# Privacy Policy: Charles Schwab
+# Corporate Privacy Notice: Charles Schwab
 
-[View this notice in PDF format](https://www.schwab.com/public/file?cmsid=P-974035&cv6)  
+[View this notice in PDF format](https://www.schwab.com/public/file?cmsid=P-974035&cv8)  
 
 
-Rev. July 2018
+Rev. July 2019
 
 FACTS | **WHAT DOES THE CHARLES SCHWAB CORPORATION DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
@@ -78,12 +78,11 @@ _
 ---  
   
 **State and International Laws**  
-If you are a Vermont resident, we will automatically limit sharing of your information. Nevada law requires us to disclose that you may request to be placed on Schwab's internal "do not call" list at any time by calling **800-435-4000** , and that we are providing this notice to you pursuant to state law, and that you may obtain further information by contacting the Nevada Attorney General, 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101; phone **702-486-3132** ; email [BCPINFO@ag.state.nv.us](mailto:%20BCPINFO@ag.state.nv.us).
+If you are a Vermont resident, we will automatically limit sharing of your information. Nevada law requires us to disclose that you may request to be placed on Schwab's internal "do not call" list at any time by calling **800-435-4000** , and that we are providing this notice to you pursuant to state law, and that you may obtain further information by contacting the Nevada Attorney General, 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101; phone **702-486-3132** ; email [BCPINFO@ag.state.nv.us](mailto:%20BCPINFO@ag.state.nv.us). To learn more about our online privacy practices (e.g., "tracking"), please go to [www.schwab.com/privacy](https://web.archive.org/public/schwab/nn/legal_compliance/privacy).
 
-This notice does not apply to clients of Charles Schwab Australia Pty Limited, Charles Schwab, Hong Kong, Limited, Charles Schwab Singapore Pte. Ltd. and clients who reside in the European Economic Area. Their privacy notices can be found at [international.schwab.com/privacy](http://international.schwab.com/privacy).
+**International Clients:  **This notice does not apply to clients of Charles Schwab Australia Pty Limited; Charles Schwab Europe Limited; Charles Schwab, Hong Kong, Limited; Charles Schwab Singapore Pte. Ltd.; Charles Schwab, U.K., Ltd.; or clients who reside in the European Economic Area (EEA). If you are a client of one of these non-U.S. Schwab entities or a client who resides in the EEA, please go to [international.schwab.com/privacy](http://international.schwab.com/privacy) to learn about the privacy policies applicable to you.  
 
-To learn more about our online privacy practices (e.g. "tracking"), please go to [www.schwab.com/privacy](https://www.schwab.com/privacy).
 
-©2018 The Charles Schwab Corporation. All rights reserved. CC1710813 REG60835FM-08 (07/18) (0718-8GMJ)  
+©2019 The Charles Schwab Corporation. All rights reserved. CC2547409 REG60835FM-09 (07/19) (0719-96T7)  
   
 
