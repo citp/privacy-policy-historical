@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoughtcatalog.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624050210id_/https%3A//thoughtcatalog.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtcatalog.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225193228id_/https%3A//thoughtcatalog.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Thought Catalog
 
