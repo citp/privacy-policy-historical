@@ -1,209 +1,196 @@
-> *The following text is extracted and transformed from the simplereach.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617082606id_/https%3A//simplereach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplereach.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225025832id_/https%3A//www.nativo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Website Privacy Policy — Nativo Native Platform
 
-This Privacy Policy describes the privacy practices of SimpleReach, Inc. and its subsidiaries and affiliates (collectively, “SimpleReach” or “us” or “we“).This Privacy Policy describes how SimpleReach collect sand uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. This Privacy Notice applies to:
+EU-wide data protection legislation known as the **“General Data Protection Regulation”** or **“GDPR”** (a copy of which is posted [here](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=en)), has effect from May 25th, 2018. California data protection legislation known as the “California Consumer Privacy Act of 2018” has effect from January 1, 2020. The Website Privacy Policy is intended to meet our duties of Transparency under the GDPR, the CCPA and all other applicable privacy laws.
 
-·     The simplereach.com website and any other websites or online services controlled by us and which display this Privacy Notice, and 
+We will post any modifications or changes to this Website Privacy Policy on this page.
 
-·     Marketing analytics services that we provide to our customers, including via applications, dashboards, and platforms.
+## Who we are.
 
-‍
+We are Nativo, Inc. We are a Californian company. Our address is: 100 N. Sepulveda Blvd., 10th Floor, El Segundo, CA 90245.
 
- **COLLECTION OF INFORMATION**
+We have a UK subsidiary called Nativo London Limited. Its address is: 5 Margaret Street, 2nd Floor, London, UK W1W 8RG.
 
- **Information We Collect for SimpleReach’s Own Business Purposes**
+When we refer to **“Nativo”** , **“we”** or **“us”** in this Website Privacy Policy, we are referring to both ourselves and our UK subsidiary.
 
- ** _Whose information we collect_**
+We have appointed a “Data Protection Officer”, this is a person who is responsible for overseeing and advising us in relation to our compliance with the GDPR and our compliance with this Interest Based Ads Privacy Policy. If you want to contact our Data Protection Officer directly, you can email: [privacy@nativo.com](mailto:privacy@nativo.com).
 
-SimpleReach may collect information about individuals who interact with SimpleReach when using our websites or services (such as employees of our customers), job applicants, and other individuals.
+## **What we do.**
 
- ** _How we collect the information_**
+Nativo is an advertising technology provider. Our technology facilitates campaign planning, buying, management, delivery, optimization, measurement and analytics for advertisers and agencies and enables publishers to build, upload, host, serve, render and report on campaigns delivered to their web and mobile app properties.
 
-We may collect information:
+## **Cookies.**
 
-•Directly from individuals
+The Website uses cookies, pixels, beacons and similar technology placed by us or third parties. The cookie we set (the “Nativo Cookie”) is a ‘persistent’ browser cookie. This means the Nativo Cookie remains on your device even after you close out of your browser or turn off your device. Nativo uses this Nativo Cookie and other similar technologies to help us store basic information about a user of the Website. This enables us to identify account holders, to optimize user experience on the Website, and to learn from and improve the Nativo technology and services, based on user behavior. Cookies may also be used by our third-party providers to track how you use the Website to target ads to you on other websites.
 
-•From our customers, regarding their employees or authorized users
+To be able to do the above, we need to collect:
 
-•From recruiters
+  * A unique identifier (which is resettable) assigned to a particular cookie (a “Cookie ID”); and
 
- ** _Types of information we collect_**
+  * information about your logged-in status, key value records and reference data regarding your interaction with the Website and our technology infrastructure and tools (collectively, “Passive Data”).
 
-The types of information we collect include:
 
-•Personal and business contact information (such as name, business name,address, telephone number, email address, and mailing address)
 
-•Profile information, such as your username and password that you may set to establish an online account with us
 
-•Payment information (such as credit card or other financial account numbers).We use a third-party payment processor to process credit and debit card transactions and do not collect or store payment card information ourselves.
+Effect of clearing your Cookies.
 
- **Information We Collect from or on Behalf of Our Customers**
+If you clear your cookies, it will delete the Nativo Cookie and therefore the Cookie ID will no longer identify a cookie on your device. This means the next time you visit the Website (unless you actively identify yourself by logging in), we will not recognize you or your device, we will treat you as an entirely new user we have never seen before and we will set the Nativo Cookie (together with a new Cookie ID) again.
 
-SimpleReach provides marketing analytics services to other businesses – our customers. To take advantage of our services, our customers install our technology on their websites, which enables us to collect certain information regarding individuals’ visits to our customers’ websites. We analyze the personal information that we obtain only at the direction of our customer, and only onthat customer’s behalf.
+Expiry date of the Nativo Cookie.
 
-W may collect information about individuals who visit the digital mediaproperties that have installed our technology at the direction of our customers(“end users”). SimpleReach, Inc. collects information under the direction of its customers on certain digital media properties. SimpleReach has no direct relationship with its customers’ end users. Our customers determine the scope of the information we receive, and the information we receive may vary by customer. If you are a customer of one of our customers and would no longer like to be contacted by one of our customers that use our service, please contact the company that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our customers.
+The Nativo Cookie expires within 30 days following the time at which you last visited the Website.
 
-Typically,when end users access our customers’ webpages, we automatically collect information about end users’ devices, as described further in the section titled “Cookies and Other Information Collected by Automated Means.”
+## **What "Your Rights" are.**
 
-We acknowledge that you have the right to access your personal information.SimpleReach has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend,or delete inaccurate data should direct his query to the relevant customer of SimpleReach’s (the data controller). If requested to remove data we will respond within a reasonable timeframe.
+ **Opt out of Targeted Advertising**
 
-We will retain personal data we process on behalf of our customers for as long as needed to provide services to our customers. SimpleReach will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Nativo is a member of the Network Advertising Initiative (NAI) and adheres to the NAI Codes of Conduct. You may use the [NAI opt out tool](http://optout.networkadvertising.org/?c=1#!/), which will allow you to opt out of receiving tailored online ads from Nativo and from other NAI members.
 
-COOKIES AND OTHER INFORMATION COLLECTED BY AUTOMATED MEANS
+ **Reset your Cookies.**
 
-We,our service providers, and our business partners, may collect certain information about the use of our websites by automated means, such as cookies,or similar technologies. Likewise, as part of our services, we may offer our customers the ability to install these types of technologies on their websites;and if a customer does so, we collect information on its behalf.
+You can typically remove or reject cookies via your browser settings. In order to do this, follow the instructions provided by your browser (usually located within the “settings,” “help” “tools” or “edit” facility).
 
-A“cookie” is a text file that websites send to a visitor‘s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. We use both “session” and“persistent” cookies to collect, store, and sometimes track various types of information on our website and on our customers’ websites. A session cookie is one that disappears after you close your browser. While a persistent cookie remains after you close your browser (and may be used by your browser when you later return to the Service), persistent cookies generally can be removed. A“web beacon,” also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server. Web browsers may offer individuals the ability to disable receiving certain types of cookies; however, if cookies are disabled, some features or functionality of our websites or our customers’ websites may not function correctly. We and our service providers and business partners may collect information about your online activities over time and across third-party websites when you use our websites.
+As noted above, if you clear your cookies, it will delete the Nativo Cookie and therefore the Cookie ID will no longer identify a cookie on your device. This means the next time you visit the Website (unless you actively identify yourself by logging in), we will not recognize you or your device, we will treat you as an entirely new user we have never seen before, and we will set the Nativo Cookie (together with a new Cookie ID) again.
 
-Because there is not yet a consensus on how companies should respond to web browser-based do-not-track (“DNT”) mechanisms, we do not respond to webbrowser-based DNT signals at this time. Please see the “Privacy Preferences,Rights and Choices” section below for information about how you may opt out of,or limit the use of, your browsing behavior for online behavioral advertising purposes.
+###  **ADDITIONAL PRIVACY RIGHTS FOR EEA, UK AND SWITZERLAND USERS**
 
-The information we collect by automated means varies based on whether we are collecting information for our own business purposes or whether we are collecting information from or on behalf of our customers to provide our services.
+If you are located in the European Economic Area, the United Kingdom or Switzerland, you have the following additional rights:
 
- **Automated Data Collection**
+ **Erasure.**
 
-As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP)addresses, browser type, Internet service provider (ISP), referring/exit pages,the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or information about how our websites are used(such as the content that is viewed on our websites, how users navigate on and between our webpages).   We also gather information about how individuals interact with our emails (such as whether the email is opened and which links are clicked in the email).
+In addition to the opt-out rights described above, you may have the right to request that we erase Personal Data we hold about you in certain situations. You can exercise these rights by contacting our Data Protection Officer at [privacy@nativo.com](mailto:privacy@nativo.com). If you do not have an account with us, we won’t have a way to identify your data by name in our systems, so, in such case, we may need to request certain information from you (such as the applicable Cookie ID from your system) to complete this request.
 
-When our customers install our technology on their websites, we collect the same type of information as described above on behalf of our customers.
+When we receive any request to erase your Personal Data, we will try to comply with it as soon as reasonably practicable and (in any event) within one month.  
 
-INFORMATION USE
+ **Access.**
 
- **Our Use of Personal Information for SimpleReach’s Own Business Purposes**
+In certain situations, you may have the right to request access to the Personal Data associated with your account and/or your current Cookie ID. You can exercise this right by contacting our Data Protection Officer at [privacy@nativo.com](mailto:privacy@nativo.com). If you don’t have any account with us, we don’t have a way to identify your data by name in our systems, so, in such case, we may need to request certain information from you (such as the applicable Cookie ID and Mobile Advertising IDs from your systems) to complete this request.
 
-SimpleReach may use personal information to:
+When we receive a request, pursuant to the previous paragraph, to provide you with the Personal Data associated with your account and/or current Cookie ID, we will try to comply with it as soon as reasonably practicable and (in any event) within one month.  
 
-•Provide our services to our customers
+ **Correction and amendment.**
 
-•Communicate about the products and services we offer, and respond to requests,inquiries, comments, and suggestions, Analyze and enhance our communications and strategies (including by identifying when emails sent to you have been received and read)
+If you have any account with us, you can correct your account information directly through your account, or by contacting your account manager at Nativo. However, if you believe we hold information about you that that you are unable to correct or amend through your account, we recommend you contact our Data Protection Officer at: [privacy@nativo.com](mailto:privacy@nativo.com).
 
-•Operate, evaluate and improve our business, our websites, and other products and services we offer (including to improve our algorithms and develop new products and services)
+ **Right to object.**
 
-•Invoice and collect payment for our services
+You have a right to object to our use of your Personal Data in certain situations. If you want to exercise this right at any time, the quickest and easiest way to do so is by ‘opting out’ following the steps described here.
 
-•Establish and maintain an individual’s profile on our websites
+You can also request that we ‘erase’ your Personal Data by following the steps outlined [here](https://web.archive.org/privacy-policy/#what-your-rights-are-wpp).
 
-•Tailor the content we display in our communications and on our websites
+You can also request that we stop sending marketing communications to your email address by using the unsubscribe link in our marketing emails or by contacting [privacy@nativo.com](mailto:privacy@nativo.com).
 
-•To conduct research about SimpleReach or our services,
+ **Complaints.**
 
-•To notify you of technical updates or changes in policy,
+If you would like to make a complaint regarding this Website Privacy Policy or our practices in relation to your Personal Data, please contact our Data Protection Officer at [privacy@nativo.com](mailto:privacy@nativo.com).
 
-•To contact you for marketing and promotional purposes,
+We will reply to your complaint as soon as we can and in any event, within forty-five (45) days.
 
-•In response to lawful requests by public authorities, including to meet national security
+If you feel that your complaint has not been adequately resolved, please note that the GDPR gives you the right to contact your local data protection supervisory authority, which for the UK, is the Information Commissioner’s Office.
 
-or law enforcement requirements.
+###  **ADDITIONAL PRIVACY RIGHTS FOR CALIFORNIA USERS**
 
-•Comply with legal requirements, judicial process, and our company policies(including to verify users’ identity in connection with access or correction requests),
+Effective January 1, 2020, if you are a resident of the State of California (as defined in Section 17014 of Title 18 of the California Code of Regulations), then you have the below additional rights under the California Consumer Protection Act (CCPA). Any terms defined in the CCPA have the same meaning when used in this Section. 
 
-•Protect against, identify, investigate, and respond to fraud, illegal activity(such as incidents of hacking or misuse of our websites), and claims and other liabilities, including by enforcing the terms and conditions that govern the services we provide,
+**Deletion.** You have the right to request the deletion of your personal information that we have collected and retained, subject to certain exceptions. 
 
-•Process employment applications,
+**Disclosure.** You have the right to request, no more than twice in a 12-month period, disclosure of the personal information about you that we collect, use, disclose and sell during the preceding year, which shall include as follows:
 
-•Monitor recruiting statistics, to inform our recruitment activities.
+  * The categories of personal information that we’ve collected and sold about you, or shared for a business purpose with our service providers.
 
-In addition, we may aggregate and/or de-identify any information that we collect,such that the information no longer identifies any specific individual. We may use, disclose and otherwise process such information for our own legitimate business purposes – including historical and statistical analysis and business planning – without restriction.
+  * The categories of sources from which we collected such information.
 
- **OurUse of Personal Information on Behalf of Our Customers**
+  * The categories of third parties with whom we’ve shared that personal information and to whom we’ve sold that personal information. 
 
-We use personal information we collect from or on behalf of our customers to provide services to our customers at their direction.  We do not use this personal information for SimpleReach’s own purposes. We use personal information only as directed or authorized by our customer. Typically, we are directed or authorized to use personal information collected on behalf of the customer to provide analytics regarding use of our customers’ websites and end user interactions with our customers’ content.
+  * Our business or commercial purpose for collecting or selling that personal information.
 
-INFORMATION SHARING AND DISCLOSURE
+  * The specific pieces of personal information we collected about you. 
 
-We will not sell or rent customers’ or end users’ personal information to third parties except as described in this Privacy Policy. We may disclose your personal information to:
 
-•SimpleReach affiliates and subsidiaries
 
-•Service providers that perform services on our behalf, such as customer service and support providers, technology providers (including providers of payment processing, technology support, web hosting, and email communications)
 
-•Survey and market research providers
+**Non-Discrimination**. We will not discriminate against you for exercising any of your CCPA rights. 
 
-•Advertising and marketing partners
+**Opt out**. We do not consider that our disclosure of personal information we collect to third parties constitutes a “Sale” of personal information under the CCPA. Rather, in the course of providing our services, we disclose personal information for business purposes. To opt out of the use of your personal information for targeted advertising purposes, please refer to the “[What Your Rights Are](https://www.nativo.com/interest-based-ads/#your-rights)” Section of this policy.  
 
-•Analytics organizations
+Effective January 1, 2020, if you wish to contact us to submit a request under the California Consumer Privacy Act of 2018, please feel free to contact us by telephone at 1-855-905-0440, by email at [privacy@nativo.com](mailto:privacy@nativo.com), or by clicking [here](https://support.nativo.com/hc/en-us/requests/new). Your request must: (a) provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative; and (b) describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it. 
 
-Unless prohibited by applicable law, we reserve the right to transfer the information we maintain in the event we sell or transfer all or a portion of our business or assets. If we engage in such a sale or transfer, we will – where required by applicable law – make reasonable efforts to direct the recipient to use your personal information in a manner that is consistent with this Privacy Notice.After such a sale or transfer, you may contact the recipient with any inquiries concerning the processing of your personal information.
+For purposes of exercising your rights above, please refer to the “[What Personal Data we Collect](https://www.nativo.com/interest-based-ads/#what-personal-data-we-collect)”, “[How we Use Your Personal Data and Why](https://www.nativo.com/interest-based-ads/#how-we-use-your-personal-data)” and “[Who We Share Your Personal Data With](https://www.nativo.com/interest-based-ads/#who-we-share-your-personal-data-with)” sections of this policy, which discloses the categories of personal information we have collected about consumers in the previous 12 months and the business purposes for which we use and disclose the information we collect. 
 
-In addition, we may share your information to comply with legal and regulatory requirements, and protect against and prevent fraud, illegal activity (such as identifying and responding to incidents of hacking or misuse of our websites and mobile applications), and claims and other liabilities.
+For clarity, under CCPA personal information does not include de-identified or aggregated consumer information.
 
-CAREERS
+## **What Personal Data we collect.**
 
-If you submit your information in connection with job opportunities at SimpleReach, we will use and disclose the information to process your application (including to contact you and/or your references and former employers if appropriate), to monitor recruitment statistics, and to comply with government reporting requirements. We also retain statistical information about applicants to help inform our recruitment activities. We will process this information based on our legitimate interest of evaluating job candidates or, when you provide us with sensitive information, based on your consent.
+All the Personal Data we collect from you is outlined in the table below.
 
-SimpleReachuses RecruiterBox to manage a pipeline of job candidates including interview scheduling, evaluations, interview stages, messaging, and candidate profiles.RecruiterBox acts at our direction when it hosts our jobs page containing job descriptions, where candidates can submit applications for consideration for employment with SimpleReach.
+“Personal Data” refers to information about you that may be considered “personal data” or “personal information” under GDPR, CCPA or other applicable privacy or data protection laws. 
 
-PRIVACY PREFERENCES, RIGHTS, AND CHOICES
+As further detailed below, the personal information we collect may include: (A) identifiers, such as your real name, email address, account name or other similar identifiers that you provide as part of your Account Information; (B) Commercial information, such as the Nativo products or services you have purchased or considered; and (C) Internet or other electronic network activity information, such as information regarding your interaction with Nativo’s products, websites and advertisements. 
 
- ** _Marketing emails_**
+Category of Personal Data collected | What this means | How we collect it  
+---|---|---  
+Account Information  | First name, last name, email address, telephone number, profile picture, passwords and security protocols of users who maintain an account for any of Nativo’s digital advertising services, content advertising infrastructure and tools. | Through your active submission (either directly through the platform or indirectly through Nativo or your organization’s administrator) when you create an account with Nativo.   
+Log Records | Log records contain your logged-in status, key value records and reference data regarding your interaction with the Nativo platform, infrastructure and tools, all tied to a Cookie ID.  | Through the use of cookies, pixels, beacons and similar technology when you interact with Nativo’s platform, websites and tools.   
+  
+## **How we use your Personal Data and why.**
 
-You may unsubscribe from receiving marketing or other commercial emails from SimpleReach by following the instructions included in the email. However, even if you opt out of receiving such communications, we retain the right to send you non-marketing communications (such as important product safety information,or changes in website on mobile application terms).
+Purpose | Category(ies) of Personal Data involved | Why do we do this | Our legal basis for this use of data  
+---|---|---|---  
+To provide you with access to the Nativo platform and tools  |  Account Information  | Using this data helps us to provide you with a consistent experience.  | Our legitimate interests, as well as those of your organization. We need to provide you with access to administer our platforms and services and fulfil our contractual obligations to your organization as a service provider.   
+To provide reporting to your organization  | Account Information; Log Records |  We use your Account Information and Log Records to prepare reports to report on your use of our services. | Our legitimate interests, as well as those of your organization. We need to be able collect information regarding your usage of our services to report back to your organization.  
+To learn about and improve the Nativo products and services. |  Account Information; Log Records  | We conduct analytics on user interaction with our services to facilitate improvement of our products and services.  | Our legitimate interests, as well as those of your organization. To provide you and your organization with the best experience from our services, we need to learn from how you interact with our services to enable us to make improvements.  
+Troubleshooting | Log Records | We use Log Records to track issues that might be occurring on our systems.  | Our legitimate interests, as well as those of your organization. We need to monitor and ensure the proper operation of our systems and services to administer our services and fulfill our contractual obligations to your organization.   
+To Contact you  | Account Information | We use your Account Information to contact you regarding your account or our services, including to market our services to your organization.  | Our legitimate interests, as well as those of your organization. We need to contact your organization to administer our platform and services, to fulfill our contractual obligations, and to keep your organization informed about additional product and service offerings.   
+To Measure and Target Advertisements | Account Information; Log Records |  Our third-party providers use information about your interaction with the Website to display ads for Nativo when you visit other properties on the Internet.  | Our legitimate interests, as well as those of your organization. Use of information about user interaction with the Website allows us to target advertising to users who have previously demonstrated interest in our services.  
+  
+## **Who we share your Personal Data with.**
 
- ** _Privacy preferences and rights_**
+The table below describes who we share your Personal Data with, what we share and why we share it.
 
-Individuals in certain jurisdictions, like the EEA, have certain rights and choice regarding SimpleReach’s processing of their personal information. Please seethe “How to Contact Us” section below for our contact information to exercise those rights and choices. In some cases where your personal information is accessible through an online portal or platform, you may be able to directly exercise these rights by following the instructions on the portal or platform.
+We endeavor to ensure that people to whom we provide Personal Data hold it subject to appropriate safeguards and controls. In addition, where relevant, when we share Personal Data with third parties who are not directly subject to the GDPR, we make sure:
 
-Please note that if the exercise of these rights limits our ability to process personal information, we may be precluded from providing our products or services to individuals who exercise these rights, or from otherwise engaging with such individuals going forward.
+  * that party is either:
+    * based in a country that has laws and institutions in place; or
+    * part of a sector or participates in a framework (e.g., the EU-U.S. Privacy Shield), 
 
-We reserve the right to verify the identity of the individual in connection with any requests regarding personal information to help ensure that we provide the information to individuals to whom the information pertains, and allow only those individuals or their authorized representatives to exercise rights with respect to that information.
+that the European Union considers ensures that your Personal Data will be adequately protected; or
 
-For information about the rights and choices users have with respect to cookies and online tracking, please see the “Cookies and Other Information Collected by Automated Means” section of this Privacy Notice.
+  * adequate safeguards are in place to ensure your Personal Data will be protected in line with the requirements of the GDPR.
 
- _General objections to the processing of personal information_
 
-To the extent provided by applicable law, you may withdraw any consent you previously provided to us, or object at any time on legitimate grounds, to the processing of your personal information. In some circumstances, withdrawing your consent to SimpleReach’s use or disclosure of your personal information will mean that SimpleReach will not be able to provide products or services to you or to otherwise engage with you.
 
- _Access to personal information_
+Recipients | Category(ies) of Personal Data we share. | Why we share this Personal Data  
+---|---|---  
+Hosting Provider |  Account Information; Log Records  | Our services are hosted on our proprietary Nativo Platform. In order to host this service, we have to pass all the data we hold (including your Personal Data) to our hosting provider.  
+Reporting and Analytics Providers  |  Account Information; Log Records  | We pass certain Account Information and Log Records (excluding your passwords and other security protocols) to our reporting and analytics providers to enable us to learn and improve the Nativo products and services  
+Affiliates | Account Information; Log Records | As a group of companies, we rely on affiliates to provide certain services to us. All affiliates are required to adhere to the descriptions and specifications set out in this Interest Based Ads Privacy Policy.   
+An acquirer or insolvency practitioner  | Account Information; Log Records. | We may share Personal Data when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding. All counterparties will be required to keep such information strictly confidential.   
+Law enforcement agencies and regulatory authorities | Account Information; Log Records. | We may share Personal Data as we believe necessary or appropriate:  
+• to comply with applicable laws; and/or  
+• to comply with lawful requests and legal process, including to respond to requests from public and government authorities to meet national security or law enforcement requirements.   
+  
+## **How we keep your Personal Data secure.**
 
-Upon request SimpleReach will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by emailing privacy@simplereach.com. We will respond to your request within a reasonable timeframe.  If we grant your request,we will provide you with a copy of the personal information we maintain about you in the ordinary course of business, in a commonly used format. We may reject your request to access, correction or deletion of your information, as permitted by applicable law.  If we reject your request, we will notif you of the reasons for the rejection.
+We have put in place appropriate security measures to prevent your Personal Data from being accidentally lost, used or accessed in an unauthorized way, altered or disclosed.
 
- _Portability of personal information_
+We limit access to your Personal Data to those employees and other staff who have a business need to have such access. All such people are subject to a contractual duty of confidentiality.
 
-You may request that we transfer your personal information to another datacontroller. We may reject your request, as permitted by applicable law. If we reject your request, we will notify you of the reasons for therejection.
+We have put in place procedures to deal with any actual or suspected Personal Data breach. In the event of any such breach, we have systems in place to work with applicable regulators. In addition, in certain circumstances (e.g., where we are legally required to do so) we may notify you of this breach.
 
- ** _Online Behavioral Advertising_**
+## **How long we store your Personal Data.**
 
-We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We will only retain your Personal Data for so long as we reasonably require it to use it for the purposes set out above, unless a longer retention period is required by law (for example for regulatory purposes).
 
-INTERNATIONAL DATA TRANSFERS
+The table below shows our standard retention practices:
 
-We may transfer personal information to countries other than the country in which the data was originally collected for the purposes described in this Privacy Policy. For example, if you are located outside of the United States, we typically transfer your personal information to the United States, where SimpleReach is headquartered. The countries to which we transfer personal information may not have the same data protection laws as the country in which you initially provided the information. As described below, we have certified compliance with the EU-US Privacy Shield Framework.
+Category of Personal Data | Retention period  
+---|---  
+Account Information | We keep Account Information for a maximum of one (1) year from the date on which the organization account holder closes the applicable account or terminates its relationship with us.   
+Log Records | We keep Log Records for a maximum of two (2) years from the data on which they are collected, after which they will be deleted permanently. The duration of this retention period is required to ensure that we are able to retain this information for as long as is needed to comply with our obligations to your organization (particularly audit requests) and for internal reporting purposes.  
+  
+## **Our policy on children** **.**
 
-EU-U.S.PRIVACY SHIELD
+Our websites, products and services are not intended for use by children under the age of 16.
 
-SimpleReach participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. SimpleReach is committed to subjecting all personal information received from European Union (EU) member countries, in reliance on the Privacy Shield Frameworks, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification,visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>. 
-
-SimpleReach is responsible for the processing of personal information it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. SimpleReach complies with the Privacy Shield Principles for all onward transfers of personal information from the EU,including the onward transfer liability provisions. 
-
-With respect to personal information received or transferred pursuant to the Privacy Shield Frameworks, SimpleReach is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, SimpleReach may b required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at  <https://feedback-form.truste.com/watchdog/request>. 
-
-Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
-
-DATA RETENTION
-
-We will retain your information for as long as necessary to fulfill the purpose(s)for which the information was collected, depending on the purpose(s) for which the information was collected, the nature of the information, any contractual relationship that may governs the retention of the data, and our legal or regulatory obligations.
-
-BLOG HOSTED BY A THIRD PARTY
-
-Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want your personal information that was posted to the comments section removed. To learn how the third party application uses your information, pleasereview their privacy statement.
-
-TESTIMONIALS
-
-Wedisplay personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at info@simplereach.com.
-
-SOCIAL MEDIA WIDGETS
-
-Ourwebsite includes Social Media Features, such as the Facebook Like button, and Widgets,such as the Share This button or interactive mini-programs that run on ourwebsite. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy statement of the company providing it.
-
-THIRD PARTY SITES
-
-The Site may contain links to other sites. SimpleReach is not responsible for the privacy practices of such other sites. We encourage our users to be aware when leaving the Site to read the privacy statements of each site that collects personal information.
-
-SECURITY
-
-We are committed to protecting personal information from loss, misuse, disclosure,alteration, unauthorized access, and destruction. SimpleReach takes reasonable precautions to safeguard the confidentiality of personal information. Weprotect the security of your personal information by using Secure Sockets Layer(SSL) software, which encrypts information during transmission between ourserver and an individual’s device. While we strive to protect your personal information, we cannot ensure the security of the information you transmit tous in all cases.
-
-UPDATES TO THIS PRIVACY POLICY
-
-We may occasionally update or modify this Privacy Policy, at our sole discretion.The date of the most recent update of this document will always be displayed at the beginning of this page. If we change our Privacy Policy, we will post those changes on the Site located at http://www.simplereach.com/privacy. If we decide to use personal information in a manner different from that stated at the time it was collected, we will notify users via email (if an email address has been provided) or display a notice on the Site. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect.
+Nativo, Inc., and Nativo London Limited.
