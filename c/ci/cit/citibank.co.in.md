@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citibank.co.in privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520035616id_/https%3A//www.online.citibank.co.in/privacy/privacy.htm%3FeOfferCode%3DINHOGNTFOPRIV) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibank.co.in privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225115921id_/https%3A//www.online.citibank.co.in/privacy/privacy.htm%3FeOfferCode%3DINHOGNTFOPRIV) for the most accurate reproduction.*
 
 # Citibank
 
