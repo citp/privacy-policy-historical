@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streema.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614113357id_/https%3A//streema.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streema.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225033742id_/https%3A//streema.com/about/privacy) for the most accurate reproduction.*
 
 # Streema Radio - Privacy Policy
 
@@ -209,3 +209,5 @@ We may update this Privacy Policy from time to time as our services change and e
 Finally, the English language version of this Privacy Policy is the version that governs your use of the Streema Service and in the event of any conflict between the English language version and a translated version, the English language version will control.
 
 If you have questions about this Privacy Policy or our privacy practices, or how to lodge a complaint with the appropriate authority, please contact us at [info@streema.com](mailto:%20info@streema.com) or write to us at our US address for receiving written communications and notifications: Streema, Inc., 2255 Glades Road, Suite 324A, Boca Raton, FL 33431, Attention: Support. We will address your concerns and attempt to resolve any privacy issues in a timely manner.
+
+This website uses cookies for analytics and personalization. [Click here](https://web.archive.org/about/privacy/) to learn more or change your cookie settings. By continuing to browse, you agree to our use of cookies. 
