@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitedaily.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624054927id_/https%3A//www.elitedaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitedaily.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225112852id_/https%3A//www.elitedaily.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,7 +79,7 @@ See Cookies and other technologies for more information on the use of cookies an
 
 With your prior **consent** we will use your personal information to send you our newsletters, and to provide you with promotional update communications by email or Site pop-ups about our Services. 
 
-**You can opt-out of further marketing at any time** **by selecting the unsubscribe link at the bottom of each email, or by sending us an email at**[ **info@bustle.com**](http://mailto:info@bustle.com/) **.**
+**You can opt-out of further marketing at any time** **by selecting the unsubscribe link at the bottom of each email, or by sending us an email at**[ **info@bustle.com**](mailto:info@bustle.com) **.**
 
 ## How Is My Information Used?
 
@@ -192,7 +192,7 @@ Our legitimate interests
 
 ## Change of purpose 
 
-We will only use your Personal Information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you would like an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us at [info@bustle.com](http://mailto:info@bustle.com/). If we process your Personal Information for any new purpose, we will notify you (via updating this Privacy Policy, and letting you know we have updated it) and we will explain the legal basis which allows us to do so.
+We will only use your Personal Information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you would like an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us at [info@bustle.com](mailto:info@bustle.com). If we process your Personal Information for any new purpose, we will notify you (via updating this Privacy Policy, and letting you know we have updated it) and we will explain the legal basis which allows us to do so.
 
 ## Who is my information shared with?
 
@@ -236,7 +236,7 @@ Except as set forth above, you will be notified when your Personal Information m
 
 **Consent** : We will only process your personal information for promotional or marketing purposes where you have given us your express consent for us to do this, where required by law. For more information, please refer to _Our Promotional Updates and Communication section_. 
 
-You can opt out from further marketing at any time by sending an email to [info@bustle.com](http://mailto:info@bustle.com/). 
+You can opt out from further marketing at any time by sending an email to [info@bustle.com](mailto:info@bustle.com). 
 
 **Contract** : We collect, store and process your personal information where it is necessary for performing a contract you have with us (such as our **competition** **terms and conditions** – please refer to the specific relevant terms for each competition), or where you have asked us to take specific steps before entering into that contract. If you enter any of our competitions, you will be provided with the full terms and conditions prior to entering – please ensure you read these carefully.
 
@@ -258,7 +258,7 @@ Our legitimate interests are:
 
 
 
-In each case, these legitimate interests are only valid if they are not outweighed by your rights and interests. If you would like further information about how we assess our legitimate interests, please contact us at [info@bustle.com](http://mailto:info@bustle.com/). 
+In each case, these legitimate interests are only valid if they are not outweighed by your rights and interests. If you would like further information about how we assess our legitimate interests, please contact us at [info@bustle.com](mailto:info@bustle.com). 
 
 We also use different types of cookies (including automatically collected information) on our Platform in our **legitimate interests** or with your **consent** – we explain this in the **Cookies** section. 
 
@@ -327,9 +327,9 @@ You may have the right, under certain circumstances:
 
 Your **right to withdraw consent** :
 
-Where the processing of your personal information by us is based on consent, you have the right to withdraw that consent without detriment at any time by contacting us at [info@bustle.com](http://mailto:info@bustle.com/). You can also change your marketing preferences at any time as described in Our promotional updates and communications' section;
+Where the processing of your personal information by us is based on consent, you have the right to withdraw that consent without detriment at any time by contacting us at [info@bustle.com](mailto:info@bustle.com). You can also change your marketing preferences at any time as described in Our promotional updates and communications' section;
 
-You can also exercise the rights listed above at any time by contacting us at [info@bustle.com](http://mailto:info@bustle.com/). If your request or concern is not satisfactorily resolved by us, you may approach your local data protection authority, (see <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html>). 
+You can also exercise the rights listed above at any time by contacting us at [info@bustle.com](mailto:info@bustle.com). If your request or concern is not satisfactorily resolved by us, you may approach your local data protection authority, (see <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html>). 
 
 The **Information Commissioner** is the supervisory authority in the UK and can provide further information about your rights and our obligations in relation to your Personal Information, as well as deal with any complaints that you have about our processing of your Personal Information.
 
@@ -343,7 +343,7 @@ Any changes we make to this policy in future will be posted on this page. If we 
 
 ## What If I Have Questions or Concerns?
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [info@bustle.com](http://mailto:info@bustle.com/). We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [info@bustle.com](mailto:info@bustle.com). We will make every effort to resolve your concerns.
 
 ## Cookies and other technologies
 
