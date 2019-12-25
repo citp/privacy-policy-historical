@@ -1,121 +1,241 @@
-> *The following text is extracted and transformed from the sportssignup.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128174024id_/https%3A//subscription.timeinc.com/storefront/privacy/siplay/generic_privacy_new.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportssignup.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225132409id_/https%3A//www.sportsengine.com/solutions/legal/privacy_policy) for the most accurate reproduction.*
 
-# SI Play Privacy Policy for the US
+# Privacy Policy | The Home of Youth Sports
 
-## PRIVACY POLICY
+This Privacy Policy explains how NBCUniversal and its affiliates collect, use, and share information from or about you when you use our websites, downloadable applications such as games, interactive TV mobile applications, and voice-activated assistants, and other services that link to this policy, as well as connected devices such as theme park devices (“NBCUniversal Services”).
 
-### Table of Contents
+As one of the world’s leading media and entertainment companies, we offer NBCUniversal Services through a wide range of businesses and under many different brands. You can find out more information about NBCUniversal, including a list of our affiliates (“NBCUniversal Affiliates”), [here](https://www.nbcuniversal.com/businesses).
 
-  * Scope of the Privacy Policy
-  * Information We Collect
-  * How We Use your Information
-  * Collection of Information by Third-Party Sites and Sponsors
-  * Cookies
-  * Your California Privacy Rights: Notice to California Customers
-  * Our Commitment to Security
-  * Accessing, Correcting, and Deleting Your Personal Information
-  * Retention of Personal Information
-  * Changes to this Privacy Policy
-  * How to Contact Us
+When you use the NBCUniversal Services, you agree to the collection, use, and sharing of your information as described in this Privacy Policy.
+
+If you are using the NBCUniversal Services while in the European Economic Area, the United Kingdom or Switzerland, this policy does not apply. Please refer to the NBCUniversal [European Privacy Policy](https://www.nbcuniversal.com/privacy/european).
+
+* ### TYPES OF INFORMATION WE COLLECT
+
+We, or our service providers on our behalf, may collect the following information about you or your use of the NBCUniversal Services:
+
+##### Information You Provide to Us
+
+  * **Contact and registration information:** such as your name, address, telephone number, email address, username, and password.
+
+  * **Information about you or your friends and family:** such as demographic or biographical information, gender, interests, photos, videos, or any other information about you that you provide to us, including information about friends, contacts or referrals.
+
+  * **Transaction information:** payment information such as your credit/debit card details, purchase history, delivery address and other information related to your transaction.
+
+  * **Competition, sweepstakes and survey information:** any information provided when entering competitions, prize draws and sweepstakes we, or a third party on our behalf, may run. We may carry out surveys and panel discussions, which may request that you voluntarily provide additional information.
+
+  * **Customer care, technical support and other feedback:** questions and other messages you address to us directly through online forms and social media platforms. If you contact us by phone, we may record the conversation and/or keep a summary of the call.
+
+  * **Other information you provide:** any other information that you provide to us including, posts, date of birth, content, photos, booking times or biometric identifiers such as facial scans or fingerprints.
 
 
 
-#### Scope of the Privacy Policy
 
-Thank you for visiting SI Play! Your privacy is very important to us. To better protect your privacy, SI Play LLC and its affiliates (collectively, “SI Play”, “we” or “us”) provide this Privacy Policy explaining our information practices and how we use the information you provide to us. This Privacy Policy governs how we use and collect your data through our websites, mobile device applications and other services (collectively, the “Services”), including the services provided through leaguetoolbox.com; leagueathletics.com; sportssignup.com; iscore.com; and www.siplay.com. If you were a previous user of the services offered by iScore, SportsSignup, League ToolBox or League Athletics, your personal information is now governed by the this Privacy Policy.
+##### Information We Collect Automatically
 
-All users of SI Play are adults over the age of 18 who are either completing a registration to participate themselves or are completing registrations for their minor children. We do not knowingly collect information from children under the age of 13. If we learn that we have received any information directly from a child under age 13 without first receiving his or her parent's verified consent, we will delete that information.
+  * **Device Information:** including your IP address, browser types, browser language, operating system, platform type, gaming platform, device types, and device IDs such as unique identifiers, advertising identifiers, or gaming platform identifiers.
 
-#### Information We Collect
+  * **Usage Information:** including files you download, domain names, landing pages, your browsing activity, what you click, scrolling and keystroke activity, pages viewed, advertising viewed or visited, forms or fields you complete or partially complete, search terms, whether you open an email and your interaction with the content, access times, and error logs, and other similar information.
 
-**Volunteered Information** : This category of information includes, but is not limited to: (i) information that you voluntarily provide to SI Play upon your use of, and registration for, the Service or for a sports program that uses our Service, including information such as your name, email address, and other contact information; (ii) if you are a participant in a sports program, the information that you provide to that program at the time of enrollment and thereafter through the Service by you directly inputting the information into the Service; and (iii) information that you provide as a result of your purchase of any goods or services offered through the Service (e.g., financial information, billing and shipping addresses. Additionally, through some Services, you may be able to submit information about other people. For example, you might submit a person's name, mailing and/or e-mail address to send a gift or electronic greeting card. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address and telephone number.
+  * **Game Information:** including the NBCUniversal games you own or play, play statistics, scores, replays, and achievements.
 
-**Background Checks** : SI Play provides a service, called KidSafePlus®, to help manage the background check process for individuals you designate. While it is understandable that consumers are reluctant to disclose their Social Security Number, it is a crucial piece of information to help ensure the name being provided will match potential criminal records, to acquire a list of possible aliases used, and to provide additional information reduce the number of false positives resulting from “common name” matches. Social Security numbers are captured as part of a your profile for the designated, and passed on to our background check partner (via secure communications), who performs the background check. The specific background check provider used is fully disclosed during the background check registration process. The whole Social Security numbers are deleted from our system once the results are returned (often minutes after the user supplies the information).
+  * **Location Information:** including the city, state and ZIP code associated with your IP address, information derived through WiFi triangulation, and precise location information from GPS-based functionality on your mobile devices or from your use of our Mobile Apps, and with your consent, your precise GPS information.
 
-**Other Non-Personally Identifiable Data** : We may also collect certain non-personally identifiable information when you visit our web pages or use our applications, such as the type of browser and operating system you are using, your IP address, your device identifiers, your Internet or wireless service provider, and location-based information (collectively, “System Data”).
+  * **Viewing Behavior:** including the content you view, how long you watch each video, the quality of the service you receive (e.g. buffering, load times) as well as advertisements you have been shown or interacted with.
 
-#### Information Regarding Children
+  * **Offline Information.** Certain information may also be stored while you are offline and transmitted to us when you next connect to the Internet, regardless of where you connect from or the device you use to connect.
 
-You may provide personal information regarding your child when you register your child for the Service. At your complete discretion, you can choose to make that personal information viewable to the rest of the league. At any time, you can use controls in the Service to revoke that permission.
 
-Children are prohibited from creating their own accounts on the Service. However, you may create an account on the Service for your child, provided that you are the parent or legal guardian of that child. Through this account, your child may upload photographs, videos, comments and other information to his or her team page on the Service (collectively, “Child Content”). By creating an account for your child, you are consenting to the fact that we may use, display, and/or publish the Child Content on the Service as described herein. If you do not consent to our use of the Child Content in this manner, you are prohibited from creating accounts for your child on the Service. Child Content may be viewable only on the team page, and SI Play will not use the Child Content for any other purpose without the parent’s consent. The coach or league manager alone may choose to make the team’s page viewable to the public.
 
-At no time will we collect any personal information from your child for advertising purposes. The Child Content is not shared with third parties, except to the extent necessary in order to provide the Services (e.g., our hosting provider). Additionally, when your child uses the Service, we will collect System Data from them, which, as described above, is anonymous and does not contain personal information.
 
-At any time, you can use controls in the Service to view the Child Content from your child or to delete any account created for your child. If you would like us to delete any Child Content provided by your child, please email us at parents@siplay.com or reach us at the contact information below in the “How to Contact Us” section of this Privacy Policy. You may also contact us if you have any other questions or concerns you may have about what Child Content SI Play has collected, how the Child Content is used by SI Play, or anything else related to the Service.
+##### Information from Third Party Sources
 
-back to top
+We may receive information about you from third parties, partners or our service providers such as:
 
-#### How We Use Your Information
+  * **Public Information:** from publicly and commercially available online or offline sources, as permitted by law including demographic information, purchasing data, membership in loyalty programs or information about advertisements you have seen or acted upon, including your interaction with advertisers’ products and services.
 
-Except as set forth in this section, your personal information will not be shared or transferred to third parties.
+  * **Social Media Information:** if you visit the NBCUniversal Services on a device on which you also use social networks or if you interact with us through a social media service or other platform, we may have access to some information you provide to that social network or platform such as your name, email address, friend list, photo, age, gender, location, birthday, social networking ID, current city, and the people/sites you follow.
 
-**General Use** : The information you provide to us will be used (i) to operate the Service; (ii) to fulfill any requests you make to us, e.g., your requests for a particular product or service; and (iii) by SI Play to send you information about SI Play, marketing information about SI Play products and services, and other services in which we think you might be interested.
 
-**Third Party Fulfillment** : In order to fulfill a request you may make or for us to otherwise operate the Service, it may be necessary for SI Play to share your information with a vendor or other third party. In those instances, any third party that has access to your information will be required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for SI Play.
 
-**Customize and Improve the Services** : We may use the System Data that we collect to improve the design, features and content of our Services, to analyze Service usage, and to enable us to customize your experience while using the Services.
+* ### HOW WE USE YOUR INFORMATION
 
-**Required by Law or to Otherwise Protect our Rights** : We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request. Further, to the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of SI Play, our agents, affiliates, parent company, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
+Depending on the NBCUniversal Service you use, we, or our service providers, may use your information to:
 
-**In Connection with a Merger or Sale of Assets** : Additionally, please note that if SI Play or any of our subsidiaries or lines of business are merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested, or otherwise disclosed as part of that transaction or proceeding.
+##### Provide the NBCUniversal Service including
 
-#### Collection of Information by Third-Party Sites and Sponsors
+  * responding to your requests or inquiries;
 
-**Information Collected by Third Parties** : Our Services may contain links to other sites whose information practices may be different than ours. SI Play also allows you to connect with other sites and services in order to share content and information. You should consult the other sites' and services' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties or their use of your information. Any information that you provide to a third party through the Service, e.g., if you make a payment for a service through Apple’s app store, that third party’s use of your information is not covered by this privacy policy. Further, any technologies, e.g., cookies that are placed or used by third parties on the Services are also outside the scope of this Privacy Policy. Such information and practices will be subject to the privacy policies and practices of the applicable third party.
+  * providing technical support;
 
-**Sponsored Pages or Promotions** : SI Play may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the SI Play and the third parties. SI Play has no control over the third parties' use of this information.
+  * sending you service-related communications, including announcements and administrative messages;
 
-**Advertisements** : SI Play may use reputable third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the web pages and to conduct research about the advertisements. This Privacy Policy does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). 
+  * displaying certain content, such as content you upload and make available, comments, and game statistics and rankings;
 
-#### Our Commitment to Security
+  * generating suggestions on the type of video you might enjoy;
 
-We have put in place appropriate administrative, technical, and physical safeguards to help prevent unauthorized access, maintain data security and correctly use the information we collect. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen.
+  * understanding how you use the NBCUniversal services so we can improve them;
 
-#### Cookies
+  * processing your entries into sweepstakes, contests or promotions.
 
-**Generally** : We (or our analytic or service partners) may place "cookies" on your computer or device. Cookies are small text files that we place in your computer or device to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personal information unless you choose to provide this information to us by, for example, registering with one of our Services. Once you choose to provide us with personal information, this information may be linked to the data stored in the cookie. A cookie assigns a unique numerical identifier to your Web browser or device, and may enable us to recognize you as the same user who has used our Services, and relate your use of the Services to other information about you, such as your usage information and personal information.
 
-We use cookies (and Local Shared Objects, HTML5, cache cookies, web beacons, or clear gifs, all described further below) to understand usage of the Services and to improve our content and offerings and to deliver advertisements that you might be interested in. For example, we may use cookies to personalize your experience on our Services (e.g., to recognize you by name when you return to our site, to save your password in password-protected areas, to enable shopping carts, or to tailor content or product and service offerings).
 
-Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you have refused cookies or similar tracking technologies and you should be aware that disabling cookies or similar tracking technologies might prevent you from accessing some of our content. However, your viewing of editorial content may be hampered. If you wish to block cookies, go to <http://www.allaboutcookies.org/> to find out how, or check your browser’s instructions.
 
-_Local Shared Objects_ : Local Shared Objects: Local shared objects, such as .Flash cookies,. also may be stored on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, see <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
+##### Personalize your experience including
 
-_HTML 5_ : HTML5, the language some Web sites are coded in, may be used to store information on your computer or device about your Service usage activities. This information may be retrieved by us to help us manage our Services, such as by giving us information about how our Services are being used by our visitors, how they can be improved, and to customize them for our users.
+  * providing you with advertising based on your activities and interests;
 
-_Cache Cookies_ : Cache cookies, such as eTags, may be used to identify your computer or device as the same computer or device that visited a Service or Services in the past.
+  * creating and updating audience segments that can be used for targeted advertising and marketing on the NBCUniversal services, television, third party services and platforms, mobile apps and/or websites, and offline;
 
-_Web Beacons_ : Our websites may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. A web beacon is an electronic image called a single-pixel or clear GIF. Web beacons can recognize certain types of information, such as a user's cookie number, time and date of a page view, and description of the page where the web beacon is placed. These web beacons may be used to deliver cookies that conform to our cookie policy above.
+  * creating profiles about you, including adding information we obtain from third parties, which may be used for analytics, marketing and advertising;
 
-These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Service usage information to other information about you, including your personal information. We may match information collected from you through different means or at different times, including both personal information and Service usage information, and use such information along with offline and online information obtained from other sources (including third parties) such as demographic information and updated contact information (where that information has been lawfully disclosed to us) for the purposes of learning more about you so we can provide you with relevant content.
+  * sending you newsletters, surveys and information about products, services and promotions offered by NBCUniversal, our partners, and other organizations with which we work.
 
-back to top
 
-#### Your California Privacy Rights: Notice to California Customers
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. Note: SI Play sites do not recognize the “do not track signals” that some browsers may employ. To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below
 
-#### Accessing, Correcting, and Deleting Your Personal Information
+##### Recognize your devices and associate the information with your profile including
 
-**Managing your Information** : We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates. We encourage you to review, update, and correct the personal information that we maintain about you, and you may make modifications to certain personal information through the Services themselves or you may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirements, by contacting us as set out in the "How to Contact Us" section below. At our election, instead of deleting such information, we may retain it with your comment or correction noted in our records. By contacting us, you may also object to our further use of your personal information if you have compelling legitimate grounds (this may involve closing your account). We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to review, update, correct, and delete your personal information may be limited, subject to the law or your jurisdiction: (i) if your requests are abusive or unreasonably excessive, (ii) where the rights or safety of another person or persons would be encroached upon, or (iii) if the information or material you request relates to existing or anticipated legal proceedings between you and us, or providing access to you would prejudice negotiations between us or an investigation of possible unlawful activity. Your right to review, update, correct and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
+  * using data collected or received from NBCUniversal Affiliates, service providers, advertisers, and other third parties, such as your device information, to match mobile advertising and cookie identifiers;
 
-**Retention of Personal Information** : We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity. Your rights to request that we delete your personal information are set forth in accordance with the **"Managing Your Information"** section above. 
+  * matching your devices if you log into the same online service on multiple devices or web browsers or if your devices share similar attributes that support an inference that they are used by the same user or household;
 
-**Opt-out** : If you receive an email from SI Play, you may choose to stop receiving further emails from SI Play by following the unsubscribe instructions included in the email, accessing the email preferences in your account settings, or by sending a request to privacy@siplay.com.
+  * using this information to match your interests across devices, as well as for analytics, ad serving or reporting, or to improve the services;
 
-#### Changes to this Privacy Policy
+  * identifying you or your device or associated information with you, your device, or your profile whenever you visit the NBCUniversal Service, even if you do so when logged out or without intentionally identifying yourself.
 
-This Privacy Policy may be changed by SI Play. The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
 
-#### How to Contact Us
 
-If you have any questions or concerns about the Privacy Policy or its implementation please contact us via email by [clicking here](mailto:privacy@siplay.com) or by writing to:
 
-Sports Illustrated Play  
-18 Division St. Suite 414  
-Saratoga Springs, NY, 12866
+##### Provide Services for our Parks & Resorts
 
-back to top
+  * such as ticketing and payment services, mapping guidance, offers, and ride and gaming features.
 
-This Privacy Policy was revised November 22, 2016.
+
+
+
+##### Prevent fraud and defend our legal rights
+
+  * protecting the safety of our users and others;
+
+  * enforcing our terms of service;
+
+  * preventing fraud or any other potentially illegal activities.
+
+
+
+
+We may combine all the information we collect from or receive about you for any of the foregoing purposes. Please see Your Rights and Choices section for further information.
+
+We may aggregate or de-identify your information and may use, share, rent or sell aggregated or de-identified information for any purpose and such information is not subject to this Privacy Policy.
+
+* ### HOW WE SHARE YOUR INFORMATION
+
+We may share your information with:
+
+  * **Related Companies:** NBCUniversal Affiliates, as well as our parent company Comcast Corporation and its affiliate, Comcast Cable, to help better tailor services, products, marketing, and advertising to you.
+
+  * **Service providers that perform certain business-related functions on our behalf:** including research and analytics, website hosting, transaction fulfillment, payment, processing database maintenance, contest, sweepstakes and promotion administration, fraud prevention, technology services and platforms, identity management and acquisition and conversion services.
+
+  * **Advertisers, Advertising Networks, and Other Third Parties:** information about how you use the NBCUniversal Services and interact with content or ads to better tailor services, products, marketing and advertising on our service or on third party platforms. These third parties may use their own tracking technologies/cookies to collect or request information about you including through surveys. See our [Cookies and Tracking Technologies Policy for information](https://www.nbcuniversal.com/privacy/cookies).
+
+  * **Hashed/Masked Information.** We may share information about you along with a hashed or masked identifier, with third parties so they may better personalize your experience with them and the offers they send you.
+
+  * **Social Networks:** certain features in our NBCUniversal Services may be published to your social networks. For example, if you click on a Facebook “like” button on an NBCUniversal Service, the “like” may appear on your Facebook account. To control this sharing of information, please review the relevant social network’s privacy policy.
+
+  * **Other Users and Search Engines:** depending on the NBCUniversal Service, you may provide certain information including your name, photo, and other information to create an account (“Account Profile”). Some information in your Account Profile may be available publicly to other members of that service, or the general public, and may be searchable by search engines. When we display your user submissions, they will be identified by information in your Account Profile. We may distribute user submissions to third parties, and if we do, we may include any information in your Account Profile or submissions.
+
+  * **Research and Measurement Companies:** we share information about content you view on the NBCUniversal Services with video measurement services such as Nielsen TV Ratings, as well as other analytics providers. See Your Rights and Choices section for more information.
+
+  * **Law Enforcement Agencies, Regulators, Content Protection Organizations, Anti-fraud Coalitions and other groups to:**
+
+    * protect our legal rights, privacy or safety, and that of NBCUniversal Affiliates, our employees, agents, contractors, or other individuals;
+
+    * protect the safety and security of visitors to the NBCUniversal Services or other properties;
+
+    * protect against fraud or other illegal activity or for risk management purposes;
+
+    * respond to inquiries or requests from government, regulatory, law enforcement, or public authorities;
+
+    * permit us to pursue available remedies, commence, participate in, or defend litigation, or limit the damages that we may sustain;
+
+    * comply with the law including with subpoenas, search warrants, court orders, and other legal process; or
+
+    * enforce applicable terms of service.
+
+
+
+
+##### Video Viewing Behavior
+
+With your appropriate consent, and consistent with applicable law, we may share your video viewing behavior with third parties including advertising companies, analytic partners, and social media sites.
+
+##### Sale or Transfer of all or Part of our Business or Assets
+
+In the event that NBCUniversal or any NBCUniversal Affiliate is involved in a merger, acquisition, transfer of control, bankruptcy, reorganization or sale of assets, or diligence associated with such matters, we may sell or transfer the information described in this Privacy Policy as part of that transaction.
+
+* ### CHILDREN
+
+Most of the NBCUniversal Services are intended for users of all ages. Information about NBCUniversal Services directed to children under the age of 13 or where we have actual knowledge a child is under the age of 13 can be found in our [Children’s Privacy Policy](https://www.nbcuniversal.com/privacy/Children). If you are a parent or guardian and believe your child under 13 has provided us with personal information without consent, please contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com.).
+
+##### Minors Under 18
+
+Minors under 18 years old, or their parents, may request the removal of information that they posted to NBCUniversal sites by contacting [privacy@nbcuni.com](mailto:privacy@nbcuni.com). Upon such request, NBCUniversal will anonymize, or remove any content posted by a minor, unless required by law to retain such content or information.
+
+##### Schools
+
+Schools and other organizations that are covered by state student privacy laws will be able to control the collection and processing of student data when they create and utilize certain solutions we make available to them, such as sports team management solutions.
+
+* ### YOUR RIGHTS AND CHOICES
+
+##### Communication Preferences and Opt-outs
+
+You may unsubscribe from our email newsletters or promotional emails by following the opt-out instructions contained in the email. You cannot unsubscribe from service-related, transactional, or emails related to your NBCUniversal Service.
+
+##### Cookies and Similar Technologies
+
+We, and our service providers, advertisers, and other partners, use cookies and similar technologies (e.g., web beacons, pixels, ad tags and device identifiers) to recognize you and/or your device(s) on, off and across different NBCUniversal Services and devices. For more information about the use of cookies on the NBCUniversal Services (including your opt-out choices) please see the [Cookies and Tracking Technologies Policy](https://www.nbcuniversal.com/privacy/cookies).
+
+Our Cookies and Tracking Technologies policy provides certain opt-out choices. However, we may still allow collect usage data for certain other purposes (e.g., contextual advertising, research, analytics, and internal operations).
+
+##### Mobile Apps
+
+For information about Mobile Apps, including how to opt out of targeted advertising, video measurement and certain analytics, please visit [here](https://www.nbcuniversal.com/privacy/mobile-apps).
+
+##### Access, Correction and Deletion
+
+Depending on the NBCUniversal Service you use you may be able to access and correct certain information through the features provided by the service. In addition, where legally required, we will provide users with access to their information and the ability to review, update, correct, and/or delete it. We will take reasonable steps to verify your identity, such as requiring a password and user ID, and possibly photo ID before granting access to your information. For more information please contact [privacy@nbcuni.com](mailto:privacy@nbcuni.com.).
+
+##### Opt-out of Measurement Research by Nielsen
+
+NBCUniversal video services may feature Nielsen proprietary measurement software that will allow you to contribute to market research, like Nielsen’s TV Ratings.
+
+To learn more about Nielsen digital measurement products and your choices in regard to them, please visit <http://www.nielsen.com/digitalprivacy> for more information.
+
+##### Other Online Services
+
+NBCUniversal Services may contain links to third party websites and services. These other sites (even if branded as NBCUniversal) may collect information about you when you visit them and use this information in accordance with their own privacy policies and terms of use. We do not endorse or control those third parties’ policies or practices. In some circumstances, NBCUniversal may host some websites on behalf of others and those entities may place or permit the placement of cookies and other tracking technology. NBCUniversal is not responsible for these tracking practices.
+
+* ### LOCATION OF YOUR INFORMATION
+
+NBCUniversal is headquartered in the United States and may from time to time transfer your information to other countries and make it accessible to other NBCUniversal Affiliates and service providers and advertisers regardless of where they are located. We will take steps to ensure that your information receives an appropriate level of protection.
+
+* ### HOW WE PROTECT YOUR INFORMATION
+
+We maintain procedural, technical, and physical safeguards for the NBCUniversal Services to help protect against loss, misuse or unauthorized access, disclosure, alteration, or destruction of the information you provide via the NBCUniversal Services. These safeguards vary depending upon the sensitivity of the information we collect and store. Please be aware that no security solutions are infallible.
+
+* ### IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS
+
+If you are a resident of California, you can request a list of all the third parties to which we have disclosed certain personal information (as defined by California law) during the preceding year for those third parties’ direct marketing purposes. California residents may contact us at Chief Privacy Officer, NBCUniversal Legal Department, 30 Rockefeller Plaza, New York, NY 10112, US. Include the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. In the body of your request, please provide sufficient information for us to determine if this applies to you. You need to attest to the fact that you are a California resident and provide a current California address for our response. We will not accept requests by telephone, email, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+
+* ### UPDATES TO OUR PRIVACY POLICY
+
+If we make material changes to the way we collect or use your information, we will notify you by posting a revised version of this Privacy Policy online, and we may also notify you by other means. You should check the NBCUniversal Services periodically for updates.
+
+The date at the top of the Privacy Policy tells you when it was last updated. Any changes to this Privacy Policy will become effective when the revised Privacy Policy is posted. If you use this online service after the changes are posted, you have agreed the changes. If you do not agree with this Privacy Policy or any changes we make, please do not continue to use the NBCUniversal Services.
+
+* ### CONTACT US
+
+For any questions or complaints about this Privacy Policy or our privacy practices, please contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com) or Chief Privacy Officer, NBCUniversal Legal Department, 30 Rockefeller Plaza, New York, NY 10112, US.
+
+**This privacy policy was last modified on May 25, 2018.**
