@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowowow.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309220357id_/https%3A//d3d127vhjgkwcw.cloudfront.net/sales/PureWow_Privacy_Policy_libreoffice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowowow.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225014915id_/https%3A//d3d127vhjgkwcw.cloudfront.net/sales/PureWow_Privacy_Policy_libreoffice.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICYThis policy was last modified on June 7, 2018.
 
