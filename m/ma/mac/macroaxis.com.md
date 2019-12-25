@@ -1,20 +1,15 @@
-> *The following text is extracted and transformed from the macroaxis.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220556id_/https%3A//www.macroaxis.com/invest/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macroaxis.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225221303id_/http%3A//www.macroaxis.com/invest/privacyPolicy) for the most accurate reproduction.*
 
 # Macroaxis Privacy Policy Documents
 
   * [About Us](https://web.archive.org/invest/companyInfo)
   * [Contact Us](https://web.archive.org/invest/pitchletHowToGet)
-  * [Credits](https://web.archive.org/invest/credits)
   * [Terms of Use](https://web.archive.org/invest/termsOfUseInfo)
-  * [Privacy Policy](https://web.archive.org/invest/privacyPolicy)
-  * [Product Tour](https://web.archive.org/invest/tour)
-  * [FAQs](https://web.archive.org/invest/faq)
-  * [Advertising](https://web.archive.org/invest/advertisingInfo)
   * [Settings](https://web.archive.org/invest/country)
 
 
 
-Our goal is to make Macroaxis the most trusted site in investment management. To do this, we need your help and any suggestions for improvement hits can be sent to us directly via our [feedback form](https://web.archive.org/invest/pitchletHowToGet). We help investors to manage and understand their investments; but we don't ask and store any information about your brokerage account. We provide simple tools to help you import and export your portfolios so that you can easily create and manage your accounts. **By using any of the Services, you consent to the terms of this Policy**. 
+Our goal is to make Macroaxis the most trusted site in investment management. To do this, we need your help and any suggestions for improvement hits can be sent to us directly via our [feedback form](https://web.archive.org/invest/pitchletHowToGet). We help investors to manage and understand their investments; but we don't ask and store any information about your brokerage account. We provide simple tools to help you import and export your portfolios so that you can easily create and manage your accounts. By using any of the Services, you consent to the terms of this Policy. 
 
 Policy Effective Date: May 25th 2018
 
@@ -38,6 +33,10 @@ Organization| 36 months after last login or upon request
 When you choose to register with us, Macroaxis logs you in automatically using your email address. This makes it easier for you as you don't have to create and remember a login identifier. The use of your email address for login also allows Macroaxis the chance to email you a new password in case you forget or lost your old one. 
 
 Macroaxis gives you the option of receiving emails from us. We'll keep you in loop about new features available on our service. We notify our users only for big release so you will not get more than 1 email in every quarter. If you like, you can opt out any time. Our emails are sent from a Macroaxis address and are sent to your real email address. Every email that we send has an instruction how to opt out from our notifications, so you can be unsubscribed when you want. We do hate spam and suspect that you do too. 
+
+## Investment Accounts and Brokerage Aggregation
+
+Macroaxis may use Plaid Technologies, Inc. ('Plaid') to verify your investment account and confirm your portfolio positions and balance prior to approving an import. Macroaxis only shares your information with Plaid in accordance with this Privacy Policy. Information shared with Plaid is treated by Plaid in accordance with its Privacy Policy, available at [https://plaid.com/legal/](https://plaid.com/legal/#end-user-privacy-policy "Plaid Privacy Policy"). 
 
 ## Absolutely No Sharing
 
