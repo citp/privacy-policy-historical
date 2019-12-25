@@ -1,55 +1,184 @@
-> *The following text is extracted and transformed from the terracotta.org privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001151329id_/http%3A//terracotta.org/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terracotta.org privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225035941id_/http%3A//www.softwareag.com/corporate/privacy.asp) for the most accurate reproduction.*
 
-# Legal Copyright & Privacy | Terracotta
+# Software AG Privacy Policy: Nature, Scope and Purpose of Data Collection
 
-### Copyright Notice & Privacy Policy
+_Effective: May 24th, 2018   _
 
-#### All contents copyright Terracotta, Inc. All rights reserved.
+SAG Deutschland GmbH (Uhlandstraße 9, 64297 Darmstadt, Deutschland) in its role as data controller appreciates your visit on our websites and is grateful for your interest in our company, our products and our services. The protection of your privacy and personal data is an important matter for us. To ensure a high level of transparency and security, our privacy statement as set forth below will inform you about the nature, scope and purpose of any collection, use and processing of personal data recorded by us.
 
-"Terracotta" and the "Terracotta" insignia, as well as all other distinct logos and graphic symbols signifying Terracotta on this web site are trademarks of Terracotta, Inc. All other trademarks referenced are those of their respective owners.
+Be aware that our [Cloud offering](https://web.archive.org/corporate/cloud_privacy_policy "Privacy Policy - Cloud"), the [ARIS Community](http://www.ariscommunity.com/terms-of-use#policy "ARIS Community") and the [E-Recruiting](https://web.archive.org/corporate/privacy_policy_e-recruiting_201404 "Privacy Policy - HR Recruiting") have separate privacy statements.   
 
-##### Privacy Policy
+**1\. External Links**
 
-This Privacy Policy explains our practices with respect to our use and collection of personally-identifiable information that we collect from you (a) in the course of your use of the Terracotta web site accessible at URL [http://www.terracotta.org](http://www.terracotta.org/) (the "Site"); (b) during any registration process that may be required for Terracotta software access. Please note that this Privacy Statement is limited only to your browsing and operation of the Site, and to your registration.
+Our websites also reference and include links to third-party websites. As a rule, these are identified by stating the respective third-party Internet address or the company/product logo. Software AG has no influence whatsoever on the contents and design of websites of other providers. By referencing/linking these external websites we do not adopt their contents as our own.
 
-From time to time, we may amend our Privacy Statement by posting a revised statement at this URL. If we amend our Privacy Statement in a manner that materially alters our treatment of your personally-identifiable information, we will make reasonable efforts to notify you through the e-mail address you submit to us, so that you will have an opportunity to learn about our new privacy practices.
+ **2\. Cookies**
 
-We last updated this Privacy Statement on August 12, 2008.
+Information about our usage of cookies, especially for marketing purposes, can be found in our [Cookie Policy](https://web.archive.org/corporate/privacy_policy_cookies "Privacy Policy - Accordion").
 
-**Personal Information.** We use the term "Personal Information" to refer to information that would permit someone to identify or contact you, such as your full name, address, telephone number, or e-mail address. Personal Information does not include anonymous, aggregated information that, by itself, does not permit the identification of individual persons. For example, statistics about the use of the Site (such as the number of visitors to our site last month) are not Personal Information.
+ **3\. Categories of Personal Data that we process**
 
-**Browsing Our Web site: What We Collect and How We Use It.** While you browse the Site, we may collect two types of information from you: (a) "Subscription Information," which you volunteer to us by completing and submitting a subscription form field built into our Web pages; and (b) "Other Information," which is collected automatically as you browse the Site, and which under some circumstances may be personally-identifiable.
+Personal data refers to any information relating to an identified or identifiable natural person. Software AG processes the following personal data, if you actively provide this information to us:
 
-**Subscription Information.** Throughout the Site, there are several form fields that you may use to subscribe to specific programs offered by Terracotta, including mailing lists and other forms of periodic electronic communications. These form fields may include our "Partner Signup" and "Events Signup" forms. Completing one of these forms generally involves the submission of an e-mail address and the selection of a subscription option. We may use this e-mail address to send you further communications about the program that you selected.
+  * first name, last name, date of birth, email address, country, job title, phone number, fax number, company name, used products of Software AG and additional information that you provide when contacting us using our websites, especially information provided in free text fields of contact forms ("contact data");
+  * additional data that you provide to Software AG in comments on the Software AG websites, especially in forms of discussion boards and using the comment features of blogs ("comment data");
+  * additional data that you provide to Software AG while applying for a job, e.g. your CV, certificates, attestations, etc. ("job application data");
+  * email address, phone number, name, company name and country provided when subscribing to a newsletter or other marketing information of Software AG ("direct marketing data") (see section 7).
 
-**Other Information.** When you browse the Site, our servers may automatically collect certain information about you and your use of the Site, which we use to perform statistical analyses of the frequency and sources of page requests. This merely enables us to better understand who is using the Site, how it is being used, and allows us both to maintain the operation of the Site and to create improvements. Ordinarily, most of this information is not personally-identifiable, but under certain circumstances it might be combined with, or linked to, your personally-identifiable information. While so combined or linked, this Other Information will be considered to be Personal Information.
 
-**Browsing Information.** Our servers automatically collect the following information about your Web browsing session: (a) the unique Uniform Resource Locator (URL) of each Web page that you request; (b) the date and time of each page request; (c) the HTTP response code of the page request; and (d) the IP address from which each Web page request was made. An IP address is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP address stays the same from browser session to browser session, but if you use a consumer dial-up Internet access provider, your IP address probably varies from session to session.
 
-**Cookies.** Cookies are small pieces of information stored on your own hard drive, not on our Site. They are used by our servers to maintain your user session, the purpose of which is to provide you with access to certain areas of the Site that are available only to authenticated users. You are always free to decline our cookies if your browser permits you to do so, but if you do, those restricted areas of the Site will be unavailable to you and certain other portions of the Site may not work properly.
+Besides that we also process the following personal data, which is passively collected:
 
-**Registering with Us: What We Collect and How We Use It.** After you download and install software from us, registration forms may appear as part of the setup process. When you register, you are presented with a registration form that you must complete and submit to us in order to receive access. We refer to the information that you volunteer as part of this registration form as "Customer Registration," which may include your real name, your company and title, a company Web site URL, a mailing address, an e-mail address, a telephone number, and a user name and password. From time to time we may modify our registration form to add or delete certain information; you will be able to tell exactly what we collect by accessing the latest version of the registration form.
+  * personal data sent by your web browser, i.e. information about your type of web browser, your operating system and selected settings (e.g. language, region, font size, font types and other configuration) may be collected ("browser data");
+  * your IP address, information about the amount of data transferred, stored in access log files ("usage data").
 
-We use the Registration Information for several purposes:
 
-(1) to identify you and grant you access to certain parts of the Site, which will allow you to download certain Terracotta Software;
 
-(2) to take reasonable measures to prevent the Terracotta Software from being downloaded to destinations restricted under U.S. export control law;
+ **4\. Purposes and Lawfulness of the Data Processing**
 
-(3) to evaluate your interests and allow our sales and marketing representatives to communicate with you through a variety of means, which may include e-mail, direct mail, and telephone calls about Terracotta products, services, and other items likely to be of interest to you, or to solicit feedback about our products and services from you; and
+Software AG collects, processes, and uses your personal data to the extent required to fulfill the respective purposes.
 
-(4) to improve our products and services by better understanding our customers.
+The purposes for processing your contact data, comment data and job application data are: Providing services that you make use of using the Software AG websites. These are amongst others: downloads, discussion boards, job applications, individual requests (e.g. using a contact form), blogs, and the registration for courses or other offerings of Software AG. The lawfulness for the data processing is the performance of a contract or steps prior to entering into a contract. Using this personal data is required to provide the contractual obligations. Without this personal data you would not be able to receive the services offered by Software AG.
 
-**Third Parties.** We will not knowingly sell lists of your Personal Information to third parties for their marketing purposes. However, under certain circumstances we may share your Personal Information with third parties. We may grant access to your Personal Information to our independent contractors to the extent necessary for them to maintain, enhance, or add to the functionality of the Site, our application software, or our other services. Although Terracotta currently does not have a parent company, any subsidiaries, joint ventures, or other companies under common control (collectively, "corporate affiliates"), it may have corporate affiliates in the future. Terracotta may share your Personal Information with its corporate affiliates. If Terracotta is acquired by another company, that company will possess the Personal Information collected by Terracotta and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Statement. Finally, we may share your Personal Information with certain of our strategic business partners that we believe may offer solutions beneficial to the Terracotta user community. When we do share such Personal Information with those selected strategic business partners, those business partners will be obligated to honor this Privacy Statement.
+In so far that you have given the consent, Software AG will also use your personal data for marketing purposes, e.g. to send newsletters (see section 7). The lawfulness for processing this data is our legitimate interest, e.g. to improve our services, or your consent.
 
-Please note that we cannot fully ensure that your Personal Information will not be disclosed to third parties in other situations. For example, we may be legally obligated to disclose information to the government or other third parties under certain circumstances, or third parties may circumvent our security measures to unlawfully access data on our servers. Additionally, in the unlikely event that we need to investigate or resolve possible problems or inquiries, we can, and you expressly authorize us to, disclose any information about you to law enforcement or other government officials as we believe necessary.
+In so far that you have given the consent, we will also use your browser data for market research and the improvement of our websites and services, and to improve your user experience. The lawfulness for processing this data is your consent or our legitimate interest.
 
-**Exercising Choice.** When you sign up through a subscription form field or register with us, you agree to receive communications relating to the Terracotta products and services from us. If you later decide that you do not wish to receive further communications from us, you may contact us to be removed from our lists. To be removed from our electronic or direct mail subscription lists, send an e-mail to unsubscribe@terracotta.org, specifying in your e-mail whether you wish to stop (a) electronic communications; (b) direct mail communications; or (c) both.
+In so far that you have given the consent, we will also collect your usage data for statistical purposes, for the analysis of advertisement on our websites, and for adapting the advertisement for our products and services to better match your interests. Log files are only used for statistical analysis of the visitors of the Software AG websites. The data is deleted after having been analyzed. The lawfulness for processing this data for statistical purposes is our legitimate interest, e.g. internal organization, or your consent.
 
-We will use reasonable efforts to comply with your request within five (5) business days after receiving your communication. Even after you have been removed from our subscription lists, however, we may contact you for non-marketing purposes related to your use of the Terracotta products and services, such as for technical reasons or to solicit feedback.
+Providing the direct marketing data and browser data is optional. If you do now provide this data, you will not receive any direct marketing information from us and your data will not be used to improve your user experience and will not be used for statistical purposes.
 
-**Updating Your Subscription Information.** If you wish to update your contact information on one of our subscription lists, you may send an e-mail to changeaddress@terracotta.org.
+We will also use your usage data for internal system-specific purposes to secure the websites and IT systems from malicious attacks by third parties. The lawfulness is a balancing of interests of the conflicting interests of the security of the IT systems on our part and your potentially conflicting interests in a non-processing of the usage data by us. Taking into account the security and organizational measures of the processing of the usage data by Software AG, we consider your rights and interests appropriately taken into account and protected.
 
-**What We Do to Secure Your Information.** We store data on servers located behind our firewall, in order to protect against the unauthorized access to or compromise of information contained on our servers, such as your Personal Information. However, you should know that in the present technological environment, no security measures are perfect, and that neither we nor any other Internet site can fully eliminate these security risks.
+Beyond these purposes, we use and process your data only if you have expressly granted your prior consent thereto and if you have been informed about such purposes. For example, you may stipulate in an online job application whether we may also review such application with respect to other positions in our company. Only if this is the case, we will use such data for the respective purpose.
 
-**Further Questions?** Our mailing address is 180 Montgomery St., Suite 1675; San Francisco, California 94104; USA. We may be reached by telephone at 415.738.4000. If you have any questions about this Privacy Statement or the data privacy practices described in it, please feel free to contact us at privacy@terracotta.org or at the address or telephone number listed above.
+In particular, Software AG does not use your personal data for automated individual decisions and profiling.
+
+ **5\. Data recipients**
+
+Your personal data will be processed by persons of Software AG in the respective departments who need to know the personal data.
+
+  * contact data: any departments that might be involved to process your request
+  * comment data: marketing or the respective product departments that are responsible for operating the blogs or discussion boards
+  * job application data: HR and the departments that are responsible for the job position that you apply to
+  * direct marketing data: marketing and sales departments responsible for your region
+  * browser data and usage data: marketing and the IT departments that are responsible for operating the respective websites
+
+
+
+Software AG has contracted external data processing service providers to collect, process, or use personal data on behalf and according to the instructions of Software AG. Such service providers support Software AG, especially relating to hosting and operating the websites and blogs, marketing purposes, statistical analysis, improving the websites and sending our email newsletters. If these external companies have access to personal data, respective data processing agreements are in place.
+
+These service providers may be located outside the European Union or the European Economic Area (see section 6).
+
+Software AG is a globally operating corporation. In order to better process your matter, it might be necessary to forward your data to local subsidiaries or to local distribution partners, whose registered office might also be located in countries outside the European Union (see section 6). However, such data transfers only take place within the Software AG group companies listed in [Annex 1](https://web.archive.org/web/20191225035942id_/https://www.softwareag.com/corporate/privacy#a1) and only for the aforementioned purposes. The lawfulness of the data export is our legitimate interest or legitimate interests of the recipients, e.g. internal administrative purposes, and no higher legitimate interests on your part, the fulfillment of legal obligations or your consent.
+
+Beyond that, we do not forward your data to other third parties, unless we are obliged to do so by virtue of statutory provisions or order of any judicial or other public authorities or you have explicitly given your consent for that purpose. In particular, your personal data will not be sold, leased or exchanged.
+
+ **6\. Data Transfers to Third Countries**
+
+The recipients of your personal data might be located outside the European Union or the European Economic Area and therefore might not have a data protection equivalent to EU data protection law.
+
+Unless there is an adequacy decision by the EU Commission for these states or the transfer is based on an exemption provided for by the GDPR (e.g. express consent, assertion, exercise or defense of legal rights), we take all necessary measures to ensure that transfers to such organizations are adequately protected, e.g. by signing the standard contractual clauses stipulated by the EU Commission with the data recipients. You may request a copy of these reasonable warranties by contacting our Data Protection Department at: dataprotection (at) softwareag.com
+
+A transfer of data to official authorities in countries outside the European Union or the European Economic Area (so-called third countries) takes place, if required by law, you have given us your express consent or this is legitimated by the legitimate interest of us or the third party for data protection purposes, e.g. internal administrative purposes and no higher legitimate interests on your part.
+
+ **7\. Information sent by Email**
+
+Provided that you have given Software AG your email address for communication or direct marketing purposes and consented to the receipt of advertising and newsletters, we will process this personal data in order to communicate with you on the basis of your interests or to send you advertising. The legal basis for the processing of personal data for direct marketing purposes is your consent or our legitimate interest in direct mail communication. You can revoke your consent at any time and object to processing for direct marketing purposes at any time (see section 12).
+
+Providing your email address or telephone number for direct marketing purposes is voluntary. If you do not provide these to us, you will not receive any advertising from us.
+
+ **8\. Participation in Discussion Boards and Blogs**
+
+On our websites, we offer you the opportunity to participate in discussion boards and blogs. In order to use them, it may be necessary to enter certain personal information (email address, first name and last name, company name and country) to enable us to identify and, where appropriate, comply with the obligation to retroactively identify authors of illegal content. The details of this personal data are voluntary for you. Please note that you may not be able to use discussion boards and blogs if you do not want to provide your personal information. This is associated with no further disadvantages.
+
+When participating in the discussion boards of the _TECHcommunity_ your personal data is not disclosed to other participants unless you have consented thereto in your user profile. In this context, our [Discussion Board Guidelines](http://techcommunity.softwareag.com/ecosystem/communities/public/contents/common/forums-guidelines/ "Software AG Community Guidelines") including the [Terms of Use](http://techcommunity.softwareag.com/ecosystem/communities/public/contents/common/terms/ "Software AG Community Terms of Use") apply when registering for the _TECHcommunity_.
+
+The Software AG blog _Beyond B2B – Digital Reality Check_ is based on technology by HubSpot, Inc.; 25 First St, 2nd Floor, Cambridge, MA 02141, USA. HubSpot is certified based on the EU-U.S. Privacy Shield Framework and the U.S.-Swiss Safe Harbor Framework. More details about privacy provisions of HubSpot and about their privacy certifications can be found [here](https://legal.hubspot.com/privacy-policy "Hubspot Privacy").
+
+ **9\. Data Protection for Minors**
+
+The offers and services on this website are not directed at children. We therefore assume that we will not become aware of any personal data pertaining to children.
+
+ **10\. Technical and Organizational Data Protection**
+
+Software AG implements the technical and organizational measures that are commercially reasonable in relation to the respective purpose of data protection, in order to protect the information provided by you against abuse and loss. Such data is stored in a secure operating environment that is not accessible to the public. In addition, each of our employees is instructed on data protection and obliged to enter into a confidentiality agreement.
+
+ **11\. Retention Periods**
+
+Your personal data will be kept by us as long as necessary to provide you with the requested service. If Software AG no longer needs your personal data to comply with contractual or legal obligations, they will be deleted from our systems or anonymized accordingly, so that identification is not possible, unless Software AG has to keep the information, including your personal data, to comply with legal or regulatory obligations (e.g. statutory retention periods which may arise from the commercial laws or tax laws and may in principle be 6 to 10 years or, if during the statutory limitation periods, which are regularly 3 years, but may be up to 30 years, evidence must be secured).
+
+ **12\. Data Subject Rights**
+
+Under applicable law, you have the right under certain circumstances to (i) request information about your stored personal data, (ii) rectification of your personal data, (iii) restriction of processing of your personal data, (iv) deletion of your personal data, (v) data portability, (vi) revocation of your consent for processing of your personal data and (vii) object to the processing of your personal data. Further information on the individual rights can be found in [Annex 2](https://web.archive.org/web/20191225035942id_/https://www.softwareag.com/corporate/privacy#a2) to this Privacy Statement.
+
+To exercise these rights, please contact our Data Protection Department at: dataprotection (at) softwareag.com 
+
+You also have the right to file a complaint with a data protection supervisory authority.
+
+Please feel free to direct any questions, comments, or complaints regarding this privacy statement or the privacy practices of Software AG to our Data Protection Officer:
+
+Software AG 
+
+Data Protection Officer   
+Uhlandstraße 12   
+64297 Darmstadt   
+Germany   
+Email: dataprotection (at) softwareag.com
+
+  
+You can send encrypted emails using S/MIME:   
+
+
+  * [X.509 certificate](https://web.archive.org/corporate/images/dataprotection_tcm389-162152.zip "Privacy Policy - Certificate Heiko Weber .zip_dataprotection.cer") (zip file, contains dataprotection.cer)   
+
+  * [Software AG root certificate](https://web.archive.org/corporate/images/SoftwareAGInternalCa2_tcm389-162153.zip "Privacy Policy - Certificate Software AG Root .zip_SoftwareAGInternalCa2.ce") (zip file, contains SoftwareAGInternalCa2.cer).
+
+
+
+## Annex 1: Data Recipients of the Software AG Group in Third Countries
+
+The following organizations in third countries, which are affiliates of Software AG, could get access to your personal data in certain cases. It has been ensured that these organizations provide an adequate level of data protection according to the General Data Protection Regulation (GDPR) and the standard contractual clauses stipulated by the EU Commission are in place.
+
+  
+Country|  | Name|  | Address  
+---|---|---|---|---  
+Australia|  | Software AG Australia Pty Ltd.|  | 201 Miller Street, Level 16 North Sydney, NSW 2060  
+Australia|  | Software AG Cloud APJ PTY Ltd.|  | Level 16, 201 Miller Street, North Sydney, NSW 2060  
+Bahrain|  | Software AG (Gulf) S.P.C.|  | Office No. 31, 3rd Floor, Building No. 1269, Road No. 3227, Block 332 Manama  
+Brazil|  | Software AG Brasil Informatica e Serviços Ltda|  | Av. das Nações Unidas 12.901, 33° andar, Torre Norte, CEP 04578-000 São Paulo/SP  
+Chile|  | Software AG Factoria S.A.|  | La Concepción 141, Piso 8, Oficina 808, Santiago de Chile, CP8320176  
+China|  | Software AG Limited|  | Room 1701-2, 17/F, No. 8 Fleming Road, Wanchai, HongKong  
+India|  | Software AG Chennai Development Center India Pvt Ltd|  | VBC Solitaire, 4th Floor, No. 47 & 49, Bazulla Road, T. Nagar, 600 017 Chennai  
+India|  | Software AG Bangalore Technologies Private Ltd.|  | Embassy Tech Village 5th and 6th Floor, 2A East Tower, Marathahalli Outer Ring Road, 560 103 Devarabisanahalli, Bangalore  
+Japan|  | Software AG Ltd. Japan|  | AKASAKA K-Tower 4F, 1-2-7 Motoakasaka, 107-0051 Minato-ku, Tokyo  
+Malaysia|  | Software AG Operations Malaysia Sdn Bhd.|  | Suite 2B-22-1, Level 22, Block 2B, Plaza Sentral, Jalan Stesen Sentral 5, Kuala Lumpur Sentral, 50470 Kuala Lumpur  
+Mexiko|  | Software AG, S.A. de C.V.|  | Blvd Manuel Avila Camacho No. 88 Piso 11, Torre Picasso, Col. Lomas de Chapultepec, 11590 Mexico, Distrito Federal  
+Philippines|  | Software AG, Inc.|  | 12F Multinational Bancorporation Centre, Ayala Avenue, 1225 Makati City  
+Russia|  | Limited Liability Company Software AG|  | Kosmodamianskaya Naberezhnaya, 52, building 4, 3rd floor, 115054 Moscow  
+Singapore|  | Software AG Pte LTD|  | 12 Marina Boulevard #17-04, Marina Bay Financial Centre Tower 3, 018982 Singapore  
+South Africa|  | Software AG South Africa (Pty) Ltd|  | Culross on Main Office Park, 34 Culross Road, Building 3, 2021 Bryanston  
+Turkey|  | Software AG Bilgi Sistemleri Ticaret A.S.|  | Degirmen Yolu Sok. No: 4, Sasmaz Plaza Kat: 9, TR-34742 Istanbul  
+United Arab Emirates|  | Software AG International FZ-LLC|  | Star Building, EIB 4, Office # 204, P.O. Box # 502274, Dubai  
+USA|  | Software AG Cloud Americas, Inc.|  | 1209 Orange Street, Wilmington , DE 19801  
+USA|  | Software AG Government Solutions, Inc.|  | 11700 Plaza America Drive, Suite 700, Reston, VA 20190  
+USA|  | Software AG USA, Inc.|  | 11700 Plaza America Drive, Suite 700, Reston, VA 20190  
+  
+## Annex 2: Data Subject Rights
+
+Under applicable law, you have the right under certain circumstances to (i) request information about your stored personal data, (ii) rectification of your personal data, (iii) restriction of processing of your personal data, (iv) deletion of your personal data, (v) data portability, (vi) revocation of your consent for processing of your personal data and (vii) object to the processing of your personal data. In Detail this is: 
+
+(i) Right to information: You may have the right to ask us for confirmation of the processing of your personal data in question and, if so, of your right to information about such personal data. The right to information includes, among other things, the processing purposes, the categories of personal data being processed and the recipients or categories of recipients to whom the personal data is disclosed. You may also have the right to receive a copy of the personal data that is the subject of the processing. However, this right is not unrestricted, as the rights of others may limit your right to receive a copy. 
+
+(ii) Right to rectification: You may be entitled to request the correction of incorrect personal data concerning you. In consideration of the purposes of processing, you have the right to request the completion of incomplete personal data, including by means of a supplementary statement. 
+
+(iii) Right to erasure ("Right to be forgotten"): Under certain conditions, you have the right to ask us to delete your personal data and to delete personal data. 
+
+(iv) Right to restriction of processing: Under certain circumstances, you have the right to demand that we restrict the processing of your personal data. In this case, the corresponding data will be marked and processed by us only for specific purposes. 
+
+(v) Right to data portability: Under certain circumstances, you have the right to receive the Personal Data relating to you that you have provided to us in a structured, commonly used and machine-readable format and you have the right to transfer that data to another person without obstruction by us. 
+
+(vi) Right to revocation of consent: If you have given your consent for some data processing activities, you may revoke your consent at any time with future effect. Such revocation shall not affect the lawfulness of the processing on the basis of the consent until the revocation. 
+
+**(vii) Right to object  
+** For reasons arising from your particular situation, you have the right to object to the processing of personal data relating to you on the basis of Art. 6(1f) GDPR (data processing based on legitimate interests). If you object, we will no longer process your personal data unless we can establish compelling legitimate grounds for processing that outweigh your interests, rights and freedoms, or the processing is for the purposes of asserting, exercising or defending legal claims.
