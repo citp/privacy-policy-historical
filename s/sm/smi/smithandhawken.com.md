@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithandhawken.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211911id_/https%3A//www.target.com/c/target-privacy-policy/-/N-4sr7p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithandhawken.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225205346id_/https%3A//www.target.com/c/target-privacy-policy/-/N-4sr7p) for the most accurate reproduction.*
 
 # Target Privacy Policy : Target
 
@@ -23,7 +23,10 @@ At Target, we want you to know how we collect, use, share, and protect informati
   * What choices do you have?
 
 
-  * California residents?
+  * California residents
+
+
+  * Nevada Consumers
 
 
   * How do you access and update your personal information?
@@ -72,7 +75,7 @@ In order to provide the best guest experience possible, we also use automated in
 
 _Target Automated Collection_
 
-We and our service providers use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with us or third-parties that use our services. This information helps us recognize you, customize your website experience, store items in your cart between visits and make our marketing messages more relevant. Examples of this information include but are not limited to: pages you visit, ads you click on, type of browser/device/hardware, purchase information, IP based geographic location and search terms. This includes Target content presented on another website or mobile application, for example, Target Weekly Ad. These technologies also enable us to prevent fraud or other harmful activities.
+We and our service providers use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with us or third-parties that use our services. This information helps us recognize you, customize your website experience, store items in your cart between visits and make our marketing messages more relevant. Examples of this information include but are not limited to: pages you visit, ads you click on, type of browser/device/hardware, MAC address, purchase information, IP based geographic location and search terms. This includes Target content presented on another website or mobile application, for example, Target Weekly Ad. These technologies also enable us to prevent fraud or other harmful activities. 
 
 We also allow third-party companies (e.g., Nielsen) to place tags on our digital properties. The tags may collect information from cookies placed by other third-party companies. Our Privacy Policy does not cover these third-party companies. Please contact these third party companies (e.g., Nielsen) directly for more information about their privacy policy and your choices regarding the tags and the information collected by the tags.
 
@@ -128,7 +131,7 @@ Target engages with guests on multiple social media platforms (e.g., Facebook, T
 
 _Social Media Widgets_
 
-Our sites and mobile applications include social media features, such as the Facebook Like button, Google Plus, Pinterest, and Twitter widgets. These features may collect information about you such as your IP address and which page you’re visiting on our site. They may set a cookie or employ other tracking technologies to accomplish this. Social media features and widgets may be hosted by a third party. Your interactions with those features are governed by the privacy policies of the companies that provide them. 
+Our sites and mobile applications include social media features, such as the Facebook, Pinterest, and Twitter widgets. These features may collect information about you such as your IP address and which page you’re visiting on our site. They may set a cookie or employ other tracking technologies to accomplish this. Social media features and widgets may be hosted by a third party. Your interactions with those features are governed by the privacy policies of the companies that provide them. 
 
 _Social Media Ads_
 
@@ -318,10 +321,11 @@ To opt-out of our interest-based advertising for Target’s goods and services o
 
 _Other Web Site Analytics Services_
 
-Analytics services such as Site Catalyst by Adobe Analytics and Google Analytics provide services that analyze information regarding visits to our websites and mobile applications. They use cookies, web beacons, and other tracking mechanisms to collect this information. 
+Analytics services such as Site Catalyst by Adobe Analytics, Google Analytics and Crazy Egg provide services that analyze information regarding visits to our websites and mobile applications. They use cookies, web beacons, recorded interactions and other tracking mechanisms to collect this information. 
 
   * To learn about Adobe Analytics privacy practices or to opt-out of cookies set to facilitate reporting, click [here](http://www.adobe.com/privacy.html).
   * To learn more about Google’s privacy practices, click [here](https://www.google.com/policies/privacy/). To access and use the Google Analytics Opt-out Browser Add-on, click [here](https://tools.google.com/dlpage/gaoptout).
+  * To learn more about Crazy Egg’s privacy practices, click [here](https://www.crazyegg.com/privacy). To opt-out of Crazy Egg, click [here](https://www.crazyegg.com/opt-out).
 
 
 
@@ -332,6 +336,12 @@ Analytics services such as Site Catalyst by Adobe Analytics and Google Analytics
 If you are a California resident and have an established business relationship with us, you can request a notice disclosing the categories of personal information we have shared with third parties, for the third parties’ direct marketing purposes, during the preceding calendar year. To request a notice, please submit your request to Target Corporation, Attn: California Shine the Light Inquiry, P.O. Box 9350 Minneapolis, MN 55440. Please allow 30 days for a response.
 
 If you are a California resident under 18 years old and a registered user, you can request that we remove content or information that you have posted to our website or other online services. Note that fulfilment of the request may not ensure complete or comprehensive removal (e.g., if the content or information has been reposted by another user). To request removal of content or information, please call Guest Relations at [800-440-0680](tel://8004400680).
+
+### Nevada Consumers
+
+    
+
+Nevada law gives Nevada consumers the right to request that a company not sell their personal information. This right applies even if their personal information is not currently being sold. If you are a Nevada consumer and wish to exercise this right, please submit your request by filling out the form after clicking on [this link.](https://www.target.com/do-not-sell-nv)
 
 ### How Do You Access and Update Your Personal Information?
 
@@ -391,13 +401,10 @@ This privacy policy applies to all current or former guest personal information,
 
 Our website may offer links to other sites. If you visit one of these sites, you may want to review the privacy policy on that site. In addition, you may have visited our website through a link or a banner advertisement on another site. In such cases, the site you linked from may collect information from people who click on the banner or link. You may want to refer to the privacy policies on those sites to see how they collect and use this information.
 
-Last update: 05/22/2018
+Last update: 10/01/2019
     
 
-  * _Target Automated Collection_ section – reword examples paragraph and added a paragraph about third party tags
-  * _Cross-Device_ section – deleted information regarding statistical and deterministic methods 
-  * Under _Target Subsidiaries and Affiliates_ section – added Shipt Inc. as a subsidiary
-  * Created a section called _Other Businesses Products/Services_ to include information on the Target Storefront.
-  * Deleted all references to emailing Guest Relations
+  * _Other Web Site Analytics Services_ – added information about Crazy Egg, including link to their privacy policy/opt-out option. 
+  * _Nevada Residents_ – Added a section for Nevada Residents including a link to the Do Not Sell opt-out form.
 
 
