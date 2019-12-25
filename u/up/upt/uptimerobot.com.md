@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uptimerobot.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612170751id_/https%3A//uptimerobot.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptimerobot.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225044411id_/https%3A//uptimerobot.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Uptime Robot
 
@@ -45,6 +45,8 @@ We also collect some information automatically:
 
 
 
+And, we will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). 
+
 ## How And Why We Use Information
 
 #### _**Purposes for Using Information**_
@@ -73,7 +75,7 @@ A note here for those in the European Union about our legal grounds for processi
 
 (4) We have a legitimate interest in using your information–for example, to provide and update our Services, to improve our Services so that we can offer you an even better user experience, to safeguard our Services, to communicate with you, to measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition, to monitor and prevent any problems with our Services, and to personalize your experience; or
 
-(5) You have given us your consent–for example before we place certain cookies on your device and access and analyze them later on..
+(5) You have given us your consent–for example before we place certain cookies on your device and access and analyze them later on.
 
 ## Sharing Information
 
@@ -84,7 +86,7 @@ We do not sell our users’ private personal information.
 We share information about you in the limited circumstances spelled out below and with appropriate safeguards on your privacy:
 
   * **Subsidiaries, Employees, and Independent Contractors:** We may disclose information about you to our subsidiaries, our employees, and individuals who are our independent contractors that need to know the information in order to help us provide our Services or to process the information on our behalf. We require our subsidiaries, employees, and independent contractors to follow this Privacy Policy for personal information that we share with them.
-  * **Third Party Vendors:** We may share information about you with third party vendors who need to know information about you in order to provide their services to us, or to provide their services to you. This group includes vendors that help us provide our Services to you (like payment providers that process your credit and debit card information, fraud prevention services that allow us to analyze fraudulent payment transactions, SMS and email delivery services that help us stay in touch with you), those that assist us with our marketing efforts (e.g. by providing tools for identifying a specific marketing target group or improving our marketing campaigns), those that help us understand and enhance our Services (like analytics providers) who may need information about you in order to, for example, provide technical or other support services to you. We require vendors to agree to privacy commitments in order to share information with them. These vendors are listed in in the "List of data sub-processors" section below.
+  * **Third Party Vendors:** We may share information about you with third party vendors who need to know information about you in order to provide their services to us, or to provide their services to you. This group includes vendors that help us provide our Services to you (like payment providers that process your credit and debit card information, fraud prevention services that allow us to analyze fraudulent payment transactions, SMS and email delivery services that help us stay in touch with you), those that assist us with our marketing efforts (e.g. by providing tools for identifying a specific marketing target group or improving our marketing campaigns), those that help us understand and enhance our Services (like analytics providers) who may need information about you in order to, for example, provide technical or other support services to you. We require vendors to agree to privacy commitments in order to share information with them. These vendors are listed in the "List of data sub-processors" section below.
   * **Legal Requests:** We may disclose information about you in response to a subpoena, court order, or other governmental request.
   * **To Protect Rights, Property, and Others:** We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of Uptime Robot, third parties, or the public at large. For example, if we have a good faith belief that there is an imminent danger of death or serious physical injury, we may disclose information related to the emergency without delay.
   * **Business Transfers:** In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company, or in the unlikely event that Uptime Robot goes out of business or enters bankruptcy, user information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.
@@ -106,7 +108,7 @@ You have several choices available when it comes to information about you:
   * **Limit the Information that You Provide:** If you have an account with us, you can choose not to provide the optional account information, profile information, and transaction and billing information. Please keep in mind that if you do not provide this information, certain features of our Services–for example, paid ones, may not be accessible.
   * **Opt-Out of Electronic Communications:** You may opt out of receiving promotional messages from us. Just follow the instructions in those messages. If you opt out of promotional messages, we may still send you other messages, like those about your account, monitoring alerts and legal notices.
   * **Set Your Browser to Reject Cookies:** At this time, Uptime Robot does not respond to “do not track” signals across all of our Services. However, you can usually choose to set your browser to remove or reject browser cookies before using Uptime Robot’s websites, with the drawback that certain features of Uptime Robot’s websites may not function properly without the aid of cookies.
-  * **Close Your Account:** While we’d be very sad to see you go, if you no longer want to use our Services :( :( :( :(, you can close your uptimerobot.com account. Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above–for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
+  * **Close Your Account:** While we’d be very sad to see you go, if you no longer want to use our Services :( :( :( :(, you can close your uptimerobot.com account. Please keep in mind that we may continue to retain your information after closing your account, as described in Information We Collect above–for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
 
 
 
@@ -128,7 +130,7 @@ EU individuals also have the right to make a complaint to a government superviso
 
 ## How to Reach Us
 
-If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please [contact us](https://web.archive.org/web/20190612170751id_/https%3A//support).
+If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please [contact us](https://web.archive.org/web/20191225044411id_/https%3A//support).
 
 ## Other Things You Should Know (Keep Reading!)
 
@@ -151,6 +153,8 @@ Uptime Robot uses the following products/services (which are all GDPR compliant)
   * **2Checkout:** for credit card payments.
   * **PayPal:** for PayPal and credit card payments.
   * **Google Analytics:** for analyzing the browsing behavior of our users and visitors.
+  * **Google Ads:** for auto-pausing Google ads during downtimes.
+  * **Facebook Ads:** for auto-pausing Facebook ads during downtimes.
 
 
 
@@ -160,6 +164,7 @@ Although most changes are likely to be minor, Uptime Robot may change its Privac
 
 **Change log:**
 
+  * _July 15, 2019:_ Added Google Ads and Facebook Ads to the list of sub-processors.
   * _May 21, 2018:_ Updated for GDPR compliance.
   * _June 12, 2017:_ Removed Paylane from the list of payment processors.
   * _July 1, 2016:_ Updated the company name to reflect the change.
