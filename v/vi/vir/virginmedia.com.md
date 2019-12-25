@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmedia.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428170600id_/https%3A//www.virginmedia.com/shop/the-legal-stuff/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmedia.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225210909id_/https%3A//www.virginmedia.com/shop/the-legal-stuff/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Virgin Media
 
@@ -329,7 +329,7 @@ If you’d like to change your marketing preferences at any time you can do this
   * Text STOP in reply to a Marketing SMS send by us
   * By calling us. If you’re a Virgin Media customer (TV, VM Store, Broadband and/or landline) call our team on 150 from your landline or 0345 454 1111* from any other phone
   * If you’re a Virgin Mobile customer just call our team on 789 from your Virgin Mobile phone, or 0345 6000 789* from any other phone
-  * By writing to us at PO Box 333, Swansea SA7 9BB or emailing us at dpo@virginmedia.co.uk
+  * By writing to us at Sunderland, SR43 4AA or emailing us at dpo@virginmedia.co.uk
 
 
 
@@ -354,7 +354,9 @@ o   Write to us at:
 
     Data Protection Team  
     Virgin Media Limited  
-    Swansea PO Box 333
+    Sunderland  
+    SR43 4AA  
+**    **
 
 o   Send an email to dpo@virginmedia.co.uk
 
