@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poperblocker.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116191654id_/https%3A//poperblocker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poperblocker.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225013521id_/https%3A//poperblocker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Poper Blocker
 
@@ -97,5 +97,3 @@ We reserve the right to periodically amend or revise the Privacy Policy; materia
 ###  **How to contact us?**
 
 If you have any questions about these terms, please contact us at: [support@poperblocker.com](mailto:support@poperblocker.com)
-
-We use cookies for various purposes including analytics, personalized content and ads. By continuing to browse this site, you agree to our use of cookies as described in our [Privacy Policy.](https://poperblocker.com/privacy/)
