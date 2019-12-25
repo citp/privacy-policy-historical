@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shockwave.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623220610id_/http%3A//www.shockwave.com/about/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shockwave.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225204959id_/http%3A//www.shockwave.com/about/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Shockwave - Privacy Policy
 
