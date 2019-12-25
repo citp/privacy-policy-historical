@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldspot.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205091752id_/https%3A//goldspot.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldspot.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225121458id_/https%3A//goldspot.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Goldspot Pens
 
