@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630080855id_/https%3A//www.education.com/privacy/%3Fcid%3D11.2192) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225222050id_/https%3A//www.education.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Education.com
 
@@ -65,6 +65,8 @@ You can create an account with us, by logging in through certain third-party acc
 We use various technologies to collect and store information, including cookies, pixel tags, local storage, such as browser web storage or application data caches, databases, and server logs. This information may include, but is not limited to, account information; IP address; domain name; browser type and operating system; web pages viewed while logged in; links clicked; the length of time spent on our Services; and the referring URL, or the webpage that led a user to our Services. In addition, we will collect information about user activities within our Services, such as which games a user plays, the number of correct and incorrect answers, and download history.
 
 ## Cookies and Other Tracking Mechanisms
+
+**If you are a user located in the United Kingdom (UK) or in the European Economic Area (EEA), the only type of cookies we will set on your device are ‘strictly necessary cookies’ which are essential to provide you with our Website and our Services. You can block these cookies by changing your browser setting but as they are essential for the operation of our Website, this may impact the provision of our Services. For all other rest-of-world users, please see the sections below regarding the types of cookies we will set on your device.**
 
 ### Our Tracking
 
@@ -182,4 +184,4 @@ Our Services may contain links to third-party websites and applications. Please 
 
 In addition, some of our advertising partners will on occasion take polls of our visitors, in which case you would provide your information directly to the advertising partner. Such polls are for use by the advertising partner, and participation is voluntary. We do not assure privacy of information voluntarily provided in response to a survey or poll.
 
-Education.com, Inc. operates the Services. Questions or comments regarding this policy should be directed to [privacy@education.com](mailto:privacy.education.com), or by writing to 333 South B Street, Unit 101, San Mateo, CA 94401.
+Education.com, Inc. operates the Services. Questions or comments regarding this policy should be directed to [privacy@education.com](mailto:privacy.education.com), or by writing to 401 E 3rd Ave., San Mateo, CA 94401.
