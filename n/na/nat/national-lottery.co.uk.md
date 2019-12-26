@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the national-lottery.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630234721id_/https%3A//www.national-lottery.co.uk/privacy-policy%3Ficid%3Dbsp%3Ana%3Atx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national-lottery.co.uk privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226204351id_/https%3A//www.national-lottery.co.uk/privacy-policy%3Ficid%3Dbsp%3Ana%3Atx) for the most accurate reproduction.*
 
 # Privacy Policy | The National Lottery
 
@@ -6,7 +6,9 @@ Registration |
 
 We use your personal and contact information to register you as a new player.
 
-We collect financial information if you register payment card information to your account or set up playing by direct debit.
+We collect financial information if you play by direct debit.
+
+If you register payment card information to your account, Worldpay acts as data controller in respect of your financial information and processes such personal data in line with [Worldpay’s Privacy Notice](https://www.worldpay.com/uk/worldpay-privacy-notice#wpi-1 "Opens in a new window"). We only store the last four digits of your card number and expiry date so that you can identify what card you have used to make the payment with Worldpay.
 
 | 
 
@@ -34,7 +36,7 @@ Necessary for compliance with a legal obligation.
   
 Playing our games | 
 
-We use the personal and contact information provided by you and the transaction details about your purchases, to provide our games and other services to you.
+We use your personal and contact information, financial information and transaction details about your purchases, to provide our games and other services to you.
 
 | 
 
@@ -50,7 +52,7 @@ Necessary for the performance of a contract with you.
   
 Paying prizes | 
 
-We use your personal and contact information to contact you if you’ve won a prize, and to pay (or facilitate payment of) those prizes.
+We use your personal and contact information to contact you if you’ve won a prize and to facilitate payment of those prizes, and your financial information to pay those prizes.
 
 | 
 
