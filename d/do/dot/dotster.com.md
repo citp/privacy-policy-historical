@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dotster.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624094426id_/https%3A//www.endurance.com/privacy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotster.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226011300id_/https%3A//www.endurance.com/privacy/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Endurance International Group
+# Privacy Notice | Endurance International Group
 
-This Privacy Notice, which was formerly referred to by us as a Privacy Policy, was last modified on May 16, 2019. Your continued use of our products and services will be subject to the practices set forth herein.
+We’ve updated our Privacy Notice, as of December 12, 2019, to provide you with more information about the additional rights California residents have under the California Consumer Privacy Act (“CCPA”) effective January 1, 2020. If you are a California resident, please read about these additional rights [here](https://www.endurance.com/privacy/addendum-for-california-users).
 
 ## Table of Contents
 
@@ -15,11 +15,12 @@ For the purposes of the European Union’s General Data Protection Regulation 20
 
 This privacy notice, which may also be referred to as a “privacy policy” on some of our websites, covers personal information, including any information we collect, use and share from you, as described further below. This privacy notice applies to all websites and brands in the Endurance corporate family, our products and services, and our mobile applications (collectively, the “Services”). This privacy notice does not cover how our Users may use or share data that they collect using our services.
 
-When you purchase a Service from us, your personal information will be collected, used, and shared consistent with the provisions of this privacy notice. In addition, the following addendums related to particular Services offered by Endurance also apply to your purchase or use of those Services. These addendums are a part of this privacy notice:
+When you purchase a Service from us, your personal information will be collected, used, and shared consistent with the provisions of this privacy notice. In addition, the following addendums related to particular Services offered by Endurance or individuals in certain locations also apply to your purchase or use of those Services. These addendums are a part of this privacy notice:
 
   * [Addendum for Users who purchased services from Constant Contact](https://web.archive.org/privacy/constant-contact-addendum/)
   * [Addendum for Users who purchased Domain Registration services, including from Domain.com](https://web.archive.org/privacy/domains-addendum/)
   * [Addendum for Users who purchased services from SinglePlatform](https://web.archive.org/privacy/single-platform-addendum/)
+  * [Addendum for California Users](https://web.archive.org/privacy/addendum-for-california-users)
 
 
 
@@ -80,7 +81,7 @@ We may combine any information we collect about you with other information we ha
 
 ## How We Use Your Information
 
-We use the information we collect, both on its own and combined with any other information we collect about you, for the following purposes:
+We use the information we collect, both on its own and combined with any other information we collect about you, for the following business and commercial purposes:
 
   * To provide the requested Services to you;
   * To provide you with useful content;
@@ -94,7 +95,7 @@ We use the information we collect, both on its own and combined with any other i
   * In connection with our security and compliance programs;
   * To administer our websites;
   * To communicate with you;
-  * To target prospective customers with our products or services (subject to your consent where required by applicable law);
+  * To target current or prospective customers with our products or services through online advertisements served on third-party sites by third-party vendors, such as Google (subject to your consent where required by applicable law);
   * To assist us in offering you a personalized experience or otherwise tailor our Services to you; and
   * As otherwise described in this privacy notice.
 
@@ -220,58 +221,45 @@ Depending on what information we collect from you and how we collect it, we rely
 
 
 
-## Your Rights
+## YOUR RIGHT TO CONTROL HOW YOUR PERSONAL INFORMATION IS USED
 
-Where the GDPR applies, in certain circumstances and subject to data processing agreements, you have rights in relation to the personal information we hold about you. We set out below an outline of those rights and how to exercise those rights. Please note that we will require you to verify your identity before responding to any requests to exercise your rights by providing details only known to the account holder. To exercise any of your rights, please send an email to [privacy@endurance.com](mailto:privacy@endurance.com) or visit the [Privacy Center](https://web.archive.org/privacy/). We will respond to your request within a reasonable timeframe. Please note that for each of the rights below we may have valid legal reasons to refuse your request, in such instances we will let you know if that is the case.
+You have the right to make requests regarding your personal information. You can:
 
-Please note that if we have obtained or received personal information about you from a third party for the purpose of processing that data, any requests to exercise your rights with respect to that data should be directed to that third party. We will honor and support any instructions they provide us with respect to your personal information.
-
-### Access
-
-You have the right to know whether we process personal information about you, and if we do, to access data we hold about you and certain information about how we use it and who we share it with.
-
-### Portability
-
-You have the right to receive a subset of the personal information you provide us if we process it on the legal bases of our contract with you or with your consent in a structured, commonly used and machine-readable format and a right to request that we transfer such personal information to another party. If you wish for us to transfer the personal information to another party, please ensure you detail that party and note that we can only do so where it is technically feasible. We are not responsible for the security of the personal information or its processing once received by the third party.
-
-### Correction
-
-You have the right to require us to correct any personal information held about you that is inaccurate and have incomplete data completed. Where you request correction, please explain in detail why you believe the personal information we hold about you to be inaccurate or incomplete so that we can assess whether a correction is required. Please note that while we assess whether the personal information we hold about you is inaccurate or incomplete, you may exercise your right to restrict our processing of the applicable data as described below.
-
-### Erasure
-
-You may request that we erase the personal information we hold about you in the following circumstances:
-
-  * where you believe it is no longer necessary for us to hold the personal information;
-  * we are processing it on the basis of your consent and you wish to withdraw your consent;
-  * we are processing your data on the basis of our legitimate interest and you object to such processing;
-  * you no longer wish us to use your data to send you marketing; or
-  * you believe we are unlawfully processing your data.
+  * Ask us to update or correct personal information if it is inaccurate;
+  * Request that we transfer some or all of your personal information to you or a third party (whenever it is technically feasible to do so);
+  * Make choices about receiving marketing communications;
+  * Withdraw your consent to process your personal information in circumstances where we are relying on your consent as our basis for processing.
 
 
 
-Please provide as much detail as possible on your reasons for the request to assist us in determining whether you have a valid basis for erasure.
+To exercise any of your rights, please send an email to privacy@endurance.com or visit our [Privacy Center ](https://www.endurance.com/privacy).
 
-### Restriction of Processing to Storage Only
+Residents of the European Union and California have additional rights. Click here to learn more.
 
-You have a right to require us to stop processing the personal information we hold about you other than for storage purposes in the following circumstances:
+In addition to the rights above, residents of the European Union and California have further rights which are detailed below. Please note that some rights only apply in certain circumstances or to certain information and some exceptions may apply.
 
-  * You believe the personal information is not accurate for the period it takes for us to verify whether the data is accurate;
-  * We wish to erase the personal information as the processing we are doing is unlawful but you want us to simply restrict the use of that data;
-  * We no longer need the personal information for the purposes of the processing but you require us to retain the data for the establishment, exercise or defense of legal claims; or
-  * You have objected to us processing personal information we hold about you on the basis of our legitimate interest and you wish us to stop processing the personal information while we determine whether there is an overriding interest in us retaining such personal information.
+We will require you to verify your identity before responding to any requests to exercise your rights.
+
+### Residents of the European Union
+
+In addition to the rights outlined above, where the GDPR or related data protection laws apply, you may:
+
+  * Ask whether we process personal information about you, and if we do, to access data we hold about you and certain information about how we use it and who we share it with.
+  * Request that we delete the personal information we hold about you in certain limited circumstances.
+  * Request that we stop processing the personal information we hold about you.
+  * Object to our processing of data about you.
 
 
 
-### Objection
+### Residents of California
 
-You have the right to object to our processing of data about you and we will consider your request. Please provide us with detail as to your reasoning so that we can assess whether there is a compelling overriding interest in us continuing to process such data or we need to process it in relation to legal claims.
+In addition to the rights outlined above, where the CCPA or related data protection laws apply, you may:
 
-You also have the right, at any time, to object to our processing of data about you in order to send you marketing, including where we build profiles for such purposes and we will stop processing the data for that purpose.
+  * Request to know the categories of personal information we collect about you, as well as the sources from which the personal information is collected; the business or commercial purpose of our collection; the categories of third parties with whom we share your personal information; and the specific pieces of personal information we hold about you.
+  * Request certain information regarding, and/or opt-out of, our disclosure of your personal information to third parties.
+  * Request that we delete the personal information we hold about you in certain limited circumstances.
 
-### Withdrawal of Consent
 
-Where you have provided your consent to us processing your personal data, you can withdraw your consent at any time by visiting the [Privacy Center](https://web.archive.org/privacy/).
 
 ## Third Party Links and Information Collection and Use by Our Users
 
@@ -332,4 +320,4 @@ THE NETHERLANDS
 Telephone: (+31) – (0)70 – 888 85 00  
 Fax: (+31) – (0)70 – 888 85 01
 
- **Last modified May 16, 2019**
+ **Last modified December 20, 2019**
