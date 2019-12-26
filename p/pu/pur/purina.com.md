@@ -1,137 +1,129 @@
-> *The following text is extracted and transformed from the purina.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629112858id_/https%3A//www.purina.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purina.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226011238id_/https%3A//www.purina.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### THIS PRIVACY POLICY APPLIES TO OUR SITES AND APPS AND OFFLINE ACTIVITIES.
+### **SCOPE OF THIS  NOTICE**
 
-This Policy describes the types of information we collect from and about you when you visit our US websites (each a “site”). This policy also covers our mobile applications (each an “app”) and other interactions with us through other online and offline activities where this policy is provided to you. For example, this includes our brand websites like [www.purina.com](http://www.purina.com/), as well as our mobile and social media applications. This policy describes how we use and treat such information. Our sites, apps, and activities are collectively referred to as the “Services.”  Throughout this policy, the terms "we", "us", "our", and "Purina" refer to Nestlé Purina PetCare Company, a U.S. corporation, and our subsidiaries. This includes Petfinder.com. “You” refers to any person accessing and/or using these Services.
+Please read this privacy notice (“ **Notice** ”) carefully to understand our policies and practices regarding your Personal Data and how we will treat it. This Notice applies to individuals who interact with _Nestlé_ services as consumers (“ **you** ”). This Notice explains how your Personal Data is collected, used, and disclosed by Nestlé Purina PetCare Company, a U.S. corporation, and its subsidiaries including Petfinder.com and also includes third parties acting on our behalf (collectively " ** _Nestlé_** ", " **We** ", " **Us** "). It also tells you how you can access and update your Personal Data and make certain choices about how your Personal Data are used.
 
-This policy applies to our consumer interactions. It does not apply to information collected throughout the application, hiring, or employment process. It does not apply to information collected by our parent company or affiliate companies.
+This Notice covers both our online and offline data collection activities, including Personal Data that We collect through our various channels such as websites, apps, third party social networks, Office of Consumer Affairs, points of sale and events where this policy is provided to you. Please note that We might combine personal data from different sources (website, offline event). As part of this, We combine Personal Data that were originally collected by different _Nestlé_ entities or _Nestlé_ partners. We may combine information from third parties with information We already have.
 
-By using our Services you agree to this policy. You also agree to this policy if you otherwise give us your information. This website is subject to US laws, which may not afford the same level of privacy as those in other countries. If you do not agree, please do not use our Services or give us your information. This site is subject to U.S. laws which may not afford the same level of protection as those in other countries. 
-
-* * *
-
-### WE COLLECT INFORMATION FROM AND ABOUT YOU
-
-**Contact information.**   The personal information we collect may include your name, postal address, telephone or mobile number, or email address.  We may collect this information from third parties.
-
-**Account Log-In Information.  **You may be required to provide information in order to set up an account with us.  We also collect information needed to give you access to your account. This includes your login ID/email address, screen name, and/or password.
-
-**Payment information.  **If you make online purchases, we collect your debit or credit card information.
-
-**Demographic and profile information.  **We may collect information like your gender, age and ethnicity if you fill out an online form or survey. We may collect your zip code. We may collect this information from third parties. For example, we may collect interests you post on social media.
-
-**We collect information about your pets and pet preferences.**  We may collect information when you inquire about adopting a pet through a Petfinder member adoption organization. We may also collect information when you create a saved pet search alert. We may also collect this information when you purchase pet care products from one of our online stores. For example, we might ask what kind of pet you have or the type of pet food you prefer. We collect pet photos you upload to our web sites.
-
-**Other Information you may share, submit or post.  **We may collect information that you post either publicly or on a platform that we provide for sharing among users. We may also collect information that you provide to us through a survey, or otherwise share with us.
-
-**We collect information about your browsing preferences, your computer or device, and your Internet usage.**   For example, we may collect information about your online behavior. We may also collect your browser or device type, operating system, or unique device identifier. We may also collect your software version, IP address, and domain name. We may also collect the date and time you visited our site or app. This may include the areas or pages that you visit and the number and duration of visits. It may also include other site usage data and emails that you open, forward, or click-through.  We might look at what site you came from, or what site you visit when you leave us, what links you click on, or what pages you view.
-
-**We may collect information about your location.**  This may include your general or precise location. We may collect this using different types of technologies, including GPS and Wi-Fi. If you use our mobile app, we may also access your device’s location information in the background.
+If you do not provide necessary Personal Data to Us (We will indicate to you when this is the case, for example, by providing this information in our registration forms), We may not be able to provide you with certain goods and/or services. 
 
 * * *
 
-### WE COLLECT INFORMATION IN DIFFERENT WAYS.
+### **1\. PERSONAL DATA THAT WE COLLECT ABOUT YOU**
 
-**We collect information directly from you.**  For example, if you create an online account, create a pet search alert, or inquire to adopt a pet. We also collect information if you sign up for newsletters, make an online purchase, or request a coupon. We also collect information if you provide a rating or review, take a survey, fill out an online form, enter a promotion, or otherwise engage with us.
+We collect various types of information from you, as described below.
 
-**We collect information from you passively.**  We use tracking tools like browser cookies and web beacons. We also collect information from our mobile apps. Third parties may also collect personal information this way. For more details on the tracking tools we use, [click here](http://www.aboutads.info/choices/).
+**Personal contact information**. This includes any information you provide to Us that would allow Us to contact you, such as your name, postal address, e-mail address, social network details, or phone number. 
 
-**We get information about you from third parties.**  We may receive information about you from third parties, which may also include information about your device. For example, social media platforms may give us information about you.
+**Account login information**. _ _ Any information that is required to give you access to your specific account profile. Examples include your login ID/email address, screen name, password in unrecoverable form, and/or security question and answer.
 
-**We may combine information.**  We may combine the information you provide to us with information from other sources.  For example, we may combine information that we have collected offline with information we collect online. We may also combine information we get from third parties with information we already have.
+**Demographic information & interests**. _ _ Any information that describes your demographic or behavioral characteristics. Examples include your date of birth, age or age range, gender, geographic location (e.g. zip code), favorite products, hobbies and interests, and household or lifestyle information. This may include information about your health, medical conditions, nutrition, and exercise habits and goals. It may include information about your children’s genders, feeding styles, birthdates, or expected due dates. It may include information about work status, professional credentials. It may include  information when you inquire about adopting a pet through a Petfinder member adoption organization, or create a saved pet search alert.  In some cases, this could include information that you give Us about someone else. For example, if you provide a friend’s email address for a tell-a-friend program. It may also include information about your pets and pet preferences. If you are a health care professional, We may collect information about your practice. 
 
-* * *
+**Information from computer/mobile device**. _ _ Any information about the computer system or other technological device that you use to access one of our websites or apps, such as the Internet protocol (IP) address used to connect your computer or device to the Internet, operating system type, and web browser type and version. If you access a _Nestlé_ website or app via a mobile device such as a smartphone, the collected information will also include, where permitted, your phone’s unique device ID, advertising ID, geo-location, and other similar mobile device data.
 
-### WE MAY USE INFORMATION AS DISCLOSED AND DESCRIBED HERE.
+**Websites/communication usage information**. _ _ As you navigate through and interact with our websites/apps or emails, We use automatic data collection technologies to collect certain information about your actions. This includes information such as which links you click on, which pages or content you view and for how long, and other similar information and statistics about your interactions, such as content response times, download errors and length of visits to certain pages. This information is captured using automated technologies such as cookies and web beacons and is also collected through the use of third party tracking for analytics and advertising purposes. 
 
-**We use information to respond to your requests or questions.  **For example, we might use your information to respond to your customer feedback, inquiries, fulfill orders or otherwise contact and communicate with you. We may use your information to maintain your account or profile. We also may send you a saved pet search alert, or notify you if you win a sweepstakes. We may use your friend’s email address if you give it to us, to share information on adoptable pets, for example. 
+**Market research & consumer feedback.** _ _ Any information that you share with Us about your experience of using our products and services.
 
-**We use information to communicate with you about your account or our relationship.  **For example, we may contact you about your account or purchases. We might also contact you about this Policy or our website Terms. We may contact you by mail or email. We may also send push notices.
+**Consumer-generated content.**  Any content that you create and then share with Us on third party social networks or by uploading it to one of our websites or apps, including the use of third party social network apps such as Facebook. Examples include photos, videos, personal stories, or other similar media or content. Where permitted, We collect and publish consumer-generated content in connection with a variety of activities, including contests and other promotions, website community features, consumer engagement, and third-party social networking.
 
-**We use information to improve our products, Services, and business or address problems with the Services or our business.  **For example, we may use your information to improve our Services, or products. We may also use your information to analyze our products, Services, or sites or our business practices and methods. We may use content you post or share.
+**Third party social network information**. Any information that you share publicly on a third-party social network or information that is part of your profile on a third-party social network (such as Facebook) and that you allow the third-party social network to share with Us. Examples include your basic account information (e.g. name, email address, gender, birthday, current city, profile picture, user ID, list of friends, etc.) and any other additional information or activities that you permit the third-party social network to share. We receive your third party social network profile information (or parts of it) every time you download or interact with a _Nestlé_ web application on a third party social network such as Facebook, every time you use a social networking feature that is integrated within a _Nestlé_ site (such as Facebook Connect) or every time you interact with Us through a third party social network. To learn more about how your information from a third-party social network is obtained by _Nestlé_ , or to opt out of sharing such social network information, please visit the website of the relevant third-party social network.
 
-**We use information for security purposes.  **We may use information to protect the security or integrity of the Service, our company, and our consumers.
-
-**We use information for marketing purposes.**   For example, this may include providing you with targeted offers or ads. It may also include providing you with marketing information from us or on behalf of third parties. We may also use your information to tailor ads and messages for you on our sites, apps, and other websites and social platforms. Our marketing may include direct mail and email. It may also include text or social media posts. We may also offer online or digital methods like push notices on our mobile apps.
-
-**We use information as otherwise disclosed to you at the point of data collection or as otherwise permitted by law.**
+**Payment and Financial information**. Any information that We need in order to fulfill an order, or that you use to make a purchase, such as your debit or credit card details (cardholder name, card number, expiration date, etc.) or other forms of payment (if such are made available). In any case, We or our payment processing provider(s) handle payment and financial information in a manner compliant with applicable laws, regulations and security standards such as PCI DSS.
 
 * * *
 
-### WE MAY SHARE INFORMATION WITH THIRD PARTIES.
+### **2\. HOW WE COLLECT PERSONAL DATA ABOUT YOU**
 
-**We may share information with our subsidiaries, parent and affiliated companies in which Nestlé S.A. has control through either direct or indirect ownership**  (collectively  “Nestlé Group”).
+**We collect information directly from you** **.** __ For example, We collect information when you place an order with us. We collect information when you register on one of our websites or apps. We collect information when you become a member of a loyalty program. We collect information when you sign up for our emails. We collect information from printed or digital registrations and similar forms that We collect via, for example, postal mail, in-store demos, contests, and other promotions or events. We collect information when you inquire about adopting a pet through a Petfinder member adoption organization, or create a saved pet search alert. We collect information if you fill out a survey or use other tools on your websites or apps. We also collect information if you contact Us through our websites or apps, via email or through social media.
 
-**We will share information with third parties who perform services on our behalf.**  For example, we share information with vendors, such as those that send emails on our behalf or facilitate orders. We may also share information with companies that operate our websites or run promotions.
+**We collect information from you passively**. For example, We use tracking tools like browser cookies and web beacons. We do this on our websites and in emails that We send to you. We collect information about users over time when you use this website. This includes usage and browser information. We may have third parties collect information this way. We also collect information from our mobile apps. 
 
-**We will share information with our partners, affiliates, and other third parties.**   We do this in order to provide you with product, pet adoption, or promotional information. This may include pet adoption organizations to help with an adoption and companies you ask us to share your information with and others. This information may be used by third parties for their own purposes. This may include offers for products or services that may interest you. We may also share anonymous information with third parties for their marketing or analytics uses..
-
-**We will share information if we think we have to in order to comply with the law or to protect ourselves.**  For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests it. We might also share information when we are investigating potential fraud, claim or dispute against or for us. This might include fraud we think has happened during a sweepstakes or promotion..
-
-**We may share information with any successor to all or part of our business.**  For example, if part of our business is sold or transferred to a third party, we may give our customer information as part of that transaction.
-
-**We may share information for other reasons we may describe to you.**
+**We get information about you from other sources.** For example, our affiliates and business partners may give Us information about you. We may receive information from companies who compile information about shoppers and their preferences. Social media platforms may also give Us information about you. We may get information about your interactions with our ads on third-party sites.
 
 * * *
 
-### YOU HAVE CERTAIN CHOICES ABOUT SHARING AND MARKETING PRACTICES.
+### **3\. PERSONAL DATA OF CHILDREN**
 
-**You can control cookies and tracking tools.**  To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to read our Do Not Track policy, please [click here](http://www.aboutads.info/choices/). To learn how to manage privacy and storage settings for Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). To learn more about our ads, please [click here](https://web.archive.org/about-our-ads).
-
-**If you opt-out of tracking or turn off cookies, you may still see our ads on other websites.**  This includes social media platforms. You can visit these third-party sites to explore opt-out options they may provide for targeted advertising. To learn more about your choices for behavioral ads and tracking, [click here](https://web.archive.org/about-our-ads).
-
-**You can control tools on your mobile devices.**  For example, you can turn off the GPS locator or push notifications on your phone for some of our mobile apps that might have such notifications.
-
-**You can opt out of receiving our marketing emails or text messages.**  To stop receiving our promotional messages, follow the instructions in any promotional message you get from us or by contacting our [Office of Consumer Affairs](https://web.archive.org/how-can-we-help) by email, phone or mail and stating your opt-out request. Even if you opt out of getting marketing messages, we will still send you transactional messages. These may include responses to your questions or information about your account, purchases, confirmation of a pet adoption inquiry, or other messages we think you need to know.
-
-**You can edit information we maintain.  **To update or correct information we have about you, please contact our [Office of Consumer Affairs](https://profiles.purina.com/contact/?b=PU&s=PUContactOCA_201402) stating that you want to correct or update your information. Some of our sites may also let you modify your account profile directly.
-
-**You can control if we share information with third parties for their marketing purposes.**  To opt out of having us sharing your information with third parties for their promotional purposes, contact our Office of Consumer Affairs and tell us this. . 
-
-**You can learn how to control the information shared by social platforms and other third parties by visiting the website of the relevant social platform or contacting the third parties.**  For example, to control the use of your information by third parties such as adoption shelters, you will need to contact those third parties directly.
+We do not knowingly solicit or collect personal data from children below the age of 13. If you are a parent or legal guardian and think that your child under 13 has given Us information, you can contact Us in writing or by email as provided below under the section titled CONTACT. Please mark your inquiries "COPPA Information Request." You can learn more about how to protect children’s privacy online by visiting the Federal Trade Commission's webpage, [Protecting Your Child’s Privacy Online](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
 
 * * *
 
-### **THESE SITES AND CHILDREN.**
+### **4\. USES MADE OF YOUR  PERSONAL DATA**
 
-**Protecting children’s privacy is important to us.**  We do not direct the Services to, or knowingly collect personally identifiable information from, children under the age of 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child has given us information, you can email us. You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.”
+The following paragraphs describe the various purposes for which We collect and use your Personal Data, and the different types of Personal Data that are collected for each purpose. Please note that not all of the uses below will be relevant to every individual.
 
-**Parents, you can learn more about how to protect children's privacy on-line  [here](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).**
+**Consumer service**. _ _ We use your Personal Data for consumer service purposes, including responding to your inquiries. This typically requires the use of certain personal contact information and information regarding the reason for your inquiry (e.g. order status, technical issue, product question/complaint, general question, etc.). 
 
-* * *
+**Contests, marketing and other promotions**. _ _ We may use your Personal Data to provide you with information about goods or services (e.g. marketing communications or campaigns or promotions). This can be done via means such as email, ads, SMS, phone calls and postal mailings to the extent permitted by applicable laws. On occasion, these communications may also introduce you to other affiliated brands and partners and inform you about products, services, offers, and promotions from other companies and organizations. Some of our campaigns and promotions are run on third party websites and/or social networks. For more information about our contests and other promotions, please see the official rules or details posted with each contest/promotion.  We may use your friend’s email address to send them information you request through a “tell-a-friend” feature.
 
-### WE USE STANDARD SECURITY MEASURES.
+**Third party social networks:**  We use your Personal Data when you interact with third party social networking features, such as "Like" functions, to serve you with advertisements and engage with you on third party social networks. You can learn more about how these features work, the profile data that We obtain about you, and find out how to opt out by reviewing the privacy notices of the relevant third-party social networks.
 
-**We use standard security measures on our sites and apps.  **However, the Internet is not 100% secure. We cannot promise that your use of our Services will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
+**Personalization**. With your consent (where required), We may use your Personal Data (i) to analyze your preferences and habits, (ii) to anticipate your needs based on our analysis of your profile, (iii) to improve and personalize your experience on our websites and apps; (iv) to ensure that content from our websites/apps is optimized for you and for your computer or device; (v) to provide you with targeted advertising and content, and (vi) to allow you to participate in interactive features, when you choose to do so. For example, We remember your login ID/email address or screen name so that you can quickly login the next time you visit our site or so that you can easily retrieve the items you previously placed in your shopping cart. Based on this type of information, and with your consent (where required), We also show you specific _Nestlé_ content or promotions that are tailored to your interests. 
 
-**We keep personal information as long as it is necessary or relevant for the practices described in this Policy.  **We also keep information as otherwise required by law.
+**Order fulfillment**. We use your Personal Data to process and ship your orders, inform you about the status of your orders, correct addresses and conduct identity verification and other fraud detection activities. This involves the use of certain Personal Data and payment information.
 
-* * *
-
-### WE MAY LINK TO OTHER SITES OR HAVE THIRD PARTY SERVICES ON OUR SITE WE DON’T CONTROL.
-
-**If you click on a link to a third party site, you will be taken to websites we do not control.**  This includes social media sites. This policy does not apply to the privacy practices of these websites. Read the privacy policy of other websites carefully.
-
-**We are not responsible for third party practices.**  Our site may also serve third party ads or other content that contains their own cookies or tracking technologies. To learn more, [click here](https://web.archive.org/about-our-ads). We do not control the use of those technologies.
+**Other general purposes (e.g. internal or market research, analytic, security)**. In accordance with applicable laws, We use your Personal Data for other general business purposes, such as maintaining your account, conducting internal or market research and measuring the effectiveness of advertising campaigns. We reserve the right, if you have _Nestlé_ accounts, to reconcile those accounts into one single account. We also use your Personal Data for management and operation of our communications, IT and security systems.
 
 * * *
 
-### FEEL FREE TO CONTACT US IF YOU HAVE MORE QUESTIONS.
+### **5\. DISCLOSURE OF YOUR PERSONAL DATA**
 
-**If you have any questions about this Policy,**  you may contact our [Office of Consumer Affairs](http://signin.purina.com/contact), or you can write to us at:
+**The** **Nestlé S.A. family of companies.** We share information within the Nestlé S.A. family of companies, which includes all direct and indirect subsidiaries of parent company Nestlé S.A.
 
-Nestlé Purina PetCare Company   
-Attn: Privacy Question   
-PO Box 2530  
-Largo, FL 33779
+**Service providers** **.** These are external companies that We use to help Us run our business (e.g. order fulfillment, payment processing, fraud detection and identity verification, website operation, market research companies, support services, promotions, website development, data analysis, CRC, etc.). 
+
+**Credit reporting agencies/debt collectors** **.** To the extent permitted by applicable law, credit reporting agencies and debt collectors are external companies that We use to help Us to verify your creditworthiness (in particular for orders with invoice) or to collect outstanding invoices.
+
+**Third party companies using Personal Data for their own purposes** **.**  We may share information with third parties. This information may be used by third parties for their own purposes, including pet adoption organizations to help facilitate pet adoptions. This may include their own marketing purposes. They may send or provide you with offers for products or services that may interest you. We may also permit third parties to collect information about you on our websites or apps for their own purposes.
+
+**Sharing Personal Data for legal reasons or due to merger/acquisition** **.**  In the event that _Nestlé_ or its assets are acquired by, or merged with, another company including through bankruptcy, We will share your Personal Data with any of our legal successors. We will also disclose your Personal Data to third parties (i) when required by applicable law; (ii) in response to legal proceedings; (iii) in response to a request from a competent law enforcement agency; (iv) to protect our rights, privacy, safety or property, or the public; or (v) to enforce the terms of any agreement or the terms of our website.
 
 * * *
 
-### WE MAY UPDATE THIS POLICY.
+### **6\. DATA PROTECTION AND RETENTION**
 
-**From time to time we may change our privacy policies.**  If we do, we will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
+**We use reasonable and appropriate security measures as required by applicable law**. The transmission of information via the Internet is, unfortunately, not completely secure and despite our efforts to protect your Personal Data, We cannot guarantee the security of the data during transmission through our websites/apps. **** It is important that you also play a role in keeping your Personal Data safe and secure. When signing up for an online account, please be sure to choose an account password that would be difficult for others to guess and never reveal your password to anyone else. You are responsible for keeping this password confidential and for any use of your account. If you use a shared or public computer, never choose to have your login ID/email address or password remembered and make sure to log out of your account every time you leave the computer. You should also make use of any privacy settings or controls We provide you in our websites/apps.
 
-_Effective: February 13, 2013  
- _Last revised: August 25, 2017__
+**Retention of Personal Data**. We keep Personal Data as long as it is necessary or relevant for the practices described in this Notice. We also keep Personal Data as otherwise required by law. 
+
+* * *
+
+### **7\. YOUR CHOICES ABOUT HOW WE USE AND DISCLOSE YOUR  PERSONAL DATA**
+
+We strive to provide you with choices regarding the Personal Data that you provide to Us. The following mechanisms give you the following control over your Personal Data:
+
+**Advertising, marketing and promotions** **.**   You can opt out of marketing emails by following the instructions provided in each such communication. Please note that even if you opt out from receiving marketing communications, you will still receive administrative communications from Us, such as order or other transaction confirmations, notifications about your account activities (e.g. account confirmations, password changes, confirmation of pet adoption inquiry and submission, etc.), and other important non-marketing related announcements.
+
+**Cookies, Tracking Tools, and Targeted Advertising.** To learn how to manage how We and our vendors use cookies and other tracking tools, and to read our **Do Not Track Policy** , please click [About Our Ads](https://web.archive.org/about-our-ads).
+
+* * *
+
+### **8\. THIRD PARTY WEBSITES AND SERVICES**
+
+We may link to third party websites or apps, including social media platforms. Our websites or apps may also include third party content that collects information. This includes information collected by cookies, pixels, or other tracking tools. We do not control these third parties or their tracking tools. This policy does not apply to the privacy practices of these third-party websites or apps. Please read the privacy policies of other websites and apps carefully. We are not responsible for the practices of these third-party websites or apps.
+
+* * *
+
+### **9\. YOUR CALIFORNIA PRIVACY RIGHTS**
+
+If you are a California resident, you may have the right to request and receive certain information about our disclosure of your personal information to third parties for their own marketing use, and your choices with respect to such disclosures. To request this information please contact Us in writing or by email as provided below under the section titled CONTACT.  Please mark your inquiries “California Privacy Rights Request.”
+
+* * *
+
+### **10\. CHANGES TO THIS  NOTICE**
+
+If We change the way We handle your Personal Data, We will update this Notice. We reserve the right to make changes to our practices and this Notice at any time, please check back frequently to see any updates or changes to our Notice.
+
+* * *
+
+### **11.** ** ** **CONTACT**
+
+To ask questions or make comments on this Notice and our privacy practices, please contact Us by email at: CustomerService@purina.nestle.com or call our Office of Consumer Affairs at 1.800.778.7462 or write to Us at 
+
+Nestlé Purina PetCare    
+P.O. Box 340   
+Neenah WI 54957.
