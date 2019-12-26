@@ -1,123 +1,139 @@
-> *The following text is extracted and transformed from the rivers.com.au privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315100044id_/https%3A//www.rivers.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivers.com.au privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226113242id_/https%3A//www.rivers.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Rivers
+# Privacy Policy | Rivers Australia
 
-  * From you
+##   
+Privacy commitment
 
-We may collect and process personal data relating to you by you providing such personal data by filling in forms on our site or by you contacting us. This includes, but is not limited to, information provided at the time of registering to use (or become a member of) our site, subscribing to any services (e.g. newsletters), purchasing products or requesting further services.
+Mosaic Brands Limited ACN 003 321 579 and its Related Bodies Corporate (as defined in the Corporations Act 2001 (Cth)) (“we”, “our” or “us”) recognise the trust you are placing in us through your dealings with us. We do everything we can to maintain that trust. Our team are employed on the basis that they will protect information about you. Your rights to privacy are also protected by the Australian Privacy Principles in force under the Privacy Act 1988 (Cth). These privacy laws place strict requirements on us to treat certain information collected as confidential, to store your information securely and to allow you easy access to check and correct your information. 
 
-By using cookies
+## Scope of our Privacy policy 
 
-A cookie is a small information file that is sent to your computer, mobile or other device when you visit a website and it will recognise your device on future visits. These types of files do a number of different jobs such as: 
+Our Privacy Policy applies to the personal information we collect, store, maintain and use about you as our customers, visitors to our website, social media pages and other digital services (“Online Services”), or stores and members of the public. Our Privacy Policy applies to all of the brands owned by us from time to time, including, but not limited to, Millers, Autograph, Rivers, Crossroads, Katies, Noni B, Rockmans, Beme and W.Lane (“Our Brands”). Personal information we collect from job applicants as part of our recruitment process is governed by our Privacy Statement. 
 
-\- enabling the site to provide services you have asked for such as remembering your shopping bag items.  
-\- anonymously collecting information on how you and other users use the site. Together with information from other users we can identify ways to make the site easier for you to use. The data stored by these cookies never shows personal details from which your individual identity can be established.  
-\- remembering choices you make which we can then use to provide you with an experience more appropriate with your selections and make the visits more tailored and pleasant. For example, our wish list feature utilises a cookie to remember the products which you have expressed a wish to save whilst browsing our website. The information is also merged with other users on an anonymous basis to enable us to improve how the site operates.  
-\- anonymously collecting information about your browsing habits in order to make advertising relevant to you and your interests. The cookies remember the websites you have visited and that information is shared with other parties such as advertisers. For example we may use a 3rd party company to provide you with more personalised adverts when visiting other websites.
+## Consent 
 
-You can change the settings on your browser to prevent cookies being stored on your computer or mobile device without your explicit consent. Your browser “help” section will normally provide details on how to manage the cookie settings. Please note that if you select such settings you may be unable to access certain parts of our site. 
+By using Our Services (as defined below), you agree to this Privacy Policy and consent to the collection and use of information by us in accordance with this Privacy Policy. Please note that we reserve our right to amend, remove or vary this policy from time to time without notice. You should check this page regularly to take notice of any changes we may have made to this policy. 
 
+## When do we collect information about you? 
 
+At times, we collect personal information in the normal course of providing services for our customers. 
 
+These services apply to our services in-store and online across Our Brands (together “Our Services”) and include: 
 
-  * We collect personal information that is reasonably necessary for one or more of its functions or activities as set out below.
-
-Rivers is principally a retailer, and carries out number of facilities and functions including shops (off the street and in shopping centers), the internet, promotional material (using various forms including paper and electronic mail outs), credit and other card systems, Lay-By arrangements and reward schemes.
-
-The type of information that we collect and hold includes your name, address, email address, contact telephone number, gender, age and your product preferences.
-
-Sensitive information: we will only collect sensitive information where you consent to the collection of the information and the information is reasonably necessary for one or more of our company’s functions or activities. Sensitive information includes, but is not limited to, information or an opinion about racial or ethnic origin, political opinions, religious beliefs, philosophical beliefs, membership of a trade union, sexual preferences, criminal record, health information or genetic information. 
-
-
-
-
-  * Rivers must collect personal information only by lawful and fair means. We will collect personal information directly from you if it is reasonable or practicable to do so.
-
-We may collect personal information in a number of ways, including without limitation: 
-
-a. in stores;  
-b. through our website;  
-c. through application forms;  
-d. by email or other written mechanisms;  
-e. over a telephone call;  
-f. in person;  
-g. through transactions;  
-h. through our website;  
-i. through surveillance cameras;  
-j. by technology that is used to support communications between us;  
-k. from third parties, including but not limited to:  
-l. from past and present employers and referees when conducting reference checks, candidates after completing an interview, clients of Rivers and contract management services in relation to assignments;  
-m. through publically available information sources (which may include telephone directories, the internet and social media sites); and  
-n. direct marketing database providers.
-
-When we collect personal information about you through third parties, it will manage such information in accordance with the APPs.
-
-Much of the personal information that we hold is stored in our database. Our database comprises of hard copy files and/or electronic files in our ordinary IT systems. These may include cloud servers or servers of third parties.  
-Unsolicited personal information is personal information that we receive which it did not solicit. Unless we determine that it could have collected the personal information in line with the APPs or the information is contained within a Commonwealth record, it must destroy the information to ensure it is de-identified. 
+  * Loyalty programs, membership accounts or newsletter subscriptions
+  * Processing lay-by purchases
+  * Accepting customer orders
+  * Processing online purchases and payments
+  * Registering an online account
+  * Customer Service lines (including social media channels such as Facebook and Instagram)
+  * Processing payments
+  * Providing tailoring instructions
+  * Ordering dry cleaning / repairs
+  * Receiving prize application forms
+  * Accepting gift voucher payments
+  * Recording customer accident details
+  * Processing refunds
+  * Maintaining detailed information on our websites
+  * Any other time where you may supply personal information to us from time to time. 
 
 
 
+We also make use of “cookies” on our websites which may collect and store personal information. A cookie is a small software message sent to your web browser by our web server. Your browser stores the message in a file and the message is then sent back to our servers each time your browser requests a page from our servers. 
 
-  * We will collect personal information if it is reasonably necessary for one or more of its functions or activities. The main purposes for which we may collect, hold, use and/or disclose personal information may include but are not limited to providing you with: 
+We use cookies to gain statistics on which areas of our sites attract traffic. We also use cookies to improve your experience of our websites. For example, cookies allow us to recognise whether or not you are returning to our websites. In addition, like all websites, we make use of third parties who use cookies to serve ads based on past visits to our website. This may allow us to alert you to products or offers which we think you might be interested in viewing. 
 
-a. product information;  
-b. a better website experience;  
-c. special offers; and / or  
-d. competition entry information.
+Most Internet browsers are set up to accept cookies. If you do not wish to receive cookies, you will need to adjust the settings of your browser to refuse all cookies or to notify you each time a cookie is sent to your computer. Please note that some of our Online Services will not function if your browser does not accept cookies. 
 
-You authorise that we are to retain your personal information for the purposes outlined in clause 6.2 until such time that you direct us, using the contact details contained within clause 13 herein, that you wish for this personal information to be discarded.
+By using our Online Services, you consent to the use of cookies. We use Google Analytics Advertising Features to promote our Services. Google and other third parties collect data about traffic to this site via advertising cookies and identifiers. This enables us to display ads on other sites that are relevant to you, based on your previous visits to this site. If you would like to prevent your data from being used by Google Analytics, please visit: <https://tools.google.com/dlpage/gaoptout>
 
-We may also collect, hold, use and/or disclose personal information if you consent or if required or authorised under law.
+When you click on links and banners on our sites that take you to third-party websites, you will be subject to that third-party's privacy policies. While we support the protection of privacy on the internet, we cannot be held responsible for the actions of any third-party websites. 
 
-If you do not allow us to collect all or some of the personal information we request, Rivers may not be able to achieve its purposes. 
+## What information do we collect? 
 
-
-
-
-  * **DISCLOSURE OF PERSONAL INFORMATION** We may disclose your personal information for any of the purposes for which it is was collected, as indicated under clause 6 of this policy, or where it is under a legal duty to do so.
-
-Disclosure will usually be internally, to related entities, candidates, referees, potential and actual employers and clients of Rivers.
-
-Rivers may disclose personal information to third parties such as contracted service suppliers (CSP). Examples of CSPs include, but are not limited to, financial institutions for payment processing, information technology service providers, marketing and communications agencies, printers and distributers of direct marketing material and external business advisors.
-
-Before we disclose personal information about you to a third party, we will take steps as are reasonable in the circumstances to ensure that the third party does not breach the APPs in relation to the information. 
-
-**CROSS-BORDER DISCLOSURE OF PERSONAL INFORMATION**
-
-Rivers utilises the services of overseas servers, your personal information may be to overseas recipients for the purposes of cloud storage. 
-
-**ACCESS TO PERSONAL INFORMATION**
-
-If Rivers holds personal information about you, you may request access to that information by putting the request in writing and sending it to the Privacy Officer. We will respond to any request within a reasonable period, and a charge may apply for giving access to the personal information.
-
-There are certain circumstances in which Rivers may refuse to grant you access to the personal information. In such situations we will give you written notice that sets out: 
-
-a. the reasons for the refusal; and  
-b. the mechanisms available to you to make a complaint.
-
-**CORRECTION OF PERSONAL INFORMATION**
-
-If Rivers holds personal information that is inaccurate, out-of-date, incomplete, irrelevant or misleading, it must take steps as are reasonable to correct the information.
-
-If Rivers holds personal information and you make a request in writing addressed to the Privacy Officer to correct the information, we must take steps as are reasonable to correct the information and will respond to any request within a reasonable period.
-
-There are certain circumstances in which Rivers may refuse to correct the personal information. In such situations we will give you written notice that sets out: 
-
-a. the reasons for the refusal; and  
-b. the mechanisms available to you to make a complaint.
-
-If Rivers corrects personal information that it has previously supplied to a third party and you request us to notify the third party of the correction, we will take such steps as are reasonable to give that notification unless impracticable or unlawful to do so. 
-
-**INTEGRITY AND SECURITY OF PERSONAL INFORMATION**
-
-Rivers will take such steps (if any) as are reasonable in the circumstances to ensure that the personal information that it: 
-
-a. collects is accurate, up-to-date and complete; and  
-b. uses or discloses is, having regard to the purpose of the use or disclose, accurate, up-to-date and complete.
-
-Rivers will take steps as are reasonable in the circumstances to protect the personal information from misuse, interference, loss and from unauthorised access, modification or disclosure.
-
-If Rivers holds personal information, it no longer needs the information for any purpose for which the information may be used or disclosed, the information is not contained in any Commonwealth record and the Rivers is not required by law to retain the information, it will take such steps as are reasonable in the circumstances to destroy the information or to ensure it is de-identified. 
+  * We may collect the following information from you: 
+  * your name and contact details, such as your physical address, email address and phone number;
+  * your gender, birthdate and occupation;
+  * your purchase history; 
+  * your company name (if applicable);
+  * the name of the domain from which you access the internet;
+  * the date and time you access our sites;
+  * the internet address of the website from which you linked directly to our sites;
+  * information about your shopping selections with us; and
+  * any other information you may provide to us from time to time. 
 
 
 
+## Why do we collect this information? 
+
+We use the information to customise and provide Our Services and plan product development so that we can provide you with relevant consumer information and notify you of products and special offers that may be of interest to you across Our Brands. We also collect this information so that we may provide value-added services and marketing and remarketing across Our Brands Related Entities(as defined in the Corporations Act 2001 (Cth)) and our promotional partners through our websites, social media channels or other marketing mediums. 
+
+Do we share personal information with third parties? 
+
+We may disclose information we hold to our directors, officers, employees and other Related Entities within our corporate group for business purposes, the purpose of operating a loyalty program and marketing or remarketing purposes through our websites, social media channels or other marketing mediums. 
+
+Some of our Related Entities with whom we share personal information may be located overseas. We may also disclose information to third party service providers or contractors. The countries this information may be disclosed to will vary from time to time, but may include Australia, New Zealand, South Africa, the United States of America, Israel and the European Union. 
+
+Sometimes we use third party platforms and services to process sales, store and analyse data and information, provide web support, send marketing messages, deliver products or information or to otherwise achieve the purpose for which the information was collected. These services are hosted and managed by organisations other than ourselves, and some of these services are hosted overseas. We use products and services maintained in Australia, New Zealand and the European Union. 
+
+Your personal information may be stored in overseas (e.g. in data storage and cloud computing facilities operated by us (or by third parties on our behalf).We will take all reasonable steps to ensure recipients of this information do not breach Australian or New Zealand Privacy laws in relation to the personal information we disclose. 
+
+Where applicable information is shared with these third parties, we will take all reasonable steps to ensure that third parties observe the confidential nature of such information and are prohibited from using any or all of this information other than for the purpose for which it was provided. We will also disclose information to a law enforcement agency if we are requested to do so by that agency in relation to suspected unlawful activity. 
+
+We WILL NOT sell or trade your personal information to third parties for marketing purposes. 
+
+## Promotional communications 
+
+From time to time we may use your personal information to provide you with information about our services or the services of our Associated Entities or promotional partners. We want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information from us, please let us know by clicking on the “unsubscribe link”/”update your preferences” at the bottom of any of our communications, or by clicking into your account to manage the level of communication.
+
+Once you have told us you no longer wish to receive information about Our Services, we will no longer contact you. We will keep your basic details on our ‘do not contact’ database so that we do not contact you again. 
+
+By providing your personal information to one of Our Brands, you agree that this information will be shared across Our Brands in the normal course of providing our services to you. If you do not wish to receive certain promotional material or communications from Our Brands, please ensure that you manage the level of communication you want to receive in your account or alternatively contact our Privacy Manager on 1300 728 980 or [privacy@mosaicbrandsltd.com.au](mailto:privacy@mosaicbrandsltd.com.au) or 61 Dunning Avenue, Rosebery NSW 2018. 
+
+## Personal information access 
+
+You may review or change personal information related to your use of Our Services. To access your information, simply sign into your account and click on your name on the top navigational menu - this will take you to "My Profile". If you would like to know what information we hold about you please contact our Privacy Manager on [privacy@mosaicbrandsltd.com.au](mailto:privacy@mosaicbrandsltd.com.au). 
+
+We will try to ensure that all information we collect, use or disclose about you in accordance with this Privacy Policy is accurate, complete and up-to-date. We expect that you will promptly notify us of any changes to your personal information. 
+
+If you hold multiple accounts with us through any of Our Brands’ loyalty programs, we may combine your accounts to create one profile. Prior to doing this, we will take reasonable measures to ensure we have verified your membership details and that all the accounts belong to you. 
+
+If you discover that there is an error or information is missing, you can update your details online by signing in and visiting “My Profile” and editing the relevant details. Alternatively, if you wish to access or correct any personal information we hold about you, please contact our Privacy Manager on [privacy@mosaicbrandsltd.com.au](mailto:privacy@mosaicbrandsltd.com.au). 
+
+## Anonymity 
+
+You have the option of using a pseudonym when dealing with us so as not to identify yourself fully to us. Please bear in mind, however, that we will be unable to provide certain services to you unless you disclose your correct identity. 
+
+If you are a candidate for employment you must provide personal information which is in all respects true, accurate and up to date and is not, in any respect, misleading, deceptive or inaccurate or likely to be misleading or deceptive. 
+
+## Security 
+
+We understand the importance of your personal information and have appropriate procedures in place to safeguard and secure the information we collect to prevent unauthorised access or disclosure, maintain data accuracy and ensure the appropriate use of information. We also take measures in respect of destroying or de-identifying personal information that is no longer needed for any lawful purpose. 
+
+We take website and credit card security extremely seriously and always endeavour to provide a secure, safe platform from which to conduct online transactions. We use the industry standard Secure Sockets Layer (SSL) protocol, which encrypts information as it is transmitted over the internet. This encryption scrambles details such as credit card numbers, billing details and delivery addresses so that other computers are unable to decipher the information, ensuring privacy and security. 
+
+To ensure you are accessing a secure server, look for the unbroken key or closed lock symbol located either at the bottom left or top right of your browser window. If it appears, then SSL is active. You can double-check by looking at the URL. If SSL is active, then the first characters of the URL will read ‘https’ rather than just ‘http.’ It is important for you to protect against unauthorised access to your password and your computer. 
+
+Ensure you sign out when you have finished visiting our websites especially if you have accessed the websites from a shared computer. 
+
+## Privacy complaints 
+
+If you believe that we have breached your privacy rights in any way, or you would like to discuss any issues about our Privacy Policy please contact our Privacy Manager on 1300 728 980 or [privacy@mosaicbrandsltd.com.au](mailto:privacy@mosaicbrandsltd.com.au) or 61 Dunning Avenue, Rosebery NSW 2018. 
+
+All such enquiries or complaints will be taken seriously and handled with impartiality and discretion. 
+
+If you wish to submit a complaint or concern, please provide us with all relevant details such as the date and time of the incident or communication, the circumstances surrounding the event and your concerns about what was said or done. You will also receive an acknowledgment from us within 7 days confirming receipt of your issue. 
+
+Once your complaint/concern has been submitted to us, we will assess whether or not it is governed by the relevant privacy laws. If it is not something appropriately dealt with under privacy law we will write to you and explain why our Privacy Manager is unable to address your issue. 
+
+If your complaint/concern relates to the relevant privacy laws cover, we will thoroughly investigate all aspects of your complaint including ascertaining the relevant facts and what your expectations are for any resolution. During our investigation we may need to seek further information from you as to the nature of or factual circumstances surrounding your issue. 
+
+We will endeavour to respond to you at all times promptly and to offer a practical solution which is consistent with our legal obligations.
+
+If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Office of the Australian Information Commissioner: 
+
+Mail: Office of the Australian Information Commissioner   
+GPO Box 5218, Sydney NSW 2001   
+Telephone: 1300 363 992   
+Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)  
+Online: <https://www.oaic.gov.au/privacy/privacy-complaints/>
