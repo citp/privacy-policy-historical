@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neverware.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529194951id_/https%3A//www.neverware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neverware.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226162909id_/https%3A//www.neverware.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Neverware
 
@@ -81,7 +81,7 @@ The CloudReady feedback tool sends robust system logs to Neverware, at a user’
 
  _What data the CloudReady feedback tool collects and what we use it for:_
 
-  *  **System Logs:** We collect a full suite of system logs from your CloudReady device when you send us information using the feedback tool. For an example of what data is contained in these logs, [visit this knowledge base article](https://neverware.zendesk.com/hc/en-us/articles/360001360047). We use this broad set of data to provide our support and engineering team as much context and information as possible when addressing the problem that initiated the CloudReady feedback tool’s use.
+  *  **System Logs:** We collect a full suite of system logs from your CloudReady device when you send us information using the feedback tool. For an example of what data is contained in these logs, [visit this knowledge base article](https://cloudreadykb.neverware.com/s/article/What-info-is-collected-when-I-send-feedback-logs). We use this broad set of data to provide our support and engineering team as much context and information as possible when addressing the problem that initiated the CloudReady feedback tool’s use.
 
 
 
@@ -93,7 +93,7 @@ The CloudReady feedback tool sends robust system logs to Neverware, at a user’
 
 
 
-You can view the logs you have sent to Neverware by sending a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6400051005490d0a15110d160d0117240a01120116130516014a070b09). Education and Enterprise users can also visit my.Neverware.com to access their site’s logs.
+You can view the logs you have sent to Neverware by sending a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#89ede8fde8a4e0e7f8fce0fbe0ecfac9e7ecffecfbfee8fbeca7eae6e4). Education and Enterprise users can also visit my.Neverware.com to access their site’s logs.
 
   *  **Opting Out:** If you do not want to share system logs with CloudReady, you are not required to send us system logs. You can cancel or avoid any sending of logs by never pressing “alt+shift+i” when using CloudReady, never selecting “Report an issue…” from the CloudReady settings menu, and cancelling any prompt that asks you to send logs.
 
@@ -109,7 +109,7 @@ Note that some OS functionality is not possible if you choose not to send us log
 
 
 
-You can request to have your logs deleted by sending a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#66020712074b0f0817130f140f0315260803100314110714034805090b).
+You can request to have your logs deleted by sending a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#97f3f6e3f6bafef9e6e2fee5fef2e4d7f9f2e1f2e5e0f6e5f2b9f4f8fa).
 
  **3\. Neverware.com Website and Sub Domains**
 
@@ -175,7 +175,7 @@ We will not use your personal information in a manner that is inconsistent with 
 
  _How long we keep the data that the Neverware.com domain collects:_
 
-  * If we have no interaction with you for 36 months, we will delete any superfluous personally identifiable information stored about you. Users of our site, products, or services can request to have personally identifiable information and activities deleted by sending a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#62060316034f0b0c13170b100b0711220c07140710150310074c010d0f).
+  * If we have no interaction with you for 36 months, we will delete any superfluous personally identifiable information stored about you. Users of our site, products, or services can request to have personally identifiable information and activities deleted by sending a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#41252035206c282f30342833282432012f24372433362033246f222e2c).
 
 
 
@@ -204,7 +204,7 @@ Defined as the entirety of sites you might visit whose URLs are in the my.neverw
 
  _How long we keep the data that my.Neverware collects:_
 
-  * When you cease to be a user of my.Neverware, you can request to have your personal info and activity erased by sending a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#53373227327e3a3d22263a213a3620133d36253621243221367d303c3e).
+  * When you cease to be a user of my.Neverware, you can request to have your personal info and activity erased by sending a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#91f5f0e5f0bcf8ffe0e4f8e3f8f4e2d1fff4e7f4e3e6f0e3f4bff2fefc).
 
 
 
@@ -270,7 +270,7 @@ We may share your personal data with third parties:
 
 
 
-We also post customer testimonials on our site that may contain personally identifiable information. We obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.  If you would like your testimonial removed, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#62060316034f0b0c13170b100b0711220c07140710150310074c010d0f).
+We also post customer testimonials on our site that may contain personally identifiable information. We obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.  If you would like your testimonial removed, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7410150015591d1a05011d061d1107341a11021106031506115a171b19).
 
 Regardless of any choices you make regarding your personal data (as described below), Neverware may disclose personal data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Neverware; or (b) protect or defend the rights or property of Neverware or users of the site or services.
 
@@ -286,7 +286,7 @@ We offer you choices regarding the collection, use, and sharing of your personal
 
 If you are based in the EEA, please see the section below to review your choices regarding your Personal Data Data Subject Rights.
 
-Otherwise, you may change any of your Personal Data in your account by sending an email to us at the email address set forth below.  You may request deletion of your account information by us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#36525742571b5f5847435f445f5345765853405344415744531855595b), but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements).  We will endeavor to respond without delay. We will otherwise retain your information for as long as your account is active or as needed to provide you Services as well as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Otherwise, you may change any of your Personal Data in your account by sending an email to us at the email address set forth below.  You may request deletion of your account information by us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c1a5a0b5a0eca8afb0b4a8b3a8a4b281afa4b7a4b3b6a0b3a4efa2aeac), but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements).  We will endeavor to respond without delay. We will otherwise retain your information for as long as your account is active or as needed to provide you Services as well as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
  **EEA Data Subject Rights**
 
@@ -322,7 +322,7 @@ In addition, under certain conditions, you have the right to:
 
 
 
-If you would like to exercise these rights, email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#294d485d48044047585c405b404c5a69474c5f4c5b5e485b4c074a4644). We will endeavor to respond without delay. We may need to ask you additional clarifying questions in order to accurately respond to your request. If we are unable to deal with your request fully within one month (due to the complexity or number of requests), we may extend this period by a further two months. Should this be necessary, we will explain the reasons why.
+If you would like to exercise these rights, email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4a2e2b3e2b6723243b3f2338232f390a242f3c2f383d2b382f64292527). We will endeavor to respond without delay. We may need to ask you additional clarifying questions in order to accurately respond to your request. If we are unable to deal with your request fully within one month (due to the complexity or number of requests), we may extend this period by a further two months. Should this be necessary, we will explain the reasons why.
 
 These rights are subject to certain exemptions to safeguards to safeguard the public interest (e.g., the prevention or the detection of crime) and our interests (e.g., the maintenance of legal privilege). We will respond to most requests within one month.
 
@@ -330,11 +330,11 @@ If we are unable to resolve a query or a complaint, you also have the right to l
 
  **Residents of California**
 
-Our users who are California residents may request and obtain from us once a year, free of charge, certain information about the Personal Data (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Data that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ef8b8e9b8ec286819e9a869d868a9caf818a998a9d988e9d8ac18c8082).
+Our users who are California residents may request and obtain from us once a year, free of charge, certain information about the Personal Data (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Data that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d3b7b2a7b2febabda2a6baa1bab6a093bdb6a5b6a1a4b2a1b6fdb0bcbe).
 
  **Children’s Online Privacy**
 
-Neverware’s products and services are not directed to children and Neverware does not knowingly collect online personal information from children under the age of 13. If you are a parent or guardian of a minor under the age of 13 and believe that he or she has disclosed personal information to us, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#94f0f5e0f5b9fdfae5e1fde6fdf1e7d4faf1e2f1e6e3f5e6f1baf7fbf9).
+Neverware’s products and services are not directed to children and Neverware does not knowingly collect online personal information from children under the age of 13. If you are a parent or guardian of a minor under the age of 13 and believe that he or she has disclosed personal information to us, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b2d6d3c6d39fdbdcc3c7dbc0dbd7c1f2dcd7c4d7c0c5d3c0d79cd1dddf).
 
  **Fair Information Practices**
 
@@ -361,8 +361,8 @@ New York, New York 10001
 
 United States
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b4d0d5c0d599dddac5c1ddc6ddd1c7f4dad1c2d1c6c3d5c6d19ad7dbd9)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#36525742571b5f5847435f445f5345765853405344415744531855595b)
 
 (855) 979-9199
 
- **Last Updated on 2019-03-29**
+ **Last Updated on 2019-08-15**
