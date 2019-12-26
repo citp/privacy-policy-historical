@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecricketlounge.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628031201id_/http%3A//thecricketlounge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecricketlounge.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226225848id_/http%3A//thecricketlounge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Cricket Lounge
 
@@ -20,7 +20,7 @@ thecricketlounge.com site consists of links with other websites. thecricketloun
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [//www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
  **Changes to this privacy policy**
 
