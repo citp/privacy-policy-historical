@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamingtarget.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602154321id_/http%3A//www.gamingtarget.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingtarget.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226090116id_/http%3A//www.gamingtarget.com/privacy.php) for the most accurate reproduction.*
 
 # Video Game News, Reviews, Release Dates, Trailers - Gaming Target
 
