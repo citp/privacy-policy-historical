@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cbr.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626000200id_/https%3A//www.cbr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbr.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226022750id_/https%3A//www.cbr.com/privacy-policy) for the most accurate reproduction.*
 
-# CBR
+# Privacy Policy | CBR
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site. 
 
-This Privacy Policy was last updated on May 10, 2018.
+This Privacy Policy was last updated on December 20, 2019.
 
 ## Legal Ownership
 
