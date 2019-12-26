@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the medtechy.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423180602id_/https%3A//www.medtechy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medtechy.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226023718id_/https%3A//www.medtechy.com/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Medtech[y] | Medtechy
+# Medtechy: The Place for Biotechnology & Medical Device News | Medtechy
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/medtechy.com).  
+
 
 Medtechy LLC ("Company," "we," "us," or "our") created this privacy policy ("Privacy Policy") to explain how we use personal information, as defined below, and to give you assurance of our commitment to fair information practices and to the protection of your privacy as you visit and use the Medtechy.com website (the "Website").
 
