@@ -1,50 +1,42 @@
-> *The following text is extracted and transformed from the leankit.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625074446id_/http%3A//info.leankit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leankit.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226172044id_/https%3A//www.planview.com/trust/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | LeanKit
+# Planview Privacy - Planview
 
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by LeanKit (collectively, "Services") ("Authorized Customers").
+* * *
 
- **"Personally Identifiable Information"**   
-Refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
+Planview’s commitment to privacy extends to every facet of the organization to ensure customer data is managed with the utmost of care.
 
- **What Personally Identifiable Information is collected?**  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+### Privacy Statement and internal Privacy Policy
 
- **What organizations are collecting the information?**  
-In addition to our direct collection of information, our third party service vendors (such as our credit card processing company) may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+Planview maintains a comprehensive privacy [statement](https://web.archive.org/trust/privacy/statement/) describing the types of personal identifiable information we collect, how and why we use, share and in what way we secure that information. We also inform about how you can access and exercise your rights as a registered , and how to update your information.
 
- **How does the Site use Personally Identifiable Information?**  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
+Planview’s Privacy Policy is an internal guidance for how employees and contracted agents shall handle personal identifiable information of customers and prospects. The policy is complemented by specific instructions to each business area, depending on the nature of that business area and what personal identifiable information they process.
 
-**With whom may the information may be shared?**  
-We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We will not sell or otherwise make available the details of your Personally Identifiable Information to unauthorized third parties, except in such cases where a third party is acting as an agent in the fulfillment of our business transactions with you (such as a credit card processing company used to process payments of Authorized Customers).
+From a privacy perspective, Plainview’s operations are divided between processing activities we perform on behalf of our customers (our products), and activities performed for our own business (for marketing). Our responsibilities are varying depending on the subject matter of the processing activities.
 
-**How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by LeanKit is securely stored and is not accessible to third parties or employees of LeanKit except for use as indicated above. 
+[Read The Privacy Statement](https://web.archive.org/trust/privacy/statement/)
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [info@LeanKit.com](mailto:info@LeanKit.com "info@LeanKit.com")
+### EU General Data Protection Regulation (GDPR)
 
- **Are Cookies Used on the Site?**  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers.
+GDPR went into effect in 2018 and imposes strict requirements related to the way organizations store and process the personal data of EU citizens. As a global company, Planview understands the important link between privacy and customer trust. All Planview entities adheres to GDPR. The appointment and ongoing efforts of a dedicated Data Privacy Officer (DPO), based in EU (Sweden), are the basis of an increased focus toward earning that trust.
 
- **How does LeanKit use login information?**  
-LeanKit uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+The principles relating to processing of personal data as stated in the GDPR are focus for our compliance work.
 
- **What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-LeanKit has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information. Our privacy policy does not cover their collection or use of this information. Prior to providing affiliated vendors with any Personally Identifiable Information, we will obtain assurances that they will safeguard it in accordance with this policy. In the unlikely event we discover than an affiliated vendor is using Personally Identifiable Information in a way that conflicts with this policy, we will take reasonable steps to stop this immediately.   
+  *  **Lawfulness** – We process personal data strictly for our own business, and in accordance with our privacy policy. We inform customers and individuals about our processing activities in our privacy statement. Our Data Processing Agreement (DPA) is available for any and all to review.
+
+  *  **Purpose limitation** – We process personal data strictly for the purpose of 1) fulfilling the contractual requirements agreed upon between our customers and us, and/or 2) marketing our products to customers and prospects.
+
+  *  **Data Minimization** – We require only identifiable contact information of customers and users of our products, as well as for our marketing activities. Customer records are being is regularly reviewed and evaluated for accuracy. We have processes in place to ensure we fulfill the rights of a registered individual (data subject) by our DSAR portal.
+
+  *  **Storage limitation (retention)** – We keep and store customer data during the term of contract. Customer accounts are deleted 30 days after contract expiry. Back up logs are stored for the maximum 90 days for customer convenience. Information in customer and user records are stored in our marketing systems for one year after terminated contract. Consent is required for longer storage. At any time during the term of contract, all customer data used in the product is offered portability.
+
+  *  **Integrity and confidentiality** – We have implemented technical and organizational measures to ensure all data is protected and secured. We have internal access controls and authorization requirements to all data. All employees are subject to our privacy policy and specific instructions. Annual mandatory trainings and seminars are provided to ensure sufficient awareness and knowledge is achieved. For further description of our technical measures to protect data, please review our information of security.
 
 
-We will also disclose Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
 
-**How does the Site keep Personally Identifiable Information secure?**  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [info@LeanKit.com](mailto:info@LeanKit.com "info@LeanKit.com")
+### Questions? Get in touch with us.
 
- **Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [info@LeanKit.com](mailto:info@LeanKit.com "info@LeanKit.com"). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+We want to hear from you. Contact Planview’s security team to get the answers.
 
-**What happens if the Privacy Policy Changes?**  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+[Email Privacy Team](mailto:privacy@planview.com)
