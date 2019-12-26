@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terrapinn.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624223449id_/http%3A//www.terrapinn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrapinn.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226035048id_/https%3A//www.terrapinn.com/privacy) for the most accurate reproduction.*
 
 # Terrapinn privacy
 
@@ -136,6 +136,8 @@ Each Terrapinn entity will share your Personal Information with the other member
 In supplying Terrapinn with your Personal Information, you agree that Terrapinn may transfer that information (to the extent that it is still held on our database at the relevant time) to a third party who acquires all or substantially all of any Terrapinn entity's assets or stock or our Website services, or to a third party which we purchase or from which we acquire substantially all of its assets or stock, in each case whether by merger, acquisition, reorganisation or otherwise.
 
 Terrapinn will also share your Personal Information with selected third parties including business partners, suppliers and sub-contractors for the performance of any contract it enters into with them or you, and/or, to the extent you have expressly consented (by ticking the relevant box on the registration form), to advertisers and advertising networks that require your data to select and serve relevant adverts to you and others.
+
+If you attend an event then a sponsor or exhibitor may scan your badge. This is the equivalent to handing over your business card. Should you allow your badge to be scanned then Terrapinn will share your Personal Information with the relevant sponsor or exhibitor. 
 
 In addition, it may be necessary to disclose your Personal Information if we are under a duty to disclose your Personal Information in order to comply with any legal obligation, enforce our [terms and conditions](http://www.terrapinn.com/terms-and-conditions "Terrapinn terms & conditions") and any other agreement, or protect the rights, property, or safety of Terrapinn, Terrapinn's group companies and our contractors, directors, employees or other personnel. This includes exchanging information with other companies and organisations for the purposes of fraud protection and prevention.
 
