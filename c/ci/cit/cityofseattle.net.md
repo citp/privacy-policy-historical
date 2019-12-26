@@ -1,37 +1,13 @@
-> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611060509id_/http%3A//www.seattle.gov/tech/initiatives/privacy/about-the-privacy-program) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226152813id_/http%3A//www.seattle.gov/tech/initiatives/privacy/about-the-privacy-program) for the most accurate reproduction.*
 
 # About the Privacy Program - Tech | seattle.gov
 
-The privacy program is designed to provide the structure and guidance required for City departments to incorporate the appropriate privacy practices into daily operations and to build public trust and confidence in how we collect and manage the public’s personal information.
-
-In 2015, we designed a citywide Privacy Program to provide guidance and tools to City employees when working with personal information. We convened a group of representatives from across 15 City departments to create policies and practices to define and implement a citywide program to address our privacy commitments. To advise these efforts, we invited a Privacy Advisory Committee of area privacy thought leaders from academia, local companies, and private legal practice and community activist groups to provide best practices recommendations.
-
-Since that start, the program has continued to grow. We now conduct hundreds of privacy reviews each year about the technologies we use to deliver needed services to ensure that new and existing City programs across all of our many departments use and protect information we collect.
-
-## Privacy Principles
-
-The City of Seattle Privacy Principles were adopted as [City Council Resolution #31570](http://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf "City of Seattle Privacy Principles") on February 23, 2015. This set of six principles provides an ethical framework for developing appropriate policies, standards and practices regarding the public's personal information. These principles outline our commitment to collect only what is necessary, tell you how we use and share it, why we keep it only as long as necessary or required by law, and how we protect it from misuse.
-
-## Privacy Policy
-
-Adopted in July 2015, this [policy](http://www.seattle.gov/Documents/Departments/InformationTechnology/privacy/PrivacyPolicyFINAL.pdf "City of Seattle Privacy Policy") provides direction to all City departments about our obligations to follow our Privacy Principles, Privacy Statement, and our Privacy Review process. This policy outlines how departments will design projects with privacy top of mind.
-
-## **Privacy Statement**
-
-Informed by the Privacy Principles, the Privacy Statement outlines our commitments about the collection and management of the public's personal information and both replaces and expands on our former [Online Privacy Statement](http://www.seattle.gov/tech/initiatives/privacy/about-the-privacy-program#x58255).
-
-## 
-
 We understand the value of personal information and work to protect the personal information we collect from the public. We are committed to providing greater transparency into our data privacy practices. As part of our deeper commitment to good data practices and data stewardship, the City has created the City of Seattle Privacy Principles to serve as a guide for all City departments that collect and use personal information. Please note that the City will be updating and improving our privacy and security posture over the next several months and that it will take time to implement certain changes throughout the City system. We appreciate your patience while we enhance and unify our privacy practices. Please contact us at [Privacy@seattle.gov](mailto:Privacy@seattle.gov) if you have any questions, or if you believe you see or experience policies or practices that are not yet in line with the principles set forth in this document. 
-
-## 
 
 This Privacy Statement applies to the collection, use, disclosure, sharing and retention of personal information we obtain from individuals interacting with City departments, whether in person, on a website (//www.seattle.gov/), or by mail in the course of providing City services. Each City department will strive to abide by and use this Privacy Statement to direct the handling of personal information, though from time to time it may be necessary for a City department to develop a practice that differs from this Privacy Statement. When that happens, we will do our best to provide you with notice of the practice and to let you know about your choices.
 
 **City of Seattle Employees  
-** This Statement does not apply to personal information we obtain in our capacity as an employer. Employment information is covered under separate polices which may be found on our [Human Resources website](http://www.seattle.gov/personnel/ "Human Resources website").
-
-## 
+** This Statement does not apply to personal information we obtain in our capacity as an employer. Employment information is covered under separate polices which may be found on our [Human Resources website](https://www.seattle.gov/personnel/ "Human Resources website").
 
 The City collects different kinds of information from the public in order to conduct City operations and provide the public with important services. Some of this information you provide directly to us. Some of it we collect in the course of your interactions with various City departments. 
 
@@ -147,7 +123,7 @@ If during your visit to our web site you participate in a survey, send an e-mail
 
 The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us.
 
-We use your e-mail address to respond to you. We do not send you unsolicited e-mail unless you specifically elect to receive it or unless it is part of a transactional communication that is part of receiving a City service. Online discussion lists or "threads" are maintained and controlled in accordance with the [City's Electronic Conferencing and List Services Policy](http://www.seattle.gov/pan/mailinglistpolicies.htm). Survey information is used for the purpose identified by the survey. Information from other online forms is used only for conducting City business related to the online form.
+We use your e-mail address to respond to you. We do not send you unsolicited e-mail unless you specifically elect to receive it or unless it is part of a transactional communication that is part of receiving a City service. Online discussion lists or "threads" are maintained and controlled in accordance with the City's Public External Mailing List Policy. Survey information is used for the purpose identified by the survey. Information from other online forms is used only for conducting City business related to the online form.
 
 **Information collected from your mobile device**
 
@@ -251,11 +227,7 @@ SMC 11.50.570
 
 In certain public safety and emergency response situations, we collect biometric data, including fingerprints and health related measurements such as heart rate or blood pressure. In some cases, we also employ facial recognition technology to assist in public safety response. Due to the individualized and serious nature of emergency response efforts, a variety of personal information may be collected by first responders and other personnel, as needed, and such data collection, use and disclosure practices may fall outside of the scope of this Privacy Statement. Emergency call centers may also follow different protocols in the course of responding to emergency calls. Whenever possible, our emergency responders will attempt to honor the Privacy Principles and this Privacy Statement when collecting, using, storing or sharing personal information. 
 
-## 
-
 While it may limit the services we are able provide, where it is possible we will present information about what we are collecting and provide an opportunity to accept or decline to provide it to us, such as follow-up communications not directly related to the service being requested. Please understand that in some circumstances, we may not be able to provide the desired services if you decline to provide necessary information. 
-
-## 
 
 We recognize that the public expects government both to protect individual privacy and to operate effectively. Toward that end, the City of Seattle uses personal information in the course of providing services, protecting the public's safety, meeting our mission obligations, and determining the best use of our resources. We endeavor to collect only as much information as is necessary to perform these functions and to limit information use to the purpose stated at the time of collection and to protect and improve our services. 
 
@@ -266,8 +238,6 @@ We may use information we collect to help the City better understand community n
 **Systems Security**
 
 We may collect or use collected information for systems security purposes, and to ensure that our online website services remain available to all users. The City's online services may use software or services to detect fraudulent transactions, identify unauthorized attempts to upload or change information, or otherwise interference with service delivery.
-
-## 
 
 We share information to coordinate delivery of services to the public, improve customer service, maintain data consistency, assess program performance, identify opportunities to improve our operations and because we are required to by law. We may also share information that has been aggregated or de-identified.  
 
@@ -302,15 +272,9 @@ The City's web site has many links to other websites. These include links to web
 
 Neither the City, or any department, officer, or employee of the City warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at his or her own risk.
 
-## 
-
 Public records created or received by the City must be retained for legal or operational purposes according to applicable laws. As a government entity, much of the information that the City collects is considered a public record regardless of format or where it is stored. More information about the Preservation and Destruction of Public Records may be found [here](http://app.leg.wa.gov/RCW/default.aspx?cite=40.14) . When possible, the City may provide the right for an individual to request that information collected from the individual be deleted, unless the City is required to retain such information.
 
-## 
-
 We take reasonable steps to ensure that personal information we have is up-to-date. Where possible, we implement processes for updating inaccurate information that is used in the course of doing business. If you believe that your personal information needs to be updated, please complete [this form](http://seattle-csrprodcwi.motorolasolutions.com/ServiceRequest.mvc/SRIntakeStep2/CSGENINQ) to request assistance from the City's Customer Service Bureau. Please explain what personal information you believe is inaccurate and which City office or department that information was provided to. We will take reasonable steps to verify your identity before granting access or making corrections.
-
-## 
 
 We comply with laws, statutes and regulations that govern the information we collect. We also follow best practices and internal policies to reduce or eliminate the potential impact of new technologies and practices on the public's privacy. Should we become aware of programs or applications that are contrary to this privacy statement we will take steps to educate staff and remediate the issue. 
 
@@ -324,8 +288,4 @@ The City has taken steps to safeguard the integrity of its data and to prevent u
 
 This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via the City's web site. Please remember that no security system is impenetrable and we cannot guarantee the security of our systems 100%.  In the event that any information under our control is compromised as a result of a breach of security, the City will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-## 
-
-We are mindful of the populations we serve and how data about members of the public, including vulnerable populations, can and should be used. Our Privacy Principles are consistent with our [Race and Social Justice Initiative](http://www.seattle.gov/rsji). 
-
-## 
+We are mindful of the populations we serve and how data about members of the public, including vulnerable populations, can and should be used. Our Privacy Principles are consistent with our [Race and Social Justice Initiative](https://www.seattle.gov/rsji). 
