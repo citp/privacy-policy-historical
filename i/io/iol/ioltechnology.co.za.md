@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ioltechnology.co.za privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624050802id_/https%3A//www.iol.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioltechnology.co.za privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226024309id_/https%3A//www.iol.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IOL
 
@@ -56,7 +56,7 @@ For your added protection this web site subscribes to and complies with the volu
 
 12\. Users can request access to any relevant personal data held by the web site owner as laid out in the Promotion of Access to Information Act No 2 of 2000 (“PAIA”) and where such access is necessary for them to exercise and/or protect any of their rights. A copy of PAIA can be obtained [ here ](http://www.dfa.gov.za/department/accessinfo_act.pdf) .
 
-13\. Detailed information on PROATIA and the procedure to follow in making a request for access to personal data is available in the web site owner’s Promotion of Access to Information Manual and from the website of the Human Rights Commission – [ www.hrc.org.za ](http://www.hrc.org.za/) .
+13\. Detailed information on PROATIA and the procedure to follow in making a request for access to personal data is available in the web site owner’s Promotion of Access to Information Manual and from the website of the Human Rights Commission – <https://www.sahrc.org.za/> .
 
 **Links to other web sites**
 
