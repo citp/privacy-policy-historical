@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adyoulike.com privacy policy that was archived on 2019-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630235516id_/https%3A//www.adyoulike.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adyoulike.com privacy policy that was archived on 2019-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191226125552id_/http%3A//www.adyoulike.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
                 <!-- Meta -->
@@ -14,12 +14,23 @@
 
         <!-- CSS -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Muli:200,300,400">
-                    <link rel="stylesheet" href="css/prod.css">
-        
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/jquery.fullPage.css">
+        <link rel="stylesheet" href="css/loader.css">
+        <link rel="stylesheet" href="css/main.css">
+
         <!-- JS -->
-        <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
-                <script type="text/javascript" src="js/prod.js"></script>
-        
+        <script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+
+        <script type="text/javascript" src="js/jquery-3.2.0.js"></script>
+        <script type="text/javascript" src="js/jquery.fullPage.js"></script>
+        <script type="text/javascript" src="js/jquery.animateNumber.js"></script>
+        <script type="text/javascript" src="js/js.cookie.js"></script>
+        <script type="text/javascript" src="js/loader.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+
+
         <meta property="og:site_name" content="ADYOULIKE">
         <meta property="og:site" content="www.adyoulike.com">
         <meta property="og:title" content="Discover Deep Native Advertising!">
@@ -78,6 +89,24 @@
           }
         })});
         </script>
+
+        <!-- Facebook Pixel Code -->
+        <script>
+          !function(f,b,e,v,n,t,s)
+          {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window,document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+           fbq('init', '444945899403866');
+          fbq('track', 'PageView');
+        </script>
+        <noscript>
+         <img height="1" width="1" src="https://www.facebook.com/tr?id=444945899403866&ev=PageView&noscript=1"/>
+        </noscript>
+        <!-- End Facebook Pixel Code -->
     </head>
 
     <body id="privacy_policy">
@@ -538,23 +567,16 @@ $(document).ready(function() {
                                     <option value="journalist">I'm a journalist</option>
                                     <option value="other">Other</option>
                                 </select>
-                                <input type="text" name="name" id="name" value="" placeholder="Name">
+                                <input type="text" name="contact_company" id="contact_company" value="" placeholder="Company">
                             </div>
                             <div class="form_line">
-                                <select name="market" required="required" id="market">
-									<option value="">Country</option>
-									<option value="USA">USA</option>
-									<option value="Canada">Canada</option>
-									<option value="UK">UK</option>
-									<option value="France">France</option>
-									<option value="Germany">Germany</option>
-									<option value="Italy">Italy</option>
-									<option value="Spain">Spain</option>
-									<option value="APAC">APAC (Asia Pacific)</option>
-									<option value="Latin America">LATAM (Latin America)</option>
-									<option value="Other">Rest of the World</option>
-                                </select>
-                                <input type="email" required="required" name="email" id="email" value="" placeholder="Email">
+                                <input type="text" name="contact_first_name" required="required" id="contact_first_name" value="" class="contact_left" placeholder="First Name">
+                                <input type="text" name="contact_last_name" id="contact_last_name" value="" placeholder="Last Name">
+                            </div>
+                            <div class="form_line">
+                                <select name="country" required="required" id="country" class="block_right">
+                                    
+                                </select><input type="email" required="required" name="email" id="email" value="" placeholder="Email">
                             </div>
                         </div>
                         <div id="block_form_right">
