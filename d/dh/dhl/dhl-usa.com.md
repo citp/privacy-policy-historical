@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhl-usa.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624034733id_/https%3A//www.logistics.dhl/us-en/home/footer/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhl-usa.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226013249id_/https%3A//www.logistics.dhl/us-en/home/footer/privacy-notice.html) for the most accurate reproduction.*
 
 # Local Privacy Notice | DHL | United States of America
 
@@ -171,7 +171,7 @@ The cookies are used confidentially only by DHL internally and expire after 365 
 
 More info about [Privacy](https://www2.ioninteractive.com/privacy-policy)
 
-**dotMailer Tracking Cookie ² | tracked_session**  
+**dotdigital Tracking Cookie ² | tracked_session**  
 
 
 This cookie is created when you arrive at specific web pages from a link contained in a campaign or promotional email. We use the information to compile reports and to help us improve the site and provide you with better, targeted content.
@@ -185,7 +185,7 @@ If the cookie remains anonymous, it expires after 30 days. If linked to an email
 Should you choose not to sign up for email marketing updates, you will not be contacted in the future and your email address will only be used confidentially by DHL internally to understand your individual online activities. This means that we can still continue to deliver new and improved website content to suit your specific needs.    
 
 
-More info about privacy at [dotMailer](https://support.dotmailer.com/hc/en-gb/articles/115001414144-What-type-of-cookies-do-you-create-on-the-devices-of-recipients-and-visitors-)
+More info about privacy at [dotdigital](https://support.dotdigital.com/hc/en-gb/articles/115001414144-What-type-of-cookies-do-you-create-on-the-devices-of-recipients-and-visitors-)
 
 **MediaMind Cookies ² | U2, ActivityInfo, TargetingInfo, Eyeblaster, A3, B4, and C4.**  
 
@@ -319,8 +319,7 @@ When you click on an ad delivered by Google, a conversion tracking cookie is pla
 More info about Google Adwords in Google’s [Privacy Policy](https://policies.google.com/technologies/ads)  
 To opt out of being tracked by Google Adwords across all websites, visit: [Google Ad Settings](https://www.google.com/settings/ads)
 
-**  
-DoubleClick Cookies 4 | Various: see [Types of cookies used by Google](https://policies.google.com/technologies/types)**
+**DoubleClick Cookies 4 | Various: see [Types of cookies used by Google](https://policies.google.com/technologies/types)**
 
 We use the online advertising program DoubleClick and the conversion tracking function of DoubleClick. DoubleClick conversion tracking is an analytics service provided by Google.  
 When you click on a Google or Bing advertisement, a cookie is placed on your browser. This enables both DoubleClick and DHL to recognize that someone has been redirected to the website from a Google or Bing ad and has made it to a predetermined target page (conversion page).
@@ -330,8 +329,7 @@ The cookies enable us to count the number of times a user visits a web page afte
 More info about DoubleClick in Google’s [Privacy Policy](https://policies.google.com/technologies/ads)  
 If you do not want to take part in the tracking process outlined here, you can decline the placement of the cookie necessary for this to take place over your browser settings. You can also opt out of DoubleClick's use of cookies by visiting [Google Ad Settings.](https://www.google.com/settings/ads)
 
-**  
-Google Remarketing and Similar Audience Technology 4 | Various: see [Types of cookies used by Google](https://policies.google.com/technologies/types)**
+**Google Remarketing and Similar Audience Technology 4 | Various: see [Types of cookies used by Google](https://policies.google.com/technologies/types)**
 
 Our websites use retargeting and similar audience technology provided by Google. This technology enables us to target visitors of our website with remarketing ads who already have shown interest in our products. The ads are displayed by using a cookie-based analysis of the previous usage data. Personal data will not be stored. In the case of retargeting technology, a cookie will be stored on your browser in order to collect anonymized date about your interests and adapt ads specifically according to the stored information. Later, if you perform Google searches or see advertisements from the Google network on other websites, we have the possibility of presenting you targeted ads of our products there (known as remarketing). If you have a Google account, Google can link this data with your Google account.  
 Similar audience targeting allows DHL to show ads to people who share characteristics with people on the existing remarketing lists.
@@ -339,19 +337,16 @@ Similar audience targeting allows DHL to show ads to people who share characteri
 More info, including how remarketing works in Google’s [Privacy Policy](https://policies.google.com/technologies/ads)  
 You can deactivate remarketing ads from Google by visiting [Google Ad Settings](https://www.google.com/settings/ads)
 
-**  
-Microsoft Bing Cookies 4 | Various: see Use of Cookies and Similar Technologies in the [Microsoft Privacy Statement](https://privacy.microsoft.com/en/privacystatement)**
+**Microsoft Bing Cookies 4 | Various: see Use of Cookies and Similar Technologies in the [Microsoft Privacy Statement](https://privacy.microsoft.com/en/privacystatement)**
 
 Our websites use the conversion tracking of Bing Ads. When you click on a Bing advertisement, a cookie is placed on your browser. This enables both Bing and DHL to recognize that someone has been redirected to the website from a Bing ad and has made it to a predetermined target page (conversion page).
 
 More info about Microsoft Bing in Microsoft’s [Privacy](https://privacy.microsoft.com/en/privacystatement) Statement.  
 If you do not want to take part in the tracking process outlined here, you can decline the placement of the cookie necessary for this to take place over your browser settings. The deactivation can be carried out using the [Microsoft Opt Out](http://choice.microsoft.com/en/opt-out).
 
-**Get A Quote  4 |  __gaq_data_**  
+**Get a Quote 4 | _gaq_data**
 
-
-This cookie is used for reidentifying and restoring recent quote information for quote data requested on logistics.dhl. This cookie stores required fields in order to perform a quote request. These are country, city and zip data for the origin and destination. Information regarding the parcel attributes and delivery date. The cookie does not store any personal information. The cookie will be stored for two years.  
-
+This cookie is used for reidentifying and restoring recent quote information for quote data requested on logistics.dhl. This cookie stores required fields in order to perform a quote request. These are country, city and zip data for the origin and destination. Information regarding the parcel attributes and delivery date. The cookie does not store any personal information. The cookie will be stored for two years.
 
 ##  Additional Information 
 
