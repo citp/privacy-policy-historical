@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountmugs.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125053921id_/https%3A//www.discountmugs.com/nc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountmugs.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226233407id_/https%3A//www.discountmugs.com/nc/privacy.php) for the most accurate reproduction.*
 
 # DiscountMugs.com Privacy Policy – DiscountMugs Privacy Policy – Discount Mugs Privacy Policy
 
@@ -32,8 +32,10 @@ Discountmugs offers you a means to choose how we may use information you provide
 
 Correcting and Updating Your Information
 
-To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a Discountmugs Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [support@discountmugs.com](mailto:support@discountmugs.com) or by calling 800-569-1980.[](mailto:support@discountmugs.com)
+To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a Discountmugs Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [support@discountmugs.com](mailto:support@discountmugs.com) or by calling 1-800-579-7152.[](mailto:support@discountmugs.com)
 
 Additional Information
 
 Questions regarding this Privacy Policy or the security practices of the Services should be directed to Discountmugs's Security Administrator by e-mailing[ support@discountmugs.com](mailto:%20support@discountmugs.com)
+
+Last updated November 1, 2019
