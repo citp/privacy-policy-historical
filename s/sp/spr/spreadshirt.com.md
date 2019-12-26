@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the spreadshirt.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625195130id_/https%3A//www.spreadshirt.com/privacy-policy-C3259) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadshirt.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226022606id_/https%3A//www.spreadshirt.com/privacy-policy-C3259) for the most accurate reproduction.*
 
 # Privacy Policy | Spreadshirt
 
 Thank you for your interest in our website. In the following, we will inform you in detail about the processing of personal data when using this website. Personal data means all data that can be personally related to you, e.g. name, address, telephone number, email address or user behavior.
+
+
+
 
 ## 1\. Who is responsible for data processing?
 
