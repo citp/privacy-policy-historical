@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plymouth.edu privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628195955id_/https%3A//www.usnh.edu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plymouth.edu privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226053858id_/https%3A//www.usnh.edu/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | University System of New Hampshire
 
