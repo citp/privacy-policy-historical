@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fstoppers.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624233230id_/https%3A//fstoppers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fstoppers.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226041240id_/https%3A//fstoppers.com/privacy) for the most accurate reproduction.*
 
 # Fstoppers Privacy Policy | Fstoppers
 
