@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javhihi.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415165136id_/http%3A//javhihi.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javhihi.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226193940id_/https%3A//www1.javhihi.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - JavHiHi
 
@@ -48,4 +48,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 **YOUR RIGHTS**
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the [Contact us](http://javhihi.com/contact.html "Contact us").
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the [Contact us](https://www1.javhihi.com/contact.html "Contact us").
