@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the collegetimes.com privacy policy that was archived on 2018-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181222025604id_/https%3A//www.collegetimes.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the collegetimes.com privacy policy that was archived on 2019-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191226235942id_/https%3A//www.collegetimes.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="noscroll"><head>
         <meta charset="utf-8">
@@ -12,7 +12,7 @@ What information do we collect?
 We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.
 When ordering or regis...">
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
-        <link href="/build/css/app-4d866968.css" rel="stylesheet">
+        <link href="/build/css/app-c0cd78f5.css" rel="stylesheet">
         <link rel="icon" type="image/png" href="https://www.collegetimes.com/i/android-chrome-192x192.png?v=2" sizes="192x192">
         <link rel="apple-touch-icon" href="https://www.collegetimes.com/i/apple-touch-icon-128x128.png?v=2">
         <link rel="shortcut icon" href="https://www.collegetimes.com/favicon.ico">
@@ -122,6 +122,7 @@ var consentManager = {
         dfp_mappings.mapTopBanner = googletag.sizeMapping()
             .addSize([758, 200], [728, 90])
             .addSize([980, 200], [[728, 90], [970, 250], [970, 90]])
+            .addSize([0,0], [320, 50])
             .build();
 
         dfp_mappings.mapInterstitial = googletag.sizeMapping()
@@ -162,6 +163,18 @@ var consentManager = {
             .addSize([758, 200], [[0, 0]])
             .build();
 
+        dfp_mappings.mapArticleBottom = googletag.sizeMapping()
+            .addSize([0, 0], [300, 250])
+            .addSize([780, 200], []) // Tablet
+            .addSize([1050, 200], []) // Desktop
+            .build();
+
+        dfp_mappings.mapAlsoLikeMiddle = googletag.sizeMapping()
+            .addSize([0, 0], [320, 50])
+            .addSize([780, 200], []) // Tablet
+            .addSize([1050, 200], []) // Desktop
+            .build();
+
         dfp_placements.background_skin = googletag.defineSlot('/9044862/collegetimes_background_skin', [1, 1], 'div-gpt-background-skin')
             .defineSizeMapping(dfp_mappings.mapBackgroundSkin)
             .addService(googletag.pubads());
@@ -172,6 +185,14 @@ var consentManager = {
             .defineSizeMapping(dfp_mappings.mapInterstitial)
             .addService(googletag.pubads());
                 dfp_placements.just_premium = googletag.defineSlot('/9044862/collegetimes_justpremium', [1, 1], 'div-gpt-justpremium')
+            .addService(googletag.pubads());
+
+        dfp_placements.article_bottom = googletag.defineSlot('/9044862/collegetimes_article_bottom', [300, 250], 'div-gpt-bottom-article')
+            .defineSizeMapping(dfp_mappings.mapArticleBottom)
+            .addService(googletag.pubads());
+
+        dfp_placements.also_like_middle = googletag.defineSlot('/9044862/collegetimes_also_like_middle', [320, 50], 'div-gpt-middle-also-like')
+            .defineSizeMapping(dfp_mappings.mapAlsoLikeMiddle)
             .addService(googletag.pubads());
 
         // Top sidebar only fired on initial load for desktop
@@ -192,9 +213,9 @@ var consentManager = {
         .addService(googletag.pubads());
     googletag.defineSlot('/9044862/collegetimes_impression_tracker', [1, 1], 'div-gpt-impression-tracker')
         .addService(googletag.pubads());
-    googletag.defineSlot('/9044862/collegetimes_mid_article_outstream_unit', [1, 1], 'div-gpt-mid-article-outstream-unit')
-    .addService(googletag.pubads());
-
+            googletag.defineSlot('/9044862/collegetimes_mid_article_outstream_unit', [1, 1], 'div-gpt-mid-article-outstream-unit')
+        .addService(googletag.pubads());
+    
 
                                                         dfp_targets.section = 'uncategorized';
                                                                 dfp_targets.sponsored = '';
@@ -353,7 +374,7 @@ var consentManager = {
                             </button>
 
                             <div class="text-center">
-                                <a href="https://www.collegetimes.com" target="_blank">
+                                <a href="https://www.collegetimes.com">
                                     <span class="navbar-logo"></span>
                                 </a>
                             </div>
@@ -363,37 +384,37 @@ var consentManager = {
                             <ul class="nav navbar-nav">
 
                                                                     <li>
-                                        <a href="https://www.collegetimes.com/news" class="" target="_blank">
+                                        <a href="https://www.collegetimes.com/news" class="">
                                             News
                                             <div class="nav-border hidden-xs hidden"></div>
                                         </a>
                                                                             </li>
                                                                     <li>
-                                        <a href="https://www.collegetimes.com/back-to-school" class="" target="_blank">
+                                        <a href="https://www.collegetimes.com/back-to-school" class="">
                                             Back to School
                                             <div class="nav-border hidden-xs hidden"></div>
                                         </a>
                                                                             </li>
                                                                     <li>
-                                        <a href="https://www.collegetimes.com/life" class="" target="_blank">
+                                        <a href="https://www.collegetimes.com/life" class="">
                                             Life
                                             <div class="nav-border hidden-xs hidden"></div>
                                         </a>
                                                                             </li>
                                                                     <li>
-                                        <a href="https://www.collegetimes.com/entertainment" class="" target="_blank">
+                                        <a href="https://www.collegetimes.com/entertainment" class="">
                                             Entertainment
                                             <div class="nav-border hidden-xs hidden"></div>
                                         </a>
                                                                             </li>
                                                                     <li>
-                                        <a href="https://www.collegetimes.com/travel" class="" target="_blank">
+                                        <a href="https://www.collegetimes.com/travel" class="">
                                             Travel
                                             <div class="nav-border hidden-xs hidden"></div>
                                         </a>
                                                                             </li>
                                                                     <li>
-                                        <a href="https://www.collegetimes.com/careers" class="" target="_blank">
+                                        <a href="https://www.collegetimes.com/careers" class="">
                                             Careers
                                             <div class="nav-border hidden-xs hidden"></div>
                                         </a>
@@ -429,7 +450,7 @@ var consentManager = {
 
                                                     <div class="sticky-spacer">
     <div class="text-center top-space2 tablet top-ad" id="top-ad-desktop">
-        <div id="div-gpt-top" class="text-center hidden-xs">
+        <div id="div-gpt-top" class="text-center">
             <script type="text/javascript">
                 googletag.cmd.push(function() {
                     googletag.display('div-gpt-top');
@@ -444,19 +465,17 @@ var consentManager = {
     <div class="article single-post">
         <section class="intro auto-pad">
             
-                            <a href="https://www.collegetimes.com/uncategorized" class="category-link category-link-uncategorized" target="_blank">Random</a>
+                            <a href="https://www.collegetimes.com/uncategorized" class="category-link category-link-uncategorized">Random</a>
             
             <div class="byline">
-                Sep 19, 2013
-                <br>
-                By <a href="https://www.collegetimes.com/author/shane" target="_blank">Shane Johnston</a>
+                By <a href="https://www.collegetimes.com/author/shane">Shane Johnston</a>
             </div>
             <div class="social-icons coloured">
-                                    <a href="http://facebook.com/sharer.php?app_id=1743165462566274&amp;u=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dfacebook%26utm_campaign%3Darticle%26utm_medium%3Dweb&amp;t=Privacy+Policy" rel="external" class="analytics" data-category="[Sharing] Article Header" data-label="Facebook" data-value="/uncategorized/privacy-policy-41009" target="_blank"><i class="fa fa-facebook-square"></i></a>
-                    <a href="https://twitter.com/intent/tweet?via=collegetimesct&amp;text=Privacy+Policy&amp;url=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" rel="external" class="analytics" data-category="[Sharing] Article Header" data-label="Twitter" data-value="/uncategorized/privacy-policy-41009" target="_blank"><i class="fa fa-twitter"></i></a>
-                    <a href="whatsapp://send?text=Privacy%20Policy%20-%20https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" rel="external" class="whatsapp-share hide analytics" data-category="[Sharing] Article Header" data-label="Whatsapp" data-value="/uncategorized/privacy-policy-41009" target="_blank"><i class="fa fa-whatsapp"></i></a>
-                    <a href="fb-messenger://share?link=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3FCMP%3Dshare_btn_me%26app_id%3D1743165462566274" rel="external" class="fb-visible-sm analytics" data-category="[Sharing] Article Header" data-label="Facebook Messenger" data-value="/uncategorized/privacy-policy-41009" target="_blank"><img class="fa-fb-messenger" src="https://www.collegetimes.com/i/facebook-messenger.svg"></a>
-                    <a href="mailto:?subject=Privacy Policy&amp;body=I saw this article on CollegeTimes.com that I thought you might like: https://www.collegetimes.com/privacy-policy?utm_source=email&amp;utm_campaign=article&amp;utm_medium=web" rel="external" class="analytics" data-category="[Sharing] Article Header" data-label="Email" data-value="/uncategorized/privacy-policy-41009" target="_blank"><i class="fa fa-envelope"></i></a>
+                                    <a href="https://facebook.com/sharer.php?app_id=1743165462566274&amp;u=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dfacebook%26utm_campaign%3Darticle%26utm_medium%3Dweb&amp;t=Privacy+Policy" rel="external" class="analytics" data-category="[Sharing] Article Header" data-label="Facebook" data-value="/uncategorized/privacy-policy-41009"><i class="fa fa-facebook-square"></i></a>
+                    <a href="https://twitter.com/intent/tweet?via=collegetimesct&amp;text=Privacy+Policy&amp;url=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" rel="external" class="analytics" data-category="[Sharing] Article Header" data-label="Twitter" data-value="/uncategorized/privacy-policy-41009"><i class="fa fa-twitter"></i></a>
+                    <a href="whatsapp://send?text=Privacy%20Policy%20-%20https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" rel="external" class="whatsapp-share hide analytics" data-category="[Sharing] Article Header" data-label="Whatsapp" data-value="/uncategorized/privacy-policy-41009"><i class="fa fa-whatsapp"></i></a>
+                    <a href="fb-messenger://share?link=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3FCMP%3Dshare_btn_me%26app_id%3D1743165462566274" rel="external" class="fb-visible-sm analytics" data-category="[Sharing] Article Header" data-label="Facebook Messenger" data-value="/uncategorized/privacy-policy-41009"><img class="fa-fb-messenger" src="https://www.collegetimes.com/i/facebook-messenger.svg"></a>
+                    <a href="mailto:?subject=Privacy Policy&amp;body=I saw this article on CollegeTimes.com that I thought you might like: https://www.collegetimes.com/privacy-policy?utm_source=email&amp;utm_campaign=article&amp;utm_medium=web" rel="external" class="analytics" data-category="[Sharing] Article Header" data-label="Email" data-value="/uncategorized/privacy-policy-41009"><i class="fa fa-envelope"></i></a>
                 
                             </div>
         </section>
@@ -464,7 +483,7 @@ var consentManager = {
                             <h1 class="title article-page">
                     Privacy Policy
                 </h1>
-                        
+                                    
             <section class="article-body">
                 <!-- Article Start -->
                                 <section class="article-main-content">
@@ -520,7 +539,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 Dublin Dublin 2<br>
 Ireland<br>
 Greta@collegetimes.com</p>
-<p>This policy is powered by Free Privacy Policy and Rhino Support <a style="color: #000; text-decoration: none;" href="http://www.rhinosupport.com" target="_blank" rel="nofollow">help desk software</a>.<!-- END PRIVACY POLICY CODE --></p>
+<p>This policy is powered by Free Privacy Policy and Rhino Support <a style="color: #000; text-decoration: none;" href="https://www.rhinosupport.com" target="_blank" rel="nofollow">help desk software</a>.<!-- END PRIVACY POLICY CODE --></p>
 </div>
 
                     </div>
@@ -552,10 +571,10 @@ sh('create', 'SH-65555830-2');
             
                         <h5>Share this article</h5>
             <div class="social-icons coloured">
-                                    <a href="http://facebook.com/sharer.php?app_id=1743165462566274&amp;u=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dfacebook%26utm_campaign%3Darticle%26utm_medium%3Dweb&amp;t=Privacy+Policy" rel="external" class="analytics" data-category="[Sharing] Article Bottom" data-label="Facebook" data-value="/uncategorized/privacy-policy-41009" target="_blank"><i class="fa fa-facebook-square"></i></a>
-                    <a href="https://twitter.com/intent/tweet?via=collegetimesct&amp;text=Privacy+Policy&amp;url=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" rel="external" class="analytics" data-category="[Sharing] Article Bottom" data-label="Twitter" data-value="/uncategorized/privacy-policy-41009" target="_blank"><i class="fa fa-twitter"></i></a>
-                    <a href="whatsapp://send?text=Privacy%20Policy%20-%20https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" rel="external" class="whatsapp-share hide analytics" data-category="[Sharing] Article Bottom" data-label="Whatsapp" data-value="/uncategorized/privacy-policy-41009" target="_blank"><i class="fa fa-whatsapp"></i></a>
-                    <a href="mailto:?subject=Privacy Policy&amp;body=I saw this article on CollegeTimes.com that I thought you might like: https://www.collegetimes.com/privacy-policy?utm_source=email&amp;utm_campaign=article&amp;utm_medium=web" rel="external" class="analytics" data-category="[Sharing] Article Bottom" data-label="Email" data-value="/uncategorized/privacy-policy-41009" target="_blank"><i class="fa fa-envelope"></i></a>
+                                    <a href="https://facebook.com/sharer.php?app_id=1743165462566274&amp;u=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dfacebook%26utm_campaign%3Darticle%26utm_medium%3Dweb&amp;t=Privacy+Policy" rel="external" class="analytics" data-category="[Sharing] Article Bottom" data-label="Facebook" data-value="/uncategorized/privacy-policy-41009"><i class="fa fa-facebook-square"></i></a>
+                    <a href="https://twitter.com/intent/tweet?via=collegetimesct&amp;text=Privacy+Policy&amp;url=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" rel="external" class="analytics" data-category="[Sharing] Article Bottom" data-label="Twitter" data-value="/uncategorized/privacy-policy-41009"><i class="fa fa-twitter"></i></a>
+                    <a href="whatsapp://send?text=Privacy%20Policy%20-%20https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" rel="external" class="whatsapp-share hide analytics" data-category="[Sharing] Article Bottom" data-label="Whatsapp" data-value="/uncategorized/privacy-policy-41009"><i class="fa fa-whatsapp"></i></a>
+                    <a href="mailto:?subject=Privacy Policy&amp;body=I saw this article on CollegeTimes.com that I thought you might like: https://www.collegetimes.com/privacy-policy?utm_source=email&amp;utm_campaign=article&amp;utm_medium=web" rel="external" class="analytics" data-category="[Sharing] Article Bottom" data-label="Email" data-value="/uncategorized/privacy-policy-41009"><i class="fa fa-envelope"></i></a>
                                             </div>
             <div id="div-gpt-impression-tracker">
                 <script type="text/javascript">
@@ -566,49 +585,41 @@ sh('create', 'SH-65555830-2');
                 </script>
             </div>
         </section>
+        <div class="article-bottom">
+    <div id="div-gpt-bottom-article" class="text-center">
+        <script type="text/javascript">
+            googletag.cmd.push(function() {
+                googletag.display('div-gpt-bottom-article');
+            });
+        </script>
+    </div>
+</div>
                     <!-- Author Start -->
 <section class="author-detail">
     <div class="author-image-holder">
-        <a href="https://www.collegetimes.com/author/shane" target="_blank"><img src="//www.gravatar.com/avatar/776c407e6d81c1f6149e8060bee444d8.jpg?s=65&amp;d=mm" class="lazyload author" alt="Shane Johnston"></a>
+        <a href="https://www.collegetimes.com/author/shane"><img src="//www.gravatar.com/avatar/776c407e6d81c1f6149e8060bee444d8.jpg?s=65&amp;d=mm" class="lazyload author" alt="Shane Johnston"></a>
     </div>
     <div class="author-info-holder">
         <div class="intro upper">Article written by</div>
         <div class="name upper">
-            <a href="https://www.collegetimes.com/author/shane" target="_blank">Shane Johnston</a>
+            <a href="https://www.collegetimes.com/author/shane">Shane Johnston</a>
         </div>
         <div class="author-social">
-                                                    <a href="mailto:shane@collegetimes.com" rel="external" class="analytics" data-category="[Social Profile] Author" data-label="Email" data-value="Shane Johnston" target="_blank"><i class="fa fa-envelope"></i></a>
+                                                    <a href="mailto:shane@collegetimes.com" rel="external" class="analytics" data-category="[Social Profile] Author" data-label="Email" data-value="Shane Johnston"><i class="fa fa-envelope"></i></a>
                     </div>
         <div class="author-more upper">
-            <a href="https://www.collegetimes.com/author/shane" target="_blank">See more from Shane Johnston</a>
+            <a href="https://www.collegetimes.com/author/shane">See more from Shane Johnston</a>
         </div>
         <div class="bio"></div>
     </div>
     <div class="clearfix"></div>
 </section>
 <!-- Author End -->
-                <div id="div-gpt-article-video"></div>
-    </div>
+            </div>
                 <div class="articles-river-container">
     <div></div>
 </div>
-<div id="pagination-wrapper-desktop"><div id="pagination-widget">
-        <div class="pagination">
-            <div class="clearfix"></div>
-
-<div class="river-scroll-wrapper river-container"></div>
-
-<div class="clearfix"></div>
-<div class="col-md-12 text-center top-space infinite-scroll" data-firstroute="/" data-fallbackload="/" data-pages="1">
-    <button class="load-more">
-        <div class="loading-icon"><img src="/i/loading.gif" alt="Loading"></div>
-    </button>
-    <div class="nav-selector" data-pages="1">
-        <a id="next-page-link" href="/page/2" class="next">Next Page »</a>
-    </div>
-</div>
-<div class="clearfix"></div>        </div>
-    </div></div>    </section>
+<div id="pagination-wrapper-desktop"></div>    </section>
 
 
     <div id="adds-sidebar" class="sidebar-container hidden-xs">
@@ -627,28 +638,26 @@ sh('create', 'SH-65555830-2');
     <span class="mini-river-panel-header text-uppercase">Trending Now</span>
 
     <div class="article secondary-article">
-    <a href="/entertainment/derry-girls-netflix-2-154624">
+    <a href="/entertainment/laura-whitmore-announced-new-love-island-presenter-157433">
         <figure class="image-container">
             <picture>
                 <!--[if IE 9]><video style="display: none;"><![endif]-->
-                <source srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMVxcXC8yODE1NDA0MlxcXC9kZXJyeS0xMDEucG5nXCIsXCJ3aWR0aFwiOjMwMyxcImhlaWdodFwiOjE3MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiZDFmNDU5MDM3NTk2ZDI5NzdkMzE1NzdjOWRiZDlmNTg0NTkwYzk4MCJ9/finally-every-episode-of-derry-girls-is-on-netflix.png" media="(min-width: 992px)">
-                <source srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMVxcXC8yODE1NDA0MlxcXC9kZXJyeS0xMDEucG5nXCIsXCJ3aWR0aFwiOjcwNSxcImhlaWdodFwiOjQxMixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiN2JlOWEyZTkxNTc2NzExNTcyZWIxYjNhOWM5ZmI4ZTYyMmYzM2Q4NyJ9/finally-every-episode-of-derry-girls-is-on-netflix.png" media="(min-width: 769px)">
-                <source srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMVxcXC8yODE1NDA0MlxcXC9kZXJyeS0xMDEucG5nXCIsXCJ3aWR0aFwiOjczNyxcImhlaWdodFwiOjQzMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiOGVhYmFmOThlNmQzNTAyYzNjZWI3OTg5YWExOTQ4NDY0NWE2NWQ3NCJ9/finally-every-episode-of-derry-girls-is-on-netflix.png" media="(max-width: 768px)">
+                <source srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE4MTQwNDAxXFxcL09PT08tMTAyNHg1MTkuanBnXCIsXCJ3aWR0aFwiOjMwMyxcImhlaWdodFwiOjE3MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiMGM3MmFiNTM4YzcwYmZhMzZlZWI4ZWU5OGU4MDMyMTNmNjRiZjljNiJ9/laura-whitmore-set-to-be-announced-as-new-love-island-presenter.jpg" media="(min-width: 992px)">
+                <source srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE4MTQwNDAxXFxcL09PT08tMTAyNHg1MTkuanBnXCIsXCJ3aWR0aFwiOjcwNSxcImhlaWdodFwiOjQxMixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiZTk4ZTViNGE1ZmFhMWE5NDUwOTkyY2RiOTc4N2JjYjgyMDlhZDhhMSJ9/laura-whitmore-set-to-be-announced-as-new-love-island-presenter.jpg" media="(min-width: 769px)">
+                <source srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE4MTQwNDAxXFxcL09PT08tMTAyNHg1MTkuanBnXCIsXCJ3aWR0aFwiOjczNyxcImhlaWdodFwiOjQzMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiY2M1NmUyOWUxOWIzNDcxODAwZjAzYjgyMDE2ZjFiYTU5NTI1OGFmMCJ9/laura-whitmore-set-to-be-announced-as-new-love-island-presenter.jpg" media="(max-width: 768px)">
                 <!--[if IE 9]></video><![endif]-->
-                <img srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMVxcXC8yODE1NDA0MlxcXC9kZXJyeS0xMDEucG5nXCIsXCJ3aWR0aFwiOjczMCxcImhlaWdodFwiOjQzMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiYWM1MmQ1MTRhOTNlYmNjZjRjZWI2ZjA1MGQzOTBkYjE2NmExZDZkMCJ9/finally-every-episode-of-derry-girls-is-on-netflix.png" alt="Finally! Every Episode Of Derry Girls Is On Netflix">
+                <img srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE4MTQwNDAxXFxcL09PT08tMTAyNHg1MTkuanBnXCIsXCJ3aWR0aFwiOjczMCxcImhlaWdodFwiOjQzMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiODdjMzc4OTgyMTk3MTA4MTUwNTZiNDAxOGY2MTgwOThkMzQyNDllYiJ9/laura-whitmore-set-to-be-announced-as-new-love-island-presenter.jpg" alt="Laura Whitmore Set To Be Announced As New Love Island Presenter">
             </picture>
         </figure>
     </a>
     <div class="article-detail">
-                    <a href="https://www.collegetimes.com/entertainment" class="category-link category-link-entertainment text-uppercase" target="_blank">Entertainment</a>
+                    <a href="https://www.collegetimes.com/entertainment" class="category-link category-link-entertainment text-uppercase">Entertainment</a>
                 
         <div class="byline ">
-            9 hours ago
-            <br>
-            By <a href="https://www.collegetimes.com/author/garret-farrell" target="_blank">Garret Farrell</a>
+            By <a href="https://www.collegetimes.com/author/sean-meehan">Sean Meehan</a>
         </div>
         <div class="title">
-            <a href="/entertainment/derry-girls-netflix-2-154624">Finally! Every Episode Of Derry Girls Is On Netflix</a>
+            <a href="/entertainment/laura-whitmore-announced-new-love-island-presenter-157433">Laura Whitmore Set To Be Announced As New Love Island Presenter</a>
         </div>
     </div>
 </div>
@@ -657,65 +666,31 @@ sh('create', 'SH-65555830-2');
                           <div class="article default-holder  ">
     <div class="default-unit">
         <div class="image-container">
-            <a href="/news/christmas-sale-flights-154622">
+            <a href="/entertainment/caroline-flack-steps-love-island-presenter-157428">
                 <picture>
                     <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wOVxcXC8wNTEyMzQxMVxcXC9hZXItbGluZ3VzLS5qcGdcIixcIndpZHRoXCI6MjEyLFwiaGVpZ2h0XCI6MTM1LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuY29sbGVnZXRpbWVzLmNvbVxcXC9pXFxcL25vLWltYWdlLnBuZ1wifSIsImhhc2giOiJiZTYxNjQ2ZWI5NWY3ZWM4NDI1MWM0NTAzMzNlZTQ1NWI4ZWY2NmExIn0=/aer-lingus-and-ryanair-announce-massive-summer-sale.jpg" media="(min-width: 992px)">
-                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wOVxcXC8wNTEyMzQxMVxcXC9hZXItbGluZ3VzLS5qcGdcIixcIndpZHRoXCI6MjM1LFwiaGVpZ2h0XCI6MTQyLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuY29sbGVnZXRpbWVzLmNvbVxcXC9pXFxcL25vLWltYWdlLnBuZ1wifSIsImhhc2giOiJmY2E2N2U2ZGI1NzYwZmU5ZmUxNmVjYjM0NzJlODlkM2E0MWJkNTg5In0=/aer-lingus-and-ryanair-announce-massive-summer-sale.jpg" media="(min-width: 769px)">
-                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wOVxcXC8wNTEyMzQxMVxcXC9hZXItbGluZ3VzLS5qcGdcIixcIndpZHRoXCI6NzIwLFwiaGVpZ2h0XCI6NDEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuY29sbGVnZXRpbWVzLmNvbVxcXC9pXFxcL25vLWltYWdlLnBuZ1wifSIsImhhc2giOiJiOTM1NGEzZDlkYTExYzU1ODJhZjY2YTRjYTJjNDIzOWNjOTE2NGU4In0=/aer-lingus-and-ryanair-announce-massive-summer-sale.jpg" media="(max-width: 768px)">
+                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE3MTEwOTI1XFxcL3NodXR0ZXJzdG9ja18xMjkyNDgzMTY0LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjoyMTIsXCJoZWlnaHRcIjoxMzUsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6Ijk0Y2IwYjQ2YjYwMjRhYjRmZTFlNDI3NWY4YTc5MjI5NWQ0YzdhZjUifQ==/caroline-flack-steps-down-as-love-island-presenter.jpg" media="(min-width: 992px)">
+                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE3MTEwOTI1XFxcL3NodXR0ZXJzdG9ja18xMjkyNDgzMTY0LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjoyMzUsXCJoZWlnaHRcIjoxNDIsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjQyMzk3OTU4ZmRlMzk3MDhhNWYyYjFlZjQ1YjNjMzc5YWFlY2M3NTQifQ==/caroline-flack-steps-down-as-love-island-presenter.jpg" media="(min-width: 769px)">
+                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE3MTEwOTI1XFxcL3NodXR0ZXJzdG9ja18xMjkyNDgzMTY0LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjo3MjAsXCJoZWlnaHRcIjo0MTAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6ImI1NDdmNmJjODU1Yzc3ZDM3ZWQ0NDk4NTFlMzRmNTM4YzBmZDFlMWIifQ==/caroline-flack-steps-down-as-love-island-presenter.jpg" media="(max-width: 768px)">
                     <!--[if IE 9]></video><![endif]-->
-                    <img src="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwiLFwid2lkdGhcIjo3NzIsXCJoZWlnaHRcIjo0MzYsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6ImJhOWJmNDVjYzAwZjQxNDQ2MTI4M2IyODQ3MzcyNGI0N2IxMWNkMGYifQ==/no-image.png?v=4" data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wOVxcXC8wNTEyMzQxMVxcXC9hZXItbGluZ3VzLS5qcGdcIixcIndpZHRoXCI6NzIwLFwiaGVpZ2h0XCI6NDEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuY29sbGVnZXRpbWVzLmNvbVxcXC9pXFxcL25vLWltYWdlLnBuZ1wifSIsImhhc2giOiJiOTM1NGEzZDlkYTExYzU1ODJhZjY2YTRjYTJjNDIzOWNjOTE2NGU4In0=/aer-lingus-and-ryanair-announce-massive-summer-sale.jpg" alt="Aer Lingus And Ryanair Announce Massive Summer Sale" class="river-img lazyload">
-                </picture>
-            </a>
-        </div>
-        <div class="article-detail">
-            
-            
-
-                            <a href="https://www.collegetimes.com/news" class="category-link category-link-news text-uppercase" target="_blank">News</a>
-            
-            <div class="byline ">
-                12 hours ago
-                <br>
-                By <a href="https://www.collegetimes.com/author/garret-farrell" target="_blank">Garret Farrell</a>
-            </div>
-            <div class="title">
-                <a href="/news/christmas-sale-flights-154622">Aer Lingus And Ryanair Announce Massive Summer Sale</a>
-            </div>
-        </div>
-        <div class="clearfix"></div>
-    </div>
-</div>
-                      <div class="article default-holder  ">
-    <div class="default-unit">
-        <div class="image-container">
-            <a href="/entertainment/greatest-showman-will-tv-christmas-day-154618">
-                <picture>
-                    <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMFxcXC8xMDEzNTU1NlxcXC9ncmVhdGVzdC1zaG93bWFuLTEwMTAxLmpwZ1wiLFwid2lkdGhcIjoyMTIsXCJoZWlnaHRcIjoxMzUsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjQ1ZTg5MmQxZTM5OTJhOGVhNjcwOTc1N2VkZjkyYWZjMjhkYWViMmQifQ==/the-greatest-showman-will-be-on-tv-on-christmas-day.jpg" media="(min-width: 992px)">
-                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMFxcXC8xMDEzNTU1NlxcXC9ncmVhdGVzdC1zaG93bWFuLTEwMTAxLmpwZ1wiLFwid2lkdGhcIjoyMzUsXCJoZWlnaHRcIjoxNDIsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjU3NzE5MTc1MDdjYjEwN2E3OGY1NmE2ZDk1ZTAxOWI5Y2M1MzI5OWUifQ==/the-greatest-showman-will-be-on-tv-on-christmas-day.jpg" media="(min-width: 769px)">
-                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMFxcXC8xMDEzNTU1NlxcXC9ncmVhdGVzdC1zaG93bWFuLTEwMTAxLmpwZ1wiLFwid2lkdGhcIjo3MjAsXCJoZWlnaHRcIjo0MTAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjdlOTBkODM2YWY2MzdhMDE0ZDZiMmUwNjEzYjgzMmZjYzVlMjFlZWEifQ==/the-greatest-showman-will-be-on-tv-on-christmas-day.jpg" media="(max-width: 768px)">
-                    <!--[if IE 9]></video><![endif]-->
-                    <img src="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwiLFwid2lkdGhcIjo3NzIsXCJoZWlnaHRcIjo0MzYsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6ImJhOWJmNDVjYzAwZjQxNDQ2MTI4M2IyODQ3MzcyNGI0N2IxMWNkMGYifQ==/no-image.png?v=4" data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMFxcXC8xMDEzNTU1NlxcXC9ncmVhdGVzdC1zaG93bWFuLTEwMTAxLmpwZ1wiLFwid2lkdGhcIjo3MjAsXCJoZWlnaHRcIjo0MTAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjdlOTBkODM2YWY2MzdhMDE0ZDZiMmUwNjEzYjgzMmZjYzVlMjFlZWEifQ==/the-greatest-showman-will-be-on-tv-on-christmas-day.jpg" alt="The Greatest Showman Will Be On TV On Christmas Day" class="river-img lazyload">
+                    <img src="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwiLFwid2lkdGhcIjo3NzIsXCJoZWlnaHRcIjo0MzYsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6ImJhOWJmNDVjYzAwZjQxNDQ2MTI4M2IyODQ3MzcyNGI0N2IxMWNkMGYifQ==/no-image.png?v=4" data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE3MTEwOTI1XFxcL3NodXR0ZXJzdG9ja18xMjkyNDgzMTY0LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjo3MjAsXCJoZWlnaHRcIjo0MTAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6ImI1NDdmNmJjODU1Yzc3ZDM3ZWQ0NDk4NTFlMzRmNTM4YzBmZDFlMWIifQ==/caroline-flack-steps-down-as-love-island-presenter.jpg" alt="Caroline Flack Steps Down As Love Island Presenter" class="river-img lazyload">
                 </picture>
             </a>
         </div>
         <div class="article-detail">
             
                             <div class="share-notice">
-                    109 <img height="12" src="https://www.collegetimes.com/i/share-white.png?v=2" alt="109 shares">
+                    5 <img height="12" src="https://www.collegetimes.com/i/share-white.png?v=2" alt="5 shares">
                 </div>
             
 
-                            <a href="https://www.collegetimes.com/entertainment" class="category-link category-link-entertainment text-uppercase" target="_blank">Entertainment</a>
+                            <a href="https://www.collegetimes.com/entertainment" class="category-link category-link-entertainment text-uppercase">Entertainment</a>
             
             <div class="byline ">
-                14 hours ago
-                <br>
-                By <a href="https://www.collegetimes.com/author/rory-mcnab" target="_blank">Rory McNab</a>
+                By <a href="https://www.collegetimes.com/author/collegetimes-ie">CollegeTimes Staff</a>
             </div>
             <div class="title">
-                <a href="/entertainment/greatest-showman-will-tv-christmas-day-154618">The Greatest Showman Will Be On TV On Christmas Day</a>
+                <a href="/entertainment/caroline-flack-steps-love-island-presenter-157428">Caroline Flack Steps Down As Love Island Presenter</a>
             </div>
         </div>
         <div class="clearfix"></div>
@@ -724,30 +699,64 @@ sh('create', 'SH-65555830-2');
                       <div class="article default-holder  ">
     <div class="default-unit">
         <div class="image-container">
-            <a href="/news/new-learner-driver-laws-2-154623">
+            <a href="/life/5-places-go-weekend-break-gals-ireland-152125">
                 <picture>
                     <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wNFxcXC8wOTEzMTA0MVxcXC9sZWFybmVycy0xMDEuanBnXCIsXCJ3aWR0aFwiOjIxMixcImhlaWdodFwiOjEzNSxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiZWM4NjQzNWJiMDZkNzY2YzI4MTIxOTgwNWMyMzdiMGFhYzE2YWIzZSJ9/new-learner-driver-laws-come-into-effect-from-midnight.jpg" media="(min-width: 992px)">
-                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wNFxcXC8wOTEzMTA0MVxcXC9sZWFybmVycy0xMDEuanBnXCIsXCJ3aWR0aFwiOjIzNSxcImhlaWdodFwiOjE0MixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiOTYyN2QzMjY5YTA4OWZjY2Q1OWFmMThiNGYxMzU5MjU1OTJmOGFjNyJ9/new-learner-driver-laws-come-into-effect-from-midnight.jpg" media="(min-width: 769px)">
-                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wNFxcXC8wOTEzMTA0MVxcXC9sZWFybmVycy0xMDEuanBnXCIsXCJ3aWR0aFwiOjcyMCxcImhlaWdodFwiOjQxMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiNzY0OTAzNTdjM2VlYjYxM2ZhNzg3ZTU1MzU3YjFhNTJmOGVkYTg2OCJ9/new-learner-driver-laws-come-into-effect-from-midnight.jpg" media="(max-width: 768px)">
+                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzA2MTYzMjU3XFxcL3NodXR0ZXJzdG9ja182NTk1MTg0MDItMTAyNHg2ODAuanBnXCIsXCJ3aWR0aFwiOjIxMixcImhlaWdodFwiOjEzNSxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiN2E3NGJjODZhNTljYTM3YTgwNTQ3MGIxMzg5ZmE2ZGUwZDBlMDk5YiJ9/5-places-to-go-on-a-weekend-break-with-the-gals-in-ireland.jpg" media="(min-width: 992px)">
+                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzA2MTYzMjU3XFxcL3NodXR0ZXJzdG9ja182NTk1MTg0MDItMTAyNHg2ODAuanBnXCIsXCJ3aWR0aFwiOjIzNSxcImhlaWdodFwiOjE0MixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiZGZjM2Y0OTgxNTFhN2QzNjBlNGM4OWYzYWEyYjQ4YmIwN2JkNDU4OCJ9/5-places-to-go-on-a-weekend-break-with-the-gals-in-ireland.jpg" media="(min-width: 769px)">
+                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzA2MTYzMjU3XFxcL3NodXR0ZXJzdG9ja182NTk1MTg0MDItMTAyNHg2ODAuanBnXCIsXCJ3aWR0aFwiOjcyMCxcImhlaWdodFwiOjQxMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiN2M1NDY1M2E4M2RhODgxZDgzYmRjOWE0Mzg2YmU0MmZiNTk0MTMzOCJ9/5-places-to-go-on-a-weekend-break-with-the-gals-in-ireland.jpg" media="(max-width: 768px)">
                     <!--[if IE 9]></video><![endif]-->
-                    <img src="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwiLFwid2lkdGhcIjo3NzIsXCJoZWlnaHRcIjo0MzYsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6ImJhOWJmNDVjYzAwZjQxNDQ2MTI4M2IyODQ3MzcyNGI0N2IxMWNkMGYifQ==/no-image.png?v=4" data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5jb2xsZWdldGltZXMuY29tXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wNFxcXC8wOTEzMTA0MVxcXC9sZWFybmVycy0xMDEuanBnXCIsXCJ3aWR0aFwiOjcyMCxcImhlaWdodFwiOjQxMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiNzY0OTAzNTdjM2VlYjYxM2ZhNzg3ZTU1MzU3YjFhNTJmOGVkYTg2OCJ9/new-learner-driver-laws-come-into-effect-from-midnight.jpg" alt="New Learner Driver Laws Come Into Effect From Midnight" class="river-img lazyload">
+                    <img src="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwiLFwid2lkdGhcIjo3NzIsXCJoZWlnaHRcIjo0MzYsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6ImJhOWJmNDVjYzAwZjQxNDQ2MTI4M2IyODQ3MzcyNGI0N2IxMWNkMGYifQ==/no-image.png?v=4" data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzA2MTYzMjU3XFxcL3NodXR0ZXJzdG9ja182NTk1MTg0MDItMTAyNHg2ODAuanBnXCIsXCJ3aWR0aFwiOjcyMCxcImhlaWdodFwiOjQxMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmNvbGxlZ2V0aW1lcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiN2M1NDY1M2E4M2RhODgxZDgzYmRjOWE0Mzg2YmU0MmZiNTk0MTMzOCJ9/5-places-to-go-on-a-weekend-break-with-the-gals-in-ireland.jpg" alt="5 Places To Go On A Weekend Break With The Gals In Ireland" class="river-img lazyload">
                 </picture>
             </a>
         </div>
         <div class="article-detail">
             
+                            <div class="share-notice">
+                    20 <img height="12" src="https://www.collegetimes.com/i/share-white.png?v=2" alt="20 shares">
+                </div>
             
 
-                            <a href="https://www.collegetimes.com/news" class="category-link category-link-news text-uppercase" target="_blank">News</a>
+                            <a href="https://www.collegetimes.com/life" class="category-link category-link-life text-uppercase">Life</a>
             
             <div class="byline ">
-                9 hours ago
-                <br>
-                By <a href="https://www.collegetimes.com/author/garret-farrell" target="_blank">Garret Farrell</a>
+                By <a href="https://www.collegetimes.com/author/collegetimes-ie">CollegeTimes Staff</a>
             </div>
             <div class="title">
-                <a href="/news/new-learner-driver-laws-2-154623">New Learner Driver Laws Come Into Effect From Midnight</a>
+                <a href="/life/5-places-go-weekend-break-gals-ireland-152125">5 Places To Go On A Weekend Break With The Gals In Ireland</a>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+                      <div class="article default-holder  ">
+    <div class="default-unit">
+        <div class="image-container">
+            <a href="/entertainment/how-irish-are-you-quiz-137275">
+                <picture>
+                    <!--[if IE 9]><video style="display: none;"><![endif]-->
+                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE2XFxcLzEyXFxcLzA5MTUxNjE1XFxcL21hbW15LmpwZ1wiLFwid2lkdGhcIjoyMTIsXCJoZWlnaHRcIjoxMzUsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6ImI4ZmQ3YmI1NzAxNWQ2MDU3ODNlZjc1NTJkYWE2M2UzZDVlNzQwZmIifQ==/quiz-how-irish-are-you-really.jpg" media="(min-width: 992px)">
+                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE2XFxcLzEyXFxcLzA5MTUxNjE1XFxcL21hbW15LmpwZ1wiLFwid2lkdGhcIjoyMzUsXCJoZWlnaHRcIjoxNDIsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6Ijg3MGIzYThjM2ZlN2Q1MWRhNzlmMWMxNmYwNDJmZjU4MWU3ZDg1MmUifQ==/quiz-how-irish-are-you-really.jpg" media="(min-width: 769px)">
+                    <source data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE2XFxcLzEyXFxcLzA5MTUxNjE1XFxcL21hbW15LmpwZ1wiLFwid2lkdGhcIjo3MjAsXCJoZWlnaHRcIjo0MTAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjBlYjBjYzA1NDM1NzE5NmQ3MzFlMzMwMjQwYzdhMWEzZDg3OGJkM2EifQ==/quiz-how-irish-are-you-really.jpg" media="(max-width: 768px)">
+                    <!--[if IE 9]></video><![endif]-->
+                    <img src="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwiLFwid2lkdGhcIjo3NzIsXCJoZWlnaHRcIjo0MzYsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6ImJhOWJmNDVjYzAwZjQxNDQ2MTI4M2IyODQ3MzcyNGI0N2IxMWNkMGYifQ==/no-image.png?v=4" data-srcset="https://img.resized.co/collegetimes/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmNvbGxlZ2V0aW1lcy5jb21cXFwvdXBsb2Fkc1xcXC8yMDE2XFxcLzEyXFxcLzA5MTUxNjE1XFxcL21hbW15LmpwZ1wiLFwid2lkdGhcIjo3MjAsXCJoZWlnaHRcIjo0MTAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jb2xsZWdldGltZXMuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjBlYjBjYzA1NDM1NzE5NmQ3MzFlMzMwMjQwYzdhMWEzZDg3OGJkM2EifQ==/quiz-how-irish-are-you-really.jpg" alt="Quiz: How Irish Are You Really?" class="river-img lazyload">
+                </picture>
+            </a>
+        </div>
+        <div class="article-detail">
+            
+                            <div class="share-notice">
+                    469 <img height="12" src="https://www.collegetimes.com/i/share-white.png?v=2" alt="469 shares">
+                </div>
+            
+
+                            <a href="https://www.collegetimes.com/entertainment" class="category-link category-link-entertainment text-uppercase">Entertainment</a>
+            
+            <div class="byline ">
+                By <a href="https://www.collegetimes.com/author/ciara-finnegan">Ciara Finnegan</a>
+            </div>
+            <div class="title">
+                <a href="/entertainment/how-irish-are-you-quiz-137275">Quiz: How Irish Are You Really?</a>
             </div>
         </div>
         <div class="clearfix"></div>
@@ -760,11 +769,11 @@ sh('create', 'SH-65555830-2');
 </section>
 
             <section class="footer-links text-uppercase">
-    <a href="https://www.collegetimes.com/about-us" target="_blank">About Us</a> ●
-    <a href="https://www.collegetimes.com/advertise-with-us" target="_blank">Advertise</a> ●
-    <a href="https://www.collegetimes.com/privacy-policy" target="_blank">Privacy</a> ●
-    <a href="https://www.collegetimes.com/contact-us" target="_blank">Contact Us</a>
-    <a href="https://www.publisherplus.ie/" rel="external" target="_blank">Powered by Publisher Plus</a>
+    <a href="https://www.collegetimes.com/about-us">About Us</a> ●
+    <a href="https://www.collegetimes.com/advertise-with-us">Advertise</a> ●
+    <a href="https://www.collegetimes.com/privacy-policy">Privacy</a> ●
+    <a href="https://www.collegetimes.com/contact-us">Contact Us</a>
+    <a href="https://www.publisherplus.ie/" rel="external">Powered by Publisher Plus</a>
 </section>
         </aside>
     </div>
@@ -772,7 +781,23 @@ sh('create', 'SH-65555830-2');
 
 <div class="clearfix"></div>
 <div id="pagination-wrapper-mobile">
-    
+    <div id="pagination-widget">
+        <div class="pagination">
+            <div class="clearfix"></div>
+
+<div class="river-scroll-wrapper river-container"></div>
+
+<div class="clearfix"></div>
+<div class="col-md-12 text-center top-space infinite-scroll" data-firstroute="/" data-fallbackload="/" data-pages="1" data-current-route="page">
+    <button class="load-more">
+        <div class="loading-icon"><img src="/i/loading.gif" alt="Loading"></div>
+    </button>
+    <div class="nav-selector" data-pages="1">
+        <a id="next-page-link" href="/page/2" class="next">Next Page »</a>
+    </div>
+</div>
+<div class="clearfix"></div>        </div>
+    </div>
 </div>
                 </section>
             </div>
@@ -781,14 +806,14 @@ sh('create', 'SH-65555830-2');
                 
 
                             <div id="article-social-header-sticky" class="text-center nav-bar">
-                <a class="logo-left" href="https://www.collegetimes.com" target="_blank">
+                <a class="logo-left" href="https://www.collegetimes.com">
                     <span class="navbar-logo social"></span>
                 </a>
-                <a href="http://facebook.com/sharer.php?app_id=1743165462566274&amp;u=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dfacebook%26utm_campaign%3Darticle%26utm_medium%3Dweb&amp;t=Privacy+Policy" rel="external" class="analytics facebook" data-category="[Sharing] Article Sticky Footer" data-label="Facebook" data-value="/uncategorized/privacy-policy-41009" target="_blank"><i class="fa fa-facebook-square"></i></a>
-                <a href="https://twitter.com/intent/tweet?via=collegetimesct&amp;text=Privacy+Policy&amp;url=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" rel="external" class="analytics twitter" data-category="[Sharing] Article Sticky Footer" data-label="Twitter" data-value="/uncategorized/privacy-policy-41009" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a href="whatsapp://send?text=Privacy%20Policy%20-%20https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" rel="external" class="analytics whatsapp" data-category="[Sharing] Article Sticky Footer" data-label="Whatsapp" data-value="/uncategorized/privacy-policy-41009" target="_blank"><i class="fa fa-whatsapp"></i></a>
-                <a href="fb-messenger://share?link=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3FCMP%3Dshare_btn_me%26app_id%3D1743165462566274" rel="external" class="fb-messenger analytics" data-category="[Sharing] Article Sticky Footer" data-label="Facebook Messenger" data-value="/uncategorized/privacy-policy-41009" target="_blank"><img class="fa-fb-messenger" src="https://www.collegetimes.com/i/facebook-messenger-white.svg"></a>
-                <a href="mailto:?subject=Privacy Policy&amp;body=I saw this article on CollegeTimes.com that I thought you might like: https://www.collegetimes.com/privacy-policy?utm_source=email&amp;utm_campaign=article&amp;utm_medium=web" rel="external" class="analytics" data-category="[Sharing] Article Sticky Footer" data-label="Email" data-value="/uncategorized/privacy-policy-41009" target="_blank"><i class="fa fa-envelope"></i></a>
+                <a href="https://facebook.com/sharer.php?app_id=1743165462566274&amp;u=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dfacebook%26utm_campaign%3Darticle%26utm_medium%3Dweb&amp;t=Privacy+Policy" rel="external" class="analytics facebook" data-category="[Sharing] Article Sticky Footer" data-label="Facebook" data-value="/uncategorized/privacy-policy-41009"><i class="fa fa-facebook-square"></i></a>
+                <a href="https://twitter.com/intent/tweet?via=collegetimesct&amp;text=Privacy+Policy&amp;url=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" rel="external" class="analytics twitter" data-category="[Sharing] Article Sticky Footer" data-label="Twitter" data-value="/uncategorized/privacy-policy-41009"><i class="fa fa-twitter"></i></a>
+                <a href="whatsapp://send?text=Privacy%20Policy%20-%20https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" rel="external" class="analytics whatsapp" data-category="[Sharing] Article Sticky Footer" data-label="Whatsapp" data-value="/uncategorized/privacy-policy-41009"><i class="fa fa-whatsapp"></i></a>
+                <a href="fb-messenger://share?link=https%3A%2F%2Fwww.collegetimes.com%2Fprivacy-policy%3FCMP%3Dshare_btn_me%26app_id%3D1743165462566274" rel="external" class="fb-messenger analytics" data-category="[Sharing] Article Sticky Footer" data-label="Facebook Messenger" data-value="/uncategorized/privacy-policy-41009"><img class="fa-fb-messenger" src="https://www.collegetimes.com/i/facebook-messenger-white.svg"></a>
+                <a href="mailto:?subject=Privacy Policy&amp;body=I saw this article on CollegeTimes.com that I thought you might like: https://www.collegetimes.com/privacy-policy?utm_source=email&amp;utm_campaign=article&amp;utm_medium=web" rel="external" class="analytics" data-category="[Sharing] Article Sticky Footer" data-label="Email" data-value="/uncategorized/privacy-policy-41009"><i class="fa fa-envelope"></i></a>
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header" aria-expanded="false">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
@@ -820,7 +845,7 @@ sh('create', 'SH-65555830-2');
             </script>
         </div>
 
-        <script src="/build/js/app-27ae7a61.js"></script>
+        <script src="/build/js/app-42c59aa1.js"></script>
     
 
 </body></html>
