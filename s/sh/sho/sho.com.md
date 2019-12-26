@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sho.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510170316id_/https%3A//www.sho.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sho.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226014748id_/https%3A//www.sho.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | SHOWTIME
 
 ## Privacy Policy
 
-Effective Date May 4, 2017
+Effective Date September 26, 2019
 
 Note: Our Privacy Policy has been updated. Please review the updated Privacy Policy carefully before using any Showtime Networks Service. By using any Showtime Networks Service, you consent to the terms of the updated privacy policy.
 
@@ -154,11 +154,17 @@ c/o Privacy Administrator
 
 For requests sent by email, you must put the statement "Your California Privacy Rights" in the subject field of your email. All requests sent by postal mail must be labeled "Your California Privacy Rights" on the accompanying envelope or post card and on the actual request. For all requests, please include your name; your preference as to whether our response to your request should be sent by email or postal mail; your email or postal address, as applicable; and in any event your city, state and ZIP code for our recordkeeping. We will not accept requests by telephone or by facsimile. We are not responsible for requests that are not labeled or sent properly, or do not have complete information.
 
-#### 10\. Changes to This Privacy Policy
+#### 10\. Your Nevada Privacy Rights
+
+Nevada law requires website operators to provide a way for Nevada consumers to opt out of the sale of certain information that the website operator may collect about them. This information is limited to direct identifiers, such as your name, postal address, and email address. When Nevada consumers opt out of the sale of their information, website operators must ensure that the information is not sold to another business that will further license or sell the information to others. 
+
+If you are a Nevada resident and you would like to opt out of any possible sale of this information, please email us at [privacyadministrator@showtime.net](mailto:privacyadministrator@showtime.net?subject=Your%20Nevada%20Privacy%20Rights). For all requests, you must put the statement “Your Nevada Privacy Rights” in the subject field of your request. You must also include your full name, street address, city, state, and zip code. We will not accept requests via telephone, postal mail, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information. 
+
+#### 11\. Changes to This Privacy Policy
 
 This Privacy Policy is effective as of the Effective Date above. We may change this Privacy Policy in the future, and such changes will be effective upon posting, so we encourage you to review periodically the Privacy Policy applicable to each Service you use. The most current version of the applicable Privacy Policy (along with its effective date) will be linked from each of the Services. If you have registered an account with us for a Service and we make significant changes in the Privacy Policy for that Service, we will attempt to notify you by sending an email to the address you have registered for your account. 
 
-#### 11\. Contact Information
+#### 12\. Contact Information
 
 If you have any questions, comments or concerns regarding this Privacy Policy and/or our privacy practices, please contact us through the contact or help feature of the relevant Service or write to us at Showtime Networks Inc., 1633 Broadway, New York, NY 10019, Attn: Customer Service, or call our customer service department at (877)4-SHOWTIME ((877)474-6984). 
 
