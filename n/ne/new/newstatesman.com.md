@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629214437id_/https%3A//www.newstatesman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226132308id_/https%3A//www.newstatesman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,15 +52,7 @@ Unless we are given explicit permission to do so; we do not sell, trade, or rent
 
 ###  List of websites
 
-[https://www.newstatesman.c](https://www.newstatesman.com/)om
-
-[https://subscribe.newstatesman.com](https://subscribe.newstatesman.com/)
-
-<https://www.citymetric.com/>
-
-[http://www.newstatesmanmedia.com](http://www.newstatesmanmedia.com/)
-
-tech.newstatesman.com
+[https://www.newstatesman.com](https://www.newstatesman.com/)
 
 ###  Third party websites
 
