@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625194258id_/https%3A//www.fox.com/article/privacy-policy-597bbe4f6603660022fa8689) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226081247id_/https%3A//www.fox.com/article/privacy-policy-597bbe4f6603660022fa8689) for the most accurate reproduction.*
 
 # FOX Broadcasting Company | Full Episodes, Shows, Schedule
 
