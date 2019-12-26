@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youcandothecube.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913065147id_/https%3A//www.youcandothecube.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youcandothecube.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226160030id_/https%3A//www.youcandothecube.com/info/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | You CAN Do the Rubiks Cube
 
@@ -58,7 +58,7 @@ You can access and update the contact information provided to us during registra
 If we were to collect and store personal information from children users, parent would have the ability to review the personal information we have collected from their child, request that we stop further collection or use of their child’s personal information, and request that any personal information that we have collected be deleted from our records.
 
 To make any access or modification request that cannot be done on the site, the client should contact us:  
-Email: HOLLYR@SevenTowns.com  
+Email: HOLLYR@RUBIKS.COM  
 Phone: 617-379-2988  
 Address: You CAN Do the Rubik's Cube! 10 Liberty Street, Danvers MA 01923
 
@@ -104,9 +104,9 @@ The security and confidentiality of your information is extremely important to u
 ##   
 Contact Us
 
-If you have any questions about this Privacy Policy, you can contact our corporate office by calling (011) 207-727-5666 Monday through Friday between the hours of 9:00 a.m. and 5:00 p.m. GST, or contact us at
+If you have any questions about this Privacy Policy, you can contact our corporate office by calling (011) 44 20 7727 5666 Monday through Friday between the hours of 9:00 a.m. and 5:00 p.m. GST, or contact us at
 
-Email: HOLLYR@SevenTowns.com  
+Email: HOLLYR@RUBIKS.COM  
 Phone: 617-379-2988  
 Address: You CAN Do the Rubik's Cube! 10 Liberty Street, Danvers MA 01923
 
