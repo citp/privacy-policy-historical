@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computerweekly.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504214731id_/https%3A//www.techtarget.com/privacy-policy-may25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerweekly.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226073636id_/https%3A//www.techtarget.com/privacy-policy-may25) for the most accurate reproduction.*
 
 # Privacy Policy - TechTarget
 
