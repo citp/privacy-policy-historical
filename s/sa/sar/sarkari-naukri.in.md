@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarkari-naukri.in privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507082149id_/https%3A//www.sarkari-naukri.in/privacypolicies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkari-naukri.in privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226225308id_/http%3A//www.sarkari-naukri.in/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies
 
