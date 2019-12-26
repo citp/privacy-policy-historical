@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiiware-world.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629155954id_/http%3A//www.nintendolife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiiware-world.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226144505id_/http%3A//www.nintendolife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Nintendo Life
 
@@ -6,7 +6,7 @@
 
 We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 24th May, 2018.
+We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2nd Dec, 2019.
 
 ## Personalised Data Settings
 
@@ -26,33 +26,33 @@ Yes No
 
 ### Ad Tech Partners we use:
 
-Gamer Network provide the advertising infrastructure on this website. Below is a list of all ad tech partners we work with, mainly through Google's DFP platform. When you opt-into 'Personalised Data' these partners may use your data to target ads depending on your browser history.
+Gamer Network provide the advertising infrastructure on this website. Below is a list of all ad tech partners we work with, mainly through Google's DFP platform. When you opt-into 'Personalised Data' these partners may use your data to target ads depending on your browser history.
 
 ## Data we collect
 
-If you decide to create an account and login, we collect the following information:
+If you decide to create an account and login, we collect the following information:
 
   * username (required)
-  * email address & email preferences (required)
+  * email address & email preferences (required)
   * country / timezone (required)
-  * profile description / forum signature (optional)
+  * profile description / forum signature (optional)
   * social media account information (optional)
   * gamer IDs (eg, PSN ID, Nintendo Network ID etc) (optional)
-  * demographic information such as interests (optional)
-  * answers to polls, surveys and questionnaire (optional)
-  * game ratings (optional)
-  * comments, posts and forum topics (optional)
-  * liked comments/posts/articles (optional)
+  * demographic information such as interests (optional)
+  * answers to polls, surveys and questionnaire (optional)
+  * game ratings (optional)
+  * comments, posts and forum topics (optional)
+  * liked comments/posts/articles (optional)
 
 
 
-We also use  **Google Analytics**  to measure anonymous information about our all our visitors, such as visit frequency, duration and approximate geographical location. Both first-party cookies and third-party cookies from Google's DoubleClick ad network are also used to give us some broad demographic information about our visitors, such as age and interests, if they are available. Again, all of this information is completely anonymous and is used purely to help us align our content and advertising better with our audience.
+We also use **Google Analytics** to measure anonymous information about our all our visitors, such as visit frequency, duration and approximate geographical location. Both first-party cookies and third-party cookies from Google's DoubleClick ad network are also used to give us some broad demographic information about our visitors, such as age and interests, if they are available. Again, all of this information is completely anonymous and is used purely to help us align our content and advertising better with our audience.
 
-You can opt out of being tracked with Google Analytics, please visit [Google's opt-out page](http://tools.google.com/dlpage/gaoptout/).
+You can opt out of being tracked with Google Analytics, please visit [Google's opt-out page](http://tools.google.com/dlpage/gaoptout/).
 
 ## What we do with the data we gather
 
-We use this data to understand your needs as a user and provide you with a better, personalised service, and in particular for the following reasons:
+We use this data to understand your needs as a user and provide you with a better, personalised service, and in particular for the following reasons:
 
   * We may use the information to customise the website according to your interests or location.
   * We may use the information to improve our products and services.
@@ -82,13 +82,13 @@ You may choose to restrict the collection or use of your personal information in
 
   * Don't enter information you do not wish to share with us
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * If you have previously agreed to us using your personal information for newsletter purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](http://www.nintendolife.com/cdn-cgi/l/email-protection#6206031603220c0e0b04074c010d0f) or by updating your account preferences.
+  * If you have previously agreed to us using your personal information for newsletter purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](http://www.nintendolife.com/cdn-cgi/l/email-protection#3c585d485d7c5250555a59125f5351) or by updating your account preferences.
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your explicit permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998 / General Data Protection Regulation (GDPR) (EU) 2016/679. If you would like a copy of the information held on you please write to Nlife Ltd, Unit 18-19, Loughborough Technology Centre, LE11 3GE, United Kingdom or emails us [[email protected]](http://www.nintendolife.com/cdn-cgi/l/email-protection#afcbcedbceefc1c3c6c9ca81ccc0c2).
+You may request details of personal information which we hold about you under the Data Protection Act 1998 / General Data Protection Regulation (GDPR) (EU) 2016/679. If you would like a copy of the information held on you please write to Nlife Ltd, ATIC, 5 Oakwood Dr, Loughborough, LE11 3QF, United Kingdom or emails us [[email protected]](http://www.nintendolife.com/cdn-cgi/l/email-protection#dabebbaebb9ab4b6b3bcbff4b9b5b7).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
@@ -106,4 +106,4 @@ On the occasion that a third party, such as the product supplier, advertising ag
 
 ## How to contact us
 
-If you have any questions or concerns about our policy, please contact us by filling in our online [contact](http://www.nintendolife.com/contact) form.
+If you have any questions or concerns about our policy, please contact us by filling in our online [contact](http://www.nintendolife.com/contact) form.
