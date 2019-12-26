@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackview.hk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629041621id_/http%3A//www.blackview.hk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackview.hk privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226143423id_/https%3A//www.blackview.hk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BLACKVIEW
 
