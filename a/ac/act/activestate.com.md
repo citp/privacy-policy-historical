@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410231537id_/https%3A//www.activestate.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226080531id_/https%3A//www.activestate.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/Statement | ActiveState
 
@@ -121,7 +121,7 @@ Similarly, projects on ActiveState may include publicly available Personal Infor
 
 ## ActiveState’s global privacy practices
 
-**Information that we collect will be stored and processed in the United States and or Canada** in accordance with this Privacy Statement. However, we understand that we have users from different countries and regions with different privacy expectations, and we try to meet those needs.
+ **Information that we collect will be stored and processed in the United States and or Canada** in accordance with this Privacy Statement. However, we understand that we have users from different countries and regions with different privacy expectations, and we try to meet those needs.
 
 We provide the same standard of privacy protection to all our users around the world, regardless of their country of origin or location, and we are proud of the levels of notice, choice, accountability, security, data integrity, access, and recourse we provide.
 
