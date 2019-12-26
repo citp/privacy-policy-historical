@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfline.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626042553id_/https%3A//www.surfline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfline.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226083809id_/https%3A//www.surfline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Surfline
 
@@ -172,13 +172,13 @@ Our advertising service vendors and other third parties will at times also use T
 
 ##### **SECTION 12 – CHILDREN’S PRIVACY AND INTERNATIONAL CONSIDERATIONS**
 
-Protecting the privacy of young children is especially important. For that reason, Surfline does not knowingly collect or maintain personal information from persons under 13 years. If Surfline learns that personal information of persons under 13 years has been collected on or through the Services, Surfline will take the appropriate steps to delete this information. If you are the parent or legal guardian of a child under 13 who has become a registered user or subscriber of Surfline or any of the Services or otherwise set up an Account, then please contact Surfline at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c7b4b2b7b7a8b5b38794b2b5a1abaea9a2e9a4a8aa) to have that child’s account terminated and personal information deleted.
+Protecting the privacy of young children is especially important. For that reason, Surfline does not knowingly collect or maintain personal information from persons under 13 years. If Surfline learns that personal information of persons under 13 years has been collected on or through the Services, Surfline will take the appropriate steps to delete this information. If you are the parent or legal guardian of a child under 13 who has become a registered user or subscriber of Surfline or any of the Services or otherwise set up an Account, then please contact Surfline at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cbb8bebbbba4b9bf8b98beb9ada7a2a5aee5a8a4a6) to have that child’s account terminated and personal information deleted.
 
 We are headquartered in the United States and any information that you submit or we otherwise obtain will be transferred to, collected, and held in the United States. We may subsequently transfer such information to any other country or jurisdiction in connection with the authorized uses and disclosures of information set forth herein.
 
 ##### **SECTION 13 – CONTACTING SURFLINE**
 
-Questions regarding this policy and our practice should be directed to Surfline Support, by e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#96c5e3e6e6f9e4e2d6c5e3e4f0fafff8f3b8f5f9fb), or by postal mail to Surfline, 300 Pacific Coast Highway, Suite 310, Huntington Beach, CA 92648.
+Questions regarding this policy and our practice should be directed to Surfline Support, by e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#abf8dedbdbc4d9dfebf8ded9cdc7c2c5ce85c8c4c6), or by postal mail to Surfline, 300 Pacific Coast Highway, Suite 310, Huntington Beach, CA 92648.
 
 ##### **SECTION 14 – CHANGES TO THIS PRIVACY POLICY**
 
