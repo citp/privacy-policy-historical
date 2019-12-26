@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purlsoho.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627060751id_/https%3A//www.purlsoho.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purlsoho.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226234629id_/https%3A//www.purlsoho.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
