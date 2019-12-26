@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tune.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630225236id_/https%3A//www.tune.com/resources/data-and-privacy/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tune.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226041149id_/https%3A//www.tune.com/resources/data-and-privacy/privacy-policies) for the most accurate reproduction.*
 
 # TUNE Privacy Policy | TUNE
 
