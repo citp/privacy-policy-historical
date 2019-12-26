@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the convertcase.net privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320170009id_/https%3A//convertcase.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertcase.net privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226030828id_/https%3A//convertcase.net/privacy) for the most accurate reproduction.*
 
 # Convert Case - Privacy Policy
 
-JavaScript is required to use this web site. Please turn it on in your browser or whitelist this site, then refresh the page.
+This website uses cookies to ensure you get the best experience on our website. 
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](mailto:contact@convertcase.net).
 
@@ -20,7 +20,7 @@ Convert Case does use cookies to store information about visitors preferences, r
 
   * Google, as a third party vendor, uses cookies to serve ads on Convert Case.
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to Convert Case and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <https://policies.google.com/technologies/ads>
 
 
 
