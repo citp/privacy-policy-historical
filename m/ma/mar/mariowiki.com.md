@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mariowiki.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517155125id_/https%3A//www.porplemontage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariowiki.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226203407id_/https%3A//www.porplemontage.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Porplemontage Enterprises, LLC
 
@@ -9,13 +9,13 @@ Effective date: 6/7/2018
   
 ---|---  
   
-Porplemontage Enterprises, LLC ("Porplemontage Enterprises", "we", "us", or "our") recognizes the importance of protecting the privacy of all information provided by users of our web services. We created the following policy guidelines with a fundamental respect for our users' right to privacy. Porplemontage Enterprises operates Destinypedia ([https://www.destinypedia.com](https://www.destinypedia.com/)), Donkey Kong Wiki ([http://www.dkwiki.com](http://www.dkwiki.com/)), Halopedia ([https://www.halopedia.org](https://www.halopedia.org/)), Kingdom Hearts Wiki ([https://www.khwiki.com](https://www.khwiki.com/)), Pikipedia ([https://www.pikminwiki.com](https://www.pikminwiki.com/)), Pikmin Fanon ([http://www.pikminfanon.com](http://www.pikminfanon.com/)), SmashWiki ([https://www.ssbwiki.com](https://www.ssbwiki.com/)), Super Mario Boards ([https://www.marioboards.com](https://www.marioboards.com/)), and Super Mario Wiki ([https://www.mariowiki.com](https://www.mariowiki.com/)) — collectively, the "Services". This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Services and the choices you have associated with that data. We use your data to provide and improve our Services. By using any of our Services, you agree to the collection and use of information in accordance with this policy.
+Porplemontage Enterprises, LLC ("Porplemontage Enterprises", "we", "us", or "our") recognizes the importance of protecting the privacy of all information provided by users of our web services. We created the following policy guidelines with a fundamental respect for our users' right to privacy. Porplemontage Enterprises operates Destinypedia ([https://www.destinypedia.com](https://www.destinypedia.com/)), Halopedia ([https://www.halopedia.org](https://www.halopedia.org/)), Kingdom Hearts Wiki ([https://www.khwiki.com](https://www.khwiki.com/)), Pikipedia ([https://www.pikminwiki.com](https://www.pikminwiki.com/)), Pikmin Fanon ([http://www.pikminfanon.com](http://www.pikminfanon.com/)), SmashWiki ([https://www.ssbwiki.com](https://www.ssbwiki.com/)), Super Mario Boards ([https://www.marioboards.com](https://www.marioboards.com/)), and Super Mario Wiki ([https://www.mariowiki.com](https://www.mariowiki.com/)) — collectively, the "Services". This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Services and the choices you have associated with that data. We use your data to provide and improve our Services. By using any of our Services, you agree to the collection and use of information in accordance with this policy.
 
 ## Definitions
 
 ### Service
 
-A Service is any of the Services operated by Porplemontage Enterprises. This includes but is not limited to Destinypedia ([https://www.destinypedia.com](https://www.destinypedia.com/)), Donkey Kong Wiki ([http://www.dkwiki.com](http://www.dkwiki.com/)), Halopedia ([https://www.halopedia.org](https://www.halopedia.org/)), Kingdom Hearts Wiki ([https://www.khwiki.com](https://www.khwiki.com/)), Pikipedia ([https://www.pikminwiki.com](https://www.pikminwiki.com/)), Pikmin Fanon ([http://www.pikminfanon.com](http://www.pikminfanon.com/)), SmashWiki ([https://www.ssbwiki.com](https://www.ssbwiki.com/)), Super Mario Boards ([https://www.marioboards.com](https://www.marioboards.com/)), and Super Mario Wiki ([https://www.mariowiki.com](https://www.mariowiki.com/)).
+A Service is any of the Services operated by Porplemontage Enterprises. This includes but is not limited to Destinypedia ([https://www.destinypedia.com](https://www.destinypedia.com/)), Halopedia ([https://www.halopedia.org](https://www.halopedia.org/)), Kingdom Hearts Wiki ([https://www.khwiki.com](https://www.khwiki.com/)), Pikipedia ([https://www.pikminwiki.com](https://www.pikminwiki.com/)), Pikmin Fanon ([http://www.pikminfanon.com](http://www.pikminfanon.com/)), SmashWiki ([https://www.ssbwiki.com](https://www.ssbwiki.com/)), Super Mario Boards ([https://www.marioboards.com](https://www.marioboards.com/)), and Super Mario Wiki ([https://www.mariowiki.com](https://www.mariowiki.com/)).
 
 ### Personal Data
 
@@ -194,3 +194,5 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us by email: [porple.privacy@gmail.com](mailto:porple.privacy@gmail.com)
+
+Please, no solicitations. We are not looking to make any changes to our advertisement setup.
