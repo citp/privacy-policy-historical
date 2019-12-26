@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321030459id_/https%3A//tonedeaf.thebrag.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226020242id_/https%3A//thebrag.media/privacy-policy) for the most accurate reproduction.*
 
-# Seventh Street Media Privacy Policy
+# The Brag Media Privacy Policy - The Brag Media
 
-Tone Deaf, The Brag, J Play, The Industry Observer and Don’t Bore Us are all brands and publications under Seventh Street Media.
+Tone Deaf, The Brag, J Play, The Industry Observer and Don’t Bore Us are all brands and publications under The Brag Media.
 
-In the course of our activities Seventh Street Media Pty Ltd (Seventh Street Media, we, our, us) will collect, store, use, transfer and disclose personal information. We respect your privacy and are committed to protecting the personal information that you provide to us. This statement explains our policies and practices regarding the use, collection, storage and disclosure of your personal information by Seventh Street Media.
+In the course of our activities Seventh Street Media Pty Ltd – trading as The Brag Media Australia – (The Brag Media, we, our, us) will collect, store, use, transfer and disclose personal information. We respect your privacy and are committed to protecting the personal information that you provide to us. This statement explains our policies and practices regarding the use, collection, storage and disclosure of your personal information by The Brag Media.
 
 ## Personal information
 
@@ -12,9 +12,9 @@ Personal information is information or an opinion about an identified individual
 
 ## Types of personal information we collect and hold
 
-Seventh Street Media collects and holds personal information about individuals for the provision of our products and services and purposes connected to those products and services.
+The Brag Media collects and holds personal information about individuals for the provision of our products and services and purposes connected to those products and services.
 
-Consistent with the provision or our products and services to you, the types of personal information Seventh Street Media may collect and hold about you include but are not limited to your name, address, telephone number, email address and financial information.
+Consistent with the provision or our products and services to you, the types of personal information The Brag Media may collect and hold about you include but are not limited to your name, address, telephone number, email address and financial information.
 
 ## How we collect and hold personal information
 
@@ -31,6 +31,8 @@ Personal information is held securely, is subject to various security protection
 We take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, pass word access and secure servers. However, you acknowledge that the information you provide to us is at your own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not within our control.
 
 You acknowledge that we are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose your personal information to in accordance with this policy or any applicable laws). The collection and use of your information by such third parties may be subject to separate privacy and security policies.
+
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <https://priv-policy.imrworldwide.com/priv/browser/au/en/optout.html>
 
 If you suspect any misuse or loss of, or unauthorised access to, your personal information, please contact our helpdesk immediately.
 
@@ -64,7 +66,7 @@ r) as required or permitted by any law (including the Privacy Act).
 
 ## Access and correction
 
-Seventh Street Media will take all reasonable steps to ensure any personal data we collect, use or disclose is up to date and accurate.
+The Brag Media will take all reasonable steps to ensure any personal data we collect, use or disclose is up to date and accurate.
 
 If you believe personal information we hold about you is not up to date or accurate, you may ask us to correct it.
 
@@ -75,13 +77,13 @@ If we provide you with copies of the information you have requested, we may char
 Please direct all request for access and correction to:
 
 Privacy Officer  
-Seventh Street Media  
+The Brag Media  
 Level 2, 9-13 Bibby Street  
 Chiswick, NSW, 2046
 
 ## Overseas disclosure
 
-Seventh Street Media may, in the course of providing products and services to you, disclose personal information to overseas entities. You agree that where personal information is disclosed to the countries above, the Australian Privacy Principles will not apply to that information.
+The Brag Media may, in the course of providing products and services to you, disclose personal information to overseas entities. You agree that where personal information is disclosed to the countries above, the Australian Privacy Principles will not apply to that information.
 
 ## Changes to this policy
 
@@ -89,6 +91,6 @@ We will review and update this Privacy Policy from time to time as needed withou
 
 ## Complaints
 
-If you consider a breach of the Australian Privacy Principles has occurred, you may direct your query Seventh Street Media’s Privacy Officer and we will attempt to resolve your complaint.
+If you consider a breach of the Australian Privacy Principles has occurred, you may direct your query The Brag Media’s Privacy Officer and we will attempt to resolve your complaint.
 
 If you do not consider our response satisfactory, you may contact the Australian Privacy Commissioner at its website www.oaic.giv.au or by telephone on 1300 363 992.
