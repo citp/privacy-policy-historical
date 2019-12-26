@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630174549id_/https%3A//www.shutterstock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226092109id_/https%3A//www.shutterstock.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Shutterstock
 
@@ -222,7 +222,7 @@ We do not intend to solicit or collect Personal Information from anyone under th
 
 ## Entities Collecting Personal Information
 
-Personal Information on this website is collected by Shutterstock, Inc., Empire State Building, 350 Fifth Avenue, 21st Floor, New York, NY 10118, USA and its telephone number is 1-866-663-3954.
+Personal Information on this website is collected by Shutterstock, Inc., Empire State Building, 350 Fifth Avenue, 21st Floor, New York, NY 10118, USA and its telephone number is 1-646-419-4452.
 
 We have appointed a data protection officer (DPO) for the Shutterstock Group who is responsible for overseeing questions in relation to this privacy notice. If you have any questions, concerns, or requests about this privacy notice, how we manage your Personal Information, or any other issue relating to your Personal Information, please contact our DPO:
 
@@ -230,14 +230,14 @@ Shutterstock, Inc.
 Attn: Data Protection Officer  
 [privacy@shutterstock.com](mailto:%7B%20links.privacy_email%20%7D)  
 350 Fifth Avenue, 21st Floor, New York, NY 10118  
-Phone: 1-866-663-3954  
+Phone: 1-646-419-4452  
 <https://www.shutterstock.com/contactus>
 
 Data Controller (Location of Incorporation or Organization)
 
 How other members of the Shutterstock group of companies may be involved in the processing of Personal Information is described in our information about subprocessing within the Shutterstock Group.
 
-Shutterstock’s local representative in the European Economic Area is the Shutterstock group’s main establishment in the EEA, Shutterstock Ireland Limited:
+The Shutterstock group’s primary establishment in the European Union is Shutterstock Ireland Limited:
 
 Shutterstock Ireland Limited  
 34-37 Clarendon St, 2nd floor  
@@ -263,7 +263,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Attn: Data Protection Officer  
 [privacy@shutterstock.com](mailto:%7B%20links.privacy_email%20%7D)  
 350 Fifth Avenue, 21st Floor, New York, NY 10118  
-Phone: 1-866-663-3954  
+Phone: 1-646-419-4452  
 <https://www.shutterstock.com/contactus>
 
 Subject to applicable law, you also have the right to lodge a complaint with your local data protection authority or the Irish Data Protection Commissioner, which is Shutterstock’s lead supervisory authority in the European Union. If you are a resident of the European Economic Area and believe we maintain your Personal Data within the scope of the General Data Protection Regulation (GDPR), you may direct questions or complaints to your local data protection authority or our lead supervisory authority:
