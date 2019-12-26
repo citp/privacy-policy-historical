@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 101greatgoals.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630094642id_/https%3A//www.101greatgoals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101greatgoals.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226035947id_/https%3A//www.101greatgoals.com/privacy-policy) for the most accurate reproduction.*
 
 # 101 Great Goals Privacy Policy - Football (soccer) greatest goals and highlights | 101 Great Goals
 
