@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fifthsun.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411022015id_/https%3A//www.fifthsun.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifthsun.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226103340id_/https%3A//www.fifthsun.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Fifth Sun - Privacy Policy
 
