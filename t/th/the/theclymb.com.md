@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624044356id_/https%3A//www.theclymb.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226014546id_/https%3A//www.theclymb.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | The Clymb
 
@@ -8,7 +8,7 @@
 
 ## Secure Ordering:
 
-Protecting your online order information on the Site is very important to us. In our shopping checkout process, we use Transport Layer Security (TLS), the industry-standard encryption technology that ensures the safety and security of your online order. When the letters "http" in the URL address change to "https," the "s" indicates you are in a secure area employing TLS. Making a credit card purchase is just as safe on our Site as it is by telephone. If you prefer to order merchandise from the website by phone, please call us toll-free [1 (877) 464-6936](tel:1-877-464-6936). For our customer service hours of operation visit [Customer Care](https://web.archive.org/web/20190624044356id_/https%3A//www.theclymb.com/ccare_main.aspx).
+Protecting your online order information on the Site is very important to us. In our shopping checkout process, we use Transport Layer Security (TLS), the industry-standard encryption technology that ensures the safety and security of your online order. When the letters "http" in the URL address change to "https," the "s" indicates you are in a secure area employing TLS. Making a credit card purchase is just as safe on our Site as it is by telephone. If you prefer to order merchandise from the website by phone, please call us toll-free [1 (877) 464-6936](tel:1-877-464-6936). For our customer service hours of operation visit [Customer Care](https://web.archive.org/web/20191226014546id_/https%3A//www.theclymb.com/ccare_main.aspx).
 
 ## Information We Collect:
 
@@ -133,7 +133,7 @@ We may send promotional e-mails to you only if you have asked to receive them. E
 
 ## Your California Privacy Rights
 
-Please note that California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing. We qualify for this alternative option through the opt-out we provide above. 
+Please note that California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing. We qualify for this alternative option through the opt-out we provide above. California residents are subject to our California Privacy Policy Addendum. To access the California Privacy Policy Addendum, please [Click Here](https://web.archive.org/web/20191226014546id_/https%3A//www.theclymb.com/Privacy_CCPA.aspx)
 
 ## Terms of Service and Privacy Policy Changes:
 
