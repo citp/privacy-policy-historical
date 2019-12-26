@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psi.org privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618204347id_/https%3A//www.psi.org/about/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psi.org privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226155330id_/https%3A//www.psi.org/about/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice : PSI
 
