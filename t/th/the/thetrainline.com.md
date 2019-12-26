@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thetrainline.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113230601id_/https%3A//www.thetrainline.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrainline.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226022657id_/https%3A//www.thetrainline.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - thetrainline.com
 
-**Last updated: 25.05.2018**
+**Last updated: 05.08.2019**
 
 **Quick links:**
 
@@ -30,7 +30,7 @@
 We know that your personal data, and who you share it with, is super important. So, we’re committed to four privacy promises to keep your data safe and secure –
 
   * We’ll be crystal clear about the personal data we use, how we use it and – most importantly – why we need it.
-  * We’ll only use your personal data where we genuinely need to.
+  * We’ll only use your personal data where we need to.
   * We’ll keep your personal data secure, using the best possible combo of technology, people and processes.  
   * We want you to be able to make real, informed choices about your personal data. So, we’ve helped by cutting the jargon.
 
@@ -94,9 +94,9 @@ We need this info to offer these services to you, it’s part of our **contract*
 
 Some of the operators offer Youth tickets. If so, they may need your date of birth to confirm you’re the age you say you are.  
   
-**Contact details –**
+**Contact details and journey details –**
 
-Name, email address, phone number.
+Name, email address, phone number and details of your journey.
 
 | 
 
@@ -104,7 +104,7 @@ To make sure you get your tickets.
 
 The train and coach operators you’re travelling with may need this info to let you travel with them too.
 
-To contact you with essential info – we’re talking booking confirmations, refund info, that sort of thing.
+To contact you with essential info – we’re talking booking confirmations, disruption messaging, refund info: that sort of thing.
 
 Keeping your account up to date (only if you choose to set one up, that is). 
 
@@ -114,7 +114,9 @@ We need this info to offer these services to you, it’s part of our **contract*
 
 | 
 
-Relevant rail, coach and bus operators, who need it to create your tickets. These operators may get in touch with you to let you know about essential service messaging, for example, if your train’s cancelled.   
+Relevant rail, coach and bus operators, who need it to create your tickets and provide services in relation to your journey or to deal with after sales matters.  We also sometimes need to contact these operators in order to perform our contract with you; or where its in your or our legitimate interests to do so. 
+
+These operators may get in touch with you to let you know about essential service messaging, for example, if your train’s disrupted or cancelled.   
   
 We may send you marketing if you’ve told us you want to receive it, when you register an account with us. 
 
@@ -144,7 +146,7 @@ We want your input in our market research, so we can keep improving our products
   
 **Railcard or loyalty card details –**
 
-Relevant card details. 
+Relevant card details & photo.  
 
 | 
 
@@ -232,7 +234,7 @@ Your **consent**.
 
 Google and Facebook. 
 
-We don’t control Facebook or Google’s actions. If you choose to use your Google or Facebook account to log in with us, you’ll be subject to Google and Facebook’s privacy policies too.  
+We don’t control Facebook or Google’s actions. If you choose to use your Google or Facebook account to log in with us, you’ll be subject to Google and Facebook’s privacy policies too: so please read them and take relevant choices via these platforms, in order to manage the way your data is used.  
   
 We also collect a limited amount of personal data from you, automatically, whenever you visit our website or app. It’s nothing to worry about, in fact, we do this to give you a better and more personalised experience. Cookies and your IP address are the sorts of tech we use to understand you better, as well as looking at how you use our website - for example, what routes you search for and whether you use a Railcard. The table below explains what we collect, why we collect it and how we collect it.
 
@@ -302,11 +304,11 @@ We also need to make sure that we’re protecting you, as well as our website, f
 
 To make sure the security of our service is watertight, we work with third parties to put a stop to fake payments (we’ve got more info on this above). 
 
-Selected third parties who advertise on our website and app. And, so that we can advertise our own offers to you when you’re browsing elsewhere on the internet.  
+Selected third parties who advertise on our website and app with your consent. And, so that we can advertise our own offers to you when you’re browsing elsewhere on the internet. See our cookie policy for more info.   
   
 **Analytics info –**
 
-We use info about the searches and booking you make -  basically how you use and navigate through our website and app. 
+We use info about the searches and bookings you make -  basically how you use and navigate through our website and app. 
 
 | 
 
@@ -322,7 +324,7 @@ This helps us shape our shiny new features, like Price Prediction and Busy Bot!
 
 | 
 
-We don’t routinely share this type of data but we use carefully selected third parties to help us carry out this task.    
+We don’t routinely share this type of data but we use tools provided by carefully selected service providers in order to carry out this task.  Please see our [Cookie policy ](https://www.thetrainline.com/terms/your-data)for more info.       
   
 **Social login –**
 
@@ -377,13 +379,13 @@ Cookies are what we call the tiny crumbs of personal data that we automatically 
 
 For example, let’s say you visited our website, and changed your settings to pay in euros instead of pounds. When you returned to our website, say in a couple of days, the cookie that you dropped when you logged in before would remember that you preferred to pay in euros and would show you prices in euros again. Pretty neat, right?
 
-Our [Cookies Policy](https://www.thetrainline.com/terms/your-data) gives a full breakdown of how we use cookies, and how you can adjust your preferences through your browser settings.
+Our [Cookies Policy](https://www.thetrainline.com/terms/your-data) gives a full breakdown of how we use cookies, and how you can adjust your preferences.
 
 **PERSONALISING YOUR EXPERIENCE**
 
 It’s so much nicer when people remember your name and say, “Morning Tom”, instead of just “Morning”, right? Or, when the server in your local coffee shop sees you walk in for your daily caffeine fix and says, “One mocha light frappuccino coming right up, Susie.” without you needing to say anything. It makes you feel cared about.
 
-That’s exactly how we want you to feel whenever you visit our website, open our app, or interact with us in anyway on the internet. Now, on the internet we can’t see you and put a name to a face, so we rely on things like cookies and your IP address to give you a more personalised experience (unless, of course, you’ve indicated through your browser settings that you’d prefer it if we didn’t).  We combine this with info about the searches and booking you make and how you use our website and app, to give you the best-possible, tailored experience.  We also use carefully selected third party partners, like Google, to make ads more useful for you.  You use our service to easily book train, coach or bus tickets to destinations you want to visit. We need to personalise your experience on our sites and apps to provide you with that service. See our [Cookies Policy](https://www.thetrainline.com/terms/your-data) for more info.
+That’s exactly how we want you to feel whenever you visit our website, open our app, or interact with us in anyway on the internet. Now, on the internet we can’t see you and put a name to a face, so we rely on technologies such as cookies and identifiers such as your IP address to give you a more personalised experience (unless, of course: you’d prefer it if we didn’t).  We combine this with info about the searches and booking you make and how you use our website and app, to give you the best-possible, tailored experience.  We also use carefully selected third party partners, like Google, to make ads more useful for you.  You use our service to easily book train, coach or bus tickets to destinations you want to visit: and we need to personalise your experience on our sites and apps to provide you with that service and make it relevant to your interests. See our [Cookies Policy](https://www.thetrainline.com/terms/your-data) for more info.
 
 **SECURITY**
 
@@ -395,7 +397,7 @@ That’s exactly how we want you to feel whenever you visit our website, open ou
 **INTERNATIONAL DATA TRANSFERS**
 
   * We transfer your personal data to other Trainline companies in our core group and service providers outside the European Economic Area (EEA). But, fear not, we only work with service providers that prove to us that they have the same high standards around protection of your data as we do.
-  * Your data is securely processed at all times. Where we transfer your personal data outside the EEA, we have rules and steps put in place to make sure your personal data is kept safe and protected. Usually this means we’ll have [standard contractual clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) approved by the European Commission in our contracts with parties outside the EEA, or we will rely on European Commission [adequacy decisions](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en). For more information, please contact us - see our contact details below.
+  * Your data is securely processed at all times. Where we transfer your personal data outside the EEA, we have rules and steps put in place to make sure your personal data is kept safe and protected. Usually this means we’ll have [standard contractual clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) approved by the European Commission in our contracts with parties outside the EEA, or we will rely on European Commission [adequacy decisions](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).  For companies based in the United States, we also rely on the Privacy Shield in order to ensure adequacy of transfers made. For more information, please contact us - see our contact details below.
 
 
 
