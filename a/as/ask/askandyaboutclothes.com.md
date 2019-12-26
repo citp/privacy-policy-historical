@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askandyaboutclothes.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216152903id_/http%3A//www.askandyaboutclothes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askandyaboutclothes.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226141737id_/https%3A//www.askandyaboutclothes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ask Andy About Clothes
+# Privacy Policy | Ask Andy About Clothes
 
 ### Introduction
 
@@ -30,7 +30,10 @@ We implement a variety of security measures to maintain the safety of your Perso
 
 ### Do we use cookies?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us remember and process the items in your shopping cart and keep track of advertisements.
+Yes. A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the  
+information stored in and obtained from cookies.
+
+We use cookies to help us remember and process the items in your shopping cart and keep track of advertisements.
 
 ### Do we disclose any information to outside parties?
 
@@ -40,7 +43,15 @@ We do not sell, trade, or otherwise transfer to outside parties your Personal Da
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-###   **Processing in the European Economic Area (EEA)**
+### Advertising Privacy Statement
+
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site. AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based  
+advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behavior on our website and on other websites across the Internet using cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: https://adssettings.google.com. You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at:  
+http://optout.networkadvertising.org. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
+
+### **Processing in the European Economic Area (EEA)**
 
 If you are located in the EU, United Kingdom, Lichtenstein, Norway, or Iceland, you may have additional rights under the EU General Data Protection Regulation (the “GDPR”) related to your Personal Data.   All processing of Personal Data is performed in accordance with the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of Personal Data and on the free movement of such data, known as the General Data Protection Regulation (GDPR), and our processing will take place in accordance with the GDPR.
 
@@ -57,6 +68,10 @@ You may contact us at any time to:
 
 
 Any data that is no longer needed for the purposes specified will be deleted. If you have any additional questions about our collection and storage of data, please contact us at: [data@askandyaboutclothes.com](mailto:data@askandyaboutclothes.com).
+
+#### AdThrive: For European Economic Area Residents
+
+As mentioned in the above section, if you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at the email above and contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.)
 
 ### California Online Privacy Protection Act Compliance
 
