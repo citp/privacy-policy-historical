@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smd.co.za privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401182728id_/https%3A//www.smd.co.za/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smd.co.za privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226180911id_/https%3A//www.smd.co.za/privacypolicy) for the most accurate reproduction.*
 
 # - Buy It. Fix It. Love It.
 
