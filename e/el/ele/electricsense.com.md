@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the electricsense.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503140236id_/https%3A//www.electricsense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricsense.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226054506id_/https%3A//www.electricsense.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ElectricSense
+# Privacy Policy - ElectricSense
 
 **At ElectricSense.com, the privacy of our visitors is of extreme importance to us.** Personal information of all users is collected, used and disclosed as described in this Statement of Privacy.
 
@@ -252,3 +252,5 @@ We may update our Privacy Policy from time to time. We advise you to review this
 **Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us [here](https://www.electricsense.com/contact-lloyd/).
+
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept Reject [Read More](https://www.electricsense.com/privacy-policy/)
