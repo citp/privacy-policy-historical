@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the long-mcquade.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401161011id_/https%3A//www.long-mcquade.com/content/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the long-mcquade.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226212214id_/https%3A//www.long-mcquade.com/content/7) for the most accurate reproduction.*
 
 # Canada's Music Store, Musical Instruments | Long & McQuade
 
