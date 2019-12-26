@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultraedit.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831033755id_/https%3A//www.ultraedit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultraedit.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226091447id_/https%3A//www.ultraedit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IDM Computer Solutions, Inc. Privacy Policy
 
@@ -11,6 +11,8 @@ For example: If you choose a service or transaction that requires payment, such 
 Additionally, when placing an order with a credit card on our website, your IP address may be used as part of IDM's fraud prevention measures for the sole purpose of reconciling the physical address you provide on your order to your IP geolocation. This information is deleted from our database once your order has been processed and imported into our system. This is a standard practice in online security and prevents the use of your credit card for placement of fraudulent orders by others.
 
 This website does make use of cookies to enhance your website experience (for example, registering in the forum) and to collect site usage information so that we can improve our site (for example, Google Analytics). All cookies used by our website contain only anonymous data and will never store your personal information (your name, email address, etc.). Additionally, this site does not use cookies to market or advertise to visitors.
+
+We do not process personal data through our software products. But in the case of unauthorized use or illegal use of computer files generated with an unlicensed version of our products we may process communications and utilization data. In this regard, the processing of this data is based on Article 6 (1) lit. f GDPR. Our purpose and legitimate interest are to monitor compliance with the [licensing terms](https://www.ultraedit.com/license-agreement/) of IDM's software products and the prevention, enforcement, as well as prosecution of infringements.
 
 **IDM will never collect or store your personal information without your knowledge and consent.**
 
@@ -28,6 +30,34 @@ When you register, or otherwise give us personal information, IDM Computer Solut
 IDM Computer Solutions, Inc. is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities. When we transmit sensitive information (such as a credit card number) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
 IDM Computer Solutions, Inc. sites are general audience sites and do not knowingly collect any personal information from children.
+
+What is GDPR? The European Union (EU) General Data Protection Regulation (GDPR) is a set of regulations coming into effect on May 25, 2018 that enhance the data privacy rights of EU individuals and unify data privacy protections within the EU. The scope of the GDPR covers companies operating in the EU, as well as companies operating outside the EU who offer services to, or monitor the behavior of, EU residents.
+
+#### How does GDPR apply to IDM Computer Solutions, Inc.?
+
+The GDPR sets out obligations on 1) Data Controllers, or those that determine the purpose and means of the processing of personal data of EU residents, and 2) Data Processors, or those that process personal data of EU residents on behalf of Data Controllers.
+
+For most of IDM operations, IDM is a Data Controller, that is we store customer software license information in order to support our registered users. IDM is also a Data Processor, as we employ third ecommerce providers (2Checkout.com and Cleverbridge.com) to process online credit card transactions. It is IDMs responsibility to ensure these ecommerce providers are GDPR compliance and we have done so.
+
+**IDM as a Data Controller.** IDM is a Data Controller with respect to license data collected when a customer registers an IDM software product. When individuals in the EU buy our products online, they provide our ecommerce providers with information needed such as credit card details, address, email, full name, and phone number (if provided). Post transaction, IDM is provided ONLY the license information such as customer/organization name, email address, product registration code, date purchased and quantity. Our ecommerce provider never shares personal information such as Credit card information with IDM. Nor does IDM store any such information on its secure internal or cloud servers. We share this data with registered users who request their license information in the event they have lost their registration code or have to restore an application due to a computer failure. Any data we store is for the sole use of supporting our registered users and is available upon request. 
+
+**IDM as a Data Processor.** IDM is a Data Processor with respect to using a third party to conduct online transactions on our behalf. The personal data collected (such as accredit card numbers) by our third-party ecommerce providers (2Checkout.com and Cleverbridge.com) to process online credit card transactions, is NOT shared with IDM. It is however IDMs responsibility to ensure these ecommerce providers are GDPR compliance and we have done so.
+
+#### What is IDM doing to foster compliance with GDPR?
+
+IDM is committed to GDPR compliance across our products, support, and services.
+
+**Security.** Over the past year, IDM undertook a complete internal and external (cloud) security overhaul and upgrade. These actions include new managed firewalls to govern internal/external access to the Network/Internet. We migrated to an entirely new managed cloud array for download, upgrade, and web services. And lastly, IDM engaged [CA Veracode](https://www.ultraedit.com/company/veracode-verified.html) to certify our products Veracode Verified, thus ensuring our products are hardened, pressure tested and secure.
+
+**Consent.** Customers who submit their personal data to us, or to our third-party ecommerce providers, (for example by purchasing our software products online), affirmatively consent to IDM or its third-party processing agent, use of their personal data in accordance with the privacy policies on our web sites.
+
+#### What should you be doing as a customer of IDM?
+
+Companies subject to the GDPR are responsible for ensuring their own compliance and you should seek legal counsel to assist you with this. As a current or future customer of IDM, you are responsible for ensuring your use of our services is compliant with the GDPR. When IDM acts as a Data Processor on your behalf, you are responsible for ensuring data you share with us complies with the GDPR.
+
+When IDM acts as a Data Controller on your behalf, we are responsible for ensuring that our privacy policy and GDPR compliance, (along with any other applicable data protection laws) affords you, our customer, the privacy and data protection as governed by law and/or your consent.
+
+IDM will promptly update privacy policies posted on such sites to incorporate any changes required by our customers.
 
 While the administrators and moderators of our forums/message board will attempt to remove or edit any generally objectionable material as quickly as possible, it is impossible to review every message. Therefore you acknowledge that all posts made to this website express the views and opinions of the author and not the administrators, moderators or webmaster (except for messages by these people) and hence will not be held liable.
 
