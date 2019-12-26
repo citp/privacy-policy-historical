@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the youcandothecube.com privacy policy that was archived on 2017-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170913065147id_/https%3A//www.youcandothecube.com/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the youcandothecube.com privacy policy that was archived on 2019-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191226160030id_/https%3A//www.youcandothecube.com/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="utf-8">
@@ -29,6 +29,7 @@
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="apple-mobile-web-app-title" content="You can do the Rubiks Cube">
     <meta name="application-name" content="You can do the Rubiks Cube">
+    <meta name="p:domain_verify" content="84c7fbde1f5d38e73490e296e816965f">
     <meta name="theme-color" content="#ffffff">
   
 
@@ -45,6 +46,14 @@
 
       ga('create', 'UA-6289265-1', 'auto');
       ga('send', 'pageview');
+
+      //Track outbound links
+      var trackOutboundLink = function(url) {
+         ga('send', 'event', 'outbound', 'click', url, {
+           'transport': 'beacon',
+           'hitCallback': function(){document.location = url;}
+         });
+      }      
     </script>
 
     <!-- Website designed and built by Climbing Turn http://www.climbingturn.co.uk -->
@@ -61,21 +70,34 @@
             </div>
             <section class="large-24 columns header__search-holder">
                 <div class="row">
-                    <nav class="medium-12 medium-offset-7 columns">
-                        <ul class="menu">
-                            <li><a href="/blog">Blog</a></li>
-                            <li><a href="/info/about-us">About Us</a></li>
-                            <li><a href="/contact">Contact</a></li>
-                        </ul>
+                    <nav class="medium-12 medium-offset-7 columns medium-collapse">
+                        <fieldset class="small-19 large-21 columns">
+                            <ul class="menu">
+                                <li><a href="/blog">Blog</a></li>
+                                <li><a href="/info/about-us">About Us</a></li>
+                                <li><a href="/contact/newsletter">Newsletter</a></li>
+                                <li><a href="/contact">Contact</a></li>
+                            </ul>
+                        </fieldset>
+                        <fieldset class="small-5 large-3 columns country">
+                            <ul class="dropdown menu header__dropdown" id="country-chooser" data-dropdown-menu="" role="navigation" aria-label="Link to Canadian site">
+                                <li>
+                                    <a href="#"><img src="/img/us-flag-32px.png" width="32px" height="17px"></a>
+                                    <ul class="menu vertical" style="min-width:50px">
+                                        <li value="CA"><a href="https://www.youcandothecube.ca" title="Go to Canadian site"><img src="/img/ca-flag.png" width="32px" height="16px"><span class="hide">Choose Canadian site</span></a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </fieldset>                        
                     </nav>
                     <div class="medium-5 columns end">
                         <form method="post" action="https://www.youcandothecube.com/">
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="21">
 <input type="hidden" name="RES" value="">
-<input type="hidden" name="meta" value="LAGy5F7kNz32dt/JkuU5Qrf3kCoE45yuxE8Ten8vAbRBgGCCIcBPQJ+xIhvRC7qW0db3S5X/rdfb9rL4mR6jfJcxEFYLJiV/RDRRizu05Fyew3FBrPLPeDA5pQj95ie7zlM0q9MgLaGBarNFiFzDpHdTGMOCdL4yKwleGk/IlMSHiZgbzTVJBL4xWi9bPfCnshdP/uPrm+Y20rUdhnQW7X03z7OmwddUNaw+8nj8I/FivTForH86Y1XI2hWukTtBHt3BuY4GUvzDr+XCgsm3aOQmXVXFAfyFBAVwjRgS02gbh8IIt43kGNhlzOMyNVty+AjVmUhrVO3dx6ib12on1Q3yABFk2zZ9UXwXllPwyR0VShSJf9xWNwzq7S0sFA+e/ZEtE4mrKbrOK3V9bCbAT2nNb87JQaPUsCVw+qoxc4UBqnfu3CXMsDNegPlMnybCt4H0eiEyk6cAIBZ7cIfiHQpftA4UMOcmJBZIhooiWep5OB8rtjUxDV8cCBbbwiKF">
+<input type="hidden" name="meta" value="iZhX/W70qB4k8sOGRpm1m2KrwcdxX312fY3Cu5Oywm+L+4R9H99zRxGBCF3a7WP9bBTAidMPra671vi7+A31WJk8BpvjQf5vd1TzVAbhR53Ode2I3FcMHjlZoQYB0rnre9alsRejU4RiPckB1vcJSliUsF7KE/bRlv9PZ7dxr4yf+ZLWLvZlfa9jqutAaD6/6/LWHNKlI3isqy6AQK8YcsRVDRtW4k4UVSbl5sLyNsu12Q4NfutG+WpIhstP8nmR2bauWH/XrVbgHBSL7v1kDAOCkGebYbBuQG2s4/m4+3Uc0cAD66iZaLlryLe/WACHwMzD6kdlHiBu8qrE1y+5bC0EOyOz3J5oOChdj7fK5/7WpEnHRlloFuow1E+qdqx9zcUQDlTbtTfrUTOWCR6AMI2mmgSx8Q8yQYqXpG1IDz/Wd0DP4j2+C+1EOIWtgcUArQ/2lcGdYK63DOHLulvLy/nwaLhfV1Ype/nQKhiPaT1hDugpN84b1vfnivgJvFJfgJP4Gv/d1vqhfqi8lUkLN885ibA06wx7x1PkYeEE/VE=">
 <input type="hidden" name="site_id" value="1">
-<input type="hidden" name="csrf_token" value="6a46b0a9fd202bf9f189769c0b4dbc1410350b57">
+<input type="hidden" name="csrf_token" value="6246d74e17e30f8d8b2280851e682552fde48b74">
 </div>
 
 
@@ -98,38 +120,41 @@
 
                 <ul class="dropdown menu header__dropdown" data-dropdown-menu="">
 
-                <li class="first"><a href="https://www.youcandothecube.com/solve-the-cube/">Solve It</a></li>
-<li><a href="https://www.youcandothecube.com/educators/">Educators</a>
+                <li class="first"><a href="/solve-the-cube/">Solve It</a></li>
+<li><a href="/educators/">Educators</a>
 <ul>
-<li class="first"><a href="https://www.youcandothecube.com/educators/teach-to-solve/">Teaching to Solve</a></li>
-<li><a href="https://www.youcandothecube.com/educators/rubiks-cube-units-and-lessons/">Math and STEM Lessons</a></li>
-<li><a href="https://www.youcandothecube.com/educators/after-school/">After School</a></li>
-<li><a href="https://www.youcandothecube.com/educators/conferences-and-workshops/">Conferences and Workshops</a></li>
-<li><a href="https://www.youcandothecube.com/educators/where-weve-been/">Where We've Been</a></li>
-<li><a href="https://www.youcandothecube.com/educators/grants-and-funding/">Grants and Funding</a></li>
-<li><a href="https://www.youcandothecube.com/educators/ambassadors/">Ambassadors</a></li>
-<li class="last"><a href="https://www.youcandothecube.com/educators/shop/">Shop</a></li>
+<li class="first"><a href="/educators/teach-to-solve/">Teaching to Solve</a></li>
+<li><a href="/educators/rubiks-cube-units-and-lessons/">Math and STEM Lessons</a></li>
+<li><a href="/educators/after-school/">After School</a></li>
+<li><a href="/educators/conferences-and-workshops/">Conferences and Workshops</a></li>
+<li><a href="/educators/where-weve-been/">Where We've Been</a></li>
+<li><a href="/educators/grants-and-funding/">Grants and Funding</a></li>
+<li><a href="/educators/ambassadors/">Ambassadors</a></li>
+<li class="last"><a href="/educators/galleries/">Galleries</a></li>
 </ul>
 </li>
-<li><a href="https://www.youcandothecube.com/mosaics/">Mosaics</a>
+<li><a href="/shop/">Shop</a></li>
+<li><a href="/build-mosaics-with-rubiks-cubes/">Mosaics</a>
 <ul>
-<li class="first"><a href="https://www.youcandothecube.com/mosaics/mosaic-templates/">Mosaic Templates</a></li>
-<li><a href="https://www.youcandothecube.com/mosaics/create-your-own-mosaics/">Create your own Mosaics</a></li>
-<li><a href="https://www.youcandothecube.com/mosaics/borrow-a-set/">Borrow a Set</a></li>
-<li><a href="https://www.youcandothecube.com/mosaics/mosaic-contest/">Mosaic Contest</a></li>
+<li class="first"><a href="/build-mosaics-with-rubiks-cubes/mosaic-templates/">Mosaic Templates</a></li>
+<li><a href="/build-mosaics-with-rubiks-cubes/create-your-own-mosaics/">Create your own Mosaics</a></li>
+<li><a href="/build-mosaics-with-rubiks-cubes/borrow-a-set/">Borrow a Set</a></li>
+<li><a href="/build-mosaics-with-rubiks-cubes/mosaic-contest/">Mosaic Contest</a></li>
 </ul>
 </li>
-<li><a href="https://www.youcandothecube.com/you-can-do-the-rubiks-cube-competitions/">Competitions</a>
+<li><a href="/competitions/">Competitions</a>
 <ul>
-<li class="first"><a href="https://www.youcandothecube.com/you-can-do-the-rubiks-cube-competitions/upcoming-competitions/">Upcoming Regional Competitions</a></li>
-<li><a href="https://www.youcandothecube.com/you-can-do-the-rubiks-cube-competitions/local-competitions/">Local Competitions</a></li>
-<li><a href="https://www.youcandothecube.com/you-can-do-the-rubiks-cube-competitions/competition-results/">Competition Results</a></li>
-<li><a href="https://www.youcandothecube.com/you-can-do-the-rubiks-cube-competitions/rubiks-competition-faq/">Competition FAQ</a></li>
+<li class="first"><a href="/competitions/regional-competitions/">Regional Competitions</a></li>
+<li><a href="/competitions/about-regional-competitions/">About Regional Competitions</a></li>
+<li><a href="/competitions/leaderboard-results/">Leaderboard Results</a></li>
+<li><a href="/competitions/leaderboard/">About Leaderboard</a></li>
+<li><a href="/competitions/coaches/">Coaches</a></li>
+<li><a href="/competitions/local-competitions/">Local Competitions</a></li>
+<li><a href="/competitions/rubiks-competition-faq/">Competition FAQ</a></li>
 </ul>
 </li>
-<li><a href="https://www.youcandothecube.com/lending-library/">Cube Lending Program</a></li>
-<li><a href="https://www.youcandothecube.com/galleries/">Galleries</a></li>
-<li class="last"><a href="https://www.youcandothecube.com/downloads/">Downloads</a></li>
+<li><a href="/lending-library/">Cube Lending Program</a></li>
+<li class="last"><a href="/downloads/">Downloads</a></li>
 
                     
                 </ul>
@@ -140,44 +165,49 @@
     <section class="header__mobile-nav-holder" data-toggler="" data-animate="slide-in-down slide-out-up" id="header__mobile-nav-holder">
         <nav class="large-24 columns">
             <ul class="vertical menu" data-accordion-menu="">
-                <li class=""><a href="https://www.youcandothecube.com/solve-the-cube/">Solve It</a></li>
-<li><a href="https://www.youcandothecube.com/educators/">Educators</a>
+                <li><a href="https://www.youcandothecube.ca" title="Choose Canadian site"><img src="/img/ca-flag.png" class="flag-margin">Choose Canadian site</a></li>
+                <li class=""><a href="/solve-the-cube/">Solve It</a></li>
+<li><a href="/educators/">Educators</a>
 <ul>
-<li class="first"><a href="https://www.youcandothecube.com/educators/">Schools and Youth Organizations</a></li>
-<li class=""><a href="https://www.youcandothecube.com/educators/teach-to-solve/">Teaching to Solve</a></li>
-<li><a href="https://www.youcandothecube.com/educators/rubiks-cube-units-and-lessons/">Math and STEM Lessons</a></li>
-<li><a href="https://www.youcandothecube.com/educators/after-school/">After School</a></li>
-<li><a href="https://www.youcandothecube.com/educators/conferences-and-workshops/">Conferences and Workshops</a></li>
-<li><a href="https://www.youcandothecube.com/educators/where-weve-been/">Where We've Been</a></li>
-<li><a href="https://www.youcandothecube.com/educators/grants-and-funding/">Grants and Funding</a></li>
-<li><a href="https://www.youcandothecube.com/educators/ambassadors/">Ambassadors</a></li>
-<li class="last"><a href="https://www.youcandothecube.com/educators/shop/">Shop</a></li>
+<li class="first"><a href="/educators/">Schools and Youth Organizations</a></li>
+<li class=""><a href="/educators/teach-to-solve/">Teaching to Solve</a></li>
+<li><a href="/educators/rubiks-cube-units-and-lessons/">Math and STEM Lessons</a></li>
+<li><a href="/educators/after-school/">After School</a></li>
+<li><a href="/educators/conferences-and-workshops/">Conferences and Workshops</a></li>
+<li><a href="/educators/where-weve-been/">Where We've Been</a></li>
+<li><a href="/educators/grants-and-funding/">Grants and Funding</a></li>
+<li><a href="/educators/ambassadors/">Ambassadors</a></li>
+<li class="last"><a href="/educators/galleries/">Galleries</a></li>
 </ul>
 </li>
-<li><a href="https://www.youcandothecube.com/mosaics/">Mosaics</a>
+<li><a href="/shop/">Shop</a></li>
+<li><a href="/build-mosaics-with-rubiks-cubes/">Mosaics</a>
 <ul>
-<li class="first"><a href="https://www.youcandothecube.com/mosaics/">Build Mosaics using the Rubik’s Cube</a></li>
-<li class=""><a href="https://www.youcandothecube.com/mosaics/mosaic-templates/">Mosaic Templates</a></li>
-<li><a href="https://www.youcandothecube.com/mosaics/create-your-own-mosaics/">Create your own Mosaics</a></li>
-<li><a href="https://www.youcandothecube.com/mosaics/borrow-a-set/">Borrow a Set</a></li>
-<li><a href="https://www.youcandothecube.com/mosaics/mosaic-contest/">Mosaic Contest</a></li>
+<li class="first"><a href="/build-mosaics-with-rubiks-cubes/">Build Mosaics with Rubik’s Cubes</a></li>
+<li class=""><a href="/build-mosaics-with-rubiks-cubes/mosaic-templates/">Mosaic Templates</a></li>
+<li><a href="/build-mosaics-with-rubiks-cubes/create-your-own-mosaics/">Create your own Mosaics</a></li>
+<li><a href="/build-mosaics-with-rubiks-cubes/borrow-a-set/">Borrow a Set</a></li>
+<li><a href="/build-mosaics-with-rubiks-cubes/mosaic-contest/">Mosaic Contest</a></li>
 </ul>
 </li>
-<li><a href="https://www.youcandothecube.com/you-can-do-the-rubiks-cube-competitions/">Competitions</a>
+<li><a href="/competitions/">Competitions</a>
 <ul>
-<li class="first"><a href="https://www.youcandothecube.com/you-can-do-the-rubiks-cube-competitions/">You CAN Do The Rubik’s Cube Competitions</a></li>
-<li class=""><a href="https://www.youcandothecube.com/you-can-do-the-rubiks-cube-competitions/upcoming-competitions/">Upcoming Regional Competitions</a></li>
-<li><a href="https://www.youcandothecube.com/you-can-do-the-rubiks-cube-competitions/local-competitions/">Local Competitions</a></li>
-<li><a href="https://www.youcandothecube.com/you-can-do-the-rubiks-cube-competitions/competition-results/">Competition Results</a></li>
-<li><a href="https://www.youcandothecube.com/you-can-do-the-rubiks-cube-competitions/rubiks-competition-faq/">Competition FAQ</a></li>
+<li class="first"><a href="/competitions/">You CAN Do The Rubik’s Cube Competitions</a></li>
+<li class=""><a href="/competitions/regional-competitions/">Regional Competitions</a></li>
+<li><a href="/competitions/about-regional-competitions/">About Regional Competitions</a></li>
+<li><a href="/competitions/leaderboard-results/">Leaderboard Results</a></li>
+<li><a href="/competitions/leaderboard/">About Leaderboard</a></li>
+<li><a href="/competitions/coaches/">Coaches</a></li>
+<li><a href="/competitions/local-competitions/">Local Competitions</a></li>
+<li><a href="/competitions/rubiks-competition-faq/">Competition FAQ</a></li>
 </ul>
 </li>
-<li><a href="https://www.youcandothecube.com/lending-library/">Cube Lending Program</a></li>
-<li><a href="https://www.youcandothecube.com/galleries/">Galleries</a></li>
-<li class="last"><a href="https://www.youcandothecube.com/downloads/">Downloads</a></li>
+<li><a href="/lending-library/">Cube Lending Program</a></li>
+<li class="last"><a href="/downloads/">Downloads</a></li>
 
                 <li><a href="/blog">Blog</a></li>
                 <li><a href="/info/about-us">About Us</a></li>
+                <li><a href="/contact/newsletter">Newsletter</a></li>
                 <li><a href="/contact">Contact</a></li>                
             </ul>
         </nav>
@@ -204,6 +234,7 @@
                 <polygon points="0,0  1000,1000  0,1000" style="fill:white"></polygon>
             </svg>
 		</div>
+
 
 
 	<div class="row">
@@ -268,7 +299,7 @@ You can access and update the contact information provided to us during registra
 <p>If we were to collect and store personal information from children users, parent would have the ability to review the personal information we have collected from their child, request that we stop further collection or use of their child’s personal information, and request that any personal information that we have collected be deleted from our records.</p>
 
 <p>To make any access or modification request that cannot be done on the site, the client should contact us:<br>
-Email: HOLLYR@SevenTowns.com<br>
+Email: HOLLYR@RUBIKS.COM<br>
 Phone: 617-379-2988<br>
 Address: You CAN Do the Rubik's Cube! 10 Liberty Street, Danvers MA 01923</p>
 
@@ -314,9 +345,9 @@ Security of Your Personal Information</h2>
 <h2><br>
 Contact Us</h2>
 
-<p>If you have any questions about this Privacy Policy, you can contact our corporate office by calling (011) 207-727-5666 Monday through Friday between the hours of 9:00 a.m. and 5:00 p.m. GST, or contact us at</p>
+<p>If you have any questions about this Privacy Policy, you can contact our corporate office by calling (011) 44 20 7727 5666&nbsp;Monday through Friday between the hours of 9:00 a.m. and 5:00 p.m. GST, or contact us at</p>
 
-<p>Email: HOLLYR@SevenTowns.com<br>
+<p>Email: HOLLYR@RUBIKS.COM<br>
 Phone: 617-379-2988<br>
 Address: You CAN Do the Rubik's Cube! 10 Liberty Street, Danvers MA 01923</p>
 
@@ -331,6 +362,7 @@ This Privacy Policy is effective as of March 2017.</p>
         	    
 
 	</div>
+
     </main>
     <footer>
     <svg class="triangle--top" viewBox="0 0 500 1000" preserveAspectRatio="none">
@@ -340,7 +372,7 @@ This Privacy Policy is effective as of March 2017.</p>
 
         <article class="large-8 columns">
             <div class="large-6 columns">
-                <img src="https://www.youcandothecube.com/resources/images/assets/approved-stem.png" width="97" height="106" align="left" alt="{stem_title}" title="STEM Approved">
+                <img src="http://dev.ycdtc/resources/images/assets/approved-stem.png" width="97" height="106" align="left" alt="{stem_title}" title="STEM Approved">
             </div>
             <div class="large-18 columns">
                 <h2><a href="http://www.ed.gov/stem" target="_blank">STEM Approved</a></h2>
@@ -350,21 +382,21 @@ This Privacy Policy is effective as of March 2017.</p>
 
         <article class="large-8 columns">
             <div class="large-6 columns">
-                <img src="https://www.youcandothecube.com/resources/images/assets/rubiks-cube-coloured.png" alt="Unlock the Secret" title="Unlock the Secret" width="100" height="115" align="left">
+                <img src="" alt="" title="" width="100" height="115" align="left">
             </div>
             <div class="large-18 columns">
-                <h2><a href="/solve-the-cube">Unlock the Secret</a></h2>
+                <h2><a href=""></a></h2>
                 <p>Our guides show you how to solve the Rubik's Cube.</p>
             </div>
         </article>
 
         <article class="large-8 columns">
             <div class="large-6 columns">
-                <img src="https://www.youcandothecube.com/resources/images/assets/rubiks-cube-coloured.png" alt="Newsletter Signup" title="Newsletter Signup" width="100" height="115" align="left">
+                <img src="" alt="" title="" width="100" height="115" align="left">
             </div>
             <div class="large-18 columns">
-                <h2><a href="/contact/newsletter">Newsletter Signup</a></h2>
-                <p>Sign up for our newsletter</p>
+                <h2><a href="/newsletter-signup"></a></h2>
+                <p></p>
                 
             </div>
         </article>
@@ -385,39 +417,32 @@ This Privacy Policy is effective as of March 2017.</p>
     <section class="row">
         <nav class="large-6 large-centered columns">
             <ul class="menu footer__social-menu">
+
+                
                 <li>
                     <a href="https://www.facebook.com/YouCanDoTheRubiksCube" target="_blank" title="Facebook">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45" class="social-svg">
-                            <g fill="none" fill-rule="evenodd">
-                                <rect width="44.956" height="45" fill="#00439A" rx="4" class="social-background"></rect>
-                                <path class="social-foreground" fill="#FFFFFF" d="M33.6759605,9.90007031 L11.2797353,9.90007031 C10.5121519,9.90007031 9.8903233,10.5225117 9.8903233,11.2908516 L9.8903233,33.7091484 C9.8903233,34.4771719 10.5121519,35.0999297 11.2797353,35.0999297 L23.3370285,35.0999297 L23.3370285,25.3413281 L20.0563866,25.3413281 L20.0563866,21.5380195 L23.3370285,21.5380195 L23.3370285,18.7333945 C23.3370285,15.4783477 25.3229112,13.7061211 28.2238882,13.7061211 C29.6133002,13.7061211 30.8072251,13.8096563 31.1553508,13.8559922 L31.1553508,17.2574648 L29.143759,17.2583086 C27.5660248,17.2583086 27.2607827,18.0088242 27.2607827,19.1098477 L27.2607827,21.5380195 L31.0229773,21.5380195 L30.533171,25.3413281 L27.2607827,25.3413281 L27.2607827,35.0999297 L33.6759605,35.0999297 C34.4432277,35.0999297 35.0653724,34.4771719 35.0653724,33.7091484 L35.0653724,11.2908516 C35.0653724,10.5225117 34.4432277,9.90007031 33.6759605,9.90007031 L33.6759605,9.90007031 Z"></path>
-                            </g>
-                        </svg>
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.youtube.com/user/RubiksCubeSolution" title="YouTube" target="_blank">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45" class="social-svg">
-                            <g fill="none" fill-rule="evenodd">
-                                <rect width="44.956" height="45" fill="#00439A" rx="4" class="social-background"></rect>
-                                <path class="social-foreground" fill="#FFFFFF" d="M35.0653724,27.5399648 C35.0653724,29.5199297 33.4468269,31.1400703 31.4688465,31.1400703 L13.486498,31.1400703 C11.5085176,31.1400703 9.8903233,29.5199297 9.8903233,27.5399648 L9.8903233,17.4600352 C9.8903233,15.4800703 11.5085176,13.8599297 13.486498,13.8599297 L31.4688465,13.8599297 C33.4468269,13.8599297 35.0653724,15.4800703 35.0653724,17.4600352 L35.0653724,27.5399648 L35.0653724,27.5399648 Z M19.8776877,25.5912891 L26.6800815,22.0632891 L19.8776877,18.5109258 L19.8776877,25.5912891 L19.8776877,25.5912891 Z"></path>
-                            </g>
-                        </svg>
-
-                    </a>
+                        <img src="https://www.youcandothecube.com/resources/images/assets/social-facebook.svg" alt="Facebook">
+                    </a>                   
                 </li>
                 
                 <li>
                     <a href="https://twitter.com/YouCanDoRubiks" target="_blank" title="Twitter">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45" class="social-svg">
-                            <g fill="none" fill-rule="evenodd">
-                                <rect width="44.956" height="45" fill="#00439A" rx="4" class="social-background"></rect>
-                                <path class="social-foreground" fill="#FFFFFF" d="M35.0653724,14.6845898 C34.1393202,15.095918 33.143973,15.3736523 32.0989287,15.4986328 C33.1652567,14.8586484 33.9842933,13.8455156 34.3698235,12.6383906 C33.372088,13.2306328 32.2666345,13.6611562 31.0902002,13.8929062 C30.1480271,12.888 28.8055728,12.2603906 27.3201031,12.2603906 C24.4674886,12.2603906 22.1549395,14.5750781 22.1549395,17.4301523 C22.1549395,17.8356094 22.200703,18.2300977 22.2886827,18.6084492 C17.9960811,18.3928359 14.1903005,16.3346133 11.6429632,13.2065859 C11.1982882,13.9701445 10.9436212,14.858332 10.9436212,15.8058984 C10.9436212,17.5993945 11.8554492,19.1817773 13.2412787,20.1090937 C12.3946014,20.0823047 11.5981832,19.8495352 10.9019318,19.4622891 C10.9014401,19.4839102 10.9014401,19.5055312 10.9014401,19.5275039 C10.9014401,22.0323867 12.6818613,24.1218633 15.0446694,24.597 C14.6111631,24.715125 14.1547925,24.7783008 13.6838816,24.7783008 C13.3510338,24.7783008 13.0274231,24.7456758 12.7120308,24.6855937 C13.3693673,26.7393516 15.2768937,28.2341602 17.5369711,28.2760664 C15.7692288,29.6627344 13.542236,30.4891172 11.1223201,30.4891172 C10.7054263,30.4891172 10.2943275,30.4647539 9.8903233,30.4170117 C12.1761448,31.8840469 14.8908367,32.7396094 17.8077589,32.7396094 C27.3080915,32.7396094 32.5032841,24.8617266 32.5032841,18.0296016 C32.5032841,17.8054102 32.4981563,17.5825898 32.4882169,17.3607891 C33.4972616,16.6319297 34.3732303,15.7214531 35.0653724,14.6845898 L35.0653724,14.6845898 Z"></path>
-                            </g>
-                        </svg>
-
-                    </a>
+                        <img src="https://www.youcandothecube.com/resources/images/assets/social-twitter.svg" alt="Twitter">
+                    </a>                   
                 </li>
+                
+                <li>
+                    <a href="https://vimeo.com/youcandothecube" target="_blank" title="Vimeo">
+                        <img src="https://www.youcandothecube.com/resources/images/assets/social-vimeo.svg" alt="Vimeo">
+                    </a>                   
+                </li>
+                
+                <li>
+                    <a href="Vimeo" target="_blank" title="YouTube">
+                        <img src="https://www.youcandothecube.com/resources/images/assets/social-youtube.svg" alt="YouTube">
+                    </a>                   
+                </li>
+                
             </ul>
         </nav>
     </section>
@@ -426,26 +451,31 @@ This Privacy Policy is effective as of March 2017.</p>
             <ul class="menu">
                 <li><a href="/info/terms-of-use">Terms of Use</a></li>
                 <li><a href="/info/returns">Returns</a></li>
-                <li><a href="/info/postage-rates">Postage rates</a></li>
+                <li><a href="/info/postage-rates">Postage Rates</a></li>
                 <li><a href="/info/privacy-policy" class="ftr-privacy">Privacy Policy</a></li>
             </ul>
         </nav>
         <div class="medium-24 large-12 columns footer__copyright">
-            <p>©1974 Rubik's® Used under license Rubik's Brand Ltd. All rights reserved. <br> All content ©2017 You CAN Do the Rubik's Cube</p>
+            <p>©1974 Rubik's® Used under license Rubik's Brand Ltd. All rights reserved. <br> All content ©2019 You CAN Do the Rubik's Cube</p>
         </div>
     </section>
 </footer>
 
+    <script src="/js/vendor/es6-shim.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/js/foundation.min.js"></script>
-    
     <script type="text/javascript" src="/js/vendor/jquery.cycle2.min.js"></script>
     <script type="text/javascript" src="/js/vendor/motion-ui.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
     <script type="text/javascript" src="/js/vendor/jquery.form.min.js"></script>
+    <script type="text/javascript" src="/js/vendor/parsley.min.js"></script>
   
+
   
-    <script type="text/javascript" src="/js/ycdtc.min.js?id=2"></script>
+
+  <script type="text/javascript" src="/js/vendor/moment.min.js"></script>
+  
+    <script type="text/javascript" src="/js/ycdtc.min.js?id=5"></script>
   
     
     <script type="text/javascript">
