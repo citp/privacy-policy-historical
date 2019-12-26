@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wineinsiders.com privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224025206id_/https%3A//wineinsiders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wineinsiders.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226155611id_/https%3A//wineinsiders.com/privacy-policy) for the most accurate reproduction.*
 
 # Wine Insiders
 
