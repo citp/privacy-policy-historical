@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transat.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612100604id_/https%3A//www.transat.com/en-CA/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transat.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226011810id_/https%3A//www.transat.com/en-CA/privacy-policy%3Fici%3DTRZ-footerlink%26icn%3DTRZ-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Transat
 
