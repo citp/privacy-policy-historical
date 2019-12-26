@@ -1,68 +1,81 @@
-> *The following text is extracted and transformed from the naturallivingideas.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403100709id_/https%3A//www.naturallivingideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturallivingideas.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226025619id_/https%3A//www.naturallivingideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-This privacy policy sets out how NaturalLivingIdeas.com uses and protects any information that you provide when you use this website.
+This privacy policy sets out how NaturalLivingIdeas.com (“Website”) uses and protects any information that you provide when you use this website.
 
-NaturalLivingIdeas.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used.
 
-NaturalLivingIdeas.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from September 2012.
+### What Information We Collect & How We Use It
 
- **What we collect**
+**Information You Voluntarily Submit**
 
-We may collect the following information:
+In some cases we may collect information such as your name, email address and any other requested details when you voluntarily fill out a form to provide these details. For example, if you subscribe to our email newsletter or fill out a contact form. If you subscribe to our email newsletter, we will store your email address in our email auto-responder account (Aweber) and may periodically email you with our email newsletter. You can unsubscribe from this at any time by clicking an unsubscribe link found at the bottom of any of our emails. 
 
-name  
-contact information including email address  
-demographic information such as postcode, preferences and interests  
-other information relevant to customer surveys and/or offers
+**Information We Automatically Collect**
 
- **What we do with the information we gather**
+We automatically collect some non-personally identifiable information when you browse the website – such as the device you are using, browser and operating system. This is so we can serve the correct website layout to suit your requirements, including image sizes and ad sizes. 
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+We also collect IP address, the referring source (how you arrived at the website), pages you browse while on the website and how long you navigate the website, and in some cases we track external clicks to other websites. 
 
-Internal record keeping.
+### Cookies 
 
-We may use the information to improve our products and services.
+We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the website. 
 
-We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+The Website uses cookies to deliver a more personalized experience while browsing the Website. For example, to suggest more relevant content or advertising. 
 
-From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+You can disable the use of cookies in your internet browser. You can also remove previously set cookies from within your browser. Some website services may become unavailable when cookies are disables. 
 
- **Security**
+### How Your Information May Be Used
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+  * To serve the correct website layout to your specific device or browser. 
+  * To send you email newsletters or Push Notifications when you specifically opt-in to these services.
+  * To respond to your comments or enquiries.
+  * To provide you with user support.
+  * To track and measure website performance and functionality. 
+  * To track and measure marketing and advertising performance.
+  * To protect, investigate, and deter against unauthorized or illegal activity. 
 
- **How we use cookies**
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+### Third Party Use Of Personal Information
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
-Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users that are based on their visit to your sites and/or other sites across the Internet. You may opt out of using the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
+The Website currently uses the following third-party service providers:
 
- **Links to other websites**
+**Google Analytics:** This service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics. 
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+**Aweber:** This service is used to deliver our email newsletter. We store only your email address and you can unsubscribe at any time by clicking an unsubscribe link in any of our email communications. Please refer to [Aweber’s Privacy Policy](https://www.aweber.com/privacy.htm) here. 
 
-In some instances when we link to other websites, we may be rewarded with an affiliate commission if you decide to purchase an item from that website.
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us. 
 
- **Controlling your personal information**
+### Advertising
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+**Display Ads**
 
-*  
-whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
-*  
-if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at james.a.penn@gmail.com
+The Website uses Mediavine to manage all third-party advertising on the Website. Mediavine serves content and advertisements when you visit the Website, which may use cookies. Mediavine may collect IP addresses and location to serve personalized ads.  If you would like more information about this practice and to know your choices to opt-in or opt-out of this data collection, please visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+**Affiliate Program Participation**
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information please email james.a.penn@gmail.com
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+**Amazon Affiliate Disclosure**
+
+NaturalLivingIdeas.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com or endless.com, MYHABIT.com, SmallParts.com, or AmazonWireless.com. Pages on this site may include affiliate links to Amazon and its affiliate sites on which the owner of this website will make a referral commission. 
+
+### Rights Related To Your Personal Information
+
+Access: You may access the personal information we hold about you by email info@naturallivingideas.com
+
+Remove: If you’d like to remove any personal information we hold about you, you can do so by emailing info@naturallivingideas.com 
+
+Please note that we may need to retain certain information for record keeping purposes or to complete transactions, or when required by law. 
+
+### Contact Us
+
+Please contact info@naturallivingideas.com with any questions related to this Privacy Policy. 
+
+**Last Updated June 10th, 2019**
