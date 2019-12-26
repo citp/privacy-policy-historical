@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the captaintrain.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630165023id_/https%3A//www.thetrainline.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captaintrain.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226022657id_/https%3A//www.thetrainline.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - thetrainline.com
 
-**Last updated: 27.03.2018**
+**Last updated: 05.08.2019**
 
 **Quick links:**
 
@@ -30,7 +30,7 @@
 We know that your personal data, and who you share it with, is super important. So, we’re committed to four privacy promises to keep your data safe and secure –
 
   * We’ll be crystal clear about the personal data we use, how we use it and – most importantly – why we need it.
-  * We’ll only use your personal data where we genuinely need to.
+  * We’ll only use your personal data where we need to.
   * We’ll keep your personal data secure, using the best possible combo of technology, people and processes.  
   * We want you to be able to make real, informed choices about your personal data. So, we’ve helped by cutting the jargon.
 
@@ -94,9 +94,9 @@ We need this info to offer these services to you, it’s part of our **contract*
 
 Some of the operators offer Youth tickets. If so, they may need your date of birth to confirm you’re the age you say you are.  
   
-**Contact details –**
+**Contact details and journey details –**
 
-Name, email address, phone number.
+Name, email address, phone number and details of your journey.
 
 | 
 
@@ -114,7 +114,9 @@ We need this info to offer these services to you, it’s part of our **contract*
 
 | 
 
-Relevant rail, coach and bus operators, who need it to create your tickets. These operators may get in touch with you to let you know about essential service messaging, for example, if your train’s disrupted or cancelled.   
+Relevant rail, coach and bus operators, who need it to create your tickets and provide services in relation to your journey or to deal with after sales matters.  We also sometimes need to contact these operators in order to perform our contract with you; or where its in your or our legitimate interests to do so. 
+
+These operators may get in touch with you to let you know about essential service messaging, for example, if your train’s disrupted or cancelled.   
   
 We may send you marketing if you’ve told us you want to receive it, when you register an account with us. 
 
@@ -232,7 +234,7 @@ Your **consent**.
 
 Google and Facebook. 
 
-We don’t control Facebook or Google’s actions. If you choose to use your Google or Facebook account to log in with us, you’ll be subject to Google and Facebook’s privacy policies too.  
+We don’t control Facebook or Google’s actions. If you choose to use your Google or Facebook account to log in with us, you’ll be subject to Google and Facebook’s privacy policies too: so please read them and take relevant choices via these platforms, in order to manage the way your data is used.  
   
 We also collect a limited amount of personal data from you, automatically, whenever you visit our website or app. It’s nothing to worry about, in fact, we do this to give you a better and more personalised experience. Cookies and your IP address are the sorts of tech we use to understand you better, as well as looking at how you use our website - for example, what routes you search for and whether you use a Railcard. The table below explains what we collect, why we collect it and how we collect it.
 
@@ -302,7 +304,7 @@ We also need to make sure that we’re protecting you, as well as our website, f
 
 To make sure the security of our service is watertight, we work with third parties to put a stop to fake payments (we’ve got more info on this above). 
 
-Selected third parties who advertise on our website and app. And, so that we can advertise our own offers to you when you’re browsing elsewhere on the internet.  
+Selected third parties who advertise on our website and app with your consent. And, so that we can advertise our own offers to you when you’re browsing elsewhere on the internet. See our cookie policy for more info.   
   
 **Analytics info –**
 
