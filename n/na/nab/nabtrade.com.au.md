@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the nabtrade.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313035150id_/https%3A//www.nab.com.au/common/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabtrade.com.au privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226203900id_/https%3A//www.nab.com.au/common/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - NAB
+# National Australia Bank privacy policy - NAB
 
 ### General information
 
 The types of information that we collect and hold about you could include:
 
-  * ID information such as your name, postal or email address, telephone numbers, and date of birth;
+  * identification information such as your name, postal or email address, telephone numbers, and date of birth;
   * other contact details such as social media handles;
   * financial details such as your tax file number;
   * health and biometric information (e.g. fingerprints, voice patterns) where permitted;
-  * your location or activity including IP address, and whether you’ve accessed third party sites;
+  * information about how you interact with us when you use internet or mobile banking (such as information about how you use your devices);
+  * device information, such as which browser you use and your operating system language;
+  * your location or activity including IP address and geolocation data based on the GPS of your mobile device (when accessing our services), and whether you’ve accessed third party sites;
   * credit information such as details relating to credit history, credit capacity, and eligibility for credit (‘credit worthiness’); and
   * other information we think is necessary.
 
