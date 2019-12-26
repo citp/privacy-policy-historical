@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the auth0.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330202042id_/https%3A//auth0.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auth0.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226013612id_/https%3A//auth0.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Auth0
-
-  * Platform
-  * Solutions
-  * Why Auth0
-  * Developers
-  * [Pricing](https://auth0.com/pricing)
-  * 
-
 
 ### Last update: November 30, 2018
 
