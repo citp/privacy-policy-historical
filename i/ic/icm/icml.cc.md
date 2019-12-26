@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icml.cc privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823042948id_/https%3A//icml.cc/public/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icml.cc privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226211344id_/https%3A//icml.cc/public/PrivacyPolicy) for the most accurate reproduction.*
 
 # ICML Privacy Policy
 
