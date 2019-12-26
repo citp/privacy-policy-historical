@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gimmesomeoven.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417192005id_/https%3A//www.gimmesomeoven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gimmesomeoven.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226020128id_/https%3A//www.gimmesomeoven.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gimme Some Oven
 
@@ -6,45 +6,43 @@
 
 Effective as of May 25, 2018
 
-As the owner of gimmesomeoven.com (the “Site”), Gimme Some Oven LLC ** ** (“we” or “us”) understand that your privacy is of critical importance.  This Privacy Policy describes what information we collect from you via the Site and how we use and disclose such information.
+As the owner of gimmesomeoven.com (the “Site”), Gimme Some Oven LLC ** ** (“we” or “us”) understand that your privacy is of critical importance.  This Privacy Policy disclosure describes what information we collect from you via the Site and how we use and disclose such information.
 
-**Our Use of Cookies**
+## **Affiliate Marketing**
+
+This site is a participant in the Amazon Services LLC Associates Program and Reward Style, affiliate advertising programs designed to provide a means for us to earn fees by linking to Amazon.com and other affiliated sites.
+
+## **Our Use of Cookies**
 
 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
 We use cookies for the following purposes:
 
-(a) authentication – we use cookies to identify you when you visit our website and as you navigate our website;
+  * (a) authentication – we use cookies to identify you when you visit our website and as you navigate our website;
+  * (b) status – we use cookies [to help us to determine if you are logged into our website;
+  * (c) personalization – we use cookies [to store information about your preferences and to personalize the website for you;
+  * (d) security – we use cookies [as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally;
+  * (e) advertising – we use cookies [to help us to display advertisements that will be relevant to you and;
+  * (f) analysis – we use cookies [to help us to analyze the use and performance of our website and services;
 
-(b) status – we use cookies [to help us to determine if you are logged into our website;
 
-(c) personalization – we use cookies [to store information about your preferences and to personalize the website for you;
 
-(d) security – we use cookies [as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally;
-
-(e) advertising – we use cookies [to help us to display advertisements that will be relevant to you and;
-
-(f) analysis – we use cookies [to help us to analyze the use and performance of our website and services;
-
-**_[Use if applicable]_**  We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: <https://www.google.com/policies/privacy/>
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: <https://www.google.com/policies/privacy/>
 
 Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
 
-(a) <https://support.google.com/chrome/answer/95647?hl=en> (Chrome);
+  * (a) <https://support.google.com/chrome/answer/95647?hl=en> (Chrome);
+  * (b) <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>(Firefox);
+  * (c) <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
+  * (d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
+  * (e) <https://support.apple.com/kb/PH21411> (Safari); and
+  * (f) <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
 
-(b) <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>(Firefox);
 
-(c) <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
-
-(d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
-
-(e) <https://support.apple.com/kb/PH21411> (Safari); and
-
-(f) <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
 
 Please note that blocking cookies may have a negative impact on the functions of many websites, including our Site. Some features of the Site may cease to be available to you.
 
-**Interest-Based Advertising**
+## **Interest-Based Advertising**
 
 Advertising Privacy Statement
 
@@ -56,7 +54,7 @@ For European Economic Area Residents
 
 If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
-**Email Addresses**
+## **Email Addresses**
 
 We may collect your email address, but only if you voluntarily provide it to us. This may occur, for example, if you sign up to receive an email newsletter, or enter a promotion.  We will use your email address for the purposes for which you provided it to us, and also from time to time to send you emails regarding the Site or other products or services that we believe may be of interest to you.  You may opt out of such email communications at any time by clicking the “unsubscribe” button in the email.
 
@@ -64,7 +62,7 @@ Your email address may also be shared with the technology provider we use in con
 
 If you are a resident of a country in the European Economic Area (EEA), please refer to the section below entitled “Additional Rights of EEA Residents.”
 
-**Registration or Account Data**
+## **Registration or Account Data**
 
 As you use the Site, we could collect other data that you provide voluntarily (such as comments that you post).
 
@@ -74,7 +72,7 @@ As you use the Site, we could collect other data that you provide voluntarily (s
 
 **[Option 1]**  [If you are a resident of a country in the European Economic Area (EEA), we do not allow you to register for the Site, and will delete your information if you have provided it inadvertently.]  **[Option 2]**  [If you are a resident of a country in the European Economic Area (EEA), please refer to the section below entitled “Additional Rights of EEA Residents.”]
 
-**Additional Rights of EEA (European Economic Area) Residents**
+## **Additional Rights of EEA (European Economic Area) Residents**
 
 If you are a resident of a country in the EEA, you have the rights, among others, to:
 
@@ -92,14 +90,14 @@ If you believe that our processing of your personal information infringes data p
 
 You may exercise any of your rights in relation to your personal data by written notice to us addressed to the following: hello@gimmesomeoven.com
 
-**Sale of Business or Assets**
+## **Sale of Business or Assets**
 
 In the event that the Site or substantially all of its assets is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, the information we have collected about you may be one of the assets sold or merged in connection with that transaction.
 
-**Changes to the Privacy Policy**
+## **Changes to the Privacy Policy**
 
 We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
 
-**Contacting Us**
+## **Contacting Us**
 
-If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at hello@gimmesomeoven.com.
+If you have any questions about this Privacy Policy, or the practices of this Site, please contact us via [our contact page](https://www.gimmesomeoven.com/contact/).
