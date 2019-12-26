@@ -1,361 +1,265 @@
-> *The following text is extracted and transformed from the gamedistribution.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417160259id_/https%3A//docs.google.com/document/d/e/2PACX-1vR0BAkCq-V-OkAJ3EBT4qW4sZ9k1ta9K9EAa32V9wlxOOgP-BrY9Nv-533A_zdN3yi7tYRjO1r5cLxS/pub) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedistribution.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226025441id_/https%3A//azerion.com/business/privacy.html) for the most accurate reproduction.*
 
-# privacy-policy_24052018
+# Privacy Policy
 
-UPDATE: 18/12/2018
+You are visiting a website that is part of the online network of KeyGames Network BV, which is part of Azerion, a gaming company.
 
-You are visiting a website which is part of OrangeGames, a gaming company. 
+We are based at Beechavenue 182 1119 PX, Schiphol-Rijk, The Netherlands. You can contact us at [privacy@azerion.com](mailto:privacy@azerion.com). You can contact our Data Protection Officer at [privacy@azerion.com](mailto:privacy@azerion.com). In this Privacy and Cookie Notice, we describe how we use cookies and process data, including personal data, when you visit a Azerion Products that is part of our network. 
 
-We are based at Beechavenue 1821119 PX, Schiphol-Rijk. You can contact us at privacy@orangegames.com. You can contact our Data Protection Officer at [dpo@orangegames.com](mailto:dpo@orangegames.com).   
-In this Privacy and Cookie Notice, we describe how we use cookies and process data, including personal data, when you visit a website that is part of our network.
+At Azerion we are committed to lawful, fair, and transparent processing of personal data, adhering to the EU General Data Protection Regulation (GDPR). 
 
-We are committed to lawful, fair, and transparent processing of personal data, adhering to the EU General Data Protection Regulation (GDPR).
+> **The following websites will be referred to as ‘Azerion products’ in this document:**
+> 
+> **[1001igry.ru](http://1001igry.ru/), [bgames.com](http://bgames.com/), [Clavejuegos.com](http://clavejuegos.com/), [FunnyGames.at](http://funnygames.at/), [FunnyGames.be](http://funnygames.be/), [FunnyGames.biz](http://funnygames.biz/), [FunnyGames.ch](http://funnygames.ch/), [Funnygames.cn](http://funnygames.cn/), [FunnyGames.co.id](http://funnygames.co.id/), [Funny-Games.co.uk](http://funny-games.co.uk/), [FunnyGames.com.br](http://funnygames.com.br/), [FunnyGames.com.co](http://funnygames.com.co/), [FunnyGames.com.mx](http://funnygames.com.mx/), [FunnyGames.com.tr](http://funnygames.com.tr/), [FunnyGames.dk](http://funnygames.dk/), [FunnyGames.es](http://funnygames.es/), [FunnyGames.eu](http://funnygames.eu/), [FunnyGames.fi](http://funnygames.fi/), [FunnyGames.fr](http://funnygames.fr/), [FunnyGames.gr](http://funnygames.gr/), [FunnyGames.hu](http://funnygames.hu/), [FunnyGames.ie](http://funnygames.ie/), [FunnyGames.in](http://funnygames.in/), [FunnyGames.ir](http://funnygames.ir/), [FunnyGames.it](http://funnygames.it/), [FunnyGames.jp](http://funnygames.jp/), [FunnyGames.kr](http://funnygames.kr/), [FunnyGames.lt](http://funnygames.lt/), [FunnyGames.nl](http://funnygames.nl/), [FunnyGames.no](http://funnygames.no/), [FunnyGames.org](http://funnygames.org/), [FunnyGames.ph](http://funnygames.ph/), [FunnyGames.pk](http://funnygames.pk/), [FunnyGames.pl](http://funnygames.pl/), [FunnyGames.pt](http://funnygames.pt/), [FunnyGames.ro](http://funnygames.ro/), [FunnyGames.ru](http://funnygames.ru/), [FunnyGames.se](http://funnygames.se/), [FunnyGames.us](http://funnygames.us/), [gamedistribution.com](http://gamedistribution.com/), [games.co.za](http://games.co.za/), [gembly.com](http://gembly.com/), [Governorofpoker.com](http://governorofpoker.com/), [Governorofpoker4.net](http://governorofpoker4.net/), [Hellokids.com](http://hellokids.com/), [Hryhry.net](http://hryhry.net/), [Hyvesgames.nl](http://hyvesgames.nl/), [Jogojogar.com](http://jogojogar.com/), [Jouerjouer.com](http://jouerjouer.com/), [Keygames.com](http://keygames.com/), [Kilitoyun.com](http://kilitoyun.com/), [Minigioco.it](http://minigioco.it/), [Nyckelspel.se](http://nyckelspel.se/), [oyungemisi.com](http://oyungemisi.com/), [Pelaaleikkia.com](http://pelaaleikkia.com/), [Plinga.com](http://plinga.com/), [spele.be](http://spele.be/), [spele.nl](http://spele.nl/), [spelletjesoverzicht.nl](http://spelletjesoverzicht.nl/), [Spiels.at](http://spiels.at/), [Spiels.ch](http://spiels.ch/), [spielspiele.de](http://spielspiele.de/), [Starbie.co.uk](http://starbie.co.uk/), [Stratego.com](http://stratego.com/), [Tubia.com](http://tubia.com/), [vooxe.com](http://vooxe.com/), [vooxe.video](http://vooxe.video/), [Waznygry.pl](http://waznygry.pl/), [zigiz.com](http://zigiz.com/)**
 
-“JUST THE BASICS”
+## What data do we process when you use our sites and apps?
 
-Which data do we process when you use our sites and apps?
+When you visit one of our websites, play a game or watch a video, we process information about these activities. This includes technical information such as IP addresses, advertising IDs, general browser and device information like brand, type, language and version. We also process preference information like which games you played, which site you accessed the game from and the country from which you are connected to us.
 
-When you play a game or watch a video, we process information about these activities.  
-This includes information such as IP addresses, which games you played, advertising IDs, general browser and device information like the brand and type, and country. 
-
-#### Why do we process this data?
+## Why do we process this data?
 
 We process data in order to:
 
   * Deliver ads that more accurately reflect your interests.
-  * Perform analytics to see how you and other players use our sites and/or apps. This helps us provide you with more useful customised content.   
-For example, we can offer you more relevant games and select new games based on what’s popular.
-  * Provide social media functionality. This means that you can easily share games, high-scores, and other content from Gamedistribution.com.
+  * Perform analytics to see how you and other players use our sites and/or apps. This helps us provide you with more useful customised content. For example, we can offer you more relevant games and select new games based on what’s popular.
+  * Provide social media integration and functionality. This means that you can easily share games, high-scores, and other content from Azerion Products, with your various social networks.
 
 
 
-####   
-Who can give consent?
+## Who can give consent?
 
-You need to be 16 years or older to give consent.
+You should be 16 years or older to use our Azerion Products/play our games. We request your consent for the various processing activities we undertake on our websites, in our games or in our apps.
 
-#### What are my rights?
+## What are my rights?
 
 You have the right to request access to your personal data. You also have the right to:
 
-\-         Rectify incorrect personal data, or, when certain circumstances apply, to erase it.
-
-\-         Restrict or object to the processing of your personal data.
-
-\-         Receive your data so that you can use it elsewhere (data portability). 
-
-Where we process data on the basis of your consent, you also have the right to withdraw your consent for future processing at any time.  Please go click here to change your consent settings.
-
-Who do we share data with?
-
-We allow a limited number of advertising, analytics, and social media companies to also place cookies and/or collect your data via Gamedistribution.com. You can see a detailed list below. Under certain circumstances, other third parties may also place cookies and/or collect your data. However, we can’t know beforehand which third parties this may involve.
-
-“ALL THE DETAILS”
-
-Gamedistribution.com and third parties process personal data mostly with the help of cookies. To help you understand what this means, we will first describe the use of cookies on our website below.   
-We will then explain how personal data is processed, including the use of those cookies. 
-
-### 1.How do we use cookies?
-
-Cookies are small pieces of information (small files) stored on your equipment (such as your computer). As the website owner, we place cookies when you visit our website, as do the third-parties that we work with directly to deliver games and ads. While we control this process, you can use our consent tool to make choices about the cookies you wish to allow and the personal data processing that occurs with the help of those cookies.
-
-Because of the way online games and ads work, third parties with whom we do not work directly, but who also deliver games and ads via our website, may also place cookies. This is not something we can control.
-
-Below we describe which cookies Gamedistribution.com uses, for what purpose, and the duration of their use.
-
-#### 1.1 Cookies that help to ensure that the website functions properly
-
-Our website uses cookies:  
+  * Rectify incorrect personal data, or, when certain circumstances apply, to erase it.
+  * Restrict or object to the processing of your personal data.
+  * Right to access: You have the right receive a copy of your data, and if you choose to you can use it elsewhere (data portability).
+  * Where we process data on the basis of your consent, you also have the right to withdraw your consent for future processing at any time.
+  * Right to be forgotten, you also have the right to object the processing of your personal data and request erasure
 
 
-  * to remember information you enter when you fill in forms or input fields on various pages. We do this so that you won’t have to enter all of this information again the next time you visit.
+
+If you wish to exercise any of the above rights, please contact us at privacy@azerion.com. If you ask us to delete your data, we reserve the right to store the data we need to meet our legal and internal audit requirements. You also have the right to lodge a complaint with a supervisory authority.
+
+## Revoke consent for Azerion Products cookies and data processing
+
+You have the right to withdraw your consent at any time. This does not affect the lawfulness of the processing before the date that you withdraw your consent.
+
+## Who do we share data with?
+
+We allow a limited number of advertising, analytics, and social media companies to also place cookies and/or collect your data via Azerion Products. You can see a detailed list below. Azerion are a member of and participant in Interactive Advertising Bureau (IAB) transparency and consent network and the majority of third parties and affiliates with whom we interact are listed within the [IAB Global Vendor List (GVL)](https://iabeurope.eu/vendor-list/)
+
+Azerion Products and the third parties with whom we interact, process personal data mostly through the use of cookies. To help you understand what this means, we will first describe the use of cookies in our Azerion Products. We will then explain how personal data is processed, including the use of those cookies.
+
+## 1\. How do we use cookies?
+
+Cookies are small pieces of information (small files) stored within your browser or on your portable device. As the Azerion Products owner, we place cookies when you visit our Azerion websites, games or apps, as do the third-parties that we work with directly to deliver games and ads. While we control this process, you can use our consent tool to make choices about the cookies you wish to allow and the personal data processing that occurs with the help of those cookies. Because of the way online games and ads work, third parties with whom we do not work directly, but who also deliver games and ads via our Azerion Products, may also place cookies. This is not something we can control.
+
+Below we describe which cookies the Azerion Products use, for what purpose, and the duration of their use.
+
+### 1.1 Cookies that help to ensure that the Azerion Products function properly
+
+Our Azerion Products use cookies:
+
+  * to remember information, you enter when you fill in forms or input fields on various pages. We do this so that you won’t have to enter all of this information again the next time you visit.
   * to store preferences such as language settings, location settings, the number of search results you wish to display per page, etc.
   * to store settings for optimal (video) display, such as the optimal or desired buffer size and information regarding your screen resolution.
-  * to read your browser settings, ensuring that our website is displayed properly on your screen.
-  * to detect abuse of our website and services, for instance by registering repeated failed attempts to log in.
-  * to ensure an even load (page requests) across the website, allowing us to keep the website available to our visitors.
-  * to offer the option to store login details so that you do not have to log in manually the next time you visit the website.
-  * to enable you to interact with our website in a whole range of different ways, such as social media interaction, or leaving direct feedback.
+  * to read your browser settings, ensuring that our Azerion Products is displayed properly on your screen.
+  * to detect abuse of our Azerion Products and services, for instance by registering repeated failed attempts to log in.
+  * to ensure an even load (page requests) across the Azerion Products, allowing us to keep the Azerion Products available to our visitors.
+  * to offer the option to store login details so that you do not have to log in manually the next time you visit the Azerion Products.
+  * to enable you to interact with our Azerion Products in a whole range of different ways, such as social media interaction, or leaving direct feedback.
 
 
 
-#### 1.2 Cookies allowing us to sell and show ads
+### 1.2 Cookies allowing us to sell and show ads
 
-Most of our domains/games are provided free of charge. Advertising income is used to cover the costs.   
-This means that ads are a vital source of income, and are necessary to keep the domains running.   
-Some advertisements (or videos) use cookies. These ads are placed on our websites by us and/or media companies and advertising networks.   
-Advertising networks and media companies function as a middleman between us as the website owner and advertisers.  
+Most of our domains/games are provided free of charge, we rely on advertising invoice to enable us to do this. This means that ads are a vital source of income and are necessary to keep the domains running.  
+Several advertisements (or videos) use cookies. These ads are placed in our Azerion Products by us and/or media companies and advertising networks. Advertising networks and media companies function as a middleman between us as the Azerion Products owner and advertisers.  
 These cookies ensure that it is possible to:
 
-  1. track which ads you have already seen, and prevent you from being shown the same ad over and over again.
+  1. track which ads you have already seen and prevent you from being shown the same content over and over again.
   2. track how many visitors click on an advertisement, so that we can balance the books with advertisers.
-  3. track how many orders are placed via the ads, so that we can balance the books with advertisers.
+  3. track how many orders are placed through the displayed ads, so that we can balance the books with advertisers.
 
 
 
-Please note that you will still be shown advertisements even if these cookies are not used. After all, we also display ads that do not use cookies. 
+Please note that you will still be shown advertisements even if these cookies are not used. After all, we also display ads that do not use cookies.
 
-For more information regarding the cookies used by these advertising networks and the data these parties collect using those cookies,   
-we refer you to the terms and conditions / privacy policies applicable to these platforms as listed on their own websites.
+For more information regarding the cookies used by these advertising networks and the data these parties collect using those cookies, we refer you to the terms and conditions / privacy policies applicable to these platforms as listed on their own websites. You can also visit [www.advertisingconsent.eu](http://www.advertisingconsent.eu/) ,to find out more about the IAB transparency and Consent framework, Azerion;s participation, and how respective members address their lawful basis for data processing.
 
-Please see the advertising networks websites listed and linked below to view the terms and conditions / privacy policies that may apply.   
-(Please note, however, that these terms and conditions / privacy policies may be subject to change without notice.)   
-We do not have any influence on these separate terms and conditions.  
+Please see the advertising networks websites listed and linked below to view their terms and conditions / privacy policies. (Please note, however, that these terms and conditions / privacy policies may be subject to change without notice.) We do not have any influence on these separate terms and conditions.
 
-
-  * Improve Digital
-  * OpenX
-  * OneVideo
-  * Pubmatic
-  * Rubicon Project
-  * Google Ads
-  * SpotX
-  * AppNexus
+  * [Google Ads](https://policies.google.com/technologies/ads?hl=en-US)
+  * [Improve Digital](http://www.improvedigital.com/en/privacy-policy)
+  * [OpenX](https://www.openx.com/legal/privacy-policy/)
+  * [Rubicon Project](https://rubiconproject.com/privacy-policy/)
+  * [Tunnl](https://tunnl.com/privacy.html)
 
 
 
-#### 
+### 1.3 Cookies that allow us to gather information about the way visitors use our Azerion Products
 
-#### 1.3 Cookies that allow us to gather information about the way visitors use our website
+We aim to provide our visitors with relevant information. That is why we work to tailor our products to each visitor’s needs and interest.
 
-To find out which sections of our website our visitors like best, we continually try to measure how many visitors our website attracts and which pages they view most often.   
-To do this, we use our own cookies and/or those provided by third parties.
+In order to reflect to your interests more accurately, we try to identify the things you like based on the Azerion Products you have previously visited. To find out which sections of our Azerion Products, visitors like best, we continuously try to measure how many visitors each of our Azerion Products attract, and which products are most popular. To do this, we use our own cookies and/or those provided by third parties.  
+The information gathered using this method, is used to generate site statistics. These statistics provide us with insights, such as how often visitors use our products, which products they spend the most time viewing, how often they interact with a product or part of it. This allows us to make the structure, navigation, and content of our website as user-friendly as possible.
 
-The information we gather in this manner is used to generate statistics. These statistics provide us with insights into how often visitors come to our web pages,   
-which pages they spend the most time viewing, how often they interact with (part of) a page, and so on.   
-This allows us to make the structure, navigation, and content of our website as user-friendly as possible.
+On the basis of your online history, you may see advertisements from a certain category, such as “women aged 35-45, married, with children, interested in ballet”. This group will be shown different ads than the group “men aged 20-30, unmarried, interested in cooking”.
 
-We do not trace our statistics and other reports back to individual people.
+We do not use these statistics or other reports to trace back to individual people.  
+Third parties (advertisers) which provide cookies via our products may use similar technologies to find out what interests you. In that case, information about your current visit to our products could be combined with information from earlier visits to other websites besides our own.
 
-We use cookies to:  
+When such cookies are not used, this does not mean that you will no longer be shown any ads on our products. Instead, the ads will just be less likely to match your interests.
+
+We use cookies to:
+
+  1. register your visit on websites, which you browse in order to ascertain what you might be interested in.
+  2. identify whether you clicked on an advertisement (i.e. click-through behaviour).
+  3. provide information about your preferences and browsing behaviour to other Azerion Products.
+  4. use services provided by third parties to display ads (re-targeted marketing).
+  5. show more interesting ads based on your social media usage (i.e. social media behaviour).
+  6. keep track of the number of visitors on our products.
+  7. keep track of the amount of time visitors spend on our products.
+  8. determine the order in which a visitor views the various products.
+  9. determine which parts of our products need to be adjusted.
+  10. optimise the products (or parts of it).
 
 
-  1. keep track of the number of visitors on our webpages.
-  2. keep track of the amount of time visitors spend on our webpages.
-  3. determine the order in which a visitor views the various pages belonging to our website.
-  4. determine which parts of our website (or pages) need to be adjusted.
-  5. optimise the website (or parts of it).
 
+**Cookies that are used to measure the use of our website**
 
-
-Cookies that are used to measure the use of our website 
-
-Name
-
-| 
-
-Placed by
-
-| 
-
-Reason
-
-| 
-
-How long  
-  
+name | Placed by | Reason | how long  
 ---|---|---|---  
+cc_dismissed | www.FunnyGames.nl | This cookie is for us to remember that someone passed the cookie consent wall/bar | 1 year  
+fg_language | www.FunnyGames.nl | Used for storing the user language if the user prefers another language other that the geo located one. | 1 year  
+tws_Session_uuid | www.FunnyGames.nl | Saving the unique user ID that the user got assigned from the TWS session server. | 1 year  
+mailAdres | www.FunnyGames.nl | We save the mail address for people that subscribed for the mail listing or entered the highscore ladders with their email address. | 31 days  
+tws_uuid | .tibaco.net | Assigning the unique user id that the user got assigned by the TWS server.(not to be mistaken with the tws sessions server) | 1 year  
+brzcrz_local | www.FunnyGames.nl | Holds a user identifier to track the user over multiple sessions, which is connected to Google Analytics | 10 years  
+brzcrz_session | www.FunnyGames.nl | Holds a user identifier to track the user in the current session, which is connected to Google Analytics | Session  
+brzcrzrcz_local | www.FunnyGames.nl | No longer used | 10 years  
+fg_mg | www.FunnyGames.nl | This cookie is used to store what games the user has favorited, this is so he can see those games back on the my games page or the homepage.  |   
+PHPSESSID | hellokids.com | default php identifier |   
+JDSwidth | hellokids.com | Used to decide the width of the users screen | 1 year  
+_vwo_uuid_v2 | azerion.com | used for A/B testing | 10 months  
+tws_Session_uuid | www.plinga.com | Saving the unique user ID that the user got assigned from the TWS session server. | 1 year  
+cc_dismissed | www.plinga.com | This cookie is for us to remember that someone passed the cookie consent wall/bar | 1 year  
+brzcrz_local | www.plinga.com | Holds a user identifier to track the user over multiple sessions, which is connected to Google Analytics | 10 years  
+brzcrz_session | www.plinga.com | Holds a user identifier to track the user in the current session, which is connected to Google Analytics | Session  
+brzcrzrcz_local | www.plinga.com | No longer used | 10 years  
   
-_ga
+For more information regarding the cookies used by these advertising networks and the data these parties collect using those cookies, we refer you to the terms and conditions / privacy policies applicable to these platforms as listed on their own websites. Please see the advertising networks websites listed and linked below to view the terms and conditions / privacy policies that may apply. Please note, however, that these terms and conditions / privacy policies may be subject to change without notice. We do not have any influence on these separate terms and conditions.
 
-| 
+### 1.4 Cookies to share content from our Azerion Products via social media
 
-Analytics 360
+The games that you play as you use our products can be shared via social media by clicking on a number of different social media buttons. To enable these buttons to work properly, we use social media integration cookies provided by various social media platforms. These cookies allow the social media platforms that you wish to use to recognise you when you want to share something with your friends. In other words, these cookies allow users who are logged in to the selected social media platform to share certain content from our Azerion Products webpages directly.
 
-| 
+For more information regarding the cookies used by these social media platforms and the data these parties collect using those cookies, we refer you to the terms and conditions applicable to these platforms as listed on their own websites.  
+Please see the social media websites listed and linked below to view the terms and conditions that may apply. (Please note, however, that these terms and conditions may be subject to change without notice). We do not have any influence on these separate terms and conditions.
 
-Page tracking
-
-| 
-
-90 days  
-  
-| | |   
-| | |   
-| | |   
-| | |   
-| | |   
-| | |   
-| | |   
-| | |   
-  
-#### 
-
-#### 1.4 Cookies to share the content of our website via social media
-
-The games that you play on our website can be shared via social media by clicking on a number of different social media buttons. To enable these buttons to work properly, we use social media cookies provided by various social media platforms. These cookies allow the social media platforms that you wish to use to recognise you when you want to share something with your friends. In other words, these cookies allow users who are logged in to the selected social media platforms to share certain content from our website directly.  
-
-For more information regarding the cookies used by these social media platforms and the data these parties collect using those cookies, we refer you to the terms and conditions applicable to these platforms as listed on their own websites.
-
-Please see the social media websites listed and linked below to view the terms and conditions that may apply.   
-(Please note, however, that these terms and conditions may be subject to change without notice.) We do not have any influence on these separate terms and conditions.
-
-  * Facebook
-  * Google+
-  * Twitter
-  * LinkedIn
-  * Pinterest
+  * [Facebook](https://www.facebook.com/policy.php)
+  * [Twitter](https://twitter.com/privacy)
+  * [LinkedIn](https://www.linkedin.com/legal/privacy-policy)
+  * [Pinterest](https://www.pinterest.com/_/_/about/privacy/)
 
 
 
-Cookies used by Gamedistribution.com to enable sharing via social media
+**Cookies used by Azerion Products to enable sharing via social media**
 
-Name
-
-| 
-
-Placed by
-
-| 
-
-Reason
-
-| 
-
-How long  
-  
+name | Placed by | Reason | how long  
 ---|---|---|---  
-| | |   
-| | |   
-| | |   
-| | |   
-| | |   
-| | |   
-| | |   
-| |   
-| |   
+uid | .addthis.com | Third party cookie – social media sharing service | 1 year  
+uvc | .addthis.com | Third party cookie – social media sharing service | 1 year & 1 month  
+na_tc | .addthis.com | Third party cookie – social media sharing service | 1 year & 1 month  
+mus | .addthis.com | Third party cookie – social media sharing service | 1 year  
+loc | .addthis.com | Third party cookie – social media sharing service | 1 year & 1 month  
+na_id | .addthis.com | Third party cookie – social media sharing service | 1 year & 1 month  
+notice_preferences | .addthis.com | Third party cookie – social media sharing service | 1 year  
+_pinterest_cm | .pinterest.com | Third party cookie – social media sharing service | 1 year  
+_pinterest_sess | .pinterest.com | Third party cookie – social media sharing service | 6 months  
   
-#### 
+### 1.5 Other/unforeseen
 
-#### 1.5 Cookies used to increase the relevance of the content of the website
+Because of the way the internet and websites work, we do not always have insight into the cookies that third parties place via our products. This is especially the case if our web pages contain so-called embedded elements such as games that are stored with another party, but are shown on, in, or via our Azerion Products.
 
-We aim to provide our visitors with relevant information. That is why we work to tailor our website to each visitor’s needs and interest.
+If you encounter cookies on any of our Azerion Products that fall into this category, and do not correspond to the previous categories described above, please let us know. You can also contact the third party directly and ask which cookies they place on your device, why they do this, and what personal data they process with the cookie. You may also wish to ask what the lifespan of the cookie is and what safeguards they have taken to protect your privacy.
 
-  
-In order to adjust the website to reflect your interests more accurately, we try to get an impression of the things you like based on the websites you have previously visited. In doing so, we do not construct a profile that can be traced to any individual person. We tailor the content and the ads shown on our website to different groups of visitors. On the basis of your online history, you may be put into a certain category, such as “women aged 35-45, married, with children, interested in ballet”.   
-This group will, of course, be shown different ads than the group “men aged 20-30, unmarried, interested in cooking”.
+### 1.6 How cookies can be deleted?
 
-  
-Third parties (advertisers) who place cookies via our website may use similar technologies to find out what interests you.   
-In this case, information about your current visit to the website may be combined with information from earlier visits to other websites besides our own.
+If you do not want websites to place cookies on your computer or other peripheral devices, you can adjust the browser settings so that your browser refuses all cookies or only third-party cookies. You can also delete cookies that have already been placed. Note that you must adjust the settings separately for each browser and computer that you use.
 
-When such cookies are not used, this does not mean that you will no longer be shown any ads on our websites. 
+How you can adjust the settings differs per browser. If necessary, consult the help function of your browser, or click on one of the links below to go directly to the manual of that specific browser.
 
-Instead, the ads will just be less likely to match your interests.
-
-These cookies make it possible:
-
-  * for websites to register your visit in order to try to guess what you might be interested in.
-  * to register whether you clicked on an advertisement (i.e. click-through behaviour).
-  * to pass on information about your browsing behaviour to other websites.
-  * to use services provided by third parties to display ads (re-targeted marketing).
-  * to show more interesting ads based on your social media usage (i.e. social media behaviour).
+  * [Internet Explorer](http://windows.microsoft.com/nl-nl/windows7/how-to-manage-cookies-in-internet-explorer-9)
+  * [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer#w_cookie-settings)
+  * [Chrome](https://support.google.com/chrome/answer/95647?hl=n)
+  * [Safari](https://support.apple.com/kb/PH19214?viewlocale=nl_NL&locale=nl_NL\)%20)
 
 
 
-For more information regarding the cookies used by these advertising networks and the data these parties collect using those cookies, we refer you to the terms and conditions / privacy policies applicable to these platforms as listed on their own websites.
+If you want to disable cookies from specific parties, you can do so via
 
-Please see the advertising networks websites listed and linked below to view the terms and conditions / privacy policies that may apply. (Please note, however, that these terms and conditions / privacy policies may be subject to change without notice.)   
-We do not have any influence on these separate terms and conditions.
-
-  * Improve Digital
-  * OpenX
-  * OneVideo
-  * Pubmatic
-  * Rubicon Project
-  * Google Ads
-  * SpotX
-  * AppNexus
+  * [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+  * [http://optout.networkadvertising.org](http://optout.networkadvertising.org/)
+  * [http://optout.aboutads.info](http://optout.aboutads.info/)
 
 
 
-#### 1.6 Other/unforeseen 
+## 2\. How does Azerion Products use personal data?
 
-Because of the way the internet and websites work, it may be that we do not always have insight into the cookies that third parties place via our website.   
-This is especially the case if our web pages contain so-called embedded elements.   
-These are games that are stored with another party, but which are shown on, in, or via our website.  
+### 2.1 Data used by Azerion Products to sell and show ads
 
-
-If you encounter cookies on this website that fall into this category, and do not correspond to the previous categories described above, please let us know.  You can also contact the third party directly and ask which cookies they place on your device, why they do this, and what personal data they process with the cookie. You may also wish to ask what the lifespan of the cookie is and what safeguards they have taken to protect your privacy.
-
-#### 2\. How does Gamedistribution.com use personal data?
-
-2.1 Data used by Gamedistribution.com to sell and show ads 
-
-We process personal data on all Gamedistribution.com websites. Below, we describe in more detail what types of personal data we process and for what purpose.   
-
+We process personal data on all of our Azerion Products. Below, we describe in more detail what types of personal data we process and for what purpose.
 
 We collect and process the following types of (personal) data:
 
-  * The page you visited (URL). This contains an abbreviation of the name of the game you played.
-  * General data about the browser used. For instance, whether you use Chrome or Firefox, and which version.
-  * Whether you use a desktop/laptop or tablet/smartphone to visit the website.
+  * The page you visited (Uniform Resource Locator or more commonly known URL). This contains an abbreviation of the name of the game you played.
+  * General data about the browser used. For instance, whether you use Chrome or Firefox or any other browser, and which version of the browser you are using.
+  * Whether you use a desktop/laptop, tablet/smartphone or any other device type to visit the Azerion Products.
   * The version and language of the operating system used.
-  * The IP address used (the address of the internet connection)
+  * The IP address used (the address of the internet connection where you are connecting from)
   * Upon access, the approximate geographical location of the visitor based on the IP address, at the country or region level.
 
 
 
-#### What we use the data for 
+We might collect user's information using Advertising IDs for mobile targeting. For users to reset their Advertising IDs, for both Android and iOS, please follow the instructions below:  
+iOS - [here](https://support.apple.com/en-us/HT202074)  
+Android - [here](https://support.google.com/ads/answer/2662922?hl=en)
 
-We use the data we collect to enable the automated auction (bidding process) of the ad inventory of our clients, and to record views and clicks on ads.
+#### What we use the data for
+
+We use the data collected to enable the automated auction (bidding process) from the ad inventory of our clients, and to record views and clicks on ads.
 
 #### Our legal basis for processing this data
 
-We base our data processing on the consent granted by the data subject.
+We base our data processing on the consent granted by the data subject (namely you).
 
-#### Where do we obtain the data from? 
+#### Where do we obtain the data from?
 
 We collect data via the cookies mentioned above.
 
 #### How long do we store data?
 
-We store data for up to 90 days. If we interact with cookies stored on your device, this period starts over again.
+We store data for up to 90 days period. Revisiting our websites will reset the period for an extra 90 days.
 
 #### Who do we share data with?
 
-We share the above mentioned data with a large number of buyers, such as advertisers, brands, media agencies, and other intermediaries, although not all buyers receive the same data. The list of buyers changes on a continuing basis, and for this reason we cannot include a comprehensive list here.
+We share the data collected as mentioned above with a large number of buyers, such as advertisers, brands, media agencies, and other intermediaries, although not all buyers receive the same data. The list of buyers changes on a continuing basis, and for this reason you can find a comprehensive list [here](https://iabeurope.eu/vendor-list/).
 
-2.2 Transfer of your personal data
+### 2.2 Transfer of your personal data
 
-If you are an EU resident, would like to inform you that we may transfer your personal data from your home country to other countries and organizations. When we transfer this data, we will do so only when we have put in place appropriate safeguards (you can obtain more information about these safeguards by writing to our DPO), or if we have obtained your explicit consent for such a transfer.  
+The data that we collect from you can be transferred to, and stored at, a destination outside of EU, including the US (where some of our third-party cloud-based servers are based). This transfer is required to host the Azerion Products, provide you with technical and customer support services, perform backups of data.
 
-3\. Your rights to your data
+We will ensure that appropriate safeguards are in place before transferring to a third country. You may contact us to obtain further information about these safeguards.
 
-Access rights
+## 3\. Version information
 
-You have the right to request access to your personal data. You also have the right to:
+This policy was last updated on the 6th of November 2019.
 
-  * Rectify incorrect personal data, or, when certain circumstances apply, to erase it. 
-  * Restrict or object to the processing of your personal data.
-  * Receive your data so that you can use it elsewhere (data portability). 
+### Questions
 
-
-
-  
-If you wish to exercise any of the above rights, please contact us at privacy@orangegames.com. We will provide you with instructions regarding the information (cookie) we need for you so that we are able to find the data in question.   
-If you ask us to delete your data, we reserve the right to store the data we need to meet our legal and internal audit requirements.   
-You also have the right to lodge a complaint with a supervisory authority.
-
-4\. Revoke consent for Gamedistribution.com cookies and data processing
-
-You have the right to withdraw your consent at any time, but we would like to point out that this does not affect the lawfulness of the processing before the date that you withdraw your consent. To revoke your consent, please click here
-
-#### 
-
-#### Version information
-
-This policy was last updated in May 24th 2018.  
-
-Questions
-
-We welcome comments and suggestions regarding this Gamedistribution.com privacy notice. Please send questions about our privacy policy or the information we have collected from you to privacy@orangegames.com
-
-Terms and Conditions
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at:
-
-https://docs.google.com/document/d/e/2PACX-1vQ8dDGh1tlmYiCoeX1Wzol4LH0nsZkFwvHZZ29EkDC_BxzPOAXiG4rKZ8xk4EtRUtKtPRTP4MTejAPS/pub
-
-Gamedistribution.com  
-© 2011-2018
+We welcome comments and suggestions regarding this Azerion Products privacy notice. Please send questions about our privacy policy or the information we have collected from you to [privacy@azerion.com](mailto:privacy@azerion.com)
