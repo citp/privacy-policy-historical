@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630234432id_/https%3A//www.dreamhost.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226204106id_/https%3A//www.dreamhost.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – DreamHost
 
@@ -179,7 +179,7 @@ _Law enforcement_
 
 **9.2** Web-based advertisements: DreamHost and its advertising partners comply with “opt out” signals provided either by a user's web browser automatically, by a user manually opting-out of web-based advertisements at <http://www.networkadvertising.org/choices/>.
 
-**9.3** Email marketing: To unsubscribe from promotional marketing emails you can click the unsubscribe link in a promotional email or modify your preferences on the Privacy page of the [DreamHost Panel](http://panel.dreamhost.com/index.cgi?tree=billing.privacy).
+**9.3** Email marketing: To unsubscribe from promotional marketing emails you can click the unsubscribe link in a promotional email or modify your preferences on the Privacy page of the [DreamHost Panel](https://panel.dreamhost.com/index.cgi?tree=billing.privacy).
 
 **9.4** Cookies and other tracking technologies:
 
