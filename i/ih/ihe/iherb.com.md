@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630234800id_/https%3A//www.iherb.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226204004id_/https%3A//www.iherb.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - iHerb.com
+# Privacy Policy - iHerb
 
 ## iHerb, LLC.: Privacy Policy
 
-**Effective Date: June 28, 2018**
+**Effective Date: December 2, 2019**
 
 iHerb, LLC. and its subsidiaries( **collectively** , “iHerb”) respect your concerns about privacy. This Privacy Policy describes the types of personal information we collect about individuals through our website and mobile apps (collectively, the “Services”), how we may use the information, with whom we may share it, and the choices available regarding our use of the information. The Privacy Policy also describes the measures we take to safeguard the personal information, how long we retain it and how individuals can contact us about our privacy practices and to exercise their rights.
 
 Click on one of the links below to jump to the listed section:
 
+  * Country-specific Privacy Policies
   * Information We Obtain
   * How We Use The Information We Obtain
   * Automated Collection Of Data
@@ -25,6 +26,14 @@ Click on one of the links below to jump to the listed section:
   * How To Contact Us
 
 
+
+## Country-specific Privacy Policies
+
+Data protection and privacy rules applied worldwide differ. For this reason, in certain cases we have to change our privacy practices due to specific legal requirements applied in countries where we do our business.
+
+For this reason, this document may include some information specific for certain categories of users, for example, residents of California. In addition, we can also elaborate separate Privacy Policies, where our data protection and privacy practices differ from the ones described in this document due to local legal requirements.
+
+In particular, we have elaborated such separate policy for Russian users, which is available here: [[Click here for Russian](https://s3.images-iherb.com/cms/pdf/Russia%20privacy%20policy-RU.pdf)/[Click here for English](https://s3.images-iherb.com/cms/pdf/Russia%20privacy%20policy-EN.pdf)]. If you are a Russian user, please read the referred Russian Privacy Policy carefully.
 
 ## Information We Obtain
 
@@ -114,7 +123,7 @@ We also may disclose information about you: (1) if we are required to do so by l
 
 We may transfer the personal information we collect about you to recipients in countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to recipients in other countries (such as the U.S.), we will protect that information as described in this Privacy Policy and will comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries other than the one in which you provided the information.
 
-If you are located in the European Economic Area (“EEA”), United Kingdom (“UK”) or Switzerland, with respect to transfers of personal information to the U.S., iHerb, LLC. (“iHerb”) is certified under the EU-U.S. and Swiss-U.S. Privacy Shield frameworks developed by the U.S. Department of Commerce, and the European Commission and Swiss Federal Data Protection and Information Commissioner, respectively, regarding the transfer of personal information from the EEA, UK and Switzerland to the U.S. [Click here](https://s3.images-iherb.com/cms/pdf/privacypolicy06072019.pdf) to view our EU/Swiss-U.S. Privacy Shield Privacy Policy. U.S. companies certified to the Privacy Shield are recognized by the European Commission, UK and Swiss Administration as providing an adequate level of data protection. iHerb will implement appropriate safeguards to ensure that its third-party service providers also provide such a level of data protection, including by selecting service providers that are certified to the EU-U.S. and Swiss-U.S. Privacy Shield frameworks (such as Appsee).
+If you are located in the European Economic Area (“EEA”), United Kingdom (“UK”) or Switzerland, with respect to transfers of personal information to the U.S., iHerb, LLC. (“iHerb”) is certified under the EU-U.S. and Swiss-U.S. Privacy Shield frameworks developed by the U.S. Department of Commerce, and the European Commission and Swiss Federal Data Protection and Information Commissioner, respectively, regarding the transfer of personal information from the EEA, UK and Switzerland to the U.S. [Click here](https://s3.images-iherb.com/cms/pdf/iherbprivacyshieldprivacypolicyupdated62519.pdf) to view our EU/Swiss-U.S. Privacy Shield Privacy Policy. U.S. companies certified to the Privacy Shield are recognized by the European Commission, UK and Swiss Administration as providing an adequate level of data protection. iHerb will implement appropriate safeguards to ensure that its third-party service providers also provide such a level of data protection, including by selecting service providers that are certified to the EU-U.S. and Swiss-U.S. Privacy Shield frameworks (such as Appsee).
 
 ## Your Rights And Choices
 
