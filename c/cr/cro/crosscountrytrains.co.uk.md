@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114010349id_/https%3A//www.crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226032924id_/https%3A//www.crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Protecting & Respecting your Privacy | CrossCountry
 
@@ -22,6 +22,8 @@
 CrossCountry (”We”) are committed to protecting and respecting your privacy.
 
 This policy (together with our Website Terms of Use ([www.crosscountrytrains.co.uk](http://www.crosscountrytrains.co.uk/)) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting our website (either [www.crosscountrytrains.co.uk](http://www.crosscountrytrains.co.uk/)  or  [www.buytickets.crosscountrytrains.co.uk](http://www.buytickets.crosscountrytrains.co.uk/) ) or providing your information in the circumstances described below, you are accepting and consenting to the practices described in this policy.
+
+This policy was last updated 11/12/2018
 
 For the purpose of Data Protection Legislation, the data controller is XC Trains Limited (known as CrossCountry), Admiral Way, Doxford International Business Park, Sunderland, SR3 3XP
 
@@ -107,7 +109,14 @@ To meet our statutory obligations for the reporting of accidents, incidents, ass
 
 For the reporting and investigation of safety related events for the purpose of preventing, or reducing the risk of their recurrence. Sharing with other organisations with a direct responsibility for maintaining, or improving railway safety.
 
-| The processing of the personal information is necessary for compliance with a legal obligation set by Office of Rail and Road Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (RIDDOR)  
+To share within Emergency Services, as required during emergency situations on board our services
+
+| 
+
+The processing of the personal information is necessary for compliance with a legal obligation set by Office of Rail and Road Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (RIDDOR)
+
+Legitimate interest and duty of care  
+  
 Claims | To handle your claim in accordance with Claim Allocation and Handling Agreement (CAHA) for losses, property damage or personal injury | 
 
 Necessary for the performance of the contract.
@@ -128,15 +137,15 @@ Licence obligations of the Office Rail and Road – Claim Allocation and Handlin
   
 ---|---|---  
   
-Purchase of tickets
+Transactional data
 
 | 
 
-Provision of your tickets to use our services.
+Provided by you as part of a financial transaction, such as payment for tickets, refunds or compensation
 
 | 
 
-Performance of a contract  
+Performance of a contract and Legal obligations  
   
 Sending marketing information to customers
 
@@ -258,6 +267,26 @@ Website visits and online behaviour, including app usage
 
 Legitimate interest  
   
+On board WiFi data connection
+
+| 
+
+To provide you with a WiFi service on board our services
+
+| 
+
+Performance of a contract  
+  
+Trainline Customer contact centre
+
+| 
+
+To support in any queries with bookings, travel assistance or other issues.
+
+| 
+
+Performance of a contract  
+  
 Email analysis
 
 | 
@@ -268,17 +297,15 @@ Email engagement statistics
 
 Consent provided by you  
   
-Customer research panel
+Smart ticketing  | 
+
+Administration of your tickets and handling queries relating to your tickets.
 
 | 
 
-Feedback via our customer Research Panel
-
-| 
-
-Legitimate interest  
+Performance of a contract and Legitimate interests.  
   
-Customer ressearch panel
+Customer research panel
 
 | 
 
@@ -372,7 +399,7 @@ To arrange and carry out extra assistance for your journey
 
 Equality Act 2010, working with other Rail Industry partners to ensure compliance where complimentary services are supplied under contract. Please see our Disabled Persons Protection Policy.  
   
-Compliments, Suggestions, Complaints and Appeals
+Compliments, Suggestions, Complaints, reporting accidents and Appeals
 
 | 
 
@@ -380,11 +407,15 @@ To respond, investigate and make the necessary enquiries regarding your initial 
 
 To respond, investigate and make the necessary enquiries regarding the appeal.
 
+To record and pass on details of accidents or injuries that have happened on our services to our Safety Team.
+
 | 
 
 Performance of a contract.
 
-Processing is necessary to protect the vital Interests  
+Processing is necessary to protect the vital Interests
+
+Legal Obligation  
   
 Claims for Compensation and Refunds
 
@@ -402,7 +433,7 @@ Revenue Protection & Prosecutions Policy
 
 | 
 
-Preventing and reducing the fare evasion and offenses of violence against its workforce, and may involve prosecution of perpetrators.
+Preventing and reducing fare evasion and offenses of violence against its workforce, which may involve prosecution of perpetrators.
 
 | 
 
@@ -434,7 +465,13 @@ Recruitment
 
 For pre-appointment assessment for either job vacancies, apprenticeships, placements or our graduate training program.
 
-| Necessary for the performance of a contract with you or to take steps to enter into a contract.  
+To receive relevant notifications in regards to job vacancies with CrossCountry or other vacancies within the DB and Arriva organisations
+
+| 
+
+Necessary for the performance of a contract with you or to take steps to enter into a contract.
+
+Consent provided by you  
   
 **Information provided by you in relation to Subject Access Requests**
 
@@ -482,9 +519,11 @@ To enable visitors to gain entry/access into CrossCountry location
 
 | 
 
-Performance of a contract  
+Legitimate interest  
   
-**2.3.2.  Information we collect about you. We use your personal information as follows:**
+**2.3.2.  Information we collect about you. **
+
+**2.3.2.1We use your personal information as follows:**
 
 **Information we collect about you for Safety purposes**
 
@@ -532,7 +571,8 @@ Transactional information (such as your payment details when you buy tickets, th
 
 | 
 
-Performance of contract  
+Performance of contract, legal requirement in relation to   
+Limitation Act 1980  
   
 Marketing communications
 
@@ -542,7 +582,7 @@ Personal information such as your name and contact details when you register for
 
 | 
 
-Performance of contract  
+Consent provided by you.  
   
 Targeted communications
 
@@ -553,6 +593,26 @@ Profiling and selection customers in order to send relevant, targeted communicat
 | 
 
 Consent provided by you  
+  
+Trainline Customer contact centre
+
+| 
+
+To assist customers with any queries in regards to their bookings, passenger assist requests and other issues.
+
+| 
+
+Performance of a contract  
+  
+Smart ticketing
+
+| 
+
+Administration of your tickets and handling queries relating to your tickets.
+
+| 
+
+Performance of a contract and Legitimate interests.  
   
 Behaviour
 
@@ -578,7 +638,9 @@ Customer research panel
 
 | 
 
-Feedback via our customer Research Panel
+Feedback via our Customer Research Panel
+
+(All submissions are made anonymous for analysis and reporting)
 
 | 
 
@@ -623,6 +685,20 @@ To gauge the experience and use feedback for service improvements such as Survey
 | 
 
 Consent provided by you  
+  
+Customer Relations Call recording  | 
+
+To record calls for monitoring and training purposes. Potentially used as evidence in fraudulent cases (Note this does not include payment details)
+
+| 
+
+Performance of a contract and legitimate interest  
+  
+**Information we collect about you as a potential employee:**
+
+**_Area_** | **_Purpose of processing_** | **_Legal basis for processing_**  
+---|---|---  
+Recruitment | To send you relevant job vacancy updates | Consent provided by you  
   
 **2.3.3 Information we receive from other sources.**
 
@@ -689,26 +765,23 @@ Licence obligations of the Office Rail and Road – Claim Allocation and Handlin
 **_Legal basis for processing_**  
   
 ---|---|---  
+Smart ticketing  | 
+
+Administration of your tickets and handling queries relating to your tickets, which may contain other Train Operating Companies’ products
+
+| 
+
+Performance of a contract and Legitimate interests.  
   
 Guest Checkout
 
 | 
 
-You can use our booking service without logging in or registering as a new user on our mobile site or website.  Guest transactions are not displayed within your account, even if you’re already a registered user of our booking service and you book a ticket as a “guest” without logging in.
+You can use our booking service without registering as a new user on our mobile site, website or through our app. Transactions as a guest would however not be displayed in your account if you are a registered user, but subsequently choose to checkout as a Guest. All personal data collected when booking as a Guest will be processed in accordance with this Privacy Policy.
 
 | 
 
-Consent provided by you.  
-  
-Guest Bookings
-
-| 
-
-All personal data collected when guest bookings are made will be used in accordance with this Privacy Policy, including if you are not a registered user.
-
-| 
-
-Consent provided by you.  
+Performance of a contract  
   
 **Information we receive from other sources for the provision of Customer Services**
 
@@ -758,11 +831,11 @@ To assist with the Customer Delay repay claim by sharing the information with th
 
 To provide compensation in line with our Passenger Charter and National Rail Conditions of Travel  
   
-Revenue  Protection & Prosecutions Policy
+Revenue  Protection & Prosecutions
 
 | 
 
-To support investigations
+To support revenue protection related investigations that may lead to prosecutions.
 
 | 
 
@@ -786,7 +859,7 @@ Recruitment
 
 | 
 
-We may receive references from previous employers or assessment We may also receive reports from external suppliers for pre-employment testing or medicals reports
+We may receive references from previous employers. We may also receive reports from external suppliers for pre-employment testing or medicals reports
 
 | 
 
@@ -825,6 +898,7 @@ We may disclose your personal data to the following categories of recipient for 
   * With Rail Safety and Standard Board, Rail Accident Investigation Branch, Office of Rail and Road, Government appointed enquires, legal representors and other Rail Industry Partners to meet our statutory obligations for the reporting of accidents, incidents, assaults or dangerous occurrences.
   * With British Transport police, legal, other Rail Industry Partners, CCTV images required for evidential purposes in legal or disciplinary proceedings.
   * With Solicitors, Transcare Law, Office of Road and Rail, consumer watchdogs, and other Rail Industry Partners in accordance with Claim Allocation and Handling Agreement (CAHA) for losses property damage or personal injury.
+  * With Emergency Services as required during emergency situations on board our services, to provide you with medical assistance if required.
 
 
 
@@ -835,6 +909,8 @@ Service providers:
   * We use third party service providers to carry out many of the activities listed in the sections above, “How we use your personal data and the legal basis for such processing”. This includes our Customer Relationship Management (CRM) provider Acteol and Trainline.com, as well as digital agencies and services such as Google to provide digital advertising, activities and analytics.
   * Our service providers act on our instructions, and we ensure that they take measures to keep your personal data safe.
   * We don’t allow our service providers to use your personal data for any purpose other than carrying out the service in question, and we only provide them with those parts of your personal data that they actually need.
+  * We share your information with Rail Delivery Group who provide the back office technology and infrastructure for Smartcard products.
+  * Other UK Rail Operators in order that they can provide support in respect of your Smartcard products, from any given location regardless of the retailer.
   * All payments for ticket purchase through Visa and MasterCard are processed by Trainline.com Limited.
 
 
@@ -842,7 +918,7 @@ Service providers:
 Other UK Rail Operators:
 
   * We share your personal data with some operators for ticket fulfilment purposes
-  * We may share your email address or phone number with some operators so that they can contact you with service messages, for example if a train is cancelled.
+  * We may share your email address or phone number with some operators so that they can contact you with service messages, for example if a train is cancelled in cases for booked Travel Assistance.
   * We may also need to share some of your personal data with any other transport carriers or other service providers who provide you with any part of the services that you’ve booked through us.
 
 
@@ -869,9 +945,9 @@ The Authorities:
 
 
 
-**Sharing your information in relation to Subject Access Request**
+**Sharing your information in relation to  Individual Rights Requests**
 
-  * Information Commissioner Office – for the purposes of reporting, processing and investigating of Data Protection complaints received from the Information Commissioner's Office.
+  * Information Commissioner Office – for the purposes of reporting, processing and investigating of Data Protection complaints or incidents received from the Information Commissioner's Office.
 
 
 
@@ -901,11 +977,17 @@ The table below explains in more detail how long CrossCountry will store differe
   
 ---|---  
   
-Accidents, incidents, assaults or dangerous occurrences
+Reporting of accidents, incidents, assaults or dangerous occurrences
 
 | 
 
-As per the Statutory provisions.  
+As per the Statutory provisions (see Social Security (claims and payments) Regulations 1971; Regulation 25. Social Security Act 1992; OR Section 8. Limitation Act 1980.  
+  
+Records relating to accident/injury
+
+| 
+
+From the date of the incident plus 12 years. In the case of serious accidents, a further retention period may need to be considered.  
   
 CCTV Cameras and Body Worn Cameras
 
@@ -919,6 +1001,14 @@ Safety claims
 
 For the duration of the claim, plus an additional 6 years after the claim is closed.  
   
+CCTV footage relating to a claim  | 
+
+For the duration of the claim matter, plus additional 6 years after the claim is closed.  
+  
+Claimant bank details | 
+
+Until payment is made to the claimant  
+  
 **Data Retention relating to the provision of Customer or Stakeholder**
 
 **_Customer information_**
@@ -929,21 +1019,12 @@ For the duration of the claim, plus an additional 6 years after the claim is clo
   
 ---|---  
   
-For customers who have not made a on line transactions in the last 6 years
+For customers who have made an online transaction in the last 6 years
 
 | 
 
-We will keep customer details and marketing preferences for 3 years since their last interaction with any CrossCountry communication.
-
-If a customer has not interacted with any CrossCountry communication in the last 3 years, we will anonymise all of their personal data and marketing preferences.  
-  
-For customers who have made a on line transactions in the last 6 years
-
-| 
-
-We will keep marketing preferences for 3 years since a customer’s last interaction with any CrossCountry communication.
-
-We will keep customer information and transactional data for 6 years since a customers’ last transaction. After that point, we will anonymise all personal data and marketing preferences  
+Transaction history  
+We will keep customer information associated with transactional data for 6 years since a customer's last transaction. After which point, all personal customer information will be deleted, but statistical information will be retained on a completely anonymised basis.  
   
 Anonymised website data
 
@@ -957,17 +1038,29 @@ Stakeholder – General
 
 For no longer than the necessary for the purposes for which the personal data was collected.  
   
-Stakeholder – community Rail
+Stakeholder – Community Rail
 
 | 
 
 For no longer than the necessary for the purposes for which the personal data was collected.  
   
-Stakeholder – Cause
+Stakeholder – Supporting causes in the community
 
 | 
 
 For a period of 6 years after the support is provided.  
+  
+Trainline contact centre call recording
+
+| 
+
+3 months  
+  
+Call recording (Customer Relations)
+
+| 
+
+2 years from point recording was made. Please note payment details are not recorded.  
   
 **Data Retention relating to the provision of Customer Services**
 
@@ -979,23 +1072,23 @@ For a period of 6 years after the support is provided.
   
 ---|---  
   
-Travel Assistance
+Travel Assistance bookings
 
 | 
 
 For a period of 2 years (as advised by Rail Delivery Group)  
   
-Complements, Suggestions, Complaints and Appeals
+Compliments, Suggestions, Complaints and Appeals
 
 | 
 
-For no longer than the necessary for the purposes for which the personal data was collected (maximum period of 6 years)  
+For no longer than the necessary purposes for which the personal data was collected (maximum period of 6 years)  
   
 Compensation & Refunds
 
 | 
 
-For no longer than the necessary for the purposes for which the personal data was collected (maximum period of 6 years).  
+6 years from the date of transaction or payment made  
   
 Revenue Protection & Prosecutions Policy
 
@@ -1013,11 +1106,11 @@ For a period of 6 years following the end case completion
   
 ---|---  
   
-Recruitment/Pre Boarding
+Job applications and interview records for unsuccessful candidates
 
-|  Job application and interview notes for unsuccessful candidates is held for 6 months  
+| 6 months after notifying unsuccessful candidates. The applicant should be informed of Arriva’s retention period when they complete the application  
   
-  **Data Retention - Subject Access Requests**
+  **Data Retention - Individual Rights Access**
 
 **_Customer information_**
 
@@ -1027,7 +1120,7 @@ Recruitment/Pre Boarding
   
 ---|---  
   
-Subject Access Request
+Individual Rights Requests
 
 |  We hold the data for 2 years  
   
@@ -1037,24 +1130,26 @@ We apply appropriate administrative, technical and organisational security measu
 
 **  2.7. Transferring Information Internationally**
 
-Your personal information may be transferred to, and processed in, countries other than the country in which you are resident.  These countries may have data protection laws that are different to the laws of your country. However, we have taken appropriate safeguards to require that your personal data will remain protected in accordance with this Privacy Notice. These safeguards include implementing the European Commission’s Standard Contractual Clauses for transfers of personal information to our third party service providers and further details can be provided upon request.
+Your personal information may be transferred to and processed in, countries other than the country in which you are resident.  These countries may have data protection laws that are different to the laws of your country. Specifically, we may use third party service providers located in India, Tunisia and the United States of America. This means that, when we collect your personal information, it may be processed in these countries. However, we have taken appropriate safeguards to require that your personal data will remain protected in accordance with this Privacy Notice. These safeguards include implementing the European Commission’s Standard Contractual Clauses for transfers of personal information to our third party service providers and further details can be provided upon request.
 
 **2.8.Updates to this Privacy Notice**
 
 We may update this Privacy Notice from time to time in response to changing legal, technical or business developments. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make.  We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws.
 
-You can see when this Privacy Notice was last updated by checking the “last updated” date displayed at the top of this Privacy Notice. 
+You can see when this Privacy Notice was last updated by checking the date displayed at the top of this Privacy Notice. 
 
 **2.9.Your Data Protection Rights**
 
 You have the following data protection rights:
 
   * If you wish to access, correct, update or request deletion of your personal information, you can do so at any time by contacting us at any time at [XCDataProtection@crosscountrytrains.co.uk](mailto:XCDataProtection@crosscountrytrains.co.uk).
-  * In addition, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. Again, you can exercise these rights by contacting us at [XCDataProtection@crosscountrytrains.co.uk](mailto:XCDataProtection@crosscountrytrains.co.uk).
+  * In addition, you can object to the processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. Again, you can exercise these rights by contacting us at [XCDataProtection@crosscountrytrains.co.uk](mailto:XCDataProtection@crosscountrytrains.co.uk).
 
 
 
-If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.  **.  ** **You can update your consent preferences in our Preferences centre,  ** **Please note that it may take up to 48 hours for this information to be updated.**
+If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent. ** ** **You can update your consent preferences in our[Preferences centre](https://xct.my-pref.com/), p** **lease note that it may take up to 48 hours for this information to be updated.**
+
+If you wish to withdraw consent from marketing communications, or close your online account with CrossCountry, please contact us at any time at [digital@crosscountrytrains.co.uk ](mailto:digital@crosscountrytrains.co.uk) Please note this may take up to 5 working days. 
 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
@@ -1062,8 +1157,8 @@ We respond to all requests we receive from individuals wishing to exercise their
 
 If you have any question, concerns or complaints about this Privacy notice or our handling of your personal data, you can contact us by email on [XCDataProtection@crosscountrytrains.co.uk](mailto:XCDataProtection@crosscountrytrains.co.uk) or by post to the following address:
 
-CrossCountry, 5th Floor, Cannon House,18 The Priory Queensway, Birmingham, B4 6BS
+CrossCountry Data Protection Champion, CrossCountry, 5th Floor, Cannon House,18 The Priory Queensway, Birmingham, B4 6BS
 
 If you are unsatisfied with the response, you can contact Arriva plc's Data Protection Officer at [data.protection@arriva.co.uk](mailto:data.protection@arriva.co.uk).
 
-You have the right to complain to a data protection authority about our collection and use of your personal information.  If you are based in the European Economic Area, please contact your local data protection authority. (Contact details for data protection authorities in the European Economic Area, Switzerland and certain non-European countries are available on the EU Commission's website via the following link): <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>).
+You have the right to complain to a data protection authority about our collection and use of your personal information.  If you are based in the European Economic Area, please contact your local data protection authority. (Contact details for data protection authorities in the European Economic Area, Switzerland and certain non-European countries are available on the EU Commission's website via the following link): <https://ec.europa.eu/info/departments/justice-and-consumers_en#contact>).
