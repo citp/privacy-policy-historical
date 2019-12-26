@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628170654id_/https%3A//www.samhsa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226054110id_/https%3A//www.samhsa.gov/privacy) for the most accurate reproduction.*
 
 # Privacy | SAMHSA - Substance Abuse and Mental Health Services Administration
 
