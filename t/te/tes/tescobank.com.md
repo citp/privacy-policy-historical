@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescobank.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627022211id_/https%3A//www.tescobank.com/help/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescobank.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226212629id_/https%3A//www.tescobank.com/help/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - Tesco Bank
 
@@ -13,7 +13,7 @@ Find out about our Privacy Notice which summarises how we, Tesco Personal Financ
 
 This page also outlines our Cookies Policy which explains how we use cookies to enhance your experience on our website.
 
-The information on this page was last updated on 22 May 2018.
+The information on this page was last updated on 02 November 2018.
 
 Using, collecting and protecting your personal data
 
@@ -169,6 +169,7 @@ Usage for 'legitimate business interests'
 
 These are other uses allowed by law which are necessary to enable us to provide the products and services. These include:
 
+  * verifying your identity
   * detecting and preventing fraud, other forms of financial crime, and other unlawful acts
   * tracing and recovering debt
   * managing and operating our business
@@ -200,9 +201,9 @@ Recovering money paid by mistake
 
 If a person or organisation pays you money by mistake then we will contact you to ask you to return the money. If you do not return the money, then the law says we must give your name and address to the account providers of the person or organisation who sent you the money so they can recover the money from you.
 
-Tailoring marketing to you
+Will Tesco Bank send me marketing information?
 
-### Tailoring marketing to you
+### Will Tesco Bank send me marketing information?
 
 #### We may use your personal data to tailor marketing to you
 
@@ -214,7 +215,7 @@ We may also provide tailored marketing to you in other places, such as at the ti
 
 We will only ever send you information about things we think are relevant to you.
 
-Some tailored marketing needs your agreement before we can send it to you; we will ensure we have this agreement.
+Some tailored marketing needs your agreement, we will only send you this type of marketing with your permission.
 
 Helping us understand more about you
 
@@ -370,7 +371,7 @@ Why we share your personal data
 
 #### Why we share your personal data
 
-In order to provide our products and services to you, it is necessary for us to share information with third parties. For some third parties we need to share your personal data because they provide a service which we do not provide (such as the Insurers or the Add-on Providers). For other third parties, we are required to share your personal data to prevent fraud and other forms of financial crime, to ensure that we are lending responsibly or to ensure that we are meeting our regulatory requirements.
+In order to provide our products and services to you, it is necessary for us to share information with third parties. For some third parties we need to share your personal data because they provide a service which we do not provide (such as the Insurers or the Add-on Providers). For other third parties, we are required to share your personal data to detect and prevent fraud and other forms of financial crime, to ensure that we are lending responsibly or to ensure that we are meeting our regulatory requirements.
 
 Who we share your data with
 
@@ -389,8 +390,10 @@ Who we share your data with
   * with other lenders or companies, (if we are, or are considering, transferring the rights and obligations we have with you)
   * with another pet insurer, if we have invited you to renew your pet insurance with them
   * with Tesco Group and Tesco stores, in connection with your Clubcard (for example, to allocate points or discounts, or where you have agreed to receive marketing)
-  * with other Tesco Group companies
+  * with other Tesco Group companies (www.tescoplc.com/about-us) 
   * with our market research agency to contact you with relevant surveys
+  * if you have a debit or credit card with us, with Visa and MasterCard who keep an up to date record of card details which they make available to merchants 
+  * with other financial institutions to detect and prevent fraud and other types of financial crime and to comply with our other regulatory obligations
 
 
 
@@ -428,8 +431,6 @@ To do this, we will supply your personal data to the credit reference agencies a
 Credit reference agencies will give us information that is public, such as information from the electoral register, as well as specific information they know, such as shared credit, financial situation and financial history information, and fraud prevention information.
 
 #### When we use credit reference agencies
-
-#### Sharing your personal data with credit reference agencies
 
 We run checks when you apply. If you are with Tesco Bank, we will also do periodic checks while you are using our products or services (the number and frequency of these checks will depend on which products or services you have).
 
@@ -470,7 +471,7 @@ Credit reference agencies will also link your records together. Your records wil
 
 #### For more information about credit reference agencies
 
-The three main credit reference agencies are Callcredit, Equifax and Experian.
+The three main credit reference agencies are TransUnion, Equifax and Experian.
 
 To learn more about what they do, what information they hold, and what your rights are, go to their websites below:
 
@@ -517,7 +518,7 @@ Fraud and financial crime prevention agencies will keep a record of the fact tha
 
 In some cases, these records can be seen by others, and might result in other organisations refusing to provide services, financing or employment.
 
-If you have any questions about this, contact us.
+If you have any questions about this or want to find out which fraud prevention agencies we use, you can contact us by using the contact number for your product.
 
 #### Fraud and financial crime prevention and automated decision-making
 
@@ -560,7 +561,7 @@ This includes telling the credit reference agencies about any debts you do not p
 
 #### For more information about credit reference agencies
 
-The three main credit reference agencies are Callcredit, Equifax and Experian.
+The three main credit reference agencies are TransUnion, Equifax and Experian.
 
 Find out more about what they do, what information they hold, and what your rights are at the websites below.
 
@@ -683,7 +684,7 @@ If we, or a fraud or financial crime prevention agency, think that you pose a fr
 
 Both we and fraud and financial crime prevention agencies will keep a record of any fraud or other financial crime risk.
 
-This may result in others refusing to provide services, financing or employment to you. If you have any questions about this, contact us.
+This may result in others refusing to provide services, financing or employment to you. If you have any questions about this or want to find out which fraud prevention agencies we use, you can contact us by using the contact number for your product.
 
 #### Fraud and financial crime prevention and automated decision-making
 
@@ -779,7 +780,7 @@ How long do we keep data?
 
 #### How long do we keep data when you no longer use our service? 
 
-We keep your personal data once your account is closed, your insurance policies have lapsed for up to 10 years.
+We keep your personal data once your account is closed or your insurance policies have lapsed, for up to 10 years.
 
 No completed applications
 
@@ -797,7 +798,11 @@ For marketing purposes
 
 We keep your personal data for 3 years after your last activity with us.
 
-In all cases, we will retain the personal data for so long as that personal data is needed for an ongoing investigation, legal proceedings, insurance claim or an outstanding audit.
+Will you ever keep my data for longer than these periods?
+
+### Will you ever keep my data for longer than these periods?
+
+In some cases, we may retain your personal data for longer than the periods stated above where it is needed for an ongoing investigation, legal proceedings, insurance claims, an outstanding audit or for our legitimate business purposes. We will only retain the personal data that is necessary for these purposes and will aim to delete or anonymise data that is unnecessary for these purposes within the periods stated above wherever possible.
 
 Important changes
 
@@ -821,7 +826,7 @@ Your Rights
 
 #### You have the right to know what data we hold about you
 
-This is called your ‘subject access rights’.
+This is called your ‘subject access right’.
 
 #### The law says that you are entitled to see what data we hold about you
 
@@ -853,6 +858,17 @@ If you think any of the personal data we hold about you is incorrect or incomple
 
 If you want us to stop using, or restrict our use of, your personal data, or you want us to erase it entirely, please let us know. There are times when we may not be able to do this – for example, if the information is related to an existing or recently expired contract between you and us, or if the law says we need to keep your personal data for a certain amount of time.
 
+#### You have rights in respect of automated decision making (including profiling)
+
+An automated decision is one that is made by our systems rather than by a person and we use these to perform automatic checks. This helps us make lending decisions, work out what products and services we can offer you, how much to charge for some products and services and helps to prevent fraud. Automated decision-making helps us to decide things like how likely it is that someone will pay back the money they owe us. It takes into account factors such as the amount of debt someone has, and how they have paid off debts in the past etc. The benefit of automated decision making is that we can quickly make key decisions. 
+
+You have the right to:
+
+  * Express your concerns and object to a decision taken by purely automated means 
+  * To request that a person reviews that decision
+
+
+
 #### You have the right to withdraw your consent at any time
 
 Sometimes we need your consent to process your personal data. If you have given consent, you can change your mind and withdraw it. To do this, get in touch by using the relevant contact details from our website.
@@ -871,11 +887,15 @@ Contact us
 
 #### Contact us for more information about how we handle your personal data
 
-If you have concerns about how we handle your personal data, or just want more details, please call us (see contact us section on our website) or write to the address below. We will try and sort things out as quickly as we can.
+If you have concerns about how we handle your personal data, or just want more details, please call us, email us or write to us using your preferred contact method below. We will try and sort things out as quickly as we can.
 
-#### Our address is:
+#### Our contact details are:
 
-The Data Protection Officer, Tesco Bank, PO BOX 27009, Glasgow, G2 9EZ.
+By post: The Data Protection Officer, Tesco Bank, PO BOX 27009, Glasgow, G2 9EZ
+
+By phone: 0345 1743155
+
+By email: dataprotectionoffice@tescobank.com
 
 Find out more
 
@@ -953,6 +973,11 @@ SESSION COOKIES
   * TS0187689b
   * TS019e2f2e
   * TS01bde74e
+  * LoanPurpose
+  * LoanLength
+  * s_ppv
+  * s_ppvl
+  * AWSELB
 
 
 
@@ -965,6 +990,8 @@ PERSISTENT COOKIES
   * tesco_pcao_device_id
   * username_banking
   * ArcotAuthDid
+  * TBANKVISITOR
+  * ReevooSplit
 
 
 
@@ -974,9 +1001,9 @@ Purpose: Ensighten is the Tag Management software used by Tesco Bank. It is used
 
 First party cookies
 
-Data Retention Period: N/A
-
 SESSION COOKIES
+
+Data Retention Period: N/A
 
   * customer_type
   * ens_gpv_pn
@@ -996,6 +1023,10 @@ SESSION COOKIES
   * tms_retrieve_type
   * tms_trav_journey
   * tms_aggregator
+  * ensTargetingCheck
+  * ensPageNameCat
+  * ensPortalJourney
+  * ensRec
 
 
 
@@ -1005,6 +1036,8 @@ PERSISTENT COOKIES
   * ensloggedin
   * tms_document_referrer
   * uuid
+  * TESCOBANK_ENSIGHTEN_PRIVACY_BANNER_VIEWED
+  * TESCOBANK_ENSIGHTEN_PRIVACY_Targeting
 
 
 
@@ -1014,9 +1047,9 @@ Purpose: Tesco Bank uses Adobe Analytics technology to measure website traffic a
 
 A copy of the Adobe Analytics data is hosted with a UK based 3rd party partner of Tesco Bank called Aquila Insight. They provide a technical environment for Tesco Bank to run additional analysis on the performance of digital marketing. Aquila Insight retain this data for a maximum of 25 months. 
 
-First party cookies (unless specified)
-
 Data Retention Period: 37 months
+
+First party cookies (unless specified)
 
 SESSION COOKIES
 
@@ -1126,7 +1159,7 @@ PERSISTENT COOKIES
 
 Purpose: DoubleClick is an ad serving technology and used by Tesco Bank to track & optimise its digital marketing activities. 
 
-Third party cookies
+First party cookies
 
 Data Retention Period: 24 months
 
@@ -1195,6 +1228,8 @@ PERSISTENT COOKIES
   * sonar_matching_eu
   * _sonar
   * sonar-expires
+  * anj
+  * uuid2
 
 
 
@@ -1202,7 +1237,7 @@ PERSISTENT COOKIES
 
 Purpose: Mediacom are an agency that support Tesco Bank in the area of display advertising via Facebook. Mediacom use Facebook cookies to trigger display advertising that’s linked to your online browsing habits.
 
-Third party cookies
+First party cookies
 
 Data Retention Period: 180 days
 
@@ -1215,6 +1250,20 @@ PERSISTENT COOKIES
   * sb
   * xs
   * pl
+  * wd
+
+
+
+#### Mediacom/Twitter (Targeting)
+
+Purpose: Mediacom are an agency that support Tesco Bank in the area of display advertising via Twitter. Mediacom use Twitter cookies to trigger display advertising that's linked to your online browsing habits.
+
+Data Retention Period: 90 days
+
+PERSISTENT COOKIES
+
+  * personalization_id
+  * guest_id
 
 
 
@@ -1243,20 +1292,6 @@ SESSION COOKIES
 PERSISTENT COOKIES
 
   * LPVisitorID
-
-
-
-#### Reevoo (Cookies not controlled by Tesco Bank)
-
-Purpose – Reevoo is an independent customer recommendations platform used by Tesco Bank Insurance products. Please visit the Reevoo website for details of their cookie policy.
-
-PERSISTENT COOKIES
-
-  * reevoo_sp_id.92d3
-  * reevoo_sp_ses.92d3
-  * reevoomark_marker
-  * reevoomark_viewed_products
-  * sp
 
 
 
