@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmarketingtoday.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625220713id_/https%3A//www.practicalecommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmarketingtoday.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226043446id_/https%3A//www.practicalecommerce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Practical Ecommerce
 
