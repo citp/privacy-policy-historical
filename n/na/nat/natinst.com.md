@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natinst.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618013856id_/https%3A//www.ni.com/en-us/about-ni/legal/privacy/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natinst.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226131735id_/https%3A//www.ni.com/en-us/about-ni/legal/privacy/privacy-statement.html) for the most accurate reproduction.*
 
 # National Instruments Corporation Privacy Statement - National Instruments
 
