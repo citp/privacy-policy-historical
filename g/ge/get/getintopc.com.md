@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getintopc.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601053923id_/https%3A//getintopc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getintopc.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226190441id_/https%3A//getintopc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
