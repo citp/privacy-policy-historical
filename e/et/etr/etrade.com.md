@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etrade.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233036id_/https%3A//us.etrade.com/l/f/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etrade.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226202905id_/https%3A//us.etrade.com/l/f/privacy-statement) for the most accurate reproduction.*
 
 # E*TRADE Privacy Statement
 
