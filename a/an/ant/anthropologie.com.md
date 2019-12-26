@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anthropologie.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629111244id_/https%3A//www.anthropologie.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthropologie.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226100050id_/https%3A//www.anthropologie.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anthropologie
 
@@ -26,17 +26,17 @@ We offer those who sign-up for our email list advanced notice of sales, new merc
 
 ## Our Catalog Mailing List
 
-If you no longer wish to receive Anthropologie catalogs, please [contact us](https://web.archive.org/help/contact-us) or call [800.309.2500](tel:800.309.2500). Please include your name and mailing address as shown on your catalog. We will remove your name from our mailing list as soon as possible. Please recognize that you may receive another catalog before we are able to remove you. We may, on occasion, share a portion of our catalog mailing list with our business partners. If you do not want your name and address shared with other organizations, [contact us](https://web.archive.org/help/contact-us) or call [800.309.2500](tel:800.309.2500).
+If you no longer wish to receive Anthropologie catalogs, please [contact us](https://web.archive.org/help/contact-us). Please include your name and mailing address as shown on your catalog. We will remove your name from our mailing list as soon as possible. Please recognize that you may receive another catalog before we are able to remove you. We may, on occasion, share a portion of our catalog mailing list with our business partners. If you do not want your name and address shared with other organizations, [contact us](https://web.archive.org/help/contact-us).
 
 ## Business Partners
 
-Anthropologie contracts with outside service providers to help us better understand your use of anthropologie.com. Our service providers place cookies on your computer or use other technologies to collect various kinds of information for us related to your use of anthropologie.com, so that we and our business partners may continue to refine and improve the site and other sites for our customers, and provide advertising tailored to your interests. We do not allow our service providers to collect any credit card, user name or password information. As a visitor to anthropologie.com, you may opt out of being included in this collection of data by [contacting us](https://web.archive.org/help/contact-us) or calling [800.309.2500](tel:800.309.2500). To opt-out of third party advertising tailored to your interests, [click here](http://www.networkadvertising.org/choices). We may also use our own cookies to deliver enhanced online display advertising tailored to your interests. To opt out of this advertising provided directly by Anthropologie, [click here](http://dtmc.anthropologie.com/adinfo/choice/prod/?type=fpc&cid=2466&cname=Anthropologie&cmagic=7b41bf&clogo=2466.png&loc=us&lang=en-us).
+Anthropologie contracts with outside service providers to help us better understand your use of anthropologie.com. Our service providers place cookies on your computer or use other technologies to collect various kinds of information for us related to your use of anthropologie.com, so that we and our business partners may continue to refine and improve the site and other sites for our customers, and provide advertising tailored to your interests. We do not allow our service providers to collect any credit card, user name or password information. As a visitor to anthropologie.com, you may opt out of being included in this collection of data by [contacting us](https://web.archive.org/help/contact-us). To opt-out of third party advertising tailored to your interests, [click here](http://www.networkadvertising.org/choices). We may also use our own cookies to deliver enhanced online display advertising tailored to your interests. To opt out of this advertising provided directly by Anthropologie, [click here](http://dtmc.anthropologie.com/adinfo/choice/prod/?type=fpc&cid=2466&cname=Anthropologie&cmagic=7b41bf&clogo=2466.png&loc=us&lang=en-us).
 
 “Cookies” are bits of information that are automatically stored on your computer. If you do not want to have cookies on your system, you can set your browser to disable them.
 
 We or our partners may use Flash Cookies (also known as Local Stored Objects) or other similar technologies. A Flash cookie is a small data file placed on a computer using Adobe Flash or similar technology that may be built into your computer or downloaded or installed by you to your computer. We use these technologies to personalize and enhance your online experience, facilitate processes, personalize and store your settings. Flash cookies may help our website visitors to, for example, set volume preference associated with a video experience, play games and perform surveys. They help us improve our sites by measuring which areas are of greatest interest to customers. They may be recognized by other sites or by our marketing or business partners. Flash cookies are different from browser cookies and the cookie management tools provided by your browser will not remove Flash cookies. [Click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/) to learn how to manage privacy and storage settings for Flash cookies. If you disable Flash cookies or other similar technologies, please be aware that you may not have access to certain features and services that make your online experience more efficient and enjoyable.
 
-We also use other methods of automatic collection to determine information about visitors to our website, including the IP address, browser, language preferences, and computer identification numbers. We use the information obtained using these tools to provide better customer service, enhance our product offerings, and detect potential misuse or fraud. To opt out of any such data collection, contact us or call [800.309.2500](tel:800.309.2500).
+We also use other methods of automatic collection to determine information about visitors to our website, including the IP address, browser, language preferences, and computer identification numbers. We use the information obtained using these tools to provide better customer service, enhance our product offerings, and detect potential misuse or fraud. To opt out of any such data collection, [contact us](https://web.archive.org/help/contact-us).
 
 ## Secure Shopping
 
@@ -44,7 +44,7 @@ Sensitive personal information contained in orders placed on the Website are enc
 
 Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect you Personal Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity, and privacy of any and all information and data exchanged between you and us through the Website cannot be guaranteed; (c) any such information and data may be viewed or tampered with in transit by a third party; and (d) WHEN YOU TRANSFER ANY INFORMATION TO US, YOU DO SO AT YOUR OWN RISK.
 
-If you still have concerns about ordering electronically, feel free to call [800.309.2500](tel:800.309.2500) and place your order over the phone. Have the 8-digit style number, size, and color ready for each item you wish to order. You can also print your shopping basket page and mail it to:
+If you still have concerns about ordering electronically, [contact us](https://web.archive.org/help/contact-us). Have the 8-digit style number, size, and color ready for each item you wish to order. You can also print your shopping basket page and mail it to:
 
 **Anthropologie**
 
@@ -118,7 +118,7 @@ When you sign-up for our email list, we may also may collect optional informatio
 
 ## Catalogue Mailing List
 
-If you sign-up for our catalogue mailing list, we collect your name and mailing address. If you no longer wish to receive Anthropologie catalogues, please contact us at [800.309.2500](tel:800.309.2500) or [service@anthropologie.com](mailto:service@anthropologie.com). Please include your name and mailing address as shown on your catalogue.
+If you sign-up for our catalogue mailing list, we collect your name and mailing address. If you no longer wish to receive Anthropologie catalogues, please [contact us](https://web.archive.org/help/contact-us). Please include your name and mailing address as shown on your catalogue.
 
 We will remove your name from our mailing list as soon as possible. Please recognize that you may receive another catalogue before we are able to remove you.
 
@@ -176,7 +176,7 @@ Your personal information may be stored and processed in the United States by ou
 
 ## Secondary Marketing
 
-We may obtain your permission to share your contact information with carefully selected marketing partners who may contact you by mail or email with offers about products and services that may be of interest to you. You will be able to remove your name from such marketing lists at any other time by contacting us at [800.309.2500](tel:800.309.2500) or [service@anthropologie.com](mailto:service@anthropologie.com). You may also click on the unsubscribe link at the bottom of our emails.
+We may obtain your permission to share your contact information with carefully selected marketing partners who may contact you by mail or email with offers about products and services that may be of interest to you. You will be able to remove your name from such marketing lists at any other time by [contacting us](https://web.archive.org/help/contact-us). You may also click on the unsubscribe link at the bottom of our emails.
 
 ## Legal
 
