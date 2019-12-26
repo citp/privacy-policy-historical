@@ -1,41 +1,92 @@
-> *The following text is extracted and transformed from the vortexoptics.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223141058id_/http%3A//www.vortexoptics.com/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vortexoptics.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226075334id_/https%3A//vortexoptics.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Vortex Optics - Privacy Policy
+# Privacy and Cookie Policy
 
-This Privacy Policy explains what information we collect about you and how we use it.
+This privacy policy sets out how this website (hereafter "the Store") uses and protects any information that you give the Store while using this website. The Store is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. The Store may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-In this Privacy Policy, the “Website” or the “Websites” mean the websites owned by Vortex Optics, including the websites operated at the domain names vortexoptics.com, vortexbirding.com, and vortextactical.com. “The Services” means all the services offered in conjunction with the Websites. “Vortex Optics” means the owner of the Websites and the provider of the Services, namely, Sheltered Wings, Inc. d/b/a Vortex Optics. 
+## What we collect
 
-By using the Websites, you consent to the practices outlined in this Privacy Policy. Vortex Optics reserves the right to change this Privacy Policy, and if we do, any such changes will be included on this page so current privacy information will always be available to you.
+We may collect the following information:
 
-## Personal Information
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-The only personal information collected by Vortex Optics is personal information that is voluntarily provided by users. You do not have to provide us with any personal information to use our Websites, and we don't collect personal information without your knowledge. We don’t sell your personal information to third parties, but we will use your personal information to fulfill requests made by you and for other business purposes of Vortex Optics and any of its successors. We may share your personal information with certain affiliated parties, to provide certain of the Services to you. We may also use your personal information to send you marketing materials or other information about Vortex Optics, its products, or its affiliates.
 
-For example, you may send an email or fill out an online request for information form to request more information from us. The information you provide will be used by us to give you the information you are requesting. We may also use your name, phone number, email address, or home address to send you marketing materials and other information about Vortex Optics, its products, or its affiliates in the future. You may opt-out of receiving any additional information by calling us at (800) 426-0048 or by emailing us at [info@vortexoptics.com](mailto:info@vortexoptics.com).
 
-## Traffic Data and Other Non-Personal Information
+For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
-We automatically collect and store certain non-personal information concerning the traffic to our Websites, including, for example: the browser software you use and your operating system; the date and time you access our sites; and the Internet address of the site from which you linked directly to a Website. We use this information as anonymous aggregate data for business purposes such as to determine the number of visitors to different sections of a Website, to ensure the site is working properly, and to help us make the Website more useful. We also use this information to see where leads are generated from in an attempt to better optimize our ongoing Internet marketing efforts.
+## What we do with the information we gather
 
-At this time, our Websites do not use persistent “cookies” or other tracking mechanisms that collect personally identifying information. We use session cookies to anonymously collect the date and time of the visit. Accepting session cookies on our site is voluntary; you may still use the site if you decline cookies.
+We require this information to understand your needs and provide you with a better service, in particular for the following reasons: 
 
-You may also provide us with other non-personal information. For example, you may provide us with information regarding how you learned about us, or you may provide us with information regarding why you are interested in our products. This information may be used by our marketing and product personnel to better optimize our ongoing marketing and product development efforts.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests. 
 
-## Contests, Sweepstakes or Special Offers
 
-We may offer promotions, contests, or sweepstakes that may require that you enter contact information to qualify for entry. Collected data from promotions, contests, or sweepstakes may be used to process entries, send promotional materials, notify entrants, and may be shared with other companies in connection with these activities. Please make sure to consult the privacy provisions or the official rules of any contest or sweepstakes you enter, as the specific data collection and usage practices may vary by contest or sweepstakes.
-
-## Links
-
-Our Websites may contain links to other websites. Vortex Optics is not responsible for the content or privacy practices of that website or any other linked websites. We encourage our users to be aware when they leave our Websites, and to read the privacy policies of each and every website that collects personal information.
-
-## Third Party Service Providers
-
-Vortex Optics works with certain third parties that provide services on our Websites. When you submit a review, question, or a social media image, those services are processed through BazaarVoice, Inc and Krux Digital. These third parties may collect personal and non-personal information from users of our Websites. We encourage our users to read the privacy policies of any third parties. Vortex Optics is not responsible for the content or privacy practices of any third parties. We will try to keep this policy current with the identity of third party service providers on our Websites, but if you have questions about who provides services for our Websites, please do not hesitate to contact us.
 
 ## Security
 
-When you submit information via our Websites, we take efforts to protect your information both online and offline. Please keep in mind, however, that whenever you give out personal information online, such information is not always secure in transit. While we strive to protect your privacy and secure your information, we cannot guarantee the security of information sent over the Internet, and you disclose such information at your own risk.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-Effective Date: January 11, 2016
+## How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+
+Set your browser to accept cookies so you can buy items, save items, and receive customized recommendations. Here’s how:
+
+  * [Google Chrome](https://support.google.com/accounts/answer/61416?hl=en)
+  * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies)
+  * [Safari](http://support.apple.com/kb/PH19214)
+  * [Mozilla/Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+
+
+
+## Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+
+## Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by letting us know using our [Contact Us](https://web.archive.org/web/20191226075334id_/https%3A//vortexoptics.com/contact) form 
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information we hold, please fill out our [Contact Us](https://web.archive.org/web/20191226075334id_/https%3A//vortexoptics.com/contact) form. 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please contact us using the [Contact Us](https://web.archive.org/web/20191226075334id_/https%3A//vortexoptics.com/contact) form. We will promptly correct any information found to be incorrect. 
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+Cookie Name | Cookie Description  
+---|---  
+FORM_KEY | Stores randomly generated key used to prevent forged requests.  
+PHPSESSID | Your session ID on the server.  
+GUEST-VIEW | Allows guests to view and edit their orders.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history, if you have asked for this.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+MAGE-CACHE-SESSID | Facilitates caching of content on the browser to make pages load faster.  
+MAGE-CACHE-STORAGE | Facilitates caching of content on the browser to make pages load faster.  
+MAGE-CACHE-STORAGE-SECTION-INVALIDATION | Facilitates caching of content on the browser to make pages load faster.  
+MAGE-CACHE-TIMEOUT | Facilitates caching of content on the browser to make pages load faster.  
+SECTION-DATA-IDS | Facilitates caching of content on the browser to make pages load faster.  
+PRIVATE_CONTENT_VERSION | Facilitates caching of content on the browser to make pages load faster.  
+X-MAGENTO-VARY | Facilitates caching of content on the server to make pages load faster.  
+MAGE-TRANSLATION-FILE-VERSION | Facilitates translation of content to other languages.  
+MAGE-TRANSLATION-STORAGE | Facilitates translation of content to other languages.
