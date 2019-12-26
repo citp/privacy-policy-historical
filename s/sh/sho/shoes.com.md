@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625215953id_/https%3A//www.shoes.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226033307id_/https%3A//www.shoes.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Shoes.com - FREE Shipping & Exchanges
 
@@ -29,7 +29,7 @@ We automatically collect information from your browser when you visit our websit
 
   * Cookies.
 
-When you visit our website, we may assign your computer one or more [cookies](https://web.archive.org/web/20190625215953id_/https%3A//www.shoes.com/info/privacy-info#cookies), to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline [cookies](https://web.archive.org/info/privacy-info#cookies), please note that you may not be able to sign in or use some of the interactive features offered on our website.
+When you visit our website, we may assign your computer one or more [cookies](https://web.archive.org/web/20191226033307id_/https%3A//www.shoes.com/info/privacy-info#cookies), to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline [cookies](https://web.archive.org/info/privacy-info#cookies), please note that you may not be able to sign in or use some of the interactive features offered on our website.
 
   * Other Technologies.
 
@@ -109,15 +109,15 @@ There are a number of places on our website where you may click on a link to acc
 
 ## How you can access your information
 
-If you have an online account with us, you have the ability to review and update your personal information online by [logging into your account](https://www.shoes.com/cust/login). You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
+If you have an online account with us, you have the ability to review and update your personal information online by [logging into your account](https://web.archive.org/cust/login). You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
 
 Your choices about collection and use of your information
 
   * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our website.  
 
-  * At any time you can choose to no longer receive commercial or promotional emails from us by accessing [www.shoes.com/info/remove](https://web.archive.org/info/remove) and enter your email address. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them.  
+  * At any time you can choose to no longer receive commercial or promotional emails from us by accessing [https://www.shoes.com/info/remove](https://web.archive.org/info/remove) and enter your email address. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them.  
 
-  * You may tell us not to share your personal information with non-affiliated third parties (i.e. entities outside of Walmart) for direct marketing purposes by accessing [www.shoes.com/info/remove](https://web.archive.org/info/remove) or by sending a written request to the email address or mailing address below:
+  * You may tell us not to share your personal information with non-affiliated third parties (i.e. entities outside of Walmart) for direct marketing purposes by sending a written request to the email address or mailing address below:
 
 [privacy@shoes.com](mailto:privacy@shoes.com)  
 or  
