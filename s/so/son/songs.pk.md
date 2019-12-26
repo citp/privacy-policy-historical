@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songs.pk privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410065357id_/https%3A//songspk.name/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songs.pk privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226202744id_/https%3A//songspk.mobi/page/privacy) for the most accurate reproduction.*
 
 # Songs.PK - Privacy Download Mp3 Songs Desinode.com
 
