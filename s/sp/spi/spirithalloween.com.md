@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114061919id_/https%3A//www.spirithalloween.com/content.jsp%3FpageName%3DSecPriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226055733id_/https%3A//www.spirithalloween.com/content.jsp%3FpageName%3DSecPriv) for the most accurate reproduction.*
 
 # About Us > Security & Privacy - Spirithalloween.com
 
