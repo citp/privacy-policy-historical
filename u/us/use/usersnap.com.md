@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the usersnap.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630011414id_/https%3A//usersnap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usersnap.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226010028id_/https%3A//usersnap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Usersnap
 
 Usersnap has created this privacy statement in order to demonstrate our company commitment to privacy. The following discloses the practice of information gathering and dissemination of this site.
 
-\- Your Consent  
+\- Your consent  
 \- What information we collect about you  
 \- Where do we store your information?  
 \- What do we use your information for?  
@@ -12,7 +12,7 @@ Usersnap has created this privacy statement in order to demonstrate our company 
 \- How long do we keep your information?  
 \- Cookie policy
 
- **Your Consent**  
+ **Your consent**  
 By using our site, in subscribing to our service, or filling in a contact form on our website or other sites owned by Usersnap GmbH, you agree and accept that we process, store and use the personal data submitted in accordance with the rules set forth below. In case you want your personal data removed permanently, please contact us: help@usersnap.com.
 
  **What information do we collect from you?**  
@@ -31,6 +31,12 @@ We collect information about you when you provide it to us, when you use our pro
  **Information about the data we collect for our clients** : Usersnap processes information under the direction of its clients, and has no direct relationship with the individuals whose personal data it processes. Usersnap helps its clients to provide the necessary information to inform their customers about the nature and purpose of Usersnap and the collected information, if required. We may collect personally identifiable information such as first and last name, zip code, phone number, e-mail address, professional title and company name from our customers and their clients.
 
  **Website data and information our product collects:** The Usersnap widget collects the content of the website it is activated on. "Website data" means the state of the website including all user-entered information. This information is being transmitted to Usersnap's servers (including the DOM, CSS and Javascript code of the website's current state). Moreover, information about the environment such as browser version, browser type, operating system, operating system's version number, screen resolution, and other similar data related to the current state of the website is included. Added annotations, remarks or any other information using the Usersnap widget, is also being included and transferred. We are collecting this information on behalf of our clients and we do not have a direct relationship with the individuals whose personal data we process.
+
+ **Newsletter and other email communication  
+** If you enter your personal information like email, name, company, company data, phone number, or similar to enable us to get in contact with you, send you regular email or chat communication (like newsletter) or any similar form of communication, you give us the right to store your personal information. Additionally, you allow us to send you regular information, marketing material, product promotions. We will not hand over your personal data to any third party or partner with which we don't have a data processing agreement. Even then, this data is only used for analytical or retargeting purposes. Whenever you want us to stop communicating with you, just inform us by unsubscribing or sending us an email to help@usersnap.com. 
+
+**Product features sending emails  
+** By signing up for our product or subscribing to any communication feature (like "Guestlist") you grant us the right to store your personal information and allow us to get in contact with you for sending further information on products, and other promotional information. If you want to be removed from any communication, just inform us by unsubscribing or sending us an email to help@usersnap.com.
 
  **Where do we store your information?**  
 The host servers on which Usersnap processes and stores its databases are located exclusively within the GDPR compliant areas.Usersnap will inform you immediately, to the extent we are legally authorised to do so, in case of any application or order originating from an administrative or judicial authority relating to your personal data.
