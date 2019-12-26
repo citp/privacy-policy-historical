@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eslbase.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008130418id_/https%3A//www.eslbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eslbase.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226012423id_/https%3A//www.eslbase.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Eslbase.com
 
@@ -106,7 +106,7 @@ At the point of payment, you are transferred to a secure page on the website of 
 
 **Information we process because we have a legal obligation**
 
-We may process any of your data identified in this policy in order to comply with a legal obligation, or in order to protect your vital interests or the vital interests of another natural person. This may include your personal information.
+We may process, including disclosing to third parties, any of your data identified in this policy, if we are under a duty to do so in order to comply with a legal obligation, or in order to protect your vital interests or the vital interests of another natural person. This may include your personal information.
 
 **Other information we may process**
 
