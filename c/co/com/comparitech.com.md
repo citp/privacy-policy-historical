@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the comparitech.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529013316id_/https%3A//www.comparitech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparitech.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226191248id_/https%3A//www.comparitech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Comparitech
 
-This is the Privacy Policy (the **‘Policy’** ) of Comparitech Limited, company number 09962280, of Kings Lodge London Road, West Kingsdown, Sevenoaks, Kent, TN15 6AR (hereafter ‘ **Comparitech** ’, ‘ **we** ’ or ‘ **us** ’). This Policy describes the ways in which Comparitech collects and uses information about you when you use our website at [www.comparitech.com](http://www.comparitech.com/) (the “ **Website** ”).
+This is the Privacy Policy (the **‘Policy’** ) of Comparitech Limited, company number 09962280, of Suite 3 Falcon Court Business Centre, College Road, Maidstone, Kent, ME15 6TF, United Kingdom (hereafter ‘ **Comparitech** ’, ‘ **we** ’ or ‘ **us** ’). This Policy describes the ways in which Comparitech collects and uses information about you when you use our website at [www.comparitech.com](http://www.comparitech.com/) (the “ **Website** ”).
 
 Comparitech may change this Policy at any time in which case we shall notify you of any changes to this Policy by noting this on the Website. The changes will apply to your use of the Website after we have given notice. If you do not wish to accept the new Policy you should not continue to use the Website. If you continue to use the Website after the date on which the change comes into effect, your use of the Website indicates your agreement to be bound by the new Policy.
 
