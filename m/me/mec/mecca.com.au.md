@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mecca.com.au privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506110755id_/https%3A//www.mecca.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mecca.com.au privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226125824id_/https%3A//www.mecca.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Service | MECCA
 
-The products and services are provided, and ‘our’ websites are provided, by MECCA Brands Pty Ltd (ACN 077 859 931) (‘ **we** ’, ‘ **us** ’ or ‘ **our** ’). ‘We’ are committed to supporting the 'Australian Privacy Principles' and complying with the Privacy Act 1988 (Cth), which has set clear standards and guidelines for the collection, access, storage and use of Personal Information (‘ **Personal Information** ’) which ‘we’ may obtain during the course of ‘our’ dealings with you. ‘Our’ Privacy Policy sets out, in general terms, matters of which you should be aware regarding the Personal Information ‘we’ may collect about you, ‘our’ policies on the management of personal information, how you may access Personal Information that ‘we’ keep or complain about a suspected privacy breach, and generally, what sort of information ‘we’ collect and how ‘we’ hold, use and disclose that information. When you provide ‘us’ with Personal Information (whether via one of ‘our’ websites, in store, through any of ‘our’ promotions, or otherwise), ‘we’ respect your privacy. It is important for you to understand what information ‘we’ collect about you and what ‘we’ do with your information.
+The products and services are provided, and ‘our’ websites are provided, by MECCA Brands Pty Ltd (ACN 077 859 931) (‘we’, ‘us’ or ‘our’). ‘We’ are committed to supporting the 'Australian Privacy Principles' and complying with the Privacy Act 1988 (Cth), which has set clear standards and guidelines for the collection, access, storage and use of Personal Information (‘Personal Information’) which ‘we’ may obtain during the course of ‘our’ dealings with you. ‘Our’ Privacy Policy sets out, in general terms, matters of which you should be aware regarding the Personal Information ‘we’ may collect about you, ‘our’ policies on the management of personal information, how you may access Personal Information that ‘we’ keep or complain about a suspected privacy breach, and generally, what sort of information ‘we’ collect and how ‘we’ hold, use and disclose that information. When you provide ‘us’ with Personal Information (whether via one of ‘our’ websites, in store, through any of ‘our’ promotions, or otherwise), ‘we’ respect your privacy. It is important for you to understand what information ‘we’ collect about you and what ‘we’ do with your information.
 
 * * *
 
 ##### 1\. THE PERSONAL INFORMATION WE COLLECT FROM YOU
 
-We do not collect Personal Information about you, except when you provide it to us. We collect and use Personal Information from customers, users or visitors of our websites, social medial channels, products or services. The type of Personal Information that we collect and use depends on the type of dealings that you have with us and can include your name, address, telephone number, e-mail address, postal or delivery address, date of birth, billing information (such as credit card and bank account details), information about the products and services you have ordered or enquired about and your beauty profile. If you would prefer that we do not collect any Personal Information from you, please do not provide us with any such information.
+We collect and use Personal Information from customers, users or visitors of our websites, social medial channels, products or services. The type of Personal Information that we collect and use depends on the type of dealings that you have with us and can include your name, address, telephone number, e-mail address, postal or delivery address, date of birth, billing information (such as credit card and bank account details), proof of identity information and documents, information about the products and services you have ordered or enquired about and your beauty profile. If you would prefer that we do not collect any Personal Information from you, please do not provide us with any such information.
 
 When you submit your Personal Information to us, or by using, browsing or accessing our websites or social media channels, you are giving your consent to the collection, use and disclosure of your Personal Information as set forth in this Privacy Policy.
 
@@ -46,10 +46,10 @@ We use your Personal Information for the purposes for which the information is c
 
 By providing your Personal Information to us, you acknowledge that, and consent to the following:
 
-  4. We may collect and use your Personal Information for the purpose disclosed to you.
-  5. You are authorised to provide such information to us.
-  6. Any information provided may be disclosed on a confidential basis to our third party contractors, agents or suppliers.
-  7. Information provided to us in the process of us providing a product or service to you, may be used by us for recruitment or job opportunity purposes.
+  1. We may collect and use your Personal Information for the purpose disclosed to you.
+  2. You are authorised to provide such information to us.
+  3. Any information provided may be disclosed on a confidential basis to our third party contractors, agents or suppliers.
+  4. Information provided to us in the process of us providing a product or service to you, may be used by us for recruitment or job opportunity purposes.
 
 
 
@@ -79,7 +79,7 @@ Where we have your express or implied consent, or where we are otherwise permitt
 
 If you do not wish to receive direct marketing communications from us, you may opt-out at any time by: (a) using the unsubscribe facility that we include in our commercial electronic messages (ie email or SMS); (b) [Contacting Us](https://www.mecca.com.au/contact-us.html); or (c) calling us on **1800 007 844 (Australia)**  or  **0800 882 443 (New Zealand)**. This may not remove you from any customer rewards programs or remove you from receiving any social media or other online channels communications or customised online content advertised or displayed on our website or social media channels.
 
-To opt out of all communications from us, including communications regarding our customer rewards programs, you may opt out by notifying us, that you wish to opt out of all communications, in store or contacting us [here](https://www.mecca.com.au/contact-us.html) or calling  **1800 007 844 (Australia)**  or  **0800 882 443 (New Zealand)**. If you opt out of all communications, this will also remove you from receiving any email or direct mail communications from us (including communications about customer reward programs such as Mecca Beauty Loop). In these circumstances and for client management purposes, we will not delete your client file and this can still be accessed for making purchases in store or via our websites. Further, opting out of communications about customer reward programs such as Mecca Beauty Loop will not have the effect of removing you from that program.
+To opt out of all communications from us, including communications regarding our customer rewards programs, you may opt out by notifying us, that you wish to opt out of all communications, in store or contacting us [here](https://www.mecca.com.au/contact-us.html) or calling  **1800 007 844 (Australia)**  or  **0800 882 443 (New Zealand)**. If you opt out of all communications, this will also remove you from receiving any email or direct mail communications from us (including communications about customer reward programs such as Mecca Beauty Loop). In these circumstances and for client management purposes, we will not delete your client file and this can still be accessed for making purchases in store or via our websites. Further, opting out of communications about customer reward programs such as Mecca Beauty Loop will not have the effect of removing you from that program.
 
 * * *
 
@@ -95,7 +95,9 @@ Access to and use of Personal Information within our organization is limited by 
 
 **a. Compliance with laws and fraud protection**
 
-We may disclose any information, including Personal Information to law enforcement bodies or regulatory authorities to assist with their functions, courts of law or as otherwise required or authorised by law.. We may also exchange information, including Personal Information, with other companies and organizations for credit fraud protection and risk reduction.
+We may disclose any information, including Personal Information to law enforcement bodies or regulatory authorities to assist with their functions, courts of law or as otherwise required or authorised by law. 
+
+We may also exchange information, including Personal Information, with other companies and organizations for credit fraud protection and risk reduction. This may occur in several instances, including when your bank or other financial institution requests proof of authorisation of a payment.
 
 **b. Service providers**
 
@@ -107,7 +109,7 @@ Prior to the disclosure of Personal Information to a person overseas, we will ta
 
 **c. Special events**
 
-If you elect to participate in any promotions, competitions, sweepstakes, surveys, questionnaires or other events, the rules or terms and conditions for those events may indicate that your Personal Information will be shared with third parties. By choosing to participate and submitting your Personal Information in that manner, you consent to disclosure of your Personal Information to such third parties. We are not responsible for
+If you elect to participate in any promotions, competitions, sweepstakes, surveys, questionnaires or other events, the rules or terms and conditions for those events may indicate that your Personal Information will be shared with third parties. By choosing to participate and submitting your Personal Information in that manner, you consent to disclosure of your Personal Information to such third parties. We are not responsible for and expressly disclaim all liability for any use of the information provided to such third parties.
 
 * * *
 
@@ -122,6 +124,10 @@ Despite our reasonable steps, we are unable to ensure or warrant the security of
 ##### 10\. COOKIES AND IP ADDRESSES
 
 A cookie is a piece of data that enables us to track and target your preferences. We may use cookies to enable us to identify you as a return user and personalize and enhance your experience and your use of any of our sites. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to warn you before accepting cookies. If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. If you reject our cookies, you may still use our site, but you may be limited in the use of some of the features. We use cookies to help us improve our service to you when you access our site and to ensure that our site remains easy to use and navigate. We may also use IP addresses to analyse trends, administer our sites, track traffic patterns, and gather demographic information for aggregate use, as well as in combination with your Personal Information for credit fraud protection and risk reduction.
+
+Services that our website may use from time to time include Google Analytics, which transmits website traffic data to Google servers. Google Analytics does not identify individual users or associate your IP address with any other data held by Google. We use reports provided by Google Analytics to help us understand traffic and usage on our website. By using our website, you consent to Google processing your data in the manner described in [Google's Privacy Policy](https://policies.google.com/privacy) and for the purposes set out in this policy. 
+
+Google may pass on cookies to its partners and other third parties to achieve its purposes. For more information on how Google uses the information collected from cookies, please see [this section](https://policies.google.com/technologies/partner-sites) of Google’s Privacy Policy.
 
 * * *
 
@@ -143,7 +149,7 @@ Proof of identity is required before such information will be provided. For most
 
 ##### 13\. RESOLVING YOUR PRIVACY ISSUES
 
-If you have any issues you wish to raise with us regarding, or would like to discuss any issues about, our Privacy Policy, please [Contact Us](https://www.mecca.com.au/contact-us.html) or by calling  **1800 007 844 (Australia)**  or  **0800 882 443 (New Zealand)**  with your issues or queries.
+If you have any issues you wish to raise with us regarding, or would like to discuss any issues about, our Privacy Policy, please [Contact Us](https://www.mecca.com.au/contact-us.html) or by calling  **1800 007 844 (Australia)**  or  **0800 882 443 (New Zealand)**  with your issues or queries.
 
 * * *
 
