@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantpot.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620203801id_/https%3A//instantpot.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantpot.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227002242id_/https%3A//instantpot.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Instant Pot
 
@@ -22,6 +22,6 @@ We store your personal data in Canada and with AWS under the highest data securi
 
 To learn more, you can [_click here_](https://instantpot.com/privacy-policy-instant-pot/) to read our Privacy Policy.
 
-**Contact**
+ **Contact**
 
 You can access your data, have it deleted or ask further questions on how we use it and protect it at [Privacy@InstantPot.com](mailto:Privacy@InstantPot.com).
