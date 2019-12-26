@@ -1,56 +1,41 @@
-> *The following text is extracted and transformed from the branders.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527132452id_/http%3A//www.branders.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the branders.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226233407id_/https%3A//www.discountmugs.com/nc/privacy.php) for the most accurate reproduction.*
 
-# Promotional Products & Promo Items - Tradeshow Giveaways
+# DiscountMugs.com Privacy Policy – DiscountMugs Privacy Policy – Discount Mugs Privacy Policy
 
-Branders.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy popcy.By visiting Branders.com, you are accepting the practices described in this Privacy Notice.
+Discountmugs Privacy Policy
 
-**What Personal Information About Customers Does Branders.com Gather?**   
-The information we learn from customers helps us personapze and continually improve your shopping experience at Branders.com. Here are the types of information we gather.
+Discountmugs respects the privacy of anyone who uses a Discountmugs Web site and a Discountmugs online applications (Discountmugs Order Form, Discountmugs Fax Order Form)
 
-You might also pke : [promotional advertising items](https://www.branders.com/category/advertising-giveaways/), [customised sweatpant](https://www.branders.com/category/custom-sweatpants/), [wholesale sunglass](https://www.branders.com/category/custom-sunglasses/)
+Discountmugs gathers important information from our visitors and customers. We publish this Privacy Policy to communicate how we gather and use information about you, how we protect it, and how you can participate in its protection.
 
-**Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Branders.com is in the practice of collecting the following information: phone, email, company name, quotes, projects, and order information. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide exclusively for the purpose of responding to your requests and communicating with you.
+Discountmugs.com will, from time-to-time, e-mail members of our e-mail list with special promotions and offers. This will help you take advantage of savings on products that may be of interest to you. If you do not wish to receive promotional e-mails, you can unsubscribe your email by following this link: [Unsubscribe My Email](https://web.archive.org/nc/email-unsubscribe.php). Removals are usually done within 24 hours. However, to ensure that the unsubscribe process has been completed successfully,.... read more
 
-**Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, pke many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses Branders.com. The automatic information we receive and store is: user login and password. Although we will not be able to provide you with a personapzed experience at Branders.com if we cannot recognize you, we want you to be aware that these tools exist.
+Collected Information
 
-**E-mail Communications:** Your email address is used by Branders.com exclusively to communicate new products and services and special offers that are available to you, to communicate to you regarding your order or potential order, and/or to notify you of material changes to Branders.com privacy popcy. If you do not want to receive e-mail or other mail from us, please adjust your My Accounts Page.
+We require people who register to use a Discountmugs online applications (the "Services") to give us contact information. Depending on the services chosen, we ask for contact and account information, such as name, company name, address, phone number, e-mail address, password and the number of users in the organization who will be using the Services, in addition to financial and billing information, such as billing name, address and credit card number. When you express interest in additional information, when you register for the Services, or after you become a user, we may ask for additional personal information, such as title, department name, fax number or additional company information, such as annual revenues, number of employees or industry. You can opt out of providing additional information by not entering it when asked.....read more
 
-**What About Cookies?**  
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as personapzed greetings, and storage of items in your Projects, Artwork, and Quotes folders between visits.
+Cookies
 
-**Does Branders.com Share the Information It Receives?**  
-Information about our customers is an important part of our business, and we are not in the business of selpng it to others. We share customer information only as described below.
+Cookies are files Web browsers place on a computer's hard drive. They are used to help us authenticate clients and provide timesaving shortcuts and preferences. Discountmugs uses a persistent encrypted cookie, if the client requests, to save and retrieve individual authentication information as well as other per-client device preferences. When a visitor follows a link to the Discountmugs Web site from an affiliate or promotion, Discountmugs stores information about that affiliate or promotion in a session cookie. Acceptance of these cookies is optional. Discountmugs issues a mandatory session cookie,.....read more
 
-Agents: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilpng orders, depvering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+Third Party Sites
 
-Protection of Branders.com and Others: We release account and other personal information when we bepeve release is appropriate to comply with the law; or protect the rights, property, or safety of Branders.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selpng, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
+The Discountmugs Web site and online applications contain links to other Web sites. Discountmugs is not responsible for the privacy practices or the content of these other Web sites. Customers and visitors must check the policy statement of these others Web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is your responsibility to keep such information private and confidential.
 
-**How Secure Is Information About Me?**
+Security
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
+Discountmugs has security measures in place for the Services to help protect against the loss, misuse and alteration of the data under Discountmugs's control. When the Services are accessed using Netscape Navigator, or Microsoft Internet Explorer versions 4.0 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure data is safe, secure and available only to you. Discountmugs also implements an advanced security method based on dynamic data and encoded session identifications and hosts the Services in a secure server environment using a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, Discountmugs requires unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy and ensure the appropriate use of data.
 
-We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. This information is transmitted using industry standard encryption techniques.
+Security
 
-The Systems that store the information you provide to us exist behind firewalls.
+Discountmugs offers you a means to choose how we may use information you provided. If, at any time after registering for information or ordering the Services, you change your mind about receiving information from us or about sharing information with third parties, send us a request specifying your new choice. Send your request to [support@discountmugs.com.](mailto:support@discountmugs.com)
 
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer by hitting Logout at the top of the page.
+Correcting and Updating Your Information
 
-**Which Information Can I Access?**  
-Branders.com gives you access to all personal and/or company information about your account and your interactions with Branders.com for the pmited purpose of viewing and, in certain cases, updating that information. In order to view, review, and/or update/change any personal or company information, please go to My Account Page.
+To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a Discountmugs Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [support@discountmugs.com](mailto:support@discountmugs.com) or by calling 1-800-579-7152.[](mailto:support@discountmugs.com)
 
-**What Choices Do I Have?**
+Additional Information
 
-As mentioned above, you can add or update certain information on your My Account Page.
+Questions regarding this Privacy Policy or the security practices of the Services should be directed to Discountmugs's Security Administrator by e-mailing[ support@discountmugs.com](mailto:%20support@discountmugs.com)
 
-If you do not want to receive e-mail or other mail from us, please adjust your Preferences on your My Account Page, (If you do not want to receive legal notices from us, such as this Privacy Notice, those notices will still govern your use of Branders.com, and it is your responsibipty to review them for changes.)
-
-The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use such important features as our personapzed home page if you do not use cookies.
-
-**Conditions of Use, Notices, and Revisions**  
-If you choose to visit Branders.com, your visit and any dispute over privacy is subject to this Notice. If you have any concern about privacy at Branders.com, please contact us with a thorough description, and we will try to resolve it.
-
-Other products we also recommend : [business logo on sunglasses](https://www.branders.com/category/custom-sunglasses/), [marketing toys](https://www.branders.com/category/logo-toys-and-games/)
-
-Our business changes constantly and our Privacy Notice will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice apppes to all information that we have about you and your account.
-
-_This Privacy Policy has been in effect since January 1, 2001_
+Last updated November 1, 2019
