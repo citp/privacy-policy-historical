@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejournal.ie privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607001933id_/https%3A//www.thejournal.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejournal.ie privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226050855id_/https%3A//www.thejournal.ie/privacy) for the most accurate reproduction.*
 
 # TheJournal.ie - Read, Share and Shape the News
 
