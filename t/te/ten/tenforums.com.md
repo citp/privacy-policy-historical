@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenforums.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628084648id_/https%3A//www.tenforums.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenforums.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226095418id_/https%3A//www.tenforums.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Windows 10 Help Forums - Privacy Policy
 
@@ -172,7 +172,7 @@ in each case, in accordance with this privacy policy.
     * a. access to your account is controlled by a password and a user name that is unique to you.
     * b. we store your Data on secure servers.
 15.
-  * Technical and organisational measures include measures to deal with any suspected data breach. If you suspect any misuse or loss or unauthorised access to your Data, please let us know immediately by contacting us via this e-mail address: support@designermedia.com.
+  * Technical and organisational measures include measures to deal with any suspected data breach. If you suspect any misuse or loss or unauthorised access to your Data, please let us know immediately by contacting us via this e-mail address: [[email protected]](https://www.tenforums.com/cdn-cgi/l/email-protection)
 16.
   * If you want detailed information from Get Safe Online on how to protect your information and your computers and devices against fraud, identity theft, viruses and many other online problems, please visit www.getsafeonline.org. Get Safe Online is supported by HM Government and leading businesses.
 
@@ -198,7 +198,7 @@ in each case, in accordance with this privacy policy.
     * e. **Right to data portability** \- the right to request that we move, copy or transfer your Data.
     * f. **Right to object** \- the right to object to our use of your Data including where we use it for our legitimate interests.
 20.
-  * To make enquiries, exercise any of your rights set out above, or withdraw your consent to the processing of your Data (where consent is our legal basis for processing your Data), please contact us via this e-mail address: support@designermedia.com.
+  * To make enquiries, exercise any of your rights set out above, or withdraw your consent to the processing of your Data (where consent is our legal basis for processing your Data), please contact us via this e-mail address: [[email protected]](https://www.tenforums.com/cdn-cgi/l/email-protection)
 21.
   * If you are not satisfied with the way a complaint you make in relation to your Data is handled by us, you may be able to refer your complaint to the relevant data protection authority. For the UK, this is the Information Commissioner's Office (ICO). The ICO's contact details can be found on their website at https://ico.org.uk/.
 22.
@@ -314,7 +314,7 @@ These cookies record your visit to our website, the pages you have visited and t
 43.
   * Designer Media Ltd reserves the right to change this privacy policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Website and you are deemed to have accepted the terms of the privacy policy on your first use of the Website following the alterations.
 
-You may contact Designer Media Ltd by email at support@designermedia.com.
+You may contact Designer Media Ltd by email at [[email protected]](https://www.tenforums.com/cdn-cgi/l/email-protection)
 
 
 
