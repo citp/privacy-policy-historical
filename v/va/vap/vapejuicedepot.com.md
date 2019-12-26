@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vapejuicedepot.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514231313id_/https%3A//vapejuicedepot.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapejuicedepot.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226015517id_/https%3A//vapejuicedepot.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy VapeJuiceDepot
 
 WARNING: This product contains nicotine. Nicotine is an addictive chemical. 
 
