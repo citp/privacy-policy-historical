@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the advantech.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502073733id_/https%3A//www.advantech.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advantech.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226213625id_/https%3A//www.advantech.com/legal/privacy) for the most accurate reproduction.*
 
-# Advantech Privacy Statement - Advantech
+# Advantech - industrial computer , embedded computer, industrial automation, industrial motherboard, network security appliance, digital video surveillance, panel PC, industrial IO.
 
   
 Last Updated:  May 2018
