@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the balglobal.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617130548id_/http%3A//www.balglobal.com/terms-of-use-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balglobal.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226081657id_/https%3A//www.balglobal.com/terms-of-use-and-privacy-policy) for the most accurate reproduction.*
 
 # Terms of use and privacy policy - B A L | Berry Appleman & Leiden LLP
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=cd0ba536-08d1-4698-891f-37acbfdde3eb "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=cd0ba536-08d1-4698-891f-37acbfdde3eb)
 
 **PRIVACY AND COOKIES POLICY**
 
@@ -14,7 +14,7 @@ Effective Date: 10/15/2018
 
 Berry Appleman and Leiden LLP is a limited liability partnership organized under the laws of the State of California and has offices in Austin, Boston, Dallas, Houston, McLean, Va., New York City, San Francisco and Washington, D.C. (together referred to as “ **BAL** ” or “ **we,** ” “ **our,** ” or “ **us** ”).
 
-This Privacy and Cookies Policy describes how BAL collects Personal Data (defined below) through various means, including questionnaires, [**www.balglobal.com**](http://www.balglobal.com/) (the “Website”) and its secured access sites, including, but not limited to **cobalt.balglobal.com** **(the “Secured Access Sites”),** and BAL’s use of that Personal Data. This Privacy and Cookies Policy applies to Personal Data collected by BAL including, but not limited to all Websites and/or Secured Access Sites that post a link to this Privacy and Cookies Policy.
+This Privacy and Cookies Policy describes how BAL collects Personal Data (defined below) through various means, including questionnaires, [**www.balglobal.com**](https://www.balglobal.com/) (the “Website”) and its secured access sites, including, but not limited to **cobalt.balglobal.com** **(the “Secured Access Sites”),** and BAL’s use of that Personal Data. This Privacy and Cookies Policy applies to Personal Data collected by BAL including, but not limited to all Websites and/or Secured Access Sites that post a link to this Privacy and Cookies Policy.
 
 Personal Data means any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to physical, psychological, genetic, mental, economic, cultural or social identity of that natural person.  Sensitive Personal Data means information that reveals racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, data concerning health and data concerning a natural person’s sex life or sexual orientation.
 
@@ -127,15 +127,15 @@ BAL may share your Personal Data:
 
 The Personal Data that you give us, that we collect from you and that we get from third parties may be transferred to, and stored at, a destination within the United States.  This Personal Data may be processed by staff operating at such destinations.  We will take all steps reasonably necessary to ensure that your Personal Data is treated securely, and in accordance with this Privacy and Cookies Policy, and to prevent unauthorized disclosure of Personal Data.
 
-Please be aware that the United States may not provide the same level of protections as the laws of your country.  BAL is certified under the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework.  Please see Section 10 below for more information about
-
-this.
+Please be aware that the United States may not provide the same level of protections as the laws of your country.  BAL is certified under the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework.  Please see Section 10 below for more information about this.
 
   6. **Security**
 
 
 
-To guard your Personal Data, we maintain physical, electronic and procedural safeguards.
+To guard your
+
+Personal Data, we maintain physical, electronic and procedural safeguards.
 
 BAL may implement security features to prevent the unauthorized release of Personal Data. Please note, however, that BAL cannot guarantee the confidentiality of any communication or material transmitted to/from BAL via the Website or email. Accordingly, BAL is not responsible for the security of Personal Data transmitted via the Internet and any transmission is at your own risk.
 
