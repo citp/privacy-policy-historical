@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the rapgenius.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629210320id_/https%3A//genius.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapgenius.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227011902id_/https%3A//genius.com/static/privacy_policy) for the most accurate reproduction.*
 
 # Genius | Song Lyrics & Knowledge
+
+* * *
+
+#### We will be updating our Privacy Policy on January 1, 2020. Please click [here](https://genius.com/static/privacy_policy_new) to review the new Privacy Policy.
+
+* * *
 
 Effective Date: 05/25/2018
 
