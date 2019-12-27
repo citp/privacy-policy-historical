@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ritual.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617061829id_/https%3A//ritual.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritual.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227215445id_/https%3A//ritual.com/privacy-policy) for the most accurate reproduction.*
 
 # Ritual | Privacy Policy
 
@@ -46,7 +46,7 @@ We use this information to:
 
 
 
-To review and update your personal information to ensure it is accurate, contact us at: my@ritual.com.
+To review and update your personal information to ensure it is accurate, contact us at: [my@ritual.com](mailto:my@ritual.com "Email Ritual").
 
 ### Information Sharing
 
@@ -72,7 +72,7 @@ Some of our services may enable you to post content to social networking sites a
 
 ### Choice/Opt-Out
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or contacting us at my@ritual.com. You may change any of your personal information in your account by editing your profile within your account or by sending an e-mail to us at the e-mail address set forth above. You may request deletion of your personal information by us, and we will use commercially reasonable efforts to honor your request, but please note that we may be required to keep such information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may also retain your information for fraud or similar purposes.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or contacting us at [my@ritual.com](mailto:my@ritual.com "Email Ritual"). You may change any of your personal information in your account by editing your profile within your account or by sending an e-mail to us at the e-mail address set forth above. You may request deletion of your personal information by us, and we will use commercially reasonable efforts to honor your request, but please note that we may be required to keep such information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may also retain your information for fraud or similar purposes.
 
 ### Cookies and Other Tracking Technologies
 
