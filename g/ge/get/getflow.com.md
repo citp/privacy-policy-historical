@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getflow.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405130609id_/https%3A//www.getflow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getflow.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227064047id_/https%3A//www.getflow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Flow
 
