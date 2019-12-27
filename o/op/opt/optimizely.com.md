@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624202306id_/https%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227234239id_/https%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Privacy Policy
 
-_Effective June 05, 2019_
+_Effective Nov. 08, 2019_
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=c986278b-552c-4ed2-aaa5-bff30ff73306)
 
 Our previous Privacy Policy is [available here](https://www.optimizely.com/legal/archives/)
 
-Optimizely, Inc. and its subsidiaries and affiliates (“ **Optimizely** ”, “ **we** ”, or “ **us** ”) knows that you value your privacy. This privacy policy explains the information we collect through the websites available via optimizely.com and its subdomains as well as through other Optimizely-managed websites or pages where this privacy policy is posted or linked (collectively, the “ **Sites** ”). This policy also describes the information collected from or on behalf of end users of our software-as-a-service products (the “ **Optimizely Services** ”).
+Optimizely, Inc. and its subsidiaries and affiliates (“ **Optimizely** ”, “ **we** ”, or “ **us** ”) knows that you value your privacy. This privacy policy explains the information we collect through the websites available via optimizely.com and its subdomains as well as through other Optimizely-managed websites or pages where this privacy policy is posted or linked (collectively, the “ **Sites** ”). This policy also describes the information collected from or on behalf of end users of our software-as-a-service products (the “ **Optimizely Services** ”). This policy describes how the above information is collected, used, shared, and secured, as well as your related choices regarding use, access and correction.
 
 This policy does not apply to the information Optimizely receives from the third-party websites, mobile apps and other digital products that use the Optimizely Services. When our customers use the Optimizely Service on their own websites and products, they remain responsible for their own privacy and security practices, which may differ from ours. You should consult the relevant privacy policies on our customers' websites and products to find out more about their privacy practices and your related choices. For more information, please consult [Opt Out of Optimizely Tracking](https://www.optimizely.com/opt_out).
 
@@ -85,7 +85,7 @@ We may use the information collected to:
 
 
 
-We also use non-personally identifiable information, such as usage data and aggregated data, for other lawful purposes, such as to create blog posts and content that others may find useful. 
+We also use anonymous information, such as usage data and aggregated data, for other lawful purposes, such as to create blog posts and content that others may find useful. 
 
 ## 4\. Sharing Information with Others
 
@@ -97,7 +97,7 @@ We do not share your personal information outside of Optimizely except in certai
 
     * Choose to share your personal information with third parties or their sites or platforms, such as when you share one of our blog posts to your social media feed;
 
-    * Publish information publicly on our Site or the Optimizely Services. Any such personal information will be available to others; or
+    * Publish information publicly on our Site or the Optimizely Services. Any such personal information shared by you will be available to others who may collect or use it; or
 
     * Use third-party features on our Site or the Optimizely Service, such as commenting features run by third-parties; 
 
@@ -114,7 +114,7 @@ We do not share your personal information outside of Optimizely except in certai
 
 
 
-We may also share non-personally identifiable information and aggregate information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) for other business purposes. For instance, we may share aggregate reports with interested third parties to help them understand the usage patterns for certain Optimizely Services or for our Sites or those of our partners. 
+We may also share anonymous information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) for other business purposes. For instance, we may share aggregate reports with interested third parties to help them understand the usage patterns for certain Optimizely Services or for our Sites or those of our partners. 
 
 ## 5\. Your Controls and Choices
 
@@ -149,11 +149,11 @@ Optimizely is concerned about the security of your data. We have implemented tec
 
 Please be aware, though, that despite our efforts, no security measures are perfect or impenetrable. We cannot ensure, and do not warrant or guarantee, that the information you transmit to Optimizely will remain secure, nor do we guarantee that this information will not be accessed, disclosed, altered, destroyed or used in an unauthorized manner. 
 
-If we learn of a security breach, we may attempt to notify you electronically so that you can take appropriate protective steps. We may also post a notice on the Site or Optimizely Services if a security breach occurs. Depending on where you live, you may have a legal right to receive a notice of a security breach in writing. 
+If we learn of a security breach, we may attempt to notify you electronically so that you can take appropriate protective steps. We may also post a notice on the Site or Optimizely Services if a security breach occurs. Depending on where you live, you may have a legal right to receive a notice of a security breach in writing. If you have any questions about the security of your personal information, please contact us as indicated in the ‘Contact Us’ section below. 
 
 ## 9\. Data Retention
 
-How long we keep the personal information we collect depends on the type of information, the purpose for which it is used, how sensitive it is, and similar factors. In general, we will retain your personal information for the length of time reasonably needed to fulfill the purposes outlined in this privacy policy (including for as long as need to provide you or our customer with products and services), unless a longer retention period is required or permitted by law. We will also retain and use your information for as long as necessary to resolve disputes and/or enforce our rights and agreements. We retain your account information for the Optimizely Services for as long as your employer’s account is active and thereafter unless your employer requests deletion. Non-personally identifiable and aggregated information may be stored indefinitely. 
+How long we keep the personal information we collect depends on the type of information, the purpose for which it is used, how sensitive it is, and similar factors. In general, we will retain your personal information for the length of time reasonably needed to fulfill the purposes outlined in this privacy policy (including for as long as need to provide you or our customer with products and services), unless a longer retention period is required or permitted by law. We will also retain and use your information for as long as necessary to resolve disputes and/or enforce our rights and agreements. We retain your account information for the Optimizely Services for as long as your employer’s account is active and thereafter unless your employer requests deletion. Anonymous and aggregated information may be stored indefinitely. 
 
 ## 10\. Third Party Sites, Services and Applications
 
@@ -176,7 +176,7 @@ How long we keep the personal information we collect depends on the type of info
 
 Optimizely, Inc. participates in and has certified its compliance with the EU - U.S. Privacy Shield and Swiss - U.S. Privacy Shield Frameworks. Optimizely is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about each Privacy Shield Framework, visit [the U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
 
-In certain circumstances, Optimizely is responsible for the processing of personal data it receives under the EU - U.S. and Swiss - U.S. Privacy Shield frameworks and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. 
+Optimizely is responsible for the processing of personal data it transfers to a third party acting as an agent on its behalf when such data has been received under the EU - U.S. and Swiss - U.S. Privacy Shield frameworks, to the extent provided by the EU - U.S. and Swiss - U.S. Privacy Shield frameworks. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. 
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Optimizely is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain situations, Optimizely may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -223,7 +223,7 @@ EEA and Swiss data subjects can contact Optimizely’s data protection officer b
 
 ## 12\. Do Not Track and Cross-Site Tracking
 
-Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. For information about Do Not Track, visit [www.allaboutdnt.org](https://web.archive.org/web/20190624202306id_/https://www.optimizely.com/privacy/www.allaboutdnt.org). At this time, we do not respond to Do Not Track browser settings or signals. In addition, some of our advertising partners, and other third-party services and tools on our Site and/or the Optimizely Service, may use standard technologies, such as cookies, pixel tags, and web beacons, to collect information about your internet activities across websites. You may be able to disable certain third-party cross-site tracking as described in the "Your Choices" section above. 
+Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. For information about Do Not Track, visit [www.allaboutdnt.org](https://web.archive.org/web/20191227234239id_/https://www.optimizely.com/privacy/www.allaboutdnt.org). At this time, we do not respond to Do Not Track browser settings or signals. In addition, some of our advertising partners, and other third-party services and tools on our Site and/or the Optimizely Service, may use standard technologies, such as cookies, pixel tags, and web beacons, to collect information about your internet activities across websites. You may be able to disable certain third-party cross-site tracking as described in the "Your Choices" section above. 
 
 ## 13\. Changes to Our Privacy Policy; Notices
 
