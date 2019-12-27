@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barclaysus.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624190505id_/https%3A//cards.barclaycardus.com/banking/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclaysus.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227221403id_/https%3A//cards.barclaycardus.com/banking/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Barclays US
 
@@ -136,7 +136,7 @@ We will try to comply with your request(s) as soon as reasonably practicable.  
 
 Keeping your account information up-to-date is very important.  If you believe your account information is incomplete or not current, please contact us by using the “Contact Us” link below.
 
-[Contact US](https://cards.barclaycardus.com/contact-branded.html)
+[Contact US](https://web.archive.org/banking/contact-us/)
 
 **Use of Services by MINORS**
 
