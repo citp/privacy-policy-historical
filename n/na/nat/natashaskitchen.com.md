@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natashaskitchen.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629154057id_/https%3A//natashaskitchen.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natashaskitchen.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227215111id_/https%3A//natashaskitchen.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NatashasKitchen.com
 
@@ -27,7 +27,7 @@ Any of the information we collect from you may be used in one of the following w
 
 ## SIGNING UP TO RECEIVE EMAIL NEWSLETTERS:
 
-Emails are sent 2 to 4 times per week with new recipes and posts, roundups and news from NatashasKitchen.com. If you subscribe to our email newsletters through our subscription box, you are consent to store and process your data in order to receive our newsletters. The email you provide is used only for email subscription communication purposes and never shared or distributed to third parties. Your email is stored with our subscription service provider who has certain levels of security to protect your personal data.
+When you fill out one of the emails subscription opt-in boxes, we will send you the email series you signed up for which consists of 3 to 5 emails. Following that, emails are sent 2 to 3 times per week with new recipes and posts, roundups and news from NatashasKitchen.com. If you subscribe to our email newsletters through our subscription box, you are consent to store and process your data in order to receive our newsletters. The email you provide is used only for email subscription communication purposes and never shared or distributed to third parties. Your email is stored with our subscription service provider who has certain levels of security to protect your personal data.
 
 To change your subscription preferences, click the “preferences” button that is included with the email you receive from us then follow the steps in the email that you receive once you click the “preferences” button. We track how readers engage, interact and click through our newsletters.If you wish to disable view and click tracking, you may do so by clicking the “preferences” button as well.
 
@@ -50,8 +50,8 @@ When you opt in to receive push notifications, Push Crew is used to send you not
 **Cookies from Third Party Advertisers:**  We use third party advertising companies and advertising networks on our site. These Third-party companies collect information about your interests when you view or interact with one of their advertisements or the social sharing buttons on our site. Cookies and other technologies are used by these third parties to collect information about how you use the site. This information is gathered by the third parties to predict your interests or preferences in order to display relevant advertisements and promotional materials on our site as well as across the internet aligned with your apparent interests. Information about your device such as IP Address and MAC address may be used by these companies. They may use information about your visits to this website as well as other internet websites in order to serve advertisements that may be relevant to you (such as showing sports advertisements to someone who frequents sports websites). These companies do not collect information on your name, address, email address or telephone number.
 
   * We do not have control over or access to the technology that may be used by third parties to collect information about your interests. The information collection practices of these third party companies are not covered by this Privacy Policy.
-  * For more information about the practice of collecting cookies and to understand your choices to opt out and prevent the use of interest based advertising, please read more here: <http://www.networkadvertising.org/choices/>.
-  * Google is one of these third-party vendors who uses cookies to serve ads on our site. Google’s uses a DART cookie which enables them toserve ads based on your visit to this Site and other sites on the internet. To opt out of the use of the DART cookie, visit the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * For more information about the practice of collecting cookies and to understand your choices to opt out and prevent the use of interest based advertising, please read more here: [http://www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/).
+  * Google is one of these third-party vendors who uses cookies to serve ads on our site. Google’s uses a DART cookie which enables them toserve ads based on your visit to this Site and other sites on the internet. To opt out of the use of the DART cookie, visit the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
 
 
 
@@ -104,4 +104,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 Email: natasha AT natashaskitchen DOT com
 
   
-[ ](http://www.dmca.com/Protection/Status.aspx?ID=3fc94115-f171-41ea-9bee-61b82c2d37c1 "DMCA.com Protection Status")
+[ ](https://www.dmca.com/Protection/Status.aspx?ID=3fc94115-f171-41ea-9bee-61b82c2d37c1 "DMCA.com Protection Status")
