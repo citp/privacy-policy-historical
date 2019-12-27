@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegoodtrade.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417094900id_/http%3A//www.thegoodtrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegoodtrade.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227084209id_/http%3A//www.thegoodtrade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
