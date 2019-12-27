@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hachettebookgroup.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401114107id_/https%3A//www.hachettebookgroup.com/terms-and-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hachettebookgroup.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227204717id_/https%3A//www.hachettebookgroup.com/terms-and-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hachette Book Group
 
