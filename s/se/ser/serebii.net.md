@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the serebii.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630200837id_/https%3A//serebii.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serebii.net privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227215224id_/http%3A//serebii.net/privacy.shtml) for the most accurate reproduction.*
 
 # Serebii.net Privacy Policy
-
-| 
 
 At Serebii.net, safety of your digital footprint is paramount. As such, we do not track any data or request any personal data to be input into the site. No element of the site will ever ask for any personal data and the owners of Serebii.net would never share any information with any third parties.  
 If you partake in the [_Forums_](https://forums.serebii.net/), then we do use cookies in order to track login information
 
 **_Third Party Advertising_**
 
-Serebii.net uses advertisements from our advertising partners at [Network N](http://pcgames.network/) and Google. The content of the adverts is determined from publishers on their system and may contain or use cookies to tailor their advertisements more to you. 
+Serebii.net uses advertisements from our advertising partners at [Network N](http://pcgames.network/) and Google. The content of the adverts is determined from publishers on their system and may contain or use cookies to tailor their advertisements more to you. Some of these advertisers may be served from our third party advertiser, you can view their [_privacy policy_](https://www.network-n.com/network-privacy-policy/) and [_cookie policy_](https://www.network-n.com/network-cookie-policy/) here. You can manage your cookie here. 
 
 **_Privacy Policy_**
 
@@ -113,5 +111,3 @@ Serebii.net uses advertisements from our advertising partners at [Network N](htt
 13.1 - This website is owned and operated by Joe Merrick.  
 13.2 - You can contact us:  
 (a) - by email, using this email address [webmaster@serebii.net](mailto:webmaster@serebii.net) \- 
-
-| 
