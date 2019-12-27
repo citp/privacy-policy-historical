@@ -1,105 +1,155 @@
-> *The following text is extracted and transformed from the npower.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120004732id_/http%3A//www.npower.com/home/about-npower/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npower.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227224746id_/https%3A//www.npower.com/about-npower/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - About npower - npower
+# Privacy policy | About us | npower
 
-View our mobile app privacy policy
+We can only use your personal information where that is permitted by data protection laws. Those laws require that where we use your personal information we must satisfy one condition (legal basis) for processing. The legal bases are consent, to comply with our legal obligations, to perform a contract, if it’s in our legitimate interests and for special category data (health) it is in your vital interests.
 
-## Helpful information
+Set out below are the different legal bases and the types of processing we carry out:
 
-At Npower Limited (“ **we** ”, “ **us** ” or “ **our** ” for short) we and our group companies are committed, not only to providing you with unbeatable value and an excellent service, but also to protecting your personal information.
+### Legal basis for processing
 
-Your personal information (also called ‘personal data’) is the information which identifies you as an individual that we get from you and others in various ways. Under the Data Protection Act 1998 (the **“Act”** ) specific obligations are placed on us in the way we handle this type of information and the aim of this privacy policy is to let you know what personal information we collect from you when you purchase products and services from us, when you use our website and when you contact us, how we store and use it, and how you can access and manage this information.
+#### Consent
 
-Your personal information may be stored online and therefore we take steps to ensure that our systems are well protected.
+Where you have provided consent we will rely on that to process your information for the purposes set out at the time that the request for consent was made.
 
-Please note that this privacy policy only covers [www.npower.com](http://www.npower.com/home/ "Click here to visit npower"). Other websites belonging to us (such as [www.npowerjobs.com](http://www.npowerjobs.com/ "Click here to visit npower jobs.") and [www.npowerjobs.com/graduates](http://www.npowerjobs.com/graduates "Click here to visit npower graduates.")) and other websites accessible via links are not covered by this policy. If you access any of these sites, please check the privacy policy applicable to these sites (if any) before you submit any of your personal information to them
+You can change that consent at any time (either by withdrawing it or giving your consent where you previously hadn’t). The consequence of withdrawing your consent might be that we are no longer able to do certain things for you.
 
-### Our group and your products and services
+See the section on “Your rights relating to the personal information we hold about you” then “Right to withdraw consent”.
 
-As our products and services may be provided to you by different companies within our group, it may be that your personal information needs to be passed to the relevant group company or companies. Just so you know other than us, our group companies who may have access to your personal information under this privacy policy include:
+#### Processing activities (purposes)
 
-Npower Commercial Gas Limited | Plus Shipping Services Limited  
----|---  
-Npower Financial Services Limited | Superior Plumbing Installations Limited  
-Npower Gas Limited | Octopus Electrical Limited  
-Npower Northern Limited | Scarcroft Investments Limited  
-Npower Yorkshire Limited | Homepower Retail Limited  
-Npower Yorkshire Supply Limited | Npower Direct Limited  
-  
-### So, what personal information do we collect about you?
+##### Cookies
 
-We collect the personal information requested by our application and contact forms together with any comments or remarks that you may provide in free text fields or may send to us. We may also keep a record of references received from third parties (for example from credit reference or fraud prevention agencies) and of any other correspondence or communication between you and us, whether written, e-mailed, or as a result of visits, interviews or recorded telephone calls.
+We use cookies on our website/App to collect information about the device you use to access our website or App or sometimes third parties collect that on our behalf.
 
-Like most websites, we use "cookies" - small text files that are saved to your computer. More details about cookies, how we use them and how you can disable them can be found at [http://www.npower.com/home/about-npower/cookies/](https://web.archive.org/home/about-npower/cookies/).
+You are asked to do this before using our website/App. If you refuse consent or you later remove it you may affect our ability to provide the services you want.
 
-We will (unless it's impractical) tell you, if we obtain and store information from any other source and also how we intend to use it in accordance with this privacy policy.
+See our [cookie policy](https://web.archive.org/about-npower/cookies/) for more information.
 
-Whilst we take steps to protect user privacy, no data transmission over the internet can be entirely secure. We therefore do not guarantee the security of personal information that you send to us, or your use of the site. Any personal information you do send is at your own risk but once we receive it we use strict procedures to safeguard it.
+##### Marketing
 
-### How do we use your personal information?
+To provide you with marketing information (including by phone, text message, email, via your online account and via your Smart in home display) about products and services (including third party products and services) which we think may benefit you in your everyday lives (if you have agreed to receive such information).We ask for consent when you sign up with us but you can change your mind at any time.
 
-We will use the information you give us, or which we legally receive from another organisation or person, to set up and manage your gas or electricity account (or both) with us. We may share it with all relevant industry organisations based on agreed industry processes. We may use it and share it with any npower group company to:
+##### Market research
 
-  * help us identify you so we know who we are talking to;
-  * supply you with gas or electricity (or both) or any other services that you request;
-  * set up and otherwise manage your account, including collecting debts and improving our service to you;
-  * work out your bills;
-  * help prevent and detect fraud or loss;
-  * assess risk, carry out marketing (unless you have opted out) or market research, statistical analysis, test systems, improve the way that we run your accounts (including quality assurance) and analyse your account history; and
-  * train staff and monitor our services. This may mean that we record our conversations or our correspondence with you to make sure we are providing you with a good service and to make sure we keep to our legal and regulatory obligations.
+We may ask you to participate in market research (such as surveys, participation in focus groups etc.) to help improve the way we provide our services and products that we are able to make available to you – if you agree your feedback is given with your consent.  
 
 
+##### Smart meter half hourly energy use
 
-If you have a meter installed at your property that can be connected to the wireless network (a ‘smart’ meter), we will gather information about the gas or electricity (or both) you use remotely and in real time (the equipment will automatically send us the information). We may use this information for the purposes set out above.
-
-We may pass information about you to our agents and service providers for these purposes. This may involve passing your information outside of the European Economic Area (EEA) to countries that do not have the same data protection standards as we do in the UK. If we, or our agents and service providers, do this, we will make sure that it happens with the relevant legal protection in place. If we are asked, we may pass your information on for regulatory purposes to Ofgem (or any organisation which takes over Ofgem’s role), or as part of a government data-sharing initiative.
-
-We may search the files of credit-reference agencies who will record the search. We may share information about how you deal with your account with other financial institutions, with credit-reference agencies and with fraud-prevention agencies. We may use this information to help us assess your ability to pay our bills and to make decisions about the products and services that we offer you.
-
-We may use and record information about you or a member of your household. We may pass this information to social services, or to other organisations such as Help the Aged if you are in danger of being cut off and we believe you may need extra help. You or a member of your household may need this extra help as a result of your (or their) health, age, disability or financial circumstances.
-
-If you have given us your mobile phone number or email address (or both), we may use the information to send you service messages or other similar information (by text message or email). The aim is to help us manage your account. We will not use the information for marketing purposes unless you have agreed that we can. You must let us know if your mobile phone number or email address changes so that we can keep this information up to date.
-
-We will release your account details to any organisation we may transfer our rights or responsibilities to and we reserve the right to tell your future service provider of any debt you may have with us.
-
-If you take a product through Homeserve, we may pass your details to Homeserve Membership Ltd. They may contact you and use your information (and pass it on to their service providers and their own group of companies), to help manage your policy, and for training and statistical analysis.
-
-Please note that we reserve the right to access and disclose individually identifiable information to comply with any applicable laws and lawful government requests, to operate our systems properly, to protect both ourselves and our users, and where we are approached by a potential buyer of our business or assets, or in relation to any joint venture or business arrangement.
-
-### If you have consented to us sending you marketing material...
-
-...you may opt out at a later date. You have a right at any time to stop us from contacting you for marketing purposes or giving your information to other members of our group for marketing purposes.
-
-If you no longer wish to be contacted for marketing purposes please get in touch with us. Or if you have an online account, you can change your consent preferences in your account settings.
-
-### How can you find out what personal information we hold about you?
-
-Just ask us! You are entitled to see the personal information that we hold about you at any time. (If you write to, email or phone us and ask to see this information, it is known as a ‘subject access request’ or ‘SAR’ for short) You can do so by:
-
-  * telephoning us on 0800 073 3000 (free from most landlines) or 0330 100 3000 (included in any 'inclusive minutes' from mobiles);
-  * Contacting us through npower.com – [Contact Customer Service](https://web.archive.org/home/help-and-support/contact-us/) and choose the “Other” option; or
-  * writing to us at Data Protection SARs Team, npower, Rainton House, Hougton-Le-Spring, Cygnet Way, Sunderland, DH4 5QZ.
+If you have a Smart meter installed at your property, we will only collect details of your half-hourly energy usage if you have given us your consent to do so.  
 
 
+##### You agree to the disclosure
 
-When we receive your request we will send you a form to fill in and you will have to pay a fee of £10. If you do not return the form or pay the £10 fee, we will not be able to deal with your request.
+If you request us to disclose your personal data to other people or organisations such as to a relative to deal with your account on your behalf or to a person or organisation who has agreed to pay your bills or to company dealing with a claim on your behalf or you otherwise agree to such disclosures (for example to a charity providing you with debt assistance).
 
-Even if you don’t want a copy of your personal information, you can still contact us to check that the personal information that we hold is accurate, or to let us know of any changes to your personal information. We always try to ensure that the information that we hold is accurate, up to date and relevant. We’ll be more than happy to make changes or to correct any inaccuracies.
+When we process any special categories of personal information at your request (e.g. your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, data concerning your health, sex life or sexual orientation).
 
-### External links from our site
+##### Priority Services
 
-From time to time we may include hypertext links to sites which are created by individuals and companies outside of our group companies. We do this when there is a particular relevance to the topic you're reading about. Whilst we endeavour to check that the content of these sites is suitable, we unfortunately cannot take any responsibility for the practices of the companies who publish the sites that we link to, nor the integrity of the content contained within them.
+If you elect to either go on our Priority Services Register (which is a set of services that may be available to you or to people who may be living with you where, due to your (or their) health, age or some temporary reason (for example a bereavement) additional assistance may be required) or you agree for us to record details of your health etc. (information about your circumstances) we need your consent to do so.
 
-### What if we update our privacy policy?
+If you consent we will use that information to assist us in providing the priority services you have requested (if any), managing your account so we are aware you may need additional help and support (for example having a bespoke debt pathway), for internal performance review, analysis, reporting and audit purposes (both internally and to report to Ofgem) to ensure our compliance with our obligations and to improve our services to you. We may share your information about your circumstances with with agents and service providers (like metering companies) who carry out services on our behalf.
 
-We do keep our privacy policies under regular review so please do check each time you use the site. You'll be able to read about any updates on this page - as soon as they happen.
+If you agree we may also share your information with energy distributors and transporters (who may then share that information with water companies in line with agreed industry processes) so they can tailor their services to help you e.g. if there is a loss of power or water supply.
 
-Updated: 12 April 2010 – 4th paragraph amended to include reference to “Back the Bid” pages of [www.npower.com](http://www.npower.com/home/)
+### Legal basis for processing
 
-If you have any questions or if you feel that we are not complying with the terms of this privacy policy please do contact us through npower.com [Contact Customer Service](https://web.archive.org/home/help-and-support/contact-us/) and choose the "Other" option from the drop down list
+#### Vital interests
 
-In addition to the terms of the npower Limited Privacy Policy available here this privacy policy governs your use of the npower Limited Mobile Application that has been created by Black Swan. The Application includes functionality to send meter readings, view energy bills, pay energy bills, see your energy usage and contact npower through Live Chat
+We may need to share information about your circumstances with third parties because we believe you or someone else’s life is in imminent danger.
 
-To better understand how our Mobile App is used, we may use the services of another company to provide us with anonymous statistical information about your use of our Mobile App.
+This will be assessed on an individual basis and we will not share information unless we really believe there is a serious risk.
 
-# Phone calls: Calling us on a 0800 number is normally free when you call from a landline but charges may vary if you use a mobile. Calling us on a 0330 number will cost you no more than 01 or 02 numbers from landlines or mobiles. If you get ‘inclusive minutes' with your package, calls on a 0330 number will be part of these.
+#### Processing activity (purposes)
+
+Whether or not you are registered on PSR referred to above if you are in danger of being cut off and we believe you may need extra help we may record information about your circumstances.
+
+You or a member of your household may need this extra help as a result of your (or their) health, age, disability or financial circumstances (we assess and record who may require extra help as a result of their circumstances) to assist you or them and ensure you or they stay on supply.  
+
+
+### Legal basis for processing
+
+#### Performance of our contract with you to provide products and services or to take steps at your request prior to entering into that contract
+
+The information described above will be provided to us by you because you want to engage with us or take our products and services.
+
+Our use of your information will be governed by your contract terms. It is up to you if you provide it but if you do not it may affect the products and services you want.
+
+#### Processing activity (purposes)
+
+  * To provide you with a quote (which may include making an assessment of your credit worthiness by automated decision making to decide which products and services and payment methods are most suitable for you).
+  * To help us identify you so we know who we are talking to and authenticate the information you provide for security purposes. We may check against information we already hold about you as an energy supplier and potentially publicly available information such as social media.
+  * To set up and manage your account including processing and collecting payments, recovering debts, analysing your account history and improving our service to you.
+  * Sending you service messages such as account notifications and communications such as price and other terms and conditions changes.
+  * To supply you with any products or services you have asked us for such as the supply of gas or electricity (or both), which may include passing your details on to third parties and partnerships to fulfil offers or cashback to you.
+  * To enable you to access our website or App (including your online account if you have one) to use our services.
+  * To set you up in the appropriate industry systems based on agreed industry processes when you change your supply to or away from us including obtaining meter reads, resolving metering disputes etc.
+  * To measure your gas or electricity use (or both) and to work out your bills.
+  * To assess health and safety, environmental and financial risks to you.
+  * To provide and improve customer support.
+  * To resolve complaints and query resolution.
+  * To train our staff and monitor our services. This may involve us recording our conversations with you or keeping copies of our correspondence with you to make sure we are providing you with a good service and are keeping to our legal and regulatory obligations.
+
+
+
+### Legal basis for processing
+
+#### As necessary to fulfil a legal obligation
+
+This is where we are required to do something by law, regulatory requirement or by way of a court order.
+
+#### Processing activity (purposes)
+
+  * To run our business in an efficient and proper way. This includes managing our financial position, business capability, planning, communications, corporate governance, and audit.
+  * To help prevent and detect debt, theft, fraud or loss of gas or electricity (or both) including preparing and sending reports to the entity contracted to run the Theft Risk Assessment Service. See the section headed “Theft and Fraud Prevention”.
+  * To comply with legal and regulatory requirements including those set out in the relevant gas and electricity Acts, our licence conditions and industry codes which govern how we operate.
+  * To comply with orders made by the Court where we may be required to disclose information about you.
+  * To provide certain information to Ofgem as regulator for the energy industry either as part of an investigation by them or as part of request for information or as part of an audit of our services.
+  * If you have a Green Deal plan to manage the collection of the monies you owe to the relevant Green Deal provider and to update the industry parties and industry database as appropriate in line with agreed industry processes.
+  * For demand forecasting and settlement in so far as is required to meet our industry requirements.
+  * To relevant law enforcement agencies or government agencies where we have been asked to provide the information for legal or regulatory reasons (if we receive a legitimate request for the information).
+  * To assist you if you exercise your legal rights under data protection law.
+  * For the establishment and defence of legal rights.
+  * To verify your identity, make credit fraud prevention and anti-money laundering checks.
+
+
+
+### Legal basis for processing
+
+#### As necessary for our own legitimate interests
+
+This is where we use your personal information for our normal business purposes where the benefits of doing so are not outweighed by your fundamental rights or freedoms.
+
+You have a right to object to this type of processing. See the section on “Your rights relating to the personal information we hold about you” then “Right to object”.
+
+#### Processing activity (purposes)
+
+  * To run our business in an efficient and proper way. This includes managing our financial position, business capability, planning, communications, corporate governance, and audit.
+  * To help prevent and detect crime such as fraud and money laundering where this is not covered by our legal requirements and we are processing your personal information to help reduce the cost of this activity being spread across all customers by way of increased prices.
+  * To contact you with service messages that are not strictly necessary for the performance of our contract but we believe will assist you and will improve our service to you unless in each case (with the exception of service messages or online notifications via your online account (if you have one) which you are required to receive as part of having an online account), you tell us you do not wish to receive such service messages, notifications and communications by those means and you are not required to receive them as part of the product and/or services you have signed up to.
+  * To use your information for marketing purposes so for example we can see what products and services may be of interest to you.
+  * To provide you with advertising about our products and services which we think may benefit you in your everyday lives, using the internet and digital media technologies provided by third parties such as Facebook and Google. You can opt out of such marketing purposes by changing your settings on Facebook or Google or by contacting us.
+  * To assist in debt prevention and debt recovery which may include tracing where you have moved to and identifying who is responsible for taking supply where such processes go beyond what is strictly necessary for the performance of our contract with you.
+  * For demand forecasting and settlement to assist us in purchasing energy more efficiently.
+  * To resolve complaints and query resolution which go beyond strictly performing our contract with you.
+  * To carry out credit checks or otherwise assessing your credit worthiness.
+  * To carry out performance reviews, monitoring, modelling and analysis, reporting, profiling, auditing, market research (where the analysis is carried out by third parties who do not provide us with your details unless we have your specific consent to do so and may extend beyond energy usage to include aspects of your lifestyle, payment history etc.) and statistical analysis to assist us in ensuring we can comply with legal and regulatory requirements (including those set out in our licence conditions and industry codes) as well as to help improve the way we provide our services and the products that we are able to make available to you.
+  * To test systems to help improve the way we provide our services and the products that we are able to make available to you.
+  * To monitor emails, calls, other communications, and activities on your account.
+  * To carry out data enrichment to help us ensure the information we hold about you is accurate and up to date and to assist us in being able to contact you (which may involve purchasing data from someone else like a data broker or using publicly available sources like the Land Registry or the electoral register).
+  * To take contact information like phone numbers or email addresses that are held on our internal systems e.g. Call Line Identification (used when you call in to us), Tallyman (used in the debt collection process) or Once (used in the complaints process) to carry out an internal data quality exercise where we will consolidate that information and (where validated) add it to your main customer account to ensure that we hold accurate and consistent information about you to assist in contacting you in relation to your account.
+  * To report to and pay our referral partners such as telesales and broker websites like uswitch.
+  * Web analytics to analyse and better configure our website and App.
+  * To take part in government or industry initiatives (for example to tackle fuel poverty, improve energy efficiency or other social or consumer interests).
+  * Whether or not you are registered on PSR referred to above if you are in danger of being cut off or we believe you (or someone who lives with you) may need extra help we may record a generic vulnerable marker (not going into any specific details about you or them).
+  * You or a member of your household may need this extra help as a result of your (or their) health, age, disability or financial circumstances (we assess and record who may require extra help as a result of their circumstances) to assist you o or them and ensure you or they stay on supply.
+  * We will use it to assist us in providing the priority services you have requested (if any), managing your account so we are aware you may need additional help and support (for example having a bespoke debt pathway), for internal performance review, analysis, reporting and audit purposes (both internally and to report to Ofgem) to ensure our compliance with our obligations and to improve our services to you.
+  * We may share information about your circumstances with agents and service providers (like metering companies) who carry out services on our behalf. We may also share the fact you are potentially vulnerable (providing no special category data) with industry organisations like transporters and distribution network operators (who may then share that information with water companies in line with agreed industry processes) so that they are aware you may need additional assistance and can offer you appropriate services in case, for example, of a loss of power or water supply.  
+
+  * If you have a display unit with your Smart meter, we may send messages (for example, general energy-efficiency messages) direct to it, unless you let us know at any time that you do not want to receive such information.
+  * If you have a Smart meter to record your daily Smart meter energy use unless you have told us otherwise (see the section on “Use of Smart energy data” below).  
+
+
+
