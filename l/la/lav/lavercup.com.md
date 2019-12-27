@@ -1,42 +1,144 @@
-> *The following text is extracted and transformed from the lavercup.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612011111id_/https%3A//lavercup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavercup.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227031515id_/https%3A//lavercup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Laver Cup
 
-ONLINE PRIVACY POLICY AGREEMENT
+**Introduction**
 
-TRIDENT8 LIMITED (The Laver Cup), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with TRIDENT8 LIMITED of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
+Welcome to the TRIDENT8 LIMITED. dba Laver Cup  ( “ **Laver Cup** ” or “ **T8** “) website and related applications (the “ **Site** ”).
 
-**_THEREFORE_** , this Privacy Policy Agreement shall apply to TRIDENT8 LIMITED and any subsidiary company listed below, and thus it shall govern any and all data collection and usage thereof. Through the use of [www.lavercup.com](http://www.lavercup.com/) and any subsidiary website listed below you are herein consenting to the following data procedures expressed within this agreement.
+**Scope**
 
-**Subsidiary Company** : Not Applicable
+When you interact with the Site or the Laver Cup, we may collect information that, alone or in combination with other information, could be used to identify you (“ **Personal Data** ”). This privacy policy explains what Personal Data and other information we collect when you use our, why we collect it and how that data is used.
 
-**Subsidiary Website** : Not Applicable
+By using the Site, and providing us with your personal data, you consent to the processing of your personal data in the manner set out in this Privacy Policy.
 
-**_Collection of Information_** This website collects various types of information, such as: • Voluntarily provided information which may include your name, address, email address, billing and/or credit card information etc., which may be used when you purchase products and/or services and to deliver the services you have requested. • Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs. Please rest assured that this site shall only collect personal information that you knowingly and willingly provide by way of surveys, completed membership forms, and emails. It is the intent of this site to use personal information only for the purpose for which it was requested and any additional uses specifically provided on this site. We may also gather information about the type of browser you are using, IP address or type of operating system to assist us in providing and maintaining superior quality service. It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent as a means to better understand the way in which other websites garner, make use of and share information collected.
+**Information We Collect**
 
-**_Use of Information Collected_** TRIDENT8 LIMITED may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from [www.lavercup.com](http://www.lavercup.com/) and our subsidiaries. TRIDENT8 LIMITED and our subsidiaries may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered. TRIDENT8 LIMITED does not now, nor will it in the future, sell, rent or lease any of our customer lists and/or names to any third parties. TRIDENT8 LIMITED may feel it necessary, from time to time, to make contact with you on behalf of other external business partners with regards to a potential new offer which may be of interest to you. If you consent or show interest in presented offers, then, at that time, specific identifiable information, such as name, email address and/or telephone number, may be shared with the third party. TRIDENT8 LIMITED may deem it necessary to follow websites and/or pages that our users may frequent in an effort to gleam what types of services and/or products may be the most popular to customers or the general public. TRIDENT8 LIMITED may disclose your personal information, without prior notice to you, only if required to do so in accordance with applicable laws and/or in a good faith belief that such action is deemed necessary or is required in an effort to: • Remain in conformance with any decrees, laws and/or statutes or in an effort to comply with any process which may be served upon TRIDENT8 LIMITED and/or our website; • Maintain, safeguard and/or preserve all the rights and/or property of TRIDENT8 LIMITED ; and • Perform under demanding conditions in an effort to safeguard the personal safety of users of[www.lavercup.com](http://www.lavercup.com/) and/or the general public.
+**Personal Data That You Provide Through the Site**. We collect Personal Data that is voluntarily provided by you when you order products and services or register on our Site  (including your name, email address, username, mailing address, phone number, payment and billing information or other details, as appropriate, that you elect to provide), or communicate with customer service. We also collect Personal Data that you enter on our Site or send to us electronically when you complete a web form to give Personal Data to us directly, such as on our “Contact Us” page.
 
-**_Children Under Age of 13_** TRIDENT8 LIMITED does not knowingly collect personal identifiable information from children under the age of thirteen (13) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system’s database. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website.
+**Service Data**. In providing various products and services in connection with the  Laver Cup (collectively “ **Services** ”), we process on behalf of our patrons, clients and customers (collectively, “ **Customers** ”) that Personal Data that they upload or otherwise provide to us (“ **Service Data** ”).
 
-**_Unsubscribe or Opt-Out_** All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to info@lavercup.com. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.
+**Automatically Collected Data**. When you visit the Site, we may automatically collect information about your use of our Site through cookies, pixel tags (also known as web beacons), ad conversion tracking and similar technologies. This information may include the browser or operating system that you use to access the Internet, your IP address, your location, the date and time you may have viewed certain pages on the Site, which advertisements you clicked on and your subsequent actions, etc. Please see the “Do we use “cookies”?” section below to find out more about how we use cookies.
 
-**_Links to Other Web Sites_** Our website does contain links to affiliate and other websites. TRIDENT8 LIMITED does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website.
+**How Do We Use Your Information?**
 
-**_Security_** TRIDENT8 LIMITED shall endeavor and shall take every precaution to maintain adequate physical, procedural and technical security with respect to our offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user’s personal information under our control.
+We may use the information we collect from you when you register or fill out a form on our Site, make a purchase or inquiry, sign up for our newsletter, respond to a survey or marketing communication, surf the Site, or use certain other Site features.  We may use the information in the following ways:
 
-**_Changes_ to Privacy Policy Agreement** TRIDENT8 LIMITED reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at [www.lavercup.com](http://www.lavercup.com/), so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time TRIDENT8 LIMITED decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner.
+**To provide the Services to Customers and respond to requests**. We use account-related data given to us by Customers in connection with the purchase, sign-up, or support of a Customer.  Such information includes usernames, email address and billing information.  We use this information to provide you with access to the Laver Cup and/or the Site, contact you regarding  the Laver Cup and/or the Site and/or available Services or to notify you of important changes to the Laver Cup and/or the Site. For EU data subjects, such use is necessary for the performance of the relationship or contract between you and us.
 
-**_Acceptance of Terms_** Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes.
+When you ask for information about the Laver Cup  or the Services (for example, when you ask us to send you offers or price information), we will use your contact information to respond to your requests. For EU data subjects, such use is necessary to respond to or implement your request prior to entering into a contract or other relationship with us.
 
-**_How to Contact Us_** If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
+We process Service Data on behalf of Customers for the purpose of providing the Services to Customers in accordance with the applicable Customer contract or inquiry.
 
-Email: [info@lavercup.com](mailto:info@lavercup.com)
+**For marketing purposes.** T8and its affiliates, as described below, may use your contact details to tell you more about our Services and other services we believe may be of interest to you, upcoming events or other promotions. If we do so, each marketing communication we send you will contain instructions permitting you to “opt out” of receiving future marketing communications. Note however that as a user of our Services you cannot opt out of some administrative communications that are reasonably necessary to the provision of the Services, such as billing or service notifications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. We may provide your information to those affiliates for the purposes described above, subject always to your right to opt out of marketing communications at any time.
 
-Telephone Number: (216) 292-8880
+Where required by applicable law (for example, if you are an EU data subject), we will only send you marketing information by email  if you consent to us doing so at the time you provide us with your Personal Data.  In this case, when you provide us with your consent to be contacted for marketing purposes, you have the right to withdraw your consent at any time by following the instructions to “opt-out” of receiving marketing communication in each marketing email we send you or by contacting us as indicated below.
 
-Mailing Address: TRIDENT8 LIMITED 71 Queen Victoria Street, London EC4V 4BE
+**To analyze, administer, support, and improve use of the Site, the Services and the Laver Cup**. We use data relating to your use of the Site and/or the Services to analyze, administer, support and improve your access to and use of the Site and the Services. For example, we use data about how and when you visit different parts of our Site in order to improve the structure of the Site. We may also compile, anonymize and/or aggregate your Personal Data and other data and use such anonymized and/or aggregated data for our business purposes, including sharing such data with affiliates and business partners.  This aggregate information does not identify you individually. For EU data subjects, this use of your Personal Data is necessary for our legitimate interests in understanding how the Site and the Services are being used by you and to improve your experience on it.
 
-06/29/2016
+**Disclosure of Information**
+
+We share information with certain third parties, as follows:
+
+**Affiliates:**   We share information with our affiliates as described above in order to inform you about services, offerings, events and activities we believe may be of interest to you that are provided by those affiliates. If we do so, each marketing communication we send you will contain instructions permitting you to “opt out” of receiving future marketing communications.
+
+**Third Parties Service Providers** : We share information with our third party service providers as needed to assist us in operating our Site, conducting our business and the Laver Cup, and servicing you as a Customer, including without limitation local promoters, website hosting partners, data centers, sign-on authentication software providers, website analytics companies, providers of marketing and sales software solutions, customer support providers, and providers of billing and processing payments functions. Pursuant to our instructions, these parties may access, process or store Personal Data in the course of performing their duties to us and solely in order to perform the services we have hired them to provide.
+
+**Business Transfers** : If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, your Personal Data and other information may be transferred to a successor or affiliate as part of that transaction along with other assets.
+
+**Legal Requirements** : If required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation or lawful requests by public authorities, including meeting national security or law enforcement requirements and applicable law, rule, order, or regulation, (ii) protect and defend the rights or property of T8 or the Laver Cup, (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) protect against legal liability.
+
+**Security**
+
+We take reasonable and appropriate steps to protect the Personal Data provided via the Site or the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet, email or other electronic transmission is ever fully secure or error free, so you should take special care in deciding what information you send to us in this way.
+
+Our Site is scanned on a regular basis for security holes and known vulnerabilities to make your visit to our site as safe as possible. We use regular Malware Scanning. Your Personal Data is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. Also, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+**Do we use ‘cookies’?** Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information.  We also use pixel tags (also known as web beacons) which are small, often transparent, images placed on the Site or in emails to do things like generate statistics and count users.
+
+If you are based in the European Economic Area, when you first visit the Site, you will be asked to consent to the use of cookies on the Site in accordance with this Privacy Policy, and if you accept we will store cookies on your computer.
+
+In particular, we use cookies:
+
+  * to help us understand your preferences based on previous or current Site activity, which enables us to provide you with improved Services;
+  * to help us compile aggregate data about Site traffic and Site interaction so that we can offer better Site experiences and tools in the future. In particular, we use cookies from Google Analytics, a web analytics service provided by Google Inc. (“Google”). The information collected by Google (including your internet protocol (IP) address) will be transmitted to and stored by Google on servers in the United States. Google will use this information on our behalf for the purpose of evaluating your use of the Site, compiling reports on the Site activity and providing further services to us relating to the Site usage. Learn more about Google Analytics’ privacy practices, and see a copy of Google’s privacy policy, at the following link: https://support.google.com/analytics/answer/6004245?hl=en&ref_topic=2919631. You can prevent your data from being collected by Google Analytics on our Site by downloading and installing the Google Analytics Opt-out Browser Add-on for your current web browser at the following link: <https://tools.google.com/dlpage/gaoptout?hl=en>;
+
+
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+
+Please see the links below for guidance on how to modify your web browser’s settings on the most popular browsers:
+
+  * [Internet Explorer](http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies#ie=ie-11)
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?esab=a&s=cookies&r=6&as=s)
+  * [Google Chrome](https://support.google.com/accounts/answer/61416?hl=en)
+  * [Apple Safari](https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=en_US)
+
+
+
+If you turn cookies off, some features will be disabled,  and some parts of the Site and some of our Services will not function properly.
+
+To find out more about cookies and similar technologies, including how to see what cookies and similar technologies have been set and how to manage and delete them, visit  www.allaboutcookies.org and/or or the Network Advertising Initiative’s online resources, at [www.networkadvertising.org](https://www.networkadvertising.org/), and follow the opt-out instructions there.  Or if you are located in the European Union, visit the European Interactive Digital Advertising Alliance’s Your Online Choices opt-out tool here. If you access the Site on your mobile device, you may not be able to control tracking technologies through the settings.
+
+**Third Party Links**
+
+The Site may contain links to other websites not operated or controlled by us (“ **Third Party Sites** ”). The privacy practices described in this Privacy Policy do not apply to Third Party Sites. By providing these links we do not imply that we endorse or have reviewed these sites. Please contact those sites directly for information on their privacy practices and policies.
+
+**California Do Not Track Disclosures**
+
+T8 does not currently respond to “Do Not Track” signals sent by your browser or mobile application and operate as described in this Privacy Policy whether or not a “Do Not Track” signal is received. If we change our practices in the future and begin to respond to “Do Not Track” signals, we will update this Privacy Policy accordingly.
+
+**Children**
+
+T8 does not knowingly collect Personal Data from children under the age of 13.  If you have reason to believe that a child under the age of 13 has provided Personal Data to us through this Site or if you as a Customer of our Services collect any Personal Data from children under the age of 13, please contact us as provided below and we will endeavour to delete that information from our databases.
+
+**EU Data Subjects**
+
+**Scope** : This section applies solely if we collect Personal Data of EU data subjects through our Site or track EU data subjects who access our Site (for these purposes, reference to the EU includes the European Economic Area countries of Iceland, Liechtenstein and Norway and, where applicable, Switzerland). Our Privacy Policy describes why and how T8 collects, uses and stores your Personal Data, the lawful basis on which your Personal Data is processed, and what your rights and our obligations are in relation to such processing (please see “Your Rights” section below).
+
+**Data Controller** :  T8  is the data controller for processing your Personal Data provided through our Site.  We are a data processor for Personal Data that our Customers submit through our Services. Please see the “Contact Us” section below to find out how to contact us.
+
+**Your Rights** : Subject to applicable law, you have the following rights in relation to your Personal Data:
+
+  * **Right of access** : If you ask us, we will confirm whether we are processing your Personal Data and, if so, provide you with a copy of that Personal Data along with certain other details. If you require additional copies, we may need to charge a reasonable fee.
+  * **Right to rectification** : If your Personal Data is inaccurate or incomplete, you are entitled to ask that we correct or complete it. If we shared your Personal Data with others, we will tell them about the correction where possible. If you ask us, and where possible and lawful to do so, we will also tell you with whom we shared your Personal Data so you can contact them directly.
+  * **Right to erasure** : You may ask us to delete or remove your Personal Data, such as where you withdraw your consent. If we shared your data with others, we will tell them about the erasure where possible. If you ask us, and where possible and lawful to do so, we will also tell you with whom we shared your Personal Data with so you can contact them directly.
+  * **Right to restrict processing** : You may ask us to restrict or ‘block’ the processing of your Personal Data in certain circumstances, such as where you contest the accuracy of the data or object to us processing it. We will tell you before we lift any restriction on processing. If we shared your Personal Data with others, we will tell them about the restriction where possible. If you ask us, and where possible and lawful to do so, we will also tell you with whom we shared your Personal Data so you can contact them directly.
+  * **Right to data portability** : Effective 25 May 2018, you have the right to obtain your Personal Data from us that you consented to give us or that was provided to us as necessary in connection with our contract with you. We will give you your Personal Data in a structured, commonly used and machine-readable format.  You may reuse it elsewhere.
+  * **Right to object** : You may ask us at any time to stop processing your Personal Data, and we will do so: 
+    * If we are relying on a legitimate interest to process your Personal Data — unless we demonstrate compelling legitimate grounds for the processing or
+    * If we are processing your Personal Data for direct marketing.
+  * **Rights in relation to automated decision-making and profiling** You have the right to be free from decisions based solely on automated processing of your Personal Data, including profiling, which produce a significant legal effect on you, unless such profiling is necessary for entering into, or the performance of, a contract between you and us, or with your explicit consent.
+  * **Right to withdraw consent** : If we rely on your consent to process your Personal Data, you have the right to withdraw that consent at any time. This will not affect the lawfulness of processing of your data before we received notice that you wished to withdraw your consent.
+  * **Right to lodge a complaint with the data protection authority** : If you have a concern about our privacy practices, including the way we handled your Personal Data, you can report it to the data protection authority that is authorized to hear those concerns.
+
+
+
+You may exercise your rights by contacting us as indicated under “Contact Us” section below.
+
+**Legitimate Interest** : “Legitimate interests” means the interests of our company in conducting and managing our organization. For example, we have a legitimate interest in processing your Personal Data to analyze how the Site and our products and services are being used by you, to prevent fraud or criminal activity, misuse of our products or services, to ensure the security of our IT systems, architecture and networks, and to meet our corporate and social responsibility objectives, as described in this Privacy Policy. When we process your Personal Data for our legitimate interests, we make sure to consider and balance any potential impact on you, and your rights under data protection laws. Our legitimate interests do not automatically override your interests. We will not use your Personal Data for activities where our interests are overridden by the impact on you, unless we have your consent or those activities are otherwise required or permitted to by law. You have the right to object to processing that is based on our legitimate interests. For more information on your rights, please see “Your Rights” section above.
+
+**Data Transfers** : T8 is based in the UK;  however we use service providers (described above) based in the United States to operate our business and our relationship with you. When you use our Site and the Laver Cup, you acknowledge and agree that your Personal Data will be transmitted to our and our service providers’ servers in the United States to provide you with the services that you requested, administer our contract with you or to respond to your requests as described in this Privacy Policy. The United States may have data protection laws less stringent than or otherwise different from the laws in effect in the country in which you are located. Where we transfer your Personal Data out of the EEA we will take steps to ensure that your rights continue to be protected.
+
+**Data Retention** : We will keep your Personal Data only for as long as is reasonably necessary for the purposes outlined in this Privacy Policy, or for the duration required by law, whichever is the longer.
+
+**Changes to our Policy**
+
+The Site and our business may change from time to time. As a result, at times it may be necessary for us to make changes to this Privacy Policy. We reserve the right to update or modify this Privacy Policy at any time and from time to time without prior notice, unless otherwise required by applicable law. Please review this policy periodically, and especially before you provide any Personal Data. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy, without prejudice to your rights under the applicable law.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+Via Email: [info@lavercup.com](mailto:info@lavercup.com)
+
+By Phone: (216) 292-8880
+
+By Post: TRIDENT8 LIMITED 71 Queen Victoria Street, London EC4V 4BE
+
+06/20/2019
 
   
 
