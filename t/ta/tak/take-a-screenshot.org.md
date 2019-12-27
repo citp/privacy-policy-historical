@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the take-a-screenshot.org privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628231311id_/https%3A//www.take-a-screenshot.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the take-a-screenshot.org privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227225703id_/https%3A//www.take-a-screenshot.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy / take-a-screenshot.org
 
