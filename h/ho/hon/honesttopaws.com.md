@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the honesttopaws.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627023315id_/https%3A//honesttopaws.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honesttopaws.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227072419id_/https%3A//honesttopaws.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Honest To Paws
 
 Your privacy is very important to us at Honest To Paws, and so we have a few fundamental principles that we follow in order to protect it: 
 
