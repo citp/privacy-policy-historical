@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidpolice.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623220226id_/https%3A//www.androidpolice.com/androidpolice-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidpolice.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228000329id_/https%3A//www.androidpolice.com/androidpolice-com-privacy-policy) for the most accurate reproduction.*
 
 # AndroidPolice.com Privacy Policy
 
