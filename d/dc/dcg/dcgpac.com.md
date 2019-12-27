@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcgpac.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831102031id_/http%3A//www.dcgpac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcgpac.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227061028id_/https%3A//www.dcgpac.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DCGpac
 
@@ -36,7 +36,7 @@ No data transmission over the Internet or any wireless network can be guaranteed
 
 ****Changes to Privacy Policy****
 
-Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact DCG Tech India in writing (seema@dcgpac.com) and specifically request that DCG Tech India return and/or destroy all copies of all or part of your Collected Information in DCG Tech India’s possession. This Privacy Policy was last amended on Jan 2012.
+Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact DCG Tech India in writing (sales@dcgpac.com) and specifically request that DCG Tech India return and/or destroy all copies of all or part of your Collected Information in DCG Tech India’s possession. This Privacy Policy was last amended on Jan 2012.
 
 ****Correcting Your Information****
 
@@ -44,4 +44,4 @@ You can access, view and edit your Registration Information and Publishing Infor
 
 ****Your feedback****
 
-DCG Tech India welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [sahil@dcgpac.com](mailto:seema@dcgpac.com)
+DCG Tech India welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [sales@dcgpac.com](mailto:seema@dcgpac.com)
