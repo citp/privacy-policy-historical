@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the canvas.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624192230id_/https%3A//www.instructure.com/policies/marketing-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canvas.net privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227224152id_/https%3A//www.instructure.com/policies/marketing-privacy) for the most accurate reproduction.*
 
-# Instructure Privacy Policy | instructure.com
+# Instructure Marketing Privacy Policy | instructure.com
 
-Effective as of May 10, 2018
+Last Updated: October 28, 2019
 
-Instructure, Inc. ( **“INSTRUCTURE”** ) has prepared this Privacy Policy to describe our practices regarding the personal data that may be collected from users of our website, [https://www.instructure.com](https://www.instructure.com/) and any other sites that link to this Privacy Policy ( **“SITE”** ) or through other interactions with Instructure.
+Instructure, Inc. (“Instructure,” “we,” “our,” or “us”) has prepared this Privacy Policy to describe our practices regarding the information collected from visitors to our websites, [https://www.instructure.com](https://www.instructure.com/ "https://www.instructure.com"), [www.canvaslms.com](https://web.archive.org/web/20191227224152id_/https%3A//www.instructure.com/policies/www.canvaslms.com "www.canvaslms.com"), [www.getbridge.com](https://web.archive.org/web/20191227224152id_/https%3A//www.instructure.com/policies/www.getbridge.com "www.getbridge.com"), and any other sites that link to this Privacy Policy (collectively, “Site”), or through other interactions with Instructure. By submitting personal information through our Site, you expressly acknowledge that your personal information will be processed in the United States (U.S.) in accordance with this Privacy Policy. 
+
+To view the privacy policy for our products, please visit <https://www.instructure.com/policies/privacy>.
 
 **DATA COLLECTION.**
 
