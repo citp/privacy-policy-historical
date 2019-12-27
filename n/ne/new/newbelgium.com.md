@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newbelgium.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401092524id_/https%3A//www.newbelgium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbelgium.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227014325id_/https%3A//www.newbelgium.com/privacy) for the most accurate reproduction.*
 
 # New Belgium Brewing Privacy Policy | New Belgium Brewing
 
-[{"event":"dataLayer-initialized","page":{"category":"Craft Beer | Independent","breadcrumb":"Craft Beer | Independent|New Belgium Brewing Privacy Policy"},"user":{"id":null,"type":"visitor","birthday":null,"joinDate":null,"subscribeList":null,"favoriteBeer1":null,"favoriteBeer2":null,"favoriteBeer3":null,"favoriteBeerStyle1":null,"favoriteBeerStyle2":null,"favoriteBeerStyle3":null}}] 
+[{"event":"dataLayer-initialized","page":{"category":"Craft Beer","breadcrumb":"Craft Beer|New Belgium Brewing Privacy Policy"},"user":{"id":null,"type":"visitor","birthday":null,"joinDate":null,"subscribeList":null,"favoriteBeer1":null,"favoriteBeer2":null,"favoriteBeer3":null,"favoriteBeerStyle1":null,"favoriteBeerStyle2":null,"favoriteBeerStyle3":null}}] 
 
 Last modified: September 27, 2016
 
