@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamingobserver.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405021652id_/https%3A//www.streamingobserver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingobserver.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228000724id_/https%3A//www.streamingobserver.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy - Streaming Observer
 
@@ -226,4 +226,4 @@ United States
 
 This website privacy policy was last updated on May 21, 2018.
 
-Copyright © 2008-2018 Law Office of Michael E. Young PLLC and generated with Website Legal Forms Generator software, and licensed for use by the owner of this Website at https://www.streamingobserver.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. Use of this document does not make the website owner a client of the law firm. Contact the website owner with any questions or concerns about this site.
+Copyright © 2008-2019 Law Office of Michael E. Young PLLC and generated with Website Legal Forms Generator software, and licensed for use by the owner of this Website at https://www.streamingobserver.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. Use of this document does not make the website owner a client of the law firm. Contact the website owner with any questions or concerns about this site.
