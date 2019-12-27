@@ -1,77 +1,58 @@
-> *The following text is extracted and transformed from the monsterfollowup.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112204515id_/http%3A//www2.monsterfollowup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterfollowup.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227110516id_/https%3A//monsterfollowup.com/privacy-policy) for the most accurate reproduction.*
 
-# MonsterFollowUp.com » Privacy Policy
+# Privacy Policy - Primacontent
 
-**www.monsterfollowup.com**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [https://monsterfollowup.com/contact/](mailto:admin@monsterfollowup.com).
 
-**Privacy Policy**
+At https://monsterfollowup.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by https://monsterfollowup.com/ and how we use it.
 
-Welcome to www.monsterfollowup.com (the "Site").
+#### **Log Files**
 
-We understand that privacy online is important to users of our Site, especially when conducting business.
+Like many other Web sites, https://monsterfollowup.com/ makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services (collectively, "Services") offered by www.monsterfollowup.com ("Authorized Customers").
+#### **Cookies and Web Beacons**
 
-**What is Personally Identifiable Information?**
+https://monsterfollowup.com/ uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-Personally Identifiable Information refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, Social Security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
+#### **DoubleClick DART Cookie**
 
-**What Personally Identifiable Information is collected?**
+→ Google, as a third party vendor, uses cookies to serve ads on https://monsterfollowup.com/.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to https://monsterfollowup.com/ and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: bill to and ship to names, addresses, phone numbers, email addresses and credit card information needed to authorize purchases and transact payments for products and services.
+#### **Our Advertising Partners**
 
-**What organizations are collecting the information?**
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+  * Google
 
-**How does the Site use Personally Identifiable Information?**
 
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
-**With whom may the information may be shared?**
+_While each of these advertising partners has their own Privacy Policy for their site.  
+You may consult this listing to find the privacy policy for each of the advertising partners of _https://monsterfollowup.com/ _._
 
-Personally Identifiable Information about Authorized Customers may be shared only with other Authorized third party service vendors for purposes of completing transactions. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on https://monsterfollowup.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-**How is Personally Identifiable Information stored?**
+https://monsterfollowup.com/ has no access to or control over these cookies that are used by third-party advertisers.
 
-Personally Identifiable Information collected by www.monsterfollowup.com is securely stored and is not accessible to third parties or employees of www.monsterfollowup.com except for use as indicated above.
+#### **Third Party Privacy Policies**
 
-**What Choices are Available to Visitors Regarding Collection, Use and Distribution of the Information?**
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. https://monsterfollowup.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-Visitors and Authorized Customers may opt out of receiving information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by [contacting us](http://www.monsterfollowup.com/s/admin/index.php?&req_tag=doc&id=10014). 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-**Are Cookies Used on the Site?**
+#### **Children’s Information**
 
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. https://monsterfollowup.com/ does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that https://monsterfollowup.com/ has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-**How do www.monsterfollowup.com  Use Login Information?**
+#### **Online Privacy Policy Only**
 
-www.monsterfollowup.com use login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
-**What Partners or Service Providers Have Access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**
+#### **Consent**
 
-www.monsterfollowup.com have entered into and may continue to enter into relationships with authorized third party vendors for transaction processing, tax accounting and other financial services. Such vendors may have access to certain Personally Identifiable Information on a need to know basis in the course of performing their services. Our privacy policy does not cover their exposure to this information.
+By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-**Disclosure of Personally Identifiable Information to Comply with Law**
+Get the best of the best game hacks without verification, may it be an online or not, as long as it has in-app purchases then you can have them for free. One more thing, our [legit game hack generators](https://monsterfollowup.com/category/game-hacks/) are the real deal but we just offer them for educational purposes which means when getting free items you can customize properly your accounts.
 
-We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
-
-**How Does the Site Keep Personally Identifiable Information Secure?**
-
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
-
-**How Can Visitors Correct Any Inaccuracies in Personally Identifiable Information?**
-
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by [contacting us](http://www.monsterfollowup.com/s/admin/index.php?&req_tag=doc&id=10014).
-
-**Can a Visitor Delete or Deactivate Personally Identifiable Information Collected by the Site?**
-
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by [contacting us](http://www.monsterfollowup.com/s/admin/index.php?&req_tag=doc&id=10014). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
-
-**What Happens if the Privacy Policy Changes?**
-
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
-
-**Links**
-
-This Web site contains links to other Web sites. Please note that when you click on one of these links, or you ask us to forward information to a third party site on your behalf, you are moving to another Web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+Related Page: Read more our [about us](https://monsterfollowup.com/about-us/) to know more about who we are and our company.
