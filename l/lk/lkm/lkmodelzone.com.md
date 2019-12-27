@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lkmodelzone.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328001921id_/http%3A//www.lkmodelzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkmodelzone.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227214149id_/https%3A//www.lkmodelzone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LK Model Zone | Sri Lankan No.01 Model Database | Srilankan Models | Sri Lankan Models Network | Female and Male Models Sri Lanka | Latest Models Sri Lanka
 
@@ -23,6 +23,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 https://www.lkmodelzone.com  
 Galle  
 Sri Lanka   
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+modelsend@gmail.com
 
 Last Edited on 2017-09-28 
