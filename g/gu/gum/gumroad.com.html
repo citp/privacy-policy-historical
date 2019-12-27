@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the gumroad.com privacy policy that was archived on 2019-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630233724id_/https%3A//gumroad.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gumroad.com privacy policy that was archived on 2019-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191227175744id_/https%3A//gumroad.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# gumroad: http://ogp.me/ns/fb/gumroad#">
 <link href="//assets.gumroad.com" rel="dns-prefetch">
 <link href="//static-2.gumroad.com" rel="dns-prefetch">
 <title>Gumroad - Privacy Policy</title>
-<link rel="stylesheet" media="screen" href="https://assets.gumroad.com/assets/application-8c3fbf7c3117d95e42a07a87e23cd5b3f5d3233dc4b7065227910ff7a58e3668.css">
+<link rel="stylesheet" media="screen" href="https://assets.gumroad.com/assets/application-376ad7cff5068c3eaf045d2ca2235cbd622cfdad8745c1d95d52e7929f37e567.css">
 
 
 <!--[if lt IE 10]>
-<link rel="stylesheet" media="screen" href="https://assets.gumroad.com/assets/application_split2-6640d9d734967487aae18badbff368168338f51d80f2fe72164686ec989e90d9.css" debug="false" />
+<link rel="stylesheet" media="screen" href="https://assets.gumroad.com/assets/application_split2-c820e0131168acde84886f48a13c9997569406cf470b5b1d3cc9e695de7b05df.css" debug="false" />
 <![endif]-->
 <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="bHVVFL72U+Wp+6Z7esVc9Sx4nT4pxxp4JczzhCKKZBY=">
+<meta name="csrf-token" content="NQ4Z0zu4cE22nhaXbJfyHtcZb429sK4kIJz2jMHccpU=">
 <meta content="149071038533330" property="fb:app_id">
 <meta content="http://www.facebook.com/gumroad" property="fb:page_id">
 <meta property="twitter:site" value="@gumroad">
@@ -30,7 +30,7 @@
 <meta content="initial-scale = 1.0, user-scalable = no, width = device-width" name="viewport">
 
 <link href="/favicon.ico" rel="shortcut icon">
-<script src="https://assets.gumroad.com/assets/extended_bundle-46e4ca3476d5d9cdc9288b93a8247d06587bb4ed49d220a68fa3ab034c39d775.js"></script>
+<script src="https://assets.gumroad.com/assets/extended_bundle-46e31f47a348b8bd9bf492946262ec4c1662aa534b4492c99be81f967ca57bab.js"></script>
 
 
 </head>
@@ -41,14 +41,17 @@
 <div class="flash-message js-flash-message">
 <div class="message js-message"></div>
 </div>
-<nav class="js-navigation logged-out navigation--primary">
-<div class="mobile-menu-overlay js-navigation-mobile-menu-overlay"></div>
-<div class="container relative">
-<div class="row">
-<a class="navigation-logo public" href="/">
+<nav class="js-navigation logged-out navigation navigation--consumer navigation--logged-out">
+<div class="navigation--primary">
+<div class="navigation--primary__container relative">
+<div class="navigation--primary__row">
+<div class="navigation--primary__logo">
+<a class="public" href="/">
 <i class="icn-logo"></i>
 </a>
-<ul class="navigation-links public js-navigation-links"><li class="nav-item"><a href="http://blog.gumroad.com/" target="_blank">
+</div>
+<div class="navigation--primary__links public js-navigation-links">
+<ul class="navigation-links"><li class="nav-item"><a href="http://blog.gumroad.com/" target="_blank">
 Blog
 </a></li><li class="nav-item"><a href="/features">
 Features
@@ -59,77 +62,97 @@ Login
 </a></li><li class="account nav-item-signup"><a class="button button-primary button-small signup js-signup-trigger js-track-click-event" data-event-name="navbar_signup" data-ga-action="Clicked" data-ga-category="Signups" data-ga-event="1" data-ga-label="Start selling" href="#">
 Start selling
 </a></li></ul>
-<ul class="navigation-search js-discover-search">
-<input class="navigation-search__input js-discover-search-field" placeholder="Search for products...">
-<a class="navigation-search__filter js-discover-search-filter-dropdown-trigger" href="#">Everything</a>
+</div>
+<div class="navigation--mobile">
+<a class="navigation--mobile__button js-discover-search-input-trigger" href="#">
+<i class="gi gi-custom gi-search-custom"></i>
+</a>
+<a class="navigation--mobile__button js-nav-mobile-dropdown-trigger" href="#">
+<i class="gi gi-custom gi-hamburger-custom"></i>
+</a>
+<a class="navigation--mobile__button js-nav-mobile-dropdown-cancel-trigger cancel__button hidden" href="#">
+<i class="gi gi-custom gi-close-custom"></i>
+</a><a class="navigation--mobile__button js-discover-search-cancel-trigger cancel__button hidden" href="#">
+<i class="gi gi-custom gi-close-custom"></i>
+</a>
+
+</div>
+<div class="navigation--primary__search">
+<div class="navigation-search js-discover-search">
+<ul class="navigation-search__input-dropdown js-discover-search-autocomplete-dropdown"></ul>
+<input class="navigation-search__input js-discover-search-field mobile-hidden" placeholder="Search for products...">
+<a class="navigation-search__filter js-discover-search-filter-dropdown-trigger" href="#">Discover</a>
 <ul class="navigation-search__filter-dropdown js-discover-search-filter-dropdown">
-<li class="js-discover-search-filter-option selected" data-value="everything">
-Everything
+<li>
+<a class="js-discover-search-filter-option selected" data-value="everything" href="/discover?category=everything">Everything</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="animation">
-Animation
+<li>
+<a class="js-discover-search-filter-option" data-value="animation" href="/discover?category=animation">Animation</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="software">
-Apps &amp; Software
+<li>
+<a class="js-discover-search-filter-option" data-value="software" href="/discover?category=software">Apps &amp; Software</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="writing">
-Books &amp; Writing
+<li>
+<a class="js-discover-search-filter-option" data-value="writing" href="/discover?category=writing">Books &amp; Writing</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="comedy">
-Comedy
+<li>
+<a class="js-discover-search-filter-option" data-value="comedy" href="/discover?category=comedy">Comedy</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="comics">
-Comics
+<li>
+<a class="js-discover-search-filter-option" data-value="comics" href="/discover?category=comics">Comics</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="crafts">
-Crafts &amp; DIY
+<li>
+<a class="js-discover-search-filter-option" data-value="crafts" href="/discover?category=crafts">Crafts &amp; DIY</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="dance">
-Dance &amp; Theater
+<li>
+<a class="js-discover-search-filter-option" data-value="dance" href="/discover?category=dance">Dance &amp; Theater</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="design">
-Design &amp; Tech Products
+<li>
+<a class="js-discover-search-filter-option" data-value="design" href="/discover?category=design">Design &amp; Tech Products</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="drawing">
-Drawing &amp; Painting
+<li>
+<a class="js-discover-search-filter-option" data-value="drawing" href="/discover?category=drawing">Drawing &amp; Painting</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="education">
-Education
+<li>
+<a class="js-discover-search-filter-option" data-value="education" href="/discover?category=education">Education</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="film">
-Film &amp; Video
+<li>
+<a class="js-discover-search-filter-option" data-value="film" href="/discover?category=film">Film &amp; Video</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="food">
-Food &amp; Cooking
+<li>
+<a class="js-discover-search-filter-option" data-value="food" href="/discover?category=food">Food &amp; Cooking</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="games">
-Games
+<li>
+<a class="js-discover-search-filter-option" data-value="games" href="/discover?category=games">Games</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="merchandise">
-Merchandise
+<li>
+<a class="js-discover-search-filter-option" data-value="merchandise" href="/discover?category=merchandise">Merchandise</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="music">
-Music &amp; Sound Design
+<li>
+<a class="js-discover-search-filter-option" data-value="music" href="/discover?category=music">Music &amp; Sound Design</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="photography">
-Photography
+<li>
+<a class="js-discover-search-filter-option" data-value="photography" href="/discover?category=photography">Photography</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="audio">
-Podcasts &amp; Audiobooks
+<li>
+<a class="js-discover-search-filter-option" data-value="audio" href="/discover?category=audio">Podcasts &amp; Audiobooks</a>
 </li>
-<li class="js-discover-search-filter-option" data-value="sports">
-Sports
+<li>
+<a class="js-discover-search-filter-option" data-value="sports" href="/discover?category=sports">Sports</a>
 </li>
 </ul>
-</ul>
+</div>
+</div>
 
-<a class="navigation-mobile__button js-nav-mobile-dropdown-trigger" href="#"></a>
 
-
+<div class="js-autocomplete-nav-overlay"></div>
+</div>
 </div>
 </div>
 </nav>
+<div class="js-autocomplete-overlay"></div>
 
+<div class="content-wrapper">
 <div class="main-content">
 <div class="container">
 <h3>
@@ -385,8 +408,11 @@ For compliance, fraud prevention and safety
 </div>
 </div>
 
+</div>
 <footer>
-<div class="container">
+<div class="footer__container">
+<div class="footer__row">
+<div class="footer__left">
 <p>
 © 2019 
 <a href="/company">Gumroad, Inc.</a>
@@ -406,28 +432,32 @@ For compliance, fraud prevention and safety
 <option value="fr">Français</option>
 </select>
 </div>
-<ul class="pull-right">
-<li class="footer-item">
+</div>
+<div class="footer__right">
+<ul>
+<li>
 <a href="https://twitter.com/gumroad" target="_blank">
 @gumroad
 </a>
 </li>
-<li class="footer-item">
+<li>
 <a href="https://help.gumroad.com/" target="_blank">
 Help
 </a>
 </li>
-<li class="footer-item">
+<li>
 <a href="/privacy">
 Privacy Policy
 </a>
 </li>
-<li class="footer-item">
+<li>
 <a href="/terms">
 Terms of Use
 </a>
 </li>
 </ul>
+</div>
+</div>
 </div>
 </footer>
 
@@ -443,7 +473,7 @@ Terms of Use
 </a>
 </div>
 
-<form class="row formtastic user" id="login-form" autocomplete="off" novalidate="novalidate" action="https://gumroad.com/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="zmooZi3owsxOCltjQLTBnCYyCODD7kQdhVMKXRGPllGiH31ykx6RKefx/Rg6cZ1pCkqV3uopXmWgn/nZMwXyRw=="><div class="row">
+<form class="row formtastic user" id="login-form" autocomplete="off" novalidate="novalidate" action="https://gumroad.com/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="/kR96dH5vuShShXtFO1QbyPeC3hyY44hUxF7gBoTstHLSmQ66kHOqRfUA3p4eqJx9Mdk9c/TIAVzjY0M28/ARA=="><div class="row">
 <div class="error-wrapper">
 <h3 class="error-indicator soft-hidden full column"></h3>
 </div>
@@ -472,16 +502,14 @@ Log in with Twitter
 </p>
 <button class="button-primary js-login-button">Login</button>
 </div>
-</form>
-<form id="forgot-password-form" class="soft-hidden formtastic user" novalidate="novalidate" action="https://gumroad.com/forgot_password" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="zYvm7DUGEREYizQQ0n/qK/kcOH7iUe63nJyBH+hP+BKh/rP4i/BC9LFwkmuourbe1WSlQMuW9M+5UHKbysWcBA=="><h3 class="error-indicator soft-hidden"></h3>
+</form><form id="forgot-password-form" class="soft-hidden formtastic user" novalidate="novalidate" action="https://gumroad.com/forgot_password" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="btPGfY/Y5O1P7NTtoto68UJg0g9kv07Kvr+YxkPU8M9b3d+utGCUoPlywnrOTcjvlXm9gtkP4O6eI25KggiCWg=="><h3 class="error-indicator soft-hidden"></h3>
 <input placeholder="Email address" class="email required" type="email" name="user[email]">
 <button class="button-primary js-forgot-password-button">Send</button>
 <span class="separator"></span>
 <a class="button button-close js-hide-forgot-password-form-trigger" href="#">
 <i class="icn close"></i>
 </a>
-</form>
-<div class="switch-to row">
+</form><div class="switch-to row">
 <p class="full column">Looking to <a href="#">create an account</a>?</p>
 </div>
 
@@ -497,7 +525,7 @@ Log in with Twitter
 </a>
 </div>
 
-<form class="row" action="https://gumroad.com/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="IVXIAbbcv3fX3JJ0WedN1MAFpxUhyK1qKksmqFYjGkNNIJ0VCCrskn4nNA8jIhEh7H06KwgPtxIPh9UsdKl+VQ=="><div class="row">
+<form class="row" action="https://gumroad.com/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="ziSr/MaLq+8tVUrP1b+AD7pdfb/vc9n9z+EB/S44MOX7KrIv/TPbopvLXFi5KHIRbUQSMlLDd9nvffdx7+RCcA=="><div class="row">
 <h3 class="error-indicator soft-hidden full column"></h3>
 <div class="social-auth six columns">
 <a class="button button-social-facebook button-w-i button-block" href="/users/auth/facebook?referer=%2Fprivacy">
@@ -522,8 +550,7 @@ Connect with Twitter
 <input value="on" type="hidden" name="user[user_was_explicitly_displayed_a_terms_notice]">
 <button class="button-primary button-block js-signup-button" data-ga-action="Clicked" data-ga-category="Signups" data-ga-event="1" data-ga-label="Create account">Create account</button>
 </div>
-</form>
-<div class="switch-to row">
+</form><div class="switch-to row">
 <p class="full column">Did you mean to <a href="#">login</a>?</p>
 </div>
 
@@ -550,9 +577,10 @@ Connect with Twitter
 
 
 
-<script src="https://assets.gumroad.com/packs/js/webpack-runtime-e9c8374c09031780583a.js"></script>
-<script src="https://assets.gumroad.com/packs/js/webpack-commons-aaef540df9bba36704ac.chunk.js"></script>
-<script src="https://assets.gumroad.com/packs/js/base-627ff47b24b58d081149.chunk.js"></script>
+<link rel="stylesheet" media="screen" href="https://assets.gumroad.com/packs/css/webpack-commons-060d729d.chunk.css">
+<script src="https://assets.gumroad.com/packs/js/webpack-runtime-9cac294507f0a2835a5e.js"></script>
+<script src="https://assets.gumroad.com/packs/js/webpack-commons-fb2d45712c4c48e90be0.chunk.js"></script>
+<script src="https://assets.gumroad.com/packs/js/base-690d809024c8d149831d.chunk.js"></script>
 
 
 
