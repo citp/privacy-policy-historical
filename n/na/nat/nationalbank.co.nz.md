@@ -1,34 +1,18 @@
-> *The following text is extracted and transformed from the nationalbank.co.nz privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214131327id_/https%3A//www.anz.co.nz/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalbank.co.nz privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227132229id_/https%3A//www.anz.co.nz/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
 
 # Website security and privacy statement | ANZ
-
-  * About this Security and privacy statement
-  * Acceptance and changes to Security and privacy statement
-  * Security of information
-  * Information collected
-  * Collection of IP addresses
-  * Cookies
-  * Web Analytics
-  * Tracking and Advertising
-  * How we handle e-mail
-  * Third party software 
-  * Use and disclosure of information
-
-
 
 ### About this ANZ Website Security and Privacy statement
 
 This ANZ Website Security and Privacy Statement applies to this website ("ANZ website") but does not include ANZ Internet Banking or ANZ goMoney. This website is operated by ANZ Bank New Zealand Limited ("ANZ", “we” and, together with Australia and New Zealand Banking Group Limited and any companies owned by, or related to those companies whether located in New Zealand or elsewhere the “ANZ Group").
 
-For information about ANZ Internet Banking or goMoney, please see the [ANZ Electronic Banking Conditions of Use (PDF 152kB)](https://web.archive.org/resources/6/7/67cd07804ee131e5bc44fe146f64e4a5/ANZ-Electronic-COU.pdf?MOD=AJPERES "ANZ Electronic Banking Conditions of Use \(PDF 152kB\)")
+For information about ANZ Internet Banking or goMoney, please see the [ANZ Electronic Banking Conditions of Use (PDF 128kB)](https://web.archive.org/content/dam/anzconz/documents/rates-fees-agreements/ANZ-electronic-banking-conditions.pdf "ANZ Electronic Banking Conditions of Use \(PDF 152kB\)")
 
 ANZ understands and appreciates that you, as an ANZ website visitor, are concerned about your privacy and about the confidentiality and security of information we may gain about you online. We are committed to protecting your privacy. This ANZ Website Security and Privacy Statement explains how your information will be treated as you access and interact with ANZ online, including on the ANZ website.
 
 As technology evolves, we will continue to strive to provide you with better, and more customised services and with a more effective website. We encourage you to review the ANZ Website Security and Privacy Statement periodically because it may change from time to time.
 
-The [ANZ Privacy Statement (PDF 36kB)](https://web.archive.org/resources/6/a/6a2db63d-6475-4935-ad5b-17e04feb1d11/Privacy-Statement.pdf?MOD=AJPERES) is contained in the ANZ General Terms and Conditions.It explains how ANZ generally protects your privacy and confidentiality and how ANZ treats your personal information, including any personal information collected in accordance with this ANZ Website and Security Statement. 
-
-Back to top
+The [ANZ Privacy Statement (PDF 42kB)](https://web.archive.org/content/dam/anzconz/documents/common/ANZ-Privacy-Statement.pdf) is contained in the ANZ General Terms and Conditions.It explains how ANZ generally protects your privacy and confidentiality and how ANZ treats your personal information, including any personal information collected in accordance with this ANZ Website and Security Statement. 
 
 ### Acceptance and Changes to Security and Privacy Statement
 
@@ -41,8 +25,6 @@ ANZ may at any time vary the ANZ Website Security and Privacy Statement. At leas
 ANZ takes reasonable steps to preserve the security of cookie and personal information in accordance with the ANZ Website Terms of Use and this ANZ Website Security and Privacy Statement. If your browser is suitably configured, it will advise you whether the information you are sending us will be secure (encrypted) or not secure (unencrypted). If secure transmission is indicated, ANZ currently uses 128 bit SSL encryption.
 
 ANZ regularly reviews developments in security and encryption technologies. Unfortunately, no data transmission over the Internet can be guaranteed as totally secure. Accordingly, although ANZ strives to protect such information, ANZ cannot ensure or warrant the security of any information you transmit to us or from our online products or services and you do so at your own risk. Once we receive your transmission, we take reasonable steps to preserve the security of the information in our own systems.
-
-Back to top
 
 ### Information collected
 
@@ -69,15 +51,11 @@ Where you access a Third Party website from the ANZ website, cookie information,
 
 Third Party websites should contain their own privacy statements and those third parties are responsible for their own privacy practices.
 
-Back to top
-
 ### Collection of IP addresses
 
 It is necessary for ANZ to collect your IP address for your interaction with various parts of the ANZ website. Your IP address is the identifier for your computer when you are using the internet.
 
 ANZ uses your IP address for security purposes, and to help provide you with better and more customised service and a more effective website
-
-Back to top
 
 ### Cookies
 
@@ -87,22 +65,18 @@ If you are a customer and have previously accessed ANZ Internet Banking, then we
 
 Please note that if your browser is configured to reject all cookies you will be unable to use secure services on the ANZ website that require cookies in order to participate. Those services may include online applications and surveys. You may still be able to use some information-only pages even if you do not accept cookies.
 
-Back to top
-
 ### Web Analytics
 
 We use Adobe Analytics to anonymously measure activity across ANZ’s websites and third party websites that have ANZ content. If you are a customer and have previously accessed ANZ Internet Banking, then we can combine information about your activity on our online platforms with personal information we hold about you, in accordance with our ANZ Privacy Statement. If you are not a customer then this activity is collected anonymously.  Adobe Analytics records information about visitors and what they do which we use to improve the user experience of our websites, Internet Banking, application forms and online tools. This information also allows us to tailor the experience and content for a user based on what they have visited or interacted with during a previous visit.
 
 For more information about Adobe Analytics see the links below:
 
-  * [Privacy information for Adobe hosted services](http://www.adobe.com/privacy/hosted-services.html "Privacy information for Adobe hosted services")
-  * [Adobe - opt out of selecting cookies information](http://www.adobe.com/privacy/opt-out.html#4 "Adobe - opt out of selecting cookies information")
+  * [Privacy information for Adobe hosted services](https://www.adobe.com/privacy/experience-cloud.html "Privacy information for Adobe hosted services")
+  * [Adobe - opt out of selecting cookies information](https://www.adobe.com/privacy/opt-out.html#4 "Adobe - opt out of selecting cookies information")
   * [Adobe Analytics website  
-](http://www.adobe.com/nz/solutions/digital-analytics.html "Adobe Analytics website")
+](https://www.adobe.com/nz/analytics/adobe-analytics.html "Adobe Analytics website")
 
 
-
-Back to top
 
 ### Tracking and Advertising
 
@@ -122,24 +96,16 @@ When you access the ANZ website after viewing an ANZ advertisement on a Third Pa
 
 The Advertising and Tracking Companies use this information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. ANZ uses these analyses to track ANZ website and marketing performance and to offer more relevant advertising and content on Third Party websites. ANZ may disclose this information in an aggregate (not personal) form only, to third parties including advertisers or potential advertisers.
 
-We will only use your personal information in connection with advertising on any Third Party website or application in accordance with the [ANZ Privacy Statement (PDF 36kB)](http://www.anz.co.nz/resources/6/a/6a2db63d-6475-4935-ad5b-17e04feb1d11/Privacy-statement.pdf). Some third party advertising vendors, such as Google, allow you to adjust your preferences if you don’t want to receive advertising provided by them online. For more information, click on the ‘ad choices options’ on the advertising you see, or visit the [Network Advertising Initiative](http://www.networkadvertising.org/).
-
-Back to top
+We will only use your personal information in connection with advertising on any Third Party website or application in accordance with the [ANZ Privacy Statement (PDF 42kB)](https://web.archive.org/content/dam/anzconz/documents/common/ANZ-Privacy-Statement.pdf). Some third party advertising vendors, such as Google, allow you to adjust your preferences if you don’t want to receive advertising provided by them online. For more information, click on the ‘ad choices options’ on the advertising you see, or visit the [Network Advertising Initiative](http://www.networkadvertising.org/).
 
 ### How we handle e-mail
 
 We will preserve the content of any e-mail that you send us, if we believe that we have a legal requirement to do so. Your e-mail message content may be monitored by our ANZ employees for security issues including where e-mail abuse is suspected; our response to you may be monitored for quality assurance issues.
 
-Back to top
-
 ### Third party software
 
 ANZ is not responsible for any third-party software used in conjunction with the ANZ website.
 
-Back to top
-
 ### Use and Disclosure of Information
 
 We will only use or disclose personal information or information generated by cookies in accordance with the ANZ Privacy Statement, specific and additional provisions relating to privacy which apply to certain areas of the ANZ Website and as otherwise set out in this ANZ Website Security and Privacy Statement.
-
-Back to top
