@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unibet.com.au privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306124554id_/https%3A//www.unibet.com.au/general-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unibet.com.au privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227091305id_/https%3A//www.unibet.com.au/general-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,25 +16,25 @@ Print
   * 8 Do we transfer your data outside the EEA?
   * 9 How long will Unibet keep my data?
   * 10 Your rights & choices over your personal information
-  * 11 Security of your data
+  * 11 Security of your data and confidentiality
   * 12 Complaints
-  * 13 Changes to Kindred Privacy Notice
+  * 13 Changes to the Privacy Notice
 
 
 
 ### 1 Introduction and general terms
 
-At Unibet, we are committed to protecting and respecting your privacy and maintaining the confidence and trust of our customers.
+At Unibet we are committed to protecting and respecting your privacy and maintaining the confidence and trust of our customers.
 
-This Privacy Notice explains how and why your personal information is collected, why it is collected and how it is kept secure.
+This Privacy Notice explains how and why your personal information is collected, through the use of our website [www.unibet.com](http://www.unibet.com/) and all variants thereof, including our mobile apps (the “ **Website** ”), why it is collected and how it is kept secure.
 
 Back to top
 
 ### 2 Who are we?
 
-Unibet is a brand of Kindred Group. Kindred is listed on the Nasdaq OMX Nordic Exchange in Stockholm and is one of the largest listed online gambling operators in the European market. Founded in 1997, it has substantial expertise in the area of online gambling and is a leader in providing innovative solutions focusing on the protection of customers, increased transparency and a safer safe and secure player environment. You can find more information at [www.kindredgroup.com](http://www.kindredgroup.com/)
+Unibet is Platinum Gaming Limited, a company duly registered   the laws of Gibraltar, with Company Registration No. 114100, and having its registered office and business address at Suite 2B, 143 Main Street, Gibraltar GX11 1AA, the “ **Data Controller”** under this Notice.  Unibet belongs to Kindred Group plc (“Kindred Group”). Kindred Group is listed on the Nasdaq OMX Nordic Exchange in Stockholm and is one of the largest listed online gambling operators in the European market. Founded in 1997, it has substantial expertise in the area of online gambling and is a leader in providing innovative solutions focusing on the protection of customers, increased transparency and a safer safe and secure player environment. You can find more information at [www.kindredgroup.com](http://www.kindredgroup.com/)
 
-Kindred operates across different markets and jurisdictions, and has in its portfolio the following brands: Unibet, Bingo.com, Storspiller, Bohemia Casino, MariaCasino, 32Red, RoxyPalace, Vlad Cazino, iGame, Casinohuone, Pokerihuone, Bingohuone, Kolikkopelit.
+Kindred Group operates across different markets and jurisdictions, and has in its portfolio the following brands: Unibet, Bingo.com, Storspiller, Bohemia Casino, MariaCasino, 32Red, RoxyPalace, Vlad Cazino, iGame, Casinohuone, Pokerihuone, Bingohuone, Kolikkopelit.
 
 Back to top
 
@@ -42,7 +42,7 @@ Back to top
 
 There are various ways you can contact us.
 
-For general queries do not hesitate to get in touch with our Customer Service team via phone, email or live chat - please see our [Contact us ](https://www.unibet.com/help/)page.
+For general queries do not hesitate to get in touch with our Customer Service team via phone, email or live chat - please see our [Contact us ](https://web.archive.org/help)page.
 
 If you have specific questions regarding your personal information or how we use it, please contact our Data Protection Officer directly by email ([DPO.officer@kindredgroup.com](mailto:DPO.officer@kindredgroup.com)).
 
@@ -50,7 +50,7 @@ Back to top
 
 ### 4 What types of personal information do we collect?
 
-We collect personal information when you interact with us and use our services. Sometimes, this information is provided to us by you – like when you register for the first time and when you make use of our products or get in touch with us. Sometimes third parties or publicly available sources provide us information about you.
+We collect personal information when you interact with us and use our services (the "Services"). Sometimes, this information is provided to us by you – like when you register for the first time and when you make use of our products or get in touch with us. Sometimes third parties or publicly available sources provide us information about you.
 
  **Information you provide to us**
 
@@ -63,10 +63,10 @@ At registration:
 
 
 
-Through your use of Kindred’s services:
+Through your use of our Services:
 
   * Information about how you interact with our products
-  * Information about your online browsing behaviour on Kindred’s websites, mobile apps, and other Kindred content online – please see our [Cookies Policy](https://web.archive.org/general/cookies) for more details;
+  * Information about your online browsing behaviour on the Website – please see our [Cookies Policy](https://web.archive.org/general-info/cookies) for more details;
   * Information about any devices you have used to access our Services (such as model, operating system, IP address, browser type, mobile device identifier)
   * Recording phone calls – we may monitor or record phone calls with you. We might do this to check that we have carried out your instructions correctly; to resolve queries or issues; for regulatory purposes; to help improve our quality of service; to help us train our staff; or to help detect or prevent fraud or other crimes.
 
@@ -84,27 +84,27 @@ Information you shared with us voluntarily or else, made public, like social med
 
  **Information about third parties**
 
-If you give us personal information about someone else (for example via a Refer a Friend scheme) then you should not do so without their permission. Where information is provided by you about someone else, or someone else discloses information about you, it may be added to any personal information that is already held by us and it will be used in the ways described in this Privacy Notice. This list of personal data types collected by Kindred is not exhaustive and further information may be requested from you when Kindred considers it fair and necessary to do so.
+If you give us personal information about someone else (for example via a Refer a Friend scheme) then you should not do so without their permission. Where information is provided by you about someone else, or someone else discloses information about you, it may be added to any personal information that is already held by us and it will be used in the ways described in this Privacy Notice. This list of personal data types collected by Unibet is not exhaustive and further information may be requested from you when Unibet considers it fair and necessary to do so.
 
  **Special categories of data**
 
-Personal data collected by Kindred may include so called “special categories of data”, such as data revealing health (responsible gambling related). 
+Personal data collected by Unibet may include so called “special categories of data”, such as data revealing health (responsible gambling related) (see Section 5E). 
 
-We have in place additional measures to protect your sensitive personal data and its confidentiality.
+We have in place additional measures to protect your sensitive personal data and its confidentiality (see Section 11).
 
 Back to top
 
 ### 5 Why do we collect your Personal Data and on what basis?
 
-We recognise the trust and confidence our customers place in us as a service provider. In return, Kindred is open about why we collect your data. First and foremost, collecting your information is essential for providing you the services and products you want. In addition, your data is used to personalise and improve your experience using our services, and to contact you from time to time with important information. In some cases, we need to collect and use your information to comply with the law. Under data protection laws, we also need to identify a specified lawful basis upon which we are processing your personal information. We rely on different bases for different processing activities.
+We recognise the trust and confidence our customers place in us as a service provider. In return, Unibet is open about why we collect your data. First and foremost, collecting your information is essential for providing you the services and products you want. In addition, your data is used to personalise and improve your experience using our services, and to contact you from time to time with important information. In some cases, we need to collect and use your information to comply with the law. Under data protection laws, we also need to identify a specified lawful basis upon which we are processing your personal information. We rely on different bases for different processing activities.
 
- **A) Under the contract**  – when it is necessary for the performance of a contract to which you are a party. Our [T&Cs](https://web.archive.org/general/terms-and-conditions), which you have accepted at registration, set out the terms of the contract and the services we will provide:
+ **A) Under the contract**  – when it is necessary for the performance of a contract to which you are a party. Our [T&Cs](https://web.archive.org/general-info/terms), which you have accepted at registration, set out the terms of the contract and the services we will provide:
 
  **To make our services available to you as part of our contract**
 
   * to provide gaming and betting services, activities or online content, to provide you with information about them and to deal with your requests and enquiries;
-  * for "service administration purposes", such as password reminders, service messages, such as site maintenance, updates to our Privacy and Cookies Policy or Terms of Use, to let you know if your Kindred account has become dormant and to ask if you would like to use it again before we close it;
-  * to assess betting risk - when you make a bet, an automated system may be used to assess the risk connected to your bet, in accordance with our [Betting Rules](https://a1s.unicdn.net/polopoly_fs/1.925557.1499167613!/menu/standard/file/UnibetT%26Cv1.5-EN\(COM\).pdf). It is a system widely used by the betting operators to help make fair and informed decisions on betting. Betting scoring takes account of information you provide (both, at registration and through your use of our services). If your bet has been rejected or limited, you have the right to ask for a manual assessment by our traders.
+  * for 'service administration purposes', such as password reminders, service messages, such as site maintenance, updates to our Privacy and Cookies Policy or Terms of Use, to let you know if your Unibet account has become dormant and to ask if you would like to use it again before we close it;
+  * to assess betting risk - when you make a bet, an automated system may be used to assess the risk connected to your bet, in accordance with our Betting Rules (see [Section 15 of our Terms and Conditions](https://www.unibet.co.uk/general-info/terms#section-15)). It is a system widely used by the betting operators to help make fair and informed decisions on betting. Betting scoring takes account of information you provide (both, at registration and through your use of our services). If your bet has been rejected or limited, you have the right to ask for a manual assessment by our traders.
   * to process your transactions;
 
 
@@ -114,14 +114,14 @@ We recognise the trust and confidence our customers place in us as a service pro
  **To personalise your experience**
 
   * to offer a more relevant, tailored service; for instance, we could use your playing history to provide personalised recommendations and products;
-  * If you are signed-in or subscribed to our marketing offers, you will receive a personalised service. If you don’t want to receive these services you can unsubscribe from marketing offers, or disable personalisation by contacting our [Customer Service](https://web.archive.org/general/contact-us) or sending an email to [DPO.officer@kindredgroup.com](mailto:DPO.officer@kindredgroup.com)
+  * If you are signed-in or subscribed to our marketing offers, you will receive a personalised service. If you don’t want to receive these services you can unsubscribe from marketing offers, or disable personalisation by contacting our [Customer Service](https://web.archive.org/help/contact) or sending an email to [DPO.officer@kindredgroup.com](mailto:DPO.officer@kindredgroup.com)
 
 
 
  **To improve our services and products**
 
   * to provide you with the most user-friendly online navigation experience;
-  * for analysis and research purposes so that we may improve the services offered by Kindred;
+  * for analysis and research purposes so that we may improve the services offered by Unibet;
   * testing new systems and checking upgrades to existing systems;
   * evaluating the effectiveness of marketing and for market research and training;
   * customer modelling, statistical and trend analysis, with the aim of developing and improving products and services.
@@ -132,7 +132,7 @@ We recognise the trust and confidence our customers place in us as a service pro
 
   * Contact you about our services, for example by phone, email or post or social media;
   * Manage promotions and competitions you choose to enter;
-  * Invite you to take part in and manage customer surveys, questionnaires and other market research activities carried out by Kindred and by other organisations on our behalf (We carry out market research to improve our services, however, if we contact you about this, you do not have to take part in the activities. If you tell us that you do not want us to contact you for market research, we will respect this choice and this will not affect your ability to use our services);
+  * Invite you to take part in and manage customer surveys, questionnaires and other market research activities carried out by Unibet and by other organisations on our behalf (We carry out market research to improve our services, however, if we contact you about this, you do not have to take part in the activities. If you tell us that you do not want us to contact you for market research, we will respect this choice and this will not affect your ability to use our services);
   * Respond to your queries and complaints.
 
 
@@ -142,7 +142,7 @@ We recognise the trust and confidence our customers place in us as a service pro
   * to deter, prevent or detect the use of third party software in peer-to-peer gambling;
 
 
-  * to deter, prevent, or detect any activities conducted in breach of the Kindred T&Cs.
+  * to deter, prevent, or detect any activities conducted in breach of our Terms and Conditions.
 
 
 
@@ -153,24 +153,24 @@ We recognise the trust and confidence our customers place in us as a service pro
   * crime detection, prevention, and prosecution;
   * to verify your identity and establish the source of funding in any transaction;
   * to carry out appropriate anti-fraud checks (by conducting online searches using a third party identity provider). Please note that this will not affect your credit rating;
+  * to ensure your personal information remains accurate.  In connection with these obligations we may periodically re-verify the personal data we hold about you to ensure it remains accurate and current (including by disclosing your personal data to and receiving personal data about you from third party identity and address verification services).  If we update your personal data as a result of these verification processes, we will take reasonable steps to inform you.  If you believe any of the personal data we hold about you is not accurate, please contact us using contact details in Section 3;
   * to assess and manage any potential risks and prevent problem gambling.
 
 
 
- **Under your consent**
+ **D) Under your consent**
 
  **Marketing and market research**
 
 We will send you relevant offers and news about our products and services in a number of ways including by email, sms, phone call, post, social media targeted advertising, but only if you have previously agreed to receive these marketing communications. When you register with us we will ask if you would like to receive marketing communications, and you can change your marketing choices online, over the phone or in writing at any time. 
 
-We may use information which we hold about you to show you relevant advertising on third party sites (e.g. Facebook, Google, Instagram, Snapchat and Twitter). If you don’t want to be shown targeted advertising messages from us, some third party sites allow you to request not to see messages from specific advertisers on that site in future. If you want to stop all personalised services from us, including targeted advertising messages on third party sites you can contact our [Customer Service](https://web.archive.org/general/contact-us) or email our Data Protection Officer ([DPO.officer@kindredgroup.com](mailto:DPO.officer@kindredgroup.com)) to disable personalisation. We also like to hear your views to help us to improve our services, so we may contact you for market research purposes. You always have the choice about whether to take part in our market research.
+We may use information which we hold about you to show you relevant advertising on third party sites (e.g. Facebook, Google, Instagram, Snapchat and Twitter). If you don’t want to be shown targeted advertising messages from us, some third party sites allow you to request not to see messages from specific advertisers on that site in future. If you want to stop all personalised services from us, including targeted advertising messages on third party sites you can contact our [Customer Service](https://web.archive.org/help/contact) or email our Data Protection Officer ([DPO.officer@kindredgroup.com](mailto:DPO.officer@kindredgroup.com)) to disable personalisation. We also like to hear your views to help us to improve our services, so we may contact you for market research purposes. You always have the choice about whether to take part in our market research.
 
  **E) Special categories of data**
 
 We will only process such data if:
 
   * you have given us your explicit consent;
-  * it is necessary for the purposes of carrying out the obligations and exercising specific rights of Kindred or of the data subject in the field of employment and social security and social protection law;
   * it relates to personal data which you have made public;
   * it is necessary for the establishment, exercise or defence of legal claims;
   * is necessary for reasons of substantial public interest, on the basis of European Union or Member State law.
@@ -181,14 +181,14 @@ Back to top
 
 ### 6 Cookies and similar technologies
 
-Kindred’s websites and Apps use cookies for various purposes.
+Unibet’s websites and Apps use cookies for various purposes.
 
 We use cookies for the following purposes:
 
-  1. to identify the Account Holder's preferred language, so it can be automatically selected when the Account Holder returns to the Website;
+  1. to identify the Account Holder's (as defined in our Terms and Conditions) preferred language, so it can be automatically selected when the Account Holder returns to the Website;
   2. to ensure that bets placed by the Account Holder are associated with the Account Holder's betting coupon and Account;
   3. to ensure that the Account Holder receives any bonuses for which they are eligible, and
-  4. for analysis of the Website traffic, so as to allow Kindred to make suitable improvements.
+  4. for analysis of the Website traffic, so as to allow Unibet to make suitable improvements.
 
 
 
@@ -198,7 +198,7 @@ Back to top
 
 ### 7 When do we share your personal information?
 
-We do not share your personal information to third parties outside the Kindred Group for marketing purposes. However, there are circumstances when we share your personal data with other companies in the Kindred Group, with third parties that provide services to you on our behalf, and with other third parties in the course of complying with our legal obligations. Other examples of when we share your personal information include when we enter any kind of merger or business sale. Even when it is shared, we ensure that your personal information will only be used for the purposes outlined in this policy.
+We do not share your personal information to third parties outside the Kindred Group for marketing purposes. However, there are circumstances when we share your personal data with other companies in the Kindred Group, with third parties that provide services to you on our behalf, and with other third parties in the course of complying with our legal obligations. Other examples of when we share your personal information include when we enter any kind of merger or business sale, as customers’ personal information is likely to be included in the sale/transfer.  We would inform you prior to affecting such transfer of personal data. Even when it is shared, we ensure that your personal information will only be used for the purposes outlined in this Privacy Notice.
 
  **With other companies within Kindred Group**
 
@@ -225,7 +225,7 @@ We may share personal data with third parties in the following circumstances:
   * when ordered to do so by any regulatory body and/or under any legal provision contained in the governing law;
   * we may instruct and authorise the Financial Institution with which an Account Holder's account is held to disclose any information as may be requested by the Regulator in respect of an Account Holder's account;
   * in order to establish, exercise or defend our legal rights;
-  * for fraud detection and control purposes, we may transfer your personal data to third parties, including but not limited to so-called Address Verification System service providers, Payment Service Providers and Financial Institutions. Furthermore, we reserve the right to disclose the Account Holder’s personal data to relevant parties where Kindred has reasonable grounds to suspect irregularities involving a Kindred Account;
+  * for verification, and fraud detection purposes, we may transfer your personal data to third parties, including but not limited to so-called Address Verification System service providers, Payment Service Providers, Financial Institutions, and credit reference agencies such as Transunion, which will leave a “soft” footprint on your credit file; more details: <https://www.transunion.co.uk/legal-information/privacy-centre> . Furthermore, we reserve the right to disclose the Account Holder’s personal data to relevant parties where Unibet has reasonable grounds to suspect irregularities involving a Unibet Account;
   * with service providers to enable us to provide our services, such as companies that help us with technology services, storing and combining data, and processing payments or providing relevant online advertising for our products and services;
   * with external auditors who may carry out independent checks as part of our accreditations
   * to an organisation we sell or transfer (or enter into negotiations to sell or transfer) any of our businesses or any of our rights or obligations under any agreement we may have with you to. If the transfer or sale goes ahead, the organisation receiving your personal data can use your personal data in the same way as us; or
@@ -241,7 +241,7 @@ The personal data that we collect from you may be transferred to, and stored at,
 
 Any transfer of your personal information to a location outside the EEA will be based on:
 
-  * the contractual [Model Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) adopted by the European Commission or a relevant data protection authority; or
+  * the contractual [ Standard Data Protection Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) adopted by the European Commission or a relevant data protection authority; or
   * an [adequacy decision](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en) from the European Commission, confirming that the third country provides adequate protection for your personal information; or
   * [Privacy Shield](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en) when transferring to the US (this is a form of certification which ensures that your data is handled in a way that is compatible with the strong EU protections); or
   * Your consent, or another legal basis on which we are entitled to make the transfer.
@@ -252,9 +252,9 @@ Back to top
 
 ### 9 How long will Unibet keep my data?
 
-We will only retain your information for as long as is reasonably necessary to carry out the purposes outlined above and to satisfy our legal obligations. While you are a customer, we will usually need to retain your information to meet our legal and contractual requirements. However, when you cease using Kindred services, we will normally still retain your personal information for a period of time.
+We will only retain your information for as long as is reasonably necessary to carry out the purposes outlined above and to satisfy our legal obligations. While you are a customer, we will usually need to retain your information to meet our legal and contractual requirements. However, when you cease using Unibet's Services, we will normally still retain your personal information for a period of time.
 
-Typically, we will store your personal information for a period of ten years after you cease being a customer of Kindred, beginning at the date your account is closed. There are several reasons which we retain your information, these include:
+Typically, we will store your personal information for a period of ten years after you cease being a customer of Unibet, beginning at the date your account is closed. There are several reasons which we retain your information, these include:
 
   * To comply with legal obligations under EU/local laws (for example, anti-money laundering regulations, or licensing regulations);
   * To establish or defend legal claims (for example negligence claims) which could be made against us.
@@ -265,7 +265,9 @@ Back to top
 
 ### 10 Your rights & choices over your personal information
 
-We appreciate that by law and subject to certain conditions, you have a number of rights concerning the personal information we hold about you. If you wish to exercise these rights, you should contact our Data Protection Officer using the details set out above in Section 3. These rights include the right to access, amend and erase the personal information we hold about you, the right to object to the processing of your data, the right to withdraw consent, and the right to data portability. You also have the right to complain to your data protection authority if you are concerned with how we process your information. In addition, you have certain rights relating to automated decision-making and ‘profiling’. Further information and advice about your rights can be obtained from our lead data protection authority, [IDPC](https://idpc.org.mt/en/Pages/Home.aspx) or from your country’s data protection regulator.
+We appreciate that by law and subject to certain conditions, you have a number of rights concerning the personal information we hold about you. If you wish to exercise these rights, you should contact our Data Protection Officer using the details set out above in Section 3. These rights include the right to access, amend and erase the personal information we hold about you, the right to object to the processing of your data, the right to withdraw consent, and the right to data portability. You also have the right to complain to your data protection authority if you are concerned with how we process your information. In addition, you have certain rights relating to automated decision-making and ‘profiling’. Further information and advice about your rights can be obtained from your country’s data protection regulator, the [Information Commissioner's Office](https://ico.org.uk/) (the "ICO").
+
+The personal information we ask for on registration is compulsory (unless indicated in the forms as optional) and we need it to be able to process your registration, contact you and comply with gambling and financial laws to which you are subject. Unfortunately, therefore, if you do not want to provide such personal information, you will not be able to use our services.
 
  **Right to access and rectify the information we hold about you**
 
@@ -343,19 +345,25 @@ Please note that the right  **does not apply**  when the processing is:
 
 
 
+Any requests relevant to this Section must be addressed in writing to our Data Protection Officer on [DPO.officer@kindredgroup.com](mailto:DPO.officer@kindredgroup.com).
+
+We will respond to any of your requests relevant to this Section within one (1) month from their receipt. Upon prior notice, this period may be extended by a further two (2) months if necessary, taking into account the complexity of the request and the number of any other pending requests. In case of rejection of your request, we will provide relevant justification.
+
+If your request does not meet the requirements of the data protection law, we reserve the right either to: (a) impose a reasonable fee, taking into account the administrative costs of providing the information or communicating or executing the requested action; or (b) reject your request.
+
 Back to top
 
-### 11 Security of your data
+### 11 Security of your data and confidentiality
 
-Kindred is committed to protecting the personal information you entrust to us. We take all reasonable steps to ensure that all information collected through our Sites is treated securely and in line with this Policy and strict data protection standards. Accordingly, we have adopted robust procedures and technologies to protect your data from unauthorised access and improper use.
+We are committed to protecting the personal information you entrust to us. We take all reasonable steps to ensure that all information collected through our Website is treated securely and in line with this Privacy Notice and strict data protection standards. Accordingly, we have adopted robust procedures and technologies to protect your data from unauthorised access and improper use.
 
-After logging in all information sent to and from the Kindred site is encrypted using 128-bit Secure Socket Layer (SSL) technology. The SSL certificate used is issued and verified by Trustwave, click on the image for more information.
+After logging in all information sent to and from the |Website is encrypted using 128-bit Secure Socket Layer (SSL) technology. The SSL certificate used is issued and verified by Trustwave, click on the image for more information.
 
-Your credit card details are encrypted and sent only once over the Internet to Kindred. It is then stored encrypted in Kindred's secure systems. Kindred is dedicated to protecting our customers confidential information and, as part of doing so, Kindred is certified towards the Payment Card Industries Data Security Standard.
+Your credit card details are encrypted and sent only once over the internet to Unibet. It is then stored encrypted in our secure systems. We are dedicated to protecting our customers’ confidential information and, as part of doing so, we are certified towards the Payment Card Industries Data Security Standard.
 
-The security of Kindred’s systems and applications are tested several times per year by third-party security experts. Furthermore Kindred has an Intrusion Detection System that monitors all network traffic 24/7 for signs of attacks or intrusions.
+The security of our systems and applications are tested several times per year by third-party security experts. Furthermore we have an Intrusion Detection System that monitors all network traffic 24/7 for signs of attacks or intrusions.
 
-Kindred has a dedicated fraud department and advanced systems in place to detect and prevent suspicious activity, to ensure that Kindred’s website remains a secure playing-field. Any account involved in suspicious activity will be suspended and investigated to the fullest extent. Should you as user have any doubts about the activity on your account, such as unrecognized transactions in the transaction history or surprising changes in the balance, please contact us immediately.
+We have a dedicated fraud department and advanced systems in place to detect and prevent suspicious activity, to ensure that the Website remains a secure playing-field. Any account involved in suspicious activity will be suspended and investigated to the fullest extent. Should you as user have any doubts about the activity on your account, such as unrecognized transactions in the transaction history or surprising changes in the balance, please contact us immediately.
 
 Back to top
 
@@ -363,13 +371,13 @@ Back to top
 
 If you wish to raise a complaint on how we have handled your personal data, you can contact us to have the matter investigated by emailing [DPO.officer@kindredgroup.com](mailto:DPO.officer@kindredgroup.com).
 
-If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law you can complain to our lead data protection authority, the Office of the Information and Data Protection Commissioner ([IDPC](https://idpc.org.mt/en/Pages/contact/complaints.aspx)) or your national data protection regulator.
+If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law you can complain to the [ICO](https://ico.org.uk/make-a-complaint/) or your national data protection regulator.
 
 Back to top
 
-### 13 Changes to Kindred Privacy Notice
+### 13 Changes to the Privacy Notice
 
-This Privacy Notice may be updated from time to time to reflect changes in the way we work or the way our work is regulated - so you may wish to check it each time you submit personal information to us. The date of the most recent revisions will appear on this page. If you do not agree to these changes, please do not continue to submit personal information to Kindred or use Kindred services in any way. Otherwise, by continuing to do this, you will be deemed to have accepted the changes to the Privacy Notice. You can also delete your Kindred account at any time. If significant changes are made to the Privacy Notice, for instance affecting how we would like to use your personal information, we will provide a more prominent notice (including, for certain services, notification of Privacy Notice changes by email).
+This Privacy Notice may be updated from time to time to reflect changes in the way we work or the way our work is regulated - so you may wish to check it each time you submit personal information to us. The date of the most recent revisions will appear on this page. If you do not agree to these changes, please do not continue to submit personal information to Unibet or use our Services in any way. Otherwise, by continuing to do this, you will be deemed to have accepted the changes to the Privacy Notice. You can also delete your Unibet  account at any time. If significant changes are made to the Privacy Notice, for instance affecting how we would like to use your personal information, we will provide a more prominent notice (including, for certain services, notification of Privacy Notice changes by email), and you will be required to expressly accept such a change in order to continue using the Services and the change will apply immediately following your acceptance thereof.
 
 Back to top
 
