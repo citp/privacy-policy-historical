@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626235244id_/https%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227230541id_/https%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
 
 # Edit x-vr1Page Privacy Policy - VerticalResponse
 
