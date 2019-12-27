@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the justupit.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007174450id_/http%3A//justupit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justupit.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227065312id_/https%3A//justupit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Just Up It
+
+## Privacy Policy:
 
 Jim Butler (" **Jim** ") operates justupit.com and may operate other websites. It is Jim’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -12,7 +14,7 @@ Jim also collects potentially personally-identifying information like Internet P
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Jim’s websites choose to interact with Jim in ways that require Jim to gather personally-identifying information. The amount and type of information that Jim gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [justupit.com](http://justupit.com/) to provide a username and email address. Those who engage in transactions with Jim are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Jim collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Jim. Jim does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Jim’s websites choose to interact with Jim in ways that require Jim to gather personally-identifying information. The amount and type of information that Jim gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [justupit.com](https://justupit.com/) to provide a username and email address. Those who engage in transactions with Jim are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Jim collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Jim. Jim does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
