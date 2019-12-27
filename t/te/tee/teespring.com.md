@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the teespring.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629002255id_/https%3A//teespring.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teespring.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227182751id_/https%3A//teespring.com/policies/privacy) for the most accurate reproduction.*
 
 # About Teespring / Privacy Policy | Teespring
 
 Welcome to Teespring! Teespring is a global company offering an internet-based service (the **“Teespring Service”** ) that allows campaign creators ( **“sellers”** ) to design certain products and promote the sale of those products to consumers ( **“buyers”** ) around the world through individual campaigns. This Privacy Policy applies to the Teespring Service, operated by Teespring, Inc. and its subsidiaries (collectively, **“Teespring”** ), and located at teespring.com (and other regional URLs).
 
-This Privacy Policy describes how Teespring collects and uses the information we obtain when you use the Teespring Service. It also describes the choices available to you regarding our use of your Personal Information and how you can access and manage that information. This Privacy Policy is part of and is governed by our [Terms of Service](https://web.archive.org/policies/terms), which you accept in order to transact with us. Your acceptance of this Privacy Policy includes your consent to our use of cookies and other similar technologies as described in this document.
+This Privacy Policy describes how Teespring collects and uses the information we obtain when you use the Teespring Service. It also describes the choices available to you regarding our use of your Personal Information and how you can access and manage that information. This Privacy Policy is part of and is governed by our [Terms of Service](https://web.archive.org/en-GB/policies/terms), which you accept in order to transact with us. Your acceptance of this Privacy Policy includes your consent to our use of cookies and other similar technologies as described in this document.
 
 To note, our site may include links to other web sites whose privacy practices may differ from those of Teespring. Because the use of your information is governed by their privacy policies, we encourage you to read each policy carefully. We are not responsible for the policies or practices of any third party website or service.
 
@@ -34,7 +34,7 @@ We use Performance Information to analyze and better understand the characterist
 
 Teespring does not collect Personal Information about your online activities over time, across different web sites. Accordingly, Teespring does not currently respond to “do not track” browser requests.
 
-Teespring processes Personal Information in the United States. Please note that you are agreeing to the transfer of your Personal Information to the United States and other locations throughout the world. Your Personal Information will be processed in accordance with this Privacy Policy. Teespring, Inc. participates in the Safe Harbor program maintained by the US Department of Commerce and the European Union and has certified that it adheres to the program’s privacy principles. To learn more about those principles and the program, visit [the U.S. Department of Commerce](http://www.export.gov/safeharbor/eu/eg_main_018365.asp).
+Teespring processes Personal Information in the United States. Please note that you are agreeing to the transfer of your Personal Information to the United States and other locations throughout the world. Your Personal Information will be processed in accordance with this Privacy Policy.
 
 We will share information we collect, including your Personal Information, as needed to provide the Teespring Service to you. We will also share your Personal Information with your permission. Otherwise, we do not rent, sell or share your Personal Information with third parties and specifically will not share your Personal Information for their direct marketing purposes without your consent.
 
@@ -50,7 +50,7 @@ We will share information we collect, including your Personal Information, as ne
 
 We may also disclose your personal information to any other third party with your prior consent.
 
-Upon request Teespring will provide you with information about whether we hold any of your personal information. If you would like to update or modify any Personal Information you have provided to us, you can do so in the account settings tab of your dashboard or by [contacting us](https://web.archive.org/email_us). For your protection, we will require some proof of your identity to obtain any Personal Information hosted on our site. Additionally, you may deactivate your account by [contacting us](https://web.archive.org/email_us). At your request, we will remove your Personal Information, provided we have no outstanding business or other obligation requiring such information. We will respond to your request within a reasonable timeframe.
+Upon request Teespring will provide you with information about whether we hold any of your personal information. If you would like to update or modify any Personal Information you have provided to us, you can do so in the account settings tab of your dashboard or by [contacting us](https://web.archive.org/en-GB/email_us). For your protection, we will require some proof of your identity to obtain any Personal Information hosted on our site. Additionally, you may deactivate your account by [contacting us](https://web.archive.org/en-GB/email_us). At your request, we will remove your Personal Information, provided we have no outstanding business or other obligation requiring such information. We will respond to your request within a reasonable timeframe.
 
 We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age without parental consent, and no part of the Teespring Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at [privacy@teespring.com](mailto:privacy@teespring.com).
 
@@ -146,4 +146,4 @@ Teespring, Inc
 San Francisco, CA 94108  
 [privacy@teespring.com](mailto:privacy@teespring.com)
 
- _Updated on May 25, 2018_
+ _Updated on November 18, 2019_
