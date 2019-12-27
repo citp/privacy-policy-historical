@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightcom.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626233803id_/http%3A//www.brightcom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightcom.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227233838id_/http%3A//www.brightcom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brightcom
 
@@ -20,7 +20,7 @@ We have included below information about which data is collected, how we process
 
 
 
-If you have any questions about this Privacy Policy, please contact us at: at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#92e2f3e0e6fcf7e0e1d2f0e0fbf5fae6f1fdffbcf1fdff) (or as described below).
+If you have any questions about this Privacy Policy, please contact us at: at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a4d4c5d6d0cac1d6d7e4c6d6cdc3ccd0c7cbc98ac7cbc9) (or as described below).
 
 **INFORMATION WE MAY COLLECT**
 
@@ -38,7 +38,7 @@ You are not required by law to provide us with any information. You can always a
 ---|---  
 In the event you **contact us** for support or other inquiries, either through the [**online form**](http://www.brightcom.com/blog/contact/) available on the Site, by sending us an email or by other means of communications we make available, you will be requested to provide us your name and email address. | We will use this information solely for the purpose of responding to your inquiries and provide you with the support or information you have requested.  
 Identifiers | We either directly or indirectly may collect our visitors’ of the Site IP or Identifiers when using the Services. We use this for our legitimate interests of operating, providing, maintaining, protecting, managing, customizing and improving our Site and Services and the way in which we offer them; (ii) enhancing your experience with the Services; (iii) our legitimate interests of auditing and tracking usage statistics and traffic flow; and (iv) our legitimate interest of serving personalized advertisements on Digital Assets.   
-If you voluntarily subscribe to our newsletter you will be asked to provide us with your email address. You can unsubscribe at any time using the unsubscribe option within the body of the newsletter or rather or by contacting customer support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1e6e7f6c6a707b6c6d5e7c6c7779766a7d7173307d7173) | If you voluntarily subscribe to our newsletter you will be asked to provide us with your email address. You can unsubscribe at any time using the unsubscribe option within the body of the newsletter or rather or by contacting customer support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c6b6a7b4b2a8a3b4b586a4b4afa1aeb2a5a9abe8a5a9ab)  
+If you voluntarily subscribe to our newsletter you will be asked to provide us with your email address. You can unsubscribe at any time using the unsubscribe option within the body of the newsletter or rather or by contacting customer support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#afdfcedddbc1cadddcefcdddc6c8c7dbccc0c281ccc0c2) | If you voluntarily subscribe to our newsletter you will be asked to provide us with your email address. You can unsubscribe at any time using the unsubscribe option within the body of the newsletter or rather or by contacting customer support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bfcfdecdcbd1dacdccffddcdd6d8d7cbdcd0d291dcd0d2)  
 We also collect certain **technical Non-Personal Information** (as detailed above) which relates to your use of the Services or the Site.  | We use this technical data in order to operate and manage our Site.  
   
 **_Information We Collect from Advertisers or Publishers_**
@@ -120,7 +120,7 @@ Information to another party.
 
 We provide you with the ability to exercise certain choices and controls in connection with our treatment of your Personal Information, depending on your relationship with us. For more information, please review our user right policy and online forms available at : [www.brightcom.com/user-rights](http://www.brightcom.com/user-rights)
 
-If you wish to exercise any or all of the above rights, please either use the dashboard of your account please contact our Data Protection Officer at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#81e5f1eec1e3f3e8e6e9f5e2eeecafe2eeec) and let us know that you wish to exercise your right of access and specify what Personal Information you would like to receive. Further, we enable an electronic form to contact us directly regarding an applicable user right request available at: [www.brightcom.com/user-rights](http://www.brightcom.com/user-rights). 
+If you wish to exercise any or all of the above rights, please either use the dashboard of your account please contact our Data Protection Officer at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2145514e61435348464955424e4c0f424e4c) and let us know that you wish to exercise your right of access and specify what Personal Information you would like to receive. Further, we enable an electronic form to contact us directly regarding an applicable user right request available at: [www.brightcom.com/user-rights](http://www.brightcom.com/user-rights). 
 
 Where we are not able to provide you with the information for which you have asked, we will endeavor to explain the reasoning for this and inform you of your rights, including the right to complain to the supervisor authority. We reserve the right to ask for reasonable evidence to verify your identity before we provide you with any such information in accordance with applicable law. In addition, the process of locating and deleting the data may take up to one (1) month (following the receipt of the validation proof we require) in accordance with applicable law.
 
@@ -147,15 +147,15 @@ Options to opt out:
 
 In the event, that you have any additional complaints about your privacy rights, please initially contact the Data Protection Officer. Please note that you have the right at any time to contact your local data protection authority.
 
-You may also Contact Us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e999889b9d878c9b9aa98b9b808e819d8a8684c78a8684) and we will be happy to assist you. Note that once you opt out, part of the Services provided by us might no longer be available and some features may not work if you revoke the data transfer.
+You may also Contact Us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a8d8c9dadcc6cddadbe8cadac1cfc0dccbc7c586cbc7c5) and we will be happy to assist you. Note that once you opt out, part of the Services provided by us might no longer be available and some features may not work if you revoke the data transfer.
 
 **CHILDREN’S PRIVACY**
 
-You represent and warrant that, (i) if you are located in the US, you are at least 13 years of age; or if you are located in any other GEO, you are above the age defined as “child” under applicable laws in your jurisdiction (collectively “ **Child** ” or “ **Children** ”); and (ii) you are of legal competence to enter into this Privacy Policy. If you are under 18, please be sure to read the terms of this Privacy Policy with your parents or legal guardians. The Services are not directed or intended for Children, as defined under applicable law, and we do not knowingly collect or solicit information from children.  If we obtain actual knowledge that a User is considered as a Child under applicable law, we will take steps to immediately delete such User’s Personal Information. If you become aware or have any reason to believe that a Child has shared any information with us, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#73031201071d1601003311011a141b07101c1e5d101c1e).
+You represent and warrant that, (i) if you are located in the US, you are at least 13 years of age; or if you are located in any other GEO, you are above the age defined as “child” under applicable laws in your jurisdiction (collectively “ **Child** ” or “ **Children** ”); and (ii) you are of legal competence to enter into this Privacy Policy. If you are under 18, please be sure to read the terms of this Privacy Policy with your parents or legal guardians. The Services are not directed or intended for Children, as defined under applicable law, and we do not knowingly collect or solicit information from children.  If we obtain actual knowledge that a User is considered as a Child under applicable law, we will take steps to immediately delete such User’s Personal Information. If you become aware or have any reason to believe that a Child has shared any information with us, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f0809182849e958283b0928299979884939f9dde939f9d).
 
 **DATA SECURITY AND INTEGRITY**
 
-Brightcom also protects your privacy by seeking to minimize the amount of data that we store on our servers in the first place. If you feel that your privacy was treated not in accordance with our policy, or if any person attempted to abuse Brightcom please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e4948596908a819697a486968d838c90878b89ca878b89) directly.
+Brightcom also protects your privacy by seeking to minimize the amount of data that we store on our servers in the first place. If you feel that your privacy was treated not in accordance with our policy, or if any person attempted to abuse Brightcom please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#15657467617b7067665577677c727d61767a783b767a78) directly.
 
 Further, in the event of a data breach, in which we discover your Personal Information is at risk, we will notify you and the applicable authority (if required subject to applicable laws).
 
@@ -173,7 +173,7 @@ The Service does not respond to Do Not Track signals. For more information about
 
 **DATA PROTECTION OFFICER**
 
-If you have any requests regarding the data collected under this Policy, including without limitation, requests to remove, delete, amend, modify or transfer the data, please contact our Data Protection Officer at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a5e4a557a5848535d524e59555714595557).
+If you have any requests regarding the data collected under this Policy, including without limitation, requests to remove, delete, amend, modify or transfer the data, please contact our Data Protection Officer at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#472337280725352e202f3324282a6924282a).
 
 Please be sure to include your name, address and email address in any correspondence to us so that we can respond to your inquiry in a timely manner.
 
@@ -189,4 +189,4 @@ If you have any questions or comments about this Policy, please write to us at:
 
 **32 Maskit, Herziliya, Israel**
 
-You can also contact us via email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b0d4c0dff0d2c2d9d7d8c4d3dfdd9ed3dfdd).
+You can also contact us via email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#83e7f3ecc3e1f1eae4ebf7e0eceeade0ecee).
