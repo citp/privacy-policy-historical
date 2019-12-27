@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the foxbusiness.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626230221id_/https%3A//www.foxbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxbusiness.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227220435id_/https%3A//www.foxbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fox Business
-
-_Effective as of March 19, 2019_
 
 ### What’s Changed
 
