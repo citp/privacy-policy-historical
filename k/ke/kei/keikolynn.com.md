@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keikolynn.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318141230id_/https%3A//keikolynn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keikolynn.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227214015id_/https%3A//keikolynn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Keiko Lynn
+# Privacy Policy - Keiko Lynn
 
 By visiting keikolynn.com, you are consenting to our privacy policy.
 
