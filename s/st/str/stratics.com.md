@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the stratics.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919070359id_/https%3A//stratics.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratics.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227080013id_/https%3A//stratics.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Stratics Community Forums
 
 [ ](https://stratics.com/)
 
-[__](https://web.archive.org/web/20170919070359id_/https://stratics.com/help/privacy/misc/quick-navigation-menu "Open quick navigation")
+[__](https://web.archive.org/web/20191227080013id_/https://stratics.com/help/privacy/misc/quick-navigation-menu "Open quick navigation")
 
 **Stratics Community Forums**
 
-[__](https://stratics.com/) [Help](https://web.archive.org/web/20170919070359id_/https://stratics.com/help/privacy/help/) >
+[__](https://stratics.com/) [Help](https://web.archive.org/web/20191227080013id_/https://stratics.com/help/privacy/help/) >
 
 Protecting your private information is our priority. This Privacy Policy applies to Stratics.com (including subdomains and redirects) and its parent company, Gamer's Gambit, LLC., collectively referred to as "Gamer's Gambit, LLC." in this document, and governs data collection and usage. By using the Gamer's Gambit, LLC. website, you consent to the data practices described in this statement.
 
@@ -59,7 +59,7 @@ You may be able to connect your Gamer's Gambit, LLC. account to third party acco
 ## Opt-Out & Unsubscribe
 
 Users may opt-out of receiving some routine communications from Gamer's Gambit, LLC. by contacting us here, or adjusting your personal profile settings on the Site:  
-Email: tech@stratics.com
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## Changes to this Statement
 
@@ -68,13 +68,13 @@ Gamer's Gambit, LLC. will, from time to time and in its sole discretion, update 
 ## Contact Information
 
 Gamer's Gambit, LLC. welcomes your questions or comments regarding this Statement of Privacy. For any questions, please contact Gamer's Gambit, LLC. at:  
-Email Address: leadership@stratics.com  
+Email Address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 
 
 ### Effective as of March 28, 2016
 
-[__](https://web.archive.org/web/20170919070359id_/https://stratics.com/help/privacy/misc/quick-navigation-menu "Open quick navigation")
+[__](https://web.archive.org/web/20191227080013id_/https://stratics.com/help/privacy/misc/quick-navigation-menu "Open quick navigation")
 
 **Stratics Community Forums**
 
-[__](https://stratics.com/) [Help](https://web.archive.org/web/20170919070359id_/https://stratics.com/help/privacy/help/) >
+[__](https://stratics.com/) [Help](https://web.archive.org/web/20191227080013id_/https://stratics.com/help/privacy/help/) >
