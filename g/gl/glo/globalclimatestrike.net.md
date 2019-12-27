@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalclimatestrike.net privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526190339id_/https%3A//350.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalclimatestrike.net privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227230454id_/https%3A//350.org/privacy) for the most accurate reproduction.*
 
 # 350.org – Privacy Policy
 
@@ -255,11 +255,13 @@ You can review and update your Profile Data via [your profile page](https://act.
 
 ## **How can I Unsubscribe?**
 
-You may opt out of any communications from 350 at any time (including unsubscribing from our email list or asking to be excluded from our online campaign promotion lists) via the unsubscribe link at the bottom of each email we send, or here: [350.org/unsubscribe](http://www.350.org/unsubscribe)
+You may opt out of any communications from 350 at any time (including unsubscribing from our email list or asking to be excluded from our online campaign promotion lists) via the unsubscribe link at the bottom of each email we send, or here: [350.org/unsubscribe](https://www.350.org/unsubscribe)
 
 ### **How does 350.org use cookies**?
 
 Like most websites, 350.org may place a “cookie,” or small file, in the browser files of a visitor’s computer. Some cookies are used to prepopulate forms for you so that on repeat visits to the Website you don’t need to re-enter certain information. You can set your browser to disable cookies, but then you would not have the advantage of having certain sections of forms being prepopulated for you, and you may not be able to access certain parts of the Website.
+
+[See our cookie policy for more details.](https://web.archive.org/cookies)
 
 We may also use third-party services such as Google Analytics. This helps us understand traffic patterns and know if there are problems with our Website. We may also use embedded images in emails to track open rates for our mailings, so that we can tell which mailings appeal most to 350.org supporters.
 
