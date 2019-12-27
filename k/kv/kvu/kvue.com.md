@@ -1,105 +1,339 @@
-> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2018-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180417173654id_/http%3A//www.kvue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227151405id_/https%3A//www.kvue.com/privacy) for the most accurate reproduction.*
 
 # KVUE.com Privacy Policy
 
-Last Updated: June 29, 2015
+Last Updated: January 1, 2020
 
-We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
+TEGNA Inc. (together with its affiliates, " **TEGNA** " " **we** ," " **us** " or " **our** ") is a national media company that owns and operates broadcast media channels, such as local television and radio stations, as well as certain other lines of business, including our [Premion](https://premion.com/faq) service. This " **Privacy Policy** " describes how we collect, use and share personal information from the following online services (collectively, the " **Services** "): (a) our branded websites, mobile apps and other digital properties to which this Privacy Policy is posted, and (b) internet streaming platforms operated by third-party content partners on which Premion delivers advertising. Except as expressly provided in this Privacy Policy, it does not apply to information you provide to us offline or through other means.
 
-This Privacy Notice discloses the privacy practices of our website, mobile site or app (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+**We provide important information for California residentshere.**
 
-Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](https://web.archive.org/terms). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified. Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
+## Table of Contents
 
-**Your California Privacy Rights**
+Personal Information We Collect  
+How We Use Your Personal Information  
+How We Share Your Personal Information  
+Your Choices  
+Other Sites and Services  
+Security  
+International Data Transfers  
+Children's Privacy Statement  
+Changes to this Privacy Policy  
+How to Contact Us  
+Important Information for California Residents  
 
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
-Will Herman  
-Online Privacy Coordinator  
-TEGNA Law Department  
-7950 Jones Branch Drive  
-McLean, VA 22107
+## Personal Information We Collect
 
-**How We Collect Information**
+**Information you provide to us.** We may collect some or all of the following types of personal information about you that you provide to us when you use the Services:
 
-Information You Provide. We may collect and store information that you voluntarily supply to us while on our Site. This may include information that can be used to contact or identify you, such as your name, email address, or postal address. Some examples of this type of information include information that you electronically submit when you contact us with questions or participate in contests, surveys or sweepstakes, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site.
+  * **Contact data** , such as your first and last name, email address, mailing addresses, phone number, professional title and/or company name.
+  * **Registration data** , such as information that you submit when you complete an online registration form to access and use certain features of our Services (e.g., our email newsletters), sign up for an audiocast or podcast, or enter contests, sweepstakes or promotions.
+  * **Communications** that we exchange when you contact us with questions, feedback, or otherwise.
+  * **Marketing data** , such as the email address or contact details that we use to send marketing communications to you, your marketing preferences, and information about your responses to our marketing communications.
+  * **Other information** that is not specifically listed here, which we will use in accordance with this Privacy Policy or as otherwise disclosed at the time of collection.
 
-Location Information. We may collect location information (e.g., city and state and/or zip code) that you provide. Certain devices and browsers contain unique identifiers that can be used to identify the geographical location of the device. When you use such a device or browser to access our Site, your device and/or browser may automatically collect and/or transmit your location information. We also may collect GPS information from the device if the device transmits it. Additionally, if you download our app, we may collect your location information in order to deliver our app services. If you choose to enable certain features in our apps that require your geographic location, then we will collect and store that information.
 
-Other Information Automatically Collected to Improve the Site and Deliver Targeted Advertising. We also collect and store information through a variety of automatic technologies, such as browser and flash cookies, pixels and web beacons about your use of our Site, including device identifying information such as IP addresses, MAC address or other device-specific alphanumerical ID numbers, the make and model of your device, the wireless provider associated with your device, whether you downloaded the app, the source of the download of the App (for example, whether via a particular advertisement for the App), when the App is launched, how many times a particular page within the Site is visited, which features the users interact with, and your device or computer's connection to the Internet. If you choose to connect to our Site through a social network such as Facebook, we may automatically collect your profile information. These things allow us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site.
 
-The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.
+**Data from other sources.** We may combine personal information we receive from you with personal information we obtain from other sources, such as:
 
-We also may use "cookies" and other similar technologies on the Site. Cookies are small files that are placed on your hard drive for record-keeping purposes and to enhance your experience with the Site. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.
+  * **Content partners** , such as internet streaming platforms and networks with which Premion has relationships, that provide us information about their streaming audiences' devices and viewing activity, which we use to help our advertisers deliver advertising that more likely to be relevant to their viewers' interests.
+  * **Data providers** , such as information services and data licensors.
+  * **Publicly-available sources** , such as social media platforms.
+  * **Business partners** , such as joint marketing partners and event co-sponsors.
 
-**How Information is Used**
 
-We use the information we collect from you while you are using the Site in a variety of ways, including, for example, for the purpose for which the information was submitted, to process your registration request, to provide you with services and communications that you have requested, to send you email updates and other communications, customize features and advertising that appear on the Site, to deliver our Site content to you, to measure Site traffic, measure user interests and traffic patterns, and to improve the Site and the services and features offered via the Site.
 
-We may use location information, either information you provided by you or information automatically collected, in order to provide you with content, services and advertising that is relevant to your geographic area. We may combine information we collect from you while you are using our Site with information that we collect from other sources to customize features, content and advertising that appear on our Site.
+**Data collected automatically**. We, our service providers and third-party partners may automatically log information about you, your computer or mobile device, and your activity over time on the Services and other online services, such as:
 
-In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.
+  * **Device data** , such as your computer or mobile device operating system type and version number, manufacturer and model, browser type, screen resolution, IP address, unique identifiers (e.g., Apple's ID for Advertising or Google's Advertising ID), general location information (such as city or state), and precise geolocation (if you permit our Services to access it from your device settings).
+  * **Online activity data** , such as the website you visited before browsing to our website, pages or screens you viewed on the Services, how long you spent on a page or screen, navigation paths between pages or screens, information about your activity on a page or screen, access times, and duration of access.
 
-Your Choices. When we request information from you on the Site, you may always choose not to provide us with that information. But if you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.
 
-If you want to limit the information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site. If you would like more information on how to opt out of information collection practices by many third parties, visit the Digital Advertising Alliance's website at [www.aboutads.info](http://www.aboutads.info/).
 
-**How Information is Shared**
+**Cookies**. Some of our automatic data collection is facilitated by cookies and similar technologies. Cookies are small data files placed on your computer when you visit a site. We may set cookies when you use the Services to track user trends and patterns, help you navigate between pages efficiently, remember your preferences and generally improve your browsing experience. Cookies used on the Services may also be set by analytics service providers and advertising partners. In addition to cookies, the Services and our emails may use pixel tags (also known as web beacons and clear GIFs) to compile statistics about use of the Services, measure the success of our marketing campaigns, and indicate whether recipients of our emails open or click links within them.
 
-Sharing with Affiliates, Partners and Third Party Service Providers. We may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.
+## How We Use Your Personal Information
 
-If you do not wish certain information to be shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Notice.
+We use your personal information for the following purposes and as otherwise described in this Privacy Policy or at the time of collection:
 
-We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the Privacy Notice of our provider partner may apply to the provider partner's use of your information. The Privacy Notice of our provider partners may differ from ours. If you have any questions regarding the Privacy Notice of one of our provider partners, you should contact the provider partner directly for more information.
+**Service delivery**. We may use your personal information to:
 
-Sharing Information with Third Parties for Advertising and Other Promotional Purposes. We may use third-party service providers to target and serve some of the advertisements you see on the Site. We may share technical or aggregate information, such as type of pages viewed and categories of interest, from our Site with these service providers and advertisers for their use in displaying ads on our Site. These third party providers and advertisers may use their own browser or flash cookies, web beacons and similar technologies to collect technical information (such as device unique identifier, IP address, MAC address, browser type, pages visited, and location information) from users of the Site that is generated automatically as a user views or interacts with an ad. These service providers may use that information, sometimes in conjunction with similar information gathered through other websites and other sources, to deliver advertisements on this Site, and on other websites.
+  * provide, operate and improve the Services;
+  * communicate with you about the Services, including by sending you announcements, updates, and support and administrative messages; and
+  * provide support for the Services, and respond to your requests, questions and feedback.
 
-Unless you affirmatively provide information within an ad, the data collected in connection with the ads, ad serving and ad targeting on our Site does not include your name, address, email address or telephone number, but it may include the device unique identifier, IP address, MAC address and location information of your computer or device. The use and collection of information by third-party advertising service providers is governed by the relevant third party's privacy policy and is not covered by our Privacy Notice.
 
-For information about use of your information by us and by third-party advertising service providers for advertising, see the section "[Data Collected in Connection with Ad Serving and Targeting.](https://web.archive.org/privacy#adchoices)"
 
-Sharing with Third Parties for Other Purposes. Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](https://web.archive.org/terms/); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
+**Research and development**. We may use your personal information to administer surveys and other market research and for other research and development purposes, including to analyze and improve the Services and our business. As part of these activities, we may create anonymous data (including aggregated and/or de-identified data) from personal information we collect. We convert personal information we collect into anonymous data by removing information that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties for our lawful business purposes, including to analyze and improve the Services and promote our business.
 
-Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.
+**Marketing**. We may send you TEGNA-related and or other marketing communications via email and other channels as permitted by law. We also work with third-party advertising partners who use cookies and similar technologies to help us advertise our services. These advertisements are delivered by our advertising partners and may be targeted based on your geographic area and activity on the Services and other online services. To learn more about your choices in connection with advertisements, please see the section below titled Opt out of targeted online advertising.
 
-**Data Collected in Connection with Ad Serving and Targeting**
+**Compliance and operations**. We may use your personal information to:
 
-We operate in compliance with the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising, [www.aboutads.info](http://www.aboutads.info/).
+  * operate our business;
+  * comply with applicable laws, lawful requests, and legal process, such as to respond to subpoenas or requests from government authorities;
+  * protect our, your or others' rights, privacy, safety or property (including by making and defending legal claims);
+  * enforce the terms and conditions that govern the Services; and
+  * prevent, identify, investigate and deter fraudulent, harmful, unauthorized, unethical or illegal activity, including cyberattacks and identity theft.
 
-We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to automatically collect information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.
 
-We also may use third-party service providers, to target and serve some of the advertisements you see on the pages of our Site. We may share technical or aggregate information about your interaction with our Site, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site. These providers may use their own cookies, web beacons and similar technologies to collect similar information from our Site. These service providers may use that information, sometimes in conjunction with similar information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers' advertising networks, that are tailored to match the perceived interests of consumers. The information obtained by our third-party service providers also may be used to help measure and research an advertisement's effectiveness, or for other purposes.
 
-Unless you affirmatively provide information, the data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include device identifying information such as the IP address, MAC address, cookie or other device-specific unique alphanumerical ID of your computer.
+## How We Share Your Personal Information
 
-The use and collection of information by third-party advertising service providers are governed by the relevant third party's Privacy Notice and are not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider's information collection practices, go to [www.aboutads.info](http://www.aboutads.info/). You can opt out of the use of cookies by DoubleClick, one of our service providers, by visiting <http://www.google.com/intl/en/policies/privacy>. Additionally, many of our advertising service providers are members of the Network Advertising Initiative ("NAI"). You can obtain more information about these advertising service providers' information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI's website at <http://www.networkadvertising.org/managing/opt_out.asp>.If you would like more information on how to opt out of information collection practices, go to [www.aboutads.info](http://www.aboutads.info/).
+We may share your personal information with the following parties and as otherwise described in this Privacy Policy or at the time of collection:
 
-**Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas**
+**Affiliates**. Our corporate parent, subsidiaries, and affiliates, for purposes consistent with this Privacy Policy.
 
-Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
+**Service providers**. Companies and individuals that provide services on our behalf or help us operate the Services or our business, such as customer service and support providers; technology providers (including technology support, web hosting providers, email and text communications providers, and mobile app developers); shipping and fulfillment service providers; survey and market research providers; advertising and marketing partners; and analytics services providers.
 
-**Children's Privacy Statement**
+**Advertising partners**. Third-party advertising companies:
 
-This site is not intended for children under the age of 13. We do not knowingly collect any Personal Information from a child under 13. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 as part of the Site, we will delete such information from our records.
+  * that collect information about your activity on the Services and other online services to help us advertise our services; and
+  * who use our Premion service to deliver targeted commercials and advertisements to our content partners' viewers, as described above.
 
-**How To Make Changes to Your Information**
 
-If you are a registered user of our Site, you can make changes to your account information by logging in to the Site and using the tools available via the Site. If you have subscribed to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by logging in to your account. If you have any questions about modifying your account or preference information, please visit the "Customer Service" pages of our Site.
 
-**Security**
+**Professional advisors**. Professional advisors, such as lawyers, auditors and insurers, where necessary in the course of the professional services that they render to us. 
 
-All information we gather on our Site is stored within databases to which only we and services providers are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site's servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
+**Authorities and others**. Law enforcement, government authorities, central banks and private parties, as we believe necessary or appropriate for the compliance and operations purposes described above. 
 
-**Links to Other Sites**
+**Business transferees**. Relevant third parties in the event of a corporate divestiture, merger, consolidation, acquisition, reorganization, sale or other disposition of all or any portion of the business, assets, or equity interests in TEGNA or our affiliates (including, in connection with a bankruptcy or similar proceedings). 
 
-Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the Privacy Notice of the operator of the site you are visiting or the provider of such products or services.
+Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties on our Services, that information may be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
 
-**Questions Regarding Privacy**
+## Your Choices
 
-If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:
+There are various ways in which you can to opt out of our collection and/or retention of certain personal information we collect or receive from you through the Services:
 
-Will Herman  
-Online Privacy Coordinator  
-TEGNA Law Department  
-7950 Jones Branch Drive  
-McLean, VA 22107
+**Opt out of marketing emails**. You may opt out of marketing-related emails by following the opt-out or unsubscribe instructions at the bottom of the email. You may continue to receive Service-related and other non-marketing emails.
+
+**Text message alerts**. We may offer text news alerts for your phone or wireless device via short message service ("SMS") or similar technology. You must register with us to receive this service, which may require providing us your name, telephone number, and other personal information. You can cancel or modify your alerts by accessing your account through the Services or by texting "STOP" to the number associated with the text news alert. Message and data rates may apply for this service.
+
+**Opt out of targeted online advertising**. Google and many of our other advertising service providers are members of the Network Advertising Initiative (NAI) and are subject to the Self-Regulatory Principles for Online Behavioral Advertising published by the Digital Advertising Alliance (DAA). You can obtain more information about these advertising service providers' information collection practices, and opt out of receiving targeted advertising from some participating NAI and DAA members, at <http://www.networkadvertising.org/managing/opt_out.asp> and/or the DAA's website at [optout.aboutads.info](https://optout.aboutads.info/). Mobile app users may opt out of receiving targeted advertising in mobile apps through participating members of the Digital Advertising Alliance by installing the AppChoices mobile app, available at <https://www.youradchoices.com/appchoices>, and selecting the user's choices. Please note that we also may work with companies that offer their own opt-out mechanisms and/or may not participate in the opt-out mechanisms described above.
+
+**Do Not Track**. Some Internet browsers may be configured to send "Do Not Track" signals to the online services that you visit. We currently do not respond to "Do Not Track" or similar signals. To find out more about "Do Not Track," please visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
+
+**Cookies**. Most browsers let you remove and/or reject cookies. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. Please note that if you set your browser to disable cookies, our Services may not work properly. For more information about cookies, including how to see what cookies have been set on your browser and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+**Declining to provide information**. We need to collect personal information to provide certain Services. If you do not provide the information requested, we may not be able to provide those Services.
+
+## Other Sites and Services
+
+The Services may contain links to other websites and online services operated by third parties. These links are not an endorsement of, or representation that we are affiliated with, any third party. In addition, our content may be included on web pages or other online services that are not associated with us. We do not control third party websites or online services, and we are not responsible for their actions.
+
+We also make our third-party partners' content, products or services available through our Services, whereby our partners' brands appear on the Services in connection with such content, products or services. We may share with our partners information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our partner. In some cases, the partner may collect information from you directly, in which cases the privacy policy of our partner applies to the partner's use of your information.
+
+For example, we make our audiocasts available through a third-party host. When you register for an audiocast, the host will collect information from you directly and will share it with us. The host will provide its privacy policy at the point of registration.
+
+The privacy policy of our partners may differ from ours. If you have any questions regarding the privacy policy of one of our partners, you should contact the partner directly for more information.
+
+## Security
+
+The security of your personal information is important to us. We employ organizational, technical and physical safeguards designed to protect the personal information we collect. However, security risk is inherent in all internet and information technologies and we cannot guarantee the security of your personal information.
+
+## International Data Transfers
+
+Our Services are intended to be used only by residents of the United States.
+
+We are headquartered in the United States, and your personal information may be transferred to the United States or other locations outside of your state, province, or country where privacy laws may not be as protective.
+
+## Children's Privacy Statement
+
+This site is not intended for children under the age of 13, and we do not knowingly collect any personal information from a child under 13. If we become aware that we have inadvertently received personal information from a user under the age of 13 as part of the Site, we will delete such information from our records.
+
+## Changes to this Privacy Policy
+
+We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Privacy Policy, we will notify you by updating the date of this Privacy Policy and posting it on the applicable Service(s). Any modifications to this Privacy Policy will be effective upon our posting the modified version (or as otherwise indicated at the time of posting). In all cases, your continued use of the Services after the posting of any modified Privacy Policy indicates your acceptance of the modified Privacy Policy.
+
+## How to Contact Us
+
+Please direct any questions or comments to:
+
+TEGNA  
+8350 Broad Street  
+Suite 2000  
+Tysons, VA 22102  
+Attention: Law Department (Privacy)  
+Email: [privacy@tegna.com](mailto:privacy@tegna.com)
+
+## Important Information for California Residents
+
+This section applies to California residents whose personal information may be collected by us and/or our affiliates that are businesses subject to the California Consumer Privacy Act of 2018 ("CCPA"). It describes how we collect, use and share their Personal Information offline and online in operating our business, and their rights with respect to that Personal Information. For purposes of this section, "Personal Information" has the meaning given in the CCPA but does not include information exempted from the scope of the CCPA.
+
+Your California privacy rights. As a California resident, you have the rights listed below. However, these rights are not absolute, and in certain cases we may decline your request as permitted by law.
+
+  * **Information**. You can request the following information about how we have collected and used your Personal Information during the past 12 months: 
+    * The categories of Personal Information that we have collected.
+    * The categories of sources from which we collected Personal Information.
+    * The business or commercial purpose for collecting and/or selling Personal Information.
+    * The categories of third parties with whom we share Personal Information.
+    * Whether we have disclosed your Personal Information for a business purpose, and if so, the categories of Personal Information received by each category of third party recipient.
+    * Whether we've sold your Personal Information, and if so, the categories of Personal Information received by each category of third party recipient.
+  * **Access**. You can request a copy of the Personal Information that we have collected about you during the past 12 months.
+  * **Deletion**. You can ask us to delete the Personal Information that we have collected from you.
+  * **Opt-out of sales**. If we sell your Personal Information, you can opt-out. In addition, if you direct us not to sell your Personal Information, we will consider it a request pursuant to California's "Shine the Light" law to stop sharing your personal information covered by that law with third parties for their direct marketing purposes.
+  * **Opt-in**. If we know that you are younger than 16 years old, we will ask for your permission (or if you are younger than 13 years old, your parent's or guardian's permission) to sell your Personal Information before we do so.
+  * **Nondiscrimination**. You are entitled to exercise the rights described above free from discrimination in the form of price/rate increases or service quality downgrades prohibited by law, or suggestions that you may be subject to such discrimination.
+
+
+
+## How to exercise your rights
+
+You may exercise your California privacy rights described above as follows:
+
+  * **Right to information, access and deletion**. You can request to exercise your information, access and deletion rights by: 
+    * visiting [tegna.com/do-not-sell](http://www.tegna.com/do-not-sell)
+    * calling us toll free at 1-888-TEGNAPR (1-888-834-6277)
+    * emailing [privacy@tegna.com](mailto:privacy@tegna.com)
+  * **Right to opt out of the "sale" of your Personal Information**. California law classifies the use and operation of a wide range of common online advertising services as a "sale" of your Personal Information because they collect, use and share information about your device and online activity to help tailor online ads that may be of more interest to you. As such, we are required to disclose our use of these online advertising services as a "sale" of your Personal Information. You can opt-out of sales of your personal information here: [Do Not Sell My Personal Information](http://www.tegna.com/do-not-sell).
+
+
+
+We will need to confirm your identity and California residency to process your requests to exercise your information, access or deletion rights. We cannot process your request if you do not provide us with sufficient detail to allow us to understand and respond to it.
+
+You can access this Privacy Policy online at [www.tegna.com/privacy-policy](http://www.tegna.com/privacy-policy) as well as from the websites of our affiliates.
+
+## Personal information that we collect, use and share
+
+The chart below summarizes how we collect, use and share Personal Information by reference to the statutory categories specified in the CCPA, and describes our practices during the 12 months preceding the effective date of this Privacy Policy.
+
+**Statutory category (click for definition)** | **Personal information (PI) we collect** | **Source** | **Business/commercial purpose for collection** | **Categories of third parties to whom we disclose the PI for a business purpose** | **Categories of third parties to whom we"sell" the PI**  
+---|---|---|---|---|---  
+Identifiers | 
+
+  * Contact data
+
+| 
+
+  * You
+  * Premion content partners
+  * Public sources
+  * Business partners
+
+| 
+
+  * Service delivery
+  * Research & development
+  * Marketing
+  * Compliance & Operations
+
+| 
+
+  * Affiliates
+  * Advertising partners
+  * Service-related third parties
+  * Professional advisors
+  * Authorities and others
+  * Business transferees
+
+| None  
+Commercial Information | 
+
+  * Registration data
+  * Communications
+  * Marketing data
+
+| 
+
+  * You
+
+| None  
+Online Identifiers | 
+
+  * Device data
+  * Identity data
+
+| 
+
+  * You
+  * Automatic collection
+  * Premion content partners
+
+| 
+
+  * Advertising partners (to facilitate online advertising)
+
+  
+Internet or Network Information | 
+
+  * Device data
+  * Online activity data
+
+| 
+
+  * You
+  * Automatic collection
+  * Premion content partners
+
+| 
+
+  * Advertising partners (to facilitate online advertising)
+
+  
+Inferences |  May be derived from your:  
+
+
+  * Device data
+  * Online activity data
+
+| 
+
+  * Automatic collection
+  * Premion content partners
+
+| 
+
+  * Advertising partners (to facilitate online advertising)
+
+  
+Geolocation Data | 
+
+  * Device data
+  * Online activity data
+
+| 
+
+  * Automatic collection
+  * Premion content partners
+
+| 
+
+  * Advertising partners (to facilitate online advertising)
+
+  
+  
+## Glossary
+
+This glossary defines the categories of Personal Information we are required to address, not necessarily the Personal Information we collect. The Personal Information within each category that we actually collect is described above in the column above titled "Personal Information we collect".
+
+**Statutory Category** | **Definition/Description** (categories may overlap)  
+---|---  
+Commercial Information | Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.  
+Geolocation Data | For example, your precise location derived from GPS coordinates or telemetry data  
+Identifiers | Real name, alias, postal address, unique personal identifier, customer number, email address, account name, social security number, driver's license number, passport number, or other similar identifiers.  
+Inferences | The derivation of information, data, assumptions, or conclusions from any other category of Personal Information to create a profile about a person reflecting the person's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities and aptitudes.  
+Internet or Network Information | Browsing history, search history, and information regarding a person's interaction with an Internet website, application, or advertisement.  
+Online Identifiers | An online identifier or other persistent identifier that can be used to recognize a person, family or device, over time and across different services, including but not limited to, a device identifier; an Internet Protocol address; cookies, beacons, pixel tags, mobile ad identifiers, or similar technology; customer number, unique pseudonym, or user alias; telephone numbers, or other forms of persistent or probabilistic identifiers (i.e., the identification of a person or a device to a degree of certainty of more probable than not) that can be used to identify a particular person or device.  
+  
+Like many companies online, we use services provided by Google, Facebook and others that help deliver interest-based ads to you. California law may classify our use of these services as a "sale" of Personal Information from which California residents have the right to opt-out. This is because the companies that provide the services collect information from our users (e.g., device data and online activity data) to help them serve ads that they think users may want to see based on their online activity. These ads are known as interest-based advertisements. Your choices for opting-out of use of your Personal Information by these companies for interest-based advertising include:
+
+**Blocking cookies in your browser.** Most browsers let you remove or reject cookies, including cookies used for interest-based advertising. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](https://www.allaboutcookies.org/).
+
+**Blocking advertising ID use in your mobile settings.** Your mobile device settings may provide functionality to limit use of the advertising ID associated with your mobile device for interest-based advertising purposes.
+
+**Using privacy plug-ins or browsers.** You can block our site from setting cookies used for interest-based ads by using a browser with privacy features, like [Brave](https://brave.com/), or installing browser plugins like [Privacy Badger](https://www.eff.org/privacybadger), [Ghostery](https://www.ghostery.com/) or [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en), and configuring them to block third party cookies/trackers.
+
+**Platform opt-outs.** The following advertising partners offer opt-out features that let you opt-out of use of your information for interest-based advertising:
+
+  * [Google](https://adssettings.google.com/)
+  * [Facebook](https://www.facebook.com/about/ads)
+
+
+
+**Advertising industry opt-out tools.** You can also use these opt-out options to limit use of your information for interest-based advertising by participating companies:
+
+  * [Digital advertising Alliance](http://optout.aboutads.info/)
+  * [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1)
+
+
