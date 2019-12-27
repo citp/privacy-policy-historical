@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oculture.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629102715id_/http%3A//www.openculture.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oculture.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227165304id_/http%3A//www.openculture.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Open Culture
 
