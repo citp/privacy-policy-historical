@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the temi.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408120522id_/https%3A//www.temi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temi.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227184834id_/https%3A//www.temi.com/privacy) for the most accurate reproduction.*
 
 # Temi Privacy Policy | temi.com
 
