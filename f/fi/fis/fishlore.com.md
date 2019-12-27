@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521104033id_/https%3A//www.fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227035520id_/https%3A//www.fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for FishLore.com - Tropical Fish Information
 
@@ -40,7 +40,7 @@ Visitors and Authorized Customers may opt out of receiving unsolicited informati
 **Are Cookies Used on the Site?**  
 Cookies are used when visitors access the FishLore forum. We use Cookies to obtain information about the preferences of our Authorized Customers and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 20 minutes, we will automatically log the Authorized Customer off. 
 
-You can use [this tool](http://optout.networkadvertising.org/) to help manage your cookie settings.
+You can use [this tool](https://optout.networkadvertising.org/) to help manage your cookie settings.
 
 The site uses Google Adsense, Google Analytics and Amazon to track visitors while using the site. To modify how cookies are handled by Google, please visit [Google's Privacy and Terms](https://policies.google.com/technologies/ads) page. 
 
@@ -72,8 +72,3 @@ We are a participant in the Amazon Services LLC Associates Program, an affiliate
 
 © **FishLore.com - Aquarium Fish Information** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
-
-* * *
-
-© FishLore.com - providing tropical fish tank and aquarium information for freshwater fish and saltwater fish keepers.  
-[SiteMap](https://www.fishlore.com/FishLore_SiteMap.htm) | [Aquarium Fish SiteMap](https://www.fishlore.com/FishLore_SiteMap2.htm) | [Aquarium Fish Dictionary](https://www.fishlore.com/fishdictionary/dictionary.htm) | [Privacy Policy](https://www.fishlore.com/PrivacyPolicy.htm) | [Contact Us](https://www.fishlore.com/aquariumfishforum/misc/contact)
