@@ -1,25 +1,35 @@
-<!--The following is the downloaded HTML source of the licious.in privacy policy that was archived on 2016-07-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160704063502id_/https%3A//www.licious.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the licious.in privacy policy that was archived on 2019-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191227131103id_/https%3A//www.licious.in/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1158.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"c2b7075667",applicationID:"194347271"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1158.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
-	<meta name="_token" content="5i7WEP2iuvIP6j5Z7wD1TTyJ36hakzt0kqqS8dio">
-	<title>Terms and Condition</title>
+	<meta name="_token" content="vLsRB75QWcw43wzpHfeQ1AhVKoUd26kAAd7hEfgc">
+	<title>Privacy Policy</title>
 	<link rel="shortcut icon" href="favicon.ico">
 	<!-- GOOGLE WEB FONT -->
-	<link rel="stylesheet" href="http://licious.in/css/lib/materialize.min.css">
-	<link rel="stylesheet" href="http://licious.in/css/li-style.css">
+	<link rel="stylesheet" href="https://www.licious.in/css/lib/materialize.min.css">
+	<link rel="stylesheet" href="https://www.licious.in/css/li-style.css">
+	<style>
+		h5{
+			font-family: "Lato"!important;
+			font-weight: 700!important;
+		}
+		h6{
+			font-family: "Source Sans Pro"!important;
+			font-weight: 600!important;
+		}
+	</style>
 </head>
-<body data-rooturl="http://licious.in/js">
-	<div class="li-main-container">
-		<div class="navbar-fixed">
+<body data-rooturl="https://www.licious.in/js" style="min-width:0">
+	<div class="li-main-container h-ssp-reg">
+		<div class="navbar-fixed hide-on-small-only">
 			<nav class="grey lighten-3">
 			    <div class="nav-wrapper">
 			    	<div class="container">
-			    		<a href="http://licious.in" class="brand-logo">
-			    			<img src="http://licious.in/img/logo.png" alt="Licious">
+			    		<a href="https://www.licious.in" class="brand-logo">
+			    			<img src="https://www.licious.in/img/logo.png" alt="Licious">
 			    		</a>
 				    </div>
 			    </div>
@@ -32,34 +42,414 @@
 					&nbsp;<br><br>
 				</div>
 				<div class="col s12">
-					<h5><u>PRIVACY POLICY</u></h5>
+					<h5 style="text-align: center">PRIVACY POLICY</h5>
 				</div>
 
 				<div class="col s12">
-					<p>We are committed to protecting your privacy and your personal information. This also applies to services and products offered by Licious, as well as any other applications, content or features that we may from time to time offer on our website.</p>
-					<p>By ordering from Licious.in, you are accepting the practices described in this privacy policy. As we continue to develop our website and employ emerging technologies to improve the services we provide, this policy may change. We encourage you to refer to this policy to understand our current privacy policy. This policy last was updated on 1st June, 2015.</p>
-					<p>By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with the Privacy Policy. Privacy Policy is deemed to be incorporated into and is subject to the Terms of Service Agreement.</p>
+					<p><i>Disclaimer: The Company can modify this Policy unilaterally at any time without notice.
+							Modification may be necessary, among other reasons, to maintain compliance with applicable
+							laws and regulations or accommodate organizational changes within the Company.</i>
+					</p>
+					<p>By ordering from Licious.in, you are accepting the practices described in this Privacy Policy. As
+						we continue to develop our website and the app, if any, and employ emerging technologies to
+						improve the services we provide, this Privacy Policy may change. We encourage you to refer to
+						this Privacy Policy to understand our current privacy policy.
+					</p>
+					<p>By mere use of the Website, you expressly consent to our use and disclosure of your personal
+						information in accordance with the Privacy Policy. Privacy Policy is deemed to be incorporated
+						into and is subject to the Terms of Service Agreement. By using the services or by otherwise giving
+						us your information, you will be deemed to have read, understood and agreed to the practices and
+						policies outlined in this privacy policy and agree to be bound by the privacy policy. You hereby
+						consent to our collection, use and sharing, disclosure of your information as described in this
+						privacy policy. We reserve the right to change, modify, add or delete portions of the terms of this
+						privacy policy, at our sole discretion, at any time. If you do not agree with this privacy policy at
+						any time, do not use any of the services or give us any of your information. if you use the services
+						on behalf of someone else (such as your child) or an entity (such as your employer), you represent
+						that you are authorised by such individual or entity to (i) accept this privacy policy on such
+						individual’s or entity’s behalf, and (ii) consent on behalf of such individual or entity to our
+						collection, use and disclosure of such individual’s or entity’s information as described in this
+						privacy policy.
+					</p>
+					<p>
+						Delightful Gourmet Private Limited (“<b>Company</b>” or “<b>Licious</b>”) has created this privacy policy
+						(“<b>Privacy Policy</b>” or “<b>Policy</b>”) to demonstrate our firm commitment to protecting information you
+						submit. We understand that you care about how information about you is used. We are committed
+						to protecting your privacy and your personal information. This also applies to services and
+						products offered by Licious, as well as any other applications, content or features that we may
+						from time to time offer on our website or the app.
+					</p>
+					<p>
+						This Privacy Policy describes how the Company manages personal information collected,
+						received, or maintained. We collect information pertaining to you which may be classified as
+						personal information and sensitive personal data or information and all other types of information
+						through our website, other online services and other modes.
+					</p>
+					<p>
+						We take utmost care to protect your privacy. This Privacy Policy pertains to the different means
+						of how we collect your information and describes how your personal information is stored and
+						treated.
+					</p>
+					<p>For the purposes of this Privacy Policy,</p>
+					<p>The term “<b>PI</b>” (Personal Information) means any personal information that relates to a natural
+						person which, either directly or indirectly, in combination with other information available or
+						likely to be available is capable of identifying such person.
+					</p>
+					<p>
+						The terms “<b>SPI</b>” (Sensitive Personal Information) of a person means such personal information
+						which consists of information relating to (i) password; (ii) financial information such as bank
+						account or credit card or debit card or other payment instrument details; (iii) physical,
+						physiological and mental health condition; (iv) sexual orientation; (v) medical records and history;
+						(vi) biometric information; (vii) any detail relating to the above shared with us for providing
+						service; and (viii) any of the information received under above clauses for processing: provided
+						that any information that is freely available or accessible in public domain or furnished under the
+						Right to Information Act, 2005 or any other law for the time being in force shall not be regarded
+						as SPI.
+					</p>
+
+				</div>
+
+				<div class="col 12" style="width: 100%;">
+					<h6>WEBSITE:</h6>
 				</div>
 
 				<div class="col 12">
-					<h6><u>EMPLOYING COOKIES AND OTHER TECHNOLOGY</u></h6>
-					<p>We want you to be aware that certain online tools exist to help us serve and recognize you when you visit our website. For your convenience, to help us personalize your experience or better serve your needs, we may receive and store certain types of information when you visit our website. These are called ‘cookies.’ The cookies may be placed on your computer when you visit our site. Our web server automatically recognizes non-personally, identifiable information only, e.g., domain type, browser version, and service provider for each of the visitors on our site. Cookies do not provide any personal information but they allow us to understand how users navigate to and around our website, view product pages, access content and make purchases. We use cookies placed on your computer's hard drive through your web browser to enable our systems to recognize your browser during your visit and when you return to our site. For instance, when you are ready to purchase an item, a cookie allows our site to ‘remember’ you have added the item to your shopping cart.</p>
-					<p>Our company contracts under an agreement of confidentiality with Google Analytics, a service provider that provides data collection and reports regarding our customers' activities on our site to help us better understand consumer patterns for Licious.in. Google Analytics may use cookies on our behalf and may receive information about your browsing and buying activity so that we may continue to refine the site, improve it and better serve you. Google Analytics may store member ID, city, state, zip code, and email addresses on our behalf. Google Analytics analyzes the information it collects on our behalf and returns it back to us through a secure web connection. Under no circumstances may Google Analytics use your information other than in connection with providing services to us to make our site more useful and efficient. Licious.in does not permit Google Analytics to collect credit card, username or password information.</p>
+					<h6>For the purposes of this Privacy Policy, Website means <a href="/" style="text-decoration: underline">www.licious.in</a> or any other app that
+						may be made available by us.</h6>
 				</div>
 
 				<div class="col 12">
-					<h6><u>HOW IS MY INFORMATION USEFUL TO LICIOUS.IN?</u></h6>
-					<p>The information we collect from you is also used to provide emails relevant to you. In addition, we may use such information to register you, confirm your order, your delivery information, respond to your customer service inquiries or requests and communicate other benefits and features. When you provide us with personal information about other people, (for example, you may provide us with a name and address for a merchandise gift recipient), we use that information for the purposes of processing the delivery and, in some cases, to communicate with the intended recipient with information pertaining to the status of the delivery. We rely on you to obtain the intended recipient's consent to our use of their personal information for these limited purposes.</p>
+					<ol type="1">
+						<li>
+							You may access and browse our website without revealing any of your Personal Information.
+							However, while downloading any of our material which have been developed by our internal
+							experts OR while subscribing to our newsletters OR while filling in a contact request form OR
+							by ordering any products from our website, we may collect your Personal Information that may
+							be necessary to help us provide better customer service.
+						</li><br>
+						<li>
+							This portion of the Privacy Policy applies to our website. It does not apply to any other website
+							of any third party, even if the third-party website links to (or is linked from) our website. By
+							accessing, using, and/or submitting information through our website, you consent to the
+							practices described in this Privacy Policy with regard to the information collected thereby as
+							described herein. If you do not agree with this Privacy Policy, you must delete all cookies from
+							your browser cache after visiting the website and refrain from visiting or using the website.
+						</li>
+					</ol>
 				</div>
 
 				<div class="col 12">
-					<h6><u>ARE THERE ANY THIRD PARTY INVOLVEMENTS?</u></h6>
-					<p>All orders are processed through the Licious Shopping Cart via PayTM and M Swipe. Credit card information collected on this website is stored on both Pay TM and M Swipe’s secure sites and are available to Licious.in for up to 30 days. Delivery and e-mail information is also stored.</p>
-					<p>Your information collected for PayTM and M Swipe’s secure online payment system is governed by PayTM’s privacy policy and M Swipe’s privacy policy. PayTM and M Swipe would request information from you on our order form. To buy from us, you must provide contact information (like name and delivery address) and financial information (like credit card number, expiration date). This information is used by PayTM and M Swipe for billing purposes and to fulfil your delivery. If they have trouble processing an order, they will use this information to contact you by e-mail.</p>
-					<p>We contract with third parties to serve ads on our behalf across the internet and sometimes on this site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is an industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, e-mail address, or any personally identifying information about the user.</p>
+					<h6>HOW DOES WE USE COOKIES</h6>
 				</div>
 
-			</div>
+				<div class="col 12">
+					<ol type="1">
+						<li>
+							We want you to be aware that certain online tools exist to help us serve and recognize you
+							when you visit our website. For your convenience, to help us personalize your experience or
+							better serve your needs, we may receive and store certain types of information when you visit
+							our website. These are called ‘cookies.’ The cookies may be placed on your computer when
+							you visit our site. Our web server automatically recognizes non-personally, identifiable
+							information only, e.g., domain type, browser version, and service provider for each of the
+							visitors on our site. Cookies do not provide any personal information but they allow us to
+							understand how users navigate to and around our website, view product pages, access content
+							and make purchases. We use cookies placed on your computer's hard drive through your web
+							browser to enable our systems to recognize your browser during your visit and when you return
+							to our site. For instance, when you are ready to purchase an item, a cookie allows our site to
+							‘remember’ you have added the item to your shopping cart.
+						</li><br>
+						<li>
+							To browse the website only, you are not required to provide any personal information.
+							However, we may gather non-personally-identifiable information. Like most commercial
+							websites, we utilize “cookies” and other technologies to collect non-personally-identifiable
+							information on visitors to the website. Cookies allow web servers to recognize the computer used to access a website. Cookies store information accessed through your browser to
+							streamline activities on related web sites, and make the online experience easier and more
+							personalized. Information gathered through cookies and web-server log files may include
+							information such as the date and time of visits, the pages viewed, IP addresses, links to/from
+							any page, and time spent at a site.
+						</li><br>
+						<li>
+							Information collected from website submissions will be used for Company’s internal business
+							purposes, including its investigations, sales, and marketing. We may use IP addresses for
+							purposes such as calculating usage levels, diagnosing server problems and administering the
+							services. We may also derive your approximate location from your IP address. The website
+							may include options for visitors to submit information to Company, for example, while
+							requesting information about a product/service, downloading an article, etc. Such forms may
+							provide the option of submitting personal information, such as your name, job title, company,
+							email address, or phone number. In addition, when submitting information on a Website, your
+							submission will be associated with the IP address you are then using, which is automatically
+							assigned to your computer by your Internet Service Provider. If you are using one of the market
+							leading browsers and are uncomfortable accepting cookies from our website, you may erase
+							and/or disable the acceptance of cookies in your browsers administrative tools. Disabling your
+							browser in this manner may result in a compromised experience of www.licious.in or other
+							websites you regularly visit.
+						</li><br>
+						<li>
+							We use cookie data to measure site traffic and usage activity for purposes of improving and
+							enhancing the functionality of the Website, to look for possible fraudulent activity, to better
+							understand the sources of traffic and transactions on the Website, and/or to serve targeted
+							advertisements. Cookies also allow our servers to remember your account information for
+							future visits and to provide personalized and streamlined information across related pages on
+							the Website. You can choose to disable cookies for the Website but this may substantially limit
+							your ability to use our Website. The use of cookies by our partners, affiliates, tracking utility
+							company, or service providers is not covered by this Policy. We do not have access or control
+							over these cookies.
+						</li><br>
+						<li>
+							Company takes measures to maintain the security of its website visitor information, does not
+							license or sell such information to anyone, and will only share such information with a third
+							party who has agreed to keep such information confidential and maintain the security thereof,
+							and only for the purposes of facilitating one of the uses described herein on behalf of Company.
+						</li><br>
+						<li>
+							Our company contracts under an agreement of confidentiality with Google Analytics, a service
+							provider that provides data collection and reports regarding our customers' activities on our
+							site to help us better understand consumer patterns for Licious.in. Google Analytics may use
+							cookies on our behalf and may receive information about your browsing and buying activity
+							so that we may continue to refine the site, improve it and better serve you. Google Analytics
+							may store member ID, city, state, zip code, and email addresses on our behalf. Google
+							Analytics analyzes the information it collects on our behalf and returns it back to us through a
+							secure web connection. Under no circumstances may Google Analytics use your information
+							other than in connection with providing services to us to make our site more useful and
+							efficient. Licious.in does not permit Google Analytics to collect credit card, username or
+							password information.
+						</li>
+					</ol>
+				</div>
+
+				<div class="col 12">
+					<h6>HOW DOES COMPANY COLLECT AND USE INFORMATION</h6>
+				</div>
+				<div class="col 12">
+					<ol type="1">
+						<li>
+							Visitors to our site may choose to submit their name, email address and/or other information
+							so that they can learn more about our services, register to take part in a Company sponsored
+							event, or participate in a survey among other things.
+						</li><br>
+						<li>
+							In order to use Company's products and services, you may be required to register as a user.
+							From time to time, we may use your email address to send you information and keep you
+							informed of products and services in which you might be interested. You will always be
+							provided with an opportunity to opt out of receiving such emails. Your contact information
+							may also be used to reach you regarding issues concerning your use of our site, including
+							changes to this privacy policy.
+						</li><br>
+						<li>
+							Information may be used for Company’s legitimate business interests in connection with your
+							use of the services, including to respond to user inquiries and fulfill user requests, complete
+							transactions, provide customer service, send administrative information, and to personalize
+							user experience with the services. We may use information to better understand our users in
+							general and to improve the content and functionality of the services. We may use information
+							to contact you in the future to tell you about services, promotions, opportunities, and other
+							general information about Company we believe will be of interest to you. We may use
+							information to investigate and prosecute potential breaches of Company security or license
+							agreements.
+						</li><br>
+						<li>
+							The information we collect from you is also used to provide emails relevant to you. In addition,
+							we may use such information to register you, confirm your order, your delivery information,
+							respond to your customer service inquiries or requests and communicate other benefits and
+							features. When you provide us with personal information about other people, (for example,
+							you may provide us with a name and address for a merchandise gift recipient), we use that
+							information for the purposes of processing the delivery and, in some cases, to communicate
+							with the intended recipient with information pertaining to the status of the delivery. We rely
+							on you to obtain the intended recipient's consent to our use of their personal information for
+							these limited purposes.
+						</li><br>
+						<li>
+							Please know that Company does not sell, distribute, or give your personal information to any
+							third party without your knowledge and consent except to provide products or services in
+							which you have expressly displayed an interest, when you have given Company your
+							permission, or under the following circumstances:<br><br>
+							<ol type="a">
+								<li>
+									When working with contracted outsourcing partners who work on behalf of Company.
+									These partners are subject to strict confidentiality agreements.
+								</li><br>
+								<li>
+									Additionally, these companies are not extended any independent right to share this
+									information with their partners.
+								</li><br>
+								<li>
+									If we should have to respond to legal action, subpoenas, court orders or legal process,
+									or to establish or exercise our legal rights or defend against legal claims.
+								</li><br>
+								<li>
+									We believe that there is a necessity to share information in order to investigate, defend
+									or take action regarding illegal activities, suspected fraud, situations involving potential
+									threats to the physical safety of any person, or as otherwise required by law.
+								</li><br>
+								<li>
+									We may transfer your information in case of any acquisition or merger within the
+									company. This transition will take place with full disclosure of this Privacy Policy and
+									the commitments expressed herein.
+								</li><br>
+								<li>
+									We use non-personally identifiable information to analyse site usage (such as
+									aggregated information on the pages visited by our users), which allows us to improve
+									the design and content of our web site.
+								</li><br>
+								<li>
+									We also hold your contact information in our marketing database and occasionally we
+									may contact you with our updates, newsletters, greetings, events and seminars that we
+									hold, which we refer to as Marketing Communications.
+								</li><br>
+								<li>
+									In the ordinary course, we use personal information you provide to respond to your
+									inquiry or process a recruitment request application form you have consented to and
+									completed on our web site. We also use this information for internal purposes to send
+									Marketing Communications as mentioned above.
+								</li><br>
+								<li>
+									We will not contact you about other matters, unless you specifically request it, nor will
+									we share, rent, or sell your personally identifiable information outside the Company,
+									except where we are required to share your information with any third parties to provide
+									services to you.
+								</li>
+							</ol>
+						</li><br>
+						<li>
+							Company takes data security seriously and provides access permission to systems that contains
+							such data only on a need to know basis. Company may occasionally partner with other third
+							party companies in web-based promotions. However, Company shall not be liable for any
+							personal information submitted to external vendors or to any website linked to this site.
+							Company also recommends that any website visitor, accessing the www.licious.in website as
+							an employee of a company, abide by the privacy practices and security guidelines of the
+							corporations they represent. Company’s website team recognizes that the receipt, transmission,
+							distribution, or propagation of unwanted emails (Spam) as a major concern. We will abide by
+							all anti-Spam legal regulations when emailing any and all information out from Company.
+						</li><br>
+						<li>
+							However, we cannot guarantee the privacy of personal information you transmit over the web
+							or that may not be securely transmitted.
+						</li><br>
+						<li>
+							All orders are processed through the Licious Shopping Cart via PayTM and M Swipe. Credit
+							card information collected on this website is stored on both Pay TM and M Swipe’s secure
+							sites and are available to Licious.in for up to 30 days. Delivery and e-mail information is also
+							stored.
+						</li><br>
+						<li>
+							Your information collected for PayTM and M Swipe’s secure online payment system is
+							governed by PayTM’s privacy policy and M Swipe’s privacy policy. PayTM and M Swipe
+							would request information from you on our order form. To buy from us, you must provide
+							contact information (like name and delivery address) and financial information (like credit card
+							number, expiration date). This information is used by PayTM and M Swipe for billing purposes
+							and to fulfil your delivery. If they have trouble processing an order, they will use this
+							information to contact you by e-mail.
+						</li><br>
+						<li>
+							We contract with third parties to serve ads on our behalf across the internet and sometimes on
+							this site. They may collect anonymous information about your visits to our website, and your
+							interaction with our products and services. They may also use information about your visits to
+							this and other websites to target advertisements for goods and services. This anonymous
+							information is collected through the use of a pixel tag, which is an industry standard technology
+							used by most major websites. No personally identifiable information is collected or used in
+							this process. They do not know the name, phone number, address, e-mail address, or any
+							personally identifying information about the user.
+						</li><br>
+						<li>
+							We may disclose to third party services such as CleverTap certain personally identifiable
+							information i.e, information you provide us such as name, email, mobile phone number,
+							Information we collect as you access and use our service, including device information,
+							location and network carrier. This information is shared with third party service providers so
+							that we can, personalize the app for you and perform behavioral analytics.
+						</li><br>
+						<li>
+							If you would like Company to delete/edit/remove personal information collected about you,
+							please send an email to varun@licious.com with ‘REMOVE’ mentioned in the subject line.
+						</li>
+					</ol>
+				</div>
+
+				<div class="col 12">
+					<h6>COMPANY PRODUCTS AND SERVICES</h6>
+				</div>
+				<div class="col 12">
+					<ol type="1">
+						<li>
+							For the purpose of providing our products and services as well as for internal administrative
+							purposes, we or any of our third party service providers may receive, collect, store or share PI
+							or SPI (both terms as defined above).
+						</li><br>
+						<li>
+							By accessing our website or availing any product or services,<br><br>
+							<ol type="a">
+								<li>
+									you hereby grants approval and consents to the Company and its personnel to receive,
+									collect, retain, store, share, disclose (including to third party service providers) or otherwise
+									use the PI or SPI of the client/clients personnel as may be required for the purpose of the
+									engagement or administrative purposes or thereafter for record purposes.
+								</li><br>
+								<li>
+									Notwithstanding the above, there shall be no restriction on the Company to share or
+									disclose PI or SPI as may be required under any applicable law (including to third parties
+									by an order under the law) or to any governmental, statutory or regulatory authority or
+									agency.
+								</li>
+							</ol>
+						</li>
+					</ol>
+				</div>
+
+				<div class="col 12">
+					<h6>INFORMATION SECURITY PRACTICES AND PROCEDURES</h6>
+				</div>
+				<div class="col 12">
+					<ol type="1">
+						<li>
+							The Company limits access to personal information to authorized firm employees, associates,
+							partners and officers, our service providers are held to stringent standards of privacy. The
+							company maintains physical, electronic and procedural safeguards to protect the information
+							against loss, misuse, damage or modification and unauthorized access or disclosure. Some of
+							the other central features of our information security program are:<br><br>
+							<ol type="a">
+								<li>
+									The use of specialized technology such as firewalls.
+								</li><br>
+								<li>
+									Testing of the security and operability of products and services by the IT department before
+									they are introduced to the Internet, as well as ongoing scanning for publicly known
+									vulnerabilities in the technology.
+								</li><br>
+								<li>
+									Implementing controls to identify, authenticate and authorize access to various systems or
+									sites.
+								</li><br>
+								<li>
+									Restricting use of external data devices on Company’s systems.
+								</li><br>
+								<li>
+									Providing Company’s personnel with relevant training and continually updating our
+									security practices in light of new risks and developments in technology.
+								</li>
+							</ol>
+						</li>
+					</ol>
+				</div>
+
+				<div class="col 12">
+					<h6>GRIEVANCES</h6>
+				</div>
+				<div class="col 12">
+					<p>
+						Should you have any grievances about the processing of your personal information, you may
+						contact Varun Sadana with respect to Data Protection and Privacy related complaints at
+						varun@licious.com. All email messages sent to and from www.licious.in may be monitored with the
+						objective of ensuring compliance with internal policies and to protect our business.
+					</p>
+				</div>
+
+
+
+
+
+																							
+																		
+																												
+
+																							
+																										</div>
 		</div>
 	</div>
 		
@@ -67,277 +457,220 @@
 		<script type="text/javascript">
 			FreshWidget.init("", {"queryString": "&widgetType=popup&searchArea=no", "utf8": "✓", "widgetType": "popup", "buttonType": "text", "buttonText": "Feedback & Support", "buttonColor": "white", "buttonBg": "#FF2F20", "alignment": "4", "offset": "400px", "formHeight": "500px", "url": "https://licious.freshdesk.com"} );
 		</script>
-				<div id="signin" class="modal signin-modal">
-	<div class="modal-content">
-		<div class="row">
-		    <div class="col s12">
-			    <ul class="tabs">
-			        <li class="tab col s6"><a class="active" href="#1">Sign In</a></li>
-			        <li class="tab col s6"><a href="#2">Sign Up</a></li>
-			    </ul>
-		    </div>
-		    <div id="1" class="col s12">
-		    	<div class="row no-margin-bottom">
-					<form class="col s12" id="siginform" data-url="http://licious.in/login/%7Bid%7D">
-						<div class="row">
-							<div class="input-field col s12">
-					          	<input id="mobile" type="text" class="validate" name="login" required="">
-					          	<label for="mobile">Mobile Number</label>
-					        </div>
-					        <div class="input-field col s12">
-					          	<input id="password" type="password" class="validate" name="password" required="">
-					          	<label for="password">Password</label>
-					        </div>
-					        <div class="input-field col s12">
-					          	<input type="checkbox" id="signedin" name="remember" value="1">
-		      					<label for="signedin">Keep me signed in</label>
-					        </div>
-					        <div class="input-field col s12 margin-top-10">
-					          	<button type="submit" data-name="Sign In" class="btn btn-primary full-width-button">Sign In</button>
-					        </div>
-					        <div class="col s12 center margin-top-5">
-					        	<i>Forgot Password</i>
-					        </div>
-					        <div class="col s12 center margin-top-5">
-					        	<a href="http://licious.in/auth/facebook">F</a> | 
-					        	<a href="http://licious.in/auth/google">G</a>
-					        </div>
-						</div>
-					</form>
-				</div>
-		    </div>
-		    <div id="2" class="col s12">
-		    	<!-- sign up form -->
-		    	<div class="row no-margin-bottom">
-					<form class="col s12" id="signupform" data-url="http://licious.in/customer-register">
-						<div class="row no-margin-bottom">
-							<div class="input-field col s12">
-					          	<input id="name" type="text" name="name" class="validate" required="">
-					          	<label for="name">Name</label>
-					        </div>
-					        <div class="input-field col s12">
-					          	<input id="email" type="email" name="email" class="validate" required="">
-					          	<label for="email">Email</label>
-					        </div>
-					        <div class="input-field col s12">
-					          	<input id="number" type="number" name="number" class="validate" required="">
-					          	<label for="number">Mobile Number</label>
-					        </div>
-					        <div class="input-field col s12">
-					          	<input id="password" type="password" name="password" class="validate" required="">
-					          	<label for="password">Password</label>
-					        </div>
-					        <div class="input-field col s12 margin-top-5">
-					        	<button type="submit" data-name="Sign Up" class="btn btn-primary full-width-button">Sign Up</button>
-					        </div>
-						</div>
-					</form>
-				</div>
-		    </div>
-		</div>
-	</div>
+				<div class="modal change-address-alert">
+    <div class="modal-content">
+        <div class="change-add-header">
+            <img src="/img/elements/red-error.png">
+            <div>Alert [Change in Delivery Address]</div>
+        </div>
+        <div class="address-divider"></div>
+        <div class="addr-change-content">
+            <p class="mb-0">The delivery address is different from locality entered.</p>
+            <p class="mt-0">Please note that this may effect product prices and availability, offers etc.</p>
+        </div>
+        <div class="addr-change-action">
+            <button class="add-change-close">Change address</button>
+            <button class="reviewcart" data-pin="" style="color:white;">Review Cart</button>
+        </div>
+    </div>
 </div>
 
-<div id="otpmodal" class="modal otp-modal">
-	<div class="modal-content">
-		<div class="row">
-		    <div class="col s12">
-		    	<h6>Verification</h6>
-		    </div>
-		</div>
-		<div class="row no-margin-bottom">
-			<form class="col s12" id="optform" data-url="http://licious.in/otp-verify">
-				<div class="row">
-					<div class="input-field col s12">
-			          	<input id="otp" type="number" name="otp" class="validate" required="">
-			          	<label class="otp-label" data-old="ENTER YOUR OTP" for="otp">ENTER YOUR OTP</label>
-			        </div>
-			        <div class="input-field col s12 margin-top-10">
-			          	<button type="submit" data-name="Verify" class="btn btn-primary full-width-button">Verify</button>
-			        </div>
-				</div>
-			</form>
-		</div>
-	</div>
-</div>
 
-<div id="places" class="modal places-modal">
-	<div class="modal-content">
-		<div class="row row-no-margin-bottom">
-		    <div class="col s12 center">
-		    	<img src="http://licious.in/img/elements/delivery-90-min.png" alt="Licious Delivery Fresh Meat in 90 Minutes">
-		    </div>
-		    <div class="col s12 center">
-		    	<h3>Delivered Anywhere,<br> In Less Than 90 Minutes!</h3>
-		    </div>
-		</div>
-		<div class="row row-no-margin-bottom">
-			<form class="col s12 placesFormPop" id="placesFormPop" data-url="http://licious.in/get-location">
-				<div class="row">
-					<div class="input-field col s12 center">
-			          	<input id="location_pop" type="text" name="location" class="validate" required="" placeholder="ENTER YOUR LOCATION">
-			          	<input type="hidden" name="lat" id="latpop">
-			          	<input type="hidden" name="lng" id="lngpop">
-			        </div>
-			        <div class="input-field col s12 center">
-			          	<button type="submit" data-name="ENTER" class="btn lec-red-bg full-width-button">Enter</button>
-			        </div>
-				</div>
-			</form>
-		</div>
-	</div>
-</div>
+<div class="modal location-modal">
+    <img class="loc-close-button hide" src="../img/Close-button.png">
+    <div class="modal-content">
+        <div class="location-container">
+            <div class="location-header">
+                Your destination for <span class="text-red">world-class meats</span>
+            </div>
 
-<div id="notify" class="modal notify-modal">
-	<div class="modal-content">
-		<div class="row row-no-margin-bottom">
-		    <div class="col s12 center">
-		    	<h3>Enter your details here and we will notify you when the item is back in stock</h3>
-		    </div>
-		</div>
-		<div class="row row-no-margin-bottom">
-			<form class="col s12 notify" id="notifyMe" data-url="http://licious.in/notify">
-				<div class="row">
-					<div class="input-field col s12 center">
-			          	<input type="text" name="name" required="" placeholder="Name">
-			        </div>
-			        <div class="input-field col s12 center">
-			          	<input type="email" name="email" required="" placeholder="Email">
-			        </div>
-			        <div class="input-field col s12 center">
-			          	<input type="text" name="number" required="" placeholder="Phone" maxlength="10" pattern="[789][0-9]{9}" oninvalid="setCustomValidity('Must be valid mobile number')" onchange="try{setCustomValidity('')}catch(e){}">
-			        </div>
-			        <div class="input-field col s12 center">
-			          	<button type="submit" data-name="Notify Me" class="btn lec-red-bg full-width-button">Notify Me</button>
-			        </div>
-				</div>
-			</form>
-		</div>
-	</div>
-</div>
+            <div class="landing-page-form-new">
+                <div class="form" id="placesFormLanding" data-url="https://www.licious.in/get-location">
+                    <input id="location_pop_1" type="text" name="location" class="validate" placeholder="Enter location to indulge">
+                    <input type="hidden" name="lat" id="latpop" class="latpop">
+                    <input type="hidden" name="lng" id="lngpop" class="lngpop">
+                    <label for="go" class="go-class">
+                        <input type="submit" value="go" name="go">
+                    </label>
+                    <img class="loc-loader" src="https://d2407na1z3fc0t.cloudfront.net/Image/loading.gif">
+                </div>
 
-<div id="exotic-request" class="modal exotic-request">
-	<div class="modal-content">
-		<div class="row row-no-margin-bottom">
-		    <div class="col s12 center">
-		    	<h5>Fill in your details</h5>
-		    </div>
-		</div>
-		<div class="row row-no-margin-bottom">
-			<form class="col s12 exotic" id="exotic" data-url="http://licious.in/exotic-request">
-				<div class="row">
-					<div class="input-field col l6 m6 s12 center">
-						<label for="exoPrName">Name</label>
-			          	<input id="exoPrName" type="text" name="name" required="" autocomplete="off">
-			        </div>
-			        <div class="input-field col l6 m6 s12 center">
-			        	<label for="exoPrNumber">Number</label>
-			          	<input id="exoPrNumber" type="text" name="number" required="" maxlength="10" autocomplete="off" pattern="[789][0-9]{9}" oninvalid="setCustomValidity('Must be valid mobile number')" onchange="try{setCustomValidity('')}catch(e){}">
-			        </div>
-			        <div class="input-field col l6 m6 s12 center">
-			        	<label for="exoPrEmail">Email</label>
-			          	<input id="exoPrEmail" type="email" name="email" required="" autocomplete="off">
-			        </div>
-			        <div class="input-field col l6 m6 s12 center">
-			        	<label for="exoPrPincode" class="exoticPincodelabel">Pincode</label>
-			          	<input id="exoPrPincode" type="text" name="pin" class="exoticPincode" required="" autocomplete="off" maxlength="6" data-url="http://licious.in/get-pincode">
-			        </div>
-					<div class="input-field col l6 m6 s12 center">
-						<label for="exoPrQty">Product Quantity</label>
-			          	<input id="exoPrQty" class="exoQty" type="number" step="1" min="1" max="10" name="quantity" placeholder="Product Quantity" required="" autocomplete="off">
-			        </div>
-			        <div class="input-field col l6 m6 s12 center">
-			        	<label for="exoPrPrice">Price</label>
-			          	<input for="exoPrPrice" class="exoPrice" type="text" name="price" required="" readonly="readonly" placeholder="Price" autocomplete="off">
-			        </div>
-					<div class="input-field col l6 m6 s12 center">
-						<select id="exoDate" class="date browser-default" name="date" required="">
-							<option value="">Delivery Date</option>
-					        <option value="2016-07-09">09-07-2016</option>
-					        <option value="2016-07-10">10-07-2016</option>
-					    </select>
-		        	</div>
-		        	<div class="input-field col l6 m6 s12 center">
-		        		<select class="timeSlot browser-default" name="timeSlot" required="">
-					        <option value="">Delivery Slot</option>
-					        <option value="9:00 to 12:00">9:00 AM to 12:00 PM</option>
-					        <option value="12:00 to 3:00">12:00 PM to 3:00 PM</option>
-					        <option value="3:00 to 6:00">3:00 PM to 6:00 PM</option>
-					        <option value="6:00 to 9:00">6:00 PM to 9:00 PM</option>
-					    </select>
-			        </div>
-			        <div class="input-field col s12">
-			          	<button type="submit" data-name="We'll Call You Back" class="btn lec-red-bg full-width-button">We'll Call You Back</button>
-			        </div>
-			        <div class="input-field col s12">
-			        	<p class="muted-text">Your choice of exotics will be delivered to you as per your convenience.</p>	
-			        </div>
-				</div>
-			</form>
-		</div>
-	</div>
-</div>
+                <div class="use-curr-loc">
+                    <img src="https://d2407na1z3fc0t.cloudfront.net/Image/landing/location.png" alt="">
+                    Use my location
+                </div>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAxCUFRpqhv_ddrIDYagEAEPe-Q_bx6KZs&amp;libraries=places&amp;callback=initMap" async="" defer=""></script>
+                <div class="loc-error" data-gp="Thanks for stopping by, but unfortunately Licious delivery is not available in your locality">
+                    <img src="https://d2407na1z3fc0t.cloudfront.net/Image/landing/Error.png" alt="">
+                    <span class="err"></span>
+                </div>
 
-	<script>
-    
-	    function initMap() {
+            </div>
 
-	    	var popUpInput 	= document.getElementById('location_pop');
-	    	var options = {componentRestrictions:{country:'in'}};
-	    	var autocompletePop = new google.maps.places.Autocomplete(popUpInput, options);
+            <div class="landing-form-loc">
+                <div class="landing-location">
+                    Currently serving <span>Bengaluru</span> and <span>Hyderabad</span>
+                </div>
+            </div>
+        </div>
+    </div>
 
-	    	autocompletePop.addListener('place_changed', function() {
-          
-		      	var placePop = autocompletePop.getPlace();
-		      	document.getElementById("latpop").value = placePop.geometry.location.lat();
-		      	document.getElementById("lngpop").value = placePop.geometry.location.lng();
-		    
-		    });
+    <div id="signin" class="modal signin-modal">
+        <div class="modal-content">
+            <div class="row">
+                <div class="col s12">
+                    <ul class="tabs">
+                        <li class="tab col s6"><a class="active" href="#1">Sign In</a></li>
+                        <li class="tab col s6"><a href="#2">Sign Up</a></li>
+                    </ul>
+                </div>
+                <div id="1" class="col s12">
+                    <div class="row no-margin-bottom">
+                        <form class="col s12" id="siginform" data-url="https://www.licious.in/login/%7Bid%7D">
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="mobile" type="text" class="validate" name="login" required="">
+                                    <label for="mobile">Mobile Number</label>
+                                </div>
+                                <div class="input-field col s12">
+                                    <input id="password_1" type="password" class="validate" name="password" required="">
+                                    <label for="password">Password</label>
+                                </div>
+                                <div class="input-field col s12">
+                                    <input type="checkbox" id="signedin" name="remember" value="1">
+                                    <label for="signedin">Keep me signed in</label>
+                                </div>
+                                <div class="input-field col s12 margin-top-10">
+                                    <button type="submit" data-name="Sign In" class="btn btn-primary full-width-button">
+                                        Sign
+                                        In
+                                    </button>
+                                </div>
+                                <div class="col s12 center margin-top-5">
+                                    <i>Forgot Password</i>
+                                </div>
+                                <div class="col s12 center margin-top-5">
+                                    <a href="https://www.licious.in/auth/facebook">F</a> |
+                                    <a href="https://www.licious.in/auth/google">G</a>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div id="2" class="col s12">
+                    <!-- sign up form -->
+                    <div class="row no-margin-bottom">
+                        <form class="col s12" id="signupform" data-url="https://www.licious.in/customer-register">
+                            <div class="row no-margin-bottom">
+                                <div class="input-field col s12">
+                                    <input id="name" type="text" name="name" class="validate" required="">
+                                    <label for="name">Name</label>
+                                </div>
+                                <div class="input-field col s12">
+                                    <input id="email" type="email" name="email" class="validate" required="">
+                                    <label for="email">Email</label>
+                                </div>
+                                <div class="input-field col s12">
+                                    <input id="number" type="number" name="number" class="validate" required="">
+                                    <label for="number">Mobile Number</label>
+                                </div>
+                                <div class="input-field col s12">
+                                    <input id="password" type="password" name="password" class="validate" required="">
+                                    <label for="password">Password</label>
+                                </div>
+                                <div class="input-field col s12 margin-top-5">
+                                    <button type="submit" data-name="Sign Up" class="btn btn-primary full-width-button">
+                                        Sign
+                                        Up
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-		    var input = document.getElementById('location');
+    <div id="otpmodal" class="modal otp-modal">
+        <div class="modal-content">
+            <div class="row">
+                <div class="col s12">
+                    <h6>Verification</h6>
+                </div>
+            </div>
+            <div class="row no-margin-bottom">
+                <form class="col s12" id="optform" data-url="https://www.licious.in/customer/verify-otp">
+                    <div class="row">
+                        <div class="input-field col s12">
+                            <input id="otp" type="number" name="otp" class="validate" required="">
+                            <label class="otp-label" data-old="ENTER YOUR OTP" for="otp">ENTER YOUR OTP</label>
+                        </div>
+                        <div class="input-field col s12 margin-top-10">
+                            <button type="submit" data-name="Verify" class="btn btn-primary full-width-button">Verify
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
 
-		    var options = {componentRestrictions:{country:'in'}};
+    <div id="places" class="modal places-modal">
+        <div class="modal-content">
+            <div class="row row-no-margin-bottom">
+                <div class="col s12 center">
+                    <img src="https://www.licious.in/img/elements/delivery-90-min.png" alt="Licious Delivery Fresh Meat in 90 Minutes">
+                </div>
+                <div class="col s12 center">
+                    <h3>Delivered Anywhere,<br> In Less Than 120 Minutes!</h3>
+                </div>
+            </div>
+            <div class="row row-no-margin-bottom">
+                <form class="col s12 placesFormPop" id="placesFormPop" data-url="https://www.licious.in/get-location">
+                    <div class="row">
+                        <div class="input-field col s12 center">
+                            <input id="location_pop_2" type="text" name="location" class="validate" required="" placeholder="ENTER YOUR LOCATION">
+                            <input type="hidden" name="lat" id="latpop">
+                            <input type="hidden" name="lng" id="lngpop">
+                        </div>
 
-		    var autocomplete = new google.maps.places.Autocomplete(input, options);
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
 
-		    autocomplete.addListener('place_changed', function() {
-		      
-		      	var place = autocomplete.getPlace();
-		      	document.getElementById("lat").value = place.geometry.location.lat();
-		      	document.getElementById("lng").value = place.geometry.location.lng();
-		    
-		    });
-
-	
-
-		     var fullAddress = document.getElementById('fulladdress');
-
-		    var options = {componentRestrictions:{country:'in'}};
-		    var autocompleteLoc = new google.maps.places.Autocomplete(fullAddress, options);
-
-		    autocompleteLoc.addListener('place_changed', function() {
-		      
-		      	var placeLoc = autocompleteLoc.getPlace();
-		      	document.getElementById("latlocation").value = placeLoc.geometry.location.lat();
-		      	document.getElementById("lnglocation").value = placeLoc.geometry.location.lng();
-		    
-		    });
-
-		    var addredit 	= document.getElementById('fulladdressEdit');
-	    	var addreditAuto = new google.maps.places.Autocomplete(addredit, options);
-
-	    	addreditAuto.addListener('place_changed', function() {
-	      
-		      	var editAddr = addreditAuto.getPlace();
-		      	document.getElementById("lateditAdd").value = editAddr.geometry.location.lat();
-		      	document.getElementById("lngeditAdd").value = editAddr.geometry.location.lng();
-		    
-		    });
-	    }
-    </script>
-	
-
+    <div id="notify" class="modal notify-modal">
+        <div class="modal-content">
+            <div class="row row-no-margin-bottom">
+                <div class="col s12 center">
+                    <h3>Enter your details here and we will notify you when the item is back in stock</h3>
+                </div>
+            </div>
+            <div class="row row-no-margin-bottom">
+                <form class="col s12 notify" id="notifyMe" data-url="https://www.licious.in/notify">
+                    <div class="row">
+                        <div class="input-field col s12 center">
+                            <input type="text" name="name" required="" placeholder="Name">
+                        </div>
+                        <div class="input-field col s12 center">
+                            <input type="email" name="email" required="" placeholder="Email">
+                        </div>
+                        <div class="input-field col s12 center">
+                            <input type="text" name="number" required="" placeholder="Phone" maxlength="10" pattern="[789][0-9]{9}" oninvalid="setCustomValidity('Must be valid mobile number')" onchange="try{setCustomValidity('')}catch(e){}">
+                        </div>
+                        <div class="input-field col s12 center">
+                            <button type="submit" data-name="Notify Me" class="btn lec-red-bg full-width-button">Notify
+                                Me
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>	
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c2b7075667","applicationID":"194347271","transactionName":"ZgFQYUdWWkIFWkZfCV9Lc1ZBXltfS0lAXxBQB0sYRVhYWAdA","queueTime":0,"applicationTime":28,"atts":"SkZTFw9MSUw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
