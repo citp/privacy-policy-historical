@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiojavan.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628094425id_/https%3A//www.radiojavan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiojavan.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227215041id_/https%3A//www.radiojavan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RadioJavan.com
 
