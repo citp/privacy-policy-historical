@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomeatathlete.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115203929id_/https%3A//www.nomeatathlete.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomeatathlete.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227154600id_/https%3A//www.nomeatathlete.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | No Meat Athlete
 
@@ -38,7 +38,7 @@ Further, our software tracks certain aspects of behavior regarding how you inter
 
 **SECTION 3 – DISCLOSURE**
 
-We may disclose your personal information if we are required by law to do so or if you violate our [Terms of Service](https://www.nomeatathlete.com/terms-conditions/). Also, if our site is acquired or merged with another company, your information may be transferred to the new owners so that they may continue to offer and support our products and services.
+We may disclose your personal information if we are required by law to do so or if you violate our [Terms of Service](https://www.nomeatathlete.com/terms-and-conditions/). Also, if our site is acquired or merged with another company, your information may be transferred to the new owners so that they may continue to offer and support our products and services.
 
 IMPORTANT: We do not sell, rent or otherwise disclose your personal information to any third parties, including but not limited to advertisers, strategic partners, or vendors. Again, we take your privacy very seriously.
 
@@ -70,7 +70,7 @@ In particular, remember that certain providers may be located in or have facilit
 
 As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 
-Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s [Terms of Service](https://www.nomeatathlete.com/terms-conditions/).
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s [Terms of Service](https://www.nomeatathlete.com/terms-and-conditions/).
 
 Links: When you click on links on our site, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
