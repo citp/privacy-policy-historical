@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bzfilm.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521020026id_/http%3A//bzfilm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzfilm.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227180116id_/https%3A//bzfilm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ _**Information distribution**_
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
 _**Privacy Contact Information**_  
-If you have any questions, concerns, or comments, [you can always reach us here](http://bzfilm.com/contact/).
+If you have any questions, concerns, or comments, [you can always reach us here](https://bzfilm.com/contact/).
 
 _**Refund policy**_
 
@@ -33,9 +33,7 @@ By purchasing our services (advertising in the form of banners, text links, arti
 
 Since BZFilm.com offers non-tangible digital goods, we will not be able to “return” or refund the service you purchased.
 
-Please, make sure you ask everything you need regarding BZFilm’s advertising services before you make a purchase. If you are having any issues with purchased service, make sure you [contact us](http://bzfilm.com/contact/), and we will do our best to resolve the problem.
-
-* * *
+Please, make sure you ask everything you need regarding BZFilm’s advertising services before you make a purchase. If you are having any issues with purchased service, make sure you [contact us](https://bzfilm.com/contact/), and we will do our best to resolve the problem.
 
 * * *
 
