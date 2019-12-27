@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animoto.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222233id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animoto.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227215535id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Animoto
 
@@ -6,21 +6,21 @@
 
 If you do not agree to these terms, please do not access or use this site.
 
-This Privacy Policy applies to www.animoto.com, owned and operated by Animoto, Inc. (henceforward “Animoto”, “we”, “us”, or “our), as well as Animoto's application, widget or gadget for mobile devices and social networks (each, a "Site").. This Privacy Policy describes how Animoto collects, uses, shares and secures the personal information (or ‘personal data’) you provide. It also describes your choices regarding use, access and correction of your personal information.
+This Privacy Policy applies to www.animoto.com, owned and operated by Animoto, Inc. (henceforward “Animoto”, “we”, “us”, or “our), as well as Animoto’s mobile application (“Mobile App”) or Animoto’s video creation services made available through authorized third party websites such as social networks (each, a "Site"). This Privacy Policy describes how Animoto collects, uses, shares and secures the personal information (or ‘personal data’) you provide. It also describes your choices regarding use, access and correction of your personal information.
 
-The Site is not directed to children. For terms relating to areas of this Site that allow you to communicate and/or submit information on or through the Site, such as bulletin board postings, email, messages, suggestions, ideas, photographs, video music, text, drawings, or concepts, please refer to our [terms of service](https://animoto.com/legal/terms).
+The Site is not directed to children. For terms relating to areas of this Site that allow you to communicate and/or submit information on or through the Site, such as bulletin board postings, email, messages, suggestions, ideas, photographs, video music, text, drawings, or concepts, please refer to our [terms of service](https://animoto.com/legal/terms).
 
 ## 2\. EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
 
-Animoto Inc. complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework(s) (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom and/or Switzerland, as applicable to the United States in reliance on Privacy Shield. Animoto has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+Animoto Inc. complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework(s) (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom and/or Switzerland, as applicable to the United States in reliance on Privacy Shield. Animoto has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information.If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
 
 Animoto is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Animoto complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Animoto is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request/).
 
-Under certain conditions, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 ## 3\. Notice for EU Residents:
 
@@ -76,66 +76,105 @@ To support delivery of our Services, Animoto may engage and use data processors 
 We may collect the following personal information from you:
 
   * Contact Information, such as name and email address
+
   * Billing Information, such as credit card number and billing address
+
   * Preference Information, such as product wish lists or marketing preferences
+
   * Demographic information, such as timezone
 
 
 
-We may also collect, from you, the following personal information about your contacts such as, name and email address, in order to refer our products or provide our services, for instance, when you share our Animoto video with others. When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [sending us an email](mailto:contact@animoto.com).
+
+We may also collect, from you, the following personal information about your contacts such as, name and email address, in order to refer our products or provide our services, for instance, when you share our Animoto video with others. When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [sending us an email](mailto:contact@animoto.com).
+
+Mobile App Passive Data Collection:
+
+Our Mobile App collects information about your hardware and software, IP address, browser type and version, operating system, browsing history and page views, length of visit, referral/exiting sources, device identifiers such as Apple IDFA or Google Advertising ID, cookie identifiers, other pseudonymous identifiers, and information about the timing, frequency, and patterns of your usage.
+
+Data Received from Third Parties:
 
 We may receive information about you from other sources, such as third parties from whom we obtain data, and combine this data with information we already have about you. This helps us to update, expand and analyze our records. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. Examples of the types of personal information that may be obtained from third parties and combined with information we already have about you, may include updated credit card information from our provider Chase Paymentech, so that we can successfully process payments.
 
-Passive Collection: As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+Browser Passive Collection:
 
-Tracking Technologies: Technologies such as COOKIES or similar technologies are used by Animoto and our marketing partners, affiliates, analytics, or online customer support provider. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use COOKIES or similar technologies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies or similar technologies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+Technologies used for Tracking:
 
-You may sign-up to receive email or newsletter or other communications from us. If you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or at your member settings on our website or by contacting us at [sending us an email](mailto:contact@animoto.com).
+Technologies such as COOKIES or similar technologies are used by Animoto and our marketing partners, affiliates, analytics, or online customer support provider. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use COOKIES or similar technologies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+
+Our mobile applications contain software development kits (SDKs) that may collect and transmit information back to us or third-party partners about your usage of that mobile application or other applications on your device.
+
+Advertising and Marketing Opt-Out:
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies or similar technologies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+In the mobile environment, most mobile operating systems offer device-based opt-out choices that are transmitted to companies providing interest-based advertising. To set an opt-out preference for a mobile device identifier (such as Apple's IDFA or Android's GAID), visit the device manufacturer's current choice instructions pages, or read more about sending signals to limit ad tracking for your operating system here: [https://www.networkadvertising.org/mobile-choices](https://www.networkadvertising.org/mobile-choices/).
+
+You may sign-up to receive email or newsletter or other communications from us. If you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or at your member settings on our website or by contacting us at [sending us an email](mailto:contact@animoto.com).
+
+Social Media Features:
 
 Our website includes Social Media Features, such as the Facebook Like button, and Widgets, such as the Share This button or interactive mini-programs that run on our website. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy statement of the company providing it.
 
-You can log in to our site using Facebook Connect. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+You can log in to our site using your social media credentials through Facebook or Google. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook and Google may give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [sending us an email](mailto:contact@animoto.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [sending us an email](mailto:contact@animoto.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-Links to Third Party Websites: Our website includes links to other websites whose privacy practices may differ from those of Animoto. If you submit personal information to any of those websites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+Links to Third Party Websites:
+
+Our website includes links to other websites whose privacy practices may differ from those of Animoto. If you submit personal information to any of those websites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
 
 Other uses of the information we collect may be in order to:
 
-  * Fulfill your order and send you an order confirmation
+  * Fullfill your order and send you an order confirmation
+
   * Send you requested product, service information, or product updates
-  * Administer your account, respond to customer service requests, or respond to your questions and concerns
+
+  * Administer your accounter, respond to customer service requests, or respond to your questions and concerns.
+
   * Send you a catalog, a newsletter, or marketing communications
+
   * Improve our website and marketing efforts, including conducting research and analysis
+
   * Display content based upon your interests
+
   * Facilitate your transactions with other users
 
 
 
-Credit Card Security
 
-[Animoto](https://animoto.com/) takes credit card data security very seriously. For that reason, we use [Braintree](https://www.braintreepayments.com/) to securely handle credit card information. Braintree is a Validated Level 1 PCI DSS Compliant Service Provider. Learn more about [Braintree security practices](http://www.braintreepayments.com/security).
+Credit Card Security:
+
+[Animoto](https://animoto.com/) takes credit card data security very seriously. For that reason, we use [Braintree](https://www.braintreepayments.com/) to securely handle credit card information. Braintree is a Validated Level 1 PCI DSS Compliant Service Provider. Learn more about [Braintree security practices](https://www.braintreepayments.com/features/data-security/).
 
 ## 5\. Your Access
 
-Upon request Animoto will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account or contacting us at [sending us an email](mailto:contact@animoto.com). We will respond to your request within 30 days. In certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service.
+Upon request Animoto will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account or contacting us at [sending us an email](mailto:contact@animoto.com). We will respond to your request within 30 days. In certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service.
 
 ## 6\. Information Sharing
 
 We will not sell, trade, or rent Personally Identifiable Information to others. Furthermore, we will not disclose Personally Identifiable Information we collect from you to third parties without your permission, except to the extent necessary:
 
-With Service Providers or data processors: Animoto may share your information with third parties who provide services on our behalf to help with our business activities. These companies are authorized to use your personal information only as necessary to provide these services to us. These services may include:
+With Service Providers or data processors: Animoto may share your information with third parties who provide services on our behalf to help with our business activities. These companies are authorized to use your personal information only as necessary to provide these services to us. These services may include: 
 
   * Fulfilling orders or subscription services
+
   * Facilitating payments
+
   * Providing customer service
+
   * Delivering emails and push notifications to users or sending marketing communications
+
   * Conducting surveys and capturing user feedback
+
   * Track and report user analytics for purposes of improving customer experience
+
   * Providing information related to site security, maintenance, performance, and error tracking
+
   * Providing cloud computing infrastructure, hosting, and database services
+
 
 
 
@@ -145,9 +184,9 @@ Legal: In certain situations, Animoto may be required to disclose personal data 
 
 ## 7\. Security of Information
 
-We will keep your Personally Identifiable Information secure consistent with current industry standards. Security of your Personally Identifiable Information is of utmost concern to us. Personally Identifiable Information, once transmitted to us, will be stored on computers that only selected personnel and contractors have access to via password, and/or on web hosting servers maintained by Amazon Web Services, which employs its own physical and network security measures. In addition, your Animoto videos and/or content may be stored on Amazon Web Services servers. A copy of Amazon Web Services' Privacy Policy may be obtained [here](http://www.amazon.com/AWS-License-home-page-Money/b?ie=UTF8&node=3440661).
+We will keep your Personally Identifiable Information secure consistent with current industry standards. Security of your Personally Identifiable Information is of utmost concern to us. Personally Identifiable Information, once transmitted to us, will be stored on computers that only selected personnel and contractors have access to via password, and/or on web hosting servers maintained by Amazon Web Services, which employs its own physical and network security measures. In addition, your Animoto videos and/or content may be stored on Amazon Web Services servers. A copy of Amazon Web Services' Privacy Policy may be obtained [here](http://www.amazon.com/AWS-License-home-page-Money/b?ie=UTF8&node=3440661).
 
-Your Animoto videos and user content are limited-access, where access is gained through an obscured URL system. This obscured URL makes it difficult if not impossible for a third party to guess the URL address of your video or content without an invitation from you including the relevant URL. However, because the videos and content are not password-protected, a possibility exists that an unauthorized third party could discover your videos and/or content. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about the security of your personal information, you can contact us at [sending us an email](mailto:contact@animoto.com).
+Your Animoto videos and user content are limited-access, where access is gained through an obscured URL system. This obscured URL makes it difficult if not impossible for a third party to guess the URL address of your video or content without an invitation from you including the relevant URL. However, because the videos and content are not password-protected, a possibility exists that an unauthorized third party could discover your videos and/or content. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about the security of your personal information, you can contact us at [sending us an email](mailto:contact@animoto.com).
 
 ## 8\. Changes to this Statement
 
@@ -155,18 +194,12 @@ Animoto has the discretion to update this privacy policy to reflect changes to o
 
 ## 9\. Contacting Us
 
-Animoto Inc. ([contact@animoto.com](mailto:contact@animoto.com))   
-436 Lafayette St, Fl 2  
-New York, NY, 10003  
-USA
+Animoto Inc. ([contact@animoto.com](mailto:contact@animoto.com)) 436 Lafayette St, Fl 2 New York, NY, 10003 USA
 
 #### For EU residents
 
-Jack Baylor ([eu-privacy@animoto.com](mailto:eu-privacy@animoto.com))   
-2 Ashton Place  
-Gardiner’s Hill  
-Cork, Ireland
+Jack Baylor ([eu-privacy@animoto.com](mailto:eu-privacy@animoto.com)) 2 Ashton Place Gardiner’s Hill Cork, Ireland
 
-**This document was last updated on March 27, 2019.**
+ **This document was last updated on July 31, 2019.**
 
-[ ](https://privacy.truste.com/privacy-seal/validation?rid=5861d98f-9f02-479c-bd0c-ca2e2074e3ce)
+ ****[](https://privacy.truste.com/privacy-seal/validation?rid=5861d98f-9f02-479c-bd0c-ca2e2074e3ce) ****
