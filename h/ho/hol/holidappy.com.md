@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidappy.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621171431id_/https%3A//holidappy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidappy.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227104906id_/https%3A//holidappy.com/privacy-policy) for the most accurate reproduction.*
 
 # HubPages Network Privacy Policy | Holidappy
 
@@ -132,11 +132,9 @@ Your rights under the GDPR can be viewed [here](https://ec.europa.eu/info/law/la
 
 You may access the consent dialogue tool and update/remove your consents by clicking here
 
-Beyond consent management, please submit GDPR-related data rights or other requests via email to: [DPO@hubpages.com](mailto:dpo@hubpages.com)
+Beyond consent management, please submit GDPR-related data rights or other requests via email to: [gdpr@hubpages.com](mailto:gdpr@hubpages.com)
 
 The Data Controller is HubPages, Inc. You may contact HubPages at: [Team@hubpages.com](mailto:team@hubpages.com)
-
-The DPO at HubPages is Eric Bassman: [DPO@hubpages.com](mailto:dpo@hubpages.com)
 
 ### Disclosure of Data Transfer & Third-Parties
 
