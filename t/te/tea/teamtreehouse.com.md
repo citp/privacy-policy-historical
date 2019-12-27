@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teamtreehouse.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629224455id_/https%3A//teamtreehouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamtreehouse.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227215039id_/https%3A//teamtreehouse.com/privacy) for the most accurate reproduction.*
 
 # Treehouse Privacy Policy
 
-Last Updated Oct. 11, 2018
+Last Updated Oct. 1, 2019
 
 The team at Treehouse Island, Inc. (“Treehouse,” “Company,” “we,” “us,” “our”) knows that you care about how your information is collected, used and shared, and we take your privacy seriously. Please read this Privacy Policy carefully to learn more about our privacy practices.
 
@@ -78,7 +78,7 @@ Our Website includes social media features, such as the Facebook button and widg
 
 ## Email and Other Communications
 
-We may contact you, by email or other means as you have indicated, to send you information about our products and services, including updates, enhancements, or other related information or to communicate with you about your use of our Website. In addition, where you have agreed, we may send you promotional offers on behalf of other businesses. If you do not want to receive email or other mail from us, please indicate your preference within the account notifications page at <http://teamtreehouse.com/account/notifications>.
+We may contact you, by email or other means as you have indicated, to send you information about our products and services, including updates, enhancements, or other related information or to communicate with you about your use of our Website. In addition, where you have agreed, we may send you promotional offers on behalf of other businesses. If you do not want to receive email or other mail from us, please indicate your preference within the account notifications page at <http://teamtreehouse.com/account/notifications>. To Opt Out of receiving any marketing materials you can email us at the following address: [help@teamtreehouse.com](mailto:help@teamtreehouse.com)
 
 * * *
 
