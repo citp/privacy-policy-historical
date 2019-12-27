@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyerland.ca privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223025515id_/http%3A//notices.torstar.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyerland.ca privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227144530id_/http%3A//notices.torstar.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | Torstar
 
