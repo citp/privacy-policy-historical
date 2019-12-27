@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userscripts-mirror.org privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604013047id_/http%3A//userscripts-mirror.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userscripts-mirror.org privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227215608id_/https%3A//userscripts-mirror.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Userscripts.org
 
@@ -44,4 +44,4 @@ Although most changes are likely to be minor, Userscripts.org may change its Pri
 
 ### Creative Commons
 
-[](http://creativecommons.org/licenses/by-sa/2.5/) Note this privacy policy available under a **Creative Commons Sharealike** license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you. The original policy is by the awesome folks at [Automattic](http://automattic.com/privacy/).
+[](https://creativecommons.org/licenses/by-sa/2.5/) Note this privacy policy available under a **Creative Commons Sharealike** license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you. The original policy is by the awesome folks at [Automattic](https://automattic.com/privacy/).
