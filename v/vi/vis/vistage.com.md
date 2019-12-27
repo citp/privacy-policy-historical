@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331234235id_/https%3A//www.vistage.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227143520id_/https%3A//www.vistage.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vistage
 
@@ -115,7 +115,7 @@ Functionality cookies remember information you have entered or choices you make 
 
 These cookies are used to make advertising more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of advertising campaigns. The cookies are usually placed by third party advertising networks. They remember the websites you visit and that information is shared with other parties such as advertisers.
 
-To manage the use of any of these cookies on our Sites or to opt out of their use (except for the Strictly Necessary Cookies), click “Cookie Preferences” at the bottom of this page.  Please note that opting out of any of these cookies may impact your use of our Sites.
+To manage the use of any of these cookies on our Sites or to opt out of their use (except for the Strictly Necessary Cookies), click “Cookies Preference Center” at the bottom of this page.  Please note that opting out of any of these cookies may impact your use of our Sites.
 
 ## Pixel tag
 
