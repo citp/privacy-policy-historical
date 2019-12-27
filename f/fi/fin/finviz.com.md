@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finviz.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612220553id_/https%3A//finviz.com/privacy.ashx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finviz.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227223143id_/https%3A//finviz.com/privacy.ashx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,4 +58,4 @@ We allow registered users to select their preferred level of privacy. The additi
 
 ## Comments and Questions
 
-If you have any questions, comments or concerns about our privacy policy, you may [contact us.](https://web.archive.org/web/20190612220553id_/https%3A//finviz.com/contact.ashx)
+If you have any questions, comments or concerns about our privacy policy, you may [contact us.](https://web.archive.org/web/20191227223143id_/https%3A//finviz.com/contact.ashx)
