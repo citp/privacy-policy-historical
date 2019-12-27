@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206123658id_/https%3A//www.rightmove.co.uk/this-site/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227154143id_/https%3A//www.rightmove.co.uk/this-site/privacy-policy.html) for the most accurate reproduction.*
 
 # Rightmove.co.uk
 
 ## RIGHTMOVE GROUP LIMITED
 
-## WEBSITE PRIVACY POLICY 2018
+## WEBSITE PRIVACY POLICY 2019
 
 ### Who we are
 
@@ -100,7 +100,17 @@ What we collect and where it comes from |
 
 #### Enquiries to our members:
 
-    * if you choose to access a particular search feature or to fill in a form on the Site you may be asked to provide information about yourself, such as your name and contact details. We may also collect other information about you at the same time, such as details of the sort of property you are interested in, the cost and location of the property, and your current residential address; 
+    * if you choose to access a particular search feature or to fill in a form on the Site you may be asked to provide information about yourself, such as:
+      * your name and contact details
+      * details of the sort of property you are interested in
+      * the cost and location of the property, and
+      * your current residential address.
+    * If you choose to book an appointment to view a property via the Site, you may be asked to provide more details, including:
+      * your availability to view the property
+      * your preferred moving date
+      * details of your household income as a proxy for calculating affordability in relation to the advertised monthly rental value of a property
+      * an indication of whether you are moving alone or with others, and
+      * your feedback on a property that you have viewed,
     * if you choose to contact us or a member using the member telephone number on Site, calls may be recorded for training and monitoring purposes. We may also keep a record of call activity, including missed calls.
 
 #### Registered Users and Property Alerts:
@@ -126,7 +136,11 @@ Why we collect it |
 
 #### Enquiries to our members:
 
-    * to make sure that you receive the benefit of the Rightmove service. This may include transferring your property enquiry to our member advertising that property so that they can respond to your enquiry. Some of our members may use lead handling agencies who handle and process your enquiry on their behalf; 
+    * to make sure that you receive the benefit of the Rightmove service. This may include
+      * transferring your property enquiry to our member advertising that property so that they can respond to your enquiry. Some of our members may use lead handling agencies who handle and process your enquiry on their behalf; or
+      * sending your request to book a property viewing to our member advertising that property and for us to confirm your booking by email or text on our member's behalf;
+      * transferring other relevant information to our member so that they can assess whether the property is suitable for you; and
+      * allowing you to provide our member with feedback on the property once you have viewed it;
     * for training and monitoring purposes where calls are recorded;
     * to profile your lead activity on our Site or telephone calls to our Members to enhance the service you receive from our Members. If you want to know more about this, see "Lead Profiling" below.
 
