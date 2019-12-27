@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshillongtimes.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604182212id_/http%3A//www.theshillongtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshillongtimes.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227155055id_/https%3A//theshillongtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Shillong Times
 
@@ -50,6 +50,15 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
+**Third-parties and Opt-Out**  
+Third-parties may display interest-based advertising to you in applications or websites, based on your use of applications or websites over time and across non-affiliated apps.  
+Such third-parties may combine and use information from websites or applications on your current browser or device with information from your other browsers or devices for advertising purposes. To opt-out of such interest-based advertising and/or cross-device targeting, please use the methods provided below for opting out on each of your browsers and on each of your devices:  
+Network Advertising Initiative (NAI) – http://optout.networkadvertising.org/  
+Digital Advertising Alliance (DAA) – http://www.aboutads.info/choices/  
+Digital Advertising Alliance Canada (DAAC) – http://youradchoices.ca/choices  
+Digital Advertising Alliance EU (EDAA) – http://www.youronlinechoices.com/  
+Please note that opting out of interest-based advertising and cross-device targeting does not mean you will no longer receive online advertising. It does mean that the third-party from which you have opted out of receiving interest-based advertising or cross-device targeting by using the methods provided above will no longer deliver ads tailored to your Web preferences and usage patterns on a particular web browser or device.
+
 **Google Adsense**
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
@@ -76,6 +85,6 @@ Meghalaya, India
 
 ##### 91(0364) 2223488, 2227488 (Shillong). 91(03651) 222526, 222825 (Tura).
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+letters@theshillongtimes.com
 
 This document was last updated on June 09, 2013
