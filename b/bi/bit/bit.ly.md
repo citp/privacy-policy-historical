@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the bit.ly privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626004812id_/https%3A//bitly.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bit.ly privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227141926id_/https%3A//bitly.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bitly
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=356f4f80-4ef8-43b8-895d-248662be081a)
-
-#### Effective Date: March 12, 2019
-
-Language  
-
+#### Effective Date: December 4th, 2019
 
 Welcome to Bitly. This Privacy Policy describes the policies and procedures of Bitly, Inc. (“Bitly”, “we” or “us”) on the collection, use, security and disclosure of personal information about you on [https://bitly.com](https://bitly.com/) (the “Site”) and the services, features, content or applications offered by Bitly (collectively with the Site, the “Services”). It also describes your choices regarding use, access and correction of your personal information.
 
@@ -114,13 +109,13 @@ Bitly may access, read, preserve, and disclose any information it collects when 
 **Information We Share With Your Consent**  
 We will share information about you when you instruct us to do so, such as when you share Bitly Links or content with others through the Services or if we notify you that the information you provide will be shared in a particular manner and you provide such information (like sharing/posting it with a third-party Service).
 
-Bitly, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List. [[https://www.privacyshield.gov](https://www.privacyshield.gov/)]
+Bitly, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Economic Area (EEA) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List. [[https://www.privacyshield.gov](https://www.privacyshield.gov/)]
 
-Bitly, Inc. is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Bitly, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+Bitly, Inc. is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Bitly, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EEA and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Bitly, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+Please direct any inquiries or complaints regarding our compliance with the Principles to the point of contact listed in the “Questions” section below. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider at <https://www.jamsadr.com/eu-us-privacy-shield>. JAMS is located in the United States and their services are provided at no cost to you.
 
 Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
@@ -134,7 +129,7 @@ Bitly endeavors to protect the information it collects about its users using ind
 
 You don’t need an Account to create Bitly Links, and you can use many of the features of the Services without registering, thereby limiting the type of information that is collected about you individually.
 
-Bitly acknowledges that you have the right to access your personal information that we collect and are able to associate with you. If you have a Bitly Account, you may access, correct, or request deletion of your personal information by logging into your Account.  Once logged in to your account, you will be able to view a history of the URLs you have shortened and the metrics pages for those URLs. You can request a complete copy of the personal information we store about your account by clicking the Request GDPR SAR Report button in your Account Settings.  For more information on how to request access to your information, please see our [help article](https://support.bitly.com/hc/en-us/articles/360006534152-How-to-request-a-copy-of-my-personal-data-from-Bitly-GDPR-Subject-Access-Request-). You can delete your Account at any time through your Account settings page. If you delete your Account, you will no longer be able to access or use the Services. If you have an Account but are unable to access it, you can contact us at [support@bitly.com](mailto:support@bitly.com). We will respond to your request within a reasonable timeframe. In certain circumstances, we may be required by law to retain your personal information.
+Bitly acknowledges that you have the right to access your personal information that we collect and are able to associate with you. If you have a Bitly Account, you may access, correct, or request deletion of your personal information by logging into your Account.  Once logged in to your account, you will be able to view a history of the URLs you have shortened and the metrics pages for those URLs. You can request a complete copy of the personal information we store about your account by clicking the Request GDPR SAR Report button in your Account Settings.  For more information on how to request access to your information, please see our [help article](https://support.bitly.com/hc/en-us/articles/360006534152-How-to-request-a-copy-of-my-personal-data-from-Bitly-GDPR-Subject-Access-Request-). You can delete your Account at any time through your Account settings page. If you delete your Account, you will no longer be able to access or use the Services. If you have an Account but are unable to access it, you can contact us at [support@bitly.com](mailto:support@bitly.com). We will respond to your request within a reasonable timeframe. If you are a resident of the EEA or Switzerland, you have the right to ask that your personal data be corrected, updated, or erased. You may also have the right to object to, or request that we restrict, certain processing. If you would like to exercise any of these rights, you may contact us as indicated in the “Questions” section below. In certain circumstances, we may be required by law to retain your personal information.
 
 If you do not have a Bitly account, Bitly has no way of identifying you or verifying that you created or clicked on a Bitly link.
 
@@ -146,6 +141,6 @@ If you are located in the European Economic Area, you have the right to lodge a 
 
 Bitly may amend this Privacy Policy from time to time. If we make material changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email, and we will indicate when those changes will become effective. You are agreeing to be bound by any changes to the Privacy Policy when you use the Services after those changes become effective.
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to: [support@bitly.com](mailto:support@bitly.com). We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to: [privacy@bitly.com](mailto:privacy@bitly.com). We will make every effort to resolve your concerns.
 
 You may also contact us at 139 Fifth Avenue, 5th Floor, New York, NY 10010.
