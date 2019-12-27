@@ -1,85 +1,181 @@
-> *The following text is extracted and transformed from the redbullradio.com privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820130721id_/https%3A//policies.redbull.com/r/Red_Bull_Radio/privacy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbullradio.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227162710id_/https%3A//www.mixcloud.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Red Bull Policy Center
+# Privacy policy | Mixcloud
 
-## 1\. Introduction
+This privacy policy sets out how Mixcloud Limited (“Mixcloud” or “we”, “our” or “us”) uses and protects information you share with us. It is intended to:
 
-1.1 This Red Bull Privacy Policy (" **Policy** ") sets out how Red Bull GmbH, whose registered offices are at Am Brunnen 1, 5330 Fuschl, Austria, (hereinafter “ **Red Bull** ”, " **we** ", " **us** ", " **our** ") collect and process information about you when you visit our website (" **Website** "). By continuing to use this Website, you consent to your information being processed in accordance with this Policy.
+  1. explain what information we collect from you and how we collect it;
+  2. explain how we use that information and our legal basis for doing so; and
+  3. inform you of your rights and choices regarding this information.
 
-## 2\. Personal information we collect and how we use it
 
-2.1 **Information you give us.** You may give us information, including information that can identify you (" **personal information** "), when you use our Website, correspond with us, or enter into any of our competitions, promotions or surveys. Where we request information from you, we will collect the information set out in the relevant forms or pages. You may choose to provide additional information to us when you contact us or otherwise interact with us.
 
-2.2 If you are a regular user of our Website, you may wish to create an Account (" **Account** ") with us. The information that you provide when setting up your Account may include your name, email address and telephone number. If you register to hold an Account with us, you will also have a unique password which enables you to access your Account.
+Mixcloud is committed to ensuring that your privacy is protected. We are committed to delivering the best experience when you use the Mixcloud platform, however you access it (via the URL www.mixcloud.com and related URLs, via a mobile device, Sonos and other connected speakers, the Mixcloud widgets, Widget API and all other current and future services) (the **“Mixcloud Platform”** ).
 
-2.3 If you purchase any games, services, apps or other goods on our Website, we will also collect your delivery address, billing address and payment information. Please note that we will not be storing your payment information, this will be done via a third party payments company. If you subscribe to receive our newsletter, then you will provide us with your name, email address, gender and date of birth.
+Any information you provide to us by which you may be identified when using the Mixcloud Platform will only be used in accordance with this Privacy Policy. This policy is effective from 25 May 2018.
 
-2.4 The personal information that you provide to us will be used for the purposes of enabling you to use our Website and making purchases via the Website, for administrative and troubleshooting purposes and in order to send you marketing materials (should you opt in to receiving marketing material from us). As explained in Section 2.8 below, we may also use this information for further purposes when combined with other data we collect about you.
+### Data controller:
 
-2.5 **Information we collect automatically**. When you visit our Website, we may automatically collect the following information: your IP address, log-in information, location information, browser type and version, browser plug-in types and versions, operating system and platform, information about your visit including the URL clickstream to, through and from our Website, products you viewed or searched for, download errors, length of visits to certain pages and page interaction. We collect information automatically through the use of various technologies, including through "cookies", and this is explained further below.
+ **Mixcloud Limited** (Company Number: 06710137)  
+447 - 453 Hackney Road, London, E2 9DY  
+[Privacy@Mixcloud.com](mailto:privacy@mixcloud.com)
 
-2.6 We use the information we collect automatically: (1) to administer our Website for internal operations including troubleshooting purposes; (2) to ensure that content from our Website is presented in the most effective manner for you and your devices; (3) as part of our effort to keep our Website safe and secure; (4) to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and (5) to make suggestions and recommendations to you and other users of our Website about goods or services that may interest you or them.
+Children under the age of 16 are not eligible to use the Mixcloud Platform. If you are aged under 16, you must not attempt to register with Mixcloud or submit any personal information to us.
 
-2.7 **Information we receive from other sources**. We may receive information about you if you use any of the other services we provide on this Website, or from other Red Bull entities and affiliates. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them (including information that is publicly available).
+We do not knowingly collect personal information from any person who is under the age of 16 or allow them to register. If it comes to our attention that we have collected personal data from a person under the age of 16, we will delete this information immediately. If you have reason to believe that this has occurred, please email us at [Privacy@Mixcloud.com](mailto:privacy@mixcloud.com), and we will delete all relevant information.
 
-2.8 Where permitted by law, we may combine this information we receive from other sources, including from social media websites, with information you give to us and information we collect about you, including cookie information. We may use this information and the combined information for learning more about your preferences as our customer, for enhancing your user experience on our Website and for providing you with information, content and offerings tailored to your needs.
+There are broadly two categories of information we collect, being:
 
-## 3\. How we share and disclose your information
+  1. information that we must use in order for you to use the Mixcloud Platform; and
+  2. information that you can choose to supply which we will use to improve your experience on the Mixcloud Platform.
 
-3.1 We may share your information with our [Red Bull affiliates](https://web.archive.org/web/20171018030348id_/https://policies.redbull.com/policies/Red_Bull_Radio/201703070501/en/affiliates.html) for the purposes outlined in this Policy and with the third parties listed in this Policy. We may also share your information with third parties when: (1) it is necessary to involve a third party service provider in order to facilitate or extend our services; (2) explicitly requested by you (e.g. with social media networks); (3) required by a court order or any legal or regulatory requirement; (4) in connection with the sale or transfer of a business; (5) to enforce our Terms of Use; (6) to ensure the safety and security of our users, consumers and third parties; and (7) to protect our rights and property and the rights and property of our guests and third parties.
 
-## 4\. How to opt in or opt out of direct marketing
 
-4.1 We, and selected third parties, may use the information you give us on our Website for direct marketing purposes to provide updates; newsletters; events; or other communications that we think may interest you. Where required by law, your prior consent will be obtained before sending direct marketing. In any event, we will offer you the option to unsubscribe in every communication sent.
+ **In order for you to use the Mixcloud Platform, we must collect the following information.** If you choose not to provide this information, you will not be able to fully utilize certain functions of the Mixcloud Platform.
 
-## 5\. Analysis and Advertising
+##  _2.1/_ Registration Data
 
-5.1 We use third party tools, including the Turn Audience Suite and related tools provided by Turn to make the advertising we show you on our Website and/or our partner websites more relevant and interesting to you. For this purpose, we use cookies, web beacons or similar technologies to collect information about your browsing behaviour (see sections 2.5 and 2.6 above) and deliver interest-based ads to you. For further information about the use of data by Turn please click on the following link: http://www.turn.com/trust/privacy-guidelines. You may opt-out at any time from the collection and use of your data by Turn by clicking the following link: http://www.turn.com/trust/consumer-opt-out.
+In order to use certain features of the Mixcloud Platform, you will need to register an account. When registering you will be asked to provide an email address and create a display name and password. Please note that if you choose an username that includes or reveals your name or any other personal information, this will be publicly available on the Mixcloud Platform. If you connect to the Mixcloud Platform using credentials from a third-party application, website or service such as Facebook, you authorize us to collect your authentication information, being your Facebook User ID.
 
-5.2 We also use third party tools, including Facebook Custom Audience and related tools provided by Facebook to provide advertising to you on other websites (including social media networks such as Facebook). Facebook Custom Audience is a tool provided by Facebook which matches a Red Bull customer/visitor with a Facebook user in order to provide advertising on the Facebook platform. For this purpose, we share your information with these third party providers (e.g. Facebook) and use cookies or similar technologies on our website to analyse the effectiveness of our advertising on other websites. For more information about the use of data by Facebook, please click on the following link: <https://www.facebook.com/privacy/explanation>. You may withdraw your consent at any time from the use of your data for these purposes, by contacting us by email on [privacy@redbull.com](mailto:privacy@redbull.com).
+##  _2.2/_ Ongoing Usage Data
 
-## 6\. Cookies and other technologies
+When you use the Mixcloud Platform, we collect a variety of information relating to your ongoing user activity, including:
 
-6.1 We collect information automatically through the use of "cookies". A cookie is a text file containing small amounts of information that a website can send to your browser, which may then be stored on your computer as a tag that distinguishes your computer but does not name you. Some of our Website pages use cookies to better serve you when you return to the Website. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies; however, if you do this, some of our Website may not work properly.
+  *  **How you use the Mixcloud Platform:** the audio content you listen to or upload, how long you listen to it, who you follow and who follows you, your sharing activity, including reposts, comments and favorites. This information is made publicly available to other users of the Mixcloud Platform;
+  *  **Technical data:** the Internet Protocol (IP) of your computer, the types of device you are using to access the Mixcloud Platform, the operating system and/or the software you are using to access the Mixcloud Platform; and
+  *  **Location information:** we keep track of the domains from which you visit the Mixcloud Platform (but we cannot see a zip code or postal code unless you choose to explicitly provide this information to us).
 
-6.2 For information about the specific cookies used on this Website, please refer to our [Cookies Policy](https://web.archive.org/web/20171018030348id_/https://policies.redbull.com/policies/Red_Bull_Radio/201703070501/en/cookie.html).
 
-## 7\. Links to other websites and social media
 
-7.1 Where we provide links to other websites, we do so for information purposes only. The other websites are outside our control and are not covered by this Policy. If you access other websites using the links provided, the operators of these websites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
+## _2.3/_ Payment Data
 
-7.2 On some pages of our Website, third parties that provide content, applications or plug-ins through our Website may track your use of content, applications and plug-ins or customize content, applications and plug-ins for you. For example, when you share an article using a social media sharing button on our Website (e.g., Facebook, Twitter, or Google Plus), the social network that has created the button will record that you have done this. For more information on social media plug-ins on our Website, see our [Cookies Policy](https://web.archive.org/web/20171018030348id_/https://policies.redbull.com/policies/Red_Bull_Radio/201703070501/en/cookie.html).
+If you choose to purchase a service provided by us on the Mixcloud Platform (such as a [Mixcloud pro account](https://web.archive.org/pro)), your credit or debit card information and other financial data which you submit that is needed to process your payment will be collected by the payment processor with which we work. We will also collect some account details (such as the last 4 digits of your card number and the expiry date and your postal code).
 
-## 8\. Data Retention
+If you choose to purchase audio or other goods or services by clicking on a third-party link provided on the Mixcloud Platform (for example, a link to www.amazon.com), such third party may collect your credit or debit card information (and other necessary financial information) for the purpose of completing a transaction. We may be provided with confirmation of your transactions with such third parties and, in some instances, such confirmation may include your personal information. Aside from such confirmations, the only information that we will collect from such third-party links is: (a) the aggregate number of Mixcloud users who utilized such third-party links; and (b) the number of purchases made by these generic users.
 
-8.1 We will not retain your information for longer than is necessary for our business purposes or for legal requirements. However, please be advised that we may retain some information after you have closed your Account with us, for instance if doing so is necessary to meet our legal obligations, such as retaining the information for tax and accounting purposes.
+You can choose to supply us with the following information which we will use to improve your experience on the Mixcloud Platform.
 
-## 9\. Your Rights
+##  _2.4/_ Profile Data
 
-9.1 If you wish to obtain a copy of personal information that we hold about you, please contact us at the address below. Before responding to your request, we may ask you to verify your identity and to provide further details about your request. We will endeavour to respond within an appropriate timeframe and, in any event, within any timescales required by law.
+Within your profile settings, you can choose to provide certain information, including a biography, country and city location, age and gender and a profile picture. Whether you choose to provide such information is entirely optional. If you do provide such information, this information may be made available to third parties in certain instances, such as if you enter a competition on the Mixcloud competition page at the URL [www.mixcloud.com/competitions](https://web.archive.org/competitions).
 
-9.2 If you have chosen to have an Account then you can access the personal information we hold about you via your Account to obtain a copy of it and to correct, amend, or delete information that is inaccurate. You can also close your Account at any time.
+Where you upload photographs or other content as part of your user profile, we will be entitled to use those photographs and content in accordance with our Terms & Conditions. We discourage you from uploading photographs of friends or other people without their permission.
 
-9.3 It is your responsibility to ensure that you submit true, accurate and complete information to your Account and keep it up to date. You may also update your personal information by contacting us, using the contact details provided below. Please make sure to include your name, username and post code in your initial correspondence; this helps us protect the details and preferences on your Account from unauthorised access.
+##  _2.5/_ Connected Social Media Data
 
-## 10\. Information Security
+Within your profile settings, you can choose to connect to certain third-party applications, including Facebook and Twitter. In such instances, we will collect the following information:
 
-10.1 We apply appropriate security measures to protect your personal information that is under our control from unauthorised access, collection, use, disclosure, copying, modification or disposal. All information you provide to us is stored on secure servers.
+  *  **Facebook:** if you choose to connect your Facebook account, you will be directed to a landing page where Facebook will ask your permission to share certain information from your Facebook account with us, including your Facebook public information (Facebook user ID, first name, last name, profile picture, gender, birth year and other information which Facebook may determine as public information), your friends list (optional) and email address (optional). This information is collected by Facebook and is provided to us under the terms of [Facebook’s Privacy Policy](https://www.facebook.com/policy.php). You can control the information that we receive from Facebook using the privacy settings within your Facebook account; and
+  *  **Twitter:** if you choose to connect your Twitter account, you will be directed to a landing page where Twitter will ask your permission to authorize us to collect certain information from your Twitter account, such as your username, twitter account ID, who you follow and tweets in your timeline, as well as authorize us utilize your Twitter account in certain ways, including following new people, updating your profile and posting tweets for you. You have the option in your profile settings to control exactly how Mixcloud uses your Twitter account, for example posting a tweet when you upload a new show and/or when you favorite them, posting a tweet when you listen to a show and/or posting a tweet when you comment on a show or profile. This information is collected by Twitter and provided to us under [Twitter’s Privacy Policy](https://twitter.com/en/privacy). You can control the information that we receive from Twitter and our authority using your Twitter settings.
 
-10.2 Where you have a password, which enables you to access our Website, you are responsible for keeping this password secure and confidential.
 
-## 11\. Internet-based Transfers
 
-11.1 Given that the Internet is a global environment, using the Internet to collect and process personal information necessarily involves the transmission of data on an international basis. While we generally store all of the personal information that we collect about you through our Website in your region (for example for European visitors, in the European Economic Area), it is possible that your personal information will be transmitted to parties outside your region (where data protection laws may be different). If such transfer happens, we ensure that it takes place in compliance with contractual or other measures to protect the information.
+Consistent with the permissions you give us to collect the information, we will process the information for broadly two purposes, being: 1) to operate the Mixcloud Platform and any associated services securely; and 2/ to personalize and improve your experience on the Mixcloud Platform and any associated services. We store your data for as long as long as is necessary to continue providing a great continuous experience on the Mixcloud Platform or until requested otherwise by you.
 
-## 12\. Use of this Website by Minors
+##  _3.1/_ Operating the Mixcloud Platform securely
 
-12.1 If you are aged 14 or under, please get your parent's/guardian's permission before you provide information to us via our Website. Users without this consent are not allowed to provide us with information and, in the event that they do so, we will cease to process their information as soon as we find out.
+  * We will use your Registration Data to verify and identify you when you log into the Mixcloud Platform and to operate your Mixcloud account, preventing any unauthorized or illegal activity;
+  * We will use your Registration Data to identify any contributions you make to the platform, be that your uploads, listens or other activity on the Mixcloud Platform;
+  * We will use your Ongoing Usage Data to make the Mixcloud Platform as interactive as possible and provide other uploaders and listeners with insights about listening behavior on Mixcloud Platform. Note that certain Ongoing Usage Data relating to how you use the Mixcloud Platform will be made publicly available to others of the Mixcloud platform by default;
+  * In order so that we can comply with our legal obligations as a licensed provider of audio content, we will use your Registration Data, Ongoing Usage Data and Profile Data (if you choose to provide it) to report to rights holders as part of our licensing framework;
+  * We will use your Registration Data to respond to any comments or enquiries which you submit to us and to provide you with customer and technical support;
+  * If you purchase a service provided by us on the Mixcloud Platform, the information which is necessary to make payment will be collected and processed by the payment processor with which we work. We will collect some non-identifiable account details in order to comply with our legal obligations to governmental authorities, such as HM Revenue & Customs in the United Kingdom;
+  * We will use your age to enable age restrictions where appropriate;
+  * We will use any data which we collect to maintain the technical functionality of the Mixcloud Platform and to enhance the safety and security of the Mixcloud Platform, for example by taking action against activities that are, or may be, in breach of our Terms of Use.
 
-## 13\. Changes to the Policy
 
-13.1 This Policy was last updated on 21.12.2016. A notice will be posted on our Website home page for 30 days whenever this Policy is changed in a material way. By continuing to use our Website you confirm your acceptance of the relevant changes.
 
-## 14\. Questions about this Policy
+In addition to any specific grounds stated above, it is necessary for us to process the above information in the manner described to ensure our legitimate interest of operating the Mixcloud Platform securely and for the performance of our contractual obligations with you (such as our Terms & Conditions).
 
-14.1 This Website is maintained by Red Bull GmbH. If you have a question, concern or complaint about this Policy or our handling of your information, you can contact us by email on [privacy@redbull.com](mailto:privacy@redbull.com).
+##  _3.2/_ Personalizing and improving your experience on the Mixcloud Platform
+
+  * We will use your Registration Data, Ongoing Usage Data, Profile Data, Connected Social Media Data to customize your experience on the Mixcloud Platform, such as providing tailored recommendations as to what user profiles to follow, suggesting certain audio content in your music feed and queuing up audio content to play “up next” after your chosen selection ends;
+  * We will use your Registration Data, Ongoing Usage Data, Profile Data and Connected Social Media Data to customize any communications (including emails, push notifications or in-app messages) we send to you about the Mixcloud Platform, including any changes to the Mixcloud Platform. Such communications will be consistent with any permissions you have communicated to us, which are accessible in the Notifications panel of your settings;
+  * We will use your Registration Data, Ongoing Usage Data, Profile Data and Connected Social Media Data to ensure that any advertising or promotions on the Mixcloud Platform (including for third party products and services) is relevant to you. We will never permit any third parties to contact you directly unsolicited, unless you have provided your express consent;
+  * We may make your Registration Data and aspects of your Ongoing Usage Data relating to how you use the Mixcloud Platform available to third party developers via our open application interface (the “API”) so that they develop services which are complementary to the Mixcloud Platform;
+  * If you choose to participate in competitions on the Mixcloud Platform (which are hosted at the URL [www.mixcloud.com/competitions](https://web.archive.org/competitions)), we will use your Registration Data, Ongoing Usage Data and Profile Data to operate the competitions. We may pass such information onto third parties who are responsible for the redemption of your prizes. We will always ask for your consent in each competition to the transfer of this data.
+
+
+
+In addition to any specific grounds stated above, it is necessary for us to we process the above information in the manner described to ensure our legitimate interest of personalizing and improving your experience on the Mixcloud Platform, so that the service we are providing is always interesting to you.
+
+We will also use data we collect to conduct aggregated and anonymized analysis of users’ listening behavior on the Mixcloud Platform.
+
+Information which we collect and process may be shared by either you or us in certain circumstances.
+
+##  _4.1/_ Sharing by you
+
+  *  **Information made public by default:** Mixcloud is about a community of like minder users. Therefore, certain information relating to your Registration Data, Ongoing Usage Data and Profile Data is always publicly available to ensure that the Mixcloud Platform is interactive as possible. Your username, profile picture, who you follow, who follows you, your sharing activity (including reposts, comments and favorites) are made publicly available by default. This information will automatically be accessible to others who view your Mixcloud profile. In the future, we may offer other interactive features which will make certain information publicly available;
+  *  **Third party applications:** If you connect your Mixcloud account to certain third-party applications, including Facebook and Twitter, certain information will automatically be shared with that service, including the information public by default and information necessary for the connections which you have set up to operate. That third-party application’s use of that information will be governed by their privacy policy and your settings on that service;
+  *  **Social media:** you can click on a “Share” or similar button on the Mixcloud Platform, which will allow you to share information (such as audio content) on the Mixcloud Platform via a third-party platform, including social media platforms such as Facebook and Twitter. When you share such information, the processing of this information will be governed by the terms of the third-party platform’s privacy policy. We advise you to use caution whenever you share information.
+
+
+
+##  _4.2/_ Sharing by us
+
+  *  **Rights holders:** Mixcloud is committed to ensuring that artists are rewarded for their work. Therefore, we are committed to licensing from relevant rights holders. As part of our licensing framework, we are required to share certain information with rights holders. Such rights holders will use this information to evaluate how the audio content they are licensing is performing. We will share information on an aggregated and anonymized basis that does not identify you directly;
+  *  **Commercial partners:** Mixcloud works with a range of commercial partners across a number of business purposes, including brand partnerships. We may share certain information with these commercial partners on an aggregated and anonymized basis in order to provide insights as to the use of the Mixcloud Platform. We may also share certain information in order so they can contact you about services which you are interested in (such as redemption of prizes from Mixcloud competitions) and to which you have provided your express consent;
+  *  **Advertising:** we share certain of your Ongoing Usage Data and Profile Data with advertising platforms on an aggregated and anonymized basis in order so that advertisements on the Mixcloud Platform are tailored and relevant to you;
+  * **Service providers:** we utilize a number of service providers to help us with a variety of important functions, including ensuring the security and operational functionality of the Mixcloud Platform. We share certain information with these service providers in order so that they can provide these services to us and so that we can perform our obligations with you. Some of these service providers may be located outside of the European Economic Area;
+  *  **Third party developers:** Mixcloud encourages and fosters development of new services which help improve the Mixcloud community. Therefore, we allow third party developers via our API to use information that is public by default. This allows these developers to build parts of the Mixcloud Platform into their own offerings. Some of these third-party developers may be located outside of the European Economic Area;
+  *  **Compliance with laws:** we may disclose information to any courts, law enforcement bodies or governmental authorities in order to comply with our legal obligations and respond to any claims asserted against us. We will only disclose information to the extent we are legally obligated to do so;
+  *  **Business transitions:** if we are acquired by another company or person, involved in a merger or sell our assets to another company, or person it is likely that user information will be transferred. If as a result of such a business transition, your information will be used in a manner different from that set out in the Privacy Policy, we will promptly notify you.
+
+
+
+You can always report any suspected misuse of your personal information to us by emailing us at [Privacy@Mixcloud.com](mailto:privacy@mixcloud.com) and we will investigate your claim as soon as practicable.
+
+You can change and customize the communications which you receive from us in your settings. We will ensure that any communications (being emails, push notifications or in-app messages) reflect your settings. However, as explained in section 4.1, certain information about your Ongoing Usage Data is made public by default.
+
+Mixcloud is a global community, and therefore we may need to share your information internally with subsidiary companies within the Mixcloud group and externally with third party service providers and developers for the purposes and activities specified in this Privacy Policy. This may involve information being collected within the European Economic Area being transferred to countries outside of the European Economic Area, including the United States, although such transfers will always be limited to the purposes and activities specified in this Privacy Policy. Your information may therefore be subject to privacy laws that are different from those in your country of residence.
+
+We utilize appropriate safeguards, such as standard contractual clauses from the European Commission or a relevant supervisory authority, in order to ensure that any transfer of your personal data outside of the European Economic Area will be lawful and safe. Further information on these safeguards can be provided upon request by emailing us at [Privacy@Mixcloud.com](mailto:privacy@mixcloud.com).
+
+Users located in certain countries, including the European Union, are afforded specific rights regarding their personal information. Subject to eligibility, users in the European Union have the following rights:
+
+  *  **Right to Access:** you may request to confirm whether or not we are processing your personal data. If we are, you can request a copy of your personal data, which we provide free of charge in the initial instance. Further copies may incur a reasonable administrative fee;
+  *  **Right to Data Portability:** the copy of your personal data we provide to you will be in a structured, commonly used and machine-readable format. You shall be entitled to transmit this personal data to another entity;
+  *  **Right to Erasure:** you may request the erasure of your personal data;
+  *  **Right to Object:** you may object, on grounds relating to your particular situation, at any time to processing of your personal data. If you are eligible to exercise this right, we will ensure that your personal data will no longer be processed for such purposes by us, unless we are required to do so by law or there are overriding compelling legitimate grounds for the continuation of the processing;
+  *  **Right to Rectification:** you may ask us to change or update your personal data, especially if it is inaccurate;
+  *  **Right to Restriction of Processing:** you may request us to restrict the processing of your personal data in certain circumstances, such as if it is inaccurate or unlawfully held;
+  *  **Right to Withdraw Consent:** where you have consented to the processing of your personal information by us, you may withdraw your consent at any time by modifying the relevant account settings or emailing us at [Privacy@Mixcloud.com](mailto:privacy@mixcloud.com). Note that the withdrawal of your consent does not affect the lawfulness of any processing of your information by us before the withdrawal of your consent.
+
+
+
+##  _8.1/_ Cookies explained
+
+A cookie is a small file which may be placed on your computer’s hard drive. Once the file is added, the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. There are “persistent” cookies, which stay on your device for a set period of time or until deleted, and “session” cookies, which expire once your web browser is closed.
+
+There are also other similar technologies which help to identify your device when you return to an app or use a service, including pixel tags (transparent graphic images which indicate that a page or an email has been viewed) and mobile device identifiers.
+
+We also integrate Software Development Kits, which is code that third party developers need to include to ensure the functionality of their services with the Mixcloud Platform. We may use this technology, for instance, to allow you to connect your social media to the Mixcloud Platform as described in section 2.5.
+
+##  _8.2/_ How we use cookies
+
+We use cookies and the other similar technologies described above (“Cookies”) to help to personalize and improve you experience on the Mixcloud Platform by enabling us to monitor which pages you find useful and which you do not. We use them for the following specific purposes:
+
+  *  **Authentication:** we use Cookies to identify you as a valid user and to help personalize your experience on the Mixcloud Platform consistent with your profile;
+  *  **Functional / Personalization:** we use Cookies to ensure that operation of the Mixcloud Platform is customized according to your activity. For example, these cookies ensure that when you return to the Mixcloud Platform, we remember how to customize our services to your requirements and suggest similar content to what you have listened to previously;
+  *  **Mixcloud Marketing:** we use Cookies to show you relevant advertisements relating to the Mixcloud Platform by working with our business partners, including web publishers and advertising providers;
+  *  **Performance / Analytics:** we use Cookies to understand how the Mixcloud Platform is being accessed, used and is performing. We use this information to operate and improve the Mixcloud Platform;
+  *  **Security:** we use Cookies to implement our security features and helps us detect unauthorized, malicious or illegal activity, including ensuring that unauthorized users are not accessing your account;
+  *  **Targeting / Advertising:** we use certain third-party marketing service providers, including (i) Facebook Audience Network; and (ii) Google DoubleClick for Publishers to improve your experience of online advertising. We will provide such third-party marketing service providers with details of your Cookies to ensure that only advertisements (both relating to Mixcloud and otherwise) that are relevant to you will be provided to you on the Mixcloud Platform. If you would prefer not to have this level of personalization, then you can opt out [here](https://www.google.com/settings/ads/onweb/). Alternatively, you can opt out of a given third-party vendor’s use of cookies by visiting the Network Advertising Initiative website [here](https://web.archive.org/web/20191227162710id_/https://www.mixcloud.com/privacy/www.networkadvertising.org/choices/#completed).
+
+
+
+You may refuse to accept cookies by activating the relevant setting in your browser. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log onto our website. Please note, our third-party advertisers may also use cookies over which we have no control.
+
+We are committed to ensuring that your information is secure. We have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect, including a security breach protocol. However, no security measures can ever be completely secure, therefore we cannot guarantee that these measures will stop any users try to get around the privacy or security settings on the Mixcloud Platform through unforeseen and/or illegal means.
+
+In the event that we believe that the security of your personal information in our possession or control may have been compromised or could be at risk, we will seek to notify you as promptly as possible. If we have your e-mail address, we may notify you by e-mail.
+
+You should never disclose your account password to anyone else.
+
+The Mixcloud Platform may contain links to other third-party websites and services. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this Privacy policy. You should exercise caution and look at the privacy policy applicable to the website or service in question.
+
+We may update this Privacy Policy occasionally if circumstances change. If we do, we will make sure to notify you about any material changes via an appropriate method – such as by displaying a prominent notice on the Mixcloud Platform or by sending you an email. New versions of this Privacy Policy will never apply retroactively – we will tell you the date they go into effect.
+
+If you decide that you do not want your personal information to be used in the way described in this Privacy Policy, please email us at [Privacy@Mixcloud.com](mailto:privacy@mixcloud.com). In such cases, you will have to stop using the Mixcloud Platform, as the use of the Mixcloud Platform requires you to agree to this Privacy Policy.
+
+If you have any questions or comments about this Privacy Policy or wish to make a complaint about how your personal data is being handled, please email us at [Privacy@Mixcloud.com](mailto:privacy@mixcloud.com) and we will respond to you as soon as practicable. You also have the right to contact a competent supervisory data protection authority.
