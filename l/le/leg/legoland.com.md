@@ -1,103 +1,316 @@
-> *The following text is extracted and transformed from the legoland.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215102327id_/http%3A//www.lego.com/info/default.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legoland.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227033712id_/https%3A//www.legoland.com/privacy) for the most accurate reproduction.*
 
-# LEGO.com About us - LEGO Company - Privacy Policy
+# About the LEGOLAND® Parks
+
+### **OVERVIEW** **  of this Policy and Commitments to Privacy at Merlin**
+
+At Merlin (" **we** ", " **us** ", " **our** "), we regularly collect and use personal data about consumers who visit our attractions or hotels, or browse our websites. Personal data is any information that can used to identify you as an individual. The protection of your personal data is very important to us, and we understand our responsibilities to handle your personal data with care, to keep it secure and to comply with legal requirements.
+
+The purpose of this privacy policy (" **Policy** ") is to provide a clear explanation of when, why and how we collect and use personal data. We have designed it to be as user friendly as possible, and have labelled sections to make it easy for you to find the information that is most relevant to you. 
+
+Please read this Policy carefully. It provides important information about how we use personal data and explains your legal rights. This Policy is not intended to override the terms of any contract that you have with us (for example, Wi-Fi terms and conditions or annual pass terms) or any rights you might have available under applicable data protection laws.
+
+We will make changes to this Policy from time to time for example, to keep it up to date or to comply with legal requirements or changes in the way we operate our business. We will make sure that you are aware of any significant changes by sending an email message to the email address you most recently provided to us or by posting a notice on each relevant website so that you are aware of the impact to the data processing activities before you continue to engage. We encourage you to regularly check back and review this policy so that you will always know what information we collect, how we use it, and who we share it with.
+
+Contents
+
+  1. **WHO is responsible for looking after your personal data?**
+  2. **WHAT personal data do we collect?**
+  3. **WHEN do we collect your personal data?**
+  4. **What PURPOSES do we USE your personal data for and what is the LEGAL BASIS?**
+  5. **Who do we SHARE your personal data with?**
+  6. **Direct Marketing**.
+  7. **International Transfers**.
+  8. **Profiling.**
+  9. **How long do we keep your personal data?**
+  10. **What are your rights?**
+  11. **Contact and complaints**. 
+  12. **APPENDIX 1 - LEGAL BASIS FOR PROCESSING**.
+  13. **APPENDIX 2 - GLOSSARY**. 
+
+
+
+### **1.  ** **WHO** **  is responsible for looking after your personal data?**
+
+Merlin Entertainments plc(" **Merlin** ") is a British-based entertainment company, with a registered office at Link House, 25 West Street, Poole, Dorset, BH15 1LD, which operates over 100 attractions, and over 20 hotels and holiday villages in 25 countries. Our business is about creating unique, memorable and rewarding visitor experiences. A list of our attractions and a note of the companies that make up the Merlin group which help to achieve this is available at [(" **Merlin Group** ").](https://www.merlinprivacy.com/uk/attractions/)
+
+Please note that when you click on any of the links on the home page or contact page to visit or contact any of our LEGOLAND attractions, you will be redirected to that LEGOLAND entities website.   When you do this, it will be that website which will be processing your personal data so please visit their privacy policy to understand how they use your data.
+
+### 2. WHAT personal data do we collect?
+
+In relation to visitors to this site (" **Visitors** "), we collect the following data:
+
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access.
+  * website data, device data including IP addresses and details about your browsing history, browser type, and session frequency and cookies - please see our cookie policy below for further details on cookies.
+
+
+
+### ** ** **3.  ** **WHEN** **  do we collect your personal data?**
+
+**_Visitors_**
+
+  * We will collect information from you when you visit this site
+
+
+
+###   **4.  ** **What PURPOSES do we USE your personal data for and what is the LEGAL BASIS?**
+
+We will use your personal data to:
+
+  * ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * allow you to participate in interactive features of our service, when you choose to do so.
+
+
+
+We have to establish a legal ground to use your personal data, so we will make sure that we only use your personal data for the purposes set out in this Section 4 and in Appendix 1 where we are satisfied that:
+
+  * our use of your personal data is necessary to support 'Legitimate Interests' that we have as a business (for example, to improve our products, or to carry out analytics across our datasets), provided it is always carried out in a way that is proportionate, and that respects your privacy rights. Please **see** Appendix 1 for more details about our Legitimate Interests.
+
+
+
+### **5.  ** **Who do we SHARE your personal data with?**
+
+To help manage our business and deliver services, these third parties may from time to time need to have access to your personal data, and include:
+
+  * _service providers, who help manage our IT and this site, in particular by Isobar._
+  * _our regulators, which include the ICO, as well as other regulators and law enforcement agencies in the E.U. and around the world,_
+  * _solicitors and other professional services firms (including our auditors)_.
+
+
+
+### **6.  ** **International Transfers**
+
+Some entities in the Merlin Group, with whom we share your data, and our service providers who have access to your personal data, are located outside the European Union. We may also share your personal data overseas, for example if we receive a legal or regulatory request from a foreign law enforcement body. We will always take steps to ensure that any international transfer of information is carefully managed to protect your rights and interests, in particular we will either:
+
+  * only transfer your personal data to countries which are recognised as providing an adequate level of legal protection in accordance with Article 45 of the GDPR; or
+  * ensure that transfers outside the European Union are subject to an appropriate legal safeguard - for example, the EU Model Clauses pursuant to Article 46(2) of the GDPR and/or the EU - U.S. Privacy Shield for the protection of personal data transferred to the US (for further details, please see https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en).
+
+
+
+You have the right to ask us for more information about the safeguards we have put in place as mentioned above. Contact us as set out in Section 11 if you would like further information or to request a copy where the safeguard is documented (which may be redacted to ensure confidentiality).
+
+### **7.  ** **Profiling**
+
+**'Automated Decision Making'** refers to a decision which is taken through the automated processing of your personal data alone - this means processing using, for example, software code or an algorithm, which does not involve any human intervention..
+
+### **8\. How long do we keep your personal data?**
+
+We will retain your personal data for as long as is reasonably necessary for the purposes listed in Section 4 of this Policy
+
+Where we are required to do so to meet legal, regulatory, tax or accounting requirements, we will retain your personal data for longer periods of time, but only where permitted to do so, including so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a possibility of legal action relating to your personal data or dealings.
+
+We maintain a data retention policy which we apply to records in our care. Where your personal data is no longer required and we do not have a legal requirement to retain it, we will ensure it is either securely deleted or stored in a way such that it is anonymised and the Personal Data is no longer used by the business.
+
+### 9 **.  ** **What are your rights?**
+
+You have a number of rights in relation to your personal data. In summary, you have the right to request: access to your data; rectification of any mistakes in our files; erasure of records where no longer required; restriction on the processing of your data; objection to the processing of your data; data portability; and various information in relation to any automated decision making and profiling or the basis for international transfers.  You also have the right to complain to your supervisory authority (further details of which are set out in Section 11 below).   These are defined in more detail as follows:
+
+RIGHT
+
+| 
+
+WHAT THIS MEANS  
+  
+---|---  
+  
+Access
+
+| 
+
+You can ask us to:
+
+  * confirm whether we are processing your personal data;
+  * give you a copy of that data;
+  * provide you with other information about your personal data such as what data we have, what we use it for, who we disclose it to, whether we transfer it abroad and how we protect it, how long we keep it for, what rights you have, how you can make a complaint, where we got your data from and whether we have carried out automated decision making or profiling, to the extent that information has not already been provided to you in this Policy.
 
   
+  
+Rectification
+
+| 
+
+You can ask us to rectify inaccurate personal data. We may seek to verify the accuracy of the data before rectifying it.  
+  
+Erasure / Right to be Forgotten
+
+| 
+
+You can ask us to erase your personal data, but only where:
+
+  * it is no longer needed for the purposes for which it was collected; or
+  * you have withdrawn your consent (where the data processing was based on consent); or
+  * it follows a successful right to object (see 'Objection' below); or
+  * it has been processed unlawfully; or
+  * it is necessary to comply with a legal obligation which Merlin is subject to.
 
 
-**Dear LEGO Fans,**
 
-We want you to have fun with LEGO products and at our Web site! To make sure your online visit is fun and safe, we don't "play around" with any of the important steps we take to protect your privacy. At the LEGO Group, children's safety and fun as well as parents' trust in our name is serious business! 
+We are not required to comply with your request to erase your personal data if the processing of your personal data is necessary: for compliance with a legal obligation; or for the establishment, exercise or defence of legal claims, in relation to the freedom of expression or for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes. In the context of marketing, please note that we will maintain a suppression list if you have opted out from receiving marketing content to ensure that you do not receive any further communications.  
+  
+Restriction
 
-Below, you will find information about the LEGO Group's Online Privacy Policy. Our privacy policy will tell you how and when we collect information through our Web site, and how this information will be used. To learn specifically about our online information practices concerning children who are younger than 13 years of age, please scroll down to the section entitled "Children Under the Age of 13" or simply click here. 
+| 
 
-**The LEGO Group encourages families to visit LEGO.com together as a shared activity.**
+You can ask us to restrict (i.e. keep but not use) your personal data, but only where:
 
-We take online privacy and security concerns seriously. At the same time, we are continually working to make your personal experience when visiting or using our site as exciting and pleasant as possible. To help us accomplish that goal, we will need to collect and use some information from you when you use our site. 
-
-All of the Web sites under the LEGO.com domain (e.g. MINDSTORMS.com may collect information from you - personal as well as non-personal - for internal use within the LEGO Group businesses. Any information collected may be shared among companies that are part of the LEGO Group. To see the names and addresses of the entities within the LEGO Group, [click here](https://web.archive.org/eng/info/default.asp?page=addresses). 
-
-In some instances, we may need to disclose personal information about you to companies that we hire so that we may provide you with the best possible service - for example this might be a company that we have employed to ship products that you have purchased through LEGO Shop At Home or a reputable research company hired by us to conduct a survey of our consumers. However, such companies will be under an obligation to keep your personal information confidential. 
-
-We may disclose personal information collected from you as required by law, for example in response to a court order or subpoena. We also may disclose such information in response to a specific request from a law enforcement agency. 
-
-Except as set out above, we will not sell, rent or otherwise disclose any personal information to any company or person outside the LEGO Group, without obtaining appropriate permission prior to such disclosure. We may collect information about you through active as well as passive means. 
-
-We may collect personal information directly from you through our sites when: 1) you sign up for the LEGO Club; 2) you sign up to receive newsletters and other information; 3) in some instances, when you enter contests and participate in various activities featured on LEGO.com and other LEGO Web sites; and 4) when you purchase products online through LEGO Shop At Home. We also use passive means to collect some information, such as tracking what pages you go to on the site. This information is then provided to our consumer data department in order for them to determine how to make your experience at our sites more enjoyable. 
-
-We will not use personal information we collect from you for purposes other than those for which the information was collected, without asking for appropriate permission prior to such use. 
-
-We may use your name and address information to send you catalogs and other product and service information that we believe you may find of interest if, permitted by law. You may opt out of receiving such catalogs and other product and service information (including, but not limited to, marketing research and/or being contacted by a researcher) at any time by calling our toll-free consumer service number in your country or by sending an e-mail [\- Go to our Service area](https://web.archive.org/eng/service/contactus.asp). 
-
-Upon request, you have the right to review any personal information we may have concerning you or your children; see Guests Under the Age of 13 below, and How to Change or Review the Information in Your Online Account or Club Membership below. 
-
-**LEGO Club Membership**
-
-LEGO.com has many different activities you can participate in without giving us any personal information at all. However, if you decide to sign up as a LEGO Online Club member, we will need to obtain some information in order to provide you with the benefits of club membership. When you sign up for the LEGO Online Club, we will ask you to: 1) create a username and a password; 2) provide your birth date and gender; and 3) tell us which country you live in and your postal code. We will not ask for your real name, your mailing address, your e-mail address or any other information that will identify you as an individual. 
-
-**Children Under the Age of 13**
-
-When a child under the age of 13 contacts the LEGO Group online, for example to participate in a contest or to ask a question we will collect that child's email address and the e-mail address of the child's parent or guardian. We will use the child's e-mail address only for the purpose for which it was collected, and we will use the e-mail address of the parents or guardians only to provide notification about the child's contact with us, and to provide notification of the types and uses of information collected as required under the law. We will also provide information as to how the parent or guardian of the child can review and request deletion of the child's personal information, and how to prevent further collection and use of personal information concerning the child. 
-
-As a parent or guardian of a child under the age of 13 from whom we have collected personal information, you have the right to review and have deleted such personal information, and to refuse to permit further collection or use of such information. To do so, you should contact us by using the contact information set forth at the end of this privacy policy. Parents and guardians who wish to review personal information concerning their children will be required to specify the usernames and passwords of the children concerned, and to provide their own e-mail address for verification and contact purposes. 
-
-No personal information collected from children under 13 will be sold, rented or otherwise disclosed to any company outside the LEGO Group, except for disclosure to companies acting as our agents to help us provide services requested by the child, or pursuant to court order, subpoena or a specific request from a law enforcement agency. 
-
-We cannot and will not establish conditions that will require or encourage children to disclose personal information over and above what is reasonably necessary to participate in any activity features on our web sites. 
-
-Children under 13 years of age are allowed to participate in contests. However, if such a child wins, notification will be sent to the parent or guardian's e-mail address (provided by the child when he/she enters the contest). Also, we will not ask the child for any personal information beyond e-mail addresses without obtaining prior parental consent. Any personal information obtained from children and parents during contests will be kept until the contest ends and prizes are delivered, and then it will be deleted. 
-
-If any activity featured on LEGO.com will allow children under the age of 13 to reveal personal information publicly (for example, via un-moderated chat rooms or bulletin boards), we will obtain parental consent before allowing the child to participate. Currently, all such activities are moderated, monitored and screened. 
-
-**Purchasing from LEGO Shop At Home Online**
-
-When you make a purchase from LEGO Shop At Home online, we will need to obtain personal information from you. We will need your real name and address (billing as well as shipping address) along with your credit card information or other payment method, in order to complete your transaction and ship your products. 
-
-If you are age 18 or over, you can choose to set up an online account with us to use for purchasing products from Shop At Home, in which account we will keep all information relating to your purchases, even after your transaction is completed. This will make it even easier for you to shop with us again, because you don't need to submit such information each time. You can review and update your online account information at any time. If you decide to set up an account with us, we will ask you to create a username and password, which will ensure that you are the only one that can access your account. Setting up an account with us will also give you the opportunity to receive e-mail newsletters and other information. If you don't set up an account with us, we will keep your order history in an offline database. When you actually make a purchase, you will also have the opportunity to sign up you and/or your children for the LEGO Club and to receive the LEGO Magazine. 
-
-If you feel uncomfortable submitting your credit card information over the Internet, you may submit your name, address and order information through the LEGO Online Shop, and submit credit card information by phone (the Web pages in the Shop will tell you how). 
-
-**LEGO Electronic Postcards and Other Messages to Your Friends and Family**
-
-You can send electronic post cards from various pages on the site, and you can send your LEGO Shop At Home wish list by e-mail to friends and family, if you are a LEGO Online Club member. Any e-mail addresses collected during this type of activity are stored temporarily in a transaction log file for security purposes, and are deleted after a specified holding period. 
-
-**Does LEGO.com Use Cookies?
-
-Yes.
-
-** When you log in or register for the LEGO Club online or Shop At Home, we add a cookie to your computer (unless your system is set up not to receive cookies), in order to let us keep track of what games you play and what products you may buy. We also add the cookie in order to remember your browser settings, such as the type of browser you use and what plug-ins you have installed. This keeps us from bothering you every time you enter the site in order to make sure that you have the necessary equipment to play a game or download information from our sites. It also allows us to know how many people are using certain types of software, so that we can adjust our site to provide the best browsing experience for every visitor. Basically, when we add a cookie, we are not collecting personal information, but the non-personal information that we do get helps us make sure that our products and our communications to our guests are responsive to their interests. We hope to be able to continue to make the LEGO World Wide Web sites interesting and entertaining for users of all ages, and to ensure that we continue to make the kind of products that children love and parents trust. 
-
-**_What is a cookie?_**
-
-Cookies are small data files that your browser may place on your computer when you visit different web sites to mark that you have been there. 
-
-**_How do I know when a cookie has been added?_**
-
-Check your settings... many browsers allow you to choose your preference. If you have set your browser setting to refuse cookies, then we cannot put a cookie on your computer. 
-
-**_What if I don't accept the cookie?_**
-
-You can still participate a few of our online activities. However, if a LEGO Cookie is not present, it will limit our ability to customize our site for you, deliver a better online experience and improve the features of our site. Some cookies save us from having to check for compatibility of your system with various parts of the site every time you visit, making the site faster and easier for you to use. When you play a game, register for the LEGO Club online, shop, or use the shopping cart, a cookie helps us to keep track of where you are in the site so that you can come back to the same place in a game that you are playing or you don't lose your basket, etc. and makes sure that only you have access to that information. If you don't accept our cookies, you won't be able to save some games, add items to your wish list or shopping cart, and the site will be a little slower as we check your browser's compatibility with our site as you click through. 
-
-**How to Change or Review the Information in Your Online Account or Club Membership**
-
-In the LEGO Group, we're committed to providing high quality products and services and we're equally committed to building long-lasting relationships with our consumers. Relationships like this are built on mutual trust, so whenever you question what data has been collected or you want to change personal information or personal options regarding your online account or Club membership, we encourage you to do so as outlined below. 
-
-Personal information collected online from you may be reviewed by accessing your online account. Members and customers who have registered to set up an online account with us may update their account information and change personal options at anytime. 
-
-If you have not set up an online account with us, or if you have any questions about our online privacy policies or information we may have stored about you or your child, please [click here](https://web.archive.org/web/20051215100347id_/http://www.lego.com/eng/info/chiefprivacyform.asp) to contact our Chief Privacy Officer, or write or call: 
-
-LEGO Group Limited   
-33 Bath Road, Slough   
-Berkshire SL1 3UF   
-United Kingdom   
-Attn.: Chief Privacy Officer 
-
-+44 (0) 1753 495 000 
-
-The LEGO Group may need to change its online privacy policy from time to time to keep up with the ever-changing virtual reality. However, if policy changes are implemented which would materially and adversely affect the online privacy or security of our guests, the new policy will be e-mailed to all registered guests at their e-mail address. 
-
-[EFFECTIVE DATE September 1, 2000] [LAST REVISED April 6, 2004]
+  * its accuracy is contested (see 'Rectification' below), to allow us to verify its accuracy; or
+  * the processing is unlawful, but you do not want it erased; or
+  * it is no longer needed for the purposes for which it was collected, but we still need it to establish, exercise or defend legal claims; or
+  * you have exercised the right to object, and verification of overriding grounds is pending.
+  * We can continue to use your personal data following a request for restriction, where:
+  * we have your consent; or
+  * to establish, exercise or defend legal claims; or
+  * to protect the rights of another natural or legal person.
 
   
+  
+Portability
 
+| 
+
+You can ask us to provide your personal data to you in a structured, commonly used, machine-readable format, or you can ask to have it 'ported' directly to another Data Controller, but in each case only where: the processing is based on your consent or the performance of a contract with you; and the processing is carried out by automated means.  
+  
+Objection
+
+| 
+
+You can object to any processing of your personal data which has our 'Legitimate Interests' as its legal basis (see Appendix 2 for further details), if you believe your fundamental rights and freedoms outweigh our Legitimate Interests. Once you have objected, we have an opportunity to demonstrate that we have compelling Legitimate Interests which override your rights, however this does not apply as far as the objections refers to the use of personal data for direct marketing purposes.  
+  
+To exercise your rights you can contact us as set out in Section 11. Please note the following if you do wish to exercise these rights:
+
+  * **Identity.  **We take the confidentiality of all records containing personal data seriously, and reserve the right to ask you for proof of your identity if you make a request.
+  * **Fees.  **We will not ask for a fee to exercise any of your rights in relation to your personal data, unless your request for access to information is unfounded, repetitive or excessive, in which case we will charge a reasonable amount in the circumstances.
+  * **Timescales.  **We aim to respond to any valid requests within one month unless it is particularly complicated or you have made several requests, in which case we aim to respond within three months. We will let you know if we are going to take longer than one month. We might ask you if you can help by telling us what exactly you want to receive or are concerned about. This will help us to action your request more quickly.
+  * **Exemptions.  **Local laws, including in the UK, provide for additional exemptions, in particular to the right of access, whereby personal data can be withheld from you in certain circumstances, for example where it is subject to legal privilege.
+
+
+
+### **10.  ** **Contact and complaints**
+
+The primary point of contact for all issues arising from this Policy, including requests to exercise data subject rights, is our Data Protection Officer. The Data Protection Officer can be contacted in the following way:
+
+**Data.Protection@merlinentertainments.biz**
+
+If you have a complaint or concern about how we use your personal data, please contact us in the first instance and we will attempt to resolve the issue as soon as possible. You also have a right to lodge a complaint with your national data protection supervisory authority at any time. In the UK, the supervisory authority for data protection is the ICO (<https://ico.org.uk/)>. We do ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time. 
+
+### **APPENDIX 1 - LEGAL BASIS FOR PROCESSING**
+
+**Activity**
+
+| 
+
+**Type of information collected**
+
+| 
+
+**The basis on which we use the information**  
+  
+---|---|---  
+  
+**_Consumer_**  
+  
+Providing this site
+
+| 
+
+·     As explained in 2 above
+
+| 
+
+·     Legitimate interests (to provide a better experience and tailor that experience to you by understanding what browser you use and how you interact with our site)  
+  
+###   **APPENDIX 2 - GLOSSARY**
+
+**Consumer:  **means an individual who will, who has, or who is purchasing tickets for an Attraction or using Merlin's websites, goods or services, or participating in a prize draw/competition or Merlin experience.
+
+**Data Controller:  **means a natural or legal person which determines the means and purposes of processing of personal data.
+
+**Data Subject** : means an individual whom the personal data is about.  
+
+**EEA** : means the European Economic Area.
+
+**GDPR:  **means the General Data Protection Regulation, which comes into force on 25 May 2018 and replaces the previous Data Protection Directive 95/46/EC.  
+  
+---  
+  
+**ICO:**  the Information Commissioner's Office regulates the processing of personal data by all organisations within the UK.
+
+**Legitimate Interests** : this is a ground which can be used by organisations as a lawful basis of processing, for example where personal data is used in ways that could reasonably be expected, or there is a compelling reason for the processing.
+
+**Member States** : means those countries which are part of the European Union.
+
+**Privacy Shield** : means a framework which has been adopted to protect the rights of those individuals whose data has been transferred to the US.  
+  
+**Profiling:  **means to analyse your personal data in order to evaluate your behaviour or to predict things about you which are relevant in an entertainment context, such as how likely you are to attend a certain event that we host.
+
+**Special Categories of Data:  **means any personal data relating to your health, genetic or biometric data, criminal convictions, sex life, sexual orientation, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership. 
+
+**Service Providers:  **these are a range of third parties to whom we outsource certain functions of our business. For example, we have service providers who provide / support 'cloud based' IT applications or systems, which means that your personal data will be hosted on their servers, but under our control and direction. We require all our service providers to respect the confidentiality and security of personal data.  
+  
+**Cookies Policy**
+
+**What are cookies?**
+
+Cookies are small text files containing a string of characters that can be placed on your computer or mobile device that uniquely identify your browser or device.
+
+**What are cookies used for?**
+
+Cookies allow a site or services to know if your computer or device has visited that site or service before. Cookies can then be used to help understand how the site or service is being used, help you navigate between pages efficiently, help remember your preferences, and generally improve your browsing experience. Cookies can also help ensure marketing you see online is more relevant to you and your interests.
+
+You can edit your browser options to block cookies in the future at any time. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our website who disable cookies will be able to browse certain areas of the website, but some features may not function. You can find out more about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and the site will give you guidance on how to control and delete unwanted cookies you have already accepted. You may also opt-out of certain third party cookies that we and other websites may use for targeted advertising through the European Interactive Digital Advertising Alliance (EDAA) Your Online Choices Page or http://[www.aboutads.info](http://www.aboutads.info/)
+
+**What Cookies do we use?**
+
+**Necessary**
+
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+
+**Preferences**
+
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+
+**Statistics**
+
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+
+**Marketing**
+
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+
+The following explains some of these and how they are used
+
+**DoubleClick  
+** We use Google's doubleclick.net cookie for conversion tracking purposes, to track the performance of our own AdWords campaigns. If you visit certain pages on our website within 30 days of clicking on one of our ads, Google will be able to tell that your visit was a result of a click on one of these ads. If you'd like to know more about how Google handles information gathered from the use of cookies, please read their privacy policy here:
+
+[Google Privacy Policy](http://www.google.com/privacy.html)
+
+You can manage your preferences and opt-out of Google's interest-based ads in your [Google Ads Setting](http://www.google.com/settings/ads). In this case, the unique cookie ID of the DoubleClick-Cookie is overwritten and can't be associated with a particular browser. Please note that a new DoubleClick-Cookie might be placed if you delete all cookies from your device and you may have to renew your opt-out settings.
+
+If you would like to permanently deactivate the DoubleClick-Cookie please download and install the browser-plugin which is available [here](http://www.google.com/settings/ads/plugin).
+
+**Google Analytics  
+** We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information. We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are.
+
+You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.com/intl/en_uk/analytics/privacyoverview.html>
+
+**HotJar** **  
+**Hotjar is an analytics and feedback tool that we use to understand how our website is used and improve usability. Hotjar sets cookies to help us track behaviour across pages and to control visitor polls. The cookies carry no personally identifiable information.
+
+[Click here for more information on Hotjar](http://docs.hotjar.com/docs/cookies-stored-by-hotjar)
+
+**AdWords  
+Google AdWords (conversion):** we use Google AdWords cookies to customize the advertising and content you see for our website, limit the number of ads you see for our website, and measure the effectiveness of our campaign
+
+**Google AdWords (remarketing):** we use Google AdWords remarketing cookies to collect data about your activities when you visit our websites, the website of entities who serve our ads (advertisers), or the website and online services where we display ads
+
+**Facebook** **  
+**We use cookies set by Facebook for conversion tracking purposes, to measure the  performance of our Facebook advertising campaigns. In addition to this, user behaviour on our website may be used to build custom audiences for our own Facebook advertising purposes (for example, we may want to show you an ad on Facebook if you visited our site, looked at a few pages but didn't get in touch with us). The following links have more information on Facebook's interest-based advertising and how to opt out:
+
+[Information on Facebook's interest-based advertising](https://www.facebook.com/help/164968693837950)
+
+[Opt out of interest-based advertising on Facebook](https://www.facebook.com/settings/?tab=ads)
+
+**Facebook Pixel:** we use Facebook pixel tracking to measure social media campaign efficiency related to the Facebook platform
+
+**Google Optimize  
+** Optimize utilizes Analytics cookies to target content variants to a user and a content experiment cookie to determine a user's participation in an experiment.
