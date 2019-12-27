@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dealerrater.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617203150id_/http%3A//www.dealerrater.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealerrater.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227072436id_/http%3A//www.dealerrater.com/info/privacy) for the most accurate reproduction.*
 
 # Car Dealer Reviews, Dealership Ratings, Cars For Sale - DealerRater.com
 
-Last updated February 2016
+Last updated October 2019
 
-DealerRater was founded in 2002 as the first car dealer review website worldwide. Our Site is part of the DealerRater network and is operated by DR Media Holdings, LLC ("DealerRater"). 
+DealerRater was founded in 2002 as the first car dealer review website worldwide. Our Site is part of the DealerRater network and is operated by DR Media Holdings, LLC ("DealerRater"). By using this Site, you acknowledge that you have read and agree to be bound by this Statement and agree to the DealerRater.com [Terms of Use](https://web.archive.org/info/tou/). 
 
 We take your privacy seriously, and work to ensure the security and confidentiality of the personal information you provide to us. Please read this Policy to learn more about how we protect your privacy before using this Site or submitting your personal information. By using this Site or submitting personal information, you consent to the collection, use, and disclosure of your personal information (as defined below) in accordance with the practices described herein. If you do not agree with these terms, do not use this Site or provide any personal information to us. 
 
