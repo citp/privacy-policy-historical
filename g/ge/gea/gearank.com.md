@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearank.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614103230id_/https%3A//www.gearank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearank.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227021023id_/https%3A//www.gearank.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gearank
 
@@ -63,6 +63,14 @@ We along with third-party vendors, such as Google use first-party cookies (such 
 Opting out:  
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the [Network Advertising initiative opt out page](http://www.networkadvertising.org/choices/) or permanently using the Google Analytics Opt Out Browser add on.
 
+**Amazon**
+
+Gearank.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com and other Amazon stores worldwide. Amazon may also set cookies when you click on advertising links to visit their websites.
+
+**Sweetwater**
+
+[Sweetwater](https://www.sweetwater.com/) supports Gearank.com with advertising which may be served from this website or via Google, including Remarketing Ads, and may result in third party cookies being set on this website and when you click advertising links to visit the Sweetwater website. We do not share any personal information you provide to us with Sweetwater. Although there are many advertising links to Sweetwater on this website, Sweetwater does not have any editorial role in the content or product recommendations that we provide.
+
 **Hotjar**
 
 Gearank uses software called Hotjar. Hotjar is a session recording and heat mapping service provided by Hotjar Ltd. The personal data collected by Hotjar includes Cookies, Usage Data and various types of Data as specified in their [Privacy Policy](https://www.hotjar.com/privacy).
@@ -99,4 +107,4 @@ Australia
 [Contact Form](https://web.archive.org/contact)  
 \+ 61 7 3862 3346
 
-Last Edited on 2017-07-24
+Last Edited on 2019-06-18.
