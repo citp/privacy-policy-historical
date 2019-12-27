@@ -1,83 +1,223 @@
-> *The following text is extracted and transformed from the spizoo.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429135619id_/http%3A//www.spizoo.com/pages.php%3Fid%3Dprivacy-policy%26nats%3DMC4wLjEyLjI4LjAuMC4wLjAuMA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spizoo.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227140013id_/https%3A//www.spizoo.com/pages.php%3Fid%3Dprivacy-policy%26nats%3DMC4wLjEyLjI4LjAuMC4wLjAuMA) for the most accurate reproduction.*
 
-# Spizoo
+# Spizoo.com - Exclusive Hardcore 4k Erotica Porn Videos
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on this site and other sites part or our network. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
+Welcome to SPIZOO LLC. (“Spizoo”, “we”, “us” and/or “our”) Privacy Policy. Our services are designed to offer users (collectively, “Users,” “you,” or “your”) streaming videos within the genre of adult entertainment (“Services”). The Services are provided to you through our website (“Site”).
 
-### Adults Only Service
+This Privacy Policy explains what personal data we collect through the Services, how we use and share that data, and your choices concerning our data practices. This Privacy Policy forms part of our Terms of Use, which are available at: [Terms and Conditions page](https://www.spizoo.com/pages.php?id=legal-notices).
 
-This is an adult site that expressly and strictly limits its membership to adults. This site does not knowingly seek or collect any personal information or data from persons under the age of 18. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents on this site without exception. If you are under the age of 18 and/or under the age of majority in the jurisdiction you reside and from which you access the website, then your account will be terminated without notice or delay.
+By providing us with your personal data when using the Services, you agree to the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not access or use the Services.
 
-### Information We Collect From You
+## INFORMATION WE COLLECT
 
-Any customer that joins/signs up as a subscriber of the site will be required to provide personal information as well as demographic information which may include the subscriber's name, physical address, e-mail address, zip code, country, username, and password. The site collects any and all such information and includes it in its customer database. In addition, other information such as IP address(es), referring website information, browser information, and other related data may be collected.
+When you interact with our Site, we collect information that, alone or in combination with other information, could be used to identify you (“Personal Data”)
 
-### Use of Personal Information
+**1\. Personal Data You Provide Us**
 
-We may use "cookies" and Demographic Information to better your experience on the Site by allowing us to tailor your experience on the Sites according to your preferences and what we think may appeal to you based on such Demographic Information. Aggregate, non-individual membership Demographic Information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in. The site may also automatically collect traffic and click-through data as well as information regarding the online behaviour of subscribers by the use of "cookies" or other programming means - any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way. We may also share the aggregate Demographic Information with third parties for the purposes of analyzing usage data, maintaining servers and other purposes relating to maintaining and improving our service and the Sites.
+**A. Account Information**
 
-If the site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the site and included in its customer database.
+Some information is required to create an account on our Services, such as your name, email address, password, location. You may also choose to provide other types of information to make public on the Services, such as a profile photo, biography, country information, your website, and community username.
 
-If a subscriber sends any personal communication or correspondence by any means, to the site, or any of its employees, agents or representatives, the site may collect the information regarding that communication and include that information in its customer database.
+**B. Posts, Following, Lists and other Public Information**
 
-Financial Data will only be shared with third party processors as necessary to initiate and complete any orders placed by your account.
+The Services are primarily designed to help you share information with the world. Most of the information you provide us through the Services is information you are asking us to make public. Your public information includes the (i) messages you post; the metadata provided with such posts, such as when you posted and the application you used to post; (ii) language, country, and time zone associated with your account; and (iii) lists you create, people you follow, posts you mark as likes, and many other bits of information that result from your use of the Services. Our default is almost always to make the information you provide through the Services public for as long as you do not delete it.
 
-### Disclosures of Information
+The Services broadly and instantly disseminate your public information to a wide range of users, customers, and services. For instance, your public user profile information and public posts are immediately delivered via RSS feeds and our APIs to our partners and other third parties, including search engines, developers, and publishers that integrate the Services content into their services, and institutions such as universities and public health agencies that analyze the information for trends and insights. When you share information or content via the Services, you should think carefully about what you are making public. 
 
-Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary fulfill technical requirement or to comply with applicable law, to cooperate with law enforcement and the court system.
+**D. Location Information**
 
-### Financial Information
+We may receive information about your location. For example, you may choose to publish your location in your posts and in your Spizoo profile and when you set your trend location on the Services. We may also determine location by using other data from your device, such as precise location information from GPS, information about wireless networks or cell towers near your mobile device, or your IP address.
 
-All financial data will only be shared with the site's third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors. Said processors only use your information for that purpose. All financial data and information shall be considered private information and will not be shared by the site with third parties except with your authorization or when necessary to carry out all and any transactions requested by the user with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party and all transactions are not governed by this Privacy Policy. All such information provided to a third party is subject to their terms and conditions.
+**E. Additional Information**
 
-Subscriber's e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials.
+If you email us, we may keep your message, email address and contact information to respond to your request. If you connect your account on our Services to your account on another service in order to cross-post between our Services and that service, the other service may send us your registration or profile information on that service and other information that you authorize. This information enables cross-posting, helps us improve the Services, and is deleted from our Services within a few weeks of your disconnecting your account on the other service from the Services account. We also collect information you choose to provide to us when you complete any “free text” boxes in our forms (for example, support request or survey submission).
 
-### Security of Information 
+**2\. Information We Receive From Your Use of Our Services**
 
-We has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the site.
+When you use the Services, the following information is created and automatically logged in our systems:
 
-While we uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information, the transmission of information via the Internet is not completely secure. All subscribers should consider any information provided to or collected by the site as non-confidential, and consequently the site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
+**Log data:** Information (“log data”) that your browser automatically sends whenever you visit the Site when you use it. Log data includes your Internet Protocol (“IP”) address (so we understand which country you are connecting from when you visit the Site), browser type and settings, the date and time of your request, and how you interacted with the Services.
 
-### Advertisements
+**Cookies:** Information from cookies stored on your device. Please see the “Cookies” section below to learn more about how we use cookies and other technologies.
 
-We utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or "action tags" to measure advertising effectiveness on an "anonymous basis". Some emails from us may contain advertisements from companies unrelated to the Sites. Should you elect to visit any such advertiser's website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisers' websites. If you choose to make any purchases on such sites or accept any offers from such companies, we may provide your information, including Financial Data, to the advertiser as necessary to your request. Finally, we cannot, and do not, make any representations about the privacy policies or terms and conditions of advertisements appearing anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to any or all of the Sites on such advertisers' website(s).
+**Device information:** Includes type of device you are using, operating system, settings, unique device identifiers, network information and other device-specific information. Information collected may depend on the type of device you use and its settings. 
 
-### "Opt-In" & "Opt-Out" Offers 
+**Usage Information:** We collect information about how you use our Services, such as the types of content that you view or engage with, the features you use, the actions you take, the other Users you interact with and the time, frequency and duration of your activities.
 
-"Opt-In" offers may be presented to the subscriber with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "Opts-In" to that offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties.
+## HOW WE USE INFORMATION
 
-"Opt-Out" offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "Opt-Out" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+We use your personal data for the following purposes:
 
-### "Opt‐In Email Offers 
+To authenticate Users and provide the Service. This processing is necessary to perform the contract with you.
 
-By accepting membership to this site, the subscriber expressly and specifically acknowledges and agrees that it may receive from time to time, email communications from this site or from third‐party services. These communications shall be deemed to be opt‐in email communications by virtue of the subscriber joining this site. Thru this process, the subscriber’s personal information and data may be disclosed to third‐party services.
+As necessary for certain legitimate business interests, which include the following:
 
-### Email Opt‐In And User Communication
+· To respond to your inquiries and fulfill your requests for products and services;
 
-The subscriber's e‐mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third‐party service, which may include consent to receive e‐mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. These communications shall be deemed to be opt‐in email communications by virtue of the subscriber joining this site. The subscriber may opt‐out of a mailing list by clicking on the removal link located at the bottom of the promotional email or by visiting the site www.mailgo2.com
+· To customize our Services for you, including providing recommendations, personalized advertising and content (please read below to learn how we use Personal Data for targeted advertisement). For example, we use information on your use of Services features, including information that we obtain through cookies, to better understand your needs and interests in order to personalize your experience with our Services by presenting products and offers tailored to your interests. We use your public information and your location information (described above) to infer what topics you may be interested in, and to customize the content we show you, including ads, with more relevant content like local trends, stories, ads, and suggestions for people to follow;
 
-### Disclaimer 
+· To send administrative information to you, for example, information regarding the Site, and changes to our terms, conditions, and policies;
 
-By the subscriber's use of the site, the subscriber expressly agrees that the site may use any personal information that has been provided by the subscriber or that has been collected by the site about the subscriber for any purpose, including without limitation, technical, administrative, research and development, customer administration, marketing, trading of personal data, age verification, promotional and advertising use by the site or third parties authorized to use the information by the site.
+· To provide, maintain and improving the content and functionality of the Services. For example, we regularly fix bugs or user experience issues that may be tied to particular user accounts. We use cookies to analyze how Users interact with our Services. And that analysis can help us build better Services.
 
-By the subscriber's use of the site, the subscriber expressly agrees that the site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties. All personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the site.
+· To conduct research, and provide reporting to third parties;
 
-The site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the site. The site shall not be responsible for the privacy policy or the content of other such websites. This site does not control, monitor or endorse the information gathering practices or privacy policies of any of those third-party websites.
+· If you ask us to delete your data and we are required to fulfil your request, to keep basic data to identify you and prevent further unwanted processing;
 
-Whenever applicable, each subscriber should seek to read the privacy policy of any third-party website provider that has an advertising banner, advertises or has a link on the site.
+· To prevent fraud or criminal activity, misuses of our products or services, and ensure the security of our IT systems, architecture and networks;
 
-All information collected may be shared when necessary to comply with applicable law and /or to cooperate with law enforcement agencies and the courts/tribunals.
+· To (a) comply with legal obligations and legal process, (b) respond to requests from public and government authorities including public and government authorities outside your country of residence; (c) enforce our Terms of Use; (d) protect our operations or those of any of our affiliates; (e) protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (f) allow us to pursue available remedies or limit the damages that we may sustain, as required or permitted by the law.
 
-A subscriber's IP address may be used to diagnose problems with the server and all other technical issues and to administer the websites.
+For individuals in the EU, please see the “European Union (EU) Users” section below for information on what we mean by legitimate interests and your rights.
 
-### Changes and Modification to the Privacy Policy
+**Marketing.** We may contact you to tell you about services or products we believe will be of interest to you. If we do, where required by law, for example if you are a User in the European Union (“EU”), we will only send you marketing information if you consent to us doing so at the time you provide us with your Personal Data. You may opt-out of receiving such emails by following the instructions contained in each promotional email we send you or by updating your user settings. In addition, if at any time you do not wish to receive future marketing communications, please contact us at webmaster@spizcash.com. We will continue to contact you via email regarding the provision of our Services and to respond to your requests.
 
-We may change this privacy policy at any time. You agree that we are under no duty to send you notice of such changes. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise
+**Targeted Advertisement.** Spizoo may display targeted advertisements based on Personal Data. Third parties (including ad serving companies) may assume that Users who interact with, view, or click targeted advertisements meet the targeting criteria (e.g., men ages 18–24 from a particular geographic area). Spizoo does not provide any Personal Data to the advertiser when a User interacts with or views a targeted advertisement. However, please be aware that by interacting with or viewing an advertisement the third party may make the assumption that you meet the targeting criteria used to display the advertisement.
 
-### Changes in the Ownership of the Sites 
+## SHARING AND DISCLOSURE OF INFORMATION
 
-We are a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
+We may share or disclose your information at your direction, such as when you authorize a third-party service to access your account or when you voluntarily share information or content via the Services. Other Users may share or disclose information about you, such as when they mention you.
 
-### Terms and Conditions of the Sites
+There are certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, unless required by the law, as set forth below:
 
-Each subscriber should carefully read each of the terms and conditions of the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers.
+**· Vendors and Service Providers:** To assist us in meeting business operations needs and to perform certain services and functions: providers of hosting, email communication and customer support services, analytics, marketing, advertising (for more details on the third parties that place cookies through the Site, please see the “Cookies” section below). Pursuant to our instructions, these parties will access, process or store Personal Data in the course of performing their duties to us.
+
+**· Business Transfers:** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of all or a portion of our assets, or transition of service to another provider, your Personal Data and other information may be transferred to a successor or affiliate as part of that transaction along with other assets.
+
+**· Legal Requirements:** If required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend our rights or property, (iii) act in urgent circumstances to protect the personal safety of Users of the Site, or the public, or (iv) protect against legal liability.
+
+## DATA RETENTION
+
+We will keep your Personal Data for as long as reasonably necessary for the purposes described in this Privacy Policy, while we have a legitimate business need to do so, or as required by law (e.g. for tax, legal, accounting or other purposes), whichever is the longer.
+
+If you have elected to receive marketing communications from us, we retain information about your marketing preferences until you opt out of receiving these communications and in accordance with our policies.
+
+To determine the appropriate retention period for your Personal Data, we will consider the amount, nature, and sensitivity of the Personal Data, the potential risk of harm from unauthorized use or disclosure of your Personal Data, the purposes for which we use your Personal Data and whether we can achieve those purposes through other means, and the applicable legal requirements. In some circumstances we may anonymize your Personal Data so that it can no longer be associated with you, in which case it is no longer Personal Data.
+
+## UPDATE YOUR INFORMATION
+
+If you need to change or correct your Personal Data, or wish to have it deleted from our systems, you may contact us. We will address your request as required by applicable law. You may also update your Personal Data from your user settings.
+
+## CALIFORNIA PRIVACY DISCLOSURE
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and editing their profile.
+
+## EUROPEAN UNION (EU) USERS
+
+**Scope.** This section applies if you are a User in the EU (for these purposes, reference to the EU also includes the European Economic Area countries of Iceland, Liechtenstein and Norway).
+
+**Data Controller.** SPIZOO LLC. is the data controller for processing Personal Data provided to us through the Services. To find out our contact details, please see the “Contact Us” section below, which also provides the contact details of our representative in the EU for purposes of the General Data Protection Regulation.
+
+**Your Rights.** Subject to applicable EU law, you have the following rights in relation to your Personal Data:
+
+**\- Right of access:** If you ask us, we will confirm whether we are processing your Personal Data and, if so, provide you with a copy of that Personal Data along with certain other details. If you require additional copies, we may need to charge a reasonable fee.
+
+**\- Right to rectification:** If your Personal Data is inaccurate or incomplete, you are entitled to ask that we correct or complete it. If we shared your Personal Data with others, we will tell them about the correction where possible. If you ask us, and where possible and lawful to do so, we will also tell you with whom we shared your Personal Data so you can contact them directly.
+
+**\- Right to erasure:** You may ask us to delete or remove your Personal Data, such as where you withdraw your consent. If we shared your data with others, we will tell them about the erasure where possible. If you ask us, and where possible and lawful to do so, we will also tell you with whom we shared your Personal Data with so you can contact them directly.
+
+**\- Right to restrict processing:** You may ask us to restrict or ‘block’ the processing of your Personal Data in certain circumstances, such as where you contest the accuracy of the data or object to us processing it (please read below for information on your right to object). We will tell you before we lift any restriction on processing. If we shared your Personal Data with others, we will tell them about the restriction where possible. If you ask us, and where possible and lawful to do so, we will also tell you with whom we shared your Personal Data so you can contact them directly.
+
+**\- Right to data portability:** You have the right to obtain your Personal Data from us that you consented to give us or that was provided to us as necessary in connection with our contract with you. We will give you your Personal Data in a structured, commonly used and machine-readable format. You may reuse it elsewhere.
+
+**\- Right to object:** You may ask us at any time to stop processing your Personal Data, and we will do so:
+
+If we are relying on a legitimate interest to process your Personal Data -- unless we demonstrate compelling legitimate grounds for the processing or
+
+If we are processing your Personal Data for direct marketing.
+
+**\- Right to withdraw consent:** If we rely on your consent to process your Personal Data, you have the right to withdraw that consent at any time. Withdrawal of consent will not affect any processing of your data before we received notice that you wished to withdraw consent.
+
+**\- Right to lodge a complaint with the data protection authority:** If you have a concern about our privacy practices, including the way we handled your Personal Data, you can report it to the data protection authority that is authorized to hear those concerns.
+
+Please see the “Contact Us” section below for information on how to contact us to exercise your rights.
+
+**Legitimate Interest.** “Legitimate interests” means our interests in conducting our business, managing and delivering the best Services to you. This Privacy Policy describes when we process your Personal Data for our legitimate interests, what these interests are and your rights. We will not use your Personal Data for activities where the impact on you overrides our interests, unless we have your consent or those activities are otherwise required or permitted to by law.
+
+## PUBLICLY POSTED INFORMATION
+
+This Privacy Policy shall not apply to any information you post to the public areas of the Services. Comments posted to public areas may be viewed, accessed, and used by third parties subject to those parties’ privacy practices and policies.
+
+## LINKS TO OTHER WEBSITES
+
+The Site may contain links to other websites not operated or controlled by us (“Third Party Sites”), including the Social Media Services. The information that you share with Third Party Sites will be governed by the specific privacy policies and terms of service of the Third Party Sites and not by this Privacy Policy. By providing these links we do not imply that we endorse or have reviewed these sites. Please contact those sites directly for information on their privacy practices and policies.
+
+## COOKIES
+
+The Site uses cookies to operate and administer our Site and the Services, make it easier for you to use the Services during future visits and gather usage data on our Site.
+
+What Are Cookies. A “cookie” is a piece of information sent to your browser by a website you visit. By choosing to use our the Site after having been notified of our use of cookies in the ways described in this Privacy Policy, and, in applicable jurisdictions, through notice and unambiguous acknowledgement of your consent, you agree to such use.
+
+Some cookies expire after a certain amount of time, or upon logging out (session cookies), others remain on your computer or terminal device for a longer period (persistent cookies). Our Site uses first party cookies (cookies set directly by Spizoo) as well as third party cookies, as described below. For more details on cookies please visit All About Cookies.
+
+**Type of Cookies Used. The Site uses the following technologies:**
+
+**\- Strictly Necessary Cookies:** Used to provide Users with the Services available through our Site and to use some of their features, such as the ability to log-in and access to secure areas. These cookies are served by Spizoo and are essential for using and navigating the Site. Without these cookies, basic functions of our Site would not work. Because these cookies are strictly necessary to deliver the Site and the Services, you cannot refuse them.
+
+**\- Analytics/Performance:** Used to better understand the behavior of the Users on our Site and improve our Site accordingly, for example by making sure Users are finding what they need easily. The Site uses Google Analytics, a web analytics service provided by Google Inc. (“Google”). The information collected by Google (including your IP address) will be transmitted to and stored by Google on servers in the United States (Google is certified to the Privacy Shield for data transfers). How long a Google Analytics cookie remains on your computer or device depends on what it is and what it is used for. Some Google Analytics cookies expire at the end of your browser session, whilst others can remain for up to two years. You can prevent your data from being collected by Google Analytics on our Site by downloading and installing the Google Analytics Opt-out Browser Add-on for your current web browser. For more information on Google Analytics privacy practices, read here.
+
+Please note that if you limit the ability of websites to set cookies, you may be unable to access certain parts of the Site and you may not be able to benefit from the full functionality of the Site. If you access the Site on your mobile device, you may not be able to control tracking technologies through the settings.
+
+## COOKIES USED BY SPIZOO
+
+Spizoo Network – List Of Cookies 
+
+**NAME** | **DOMAIN** | **LIFETIME**  
+---|---|---  
+_ga | .spizoo.com (or main domain for this site) | 3 days  
+_gat | .spizoo.com (or main domain for this site) | 1 day  
+_gid | .spizoo.com (or main domain for this site) | 2 days  
+numheader  | www.spizoo.com (or main domain for this site) | 1 day  
+ex_referrer | www.spizoo.com (or main domain for this site) | At the end of the browsing session  
+views | www.spizoo.com (or main domain for this site) | 1 day  
+__atuvc | www.spizoo.com (or main domain for this site) | 12 months  
+__atuvs | www.spizoo.com (or main domain for this site) | 30 minutes  
+PHPSESSID | join.spizoo.com (or Join subdomain for this site) | At the end of the browsing session  
+nats | .spizoo.com (or main domain for this site) | 30 days  
+nats_cookie | .spizoo.com (or main domain for this site) | 30 days  
+nats_landing | .spizoo.com (or main domain for this site) | 30 days  
+nats_sess | .spizoo.com (or main domain for this site) | 90 days  
+nats_unique | .spizoo.com (or main domain for this site) | 1 day  
+di2 | .addthis.com | Unlimited  
+loc | .addthis.com | 30 days  
+mus  | .addthis.com | 25 days  
+ouid | .addthis.com | 25 days  
+uid | .addthis.com | 25 days  
+uvc | .addthis.com | 30 days  
+vc | .addthis.com | Unlimited  
+xtc | .addthis.com | Unlimited  
+lidc | .linkedin.com | 2 days  
+  
+
+
+## THIRD PARTY WEBSITES AND APPLICATIONS
+
+This Privacy Policy only applies to the Services. The Services may contain links to other websites not operated or controlled by Spizoo (the “Third Party Sites”). We do not own, control or operate such linked sites, and we are not responsible for the privacy policies or practices of such linked sites. Privacy policies and practices for such linked sites may differ from this Privacy Policy and our practices. We encourage you to read the privacy policies of such linked sites before disclosing personal information on Third Party Sites.
+
+## LINKS TO OTHER WEB SITES
+
+This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by Spizoo (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that Spizoo endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+
+## SECURITY
+
+You use Services at your own risk. Spizoo takes steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Data to Spizoo via the internet. We cannot control the actions of other Users with whom you may choose to share information. Therefore, we cannot, and do not, guarantee that information or content posted by a User on or through the Services will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Services or Social Media Services.
+
+## OTHER TERMS AND CONDITIONS
+
+Your access to and use of the Services is subject to any additional terms applicable to such Services that may be posted on the Services from time to time, including without limitation, Spizoo’s Terms of Use available at [Terms and Conditions page](https://www.spizoo.com/pages.php?id=legal-notices).
+
+## CHANGES TO THE PRIVACY POLICY
+
+The Services and our business may change from time to time. As a result we may change this Privacy Policy at any time and when we do we will post an updated version on this page, unless another type of notice is required by the applicable law. By continuing to use the Site or providing us with information after we have posted an updated Privacy Policy, or notified you if applicable, you consent to the revised Privacy Policy and practices described in it.
+
+## INTERNATIONAL USERS
+
+Spizoo is based in the United States. If you are accessing our Services from the European Union or other regions with laws governing data collection and use, please note that your Personal Data will be transmitted to our servers in the United States and the data may be transmitted to our service providers supporting our business operations (described above). The United States may have data protection laws less stringent than or otherwise different from the laws in effect in the country in which you are located. Where we transfer your Personal Data out of the EU we will take steps to ensure that your Personal Data receives an adequate level of protection where it is processed and your rights continue to be protected.
+
+By providing your information to the Services you agree to the transfer of your information to the United States and processing globally in accordance with this Privacy Policy.
+
+## CONTACT US
+
+Please feel free to contact us if you have any questions about Spizoo’s Privacy Policy or the information practices of the Services. You may contact us as follows: You may send an email to [webmaster@spizcash.com](mailto:webmaster@spizcash.com).
