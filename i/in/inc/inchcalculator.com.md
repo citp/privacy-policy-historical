@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inchcalculator.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607013321id_/https%3A//www.inchcalculator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inchcalculator.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227011330id_/https%3A//www.inchcalculator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inch Calculator
 
@@ -11,6 +11,12 @@ Like many other Web sites, inchcalculator.com makes use of log files. These file
 ## Cookies and Web Beacons
 
 Technologies such as: cookies, beacons, tags and scripts are used by Inchcalculator and our partners (such as advertising, marketing and analytics), affiliates or analytics or service providers. These technologies may be used in analyzing trends, administering the Sites, tracking users’ movements around the Sites and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by such companies on an individual as well as aggregated basis. Our partners may also use such technologies to deliver advertisements to you as described below. While we respect the privacy of our users, we are not able to respond to Do Not Track signals set by your browser at this time. 
+
+## Hotjar
+
+We use [Hotjar](http://www.hotjar.com/) in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device’s IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on [this link](https://www.hotjar.com/legal/policies/privacy).
+
+You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this [opt-out link](https://www.hotjar.com/legal/compliance/opt-out). 
 
 ## DoubleClick DART Cookie
 
@@ -54,7 +60,7 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
 ## Update
 
-This Privacy Policy was last updated on: Sunday, November 20th, 2016.  
+This Privacy Policy was last updated on: November 7th, 2019.  
 Should we update, amend or make any changes to our privacy policy, those changes will be posted here. 
 
 Please [contact us](https://web.archive.org/contact/) with all questions and concerns.
