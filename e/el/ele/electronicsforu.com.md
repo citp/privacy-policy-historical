@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicsforu.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325054516id_/https%3A//electronicsforu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicsforu.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227022810id_/https%3A//electronicsforu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electronics For You
 
@@ -22,9 +22,11 @@ To administer a contest, promotion, survey or other site feature
 
 To send periodic emails
 
+To send periodic SMS
+
 To share with sponsors
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+The email address and phone number you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
 **Do we use cookies?**
 
