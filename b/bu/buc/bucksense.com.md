@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bucksense.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621093642id_/http%3A//www.bucksense.com/platform-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucksense.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227222126id_/https%3A//www.bucksense.com/platform-privacy-policy) for the most accurate reproduction.*
 
-# Bucksense - Programmatic built to optimize your conversion path
+# In-house marketing, done right | Bucksense
 
 ﻿ 
 
@@ -148,5 +148,5 @@ Bucksense reserves the right to change this Privacy Policy. We encourage you to 
 
 If you have any questions or concerns about our privacy practices, you may contact us:  
 Bucksense Inc.  
-140 West Street, 2nd Fl New York, NY 10007  
+119 W 24th Street, 4th Floor, New York, NY 10011  
 [privacy@bucksense.com](mailto:privacy@bucksense.com)
