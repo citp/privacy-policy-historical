@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616052930id_/http%3A//www.nafsa.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227212942id_/https%3A//www.nafsa.org/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NAFSA
 
@@ -10,7 +10,7 @@ NAFSA reserves the right, at any time, to modify this Privacy Policy. If we make
 
 Please read this Privacy Policy carefully to understand NAFSA’s views and practices regarding your personal information and how we will treat it. **By visiting this Platform, you are freely accepting and consenting to the practices in this Privacy Policy. You may withdraw your consent at any time and for any reason with effect to future data processing by contacting us at the address listed below in the Section titled "Communications." Without your consent, NAFSA will use personal information, only insofar as such processing is permitted by applicable law (e.g., for the performance of a contract or agreement between NAFSA and you) or where such processing is necessary for compliance with a legal obligation to which NAFSA is subject.**
 
-## COLLECTION OF PERSONAL INFORMATION
+#### Collection of Personal Information
 
 Through your interactions with NAFSA, NAFSA collects “personal information,” which is information that identifies an individual or relates to an identified individual. Non-personal information means information that does not directly identify an individual. We collect both types of information about you.
 
@@ -22,7 +22,7 @@ Registration Information | When you create an Account, we may collect your name,
 Cookies | We may use cookies and clear GIFs. “Cookies” are small pieces of information that a website sends to your device while you are viewing a website. Among other things, cookies allow us to provide you with a more personal and interactive experience and to improve our marketing efforts. If you choose to disable cookies, some areas or features of our websites may not work properly.  
 Demographic Information | We may collect personal information from you, such as your photo or location.  
 Digital Fingerprinting | We may from time to time use digital fingerprinting technologies in an effort to protect and ensure the integrity of our Platform. In general, digital fingerprinting technologies assign a unique identifier or “Machine-ID” to a user’s computer to identify and track the computer’s survey activity. NAFSA will not use digital fingerprinting technology to collect personal information or track the online activities of the user of a computer and will not disrupt or interfere with the use or control of a computer or alter, modify, or change the settings or functionality of a computer. The technology will analyze publicly available information and data obtained from the computer’s web browser and from other publicly available data points, including without limitation the technical settings of the computer, the characteristics of the computer, and the computer’s Internet Protocol (IP) address, to create a unique identifier assigned to the computer. The unique identifiers are typically alpha-numeric IDs and after creating the unique identifier, NAFSA does not retain the information analyzed by the technology to create the unique identifier.  
-Geo-Location Information  | When you use one of our Applications or a badge or device provided by NAFSA, we may collect your location using GPS, Wi-Fi, cellular technology, radio-frequency identification (RFID), Bluetooth Low Energy (BLE) beacon technology, or other similar location-tracking technologies. NAFSA may capture proximity and duration information for providing personalized products and services, demographic analysis, or behavioral analysis. Such information, and any derived information, may be shared with third parties that have a relationship with NAFSA.  
+Geo-Location Information | When you use one of our Applications or a badge or device provided by NAFSA, we may collect your location using GPS, Wi-Fi, cellular technology, radio-frequency identification (RFID), Bluetooth Low Energy (BLE) beacon technology, or other similar location-tracking technologies. NAFSA may capture proximity and duration information for providing personalized products and services, demographic analysis, or behavioral analysis. Such information, and any derived information, may be shared with third parties that have a relationship with NAFSA.  
 E-mail Interconnectivity | If you receive e-mail from us, we may use certain tools to capture data related to when you open our message, click on any links or banners it contains and make purchases.  
 Employment | If you apply for a job posting, or become an employee, we may collect personal information necessary to process your application. This may include, among other things, your Social Security Number or tax identification number.  
 Feedback/Support | If you provide us feedback or contact us for support we will collect your name and e-mail address and possibly other personal information, as well as any other content that you send to us in order to reply.  
@@ -35,7 +35,7 @@ Web Logs/Third-Party Tracking | We may collect information from you, including y
   
 In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources.
 
-## USE OF PERSONAL INFORMATION
+#### Use of Personal Information
 
 In addition to the uses described above, NAFSA uses the personal information collected in an effort to improve your experience, to provide services to you, and to communicate with you about information that you request. NAFSA may also use personal information to help target specific offers to you and to help NAFSA develop and improve its services. Additionally, NAFSA may use your personal information:
 
@@ -51,30 +51,30 @@ In addition to the uses described above, NAFSA uses the personal information col
 
 
 
-## SHARING OF PERSONAL INFORMATION
+#### Sharing of Personal Information
 
 In addition to the specific situations discussed elsewhere in this Privacy Policy, NAFSA may disclose personal information in the following situations:
 
   * **Other Disclosures with Your Consent.** We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy, and we may do so with your consent.
   * **Other Disclosures without Your Consent.** We may disclose personal information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws. We may also share your personal information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our Terms of Use, or to comply with your request for the shipment of products to or the provision of services by a third-party intermediary.
   * **Public.** Some of our Sites or Applications provide the opportunity to post comments, or reviews, in a public forum. If you decide to submit information at these locations, that information may be publicly available.
-  * **Service Providers.** We may share your personal information with service providers. Among other things service providers may help us to administer our website, plan or facilitate events or travel, conduct surveys, provide technical support, or sending marketing, promotions, and communications related to our business, payment processing, and for other legitimate purposes permitted by law.
+  * **Service Providers.** We may share your personal information with service providers. Among other things service providers may help us to administer our website, plan or facilitate events or travel, conduct surveys, provide technical support, place third party advertisements on our website, or sending marketing, promotions, and communications related to our business, payment processing, and for other legitimate purposes permitted by law.
 
 
 
-## SECURITY OF PERSONAL INFORMATION
+#### Security of Personal Information
 
 NAFSA has implemented reasonable and appropriate security measures to help protect the personal information NAFSA collects from loss, misuse, unauthorized access, disclosure, alteration, and destruction. Although NAFSA attempts to protect the personal information in its possession, no security system is perfect, and NAFSA cannot promise that your personal information will remain absolutely secure in all circumstances.
 
-## RETENTION OF PERSONAL INFORMATION
+#### Retention of Personal Information
 
 NAFSA will retain your personal information as needed to fulfill the purposes for which it was collected. NAFSA will retain and use your personal information as necessary to comply with NAFSA’s business requirements, legal obligations, resolve disputes, protect our assets, and enforce our agreements.
 
-## DATA INTEGRITY AND PURPOSE LIMITATION
+#### Data Integrity and Purpose Limitation
 
 NAFSA limits the use of personal information to ways that are compatible and relevant to the purposes for which the personal information was collected or subsequently authorized or for which consent was obtained. NAFSA will take reasonable steps to ensure that personal information is reliable for its intended use, accurate, complete, and current.
 
-## YOUR CHOICES
+#### Your Choices
 
 You can make the following choices regarding your personal information by logging into the Communication Preferences section in My NAFSA in your NAFSA account:
 
@@ -88,27 +88,29 @@ You can make the following choices regarding your personal information by loggin
 
 
 
-## CROSS-BORDER TRANSFER OF PERSONAL INFORMATION
+#### Cross-border Transfer of Personal Information
 
 NAFSA may transfer your personal information to NAFSA’s entities in the United States, or to third parties as described in this Privacy Policy that are located in various countries around the world. By using NAFSA’s Platform or providing any personal information to NAFSA, where applicable law permits, you consent to the transfer, processing, and storage of such information outside of your country of residence where data protection standards may be different. When NAFSA collects information in one country, and transfers it to another, to the extent possible it applies the same level of data protection required under the laws in the first country even when the data is in the second country. In particular, users in the European Union should be aware that while the European Commission has not found United States law to adequately protect the rights of data subjects, NASFA takes reasonable precautions to ensure that all processing activities conducted on our behalf are compliant with the European Union General Data Protection Regulation.
 
-## DISPUTE RESOLUTION
+#### Dispute Resolution
 
 NAFSA commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with questions or concerns about our use of personal information or our privacy policy should submit a written request to us using the information in the “Communications” section below.
 
 NAFSA commits to cooperate with European Union data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the European Union in the context of the employment relationship.
 
-## Communications
+#### Communications
 
 Questions, concerns, or complaints should be directed to our privacy agent as follows:
 
   * By phone: +1-202-737-3699
-  * By e-mail: nafsaprivacy[at]nafsa.org
+  * By [email](https://web.archive.org/form/privacy_policy-feedback)
 
 
 
 Through mail:  
 Attn: Alan Williams, COO, NAFSA, 1307 New York Ave. NW, Washington, D.C. 20005 USA
+
+You can revoke your consent to the use of cookies by following [these instructions](https://www.hotjar.com/legal/compliance/opt-out) to adjust your browser settings, and can set your communication preferences [here](https://account.nafsa.org/mynafsa).
 
 If NAFSA is required to contact you about your personal information we may do so by mail, phone, or e-mail.
 
