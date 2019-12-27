@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jqueryhouse.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416032838id_/https%3A//jqueryhouse.com/jqueryhouse-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jqueryhouse.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227190154id_/https%3A//jqueryhouse.com/jqueryhouse-privacy-statement) for the most accurate reproduction.*
 
 # jQueryHouse Privacy Statement | jQueryHouse
 
