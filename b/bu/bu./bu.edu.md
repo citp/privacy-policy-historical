@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bu.edu privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624144810id_/http%3A//www.bu.edu/policies/digital-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bu.edu privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227222904id_/http%3A//www.bu.edu/policies/digital-privacy-statement) for the most accurate reproduction.*
 
 # Digital Privacy Statement | Policies
 
