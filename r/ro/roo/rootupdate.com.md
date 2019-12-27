@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rootupdate.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529105455id_/http%3A//www.rootupdate.com/privacy-policy_13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootupdate.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227235235id_/https%3A//www.rootupdate.com/privacy-policy_13) for the most accurate reproduction.*
 
 # Privacy Policy - Root Update
 
@@ -112,4 +112,4 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 • Follow the instructions at the bottom of each email.  
 and we will promptly remove you from ALL correspondence.
 
-If there are any questions regarding this privacy policy you may contact us From the Contact Us tab or simply mail to rootweall@gmail [dot] com
+If there are any questions regarding this privacy policy you may contact us From the Contact Us tab or simply mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) [dot] com
