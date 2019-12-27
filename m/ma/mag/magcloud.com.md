@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magcloud.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415172920id_/http%3A//www.blurb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magcloud.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227031029id_/https%3A//www.blurb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy. Book publishing services | Blurb Books | Blurb
 
@@ -160,7 +160,7 @@ In case IP-anonymization is activated on this website, your IP Address will be t
 
 Google will use this information on behalf of the operator of this Website for the purpose of evaluating your use of the Website, compiling reports on website activity for website operators and providing them other services relating to Website activity and Internet usage.
 
-The IP Address that your Browser conveys within the scope of Google Analytics will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this Website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Add-on for your current web browser: <http://tools.google.com/dlpage/gaoptout?hl=en>
+The IP Address that your Browser conveys within the scope of Google Analytics will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this Website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Add-on for your current web browser: <https://tools.google.com/dlpage/gaoptout?hl=en>
 
 For further information please visit:
 
@@ -206,7 +206,7 @@ Here’s how to do it:
 
 Please note that if you choose to remove or reject Cookies, this could affect the availability and functionality of the Services. For further information about cookies, including how to refuse Cookies, please visit www.allaboutcookies.org .You may change any of the Personal Information in your account by editing your online profile or by sending an email to us at the email address set forth below.
 
-**Behavioral Advertising Targeting:** We partner with a third party to display advertising on the Website and to manage our advertising on other sites. Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here.](https://www.youronlinechoices.eu/)
+**Behavioral Advertising Targeting:** We partner with a third party to display advertising on the Website and to manage our advertising on other sites. Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](https://preferences-mgr.truste.com/) or if located in the European Union click [here.](https://www.youronlinechoices.eu/)
 
 If you would like to opt out of third-party advertising behavior collection and use from your use of our Website, you may do so via the Network Advertising Initiative at <https://www.networkadvertising.org/managing/opt_out.asp>.
 
