@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanquestgame.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615135929id_/https%3A//thqnordic.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanquestgame.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227072715id_/https%3A//thqnordic.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy policy | THQ Nordic GmbH
 
