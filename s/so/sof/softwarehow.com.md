@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwarehow.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528170833id_/https%3A//www.softwarehow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwarehow.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227072123id_/https%3A//www.softwarehow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
