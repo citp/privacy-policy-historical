@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mas.gov.sg privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611191605id_/http%3A//www.mas.gov.sg/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mas.gov.sg privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227055716id_/https%3A//www.mas.gov.sg/privacy-statement) for the most accurate reproduction.*
 
 # MAS Internet Privacy Policy Statement
 
@@ -28,4 +28,4 @@ Our web servers may collect information such as the domain names of visitors, th
 
 **How To Contact Us About Our Website**
 
-If you have a question about the way your information is used in connection with this website, MAS’ privacy and information practices or if you require more information on or access to the information which you have earlier provided to us, you may write in to [webmaster@mas.gov.sg](mailto:webmaster@mas.gov.sg).
+If you have a question about the way your information is used in connection with this website, MAS’ privacy and information practices or if you require more information on or access to the information which you have earlier provided to us, you may write in to [webmaster@mas.gov.sg __](mailto:webmaster@mas.gov.sg).
