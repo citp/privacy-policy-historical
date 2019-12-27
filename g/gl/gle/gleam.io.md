@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gleam.io privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604012039id_/https%3A//gleam.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gleam.io privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227183516id_/https%3A//gleam.io/privacy) for the most accurate reproduction.*
 
 # Gleam Privacy Policy
 
@@ -8,7 +8,7 @@ Gleam ("Gleam", "we" or "us") provides software that helps online businesses (ou
 
 Security & Privacy is an important part of our platform that we take very seriously. Therefore, this Privacy Policy governs the manner in which Gleam collects, uses, maintains and discloses information collected from users (each, a "User") of the https://gleam.io website ("Site"). This privacy policy applies to the Site and all products or services offered by Gleam.
 
-In order to ensure confidentiality and lawful processing of its, Visitors, Customers and Campaign Users personal data, Gleam in its capacity of a data controller and of a processor, conducts its activities in strict compliance with the requirements set in the Australia Privacy Act 1988 and Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of this data (GDPR).
+In order to ensure confidentiality and lawful processing of its, Visitors, Customers and Campaign Users personal data, Gleam in its capacity of a data controller and of a processor, conducts its activities in strict compliance with the requirements set in the Australia Privacy Act 1988, Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of this data (GDPR) and the California Consumer Privacy Act (CCPA).
 
 This Privacy Policy applies to all Customers, Campaign Users and Visitors of our Site and Services.
 
@@ -36,6 +36,12 @@ Companies that use Gleam to run campaigns ("Campaign") may require Campaign User
 
 Gleam is a consent based marketing platform, this means that in order for us to process data on behalf of users they must provide it via explicit consent first. This might be as simple as filling out a form or something more complex like connecting Facebook to their Gleam account.
 
+Gleam also does not collect retain or share end user information including IP addresses, unique user identifiers, or personally identifiable information gathered on sites or apps not owned by Gleam, except for the limited purpose of determining conversion rates & detecting fraud, in which case all personally identifiable information remains anonymous until you explicitly consent by entering a campaign.
+
+Gleam does not track or provide any personal information to Companies that run Campaigns until you explicitly provide consent. This means that you do not expose any personal information to either Gleam or Companies until you actively participate in their Campaign (even if you are still logged into Gleam or not).
+
+**IP Addresses** : IP addresses are collected Anonymously (last octet removed) for reporting and usage purposes. When you consent to a specific campaign your IP address is linked to the associated record and allows campaign owners to filter records that share an IP address. Your IP address is never shared publicly within the app and always remains hidden.
+
 **Name, Email & Form Fields**: By default each Campaign may collect basic login information from users that includes their full name and email address. By entering campaigns you are accepting that campaign owners will have access to the information you provide.
 
 Some Campaigns may also require additional [Custom Fields](https://gleam.io/docs/advanced/fields) which include Date of Birth (for Age Verification) and other identifiable fields that the user can choose to fill out.
@@ -51,8 +57,6 @@ Some Campaigns may also require additional [Custom Fields](https://gleam.io/docs
 
 **Persistent Logins** : Gleam is a distributed platform, which means that if a Campaign User has previously logged into our widget they will continue to stay logged in via third party Cookies across other Campaigns owned by other Companies until they specifically log out. This is designed to make it easy for users to enter more than one campaign without having to re-enter their details again.
 
-Gleam does not track or provide any personal information to Companies that run Campaigns until you explicitly provide consent. This means that you do not expose any personal information to Companies until you actively participate in their Campaign (even if you are still logged into Gleam or not).
-
 ## Cookies
 
 Our Site uses both first and third party Cookies to enhance User experience. A User's web browser places a cookie on their hard drive for record-keeping purposes and sometimes to track information about them. Users may choose to set their web browser to refuse cookies, or to alert when cookies are being sent. If they do so, please note that some parts of the Site and Campaigns may cease to function.
@@ -66,6 +70,16 @@ Gleam Campaigns use Cookies to track information about users in order to serve t
   * Tracked users referred by our Referral Program
 
 
+
+## Device Fingerprinting
+
+Device fingerprinting is a process by which a fingerprint of a device is captured when visiting a website.
+
+Gleam uses 3rd party services to gather a number of data points from a Gleam Campaign Users computer, such as operating system version, browser version, screen resolution, plug-ins & language. This unique ID is then transmitted when Gleam Campaign Users consent by providing their details when entering a campaign.
+
+The information collected via Device Fingerprinting is used to identify patterns of fraudulent behaviour by Gleam Campaign Users that violate our Terms of Service. This includes trying to cheat by creating multiple accounts, referring your own devices or accounts into a Campaign or attempting to redeem a Reward that is limited to one per person.
+
+Gleam does not use this information to track or identify users on sites or apps not owned by Gleam or for any other purpose than to detect fraud & protect the integrity of Campaigns, nor do we use the gleam.io or js.gleam.io domains to fingerprint on 3rd party domains.
 
 ## How We Use Collected Information
 
@@ -102,7 +116,7 @@ To guarantee the legality of any transfer of personal data of EEA or Swiss citiz
 
 Gleam may use third party service providers to help us operate our business or administer activities on our behalf, such as sending out newsletters or collecting Website analytics. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-Gleam engages certain onward subprocessors that may process personal data submitted to Gleams's services. These subprocessors are listed below, and may be updated by Gleam from time to time:
+Gleam engages certain onward subprocessors that may process personal data submitted to Gleam's services. These subprocessors are listed below, and may be updated by Gleam from time to time:
 
   * Amazon Web Services - __[Privacy Shield Certified](https://aws.amazon.com/compliance/eu-us-privacy-shield-faq/)
   * Bugsnag - __[Privacy Shield Certified](https://www.privacyshield.gov/participant?id=a2zt0000000TSeVAAW)
@@ -227,6 +241,17 @@ Attn: Data Protection Officer
 Mornington  
 Melbourne, Australia  
 [privacy@gleam.io](mailto:privacy@gleam.io)
+
+## California Consumer Privacy Act
+
+For our users or customers living or doing business in California, Gleam is subject to the California Consumer Privacy Act ("CCPA").
+
+  * Gleam Does Not Sell Your Personal Information. You can read more about this in our Sharing Information With Third Parties section.
+  * Cookie Policy. You can learn about about this in our Cookies section.
+  * Accuracy and Access To Your Personal Information. If you believe that Personal Information Gleam holds about you is inaccurate, you may modify or correct your Personal Information the Edit tab for Gleam Campaign Users, the User Settings tab for Gleam Customers or by contacting us at: [privacy@gleam.io](mailto:privacy@gleam.io). We may request specific information from you to confirm your identity. 
+  * Deleting Your Personal Information. You can learn about this in our Privacy Controls & Choices section.
+
+
 
 ## Compliance With Children's Online Privacy Protection Act
 
