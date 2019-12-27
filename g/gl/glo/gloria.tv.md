@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gloria.tv privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508094049id_/https%3A//gloria.tv/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gloria.tv privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227194653id_/https%3A//gloria.tv/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy – gloria.tv
 
