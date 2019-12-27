@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringpartner.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525024331id_/https%3A//www.ringpartner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringpartner.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227221327id_/https%3A//www.ringpartner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — RingPartner
 
@@ -11,13 +11,13 @@ Protecting your information is of the utmost importance to us, as is maintaining
 
 ## What Information Do We Collect? 
 
-We collect personally identifiable information when you complete a Client or Publisher Application, or otherwise choose to provide personally identifiable information to us. Personally identifiable information is any information that can be used to identify or locate a particular person or entity.
+We collect personally identifiable information when you complete a Client or Publisher Application, or otherwise choose to provide personally identifiable information to us. We may also collect personally identifiable information when phone call(s) made by you or any consumer that are routed through RingPartner to a Client of RingPartner’s are recorded. Personally identifiable information is any information that can be used to identify or locate a particular person or entity.
 
-This may include but is not limited to: your name, business entity name and/or your title with the applicable business entity, as well as your personal and/or business entity related e-mail address, mailing address, daytime and/or cellular telephone numbers, account information (or other information that we require in order to pay any amounts due to you, or collect amounts payable by you, under the Network), and/or any other information requested on the applicable registration form. For purposes of this Privacy Policy, your account information shall be considered "Sensitive Information."
+This may include but is not limited to: your name, business entity name and/or your title with the applicable business entity, as well as your personal and/or business entity related e-mail address, mailing address, daytime and/or cellular telephone numbers, account information (or other information that we require in order to pay any amounts due to you, or collect amounts payable by you, under the Network), any information that is disclosed during a phone call that is recorded, and/or any other information requested on the applicable registration form. For purposes of this Privacy Policy, your account information shall be considered "Sensitive Information."
 
 ## Use of Your Information:
 
-How we use the information we collect depends in part on which services of the Network you use, how you use them, and any preferences you have communicated to us. Below are specific purposes for which we use the information we collect about you:
+How we use the information we collect depends in part on the manner in which such personally identifiable information is disclosed to us, which services of the Network you use, how you use them, and/or any preferences you have communicated to us. Below are specific purposes for which we use the information we collect:
 
   * ### To provide the Network services and personalize your experience.
 
@@ -48,6 +48,13 @@ You agree that we may contact you at any time with updates and/or any other info
 
 We use your information to respond to your requests for assistance and general correspondence, and to resolve technical issues, if any, you may encounter.
 
+  * ### For quality assurance purposes.
+
+
+
+
+Phone calls that we route to a Client of ours may be recorded for quality assurance purposes only. We take steps to protect such information from inadvertent disclosure, do not sell such information to third parties, and only retain such information for so long as is necessary to validate the phone calls.
+
   * ### For safety and security.
 
 
@@ -77,9 +84,13 @@ We use information about you where you have given us consent to do so for a spec
 If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have legal basis for doing so under applicable EU laws. The legal basis depends on the Network services you use and how you use them. This means we collect and use your information only where:
 
   * We need it to provide you the Network services, including to operate the Network, provide customer support and personalized features, and to protect the safety and security of the Network;
+
   * It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Network and to protect our legal rights and interests;
+
   * You give us consent to do so for a specific purpose; or
+
   * We need to process your data to comply with a legal obligation.
+
 
 
 
@@ -153,7 +164,7 @@ For the deletion and erasure of personal information, email privacy@ringpartner.
 
 If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: [privacy@ringpartner.com](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/views/qowt.html#mailto:privacy@ringpartner.com) or send correspondence to the following address:
 
-Ring Partner, Inc.  
+Ring Partner Inc.  
 Attn: Data Protection Officer  
 200-775 Topaz Avenue, Victoria, BC  
 V8T 4Z7
