@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitwicket.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412224353id_/https%3A//hitwicket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwicket.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227081234id_/https%3A//hitwicket.com/privacy) for the most accurate reproduction.*
 
 # Hitwicket - Privacy Site
 
@@ -39,6 +39,10 @@ We collect information from you in two ways:
   * (d) We may share information with law enforcement authorities as required by applicable laws.
 
 
+
+### Children's Privacy Policy
+
+We do not knowingly collect or solicit personal data about or direct or target interest based advertising to anyone under the age of 13 or knowingly allow such persons to use our Services. If you are under 13, please do not send any data about yourself to us, including your name, address, telephone number, or email address. No one under the age of 13 may provide any personal data. If we learn that we have collected personal data about a child under age 13, we will delete that data as quickly as possible. If you believe that we might have any data from or about a child under the age of 13, please contact us.
 
 ### DoubleClick
 
