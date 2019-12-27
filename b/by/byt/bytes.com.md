@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bytes.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222244id_/https%3A//bytes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytes.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227215043id_/https%3A//bytes.com/privacy.html) for the most accurate reproduction.*
 
 # Bytes.com - Privacy Policy
 
