@@ -1,56 +1,207 @@
-> *The following text is extracted and transformed from the jeevansathi.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044716id_/http%3A//www.jeevansathi.com/P/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeevansathi.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227231236id_/https%3A//www.jeevansathi.com/profile/privacy_policy.php) for the most accurate reproduction.*
 
-# Jeevansathi Matrimonials- Privacy Policy
+# 
+
+#### 1\. Introduction
+
+We, at Info Edge (India) Limited and our affiliated companies worldwide (hereinafter collectively referred to as “IEIL”), are committed to respecting your online privacy and recognize the need for appropriate protection and management of any personally identifiable information you share with us. This Privacy Policy ("Policy") describes how IEIL collects, uses, discloses and transfers personal information of users through its websites and applications, including through www.jeevansathi.com, mobile applications and online services (collectively, the "Platform"). 
+
+This policy applies to those who visit the Platform, or whose information IEIL otherwise receives in connection with its services (such as contact information of individuals associated with IEIL including partners) (hereinafter collectively referred to as “Users”). For the purposes of the Privacy Policy, “You" or “Your” shall mean the person who is accessing the Platform.
 
   
+
+
+#### 2.Types of Personal Information collected by IEIL
+
+“Personal information” (PI) - means any information relating to an identified or identifiable natural person including common identifiers such as a name, an identification number, location data, an online identifier or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person and any other information that is so categorized by applicable laws.
+
+We collect information about you and/or your usage to provide better services and offerings. 
+
+The Personal Information that we collect, and how we collect it, depends upon how you interact with us. We collect the following categories of Personal Information in the following ways:
+
   
 
 
-[](http://www.jeevansathi.com/register/page1?source=rightpanel)
+  * We may collect your Personal Information such as name, email address, date of birth, mobile number, mother tongue, password, country, state/nationality, gender, current location, city, pin code, marital status, height, occupation, income etc. 
+  * When you complete your profile, you can share with us additional information, such as details on your personality, family details, contact address and other details about you, as well as content such as photos. To add certain content, like pictures or videos, you may allow us to access your camera or photo album. Some of the information you choose to provide us may be considered “special” or “sensitive” in certain jurisdictions, for example your ethnic origins, religious beliefs, sub caste, physical and mental conditions. By choosing to provide this information, you consent to our processing of the information., when the you sign up as a member or you set up an alert on the Platform, we may reach out to you as per your settings; 
+  * Information that one would usually include in a matrimonial profile, including name, contact details such as e-mail address and mobile number, date of birth, educational qualifications, data relating to your current employment, income photographs, visa and work status etc. when you register on the Platform; 
+  * Information about the services that you use and how you use them, including log information and location information, when you are a user of the services through the Platform; 
+  * We may collect your Personal Information such as name, age, contact details, preferences, etc. through surveys and forms, when you choose to participate in these surveys etc.; 
+  * We may collect your documents on age, address, income etc. for verification purposes to provide additional credibility to your profile. 
+  * When you communicate with IEIL or use the Platform to communicate with other members (including advertisers, Users (such as partners), we collect information about your communication and any information you choose to provide; 
+  * When you visit the Platform, we use cookies to automatically collect, store and use technical information about your system and interaction with our Platform; 
+  * When you use a device to access the Platform, IEIL may collect technical or other related information from the device as well as the device location; 
+  * To the extent permitted by law, IEIL may record and monitor your communications with us to ensure compliance with our legal and regulatory obligations and our internal policies. This may include the recording of telephone conversations. 
+  * We may collect your and your partner’s information such as but not limited to name, gender, date and time of birth, city, state, country and email if you avail our horoscope services. 
+  * We may collect, process and store your user ID associated with any social media account (such as your Facebook and Google account) that you use to connect with us or to avail our services 
+  * When you use your social media account information to access the Platform, or otherwise connect your social media account with the services of the Platform, you consent to our collection, storage, and use, in accordance with this Privacy Policy, of the information that you make available to us through the social media interface. Please see your social media provider's privacy policy and help centre for more information about how they share information when you choose to connect your account. 
 
-Success Stories
 
-navneet ka  
-weds   
-ZZWS9164
 
-Success Stories
+#### 3\. How IEIL may use your Personal Information
 
-Manjusha S  
-weds   
-Vivek Potn
+We will only use your personal data in a fair and reasonable manner, and where we have a lawful reason to do so.
 
-Success Stories
+Our use of your personal data depends on the purpose for which you interact with us. We may process your Personal Information for the following purposes:
 
-AKANKSHA   
-weds   
-AKASH GUPT
+  
 
-Success Stories
 
-Aakanksha  
-weds   
-ZZUW9482
+  * Protecting our Users and providing you with customer support;
+  * Our automated systems analyse your content to provide you customised search results and recommendations. 
+  * Send alerts and emails such as match alert mails, membership mails, kundli alert mails, visitor alert mails, new matches mails, contact alert mails, photo request mails, service mails, promotional mails, SMS alerts and call alerts(s) to you ( To unsubscribe, please visit the Alert Manager link on your profile). 
+  * We also process your chats with other users of the Platform, for purposes such as fulfilment of legal obligations, monitoring for offensive or menacing content etc. 
+  * We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services (for more information please refer to paragraph 4 below). When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with sensitive categories, such as those based on race, religion, sexual orientation or health, improving the Platform and its content to provide better features and services. 
+  * Conducting market research and surveys with the aim of improving our products and services.
+  * Sending you information about our products and services for marketing purposes and promotions;
+  * Preventing, detecting, investigating and taking action against crimes (including but not limited to fraud and other financial crimes), any other illegal activities, suspected fraud, or violations of the Platform’s Terms of Use in any jurisdiction 
+  * To the extent required for identity verification and due diligence checks if so undertaken.
+  * Establishing, exercising or defending legal rights in connection with legal proceedings (including any prospective legal proceedings) and seeking professional or legal advice in relation to such legal proceedings. 
 
-Jeevansathi.com is a division of Info Edge (I) Ltd. It is an online matrimonial portal endeavoring constantly to provide you with premium matrimonial services. Since we are strongly committed to your right to privacy, we have drawn have a privacy statement in place with regard to the information we collect from you.
 
-We use a secure server for credit card transactions to protect the credit card information of our clients and Cookies are used to store the login information. 
 
-1\. What information does Jeevansathi.com collect from you?  
-We gather information from members and guests who apply for the various services our site offers. It includes, but may not be limited to, email address, first name, last name, a user-specified password, e-mail Id, mailing address, zip code and telephone number or fax number. 
+#### 4\. Cookies and Other Tracking Technologies 
 
-2\. How Jeevansathi.com uses the information it collects/tracks?  
-We collect information from our clients primarily to ensure that we are able to fulfill your requirements and to deliver personalized experience. 
+Some of our web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about web-site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
 
-3\. With whom the site shares the information it collects/tracks?  
-The information collected from our clients is shared only with members of JS or members of our partners. Any information you give us is held with the utmost care and security. We are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer. 
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Platform.
 
-4\. Do all visitors have to pay?  
-NO, All visitors to our site may browse the site, search the ads and view any articles or features our site has to offer without entering any personal information or paying money. 
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Platform and the overall website experience. We may also analyse information that does not contain Personal Information for trends and statistics.
 
-5\. How Jeevansathi.com team can contact you ?  
-The Jeevansathi.com team will contact you from time to time to apprise you on various features and functionalities of the website. They will contact you for either "Service" or "Sales" through a variety of mediums like Email, SMS, MMS, Voice IVR, USSD, WAP messages, Telephonic Calls etc. The calls made to you will be from a regular Mobile or Landline number which is not of the "140" series. 
+For more information about our use of cookies please refer to our [ Cookie Policy.](https://www.jeevansathi.com/static/page/cookiepolicy)
 
-Notice: We may change this Privacy Policy from time to time based on your comments or as a result of a change of policy in our company. If you have any questions regarding our Privacy Statement, please write in to webmaster@jeevansathi.com 
+#### 5\. The Basis/ Grounds which we rely on for collection and processing of your Personal Information:
 
- 
+Your Personal Information is collected and processed by IEIL based on the following legal grounds depending upon the nature of Personal Information and the purposes for which it is processed.
+
+  
+
+
+  * **Consent:**
+
+IEIL relies on your consent in order to process your Personal Information in certain situations. If IEIL requires your consent to collect and process certain Personal Information, as per the requirements under the applicable data protection laws, your consent is sought at the time of collection of your Personal Information and such processing will only be performed where consent is secured.
+
+  
+
+  * **Compliance with a legal obligation:**
+
+Your Personal Information may be processed by IEIL, to the extent that such processing is necessary to allow IEIL to comply with a legal obligation. An example of this would be if IEIL is required to disclose your Personal Information to respond to a court order or if IEIL is required to retain specific records for a fixed period to comply with requirements under any applicable law.
+
+  
+
+
+
+#### 6\. Information Sharing and Disclosure
+
+**Third Party Services:** Third parties provide certain services available on the Platform on its behalf. Platform may provide information, including Personal Information and special/ sensitive personal information, that the Platform collects from its users to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which the Platform maintains its services and mailing lists.
+
+We restrict access to your Personal Information to employees who we believe reasonably need to know/or that information to fulfil their functions to provide, operate, develop, or improve our products or services.
+
+IEIL does not disclose, transfer or share your Personal Information with others except with:
+
+  * Our affiliates and group companies to the extent required for our internal business and/or administrative purposes and/or general corporate operations and for provision of services; 
+  * Third parties including enforcement, regulatory and judicial authorities, if we determine that disclosure of your Personal Information is required to a) respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; or b) investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Platform’s Terms & Conditions or as otherwise required by law; 
+  * In the event of a merger, acquisition, financing, or sale of assets or any other situation involving the transfer of some or all of IEIL’s business assets we may disclose Personal Information to those involved in the negotiation or transfer. 
+  * Third party service providers and marketing partners that IEIL engages to a) provide services over the Platform on IEIL’s behalf; b) maintain the Platform and mailing lists; or c) communicate with you on IEIL’s behalf about offers relating to its products and/or services. IEIL will take reasonable steps to ensure that these third-party service providers are obligated to protect your Personal Information and are also subject to appropriate confidentiality / non-disclosure obligations. 
+  * Third party advertisers to display advertisements to you when you visit the Platform. The third-party advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). These companies may use information about you and your visits to this Platform and other web sites to provide advertisements on this Platform. 
+
+
+
+The Company does not provide any Personal Information to the advertiser when you interact with or view a targeted advertisement. However, if you interact with or view an advertisement, the advertiser may make certain assumptions and, in the process, learn certain Personal Information about you. For instance, if you view and click an advertisement that is targeted towards women in the age group 18- 24 from a specific geographic area, the advertiser may assume that you meet the relevant criteria.
+
+IEIL does not intend to transfer Personal Information without your consent to third parties who are not bound to act on IEIL's behalf unless such transfer is legally required.
+
+If your Personal Information is transferred outside India, we take the necessary steps to protect your Personal Information in accordance with applicable data protection laws.
+
+  
+
+
+#### 7\. Third Party Content:
+
+Please be aware that the Platform sometimes contains links to other sites that are not governed by this Privacy Policy. Users may be directed to third-party sites for more information, such as advertisers, blogs, content sponsorships, vendor services, social networks, etc.
+
+IEIL makes no representations or warranties regarding how your information is stored or used on third-party servers. We recommend that you review the applicable privacy statements and policies of each third-party site linked from the Platform to determine their use of your personal information.
+
+  
+
+
+#### 8\. Children
+
+To use the Platform, you agree that you must be the minimum age (described in this paragraph below) or older.
+
+The minimum age for these purposes shall be eighteen (18), however if local laws require that you must be older for IEIL to be able to lawfully provide the services over the Platform to you then that older age shall apply as the applicable minimum age.
+
+If you are under the age of 18 or the age of majority in your jurisdiction, you must use the Platform under the supervision of your parent, legal guardian or responsible adult.
+
+  
+
+
+#### 9\. Retention of Personal Information
+
+Your Personal Information will not be retained by IEIL any longer than it is necessary for the purposes for which the Personal Information is processed and/or in accordance with legal, regulatory, contractual1 or statutory obligations as applicable.
+
+At the expiry of such periods, your Personal Information will be deleted or archived in compliance with applicable laws
+
+  
+
+
+#### 10\. Controlling your personal information
+
+You have the right to invoke your rights which are available to data principals or data subjects (as per applicable laws and regulations) in relation to your Personal Information which is being processed by IEIL.
+
+IEIL provides you the ability to keep your Personal Information accurate and up-to-date. If at any time you would like to a) rectify, update or correct your Personal Information; b) obtain confirmation on whether or not your Personal Information is processed by it; c) access your Personal Information or exercise your right to data portability; or d) exercise your right to restrict the continuing disclosure of your Personal Information to any third party by IEIL in certain circumstances, you are requested to contact us using the contact details mentions below. We will require you to provide a valid proof of your identity, in order to ensure that your rights are respected.
+
+For the exercise of certain rights, you may be required to approach the relevant authority / designated officer as per the provisions of the applicable data protection laws.
+
+IEIL may in accordance with the provisions of applicable data protection laws, charge a fee for fulfilling your request, in particular in case of excessive or manifestly unfounded request. Further you acknowledge that the abovementioned rights are not absolute and are subject to limitations as per the applicable data protection laws.
+
+  
+
+
+#### 11\. Confidentiality and Security
+
+  * The security and confidentiality of your Personal Information is important to us and IEIL has invested significant resources to protect the safekeeping and confidentiality of your personal data. When using external service providers acting as processors, we require that they adhere to the same standards as IEIL does. Regardless of where your Personal Information is transferred or stored, we take all steps reasonably necessary to ensure that personal data is kept secure. 
+  
+
+  * We seek to ensure compliance with the requirements of the Information Technology Act, 2000 and Rules made there under to ensure the protection and preservation of your privacy. We have physical, electronic, and procedural safeguards that comply with the laws prevalent in India to protect your Personal Information. By accepting the terms of this Privacy Policy, you agree that the standards and practices being implemented by us, are reasonable and sufficient for the protection of your Personal Information. 
+  
+
+
+
+#### 12\. Social media
+
+IEIL operates channels, pages and accounts on some social media sites to inform, assist and engage with customers. IEIL monitors and records comments and posts made on these channels about itself in order to improve its products and services.
+
+Please note that you must not communicate the following information to IEIL through such social media sites:
+
+  
+
+
+  * sensitive personal data including (i) special categories of personal data meaning any information revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation and (ii) other sensitive personal data such as criminal convictions and offences and national identification number ; 
+  
+
+  * Excessive, inappropriate, offensive or defamatory content.
+  
+
+
+
+IEIL is not responsible for any information posted on those sites other than the information posted by its employees on its behalf. IEIL is only responsible for its own use of the Personal Information received through such sites.
+
+#### 13\. Changes to this Privacy Policy
+
+IEIL reserves the right to update, change or modify this Privacy Policy at any time. The Privacy Policy shall come to effect from the date of publication of such update, change or modification
+
+#### 14\. Disclaimer
+
+IEIL does not store any account related information or any credit / debit card details. IEIL shall not be liable for any loss or damage sustained by Users as a result of any disclosure (inadvertent or otherwise) of any information concerning the User's account, credit cards or debit cards in the course of any online transactions or payments made for any products and/or services offered through the Platform.
+
+In case any Personal Information is shared by you with IEIL, which is not requested by IEIL during registration, (whether mandatorily or optionally), IEIL will not be liable for any information security breach or disclosure in relation to such information.
+
+If you have any questions regarding this Privacy Policy or the protection of your Personal Information, please contact IEIL’s Data Protection Officer/ Grievance Officer at the following:
+
+#### 15\. Data Protection Officer/ Grievance Officer
+
+In case you have any complaints and/or grievances in relation to the processing of your Personal Information you can send your complaints via e-mail to our grievance officer:
+
+  
+
