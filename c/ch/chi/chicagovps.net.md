@@ -1,91 +1,68 @@
-> *The following text is extracted and transformed from the chicagovps.net privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814120743id_/http%3A//www.chicagovps.net/downloads/PrivacyPolicy-ChicagoVPS.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagovps.net privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227024328id_/https%3A//www.deluxe.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy Our Commitment To Privacy
+# Privacy and Terms
 
-Privacy Policy
-Our Commitment To Privacy
-Your privacy is important to ChicagoVPS. To better protect your privacy we provide this notice
-explaining our online information practices and the choices you can make about the way your
-information is collected and used. To make this notice easy to find, we make it available on our
-website.
-ChicagoVPS reserves the right to change this Privacy Policy at any time. Such changes,
-modifications, additions or deletions shall be effective immediately upon posting on-line at this
-location. You acknowledge and agree that it is your responsibility to review this site and this
-Policy periodically and to be aware of any modifications. You may identify whether
-ChicagoVPS has revised this Privacy Policy by noting the "Effective Date" above. Your
-continued use of the site after such modifications will constitute your: (a) acknowledgment of the
-modified Policy; and (b) agreement to abide and be bound by the modified Policy. If you do not
-agree to these terms, please do not access or use this site.
-Types of Information Collected
-In order to better provide you with our numerous services, we collect two types of information
-about our users: Personal Information and Non-Personal Information.
-Personal Information
-When you order services through ChicagoVPS, we request certain personally identifiable
-information from you on our order form to us to allow us to process your order, provide you with
-the services you order from us, and to provide ongoing technical support for your account. You
-must provide contact information (such as name, email, phone number, and address) and
-financial information (such as credit card number, expiration date). By purchasing our services,
-you agree to provide and maintain accurate, complete and updated information.
-After you have ordered our services, we may be in communication with you about your account.
-These communications are essential to our relationship with you and to our ability to provide you
-with quality services that are responsive to your needs. As a result, we may maintain information
-about our communications with you for future use.
-Disclosure of Personal Information
-We use the information you provide about yourself when placing an order only to provide
-service to that order. We do not share this information with outside parties except to the extent
-necessary to provide service. In the event that this policy changes, we will provide you with an
-opportunity to opt out or otherwise prohibit the disclosure of your information to third parties for
-any purpose other than your ordering and ongoing use of our services.
+Effective Date: October 19, 2018.
+
+This Deluxe Privacy Center seeks to provide information about Deluxe Corporation (“Deluxe”)’s commitment to privacy and to preserving the trust that our customers, visitors and others place in us. Our related policies, terms of use, and related agreements and information are available in the navigation pane on the left-side of this page as well
+
+Please refer to our detailed privacy policies on information collection and usage, and more, here:
+
+  *  [Privacy - Consumers](https://www.deluxe.com/policy/privacy-individuals)
+  *  [Privacy - Businesses](https://www.deluxe.com/policy/privacy)
+  * [Privacy Shield](https://www.deluxe.com/policy/privacy-shield)
 
 
-We do not sell, trade, or rent your Personal Information to others. We do provide some of our
-services through contractual arrangements with affiliates, services providers, partners and other
-third parties. We and our service partners use your Personal Information to operate our sites and
-to deliver our services. For example, we must release your credit card information to the card-
-issuing bank to confirm payment for products and services purchased on this site or release your
-address information to the delivery service to deliver products that you ordered.
-Occasionally, ChicagoVPS may be required by law enforcement or judicial authorities to provide
-Personal Information to the appropriate governmental authorities. We will disclose Personal
-Information upon receipt of a court order or subpoena or to cooperate with a law enforcement
-investigation. We fully cooperate with law enforcement agencies in identifying those who use
-ChicagoVPS services for illegal activities. We reserve the right to report to law enforcement
-agencies any activities that ChicagoVPS in good faith believe to be unlawful.
-ChicagoVPS may also use the Personal Information collected to contact customers regarding
-important changes to our site, new services and special offers we think you will find valuable.
-You will be given the opportunity to notify us of your desire not to receive these offers through
-our client portal or by sending an email request at legal@chicagovps.net.
-Non-Personal Information
-ChicagoVPS collects tracking data when users visit our websites. Whenever you request a page
-through your browser, navigation data such as your IP address, browser and version, operating
-system, date and time and the site from which you came are stored in a log file. We use this data
-to analyze visitors' use of our site in order to make improvements to our site.
-Disclosure of Non-Personal Information
-ChicagoVPS may share this anonymous traffic and demographic information in aggregate form
-with other business partners. We do not share any information with anyone that can identify an
-individual user.
-Cookies
-A cookie is a small text file that is stored on a users computer for record-keeping purposes.
-ChicagoVPS may use both session ID cookies and/or persistent cookies. We use session cookies
-to make it easier for you to navigate our site. A session ID cookie expires when you close your
-browser. A persistent cookie remains on your hard drive for an extended period of time. You can
-remove persistent cookies by following directions provided in your Internet browsers help file.
-Our Commitment To Data Security
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of
-information, we have put in place appropriate physical, electronic, and managerial procedures to
+
+Deluxe Corporation and certain other covered entities are participants in the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. For more information, please see the Privacy Shield website [here](https://www.privacyshield.gov/welcome), and Deluxe’s Privacy Shield privacy policy [here](https://www.deluxe.com/policy/privacy-shield).
+
+### Deluxe's Commitment to Privacy
+
+ 
+
+Protecting privacy is an important part of the business of Deluxe Corporation and its subsidiaries and affiliates (together, “we,” “us,” “our,” or “Company”). Throughout our existence, we have been a trusted custodian of sensitive data. Our customers rely on that trust. Founded in 1915, we have a long history of recognizing and protecting the privacy of our customers' information.
+
+Deluxe owns several businesses, serving customers who have specific and unique privacy concerns. Each of the websites we operate posts a privacy policy, which may vary based on the underlying business model. Please review the respective privacy policy on any website or service you wish to use, so that you will understand the information practices related to your interaction on those websites or services, as well as your choices with respect to how your information is used.
+
+### Privacy Program Guiding Principles
+
+ 
+
+Regardless of the business model, each of the Deluxe business units builds its privacy policies and information practices around the following guiding principles:
+
+  *   **Accuracy** — Deluxe maintains reasonable procedures to ensure that information collected, used and exchanged is accurate and complete
+  *   **Security** — Deluxe implements appropriate security measures for protecting information from unauthorized access, use, or disclosure, including secure disposal
+  *   **Compliance** — — Deluxe will only collect, use, and exchange data in accordance with applicable laws and our contractual obligations
+  *   **Confidentiality** — — Deluxe maintains a commitment to collect, use and exchange information in accordance with confidentiality standards
+  *   **Privacy** — — Deluxe maintains policies and procedures for data sharing, notice, and preferences, in accordance with applicable laws
+  *   **Responsiveness** — — Deluxe will respond to privacy related inquiries in a timely and accurate manner and in accordance with applicable laws
+  *   **Employee Education** — Deluxe educates employees regarding privacy, security, and compliance obligations, including the proper handling and use of information
+  *   **Self-Auditing** — Deluxe is committed to periodic auditing to ensure adherence to established privacy policies, standards and procedures.
+
+  
 
 
-safeguard and secure the information we collect online. The ChicagoVPS website uses industry-
-standard Secure Sockets Layer (SSL) encryption on all web pages where personal information is
-required. When entering Personal Information, we strongly recommend an SSL-enabled web
-browser.
-Our Commitment To Children's Privacy
-Protecting the privacy of the very young is especially important. For that reason, we never
-collect or maintain information at our website from those we actually know are under 13, and no
-part of our website is structured to attract anyone under 13.
-Access To Your Personal Information
-You always have access to the information we have about you. To review and update your
-personal contact information, simply log into our client portal. You may also email
-billing@chicagovps.net to have the information changed.
-Questions
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings
-with this site, please contact us by sending an email to: legal@chicagovps.net
+### Contacting Deluxe
+
+ 
+
+Please use the contact information below to ask questions or review, update or correct the personally identifiable information that you provided on any of the Deluxe websites or services:
+
+## Address:
+
+Deluxe Corporation  
+Attn: Privacy Program Office  
+3680 Victoria Street N.  
+Shoreview, MN 55126
+
+If more information is needed, help is available through the Deluxe Privacy Program Office at [privacyprogramoffice@deluxe.com](mailto:privacyprogramoffice@deluxe.com).
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) [here](https://feedback-form.truste.com/watchdog/request).
+
+Deluxe also complies with all BBBOnLine Privacy standards. [Click to verify our BBB accreditation and to see a BBB report](https://www.bbb.org/).
+
+### Deluxe's Terms of Use
+
+ 
+
+Our [Acceptable Use](https://web.archive.org/policy/acceptable) and [Terms of Use](https://web.archive.org/policy/terms-of-use) policies encourage the responsible use of Deluxe's services. General Rules of Conduct are detailed in the Acceptable Use Policy. Productspecific terms of use are available via the more specific links listed in the navigation pane on the left-side of this page.
