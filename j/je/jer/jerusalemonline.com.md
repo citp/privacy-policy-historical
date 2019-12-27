@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerusalemonline.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406171428id_/https%3A//www.jerusalemonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerusalemonline.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227030041id_/https%3A//www.jerusalemonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - JOL
 
