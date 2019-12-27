@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the lifehack.org privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222150id_/https%3A//www.lifehack.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifehack.org privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227215013id_/https%3A//www.lifehack.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy of Lifehack
 
-## Owner and Data Controller
+##  Owner and Data Controller 
 
 9/F, Tungtex Building, 203 Wai Yip Street, Kwun Tong, Hong Kong SAR
 
 **Owner contact email:** privacy@lifehack.org
 
-## Types of Data collected
+##  Types of Data collected 
 
 Among the types of Personal Data that this Website collects, by itself or through third parties, there are: email address; Cookies; Usage Data; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); various types of Data; first name; last name; profession; picture. 
 
@@ -134,29 +134,29 @@ Any requests to exercise User rights can be directed to the Owner through the co
 ### Legal action
 
 The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Website or the related Services.  
-The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities. 
+The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
 
 ### Additional information about User's Personal Data
 
-In addition to the information contained in this privacy policy, this Website may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request. 
+In addition to the information contained in this privacy policy, this Website may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.
 
 ### System logs and maintenance
 
-For operation and maintenance purposes, this Website and any third-party services may collect files that record interaction with this Website (System logs) use other Personal Data (such as the IP Address) for this purpose. 
+For operation and maintenance purposes, this Website and any third-party services may collect files that record interaction with this Website (System logs) use other Personal Data (such as the IP Address) for this purpose.
 
 ### Information not contained in this policy
 
-More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document. 
+More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.
 
 ### How “Do Not Track” requests are handled
 
 This Website does not support “Do Not Track” requests.  
-To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies. 
+To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies.
 
 ### Changes to this privacy policy
 
 The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within this Website and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. 
 
-Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required. 
+Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
 
 ###  Definitions and legal references 
