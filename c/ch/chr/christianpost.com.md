@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianpost.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230248id_/https%3A//www.christianpost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianpost.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227044449id_/https%3A//www.christianpost.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Christian Post
 
