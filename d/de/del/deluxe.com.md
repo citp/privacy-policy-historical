@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deluxe.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118054946id_/https%3A//www.deluxe.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deluxe.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227024328id_/https%3A//www.deluxe.com/policy) for the most accurate reproduction.*
 
 # Privacy and Terms
 
@@ -10,6 +10,7 @@ Please refer to our detailed privacy policies on information collection and usag
 
   *  [Privacy - Consumers](https://www.deluxe.com/policy/privacy-individuals)
   *  [Privacy - Businesses](https://www.deluxe.com/policy/privacy)
+  * [Privacy Shield](https://www.deluxe.com/policy/privacy-shield)
 
 
 
