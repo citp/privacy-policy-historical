@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the system1.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405225659id_/https%3A//system1.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the system1.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227183149id_/https%3A//www.system1.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # System1 : Privacy Policy
 
@@ -166,7 +166,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 ### Dispute Resolutions
 
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, System1 commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact System1 at: <https://www.cognitoforms.com/System1/PrivacyInquiries>.
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, System1 commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact System1 [here](https://www.cognitoforms.com/System1/PrivacyInquiries).
 
 System1 has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/EU-privacy-shield/for-eu-consumers ](http://www.bbb.org/EU-privacy-shield/for-eu-consumers)for more information and to file a complaint.
 
