@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ngrok.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330182515id_/https%3A//ngrok.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngrok.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228000525id_/https%3A//ngrok.com/privacy) for the most accurate reproduction.*
 
 # ngrok - secure introspectable tunnels to localhost
 
