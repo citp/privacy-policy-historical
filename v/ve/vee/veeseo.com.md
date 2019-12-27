@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veeseo.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620183945id_/https%3A//www.ligatus.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veeseo.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227084451id_/https%3A//www.ligatus.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ligatus
 
@@ -190,6 +190,10 @@ Ligatus GmbH
 Christophstraße 19,   
 50670 Cologne  
 Germany  
-E-Mail: privacy@ligatus.com
+E-Mail: privacyquestions@outbrain.com
 
 Version: September 2018 - We reserve the right to adapt this data protection declaration and will announce any changes in good time.
+
+The Ligatus website uses cookies. You can learn more about these cookies by visiting our [Privacy Policy page](https://www.ligatus.com/en/privacy-policy). By continuing to access this website, you consent to our use of cookies.
+
+OK
