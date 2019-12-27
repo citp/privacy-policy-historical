@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallstcheatsheet.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624045843id_/https%3A//www.cheatsheet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstcheatsheet.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227015940id_/https%3A//www.cheatsheet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,9 +55,13 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Third party cookies**
+**Third party cookies** **and personalized ads**
 
 Third parties may use cookies, web beacons, and similar technologies to collect or receive information on this website and elsewhere on the internet and use that information to provide measurement services and target ads. There are several options available to you would prefer to opt-out of the collection and use of information for ad targeting.
+
+If ad personalization is enabled in your Google account, your information will be used to determine what ads are being served to you, ensuring that they are relevant and timely. However, if ad personalization is disabled, Google will not collect or use your information to serve you personalized ads. You will still see ads but they will not be customized for you.
+
+We encourage you to visit Google directly to learn more about [Ad Personalization](https://policies.google.com/technologies/partner-sites) and how you can control the use of your personal information through your Google account.
 
 Please visit the following links for more information and to opt-out:
 
@@ -71,6 +75,32 @@ Please visit the following links for more information and to opt-out:
 
 We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
+**CCPA Notice**
+
+This section contains information required by The California Consumer Privacy Act of 2018 (“the CCPA”) .
+
+When you visit our site we collect the following information:  
+
+  * information automatically collected from your device and browser
+  * location information
+  * information from Analytics and Advertising partners 
+
+
+
+Some of this information includes Personal Information such as online identifier or IP address, Geolocation data, Internet activity relating to your use of the site. 
+
+We share this information with our trusted Advertising partners to deliver ads tailored to your interests. The transfer of your information to such partners may be considered a “sale” under CCPA.  You have the right to opt-out of the sale by using “Do Not Sell My Personal Information” link.   
+
+Opting out of the sale of personal information does not mean that you will stop seeing ads. Opting-out is done on the device/browser level.  If you would like to learn more about interest-based advertising across sites you may visit the following industry opt-out links: 
+
+<http://optout.aboutads.info/#/>
+
+<http://optout.networkadvertising.org/#>
+
+<http://www.aboutads.info/appchoices>
+
+In the event you opt out of sale for purposes of CCPA, but don’t opt-out of interest based advertising more generally (using the links above) you may receive ads tailored to your interests based upon Personal Information (a) not sold by the publisher (b) sold to downstream participants at least 90 days before you opted out (c) sold by other sources from which you haven’t opted out.
+
 **Your Consent**
 
 By using our site, you consent to our Terms of Service.
@@ -79,7 +109,7 @@ By using our site, you consent to our Terms of Service.
 
 If we decide to change our Privacy Policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This Privacy Policy was last modified on 5/28/2019.
+This Privacy Policy was last modified on December 23, 2019.
 
 **Contacting Us**
 
