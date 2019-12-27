@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the cricketwireless.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130004831id_/https%3A//www.cricketwireless.com/legal-info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketwireless.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227065352id_/https%3A//www.cricketwireless.com/legal-info/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Cricket
+# Privacy Policy | Cricket Wireless
 
-[](https://espanol.cricketwireless.com/privacy "privacy policy in Spanish")  | [](https://web.archive.org/content/dam/newco/legal/cricket-wireless-privacy-policy-chinese.pdf "privacy policy in Chinese")  |  [](https://web.archive.org/content/dam/newco/legal/cricket-wireless-privacy-policy-korean.pdf "privacy policy in Korean")  |  [](https://web.archive.org/content/dam/newco/legal/cricket-wireless-privacy-policy-polish.pdf "privacy policy in Polish")  |  [](https://web.archive.org/content/dam/newco/legal/cricket-wireless-privacy-policy-portuguese.pdf "privacy policy in Portuguese") |  [](https://web.archive.org/content/dam/newco/legal/cricket-wireless-privacy-policy-vietnamese.pdf "privacy policy in Vietnamese")
+SIM Card Setup
 
-#### Effective May 21, 2017, Cricket Wireless Privacy Policy was updated. [View the previous version >](https://web.archive.org/legal-info/privacy-policy-old.html "view the previous privacy policy")
-
-* * *
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=491f7a65-6c4c-4baa-b9b0-7fc3060ce164)
+[](https://espanol.cricketwireless.com/privacy "privacy policy in Spanish") | [](https://web.archive.org/entassets/cricket-wireless-privacy-policy-chinese_revised_032619.pdf "privacy policy in Chinese") | [](https://web.archive.org/entassets/cricket-wireless-privacy-policy-korean_revised_032619.pdf "privacy policy in Korean") | [](https://web.archive.org/entassets/cricket-wireless-privacy-policy-polish_revised_032719.pdf "privacy policy in Polish") | [](https://web.archive.org/entassets/cricket-wireless-privacy-policy-portuguese_revised_032619.pdf "privacy policy in Portuguese") | [](https://web.archive.org/entassets/cricket-wireless-privacy-policy-vietnamese_revised_032619.pdf "privacy policy in Vietnamese") | [](https://web.archive.org/entassets/cricket-wireless-privacy-policy-tagalog-updated-20190321.pdf "privacy policy in Tagalog")
 
 #### Application of Policy
 
@@ -20,9 +16,7 @@ Whenever you do something like buy one of Cricket Wireless ("Cricket") products 
 
 * * *
 
-Effective May 21, 2017
-
-Last Updated: June 16, 2016
+Last Updated: March 15, 2019
 
 * * *
 
@@ -81,7 +75,7 @@ Some examples of who we share your Personal Information with:
   * **Affiliated companies.** Cricket is an AT&T company and we share your Personal Information with AT&T and other companies in the AT&T family, commonly referred to as affiliates, for a variety of purposes, including the marketing of products and services to you. 
     * Cricket already offers you certain choices and controls about marketing and advertising here. If you opt-out through these options, AT&T and its affiliates will also honor that opt-out with respect to personal information they may receive from Cricket for advertising or marketing purposes. If you are also an AT&T customer, making a choice here will not change any existing choices you may have made separately with AT&T.
   * **Other companies** that perform services on our behalf only as needed for them to perform those services. We require them to protect your information consistent with our Policy.
-  * **Other companies and entities, to** :
+  * **Other companies and entities, to** : 
     * Respond to 911 requests and other emergencies or exigencies;
     * Comply with court orders and other legal process;
     * Assist with identity verification, and preventing fraud and identity theft;
@@ -110,7 +104,7 @@ Our commitment to protecting your data
 
 Our Online Privacy Policy for Children
 
-  * We want you to know that we don't knowingly collect personally identifying information from anyone under the age of 13 unless we first obtain permission from the child's parent or legal guardian.
+  * We want you to know that we don't knowingly collect personally identifying information from anyone under the age of 13.
 
 
 
@@ -134,7 +128,8 @@ More information about our use of CPNI and your choices about that use is availa
   * Customer Controls & Choices
   * Online Privacy Policy for Children
   * Data Protection & Security
-  * Changes
+  * Changes  
+ 
 
 
 
@@ -144,8 +139,7 @@ California Civil Code Section 1798.83 entitles California customers to request i
 
 #### California Web Site Data Collection & "Do Not Track" Notices
 
-Web Site Data Collection: We do not knowingly allow other parties to collect personally identifiable information about your online activities over time and across third-party web sites when you use our websites and services. Cricket provides information about the opt-out choices it makes available [here](https://info.evidon.com/pub_info/7723 "opt-out choices").  
-
+Web Site Data Collection: We do not knowingly allow other parties to collect personally identifiable information about your online activities over time and across third-party web sites when you use our websites and services. Cricket provides information about the opt-out choices it makes available [here](https://info.evidon.com/pub_info/7723 "opt-out choices").
 
 "Do Not Track" Notice: Because the providers of "do not track" and similar signals do not yet operate according to common, industry-accepted standards, Cricket currently does not respond to those signals. For more information on Do Not Track, please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/ "All about Do Not Track").
 
@@ -155,7 +149,7 @@ California customers who wish to request further information about our complianc
 
 ## Our Cricket Privacy Policy in easy, FAQ format.
 
-We understand that everyone thinks that privacy policies are long, complicated and difficult to understand. So we're going to try to make this as simple as possible. ****
+We understand that everyone thinks that privacy policies are long, complicated and difficult to understand. So we're going to try to make this as simple as possible.
 
 #### **DEFINITIONS**
 
@@ -234,7 +228,7 @@ Technical & Usage Information related to the services we provide to you, includi
   * **Equipment Information** that identifies your equipment on our network, such as equipment type, device IDs, device status, serial numbers, settings, configuration, and software.
   * **Network Performance & Usage Information** about the operation of the equipment, services and applications you use on our network.  Examples of this might include wireless device location, the number of text messages sent and received, voice minutes used, bandwidth used, and resources you use when uploading, downloading or streaming data to and from the Internet.  
   * Some Network Performance & Usage Information and some Billing Information is  **Customer Proprietary Network Information or "CPNI."**  CPNI  is information that relates to the quantity, configuration, type, destination, location and amount of use of the telecommunications services you purchase from us, as well as the information contained in your bills for those services. We collect CPNI in the normal course of providing you with telecommunications services. Your telephone number, name and address are not CPNI.
-  * **Web Browsing & Mobile Application Information **such as IP addresses, URLs, data transmission rates and delays.  We also learn about the pages you visit, the links or advertisements you see and follow, the search terms you enter, how often you open an application, how long you spend using the app, and other similar information.
+  * **Web Browsing & Mobile Application Information **such as IP addresses, URLs, data transmission rates and delays.  We also learn about the pages you visit, the links or advertisements you see and follow, the search terms you enter, how often you open an application, how long you spend using the app, and other similar information. 
     * **Social Media Widgets** such as the Facebook button or widget such as the Share this button or other interactive mini-programs that run on our Web site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
     * If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Cricket stores this information for the sole purpose of sending this one-time email, and tracking the success of our referral program.
   * **Location Information** includes the whereabouts of your wireless device as well your ZIP-code and street address. Location information is generated when your device communicates with cell towers, Wi-Fi routers or access points and/or with other technologies, including the satellites that comprise the Global Positioning System.  
@@ -271,7 +265,7 @@ Delivering customized content, Relevant Advertising and personalized offers for 
 
 ##### 4\. Do you use the information I store using your cloud services?
 
-If we provide cloud services, we will only use the information you store to provide you with that service, unless we first get your permission to use it for something different. ****
+If we provide cloud services, we will only use the information you store to provide you with that service, unless we first get your permission to use it for something different.
 
 #### QUESTIONS ABOUT INFORMATION SHARING
 
@@ -310,10 +304,10 @@ Our advertising partners may also use anonymous information gathered through coo
 Let's start with what we mean when we use the word "cookie" and other related terms:
 
   * Cookies are small data files. Websites place them in your browser to recognize your computer or mobile device when you return to that site. Cookies are created to keep track of your movements within the site, help you resume where you left off, remember your registered username, preferences and other customizations.
-  * There are a couple of important things to remember about cookies:
+  * There are a couple of important things to remember about cookies: 
     * Disabling cookies may prevent you from using specific features on some websites. You'll need to perform the opt out procedure if you opt out of a program or service and then change computers or Web browsers, or clear or erase the digital "cookie" that lets us know you opted out.
     * Local Storage Cookies. Local Storage is a convenient, flexible, secure and faster way to store HTTP state data. It is a method by which our web pages locally store named key/value pairs in a user's web browser. Local storage on ATT.com is mainly used to store and retrieve data in HTML pages from our domains. Local storage data is session-based and will not persist once the session is over and the browser is closed.
-  * Flash Cookies (also called Local Shared Objects or "LSOs") are data files similar to cookies, except that they can store more complex data. They are used to remember your settings, preferences and usage, and other similar services. Flash cookies allow functionality and availability of certain services. If disabled, these services may not function correctly. While browser cookies may be removed or blocked via web browser settings, flash cookies operate differently. Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications. To learn more about how to manage flash cookies, you can visit the Adobe website and make changes at Global Storage Settings Panel (<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>).
+  * Flash Cookies (also called Local Shared Objects or "LSOs") are data files similar to cookies, except that they can store more complex data. They can be used to remember your settings, preferences and usage, and other similar services. Flash cookies allow functionality and availability of certain services. If disabled, these services may not function correctly. While browser cookies may be removed or blocked via web browser settings, flash cookies operate differently. Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications. To learn more about how to manage flash cookies, you can visit the Adobe website and make changes at Global Storage Settings Panel (<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>).
   * Web beacons are small graphic images on a Web page or in an email. They can be used for things like recording the pages and advertisements that users click on, or tracking how well an e-mail marketing campaign performs.
   * A widget is a small program or application that can be embedded in a web page. It can provide real-time information, such as stock quotes or weather reports. Widgets are often provided by a third party and allow them to collect data about users viewing that page.
   * A server log records your web activity by your computer or mobile device and plays a key role in improving web page performance and introducing new features. For example, it may record which search terms you've entered, or the links you've clicked on. It may also record your browser information, such as your IP address, device type, how long you spend on a Web page, and your browser's cookies.
@@ -336,8 +330,9 @@ To learn how to manage cookies for:
     * [Firefox (Mobile devices)](https://support.mozilla.org/en-US/kb/firefox-android-tracking-protection "block cookies on firefox mobile") 
     * [Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647 "block cookies on chrome") 
     * [Chrome (Mobile devices)](https://support.google.com/chrome/answer/2392971?hl=en "block cookies on chrome mobile")
-  * Flash Player
-    * <http://www.adobe.com/products/flashplayer/security/>
+  * Flash Player 
+    * <http://www.adobe.com/products/flashplayer/security/>  
+ 
 
 
 
@@ -380,7 +375,7 @@ Exactly what it sounds like! It includes your ZIP-code and street address, as we
 We use it in all kinds of ways, here are some examples:    
 
   * **We Provide Wireless Voice and Data Services:** We monitor, collect and use wireless location information, together with other information we get from our network and your wireless device, to maintain and improve our network. We also might use location information with your consent to provide you with a customized experience. For example, if we provide 411 Directory Assistance and you dial the telephone number for a particular business; we might use your wireless location information to return the number of the business location closest to you.
-  * **Location Based Services (LBS):** Your device can be used to access a ton of services based on location. We offer these services via applications that have been pre-loaded or downloaded by you on your device. LBS also may be provided via text message or other functionality.  We'll give you prior notice and ask for your consent when your location is used or shared. The form of consent may vary, but will be appropriate for the type of Cricket LBS you use.  
+  * **Location Based Services (LBS):** Your device can be used to access a ton of services based on location. We offer these services via applications that have been pre-loaded or downloaded by you on your device. LBS also may be provided via text message or other functionality.  We'll give you prior notice and ask for your consent when your location is used or shared. The form of consent may vary, but will be appropriate for the type of Cricket LBS you use. You can disable location sharing for these applications in your device settings. 
   *  We use it for  **Advertising**.
 
 
@@ -448,7 +443,7 @@ We may use your anonymous information to provide Metrics Reports to our service 
 
 ##### 1\. Do you collect information about my children's use?
 
-We do not knowingly collect personally identifying information from anyone under the age of 13 unless we first obtain permission from the child's parent or legal guardian.
+We do not knowingly collect personally identifying information from anyone under the age of 13.
 
 ##### 2\. What happens when my child is using an account not registered to them?
 
@@ -540,7 +535,8 @@ Yes. Click [here](https://web.archive.org/legal-info/customer-choices-and-contro
   * Email us at [privacypolicy@cricketwireless.com](mailto:privacypolicy@cricketwireless.com "privacy policy email address")
   * Write to us at Cricket Privacy Policy, 1120 20th Street, N.W., 10th Floor, Washington, DC 20036.
   * For questions not related to privacy [Contact our Customer Service team](https://web.archive.org/contactus.html "contact us"). You also can [access your online account](https://web.archive.org/my-account.html "access your online account") for additional service options.
-  * If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider at <https://feedback-form.truste.com/watchdog/request>. If you are not satisfied with our resolution of any dispute, including with respect to privacy or data use issues, please view our dispute resolution procedures at <http://www.att.com/disputeresolution>.
-  * You also have the option of filing a complaint with the FTC Bureau of Consumer Protection, using an [online form](https://www.ftccomplaintassistant.gov/ "FTC online form"), or by calling toll-free 877.FTC.HELP (877.328.4357; TTY: 866.653.4261). Other rights and remedies also may be available to you under federal or other applicable laws.
+  * If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider at <https://feedback-form.truste.com/watchdog/request>.
+  * If you are not satisfied with our resolution of any dispute, including with respect to privacy or data use issues, please view our dispute resolution procedures at <http://www.att.com/disputeresolution>.
+  * You also have the option of filing a complaint with the FTC Bureau of Consumer Protection, using an [online form](https://www.ftccomplaintassistant.gov/ "FTC online form"), or by calling toll-free 877.FTC.HELP (877.382.4357; TTY: 866.653.4261). Other rights and remedies also may be available to you under federal or other applicable laws.
 
 
