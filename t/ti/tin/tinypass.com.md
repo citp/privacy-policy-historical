@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tinypass.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628205428id_/https%3A//piano.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinypass.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227121517id_/https%3A//piano.io/privacy-policy) for the most accurate reproduction.*
 
-# Piano — Privacy Policy
+# Piano • Privacy Policy
 
 EFFECTIVE AS OF Apr 1, 2019
 
@@ -314,11 +314,11 @@ You can control and/or delete cookies as you wish – for details, see [aboutcoo
 
 The above has been implemented into individual EU member state laws differently. For example, in some EU member states the consent can be provided by setting of the internet browser (allow cookies), in other EU member states this there is a requirement for opt-in consent. It seems that the proposal for the e-Privacy regulation will regard web browser setting a cookies consent pursuant to the GDPR. Naturally, responsibility to comply with the relevant EU member state regulation of cookies remains on the Publisher who operates the website for which Piano Software is used.
 
-Archive of Policies  
-[Privacy Policy – Effective from May 23, 2018 - Nov 30, 2018](https://web.archive.org/privacy-policy-archive)   
-[Privacy Policy – Effective from Dec 01, 2018 - Feb 14, 2019](https://web.archive.org/privacy-policy-archive-12-01-18)
+Archive of Policies
 
-[Privacy Policy – Effective from Feb 15, 2019 - Mar 01, 2019](https://web.archive.org/privacy-policy-archive-02-15-19) [/post-description]
+[Privacy Policy – Effective from May 23, 2018 - Nov 30, 2018](https://web.archive.org/privacy-policy-archive)   
+[Privacy Policy – Effective from Dec 01, 2018 - Feb 14, 2019](https://web.archive.org/privacy-policy-archive-12-01-18)   
+[Privacy Policy – Effective from Feb 15, 2019 - Mar 01, 2019](https://web.archive.org/privacy-policy-archive-02-15-19)
 
 Notifications should be sent to the following:
 
