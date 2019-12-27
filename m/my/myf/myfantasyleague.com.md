@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624185434id_/http%3A//home.myfantasyleague.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227220245id_/http%3A//home.myfantasyleague.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MyFantasyLeague.com
+# Privacy Policy – MyFantasyLeague.com
 
 **Our Commitment To Privacy:**  
 ---  
