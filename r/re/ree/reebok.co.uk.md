@@ -1,221 +1,1662 @@
-> *The following text is extracted and transformed from the reebok.co.uk privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029201924id_/https%3A//www.reebok.co.uk/help-topics-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reebok.co.uk privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227022341id_/https%3A//www.reebok.co.uk/help-topics-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
-Reebok is a brand of adidas AG and an affiliate of adidas International Trading B.V.
+**Privacy Notice**
 
-At adidas, privacy means fair play and transparency. This Privacy Notice provides you information about how your personal details are used on <https://www.reebok.co.uk/> for the purpose of informing and selling you our products and services as well as maintaining, improving and managing our products and services in order to provide you with the best adidas experience whenever you interact with us in the digital world online or through mobile apps, as well as in the real world when you visit our stores.
+valid as of 2 October 2019
 
-In accordance with European General Data Protection Legislation (“GDPR”) and local applicable laws, this Privacy Notice provides you information on how adidas collects, uses, protects, keeps, shares and deletes (collectively, we call it “process” or “processing” in this Privacy Notice) your personal details. We also provide you information about how you can contact us to exercise your rights under local law.
+**_Reebok is a brand of adidas AG (Adi-Dassler Strasse 1, 91074 Herzogenaurach, Germany)._**
 
-## YOUR ADIDAS DATA CONTROLLER(S)
+******1.** **      ****What does this Privacy Notice tell you?** ****
 
-By visiting <https://www.reebok.co.uk/>, you will be purchasing adidas products from adidas (UK) Limited, and having your information processed by adidas International Trading BV who is the operator of this website. If you wish to sign up to our newsletter by submitting your information to this website, or to keep up-to-date with the latest adidas developments, you may be contacted by adidas (UK) Limited, adidas International Trading BV and other adidas affiliate entities where our product information would be most relevant to your current location. Your information will also be shared with adidas AG which is the parent company of all adidas affiliate entities. Please visit our [adidas legal entities page](http://www.adidas.co.uk/legal_entities.html) for details of the adidas data controllers responsible for processing your personal details on this website.
+**2.** **      ****Who are the Reebok Data Controllers?** ****
 
-## GLOBAL DATA PROTECTION OFFICER
+**3.** **      ****How do you get in touch with the Data Protection Officer for the Reebok Data Controllers?** ****
 
-Dr. Falk Böhm is the Global Data Protection Officer for adidas AG, adidas International Trading BV, and adidas (UK) Limited.
+**4.** **      ****What Personal Data does Reebok collect and use (Categories of Personal Data)?** ****
 
-+49 (0) 9132 84 - 0
+**5.** **      ****What does Reebok do with your Personal Data and why (Purpose,   Processing, Legal Basis)?** ****
 
-[DataProtection@adidas-group.com](mailto:DataProtection@adidas-group.com)
+I.     SITE (REEBOK DOMAIN) OPERATION AND APP OPERATION
 
-ADIDAS AG
+II.       DOMAIN AND NETWORK SECURITY AND USER AUTHENTICATION
 
-Adi-Dassler-Strasse 1
+III.      GLOBAL CREDENTIAL TO ALL ADIDAS PLATFORMS – USER EXPERIENCE
+
+IV.      SALES OF REEBOK PRODUCTS - ONLINE AND OFF-LINE ORDER
+
+V.    PAYMENT FRAUD DETECTION
+
+VI.      PRODUCT DELIVERY
+
+VII.     ELECTRONIC DELIVERY TRACKING
+
+VIII.    BUSINESS OPERATIONAL ANALYTICS
+
+IX.      CUSTOMER SERVICE
+
+X.    PERSONALISED MARKETING MESSAGES VIA EMAIL (Newsletter Sign-Up)
+
+XI.      PERSONALISED MARKETING MESSAGES VIA EMAIL (via existing contract)
+
+XII.     TARGETED MESSAGES ON 3RD-PARTY ADVERTISING PLATFORMS
+
+XIII.    REEBOK UNLOCKED | REEBOKONE MEMBERSHIP ADMINISTRATION – WHERE APPLICABLE
+
+XIV.    PRIVATE EVENT REGISTRATION
+
+XV.     OPEN EVENT REGISTRATION
+
+XVI.    PRODUCT RESEARCH AND DEVELOPMENT
+
+XVII.       LEGAL OBLIGATION - COOPERATION WITH LAW ENFORCEMENT AND REGULATORY AUTHORITIES (INCLUDING COURTS)
+
+XVIII.     COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES (“COOKIES NOTICE”)
+
+XIX.    USER-GENERATED CONTENT (UGC) ACQUISITION FROM SOCIAL MEDIA
+
+XX.     PUSH NOTIFICATIONS (IN-APP COMMUNICATION)
+
+**6.** **      ****What does Reebok do when we transfer your Personal Data outside of the EU/EEA?** ****
+
+**7.** **      ****How do we secure your Personal Data?** ****
+
+**8.** **      ****What are your rights and how can you exercise them?** ****
+
+**9.** **      ****Questions, Complaints, and Support – who and how you can get in touch with them?** ****
+
+**10.** **       ****Updates and Notification of Updates** ****
+
+**11.** **       ****Reebok Data Recipients** ****
+
+  1. What does this Privacy Notice tell you?
+
+
+
+This Privacy Notice tells you how we collect and process the information from which you can be identified directly or indirectly (“ **Personal Data** ”) while you browse <https://www.reebok.co.uk/> as well as when you interact with our different platforms, portals and applications using your Personal Data, including the Reebok app. 
+
+This Privacy Notice provides information on: 
+
+  1. Reebok Data Controllers; 
+  2. Data Protection Officer; 
+  3. the different types of Personal Data we use (“ **Categories of Personal Data”)**
+  4. why and how we use your Personal Data (“ **Purpose** ”; “ **Processing”** ; “ **Lawful basis”** ); 
+  5. how long your Personal Data is kept (“ **Retention period** ”); 
+  6. other recipients of your Personal Data (“ **Recipients** ”); 
+  7. transferring your Personal Data out of the Country (“ **International Data Transfer** ”);  
+  8. your rights under the EU General Data Protection Regulation (“ **GDPR** ”) and **applicable local law;** and
+  9. any automated decision-making technologies used by us and how it works (where necessary). 
+
+
+  2. Who are the Reebok Data Controllers?
+
+
+
+These are the Reebok Data Controllers responsible for protecting your Personal Data and complying with GDPR and national legislation governing the use of your Personal Data. They jointly determine how your Personal Data is used by Reebok for the purposes identified in the Reebok Privacy Notice (“Joint Controllers”).
+
+  * **adidas AG** \- Adi-Dassler Str. 1, 91074 Herzogenaurach, Germany **(“adidas AG”)**
+  * **adidas Business Services B.V.** \- Adi-Dassler Str. 1, 91074 Herzogenaurach, Germany ****
+  * **adidas (UK) Limited** **-** Pepper Road, Hazel Grove, The adidas Centre, Stockport, Cheshire, SK7 5SA, England ******(“Local Selling Entity”)**
+
+
+
+For the purposes of
+
+  * **Sales of Reebok products – online and off-line order**
+  * **Product research and development**
+
+
+
+the legal entities identified below form Joint Controllers:
+
+  * **adidas AG**
+  * **adidas International Trading** **AG** \- Am Platz 10, 6039 Root D4, Switzerland
+  * **Local Selling Entity** ****
+
+
+  3. Who is the Data Protection Officer for the Reebok Data Controllers?
+
+
+
+[**DataProtection@adidas.com**](mailto:DataProtection@adidas.com) ****
+
+**Global Privacy | Data Protection Officer**
+
+**adidas AG**
+
+Adi-Dassler-Straße 1
 
 91074 Herzogenaurach
 
 Germany
 
-## YOUR PERSONAL DETAILS
-
-### what personal details are we collecting from you and WHAT WE DO WITH IT?
-
-  * **Identity information** – this is information we use to identify and make sure you are who you claim to be. This includes: name [first, last, initials], Date of Birth, e-mail address, unique consumer number, nickname, password, social media identifiers, and your device fingerprint.
-
-
-  * **Community information** – this is information we use to make sure you can make the most out of adidas communities, such as registering for events and participating in events. This includes for example: pictures, videos, your nickname, your team, your interests and preferences, your feedback, leaderboards, event participation, joined groups.
-
-
-  * **Contact information** – this is information we use to reach out to you in order to send you your adidas products, provide you with promotional information, share with you what is happening at adidas, and answer your queries and concerns. This includes for example: phone number, shipping and billing address, e-mail address, Messenger ID, social media name.
-
-
-  * **Social Media information** – this is information we use to understand you better, in order to build a better relationship with you as an adidas consumer, create products that you will like, and focus our marketing efforts on messages which you will consider helpful and interesting (based on your online behaviour), as well as optimising your social media interactions with adidas and other adidas community members. This includes any social media information that is publicly available such as [but not limited to]: social media handles, social media interactions and postings, your “Likes” and other reactions, your social media connections, your photos. This information is provided to us by the social media network (e.g. Facebook, Snapchat, Instagram, etc.) directly or indirectly through agencies we have agreements with.
-
-
-  * **Location information** \- this is information we use to make sure we provide you with the most relevant information based on your geographical location. This includes for example: your residential location, current log-in location [IP address], GPS data.
-
-
-  * **Device information** – this is information we use to secure our network and improve our services and performances. This includes for example: IP address, date and time of the visit, how long you remained on our website, the referral URL (if you came to our site via a different site or an advertisement), the pages visited on our site, your browser type, device type, versions, operating system.
-
-
-  * **Size information** – this is information we use to make sure your gear fits you just perfectly. This includes for example: shoe size, clothes size, height, weight, chest, waist, hip, inseam, body shape, heel-toe measurement.
-
-
-  * **Activity information** \- this is information we use to help you improve your performance and exercise experiences, and identify what products might be best for you. This includes for example: fitness data (for example workout start and end times, activity type, sports category), sensor data (for example step goal, duration, pace, distance, calories, RunScore and speed), and other data related to your fitness app.
-
-
-  * **Purchase information** – this is information we use to process your order. This includes for example: your shopping cart, payment information (credit card number), payment risk profile, delivery details, shipping and billing address, customer order number, purchase history with adidas.
-
-
-  * **Health information** – this is information which relates to your physical or mental condition. We do not collect this type of personal details without informing you and obtaining your consent.
-
-
-  * **Correspondence** \- this is information we use for quality control purposes, and to make sure we have complied with your requests or legal requirements. This includes for example: recordings of your call to our customer service centre, notes on your Feedback, related call backs, e-mail correspondence with adidas personnel, postal correspondence with adidas personnel.
-
-
-  * **Behavioural/Profile information** – this is information we use to make sure we communicate only information that is relevant to you, provide you with the best adidas deals and offerings which you would be interested in, and to maximise your experience as an adidas member in our online or offline communities. This includes for example: your shopping history, Wishlist items, your browsing behaviour), your browsing preferences, your shopping preferences, in-store interactions, your workout history.
-
-
-  * **Preference information** – this is information we use to make sure you have the best adidas experience whenever we interact. This includes for example: preferred language, Wishlist items, preferred shipping address, browsing preferences, our correspondence with you, your adidas product reviews.
+  4. What Personal Data does Reebok collect and use (Categories of Personal Data)?
 
 
 
-## PURPOSES
+These are the categories of Personal Data we collect directly or indirectly from you: 
 
-### WHY ARE WE USING YOUR PERSONAL DETAILS?
-
-Ultimately, we use your personal details to provide you with the best consumer experience you could have with adidas, and we constantly work on improving that experience so you will continue to love our brand and products, and remain a member of the adidas community worldwide. 
-
-More specifically, we use our personal details to do the following:
-
-  * **To sell you our products and services   - **We use your personal details to process your purchase order, make sure your payment is received, comply with the requirements under our Terms and Conditions (for selling you the products), deliver products you ordered, exchange products for you if necessary, and refund you if necessary.
-
-
-  * **To inform you about our products and services -  **We use your personal details to send you alerts and updates about our Products and Services based on your preferences, interests, participations and communities. When you purchase our products, we will be contacting you without your separate consent to provide you information about our products and services (Service E-Mails). This is considered our “legitimate business interest” in order to make sure our business continues to thrive.
-
-
-  * **To store your personal details   - **We will store your personal details until you tell us to delete them. If you have been inactive (counting from your last Log-In) for 25 months we will anonymize your personal details.
-
-
-  * **To protect our products and services -  **As a business, we can only continue to thrive if we vigorously protect our corporate and business interests. This includes making sure that the orders and payments are legitimate (fraud prevention), our research and development is heading into the right direction, our marketing strategies target the right audience with the right messages. As our consumer, your details will be used to help us achieve these goals in order to continue providing you with the best products and experiences. This is considered our “legitimate business interest” in order to make sure our business continues to thrive. 
-
-
-  * **To deliver first-class experience to you continuously -  **We collect and store certain information from you and from your devices, terminal equipment, and browsers (such as using a “cookie”, pixel tag or any other targeting technology. This allows us to remember how you prefer to browse and shop on our sites. It also allows us to present you with the relevant information tailored to your needs. You can find more information about how we use online tracking technologies such as Cookies, tags, and other codes from the “Cookies” section.
-
-
-  * **To maintain your products and services -  **We use your details to maintain your adidas account. Through our global single sign on, you can use the same details to log in anywhere in the world. This also includes maintaining your details as a member of adidas communities around the world. As a non-member, your account will be primarily maintained for the purposes of completing your order; as a member, we will be maintaining your account to complete your orders, maintain your points, organise community events for you, and allow you to have more interactions with adidas as an adidas member. In addition to the identity information you provide to us, if you choose to log in using your social media credentials, we will also have access to your social identifier.
-
-
-  * **To run, improve and manage our products and services -  **We take appropriate technical and organisational measures to protect personal details against accidental, unlawful destruction or accidental loss, alteration, unauthorised use, disclosure or access, in particular where the processing involves the transmission of data, and against all other unlawful forms of processing and misuse.
-
-
-
-## ADIDAS
-
-### WITH WHOM DO WE SHARE YOUR PERSONAL DETAILS WITH?
-
-In order to provide you with the best adidas experience, we always share your details with adidas AG as well as adidas affiliate entities so we can continue to improve as a brand. You can find out where our affiliate entities are located [HERE](http://www.adidas.co.uk/legal_entities.html).
+  * **Identity information** – includes: name [first, last, initials], Date of Birth, e-mail address, unique consumer identifier number (including your Reebok UNLOCKED | ReebokONE membership number), nickname, password, social media identifiers and information passed along to us via your Facebook or Runtastic account, your device fingerprint, and gift card codes that are assigned to you. We use it to verify your identity. 
 
   
-We also share the personal details you provide to us with these service providers who help us provide you the best experience possible.
+---  
+  
+  * **Contact information** \- includes: your phone number, shipping and billing address, e-mail address, Messenger ID, social media handle, any other communication channel you have used to contact us for more information. We use it to contact you for different reasons depending on the purposes stated below. ****
 
   
-You can find their details (including where their main company is located) HERE.
-
-In order to be a responsible corporate citizen, we may be required to share your details with the following type of entities (as permissible and required by law):
-
-  * **Authorities and law enforcement   - **Government authorities and/or law enforcement officials if required for the purposes identified in this notice, if mandated by law or if required for the legal protection of our legitimate interests in compliance with applicable laws.
-
-
-  * **Partners -  **We may run joint programmes, events or promotions with other companies on its websites or applications. Our partner will only use your personal details, if we have your consent for them to do so. If you do not wish to have your personal details collected by, or shared with a company other than adidas, you can always choose not to participate in such programs, promotions or events.
-
-
-  * **Prospective purchasers’ adviser   - **In the event that the business is sold or integrated with another business, your personal details will be disclosed to our advisers and any prospective purchaser’s advisers, and to the new owners of the business.
-
-
-
-## PERSONAL DETAILS TRANSFER
-
-### where do we transfer your personal details?
-
-We share your personal details with processors outside your country after having made our assessment and having them sign our standard contractual clauses. You can find out where we transfer your personal details to HERE.
-
-## LEGAL BASIS
-
-### what is the legal basis for us to use your personal details as described?
-
-  * **Your consent   - **When you sign up, purchase products, participate in our communities or create an account, you consent to us using the personal details you provide to carry out the purposes we identified to you in accordance with this Notice. We store that we have your permission to use your personal details in a particular manner. This includes for example your consent to receive marketing communications, your consent to us sharing your data with third-parties, your consent to us transferring your data to a different location.
-
-
-  * **Contractual obligations -  **We will process and use your personal details to fulfil our contractual obligations so we can provide you with your requested products and services.
-
-
-  * **Legitimate interests -  **We will process and use your personal details to carry out and improve our products and services, sending you marketing communications, research and development questionnaires.
-
-
-  * **Compliance with laws -  **We will process and use your personal details to comply with legal obligations under applicable laws.
-
-
-
-## YOUR RIGHTS
-
-### and how you can exercise them?
-
-As a consumer located in Ireland, you have the following rights to your personal details according to GDPR. However, you should know that we will comply according to the extent that the law requires us to; in some cases, where it is legally required for us to keep your details the way it is, we will decline to comply with your requests. In this case, we will provide you with our reasons.
-
-  * **Access your personal details -  **You have the right to request access to your personal details. This also includes information about:
-
-
+  
+  * **Location information** - **** includes: your residential location, current log-in location [IP address], GPS location (if you wish to share us, for example through your mobile device settings), or the specific Reebok site you have visited that might give us clues about where you are. We use it to help you find what you are looking for at your current location. ****
 
   
-a) why we have your personal details;
+  
+  * **Size information** \- includes: shoe size, clothes size, height, weight, chest, waist, hip, inseam, body shape, heel-toe measurement. We use it to make sure your gear fits. ****
 
   
-b) what categories of data we have;
+  
+  * **Purchase information** - **** includes: your payment information (credit card number), payment risk profile (provided to us by our payment risk solution), shopping cart (your ordered items), delivery details, shipping and billing address, customer order number, purchase history with Reebok, transaction ID, and any other information related to your purchase. We use it to complete your order on Reebok sites and apps, in Reebok stores, or other selling platforms. ****
 
   
-c)  what we do with your personal details;
+  
+  * **Behavioural and Profile information** \- includes: your shopping history, Wishlist items, your browsing behaviour, your browsing preferences, your shopping preferences, in-store interactions, your workout history, product reviews, social media interactions with us, and any other intelligence we have about you to help us learn you as a consumer better, including “Community information”. We use it to know you better as a consumer, so we can send you marketing messages containing only products and services that we think you might be interested in. ****
 
   
-d) who has access to your personal details (and where they are);
+  
+  * **Community information** – includes: information provided by you when you participate various Reebok events and communities either as a trainer, team member, a participant or as a promotor of our events, including for example: pictures, videos, your nickname, your team, your interests and preferences, your feedback, leader boards, event participation, joined groups, and registration details. We use this information to organise the events and communities, and to know more about you as a consumer. ****
 
   
-e) where your personal details might be transferred to;
+  
+  * **Social Media information** – includes: information obtained through your interaction with us on various social media channels such as Facebook, Instagram, Google, etc., including: any social media information that is publicly available such as your social media handles, social media interactions and public postings, your “Likes” and other reactions, your social media connections, your photos that are public, or those you send to us by mentioning us or following our social media posts by using “handles” or “hashtags”. We obtain this information from the social media network (e.g. Facebook, Snapchat, Instagram, etc.) directly or indirectly through third-party agencies we have agreements with. ****
 
   
-f) how long we are keeping your personal details;
+  
+  * **Device information** – includes: Information about your device or browser that give us an idea about your browsing behaviour or device usage. Your device information is collected by our app, and your browser information is collected by our cookies, tags, and pixels. This is often required for network security purposes. This includes, but not limited to: IP address, date and time of the visit, how long you remained on our website, the referral URL (if you came to our site via a different site or an advertisement), the pages visited on our site, your browser type, device type, versions, operating system. ****
 
   
-g) if you didn’t provide your personal details directly to us, how did we get them;
+  
+  * **Activity information** \- includes: fitness data (for example workout start and end times, activity type, sports category), sensor data (for example step goal, duration, pace, distance, calories, heartbeat, RunScore and speed), and other data related to your fitness app. We use it to help you improve your performance goals and improve your user experiences and identify what products might be best for you based on your exercise patterns. ****
 
   
-h) your rights under applicable laws and the possibility to restrict processing; and
+  
+  * **Correspondence** – includes: conversation we have when you contact customer service, the emails you write us about our products or services, the complaints you address to us via post, e-mail, fax, or call, notes we prepared on your feedback, call back from our Customer Service to you, and any other communication between you and Reebok personnel. We record all Customer Service calls for quality assurance purposes. ****
 
   
-i) if we use your personal details for any automated-decision making, and how we do it.
+  
+  * **Preference information** \- includes: preferred language, log-in location, Wishlist items, preferred shipping address, browsing preferences, our correspondence with you, your Reebok product reviews. We use it to give you convenience when you visit and/or shop on our sites and apps. ****
+
+
+  * **Reebok UNLOCKED | ReebokONE information** – includes: Unique Member Identifier (member ID), date you became a member, store ID (if you signed up in a retail store), source ID, country and brand of your original membership, membership points, engagement history, rewards history, membership vouchers associated to members. All the information the listed here will be kept for as long as you are a Reebok UNLOCKED | ReebokONE member.   ****
 
   
-If you wish to obtain a copy of the personal details we have on you, please log in to your account to make a request. If you need more help, please contact Customer Service by visiting “ASK OUR CUSTOMER SERVICE” via “[HELP](http://www.reebok.co.uk/help)”. If you wish to have information about the items identified above, please contact the adidas privacy team at [DataProtection@adidas-Group.com](mailto:DataProtection@adidas-Group.com). 
-
-  * **Complain to a Regulator / Supervisory Authority -  **If you are not satisfied with the way we handled your consumer rights or our Privacy Principles, you have the right to make a complaint with a supervisory authority in the EU Member State that you are located in.
-
-
-  * **Delete your personal details at adidas -  **If you no longer want to interact with us, or you do not want us to have your personal details, you have the right to ask us to delete all your personal details from our systems. However, please note that there might be legal obligations we need to comply with which compel us to decline your requests or to keep certain information. If you have an account with adidas, please log in to your account and make the necessary corrections. If you need more help, please contact Customer Service by visiting “ASK OUR CUSTOMER SERVICE” via “[HELP](http://www.reebok.co.uk/help)”.
-
-
-  * **Correct your personal details -  **You have the right to make sure your personal details are accurate and complete. If you have an account with adidas, please log in to your account and make the necessary corrections. If you need more help, please contact Customer Service by visiting “ASK OUR CUSTOMER SERVICE” via “[HELP](http://www.reebok.co.uk/help)”.
-
-
-  * **Restrict how we use and process your personal details -  **You also have the right to tell us to stop using your personal details in a particular way (for example, you don’t want us to profile you for marketing reasons, or send you marketing communications). Please contact the adidas privacy team at [DataProtection@adidas-Group.com](mailto:DataProtection@adidas-Group.com) to let us know. 
-
-
-  * **Data Portability -  **You have the right to get a copy of your personal details to carry over to a new company. You can request a copy of your personal details in machine readable format within your account. If you have an account with adidas, please log in to your account to make a request. If you need more help, please contact Customer Service by visiting “ASK OUR CUSTOMER SERVICE” via “[HELP](http://www.reebok.co.uk/help)”.
+  
+  5. What does Reebok do with your Personal Data and why (Purpose,  Processing, Legal Basis)?
 
 
 
-If you have any questions, concerns, or complaints about your privacy rights concerning your personal details, please contact the adidas privacy team at [DataProtection@adidas-Group.com](mailto:DataProtection@adidas-Group.com)  
+**Purpose**
 
-## QUESTIONS AND COMPLAINTS?
+| 
 
-### HOW DO YOU REACH US?
+**Legal Basis** ****  
+  
+---|---  
+  
+  * I. Site (Reebok Domain) Operation And App Operation
 
-You can reach the adidas privacy team and the Global Data Protection Officer at [DataProtection@adidas-Group.com](mailto:DataProtection@adidas-Group.com)
+| 
 
-For immediate assistance related to your account information, personal details access, correction, deletion or portability, please contact the adidas customer service team “[HELP](http://www.reebok.co.uk/help)”.
+Legitimate Interest  
+  
+  * II. Domain And Network Security And User Authentication
 
-## DATA PROCESSORS
+| 
+
+Legitimate Interest  
+  
+  * III. Global Credential To All Reebok Platforms – User Experience
+
+| 
+
+Legitimate Interest  
+  
+  * IV. Sales Of Reebok Products - Online And Off-Line Order
+
+| 
+
+Performance of Contract  
+  
+  * V. Payment Fraud Detection
+
+| 
+
+Performance of Contract  
+  
+  * VI. Product Delivery
+
+| 
+
+Performance of Contract  
+  
+  * VII. Electronic Delivery Tracking
+
+| 
+
+Consent  
+  
+  * VIII. Business Operational Analytics
+
+| 
+
+Legitimate Interest  
+  
+  * IX. Customer Service
+
+| 
+
+Legitimate Interest  
+  
+  * X. Personalised Marketing Messages Via Email (Newsletter Sign-Up)
+
+| 
+
+Consent  
+  
+  * XI. Personalised Marketing Messages Via Email (Via Existing Contract)
+
+| 
+
+Legitimate interest  
+  
+  * XII. Targeted Messages On 3rd-Party Advertising Platforms
+
+| 
+
+Consent  
+  
+  * XIII. Reebok UNLOCKED | ReebokONE Membership Administration – Where Applicable
+
+| 
+
+Performance of Contract  
+  
+  * XIV. Private Event Registration
+
+| 
+
+Performance of Contract  
+  
+  * XV. Open Event Registration
+
+| 
+
+Legitimate Interest  
+  
+  * XVI. Product Research And Development
+
+| 
+
+Legitimate interest  
+  
+  17. Legal Obligation - Cooperation With Law Enforcement And Regulatory Authorities (Including Courts)
+
+| 
+
+Legal Obligation  
+  
+  18. Collecting Your Device Information On Our Website Using Cookies, Pixels, Tags, And Similar Technologies (“Cookies Notice”)
+
+| 
+
+Legitimate Interest | Consent  
+  
+  19. User-Generated Content (UGC) Acquisition From Social Media
+
+| 
+
+Performance of Contract  
+  
+  * XX. Push Notifications (In-App Communication)
+
+| 
+
+Legitimate Interest  
+  
+In this section, we explain: 
+
+  1. When and Why do we need your Personal Data (“ **Purpose** ”)?
+  2. What allows us to use your Personal Data for each Purpose (“ **Legal basis** ”)? 
+  3. What do we do to your Personal Data for each Purpose (“ **Processing** ”)?
+  4. Which of your Personal Data do we need for each Purpose (“ **Categories of Personal Data** ”)?
+  5. How long do we keep your Personal Data for each Purpose (“ **Retention period** ”)?
+  6. With whom (types of service providers) do we share your Personal Data to achieve the purpose (“ **Categories of recipients** ”)?
+
+
+
+  * I. SITE (REEBOK DOMAIN) OPERATION AND APP OPERATION
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+To run the sites that are connected to the Reebok domain and the Reebok app, fix bugs to make sure you always see the site the way we intended, and monitor compliance with our Terms and Conditions, we screen all traffic to our site and analyse data that is received by our servers. 
+
+**Use of Cookies/Tags/Pixels:** We may collect your personal details for this purpose by using technologies such as cookies, pixels and tags to collect your device information. More information is available in “ **XVIII.      COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES**”.  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Device information
+
+Identity information
+
+Behavioural and Profile information 
+
+Preference information  
+  
+**RETENTION PERIOD**
+
+| 
+
+**Browsing Session**
+
+We need your data for as long as you are on the site. We keep it for the duration of your browsing session.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Reebok Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Site Administration Support Providers
+
+  
+  
+  * II. DOMAIN AND NETWORK SECURITY AND USER AUTHENTICATION
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+To protect our domains, detect unusual activities, and prevent security threats and protect our site-visitors from unauthorised accesses (such as hackers), we screen all traffic to our sites, and authenticate user log-in information using tokens to verify the details you provide to us and compare it with other available information, such us the credentials you have provided directly to Reebok or other platforms (such as Runtastic or Facebook) or information that is available in the public domain to ensure only “authorised” users have access to our sites. 
+
+**Use of Cookies/Tags/Pixels:** We may collect your personal details for this purpose by using technologies such as cookies, pixels and tags to collect your device information. More information is available in “ **XVIII.      COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES**”.  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Device information
+
+Identity information
+
+Behavioural and Profile information 
+
+Preference information  
+  
+**RETENTION PERIOD**
+
+| 
+
+**Browsing Session**
+
+We need your data for as long as you are on the site. We keep it for the duration of your browsing session.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Reebok Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Site Administration Support Providers
+
+  
+  
+  * III. GLOBAL CREDENTIAL TO ALL ADIDAS PLATFORMS – USER EXPERIENCE
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We know you don’t like to remember usernames and passwords, or having to register multiple times. 
+
+To enable our users to log on to all platforms, portals, services, communities and apps operated by or on behalf of Reebok Data Controllers (which includes the Runtastic app and services) (“ **adidas Platforms** ”) with one set of log-in credentials (“Reebok Log-In”), we store your Reebok Log-In in our global authentication platform. When you use your Reebok Log-In to enter any adidas Platform, we will use a token to verify your identity from our global authentication platform. This also further ensures our network and domain security.
+
+**Use of Cookies/Tags/Pixels:** We may collect your personal details for this purpose by using technologies such as cookies, pixels and tags to collect your device information. More information is available in “ **XVIII.      COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES**”.  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Identity information (username, password, email)
+
+Reebok UNLOCKED | ReebokONE information (for Reebok UNLOCKED | ReebokONE members only)
+
+Preference information  
+  
+**RETENTION PERIOD**
+
+| 
+
+**Your account duration or Inactivity+25 months**
+
+To allow you to sign in with your Reebok Log-In on adidas Platforms, we need to maintain your data for as long as you have an account with us, or if you stop using our services without requesting to delete your data, we will keep it for 25 months after your last log in.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Reebok Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Site Administration Support Providers
+
+  
+  
+  * IV. SALES OF REEBOK PRODUCTS - ONLINE AND OFF-LINE ORDER
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+To process your online and/or in-app orders, make sure your payment is received, comply with the requirements under our Terms and Conditions (3. Purchase Terms) (for selling you the products) including invoice processing, delivery, personalisation services, exchanges and refunds, click and collect. Your order cannot be completed if our payment fraud detection solutions flag your transaction as suspicious and potentially fraudulent.  Please note the payment fraud detection system is an automated decision-making process. It is required to allow us to conclude the contract with you. You have the right to request a human review of this decision, and challenge the decision.   
+  
+**LEGAL BASIS**
+
+| 
+
+Performance of Contract  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Identity information
+
+Contact information
+
+Location information
+
+Size information
+
+Purchase information
+
+Correspondence
+
+Device information
+
+Reebok UNLOCKED | ReebokONE information (for Reebok UNLOCKED | ReebokONE members only)  
+  
+**RETENTION PERIOD**
+
+| 
+
+Duration of contract and statutory limitation period. We need to keep the information in case of any legal disputes concerning the contract.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Reebok Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Selling Partners (where applicable)
+  * Manufacturing Providers
+  * Delivery Service Providers
+  * Payment Risk Solution Providers
+  * Payment Processing Providers
+  * IT Cloud Solution Providers
+
+  
+  
+  * V. PAYMENT FRAUD DETECTION
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We combine the purchase information you provide to us with other information we obtain through our third-party payment risk and fraud prevention service providers to ensure any purchases are legitimate, or you do not purchase our products in violation with our terms and conditions. This means depending on the outcome of the analysis of your information, we may reject your order, and decline your payment. This is an automated decision-making process that is required to conclude our sales contract with you.  
+  
+**LEGAL BASIS**
+
+| 
+
+Performance of Contract  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Identity information
+
+Contact information
+
+Behavioural and Profile information 
+
+Purchase information
+
+Device information  
+  
+**RETENTION PERIOD**
+
+| 
+
+Duration of contract and statutory limitation period. We need to keep the information in case of any legal disputes concerning the contract.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Reebok Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Payment Risk Solution Providers
+  * Payment Processing Providers
+  * IT Cloud Solution Providers
+
+  
+  
+  * VI. PRODUCT DELIVERY
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+Once you have successfully placed an order, we use your contact details (home and/or shipping address) and other purchase information to deliver the products you purchased to you.  
+  
+**LEGAL BASIS**
+
+| 
+
+Performance of Contract  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Identity information: Name
+
+Contact information: Shipping Address  
+  
+**RETENTION PERIOD**
+
+| 
+
+Duration of contract and statutory limitation period. We need to keep the information in case of any legal disputes concerning the contract.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Reebok Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Delivery Service Providers
+  * IT Cloud Solution Providers
+
+  
+  
+  * VII. ELECTRONIC DELIVERY TRACKING
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+**_This is a service provided on request of the consumer by our Delivery Partners._**
+
+You have the option to track your delivery using services provided directly by our delivery partners; however, we will only be able to share your information with our delivery partners for this purpose with your consent. The service is hosted on the Delivery Partner’s platform. You should read their Privacy Notice for the processing of your Personal Data for this purpose.  
+  
+**LEGAL BASIS**
+
+| 
+
+Consent  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Identity information
+
+Contact information
+
+Any other information you may directly and voluntarily provide to the Delivery Partner  
+  
+**RETENTION PERIOD**
+
+| 
+
+As determined by our Delivery Partner.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Delivery Service Providers
+
+  
+  
+  8. BUSINESS OPERATIONAL ANALYTICS
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We need to know how we do as a business. This is in the interest of our shareholders, our board members, our employees, and our partners. For this purpose, we need to analyse different categories of information to understand how our products are selling in different markets, what are the popular features of our products, what worked and what didn’t in terms of our marketing and advertising campaigns, our product designs and distribution strategy, our website design and overall user experience, so we can establish, implement, and evaluate our business strategy. 
+
+This includes analysing data to understand how users browse our site and use the app to improve our user experience design to make sure you will continue to purchase our products and interact with us on our sites and applications. 
+
+To minimise the risk to you as an individual, we will only use either the unique consumer identifier or the IP address for this purpose. 
+
+You can learn more about how our Data Analytics Solution Providers provide analytics services by using your data here:
+
+Adobe Analytics Data Collection: <https://marketing.adobe.com/resources/help/en_US/reference/c_Privacy_Overview.html>
+
+Google Analytics Data Collection:
+
+<https://support.google.com/analytics/answer/6318039?hl=en>  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Identity information: Unique Consumer Identifier (only)
+
+Size information 
+
+Purchase information
+
+Behavioural and Profile information 
+
+Community information
+
+Activity information
+
+Device information
+
+Correspondence
+
+Reebok UNLOCKED | ReebokONE information (for Reebok UNLOCKED | ReebokONE members only)  
+  
+**RETENTION PERIOD**
+
+| 
+
+When using analytics services provided by the vendors identified above, we are required to retain data for the period specified by these vendors. You can find the retention period indicated by the vendors here:
+
+Adobe Analytics: 36 months (<https://marketing.adobe.com/resources/help/en_US/reference/data-retention.html> )
+
+Google Analytics: 38 months
+
+(<https://support.google.com/analytics/answer/7667196?hl=en>)
+
+We need the information for this duration to produce accurate analysis of our business operations.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Reebok Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Prospective Buyers and Investors
+  * Business Consulting Service Providers
+  * Data Analytics Solution Providers
+  * IT Cloud Solution Providers
+
+  
+  
+  * IX. CUSTOMER SERVICE
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We collect your Personal Data to tell you when the product you like is available upon your request and respond to your questions and concerns through various communications channels we make available to you.  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Identity information
+
+Contact information
+
+Location information
+
+Size information
+
+Purchase information
+
+Correspondence
+
+Reebok UNLOCKED | ReebokONE information (for Reebok UNLOCKED | ReebokONE members only)  
+  
+**RETENTION PERIOD**
+
+| 
+
+Statutory limitation period. We need to keep the information in case of any legal disputes.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Customer Service Provider
+  * Reebok Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Selling Partners (where applicable)
+  * Delivery Service Providers
+  * Payment Risk Solution Providers
+  * Payment Processing Providers
+  * IT Cloud Solution Providers
+
+  
+  
+  * X. PERSONALISED MARKETING MESSAGES VIA EMAIL (Newsletter Sign-Up)
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We send you marketing messages that we think you would be interested (“personalised”) to the email address you provide to us because you signed up to our email newsletters. To send you “personalised” messages, observe your online (and sometimes, where applicable, offline) behaviour, and analyse your behaviour using analytics to best estimate what product lines you might be interested in, and you can benefit from. This requires us to collect various categories of Personal Data from you. We use different analytics tools to understand what your behaviour means in terms of your like and dislike of our various product lines, and to understand the impact (success rates) of the messages delivered to you.
+
+**Use of Cookies/Tags/Pixels:** We may collect your personal details for this purpose by using technologies such as cookies, pixels and tags to collect your device information. More information is available in “ **XVIII.             COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES**”.   
+  
+**LEGAL BASIS**
+
+| 
+
+Consent  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Identity information
+
+Contact information (if available to Reebok)
+
+Location information
+
+Size information (if available to Reebok)
+
+Purchase information (if available to Reebok)
+
+Behavioural and Profile information (if available to Reebok)
+
+Community information (if available to Reebok)
+
+Social Media information (if available to Reebok)
+
+Activity information (if available to Reebok)
+
+Device information
+
+Preference information (if available to Reebok)  
+  
+**RETENTION PERIOD**
+
+| 
+
+We retain it for as long as you do not withdraw your consent sending you emails or object to us processing your Personal Data for marketing purposes.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Reebok Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Email Marketing Support Providers
+  * IT Cloud Solution Providers
+
+  
+| 
+
+  * XI. PERSONALISED MARKETING MESSAGES VIA EMAIL (via existing contract)
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We send you marketing messages that we think you would be interested in (“personalised”) to the email address you provide to us during a purchasing contract. To send you “personalised” messages, observe your online (and sometimes, where applicable, offline) behaviour, and analyse your behaviour using analytics to best estimate what product lines you might be interested in, and you can benefit from. This requires us to collect various categories of Personal Data from you. We use different analytics tools to understand what your behaviour means in terms of your like and dislike of our various product lines, and to understand the impact (success rates) of the messages delivered to you.
+
+**Use of Cookies/Tags/Pixels:** We may collect your personal details for this purpose by using technologies such as cookies, pixels and tags to collect your device information. More information is available in “ **XVIII.      COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES**”.   
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate interest  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Identity information
+
+Contact information (if available to Reebok)
+
+Location information
+
+Size information (if available to Reebok)
+
+Purchase information (if available to Reebok)
+
+Behavioural and Profile information (if available to Reebok)
+
+Community information (if available to Reebok)
+
+Social Media information (if available to Reebok)
+
+Activity information (if available to Reebok)
+
+Device information
+
+Preference information (if available to Reebok)
+
+Reebok UNLOCKED | ReebokONE information (for Reebok UNLOCKED | ReebokONE members only)  
+  
+**RETENTION PERIOD**
+
+| 
+
+We retain it for as long as you do not object to us processing your Personal Data for marketing purposes, including sending of marketing messages.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Reebok Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Email Marketing Support Providers
+  * IT Cloud Solution Providers
+
+  
+| 
+
+  * XII. TARGETED MESSAGES ON 3RD-PARTY ADVERTISING PLATFORMS
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We use third-party advertising platforms, such as Facebook, Google, YouTube, Instagram, etc. to send you messages that are targeted at you, based on your behaviour and browsing pattern, at specific times and locations of these platforms to increase the efficiency of our advertising campaigns. We use third-party solutions such as **Google Audience** and **Facebook Custom Audience** to help us do a better job at targeting our campaigns and messages for our consumers. Your Personal Data is shared with the third-party advertising platforms, and they will attempt to match your profile in their database to determine the optimal time and place (the page you are browsing) to show you an advertisement from Reebok. We also need to analyse necessary information to understand the impact of our campaigns. If you don’t accept that we track you for this purpose, you will _still_ see Reebok advertisements on other platforms at random. 
+
+You can learn more about how our Advertising Partners help us achieve this purpose by visiting their sites:
+
+**Google Personalised Advertising** : <https://support.google.com/adspolicy/answer/143465?hl=en>
+
+**Google Advertising Policies** : https://support.google.com/adspolicy/answer/6020956
+
+**Facebook Lookalike Audiences** : <https://www.facebook.com/business/help/164749007013531>
+
+**Facebook Custom Audience Terms** : <https://www.facebook.com/legal/terms/customaudience>
+
+**Use of Cookies/Tags/Pixels:** We may collect your personal details for this purpose by using technologies such as cookies, pixels and tags to collect your device information. More information is available in “ **XVIII.      COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES**”.   
+  
+**LEGAL BASIS**
+
+| 
+
+Consent  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Identity information
+
+Contact information (if available to Reebok)
+
+Location information
+
+Size information (if available to Reebok)
+
+Purchase information (if available to Reebok)
+
+Behavioural and Profile information (if available to Reebok)
+
+Community information (if available to Reebok)
+
+Social Media information (if available to Reebok)
+
+Activity information (if available to Reebok)
+
+Device information
+
+Preference information (if available to Reebok)
+
+Reebok UNLOCKED | ReebokONE information (for Reebok UNLOCKED | ReebokONE members only)  
+  
+**RETENTION PERIOD**
+
+| 
+
+We retain it for as long as you do not withdraw your consent.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Reebok Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Advertising Agency Partners
+  * Social Media Platforms
+  * Targeted Marketing Service Providers
+  * IT Cloud Solution Providers
+
+  
+  
+  13. REEBOK UNLOCKED | REEBOKONE MEMBERSHIP ADMINISTRATION – WHERE APPLICABLE
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+_Please note this section only applies if you are joining Reebok UNLOCKED | ReebokONE to become a Reebok UNLOCKED | ReebokONE member._
+
+When you become a Reebok UNLOCKED | ReebokONE member, we use the information specified above to maintain and administer your membership as described in the Reebok UNLOCKED | ReebokONE Terms and Conditions. 
+
+In particular, your Personal Data is used for: 
+
+a) calculating your club points to provide you rewards; 
+
+b) providing you access to special offers and promotions; 
+
+c) sending you invitations to exclusive events; 
+
+d) allowing you access to limited edition products; 
+
+e) providing you access to a premium Runtastic subscription when eligible; 
+
+f) storing your shipping address and payment details to shorten check-out time online and in the app; 
+
+f) storing your complete order history so you can access it at any time; and 
+
+g) allowing you to track your order delivery from your account.
+
+When you use your Reebok UNLOCKED | ReebokONE membership ID, we receive the information to calculate reward points for you, such as when you purchase in participating Reebok brand retail stores. Your data will be shared with Reebok UNLOCKED | ReebokONE Partners who provide certain rewards according to Reebok UNLOCKED | ReebokONE Terms and Conditions. 
+
+You will receive email marketing messages from Reebok as a Reebok UNLOCKED | ReebokONE member. If you wish to unsubscribe from our marketing messages, please refer to “ **8\. What are your rights and how can you exercise them?** ” section. 
+
+You can also use your Reebok UNLOCKED | ReebokONE membership in the app. When you use the app with your Reebok UNLOCKED | ReebokONE membership, we use push notifications in the app to communicate information about your membership or promotional activities and offers. You can switch off push notifications at any time using “Settings” in your mobile devices. However, if you switch off push notifications, we may need to contact you via emails for important messages relating to your membership.  
+  
+**LEGAL BASIS**
+
+| 
+
+Performance of Contract  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Reebok UNLOCKED | ReebokONE information
+
+Size information (if available to Reebok)
+
+Purchase information (if available to Reebok)
+
+Behavioural and Profile information (if available to Reebok)
+
+Community information (if available to Reebok)
+
+Social Media information (if available to Reebok)
+
+Activity information (if available to Reebok)
+
+Device information (if available to Reebok)
+
+Preference information (if available to Reebok)  
+  
+**RETENTION PERIOD**
+
+| 
+
+Duration of contract and statutory limitation period. We need to keep the information in case of any legal disputes concerning the contract.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Prospective Buyers and Investors
+  * Business Consulting Service Providers
+  * Data Analytics Solution Providers
+  * Reebok UNLOCKED | ReebokONE Partners
+
+  
+  
+  14. PRIVATE EVENT REGISTRATION
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+When you sign up for an event we organise that have limited spots, we use the Personal Data you provide to reserve a spot for you. Your Personal Data will be used according to the Terms and Conditions associated with the event.  
+  
+**LEGAL BASIS**
+
+| 
+
+Performance of Contract  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Identity information
+
+Contact information
+
+Location information
+
+Activity information: any information we may collect from you on the day of the event.
+
+Reebok UNLOCKED | ReebokONE information (for Reebok UNLOCKED | ReebokONE members only)  
+  
+**RETENTION PERIOD**
+
+| 
+
+Duration of the event and statutory limitation period in case of any disputes.   
+  
+**RECIPIENTS**
+
+| 
+
+  * Reebok Controller organizing the event. 
+  * Reebok Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Event Partners (where applicable)
+  * IT Cloud Solution Providers (where applicable)
+
+  
+  
+  * XV. OPEN EVENT REGISTRATION
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We often also organize events that are open to everyone. We use the Personal Data you provide to keep you inform of the events you are interested in.  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Identity information
+
+Contact information
+
+Location information
+
+Activity information: any information we may collect from you on the day of the event.
+
+Reebok UNLOCKED | ReebokONE information (for Reebok UNLOCKED | ReebokONE members only)  
+  
+**RETENTION PERIOD**
+
+| 
+
+For the duration of the event + 36 months if the data from a particular event is used for **BUSINESS OPERATIONAL ANALYTICS** purpose.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Reebok Controller organizing the event. 
+  * Reebok Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Event Partners (where applicable)
+  * IT Cloud Solution Providers (where applicable)
+
+  
+  
+  16. PRODUCT RESEARCH AND DEVELOPMENT
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We conduct analysis to research improve our products and services. This includes asking you questions in surveys, asking you for feedback, asking you to test our products and provide us with a review, asking other service providers to conduct market and product research for us, try new technologies in our product that might collect Personal Data to stay ahead of the competition. We retain this information based on our “legitimate interest”, so by participating in any product review or survey, you agree that this is our legitimate interest. Where you wish to object to this legitimate interest, we will anonymise your information, so it is no longer Personal Data.  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate interest  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Identity information (only if required by the project)
+
+Contact information (only if required by the project)
+
+Location information (only if required by the project)
+
+Size information
+
+Purchase information (only if required by the project)
+
+Behavioural and Profile information (only if required by the project)
+
+Community information: this is the response you provided whichever format agreed at the time of the project.
+
+Social Media information (only if required by the project)
+
+Activity information (only if required by the project)
+
+Device information (only if required by the project)
+
+Correspondence (only if required by the project)
+
+Preference information 
+
+Reebok UNLOCKED | ReebokONE information (for Reebok UNLOCKED | ReebokONE members only)
+
+Health information: **if a project requires you to also provide health information, we will explicitly ask for your consent.**  
+  
+**RETENTION PERIOD**
+
+| 
+
+The duration of the project and statutory retention period stated to protect our IP rights.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Reebok Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Prospective Buyers and Investors
+  * Business Consulting Service Providers
+  * Data Analytics Solution Providers
+  * Manufacturing Providers
+  * IT Cloud Solution Providers
+
+  
+  
+  17. LEGAL OBLIGATION - COOPERATION WITH LAW ENFORCEMENT AND REGULATORY AUTHORITIES (INCLUDING COURTS)
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+When we are legally required to provide your Personal Data for national and public security reasons, crime prevention, investigation and prosecution, anti-money laundering, judicial proceedings, protection of other individuals’ rights and freedoms, and enforcement of civil claims, we will provide information as requested by the authorities or parties once we are satisfied that the request is mandated by law. We may not be able to notify you if it is against the law to do so.   
+  
+**LEGAL BASIS**
+
+| 
+
+Legal Obligation  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+All Categories of Personal Data as requested by the enforcement authority.  
+  
+**RETENTION PERIOD**
+
+| 
+
+For as long as required by law.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Reebok Data Controllers
+  * Adidas AG Subsidiaries and Affiliates
+  * Local and national government authorities, including tax authorities
+  * Local and national law enforcement agencies
+  * Local and national judiciary
+
+  
+  
+  18. COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES (“COOKIES NOTICE”)
+
+  
+---  
+  
+When you visit the Reebok site, we store data collectors such as cookies, tags, pixels, tag containers, beacons, among others, in your browser to obtain certain information about your current browsing session. These technologies are often referred to as “ **Cookies** ” collectively by other websites. Cookies also enable our website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another. We use Cookies for different purposes, which also mean they have different legal bases. Please review the information below to understand how we use different types of Cookies to fulfil different purposes.  
+  
+**PROCESSING**
+
+| 
+
+“ **REQUIRED** ” – site functionality and business operation. 
+
+We use “ **Required Cookies** ” to operate our site. This includes storing a unique identifier to manage and identify you as a unique visitor to our site, to provide a consistent and accurate service to you. This includes making sure that we remember the products you have placed in your cart, or your language preferences. These Cookies are stored for the duration of your browsing session. Without these Cookies, you will not be able to view our site properly.  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**PROCESSING**
+
+| 
+
+“ **FUNCTIONAL** ” – website improvement and performance 
+
+We use “ **Functional Cookies** ” to continuously improve our website performance. This includes using the data we collected from you to do the following: 
+
+  * **Web analytics** —Based on your browsing behaviour, we will analyse the data to improve the functionality and design of our site. 
+  * **Ad response rates** — Based on how you come to our site, we will measure our ad response rates by analysing our ad click-through rates to improve the effectiveness of advertising purchased on a site external to ours. 
+  * **Affiliate tracking** — We need to let our affiliate marketing partners, or service providers have certain information if you came to our site, and purchased products, through a visit to theirs. This is required as we may need to provide them a fee for such services. For this purpose, we will share information about your visit, including the products you have purchased. 
+  * **Error management** — We measure errors presented on a website, to make sure we fix bugs or any issues promptly. 
+  * **Testing designs** — We need to use A/B testing or multivariate testing, to ensure a consistent look and feel is maintained for the user of the site in the current and subsequent sessions.
+
+  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**PROCESSING**
+
+| 
+
+“ **MARKETING** ”
+
+We use “ **Marketing Cookies** ” provided by our advertising partners to make sure our advertising messages are shown to you at the right time and the right place. These Cookies are persistent but time-limited cookies. These Cookies contain a unique key to distinguish individual users’ browsing habits. We also use these Cookies to limit the number of times a user sees a particular ad on a website and to measure the effectiveness of a particular campaign. The identifier stored by these Cookies are provided by our partners. We cannot use the same identifier in our own systems. We also use these cookies to serve ads that are relevant to your immediate geo-location, for example to provide you with the nearest store where the product you are browsing may be available.   
+  
+**LEGAL BASIS**
+
+| 
+
+Consent  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Device information
+
+Location information
+
+Behavioural and Profile information: this is collected through observing your browsing behaviour
+
+Preference information (if available to Reebok)  
+  
+**RETENTION PERIOD**
+
+| 
+
+The cookies, pixels, tags, and other similar technologies used to collect your device information and browsing behaviour information are stored in your browser for the session or for as long as you do not clear your browser cookie setting. 
+
+The data we obtained through the cookies related to other purposes will be stored for the duration of that purpose.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Reebok Data Controllers
+  * Adidas AG Subsidiaries and Affiliates
+  * Site Administration Support Providers
+  * Business Consulting Service Providers
+  * Data Analytics Solution Providers
+  * Advertising Agency Partners
+  * Social Media Platforms
+  * Targeted Marketing Service Providers
+
+  
+| 
+
+You can change your browser settings to delete or prevent certain cookies from being stored on your computer or mobile device without your explicit consent. The ‘help’ section in your browser should provide information on how to manage your cookie settings. 
+
+Find out how this works for your browser here:
+
+Internet Explorer: <https://support.microsoft.com/help/17442/windows-internet-explorer-delete-manage-cookies>
+
+Mozilla Firefox: <http://support.mozilla.com/en-US/kb/Cookies>
+
+Google Chrome: [http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
+
+Safari: <http://support.apple.com/kb/PH5042>
+
+Opera: <http://www.opera.com/browser/tutorials/security/privacy/>
+
+Adobe (flash cookies): <http://www.adobe.com/privacy/policies/flash-player.html>
+
+Google Chrome App: [https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DAndroid&hl=en](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DAndroid&hl=en)
+
+These websites will also help you understand more about how Cookie-based advertising works and how you can manage your Cookie Settings:
+
+<http://www.aboutads.info/choices>
+
+<http://www.youronlinechoices.eu/>
+
+Network Advertising Initiative opt-out page: <http://optout.networkadvertising.org/?c=1>
+
+You can learn more about the laws governing the use of “Cookies” here: <http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm>  
+  
+  19. USER-GENERATED CONTENT (UGC) ACQUISITION FROM SOCIAL MEDIA
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We invite you to provide your images to us via social media platforms by following specific instructions such as “#yesReebok”. We will be using the images you provide for our campaign communications. We will obtain rights to your image through a licence agreement in the form of our terms and conditions. By submitting your images via social media platforms to us, you will agree for us to use your images as described in the licence agreement.  
+  
+**LEGAL BASIS**
+
+| 
+
+Performance of Contract  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Identity information: your social media handler
+
+Community information: images, videos, comments, sound recordings and other files provided through the social media platform promoting Reebok
+
+Social Media information  
+  
+**RETENTION PERIOD**
+
+| 
+
+Duration of licence agreement and statutory limitation period in case of any disputes.   
+  
+**RECIPIENTS**
+
+| 
+
+  * Reebok Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Event Partners (where applicable)
+  * UGC Support Partners
+  * Advertising Agency Partners
+  * Social Media Platforms
+  * IT Cloud Solution Providers (where applicable)
+
+  
+  
+  * XX. PUSH NOTIFICATIONS (IN-APP COMMUNICATION)
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+When you use the Reebok app, we use push notifications in this app to communicate with you concerning the purposes stated in this Notice. This includes information that relates to purposes based on the Performance of Contract (such as your purchase). You can switch off push notifications at any time using “Settings” in your mobile devices. However, if you switch off push notifications, we may need to contact you via emails for important messages relating to your purchase.   
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**CATEGORIES OF PERSONAL DETAILS**
+
+| 
+
+Device information  
+  
+**RETENTION PERIOD**
+
+| 
+
+For as long as you use the app and not switched Push Notification off.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Reebok Data Controllers
+  * Adidas AG Subsidiaries and Affiliates
+
+  
+  
+  6. What does Reebok do when we transfer your Personal Data outside of the EU/EEA?
+
+
+
+Depending on the Personal Data processing activity, your Personal Data is shared with different “Categories of Recipients”. Where the recipient is located outside the EU/EEA, we have implemented necessary measures such as singing the EU Standard Contractual Clauses approved by the EU Commission or selecting vendors that certify and comply with the EU-US and Swiss-US Privacy Shield Framework. 
+
+  7. How do we secure your Personal Data?
+
+
+
+We implement appropriate technical and organisational measures to address the risks corresponding to our use of your Personal Data, including loss, alteration, or unauthorised access to your Personal Data, and empowering you to exercise your rights. We require our service providers to do the same through contractual agreements. However, you should be aware that any transmission of your Personal Data through the internet is at your own risk. We can only protect your Personal Data when we have it.
+
+  8. What are your rights and how can you exercise them?
+
+
+
+Under the GDPR and applicable data protection laws in the EU/EEA countries, you have the rights listed and explained below. We need to confirm your identity before we can handle your requests. When we refuse your request for legal reasons, we will tell you why. 
+
+**For all enquiries concerning your privacy and personal data, please contact us under the “ASK CUSTOMER SERVICE” section via**[ **HELP**](https://www.reebok.co.uk/help) **.**
+
+_Please consult your local supervisory authority about your rights under the GDPR and to understand what these rights mean._
+
+**YOUR RIGHT**
+
+|   
+---|---  
+  
+  1. **Get a copy of your Personal Data**
+
+
+
+You have the right to obtain a copy of your Personal Data, if it does not have negative effect on other people.  
+  
+  2. **Access to information about your Personal Data**
+
+
+
+You have the right to know whether or not we use your Personal Data, as well as the following information: a) why we have your Personal Data; b) what categories of data we have; c)  what we do with your Personal Data; d) who has access to your Personal Data (and where they are); e) where your Personal Data might be transferred to; f) how long we are keeping your Personal Data; g) if you didn’t provide your Personal Data directly to us, how did we get them; h) your rights under applicable laws and the possibility to restrict processing; and i) if we use your Personal Data for any automated decision-making; and j) in some cases, you have the right to know how our automated decision-making works, if the decision significantly affects you.  
+  
+  3. **Make sure your Personal Data are correct**
+
+
+
+You have the right to make sure we are using the accurate details about you.  
+  
+  4. **Delete your Personal Data**
+
+
+
+You have the right to ask us to delete your Personal Data if: a) we no longer need it for a specific purpose, for example, a contract or a legal requirement; or b) you withdraw the consent you provided if we asked for your consent when we collected your Personal Data; or c) if you object to our use of your Personal Data based on legitimate interests we have identified, including direct marketing activities, unless we can demonstrate the compelling need of the legitimate interests.  
+  
+  5. **Restrict how we use your Personal Data**
+
+
+
+You have the right to stop us from doing certain things to your Personal Data when: a) you don’t think we are using the right Personal Data; b) you don't want us to delete your Personal Data, but you also don't think we are complying with the law; c) you want to make a legal complaint against us, but we want to delete the data; or d) you challenge our explanation of our use based on a "legitimate interest". When you successfully restrict how we use your Personal Data, we will only use your Personal Data with your consent, or unless it is required by law.  
+  
+  6. **Obtain a portable file so you can share it with another company**
+
+
+
+You have the right to obtain a portable file that contains the Personal Data you provided to us where the legal basis is either consent or the performance of contract. The file will provide you with the Personal Data you actively and knowingly provided to us, including data passively obtained by us when you use our service or products.   
+  
+  7. **Withdraw your consent**
+
+
+
+When we use your Personal Data based on your consent, you have the right to change your mind and withdraw your consent at any time.   
+  
+  8. **Object when we process your Personal Data based on “Legitimate Interest”**
+
+
+
+When we process your Personal Data based on “Legitimate Interest” as specified in this Privacy Notice, you may have the right to disagree and stop us from processing your Personal Data for this purpose. We may have compelling reasons, though, to continue processing your Personal Data even in the light of your objection. In such cases we will provide you with our rationale. We will respect and implement your objection in any case where it is related to direct marketing purposes.  
+  
+  9. **Challenge the decision generated by our automated decision-making process**
+
+
+
+When we use automated decision-making tools or processes that lead to an outcome which produces a legal effect (such as Payment Fraud Detection), you have the right to understand the logic involved, the significance and possible consequences of this process. You also have the right to request human intervention, especially when this is used to conclude a contract with us. You can challenge our decision by expressing your opinion.   
+  
+  10. **File a complaint with your local data protection supervisory authority**
+
+
+
+If you are not happy with how we have handled your Personal Data, or how we have responded to your rights provided here, you have the right to make a complaint against us with your local data protection supervisory authority.   
+  
+  9. Questions, Complaints, and Support – who and how you can get in touch with them?
+
+
+
+Reebok Customer Service  
+  
+---  
+  
+**ASK CUSTOMER SERVICE:** <https://www.reebok.co.uk/help>  
+  
+Reebok Privacy Team and the Data Protection Officer  
+  
+[**DataProtection@adidas.com**](mailto:DataProtection@adidas.com) ****
+
+**Global Privacy | Data Protection Officer**
+
+**adidas AG**
+
+Adi-Dassler-Straße 1
+
+91074 Herzogenaurach
+
+Germany  
+  
+Data Protection Supervisory Authorities
+
+|   
+  
+**Reebok Lead Supervisory Authority**
+
+Bayerisches Landesamt für Datenschutzaufsicht (BayLDA)
+
+[**poststelle@lda.bayern.de**](mailto:poststelle@lda.bayern.de)
+
++49 (0) 981 53 1300
+
+Promenade 27 
+
+91522 Ansbach
+
+Germany
+
+<https://www.lda.bayern.de/de/kontakt.html>
+
+| 
+
+**Your Local EU/EEA Supervisory Authority**
+
+**Please find the details to your local Data Protection Supervisory Authority here:**
+
+<https://edpb.europa.eu/about-edpb/board/members_en>  
+  
+  10. Updates and Notification of Updates
+
+
+
+We review and update the Privacy Notice periodically to reflect any changes resulting from our day-to-day business operations. You can always check the date of the Privacy Notice to find out when we last made any changes. We will notify you when we make significant changes that you must be aware of. 
+
+  11. Reebok Data Recipients
+
+
+
+You can find a list of Reebok Data Recipients who processes your personal data under Reebok Data Controllers’ instructions below. The list is subject to change as necessary. 
 
 **COMPANY**
 
@@ -224,6 +1665,12 @@ For immediate assistance related to your account information, personal details a
 **SERVICE**  
   
 ---|---  
+  
+adidas International Marketing B.V.
+
+| 
+
+Webshop operations & Marketing Services  
   
 Demandware Inc.| USA
 
@@ -295,236 +1742,102 @@ Olapic, Inc. | USA
 
 | 
 
-             Influencer Marketing  
-  
-  |   |    
-  
-## >PERSONAL DETAILS TRANSFER
-
-**COMPANY**
-
-| 
-
-**SERVICE**
-
-| 
-
-**DATA CATEGORIES**  
-  
----|---|---  
-  
-adidas AG | Germany
-
-| 
-
-Management of Consumer Database
-
-| 
-
-Consumer Data  
+Influencer Marketing  
   
 adidas affiliates | globally
 
 | 
 
-Consumer Relationship Management
-
-| 
-
-Consumer Data  
+Consumer Relationship Management  
   
 Teleperformance | Germany
 
 | 
 
-Customer Service
-
-| 
-
-Consumer Data, Order Data  
+Customer Service  
   
 DHL | Germany
 
 | 
 
-Product Delivery
-
-| 
-
-Delivery Data  
+Product Delivery  
   
-Infoscore | Germany
+Feedzai | Germany
 
 | 
 
-Fraud Prevention
-
-| 
-
-Consumer Contact Data  
+Fraud Prevention  
   
 PayPal | USA
 
 | 
 
-Payment Service
-
-| 
-
-Consumer Data, Order Data  
+Payment Service  
   
 Apple Pay, Google Pay | USA
 
 | 
 
-Mobile Payment
-
-| 
-
-Consumer Data, Order Data  
+Mobile Payment  
   
 Facebook (WhatsApp, Instagram) | USA
 
 | 
 
-Social Media Interaction
-
-| 
-
-Consumer Data  
+Social Media Interaction  
   
 Twitter | USA
 
 | 
 
-Social Media Interaction
-
-| 
-
-Consumer Data  
+Social Media Interaction  
   
 Google | USA
 
 | 
 
-Social Media Interaction
-
-| 
-
-Consumer Data  
+Social Media Interaction  
   
 Runtastic | Austria
 
 | 
 
-Health and Fitness Community
-
-| 
-
-Consumer Data  
+Health and Fitness Community  
   
 Google Analytics | USA
 
 | 
 
-Analytics
-
-| 
-
-Consumer Behaviour  
+Analytics  
   
 Adobe Analytics | USA
 
 | 
 
-Analytics
+Analytics  
+  
+Anatwine Limited | UK
 
 | 
 
-Consumer Behaviour  
+Consumer Experience  
   
-Anatwine Limited | Great Britain
+MediaCom | UK
 
 | 
 
-Consumer Experience
+Advertising Partner  
+  
+Salesforce
 
 | 
 
-Order Data  
+CRM Software | Data Analytics  
   
-## COOKIE STATEMENT 
+Wunderman
 
-### WHAT YOU SHOULD KNOW ABOUT COOKIES
+| 
 
-## WHAT ARE COOKIES?
-
-Cookies are small text files that are stored on your computer or mobile device when you visit a website. For this section, we conveniently use "cookies" as an umbrella term for techniques such as cookies, Flash cookies and web beacons. They don’t take much space and they will be removed automatically when expired. Some cookies expire at the end of your session, while others will be saved for a certain amount of time.
-
-## WHAT ARE THE DIFFERENT COOKIE TYPES WE USE?
-
-There are different types of cookies with different uses. Some are there just to allow you to browse the website and see certain features. Some give us an idea on your browsing experience, i.e. when you have trouble finding what you are looking for, so we can improve and make your future visit as pleasant as possible. 
-
+Email Marketing Services  
   
-Cookies set by adidas are called "first party cookies".  Cookies set by parties other than us are called "third-party cookies".  Third-party cookies enable third party features or functionality to be provided on or through the website (e.g. like advertising, interactive content and analytics).  The parties that set these third-party cookies can recognise your computer or mobile both when it visits the website in question and when it visits certain other websites.  We use first party and third-party cookies for several reasons.
-
-  
-The most important cookies are the required cookies. They are essential and help you to navigate on the website and to use basic features, such as media plugins. Functionality cookies enable you to save your shopping bag, create a wish list and to save your shipping details for a quicker checkout. The performance and analytics cookies we use to improve our website. We also like to show you relevant offers. To manage this we collect browsing data, which may be linked to a unique identifier to allow us to understand how you interact with adidas across different platforms as described in our Privacy Notice. Interaction cookies are used for you to interact with social media or to submit reviews.  Targeting cookies, advertising cookies and social media cookies capture your preferences to show you relevant ads outside adidas. In addition, social media cookies may be used to track your activity over social media platforms.
-
-## WHY DO WE USE COOKIES?
-
-adidas uses cookies primarily to ensure your visit to our website is as pleasant as possible, as well as for advertising-related purposes during your future visits to other websites. Below you see a more elaborate overview of the types of cookies we are using and why:
-
-**REQUIRED COOKIES**
-
-are essential and help you navigate, move around on the website and see certain features (e.g. these cookies make sure your basket is saved during all the steps of your checkout process). These cookies are required to enable core site functionality. These cookies are stored for the duration of your browsing session.
-
-**FUNCTIONALITY AND ANALYTICS COOKIES**
-
-can give you an even smoother customer experience (e.g. these cookies help you to save and remind you about your shopping bag and enable you to create a wish list). These cookies allow us to analyse site usage so we can measure and improve performance. These cookies may be placed by us or a third party on our behalf (see our cookie opt-out tool) and are stored for the duration of your browsing session.
-
-**ADVERTISING AND SOCIAL MEDIA COOKIES**
-
-  
-will remember your product and buying preferences or assist marketing efforts in other ways. These cookies enable us to share data, such as what you like, with our advertisers, so the advertisement you see can be more relevant to your preferences (sometimes referred to as "targeting cookies").
-
-  
-They help us to understand shopping behaviour of visitors. This enables us to keep improving our website, so shopping becomes easier and more pleasant, and to improve the marketing messages we send to our customers (sometimes referred to as "performance cookies").
-
-  
-They are used for you to express your opinion. These cookies will enable you to like or recommend us on social media and to chat with our service agents. But you can also advise our other (potential) customers by rating and reviewing our products (sometimes referred to as "interaction cookies").
-
-## WHAT IF YOU DON’T LIKE COOKIES?
-
-You can change your browser settings to delete or prevent certain cookies from being stored on your computer or mobile device without your explicit consent. The ‘help’ section in your browser should provide information on how to manage your cookie settings. Find out how this works for your browser here:
-
-Internet Explorer: <https://support.microsoft.com/help/17442/windows-internet-explorer-delete-manage-cookies>
-
-  
-Mozilla Firefox: <http://support.mozilla.com/en-US/kb/Cookies>
-
-  
-Google Chrome: [http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
-
-  
-Safari: <http://support.apple.com/kb/PH5042>
-
-  
-Opera: <http://www.opera.com/browser/tutorials/security/privacy/>
-
-  
-Adobe (flash cookies): <http://www.adobe.com/privacy/policies/flash-player.html>
-
-  
-Note that you may visit <http://www.aboutads.info/choices> or <http://www.youronlinechoices.eu/> to learn about the options that some of the third parties we work with offer for opting out of certain ad targeting activities.  You will need to visit those websites from each browser and device that you would like to be covered by your opt-out. Because the opt-out tools may depend on cookies, you may need to visit these sites again to reinstate your preferences if you delete your cookies.
-
-## HOW OFTEN WILL YOU UPDATE THIS COOKIE STATEMENT?
-
-We may update this Cookie Statement from time to time to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons.  Please therefore re-visit this Cookie Statement regularly to stay informed about our use of cookies and related technologies. 
-
-  
-The date at the top of this Cookie Statement indicates when it was last updated. 
-
-## WHERE CAN I GET FURTHER INFORMATION?
-
-If you have any questions about our use of cookies or other technologies, please email the adidas privacy team at [dataprotection@adidas-Group.com](mailto:dataProtection@adidas-Group.com)
+_Where your personal data may be used by non-Reebok Data Controllers via Reebok platforms, applications or elsewhere for their own purposes, please consult the privacy notice of the non-Reebok Data Controller for more information about how they handle your personal data._
