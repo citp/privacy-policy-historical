@@ -1,23 +1,42 @@
-<!--The following is the downloaded HTML source of the jeevansathi.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230044716id_/http%3A//www.jeevansathi.com/P/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jeevansathi.com privacy policy that was archived on 2019-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191227231236id_/https%3A//www.jeevansathi.com/profile/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html><html><head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta name="google-site-verification" content="PkzDGYxBMHDwW2Q_08toE4d3LdlWYCpH9nWZFW56BO0">
+<meta http-equiv="content-language" content="en">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="shortcut icon" href="/favicon1.ico">
+<link rel="stylesheet" async="true" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700">
+<link rel="manifest" href="/manifest.json">
+<!--  <link rel="amphtml" href="https://www.jeevansathi.com/static/page/privacypolicy?amp=1">
+-->
+<title></title>
+
+
+<link rel="amphtml" href="https://www.jeevansathi.com/static/page/privacypolicy?amp=1">
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-Ua-Compatible" content="IE=edge">
 
 
-<title>Jeevansathi Matrimonials- Privacy Policy</title>
+<link rel="amphtml" href="https://www.jeevansathi.com/static/page/privacypolicy?amp=1">
+<link rel="stylesheet" type="text/css" href="https://static.jeevansathi.com/min/?f=/css/jspc/common/commonJspc_css_98.css,/css/jspc/common/fontsJspc_css_4.css,/css/jspc/common/headerFooterJspc_css_30.css,/css/helpWidget_css_20.css,/css/jspc/common/mCustomScrollBar_css_10.css,/css/rippleEffectCommon_css_5.css,/css/jspc/chat/chat_css_18.css">
 
+<link rel="stylesheet" type="text/css" href="https://static.jeevansathi.com/min/?f=/css/jspc/static/static_css_4.css,/css/jspc/common/NProgress_6.css">
 
+<script type="text/javascript" src="https://saxp.zedo.com/sclient/tt3/fmos.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" language="Javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://static.jeevansathi.com/min/?f=/js/jspc/common/fingerprint2_6.js,/js/tracking_js_16.js,/js/jspc/common/AjaxWrapper_34.js"></script>
 
-<!--link rel="shortcut icon" href="/favicon.ico" /-->
-<link rel="stylesheet" type="text/css" href="http://static.jeevansathi.com/min/?f=/css/global_5.css,/css/common_css_8.css,/css/colorbox_css_4.css,/css/phoneVerify_css_8.css,/css/hdr_css_new_7.css,/css/phonelayerStyle_css_4.css,/css/header-footer_6.css,/css/gnb_css_4.css">
-
-
-<script type="text/javascript" language="Javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script type="text/javascript" src="http://static.jeevansathi.com/min/?f=/js/revampCommon_js_31.js,/js/colorbox_4.js,/js/tracking_js_5.js,/js/mouseClickTracking_js_2.js"></script>
-
+<script type="text/javascript" src="https://static.jeevansathi.com/min/?f=/js/jspc/static/static_js_8.js"></script>
 
 <script>
+var isHangoutActive = "";
+var isHangoutEligible = "";
+var currentPageName = "";
+var aadhaarerrorMessage = ""
+var _rID = "5e06842be738e";
 var domainCode={};
 domainCode[".hindijeevansathi.in"]="UA-20942264-1";
 domainCode[".jeevansathi.co.in"]="UA-20941176-1";
@@ -25,7 +44,6 @@ domainCode[".marathijeevansathi.in"]="UA-20941180-1";
 domainCode[".punjabijeevansathi.com"]="UA-20941670-1";
 domainCode[".punjabijeevansathi.in"]="UA-20941669-1";
 domainCode[".jeevansathi.com"]="UA-179986-1";
-
 var host_url="http://"+window.location.host;
 var j_domain=host_url.match(/:\/\/[\w]{0,10}(.[^/]+)/)[1];
 j_domain=j_domain.toLowerCase();
@@ -33,974 +51,1937 @@ var ucode=domainCode[j_domain];
 if(ucode)
 {
 var _gaq = _gaq || [];
-
 _gaq.push(['_setAccount', ucode]);
 _gaq.push(['_setDomainName', j_domain]);
-_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageview',currentPageName]);
+/*if(currentPageName != '')
+_gaq.push(['_trackPageview']);*/
 _gaq.push(['_trackPageLoadTime']);
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 }
-function trackJsEventGA(category, action, label){
-if(ucode){
+function trackJsEventGA(category, action, label, value){
+if (ucode){
+if(label == "M/F")
+label = loggedInJspcGender;
+if (value) {
+_gaq.push(['_trackEvent', category, action, label, value]);
+} else {
 _gaq.push(['_trackEvent', category, action, label]);
 }
-else
+} else {
 return false;
 }
+}
 
 </script>
-</head>
+<script type="text/javascript" src="https://go.automatad.com/geo/pui44G/afihbs.js" async=""></script>
 
-<body>
-<div id="clickHolderCE" onclick="javascript:updateClickHolderCE(false,event)" style="height:0px;width:0px">&nbsp;</div>
-<div id="clickHolder" onclick="javascript:updateClickHolder(false,event)" style="height:0px;width:0px">&nbsp;</div><style>
-body {
-margin:0;
-padding:0;
-font-size:12px;
-color:#000000;
-font-family:Arial, sans-serif
-}
-#main {
-width:100%;
-margin:0px;
-float:left;
-}
-#container {
-width: 930px;
-margin: 0px auto;
+<!-- start:impression tracking variable initialize -->
+<script>
+var queuedSuperProps = [];
+var queuedEvents = [];
+(function() {  window.ub = { track: function(eventName, eventProps) { queuedEvents.push([eventName, eventProps]) }, register: function(properties) { queuedSuperProps.push(properties); } };}());
+ub.register({ appId:103, pageName: "homepage",  tenantId:'11'  }); </script>
+<!-- end:impression tracking variable initialize -->
+
+<script>
+var loggedInJspcUser="";
+var showChat = "0";
+var loggedInJspcGender = "";
+var self_checksum = "d41d8cd98f00b204e9800998ecf8427ei";
+var self_username = "";
+var my_action = "page";
+var moduleChat = "static";
+var self_subcription = "Free";
+var aadharStatus = "";
+var aadharConfirmation = "";
+
+var hideUnimportantFeatureAtPeakLoad = 0;
+var multiUserPhotoUrl = "/api/v1/social/getMultiUserPhoto";
+var listingWebServiceUrl = {"dpp":"https://listing.jeevansathi.com/listings/v1/discover","shortlist":"https://listing.jeevansathi.com/listings/v1/activities","chatAuth":"https://auth.jeevansathi.com/auth/v1/chat","rosterRemoveMsg":"https://communication.jeevansathi.com/communication/v1/message"};
+var nonRosterRefreshUpdate = {"dpp":{"Free":"600000","Paid":"300000"},"shortlist":{"Free":"600000","Paid":"300000"}};
+var dppLiveForAll = "1";
+var profileServiceUrl = "https://api.jeevansathi.com";
+//console.log("dppLiveForAll",dppLiveForAll);
+var betaDppExpression = "",specialDppProfiles="";
+if(dppLiveForAll == "0"){
+betaDppExpression = "100"+","+"0";
+specialDppProfiles = "9397643|9859432|9863434|9897951|10378999|10416299|13049127|14062527|13952815|14062527|14091213|11238186|99999061321";
 }
 
-.pd2 {
-padding:2px 2px 2px 5px;
-}
-div.row {
-clear:both;
-padding:3px 0 0px 0;
-color:#000;
-width:98%;
-margin:auto;
-}
-.child_arr {
-margin:5px 5px 0 10px;
-}
-.mar_top_35 {
-margin-top:35px;
-}
-.search_box {
-margin:0;
-padding:0;
-}
-.terms_condition {
-font:11px Arial, Helvetica, sans-serif;
-width:600px;
-margin:0 10px;
-}
-.terms_condition h2 {
-margin:0;
-padding:0;
-font:bold 11px Arial, Helvetica, sans-serif;
-text-indent:0;
-}
-.terms_condition p.content {
-margin:10px 0 15px 0;
-padding:2px;
-}
-.terms_condition ul.terms {
-margin:-10px 0 0;
-padding:0;
-}
-.terms_condition ul.terms li {
-list-style:none;
-background:url(images/li_square_img.gif) no-repeat 0 5px;
-padding:0 0 0 8px;
-}
-.extracss{border-top:1px solid #aaa;}
-/*status curves ends  here*/
-
-</style>
-<!--Header starts here-->
-<script type="text/javascript" src="http://xp1.zedo.com/client/xp1/fmos.js"></script>
-<script type="text/javascript">
-var zmt_mtag = zmt_get_tag(2466,"616105");
-p616105_top = zmt_mtag.zmt_get_placement("zt_616105_top", "616105", "1" , "0" , "14" , "0");
-p616105_top.zmt_add_ct("d7:2");
-p616105_topsmall = zmt_mtag.zmt_get_placement("zt_616105_topsmall", "616105", "2" , "0" , "95" , "0");
-p616105_topsmall.zmt_add_ct("d7:2");
-p616105_bottom = zmt_mtag.zmt_get_placement("zt_616105_bottom", "616105", "3" , "0" , "85" , "0");
-p616105_bottom.zmt_add_ct("d7:2");
-p616105_side1 = zmt_mtag.zmt_get_placement("zt_616105_side1", "616105", "4" , "0" , "86" , "0");
-p616105_side1.zmt_add_ct("d7:2");
-p616105_facebook = zmt_mtag.zmt_get_placement("zt_616105_facebook", "616105", "5" , "0" , "84" , "0");
-p616105_facebook.zmt_add_ct("d7:2");
-zmt_mtag.zmt_load(zmt_mtag);
+//console.log("betaDppExpression",betaDppExpression);
+var selfUserChatName = "";
+localStorage.removeItem("self_subcription");
+localStorage.setItem("self_subcription","Free");
+//console.log("ankita_localstorage",localStorage.getItem("self_subcription"));
+//console.log("in ...2");
 </script>
 <script>
-var SITE_URL="http://www.jeevansathi.com";
-var prof_checksum="";
-var user_login="";
-var loggedIn="";
-var AppLoggedInUser=1;
-
-var google_plus=0;
-var searchId = "";
-if(!searchId)
-searchId = "";
-var showSearchBand="";
-
+//console.log("in ...4");
+var openfireUrl= "",openfireServerName="";
+var chatTrackingVar = {"stype":"","rtype":""};
 </script>
-<input type="hidden" id="PHONE_VERIFIED" value="">
-<noscript>
-<div style="position:fixed;z-index:1000;width:930px;">
-<div style="text-align:center;padding-bottom:3px;font-family:verdana,Arial;font-size:12px;font-size-adjust:none;font-stretch:normal;font-style:normal;font-variant:normal;font-weight:normal;line-height:normal;background-color:#E5E5E5;"><b><img src="http://static.jeevansathi.com/profile/images/registration_new/error.gif" width="23" height="20"> Javascript is disabled in your browser.Due to this certain functionalities will not work. <a href="http://www.jeevansathi.com/jshelp/js-help-new.html" target="_blank">Click Here</a> , to know how to enable it.</b>
-</div>
+<!-- <script src="//cdn.automatad.com/axt/ad_axt_jeevansathi.min.js" async></script> -->
+<script src="https://rtbcdn.andbeyond.media/prod-global-323566.js" async=""></script>
+</head>
+<body><noscript>
+<div class="bg_pink lh46 f18 txtc colrw fontreg boxshadow" style="font-weight: 300;">
+You have not enabled Javascript on your browser, please enable it to use the website
 </div>
 </noscript>
 
 
-<div class="hdr-tp-bg sprte-hdr-foot pad7top ">
-<div class="hdr-con">
-<div class="hdr-tp-bg-txt pos-rel ">
-Welcome Guest | <a class="cur-point thickbox" href="http://www.jeevansathi.com/profile/login.php?SHOW_LOGIN_WINDOW=1">Login</a> | <a class="cur-point b" href="http://www.jeevansathi.com/profile/registration_page1.php?source=js_header">Register</a>
-</div>
-<div class="fl mar120left mar1top ">
-<div class="hdr-naukri-btn1 sprte-hdr-foot"> </div>
-<div class="fl">Group </div>
-</div>
-<div class="hdr-tp-bg-txt1 fr">
-<b>
-<i class="hdr-spky sprte-hdr-foot fl"></i>
-<a class=" b " style="color:#D20000" href="http://server.iad.liveperson.net/hc/13507809/?cmd=file&amp;file=visitorWantsToChat&amp;offlineURL=http://www.jeevansathi.com/P/faq_redirect.htm&amp;site=13507809&amp;byhref=1&amp;imageUrl=http://www.jeevansathi.com/images_try/liveperson" target="_blank" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/13507809/?cmd=file&amp;file=visitorWantsToChat&amp;offlineURL=http://www.jeevansathi.com/P/faq_redirect.htm&amp;site=13507809&amp;imageUrl=http://www.jeevansathi.com/images_try/liveperson&amp;referrer='+escape(document.location),'chat13507809','width=472,height=320');return false;">Live Help</a></b> &nbsp;
-<a href="http://www.jeevansathi.com">Home</a>
-| <a href="http://www.jeevansathi.com/successStory/story">Success Stories</a>
-| <a href="http://www.jeevansathi.com/profile/contact.php">Contact Us</a>
-</div>
-</div>
-</div><!-- top bar ends -->
-
-
-
-<div class="hdr-con ">
-<div class="h115">
-<div class="fl w172">
-<a href="http://www.jeevansathi.com"><i class="hdr-logo-small sprte-hdr-foot fl">&nbsp;</i></a>
-<font class="fr fs12">We Match Better</font>
-</div>
-<div class="fr mar10top" style="position:relative;"><script id="zt_616105_top" language="javascript">
-zmt_mtag.zmt_render_placement(p616105_top);
-</script></div>
-</div>
-</div><!-- logo and banner ends -->
-<!--start:header menu-->
-<div id="newmenu">
-<div class="greybar">
-<div class="mcontainer">
-<!--start:header menu-->
-<ul id="css3menu" class="topmenu gnbHeader" style="border-width: 1px 0;float: left;margin: 0;padding: 0;width: 930px;">
-<li class="speratprwhite"></li>
-<li class="topmenu w100 center"><a href="http://www.jeevansathi.com/profile/before_log.php?page=1" class="padh thickbox cursp bold_gnb" id="homeLoggedOut">Home</a></li>
-<li class="speratprwhite"></li>
-<li class="toproot center">
-<a href="http://www.jeevansathi.com/profile/before_log.php?page=6" class="layer1 thickbox cursp">
-<div class="fullwidth padleft22">
-<div class="fl bold_gnb" id="myMatchesLoggedOut">
-Matches
-</div>
-<div class="fl droparw">
-<div class="droparrow1"></div>
-</div>
-<div class="clr"></div>
-</div>
-</a>
-<div class="submenu boxshadow w170">
-<div class="column fullwidth">
-<ul class="fullwidth">
-<li>
-<div class="padallsix">
-<a href="http://www.jeevansathi.com/profile/before_log.php?page=6" class="fullwidth cursp thickbox">
-<div class="paddallfive" id="dpMatchesLoggedOut">Desired Partner Matches</div>
-</a>
-</div>
-</li>
-
-<li style="margin-top:0px;">
-<div class="padallsix">
-<a href="http://www.jeevansathi.com/profile/before_log.php?page=8" class="fullwidth cursp thickbox">
-<div class="paddallfive" id="mutualMatchesLoggedOut">Mutual Matches</div>
-</a>
-</div>
-</li>
-
-<li style="margin-top:0px;">
-<div class="padallsix">
-<a href="http://www.jeevansathi.com/profile/before_log.php?page=7" class="fullwidth cursp thickbox">
-<div class="paddallfive" id="memberslookingForMeLoggedOut">People Looking for me</div>
-</a>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</li>
-<li class="speratprwhite"></li>
-<li class="toproot center">
-<a href="http://www.jeevansathi.com/profile/before_log.php?page=2" class="layer1 thickbox cursp">
-<div class="fullwidth padleft22">
-<div class="fl bold_gnb" id="myContactsLoggedOut">
-Contacts
-</div>
-<div class="fl droparw">
-<div class="droparrow1"></div>
-</div>
-<div class="clr"></div>
-</div>
-</a>
-<div class="submenu boxshadow w210">
-<div class="column fullwidth">
-<ul class="fullwidth">
-<li>
-<div class="padallsix">
-<a class="fullwidth cursp thickbox" href="http://www.jeevansathi.com/profile/before_log.php?page=9">
-<div class="paddallfive" id="peopleToRespondLoggedOut">People I Have to Respond to</div>
-</a>
-</div>
-</li>
-<li style="margin-top:0px;">
-<div class="padallsix">
-<a class="fullwidth cursp thickbox" href="http://www.jeevansathi.com/profile/before_log.php?page=10">
-<div class="paddallfive" id="allAcceptancesLoggedOut">All Acceptances</div>
-</a>
-</div>
-</li>
-<li style="margin-top:0px;">
-<div class="padallsix">
-<a class="fullwidth cursp thickbox" href="http://www.jeevansathi.com/profile/before_log.php?page=11">
-<div class="paddallfive" id="recentProfileLoggedOut">Recent Profile Visitors</div>
-</a>
-</div>
-</li>
-<li style="margin-top:0px;">
-<div class="padallsix">
-<a class="fullwidth cursp thickbox" href="http://www.jeevansathi.com/profile/before_log.php?page=12">
-<div class="paddallfive" id="photoRequestLoggedOut">Photo Requests Received</div>
-</a>
-</div>
-</li>
-<li style="margin-top:0px;">
-<div class="padallsix">
-<a class="fullwidth cursp thickbox" href="http://www.jeevansathi.com/profile/before_log.php?page=13">
-<div class="paddallfive" id="messageReceivedLoggedOut">Messages Received</div>
-</a>
-</div>
-</li>
-<li style="margin-top:0px;">
-<div class="padallsix">
-<a class="fullwidth cursp thickbox" href="http://www.jeevansathi.com/profile/before_log.php?page=14">
-<div class="paddallfive" id="viewedMyContactsLoggedOut">People who viewed my contacts</div>
-</a>
-</div>
-</li>
-<li style="margin-top:0px;">
-<div class="padallsix">
-<a class="fullwidth cursp thickbox" href="http://www.jeevansathi.com/profile/before_log.php?page=15">
-<div class="paddallfive" id="shortlistedLoggedOut">Shortlisted Members</div>
-</a>
-</div>
-</li>
-<li style="margin-top:0px;">
-<div class="padallsix">
-<a href="http://www.jeevansathi.com/profile/before_log.php?page=16" class="fullwidth cursp thickbox">
-<div class="paddallfive" id="MatchAlertsLoggedOut">Match Alerts</div>
-</a>
-</div>
-</li>
-
-<li style="margin-top:0px;">
-<div class="padallsix">
-<a href="http://www.jeevansathi.com/profile/before_log.php?page=17" class="fullwidth cursp thickbox">
-<div class="paddallfive" id="KundliLoggedOut">Kundli Matches</div>
-</a>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</li>
-<li class="speratprwhite"></li>
-<li class="toproot center">
-<a href="http://www.jeevansathi.com/profile/before_log.php?page=3" class="layer1 thickbox cursp">
-<div class="fullwidth padleft22">
-<div class="fl bold_gnb" id="myProfileLoggedOut">
-Profile
-</div>
-<div class="fl droparw">
-<div class="droparrow1"></div>
-</div>
-<div class="clr"></div>
-</div>
-</a>
-<div class="submenu boxshadow w210">
-<div class="column fullwidth">
-<ul class="fullwidth">
-<li>
-<div class="padallsix">
-<a class="fullwidth cursp thickbox" href="http://www.jeevansathi.com/profile/before_log.php?page=18">
-<div class="paddallfive" id="editContactLoggedOut">Edit Contact Details</div>
-</a>
-</div>
-</li>
-<li style="margin-top:0px;">
-<div class="padallsix">
-<a class="fullwidth cursp thickbox" href="http://www.jeevansathi.com/profile/before_log.php?page=19">
-<div class="paddallfive" id="editFamilyLoggedOut">Edit Family Details</div>
-</a>
-</div>
-</li>
-<li style="margin-top:0px;">
-<div class="padallsix">
-<a class="fullwidth cursp thickbox" href="http://www.jeevansathi.com/profile/before_log.php?page=20">
-<div class="paddallfive" id="uploadPhotosLoggedOut">Upload Photos</div>
-</a>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</li>
-<li class="speratprwhite"></li>
-<li class="toproot center">
-<a href="http://www.jeevansathi.com/profile/before_log.php?page=5" class="layer1 thickbox cursp">
-<div class="fullwidth padleft22">
-<div class="fl bold_gnb" id="dppLoggedOut">
-Desired Partner
-</div>
-<div class="fl droparw">
-<div class="droparrow1"></div>
-</div>
-<div class="clr"></div>
-</div>
-</a>
-<div class="submenu boxshadow w210">
-<div class="column fullwidth">
-<ul class="fullwidth">
-<li>
-<div class="padallsix">
-<a class="fullwidth cursp thickbox" href="http://www.jeevansathi.com/profile/before_log.php?page=21">
-<div class="paddallfive" id="editDppDescriptionLoggedOut">Edit Description</div>
-</a>
-</div>
-</li>
-<li style="margin-top:0px;">
-<div class="padallsix">
-<a class="fullwidth cursp thickbox" href="http://www.jeevansathi.com/profile/before_log.php?page=22">
-<div class="paddallfive" id="EditDppBasicLoggedOut">Edit Basic Details</div>
-</a>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</li>
-<li class="speratprwhite"></li>
-<li class="topmenu center"><a href="http://www.jeevansathi.com/profile/mem_comparison.php?from_source=Membership_page_link_just_above_search" class="padh2 cursp bold_gnb" id="membershipLoggedOut">Upgrade Membership</a></li>
-<li class="speratprwhite"></li>
-
-
-</ul>
-
-
-
-
-<!--end:header menu-->
-
-
-</div>
-</div>
-</div>
-<!--start:header menu-->
-
-<!--Header ends here-->
-
-<!--pink strip starts here-->
-<!--Main container starts here-->
-
-<div id="main_cont">
-
-<div id="container">
-
-<!--pink strip ends here-->
-<p class="clr_4"></p>
-<div id="topSearchBand"></div>
-
-        <script>
-    jsb9init_first();
-    </script>
-        <script>
-        //alert("setting JSLoad 0");
-        jsLoadFlag = 0;
-	var jsLogin_layer=1;
-        </script>
-
-<div id="advancedSearch" class="fr" style=" width:800px; font-size:12px!important;">
-<p class="clr_4"></p>
-<span>
-<a class="fr undr_hver" href="http://www.jeevansathi.com/P/advance_search.php?page_name=advance_search_page"> Advanced Search</a>
-<i class="fr sprte2 blue_arw ml_17"></i>
-</span>
-
-<span id="search_by_id" style="width:200px;z-index:100;position:relative;" onclick="javascript:check_window('search_by_id(\'hide\')');">
-<a class="fr undr_hver" href="#" onclick="search_by_id('show'); return false;"> Search by profile id</a>
-<i class="fr sprte2 blue_arw ml_17"></i>
-</span>
-<span id="save_search_option" style="margin-left:356px;z-index:100; " onclick="javascript:check_window('save_search_options(\'hide\',)')">
-<!--Not to show in case of homepage-->
-<span id="save_search_option" style="z-index:100;"> </span>
-<a class="fr thickbox" href="http://www.jeevansathi.com/profile/login.php?SHOW_LOGIN_WINDOW=1&amp;l_source=L_MSS"> My Saved Searches </a>
-<i class="fr sprte2 blue_arw ml_17"></i>
-
-<p class="clr_4"></p>
-<p class="clr_4"></p>
-</span></div>
-<div class="clr"></div>
-<div id="closeBand" style="background-image: url('http://static.jeevansathi.com/images/qtopc.gif'); background-repeat: repeat-x;display:none">
-<div align="center">
-<a class="naukri_btn4ab">&nbsp;</a>
-</div>
-<p class="clr_4"></p>
-<p class="clr_4"></p>
-</div>
-<div class="clr"></div>
-<div id="openBand" style="background-image: url('http://static.jeevansathi.com/images/qtopo.gif'); background-repeat: repeat-x;display:none">
-<div align="center">
-<a class="naukri_btn4 sprte">&nbsp;</a>
-</div>
-</div>
-
-<script>
-logged_in_username="";
-document.body.onclick=check_window
-</script>
-
-<p class="clr_4"></p>
-<br>
-<div class="clear"></div>
-
-<div class="sp16"></div>
-<br>
-<h1 style="float:left">Privacy Policy</h1>
-<div class="sp3"></div>
-<div class="lf" style="width: 168px;">
-<div class="lf" style="width: 168px;">
-<div><img src="http://static.jeevansathi.com/img_revamp/top_tab_setting.gif"></div>
-<div style="clear:both;"></div>
-<div style="background-image:url(http://static.jeevansathi.com/img_revamp/hr_tab_setting.gif);float:left;width:164px;background-repeat:repeat-y;">
-<div class="st_open_tab">
-<div class="sub_st_tab"><a href="/static/page/disclaimer" class="blink">Terms &amp; Conditions</a></div>
-
-</div>
-<div class="st_close_tab">
-<div class="sub_st_tab"><a href="#" class="blink">Privacy Policy</a></div>
-</div>
-<div class="st_open_tab">
-<div class="sub_st_tab"><a href="/static/page/thirdparty" class="blink">Third  Party Terms &amp; Conditions</a></div>
-
-</div>
-<div class="st_open_tab">
-<div class="sub_st_tab"><a href="/static/page/privacyfeatures" class="blink">Privacy Features</a></div>
-</div>
-</div>
-<div style="clear:both;"></div>
-<div><img src="http://static.jeevansathi.com/img_revamp/bottom_tab_setting.gif"></div>
-</div>
-
-</div>
-<!--Right panel-->
-<div class="rf" style="width:123px;margin-right:0px;display:inline">
-<div class="lf">
-
-<div class="lf rfree_panel" style="background:none; padding-top:12px;">
-<a href="http://www.jeevansathi.com/register/page1?source=rightpanel"><img src="http://static.jeevansathi.com/P/images/RegBanner.gif" border="0"></a>
-
-
-</div>
-<div class="sp8"></div>
-<div style="padding:0px; width:123px;">
-<div class="y">
-<div class="y_top">
-<div class="y_bot">
-<div class="y_lft">
-<div class="y_rgt">
-<div class="y_b_l">
-<div class="y_b_r">
-<div class="y_t_l">
-<div class="y_t_r">
-<div class="sp5"></div>
-<div class="lf orange t12 b" style="text-align:center; width:100%">Success Stories</div>
-<div class="sp8"></div>
-<div class="lf success_bg"><div style="padding: 21px 13px 5px 9px;"><img src="http://mediacdn.jeevansathi.com/1058/15/21175553-1394478002.jpeg" style="width:97px; height:64px"></div></div>
-<div class="sp8"></div>
-<div class="lf" style="text-align:center; width:100%">navneet ka<br>
-weds <br>
-ZZWS9164</div>
-<div class="sp12"></div>
-<div class="lf" style="text-align:center; width:100%"><a href="http://www.jeevansathi.com/successStory/completestory?sid=3815" class="blink b">View More</a></div>
-<div class="sp8"></div>
-
-<div class="lf orange t12 b" style="text-align:center; width:100%">Success Stories</div>
-<div class="sp8"></div>
-<div class="lf success_bg"><div style="padding: 21px 13px 5px 9px;"><img src="http://mediacdn.jeevansathi.com/1298/3/25963202-1415649601.jpeg" style="width:97px; height:64px"></div></div>
-<div class="sp8"></div>
-<div class="lf" style="text-align:center; width:100%">Manjusha S<br>
-weds <br>
-Vivek Potn</div>
-<div class="sp12"></div>
-<div class="lf" style="text-align:center; width:100%"><a href="http://www.jeevansathi.com/successStory/completestory?sid=3984" class="blink b">View More</a></div>
-<div class="sp8"></div>
-
-<div class="lf orange t12 b" style="text-align:center; width:100%">Success Stories</div>
-<div class="sp8"></div>
-<div class="lf success_bg"><div style="padding: 21px 13px 5px 9px;"><img src="http://mediacdn.jeevansathi.com/1312/12/26252154-1416686400.jpeg" style="width:97px; height:64px"></div></div>
-<div class="sp8"></div>
-<div class="lf" style="text-align:center; width:100%">AKANKSHA  <br>
-weds <br>
-AKASH GUPT</div>
-<div class="sp12"></div>
-<div class="lf" style="text-align:center; width:100%"><a href="http://www.jeevansathi.com/successStory/completestory?sid=3996" class="blink b">View More</a></div>
-<div class="sp8"></div>
-
-<div class="lf orange t12 b" style="text-align:center; width:100%">Success Stories</div>
-<div class="sp8"></div>
-<div class="lf success_bg"><div style="padding: 21px 13px 5px 9px;"><img src="http://mediacdn.jeevansathi.com/1315/17/26317052-1416945600.jpeg" style="width:97px; height:64px"></div></div>
-<div class="sp8"></div>
-<div class="lf" style="text-align:center; width:100%">Aakanksha<br>
-weds <br>
-ZZUW9482</div>
-<div class="sp12"></div>
-<div class="lf" style="text-align:center; width:100%"><a href="http://www.jeevansathi.com/successStory/completestory?sid=3999" class="blink b">View More</a></div>
-<div class="sp8"></div>
-
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="sp8"></div>
-
-<span id="zedo_side1"></span>
-<span id="zedo_side2"></span>
-
-</div>
-
-</div>
-</div>
-<!--right panel ends here-->
-
-
-<div class="terms_condition lf extracss">
-<p class="content">Jeevansathi.com is a division of Info Edge (I) Ltd. It is an online matrimonial portal endeavoring constantly to provide you with premium matrimonial services. Since we are strongly committed to your right to privacy, we have drawn have a privacy statement in place with regard to the information we collect from you.</p>
-<p class="content"> We use a secure server for credit card transactions to protect the credit card information of our clients and Cookies are used to store the login information. </p>
-<p class="content"><span class="b">1. What information does Jeevansathi.com collect from you?</span><br> We gather information from members and guests who apply for the various services our         site offers. It includes, but may not be limited to, email address, first name, last name, a user-specified password, e-mail Id, mailing address, zip code and telephone number or fax number. </p>
-<p class="content"> <span class="b">2. How Jeevansathi.com uses the information it collects/tracks?</span><br> We collect information from our clients primarily to ensure that we are able to fulfill your requirements and to deliver personalized experience. </p>
-<p class="content"> <span class="b">3. With whom the site shares the information it collects/tracks?</span><br> The information collected from our clients is shared only with members of JS or members of our partners. Any information you give us is held with the utmost care and security. We are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer. </p>
-<p class="content"><span class="b">4. Do all visitors have to pay?</span><br> NO, All visitors to our site may browse the site, search the ads and view any articles or features our site has to offer without entering any personal information or paying money. </p>
-<p class="content"><span class="b">5. How Jeevansathi.com team can contact you ?</span><br>The Jeevansathi.com team will contact you from time to time to apprise you on various features and functionalities of the website. They will contact you for either "Service" or "Sales" through a variety of mediums like Email, SMS, MMS, Voice IVR, USSD, WAP messages, Telephonic Calls etc. The calls made to you will be from a regular Mobile or Landline number which is not of the "140" series. </p>
-<p class="content gray"> <span class="b">Notice:</span> We may change this Privacy Policy from time to time based on your comments or as a result of a change of policy in our company. If you have any questions regarding our Privacy Statement, please write in to webmaster@jeevansathi.com </p>
-&nbsp;</div>
-
-
-
-</div>
-</div>
-
-<input type="Hidden" name="id_checked" id="id_checked" value="">
-<input type="Hidden" name="CALL_THICK" id="CALL_THICK" value="">
-<input type="Hidden" name="AFTER_LOGIN_CALL" id="AFTER_LOGIN_CALL" value="">
-<input type="hidden" name="NAVIGATOR" value="" id="NAVI">
-
-<!--
-<div class="ftr-browse-matri mar20top sprte-hdr-foot">
-<div class="ftr-con pad48left">
-<span class="fs16 text mar20right " >Browse Matrimonial Profiles by</span>
-<span class="tabs">Others</span><span class="tabs sprte-hdr-foot">Mother Tongue</span><span class="tabs sprte-hdr-foot">Caste</span><span class="tabs sprte-hdr-foot">Religion</span>
-<span class="tabs sprte-hdr-foot">Profession</span> <span class="tabs sprte-hdr-foot">City</span><span class="tabs sprte-hdr-foot">State</span><span class="tabs sprte-hdr-foot">Country</span></div>
-
-</div>
-<div class="h50 clear">
-<div class="ftr-con center fs12" style="line-height:1.1">
-<a href="#">Deaf &amp; Dumb Matrimonials </a>|  <a href="#">Physically Handicapped Matrimonials </a>| <a href="#"> Manglik Matrimonials</a> | <a href="#"> Mentally Challenged Matrimonials</a> | <a href="#"> Divorcee Matrimonials</a>
-| <br />
-<a href="#"> Widower Matrimonials</a> |  <a href="#">Widow Matrimonials</a> | <a href="#"> HIV Positive</a> |  <a href="#">Visually Impaired</a> |  <a href="#">OverWeight</a> | <a href="#"> Senior Citizen </a>
-</div>
-</div>
--->
-<style type="text/css">
-.fl{float:left;}
-.fr{float:right;}
-.pos_abs1{position:absolute;}
-.pos_rltv1{position:relative;}
-.p_tl_01{top:0; left:0;}
-.p_tr_01{top:0; right:0;}
-.p_bl_01{bottom:0; left:0;}
-.p_br_01{bottom:0; right:0;}
-.sprte_callhelp{background:url(http://static.jeevansathi.com/profile/images/call_help_sprte.png) no-repeat;}
-.main_form_cont{border:2px solid #f15e18; color:#ffffff;}
-.h_w_61{height:6px; width:6px; font-size:2px;}
-.h_w_51{height:5px; width:5px; font-size:2px;}
-.d_t_l1{background-position:0 0; margin:-2px 0 0 -2px;}
-.d_t_r1{background-position:-7px 0;margin:-2px -2px 0 0;}
-.d_b_l1{background-position:0 -7px;margin:0 0 -2px -2px; _margin:0 0 -3px -2px;}
-.d_b_r1{background-position:-7px -7px;margin:0 -2px -2px 0; _margin:0 -2px -3px 0;}
-.b{font-weight:bold;}
-.fst{ font-family:Arial, Helvetica, sans-serif;}
-.call-left{ float:left;}
-.call-left1{ font-size:14px; color:#666666;padding:15px 2px 3px 8px;width:209px;}
-.call-left1a{ font-size:13px; color:#666666;padding:15px 5px 3px 8px;}
-.call-left3{font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#cd3705;padding:12px 5px 3px 8px; font-weight:bold; line-height:20px; background-image:url(http://static.jeevansathi.com/profile/images/back.gif); background-repeat:no-repeat;}
-</style>
-<div id="floatMenu" style="display:none;z-index:1020;">
-<iframe id="iframeshim" src="" style="display: inline; z-index: -1; position: absolute; width: 298px; left: 0px; height: 132px; top: 10px;filter: progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0);" frameborder="0" scrolling="no"></iframe>
-<div class="fl mt_10" style="width:298px;  background-color:#ffffff;background-image:url(/profile/images/cuv1.png);">
-<div class="main_form_cont pos_rltv1" style="width:295px;">
-<i class="d_t_l1 pos_abs1 h_w_61 sprte_callhelp"></i>
-<i class="d_t_r1 pos_abs1 h_w_61 sprte_callhelp p_tr_01"></i>
-<i class="d_b_r1 pos_abs1 h_w_61 sprte_callhelp p_br_01"></i>
-<i class="d_b_l1 pos_abs1 h_w_61 sprte_callhelp p_bl_01"></i>
-<div style="height:128px;color:#FFFFFF;width:298px">
-<div class="call-left">
-<div class="call-left1 b fst">Need Help ?</div>
-<div class="call-left3">
-<strong style="color:#000000; font-size:12px;">Call us at: </strong><br>
-0120-4393500<br>18004196299 (Toll Free)
-</div>
-</div>
-<div style="float: right; margin: 2px; padding: 2px;">
-<a href="javascript:close_help();"><img src="/profile/images/close.png" border="0"></a>
-
-</div>
-</div>
-</div>
-</div>
-</div>
-<script>
-var jquery_user;
-if(typeof(fin)!='undefined')
-jquery_user=fin;
-else
-jquery_user=$;
-
-function close_help()
-{
-jquery_user("#floatMenu").hide(1000);
-Set_Cookie( "close_help", 1,"", "/");
-
-}
-var height_help=0;
-
-show_help('floatMenu');
-function show_help(id_of_help)
-{
-var de = top.document.documentElement;
-var w = window.innerWidth || self.innerWidth || (de&&de.clientWidth) || document.body.clientWidth;
-var h = top.window.innerHeight || top.document.innerHeight || (de&&de.clientHeight) || document.body.clientHeight;
-var idofhelp=dID(id_of_help);
-var page_size=tb_getPageSize();
-page_size[1]=h;
-var width_help=page_size[0]-320;
-height_help=page_size[1]-176;
-if(top.document==document)
-height_help+=33;
-
-//alert(width_help+" "+height_help);
-idofhelp.style.display='block';
-idofhelp.style.position='fixed';
-idofhelp.style.top=height_help+"px";
-idofhelp.style.left=width_help+"px";
-
-}
-</script>
-
-
-<div id="ftr-id">
-<div class="ftr-divider block"></div>
-
-<div class="ftr-con">
-
-<div class="ftr-banner">
-<script id="zt_616105_bottom" language="javascript">
-
-zmt_mtag.zmt_render_placement(p616105_bottom);
-</script>
-</div>
-</div>
-</div>
-<div class="ftr-divider2 block"></div>
-
-<div class="ftr-con">
-<div id="fb_block">
-<div class="sprte-hdr-foot left2">&nbsp;</div>
-<div class="mid2" style="width:92px;overflow:hidden">
-<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fjeevansathi&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowtransparency="true"></iframe>
-</div>
-<div class="sprte-hdr-foot right2">&nbsp;</div>
-</div>
-<div class="ftr-banner2" id="banner_social">
-<!-- Javascript tag  -->
-<!-- begin ZEDO for channel: Run of Network , publisher: Jeevansathi , Ad Dimension: facebook - 468 x 60 -->
-<script language="JavaScript">
-var zflag_nid="2466"; var zflag_cid="0"; var zflag_sid="1"; var zflag_width="468"; var zflag_height="60"; var zflag_sz="84";
-</script>
-<script language="JavaScript" src="http://xp2.zedo.com/jsc/xp2/fo.js"></script>
-<!-- end ZEDO for channel: Run of Network , publisher: Jeevansathi , Ad Dimension: facebook - 468 x 60 -->	</div>
-</div>
-
-
-<div class="h25 clear"></div>
-
-<div style="border-top: 1px solid #eaeaea; border-bottom:3px solid #f5f5f5"></div>
-
-<div class="sp10"></div>
-
-<div class="ftr-con">
-<div class=" w142 fl fs12    	 pad5left"><strong>Explore</strong>
-
-<div class="sp10"></div>
-
-<div>
-
-<p><a href="http://www.jeevansathi.com/profile/before_log.php?page=2">My Contacts</a></p>
-<p>&nbsp;            </p>
-<p><a href="http://www.jeevansathi.com/profile/before_log.php?page=3">Edit Profile</a></p>
-<p>&nbsp;</p>
-<p>
-<a href="http://www.jeevansathi.com/profile/revamp_filter.php">Settings</a></p>
-<p>&nbsp;</p>
-<p>
-<a href="http://www.jeevansathi.com/profile/advance_search.php">Advanced Search</a></p>
-<p>&nbsp;</p>
-<p><a href="http://www.jeevansathi.com/successStory/story">Success Stories</a></p>
-<p>&nbsp;</p>
-<!--
-<p><a href="http://www.jeevansathi.com/matrimonial-matrimony-">Browse</a></p>
-<p>&nbsp;</p>-->
-<p><a href="http://www.jeevansathi.com/profile/site_map.php">Sitemap</a></p>
-</div>
-
-</div>
-<div class="w155 fl ftr-links-bdr-grey pad5left fs12"><strong>Services</strong>
-<div class="sp10"></div>
-<div>
-
-<p><a href="http://www.jeevansathi.com/profile/mem_comparison.php?from_source=from_footer">Membership Options</a></p>
-<p>&nbsp;</p>
-<p>
-<a href="http://www.jeevansathi.com/static/advertise">Advertise with us</a></p>
-<p>&nbsp;</p>
-<p><a href="http://www.jeevansathi.com/contactus/index">Jeevansathi centers/offices</a></p>
-<p>&nbsp;
+<!-- <div> "currtime footer from Layout ", 0 </div>
+<div>"showfreshchat footer from layout",  </div>
+<div>"showMessengerChat footer from layout",  </div> -->
+<!--start:bonus recommendation block-->
+<div id="bonusDiv" class="disp-none pos_fix z7 PC_Not_Pos cursp">
+<div class="PC_Not_bg PC_Not_Dim PC_Not_shade">
+<div class="PC_Not_p1">
+<div class="clearfix">
+<div class="fl">
+<img src="" id="bonus-img-src" class="PC_Not_dim5 PC_Not_rad vtop">
+</div>
+
+<div class="fl PC_Not_wid1 color11 PC_Not_p2">
+<p class=" fontreg f16 pt5">
+<span id="bonus-user1"></span> <span id="bonus-other-count"></span>
 </p>
-<p><a href="http://www.jeevansathi.com/contactus/index?st_sel=Delhi">Delhi /NCR</a> |
-<a href="http://www.jeevansathi.com/contactus/index?st_sel=Maharashtra">Mumbai</a> |
-<a href="http://www.jeevansathi.com/contactus/index?st_sel=Maharashtra">Pune</a> |
-<a href="http://www.jeevansathi.com/contactus/index?st_sel=Madhya%20Pradesh">Indore</a> |
-<a href="http://www.jeevansathi.com/contactus/index?st_sel=Madhya%20Pradesh">Bhopal</a> |
-<a href="http://www.jeevansathi.com/contactus/index?st_sel=Uttar%20Pradesh">Lucknow</a> |
-<a href="http://www.jeevansathi.com/contactus/index?st_sel=Uttar%20Pradesh">Kanpur</a> |
-<a href="http://www.jeevansathi.com/contactus/index?st_sel=Gujarat">Surat</a> |
-<a href="http://www.jeevansathi.com/contactus/index?st_sel=Gujarat">Baroda</a> |
-<a href="http://www.jeevansathi.com/contactus/index?st_sel=Karnataka">Bangalore</a> |
-<a href="http://www.jeevansathi.com/contactus/index">Others</a>
-</p>
-</div>
+<p class="fontreg f13 pt5 PC_Not_c1">New recommendations for you</p>
 </div>
 
-
-<div class="w155 fl ftr-links-bdr-grey pad5left fs12"><strong>Help</strong>
-<div class="sp10"></div>
-
-<div>
-<p><a href="http://www.jeevansathi.com/contactus/index">Contact Us</a></p>
-<p>&nbsp;</p>
-<p>
-<a onclick="javascript:window.open('http://server.iad.liveperson.net/hc/13507809/?cmd=file&amp;file=visitorWantsToChat&amp;offlineURL=http://www.jeevansathi.com/profile/faq_redirect.htm&amp;site=13507809&amp;imageUrl=http://www.jeevansathi.com/images_try/liveperson&amp;referrer='+escape(document.location),'chat13507809','width=472,height=320');return false;" target="chat13507809" href="http://server.iad.liveperson.net/hc/13507809/?cmd=file&amp;file=visitorWantsToChat&amp;offlineURL=http://www.jeevansathi.com/profile/faq_redirect.htm&amp;site=13507809&amp;byhref=1&amp;imageUrl=http://www.jeevansathi.com/images_try/liveperson">Live help</a></p>
-<p>&nbsp;</p>
-<p><a href="http://www.jeevansathi.com/faq/feedback?width=512&amp;checksum=" class="thickbox">Feedback/Queries</a></p>
-<p>&nbsp; </p>
-<p><a href="http://www.jeevansathi.com/faq/index">Frequently Asked Questions</a></p>
-<p>&nbsp;  </p>
-<p><a href="http://www.jeevansathi.com/contactus/index">Jeevansathi centers/offices</a></p>
-</div></div>
-<div class="w155 fl ftr-links-bdr-grey pad5left fs12"><strong>Legal</strong>
-<div class="sp10"></div>
-
-<div>
-<p><a href="http://www.infoedge.in/">About Us</a></p>
-<p>&nbsp;</p>
-<p>
-<a href="http://www.jeevansathi.com/profile/disclaimer.php">Terms &amp; Conditions</a></p>
-<p>&nbsp;</p>
-<p>
-<a href="http://www.jeevansathi.com/profile/third_party_content.php">Third party Terms &amp; Conditions</a></p>
-<p>&nbsp;            </p>
-<p><a href="http://www.jeevansathi.com/profile/privacy_policy.php">Privacy Policy</a></p>
-<p>&nbsp;            </p>
-<p><a href="http://www.jeevansathi.com/profile/conf_policy.php">Privacy Features</a></p>
-<p>&nbsp;            </p>
-<p><a href="http://www.jeevansathi.com/static/grievance?summon=1">Summons/Notices</a></p>
-<p>&nbsp;            </p>
-<p><a href="http://www.jeevansathi.com/static/grievance?grievance=1">Grievances</a></p>
-</div>
-</div>
-<div class="w155 fl ftr-links-bdr-grey pad5left fs12"><strong>Our Group</strong>
-<div class="sp10"></div>
-
-<div>
-<p><a target="_blank" href="http://www.naukri.com/">Naukri.com - Jobs in India</a></p>
-<p>&nbsp;</p>
-<p>
-<a target="_blank" href="http://www.naukrigulf.com/">Naukrigulf.com - <br>
-Jobs in middle east</a></p>
-<p>&nbsp;              </p>
-<p><a target="_blank" href="http://www.99acres.com/">99acres.com -<br>
-Properties in India</a></p>
-<p>&nbsp;</p>
-<p>
-<a target="_blank" href="http://www.jeevansathimatchpoint.com/">Jeevansathi Matchpoints</a></p>
-<p>&nbsp;</p>
-<p>
-<a target="_blank" href="http://www.brijj.com/">Brijj.com - <br>
-Professional Networking</a></p>
-<p>&nbsp;</p>
-<p>
-<a target="_blank" href="http://www.shiksha.com/">Shiksha.com - <br>
-Education Career Info</a></p>
-<p>&nbsp;</p>
-<p>
-<a target="_blank" href="http://www.allcheckdeals.com/">AllCheckDeals - <br>
-Property Brokerage in India</a></p>
-<p>&nbsp; </p>
-<p><a target="_blank" href="http://www.firstnaukri.com/">FirstNaukri -
-Job site for Freshers/College Students</a></p>
+<div class="fl pt30 ">
+<div class="color5 fontmed f13 cursp" id="closeBonus">CLOSE</div>
 </div>
 
 </div>
-<div class=" w132 fl ftr-links-bdr-grey pad5left fs12"><strong>Our Partners</strong>
-<div class="sp10"></div>
-
-<div>
-<p><a target="_blank" href="http://www.policybazaar.com/">Policybazaar.com -<br> Insurance <br> India</a></p>
-<p>&nbsp;</p>
-<a target="_blank" href="http://www.meritnation.com/">Meritnation.com - <br>Online Educational<br> Assessment</a>            <p></p>
-<p>&nbsp;</p>
-<p><a target="_blank" href="http://www.zomato.com/">Zomato - <br>Restaurant Directory</a>            </p>
-<p>&nbsp;</p>
-<p><a target="_blank" href="http://www.99labels.com/">99Labels - Discounts on Fashion &amp; Luxury brands </a></p>
-<p>&nbsp;</p>
-<p><a target="_blank" href="http://www.mydala.com/" title="Online Shopping in India - Best Deals">mydala - Best deals in India</a></p>
-<p>&nbsp;</p>
-<p><a target="_blank" href="http://floost.com/" title="Free blogging &amp; content Sharing platform">Floost - You post, the web follows</a></p>
-</div></div>
-
-
-</div><!-- FOOTER LINKS ENDS -->
-<div class="clear"></div>
-<div class="sp15"></div>
-<div class="center">
-<a href="/common/appPromotionDesktop" target="_blank">
-<img src="http://static.jeevansathi.com/images/symfonyMailer/footer-app-download.png" alt="jeevansathi android app" border="0">
-</a>
-</div>
-<div class="sp15"></div>
-<div class="switchBx">
-<b>Switch</b> &nbsp; &nbsp; <a href="http://www.jeevansathi.com?mobile_view=Y">Mobile</a>&nbsp; &nbsp; <span class="switchDdr">|</span> &nbsp; &nbsp; Desktop
-</div>
-<div class="sp15"></div>
-<div class="h77 sprte-hdr-foot ftr-bot">
-<div class="ftr-con ">
-<div class="sp10"></div>
-<div class="w130 h38 ftr-naukri-logo sprte-hdr-foot">&nbsp;</div>
-<div class="fs12 center mar5top">Copyright © 2014 Jeevansathi Internet Services</div>
 </div>
 </div>
+</div>
+<!--end:bonus recommendation block-->
+<div id="mainContent">
 
+<div id="clickHolderCE" onclick="javascript:updateClickHolderCE(false,event)" style="height:0px;width:0px">&nbsp;</div>
+<div id="clickHolder" onclick="javascript:updateClickHolder(false,event)" style="height:0px;width:0px">&nbsp;</div><div id="commonOverlay" class="jspcOverlay js-overlay overlayZ disp-none"></div>
+<!--start:error layer-->
+<div class="pos_fix fullwid z7" style="background-color:#fdfdfd; display:none;" id="commonError">
+<div class="container errwid2 pt10 pb10">
+<div class="disp_ib pos-rel" style="margin:10px 0px 10px 30px;">
+<i class="sprite2 erric1"></i>
+</div>
+<div class="f20 fontlig color11 vtop disp_ib pos-rel" style="margin:13px; width:680px;" id="js-commonErrorMsg">
+Something went wrong. Please try again after some time.
+</div>
+</div>
+</div>
+<!--end:error layer-->
+<div class="cover1">
+<div class="container mainwid pt35 pb40">
+<!--start:top nav case logged in-->
+
+<!--r_num is variable number whose value is fetched from Auth filter in case of JSPC and assigned to script to be accessed in commonExpiration_js.js-->
 <script type="text/javascript">
-var bms_sideBanner =  0 ;
-
-imgLoader = new Image();// preload image
-imgLoader.src = tb_pathToImage;
-
-if(bms_sideBanner  && $(window).width() > 1060)
-$(document).ready(function () {
-gutterBanner();
-});
-$('.thickbox').colorbox();
-
-var navig=document.getElementById("NAVI").value;
-var loggedInProfileid = '';
-
-if(typeof(user_login)!="undefined" && !user_login)
-{
-if(window.parent!==window)
-{
-//parent.document.location.href=document.location.href;
+var r_n_u_m = 173;
+//This fucntion returns the revision number and is called in commonExpiration_js.js
+function getR_N_U_M(){
+return(r_n_u_m);
 }
-}
-try{
-if(document.title)
-top.document.title=document.title;
-else
-top.document.title="Jeevansathi.com";
-}
-catch(err)
-{
-
-}
+// saving logged in user profile checksum.
+localStorage.setItem('userProfileCheckSum','d41d8cd98f00b204e9800998ecf8427ei')
 </script>
-
-<script type="text/javascript" async="" src="https://ssl.widgets.webengage.com/js/widget/webengage-min-v-4.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
-var _weq = _weq || {};
-_weq['webengage.licenseCode'] = '~10a5cc320';
-_weq['webengage.widgetVersion'] = "4.0";
-_weq['webengage.notification.ruleData'] = {
-"Gender" : "",
-"Source": "",
-"Days since registration" : 0,
-"Paid" : "",
-"Community" : ""
+<script type="text/javascript">
+var initialPos=0;
+var zmt_mtag;
+var masterTag = 616105;
+function loadScript(src, callback)
+{
+var s,
+r,
+t;
+r = false;
+s = document.createElement('script');
+s.type = 'text/javascript';
+s.src = src;
+s.onload = s.onreadystatechange = function() {
+if ( !r && (!this.readyState || this.readyState == 'complete') )
+{
+r = true;
+callback();
+}
 };
+t = document.getElementsByTagName('script')[0];
+t.parentNode.insertBefore(s, t);
+}
 
-(function(d)
-{ var _we = d.createElement('script'); _we.type = 'text/javascript'; _we.async = true; _we.src = (d.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js"; var _sNode = d.getElementById('_webengage_script_tag'); _sNode.parentNode.insertBefore(_we, _sNode); }
+function renderBanners()
+{
 
-)(document);
+zmt_mtag = zmt_get_tag(2466,"616105");
+if($("#zd_async_frame_zt_616105_bottom").length)
+$("#zd_async_frame_zt_616105_bottom").remove();
+if($("#zt_616105_bottom").length)
+{
+p616105_bottom = zmt_mtag.zmt_get_placement("zt_616105_bottom", "616105", "1" , "0" , "64" , "0", "970","90");
+p616105_bottom.zmt_add_ct("d7:2");
+}
+zmt_mtag.zmt_set_async();
+zmt_mtag.zmt_load(zmt_mtag);
+
+if($("#zt_616105_bottom").length)
+{
+var newScript = document.createElement('script');
+newScript.id="zt_616105_bottom";
+newScript.text="zmt_mtag.zmt_render_placement(p616105_bottom);";
+document.getElementById("zt_616105_bottom").appendChild(newScript);
+}
+
+}
+
+var prev_handler = window.onload;
+window.onload=function(){
+
+if (prev_handler) {
+prev_handler();
+}
+setTimeout(function(){loadScript('https://saxp.zedo.com/sclient/tt3/fmos.js',renderBanners);},100);
+var zedoLoad = 1;
+}
+</script>
+<!--start:top nav-->
+<div id="topNavigationBar" class="stickyTopNavBar mainwid z2 js-topnav navBarZ pos_rel">
+<div class="fullwid clearfix">
+<!--start:logo-->
+<div id="jeevansathiLogo" class="fl newLogoWidthLoggedOut logop1 hpwhite txtc disp-tbl">
+<p class="lgo" itemtype="http://schema.org/Organization" itemscope="">
+<a class="disp-cell vmid pl10" href="/" itemprop="url"> <img class="brdr-0 vmid" alt="Indian Matrimonials - We Match Better" src="https://static.jeevansathi.com/images/jspc/commonimg/logo1.png" itemprop="logo"> </a>
+</p>
+</div>
+<!--end:logo-->
+<!--start:middle-->
+<div class="fl topnavbg mnav-wid2 colrw f14 hgt63 fontreg">
+<div class="fontreg f14">
+<div class="pl27 clearfix">
+<!--start:left-->
+<ul class="topnavbar listnone fontlig f14 fl pt23">
+<li tabindex="1" id="browseprof"><a class="drop" href="#">BROWSE PROFILES BY</a>
+<!--start:hover box-->
+<div class="TabsContent coloropa1 menushadowGNB" id="BrowseTab_content">
+<div class="InneerTabContent">
+<div class="TabsMenu fl coloropa2 fontreg">
+<a class="sub_h" id="mtongue" href="#">Mother tongue</a>
+<a class="sub_h" id="caste" href="#">Caste</a>
+<a class="sub_h" id="religion" href="#">Religion</a>
+<a class="sub_h" id="city" href="#">City</a>
+<a class="sub_h" id="occupation" href="#">Occupation</a>
+<a class="sub_h" id="state" href="#">State</a>
+<a class="sub_h" id="nri" href="#">NRI</a>
+
+<!-- <a class="sub_h" id="scases" href="#">Special Cases</a>-->
+
+<a class="sub_h" id="college" href="#">College</a>
+</div>
+
+<div class="BrowseContent fl">
+<figure style="display: block;" class="mtongue_h">
+<figcaption>
+<div class="fullwidth clearfix pl10">
+<div class="contentHeader mCustomScrollbar" style="height:360px;padding-bottom:25px;">
+<ul class="clearfix hor_list">
+<li><a title="Hindi Delhi Matrimonial" href="/matrimonials/hindi-matrimonial/"> Hindi-Delhi </a></li>
+<li><a title="Marathi Matrimonial" href="/matrimonials/marathi-matrimonial/"> Marathi </a></li>
+<li><a title="Hindi UP Matrimonial" href="/hindi-up-matrimony-matrimonials"> Hindi-UP </a></li>
+<li><a title="Punjabi Matrimonial" href="/matrimonials/punjabi-matrimonial/"> Punjabi </a></li>
+<li><a title="Telugu Matrimonial" href="/matrimonials/telugu-matrimonial/"> Telugu </a></li>
+<li><a title="Bengali Matrimonial" href="/matrimonials/bengali-matrimonial/"> Bengali </a></li>
+<li><a title="Tamil Matrimonial" href="/matrimonials/tamil-matrimonial/"> Tamil </a></li>
+<li><a title="Gujarati Matrimonial" href="/matrimonials/gujarati-matrimonial/"> Gujarati </a></li>
+<li><a title="Malayalam Matrimonial" href="/matrimonials/malayalee-matrimonial/"> Malayalam </a></li>
+<li><a title="Kannada Matrimonial" href="/matrimonials/kannada-matrimonial/"> Kannada </a></li>
+<li><a title="Hindi MP Matrimonial" href="/hindi-mp-matrimony-matrimonials"> Hindi-MP </a></li>
+<li><a title="Bihari Matrimonial" href="/matrimonials/bihari-matrimonial/"> Bihari </a></li>
+<li><a href="/matrimonials/rajasthani-matrimonial/" title="Rajasthani Matrimonial">Rajasthani</a></li>
+<li><a href="/matrimonials/oriya-matrimonial/" title="Oriya Matrimonial">Oriya</a></li>
+<li><a href="/konkani-matrimony-matrimonials" title="Konkani Matrimonial">Konkani</a></li>
+<li><a href="/himachali-matrimony-matrimonials" title="Himachali Matrimonial">Himachali</a></li>
+<li><a href="/haryanvi-matrimony-matrimonials" title="Haryanvi Matrimonial">Haryanvi</a></li>
+<li><a href="/matrimonials/assamese-matrimonial/" title="Assamese Matrimonial">Assamese</a></li>
+<li><a href="/kashmiri-matrimony-matrimonials" title="Kashmiri Matrimonial">Kashmiri</a></li>
+<li><a href="/sikkim-nepali-matrimony-matrimonials" title="Sikkim Nepali Matrimonial">Sikkim/Nepali</a></li>
+<li><a href="/matrimonials/hindi-matrimonial/" title="Hindi Matrimonial">Hindi</a></li>
+<li><a href="/tulu-matrimony-mtongue" title="Tulu Matrimonial">Tulu</a></li>
+</ul>
+</div>
+</div>
+</figcaption>
+</figure>
+<figure style="display: none;" class="caste_h">
+<figcaption>
+<div class="fullwidth clearfix pl10 fontRobReg">
+<div class="contentHeader mCustomScrollbar" style="height:360px;padding-bottom:25px;">
+<ul class="clearfix hor_list">
+<li><a title="Brahmin Matrimonial" href="/matrimonials/brahmin-matrimonial/"> Brahmin </a></li>
+<li><a title="Sunni Matrimonial" href="/matrimonials/sunni-matrimonial/"> Sunni </a></li>
+<li><a title="Kayastha Matrimonial" href="/matrimonials/kayastha-matrimonial/"> Kayastha </a></li>
+<li><a title="Rajput Matrimonial" href="/matrimonials/rajput-matrimonial/"> Rajput </a></li>
+<li><a title="Maratha Matrimonial" href="/maratha-matrimony-matrimonials"> Maratha </a></li>
+<li><a title="Khatri Matrimonial" href="/matrimonials/khatri-matrimonial/"> Khatri </a></li>
+<li><a title="Aggarwal Matrimonial" href="/matrimonials/agarwal-matrimonial/"> Aggarwal </a></li>
+<li><a title="Arora Matrimonial" href="/matrimonials/arora-matrimonials/"> Arora </a></li>
+<li><a title="Kshatriya Matrimonial" href="/matrimonials/kshatriya-matrimonial/"> Kshatriya </a></li>
+<li><a title="Shwetamber Matrimonial" href="/matrimonials/shwetamber-matrimonial/"> Shwetamber </a></li>
+<li><a title="Yadav Matrimonial" href="/matrimonials/yadav-matrimonial/"> Yadav </a></li>
+<li><a title="Sindhi Matrimonial" href="/matrimonials/sindhi-matrimonial/"> Sindhi </a></li>
+<li><a title="Bania Matrimonial" href="/matrimonials/bania-matrimonial/"> Bania </a></li>
+<li><a title="Scheduled Caste Matrimonial" href="/matrimonials/scheduled-caste-matrimonial/">Scheduled Caste</a></li>
+<li><a title="Nair Matrimonial" href="/matrimonials/nair-matrimonial/">Nair</a></li>
+<li><a title="Lingayat Matrimonial" href="/matrimonials/lingayat-matrimonial/">Lingayat</a></li>
+<li><a title="Jat Matrimonial" href="/matrimonials/jat-matrimonial/">Jat</a></li>
+<li><a title="Catholic   Roman Matrimonial" href="/roman-catholic-matrimony-matrimonials">Catholic - Roman</a></li>
+<li><a title="Patel Matrimonial" href="/matrimonials/patel-matrimonial/">Patel</a></li>
+<li><a title="Digamber Matrimonial" href="/matrimonials/digamber-matrimonial/">Digamber</a></li>
+<li><a title="Sikh Jat Matrimonial" href="/sikh-jat-matrimony-matrimonials">Sikh-Jat</a></li>
+<li><a title="Gupta Matrimonial" href="/matrimonials/gupta-matrimonial/">Gupta</a></li>
+<li><a title="Catholic Matrimonial" href="/matrimonials/catholic-matrimonial/">Catholic</a></li>
+<li><a title="Teli Matrimonial" href="/matrimonials/teli-matrimonial/">Teli</a></li>
+<li><a title="Vishwakarma Matrimonial" href="/matrimonials/vishwakarma-matrimonial/">Vishwakarma</a></li>
+<li><a title="Brahmin Iyer Matrimonial" href="/matrimonials/iyer-matrimonial/">Brahmin Iyer</a></li>
+<li><a title="Vaishnav Matrimonial" href="/matrimonials/vaishnav-matrimonial/">Vaishnav</a></li>
+<li><a title="Jaiswal Matrimonial" href="/matrimonials/jaiswal-matrimonial/">Jaiswal</a></li>
+<li><a title="Gujjar Matrimonial" href="/matrimonials/gujjar-matrimonial/">Gujjar</a></li>
+<li><a title="Syrian Matrimonial" href="/matrimonials/syrian-matrimonial/">Syrian</a></li>
+<li><a title="Adi Dravida Matrimonial" href="/matrimonials/adi-dravida-matrimonial/">Adi Dravida</a></li>
+<li><a title="Arya Vysya Matrimonial" href="/arya-vysya-matrimony-matrimonials">Arya Vysya</a></li>
+<li><a title="Balija Naidu Matrimonial" href="/matrimonials/balija-naidu-matrimonial/">Balija Naidu</a></li>
+<li><a title="Bhandari Matrimonial" href="/matrimonials/bhandari-matrimonial/">Bhandari</a></li>
+<li><a title="Billava Matrimonial" href="/matrimonials/billava-matrimonial/">Billava</a></li>
+<li><a title="Anavil Matrimonial" href="/matrimonials/anavil-brahmin-matrimonial/">Anavil</a></li>
+<li><a title="Goswami Matrimonial" href="/matrimonials/goswami-matrimonial/">Goswami</a></li>
+<li><a title="Brahmin Havyaka Matrimonial" href="/matrimonials/havyaka-brahmin-matrimonial/">Brahmin Havyaka</a></li>
+<li><a title="Kumaoni Matrimonial" href="/matrimonials/kumaoni-matrimonial/">Kumaoni</a></li>
+<li><a title="Madhwa Matrimonial" href="/matrimonials/madhwa-matrimonial/">Madhwa</a></li>
+<li><a title="Nagar Matrimonial" href="/matrimonials/nagar-matrimonial/">Nagar</a></li>
+<li><a title="Smartha Matrimonial" href="/matrimonials/smartha-matrimonial/">Smartha</a></li>
+<li><a title="Vaidiki Matrimonial" href="/matrimonials/vaidiki-matrimonial/">Vaidiki</a></li>
+<li><a title="Viswa Matrimonial" href="/matrimonials/viswa-brahmin-matrimonial/">Viswa</a></li>
+<li><a title="Bunt Matrimonial" href="/matrimonials/bunt-matrimonial/">Bunt</a></li>
+<li><a title="Chambhar Matrimonial" href="/matrimonials/chambhar-matrimonial/">Chambhar</a></li>
+<li><a title="Chaurasia Matrimonial" href="/matrimonials/chaurasia-matrimonial/">Chaurasia</a></li>
+<li><a title="Chettiar Matrimonial" href="/matrimonials/chettiar-matrimonial/">Chettiar</a></li>
+<li><a title="Devanga Matrimonial" href="/matrimonials/devanga-matrimonial/">Devanga</a></li>
+<li><a title="Dhangar Matrimonial" href="/matrimonials/dhangar-matrimonial/">Dhangar</a></li>
+<li><a title="Ezhavas Matrimonial" href="/matrimonials/ezhava-matrimonial/">Ezhavas</a></li>
+<li><a title="Goud Matrimonial" href="/matrimonials/goud-matrimonial/">Goud</a></li>
+<li><a title="Gowda Matrimonial" href="/matrimonials/gowda-matrimonial/">Gowda</a></li>
+<li><a title=" Brahmin Iyengar Matrimonial" href="/matrimonials/iyengar-matrimonial/"> Brahmin Iyengar</a></li>
+<li><a title="Marwari Matrimonial" href="/matrimonials/marwari-matrimonial/">Marwari</a></li>
+<li><a title="Jatav Matrimonial" href="/matrimonials/jatav-matrimonial/">Jatav</a></li>
+<li><a title="Kamma Matrimonial" href="/matrimonials/kamma-matrimonial/">Kamma</a></li>
+<li><a title="Kapu Matrimonial" href="/matrimonials/kapu-matrimonial/">Kapu</a></li>
+<li><a title="Khandayat Matrimonial" href="/matrimonials/khandayat-matrimonial/">Khandayat</a></li>
+<li><a title="Koli Matrimonial" href="/matrimonials/koli-matrimonial/">Koli</a></li>
+<li><a title="Koshti Matrimonial" href="/matrimonials/koshti-matrimonial/">Koshti</a></li>
+<li><a title="Kunbi Matrimonial" href="/matrimonials/kunbi-matrimonial/">Kunbi</a></li>
+<li><a title="Kuruba Matrimonial" href="/matrimonials/kuruba-matrimonial/">Kuruba</a></li>
+<li><a title="Kushwaha Matrimonial" href="/matrimonials/kushwaha-matrimonial/">Kushwaha</a></li>
+<li><a title="Leva Patidar Matrimonial" href="/matrimonials/leva-patidar-matrimonial/">Leva Patidar</a></li>
+<li><a title="Lohana Matrimonial" href="/matrimonials/lohana-matrimonial/">Lohana</a></li>
+<li><a title="Maheshwari Matrimonial" href="/matrimonials/maheshwari-matrimonial/">Maheshwari</a></li>
+<li><a title="Mahisya Matrimonial" href="/matrimonials/mahisya-matrimonial/">Mahisya</a></li>
+<li><a title="Mali Matrimonial" href="/matrimonials/mali-matrimonial/">Mali</a></li>
+<li><a title="Maurya Matrimonial" href="/matrimonials/maurya-matrimonial/">Maurya</a></li>
+<li><a title="Menon Matrimonial" href="/matrimonials/menon-matrimonial/">Menon</a></li>
+<li><a title="Mudaliar Matrimonial" href="/matrimonials/mudaliar-matrimonial/">Mudaliar</a></li>
+<li><a title="Mudaliar Arcot Matrimonial" href="/matrimonials/mudaliar-arcot-matrimonial/">Mudaliar Arcot</a></li>
+<li><a title="Mogaveera Matrimonial" href="/matrimonials/mogaveera-matrimonial/">Mogaveera</a></li>
+<li><a title="Nadar Matrimonial" href="/matrimonials/nadar-matrimonial/">Nadar</a></li>
+<li><a title="Naidu Matrimonial" href="/matrimonials/naidu-matrimonial/">Naidu</a></li>
+<li><a title="Nambiar Matrimonial" href="/matrimonials/nambiar-matrimonial/">Nambiar</a></li>
+<li><a title="Nepali Matrimonial" href="/matrimonials/nepali-matrimonial/">Nepali</a></li>
+<li><a title="Padmashali Matrimonial" href="/matrimonials/padmashali-matrimonial/">Padmashali</a></li>
+<li><a title="Patil Matrimonial" href="/matrimonials/patil-matrimonial/">Patil</a></li>
+<li><a title="Pillai Matrimonial" href="/matrimonials/pillai-matrimonial/">Pillai</a></li>
+<li><a title="Prajapati Matrimonial" href="/matrimonials/prajapati-matrimonial/">Prajapati</a></li>
+<li><a title="Reddy Matrimonial" href="/matrimonials/reddy-matrimonial/">Reddy</a></li>
+<li><a title="Sadgope Matrimonial" href="/matrimonials/sadgope-matrimonial/">Sadgope</a></li>
+<li><a title="Shimpi Matrimonial" href="/matrimonials/shimpi-matrimonial/">Shimpi</a></li>
+<li><a title="Somvanshi Matrimonial" href="/matrimonials/somvanshi-matrimonial/">Somvanshi</a></li>
+<li><a title="Sonar Matrimonial" href="/matrimonials/sonar-matrimonial/">Sonar</a></li>
+<li><a title="Sutar Matrimonial" href="/matrimonials/sutar-matrimonial/">Sutar</a></li>
+<li><a title="Swarnkar Matrimonial" href="/matrimonials/swarnkar-matrimonial/">Swarnkar</a></li>
+<li><a title="Thevar Matrimonial" href="/matrimonials/thevar-matrimonial/">Thevar</a></li>
+<li><a title="Thiyya Matrimonial" href="/matrimonials/thiyya-matrimonial/">Thiyya</a></li>
+<li><a title="Vaish Matrimonial" href="/matrimonials/vaish-matrimonial/">Vaish</a></li>
+<li><a title="Vaishya Matrimonial" href="/matrimonials/vaishya-matrimonial/">Vaishya</a></li>
+<li><a title="Vanniyar Matrimonial" href="/matrimonials/vanniyar-matrimonial/">Vanniyar</a></li>
+<li><a title="Varshney Matrimonial" href="/matrimonials/varshney-matrimonial/">Varshney</a></li>
+<li><a title="Veerashaiva Matrimonial" href="/matrimonials/veerashaiva-matrimonial/">Veerashaiva</a></li>
+<li><a title="Vellalar Matrimonial" href="/matrimonials/vellalar-matrimonial/">Vellalar</a></li>
+<li><a title="Vysya Matrimonial" href="/matrimonials/vysya-matrimonial/">Vysya</a></li>
+<li><a title="Gursikh Matrimonial" href="/matrimonials/gursikh-matrimonial/">Gursikh</a></li>
+<li><a title="Ramgarhia Matrimonial" href="/matrimonials/ramgarhia-matrimonial/">Ramgarhia</a></li>
+<li><a title="Saini Matrimonial" href="/matrimonials/saini-matrimonial/">Saini</a></li>
+<li><a title="Mallah Matrimonial" href="/matrimonials/mallah-matrimonial/">Mallah</a></li>
+<li><a title="Shah Matrimonial" href="/matrimonials/shah-matrimonial/">Shah</a></li>
+<li><a title="Dhobi Matrimonial" href="/matrimonials/dhobi-matrimonial/">Dhobi</a></li>
+<li><a title="Kamboj Matrimonial" href="/matrimonials/kamboj-matrimonial/">Kamboj</a></li>
+<li><a title="Kashmiri Pandit Matrimonial" href="/matrimonials/kashmiri-pandit-matrimonial/">Kashmiri Pandit</a></li>
+<li><a title="Rigvedi Matrimonial" href="/matrimonials/rigvedi-matrimonial/">Rigvedi</a></li>
+<li><a title="Vokkaliga Matrimonial" href="/matrimonials/vokaliga-matrimonial/">Vokkaliga</a></li>
+<li><a title="Bhavasar Kshatriya Matrimonial" href="/matrimonials/bhavsar-matrimonial/">Bhavasar Kshatriya</a></li>
+<li><a title="Agnikula  Matrimonial" href="/matrimonials/agnikula-matrimony-matrimonials">Agnikula </a></li>
+<li><a title="Audichya  Matrimonial" href="/audichya-matrimony-matrimonials">Audichya </a></li>
+<li><a title="Baidya  Matrimonial" href="/baidya-matrimony-matrimonials">Baidya </a></li>
+<li><a title="Baishya  Matrimonial" href="/baishya-matrimony-matrimonials">Baishya </a></li>
+<li><a title="Bhumihar  Matrimonial" href="/bhumihar-matrimony-matrimonials">Bhumihar </a></li>
+<li><a title="Bohra  Matrimonial" href="/bohra-matrimony-matrimonials">Bohra </a></li>
+<li><a title="Chamar  Matrimonial" href="/chamar-matrimony-matrimonials">Chamar </a></li>
+<li><a title="Chasa  Matrimonial" href="/chasa-matrimony-matrimonials">Chasa </a></li>
+<li><a title="Chaudhary  Matrimonial" href="/chaudhary-matrimony-matrimonials">Chaudhary </a></li>
+<li><a title="Chhetri  Matrimonial" href="/chhetri-matrimony-matrimonials">Chhetri </a></li>
+<li><a title="Dhiman  Matrimonial" href="/dhiman-matrimony-matrimonials">Dhiman </a></li>
+<li><a title="Garhwali  Matrimonial" href="/garhwali-matrimony-matrimonials">Garhwali </a></li>
+<li><a title="Gudia  Matrimonial" href="/gudia-matrimony-matrimonials">Gudia </a></li>
+<li><a title="Havyaka  Matrimonial" href="/havyaka-matrimony-matrimonials">Havyaka </a></li>
+<li><a title="Kammavar  Matrimonial" href="/kammavar-matrimony-matrimonials">Kammavar </a></li>
+<li><a title="Karana  Matrimonial" href="/karana-matrimony-matrimonials">Karana </a></li>
+<li><a title="Khandelwal  Matrimonial" href="/khandelwal-matrimony-matrimonials">Khandelwal </a></li>
+<li><a title="Knanaya  Matrimonial" href="/knanaya-matrimony-matrimonials">Knanaya </a></li>
+<li><a title="Kumbhar  Matrimonial" href="/kumbhar-matrimony-matrimonials">Kumbhar </a></li>
+<li><a title="Mahajan  Matrimonial" href="/mahajan-matrimony-matrimonials">Mahajan </a></li>
+<li><a title="Mukkulathor  Matrimonial" href="/mukkulathor-matrimony-matrimonials">Mukkulathor </a></li>
+<li><a title="Pareek  Matrimonial" href="/pareek-matrimony-matrimonials">Pareek </a></li>
+<li><a title="Sourashtra  Matrimonial" href="/sourashtra-matrimony-matrimonials">Sourashtra </a></li>
+<li><a title="Tanti  Matrimonial" href="/tanti-matrimony-matrimonials">Tanti </a></li>
+<li><a title="Thakur  Matrimonial" href="/thakur-matrimony-matrimonials">Thakur </a></li>
+<li><a title="Vanjari  Matrimonial" href="/vanjari-matrimony-matrimonials">Vanjari </a></li>
+<li><a title="Vokkaliga  Matrimonial" href="/vokkaliga-matrimony-matrimonials">Vokkaliga </a></li>
+<li><a title="Daivadnya  Matrimonial" href="/daivadnya-matrimony-matrimonials">Daivadnya </a></li>
+<li><a title="Kashyap  Matrimonial" href="/kashyap-matrimony-matrimonials">Kashyap </a></li>
+<li><a title="Kutchi  Matrimonial" href="/kutchi-matrimony-matrimonials">Kutchi </a></li>
+<li><a title="OBC Matrimonial" href="/matrimonials/obc-matrimonial/">OBC</a></li>
+<li><a title="Besta Matrimonial" href="/besta-matrimony-caste"> Besta </a></li>
+<li><a title="Koli Mahadev Matrimonial" href="/koli-mahadev-matrimony-caste"> Koli Mahadev </a></li>    <li><a title="Meru darji Matrimonial" href="/meru-darji-matrimony-caste"> Meru darji </a></li>
+<li><a title="Chattada Sri Vaishnava Matrimonial" href="/chattada-sri-vaishnava-matrimony-caste"> Chattada Sri Vaishnava </a></li>
+<li><a title="Devang Koshthi Matrimonial" href="/devang-koshthi-matrimony-caste"> Devang Koshthi </a></li>
+<li><a title="Kurmi kshatriya Matrimonial" href="/kurmi-kshatriya-matrimony-caste"> Kurmi kshatriya </a></li>
+<li><a title="6000 Niyogi Brahmin Matrimonial" href="/6000-niyogi-brahmin-matrimony-caste"> 6000 Niyogi Brahmin </a></li>
+<li><a title="Gaur Brahmin Matrimonial" href="/gaur-brahmin-matrimony-caste"> Gaur Brahmin </a></li>
+<li><a title="Adi Karnataka Matrimonial" href="/adi-karnataka-matrimony-caste"> Adi Karnataka </a></li>
+<li><a title="Tonk Kshatriya Matrimonial" href="/tonk-kshatriya-matrimony-caste"> Tonk Kshatriya </a></li>
+<li><a title="Syrian Orthodox Matrimonial" href="/syrian-orthodox-matrimony-caste"> Syrian Orthodox </a></li>
+<li><a title="Tyagi Matrimonial" href="/tyagi-matrimony-caste"> Tyagi </a></li>
+<li><a title="Panchal Matrimonial" href="/panchal-matrimony-caste"> Panchal </a></li>
+<li><a title="Balija Matrimonial" href="/balija-matrimony-caste"> Balija </a></li>
+<li><a title="Kulalar Matrimonial" href="/kulalar-matrimony-caste"> Kulalar </a></li>
+<li><a title="Mathur Matrimonial" href="/mathur-matrimony-caste"> Mathur </a></li>
+<li><a title="Shetty Matrimonial" href="/shetty-matrimony-caste"> Shetty </a></li>
+<li><a title="GSB Matrimonial" href="/gsb-matrimony-caste"> GSB </a></li>
+<li><a title="Pal Matrimonial" href="/pal-matrimony-caste">Pal</a></li>
+<li><a title="Banjara Matrimonial" href="/banjara-matrimony-caste">Banjara</a></li>
+<li><a title="Dheevara Matrimonial" href="/dheevara-matrimony-caste">Dheevara</a></li>
+<li><a title="Valmiki Matrimonial" href="/valmiki-matrimony-caste">Valmiki</a></li>
+<li><a title="Ezhuthachan Matrimonial" href="/ezhuthachan-matrimony-caste">Ezhuthachan</a></li>
+<li><a title="Maruthuvar Matrimonial" href="/maruthuvar-matrimony-caste">Maruthuvar</a></li>
+<li><a title="Kongu Vellala Matrimonial" href="/kongu-vellala-matrimony-caste">Kongu Vellala</a></li>
+<li><a title="Pasi Matrimonial" href="/pasi-matrimony-caste">Pasi</a></li>
+<li><a title="Brethren Matrimonial" href="/brethren-matrimony-caste">Brethren</a></li>
+<li><a title="Lodhi Rajput Matrimonial" href="/lodhi-rajput-matrimony-caste">Lodhi Rajput</a></li>
+<li><a title="CKP Matrimonial" href="/ckp-matrimony-caste">CKP</a></li>
+<li><a title="Jangam Matrimonial" href="/jangam-matrimony-caste">Jangam</a></li>
+<li><a title="Agamudayar Matrimonial" href="/agamudayar-matrimony-caste">Agamudayar</a></li>
+<li><a title="Syro Malabar Matrimonial" href="/syro-malabar-matrimony-caste">Syro Malabar</a></li>
+<li><a title="Namboodiri Matrimonial" href="/namboodiri-matrimony-caste">Namboodiri</a></li>
+<li><a title="Vaniya Matrimonial" href="/vaniya-matrimony-caste">Vaniya</a></li>
+<li><a title="Mudiraj Matrimonial" href="/mudiraj-matrimony-caste">Mudiraj</a></li>
+<li><a title="Madiga Matrimonial" href="/madiga-matrimony-caste">Madiga</a></li>
+<li><a title="Goan Matrimonial" href="/goan-matrimony-caste">Goan</a></li>
+<li><a title="Dusadh Matrimonial" href="/dusadh-matrimony-caste">Dusadh</a></li>
+<li><a title="Gavara Matrimonial" href="/gavara-matrimony-caste">Gavara</a></li>
+<li><a title="Sahu Matrimonial" href="/sahu-matrimony-caste">Sahu</a></li>
+<li><a title="Arunthathiyar Matrimonial" href="/arunthathiyar-matrimony-caste">Arunthathiyar</a></li>
+<li><a title="Kummari Matrimonial" href="/kummari-matrimony-caste">Kummari</a></li>
+<li><a title="Rajaka Matrimonial" href="/rajaka-matrimony-caste">Rajaka</a></li>
+<li><a title="Vannar Matrimonial" href="/vannar-matrimony-caste">Vannar</a></li>
+<li><a title="Kumbhar Matrimonial" href="/kumbhar-matrimony-caste">Kumbhar</a></li>
+<li><a title="Muthuraja Matrimonial" href="/muthuraja-matrimony-caste">Muthuraja</a></li>
+<li><a title="Karuneegar Matrimonial" href="/karuneegar-matrimony-caste">Karuneegar</a></li>
+
+<li><a title="Saliya Matrimonial" href="/saliya-matrimony-caste">Saliya</a></li>
+<li><a title="Kudumbi Matrimonial" href="/kudumbi-matrimony-caste">Kudumbi</a></li>
+<li><a title="Uppara Matrimonial" href="/uppara-matrimony-caste">Uppara</a></li>
+<li><a title="Shivalli Matrimonial" href="/shivalli-matrimony-caste">Shivalli</a></li>
+<li><a title="Matang Matrimonial" href="/matang-matrimony-caste">Matang</a></li>
+<li><a title="Nhavi Matrimonial" href="/nhavi-matrimony-caste">Nhavi</a></li>
+<li><a title="Sood Matrimonial" href="/sood-matrimony-caste">Sood</a></li>
+<li><a title=" Ganiga Iyengar Matrimonial" href="/ganiga-matrimony-caste">Ganiga</a></li>
+<li><a title="Meena Matrimonial" href="/meena-matrimony-caste">Meena</a></li>
+<li><a title="Nayaka Matrimonial" href="/nayaka-matrimony-caste">Nayaka</a></li>
+<li><a title="Vaddera Matrimonial" href="/vaddera-matrimony-caste">Vaddera</a></li>
+<li><a title="Swakula sali" href="/swakula-sali-matrimony-caste">Swakula sali</a></li>
+<li><a title="Vettuva Gounder" href="/vettuva-gounder-matrimony-caste">Vettuva Gounder</a></li>
+<li><a title="Gounder" href="/gounder-matrimony-caste">Gounder</a></li>
+<li><a title="Senguntha Mudaliyar" href="/senguntha-mudaliyar-matrimony-caste">Senguntha Mudaliyar</a></li>
+<li><a title="Leva Patil" href="/leva-patil-matrimony-caste">Leva Patil</a></li>
+<li><a title="Sozhiya Vellalar" href="/sozhiya-vellalar-matrimony-caste">Sozhiya Vellalar</a></li>
+<li><a title="Parkava Kulam" href="/parkava-kulam-matrimony-caste">Parkava Kulam</a></li>
+<li><a title="Vankar" href="/vankar-matrimony-caste">Vankar</a></li>
+<li><a title="Agri Matrimonial" href="/agri-matrimony-caste">Agri</a></li>
+<li><a title="Kori Matrimonial" href="/kori-matrimony-caste">Kori</a></li>
+<li><a title="Gramani Matrimonial" href="/gramani-matrimony-caste">Gramani</a></li>
+<li><a title="Manipuri Matrimonial" href="/manipuri-matrimony-caste">Manipuri</a></li>
+<li><a title="Naicker Matrimonial" href="/naicker-matrimony-caste">Naicker</a></li>
+<li><a title="SKP Matrimonial" href="/skp-matrimony-caste">SKP</a></li>
+<li><a title="Kalar Matrimonial" href="/matrimonials/kalar-matrimonial/">Kalar</a></li>
+<li><a title="Gurav Matrimonial" href="/gurav-matrimony-caste">Gurav</a></li>
+<li><a title="Perika Matrimonial" href="/perika-matrimony-caste">Perika</a></li>
+<li><a title="Velama Matrimonial" href="/velama-matrimony-caste">Velama</a></li>
+<li><a title="Boyer Matrimonial" href="/boyer-matrimony-caste">Boyer</a></li>
+<li><a title="Bhatraju Matrimonial" href="/bhatraju-matrimony-caste">Bhatraju</a></li>
+<li><a title="Meenavar Matrimonial" href="/meenavar-matrimony-caste">Meenavar</a></li>
+<li><a title="Maravar Matrimonial" href="/maravar-matrimony-caste">Maravar</a></li>
+<li><a title="Soni Matrimonial" href="/soni-matrimony-caste">Soni</a></li>
+<li><a title="Ambalavasi Matrimonial" href="/ambalavasi-matrimony-caste">Ambalavasi</a></li>
+<li><a title="Kasar Matrimonial" href="/kasar-matrimony-caste">Kasar</a></li>
+<li><a title="Settibalija Matrimonial" href="/settibalija-matrimony-caste">Settibalija</a></li>
+<li><a title="Kuruhina shetty Matrimonial" href="/kuruhina-shetty-matrimony-caste">Kuruhina shetty</a></li>
+<li><a title="Vaishya Vani Matrimonial" href="/vaishya-vani-matrimony-caste">Vaishya Vani</a></li>
+<li><a title="Vanniyar Matrimonial" href="/devendra-kula-vellalar-matrimony-caste">Devendra Kula Vellalar</a></li>
+<li><a title="Senai Thalaivar" href="/senai-thalaivar-matrimony-caste">Senai Thalaivar</a></li>
+<li><a title="Kalinga Vysya Matrimonial" href="/kalinga-vysya-matrimony-caste">Kalinga Vysya</a></li>
+<li><a title="Chandravanshi Kahar Matrimonial" href="/chandravanshi-kahar-matrimony-caste">Chandravanshi Kahar</a></li>
+<li><a title="Dravida Matrimonial" href="/dravida-matrimony-caste">Dravida</a></li>
+<li><a title="Raigar Matrimonial" href="/raigar-matrimony-caste">Raigar</a></li>
+<li><a title="Kurumbar Matrimonial" href="/kurumbar-matrimony-caste">Kurumbar</a></li>
+<li><a title="Telaga Matrimonial" href="/telaga-matrimony-caste">Telaga</a></li>
+<li><a title="Lambadi Matrimonial" href="/lambadi-matrimony-caste">Lambadi</a></li>
+<li><a title="Thigala Matrimonial" href="/thigala-matrimony-caste">Thigala</a></li>
+<li><a title="Kaibarta Matrimonial" href="/kaibarta-matrimony-caste">Kaibarta</a></li>
+<li><a title="Kulita Matrimonial" href="/kulita-matrimony-caste">Kulita</a></li>
+<li><a title="Pandaram Matrimonial" href="/pandaram-matrimony-caste">Pandaram</a></li>
+<li><a title="Togata Matrimonial" href="/togata-matrimony-caste">Togata</a></li>
+<li><a title="Gondhali Matrimonial" href="/gondhali-matrimony-caste">Gondhali</a></li>
+<li><a title="Pandit Matrimonial" href="/pandit-matrimony-caste">Pandit </a></li>
+<li><a title="Bhatia  Matrimonial" href="/bhatia-matrimony-caste">Bhatia </a></li>
+<li><a title="Tribe  Matrimonial" href="/tribe-matrimony-caste">Tribe </a></li>
+<li><a title="Kharwar Matrimonial" href="/kharwar-matrimony-caste">Kharwar </a></li>
+<li><a title="Panicker  Matrimonial" href="/panicker-matrimony-caste">Panicker </a></li>
+<li><a title="Khatik Matrimonial" href="/khatik-matrimony-caste">Khatik</a></li>
+<li><a title="Kumawat  Matrimonial" href="/kumawat-matrimony-caste">Kumawat </a></li>
+<li><a title="Sakaldwipi Matrimonial" href="/sakaldwipi-matrimony-caste">Sakaldwipi </a></li>
+<li><a title="Vaishnava Matrimonial" href="/vaishnava-matrimony-caste">Vaishnava</a></li>
+<li><a title="Coorgi  Matrimonial" href="/coorgi-matrimony-caste">Coorgi </a></li>
+<li><a title="Gabit Matrimonial" href="/gabit-matrimony-caste">Gabit </a></li>
+<li><a title="Sundhi Matrimonial" href="/sundhi-matrimony-caste">Sundhi </a></li>
+<li><a title="Bhatt Matrimonial" href="/bhatt-matrimony-caste">Bhatt </a></li>
+<li><a title="Lubana Matrimonial" href="/lubana-matrimony-caste">Lubana </a></li>
+<li><a title="Shrimali Matrimonial" href="/shrimali-matrimony-caste">Shrimali </a></li>
+<li><a title="Ismaili Matrimonial" href="/ismaili-matrimony-caste">Ismaili </a></li>
+<li><a title="Kahar Matrimonial" href="/kahar-matrimony-caste">Kahar</a></li>
+<li><a title="Kalwar Matrimonial" href="/kalwar-matrimony-caste">Kalwar</a></li>
+<li><a title="Mohyal Matrimonial" href="/mohyal-matrimony-caste">Mohyal </a></li>
+<!-- <li><a title="Bari Matrimonial" href="/bari-matrimony-caste">Bari</a></li> -->
+<li><a title="Kansari Matrimonial" href="/kansari-matrimony-caste">Kansari</a></li>
+<li><a title="Ramdasia Matrimonial" href="/ramdasia-matrimony-caste">Ramdasia</a></li>
+<li><a title="SSK Matrimonial" href="/ssk-matrimony-caste">SSK</a></li>
+<li><a title="Namasudra Matrimonial" href="/namasudra-matrimony-caste">Namasudra</a></li>
+<li><a title="Oswal Matrimonial" href="/oswal-matrimony-caste">Oswal </a></li>
+<li><a title="Tili Matrimonial" href="/tili-matrimony-caste">Tili</a></li>
+<li><a title="Ahom Matrimonial" href="/ahom-matrimony-caste">Ahom</a></li>
+<li><a title="Kapol Matrimonial" href="/kapol-matrimony-caste">Kapol</a></li>
+<li><a title="Rajbhar Matrimonial" href="/rajbhar-matrimony-caste">Rajbhar </a></li>
+<li><a title="Jhadua Matrimonial" href="/jhadua-matrimony-caste">Jhadua</a></li>
+<li><a title="Kokanastha Matrimonial" href="/kokanastha-maratha-matrimony-caste">Kokanastha</a></li>
+<li><a title="Mehra Matrimonial" href="/mehra-matrimony-caste">Mehra</a></li>
+<li><a title="Patnaick Matrimonial" href="/patnaick-matrimony-caste">Patnaick</a></li>
+<li><a title="Patra Matrimonial" href="/patra-matrimony-caste">Patra</a></li>
+<li><a title="Bishnoi Matrimonial" href="/bishnoi-matrimony-caste">Bishnoi</a></li>
+<li><a title="Dhoba Matrimonial" href="/dhoba-matrimony-caste">Dhoba</a></li>
+<li><a title="Meru Matrimonial" href="/meru-matrimony-caste">Meru</a></li>
+<li><a title="Barujibi Matrimonial" href="/barujibi-matrimony-caste">Barujibi</a></li>
+<li><a title="Halua Matrimonial" href="/halua-matrimony-caste">Halua</a></li>
+<li><a title="Ravidasia Matrimonial" href="/ravidasia-matrimony-caste">Ravidasia</a></li>
+<li><a title="Scheduled Tribe Matrimonial" href="/scheduled-tribe-matrimony-caste">Scheduled Tribe</a></li>
+<li><a title="Ahir Matrimonial" href="/ahir-matrimony-caste">Ahir</a></li>
+<li><a title="Banik Matrimonial" href="/banik-matrimony-caste">Banik</a></li>
+<li><a title="Kota Matrimonial" href="/kota-matrimony-caste">Kota</a></li>
+<li><a title="Lohar Matrimonial" href="/lohar-matrimony-caste">Lohar</a></li>
+<li><a title="Panda Matrimonial" href="/panda-matrimony-caste"> Panda</a></li>
+<li><a title="Tamboli Matrimonial" href="/tamboli-matrimony-caste">Tamboli</a></li>
+<li><a title="Barendra Matrimonial" href="/barendra-matrimony-caste">Barendra</a></li>
+<li><a title="Brahmin Jangra Matrimonial" href="/jangra-brahmin-matrimony-caste">Brahmin Jangra</a></li>
+<li><a title="Gavali Matrimonial" href="/gavali-matrimony-caste">Gavali</a></li>
+<li><a title="Karhade Matrimonial" href="/karhade-matrimony-caste">Karhade</a></li>
+<li><a title="Karmakar Matrimonial" href="/karmakar-matrimony-caste">Karmakar</a></li>
+<li><a title="Subarna Banik Matrimonial" href="/subarna-banik-matrimony-caste">Subarna Banik</a></li>
+<li><a title="Turupu Kapu Matrimonial" href="/turupu-kapu-matrimony-caste">Turupu Kapu</a></li>
+<li><a title="Vaidiki Velanadu Matrimonial" href="/vaidiki-velanadu-matrimony-caste">Vaidiki Velanadu</a></li>
+<li><a title="Velan Matrimonial" href="/velan-matrimony-caste">Velan</a></li>
+<li><a title="Ad Dharmi Matrimonial" href="/ad-dharmi-matrimony-caste">Ad Dharmi</a></li>
+<li><a title="Ghumar Matrimonial" href="/ghumar-matrimony-caste">Ghumar</a></li>
+<li><a title="Kalal Matrimonial" href="/kalal-matrimony-caste">Kalal</a></li>
+<li><a title="Rarhi Matrimonial" href="/rarhi-matrimony-caste">Rarhi</a></li>
+<li><a title="Saha Matrimonial" href="/saha-matrimony-caste">Saha</a></li>
+<li><a title="Sanadya Matrimonial" href="/sanadya-matrimony-caste">Sanadya</a></li>
+<li><a title="Valluvar Matrimonial" href="/valluvar-matrimony-caste">Valluvar</a></li>
+<li><a title="Bahai Matrimonial" href="/bahai-matrimony-caste">Bahai</a></li>
+<li><a title="Gujar Gaur Brahmin Matrimonial" href="/gujar-gaur-brahmin-matrimony-caste">Gujar Gaur Brahmin</a></li>
+<li><a title="Modak Matrimonial" href="/modak-matrimony-caste">Modak</a></li>
+<li><a title="Napit Matrimonial" href="/napit-matrimony-caste">Napit</a></li>
+<li><a title="Pushkarna Matrimonial" href="/pushkarna-matrimony-caste">Pushkarna</a></li>
+<li><a title="Barber Matrimonial" href="/barber-matrimony-caste">Barber</a></li>
+<li><a title="Andhra Brahmin Matrimonial" href="/andhra-brahmin-matrimony-caste">Andhra Brahmin</a></li>
+<li><a title="Rajasthani Brahmin Matrimonial" href="/rajasthani-brahmin-matrimony-matrimonials">Rajasthani Brahmin</a></li>
+<li><a title="Chaudary Matrimonial" href="/chaudary-matrimony-caste">Chaudary</a></li>
+<li><a title="Goala Matrimonial" href="/goala-matrimony-caste">Goala</a></li>
+<li><a title="Labana Matrimonial" href="/labana-matrimony-caste">Labana</a></li>
+<li><a title="Mahindra Matrimonial" href="/mahindra-matrimony-caste">Mahindra</a></li>
+<li><a title="Manglorean Matrimonial" href="/manglorean-matrimony-caste">Manglorean</a></li>
+<li><a title="Motati Reddy Matrimonial" href="/motati-reddy-matrimony-caste">Motati Reddy</a></li>
+<li><a title="Rawat Matrimonial" href="/rawat-matrimony-caste">Rawat</a></li>
+<li><a title="Thakkar Matrimonial" href="/thakkar-matrimony-caste">Thakkar</a></li>
+<li><a title="Vania Matrimonial" href="/vania-matrimony-caste">Vania</a></li>
+<li><a title="Baishnab Matrimonial" href="/baishnab-matrimony-caste">Baishnab</a></li>
+<li><a title="Brahmin Yajurvedi Brahmin Matrimonial" href="/yajurvedi-brahmin-matrimony-caste">Brahmin Yajurvedi Brahmin</a></li>
+<li><a title="Deshastha Maratha Matrimonial" href="/deshastha-maratha-matrimony-caste">Deshastha Maratha Matrimonial</a></li>
+<li><a title="Evangelical Matrimonial" href="/evangelical-matrimony-caste">Evangelical</a></li>
+<li><a title="Gomantak Maratha Matrimonial" href="/gomantak-maratha-matrimony-caste">Gomantak Maratha</a></li>
+<li><a title="Hoysala Matrimonial" href="/hoysala-matrimony-caste">Hoysala</a></li>
+<li><a title="Kadava patel Matrimonial" href="/kadava-patel-matrimony-caste">Kadava Patel</a></li>
+<li><a title="Kumbhakar Matrimonial" href="/kumbhakar-matrimony-caste">Kumbhakar</a></li>
+<li><a title="Mapila Matrimonial" href="/mapila-matrimony-caste">Mapilas</a></li>
+<li><a title="Modh Matrimonial" href="/modh-matrimony-caste">Modh</a></li>
+<li><a title="Narmadiya Matrimonial" href="/narmadiya-matrimony-caste">Narmadiya</a></li>
+<li><a title="Rudraj Matrimonial" href="/rudraj-matrimony-caste">Rudraj</a></li>
+<li><a title="Sanketi Matrimonial" href="/sanketi-matrimony-caste">Sanketi</a></li>
+<li><a title="Sindhi Amil Matrimonial" href="/sindhi-amil-matrimony-caste">Sindhi Amil</a></li>
+<li><a title="Sindhi Bhatia Matrimonial" href="/sindhi-bhatia-matrimony-caste">Sindhi Bhatia</a></li>
+</ul>
+</div>
+</div>
+</figcaption>
+</figure>
+<figure style="display: none;" class="religion_h">
+<figcaption>
+<div class="fullwidth clearfix pl10 fontRobReg">
+<div class="contentHeader mCustomScrollbar" style="height:360px;padding-bottom:25px;">
+<ul class="clearfix hor_list">
+<li><a title="Hindu Matrimonial" href="/matrimonials/hindu-matrimonial/"> Hindu </a></li>
+<li><a title="Muslim Profiles" href="/matrimonials/muslim-matrimonial/"> Muslim </a></li>
+<li><a title="Christian Matrimonial" href="/matrimonials/christian-matrimonial/"> Christian </a></li>
+<li><a title="Sikh Matrimonial" href="/matrimonials/sikh-matrimonial/"> Sikh </a></li>
+<li><a title="Jain Matrimonial" href="/matrimonials/jain-matrimonial/"> Jain </a></li>
+<li><a title="Buddhist Matrimonial" href="/matrimonials/buddhist-matrimonial/"> Buddhist </a></li>
+<li><a title="Parsi Matrimonial" href="/matrimonials/parsi-matrimonial/"> Parsi </a></li>
+<li><a title="Jewish Matrimonial" href="/matrimonials/jewish-matrimonial/"> Jewish </a></li>
+<li><a title="Bahai Matrimonial" href="/bahai-matrimony-religion"> Bahai </a></li>
+
+</ul>
+</div>
+</div>
+</figcaption>
+</figure>
+<figure style="display: none;" class="city_h">
+<figcaption>
+<div class="fullwidth clearfix pl10 fontRobReg">
+<div class="contentHeader mCustomScrollbar" style="height:360px;padding-bottom:25px;">
+<ul class="clearfix hor_list">
+<li><a title="New Delhi Matrimonial" href="/matrimonials/delhi-matrimonials/"> New Delhi </a></li>
+<li><a title="Mumbai Matrimonial" href="/matrimonials/mumbai-matrimonial/"> Mumbai </a></li>
+<li><a title="Bangalore Matrimonial" href="/matrimonials/bangalore-matrimonial/"> Bangalore </a></li>
+<li><a title="Pune Matrimonial" href="/matrimonials/pune-matrimonial/"> Pune </a></li>
+<li><a title="Hyderabad Matrimonial" href="/matrimonials/hyderabad-matrimonial/"> Hyderabad </a></li>
+<li><a title="Kolkata Matrimonial" href="/matrimonials/kolkata-matrimonial/"> Kolkata </a></li>
+<li><a title="Chennai Matrimonial" href="/matrimonials/chennai-matrimonial/"> Chennai </a></li>
+<li><a title="Lucknow Matrimonial" href="/lucknow-matrimony-matrimonials"> Lucknow </a></li>
+<li><a title="Ahmedabad Matrimonial" href="/matrimonials/ahmedabad-matrimonial/"> Ahmedabad </a></li>
+<li><a title="Chandigarh Matrimonial" href="/matrimonials/chandigarh-matrimonial/"> Chandigarh </a></li>
+<li><a title="Nagpur Matrimonial" href="/nagpur-matrimony-matrimonials"> Nagpur </a></li>
+<li><a href="/jaipur-matrimony-matrimonials" title="Jaipur Matrimonial">Jaipur</a></li>
+<li><a href="/gurgaon-matrimony-matrimonials" title="Gurgaon Matrimonial">Gurgaon</a></li>
+<li><a href="/bhopal-matrimony-matrimonials" title="Bhopal Matrimonial">Bhopal</a></li>
+<li><a href="/noida-matrimony-matrimonials" title="Noida Matrimonial">Noida</a></li>
+<li><a href="/indore-matrimony-matrimonials" title="Indore Matrimonial">Indore</a></li>
+<li><a href="/patna-matrimony-matrimonials" title="Patna Matrimonial">Patna</a></li>
+<li><a href="/bhubaneshwar-matrimony-matrimonials" title="Bhubaneshwar Matrimonial">Bhubaneshwar</a></li>
+<li><a href="/ghaziabad-matrimony-matrimonials" title="Ghaziabad Matrimonial">Ghaziabad</a></li>
+<li><a href="/kanpur-matrimony-matrimonials" title="Kanpur Matrimonial">Kanpur</a></li>
+<li><a href="/faridabad-matrimony-matrimonials" title="Faridabad Matrimonial">Faridabad</a></li>
+<li><a href="/ludhiana-matrimony-matrimonials" title="Ludhiana Matrimonial">Ludhiana</a></li>
+<li><a href="/thane-matrimony-matrimonials" title="Thane Matrimonial">Thane</a></li>
+<li><a href="/matrimonials/alabama-matrimonials/" title="Alabama Matrimonial">Alabama</a></li>
+<li><a href="/matrimonials/arizona-matrimonials/" title="Arizona Matrimonial">Arizona</a></li>
+<li><a href="/matrimonials/arkansas-matrimonials/" title="Arkansas Matrimonial">Arkansas</a></li>
+<li><a href="/matrimonials/california-matrimonials/" title="California Matrimonial">California</a></li>
+<li><a href="/matrimonials/colorado-matrimonials/" title="Colorado Matrimonial">Colorado</a></li>
+<li><a href="/matrimonials/connecticut-matrimonials/" title="Connecticut Matrimonial">Connecticut</a></li>
+<li><a href="/matrimonials/delaware-matrimonials/" title="Delaware Matrimonial">Delaware</a></li>
+<li><a href="/matrimonials/district-columbia-matrimonials/" title="District Columbia Matrimonial">District Columbia</a></li>
+<li><a href="/matrimonials/florida-matrimonials/" title="Florida Matrimonial">Florida</a></li>
+<li><a href="/matrimonials/indiana-matrimonials/" title="Indiana Matrimonial">Indiana</a></li>
+<li><a href="/matrimonials/iowa-matrimonials/" title="Iowa Matrimonial">Iowa</a></li>
+<li><a href="/matrimonials/kansas-matrimonials/" title="Kansas Matrimonial">Kansas</a></li>
+<li><a href="/matrimonials/kentucky-matrimonials/" title="Kentucky Matrimonial">Kentucky</a></li>
+<li><a href="/matrimonials/massachusetts-matrimonials/" title="Massachusetts Matrimonial">Massachusetts</a></li>
+<li><a href="/matrimonials/michigan-matrimonials/" title="Michigan Matrimonial">Michigan</a></li>
+<li><a href="/matrimonials/minnesota-matrimonials/" title="Minnesota Matrimonial">Minnesota</a></li>
+<li><a href="/matrimonials/mississippi-matrimonials/" title="Mississippi Matrimonial">Mississippi</a></li>
+<li><a href="/matrimonials/new-jersey-matrimonials/" title="New Jersey Matrimonial">New Jersey</a></li>
+<li><a href="/matrimonials/new-york-matrimonials/" title="New York Matrimonial">New York</a></li>
+<li><a href="/matrimonials/north-carolina-matrimonials/" title="North Carolina Matrimonial">North Carolina</a></li>
+<li><a href="/matrimonials/north-dakota-matrimonials/" title="North Dakota Matrimonial">North Dakota</a></li>
+<li><a href="/matrimonials/ohio-matrimonials/" title="Ohio Matrimonial">Ohio</a></li>
+<li><a href="/matrimonials/oklahoma-matrimonials/" title="Oklahoma Matrimonial">Oklahoma</a></li>
+<li><a href="/matrimonials/oregon-matrimonials/" title="Oregon Matrimonial">Oregon</a></li>
+<li><a href="/matrimonials/pennsylvania-matrimonials/" title="Pennsylvania Matrimonial">Pennsylvania</a></li>
+<li><a href="/matrimonials/south-carolina-matrimonials/" title="South Carolina Matrimonial">South Carolina</a></li>
+<li><a href="/matrimonials/tennessee-matrimonials/" title="Tennessee Matrimonial">Tennessee</a></li>
+<li><a href="/matrimonials/texas-matrimonials/" title="Texas Matrimonial">Texas</a></li>
+<li><a href="/matrimonials/virginia-matrimonials/" title="Virginia Matrimonial">Virginia</a></li>
+<li><a href="/matrimonials/washington-matrimonials/" title="Washington Matrimonial">Washington</a></li>
+<li><a href="/mangalorean-matrimony-matrimonials" title="Mangalorean  Matrimonial">Mangalorean </a></li>
+
+<li><a title="Kalyan Matrimonial" href="/kalyan-matrimony-city">  Kalyan </a></li>
+<!--  <li><a title="Gujrat Matrimonial" href="/gujrat-matrimony-city">  Gujrat </a></li> -->
+<!-- <li><a title="Sari Matrimonial" href="/sari-matrimony-city">  Sari </a></li> -->
+<!-- <li><a title="Hyderabad Matrimonial" href="/hyderabad-matrimony-city">  Hyderabad </a></li> -->
+<li><a title="Delhi Matrimonial" href="/delhi-matrimony-city">  Delhi </a></li>
+<li><a title="Georgia Matrimonial" href="/georgia-matrimony-city">  Georgia </a></li>
+<!-- <li><a title="Amman Matrimonial" href="/amman-matrimony-city">  Amman </a></li> -->
+<!-- <li><a title="Leon Matrimonial" href="/leon-matrimony-city">  Leon </a></li> -->
+<li><a title="Nagercoil Matrimonial" href="/nagercoil-matrimony-city">  Nagercoil </a></li>
+<li><a title="Malappuram Matrimonial" href="/malappuram-matrimony-city">  Malappuram </a></li>
+<li><a title="Kalyani Matrimonial" href="/kalyani-matrimony-city">  Kalyani </a></li>
+<!-- <li><a title="Male Matrimonial" href="/male-matrimony-city">  Male </a></li> -->
+<li><a title="Dindigul Matrimonial" href="/dindigul-matrimony-city">  Dindigul </a></li>
+<!-- <li><a title="Milan Matrimonial" href="/milan-matrimony-city">  Milan </a></li>
+<li><a title="Budapest Matrimonial" href="/budapest-matrimony-city">  Budapest </a></li> -->
+<li><a title="Periyar Matrimonial" href="/periyar-matrimony-city">  Periyar </a></li>
+<li><a title="Agartala Matrimonial" href="/agartala-matrimony-city">  Agartala </a></li>
+<!-- <li><a title="Bari Matrimonial" href="/bari-matrimony-city">  Bari </a></li> -->
+<li><a title="Kumbakonam Matrimonial" href="/kumbakonam-matrimony-city">  Kumbakonam </a></li>
+<!-- <li><a title="Reading Matrimonial" href="/reading-matrimony-city">  Reading </a></li> -->
+<li><a title="Hollywood Matrimonial" href="/hollywood-matrimony-city">  Hollywood </a></li>
+<li><a title="Tuticorin Matrimonial" href="/tuticorin-matrimony-city">  Tuticorin </a></li>
+<li><a title="Vadakara Matrimonial" href="/vadakara-matrimony-city">  Vadakara </a></li>
+<li><a title="Hosur Matrimonial" href="/hosur-matrimony-city">  Hosur </a></li>
+<!-- <li><a title="Nice Matrimonial" href="/nice-matrimony-city">  Nice </a></li> -->
+<li><a title="Aligarh Matrimonial" href="/aligarh-matrimony-city">  Aligarh </a></li>
+<li><a title="Cuddalore Matrimonial" href="/cuddalore-matrimony-city">  Cuddalore </a></li>
+<li><a title="Puducherry Matrimonial" href="/puducherry-matrimony-city">  Puducherry </a></li>
+<li><a title="Orange Matrimonial" href="/orange-matrimony-city">  Orange </a></li>
+<!-- <li><a title="Paris Matrimonial" href="/paris-matrimony-city">  Paris </a></li> -->
+<li><a title="Pudukkottai Matrimonial" href="/pudukkottai-matrimony-city">  Pudukkottai </a></li>
+<li><a title="Saharanpur Matrimonial" href="/saharanpur-matrimony-city">  Saharanpur </a></li>
+<!-- <li><a title="Victoria Matrimonial" href="/victoria-matrimony-city">  Victoria </a></li> -->
+<li><a title="Chittoor Matrimonial" href="/chittoor-matrimony-city">  Chittoor </a></li>
+<!-- <li><a title="Toronto Matrimonial" href="/toronto-matrimony-city">  Toronto </a></li> -->
+<li><a title="Alappuzha Matrimonial" href="/alappuzha-matrimony-city">  Alappuzha </a></li>
+<!-- <li><a title="Batman Matrimonial" href="/batman-matrimony-city">  Batman </a></li> -->
+<li><a title="Boston Matrimonial" href="/boston-matrimony-city">  Boston </a></li>
+<li><a title="Gorakhpur Matrimonial" href="/gorakhpur-matrimony-city">  Gorakhpur </a></li>
+<li><a title="Kakinada Matrimonial" href="/kakinada-matrimony-city">  Kakinada </a></li>
+<li><a title="Satara Matrimonial" href="/satara-matrimony-city">  Satara </a></li>
+<li><a title="Tiruvannamalai Matrimonial" href="/tiruvannamalai-matrimony-city">  Tiruvannamalai </a></li>
+<!-- <li><a title="Vitoria Matrimonial" href="/vitoria-matrimony-city">  Vitoria </a></li> -->
+<!-- <li><a title="Arun Matrimonial" href="/arun-matrimony-city">  Arun </a></li> -->
+<li><a title="Austin Matrimonial" href="/austin-matrimony-city">  Austin </a></li>
+<li><a title="Chicago Matrimonial" href="/chicago-matrimony-city">  Chicago </a></li>
+<li><a title="Dallas Matrimonial" href="/dallas-matrimony-city">  Dallas </a></li>
+<li><a title="Dum Dum Matrimonial" href="/dum-dum-matrimony-city">  Dum Dum </a></li>
+<li><a title="Elizabeth Matrimonial" href="/elizabeth-matrimony-city">  Elizabeth </a></li>
+<!-- <li><a title="Karachi Matrimonial" href="/karachi-matrimony-city">  Karachi </a></li> -->
+<li><a title="Khammam Matrimonial" href="/khammam-matrimony-city">  Khammam </a></li>
+<!-- <li><a title="Lahore Matrimonial" href="/lahore-matrimony-city">  Lahore </a></li> -->
+<li><a title="Nagaland Matrimonial" href="/nagaland-matrimony-city">  Nagaland </a></li>
+<li><a title="Sacramento Matrimonial" href="/sacramento-matrimony-city">  Sacramento </a></li>
+<li><a title="Thalassery Matrimonial" href="/thalassery-matrimony-city">  Thalassery </a></li>
+<li><a title="Bargarh Matrimonial" href="/bargarh-matrimony-city">  Bargarh </a></li>
+<!-- <li><a title="Naga Matrimonial" href="/naga-matrimony-city">  Naga </a></li> -->
+<li><a title="Haridwar Matrimonial" href="/haridwar-matrimony-city">  Haridwar </a></li>
+<li><a title="Atlanta Matrimonial" href="/atlanta-matrimony-city">  Atlanta </a></li>
+<li><a title="Bijapur Matrimonial" href="/bijapur-matrimony-city">  Bijapur </a></li>
+<li><a title="Chidambaram Matrimonial" href="/chidambaram-matrimony-city">  Chidambaram </a></li>
+<!-- <li><a title="Dhaka Matrimonial" href="/dhaka-matrimony-city">  Dhaka </a></li> -->
+<li><a title="Hawaii Matrimonial" href="/hawaii-matrimony-city">  Hawaii </a></li>
+<li><a title="Indianapolis Matrimonial" href="/indianapolis-matrimony-city">  Indianapolis </a></li>
+<!-- <li><a title="Jeddah Matrimonial" href="/jeddah-matrimony-city">  Jeddah </a></li> -->
+<li><a title="Jhansi Matrimonial" href="/jhansi-matrimony-city">  Jhansi </a></li>
+<li><a title="Meghalaya Matrimonial" href="/meghalaya-matrimony-city">  Meghalaya </a></li>
+<li><a title="Nalgonda Matrimonial" href="/nalgonda-matrimony-city">  Nalgonda </a></li>
+<li><a title="Orlando Matrimonial" href="/orlando-matrimony-city">  Orlando </a></li>
+<li><a title="Portland Matrimonial" href="/portland-matrimony-city">  Portland </a></li>
+<li><a title="Rajahmundry Matrimonial" href="/rajahmundry-matrimony-city">  Rajahmundry </a></li>
+<!-- <li><a title="Rome Matrimonial" href="/rome-matrimony-city">  Rome </a></li> -->
+<li><a title="Seattle Matrimonial" href="/seattle-matrimony-city">  Seattle </a></li>
+<li><a title="Shillong Matrimonial" href="/shillong-matrimony-city">  Shillong </a></li>
+<li><a title="Garland Matrimonial" href="/garland-matrimony-city">  Garland </a></li>
+<!-- <li><a title="Calgary Matrimonial" href="/calgary-matrimony-city">  Calgary </a></li> -->
+<!-- <li><a title="St. Louis Matrimonial" href="/St-louis-matrimony-city">  St. Louis </a></li> -->
+<li><a title="Alaska Matrimonial" href="/alaska-matrimony-city">  Alaska </a></li>
+<li><a title="Avadi Matrimonial" href="/avadi-matrimony-city">  Avadi </a></li>
+<li><a title="Bagalkot Matrimonial" href="/bagalkot-matrimony-city">  Bagalkot </a></li>
+<li><a title="Balangir Matrimonial" href="/balangir-matrimony-city">  Balangir </a></li>
+<li><a title="Baltimore Matrimonial" href="/baltimore-matrimony-city">  Baltimore </a></li>
+<li><a title="Bidar Matrimonial" href="/bidar-matrimony-city">  Bidar </a></li>
+<li><a title="Birmingham Matrimonial" href="/birmingham-matrimony-city">  Birmingham </a></li>
+<li><a title="Buffalo Matrimonial" href="/buffalo-matrimony-city">  Buffalo </a></li>
+<!-- <li><a title="Casablanca Matrimonial" href="/casablanca-matrimony-city">  Casablanca </a></li> -->
+<li><a title="Columbus Matrimonial" href="/columbus-matrimony-city">  Columbus </a></li>
+<li><a title="Denver Matrimonial" href="/denver-matrimony-city">  Denver </a></li>
+<li><a title="Gary Matrimonial" href="/gary-matrimony-city">  Gary </a></li>
+<!-- <li><a title="Gibraltar Matrimonial" href="/gibraltar-matrimony-city">  Gibraltar </a></li> -->
+<!-- <li><a title="Glasgow Matrimonial" href="/glasgow-matrimony-city">  Glasgow </a></li> -->
+<li><a title="Guam Matrimonial" href="/guam-matrimony-city">  Guam </a></li>
+<!-- <li><a title="Guatemala Matrimonial" href="/guatemala-matrimony-city">  Guatemala </a></li> -->
+<li><a title="Hassan Matrimonial" href="/hassan-matrimony-city">  Hassan </a></li>
+<!-- <li><a title="Hong Kong Matrimonial" href="/hong-kong-matrimony-city">  Hong Kong </a></li> -->
+<li><a title="Houston Matrimonial" href="/houston-matrimony-city">  Houston </a></li>
+<li><a title="Idaho Matrimonial" href="/idaho-matrimony-city">  Idaho </a></li>
+<!-- <li><a title="Jaffna Matrimonial" href="/jaffna-matrimony-city">  Jaffna </a></li> -->
+<li><a title="Kadapa Matrimonial" href="/kadapa-matrimony-city">  Kadapa </a></li>
+<li><a title="Karimganj Matrimonial" href="/karimganj-matrimony-city">  Karimganj </a></li>
+<li><a title="Kullu Matrimonial" href="/kullu-matrimony-city">  Kullu </a></li>
+<li><a title="Las Vegas Matrimonial" href="/Las-vegas-matrimony-city">  Las Vegas </a></li>
+<li><a title="Latur Matrimonial" href="/latur-matrimony-city">  Latur </a></li>
+<li><a title="Los Angeles Matrimonial" href="/Los-angeles-matrimony-city">  Los Angeles </a></li>
+<!-- <li><a title="Manchester Matrimonial" href="/manchester-matrimony-city">  Manchester </a></li> -->
+<li><a title="Miami Matrimonial" href="/miami-matrimony-city">  Miami </a></li>
+<li><a title="Montana Matrimonial" href="/montana-matrimony-city">  Montana </a></li>
+<!-- <li><a title="Montreal Matrimonial" href="/montreal-matrimony-city">  Montreal </a></li> -->
+
+
+<li><a title="Moradabad Matrimonial" href="/moradabad-matrimony-city"> Moradabad</a></li>
+<!-- <li><a title="Muscat Matrimonial" href="/muscat-matrimony-city">Muscat</a></li> -->
+<li><a title="Nizamabad Matrimonial" href="/nizamabad-matrimony-city">Nizamabad</a></li>
+<!-- <li><a title="Odessa Matrimonial" href="/odessa-matrimony-city">Odessa</a></li> -->
+<li><a title="Omaha Matrimonial" href="/omaha-matrimony-city">Omaha</a></li>
+<li><a title="Ongole Matrimonial" href="/ongole-matrimony-city"> Ongole</a></li>
+<li><a title="Ontario Matrimonial" href="/ontario-matrimony-city">Ontario</a></li>
+<!-- <li><a title="Ottawa Matrimonial" href="/ottawa-matrimony-city">Ottawa</a></li> -->
+<li><a title="Philadelphia Matrimonial" href="/philadelphia-matrimony-city">Philadelphia</a></li>
+<li><a title="Rajpura Matrimonial" href="/rajpura-matrimony-city">Rajpura</a></li>
+<!-- <li><a title="Regina Matrimonial" href="/regina-matrimony-city">Regina</a></li> -->
+<li><a title="Richmond Matrimonial" href="/richmond-matrimony-city">Richmond</a></li>
+<!-- <li><a title="San Diego Matrimonial" href="/san-diego-matrimony-city">San Diego</a></li> -->
+<li><a title="Tambaram Matrimonial" href="/tambaram-matrimony-city">Tambaram</a></li>
+<li><a title="Tulsa Matrimonial" href="/tulsa-matrimony-city">Tulsa</a></li>
+<li><a title="Utah Matrimonial" href="/utah-matrimony-city">Utah</a></li>
+<!-- <li><a title="Vancouver Matrimonial" href="/vancouver-matrimony-city">Vancouver</a></li> -->
+<li><a title="Wisconsin Matrimonial" href="/wisconsin-matrimony-city">Wisconsin</a></li>
+<!-- <li><a title="Gujranwala Matrimonial" href="/gujranwala-matrimony-city">Gujranwala</a></li>
+<li><a title="Sargodha Matrimonial" href="/sargodha-matrimony-city">Sargodha</a></li> -->
+<!--  <li><a title="Puerto Rico Matrimonial" href="/puerto-rico-matrimony-city">Puerto Rico</a></li> -->
+<!-- <li><a title="Manila Matrimonial" href="/manila-matrimony-city">Manila</a></li> -->
+<li><a title="Rayagada Matrimonial" href="/rayagada-matrimony-city">Rayagada</a></li>
+<li><a title="Aurora Matrimonial" href="/aurora-matrimony-city">Aurora</a></li>
+<li><a title="Nainital Matrimonial" href="/nainital-matrimony-city">Nainital</a></li>
+<!-- <li><a title="New Forest Matrimonial" href="/new-forest-matrimony-city">New Forest</a></li> -->
+<li><a title="New Mexico Matrimonial" href="/new-mexico-matrimony-city">New Mexico</a></li>
+<li><a title="Pithoragarh Matrimonial" href="/pithoragarh-matrimony-city">Pithoragarh</a></li>
+<li><a title="Riverside Matrimonial" href="/riverside-matrimony-city">Riverside</a></li>
+<!-- <li><a title="Sochi Matrimonial" href="/sochi-matrimony-city">Sochi</a></li> -->
+<!-- <li><a title="Adelaide Matrimonial" href="/adelaide-matrimony-city">Adelaide</a></li> -->
+<li><a title="Almora Matrimonial" href="/almora-matrimony-city">Almora</a></li>
+<!-- <li><a title="Amara Matrimonial" href="/amara-matrimony-city">Amara</a></li> -->
+<li><a title="Ambikapur Matrimonial" href="/ambikapur-matrimony-city">Ambikapur</a></li>
+<!-- <li><a title="Amsterdam Matrimonial" href="/amsterdam-matrimony-city">Amsterdam</a></li>
+<li><a title="Armenia Matrimonial" href="/armenia-matrimony-city">Armenia</a></li>
+<li><a title="Bangkok Matrimonial" href="/bangkok-matrimony-city">Bangkok</a></li> -->
+<li><a title="Bankura Matrimonial" href="/bankura-matrimony-city">Bankura</a></li>
+<!-- <li><a title="Barcelona Matrimonial" href="/barcelona-matrimony-city">Barcelona</a></li>
+<li><a title="Benin Matrimonial" href="/benin-matrimony-city">Benin</a></li> -->
+<li><a title="Bhadrak Matrimonial" href="/bhadrak-matrimony-city">Bhadrak</a></li>
+<!-- <li><a title="Blackburn Matrimonial" href="/blackburn-matrimony-city">Blackburn</a></li>
+<li><a title="Brampton Matrimonial" href="/brampton-matrimony-city">Brampton</a></li> -->
+<!-- <li><a title="Brent Matrimonial" href="/brent-matrimony-city">Brent</a></li>
+<li><a title="Brisbane Matrimonial" href="/brisbane-matrimony-city">Brisbane</a></li>
+<li><a title="Bromley Matrimonial" href="/bromley-matrimony-city">Bromley</a></li>
+<li><a title="Cali Matrimonial" href="/cali-matrimony-city">Cali</a></li>
+<li><a title="Central Coast Matrimonial" href="/central-coast-matrimony-city">Central Coast</a></li> -->
+<li><a title="Chandler Matrimonial" href="/chandler-matrimony-city">Chandler</a></li>
+<li><a title="Charlotte Matrimonial" href="/charlotte-matrimony-city">Charlotte</a></li>
+<li><a title="Cherthala Matrimonial" href="/cherthala-matrimony-city">Cherthala</a></li>
+<li><a title="Cleveland Matrimonial" href="/cleveland-matrimony-city">Cleveland</a></li>
+<!-- <li><a title="Copenhagen Matrimonial" href="/copenhagen-matrimony-city">Copenhagen</a></li> -->
+<li><a title="Cuddapah Matrimonial" href="/cuddapah-matrimony-city">Cuddapah</a></li>
+<!-- <li><a title="Dali Matrimonial" href="/dali-matrimony-city">Dali</a></li> -->
+<li><a title="Dharwad Matrimonial" href="/dharwad-matrimony-city">Dharwad</a></li>
+<li><a title="Dhenkanal Matrimonial" href="/dhenkanal-matrimony-city">Dhenkanal</a></li>
+<li><a title="Dhule Matrimonial" href="/dhule-matrimony-city">Dhule</a></li>
+<li><a title="District Of Columbia Matrimonial" href="/district-of-columbia-matrimony-city">District Of Columbia</a></li>
+<!-- <li><a title="Dublin Matrimonial" href="/dublin-matrimony-city">Dublin</a></li>
+<li><a title="Edmonton Matrimonial" href="/edmonton-matrimony-city">Edmonton</a></li> -->
+<li><a title="Eluru Matrimonial" href="/eluru-matrimony-city">Eluru</a></li>
+<!-- <li><a title="Engels Matrimonial" href="/engels-matrimony-city">Engels</a></li>
+<li><a title="Greenwich Matrimonial" href="/greenwich-matrimony-city">Greenwich</a></li> -->
+<li><a title="Gurdaspur Matrimonial" href="/gurdaspur-matrimony-city">Gurdaspur</a></li>
+<li><a title="Haldwani Matrimonial" href="/haldwani-matrimony-city">Haldwani</a></li>
+<!-- <li><a title="Hamilton Matrimonial" href="/hamilton-matrimony-city">Hamilton</a></li>
+<li><a title="Haringey Matrimonial" href="/haringey-matrimony-city">Haringey</a></li> -->
+<!-- <li><a title="Hilla Matrimonial" href="/hilla-matrimony-city">Hilla</a></li> -->
+<li><a title="Hospet Matrimonial" href="/hospet-matrimony-city">Hospet</a></li>
+<li><a title="Illinois Matrimonial" href="/illinois-matrimony-city">Illinois</a></li>
+<!-- <li><a title="Islamabad Matrimonial" href="/islamabad-matrimony-city">Islamabad</a></li>
+<li><a title="Istanbul Matrimonial" href="/istanbul-matrimony-city">Istanbul</a></li> -->
+<li><a title="Jackson Matrimonial" href="/jackson-matrimony-city">Jackson</a></li>
+<li><a title="Kanhangad Matrimonial" href="/kanhangad-matrimony-city">Kanhangad</a></li>
+<li><a title="Kansas City Matrimonial" href="/kankas-city-matrimony-city">Kansas City</a></li>
+<li><a title="Kendrapara Matrimonial" href="/kendrapara-matrimony-city">Kendrapara</a></li>
+<li><a title="Lakshadweep Matrimonial" href="/lakshadweep-matrimony-city">Lakshadweep</a></li>
+<li><a title="Lincoln Matrimonial" href="/lincoln-matrimony-city">Lincoln</a></li>
+<li><a title="Long Beach Matrimonial" href="/long-beach-matrimony-city">Long Beach</a></li>
+<li><a title="Louisville Matrimonial" href="/louisville-matrimony-city">Louisville</a></li>
+<li><a title="Madison Matrimonial" href="/madison-matrimony-city">Madison</a></li>
+<li><a title="Maine Matrimonial" href="/maine-matrimony-city">Maine</a></li>
+<li><a title="Mandi Matrimonial" href="/mandi-matrimony-city">Mandi</a></li>
+<li><a title="Mandya Matrimonial" href="/mandya-matrimony-city">Mandya</a></li>
+<li><a title="Maryland Matrimonial" href="/maryland-matrimony-city">Maryland</a></li>
+<li><a title="Memphis Matrimonial" href="/memphis-matrimony-city">Memphis</a></li>
+<li><a title="Missouri Matrimonial" href="/missouri-matrimony-city">Missouri</a></li>
+<!-- <li><a title="Monaco Matrimonial" href="/monaco-matrimony-city">Monaco</a></li> -->
+<!-- <li><a title="Moscow Matrimonial" href="/moscow-matrimony-city">Moscow</a></li> -->
+<li><a title="Nagapattinam Matrimonial" href="/nagapattinam-matrimony-city">Nagapattinam</a></li>
+<!-- <li><a title="Nairobi Matrimonial" href="/nairobi-matrimony-city">Nairobi</a></li> -->
+<li><a title="Nanded Matrimonial" href="/nanded-matrimony-city">Nanded</a></li>
+<li><a title="Navi Mumbai Matrimonial" href="/navi-mumbai-matrimony-city">Navi Mumbai</a></li>
+<li><a title="Nebraska Matrimonial" href="/nebraska-matrimony-city">Nebraska</a></li>
+<li><a title="Nevada Matrimonial" href="/nevada-matrimony-city">Nevada</a></li>
+<li><a title="New Hampshire Matrimonial" href="/new-hampshire-matrimony-city">New Hampshire</a></li>
+<li><a title="New Orleans Matrimonial" href="/new-orleans-matrimony-city">New Orleans</a></li>
+<li><a title="Panvel Matrimonial" href="/panvel-matrimony-city">Panvel</a></li>
+<li><a title="Pittsburgh Matrimonial" href="/pittsburgh-matrimony-city">Pittsburgh</a></li>
+<!-- <li><a title="Quebec Matrimonial" href="/quebec-matrimony-city">Quebec</a></li> -->
+<li><a title="Raichur Matrimonial" href="/raichur-matrimony-city">Raichur</a></li>
+<li><a title="Reno Matrimonial" href="/reno-matrimony-city">Reno</a></li>
+<li><a title="Rhode Island Matrimonial" href="/rhode-island-matrimony-city">Rhode Island</a></li>
+<!-- <li><a title="Riga Matrimonial" href="/riga-matrimony-city">Riga</a></li> -->
+<!-- <li><a title="Riyadh Matrimonial" href="/riyadh-matrimony-city">Riyadh</a></li> -->
+<li><a title="San Antonio Matrimonial" href="/san-antonio-matrimony-city">San Antonio</a></li>
+<li><a title="San Francisco Matrimonial" href="/san-francisco-matrimony-city">San Francisco</a></li>
+<li><a title="Savannah Matrimonial" href="/savannah-matrimony-city">Savannah</a></li>
+<!-- <li><a title="Scarborough Matrimonial" href="/scarborough-matrimony-city">Scarborough</a></li>
+<li><a title="Shanghai Matrimonial" href="/shanghai-matrimony-city">Shanghai</a></li> -->
+<!-- <li><a title="Slough Matrimonial" href="/slough-matrimony-city">Slough</a></li> -->
+<li><a title="Sirsa Matrimonial" href="/sirsa-matrimony-city">Sirsa</a></li>
+<!-- <li><a title="Sofia Matrimonial" href="/sofia-matrimony-city">Sofia</a></li>
+<li><a title="Solihull Matrimonial" href="/solihull-matrimony-city">Solihull</a></li>
+<li><a title="Southampton Matrimonial" href="/southhampton-matrimony-city">Southampton</a></li>
+<li><a title="Split Matrimonial" href="/split-matrimony-city">Split</a></li> -->
+<li><a title="Srikakulam Matrimonial" href="/srikakulam-matrimony-city">Srikakulam</a></li>
+<li><a title="St Paul Matrimonial" href="/st-paul-matrimony-city">St Paul</a></li>
+<!-- <li><a title="Surrey Matrimonial" href="/surrey-matrimony-city">Surrey</a></li> -->
+<li><a title="Taliparamba Matrimonial" href="/taliparamba-matrimony-city">Taliparamba</a></li>
+<!-- <li><a title="Tokyo Matrimonial" href="/tokyo-matrimony-city">Tokyo</a></li>
+<li><a title="Tower Hamlets Matrimonial" href="/tower-hamlets-matrimony-city">Tower Hamlets</a></li> -->
+<li><a title="Ulhasnagar Matrimonial" href="/ulhasnagar-matrimony-city">Ulhasnagar</a></li>
+<li><a title="Vermont Matrimonial" href="/vermont-matrimony-city">Vermont</a></li>
+<!-- <li><a title="Volgograd Matrimonial" href="/volgograd-matrimony-city">Volgograd</a></li> -->
+<li><a title="Warren Matrimonial" href="/warren-matrimony-city">Warren</a></li>
+<li><a title="West Virginia Matrimonial" href="/west-virginia-matrimony-city">West Virginia</a></li>
+<!-- <li><a title="Windsor Matrimonial" href="/windsor-matrimony-city">Windsor</a></li> -->
+<li><a title="Wyoming Matrimonial" href="/wyoming-matrimony-city">Wyoming</a></li>
+<li><a title="Yavatmal Matrimonial" href="/yavatmal-matrimony-city">Yavatmal</a></li>
+
+</ul>
+</div>
+</div>
+</figcaption>
+</figure>
+<figure style="display: none;" class="occupation_h">
+<figcaption>
+<div class="fullwidth clearfix pl10 fontRobReg">
+<div class="contentHeader mCustomScrollbar" style="height:360px;padding-bottom:25px;">
+<ul class="clearfix hor_list">
+<li><a title="IT Software Matrimonial" href="/it-software-engineers-matrimony-matrimonials"> IT Software </a></li>
+<li><a title="Teacher Matrimonial" href="/teachers-matrimony-matrimonials"> Teacher </a></li>
+<li><a title="CA Accountant Matrimonial" href="/ca-accountant-matrimony-matrimonials"> CA/Accountant </a></li>
+<li><a title="Businessman Matrimonial" href="/businessman-matrimony-matrimonials"> Businessman </a></li>
+<li><a title="Doctors Nurse Matrimonial" href="/doctors-nurse-matrimony-matrimonials"> Doctors/Nurse </a></li>
+<li><a title="Govt. Services Matrimonial" href="/government-services-matrimony-matrimonials"> Govt. Services </a></li>
+<li><a title="Lawyers Matrimonial" href="/lawyers-matrimony-matrimonials"> Lawyers </a></li>
+<li><a title="Defence Matrimonial" href="/defence-matrimony-matrimonials"> Defence </a></li>
+<li><a title="IAS Matrimonial" href="/ias-matrimony-matrimonials"> IAS </a></li>
+<li><a title="Cyber / Network Security Matrimonial" href="/cyber-network-security-matrimony-occupation">Cyber / Network Security</a></li>
+<li><a title="Police Matrimonial" href="/police-matrimony-occupation">Police</a></li>
+<li><a title="Nurse Matrimonial" href="/nurse-matrimony-occupation">Nurse</a></li>
+<li><a title="Psychologist Matrimonial" href="/psychologist-matrimony-occupation">Psychologist</a></li>
+<li><a title="Pilot Matrimonial" href="/pilot-matrimony-occupation">Pilot</a></li>
+<li><a title="Navy Matrimonial" href="/navy-matrimony-occupation">Navy</a></li>
+<li><a title="Air Hostess Matrimonial" href="/air-hostess-matrimony-occupation">Air Hostess</a></li>
+<li><a title="Engineers Matrimonial" href="/engineers-matrimony-occupation">Engineers</a></li>
+<li><a title="NGO/Social Services Matrimonial" href="/ngo-social-services-matrimony-occupation">NGO/Social Services</a></li>
+
+</ul>
+</div>
+</div>
+</figcaption>
+</figure>
+<figure style="display: none;" class="state_h">
+<figcaption>
+<div class="fullwidth clearfix pl10 fontRobReg">
+<div class="contentHeader mCustomScrollbar" style="height:360px;padding-bottom:25px;">
+<ul class="clearfix hor_list">
+<li><a title="Maharashtra Matrimonial" href="/matrimonials/maharashtra-matrimonial/"> Maharashtra </a></li>
+<li><a title="Uttar Pradesh Matrimonial" href="/matrimonials/uttar-pradesh-matrimonial/"> Uttar Pradesh </a></li>
+<li><a title="Karnataka Matrimonial" href="/matrimonials/karnataka-matrimonial/"> Karnataka </a></li>
+<li><a title="Andhra Pradesh Matrimonial" href="/matrimonials/andhra-pradesh-matrimonial/"> Andhra Pradesh </a></li>
+<li><a title="Tamil Nadu Matrimonial" href="/matrimonials/tamil-nadu-matrimonial/"> Tamil Nadu </a></li>
+<li><a title="West Bengal Matrimonial" href="/matrimonials/west-bengal-matrimonials/"> West Bengal </a></li>
+<li><a title="Madhya Pradesh Matrimonial" href="/matrimonials/madhya-pradesh-matrimonial/"> Madhya Pradesh </a></li>
+<li><a title="Gujarat Matrimonial" href="/matrimonials/gujarat-matrimonial/"> Gujarat </a></li>
+<li><a title="Haryana Matrimonial" href="/matrimonials/haryana-matrimonial/"> Haryana </a></li>
+<li><a href="/bihar-matrimony-matrimonials" title="Bihar Matrimonial">Bihar</a></li>
+<li><a href="/matrimonials/kerala-matrimonial/" title="Kerala Matrimonial">Kerala</a></li>
+<li><a href="/rajasthan-matrimony-matrimonials" title="Rajasthan Matrimonial">Rajasthan</a></li>
+<li><a href="/punjab-matrimony-matrimonials" title="Punjab Matrimonial">Punjab</a></li>
+<li><a href="/matrimonials/orissa-matrimonial/" title="Orissa Matrimonial">Orissa</a></li>
+<li><a href="/matrimonials/assam-matrimonial/" title="Assam Matrimonial">Assam</a></li>
+<li><a href="/matrimonials/jammu-kashmir-matrimonial/" title="Jammu &amp; Kashmir Matrimonial">Jammu &amp; Kashmir</a></li>
+<li><a href="/matrimonials/goa-matrimonials/" title="Goa Matrimonial">Goa</a></li>
+<li><a href="/matrimonials/himachal-pradesh-matrimonial/" title="Himachal Pradesh Matrimonial">Himachal Pradesh</a></li>
+<li><a href="/matrimonials/arunachal-pradesh-matrimonial/" title="Arunachal Pradesh Matrimonial">Arunachal Pradesh</a></li>
+<li><a href="/matrimonials/mizoram-matrimonial/" title="Mizoram Matrimonial">Mizoram</a></li>
+<li><a href="/matrimonials/pondicherry-matrimonial/" title="Pondicherry Matrimonial">Pondicherry</a></li>
+<li><a href="/matrimonials/sikkim-matrimonial/" title="Sikkim Matrimonial">Sikkim</a></li>
+<li><a href="/matrimonials/tripura-matrimonial/" title="Tripura Matrimonial">Tripura</a></li>
+<li><a href="/matrimonials/jharkhand-matrimony-matrimonials/" title="Jharkhand Matrimonial">Jharkhand</a></li>
+<li><a href="/matrimonials/chhattisgarh-matrimony-matrimonials/" title="Chhattisgarh Matrimonial">Chhattisgarh</a></li>
+<li><a href="/matrimonials/uttarakhand-matrimony-matrimonials/" title="Uttarakhand Matrimonial">Uttarakhand</a></li>
+<li><a title="Manipur Matrimonial" href="/manipur-matrimony-state">Manipur</a></li>
+<li><a title="Nagaland Matrimonial" href="/nagaland-matrimony-state">Nagaland</a></li>
+<li><a title="Meghalaya Matrimonial" href="/meghalaya-matrimony-state">Meghalaya</a></li>
+<li><a title="Lakshadweep Matrimonial" href="/lakshadweep-matrimony-state">Lakshadweep</a></li>
+
+</ul>
+</div>
+</div>
+</figcaption>
+</figure>
+<figure style="display: none;" class="nri_h">
+<figcaption>
+<div class="fullwidth clearfix pl10 fontRobReg">
+<div class="contentHeader mCustomScrollbar" style="height:360px;padding-bottom:25px;">
+<ul class="clearfix hor_list">
+<li><a title="India Matrimonial" href="/matrimonials/india-matrimonial/"> India </a></li>
+<li><a title="United States Matrimonial" href="/matrimonials/usa-matrimonial/"> United States </a></li>
+<li><a title="United Arab Emirates Matrimonial" href="/matrimonials/uae-matrimonial/"> United Arab Emirates </a></li>
+<li><a title="United Kingdom Matrimonial" href="/matrimonials/uk-matrimonial/"> United Kingdom </a></li>
+<li><a title="Australia Matrimonial" href="/australia-matrimony-matrimonials"> Australia </a></li>
+<li><a title="Canada Matrimonial" href="/matrimonials/canada-matrimonial/"> Canada </a></li>
+<li><a title="Pakistan Matrimonial" href="/matrimonials/pakistan-matrimonial/"> Pakistan </a></li>
+<li><a title="Singapore Matrimonial" href="/matrimonials/singapore-matrimonial/"> Singapore </a></li>
+<li><a title="NRI Matrimonial" href="/nri-matrimony-matrimonials"> NRI  </a></li>
+<li><a title="China Matrimonial" href="/china-matrimony-country"> China</a></li>
+<li><a title="Japan Matrimonial" href="/japan-matrimony-country"> Japan</a></li>
+<li><a title="France Matrimonial" href="/france-matrimony-country"> France</a></li>
+<li><a title="Saudi Arabia Matrimonial" href="/Saudi-arabia-matrimony-country"> Saudi Arabia</a></li>
+<li><a title="Spain Matrimonial" href="/spain-matrimony-country"> Spain</a></li>
+<li><a title="Indonesia Matrimonial" href="/indonesia-matrimony-country"> Indonesia</a></li>
+<li><a title="Kuwait Matrimonial" href="/kuwait-matrimony-country"> Kuwait</a></li>
+<li><a title="Qatar Matrimonial" href="/qatar-matrimony-country"> Qatar</a></li>
+<li><a title="Italy Matrimonial" href="/italy-matrimony-country"> Italy</a></li>
+<li><a title="Ireland Matrimonial" href="/ireland-matrimony-country"> Ireland</a></li>
+<li><a title="Afghanistan Matrimonial" href="/afghanistan-matrimony-country"> Afghanistan</a></li>
+<li><a title="Mauritius Matrimonial" href="/mauritius-matrimony-country"> Mauritius</a></li>
+<li><a title="Thailand Matrimonial" href="/thailand-matrimony-country"> Thailand</a></li>
+<li><a title="Oman Matrimonial" href="/oman-matrimony-country"> Oman</a></li>
+<li><a title="Sweden Matrimonial" href="/sweden-matrimony-country"> Sweden</a></li>
+<li><a title="Philippines Matrimonial" href="/philippines-matrimony-country"> Philippines</a></li>
+<li><a title="Poland Matrimonial" href="/poland-matrimony-country"> Poland</a></li>
+<li><a title="Bahrain Matrimonial" href="/bahrain-matrimony-country"> Bahrain</a></li>
+<li><a title="Kenya Matrimonial" href="/kenya-matrimony-country"> Kenya</a></li>
+<li><a title="Switzerland Matrimonial" href="/switzerland-matrimony-country"> Switzerland</a></li>
+<li><a title="Belgium Matrimonial" href="/belgium-matrimony-country"> Belgium</a></li>
+<li><a title="Hong Kong Matrimonial" href="/Hong-kong-matrimony-country"> Hong Kong</a></li>
+<li><a title="Albania Matrimonial" href="/albania-matrimony-country"> Albania</a></li>
+<li><a title="Liberia Matrimonial" href="/liberia-matrimony-country"> Liberia</a></li>
+<li><a title="Netherlands Matrimonial" href="/netherlands-matrimony-country"> Netherlands</a></li>
+<li><a title="Papua New Guinea Matrimonial" href="/Papua-new-guinea-matrimony-country"> Papua New Guinea</a></li>
+<li><a title="Sierra Leone Matrimonial" href="/Sierra-leone-matrimony-country"> Sierra Leone</a></li>
+<li><a title="Zambia Matrimonial" href="/zambia-matrimony-country"> Zambia</a></li>
+</ul>
+</div>
+</div>
+</figcaption>
+</figure>
+<!-- <figure style="display: none;" class="scases_h">
+<figcaption>
+<div class="fullwidth clearfix pl10 fontRobReg">
+<div class="contentHeader mCustomScrollbar" style="height:360px;padding-bottom:25px;">
+<ul class="clearfix hor_list">
+<li><a title="HIV Positive Matrimonial" href="/hiv-positive-matrimony-matrimonials"> HIV Positive </a></li>
+<li><a title="Thalassemia Major Matrimonial" href="/thalassemia-major-matrimony-matrimonials"> Thalassemia Major </a></li>
+<li><a title="Hearing Impaired Matrimonial" href="/deaf-matrimony-matrimonials"> Hearing Impaired </a></li>
+<li><a title="Speech Impaired Matrimonial" href="/dumb-matrimony-matrimonials"> Speech Impaired </a></li>
+<li><a title="Visually Impaired Matrimonial" href="/blind-matrimony-matrimonials"> Visually Impaired </a></li>
+<li><a title="Handicapped Matrimonial" href="/handicapped-matrimony-matrimonials"> Handicapped </a></li>
+<li><a title="Cancer Survivor Matrimonial" href="/cancer-survivor-matrimony-matrimonials"> Cancer Survivor </a></li>
+<li><a title="Diabetic Matrimonial" href="/diabetic-matrimony-matrimonials"> Diabetic </a></li>
+<li><a title="Leucoderma Matrimonial" href="/leucoderma-vitiligo-white-patches-white-spots-matrimony-matrimonials"> Leucoderma </a></li>
+<li><a title="Divorcee Matrimonial" href="/divorcee-matrimony-matrimonials"> Divorcee </a></li>
+</ul>
+</div>
+</div>
+</figcaption>
+</figure> -->
+<figure style="display: none;" class="college_h">
+<figcaption>
+<div class="fullwidth clearfix pl10 fontRobReg">
+<div class="contentHeader mCustomScrollbar" style="height:360px;padding-bottom:25px;">
+<ul class="clearfix hor_list">
+<li><a title="IIT Matrimonial" href="/iit-matrimony-college"> IIT </a></li>
+<li><a title="IIM Matrimonial" href="/iim-matrimony-college"> IIM</a></li>
+<li><a title="IIIT Matrimonial" href="/iiit-matrimony-college">IIIT</a></li>
+<li><a title="ISB Matrimonial" href="/isb-matrimony-college">ISB</a></li>
+<li><a title="NIT Matrimonial" href="/nit-matrimony-college">NIT</a></li>
+<li><a title="ICAI Matrimonial" href="/icai-matrimony-college">ICAI</a></li>
+
+</ul>
+</div>
+</div>
+</figcaption>
+</figure>
+
+</div>
+</div>
+</div>
+<!--end:hover box-->
+</li>
+<li tabindex="1" class="ml50"><a class="drop cursp" href="/search/AdvancedSearch">SEARCH</a>
+<ul class="menushadowGNB">
+<li><a class="disp_b cursp" href="/search/AdvancedSearch"> Search</a></li>
+<li><a class="disp_b cursp js-srchbyid">Search by Profile ID</a></li>
+</ul>
+</li>
+<li id="help" tabindex="1" class="ml50"><a class="disp_b cursp" onclick="javascript:logOutCheck('/help/index',1); return true;">HELP</a></li>
+</ul>
+<!--end:left-->
+<!--start:right-->
+<ul class="fr listnone clearfix mt20">
+<li tabindex="1" class="fl pl20 pr24">
+<div id="loginTopNavBar" data-attr="OldHP_LoginNav" class="clearfix cursp">
+<a class="colrw"><p class="fl pt3 pr12">LOGIN</p></a>
+<i class="sprite2 loginicon fl"></i>
+</div>
+</li>
+</ul>
+<!--end:right-->
+</div>
+</div>
+</div>
+<!--end:middle-->
+<!--start:registration-->
+<div tabindex="1" class="fr hpbg1 hpwid3 lh63 txtc disp-tbl"> <a class="disp-cell vmid fontreg f14 colrw" href="/profile/registration_new.php?source=gnb" id="reg_fee_v1">REGISTER FREE</a> </div>
+<!--end:registration-->
+</div>
+</div>
+<!--end:top nav-->
+<!--search by profile id-->
+<!--start:srch by profile by id-->
+<div id="srcbyid-layer" class="pos_fix layersZ disp-none">
+<i id="cls-srcbyid" class="sprite2 close pos_fix closepos cursp"></i>
+<!--start:layer-->
+<div class="pos_fix fontlig setshare">
+<div class="mauto layerbg wid520">
+<div class="layerp1">
+<div class="f17 grey5" id="titleErr">Search by profile ID</div>
+<div class="mt20">
+<form action="">
+<div class="clearfix wid92p brderinp layerp2" id="SearchProIdBox">
+<input type="text" class="bgnone f15 grey6 brdr-0 fl fullwid" placeholder="Enter Profile ID" id="SearchProId" maxlength="20">
+</div>
+<div class="f15 colr2 pt10">e.g. ZXZ12345, YSW23456, etc.</div>
+<div class="mt30 scrollhid pos_rel">
+<button class="lh63 txtc colrw f18 fullwid brdr-0 bg5 cursp hoverBlue blueRipple" onclick="return false;" id="searchByIdBtn">Search</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<!--end:layer-->
+
+</div>
+<!--end:srch by profile by id-->
+
+
+</div>
+</div>
+<!--end:top nav case logged in-->
+<div class="bg-4">
+<div class="container mainwid">
+<!--start:tabbing-->
+<div class="setbg1 fullwid pos-rel">
+<ul class="settingTab clearfix fontlig f15 color11">
+<li style="width:16.6%">
+<a href="/static/page/fraudalert" class="color11 cursp"><div>Fraud Alert</div></a>
+</li>
+<li style="width:16.6%">
+<a href="/static/page/disclaimer" class="color11 cursp"><div>Terms &amp; Conditions</div></a>
+</li>
+<li style="width:16.6%">
+<a href="/static/page/thirdparty" class="color11 cursp"><div>Third Party T&amp;C</div></a>
+</li>
+<li style="width:16.6%">
+<a href="/static/page/privacypolicy" class="color11 cursp"><div>Privacy Policy</div></a>
+</li>
+<li style="width:16.6%">
+<a href="/static/page/privacyfeatures" class="color11 cursp"><div>Privacy Features</div></a>
+</li>
+<li style="width:16.6%">
+<a href="/static/page/cookiepolicy" class="color11 cursp"><div>Cookie Policy</div></a>
+</li>
+<li id="slideBar" class="pos_abs hgt2 bg5" style="width:16.6%; left:0%; display:none"></li>
+</ul>
+</div>
+<!--end:tabbing-->
+<!--start:content-->
+<div class="pt30 pb30">
+<div class="bg-white fullwid">
+<div class="padalln">
+<div class="fontlig" style="color: #666;">
+<h4>1. Introduction</h4>
+<p>We, at Info Edge (India) Limited and our affiliated companies worldwide (hereinafter collectively referred to as
+“IEIL”), are committed to respecting your online privacy and recognize the need for appropriate protection and
+management of any personally identifiable information you share with us. This Privacy Policy ("Policy")
+describes how IEIL collects, uses, discloses and transfers personal information of users through its websites
+and applications, including through www.jeevansathi.com, mobile applications and online services (collectively,
+the "Platform"). </p><br>
+<p>This policy applies to those who visit the Platform, or whose information IEIL otherwise receives in connection
+with its services (such as contact information of individuals associated with IEIL including partners)
+(hereinafter collectively referred to as “Users”). For the purposes of the Privacy Policy, “You" or “Your” shall
+mean the person who is accessing the Platform.</p><br>
+
+<h4>2.Types of Personal Information collected by IEIL</h4>
+<p>“Personal information” (PI) - means any information relating to an identified or identifiable natural person
+including common identifiers such as a name, an identification number, location data, an online identifier or
+one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social
+identity of that natural person and any other information that is so categorized by applicable laws.</p> <br>
+<p>We collect information about you and/or your usage to provide better services and offerings. </p> <br>
+<p>The Personal Information that we collect, and how we collect it, depends upon how you interact with us. We
+collect the following categories of Personal Information in the following ways:</p><br>
+<ul class="pl30">
+<li>We may collect your Personal Information such as name, email address, date of birth, mobile number, mother
+tongue, password, country, state/nationality, gender, current location, city, pin code, marital status,
+height, occupation, income etc.
+</li>
+<li>When you complete your profile, you can share with us additional information, such as details on your
+personality, family details, contact address and other details about you, as well as content such as photos.
+To add certain content, like pictures or videos, you may allow us to access your camera or photo album. Some
+of the information you choose to provide us may be considered “special” or “sensitive” in certain
+jurisdictions, for example your ethnic origins, religious beliefs, sub caste, physical and mental
+conditions. By choosing to provide this information, you consent to our processing of the information., when
+the you sign up as a member or you set up an alert on the Platform, we may reach out to you as per your
+settings;
+</li>
+<li>Information that one would usually include in a matrimonial profile, including name, contact details such as
+e-mail address and mobile number, date of birth, educational qualifications, data relating to your current
+employment, income photographs, visa and work status etc. when you register on the Platform;
+</li>
+<li>Information about the services that you use and how you use them, including log information and location
+information, when you are a user of the services through the Platform;
+</li>
+<li>We may collect your Personal Information such as name, age, contact details, preferences, etc. through
+surveys and forms, when you choose to participate in these surveys etc.;
+</li>
+<li>We may collect your documents on age, address, income etc. for verification purposes to provide additional
+credibility to your profile.
+</li>
+<li>When you communicate with IEIL or use the Platform to communicate with other members (including advertisers,
+Users (such as partners), we collect information about your communication and any information you choose to
+provide;
+</li>
+<li>When you visit the Platform, we use cookies to automatically collect, store and use technical information
+about your system and interaction with our Platform;
+</li>
+<li>When you use a device to access the Platform, IEIL may collect technical or other related information from
+the device as well as the device location;
+</li>
+<li>To the extent permitted by law, IEIL may record and monitor your communications with us to ensure compliance
+with our legal and regulatory obligations and our internal policies. This may include the recording of
+telephone conversations.
+</li>
+<li>We may collect your and your partner’s information such as but not limited to name, gender, date and time of
+birth, city, state, country and email if you avail our horoscope services.
+</li>
+<li>We may collect, process and store your user ID associated with any social media account (such as your
+Facebook and Google account) that you use to connect with us or to avail our services
+</li>
+<li>When you use your social media account information to access the Platform, or otherwise connect your social
+media account with the services of the Platform, you consent to our collection, storage, and use, in
+accordance with this Privacy Policy, of the information that you make available to us through the social
+media interface. Please see your social media provider's privacy policy and help centre for more information
+about how they share information when you choose to connect your account.
+</li>
+</ul>
+
+<h4>3. How IEIL may use your Personal Information</h4>
+<p>We will only use your personal data in a fair and reasonable manner, and where we have a lawful reason to do
+so.</p>
+
+<p>Our use of your personal data depends on the purpose for which you interact with us. We may process your Personal
+Information for the following purposes:</p><br>
+<ul class="pl30">
+<li>Protecting our Users and providing you with customer support;</li>
+<li>Our automated systems analyse your content to provide you customised search results and recommendations.
+</li>
+<li>Send alerts and emails such as match alert mails, membership mails, kundli alert mails, visitor alert mails,
+new matches mails, contact alert mails, photo request mails, service mails, promotional mails, SMS alerts
+and call alerts(s) to you ( To unsubscribe, please visit the Alert Manager link on your profile).
+</li>
+<li>We also process your chats with other users of the Platform, for purposes such as fulfilment of legal
+obligations, monitoring for offensive or menacing content etc.
+</li>
+<li>We use information collected from cookies and other technologies, like pixel tags, to improve your user
+experience and the overall quality of our services (for more information please refer to paragraph 4 below).
+When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with
+sensitive categories, such as those based on race, religion, sexual orientation or health, improving the
+Platform and its content to provide better features and services.
+</li>
+<li>Conducting market research and surveys with the aim of improving our products and services.</li>
+<li>Sending you information about our products and services for marketing purposes and promotions;</li>
+<li>Preventing, detecting, investigating and taking action against crimes (including but not limited to fraud
+and other financial crimes), any other illegal activities, suspected fraud, or violations of the Platform’s
+Terms of Use in any jurisdiction
+</li>
+<li>To the extent required for identity verification and due diligence checks if so undertaken.</li>
+<li>Establishing, exercising or defending legal rights in connection with legal proceedings (including any
+prospective legal proceedings) and seeking professional or legal advice in relation to such legal
+proceedings.
+</li>
+</ul>
+
+<h4>4. Cookies and Other Tracking Technologies </h4>
+<p>Some of our web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may
+be used, for example, to collect information about web-site activity. Some cookies and other technologies may
+serve to recall Personal Information previously indicated by a user. Most browsers allow you to control cookies,
+including whether or not to accept them and how to remove them.</p> <br>
+<p>You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your
+browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your
+original user ID and password to gain access to certain parts of the Platform.</p> <br>
+<p>Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP)
+addresses; browser software and operating system types; clickstream patterns; and dates and times that our site
+is accessed. Our use of cookies and other tracking technologies allows us to improve our Platform and the
+overall website experience. We may also analyse information that does not contain Personal Information for
+trends and statistics.</p> <br>
+<p>For more information about our use of cookies please refer to our <a href="https://www.jeevansathi.com/static/page/cookiepolicy"> Cookie Policy.</a></p>
+
+<h4>5. The Basis/ Grounds which we rely on for collection and processing of your Personal Information:</h4>
+<p>Your Personal Information is collected and processed by IEIL based on the following legal grounds depending upon
+the nature of Personal Information and the purposes for which it is processed.</p> <br>
+<ul class="pl30">
+<li><b>Consent:</b></li>
+<br>
+<p>IEIL relies on your consent in order to process your Personal Information in certain situations. If IEIL
+requires your consent to collect and process certain Personal Information, as per the requirements under the
+applicable data protection laws, your consent is sought at the time of collection of your Personal
+Information and such processing will only be performed where consent is secured.</p> <br>
+<li><b>Compliance with a legal obligation:</b></li>
+<br>
+<p>Your Personal Information may be processed by IEIL, to the extent that such processing is necessary to allow
+IEIL to comply with a legal obligation. An example of this would be if IEIL is required to disclose your
+Personal Information to respond to a court order or if IEIL is required to retain specific records for a
+fixed period to comply with requirements under any applicable law.</p> <br>
+</ul>
+
+<h4 class="pt20">6. Information Sharing and Disclosure</h4>
+<p><b>Third Party Services:</b> Third parties provide certain services available on the Platform on its behalf.
+Platform may provide information, including Personal Information and special/ sensitive personal information,
+that the Platform collects from its users to third-party service providers to help us deliver programs,
+products, information, and services. Service providers are also an important means by which the Platform
+maintains its services and mailing lists.</p> <br>
+<p>We restrict access to your Personal Information to employees who we believe reasonably need to know/or that
+information to fulfil their functions to provide, operate, develop, or improve our products or
+services.</p> <br>
+<p>IEIL does not disclose, transfer or share your Personal Information with others except with:</p>
+<ul class="pl30">
+<li>Our affiliates and group companies to the extent required for our internal business and/or administrative
+purposes and/or general corporate operations and for provision of services;
+</li>
+<li>Third parties including enforcement, regulatory and judicial authorities, if we determine that disclosure of
+your Personal Information is required to a) respond to subpoenas, court orders, or legal process, or to
+establish or exercise our legal rights or defend against legal claims; or b) investigate, prevent, or take
+action regarding illegal activities, suspected fraud, situations involving potential threats to the physical
+safety of any person, violations of Platform’s Terms &amp; Conditions or as otherwise required by law;
+</li>
+<li>In the event of a merger, acquisition, financing, or sale of assets or any other situation involving the
+transfer of some or all of IEIL’s business assets we may disclose Personal Information to those involved in
+the negotiation or transfer.
+</li>
+<li>Third party service providers and marketing partners that IEIL engages to a) provide services over the
+Platform on IEIL’s behalf; b) maintain the Platform and mailing lists; or c) communicate with you on IEIL’s
+behalf about offers relating to its products and/or services. IEIL will take reasonable steps to ensure that
+these third-party service providers are obligated to protect your Personal Information and are also subject
+to appropriate confidentiality / non-disclosure obligations.
+</li>
+<li>Third party advertisers to display advertisements to you when you visit the Platform. The third-party
+advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage
+lenders) and non-financial companies (such as stores, airlines, and software companies). These companies may
+use information about you and your visits to this Platform and other web sites to provide advertisements on
+this Platform.
+</li>
+</ul>
+<br>
+<p>The Company does not provide any Personal Information to the advertiser when you interact with or view a targeted
+advertisement. However, if you interact with or view an advertisement, the advertiser may make certain
+assumptions and, in the process, learn certain Personal Information about you. For instance, if you view and
+click an advertisement that is targeted towards women in the age group 18- 24 from a specific geographic area,
+the advertiser may assume that you meet the relevant criteria.</p><br>
+<p>IEIL does not intend to transfer Personal Information without your consent to third parties who are not bound to
+act on IEIL's behalf unless such transfer is legally required.</p><br>
+<p>If your Personal Information is transferred outside India, we take the necessary steps to protect your Personal
+Information in accordance with applicable data protection laws.</p><br>
+
+<h4>7. Third Party Content:</h4>
+<p>Please be aware that the Platform sometimes contains links to other sites that are not governed by this Privacy
+Policy. Users may be directed to third-party sites for more information, such as advertisers, blogs, content
+sponsorships, vendor services, social networks, etc.</p> <br>
+<p>IEIL makes no representations or warranties regarding how your information is stored or used on third-party
+servers. We recommend that you review the applicable privacy statements and policies of each third-party site
+linked from the Platform to determine their use of your personal information.</p> <br>
+
+<h4>8. Children</h4>
+<p>To use the Platform, you agree that you must be the minimum age (described in this paragraph below) or
+older.</p><br>
+<p>The minimum age for these purposes shall be eighteen (18), however if local laws require that you must be older
+for IEIL to be able to lawfully provide the services over the Platform to you then that older age shall apply as
+the applicable minimum age.</p><br>
+<p>If you are under the age of 18 or the age of majority in your jurisdiction, you must use the Platform under the
+supervision of your parent, legal guardian or responsible adult.</p><br>
+
+<h4>9. Retention of Personal Information</h4>
+<p>Your Personal Information will not be retained by IEIL any longer than it is necessary for the purposes for which
+the Personal Information is processed and/or in accordance with legal, regulatory, contractual1 or statutory
+obligations as applicable.</p><br>
+<p>At the expiry of such periods, your Personal Information will be deleted or archived in compliance with
+applicable laws</p><br>
+
+<h4>10. Controlling your personal information</h4>
+<p>You have the right to invoke your rights which are available to data principals or data subjects (as per
+applicable laws and regulations) in relation to your Personal Information which is being processed by
+IEIL.</p><br>
+<p>IEIL provides you the ability to keep your Personal Information accurate and up-to-date. If at any time you would
+like to a) rectify, update or correct your Personal Information; b) obtain confirmation on whether or not your
+Personal Information is processed by it; c) access your Personal Information or exercise your right to data
+portability; or d) exercise your right to restrict the continuing disclosure of your Personal Information to any
+third party by IEIL in certain circumstances, you are requested to contact us using the contact details mentions
+below. We will require you to provide a valid proof of your identity, in order to ensure that your rights are
+respected.</p><br>
+<p>For the exercise of certain rights, you may be required to approach the relevant authority / designated officer
+as per the provisions of the applicable data protection laws.</p><br>
+<p>IEIL may in accordance with the provisions of applicable data protection laws, charge a fee for fulfilling your
+request, in particular in case of excessive or manifestly unfounded request. Further you acknowledge that the
+abovementioned rights are not absolute and are subject to limitations as per the applicable data protection
+laws.</p><br>
+
+<h4>11. Confidentiality and Security</h4>
+<ul class="pl30">
+<li>The security and confidentiality of your Personal Information is important to us and IEIL has invested
+significant resources to protect the safekeeping and confidentiality of your personal data. When using
+external service providers acting as processors, we require that they adhere to the same standards as IEIL
+does. Regardless of where your Personal Information is transferred or stored, we take all steps reasonably
+necessary to ensure that personal data is kept secure.
+</li>
+<br>
+<li>We seek to ensure compliance with the requirements of the Information Technology Act, 2000 and Rules made
+there under to ensure the protection and preservation of your privacy. We have physical, electronic, and
+procedural safeguards that comply with the laws prevalent in India to protect your Personal Information. By
+accepting the terms of this Privacy Policy, you agree that the standards and practices being implemented by
+us, are reasonable and sufficient for the protection of your Personal Information.
+</li>
+<br>
+</ul>
+
+<h4>12. Social media</h4>
+<p>IEIL operates channels, pages and accounts on some social media sites to inform, assist and engage with
+customers. IEIL monitors and records comments and posts made on these channels about itself in order to improve
+its products and services.</p><br>
+<p>Please note that you must not communicate the following information to IEIL through such social media
+sites:</p><br>
+<ul class="pl30">
+<li>sensitive personal data including (i) special categories of personal data meaning any information revealing
+racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership,
+and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural
+person, data concerning health or data concerning a natural person's sex life or sexual orientation and (ii)
+other sensitive personal data such as criminal convictions and offences and national identification number ;
+</li>
+<br>
+<li>Excessive, inappropriate, offensive or defamatory content.</li>
+<br>
+</ul>
+
+<p>IEIL is not responsible for any information posted on those sites other than the information posted by its
+employees on its behalf. IEIL is only responsible for its own use of the Personal Information received through
+such sites.</p>
+
+<h4>13. Changes to this Privacy Policy</h4>
+<p>IEIL reserves the right to update, change or modify this Privacy Policy at any time. The Privacy Policy shall
+come to effect from the date of publication of such update, change or modification</p>
+
+<h4>14. Disclaimer</h4>
+<p>IEIL does not store any account related information or any credit / debit card details. IEIL shall not be liable
+for any loss or damage sustained by Users as a result of any disclosure (inadvertent or otherwise) of any
+information concerning the User's account, credit cards or debit cards in the course of any online transactions
+or payments made for any products and/or services offered through the Platform.</p><br>
+<p>In case any Personal Information is shared by you with IEIL, which is not requested by IEIL during registration,
+(whether mandatorily or optionally), IEIL will not be liable for any information security breach or disclosure
+in relation to such information.</p><br>
+<p>If you have any questions regarding this Privacy Policy or the protection of your Personal Information, please
+contact IEIL’s Data Protection Officer/ Grievance Officer at the following:</p>
+
+<h4>15. Data Protection Officer/ Grievance Officer</h4>
+<p>In case you have any complaints and/or grievances in relation to the processing of your Personal Information you
+can send your complaints via e-mail to our grievance officer:</p><br>
+<p><span class="fontreg">Info Edge (India) Limited</span><br>
+Noida<br><br>
+<a href="mailto:help@jeevansathi.com" class="color11 fontreg">Contact us through Email</a><br>
+18004196299<br>
+</p>
+</div>
+
+</div>
+</div>
+
+</div>
+<!--start:content-->
+
+</div>
+</div>
+<!--start:footer-->
+<footer>
+<!--start:footer band 1-->
+<!--start:help widget-->
+<!--start:overlay-->
+<div class="js-requestCallBackOverlay dspN fontlig">
+<div class="overlay"></div>
+<div class="modal fontlig">
+<!--start:close button-->
+<div class="posabs Widgicon Widicon4 js-requestCallBackClose"></div>
+<!--end:close button-->
+<div class="formpadt2 fontlig" id="requestForm">
+<form id="Widget" action="javascript:void(0)" novalidate="">
+<div class="fontlig f15 txtc pb18">We will call you at the earliest after you submit the request</div>
+<!--start:name-->
+<div class="Widgetbox1 fontlig">
+<input class="fontlig" type="email" tabindex="1" name="email" id="rq_email" placeholder="Email" value="">
+</div>
+<span id="emailError" class="errorPad dspN fontlig"> </span>
+<!--end:name-->
+<!--start:mobile no-->
+<div class="formpadt1">
+<div class="Widgetbox1 fontlig">
+<input class="fontlig" type="tel" tabindex="2" name="phone" id="rq_phone" placeholder="Mobile number" value="">
+</div>
+</div>
+<span id="phoneError" class="errorPad dspN fontlig"> </span>
+<!--end:mobile no-->
+<div id="rcbSideMenuDrop" class="rcbfield rcb_pt17 color2 fontlig clearfix reqCalbck-bdr12 pb15 pl3">
+<!--start:date-->
+<div class="rcb_fl wid35">
+<div class="clearfix">
+<div class="f16 rcb_lh40 rcb_fl pr5">Date</div>
+<div class="rcb_fl">
+<div class="rcb_fl">
+<div class="wid88">
+<!--start:drop down UI-->
+<dl id="dropDown0" class="rcbdropdown">
+<dt><span></span></dt>
+<dd>
+<ul>
+<li id="2019-12-28" class="cursp">28 Dec</li>
+<li id="2019-12-29" class="cursp">29 Dec</li>
+<li id="2019-12-30" class="cursp">30 Dec</li>
+</ul>
+</dd>
+</dl>
+<!--end:drop down UI-->
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--end:date-->
+<!--start:time-->
+<div class="rcb_fl wid60 pl4">
+<div class="clearfix">
+<div class="f16 rcb_lh40 rcb_fl pr5">Schedule Time(IST)</div>
+<div class="rcb_fl">
+<div class="rcb_fl">
+<div class="wid88 rcb_fl">
+<dl id="dropDown1" class="rcbdropdown">
+<dt><span></span></dt>
+<dd>
+<ul>
+<li id="09:00:00" class="cursp">9 AM</li>
+<li id="10:00:00" class="cursp">10 AM</li>
+<li id="11:00:00" class="cursp">11 AM</li>
+<li id="12:00:00" class="cursp">12 PM</li>
+<li id="13:00:00" class="cursp">1 PM</li>
+<li id="14:00:00" class="cursp">2 PM</li>
+<li id="15:00:00" class="cursp">3 PM</li>
+<li id="16:00:00" class="cursp">4 PM</li>
+<li id="17:00:00" class="cursp">5 PM</li>
+<li id="18:00:00" class="cursp">6 PM</li>
+</ul>
+</dd>
+</dl>
+</div>
+<div class="disp-none wid88 rcb_fl rcb_m2">  <dl id="dropDown2" class="rcbdropdown">
+<dt><span></span></dt>
+<dd>
+<ul>
+<li id="10:00:00" class="cursp">10 AM</li>
+<li id="11:00:00" class="cursp">11 AM</li>
+<li id="12:00:00" class="cursp">12 PM</li>
+<li id="13:00:00" class="cursp">1 PM</li>
+<li id="14:00:00" class="cursp">2 PM</li>
+<li id="15:00:00" class="cursp">3 PM</li>
+<li id="16:00:00" class="cursp">4 PM</li>
+<li id="17:00:00" class="cursp">5 PM</li>
+<li id="18:00:00" class="cursp">6 PM</li>
+<li id="19:00:00" class="cursp">7 PM</li>
+</ul>
+</dd>
+</dl> </div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<!--end:time-->
+<input id="rcbSideMenudropDown0" type="hidden" name="dropDownDaySelected" value="">
+<input id="rcbSideMenudropDown1" type="hidden" name="dropDownTimeStartSelected" value="">
+<input id="rcbSideMenudropDown2" type="hidden" name="dropDownTimeEndSelected" value="">
+</div>
+<div id="sideMenuReqTimeError" style="color:red;display:none" class="f14 pt8">Please select valid Time Duration</div>
+<!--start:product-->
+<div class="formpadt1 fontlig">
+<dl id="sample4" class="dropdown">
+<dt class="js-dt">
+<span id="typeOfQuery" tabindex="3">What type of query do you have?</span>
+<div class="posabs pos1 sideicon"></div>
+</dt>
+<dd class="js-dd">
+<ul>
+<li value="P">Questions or feedback regarding jeevansathi profile</li>
+<li value="M">Query regarding jeevansathi membership plans</li>
+</ul>
+</dd>
+</dl>
+<input id="rq_query" type="hidden" name="query_type">
+</div>
+<span id="querryError" class="errorPad dspN"> </span>
+<!--end:product-->
+<!--start:button-->
+<div class="formpadt1">
+<div style="overflow: hidden;position: relative;">
+<button type="submit" id="sidebarReqCallbackBtn" tabindex="4" class="cursp pinkRipple hoverPink bg_pink">Submit Request</button>
+</div>
+</div>
+<!--end:button-->
+</form>
+</div>
+<div id="requestLoader" class="formpadt3 dspN">
+<img src="https://static.jeevansathi.com/images/colorbox/loader_big.gif"> 
+</div>
+<div id="requestSuccessMsg" class="formpadt4 dspN"> </div>
+</div>
+</div>
+<!--end:overlay-->
+<!--start:helpwidget-->
+<div id="js-helpWidget" class="dspN pos_fix hlpwhite fontreg hlppos1 wid200" style="right: -171px;">
+<div class="pos-rel clearfix">
+<div class="Widposabs hlpcl1 js-helpCollapses l0">
+<div class="vertical-text f12">HELP</div>
+</div>
+<div class="fr js-helpWidgetContent" style="width:171px">
+<div class="clearfix padalls wid80p brdrb-8 pt20 pb20"> <i class="sprite2 helpic1 fl"></i>
+<div class="fl color11 f14 pl10">+91-120-4393500</div>
+</div>
+<div class="clearfix padalls wid80p brdrb-8 pt20 pb20 js-openRequestCallBack"> <a href="#"><i class="sprite2 helpic2 fl"></i>
+<div class="fl color11 f14 pl10">Request callback</div>
+</a> </div>
+<div class="clearfix optwidg f14"> <a href="/contactus/index?fromSideLink=1"> <i class="Widgicon Widicon3 fl"></i>
+<div class="fl pl10 f14">Live Help</div>
+</a> </div>
+</div>
+</div>
+</div>
+<!--end:helpwidget-->
+<script> var showExpandMode = "0";
+var hideHelpMenu = "true";
+
+if(typeof(hideHelpMenu)=="undefined"){
+hideHelpMenu = "false";
+}
+if(hideHelpMenu == "true"){
+$("#js-helpWidget").addClass('disp-none');
+}
+</script>
+
+<!--end:help widget-->
+<!--start:banner-->
+<div class="txtc bg-4 pt20 pb20" id="zt_616105_bottom"> </div>
+<!--end:banner-->
+
+<!--start:footer-->
+<footer>
+<!--pixelcode for register page-->
+<div id="js-footer">
+<div class="fotbg1">
+<div class="container mainwid">
+<div class="fullwidth clearfix pt20 fontlig">
+<!--start:column one-->
+<div class="fl wid265">
+<ul class="f14 listnone foot">
+<li class="f16 fontreg">Explore</li>
+<li><a href="/">Home</a></li>
+<!--<li><a href="/profile/login.php?SHOW_LOGIN_WINDOW=1">Login</a></li>
+<li><a href="/profile/registration_pg1.php?source=js_footer">Register free</a></li>-->
+<li><a href="/search/AdvancedSearch">Advanced search</a></li>
+<li><a href="/successStory/story">Success stories</a></li>
+<li><a href="/blog/">Matrimonial Blog</a></li>
+<li><a href="/profile/site_map.php">Sitemap</a></li>
+<li><a href="/kundli-matching">Create Horoscope</a></li>
+</ul>
+</div>
+<!--end:column one-->
+<!--start:column one-->
+<div class="fl wid265">
+<ul class="f14 listnone foot">
+<li class="f16 fontreg">Services</li>
+<!--<li><a target="_blank" href="http://www.jeevansathimatchpoint.com">Jeevansathi offline</a></li>-->
+<li><a href="/membership/jspc">Membership Options</a></li>
+<li><a href="https://careers.jeevansathi.com">Jeevansathi Careers</a></li>
+</ul>
+</div>
+<!--end:column one-->
+<!--start:column three-->
+<div class="fl wid265">
+<ul class="f14 listnone foot">
+<li class="f16 fontreg">Help</li>
+<li><a href="/contactus/index">Contact us</a></li>
+<!-- <li id="liveChatLinkFooter" class="cursp colorw">Live help</li> -->
+<li><a href="/faq/feedback?width=512&amp;checksum=d41d8cd98f00b204e9800998ecf8427ei">Feedback / Queries</a></li>
+<li><a href="/contactus/index">Jeevansathi centers (32)</a></li>
+</ul>
+</div>
+<!--end:column three-->
+<!--start:column four-->
+<div class="fr wid177">
+<ul class="f14 listnone foot">
+<li class="f16 fontreg">Legal</li>
+<li><a href="http://www.infoedge.in/">About Us</a></li>
+<li><a href="/static/page/fraudalert">Fraud Alert</a></li>
+<li><a href="/profile/disclaimer.php">Terms of use</a></li>
+<li><a href="/profile/third_party_content.php">3rd party terms of use</a></li>
+<li><a href="/profile/privacy_policy.php">Privacy policy</a></li>
+<li><a href="/profile/cookie_policy.php">Cookie policy</a></li>
+<li><a href="/profile/conf_policy.php">Privacy Features</a></li>
+<li><a href="/static/grievance?summon=1">Summons/Notices</a></li>
+<li><a href="/static/grievance?grievance=1">Grievances</a></li>
+</ul>
+</div>
+<!--end:column four-->
+</div>
+<div class="pt10 pb30 fullwid clearfix color16">
+<!--start:app available-->
+<div class="fl wid265">
+<div class="f16 fontreg pb10"> App available on </div>
+<a itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.jeevansathi.android" target="_blank" class="footericon"><i class="headfootsprtie androidsmall"></i></a>
+<a itemprop="sameAs" href="https://itunes.apple.com/in/app/jeevansathi/id969994186" target="_blank" class="footericon"><i class="headfootsprtie idsmall"></i></a>
+</div>
+<!--end:app available-->
+<!--start:follow us-->
+<div class="fl wid265">
+<div class="f16 fontreg pb10">Follow us </div>
+<a itemprop="sameAs" href="https://www.facebook.com/jeevansathi" target="_blank" class="footericon"><i class="headfootsprtie facebooksmall"></i></a>
+<a itemprop="sameAs" href="https://www.twitter.com/jeevansathi_com" target="_blank" class="footericon"><i class="headfootsprtie twittersmall"></i></a>
+<a itemprop="sameAs" href="https://www.linkedin.com/company/info-edge-india-ltd" target="_blank" class="footericon"><i class="headfootsprtie linkedinsmall"></i></a>
+<a itemprop="sameAs" href="https://plus.google.com/117800057348280296221" target="_blank" class="footericon"><i class="headfootsprtie gplussmall"></i></a>
+</div>
+<!--end:follow us-->
+<!--start:toll free-->
+<div class="fl wid265">
+<div class="f16 fontreg padb10">Customer Service </div>
+<div class="f22 fontlig pt15">+91-120-4393500</div>
+</div>
+<!--end:toll free-->
+
+</div>
+</div>
+</div>
+<!--start:partner site-->
+<div class="bg-white">
+<div class="container mainwid">
+<div class="pb10 pt10 wid800 clearfix txtc pl128">
+<div class="f12 color6 fl pt30 pr36 fontreg">Partner Sites</div>
+<!--start:slider-->
+<div class="fl" style="width:600px;height:80px">
+<div id="slider">
+<div id="images">
+<div class="basic">
+<ul>
+<li class="pl40"><a href="http://www.99acres.com" target="_blank" rel="nofollow" title="99acres.com"><i class="headfootsprtie acre"></i></a></li>
+<li class="pl40"><a href="https://www.naukri.com" target="_blank" rel="nofollow" title="naukri.com"><i class="headfootsprtie nc"></i></a></li>
+<li class="pl40"><a href="http://www.naukrigulf.com" target="_blank" rel="nofollow" title="naukrigulf"><i class="headfootsprtie ng"></i></a></li>
+
+</ul>
+</div>
+<div class="basic">
+<ul>
+<li class="pl55"><a href="http://www.shiksha.com" target="_blank" rel="nofollow" title="shiksha"><i class="headfootsprtie shiksha"></i></a></li>
+<li class="pl55"><a href="http://www.mydala.com" target="_blank" rel="nofollow" title="mydala"><i class="headfootsprtie mydala"></i></a></li>
+<li class="pl55"><a href="https://www.policybazar.com" target="_blank" rel="nofollow" title="policybazar"><i class="headfootsprtie pb"></i></a></li>
+
+</ul>
+</div>
+<div class="basic">
+<ul>
+<li class="pl55"><a href="https://www.zomato.com" target="_blank" rel="nofollow" title="zomato"><i class="headfootsprtie zomato"></i></a></li>
+<li class="pl55"><a href="http://www.meritnation.com" target="_blank" rel="nofollow" title="meritnation"><i class="headfootsprtie meritn"></i></a></li>
+<li class="pl30"><a href="http://ambitionbox.com" target="_blank" rel="nofollow" title="AmbitionBox – Interview Prep &amp; Company Reviews"><i class="headfootsprtie ambitionbox"></i></a></li>
+</ul>
+</div>
+</div>
+<a id="prev" href="javascript:void(0);">
+<i class="headfootsprtie leftslide"></i>
+</a>
+<a id="next" href="javascript:void(0);">
+<i class="headfootsprtie rightsmall"></i>
+</a>
+</div>
+</div>
+<!--endt:slider-->
+</div>
+<div class="txtc pb15">
+<ul class="hor_list clearfix f13 fontlig disp_ib">
+<li class="pl5"><a href="/?mobile_view=Y" class="color11">View Mobile Version</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!--end:partner site-->
+<div class="bg_3">
+<div class="padall-10 txtc f12 fontreg colr2"> All rights reserved © 2016 Jeevansathi Internet Services. </div>
+</div>
+</div>
+</footer>
+<!--end:footer-->
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "Organization",
+"url" : "https://www.jeevansathi.com/",
+"contactPoint" : [
+{
+
+"@type" : "ContactPoint",
+
+"telephone" : "+1-800-419-6299",
+
+"contactType" : "customer service (Toll Free)",
+
+"contactOption": "TollFree",
+
+"areaServed": "IN",
+
+"availableLanguage": ["English"]
+}
+
+]
+
+}
+</script>
+<script type="text/javascript">
+$(window).load(function(){
+slider();
+initializeTopNavBar("","","static","page");
+$('#footerRequestCallback').click(function(){
+//console.log("footerRequestCallback");
+try{
+GAMapper("footerRequestCallback");
+}catch(error){
+
+}
+});
+$('#liveChatLinkFooter').click(function(){
+//console.log("liveChatLinkFooter ");
+try{
+GAMapper("liveChatLinkFooter");
+}catch(error){
+
+}
+});
+});
+
+</script>
+
+
+
+
+</footer></div>
+
+<!--endt:footer band 1-->
+
+
+<!--end:footer-->
+
+
+
+<script>
+var pageName="privacypolicy";
 </script>
 
 
 
 
 
+<script type="text/javascript" src="https://static.jeevansathi.com/min/?f=/js/helpWidget_js_27.js,/js/jspc/common/commonJspc_js_104.js,/js/jspc/login/loginLayer_js_85.js,/js/jspc/common/urlHandling_17.js,/js/jspc/common/jquery_mCustomScrollbar_17.js,/js/jspc/common/jquery_mousewheel_5.js,/js/commonExpiration_js_19.js,/js/rippleEffectCommon_js_7.js,/js/common_comscore_js_6.js,/js/jspc/chat/chatPlugin_js_140.js,/js/jspc/chat/chatCommonConfig_js_117.js,/js/jspc/chat/chatStrophieClient_js_11.js,/js/jspc/chat/strophieWrapper_js_73.js,/js/jspc/chat/chatPCHelper_js_172.js,/js/jspc/chat/strophe_receipts_8.js"></script>
 
-
-<script type="text/javascript" src="http://static.jeevansathi.com/min/?f=/js/phoneVerify_js_18.js,/js/topSearchBand_js_10.js,/js/header_js_14.js"></script>
-
-<script type="text/javascript" src="http://static.jeevansathi.com/min/?f=/js/pixel_js_2.js"></script>
+<script type="text/javascript" src="https://static.jeevansathi.com/min/?f=/js/jspc/chat/customElem_8.js,/js/jspc/membership/jspc_mem_md5_5.js,/js/jspc/common/commonOtpLayer_6.js"></script>
 
 <!--Google Analytics Code-->
+
+<div id="aadhaarLayers"></div>
 
 
 
     <script>
-    jsb9init_fourth(0.039515972137451,1,2,"http://track.99acres.com/images/zero.gif","");
+    function jsb9init_fourth(jsServerTime,jsFlag_unload,jsFlag_load,jsUrl,optionaljsb9Key)
+{if(typeof(jsLoadFlag)=="undefined"){jsLoadFlag=0;}
+if(jsLoadFlag!=0){
+    $(document).ready(function(){if(jsLoadFlag==1){jsb9TrackTime(jsServerTime,jsFlag_unload,jsFlag_load,jsUrl,optionaljsb9Key);}
+else{jsb9recordTimes["onLoad"]=(new Date()).getTime();}});}
+else
+jsb9eraseCookie("jsb9Track");if(jsFlag_unload)
+{
+    $(window).unload(function(){jsb9onUnloadTracking();});}
+var date=new Date();jsb9TrackEndTime=date.getTime();}
+    jsb9init_fourth(0.0605571269989,1,2,"https://track.99acres.com/images/zero.gif","");
     </script>
 
+<script>var SSL_SITE_URL='https://www.jeevansathi.com';
 
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '569447716516417');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=569447716516417&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
 
 </body></html>
