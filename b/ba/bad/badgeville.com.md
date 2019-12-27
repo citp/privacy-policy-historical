@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badgeville.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624221854id_/https%3A//www.calliduscloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgeville.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227051818id_/https%3A//www.calliduscloud.com/privacy-policy) for the most accurate reproduction.*
 
 # CallidusCloud Privacy Policy | CallidusCloud
 
@@ -18,7 +18,7 @@ This Policy also describes how we collect information about you, what we do with
 
 By visiting and using CallidusCloud’s website, mobile site, and/or applications (together, the "Site") or using our Services, you acknowledge you have read and understood this Policy.
 
-For the purposes of European Economic Area data protection law (the "Data Protection Law"), this Policy applies to the information collected by Callidus Software Inc., and any of their respective affiliate entities (the “CallidusCloud Group”). The CallidusCloud Group’s data protection officer is Drew Grasham, contactable at [dgrasham@calliduscloud.com](mailto:dgrasham@calliduscloud.com).  
+For the purposes of European Economic Area data protection law (the "Data Protection Law"), this Policy applies to the information collected by Callidus Software Inc., and any of their respective affiliate entities. The SAP Group’s data protection officer is Mathias Cellarius ([privacy@sap.com)](mailto:privacy@sap.com\) "mailto:privacy@sap.com\)").  
 
 Throughout this Policy we use ‘plain English’ summaries which are intended to give you guidance about what each section is about. Please click the link below to learn more about: 
 
@@ -99,7 +99,7 @@ We collect and use your information for the following purposes: 
  
   * _In order to keep you up-to-date/request feedback_. Within an existing business relationship between you and us, we may inform you, where permitted in accordance with local laws, about its products or services (including webinars, seminars or events) which are similar or relate to such products and services you have already purchased or used from us. Furthermore, where you have attended a webinar, seminar or event of SAP or purchased products or services from us, we may contact you for feedback regarding the improvement of the relevant webinar, seminar, event, product or service.
 
-You can object to further marketing at any time by checking and updating your contact details within your account, or/and selecting the “unsubscribe” link located on the bottom of CallidusCloud’s marketing emails. Additionally, you may send a request to [legal-privacy@calliduscloud.com](mailto:legal-privacy@calliduscloud.com). 
+You can object to further marketing at any time by checking and updating your contact details within your account, or/and selecting the “unsubscribe” link located on the bottom of CallidusCloud’s marketing emails. Additionally, you may send a request to [SAP.CX.Legal-Privacy@sap.com](mailto:SAP.CX.Legal-Privacy@sap.com). 
 
 You have the right to contact us at any time to object to the further processing of your information for the purposes of direct marketing to you, including any profiling related to such marketing.
 
@@ -180,11 +180,11 @@ We may share your information with: 
  
   * We may use third-party web analytics services such as Google Analytics. These service providers use your information to help us analyze how users use the Services, including by noting the third-party website from which you arrive. The information collected by the technology (including your IP address) will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. We also use Google Analytics for certain purposes related to advertising, as described in the following section. To prevent Google Analytics from using your information for analytics, you may install the [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout).  
  
-  * To receive a list of the agents, partners or contractors assisting us in the processing of your information please send your request to legal-privacy@calliduscloud.com. This list may change and will be updated from time to time.   
+  * To receive a list of the agents, partners or contractors assisting us in the processing of your information please send your request to SAP.CX.Legal-Privacy@sap.com. This list may change and will be updated from time to time.   
  
-  * From time to time, CallidusCloud may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from CallidusCloud, CallidusCloud may share information about you collected in connection with your purchase or expression of interest with our joint promotion partner(s). If you do not want your information to be shared in this manner, you may email legal-privacy@calliduscloud.com. However, we do not control our business partners’ use of the information that we share with them about you that we collect, and their use of the information will be in accordance with their own privacy policies.  
+  * From time to time, CallidusCloud may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from CallidusCloud, CallidusCloud may share information about you collected in connection with your purchase or expression of interest with our joint promotion partner(s). If you do not want your information to be shared in this manner, you may email SAP.CX.Legal-Privacy@sap.com. However, we do not control our business partners’ use of the information that we share with them about you that we collect, and their use of the information will be in accordance with their own privacy policies.  
  
-  * Data About Attendees: CallidusCloud does not share Data About Attendees with business partners unless: (i) you specifically opt in to such sharing via an event registration form; or (ii) you attend a CallidusCloud event and have your attendee badge scanned by a business partner. If you do not want your information to be shared, you may email legal-privacy@calliduscloud.com. If you choose to share your information with business partners in the manners described above, your information will be subject to the business partners’ respective privacy policies.   
+  * Data About Attendees: CallidusCloud does not share Data About Attendees with business partners unless: (i) you specifically opt in to such sharing via an event registration form; or (ii) you attend a CallidusCloud event and have your attendee badge scanned by a business partner. If you do not want your information to be shared, you may email SAP.CX.Legal-Privacy@sap.com. If you choose to share your information with business partners in the manners described above, your information will be subject to the business partners’ respective privacy policies.   
  
   * To protect CallidusCloud and Others: We may disclose any of your information to: (i) comply with legal process; (ii) enforce any agreements that you entered into with us; (iii) respond to claims that any content violates the rights of third parties; (iv) respond to your requests for customer service; and/or (v) the extent necessary for the purposes of the legitimate interests pursued by us or by the third party or parties to whom the data are disclosed, except where such interests are overridden by the interests for fundamental rights and freedoms of the data subjects. We may also disclose information to law enforcement agencies in emergency circumstances, where the disclosure of such information is consistent with the types of emergency disclosures permitted or required by law.  
  
@@ -254,7 +254,7 @@ You have a legal right to request the personal information about you held by us.
 
 **Resolution of Privacy Shield queries and complaint mechanism**
 
-In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal information. If you have any inquiries or complaints regarding our Privacy Shield policy you should first contact us at [legal-privacy@calliduscloud.com](mailto:legal-privacy@calliduscloud.com) 
+In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal information. If you have any inquiries or complaints regarding our Privacy Shield policy you should first contact us at [SAP.CX.Legal-Privacy@sap.com](mailto:SAP.CX.Legal-Privacy@sap.com) 
 
 We have further committed to refer unresolved Privacy Shield complaints to JAMS. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit <https://www.jamsadr.com/eu-us-privacy-shield> to file a complaint . The services of JAMS are provided at no cost to you. As further explained in the Privacy Shield Principles, a binding arbitration option may also be made available to you in order to address residual complaints not resolved by any other means.
 
@@ -279,7 +279,7 @@ This section provides details about your rights in relation to your personal inf
 You may ask us to:
 
   * Access all the personal information about you held by us, including where applicable, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. On request, we will provide you with a copy of this information. Where a request is manifestly unfounded or excessive (for example, because it is repetitive) we reserve the right to charge a reasonable fee taking into account the administrative costs of providing the information or taking the action requested. You can exercise your right of access to your personal information: 
-    * By emailing us at [legal-privacy@calliduscloud.com](mailto:legal-privacy@calliduscloud.com); or 
+    * By emailing us at [SAP.CX.Legal-Privacy@sap.com](mailto:SAP.CX.Legal-Privacy@sap.com); or 
     * By writing to us at the address below. 
 
 
@@ -309,7 +309,7 @@ Our Sites and Services do not target and are not intended to attract children un
 
 #### 13.  How you can access and update your information
 
-You may review and update certain user profile information by logging in, as applicable, to the relevant portions of the Site or Services where such information may be updated, or by contacting [legal-privacy@calliduscloud.com](mailto:legal-privacy@calliduscloud.com). 
+You may review and update certain user profile information by logging in, as applicable, to the relevant portions of the Site or Services where such information may be updated, or by contacting [SAP.CX.Legal-Privacy@sap.com](mailto:SAP.CX.Legal-Privacy@sap.com). 
 
 #### 14.  Changes to this Policy
 
@@ -319,13 +319,11 @@ CallidusCloud reserves the right to change this Policy from time to time. Please
 
 Have additional privacy questions or need further info? This section is about how to contact us.
 
-If you have any questions, comments, or concerns regarding this Policy or CallidusCloud’s privacy practices, they may be submitted via email to [legal-privacy@calliduscloud.com](mailto:legal-privacy@calliduscloud.com), or in writing by addressing your inquiries to: 
+If you have any questions, comments, or concerns regarding this Policy or CallidusCloud’s privacy practices, they may be submitted via email to [SAP.CX.Legal-Privacy@sap.com](mailto:SAP.CX.Legal-Privacy@sap.com), or in writing by addressing your inquiries to: 
 
      Callidus Software Inc.   
      4140 Dublin Blvd., Suite 400  
-     Dublin, CA 94568  
-     Att: Drew Grasham, DPO  
-     [dgrasham@calliduscloud.com](mailto:dgrasham@calliduscloud.com)
+     Dublin, CA 94568
 
   
 This Policy was last modified on October 29, 2018.
