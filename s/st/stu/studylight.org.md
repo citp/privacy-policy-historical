@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studylight.org privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322150308id_/https%3A//www.studylight.org/site-info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studylight.org privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227162739id_/https%3A//www.studylight.org/site-info/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - StudyLight.org
 
@@ -52,10 +52,8 @@ You may also use our convenient [contact form](https://web.archive.org/site-info
 
 Lectionary Calendar
 
-Friday, March 22nd, 2019  
-the _Second_ Week of Lent
-
-There are 30 days til Easter!
+Friday, December 27th, 2019  
+the _Second_ Day after Christmas
 
 ADVERTISEMENT
 
