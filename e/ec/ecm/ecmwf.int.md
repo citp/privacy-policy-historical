@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecmwf.int privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617040338id_/https%3A//www.ecmwf.int/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecmwf.int privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227124050id_/https%3A//www.ecmwf.int/en/privacy) for the most accurate reproduction.*
 
 # Privacy | ECMWF
 
