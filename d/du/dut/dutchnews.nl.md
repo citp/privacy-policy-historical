@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the dutchnews.nl privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424203100id_/https%3A//www.dutchnews.nl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dutchnews.nl privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227230134id_/https%3A//www.dutchnews.nl/privacy) for the most accurate reproduction.*
 
 # Privacy - DutchNews.nl
 
-**Privacy and Cookies on DutchNews.nl**
+[ ](https://web.archive.org/)
 
- **Privacy policy**
+[ ](https://www.dutchnews.nl/ "DutchNews.nl")
+
+**Privacy policy**
 
 We are currently working to become GDPR compliant.
 
@@ -44,3 +46,11 @@ Some advertisers may tailor advertising to specific groups of advertisers using 
 
 
 Some DutchNews.nl web pages use plug ins from third party platforms (such as the ‘Facebook Recommend’ function). Information about your visit to DutchNews.nl may be collected by these third party providers on these pages. For more information on how these third parties use information, please read their privacy policies.
+
+## Help us to keep providing you with independent daily news and longer reads
+
+Dear readers
+
+We'd like to send our heartfelt thanks to everyone who has donated to DutchNews.nl. Your support is essential to our success. If you have not yet done made a donation, you can do so via this link.
+
+The DutchNews.nl team
