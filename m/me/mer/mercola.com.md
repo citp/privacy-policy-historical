@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mercola.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330160928id_/https%3A//media.mercola.com/assets/html/privacy/security_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercola.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227224933id_/https%3A//media.mercola.com/assets/html/privacy/security_privacy.html) for the most accurate reproduction.*
 
 # Mercola Policy on Security, Privacy and Website Terms of Use
 
 ## Effective Date: 03/07/2017
 
-## Last Updated Date: 03/26/2019
+## Last Updated Date: 11/07/2019
 
 This policy sets forth the type of information [Mercola.com](https://www.mercola.com/) collects from you via this website: [www.mercola.com](https://www.mercola.com/) (the "Website"), the way we use such information, and the procedures we use to keep such information confidential. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
@@ -233,11 +233,7 @@ The profile you create on the site will be publicly accessible unless otherwise 
 
 We do not accept any paid advertisements on [Mercola.com](https://www.mercola.com/). Mercola.com also does not host or receive funding from the display of commercial content. Any services or products recommended and/or offered in the newsletter or elsewhere on [Mercola.com](https://www.mercola.com/) have gone through extensive review before such recommendations, and based on that review were recommended and/or offered.
 
-Google, as a third party vendor, uses cookies to serve ads on [Mercola.com](https://www.mercola.com/). Google's use of the DART cookie enables it to serve ads to [Mercola.com](https://www.mercola.com/) users based on their visit to [Mercola.com](https://www.mercola.com/) and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy
-
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](https://preferences.truste.com/). Please note this does not opt you out of advertising messages. You will continue to receive generic ads.
-
-We also use Google AdSense to publish ads on this site. When you view or click on an ad, a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google's Advertising and Privacy page: <https://www.google.com/privacy_ads.html>
+We use [Adobe](https://www.adobe.com/experience-cloud.html) products to enable our visitors to personalize and improve the performance of the Mercola.com websites and email messages. We collect and analyze information, such as clicks made by visitors on the websites. These tools also allow us to serve you more relevant content and ads within our websites, apps, emails, text messages, direct mail offers and push notifications. We never sell your information to third parties.
 
 ^ Back to Top
 
