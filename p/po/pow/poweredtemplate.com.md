@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poweredtemplate.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818131138id_/https%3A//poweredtemplate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poweredtemplate.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227231931id_/https%3A//poweredtemplate.com/privacy-policy) for the most accurate reproduction.*
 
 # PoweredTemplate.com - Privacy Policy
 
@@ -39,7 +39,7 @@ We collect certain information about visitors and users of our websites.
 
 Name, company name, address, email address, phone number(s), payment details (like information relating to your credit card), the responses you give to the surveys initiated for research purposes, and support queries.
 
-This info is used to provide you with and/or improve our services; for example, paying commissions, verifying your identity, contacting you, providing you with advertising and marketing, and invoicing you. We are using this information to make sure that we comply with the legal requirements.
+This info is used to provide you with and/or improve our services: for example, paying commissions, verifying your identity, contacting you, providing you with advertising and marketing, and invoicing you. We are using this information to make sure that we comply with the legal requirements.
 
  **Information that we obtain from buyers**
 
@@ -70,7 +70,7 @@ In the event we have your consent we will send you marketing materials that will
 
 PoweredTemplate.com and all websites and partners are using cookies to analyze user behavior and gather demographic info about our user base in general. A cookie is a small file that is placed on your device when you visit any website. Using the browser settings of your device you can eliminate the use of cookies but should you disable those, you can limit certain features on our websites.
 
-We are using functional and analytical cookies; for further information on the use of cookies, please see our [cookies policy](https://web.archive.org/lang/cookie-policy.html), or visit [www.allaboutcookies.org](https://web.archive.org/web/20180818131138id_/https://poweredtemplate.com/privacy-policy/www.allaboutcookies.org)
+We are using functional and analytical cookies: for further information on the use of cookies, please see our [cookies policy](https://web.archive.org/lang/cookie-policy.html), or visit [www.allaboutcookies.org](https://web.archive.org/web/20191227231931id_/https://poweredtemplate.com/privacy-policy/www.allaboutcookies.org)
 
  **Web Beacons**
 
@@ -82,7 +82,7 @@ PoweredTemplate websites are using Google Analytics, a web analytics service des
 
 Google, in turn, uses this data to evaluate user behavior in general, compile reports for site managers as well as providing data to services relating to website activity and Internet usage. Google may transfer various data to third parties where required to do so by law, or where such third parties process the information on Google's behalf.
 
-In no way will Google associate your IP address with any other data held by Google. In the event you do not want to provide Google with the browsing data you can block the use of cookies via your browser settings. More information on Google analytics opt-out, [www.google.com/intl/en/policies/privacy/](https://web.archive.org/web/20180818131138id_/https://poweredtemplate.com/privacy-policy/www.google.com/intl/en/policies/privacy/), and [www.google.com/analytics/terms/us.html](https://web.archive.org/web/20180818131138id_/https://poweredtemplate.com/privacy-policy/www.google.com/analytics/terms/us.html). Google Analytics is explained under the following link [www.google.com/analytics/](https://web.archive.org/web/20180818131138id_/https://poweredtemplate.com/privacy-policy/wwww.google.com/analytics/) .
+In no way will Google associate your IP address with any other data held by Google. In the event you do not want to provide Google with the browsing data you can block the use of cookies via your browser settings. More information on Google analytics opt-out, [www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/), and [www.google.com/analytics/terms/us.html](https://www.google.com/analytics/terms/us.html). Google Analytics is explained under the following link [www.google.com/analytics/](https://wwww.google.com/analytics/) .
 
   
 
