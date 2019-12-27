@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqa.org.uk privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626124335id_/https%3A//www.aqa.org.uk/about-us/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqa.org.uk privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227193232id_/https%3A//www.aqa.org.uk/about-us/privacy-notice) for the most accurate reproduction.*
 
 # AQA | About us | Privacy notice
 
@@ -10,12 +10,12 @@ Who is AQA?
 The Data Protection Office  
 What is personal data?  
 How we keep your data secure  
-The data we collect about you  
+The data we collect about you   
 How we collect your data  
 The legal basis for processing your personal data  
 How we use your data  
 Communication preferences  
-Analytics and targeted advertising  
+Analytics and targeted advertising   
 How we share your data  
 International transfers  
 Your rights  
@@ -30,6 +30,7 @@ The separate and distinct legal entities that make up the AQA family (referred t
   * AQA Education Ltd (registered office: Devas Street, Manchester, M15 6EX)
   * Doublestruck Ltd (registered office: Devas Street, Manchester, M15 6EX)
   * DRS Data Services Ltd (registered office: 1 Danbury Court, Linford Wood, Milton Keynes, Buckinghamshire, MK14 6LR)
+  * Oxford International AQA Examinations (registered address: Oxford University Press, Great Clarendon Street, Oxford, England, OX2 6DP)
 
 
 
@@ -37,15 +38,21 @@ This also includes any other businesses we may add to this group in the future. 
 
 ### The Data Protection Office
 
-AQA has established a Data Protection Office to oversee the activities we undertake to ensure that your personal data is handed ethically and in line with our legal obligations. If you have any questions about the way in which we collect, hold or process your data please send them to our Data Protection Office at [GDPRenquiries@aqa.org.uk](mailto:GDPRenquiries@aqa.org.uk). Our Data Protection Officer is Clare Kay.
+AQA has established a Data Protection Office to oversee the activities we undertake to ensure that your personal data is handed ethically and in line with our legal obligations. If you have any questions about the way in which we collect, hold or process your data please send them to our Data Protection Office at [GDPRenquiries@aqa.org.uk](mailto:GDPRenquiries@aqa.org.uk).
 
 ### What is personal data?
 
-Personal data is any information which identifies and is about a living person. It might be possible to identify the individual through a single, specific identifier, such as a name; or by combining several different identifiers, such as job role and team. Some information is considered particularly sensitive because of the serious impact that it might have on the individual concerned if the data was lost or stolen. This ‘special category’ data includes: racial or ethnic origin; political opinions; religious or philosophical beliefs; trade union membership; health; sex life or sexual orientation; and genetic and biometric data (such as your fingerprint). We may collect special categories of personal data about pupils, examination candidates, job applicants, event attendees, and employees, where we have a lawful basis to do so.
+“Personal data” is any information about a living individual, which allows them to be identified from that data (for example a name, photographs, videos, email address, or address).
+
+Identification can be by directly using the data itself or by combining it with other information, which helps to identify a living individual.
+
+The processing of personal data is governed by legislation relating to personal data, which applies in the United Kingdom including the General Data Protection Regulation (the “GDPR) and other legislation relating to personal data and rights such as the Human Rights Act.
 
 ### How we keep your data secure
 
 We have put appropriate organisational safeguards and security measures in place to protect your data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. We keep your data confidential within a secure infrastructure protected by multiple firewalls and we are committed to keeping the security of these systems as up-to-date and as secure as possible. We already encrypt special category data within some of our products. We also limit access to your personal data to those employees, associates, contractors and other third parties who have a business need to know it. They will only be permitted to process your data on our instructions and will always be subject to a duty of confidentiality.
+
+CCTV data will be stored on secure hard drives located within AQA offices. Images will generally only be retained for 30 days before being overwritten, unless we are required to extract information for the purposes of providing the data to law enforcement agencies, or data subjects under data protection law.
 
 We require any third party who is contracted to process your personal data on our behalf to have security measures in place to protect your data and to treat such data in accordance with the law. We have put in place procedures to deal with any suspected personal data breach and will notify you and the UK Information Commissioner of a breach where we are legally required to do so.
 
@@ -63,6 +70,7 @@ The following groups of personal data may be collected and processed by AQA:
   *  **Marketing Data** such as your marketing and communication preferences in receiving communications from us and our third parties, the technologies used, and any related correspondence;
   *  **Usage Data** such as your use of our website, performance and other communication data;
   *  **Survey Data** such as your comments and opinions provided in response to a survey.
+  *  **Digital data** such as audio recording of calls to our contact centre and telephony system, and CCTV images of individuals and their vehicles on and around the Manchester and Guildford offices, and images of individuals inside these buildings.
 
 
 
@@ -84,6 +92,18 @@ We also collect, use and share **aggregated data** such as statistical or demogr
 
 We may collect personal data from you when you: register at an approved centre; participate in our examinations, training, surveys or related events; use our website, app, products or services; interact with us through social media, email, post, text or phone, or use one of our [cookies](http://www.aqa.org.uk/about-us/cookie-policy). In addition, we will also collect personal data from job applicants, employees, ex-employees, associates, trustees, contractors and temporary employees during their recruitment screening and throughout the tenure of their employment with us.
 
+We may also capture information by telephone or CCTV when you call or visit AQA. Our CCTV monitors the reception area, loading bays, remote entrances, blind spots and key points within the buildings and externally at both the Guildford and Manchester sites. There are 34 cameras on the Manchester site and 42 cameras at the Guildford site. The cameras are in operation 24 hours a day, 7 days a week
+
+Signs are displayed prominently to inform staff and visitors that CCTV cameras are in operation and who to contact for further information.
+
+Camera locations are chosen to minimise the capture of images which are not relevant to the legitimate purposes of the monitoring. Surveillance systems are not used to record sound.
+
+No surveillance cameras will be placed in areas where there is an expectation of privacy (for example, in toilets or changing rooms).
+
+AQA does not carry out covert monitoring or surveillance (that is, where you are unaware that the monitoring or surveillance is taking place) unless, in highly exceptional circumstances, there are reasonable grounds to suspect that criminal activity or extremely serious malpractice is taking place and, after suitable consideration, AQA reasonably believes there is no less intrusive way to tackle the issue.
+
+Any covert monitoring or surveillance will be carried out for a limited and reasonable period of time consistent with the objectives of the monitoring or surveillance and will relate only to the specific suspected criminal activity or extremely serious malpractice.
+
 ### The legal basis for processing your personal data
 
 The law requires us to inform you of the legal basis for collecting and processing your personal data, where we are the Data Controller, or Joint Data Controller. These include:
@@ -98,7 +118,10 @@ The law requires us to inform you of the legal basis for collecting and processi
 
 ### How we use your data
 
-Your personal data is used by us to support a range of different purposes and activities. These are listed in the table below together with the types of data used and the legal base(s) we rely on when processing them, including where appropriate, our legitimate interests. Please be aware that we may process your personal data using more than one lawful basis, depending on the specific activity involved. Please contact us if you need details about the specific lawful basis we are relying on to process your personal data where more than one basis is set out below.
+The types of personal data we collect and use, the purposes for which we use your personal data, and the lawful bases we rely on to allow us to use your personal data in that way are set out in the table below.
+
+Where the lawful basis is our legitimate interests or the legitimate interests of a third party, we have also indicated what those interests are.  
+We may have more than one lawful basis for using your personal data.
 
  **Purpose / Activity**
 
@@ -246,7 +269,7 @@ To register you for email updates, and recommend products and services and event
 
 | 
 
-  * Consent
+  * Necessary for our legitimate interests (to maintain timely communication with customers and enable us to promote services and events for the benefit of our customers)
 
   
   
@@ -278,6 +301,97 @@ To protect the security of commercial and personal and special category data in 
 | 
 
   * Necessary for our legitimate interests (protecting the data entrusted to us by customers and commercially sensitive data about our business)
+
+  
+To improve our customer service, monitor quality, resolve complaints and ensure compliance with regulations through contact capture, webforms and call recording.| 
+
+  * Identity
+  * Contact
+  * Digital
+
+| 
+
+  * Necessary for our legitimate interests (to monitor quality and performance, resolve complaints, improve practice and train staff to improve customer service)
+
+  
+  
+To prevent crime and protect buildings and assets (of AQA, occupants of the building and of their respective staff and visitors) from damage, disruption, vandalism and other crime
+
+| 
+
+  * Identity
+  * Digital
+
+| 
+
+  * The legitimate interests of staff and visitors and of AQA and occupants of the building in protecting the building and their assets
+
+  
+  
+For the personal safety of staff and visitors (of AQA and the occupants of the building) and other members of the public and to act as a deterrent against crime
+
+| 
+
+  * Identity
+  * Digital
+
+| 
+
+  * The legitimate interests of staff and visitors in being safe and the legitimate interests of AQA and other occupants of the building in keeping their staff and visitors safe
+
+  
+  
+To support law enforcement bodies in the prevention, detection and prosecution of crime
+
+| 
+
+  * Identity
+  * Digital
+
+| 
+
+  * The legitimate interests of staff and visitors and of AQA and other occupants of the building in preventing crime and helping to detect and prosecute crime
+
+  
+  
+To assist in the day-to-day management, including ensuring the health and safety of staff and visitors (of AQA and occupants of the building)
+
+| 
+
+  * Identity
+  * Digital
+
+| 
+
+  * The legitimate interests of AQA and occupants of the building in managing their businesses and ensuring the health and safety of their staff and visitors.
+  * Legal duty under health and safety legislation.
+  * In some cases – vital interests when processing is necessary to protect someone’s life.
+
+  
+  
+To assist in the effective resolution of disputes which arise in the course of disciplinary or grievance proceedings with staff (of AQA or occupants of or visitors to the building)
+
+| 
+
+  * Identity
+  * Digital
+
+| 
+
+  * The legitimate interests of AQA and other occupants of or visitors to the building in resolving disputes which arise in the course of disciplinary or grievance proceedings
+
+  
+  
+To assist in the defence of any civil litigation, including employment tribunal proceedings (involving AQA or occupants of or visitors to the building)
+
+| 
+
+  * Identity
+  * Digital
+
+| 
+
+  * The legitimate interests of OUI, other occupants of the building and visitors to the building in bringing or defending any civil litigation proceedings
 
   
   
@@ -365,11 +479,22 @@ Please note: you can opt-out of the Google Display Advertising Features using [
 We may disclose and share your personal data with the parties set out below, for the purposes outlined in the tables above:
 
   * The AQA group of companies (AQA Education, Doublestruck, DRS Data Services and Oxford International AQA Examinations);
-  * government agencies, their partners and other third parties to comply with our legal obligation or public interest responsibilities (such as Ofqual, DfE, HMRC, Student Loan Company, Magistrates Courts, Employment Tribunals, Local Authorities and Academy Chains);
+  * government agencies, their partners and other third parties to comply with our legal obligation or public interest responsibilities (such as Ofqual, DfE, HMRC, Student Loan Company, UCAS, Magistrates Courts, Employment Tribunals, Local Authorities and Academy Chains);
   * associates, business partners, suppliers (including their sub-contractors) or other third parties that we use to support the operation of our business. For example, to: carry out criminal or credit checks; support the logistics involved in the secure storage and transportation of exam papers; provide IT systems and software, internet access, website or hosting solutions; organise events or provide marketing and advertising services; provide training and development services; deliver employee benefits, run our payroll, perform occupational health checks and referrals, and provide employee assistance;
   * our professional advisers including auditors, lawyers, bankers and insurers who provide professional advice, accounting, banking, legal, insurance, and pension services, or to meet our audit responsibilities;
   * where you have consented for us to do so. For example, if you have given your consent for us to share your data with a third party in respect of an event, we may pass your data on to the relevant third party administering the event;
-  * employers of associates. For example, the payment of teacher release vouchers;
+  * employers of associates. For example, the payment of teacher release vouchers
+
+
+
+ **CCTV**
+
+  * Images are monitored by AQA authorised personnel during working hours only and can be accessed remotely at other times if required.  Live feeds from CCTV cameras are monitored only where this is reasonably necessary, for example to protect health and safety.
+  * AQA will ensure that live feeds from cameras and recorded images are only viewed by approved members of its staff whose role requires them to have access to such data. This may include AQA’s People Services staff involved in disciplinary or grievance matters.
+  * Where images from our CCTV system are relevant to occupants of the buildings or any individual (for instance if they show that their car has been broken into), AQA may share them with those other occupants/individuals if it considers that this is reasonably necessary for any of the purposes set out above.
+  * AQA is not responsible for the use these occupants or individuals make of those images.
+  * AQA may allow law enforcement agencies to view or remove CCTV footage where this is required in the detection or prosecution of crime.  
+AQA will keep a record of all disclosures of CCTV footage.
 
 
 
@@ -381,7 +506,7 @@ We may share non-personally identifiable information about the use of our websit
 
 ### International Transfers
 
-We may use service providers based outside of the EEA to help us provide our websites and products (for example, marketing service providers). This means that we may transfer some of your data to service providers outside the EEA for the purpose of providing our applications, services and advertising to you.
+We may use service providers based outside of the EEA to help us provide our websites and products (for example, marketing service providers). This means that we may transfer some of your data to service providers outside the EEA for the purpose of providing our applications, services and advertising to you. We also administer exams outside the EEA in conjunction with Oxford International AQA Examinations, and may transfer information to Centres and government agencies outside the EEA for the purpose of administering and verifying exam results.
 
 Where data is transferred outside of the EEA to our service providers, we take steps to ensure that appropriate measures and controls are in place to protect that data in accordance with relevant data protection laws and regulations. In each case, such transfers are made in accordance with the requirements of Regulations (EU) 2016/679 (the General Data Protection Regulations or “GDPR”) and may be based on the use of the European Commission’s Standard Model Clauses for transfers of personal data outside the EEA. More information about this is available [here](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32010D0087).
 
@@ -389,22 +514,11 @@ By using our websites or products or by interacting with us in the ways describe
 
 ### Your Rights
 
-You have several rights under the data privacy legislation. This includes, under certain circumstances, the right to:
+You have several rights under the data privacy legislation - details of each of these rights are set out below. If you wish to contact us regarding any of these – please complete the [Exercising My Information Rights Form ](http://filestore.aqa.org.uk/content/privacy/AQA-GDPR-DSAR.DOCX) form by following the instructions in the form and returning this with the required identification.  This will help us to process your request more promptly.
 
-  * request access your personal data;
-  * request correction of your personal data;
-  * request erasure of your personal data;
-  * request the restriction of processing of your personal data;
-  * request the transfer of your personal data;
-  * object to processing of your personal data;
-  * object to automated decision making;
-  * complain to us and the Information Commissioner.
+You have the right to:
 
-
-
-Details of each of these rights are set out below:
-
-  *  **Access your data:** You can access to the data we hold on you at any time, by making a [Data Subject Access Request](http://filestore.aqa.org.uk/content/privacy/AQA-GDPR-DSAR.DOCX). The more specific you can be about what you want to know, the better. We will need to confirm your identity before we release data to you.
+  *  **Access your data:** You can access to the data we hold on you at any time, by making a  Subject Access Request using the above form. The more specific you can be about what you want to know, the better. We will need to confirm your identity before we release data to you.
   *  **Rectify your data:** You can ask us to correct any data we hold about you that is inaccurate.
   *  **Request erasure:** You have the right to ‘be forgotten’, in certain circumstances. This right does not apply if it would prevent the performance of a contract with you or if there is another legal requirement for us to retain your data. If erasure is not possible, you may be able to ask us to restrict processing.
   *  **Request the restriction of processing of your data:** You may ask us to suspend the processing of your data under certain circumstances, for example pending a review of the accuracy of the data or after you have objected to our use of the data, and we need to establish whether we may lawfully continue processing it.
@@ -421,6 +535,8 @@ We may need to request specific information from you to help us confirm your ide
 
 ### How to contact us
 
-If you have any questions or concerns about the way in which we collect, hold or process your data, or simply wish to exercise your rights (as identified in the previous section) please contact us directly. The address for our Data Protection Office is [GDPRenquiries@aqa.org.uk](mailto:GDPRenquiries@aqa.org.uk). Our Data Protection Officer is Clare Kay.
+If you have any questions or concerns about the way in which we collect, hold or process your data, or simply wish to exercise your rights (as identified in the previous section) please contact us directly.
 
- **Version 1.0 – Last Updated 8.20am 11th May 2018.**
+You can contact the Data Protection Officer and team at [GDPRenquiries@aqa.org.uk](mailto:GDPRenquiries@aqa.org.uk).
+
+ **Version 3.0 – Last Updated 9.40am 17 October 2019.**
