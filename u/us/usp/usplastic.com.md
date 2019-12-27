@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usplastic.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526063035id_/https%3A//www.usplastic.com/content/privacy.aspx%3Fclickid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usplastic.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227070958id_/https%3A//www.usplastic.com/content/privacy.aspx%3Fclickid%3Dfooter) for the most accurate reproduction.*
 
 # Privacy | U.S. Plastic
 
