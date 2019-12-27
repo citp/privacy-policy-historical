@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelopedia.com privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212125050id_/https%3A//www.angelopedia.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelopedia.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227182548id_/https%3A//www.angelopedia.com/Privacy) for the most accurate reproduction.*
 
 # 
 
