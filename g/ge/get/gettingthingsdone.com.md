@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettingthingsdone.com privacy policy that was archived on 2019-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190124134304id_/https%3A//gettingthingsdone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingthingsdone.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227060924id_/https%3A//gettingthingsdone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Getting Things Done®
 
