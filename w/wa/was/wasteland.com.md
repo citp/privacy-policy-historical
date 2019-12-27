@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wasteland.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622202058id_/http%3A//wasteland.com/privacy-wasteland.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wasteland.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227075617id_/http%3A//wasteland.com/privacy-wasteland.html) for the most accurate reproduction.*
 
 # Fetish Porn | Bondage | BDSM | Hardcore Sex Movies | Wasteland.com - Darker Side of Desire
 
