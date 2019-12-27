@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the junkmail.co.za privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184742id_/https%3A//www.junkmail.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junkmail.co.za privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227215050id_/https%3A//www.junkmail.co.za/privacy-policy) for the most accurate reproduction.*
 
-# PrivacyPolicy | Junk Mail
+# Privacy Policy | Junk Mail
 
 **1\. Introduction**
 
