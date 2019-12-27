@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hafen-hamburg.de privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418075344id_/https%3A//www.hafen-hamburg.de/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hafen-hamburg.de privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227070904id_/https%3A//www.hafen-hamburg.de/en/privacy-policy) for the most accurate reproduction.*
 
 # Port of Hamburg | Privacy Policy
 
