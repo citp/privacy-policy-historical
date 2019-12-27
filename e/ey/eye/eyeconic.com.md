@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeconic.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528132711id_/http%3A//www.eyeconic.com/hipaa.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeconic.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227123247id_/https%3A//www.eyeconic.com/hipaa.html) for the most accurate reproduction.*
 
 # HIPAA Privacy Policy | Eyeconic
 
@@ -25,7 +25,7 @@ The purpose of this Privacy Notice is to:
 
 (b)      **Technical Information Obtained from the Use of the Site.** We collect certain technical information automatically when you use the Site to facilitate our provision of the services, which information may include the domain from which you access the Site, the date and time you access the Site, what areas of the Site you access, the IP address, unique device identifier, and the type of device and/or web browser you use to access the Site.
 
-(c)      **Cookies and Other Technologies.** We and our service providers may use cookies, web beacons – also referred to as single-pixel gifs – and other technologies to improve the Site and its functionality. Cookies are identifiers that a website stores on your computer's hard drive to facilitate the interaction between your computer and the website. We use several types of cookies that have different purposes. We use cookies that are essential to the operation of the Site (e.g. allowing you to place items in the shopping bag and purchase these items or allowing us to identify you and provide you access to your user account). These essential cookies are either session or persistent cookies. Session cookies expire when you close your browser. Persistent cookies remain stored on your computer or device until you delete them manually or until they expire. Please see below on how to block or delete cookies.
+(c)      **Cookies and Other Technologies.** We our service providers, and other third parties (such as Facebook) may use cookies, web beacons – also referred to as single-pixel gifs – and other storage technologies to improve the Site and its functionality, provide measurement services and target advertising. Cookies are identifiers that a website stores on your computer's hard drive to facilitate the interaction between your computer and the website. We use several types of cookies that have different purposes. We use cookies that are essential to the operation of the Site (e.g. allowing you to place items in the shopping bag and purchase these items or allowing us to identify you and provide you access to your user account). These essential cookies are either session or persistent cookies. Session cookies expire when you close your browser. Persistent cookies remain stored on your computer or device until you delete them manually or until they expire. Please see below on how to block or delete cookies.
 
 Other cookies make your use of the Site easier (e.g. allowing us to remember you and your preferences upon your next visit to the Site when checking “Remember Me”), make the Site run more smoothly to make it easier for you to navigate and enhance the experience of our Site and help us to maintain a secure Site. These functionality cookies are persistent cookies and exclusive to this Site and cannot be obtained or read by other websites.
 
@@ -46,6 +46,12 @@ Click on the links below to learn more about the privacy practices of DoubleClic
   * <https://www.facebook.com/about/privacy/>
 
 
+
+You can also opt out of the collection and use of information for advertisement targeting. Click on the link below to access a mechanism for exercising such choice:
+
+<https://www.aboutads.info/choices>
+
+[https://www.youronlinechoices.eu](https://www.youronlinechoices.eu/)
 
 (e)      **Website Analytics.** We also use or allow third parties to serve cookies on our Site. For example, we use Google Analytics and Adobe Analytics to assist us with website analytics such as evaluating the use and operation of our website so that we can continue to enhance the website and our services. These analytics cookies are so called performance cookies. All information collected by these cookies is aggregated and therefore anonymous. Click on the links below to learn more about the privacy practices of Google and Adobe:
 
@@ -218,3 +224,9 @@ _Important:_ If the disclosure was made to you, Eyeconic will not provide an acc
 #### Receive a Copy of Complaints
 
 You can view and print a copy of this Privacy Notice through Eyeconic.com. If you believe that your privacy rights have been violated, you may submit a complaint to Eyeconic or to the U.S. Secretary of Health and Human Services at any time. Eyeconic will not retaliate against you for filing a complaint. You may file a complaint with Eyeconic at Eyeconic.com.
+
+### CONTACT INFORMATION
+
+#### Contact Eyeconic
+
+For questions about this notice or your privacy, contact us at 1-855-EYECONIC (1-855-393-2664) or [info@eyeconic.com](mailto:info@eyeconic.com). Our hours are Monday to Friday, 7:00 a.m. to 5:00 p.m. PT.
