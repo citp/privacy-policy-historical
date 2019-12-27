@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rice.edu privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628224613id_/https%3A//privacy.rice.edu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rice.edu privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227224537id_/https%3A//privacy.rice.edu) for the most accurate reproduction.*
 
 # Rice University Privacy Notice | Privacy | Rice University
 
@@ -20,7 +20,7 @@ The Rice website may be accessed from or link to third party websites (such as Y
 
 
 
-Rice takes the security of your information seriously and has dedicated resources to the protection of your data. This includes technological controls that meet or exceed industry standards, and a staff that is trained in information confidentiality, integrity, and availability of electronic data, resources, and communications.  More information is available at <https://vpit.rice.edu/it-security>.
+Rice takes the security of your information seriously and has dedicated resources to the protection of your data. This includes technological controls that meet or exceed industry standards, and a staff that is trained in information confidentiality, integrity, and availability of electronic data, resources, and communications.  More information is available at <https://vpit.rice.edu/information-security>.
 
   1. **Data Retention**
 
