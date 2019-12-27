@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zonealarm.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184744id_/https%3A//www.zonealarm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zonealarm.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227215338id_/https%3A//www.zonealarm.com/privacy) for the most accurate reproduction.*
 
 # ZoneAlarm Privacy Policy | ZoneAlarm
-
-Your Internet Explorer is out of date. For the best experience, please use an updated browser.
 
 This document was last updated May 2, 2018.
 
@@ -55,6 +53,8 @@ If you have installed certain ZoneAlarm products, in very rare instances you may
 ZoneAlarm periodically requests information from users via surveys. Participation in these surveys is completely voluntary and you have a choice whether or not to disclose this information. ZoneAlarm uses both in-house and third-party Web-Based Interviewing Systems to compile the surveys. Information requested in the surveys may include broad demographic information (such as zip code, age level) for aggregate use and does not identify the user. No cookies are used. Survey information is not sold, shared, or rented to any third party, and is used internally solely by ZoneAlarm for purposes of improving the use and satisfaction of this Site, Services, and our products.
 
 When a user or a company signs up to be a marketing program affiliate, they do so through a third-party provider of affiliate marketing programs. Such third-party provider does share personally identifiable information about affiliates with ZoneAlarm. This information is not sold, shared, or rented to any third party, and is used internally only to manage and maintain relationships with affiliates. The ZoneAlarm privacy policy governs the information that is collected on Element5 and this information will be used in accordance with the ZoneAlarm privacy policy.
+
+The web search services herein are provided by Microsoft Bing. As part of the search functionality, third parties may collect or receive information (including, without limitation, IP addresses and search terms) and use that information to provide measurement services, search results and other advertisements, including personalized and targeted search results and advertisements. For information on collection of data as part of the web search services, please visit the end user [privacy statements of CodeFuel](https://www.codefuel.com/legal/end_user_privacy_policy/) and [Bing](http://go.microsoft.com/fwlink/?LinkId=521839), both as updated from time to time and at any successor locations. “
 
 ## If You Opt to Receive Communications, How We Will Contact You
 
