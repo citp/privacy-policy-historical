@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the virtualhosting.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531024859id_/https%3A//html.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualhosting.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227061001id_/https%3A//html.com/privacy) for the most accurate reproduction.*
 
 # The HTML.com Privacy and Cookie Policy »
+
+**Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://web.archive.org/disclosure/)
 
 This is the Privacy & Cookies Policy (the ‘Policy’) of Quality Nonsense Limited, company number 05889123, of 27 Mortimer Street, London W1T 3BL (hereafter ‘QNL’, ‘we’ or ‘us’). This Policy describes the ways in which QNL collects and uses information about you when you use our website at HTML.com (the “Website”).
 
@@ -10,7 +12,7 @@ This Policy was last changed on 17 Feb 2019.
 
 This Policy can be stored or printed using the buttons at the top of this page.
 
-  1. ICO registration: For the purposes of data protection legislation, QNL is the controller for the processing of your personal data. QNL has notified the Information Commissioner’s Office (“ICO”) of its processing of personal data. The notification indicates what data is processed by QNL and for what purpose, and to which persons or entities the data will be provided. Click [here](https://ico.org.uk/ESDWebPages/Entry/Z1052643) to consult the notification in the public register of the ICO. QNL’s registration number is Z1052643.
+  1. ICO registration: For the purposes of data protection legislation, QNL is the controller for the processing of your personal data. QNL has notified the Information Commissioner’s Office (“ICO”) of its processing of personal data. The notification indicates what data is processed by QNL and for what purpose, and to which persons or entities the data will be provided. Click [here](https://ico.org.uk/for-organisations/) to consult the notification in the public register of the ICO. QNL’s registration number is Z1052643.
   2. Information which is collected when you use the Website: QNL may collect the following information from you when you use the Website:
 
 
@@ -95,7 +97,7 @@ iv. law enforcement agencies in compliance with law enforcement.
 
 a) What are Cookies? Cookies are small text files that are placed on your device when you use the Website. QNL’s use of cookies is detailed below. _Session cookies_ enable you to move from page to page within the Website and any information you enter will be remembered but is deleted when you close the Website or after a short time. _Persistent cookies_ allow us to remember your preferences and settings when you use the Website in the future.
 
-b) Disabling Cookies: The use of the cookies described above improves the functionality of the Website and your experience of using them. If you do not want these cookies to be served on your device, you are able to disable them by changing the settings within the Website, or on your device. Please note that if you do decide to disable cookies you may not be able to access some of the Website, and some of the features of the Website may not function properly. By continuing to use the Website, including using social networking media functionality, you consent to the relevant cookies being set on your device. You can change your browser settings by clicking the appropriate link as follows: [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer), [Chrome](https://support.google.com/chrome/answer/95647?hl=en), [Internet Explorer](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer) and/or [Safari](https://support.apple.com/kb/ph21411?locale=en_US).
+b) Disabling Cookies: The use of the cookies described above improves the functionality of the Website and your experience of using them. If you do not want these cookies to be served on your device, you are able to disable them by changing the settings within the Website, or on your device. Please note that if you do decide to disable cookies you may not be able to access some of the Website, and some of the features of the Website may not function properly. By continuing to use the Website, including using social networking media functionality, you consent to the relevant cookies being set on your device. You can change your browser settings by clicking the appropriate link as follows: [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer), [Chrome](https://support.google.com/chrome/answer/95647?hl=en), [Internet Explorer](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer) and/or [Safari](https://support.apple.com/downloads/safari).
 
 c) Third Party Cookies: Third Party advertisers may place or read cookies on your browser or device in the Website. This Policy is applicable only to the use of cookies by QNL and does not cover the use of cookies by any third parties (including advertisers or social media companies).
 
