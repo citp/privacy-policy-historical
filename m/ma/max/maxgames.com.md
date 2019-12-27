@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxgames.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531032608id_/http%3A//www.maxgames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxgames.com privacy policy that was archived on 2019-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191227210857id_/http%3A//www.maxgames.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Max Games
 
