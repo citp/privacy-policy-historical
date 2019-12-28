@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mapillary.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618210852id_/https%3A//www.mapillary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapillary.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228130829id_/https%3A//www.mapillary.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mapillary
 
 We respect your right to privacy and will only process your personal information in accordance with applicable data protection and privacy laws.
 
-In this Privacy Policy, "we," "us," "its" and "our" refer to Mapillary AB ("Mapillary"), organized under the laws of Sweden. Please read carefully this Privacy Policy ("Policy") relating to your submission of Content (as defined in Mapillary’s Terms of Use) to and use of Mapillary applications, services and websites. Other terms used with a capital initial letter are defined in the associated Terms of Use [link] or the associated Mapillary Marketplace Terms [link].
+In this Privacy Policy, "we," "us," "its" and "our" refer to Mapillary AB ("Mapillary"), organized under the laws of Sweden. Please read carefully this Privacy Policy ("Policy") relating to your submission of Content (as defined in Mapillary’s Terms of Use) to and use of Mapillary applications, services and websites. Other terms used with a capital initial letter are defined in the associated [Terms of Use](https://web.archive.org/terms) or the associated [Mapillary Marketplace Terms](https://web.archive.org/marketplaceterms).
 
 **A. Introduction**
 
