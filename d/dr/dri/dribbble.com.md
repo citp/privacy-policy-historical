@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dribbble.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624110240id_/https%3A//dribbble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dribbble.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228093455id_/https%3A//dribbble.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dribbble
 
-## Updated May 25, 2018
+## Updated October 4, 2019
 
 ### Overview
 
@@ -31,6 +31,8 @@ We take steps designed to ensure that only those employees who need access to yo
 
 
 For the purposes of billing your account (if you have a paid account) and in order to process payments, Dribbble utilizes third party payment gateways, such as Stripe and Paypal, who will utilize your credit card and other payment information in accordance with their respective privacy policies. Dribbble shall not be liable to you or any other person for any damages that might result from unauthorized use, publication, disclosure or any other misuse of such payment information, including credit card information.
+
+Dribbble may share your personal information with its registered API application providers, including Chrome tab extensions Panda and Muz.li which deliver relevant design stories and inspiration. We invite you to review their applicable data protection policies.
 
 When we disclose your personal information to third parties, we take reasonable measures to ensure that the rules set forth in this Privacy Policy are complied with and these third parties provide sufficient guarantees to implement appropriate technical and organisational measures.
 
