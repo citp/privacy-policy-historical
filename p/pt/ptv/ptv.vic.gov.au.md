@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptv.vic.gov.au privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610063159id_/https%3A//www.ptv.vic.gov.au/footer/legal-and-policies/information-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptv.vic.gov.au privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228061855id_/https%3A//www.ptv.vic.gov.au/footer/legal-and-policies/information-privacy-policy) for the most accurate reproduction.*
 
 # Information privacy policy - Public Transport Victoria
 
@@ -140,7 +140,7 @@ If a person believes that their Personal or Health Information has been used by 
 
  **By phone:** call [_1800 800 007_](https://www.ptv.vic.gov.au/footer/customer-service/public-transport-call-centre/ "Link to Public transport call centre page") 
 
- **By email:** [[email protected]](https://www.ptv.vic.gov.au/cdn-cgi/l/email-protection#6a1a1e1c1a18031c0b09132a1a1e1c441c0309440d051c440b1f "Email PTV Privacy Officer") 
+ **By email:** [[email protected]](https://www.ptv.vic.gov.au/cdn-cgi/l/email-protection#c3b3b7b5b3b1aab5a2a0ba83b3b7b5edb5aaa0eda4acb5eda2b6 "Email PTV Privacy Officer") 
 
  **By post:** PO Box 4724, Melbourne VIC 3000
 
