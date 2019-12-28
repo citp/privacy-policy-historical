@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandyourself.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626195459id_/https%3A//brandyourself.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandyourself.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228223542id_/https%3A//brandyourself.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BrandYourself
 
@@ -40,8 +40,6 @@ BrandYourself collects Personal Information regarding its current, prospective, 
     * **Registration for Sweepstakes or Contests.** Occasionally, BrandYourself may run sweepstakes and contests. We ask those who enter in the sweepstakes or contests to provide contact information (e.g., an e-mail address). If you participate in a sweepstakes or contest, your contact information may be used to reach you about the sweepstakes or contest, and for other promotional, marketing and business purposes. All sweepstakes/contests entry forms will provide a way for participants to opt-out of any communications that are not related to awarding prizes.
 
     * **Automatic Data Collection.** We may collect certain information automatically through our Services or other methods of web analysis, such as your Internet protocol (IP) address, cookie identifiers, ISP or mobile carrier, mobile advertising identifiers, MAC address, IMEI, Advertiser ID, and other device identifiers and features that are automatically assigned to your computer or device when you access the Internet, browser type and add-ons and language, proxy server, URL, geo-location information, hardware type, operating system, Internet service provider, pages that you visit before and after using the Services, the date and time of your visit, the amount of time you spend on each page, information about the links you click and pages you view within the Services, and other actions taken through use of the Services such as preferences.
-
-  * **Information Submitted Via Services.** You agree that BrandYourself is free to use the content of any communications submitted by you via the Services, including any ideas, inventions, concepts, techniques, or know-how disclosed therein, for any purpose including developing, manufacturing, and/or marketing goods or Services. BrandYourself will not release your name or otherwise publicize the fact that you submitted materials or other information to us unless: (a) you grant us permission to do so; (b) we first send notice to you that the materials or other information you submit to a particular part of a Service will be published or otherwise used with your name on it; or (c) we are required to do so by law.
 
   * **Information from Other Sources.** We may receive information about you from other sources, including through an entity that purchases Services that you have access to use, such as your employer, school, or university, or Third-Party services and organizations to supplement information provided by you. For example, if you access our Services through a Third-Party application, such as an App Store or a Social Networking Site (“SNS”) (e.g., Facebook), we may collect information about you from that Third-Party application that you have made public via your privacy settings or have otherwise allowed us access to. Information we collect through App Stores or SNS accounts may include your name, your SNS user identification number, your SNS user name, location, sex, birth date, email, profile picture, your posts or comments, images you have posted and your contacts on the SNS. This supplemental information allows us to verify information that you have provided to BrandYourself and to enhance our ability to provide you with information about our business, products, and Services.
 
@@ -90,11 +88,9 @@ We acquire, hold, use, and Process Personal Information about Individuals for a 
 
   * **Services via Mobile Devices.** From time to time, BrandYourself may provide Services that are specifically designed to be compatible and used on mobile devices. BrandYourself will collect certain information that your mobile device sends when you use such Services, like a device identifier, user settings, location information, mobile carrier, and the operating system of your device. Mobile versions of BrandYourself’s Services may require that users log in with an account. In such cases, information about use of mobile versions of the Services may be associated with accounts. In addition, BrandYourself may enable Individuals to download an application, widget, or other tool that can be used on mobile or other computing devices. Some of these tools may store information on mobile or other devices. These tools may transmit Personal Information to BrandYourself to enable Individuals to access accounts and to enable BrandYourself to track use of these tools. Some of these tools may enable users to email reports and other information from the tool. BrandYourself may use personal or non-identifiable information transmitted to BrandYourself to enhance these tools, to develop new tools, for quality improvement and as otherwise described in this Privacy Policy or in other notices BrandYourself provides.
 
-  * **Anonymous and Aggregated Information Use.** BrandYourself may use Personal Information and other information about you to create anonymized and aggregated information, such as de-identified demographic information, de-identified location information, information about the computer or device from which you access BrandYourself’s Services, or other analyses we create. Anonymized and aggregated information is used for a variety of functions, including the measurement of visitors’ interest in and use of various portions or features of the Services. Anonymized or aggregated information is not Personal Information, and BrandYourself may use such information in a number of ways, including research, internal analysis, analytics, and any other legally permissible purposes. We may share this information within BrandYourself and with Third Parties for our or their purposes in an anonymized or aggregated form that is designed to prevent anyone from identifying you.
-
   * **Sharing Content with Friends or Colleagues.** BrandYourself’s Services may offer various tools and functionalities. Our referral services may allow you to forward or share certain content with a friend or colleague, such as an email inviting your friend to use our Services. Email addresses that you may provide for a friend or colleague will be used to send your friend or colleague the content or link you request, but will not be collected or otherwise used by BrandYourself or any other Third Parties for any other purpose.
 
-  * **Other Uses.** BrandYourself may use Personal Information for which we have a legitimate interest, such as direct marketing, individual or market research, anti-fraud protection, security and investigations, or any other purpose disclosed to you at the time you provide Personal Information or with your consent.
+  * **Other Uses.** BrandYourself may use Personal Information for which we have a legitimate interest, such as anti-fraud protection, security and investigations, or any other purpose disclosed to you at the time you provide Personal Information or with your consent.
 
 
 
@@ -133,8 +129,6 @@ We may sell virtual items or merchandise through our Services. When you make pur
 We may share your information as described in this Privacy Policy (e.g., with our Third-Party service providers; to comply with legal obligations; to protect and defend our rights and property) or with your permission.
 
   * **We Use Vendors and Service Providers.** We may share any information we receive with vendors and service providers. The types of service providers (processors) to whom we entrust Personal Information include (but are not limited to) service providers for (i) provision of IT and related services, including for maintenance; (ii) provision of information and services you request; (iii) payment processing; (iv) customer service activities; (v) in connection with the provision of the Site; and (vi) analysis, audit, and fraud detection. BrandYourself has executed appropriate contracts with the service providers that prohibit them from using or sharing Personal Information except as necessary to perform the contracted services on our behalf or to comply with applicable legal requirements.
-
-  * **Business Partners.** BrandYourself may share Personal Information with our business partners, and affiliates for our and our affiliates’ internal business purposes or to provide you with a product or service that you have requested. BrandYourself may also provide Personal Information to business partners with whom we may jointly offer products or services, or whose products or services we believe may be of interest to you. In such cases, our business partner’s name will appear, along with BrandYourself. BrandYourself requires our affiliates and business partners to agree in writing to maintain the confidentiality and security of Personal Information they maintain on our behalf and not to use it for any purpose other than the purpose for which BrandYourself provided them.
 
   * **Displaying to Other Users.** The content you post to the Site may be displayed on the Site. Other users of the Site may be able to see some information about you, such as your name if you submit a review. We are not responsible for privacy practices of the other users who will view and use the posted information.
 
@@ -243,11 +237,11 @@ The following capitalized terms shall have the meanings herein as set forth belo
 
 ### 14\. REVISION HISTORY
 
-  * Privacy Policy: Effective: [●]
+  * Privacy Policy: Effective: April 3rd, 2019
 
-  * Privacy Policy: Effective: 1/1/18
+  * Privacy Policy: Effective: June 4th, 2018
 
-  * Privacy Policy: Effective: 6/4/18
+  * Privacy Policy: Effective: January 1st, 2018
 
 
 
