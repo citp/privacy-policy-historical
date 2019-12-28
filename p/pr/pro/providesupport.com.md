@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the providesupport.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625200447id_/https%3A//www.providesupport.com/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providesupport.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228220826id_/https%3A//www.providesupport.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Live Chat | Privacy Policy | Provide Support
 
@@ -76,7 +76,7 @@ We reserve the right to modify this privacy policy at any time, without prior no
 
 If you have any questions about the Provide Support Privacy Policy, please contact us at [support@providesupport.com](mailto:support@providesupport.com). 
 
-  * [Terms Of Service](https://www.providesupport.com/home/terms-of-service.html)
-  * [European Union GDPR Legislation](https://www.providesupport.com/home/gdpr.html)
+  * [Terms Of Service](https://www.providesupport.com/info/terms-of-service.html)
+  * [European Union GDPR Legislation](https://www.providesupport.com/info/gdpr.html)
 
 
