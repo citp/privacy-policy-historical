@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tidiochat.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406041740id_/https%3A//www.tidiochat.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tidiochat.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228085155id_/https%3A//www.tidio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tidio Live Chat
+# Privacy Policy | Tidio
 
 ## Last updated: 9 January, 2019
 
@@ -11,7 +11,7 @@ Tidio LLC(with its registered office in 180 Steuart St,CA 94119, San Francisco),
 
 
 
-(collectively “Tidio Group”,“Tidio”,”us”, “we”, or “our”) operate the www.tidiochat.com website (the “Services”). 
+(collectively “Tidio Group”,“Tidio”,”us”, “we”, or “our”) operate the www.tidio.com website (the “Services”). 
 
 Tidio is committed to protecting your privacy.
 
@@ -19,7 +19,7 @@ This Privacy Policy explains how Tidio collects and uses personal information ab
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [www.tidiochat.com](https://www.tidiochat.com/) .
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [www.tidio.com](https://www.tidio.com/) .
 
 Please read this Privacy Policy carefully to find out about:
 
