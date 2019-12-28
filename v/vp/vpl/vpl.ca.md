@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpl.ca privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502224200id_/http%3A//www.vpl.ca/policy/protection-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpl.ca privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228042242id_/https%3A//www.vpl.ca/policy/protection-privacy-policy) for the most accurate reproduction.*
 
 # Protection of Privacy Policy | Vancouver Public Library
 
