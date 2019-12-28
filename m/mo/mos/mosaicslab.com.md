@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mosaicslab.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111210117id_/https%3A//www.mosaicslab.com/mosaics-lab-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mosaicslab.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228050527id_/https%3A//www.mosaicslab.com/mosaics-lab-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mosaics Lab
 
