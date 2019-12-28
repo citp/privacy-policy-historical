@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esdc.gc.ca privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626224838id_/https%3A//www.canada.ca/en/transparency/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esdc.gc.ca privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228100005id_/https%3A//www.canada.ca/en/transparency/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Canada.ca
 
