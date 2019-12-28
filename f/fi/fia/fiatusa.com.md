@@ -1,140 +1,348 @@
-> *The following text is extracted and transformed from the fiatusa.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221222426id_/https%3A//www.fiatusa.com/crossbrand_us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiatusa.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228072122id_/https%3A//www.fiatusa.com/crossbrand_us/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-## INTRODUCTION
+FCA US LLC (“ **FCA US** ,” “ **we** ” or “ **us** ”) **** is committed to privacy and transparency in our information practices. This FCA US Privacy Policy (our “ **Privacy Policy** ”) explains the privacy and information practices of FCA US, and the rights and choices individuals have regarding their personal information that we collect.
 
-Welcome to FCA US LLC ("FCA US"). At FCA US, we believe it is important to protect the privacy of our customers and guests and to be transparent with our practices. We know that you care about how your personal information is collected, used, and shared and we want to help you make knowledgeable choices about the information you provide to us. This Privacy Statement ("Privacy Statement") explains and summarizes how FCA US collects, uses, and protects your information, including the personal information that you may provide to us or that we may collect from you as you interact with us. We will update this Privacy Statement from time to time, so please check back with us periodically.
+Your use of our Services is subject to our applicable terms of use, including our [Terms of Use](https://www.chrysler.com/crossbrand_us/terms-of-use), and our mobile app End User User License Agreements, the [SiriusXM Guardian Terms of Services](https://www.driveuconnect.com/sirius-xm-guardian/terms.html) and [Uconnect Terms of Service](https://www.driveuconnect.com/terms-and-conditions.html) as applicable (collectively, the “ **Terms** ”). These Terms are incorporated by reference into this Privacy Policy. Including their applicable limitations on liability and the resolution of disputes.  **By disclosing your personal information to us or using our Services, you understand and agree that FCA US may collect, use and disclose your personal information in accordance with this Policy and the Terms.  **
 
-This Privacy Statement applies when FCA US collects data from customers and guests, including through FCA US controlled websites or applications, and FCA US controlled applications accessed and/or used on a mobile, handheld or other wirelessly connected device (a "Website" or "Application"). Any Personal Information you provide is voluntary. "Personal Information" includes information that alone or when in combination with other information may be used to readily identify, contact, or locate you (e.g., name, address, telephone number, email address, and location). By disclosing your Personal Information to us or using our Websites or Applications, you consent to its collection and use by FCA US consistent with applicable data protection law and this Privacy Statement (which is expressly incorporated into any applicable Website or Application terms of use).
+**OVERVIEW OF OUR COLLECTION AND USE OF PERSONAL INFORMATION**  
+---  
+This table provides a summary of the personal information we collect and how we us it, which is further explained in our Privacy Policy below. While the actual information we collect and our use of such personal information varies depending upon the nature of our relationship and interactions, the table below provides a general overview of the categories of personal information we collect and the purposes for which we use such information. In some cases, such as where required by applicable laws, we will obtain your consent prior to collecting certain personal information.  
+Categories of Personal Information Collected | Use of Personal Information  
+_Name, contact information and other identifiers_ : identifiers such as a real name, alias, address, unique personal identifier, online identifier, VIN, IP address, email address, account name, social security number, driverâs license number, passport number, or other similar identifiers. | _Providing our Services and related support_ _Safety, recall and warranty_ _Analyzing and improving our Services_ _Personalizing content and experiences_ _Advertising, marketing and promotional purposes_ _In support of our general business operations_ _Securing and protecting our assets and rights_ _Complying with legal obligations_  
+_Customer records_ : paper and electronic customer records containing personal information, such as name, signature, physical characteristics or description, address, telephone number, education, current employment, employment history, social security number, passport number, driverâs license or state identification card number, insurance policy number, bank account number, credit card number, debit card number, or any other financial or payment information, medical information, or health insurance information.  
+_Protected classifications_ : characteristics of protected classifications under California or federal law such as race, color, sex, age, religion, national origin, disability, citizenship status, and genetic information.  
+_Commercial information_ :including records of personal property, products or services purchased, obtained, or considered, or other purchasing or use histories or tendencies.  
+_Internet or other electronic network activity information_ : including, but not limited to, browsing history, clickstream data, search history, and information regarding a residentâs interaction with an internet website, application, or advertisement, including access logs and other usage data related to your use of any company websites, applications or other online services, as well as the Connected Services.  
+_Geolocation data_ : precise location information about a particular individual or device.  
+_Employment history_ :professional or employment-related information.  
+_Education information_ : education information that is not publicly available personally identifiable information as defined in the federal Family Educational Rights and Privacy Act (20 U.S.C. section 1232g, 34 C.F.R. Part 99).  
+_Inferences and profiles_ :inferences drawn from personal information to create a profile reflecting a residentâs preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes.  
+**California residents.** If you are a California resident, please be sure to review the Additional Information for California Residents section below for important information, as required by California privacy laws, about the categories of personal information we collect and disclose and your rights under California privacy laws.   
+  
+## 1\. SCOPE
 
-This Privacy Statement explains the information practices of FCA US including:
+This Policy applies to our collection, use and disclosure of personal information related to (a) current and former owner(s) of FCA vehicles, (b) our websites (each a “ **Website** ”) and mobile applications (each as “ **App** ”) that link to or display this Policy, (c) our “ **Connected Services** ,” such as SiriusXM Guardian Services (separate subscription required), and the Uconnect® platform, mobile applications and features, and other services, features and technologies we make available via your vehicle, collectively the “ **Services** ”), and (d) as well as individuals that contact us, interact us or express interest in our vehicles.
 
-  * How FCA US uses the personal information you share with us and that we learn about you because of our relationship.
-  * How FCA US uses "cookies" and related information collected when you use our Website or Applications.
-  * What personal information, if any, FCA US may share about you and the conditions we use to protect your information if it must be shared.
-  * What kind of security measures FCA US takes to protect your information from accidental loss or disclosure.
-  * How FCA US will inform you in the event of a security breach.
-  * The process through which you can access personal information you share with FCA US and have that Personal Information corrected, restricted or removed from our records.
-  * Other things you should know about FCA US and privacy.
+**_Additional Privacy Notices_. **We may also provide additional privacy notices for specific services, such as the [FCA Connected Services Privacy Notice](https://www.driveuconnect.com/connectedservices/privacy), which applies to and provides additional information about our collection, use and disclosure of personal information related to our Connected Services.   
 
+**_Personal Information_. _ _** Personal information includes any information that identifies, relates to, describes, or is reasonably capable of being associated, or reasonably linked or linkable with a particular individual or household. **   **
 
+**_Not Covered by this Policy_. __** This Policy does not apply to job applicants and candidates who apply for employment with us, or to employees and non-employee workers.
 
-## COLLECTED INFORMATION AND USE
+## 2\. INFORMATION WE COLLECT
 
-FCA US collects and uses the information you provide to us. We may also obtain information about you from outside sources. For example, we may obtain commercially available demographic information about you from third parties, get device identifier information from mobile applications or advertisements or purchase e-mail or similar lists from third parties for advertising and marketing purposes. We may use or share your Personal Information where it is necessary for us to complete a transaction or do something that you have asked us to do, like to "get a quote" or to "find a dealer" or to send you products or vehicle information. We may also use this information for our internal research purposes as we develop our products and services. We may use Personal Information and data collected for our advertising or marketing purposes including on other websites or media and we may communicate with you to provide you with information we think may be of interest to you.
+The information we collect varies depending upon the circumstances and the Services you use.  
 
-If you make a request for information, for example, we might need to provide your name, address, or email to one of our dealers or a service provider with whom we have a relationship so that they can help us respond to you. FCA US vendors and suppliers may process your personal data under the direction of FCA US and in accordance with our policies.
+**_Sources of Personal Information._** We may collect personal information directly from individuals, such when an individual registers for a Uconnect® or MOPAR® account, contacts us, or inquires with us about a vehicle.  We may also collect personal information from third parties, such as dealers, platform providers, telecom providers, data aggregators, social media sources, public records, and other third parties with whom we work to make available our Services.  In addition, we automatically collect personal information related to the use of our Websites, Apps, Connected Services and other Services.
 
-We collect and use information from you in certain ways including:
+**_Information We Collect from You_**. We may collect personal information directly from you, including:
 
-**Website or Application Usage.**  We (or our service providers) may observe your activities, preferences, and transactional data (such as your Internet Protocol (IP) address and browser type) as well as pages you have viewed during your use of our Website or Application. We may use this data for any purpose unless we tell you otherwise in connection with a particular Website or Application. While we may collect or log this information, we do not identify you except if we believe doing so will help us better respond to a request you have made such as for a quote, identification of a local dealer, or similar request. With the exception of Location-Data, described below, where such non-Personal Information is linked to your Personal Information we will treat such information as Personal Information.
+·  _Registration and profile information_ : to access and use certain of our Services (such as Connected Services or a MOPAR® account), you must register for an account by providing us with certain required information, which may include your name, a user name, password, email, and other contact information. We may also ask you or allow you to submit certain additional optional information, which may include your phone number, location, preferences, and other similar profile information.
 
-**Location Data.**  Some FCA US Websites or Applications may capture and record certain location-data regarding your use of that Website or Application and your travels in order to provide location-related functionality ("Location Data"). We may link that Location Data to other information that you provide to us or that may be accessed in connection with your use of such a FCA US Website or Application. Your use of, and our ability to offer location based functionality is then enabled through our use and disclosure to third parties of Location Data and associated information.
+·  _Purchases and payments information_ : __ if you purchase products or services from us, such as branded merchandise or parts, whether online or over the phone, we collect information related to your order, which may include name, billing and shipping address, and payment details. We may work with external payment processors and fulfillment partners to process these payments.  
 
-**E-Commerce.**  When you interact with us or purchase a FCA US product online (for example, to get a quote or locate a dealer) you will be asked for information needed to complete your request. The information you provide is used, for example, to process your transactions, to create and share reports about these transactions, or to provide related customer service. When you shop online or buy direct from one of our online stores, these purchase transactions may be conducted through FCA US vendors and suppliers. Vendors and suppliers engaged by FCA US may have their use of your Personal Information limited by this Privacy Statement, contractual restrictions, or applicable law. However, if a particular Website or Application is co-branded or developed by a third party, it is possible that another party's Privacy Statement will govern the treatment of information on that Website or Application. FCA US (through its vendors or suppliers) may limit the acceptance of orders to particular jurisdictions and as permitted by applicable law.
+·  _Communications and support_ ** _._** If you contact us by email, mail, phone chat or otherwise regarding the Services, we collect and maintain a record of your contact details, communications and our responses. If you call us, we may also record calls and maintain logs and records of these calls.
 
-**Product Registration and Support.**  FCA US may allow customers to register online. Personal Information provided for such purposes may be used to carry out the request, service, or agreement for which the information is submitted. With your consent, we may also use the information you provide in online registration forms to notify you periodically about important things like an update to the Application, a change to our Privacy Statement or notice of a security breach, new FCA US products and services, and special offers and promotions that may be of interest to you. Failure to register any FCA US product will not diminish the rights you have under the applicable product warranty.
+·  _Inquiries and requests_ : We also collect personal information when you submit information to or request information from us (such as request a quote, find a vehicle or locate a dealer) or sign up for marketing and communications from us (such as related to FCA US product launches, special offers and upcoming vehicle and product releases). The information we may collect includes your name, contact information, location, vehicle of interest, current vehicle and other information. 
 
-**Events and Promotions.**  You may be asked to provide an email address or other Personal Information at an event or for entry into a particular promotion (including sweepstakes and contests). The specific rules and regulations governing promotions will vary and your participation constitutes your agreement to abide by those rules and regulations.
+·  _Events, contests and promotions_ _.  _We may also run contests, sweepstakes or other promotions or participate in certain events (collectively, “ **Events** ”), online and offline. If you choose to participate in an Event, we may ask you for personal information, including your name, age, contact information, vehicle of interest or other information. Certain Events may be co-branded with one of our partners or run on an external website, such as Facebook. In these instances, the collection of your personal information may occur directly or through an external website.
 
-Certain promotions may be run by a FCA US service provider or vendor or be co-branded with one of our partners or run on a third party site like Facebook. In these instances, the collection of your Personal Information may occur directly by the service provider or vendor or by a third-party partner on their website. The promotion will state the policies governing the collection of such information if they should differ from this Privacy Statement.
+·  _User content_ ** _.  _**If you choose to ** __** engage in forums, blogs, or similar features offered by us as part of the Services, we may maintain records about the content you post, such as comments, reviews or questions, as well as data and time and other metadata associated with your user content. User content may also be viewable by other visitors and users of the Services.     
 
-## PREFERENCES
+**_Information We Collect from Third Parties._**  We may also collect personal information about you from third parties, such as partners or dealers we work with.  We may append this information to the information we have already collected about you. For example, we may enhance or update the personal information we have about you, with information obtained from third party sources, such as data brokers and public records. We also collect device identifier information from mobile applications or advertisements or purchase e-mail or similar lists from third parties for advertising and marketing purposes. In addition, we may collect information about how individuals interact with us or comment about FCA and our products and services through social media. Also, if you take advantage of a third party or affiliate offer through the Services, we may receive certain information from that third party about your interaction with them.
 
-You may opt out or control how your information is used by sending an email to [dprivacy@fcagroup.com](mailto:dprivacy@fcagroup.com).
+**_Information We Collect Automatically_**. We may collect personal information about how you use the Services and interact with our Websites and Apps, such as information we collect automatically (e.g., using cookies and pixel tags), as well as information we derive about you and your use of the Services, including:
 
-## NON-PERSONAL INFORMATION, COOKIES, AND RELATED INFORMATION COLLECTION
+·  _Usage data:_ we automatically collect information about your use of our Services, such as IP address, app identifier, advertising ID, location info, browser type, device type, domain name, the website that led you to our Services, the website to which you go after leaving our Services, the dates and times you access our Services, and the links you click and your other activities within the Services.  We may also use pixels in HTML emails to understand if individuals read the emails we send to them.  
 
-**Cookies and Related Technologies.**  Cookies are small lines of text/data that are written onto your computer by website. FCA US or others acting on our behalf may use cookies, pixel tags, web beacons or other similar technologies in connection with the operation of our Websites or Applications. These technologies may collect and store non-Personal Information. We utilize these technologies to research and understand how our Websites and Applications are used, to develop our products and services, to personalize your online experience with FCA US and for general advertising and marketing purposes. We may share data collected from you on our Websites with our third party vendors or suppliers to advertise or market to you on other sites as you browse the web. At the end of your visit, session cookies used by FCA US are removed. However, in some instances some FCA US cookies may persist. For example, to customize your experience we may require registration to recognize your computer and save your previously selected settings or vehicle options. It is possible that Cookies placed by FCA US or its vendors or suppliers (as applicable) in connection with the operation of the Website or Application may remain stored on your computer until you remove them or until they expire.
+·  _Location data_ : We may collect geolocation through the Connected Services and our Apps. We may also collect general location data based upon the IP address of a device you use to access the Services. We may link location data to other information that we have collected about you.
 
-Our service providers or vendors may also use cookies and related technologies in order to personalize your experiences and adapt a particular FCA US Website or Application's functionality to your preferences and for purposes such as those listed above. If you are visiting a Uniform Resource Locator (URL) other than our brand websites ([It opens in a new windowwww.chrysler.com](http://www.chrysler.com/), [It opens in a new windowwww.jeep.com](http://www.jeep.com/), [It opens in a new windowwww.ramtrucks.com](http://www.ramtrucks.com/), [It opens in a new windowwww.dodge.com](http://www.dodge.com/), [It opens in a new windowwww.fiatusa.com](http://www.fiatusa.com/), [It opens in a new windowwww.alfaromeousa.com](http://www.alfaromeousa.com/), [It opens in a new windowwww.mopar.com](http://www.mopar.com/), [It opens in a new windowwww.drivesrt.com](http://www.drivesrt.com/), [It opens in a new windowwww.fcausllc.com](http://www.fcausllc.com/)) or other FCA US Websites or Applications, you should carefully review the privacy policies of those web sites or applications. You may set your browser to notify you when you receive a cookie or to refuse receiving it. You should be aware that this may interfere with or make you unable to use certain functionality on websites using cookies. Disabling or removing cookies may require you to manually log on each time you wish to visit that website.
+·  _Other data_ : We may collect personal information about visitors to our offices and premises, through CCTV and other physical security monitoring.
 
-**Do Not Track (DNT).** Because there is no common understanding about how websites should handle "do not track" signals (DNT), FCA US currently does not respond to these requests. Once a recognized standard is established, we will reconsider our approach and update our privacy policy accordingly.
+We may link this personal information with the other information we have collected about you. For more information, see the _Cookies and Other Tracking Information_ **** section below.
 
-**DAA Principles for Behavioral Advertising.**  FCA US participates in the industry Self-Regulatory Program for Online Behavioral Advertising managed by the Digital Advertising Alliance (DAA)([It opens in a new windowwww.aboutads.info](http://www.aboutads.info/)). As part of this service, FCA US online advertisements are sometimes delivered with icons that help consumers understand how data about them is being used and provide choice options for consumers that want more control and an ability to opt out of such behavioral (targeted) advertising. FCA US (and/or our partners) may use data collected on our websites to customize advertisements to you on other sites as you browse the web. Please click on the DAA icon or the icon in our targeted advertisements to opt out if you do not want your browsing behavior used for online behavioral advertising purposes.
+## 3\. HOW WE USE PERSONAL INFORMATION
 
-**Children.**  FCA US Websites or Applications are not directed at children. If you are under 18 or otherwise would be required to have parent or guardian consent to share information with FCA US, you should not send any information about yourself to us. If a person under 13 submits information through any part of a FCA US Website or Application, and we learn the person submitting the information is a child, we will attempt to delete this information as soon as possible. Because we do not knowingly collect any Personal Information from persons under 13, we do not use or disclose such information to third parties.
+We may use the personal information we collect for the following purposes:
 
-## WHEN FCA US MAY SHARE COLLECTED INFORMATION 
+·  _Providing our Services and related support_ : to provide and maintain our Services; to authenticate users; to perform technical operations, such as updating software; for recall purposes; to provide and communicate with you about our Websites, Services, vehicles and other products; to respond to your requests; to administer Events that you participate in; to fulfill your orders, and process your payments; to provide technical support; and for other customer service and support purposes.  
 
-FCA US may share your Personal Information within our enterprise to fulfill our obligations to you and operate our business consistent with this Privacy Statement and applicable data protection law. We may also share your Personal Information with third parties in certain situations, including:
+·  _Safety, recall and warranty_ : for safety, recall and warranty purposes, such as to send recall notices, process recall and warranty claims, and for other purposes related to vehicle safety.
 
-**FCA US Affiliates, Vendors and Suppliers.**  "Affiliates" include FCA US dealers, companies that are part of the FCA US LLC family of companies, FCA US partners or their respective subsidiaries, employees, and supplemental workers. Vendors and suppliers are companies who perform services for FCA US or its dealers. To the extent it is necessary for these groups to provide their products and services to us and provide products and services you have requested, these third parties may have access to or process your Personal Information. FCA US may sometimes permit our authorized service providers to have access to aggregate statistics about our customers, sales, traffic patterns, and related Website or Application information. These transfers of aggregate statistics do not involve Personal Information.
+·  _Analyzing and improving our Services_ : to better understand how users access and use our vehicles and other products and the Services, for other research and analytical purposes, such as to evaluate and improve our Services and business operations, develop new features, products, or services, and to otherwise improve our Services and user experiences.
 
-**Recruitment and Job Applications.**  Personal information such as that contained on a resume or curriculum vitae may be submitted in connection with a job application or inquiry. We may use this information throughout FCA US (worldwide) for the purpose of employment consideration or your inquiry. We may keep your information on file for future consideration.
+·  _Personalizing content and experiences_ : to tailor content, we send or display on the Websites in order to offer location customization and personalized help and instructions and to otherwise personalize your experiences; to reach you with more relevant ads and to measure ad campaigns.
 
-**Enabling Services.**  FCA US offers a variety of services and functions through its Websites and Applications. Personal Information that is collected through a Website or Application may be used and/or disclosed to third parties in order to enable us to provide functionality or services to you. For example, some FCA US Websites and Applications allow you to interface with third party websites or applications. To facilitate that connection, we may use your Personal Information and/or disclose your Personal Information to third parties. When we provide location based services enabled through a third party, we may share data with those services in order to provide the related location based service or functionality.
+·  _Advertising, marketing and promotional purposes_ : to contact you about our products or services or send you newsletters, offers or other information we think may interest you, and to administer promotions and contests. 
 
-**Public Areas.**  Any information disclosed in public areas of a FCA US Website or Application or third party website (for example, through Facebook, YouTube, Twitter or other sites) will become public information. We cannot control the use of information disclosed in public forums, such as social media platforms, blogs, forums, wikis, chat rooms, and networking functions of mobile-device applications. You should exercise caution when disclosing information in these public areas, especially your Location Data, and be careful how you disclose your Personal Information. Content posted in public areas of FCA US Websites or Applications, including advice and opinions, represent the views and is the responsibility of those who post the content. FCA US may not endorse, support, verify, or agree with the content posted. If you have any questions or comments about any content on a FCA US Website or Application, please send an email to: [dprivacy@fcagroup.com](mailto:dprivacy@fcagroup.com).
+·  _In support of our general business operations_ : relating to audits and assessments of our business operations, security controls, financial controls, compliance with legal obligation, and otherwise relating to the administration of our general business, accounting, record keeping and legal functions.
 
-**Mergers, Acquisitions, and Insolvency.**  If FCA US should ever file for bankruptcy or merge with another company, or if FCA US should decide to buy, sell, or reorganize some part or all of its business, FCA US may be required to disclose your Personal Information, including to prospective or actual purchasers in connection with one of these transactions.
+·  _Securing and protecting our assets and rights_ : to protect our business operations, secure our network and information technology, assets and services; to prevent and detect fraud, unauthorized activities, access and other misconduct; where we believe necessary to investigate, prevent or take action regarding suspected violations of our Terms and other agreements, as well as fraud, illegal activities and other situations involving potential threats to the rights or safety of any person or third party. 
 
-**As Required by Law and Other Extraordinary Disclosures.**  FCA US may be required to disclose your Personal Information if it: (i) believes it is reasonably necessary to comply with legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirements of any governmental authority, (ii) would potentially mitigate our liability in an actual or potential lawsuit or investigation, (iii) is otherwise necessary to protect our rights or property, or (iv) is necessary to protect the legal rights or property of others.
+_· Complying with legal obligations_ : to comply with the law or legal proceedings. For example, we may disclose information in response to subpoenas, court orders, and other lawful requests by regulators and law enforcement, including responding to national security or law enforcement disclosure requirements.
 
-## SECURITY
+## 4\. HOW WE DISCLOSE PERSONAL INFORMATION 
 
-Data transmissions over the Internet cannot be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your information, we make reasonable efforts to ensure security on our systems. FCA US uses secure server software (e.g. SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such firewalls and secure server software.
+We disclose personal information, in order to provide and improve our products and services, reach users with more relevant information and offers, for warranty and safety purposes, to make available third party offers you may be interested in, and as otherwise set out below.
 
-If FCA US learns of a security system's breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By providing Personal Information to us or using this Website or Application, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues. FCA US may post a notice on our Website or through an Application if a security breach occurs. If this happens, you can view the notice on a FCA US Website or Application. FCA US may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should send an email to [dprivacy@fcagroup.com](mailto:dprivacy@fcagroup.com).
+**_Affiliates, Vendors and Providers_**. We share personal information with our vendors and others who we work with to make certain services available, such as:
 
-## LINKS TO THIRD PARTY WEBSITES AND CO-BRANDED WEBSITES 
+·  _Affiliates_ : to our affiliate and subsidiary companies; however, if we do so, their use and disclosure of your personal information will be in accordance with this Notice.
 
-Our Websites and Applications may contain links to third party websites or may be co-branded. Please be aware that FCA US is not responsible for and cannot control the privacy practices of other websites or third parties. We encourage you to read the privacy policies for these other websites, as they may differ from ours. Our Websites and Applications may also be created and maintained by service providers or may contain links to co-branded websites that may display the FCA US logo and trademarks but which are maintained by third parties. Such websites may be identified by the fact that they do not display a FCA US (or FCA US brand) URL or they may have information identifying a third party as the host of the particular Website or Application. Please read the privacy policy on the co-branded website for the applicable privacy practices relating to personal information collected via that website, as it may differ from this Privacy Statement. This Privacy Statement applies solely to Personal Information collected by FCA US on its Websites or Applications where this Statement is posted.
+·  _Vendors:_ to our third-party vendors, service providers, contractors or agents who use such data in order to perform functions on our behalf.
 
-## ACCESSING YOUR PERSONAL INFORMATION, OPT-OUT, MAKING CHANGES, OR REQUESTING DELETION OF PERSONAL INFORMATION 
+·  _Third party providers_ : some of the Services we make available to you may be supported by third parties, who may collect and receive personal information about you as part of their provision of the particular feature, service or application, or in order to respond to a request you make via the Services. If you click an offer or otherwise choose to take advantage of a third-party offer in the Services, we may share your personal information with that third party to facilitate your interaction. The use of your personal information by these third parties is subject to their respective privacy policies.  
 
-You may restrict FCA US use of your personal data for direct marketing purposes. You may also request access to, correction of, or deletion of personal data for this purpose. For instructions on changing any of your privacy preferences, accessing your information, updating your information or for any privacy or data-protection-related question, please send an email to [dprivacy@fcagroup.com](mailto:%20dprivacy@fcagroup.com) for assistance.
+**_Other Individuals_** _._ If you are an owner and you permit another driver to register your vehicle for Connected Services or to otherwise access and use your account, then you acknowledge and agree that such individual(s) may have access to your account and associated personal information about your vehicle(s).  Further, if you post user content, this may be viewable by other users of the Services.
 
-## SPECIAL NOTICE TO INTERNATIONAL VISITORS AND CUSTOMERS 
+**_Dealers and Other Third Parties_** _.  _We may share personal information with dealers and other select third parties, for marketing, research and analytics purposes.  
 
-Because FCA US operates globally, we may transfer your Personal Information within our global operations to fulfill our obligations to you, but always subject to the limitations of applicable data protection law and this Privacy Statement. Privacy laws differ across the globe. To help visitors whose native language may not be English understand our privacy practices, we may provide special information that may be applicable to these visitors in different languages. FCA US entities outside the United States may have supplemental privacy policies that apply in those countries.
+·  _Dealers_ : we may share personal information, such as name, contact information and other data about your vehicles or interests, with our authorized dealers in your area so that they may contact you about your vehicle needs and purchase plans, or otherwise reach out to you for marketing purposes.
 
-If you are visiting from Canada, the European Union (EU) or other regions with laws governing data collection and use that may differ from United States (U.S.) law, including those whose privacy laws may be more stringent than U.S. law, please note that you are transferring your personal data to FCA US in the United States. By providing your personal data, you consent to that transfer.
+·  _Marketing partners_ : we may share your personal information with certain third parties so that they may send you offers and other information we think you may be interested in.
 
-## PRIVACY SHIELD 
+·  _Other third parties_ : we may share your personal information with other third parties that provide advertising, campaign measurement, online and mobile analytics, and related services.  These other third parties may receive or access Usage Data and other personal information in order to help us better reach individuals with relevant ads and measure our ad campaigns, or to better understand how individuals interact with our Websites and online services overtime and across devices.
 
-FCA US complies with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union and Switzerland to the United States, respectively. FCA US has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. The definitions, policies, and procedures described in this Privacy Statement apply to personal data transferred pursuant to Privacy Shield certification by FCA US. This section describes how FCA US complies with the specific Privacy Shield principles not covered in other sections of this policy. If there is any conflict between the policies covered in this Privacy Statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+**_Business and Operational Purposes_** _.   _In addition, we may disclose personal information in support of our business and operational purposes, including:
 
-**Data Collection and Use:**  Privacy Shield Personal Data includes Personal Information data that is collected from consumers, our workforce, vendors, suppliers and others in connection with the manufacture, distribution and sale of automobiles and related goods and services in the EU/ European Economic Area (EEA) and/or Switzerland. This data covered includes manually processed information: location, recruitment and job applications, website or application usage, product registration and support, and other human resource information.
+·  _Business transfers_ : as part of any merger, acquisition, financing, sale of company assets or interests in the respective company, or in the case of insolvency, bankruptcy, or receivership, including during negotiations related to such business transfers.
 
-In addition, Privacy Shield Human Resources Personal Data is collected from potential and hired employees and is used for internal purposes, including system access, payroll and benefits, training, security, reporting, and global corporate directories. Sensitive Information (e.g., information about medical condition, race or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or information specifying the sex life of the individual) may be collected for HR purposes in relation to individuals in the EU.
+·  _Protecting rights and interests_ : to protect or defend the safety, rights, property, or security of FCA US, third parties or the general public, including to protect the Services, to detect, prevent, or otherwise address fraud, security, technical issues, or other activity which we, in our sole discretion, consider to be, or to pose a risk of being, illegal, unethical, or legally actionable activity. We may also use personal information as evidence in litigation in which we are involved, and as necessary to enforce this Notice or our Terms and other applicable agreements with you.
 
-**Notice and Consent:**  To the extent that FCA US collects personal data directly from individuals in the EU and Switzerland, and as provided under the Privacy Shield, FCA US will provide those individuals with notice and a clear, conspicuous, and readily available mechanism for requesting that their personal data not be used for specific purposes or disclosed to certain third parties. FCA US will obtain affirmative express consent for the disclosure of any sensitive information to a third party or if used for a purpose other than those for which it was originally collected or subsequently authorized.
+·  _Legal compliance_ : to comply with applicable legal or regulatory obligations, including as part of a judicial proceeding, in response to a subpoena, warrant, court order or other legal process, or as part of an investigation of or request by law enforcement or a government official.
 
-To the extent that FCA US acts solely as a data processor when processing personal data on behalf of data controllers, FCA US acts only on the instructions of its controller and does not control or share such personal data without direction from the controller. In those instances, and to the extent provided for by applicable law, FCA US may rely on its data controller to satisfy the notice and consent principles under EU and EU Member State law, and will act on the instructions of those controllers.
+**_Aggregate and De-Identified Information_** _._ We may use and disclose aggregate, anonymous, or de-identified information about users for marketing, advertising, research, compliance, or other purposes.
 
-**Access:**  EU and Swiss Data Subjects have the right to access personal data about them that is covered by this Privacy Shield Policy. Personal data can be corrected, amended, or deleted by EU and Swiss Data Subjects, subject to certain limitations permitted by the Principles.
+## 5\. COOKIES AND OTHER TRACKING INFORMATION
 
-**Onward Transfer:**  : FCA US may share EU and Swiss personal information with the types of third parties indicated above and in a manner that is consistent with our Privacy Statement and the Privacy Shield Principles. FCA US will maintain written contracts with those third parties to whom it discloses Personal Data, and will require those third parties to:
+We and our third-party providers use cookies, clear GIFs/pixel tags, JavaScript, local storage, log files, and other mechanisms to automatically collect and record information about your browsing activities, and use of the Websites and other Services. We may combine this “usage data” with other personal information we collect about you. We use this usage data to understand how our Services are used, track bugs and errors, provide and improve our Services, verify account credentials, allow logins, track sessions, prevent fraud, and protect our Services, as well as for targeted marketing and advertising, to personalize content and for analytics purposes (see the _Your Rights and Choices_ section below for information about opting-in out of certain uses of your personal information)
 
-  * Provide the same level of protection as the Privacy Shield Principles to that Personal Data; and
-  * Contractually agree that data will only be processed for limited and specified purposes consistent with the consent given by the individual.
+**_Cookie_ s. **Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. Some cookies allow us to make it easier for you to navigate our Site, while others are used to enable a faster log-in process or to allow us to track your activities while using our Site. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Some of the Services may not work properly if you disable cookies.
 
+**_Clear GIFs, pixel tags and other technologies._**  Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies.  In contrast to cookies, which are stored on your computer’s hard drive, clear GIFs are embedded invisibly on web pages. We may use clear GIFs (also referred to as web beacons, web bugs or pixel tags), in connection with our Services to, among other things, track the activities users of our Services, help us manage content, and compile statistics about usage of our Services. We and our service providers also use clear GIFs in HTML emails to our customers, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded.
 
+**_Third-Party Analytics_**. We may use third-party analytics companies, for example [Google Analytics](http://www.google.com/intl/en/policies/privacy/) (see [privacy policy](https://support.google.com/analytics/answer/6004245?hl=en) and [opt-out](https://tools.google.com/dlpage/gaoptout)) to evaluate use of our Services. We use these tools to help us understand use of, and to improve, our Services, performance, ad campaigns, and user experiences. These entities may use cookies and other tracking technologies, such as web beacons or local storage objects (LSOs), to perform their services.
 
-FCA US also requires that the recipient will provide the same level of protection as the Privacy Shield Principles and that the recipient will notify FCA US if it makes a determination that it can no longer meet those obligations.
+**_Do Not Track (DNT)_.** Our Sites currently do not respond to “do not track” signals. You may, however, disable certain tracking mechanisms in the cookie preference settings of your web browser and opt out of certain third party ad cookies on our websites.
 
-To the extent provided by the Privacy Shield principles, FCA US remains responsible and liable under the Privacy Shield if the third party agents that it engages processes the personal information on its behalf in a manner inconsistent with the Privacy Shield principles, unless FCA US is able to prove that is not responsible for the event giving rise to the damage.
+## 6\. INTREST BASED ADS
 
-**Recourse, Enforcement and Liability:**  In compliance with the Privacy Shield Principles, FCA US commits to investigate and will attempt to resolve complaints about your privacy and the collection or use of your personal information within 45 days. European Union and Swiss citizens with inquiries or complaints regarding this Privacy Statement should first contact our Data Protection Office by sending an email to[dprivacy@fcagroup.com](mailto:dprivacy@fcagroup.com).
+We work with third party ad networks, channel partners, measurement services and others (“third party ad companies”) to display advertising on our Services, and to manage our advertising on third party sites, mobile apps and online services. We and these third party ad companies may use cookies, pixels tags, and other tools to collect activity information on our Services (as well as on third party sites and services), as well as IP address, device ID, cookie and advertising IDs, and other identifiers, general location information, and, with your consent, your device’s geolocation information; we and these third party ad companies use this information to provide you more relevant ads and content and to evaluate the success of such ads and content. _ _
 
-FCA US commits to cooperate with the panel established by the European Union Data Protection Authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC). FCA will comply with the advice given by such authorities with regard to data transferred from the EU and Switzerland. Pursuant to the Privacy Shield Principles, if you do not receive timely acknowledgement of your complaint or if your complaint is not satisfactorily addressed, please contact the DPA at <http://ec.europa.eu/justice/data-protection/bodies/index_en.htm>.
+**_Ad Choices.  _**FCA US adheres to Digital Advertising Alliance self-regulatory principles for online behavioral advertising. For more information or to opt out of third party advertising cookies and tags on our Sites, go to [www.privacyrights.info](http://www.privacyrights.info/). You may also obtain more information about targeted or “interest-based advertising” by visiting [www.aboutads.info/choices](http://www.aboutads.info/choices) (Digital Advertising Alliance(US)) or [www.youradchoices.ca/choices/](http://www.youradchoices.ca/choices/) (Digital Advertising Alliance of Canada).
 
-If your dispute remains fully or partially unresolved after taking the above actions, under certain and limited conditions, you may invoke last resort binding arbitration by a "Privacy Shield Panel" composed of arbitrators designated by the U.S. Department of Commerce and the European Commission. An individual's decision to invoke this binding arbitration option is entirely voluntary.
+Opting out of participating ad networks does not opt you out of being served advertising. You may continue to receive generic or “contextual” ads on our Services. You may also continue to receive targeted ads on other websites, from companies that do not participate in the above programs.
 
-It should be noted that FCA US is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+**_Custom Audiences and Matching._**  We may share certain hashed customer list information (such as your email address) with third parties—such as Facebook and Google—so that we can better target ads and content to our Users, and others with similar interests, within their services. These third parties use the personal information we provide to help us target ads and to enforce their terms, but we do not permit them to use or share the data we submit with other third-party advertisers. You may opt out of this as set forth in our _Your Rights and Choices_ section below.  
 
-## CHANGES TO THIS PRIVACY STATEMENT BY FCA US 
+## 7\. SECURITY 
 
-In the future, we may change our Privacy Statement and we will post the new Privacy Statement on our Websites or Applications. Your continued use of this Website or Application following a change in the Privacy Statement represents consent to the new Privacy Statement to the fullest extent permitted by law. We encourage you to periodically review this Privacy Statement.
+We have implemented a variety of safeguards designed to protect personal information from unauthorized access, use, or disclosure. However, no method of electronic transmission or storage, is 100% secure. Therefore, we cannot guarantee its absolute security. You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords, or for any activity on your account via unauthorized password activity.
 
-## CONTACTING FCA US 
+## 8\. THIRD PARTY AND CO-BRANDED SITES AND OTHER SERVICES 
 
-If you have any questions, comments, or concerns about this Privacy Statement, please send an email to [dprivacy@fcagroup.com](mailto:dprivacy@fcagroup.com) or write to us at:
+Our Services may contain links to third party websites, mobile applications or other services ,operated by a third party and subject to a different privacy policy. You should review the privacy policy on any website, mobile application or online service. Please be aware that FCA US is not responsible for and cannot control the privacy practices of other websites or third parties. Our Services may also contain links to co-branded websites that may display the FCA US logo and trademarks but are maintained by third parties, and do not display this Policy. Please read the privacy policies provided on these co-branded website, which govern the privacy practices relating to personal information collected via that website.
 
-FCA US LLC  
-Attn: Data Protection Office  
-CIMS 485-14-07  
-1000 Chrysler Drive  
-Auburn Hills, MI 48326
+## 9\. YOUR RIGHTS AND CHOICES 
+
+You may access and update certain of your personal information by accessing and adjusting your account settings. Please note that we may maintain copies of information that you have updated, modified or deleted, as permitted, in our business records and in the normal course of our business operations, as permitted or required by applicable law.     
+
+**_Marketing Communications._** You may opt out of receiving marketing communications from us by emailing us at _[dprivacy@fcagroup.com](mailto:dprivacy@fcagroup.com)_. You may also opt out of email marketing by using the unsubscribe link in any such email we send to you. Further,if you have opted into and no longer wish to receive text messages from us you may opt out by texting  **STOP  **to cancel future text message (reply **HELP** for more information or help).
+
+Please note that marketing opt-out requests will only remove you from our direct marketing list and the list of any Service Provider performing services on our behalf. We are not responsible for the use any other party may makes of your personal information transferred prior to your opt-out and in accordance with this Policy. In such case, you will need to contact the relevant entity to have your personal information removed from the entity’s database.
+
+**_California Residents.  _California residents have certain rights, under California privacy laws, regarding their personal information, which are set forth in the _Additional Information for California Residents_ section below.**
+
+## 10\. SPECIAL NOTICE TO INTERNATIONAL USERS AND CUSTOMERS 
+
+As a globally operating company, FCA US may transfer your personal information to the United States and to other jurisdictions where we or our affiliates, suppliers or service providers have operations. As such, your personal information may accessed, stored, processed, or subject to law enforcement requests in these jurisdictions, which may not have equivalent privacy laws as in home jurisdiction.
+
+## 11\. PRIVACY SHIELD 
+
+FCA US complies with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union (EU)/ European Economic Area (EEA) and Switzerland to the United States, respectively. To learn more about the Privacy Shield program, and to view our certification, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).
+
+**_In Scope Data Collection and Use_.** Our Privacy Shield Certification applies to personal information we collect from the EU/ EEA and/or Switzerland about consumers, workforce, vendors, suppliers and others in connection with the manufacture, distribution and sale of automobiles and related goods and services in the, which is subject to the EU General Data Protection Regulations (“ **GDPR** ”) or the Swiss Federal Data Protection Act (respectively the “ **relevant personal information** ” for purposes of this _Privacy Shield_ section).
+
+Relevant personal information may include location, recruitment and job applications, website or application usage, product registration and support, and other human resources information, as well as certain sensitive information (e.g., information about medical condition, race or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or information specifying the sex life of the individual). We may use employee personal information for internal purposes, including system access, payroll and benefits, training, security, reporting, and global corporate directories.
+
+**_Privacy Policy and Consent_.** To the extent that FCA US collects relevant personal information directly from individuals in the EU/EEA and Switzerland, and as provided under the Privacy Shield, FCA US will provide those individuals with notice and a clear, conspicuous, and readily available mechanism for requesting that their personal data not be used for specific purposes or disclosed to certain third parties. FCA US will obtain affirmative express consent for the disclosure of any sensitive information to a third party or if used for a purpose other than those for which it was originally collected or subsequently authorized.
+
+To the extent that FCA US acts solely as a data processor when processing personal data on behalf of data controllers, FCA US acts only on the instructions of its controller and does not control or share such personal data without direction from the controller. In those instances, and to the extent provided for by applicable law, FCA US may rely on the data controller to satisfy the notice and consent principles under applicable EEA or Swiss law, and will act on the instructions of those controllers.
+
+**_Access._**  EEA and Swiss Data Subjects have the right to access relevant personal information about them that is covered by this _Privacy Shield_ section. Relevant personal information can be corrected, amended, or deleted such relevant personal information, subject to certain limitations permitted by the Principles.
+
+**_Onward Transfer.  _**Where FCA US shares relevant personal information with we will do so in a manner consistent with the Privacy Shield Principles.  FCA US will maintain written contracts with those third parties to whom it discloses Personal Data, and will require those third parties to:
+
+· Provide the same level of protection as the Privacy Shield Principles to that relevant personal information; and
+
+· Contractually agree that relevant personal information will only be processed for limited and specified purposes consistent with the consent given by the individual.
+
+FCA US also requires that the recipient will provide the same level of protection as the Privacy Shield Principles and that the recipient will notify FCA US if it makes a determination that it can no longer meet those obligations. To the extent provided by the Privacy Shield principles, FCA US remains responsible and liable under the Privacy Shield if the third party agents that it engages processes the personal information on its behalf in a manner inconsistent with the Privacy Shield principles, unless FCA US is able to prove that is not responsible for the event giving rise to the damage.
+
+**_Recourse, Enforcement and Liability.  _**In compliance with the Privacy Shield Principles, FCA US commits to investigate and will attempt to resolve complaints about your privacy and the collection or use of your personal information within 45 days. EEA and Swiss citizens with inquiries or complaints regarding this Privacy Policy should first contact our Privacy Office by sending an email to _[dprivacy@fcagroup.com](mailto:dprivacy@fcagroup.com)_.
+
+FCA US commits to cooperate with the panel established by the European Union Data Protection Authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC). FCA will comply with the advice given by such authorities with regard to data transferred from the EU and Switzerland.  Pursuant to the Privacy Shield Principles, if you do not receive timely acknowledgement of your complaint or if your complaint is not satisfactorily addressed, please contact the DPA at  _<http://ec.europa.eu/justice/data-protection/bodies/index_en.htm>_.
+
+If your dispute remains fully or partially unresolved after taking the above actions, under certain and limited conditions, you may invoke last resort binding arbitration by a “Privacy Shield Panel” composed of arbitrators designated by the U.S. Department of Commerce and the European Commission. An individual's decision to invoke this binding arbitration option is entirely voluntary. FCA US is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+
+## 12\. CHILDREN 
+
+FCA US Websites or Applications are not targeted and directed at children under age 16 and we do not knowingly collect any personal information from a child under 16. If you believe we have inadvertently collected personal information about a child, please contact us and we will take steps to delete this information.
+
+## 13\. CHANGES TO THIS POLICY 
+
+We encourage you to periodically review this Policy, as we may change our Policy from time to time, in which case we will post the updated Policy on our Websites or within the Apps. If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change, such as by changing the effective date of the Policy or notifying you at your email address of record. Your continued use of the Services following a change in the Policy represents consent to the updated Policy to the fullest extent permitted by law.
+
+## 14\. CONTACT US 
+
+If you have any questions about this Policy or our privacy practices, please contact us via email at  _[dprivacy@fcagroup.com](mailto:dprivacy@fcagroup.com)_.
+
+## 15\. ADDITIONAL INFORMATION FOR CALIFORNIA RESIDENTS 
+
+In this section, we provide information, as required under California privacy laws, including the California Consumer Privacy Act (“ **CCPA** ”), which requires that we provide California residents certain specific information about how handle their personal information, whether collected online or offline. This section does not address or apply to our handling of publicly available information made lawfully available by state or federal governments or other personal information that is subject to an exemption under Section 1798.145(c) – (f) of the CCPA.  
+
+**_Categories of Personal Information We Collect and Disclose_. **Our collection, use and disclosure of personal information about a California resident will vary depending upon the circumstances and nature of our interactions or relationship with such resident. The table below sets out generally the categories of personal information (as defined by the CCPA) about California residents that we collect, sell, and disclose to others for a business purpose. We collect these categories of personal information from the sources described in the _Information We Collect_ section above, and for the purposes described in the _How We Use Personal Information_ section above.
+
+**Categories of Personal Information** | **Collected?** | **Disclosed for business purpose?**  
+---|---|---  
+  
+_Name, contact information and other identifiers_ : identifiers such as a real name, alias, address, unique personal identifier, online identifier, VIN, IP address, email address, account name, social security number, driver’s license number, passport number, or other similar identifiers.  
+
+| 
+
+_Yes_
+
+| _Yes_  
+  
+_Customer records_ : paper and electronic customer records containing personal information, such as name, signature, physical characteristics or description, address, telephone number, education, current employment, employment history, social security number, passport number, driver’s license or state identification card number, insurance policy number, bank account number, credit card number, debit card number, or any other financial or payment information, medical information, or health insurance information.
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_Protected classifications_ : characteristics of protected classifications under California or federal law such as race, color, sex, age, religion, national origin, disability, citizenship status, and genetic information.
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_Commercial information_ : including records of personal property, products or services purchased, obtained, or considered, or other purchasing or use histories or tendencies.
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_Internet or other electronic network activity information_ : including, but not limited to, browsing history, clickstream data, search history, and information regarding a resident’s interaction with an internet website, application, or advertisement, including access logs and other usage data related to your use of any company websites, applications or other online services, as well as the Connected Services. ****
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_Geolocation data_ : precise location information about a particular individual or device.
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_Audio, video and other electronic data_ : audio, electronic, visual, thermal, olfactory, or similar information such as, CCTV footage, photographs, and call recordings.
+
+| _Yes_ | 
+
+_Yes_  
+  
+_Employment history_ : professional or employment-related information.
+
+| 
+
+_Yes_
+
+| _Yes_  
+  
+_Education information_ : education information that is not publicly available personally identifiable information as defined in the federal Family Educational Rights and Privacy Act (20 U.S.C. section 1232g, 34 C.F.R. Part 99).
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_Inferences and profiles_ : inferences drawn from personal information to create a profile reflecting a resident’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes.
+
+| 
+
+_Yes_
+
+| _Yes_  
+  
+**_Categories of Personal Information Sold.  _**The CCPA defines a “sale” as disclosing or making available to a third party personal information in exchange for monetary or other valuable consideration. We disclose or make available personal information to dealers for marketing purposes, as well as other third parties, in order to receive certain services or benefits from them (such as when we allow third party tags to collect information such as browsing history on our Sites) to improve and measure our ad campaigns, including:
+
+  * Name, contact information and other identifiers
+  * Internet or other electronic network activity information
+  * Geolocation data
+  * Customer records
+  * Commercial information
+  * Inferences and profiles
+
+
+
+**_California Residents’ Rights_**. **** California law grants California residents certain rights and imposes restrictions on particular business practices as set forth below.
+
+·  _Notice before collection_ : we are required to notify California residents, at or before the point of collection of their personal information, the categories of personal information collected and the purposes for which such information is used. You can find our notice at the top of this Privacy Policy.
+
+·  _Do-not-sell_ : California residents have the right to opt-out of our sale of their personal information.  Opt-out rights can be exercised by submitting a request [here](https://privacyportal-cdn.onetrust.com/dsarwebform/abdee64f-f547-46bd-97a7-f56d58479fce/1c3a169b-1230-4a2e-b664-8785e3763e2c.html). We do not sell personal information about residents who we know are younger than 16 years old without opt-in consent.
+
+·  _Request to delete_ : California residents have the right to request deletion of their personal information that we have collected about them and to have such personal information deleted, except where an exemption applies.
+
+·  _Request to know_ : California residents have the right to request and, subject to certain exemptions, receive a copy of the specific pieces of personal information that we have collected about them in the prior 12 months and to have this delivered, free of charge, either (a) by mail or (b) electronically in a portable and, to the extent technically feasible, readily useable format that allows the individual to transmit this information to another entity without hindrance. California residents also have the right to request that we provide them certain information about how we have handled their personal information in the prior 12 months, including the:
+
+o categories of personal information collected;
+
+o ategories of sources of personal information;
+
+o business and/or commercial purposes for collecting and selling their personal information;
+
+o categories of third parties/with whom we have disclosed or shared their personal information;
+
+o categories of personal information that we have disclosed or shared with a third party for a business purpose; and
+
+o categories of third parties to whom the residents’ personal information has been sold and the specific categories of personal information sold to each category of third party.
+
+California residents may make a request to know up to twice every twelve (12) months.
+
+**_Submitting Verifiable Requests._** __ To submit a request to know, or request to delete:
+
+· Submit a request online [here](https://privacyportal-cdn.onetrust.com/dsarwebform/abdee64f-f547-46bd-97a7-f56d58479fce/1c3a169b-1230-4a2e-b664-8785e3763e2c.html).
+
+· Contact as toll-free at 1-866-221-6871
+
+We will respond to verifiable requests received from California residents as required by law.    
+
+**_Right to Non-Discrimination_** _._ The CCPA prohibits discrimination against California residents for exercising their rights under the CCPA. A business may offer financial incentives for the collection, sale or deletion of California residents’ personal information, provided it is not unjust, unreasonable, coercive or usurious, and is made available in compliance with applicable transparency, informed consent, and opt-out requirements. California residents have the right to be notified of any financial incentives offers and their material terms, the right to opt-out of such incentives at any time, and may not be included in such incentives without their prior informed opt-in consent.  
+
+**_You Rights Under California’s Shine-the-Light Law._ **Under California’s “Shine the Light” law (Cal. Civ. Code § 1798.83), California residents who provide us their personal information are entitled to request and obtain from us, free of charge, information about the personal information (if any) we have shared with third parties for their own direct marketing use; such requests may be made once per calendar year for information about any relevant third party sharing in the prior calendar year (so, requests submitted in 2020 would be applicable to relevant disclosures (if any) in 2019). If you are a California resident and would like to make such a request, please submit your request in writing by emailing us at _[dprivacy@fcagroup.com](mailto:dprivacy@fcagroup.com)_ , using the subject line “ **CA Shine the Light Request.** ”  In your request, please attest to the fact that you are a California resident and provide a current California address.  We will reply to valid requests by sending a response to the email address from which you submitted your request.  Please note that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing and the relevant details required by the Shine the Light law will be included in our response.
+
+**For more information about our privacy practices, you may contact us as set forth in the _Contact Us_ section above.**
