@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghanaweb.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330082350id_/https%3A//www.ghanaweb.com/GhanaHomePage/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanaweb.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228074526id_/https%3A//www.ghanaweb.com/GhanaHomePage/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy and cookie statement
 
@@ -14,7 +14,7 @@ We will only collect, process and use the personal data you have made available 
 
 For services such as newsletters or contact forms, we need information such as name, address or e mail address. This is different on a case by case basis. 
 
-Technical information required for the presentation of www.ghanaweb.com on your computer is stored anonymously by us and used for statistical analyzes and to make our website as attractive as possible. Moreover, we use this information anonymously, so not related to your person, so that we can continually improve. 
+Technical information required for the presentation of ghanaweb.com on your computer is stored anonymously by us and used for statistical analyzes and to make our website as attractive as possible. Moreover, we use this information anonymously, so not related to your person, so that we can continually improve. 
 
 ## 3\. Cookies
 
@@ -23,6 +23,8 @@ For the best possible effect our website uses cookies, scripts, tags and beacons
 Cookies are stored on your computer and can be deleted at any time. After deleting cookies, you may have to reset your preferences. Cookies are completely secure, and do not store e mail addresses or telephone numbers. 
 
 At the first visit of www.ghanaweb.com you can indicate via the cookie setting whether you accept cookies or if you want to change the settings for cookies. 
+
+_Click here to modify your Cookie Policy Setting._
 
 ## 4\. Explanation about the cookies used on this website
 
