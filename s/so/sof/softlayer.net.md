@@ -1,110 +1,107 @@
-> *The following text is extracted and transformed from the softlayer.net privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505054506id_/http%3A//www.softlayer.com/privacy-agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softlayer.net privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228213539id_/https%3A//www.ibm.com/privacy/us/en/%3Flnk%3Dflg-priv-usen) for the most accurate reproduction.*
 
-# Privacy Agreement | User Privacy is Paramount | SoftLayer
+# IBM Privacy Statement - United States
 
-* * *
+##  This Privacy Statement is effective as of 31 December 2019. 
 
-SoftLayer utilizes great care in keeping the information of the users of the Site (including customers) (“Users” or “You”) private and secure. SoftLayer adheres to the U.S.-Swiss Safe Harbor Framework as well as the Safe Harbor Principles as agreed to and set forth by the United States Department of Commerce and the European Union (“EU”), <http://www.export.gov/safeharbor/>. This Privacy Agreement demonstrates our firm commitment to maintaining the privacy of all data collected, and describes the information we collect; how we use, disclose, and share that information; and how we protect the information. Capitalized terms not defined in this PA are defined in the Terms of Service. This PA applies only to the Services and does not apply to Third Party Services, which are governed by their own privacy policies. For customers located in Germany, You and SoftLayer further agree to the German Data Processing Addendum, which is located at [http://www.softlayer.com/legal/.](https://web.archive.org/legal/)
+The previous version of this Statement is available [here (PDF, 173 KB)](http://www.ibm.com/privacy/download/us-en-privacy-201805.pdf). 
 
-#### Types of Data Collected
+At IBM we recognize the importance of protecting your personal information and are committed to processing it responsibly and in compliance with applicable data protection laws in all countries in which IBM operates. 
 
-SoftLayer collects data related to our users through the following methods: 
+This Privacy Statement describes IBM's general privacy practices that apply to personal information we collect, use and share about consumers and other individuals within our clients, business partners, supplier and other organizations with which IBM has or contemplates a business relationship. 
 
-  * Automated means such as communication protocols and cookies 
-  * Online registration and online signup forms 
-  * Sales inquiries and transactions 
-  * Online Customer communications
-  * Offline communications and interactions
-  * Third party sources of information 
+This Privacy Statement is supplemented by the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/), which provides more information in the online context, including recruitment. We may provide additional or more specific information on the collection or use of personal information on websites or related to a specific product or service. 
 
+##  Why and how we collect and use your personal information 
 
+We may collect your personal information as an individual for various purposes, such as the following: 
 
-The data collected may include information about the User from forms, registrations and transactions (such as name, title, address, company, phone number and e-mail address), financial/transaction information (such as credit card, card verification value (cvv), and payment information), information about use of the Site (such as electronic communications protocols, web pages visited, and cookies) and User preferences and privileges. To the extent that this information is transferred to a country outside the European Economic Area or another country deemed “adequate” by the European Commission, SoftLayer will comply with both any data protection laws of the country to which the information is transferred, as well as the data protection provisions of the European Commission. “PII” when used in this Privacy Agreement refers to the Customer account Information provided by You to SoftLayer to maintain the relationship described in the MSA. PII does not include Customer Content in any form.
+  * **Access and use of websites or other online service**   
+When entering one of our websites, or using an online service, we will record information necessary to provide you with access, for the operation of the website and for us to comply with security and legal requirements in relation to operating our site, such as passwords, IP address and browser settings. We also collect information about your activities during your visit in order to personalize your website experience, such as recording your preferences and settings, and to collect statistics to help us improve and further develop our websites, products and services. 
+  * **Responding to your request for information, order, or support**   
+When you contact us (online or offline) in connection with a request for information, to order a product or service, to provide you with support, or to participate in a forum or other social computing tool, we collect information necessary to fulfill your request, to grant you access to the product or service, to provide you with support and to be able to contact you. For instance, we collect your name and contact information, details about your request and your agreement with us and the fulfillment, delivery and invoicing of your order and we may include client satisfaction survey information. We retain such information for administrative purposes, defending our rights, and in connection with our relationship with you. 
 
-#### Electronic Communications Protocols and Cookies
+When you provide your name and contact information to register in connection with such a request, the registration may serve to identify you when you visit our websites. For ordering of most services and products we require you to have registered an IBMid. Registration may also allow you to customize and control your privacy settings. 
 
-SoftLayer may receive data from You as part of the communication connection itself through the standard electronic greeting between Your computer and our servers. This information often consists of network routing (where You came from), equipment information (browser type), Internet protocol address, date and time. At this time our server will also query Your computer to see if there are "cookies" previously set by softlayer.com to facilitate log-in or other site navigation procedures. A "cookie" is a small piece of information sent by a web server to store in a web browser so it can later be read back from that browser. Some parts of the Site use cookies (including signup forms) to collect information about visitors' use of the Site and to facilitate return visits. The information collected from cookies is tracked to enhance security and/or to improve the functionality of the Site by avoiding duplicate data entry, facilitating navigation, and increasing the relevance of content. 
-
-Cookies on the Site may collect the following information: a unique identifier, User preferences and profile information used to personalize the content that is shown, and User information to access SoftLayer's user forums. Some cookies used by softlayer.com may remain on the user's computer after the user leaves the Site, with the majority set to expire within 30 to 365 days, although some cookies may be of longer duration. Cookies may also be of benefit to You by creating a more streamlined login process, keeping track of shopping cart additions or preserving order information between sessions. In the future, as we enable further customization of the Site, cookies will help in ensuring that information provided to You will be the most relevant to Your needs. Browsers provide You with information and control over cookies. You can set Your web browser to alert You when a cookie is being used. You can also get information on the duration of the cookie and what server Your data is being returned to. You then have the opportunity to accept or reject the cookie. Additionally, You can set Your browser to refuse all cookies or accept only cookies returned to the originating servers. You can generally disable the cookie feature on Your browser without affecting Your ability to use the Site, except in some cases where cookies are used as an essential security feature or to provide functionality necessary for transaction completion.
-
-Users visiting the site through an IP address that is associated with (a member state of) the European Economic Area ("EEA Users") will by default only receive cookies that expire once they leave the website. This may result in reduced website functionality. EEA Users may opt-in to the receipt of cookies of a longer duration by giving their consent in a pop-up window or bar shown at the homepage of the website. Following their consent, EEA Users will receive all cookies discussed above and full website functionality will be available. EEA Users may choose to revoke their consent at any time by deleting all cookies associated with SoftLayer through their browser settings (as discussed above). 
-
-We may also engage third parties to track and analyze non-personally and personally identifiable website data and to serve advertisements. To do so, we may permit third parties to place cookies on devices of Users of our Site, where permitted by law, and subject to Your right to opt out through the Site. We use the data collected to help us administer and improve the quality of the Site and to analyze Site usage. Such third parties may combine the information that we provide about You with other information that they have collected. These third parties are required to use Your information in accordance with this PA. We will record all such disclosures, and will use reasonable efforts to ensure that such third parties do not use Your PII for any purpose that is not expressly provided for herein. 
-
-You are solely responsible for any processing or international transfer of all PII in the Customer Content, including in any Third Party Services, and You agree to comply with all applicable rules, laws and regulations in any and all applicable regions or countries related to the transfer of such PII. To the extent PII is subject to rules, laws, regulations or the like implementing EU Data Protection Directive 95/46/EC, SoftLayer will be considered a "data processor" and will, as such, act on Your instructions and implement security measures in accordance with the MSA. For customers located outside of the territory of the United States, SoftLayer Dutch Holdings B.V. may utilize SoftLayer Technologies, Inc. to further process PII, and You agree that SoftLayer Technologies, Inc., which is based in the U.S., may act as a sub-processor. 
-
-#### The Data We Collect and How We Use It
-
-You acknowledge and agree that SoftLayer may collect information from You for the following purposes:
-
-  * To engage in transactions for the Services. Name, address, email, purchase details, and credit card/payment information (last 4 digits and expiration date only) may be collected and stored as part of the transaction history. The majority of the data collected under this category is contact information. SoftLayer may need to share some of this data (address, payment) with credit card clearing houses, banking institutions, and other similarly situated agents, who may require the information in order to complete the transaction on behalf of SoftLayer. SoftLayer will not transfer information to any of its agents unless it first either ascertains that the agent subscribes to the Safe Harbor Principles or is subject to the EU Directive on Data Protection or another adequacy finding or enters into a written agreement with such agent requiring that the agent provide at least the same level of privacy protection as is required by the relevant Safe Harbor Principles. 
-  * To provide future service and support. Information collected for this purpose is both contact data and information related to products and service/support requested. This information is also used to provide notices regarding updates to the Services. 
-  * Data may be collected to help create and select Site content and to optimize navigation so that it is relevant and user friendly. This includes data collected as a result of site navigation, as well as data provided in forms. 
-  * To respond to user inquiries and requests for information. This data includes registrations for online newsletters, opt-in mailing lists and specific requests for further information. 
-  * To respond to law enforcement organizations, government officials and third parties when compelled by subpoena, court order, or applicable law, or to report or prevent suspected fraudulent or illegal activity in the use of the Services. SoftLayer will notify You of the information request or submission if allowed. 
-  * To our contractors who provide services or perform functions on our behalf. 
-  * To our Affiliates, in which case their use and disclosure of Your PII will be subject to this PA. 
-  * To transfer to another entity as a result of SoftLayer being subject to acquisition, merger or bankruptcy. 
-  * To provide various SoftLayer communities, such as resellers, with relevant product alerts and updates. These updates are related to product releases, prices, terms, special offers and associated campaigns. This data is sent when the program member signs up for the relevant program or online account. 
-  * To better tailor marketing to User needs. We may use information from User purchases and User-specified requirements to provide You with timely and pertinent notices of SoftLayer product releases and service developments that address Your needs and specified requirements and/or which are similar to products and services previously purchased by You from SoftLayer. 
-  * To better respond to requests for service or quotes for product and equipment purchases. SoftLayer will pass contact information to the appropriate SoftLayer sales person, or reseller for follow-up related to SoftLayer products or services. 
-  * From referral "tell a friend" function. If a User elects to use our referral service for informing a friend about our Site, we ask them for the friend's name and email address. SoftLayer will automatically send the friend a one-time email inviting them to visit the Site and send a copy of said e-mail to the User. The e-mail(s) sent will clearly identify the sender of the email(s). SoftLayer uses this data for the sole purpose of sending this one-time email. Such email sent to a friend at User’s request will not be stored for additional processing. 
-  * As a result of Your participation in interactive discussions and public forums. There are parts of the Site that permit You to participate in interactive discussions. Some of these are moderated; all are subject to access for technical reasons. SoftLayer does not control the content that Users post and some may serve as public discussion forums. As in any interactive forum open to many Users, You should carefully consider whether You wish to submit data and should tailor any other content submitted accordingly. 
-  * SoftLayer Affiliates located in the EEA provide SoftLayer Technologies, Inc. with personal information about their prospective customers, prospective vendors, prospective employees; and customers, participants in its channel partner program, vendors and employees; SoftLayer uses this information to assist its Affiliates in providing services to those customers, and to assist its Affiliates with vendor relations and contract management, human resources management, and their internal financial and other operations. You understand that this personal data will be used by SoftLayer Technologies, Inc. and its Affiliates for the above purposes and that this personal data may be transferred outside of the EEA to jurisdictions which may not provide the same level of legal protection as in the EEA. You hereby authorize such transfers and confirms that it has all necessary consents in place to give such authorization. 
+  * **Your use of IBM Cloud services**   
+We collect information about your use of IBM Cloud services to enable product features to operate, improve your user experience, tailor our interactions with you, inform our clients on the overall use of the services, provide support and improve and develop our products and services. For details regarding the technologies we employ, the personal information we collect, as well as how to control or block tracking or to delete cookies, please refer to the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/). 
+  * **Contacting employees of our clients, prospects, partners and suppliers**   
+In our relationship with clients or prospects, partners and suppliers, they also provide us with business contact information (such as name, business contact details, position or title of their employees, contractors, advisors and authorized users) for purposes such as contract management, fulfillment, delivery of products and services, provision of support, invoicing and management of the services or the relationship. 
+  * **Visitor information**   
+We register individuals visiting our sites and locations (name, identification and business contact information) and use camera supervision for reasons of security and safety of persons and belongings, as well as for regulatory purposes. 
+  * **Marketing**   
+Most information we collect about you comes from our direct interactions with you. When you register for an event we may collect information (online or offline) in relation to the event organization, and during an event, such as participation in sessions and survey results. We combine the personal information we collect to develop aggregate analysis and business intelligence for conducting our business and for marketing purposes. You can choose to receive information by email, telephone or postal mail about our products and services, or sign-up for subscriptions. When visiting our websites or using our services we may provide you with personalized information. You can always opt-out from receiving personalized communication by sending an e-mail to [NETSUPP@us.ibm.com](mailto:NETSUPP@us.ibm.com). More information can be found in the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/). 
 
 
 
-#### Customer Content
+Where we reference that we use your personal information in connection with a request, order, transaction or agreement (or preparing for the same), or to provide you with services that you requested (such as a website), we do this because it is necessary for the performance of an agreement with you. 
 
-On occasion, employees of SoftLayer Technologies, Inc. that are located in the U.S. may have temporary access to Customer Content in connection with providing maintenance or support services to You. This access will only be accomplished by way of Your explicit permission and instructions (as the Controller of the Customer Content) and only for so long as the employee is providing services to You. As a Processor, SoftLayer will not access the Customer Content for any purpose beyond providing You with support as described above, and will not disclose it to any person or entity. You agree that employees of SoftLayer Technologies, Inc. may access Customer Content in the manner described above.
+Where we reference that we use your personal information in relation to marketing, improvement or development of our products or services, for reasons of safety and security, or regulatory requirements other than in connection with your agreement or request, we do this on the basis of our or a third party’s legitimate interests, or with your consent. When we collect and use your personal information subject to the EU Privacy Legislation this may have consequences for Your Rights. 
 
-#### Customer Portal, Customer Customization, Preferences and Opt-Out
+## Sharing of Personal Information
 
-New Customers are automatically registered for access at [https://control.softlayer.com.](https://control.softlayer.com/) The Customer Portal allows You the ability to create users, add/delete users, add/delete user privileges and opt in (or out) of Services and mailing lists. The Customer Portal provides You with control over preferences for electronic information delivery. The Customer Portal is operated and maintained in the United States and Your Account Information is stored on the Customer Portal in the United States, and You agree that SoftLayer may do so.
+As a global organization offering a wide range of products and services, with business processes, management structures and technical systems that cross borders, IBM has implemented global policies, along with standards and procedures, for consistent protection of personal information. As a global company, we may share information about you with our subsidiaries world-wide and transfer it to countries in the world where we do business in accordance with this Privacy Statement. 
 
-SoftLayer has also provided Your master user the ability to manage Your Account Information. To change this information, You must be a current customer, log in with a user ID and password, and follow the prompts to "update my profile" on the Customer Portal. We continue to expand the profile of Services and information that You may access and update. 
+Between IBM controlled subsidiaries we only grant access to personal information on a need-to-know basis, necessary for the purposes for which such access is granted. In some cases, IBM uses suppliers located in various countries to collect, use, analyze, and otherwise process personal information on its behalf. 
 
-Please note that some email communications are not subject to general opt-out. These include communications related to downloads; communications about sales transactions; information about software updates, patches and fixes; disclosures to comply with legal requirements; and network upgrades or other related maintenance for Service. 
+Where appropriate, IBM may also share your personal information with selected partners to help us provide you, or the company you work for, products or services, or to fulfill your requests, or with your consent. When selecting our suppliers and partners, we take into account their data handling processes. 
 
-If an individual's PII is to be (a) disclosed to a third party who is not an agent of SoftLayer, or (b) used for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by the individual, then the individual will be notified prior to such disclosure and may opt out of having the PII disclosed by responding to the email and/or author of the notification, where such information shall be clearly set forth. Any such disclosures will be documented, recorded, and retained as required by retention policies or applicable laws. 
+If IBM decides to sell, buy, merge or otherwise reorganize businesses in some countries, such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of such information from sellers. It is IBM's practice to require appropriate protection for personal information in these types of transactions. 
 
-#### Where SoftLayer Acts as a Data Processor for EU/EEA and/or Switzerland Customers
+Please be aware that in certain circumstances, personal information may be subject to disclosure to government agencies pursuant to judicial proceeding, court order, or legal process. We may also share your personal information to protect the rights or property of IBM, our business partners, suppliers or clients, and others when we have reasonable grounds to believe that such rights or property have been or could be affected. 
 
-When providing infrastructure as a service (IaaS), SoftLayer Technologies, Inc. may process personal data controlled by its customers or customers of SoftLayer entities located in the European Union/European Economic Area. SoftLayer does not determine or have knowledge of the types of data stored by customers and/or how that data is accessed, exchanged, processed or the classification of that data. SoftLayer customers are the data controllers of such personal data and are responsible for compliance with applicable data protection principles. SoftLayer processes data as a data processor at the direction of its customers in accordance with the terms of the MSA. 
+## International Transfers
 
-SoftLayer has in place a data processing agreement with each of its entities located in the EU (in accordance with the standards of the EU Data Protection Directive and the Safe Harbor).
+The international footprint of IBM involves a large number of transfers of personal information between different subsidiaries, as well as to third parties located in the countries where we do business. Some countries have implemented transfer restrictions for personal information, in connection with which IBM takes various measures, including: 
 
-The provision of IaaS may, at the direction of the customer, include the transfer by the customer of its personal data outside of the EEA to jurisdictions which may not provide the same level of legal protection as in the EEA. The customer is responsible for ensuring that it has all necessary consents and agreements in place with data subjects for international transfers of personal data that it directs as part of its receipt of IaaS. 
-
-The terms “process,” “data controller,” “data processor,” and “data subject” have the meanings given to them in the EU Data Protection Directive. 
-
-#### Security
-
-SoftLayer is concerned with the security of the data we have collected and utilizes reasonable measures to prevent unauthorized access to that information. These measures include policies, procedures, employee training, physical access and technical elements relating to data access controls. In addition, SoftLayer uses standard security protocols and mechanisms to facilitate the exchange and the transmission of sensitive data, such as credit card details. SoftLayer does not process PII in a way that is incompatible with the purposes for which it has been collected or subsequently authorized by the individual. 
-
-In the event that PII is acquired, or is reasonably believed to have been acquired, by an unauthorized person and applicable law requires notification, SoftLayer will notify the affected individual of the breach by email or ticket on the Customer Portal or, if SoftLayer is unable to contact the individual by email or ticket on the Customer Portal, then by regular mail. Notice will be given promptly, consistent with the legitimate needs of law enforcement and any measures necessary for SoftLayer or law enforcement to determine the scope of the breach and to ensure or restore the integrity of the data system. SoftLayer may delay notification if SoftLayer or a law enforcement agency determines that the notification will impede a criminal investigation, and in such case, notification will not be provided unless and until SoftLayer or the agency determines that notification will not compromise the investigation. SoftLayer will cooperate with You in the investigation and/or remediation of any security breach. 
-
-#### Enforcement
-
-SoftLayer has established internal mechanisms to verify its ongoing adherence to its privacy policy, including the Safe Harbor Principles. SoftLayer also encourages individuals covered by this privacy policy to raise any concerns about our processing of PII by contacting SoftLayer at the address below. SoftLayer will seek to resolve any concerns. SoftLayer has also agreed to participate in the dispute resolution program provided by the European Data Protection Authorities.
-
-#### Policy Updates
-
-If we are going to use Your PII in a manner different from that stated at the time of collection, we will notify You via email. In addition, if we make any material changes in our privacy practices that do not affect the PII already stored in our database, we will notify You by email or post a prominent notice on the Customer Portal notifying users of the change. In some cases, when we post the notice, we will also email users who have opted to receive communications from us, notifying them of the changes in our privacy practices. We may update this PA from time to time to describe how new site features affect our use of Your PII and to let You know of new control and preference features that we provide. 
-
-#### Contact Information and Inspection Rights
-
-You have the right to access and correct your PII, and to refuse for legitimate reason to allow us to process your PII. Questions, concerns or comments about this privacy policy should be addressed to:
-
-SoftLayer Technologies, Inc., an IBM Company  
-ATTN: Legal Department  
-Stanford Corporate Center  
-14001 North Dallas Parkway, Suite M100  
-Dallas, Texas 75240  
-Email: [legal[at]softlayer[dot]com](https://web.archive.org/contact/legal/softlayer/com)  
-Phone: [1 (214) 442-0600](tel:2144420600)  
+  * Where required, IBM implements Standard Contractual Clauses approved by the EU Commission, or similar contractual clauses in other jurisdictions. This includes transfers to suppliers or other third parties. You can request a copy of the EU Standard Contractual Clauses [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/). 
+  * IBM complies with the [APEC Cross Border Privacy Rules](http://www.cbprs.org/) (CBPR) system. 
+  * IBM certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. More information can be found [here](https://www.privacyshield.gov/). 
 
 
-If at any time You decide that You no longer desire that we hold, use, correct or supplement any of Your PII, receive information regarding any PII processed in relation to You or You wish to change the manner in which Your PII may be used, please let us know by contacting us as set forth above.
 
-PLEASE NOTE THAT ADDENDA THAT APPLY TO THE FOLLOWING COUNTRIES ARE INCORPORATED INTO THE MSA AND THIS PRIVACY AGREEMENT AND CAN BE FOUND AT [HTTP://WWW.SOFTLAYER.COM/LEGAL/](http://www.softlayer.com/LEGAL/): AUSTRALIA; BRAZIL; GERMANY; HONG KONG; MEXICO; THE NETHERLANDS AND SINGAPORE
+Back to top
+
+##  Information Security and Accuracy 
+
+We intend to protect your personal information and to maintain its accuracy. IBM implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. For example, we encrypt certain sensitive personal information such as credit card information when we transmit such information over the Internet. We also require that our suppliers protect such information from unauthorized access, use and disclosure. 
+
+## Retention Period
+
+We will not retain personal information longer than necessary to fulfill the purposes for which it is processed, including the security of our processing complying with legal and regulatory obligations (e.g. audit, accounting and statutory retention terms), handling disputes, and for the establishment, exercise or defense of legal claims in the countries where we do business. 
+
+Because the circumstances may vary depending on the context and the services, the information provided in [Online Privacy Statement](https://web.archive.org/privacy/details/us/en/) or provided in a specific notice may provide more detailed information on applicable retention terms. 
+
+## How to contact us
+
+If you have a question related to this Privacy Statement, please contact us by using [this form](http://www.ibm.com/scripts/contact/contact/us/en/privacy/). Your message will be forwarded to the appropriate member of IBM's Data Privacy Team, such as Data Protection Officers or members of their teams. 
+
+For the purposes of the EU General Data Protection Regulation (GDPR), the controller of your personal information is International Business Machines Corporation (IBM Corp.), 1 New Orchard Road, Armonk, New York, United States, unless indicated otherwise. Where IBM Corp. or a subsidiary it controls (not established in the European Economic Area (EEA)) is required to appoint a legal representative in the EEA, the representative for all such cases is IBM International Group B.V., Johan Huizingalaan 765, 1066 VH Amsterdam, The Netherlands. 
+
+IBM Corp. is not the controller in situations such as: 
+
+  * Personal information processed in connection with a contractual relationship, or with entering into a contractual relationship with a specific IBM subsidiary. In this case the controller of personal information is the IBM contracting company, which is the legal entity with which you or your employer have, or will have, the contract. 
+  * Personal information collected on the physical site or location of an IBM subsidiary. In this case that subsidiary is the controller of the personal information. 
+
+
+
+## Your Rights
+
+You can request to access, update, delete or correct your personal information. You also have the right to object to direct marketing. You can access the request process [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/). 
+
+You may have additional rights pursuant to your local law applicable to the processing. For example, if the processing of your personal information is subject to the EU General Data Protection Regulation ("GDPR"), and your personal information is processed based on legitimate interests, you have the right to object to the processing on grounds relating to your specific situation. Under GDPR you may also have the right to request to have your personal information deleted or restricted and ask for portability of your personal information. 
+
+## Right to Lodge a Complaint
+
+In the event you consider our processing of your personal information not to be compliant with the applicable data protection laws, you can lodge a complaint: 
+
+  * Directly with IBM by using [this form](https://www.ibm.com/scripts/contact/contact/us/en/privacy/). 
+  * With the competent data protection authority. The name and contact details of the Data Protection Authorities in the European Union can be found [here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm). 
+
+
+
+##  Changes to our Privacy Statements 
+
+We may update this Privacy Statement from time to time to reflect changes to our data governance practices. The revised Privacy Statement will be posted here with an updated revision date. We encourage you to check back periodically for any changes or updates. If we make a material change to our Privacy Statement, we will post a notice at the top of this page for 30 days. By continuing to use our websites after such revision takes effect we consider that you have read and understand the changes. 
+
+Back to top
