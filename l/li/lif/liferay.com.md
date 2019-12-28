@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liferay.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925072604id_/https%3A//www.liferay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liferay.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228133934id_/https%3A//www.liferay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Liferay
 
@@ -44,9 +44,9 @@ We will also send you service related email announcements on rare occasions when
 
 You may choose to hide or otherwise withhold displaying certain information on your public profile, including Personal Information, by making changes to your account information on the website. 
 
-##  Collection of non-personal/anonymous information 
+##  Collection of non-personal information 
 
-In using our products or services, anonymous network information may be transmitted back to us to determine how users are interacting with our products, assist us with improving our products, and provide alerts regarding available software updates/upgrades. In some instances, Liferay may collect non-personal (aggregate or demographic) data through cookies, web logs, and web beacons. That information is used to improve the usability, performance, and effectiveness of the website. Please read the "Cookies" section below for more information. 
+In using our products or services, non-personal network information may be transmitted back to us to determine how users are interacting with our products, assist us with improving our products, and provide alerts regarding available software updates/upgrades. In some instances, Liferay may collect non-personal (aggregate or demographic) data through cookies, web logs, and web beacons. That information is used to improve the usability, performance, and effectiveness of the website. Please read the "Cookies" section below for more information. 
 
 ##  Sharing your Personal Information 
 
