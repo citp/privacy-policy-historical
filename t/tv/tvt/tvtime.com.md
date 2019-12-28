@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the tvtime.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402170020id_/http%3A//www.tvtime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvtime.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228034527id_/https%3A//www.tvtime.com/privacy) for the most accurate reproduction.*
 
 # TV Time - Privacy Policy
 
 ## I. Privacy Policy
 
-**Effective Date:** This privacy policy (this “ **Privacy Policy** ”) is effective and was last updated as of 25 May 2018.
+**Effective Date:** This privacy policy (this “ **Privacy Policy** ”) is effective and was last updated as of 10 June 2019.
 
 ## II. Our Commitment to Your Privacy
 
 A. Whip Networks, Inc. (collectively, “ **we** ” or “ **us** ” or “ **WNI** ”) is pleased to provide you its online services and applications: the tvtime.com (the “ **Site** ”) and the mobile application “TV Time” (the “ **App** ”), (collectively, the “ **Service** ”).
 
-Whip Networks, Inc. is a private company, established in the U.S.A., registered at 1841 Centinela Avenue, Santa Monica, CA 90404, United States and for the purposes of the General Data Protection Regulation (“ **GDPR** ”) is the data controller. 
+Whip Networks, Inc. is a private company, established in the U.S.A., registered at 1841 Centinela Avenue, Santa Monica, CA 90404, United States and for the purposes of the General Data Protection Regulation (“ **GDPR** ”) is the data controller.
 
 B. The privacy of our visitors and users (collectively, “ **you** ” or “ **your** ”) is very important to us. This Privacy Policy describes:
 
@@ -31,37 +31,39 @@ A. We collect information in the following ways: (i) we collect information you 
 
 B. In connection with the Service, we collect the following types of information from and about you, including:
 
-  1. **Account Information**. Certain features of the Service may require you to create a user account (an “ **Account** ”). If you create an Account with us, you will be asked to provide information such as your name, username, password, postal address email address, gender, date of birth, photo and location.
+  1. **Account Information**. Certain features of the Service may require you to create a user account (an “ **Account** ”). If you create an Account with us, you may be asked to provide information such as your name, username, password, postal address email address, gender, date of birth, photo and location.
   2. **Information from Social Networking Services**. By registering for an Account, you will have the option to sign in using third party social networking services, such as Facebook or Twitter (“ **Social Networks** ”). You will also have the option of connecting to Social Networks to complete your profile information and populate your Account with additional information from your social media profile. If you choose to sign in through these Social Networks or connect your Account to these Social Networks, we use information you have already provided to such Social Network to register you for an Account and which you have allowed such Social Networks to share with WNI, including, but not limited to, your first name, your user profile picture, your friends and contacts list, your gender, and the networks to which you belong (collectively, your “ **Submitted Information** ”). We advise you to carefully read the terms of use and privacy policies of Social Networks.
-  3. **User Content**. Among other features, the Service will allow you to view, create, reproduce, display, perform and share certain content. Other features of the Service allow you to submit content, which includes videos, audio, images, graphics, written posts, comments and other forms of multimedia (collectively, “ **User Content** ”). In addition, your User Content is posted and transmitted at your own risk. We cannot control the actions of other users of the Service with whom you choose to share User Content. Therefore, we cannot and do not guarantee that your User Content will not be viewed by unauthorized persons.
-  4. **Technical Usage Information**. When you use the Services we will automatically collect information sent to us by your computer, mobile phone, or other access device. This information includes: 
-    * IP addresses and Device IDs, and we will collect and monitor other data and information relating to your device, mobile network and standard web information about your activities on the Service such as your browser type and the pages you access on our Site. We gather and monitor this data to analyze trends, administer the Service, identify users when they visit or use the Service, track users’ movements when using of the Service, and gather anonymized demographic information for aggregate use. We will also use the IP addresses and Device IDs to geo-target advertisements.
+  3. **User Content**. Among other features, the Service will allow you to view, create, reproduce, display, perform and share certain content to your social networks. Other features of the Service allow you to submit content, which includes videos, audio, images, graphics, written posts, comments and other forms of multimedia (collectively, “ **User Content** ”). In addition, your User Content is posted and transmitted at your own risk. We cannot control the actions of other users of the Service with whom you choose to share User Content. Therefore, we cannot and do not guarantee that your User Content will not be viewed by unauthorized persons.
+  4. **Information from Surveys**. If you choose to participate in our surveys, in addition to your survey responses, we will also collect your IP Address.
+  5. **Technical Usage Information**. When you use the Services we will automatically collect information sent to us by your computer, mobile phone, or other access device. This information includes:
+    * IP addresses and Device IDs, and we will collect and monitor other data and information relating to your device, mobile network and standard web information about your activities on the Service such as your browser type and the pages you access on our Site. We gather and monitor this data to analyze trends, administer the Service, identify users when they visit or use the Service, track users’ movements when using of the Service, and gather anonymized demographic information for aggregate use in content analysis or recommendation services. We will also use the IP addresses and Device IDs to allow geo-target advertisements.
     * We will use web beacons/GIF, pixel tags and/or other data and analytics, which are instrumentation tools that help us to determine, for instance, whether a page has been viewed or not and, if so, how many times. When you ask us to send you information on a promotion or a newsletter, we will use web beacons to establish how many of the emails are actually opened. In general, any electronic image viewed as part of a web page, including an ad banner, can act as a web beacon. We will use web beacons to collect web usage analytics and we will use similar tools to collect such information from mobile devices.
     * When you visit portions of the Service, the server housing the applicable pages automatically generates a “session log”. We use session logs to help us determine how people travel through the Service. In this way, we can structure our pages so that the information most frequently visited is easier to find. By tracking page visits, we can also determine if the information we're providing is being used. The only data gathered is the IP address from which you came, the source that referred you, the Device ID, the pages you visited and/or the date and time of those visits.
     * Users can be directed to the Service via banner ads or site links or mobile ads. Ads or website links that are placed by the Service will use cookies or web beacons to deliver metrics on the effectiveness of the ads or links.
-  5. **Information Collected using Cookies**. We also collect certain information using cookies, please see section IX. Use of Cookies and Tracking Technologies for more information.
+    * **Information Collected using Cookies**. We also collect certain information using cookies, please see section IX. Use of Cookies and Tracking Technologies for more information.
   6. **Information Related to Advertising and Personalization**. To support and enhance the Service, we serve, and also allow third parties to serve, advertisements (including, without limitation, pre-and post-roll, banner, frame and pop-up advertisements) through the Service. These advertisements are sometimes targeted and served to particular users and may come from third party companies called “ **Ad Networks** ”. As used herein, Ad Networks may include third party ad servers, ad agencies, ad technology vendors and data research firms. Advertisements served through the Service may be targeted to users who fit a certain general profile category gleaned through data and research, which may be based on (i) information inferred from data provided to us by a user, (ii) Service usage patterns of particular users, including tracking of web and mobile usage, (iii) the content that you create or share or (iv) your activity on Third Party Services (as defined in Section X (Third Party Services)).
 
 
 
 ## IV. How We Use Information Collected from You
 
-A. As it is in our legitimate interests to be responsive to you and to ensure the proper functioning of our Services, we use information that we collect about you or that you provide to us as follows:
+A. As it is in our legitimate interests to provide our services, be responsive to you and to ensure the proper functioning of our Services, we use information that we collect about you or that you provide to us as follows:
 
   1. to register and service your Account;
   2. to secure your Account and prevent fraud;
   3. for our internal records, tracking and lawful business purposes;
   4. in order to contact you to respond to your questions or requests or to provide you with technical support;
   5. to enable you to provide feedback to us;
-  6. to provide to you and communicate with you about the services, content, features or products you use or request (including to provide you with information concerning changes to the Service which may affect your Account and/or your use of the Service), where you have provided your consent if required by applicable law;
-  7. to customize and optimize the content or advertisements you receive when you use the Service;
-  8. to improve and monetize the Service, which may include tracking traffic, usage, trends and navigation patterns related to your activities on the Service;
-  9. we may aggregate and anonymize data based on your use of the Services to provide reports and analytics which we may share with content providers, advertisers, television production companies, cable networks, OTT platforms, talent agencies or others in the television industry, indicating what viewers thought of certain shows, what activity there was on our Services after viewing them;
-  10. to protect our or third-party rights or interests, including to enforce our Terms of Service;
-  11. to respond to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims;
-  12. to prevent fraud or other illegal activity, to prevent imminent bodily harm, or to protect ourselves and you from people violating our Terms of Service, which may include sharing information with other companies, lawyers, courts or other government entities;
-  13. in any other way we describe when you provide the information; and
-  14. for any other purpose with your prior consent.
+  6. to enable you to participate in surveys regarding your user experience and viewing interests;
+  7. to provide to you and communicate with you about the services, content, features or products you use or request (including to provide you with information concerning changes to the Service which may affect your Account and/or your use of the Service) where you have provided your consent if required by applicable law;
+  8. to customize and optimize the content or advertisements you receive when you use the Service;
+  9. to improve and monetize the Service, which may include tracking traffic, usage, trends and navigation patterns related to your activities on the Service and appending third-party aggregated data to your information;
+  10. to create aggregated and anonymized reports and analytics based on your use of the Services which we may share with content providers, advertisers, television production companies, cable networks, OTT platforms, talent agencies or others in the television industry, indicating what viewers thought of certain shows, what activity there was on our Services after viewing them;
+  11. to protect our or third-party rights or interests, including to enforce our Terms of Service;
+  12. to respond to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims;
+  13. to prevent fraud or other illegal activity, to prevent imminent bodily harm, or to protect ourselves and you from people violating our Terms of Service, which may include sharing information with other companies, lawyers, courts or other government entities;
+  14. in any other way we describe when you provide the information; and
+  15. for any other purpose with your prior consent.
 
 
 
@@ -71,15 +73,17 @@ C. Where we send you marketing communications and you do wish to opt-out of rece
 
 ## V. Sharing Your Information
 
-Your information will be shared as follows:
+Your information may be shared as follows:
 
-_A._ We will share aggregate and anonymized information about your interests, your use of the Service, and the links and ads that you follow, with content providers, advertisers, television production companies, cable networks, OTT platforms, talent agencies or others in the television industry.
+_A._ We may share aggregated and anonymized information about your interests, your use of the Service, and the links and ads that you follow, with content providers, advertisers, television production companies, cable networks, OTT platforms, talent agencies or others in the television industry.
 
-_B. Safety, Security and Compliance with Law._ We will disclose any information, including personal information, as is necessary to comply with any applicable law, regulation, legal process or governmental request, or to enforce our rights or to protect the safety and security of the Service or other users.
+_B. Surveys._ If you choose to participate in our surveys, we use Survey Monkey to operate these surveys and Survey Monkey will have access to your survey responses, as well as your IP Address.
 
-_C. Business Transfers._ In the event WNI undergoes a business transition, such as a merger or acquisition by another company, or sale of all or a portion of its assets, we will transfer your personal information and other information to the successor organization in such transaction. If material changes to the Service’s privacy practices will occur as a result of the business transition, WNI or its successor will attempt to notify you, including by posting a notice on the Service so that you can elect whether to delete your Account. 
+_C. Safety, Security and Compliance with Law._ We will disclose any information, including personal information, as is necessary to comply with any applicable law, regulation, legal process or governmental request, or to enforce our rights or to protect the safety and security of the Service or other users.
 
-_D. To Service Providers Performing Services on Our Behalf._ We contract with third party companies to perform services on our behalf, including advertising, marketing assistance, e-mail delivery, hosting services, customer service, and data research and analysis, and provide your information to them in furtherance of such services. We require any third party service providers to maintain the security of the information disclosed to them. 
+_D. Business Transfers._ In the event WNI undergoes a business transition, such as a merger or acquisition by another company, or sale of all or a portion of its assets, we will transfer your personal information and other information to the successor organization in such transaction. If material changes to the Service’s privacy practices will occur as a result of the business transition, WNI or its successor will attempt to notify you, including by posting a notice on the Service so that you can elect whether to delete your Account. 
+
+_E. To Service Providers Performing Services on Our Behalf._ We contract with third party companies to perform services on our behalf, including advertising, marketing assistance, e-mail delivery, hosting services, customer service, and data research and analysis, and provide your information to them in furtherance of such services. We require any third party service providers to maintain the security of the information disclosed to them. 
 
 ## VI. Transferring Your Information
 
@@ -87,7 +91,7 @@ A. We are a US-based company so if you are located outside of the United States,
 
 B. Where the GDPR applies and our processors of your information are located outside the EEA, such transfer will either be: (i) to a recipient certified to the US Department of Commerce's EU-US Privacy Shield; or (ii) subject to the European Commission’s model contracts for the transfer of personal data to third countries (i.e., the standard contractual clauses, the “ **Model Clauses** ”). For more information about the EU-US Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield website. If you would like to see a copy of the Model Clauses, please contact [info@tvtime.com](mailto:info@tvtime.com).
 
-## VII. How Long we Retain Your Information
+## VII. How Long We Retain Your Information
 
 A. We will retain your information as follows for as long as we are required in order to provide the Service to you, or as required to fulfill our legal requirements and defend legal claims. 
 
@@ -97,7 +101,7 @@ B. After you have terminated your use of the Service, we will store your informa
 
 You may access and modify the information that you have provided to us as follows:
 
-A. You may contact us at [info@tvtime.com](mailto:info@tvtime) and request to review, amend or delete your information collected by us, and/or request us to cease collecting information from you in the future.
+A. You may contact us at [info@tvtime.com](mailto:info@tvtime.com) and request to review, amend or delete your information collected by us, and/or request us to cease collecting information from you in the future.
 
 B. If you have created an Account, you may review and make changes to certain of your personal information and other information by logging into your Account and updating your Account profile.
 
@@ -114,9 +118,9 @@ Cookies, which are small text files recorded in a user's hard drive, are employe
 
 You have certain options to control or restrict which information we share with advertisers, Ad Networks or other Third Party Services (as defined in Section X ( _Third Party Services_ )). These options depend on whether the information is collected through the Site or the App.
 
-A. _Options for the Site_. Most browsers are initially set up to accept cookies, however you may visit our cookie privacy center here and set your cookie preferences. We or our vendors or content partners use several common online tracking tools, including browser and flash cookies, web beacons and similar technologies, to personalize your experience on the Service, provide measurement services, and serve you targeted advertisements. Most browsers allow you to change your cookie settings. These settings will typically be found in the “options” or “preferences” menu of your browser; otherwise you should use the “Help” option in your browser for more details. Some web browsers have a "Do Not Track" feature that lets the browser specify that a user does not want to have their online activities tracked. There are also available mechanisms created for the digital advertising industry, where you can register your intent not to receive targeted advertising, located at <http://www.aboutads.info/choices>, <http://optout.networkadvertising.org/> and [http://www.youronlinechoices.com](http://www.youronlinechoices.com/).
+A. _Options for the Site._ Most browsers are initially set up to accept cookies, however you may visit our cookie privacy center here and set your cookie preferences. We or our vendors or content partners use several common online tracking tools, including browser and flash cookies, web beacons and similar technologies, to personalize your experience on the Service, provide measurement services, and serve you targeted advertisements. Most browsers allow you to change your cookie settings. These settings will typically be found in the “options” or “preferences” menu of your browser; otherwise you should use the “Help” option in your browser for more details. Some web browsers have a "Do Not Track" feature that lets the browser specify that a user does not want to have their online activities tracked. There are also available mechanisms created for the digital advertising industry, where you can register your intent not to receive targeted advertising, located at <http://www.aboutads.info/choices>, <http://optout.networkadvertising.org/> and [http://www.youronlinechoices.com](http://www.youronlinechoices.com/).
 
-We use Google Analytics, which is a web analytics tool that helps us understand how users engage with the Website. Like many services, Google Analytics uses first-party cookies to track user interactions, as in our case, where they are used to collect information about how users use our site. This information is used to compile reports and to help us improve our Website. The reports disclose website trends without identifying individual visitors. You can opt out of Google Analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across all websites you use, visit this Google page: <https://tools.google.com/dlpage/gaoptout>.]] 
+We use Google Analytics, which is a web analytics tool that helps us understand how users engage with the Website. Like many services, Google Analytics uses first-party cookies to track user interactions, as in our case, where they are used to collect information about how users use our site. This information is used to compile reports and to help us improve our Website. The reports disclose website trends without identifying individual visitors. You can opt out of Google Analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across all websites you use, visit this Google page: <https://tools.google.com/dlpage/gaoptout>.]
 
 A. _Options for the App_. Mobile devices may contain settings that allow you to disable tracking advertising and/or analytics. In addition, the digital advertising industry has provided the ability for mobile users to register their intent not to receive targeted advertising at <http://www.aboutads.info/appchoices>.
 
