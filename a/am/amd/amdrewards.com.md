@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amdrewards.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626015422id_/https%3A//www.amd.com/en/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amdrewards.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228204255id_/https%3A//www.amd.com/en/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy | AMD
 
@@ -108,7 +108,7 @@ Back to top
 
 ### Transfers
 
-Where necessary, may need to transfer your personal information to another country. These transfers can take place within the AMD group but also to selected third parties (as explained in the _‘Disclosure of information’_ section of this Privacy Policy). Such transfers take place to enable us to provide you with our products and services, for marketing purposes and for customer relationship management purposes. Countries that we transfer your personal information to may not have the same personal information protection standards as the country you live in. We will only make such transfers of your personal information internationally in compliance with applicable laws.
+Where necessary, we may need to transfer your personal information to another country. These transfers can take place within the AMD group but also to selected third parties (as explained in the _‘Disclosure of information’_ section of this Privacy Policy). Such transfers take place to enable us to provide you with our products and services, for marketing purposes and for customer relationship management purposes. Countries that we transfer your personal information to may not have the same personal information protection standards as the country you live in. We will only make such transfers of your personal information internationally in compliance with applicable laws.
 
 Back to top
 
