@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the emirates247.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625220521id_/https%3A//www.emirates247.com/privacy-policy-1.158) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emirates247.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228090232id_/https%3A//www.emirates247.com/privacy-policy-1.158) for the most accurate reproduction.*
 
 # Privacy Policy - Emirates24|7
 
-By accessing and using [www.emirates247.com](http://www.emirates247.com/) (‘the Website’) you are agreeing to both the Terms & Conditions and this Privacy & Cookies Policy. You should therefore read both documents before using the Website in full. Emirates247.com is committed to protecting the privacy of its users. However, it is necessary to collect certain information about our users to ensure that our service is continually improved. We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual. Other personal information may be collected. This includes information provided voluntarily by users in the course of entering competitions, offers, and registering on the website, among other activities. When you contact us voluntarily – for example, by email – or have any financial dealings with us, or our trading partners -- this also gives us information.
+By accessing and using [Emirates247.com](https://www.emirates247.com/) (‘the Website’) you are agreeing to both the Terms & Conditions and this Privacy & Cookies Policy. You should therefore read both documents before using the Website in full. Emirates247.com is committed to protecting the privacy of its users. However, it is necessary to collect certain information about our users to ensure that our service is continually improved. We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual. Other personal information may be collected. This includes information provided voluntarily by users in the course of entering competitions, offers, and registering on the website, among other activities. When you contact us voluntarily – for example, by email – or have any financial dealings with us, or our trading partners -- this also gives us information.
 
 **Use of Information**
 
 Aggregate user information does not identify individuals, and is used to help us improve our understanding of our users and their preferences. It may also be used to assist in auditing use of the website, as well as directing editorial, advertising and commercial opportunities. Information about individual users may be used in several ways – including, but not limited to – the following:
 
-• To contact you about editorial material, commercial offers, and other opportunities that may be of interested to you. - To conduct market research and other surveys.   
-• To be shared with advertisers, trading partners and other commercial entities with whom we have or might have an association. We may also be able to share the information that they obtain about their users, which may include you.
+  * To contact you about editorial material, commercial offers, and other opportunities that may be of interested to you. - To conduct market research and other surveys.
+  * To be shared with advertisers, trading partners and other commercial entities with whom we have or might have an association. We may also be able to share the information that they obtain about their users, which may include you.
+
+
 
 **Information Sharing**
 
@@ -37,4 +39,4 @@ Services on the net are accessible globally so collection and transmission of pe
 
 **Further Information**
 
-If you wish to communicate with us about this Privacy Policy and your wishes about your personal information, please email us at [editor@emirates247.com](https://mail.dubaiholding.com/OWA/redir.aspx?C=9ed1a2f15fd945f5b1acefcaf0f2cc73&URL=mailto%3aeditor%40emirates247.com).
+If you wish to communicate with us about this Privacy Policy and your wishes about your personal information, please email us at [editor@emirates247.com](mailto:editor@emirates247.com).
