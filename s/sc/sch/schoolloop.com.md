@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolloop.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626195434id_/https%3A//schoolloop.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolloop.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228223555id_/https%3A//schoolloop.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
