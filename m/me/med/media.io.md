@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the media.io privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617231315id_/https%3A//www.wondershare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media.io privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229003239id_/https%3A//www.wondershare.com/privacy.html) for the most accurate reproduction.*
 
 # Wondershare Inc.-Privacy
-
-##  WONDERSHARE PRIVACY POLICY 
 
 **1\. Data controller and representative**
 
