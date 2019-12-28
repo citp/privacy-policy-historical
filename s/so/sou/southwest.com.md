@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the southwest.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630203230id_/https%3A//www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html%3Fclk%3DGFOOTER-BOTTOM-PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwest.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228185219id_/http%3A//www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html%3Fclk%3DGFOOTER-BOTTOM-PRIVACY) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Effective Date: May 25, 2018.
 
-This Privacy Policy applies to information we collect in relation to your use of [www.southwest.com](http://www.southwest.com%26clk%3D1725000/), [www.swabiz.com](http://www.swabiz.com%26clk%3D1725000/), careers.southwestair.com, and any other websites, mobile and other applications, or services that post a link to this Privacy Policy (collectively, the “Service”). This Privacy Policy describes how Southwest Airlines Co., P.O. Box 36647 TOP-1CR, Dallas, Texas 75235 (“Southwest,” “Company,” “we,” or “us”) collects, uses and shares information about you.
+This Privacy Policy applies to information we collect in relation to your use of [www.southwest.com](https://www.southwest.com/?clk=1725000), [www.swabiz.com](https://www.swabiz.com/?clk=1725000), careers.southwestair.com, and any other websites, mobile and other applications, or services that post a link to this Privacy Policy (collectively, the “Service”). This Privacy Policy describes how Southwest Airlines Co., P.O. Box 36647 TOP-1CR, Dallas, Texas 75235 (“Southwest,” “Company,” “we,” or “us”) collects, uses and shares information about you.
 
 By using our Service, you agree to our [Terms & Conditions](https://www.southwest.com/html/about-southwest/terms-and-conditions/index.html?clk=GFOOTER-BOTTOM-TC&clk=1725000) and consent to our collection, use and disclosure practices, and other activities as described in this Privacy Policy.
 
@@ -77,7 +77,7 @@ We may use information about you for various purposes. Primary purposes for use 
 In addition, there may be secondary purposes for use of information, such as to:
 
   * Create a usage profile of your preferences and provide advertisements, job descriptions, content or features that match your profile and interests;
-  * Communicate with you about products, services, offers, promotions, rewards and events (including those offered by third parties) and provide news and information we think will be of interest to you (for information about how to manage these communications, please see the [Your Choices](https://www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html#Your_Choices?clk=1725000) section below);
+  * Communicate with you about products, services, offers, promotions, rewards and events (including those offered by third parties) and provide news and information we think will be of interest to you (for information about how to manage these communications, please see the [Your Choices](https://www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html?clk=1725000#Your_Choices) section below);
   * Monitor and analyze trends, usage and activities;
   * Link or combine with information we get from others to help understand your needs and provide you with better service;
   * Improve our Service and other Southwest websites, applications, marketing efforts, products and services;
