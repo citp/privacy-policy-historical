@@ -1,124 +1,151 @@
-> *The following text is extracted and transformed from the vic.gov.au privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221060635id_/https%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vic.gov.au privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228115721id_/https%3A//www.vic.gov.au/privacy-vicgovau) for the most accurate reproduction.*
 
-# Privacy | Victorian Government
+# Privacy
 
-**On this page**
+The Victorian Government values and is committed to protecting your privacy.
 
-## Application of this Privacy Statement
+We handle your personal information in accordance with the Privacy and Data Protection Act 2014 (Vic) (PDP Act), Public Records Act 1973 (Vic), Health Records Act 2001 (Vic) and other applicable legislation. 
 
-This privacy statement applies only to the www.vic.gov.au website and not to any websites to which www.vic.gov.au provides a link.
+This Privacy Statement applies to information collected through the vic.gov.au website ([ www.vic.gov.au](http://www.vic.gov.au/)). For information about our broader collection, use, and disclosure of personal information, please email [contact@dpc.vic.gov.au](mailto:contact@dpc.vic.gov.au)
 
-## Use and Disclosure of Personal Information
+We may update this privacy statement from time to time. Any changes to this privacy statement will be published on this website.
 
-www.vic.gov.au only requests you to provide personal information for the purposes of responding to your feedback. The purpose for collecting personal information is to provide feedback and answer queries that you have in respect of a particular site or the information you are trying to obtain and www.vic.gov.au will only use and/or disclose the information for these purposes. It is possible to provide feedback without providing your personal information although if you do this, we are unable to respond to you about your feedback or your query.
+## What information do we collect?
 
-Personal information that is collected by www.vic.gov.au will be used by and disclosed to Victorian Government employees or contractors whose duties require them to use it. Such employees and contractors are required to protect and handle your personal information in accordance with the [Privacy and Data Protection Act 2014 (Vic)](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/9748efd5425ed362ca25810f0014bb3e!OpenDocument).
+There are 3 main ways that we may collect personal information from you: 
 
-www.vic.gov.au uses a secure system to transmit your personal information via our feedback form. This means that any data you transmit using this form is encrypted and unable to be read by anyone outside our secure system.
+### 1\. Requests to provide information
 
-## Access to and Correction of Personal Information
+In most circumstances, you will know if we are collecting personal information from you because you will be requested to provide it. For instance, if you submit a form to contact us through the website, we will ask you to provide your name and email address.
 
-You may request access to any personal information that www.vic.gov.au may have collected about you. Also, you may request correction of your personal information if you can establish that it is not accurate, complete or up-to-date.
+### 2\. Automatic collection through the website
 
-The Manager, vic.gov.au may be contacted about access to, and correction of, personal information collected by www.vic.gov.au or for any questions or concerns you may have arising out of this privacy statement,
+Some personal information is automatically collected as a result of your visit to our website. This information is collected using software techniques such as web server log file analysis, cookies and web beacons.
 
- 
-    
-by post at:
-    Product Lead - vic.gov.au  
-Digital Engagement  
-Department of Premier and Cabinet  
-121 Exhibition Street  
-Melbourne Victoria 3000
+### 3\. Automatic collection by third party software vendors
 
-Should you wish to gain access to, or correction of, your personal information held by the department, please contact us by emailing [contact@dpc.vic.gov.au](mailto:contact@dpc.vic.gov.au).
+We use some third party software that collects information about your interaction with our website.
 
-## Collection of Personal Information
+When you visit our website, your web browser automatically sends certain information to these software providers.
 
-It is intended that www.vic.gov.au can be used anonymously.
+This statement covers each of these instances of personal information collection in more detail below.
 
-However, for some functions of www.vic.gov.au the collection of personal information is necessary or unavoidable.
+## Requests to provide information
 
-You will know if www.vic.gov.au is collecting personal information from you because you will be requested to provide it. There are two exceptions to this.
+We may collect personal information that you choose to give us, or which may be required to access a particular service. This includes information collected via online forms, events and training registration, or when subscribing to receive newsletters.
 
-The first exception is where someone else provides www.vic.gov.au with your personal information. www.vic.gov.au cannot prevent this. However, you are entitled to access and correct any personal information about you collected by www.vic.gov.au.
+The information you provide by completing an online form on vic.gov.au is collected by the Drupal 8 content management system (CMS) and is stored on the Amazon Web Services infrastructure in Sydney, Australia. The Product and Editorial team within Digital, Design and Innovation have a process in place to delete this data from the CMS on a regular basis.
 
-The second exception is where www.vic.gov.au collects statistics using software techniques such as web server log file analysis, clickstream data, cookies and web beacons. For an explanation of these techniques, and how they are used on www.vic.gov.au, see Web measurement services used by www.vic.gov.au below. Such statistics may qualify as personal information under the [Privacy and Data Protection Act 2014 (Vic)](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/95c43dd4eac71a68ca256dde00056e7b/3b8053afa449f189ca2582040006d545!OpenDocument). However, these statistics are not used to identify individual users of www.vic.gov.au.
+## Automatic collection through the website
 
-## Internet Use Risk
+### Use of cookies
 
-You should be aware that there are risks in transmitting information across the Internet. However, www.vic.gov.au takes reasonable steps to protect any personal information from unauthorised access once that personal information comes into its possession.
+We use first-party cookies and JavaScript code to collect information about visitors to this website. We use these to track how our visitors interact with this website, including where they came from, what they did on the site and whether they completed any transactions on the site.
 
-## Linking
+If you don't want to have cookies placed on your computer, you can disable them using your web browser. You will need to customise each web browser you use to turn off cookie tracking.
 
-This website contains hyperlinks to pages contained on external government and non-government websites (third party websites). Unless otherwise indicated, www.vic.gov.au:
+If you opt out of using cookies, you will still have access to all the information and resources provided by this website, though some features may not work as expected.
 
-  * does not endorse or authorise the content of any third party website
-  * is not affiliated or associated with the owner or operator of any third party website
-  * assumes no responsibility or liability for the condition or content of any third party website or for the operation or function of any service or facility offered on any third party website
+## Automatic collection by third party software vendors
 
+This website uses several online tools to measure website use, which are provided by third party software vendors. We use these tools to help us make our site better.
 
+We use software by third parties, including:
 
-You should be aware that if you access another website through a link we provide, you are subject to the privacy policy of that website.
-
-## Web measurement service used by www.vic.gov.au
-
-www.vic.gov.au currently uses one web measurement service provider. This is Google Analytics.
-
-### Google Analytics - Use of Cookies
-
-[Google Analytics](http://www.google.com/analytics/) uses a first-party cookie and JavaScript code to collect information about visitors to vic.gov.au. Google Analytics anonymously tracks how our visitors interact with this website, including where they came from, what they did on the site, and whether they completed any transactions on the site such as newsletter registration.
-
-Please also read the [Google Privacy Policy](https://www.google.com/intl/en/policies/privacy/).
-
-### How to Opt Out or Disable Cookies
-
-Cookies used by www.vic.gov.au are enabled by default because of their integration into the website. If you do not wish to have cookies placed on your computer, you can disable them using your web browser. You will need to customise each web browser you use to turn off cookie tracking.
-
-Google have also provided the "[Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout)" utility for the following web browsers:
-
-  * Microsoft Internet Explorer
-  * Google Chrome
-  * Mozilla Firefox
-  * Apple Safari
-  * Opera
+  * [Google Analytics](https://www.google.com/analytics/terms/us.html)
+  * [Google Tag Manager](https://www.google.com/analytics/terms/tag-manager/)
+  * [ Monsido](https://monsido.com/data-protection-and-privacy-policy-statement)
+  * [ HotJar](https://www.hotjar.com/privacy)
+  * [ Formsite](https://www.formsite.com/privacy/)
 
 
 
-If you want to prevent your browsing data from being collected by Google Analytics, please install the relevant addon for your browser.
+For further information on how these third party software vendors handle your personal information, please review their privacy policies. Personal information may be provided to third parties when accessing this website. Information that may be shared to third parties includes:
 
-If you opt out of using cookies, you will still have access to all information and resources at www.vic.gov.au.
+  * network location and IP address
+  * the date and time of your visit to our website
+  * the types of web browser (e.g. Internet Explorer, Google Chrome, Safari) and operating system (e.g. Windows 10, Mac OS X etc.) you are using
+  * Flash version, JavaScript support, screen resolution and screen colour processing ability
+  * Referring site details (such as the URL that you came through to arrive at our website)
+  * Page visited and the time spent on each page
+  * Documents downloaded and search terms used
+  * The forms accessed on our website
+  * Personal identifiable information
+  * Unique device identifier
+  * Cookies and data about which page you visited
+  * Device information, hardware model, operating system information, app version, app usage, debugging information, browser information
+  * Geo location information (if enabled by user)
+  * May assign a unique user identifier
 
-## Data Collection
 
-While the anonymous statistical data www.vic.gov.au collects may be aggregated and used in broader statistical analysis by the State of Victoria, at no time can we personally identify you as the source of that data.
 
-## Victorian Government Directory
+All of the third party software vendors we use on this website comply with the PDP Act and the General Data Protection Regulation (GDPR) legislation within the European Union.
 
-The Victorian Government Directory aims to assist citizens to find relevant services, websites or contacts within the Victorian Government.
+Third party software vendors may alter how they collect and handle personal information at any time.  
 
-To ensure privacy is being managed effectively and to report any possible breaches there are several feedback loops in place. On the Victorian Government directory website there is a link to a feedback form for the general public to alert www.vic.gov.au to errors or omissions in data for resolution or referral. The Victorian Government Contact Centre phone number is displayed to allow for verbal feedback.
+## Use and disclosure
 
-## Social Media Websites and Applications
+### Use of web analytics data
 
-In addition to www.vic.gov.au, The Victorian Government uses social media websites to share information and to engage with the public. For example, www.vic.gov.au embeds a Twitter feed listing tweets from various Victorian Government departments and agencies on our home page. Our intention is to provide a seamless visitor experience to enhance our website visitor's ability to access information and communicate with the Victorian Government.
+We use web analytics data for statistical purposes, such as to analyse, measure, and report on data about our website traffic and visits. This information helps us understand general user trends at an aggregate level, and improve our website, content, and user experience. 
 
-Some social media websites and applications may make personally identifiable information available to the public. www.vic.gov.au will not collect, maintain, use, or share any personally identifiable information that becomes available through the use of social media websites or applications.
+We may also use this information for security audits to protect against threats from hackers or other security purposes. 
 
-Please be aware that privacy policies provided by social media websites may not be the same as the privacy policy described here.
+We do not use this information to identify you or match it with any other personal information that we may collect from you, unless required to do so as part of an internal investigation or for a law enforcement-related purpose, in accordance with the PDP Act. 
 
-Also we advise that personally identifiable information or other information you share via social media or applications may be accessible by non-government third parties.
+Your site visit data is collected under the authority of Information Privacy Principle 1.1 of the PDP Act for the purposes stated above. 
 
-## Family Safety Victoria
+### Disclosure of web analytics data
 
-In addition to the privacy and security statement above, the following is applicable to Family Safety Victoria.
+Apart from the third party tools described in this Privacy Statement, we do not disclose your site visit data to any other third parties without your consent, unless we are required or authorised to do so by law. In the event of an investigation into suspected unlawful or improper activity, a law enforcement or government agency may use its legal authority to inspect our web server’s records (e.g. in relation to hacking or abusive messages). 
 
-Family Safety Victoria endorses fair information handling practices and uses of information in compliance with its obligations under the Privacy and Data Protection Act 2014 (Vic) and the Health Records Act 2001 (Vic).
+### Can I opt out of the collection of web analytics data?
 
-Family Safety Victoria collects your information to enable it to undertake its functions and activities. Any personal information and health information (being information capable of identifying you as an individual) that you provide to Family Safety Victoria will only be used or disclosed in accordance with relevant laws, including the [Privacy and Data Protection Act 2014](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/9748efd5425ed362ca25810f0014bb3e!OpenDocument) and the Health Records Act 2001. This privacy statement explains how your information will be treated when you engage with Family Victoria Safety. The practices outlined in this privacy statement should be read subject to any rights Family Safety Victoria may have to handle your information in accordance with law.
+You cannot opt out of the automatic collection of information that is used for analytical purposes, however you may choose to disable cookies or delete any individual cookie. If you choose to disable cookies, the website may not function fully and your ability to browse, read, and download information contained on our website may be impaired. However, you may still access our services by contacting our office via other methods such as telephone, email, or mail. 
 
-[Family Safety Victoria](http://www.vic.gov.au/familyviolence/family-safety-victoria.html) may disclose your personal and health information to other organisations for the purposes of undertaking its functions or activities and for the purposes of reporting to the [Victorian Department of Health and Human Services](https://dhhs.vic.gov.au/) (the DHHS) as required. The types of organisations to which [Family Safety Victoria](http://www.vic.gov.au/familyviolence/family-safety-victoria.html) may disclose your information for the purposes of undertaking its functions or activities include the DHHS, Victorian health services, other Victorian service providers, or other administrative offices established in relation to the DHHS.
+You can enable a “Do Not Track” setting on your browser to help protect your privacy. When Do Not Track is tuned on, your browser will send a Do Not Track request to the sites you visit, and to the third parties whose content is hosted on those sites. However, many websites will still collect and use your browsing data regardless of the Do Not Track Request. This depends on individual sites’ privacy practices. Sending a Do Not Track request does not guarantee privacy protection.  
 
-[Family Safety Victoria](http://www.vic.gov.au/familyviolence/family-safety-victoria.html) may also disclose your personal or health information to the DHHS for the purposes of seeking corporate support services (including but not limited to in relation to the handling of privacy complaints) from the DHHS.
+Instructions on how to enable the Do Not Track setting: 
 
-This page was updated 21 July 2017.
+  * [Google Chrome](https://support.google.com/chrome/answer/2790761?co=GENIE.Platform%3DDesktop&hl=en%C2%A0)
+  * [Internet Explorer 11](https://support.microsoft.com/en-au/help/17288/windows-internet-explorer-11-use-do-not-track)
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature)
+  * [ Safari](https://support.apple.com/en-au/guide/safari/prevent-websites-from-tracking-you-sfri40732/mac)
+
+
+
+We use Twitter to communicate with the public about our work. We may collect any personal information that you provide us via the @VicGovAu Twitter under section 8C of the PDP Act, for the purposes of engaging and consulting with the public. Any personal information we collect via Twitter will be handled appropriately and in line with this privacy statement. 
+
+Twitter may also collect your personal information for its own purposes. When you agree to Twitter’s terms of service and privacy policy, you agree to your information being transferred outside Victoria. To protect your privacy and the privacy of others, please do not post any personal information (including phone numbers and email addresses) in your comment, tweet, or reply. Additionally, please do not share personal information about others via social media.
+
+We use Sprout Social to manage the @VicGovAu Twitter account. Information collected by Twitter is also shared with Sprout Social.
+
+We have social media sharing links on this website. These are located on the right hand side of a webpage under the heading 'Share this'. By clicking these links you are given the option to share the webpage as a post on your social media account (Twitter, Facebook or LinkedIn). These social media networks may collect your personal information for their own purposes. 
+
+This website includes links to Yammer. Yammer is an enterprise social networking service and may collect personal information you provide.
+
+## Links to non-vic.gov.au websites
+
+This privacy statement does not apply to any external websites that are linked on the vic.gov.au website.
+
+The icon we provide to let you know when you are leaving vic.gov.au and visiting an external website is displayed below.
+
+[This is what an external link looks like](https://www.google.com/)
+
+We are not responsible for the privacy practices or content of external websites. When you visit other websites, we recommend you read the privacy statements or policies of these websites before providing personal information. 
+
+## Security of your personal information
+
+Under the PDP Act, we have a responsibility to protect your personal information. We take reasonable steps to make sure that your personal information is protected from misuse, loss, and unauthorised access, modification, or disclosure. Access to systems, applications, and the information that we collect is limited to authorised staff members only. 
+
+Further, any personal information that we collect and use for identifying user trends (for example, IP address) is aggregated and anonymised when generating reports. 
+
+## Access and correction
+
+You may request access to, or correction of, documents that contain your personal information which are in our possession. For information on how to make a request for access or correction, please contact us via the details below. 
+
+In some cases, requests for access or correction will be handled in accordance with the Freedom of Information Act 1982 (Vic).
+
+## VPS Pride Network privacy
+
+## VPS Women of Colour privacy
