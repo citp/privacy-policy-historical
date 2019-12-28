@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simonandschuster.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630101506id_/https%3A//www.simonandschuster.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simonandschuster.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228233005id_/https%3A//www.simonandschuster.com/c/privacy-policy) for the most accurate reproduction.*
 
-# SIMON & SCHUSTER PRIVACY POLICY | Simon & Schuster
+# Simon & Schuster Privacy Policy | Simon & Schuster
 
 Effective Date: This policy was updated and became immediately effective on **May 25, 2018**.
 
@@ -32,6 +32,7 @@ This Privacy Policy applies to SimonandSchuster.com and all other websites, appl
   * CONSENT TO TRANSFER OF DATA
   * CHANGES TO OUR POLICY
   * CALIFORNIA RESIDENTS – YOUR CA PRIVACY RIGHTS
+  * Information for Nevada Consumers
   * CONTACT INFORMATION
 
 
@@ -155,6 +156,12 @@ S&S may update this Privacy Policy at any time and any changes will be effective
 Pursuant to California Civil Code Section 1798.83, residents of the State of California have the right to request from companies conducting business in California certain information relating to third parties to which the company has disclosed certain categories of personal information during the preceding year for the third parties’ direct marketing purposes. Alternatively, the law provides that a company may comply, as S&S does, by disclosing in its privacy policy that it provides consumers choice (opt-out or opt-in) regarding sharing personal information with third parties for those third parties’ direct marketing purposes, and information on how to exercise that choice. As stated below in this Privacy Policy, S&S provides you choice prior to sharing your personal information with third parties for their direct marketing purposes. If you do not opt-in or if you opt-out at the time S&S offers that choice, S&S does not share your information with that identified third party for its direct marketing purposes.
 
 If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to the following email address: [privacyadministrator@simonandschuster.com](mailto:privacyadministrator@simonandschuster.com) or write to us at the following mailing address: Simon & Schuster Legal, 1230 Avenue of the Americas, 17th Floor, New York, NY 10020, Attn: Privacy Administrator. You must put the statement "Your California Privacy Rights" in the subject field of your e-mail or include it in your writing if you choose to write to us at the designated mailing address. You must include your name, street address, city, state, and zip code. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+
+**Information for Nevada Consumers**
+
+Nevada law requires website operators to provide a way for Nevada consumers to opt out of the sale of certain information that the website operator may collect about them. This information is limited to direct identifiers, such as your name, postal address, and email address. When Nevada consumers opt out of the sale of their information, website operators must ensure that the information is not sold to another business that will further license or sell the information to others.
+
+If you are a Nevada resident and you would like to opt out of any possible sale of this information, please email us at privacy@cbs.com. For all requests, you must put the statement “Your Nevada Privacy Rights” in the subject field of your request. You must also include your full name, street address, city, state, and zip code. We will not accept requests via telephone, postal mail, or facsimile, and we are not responsible for notices that are not labeled or sent properly , or that do not have complete information. 
 
 **CONTACT INFORMATION**
 
