@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platypusshoes.com.au privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306201105id_/https%3A//www.platypusshoes.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platypusshoes.com.au privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228222246id_/https%3A//www.platypusshoes.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online & In-Store Australia Wide | Platypus Shoes
 
@@ -23,7 +23,7 @@ We may collect the following information from you:
 
 
 
-We also collect information about visitors to this Website using cookies and code embedded in this Website.
+We also collect information about visitors to this Website using cookies and other identification technologies (e.g. through code embedded in this Website, or through code embedded in your browser’s local storage – see section on “cookies and other identification technologies” below).
 
 We may also collect personal information from third parties such as Red Planet and its software application, or publicly available sources of information. All personal information that collect, is reasonably necessary for the provision of our goods and services to our customers and for the purposes of marketing communications.
 
@@ -47,13 +47,13 @@ Platypus Shoes will not collect or disclose sensitive information about a person
 
 We will not collect personal information unless the information is reasonably necessary for or directly related to one, or more of our functions or activities.  If we are unable to collect personal information we reasonably require, we may not be able to do business with you or the organisation with which you are connected.
 
-## Cookies
+## Cookies and other identification technologies
 
-Cookies are small text files that are stored on your browser or device by websites, apps, online media, and advertisements. We use cookies and other identification technologies on our Site for a number of purposes, including: to determine the popularity of content, to deliver and measure the effectiveness of advertising campaigns, to analyse site traffic and trends, and to generally understand the online behaviours and interests of people who interact with our services.  Cookies obtained by Platypus Shoes are kept for a maximum of 30 days before being deleted.
+Cookies are small text files that are stored on your browser or device by websites, apps, online media, and advertisements. We use cookies and other identification technologies on our Site for a number of purposes, including: to determine the popularity of content, to deliver and measure the effectiveness of advertising campaigns, to analyse site traffic and trends, and to generally understand the online behaviours and interests of people who interact with our services.  These technologies may involve placing and using data in your browser or system’s local storage. Cookies obtained by Platypus Shoes are kept for a maximum of 30 days before being deleted.
 
-No data obtained from our use of cookies is shared or given to third parties. Additionally, the data obtained from our use of cookies is not linked to any personal information you may provide and cannot be used to identify you. 
+No data obtained from our use of cookies or other similar technologies is shared or given to third parties. Additionally, the data obtained from our use of cookies or other similar technologies is not linked to any personal information you may provide and cannot be used to identify you.
 
-You have the right to choose whether or not to accept cookies, by configuring your computer so that it disables cookies or does not accept them. For further information about cookies, including information setting out how to view the cookies have been set on your device and how to manage and delete them, you can visit www.allaboutcookies.org.
+You have the right to choose whether or not to accept or enable our use of cookies and other identification technologies. You can do this by configuring your computer so that it disables cookies or does not accept them and by clearing your local cache or browsing history. For further information about cookies, including information setting out how to view the cookies have been set on your device and how to manage and delete them, you can visit www.allaboutcookies.org.
 
 ## Use and disclosure of information
 
