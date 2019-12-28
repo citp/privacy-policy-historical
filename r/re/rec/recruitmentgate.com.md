@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruitmentgate.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507144522id_/https%3A//www.recruitmentgate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitmentgate.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228084137id_/https%3A//www.recruitmentgate.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Recruitment Gate
 
@@ -12,4 +12,4 @@ When you comment: if any of you love any of our new on recruitment gate, you can
 
 Recruitment gate use Google advertising program okay. Since we started, we have tried to obey all Google adsense laws. Anyone who is not comfortable with ads displayed on recruitment gate can easily opt out from the use of DART cookies through the Google ad content network policy page. Recruitment gate uses log files to get visitors referral page, date and time of visit. We do not share our visitors log files with anyone – Your log files are always save with us. We also comply with all the California online privacy protection act and children online privacy protection act also known as COPPA.
 
-To [contact us](http://www.recruitmentgate.com/contact-us/) is easy, just send us a mail via  **Admin@** recruitmentgate.com.
+To [contact us](https://www.recruitmentgate.com/contact-us/) is easy, just send us a mail via  **Admin@** recruitmentgate.com.
