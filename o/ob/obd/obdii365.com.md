@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the obdii365.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514084049id_/http%3A//www.obdii365.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obdii365.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228032552id_/http%3A//www.obdii365.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 * * *
 
-**Welcome to Obdii365.com. We respect your privacy very much, we will take your online safeguard seriously. To protect your privacy better, here are the details for you :**  
+## **Welcome to Obdii365.com. We respect your privacy very much, we will take your online safeguard seriously. To protect your privacy better, here are the details for you :**  
  
 
 **The Information You Offer**  
@@ -14,12 +14,12 @@ For provide your with efficient customer service and quality products, when you 
 
 **The Information We Use**
 
-Internal Use: We use your personal information to process your order and provide you with customer service. Communication with You: We will use your personal information to communicate with you about Obdii365.com and your orders. You can unsubscribe or opt out of future emails at any time. We will You may also submit your email address to request notification when we receive a new brand, product style or product, or to sign up for our email newsletter and special offers.
+Internal Use: We use your personal information to process your order and provide you with customer service. Communication with You: We will use your personal information to communicate with you about Obdii365.com and your orders. You can unsubscribe or opt out of future emails at any time.You may also submit your email address to request notification when we receive a new brand, new product style or new released product, or to sign up for our email newsletter and special offers.
 
 **Safeguard Your Information**  
  
 
-As we respect your privacy very much, we safeguard your information seriously. Granting only employees who are providing a specific service access to your personal. All employees that we do hire have to sign a confidentiality agreement that forbids them from disclosing any information to which the employee has access, to other individuals or entities. We employ the latest firewall protection to prevent unauthorized access into our information storage areas.We use the latest in encryption technology to ensure that any sensitive information. We also have back up servers and power supplies to guard against power outages and other natural occurrences that could pose a threat to the integrity of your personal information. Passwords are required in order for you to gain access to your account.  
+As we respect your privacy very much, we safeguard your information seriously. Granting only employees who are providing a specific service access to your personal information. All employees that we do hire have to sign a confidentiality agreement that forbids them from disclosing any information to which the employee has access, to other individuals or entities. We employ the latest firewall protection to prevent unauthorized access into our information storage areas.We use the latest in encryption technology to ensure that any sensitive information. We also have back up servers and power supplies to guard against power outages and other natural occurrences that could pose a threat to the integrity of your personal information. Passwords are required in order for you to gain access to your account.  
  
 
 **Choices for Your Information**
@@ -30,10 +30,13 @@ We usually offer you choices for your information. You can correct or update you
 
 We do not sell, rent, trade, license, or otherwise disclose your personal or financial information to anyone, Only those employees who are responsible for handling your account have access to your information. In addition, employees in our technical department may have access to your information so that they can conduct routine checks on the integrity of our system and perform necessary maintenance work.
 
-**Notice for Privacy Polic**
+**Notice for Privacy Policy**
 
 We reserve the right to change this privacy policy at any time. However, if any changes do occur that we will make the changes public and then post a notice on our site timely. We will also contact you personally to make you know of the new changes.
 
 **Update of Policy**
 
 For keeping you informed of what information we collect, use, and disclose, we will post any updates to this Privacy Notice on this site. So we recommend you to pay attention to this privacy policy occasionally.
+
+Thanks in advance for your support!  
+OBDII365 Team
