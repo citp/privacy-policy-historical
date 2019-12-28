@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europcar.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502002123id_/https%3A//www.europcar.com/security-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europcar.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228183604id_/https%3A//www.europcar.com/security-and-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
