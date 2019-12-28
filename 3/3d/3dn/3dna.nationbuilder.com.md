@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 3dna.nationbuilder.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523084447id_/http%3A//nationbuilder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dna.nationbuilder.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228181727id_/https%3A//nationbuilder.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - NationBuilder
 
 Effective date: May 1, 2018
 
-3dna Corp. (“ **3dna** ”, “ **we** ”, “ **us** ” or “ **our** ”) respects privacy of our users and we are committed to protecting it through our compliance with this privacy policy (“ **Privacy Policy** ”), which describes the types of information we may collect from you or that you may provide when you use our nationbuilder.com website (“ **Website** ”), or our services (collectively, “ **Services** ”) and our practices for collecting, using, maintaining, protecting and disclosing that information. This Privacy Policy applies to the data collected by us, or those working on our behalf, through information you enter or from the imported data from authorized and approved sources. It does not apply to data collected through other sites, products, or services not approved by us.
+3dna Corp. dba NationBuilder (“ **3dna** ”, " **NationBuilder** ", “ **we** ”, “ **us** ” or “ **our** ”) respects privacy of our users and we are committed to protecting it through our compliance with this privacy policy (“ **Privacy Policy** ”), which describes the types of information we may collect from you or that you may provide when you use our nationbuilder.com website (“ **Website** ”), or our services (collectively, “ **Services** ”) and our practices for collecting, using, maintaining, protecting and disclosing that information. This Privacy Policy applies to the data collected by us, or those working on our behalf, through information you enter or from the imported data from authorized and approved sources. It does not apply to data collected through other sites, products, or services not approved by us.
 
 By using or accessing our Website or the Services in any manner, you acknowledge that you accept the practices and policies described in this Privacy Policy, and you hereby consent that we may collect, use, and share your information as described herein. If you do not agree with our policies and practices, your choice is not to use our Website or our Services. We collect your personal information in order to deliver our Website and Services to you more efficiently. If you do not provide us with the necessary personal information, we will not be able to deliver all the features of our Services and/or Website to you as intended. Remember that your use of our Services is at all times subject to our Master Terms of Service (available at [Master Terms of Service](https://nationbuilder.com/tos "TOS") (the “ **Master Terms** ”)), which incorporates this Privacy Policy. Any capitalized terms we use in this Privacy Policy without defining them have the definitions given to them in the Master Terms.
 
@@ -109,7 +109,7 @@ The information we collect automatically is statistical data and may include Per
 
 
 
-The technologies we use for this automatic data collection may include cookies, flash cookies, web beacons, pixel tracking, GIF and/or IP address. Each of these is discussed below.
+The technologies we use for this automatic data collection may include cookies, flash cookies, web beacons, pixel tracking, GIF and/or IP address. Each of these is discussed below. For details on the specific cookies we are currently using, please review our [Cookie Declaration](https://nationbuilder.com/cookie_declaration). 
 
   * **Cookies (or browser cookies)**
     * A cookie is a small file placed on the hard drive of your computer or mobile device. It may contain certain data, including, but not limited to: the name of the server that has placed it there, an identifier in the form of a unique number, and, an expiration date (some cookies only). Cookies are managed by the web browser on your computer (Internet Explorer, Firefox, Safari or Google Chrome).
