@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the joomshaper.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625202732id_/https%3A//www.joomshaper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomshaper.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228075240id_/https%3A//www.joomshaper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JoomShaper
-
-  1. You are here:  
-  2. [Home](https://www.joomshaper.com/)
-  3. Privacy Policy
-
-
 
 ### Introduction
 
@@ -66,7 +60,7 @@ If in any case a breach of data such as loss, alteration, unauthorised disclosur
 
 ### How you can review, update, get a copy or delete your data
 
-You are free to review and update your information at any time directly through our site. To change your information please login to our site and click "My Account" link. If you want to delete or get a copy of your data on our site, send a mail to [[email protected]](https://www.joomshaper.com/cdn-cgi/l/email-protection#12616762627d606652787d7d7f617a736277603c717d7f) . We will do that with immediate effect. 
+You are free to review and update your information at any time directly through our site. To change your information please login to our site and click "My Account" link. If you want to delete or get a copy of your data on our site, send a mail to [[email protected]](https://www.joomshaper.com/cdn-cgi/l/email-protection#1a696f6a6a75686e5a7075757769727b6a7f6834797577) . We will do that with immediate effect. 
 
 ### Newsletter
 
