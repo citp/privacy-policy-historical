@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the marketmetrix.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620013336id_/https%3A//www.clarabridge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketmetrix.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228030659id_/https%3A//www.clarabridge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Clarabridge
+
+###  Clarabridge Privacy Policy 
 
 Clarabridge, Inc. and our subsidiaries including, Engagor NV and Market Metrix, a Clarabridge Company, LLC (“Clarabridge” or “we”) are committed to protecting your privacy. This Privacy Policy describes our privacy practices with respect to information, including personal information, collected from visitors to the Clarabridge website, made available at [www.clarabridge.com](https://clarabridge.com/), and [corp.marketmetrix.com](https://www.clarabridge.com/market-metrix/) (collectively, the “Clarabridge website”) only. Unless otherwise set forth below (e.g., with regard to data transfer), this Privacy Policy does not apply to the information that we collect in our capacity as a service provider. Rather, the terms and conditions of a Subscription Services Agreement (or other master agreement that we entered with each such customer) applies to all such information.
 
