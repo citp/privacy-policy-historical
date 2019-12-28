@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigbuttslikeitbig.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411032949id_/https%3A//www.brazzers.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbuttslikeitbig.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228073907id_/https%3A//www.brazzers.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**_Last Modified: May 21st, 2018_**
+**_Last Modified: July 9th, 2019_**
 
 ## Introduction
 
@@ -202,6 +202,22 @@ If we ask for your consent to use your Personal Information, you can withdraw yo
 You may, at any time, send us an e-mail at [support@brazzers.com](mailto:support@brazzers.com) to exercise your above rights in accordance with the applicable legal requirements and limitations. If you are located in the European Economic Area, you have a right to lodge a complaint with your local data protection authority.
 
 Note that some requests to delete certain Personal Information will require the deletion of your user account as the provision of user accounts are inextricable linked to the use of certain Personal Information ( _e.g._ , your e-mail address). Also note that it is possible that we require additional information from you in order to verify your authorization to make the request and to honor your request.
+
+## California Consumer Privacy Act Notice
+
+As of January 1, 2020, the California Consumer Privacy Act of 2018 (“ **CCPA** ”) provides California residents (“ **Consumer(s)** ”) certain rights with respect to their personal information, as this term is defined under the CCPA. In addition to the rights we state under this policy and subject to the exceptions found under the CCPA, Consumers have the right to:
+
+  * Opt-out of the sale of their personal information, should we sell their personal information;
+  * Be informed of certain information concerning our collection and use of their personal information;
+  * Request that we delete certain personal information we collected from them;
+  * Appoint an agent to exercise their rights provided for by the CCPA, provided that a duly executed notarized power of attorney is presented and provided that the agent has information deemed sufficient to allow us to verify the identity of the Consumer in question and to locate his/her information in our systems;
+  * Not be subjected to discrimination for the exercise of these rights. We will not deny California residents the use of our service, neither will we provide a different level or quality or services for exercising any of their CCPA rights, unless as permitted under the CCPA.
+
+
+
+This Website does not sell nor has it sold in the past 12 months personal information to third parties for monetary or other valuable considerations. We may however disclose certain personal information with third parties, service providers and entities within our corporate group in order to enable them to perform certain services on our behalf and namely to make the Website work properly. Regardless, we respect the California residents’ right to exclude personal information from such sharing arrangements and to thereby opt-out of any future sale of their personal information.
+
+If the CCPA is applicable to you and you would like to record such preference, please click on the following link for “[Do Not Sell My Personal Information](mailto:privacy@managemydata.eu?subject=Do%20Not%20Sell%20My%20Personal%20Information)“.
 
 ## Changes to Our Privacy Policy
 
