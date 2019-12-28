@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendspace.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629065244id_/https%3A//www.sendspace.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendspace.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228074003id_/https%3A//www.sendspace.com/privacy_policy.html) for the most accurate reproduction.*
 
 # sendspace | Privacy Policy
 
