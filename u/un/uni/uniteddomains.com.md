@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uniteddomains.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204500id_/https%3A//www.uniteddomains.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniteddomains.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228114643id_/https%3A//www.uniteddomains.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which United Domains (UD) uses, maintains and discloses information collected from its customers and users of its website.
+This Privacy Policy governs the manner in which ud.com (UD) uses, maintains and discloses information collected from its customers and users of its website.
 
 By using our website and services, you agree, without limitation or qualification, to be bound by this Privacy Policy. This policy may be updated as needed on occasion, so please return to this page periodically to check for any updates. Privacy
 
