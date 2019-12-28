@@ -1,104 +1,147 @@
-> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605220703id_/https%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228224456id_/https%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | gHacks Technology News
 
-Below is information regarding ghacks.net's commitment to protect the privacy of users and to ensure the integrity of the Internet.
+## WHEN THIS POLICY APPLIES?
 
-(This Privacy Policy was last revised on May 27, 2018)
+We have made this policy as short and easy to understand as possible, so please take your time to read it so you can have all the information to decide whether you want to sign up and share your data with Softonic.
 
-Internet user privacy is of paramount importance to Ghacks.net. The success of our business depends upon our ability to maintain the trust of our users. If for any reason you have concerns about our software or website's privacy policies, please contact us. We are committed to ensuring that every user's needs are addressed.
+This policy applies to www.softonic.com, its subdomains and other web sites and services where this Privacy Policy is referred or made accessible for you to read and accept.
 
- **Collection of Personal Information**
+The personal data to which we have access is the data that you will voluntarily provide upon sign up as required for the use of certain services.
 
-In the course of delivering this site to you, Ghacks.net does NOT collect any personally-identifiable information about you, such as your name, address, phone number or email address without your knowledge, and are taking measures to protect your privacy.
+You can easily sign up via the available social media sign up options or by filling out the necessary online forms where this option is available. Fields marked with an asterisk (*) are mandatory. Lack to provide the mandatory data will preclude you from signing up.
 
-You can send email requesting help and your email will NOT be shared in any way with any third party, and will only be used to send replies to you.
+Please refer to our [Cookies Policy](https://www.ghacks.net/cookie-policy/) to know how we and third parties process data obtained by means of cookies and similar technologies.
 
-You can leave comments on the site and may do so completely anonymously. You may (but don't have to) use your "real" email address or name; if you do, that data is associated with the comment. We won't use the information associated with comments in any way, won't sell the information or share it with third-parties. We don't associate IP addresses with comments or store them.
+## WHO AM I SHARING MY DATA WITH AND WHO IS THE DATA “CONTROLLER”?
 
-You may sign up to our site newsletter. We use a double opt-in for that and will store your email address for the sole purpose of delivering the newsletter to that email address. You may unsubscribe from the newsletter at any time. Your email address will be removed when you unsubscribe and no record of the data will be kept.
+A data controller is an entity that you provide data with and decides on the purpose of the data, provided your prior consent or another legal basis:
 
-The site displays share and subscribe options for select social networks. These are implemented in the most privacy-friendly manner; they are static links that don't connect to third-party sites automatically and won't record any user interaction unless activated by the user.
+Corporate name: Softonic International, S.A.
 
-Ads used on this website can use cookies and/or web beacons to collect data in the ad serving process. You can [remove cookies](https://www.ghacks.net/2011/04/24/how-to-delete-cookies-on-a-computer/) at any time using your browser tools.
+Address: MediaTIC building, Calle Roc Boronat, 117, 6th floor, 08018 Barcelona, Spain
 
-If you have any questions or concerns regarding this matter, please feel free to [contact us](https://www.ghacks.net/contact/).
+Phone number: +34 936 012 700
 
-### Embedded content from other websites
+Email address: [privacy@softonic.com](mailto:privacy@softonic.com)
 
-Articles on this site may include embedded content from the video hosting site YouTube. We use YouTube's privacy-enhanced mode for the embeds which ensure that YouTube does not collect any visitor data when the page is loaded.
+Data Protection Officer direct contact: [dpo@softonic.com](mailto:dpo@softonic.com)
 
-### Analytics
+Please do not hesitate to reach us by any of the means above for any question about data protection and privacy.
 
-We don't embed Analytics software such as Google Analytics on the desktop version of Ghacks Technology News.
+## WHAT ARE THE PURPOSES OF DATA PROCESSING?
 
-We do use Google Analytics on the mobile version to collect information about website visits. We have configured Google Analytics to use the lowest period of time for which data that is collected is associated with cookies and user identifiers, and the time period does not reset on new activity.
-
-  * [Link to Google Analytics Privacy Policy](https://www.google.com/policies/privacy/?hl=en_US)
+  * Creation of a community of users interested in software, so you can share your opinion and preferred programs and solutions with other users.
 
 
-
-Our hosting company, Kinsta, collects aggregate data automatically when a user visits the site.
-
-### What rights you have over your data
-
-If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us.
-
-You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
-
-Note that we need to be able to link data to you, for instance, by your email address.
-
-### Where we send your data
-
-Visitor comments may be checked through an automated spam detection service that is operated by Automattic, the company behind WordPress.
-
-> The information "typically includes the commenter's IP address, user agent, referrer, and Site URL (along with other information directly provided by the commenter such as their name, username, email address, and the comment itself)".
-
-  * [Link to Automattic Privacy Policy](https://automattic.com/privacy/)
+  * To show you other users’ opinions about programs or solutions.
 
 
-
-If you subscribe to our email newsletter, the email address is sent to MailChimp which operates the newsletter service.
-
-  * [Link to Mailchimp Privacy Policy](https://mailchimp.com/legal/privacy/)
+  * To inform you about reviews, news, tutorials, opinions, all related to the world of software.
 
 
+  * To recommend you software, based on your interests, download history and navigation habits on the website, as well as based on your comments using your Softonic social media profile.
 
-### How long we retain your data
 
-If you leave a comment, the comment, your selected name and email address if filled out, are retained indefinitely on the site.
+  * Provided you have chosen to sign up with your social media profile and you have opted so, we will show you ads, suggest software and customize your experience through the site based on your interest (i.e using your Facebook “Likes”) and customize our newsletter (provided you have opted in to receive our newsletters).
 
-If you subscribe to our email newsletter, we keep your email address in our database until you unsubscribe from the newsletter (which you may do at any time).
 
-If you have an account, we keep record of the account for as long as it is open. All data associated with the account is removed when the account is deleted; comments are anonymized in the process.
+  * To study and analyze the information provided, as well as based on information obtained in an aggregate format for statistical and analytics purposes via cookies (see our [Cookies Policy ](https://hello.softonic.com/cookies-policy/)for more info), in order to evaluate new trends, develop new services or check the result of an ad campaign.
 
- **Third Party Advertising:**
 
-We use third-party advertising companies to serve ads when you visit our website.
+  * To send you emails about updates, service announcements or as required to provide you with the subscribed service. This kind of communications do not have a commercial nature and we will inform you of how to unsubscribe on each communication.
 
-These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-If you would like more information about this practice and to know your choices about not having this information used by these companies, click the links below.
+  * Provided your previous consent, to send you emails regarding the software sector.
 
-The following third parties are supported:
 
-  * DoubleClick DFA ([www.doubleclick.com](http://www.google.com/url?q=http%3A%2F%2Fwww.doubleclick.com/))
-  * Mediaplex/ValueClick ([www.mediaplex.com](http://www.google.com/url?q=http%3A%2F%2Fwww.mediaplex.com/))
-  * DoubleClick Rich Media ([www.doubleclick.com](http://www.google.com/url?q=http%3A%2F%2Fwww.doubleclick.com/))
-  * Eyeblaster ([www.eyeblaster.com](http://www.google.com/url?q=http%3A%2F%2Fwww.eyeblaster.com/))
-  * EyeWonder ([www.eyewonder.com](http://www.google.com/url?q=http%3A%2F%2Fwww.eyewonder.com/))
-  * Interpolls ([www.interpolls.com](http://www.google.com/url?q=http%3A%2F%2Fwww.interpolls.com/))
-  * Pointroll ([www.pointroll.com](http://www.google.com/url?q=http%3A%2F%2Fwww.pointroll.com/))
-  * Unicast ([www.unicast.com](http://www.google.com/url?q=http%3A%2F%2Fwww.unicast.com/))
-  * Dynamic Logic/Safecount ([www.safecount.net](http://www.google.co.uk/url?q=http%3A%2F%2Fwww.safecount.net/))
-  * Factor TG ([www.factortg.com](http://www.google.com/url?q=http%3A%2F%2Fwww.factortg.com/))
-  * IAG ([www.iagr.com](http://www.google.co.uk/url?q=http%3A%2F%2Fwww.iagr.net/))
-  * InsightExpress ([www.insightexpress.com](http://www.google.com/url?q=http%3A%2F%2Fwww.insightexpress.com/))
+  * To address you properly on our emails (i.e dear “John Smith”).
+
+
+  * To create a user profile. We will not use your profile for automatic individual decision-making.
+
+
+  * To show you relevant ads on the website, newsletters and web notifications.
+
+
+  * To show you relevant ads in other websites and social networks that may be of your interest (see our [Cookies Policy ](https://hello.softonic.com/cookies-policy/)at this regards).
+
+
+  * To check you are above 14 years old, so you can give us a valid consent to provide your data.
+
+
+  * To answer your questions, complaints and provide general support, if you contact us via our support portal, other online forms or directly via email.
+
+
+  * Provided you have voluntarily opted-in to receive our newsletter, you will receive customized ads on our newsletters.
 
 
 
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
+We’ll keep your data as long as we don’t receive a deletion request from you and as long as permitted by Law. You can delete your account at any time via your user area.
 
-### Contact information
+## WHAT’S THE LEGAL BASIS OF THE PROCESSING?
 
-Please use our [contact page](https://www.ghacks.net/contact/) to get in touch with us.
+The legal basis for the processing of your data is your consent.
+
+For children below 14 years old, we require the authorization of parents or guardians for signing up. Please contact us via email to [privacy@softonic.com ](mailto:privacy@softonic.com)if you want your children to subscribe and we’ll provide you further instructions to do so.
+
+## WILL MY DATA BE SHARED WITH THIRD PARTIES?
+
+**Third-party service providers.  **Softonic has engaged with several trusted third parties-service providers (data processors) in order to provide the service. For instance, they provide us with services such as hosting, data management or direct marketing related services, so they need to access certain data on as needed strictly basis. Softonic requires all its providers to certify that they have adopted adequate organizational and security measures to comply with our data protection standards and require them to commit to adopting further legal safeguards. Where the relevant provider is located outside the Economic European Area (EEA), we require the adhesion to the US-EU Privacy Shield or the signature of EU standard clauses.
+
+Below you’ll find a list of providers located outside the EEA, the country and the existence or absence of an adequacy decision by the EU Commission (when the EU Commission has determined that a certain country offers sufficient guarantees for the protection of personal data and privacy) and the relevant safeguards adopted.
+
+_Google, Inc_. U.S. Adequacy decision in the framework of the EU-US Privacy Shield. Google is adherent to the Privacy Shield.
+
+_Amazon.com Inc_. U.S. Adequacy decision in the framework of the EU-US Privacy Shield. Amazon is adherent to the Privacy Shield.
+
+_Fastly, Inc._  U.S. U.S. Adequacy decision in the framework of the EU-US Privacy Shield. Oracle is adherent to the Privacy Shield.
+
+_Oracle America Inc._  U.S. Adequacy decision in the framework of the EU-US Privacy Shield. Oracle is adherent to the Privacy Shield.
+
+_Salesforce, Inc_. U.S. Adequacy decision in the framework of the EU-US Privacy Shield. Salesforce is adherent to the Privacy Shield.
+
+Onesignal, _  Inc_. U.S. Adequacy decision in the framework of the EU-US Privacy Shield. EU Standard Contractual Clauses (Processors)
+
+_Simon Data, Inc._  U.S. Adequacy decision in the framework of the EU-US Privacy Shield. EU Standard Contractual Clauses (Processors)
+
+_Sendgrid, Inc_  U.S. Adequacy decision in the framework of the EU-US Privacy Shield. EU Standard Contractual Clauses (Processors)
+
+_Key Discovery Consulting, Inc_. Republic of the Philippines EU Standard Contractual Clauses (Processors)
+
+Visit [https://www.privacyshield.gov ](https://www.privacyshield.gov/)for more info about the Privacy Shield and to check that the above companies are adherent to.
+
+**Legal reasons** : We may disclose personal information when we believe release is appropriate to comply with the law; enforce or apply our terms of use and other agreements; or protect our rights.
+
+**Business Transfers** : As we continue to develop our business, we might sell or buy other companies, subsidiaries, or business units. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy policies (unless, of course, you consent otherwise). Also, in the event that Softonic or substantially all of its assets are acquired, user information will, of course, be one of the transferred assets.
+
+Please visit our [Cookies Policy ](https://hello.softonic.com/cookies-policy/)to know the data we and third parties process via the usage of cookies and other similar technologies.
+
+## WHAT RIGHTS DO I HAVE?
+
+Softonic has created a user area where you can have control over the data provided, including the ability to request your rights to access, rectify and delete, restrict the processing and to object certain processing (i.e unsubscribe from our newsletter or to withdraw your consent to share your social media interests). In the case where you don’t have access to your user area, you may send us an email to [privacy@softonic.com ](mailto:privacy@softonic.com)to request your rights.
+
+You can as well unsubscribe from receiving our newsletter at any time by clicking the relevant button at the bottom of any email we send you.
+
+If you have subscribed to our web notification service you can opt-out at any time via your web browser following these [steps ](https://get-support.softonic.com/customer/en/portal/articles/2873957-how-to-disable-web-notifications-chrome-firefox-and-safari-).
+
+Please note that the exercise of your right to erasure or to object to certain data processing will not affect the lawfulness of processing based on your consent before withdrawal.
+
+We will process your data to create a profile that will include the data you provide, along with data related to your behaviour in the web site, how you react to our email campaigns and your social media interest (if you have chosen to share them with us) but will not be used for automatic individual decision-making purposes. This profile will be used to show you customized content and ads that will be more relevant to you. You can also opt-out from this type of processing at any time via your user area.
+
+Visit the Spanish National Data Protection Authority [website ](http://www.agpd.es/portalwebAGPD/CanalDelCiudadano/ejercicio_derechos/index-iden-idphp.php)to learn more about your rights. Be informed that you have the right to lodge a complaint before the Spanish National Data Protection Authority especially if we have failed to comply with your request to exercise your rights.
+
+## IS MY DATA SECURED?
+
+We have adopted adequate technical and organizational measures to avoid alteration, loss or unauthorized access to your data: We select only trusted and certified providers that process your data and we take care that they have taken strict measures too. We and our providers also use encryption protocols to access or transfer your data and techniques to anonymize data to mitigate the risks in case of a data leak.
+
+## HOW CAN I KNOW IF YOU CHANGE THIS POLICY?
+
+We will inform you sufficiently in advance if there are important changes and require your consent if any of those changes impact your privacy rights.
+
+Last Version 28 January 2019. © Softonic International, S.A.
+
+See January 15th, 2019 version [here](https://hello.softonic.com/privacy-policy-2).
+
+See August 2016 version [here](https://hello.softonic.com/privacy-policy-3).
