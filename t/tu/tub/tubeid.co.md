@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubeid.co privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502143026id_/https%3A//www.tubeid.co/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubeid.co privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228141428id_/https%3A//www.tubeid.co/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TubeID.Co
 
