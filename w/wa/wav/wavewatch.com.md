@@ -1,377 +1,396 @@
-> *The following text is extracted and transformed from the wavewatch.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226165734id_/http%3A//www.enthusiastnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavewatch.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229000824id_/https%3A//www.americanmediainc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TEN: The Enthusiast Network
+# Privacy Policy | American Media Inc
 
-This privacy policy applies only to the websites and applications controlled by TEN: PUBLISHING MEDIA, LLC, and/or their subsidiary and affiliated entities (collectively, “TEN,” “we” or “us”) where this privacy policy is posted (collectively, the “Sites”).This privacy policy applies only to the websites and applications controlled by TEN: PUBLISHING MEDIA, LLC, and/or their subsidiary and affiliated entities (collectively, “TEN,” “we” or “us”) where this privacy policy is posted (collectively, the “Sites”).
+Effective 12/18/2019
 
-**OVERVIEW**
+American Media, LLC, Weider Publications, LLC, Radar Online LLC, and AMI Celebrity Publications, LLC (collectively, “we”, “us” or “our”) own and operate websites, mobile applications, and other digital, interactive services (collectively, the “Services”). This Privacy Policy applies to the information we collect through the Services, unless the website, mobile application, or other digital, interactive service has a separate privacy policy, in which case that privacy policy will govern.
 
-**A. WHO WE ARE:**  
-We are TEN: PUBLISHING MEDIA. We provide a range of free and paid-for content services, which are available through our websites or our mobile and television applications worldwide (with content availability subject to geographic territories) (the “Services”).
+This Privacy Policy, together with the Terms of Use posted on our Services, sets forth the general rules and policies governing your use of our Services. Depending on your activities when visiting our Services, you may be required to agree to additional terms and conditions.
 
-We are based in the United States. Our company details are in WHO WE ARE section below.
+This policy describes:
 
-If you have any questions or need any help in relation to our privacy policy, please contact our Data Protection Officer at [privacypolicy@enthusiastnetwork.com](mailto:privacypolicy@enthusiastnetwork.com).
+  1. The information we collect and how we collect it;
+  2. What we do with the information we collect;
+  3. How we share your information;
+  4. Exercising choice;
+  5. California Privacy Rights;
+  6. How you can access and update your information;
+  7. User based in EEA and Switzerland;
+  8. Security of Personal Data;
+  9. Retention of Your Personal Data;
+  10. Children;
+  11. Links to Third Parties; and
+  12. Changes to Privacy Policy.
 
-**B. OUR VALUES AND WHAT THIS PRIVACY POLICY IS FOR:**  
-We value your privacy and want to be accountable and fair to you as well as transparent with you in the way that we collect and use your personal information. Our overall aim is to ensure that our collection and use of personal information is appropriate to the provision of the Services to you, and is in accordance with applicable data protection laws. We also want you to know your rights in relation to your information which you can find here, in YOUR RIGHTS section.
 
-In line with these values, this privacy policy tells you what to expect when we collect and use personal information about you. We have tried to make it easy for you to navigate so you can find the information that is most relevant to you and our relationship with you.
 
-We are always looking to improve the information we provide to our customers and contacts so if you have any feedback on this privacy policy, please let us know using our contact details in the CONTACT section.
+#### 1\. INFORMATION WE COLLECT
 
-**C. WHO THIS PRIVACY POLICY APPLIES TO:** This privacy policy applies to all users of our Services.
+Our Services typically collect three kinds of information about you: (a) information that you voluntarily provide that personally identifies you, including financial information; (b) information that we automatically collect when you use our Services; and (c) information provided by third parties.
 
-**D. WHAT THIS PRIVACY POLICY CONTAINS:** This privacy policy describes the following important topics relating to your information:
+How we collect and store information depends on the websites you visit, the activities in which you participate and the Services you use. You can use some of the Services without providing any information other than what is automatically collected as described below.
 
-WHO WE ARE  
-CHILDREN  
-THE PERSONAL INFORMATION WE COLLECT ABOUT YOU  
-HOW WE STORE AND USE YOUR PERSONAL INFORMATION  
-HOW WE SHARE YOUR PERSONAL INFORMATION AND WHO WE SHARE IT WITH  
-INTERNATIONAL TRANSFERS  
-COOKIES  
-SECURITY  
-DATA RETENTION  
-YOUR RIGHTS  
-THIRD PARTY SITES  
-YOUR CALIFORNIA PRIVACY RIGHTS  
-DISPUTE RESOLUTION  
-CHOICE OF LAW; CHOICE OF FORUM  
-CHANGES TO THIS PRIVACY POLICY  
-CONTACT, COMPLAINTS, QUESTIONS AND SUGGESTIONS
+#### Information you provide
 
-**E. YOUR RIGHTS TO OBJECT:** You have various rights in respect of our use of your personal information as set out in YOUR RIGHTS section. Two of the fundamental rights to be aware of are that you may:
+We may collect information about you during your use of the Services, including your name, username, password, email address, postal address, phone number, mobile phone number, payment information, gender, birth year, and information you provide or post on our Services or allow us to access when you do certain things, such as:
 
-1\. Ask us to stop using your personal information for direct marketing purposes. If you exercise this right, we will stop using your personal information for this purpose; and
+  * Enter registration information for one or more of our Services;
+  * Enter a sweepstakes or contest or register for a promotion;
+  * Participate in voting or polling activities;
+  * Make a purchase;
+  * Request certain features (e.g., newsletters, updates, and other products);
+  * Sign up to receive SMS (text message) notifications;
+  * Download or use one of our mobile applications;
+  * Connect with the Services or otherwise allow us to access certain information about you via a social networking site (SNS); or
+  * Post user-generated content, including comments, to or on any of our Services.
 
-2\. Ask us to consider any valid objections which you have to our use of your personal information where we process your personal information on the basis of our, or another person’s, legitimate interest.
 
-You can find out more information in YOUR RIGHTS section 10.
 
-**F. WHAT YOU NEED TO DO AND YOUR CONFIRMATION TO US:** Please read this privacy policy carefully to understand how we handle your personal information.
+#### Automatically-collected information
 
-**THE DETAIL**
+_Device/usage information_
 
-**WHO WE ARE**  
-We are TEN: Publishing Media, LLC, registered in the United States of America with offices at 27200 Riverview Center Boulevard, Suite 200, Bonita Springs, FL 34134, United States of America (“TEN”) and we are the data controller of the personal information that we collect from you.
+We may automatically collect certain information about the computer or devices (including mobile devices) you use to access the Services. For example, we may collect and analyze information such as (a) IP addresses, geolocation information (as described in the next section below), unique device identifiers and other information about your mobile phone or other mobile device(s), browser types, browser language, operating system, the state or country from which you accessed the Services; and (b) information related to the ways in which you interact with the Services, such as: referring and exit pages and URLs, platform type, the number of clicks, domain names, landing pages, pages and content viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services, the frequency of your use of the Services, error logs, and other similar information. As described further below, we may use third-party analytics providers and technologies, including cookies and similar tools, to assist in collecting and analyzing this information.
 
-You can contact us in relation to this privacy policy by e-mail to our Data Protection Officer at [privacypolicy@enthusiastnetwork.com](mailto:privacypolicy@enthusiastnetwork.com).
+We may also capture other data, such as search criteria and results. In some cases, we will associate this information with a unique identifier for our internal use.
 
-**CHILDREN**  
-We do not and will not knowingly collect information from any unsupervised child under the age of 13. If you are under the age of 13, you may not use the Services unless your parent or guardian has provided us with their consent for your use of the Services.
+_Location information_
 
-**THE PERSONAL INFORMATION WE COLLECT ABOUT YOU**
+We may collect different types of information about your location, including general information (e.g., IP address, zip code) and more specific information (e.g., GPS-based functionality on mobile devices used to access the Services), and may use that information to customize the Services with location-based information, advertising, and features. By using our Services, you consent to the collection of location information.
 
-_**INFORMATION THAT YOU SHARE WITH US**_
+If you access the Services through a mobile device and you do not want your device to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. See your device manufacturer’s instructions for further details.
 
-When you make an account and log in to access and browse the Services, we collect the following information from you:
+_Cookies and Local Stored Objects_
 
-• Your name;
+To enhance your experience on our Services, we place "cookies" on your computer or device. Cookies are small text files that we place in your computer or device to store your preferences. Other information you provide to us may be linked to the data stored in the cookie. A cookie assigns a unique numerical identifier to your Web browser or device, and may enable us to recognize you as the same user who has used our Services, and relate your use of the Services to other information about you.
 
-• Your e-mail address;
+We use session and performance cookies to provide you with the services you request and to improve your experience with our Services. For example, we use cookies to personalize your experience on our Services (e.g., to recognize you by name when you return to our site, to save your password in password-protected areas, to enable shopping carts, or to tailor content or product and service offerings). Other cookies are essential to ensure the security and operation of our Services.
 
-• If provided by you, your date of birth;
+We also use cookies (and Local Shared Objects, HTML5, cache cookies, web beacons, or clear gifs, all described further below) to understand usage of the Services, analyze traffic, and to improve our content and offerings.
 
-• If provided by you, your gender;
+Some third parties, such as Google, may place cookies on your browser when you use our Services in order to track your activity across websites and to provide you advertisements tailored to your interests and online activities. For more information on how to opt out of Online Behavioral Advertising, see the Exercising Choice section below. For our European based users, we only place or allow tracking cookies to be placed on your browser with your consent.
 
-• Any e-mail communications, including attachments, which you send to us;
+Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser.
 
-• Where you are purchasing Services from us, your payment information including billing address; bank account and payment card details and information about the transactions such as the products or Services purchased;
+_Information from third parties_
 
-• Profile data including your username and password for registering an account, your profile avatar, purchases or orders made by you, you interests and preferences; and
+We may obtain additional information about you from third parties such as marketers, partners, researchers, and others. We may combine information that we collect from you with information about you that we obtain from such third parties and information derived from any other subscription, product, or service we provide.
 
-• Your preferences in receiving marketing from us and our third parties and your communication preferences.
+_Aggregate or de-identified data_
 
-• When you access and browse the Services without creating an account or logging into an account and contact us, we collect any e-mail communications, including attachments, which you send to us.
+We may aggregate and/or de-identify information collected by the Services or via other means so that the information is not intended to identify you. Our use and disclosure of aggregated and/or de-identified information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any purpose.
 
-_**INFORMATION FROM YOUR ONLINE INTERACTIONS**_
+#### 2\. HOW WE USE THE INFORMATION COLLECTED
 
-We collect the following information from your interaction with the Services:
+In general, we use the personally identifiable information that we collect to provide you with the services, including the following based on our legitimate interests:
 
-How you access our Services and the devices that you use to access our Services. This includes collecting unique online identifiers such as IP address and your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this Services; and
+  * To send you information about your relationship or transactions with us;
+  * To send you alerts or other communications via SMS messages or other media or networks;
+  * To notify you about new features of the Services, special events, or products, services, and special offers;
+  * To administer sweepstakes and contests;
+  * To process and respond to your inquiries;
+  * To contact you with information that we believe will be of interest to you;
+  * To attribute content to you that you make available through the Services (such as comments you post);
+  * To generate and review reports and data about our user base and Service usage patterns;
+  * To perform analytics and research aimed at improving the accuracy, effectiveness, usability, or popularity of the Services;
+  * To improve the content and features of the Services or develop new Services;
+  * To allow us to personalize the content and advertising that you see on the Services and to understand how users interact with and use our advertisements and Services;
+  * To enforce the legal terms that govern your use of the Services;
+  * To administer and troubleshoot the Services; and
+  * To associate your activities, customize content or tailor advertising across different devices and browsers that you use to access the Services (for instance, computers, tablets, mobile devices, applications and websites).
 
-Information about how you use the Services, including but not limited to your video consumption and playback, sign-in and sign-out, playback error and browsing information.
 
-_**THIRD PARTIES OR PUBLICLY AVAILABLE SOURCES**_
 
-We may receive personal information about you from various third parties as set out below:
+#### 3\. HOW WE MAY SHARE YOUR INFORMATION
 
-If you log into the Services through a third-party account such as Facebook, we will collect certain information relating to your account with those third parties (including your name, profile image, age group, gender and other information available on your public profile), your date of birth and your e-mail address. You can manage the information data which is shared by such third parties with us by amending your preferences through using the privacy settings which these third parties provide on their platforms;
+We will make your information available to other companies, websites, applications or people with your consent, or consistent with our legitimate interests, in the circumstances described below:
 
-Technical data from the following parties:
+  * We may rent, sell, or share your information with non-affiliated third parties: (a) in order to provide services or products that we believe may be of interest to you; (b) when we have your permission; or (c) as described in this Privacy Policy.
+  * We may share your information with our agents or companies in order to provide the Services or advertising or to communicate with you on our behalf.
+  * When you sign up to participate in a contest or sweepstakes, your information may also be provided to our sweepstakes or contest advertisers, operators, and/or sponsors and the use of that information will be also governed by the privacy policies or practices of those advertisers, operators, and/or sponsors.
+  * We may disclose your information in response to any subpoenas, court orders, or other legal process we receive, or to establish or exercise our legal rights or to defend against legal claims.
+  * We may share your information with third-parties with whom we have a contractual relationship, including without limitation third-party advertisers and advertising networks.
+  * We may disclose your information when we believe in good faith that such disclosure is appropriate in order to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Privacy Policy or the Terms of Service for the Services you accessed, and/or to protect our rights and property, and the rights and property of our employees, users and the public. This may involve sharing your information with law enforcement, government agencies, courts, and/or other organizations.
+  * We may share your information in connection with any proposed or actual merger, reorganization, transfer of control, a sale of some or all of our assets, or a financing or acquisition of all or a portion of our business by another company.
+  * We may aggregate and/or de-identify your information so that the information no longer relates to you individually. Our use and disclosure of such aggregated or de-identified information is not subject to this Privacy Policy, and may be disclosed to others without limitation and for any purpose.
 
-• Analytics providers based inside and outside the US and EU, such as [e.g. Adobe Analytics and Google Analytics];
 
-• Advertising networks based inside and outside the US and EU, such as [e.g. Facebook Audience Network]; and
 
-• Search information providers, based inside and outside the US and EU, such as [e.g. Adobe Audience Manager].
+#### 4\. EXERCISING CHOICE
 
-For further information about how each of these parties collect and use your data, please see the ‘Third-Party advertising companies’ section below;
+**Promotional Emails**
 
-Contact, financial and transaction data from providers of technical, payment and delivery services;
+You may opt-out from receiving future promotional emails from us, or direct that we not share your information with any Affiliated Companies, by clicking the "unsubscribe" button that appears on our promotional e-mails. Please refer to the settings or options menu in your email client for more information. You can remove yourself from our postal mailings by emailing us at [privacy@amilink.com](mailto:privacy@amilink.com). You can also remove yourself by contacting us as described in the "How to Contact Us" section below.
 
-Identity and contact data from data brokers, aggregators and publicly availably sources; and
+**Online Behavioral Advertising**
 
-Third parties that provide certain services to us within the Services, for example, facilitating and administering customer feedback forms, newsletter subscriptions and competitions.
+When you use the Services, we may serve you with ads based on various factors such as the content of the page you are visiting, information you provide such as your age or gender, your searches, demographic data, user-generated content and other information that you provide to us.
 
-**HOW WE STORE AND USE YOUR PERSONAL INFORMATION**
+Some of the services and advertisements are delivered or served by third-party companies. These companies place or recognize cookies, pixel tags, web beacons or other technology to track certain information about our Services website users. For example, in the course of serving certain advertisements, an advertiser may place or recognize a unique cookie on your browser in order to collect certain information about your use of the Services. For another example, an advertiser or ad server may also be able to collect your device’s unique identifier in the course of serving an ad. In many cases, this information could be used to show you ads on other websites based on your interests.
 
-We store and use your personal information for the following reasons:
+We do not have access to, nor control over, these third parties' use of cookies or other tracking technologies or how they may be used.
 
-• It is necessary in order for us to fulfil a contract that we have with you;  
-• It is required in our legitimate interests;  
-• It is required in order for us to comply with our legal obligations; or  
-• It is permitted because you have provided your consent to us.
+For example, we use Google to serve advertisements on the Services, which use the Google Doubleclick cookie, and in some cases, a unique device identifier, to show you ads based on your visit to our websites and other sites on the Internet. You may opt out of the use of the Google Doubleclick cookie by visiting the _[Google ad and content network privacy policy](https://adssettings.google.com/)_.
 
-Where we need to collect personal information by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (in this case, to provide you with the Services). In this case, we may have to cancel the Services but we will notify you if this is the case at the time.
+If you would like more information about this practice, and to learn how to opt out of behavioral advertising on the particular device on which you are accessing this Privacy Policy, please visit _<http://optout.aboutads.info/#/>_ and _[http://optout.networkadvertising.org/#](http://optout.networkadvertising.org/)_. You may download the AppChoices app at _<http://www.aboutads.info/appchoices>_ to opt out in mobile apps.
 
-_**NECESSARY FOR US TO FULFIL OUR CONTRACT WITH YOU**_
+Please note that the opt out is cookie-based and will only affect the specific computer and browser on which the opt out is applied. If you delete your browser cookies and want to continue to be opted out of interest-based ads, you will need to opt out again.
 
-We collect, store and use your personal information including your name, e-mail address, payment details, postal address and information about how you use and access the Services because it is necessary in order to provide the Services requested by you pursuant to the contract made between you and us when you agreed to our Terms of Use. This includes:
+For more information about how we use cookies please visit our [Cookie Policy](https://www.americanmediainc.com/cookie-policy).
 
-• Making the Services available to you;  
-• Providing any Services that you request;  
-• Administering the Services;  
-• Provide personalised recommendations and content within the Services by collecting data about you in order to build a profile of your preferences based on your activity when you use the Services. The Services cannot be provided to you without this profiling. If you wish to object to this profiling, we may not be able to provide the Services to you and you should not use or access the Services;  
-• Service and account administration requirements such as where we need to contact you for reasons related to the Services (for example, where we need to send you a password reminder, to notify you about Services updates or amendments to our Terms of Use, Cookie Policy or this privacy policy); and  
-• Where you are purchasing Services from us, process your payment (including but not limited to using third party service providers to process such payment).  
-If you have entered into a promotion or competition on the Services, then, pursuant to the promotion and/or competition terms and conditions provided to you at the time of entry, we will use your contact details (such as e-mail address or postal address) to administer your entry and inform you if you have won a prize.
+#### Precise Device Location Tracking
 
-_**OUR LEGITIMATE INTERESTS**_  
-Sometimes, our use of your personal information is for purposes which are ancillary to the provision of the Services. In those circumstances, we believe we have a legitimate interest in handling your personal information, and believe that the benefits of this storage and use of your personal information will outweigh any potential impact on you and not unduly prejudice your rights or freedoms. The relevant circumstances are:
+If you authorized us and/or our service providers to collect and/or share information about the precise location of your device through a mobile application, you can always withdraw your consent and prevent the further collection and sharing of your precise device location information by accessing your devices location privacy settings. Each operating system, iOS for Apple devices, Android for Android devices and Windows for Microsoft devices, provides its own instructions on how to turn off precise location sharing. Access the privacy settings for your mobile device or contact your platform operator for more information.
 
-• Detecting and preventing fraud;  
-• Keeping our Services, products and IT systems secure;  
-• Ensuring that our own processes, procedures and systems are as efficient as possible;  
-• Analysing and enhancing the information that we collect;  
-• Analysing your video consumption, playback and general viewing habits in order to understand viewership and update and improve our Services, including but not limited to our content, features, scheduling, technology and products;  
-• Determining the effectiveness of our promotional campaigns and advertising;  
-• To use IP addresses and device identifiers to identify the location of users and block any unauthorised users;  
-• Deal with your enquiries and requests (for example if you were to call customer services to ask for help and assistance then we would need to process your contact details);  
-• Suggest similar products to you that you may be interested in and to understand which products appeal to our customers; and  
-• If you have paid for your use of the Services, for marketing purposes, we may contact you by email with products and Services which we think may interest you (for more information, please see the MARKETING section below); and  
-• Where you have opted out of our marketing or objected to receiving e-mails from us, then we need to keep records of your preferences to ensure that we do not contact you if you have asked us not to.
+#### 5\. CALIFORNIA PRIVACY RIGHTS
 
-If we rely on our (or another person’s) legitimate interests for using your personal information, we will undertake a balancing test to ensure that our (or the other person’s) legitimate interests are not outweighed by your interests or fundamental rights and freedoms which require protection of the personal information. You can ask us for information on this balancing test by using the contact details in the CONTACT section.
+If you are a California Consumer, you have certain rights with respect to the collection, use, transfer, and processing of your “Personal Information”, as defined by the California Consumer Privacy Act (CCPA). We reserve the right to limit these rights where permitted under applicable law, including where your identity cannot be reasonably verified or to the extent your rights adversely affect the rights and freedoms of others. To exercise any of the rights below, please contact us via the contact information below. Only you or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verifiable consumer request related to your personal information.
 
-_**WHEN YOU HAVE PROVIDED CONSENT TO US**_
+#### Collection of Personal Information
 
-Where you have given us your consent (either by paying for use of a Service and/or providing consent otherwise), we will contact you by e-mail and/or text message with products and Services which we think may interest you. For more information, please see the MARKETING section below.
+When California Consumers access our websites, use our services, or contact us, we collect the following Personal Information.
 
-If we rely on your consent for us to use your personal information in a particular way, but you later change your mind, you may withdraw your consent by contacting our Data Protection Officer at [privacypolicy@enthusiastnetwork.com](mailto:privacypolicy@enthusiastnetwork.com) and we will stop doing so.
-
-_**FOR LEGAL REASONS**_
-
-We will use your personal information in order to comply with our legal obligations. These obligations include:
-
-• If you have a paid subscription to use the Services and live in the European Union (the “EU”), we are legally required to allow you and you are legally entitled to watch the Services when you’re visiting another country in the EU provided that we have verified your country of residence. We verify your country of residence using your IP address and payment information or, if you are a resident in Sweden, by your billing address;]  
-• Us complying with our legal obligations; and  
-• If we are asked by regulatory bodies or law enforcement agencies to share your personal information with them.
-
-_**ANONYMOUS DATA**_
-
-We collect anonymised details about visitors to our website for the purposes of aggregate statistics or reporting purposes. However, no single individual will be identifiable from the anonymised details we collect for these purposes.
-
-_**MARKETING**_
-
-_Marketing From Us_  
-We may use your name, contact details, technical, usage and profile data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you.  
-You will receive marketing communications from us if you have requested information from us, or purchased a subscription for the Services from us, or if you provided us with your details when you entered a competition or registered for a promotion, and, in each case, you have not opted out from receiving that marketing.
-
-_Third-Party Marketing_  
-For those EU-based users only, we will get your express opt-in consent before we share your personal information with any company outside our group of companies for marketing purposes.
-
-_Opting Out_  
-We want to provide you with choices regarding certain personal information uses, particularly around marketing and advertising. You can change your choices at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences in your settings. Depending on the type of user experience, we have established certain personal information control mechanisms such as accessing and adjusting account settings, or by following the opt-out links on any marketing message sent to you, or by contacting us at any time, or by emailing our Data Protection Officer at [privacypolicy@enthusiastnetwork.com](mailto:privacypolicy@enthusiastnetwork.com).
-
-You can ask us or third parties to stop sending you marketing messages at any time. You can change your choices at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences in your settings. Depending on the type of user experience, we have established certain personal information control mechanisms such as accessing and adjusting account settings, or by following the opt-out links on any marketing message sent to you, or by contacting us at any time, or by emailing our Data Protection Officer at [privacypolicy@enthusiastnetwork.com](mailto:privacypolicy@enthusiastnetwork.com).
-
-Where you opt out of receiving these marketing messages, this will not apply to personal information provided to us as a result of a product/service purchase, product/service experience or other transactions. Therefore, you will continue to receive essential messages about the functionality and/or administration of our Services (for example, as mentioned above, where we need to send you a password reminder, to notify you about Services updates or amendments to legal terms).
-
-**_THIRD-PARTY ADVERTISING COMPANIES_**  
-We want to make sure that our advertising and marketing is relevant and interesting to you and our other users. To achieve this, we use third-party advertising and technology companies to serve ads and/or provide aggregated data to assist in serving ads when you visit or use our Services. This includes third party technology companies which collect data about you in order to build a profile of your preferences based on your activities when you visit or use our Services. We also use these companies to automatically collect data from you when you use our Services in order to help us identify the ads that are served to you and what you do after seeing those ads. In addition, we also share data with providers of web analytics tools, such as Google Analytics, to which we use to analyse your use of the Services.
-
-These third party advertising companies collect, store and use data by integrating cookies and other tracking software on our Services. Please see our [Cookie Policy](http://enthusiastnetwork.com/cookie-policy) for further information. In some cases these third parties will also use the data that they collect for their own purposes, for example they may: aggregate your data with other data they hold and use this to inform advertising related services provided to other clients; and work with other advertising companies and share your personal information with such companies as part of the process.
-
-Please see our [Cookie Policy](http://enthusiastnetwork.com/cookie-policy) for more information on the third party advertising companies which collect, use and store data about you, and the use of cookies and other tracking technologies on our Services. From our [Cookie Policy](http://enthusiastnetwork.com/cookie-policy) you can also find out how to exercise control over this collection and use of data. If you choose to restrict or prevent tracking for these purposes then the advertising you see when you visit or use our Services will no longer be tailored to your preferences.
-
-We might also share your data with social media or other similar platforms, so that you and other people can see relevant content on that platform. For example, we may use the Facebook Custom Audiences service and share your email address in a protected format with Facebook so that we can: include you in a custom audience that we will serve relevant advertising content to on Facebook; or create an audience of other Facebook users based on the information in your Facebook profile.
-
-**HOW WE SHARE YOUR PERSONAL INFORMATION AND WHO WE SHARE IT WITH**  
-We disclose information under the following circumstances:
-
-_**THIRD-PARTY SERVICE PROVIDERS:**_ When we share information with third-party service companies to facilitate or to provide certain services on our behalf. This will include:
-
-• IT infrastructure companies that facilitate our provision of the Services to you;  
-• IT support service providers; and  
-• Other third-party service providers, for the purpose of providing or tracking our customers’ use of the Services (including but not limited to payment processors).  
-These companies are authorised to use your personal information only as necessary to provide these Services to us.
-
-_**GROUP COMPANIES:**_ We may provide your personal information to our subsidiaries or affiliated companies for the purpose of processing personal information on our behalf to provide the Services to you. These parties are required to process such information based on our instructions and in accordance with this privacy policy. They do not have any independent right to share this information.
-
-_**COMPLIANCE WITH LAWS AND LEGAL PROCEEDINGS:**_ When we respond to court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. When we believe in our sole discretion it is necessary to share information in order to investigate, prevent or take actions against illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Use, or as otherwise required by law.
-
-_**MERGER OR ACQUISITION:**_ When we need to transfer information about you if we are acquired by or merged with another company. If we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified afterwards via e-mail and/or a prominent notice on our Services of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
-
-**INTERNATIONAL TRANSFERS**  
-If you are located outside of the United States then we will transfer personal information that we collect from you to third party data processors located in countries that are outside of the European Economic Area (“EEA”) (including to the US) or to members of our group of companies in connection with the above purposes. Please be aware that countries which are outside the EEA may not offer the same level of data protection as the EEA, although our collection, storage and use of your personal information will continue to be governed by this privacy policy. If you are located outside of the US, please be aware that information we collect will be transferred to and processed in the US. By using the Services or providing us with any information, you consent to this transfer and processing of your information in the US.
-
-When transferring personal information of an EU resident outside the EEA, we will:
-
-• include the standard contractual data protection clauses approved by the European Commission for transferring personal information outside the EEA into our contracts with those third parties (these are the clauses approved under Article 46.2 of the General Data Protection Regulation (“GDPR”); or  
-• ensure that the country in which your personal information will be handled has been deemed “adequate” by the European Commission under Article 45 of the GDPR; or  
-• (where appropriate when we are transferring your personal information to a recipient in the US) ensure that the recipient is part of the Privacy Shield which requires them to provide similar protection to any personal information shared between Europe and the US.
-
-You can find out further information about the rules on data transfers outside the EEA, including the mechanisms that we rely upon, on the European Commission website [here](https://ec.europa.eu/info/strategy/justice-and-fundamental-rights/data-protection_en).
-
-**COOKIE AND SIMILAR TECHNOLOGIES**  
-Technologies such as cookies, beacons, tags and scripts are used by us and our partners, affiliates, or analytics or service providers. These technologies are used in analysing trends, administering the Services, tracking users’ movements around the Services and to gather demographic information about our user base as a whole. We receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use cookies, for example, to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Services, but your ability to use some features or areas of our Services may be limited.
-
-Please read more about how we use cookies and what information is collected using cookies in our **Cookie Policy here**.
-
-PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
-
-**SECURITY**  
-Whilst we take appropriate technical and organisational measures to safeguard the personal information that you provide to us, no transmission over the Internet can ever be guaranteed secure. Consequently, please note that we cannot guarantee the security of any personal information that you transfer over the Internet to us.  
-We are committed to protecting your personal information using appropriate technical and operational measures such as access controls that restrict and manage the ways in which your personal information is stored and handled.
-
-**DATA RETENTION**  
-We will retain information (including personal information) for as long as we need to use it for the reasons set out in the privacy policy and will delete it after that time except where we need to keep any personal information to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-We may delete your personal information (including any account that you set up to use on the Services) if you do not use the Services in a certain time period pursuant to the specific Service.
-
-In some circumstances, we may anonymise your personal information (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
-
-**YOUR RIGHTS**  
-You have certain rights in relation to your personal information. If you would like further information in relation to these or would like to exercise any of them, please contact our Data Protection Officer at [privacypolicy@enthusiastnetwork.com](mailto:privacypolicy@enthusiastnetwork.com) at any time. You have the right to request that we:
-
-• Provide access to any personal information we hold about you;  
-• Update any of your personal information which is out of date or incorrect;  
-• Delete any personal information which we are holding about you;  
-• Restrict the way that we process your personal information;  
-• Prevent the processing of your personal information for direct-marketing purposes;  
-• Provide your personal information to a third party provider of services;  
-• Provide you with a copy of any personal information which we hold about you; or  
-• Consider any valid objections which you have to our use of your personal information.
-
-We will consider all such requests and provide our response within a reasonable period (and in any event within any time period required by applicable law). Please note, however, that certain personal information may be exempt from such requests in certain circumstances.
-
-If an exception applies, we will tell you this when responding to your request. We may request you provide us with information necessary to confirm your identity before responding to any request you make.
-
-If we delete any personal information which we are holding about you, this deletion may only relate to the Services and not any other service provided by us in other jurisdictions. You should make requests for each account that you may have set up to access the Services or any other service provided by us.
-
-**THIRD PARTY SITES**  
-The Services contain links and pages to other websites operated by third parties. Please note that this privacy policy applies only to the personal information that we collect through the Services and we cannot be responsible for personal information that third parties may collect, store and use through their website. You should always read the privacy policy of each website you visit carefully.
-
-**DISPUTE RESOLUTION**  
-In the event of any controversy, claim or dispute (“dispute”) related to or arising out of your use of the Services, other than disputes related to or involving our intellectual property or our licensed intellectual or proprietary rights, you and TEN mutually agree to the following dispute resolution procedure:
-
-• The parties will first attempt in good faith to resolve any dispute by informal negotiation. The informal negotiation period will begin when the party asserting the dispute sends a written notice to the other party describing the facts and circumstances of the dispute. If, after sixty (60) days from the date the notice of dispute is sent, the parties have been unable to resolve the dispute, either party may commence binding arbitration. The parties may agree to extend the informal dispute resolution period by mutual written agreement.
-
-• If the parties are unable to resolve the dispute through informal negotiation, you and TEN agree that exclusive jurisdiction for the dispute shall be binding arbitration before one arbitrator to be mutually agreed upon by both parties. If the parties cannot agree on the selection of an Arbitrator, they shall each select one Arbitrator from the list of qualified JAMS arbitrators and those two Arbitrators shall select the person who shall serve as the Arbitrator for such dispute. Arbitration shall be initiated in the New York, N.Y., area and shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures. Judgment on any potential award may be entered in any court having jurisdiction. BY USING THE SITES, YOU ARE HEREBY GIVING UP YOUR RIGHT TO LITIGATE A DISPUTE IN COURT BEFORE A JUDGE OR JURY. Unless the arbitrator concludes that the arbitration was frivolous or brought for an improper purpose, we will pay all filing, JAMS, and arbitrator’s fees and expenses.
-
-• ALL DISPUTES SHALL BE RESOLVED ON AN INDIVIDUAL BASIS. Neither party shall have the right to have a dispute heard as a class action and no arbitration or proceeding can be combined with another without the prior written consent of all parties to the proceeding.
-
-**CHOICE OF LAW; CHOICE OF FORUM**  
-This privacy policy has been made in and shall be construed in accordance with the laws of the State of Maryland, without giving effect to any conflict of law principles.
-
-The parties acknowledge that this policy evidences a transaction involving interstate commerce. Notwithstanding the provision in the preceding paragraph with respect to applicable substantive law, any arbitration conducted pursuant to the terms of this Policy shall be governed by the Federal Arbitration Act (9 U.S.C. §§ 1-16).
-
-By using the Sites, you agree that the exclusive jurisdiction for any dispute not subject to the arbitration provision discussed above shall be the state and federal courts located in Maryland.
-
-**YOUR CALIFORNIA PRIVACY RIGHTS**  
-Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. To make such a request, please contact us: TEN: PUBLISHING MEDIA | 27200 Riverview Center Boulevard, Suite 200, Bonita Springs, FL 34134 | Email: [privacypolicy@enthusiastnetwork.com](mailto:privacypolicy@enthusiastnetwork.com).
-
-We do not support Do Not Track browser settings and do not currently participate in any “Do Not Track” frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information.
-
-**CHANGES TO THIS PRIVACY POLICY**  
-Please check back regularly to keep informed of updates to this privacy policy. Where we make significant changes to this privacy policy, and we have your e-mail address, we will send you notification of the changes.
-
-**CONTACT, COMPLAINTS, QUESTIONS AND SUGGESTIONS**  
-We have a Data Protection Officer that can assist with all queries regarding our processing of personal information. Our Data Protection Officer can be contacted by e-mailing [privacypolicy@enthusiastnetwork.com](mailto:privacypolicy@enthusiastnetwork.com).
-
-If you have any complaints about our Services, please contact us at:  
-27200 Riverview Center Boulevard, Suite 200, Bonita Springs, FL 34134  
-Email: [privacypolicy@enthusiastnetwork.com ](mailto:privacypolicy@enthusiastnetwork.com) In the EEA, you may also make a complaint to the supervisory body for data protection matters (the Information Commissioner’s Office in the UK) or seek a remedy through local courts if you believe your rights have been breached.
-
-You have the right to lodge a complaint with local data protection authorities in the EEA if you believe we have not complied with applicable data protection laws. The local authority differs depending on the country. Please see the Annex for your local data protection authority.
-
-All information you provide in any written communication will also be covered by this policy.
-
-Effective: May 25, 2018. © TEN: PUBLISHING MEDIA, LLC. All Rights Reserved.
-
-* * *
-
-**ANNEX  
-List of Data Protection Authorities (EEA Countries)**
-
-For those residing in the EU, you have the right to lodge a complaint with local data protection authorities in the EEA if you believe we have not complied with applicable data protection laws.
-
-The local authority differs depending on the country. Please see below for details of the local data protection authorities in the EEA countries in which we operate.  
-
-
-Country | Data Protection Authority  
----|---  
-Denmark | **Datatilsynet**  
-Borgergade 28, 5  
-1300 Copenhagen K  
-Tel. +45 33 1932 00  
-Fax +45 33 19 32 18  
-e-mail: [dt@datatilsynet.dk](mailto:dt@datatilsynet.dk)  
-Website: <http://www.datatilsynet.dk/>  
-Finland | **Office of the Data Protection Ombudsman**  
-P.O. Box 315  
-FIN-00181 Helsinki  
-Tel. +358 10 3666 700  
-Fax +358 10 3666 735  
-e-mail: [tietosuoja@om.fi](mailto:tietosuoja@om.fi)  
-Website: <http://www.tietosuoja.fi/en/>  
-Germany | **Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit  
-Husarenstraße 30**  
-53117 Bonn  
-Tel. +49 228 997799 0; +49 228 81995 0  
-Fax +49 228 997799 550; +49 228 81995 550  
-e-mail: [poststelle@bfdi.bund.de](mailto:poststelle@bfdi.bund.de)  
-Website: <http://www.bfdi.bund.de/> The competence for complaints is split among different data protection supervisory authorities in Germany.  
-Competent authorities can be identified according to the list provided under  
-<https://www.bfdi.bund.de/bfdi_wiki/index.php/Aufsichtsbeh%C3%B6rden_und_Landesdatenschutzbeauftragte>  
-Netherlands | **Autoriteit Persoonsgegevens**  
-Prins Clauslaan 60  
-P.O. Box 93374  
-2509 AJ Den Haag/The Hague  
-Tel. +31 70 888 8500  
-Fax +31 70 888 8501  
-e-mail: [info@autoriteitpersoonsgegevens.nl](mailto:info@autoriteitpersoonsgegevens.nl)  
-Website: <https://autoriteitpersoonsgegevens.nl/nl>  
-Norway | **Datatilsynet**  
-Postboks 8177 Dep.  
-0034 Oslo  
-Tel: +47 22 39 69 00  
-e-mail: [postkasse@datatilsynet.no](mailto:postkasse@datatilsynet.no)  
-Website: <https://www.datatilsynet.no/English/>  
-Spain | **Agencia de Protección de Datos**  
-C/Jorge Juan, 6  
-28001 Madrid  
-Tel. +34 91399 6200  
-Fax +34 91455 5699  
-e-mail: [internacional@agpd.es](mailto:internacional@agpd.es)  
-Website: <https://www.agpd.es/>  
-Sweden | **Datainspektionen**  
-Drottninggatan 29  
-5th Floor  
-Box 8114  
-104 20 Stockholm  
-Tel. +46 8 657 6100  
-Fax +46 8 652 8652  
-e-mail: [datainspektionen@datainspektionen.se](mailto:datainspektionen@datainspektionen.se)  
-Website: <http://www.datainspektionen.se/>  
-UK | **The Information Commissioner’s Office**  
-Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF  
-Tel. +44 1625 545 745  
-e-mail: [international.team@ico.org.uk](mailto:international.team@ico.org.uk)  
-Website: [https://ico.org.uk](https://ico.org.uk/)  
+**Categories of consumer’s Personal Information collected** |  **Examples** |  **Business or commercial purposes for which the information was collected** |  **Categories of sources from which that information was collected** |  **Categories of third parties with whom the business shares personal information**  
+---|---|---|---|---  
   
-Updated May 25, 2018
+Identifiers
+
+| 
+
+Real Name, Alias, Post Address, Email, Phone number, Date of Birth, and Account Name.
+
+| 
+
+Provide you with access to our content.
+
+Provide you with the services you request.
+
+Communicate with you regarding your account or transactions with us.
+
+Send you offers and promotions for our products and services.
+
+| 
+
+This information is collected directly from you.
+
+| 
+
+Affiliates, analytics providers, service providers, transactions processors, IT vendors, and law enforcement (if necessary).  
+  
+Financial Information
+
+| 
+
+Credit Card Number
+
+| 
+
+Process your transactions.
+
+| 
+
+This information is collected directly from you.
+
+| 
+
+Affiliates, analytics providers, service providers, transactions processors, IT vendors, and law enforcement (if necessary).  
+  
+Commercial Information
+
+| 
+
+Subscriptions purchased
+
+| 
+
+Process your transactions.
+
+Provide you with access to our content.
+
+| 
+
+This information is collected directly from you or by logging our interactions with you.
+
+| 
+
+Affiliates, analytics providers, service providers, transactions processors, IT vendors, and law enforcement (if necessary).  
+  
+Internet or Electronic Network Activity Information
+
+| 
+
+Browsing history,
+
+information regarding a consumer’s interaction with an Internet Web site, application, or advertisement,
+
+internet Protocol address, device ID,
+
+cookies, beacons, pixel tags, mobile ad Identifiers.
+
+| 
+
+Provide you with targeted advertising based on your activity on our sites.
+
+Operate, understand, optimize, develop, or improve our sites, applications, products, services and operations.
+
+Detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity.
+
+Debugging to identify and repair errors that impair existing intended functionality.
+
+Investigate and prevent activities that may violate our policies.
+
+| 
+
+We collect your internet or other electronic network activity information from your interactions with our website.
+
+| 
+
+Affiliates, analytics providers, service providers, transactions processors, IT vendors, and law enforcement (if necessary).  
+  
+Geolocation Data
+
+| 
+
+Location information,
+
+device location information
+
+| 
+
+Provide you with access to our content.
+
+Provide you with the services you request.
+
+| 
+
+We collect your geolocation information from your interactions with our website.
+
+| 
+
+Affiliates, analytics providers, service providers, transactions processors, IT vendors, and law enforcement (if necessary).  
+  
+**_In the preceding 12 months, we have not sold Personal Information about consumers._**
+
+**_In the preceding 12 months, we have not sold Personal Information about minors._**
+
+#### Individual Rights
+
+_Right to Know About Personal Information Collected, Disclosed, or Sold_
+
+You have the right to request that we disclose the Personal Information it collects, uses, and discloses about you to third parties. There are two types of Right to Know requests you can make:
+
+  1. Right to Know (Abbreviated Request): If you make a Right to Know (Abbreviated Request), you will receive the following information about you:  
+
+    1. Category of personal information collected,
+    2. Categories of sources from which that information was collected,
+    3. The business or commercial purpose(s) for which the information was collected,
+    4. The categories of third parties to whom we sold or disclosed the category of personal information for a business purpose, and
+    5. The business or commercial purpose for which we sold or disclosed the category of personal information.
+  2. Right to Know (Specific Pieces of Information Request): If you make a Right to Know (Specific Pieces of Information Request), you will receive the following information about you:  
+
+    1. Specific pieces of Personal Information collected about you.
+
+
+
+We do not sell any Personal Information of California consumers. This information will be provided to you free of charge, unless we determine that your request is manifestly unfounded or excessive. You may request this information twice in a 12-month period.
+
+_Right of Deletion_
+
+You have the right to request that our service providers and we delete any Personal Information about yourself that we have collected from you upon receipt of a verifiable request. This right is subject to exceptions.
+
+_Submitting Requests_
+
+You can submit your request by calling us at **1 (888) 914-9661**. You may also submit a request through a webform available by emailing us at [privacy@amilink.com](mailto:privacy@amilink.com).
+
+_Verifying Requests_
+
+We provide California Consumers with the ability to submit requests through our request website, our telephone number, and our email address. We must verify that the person requesting information or deletion is the California Consumer about whom the request relates in order to process the request. To verify a California Consumer’s identity, we may request up to up to three pieces of Personal Information about you when you make a request to compare against our records. We cannot respond to your request or provide you with Personal Information if we cannot verify your identity. Making a verifiable consumer request does not require you to create an account with us. We will only use Personal Information provided in your request to verify your identity and will delete any information you provide after processing the request. We reserve the right to take additional steps as necessary to verify the identity of California Consumers where we have reason to believe a request is fraudulent.
+
+_Authorized Agent_
+
+You may choose a person registered with the California Secretary of State that you authorize to act on your behalf to submit your requests (“Authorized Agent”). If you choose to use an Authorized Agent, we require that you provide the Authorized Agent with written permission to allow them to submit your request and that you verify your identity directly with us. Failure to do so may result in us denying your request.
+
+_Right to Equal Service_
+
+We will not discriminate against you because you exercised any of your rights, including, but not limited to, by:
+
+  * Denying goods or services to you.
+  * Charging different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties.
+  * Providing a different level or quality of goods or services to you.
+  * Suggesting that you will receive a different price or rate for goods or services or a different level or quality of goods or services.
+
+
+
+#### DO NOT TRACK 
+
+Our Sites and Services do not collect personal information about your online activities over time and across third-party websites or online services. Therefore, “do not track” signals transmitted from web browsers do not apply to our Sites or Services, and we do not alter any of our data collection and use practices upon receipt of such a signal.
+
+#### SHINE THE LIGHT
+
+Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law (if any) during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at: [privacy@amilink.com](mailto:privacy@amilink.com) with the subject heading “California Privacy Rights.”
+
+#### 7\. ACCESSING AND UPDATING YOUR INFORMATION
+
+You may contact us as at [privacy@amilink.com](mailto:privacy@amilink.com) if you have questions or comments about our Privacy Policy; wish to make corrections to any personally identifiable information you have provided; want to opt-out from receiving future commercial correspondence, including emails, from us or our Affiliated Companies; or wish to withdraw your consent to sharing your personally identifiable information with others.
+
+We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Services.
+
+#### 8\. USERS LOCATED IN THE EEA AND SWITZERLAND
+
+If you are a user in the EEA or Switzerland, the following information applies with respect to personal data collected through your use of our Services.
+
+#### Purposes of processing and legal basis for processing 
+
+We process personal data consistent with our disclosures in this Privacy Policy. We process personal data on the following legal bases: (1) with your consent; (2) as necessary to perform our agreement to provide Services to you; (3) to meet legal obligations, and (4) as necessary for our legitimate interests in providing the Services where those interests do not override your fundamental rights and freedoms related to data privacy.
+
+#### Transfers
+
+Personal data we collect may be transferred to, and stored and processed in, the United States or any other country in which we or our affiliates or processors maintain facilities. We have put in place appropriate safeguards to ensure the protection of any personal information transferred from the EEA or Switzerland to the United States and other countries. By using the Services, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in our Privacy Policy.
+
+#### Individual Rights.
+
+If you are a resident of the EEA or Switzerland, you have certain rights under EU General Data Protection Regulation, as set forth below:
+
+  * **Right of access** : You have the right to request a copy of the information that we hold about you.
+  * **Right of rectification** : You have the right to have information that we hold about you that is inaccurate or incomplete corrected.
+  * **Right to be forgotten** : In certain limited circumstances, you have the right to request that we erase from our records the information that we hold about you.
+  * **Right to restriction of processing** : In certain limited circumstances, you have the right to restrict the processing of your information.
+  * **Right to withdraw consent:** If you have provided consent for the processing of your information, you have the right (in certain circumstances) to withdraw that consent at any time which will not affect the lawfulness of the processing before your consent was withdrawn.
+  * **Right of portability:** In certain limited circumstances, you have the right to have the information we hold about you transferred to another organization.
+  * **Right to object to automated processing, including profiling** : You have the right to not be subject to the legal effects of automated processing or profiling.
+  * **Right to lodge a complaint** : You have the right to lodge a complaint with a regulatory authority, if you believe that we have not complied with the requirements of the GDPR with regard to your personal information. A listing of EU data protection authorities can be located at: [https://ec.europa.eu/justice/article-29/structure/data-protection-author...](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm)
+
+
+
+**Right to object** : You have the right to object to certain types of processing of your information such as direct marketing (to the extent applicable).
+
+This Privacy Policy does not create rights enforceable by third parties.
+
+If you would like to exercise the above-mentioned rights, please direct your written concerns to the following address:
+
+[privacy@amilink.com](mailto:privacy@amilink.com)
+
+#### 9\. SECURITY OF PERSONAL DATA
+
+We maintain administrative, technical, and physical safeguards in an effort to protect against unauthorized access, use, loss, modification, disclosure, and any form of unlawful processing of personal data in our custody and control, and our service providers are bound to maintain similar safeguards. These measures also aim at preventing unnecessary collection and further processing of personal data. Although we take appropriate measures to safeguard the personal data in our custody and control, and we require similar safeguarding measures from our service providers, we need you to understand that we are unable to guarantee the security of your personal data.
+
+To provide you with an increased level of security online, access to your personal data on certain of our websites may be protected with a password you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication.
+
+#### 10\. RETENTION OF PERSONAL DATA
+
+We will take reasonable steps to accurately record the personal data that you provide to us and any subsequent updates. We will retain your personal data as long as necessary to fulfill the purposes for which it was collected. Thereafter, we will either delete your personal data or de-identify it so that it cannot be attributed to your identity. Please note that we may continue to retain personal data for purposes of our legitimate interests, including as necessary to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements.
+
+#### 11\. CHILDREN 
+
+The features, programs, promotions and other aspects of our Services requiring the submission of personally identifiable information are not intended for anyone under 18 years of age. We do not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us, please contact us at [privacy@amilink.com](mailto:privacy@amilink.com). A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit its use.
+
+#### 12\. OTHER SITES/LINKS 
+
+Our Services may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Services and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Services and to read the privacy statements of all third party websites before submitting any personally identifiable information.
+
+#### 13\. CHANGES TO THIS PRIVACY POLICY
+
+We reserve the right to change this Privacy Policy. When we change it, we will make a copy of it available to you by posting it at [www.americanmediainc.com](http://www.americanmediainc.com/), or through other methods. If we make material changes to this Privacy Policy, we will make you aware of them where we post the updated policy and may also notify you by other reasonable methods that we select. If we make material changes to this Privacy Policy that will result in a new use, disclosure, or permission of access to your personal data that we previously collected and stored, we will obtain any consent that may be required by law.
+
+You understand and agree that if you use this website after the effective date of the updated Privacy Policy, we consider your use as acceptance of it.
