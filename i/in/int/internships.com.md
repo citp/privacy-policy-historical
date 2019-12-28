@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internships.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305022031id_/https%3A//www.internships.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internships.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228191236id_/https%3A//www.chegg.com/privacypolicy) for the most accurate reproduction.*
 
 # Chegg.com Privacy Policy
 
@@ -157,9 +157,9 @@ If you use the Services through a mobile device or one of our mobile application
 
 We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
 
-Text messages: You may be able to opt-in to receiving text messages from Chegg. You may opt-out by replying "STOP" to one of the text messages received.
+**Text messages:** You may be able to opt-in to receiving text messages from Chegg. You may opt-out by replying "STOP" to one of the text messages received.
 
-Push Notification: We will send you push notifications if you agree to receive them to announce special deals and to send you your itinerary. You may opt-out of receiving these at any time by going to the phone settings and turning them off.
+**Push Notification:** We will send you push notifications if you agree to receive them to announce special deals and to send you your itinerary. You may opt-out of receiving these at any time by going to the phone settings and turning them off.
 
 **UPDATING YOUR ACCOUNT INFORMATION AND CONTROL OVER CHEGG EMAILS**
 
