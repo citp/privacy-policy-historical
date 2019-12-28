@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the cruisecritic.co.uk privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626201316id_/https%3A//www.cruisecritic.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisecritic.co.uk privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228231931id_/https%3A//www.cruisecritic.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
 
 # CruiseCritic - Privacy Policy
+
+  * [About Us](https://web.archive.org/about-us/about-us/ "About Us")
+  * [Advertising](https://web.archive.org/about-us/advertising/ "Advertising")
+  * [Ad Requests](https://web.archive.org/about-us/ad-requests/ "Ad Requests")
+  * [Content Licensing](https://web.archive.org/about-us/content-licensing/ "Content Licensing")
+  * [Press](https://web.archive.org/about-us/press/ "Press")
+  * [Employment Opportunities](https://www.tripadvisor.com/careers/search-jobs?location=8 "Employment Opportunities")
+  * [Privacy Policy](https://web.archive.org/about-us/privacy-policy/ "Privacy Policy")
+  * [Terms of Use](https://web.archive.org/about-us/terms-of-use/ "Terms of Use")
+  * [Editorial Disclaimer](https://web.archive.org/about-us/editorial-disclaimer/ "Editorial Disclaimer")
+  * [Contact Us](https://web.archive.org/about-us/contact-us/ "Contact Us")
+
+
 
 CruiseCritic.co.uk ( **"Cruise Critic", "we", "our", "us"** ) is an online service that provides users ( **"you"** ) with recommendations for travel and travel planning, including hotels, travel guides, attractions and experiences, restaurants, cruises and lots more. 
 
