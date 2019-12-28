@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basspro.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625205935id_/https%3A//www.basspro.com/shop/en/privacy-policy-summary-bass-pro-shops) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basspro.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228090431id_/https%3A//www.basspro.com/shop/en/privacy-policy-summary-bass-pro-shops) for the most accurate reproduction.*
 
 # Privacy Policy Summary from Bass Pro Shops
 
