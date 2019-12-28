@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allkpop.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630210716id_/https%3A//www.allkpop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allkpop.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228183902id_/https%3A//www.allkpop.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy
 
 This statement covers the site allkpop.com (allkpop). Please read this statement carefully before proceeding to access allkpop. Your use of allkpop indicates your agreement to abide by the Terms in effect. The Website is owned and operated by 6Theory Media LLC (6Theory for short). You can view our Terms of Service (TOS) [here](https://www.allkpop.com/tos). If you have any questions or suggestions regarding our privacy policy, please contact us.
 
