@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trivago.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629182749id_/https%3A//www.trivago.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trivago.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228225736id_/https%3A//www.trivago.com/privacy-policy) for the most accurate reproduction.*
 
 # trivago.com - trivago's Privacy Notice
 
@@ -304,4 +304,4 @@ We emphasize processing your data within the EU/EEA. However, it may happen that
 
 We have taken extensive technical and operational security precautions to protect your data from being accidentally or intentionally manipulated, lost, destroyed, or accessed by unauthorized persons. Our security measures are reviewed regularly and updated in keeping with technological advances. 
 
-Last updated August 2018 
+Last updated June 2019 
