@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513105854id_/http%3A//www.bchydro.com/siteinfo/privacy.html%3FWT.ac%3Dhp_footer_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228111142id_/https%3A//www.bchydro.com/siteinfo/privacy.html%3FWT.ac%3Dhp_footer_privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
