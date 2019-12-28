@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportscafe.in privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427153737id_/http%3A//www.sportscafe.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportscafe.in privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228072134id_/https%3A//sportscafe.in/privacy) for the most accurate reproduction.*
 
 # Privacy
 
