@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the ukbusinessforums.co.uk privacy policy that was archived on 2019-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190628052938id_/https%3A//www.ukbusinessforums.co.uk/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ukbusinessforums.co.uk privacy policy that was archived on 2019-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191228221203id_/https%3A//www.ukbusinessforums.co.uk/help/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html id="XenForo" lang="en-GB" dir="LTR" class="Public NoJs LoggedOut NoSidebar  Responsive" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script src="//a1.vdna-assets.com/analytics.js" async=""></script>
+<!DOCTYPE html><html id="XenForo" lang="en-GB" dir="LTR" class="Public NoJs LoggedOut NoSidebar RunDeferred Responsive" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script src="//a1.vdna-assets.com/analytics.js" async=""></script>
 
-  <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="b7365c3a-ac59-4099-9bdb-2948d7a7aeef" type="text/javascript"></script>
+  <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="b7365c3a-ac59-4099-9bdb-2948d7a7aeef" type="text/javascript"></script>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -41,8 +41,8 @@
   <!-- the pitch -->
   <link href="styles/ukbf/css/thepitch/style.css" rel="stylesheet" type="text/css">
 
-  <link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=4&amp;dir=LTR&amp;d=1560873387">
-  <link rel="stylesheet" href="css.php?css=facebook,help_wrapper,login_bar,nat_public_css,xfa_blogs_nav&amp;style=4&amp;dir=LTR&amp;d=1560873387">
+  <link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=4&amp;dir=LTR&amp;d=1570520786">
+  <link rel="stylesheet" href="css.php?css=facebook,help_wrapper,login_bar,nat_public_css,xfa_blogs_nav&amp;style=4&amp;dir=LTR&amp;d=1570520786">
 
   
 
@@ -104,19 +104,10 @@ src="https://www.facebook.com/tr?id=1252063354809491&ev=PageView&noscript=1"
   <link href="styles/ukbf/css/thepitch/ie-fixed.css" rel="stylesheet" type="text/css">
   <![endif]-->
 
+<!-- StreamAMP Ads -->
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/streamAMP/header-bidder@latest/headerBidder.js"></script>
   <!-- Google Ads start -->
 <script type="text/javascript">
-    var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-    (function() {
-        var gads = document.createElement("script");
-        gads.async = true;
-        gads.type = "text/javascript";
-        var useSSL = "https:" == document.location.protocol;
-        gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
-        var node =document.getElementsByTagName("script")[0];
-        node.parentNode.insertBefore(gads, node);
-    })();
 
     (function() {
         var width = window.innerWidth;
@@ -132,75 +123,19 @@ src="https://www.facebook.com/tr?id=1252063354809491&ev=PageView&noscript=1"
         } else if (width > 992) {
             widthstr = 'biggest';
         }
-
-        googletag.cmd.push(function() {
-            // targeting
-            googletag.pubads().setTargeting('page-width', widthstr);
-            googletag.pubads().setTargeting('user', 'out');
-            googletag.pubads().setTargeting('homepage', '0');
-            googletag.pubads().setTargeting('forum-id', '0');
-            googletag.pubads().setTargeting('status', 'live');
-
-            googletag.pubads().collapseEmptyDivs();
-            googletag.enableServices();
-        });
-    })();
-</script>
-<!-- Google Ads end -->
-    <script>
-      var outOfPageAd = {
-        getAdDocument: function(adSlot) {
-          return this.getAdIframe(adSlot).contentWindow.document;
-        },
-        getAdIframe: function(adSlot) {
-          var childIndex,
-            iframeNode = null;
-
-          // iframe is the first child of the first div element
-          for(childIndex = 0; childIndex < adSlot.childNodes.length; childIndex++) {
-            if ('div' === adSlot.childNodes[childIndex].nodeName.toLowerCase()) {
-                iframeNode = adSlot.childNodes[childIndex].childNodes[0];
-            }
-          }
-          return iframeNode;
-        },
-        getSlot: function(obj) {
-          var elementId;
-          if (typeof obj.slot !== 'undefined') {
-            elementId = obj.slot.getSlotElementId();
-          }
-          return elementId === null ? null : document.getElementById(elementId);
-        },
-        init: function() {
-          googletag.cmd.push((function(_this) {
-            return function() {
-              googletag.pubads().addEventListener('slotRenderEnded', function(event) {
-                _this.resize(event);
-              });
-            };
-          })(this));
-        },
-        resize: function(event) {
-          var adIframe,
-            adSlot,
-            outOfPageWrapper;
-
-          // ignore the ad if there's no creative
-          if (event.isEmpty) {
-            return;
-          }
-
-          // pick the class from inside the ad code on DFP to set the height & width of the iframe
-          adSlot = this.getSlot(event);
-          outOfPageWrapper = this.getAdDocument(adSlot).getElementById('siftmedia-ad-wrapper');
-          if (outOfPageWrapper && outOfPageWrapper.className !== '') {
-            adIframe = this.getAdIframe(adSlot);
-            adIframe.className = outOfPageWrapper.className;
+        
+        window.streamampClientConfig = {
+          'targets': {
+            'page-width': widthstr,
+            'user': 'out',
+            'homepage': '0',
+            'forum-id': '0',
+            'status': 'live',
           }
         }
-      }
-      outOfPageAd.init();
-    </script>
+
+    })();
+</script>
     <style>
       .ukbf-ad-top .ad__responsive-takeover {
         height: 100px;
@@ -290,23 +225,12 @@ jQuery(document).ready(function()
 <header>
   
 <div id="siftmedia-ads-ukbf-top" class="ukbf-ad-top">
-	<script type="text/javascript">
-    if (typeof googletag !== 'undefined') {
-        googletag.cmd.push(function() {
-            var mapping = googletag.sizeMapping().
-	addSize([1100, 0], [[970, 250], [728, 90]]).
-	addSize([750, 0], [728, 90]).
-	addSize([480,0], [468, 60]).
-	addSize([0,0], [300, 50]).
-	build();
-            googletag.defineSlot('/4394518/ukbf-top', [[728, 90], [970, 250]], 'siftmedia-ads-ukbf-top')
-                .defineSizeMapping(mapping)
-                .addService(googletag.pubads());
-            googletag.enableServices();
-            googletag.display('siftmedia-ads-ukbf-top');
-        });
-    }
-</script>
+	<!-- /4394518/ukbf-top -->
+    <div id="ukbf-top">
+      <script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('ukbf-top'); });
+      </script>
+    </div>
 </div>
   
 
@@ -896,8 +820,8 @@ We may receive information about you if you use any of the other websites we or 
 <p dir="ltr"><strong>How long do we keep your personal information?</strong></p>
 <p dir="ltr">We keep your personal information for as long as we need to for the purposes for which it was collected or (if longer) for any period for which we are required to keep personal information to comply with our legal and regulatory requirements.</p>
 <p dir="ltr"><strong>Your rights</strong></p>
-<p dir="ltr">You have the right to ask us not to process your personal data or to restrict our processing of your personal data (including  for marketing purposes). You can do so at any time by contacting us at <a href="/cdn-cgi/l/email-protection#620a070e122217090017110b0c071111040d10170f114c010d4c17095d111700080701165f37294750522017110b0c071111475052240d10170f11475052331707101b"><span class="__cf_email__" data-cfemail="ee868b829eae9b858c9b9d87808b9d9d88819c9b839dc08d81c09b85">[email&nbsp;protected]</span></a>.  Please state the site(s) it is in reference to.</p>
-<p dir="ltr">You also have the right to ask us to correct any mistakes or inaccuracies in your information which we hold at any time by contacting us at <a href="/cdn-cgi/l/email-protection#cca4a9a0bc8cb9a7aeb9bfa5a2a9bfbfaaa3beb9a1bfe2afa3e2b9a7f3bfb9aea6a9afb8f19987e9fefc8eb9bfa5a2a9bfbfe9fefc8aa3beb9a1bfe9fefc9db9a9beb5"><span class="__cf_email__" data-cfemail="157d70796555607e7760667c7b706666737a676078663b767a3b607e">[email&nbsp;protected]</span></a>. Please state the site(s) it is in reference to.</p>
+<p dir="ltr">You have the right to ask us not to process your personal data or to restrict our processing of your personal data (including  for marketing purposes). You can do so at any time by contacting us at <a href="/cdn-cgi/l/email-protection#5139343d2111243a332422383f342222373e23243c227f323e7f243a6e2224333b3432256c041a746361132422383f342222746361173e23243c227463610024342328"><span class="__cf_email__" data-cfemail="69010c0519291c020b1c1a00070c1a1a0f061b1c041a470a06471c02">[email&nbsp;protected]</span></a>.  Please state the site(s) it is in reference to.</p>
+<p dir="ltr">You also have the right to ask us to correct any mistakes or inaccuracies in your information which we hold at any time by contacting us at <a href="/cdn-cgi/l/email-protection#1b737e776b5b6e70796e6872757e68687d74696e7668357874356e7024686e79717e786f264e503e292b596e6872757e68683e292b5d74696e76683e292b4a6e7e6962"><span class="__cf_email__" data-cfemail="7d1518110d3d08161f080e1413180e0e1b120f08100e531e12530816">[email&nbsp;protected]</span></a>. Please state the site(s) it is in reference to.</p>
 <p dir="ltr">Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.</p>
 <p dir="ltr"><strong>Access to information</strong></p>
 <p dir="ltr">You have the right to obtain a copy of the personal data we hold about you. You can make your request here: <a href="https://www.sift.co.uk/subject-access-request" title="link to Subject Access Request">https://www.sift.co.uk/subject-access-request</a>.  Once we have received your request and verified your identity we will respond as soon as possible and in any event within one month. </p>
@@ -1017,9 +941,9 @@ came from. We use this only to attribute your click &amp; conversion to the corr
 <p dir="ltr"><strong>Changes to our privacy policy</strong></p>
 <p dir="ltr">Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our privacy policy.</p>
 <p dir="ltr"><strong>Complaints</strong></p>
-<p dir="ltr">If you have any complaints about the way we use your personal information please contact <a href="/cdn-cgi/l/email-protection#cfa7aaa3bf8fbaa4adbabca6a1aabcbca9a0bdbaa2bce1aca0e1baa4f0bcbaada5aaacbbf29a84eafdff8dbabca6a1aabcbceafdff89a0bdbaa2bceafdff9ebaaabdb6"><span class="__cf_email__" data-cfemail="b1d9d4ddc1f1c4dad3c4c2d8dfd4c2c2d7dec3c4dcc29fd2de9fc4da">[email&nbsp;protected]</span></a> who will try to resolve the issue. If we cannot resolve any issue, you have the right to complain to the data protection authority in your country (the Information Commissioner in the UK).</p>
+<p dir="ltr">If you have any complaints about the way we use your personal information please contact <a href="/cdn-cgi/l/email-protection#523a373e221227393027213b3c372121343d20273f217c313d7c27396d212730383731266f07197760621027213b3c372121776062143d20273f21776062032737202b"><span class="__cf_email__" data-cfemail="08606d6478487d636a7d7b61666d7b7b6e677a7d657b266b67267d63">[email&nbsp;protected]</span></a> who will try to resolve the issue. If we cannot resolve any issue, you have the right to complain to the data protection authority in your country (the Information Commissioner in the UK).</p>
 <p dir="ltr" id="contact"><strong>Contact</strong></p>
-<p dir="ltr">Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <a href="/cdn-cgi/l/email-protection#630b060f132316080116100a0d061010050c11160e104d000c4d16085c101601090600175e36284651532116100a0d061010465153250c11160e10465153321606111a"><span class="__cf_email__" data-cfemail="2b434e475b6b5e40495e5842454e58584d44595e4658054844055e40">[email&nbsp;protected]</span></a> and please state the website(s) it is in reference to.</p>
+<p dir="ltr">Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <a href="/cdn-cgi/l/email-protection#8ae2efe6facaffe1e8fff9e3e4eff9f9ece5f8ffe7f9a4e9e5a4ffe1b5f9ffe8e0efe9feb7dfc1afb8bac8fff9e3e4eff9f9afb8bacce5f8ffe7f9afb8badbffeff8f3">h<span class="__cf_email__" data-cfemail="adc8c1ddedd8c6cfd8dec4c3c8dedecbc2dfd8c0de83cec283d8c6">[email&nbsp;protected]</span></a> and please state the website(s) it is in reference to.</p>
 <p dir="ltr">Thank you for visiting our site.</p>
 </div>
 </div></div>
@@ -1236,9 +1160,9 @@ jQuery.extend(true, XenForo,
 	visitor: { user_id: 0 },
 	serverTimeInfo:
 	{
-		now: 1561699779,
-		today: 1561676400,
-		todayDow: 5
+		now: 1577571124,
+		today: 1577491200,
+		todayDow: 6
 	},
 	_lightBoxUniversal: "0",
 	_enableOverlays: "1",
