@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videohelp.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627214922id_/https%3A//www.videohelp.com/contact%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videohelp.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228190948id_/https%3A//www.videohelp.com/contact%23privacy) for the most accurate reproduction.*
 
 # Contact Us / Privacy Policy - VideoHelp
 
