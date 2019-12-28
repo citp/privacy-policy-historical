@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planetminecraft.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630194503id_/https%3A//www.planetminecraft.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetminecraft.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228225801id_/https%3A//www.planetminecraft.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Planet Minecraft
+# Privacy Policy | Planet Minecraft
 
 Your Privacy Rights - Effective May 25, 2018
 
