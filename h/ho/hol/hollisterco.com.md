@@ -1,192 +1,121 @@
-> *The following text is extracted and transformed from the hollisterco.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520232829id_/https%3A//www.hollisterco.com/shop/CustomerService%3FpageName%3Dprivacy%26storeId%3D10251%26textKey%3DHELP_PRIVACYPOLICY%26catalogId%3D10201%26langId%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollisterco.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229003659id_/https%3A//www.hollisterco.com/shop/CustomerService%3FpageName%3Dprivacy%26storeId%3D10251%26textKey%3DLEGAL_PRIVACY_POLICY%26catalogId%3D10201%26langId%3D-1) for the most accurate reproduction.*
 
 # Customer Service | HollisterCo.com
 
-### Privacy Policy
+Hollister Co. US
 
-This privacy policy statement applies only to the information collected: online through HollisterCo.com, Hollister Co. microsites or mobile sites (collectively our "Websites"), our emails, our text messages, or mobile applications Hollister Co. provided for download to your mobile device ("Apps") that expressly adopt and display or link to this policy; or through our pages on social media sites, such as Facebook, Twitter, et al. ("Social Media Pages").
+## Privacy Policy
 
-In order to make your visits to the various channels of Hollister Co. as responsive as possible, we collect information when you visit us online. To help ensure an enjoyable online experience, we provide this summary of what information we collect online, and how that information is used. Your use of the Website/App confirms your acceptance of this privacy policy and your agreement to be bound by it. If you do not accept this privacy policy, do not use this Website/App.
+Effective Date: 10/24/2019
 
-#### Information Collected Online
+Hollister Co. values our customers' privacy and is committed to protecting their personal information. This privacy notice summarizes what information we collect and how we use it. It applies to our Websites, Apps, and Social Media Pages and to our communications with you via text message and email.
 
-  1. ##### General Browsing
+Throughout this policy, we may refer to Hollister Co. as "HCo," "we," "us," or "our." When we say "Websites," we mean HollisterCo.com and any other microsites or mobile websites we operate or use. "Apps" refers to the mobile applications we make available for download on your personal device. "Social Media Pages" are the official social media pages we operate on Facebook, Twitter, Instagram, LinkedIn, and other social media platforms. If you have any questions about these definitions or anything else in this privacy notice, email us at [privacy@anfcorp.com](mailto:privacy@anfcorp.com).
 
-We collect general information about our visitors' experience with our Websites and this general information is not connected to personally identifiable information about individual visitors. The information collected includes which pages our visitors are viewing on our Websites and whether visitors arrived through a link for our Websites. It also includes information on the type of browser and service provider used. For visitors using a mobile version of our Websites, this includes technical information about the device used, such as screen size, cookie support by the device and how images may appear. All of this information helps us provide a better experience for our visitors by being able to determine such things as how to best format our mobile Websites for various devices, our most desired pages, products and features, how to best direct visitors to our Websites, and where there might be browser or service provider connection issues.
+### Information We Collect
 
-  2. ##### Location Information
+We collect different types of information about our customers, Website visitors, and App users, which may include:
 
-Our Websites and emails may include features that require collecting different types of location information as described below:
+  * **Location:** We use various technologies to learn your geographic location, including by collecting your IP address or other device information, which may depend on your device's settings for location services. 
+  * **Device Information:** When you visit our Websites, use our Apps, interact with our Social Media Pages or online ads, or open our emails, we learn about your browser, device type, IP address, internet service provider, and other technical information about your device. 
+  * **Contact Information:** We'll collect contact information, which includes personal information like name, email address, phone number, and address. 
+  * **Payment Details:** Your payment details can be collected within your account or in connection with an order. 
+  * **Call records, email records, text records, and chat logs:** If you call, email, text, or chat with our customer service agents, we may keep records of those conversations. 
+  * **Shopping History:** We keep track of your shopping history with us, including the items you purchase, save to My Saves or add to your shopping bag. 
+  * **Websites/Apps Interactions:** We collect information about your interactions with our Websites and Apps, including pages visited, links clicked, buttons clicked, mouse movement, scroll behavior, and non-sensitive keystroke activity. This data may then be used to create a "session replay" of your interaction, which may be used to troubleshoot customer service issues, either individually or in the aggregate, to improve site functionality and to analyze user interaction. This information could include personal information, depending on what information you provide. 
+  * **Submitted Content:** We collect any content you submit to our Websites, Apps, and Social Media Pages, including photos, videos, or reviews. For more details about user-generated content, check out our [Endorsements and Social Media Engagement policy](https://www.hollisterco.com/shop/CustomerService?pageName=social-media&storeId=10251&textKey=LEGAL_SOCIAL_MEDIA_POLICY&catalogId=10201&langId=-1). 
+  * **Demographic Information:** We have access to demographic details about our customers like birthdate, gender, ZIP code, and other similar details. 
+  * **Social Media Usage:** We receive aggregated information about people who visit and interact with our Social Media Pages. "Aggregated" means information that doesn't include personal information associated with identified people. 
 
-    * **Websites** : Features include things, such as check-in, find in store, or find a product in stores. We may use various technologies to determine location, such as location services included in your browser or your device, IP Address, and sensor data locating your device near Wi-Fi access points, Bluetooth devices or beacons, and cell towers. Some of these technologies may require enabling location-based services and/or your consent for our Websites to access your location information. 
-    * **Emails** : Our emails may use your IP address to determine the city where you are located when you open the email. This allows us to tailor content to you, such as a map of nearby stores. 
 
-Mobile devices referenced above include your cell phone, and could include your laptop or tablet depending on the type of wireless connectivity used. If you do not consent to provide or disable location-based services, we may ask you to manually select the region where you are located, or to enter your zip code; if you chose not to provide this information some features of the Websites may not be available. See the "Opt-Out" section below for the choices you have regarding collection of location information.
 
-  3. ##### Personally Identifiable Information
+### How Your Information is Collected
 
-Hollister Co. collects personally identifiable information from you when you provide us with this information, either by filling out all or a portion of a form, or completing the form by submitting it. You can provide us this personally identifiable information in many instances throughout our Websites, or by sending us an email or a text message, for example when you interact with the following opportunities: placing an order through one of our Websites; establishing an account, joining, participating or becoming a member in the Club Cali program (collectively "Membership"); adding your choices and information about yourself and others to your Membership; submitting content to our Websites, Apps or Social Media Pages, such as comments, product reviews, pictures or videos; registering to participate in a promotion; emailing an item, post card or wish list; adding a message in the gift wrap section or on an E-Gift Card; entering a contest or sweepstakes; requesting an opportunity to model for us; taking a survey; contacting us with a comment or question; signing up to receive emails or text messages about our products and services; replying to an email or text message requesting information from you; requesting to receive investor alerts; or applying for a job online. We also collect information through use of cookies, pixel tags (also known as Web beacons and clear GIFs), and URL links, as described under "Cookies" below. While not personally identifiable information by itself, Hollister Co. also collects and retains the following information and associates it with your personally identifiable information: your IP address, your interactions with our Websites, your actions in response to our communications to you, and the purchases you make.
+We may collect the information described above directly from you, from third parties we partner with, or through cookies or other automated means. These sources may include:
 
-Categories of personally identifiable information collected online include name, address, gender, month and day of birth, email address, telephone number, mobile phone number, payment card information, recipient's name, address and email address, modeling information (including name, size stats, work information, and contact information), use of our Websites tied to one of these categories and any other information you choose to provide, including through your personal social media accounts, as described below.
+  * **You:** We collect information directly from you, whenever you: make a purchase; contact us with questions or comments; upload content to our Websites, Apps, or Social Media Pages; enter our contests or sweepstakes or contests or sweepstakes we are affiliated with; save items to My Saves or add to your shopping bag; create a Club Cali account; respond to a survey; opt in to text messages; sign up for investor information; apply for a job or modeling opportunity; or fill out any forms on our Websites, Apps, or Social Media Pages. 
+  * **Your Device or Browser:** Certain information is automatically collected from your device or browser and analyzed when you visit our Websites, use our Apps, interact with our Social Media Pages or online advertising, interact with our Wi-Fi, or open our emails. 
+  * **Third Parties:** We work with third parties who provide services to us, like analytics or advertising companies. These third parties share information they have collected with us. Your information may also be collected and processed by third parties, such as the payment providers you select, who will process your information independently in accordance with their own privacy notices. 
+  * **Social Media Platforms:** Social media platforms share information, which is typically aggregated and doesn't include personal data, with HCo. You can learn more about how social media platforms collect and use your information by reviewing their privacy policies and settings. 
+  * **Cookies:** HCo uses cookies (small files stored on your device or browser), pixel tags (tiny graphic images embedded in a website or email), and other similar technologies to automatically collect information when you visit our Websites, use our Apps, or interact with our emails. Through the use of cookies, we may link information about your interactions with our Websites, Apps, or emails over time. We also contract with third party advertising or analytics companies to serve you online ads on other websites. These companies use cookies or similar technologies to collect information about your interactions with our Websites and Apps and interactions with other websites. These advertising companies may use and share the information gathered to deliver ads more tailored to your interests. We receive aggregate information from these third parties to understand our advertising effectiveness. Any information collected by us or by third parties through the use of cookies or similar technologies may be linked with other information we collect about you. 
 
-  4. ##### Personal Information You Allow Us to Collect from Your Social Media Accounts
 
-To create an account on our Websites or to participate in certain features, our Websites may allow you to choose to let us access information from accounts you have created on social media sites such as Facebook, Twitter, Pinterest, Instagram, and other similar sites ("Personal Social Media Accounts"). If you chose to allow us access to your Personal Social Media Accounts, Hollister Co. could collect some, and possible all, of the data in the Personal Social Media Account to which you grant access. Depending on the terms of the social media site, this information could include: your name, email address, profile picture, gender, networks, user ID, list of friends, birthday, likes, education history, work history, current city, hometown, interests, relationship status, and location. Once you grant this permission, Hollister Co. will be able to continue to be linked to the permitted Personal Social Media Account and collect information without a further request for permission, which could include later revisions to existing information or new types of information that you add. If you no longer want your Personal Social Media Account(s) linked to our Websites, click on the 'disconnect' link located on your account profile page, and we will stop collecting this information. You may also be able to stop our ability to link to information in your Personal Social Media Account by following instructions provided on the applicable social media sites.
 
-This privacy policy does not cover the privacy and security practices of social media sites where you have Personal Social Media Accounts. Please review privacy policies and terms of service on the social media sites if you have any questions about their privacy or security practices.
+### How We Use Your Information
 
+We may use the information we collect for the following purposes:
 
+  * **Fulfillment:** Fulfilling your orders and other requests, including processing payments and delivering packages. 
+  * **Advertising:** Presenting advertising online and via email, text messages, or other communication channels, including through partnerships with social media platforms and internet search engines. 
+  * **Understanding Our Customers:** Analyzing your activity with us (including your interactions with our Websites, Apps, Social Media Pages, and emails or other forms of communication) and monitoring the effectiveness of our advertising and communications. 
+  * **Personalization:** Using your preferences and other collected information to personalize our relationship with you, including presenting customized communication, advertising and experiences on our Websites, Apps, and Social Media Pages. 
+  * **Communications:** Communicating with you, including responding to your requests and asking for feedback through surveys or other messages. 
+  * **Promotions:** Running contests, sweepstakes, or other promotions. 
+  * **Hiring:** Recruiting and hiring HCo associates. 
+  * **Club Cali:** Administering Club Cali, including offering rewards or special promotions to Club members. To learn more, check out the [Club Cali terms](https://www.hollisterco.com/shop/CustomerService?pageName=club&storeId=10251&textKey=LEGAL_CLUB_TERMS&catalogId=10201&langId=-1). 
+  * **Customer Experience:** Serving content on our Website, Apps, and Social Media Pages, developing our products and services, and constantly improving our customers' experience. 
+  * **Security:** Protecting HCo and our customers from fraud, security threats, and other illegal or harmful activity. 
+  * **Legal Obligations:** Complying with legal and regulatory requirements and responding to requests from courts or other government bodies. 
 
 
-#### Mobile Application
 
-We offer Apps for download to your mobile device that provide you with various interactive features.
+### How We Share Information with Our Brands and Third Parties
 
-The collection and means of collecting information through any currently existing or future App are discussed in this policy when referencing Websites under the following sections:
+HCo may share personal information with third parties for certain purposes. For example, we share personal information with:
 
-  * General Browsing
-  * Location Information
-  * Personally Identifiable Information We Collect
-  * Personal Information You Allow Us to Collect from Your Social Media Accounts
-  * Cookies
+  * **Affiliated Brands & Companies:** We may share your information with our affiliated brands, like Abercrombie & Fitch or abercrombie kids, as well as other related companies. See _Your Privacy Choices_ below for how to control the information we collect and use. 
+  * **Service Providers:** We partner with third parties to assist with many aspects of our e-commerce business, including fulfilling orders, advertising, analyzing your interests and activity on our Websites, Apps, and Social Media Pages, and helping us communicate with customers. These third parties may provide services related to any of the purposes described in How We Use Your Information, and we may share with them any types of information described in Information We Collect. We may also receive information collected by these third parties and combine it with the information we have collected. Some of these third parties may be located outside the United States. Your information may also be collected and processed by third parties, such as the payment providers you select, who will process your information independently in accordance with their own privacy notices. 
+  * **Marketing Providers:** We partner with third parties to assist with the advertising and marketing of our business. We may share with them the types of information described in How We Use Your Information. We may also receive information collected by these third parties and combine it with the information we have collected. 
+  * **Other Third Parties:** We will disclose information about you, including to government bodies or law enforcement agencies, when we believe it to be necessary for compliance with the law or to protect the users of our Websites and Apps, our Websites and Apps, or the public. 
+  * **Parties to a Business Transaction:** If HCo were ever merged with or acquired by another company, or it acquires another company, or is involved in a corporate reorganization or other change in corporate control, your information could be shared with that business entity. 
 
 
 
-The use and sharing of information through any currently existing or future App are discussed in this policy when referencing Websites under the following sections:
+If you are a California resident, you can learn more about your privacy rights on our [CA Privacy Rights](https://www.hollisterco.com/shop/CustomerService?pageName=ca-privacy&storeId=10251&textKey=LEGAL_CA_PRIVACY_POLICY&catalogId=10201&langId=-1) page.
 
-  * Using Information We Collect Online
-  * Information We Share with Our Brands and Other Third Parties
-  * Cookies
+### Your Privacy Choices
 
+You can control the information we collect and use in the following ways:
 
+  * **Location Information:** You can disable location-based services on your mobile device or web browser by adjusting the settings on your device or browser. This will prevent our Websites and Apps from accessing your location information. Note that some services, including check-in or nearby store locations, may not be available if you disable location-based services. 
+  * **Push Notifications:** We only send push notifications to Apps users who agree to receive them. To stop receiving push notifications, adjust the settings on your mobile device. 
+  * **Emails:** You can unsubscribe from marketing emails by clicking the unsubscribe link in the footer of such email or by updating your [marketing preferences](https://web.archive.org/shop/Unsubscribe?storeId=10251&catalogId=10201&langId=-1) in your account profile. To unsubscribe from Abercrombie & Fitch or abercrombie kids marketing emails, follow the opt-out instructions at the bottom of any Abercrombie & Fitch or abercrombie kids marketing email or visit the [Abercrombie & Fitch privacy policy](https://www.abercrombie.com/shop/CustomerService?pageName=privacy&storeId=10051&textKey=LEGAL_PRIVACY_POLICY&catalogId=10901&langId=-1). 
+  * **Texts:** We won't send you any text messages unless you opt in to them. To stop receiving marketing messages or shipping alerts via text message, text "STOP" to any text message you have received from us. More information about opting out of text messages is available in the [Text Terms](https://web.archive.org/shop/CustomerService?pageName=texts-terms&storeId=10251&textKey=LEGAL_TEXTS_TERMS&catalogId=10201&langId=-1) or in the Marketing Preferences section of your account. 
+  * **Online Accounts:** You can keep your contact information and payment methods accurate and up to date by logging into your account on our Websites or Apps. If you wish to cancel your Club Cali account, email us at [HollisterCo@HollisterCo.com](mailto:HollisterCo@HollsiterCo.com) from the email address of the account you wish to cancel. 
+  * **Social Media:** This privacy notice doesn't cover the privacy and security practices of social media platforms on which HCo has Social Media Pages. Please review the terms, policies, and settings of those social media platforms if you have questions about how they collect and use your data. 
+  * **Online Advertising:** For information about opting out of third party advertising, visit: NAI Opt-Out (<http://www.aboutads.info/choices/>) and DAA Opt-Out (<http://optout.networkadvertising.org/?c=1>) (you will leave this Website for a separately managed online site where you can specify your preference under those programs). You can also click on the icon that may appear on some of our advertising served through these technologies. We may use more than one third party company for placing this advertising, which would require you to opt out of each company. 
 
-In addition:
 
-  * Use of some features of an App will ask for permission to access data on your mobile device, such as your photos. We will only access this data if you provide consent when asked by the App. Please note, some features of the App are only available if you allow us to access the requested content. 
-  * If you provide consent when asked, the App will send push notifications ("Notifications") to your mobile device. These notifications can be sent to you and viewed by you even if you are not actively using the App. The Notifications may be specific to your interactions with us and may be location-specific if you have consented to location-based services. 
-  * Information about preventing the collection of location-based information through the App is provided when referencing Websites under the "Mobile Device Location Information" subsection of "Opt-Out" below. 
-  * See the "Opt-Out" section below for the choices you have regarding the collection of data from your mobile device and receipt of notifications. 
 
+### Managing Content
 
+You may request removal of any of your User-Generated Content by sending a removal request email to [privacy@anfcorp.com](mailto:privacy@anfcorp.com). Your email must include a link to the URL of the page on which your User-Generated Content is posted or a description of the page on which it is posted. Please note that removal may not encompass all possible locations; for example, back-ups or sharing by other users initiated prior to removal.
 
-#### Information Collected on Pages Hollister Co. Has on Social Media Sites
+### International Users
 
-Personal information may be collected directly by Hollister Co. through our Social Media Pages and may also be collected by the social media site hosting the Hollister Co. Social Media Page.
+If you're using our U.S.-based Websites, Apps, or Social Media Pages while located outside the United States, keep in mind that this privacy notice will apply to you. Any information we collect from you could be stored on servers and shared with third parties located in the United States or other third countries. The rules and laws that apply to the collection and use of personal data in the United States or other third countries may differ from those in your country. 
 
-Personal Information collected directly by Hollister Co.: The collection of personal information directly by Hollister Co. on our Social Media Pages will include the type of information addressed under "Personally Identifiable Information We Collect" above. Examples of how personal information may be directly collected on Hollister Co. Social Media Pages include providing information through an application or form which has a link to this privacy policy. We will use and share the information we collect on our Social Media Pages in the manner specified below in "Using Information We Collect Online" and in "Information We Share with Our Brands and Other Third Parties".
+### Children's Privacy
 
-Personal Information collected by the social media sites: This privacy policy does not cover the privacy and security practices of the social media sites on which Hollister Co. has Social Media Pages. Please review privacy policies and terms of service on the social media sites if you have any questions about their privacy or security practices.
+Our Websites, Apps, and Social Media pages aren't intended for kids under 13. No one under 13 should share any personal information with us, including creating a Club Cali account or making a purchase. The children's clothing we offer for sale is intended for purchase by adults only. We don't knowingly collect any personal information from kids under 13. To request deletion of personal data relating to a child under 13, please email [privacy@anfcorp.com](mailto:privacy@anfcorp.com).
 
-The social media sites where Hollister Co. has Social Media Pages may provide aggregate information and analysis to Hollister Co. about your use of our Social Media Pages. This allows us to better understand and analyze our user growth, general demographic information about the users of our Social Media Pages, and interaction with content on our Social Media Pages. Overall, this information may be used to help us understand the types of visitors and users of our Social Media Pages and use of the content.
+### Security Statement
 
-#### Using Information We Collect Online
+Hollister Co. has implemented security technologies, processes and procedures designed to protect your information. You can protect your information by selecting strong, unique passwords for the website and any associated email addresses. If you have concerns about the security of your account, or wish to alert us of any potential vulnerabilities, please contact [security@anfcorp.com](mailto:security@anfcorp.com).
 
-We may use the information we collect under this policy (including information collected through cookies; see our sections titled "Cookies" and "How Third Parties Serve You Our Advertisements On Other Websites and Your Choices" for details on cookies and how we use them), to fulfill product orders; to fulfill your requests (such as contact us, click to chat, email a friend, coming soon product alert, wish list, shipping updates, or a post card); to contact you or the product recipient(s) in the event of order or delivery difficulties; to serve site content; to provide marketing communications regarding our products, services and promotions to you (including sending cart abandonment emails) and to people in your account or your Club Cali program Membership (collectively "Membership"); address book; to administer our Club Cali program; to post content you provide to us through our Websites, Apps or Social Media Pages, such as comments, reviews or images on our Websites, Apps and Social Media Pages, or use it in our marketing communications; to analyze your activity with us, including interaction with our Websites/emails/text messages, the effectiveness of our advertising and your purchases; to personalize our communications to you; to respond to your inquiries and other communications; to update information maintained in your online Membership; to conduct surveys, sweepstakes or contests; to develop our products, services, and Websites; and to consider you for employment. Hollister Co. uses the information collected on its Social Media Pages to send communications regarding our products, services, and promotions; to respond to your inquiries; to conduct surveys, sweepstakes or contests; to analyze your activity on our Social Media Pages and to develop our products and services. See the "Opt-Out" section below for the choices you have related to receiving marketing communications from us.
+### Supported Web Browsers
 
-We may use the information that we collect under this Privacy Policy for the purpose of providing personalized content across different Internet browsers or devices that you use to access our Websites and mobile applications, including the synchronization of wish lists and shopping bags. Any changes made to privacy settings (including your opt-out preferences) on one browser or device will not be synchronized between browsers and/or devices. Alternatively, any changes made to privacy settings must be made on each browser or device on an individual basis.
+We recommend that you use the latest web browser versions to optimize your experience. Older web browser versions may not be able to access or utilize all pages on our website as intended.
 
-#### Information We Share with Our Brands and Other Third Parties
+### Updates
 
-_We may disclose the information that you provide to us (including, without limitation, your personal data) to any member of our group, which means our subsidiaries, our ultimate holding company, and the subsidiaries of our holding company (including our affiliated companies)._ **HCo and its affiliated companies will not subscribe you to their ongoing marketing email and/or text message programs unless you have separately consented to receive such marketing communications from a given affiliated company.**
+We will make updates to our privacy practices from time to time. If we make any material changes to our privacy practices, we will update this privacy notice and change the effective date at the top of this page.
 
-If you submit content to us through our Websites, Apps or Social Media Pages, such as comments, reviews or images, and we choose to post your content on our Websites or otherwise display it, it will become public information.
+### Questions?
 
-Please be aware that we may use third parties to assist us with our e-commerce business, such as our Websites, emails, text messages, and Social Media Pages. Some examples of the assistance that may be provided by third party service providers are: fulfilling orders (including, but not limited to, processing payments, providing fraud prevention services, and verifying addresses); providing advertising services, including on social media sites and internet search engines; monitoring and analyzing site activity, your actions in response to our emails and the effectiveness of our advertising; providing support services; facilitating communication with you through emails, texts, Notifications, and other platforms; conducting surveys; administering and maintaining employment application information; offering interactive features; and administering our Club Cali program, product reviews, promotions, sweepstakes or contests. Personal information you provide us may be shared, as necessary, with the relevant third parties to so carry out functions on our behalf. It is possible that some of these service providers will be located outside of the United States.
+Send your privacy-related questions, comments, and concerns to us via email at [privacy@anfcorp.com](mailto:privacy@anfcorp.com) or via mail at:
 
-You should also be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or is necessary to protect the users of our Websites, the Websites or the public.
-
-If Hollister Co. were ever merged with or it or its assets were acquired by another company, or if it acquires another business entity or is involved in a corporate reorganization or other change of control, some or all of the personal information collected about you could be shared with this entity, and may also be retained by Hollister Co. Other than this acquisition, sale or reorganization, we do not sell or rent your email address to unrelated third parties.
-
-#### Cookies
-
-##### What Are Cookies, Pixel Tags and URL Links, and How Are These Used on Our Websites or in Our Emails?
-
-Our Websites and emails use, and our third party service providers may use, a browser feature known as a cookie, which assigns a unique identification to your computer or device. The cookies are typically stored on your computer's hard drive or mobile device. The information collected when visiting our Websites or interacting with our emails may include the following: an IP address; the URL of the page from which you arrived; your browser type; other technical information about your device used to visit our Websites or interact with our emails; the pages you view; the features you use; whether you create an account or become a member in the Club Cali program, or sign in and where you go on our Websites once signed into your Membership; whether you complete a transaction; whether you have previously completed a survey; and the time of your visit. This information allows us to determine such things as which parts of our Websites are most visited or used, what products are browsed and/or purchased, the effectiveness of our Websites and emails, your specific interaction with our Websites and emails; and difficulties you may experience in accessing our Websites or emails. With this knowledge, we can improve the quality of your experience on our Websites and interaction with our emails by recognizing and delivering more of the most desired features and information, personalize your experience, and resolve access difficulties. In addition, our Websites use cookies to help keep track of items you put into your shopping cart or wish list, whether you purchase any or all of those items, and to tell us whether you have visited one of our Websites in the past. This allows you to maintain shopping carts and wish lists between visits and allows us to inquire about your continued interest in items in your shopping cart or wish list or that you viewed on one of our Websites. Our Websites also use cookies to help keep track of checkout information, other than payment method information, while you remain on our site. In addition, the information collected by us or our service provider(s) may be linked to and combined with information that we collect about you from your visits to our Websites or interaction with our emails.
-
-Our Websites and emails use, and our third party service providers may also use, Pixel Tags (also known as Web beacons, Web bugs, and Clear GIFs). A Pixel Tag is a nearly invisible pixel-sized graphic image on a Webpage or email message. Pixel Tags may be used to collect the same information about your visit that is collected through cookies, as noted above. We may also collect information about a search engine used, and a search engine advertisement clicked to navigate to the Websites. Pixel Tags in emails help us confirm the receipt of, and response to, our emails (including your interaction with our Websites as a result of receiving the email) and the time our email is viewed. This information helps us to make similar evaluations about our Websites and emails as with cookies and to determine the most desired features and information so that we can provide those features and information to you and personalize our interactions with you. This information may also be linked to and combined with information that we collect about you from your visits to our Websites.
-
-In addition, our communications (e.g. emails, text messages, direct messages via social media platforms, et al.) to you may include "click-through URLs" linked to particular pages on one of our Websites. By clicking on one of the URLs, you will automatically enter one of our Websites. Through the use of cookies, we may associate identifying information in the click-through URL with your previous experiences on our Websites. You may avoid having this information collected by not clicking on the URL links in our communications.
-
-#### Opt-Out
-
-To make it easier for you, we have moved your opt-out preference choices to this section of the privacy policy.
-
-##### Collection of Location Information
-
-  * **Mobile Device Location Information Through Our Mobile Websites:** Your mobile device may allow you to disable location-based services on your device, which will prevent our Websites from accessing your mobile device location information. For specific questions regarding disabling your device's location services, we recommend that you review the specific instructions provided for your mobile device. Note that some features on our Websites, such as check-in, may not be available if you disable location-based services. 
-
-  * **Desktop Device Location Information Through Website Features** : Your desktop web browser may allow you to remove permission you granted through your desktop device for our Websites to access your location information and/or completely block requests for location information. For specific questions regarding disabling your browser's location services, we recommend you review the specific instructions provided with your browser. 
-  * **Location Information Through Emails** : Your email program may allow you to prevent the images in the emails you receive from us from downloading, which will also prevent our service provider from accessing your location information. You can also unsubscribe from receiving our emails, as described in the "Email" section below. 
-
-
-
-##### Notifications and Access to Data on Your Mobile Device
-
-If you have provided consent and no longer wish to receive Notifications, or no longer want us to access the specific information on your device (e.g., photos, etc) for which you previously gave consent, you will need to adjust the settings on your mobile device. Please note, the process for changing settings on your mobile device may vary; to learn how to change these settings refer to the specific instructions provided for your mobile device.
-
-##### Emails
-
-To unsubscribe from receiving marketing emails from Hollister Co. go to the [Unsubscribe](https://web.archive.org/shop/Unsubscribe?storeId=10251&catalogId=10201&langId=-1) page, or if you created an account or are a member of the Club Cali program, go to the Marketing Preferences section of the Profile page. If you signed up to receive marketing emails from one of our affiliates follow the-opt out instructions on any marketing email you receive from that affiliate. Please be aware, however, even if you request be removed from our email marketing list, you may still receive non-marketing emails, such as confirmations for any orders placed on our Websites.
-
-##### Text Messages
-
-  * **Marketing Text Messages** : If you have signed up to receive text messages from Hollister Co., or any of our affiliated companies (for example, Abercrombie & Fitch and abercrombie kids), but no longer wish to receive these mobile messages, simply follow the opt-out instructions included in each mobile message or follow the opt-out instructions in the [Text Terms](https://web.archive.org/shop/CustomerService?pageName=texts-terms&storeId=10251&textKey=HELP_TEXTSTERMS&catalogId=10201&langId=-1) for each brand, i.e. send or reply "STOP" to any text message you have received. Or, if you created an account or are a member of the Club Cali program, go to the email and phone page within the "My Info" section of the Websites, click on "manage your marketing preferences" and select the option to no longer receive text messages in the drop-down menu for each brand and press 'SUBMIT.' Please note, if you unsubscribe by sending a text or by going to the email and phone page within the "My Info" section of the Websites you may receive a reply message confirming that you have opted out of receiving text messages. 
-  * **Shipping Alert Text Messages** : If you opted to receive shipping alerts via text message but you no longer wish to receive them, reply "STOP" to any shipping alert text message you have received. 
-
-
-
-##### Facebook Messenger Communication
-
-You may opt in to receive communication and updates from us about your order via Facebook Messenger. Once consent is provided during checkout on our site, it will be maintained for all future orders. To opt out, open the conversation on Facebook Messenger and click on the "Turn Off" link (located next to the Facebook Messenger updates language). If you elect to delete your HCo account, then you will no longer receive updates via Facebook Messenger.
-
-#### If you Apply for a Job or Attend Casting Calls
-
-If you want to work for us, you can submit a curriculum vitae or resume online or fill out an employment application online. When you fill in an online employment application, we will collect personal data such as your name and contact details. We will use this information to evaluate you as a candidate for the position that you applied for and to contact you about the position.
-
-We invite our employees who are interested in becoming a model to attend casting calls. If you would like to attend one of our casting calls, we may ask you to electronically send us information such as your statistics and age and to provide us with photographs or video footage of you. We may share this information and media with the modeling agency that we engage to assist us in determining whether we are interested in you becoming a model.
-
-If you electronically send us information about your interest in being a model for us (such as your name, size stats, work information, contact information, photographs and video), we will only use that information to determine whether we are interested in you being a model and to contact you about prospective modeling. We may share also that information with our modeling agency. The modeling agency will use your information solely to assist us in determining whether we are interested in you being an Hollister Co. model.
-
-#### International Users
-
-If you are visiting one of our Websites from a location outside of the United States, please keep in mind that it is a US based web and/or commerce site. This privacy policy governs the information collected by or on behalf of our Websites irrespective of where you are located when you access it, browse it, interact with it, and make purchases through it (including those that are shipped to addresses outside the US). If, for any reason, you are accessing a country specific website for a country in which you are not located (e.g. utilizing a proxy server) please contact Customer Service to view the policies and terms specific to your jurisdiction.
-
-With respect to personal information you provide to Hollister Co. on the Social Media Pages, once received from the social media sites, it is maintained and processed by us on servers and internal systems located in the United States. This means your personal information may be stored outside of the province, state, and/or country in which you reside, and processed by us, an affiliate or a third party service provider as described in this privacy policy. Moreover, governmental bodies that have jurisdiction over us in the United States (e.g., courts and law enforcement agencies) may be entitled to access your personal information.
-
-#### Updating Personal Information in Your Account
-
-If you have created an online account or became a member of the Club Cali program (collectively "Membership") we prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your personal information, including your billing address, preferred shipping information, payment details, and contact information. Just sign in to your Membership with your email address and password, and you will see an overview page where you can update your information.
-
-To request to have your account cancelled use the [Contact Us](https://web.archive.org/shop/us/help/email-web-form) section of the Help page and include the email address of the account you wish to cancel.
-
-#### Privacy of Children
-
-Our Websites are not directed toward children under the age of thirteen (13) years. Furthermore, we do not knowingly collect any personal data from children under the age of thirteen (13) years. The children's products that we offer for sale on our Websites are intended for purchase by adults only. No one under the age of thirteen (13) years should provide any personal data on our Websites and/or at our stores.
-
-#### Links
-
-For your convenience and enjoyment, our Websites may contain links to other websites. We do not evaluate and are not responsible for the privacy practices or the content of such websites. We would urge you to review the privacy policies on each link to ensure that you are comfortable with their privacy policies and practices.
-
-#### Updates to Privacy Policy
-
-As we continue to offer you new and different types of content and services, we may modify our information collection, use, or disclosure practices. Should there be a material change to our information collection, use or disclosure practices, it will be applied only to information collected on a going forward basis, and we will update this privacy policy statement.
-
-#### Security Statement
-
-Hollister Co. limits the number of employees that have access to the databases that contain personal data, and Hollister Co. employees are advised of the importance of confidentiality. In addition, it is our policy to never send your payment card number via email.
-
-We designed our online store to accept orders only from Web browsers that permit communication through Transport Layer Security (TLS) technology. Browsers that do not meet this requirement will be prevented from navigating the online store section of our Websites. See "Supported Web Browsers" for more information. While we implement the above security measures on this site, you should be aware that 100% security is not always possible.
-
-#### Supported Web Browsers
-
-HollisterCo.com supports Microsoft Internet Explorer 11.0+, Android 5.0+, Apple OS X 10.9+, and Apple iOS 9.0+. We recommend if you are viewing our websites on Google Chrome or Mozilla Firefox to download the latest version in order to maximize your experience, otherwise you may not be able to access or utilize all pages on our websites as intended.
-
-#### Questions / Contact Us
-
-If you have any questions, comments or concerns regarding our privacy practices, please email us at [Privacy@Anfcorp.com](mailto:Privacy@Anfcorp.com) or contact us at the following address:
-
-Attn: Privacy Policy Manager  
-Abercrombie & Fitch Stores, Inc.  
-6301 Fitch Path  
-New Albany, Ohio 43054 USA  
-
+Hollister Co.   
+Attn: Legal-Privacy   
+6301 Fitch Path   
+New Albany, Ohio, 43054 USA
