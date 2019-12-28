@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302060236id_/https%3A//megagames.com/privacy-statement-megagames) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228175939id_/https%3A//megagames.com/privacy-statement-megagames) for the most accurate reproduction.*
 
 # Privacy Statement for MegaGames | MegaGames
 
@@ -181,6 +181,16 @@
 11.2 Blocking all cookies will have a negative impact upon the usability of many websites.
 
 11.3 If you block cookies, you will not be able to use all the features on our website.
+
+On the web, you can opt out of participating companies by visiting the following sites:
+
+<http://optout.networkadvertising.org/>  
+<http://optout.aboutads.info/>  
+<http://youronlinechoices.eu/>
+
+To opt out of CPMStar's tracking cookies please visit this address:
+
+<http://server.cpmstar.com/optout.aspx>
 
 ## 12\. Our details
 
