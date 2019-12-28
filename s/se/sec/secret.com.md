@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the secret.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624082725id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secret.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228075014id_/https%3A//www.pg.com/privacy/english/privacy_statement.shtml) for the most accurate reproduction.*
 
 # P&G Global Consumer Privacy Policy
 
+P&G Global Consumer Privacy Policy   
+_Date last updated: 1/1/2020_
+
 We work hard to build and maintain a relationship of trust with you. So, when it comes to handling your information, we do so carefully and sensibly, and in ways that live up to that trust. This policy lets you know how we do that, including what information we collect, how we use and protect it, and how you can decide what we do with it. Our goal is to help you understand how we use your information to improve our content, products, advertisements, and services.
-
-  
-
 
 what we collect
 
@@ -52,52 +52,138 @@ If you live in the EU, you have certain personal data rights, including to acces
 
 
 
-We collect information about you in many ways from many places. Some of the information we collect may include personal information that can be used to identify you; for example, your name, email address, telephone number, or postal address. In some countries like those in the EU, things like IP address or cookie and mobile device identifiers may also be considered personal information. 
+If you live in California, you may also have certain privacy rights, including to access what personal information we have about you, ask us to delete the personal information we collected from you, or request for us to not “sell” that data. These rights also don’t apply in all situations. To learn more about your rights and how to exercise them, please click the link below:
 
-__Please note__ _: We may combine all of the information we collect about you to give you better products, services, and user experiences._
-
-**you provide it to us.** **** You give us your information when signing up for an account on our websites or in mobile apps or by calling or emailing us. We may ask for things like your name, email or home address, date of birth, payment information, your age, gender, the number of people in your family, and the way you want us to send you information about our products and services—for example, to your home address, email address, or by texting you. 
-
-**from sites and emails.** **** We may use technologies that automatically collect information when you visit our sites, view our advertisements, or use our products or services. For example, we use cookies (a tiny file stored on your computer’s browser) to tell us what browser and operating system you are using, your IP address, web pages you visit, links you click, or whether you have or have not opened an email from us. 
-
-**from mobile applications and internet connected devices.** **** To give you the best possible user experience, we may use technologies that collect information from your phone when you use our mobile apps or from “smart” devices in your home. You consent to do this when downloading the app or installing household internet connected devices. This information could include your mobile phone or other device advertising ID, information about your phone’s operating system, how you use the app or device, and your physical location. You will get a pop up notice on your phone or device that gives you the option to accept or reject allowing us to know your precise geolocation (exactly where you are standing or where you are accessing the internet). 
-
-**from other places.** We may get information that other companies share with or sell to us. For example, you may have given consent for another company to share your personal information with us when you signed up for telecom services or a retailer loyalty points program. We may also collect information from places that you know everyone can see, such as from internet postings, blog entries, videos, or social media sites. We may also receive information from other companies who are in the business of collecting or aggregating information about you sourced from publicly available databases or from consent you have given to their use and subsequently our use of your information. This might be information about your income level, age, gender, number of people in your family, and products you have bought on the internet or from stores in your neighborhood. 
-
-  
+  * California Consumer Privacy Rights
 
 
-We use your information to help us meet our purpose of touching and improving the lives of people like you every day around the world. We use your information to respond to your questions or requests for information, send you products or samples you have requested, help you manage your P&G site or app preferences, allow you to enter our contests or sweepstakes, or process your payment for the products you buy from us. We may also use your non-personal information (e.g., purchase data, sample requests, etc.) in consumer research or analytics (or personal information when you have consented to participate in such research) to learn more about what consumers want so that we can make new products or improve the ones we already have. 
 
-Another way we use your information is to make sure that what you hear from us is relevant and useful to you as an individual. For example, we may send you information about Gillette® products if you have shown interest in our shaving products by visiting Gillette.com. When we do this, we will use your information – a cookie ID or device ID -- to limit the number of times you see the same advertisement from Gillette. We want you to hear from us about the products you use and love without you hearing the same message over and over again. 
+We collect information when you give it to us, when you contact us, visit our sites, use our mobile applications or services, use our products or devices, or view our advertisements. We also receive information from other companies who have obtained your consent to share or sell it, have ensured that other companies from whom they have received your information can share it with them and, in turn, with us and/or other companies or have collected the information when you visit their websites. 
 
-We may also use aggregate information from many people without identifying any individuals to better understand how our websites are being used or to study consumer habits so that we can make products and offer services that meet the needs of all consumers sharing some of the same things in common. For example, we can learn a lot about consumers who are new parents reading our baby product websites, so that we can better serve new parents everywhere with the products and services they want. Use of such non-personal information in this way helps to safeguard your privacy. We will always try to use non-personal information whenever possible for this reason. 
+We may combine any and all of this information to help create better products, services, and consumer experiences. We collect the following types of information from you and may have collected such information during the 12-month period prior to the date this privacy policy was last updated: 
 
-To further protect your privacy, we will also use the least amount of information we can to accomplish the task at hand, put measures in place to prevent mixing information in ways that would allow cookie and device IDs to specifically and directly identify you (e.g., by name), and delete your information when we no longer need it for our business purposes. 
+**_Contact Information_**   
+Data elements in this category include names (including nicknames and previous names), titles, mailing address, email address, telephone/mobile number and contact information for related persons (such as authorized users of your account). 
 
-  
+**_Unique identifiers_**   
+Data elements in this category include unique ID number (such as customer number, account number, subscription number, rewards program number), system identifiers (including username or online credentials), device advertisers, advertising IDs and IP address. 
 
+**_Government-issued identification information numbers_ **   
+Data elements in this category include social security number, driver’s license number and passport number. 
+
+**_Financial information_**   
+Data elements in this category include bank account number and details and payment card information. 
+
+**_Biometric information_** ****   
+Data elements in this category include facial recognition data, voiceprint, fingerprint and a mathematical representation of your biometric identifier, such as the template maintained for comparison. **__**  
+**_Demographic Information and Preferences_**   
+Data elements in this category include personal characteristics and preferences, such as age range, marital and family status, shopping preferences, languages spoken, loyalty and rewards program data, household demographic data, data from social media platforms, education and professional information, hobbies and interests and propensity scores from third parties (likelihood of purchase, experiencing a life event, etc.). 
+
+**_Transaction and Commercial Information_**   
+Data elements in this category include customer account information, qualification data, purchase history and related records (returns, product service records, records of payments, credits etc.), records related to downloads and purchases of products and applications, non-biometric data collected for consumer authentication (passwords, account security questions), customer service records. 
+
+**_Inferred Information derived from other information listed in this section_ ** **** **__**  
+We create inferred and derived data elements by analyzing our relationship and transactional information. Data elements in this category include propensities, attributes and/or scores generated by internal analytics programs. 
+
+**_Online & Technical Information, including internet or other electronic network activity information _ **   
+Data elements in this category include: IP address, MAC address, SSIDs or other device identifiers or persistent identifiers, online user ID, encrypted password, device characteristics (such as browser information), web server logs, application logs, browsing data, viewing data (TV, streaming), website and app usage, first party cookies, third party cookies, flash cookies, Silverlight cookies, web beacons, clear gifs and pixel tags. 
+
+**_Audio Visual Information_** **__**  
+Data elements in this category include photographs, video images, CCTV recordings, Call Center recordings and call monitoring records, and voicemails. 
+
+**_Health Information_** ****  
+Data elements based on how it is collected include: 
+
+_Information collected from consumer programs_ __
+
+  * General health and symptom information or product interest
+  * Pregnancy related information, such as due date
+
+
+
+_Consumer Research Studies where you have provided your informed consent_
+
+  * Information about physical or mental health, disease state, medical history or medical treatment or diagnosis, medicines taken and related information
+
+
+
+**_Internet of Things and Sensor data_** ****  
+Data elements in this category include smart device records, IoT products. 
+
+**_Geolocation data_** ****  
+Data elements in this category include precise location (such as latitude/longitude) 
+
+**_Children’s data_**   
+We do not knowingly collect personal information directly from children under 16, except where we have the consent of the parents or guardians. We receive children’s data from parents and guardians. 
+
+We collect information about you in many ways from many places. Some of the information we collect may include personal information that can be used to identify you; for example, your name, email address, telephone number, or postal address. In some countries like those in the EU or in states like California, things like IP address or cookie and mobile device identifiers may also be considered personal information.
+
+**Here are the ways we collect your information:**
+
+__Please note:_ We may combine all of the information we collect about you to give you better products, services, and user experiences._
+
+**you provide it to us directly.** You give us your information when signing up for an account on our websites or mobile apps or by calling or emailing us. We may ask for things like your name, email or home address, date of birth, payment information, your age, gender, the number of people in your family, and the way you want us to send you information about our products and services—for example, to your home address, email address, or by texting you.
+
+**from sites and emails.** We may use technologies that automatically collect information when you visit our sites, view our advertisements, or use our products or services. For example, we use cookies (a tiny file stored on your computer’s browser) to tell us what browser and operating system you are using, your IP address, web pages you visit, links you click, or whether you have or have not opened an email from us
+
+**from mobile applications and internet connected devices.** To give you the best possible user experience, we may use technologies that collect information from your phone when you use our mobile apps or our “smart” devices in your home. You consent to do this when downloading the app or installing household internet connected devices. This information could include your mobile phone or other device advertising ID, information about your phone’s operating system, how you use the app or device, and your physical location. You will get a pop up notice on your phone or device that gives you the option to accept or reject allowing us to know your precise geolocation (exactly where you are standing or where you are accessing the internet).
+
+**from other places.** We may get information that other companies share with or sell to us. For example, you may have given consent for another company to share your personal information with us when you signed up for telecom services or a retailer loyalty points program. We may also collect information from places that you know everyone can see, such as from internet postings, blog entries, videos, or social media sites. We may also receive information from other companies, such as consumer data resellers, who are in the business of collecting or aggregating information about you sourced from publicly available databases (in line with local legal requirements as applicable) or from consent you have given to their use and subsequently our use of your information. This might be information about your income level, age, gender, number of people in your family, and products you have bought on the internet or from stores in your neighborhood.
+
+We use your information to help us meet our purpose of touching and improving the lives of people like you every day around the world. For example, we use your information to:
+
+  * Perform Services 
+  * Identify and authenticate you to our different marketing programs and websites
+  * Respond to your questions or requests for information, 
+  * Provide customer service 
+  * Send transactional messages (such as account statements or confirmations), 
+  * Send marketing communications, survey and invitations
+  * Process your payment for the products you buy from us
+  * Process and issue refunds and collections
+  * Send you products or samples you have requested
+  * Help you manage your P&G site or app preferences
+  * Allow you to enter our contests or sweepstakes
+  * Interact with you on social media
+
+
+
+We also use your information for internal business purposes, such as:
+
+  * Quality control, training and analytics
+  * Safety Maintenance and verification
+  * System administration and technology management, including optimizing our websites and applications
+  * Security purposes, including detecting threats and protecting against malicious or fraudulent activity
+  * Recordkeeping and auditing interactions with consumers, including logs and records maintained as part of transaction information
+  * Risk management, audit, investigations, reporting and other legal and compliance reasons
+
+
+
+We may also use your personal information to better understand you and our customers generally, including:
+
+  * For internal research
+  * To design and develop products, services and programs that delight our consumers
+  * To identify prospective consumers
+
+
+
+Another way we use your information is to track your use of products, services and websites to make sure that what you hear from us is relevant and useful to you as an individual. For example, we may send you information about Gillette® products if you have shown interest in our shaving products by visiting Gillette.com. When we do this, we may identify you or your device and associate you with different devices you may use in order to deliver more relevant advertising to you. We will use your information – a cookie ID or device ID -- to limit the number of times you see the same advertisement from Gillette. We want you to hear from us about the products you use and love without you hearing the same message We may also use your personal information to learn more about what consumers want so that we can make new products or improve the ones we already have.
 
 We respect your personal information and take steps to protect it from loss, misuse, or alteration. Where appropriate, these steps can include technical measures like firewalls, intrusion detection and prevention systems, unique and complex passwords, and encryption. We also use organizational and physical measures such as training staff on data processing obligations, identification of data incidents and risks, restricting staff access to your personal information, and ensuring physical security including appropriately securing documents when not being used 
 
-  
+**with other companies.** **** When we have your consent, we may share your information with select partners so they can send you offers, promotions, or ads about products or services we believe you may be interested in. For example, people who receive P&G emails from our diaper brands such as Pampers® may also consent to hear about baby formulas made by other companies. We do not sell your personal information to marketers outside of P&G in exchange for monetary compensation. For purposes of California law, however, we may share information with third parties in a way that is considered a “sale”. Where that is the case, we will comply with California “Do Not Sell” requirements. For more information, please consult the California Consumer Privacy Rights section of the privacy policy below.   
 
 
-**with other companies.** **** When we have your consent, we may share your information with select partners so they can send you offers, promotions, or ads about products or services we believe you may be interested in. For example, people who receive P&G emails from our diaper brands such as Pampers® may also consent to hear about baby formulas made by other companies. We do not sell your personal information to marketers outside of P&G. We may share information that does not personally identify you with other companies for any purpose.   
-
-
-**with service providers.** We may need to share your information with companies who help us run our business, including hosting our sites, delivering our emails to you, analyzing the data we collect, and sending you the products and services you requested. We share only the personal information needed for these companies to complete the tasks we request. They are required to protect your information in the same way we do and will not share it or use it for any other purpose. 
+**with service providers.** We may share your information with service providers who help us run our business, including hosting our sites, delivering our emails and marketing communications to you, analyzing the data we collect, helping us with sales attribution (e.g., to see if we showed you an ad on a platform site and then you bought a product from us) and sending you the products and services you requested. We also share your information with lawyers, auditors, consultants, information technology and security firms, and others who provide services to us. We share only the personal information needed for these companies to complete the tasks we request. They are required to protect your information in the same way we do and will not share it or use it for any other purpose than to provide us services. During the 12-month period prior to this privacy policy’s last update, we may have disclosed data from all of the categories listed in the “What We Collect” section above to third parties for a business purpose depending upon the specifics of the business execution. 
 
 **other situations.** If a brand or one of our businesses with which you’ve shared personal data is sold to another company, your data will be shared with that company. As a result, your account and the personal data in it will not be deleted unless you tell the brand or new company that you want it deleted. We may also share your information with companies who help us protect our rights and property, or when required by law or government authorities. 
-
-  
-
 
 **marketing** You can tell us to stop sending you email and text messages by following the opt-out instructions sent with these communications. You can also choose to stop receiving marketing email, SMS, or postal mailings by [clicking here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html). While we will honor your choices, we may need to keep information to do so. For example, if you tell us to stop sending marketing emails, we will need your email address on file so that our systems remember that you no longer wish to receive marketing communications to that email address. 
 
 **accounts** Depending upon the country where you registered, your P&G account may offer the ability to access your information and make updates to or delete your data. If not, you can [ click here ](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to make a request. 
 
-**european union residents.** If you live in the EU, you may access the personal data we hold about you, request that inaccurate, outdated, or no longer necessary information be corrected, erased, or restricted, and ask us to provide your data in a format that allows you to transfer it to another service provider. You also may withdraw your consent at any time where we are relying on your consent for the processing of your personal data. And you may object to our processing of your personal data (this means ask us to stop using it) where that processing is based on our legitimate interest (this means we have a reason for using the data). If you would like more information about data protection and your personal data rights in general, please visit the European Data Protection Supervisor’s site at [ https://edps.europa.eu/data-protection/ ](https://edps.europa.eu/data-protection/) . If you are not happy with our response to your requests, you may lodge a complaint with the data protection authority in your country. Please select from the following options to make your request: 
+**California residents.** If you live in California, you may access the personal information we hold about you, request details about how we process your personal information, ask us to delete your data or request that we no longer “sell” your personal information (as “sell” is defined in the CCPA). To learn more and to exercise such rights, please click here. 
+
+**european union residents.** If you live in the EU/EEA, or are physically in the EU/EEA, you may access the personal data we hold about you, request that inaccurate, outdated, or no longer necessary information be corrected, erased, or restricted, and ask us to provide your data in a format that allows you to transfer it to another service provider. You also may withdraw your consent at any time where we are relying on your consent for the processing of your personal data. And you may object to our processing of your personal data (this means ask us to stop using it) where that processing is based on our legitimate interest (this means we have a reason for using the data). If you would like more information about data protection and your personal data rights in general, please visit the European Data Protection Supervisor’s site at [ https://edps.europa.eu/data-protection/ ](https://edps.europa.eu/data-protection/) . If you are not happy with our response to your requests, you may lodge a complaint with the data protection authority in your country. Please select from the following options to make your request: 
 
 **_general requests_** . To make a request with respect to personal data used for marketing, which would include for example information you provided us as you registered through one of our websites or apps, please contact us [ here ](https://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) . 
 
@@ -107,6 +193,10 @@ We respect your personal information and take steps to protect it from loss, mis
 
 **_dental professionals._** If you are a dental professional and have provided your information to us as part of one of our professional outreach programs, including through [https://www.dentalcare.com](https://www.dentalcare.com/), please contact us through the appropriate country numbers and email addresses listed below. 
 
+**Dental Professional Contact Information**  
+  
+---  
+  
 **Country**
 
 | 
@@ -116,8 +206,6 @@ We respect your personal information and take steps to protect it from loss, mis
 | 
 
 **E-mail**  
-  
----|---|---  
   
 Germany 
 
@@ -192,11 +280,15 @@ France
 [ Click here ](mailto:fluocarilprofessional@pg.com)  
   
   
-Belgium
+Belgium 
 
 | 
 
-For P&G Healthcare:  P&G Health Belgium BVBA, Temselaan 100,  1853 Strombeek-Bever  
+N/A 
+
+| 
+
+[ Click here ](mailto:oralbprofessionalBNL@pg.com)  
   
 Netherlands 
 
@@ -228,9 +320,6 @@ N/A
 
 [ Click here ](mailto:oralbnordicsup.im@pg.com)  
   
-  
-
-
 Cookies are small files sent to your computer as you surf the web.  They store useful information about how you interact with the websites you visit.  Cookies do not collect any information stored on your computer or device or in your files.  Cookies do not contain any information that would directly identify you as a person.  Cookies show your computer and device only as randomly assigned numbers and letters (e.g., cookie ID ABC12345) and never as, for example, John E. Smith.     
 
 We use cookies for a number of reasons, such as: 
@@ -270,9 +359,6 @@ These are the types of cookies we use:
 
 
 
-  
-
-
 When you visit our partner sites, we can show you ads or other content we believe you would like to see. For example, you may receive advertisements for Tide® laundry detergent if we notice that you are visiting sites that sell children’s clothing or school supplies. And from that information we may conclude that you have children and therefore could well be interested in a powerful laundry-cleaning product. In this way, we intend to send you relevant information about our products that might be of benefit to you. 
 
 **we learn from groups of consumers sharing similar interests.** We may place you into a particular group of consumers who show the same interests. For example, we may put you in the group of “razor aficionados” if we see you frequently purchase razors online or you could be a “bargain-shopper” if we notice you use online coupons or look for discounts or sales. We notice these things about you as you look at web pages, links you click on our websites and other websites you visit, mobile applications you use, or our brand emails you view and links you click in the emails. We group together cookie and device IDs to help us learn about general trends, habits, or characteristics from a group of consumers who all act similarly online and/or offline. By doing this, we can find and serve many others who “look like” those already in the group and thereby send them what we believe will be relevant and beneficial product offers and information. 
@@ -281,14 +367,11 @@ When you visit our partner sites, we can show you ads or other content we believ
 
 **we may know you across all of your computers, tablets, phones, and devices.** We may know that cookie ID ABC12345 is from a computer that that may be connected to the same person or household owning the mobile phone with device ID EFG15647. This means that you may search for diapers on your laptop, click on a Google search result link which we have sponsored, and then later see an ad for our Pampers® brand diapers on your mobile phone. We might assume or deduce that the same person owns the computer and phone because, for example, they sign on to the same WiFi network every day at the same time. Understanding what devices seem to be used by a person or household helps us limit the number of times you see the same ad across all of your devices. And this is important because that way you don’t get annoyed at us for spamming you with the same ad and we don’t pay for such repetitive ads that we don’t want you to receive. 
 
-**how you can stop receiving interest-based ads.** **** To stop receiving P&G interest-based advertising, you can [ click here ](http://optout.networkadvertising.org/) or click on the WebChoices or AppChoices icons on one of our sites or in one of our mobile applications. **** You can also prevent getting interest-based ads on websites by declining cookies in your browser(s), declining the “access to data” requests that apps usually present when you install them, or by adjusting the ad tracking settings on your device. 
+**how you can stop receiving interest-based ads.** **** To stop receiving P&G interest-based advertising, you can [ click here ](http://optout.aboutads.info/) or click on the AdChoices icon on one of our sites. You can also prevent getting interest-based ads on websites by declining cookies in your browser(s), declining the “access to data” requests that apps usually present when you install them, or by adjusting the ad tracking settings on your device. 
 
 **you will still see “contextual” ads even if you opt out of interest-based ads.** Even if we stop sending you interest-based ads, you will still get ads from our brands on your computer or mobile devices. These ads, however, are based on the context of the sites you visit and are called contextual ads. Unlike interest-based ads which are based on pages you visit on your mobile phone or computer viewing activities, contextual ads are ads shown to you based on the context of the specific site you are visiting. For example, you still may see an ad for one of our baby care brands while looking at nursery products online because these sites traditionally have had mostly new or expecting parents as visitors. You should also know that we may still collect information from your computer or devices and use it for other purposes like evaluating how our websites work, for consumer research, or detecting fraud. 
 
 **deleting cookies also deletes your opt out.** When you opt out of interest-based advertising, we send an opt-out cookie to your browser that tells us that you no longer want to receive interest-based ads from us. Your opt-out cookie will be deleted if you decide to delete _all_ cookies. This means that you will need to opt-out again if you still do not want to receive interest-based ads. 
-
-  
-
 
 This section applies only to our processing of personal data of EU country residents. It aims to provide increased transparency into our processing, retention, and transfer of EU resident personal data that is in line with the letter and spirit of the General Data Protection Regulation. 
 
@@ -328,11 +411,12 @@ Poland
 
 Procter and Gamble DS Polska sp z o.o.   
   
-Belgium
+Belgium 
 
 | 
 
-For P&G Healthcare:  P&G Health Belgium BVBA, Temselaan 100,  1853 Strombeek-Bever  
+Procter & Gamble Distribution Company (Europe) BVBA  
+For P&G Healthcare: P&G Health Belgium BVBA, Temselaan 100, 1853 Strombeek-Bever   
   
 Czech Republic 
 
@@ -362,13 +446,15 @@ France
 
 | 
 
+Procter & Gamble France SAS/Procter & Gamble Pharmaceuticals France SAS”   
 For P&G HealthCare as of 1 July ‘19 : P&G Health France S.A.S.,   163 Quai Aulagnier, 92600 Asnières-sur-Seine   
   
-Germany
+Germany ****
 
 | 
 
-For P&G HealthCare: P&G Consumer Health Germany GmbH,  Sulzbacher Strasse 40, 65824 Schwalbach am Taunus  
+Procter & Gamble Service GmbH  
+For P&G Health: P&G Health Germany GmbH, Sulzbacher Strasse 40, 65824 Schwalbach am Taunus   
   
 Greece 
 
@@ -406,17 +492,18 @@ Spain
 
 Procter & Gamble España, S.A.   
   
+United Kingdom 
+
+| 
+
+Procter & Gamble UK  
+Seven Seas Limited, The Heights, Brooklands, Weybridge, Surrey KT13 0XP   
+  
 EU Countries Not Listed 
 
 | 
 
 Procter & Gamble International Operations SA   
-  
-United Kingdom
-
-| 
-
-Seven Seas Limited, The Heights, Brooklands, Weybridge, Surrey KT13 0XP  
   
 **processing and retention.** As a general rule, we keep your data for only as long as it is needed to complete the purpose for which it was collected or as required by law. We may need to keep your data for longer than our specified retention periods to honor your requests, including to continue keeping you opted out of marketing emails, or to comply with legal or other obligations. This chart tells you the type of data we collect, the purposes for which we use it, why such uses comply with the law (legal basis), and how long we usually keep it (retention period). 
 
@@ -442,7 +529,7 @@ Email, name, phone number, postal address, your affinities, your interests, your
 
 | 
 
-To send you materials marketing our products or services or the products or services of our partners. 
+To send you materials, including advertisements, marketing our products or services or the products or services of our partners 
 
 | 
 
@@ -532,18 +619,15 @@ To learn about your Internet interests and customize the ads we send you.
 
 | 
 
-Our legitimate business interests in serving you with relevant advertising. We will obtain your consent for the deployment of cookies on our own websites. 
+Our legitimate business interests in serving you with relevant advertising in all EU/EEA countries, except for France and United Kingdom, where we rely on consent. We will obtain your consent for the deployment of cookies on our own websites in accordance with ePrivacy requirements. 
 
 | 
 
 We will retain this data for thirteen months from the date we collect it or until you opt out, whichever is earlier.   
   
-**transfers of your data to other countries.** Your personal information may be transferred to, stored, and processed in a country other than the one in which it was collected, including the United States. For example, we may store your data on a server in the United States because that is where a particular database is hosted; and that data may be “transferred” again when one of our marketers accesses that data from Switzerland to send you a product sample. We perform such transfers, both between P&G entities and between P&G and our service providers, using contractual protections that EU regulators have pre-approved to ensure your data is protected (known as model contract clauses). If you would like a copy of a transfer agreement, [contact us](mailto:euprivacy@pg.com). 
+**transfers of your data to other countries.** Your personal information may be transferred to, stored, and processed in a country other than the one in which it was collected, including the United States. For example, we may store your data on a server in the United States because that is where a particular database is hosted; and that data may be “transferred” again when one of our marketers accesses that data from Switzerland to send you a product sample. We perform such transfers, both between P&G entities and between P&G and our service providers, using contractual protections that EU regulators have pre-approved to ensure your data is protected (known as model contract clauses). If you would like a copy of a transfer agreement, [contact us](mailto:corporateprivacy.im@pg.com). We may also for certain vendors, e.g., online platform service providers, rely on these vendors’ participation in the U.S./EU Privacy Shield Framework. 
 
-  
-
-
-**plugins.** Our websites may include plugins from other companies such as social networks. An example of a plugin is the Facebook “Like” button. These plugins may collect information (e.g., the url of the page you visited) and send it back to the company that created them. This may happen even if you do not click on the plugin. These plugins are governed by the privacy policy and terms of the company that created them, even though they appear on our sites. These plug-ins are non-essential cookies and will only work on our EU sites if you accept cookies. 
+**plugins.** Our websites may include plugins from other companies such as social networks. An example of a plugin is the Facebook “Like” button. These plugins may collect information (e.g., the url of the page you visited) and send it back to the company that created them. This may happen even if you do not click on the plugin. These plugins are governed by the privacy policy and terms of the company that created them, even though they appear on our sites. We act as a controller of that data for our EU/EEA sites for the purposes of collection and transmission of that data. Such plug-ins are non-essential cookies and will only work on our EU/EEA sites if you accept cookies. 
 
 **logins.** Our websites may allow you to log in using your account with another company such as, for example, “Login with Facebook.” When you do this, we will have access only to the information that you have given us consent to receive from your account settings in the other company’s account you’re using to log in with. 
 
@@ -551,13 +635,51 @@ We will retain this data for thirteen months from the date we collect it or unti
 
 **links.** P&G sites may include links to other sites, which we do not control. Those sites will be governed by their own privacy policies and terms, not ours. 
 
-  
-
-
 **children’s online privacy laws.** We follow all applicable data protection laws when collecting personal information online from children. For example, in the EU we do not collect personal information from children under 16 years of age unless we get consent from a parent. Similarly, in the U.S., we obtain verified parental consent when collecting personal information from children younger than 13. 
 
-**california notice for minors.** We may offer interactive services which allow teens under the age of 18 to upload their own content (e.g., videos, comments, status updates, or pictures). This content can be removed or deleted any time by following the instructions on our sites. If you have questions about how to do this, [ contact us](https://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) Be aware that such posts may have been copied, forwarded, or posted elsewhere by others and we are not responsible for any such actions. You will, in such cases, have to contact other site owners to request removal of your content. 
+For more information about the categories of personal information we collect, business and commercial purposes for the collection of the personal information and categories of third parties with whom we share the personal information, please see the disclosures above. As a California resident, you may have the right to request, twice in a 12-month period, the following information about the personal information we have collected about you during the past 12 months: 
 
+  * the categories and specific pieces of personal information we have collected about you; 
+  * the categories of sources from which we collected the personal information; 
+  * the business or commercial purpose for which we collected or sold the personal information; 
+  * the categories of third parties with whom we shared the personal information; and 
+  * the categories of personal information about you that we sold or disclosed for a business purpose, and the categories of third parties to whom we sold or disclosed that information for a business purpose.
+
+
+
+In addition, you have the right to request that we delete certain personal information we have collected from you. To submit a request for general disclosure **_[contact us here](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/0acf3adf-0519-46bc-810c-8f0414939ddf/00b66ad7-e04a-4c8c-856e-594bc159290e.html)_** , to access all the information we have about you **_[contact us here](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/0acf3adf-0519-46bc-810c-8f0414939ddf/797cf3e0-01b6-42d2-8bec-e542ef97a042.html)_** or to ask to delete your data as described above you can **_[contact us here](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/0acf3adf-0519-46bc-810c-8f0414939ddf/95727151-24ab-4907-b0f5-51013d8dd5ae.html)_** or call us at **(877) 701-0404** in any case. To help protect your privacy and maintain security, we take steps to verify your identity before granting you access to your personal information or considering your deletion request. Upon receipt of your request, we will send you a verification form by email or postal mail. To complete your request, please respond to the verification form when you receive it. To verify your identity, we may require you to provide any of the following information: Name, email address, postal address, or date of birth. In addition, if you ask us to provide you with specific pieces of personal information, we will require you to sign a declaration under penalty of perjury that you are the consumer whose personal information is the subject of the request. ****
+
+Please understand that P&G cannot delete personal information in those situations where our retention is required for our own internal business purposes or otherwise permitted by the CCPA (such as fraud prevention or legal compliance). In these situations, we will retain your information in accordance with our records retention program and securely delete it at the end of the retention period. 
+
+Finally, you also have the right to _opt out_ of the sale of your personal information. **** To exercise that right, please complete the process by **_[contacting us here](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/0acf3adf-0519-46bc-810c-8f0414939ddf/6aea9f6f-7943-490c-b482-3b56832fd47c.html)_ **or call us at **(877) 701-0404.**
+
+For more information about how we have shared your information with third parties such that it constitutes a “sale” under CCPA during the 12-month period prior to the date this privacy policy was last updated, please see the below chart. We do not knowingly sell personal information of minors under 16 years of age. 
+
+**“Sales” of Personal Information**
+
+| 
+
+**How to Opt Out**  
   
+---|---  
+  
+**Unique Identifiers, Inferred and Derived Information, Online & Technical Information, **
+
+**Geolocation Data**
+
+| 
+
+To opt out of sales of your data, **_[click here](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/0acf3adf-0519-46bc-810c-8f0414939ddf/6aea9f6f-7943-490c-b482-3b56832fd47c.html)_** or call us at (877) 701-0404.   
+  
+**Demographic Information and Preferences**  
+  
+**Any other information with your consent**  
+  
+Under the CCPA, you may designate an authorized agent to make a request on your behalf but the agent will need to complete the verification process, including the submission of proof that it has been designated to act on your behalf. For access and deletion requests made by an authorized agent on your behalf, we also may require you to verify your own identity directly with us (as described above). We will not deny, charge different prices for, or provide a different level or quality of goods or services if you choose to exercise your rights under the CCPA. 
+
+**california notice for minors.** We may offer interactive services which allow teens under the age of 18 to upload their own content (e.g., videos, comments, status updates, or pictures). This content can be removed or deleted any time by following the instructions on our sites. If you have questions about how to do this, [ contact us ](https://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) _._ Be aware that such posts may have been copied, forwarded, or posted elsewhere by others and we are not responsible for any such actions. You will, in such cases, have to contact other site owners to request removal of your content. 
+
+Please [ contact us](https://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) directly with any questions or concerns you may have about your privacy and our data protection practices or if you are a consumer with a disability and need a copy of this notice in an alternative format.
+
   
 
