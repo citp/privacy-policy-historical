@@ -1,413 +1,1430 @@
-<!--The following is the downloaded HTML source of the universityrooms.com privacy policy that was archived on 2017-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171012085622id_/http%3A//www.universityrooms.com/en/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the universityrooms.com privacy policy that was archived on 2019-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191228234731id_/https%3A//www.universityrooms.com/en-GB/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="google-site-verification" content="jdpTt9xNszf8fbejV2KUqcp-BmzWB8BbaVVEDcTmYwQ"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<!DOCTYPE html><html class="load-full-screen"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"><meta name="description"><meta name="author" content="SpeedyBooker"><meta property="og:url" content="https://www.universityrooms.com/pages/contentPage.aspx?id=TBN-privacy&amp;lang=en">
+<meta property="og:title" content="bookings for everyone">
+<meta property="og:type" content="article"><meta property="og:image" content="https://www.universityrooms.com/assets/images/brand/logo-ur4.png"><link rel="publisher" href="https://plus.google.com/100047467231647829784">
+<link rel="shortcut icon" href="/en-GB/favicon-ur.ico" type="image/x-icon">
+<link rel="icon" href="/en-GB/favicon-ur.ico" type="image/ico">
+<meta name="twitter:card" content="summary"><meta name="twitter:site" content="@universityrooms"><meta name="twitter:title" content="University Rooms">
+<meta name="twitter:description" content="Save money and stay in empty uni rooms even if you're not a student. University rooms are a central, cheap &amp; comfortable alternative to a hotel.">
+<meta name="twitter:image" content="https://www.speedybooker.com/assets/images/brand/ur-logo5.png"><link rel="alternate" hreflang="en" href="//www.universityrooms.com/en-GB/privacy"><link rel="alternate" hreflang="fr" href="//www.universityrooms.com/fr-FR/privacy"><link rel="alternate" hreflang="it" href="//www.universityrooms.com/it-IT/privacy"><link rel="alternate" hreflang="de" href="//www.universityrooms.com/de-DE/privacy"><link rel="alternate" hreflang="es" href="//www.universityrooms.com/es-ES/privacy"><link rel="alternate" hreflang="zh" href="//www.universityrooms.com/zh-CN/privacy">
 
-    <meta property="og:title" content="Stay in University Colleges and Student Residences">
-    <meta property="og:type" content="article"><meta property="og:url" content="http://www.universityrooms.com/content.aspx?id=TBN-privacy&amp;lang=en"><meta property="og:image" content="http://universityrooms.com/img/profile.jpg"><link rel="publisher" href="https://plus.google.com/100047467231647829784"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@universityrooms">
-    <meta name="twitter:title" content="Stay in University Colleges and Student Residences">
-    <meta name="twitter:description" content="A unique bed and breakfast alternative to hotel accommodation in the UK and Europe.">
-    <meta name="twitter:image" content="http://universityrooms.com/img/profile.jpg"><meta name="Description" content="A unique bed and breakfast alternative to hotel accommodation in the UK and Europe."><link rel="stylesheet" type="text/css" href="/css/bundle.min.css?d=2017.03.22-1">
+<link href="/assets/css/dist/mainbundle.min.css?v20191125" rel="stylesheet" async="" defer=""><link rel="preload" as="font" type="font/woff2" href="/assets/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0" crossorigin=""><link href="/assets/css/brand/bundle/ur-bundle.min.css?v13" rel="stylesheet">
 
-    <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" async="" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4&amp;appId=423922050952665"></script><script type="text/javascript">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,800,700,600" rel="stylesheet" type="text/css" defer=""><link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+<script>
+        var fullyloaded = false;
+        var LanguagePrefix = "/en-GB";
+        function defer(method) {
+            if (window.jQuery) {
+                if (fullyloaded == false) {
+                    setTimeout(function () {
+                        //we dont want to wait for fully loaded event again.
+                        fullyloaded = true;
+                        defer(method);
+                    }, 100);
+                }
+                else {
+                    $(document).ready(function () {
+                        method();
+                    });
+                }
+            }
+            else {
+                setTimeout(function () {
+                    defer(method);
+                }, 100);
+            }
+        }
+        function getScript(url, success) {
+            var loaded = false;
+            var head = document.getElementsByTagName('head')[0];
+            var script = document.createElement('script');
+            script.src = url;
 
-        function InitMasterPage() {
-            $(document).ready(function () {
-                //show/hide hidden content (when H1 or B is clicked inside these layers)
-                $(".hiddenContent .clickable").click(function () {
-                    var width = jQuery(window).width();
-                    if (width < 768) {
-                        var menuContents = $(this).parent().find(".hidden");
-                        var newValue = menuContents.css("display") != "none" ? "none" : "block";
-                        menuContents.css({ "display": newValue });
-                    }
+            script.onload = script.onreadystatechange = function () {
+                if (!loaded && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                    loaded = true;
+                    success();
+                    script.onload = script.onreadystatechange = null;
+                    head.removeChild(script);
+                }
+            };
+            head.appendChild(script);
+        }
+        if (!Array.prototype.includes) {
+            Object.defineProperty(Array.prototype, "includes", {
+                enumerable: false,
+                value: function (obj) {
+                    var newArr = this.filter(function (el) {
+                        return el == obj;
+                    });
+                    return newArr.length > 0;
+                }
+            });
+        }
 
+    </script>
+
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-47792491-1"></script>
+<script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag() { dataLayer.push(arguments); }
+                gtag('js', new Date());                     
+                gtag('config', 'UA-47792491-1');var UserClientID = '';
+                    defer(function () {
+                        ga(function(){ 
+                            var tracker = ga.getAll()[0]; 
+                            var clientId = tracker.get('clientId'); 
+                            document.getElementById('clientId').value = clientId;
+                            UserClientID = clientId;
+                        });
+                        $(document).ready(function () {
+                            var host = 'www.universityrooms.com';
+                            jQuery.ajax({
+                        url: '/Ajax/SetAnalyticsClientId.aspx?clientID=' + UserClientID,
+                            });
+                        });
+                    });                   
+            </script>
+<script>
+        var itemsInBasket = -1;
+
+        window.onpageshow = function (event) {
+            if (event.persisted) {
+                defer(function () {
+                    $('<style>#updateProgressMain { display: none !important; }</style>').appendTo('head');
                 });
-                initHandlers();
-                //check if the message about rotating the tablet to landscape mode should be displayed
-                var width = jQuery(window).width();
-                if (width < 768 && width > 400) {
-                    var height = jQuery(window).height();
-                    if (height > width) {
-                        var alerted = localStorage.getItem('rotateMsg') || '';
-                        if (alerted != 'yes') {
-                            setTimeout('alert("You might want to rotate your device for a better view!")', 500);
-                        localStorage.setItem('rotateMsg', 'yes');
+            }
+        };
+
+        defer(function(){    
+      
+            $('#BurgerButton').on('click', function () {
+                $('#MenuSection').slideToggle();
+            });
+
+        
+
+            $('.navbar-toggle .fa-bars').on('click', function () {
+                if ($('#UCFeedbackBannerUR_Stars').hasClass('hide-feedback')) {
+                    $('#UCFeedbackBannerUR_Stars').removeClass('hide-feedback').addClass('show-feedback')
+                }
+                else {
+                    $('#UCFeedbackBannerUR_Stars').removeClass('show-feedback').addClass('hide-feedback')
+                }
+            });
+
+            $('#FeaturedInCarousel').carousel({
+                interval: 15000
+            });
+
+            
+            /* SLIDER SETTINGS */
+            
+            jQuery.supersized({
+                // Functionality
+                slideshow: 0,			// Slideshow on/off
+                autoplay: 0,			// Slideshow starts playing automatically
+                start_slide: 1,			// Start slide (0 is random)
+                stop_loop: 0,			// Pauses slideshow on last slide
+                random: 0,			// Randomize slide order (Ignores start slide)
+                slide_interval: 0,		// Length between transitions
+                transition: 0, 			// 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
+                transition_speed: 0,		// Speed of transition
+                new_window: 0,			// Image links open in new window/tab
+                pause_hover: 0,			// Pause slideshow on hover
+                keyboard_nav: 0,			// Keyboard navigation on/off
+                performance: 0,			// 0-Normal, 1-Hybrid speed/quality, 2-Optimizes image quality, 3-Optimizes transition speed // (Only works for Firefox/IE, not Webkit)
+                image_protect: 1,			// Disables image dragging and right click with Javascript
+                slideshow_interval: 0,
+                // Size & Position
+                min_width: 0,			// Min width allowed (in pixels)
+                min_height: 0,			// Min height allowed (in pixels)
+                vertical_center: 1,			// Vertically center background
+                horizontal_center: 1,			// Horizontally center background
+                fit_always: 0,			// Image will never exceed browser width or height (Ignores min. dimensions)
+                fit_portrait: 0,			// Portrait images will not exceed browser height
+                fit_landscape: 0,			// Landscape images will not exceed browser width
+
+                // Components
+                slide_links: 'blank',	// Individual links for each slide (Options: false, 'num', 'name', 'blank')
+                thumb_links: 0,			// Individual thumb links for each slide
+                thumbnail_navigation: 0,			// Thumbnail navigation
+                slides: [			// Slideshow Images
+                        { image: '/assets/images/background/ur.jpeg', title: 'look' },
+                ],
+                progress_bar: 0,			// Timer for each slide
+                mouse_scrub: 0
+            });
+            
+        });
+    </script>
+<script>
+        defer(function () {
+            $('.footer-heading').on('click', function (event) {
+                if (window.innerWidth < 992){
+                    var id = event.target.id;
+                    var chevronID = "#" + id;
+                    var listID = "[data-id='" + id + "']";
+
+                    $('.footer-list').slideUp();
+
+                    if ($(chevronID).hasClass('selected-heading')) {
+                        $('.footer-heading').removeClass('selected-heading');
                     }
+                    else {
+                        $(listID).slideDown();
+                        $('.footer-heading').removeClass('selected-heading');
+                        $(chevronID).addClass('selected-heading');
+                    }
+
+                    $('.footer-heading').each(function () {
+                        if ($(this).hasClass('selected-heading')) {
+                            $(this).children().removeClass('fa-chevron-down').addClass('fa-chevron-up')
+                        }
+                        else {
+                            $(this).children().removeClass('fa-chevron-up').addClass('fa-chevron-down')
+                        }
+                    })
+                }
+            })
+
+            var originalWidth = 0;
+
+            $(window).on('load', function () {
+                originalWidth = window.innerWidth;
+            })
+
+            $(window).resize(function () {
+                var windowWidth = window.innerWidth;
+                if (originalWidth != windowWidth) {
+                    if (windowWidth > 991) {
+                        $('.footer-list').css('display', 'block')
+                    }
+                    else {
+                        $('.footer-list').css('display', 'none')
+                        $('.footer-heading').removeClass('selected-heading')
+                        $('.footer-heading').children().removeClass('fa-chevron-up').addClass('fa-chevron-down')
+                    }
+                    originalWidth = windowWidth;
+                }
+            });
+        });
+    </script>
+
+<script type="text/javascript" src="/assets/js/dist/mainjs.min.js?v20191120" async="" defer=""></script>
+<link rel="canonical" href="/en-GB/privacy">
+<title>University Rooms | Privacy Policy</title>
+<meta name="description" content="Read the full University Rooms privacy policy.">
+<title>
+
+</title></head>
+<body class="load-full-screen language-en">
+
+<div style="display: none;">
+<img src="/assets/images/flags/lang/all-flags.png" border="0">
+<img class="lazy-load" data-src="/assets/images/partner/partnersmap.png" border="0">
+<img src="/assets/images/background/ur.jpeg" border="0">
+</div>
+
+<script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1060483851;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+<noscript>
+        <div style="display: inline;">
+            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1060483851/?guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+<form method="post" action="/en-GB/privacy" id="form1" data-toggle="validator" data-disable="false" role="form">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg5MjIzNjk3N2RkSQHQ0jJ2491Cn1plGpSxOkiuZ0E=">
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+<script src="/WebResource.axd?d=fi01kfOJoB9Pur6hjU46s55Fvm5Q0lllXGC2YfWBOKVt8Nurz-lo8R7tl8fY4COAcLMYC1138MlOfMlwuEp9fmHtgLQ1&amp;t=636776725224055265" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=X5xy64jtPKIRQzqNDO8rHkZ9j1Vr74LgYV4mOjuIJNgQX-j-KipX-S0UBvGtBAkBeTJNWwJ9By4DtsyA85ZdWPVBfqyKQCgtDIJPw5df0dB7yNh__h7r0Dmwd3-ICGILqqy2AQQcNT5BA7mWFHU93wUki7SiXoVCLM__duRpYaIEANVI0&amp;t=ffffffff999c3159" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=o_sDnZArMsRTu_cKrXwGxTAho7VHtFGzEyNkpOfBsDfiW_oI5fKFE8izflGbtHPq8_-BFG7tL_nEmtjNNZNaYKRjwfY3xTUWzt3X1PfG4sVIHzVZu-8x98KDpHpkaPDZZOj63_eqMGxolg4HkV0TBEGZ38WRUnMMlcbx1iyfI1wkwSOF0&amp;t=ffffffff999c3159" type="text/javascript"></script>
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="DA7F1056">
+</div>
+<input type="hidden" autocomplete="false">
+<input type="hidden" id="clientId" name="clientId">
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$scriptManagerMain', 'form1', ['tctl00$updatePanelMain','updatePanelMain'], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+<style>
+            @media only screen and (min-width: 768px) {
+                .mobile-text-search-form {
+                    padding-bottom: 2% !important;
+                    height: 10% !important;
+                    padding-top: 1% !important;
                 }
             }
 
-                //when the mouse hovers over the icons on the lower right, the relevant link on the right should be highlighted
-                $(".linksLogo a").hover(function () {
-                    var linkToHighlight = $(this).parent().parent().find(".linksContent").find("a");
-                    linkToHighlight.css({ "text-decoration": "underline" });
-                }, function () {
-                    var linkToHighlight = $(this).parent().parent().find(".linksContent").find("a");
-                    linkToHighlight.css({ "text-decoration": "none" });
+            @media only screen and (max-width: 767px) {
+                #ui-id-2 {
+                    width: 100%;
+                    border: 0px;
                 }
-                );
+            }
+        </style>
+<div id="nav-cover"></div>
 
-
-                if (typeof InitPage == 'function') {
-                    InitPage();
-                }
-
-
-
-            });
-
-    }
-
-    function showMyBasket(url) {
-        var clientid = document.getElementById('clientId').value;
-        if (clientid.length > 50) clientid = "11111.11111";
-        var goHere = url.replace('clidvalue', document.getElementById('clientId').value);
-        document.location.href = goHere;
-    }
-    </script>
-
-    <script src="/js/bundle.min.js" onload="InitMasterPage()"></script>
-
-    <script>
-        document.write(unescape("%3Cscript  async=\'async\'  src='https://google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script async="async" src="https://google-analytics.com/ga.js" type="text/javascript"></script>
-
-    <link rel="alternate" hreflang="fr" href="/fr/privacy"><link rel="alternate" hreflang="it" href="/it/privacy"><link rel="alternate" hreflang="de" href="/de/privacy"><link rel="alternate" hreflang="es" href="/es/privacy">
-
-<title>
-	Accommodation in University Colleges and Student Residences
-</title></head>
-<body>
-    <div id="fb-root"></div><script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=423922050952665";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
-
-    <form method="post" action="./content.aspx?id=TBN-privacy&amp;lang=en" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTYxODMyMDExMg8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgJmD2QWBGYPZBYCAgkPFgIeB2NvbnRlbnQFU0EgdW5pcXVlIGJlZCBhbmQgYnJlYWtmYXN0IGFsdGVybmF0aXZlIHRvIGhvdGVsIGFjY29tbW9kYXRpb24gaW4gdGhlIFVLIGFuZCBFdXJvcGUuZAIBD2QWAgICD2QWBAIBDw8WAh4HVmlzaWJsZWhkFghmDxYCHwJoZAIBDxYCHwJoZAICDxYCHwJoZAIDDxYCHwJoZAIDDxYCHglpbm5lcmh0bWwF2xw8cD4NCgk8c3Ryb25nPlByaXZhY3kgUG9saWN5PC9zdHJvbmc+PC9wPg0KPHA+DQoJVGhpcyBzaXRlIGlzIHBvd2VyZWQgYnkgU3BlZWR5Qm9va2VyLCBwYXJ0IG9mIFNwZWVkeUJvb2tlci5jb20gTHRkICg8c3Ryb25nPldlLCBVcywgT3VyPC9zdHJvbmc+KSwgd2hpY2ggaXMgY29tbWl0dGVkIHRvIHByZXNlcnZpbmcgdGhlIHByaXZhY3kgb2YgYWxsIHZpc2l0b3JzIHRvIE91ciB3ZWJzaXRlcyBhbmQgcGFydG5lciB3ZWJzaXRlcy4gQnkgdmlzaXRpbmcgb3IgbWFraW5nIGEgYm9va2luZyB0aHJvdWdoIHRoaXMgd2Vic2l0ZSwgWW91IGNvbnNlbnQgdG8gdGhlIGNvbGxlY3Rpb24sIHVzZSBhbmQgdHJhbnNmZXIgb2YgWW91ciBpbmZvcm1hdGlvbiB1bmRlciB0aGUgdGVybXMgb2YgdGhpcyBwb2xpY3kuPC9wPg0KPHA+DQoJPHN0cm9uZz5Db29raWVzOjwvc3Ryb25nPjwvcD4NCjxwPg0KCUNvb2tpZXMgaGVscCB1cyBkZWxpdmVyIG91ciBzZXJ2aWNlcy4gQnkgdXNpbmcgb3VyIHNlcnZpY2VzLCB5b3UgYWdyZWUgdG8gb3VyIHVzZSBvZiBjb29raWVzLjwvcD4NCjxwPg0KCTxzdHJvbmc+SW5mb3JtYXRpb24gdGhhdCB3ZSBjb2xsZWN0IGZyb20geW91Ojwvc3Ryb25nPjwvcD4NCjxwPg0KCS0gV2hlbiBZb3UgdmlzaXQsIHJlZ2lzdGVyIG9yIG9yZGVyIHByb2R1Y3RzIG9yIHNlcnZpY2VzIG9uIHRoaXMgd2Vic2l0ZSBZb3UgbWF5IGJlIGFza2VkIHRvIHByb3ZpZGUgY2VydGFpbiBpbmZvcm1hdGlvbiBhYm91dCB5b3Vyc2VsZiBpbmNsdWRpbmcgWW91ciBuYW1lLCBjb250YWN0IGRldGFpbHMgYW5kIGNyZWRpdCBvciBkZWJpdCBjYXJkIGluZm9ybWF0aW9uLjxiciAvPg0KCS0gV2UgbWF5IGFsc28gY29sbGVjdCBpbmZvcm1hdGlvbiBhYm91dCBZb3VyIHVzYWdlIG9mIE91ciB3ZWJzaXRlIGFzIHdlbGwgYXMgaW5mb3JtYXRpb24gYWJvdXQgWW91IGZyb20gbWVzc2FnZXMgeW91IHBvc3QgdG8gdGhlIHdlYnNpdGUgYW5kIGUtbWFpbHMgb3IgbGV0dGVycyBZb3Ugc2VuZCB0byBVcy48L3A+DQo8cD4NCgk8c3Ryb25nPlVzZSBvZiB5b3VyIEluZm9ybWF0aW9uOjwvc3Ryb25nPjwvcD4NCjxwPg0KCS0gWW91ciBpbmZvcm1hdGlvbiB3aWxsIGVuYWJsZSBVcyBhbmQgdGhlIHZlbmRvcnMgbGlzdGVkIG9uIHRoaXMgd2Vic2l0ZSB0byBzdXBwbHkgdGhlIGdvb2RzIG9yIHNlcnZpY2VzIFlvdSBoYXZlIGJvb2tlZC4gJm5ic3A7V2Ugd2lsbCBhbHNvIHVzZSBhbmQgYW5hbHlzZSB0aGUgaW5mb3JtYXRpb24gV2UgY29sbGVjdCBzbyB0aGF0IFdlIGNhbiBhZG1pbmlzdGVyLCBzdXBwb3J0LCBpbXByb3ZlIGFuZCBkZXZlbG9wIE91ciBidXNpbmVzcy48YnIgLz4NCgktIFdoZXJlIFlvdSBoYXZlIGNvbnNlbnRlZCwgd2Ugd2lsbCB1c2UgeW91ciBpbmZvcm1hdGlvbiB0byBsZXQgWW91IGtub3cgYnkgZW1haWwgYWJvdXQgcHJvZHVjdHMgYW5kIHNlcnZpY2VzIFdlIG9mZmVyLiBJZiBZb3UgY2hhbmdlIFlvdXIgbWluZCBhYm91dCBiZWluZyBjb250YWN0ZWQgaW4gdGhlIGZ1dHVyZSwgWW91IHdpbGwgYmUgYWJsZSB0byBVbnN1YnNjcmliZS48L3A+DQo8cD4NCgk8c3Ryb25nPkRpc2Nsb3N1cmUgb2YgeW91ciBJbmZvcm1hdGlvbjo8L3N0cm9uZz48L3A+DQo8ZGl2Pg0KCS0gTmVpdGhlciB3ZSBub3IgYW55IFZlbmRvciBvciBQYXJ0bmVyIHdpbGwgcmV0YWluIG9yIGhhdmUgYWNjZXNzIHRvIGFueSBvZiBZb3VyIGNyZWRpdCBvciBkZWJpdCBjYXJkIGluZm9ybWF0aW9uLjwvZGl2Pg0KPGRpdj4NCgktIFdlIHdpbGwgbm90IHBhc3MgWW91ciBvdGhlciBpbmZvcm1hdGlvbiB0byBhbnkgdGhpcmQgcGFydGllcyBvdGhlciB0aGFuIHRoZSB2ZW5kb3Igd2hpY2ggWW91IGJvb2sgd2l0aCwgcGFydGllcyB3aG8gZnVsZmlsIGFuZCBkZWxpdmVyIFlvdXIgYm9va2luZ3MsIHByb2Nlc3MgY3JlZGl0IGNhcmQgcGF5bWVudHMgYW5kIHByb3ZpZGUgc3VwcG9ydCBzZXJ2aWNlcyBvbiBvdXIgYmVoYWxmIGFuZCwgaW4gdGhlIGNhc2Ugb2YgYSBTcGVlZHlCb29rZXIgcGFydG5lcnNoaXAsIHRoZSBvd25lciBvZiB0aGUgd2Vic2l0ZSBZb3UgYm9vayB0aHJvdWdoLjwvZGl2Pg0KPGRpdj4NCgktIFRoZSBpbmZvcm1hdGlvbiB5b3UgcHJvdmlkZSB0byBVcyBtYXkgYmUgYWNjZXNzZWQgYnkgVXMsIHRoZSB2ZW5kb3Igd2hpY2ggWW91IGJvb2sgd2l0aCwgcGFydGllcyB3aG8gcHJvY2VzcyBpbmZvcm1hdGlvbiwgZnVsZmlsIGFuZCBkZWxpdmVyIG9yZGVycywgcHJvY2VzcyBjcmVkaXQgY2FyZCBwYXltZW50cyBhbmQgcHJvdmlkZSBzdXBwb3J0IHNlcnZpY2VzIG9uIG91ciBiZWhhbGYgYW5kLCBpbiB0aGUgY2FzZSBvZiBhIFNwZWVkeUJvb2tlciBwYXJ0bmVyc2hpcCwgdGhlIG93bmVyIG9mIHRoZSB3ZWJzaXRlIFlvdSBib29rIHRocm91Z2guPC9kaXY+DQo8ZGl2Pg0KCS0gU29tZSBvZiB0aGVzZSBwYXJ0aWVzIG1heSBiZSBsb2NhdGVkIG91dHNpZGUgdGhlIEV1cm9wZWFuIEVjb25vbWljIEFyZWEgd2hvIGFjdCBmb3IgVXMgZm9yIHRoZSBwdXJwb3NlcyBzZXQgb3V0IGluIHRoaXMgcG9saWN5IG9yIGZvciBvdGhlciBwdXJwb3NlcyBhcHByb3ZlZCBieSBZb3UuPC9kaXY+DQo8ZGl2Pg0KCS0gV2UgbWF5IGFsc28gcGFzcyBhZ2dyZWdhdGUgaW5mb3JtYXRpb24gb24gdGhlIHVzYWdlIG9mIE91ciB3ZWJzaXRlIHRvIHRoaXJkIHBhcnRpZXMgYnV0IHRoaXMgd2lsbCBub3QgaW5jbHVkZSBpbmZvcm1hdGlvbiB0aGF0IGNhbiBiZSB1c2VkIHRvIGlkZW50aWZ5IFlvdS4mbmJzcDs8L2Rpdj4NCjxkaXY+DQoJLSBJZiBPdXIgYnVzaW5lc3MgZW50ZXJzIGludG8gYSBqb2ludCB2ZW50dXJlIHdpdGggb3IgaXMgc29sZCB0byBvciBtZXJnZWQgd2l0aCBhbm90aGVyIGJ1c2luZXNzIGVudGl0eSwgWW91ciBpbmZvcm1hdGlvbiBtYXkgYmUgZGlzY2xvc2VkIHRvIG91ciBOZXcgYnVzaW5lc3MgcGFydG5lcnMgb3Igb3duZXJzLjwvZGl2Pg0KPGRpdj4NCgktIFVubGVzcyByZXF1aXJlZCB0byBkbyBzbyBieSBsYXcsIFdlIHdpbGwgbm90IG90aGVyd2lzZSBzaGFyZSwgc2VsbCBvciBkaXN0cmlidXRlIGFueSBvZiB0aGUgaW5mb3JtYXRpb24gWW91IHByb3ZpZGUgdG8gVXMgd2l0aG91dCBZb3VyIGNvbnNlbnQuPC9kaXY+DQo8cD4NCgk8c3Ryb25nPlNlY3VyaXR5IGFuZCBEYXRhIFJldGVudGlvbjo8L3N0cm9uZz48L3A+DQo8cD4NCgktIFdlIGVtcGxveSBzZWN1cml0eSBtZWFzdXJlcyB0byBwcm90ZWN0IFlvdXIgaW5mb3JtYXRpb24gZnJvbSBhY2Nlc3MgYnkgdW5hdXRob3Jpc2VkIHBlcnNvbnMgYW5kIGFnYWluc3QgdW5sYXdmdWwgcHJvY2Vzc2luZywgYWNjaWRlbnRhbCBsb3NzLCBkZXN0cnVjdGlvbiBhbmQgZGFtYWdlLiBXZSB3aWxsIHJldGFpbiBZb3VyIGluZm9ybWF0aW9uIG9uIE91ciBzZWN1cmUgc2VydmVycyBmb3IgYSByZWFzb25hYmxlIHBlcmlvZCBvciBhcyBsb25nIGFzIHRoZSBsYXcgcmVxdWlyZXMuPC9wPg0KPHA+DQoJPHN0cm9uZz5DaGFuZ2VzIHRvIG91ciBQcml2YWN5IFBvbGljeTo8L3N0cm9uZz48L3A+DQo8cD4NCgktIEFueSBjaGFuZ2VzIHRvIE91ciBwcml2YWN5IHBvbGljeSBpbiB0aGUgZnV0dXJlIHdpbGwgYmUgcG9zdGVkIHRvIHRoZSB3ZWJzaXRlIGFuZCwgd2hlcmUgYXBwcm9wcmlhdGUsIHRocm91Z2ggZS1tYWlsIG5vdGlmaWNhdGlvbi48L3A+DQpkZOIBI8hgOM2T94RrdCR5rsMpGS+T0pTOzwDe/vrthLXV">
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="65E7F3AF">
-        
-
-        <div class="jquery-media-767"></div>
-        <input type="hidden" id="clientId" name="clientId">
-
-        <div id="container">
-            <header>
-
-                <div id="social">
-
-                    <div class="social_hover" style="display: none;">
-                        <img src="/img/desktop/signup_icon.png" width="30" height="30" alt="Sign up">
-                        <div class="social_tooltip">
-                            Signup to our newsletter to keep informed of the best deals.
-                        </div>
-                    </div>
-
-                    <div class="social_hover">
-                        <div id="pinterest"><a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png"></a></div><!-- Please call pinit.js only once per page --><script type="text/javascript">(function(d){var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');p.type = 'text/javascript';p.async = true;p.src = '//assets.pinterest.com/js/pinit.js';f.parentNode.insertBefore(p, f);}(document));</script>
-                        <div class="social_tooltip small">
-                            Follow us on Pinterest.
-                        </div>
-                    </div>
-
-                    <div class="social_hover">
-
-                        <div id="facebooklike"><div class="fb-like" data-href="https://www.facebook.com/UniversityRooms" data-send="false" data-layout="button_count" data-width="84" data-show-faces="false" data-font="verdana"></div></div>
-                        <div class="social_tooltip small">
-                            Like us on Facebook.
-                        </div>
-                    </div>
-
-                    <div class="social_hover">
-                        <div id="twitter"><a class="twitter-share-button" href="https://twitter.com/share" data-via="twitterdev">Tweet</a></div><script>window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.async=true;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));</script>
-                        <div class="social_tooltip small">
-                            Follow us on Twitter.
-                        </div>
-                    </div>
-
-                    
-                </div>
-
-                <div id="mybasket" class="headerbutton"><a href="javascript:showMyBasket('http://www.speedybooker.com/book/jump.aspx?basketId=&amp;brand=ur&amp;lang=en&amp;clientId=clidvalue&amp;page=default.aspx');">My basket</a></div>
-                <div id="signin" class="headerbutton"><a href="http://www.speedybooker.com/mybookings?brand=ur">My Account</a></div>
-
-                <div id="homelogo" onclick="document.location.href='/'"></div>
-                <div id="locationName" class="desktop-content"></div>
-
-                <div id="language" class="languagebutton">
-                    <div class="img-desktop-en_flag"></div>
-
-                    <div id="languagedropdown">
-
-                        <a href="/en/privacy">
-                            <div class="img-desktop-en_flag"></div></a>
-                        <a href="/fr/privacy">
-                            <div class="img-desktop-fr_flag"></div>
-                        </a>
-                        <a href="/es/privacy">
-                            <div class="img-desktop-es_flag"></div>
-                        </a>
-                        <a href="/it/privacy">
-                            <div class="img-desktop-it_flag"></div>
-                        </a>
-                        <a href="/de/privacy">
-                            <div class="img-desktop-de_flag"></div>
-                        </a>
-
-                    </div>
-                </div>
-
-                <div id="cssmenu">
-                    <ul><li id="menu-button"><a><i class="fa fa-bars mobile-menu-bars" aria-hidden="true"></i></a></li>
-                        <li class="mobile-display-content">
-                            <a href="javascript:showMyBasket('http://www.speedybooker.com/book/jump.aspx?basketId=&amp;brand=ur&amp;lang=en&amp;clientId=clidvalue&amp;page=default.aspx');">My basket</a>
-                        </li>
-                        <li class="mobile-display-content">
-                            <a href="http://www.speedybooker.com/mybookings?brand=ur">Sign in</a>
-                        </li>
-                        <li class="has-sub"><a href="#"><span>Europe</span></a>
-                            <ul><li class="has-sub has-cities city-header"><a href="/en/countries/AT" class="disable-mobile-anchor-event">Austria</a><div class="cities europe-cities desktop-content" style="display: none;"><div><h2><a href="/en/countries/AT">Austria</a></h2><hr><div></div><div><a href="/en/city/Linz/home">Linz</a><br><a href="/en/city/salzburg/home">Salzburg</a><br><a href="/en/city/vienna/home">Vienna</a><br></div></div></div><div class="mobile-content" style="display: none;"><ul><li><a href="/en/city/Linz/home">Linz</a></li><li><a href="/en/city/salzburg/home">Salzburg</a></li><li><a href="/en/city/vienna/home">Vienna</a></li></ul></div></li><li class="has-sub has-cities city-header"><a href="/en/countries/FR" class="disable-mobile-anchor-event">France</a><div class="cities europe-cities desktop-content" style="display: none;"><div><h2><a href="/en/countries/FR">France</a></h2><hr><div></div><div><a href="/en/city/aixenprovence/home">Aix-en-Provence</a><br><a href="/en/city/avignon/home">Avignon</a><br><a href="/en/city/caen/home">Caen</a><br><a href="/en/city/Clermont/home">Clermont-Ferrand</a><br><a href="/en/city/larochelle/home">La Rochelle</a><br><a href="/en/city/lyon/home">Lyon</a><br><a href="/en/city/marseille/home">Marseille</a><br><a href="/en/city/macon/home">Mâcon</a><br><a href="/en/city/montpellier/home">Montpellier</a><br><a href="/en/city/nancy/home">Nancy</a><br><a href="/en/city/nice/home">Nice</a><br><a href="/en/city/nimes/home">Nîmes</a><br><a href="/en/city/paris/home">Paris</a><br><a href="/en/city/perpignan/home">Perpignan</a><br><a href="/en/city/reims/home">Reims</a><br><a href="/en/city/strasbourg/home">Strasbourg</a><br></div><div><a href="/en/city/tours/home">Tours</a><br><a href="/en/city/troyes/home">Troyes</a><br><a href="/en/city/valbonne/home">Valbonne</a><br></div></div></div><div class="mobile-content" style="display: none;"><ul><li><a href="/en/city/aixenprovence/home">Aix-en-Provence</a></li><li><a href="/en/city/avignon/home">Avignon</a></li><li><a href="/en/city/caen/home">Caen</a></li><li><a href="/en/city/Clermont/home">Clermont-Ferrand</a></li><li><a href="/en/city/larochelle/home">La Rochelle</a></li><li><a href="/en/city/lyon/home">Lyon</a></li><li><a href="/en/city/marseille/home">Marseille</a></li><li><a href="/en/city/macon/home">Mâcon</a></li><li><a href="/en/city/montpellier/home">Montpellier</a></li><li><a href="/en/city/nancy/home">Nancy</a></li><li><a href="/en/city/nice/home">Nice</a></li><li><a href="/en/city/nimes/home">Nîmes</a></li><li><a href="/en/city/paris/home">Paris</a></li><li><a href="/en/city/perpignan/home">Perpignan</a></li><li><a href="/en/city/reims/home">Reims</a></li><li><a href="/en/city/strasbourg/home">Strasbourg</a></li><li><a href="/en/city/tours/home">Tours</a></li><li><a href="/en/city/troyes/home">Troyes</a></li><li><a href="/en/city/valbonne/home">Valbonne</a></li></ul></div></li><li class="has-sub has-cities city-header"><a href="/en/countries/IE" class="disable-mobile-anchor-event">Ireland</a><div class="cities europe-cities desktop-content" style="display: none;"><div><h2><a href="/en/countries/IE">Ireland</a></h2><hr><div></div><div><a href="/en/city/dublin/home">Dublin</a><br><a href="/en/city/galway/home">Galway</a><br><a href="/en/city/sligo/home">Sligo</a><br></div></div></div><div class="mobile-content" style="display: none;"><ul><li><a href="/en/city/dublin/home">Dublin</a></li><li><a href="/en/city/galway/home">Galway</a></li><li><a href="/en/city/sligo/home">Sligo</a></li></ul></div></li><li class="has-sub has-cities city-header"><a href="/en/countries/IT" class="disable-mobile-anchor-event">Italy</a><div class="cities europe-cities desktop-content" style="display: none;"><div><h2><a href="/en/countries/IT">Italy</a></h2><hr><div></div><div><a href="/en/city/bari/home">Bari</a><br><a href="/en/city/bologna/home">Bologna</a><br><a href="/en/city/Brescia/home">Brescia</a><br><a href="/en/city/cesena/home">Cesena</a><br><a href="/en/city/chieti/home">Chieti</a><br><a href="/en/city/ferrara/home">Ferrara</a><br><a href="/en/city/florence/home">Florence</a><br><a href="/en/city/genoa/home">Genoa</a><br><a href="/en/city/milan/home">Milan</a><br><a href="/en/city/padua/home">Padua</a><br><a href="/en/city/palermo/home">Palermo</a><br><a href="/en/city/parma/home">Parma</a><br><a href="/en/city/pavia/home">Pavia</a><br><a href="/en/city/perugia/home">Perugia</a><br><a href="/en/city/pescara/home">Pescara</a><br><a href="/en/city/pisa/home">Pisa</a><br></div><div><a href="/en/city/rome/home">Rome</a><br><a href="/en/city/sicily/home">Sicily</a><br><a href="/en/city/turin/home">Turin</a><br><a href="/en/city/urbino/home">Urbino</a><br></div></div></div><div class="mobile-content" style="display: none;"><ul><li><a href="/en/city/bari/home">Bari</a></li><li><a href="/en/city/bologna/home">Bologna</a></li><li><a href="/en/city/Brescia/home">Brescia</a></li><li><a href="/en/city/cesena/home">Cesena</a></li><li><a href="/en/city/chieti/home">Chieti</a></li><li><a href="/en/city/ferrara/home">Ferrara</a></li><li><a href="/en/city/florence/home">Florence</a></li><li><a href="/en/city/genoa/home">Genoa</a></li><li><a href="/en/city/milan/home">Milan</a></li><li><a href="/en/city/padua/home">Padua</a></li><li><a href="/en/city/palermo/home">Palermo</a></li><li><a href="/en/city/parma/home">Parma</a></li><li><a href="/en/city/pavia/home">Pavia</a></li><li><a href="/en/city/perugia/home">Perugia</a></li><li><a href="/en/city/pescara/home">Pescara</a></li><li><a href="/en/city/pisa/home">Pisa</a></li><li><a href="/en/city/rome/home">Rome</a></li><li><a href="/en/city/sicily/home">Sicily</a></li><li><a href="/en/city/turin/home">Turin</a></li><li><a href="/en/city/urbino/home">Urbino</a></li></ul></div></li><li class="has-sub has-cities city-header"><a href="/en/countries/MT" class="disable-mobile-anchor-event">Malta</a><div class="cities europe-cities desktop-content" style="display: none;"><div><h2><a href="/en/countries/MT">Malta</a></h2><hr><div></div><div><a href="/en/city/malta/home">Malta</a><br></div></div></div><div class="mobile-content" style="display: none;"><ul><li><a href="/en/city/malta/home">Malta</a></li></ul></div></li><li class="has-sub has-cities city-header"><a href="/en/countries/ES" class="disable-mobile-anchor-event">Spain</a><div class="cities europe-cities desktop-content" style="display: none;"><div><h2><a href="/en/countries/ES">Spain</a></h2><hr><div></div><div><a href="/en/city/alcala/home">Alcalá de Henares</a><br><a href="/en/city/alicante/home">Alicante</a><br><a href="/en/city/barcelona/home">Barcelona</a><br><a href="/en/city/burgos/home">Burgos</a><br><a href="/en/city/granada/home">Granada</a><br><a href="/en/city/madrid/home">Madrid</a><br><a href="/en/city/malaga/home">Malaga</a><br><a href="/en/city/merida/home">Mérida</a><br><a href="/en/city/salamanca/home">Salamanca</a><br><a href="/en/city/sansebastian/home">San Sebastián</a><br><a href="/en/city/seville/home">Seville</a><br><a href="/en/city/valencia/home">Valencia</a><br><a href="/en/city/zaragoza/home">Zaragoza</a><br></div></div></div><div class="mobile-content" style="display: none;"><ul><li><a href="/en/city/alcala/home">Alcalá de Henares</a></li><li><a href="/en/city/alicante/home">Alicante</a></li><li><a href="/en/city/barcelona/home">Barcelona</a></li><li><a href="/en/city/burgos/home">Burgos</a></li><li><a href="/en/city/granada/home">Granada</a></li><li><a href="/en/city/madrid/home">Madrid</a></li><li><a href="/en/city/malaga/home">Malaga</a></li><li><a href="/en/city/merida/home">Mérida</a></li><li><a href="/en/city/salamanca/home">Salamanca</a></li><li><a href="/en/city/sansebastian/home">San Sebastián</a></li><li><a href="/en/city/seville/home">Seville</a></li><li><a href="/en/city/valencia/home">Valencia</a></li><li><a href="/en/city/zaragoza/home">Zaragoza</a></li></ul></div></li><li class="has-sub has-cities city-header"><a href="/en/countries/TR" class="disable-mobile-anchor-event">Turkey</a><div class="cities europe-cities desktop-content" style="display: none;"><div><h2><a href="/en/countries/TR">Turkey</a></h2><hr><div></div><div><a href="/en/city/istanbul/home">Istanbul</a><br></div></div></div><div class="mobile-content" style="display: none;"><ul><li><a href="/en/city/istanbul/home">Istanbul</a></li></ul></div></li><li class="has-sub has-cities city-header"><a href="/en/countries/GB" class="disable-mobile-anchor-event">United Kingdom</a><div class="cities europe-cities desktop-content" style="display: none;"><div><h2><a href="/en/countries/GB">United Kingdom</a></h2><hr><div></div><div><a href="/en/city/bath/home">Bath</a><br><a href="/en/city/belfast/home">Belfast</a><br><a href="/en/city/birmingham/home">Birmingham</a><br><a href="/en/city/bournemouth/home">Bournemouth</a><br><a href="/en/city/bradford/home">Bradford</a><br><a href="/en/city/bristol/home">Bristol</a><br><a href="/en/city/cambridge/home">Cambridge</a><br><a href="/en/city/canterbury/home">Canterbury</a><br><a href="/en/city/cardiff/home">Cardiff</a><br><a href="/en/city/carlisle/home">Carlisle</a><br><a href="/en/city/chester/home">Chester</a><br><a href="/en/city/chichester/home">Chichester</a><br><a href="/en/city/colchester/home">Colchester</a><br><a href="/en/city/coleraine/home">Coleraine</a><br><a href="/en/city/cornwall/home">Cornwall</a><br><a href="/en/city/Durham/home">Durham</a><br></div><div><a href="/en/city/edinburgh/home">Edinburgh</a><br><a href="/en/city/exeter/home">Exeter</a><br><a href="/en/city/greaterlondon/home">Greater London</a><br><a href="/en/city/hamilton/home">Hamilton</a><br><a href="/en/city/hastings/home">Hastings</a><br><a href="/en/city/hereford/home">Hereford</a><br><a href="/en/city/lakedistrict/home">Lake District</a><br><a href="/en/city/lancaster/home">Lancaster</a><br><a href="/en/city/leamingtonspa/home">Leamington Spa</a><br><a href="/en/city/leeds/home">Leeds</a><br><a href="/en/city/liverpool/home">Liverpool</a><br><a href="/en/city/london/home">London</a><br><a href="/en/city/londonderry/home">Londonderry / Derry</a><br><a href="/en/city/luton/home">Luton</a><br><a href="/en/city/manchester/home">Manchester</a><br><a href="/en/city/newcastle/home">Newcastle upon Tyne</a><br></div><div><a href="/en/city/newcastleunderlyme/home">Newcastle-under-Lyme</a><br><a href="/en/city/newport/home">Newport</a><br><a href="/en/city/nottingham/home">Nottingham</a><br><a href="/en/city/oxford/home">Oxford</a><br><a href="/en/city/paisley/home">Paisley</a><br><a href="/en/city/reading/home">Reading</a><br><a href="/en/city/salford/home">Salford</a><br><a href="/en/city/sheffield/home">Sheffield</a><br><a href="/en/city/telford/home">Telford</a><br><a href="/en/city/Worcester/home">Worcester</a><br><a href="/en/city/york/home">York</a><br></div></div></div><div class="mobile-content" style="display: none;"><ul><li><a href="/en/city/bath/home">Bath</a></li><li><a href="/en/city/belfast/home">Belfast</a></li><li><a href="/en/city/birmingham/home">Birmingham</a></li><li><a href="/en/city/bournemouth/home">Bournemouth</a></li><li><a href="/en/city/bradford/home">Bradford</a></li><li><a href="/en/city/bristol/home">Bristol</a></li><li><a href="/en/city/cambridge/home">Cambridge</a></li><li><a href="/en/city/canterbury/home">Canterbury</a></li><li><a href="/en/city/cardiff/home">Cardiff</a></li><li><a href="/en/city/carlisle/home">Carlisle</a></li><li><a href="/en/city/chester/home">Chester</a></li><li><a href="/en/city/chichester/home">Chichester</a></li><li><a href="/en/city/colchester/home">Colchester</a></li><li><a href="/en/city/coleraine/home">Coleraine</a></li><li><a href="/en/city/cornwall/home">Cornwall</a></li><li><a href="/en/city/Durham/home">Durham</a></li><li><a href="/en/city/edinburgh/home">Edinburgh</a></li><li><a href="/en/city/exeter/home">Exeter</a></li><li><a href="/en/city/greaterlondon/home">Greater London</a></li><li><a href="/en/city/hamilton/home">Hamilton</a></li><li><a href="/en/city/hastings/home">Hastings</a></li><li><a href="/en/city/hereford/home">Hereford</a></li><li><a href="/en/city/lakedistrict/home">Lake District</a></li><li><a href="/en/city/lancaster/home">Lancaster</a></li><li><a href="/en/city/leamingtonspa/home">Leamington Spa</a></li><li><a href="/en/city/leeds/home">Leeds</a></li><li><a href="/en/city/liverpool/home">Liverpool</a></li><li><a href="/en/city/london/home">London</a></li><li><a href="/en/city/londonderry/home">Londonderry / Derry</a></li><li><a href="/en/city/luton/home">Luton</a></li><li><a href="/en/city/manchester/home">Manchester</a></li><li><a href="/en/city/newcastle/home">Newcastle upon Tyne</a></li><li><a href="/en/city/newcastleunderlyme/home">Newcastle-under-Lyme</a></li><li><a href="/en/city/newport/home">Newport</a></li><li><a href="/en/city/nottingham/home">Nottingham</a></li><li><a href="/en/city/oxford/home">Oxford</a></li><li><a href="/en/city/paisley/home">Paisley</a></li><li><a href="/en/city/reading/home">Reading</a></li><li><a href="/en/city/salford/home">Salford</a></li><li><a href="/en/city/sheffield/home">Sheffield</a></li><li><a href="/en/city/telford/home">Telford</a></li><li><a href="/en/city/Worcester/home">Worcester</a></li><li><a href="/en/city/york/home">York</a></li></ul></div></li></ul>
-                        </li>
-                        <li class="has-sub"><a href="#"><span>Americas</span></a>
-                            <ul><li class="has-sub has-cities city-header"><a href="/en/countries/AR" class="disable-mobile-anchor-event">Argentina</a><div class="cities america-cities desktop-content" style="display: none;"><div><h2><a href="/en/countries/AR">Argentina</a></h2><hr><div></div><div><a href="/en/city/buenosaires/home">Buenos Aires</a><br></div></div></div><div class="mobile-content" style="display: none;"><ul><li><a href="/en/city/buenosaires/home">Buenos Aires</a></li></ul></div></li><li class="has-sub has-cities city-header"><a href="/en/countries/CA" class="disable-mobile-anchor-event">Canada</a><div class="cities america-cities desktop-content" style="display: none;"><div><h2><a href="/en/countries/CA">Canada</a></h2><hr><div></div><div><a href="/en/city/cornerbrook/home">Corner Brook, NL</a><br><a href="/en/city/edmonton/home">Edmonton AB</a><br><a href="/en/city/kamloops/home">Kamloops BC</a><br><a href="/en/city/kitchenerwaterloo/home">Kitchener-Waterloo ON</a><br><a href="/en/city/montreal/home">Montreal QC</a><br><a href="/en/city/nanaimo/home">Nanaimo BC</a><br><a href="/en/city/Ontario/home">Ontario</a><br><a href="/en/city/quebec/home">Quebec QC</a><br><a href="/en/city/stjohns/home">St John's</a><br></div></div></div><div class="mobile-content" style="display: none;"><ul><li><a href="/en/city/cornerbrook/home">Corner Brook, NL</a></li><li><a href="/en/city/edmonton/home">Edmonton AB</a></li><li><a href="/en/city/kamloops/home">Kamloops BC</a></li><li><a href="/en/city/kitchenerwaterloo/home">Kitchener-Waterloo ON</a></li><li><a href="/en/city/montreal/home">Montreal QC</a></li><li><a href="/en/city/nanaimo/home">Nanaimo BC</a></li><li><a href="/en/city/Ontario/home">Ontario</a></li><li><a href="/en/city/quebec/home">Quebec QC</a></li><li><a href="/en/city/stjohns/home">St John's</a></li></ul></div></li></ul>
-                        </li>
-                        <li class="has-sub"><a href="#"><span>Asia-Pacific</span></a>
-                            <ul><li class="has-sub has-cities city-header"><a href="/en/countries/AU" class="disable-mobile-anchor-event">Australia</a><div class="cities asiapacific-cities desktop-content" style="display: none;"><div><h2><a href="/en/countries/AU">Australia</a></h2><hr><div></div><div><a href="/en/city/brisbane/home">Brisbane</a><br><a href="/en/city/canberra/home">Canberra</a><br><a href="/en/city/goldcoast/home">Gold Coast</a><br><a href="/en/city/Melbourne/home">Melbourne</a><br><a href="/en/city/perth/home">Perth, Australia</a><br><a href="/en/city/sydney/home">Sydney</a><br></div></div></div><div class="mobile-content" style="display: none;"><ul><li><a href="/en/city/brisbane/home">Brisbane</a></li><li><a href="/en/city/canberra/home">Canberra</a></li><li><a href="/en/city/goldcoast/home">Gold Coast</a></li><li><a href="/en/city/Melbourne/home">Melbourne</a></li><li><a href="/en/city/perth/home">Perth, Australia</a></li><li><a href="/en/city/sydney/home">Sydney</a></li></ul></div></li></ul>
-                        </li>
-                        
-                    </ul>
-                </div>
-
-                <div id="menubar">
-
-                    <div class="mobile-content">                       
-
-                        <div class="mobilelanguagebutton">
-
-                            <img class="img-mobile-en_flag">
-
-                            <div id="mobilelanguagedropdown">
-
-                                <a href="/en/privacy">
-                                    <img class="img-mobile-en_flag"></a>
-                                <a href="/fr/privacy">
-                                    <img class="img-mobile-fr_flag">
-                                </a>
-                                <a href="/es/privacy">
-                                    <img class="img-mobile-es_flag">
-                                </a>
-                                <a href="/it/privacy">
-                                    <img class="img-mobile-it_flag">
-                                </a>
-                                <a href="/de/privacy">
-                                    <img class="img-mobile-de_flag"></a>
-
-                            </div>
-
-                        </div>
-
-
-                    </div>
-                </div>
-            </header>
-
-            <div id="content">
-                
-    
-    <div id="body_contentarea"><p>
-	<strong>Privacy Policy</strong></p>
-<p>
-	This site is powered by SpeedyBooker, part of SpeedyBooker.com Ltd (<strong>We, Us, Our</strong>), which is committed to preserving the privacy of all visitors to Our websites and partner websites. By visiting or making a booking through this website, You consent to the collection, use and transfer of Your information under the terms of this policy.</p>
-<p>
-	<strong>Cookies:</strong></p>
-<p>
-	Cookies help us deliver our services. By using our services, you agree to our use of cookies.</p>
-<p>
-	<strong>Information that we collect from you:</strong></p>
-<p>
-	- When You visit, register or order products or services on this website You may be asked to provide certain information about yourself including Your name, contact details and credit or debit card information.<br>
-	- We may also collect information about Your usage of Our website as well as information about You from messages you post to the website and e-mails or letters You send to Us.</p>
-<p>
-	<strong>Use of your Information:</strong></p>
-<p>
-	- Your information will enable Us and the vendors listed on this website to supply the goods or services You have booked. &nbsp;We will also use and analyse the information We collect so that We can administer, support, improve and develop Our business.<br>
-	- Where You have consented, we will use your information to let You know by email about products and services We offer. If You change Your mind about being contacted in the future, You will be able to Unsubscribe.</p>
-<p>
-	<strong>Disclosure of your Information:</strong></p>
-<div>
-	- Neither we nor any Vendor or Partner will retain or have access to any of Your credit or debit card information.</div>
-<div>
-	- We will not pass Your other information to any third parties other than the vendor which You book with, parties who fulfil and deliver Your bookings, process credit card payments and provide support services on our behalf and, in the case of a SpeedyBooker partnership, the owner of the website You book through.</div>
-<div>
-	- The information you provide to Us may be accessed by Us, the vendor which You book with, parties who process information, fulfil and deliver orders, process credit card payments and provide support services on our behalf and, in the case of a SpeedyBooker partnership, the owner of the website You book through.</div>
-<div>
-	- Some of these parties may be located outside the European Economic Area who act for Us for the purposes set out in this policy or for other purposes approved by You.</div>
-<div>
-	- We may also pass aggregate information on the usage of Our website to third parties but this will not include information that can be used to identify You.&nbsp;</div>
-<div>
-	- If Our business enters into a joint venture with or is sold to or merged with another business entity, Your information may be disclosed to our New business partners or owners.</div>
-<div>
-	- Unless required to do so by law, We will not otherwise share, sell or distribute any of the information You provide to Us without Your consent.</div>
-<p>
-	<strong>Security and Data Retention:</strong></p>
-<p>
-	- We employ security measures to protect Your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain Your information on Our secure servers for a reasonable period or as long as the law requires.</p>
-<p>
-	<strong>Changes to our Privacy Policy:</strong></p>
-<p>
-	- Any changes to Our privacy policy in the future will be posted to the website and, where appropriate, through e-mail notification.</p>
+<div id="loader" class="load-full-screen">
+<div class="loading-animation">
+<span><i class="fa fa-bed"></i></span>
+<span><i class="fa fa-key"></i></span>
+<span><i class="fa fa-university"></i></span>
+<span><i class="fa fa-suitcase"></i></span>
+<p>WELCOME</p>
+</div>
 </div>
 
 
-                <script type="text/javascript">
-                    (function (i, s, o, g, r, a, m) {
-                        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                            (i[r].q = i[r].q || []).push(arguments)
-                        }, i[r].l = 1 * new Date(); a = s.createElement(o),
-                        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-                    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-                    ga('create', 'UA-47792491-1', 'universityrooms.com');
-                    ga('send', 'pageview');
+<script>
+            defer(function () {
+                
+                var brand = 'ur';
 
-                    ga(function (tracker) {
-                        var id = tracker.get('clientId');
-                        document.getElementById('clientId').value = id;
-                    });
+                $("#BurgerButton").SimplemenuSlide({
+                    menuDiv: 'MobileMenuSection',
+                    speed: 500,
+                    childToggleMenus: true,
+                    forceWindowHeight: false,
+                    hiddenOnLoad: false,
+                    slideToggleOverride: true
+                });
 
-                </script>
+                $('.prev-slick').on('click', function( ){
+                    $(this).closest('.featured-header-container, .current-event-section').find('.slick-prev').click();
+                });
+
+                $('.next-slick').on('click', function( ){
+                    $(this).closest('.featured-header-container, .current-event-section').find('.slick-next').click();
+                });
+
+                var hideSlickButtons = brand == 'bf' ? ' hide-those-buttons' : '';
+                var slidesToScroll = brand == 'bf' ? 5 : 1; 
+
+                $('.my-featured-list').slick({
+                    slidesToShow: 5,
+                    slidesToScroll: slidesToScroll,
+                    infinite: true,
+                    swipeToSlide: slidesToScroll > 1 ? false : true,
+                    prevArrow: '<button class="slick-arrow slick-prev' + hideSlickButtons + '" aria-label="Previous" type="button"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>',
+                    nextArrow: '<button class="slick-arrow slick-next' + hideSlickButtons + '" aria-label="Next" type="button"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>',
+                    responsive: [
+						{
+						    breakpoint: 1200,
+						    settings: {
+						        slidesToShow: 3,
+						        slidesToScroll: 1,
+						        swipeToSlide: true
+						    }
+						}, {
+						    breakpoint: 992,
+						    settings: {
+						        slidesToShow: 3,
+						        slidesToScroll: 1,
+						        swipeToSlide: true
+						    }
+						},
+							{
+							    breakpoint: 768,
+							    settings: {
+							        slidesToShow: 1,
+							        slidesToScroll: 1,
+							        centerMode: true,
+							        swipeToSlide: true
+							        //centerPadding: '40px'
+							    },
+							}
+                    ]
+                });
+            });
+        </script>
+<section class="header-section">
+<div id="HeaderWrapper">
+<div id="LogoWrapper">
+<a href="/en-GB/" id="LogoAnchor">
+<object class=" ur-logo-resize brand-ur" data="https://www.universityrooms.com/assets/images/brand/logo-ur.svg"></object>
+<span id="UrTagLine">Save money and stay in empty uni rooms, even if you're not a student.</span>
+</a>
+<div id="LogoCenter"></div>
+<div id="BurgerButtonWrapper">
+<div id="BurgerButton">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</div>
+</div>
+</div>
+<ul id="UCMonasteryLinksNav_NavMenuWrapper" style="" class="default-menu-class mobile-hidden">
+<li id="UCMonasteryLinksNav_EuropeList"><span class="add-arrow-down">EUROPE</span><ul class="sub-menu down"><li><a href="/en-GB/countries/AT" class="add-arrow-right link-check">Austria</a><ul class="sub-menu right"><li><a href="/en-GB/city/Linz/home">Linz</a></li><li><a href="/en-GB/city/salzburg/home">Salzburg</a></li><li><a href="/en-GB/city/vienna/home">Vienna</a></li></ul></li><li><a href="/en-GB/countries/FR" class="add-arrow-right link-check">France</a><ul class="sub-menu right multiple-column-header-2"><li><a href="/en-GB/city/aixenprovence/home">Aix-en-Provence</a></li><li><a href="/en-GB/city/avignon/home">Avignon</a></li><li><a href="/en-GB/city/caen/home">Caen</a></li><li><a href="/en-GB/city/Clermont/home">Clermont-Ferrand</a></li><li><a href="/en-GB/city/larochelle/home">La Rochelle</a></li><li><a href="/en-GB/city/lyon/home">Lyon</a></li><li><a href="/en-GB/city/macon/home">Mâcon</a></li><li><a href="/en-GB/city/marseille/home">Marseille</a></li><li><a href="/en-GB/city/montpellier/home">Montpellier</a></li><li><a href="/en-GB/city/nancy/home">Nancy</a></li><li><a href="/en-GB/city/nice/home">Nice</a></li><li><a href="/en-GB/city/nimes/home">Nîmes</a></li><li><a href="/en-GB/city/paris/home">Paris</a></li><li><a href="/en-GB/city/perpignan/home">Perpignan</a></li><li><a href="/en-GB/city/reims/home">Reims</a></li><li><a href="/en-GB/city/tours/home">Tours</a></li><li><a href="/en-GB/city/troyes/home">Troyes</a></li><li><a href="/en-GB/city/valbonne/home">Valbonne</a></li></ul></li><li><a href="/en-GB/countries/IE" class="add-arrow-right link-check">Ireland</a><ul class="sub-menu right"><li><a href="/en-GB/city/dublin/home">Dublin</a></li><li><a href="/en-GB/city/galway/home">Galway</a></li><li><a href="/en-GB/city/sligo/home">Sligo</a></li></ul></li><li><a href="/en-GB/countries/IT" class="add-arrow-right link-check">Italy</a><ul class="sub-menu right multiple-column-header-2"><li><a href="/en-GB/city/bari/home">Bari</a></li><li><a href="/en-GB/city/bologna/home">Bologna</a></li><li><a href="/en-GB/city/Brescia/home">Brescia</a></li><li><a href="/en-GB/city/cesena/home">Cesena</a></li><li><a href="/en-GB/city/chieti/home">Chieti</a></li><li><a href="/en-GB/city/ferrara/home">Ferrara</a></li><li><a href="/en-GB/city/florence/home">Florence</a></li><li><a href="/en-GB/city/genoa/home">Genoa</a></li><li><a href="/en-GB/city/milan/home">Milan</a></li><li><a href="/en-GB/city/padua/home">Padua</a></li><li><a href="/en-GB/city/palermo/home">Palermo</a></li><li><a href="/en-GB/city/parma/home">Parma</a></li><li><a href="/en-GB/city/pavia/home">Pavia</a></li><li><a href="/en-GB/city/perugia/home">Perugia</a></li><li><a href="/en-GB/city/pescara/home">Pescara</a></li><li><a href="/en-GB/city/pisa/home">Pisa</a></li><li><a href="/en-GB/city/rome/home">Rome</a></li><li><a href="/en-GB/city/sicily/home">Sicily</a></li><li><a href="/en-GB/city/turin/home">Turin</a></li><li><a href="/en-GB/city/urbino/home">Urbino</a></li></ul></li><li><a href="/en-GB/countries/MT" class="add-arrow-right link-check">Malta</a><ul class="sub-menu right"><li><a href="/en-GB/city/malta/home">Malta</a></li></ul></li><li><a href="/en-GB/countries/PT" class="add-arrow-right link-check">Portugal</a><ul class="sub-menu right"><li><a href="/en-GB/city/faro/home">Faro</a></li></ul></li><li><a href="/en-GB/countries/ES" class="add-arrow-right link-check">Spain</a><ul class="sub-menu right multiple-column-header-2"><li><a href="/en-GB/city/alcala/home">Alcalá de Henares</a></li><li><a href="/en-GB/city/alicante/home">Alicante</a></li><li><a href="/en-GB/city/barcelona/home">Barcelona</a></li><li><a href="/en-GB/city/burgos/home">Burgos</a></li><li><a href="/en-GB/city/granada/home">Granada</a></li><li><a href="/en-GB/city/madrid/home">Madrid</a></li><li><a href="/en-GB/city/malaga/home">Malaga</a></li><li><a href="/en-GB/city/merida/home">Mérida</a></li><li><a href="/en-GB/city/salamanca/home">Salamanca</a></li><li><a href="/en-GB/city/sansebastian/home">San Sebastián</a></li><li><a href="/en-GB/city/santiago/home">Santiago de Compostela</a></li><li><a href="/en-GB/city/seville/home">Seville</a></li><li><a href="/en-GB/city/valencia/home">Valencia</a></li><li><a href="/en-GB/city/zaragoza/home">Zaragoza</a></li></ul></li><li><a href="/en-GB/countries/TR" class="add-arrow-right link-check">Turkey</a><ul class="sub-menu right"><li><a href="/en-GB/city/istanbul/home">Istanbul</a></li></ul></li><li><a href="/en-GB/countries/GB" class="add-arrow-right link-check">United Kingdom</a><ul class="sub-menu right multiple-column-header-3"><li><a href="/en-GB/city/bangor/home">Bangor</a></li><li><a href="/en-GB/city/bath/home">Bath</a></li><li><a href="/en-GB/city/belfast/home">Belfast</a></li><li><a href="/en-GB/city/cambridge/home">Cambridge</a></li><li><a href="/en-GB/city/canterbury/home">Canterbury</a></li><li><a href="/en-GB/city/cardiff/home">Cardiff</a></li><li><a href="/en-GB/city/carlisle/home">Carlisle</a></li><li><a href="/en-GB/city/chester/home">Chester</a></li><li><a href="/en-GB/city/colchester/home">Colchester</a></li><li><a href="/en-GB/city/cornwall/home">Cornwall</a></li><li><a href="/en-GB/city/Durham/home">Durham</a></li><li><a href="/en-GB/city/edinburgh/home">Edinburgh</a></li><li><a href="/en-GB/city/exeter/home">Exeter</a></li><li><a href="/en-GB/city/greaterlondon/home">Greater London</a></li><li><a href="/en-GB/city/hamilton/home">Hamilton</a></li><li><a href="/en-GB/city/lancaster/home">Lancaster</a></li><li><a href="/en-GB/city/leeds/home">Leeds</a></li><li><a href="/en-GB/city/liverpool/home">Liverpool</a></li><li><a href="/en-GB/city/london/home">London</a></li><li><a href="/en-GB/city/newport/home">Newport</a></li><li><a href="/en-GB/city/nottingham/home">Nottingham</a></li><li><a href="/en-GB/city/oxford/home">Oxford</a></li><li><a href="/en-GB/city/paisley/home">Paisley</a></li><li><a href="/en-GB/city/reading/home">Reading</a></li><li><a href="/en-GB/city/salford/home">Salford</a></li><li><a href="/en-GB/city/sheffield/home">Sheffield</a></li><li><a href="/en-GB/city/southend/home">Southend</a></li><li><a href="/en-GB/city/telford/home">Telford</a></li><li><a href="/en-GB/city/Worcester/home">Worcester</a></li><li><a href="/en-GB/city/york/home">York</a></li></ul></li></ul></li>
+<li id="UCMonasteryLinksNav_AmericasList"><span class="add-arrow-down">AMERICAS</span><ul class="sub-menu down"><li><a href="/en-GB/countries/AR" class="add-arrow-right link-check">Argentina</a><ul class="sub-menu right"><li><a href="/en-GB/city/buenosaires/home">Buenos Aires</a></li></ul></li><li><a href="/en-GB/countries/CA" class="add-arrow-right link-check">Canada</a><ul class="sub-menu right"><li><a href="/en-GB/city/cornerbrook/home">Corner Brook, NL</a></li><li><a href="/en-GB/city/edmonton/home">Edmonton AB</a></li><li><a href="/en-GB/city/kamloops/home">Kamloops BC</a></li><li><a href="/en-GB/city/kitchenerwaterloo/home">Kitchener-Waterloo ON</a></li><li><a href="/en-GB/city/montreal/home">Montreal</a></li><li><a href="/en-GB/city/nanaimo/home">Nanaimo BC</a></li><li><a href="/en-GB/city/quebec/home">Quebec</a></li><li><a href="/en-GB/city/stjohns/home">St Johns</a></li></ul></li><li><a href="/en-GB/countries/US" class="add-arrow-right link-check">United States</a><ul class="sub-menu right"><li><a href="/en-GB/city/laredo/home">Laredo TX</a></li><li><a href="/en-GB/city/worcesterma/home">Worcester MA</a></li></ul></li></ul></li>
+<li id="UCMonasteryLinksNav_AsiaPacificList"><span class="add-arrow-down">ASIA-PACIFIC</span><ul class="sub-menu down"><li><a href="/en-GB/countries/AU" class="add-arrow-right link-check">Australia</a><ul class="sub-menu right"><li><a href="/en-GB/city/brisbane/home">Brisbane</a></li><li><a href="/en-GB/city/bunbury/home">Bunbury</a></li><li><a href="/en-GB/city/goldcoast/home">Gold Coast</a></li><li><a href="/en-GB/city/Melbourne/home">Melbourne</a></li><li><a href="/en-GB/city/sydney/home">Sydney</a></li></ul></li></ul></li>
+</ul>
+<div id="RightMenu">
+<div id="MenuIcons" class="mobile-hidden">
+<script>
+    defer(function () {
+        $('#DropdownSearchIcon').on('click', function (event) {
+            if ($("#txtDestination").length > 0) {
+
+                $('#txtDestinationButton').removeClass('animate-on-focus');
+
+                if (!isScrolledIntoView($('#txtDestination'))) {
+                    $('html, body').animate({
+                        scrollTop: ($('#txtDestination').offset().top)
+                    }, 500);
+                }
+
+                $('#txtDestination').focus();
+                $('#txtDestinationButton').addClass('animate-on-focus');
+
+                return false;
+            }
+            else if ($("#HybridDestination").length) {
+                if (!isScrolledIntoView($('#HybridDestination'))) {
+                    $('html, body').animate({
+                        scrollTop: ($('#HybridDestination').offset().top)
+                    }, 500);
+                }
+
+                $('#HybridDestination').click();
+
+                return false;
+            }
+            else if ($("#SearchInput").length > 0) {
+                $('#SearchInput').removeClass('animate-bar-on-focus');
+
+                if (!isScrolledIntoView($('#SearchInput'))) {
+                    $('html, body').animate({
+                        scrollTop: ($('#SearchInput').offset().top)
+                    }, 500);
+                }
+
+                $('#SearchInput').focus();
+                $('#SearchInput').addClass('animate-bar-on-focus');
+
+                return false;
+            }
+            else if ($("#EventSearchBox").length > 0) {
+                $('.event-text-wrapper').removeClass('animate-bar-on-focus');
+
+                if (!isScrolledIntoView($('#EventSearchBox'))) {
+                    $('html, body').animate({
+                        scrollTop: ($('#EventSearchBox').offset().top)
+                    }, 500);
+                }
+
+                $('#EventSearchBox').focus();
+                $('.event-text-wrapper').addClass('animate-bar-on-focus');
+
+                return false;
+            }
+        });
+    });
+
+    function isScrolledIntoView(elem) {
+        var $elem = $(elem);
+        var $window = $(window);
+
+        var docViewTop = $window.scrollTop();
+        var docViewBottom = docViewTop + $window.height();
+
+        var elemTop = $elem.offset().top;
+        var elemBottom = elemTop + $elem.height();
+
+        var result = ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
+
+        return result;
+    }
+</script>
+<style>
+    @media(min-width: 1201px) {
+        #MobileMenuSection {
+            display: none !important;
+        }
+    }
+</style>
+<div class="options-menu-wrapper header-menu-padding">
+<div class="button-dimensions">
+<div id="UserButton" class="dropdown-toggle user-button noselect" data-toggle="dropdown">
+<span class="fa-stack fa-lg user-button-stack">
+<i class="fa fa-circle fa-stack-2x user-circle"></i>
+<i class="fa fa-user fa-stack-1x user-icon"></i>
+</span>
+</div>
+<ul class="menu-dropdown-wrapper dropdown-menu">
+<li><a href="/en-GB/login/" class="user-menu-select"><i class="fa fa-sign-in user-menu-icon" aria-hidden="true"></i>Login</a></li>
+</ul>
+</div>
+<div class="button-dimensions mobile-hidden">
+<i class="dropdown-toggle fa fa-search search-icon" id="DropdownSearchIcon" aria-hidden="true" data-toggle="dropdown"></i>
+<script>
+    defer(function () {
+        $('.destination-search-box').on('keyup', function (event) {
+            if (event.keyCode == 13) {
+                if ($(this).val().length > 2) {
+                    SearchForLocation();
+                }
+            }
+            return false;
+        });
+
+        $('.headerSearchIcon').on('click', function (event) {
+            if ($('.destination-search-box').length > 0) {
+                if ($('.destination-search-box').is(":visible")) {
+                    if ($('.destination-search-box:visible').val().length > 2) {
+                        SearchForLocation();
+                    }
+                }
+            }
+        });
+    });
+</script>
+<div onclick="event.stopPropagation()" class="dropdown-menu menu-dropdown-wrapper input">
+<input type="text" class="destination-search-box" maxlength="100" placeholder="Destination or Property Name" autocomplete="off">
+<i class="fa fa-search headerSearchIcon" aria-hidden="true"></i>
+ <ul id="recentSearchesDD" class="recent-searches-list-header recent-searches-list" style="display: none" tabindex="0"></ul>
+</div>
+</div>
+<div class="button-dimensions">
+<div id="MyBasketButton" class="dropdown-toggle fa fa-shopping-basket my-basket-icon noselect" data-toggle="dropdown">
+<div>
+0
+</div>
+</div>
+</div>
+<div class="button-dimensions">
+<div id="MyListsButton" class="dropdown-toggle fa fa-heart-o my-lists-icon noselect" data-toggle="dropdown"></div>
+<ul id="UCHeaderMenu_MyListsDropdown" class="dropdown-menu menu-dropdown-wrapper"><li class="login-to-view-lists"><a href="/myaccount/myfavourites/">Log in to view your lists</a></li></ul>
+</div>
+<div class="button-dimensions">
+<div class="ur-lang-dropdown flags">
+<span class="flag-header dropdown-toggle flag en" data-toggle="dropdown"></span>
+<ul class="dropdown-menu menu-dropdown-wrapper">
+<li class="selected lang-country">
+<a href="/en-GB/privacy">
+<span class="flag en">&nbsp;</span>
+English</a>
+</li>
+<li class=" lang-country"><a href="/fr-FR/privacy">
+<span class="flag fr">&nbsp;</span>
+Français</a></li>
+<li class=" lang-country"><a href="/de-DE/privacy">
+<span class="flag de">&nbsp;</span>
+Deutsch</a></li>
+<li class=" lang-country"><a href="/it-IT/privacy">
+<span class="flag it">&nbsp;</span>
+Italiano</a></li>
+<li class=" lang-country"><a href="/es-ES/privacy">
+<span class="flag es">&nbsp;</span>
+Español</a></li>
+<li class=" lang-country"><a href="/zh-CN/privacy">
+<span class="flag zh">&nbsp;</span>
+中文</a></li>
+</ul>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div id="FeedbackStars">
+<div id="FeedbackBannerWrapper" style="position: relative;">
+<div id="UCFeedbackBanner_Stars" class="feedback-banner noselect feedback-margin"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-o"></i> 4.3 BASED ON 53,453 REVIEWS</div>
+<div id="FeedbackBannerHoverbox" class="feedback-banner-hoverbox">
+<div id="UCFeedbackBanner_FeedbackBannerHoverboxHeader" class="feedback-banner-hoverbox-header">Customers Rated Our Website 4.3/5</div>
+<div class="feedback-banner-hoverbox-body">
+<div class="col-sm-5 col-xs-12 fb-rating-score">
+<div id="UCFeedbackBanner_FeedbackBannerHoverboxScore"><div class="fb-score-big">4.3</div><div class="fb-score-stars"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-o"></i></div><div class="based-on-message">Based on <span itemprop="reviewCount">53,453</span> reviews</div></div>
+</div>
+<div id="UCFeedbackBanner_FeedbackBannerHoverboxBars" class="col-sm-7 col-xs-12 fb-rating-bars"><div>5 <i class="fa fa-star"></i> <div class="rating-bar"><div class="rating-bar-fill" style="width:45.34264%"></div></div><div class="rating-total"> 24,237</div></div><div>4 <i class="fa fa-star"></i> <div class="rating-bar"><div class="rating-bar-fill" style="width:43.20805%"></div></div><div class="rating-total"> 23,096</div></div><div>3 <i class="fa fa-star"></i> <div class="rating-bar"><div class="rating-bar-fill" style="width:9.890933%"></div></div><div class="rating-total"> 5,287</div></div><div>2 <i class="fa fa-star"></i> <div class="rating-bar"><div class="rating-bar-fill" style="width:0.9073392%"></div></div><div class="rating-total"> 485</div></div><div>1 <i class="fa fa-star"></i> <div class="rating-bar"><div class="rating-bar-fill" style="width:0.6510392%"></div></div><div class="rating-total"> 348</div></div></div>
+<div style="clear: both;"></div>
+</div>
+<div id="UCFeedbackBanner_FeedbackBannerHoverboxFooter" class="col-sm-12 col-xs-12 fb-rating-footer">Only genuine customers can leave reviews, <br>via an email we send them after their stay</div>
+</div>
+</div>
+</div>
+<style>
+
+    .feedback-banner-hoverbox-body {
+        background: white;
+    }
+
+    .feedback-banner:hover + .feedback-banner-hoverbox {
+        display: block;
+    }
+
+    .feedback-banner-hoverbox {
+        display: none;
+        width: 400px;
+        position: absolute;
+        top: 50px;
+        right: 0px;
+        opacity: 1;
+        animation: fade 0.2s linear;
+        z-index: 25;
+        text-align: center;
+    }
+
+    @keyframes fade {
+        0% {
+            opacity: 0
+        }
+
+        100% {
+            opacity: 1
+        }
+    }
+
+    .rating-total {
+        display: inline-block;
+        position: absolute;
+        right: 17px;
+        color: #f9bf3b;
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .based-on-message {
+        font-size: 11px;
+        font-weight: bold;
+    }
+
+    @media(max-width:767px) {
+        .feedback-banner, .feedback-banner .fa-star, .feedback-banner .fa-star-o, .feedback-banner .fa-star-half-o {
+            font-size: 16px !important;
+        }
+
+        .rating-bar {
+            width: 160px;
+            margin-left: 20px;
+        }
+
+        .feedback-banner-hoverbox {
+            width: 320px;
+            top: 160% !important;
+        }
+
+        .fb-score-big {
+            font-size: 35px;
+        }
+
+        .feedback-margin {
+            margin-left: 0;
+            margin-right: 0;
+        }
+
+        .fb-rating-footer {
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+    }
+</style>
+</div>
+<div id="MobileMenuSection">
+<div style="padding: 10px;">
+<script>
+    defer(function () {
+        $('#DropdownSearchIcon').on('click', function (event) {
+            if ($("#txtDestination").length > 0) {
+
+                $('#txtDestinationButton').removeClass('animate-on-focus');
+
+                if (!isScrolledIntoView($('#txtDestination'))) {
+                    $('html, body').animate({
+                        scrollTop: ($('#txtDestination').offset().top)
+                    }, 500);
+                }
+
+                $('#txtDestination').focus();
+                $('#txtDestinationButton').addClass('animate-on-focus');
+
+                return false;
+            }
+            else if ($("#HybridDestination").length) {
+                if (!isScrolledIntoView($('#HybridDestination'))) {
+                    $('html, body').animate({
+                        scrollTop: ($('#HybridDestination').offset().top)
+                    }, 500);
+                }
+
+                $('#HybridDestination').click();
+
+                return false;
+            }
+            else if ($("#SearchInput").length > 0) {
+                $('#SearchInput').removeClass('animate-bar-on-focus');
+
+                if (!isScrolledIntoView($('#SearchInput'))) {
+                    $('html, body').animate({
+                        scrollTop: ($('#SearchInput').offset().top)
+                    }, 500);
+                }
+
+                $('#SearchInput').focus();
+                $('#SearchInput').addClass('animate-bar-on-focus');
+
+                return false;
+            }
+            else if ($("#EventSearchBox").length > 0) {
+                $('.event-text-wrapper').removeClass('animate-bar-on-focus');
+
+                if (!isScrolledIntoView($('#EventSearchBox'))) {
+                    $('html, body').animate({
+                        scrollTop: ($('#EventSearchBox').offset().top)
+                    }, 500);
+                }
+
+                $('#EventSearchBox').focus();
+                $('.event-text-wrapper').addClass('animate-bar-on-focus');
+
+                return false;
+            }
+        });
+    });
+
+    function isScrolledIntoView(elem) {
+        var $elem = $(elem);
+        var $window = $(window);
+
+        var docViewTop = $window.scrollTop();
+        var docViewBottom = docViewTop + $window.height();
+
+        var elemTop = $elem.offset().top;
+        var elemBottom = elemTop + $elem.height();
+
+        var result = ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
+
+        return result;
+    }
+</script>
+<style>
+    @media(min-width: 1201px) {
+        #MobileMenuSection {
+            display: none !important;
+        }
+    }
+</style>
+<div class="options-menu-wrapper header-menu-padding">
+<div class="button-dimensions">
+<div id="UserButton" class="dropdown-toggle user-button noselect" data-toggle="dropdown">
+<span class="fa-stack fa-lg user-button-stack">
+<i class="fa fa-circle fa-stack-2x user-circle"></i>
+<i class="fa fa-user fa-stack-1x user-icon"></i>
+</span>
+</div>
+<ul class="menu-dropdown-wrapper dropdown-menu">
+<li><a href="/en-GB/login/" class="user-menu-select"><i class="fa fa-sign-in user-menu-icon" aria-hidden="true"></i>Login</a></li>
+</ul>
+</div>
+<div class="button-dimensions mobile-hidden">
+<i class="dropdown-toggle fa fa-search search-icon" id="DropdownSearchIcon" aria-hidden="true" data-toggle="dropdown"></i>
+<script>
+    defer(function () {
+        $('.destination-search-box').on('keyup', function (event) {
+            if (event.keyCode == 13) {
+                if ($(this).val().length > 2) {
+                    SearchForLocation();
+                }
+            }
+            return false;
+        });
+
+        $('.headerSearchIcon').on('click', function (event) {
+            if ($('.destination-search-box').length > 0) {
+                if ($('.destination-search-box').is(":visible")) {
+                    if ($('.destination-search-box:visible').val().length > 2) {
+                        SearchForLocation();
+                    }
+                }
+            }
+        });
+    });
+</script>
+<div onclick="event.stopPropagation()" class="dropdown-menu menu-dropdown-wrapper input">
+<input type="text" class="destination-search-box" maxlength="100" placeholder="Destination or Property Name" autocomplete="off">
+<i class="fa fa-search headerSearchIcon" aria-hidden="true"></i>
+<ul id="recentSearchesDD" class="recent-searches-list-header recent-searches-list" style="display: none" tabindex="0"></ul>
+</div>
+</div>
+<div class="button-dimensions">
+<div id="MyBasketButton" class="dropdown-toggle fa fa-shopping-basket my-basket-icon noselect" data-toggle="dropdown">
+<div>
+0
+</div>
+</div>
+</div>
+<div class="button-dimensions">
+<div id="MyListsButton" class="dropdown-toggle fa fa-heart-o my-lists-icon noselect" data-toggle="dropdown"></div>
+<ul id="UCHeaderMenu1_MyListsDropdown" class="dropdown-menu menu-dropdown-wrapper"><li class="login-to-view-lists"><a href="/myaccount/myfavourites/">Log in to view your lists</a></li></ul>
+</div>
+<div class="button-dimensions">
+<div class="ur-lang-dropdown flags">
+<span class="flag-header dropdown-toggle flag en" data-toggle="dropdown"></span>
+<ul class="dropdown-menu menu-dropdown-wrapper">
+<li class="selected lang-country">
+<a href="/en-GB/privacy">
+<span class="flag en">&nbsp;</span>
+English</a>
+</li>
+<li class=" lang-country"><a href="/fr-FR/privacy">
+<span class="flag fr">&nbsp;</span>
+Français</a></li>
+<li class=" lang-country"><a href="/de-DE/privacy">
+<span class="flag de">&nbsp;</span>
+Deutsch</a></li>
+<li class=" lang-country"><a href="/it-IT/privacy">
+<span class="flag it">&nbsp;</span>
+Italiano</a></li>
+<li class=" lang-country"><a href="/es-ES/privacy">
+<span class="flag es">&nbsp;</span>
+Español</a></li>
+<li class=" lang-country"><a href="/zh-CN/privacy">
+<span class="flag zh">&nbsp;</span>
+中文</a></li>
+</ul>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<script>
+    defer(function () {
+        $('.destination-search-box').on('keyup', function (event) {
+            if (event.keyCode == 13) {
+                if ($(this).val().length > 2) {
+                    SearchForLocation();
+                }
+            }
+            return false;
+        });
+
+        $('.headerSearchIcon').on('click', function (event) {
+            if ($('.destination-search-box').length > 0) {
+                if ($('.destination-search-box').is(":visible")) {
+                    if ($('.destination-search-box:visible').val().length > 2) {
+                        SearchForLocation();
+                    }
+                }
+            }
+        });
+    });
+</script>
+<div onclick="event.stopPropagation()" class="mobile-menu-search">
+<input type="text" class="destination-search-box" maxlength="100" placeholder="Destination or Property Name" autocomplete="off">
+<i class="fa fa-search headerSearchIcon" aria-hidden="true"></i>
+<ul id="recentSearchesDD" class="recent-searches-list-header recent-searches-list" style="display: none" tabindex="0"></ul>
+</div>
+<ul id="UCMonasteryLinksNav1_NavMenuWrapper" style="" class="mobile-menu-class">
+<li id="UCMonasteryLinksNav1_EuropeList"><span class="">EUROPE</span><ul class="sub-menu down"><li><a href="/en-GB/countries/AT" class=" link-check">Austria</a><ul class="sub-menu right"><li><a href="/en-GB/city/Linz/home">Linz</a></li><li><a href="/en-GB/city/salzburg/home">Salzburg</a></li><li><a href="/en-GB/city/vienna/home">Vienna</a></li></ul></li><li><a href="/en-GB/countries/FR" class=" link-check">France</a><ul class="sub-menu right multiple-column-header-2"><li><a href="/en-GB/city/aixenprovence/home">Aix-en-Provence</a></li><li><a href="/en-GB/city/avignon/home">Avignon</a></li><li><a href="/en-GB/city/caen/home">Caen</a></li><li><a href="/en-GB/city/Clermont/home">Clermont-Ferrand</a></li><li><a href="/en-GB/city/larochelle/home">La Rochelle</a></li><li><a href="/en-GB/city/lyon/home">Lyon</a></li><li><a href="/en-GB/city/macon/home">Mâcon</a></li><li><a href="/en-GB/city/marseille/home">Marseille</a></li><li><a href="/en-GB/city/montpellier/home">Montpellier</a></li><li><a href="/en-GB/city/nancy/home">Nancy</a></li><li><a href="/en-GB/city/nice/home">Nice</a></li><li><a href="/en-GB/city/nimes/home">Nîmes</a></li><li><a href="/en-GB/city/paris/home">Paris</a></li><li><a href="/en-GB/city/perpignan/home">Perpignan</a></li><li><a href="/en-GB/city/reims/home">Reims</a></li><li><a href="/en-GB/city/tours/home">Tours</a></li><li><a href="/en-GB/city/troyes/home">Troyes</a></li><li><a href="/en-GB/city/valbonne/home">Valbonne</a></li></ul></li><li><a href="/en-GB/countries/IE" class=" link-check">Ireland</a><ul class="sub-menu right"><li><a href="/en-GB/city/dublin/home">Dublin</a></li><li><a href="/en-GB/city/galway/home">Galway</a></li><li><a href="/en-GB/city/sligo/home">Sligo</a></li></ul></li><li><a href="/en-GB/countries/IT" class=" link-check">Italy</a><ul class="sub-menu right multiple-column-header-2"><li><a href="/en-GB/city/bari/home">Bari</a></li><li><a href="/en-GB/city/bologna/home">Bologna</a></li><li><a href="/en-GB/city/Brescia/home">Brescia</a></li><li><a href="/en-GB/city/cesena/home">Cesena</a></li><li><a href="/en-GB/city/chieti/home">Chieti</a></li><li><a href="/en-GB/city/ferrara/home">Ferrara</a></li><li><a href="/en-GB/city/florence/home">Florence</a></li><li><a href="/en-GB/city/genoa/home">Genoa</a></li><li><a href="/en-GB/city/milan/home">Milan</a></li><li><a href="/en-GB/city/padua/home">Padua</a></li><li><a href="/en-GB/city/palermo/home">Palermo</a></li><li><a href="/en-GB/city/parma/home">Parma</a></li><li><a href="/en-GB/city/pavia/home">Pavia</a></li><li><a href="/en-GB/city/perugia/home">Perugia</a></li><li><a href="/en-GB/city/pescara/home">Pescara</a></li><li><a href="/en-GB/city/pisa/home">Pisa</a></li><li><a href="/en-GB/city/rome/home">Rome</a></li><li><a href="/en-GB/city/sicily/home">Sicily</a></li><li><a href="/en-GB/city/turin/home">Turin</a></li><li><a href="/en-GB/city/urbino/home">Urbino</a></li></ul></li><li><a href="/en-GB/countries/MT" class=" link-check">Malta</a><ul class="sub-menu right"><li><a href="/en-GB/city/malta/home">Malta</a></li></ul></li><li><a href="/en-GB/countries/PT" class=" link-check">Portugal</a><ul class="sub-menu right"><li><a href="/en-GB/city/faro/home">Faro</a></li></ul></li><li><a href="/en-GB/countries/ES" class=" link-check">Spain</a><ul class="sub-menu right multiple-column-header-2"><li><a href="/en-GB/city/alcala/home">Alcalá de Henares</a></li><li><a href="/en-GB/city/alicante/home">Alicante</a></li><li><a href="/en-GB/city/barcelona/home">Barcelona</a></li><li><a href="/en-GB/city/burgos/home">Burgos</a></li><li><a href="/en-GB/city/granada/home">Granada</a></li><li><a href="/en-GB/city/madrid/home">Madrid</a></li><li><a href="/en-GB/city/malaga/home">Malaga</a></li><li><a href="/en-GB/city/merida/home">Mérida</a></li><li><a href="/en-GB/city/salamanca/home">Salamanca</a></li><li><a href="/en-GB/city/sansebastian/home">San Sebastián</a></li><li><a href="/en-GB/city/santiago/home">Santiago de Compostela</a></li><li><a href="/en-GB/city/seville/home">Seville</a></li><li><a href="/en-GB/city/valencia/home">Valencia</a></li><li><a href="/en-GB/city/zaragoza/home">Zaragoza</a></li></ul></li><li><a href="/en-GB/countries/TR" class=" link-check">Turkey</a><ul class="sub-menu right"><li><a href="/en-GB/city/istanbul/home">Istanbul</a></li></ul></li><li><a href="/en-GB/countries/GB" class=" link-check">United Kingdom</a><ul class="sub-menu right multiple-column-header-3"><li><a href="/en-GB/city/bangor/home">Bangor</a></li><li><a href="/en-GB/city/bath/home">Bath</a></li><li><a href="/en-GB/city/belfast/home">Belfast</a></li><li><a href="/en-GB/city/cambridge/home">Cambridge</a></li><li><a href="/en-GB/city/canterbury/home">Canterbury</a></li><li><a href="/en-GB/city/cardiff/home">Cardiff</a></li><li><a href="/en-GB/city/carlisle/home">Carlisle</a></li><li><a href="/en-GB/city/chester/home">Chester</a></li><li><a href="/en-GB/city/colchester/home">Colchester</a></li><li><a href="/en-GB/city/cornwall/home">Cornwall</a></li><li><a href="/en-GB/city/Durham/home">Durham</a></li><li><a href="/en-GB/city/edinburgh/home">Edinburgh</a></li><li><a href="/en-GB/city/exeter/home">Exeter</a></li><li><a href="/en-GB/city/greaterlondon/home">Greater London</a></li><li><a href="/en-GB/city/hamilton/home">Hamilton</a></li><li><a href="/en-GB/city/lancaster/home">Lancaster</a></li><li><a href="/en-GB/city/leeds/home">Leeds</a></li><li><a href="/en-GB/city/liverpool/home">Liverpool</a></li><li><a href="/en-GB/city/london/home">London</a></li><li><a href="/en-GB/city/newport/home">Newport</a></li><li><a href="/en-GB/city/nottingham/home">Nottingham</a></li><li><a href="/en-GB/city/oxford/home">Oxford</a></li><li><a href="/en-GB/city/paisley/home">Paisley</a></li><li><a href="/en-GB/city/reading/home">Reading</a></li><li><a href="/en-GB/city/salford/home">Salford</a></li><li><a href="/en-GB/city/sheffield/home">Sheffield</a></li><li><a href="/en-GB/city/southend/home">Southend</a></li><li><a href="/en-GB/city/telford/home">Telford</a></li><li><a href="/en-GB/city/Worcester/home">Worcester</a></li><li><a href="/en-GB/city/york/home">York</a></li></ul></li></ul></li>
+<li id="UCMonasteryLinksNav1_AmericasList"><span class="">AMERICAS</span><ul class="sub-menu down"><li><a href="/en-GB/countries/AR" class=" link-check">Argentina</a><ul class="sub-menu right"><li><a href="/en-GB/city/buenosaires/home">Buenos Aires</a></li></ul></li><li><a href="/en-GB/countries/CA" class=" link-check">Canada</a><ul class="sub-menu right"><li><a href="/en-GB/city/cornerbrook/home">Corner Brook, NL</a></li><li><a href="/en-GB/city/edmonton/home">Edmonton AB</a></li><li><a href="/en-GB/city/kamloops/home">Kamloops BC</a></li><li><a href="/en-GB/city/kitchenerwaterloo/home">Kitchener-Waterloo ON</a></li><li><a href="/en-GB/city/montreal/home">Montreal</a></li><li><a href="/en-GB/city/nanaimo/home">Nanaimo BC</a></li><li><a href="/en-GB/city/quebec/home">Quebec</a></li><li><a href="/en-GB/city/stjohns/home">St Johns</a></li></ul></li><li><a href="/en-GB/countries/US" class=" link-check">United States</a><ul class="sub-menu right"><li><a href="/en-GB/city/laredo/home">Laredo TX</a></li><li><a href="/en-GB/city/worcesterma/home">Worcester MA</a></li></ul></li></ul></li>
+<li id="UCMonasteryLinksNav1_AsiaPacificList"><span class="">ASIA-PACIFIC</span><ul class="sub-menu down"><li><a href="/en-GB/countries/AU" class=" link-check">Australia</a><ul class="sub-menu right"><li><a href="/en-GB/city/brisbane/home">Brisbane</a></li><li><a href="/en-GB/city/bunbury/home">Bunbury</a></li><li><a href="/en-GB/city/goldcoast/home">Gold Coast</a></li><li><a href="/en-GB/city/Melbourne/home">Melbourne</a></li><li><a href="/en-GB/city/sydney/home">Sydney</a></li></ul></li></ul></li>
+</ul>
+</div>
+</div>
+</section>
 
 
-                <!-- Facebook Pixel Code -->
-                <script>
-                    !function (f, b, e, v, n, t, s) {
-                        if (f.fbq) return; n = f.fbq = function () {
-                            n.callMethod ?
-                            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-                        }; if (!f._fbq) f._fbq = n;
-                        n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
-                        t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
-                    }(window,
-                    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-                    fbq('init', '1556011668045632'); // Insert your pixel ID here.
-                    fbq('track', 'PageView');
-                    function FacebookAddToCart(id) {
-                        fbq('track', 'AddToCart', $(id).data('facebookmodel'));
-                    };
-                    function FacebookAddPurchase(id) {                      
-                        fbq('track', 'Purchase', $(id).data('facebookmodel'));
-                    };
-                </script>
-                <noscript>
-                    <img height="1" width="1" style="display:none"
-                         src="https://www.facebook.com/tr?id=192804937791936&ev=PageView&noscript=1" />
-                </noscript>
-                <!-- DO NOT MODIFY -->
-                <!-- End Facebook Pixel Code -->
+<div id="updatePanelMain">
+<div id="updateProgressMain" style="display:none;">
+<div id="dimScreen">
+<div id="updateProgress">
+<img class="lazy-load" data-src="/assets/images/gears.svg">
+</div>
+</div>
+</div>
+<div id="TitleBar" class="flight-title">
+<h1 class="content-title text-capitalize">Privacy Policy</h1>
+</div>
+<div id="ContentSection" class="row login-row white-container">
+<div class="container">
+<p><strong>Privacy Notice</strong></p>
+<p>This site is powered by SpeedyBooker, part of SpeedyBooker.com Ltd (<strong>We, Us, Our</strong>), which is committed to preserving the privacy of all visitors to Our websites and partner websites, as well as that of Our vendors and partners.</p>
+<p style="margin-left:0cm; margin-right:0cm">This notice describes how we collect and use personal data about you, in accordance with the General Data Protection Regulation (<strong>GDPR</strong>) and any other national implementing laws, regulations and secondary legislation, as amended or updated from time to time, in the UK (<strong>Data Protection Legislation</strong>).</p>
+<p style="margin-left:0cm; margin-right:0cm">For the purpose of the Data Protection Legislation, We are the data controller. This means that we are responsible for deciding how we hold and use personal data about you. We are required under the Data Protection Legislation to notify you of the information contained in this privacy notice.</p>
+<p><strong>Cookies:</strong></p>
+<p>- Cookies help us deliver our services. By using our services, you agree to our use of cookies.</p>
+<p><strong>Information that we collect from you:</strong></p>
+<p>- When you visit, register or order products or services on this website you may be asked to provide certain information about yourself including Your name, contact details, passport/ID number, car registration number, dietary requirements, any disabilities, any allergies, and credit or debit card information.<br>
+- We may also collect information about your usage of Our website, Details of transactions you carry out through our site and of the fulfilment of your orders,&nbsp;information about you from messages you post to the website and e-mails or letters you send to Us.</p>
+<p><strong>Use of your Information:</strong></p>
+<p>- By completing a booking or submitting an enquiry through this website You agree that We have the following lawful reasons for processing your personal data:</p>
+<p style="margin-left:40px">(a) consent: you have given clear consent for Us to process your personal data for completing Your booking, although generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending direct marketing communications to you, and you may withdraw your consent in those circumstances.</p>
+<p style="margin-left:40px">(b) legal obligation: the processing is necessary for Us to comply with the law by providing a Vendor&nbsp;with Your personal data for security and/or anti-terrorism legislation.</p>
+<p style="margin-left:40px">(c) the processing is necessary in order to perform any contract We may have with you, or for the performance of your contract with a vendor where we act as agent.&nbsp; &nbsp;</p>
+<p style="margin-left:40px">(d) We may process your personal data for the purposes of our own legitimate interests provided that those interests do not override any of your own interests, rights and freedoms which require the protection of personal data.&nbsp; This includes processing for business development, statistical and management purposes.</p>
+<p>- Where you have consented, We will use your information to let you know by email about products and services We offer. If You change your mind about being contacted in the future, you will be able to withdraw your consent by unsubscribing.</p>
+<p><strong>Disclosure of your Information:</strong></p>
+<div>- Neither We nor any Vendor or Partner will retain or have access to any of your credit or debit card information.</div>
+<div>- We will not pass your other information to any third parties other than the vendor which you book with, parties who fulfil and deliver your bookings, process credit card payments and provide support services on Our behalf and, in the case of a SpeedyBooker partnership, the owner of the website you book through.</div>
+<div>- The information you provide to Us may be accessed by Us, the vendor which you book with, parties who process information, fulfil and deliver orders, process credit card payments and provide support services on Our behalf and, in the case of a SpeedyBooker partnership, the owner of the website you book through.</div>
+<div>- Some Vendors, partners, or other third parties who act for Us for the purposes set out in this policy may be located outside the European Economic Area (EEA).&nbsp; Wherever we transfer your personal data out&nbsp;of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:</div>
+<div>
+<p style="margin-left:40px">(a) We will transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission.</p>
+<p style="margin-left:40px">(b) Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe.</p>
+<p style="margin-left:40px">(c) Where we transfer your personal data to the US, we may transfer data to them if they are part of the EU-US Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US.</p>
+</div>
+<div>- We may also pass aggregate information on the usage of Our website to third parties but this will not include information that can be used to identify you.&nbsp;</div>
+<div>- If Our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our New business partners or owners.</div>
+<div>- Unless required to do so by law, We will not otherwise share, sell or distribute any of the information you provide to Us without your consent.</div>
+<div>&nbsp;</div>
+<div>
+<p><strong>Where we store your personal data:</strong></p>
+<p>- All information you provide to us is stored on Our secure servers or the secure servers of Our trusted third party software and service providers (including&nbsp;credit or debit card information which we do not store). &nbsp;Any payment transactions, user logins and passwords are&nbsp;encrypted. &nbsp;Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
+<p>- Unfortunately, the transmission of information via the internet is not completely secure. &nbsp;Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. &nbsp;Once we have received your information, we use strict procedures and security features to prevent unauthorised access.</p>
+</div>
+<div><strong>Security and Data Retention:</strong></div>
+<div>- We employ commercially reasonable and appropriate security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage.&nbsp; In addition, where we share your personal data with a "data processor" for the purposes of the Data Protection Legislation, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.</div>
+<div>- We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.</div>
+<div>- For customers who have booked through Our websites, We will delete your personal data entered during the booking process&nbsp;from our systems after 7 years unless you have previously requested deletion in line with your Rights (see below).</div>
+<div>- For customers who create a login, we will retain your information relating to your username and password&nbsp;on Our secure servers for an unlimited period (this is because you may wish to login to Our websites at any time to make another booking, update your personal data, or access your historic booking data) unless you have request&nbsp;deletion in line with your Rights (see below).</div>
+<div>- For customer communications, we will retain your data and communications for up to three years for the purposes of an audit trail&nbsp;in case of future disputes, but you will not be added to a distribution list for marketing purposes unless you have opted in to such communications.</div>
+<div>- If you are a Vendor and no longer wish for your personal details&nbsp;to be stored on our servers, you can delete your name, personal email address and phone number via our admin system.</div>
+<div>- If you are a Vendor and wish your profile to be removed from our websites, this will be done according to the terms of our Agreement.&nbsp; If you have no outstanding bookings,&nbsp;we will delete your personal data within 30 days.</div>
+<div>- If We approach you because We believe you may be interested in Our services, We will not store any of your personal data until such time that you opt-in.</div>
+<div>&nbsp;</div>
+<div><strong>Your Rights:</strong></div>
+<div>- You have the right to object to Us processing or retaining your personal data for any purpose.&nbsp; To do this, please <a href="https://www.speedybooker.com/enquiry.aspx">email us</a>. In this case, We will be unable to process any future bookings for you unless you re-enter your personal data.&nbsp; On receiving Your instruction We will request any additional proof of idenficiation then permanently delete your personal data from Our live systems within a maximum of 30 days.&nbsp; Your personal data will be retained in Back Up files for up to one year beyond this point in line with our data retention policy: this data is retained for business continuity and diagnostic purposes only.&nbsp; Your diagnostics data which does not contain personal data will retained for up to two years in line with Our data retention policy.</div>
+<div>-&nbsp;You have the right to request access information held about you. On receiving Your instruction We will request any additional proof of idenficiation then permanently delete your personal data from Our live systems within a maximum of 30 days.&nbsp;Any initial request is free of charge; any subsequent request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.&nbsp; Alternatively We may refuse to comply with the request in the circumstances where the request for access is clearly unfounded or excessive.</div>
+<div>- You have the right to request correction of the personal data We hold about you.</div>
+<div>- You have the right to object to Us processing your personal information specifically for direct marketing purposes.&nbsp; This can be done by clicking the unsubscribe link on any email, or contacting us.</div>
+<div>&nbsp;</div>
+<div><strong>Children:</strong></div>
+<div><strong>-&nbsp;</strong>If You are booking on behalf of a child aged under 16, You must have permission of a person with parental responsibility for them&nbsp;to process their data.&nbsp; We will not send direct marketing communications to children, but their rights under this notice are otherwise the same.</div>
+<div>&nbsp;</div>
+<div><strong>Changes to our Privacy Policy:</strong></div>
+<div>- Any changes to Our privacy policy in the future will be posted to the website and, where appropriate, through e-mail notification.</div>
+<div>&nbsp;</div>
+<div>
+<p style="margin-left:0cm; margin-right:0cm">Speedybooker.com Limited is a company registered in England and Wales under company number 08846588 and whose registered office is at Everards House,&nbsp;2 Cornhill, Bury St Edmunds, IP33 1BE. United Kingdom.</p>
+</div>
+</div>
+</div>
+<style>
+    
+</style>
+<style>
+    #TitleBar {
+        padding: 60px 0;
+        background: rgba(0, 0, 0, 0.2);
+        text-align: center;
+    }
+
+    .content-title {
+        font-weight: 900;
+        font-size: 28px;
+        letter-spacing: 1px;
+        color: #fff;
+    }
+
+    .content-subtitle {
+        font-weight: bold;
+        color: #fff;
+        font-size: 16px;
+        margin-top: 0;
+        text-transform: uppercase;
+    }
+</style>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_load(function () {defer(function () {ShowItemsInBasket(0)})});Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"updatePanelMain","displayAfter":500,"dynamicLayout":true}, null, null, $get("updateProgressMain"));
+});
+//]]>
+</script>
+</form>
+
+<section id="footer">
+<footer>
+<div id="urFooter" class="row ">
+<div class="clear-padding  container">
+<div class="clear-padding col-xs-12">
+<div class=" col-xs-12 ur-how-it-works" style="margin-bottom: 0px !important; margin-top: 80px">
+<h1>HOW DOES IT WORK?</h1>
+<div class="col-xs-12 clear-padding-xs">
+<div class="ur-how-item col-sm-4 col-xs-11 clear-padding row-eq-height" align="center">
+<div class="clear-padding-xs ur-footer-line col-sm-12 col-xs-2 first-point ur-circle-div" align="center">
+<span class="ur-how-it-works-circle left-circle">1</span>
+</div>
+<div class="clear-padding-xs ur-how-desc col-sm-12 col-xs-10">
+<span class="ur-how-it-works-img how-maid">
+<img class="how-maid-img" src="/assets/images/icons/maid.svg" alt="">
+</span>
+<p>Vacant rooms in university colleges and residences are cleared and cleaned in readiness for guests.</p>
+</div>
+</div>
+<div class=" ur-how-item col-sm-4 col-xs-11 clear-padding row-eq-height" align="center">
+<div class="clear-padding-xs ur-footer-line col-sm-12 col-xs-2 ur-circle-div" align="center">
+<span class="ur-how-it-works-circle">2</span>
+</div>
+<div class="clear-padding-xs ur-how-desc col-sm-12 col-xs-10 ">
+<span class="ur-how-it-works-img how-trolley">
+<img src="/assets/images/icons/trolley.svg" alt="">
+</span>
+<p class="how-trolley-desc">You choose where to stay, book it here, and feel great about getting a fantastic deal!</p>
+</div>
+</div>
+<div class=" ur-how-item col-sm-4 col-xs-11 clear-padding row-eq-height" align="center">
+<div class="clear-padding-xs ur-footer-line col-sm-12 col-xs-2 last-point ur-circle-div" align="center">
+<span class="ur-how-it-works-circle right-circle">3</span>
+</div>
+<div class="clear-padding-xs ur-how-desc col-sm-12 col-xs-10 ">
+<span class="ur-how-it-works-img how-key">
+<img src="/assets/images/icons/roomKeyDesktop.svg" alt="">
+</span>
+<p class="how-key-desc">Arrive. Check-in. Enjoy!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="light-section-title text-center">
+<h2>AS FEATURED IN...</h2>
+</div>
+<div class="ur-featured-in clearfix">
+<div id="FeaturedInCarousel" class="carousel slide col-sm-6 col-xs-10 col-sm-offset-3 col-xs-offset-1">
+<div id="prevButton" class="prev-featured-button"><i class="fa fa-chevron-left" aria-hidden="true"></i></div>
+<div id="nextButton" class="next-featured-button"><i class="fa fa-chevron-right " aria-hidden="true"></i></div>
+<div class="carousel-inner">
+<div class="item active">
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/dailytelegraph.png" alt="">
+</div>
+</div>
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/detelegraaf.png" alt="">
+</div>
+</div>
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/diezeit.png" alt="">
+</div>
+</div>
+</div>
+<div class="item">
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/frommers.png" alt="">
+</div>
+</div>
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/globeandmail.png" alt="">
+</div>
+</div>
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/guardian.png" alt="">
+</div>
+</div>
+</div>
+<div class="item">
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/lonelyplanet.png" alt="">
+</div>
+</div>
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/mail.png" alt="">
+</div>
+</div>
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/newyorktimes.png" alt="">
+</div>
+</div>
+</div>
+<div class="item">
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/sundaytelegraph.png" alt="">
+</div>
+</div>
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/sundaytimes.png" alt="">
+</div>
+</div>
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/sydneymorningherald.png" alt="">
+</div>
+</div>
+</div>
+<div class="item">
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/time.png" alt="">
+</div>
+</div>
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/viamichelin.png" alt="">
+</div>
+</div>
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/itv.png" alt="">
+</div>
+</div>
+</div>
+<div class="item">
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/huffington-post-logo.jpg" alt="">
+</div>
+</div>
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/independent-logo.jpg" alt="">
+</div>
+</div>
+<div>
+<div class="imgPadding">
+<img class="lazy-load" data-src="/assets/images/FeaturedInLogos/washington-post-logo.jpg" alt="">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 main-menu" style="background-color: white; padding-top: 10px">
+<ul class="nav navbar-nav header-menu-nav">
+<li>
+<h4 style="color: #2a357c; text-align: center; font-weight: bold; font-size: 14px; letter-spacing: 1px;"><i class="fa fa-check"></i>UNBEATABLE PRICES </h4>
+<div class="clearfix"></div>
+</li>
+<li>
+<h4 style="color: #2a357c; text-align: center; font-weight: bold; padding-left: 40px; padding-right: 40px; font-size: 14px; letter-spacing: 1px;"><i class="fa fa-check"></i>NO HIDDEN CHARGES </h4>
+<div class="clearfix"></div>
+</li>
+<li>
+<h4 style="color: #2a357c; text-align: center; font-weight: bold; font-size: 14px; letter-spacing: 1px;"><i class="fa fa-check"></i>SECURE ONLINE BOOKINGS </h4>
+<div class="clearfix"></div>
+</li>
+</ul>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="row main-footer-sub">
+<div class="container clear-padding form-container">
+<div class="col-md-12 col-sm-12" id="nl-signup-container">
+<div class="col-md-6">
+<label class="text-align-xs view-terms">Signup to our newsletter to keep informed of the best deals. &nbsp;&nbsp;<i class="help-me fa fa-question-circle" data-toggle="tooltip" title="We will never share your details with anyone else, and you can unsubscribe at any time."></i></label>
+<a href="/en-GB/privacy/" class="view-terms">View our privacy policy</a>
+</div>
+<div class="col-md-4 col-sm-8">
+<input type="text" placeholder="Please enter your email address" id="nl-signup" name="nlsignup" class="form-control">
+<span id="nl-invalid" class="warning hidden">
+Sorry, that email is not valid
+</span>
+<span id="nl-error" class="warning hidden">
+Sorry, that email has already signed up
+</span>
+</div>
+<div class="col-md-2 col-sm-4">
+<div id="SignUpThankYou" class="hidden">
+Thank you for signing up to our newsletter
+</div>
+<button type="button" id="nl-signup-btn" name="nlsignupbtn">
+<i class="fa fa-paper-plane"></i>
+SIGN UP
+</button>
+<script type="text/javascript">
+                                defer(function () {
+                                    $('#nl-signup-container')
+                                        .on('click', '#nl-signup-btn', function () {
+                                            $('#nl-error, #nl-invalid').addClass('hidden');
+                                            var email = $('#nl-signup').val();
+                                            var valid = /(?:[a-zA-Z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?)/
+                                                .test(email);
+                                            if (valid)
+                                                $.ajax({
+                                                    url: '/ajax/nl-signup.ashx',
+                                                    type: 'POST',
+                                                    data: { email: email }
+                                                })
+                                                .done(function (data) {
+                                                    if (data.status === 'ok') {
+                                                        $('#nl-signup-btn').addClass('hidden');
+                                                        $('#SignUpThankYou').removeClass('hidden');
+                                                    } else {
+                                                        $('#nl-error').removeClass('hidden');
+                                                    }
+                                                })
+                                                .fail(function (data, p2) {
+                                                    $('#nl-error').removeClass('hidden');
+                                                })
+                                                .always(function () {
+                                                });
+                                            else
+                                                $('#nl-invalid').removeClass('hidden');
+                                        });
+                                });
+                            </script>
+</div>
+</div>
+</div>
+</div>
+<div class="main-footer row">
+<div class="col-md-2 hidden-sm hidden-xs"></div>
+<div class="col-md-2 col-sm-12 links">
+<h4 class="footer-heading" id="FindOutMore">Find out more<i class="fa fa-chevron-down" style="display: none"></i></h4>
+<ul class="footer-list" data-id="FindOutMore">
+<li><a href="/en-GB/about/">About us</a></li>
+<li class="brand-hide-content"><a href="/en-GB/network/">Partner sites</a></li>
+<li><a href="/en-GB/news/">News</a></li>
+<li><a href="/en-GB/travelinspiration/">Travel Inspiration</a></li>
+<li><a href="/en-GB/partnerships/">Partnerships and API</a></li>
+<li><a href="/en-GB/terms/">Terms &amp; Conditions</a></li>
+<li><a href="/en-GB/contact/">FAQs &amp; Contact Us</a></li>
+<li><a href="/en-GB/privacy/">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-12 links">
+<h4 class="footer-heading" id="Customers">Customers<i class="fa fa-chevron-down" style="display: none"></i></h4>
+<ul class="footer-list" data-id="Customers">
+<li class="disable-localsites"><a href="/en-GB/login/">Login</a></li>
+<li><a href="/en-GB/mybooking/">My Booking</a></li>
+<li><a href="/en-GB/groups/">Groups/Events</a></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-12 links">
+<h4 class="footer-heading" id="Properties">Vendors<i class="fa fa-chevron-down" style="display: none"></i></h4>
+<ul class="footer-list" data-id="Properties">
+<li><a href="/en-GB/signup/">Join</a></li>
+<li><a href="https://admin.speedybooker.com/">Login</a></li>
+</ul>
+</div>
+<div class="brand-hide-content col-md-2 col-sm-12 links">
+<h4 class="footer-heading" id="SocialMedia">Social Media<i class="fa fa-chevron-down" style="display: none"></i></h4>
+<ul class="footer-list" data-id="SocialMedia">
+<li><a href="https://www.facebook.com/SpeedyBooker-755197147835976/" target="_blank">Facebook</a></li>
+<li><a href="https://www.instagram.com/speedybooker/" target="_blank">Instagram</a></li>
+<li><a href="https://uk.pinterest.com/speedybooker/" target="_blank">Pinterest</a></li>
+<li><a href="https://twitter.com/speedybooker" target="_blank">Twitter</a></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-12 links world-land-trust">
+<h4 id="WorldLandTrust">Supporters Of</h4>
+<a href="/en-GB/worldlandtrust/">
+<img class="lazy-load" data-src="/Assets/images/WorldLandTrust.png">
+</a>
+</div>
+<div class="col-md-1 hidden-sm">&nbsp;</div>
+<div style="clear: both;"></div>
+<div id="SocialMediaIconSection" class="socialMediaRow"><a href="https://www.facebook.com/UniversityRooms/" class="center-social-media facebook"><span class="social-media-circle"><i class="fa fa-facebook"></i></span></a><a href="https://www.instagram.com/universityrooms/" class="center-social-media instagram"><span class="social-media-circle"><i class="fa fa-instagram"></i></span></a><a href="https://uk.pinterest.com/universityrooms/" class="center-social-media pinterest"><span class="social-media-circle"><i class="fa fa-pinterest-p"></i></span></a><a href="https://twitter.com/universityrooms" class="center-social-media twitter"><span class="social-media-circle"><i class="fa fa-twitter"></i></span></a></div>
+<div style="text-align: center;">
+<p>Copyright © 2006-2019 SpeedyBooker.com All Rights Reserved.</p>
+</div>
+</div>
+</footer>
+</section>
 
 
 
 
-                <br style="clear: both">
-            </div>
+<script type="text/javascript">
+    var screenWidth = 0;
+    document.addEventListener('DOMContentLoaded', function () {
 
-            
 
-            <footer>
-                <div id="bar">
-                    <span>
-                        <img src="/img/desktop/tick.png" alt="Secure online bookings" width="34" height="26">Secure online bookings
-                    </span>
-                    <span>
-                        <img src="/img/desktop/tick.png" alt="Best prices guaranteed" width="34" height="26">Best prices guaranteed</span>
-                    <span>
-                        <img src="/img/desktop/tick.png" alt="No booking fees	" width="34" height="26">No booking fees	</span>
-                    <br style="clear: both">
-                </div>
+        setTimeout(function () {
+            //when the page loads, show a cookie related message and allow the user to dismiss it
+            var cookieMessageClosed = localStorage.getItem('cookieMessageClosed') || '';
+            if (cookieMessageClosed != 'closed') {
 
-                <div id="links">
+                //show cookie message
+                var cookieMessageElem = document.getElementById("CookieMessage");
+                if (cookieMessageElem) {
 
-                    <div class="hiddenContent">
-                        <b class="clickable">Find out more</b>
-                        <ul class="hidden">
-                            <li><a href="/en/about">About us</a></li>
-                            <li><a href="/en/blog">Blog</a></li>
-                            <li><a href="/en/mediacentre">Media Centre
-                            </a></li><a href="/en/mediacentre">
-                            </a><li><a href="/en/mediacentre"></a><a href="/en/news">News</a>
-                            </li>
-                            <li><a href="/en/jobs">Jobs</a>
-                            </li>
-                            <li><a href="/en/terms">Terms and Conditions</a>
-                            </li>
-                            <li><a href="/en/privacy">Privacy Policy</a></li>
-                        </ul>
-                    </div>
-
-                    <div class="hiddenContent">
-                        <b class="clickable">Corporate Centre</b>
-                        <ul class="hidden ">
-                            <li><a href="/en/vendorsignup.aspx">Property / Vendor Sign Up</a>
-                            </li>
-                            <li><a href="/en/Partnerships">Partnerships / API</a>
-                            </li>
-                            <li><a href="https://admin.speedybooker.com">Vendor Login</a></li>
-                        </ul>
-                    </div>
-
-                    <div class="hiddenContent">
-                        <b class="clickable">Customer Centre</b>
-                        <ul class="hidden">
-
-                            <li><a href="http://www.speedybooker.com/mybookings?brand=ur">Account Sign-in</a>
-                            </li>
-                            <li><a href="/en/contact">Contact us</a></li>
-                        </ul>
-                    </div>
-
-                    <div id="signup">
-                        <img src="/img/desktop/signup_icon_orange.png" width="21" height="16" alt="Sign up">
-                        Sign up for newsletter
-                    </div>
-
-                    <script type="text/javascript">
-                        function Signup() {
-                            var email = $("#txtModalField_Email").val();
-                            if (validateEmail(email))
-                                window.location.replace("/?signup=" + email);
+                    setTimeout(function () {
+                        var deepheight = 0;
+                        var extraHight = 0;
+                        var paddingTop = 15;
+                        if (document.body.clientWidth < 475) {
+                            extraHight = 0;
+                            paddingTop = 10;
                         }
-                    </script>
+                        var deepinterval = window.setInterval(function () {
 
-                    <div id="signupcontent" style="display: none;">
-                        <img alt="Close" src="/img/desktop/close.png" width="35" height="33" id="newsletterCloseButton" onclick="closeModal();">
-                        <span class="signupcontentclass">
-                            <h3>Signup to our newsletter to keep informed of the best deals.</h3>
+                            deepheight += (48 + extraHight - deepheight) / 5 + 1;
+                            cookieMessageElem.style.height = deepheight + 'px';
+                            cookieMessageElem.style.paddingTop = paddingTop + 'px';
+                            if (deepheight >= 48 + extraHight) clearInterval(deepinterval);
+                        }, 40);
 
-                            <input type="text" id="txtField_Email" name="txtField_Email" value="Enter email address..." class="signupemail" onblur="if(this.value == '') { this.value = 'Enter email address...'; }" onfocus="if(this.value == 'Enter email address...') { this.value = ''; }">
-                            <input type="button" name="btnSignup" id="btnSignup" style="float: right" value="OK" onclick="javascript: Signup();">
+                        localStorage.setItem('cookieMessageClosed', 'closed');
+                        cookiePaddingUpdate(100);
+                    }, 1000);
 
-                            <p style="font-size: small; float: left">We’ll never share your details with a third party</p>
-                        </span>
+                }
 
-                    </div>
-
-
-                    <div id="copyright">
-                        <a href="//www.speedybooker.com">
-                            <img src="/img/poweredby.png" width="109" height="61" alt="Powered by Speedybooker.com"></a>
-                        <img src="/img/thawte.png" width="109" height="61" alt="Security approved by THAWTE"><br>
-                        &nbsp;&nbsp;&nbsp;©2007 - 2017
-                        &nbsp;&nbsp;&nbsp;universityrooms.com
+            }
+        }, 500);
 
 
-                    </div>
+    }, false);
 
 
-                </div>
-            </footer>
-        </div>
-
-    </form>
-    
-    
 
 
-<div class="boxover" style="position: absolute; visibility: hidden; z-index: 100;"><div></div><div></div></div></body></html>
+    function cookiePaddingUpdate(cookieTimer) {
+
+        setTimeout(function () {
+            //when the page loads, show a cookie related message and allow the user to dismiss it
+                if (screenWidth != document.body.clientWidth) {
+                    //show cookie message
+                    var cookieMessageElem = document.getElementById("CookieMessage");
+                    if (cookieMessageElem) {
+
+                            var paddingTop = 15;
+
+                            if (document.body.clientWidth < 475) {
+                                extraHight = 0;
+                                paddingTop = 10;
+                            }
+                            cookieMessageElem.style.paddingTop = paddingTop + 'px';
+                    }
+                    screenWidth = document.body.clientWidth;
+                }
+                //call function again
+                cookiePaddingUpdate(500, false);
+            
+        }, cookieTimer);
+
+
+
+    }
+
+    function CloseCookieMessage(gotoPrivacy) {
+        document.getElementById("CookieMessage").style.height = "0px";
+        //remember that the CLOSE was clicked, so that it's not displayed again
+        localStorage.setItem('cookieMessageClosed', 'closed');
+        if (gotoPrivacy) document.location.href = '/privacy';
+    }
+
+
+</script>
+<style type="text/css">
+    /* A sliding panel that appears on the bottom to show the cookie message*/
+    #CookieMessage {
+        width: 100%;
+        height: 0;
+        overflow: hidden;
+        background: rgba(0,0,0,0.8);
+        position: fixed;
+        bottom: 0;
+        z-index: 10001;
+        right: 0;
+        margin: 0;
+        color: white;
+        text-align: center;
+        font-size: small;
+        padding-top: 0;
+    }
+
+    @media(max-width: 767px) {
+        #CookieMessage {
+            font-size: x-small;
+        }
+    }
+
+
+    #CookieMessage a, #CookieMessage a:hover, #CookieMessage a:active, #CookieMessage a:visited {
+        color: white;
+        font-weight: bold;
+        text-decoration: underline;
+    }
+</style>
+<div id="CookieMessage">
+This website uses cookies. <a href="javascript:CloseCookieMessage(true)">Click here</a> to read our Privacy Policy.<br>If that’s okay with you, just keep browsing. <a href="javascript:CloseCookieMessage(false);">CLOSE</a>
+</div>
+
+<span id="NoAvailableDatesAtThisTime" style="display: none;">No available dates at this time</span>
+<span id="DateNotAvailable" style="display: none;">Date not available</span>
+<span id="Text_Date" style="display: none;">Date</span>
+<span id="Text_Accommodation" style="display: none;">Accommodation</span>
+<span id="Text_Tickets" style="display: none;">Tickets</span>
+<span id="Text_NoDatesYetImJustBrowsing" style="display: none;">No dates yet I'm just browsing</span>
+<span id="Text_Arrive" style="display: none;">Arrive</span>
+<span id="Text_Depart" style="display: none;">Depart</span>
+<span id="Text_Dates" style="display: none;">Dates</span>
+<span id="Text_Arrival" style="display: none;">Arrival</span>
+<span id="Text_Departure" style="display: none;">Departure</span>
+<span id="Text_ImJustBrowsing" style="display: none">I'm just browsing</span>
+<span id="Text_ThisVendorPrefersWeeklyBookingsAnd" style="display:none;">This vendor prefers weekly bookings and you have to book within {0} weeks of arrival to make a shorter booking (except for weeks with partial availability)</span>
+<span id="ThisVendorOnlyAllowsWeeklyBookings" style="display:none;">This vendor only allows weekly bookings</span>
+<span id="Text_FullWeekStaysCanBeginOn" style="display:none;">Full-week stays can begin on these days</span>
+<span id="Text_StaysOfOtherLengthsAreAllowedOn" style="display:none;">Stays of other lengths are allowed on these days</span>
+<span id="Text_PleaseSelectYourArrivalDate" style="display:none;">Select your Arrival Date below</span>
+<span id="Text_PleaseSelectYourDepartureDate" style="display:none;">Select your Departure Date below</span>
+<span id="Text_ShortText_Loading" style="display:none;">Loading...</span>
+<span id="Text_WeCannotAcceptAmericanExpress" style="display:none;">We cannot accept American Express</span>
+<span id="StartEndDatesCannotBeBetween" style="display:none;">Start &amp; end dates cannot be between unavailable dates.</span>
+<span id="Remove" style="display:none;">Remove</span>
+<span id="ShortText_BookNow" style="display:none;">Book now</span>
+<span id="ShortText_Next_1" style="display:none;">Next</span>
+<span id="AvailableViaOurOtherWebsites" style="display:none;">Available via our other websites</span>
+<span id="ThereAreRoomsAvailableBetween0And1" style="display:none;">There are rooms available between <b>{0}</b> and <b>{1}</b>.</span>
+<span id="ThereAreRoomsAvailableFor0" style="display:none;">There are rooms available for <b>{0}</b>.</span>
+<span id="ThereIsNoAvailabilityOnUniversityroomsForThisDateH" style="display:none;">There is no availability on UniversityRooms for this date, however we do have {0} rooms available in {1} via our other websites, priced between <b>{2}</b> and <b>{3}</b>. Please proceed as normal to view.</span>
+<span id="ThereIsNoAvailabilityOn0ForThisDateHoweverWeDoHave" style="display:none;">There is no availability on {0} for this date, however we do have {1} rooms available in {2} via our other websites, priced between <b>{3}</b> and <b>{4}</b>. Please proceed as normal to view.</span>
+<span id="SorryThereIsCurrentlyNoAvailabilityOnThisDayIfTheD" style="display:none;">Sorry, there is currently no availability on this day. If the date is more than 3 months in the future, please try re-visiting the website nearer the time, as rooms are typically made available 2-3 months in advance.</span>
+<span id="Text_VeryPoor" style="display:none;">Very poor</span>
+<span id="Text_Poor" style="display:none;">Poor</span>
+<span id="Text_Average" style="display:none;">Average</span>
+<span id="Text_Good" style="display:none;">Age restrictions are set by the property (not by SpeedyBooker) and they have to be adhered to, without exception. When making a search, please add the ages of any children – any properties that are not able to accommodate your children will automatically be filtered out of the search results. </span>
+<span id="Text_Excellent" style="display:none;">Excellent</span>
+<span id="Text_NotApplicable" style="display:none;">N/A</span>
+<span id="LangPrefix" style="display:none;">/en-GB</span>
+<span id="Text_recentlySearched" style="display:none;">Recently Searched</span>
+<span id="Text_NoDiscountForLargeBookings" style="display:none;">No discount for large bookings</span>
+<span id="Text_PleaseEnterCardNumber" style="display:none;">Please enter a valid card number</span>
+<span id="Text_PleaseEnterCardNumberTooShort" style="display:none;">Card number must be at least 12 digits</span>
+<span id="Text_PleaseNote0NightMinimumStay" style="display:none;">Please Note: {0} night minimum stay</span>
+<span id="Text_CheckIn" style="display:none;">Check In</span>
+<span id="Text_CheckOut" style="display:none;">Check Out</span>
+
+
+
+</body></html>
