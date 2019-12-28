@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126075254id_/https%3A//www1.bournemouth.ac.uk/about/governance/digital-security/website-privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228125911id_/https%3A//www.bournemouth.ac.uk/about/governance/digital-security/website-privacy-cookies-policy) for the most accurate reproduction.*
 
 # Website privacy & cookies policy | Bournemouth University
 
@@ -63,7 +63,7 @@ Find out how to manage cookies on popular browsers:
   * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
   * [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
   * [Opera](https://www.opera.com/help/tutorials/security/privacy/)
-  * [Apple Safari](https://support.apple.com/kb/ph21411?locale=en_US)
+  * [Apple Safari](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)
 
 
 
