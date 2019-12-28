@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vecteezy.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184855id_/https%3A//www.vecteezy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vecteezy.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229003524id_/https%3A//www.vecteezy.com/privacy) for the most accurate reproduction.*
 
-# Download Free Vector Art, Stock Graphics & Images
+# Privacy Policy
 
-_Last updated September 14, 2018_
+Last updated September 14, 2018
 
 Eezy Inc. ("Eezy") or any Eezy brands (“Videezy,” “Vecteezy,” “Themezy,” “Brusheezy”) (“we,” “us,” or “our”) respects the privacy of our users. Please note that the practices of Eezy (or any properties/brands under the Eezy umbrella), concerning your access to and use of the https://www.vecteezy.com/ website as well as any other media form, media channel, mobile website, or mobile application related, linked, or otherwise connected thereto (collectively, the "the Site"), with respect to personal information, are now governed by this Privacy Policy as same may be amended from time to time. Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE SITE.
 
-We reserve the right to make changes to this Privacy Policy at any time and for any reason, and we encourage visitors and users of our site https://www.vecteezy.com/ to regularly review our Privacy Policy. To update your information and preferences, please visit Dashboard > [Account Settings](https://web.archive.org/account/edit).
+We reserve the right to make changes to this Privacy Policy at any time and for any reason, and we encourage visitors and users of our site https://www.vecteezy.com/ to regularly review our Privacy Policy. To update your information and preferences, please visit Dashboard > [Account Settings](https://web.archive.org/account/settings) .
 
 ## CHANGES IN PRIVACY POLICY
 
@@ -135,7 +135,7 @@ We may collaborate with a third party site in order to display advertising on th
 
 We use administrative, technical, and physical security measure to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
 
-You have the right to access and correct, or delete your Personal Information and privacy preferences at any time. This may be accomplished by clicking on the link, "[Dashboard](https://web.archive.org/account/dashboard)," where you can view and make changes to most of your Personal Information immediately. If you are a contributor or user, you can change your profile by going to "[Account settings](https://web.archive.org/account/edit)." For other settings-related questions and concerns concerning Personal Information, you may contact support by email. We will respond to your request within a reasonable timeframe.
+You have the right to access and correct, or delete your Personal Information and privacy preferences at any time. This may be accomplished by clicking on the link, "[Dashboard](https://web.archive.org/account/dashboard)" where you can view and make changes to most of your Personal Information immediately. If you are a contributor or user, you can change your profile by going to "[Account Settings](https://web.archive.org/account/settings)" For other settings-related questions and concerns concerning Personal Information, you may contact support by email. We will respond to your request within a reasonable timeframe.
 
 ## POLICY FOR CHILDREN
 
@@ -184,7 +184,7 @@ Upon your request to terminate your account, we will deactivate or delete your a
 
 ### Request a copy of your data
 
-You can request a copy of your information which we hold (in Europe this is known as a subject access request). If you would like a copy of some or all of it, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2b585e5b5b44595f6b4e4e515205484446) and let us know the information you want a copy of, including any account or reference numbers, if you have them. Any subject access request may be subject to a reasonable fee to cover the cost of providing you with details of the information we hold about you.
+You can request a copy of your information which we hold (in Europe this is known as a subject access request). If you would like a copy of some or all of it, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#35464045455a47417550504f4c1b565a58) and let us know the information you want a copy of, including any account or reference numbers, if you have them. Any subject access request may be subject to a reasonable fee to cover the cost of providing you with details of the information we hold about you.
 
 ### Data portability request
 
