@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nten.org privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628104132id_/https%3A//www.nten.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nten.org privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229005424id_/https%3A//www.nten.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – NTEN
+# Privacy Policy | NTEN
 
 NTEN is committed to protecting the privacy of our members and website users. This policy explains what types of information is collected by NTEN’s websites, including but not limited to nten.org, community.nten.org, local.nten.org, the Nonprofit Technology Conference mobile app, and the NTEN Stories mobile app, and explains how that information is used. 
 
