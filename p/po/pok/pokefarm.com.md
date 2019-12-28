@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokefarm.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603225450id_/https%3A//pokefarm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokefarm.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228074351id_/https%3A//pokefarm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PokéFarm Q
 
