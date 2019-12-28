@@ -1,79 +1,82 @@
-> *The following text is extracted and transformed from the full30.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418010205id_/https%3A//www.full30.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the full30.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228234855id_/https%3A//www.full30.com/privacy) for the most accurate reproduction.*
 
 # 
 
-## Privacy Policy
+**PRIVACY POLICY**
 
-This Privacy Policy governs the manner in which Full30 collects, uses, maintains and discloses information collected from users (each, a “User”) of the [WWW.FULL30.COM](http://www.full30.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Full30.
+This privacy policy will explain what information we collect online, why we collect it, and the choices we offer to you.
 
-**Personal Identification Information**
+This privacy policy ("Policy") describes the data practices of Full30 and its subsidiaries (collectively, the "we", or "Company"), covering its services under its control, including this website, any products, mobile applications, console or PC applications (collectively "Services"). By using the Services, you are consenting to this Policy and the processing of your data in the manner provided in this Policy. If you do not agree with these terms, please do not use the Services. This Privacy Policy was last updated on **April 30, 2018**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. 
+**Information we collect**
 
-Users may be asked for, as appropriate, name, e-mail address, or other personal information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personal identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect information about the Services you use and how you use them, such as the selections you make on our Services. We collect PII, DII, and log information about your interactions as described below.
 
-**Non-Personal Identification Information**
+Personally identifiable information (PII) is information that can be used to identify or contact you online or offline, such as your name, address, email, phone number, photos or audio data, and payment information. The Services may collect PII when it is provided to us, such as when you use our Services, attempt to contact us, submit a resume or job application, or connect with us on social media or one of our partners. For example, you may see a "Log in with..." button, which means we request PII from a partner to streamline the login process. You will likely be presented with a "request for permission" screen by a third party asking to share your ID, profile picture, and other listed information with us.
 
-We may collect non-personal identification information about users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about user's means of connection to our Site, such as the operating system, the Internet service providers utilized, and other similar information.
+We may also create or collect device-identifiable information (DII), such as cookies, unique device and advertising identifiers, usernames, and similar identifiers that are linkable to a browser or device. From these platforms, we may also receive other information, such as your IP address, user agent, timestamps, precise and imprecise geolocation, sensor data, apps, fonts, battery life information, and screen size.
 
-**Web Browser Cookies**
+Our Services also collect information about your interactions, including navigation paths, search queries, crashes, timestamps, purchases, clicks and shares, and referral URLs. We may combine this data with PII and DII. For efficiency's sake, information about your interactions may be transmitted to our servers while you are not using the app. We may also partner with third parties that collect additional information -- please see their privacy policies for more details and see below for your choices regarding these parties.
 
-Our Site may use “cookies” to enhance the User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User's may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+**How we use information we collect**
 
-**How We Use Collected Information**
+We use the information we collect from our Services to provide, maintain, protect and improve our Services, to develop new Services and offerings, and to protect us and our users.
 
-FULL30 may collect and use Users personal information for the following purposes:
+PII is primarily used for business purposes, such as for sending you occasional newsletters and updates, hiring, responding to inquiries, logins, and providing Services. When you contact us, we may keep a record of your communication as well as the other information to help solve any issues you might be facing. We may use your email address to inform you about our Services, such as letting you know about changes or improvements. Please keep in mind that comments sections, forums, and other similar areas of our Services are public. Any information posted in those areas is viewable and usable by anyone that has access.
 
-To personalize the user experience.
+We share PII with companies, outside organizations, and individuals for limited reasons, outlined below:
 
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+A. With your consent - We will share PII with companies, outside organizations or individuals if we have your consent to do so.
 
-To improve our site.
+B. For external processing - We provide PII to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
 
-We may use feedback from you to provide or improve our products and services.
+C. For legal reasons - We will share PII with companies, outside organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable law, regulation, legal process or enforceable governmental request, detect, prevent, or otherwise address fraud, security or technical issues or protect against harm to the rights, property or safety of our users or the public as required or permitted by law.
 
-To share your information with third parties.
+D. In case of a sale or asset transfer - If we become involved in a merger, acquisition or other transaction involving the sale of some or all of our assets, user information, including PII collected from you through your use of our Services, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Services.
 
-We may share or sell information with third parties for marketing or other purposes.
+E. In aggregated form for business purposes - We may share aggregated information and DII with our partners such as businesses we have a relationship with, advertisers or connected sites. For example, we may share information to show trends about the general use of our Services.
 
-To run a promotion, contest, survey or other Site feature.
+We use DII to operate our Services and manage user sessions, including analyzing usage of our Services, preventing malicious behavioral and fraud, improving the content, to link your identity across devices and browsers in order to provide you with a more seamless experience online, and helping third parties provide relevant advertising and related metrics. We share DII with third parties primarily for advertising and analytics purposes, for external processing, and for security purposes.
 
-To send Users information they agreed to receive about topics we think will be of interest to them.
+**Third Parties**
 
-To send periodic emails.
+While we strive to work with reputable companies with good privacy practices, this Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you on the Services. We also do not control the privacy policies and your privacy settings on third-party sites, including social networks. We may use third parties to help offer you more tailored ads and better Services, such as obtaining analytics about the users of our site and to help tailor advertising to your preferences. For further information, please see the relevant privacy policies for each third party and industry codes of conduct.
 
-We may use the email address to respond to their inquiries, questions, and/or other requests. If a User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, or related product/service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+**Choice**
 
-**How we protect your information**
+If you wish to cancel your account, you can do so by accessing our platform or contacting usfor assistance with the process. Our email is included at the end of the privacy policy.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+Like many other companies, we do not honor DNT flags but instead offer other choices with respect to third parties. Many third parties participate in self-regulation to offer you a choice regarding receiving targeted ads. Please note that you'll still see generic ads after opting out, but they won't be based on your activities online. On the web, you can opt out of participating companies by visiting the following sites:
 
-**Sharing your personal information**
+  * <http://optout.networkadvertising.org/>
 
-We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+  * <http://optout.aboutads.info/>
 
-**Third party websites**
 
-Users may find advertising or other content on our Site that links to the sites and services of our partners, suppliers, advertisers, sponsors, licensors, or other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. 
 
-These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-**Advertising**
+If you wish to similarly opt out of cross-app advertising on mobile devices, you can enable the Limit Ad Tracking flag on the device. Enabling Limit Ad Tracking sends a flag to third parties that you wish to opt out of targeted advertising on that device, and major mobile platforms require companies to honor this flag. Screenshots on how to find these options on various devices are available here: [http://www.networkadvertising.org/mobile-choices](https://www.networkadvertising.org/mobile-choices).
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+**Accessing and updating your information**
 
-**Google AdSense**
+We aim to provide you with reasonable opportunity to access, update, and delete to your PII. In some cases, we may have to keep that information for legitimate business or legal purposes. When updating your information, we may ask you to verify your identity before we can act on your request.
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+**Information security**
 
-**Changes to this privacy policy**
+We work hard to protect our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold and undertake reasonable security measures with appropriate confidentiality, integrity, and availability protections. However, since no software or storage system is 100% secure, we cannot guarantee the security of your information associated with the Services, or any other service for that matter. You can help protect your account information by using unique and hard-to-guess passwords.
 
-FULL30 has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**Children Under 13**
 
-**Your acceptance of these terms**
+We do not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child's information on our Services, please contact us atthe email provided at the end of this Policy.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. Contacting us
+**Our Services are Located in the United States**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: <https://www.full30.com/contact>.
+Our Services are directed to United States citizens. If you are outside of the United States, your information will be processed and stored in the United States and you are consenting to such transfer, processing, and storage under the laws of the United States.
 
-This document was last updated on August 28, 2014. Privacy policy created by Generate Privacy Policy.
+**Changes**
+
+Our Privacy Policy may change from time to time. We will post any Policy changes on this page, including material changes. Please check back periodically to view changes to our privacy policy.
+
+**Questions?**
+
+If you have questions or requests regarding your privacy, please contact us at privacy@full30.com.
