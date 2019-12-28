@@ -1,14 +1,21 @@
-> *The following text is extracted and transformed from the bose.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608001121id_/https%3A//www.bose.com/en_us/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bose.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229001800id_/https%3A//www.bose.com/en_us/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-**Effective Date:  September 10, 2018**
+**Effective date: 13 June 2019**  
 
-This Privacy Policy describes the data protection practices of Bose (“Bose,” “we,” “us,” or “our”). Bose provides services to users throughout the world. If you live in the United States, Latin America, or Canada, Bose Corporation (located at The Mountain, Framingham, MA 01701) is the data controller for your information. If you live anywhere else, Bose Products B.V. (located at Gorslaan 60, Purmerend, The Netherlands) is the data controller with the exception of processing activities in relation to product support, product analysis and development activities for which Bose Corp. is the data controller.
+
+This Privacy Policy describes the data protection practices of Bose (“Bose,” “we,” “us,” or “our”). Bose provides services to users throughout the world.
+
+  * If you live in the United States, Latin America, or Canada, Bose Corporation (located at The Mountain, Framingham, MA 01701) is the data controller for your information. If you live in China, Bose Electronics (Shanghai) Company Limited (located at Part C, Plant 9, No. 353 North Riying, China (Shanghai) Pilot Free Trade Zone) is the data controller for your information. 
+  * If you live anywhere else, Bose Products B.V. (located at Gorslaan 60, Purmerend, The Netherlands) is the data controller with the exception of processing activities in relation to product support, product analysis, and development activities for which Bose Corp. is the data controller.
+
+
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY TO UNDERSTAND HOW WE HANDLE YOUR INFORMATION. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THE SERVICES. IF YOU HAVE PURCHASED SERVICES SUBJECT TO THIS PRIVACY POLICY, PLEASE DISCONTINUE THE SET-UP OF YOUR SERVICES AND CONTACT BOSE USING THE CONTACT INFORMATION BELOW.**
 
-This Privacy Policy contains the following sections:
+This Privacy Policy contains the following sections:  
+
 
   * The Information We Collect
   * How We Use Your Information
@@ -32,7 +39,8 @@ This Privacy Policy contains the following sections:
 
 ##  THE INFORMATION WE COLLECT 
 
-This Privacy Policy applies to the information that we collect and use about you when you:
+This Privacy Policy applies to the information that we collect and use about you when you:  
+
 
   * Access or use any Bose website (including when you make purchases through any worldwide Bose online shops), mobile application, hardware (e.g. Bose products that provide a direct or indirect connection to the Internet including headphones and wireless speakers), software, or other online or mobile service that links to or otherwise presents this Privacy Policy to you;
   * Visit a Bose retail store;
@@ -43,11 +51,13 @@ This Privacy Policy applies to the information that we collect and use about you
 
 We refer to these products and services collectively as the “Services”.
 
-We obtain information about you through the means discussed below when we provide the Services. Please note that we need certain types of information so that we can provide the Services to you. If you do not provide us with such information, or ask us to delete it, you may no longer be able to access or use our Services.
+We obtain information about you through the means discussed below when we provide the Services. Please note that we need certain types of information so that we can provide the Services to you. If you do not provide us with such information, or ask us to delete it, you may no longer be able to access or use our Services.  
+ 
 
 ###  1\. Information You Provide to Us 
 
-Bose collects a variety of information that you provide directly to us. For example, Bose collects information from you through:
+Bose collects a variety of information that you provide directly to us. For example, Bose collects information from you through:  
+
 
   * Processing your orders
   * Requests or questions you submit to us via forms or email
@@ -62,10 +72,9 @@ Bose collects a variety of information that you provide directly to us. For exam
 
 
 
-Although other Bose entities will also collect and process this information, as described at the beginning of the Privacy Policy, Bose Corporation or Bose Products B.V will always be the data controller in respect to such processing.  
+Although other Bose entities will also collect and process this information, as described at the beginning of the Privacy Policy, Bose Corporation, Bose Electronics (Shanghai) Company Limited, or Bose Products B.V. will always be the data controller in respect to such processing.
 
-
-**_Information about you._** While some of the Services may not require you to provide any information that can directly identify you by name (such as the Bose Connect App), the specific types of information we collect will depend upon the Services you use, how you use them, and the information you choose to provide. The types of data we collect directly from you includes:
+**Information about you**. While some of the Services may not require you to provide any information that can directly identify you by name (such as the Bose Connect App), the specific types of information we collect will depend upon the Services you use, how you use them, and the information you choose to provide. The types of data we collect directly from you includes:
 
   * Name, address, telephone number and email address (and company name, address, contact information, and other company details if you are using a Bose business website or product)
   * Log-in credentials, if you create a Bose account
@@ -79,17 +88,19 @@ Although other Bose entities will also collect and process this information, as 
 
 
 
-**_Information about others._** If you request that your Bose purchase be shipped to someone other than yourself (such as a gift recipient), we use the information you provide about the other person to fulfill the shipment.
+**Information about others**. If you request that your Bose purchase be shipped to someone other than yourself (such as a gift recipient), we use the information you provide about the other person to fulfill the shipment.
 
-**_Bose ID._** Some of our products and features will allow you or require you to create an account and establish a Bose ID. This ID may allow you to sign into a range of Bose Services. It also enables Bose to consolidate information collected across a range of Bose products and services, which helps us provide you with a more seamless experience across our Services.
+**Bose ID**. Some of our products and features will allow you or require you to create an account and establish a Bose ID. This ID may allow you to sign into a range of Bose Services. It also enables Bose to consolidate information collected across a range of Bose products and services, which helps us provide you with a more seamless experience across our Services.  
+ 
 
 ###  2\. Information We Collect Through Automated Means 
 
 When you use our Services, we collect certain information as described in this Section. As discussed further below, we and our service providers (which are third party companies that work on our behalf), may use a variety of technologies, including cookies and similar tools, to assist in collecting this information.
 
-**_Websites._** When you use our websites, we collect and analyze information such as your IP address, browser types, browser language, operating system, the state or country from which you accessed the Services, software and hardware attributes (including device IDs) referring and exit pages and URLs, platform type, the number of clicks, files you download, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the terms you use in searches on our sites, the date and time you used the Services and upload or post content, error logs, and other similar information.
+**Websites**. When you use our websites, we collect and analyze information such as your IP address, browser types, browser language, operating system, the state or country from which you accessed the Services, software and hardware attributes (including device IDs) referring and exit pages and URLs, platform type, the number of clicks, files you download, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the terms you use in searches on our sites, the date and time you used the Services and upload or post content, error logs, and other similar information.
 
-**_Connected Bose Products._** If you connect your Bose product (such as headphones or speakers) to the Internet or to a Bose software or application, we may automatically receive information from the Bose product about how you use the product. Such information includes:
+**Connected Bose Products**. If you connect your Bose product (such as headphones or speakers) to the Internet or to a Bose software or application, we may automatically receive information from the Bose product about how you use the product. Such information includes:  
+
 
   * Technical data, such as your product serial number or model number, device operating system version, MAC address(es), Wi-Fi® signal strength, firmware version, IP address, SSIDs, log files, durations, service tokens, Internet connection type and carrier, and unique identifiers associated with the computer, tablet, or mobile device used in connection with the Bose product
   * Usage data, such as time spent using different features/settings of the product, the day and time you used the product, button presses, the media and other external sources to which you connect your product, and, as applicable, your product’s power spectrum, sound pressure level, volume levels, and streaming information (including content stored on system presets, stations played, playlists, artists, albums, songs, or podcasts), time zone, and transactional data enabling digital rights management (e.g., for music content providers to give appropriate credit to artists depending on how often their content is played)
@@ -99,23 +110,24 @@ When you use our Services, we collect certain information as described in this S
 
 
 
-**_Bose Mobile Applications and Software._** When you use a Bose mobile application or software, we automatically receive certain information about the mobile phone, tablet, or computer used to access the application or software, including a mobile device identifier, IP address, operating system, version, Internet service provider, browser type, domain name and other similar information, whether and when you update the app and your connected Bose products, date and time of use, and how you use the app, including time spent in different portions of the application, content accessed or downloaded (including stations played, playlists, artists, albums, songs, or podcasts), and list of systems and software applications.
+**Bose Mobile Applications and Software.** When you use a Bose mobile application or software, we automatically receive certain information about the mobile phone, tablet, or computer used to access the application or software, including a mobile device identifier, IP address, operating system, version, Internet service provider, browser type, domain name and other similar information, whether and when you update the app and your connected Bose products, date and time of use, and how you use the app, including time spent in different portions of the application, content accessed or downloaded (including stations played, playlists, artists, albums, songs, or podcasts), and list of systems and software applications.
 
 **A special note about the Bose Connect Application.** Please note that if you are a user of the Bose Connect Application, you can opt out of the collection of diagnostic and usage data by visiting the Privacy Policy & Settings menu in the Bose Connect Application.
 
-**_Location Information._** When you use the Services, we and our service providers may automatically collect general location information (e.g., IP address, city/state and or postal code associated with an IP address) from your computer or mobile device. This information allows us to enable access to content that varies based on a user’s general location (e.g., providing access to local radio stations).
+**Location Information**. When you use the Services, we and our service providers may automatically collect general location information (e.g., IP address, city/state and or postal code associated with an IP address) from your computer or mobile device. This information allows us to enable access to content that varies based on a user’s general location (e.g., providing access to local radio stations).
 
 We will ask your permission before collecting your precise GPS location information. In such instances, we will use your precise geo-location information to provide customized services, content, promotional offers and other information that may be of interest to you. We may also use this information to enable you to locate a lost or stolen device. If you no longer wish for us and our service providers to collect and use GPS location information, you may disable the location features on your device. Please see your device manufacturer settings. Please note that if you disable such features, you will not be able to access or receive some or all of the services, content, features, and/or products made available via the Services.
 
-**_Collection of Information Across Bose products, personal devices, and applications.  _**Sometimes, we (or our service providers) may use the information we collect -- for instance, usernames, IP addresses and unique mobile device identifiers -- to locate or try to locate the same unique users across multiple browsers or devices (such as smartphones, tablets, or connected Bose products), or work with providers that do this, in order to better tailor content and features and provide you with a seamless experience across devices. If you wish to opt out of cross device tracking for purposes of interest-based advertising, you may do so through your Android or Apple device-based settings.
+**Collection of Information Across Bose Products, Personal Devices, and Applications**. Sometimes, we (or our service providers) may use the information we collect — for instance, usernames, IP addresses and unique mobile device identifiers — to locate or try to locate the same unique users across multiple browsers or devices (such as smartphones, tablets, or connected Bose products), or work with providers that do this, in order to better tailor content and features and provide you with a seamless experience across devices. If you wish to opt out of cross device tracking for purposes of interest-based advertising, you may do so through your Android or Apple device-based settings.
 
 ###  3\. Information We Collect at Bose Retail Locations 
 
-We use a third-party service provider, RetailNext, to gather mobile and video analytics in Bose retail stores. This service provider provides insights about consumers’ behavior in and around Bose retail stores based on the collection of information from consumers’ Wi-Fi® and Bluetooth-enabled devices and from in-store video cameras. The information collected is handled by Bose in accordance with this Privacy Policy. Information about how RetailNext handles such information can be found in its privacy policy, which can be viewed at [https://retailnext.net/en/privacy-policy](https://retailnext.net/en/privacy-policy/). For more information about the data we collect through RetailNext, please [click here](https://web.archive.org/en_us/legal/overlays_legal/retailnext.html).
+We use a third-party service provider, RetailNext, to gather mobile and video analytics in Bose retail stores. This service provider provides insights about consumers’ behavior in and around Bose retail stores based on the collection of information from consumers’ Wi-Fi® and Bluetooth-enabled devices and from in-store video cameras. The information collected is handled by Bose in accordance with this Privacy Policy. Information about how RetailNext handles such information can be found in their [privacy policy](https://retailnext.net/en/privacy-policy). More information about the data we collect through [RetailNext](https://web.archive.org/en_us/legal/overlays_legal/retailnext.html).
 
-At Bose retail locations or third-party retail locations that sell Bose products, you may additionally have the ability to connect your personal devices to Bose digital displays or to otherwise provide information about yourself through such displays. If you choose to connect to such displays or provide Bose with information about yourself in this way, the types of information we collect include the type of phone you are using to initiate the connection (e.g., iOS7) and the name you assigned to your phone (if any).
+At Bose retail locations or third-party retail locations that sell Bose products, you may additionally have the ability to connect your personal devices to Bose digital displays or to otherwise provide information about yourself through such displays. If you choose to connect to such displays or provide Bose with information about yourself in this way, the types of information we collect include the type of phone you are using to initiate the connection (e.g., iOS7) and the name you assigned to your phone (if any).  
 
-###  4\. Information We Collect From Social Media and Other Content Platforms 
+
+###  4\. Information We Collect from Social Media and Other Content Platforms 
 
 If you access the Services through a third-party connection or log-in (e.g., through a social network), you may allow us to have access to and store certain information from your social network profile. This includes your name, gender, profile picture, your “likes” and check-ins, and your list of friends, depending on your settings on such services. If you do not wish to have this information shared, do not use a social networking connection to access the Services. For a description of how social networking sites handle your information, please refer to their privacy policies and terms of use, which may permit you to modify your privacy settings.
 
@@ -136,21 +148,25 @@ We, or our service providers, use your information (including any information th
   * Complete a purchase or provide the Services you have requested, including invoicing and accounting
   * Respond to your request for information and provide you with more effective and efficient customer service
   * Provide you with updates and information about products you have purchased from us
+  * Review and process employment applications, as discussed further below in the “Employment Applications” section
   * Contact you by email, postal mail, or phone regarding Bose and third-party products, services, surveys, research studies, promotions, special events and other subjects that we think may be of interest to you
   * Customize the advertising and content on the Services
   * Help us better understand your interests and needs, and improve the Services
-  * Synthesize and derive insights from your use of different Services
   * Engage in analysis, research, and reports regarding use of our Services
+  * Synthesize and derive insights from your use of different Services
   * Provide, manage, and improve the Services and their performance, and test and create new products, features, and services
-  * Secure our websites, products, software, applications, or Bose retail stores Understand and resolve app crashes and other issues being reported
+  * Secure our websites, products, software, applications, or Bose retail stores 
+  * Understand and resolve app crashes and other issues being reported
   * Comply with any procedures, laws, and regulations which apply to us where it is necessary for our legitimate interests or the legitimate interests of others
   * Establish, exercise, or defend our legal rights where it is necessary for our legitimate interests or the legitimate interests of others
 
 
 
-**_Combined Information._** For the purposes discussed in this Privacy Policy, we may combine the information that we collect through the Services with information that we receive from other sources, both online and offline, and use such combined information in accordance with this Privacy Policy.
+_Note to Mexican users_ : Please note that under Mexican law, you have 5 days from the date you provide your personal data to Bose to inform our Data Protection Officer at the contact information listed below if you object to certain uses of your data. If you would like to make such a request, please contact us and we will process your request in accordance with applicable legal requirements. If you do not make such a request within the 5-day period, you hereby consent to all uses of your data as indicated above. 
 
-**_Aggregate/Anonymous Data._** We may aggregate and/or anonymize any information collected through the Services so that such information can no longer be linked to you or your device (“Aggregate/Anonymous Information”). We may use Aggregate/Anonymous Information for any purpose, including without limitation for research and marketing purposes, and may also share such data with any third parties, including advertisers, promotional partners, and sponsors.
+**Combined Information**. For the purposes discussed in this Privacy Policy, we may combine the information that we collect through the Services with information that we receive from other sources, both online and offline, and use such combined information in accordance with this Privacy Policy.
+
+**Aggregate/Anonymous Data.** We may aggregate and/or anonymize any information collected through the Services so that such information can no longer be linked to you or your device (“Aggregate/Anonymous Information”). We may use Aggregate/Anonymous Information for any purpose, including without limitation for research and marketing purposes, and may also share such data with any third parties, including advertisers, promotional partners, and sponsors.
 
 ##  LEGAL BASES FOR USE OF YOUR INFORMATION 
 
@@ -174,10 +190,10 @@ To collect the information in the “Information We Automatically Collect” sec
 
 As we adopt additional technologies, we may also gather information through other methods.
 
-Please note that you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser for more information (e.g., [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies); [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en); [Mozilla Firefox](http://kb.mozillazine.org/Cookies#Firefox); or [Apple Safari](https://support.apple.com/kb/PH5042?locale=en_US)). You can also manage the use of Flash technologies, including flash cookies and local storage objects with the Flash management tools available at [Adobe's website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html). Please note that by blocking, disabling, or managing any or all cookies, you may not have access to certain features or offerings of the Services. For example, to complete a purchase on our websites, you will need to accept cookies sent by our sites. If you choose not to accept our cookies, please call us at 1-800-999-2673 to place your order by phone or click here for additional global Bose contact information.
+Please note that you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser for more information (e.g., [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies); [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en); [Mozilla Firefox](http://kb.mozillazine.org/Cookies#Firefox); or [Apple Safari](https://support.apple.com/kb/PH5042?locale=en_US)). You can also manage the use of Flash technologies, including flash cookies and local storage objects with the Flash management tools available at [Adobe's website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html). Please note that by blocking, disabling, or managing any or all cookies, you may not have access to certain features or offerings of the Services. For example, to complete a purchase on our websites, you will need to accept cookies sent by our sites. If you choose not to accept our cookies, please call us at 1-800-999-2673 to place your order by phone or [click here](https://global.bose.com/en_us/index.html) for additional global Bose contact information.
 
-For more information on the cookies we use and the purposes for which we use them, please refer to our [Cookies Notice](https://web.archive.org/en_us/legal/cookie_policy.html). By continuing to use our websites and/or our Services, you are agreeing to our use of cookies as described in our Cookies Notice.  
-[](https://web.archive.org/en_us/legal/cookie_policy.html)
+For more information on the cookies we use and the purposes for which we use them, please refer to our [Cookies Notice](https://web.archive.org/content/consumer_electronics/b2c/north_america/websites/north_america/websites/en_us/index/legal/cookie_policy.html). By continuing to use our websites and/or our Services, you are agreeing to our use of cookies as described in our Cookies Notice.  
+[](https://web.archive.org/content/consumer_electronics/b2c/north_america/websites/north_america/websites/en_us/index/legal/cookie_policy.html)
 
 ##  ONLINE ANALYTICS AND ADVERTISING 
 
@@ -203,15 +219,16 @@ When using mobile applications from Bose or others, you may also receive tailore
 
 ###  4\. Notice Concerning Do Not Track. 
 
-Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the variety of opt-out mechanisms listed above. However, we do not currently recognize or respond to browser-initiated DNT signals. To learn more about Do Not Track, you can do so [here](https://allaboutdnt.com/).
+Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the variety of opt-out mechanisms listed above. However, we do not currently recognize or respond to browser-initiated DNT signals. Learn more about [Do Not Track](https://allaboutdnt.com/).
 
 ##  HOW WE SHARE AND DISCLOSE YOUR INFORMATION 
 
-Bose will share your information in the following ways:
+Bose will share your information in the following ways:  
+
 
   * **_Affiliates and Subsidiaries._** We may share information we collect within the Bose family of companies (e.g, Bose’s manufacturing, distribution, and product development companies) to deliver products and services to you, ensure a consistent level of service across our products and Services, and enhance our products, services, and your customer experience.
   * **_Service Providers._** We provide access to or share your information with select third parties who perform services on our behalf. They have access to perform these services but are prohibited from using your information for other purposes. They provide a variety of services to us, including billing, sales, marketing, product content and features (e.g., voice activation/recognition services), advertising, analytics, research, customer service, shipping and fulfillment, data storage, security, fraud prevention, payment processing, and legal services. Such parties currently include crash and bug analytics providers like Crashlytics, and service providers like Segment that enable us to connect your Bose products to your device and provide us with analytics for internal purposes.
-  * **_Music Streaming Services and Other Third Party Apps._**  When you initiate a connection with a third-party streaming service through the Services, we will share information about you that is required to enable delivery of the third-party content (e.g. your streaming service log-in credentials). Similarly, if you use a third-party app that works in connection with your Bose product, you acknowledge that information may be shared with the third-party app during the connection (e.g. information about how you use your Bose product). If you choose to initiate these connections, you agree that the third-party app’s policies and terms, and not Bose’s, govern these connections. We urge you to read the privacy and security policies of these third-parties.
+  * **_Music Streaming Services and Other Third-Party Apps._**  When you initiate a connection with a third-party streaming service through the Services, we will share information about you that is required to enable delivery of the third-party content (e.g. your streaming service log-in credentials). Similarly, if you use a third-party app that works in connection with your Bose product, you acknowledge that information may be shared with the third-party app during the connection (e.g. information about how you use your Bose product). If you choose to initiate these connections, you agree that the third-party app’s policies and terms, and not Bose’s, govern these connections. We urge you to read the privacy and security policies of these third-parties.
   * **_Protection of Bose and Others._** By using the Services, you acknowledge and agree that we may access, retain and disclose the information we collect and maintain about you if required to do so by law or in a good faith belief that such access, retention or disclosure is reasonably necessary to: (a) comply with legal process (e.g. a subpoena or court order); (b) enforce our Terms of Service, this Privacy Policy, or other contracts with you, including investigation of potential violations thereof; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; and/or (e) protect the rights, property or personal safety of Bose, its agents and affiliates, its users and/or the public. This includes exchanging information with other companies and organizations for fraud protection, and spam/malware prevention, and similar purposes.
   * **_Business Transfers._** As we continue to develop our business, we may buy, merge, or partner with other companies. In such transactions, (including in contemplation of such transactions) user information may be among the transferred assets. If a portion or all of Bose’s assets are sold or transferred to a third-party, customer information (including your email address) would likely be one of the transferred business assets. If such transfer is subject to additional mandatory restrictions under applicable laws, Bose will comply with such restrictions.
   * **_Bose Learning Hub._** If you use the Bose Learning Hub in connection with your employment, we may share information about the training modules and other activities in which you participate and complete through the Learning Hub and based on our applicable agreement with your employer.
@@ -221,9 +238,12 @@ Bose will share your information in the following ways:
 
 
 
+_Note for Mexican users:_ By virtue of this Privacy Notice, you agree to the sharing of your personal data as provided herein, unless you expressly oppose such transfer by contacting us using the Bose contact information below.
+
 ##  RETENTION OF YOUR INFORMATION 
 
-We keep your information for no longer than necessary for the purposes for which it is processed. The length of time for which we retain information depends on the purposes for which we collected and use it and/or as required to comply with applicable laws.
+We keep your information for no longer than necessary for the purposes for which it is processed. The length of time for which we retain information depends on the purposes for which we collected and use it and/or as required to comply with applicable laws.  
+
 
 ##  DATA SUBJECT RIGHTS AND YOUR CHOICES 
 
@@ -231,19 +251,19 @@ You have certain rights with respect to your information as further described in
 
 ###  1\. Your Legal Rights 
 
-If you would like further information in relation to your legal rights under applicable law or would like to exercise any of them, please contact us using the information in the “Bose Contact Information” section below at any time. Your local laws may permit you to request that we:
+If you would like further information in relation to your legal rights under applicable law, the procedures to exercise any of your rights, or would like to exercise any of them, please contact our Data Protection Officer using the information in the “Bose Contact Information” section below at any time. Your local laws may permit you to request that we:
 
   * provide access to and/or a copy of certain information we hold about you
   * prevent the processing of your information for direct-marketing purposes (including any direct marketing processing based on profiling)
-  * update information which is out of date or incorrect
+  * update or rectify information which is out of date or incorrect
   * delete certain information which we are holding about you
-  * restrict the way that we process and disclose certain of your information
-  * transfer your information to a third party provider of services
+  * oppose, cancel, or restrict the way that we process and disclose certain of your information
+  * transfer your information to a third-party provider of services
   * revoke your consent for the processing of your information
 
 
 
-We will consider all requests and provide our response within the time period stated by applicable law. Please note, however, that certain information may be exempt from such requests in some circumstances, which may include if we need to keep processing your information for our legitimate interests or to comply with a legal obligation. We may request you provide us with information necessary to confirm your identity before responding to your request.
+We will consider all requests and provide our response within the time period stated by applicable law. Please note, however, that certain information may be exempt from such requests in some circumstances, which may include if we need to keep processing your information for our legitimate interests or to comply with a legal obligation. We may request you provide us with information necessary to confirm your identity before responding to your request as required or permitted by applicable law. 
 
 ###  2\. Marketing Communications and Sharing 
 
@@ -251,36 +271,35 @@ You may instruct us not to use your contact information to contact you by email,
 
 ###  3\. Placing an Order for Bose Products 
 
-To place an order on our websites, you must have cookies enabled. If you would like to place an order for Bose products or services but you have disabled cookies, please call us at 1-800-999-2673 to place your order by phone or click here for additional global Bose contact information.  
-
+To place an order on our websites, you must have cookies enabled. If you would like to place an order for Bose products or services but you have disabled cookies, please call us at 1-800-999-2673 to place your order by phone or [click here](https://global.bose.com/en_us/index.html) for additional global Bose contact information.
 
 ###  4\. Bose Connect App Data Collection Opt Out 
 
-If you are a user of the Bose Connect Application, you can opt out of the collection of diagnostic and usage data by visiting the Privacy Policy & Settings menu in the Bose Connect Application.
+If you are a user of the Bose Connect Application, you can opt out of the collection of diagnostic and usage data by visiting the Privacy Policy & Settings menu in the Bose Connect Application.  
+
 
 ###  5\. Cross-device Tracking Opt Out 
 
-If you wish to opt out of cross device tracking for purposes of interest-based advertising, you may do so through your Android or Apple device-based settings.
+If you wish to opt out of cross device tracking for purposes of interest-based advertising, you may do so through your Android or Apple device-based settings.  
+
 
 ##  THIRD PARTY LINKS AND FEATURES 
 
-The Services contain links to third-party websites (e.g., social media sites like Facebook and Twitter), third-party plug-ins (e.g., the Facebook “like” button and Twitter “follow” button), and third-party functionalities (e.g. Alexa Skill in connection with an Amazon Echo). If you choose to use these sites or features, you may disclose your information not just to those third-parties, but also to their users and the public more generally depending on how their services function. Bose is not responsible for the content or practices of such third party websites or services. The collection, use, and disclosure of your information will be subject to the privacy policies of the third party websites or services, and not this Privacy Policy. We urge you to read the privacy and security policies of these third-parties.  
-
+The Services contain links to third-party websites (e.g., social media sites like Facebook and Twitter), third-party plug-ins (e.g., the Facebook “like” button and Twitter “follow” button), and third-party functionalities (e.g. Alexa Skill in connection with an Amazon Echo). If you choose to use these sites or features, you may disclose your information not just to those third-parties, but also to their users and the public more generally depending on how their services function. Bose is not responsible for the content or practices of such third-party websites or services. The collection, use, and disclosure of your information will be subject to the privacy policies of the third-party websites or services, and not this Privacy Policy. We urge you to read the privacy and security policies of these third parties.
 
 ##  CHILDREN’S PRIVACY 
 
-The Services are intended for general audiences and not for children under the age of 13. If we become aware that we have collected “personal information” (as defined by the United States Children’s Online Privacy Protection Act) from children under the age of 13 without legally-valid parental consent, we will take reasonable steps to delete it as soon as possible. We do not knowingly process data of EU residents under the age of 16 without parental consent. If we become aware that we have collected data from an EU resident under the age of 16 without parental consent, we will take reasonable steps to delete it as soon as possible. We also comply with other age restrictions and requirements in accordance with applicable local laws.  
-
+The Services are intended for general audiences and not for children under the age of 13. If we become aware that we have collected “personal information” (as defined by the United States Children’s Online Privacy Protection Act) from children under the age of 13 without legally-valid parental consent, we will take reasonable steps to delete it as soon as possible. We do not knowingly process data of EU residents under the age of 16 without parental consent. If we become aware that we have collected data from an EU resident under the age of 16 without parental consent, we will take reasonable steps to delete it as soon as possible. We also comply with other age restrictions and requirements in accordance with applicable local laws.
 
 ##  INTERNATIONAL USERS 
 
-The information discussed in this Policy that is collected outside of the United States is controlled by Bose Products B.V. in The Netherlands. Bose’s office in The Netherlands is located at Gorslaan 60, Purmerend, The Netherlands. Information will also be shared and processed in the United States by Bose whose principal office in the United States is located at The Mountain, Framingham, Massachusetts, 01701. Your information will be processed in the United States for the purposes described herein. As described above, Bose also may subcontract the processing of your data to, or otherwise share your data with, other members within the Bose group, trusted service providers, and trusted business partners in countries other than your country of residence, including the United States, in accordance with applicable law. Such third parties may be engaged in, among other things, the provision of Services to you, the processing of transactions and/or the provision of support services. By providing us with your information, you acknowledge any such transfer, storage or use.
+Please note that in providing services to you, Bose may subcontract the processing of your data to, or otherwise share your data with, other members within the Bose group, trusted service providers, and trusted business partners in countries other than your country of residence, including the United States, in accordance with applicable law. Such third parties may be engaged in, among other things, the provision of Services to you, the processing of transactions and/or the provision of support services. By providing us with your information, you acknowledge any such transfer, storage or use.
 
-If we provide any information about you to any such non-EEA members of our group or third party information processors, we will take appropriate measures to ensure such companies protect your information adequately in accordance with this Privacy Policy. These measures include signing Standard Contractual Clauses in accordance with EU and other data protection laws to govern the transfers of such data. For more information about these transfer mechanisms, please contact us as detailed in the “Bose Contact Information” section below.
+If you live in the EEA, please note that if we provide any information about you to any non-EEA members of our group or third-party information processors, we will take appropriate measures to ensure such companies protect your information adequately in accordance with this Privacy Policy. These measures include signing Standard Contractual Clauses in accordance with EU and other data protection laws to govern the transfers of such data. For more information about these transfer mechanisms, please contact us as detailed in the “Bose Contact Information” section below.
 
-If applicable, you may make a complaint to the data protection supervisory authority in the country where you are based. Alternatively you may seek a remedy through local courts if you believe your rights have been breached.
+If applicable, you may make a complaint to the data protection supervisory authority in the country where you are based. Alternatively, you may seek a remedy through local courts if you believe your rights have been breached.
 
-_Note for users from Argentina._  Pursuant to National Directorate for Personal Data Protection Disposition 10/2008, I have been informed that: “Data subjects have the right to access their data free of charge at intervals no shorter than 6 months, unless a legitimate interest for doing so is proved, pursuant to section 14, subsection 3 of Act 25,326. The National Directorate for Personal Data Protection, control organ of Act 25,326, has the power to hear all claims made in relation to non-compliance with personal data protection regulations.” If you wish to access your data, please contact us using the contact information listed below.
+_Note for users from Argentina_. Pursuant to National Directorate for Personal Data Protection Disposition 10/2008, I have been informed that: “Data subjects have the right to access their data free of charge at intervals no shorter than 6 months, unless a legitimate interest for doing so is proved, pursuant to section 14, subsection 3 of Act 25,326. The National Directorate for Personal Data Protection, control organ of Act 25,326, has the power to hear all claims made in relation to non-compliance with personal data protection regulations.” If you wish to access your data, please contact us using the contact information listed below.
 
 ##  HOW WE PROTECT YOUR INFORMATION 
 
@@ -294,8 +313,7 @@ California law gives residents of California the right under certain circumstanc
 
 ##  EMPLOYMENT APPLICATIONS 
 
-The Services may contain careers sections that link to websites where you can apply for employment at Bose. These linked employment websites are not hosted by Bose, and instead are administered by Workday, our service provider. These websites collect a variety of information, including your contact information and your job qualifications. They also use cookies and other means of collecting information, but such information is used only for analytics purposes and to enable you to complete your application. Any information that Bose collects from Workday in connection with the employment websites is handled consistent with this Privacy Policy. Bose will use and share your information only for employment purposes, such as evaluating you for a job opportunity or communicating with you about your interests, and where sharing is required by law. Bose has entered into an agreement with Workday governing the processing of employment application information, and Workday is permitted to access, use and share your information only as necessary to perform the functions that Bose directs it to perform. That agreement also requires Workday to abide by the terms of the European Commission approved standard contractual clauses for data processors with respect to applicant data from EU residents. If you have any questions about the handling of your employment application data, please contact us through one of the methods described below.  
-
+The Services may contain careers sections that link to websites where you can apply for employment at Bose. These linked employment websites are not hosted by Bose, and instead are administered by Workday, our service provider. These websites collect a variety of information, including your contact information and your job qualifications. They also use cookies and other means of collecting information, but such information is used only for analytics purposes and to enable you to complete your application. Any information that Bose collects from Workday in connection with the employment websites is handled consistent with this Privacy Policy. Bose will use and share your information only for employment purposes, such as evaluating you for a job opportunity or communicating with you about your interests, and where sharing is required by law. Bose has entered into an agreement with Workday governing the processing of employment application information, and Workday is permitted to access, use and share your information only as necessary to perform the functions that Bose directs it to perform. That agreement also requires Workday to abide by the terms of the European Commission approved standard contractual clauses for data processors with respect to applicant data from EU residents. If you have any questions about the handling of your employment application data, please contact us through one of the methods described below.
 
 ##  CHANGES TO OUR PRIVACY POLICY 
 
