@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the metapack.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604090806id_/http%3A//www.metapack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metapack.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228101236id_/https%3A//www.metapack.com/privacy) for the most accurate reproduction.*
 
-# MetaPack Official | eCommerce Delivery Management SoftwarePrivacy Policy | Metapack Delivery Management Software
+# Privacy Policy | Metapack Delivery Management Software
 
 ## Introduction
 
-Thank you for visiting our website. MetaPack Ltd & MetaPack Group Companies respect your privacy and are committed to protecting your personal data. This privacy notice informs you how we look after your personal data when you visit our website (regardless of where you visit it from) and tells you about your privacy rights and how the law protects you. By using the site, you are accepting the practices described in this privacy policy.
+Thank you for visiting our website. Metapack Ltd & Metapack Group Companies respect your privacy and are committed to protecting your personal data. This privacy notice informs you how we look after your personal data when you visit our website (regardless of where you visit it from) and tells you about your privacy rights and how the law protects you. By using the site, you are accepting the practices described in this privacy policy.
 
   1. Important information and who we are
   2. The data we collect about you
@@ -21,24 +21,24 @@ Thank you for visiting our website. MetaPack Ltd & MetaPack Group Companies resp
 ## 1.Important information & who we are
 
 **PURPOSE OF THIS PRIVACY NOTICE  
-**This privacy notice aims to give you information on how MetaPack collects and processes your personal data through your use of this website, including any data you may provide through this website.
+**This privacy notice aims to give you information on how Metapack collects and processes your personal data through your use of this website, including any data you may provide through this website.
 
 This website is not intended for children and we do not knowingly collect data relating to children.
 
 It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements any specific notices and is not intended to override them.
 
 **CONTROLLER OR PROCESSOR  
-**MetaPack is made up of different legal entities including but not limited to MetaPack Limited, MetaPack Holdings USA Inc, Abol Software Inc, Abol Software Limited, MetaPack Poland Sp. z.o.o, MetaPack Germany GMBH, Total Delivery Management Limited, Send A2B Limited, MetaPack France SAS and MetaPack Far East Limited. This privacy notice is issued on behalf of the MetaPack Group so when we mention “MetaPack”, “we”, “us” or “our” in this privacy notice, we are referring to the relevant company in the MetaPack Group responsible for processing your data.
+**Metapack is made up of different legal entities including but not limited to Metapack Limited, Metapack Holdings USA Inc, Abol Software Inc, Abol Software Limited, Metapack Poland Sp. z.o.o, Metapack Germany GMBH, Total Delivery Management Limited, Send A2B Limited, Metapack France SAS and Metapack Far East Limited. This privacy notice is issued on behalf of the Metapack Group so when we mention “Metapack”, “we”, “us” or “our” in this privacy notice, we are referring to the relevant company in the Metapack Group responsible for processing your data.
 
-With respect to information collected from this website, MetaPack is the data controller and responsible for this website. 
+With respect to information collected from this website, Metapack is the data controller and responsible for this website. 
 
-MetaPack also processes data on behalf of its customers and in accordance with their instructions. MetaPack is a data processor with respect to third-party data provided to it by its customers. Where MetaPack is the data processor, you should make any requests for information or to exercise your rights directly to the data controller. 
+Metapack also processes data on behalf of its customers and in accordance with their instructions. Metapack is a data processor with respect to third-party data provided to it by its customers. Where Metapack is the data processor, you should make any requests for information or to exercise your rights directly to the data controller. 
 
 **HOW TO CONTACT US  
 **We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the data privacy manager using the details set out below.
 
 The Data Privacy Manager  
-MetaPack Ltd, 4th Floor, 200 Grays Inn Road, London WC1X 8XZ  
+Metapack Ltd, 4th Floor, 200 Grays Inn Road, London WC1X 8XZ  
 [dataprotection@metapack.com](mailto:dataprotection@metapack.com)
 
 We would appreciate the chance to deal with any concerns, so please contact us in the first instance.
@@ -202,12 +202,12 @@ Please note that we may process your personal data without your knowledge or con
 
 We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above. 
 
-  * **Internal Third Parties:** Other companies in the MetaPack Group acting as joint controllers or processors and who are based in any of our offices in Poland, Germany, the Netherlands or the USA.
+  * **Internal Third Parties:** Other companies in the Metapack Group acting as joint controllers or processors and who are based in any of our offices in Poland, Germany, the Netherlands or the USA.
   * **External Third Parties:**
     * Service providers, acting as processors, who may be based within or outside the EEA, who provide IT, software-as-a-service (SaaS), system administration and other services which support the functions of our business.
     * Professional advisers, acting as processors or joint controllers, including lawyers, bankers, auditors and insurers based in who may be based within or outside the EEA, who provide consultancy, banking, legal, insurance, accounting and similar professional services.
     * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
-    * Tax authorities, regulators, public bodies or other parties, acting as joint controllers or processors, based in countries where MetaPack carries on business operations and where disclosure is required in accordance with applicable law.
+    * Tax authorities, regulators, public bodies or other parties, acting as joint controllers or processors, based in countries where Metapack carries on business operations and where disclosure is required in accordance with applicable law.
 
 
 
@@ -215,7 +215,7 @@ We require all third parties to respect the security of your personal data and t
 
 ## 6\. International transfers
 
-We share your personal data within the MetaPack Group. This will involve transferring your data outside the European Economic Area ( **EEA** ).
+We share your personal data within the Metapack Group. This will involve transferring your data outside the European Economic Area ( **EEA** ).
 
 Some of our external third parties are based outside the European Economic Area (EEA) so their processing of your personal data will involve a transfer of data outside the EEA.
 
@@ -259,7 +259,7 @@ Where we are the data controller, and under certain circumstances, you have the 
 
 
 
-To exercise any of the rights set out above, please refer to our [Data Subject Request Process](http://www.metapack.com/data-protection-and-individual-rights-requests/).  
+To exercise any of the rights set out above, please refer to our [Data Subject Request Process](https://www.metapack.com/data-protection-and-individual-rights-requests/).  
 Where we are a data processor, you should make your request directly to the data controller. 
 
 **NO FEE USUALLY REQUIRED  
