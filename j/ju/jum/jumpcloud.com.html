@@ -1,0 +1,653 @@
+<!--The following is the downloaded HTML source of the jumpcloud.com privacy policy that was archived on 2019-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191228012112id_/https%3A//jumpcloud.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" class="jc-html has-navbar-fixed-top"><head>
+    <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1158.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TCQM2R"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"fdafc1aec7",applicationID:"402020761"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1158.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="tnhwOikQbOguFwoC-0HeHcGDhQN9079owiBkoGOp5W4" name="google-site-verification">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="icon" type="image/png" href="https://jumpcloud.com/wp-content/themes/jumpcloud/assets/images/favicon-180x180.png" sizes="96x96">  
+
+    <title>JumpCloud Privacy</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Wouldn't it be great if you could leverage Google identities across all of your IT resources? This is possible with JumpCloud® Directory-as-a-Service®.">
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://jumpcloud.com/privacy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="JumpCloud Privacy">
+<meta property="og:description" content="Wouldn't it be great if you could leverage Google identities across all of your IT resources? This is possible with JumpCloud® Directory-as-a-Service®.">
+<meta property="og:url" content="https://jumpcloud.com/privacy/">
+<meta property="og:site_name" content="JumpCloud">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Wouldn't it be great if you could leverage Google identities across all of your IT resources? This is possible with JumpCloud® Directory-as-a-Service®.">
+<meta name="twitter:title" content="JumpCloud Privacy">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://jumpcloud.com/#website","url":"https://jumpcloud.com/","name":"JumpCloud","potentialAction":{"@type":"SearchAction","target":"https://jumpcloud.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://jumpcloud.com/privacy/#webpage","url":"https://jumpcloud.com/privacy/","inLanguage":"en-US","name":"JumpCloud Privacy","isPartOf":{"@id":"https://jumpcloud.com/#website"},"datePublished":"2017-12-07T22:06:23-07:00","dateModified":"2019-11-11T00:09:38-07:00","description":"Wouldn't it be great if you could leverage Google identities across all of your IT resources? This is possible with JumpCloud\u00ae Directory-as-a-Service\u00ae."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//jumpcloud.com">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//cdn.optimizely.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="JumpCloud » Feed" href="https://jumpcloud.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="JumpCloud » Comments Feed" href="https://jumpcloud.com/comments/feed/">
+<link rel="stylesheet" id="style-css" href="https://jumpcloud.com/wp-content/themes/jumpcloud/assets/styles/styles.css?ver=1.0.4" media="all">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://cdn.optimizely.com/js/553480116.js?ver=5.3.2"></script>
+<link rel="https://api.w.org/" href="https://jumpcloud.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jumpcloud.com/wp/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jumpcloud.com/wp/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.3.2">
+<link rel="shortlink" href="https://jumpcloud.com/?p=9268">
+<link rel="alternate" type="application/json+oembed" href="https://jumpcloud.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjumpcloud.com%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://jumpcloud.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjumpcloud.com%2Fprivacy%2F&amp;format=xml">
+        <script async="async" name="momently-script" src="//s3-us-west-2.amazonaws.com/momently-static/loader/Yi_OLQAfARI_momently.js"></script>
+		<script src="https://fast.wistia.com/embed/medias/abuwqccgmb.jsonp" async=""></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async=""></script>
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TCQM2R');
+    </script>
+    <!-- End Google Tag Manager -->
+</head>
+
+<body class="page-template-default page page-id-9268 no-sidebar">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCQM2R" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+            <nav id="main-nav" class="navbar is-fixed-top " aria-label="main navigation">
+    <div class="container">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="/">
+                <img class="brand-image" src="https://jumpcloud.com/wp-content/themes/jumpcloud/assets/images/logo-2018.svg" alt="JumpCloud" width="196" height="47">
+            </a>
+
+            <a role="button" class="navbar-burger" data-target="jc-navbar" aria-label="menu" aria-expanded="false">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+
+        <div id="jc-navbar" class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="/product/">
+                    Product
+                </a>
+                <a class="navbar-item" href="/pricing/">
+                    Pricing
+                </a>
+                <a class="navbar-item" href="/partners/">
+                    Partners
+                </a>
+                <a class="navbar-item" href="/resources/">
+                    Resources
+                </a>
+                <a class="navbar-item" href="/blog/">
+                    Blog
+                </a>
+
+                <a href="https://console.jumpcloud.com/" class="navbar-item is-hidden-desktop">Log In</a>
+
+                <a href="/signup/" class="navbar-item is-hidden-desktop">Get Started</a>
+            </div>
+
+            <div class="navbar-end is-hidden-tablet-only is-hidden-mobile">
+                <div class="navbar-item">
+                    <a href="https://console.jumpcloud.com/" class="navbar-item has-text-white ">Log In</a>
+
+                    <a href="/signup/" class="button is-primary-green is-nav">Get Started</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+      
+<main>
+            <section class="section page-title">
+            <div class="container">
+        <h1 class="title font-weight-300">Privacy Policy</h1>                    </div>
+        </section>
+        <section class="section">
+        <div class="container content">
+          <div class="columns">
+                    <div class="column" role="main">
+                    
+<article id="post-9268" class="content single post-9268 page type-page status-publish hentry">
+    
+        
+                
+<p>Last Updated: September 19, 2018</p>
+
+
+
+<p>JumpCloud Inc. (“JumpCloud,” “we,” “our” or “us”) is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy (“Privacy Policy”) describes the information we collect and how we use it. By using this website, you consent to our Privacy Policy.</p>
+
+
+
+<p>We may periodically update this Privacy Policy to reflect material changes in how we collect, use, share or store your personal information. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current Privacy Policy. You consent to any changes we make to this Privacy Policy if you continue to use the JumpCloud service after receiving a notice of the change or upon our posting of the new Privacy Policy on this website.</p>
+
+
+
+<p><strong>COLLECTING INFORMATION</strong></p>
+
+
+
+<p>Like many websites, we gather information about how visitors use our website. In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track your visit for trends and statistics, but you will remain anonymous unless you tell us who you are. Once you choose to give us your personal information, you are not anonymous to us. For more information, see the “Navigation” section of this Privacy Policy below.</p>
+
+
+
+<p>We request information from you (which may include your name, mailing address, telephone number, email address, company name, company size, and, when necessary, credit card information) when you:</p>
+
+
+
+<ul><li>Register or set up an account</li><li>Complete order forms</li><li>Purchase services</li><li>Request to receive communications or content</li><li>Respond to surveys</li><li>Participate in a promotion or other website feature</li><li>Participate in chat rooms, bulletin boards, message boards or other online discussions</li><li>Contact us</li><li>Modify your account or profile</li></ul>
+
+
+
+<p>We may also collect non-identifying information like your internet protocol (“IP”) address, browser type, and access times, search term queries through a log of all traffic on our web site. &nbsp;In order to improve our internal operations and website and to better understand your preferences and serve you, we may combine information you give us online with other information from JumpCloud sources, transactions, and communications. This may include data from JumpCloud direct mail, events, or online marketing. We may also combine that information with data that is publicly available and data that we receive from other reputable sources. This data may include postal address updates and demographic data. All data combined and stored with online data is protected by this Privacy Policy.</p>
+
+
+
+<p>If you create a JumpCloud account or log into JumpCloud using your Google credentials via Single Sign On, we will have access to your name, email and other information you have authorized in your Google profile settings. We collect this information to give you access to the service and personalizing our service.</p>
+
+
+
+<p>Information we ask for and receive from Google are listed below:</p>
+
+
+
+<div class="columns wp-block-columns has-2-columns has-background-grey-light">
+<div class="column wp-block-column">
+<p style="text-align:center">INFORMATION WE COLLECT</p>
+</div>
+
+
+
+<div class="column wp-block-column">
+<p style="text-align:center">WHY WE COLLECT IT</p>
+</div>
+</div>
+
+
+
+<div class="columns wp-block-columns has-2-columns">
+<div class="column wp-block-column">
+<p>Your email address</p>
+</div>
+
+
+
+<div class="column wp-block-column">
+<ul><li>Creating and supporting your JumpCloud account.</li><li>Communicating with you.</li><li>Verifying your email address to help prevent spam, fraud, and abuse.</li></ul>
+</div>
+</div>
+
+
+
+<div class="columns wp-block-columns has-2-columns">
+<div class="column wp-block-column">
+<p>Your basic profile information (First Name, Last Name, Profile Picture, Locale and hosted domain).</p>
+</div>
+
+
+
+<div class="column wp-block-column">
+<ul><li>First and Last Names – Displaying in your user profile.</li><li>We don’t use your Profile picture, locale and hosted domain.</li></ul>
+</div>
+</div>
+
+
+
+<p><strong>USING INFORMATION</strong></p>
+
+
+
+<p>We use the information we gather on the Site for the purposes of providing our services (including creating user accounts and to better understand and serve your needs), responding to any queries you may have, operating and improving the Site, fostering a positive user experience and delivering the products and services that we offer to our users. Our services include the display of personalized products, content, and advertising relating to your experiences and interests, either on our site or other sites with which we have a business relationship. The information we gather on the Site may be shared with third parties in order to deliver our services.</p>
+
+
+
+<p>By registering with JumpCloud, by managing your profile, or opting in when presented with choices, you have consented for us to use your information to:</p>
+
+
+
+<ul><li>Check for appropriate usage of the Services as defined in our&nbsp;<a href="https://jumpcloud.com/legal">Terms of Service</a></li><li>Customize and/or personalize your communications experience</li><li>Better respond to your customer service and support inquiries</li><li>Communicate with you about your purchase, account information, or customer service needs</li><li>Communicate with you about our products and events, and for other promotional purposes</li><li>Communicate with you about your requests for references or additional discussions</li><li>Display targeted advertising, announcements, sponsorships or other messages</li><li>Notify of new product releases and features, answer questions from contact or feedback pages</li><li>Improve our business and internal operations</li><li>Administer surveys or other website features</li><li>Improve our software and content</li><li>Allow you to create an account</li><li>Customize the content and/or layout of the web page for each individual visitor</li><li>Notify you about updates to the Service and the Site</li><li>Contact you for on-boarding help, sales inquiries and marketing information</li><li>Create a profile for you based on information that you have provided to us</li><li>In order to help us rank the importance of future items to build into the Services</li></ul>
+
+
+
+<p>We also use Google Analytics cookies to collect information about how visitors use our Site and Service. We use the information to compile reports and to help us improve the Site. The cookies collect information in an anonymous form, including the number of visitors to the Site, where the visitors have come to the site from, and the pages they visited. You can opt out of Google Analytics by visiting the following site –&nbsp;<a href="https://support.google.com/analytics/answer/181881?hl=en&amp;ref_topic=2919631">https://support.google.com/analytics/answer/181881?hl=en&amp;ref_topic=2919631</a></p>
+
+
+
+<p>We may use your personal information to communicate with you directly or indirectly through affiliated suppliers by email and telephone to provide confirmation emails when a purchase has been completed, to inform you with any changes or issues with a purchase you have made and for providing marketing related information such as an eBook and other updates. You may opt out of receiving newsletters and other updates. If you decide to opt out, your services and experience may degrade.</p>
+
+
+
+<p>We will not use your personal information to advertise or communicate promotional offers, directly or indirectly, using direct mail marketing or telemarketing, unless you give us permission to do so. &nbsp;We allow personally identifiable information to be combined with previously collected non-identifiable information with the consumer’s prior affirmative consent (“opt-in”). We do not create personally identifiable profile information unless consumers are notified and given an opportunity to opt out at the time and place that the personally identifiable information is collected. &nbsp;We will collect personally identifiable profile information only from web site operators with which we have contractual relationships. We will provide reasonable access to profile information that is personally identifiable or is associated with personally identifiable information.</p>
+
+
+
+<p>We may extend any of our rights under this Privacy Policy to third parties performing services on our behalf.</p>
+
+
+
+<p><strong>SHARING INFORMATION</strong></p>
+
+
+
+<p>We may enable other users of our site and third parties to view or receive information from your profile, subject to your permission to share this information. &nbsp;We may disclose such information to third parties if you consent to such disclosure. With your permission, we may publish or distribute selected information about you, such as your recommendations, interests and other data of possible interest to other users of our site and third parties.</p>
+
+
+
+<p>For the purpose of operating our business, we may transfer information between JumpCloud and our suppliers and preferred service providers who use that information only to conduct JumpCloud business. For example, they may handle our credit card processing, data management, email distribution, market research, information analysis, promotions management and delivery of eBooks and webinars. We provide our suppliers and preferred service providers with the information they need to perform their services and work with them to respect and protect your information.</p>
+
+
+
+<p>From time to time we might establish a business relationship with carefully selected persons or companies whom we believe trustworthy. In such cases we might share and cross-reference information, including personally identifiable information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you. If you prefer that we do not share any information with these companies, please send an email to privacy@jumpcloud.com to update your privacy settings.</p>
+
+
+
+<p>We may provide your information to our wholly-owned companies and affiliates, which may be outside the United States. We may also sell or transfer your personal information to is third parties in connection with any merger, acquisition, reorganization, or change in capital structure or sale of all or substantially all of the assets of JumpCloud.</p>
+
+
+
+<p>We may provide information to other companies for purposes such as reporting and marketing. We may sell or transfer non-individualized information to third parties, including summary or aggregated anonymous information about all or sub-groups of users of our site.</p>
+
+
+
+<p>On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others’ rights, property, or safety. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.</p>
+
+
+
+<p><strong>PROTECTING YOUR INFORMATION</strong></p>
+
+
+
+<p>We use a variety of security measures, including sophisticated encryption and authentication tools to maintain the safety of your personal information. Your personal information is contained behind secure networks and is only accessible to a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. &nbsp;Credit card numbers allow a user to subscribe to (and thus pay for) our business service. This data is protected and stored on our behalf by third party service providers. When you subscribe to the Service credit card data will be immediately encrypted, used once in a single authorization process and securely stored by the third party service provider. We are never able to access, see or display more than the card type, the last 4 digits of the credit card number, the name of the holder and the expiration date. The service providers do not save the CVV codes. Credit card numbers are used by service providers to initiate secure payments through the specific payment gateway at certain other service providers on a single occasion or a regular basis. Service providers charge the credit card and deposit money to our account. All processes adhere to PCI-DSS Level 1. Regardless of these efforts, no data transmission over the Internet can be guaranteed to be 100% secure.</p>
+
+
+
+<p>Our site may contain links to the websites of one or more third parties. We are not responsible for the privacy practices or the content of these other websites.</p>
+
+
+
+<p>We want you to feel confident using the JumpCloud website but we cannot ensure or warrant the security of any information you transmit to us. &nbsp;Please refer to the&nbsp;<a href="http://www.ftc.gov/bcp/menus/consumer/data/idt.shtm">U.S. Federal Trade Commission’s web site</a>&nbsp;for information on how to protect yourself from identity theft.</p>
+
+
+
+<p><strong>NAVIGATION</strong></p>
+
+
+
+<p>Like other interactive websites, we collect information about your use of our site and our services using cookies, log files, and techniques used to track who is reading a web page or e-mail, when, and from what computer, such as web bugs, web beacons, or pixel tags.</p>
+
+
+
+<p>A cookie is a small removable data file that is stored by your web browser on your computer. Cookies allow you to place an order on our website and allow us to enhance and personalize your online browsing and shopping experience.</p>
+
+
+
+<p>For example, we use cookies to:</p>
+
+
+
+<ul><li>Keep track of shopping cart and record session information</li><li>Keep track of login name/passwords</li><li>Recognize you when you return to our website</li><li>Keep track of click stream data (record user-specific information on what pages users access or visit)</li><li>Tailor web content to your users’ interests</li><li>Personalize the Site</li><li>So that the Service will function properly</li><li>Analyze visitor behavior</li><li>We may track information with pixel images on the Site. &nbsp;</li></ul>
+
+
+
+<p>You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. Please note that disabling cookies may degrade the experience on our site and with our service. To learn more about our usage of cookies, or how you can remove cookies, please&nbsp;<a href="https://jumpcloud.com/about-our-use-cookies/">visit our cookie policy page</a>.</p>
+
+
+
+<p>Pixel tags, also known as web beacons or web bugs, are tiny graphic images (referred to here as “<strong>GI</strong>”) that are unobtrusively placed on a website or in an e-mail. When the HTML code for the GI points to a site to retrieve the image, it simultaneously passes information to our servers, such as the IP address of the computer that retrieved the image, the time and duration the GI was viewed, the type of browser that retrieved the image, and previously set cookie values. &nbsp;</p>
+
+
+
+<p>We use GI to help us analyze your online behavior. We may use GI to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring web site addresses. &nbsp;We also use GI to allow us to send you email in a format you can read and to let us know when you have opened an email message from us.</p>
+
+
+
+<p>We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect non-personally identifiable information about your visits to our website and your interaction with our communications, including advertising. If you would like to opt-out of allowing third party companies to collect non-personally identifiable information about you during your visits to our site, please send an email to privacy@jumpcloud.com to update your privacy settings.</p>
+
+
+
+<p><strong>HOW TO REVIEW, MODIFY OR DELETE YOUR INFORMATION</strong></p>
+
+
+
+<p>We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us or would like to update or change your personal information or preferences, follow the instructions below to review, modify or delete your personal information.</p>
+
+
+
+<p>To modify the information you have provided during registration, please send an email to privacy@jumpcloud.com.</p>
+
+
+
+<p>To unsubscribe from an email, please follow the instructions in any email you receive.</p>
+
+
+
+<p>If you request your registration information be deleted or if you unsubscribe from communications, we may maintain information about sales transactions or service inquiries for future service and record keeping purposes.</p>
+
+
+
+<p><strong>Data Deletion</strong></p>
+
+
+
+<p>JumpCloud will retain your data for as long as you continue using our services. All accounts receive 10 free users, thus unless you explicitly let us know that you have stopped using the JumpCloud service, your account and data will remain active.</p>
+
+
+
+<p>If you are the administrator of your company’s JumpCloud organization, you can request your organization (and all data) to be deleted. Please note that should you request to delete your data, our platform (including the 10 free users) will not function for you. You may send any requests for information or deletion to&nbsp;<a href="mailto:dpo@jumpcloud.com">dpo@jumpcloud.com</a>.</p>
+
+
+
+<p><strong>QUESTIONS AND FEEDBACK</strong></p>
+
+
+
+<p>We welcome your questions, comments, and concerns about privacy. &nbsp;Please contact us by mail or email at:</p>
+
+
+
+<p>JumpCloud<br>Attn: Privacy Policy<br>2040 14th&nbsp;Street STE 200<br>Boulder, CO 80302<br>Email: privacy@jumpcloud.com</p>
+
+
+
+<p><strong>COMPLAINTS</strong></p>
+
+
+
+<p>If you have a data privacy complaint, please contact us by mail or email at:</p>
+
+
+
+<p>JumpCloud<br>Attn: Privacy Policy<br>2040 14th Street STE 200<br>Boulder, CO 80302<br>Email: privacy@jumpcloud.com</p>
+
+
+
+<p><strong>CALIFORNIA VISITORS</strong></p>
+
+
+
+<p>Residents of the State of California may request a list of all third parties to which a JumpCloud Site has disclosed certain information during the preceding year for the third parties’ direct marketing purposes. If you are a California resident and want such a list, please contact us privacy@jumpcloud.com. For all requests, you must put the statement “Your California Privacy Rights” in the body of your request and include the name of the Site with respect to which you are requesting the information, as well as your name, street address, city, state, and zip code. Please note that we will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.</p>
+
+
+
+<p><strong>TERMS OF SERVICE</strong></p>
+
+
+
+<p>Please also visit our&nbsp;<a href="https://jumpcloud.com/legal">Terms of Service</a>&nbsp;that explains other terms governing the use of our services.</p>
+</article><!-- #post-9268 -->
+            </div>
+                            <div class="column sidebar is-one-quarter">
+                    
+<aside class="border-l-1 has-text-centered p-t-1">
+    <a href="https://go.jumpcloud.com/weekly-sales-intro-webinar.html?webinar-sidebanner" title="Weekly Product Overview">
+    <img src="https://jumpcloud.com/wp-content/themes/jumpcloud/assets/images/sidebar/webinar-sidebar.jpg" width="240" alt="Webinar Product Overview">
+</a>    <h3 class="subtitle m-t-2">Quick Links</h3>
+<div class="quick-links">
+    <div>
+        <a class="p-b-1" href="/product/">What is Directory-as-a-Service?</a>
+        <br>
+        <a class="has-text-black p-t-1" href="/product/">Overview of our unified cloud directory</a>
+    </div>
+    <div class="m-t-1">
+        <a class="p-b-1" href="/resources/">JumpCloud Resources Page</a>
+        <br>
+        <a class="has-text-black p-t-1" href="/resources/">Videos, Tutorials, Analysis, &amp; More</a>
+    </div>
+    <div class="m-t-1">
+        <a class="p-b-1" href="https://go.jumpcloud.com/ooyala-case-study.html">Customer Case Study: Ooyala</a>
+        <br>
+        <a class="has-text-black p-t-1" href="https://go.jumpcloud.com/ooyala-case-study.html">Going Global with Cloud LDAP &amp; RADIUS</a>
+    </div>
+    <div class="m-t-1">
+        <a class="p-b-1" href="/resources/quantifying-the-value-of-directory-services/">The Value of Directory Services</a>
+        <br>
+        <a class="has-text-black p-t-1" href="/resources/quantifying-the-value-of-directory-services/">Read the whitepaper</a>
+    </div>
+    <div class="m-t-1">
+        <a class="p-b-1" href="/faq/">JumpCloud FAQ</a>
+        <br>
+        <a class="has-text-black p-t-1" href="/faq/">Get answers to your questions</a>
+    </div>
+</div>    
+<div class="select m-l-1 is-hidden-tablet is-hidden-mobile">
+    <h3 class="subtitle">Categories</h3>
+    <form class="sidebar-category-nav">
+        <div class="control">
+            <div class="select">
+                <select onchange="if (this.value) window.location.href='/blog/' + this.value">
+                    <option>Select Category</option>
+                                            <option value="active-directory">Active Directory</option>                                            <option value="ad-integration">AD Integration</option>                                            <option value="aws">Amazon Web Services (AWS)</option>                                            <option value="azure">Azure</option>                                            <option value="best-practices">Best Practices</option>                                            <option value="case-study">Case Study</option>                                            <option value="cloud-infrastructure">Cloud Infrastructure</option>                                            <option value="compliance">Compliance</option>                                            <option value="device-management">Device Management</option>                                            <option value="devops">DevOps</option>                                            <option value="directory-services">Directory Services</option>                                            <option value="directory-as-a-service-daas">Directory-as-a-Service (DaaS)</option>                                            <option value="domain-controller">Domain Controller</option>                                            <option value="edu">Edu</option>                                            <option value="g-suite">G Suite</option>                                            <option value="google-cloud-platform-gcp">Google Cloud Platform (GCP)</option>                                            <option value="group-policy-objects-gpos">Group Policy Objects (GPOs)</option>                                            <option value="identity-access-management-iam">Identity and Access Management (IAM)</option>                                            <option value="identity-provider">Identity Provider</option>                                            <option value="identity-as-a-service-idaas">Identity-as-a-Service (IDaaS)</option>                                            <option value="it-admins">IT Admins</option>                                            <option value="ldap">LDAP</option>                                            <option value="linux">Linux</option>                                            <option value="mac-management">Mac Management</option>                                            <option value="multi-factor-authentication-mfa">Multi-Factor Authentication (MFA)</option>                                            <option value="news">News</option>                                            <option value="office-365">Office 365 (O365)</option>                                            <option value="partners">Partners</option>                                            <option value="press-release">Press Releases</option>                                            <option value="product-updates">Product Updates</option>                                            <option value="radius">RADIUS</option>                                            <option value="samba">Samba</option>                                            <option value="security">Security</option>                                            <option value="server-management">Server Management</option>                                            <option value="single-sign-on-sso">Single Sign On (SSO)</option>                                            <option value="software-as-a-service-saas">Software-as-a-Service (SaaS)</option>                                            <option value="ssh-key-management">SSH Key Management</option>                                            <option value="startups">Startups</option>                                            <option value="system-management">System Management</option>                                            <option value="uncategorized">Uncategorized</option>                                            <option value="usermanagement">User Management</option>                                            <option value="wifi">WiFi</option>                                            <option value="windows">Windows</option>                                    </select>
+            </div>
+        </div>
+    </form>
+</div>
+</aside>
+                </div>
+                      </div>
+        </div>
+    </section>
+
+    </main>
+<footer class="footer">
+    <div class="container">
+        <div class="has-text-centered is-hidden-tablet">
+            <nav class="mobile mobile-footer">
+                <ul>
+                    <li class="m-b-2">
+                        <a class="is-size-5 has-text-weight-bold" href="https://support.jumpcloud.com">Support</a>
+                    </li>
+                    <li class="m-b-2">
+                        <a class="is-size-5 has-text-weight-bold" href="/careers/">Company</a>
+                    </li>
+                    <li class="m-b-2">
+                        <a class="is-size-5 has-text-weight-bold" href="/nonprofit-501c-directory-service-pricing/">Industry</a>
+                    </li>
+                    <li class="m-b-2">
+                        <a class="is-size-5 has-text-weight-bold" href="/solutions/">Solutions</a>
+                    </li>
+                    <li class="m-b-2">
+                        <a class="is-size-5 has-text-weight-bold" href="/product/">Product</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <div class="columns is-hidden-mobile">
+            <div class="column">
+                <h5 class="is-size-5 font-weight-700"><a rel="nofollow" href="/policies/">Support</a></h5>
+                <ul class="footer-nav">
+                    <li><a href="/policies/">Support Policies</a></li>
+                    <li><a href="/contact/">Contact Us</a></li>
+                    <li><a href="/daas-glossary/">DaaS Glossary</a></li>
+                    <li><a href="https://support.jumpcloud.com/">Knowledge Base</a></li>
+                    <li><a href="/resources/">Resources</a></li>
+                    <li><a href="/active-directory-migration-guide/">Active Directory© Migration Guide</a></li>
+                    <li><a href="https://status.jumpcloud.com/">Status</a></li>
+                    <li><a href="/faq/">FAQ</a></li>
+                </ul>
+            </div>
+            <div class="column">
+                <h5 class="is-size-5 font-weight-700"><a href="/careers/">Company</a></h5>
+                <ul class="footer-nav">
+                    <li><a href="/about-us/">About Us</a></li>
+                    <li><a rel="nofollow" href="/press/">Press</a></li>
+                    <li><a href="/events/">Events</a></li>
+                    <li><a rel="nofollow" href="/careers/">Careers - We're Hiring!</a></li>
+                </ul>
+
+                <h5 class="is-size-5 font-weight-700"><a href="/nonprofit-501c-directory-service-pricing/">Industry</a></h5>
+                <ul class="footer-nav">
+                    <li><a href="/nonprofit-501c-directory-service-pricing/">501(c)</a></li>
+                    <li><a href="/education-highered-directory-service-pricing/">Education</a></li>
+                </ul>
+            </div>
+            <div class="column">
+                <h5 class="is-size-5 font-weight-700"><a href="/solutions/">Solutions</a></h5>
+                <ul class="footer-nav">
+                    <li><a href="/solutions/replace-active-directory/">Replace Active Directory</a></li>
+                    <li><a href="/solutions/no-directory/">Don't Have a Directory</a></li>
+                    <li><a href="/solutions/manage-cloud/">Manage Cloud Users</a></li>
+                    <li><a href="/solutions/replace-ldap/">Replace LDAP</a></li>
+                    <li><a href="/solutions/manage-systems/">Device Management</a></li>
+                    <li><a href="/solutions/connect-saas/">Connecting SaaS Apps</a></li>
+                    <li><a href="/solutions/improve-network/">Improve Network Security</a></li>
+                    <li><a href="/solutions/leverage-google/">Leverage Google Identities</a></li>
+                    <li><a href="/solutions/password-complexity/">Password Complexity</a></li>
+                    <li><a href="/solutions/auditing-compliance/">Auditing and Compliance</a></li>
+                    <li><a href="/solutions/microsoft-office-365/">Migrating to Office 365™</a></li>
+                    <li><a href="/solutions/multi-factor-authentication/">Multi-Factor Authentication</a></li>
+                    <li><a href="/solutions/extend-active-directory/">Extending Active Directory®</a></li>
+                    <li><a href="/solutions/multi-tenant-management/">Multi-Tenant Management for MSPs</a></li>
+                </ul>
+            </div>
+            <div class="column">
+                <h5 class="is-size-5 font-weight-700"><a href="/product/">Product</a></h5>
+                <ul class="footer-nav">
+                    <li>
+                        <a href="/product/cloud-directory/">Centralized User Management</a>
+                    </li>
+                    <li>
+                        <a href="/product/cloud-system-management/">Cross-Platform System Management</a>
+                    </li>
+                    <li>
+                        <a href="/product/cloud-ldap/">Cloud LDAP</a>
+                    </li>
+                    <li>
+                        <a href="/product/cloud-system-management/">Server Access &amp; Management</a>
+                    </li>
+                    <li>
+                        <a href="/product/single-sign-on/">Single Sign-On</a>
+                    </li>
+                    <li>
+                        <a href="/product/cloud-radius/">Cloud RADIUS</a>
+                    </li>
+                    <li>
+                        <a href="/product/multi-factor-authentication/">Multi-Factor Authentication</a>
+                    </li>
+                    <li>
+                        <a href="/product/it-automation/">Administration Automation</a>
+                    </li>
+                </ul>
+            </div>
+        </div> <!-- /.columns-->
+
+    
+<div class="columns">
+    <div class="column has-text-centered social-icons">
+        <a href="https://www.facebook.com/pages/JumpCloud/517890504928642" rel="noopener nofollow" class="has-text-white facebook-hover social-icon-white" target="_blank" title="Follow Us on facebook">
+            <svg class="mk-svg-icon" style=" height:24px; width: 24px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                <path d="M256-6.4c-141.385 0-256 114.615-256 256s114.615 256 256 256 256-114.615 256-256-114.615-256-256-256zm64.057 159.299h-49.041c-7.42 0-14.918 7.452-14.918 12.99v19.487h63.723c-2.081 28.41-6.407 64.679-6.407 64.679h-57.566v159.545h-63.929v-159.545h-32.756v-64.474h32.756v-33.53c0-8.098-1.706-62.336 70.46-62.336h57.678v63.183z">
+                </path>
+            </svg>
+        </a>
+        <a href="https://www.youtube.com/channel/UCV9U0J9zvop_Whyh-35M_xg" rel="noopener nofollow" class="has-text-white youtube-hover social-icon-white" target="_blank" title="Follow Us on youtube">
+            <svg class="mk-svg-icon" style=" height:24px; width: 24px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                <path d="M226.4,210.6l77.5,40.4l-77.5,40.1V210.6z M512,256c0,141.4-114.6,256-256,256S0,397.4,0,256 C0,114.6,114.6,0,256,0S512,114.6,512,256z M399.4,198.7c0-22.5-18.4-41-41-41H153.6c-22.5,0-41,18.4-41,41v114.7 c0,22.5,18.4,41,41,41h204.8c22.5,0,41-18.4,41-41V198.7z">
+                </path>
+            </svg>
+        </a>
+        <a href="https://www.linkedin.com/company/jumpcloud" rel="noopener nofollow" class="has-text-white linkedin-hover social-icon-white" target="_blank" title="Follow Us on linkedin">
+            <svg class="mk-svg-icon" style=" height:24px; width: 24px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                <path d="M256-6.4c-141.385 0-256 114.615-256 256s114.615 256 256 256 256-114.615 256-256-114.615-256-256-256zm-96.612 95.448c19.722 0 31.845 13.952 32.215 32.284 0 17.943-12.492 32.311-32.592 32.311h-.389c-19.308 0-31.842-14.368-31.842-32.311 0-18.332 12.897-32.284 32.609-32.284zm32.685 288.552h-64.073v-192h64.073v192zm223.927-.089h-63.77v-97.087c0-27.506-11.119-46.257-34.797-46.257-18.092 0-22.348 12.656-27.075 24.868-1.724 4.382-2.165 10.468-2.165 16.583v101.892h-64.193s.881-173.01 0-192.221h57.693v.31h6.469v19.407c9.562-12.087 25.015-24.527 52.495-24.527 43.069 0 75.344 29.25 75.344 92.077v104.954z">
+                </path>
+            </svg>
+        </a>
+        <a href="https://twitter.com/jumpcloud" rel="noopener nofollow" class="has-text-white twitter-hover social-icon-white" target="_blank" title="Follow Us on twitter">
+            <svg class="mk-svg-icon" style=" height:24px; width: 24px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                <path d="M256-6.4c-141.385 0-256 114.615-256 256s114.615 256 256 256 256-114.615 256-256-114.615-256-256-256zm146.24 258.654c-31.365 127.03-241.727 180.909-338.503 49.042 37.069 35.371 101.619 38.47 142.554-3.819-24.006 3.51-41.47-20.021-11.978-32.755-26.523 2.923-41.27-11.201-47.317-23.174 6.218-6.511 13.079-9.531 26.344-10.407-29.04-6.851-39.751-21.057-43.046-38.284 8.066-1.921 18.149-3.578 23.656-2.836-25.431-13.295-34.274-33.291-32.875-48.326 45.438 16.866 74.396 30.414 98.613 43.411 8.626 4.591 18.252 12.888 29.107 23.393 13.835-36.534 30.915-74.19 60.169-92.874-.493 4.236-2.758 8.179-5.764 11.406 8.298-7.535 19.072-12.719 30.027-14.216-1.257 8.22-13.105 12.847-20.249 15.539 5.414-1.688 34.209-14.531 37.348-7.216 3.705 8.328-19.867 12.147-23.872 13.593-2.985 1.004-5.992 2.105-8.936 3.299 36.492-3.634 71.317 26.456 81.489 63.809.719 2.687 1.44 5.672 2.1 8.801 13.341 4.978 37.521-.231 45.313-5.023-5.63 13.315-20.268 23.121-41.865 24.912 10.407 4.324 30.018 6.691 43.544 4.396-8.563 9.193-22.379 17.527-45.859 17.329z">
+                </path>
+            </svg>
+        </a>
+        <a href="https://www.g2crowd.com/products/jumpcloud/reviews?utm_source=review-widget" rel="noopener nofollow" class="has-text-white g2crowd-hover social-icon-white" target="_blank" title="Read reviews of JumpCloud on G2 Crowd">
+            <svg class="mk-svg-icon" style=" height:24px; width: 24px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                <path d="M256,0C114.6,0,0,114.6,0,256s114.6,256,256,256s256-114.6,256-256S397.4,0,256,0z M288.4,123 c15-19.1,47-15.1,56.5,7.3c5.7,13.5,1.3,25.6-7.3,36.4c-8.8,11-18.1,21.6-27.2,32.3c-1.1,1.2-2,2.6-4.1,5.2c14.4,0,27.5,0,40.8,0 c0,5,0,9,0,13.6c-10.7,0-21.3,0-32,0c-10.5,0-21,0-31.6,0c-2.3-3.8,0-6.2,2-8.7c13.8-16.7,27.7-33.5,41.5-50.2 c5-6.1,8.4-12.6,6.7-20.9c-1.1-5.1-4-8.6-8.3-11c-12.3-7-26.1-1.3-31.2,13.6c-3.9-0.9-7.6-1.7-11.7-2.6 C282.1,131.8,285.1,127.2,288.4,123z M345.8,373.5c-52.7,42.1-125.5,44.1-178.8,5.1c-55-40.3-74-109.2-52-168.7 c25.2-68.2,88.3-97.5,137.2-96.5c0,16.6,0,32.9,0,49.8c-30.5,1.2-56,13.1-75,37.3c-18.9,24.2-24.9,51.7-17.9,81.4 c10.4,44.2,52,79.8,107.5,73.3c34.1-4,76.9-40.3,76.5-65.3c-19.9,0-39.8,0-60.6,0c0-6.2,0-11.7,0-17.2c0.1-10.2,0.3-20.4,0.4-30.5 c0-2.9,0.8-4.4,4-4.4c36.8,0.1,73.6,0,110.4,0C406.3,272.8,393.9,335,345.8,373.5z">
+                </path>
+            </svg>
+        </a>
+    </div>
+</div>
+        <div class="columns">
+            <div class="column">
+                <p class="has-text-grey-light has-text-centered-mobile"> Copyright All Rights Reserved © 2019</p>
+            </div>
+            <div class="column has-text-right-tablet has-text-centered-mobile">
+                <nav class="footer-short-nav">
+                    <ul>
+                        <li>
+                            <a href="https://support.jumpcloud.com">Support</a>
+                        </li>
+                        <li>
+                            <a rel="nofollow" href="/privacy/">Privacy Policy</a>
+                        </li>
+                        <li>
+                            <a rel="nofollow" href="/trust/">Trust</a>
+                        </li>
+                        <li>
+                            <a rel="nofollow" href="/legal/">Legal</a>
+                        </li>
+                        <li>
+                            <a rel="nofollow" href="/security/">Security</a>
+                        </li>
+                        <li>
+                            <a rel="nofollow" href="/gdpr/">GDPR</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <div class="columns">
+            <div class="column">
+                <p class="has-text-grey-light">Various trademarks held by their respective owners. JumpCloud Directory-as-a-Service patents include No. 9,641,530, No. 10,057,266, No. 10,257,017, and No. 10,298,579.</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div id="cookie-banner" class="cookie-banner has-background-black is-hidden">
+    <div class="cookie-content">
+        <p class="has-text-white">JumpCloud uses cookies on this website to ensure you have an excellent user experience. By continuing to use this website, you accept the use of cookies. For more information about the cookies used, click Read More.</p>
+        <a id="jc_cookie_accept" class="button is-primary-outline is-nav" href="#cookie-accept">I Accept</a>
+        <a rel="nofollow" href="/about-our-use-cookies" class="button is-primary-outline is-nav">Read More</a>
+    </div>
+</div>
+<script async="" type="text/javascript">
+            window.setTimeout(function(){
+                
+				var t = window.driftt = window.drift = window.driftt || [];
+				    if (!t.init) {
+				      if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+				      t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+				      t.factory = function(e) {
+				        return function() {
+				          var n = Array.prototype.slice.call(arguments);
+				          return n.unshift(e), t.push(n), t;
+				        };
+				      }, t.methods.forEach(function(e) {
+				        t[e] = t.factory(e);
+				      }), t.load = function(t) {
+				        var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+				        o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+				        var i = document.getElementsByTagName("script")[0];
+				        i.parentNode.insertBefore(o, i);
+				      };
+				    }
+				  drift.SNIPPET_VERSION = '0.3.1';
+				  drift.load('zep64tc7uwzk');
+
+            }, 5000);
+        </script><script src="//app-ab06.marketo.com/js/forms2/js/forms2.min.js"></script><script src="https://jumpcloud.com/wp-content/themes/jumpcloud/assets/js/scripts.js?ver=1.0.4"></script>
+<script src="https://jumpcloud.com/wp/wp-includes/js/wp-embed.min.js?ver=5.3.2"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fdafc1aec7","applicationID":"402020761","transactionName":"ZFFRMkoEWRVTAENfWF0bcgVMDFgIHRNWUVI=","queueTime":0,"applicationTime":130,"atts":"SBZSRAIeShs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
