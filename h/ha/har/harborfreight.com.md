@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harborfreight.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227224259id_/https%3A//www.harborfreight.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harborfreight.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228222119id_/https%3A//www.harborfreight.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -26,7 +26,7 @@ Harbor Freight may collect and use Personal Information that you provide us when
 
 When you use one of the Harbor Freight Sites, certain additional information is collected without you being prompted to provide it. This information includes, but is not limited to, cookies which are covered below. 
 
-**A note about "Phishing" attacks:** Harbor Freight will **never** send you an email requesting you to validate account/password information or personal information such as credit card numbers. If you do receive an email that appears to come from Harbor Freight and asks for this type of information please forward the email directly to [cs _@harborfreight.com_](mailto:cs@harborfreight.com) and then delete from your inbox.
+**A note about "Phishing" attacks:** Harbor Freight will **never** send you an email requesting you to validate account/password information or personal information such as credit card numbers. If you do receive an email that appears to come from Harbor Freight and asks for this type of information please forward the email directly to [cs@harborfreight.com](mailto:cs@harborfreight.com) and then delete from your inbox.
 
 ## Shopping at Harbor Freight
 
@@ -44,9 +44,9 @@ _(a) **Information Harbor Freight Requests.**_ Registration and/or club or progr
 
 _(b) **Newsletters/Offers/Coupons.**_ When you register or join, you will have the opportunity to receive future marketing information from Harbor Freight and to sign up for email newsletters, coupons and offers that cover certain subjects that are of interest to you. These newsletters, coupons and offers will be sent to you only if you choose to place your name on our mailing list. In order for us to deliver these newsletters, coupons and offers, Harbor Freight may need to pass along your name and email address to the Service Providers who supply us with email service and who authenticate and validate the information you provide.
 
-### Contests, Questions or Surveys
+### Contests, Sweepstakes, Questions or Surveys
 
-When you ask a question, participate in a survey or enter a contest or sweepstakes at a Store or by Mail, a Harbor Freight sponsored event or through our Sites, we may collect your Personal Information. This information is used to administer your participation in a contest or sweepstakes and for Harbor Freight’s other business needs. 
+When you ask a question, participate in a survey or enter a contest or sweepstakes at a Store or by Mail, a Harbor Freight sponsored event or through our Sites, we may collect your Personal Information. This information is used to administer your participation in a contest or sweepstakes and for Harbor Freight’s other business needs, including sending you marketing communications. 
 
 ### Extended Service Plans and Inside Track Club
 
@@ -63,6 +63,37 @@ _(c) **Other Information.**_ We may collect additional automatic information abo
 _(d) **Aggregate Information.**_ On occasion we may provide this aggregate information (which shall not include personally identifiable information) to vendors, investors, potential advertisers, or news agencies to demonstrate the amount of interest in our Site and to help us plan for technical infrastructure requirements.
 
 _(e) **Emails.**_ In HTML emails that we send our customers, we may use technology for a variety of purposes, including, without limitation, determining whether our customers have opened or forwarded those emails and/or clicked on links in those emails, customizing banner advertisements and other messages after a customer has closed the email, and determining whether a customer has made an inquiry or purchase in response to a particular email. These technologies may enable us to collect and use information in a form that is personally identifiable.
+
+_(f) **SMS Messaging (Harbor Freight Alerts)**_   
+**What is Harbor Freight Alerts?**  
+Harbor Freight’s text messages program (“Harbor Freight Alerts”) is intended to provide you with promotional information, upcoming deliveries, news, coupons, product launches. To subscribe to marketing updates, text Subscribe to 34648. To receive Harbor Freight text messages, you must be a resident of the United States and 18 years of age or older. 
+
+By signing up for Harbor Freight Alerts, texting us from your mobile phone or providing us with your mobile number, you are agreeing to receive automated promotional text messages from or on behalf of Harbor Freight. Your consent to receive these messages is not a condition of purchasing any property, good or service. 
+
+**Is it free?**  
+Standard messaging and data rates may apply. Depending on your text plan, you may be charged by your carrier. Message frequency will vary. Some mobile carriers may not allow participation in the Harbor Freight Alert program. 
+
+**What if I don't want to receive any further notification messages?**  
+Text STOP to 34648 to cancel the Harbor Freight service. After doing so, you may receive one automated SMS message to confirm you have been unsubscribed. 
+
+**What if I want more info?**  
+Text HELP to 34648 for more information or contact Harbor Freight at +1-800-444-3353 
+
+**Who are the participating carriers?**  
+Participating carriers may change from time to time, but currently include Verizon Wireless, AT&T, Sprint, TMobile® , Boost, Virgin Mobile USA & Metro PCS. 
+
+T-Mobile ® is not liable for delayed or undelivered messages
+
+**Commands**  
+STOP: At any time, you can text STOP or TEXTSTOP to 34648. This will prevent you from receiving any future texts from Harbor Freight 
+
+HELP: At any time, you can text HELP to 34648. Texting HELP will return the following message: Harbor Freight Alerts: For additional support please contact +1-800-444-3353
+
+**Your Mobile Telephone Number**  
+You represent that you are the account holder for the mobile telephone number(s) that you provide and have the authority to consent to joining the Harbor Freight Alert program. You are responsible for notifying Company immediately if you change your mobile telephone number. 
+
+**Termination of Harbor Freight Alerts**  
+Harbor Freight may, in its sole and absolute discretion, suspend or terminate your receipt of text messages at any time without notice if Harbor Freight believes you are in breach of these Terms and Conditions or have joined or are using the service for an improper purpose. Harbor Freight reserves the right to modify or discontinue, temporarily or permanently, all or any part of its text message program, with or without notice.” 
 
 ### HFT Donations
 
@@ -104,15 +135,15 @@ Harbor Freight may update or supplement Personal Information collected directly 
 
 ### Privacy Preferences/Opt Out
 
-If at any time you would like to be removed from any/all Harbor Freight marketing lists, newsletters, distribution lists, or the like, you may do so by contacting us in any of the ways identified in Section H. Please remember to include your email address, name, mailing address and telephone number in any request. The best way to opt-out is to use the link at the bottom of email messages you receive. That tool provides a one-click confirmation opt-out. If you choose not to use that link, you may also send an email request to _[hft@harborfreightemail.com](mailto:hft@harborfreightemail.com)_ with the word "REMOVE" in the subject line and your email address in the body. This secondary method may take up to 30 days to remove your address from the file. 
+If at any time you would like to be removed from any/all Harbor Freight marketing lists, newsletters, distribution lists, or the like, you may do so by contacting us in any of the ways identified in the section titled "How to Contact Harbor Freight". Please remember to include your email address, name, mailing address and telephone number in any request. If you do not wish to receive email from Harbor Freight Tools, you may unsubscribe from our mailing list by using the "Unsubscribe" link on any Promotional emails we send. If you choose not to use that link or did not receive a Promotional email from Harbor Freight, you may send an email request to [cs@harborfreight.com](mailto:hft@harborfreightemail.com) with the word "REMOVE" in the subject line and your email address in the body. This email method may take up to 10 days to remove your address from the file. 
 
 ### California Privacy Rights
 
-Pursuant to Section 1798.83 of the California Civil Code, any resident of California has the right to request from a business with whom the California resident has an established business relationship, certain information with respect to the types of Personal Information the business shares with third parties for direct marketing purposes by such third party as well as the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of the information disclosure provided by Harbor Freight pursuant to Section 1798.83 of the California Civil Code, please contact us in any of the ways identified in Section H. 
+Pursuant to Section 1798.83 of the California Civil Code, any resident of California has the right to request from a business with whom the California resident has an established business relationship, certain information with respect to the types of Personal Information the business shares with third parties for direct marketing purposes by such third party as well as the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of the information disclosure provided by Harbor Freight pursuant to Section 1798.83 of the California Civil Code, please contact us in any of the ways identified in the section titled "How to Contact Harbor Freight". 
 
 ### Children's Privacy Policy
 
-Harbor Freight does not sell products for purchase by children. **Effective immediately, if you are under the age of 13, you are not permitted to create an account on HarborFreight.com or any of its affiliated websites.** If you are between 13 and 18, you may use HarborFreight.com only with the involvement of a parent or guardian. Harbor Freight does not intend to collect any personally identifiable information from children through the Harbor Freight Sites. Please do not allow children under the age of 18 to provide any personally identifiable information related to our Sites. If we determine that a child under 18 has provided Personal Information in violation of this policy, we will delete that information as soon as practical. If you become aware that such information has been provided by a child under 18, please notify us by contacting the Harbor Freight Customer Call Center in any of the ways identified in Section H. Please be certain to include in the subject line "Privacy Policy Request". 
+Harbor Freight does not sell products for purchase by children. **Effective immediately, if you are under the age of 13, you are not permitted to create an account on HarborFreight.com or any of its affiliated websites.** If you are between 13 and 18, you may use HarborFreight.com only with the involvement of a parent or guardian. Harbor Freight does not intend to collect any personally identifiable information from children through the Harbor Freight Sites. Please do not allow children under the age of 18 to provide any personally identifiable information related to our Sites. If we determine that a child under 18 has provided Personal Information in violation of this policy, we will delete that information as soon as practical. If you become aware that such information has been provided by a child under 18, please notify us by contacting the Harbor Freight Customer Call Center in any of the ways identified in the section titled "How to Contact Harbor Freight". Please be certain to include in the subject line "Privacy Policy Request". 
 
 ### Security Limitations
 
@@ -138,4 +169,4 @@ ATTN: Internet Customer Service
 
 We may change this Privacy and Security Policy at any time at our sole discretion. Any updates to our Privacy and Security Policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Continued use of our Sites, Stores, Customer Call Centers or other Harbor Freight services following our posting of the change notice or an updated Privacy and Security Policy will constitute binding acceptance of those changes. 
 
-**Last Updated October 16, 2018**
+**Last Updated December 11, 2019**
