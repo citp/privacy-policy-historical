@@ -1,24 +1,21 @@
-> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820223026id_/https%3A//www.amplify.com/site-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228045952id_/https%3A//www.amplify.com/site-privacy) for the most accurate reproduction.*
 
-# Privacy | Amplify
-
-Last Revised: September 26, 2013
+# Amplify | Website Privacy Policy/Your Privacy Rights
 
 Below is the Privacy Policy for the amplify.com website. Visit [this page](http://www.amplify.com/privacy-security) to read about the principles and policy governing student data collected and maintained on behalf of our school customers.
 
-## 1\. Introduction
+## Introduction
 
 Amplify Education, Inc. (“Amplify” or “we”) recognizes the importance of protecting the privacy and security of your personal information. This Privacy Policy describes our practices in connection with information that we may collect through your use of this website (the “Site”). Please note that when you use certain of our products, services, applications or other websites, our use of your information may be governed by a separate legal agreement or a privacy policy specifically posted in connection with those offerings. If you have any question as to what legal agreement or privacy policy controls the collection and use of your information, please contact us using the contact information below.
 
 This Privacy Policy applies to the collection and use by Amplify of your personal information (i.e., information that identifies or permits contact with a specific person, such as full name or email address) provided in connection with your use of the Site. It also describes Amplify’s practices for handling non-personal information (e.g., site activity) in connection with the Site.
 
-### Children
-
-As set forth in our [Website Terms of Use](https://web.archive.org/terms), the Site is for a general audience, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
+Children  
+As set forth in our Website Terms of Use, the Site is for a general audience, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
 
 By providing personal information to us or using the Site, you agree to the terms and conditions of this Privacy Policy. If you do not agree to this Privacy Policy, please discontinue your use of the Site.
 
-## 2\. Collection of information
+## Collection of information
 
 Amplify may collect information from you at various points, including the following:
 
@@ -62,7 +59,7 @@ When we run a contest or sweepstakes relating to the Site or Amplify, it will be
 
 We may supplement any information we collect via this Site with information from publicly or commercially available sources.
 
-## 3\. Notice and choice
+## Notice and choice
 
 ### Updates to Privacy Policy; Choice.
 
@@ -76,7 +73,7 @@ The Site is hosted in and managed and controlled by us from the United States an
 
 The Site may be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes, or applications developed and maintained by unaffiliated companies. Amplify is not responsible for the privacy practices of unaffiliated companies, and once you leave the Site via a link or enable an unaffiliated service, you are subject to the applicable privacy policy of the unaffiliated service.
 
-## 4\. Use and disclosure
+## Use and disclosure
 
 We may use and/or disclose any personal information and other information we collect from and about you for the following purposes and as described elsewhere in this Privacy Policy:
 
@@ -86,7 +83,7 @@ We use the information we collect from and about you to provide the Site and fea
 
 ### To contact you.
 
-Amplify may periodically send promotional materials (e.g., newsletters) or notifications related to the Site and to Amplify’s business to the contact information you provided to us at registration. If you want to stop receiving promotional materials from Amplify, you can email us at [privacy@amplify.com](mailto:privacy@amplify.com) or follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the Site or policies.
+Amplify may periodically send promotional materials (e.g., newsletters) or notifications related to the Site and to Amplify’s business to the contact information you provided to us at registration. If you want to stop receiving promotional materials from Amplify, you can email us at privacy@amplify.com or follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the Site or policies.
 
 ### To improve our products and services.
 
@@ -108,30 +105,32 @@ There may be instances when Amplify may disclose your information, in situations
 
 If Amplify sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger, transfer or other disposition of all or part of its business, assets or stock (including in connection with any bankruptcy or similar proceedings), Amplify may transfer your information to the party or parties involved in the transaction.
 
-## 5\. Security
+## Security
 
 Amplify uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification.
 
-## 6\. User control
+## User control
 
 If you would like to review, correct, update, suppress or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us using the contact information provided below. In your request, please make clear what information you would like to have changed, whether you would like to have your personal information suppressed from our database, or if you have other questions about your personal information. We will try to comply with your request as soon as reasonably practicable.
 
-## 7\. Data retention
+## Data retention
 
 We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
 
 Even after we have deleted your information from our systems, copies of some information from your account may remain viewable in some circumstances – where, for example, you have shared information with social media platforms and other unaffiliated services. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. Because of the nature of caching technology, your account may not be instantly inaccessible to others, and there may be a delay in the removal of the content from elsewhere on the Internet and from search engines.
 
-## 8\. Sensitive information
+## Sensitive information
 
 We ask that you not send us, and you not disclose, any sensitive personal information (e.g., social security numbers, information related to racial or ethnic origin, health, or criminal background) on or through the Site or otherwise.
 
-## 9\. Your California Privacy Rights
+## Your California Privacy Rights
 
 If you are a resident of California, you may request certain information regarding our disclosure of personal information to our affiliated education companies for their direct marketing purposes. To make such a request, please write to us at:
 
-Amplify – California Privacy Rights 55 Washington St., Ste. 900 Brooklyn, NY 11201 Attn: General Counsel
+Amplify – California Privacy Rights 55 Washington St., Ste. 800 Brooklyn, NY 11201 Attn: General Counsel
+
+## Contact us
 
 If you have questions about this Privacy Policy, please contact us at:
 
-Email: [privacy@amplify.com](mailto:privacy@amplify.com) Mail: Amplify, 55 Washington St., Ste 900, Brooklyn, NY, 11201 Attn: General Counsel
+Email: [privacy@amplify.com](mailto:privacy@amplify.com) Mail: Amplify, 55 Washington St., Ste 800, Brooklyn, NY, 11201 Attn: General Counsel
