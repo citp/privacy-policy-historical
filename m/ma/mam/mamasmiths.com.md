@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamasmiths.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420232809id_/https%3A//mamasgeeky.com/about-mamas-geeky/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasmiths.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228130643id_/https%3A//mamasgeeky.com/about-mamas-geeky/disclosure-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy | Mama's Geeky
 
