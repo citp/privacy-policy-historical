@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usnetads.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625202017id_/http%3A//www.usnetads.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usnetads.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228074259id_/http%3A//www.usnetads.com/info/privacy.php) for the most accurate reproduction.*
 
 # USNetAds.com - Privacy Policy
 
