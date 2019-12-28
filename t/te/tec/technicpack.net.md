@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technicpack.net privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609173315id_/https%3A//www.technicpack.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technicpack.net privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229005929id_/https%3A//www.technicpack.net/privacy) for the most accurate reproduction.*
 
 # Technic Platform
 
@@ -68,4 +68,4 @@ This policy was last modified on 02/13/2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e090928996818399a0948583888e89839081838bce8e8594)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#afdfddc6d9ceccd6efdbcaccc7c1c6ccdfceccc481c1cadb)
