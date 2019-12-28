@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lizclaiborne.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624092612id_/https%3A//www.jcpenney.com/m/privacy-policy%3FpageId%3Dpg4003700012%26isFooter%3Dtrue%26title%3Dprivacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lizclaiborne.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228073927id_/https%3A//www.jcpenney.com/m/privacy-policy%3FpageId%3Dpg4003700012%26isFooter%3Dtrue%26title%3Dprivacy%2520policy) for the most accurate reproduction.*
 
-# 
+# Privacy Notice| JCPenney
 
-**J. C. Penney Corporation, Inc.  Privacy Policy (rev. 06/18/19) **
+**J. C. Penney Corporation, Inc.  Privacy Notice (rev. 06/18/19) **
 
-The following Privacy Policy applies to information collected by J. C. Penney Corporation, Inc. its subsidiaries and affiliates (collectively, “JCPenney,” “we” or “us”) in the United States and Puerto Rico at JCPenney’s retail stores and through our websites and mobile applications.
+The following Privacy notice applies to information collected by J. C. Penney Corporation, Inc. its subsidiaries and affiliates (collectively, “JCPenney,” “we” or “us”) in the United States and Puerto Rico at JCPenney’s retail stores and through our websites and mobile applications.
 
 **table of contents**
 
@@ -31,7 +31,7 @@ The following Privacy Policy applies to information collected by J. C. Penney Co
 
 • notice to California residents – your California privacy rights 
 
-• changes to this policy  
+• changes to this notice  
 
 
 
@@ -189,7 +189,7 @@ As noted above, we may use the information we collect and receive to personalize
 
 **service providers** \- We disclose or otherwise make available information we collect with other companies that help with our business operations.  Examples include providers of services related to e-mail communications, mobile marketing, analytics, product fulfillment, and web hosting; payment processors; or entities that help us market our products and services. In addition, we use third-parties to assist with fraud detection and to validate aspects of customer transactions.
 
-**third-party marketing** \- We may provide information about you to third-party companies or organizations.  These entities may use that information to market their products and services to you. To opt-out of such sharing, go to the “your choices about how we use information section of this policy.
+**third-party marketing** \- We may provide information about you to third-party companies or organizations.  These entities may use that information to market their products and services to you. To opt-out of such sharing, go to the “your choices about how we use information section of this notice.
 
 **registry partners** \- If you create a gift registry, we will share your event information with our gift registry partners, and your event information will be accessible on our websites, through our mobile applications and in our stores.
 
@@ -359,13 +359,13 @@ To exercise choice for mobile applications on mobile devices, you may download t
 
 **technology used to serve advertising** \- We use third-party advertising companies to serve ads (e.g. banners or links) tailored to your individual interests based on how you browse and shop on jcpenney.com and other sites over time, and to perform tracking and reporting functions with respect to our ads. We also allow third-party companies to collect certain information when you visit our site and to use that information to serve ads for JCPenney products or services, or the products or services of other companies when you visit our site or other sites. For instance, we and third-party vendors, such as Google and Facebook use first- and third-party cookies, web beacons (a.k.a. pixel tags) and other technologies to collect or receive information from websites to inform, optimize and serve ads based upon a user’s past visits to our website and to report upon how our ad impressions and other ad services are related to jcpenney.com.  We may combine and associate the information we collect through these technologies with other information we have collected from and about you. This collective information may be used, among other things, for interest-based and location- based advertising to personalize your online experience, improve our website, evaluate the effectiveness of our advertising, and to tailor our marketing to you.
 
-  **do not track** \- At this time, we do not respond to browser “do not track” signals, but we do provide you the option to opt-out of interest-based advertising here, as well as the other choices described in the “your choices about how we use information ” section of this policy.
+  **do not track** \- At this time, we do not respond to browser “do not track” signals, but we do provide you the option to opt-out of interest-based advertising here, as well as the other choices described in the “your choices about how we use information ” section of this notice.
 
   **links to other sites and social media widgets**
 
-You may navigate to other websites from JCPenney websites.  When you provide personal information at one of those sites, you are subject to that site operator’s privacy policy. We encourage you to read that policy before submitting any personal information.
+You may navigate to other websites from JCPenney websites.  When you provide personal information at one of those sites, you are subject to that site operator’s privacy notice. We encourage you to read that notice before submitting any personal information.
 
-Our websites and our mobile applications include social media features, for example the Facebook Like button, and Facebook, Google Plus, Interest, and Twitter widgets. Social media features or widgets are either hosted by a third-party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
+Our websites and our mobile applications include social media features, for example the Facebook Like button, and Facebook, Google Plus, Interest, and Twitter widgets. Social media features or widgets are either hosted by a third-party or hosted directly on our site. Your interactions with those features are governed by the privacy notices of the companies that provide them.
 
  **children's privacy**
 
@@ -377,9 +377,9 @@ Under California law, a California resident with whom JCPenney has an establishe
 
 This same California law permits JCPenney to provide you, in response to your written request, with a cost- free means to choose not to have your information shared rather than providing the above described information. You may exercise that choice by any of the means described under “opt-out of sharing with other companies for their marketing purposes”.
 
- **changes to this policy**
+ **changes to this notice**
 
- This policy was last updated on June 18, 2019.and included the following changes:
+ This notice was last updated on June 18, 2019.and included the following changes:
 
 • Added section hyperlinks to text in several places to improve user experience by making it easier to find relevant language in the notice.
 
@@ -393,12 +393,12 @@ This same California law permits JCPenney to provide you, in response to your wr
 
 • Removed the “responsible disclosure” section from this notice.
 
-• Added the “changes to this policy” section back into the notice, which was inadvertently removed from a previous update of this notice.
+• Added the “changes to this notice” section back into the notice, which was inadvertently removed from a previous update of this notice.
 
 
 
 
-We may change our privacy policy from time to time.  If we change our privacy policy in the future, we will let you know by posting the updated policy at this website. We encourage you to check our policy periodically. You can tell if it has changed by checking the revision date that appears at the beginning of the policy. If you would like further information, or have any questions about our privacy policy, please:
+We may change our privacy notice from time to time.  If we change our privacy notice in the future, we will let you know by posting the updated notice at this website. We encourage you to check our notice periodically. You can tell if it has changed by checking the revision date that appears at the beginning of the notice. If you would like further information, or have any questions about our privacy notice, please:
 
 • email us at [privacy@jcpenneyeservices.com](mailto:privacy@jcpenneyeservices.com),
 
