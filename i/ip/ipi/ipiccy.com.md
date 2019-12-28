@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipiccy.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625201820id_/https%3A//ipiccy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipiccy.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228074107id_/https%3A//ipiccy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iPiccy - Online photo editor
 
@@ -42,7 +42,7 @@ Upon reading this Privacy Policy, you will be informed of the following:
 
 A note about the Website and Services: some of our Services, data centers, service providers, affiliates or operating partners and servers may be located in other countries. As such, the Website and Services may be subject to the laws of numerous countries and jurisdictions, some of which may require us to disclose certain information about our users. We are committed to keeping your information private, while still complying with all applicable laws in jurisdiction in which we operate.
 
-Should you have any concerns or believe that there are problems or issues relating to compliance with the policies outlined in this Privacy Policy, please notify us by e-mail at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#caa6afadaba68aa3baa3a9a9b3e4a9a5a7).
+Should you have any concerns or believe that there are problems or issues relating to compliance with the policies outlined in this Privacy Policy, please notify us by e-mail at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b7dbd2d0d6dbf7dec7ded4d4ce99d4d8da).
 
 **A WORD FROM IPICCY**
 
@@ -105,7 +105,7 @@ iPiccy may make third party applications available to you through the Website or
 
 **Information Relating to Children**
 
-The Children's Online Privacy Protection Act (COPPA) was passed by the U.S. Congress in November 1998. COPPA provides parents with specific rights regarding their children's privacy. For additional information and resources on COPPA, please visit the Federal Trade Commission Web site at <http://www.ftc.gov/>. The iPiccy Website and any Software or Services available on that site are not directed at children under 13 years of age and, therefore, COPPA does not apply. However, we recognize that children under the age of 13 may potentially access this Website and subscribe to the newsletter, purchase Software and Services, or download software programs. The collection of information is covered above. Parents and Legal Guardians may request from us to review, delete or stop the collection of the personally identifiable information of their child. You may do so by contacting us by email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#99f5fcfef8f5d9f0e9f0fafae0b7faf6f4).
+The Children's Online Privacy Protection Act (COPPA) was passed by the U.S. Congress in November 1998. COPPA provides parents with specific rights regarding their children's privacy. For additional information and resources on COPPA, please visit the Federal Trade Commission Web site at <http://www.ftc.gov/>. The iPiccy Website and any Software or Services available on that site are not directed at children under 13 years of age and, therefore, COPPA does not apply. However, we recognize that children under the age of 13 may potentially access this Website and subscribe to the newsletter, purchase Software and Services, or download software programs. The collection of information is covered above. Parents and Legal Guardians may request from us to review, delete or stop the collection of the personally identifiable information of their child. You may do so by contacting us by email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#056960626469456c756c66667c2b666a68).
 
 **Cookies and Web Beacons**
 
@@ -181,7 +181,7 @@ To ensure that your request is honored, you must provide iPiccy with information
 
 **California Residents**
 
-If you are a California resident, you can request a notice disclosing the categories of personal information that we may share with third parties for their direct marketing purposes during the preceding calendar year. To request this notice, please submit your requestto [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3c50595b5d507c554c555f5f45125f5351). Please allow 30 days for a response. For your protection and the protection of all of our users, we may ask you to provide proof of identity before we can answer such a request.
+If you are a California resident, you can request a notice disclosing the categories of personal information that we may share with third parties for their direct marketing purposes during the preceding calendar year. To request this notice, please submit your requestto [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#026e6765636e426b726b61617b2c616d6f). Please allow 30 days for a response. For your protection and the protection of all of our users, we may ask you to provide proof of identity before we can answer such a request.
 
 **RIGHTS OF EUROPEAN USERS UNDER THE GDPR**
 
@@ -254,7 +254,7 @@ We only retain the personally identifiable information about you for as long as 
 
 If and when sharing of information sometimes involves cross-border data transfers, for instance to the United States of America and other jurisdictions. We use EU Standard Contract Clauses and other suitable safeguards to permit data transfers from the EU to other countries. The Standard Contractual Clauses commit companies transferring and receiving your personal information to protecting the privacy and security of your data. Copies of our current Standard Contractual Clauses are available on request using the contact details listed below.
 
-iPiccy takes and addresses its users’ privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact iPiccy at email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#117d7476707d517861787272683f727e7c).
+iPiccy takes and addresses its users’ privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact iPiccy at email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fe929b999f92be978e979d9d87d09d9193).
 
 In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the iPiccy online Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly.
 
