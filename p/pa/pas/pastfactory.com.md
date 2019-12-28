@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pastfactory.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514075223id_/http%3A//www.pastfactory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pastfactory.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229001753id_/http%3A//www.pastfactory.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
 Last modified: December 30, 2018
 
-This Privacy Policy (“ **Privacy Policy** ”) is designed to explain about the data collection practices used by Hooch, (“ **Company** ,” “ **us** ,” “ **our** ,” and/or “ **we** ”) when you are using the Internet site that you linked from or **pastfactory.com**  (collectively the “ **Website** ”). This Privacy Policy is part of our Terms of Service available at [Terms of Service](http://www.pastfactory.com/terms/) , and it applies to end users who use or access the **Website**. If you are not the end user of the Website, you must reflect this Privacy Policy to your end users and ensure their consent.
+This Privacy Policy (“ **Privacy Policy** ”) is designed to explain about the data collection practices used by Past Factory, (“ **Company** ,” “ **us** ,” “ **our** ,” and/or “ **we** ”) when you are using the Internet site that you linked from or **pastfactory.com**  (collectively the “ **Website** ”). This Privacy Policy is part of our Terms of Service available at [Terms of Service](http://www.pastfactory.com/terms/) , and it applies to end users who use or access the **Website**. If you are not the end user of the Website, you must reflect this Privacy Policy to your end users and ensure their consent.
 
 **1\. YOUR CONSENT**
 
@@ -47,7 +47,7 @@ Third Party collection of information:
 Third Party use of Cookies
 
   * Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers, application providers and analytics service providers. These third parties may use cookies alone or in conjunction with other tracking technologies. We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
-  * We have contracted with Yahoo to monitor certain pages of our website for the purpose of reporting web traffic, statistics, advertisement ‘click-throughs,’ and/or other activities on our website. No personally identifiable data is transferred to Yahoo by us. Where authorized by us, Yahoo may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. However, if you choose, you may opt out from Yahoo’s collection of such information outside of the Yahoo distribution network, by clicking on the following link: [Opt-Out of interest-based advertising](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html)
+  * We have contracted with Yahoo to monitor certain pages of our website for the purpose of reporting web traffic, statistics, advertisement ‘click-throughs,’ and/or other activities on our website. No personally identifiable data is transferred to Yahoo by us. Where authorized by us, Yahoo may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. However, if you choose, you may opt out from Yahoo’s collection of such information outside of the Yahoo distribution network, by clicking on the following link: [Opt-Out of interest-based advertising](https://www.verizonmedia.com/policies/in/en/verizonmedia/privacy/controls/index.html)
   * We use a service by Criteo to offer targeted advertising to you. You may deactivate the Criteo Service by following instructions in Criteo’s privacy policy (<http://www.criteo.com/privacy/>).
 
 
