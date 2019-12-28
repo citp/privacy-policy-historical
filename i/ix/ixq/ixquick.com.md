@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixquick.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615012247id_/https%3A//www.startpage.com/en/search/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixquick.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228010457id_/https%3A//www.startpage.com/en/search/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - Startpage.com
 
@@ -7,7 +7,7 @@ _**We believe privacy is a fundamental human right.
 
 Protecting your privacy is all about having control over your data. At Startpage.com, we help you control and protect what’s yours: 
 
-_It’s Your Data. Not Big Data!_
+_It’s Your Data. Not Big Data! !_
 
 **Why we don’t collect any "personal data"**
 
@@ -62,7 +62,7 @@ _Without tracking-ads - as we don’t share personal info with anyone._
 
 Most online advertising today is personalized, meaning that online advertising services track what you do online and profile you in order to serve tailored ads. We don’t do that at Startpage.com. No tracking. No profiling! 
 
-Our search result pages may include a small number of clearly labeled "sponsored links," which generate revenue and cover our operational costs. Those links are retrieved from platforms such as Google Adwords. In order to enable the prevention of click fraud, some non-identifying system information is shared, but because we never share personal information or information that could uniquely identify you, the ads we display are not connected to any individual user. 
+Our search result pages may include a small number of clearly labeled "sponsored links," which generate revenue and cover our operational costs. Those links are retrieved from platforms such as Google AdSense. In order to enable the prevention of click fraud, some non-identifying system information is shared, but because we never share personal information or information that could uniquely identify you, the ads we display are not connected to any individual user. 
 
 It’s a myth that search engines need to profile you in order to earn decent money. Startpage.com serves strictly non-personalized ads. Sure, our ads make only a fraction of what other search engine ads make, but they pay all our bills.   
   
@@ -114,7 +114,7 @@ _When enough is enough._
 
 | 
 
-Citizens in the EU have the right to request the deletion of search results that disclose their personal data when those results are inaccurate or no longer relevant. Find our how we have implemented this right [ here ](https://support.startpage.com/index.php?/en/Knowledgebase/Article/View/1000/0/how-does-startpage-handle-search-removal-requests-under-data-protection-law-in-europe-the-right-to-be-forgotten "Support article - How Startpage.com handles removal requests") .   
+Citizens in the EU have the right to request the deletion of search results that disclose their personal data when those results are inaccurate or no longer relevant. Find out how we have implemented this right [ here ](https://support.startpage.com/index.php?/en/Knowledgebase/Article/View/1000/0/how-does-startpage-handle-search-removal-requests-under-data-protection-law-in-europe-the-right-to-be-forgotten "Support article - How Startpage.com handles removal requests") .   
   
 **Dutch Data Protection Authority**
 
