@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the patient.info privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212046id_/https%3A//patient.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patient.info privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228184518id_/https%3A//patient.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Patient
 
-**This Website is run by Patient. Patient is a brand name of Patient Platform Limited, a company registered in England with company number 10004395 with registered offices at Rawdon House, Green Lane, Yeadon, Leeds, LS19 7BY.**
+**This Website is run by Patient. Patient is a brand name of Patient Platform Limited, a company registered in England with company number 10004395 with registered offices at Fulford Grange, Micklefield Lane, Rawdon, Leeds, LS19 6BA.**
 
  **PATIENT PLATFORM LIMITED** (“ **We** ” or “ **Patient** ”) are committed to protecting and respecting your privacy.
 
@@ -150,7 +150,7 @@ We may disclose your personal information to third parties:
 
 ## HOW AND WHERE WE STORE YOUR PERSONAL DATA
 
-The personal data that we collect from you will be processed (which may incude, where relevant, storing it) in accordance with our obligations under the relevant laws which set out our obligations as someone that has personal data within our possession and control (typically referred to as a ‘data controller’).
+The personal data that we collect from you will be processed (which may include, where relevant, storing it) in accordance with our obligations under the relevant laws which set out our obligations as someone that has personal data within our possession and control (typically referred to as a ‘data controller’).
 
 We will retain a record of your personal data in accordance with relevant law and the following criteria:
 
@@ -174,9 +174,9 @@ If you follow a link to any of these websites, please note that these websites a
 
  **Children**
 
-We are committed to protecting the privacy of children. The Website is not designed or intended to attract or be used by children under the age of 13. We do not collect any personal data in relation to any individual that we know is under the age of 13.
+We are committed to protecting the privacy of children. The Website is not designed or intended to attract or be used by children. In particular, we do not collect any personal data in relation to any individual that we know is under the age of 13.
 
-Individuals who are over the age of 13 but under the age of 16 may register to use the forums but, as noted in our Terms of Use, if you are under 16 you need to get permission from a parent or guardian before providing us with any personal details and use of any of our interactive services by such persons is subject to the consent of their parent or guardian.
+Individuals who are aged 16 or older may register to use the forums. We had previously permitted children between the ages of 13 to 16 to register for an account to use the Discussion Forums but we have revisited that decision and any accounts which had previously been registered by anyone within that age group will be removed.
 
 We advise parents who permit their children to use any interactive service that it is important that they communicate with their children about their safety online, as moderation is not foolproof. Minors who are using any interactive service should be made aware of the potential risks to them.
 
@@ -200,17 +200,21 @@ We will review each request which we receive and if we agree that we are obliged
 
 If you identify that any personal data that we hold about you is wrong, inaccurate or out of date then you may ask us to correct or update it. Please contact us via the details provided below and we will review each request and respond accordingly.
 
- **Right to stop or limit our processing of your personal data**
+ **Right of erasure and the right to stop or limit our processing of your personal data**
 
-This is also known as the ‘right to be forgotten’. You have the right to require us to stop or to limit any processing we are undertaking in respect of your personal data if we no longer have a valid reason to do so or if we have held it for too long.
+The right of erasure is is also known as the ‘right to be forgotten’. You have the right to ask us to stop or to erase data we hold about you. Alternatively, you can ask us to limit any processing we are undertaking in respect of your personal data. These rights arise if we no longer have a valid reason to do so or if we have held it for too long.
 
-This is not an absolute right but every request we receive will be considered carefully and we will respond accordingly (providing grounds for any decision we make).
+These are not absolute rights but every request we receive will be considered carefully and we will respond accordingly (providing grounds for any decision we make).
 
  **Right to withdraw consent**
 
-You are free to withdraw any consent which you have given to us in relation to our use of your personal data at any time. As noted above, you have the right to tell us to stop sending you any direct marketing materials at any time. Please note that not all uses which we make of your personal data require your consent (for example, if we need to use that information in order to provide a service you have requested then we do not need your consent in order to do so).
+You are free to withdraw any consent which you have given to us in relation to our use of your personal data at any time. Please note that not all uses which we make of your personal data require your consent (for example, if we need to use that information in order to provide a service you have requested then we do not need your consent in order to do so).
 
-Right to complain
+ **Right to object**
+
+You have the right to object to the processing of your personal data at any time. This effectively allows you to stop or prevent the processing of your personal data. An objection may be in relation to all of the personal data we hold (as a controller) about you or only to certain information. It may also only relate to a particular purpose we are processing the data for. Save in relation to direct marketing communications (where you have the right to tell us to stop sending you such materials at any time) this is not an absolute right but every request we receive will be considered carefully and we will respond accordingly (providing grounds for any decision we make).
+
+ **Right to complain**
 
 If you are unhappy about the way in which we have processed your personal data then you have a right to raise the issue or to lodge a complaint with the [Information Commissioner’s Office](https://ico.org.uk/for-the-public/).
 
@@ -218,14 +222,14 @@ If you are unhappy about the way in which we have processed your personal data t
 
 We will keep this privacy notice under regular review and we may update this privacy notice from time to time (for example, to reflect changes we might make to our services or to reflect changes in the law or best practice). Any changes we may make to our privacy notice in the future will be posted on this page. We encourage you to visit this page periodically so that you are aware of any changes which have been made.
 
-This version of the privacy notice is effective as from 25 May 2018.
+This version of the privacy notice is effective as from 10 December 2019.
 
  **Contact Details**
 
 If you have any comments or concerns regarding our privacy notice, or the manner in which we handle your personal data or if you would like to exercise any of the rights outline above then please do feel free to contact us by one of the following means:
 
   * Via [this form](http://www.patient.info/feedback.asp?ref=/privacy-policy).
-  * By post: Data Protection Officer, Rawdon House, Green Lane, Yeadon, Leeds LS19 7BY
+  * By post: Data Protection Officer, Fulford Grange, Micklefield Lane, Rawdon, Leeds, LS19 6BA
   * By email: privacy@emishealth.com.
 
 
