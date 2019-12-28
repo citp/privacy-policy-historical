@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the driverguide.com privacy policy that was archived on 2019-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190317173419id_/https%3A//www.driverguide.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the driverguide.com privacy policy that was archived on 2019-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191228151853id_/https%3A//www.driverguide.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">      
+    <meta name="viewport" content="width=device-width, initial-scale=1">      
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <meta name="description" content="Read our Privacy Policy | DriverGuide.com">
 <meta name="keywords" content="DriverGuide, Privacy, Policy">
@@ -165,8 +165,6 @@ icx.actionQueue = new icx_ActionQueue();
     
 
     <title>DriverGuide Privacy Policy | Free Windows Driver Updates</title>
-
-
 <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
 <script>
@@ -185,8 +183,6 @@ window.cookieconsent.initialise({
   }
 })});
 </script>
-
-
   </head>
   <body onload="icx.actionQueue.runBodyOnLoad();">
     <!-- Top - logo with search bar (mobile) -->
@@ -223,7 +219,7 @@ window.cookieconsent.initialise({
         <li><a href="https://scan.driverguide.com/scan.php">Driver Updater</a></li>
 <li class="dropdown">
     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">Drivers <span class="caret"></span></a>
-    <ul class="dropdown-menu"><li><a href="https://www.driverguide.com/browse_manufacturers.php">By Manufacturer</a></li><li><a href="https://www.driverguide.com/browse/index.html">By Device</a></li><li><a href="https://www.driverguide.com/windows_10_drivers.php">Windows 10 Drivers</a></li><li><a href="https://www.driverguide.com/windows_8_drivers.php">Windows 8 Drivers</a></li><li><a href="https://members.driverguide.com/index.php?action=wizard_step_1">Search Wizard</a></li>    </ul>
+    <ul class="dropdown-menu"><li><a href="https://www.driverguide.com/browse_manufacturers.php">By Manufacturer</a></li><li><a href="https://www.driverguide.com/browse/index.html">By Device</a></li><li><a href="https://www.driverguide.com/windows_10_drivers.php">Windows 10 Drivers</a></li><li><a href="https://www.driverguide.com/windows_8_drivers.php">Windows 8 Drivers</a></li>    </ul>
 </li>
 
 <li class="dropdown">
@@ -243,16 +239,7 @@ window.cookieconsent.initialise({
     </div>
   </div>
 </nav>
-<div class="row googleResponsive hidden-sm hidden-md hidden-lg">
-    <div class="col-md-12">
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- DG Responsive Bootstrap Site Header -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4727129938051271" data-ad-slot="1433713822" data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-    </div>
-</div>
+
 <!-- Top - logo with search bar (non-mobile) -->
 <div class="navbar navbar-default navbar-static-top hidden-xs">
 <div class="container">
@@ -528,21 +515,43 @@ For questions about DriverGuide Premium Memberships, please use our <a href="htt
     <div class="container server-status">
     <div class="row">
         <div class="col-xs-12">
-        server: web1, load: 1.15
+        server: web1, load: 0.97
         </div>
     </div>
 </div>    
     
     
-    
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script async="" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    
+    <script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", () => {
+    // for collapsing / expanding hamburger menu
+    const hamburger=document.querySelectorAll('[data-target="#DGnavbar"]')[0];
+      hamburger.addEventListener('click', function(event) {
+          const menuExpanded=document.querySelectorAll('#DGnavbar')[0];
+            menuExpanded.classList.toggle("collapse");
+      })
+    // for collapsing / expanding Search box
+    const searchButton=document.querySelectorAll('[data-target="#DGnavbarSearch"]')[0];
+      searchButton.addEventListener('click', function(event) {
+          const searchBox=document.querySelectorAll('#DGnavbarSearch')[0];
+            searchBox.classList.toggle("collapse");
+      })
+    // for collapsing / expanding mobile menu items
+    const submenus = document.querySelectorAll(`.dropdown-toggle`);
+    for (const submenu of submenus) {
+        submenu.addEventListener('click', () => {
+            submenu.parentNode.classList.toggle('open');
+        }, false);
+    }
+  });
+</script>
 <script type="text/javascript">
-jQuery(document).ready(function($) {
-    $(".clickable-row").click(function() {
-        window.document.location = $(this).data("url");
-    });
+document.addEventListener("DOMContentLoaded", () => {
+    const rows=document.querySelectorAll('.clickable-row');
+    for (const row of rows) {
+      row.addEventListener('click', function(event) {
+         window.location = row.getAttribute('data-url');
+      })
+    }
 });
 </script>
   
