@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtaforums.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625000634id_/https%3A//gtaforums.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtaforums.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228022812id_/https%3A//gtaforums.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GTAForums
 
@@ -59,7 +59,7 @@ GTANet may use third-parties for advertising and analytics for Networks that we 
 
 <http://www.aboutads.info/choices/>
 
-<http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/>
+[http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/](https://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/)
 
 [http://www.youradchoices.com](http://www.youradchoices.com/)
 
