@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultswim.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622155112id_/https%3A//www.adultswim.com/footer/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultswim.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228225110id_/https%3A//www.adultswim.com/footer/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Adult Swim
 
@@ -27,7 +27,7 @@ When we interact with you through our content on third party websites, applicati
 We, along with our Partners, may use the Information to: 
 
   1. provide and communicate with you about the Services or your account with us, 
-  2. ulfill your requests regarding the Services, including without limitation requests for newsletters and notifications, 
+  2. Fulfill your requests regarding the Services, including without limitation requests for newsletters and notifications, 
   3. respond to your inquiries, and notify you if you have won a contest, 
   4. communicate with you about other products, programs or services that we believe may be of interest to you, 
   5. enforce the legal terms (including without limitation our policies and terms of service) that govern your use of our Services, and/or for the purposes for which you provided the Information, 
