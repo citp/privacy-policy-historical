@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lumosity.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624093907id_/https%3A//www.lumosity.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumosity.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228074914id_/https%3A//www.lumosity.com/en/legal/privacy_policy) for the most accurate reproduction.*
 
 # Lumosity - Privacy Policy
 
@@ -60,6 +60,8 @@ We use your information to operate and provide you with Lumosity and other servi
 
 
 We also reserve the right to use and disclose non-personal data (e.g., de-identified or aggregate data) for any purpose. For example, we show aggregate performance measures to users to allow them to evaluate their performance against other Lumosity users. Also, in connection with our [Human Cognition Project](https://www.lumosity.com/hcp), we may disclose performance statistics to university collaborators to evaluate, study, and improve the effectiveness of our programs or human cognition more generally. In these situations, all data is disclosed either in aggregate form or with information that can identify you removed. In addition, when we work with university collaborators, we contractually prohibit them from attempting to re-identify individuals from data that has been de-identified.
+
+We also use reCAPTCHA v.3 feature of Google to determine whether inputs are made by a natural person or by potentially abusive automated tools (bots). reCAPTCHA uses data such as IP address and activity patterns (e.g., typing/mouse movements) to make such determination. reCAPTCHA is subject to Google’s [Terms of Service](https://policies.google.com/terms) and [Privacy Policy](https://policies.google.com/privacy).
 
 The laws in some jurisdictions require companies to tell you about the legal ground they rely on to use or disclose your personal data. To the extent those laws apply, our legal grounds are as follows: 
 
