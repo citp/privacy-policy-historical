@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mzansixxx.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417234722id_/https%3A//www.mzansixxx.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mzansixxx.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228071909id_/https%3A//mzansixxx.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Mzansixxx.com
+# Privacy Policy - Mzansixxx
 
-## **Privacy Policy**
-
- **Please read this privacy policy carefully, as your access to and use of our Website signifies that you have read, understand and agree to all terms within this privacy policy. If you do not agree with any part of this privacy policy or our terms, please do not access or continue to use our Website or otherwise submit your personal data. We respect your privacy and are committed to protecting your personal data  ** **If you have any questions about our privacy practices, please see “Contact Information” below for information on how to contact us.  ** **This Privacy Policy governs the manner in which  mzansixxx.com collects, uses, maintains and discloses information collected from users (each, a "User") of the **[**mzansixxx.com**](https://www.mzansixxx.com/) **  website.**
+**Please read this privacy policy carefully, as your access to and use of our Website signifies that you have read, understand and agree to all terms within this privacy policy. If you do not agree with any part of this privacy policy or our terms, please do not access or continue to use our Website or otherwise submit your personal data. We respect your privacy and are committed to protecting your personal data  ** **If you have any questions about our privacy practices, please see “Contact Information” below for information on how to contact us.  ** **This Privacy Policy governs the manner in which  mzansixxx.com collects, uses, maintains and discloses information collected from users (each, a "User") of the **[**mzansixxx.com**](https://www.mzansixxx.com/) **  website.**
 
 ###  **Personal identification information**
 
@@ -51,7 +49,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ###  **Compliance with children's online privacy protection act**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. If you become aware that your child has provided us with Personal Information, please contact us at support@mzansixxx.com. If we become aware that a minor has provided us with Personal Information, we take steps to remove such information and terminate that person’s account  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. If you become aware that your child has provided us with Personal Information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If we become aware that a minor has provided us with Personal Information, we take steps to remove such information and terminate that person’s account  
 
 
 ###  **Changes to this privacy policy**
@@ -65,7 +63,7 @@ By using this Site, you signify your acceptance of this policy and [terms](http
 
 ###  **Contacting us:**
 
- **If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact**[ **Here**](https://www.mzansixxx.com/feedback) **  or Drop and E-mail to support@mzansixxx.com**
+ **If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact**[ **Here**](https://www.mzansixxx.com/feedback) **  or Drop and E-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
 
 ###  **GDPR (General Data Protecton Regulation)**
 
