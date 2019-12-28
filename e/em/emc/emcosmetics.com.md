@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emcosmetics.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616171917id_/https%3A//www.emcosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emcosmetics.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228081920id_/https%3A//www.emcosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Notice – EM Cosmetics
 
