@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 3playmedia.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606115956id_/https%3A//www.3playmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3playmedia.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228162807id_/https%3A//www.3playmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – 3Play Media
 
-**Last updated: May 16, 2018**
+**Last updated: July 16, 2019**
 
 ## Overview
 
@@ -85,13 +85,13 @@ We may use your information in the following ways:
 
 ### How Your Information May Be Shared
 
-We may share your information with our trusted partners who work on our behalf. These partners may use your information to help us communicate with you.
+We may share your information with our trusted partners who work on our behalf or with whom we collaborate. These partners may use your information to communicate with you directly or help us communicate with you.
 
 We may work with ad networks that display targeted advertisements based on your information. These ad networks may make inferences based on this information in order to provide targeted ads. They may collect and aggregate information about you or make inferences based on your information to serve targeted ads to you.
 
 ### How to Opt Out from Emails
 
-If you do not want to receive emails from us, you can [opt out or change your preferences](http://info.3playmedia.com/email-subscription.html) any time.
+If you do not want to receive emails from us, you can [opt out or change your preferences](https://go.3playmedia.com/email-subscription-preferences) any time.
 
 ### Data Retention
 
@@ -205,7 +205,7 @@ We may share your information in the following ways:
 
 ### How to Opt Out from Emails
 
-If you do not want to receive marketing emails from us, you can [opt out or change your preferences](http://info.3playmedia.com/email-subscription.html) any time. You may not opt out of communications required for operational and billing purposes.
+If you do not want to receive marketing emails from us, you can [opt out or change your preferences](https://go.3playmedia.com/email-subscription-preferences) any time. You may not opt out of communications required for operational and billing purposes.
 
 ### Data Retention
 
