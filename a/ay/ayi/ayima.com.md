@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ayima.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907121904id_/https%3A//ayima.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayima.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228213215id_/https%3A//ayima.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ayima
 
