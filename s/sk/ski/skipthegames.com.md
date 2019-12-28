@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skipthegames.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501195513id_/http%3A//skipthegames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipthegames.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228170721id_/http%3A//skipthegames.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -55,7 +55,7 @@ Please note that if you post any of your personal information on Skipthegames.co
 
 Skipthegames.com does not intentionally collect any personal information from individuals under the age of 13. When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details have been collected.
 
-Note: Skipthegames.com is an adult oriented site, and has been voluntarily registered with the following parental control programs to keep your children safe from adult materials: Net Nanny, Cyber Patrol, Cyber Sitter, Safe Surf, FOSI. We do not collect information from any person not of legal age, and the use of the site by persons not of legal age is a violation of the [Terms of Use of Skipthegames.com](https://skipthegames.com/http/tos).
+Note: Skipthegames.com is an adult oriented site, and has been voluntarily registered with the following parental control programs to keep your children safe from adult materials: Net Nanny, Cyber Patrol, Cyber Sitter, Safe Surf, FOSI. We do not collect information from any person not of legal age, and the use of the site by persons not of legal age is a violation of the [Terms of Use of Skipthegames.com](https://web.archive.org/tos).
 
 #### Communication from Skipthegames.com
 
