@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbike.co.uk privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607144044id_/https%3A//www.superbike.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbike.co.uk privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228055004id_/https%3A//www.superbike.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Statement | Superbike Magazine
 
@@ -105,7 +105,7 @@ Small pieces of code called pixel tags, web beacons or GIF files, are used in co
 
 If you do not want your browser to accept cookies and use them in the ways described above it is possible to change your browser settings. It is also possible to delete existing cookies from your browser. However blocking all cookies will affect your web experience and may result in some parts of Superbike website not functioning properly. Some cookies are designed to help save you time, for example, by remembering your contact details when you are making an order for the second time this means that you will not have to complete the contact section again unless your details have changed. The procedure for modifying your privacy preferences is different for each Internet browser and we recommend you visit the following websites for further information on altering your cookie settings:
 
-[www.aboutcookies.org](https://web.archive.org/web/20190607144044id_/https://www.superbike.co.uk/privacy/www.aboutcookies.org) [www.allaboutcookies.org](https://web.archive.org/web/20190607144044id_/https://www.superbike.co.uk/privacy/www.allaboutcookies.org) 
+[www.aboutcookies.org](https://web.archive.org/web/20191228055004id_/https://www.superbike.co.uk/privacy/www.aboutcookies.org) [www.allaboutcookies.org](https://web.archive.org/web/20191228055004id_/https://www.superbike.co.uk/privacy/www.allaboutcookies.org) 
 
 
 ### Use of different cookies
