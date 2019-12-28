@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payjunction.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531092642id_/https%3A//support.payjunction.com/hc/en-us/articles/211053648) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payjunction.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228021028id_/https%3A//support.payjunction.com/hc/en-us/articles/211053648) for the most accurate reproduction.*
 
 # Privacy Statement – PayJunction Support
 
