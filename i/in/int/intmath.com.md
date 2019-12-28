@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530053548id_/https%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228071632id_/https%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy
 
@@ -58,7 +58,7 @@ For more information about how to disable cookies, visit [allaboutcookies.org](h
 
 We use third-party advertising companies to serve ads when you visit this website. These companies may use information ( **not** including your name, address, email address or telephone number) about your visits to this and other websites, including search engines, in order to provide advertisements about goods and services of interest to you. This "behavioral advertisitng" is used by Google Adsense and other advertising agencies, which are used throughout the site.
 
-If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, see [these FAQs](http://www.networkadvertising.org/faq).
+If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, see [these FAQs](https://www.networkadvertising.org/faq).
 
 Please understand all the "free" services on the Web (including IntMath) receive vital funding from advertising. In short, the Web would mostly exist behind paywalls if everyone disabled ads.
 
@@ -74,4 +74,4 @@ IntMath is hosted on LiquidWeb servers in Phoenix, AZ, USA. We strictly abide by
 
 ## Questions or Concerns
 
-Please use the [Comments](https://web.archive.org/web/20190530053548id_/https%3A//www.intmath.com/help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
+Please use the [Comments](https://web.archive.org/web/20191228071632id_/https%3A//www.intmath.com/help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
