@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opi.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619201351id_/https%3A//privacy.coty.com/en_us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opi.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228024425id_/https%3A//privacy.coty.com/en_us) for the most accurate reproduction.*
 
 # Privacy Notice | Coty
 
