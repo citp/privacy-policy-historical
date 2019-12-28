@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beamng.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629211318id_/https%3A//wiki.beamng.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beamng.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228235222id_/https%3A//wiki.beamng.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - BeamNG
 
