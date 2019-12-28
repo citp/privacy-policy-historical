@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521172008id_/https%3A//www.ultimatesoftware.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228224331id_/https%3A//www.ultimatesoftware.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ultimate Software Human Resource Systems
 
@@ -40,8 +40,11 @@ Under certain conditions, more fully described on the Privacy Shield [website](h
 ## Notice
 
 _**How Personal Information is Collected**_  
-_Web Visitors_  
-Ultimate Software collects PII about a visitor to our website only when the visitor chooses to provide such information. On certain pages, for example, a visitor has the opportunity to provide his/her PII such as his/her name, company, address, phone number, and e-mail address. Any personal data you provide when using this website will only be used in accordance with this privacy policy. By supplying such information to Ultimate Software, a visitor can request details about Ultimate Software, including information about the company’s product line and investor information, or sign up for company-sponsored events or use the company’s support website. If you are a resident of the European Union or if the United Kingdom leaves the EU, then United Kingdom and would like to request to be forgotten in relation to a previous request for such information please click [here](https://www.ultimatesoftware.com/please-forget-me).
+_Web Visitors_
+
+Ultimate Software collects PII about a visitor to our website only when the visitor chooses to provide such information. On certain pages, for example, a visitor has the opportunity to provide his/her PII such as his/her name, company, address, phone number, and e-mail address. Any personal data you provide when using this website will only be used in accordance with this privacy policy. By supplying such information to Ultimate Software, a visitor can request details about Ultimate Software, including information about the company’s product line and investor information, or sign up for company-sponsored events or use the company’s support website. 
+
+If you are a resident of the European Union or the United Kingdom if it leaves the EU, and would like to request to be forgotten in relation to a previous request for such information please click [here](https://www.ultimatesoftware.com/please-forget-me).
 
 _Website / Cookies and other Tracking Technologies_  
 In order to improve the content and format of our site, Ultimate Software uses website tracking software to automatically capture technical information that is then stored in our server’s log files. This information may include, but is not limited to, user domain, the type of Internet browser being used, which of our Web pages is visited, and the amount of time spent on our site.
@@ -79,13 +82,16 @@ Other than as stated in this Privacy Policy, we will endeavor not to release you
 **_Sharing of Your Personal Information_**  
 Ultimate Software may contract with third-party providers to perform certain functions on our behalf or to enhance our existing product and service offerings. Examples include providing marketing assistance, product, and service support. These third parties may have access to your PII only to the extent necessary to provide these services, however, they are bound by confidentiality agreements before any information is provided to them, and they are restricted from using the information for other purposes. 
 
+**_Selling of Your Personal Information_**  
+Ultimate Software does not sell Personal Information.
+
 ## Links to Non-Ultimate Software websites and Third Parties
 
 Ultimate Software’s websites may contain links to third-party sites for your convenience and/or information. If you access those links, you will leave Ultimate Software’s website and be re-directed to a third-party site. Ultimate Software does not control those sites or the privacy practices of those third-party sites, which may differ from Ultimate Software’s privacy practices. We do not endorse or make any representations about third-party websites, and the personal data you choose to provide to third-party websites is not covered by this Privacy Policy. We encourage you to review the privacy policy of any website or company before submitting your PII to them.
 
 ## Access
 
-As to its own employees and its own job applicants, Ultimate Software will take reasonable steps to provide that your PII is accurate, complete, and current, to its intended use. We provide individuals with reasonable access to the PII that they provide to us, as well as the ability to review and correct such information. For access requests please contact us at [privacy@ultimatesoftware.com](mailto:privacy@ultimatesoftware.com). We will respond to your request within a reasonable timeframe. 
+As to its website visitors, its own employees or its own job applicants, Ultimate Software will take reasonable steps to provide that your PII is accurate, complete, and current, to its intended use. We provide individuals with reasonable access to the PII that they provide to us, as well as the ability to review and correct such information. For access requests please contact us at [privacy@ultimatesoftware.com](mailto:privacy@ultimatesoftware.com). We will respond to your request within a reasonable timeframe. 
 
 Ultimate Software will only retain PII as long as is necessary to comply with our legal obligations, resolve disputes, and as applicable to agreements with our customers.
 
@@ -113,11 +119,11 @@ Where Ultimate Software has knowledge that one of Ultimate Software's employee
 
 ## Dispute Resolution
 
-Ultimate Software will investigate and attempt to resolve complaints and disputes regarding the use and disclosure of PII in accordance with the principles contained in this Policy. Ultimate Software agrees to cooperate with Data Protection Authorities located in the European Union and the Federal Data Protection and Information Commissioner located in Switzerland, or authorized representatives for disputes specific to Human Resource information received from the European Union and Switzerland. All other disputes that cannot be resolved between Ultimate Software and the complainant will be handled in accordance with applicable dispute resolution procedures through our U.S.-based third party dispute resolution provider TRUSTE (free of charge) at <https://feedback-form.truste.com/watchdog/request>. We strongly encourage you to raise any complaints you may have with regard to this Privacy Policy and/or our activation of this Policy to us prior to proceeding to the arbitration procedure described in this paragraph.
+Ultimate Software will investigate and attempt to resolve complaints and disputes regarding the use and disclosure of PII in accordance with the principles contained in this Policy. Ultimate Software agrees to cooperate with Data Protection Authorities located in the European Union and the Federal Data Protection and Information Commissioner located in Switzerland, or authorized representatives for disputes specific to Human Resource information received from the European Union and Switzerland. All other disputes that cannot be resolved between Ultimate Software and the complainant will be handled in accordance with applicable dispute resolution procedures through our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. We strongly encourage you to raise any complaints you may have with regard to this Privacy Policy and/or our activation of this Policy to us prior to proceeding to the arbitration procedure described in this paragraph.
 
 ## Changes to This Privacy Policy
 
-The practices described in this Policy are the current PII protection policies approved on August 30, 2018. Ultimate Software reserves the right to modify or amend this Policy at any time consistent with the Privacy Shield Principles. If we make any material changes we will notify you or our customer by email (sent to the email address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+The practices described in this Policy are the current PII protection policies approved on September 18, 2019. Ultimate Software reserves the right to modify or amend this Policy at any time consistent with the Privacy Shield Principles. If we make any material changes we will notify you or our customer by email (sent to the email address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 ## Contact Information
 
@@ -125,7 +131,7 @@ At any time, you may contact Ultimate Software with questions or concerns about 
 
 The Ultimate Software Group  
 Attention: Vice President of Privacy, Risk & Compliance  
-1485 North Park Drive  
+2000 Ultimate Way  
 Weston, FL 33326
 
 Those residing in the EU may contact the external Data Protection Officer (DPO) via email at [DPO@ultimatesoftware.com](mailto:DPO@ultimatesoftware.com). The DPO also serves as Ultimate Software's representative in Europe and is located at:  
