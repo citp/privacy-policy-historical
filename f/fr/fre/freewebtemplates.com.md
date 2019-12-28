@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebtemplates.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222002id_/http%3A//www.freewebtemplates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebtemplates.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228190200id_/https%3A//www.freewebtemplates.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Web Templates
 
