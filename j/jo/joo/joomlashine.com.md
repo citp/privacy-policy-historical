@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212748id_/https%3A//www.joomlashine.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228185621id_/https%3A//www.joomlashine.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | JoomlaShine
 
