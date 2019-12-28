@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intego.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108165723id_/https%3A//www.intego.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intego.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228033603id_/https%3A//www.intego.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Intego Privacy Policy
 
