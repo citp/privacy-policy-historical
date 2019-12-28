@@ -1,14 +1,13 @@
-<!--The following is the downloaded HTML source of the mapillary.com privacy policy that was archived on 2019-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190618210852id_/https%3A//www.mapillary.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mapillary.com privacy policy that was archived on 2019-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191228130829id_/https%3A//www.mapillary.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<meta content="app-id=757286802" name="apple-itunes-app">
 <link rel="manifest" href="https://www.mapillary.com/assets/manifest.json">
 <title>Privacy Policy | Mapillary</title>
 
-<link rel="stylesheet" href="/static/css/styles.css?v=20190124">
+<link rel="stylesheet" href="/static/css/styles.css">
 
 
   
@@ -42,8 +41,6 @@
   
     <meta content="mapillary.com" name="twitter:domain">
   
-    <meta content="app-id=757286802" name="apple-itunes-app">
-  
     <meta content="Mapillary AB, Sweden" name="author">
   
     <meta content="website" name="og:type">
@@ -52,6 +49,7 @@
 
 <base href="/">
 
+    <meta content="app-id=757286802" name="apple-itunes-app">
     <!-- start Segment -->
 <script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/bqDOIhqUotoDhfZshCN6hkQDS6k3xaVf/analytics.min.js"></script><script src="/static/js/segment-key.js"></script>
 <script>
@@ -67,6 +65,8 @@
       platform: 'web',
     });
     }}();
+  } else {
+    console.log('ERROR: empty segment key!')
   }
 </script>
 <!-- end Segment -->
@@ -110,6 +110,11 @@ function gtag_report_conversion(url) {
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 </script><script async="" src="https://static.hotjar.com/c/hotjar-484651.js?sv=6"></script>
 
+<!-- Outfunnel Tracking Code for www.mapillary.com -->
+<script>
+  var OFID = "5cb787bc84919511c2f12d84";
+</script>
+<script src="https://cdn.outfunnel.com/c.js"></script>
 
   </head>
   <body>
@@ -119,9 +124,9 @@ function gtag_report_conversion(url) {
       <div data-dropdown-hide="" class="flex items-center black">
         <a class="flex-none Logo LogoBlack mr2" href="/"></a>
 
-        <div class="NavLink black flex items-center font-semi-bold small-caps h5 cursor-default user-select-none text-decoration-none px2 xs-hide sm-hide" data-dropdown="" data-dropdown-product="">Product <span class="icon dropdown-arrow" style="margin-left: 4px"></span></div>
-
         <div class="NavLink black flex items-center font-semi-bold small-caps h5 cursor-default user-select-none text-decoration-none px2 xs-hide sm-hide" data-dropdown="" data-dropdown-solutions="">Solutions <span class="icon dropdown-arrow" style="margin-left: 4px"></span></div>
+
+        <div class="NavLink black flex items-center font-semi-bold small-caps h5 cursor-default user-select-none text-decoration-none px2 xs-hide sm-hide" data-dropdown="" data-dropdown-product="">Product <span class="icon dropdown-arrow" style="margin-left: 4px"></span></div>
 
         <div class="NavLink black flex items-center font-semi-bold small-caps h5 cursor-default user-select-none text-decoration-none px2 xs-hide sm-hide" data-dropdown="" data-dropdown-resources="">Resources <span class="icon dropdown-arrow" style="margin-left: 4px"></span></div>
 
@@ -144,86 +149,45 @@ function gtag_report_conversion(url) {
     </div>
     <div class="DropdownArrow"></div>
     <div class="DropdownContainer">
-      <div class="DropdownSection ProductSection">
-        <div class="flex p40 fs16 black flex-column" style="padding-top: 30px;">
-          <div class="DropdownLink mb24 flex flex-column">
-            <a href="/platform" class="fs16 black small-caps font-semi-bold text-decoration-none">PLATFORM</a>
-            <a href="/platform" class="gray text-decoration-none">Host, process, and publish street-level imagery and map data.</a>
-          </div>
-          <div class="DropdownLink mb24 flex flex-column">
-            <a href="/data" class="fs16 black small-caps font-semi-bold text-decoration-none">DATA LICENSES</a>
-            <a href="/data" class="gray text-decoration-none">Use street-level imagery and map features for making better maps.</a>
-          </div>
-          <div class="DropdownLink mb24 flex flex-column">
-              <a href="/capture" class="fs16 black small-caps font-semi-bold text-decoration-none">CAPTURE TOOLS</a>
-              <a href="/capture" class="gray text-decoration-none">Capture and upload street-level imagery with simple tools.</a>
-          </div>
-          <div class="DropdownLink mb24 flex flex-column">
-            <a href="/integrations" class="fs16 black small-caps font-semi-bold text-decoration-none">INTEGRATIONS</a>
-            <a href="/integrations" class="gray text-decoration-none">Bring street-level data to your mapping and GIS workflows.</a>
-          </div>
+
+      <div class="DropdownSection SolutionsSection">
+        <div class="flex flex-column navigation-links">
+          <a href="/capture-imagery" class="black mb-4 text-decoration-none">Capture imagery</a>
+          <a href="/update-maps" class="black mb-4 text-decoration-none">Update maps</a>
+          <a href="/automate-mapping" class="black mb-4 text-decoration-none">Automate mapping</a>
+          <a href="/open-data" class="black mb-4 text-decoration-none">Open up data</a>
+
+          <img src="/assets/components/header-nav-sep.svg" alt="" style="margin: 18px auto 16px 24px;">
+
+          <a href="/mapping-solutions" class="black mb-4 text-decoration-none">For mapping</a>
+          <a href="/fleets" class="black mb-4 text-decoration-none">For fleets</a>
+          <a href="/geospatial-solutions" class="black mb-4 text-decoration-none">For geospatial</a>
+          <a href="/automotive-solutions" class="black mb-4 text-decoration-none">For automotive</a>
         </div>
       </div>
 
-      <div class="DropdownSection SolutionsSection" style="max-width: 500px;">
-        <div class="flex p40 fs16 black flex-column" style="padding-top: 30px;">
-          <div class="DropdownLink mb24 flex flex-column">
-            <a href="/mapping-solutions" class="fs16 black small-caps font-semi-bold text-decoration-none">MAPPING</a>
-            <a href="/mapping-solutions" class="gray text-decoration-none">
-              Update maps at scale and enhance them with fresh street-level imagery.
-            </a>
-          </div>
-          <div class="DropdownLink mb24 flex flex-column">
-            <a href="/geospatial-solutions" class="fs16 black small-caps font-semi-bold text-decoration-none">GEOSPATIAL</a>
-            <a href="/geospatial-solutions" class="gray text-decoration-none">
-              Create and use street-level imagery to keep your geospatial datasets up to date.
-            </a>
-          </div>
-          <div class="DropdownLink mb24 flex flex-column">
-            <a href="/automotive-solutions" class="fs16 black small-caps font-semi-bold text-decoration-none">AUTOMOTIVE</a>
-            <a href="/automotive-solutions" class="gray text-decoration-none">
-              Train visual perception models and scale up map updates to help autonomous vehicles understand their surroundings.
-            </a>
-          </div>
+      <div class="DropdownSection ProductSection">
+        <div class="flex flex-column navigation-links">
+          <a href="/platform" class="black mb-4 text-decoration-none">Mapillary platform</a>
+          <a href="/tools" class="black mb-4 text-decoration-none">Apps and tools</a>
+          <a href="/data" class="black mb-4 text-decoration-none">Data subscriptions</a>
+          <a href="/datasets" class="black mb-4 text-decoration-none">Image datasets</a>
+          <a href="/developer" class="black mb-4 text-decoration-none">Developer tools</a>
         </div>
       </div>
 
       <div class="DropdownSection ResourcesSection">
-        <div class="flex p40 fs16" style="padding-top: 30px;">
-          <div class="col-6 mr3">
-            <div class="DropdownLink mb3">
-                <a href="/arcgis" class="fs16 black font-semi-bold text-decoration-none block">Esri</a>
-                <a href="/arcgis" class="gray text-decoration-none block">Use Mapillary imagery in ArcGIS to view and edit geospatial data.</a>
-            </div>
-            <div class="DropdownLink mb3">
-                <a href="/osm" class="fs16 black small-caps font-semi-bold text-decoration-none block">OPENSTREETMAP</a>
-                <a href="/osm" class="gray text-decoration-none block">All Mapillary images are available for editing OpenStreetMap.</a>
-            </div>
-            <div class="DropdownLink mb3">
-                <a href="/showcase" class="fs16 black font-semi-bold text-decoration-none block">SHOWCASE</a>
-                <a href="/showcase" class="gray text-decoration-none block">Learn how people across industries use Mapillary today.</a>
-            </div>
-            <div class="DropdownLink">
-                <a href="/partners" class="fs16 black font-semi-bold text-decoration-none block">PARTNERS</a>
-                <a href="/partners" class="gray text-decoration-none block">See how we work with partners to bring more value to customers.</a>
-            </div>
-          </div>
-          <div class="col-6">
-            <div class="DropdownLink mb3">
-                <a href="https://help.mapillary.com" target="_blank" rel="noopener noreferrer" class="fs16 black small-caps font-semi-bold text-decoration-none block">HELP CENTER</a>
-                <a href="https://help.mapillary.com" target="_blank" rel="noopener noreferrer" class="gray text-decoration-none block">Learn more about capturing images and using Mapillary products.</a>
-            </div>
-            <div class="DropdownLink mb3">
-                <a href="/developer" class="fs16 black font-semi-bold text-decoration-none block">DEVELOPERS</a>
-                <a href="/developer" class="gray text-decoration-none block">Use APIs to access Mapillary data and integrate with other services.</a>
-            </div>
-            <div class="DropdownLink">
-                <a href="https://research.mapillary.com" class="fs16 black font-semi-bold text-decoration-none block">RESEARCH</a>
-                <a href="https://research.mapillary.com" class="gray text-decoration-none block">The science behind our computer vision technology.</a>
-            </div>
-          </div>
+        <div class="flex flex-column navigation-links">
+          <a href="/osm" class="black mb-4 text-decoration-none">OpenStreetMap</a>
+          <a href="/here" class="black mb-4 text-decoration-none">HERE Map Creator</a>
+          <a href="/arcgis" class="black mb-4 text-decoration-none">ArcGIS</a>
+          <a href="https://help.mapillary.com/hc/en-us" class="black mb-4 text-decoration-none">Help Center</a>
+          <a href="/showcase" class="black mb-4 text-decoration-none">Showcase</a>
+          <a href="/partners" class="black mb-4 text-decoration-none">Partners</a>
+          <a href="https://research.mapillary.com/" class="black mb-4 text-decoration-none">Research</a>
         </div>
       </div>
+
     </div>
   </div>
 
@@ -231,24 +195,37 @@ function gtag_report_conversion(url) {
     <div class="flex flex-column border-radius-4 bg-white h2 relative" style="box-shadow:0 6px 9px 0 rgba(0, 0, 0, 0.2);">
       <div class="icon-32 circle-close absolute top-0 right-0 mr2 mt2" onclick="MLY.toggleMobileMenu()"></div>
         <div class="flex flex-column h2 pl3 pt40 black">
-          <div class="font-bold h4 small-caps">Product</div>
+
+          <div class="font-bold h4 small-caps">Solutions</div>
+          <a href="/capture-imagery" class="gray text-decoration-none font-regular mt1">Capture imagery</a>
+          <a href="/update-maps" class="gray text-decoration-none font-regular mt1">Update maps</a>
+          <a href="/automate-mapping" class="gray text-decoration-none font-regular mt1">Automate mapping</a>
+          <a href="/open-data" class="gray text-decoration-none font-regular mt1">Open up data</a>
+
+          <img src="/assets/components/header-nav-sep.svg" alt="" style="margin: 18px auto 16px 0;">
+
+          <a href="/mapping-solutions" class="gray text-decoration-none font-regular mt1">For mapping</a>
+          <a href="/fleets" class="gray text-decoration-none font-regular mt1">For fleets</a>
+          <a href="/geospatial-solutions" class="gray text-decoration-none font-regular mt1">For geospatial</a>
+          <a href="/automotive-solutions" class="gray text-decoration-none font-regular mt1">For automotive</a>
+
+          <div class="font-bold h4 mt3 small-caps">Product</div>
           <a href="/platform" class="gray text-decoration-none font-regular mt1">Platform</a>
-          <a href="/data" class="gray text-decoration-none font-regular mt1">Data Licenses</a>
-          <a href="/capture" class="gray text-decoration-none font-regular mt1">Capture</a>
-          <a href="/integrations" class="gray text-decoration-none font-regular mt1">Integrations</a>
+          <a href="/tools" class="gray text-decoration-none font-regular mt1">Apps and tools</a>
+          <a href="/data" class="gray text-decoration-none font-regular mt1">Data subscriptions</a>
+          <a href="/datasets" class="gray text-decoration-none font-regular mt1">Image datasets</a>
+          <a href="/developer" class="gray text-decoration-none font-regular mt1">Developer tools</a>
           <a href="/pricing" class="gray text-decoration-none font-regular mt1">Pricing</a>
 
-          <div class="font-bold h4 mt3 small-caps">Solutions</div>
-          <a href="/mapping-solutions" class="gray text-decoration-none font-regular mt1">Mapping</a>
-          <a href="/geospatial-solutions" class="gray text-decoration-none font-regular mt1">Geospatial</a>
-          <a href="/automotive-solutions" class="gray text-decoration-none font-regular mt1">Automotive</a>
-
           <div class="font-bold h4 mt3 small-caps">Resources</div>
-          <a href="/arcgis" class="gray text-decoration-none font-regular mt1">Esri</a>
+
           <a href="/osm" class="gray text-decoration-none font-regular mt1">OpenStreetMap</a>
+          <a href="/here" class="gray text-decoration-none font-regular mt1">HERE Map Creator</a>
+          <a href="/arcgis" class="gray text-decoration-none font-regular mt1">ArcGIS</a>
+
+          <a href="https://help.mapillary.com" class="gray text-decoration-none font-regular mt1">Help Center</a>
           <a href="/showcase" class="gray text-decoration-none font-regular mt1">Showcase</a>
           <a href="/partners" class="gray text-decoration-none font-regular mt1">Partners</a>
-          <a href="/https://help.mapillary.com" class="gray text-decoration-none font-regular mt1">Help Center</a>
           <a href="/developer" class="gray text-decoration-none font-regular mt1">Developers</a>
           <a href="https://research.mapillary.com" class="gray text-decoration-none font-regular mt1">Research</a>
 
@@ -272,7 +249,7 @@ function gtag_report_conversion(url) {
 </div>
 <div class="pb4 px2 mx-auto black" style="max-width: 640px; width: 100%;">
   <p class="p1">We respect your right to privacy and will only process your personal information in accordance with applicable data protection and privacy laws.</p>
-<p class="p1">In this Privacy Policy, "we," "us," "its" and "our" refer to Mapillary AB ("Mapillary"), organized under the laws of Sweden. Please read carefully this Privacy Policy ("Policy") relating to your submission of Content (as defined in Mapillary’s Terms of Use) to and use of Mapillary applications, services and websites. Other terms used with a capital initial letter are defined in the associated Terms of Use [link] or the associated Mapillary Marketplace Terms [link].</p>
+<p class="p1">In this Privacy Policy, "we," "us," "its" and "our" refer to Mapillary AB ("Mapillary"), organized under the laws of Sweden. Please read carefully this Privacy Policy ("Policy") relating to your submission of Content (as defined in Mapillary’s Terms of Use) to and use of Mapillary applications, services and websites. Other terms used with a capital initial letter are defined in the associated <a class="neon-green text-decoration-none" href="/terms">Terms of Use</a> or the associated <a class="neon-green text-decoration-none" href="/marketplaceterms">Mapillary Marketplace Terms</a>.</p>
 <p class="p1"><strong>A. Introduction</strong></p>
 <p class="p1">This Policy explains how Mapillary collects, stores, uses and discloses information from you when you submit Content to and use Mapillary products, services, mobile applications and websites. This Policy applies to users of the Mapillary "Service", defined as the services, APIs, and functionality we make available either through our website at <em>www.mapillary.com</em> and related site pages (the "Website"), via private sites or repositories, or through third party sites that utilize our services and functionality, as well as through our mobile application (the "App"). When stated, this Policy is also applicable to visitors of our Website, and persons pictured in Content submitted to the Service.</p>
 <p class="p1">This Policy does not apply to websites, applications, or services that do not display or link to this Policy or that display or link to different privacy statements; nor does this Policy apply to practices of companies that we do not control or to people we do not employ or manage.</p>
@@ -408,148 +385,149 @@ function gtag_report_conversion(url) {
 <p class="p1">(Effective Date: 24 April, 2019)</p>
 </div>
 
-    <footer class="bg-black font-regular relative z1">
+    <footer class="bg-white font-regular relative z1 x-border-light-gray bt1">
   <div class="SystemContainer1200 mx-auto px2" style="padding-bottom:80px;padding-top:80px;">
     <div class="flex flex-wrap">
       <div class="FooterCol">
-        <h4 class="m0 bold white uppercase">Explore</h4>
+        <h4 class="m0 bold black mb2" style="font-size: 20px;">Explore</h4>
         <ul class="LinkList m0 list-reset">
           <li>
-            <a class="text-decoration-none silver" href="/osm">OpenStreetMap</a>
+            <a class="text-decoration-none gray" href="/osm">OpenStreetMap</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/arcgis">ArcGIS</a>
+            <a class="text-decoration-none gray" href="/arcgis">ArcGIS</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/pricing">Pricing</a>
+            <a class="text-decoration-none gray" href="/here">HERE Map Creator</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/partners">Partners</a>
+            <a class="text-decoration-none gray" href="/pricing">Pricing</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/technology">Technology</a>
+            <a class="text-decoration-none gray" href="/partners">Partners</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/showcase">Showcase</a>
+            <a class="text-decoration-none gray" href="/technology">Technology</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/edu">MapillaryEDU</a>
+            <a class="text-decoration-none gray" href="/showcase">Showcase</a>
           </li>
         </ul>
       </div>
       <div class="FooterCol">
-        <h4 class="m0 bold white uppercase">Resources</h4>
+        <h4 class="m0 bold black mb2" style="font-size: 20px;">Resources</h4>
         <ul class="LinkList m0 list-reset">
           <li>
-            <a class="text-decoration-none silver" href="https://help.mapillary.com" target="_blank" rel="noopener noreferrer">Help</a>
+            <a class="text-decoration-none gray" href="https://help.mapillary.com" target="_blank" rel="noopener noreferrer">Help</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="https://forum.mapillary.com" target="_blank" rel="noopener noreferrer">Forum</a>
+            <a class="text-decoration-none gray" href="https://forum.mapillary.com" target="_blank" rel="noopener noreferrer">Forum</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/mobile-apps">Mobile Apps</a>
+            <a class="text-decoration-none gray" href="/mobile-apps">Mobile Apps</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/desktop-uploader">Desktop Uploader</a>
+            <a class="text-decoration-none gray" href="/desktop-uploader">Desktop Uploader</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/developer">Developer</a>
+            <a class="text-decoration-none gray" href="/developer">Developer</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/mapillaryjs" target="_blank" rel="noopener noreferrer">MapillaryJS</a>
+            <a class="text-decoration-none gray" href="/mapillaryjs" target="_blank" rel="noopener noreferrer">MapillaryJS</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="https://www.opensfm.org/" target="_blank" rel="noopener noreferrer">OpenSfM</a>
+            <a class="text-decoration-none gray" href="https://www.opensfm.org/" target="_blank" rel="noopener noreferrer">OpenSfM</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="https://chrome.google.com/webstore/detail/mapillary-%E2%80%93-crowdsourced/lkokbfpnhgcnkhecedjgdemlohbaomjd" target="_blank" rel="noopener noreferrer">Chrome Extension</a>
+            <a class="text-decoration-none gray" href="https://chrome.google.com/webstore/detail/mapillary-%E2%80%93-crowdsourced/lkokbfpnhgcnkhecedjgdemlohbaomjd" target="_blank" rel="noopener noreferrer">Chrome Extension</a>
           </li>
           <div class="">
-            <a class="silver text-decoration-none" target="_blank" rel="noopener noreferrer" href="http://android-releases.mapillary.io/Mapillary_Android_current.apk">Latest APK</a>
-            <span class="silver px1">–</span>
-            <a class="silver text-decoration-none" target="_blank" rel="noopener noreferrer" href="http://android-releases.mapillary.io/index.html">All versions</a>
+            <a class="gray text-decoration-none" target="_blank" rel="noopener noreferrer" href="http://android-releases.mapillary.io/Mapillary_Android_current.apk">Latest APK</a>
+            <span class="gray px1">–</span>
+            <a class="gray text-decoration-none" target="_blank" rel="noopener noreferrer" href="http://android-releases.mapillary.io/index.html">All versions</a>
           </div>
         </ul>
       </div>
       <div class="FooterCol mobile-mt3">
-        <h4 class="m0 bold white uppercase">About</h4>
+        <h4 class="m0 bold black mb2" style="font-size: 20px;">About</h4>
         <ul class="LinkList m0 list-reset">
           <li>
-            <a class="text-decoration-none silver" href="/about">About Mapillary</a>
+            <a class="text-decoration-none gray" href="/about">About Mapillary</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="http://blog.mapillary.com" target="_blank" rel="noopener noreferrer">Blog</a>
+            <a class="text-decoration-none gray" href="http://blog.mapillary.com" target="_blank" rel="noopener noreferrer">Blog</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="http://research.mapillary.com" target="_blank" rel="noopener noreferrer">Mapillary Research</a>
+            <a class="text-decoration-none gray" href="http://research.mapillary.com" target="_blank" rel="noopener noreferrer">Mapillary Research</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/manifesto">Manifesto</a>
+            <a class="text-decoration-none gray" href="/manifesto">Manifesto</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="http://jobs.mapillary.com/" target="_blank" rel="noopener noreferrer">Open Positions</a>
+            <a class="text-decoration-none gray" href="http://jobs.mapillary.com/" target="_blank" rel="noopener noreferrer">Open Positions</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/press">Press</a>
+            <a class="text-decoration-none gray" href="/press">Press</a>
           </li>
            <li>
-            <a class="text-decoration-none silver" href="/releasenotes">Release Notes</a>
+            <a class="text-decoration-none gray" href="/releasenotes">Release Notes</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="https://status.mapillary.com/" target="_blank" rel="noopener noreferrer">System Status</a>
+            <a class="text-decoration-none gray" href="https://status.mapillary.com/" target="_blank" rel="noopener noreferrer">System Status</a>
           </li>
         </ul>
       </div>
       <div class="FooterCol mobile-mt3">
-        <h4 class="m0 bold white uppercase">Legal</h4>
+        <h4 class="m0 bold black mb2" style="font-size: 20px;">Legal</h4>
         <ul class="LinkList m0 list-reset">
           <li>
-            <a class="text-decoration-none silver" href="/legal">Summary</a>
+            <a class="text-decoration-none gray" href="/legal">Summary</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/terms">Terms and Conditions</a>
+            <a class="text-decoration-none gray" href="/terms">Terms and Conditions</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/commercialterms">Commercial Terms</a>
+            <a class="text-decoration-none gray" href="/commercialterms">Commercial Terms</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/developerpolicy">Developer Usage Policy</a>
+            <a class="text-decoration-none gray" href="/developerpolicy">Developer Usage Policy</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/privacy">Privacy Policy</a>
+            <a class="text-decoration-none gray" href="/privacy">Privacy Policy</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/cookies">Cookies</a>
+            <a class="text-decoration-none gray" href="/cookies">Cookies</a>
           </li>
           <li>
-            <a class="text-decoration-none silver" href="/credits">Credits</a>
+            <a class="text-decoration-none gray" href="/credits">Credits</a>
           </li>
         </ul>
       </div>
       <div class="FooterCol mobile-mt3">
+        <h4 class="m0 bold black mb2" style="font-size: 20px;">Connect</h4>
         <ul class="list-reset block align-middle flex-auto">
           <li class="inline-block mr1 hide md-show">
-            <a class="text-decoration-none silver" href="https://instagram.com/mapillary" target="_blank" rel="noopener noreferrer">
+            <a class="text-decoration-none gray" href="https://instagram.com/mapillary" target="_blank" rel="noopener noreferrer">
               <span class="i1 instagram-new"></span>
             </a>
           </li>
           <li class="inline-block mr1">
-            <a class="text-decoration-none silver" href="https://twitter.com/mapillary" target="_blank" rel="noopener noreferrer">
+            <a class="text-decoration-none gray" href="https://twitter.com/mapillary" target="_blank" rel="noopener noreferrer">
               <span class="i1 twitter-new"></span>
             </a>
           </li>
           <li class="inline-block mr1">
-            <a class="text-decoration-none silver" href="https://facebook.com/mapillary" target="_blank" rel="noopener noreferrer">
+            <a class="text-decoration-none gray" href="https://facebook.com/mapillary" target="_blank" rel="noopener noreferrer">
               <span class="i1 facebook-new"></span>
             </a>
           </li>
           <li class="inline-block mr1">
-            <a class="text-decoration-none silver" href="https://github.com/mapillary" target="_blank" rel="noopener noreferrer">
+            <a class="text-decoration-none gray" href="https://github.com/mapillary" target="_blank" rel="noopener noreferrer">
               <span class="i1 github-new"></span>
             </a>
           </li>
           <li class="inline-block mr1">
-            <a class="text-decoration-none silver" href="https://www.youtube.com/channel/UCG-qQGNLaE2elvupD6sTfRg" target="_blank" rel="noopener noreferrer">
+            <a class="text-decoration-none gray" href="https://www.youtube.com/channel/UCG-qQGNLaE2elvupD6sTfRg" target="_blank" rel="noopener noreferrer">
               <span class="i1 youtube-new"></span>
             </a>
           </li>
@@ -559,7 +537,7 @@ function gtag_report_conversion(url) {
   </div>
 </footer>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.3/vue.min.js"></script>
-<script src="/static/js/static-tools.js?v=20190124"></script>
+<script src="/static/js/static-tools.js"></script>
 <script src="/static/js/account-buttons.vue.js"></script>
 
     <div id="vueCookie">
