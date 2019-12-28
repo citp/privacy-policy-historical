@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phandroid.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229053523id_/https%3A//phandroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phandroid.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228193851id_/https%3A//phandroid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Phandroid
 
@@ -204,3 +204,5 @@ Please understand that if you opt-out of receiving correspondence from us, we ma
 If you have any questions or comments regarding our privacy practices, you may contact us by using the contact form on this Website or any Company website.
 
 Effective Date: January 18, 2013
+
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Cookie settingsACCEPT
