@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicor.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506173939id_/https%3A//www.epicor.com/en-us/company/compliance/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicor.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228024733id_/https%3A//www.epicor.com/en-us/company/compliance/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Security Information | Epicor
 
