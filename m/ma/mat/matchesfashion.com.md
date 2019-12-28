@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the matchesfashion.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211200id_/https%3A//www.matchesfashion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchesfashion.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228225921id_/https%3A//www.matchesfashion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MATCHESFASHION.COM UK
+# Privacy Policy | MATCHESFASHION UK
 
 ##### This Privacy Policy is effective upon 21 May 2018.
 
 This Privacy Policy aims to give you information on how we collect and process your personal data.
 
-The MATCHESFASHION.COM website, mobile app and any other means of collecting personal data are controlled by Matchesfashion Limited, referred to as 'we', 'us' or 'our' throughout this Privacy Policy. We are the primary data controller for the purposes of this website and our registered office is The Shard, 32 London Bridge Street, London, SE1 9SG, United Kingdom.
+The MATCHESFASHION website, mobile app and any other means of collecting personal data are controlled by Matchesfashion Limited, referred to as 'we', 'us' or 'our' throughout this Privacy Policy. We are the primary data controller for the purposes of this website and our registered office is The Shard, 32 London Bridge Street, London, SE1 9SG, United Kingdom.
 
 It is important that you read this Privacy Policy together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This Privacy Policy supplements the other notices and is not intended to override them. 
 
@@ -14,9 +14,9 @@ We may amend this Privacy Policy at any time by posting the amended terms herein
 
 ##### Scope
 
-This Privacy Policy describes our collection, use, disclosure, retention and protection of your personal data. It applies to any MATCHESFASHION.COM web or mobile view where this Privacy Policy appears.
+This Privacy Policy describes our collection, use, disclosure, retention and protection of your personal data. It applies to any MATCHESFASHION web or mobile view where this Privacy Policy appears.
 
-By navigating to a MATCHESFASHION.COM website or mobile view, by transacting and by registering an account, you are agreeing to the terms of this Privacy Policy.
+By navigating to a MATCHESFASHION website or mobile view, by transacting and by registering an account, you are agreeing to the terms of this Privacy Policy.
 
 Matchesfashion Limited is the data controller of your personal data and is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with the General Data Protection Regulation. 
 
@@ -26,7 +26,7 @@ Matchesfashion Limited may transfer your personal information outside of the Eur
 
 ##### Collection and cookies
 
-We collect, process and retain personal information from you and any devices you may use when you navigate to a MATCHESFASHION.COM web or mobile view, by transacting, by registering an account or by participating in promotional activity and otherwise interacting with us.
+We collect, process and retain personal information from you and any devices you may use when you navigate to a MATCHESFASHION web or mobile view, by transacting, by registering an account or by participating in promotional activity and otherwise interacting with us.
 
 [ Read more Read less]()
 
@@ -36,7 +36,7 @@ We use the personal information we collect to: provide and improve our services,
 
 We process personal data for purchases, payments, customer support and fulfilment to enable us to perform our contract with you; where your contact details and transactional information are processed.
 
-We process personal data relating to your interaction (transactions, site visits, app usage) with MATCHESFASHION.COM to enable us to personalise your experience with MATCHESFASHION.COM. This processing constitutes profiling under the GDPR and we process your personal data in this way as it is in our legitimate interest to offer you a personalised experience on our sites and to provide you with personalised advertising and marketing.
+We process personal data relating to your interaction (transactions, site visits, app usage) with MATCHESFASHION to enable us to personalise your experience with MATCHESFASHION. This processing constitutes profiling under the GDPR and we process your personal data in this way as it is in our legitimate interest to offer you a personalised experience on our sites and to provide you with personalised advertising and marketing.
 
 We retain your personal information as long as it is necessary and relevant for our operations. In addition, we may retain personal information from closed accounts to comply with legal requirements, prevent fraud and resolve disputes. Where a legal requirement obliges the retention of personal data for a specific minimum period, we will retain data for at least that period. When we determine the maximum retention duration of any personal data we hold we do so with regard to our legitimate interests to retain data, our obligation under the GDPR to minimise data we hold with what we do hold as personal data being kept proportionate; the nature, and sensitivity of the personal data and the potential risk of harm from unauthorised use or disclosure of your personal data.
 
@@ -44,7 +44,7 @@ We use and retain your personal information to provide, improve and personalise 
 
 Where we have the right to do so, we shall use and retain your personal information to personalise communications, to contact you, either via email, telephone, social media, text messages or postal mail in order to inform you of account activity, delivery fulfilment and marketing related activity. 
 
-Our Loyalty Programme is provided by a third-party loyalty provider. The loyalty provider will undertake machine learning based statistical analysis to personalise a customer’s experience with MATCHESFASHION.COM.
+Our Loyalty Programme is provided by a third-party loyalty provider. The loyalty provider will undertake machine learning based statistical analysis to personalise a customer’s experience with MATCHESFASHION.
 
 We use and retain your personal information to prevent, detect, mitigate and investigate fraudulent or illegal activities. This will involve the machine learning based statistical analysis which permits the identification of buying patterns.
 
@@ -55,6 +55,8 @@ Our one-to-one communication, exclusive to our most loyal customers, is from a d
 If you choose to refer a friend through the MentionMe service, or invite a friend to a MATCHESFASHION event, you must ensure you have their consent to provide us with their contact details. 
 
 If you are a member of the Thankyou from Coutts Programme and have requested a benefit from us, please be aware we will inform you via email when this has been actioned.
+
+We use your browsing behaviour to detect, diagnose and resolve errors that occur on our website. In addition, we use this information to improve our website and the services we offer.
 
 [ Read more Read less]()
 
@@ -78,7 +80,7 @@ Accessing Manage Preferences allows you to control how we communicate with you. 
 
 ##### Disclosure and security
 
-We may disclose your personal information to legal entities within the MATCHESFASHION.COM group of undertakings, and to authorised third parties. We do not disclose your personal information to third parties for marketing purposes.
+We may disclose your personal information to legal entities within the MATCHESFASHION group of undertakings, and to authorised third parties. We do not disclose your personal information to third parties for marketing purposes.
 
 We protect your information using measures that reduce the risks of loss, misuse, unauthorised access, disclosure and alteration. We minimise the amount of personal information we disclose to what is directly relevant and necessary to accomplish the specified purpose.
 
@@ -100,11 +102,11 @@ If we were to be acquired by another company, we may share information with them
 
 ##### Questions
 
-If you have a question about this Privacy Policy, please contact: [customercare@matchesfashion.com](mailto:customercare@matchesfashion.com) or MATCHESFASHION.COM, The Shard, 32 London Bridge Street, London SE1 9SG, UK.
+If you have a question about this Privacy Policy, please contact: [customercare@matchesfashion.com](mailto:customercare@matchesfashion.com) or MATCHESFASHION, The Shard, 32 London Bridge Street, London SE1 9SG, UK.
 
 You have the right to make a complaint at any time to the Information Commissioner's Office ( **ICO** ), the data protection supervisory authority in the UK (www.ico.org.uk). 
 
-You can contact the MATCHESFASHION.COM Data Protection Officer at [dpo@matchesfashion.com](mailto:dpo@matchesfashion.com).
+You can contact the MATCHESFASHION Data Protection Officer at [dpo@matchesfashion.com](mailto:dpo@matchesfashion.com).
 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
