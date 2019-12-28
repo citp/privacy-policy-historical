@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namethatporn.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616040836id_/https%3A//namethatporn.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namethatporn.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228222436id_/https%3A//namethatporn.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy › Help › NameThatPorn.com
 
