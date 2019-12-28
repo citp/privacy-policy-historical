@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basketballmonster.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415043239id_/https%3A//basketballmonster.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basketballmonster.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228051426id_/https%3A//basketballmonster.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 
 
