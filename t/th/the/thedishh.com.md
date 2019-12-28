@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thedishh.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826150312id_/https%3A//thedishh.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedishh.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228153754id_/https%3A//thedishh.com/privacy) for the most accurate reproduction.*
 
-# Privacy – The Dishh
+# Privacy - The Dishh
 
 **Privacy Policy**  
-Welcome to The Dishh, the website and mobile service of The Dishh, LLC (“The Dishh,” “we,” or “us”). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.  
+Welcome to The Dishh, the website. Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.  
 1\. how we collect and use information  
 Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service.  
 We collect the following types of information about you:  
