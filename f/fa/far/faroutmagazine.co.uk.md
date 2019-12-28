@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faroutmagazine.co.uk privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415212053id_/https%3A//faroutmagazine.co.uk/far-out-magazine-cookie-law-info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faroutmagazine.co.uk privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228225708id_/https%3A//faroutmagazine.co.uk/far-out-magazine-cookie-law-info) for the most accurate reproduction.*
 
 # Far Out Magazine Cookie Law Info
 
