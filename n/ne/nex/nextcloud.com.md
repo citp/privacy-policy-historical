@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextcloud.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611180958id_/https%3A//nextcloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextcloud.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228210510id_/https%3A//nextcloud.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Nextcloud
 
