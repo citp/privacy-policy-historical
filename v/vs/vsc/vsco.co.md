@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vsco.co privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629211127id_/https%3A//vsco.co/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsco.co privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228064607id_/https%3A//vsco.co/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | VSCO
 
@@ -141,4 +141,4 @@ We collect the following types of information about you:
 
 > **Questions, concerns, complaints.** If you have any questions or concerns, please [contact us](https://support.vsco.co/hc/en-us/requests/new). In addition, you can always submit a complaint to your data protection regulator. You can find your data protection regulator [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). 
 
-_This Privacy Policy was last modified on May 25, 2018._
+_This Privacy Policy was last modified on December 18, 2019._
