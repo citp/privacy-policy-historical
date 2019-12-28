@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpzoom.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625201432id_/https%3A//www.wpzoom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpzoom.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228222130id_/https%3A//www.wpzoom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WPZOOM
 
