@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hive.co privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906103853id_/https%3A//www.hive.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hive.co privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228043640id_/https%3A//www.hive.co/privacy) for the most accurate reproduction.*
 
-# Hive.co - Privacy Policy
+# Privacy Policy | Hive.co
 
-TicketLabs Inc. operating as Hive ( **"we" /"us"/"Hive"**) makes the website, [_www.hive.co_](https://www.hive.co/) (the **"Website"** ) available to Brands (such as merchants, media companies, artists, and more) and a brands audience ( **"Audience" /"Audience Member"/"You"""**) as a platform for engagement and content sharing, as further described in our Terms of Service located at [_www.hive.co/tos_](https://www.hive.co/tos) (collectively the **"Services"** ). This Privacy Policy describes how we collect, store, use and distribute information about audience members through the Services including individuals who register and create an account on Hive and individuals who access the public features of the Website and Services as visitors.
+### HIVE PRIVACY POLICY
+
+TicketLabs Inc. operating as Hive ( **"we" /"us"/"Hive"**) makes the website, [_www.hive.co_](https://www.hive.co/) (the **"Website"** ) available to Brands (such as merchants, media companies, artists, and more) and a brands audience ( **"Audience" /"Audience Member"/"You"""**) as a platform for engagement and content sharing, as further described in our Terms of Service located at [_www.hive.co/tos_](https://web.archive.org/tos) (collectively the **"Services"** ). This Privacy Policy describes how we collect, store, use and distribute information about audience members through the Services including individuals who register and create an account on Hive and individuals who access the public features of the Website and Services as visitors.
 
 ### Overview:
 
@@ -87,7 +89,7 @@ We will make every reasonable effort to keep your Personal Information accurate 
 
 ### Residents of the European Economic Area ("EEA"):
 
-We generally process Personal Information in order to fulfill contracts we have with our brand customers and to pursue our legitimate business interests listed above in this Policy. Otherwise, we will obtain consent from an individual in respect of processing of Personal Information if required by law to do so. Further, individuals located in the EEA (“ **EEA citizens** ”) have certain rights under European law (including under the General Data Protection Regulation) (collectively “ **EU Data Protection Law** ”) with respect to Personal Information, including the right to request access to, obtain, correct, amend, delete, or limit the use of your personal data. EEA citizens also have the right to make complaints to regulatory authorities in respect of our privacy practices. Individuals located in to the EEA who wish to exercise these rights or to learn more about such rights, should contact us at [_privacy@hive.co_](mailto:privacy@hive.co).
+We generally process Personal Information in order to fulfill contracts we have with our brand customers and to pursue our legitimate business interests listed above in this Policy. Otherwise, we will obtain consent from an individual in respect of processing of Personal Information if required by law to do so.  Further, individuals located in the EEA (“ **EEA citizens** ”) have certain rights under European law (including under the General Data Protection Regulation) (collectively “ **EU Data Protection Law** ”) with respect to Personal Information, including the right to request access to, obtain, correct, amend, delete, or limit the use of your personal data. EEA citizens also have the right to make complaints to regulatory authorities in respect of our privacy practices. Individuals located in to the EEA who wish to exercise these rights or to learn more about such rights, should contact us at [_privacy@hive.co_](mailto:privacy@hive.co).
 
 EU Data Protection Law sets out a number of different reasons for which we may collect and process your personal data in certain circumstances. Where EU Data Protection Law applies, the legal bases we rely upon include:
 
