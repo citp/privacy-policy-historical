@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartifb.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626201128id_/https%3A//heartifb.com/ifb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartifb.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228231433id_/https%3A//heartifb.com/ifb-privacy-policy) for the most accurate reproduction.*
 
 # IFB Privacy Policy | IFB
 
@@ -86,7 +86,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 154 Grand Street  
 New York, New York 10013  
 USA  
-team@staging.sulky-joke.flywheelsites.com
+team@heartifb.com
 
  **Privacy Policy Customer Pledge**
 
