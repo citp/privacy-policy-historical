@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeisle.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605014553id_/https%3A//themeisle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeisle.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228193313id_/https%3A//themeisle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice @ ThemeIsle
 
@@ -225,7 +225,7 @@ However, non-personally identifiable visitor information may be provided to othe
 
 ##  **Communications and Emails**
 
-When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: friends@themeisle.com
+When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: legal@vertistudio.com
 
 ##  **Legally Required Releases of Information**
 
@@ -245,7 +245,7 @@ You can update your PD using services found on our website. If no such services 
 
 ### Revoking Your Consent for Using Your PD
 
-You have the right to revoke your consent for us to use your PD at any time. Such an opt out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates and business partners, (ii) disclosures to third-party service providers that provide certain services for our business, such as credit card processing, computer system services, shipping, data management services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments, or as otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept. If you want to revoke your consent for us to use your PD, send us an email with your request to: friends@themeisle.com
+You have the right to revoke your consent for us to use your PD at any time. Such an opt out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates and business partners, (ii) disclosures to third-party service providers that provide certain services for our business, such as credit card processing, computer system services, shipping, data management services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments, or as otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept. If you want to revoke your consent for us to use your PD, send us an email with your request to: legal@vertistudio.com
 
 ## Protecting the Privacy Rights of Third Parties
 
