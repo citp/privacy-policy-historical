@@ -1,8 +1,20 @@
-> *The following text is extracted and transformed from the apache.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230200017id_/http%3A//www.apache.org/foundation/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apache.org privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228075209id_/http%3A//apache.org/foundation/policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[ ](http://apache.org/foundation/contributing.html "Support Apache")
+[](http://apachecon.com/) [](https://web.archive.org/)
+
+## Celebrating 20 years of community-led development "The Apache Way"
+
+  * Projects 
+  * People 
+  * Community 
+  * License 
+  * Sponsors 
+
+
+
+[](https://web.archive.org/foundation/contributing.html)
 
 The Apache Software Foundation (ASF) is an open source project organized under the auspices of a public benefit corporation. Our challenges and goals are large. For that reason, we have a very permissive (non) privacy policy that mirrors our public mission.
 
