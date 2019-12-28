@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellythekitchenkop.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623192838id_/https%3A//kellythekitchenkop.com/icky-small-print-stuff-disclaimer-privacy-policy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellythekitchenkop.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228072058id_/https%3A//kellythekitchenkop.com/icky-small-print-stuff-disclaimer-privacy-policy-terms-conditions) for the most accurate reproduction.*
 
 # Affiliates, Disclaimers, Privacy Policy, Terms and Conditions - Kelly the Kitchen Kop
 
