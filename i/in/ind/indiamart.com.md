@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiamart.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624092555id_/https%3A//www.indiamart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiamart.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228073900id_/https%3A//www.indiamart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IndiaMART Privacy Policy
 
@@ -103,7 +103,7 @@ Please contact us regarding any questions, clarifications, or grievances. Please
 
 **GRIEVANCE OFFICER**  
 In accordance with the applicable laws, the name and details of the Grievance officer are provided below:  
-Mr. Victor Kharkwal  
+Mr. Rajesh Gopinath  
 Email Address: [grievances@indiamart.com](mailto:grievances@indiamart.com)
 
 **CHANGES IN PRIVACY POLICY**
