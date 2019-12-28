@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317173419id_/https%3A//www.driverguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228151853id_/https%3A//www.driverguide.com/privacy.html) for the most accurate reproduction.*
 
 # DriverGuide Privacy Policy | Free Windows Driver Updates
 
