@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explosm.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624181002id_/http%3A//explosm.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explosm.net privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228111506id_/http%3A//explosm.net/privacy) for the most accurate reproduction.*
 
 # Cyanide & Happiness (Explosm.net)
 
