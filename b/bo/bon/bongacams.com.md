@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bongacams.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627063007id_/https%3A//bongacams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongacams.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228074332id_/https%3A//bongacams.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at BongaCams
 
