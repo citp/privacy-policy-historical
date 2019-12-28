@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the carfax.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626023505id_/https%3A//www.carfax.com/company/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carfax.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228172343id_/https%3A//www.carfax.com/company/privacy-statement) for the most accurate reproduction.*
 
 # CARFAX Privacy Policy
+
+### ****
 
 ### Effective November 2017
 
@@ -62,5 +64,3 @@ To opt out of receiving targeted content and advertisements on CARFAX web sites 
 
 **Updates to this Privacy Statement** **[(back to top)](https://www.carfax.com/company/privacy-statement#top)**  
 We reserve the right to modify this Privacy Statement at any time. Any changes to the Privacy Statement will be posted here. If the changes are significant, we will provide you additional, prominent notice as appropriate under the circumstances.
-
-Top of Form
