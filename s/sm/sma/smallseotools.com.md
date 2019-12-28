@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallseotools.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624123942id_/https%3A//smallseotools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallseotools.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228150847id_/https%3A//smallseotools.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -39,7 +39,8 @@ This Privacy Policy has been compiled to serve users who are concerned about how
   29. For EEA users 
   30. What are my rights as a user, and how can I use them? 
   31. Will this Privacy Policy ever change? 
-  32. Contact Us 
+  32. Content uploaded by users 
+  33. Contact Us 
 
 
 
@@ -324,6 +325,18 @@ You can make a request if you want us to stop using your Personal Data, includin
 ### Send complain to an authority.
 
 If you are located in the EEA region and think that we haven't conformed to data protection laws, then you have a right to bring a complaint to your local supervisory authority. If you have other queries or do not have a SmallSEOTools.com account, you may contact us by submitting a support ticket.
+
+### Content uploaded by users
+
+Images uploaded to SmallSEOTools are temporarily uploaded to our system for the processing.
+
+We do not intend to breach the privacy of any user and we have our own system which deletes the images after every 5 minutes.
+
+The purpose of this tool is to facilitate the users and all the content is uploaded by users. We do not support pirated material in any case.
+
+Copyright for all images submitted to SmallSEOTools remains with the original owner/author.
+
+If you do not agree to any of the above terms, you may not use SmallSEOTools.
 
 ### Will this Privacy Policy ever change?
 
