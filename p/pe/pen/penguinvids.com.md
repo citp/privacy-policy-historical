@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the penguinvids.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630043942id_/https%3A//penguinvids.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguinvids.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228230644id_/https%3A//penguinvids.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Penguin Videos
+# Privacy Policy | Penguinvids.com | 企鹅视频网站 色情影片
 
 Privacy Policy for penguinvids
 
 At penguinvids.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by penguinvids.com and how we use it.
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at jhaine.reyes@gmail.com. An example of a privacy policy can be found at buyproxies.io.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at admin@penguinvids.com. An example of a privacy policy can be found at buyproxies.io.
 
 Log Files
 
