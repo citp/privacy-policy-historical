@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbubble.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184923id_/https%3A//www.redbubble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbubble.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228094740id_/https%3A//www.redbubble.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy | Redbubble
 
@@ -850,7 +850,40 @@ Your user account essentially shows the personal data you have stored with us. Y
 
 (d) Right to withdraw your consent: If you have given your consent to the collection or processing of your personal data, you have the right to withdraw your consent at any time on a prospective basis without affecting the lawfulness of processing based on the consent before its withdrawal. You may also object to use of your personal data for purposes of market research and public opinion polling as well as advertising and unsubscribe from our newsletter (please cf. under item 4.3 above). To exercise any of these rights you may at any time contact us as provided in item 1 above.
 
-## 10\. COMPLAINTS
+## 10\. Consumer Privacy Act ("CCPA") – for California residents
+
+The CCPA provides California resident users of Redbubble.com (referred to in this section as “ ** _California consumers_** ”) with specific rights regarding their personal information. This section describes California consumers’ rights and explains how they can exercise them.
+
+_Access to Specific Information and Data Portability Rights_
+
+California consumers have the right to certain information about Redbubble’s collection and use of their personal information over the past 12 months. Sections 3, 4 and 5 above describe the types of personal information Redbubble collects, how it is processed by Redbubble and the third parties with whom Redbubble shares such information and the purpose for that sharing.
+
+_Exercising Access, Data Portability, and Deletion Rights_
+
+California consumers have the right to request that Redbubble deletes any of their personal information collected from them, subject to certain exceptions set out in the CCPA. These rights may be exercised by clicking this link: ‘Do not sell my Personal Information’ (also in the footer) or by emailing [privacy@redbubble.com](mailto:privacy@redbubble.com).Only the relevant California consumer, or a person registered with the California Secretary of State that is authorized to act on a California consumer’s behalf, may make a verifiable consumer request related to that California consumer’s personal information. California consumers can also make a verifiable consumer request on behalf of their minor child. 
+
+California consumers may only make a verifiable consumer request for access or data portability twice within a 12-month period.
+
+The verifiable consumer request must:
+
+  * provide sufficient information that allows Redbubble to reasonably verify identity; and
+  * describe the request with sufficient detail that allows Redbubble to properly understand, evaluate, and respond to it. 
+
+
+
+_Response Timing and Format_
+
+Redbubble will endeavor to respond to a verifiable consumer request within forty-five (45) days of its receipt. If more time is required (up to 90 days), Redbubble will inform you of the reason and extension period in writing. There is no fee for processing verifiable consumer requests unless it is excessive, repetitive, or manifestly unfounded.
+
+_Non-Discrimination_
+
+Redbubble will not discriminate against anyone for exercising any of their CCPA rights. However, certain financial incentives may be offered to the extent permitted by the CCPA that can result in different prices, rates, or quality levels. Any CCPA-permitted financial incentive that is offered will reasonably relate to California consumers’ personal information’s value and contain written terms that describe the program’s material aspects. Participation in a financial incentive program would require prior opt in consent, which may be revoked at any time.
+
+_Other California Privacy Rights_
+
+California’s “Shine the Light” law (Civil Code Section § 1798.83) permits California consumers to request certain information regarding Redbubble’s disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy@redbubble.com](mailto:privacy@redbubble.com).
+
+## 11\. COMPLAINTS
 
 If you have any questions, concerns or complaints relating to this privacy policy or Redbubble’s privacy/data protection practices, you are welcome to contact the Redbubble Data Protection Officer at the contact details listed in Section 1.
 
@@ -863,11 +896,11 @@ The relevant supervisory authority for the making of complaints depends on your 
 
 
 
-## 11\. CHANGES
+## 12\. CHANGES
 
 Redbubble reserves the right to change this privacy policy from time to time in compliance with the legal requirements, for example to be compliant with new laws or to add new services.
 
-Date: 25 May 2018
+Date: 01 Jan 2020
 
 desktop tablet-landscape content-width tablet-portrait workstream-4-across phone-landscape phone-portrait
 
