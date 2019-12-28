@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cramster.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630213517id_/https%3A//www.chegg.com/internationalprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cramster.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228190126id_/https%3A//www.chegg.com/internationalprivacypolicy) for the most accurate reproduction.*
 
 # International Privacy Policy | Chegg.com
 
