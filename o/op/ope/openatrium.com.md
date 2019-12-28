@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openatrium.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113004703id_/https%3A//drupal.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openatrium.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228140444id_/https%3A//drupal.org/privacy) for the most accurate reproduction.*
 
 # Drupal.org Privacy Policy | Drupal.org
 
@@ -131,7 +131,7 @@ We use a number of service providers to help us operate the site and provide hig
   * We use [NewRelic](http://newrelic.com/) for application performance monitoring. You can review [NewRelic's privacy policy here](https://newrelic.com/termsandconditions/privacy).
   * We use [Google Analytics](https://google.com/analytics) to analyze traffic to the Website, you can review the [Google privacy policy](https://www.google.com/intl/en/policies/privacy/) for more information.
   * We use [Fastly](https://www.fastly.com/) as a Content Delivery Network, you can review [Fastly's privacy policy here](https://www.fastly.com/privacy).
-  * We use [PerimeterX](https://www.perimeterx.com/) to provide bad bot protection at the edge of our network. [PerimterX's privacy policy](https://www.perimeterx.com/privacy/) is available for review.
+  * We use [PerimeterX](https://www.perimeterx.com/) to provide bad bot protection at the edge of our network. [PerimeterX's privacy policy](https://www.perimeterx.com/privacy/) is available for review.
   * We use Audience Insight tools for anonymous traffic only, wrapped in our own implementation of Do-Not-Track, including - [LinkedIn Insights](https://www.linkedin.com/legal/privacy-policy), [Twitter Audience Insights](https://twitter.com/en/privacy), and [Facebook Audience Insights](https://www.facebook.com/about/privacy/update).
 
 
