@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paper.li privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624092735id_/https%3A//paper.li/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paper.li privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228074109id_/https%3A//paper.li/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ This Policy sets out our privacy practices and explains how we handle the inform
 
 **We value your privacy a lot. When you share information with us through the use of one of our Services, we make sure it is stored as securely as possible, and kept only for the purpose intended.**
 
-As such, we never share the information you provide to third parties, except for chosen partners that are used for the purpose of providing you the Paper.li service.
+As such, we never share the information you provide to third parties, except for chosen partners that are used for the purpose of providing you the best [Paper.li](https://paper.li/) experience.
 
 You always remain in control of your data. You may edit or erase your data from our Services at any time.
 
@@ -16,9 +16,19 @@ When we refer to "we" or "us" in this policy, we mean [Finity SA](https://finity
 
 The information we collect is used solely for the purpose of operating and improving our Services.
 
-When you create an account on [Paper.li](https://paper.li/), you obviously provide us account information :-).
+When you visit one of our services, we collect usage information, log data and remarketing data.
 
-From time to time, we use your email exclusively to send you information about new features of [Paper.li](https://paper.li/), best practices and [Paper.li](https://paper.li/) Pro plan discounts. You can decide to opt out of these [Paper.li](https://paper.li/) marketing and product update mailings at any time within your [Paper.li account settings page](https://paper.li/~/account#account) under the Email notifications section.
+We use usage information and log data to compute non-identifying reports that are used to improve our services. For that purpose, non-identifying usage information and log data are also shared with our third-party analytics services (including, but not limited to, Google Analytics, Adobe Analytics and HubSpot).
+
+Log data may also be used to fight spam and other abuse of our services.
+
+We use remarketing data to measure the conversion of marketing campaigns we sometimes do on external platforms like Facebook, Linkedin and Twitter, as well as present users who have visited our services relevant ads. Remarketing data is collected through the usage of tracking pixels. No personal information is contained in or collected as a result of using these tracking pixels.
+
+Some [Paper.li](https://paper.li/) papers may include ads served by Google Ads. Google uses cookies to help serve personalized ads, as expressed within the Cookies section. More information can be found into [Google Advertising Privacy & Terms document](https://policies.google.com/technologies/ads).
+
+When you create an account on [Paper.li](https://paper.li/), you provide us account information.
+
+From time to time, we use your email exclusively to send you information about new features of [Paper.li](https://paper.li/), best practices and [Paper.li](https://paper.li/) discounts. You can decide to opt out of these [Paper.li](https://paper.li/) marketing and product update communications at any time within your [Paper.li account settings page](https://web.archive.org/~/account#account) under the Email notifications section.
 
 We may also contact you to inform you about changes to our [Paper.li](https://paper.li/) Service and important Service-related notices, such as new Terms or other security notices. These communications are considered part of the Service and you may not opt out of them.
 
@@ -28,11 +38,11 @@ We also use your log data (more specifically your IP address) to know which coun
 
 We also collect your usage information and log data as a visitor of one of our Services.
 
-To benefit from our [Paper.li Pro paid plan](https://paper.li/pro.html), you need to provide **billing information** and **payment details** (credit card or Paypal account). The **billing information** and **payment details** you provide when upgrading a paper are collected by our partner [Recurly](https://recurly.com/) and processed by our partner [Wirecard Bank AG](https://www.wirecardbank.com/). Recurly is PCI-DSS Level 1 compliant, a standard that provides a secure environment that goes above and beyond industry security standards and guidelines. Recurly privacy policy is available [under this page](https://recurly.com/legal/privacy). Wirecard Bank AG is one of the world’s leading independent providers of solutions for electronic payments and is a fully licensed German bank listed on the Frankfurt Securities Exchange.
+To benefit from our [Paper.li paid plan](https://paper.li/pro.html), you need to provide **billing information** and **payment details** (credit card or Paypal account). The **billing information** and **payment details** you provide when upgrading a paper are collected by our partner [Recurly](https://recurly.com/) and processed by our partner [Wirecard Bank AG](https://www.wirecardbank.com/GDPR). Recurly is PCI-DSS Level 1 compliant, a standard that provides a secure environment that goes above and beyond industry security standards and guidelines. Recurly privacy policy is available [under this page](https://recurly.com/legal/privacy). Wirecard Bank AG is one of the world’s leading independent providers of solutions for electronic payments and is a fully licensed German bank listed on the Frankfurt Securities Exchange.
 
 Our partners **_never share with us payment details_** (that is, we never receive your credit card or Paypal account information under any circumstances).
 
-Invoices and other billing information are sent by Recurly on our behalf to the billing information email address you have provided. You may edit your billing information and/or payment details at any time by clicking on the Billing Dashboard URL found in the Billing Info tab of your Account Settings.
+Invoices and other billing information are sent by Recurly on our behalf to the billing information email address you have provided. You may edit your billing information and/or payment details at any time by clicking on the Billing Dashboard URL found in the [Billing Info tab of your account settings](https://web.archive.org/~/account#billing-info).
 
 We use [Zendesk.com](https://www.zendesk.com/) as a platform to handle assistance requests. Whenever you submit a [Paper.li](https://paper.li/) helpdesk ticket (either through email or the helpdesk request [online form](https://support.paper.li/hc/en-us/requests/new)), Zendesk collects on our behalf contact information which is used to communicate with you. Your communication and help requests are safeguarded and stored according to [Zendesk privacy policy](https://www.zendesk.com/company/customers-partners/privacy-policy/).
 
@@ -40,7 +50,7 @@ Your communication and help requests are stored indefinitely in Zendesk to docum
 
 If you leave a comment on the [Paper.li blog](https://blog.paper.li/) or ask a question in one of our [Community Forums](https://support.paper.li/hc/en-us/community/topics), you should be aware that any information you provide to these websites - including profile information associated with the account you use to post the information - may be read, collected, and used by any member of the public who accesses those sites. Your profile and the information you enter may remain, even after you delete your account. To request removal of your information from these publicly accessible sites, please [contact us](https://support.paper.li/hc/en-us/requests/new).
 
-When you share public content on social media (including but not limited to Twitter, Facebook, Google+, Youtube, Instagram), your public social media activity may end up in our platforms.
+When you share public content on social media (including but not limited to Twitter, Facebook, Youtube, Instagram), your public social media activity may end up in our platforms.
 
 To understand more about the type of activity you share publicly, we encourage you to check the Terms and Privacy Policies of the social media networks you use.
 
@@ -64,13 +74,13 @@ If you choose to register by email, you create a password (rest assured, your pa
 
 All the aforementioned information (name, email address, password, personal information from third parties) constitutes your **account information**. In addition, your account information will also include any [Paper.li](https://paper.li/)-specific settings you add to your account.
 
-To benefit from our [Paper.li Pro paid plan](https://paper.li/pro.html), you need to provide **billing information** and **payment details** (credit card or Paypal account). The **billing information** and **payment details** you provide when upgrading a paper are collected by our partner [Recurly](https://recurly.com/) and processed by our partner [Wirecard Bank AG](https://www.wirecardbank.com/). Recurly is PCI-DSS Level 1 compliant, a standard that provides a secure environment that goes above and beyond industry security standards and guidelines. Recurly privacy policy is available [under this page](https://recurly.com/legal/privacy). Wirecard Bank AG is one of the world’s leading independent providers of solutions for electronic payments and is a fully licensed German bank listed on the Frankfurt Securities Exchange.
+To benefit from our [Paper.li paid plan](https://paper.li/pro.html), you need to provide **billing information** and **payment details** (credit card or Paypal account). The **billing information** and **payment details** you provide when upgrading a paper are collected by our partner [Recurly](https://recurly.com/) and processed by our partner [Wirecard Bank AG](https://www.wirecardbank.com/). Recurly is PCI-DSS Level 1 compliant, a standard that provides a secure environment that goes above and beyond industry security standards and guidelines. Recurly privacy policy is available [under this page](https://recurly.com/legal/privacy). Wirecard Bank AG is one of the world’s leading independent providers of solutions for electronic payments and is a fully licensed German bank listed on the Frankfurt Securities Exchange.
 
 Our partners **_never share with us payment details_** (that is, we never receive your credit card or Paypal account information under any circumstances).
 
-By **social media activity** we mean any activity that is publicly available on a social media network (including, but not limited to, Twitter, Facebook, Google+, Youtube, Instagram). Such activity usually contains your identifier, name (as entered by the social media), the content you shared, your current location, and so on.
+By **social media activity** we mean any activity that is publicly available on a social media network (including, but not limited to, Twitter, Facebook, Youtube, Instagram). Such activity usually contains your identifier, name (as entered by the social media), the content you shared, your current location, and so on.
 
-The information we receive from social media networks is solely determined by each social media network, according to their privacy policy and terms of service. We encourage you to check their documentation to discover which kind of information they communicate us.
+The information we receive from social media networks is solely determined by each social media network, according to their privacy policy and terms of service. We encourage you to check their documentation to discover which kind of information they communicate with us.
 
 ## To whom do we transfer this information?
 
@@ -80,7 +90,7 @@ We do not share your information or data with third parties outside Finity excep
 
   * Allow our customers to pay for our Services
 
-  * Facilitate communication with you
+  * Facilitate communication and marketing with you
 
   * Manage our customer support services to you.
 
@@ -113,7 +123,7 @@ Finity and its authorized partners shall take appropriate organizational and tec
 
 Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer's hard disk. [Paper.li](https://paper.li/) may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our services, and to customize and improve our Services.
 
-We are also using 3rd party cookies. Examples of services we may be using are
+We are also using 3rd party cookies. Examples of the services we may be using are:
 
   * Google Analytics ([Opt out](https://tools.google.com/dlpage/gaoptout?hl=en))
 
@@ -121,16 +131,18 @@ We are also using 3rd party cookies. Examples of services we may be using are
 
   * Facebook ([Opt out](https://www.facebook.com/help/568137493302217))
 
-  * Criteo ([Deactivate](http://www.criteo.com/deactivate-criteo-banners/))
+  * Criteo ([Deactivate](https://www.criteo.com/deactivate-criteo-banners/))
 
-  * Addthis ([Learn more](http://www.addthis.com/privacy/privacy-policy#publisher-visitors))
+  * Addthis ([Learn more](https://www.addthis.com/privacy/privacy-policy#publisher-visitors))
 
   * Twitter ([Learn more](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies))
 
+  * Linkedin ([Learn more](https://www.linkedin.com/legal/cookie-policy))
 
 
 
-You can also deactivate specific 3rd party cookies through the following page managed by the EDAA (European Interactive Digital Advertising Alliance): [http://www.youronlinechoices.com](http://www.youronlinechoices.com/)
+
+You can also deactivate specific 3rd party cookies through the following page managed by the EDAA (European Interactive Digital Advertising Alliance): [http://www.youronlinechoices.com](http://www.youronlinechoices.com/).
 
 Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies.
 
