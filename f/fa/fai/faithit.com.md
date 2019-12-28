@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithit.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625202514id_/https%3A//faithit.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithit.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228074806id_/https%3A//faithit.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Faithit
 
@@ -94,7 +94,7 @@ We have implemented organizational, technical, and administrative measures to pr
 
 **7\. How Can I Correct or Remove Information About Me?**
 
-If you feel that any Personal Information about you that has been collected and stored by Outreach is incorrect, or if you would Personal Information about you removed from our systems, please notify us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8be8fef8ffe4e6eef9f8eef9fde2e8eecbe4fefff9eeeae8e3ecf9e4fefba5e8e4e6) so that we may consider and respond to your request in accordance with applicable law. You may also request access to your Personal Information held by Outreach, by sending a written request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e5869096918a888097968097938c8680a58a9091978084868d82978a9095cb868a88)
+If you feel that any Personal Information about you that has been collected and stored by Outreach is incorrect, or if you would Personal Information about you removed from our systems, please notify us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#86e5f3f5f2e9ebe3f4f5e3f4f0efe5e3c6e9f3f2f4e3e7e5eee1f4e9f3f6a8e5e9eb) so that we may consider and respond to your request in accordance with applicable law. You may also request access to your Personal Information held by Outreach, by sending a written request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e5869096918a888097968097938c8680a58a9091978084868d82978a9095cb868a88)
 
 For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable, subject to applicable law.
 
@@ -108,7 +108,7 @@ We will retain your Personal Information for the period necessary to fulfill the
 
 You can always opt not to disclose information. However, if you elect to do so, we may be limited in responding to your inquiry or providing services to you.
 
-You may opt-out of receiving marketing messages from Outreach or our Affiliates by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#99faeceaedf6f4fcebeafcebeff0fafcd9f6ecedebfcf8faf1feebf6ece9b7faf6f4) , by unsubscribing through the unsubscribe or opt-out link in an email. We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages.
+You may opt-out of receiving marketing messages from Outreach or our Affiliates by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#30534543445f5d554243554246595355705f4544425551535857425f45401e535f5d) , by unsubscribing through the unsubscribe or opt-out link in an email. We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages.
 
 **10\. Third Party Sites**
 
@@ -126,7 +126,7 @@ Any modifications to this privacy Policy will be effective upon our posting of t
 
 **13\. Children’s Privacy.** Our Products, Services, and Site(s) are not directed to children under the age of 13, and we do not intentionally gather personal information from visitors who are under the age of 13 and such individuals are prohibited hereby from providing personal information, without their parental or guardian’s consent.  If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at the contact information provided above. We will delete such information from our files as soon as reasonably practicable.
 
-**14\. Questions, Concerns or Complaints: Contact Us.  **Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and handle your information, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#93e3e1fae5f2f0ead3fce6e7e1f6f2f0fbfef6f7faf2f4e1fce6e3bdf0fcfe) or by mail at Outreach, Inc., 5550 Tech Center Dr. Colorado Springs, CO 80919, ATTN: Customer Service – Privacy. Because email communications are not secure, please do not include credit card information or other sensitive information in your emails to us.
+**14\. Questions, Concerns or Complaints: Contact Us.  **Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and handle your information, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c7b7b5aeb1a6a4be87a8b2b3b5a2a6a4afaaa2a3aea6a0b5a8b2b7e9a4a8aa) or by mail at Outreach, Inc., 5550 Tech Center Dr. Colorado Springs, CO 80919, ATTN: Customer Service – Privacy. Because email communications are not secure, please do not include credit card information or other sensitive information in your emails to us.
 
 Outreach will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
 
@@ -147,7 +147,7 @@ We only use your personal information as permitted by law.  We are required to 
   *     * To provide our Services.  Processing is necessary to perform the contract governing our provision of the Services or to take steps that you request prior to signing up for the Services.
     * To communicate with you, create aggregated or de-identified information, and for compliance, fraud prevention, and safety.  These processing activities constitute our legitimate interests. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal information for our legitimate interests.  We do not use your personal information for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
     * To comply with law.  Processing is necessary to comply with our legal obligations.
-    * With your consent.  Processing is based on your consent.  Where we rely on your consent you have the right to withdraw it anytime in the manner indicated in this policy or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3f4f4d56495e5c467f504a4b4d5a5e5c57525a5b565e584d504a4f115c5052).
+    * With your consent.  Processing is based on your consent.  Where we rely on your consent you have the right to withdraw it anytime in the manner indicated in this policy or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4434362d3225273d042b3130362125272c2921202d2523362b31346a272b29).
 
 
 
@@ -169,7 +169,7 @@ European data protection laws give you certain rights regarding your personal in
 
 
 
-You can submit these requests by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1767657e6176746e57786263657276747f7a72737e7670657862673974787a) or our postal address provided above.  We may request specific information from you to help us confirm your identity and process your request.  Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions.  If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us at or submit a complaint to the data protection regulator in your jurisdiction.
+You can submit these requests by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ea9a98839c8b8993aa859f9e988f8b8982878f8e838b8d98859f9ac4898587) or our postal address provided above.  We may request specific information from you to help us confirm your identity and process your request.  Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions.  If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us at or submit a complaint to the data protection regulator in your jurisdiction.
 
 **Cross-Border Data Transfer**
 
@@ -181,4 +181,4 @@ Whenever we transfer your personal information out of the European Economic Area
 
 
 
-Please contact us by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ef9f9d86998e8c96af809a9b9d8a8e8c87828a8b868e889d809a9fc18c8082) if you want further information on the specific mechanism used by us when transferring your personal information out of the EEA.
+Please contact us by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8ffffde6f9eeecf6cfe0fafbfdeaeeece7e2eaebe6eee8fde0faffa1ece0e2) if you want further information on the specific mechanism used by us when transferring your personal information out of the EEA.
