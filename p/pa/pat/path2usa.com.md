@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the path2usa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205150id_/https%3A//www.path2usa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the path2usa.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228151357id_/https%3A//www.path2usa.com/privacy-policy) for the most accurate reproduction.*
 
-# USA Visa, Visitor visa, H1 Visa, Green Card, Visitor Medical Insurance
+# Path2USA - Information on all USA Visas, Green Card & Immigration Processes
 
 **COLLECTION AND TRACKING OF PERSONAL INFORMATION**
 
