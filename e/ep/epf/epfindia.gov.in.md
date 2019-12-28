@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epfindia.gov.in privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111185207id_/https%3A//www.epfindia.gov.in/site_en/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epfindia.gov.in privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228095555id_/https%3A//www.epfindia.gov.in/site_en/Privacy_Policy.php) for the most accurate reproduction.*
 
 # EPFO || Privacy Policy
 
