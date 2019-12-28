@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fidelity-media.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629053835id_/https%3A//fidelity-media.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidelity-media.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228151622id_/https%3A//fidelity-media.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fidelity Media
 
@@ -43,7 +43,7 @@ Processor is a natural or legal person, public authority, agency or other body w
 
 ### Recipient
 
-Recipient is a natural or legal person, public authority, agency or another body, to which the personal data are disclosed, whether a third party or not. 
+Recipient is a natural or legal person, public authority, agency or another body, to which the personal data are disclosed, whether a third party or not.
 
 ### Third party
 
@@ -99,7 +99,7 @@ These cookies remember choices you make such as the country from which you visit
 
 ### Targeting Cookies or Advertising Cookies
 
-These cookies collect information about your browsing habits in order to make advertising more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of an advertising campaign. The cookies remember the websites you visit and that information is shared with other parties such as advertisers. 
+These cookies collect information about your browsing habits in order to make advertising more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of an advertising campaign. The cookies remember the websites you visit and that information is shared with other parties such as advertisers.
 
 Publishers, advertisers, DSPs, exchanges, and third-party ad networks that participate in the Fidelity Media SSP (fmxSSP) Ad Exchange may also utilize cookies or similar technologies to deliver ads and monitor the performance of such ads. The collection of information through cookies or similar technologies by such third parties will be governed by their own privacy policies and principles, which Fidelity Media SSP (fmxSSP) does not control.
 
@@ -155,16 +155,11 @@ The right to data portability – You have rights to obtain and reuse your perso
 
 Fidelity Media SSP (fmxSSP) takes reasonable steps to ensure that information is accurate, complete, current, and reliable for its intended use. For contact or billing information submitted through our website, you may review, correct, update, or change your information, request that we deactivate your account, or remove your information from our direct marketing efforts, at any time by e-mailing us at privacy@fidelity-media.com.
 
-Mailing Address:  
-FM Labs LLC  
-201 Spear St, 1100 #3001  
-San Francisco, CA 94105
-
-Retention of personal information of EEA individuals will be handled in accordance with Fidelity Media SSP (fmxSSP)’s data retention policy. Where Fidelity Media SSP (fmxSSP) processes personal data of EEA individuals as a data controller, such individuals: (i) may have the right to request access to and rectification or erasure of personal information; (ii) may restrict the processing of personal information, object to processing, and/or exercise the right of data portability; and (iii) may have certain rights to withdraw consent without affecting the lawfulness of processing and the right to lodge a complaint with a supervisory authority. 
+Retention of personal information of EEA individuals will be handled in accordance with Fidelity Media SSP (fmxSSP)’s data retention policy. Where Fidelity Media SSP (fmxSSP) processes personal data of EEA individuals as a data controller, such individuals: (i) may have the right to request access to and rectification or erasure of personal information; (ii) may restrict the processing of personal information, object to processing, and/or exercise the right of data portability; and (iii) may have certain rights to withdraw consent without affecting the lawfulness of processing and the right to lodge a complaint with a supervisory authority.
 
 ### International Information Transfers
 
-Please be aware that the information we collect, including contact and billing information, may be transferred to and maintained on servers or databases located outside your location, or other jurisdiction, where the privacy laws may not be as protective as those in your location. 
+Please be aware that the information we collect, including contact and billing information, may be transferred to and maintained on servers or databases located outside your location, or other jurisdiction, where the privacy laws may not be as protective as those in your location.
 
 ### Security
 
