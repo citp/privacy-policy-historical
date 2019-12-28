@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theme-junkie.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630222705id_/https%3A//www.theme-junkie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theme-junkie.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228200555id_/https%3A//www.theme-junkie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Theme Junkie
 
@@ -137,7 +137,7 @@ When you place an order with Theme Junkie, we will provide your information to t
 
 ### Blog Comments
 
-We have public blogs on our websites. Any information you include in a comment on our blog may be read, collected, and used by anyone. If your personal information appears on our blogs and you want it removed, [contact us here](https://web.archive.org/cdn-cgi/l/email-protection#72010702021d000632061a171f175f18071c191b175c111d1f). If we are unable to remove your information, we will tell you why.
+We have public blogs on our websites. Any information you include in a comment on our blog may be read, collected, and used by anyone. If your personal information appears on our blogs and you want it removed, [contact us here](https://web.archive.org/cdn-cgi/l/email-protection#493a3c3939263b3d093d212c242c64233c2722202c672a2624). If we are unable to remove your information, we will tell you why.
 
 ### Social Media Platforms and WidgetsLinks to Third-Party Websites
 
@@ -223,7 +223,7 @@ The Data Controller is Compact Creative Limited, Registered office address C/O P
 
 ### Contacting Us With Questions or Requests
 
-If you want to exercise your right to access your information or have any questions about this Privacy Policy, Theme Junkie’s information practices, or your dealings with Theme Junkie, you can [contact us by email](https://web.archive.org/cdn-cgi/l/email-protection#6e1d1b1e1e011c1a2e1a060b030b43041b0005070b400d0103).
+If you want to exercise your right to access your information or have any questions about this Privacy Policy, Theme Junkie’s information practices, or your dealings with Theme Junkie, you can [contact us by email](https://web.archive.org/cdn-cgi/l/email-protection#ccbfb9bcbca3beb88cb8a4a9a1a9e1a6b9a2a7a5a9e2afa3a1).
 
 ## 12\. Changes to This Privacy Policy
 
