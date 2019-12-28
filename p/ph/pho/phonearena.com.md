@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonearena.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624094847id_/https%3A//www.phonearena.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonearena.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228080647id_/https%3A//www.phonearena.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PhoneArena
 
@@ -77,6 +77,10 @@ If you do not want to receive advertisements based on usage data collected by Ph
 Managing the cookies is also possible in your web browser. You can either delete cookies from your cookie folder once you have finished your visit at our website or you can set your preferences with regard to the use of cookies before you begin browsing our website. Further information can be found at: [Google](https://www.google.com/intl/en/chrome/browser/privacy/) / [Firefox](https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox) / [Windows](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies) / [Safari](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471).
 
 Please note, that deleting or rejecting cookies may adversely affect your user experience of our website. Also note that opting out does not mean you will stop seeing advertisements, but that the advertisements you do see will not be influenced by the usage data collected by PhoneArena. You may still see ads based on factors such as your overall location, your IP address, your browser type, and your search terms.
+
+## California Users: Your California Privacy Rights
+
+Find more details here.
 
 ## Terms of Service, Notices and Revisions
 
