@@ -1,1121 +1,662 @@
-<!--The following is the downloaded HTML source of the begrizly.com privacy policy that was archived on 2017-02-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170213020451id_/https%3A//grizly.com/privacy-policy) for the most accurate reproduction.-->
-
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
-    <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://www.adspleen.com/js/show_ads_epmads.js?pubId=29565"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script async="" src="//cdn.taboola.com/libtrc/amicus-grizly/loader.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQYBUl5QGwIJUFVTBQIE"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
-    <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
-
-    
-        <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://grizly.com/feed/">
-    <link rel="alternate" type="text/xml" title="RSS .92" href="https://grizly.com/feed/rss/">
-    <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="https://grizly.com/feed/atom/">
-    <link rel="pingback" href="https://grizly.com/xmlrpc.php">
-
-    
-    <meta property="fb:app_id" content="110908659288757">
-
-            <meta property="og:type" content="article">
-        <meta property="og:description" content="Live Wild">
-    
-    
-    <title>Privacy Policy - Grizly</title>
-        
-        <script src="https://grizly.com/wp-content/plugins/my-ad-stack-helper/assets/js/js.cookie.js"></script>
-
-        <script>
-            // Query string helper function
-            var queryObj = (function(a) {
-                if (a == "") {
-                    return {};
-                }
-                var b = {};
-                for (var i = 0; i < a.length; ++i) {
-                    var p = a[i].split('=', 2);
-                    if (p.length == 1) {
-                        b[p[0]] = "";
-                    } else {
-                        b[p[0]] = decodeURIComponent(p[1].replace(/\+/g, " "));
-                    }
-                }
-                return b;
-            })(window.location.search.substr(1).split('&'));
-
-            queryObj.utm_tracking = queryObj.utm_tracking || Cookies.get('_zz_ct') || "";
-            queryObj.utm_source = queryObj.utm_source || Cookies.get('_zz_cs') || "";
-            queryObj.utm_campaign = queryObj.utm_campaign || Cookies.get('_zz_cn') || "";
-            queryObj.utm_medium = queryObj.utm_medium || Cookies.get('_zz_cm') || "";
-            queryObj.utm_campaign = queryObj.utm_campaign.replace(/\+/g, " ");
-
-            // set up some global variables for utm tracking and source
-            window.mash_global = {
-                utm_tracking: queryObj.utm_tracking,
-                utm_source: queryObj.utm_source,
-                slotRenderEnded: function(event) {
-                    var parentEl = jQuery('#' + event.slot.getSlotElementId())
-                        .parent('.ad-widget')
-
-                    if (parentEl) {
-                        parent.addClass('rendered');
-                    }
-                }
-            };
-
-            var slotRendered = function(event) {
-                jQuery('#' + event.slot.getElementId()).parent('.ad-widget').addClass('rendered');
-            };
-
-        </script>
-
-        <style>
-            h4.advertisement-text {
-                text-transform: uppercase;
-                color: #999;
-                text-align: center;
-                font-size: 12px;
-                font-weight: 400;
-                margin-bottom: 8px;
-                font-family: 'Montserrat', sans-serif;
-            }
-
-            .above-image-widget,
-            .below-buttons-widget,
-            .above-buttons-widget-full,
-            .above-buttons-widget {
-                overflow: hidden;
-                border-top: 1px solid #e7e7e7;
-                border-bottom: 1px solid #e7e7e7;
-                padding: 6px 0;
-                text-align: center;
-                margin: 0 auto 10px;
-            }
-
-            .above-buttons-widget > div {
-                width: 50%;
-                text-align: center;
-            }
-
-            .above-buttons-widget-left {
-                float: left;
-            }
-
-            .above-buttons-widget-right {
-                float: right;
-            }
-
-            .ad-widget {
-                background-color: #eeeeee;
-                position: relative;
-                text-align: center;
-                padding: 0;
-            }
-
-            .ad-widget:before {
-                content: "Advertisement";
-                text-align: center;
-                width: 100%;
-                font-size: 14px;
-                text-transform: uppercase;
-                color: #999999;
-                font-weight: 400;
-                font-family: 'Montserrat', sans-serif;
-                position: relative;
-            }
-
-            .mas_slot iframe {
-                margin-bottom: 0;
-            }
-
-            .ad-widget {
-                min-height: 90px;
-            }
-
-            .ad-widget.rendered {
-                height: auto;
-                min-height: auto;
-                background-color: transparent;
-                border: 0;
-            }
-
-            .ad-widget.rendered:before {
-                content: none;
-            }
-
-            .ad-widget.ad-widget-728x90 {
-                min-height: 90px;
-                width: 728px;
-            }
-
-            .ad-widget.ad-widget-728x90:before {
-                top: 32px;
-            }
-
-            .ad-widget.ad-widget-300x250 {
-                min-height: 250px;
-                width: 300px;
-            }
-
-            .ad-widget.ad-widget-300x250:before {
-                top: 116px;
-            }
-
-            .mas_slot {
-                z-index: 9;
-                position: relative;
-            }
-
-            @media screen and (max-width: 728px) {
-                .ad-widget.ad-widget-728x90 {
-                    height: auto;
-                    width: 100%;
-                }
-
-                .ad-widget.ad-widget-728x90:before {
-                    top: 28px;
-                }
-            }
-        </style>
-
-                    <script type="text/javascript">
-                var googletag = googletag || {};
-                googletag.cmd = googletag.cmd || [];
-                (function() {
-                    var gads = document.createElement('script');
-                    gads.async = true;
-                    gads.type = 'text/javascript';
-                    var useSSL = 'https:' == document.location.protocol;
-                    gads.src = (useSSL ? 'https:' : 'http:') +
-                        '//www.googletagservices.com/tag/js/gpt.js';
-                    var node = document.getElementsByTagName('script')[0];
-                    node.parentNode.insertBefore(gads, node);
-                })();
-            </script>
-        
-                    <script type="text/javascript">
-  window._taboola = window._taboola || [];
-  _taboola.push({photo:'auto'});
-  !function (e, f, u) {
-    e.async = 1;
-    e.src = u;
-    f.parentNode.insertBefore(e, f);
-  }(document.createElement('script'),
-  document.getElementsByTagName('script')[0],
-  '//cdn.taboola.com/libtrc/amicus-grizly/loader.js');
-</script>        
-
-                
-<!-- This site is optimized with the Yoast SEO plugin v4.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="https://grizly.com/privacy-policy/">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy - Grizly">
-<meta property="og:description" content="Grizly respects and protects the privacy of the individuals that use Grizly’s services (“Grizly Services”). Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission or as explained in this privacy policy (“Privacy Policy”). Grizly and Cookies Upon your first visit to grizly.com, Grizly sends a “cookie” …">
-<meta property="og:url" content="https://grizly.com/privacy-policy/">
-<meta property="og:site_name" content="Grizly">
-<meta property="article:publisher" content="https://www.facebook.com/grizlylivewild/">
-<meta property="fb:admins" content="23807004">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Grizly respects and protects the privacy of the individuals that use Grizly’s services (“Grizly Services”). Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission or as explained in this privacy policy (“Privacy Policy”). Grizly and Cookies Upon your first visit to grizly.com, Grizly sends a “cookie” […]">
-<meta name="twitter:title" content="Privacy Policy - Grizly">
-<meta name="twitter:site" content="@BeGrizly">
-<meta name="twitter:creator" content="@BeGrizly">
-<!-- / Yoast SEO plugin. -->
-
-<link rel="dns-prefetch" href="//netdna.bootstrapcdn.com">
-<link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="Grizly » Feed" href="https://grizly.com/feed/">
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/grizly.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://grizly.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.2" type="text/javascript" defer=""></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="theiaPostSlider-css" href="https://grizly.com/wp-content/plugins/theia-post-slider-extended/css/grizly-buttons.css?ver=1000.10.3" type="text/css" media="all">
-<link rel="stylesheet" id="mvp-reset-css" href="https://grizly.com/wp-content/themes/flex-mag/css/reset.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="mvp-fontawesome-css" href="//netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="mvp-style-css" href="https://grizly.com/wp-content/themes/flex-mag-child/style.css?ver=4.7.2" type="text/css" media="all">
-<!--[if lt IE 10]>
-<link rel='stylesheet' id='mvp-iecss-css'  href='https://grizly.com/wp-content/themes/flex-mag-child/css/iecss.css?ver=4.7.2' type='text/css' media='all' />
-<![endif]-->
-<link rel="stylesheet" id="mvp-style-sports-css" href="https://grizly.com/wp-content/themes/flex-mag/css/style-sports.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="mvp-media-queries-css" href="https://grizly.com/wp-content/themes/flex-mag/css/media-queries.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="tablepress-default-css" href="https://grizly.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.7" type="text/css" media="all">
-<script type="text/javascript" src="https://grizly.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="https://grizly.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="https://grizly.com/wp-content/plugins/theia-post-slider-extended/js/balupton-history.js/jquery.history.js?ver=1.7.1"></script>
-<script type="text/javascript" src="https://grizly.com/wp-content/plugins/theia-post-slider-extended/js/async.min.js?ver=14.09.2014"></script>
-<script type="text/javascript" src="https://grizly.com/wp-content/plugins/theia-post-slider-extended/js/hammer.min.js?ver=2.0.4"></script>
-<script type="text/javascript" src="https://grizly.com/wp-content/plugins/theia-post-slider-extended/js/tps.js?ver=1000.10.3"></script>
-<script type="text/javascript" src="https://grizly.com/wp-content/plugins/theia-post-slider-extended/js/main.js?ver=1000.10.3"></script>
-<script type="text/javascript" src="https://grizly.com/wp-content/plugins/theia-post-slider-extended/js/tps-transition-none.js?ver=1000.10.3"></script>
-<link rel="https://api.w.org/" href="https://grizly.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://grizly.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://grizly.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.7.2">
-<link rel="shortlink" href="https://grizly.com/?p=71">
-<link rel="alternate" type="application/json+oembed" href="https://grizly.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgrizly.com%2Fprivacy-policy%2F">
-<link rel="alternate" type="text/xml+oembed" href="https://grizly.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgrizly.com%2Fprivacy-policy%2F&amp;format=xml">
-        <style>
-            .first-page-slideshow-image-wrapper {
-                position: relative;
-                display: block;
-                margin: 0 auto;
-            }
-
-            .ppt-start-slideshow-button {
-                position: absolute;
-                bottom: 10%;
-                width: 100%;
-                background-color: #e82731;
-                padding: 25px 0;
-                text-align: center;
-                opacity: .85;
-                margin: 0 auto;
-                left: 0;
-                right: 0;
-            }
-
-            h3.ppt-start-slideshow-text {
-                color: #ffffff;
-                font-size: 36px !important;
-                margin: 0 !important;
-            }
-
-            .show-on-slideshow {
-                display: none;
-            }
-
-            .page-cpc .show-on-slideshow {
-                display: block;
-            }
-
-            .page-cpc .hide-on-slideshow {
-                display: none;
-            }
-
-            @media screen and (max-width: 728px) {
-                .ppt-start-slideshow-button {
-                    display: none !important;
-                }
-            }
-        </style>
-        
-<style type="text/css">
-
-@import url(//fonts.googleapis.com/css?family=Oswald:400,700|Lato:400,700|Work+Sans:900|Montserrat:400,700|Open+Sans:800|Playfair+Display:400,700,900|Quicksand|Raleway:200,400,700|Roboto+Slab:400,700|Work+Sans:100,200,300,400,500,600,700,800,900|Montserrat:100,200,300,400,500,600,700,800,900|Work+Sans:100,200,300,400,400italic,500,600,700,700italic,800,900|Lato:100,200,300,400,400italic,500,600,700,700italic,800,900|Montserrat:100,200,300,400,500,600,700,800,900&subset=latin,latin-ext,cyrillic,cyrillic-ext,greek-ext,greek,vietnamese);
-
-#wallpaper {
-	background: url() no-repeat 50% 0;
-	}
-body,
-.blog-widget-text p,
-.feat-widget-text p,
-.post-info-right,
-span.post-excerpt,
-span.feat-caption,
-span.soc-count-text,
-#content-main p,
-#commentspopup .comments-pop,
-.archive-list-text p,
-.author-box-bot p,
-#post-404 p,
-.foot-widget,
-#home-feat-text p,
-.feat-top2-left-text p,
-.feat-wide1-text p,
-.feat-wide4-text p,
-#content-main table,
-.foot-copy p,
-.video-main-text p {
-	font-family: 'Lato', sans-serif;
-	}
-
-a,
-a:visited,
-.post-info-name a {
-	color: #e82731;
-	}
-
-a:hover {
-	color: #999999;
-	}
-
-.fly-but-wrap,
-span.feat-cat,
-span.post-head-cat,
-.prev-next-text a,
-.prev-next-text a:visited,
-.prev-next-text a:hover {
-	background: #e82731;
-	}
-
-.fly-but-wrap {
-	background: #e82731;
-	}
-
-.fly-but-wrap span {
-	background: #ffffff;
-	}
-
-.woocommerce .star-rating span:before {
-	color: #e82731;
-	}
-
-.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
-.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
-	background-color: #e82731;
-	}
-
-.woocommerce span.onsale,
-.woocommerce #respond input#submit.alt,
-.woocommerce a.button.alt,
-.woocommerce button.button.alt,
-.woocommerce input.button.alt,
-.woocommerce #respond input#submit.alt:hover,
-.woocommerce a.button.alt:hover,
-.woocommerce button.button.alt:hover,
-.woocommerce input.button.alt:hover {
-	background-color: #e82731;
-	}
-
-span.post-header {
-	border-top: 4px solid #e82731;
-	}
-
-#main-nav-wrap,
-nav.main-menu-wrap,
-.nav-logo,
-.nav-right-wrap,
-.nav-menu-out,
-.nav-logo-out,
-#head-main-top {
-	-webkit-backface-visibility: hidden;
-	background: #e82731;
-	}
-
-nav.main-menu-wrap ul li a,
-.nav-menu-out:hover ul li:hover a,
-.nav-menu-out:hover span.nav-search-but:hover i,
-.nav-menu-out:hover span.nav-soc-but:hover i,
-span.nav-search-but i,
-span.nav-soc-but i {
-	color: #ffffff;
-	}
-
-.nav-menu-out:hover li.menu-item-has-children:hover a:after,
-nav.main-menu-wrap ul li.menu-item-has-children a:after {
-	border-color: #ffffff transparent transparent transparent;
-	}
-
-.nav-menu-out:hover ul li a,
-.nav-menu-out:hover span.nav-search-but i,
-.nav-menu-out:hover span.nav-soc-but i {
-	color: #e82731;
-	}
-
-.nav-menu-out:hover li.menu-item-has-children a:after {
-	border-color: #e82731 transparent transparent transparent;
-	}
-
-.nav-menu-out:hover ul li ul.mega-list li a,
-.side-list-text p,
-.row-widget-text p,
-.blog-widget-text h2,
-.feat-widget-text h2,
-.archive-list-text h2,
-h2.author-list-head a,
-.mvp-related-text a {
-	color: #222222;
-	}
-
-ul.mega-list li:hover a,
-ul.side-list li:hover .side-list-text p,
-ul.row-widget-list li:hover .row-widget-text p,
-ul.blog-widget-list li:hover .blog-widget-text h2,
-.feat-widget-wrap:hover .feat-widget-text h2,
-ul.archive-list li:hover .archive-list-text h2,
-ul.archive-col-list li:hover .archive-list-text h2,
-h2.author-list-head a:hover,
-.mvp-related-posts ul li:hover .mvp-related-text a {
-	color: #999999 !important;
-	}
-
-span.more-posts-text,
-a.inf-more-but,
-#comments-button a,
-#comments-button span.comment-but-text {
-	border: 1px solid #e82731;
-	}
-
-span.more-posts-text,
-a.inf-more-but,
-#comments-button a,
-#comments-button span.comment-but-text {
-	color: #e82731 !important;
-	}
-
-#comments-button a:hover,
-#comments-button span.comment-but-text:hover,
-a.inf-more-but:hover,
-span.more-posts-text:hover {
-	background: #e82731;
-	}
-
-nav.main-menu-wrap ul li a,
-ul.col-tabs li a,
-nav.fly-nav-menu ul li a,
-.foot-menu .menu li a {
-	font-family: 'Montserrat', sans-serif;
-	}
-
-.feat-top2-right-text h2,
-.side-list-text p,
-.side-full-text p,
-.row-widget-text p,
-.feat-widget-text h2,
-.blog-widget-text h2,
-.prev-next-text a,
-.prev-next-text a:visited,
-.prev-next-text a:hover,
-span.post-header,
-.archive-list-text h2,
-#woo-content h1.page-title,
-.woocommerce div.product .product_title,
-.woocommerce ul.products li.product h3,
-.video-main-text h2,
-.mvp-related-text a {
-	font-family: 'Montserrat', sans-serif;
-	}
-
-.feat-wide-sub-text h2,
-#home-feat-text h2,
-.feat-top2-left-text h2,
-.feat-wide1-text h2,
-.feat-wide4-text h2,
-.feat-wide5-text h2,
-h1.post-title,
-#content-main h1.post-title,
-#post-404 h1,
-h1.post-title-wide,
-#content-main blockquote p,
-#commentspopup #content-main h1 {
-	font-family: 'Work Sans', sans-serif;
-	}
-
-h3.home-feat-title,
-h3.side-list-title,
-#infscr-loading,
-.score-nav-menu select,
-h1.cat-head,
-h1.arch-head,
-h2.author-list-head,
-h3.foot-head,
-.woocommerce ul.product_list_widget span.product-title,
-.woocommerce ul.product_list_widget li a,
-.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta,
-.woocommerce .related h2,
-.woocommerce div.product .woocommerce-tabs .panel h2,
-.woocommerce div.product .product_title,
-#content-main h1,
-#content-main h2,
-#content-main h3,
-#content-main h4,
-#content-main h5,
-#content-main h6 {
-	font-family: 'Work Sans', sans-serif;
-	}
-
-</style>
-	
-<style type="text/css">
-
-
-.post-cont-out,
-.post-cont-in {
-	margin-right: 0;
-	}
-
-
-
-
-
-
-
-
-.above-buttons-widget-full .adsbygoogle {
-margin-top: -17px;
-}
-
-div#taboola-right-rail-thumbnails-2nd- {
-margin-left: -5px;
-}
-
-div#taboola-right-rail-thumbnails-2nd- span {
-    padding: 0 4px;
-}
-
-.ppt-start-slideshow-button {
-    padding: 15px 0 !important;
-}
-
-.widget_right_rail_one_widget .ad-widget:before {
-    z-index: 10;
-}
-
-.rendered-openx {
-   position: relative;
-   margin-top: -17px !important;
-   z-index: 11
-}
-
-span._button._next._disabled {
-    display: none;
-}
-@media screen and (max-width: 1024px) and (min-width: 899px) {
-    .body-main-in {
-        margin-left: 6px;
-    }
-}
-@media screen and (max-width: 899px) and (min-width: 768px) {
-.body-main-in {
-    margin-left: 0;
-}
-#post-right-col {
-    display: none;
-}
-}</style>
-
-<script src="//tags-cdn.deployads.com/a/grizly.com.js" async=""></script>
-
-<script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'437172'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
-
+<!--The following is the downloaded HTML source of the begrizly.com privacy policy that was archived on 2019-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191228161103id_/http%3A//grizly.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<script src="//jita.rtk.io/Nh7o/sY09_Su17/jita.js?dfp=1" async=""></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WN84KNX"></script><script>
+    var dataLayer = [{
+        'fbAppId': '110908659288757',
+        'infrastructure': 'googlecloud'
+    }];
+</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WN84KNX');</script>
+
+<title>Privacy Policy | QuizGriz</title>
+<link href="https://fonts.googleapis.com/css?family=Rubik:200,400,500,700,900" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#f2f5f0">
+<meta name="theme-color" content="#f2f5f0">
+<meta property="fb:app_id" content="110908659288757">
 <meta property="fb:pages" content="833013193426515">
 <meta name="google-site-verification" content="jyanGaKCQJ-4fkeKThZEUEmmJ5rX1MEfysMPC11T84A">
-<meta name="earnify-site-verification" content="ad32804a532feb071759eb66922ea26b344dbe4e">
-
-<script>
-  function adLoadedCallback(div) {
-	jQuery(div).parent('.ad-widget').addClass('rendered');  
-  }
-</script>
-
-<!-- Facebook Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '817316458371932', {
-em: 'insert_email_variable,'
-});  
-fbq('init', '1022625547797961');  
-fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=817316458371932&ev=PageView&noscript=1"
-/></noscript>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=1022625547797961&ev=PageView&noscript=1"
-/></noscript>
-<!-- DO NOT MODIFY -->
-<!-- End Facebook Pixel Code -->
-
-<style>
-  .wpvq { margin:0 auto !important; }
-  .wpvq-question .wpvq-question-label {
-    line-height: 30px; 
-  }
-  
-  .wpvq .wpvq-progress {
-    height: 22px;
-    line-height: 22px; 
-  }
-  
-  .category-quizzes #content-main > p {
-    padding: 0 20px; 
-  }
-  
-  .rendered-openx {
-    margin-top: -16px !important; 
-  }
-</style>
-
-<!-- BEGIN TAG - HEAD -->
-<script type="text/javascript">
-  /*<![CDATA[*/
-  if(!(window.EpmadsConfig && window.EpmadsConfig.ads)) window.EpmadsConfig = {ads:[]};
-  EpmadsConfig.ads.push({
-      epmads_key:"e0df93e2810737aff91a598e0e143bac",
-      epmads_channel: "",
-      epmads_code_format:"ads-async.js",
-      epmads_click:"",
-      epmads_custom_params:{},
-      epmads_target_id:"epmads-e0df93e2810737aff91a598e0e143bac"
-  });
-  (function () {
-      var sc = document.createElement("script");
-      sc.type = "text/javascript";
-      sc.async = true;
-      sc.src = (location.protocol == "https:" ? "https:" : "http:") + "//www.adspleen.com\/js\/show_ads_epmads.js?pubId=29565";
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(sc, s);
-  })();
-  /*]]>*/
-</script>
-<!-- END TAG - HEAD -->
-
-<script>
-        function qzzrOnReady(quiz) {
-            quiz.on('question:enter', function() {
-                console.log('question:enter');
-                ga('send', 'pageview');
-            });
-            quiz.on('question:exit', function(quiz) {
-                ga('set', {page: window.location.pathname + '/' + quiz.question_id, title: quiz.question_title });
-                if (window.deployads.refreshAds) {
-                    window.deployads.refreshAds(document.getElementById('left-rail-quiz'), 'user');
-                    window.deployads.refreshAds(document.getElementById('right-rail-1'), 'user');
-                    window.deployads.refreshAds(document.getElementById('right-rail-2'), 'user');
-                    window.deployads.refreshAds(document.getElementById('above-quiz-unit'), 'user');
-                }
-            })
-            quiz.on('result:enter', function(result) {
-                alert('You got ' + JSON.stringify(result.title));
-            });
-        }
-</script>
-
-<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-<script>
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-</script>
-<script>
-  googletag.cmd.push(function() {
-    googletag.defineSlot('/22264176/GR_Right_Rail_CPA_300x250', [300, 250], 'div-gpt-ad-1481848807895-0').addService(googletag.pubads());
-    googletag.pubads().enableSingleRequest();
-    googletag.enableServices();
-  });
-</script>
 <meta name="wot-verification" content="1ad2affa6ac4702a259d">
-<link rel="icon" href="https://grizly.com/wp-content/uploads/2016/05/cropped-Grizly-32x32.png" sizes="32x32">
-<link rel="icon" href="https://grizly.com/wp-content/uploads/2016/05/cropped-Grizly-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="https://grizly.com/wp-content/uploads/2016/05/cropped-Grizly-180x180.png">
-<meta name="msapplication-TileImage" content="https://grizly.com/wp-content/uploads/2016/05/cropped-Grizly-270x270.png">
+<meta name="norton-safeweb-site-verification" content="xn23y10qxv81mgoxm-2vqxktf6o 8k6szokgzf2fz37tjdxb6uu8gpv8ove515i19sio5vj3zwqgvm5-3pgpiz0rfmgj6n9xqwj1j94jqjof2wqra34-uwn1vbbxjdrww">
+<meta name="p:domain_verify" content="92ed2e60cb954882889905f92cc2e284">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<script async="" type="text/javascript" src="//trackcmp.net/visit?actid=609685096&amp;e=&amp;r=&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170213020451id_%2Fhttps%3A%2F%2Fgrizly.com%2Fprivacy-policy%2F"></script></head>
+<meta name="csrf-token" content="6tIwcwGgl3Z97HwZTfN96P9N4ai3yzWwHYeo4yrO">
+<link rel="alternate" type="application/rss+xml" href="/feed" title="Quizzes">
+<link rel="alternate" type="application/rss+xml" href="/feed/daily" title="Daily Quizzes">
+<meta name="description" content="QuizGriz enables knowledge-seekers to experience a community of like-minded people that are focused on exercising their mind while mastering new topics.">
+<meta name="google-site-verification" content="jyanGaKCQJ-4fkeKThZEUEmmJ5rX1MEfysMPC11T84A">
+<link rel="canonical" href="https://grizly.com/privacy-policy">
+<meta name="robots" content="all">
+<meta property="og:title" content="QuizGriz">
+<meta property="og:url" content="https://grizly.com/privacy-policy">
+<meta property="og:site_name" content="QuizGriz">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@QuizGriz">
+<meta name="twitter:creator" content="@QuizGriz">
 
-<body class="page-template page-template-page-fullwidth page-template-page-fullwidth-php page page-id-71 no-left-rail page-organic">
+<link href="https://files.grizly.com/f/20191228013346-xqrchj/css/theme.css" rel="stylesheet">
+<link href="https://files.grizly.com/f/20191228013346-xqrchj/css/entypo.css" rel="stylesheet">
+<link href="https://files.grizly.com/f/20191228013346-xqrchj/css/socicon.css" rel="stylesheet">
 
 <script>
+        window.Spark = {"translations":{":trialDays Day Trial":":trialDays Day Trial","API":"API","API Token":"API Token","API Tokens":"API Tokens","Action Button Text":"Action Button Text","Your application's dashboard.":"Your application's Dashboard","Dashboard":"Dashboard","Action Button URL":"Action Button URL","Add Discount":"Add Discount","Address":"Address","Address Line 2":"Address Line 2","After logging in via your emergency token, two-factor authentication will be disabled for your account. If you would like to maintain two-factor authentication security, you should re-enable it after logging in.":"After logging in via your emergency token, two-factor authentication will be disabled for your account. If you would like to maintain two-factor authentication security, you should re-enable it after logging in.","All subscription plan prices are excluding applicable VAT.":"All subscription plan prices are excluding applicable VAT.","All subscription plan prices include applicable VAT.":"All subscription plan prices include applicable VAT.","Amount":"Amount","Announcement":"Announcement","Announcements":"Announcements","Announcements you create here will be sent to the \"Product Announcements\" section of the notifications modal window, informing your users about new features and improvements to your application.":"Announcements you create here will be sent to the \"Product Announcements\" section of the notifications modal window, informing your users about new features and improvements to your application.","Apply Discount":"Apply Discount","Applying":"Applying","Are you sure you want to cancel your subscription?":"Are you sure you want to cancel your subscription?","Are you sure you want to delete this announcement?":"Are you sure you want to delete this announcement?","Are you sure you want to switch to the :planName plan?":"Are you sure you want to switch to the :planName plan?","Are you sure you want to delete this token? If deleted, API requests that attempt to authenticate using this token will no longer be accepted.":"Are you sure you want to delete this token? If deleted, API requests that attempt to authenticate using this token will no longer be accepted.","Assign All Abilities":"Assign All Abilities","Authentication Token":"Authentication Token","Back To My Account":"Back To My Account","Billing":"Billing","Billing Information":"Billing Information","Cancel":"Cancel","Cancel Subscription":"Cancel Subscription","Cancelling":"Cancelling","Card":"Card","Cardholder's Name":"Cardholder's Name","City":"City","Click here to reset your password:":"Click here to reset your password:","Close":"Close","Confirm Password":"Confirm Password","Contact Information":"Contact Information","Copy To Clipboard":"Copy To Clipboard","Country":"Country","Country Code":"Country Code","Coupon":"Coupon","Coupon Code":"Coupon Code","Coupon accepted! The discount will be applied to your next invoice.":"Coupon accepted! The discount will be applied to your next invoice.","Create":"Create","Create API Token":"Create API Token","Create Announcement":"Create Announcement","Created":"Created","Current Password":"Current Password","Daily Volume":"Daily Volume","Date":"Date","Day Trial":"Day Trial","Delete Announcement":"Delete Announcement","Delete Token":"Delete Token","Deleting":"Deleting","Developer":"Developer","Disable Two-Factor Authentication":"Disable Two-Factor Authentication","Disabling":"Disabling","Download PDF":"Download PDF","Duration":"Duration","E-Mail":"E-Mail","E-Mail Address":"E-Mail Address","Edit Token":"Edit Token","Email Address":"Email Address","Email Us":"Email Us","Emergency Token":"Emergency Token","Enable":"Enable","Enabling":"Enabling","Expiration":"Expiration","Extra Billing Information":"Extra Billing Information","Features":"Features","Forever":"Forever","Forgot Your Password?":"Forgot Your Password?","Free":"Free","Go To Login":"Go To Login","Got It!":"Got It!","Here is your new API token.":"Here is your new API token.","Hi :name":"Hi :name","Hi!":"Hi!","I Accept :linkOpenThe Terms Of Service:linkClose":"I Accept :linkOpen The Terms Of Service:linkClose","If you do not already have an account, you may click the following link to get started:":"If you do not already have an account, you may click the following link to get started:","If you lose your two-factor authentication device, you may use this emergency reset token to disable two-factor authentication on your account.":"If you lose your two-factor authentication device, you may use this emergency reset token to disable two-factor authentication on your account.","Impersonate":"Impersonate","Impersonation":"Impersonation","In order to use two-factor authentication, you must install the :authyLink application on your smartphone. Authy is available for iOS and Android.":"In order to use two-factor authentication, you must install the :authyLink application on your smartphone. Authy is available for iOS and Android.","Invoices":"Invoices","Joined":"Joined","Kiosk":"Kiosk","Last Used":"Last Used","Loading":"Loading","Loading Notifications":"Loading Notifications","Login":"Login","Login Via Emergency Token":"Login Via Emergency Token","Logout":"Logout","Lost Your Device?":"Lost Your Device?","Mailed Invitations":"Mailed Invitations","Membership":"Membership","Message":"Message","Metrics":"Metrics","Monthly":"Monthly","Yearly":"Yearly","Monthly Recurring Revenue":"Monthly Recurring Revenue","Search By Name Or E-Mail Address...":"Search By Name Or E-Mail Address...","Months":"Months","Multiple Months":"Multiple Months","N\/A":"N\/A","Name":"Name","Never":"Never","New Invitation!":"New Invitation!","New Users":"New Users","State":"State","Postal Code":"Postal Code","No customer support request recipient is defined.":"No customer support request recipient is defined.","No users matched the given criteria.":"No users matched the given criteria.","No, Go Back":"No, Go Back","None":"None","Notifications":"Notifications","On Generic Trial":"On Generic Trial","Once":"Once","Owner":"Owner","Password":"Password","Payment Method":"Payment Method","Pending Invitations":"Pending Invitations","Percentage":"Percentage","Phone Number":"Phone Number","Please select at least one ability.":"Please select at least one ability.","Profile":"Profile","Profile Photo":"Profile Photo","Recent Announcements":"Recent Announcements","Recurring Revenue":"Recurring Revenue","Redeem":"Redeem","Redeem Coupon":"Redeem Coupon","Redeeming":"Redeeming","Register":"Register","Registering":"Registering","Remember Me":"Remember Me","Remove All Abilities":"Remove All Abilities","Reset Password":"Reset Password","Resume":"Resume","Resume Subscription":"Resume Subscription","Resuming":"Resuming","Role":"Role","Search Results":"Search Results","Searching":"Searching","Security":"Security","Security Code":"Security Code","See you soon!":"See you soon!","Select All":"Select All","Send":"Send","Send Invitation":"Send Invitation","Send Password Reset Link":"Send Password Reset Link","Sending":"Sending","Session Expired":"Session Expired","Settings":"Settings","Since you already have an account, you may accept the invitation from your account settings screen.":"Since you already have an account, you may accept the invitation from your account settings screen.","Something went wrong!":"Something went wrong!","Something went wrong. Please try again or contact customer support.":"Something went wrong. Please try again or contact customer support.","State & ZIP \/ Postal Code":"State & ZIP \/ Postal Code","Subject":"Subject","Subscribe":"Subscribe","Subscribers":"Subscribers","Subscribing":"Subscribing","Subscription":"Subscription","Support":"Support","Support Request: ":"Support Request: ","Switch":"Switch","Tax":"Tax","Terms Of Service":"Terms Of Service","Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns!":"Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns!","Thanks!":"Thanks!","The benefits of your subscription will continue until your current billing period ends on :date. You may resume your subscription at no extra cost until the end of the billing period.":"The benefits of your subscription will continue until your current billing period ends on :date. You may resume your subscription at no extra cost until the end of the billing period.","The coupon :value discount will be applied to your subscription!":"The coupon :value discount will be applied to your subscription!","The emergency token was invalid.":"The emergency token was invalid.","The given password does not match our records.":"The given password does not match our records.","The invitation has been sent!":"The invitation has been sent!","This country does not match the origin country of your card.":"This country does not match the origin country of your card.","This coupon code is invalid.":"This coupon code is invalid.","This information will appear on all of your receipts, and is a great place to add your full business name, VAT number, or address of record. Do not include any confidential or financial information such as credit card numbers.":"This information will appear on all of your receipts, and is a great place to add your full business name, VAT number, or address of record. Do not include any confidential or financial information such as credit card numbers.","This invitation code is invalid.":"This invitation code is invalid.","This is the only time the token will ever be displayed, so be sure not to lose it!":"This is the only time the token will ever be displayed, so be sure not to lose it!","This is the only time this token will be displayed, so be sure not to lose it!":"This is the only time this token will be displayed, so be sure not to lose it!","This plan has been discontinued, but you may continue your subscription to this plan as long as you wish. If you cancel your subscription and later want to begin a new subscription, you will need to choose from one of the active plans listed below.":"This plan has been discontinued, but you may continue your subscription to this plan as long as you wish. If you cancel your subscription and later want to begin a new subscription, you will need to choose from one of the active plans listed below.","This user has a discount of :discountAmount for a single invoice.":"This user has a discount of :discountAmount for a single invoice.","This user has a discount of :discountAmount for all invoices during the next :months months.":"This user has a discount of :discountAmount for all invoices during the next :months months.","This user has a discount of :discountAmount for all invoices during the next month.":"This user has a discount of :discountAmount for all invoices during the next month.","This user has a discount of :discountAmount forever.":"This user has a discount of :discountAmount forever.","Toggle Navigation":"Toggle Navigation","Token Can":"Token Can","Token Name":"Token Name","Total Price Including Tax":"Total Price Including Tax","Total Revenue":"Total Revenue","Total Volume":"Total Volume","Trial":"Trial","Trialing":"Trialing","Two-Factor Authentication":"Two-Factor Authentication","Two-Factor Authentication Reset Code":"Two-Factor Authentication Reset Code","Type":"Type","Update":"Update","Update Announcement":"Update Announcement","Update Password":"Update Password","Update Payment Method":"Update Payment Method","Update Photo":"Update Photo","Update Subscription":"Update Subscription","Update VAT ID":"Update VAT ID","Updating":"Updating","Users":"Users","Users Currently Trialing":"Users Currently Trialing","VAT ID":"VAT ID","Verify":"Verify","We don't have anything to show you right now! But when we do, we'll be sure to let you know. Talk to you soon!":"We don't have anything to show you right now! But when we do, we'll be sure to let you know. Talk to you soon!","We had trouble updating your card. It's possible your card provider is preventing us from charging the card. Please contact your card provider or customer support.":"We had trouble updating your card. It's possible your card provider is preventing us from charging the card. Please contact your card provider or customer support.","We had trouble updating your payment method. It's possible your payment provider is preventing us from charging the payment method. Please contact your payment provider or customer support.":"We had trouble updating your payment method. It's possible your payment provider is preventing us from charging the payment method. Please contact your payment provider or customer support.","We had trouble validating your card. It's possible your card provider is preventing us from charging the card. Please contact your card provider or customer support.":"We had trouble validating your card. It's possible your card provider is preventing us from charging the card. Please contact your card provider or customer support.","We have received your message and will respond soon!":"We have received your message and will respond soon!","We were not able to enable two-factor authentication for this phone number.":"We were not able to enable two-factor authentication for this phone number.","We were unable to update your subscription. Please contact customer support.":"We were unable to update your subscription. Please contact customer support.","Whoops!":"Whoops!","Whoops! This coupon code is invalid.":"Whoops! This coupon code is invalid.","Whoops! This invitation code is invalid.":"Whoops! This invitation code is invalid.","Yearly Recurring Revenue":"Yearly Recurring Revenue","Yes, Cancel":"Yes, Cancel","Yes, Delete":"Yes, Delete","Yes, I'm Sure":"Yes, I'm Sure","Yes, Leave":"Yes, Leave","Yes, Remove":"Yes, Remove","You":"You","You are currently subscribed to the :planName plan.":"You are currently subscribed to the :planName plan.","You are currently within your free trial period. Your trial will expire on :date.":"You are currently within your free trial period. Your trial will expire on :date.","You currently have :count invitation(s) remaining.":"You currently have :count invitation(s) remaining.","You currently receive a discount of :discountAmount for a single invoice.":"You currently receive a discount of :discountAmount for a single invoice.","You currently receive a discount of :discountAmount for all invoices during the next :months billing cycles.":"You currently receive a discount of :discountAmount for all invoices during the next :months billing cycles.","You currently receive a discount of :discountAmount for all invoices during the next :months months.":"You currently receive a discount of :discountAmount for all invoices during the next :months months.","You currently receive a discount of :discountAmount for all invoices during the next billing cycle.":"You currently receive a discount of :discountAmount for all invoices during the next billing cycle.","You currently receive a discount of :discountAmount for all invoices during the next month.":"You currently receive a discount of :discountAmount for all invoices during the next month.","You currently receive a discount of :discountAmount forever.":"You currently receive a discount of :discountAmount forever.","You have cancelled your subscription to the :planName plan.":"You have cancelled your subscription to the :planName plan.","You may revoke the token at any time from your API settings.":"You may revoke the token at any time from your API settings.","Your Email Address":"Your Email Address","Your Settings":"Your Settings","Your VAT ID has been updated!":"Your VAT ID has been updated!","Your billing information has been updated!":"Your billing information has been updated!","Your card has been updated.":"Your card has been updated.","Your contact information has been updated!":"Your contact information has been updated!","Your password has been updated!":"Your password has been updated!","Your payment method has been updated.":"Your payment method has been updated.","Your session has expired. Please login again to continue.":"Your session has expired. Please login again to continue.","Your trial period will expire on ":"Your trial period will expire on ","ZIP \/ Postal Code":"ZIP \/ Postal Code","Your current plan doesn't allow you to invite more members, please upgrade your subscription.":"Your current plan doesn't allow you to invite more members, please upgrade your subscription.","please upgrade your subscription":"please upgrade your subscription","second address line":"second address line","Alabama":"Alabama","Alaska":"Alaska","Arizona":"Arizona","Arkansas":"Arkansas","California":"California","Colorado":"Colorado","Connecticut":"Connecticut","Delaware":"Delaware","District of Columbia":"District of Columbia","Federated States Of Micronesia":"Federated States Of Micronesia","Florida":"Florida","Hawaii":"Hawaii","Idaho":"Idaho","Illinois":"Illinois","Indiana":"Indiana","Iowa":"Iowa","Kansas":"Kansas","Kentucky":"Kentucky","Louisiana":"Louisiana","Maine":"Maine","Maryland":"Maryland","Massachusetts":"Massachusetts","Michigan":"Michigan","Minnesota":"Minnesota","Mississippi":"Mississippi","Missouri":"Missouri","Montana":"Montana","Nebraska":"Nebraska","Nevada":"Nevada","New Hampshire":"New Hampshire","New Jersey":"New Jersey","New Mexico":"New Mexico","New York":"New York","North Carolina":"North Carolina","North Dakota":"North Dakota","Ohio":"Ohio","Oklahoma":"Oklahoma","Oregon":"Oregon","Pennsylvania":"Pennsylvania","Rhode Island":"Rhode Island","South Carolina":"South Carolina","South Dakota":"South Dakota","Tennessee":"Tennessee","Texas":"Texas","Utah":"Utah","Vermont":"Vermont","Virgin Islands":"Virgin Islands","Virginia":"Virginia","Washington":"Washington","West Virginia":"West Virginia","Wisconsin":"Wisconsin","Wyoming":"Wyoming","Armed Forces Africa \/ Canada \/ Europe \/ Middle East":"Armed Forces Africa \/ Canada \/ Europe \/ Middle East","Armed Forces America (Except Canada)":"Armed Forces America (Except Canada)","Armed Forces Pacific":"Armed Forces Pacific","Alberta":"Alberta","British Columbia":"British Columbia","Manitoba":"Manitoba","New Brunswick":"New Brunswick","Newfoundland and Labrador":"Newfoundland and Labrador","Northwest Territories":"Northwest Territories","Nova Scotia":"Nova Scotia","Nunavut":"Nunavut","Ontario":"Ontario","Prince Edward Island":"Prince Edward Island","Quebec":"Quebec","Saskatchewan":"Saskatchewan","Yukon":"Yukon","Afghanistan":"Afghanistan","\u00c5land Islands":"\u00c5land Islands","Albania":"Albania","Algeria":"Algeria","American Samoa":"American Samoa","Andorra":"Andorra","Angola":"Angola","Anguilla":"Anguilla","Antarctica":"Antarctica","Antigua and Barbuda":"Antigua and Barbuda","Argentina":"Argentina","Armenia":"Armenia","Aruba":"Aruba","Australia":"Australia","Austria":"Austria","Azerbaijan":"Azerbaijan","Bahamas":"Bahamas","Bahrain":"Bahrain","Bangladesh":"Bangladesh","Barbados":"Barbados","Belarus":"Belarus","Belgium":"Belgium","Belize":"Belize","Benin":"Benin","Bermuda":"Bermuda","Bhutan":"Bhutan","Bolivia, Plurinational State of":"Bolivia, Plurinational State of","Bosnia and Herzegovina":"Bosnia and Herzegovina","Botswana":"Botswana","Bouvet Island":"Bouvet Island","Brazil":"Brazil","British Indian Ocean Territory":"British Indian Ocean Territory","Brunei Darussalam":"Brunei Darussalam","Bulgaria":"Bulgaria","Burkina Faso":"Burkina Faso","Burundi":"Burundi","Cambodia":"Cambodia","Cameroon":"Cameroon","Canada":"Canada","Cape Verde":"Cape Verde","Cayman Islands":"Cayman Islands","Central African Republic":"Central African Republic","Chad":"Chad","Chile":"Chile","China":"China","Christmas Island":"Christmas Island","Cocos (Keeling) Islands":"Cocos (Keeling) Islands","Colombia":"Colombia","Comoros":"Comoros","Congo":"Congo","Congo, the Democratic Republic of the":"Congo, the Democratic Republic of the","Cook Islands":"Cook Islands","Costa Rica":"Costa Rica","C\u00f4te d'Ivoire":"C\u00f4te d'Ivoire","Croatia":"Croatia","Cuba":"Cuba","Cyprus":"Cyprus","Czech Republic":"Czech Republic","Denmark":"Denmark","Djibouti":"Djibouti","Dominica":"Dominica","Dominican Republic":"Dominican Republic","Ecuador":"Ecuador","Egypt":"Egypt","El Salvador":"El Salvador","Equatorial Guinea":"Equatorial Guinea","Eritrea":"Eritrea","Estonia":"Estonia","Ethiopia":"Ethiopia","Falkland Islands (Malvinas)":"Falkland Islands (Malvinas)","Faroe Islands":"Faroe Islands","Fiji":"Fiji","Finland":"Finland","France":"France","French Guiana":"French Guiana","French Polynesia":"French Polynesia","French Southern Territories":"French Southern Territories","Gabon":"Gabon","Gambia":"Gambia","Georgia":"Georgia","Germany":"Germany","Ghana":"Ghana","Gibraltar":"Gibraltar","Greece":"Greece","Greenland":"Greenland","Grenada":"Grenada","Guadeloupe":"Guadeloupe","Guam":"Guam","Guatemala":"Guatemala","Guernsey":"Guernsey","Guinea":"Guinea","Guinea-Bissau":"Guinea-Bissau","Guyana":"Guyana","Haiti":"Haiti","Heard Island and McDonald Islands":"Heard Island and McDonald Islands","Holy See (Vatican City State)":"Holy See (Vatican City State)","Honduras":"Honduras","Hong Kong":"Hong Kong","Hungary":"Hungary","Iceland":"Iceland","India":"India","Indonesia":"Indonesia","Iran, Islamic Republic of":"Iran, Islamic Republic of","Iraq":"Iraq","Ireland":"Ireland","Isle of Man":"Isle of Man","Israel":"Israel","Italy":"Italy","Jamaica":"Jamaica","Japan":"Japan","Jersey":"Jersey","Jordan":"Jordan","Kazakhstan":"Kazakhstan","Kenya":"Kenya","Kiribati":"Kiribati","Korea, Democratic People's Republic of":"Korea, Democratic People's Republic of","Korea, Republic of":"Korea, Republic of","Kuwait":"Kuwait","Kyrgyzstan":"Kyrgyzstan","Lao People's Democratic Republic":"Lao People's Democratic Republic","Latvia":"Latvia","Lebanon":"Lebanon","Lesotho":"Lesotho","Liberia":"Liberia","Libyan Arab Jamahiriya":"Libyan Arab Jamahiriya","Liechtenstein":"Liechtenstein","Lithuania":"Lithuania","Luxembourg":"Luxembourg","Macao":"Macao","Macedonia, the former Yugoslav Republic of":"Macedonia, the former Yugoslav Republic of","Madagascar":"Madagascar","Malawi":"Malawi","Malaysia":"Malaysia","Maldives":"Maldives","Mali":"Mali","Malta":"Malta","Marshall Islands":"Marshall Islands","Martinique":"Martinique","Mauritania":"Mauritania","Mauritius":"Mauritius","Mayotte":"Mayotte","Mexico":"Mexico","Micronesia, Federated States of":"Micronesia, Federated States of","Moldova, Republic of":"Moldova, Republic of","Monaco":"Monaco","Mongolia":"Mongolia","Montenegro":"Montenegro","Montserrat":"Montserrat","Morocco":"Morocco","Mozambique":"Mozambique","Myanmar":"Myanmar","Namibia":"Namibia","Nauru":"Nauru","Nepal":"Nepal","Netherlands":"Netherlands","Netherlands Antilles":"Netherlands Antilles","New Caledonia":"New Caledonia","New Zealand":"New Zealand","Nicaragua":"Nicaragua","Niger":"Niger","Nigeria":"Nigeria","Niue":"Niue","Norfolk Island":"Norfolk Island","Northern Mariana Islands":"Northern Mariana Islands","Norway":"Norway","Oman":"Oman","Pakistan":"Pakistan","Palau":"Palau","Palestinian Territory, Occupied":"Palestinian Territory, Occupied","Panama":"Panama","Papua New Guinea":"Papua New Guinea","Paraguay":"Paraguay","Peru":"Peru","Philippines":"Philippines","Pitcairn":"Pitcairn","Poland":"Poland","Portugal":"Portugal","Puerto Rico":"Puerto Rico","Qatar":"Qatar","R\u00e9union":"R\u00e9union","Romania":"Romania","Russian Federation":"Russian Federation","Rwanda":"Rwanda","Saint Barth\u00e9lemy":"Saint Barth\u00e9lemy","Saint Helena":"Saint Helena","Saint Kitts and Nevis":"Saint Kitts and Nevis","Saint Lucia":"Saint Lucia","Saint Martin (French part)":"Saint Martin (French part)","Saint Pierre and Miquelon":"Saint Pierre and Miquelon","Saint Vincent and the Grenadines":"Saint Vincent and the Grenadines","Samoa":"Samoa","San Marino":"San Marino","Sao Tome and Principe":"Sao Tome and Principe","Saudi Arabia":"Saudi Arabia","Senegal":"Senegal","Serbia":"Serbia","Seychelles":"Seychelles","Sierra Leone":"Sierra Leone","Singapore":"Singapore","Slovakia":"Slovakia","Slovenia":"Slovenia","Solomon Islands":"Solomon Islands","Somalia":"Somalia","South Africa":"South Africa","South Georgia and the South Sandwich Islands":"South Georgia and the South Sandwich Islands","Spain":"Spain","Sri Lanka":"Sri Lanka","Sudan":"Sudan","Suriname":"Suriname","Svalbard and Jan Mayen":"Svalbard and Jan Mayen","Swaziland":"Swaziland","Sweden":"Sweden","Switzerland":"Switzerland","Syrian Arab Republic":"Syrian Arab Republic","Taiwan, Province of China":"Taiwan, Province of China","Tajikistan":"Tajikistan","Tanzania, United Republic of":"Tanzania, United Republic of","Thailand":"Thailand","Timor-Leste":"Timor-Leste","Togo":"Togo","Tokelau":"Tokelau","Tonga":"Tonga","Trinidad and Tobago":"Trinidad and Tobago","Tunisia":"Tunisia","Turkey":"Turkey","Turkmenistan":"Turkmenistan","Turks and Caicos Islands":"Turks and Caicos Islands","Tuvalu":"Tuvalu","Uganda":"Uganda","Ukraine":"Ukraine","United Arab Emirates":"United Arab Emirates","United Kingdom":"United Kingdom","United States":"United States","United States Minor Outlying Islands":"United States Minor Outlying Islands","Uruguay":"Uruguay","Uzbekistan":"Uzbekistan","Vanuatu":"Vanuatu","Venezuela, Bolivarian Republic of":"Venezuela, Bolivarian Republic of","Viet Nam":"Viet Nam","Virgin Islands, British":"Virgin Islands, British","Virgin Islands, U.S.":"Virgin Islands, U.S.","Wallis and Futuna":"Wallis and Futuna","Western Sahara":"Western Sahara","Yemen":"Yemen","Zambia":"Zambia","Zimbabwe":"Zimbabwe","teams.team":" Team","teams.member":" Member"},"braintreeMerchantId":null,"braintreeToken":null,"cardUpFront":false,"collectsBillingAddress":false,"collectsEuropeanVat":false,"createsAdditionalTeams":true,"csrfToken":"6tIwcwGgl3Z97HwZTfN96P9N4ai3yzWwHYeo4yrO","currencySymbol":"$","env":"production","roles":[],"state":{"user":null,"teams":[],"currentTeam":null},"stripeKey":"pk_live_XAQ6mnkgzy43NleiJoVpsHpY","teamsPrefix":"teams","teamsIdentifiedByPath":false,"userId":null,"usesApi":false,"usesBraintree":false,"usesTeams":false,"usesStripe":true,"chargesUsersPerSeat":false,"seatName":null,"chargesTeamsPerSeat":false,"teamSeatName":null,"chargesUsersPerTeam":false,"chargesTeamsPerMember":false};
+        window.Services = {
+            algoliaKey: "136d2809033ac67e03a9233e67033b0d",
+            algoliaId: "87JYXOR1IW",
+            scoutPrefix: "prod_"
+        };
+    </script>
+<style>
+         .uncategorized-bg { background-color: #ffffff; } 
+ .uncategorized .quiz__interstitial-bottom { background-color: #ffffff; } .uncategorized .quiz__interstitial-bottom::before { background-color: #ffffff; } .uncategorized .card-header { background-color: #ffffff; } .uncategorized .section__bar { background-color: #ffffff; } .category-tag.uncategorized { background-color: #ffffff; } .group-banner.uncategorized { background-color: #ffffff; } .survival-bg { background-color: #89b68f; } 
+ .survival .quiz__interstitial-bottom { background-color: #89b68f; } .survival .quiz__interstitial-bottom::before { background-color: #89b68f; } .survival .card-header { background-color: #89b68f; } .survival .section__bar { background-color: #89b68f; } .category-tag.survival { background-color: #89b68f; } .group-banner.survival { background-color: #89b68f; } .history-bg { background-color: #ffa55c; } 
+ .history .quiz__interstitial-bottom { background-color: #ffa55c; } .history .quiz__interstitial-bottom::before { background-color: #ffa55c; } .history .card-header { background-color: #ffa55c; } .history .section__bar { background-color: #ffa55c; } .category-tag.history { background-color: #ffa55c; } .group-banner.history { background-color: #ffa55c; } .science-bg { background-color: #2e7aa3; } 
+ .science .quiz__interstitial-bottom { background-color: #2e7aa3; } .science .quiz__interstitial-bottom::before { background-color: #2e7aa3; } .science .card-header { background-color: #2e7aa3; } .science .section__bar { background-color: #2e7aa3; } .category-tag.science { background-color: #2e7aa3; } .group-banner.science { background-color: #2e7aa3; } .diy-bg { background-color: #938270; } 
+ .diy .quiz__interstitial-bottom { background-color: #938270; } .diy .quiz__interstitial-bottom::before { background-color: #938270; } .diy .card-header { background-color: #938270; } .diy .section__bar { background-color: #938270; } .category-tag.diy { background-color: #938270; } .group-banner.diy { background-color: #938270; } .trivia-bg { background-color: #FCE352; } 
+ .trivia .quiz__interstitial-bottom { background-color: #FCE352; } .trivia .quiz__interstitial-bottom::before { background-color: #FCE352; } .trivia .card-header { background-color: #FCE352; } .trivia .section__bar { background-color: #FCE352; } .category-tag.trivia { background-color: #FCE352; } .group-banner.trivia { background-color: #FCE352; } .sports-bg { background-color: #2d2e2d; } 
+ .sports .quiz__interstitial-bottom { background-color: #2d2e2d; } .sports .quiz__interstitial-bottom::before { background-color: #2d2e2d; } .sports .card-header { background-color: #2d2e2d; } .sports .section__bar { background-color: #2d2e2d; } .category-tag.sports { background-color: #2d2e2d; } .group-banner.sports { background-color: #2d2e2d; } .entertainment-bg { background-color: #9f88b8; } 
+ .entertainment .quiz__interstitial-bottom { background-color: #9f88b8; } .entertainment .quiz__interstitial-bottom::before { background-color: #9f88b8; } .entertainment .card-header { background-color: #9f88b8; } .entertainment .section__bar { background-color: #9f88b8; } .category-tag.entertainment { background-color: #9f88b8; } .group-banner.entertainment { background-color: #9f88b8; } .animals-bg { background-color: #B0B689; } 
+ .animals .quiz__interstitial-bottom { background-color: #B0B689; } .animals .quiz__interstitial-bottom::before { background-color: #B0B689; } .animals .card-header { background-color: #B0B689; } .animals .section__bar { background-color: #B0B689; } .category-tag.animals { background-color: #B0B689; } .group-banner.animals { background-color: #B0B689; } .geography-bg { background-color: #89b68f; } 
+ .geography .quiz__interstitial-bottom { background-color: #89b68f; } .geography .quiz__interstitial-bottom::before { background-color: #89b68f; } .geography .card-header { background-color: #89b68f; } .geography .section__bar { background-color: #89b68f; } .category-tag.geography { background-color: #89b68f; } .group-banner.geography { background-color: #89b68f; } .cars-bg { background-color: #ef5a57; } 
+ .cars .quiz__interstitial-bottom { background-color: #ef5a57; } .cars .quiz__interstitial-bottom::before { background-color: #ef5a57; } .cars .card-header { background-color: #ef5a57; } .cars .section__bar { background-color: #ef5a57; } .category-tag.cars { background-color: #ef5a57; } .group-banner.cars { background-color: #ef5a57; } .general-knowledge-quizzes-bg { background-color: #40A9BF; } 
+ .general-knowledge-quizzes .quiz__interstitial-bottom { background-color: #40A9BF; } .general-knowledge-quizzes .quiz__interstitial-bottom::before { background-color: #40A9BF; } .general-knowledge-quizzes .card-header { background-color: #40A9BF; } .general-knowledge-quizzes .section__bar { background-color: #40A9BF; } .category-tag.general-knowledge-quizzes { background-color: #40A9BF; } .group-banner.general-knowledge-quizzes { background-color: #40A9BF; }
+    </style>
+</head>
+<body class="with-navbar ">
+<div id="spark-app" class="content" v-cloak="">
 
-    window.fbAsyncInit = function() {
-        FB.init({
-            appId: '110908659288757',
-            xfbml: false,
-            version: 'v2.7'
-        });
-    };
+<div class="nav-container">
+<div class="bg-light navbar-light bg-navbar-white" data-sticky="top">
+<div class="container">
+<nav class="navbar navbar-expand-lg">
+<a class="navbar-brand" href="/">
+<svg width="181" height="50" viewBox="0 0 181 50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="b">
+<stop id="logo-stopcolor-top" stop-color="#50514F" stop-opacity=".25" offset="0%"></stop>
+<stop id="logo-stopcolor-bottom" stop-color="#50514F" stop-opacity=".101" offset="100%"></stop>
+</linearGradient>
+<path d="M24.928.145c13.757 0 24.927 11.165 24.927 24.917 0 13.753-11.17 24.918-24.927 24.918C11.17 49.98 0 38.815 0 25.062 0 11.31 11.17.145 24.928.145z" id="a"></path>
+</defs>
+<g fill="none" fill-rule="evenodd">
+<path id="logo-fill-quiz" d="M76.252 40h-5.115l-2.698-4.14a2.875 2.875 0 0 1-.415.032h-.385c-1.066 0-2.094-.142-3.082-.426a11.552 11.552 0 0 1-2.776-1.203A11.987 11.987 0 0 1 56 23.985a11.926 11.926 0 0 1 .415-3.162 11.9 11.9 0 0 1 3.004-5.248 11.566 11.566 0 0 1 5.137-3.057 11.126 11.126 0 0 1 3.082-.425c1.067 0 2.097.142 3.09.425.994.284 1.92.682 2.777 1.196a11.86 11.86 0 0 1 5.341 7.11c.278 1.015.416 2.069.416 3.16a11.85 11.85 0 0 1-.463 3.306 12.223 12.223 0 0 1-1.31 2.993 11.97 11.97 0 0 1-2.046 2.511c-.8.75-1.692 1.376-2.675 1.878L76.252 40zm-1.46-16.015c0 1.005-.188 1.95-.564 2.832a7.556 7.556 0 0 1-1.53 2.319 7.15 7.15 0 0 1-2.274 1.572 6.825 6.825 0 0 1-2.785.578 6.81 6.81 0 0 1-2.792-.578 7.272 7.272 0 0 1-2.274-1.572 7.475 7.475 0 0 1-1.538-2.319 7.148 7.148 0 0 1-.564-2.832 7.26 7.26 0 0 1 .564-2.849 7.329 7.329 0 0 1 1.538-2.327 7.34 7.34 0 0 1 2.274-1.565 6.81 6.81 0 0 1 2.792-.577c.984 0 1.912.192 2.785.577a7.217 7.217 0 0 1 2.274 1.565 7.406 7.406 0 0 1 1.53 2.327 7.26 7.26 0 0 1 .564 2.849zm19.123 8.813c-.346.32-.716.62-1.11.903a8.327 8.327 0 0 1-1.234.736c-.43.207-.873.373-1.33.495-.455.123-.92.184-1.391.184a7.65 7.65 0 0 1-2.926-.56 7.22 7.22 0 0 1-2.399-1.59c-.687-.688-1.226-1.524-1.62-2.51-.393-.986-.59-2.091-.59-3.318v-9.464h4.28v9.464c0 .577.086 1.09.259 1.544.173.453.406.833.7 1.142.293.31.636.544 1.03.704.393.16.815.24 1.266.24.44 0 .857-.104 1.25-.312a3.516 3.516 0 0 0 1.03-.823 3.95 3.95 0 0 0 .693-1.16c.167-.43.252-.876.252-1.335v-9.464h4.293v17.122H95.33l-1.415-1.998zm5.861 2.318h4.102V17.694h-4.102v17.422zm4.694-22.57c0 .355-.066.686-.198.994a2.559 2.559 0 0 1-1.334 1.35 2.37 2.37 0 0 1-.972.203c-.345 0-.67-.068-.974-.203a2.518 2.518 0 0 1-1.32-1.35 2.5 2.5 0 0 1-.197-.994 2.592 2.592 0 0 1 .728-1.798c.222-.228.485-.41.789-.545.304-.136.629-.203.974-.203.344 0 .668.067.972.203a2.536 2.536 0 0 1 1.334 1.357c.132.312.198.641.198.986zM121 35.116h-14.368l7.256-13.004h-7.256v-4.438H121l-7.257 13.004H121v4.438z" fill="#EF5A57"></path>
+<path id="logo-fill-griz" d="M142 33.267a12.25 12.25 0 0 1-3.659 2.026 12.618 12.618 0 0 1-4.2.707 12.516 12.516 0 0 1-6.12-1.577 12.493 12.493 0 0 1-2.46-1.801 11.321 11.321 0 0 1-1.904-2.33 11.378 11.378 0 0 1-1.222-2.756 10.772 10.772 0 0 1-.435-3.06c0-1.055.145-2.07.435-3.043a11.46 11.46 0 0 1 1.222-2.741 11.306 11.306 0 0 1 1.903-2.33 12.257 12.257 0 0 1 2.461-1.793 12.634 12.634 0 0 1 6.12-1.569c1.455 0 2.855.235 4.2.707A12.253 12.253 0 0 1 142 15.733l-2.461 3.883a7.918 7.918 0 0 0-2.461-1.607 7.547 7.547 0 0 0-2.937-.583 7.51 7.51 0 0 0-2.896.56 7.746 7.746 0 0 0-2.37 1.513 7.129 7.129 0 0 0-1.609 2.237 6.464 6.464 0 0 0-.59 2.74c0 .984.196 1.906.59 2.765a7.2 7.2 0 0 0 1.608 2.252 7.667 7.667 0 0 0 2.371 1.521c.902.373 1.867.56 2.896.56a7.35 7.35 0 0 0 1.722-.202 8.202 8.202 0 0 0 1.592-.56v-6.335H142v8.79zM149.544 35H145V18h1.099l1.498 2.016a8.012 8.012 0 0 1 2.496-1.468 8.296 8.296 0 0 1 2.896-.516H157v4.317h-4.01c-.478 0-.928.085-1.35.254-.421.17-.787.403-1.098.699a3.23 3.23 0 0 0-.732 1.048 3.15 3.15 0 0 0-.266 1.285V35zM159 35h4V18h-4v17zm4-21.5c0 .348-.066.673-.197.975a2.51 2.51 0 0 1-.539.79 2.6 2.6 0 0 1-.797.536c-.304.132-.629.199-.974.199s-.67-.067-.974-.2a2.522 2.522 0 0 1-.79-.535 2.564 2.564 0 0 1-.532-.79A2.414 2.414 0 0 1 158 13.5a2.54 2.54 0 0 1 .728-1.765c.223-.225.487-.403.79-.536.305-.133.63-.199.975-.199s.67.066.974.2c.305.132.57.31.797.535A2.487 2.487 0 0 1 163 13.5zM181 35h-15l7.576-12.675H166V18h15l-7.576 12.675H181V35z" fill="#2D2E2D"></path>
+<mask id="c" fill="#fff">
+<use xlink:href="#a"></use>
+</mask>
+<use fill="url(#b)" xlink:href="#a"></use>
+<path d="M15.86 11.704c.091-.06.184-.117.276-.174a17.412 17.412 0 0 1 1.982-1.052 17.007 17.007 0 0 1 7-1.502 17 17 0 0 1 6.967 1.488 17.359 17.359 0 0 1 2.307 1.25c2.958-1.701 4.72-2.462 5.287-2.282.899.284 2.172 1.23 2.5 2.43.207.76-.307 2.997-1.544 6.709.064.122.126.244.188.368 1.26 2.535 1.693 5.774 1.973 8.466 1.314 11.935.685 19.947 0 23.762-2.452 13.65-33.303 11.903-35.922-.965-.787-3.872.252-19.783.565-22.797.313-3.013.708-5.911 1.96-8.44.072-.147.147-.292.223-.436-1.227-3.687-1.737-5.91-1.53-6.667.328-1.2 1.601-2.146 2.5-2.43.566-.18 2.322.578 5.268 2.272z" fill="#2D2E2D" mask="url(#c)"></path>
+<path d="M18.166 28.097a3.418 3.418 0 1 0 .001-6.836 3.418 3.418 0 0 0-.001 6.836zm0 1.514a4.932 4.932 0 1 1 0-9.862 4.932 4.932 0 1 1 0 9.862z" fill="#FFF" mask="url(#c)"></path>
+<path id="logo-fill-monocle" d="M18.166 28.128a3.448 3.448 0 1 1-.002-6.897 3.448 3.448 0 0 1 .002 6.897z" fill-opacity=".5" fill="#F2F5F0" mask="url(#c)"></path>
+<path d="M31.909 25.804c.836 0 1.514-.678 1.514-1.514s-3.028-.836-3.028 0 .678 1.514 1.514 1.514zm-6.774.828c-5.32 0-5.32 3.05-5.32 6.81 0 3.763 2.382 6.812 5.32 6.812 2.94 0 5.322-3.05 5.322-6.811 0-3.762-.28-6.811-5.322-6.811z" fill="#FFF" mask="url(#c)"></path>
+<path d="M24.706 34.706c.306.1.614.102.923 0 2.251-.787 6.666-6.46-.461-6.46-7.128 0-2.714 5.673-.462 6.46z" fill="#2D2E2D" mask="url(#c)"></path>
+<path fill="#FFF" mask="url(#c)" d="M16.595 28.069l-1.039-.6-1.259 2.18 1.04.6zm-2.349 4.503h1.2v-1.968h-1.2zm0 2.798h1.2v-1.967h-1.2zm0 2.8h1.2v-1.968h-1.2zm0 2.799h1.2V39h-1.2zm0 2.799h1.2v-1.969h-1.2zm0 2.798h1.2v-1.968h-1.2zm0 2.799h1.2v-1.968h-1.2z"></path>
+</g>
+</svg>
+</a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<i class="icon-menu h4"></i>
+</button>
+<div class="collapse navbar-collapse justify-content-between w-100" id="navbarNav">
+<div></div>
+<ul class="navbar-nav align-items-center">
+<li class="nav-item px-2">
+ <a class="nav-link" href="/pro?utm_source=quizgriz&amp;utm_campaign=header_go_premium">
+<img class="header-nav-icon" src="https://files.grizly.com/f/20191228013346-xqrchj/img/icon-award.svg">
+<span>Get Premium</span>
+</a>
+</li>
+<li class="nav-item px-2">
+<a class="nav-link" href="/login">Log in</a>
+</li>
+<li class="nav-item px-2">
+<a class="nav-link button btn btn-red" href="/register">Sign Up For Free</a>
+</li>
+</ul>
+</div>
 
-    (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) {
-            return;
-        }
-        js = d.createElement(s);
-        js.id = id;
-        js.src = "//connect.facebook.net/en_US/sdk.js";
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-</script>
+</nav>
+</div>
 
-<div id="site" class="left relative">
-    <div id="site-wrap" class="left relative">
-                <div id="fly-wrap">
-	<div class="fly-wrap-out">
-		<div class="fly-side-wrap">
-			<ul class="fly-bottom-soc left relative">
-									<li class="fb-soc">
-						<a href="https://www.facebook.com/grizlylivewild" target="_blank">
-						<i class="fa fa-facebook-square fa-2"></i>
-						</a>
-					</li>
-													<li class="twit-soc">
-						<a href="https://twitter.com/begrizly" target="_blank">
-						<i class="fa fa-twitter fa-2"></i>
-						</a>
-					</li>
-																	<li class="inst-soc">
-						<a href="https://www.instagram.com/be.grizly/" target="_blank">
-						<i class="fa fa-instagram fa-2"></i>
-						</a>
-					</li>
-																													<li class="rss-soc">
-						<a href="https://grizly.com/feed/rss/" target="_blank">
-						<i class="fa fa-rss fa-2"></i>
-						</a>
-					</li>
-							</ul>
-		</div><!--fly-side-wrap-->
-		<div class="fly-wrap-in">
-			<div id="fly-menu-wrap">
-				<nav class="fly-nav-menu left relative">
-					<div class="menu-categories-container"><ul id="menu-categories" class="menu"><li id="menu-item-83" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-83"><a href="https://grizly.com/category/lifestyle/">Lifestyle</a></li>
-<li id="menu-item-85" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85"><a href="https://grizly.com/category/entertainment/">Entertainment</a></li>
-<li id="menu-item-84" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84"><a href="https://grizly.com/category/science/">Science</a></li>
-<li id="menu-item-82" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82"><a href="https://grizly.com/category/health/">Health</a></li>
-<li id="menu-item-86" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-86"><a href="https://grizly.com/category/business/">Business</a></li>
-<li id="menu-item-6721" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6721"><a href="https://grizly.com/category/diy/">DIY</a></li>
-<li id="menu-item-6722" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6722"><a href="https://grizly.com/category/survival/">Survival</a></li>
-<li id="menu-item-6632" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6632"><a href="https://grizly.com/category/cars/">Cars</a></li>
-<li id="menu-item-5872" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5872"><a href="https://grizly.com/category/quizzes/">Quizzes</a></li>
-</ul></div>				</nav>
-			</div><!--fly-menu-wrap-->
-		</div><!--fly-wrap-in-->
-	</div><!--fly-wrap-out-->
-</div><!--fly-wrap-->        <div id="head-main-wrap" class="left relative">
-            <div id="head-main-top" class="left relative">
-                                                                                                </div><!--head-main-top-->
-            <div id="main-nav-wrap">
-                <div class="nav-out">
-                    <div class="nav-in">
-                        <div id="main-nav-cont" class="left" itemscope="" itemtype="http://schema.org/Organization">
-                            <div class="nav-logo-out">
-                                <div class="nav-left-wrap left relative">
-                                    <div class="fly-but-wrap left relative">
-                                        <span></span>
-                                        <span></span>
-                                        <span></span>
-                                        <span></span>
-                                    </div><!--fly-but-wrap-->
-                                                                            <div class="nav-logo left">
-                                                                                            <a itemprop="url" href="https://grizly.com/"><img itemprop="logo" src="http://grizly.com/wp-content/uploads/2016/05/GrizlyLogo-5.png" alt="Grizly"></a>
-                                                                                                                                        <h2 class="mvp-logo-title">Grizly</h2>
-                                                                                    </div><!--nav-logo-->
-                                                                    </div><!--nav-left-wrap-->
-                                <div class="nav-logo-in">
-                                    <div class="nav-menu-out">
-                                        <div class="nav-menu-in">
-                                            <nav class="main-menu-wrap left">
-                                                                                            </nav>
-                                        </div><!--nav-menu-in-->
-                                        <div class="nav-right-wrap relative">
-                                            <div class="nav-search-wrap left relative">
-                                                <span class="nav-search-but left"><i class="fa fa-search fa-2"></i></span>
-                                                <div class="search-fly-wrap">
-                                                    <form method="get" id="searchform" action="https://grizly.com/">
-	<input type="text" name="s" id="s" value="Type search term and press enter" onfocus="if (this.value == &quot;Type search term and press enter&quot;) { this.value = &quot;&quot;; }" onblur="if (this.value == &quot;&quot;) { this.value = &quot;Type search term and press enter&quot;; }">
-	<input type="hidden" id="searchsubmit" value="Search">
-</form>                                                </div><!--search-fly-wrap-->
-                                            </div><!--nav-search-wrap-->
-                                                                                            <a href="https://www.facebook.com/grizlylivewild" target="_blank">
-                                                    <span class="nav-soc-but"><i class="fa fa-facebook fa-2"></i></span>
-                                                </a>
-                                                                                                                                        <a href="https://twitter.com/begrizly" target="_blank">
-                                                    <span class="nav-soc-but"><i class="fa fa-twitter fa-2"></i></span>
-                                                </a>
-                                                                                    </div><!--nav-right-wrap-->
-                                    </div><!--nav-menu-out-->
-                                </div><!--nav-logo-in-->
-                            </div><!--nav-logo-out-->
-                        </div><!--main-nav-cont-->
-                    </div><!--nav-in-->
-                </div><!--nav-out-->
-            </div><!--main-nav-wrap-->
-        </div><!--head-main-wrap-->
-                            <div id="body-main-wrap" class="left relative">
-                                                                <div class="body-main-out relative">
-                    <div class="body-main-in">
-                        <div id="body-main-cont" class="left relative">
-                                                                                        <div id="post-main-wrap" class="left relative" itemscope="" itemtype="http://schema.org/Article">
-			<div id="post-left-col" class="relative">
-			<article id="post-area" class="post-71 page type-page status-publish hentry">
-				<div id="post-header">
-					<h1 class="post-title left" itemprop="name headline">Privacy Policy</h1>
-				</div><!--post-header-->
-								<div id="content-area" itemprop="articleBody" class="post-71 page type-page status-publish hentry">
-					<div id="content-main" class="left relative">
-						<div id="tps_slideContainer_71" class="theiaPostSlider_slides"><div>
+</div>
+<nav aria-label="breadcrumb" role="navigation" class="subnav bg-white border-top border-bottom">
+<div class="container">
+<div class="row justify-content-center navbar-light">
+<div class="col">
+<ul class="nav d-flex justify-content-between text-secondary">
+<li class="nav-item"><a href="/leaderboard" class="nav-link">Leaderboard</a></li>
+<li class="nav-item"><a href="/quizzes" class="nav-link">All Quizzes</a></li>
+<li class="nav-item"><a href="/category/history" class="nav-link">History</a></li>
+<li class="nav-item"><a href="/category/survival" class="nav-link">Survival</a></li>
+<li class="nav-item"><a href="/category/cars" class="nav-link">Cars &amp; Trucks</a></li>
+<li class="nav-item"><a href="/category/science" class="nav-link">Science</a></li>
+<li class="nav-item"><a href="/category/diy" class="nav-link">DIY</a></li>
+<li class="nav-item"><a href="/category/sports" class="nav-link">Sports</a></li>
+<li class="nav-item"><a href="/category/entertainment" class="nav-link">Entertainment</a></li>
+</ul>
+</div>
 
-<p>Grizly respects and protects the privacy of the individuals that use Grizly’s services (“Grizly Services”). Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission or as explained in this privacy policy (“Privacy Policy”).</p>
-<h2>Grizly and Cookies</h2>
-<p>Upon your first visit to grizly.com, Grizly sends a “cookie” to your computer. A cookie is a piece of data that identifies you as a unique user. Grizly uses cookies to improve the quality of our service and to understand our user base more. Grizly does this by storing user preferences in cookies and by tracking user trends and patterns of how people use the Grizly Services. Grizly will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order.</p>
-<p>Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some parts of the Grizly Services may not function properly if you refuse cookies.</p>
-<h2>Third Party Cookies</h2>
-<p>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.</p>
-<h2>Policy against advertising our website using unsolicited email messages</h2>
-<p>We require that all e-mails promoting Grizly.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and website using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.</p>
-<p>If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email us (Contact@Grizly.com). We will immediately investigate all allegations made related to unsolicited messages.</p>
-<p>You can view our Anti-Spam Policy in its entirety <a href="http://grizly.com/unsolicited-e-mail-anti-spam-policy/">here</a>.</p>
-<h2>What Information Do We Collect?</h2>
-<p>Grizly does not collect any unique information about you (such as your name, email address, etc.) except when you specifically and knowingly provide such information. For example, Grizly DOES collect such information from those users registering as Community Users and/or User Editors. Grizly notes and saves information such as time of day, browser type, browser language, and IP address with each query. That information is used to verify our records and to provide more relevant services to users. For example, Grizly may use your IP address or browser language to determine which language to use when showing search results or advertisements.</p>
-<h2>Links to Other Sites</h2>
-<p>The stories/sites displayed and/or linked to by the Grizly.com Service are developed by people over whom Grizly exercises no control. Other links are also on sites not controlled by Grizly. These other sites may send their own cookies to users, collect data, or solicit personal information. Grizly encourages you to read the privacy policy of all web sites you visit. Grizly may choose to exhibit its results in the form of a “URL redirecter.” When Grizly uses a URL redirecter, if you click on a URL on a Grizly page, information about the click is sent to Grizly, and Grizly in turn sends you to the site you clicked on. Grizly uses this URL information to understand and improve the quality of Grizly’s technology.</p>
-<h2>With Whom Does Grizly Share Information?</h2>
-<p>Grizly may share information about you with advertisers, business partners, sponsors, and other third parties. However, we only divulge aggregate information about our users and will not share personally identifiable information with any third party without your express consent. For example, we may disclose how frequently the average Grizly user visits Grizly, or which Grizly pages are most often used. Please be aware, however, that we will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order. Further, Grizly reserves the right to cooperate with legitimate law enforcement requests for information at its sole discretion.</p>
-<h2>Children’s Privacy</h2>
-<p>We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems.</p>
-<h2>Third Party Advertising</h2>
-<p>Grizly uses third-party advertising companies to serve ads when you visit our Web site. These companies may use cookies or web beacons to collect non-personally identifiable information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. To learn more about this behavioral advertising practice or to opt out, you can visit www.networkadvertising.org/managing/opt_out.asp. This automatically-collected data is also used by Grizly to analyze trends, administer the site and track users’ use of the site.</p>
-<p>In addition, Grizly collects personally identifiable information from users (including email addresses, names, gender, date of birth, and zip code) during the registration process. This information may be used by Grizly to improve our site and the overall user experience.</p>
-<h2>Geo Location Services</h2>
-<p>Grizly may, through its website, iPhone applications and related sites, request your location via a geolocation service. Through this service Grizly may collect, depending on the capabilities of your device, information about the wifi routers closest to you, indentifying information related to the cell towersclosest to you, and the strength of your wifi or cell signal. Grizly will use this information to return an estimated location. This information (including your IP address) may then be used by Grizly to develop new features, products or services. This information may also be shared on an aggregated or individual basis with our third party advertisers to display better-targeted advertising content.</p>
-<h2>Your consent and changes to the Privacy Policy</h2>
-<p>By using the Grizly Services and our web site, you consent to the collection and use of your information as we have outlined in this policy and to our Terms of Service Policy. Grizly may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.</p>
-<h2>Who can I ask if I have additional questions?</h2>
-<p>Feel free to contact us any time and we’ll answer any additional questions you may have. If you have additional questions, feel free to <a href="mailto:contact@grizly.com">contact us</a>.</p>
+</div>
 
-</div></div><div id="tps_nav_lower_71" class="theiaPostSlider_nav _center _lower _slide_number_0"><div class="_buttons"><a rel="prev" href="https://grizly.com/" class="_button _prev _another_post"><span class="_1"></span><span class="_2">Prev post</span><span class="_3"></span></a><span class="_text"></span><a rel="next" href="https://grizly.com/terms-of-service/" class="_button _next _another_post"><span class="_1"></span><span class="_2">Next post</span><span class="_3"></span></a></div><div class="_title"><span class="_helper"></span></div></div><div class="theiaPostSlider_footer _footer"></div><p><!-- END THEIA POST SLIDER --></p>
-<div data-theiapostslider-slideroptions="{&quot;slideContainer&quot;:&quot;#tps_slideContainer_71&quot;,&quot;nav&quot;:[&quot;.theiaPostSlider_nav&quot;],&quot;navText&quot;:&quot;%{currentSlide} of %{totalSlides}&quot;,&quot;helperText&quot;:&quot;&quot;,&quot;defaultSlide&quot;:0,&quot;transitionEffect&quot;:&quot;none&quot;,&quot;transitionSpeed&quot;:400,&quot;keyboardShortcuts&quot;:true,&quot;scrollAfterRefresh&quot;:false,&quot;numberOfSlides&quot;:1,&quot;slides&quot;:[],&quot;useSlideSources&quot;:true,&quot;themeType&quot;:&quot;classic&quot;,&quot;prevText&quot;:&quot;Prev&quot;,&quot;nextText&quot;:&quot;Next&quot;,&quot;buttonWidth&quot;:&quot;0&quot;,&quot;buttonWidth_post&quot;:&quot;0&quot;,&quot;postUrl&quot;:&quot;https:\/\/grizly.com\/privacy-policy\/&quot;,&quot;postId&quot;:71,&quot;refreshAds&quot;:true,&quot;refreshAdsEveryNSlides&quot;:&quot;1&quot;,&quot;adRefreshingMechanism&quot;:&quot;page&quot;,&quot;siteUrl&quot;:&quot;https:\/\/grizly.com&quot;,&quot;loopSlides&quot;:false,&quot;scrollTopOffset&quot;:&quot;0&quot;,&quot;hideNavigationOnFirstSlide&quot;:false,&quot;isRtl&quot;:false,&quot;prevPost&quot;:&quot;https:\/\/grizly.com\/&quot;,&quot;nextPost&quot;:&quot;https:\/\/grizly.com\/terms-of-service\/&quot;,&quot;prevText_post&quot;:&quot;Prev post&quot;,&quot;nextText_post&quot;:&quot;Next post&quot;}" data-theiapostslider-onchangeslide="&quot;&quot;"></div>												<div class="posts-nav-link">
-													</div><!--posts-nav-link-->
-											</div><!--content-main-->
-				</div><!--content-area-->
-			</article>
-		</div><!--post-left-col-->
-	</div><!--post-main-wrap-->
-</div><!--body-main-cont-->
-</div><!--body-main-in-->
-</div><!--body-main-out-->
-</div><!--body-main-wrap-->
-<footer id="foot-wrap" class="left relative">
-    <div id="foot-top-wrap" class="left relative">
-        <div class="body-main-out relative">
-            <div class="body-main-in">
-                <div id="foot-widget-wrap" class="left relative">
-                                            <div class="foot-widget left relative">
-                                                            <div class="foot-logo left realtive">
-                                    <img src="http://grizly.com/wp-content/uploads/2016/05/GrizlyLogoFooter-2.png" alt="Grizly">
-                                </div><!--foot-logo-->
-                                                        <div class="foot-info-text left relative">
-                                Grizly is the men's go-to website delivering fun, quality, and trending content on lifestyle, health, fitness, entrepreneurship, tech, and more.                            </div><!--footer-info-text-->
-                            <div class="foot-soc left relative">
-                                <ul class="foot-soc-list relative">
-                                                                            <li class="foot-soc-fb">
-                                            <a href="https://www.facebook.com/grizlylivewild" target="_blank"><i class="fa fa-facebook-square fa-2"></i></a>
-                                        </li>
-                                                                                                                <li class="foot-soc-twit">
-                                            <a href="https://twitter.com/begrizly" target="_blank"><i class="fa fa-twitter-square fa-2"></i></a>
-                                        </li>
-                                                                                                                                                    <li class="foot-soc-inst">
-                                            <a href="https://www.instagram.com/be.grizly/" target="_blank"><i class="fa fa-instagram fa-2"></i></a>
-                                        </li>
-                                                                                                                                                                                                                                                                <li class="foot-soc-rss">
-                                            <a href="https://grizly.com/feed/rss/" target="_blank"><i class="fa fa-rss-square fa-2"></i></a>
-                                        </li>
-                                                                    </ul>
-                            </div><!--foot-soc-->
-                        </div><!--foot-widget-->
-                                        <div id="mvp_catlist_widget-8" class="foot-widget left relative mvp_catlist_widget"><h3 class="foot-head">Great Stories from Grizly</h3>			<div class="blog-widget-wrap left relative">
-				<ul class="blog-widget-list left relative">
-											<li>
+</div>
 
-							<a href="https://grizly.com/diy/greatest-bathroom-makeover/" rel="bookmark">
-															<div class="blog-widget-img left relative">
-									<img width="300" height="180" src="https://grizly.com/wp-content/uploads/2017/02/BM-39-1-300x180.jpg" class="widget-img-main wp-post-image" alt="" srcset="https://grizly.com/wp-content/uploads/2017/02/BM-39-1-300x180.jpg 300w, https://grizly.com/wp-content/uploads/2017/02/BM-39-1-768x461.jpg 768w, https://grizly.com/wp-content/uploads/2017/02/BM-39-1-450x270.jpg 450w, https://grizly.com/wp-content/uploads/2017/02/BM-39-1.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px">									<img width="80" height="80" src="https://grizly.com/wp-content/uploads/2017/02/BM-39-1-80x80.jpg" class="widget-img-side wp-post-image" alt="" srcset="https://grizly.com/wp-content/uploads/2017/02/BM-39-1-80x80.jpg 80w, https://grizly.com/wp-content/uploads/2017/02/BM-39-1-150x150.jpg 150w, https://grizly.com/wp-content/uploads/2017/02/BM-39-1-300x300.jpg 300w" sizes="(max-width: 80px) 100vw, 80px">																		<div class="feat-info-wrap">
-										<div class="feat-info-views">
-											<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">3.1K</span>
-										</div><!--feat-info-views-->
-																			</div><!--feat-info-wrap-->
-																										</div><!--blog-widget-img-->
-														<div class="blog-widget-text left relative">
-																<h2>Is This the GREATEST Bathroom Makeover of All Time? This DIY Expert Certainly Thinks So!</h2>
-								<p>There is something absolutely regal about the phrase, “Master Bathroom.” Why, yes, I would...</p>
-							</div><!--blog-widget-text-->
-							</a>
-						</li>
-											<li>
+</nav>
+</div>
 
-							<a href="https://grizly.com/diy/a-gift-for-my-daughter-email/" rel="bookmark">
-															<div class="blog-widget-img left relative">
-									<img width="300" height="180" src="https://grizly.com/wp-content/uploads/2017/01/mountains-featured-image-300x180.jpg" class="widget-img-main wp-post-image" alt="woodworking project" srcset="https://grizly.com/wp-content/uploads/2017/01/mountains-featured-image-300x180.jpg 300w, https://grizly.com/wp-content/uploads/2017/01/mountains-featured-image-768x461.jpg 768w, https://grizly.com/wp-content/uploads/2017/01/mountains-featured-image-450x270.jpg 450w, https://grizly.com/wp-content/uploads/2017/01/mountains-featured-image.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px">									<img width="80" height="80" src="https://grizly.com/wp-content/uploads/2017/01/mountains-featured-image-80x80.jpg" class="widget-img-side wp-post-image" alt="woodworking project" srcset="https://grizly.com/wp-content/uploads/2017/01/mountains-featured-image-80x80.jpg 80w, https://grizly.com/wp-content/uploads/2017/01/mountains-featured-image-150x150.jpg 150w, https://grizly.com/wp-content/uploads/2017/01/mountains-featured-image-300x300.jpg 300w" sizes="(max-width: 80px) 100vw, 80px">																		<div class="feat-info-wrap">
-										<div class="feat-info-views">
-											<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">1.9K</span>
-										</div><!--feat-info-views-->
-																			</div><!--feat-info-wrap-->
-																										</div><!--blog-widget-img-->
-														<div class="blog-widget-text left relative">
-																<h2>A Gift For My Daughter – Mountains from Barn Wood</h2>
-								<p>I want to share a woodworking project I just completed. It wasn’t easy, but...</p>
-							</div><!--blog-widget-text-->
-							</a>
-						</li>
-											<li>
-
-							<a href="https://grizly.com/diy/diy-bathroom-cabinet/" rel="bookmark">
-															<div class="blog-widget-img left relative">
-									<img width="300" height="180" src="https://grizly.com/wp-content/uploads/2017/02/BR-35-1-300x180.jpg" class="widget-img-main wp-post-image" alt="Cabinet" srcset="https://grizly.com/wp-content/uploads/2017/02/BR-35-1-300x180.jpg 300w, https://grizly.com/wp-content/uploads/2017/02/BR-35-1-768x461.jpg 768w, https://grizly.com/wp-content/uploads/2017/02/BR-35-1-450x270.jpg 450w, https://grizly.com/wp-content/uploads/2017/02/BR-35-1.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px">									<img width="80" height="80" src="https://grizly.com/wp-content/uploads/2017/02/BR-35-1-80x80.jpg" class="widget-img-side wp-post-image" alt="Cabinet" srcset="https://grizly.com/wp-content/uploads/2017/02/BR-35-1-80x80.jpg 80w, https://grizly.com/wp-content/uploads/2017/02/BR-35-1-150x150.jpg 150w, https://grizly.com/wp-content/uploads/2017/02/BR-35-1-300x300.jpg 300w" sizes="(max-width: 80px) 100vw, 80px">																		<div class="feat-info-wrap">
-										<div class="feat-info-views">
-											<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">3.4K</span>
-										</div><!--feat-info-views-->
-																			</div><!--feat-info-wrap-->
-																										</div><!--blog-widget-img-->
-														<div class="blog-widget-text left relative">
-																<h2>Watch as This Guy Turns His Hidden Bathroom Medicine Cabinet Into a Futuristic Storage Space!</h2>
-								<p>Sometimes the greatest creations are made out of necessity. One man, who goes by...</p>
-							</div><!--blog-widget-text-->
-							</a>
-						</li>
-											<li>
-
-							<a href="https://grizly.com/quizzes/diy-quiz-can-guess-tool/" rel="bookmark">
-															<div class="blog-widget-img left relative">
-									<img width="300" height="180" src="https://grizly.com/wp-content/uploads/2017/02/42549553_l-300x180.jpg" class="widget-img-main wp-post-image" alt="" srcset="https://grizly.com/wp-content/uploads/2017/02/42549553_l-300x180.jpg 300w, https://grizly.com/wp-content/uploads/2017/02/42549553_l-768x461.jpg 768w, https://grizly.com/wp-content/uploads/2017/02/42549553_l-450x270.jpg 450w, https://grizly.com/wp-content/uploads/2017/02/42549553_l.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px">									<img width="80" height="80" src="https://grizly.com/wp-content/uploads/2017/02/42549553_l-80x80.jpg" class="widget-img-side wp-post-image" alt="" srcset="https://grizly.com/wp-content/uploads/2017/02/42549553_l-80x80.jpg 80w, https://grizly.com/wp-content/uploads/2017/02/42549553_l-150x150.jpg 150w, https://grizly.com/wp-content/uploads/2017/02/42549553_l-300x300.jpg 300w" sizes="(max-width: 80px) 100vw, 80px">																		<div class="feat-info-wrap">
-										<div class="feat-info-views">
-											<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">1.2K</span>
-										</div><!--feat-info-views-->
-																			</div><!--feat-info-wrap-->
-																										</div><!--blog-widget-img-->
-														<div class="blog-widget-text left relative">
-																<h2>DIY Quiz: Can You Guess This Tool?</h2>
-								<p>So you think you can fix anything around the house? Maybe your garage has...</p>
-							</div><!--blog-widget-text-->
-							</a>
-						</li>
-											<li>
-
-							<a href="https://grizly.com/survival/camping-hacks/" rel="bookmark">
-															<div class="blog-widget-img left relative">
-									<img width="300" height="180" src="https://grizly.com/wp-content/uploads/2017/02/Camping-5-1-300x180.jpg" class="widget-img-main wp-post-image" alt="" srcset="https://grizly.com/wp-content/uploads/2017/02/Camping-5-1-300x180.jpg 300w, https://grizly.com/wp-content/uploads/2017/02/Camping-5-1-768x461.jpg 768w, https://grizly.com/wp-content/uploads/2017/02/Camping-5-1-450x270.jpg 450w, https://grizly.com/wp-content/uploads/2017/02/Camping-5-1.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px">									<img width="80" height="80" src="https://grizly.com/wp-content/uploads/2017/02/Camping-5-1-80x80.jpg" class="widget-img-side wp-post-image" alt="" srcset="https://grizly.com/wp-content/uploads/2017/02/Camping-5-1-80x80.jpg 80w, https://grizly.com/wp-content/uploads/2017/02/Camping-5-1-150x150.jpg 150w, https://grizly.com/wp-content/uploads/2017/02/Camping-5-1-300x300.jpg 300w" sizes="(max-width: 80px) 100vw, 80px">																		<div class="feat-info-wrap">
-										<div class="feat-info-views">
-											<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">2.7K</span>
-										</div><!--feat-info-views-->
-																			</div><!--feat-info-wrap-->
-																										</div><!--blog-widget-img-->
-														<div class="blog-widget-text left relative">
-																<h2>40 Camping Hacks That Could Save Your Weekend in the Woods!</h2>
-								<p>Is there anything out there more enjoyable than camping underneath the stars while a...</p>
-							</div><!--blog-widget-text-->
-							</a>
-						</li>
-									</ul>
-			</div><!--blog-widget-wrap-->
-		</div><div id="mvp_tags_widget-2" class="foot-widget left relative mvp_tags_widget"><h3 class="foot-head">Popular Tags</h3>
-			<div class="tag-cloud left relative">
-				<a href="https://grizly.com/tag/featured/" class="tag-link-51 tag-link-position-1" title="143 topics" style="font-size: 10px;">featured</a>
-<a href="https://grizly.com/tag/diy/" class="tag-link-28 tag-link-position-2" title="34 topics" style="font-size: 10px;">diy</a>
-<a href="https://grizly.com/tag/renovation/" class="tag-link-105 tag-link-position-3" title="25 topics" style="font-size: 10px;">renovation</a>
-<a href="https://grizly.com/tag/history/" class="tag-link-86 tag-link-position-4" title="20 topics" style="font-size: 10px;">history</a>
-<a href="https://grizly.com/tag/quiz/" class="tag-link-407 tag-link-position-5" title="19 topics" style="font-size: 10px;">quiz</a>
-<a href="https://grizly.com/tag/cars/" class="tag-link-26 tag-link-position-6" title="14 topics" style="font-size: 10px;">cars</a>
-<a href="https://grizly.com/tag/animals/" class="tag-link-35 tag-link-position-7" title="14 topics" style="font-size: 10px;">animals</a>
-<a href="https://grizly.com/tag/nature/" class="tag-link-38 tag-link-position-8" title="11 topics" style="font-size: 10px;">nature</a>
-<a href="https://grizly.com/tag/family/" class="tag-link-186 tag-link-position-9" title="11 topics" style="font-size: 10px;">Family</a>
-<a href="https://grizly.com/tag/travel/" class="tag-link-33 tag-link-position-10" title="10 topics" style="font-size: 10px;">travel</a>
-<a href="https://grizly.com/tag/luxury/" class="tag-link-241 tag-link-position-11" title="10 topics" style="font-size: 10px;">luxury</a>
-<a href="https://grizly.com/tag/science/" class="tag-link-116 tag-link-position-12" title="9 topics" style="font-size: 10px;">Science</a>
-<a href="https://grizly.com/tag/rich/" class="tag-link-161 tag-link-position-13" title="9 topics" style="font-size: 10px;">Rich</a>
-<a href="https://grizly.com/tag/photos/" class="tag-link-187 tag-link-position-14" title="9 topics" style="font-size: 10px;">Photos</a>
-<a href="https://grizly.com/tag/construction/" class="tag-link-295 tag-link-position-15" title="8 topics" style="font-size: 10px;">construction</a>
-<a href="https://grizly.com/tag/adventure/" class="tag-link-191 tag-link-position-16" title="8 topics" style="font-size: 10px;">Adventure</a>
-<a href="https://grizly.com/tag/car/" class="tag-link-477 tag-link-position-17" title="8 topics" style="font-size: 10px;">Car</a>
-<a href="https://grizly.com/tag/test/" class="tag-link-456 tag-link-position-18" title="7 topics" style="font-size: 10px;">test</a>
-<a href="https://grizly.com/tag/food/" class="tag-link-29 tag-link-position-19" title="6 topics" style="font-size: 10px;">food</a>
-<a href="https://grizly.com/tag/america/" class="tag-link-311 tag-link-position-20" title="6 topics" style="font-size: 10px;">america</a>
-<a href="https://grizly.com/tag/photography/" class="tag-link-99 tag-link-position-21" title="6 topics" style="font-size: 10px;">photography</a>
-<a href="https://grizly.com/tag/backyard/" class="tag-link-104 tag-link-position-22" title="6 topics" style="font-size: 10px;">backyard</a>
-<a href="https://grizly.com/tag/funny/" class="tag-link-185 tag-link-position-23" title="6 topics" style="font-size: 10px;">Funny</a>
-<a href="https://grizly.com/tag/expensive/" class="tag-link-478 tag-link-position-24" title="6 topics" style="font-size: 10px;">Expensive</a>
-<a href="https://grizly.com/tag/bus/" class="tag-link-400 tag-link-position-25" title="5 topics" style="font-size: 10px;">Bus</a>
-<a href="https://grizly.com/tag/richest/" class="tag-link-162 tag-link-position-26" title="5 topics" style="font-size: 10px;">Richest</a>
-<a href="https://grizly.com/tag/epic/" class="tag-link-166 tag-link-position-27" title="5 topics" style="font-size: 10px;">Epic</a>
-<a href="https://grizly.com/tag/nfl/" class="tag-link-180 tag-link-position-28" title="5 topics" style="font-size: 10px;">NFL</a>
-<a href="https://grizly.com/tag/roadtrip/" class="tag-link-198 tag-link-position-29" title="5 topics" style="font-size: 10px;">Roadtrip</a>
-<a href="https://grizly.com/tag/mobile/" class="tag-link-266 tag-link-position-30" title="4 topics" style="font-size: 10px;">mobile</a>			</div>
-
-		</div>                </div><!--foot-widget-wrap-->
-            </div><!--body-main-in-->
-        </div><!--body-main-out-->
-    </div><!--foot-top-->
-    <div id="foot-bot-wrap" class="left relative">
-        <div class="body-main-out relative">
-            <div class="body-main-in">
-                <div id="foot-bot" class="left relative">
-                    <div class="foot-menu relative">
-                        <div class="menu"><ul>
-<li class="page_item page-item-298"><a href="https://grizly.com/contact-us/">Contact Us</a></li>
-<li class="page_item page-item-62"><a href="https://grizly.com/">Home</a></li>
-<li class="page_item page-item-71 current_page_item"><a href="https://grizly.com/privacy-policy/">Privacy Policy</a></li>
-<li class="page_item page-item-182"><a href="https://grizly.com/terms-of-service/">Terms Of Service</a></li>
-</ul></div>
-                    </div><!--foot-menu-->
-                    <div class="foot-copy relative">
-                        <p>Copyright © 2016 Grizly. All rights reserved.</p>
-                    </div><!--foot-copy-->
-                </div><!--foot-bot-->
-            </div><!--body-main-in-->
-        </div><!--body-main-out-->
-    </div><!--foot-bot-->
+<main class=" py-4">
+<div class="container mt-4">
+<div class="row">
+<div class="col banner banner-rounded">
+<h1>Privacy Policy</h1>
+<p>Last Updated:
+<span>2019-07-05 at 06:33 pm</span>
+</p>
+</div>
+</div>
+<div class="row flex-column align-items-center">
+<div class="col-12 card p-4">
+<p><u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </u>‌</p>
+<p><strong>Amicus Enterprises LLC’s Privacy Policy</strong></p>
+<p>Last modified: Feb 14, 2019 - This policy supersedes all prior privacy polices posted on or through www.Grizly.com.</p>
+<p>‌<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u>‌</p>
+<ol>
+<li><strong><u> Introduction</u></strong></li>
+</ol>
+<p style="padding-left: 40px;">Amicus Enterprises LLC, a Nevada limited liability company (<strong>”QuizGriz”</strong> or<strong> “We” </strong>or “<strong>Us</strong>” or “<strong>Our</strong>”), respects your privacy and is committed to protecting it through our compliance with this policy. We are a controller with respect to the data we collect for purposes of the General Data Protection Regulation (“<strong>GDPR</strong>”). We are subject to the GDPR to the extent we collect or process the personal information of individuals in the European Economic Area or the United Kingdom.</p>
+<p style="padding-left: 40px;"><strong>Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to access and/or use our Website and Services. By accessing or using our Website and Services, you agree and consent to this privacy policy. </strong></p>
+<p style="padding-left: 40px;"><strong>This policy may change from time to time (see </strong><strong>)</strong><strong>. Your continued use of our Website and Services after we make changes is deemed to be acceptance of those changes, so please check this policy periodically for updates. The date our privacy policy was last modified is indicated at the top of this page.</strong></p>
+<p style="padding-left: 40px;">This policy describes (1) the types of information we may collect from you or that you may provide when you visit the website at <a href="https://www.grizly.com">https://www.grizly.com</a> (our “<strong>Website</strong>”), communicate with us, or otherwise use the services we provide on the Website, applications, or other platforms, such as Facebook (collectively, our “<strong>Services</strong>”), and (2) our practices for collecting, using, maintaining, protecting, and disclosing that information.</p>
+<p style="padding-left: 40px;">Specifically, this policy applies to information we collect:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>when you interact or engage with our Services in any way, for example, when you navigate on or through our Website, create an account, login to the Website, opt-in to our daily quiz email, purchase QuizGriz Premium, or play our quizzes.</li>
+<li>In email, text, or other electronic messages between you and QuizGriz, including direct messages either you or QuizGriz send each other via social networks and other platforms.</li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;">It does not apply to information collected by:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>any third party, including through any application or content (including advertising) that may link to or be accessible from our Services.</li>
+</ul>
+</li>
+</ul>
+<ol start="2">
+<li><strong><u> Children Under the Age of 16</u></strong></li>
+</ol>
+<p style="padding-left: 40px;">Our Services are not intended for, nor directed to, children under 16 years of age. We do not knowingly collect personal information from children under 16 that may access or navigate through our Website or otherwise use our Services. If you are under 16, do not use our Services or provide any information to us. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us at privacy@grizly.com.</p>
+<p>‌</p>
+<ol start="3">
+<li><strong><u> Information We Collect About You and How We Collect It</u></strong></li>
+</ol>
+<p style="padding-left: 40px;">We collect several types of information from and about users of our Services, including information:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>by which you may be personally identified, such as your name, user name or ID, email address, password, or any other identifier by which you may be contacted online or offline (”<strong>personal information</strong>”);</li>
+<li>that concerns you but individually does not identify you, such as an IP address, device ID, advertising ID, or any other similar identifier, in addition to aggregated data derived, in part, from information about you;</li>
+<li>about how you and other individuals access and/or use our Services;</li>
+<li>about how you and other individuals interact with the electronic communications we send to you and others; and/or</li>
+<li>that can be used to serve you and others like you advertising through our Services or third-party ad networks.</li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;">We collect this information:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Directly from you when you provide it to us.</li>
+<li>Automatically and passively as you navigate through the Website or otherwise use our Services. Information collected automatically or passively may include usage details, IP addresses, and other information collected through cookies and other tracking technologies utilized by QuizGriz and/or our third-party service providers and partners, as described below.</li>
+<li>Automatically and passively through web beacons, clear gifs, and other pixel tags used in electronic communications between you and QuizGriz.</li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;">Note, however, that the third-party service providers and partners (identified below) we use to automatically and passively collect this information may collect more information about you than we have access to. Such information may include personally identifiable information beyond the personal information you provide to us directly, or that we otherwise collect or have access to.</p>
+<p style="padding-left: 40px;">Also, personal information once “de-identified” is not subject to this privacy policy and we may treat it as non-personal information and use it without obligation to you except as prohibited by applicable law.</p>
+<p style="padding-left: 40px;"><strong>Please see the linked privacy policies below for more information concerning the information these third parties may collect from you as you interact with our Services</strong>:</p>
+<p style="padding-left: 40px;">(a) 33Across, click here.</p>
+<p style="padding-left: 40px;">(b) ActiveCampaign, click here.</p>
+<p style="padding-left: 40px;">(c) AdLightning, click here.</p>
+<p style="padding-left: 40px;">(d) Amazon Publisher Services, click here.</p>
+<p style="padding-left: 40px;">(e) AppNexus, click here.</p>
+<p style="padding-left: 40px;">(f) bRealtime (EMX), click here.</p>
+<p style="padding-left: 40px;">(g) Cloudflare, click here.</p>
+<p style="padding-left: 40px;">(h) Customer.io, click here.</p>
+<p style="padding-left: 40px;">(i) DistrictM, click here.</p>
+<p style="padding-left: 40px;">(j) Disqus, click here.</p>
+<p style="padding-left: 40px;">(k) Facebook, click here.</p>
+<p style="padding-left: 40px;">(l) Google, click here.</p>
+<p style="padding-left: 40px;">(m) GumGum, click here.</p>
+<p style="padding-left: 40px;">(n) Index Exchange, click here.</p>
+<p style="padding-left: 40px;">(o) Oath, click here.</p>
+<p style="padding-left: 40px;">(p) OpenX Technologies, click here.</p>
+<p style="padding-left: 40px;">(q) RTK.io (Aardvark), click here.</p>
+<p style="padding-left: 40px;">(r) Rubicon Project, click here.</p>
+<p style="padding-left: 40px;">(s) Sovrn, click here.</p>
+<p style="padding-left: 40px;">(t) Taboola, click here.</p>
+<p style="padding-left: 40px;">(u) Twitter, click here.</p>
+<p style="padding-left: 40px;">For more information on how you can control and/or limit the collection or use of your information by these third-party service providers and partners, see the section below called .</p>
+<p style="padding-left: 40px;">&nbsp;</p>
+<p style="padding-left: 40px;"><strong><u>3.1. Information You Provide to Us Directly‌</u></strong></p>
+<p style="padding-left: 40px;">The information we collect on, through, or in connection with our Services may include:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Information that you provide by filling in forms in connection with our Services. This includes information provided at the time of registering to use our Services, logging in with your Facebook, Google, or email credentials, commenting or interacting with quizzes, purchasing a Premium QuizGriz subscription, or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Services.</li>
+<li>Records and copies of your correspondence (including email addresses), if you contact us.</li>
+<li>Information you provide when interacting with quizzes and other surveys, including your quiz responses.</li>
+<li>Information you provide when commenting, rating, or otherwise providing feedback on a quiz or quiz question.</li>
+<li>Any other information you provide directly on or through our Services.</li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;">Much of the information you provide directly to us will be published or displayed (hereinafter, "<strong>posted</strong>") on public areas of the Services, or transmitted to other users of our Services or third parties (collectively, "<strong>User Contributions</strong>"), such as when you comment on quizzes and quiz results, or other user comments. Your User Contributions are posted on and transmitted to others at your own risk. We cannot control the actions of other users of our Services with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.</p>
+<p style="padding-left: 40px;">&nbsp;</p>
+<p style="padding-left: 40px;"><strong><u>3.2. Information We Collect Through Automatic or Passive Data Collection Technologies</u></strong>&nbsp;</p>
+<p style="padding-left: 40px;">‌</p>
+<p style="padding-left: 40px;">As you navigate through our Website and interact with our Services, we may use automatic or passive data collection technologies or third-party services (which in turn use certain automatic or passive data collection technologies) to collect certain information about you and other users of our Services, including information about your equipment, browsing actions, and patterns.</p>
+<p style="padding-left: 40px;">&nbsp;</p>
+<p style="padding-left: 40px;">The information we collect from you automatically or passively is anonymous or is aggregated with information collected from other users of our Services and cannot be used by us to specifically identify you, except as expressly set forth in this policy. However, we may tie some of this information with personal information about you that we collect from other sources or you provide to us. The aggregated and/or anonymized data we obtain automatically and passively, and have access to consists of:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Details of users’ visits to our Website and use of our Services, including traffic data, logs, referring website addresses, data/time of visits, page views, domain names, location data, conversion rates, active users, time spent on the Website, and other similar data about how and when you and others access and use our Services.</li>
+<li>Information about your computer, mobile device, and Internet connection, including your IP address, operating system, device identifiers, browser type, and what Internet Service Provider (ISP) you use.</li>
+<li>Information about whether you or others clicked on an advertisement served on or through our Services, and whether you or others purchased the goods or services being advertised, including data revealing a previous interest in a product or website.</li>
+<li>Details about how and what users engage with our quizzes and other features of our Services.</li>
+<li>Information about your online activities over time and across third-party websites or other online services (<em>e.</em>, behavioral or interest-based tracking).</li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;">&nbsp;</p>
+<p style="padding-left: 40px;">This information helps us to improve our Services and to deliver a better and more enjoyable service, including by enabling us to:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Estimate our audience size and users’ usage patterns.</li>
+<li>Store information about your preferences, allowing us to customize our Services according to your individual interests.</li>
+<li>Recognize you when you return to our Services.</li>
+<li>Remember your quiz progress and the achievements you have completed.</li>
+<li>Analyze performance metrics.</li>
+<li>Understand how to make our Services better.</li>
+<li>Provide you with marketing materials that are of interest to you.</li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;">We may use the aggregated data we receive from our third-party service providers and partners to serve interest-based advertisements related to our Services on or through various platforms, such as Facebook and Google.</p>
+<p style="padding-left: 40px;">The technologies we use for this automatic and/or passive data collection may include:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>A cookie is a small file placed on the hard drive of your computer or mobile device. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website or otherwise use our Services. You accept our use of cookies, as described in our Cookie Policy, by accessing or using our Services.</li>
+<li><strong>Web Beacons, Pixel Tags, and Similar Tracking Technologies.</strong> Our Services may contain and use small electronic files known as web beacons (also referred to as clear gifs, SDKs, pixel tags, and single-pixel gifs) that permit QuizGriz, for example, to count users who have visited pages of our Website or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). To the extent we use Facebook ad services (<em>g.</em>, the Facebook Audience Network), Facebook may use tracking technologies, such as SDKs and pixel tags, to collect or receive information from users of our Services and may use any such information collected to provide us with measurement services or the ability to target advertisements to users within Facebook’s ad network.</li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;">The third-party services that we use in connection with our Services include:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li><strong>33Across</strong>. We use this service to provide you with relevant ads that match your interests and needs.</li>
+<li><strong>ActiveCampaign</strong>. We use this service to provide you with emails and other direct marketing materials.</li>
+<li><strong>AdLightning</strong>. A service that monitors for and blocks malicious ads from being served to our users.</li>
+<li><strong>Amazon Publisher Services</strong>. We use this service to provide you with relevant ads that match your interests and needs.</li>
+<li><strong>AppNexus</strong>. We use AppNexus advertising technology to help serve advertising on or through our Services or third-party ad networks. This technology allows us to efficiently and effectively serve ads that are relevant to your interests, instead of ads that are not. It also helps us prevent malware and other negative activity.</li>
+<li><strong>bRealtime (EMX)</strong>. We use this service to provide you with relevant ads that match your interests and needs.</li>
+<li><strong>Cloudflare</strong>. This service provides DNS (Domain Name Services) and is a CDN (Content Delivery Network) that caches and distributes our content to servers around the globe to speed up quiz and content serving.</li>
+<li><strong>io</strong>. A service that helps us send you new and relevant newsletters and other related communications.</li>
+<li><strong>DistrictM</strong>. We use this service to provide you with relevant ads that match your interests and needs.</li>
+<li><strong>Disqus</strong>. A service that allows you to engage in quiz-related discussions with other users through real-time comments. It also helps us stop spam and other unwanted activity from hindering user communication and disrupting the QuizGriz experience.</li>
+<li><strong>Facebook Analytics</strong>. An information dashboard we use that translates the information collected by Facebook SDKs, APIs, and the Facebook Pixel into aggregated and anonymous data that provides insight into how effective our Services are and how we can make them better.</li>
+<li><strong>Facebook Audience Network</strong>. We may use Facebook SDKs, APIs, and the Facebook Pixel on or through our Services in order to collect aggregated and anonymous data that can then be used to serve interest-based advertisements on the Facebook platform.</li>
+<li><strong>Facebook Login Functionality</strong>. An easy and seamless way for you to login to our Services with your existing Facebook login. If you login to our Services using Facebook login, you will be asked to provide us with certain information, called permissions. This information may include your Facebook username, name, email address, gender, age, and other basic profile information such as your profile picture. We do not disclose or share this information with third parties, except as described in this privacy policy. We may use the email address we receive through Facebook to send you information related to our Services, unless you opt-out of receiving such information as set forth in this privacy policy.</li>
+<li><strong>Google Ad Manager</strong>. We use Google Ad Manager to streamline, centralize, and manage our ad campaigns for delivery on or through our Services and various ad platforms and networks.</li>
+<li><strong>Google AdSense</strong>. Google AdSense allows us to serve text, image, video, and interactive media ads to you based on your interests and how you interact with our Services.</li>
+<li><strong>Google Analytics</strong>. Google Analytics allows us to see how users are interacting with our Website and Services. Specifically, it provides us with aggregated data, such as how many users visit our Website over time, how long users stay on our Website, and what type of users visit our Website.</li>
+<li><strong>Google Tag Manager</strong>. Google Tag Manager makes it easy to add and update website tags -- including conversion tracking, site analytics, remarketing, and more -- with just a few clicks, and without needing to edit your website code.</li>
+<li><strong>GumGum</strong>. We use this service to provide you with relevant ads that match your interests and needs.</li>
+<li><strong>Index Exchange</strong>. We use this service to provide you with relevant ads that match your interests and needs.</li>
+<li><strong>Oath Analytics</strong>. We use this service to provide you with relevant ads that match your interests and needs.</li>
+<li><strong>OpenX Ad Exchange</strong>. We use this service to manage our ad campaigns on or through our Services and across multiple platforms.</li>
+<li><strong>io (Aardvark)</strong>. We use this service to provide you with relevant ads that match your interests and needs.</li>
+<li><strong>Rubicon Project</strong>. We use this service to provide you with relevant ads that match your interests and needs.</li>
+<li><strong>Sovrn</strong>. We use this service to provide you with relevant ads that match your interests and needs.</li>
+<li><strong>Taboola</strong>. A service that allows us to deliver useful and relevant ads to our users.</li>
+<li><strong>Twitter Ad Conversation Tracking</strong>. This service allows us to better understand the effectiveness and efficiency of the ads we serve on Twitter.</li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;">By accessing and using our Services, you consent to the collection and processing of your data by these third-party services as set out in this privacy policy and in each respective third-party privacy policy. <strong>For more information on how you can control the collection or use of your information with respect to these third-party service providers, see the section below called </strong><strong>.</strong></p>
+<p style="padding-left: 40px;">‌</p>
+<ol start="4">
+<li><strong><u> How We Use Your Information</u></strong></li>
+</ol>
+<p>&nbsp;</p>
+<p style="padding-left: 40px;">We use information that we collect about you or that you provide to us, including any personal information:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>To present our Services and their contents to you.</li>
+<li>To provide you with information, products, or services that you request from us.</li>
+<li>To provide you with Certificates of Mastery, and any other information relating to your quiz engagement.</li>
+<li>To fulfill any other purpose for which you provide it.</li>
+<li>To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including any license agreements or terms of service.</li>
+<li>To notify you about changes to our Services.</li>
+<li>To optimize and enhance your experience with our Services.</li>
+<li>To serve interest-based advertising to you and others on or through our Services or third-party ad networks.</li>
+<li>In any other way we may describe when you provide the information.</li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;">We may also use your email address to provide you with marketing related electronic messages, including news, events, updates, and promotional emails. If you do not want us to use your information in this way, please email us at privacy@grizly.com, and we will remove you from our mailing list.</p>
+<p style="padding-left: 40px;">For more information on how you can control the collection or use of your information, see the section below called .</p>
+<p style="padding-left: 40px;">‌</p>
+<ol start="5">
+<li><strong><u> Disclosure of Your Information</u></strong></li>
+</ol>
+<p>&nbsp;</p>
+<p>We may share or disclose aggregated, anonymized, or generalized information about our users, including all non-personal information, without restriction.</p>
+<p>&nbsp;</p>
+<p>We do not share or disclose your personal information with third parties, except we may disclose personal information that we collect or you provide as described in this privacy policy as follows:</p>
+<ul>
+<li>To our subsidiaries and affiliates.</li>
+<li>To contractors, service providers, and other third parties we use to support our business, including companies that help manage our advertising activities, and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.</li>
+<li>To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Amicus Enterprises LLC or one of its subsidiaries or affiliates’ assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information is among the assets transferred.</li>
+<li>To fulfill the purpose for which you provide it.</li>
+<li>For any other purpose disclosed by us when you provide the information.</li>
+<li>With your consent, to the extent your consent is required under applicable law.</li>
+</ul>
+<p>We may also disclose your personal information:</p>
+<ul>
+<li>To comply with any court order, law, or legal process, including to respond to any government or regulatory request.</li>
+<li>If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Amicus Enterprises LLC, or our owners, employees, users, or others. ‌</li>
+</ul>
+<p>&nbsp;</p>
+<ol start="6">
+<li><strong><strong><u> Choices About How We Use and Disclose Your Information<br><br></u></strong></strong>
+<p>We strive to provide you with choices regarding the information you provide to us. Below are the tools available that allow you to control all or part of the information collected from you as you interact with our Services:</p>
+<ul>
+<li><strong>33Across</strong>. Click here to opt-out of 33Across tracking through the Network Advertising Initiative (NAI) opt-out page.</li>
+<li><strong>Amazon Publisher Services</strong>. Click here to learn how to opt-out of Amazon advertising.</li>
+<li><strong>AppNexus</strong>. Click here to learn how to opt-out out of AppNexus tracking.</li>
+<li><strong>bRealtime (EMX)</strong>. Click here to opt-out of EMX tracking through the Digital Advertising Alliance (DAA) opt-out page.</li>
+<li><strong>Cloudflare</strong>. Click here to opt-out of Cloudflare tracking through the Network Advertising Initiative (NAI) opt-out page.</li>
+<li>Generally speaking, you can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. Please visit your browser’s website for more information. If you disable or refuse cookies, please note that some parts of our Services may then be inaccessible or will not function properly, or your opt-out choices will not work.</li>
+<li><strong>DistrictM</strong>. Click here to opt-out of DistrictM tracking.</li>
+<li><strong>Disqus</strong>. Click here to learn how to opt-out of Disqus tracking.</li>
+<li><strong>Electronic Messages Opt-Out.</strong> If you no longer want us to send you electronic messages related to our business or Services, you can opt-out by clicking the unsubscribe link found at the bottom of each electronic message we send to you. You can also email us at privacy@grizly.com and we will remove you from our electronic message mailing list.‌ Your opt-out request will be processed within a commercially reasonable period of time.</li>
+<li><strong>Facebook</strong> – If you do not want Facebook to collect your data or to share your data with us, there are several things you can do to control and/or limit what data is collected:</li>
+<li>do not login to our Services with your Facebook login,</li>
+<li>click here, and then set your “Ad settings” to “Not allowed,”</li>
+<li>go to the “Apps and Websites” setting within your Facebook account and remove our Services from your list of “Active Apps and Websites” and/or limit the information we can receive,</li>
+<li>click here and opt-out of Facebook tracking,</li>
+<li>if you are in the European Economic Area or United Kingdom, click here, select your location, and opt-out of Facebook tracking,</li>
+<li>on your Apple device, go to “Settings,” then “Privacy,” then “Advertising,” and select “Limit Ad Tracking,” or</li>
+<li>on your Android device, go to the “Settings” menu, then select the “Google” option, from there select “Ads”, then enable the toggle switch next to “Opt out of Ads Personalization.”</li>
+<li><strong>Google Advertising</strong>. To control Google’s ad personalization, click here.</li>
+<li><strong>Google Analytics</strong>. If you want to control the data collected by Google Analytics you can get the Google Analytics Opt-out Browser Add-On here. It is available for Microsoft Internet Explorer 11, Google Chrome, Mozilla Firefox, Apple Safari, and Opera.</li>
+<li><strong>GumGum</strong>. Click here to learn how to opt-out of GumGum’s targeted ad program. You can also opt-out of GumGum data collection by using the Network Advertising Initiative (NAI) opt-out page found here.</li>
+<li><strong>Index Exchange</strong>. Click here to opt-out of Index Exchange tracking through the Network Advertising Initiative (NAI) opt-out page.</li>
+<li><strong>Oath Analytics</strong>. To opt-out of Oath interest-based advertising tracking, click here to opt-out through Digital Advertising Alliance (DAA) or here to opt-out through Network Advertising Initiative (NAI).</li>
+<li><strong>OpenX Ad Exchange</strong>. To opt-out of OpenX Ad Exchange interest-based advertising tracking, non-European Economic Area users, click here, and European Economic Area and UK users, click here and select your location.</li>
+<li><strong>.</strong> Click here to opt-out of RTK.io (Aardvark) tracking through the Digital Advertising Alliance (DAA) opt-out page.</li>
+<li><strong>Rubicon Project</strong>. To opt-out of Rubicon Project tracking, click here, and update your preferences at the bottom of that page.</li>
+<li><strong>Sovrn</strong>. Click here to opt-out of Sovrn tracking through the Digital Advertising Alliance (DAA) opt-out page.</li>
+<li><strong>Taboola</strong>. To learn more about opting-out of Taboola tracking, click here and search for “opting out,” or click here to opt-out of Taboola tracking through the Network Advertising Initiative (NAI) opt-out page.</li>
+<li><strong>Twitter Ad Conversation Tracking</strong>. To opt-out of Twitter interest-based advertising tracking, click here.</li>
+</ul>
+<p><strong>Please note</strong> that in order for your opt-out choices to be effective using these tools, you must ensure that your browser is set to accept third-party cookies such as the OpenX opt-out cookie. Some browsers block third-party cookies by default, so you may need to change your browser settings to accept third-party cookies before opting out.</p>
+<p>Also, users in the European Economic Area or UK can click here to opt-out of interest-based advertising tracking used by many of the third parties listed above.</p>
+<p>If you have any questions or concerns about opt-out, please contact us at <a href="mailto:privacy@grizly.com">privacy@grizly.com</a>.</p>
+<strong><u><br></u></strong><u></u></li>
+<li><strong><u>How We Respond to Do Not Track Signals</u></strong></li>
+</ol>
+<p style="padding-left: 40px;">We currently do not respond to do not track signals.</p>
+<p>&nbsp;</p>
+<ol start="8">
+<li><strong><u> Access to Third Party Websites</u></strong></li>
+</ol>
+<p style="padding-left: 40px;">You will be able to access third party websites directly from our Services. This privacy policy does not apply when you access third party websites. We cannot control how third parties may use personal information you disclose to them, so you should carefully review the privacy policy of any third-party website you visit, such as the third-party privacy policies we link to, before interacting with such third-party websites or disclosing your personal information to its provider.</p>
+<p>&nbsp;</p>
+<ol start="9">
+<li><strong><u> Lawful Basis for Processing Personal Information</u></strong></li>
+</ol>
+<p style="padding-left: 40px;">If you are in the European Economic Area or the United Kingdom, we process any personal information we collect in order to: (1) carry out our contractual obligations with you; (2) comply with our legal obligations; and (3) engage in activities that are in our legitimate interest, such as sending you direct marketing materials you request, providing you with an enjoyable experience, and to provide you with information related to our Services.</p>
+<p style="padding-left: 40px;">To the extent the processing of your personal information requires your consent, we will obtain such consent at the time we collect such information. This consent can be withdrawn at any time; provided, however, withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your information conducted in reliance on lawful processing grounds other than consent. You can withdraw your consent by emailing us <a href="mailto:privacy@grizly.com">privacy@grizly.com</a>.</p>
+<p style="padding-left: 40px;">&nbsp;</p>
+<ol start="10">
+<li><strong><strong><u> Your Rights<br><br></u></strong></strong>
+<p style="padding-left: 40px;">Under the GDPR, individuals have a number of important rights free of charge. In summary, these include rights to:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Access the personal information we have that concerns you;</li>
+<li>Require us to correct any mistakes in the personal information we have that concerns you;</li>
+<li>Require, in certain situations, the erasure of personal information we have that concerns you;</li>
+<li>Receive the personal information concerning you which you have provided to us, in a structured, commonly used and machine-readable format and have the right to transmit such data to a third party in certain situations;</li>
+<li>Object at any time to the processing of personal information concerning you for direct marketing;</li>
+<li>Object in certain other situations to our continued processing of your personal information; and</li>
+<li>Otherwise restrict our processing of your personal information in certain circumstances.</li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;">For more information on each of these rights, including the circumstances in which they apply, see the Guidance from the UK Information Commissioner’s Office (ICO) on individuals rights under the GDPR.</p>
+<p style="padding-left: 40px;">If you would like to exercise any of these rights, please:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Email us at privacy@grizly.com;</li>
+<li>Let us have enough information to identify you; and</li>
+<li>Let us know the information to which your request relates.</li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;">If we cannot verify your identity, we may request proof of your identify, such as a copy of your driver’s license or passport.</p>
+<p style="padding-left: 40px;">We hope that we can resolve any query or concern you raise about our use of your information; however, the GDPR also gives you the right to lodge a complaint with a supervisory authority, in particular in the European Union (or European Economic Area) state where you work, normally live, or where any alleged infringement of data protection laws occurred.</p>
+<strong><u><br><br></u></strong></li>
+<li><strong><u>Your California Privacy Rights</u></strong></li>
+</ol>
+<p style="padding-left: 40px;">California Civil Code Section § 1798.83 permits users of our Services that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to privacy@grizly.com.</p>
+<p>&nbsp;</p>
+<ol start="12">
+<li><strong><u> International Processing</u></strong></li>
+</ol>
+<p style="padding-left: 40px;">Our head office is located in Carlsbad, California, United States. We store and process your personal information on our computers and servers in the United States and, at times, depending on the cloud services we utilize, in various other countries. As such, that means that your personal information may need to be processed in countries where data protection and privacy laws and regulations may differ from those in your home country. In order to ensure your personal information is treated with the same level of care required in your home country, we require all authorized third parties, affiliates, and partners to take appropriate measures to keep your information confidential, safe, and secure in accordance with applicable data protection laws.</p>
+<p>&nbsp;</p>
+<ol start="13">
+<li><strong><u> Data Retention </u></strong></li>
+</ol>
+<p style="padding-left: 40px;">We will store your personal information only for as long as necessary to provide you with the services or information you require or request, or for as long as we are legally obligated to do so. We will also store certain personal information, such as email addresses, for archival purposes that are required for the continued operation of our business. For more information on where and how long your personal data is stored, and for more information on your rights of erasure and portability, please contact us at privacy@grizly.com.</p>
+<p>&nbsp;</p>
+<ol start="14">
+<li><strong><u> Data Security</u></strong></li>
+</ol>
+<p style="padding-left: 40px;">We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. All information we collect from you is stored in the cloud, which is encrypted by third-party systems. We limit access to your personal information to those who have a genuine business need to know it. Those processing your information will do so only in an authorized manner and are subject to a duty of confidentiality.</p>
+<p style="padding-left: 40px;">The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Services, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.</p>
+<p style="padding-left: 40px;">Unfortunately, the transmission of information via the Internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to or through our Services. Any transmission of personal information is at your own risk. ‌</p>
+<p style="padding-left: 40px;">&nbsp;</p>
+<ol start="15">
+<li><strong><u> Changes to Our Privacy Policy</u></strong></li>
+</ol>
+<p style="padding-left: 40px;">It is our policy to post any changes we make to our privacy policy here. We reserve the right to amend our privacy policy at any time, for any reason, without notice to you. However, if we make material changes to how we treat our users’ personal information, we will post a notice on our Website, and may in our sole discretion, notify you by email. The date the privacy policy was last revised is identified at the top of the page. If you provide us with an email address, you are responsible for ensuring we have an up-to-date active and deliverable email address for you. You are also responsible for periodically visiting our Website and this privacy policy to check for any changes.‌</p>
+<p>&nbsp;</p>
+<ol start="16">
+<li><strong><u> Contact Information</u></strong></li>
+</ol>
+<p style="padding-left: 40px;">To ask questions or to comment about this privacy policy and our privacy practices, contact us at:</p>
+<p style="padding-left: 40px;">privacy@grizly.com.</p>
+<p style="padding-left: 40px;">Thank you.</p>
+<p style="padding-left: 40px;">&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</main>
+</div>
+<footer id="footer" class="footer">
+<div class="container-fluid p-0">
+<div class="row-fluid footer__top-row">
+<div class="container">
+<div class="footer__cols row align-items-center justify-content-between">
+<div class="col-md footer__about">QuizGriz enables knowledge-seekers to experience a community of like-minded people that are focused on exercising their mind while mastering interest-based topics.</div>
+<div class="col-md footer__logo justify-content-center">
+<img src="https://files.grizly.com/f/20191228013346-xqrchj/img/QuizGriz-Logo-footer.svg">
+</div>
+<div class="col-md footer__social">
+<p>Follow along on these sites:</p>
+<div class="footer__social-links">
+<a class="facebook" href="https://www.facebook.com/quizgriz">
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>facebook-black</title><path d="M12.82 24H1.324A1.325 1.325 0 0 1 0 22.675V1.325C0 .593.593 0 1.325 0h21.35C23.407 0 24 .593 24 1.325v21.35c0 .732-.593 1.325-1.325 1.325H16.56v-9.294h3.12l.466-3.622H16.56V8.77c0-1.048.29-1.763 1.795-1.763h1.918v-3.24c-.332-.045-1.47-.143-2.795-.143-2.766 0-4.659 1.688-4.659 4.788v2.67H9.692v3.623h3.127V24z" opacity=".43"></path></svg>
+</a>
+<a class="twitter" href="https://twitter.com/QuizGriz">
+<svg width="24" height="20" viewBox="0 0 24 20" xmlns="http://www.w3.org/2000/svg"><title>twitter-black</title><path d="M24 2.368a9.617 9.617 0 0 1-2.827.794A5.038 5.038 0 0 0 23.338.37a9.698 9.698 0 0 1-3.129 1.223A4.856 4.856 0 0 0 16.616 0c-2.718 0-4.922 2.26-4.922 5.049 0 .396.042.78.126 1.15C7.728 5.988 4.1 3.979 1.67.922a5.14 5.14 0 0 0-.666 2.54c0 1.751.87 3.297 2.19 4.203a4.834 4.834 0 0 1-2.23-.63v.062c0 2.447 1.697 4.488 3.951 4.95a4.695 4.695 0 0 1-1.297.178c-.317 0-.627-.03-.927-.09.626 2.006 2.444 3.466 4.599 3.505A9.722 9.722 0 0 1 0 17.733 13.71 13.71 0 0 0 7.548 20c9.058 0 14.01-7.692 14.01-14.365 0-.22-.005-.439-.013-.654.962-.712 1.797-1.6 2.455-2.613" opacity=".43"></path></svg>
+</a>
+<a class="instagram" href="https://www.instagram.com/quizgriz/">
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>instagram-black</title><path d="M12 0C8.741 0 8.332.014 7.052.072 5.775.13 4.902.333 4.14.63a5.882 5.882 0 0 0-2.126 1.384A5.882 5.882 0 0 0 .63 4.14c-.297.763-.5 1.635-.558 2.912C.014 8.332 0 8.741 0 12c0 3.259.014 3.668.072 4.948.058 1.277.261 2.15.558 2.912.307.79.717 1.459 1.384 2.126A5.883 5.883 0 0 0 4.14 23.37c.763.297 1.635.5 2.912.558C8.332 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 1.277-.058 2.15-.261 2.912-.558a5.883 5.883 0 0 0 2.126-1.384 5.883 5.883 0 0 0 1.384-2.126c.297-.763.5-1.635.558-2.912.058-1.28.072-1.689.072-4.948 0-3.259-.014-3.668-.072-4.948-.058-1.277-.261-2.15-.558-2.912a5.883 5.883 0 0 0-1.384-2.126A5.882 5.882 0 0 0 19.86.63c-.763-.297-1.635-.5-2.912-.558C15.668.014 15.259 0 12 0zm0 2.162c3.204 0 3.584.012 4.849.07 1.17.053 1.805.249 2.228.413.56.218.96.478 1.38.898.42.42.68.82.898 1.38.164.423.36 1.058.413 2.228.058 1.265.07 1.645.07 4.849s-.012 3.584-.07 4.849c-.053 1.17-.249 1.805-.413 2.228-.218.56-.478.96-.898 1.38-.42.42-.82.68-1.38.898-.423.164-1.058.36-2.228.413-1.265.058-1.645.07-4.849.07s-3.584-.012-4.849-.07c-1.17-.053-1.805-.249-2.228-.413a3.717 3.717 0 0 1-1.38-.898c-.42-.42-.68-.82-.898-1.38-.164-.423-.36-1.058-.413-2.228-.058-1.265-.07-1.645-.07-4.849s.012-3.584.07-4.849c.053-1.17.249-1.805.413-2.228.218-.56.478-.96.898-1.38.42-.42.82-.68 1.38-.898.423-.164 1.058-.36 2.228-.413 1.265-.058 1.645-.07 4.849-.07zm0 3.676a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm7.846-10.406a1.44 1.44 0 1 1-2.88 0 1.44 1.44 0 0 1 2.88 0z" opacity=".43"></path></svg>
+</a>
+<a class="pinterest" href="https://www.pinterest.com/QuizGriz/">
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>pinterest-black</title><path d="M12 0C5.375 0 0 5.372 0 12c0 4.913 2.955 9.135 7.184 10.991-.034-.837-.005-1.844.208-2.756l1.544-6.538s-.383-.766-.383-1.9c0-1.778 1.032-3.106 2.315-3.106 1.09 0 1.618.82 1.618 1.803 0 1.096-.7 2.737-1.06 4.257-.3 1.274.638 2.312 1.894 2.312 2.274 0 3.805-2.92 3.805-6.38 0-2.63-1.771-4.598-4.993-4.598-3.64 0-5.907 2.714-5.907 5.745 0 1.047.307 1.784.79 2.354.223.264.253.368.172.67-.056.219-.189.752-.244.963-.08.303-.326.413-.6.3-1.678-.684-2.458-2.52-2.458-4.585 0-3.408 2.875-7.497 8.576-7.497 4.582 0 7.598 3.317 7.598 6.875 0 4.708-2.617 8.224-6.476 8.224-1.294 0-2.514-.7-2.931-1.494 0 0-.698 2.764-.844 3.298-.254.924-.752 1.85-1.208 2.57 1.08.318 2.22.492 3.4.492 6.628 0 12-5.372 12-12S18.628 0 12 0" opacity=".43"></path></svg>
+</a>
+<a class="rss" href="https://grizly.com/feed">
+<svg width="22" height="22" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"><title>rss-black</title><path d="M0 18.857a3.143 3.143 0 1 1 6.286 0 3.143 3.143 0 0 1-6.286 0zM22 22h-4.19C17.81 12.18 9.82 4.19 0 4.19V0c12.13 0 22 9.87 22 22zm-7.333 0h-4.19c0-5.777-4.7-10.476-10.477-10.476v-4.19c8.087 0 14.667 6.579 14.667 14.666z" opacity=".43"></path></svg>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row-fluid footer__bottom-row">
+<div class="container footer__bottom">
+<div class="footer__cols row align-items-center justify-content-between">
+ <div class="col-md footer__copyright">Copyright © 2019 QuizGriz. All rights reserved.</div>
+<div class="col-md-8 footer__main-links">
+<a href="/cookie-policy">Cookie Policy</a>
+<a href="http://mediakit.grizly.com/">Media Kit</a>
+<a href="/terms-of-service">Terms &amp; Conditions</a>
+<a href="/privacy-policy">Privacy Policy</a>
+<a href="/contact-us">Contact Us</a>
+<a href="/">Home</a>
+</div>
+</div>
+</div>
+</div>
+</div>
 </footer>
-</div><!--site-wrap-->
-</div><!--site-->
-<div class="fly-to-top back-to-top">
-    <i class="fa fa-angle-up fa-3"></i>
-    <span class="to-top-text">To Top</span>
-</div><!--fly-to-top-->
-<div class="fly-fade">
-</div><!--fly-fade-->
+<link rel="preconnect" href="https://delivery.grizly.com">
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        var getBreakpoint = function () {
+            //Configure breakpoint widths here:
+            var breakpoints = [
+                {'width': 'all', 'size': 'mobile'},
+                {'width': '(min-height: 603px)', 'size': 'mobile-tall'},
+                {'width': '(min-width: 768px)', 'size': 'tablet'},
+                {'width': '(min-width: 1025px)', 'size': 'desktop'}
+            ];
 
-  ga('create', 'UA-52713630-7', 'auto');
-  ga('set', 'dimension1', mash_global.utm_tracking);
-  ga('send', 'pageview');
+            // will store the final result of comparison
+            var result = '';
 
-</script>
+            // compare breakpoints to what is used
+            breakpoints.forEach(function (element) {
+                if (element.size === 'mobile-tall') {
+                    if (window.screen.height >= 640) {
+                        result = element.size;
+                    }
+                } else {
+                    //If browser support matchMedia, use it
+                    if (window.matchMedia) {
+                        // return current media query
+                        if (window.matchMedia(element.width).matches) {
+                            result = element.size;
+                        }
+                    } else { //matchMedia not supported, try using width values
+                        if (Number(element.width.replace(/\D/ig, '')) < document.documentElement.clientWidth) {
+                            result = element.size;
+                        }
+                    }
+                }
+            });
 
-<script type="text/javascript">
-    window._tfa = window._tfa || [];
-    _tfa.push({ notify: 'action',name: 'grizly_page_view' });
-</script>
-<script src="//cdn.taboola.com/libtrc/amicus-begrizlycom-sc1/tfa.js"></script>
+            return result;
+        };
 
-<script type="text/javascript">
-	var trackcmp_email = '';
-	var trackcmp = document.createElement("script");
-	trackcmp.async = true;
-	trackcmp.type = 'text/javascript';
-	trackcmp.src = '//trackcmp.net/visit?actid=609685096&e='+encodeURIComponent(trackcmp_email)+'&r='+encodeURIComponent(document.referrer)+'&u='+encodeURIComponent(window.location.href);
-	var trackcmp_s = document.getElementsByTagName("script");
-	if (trackcmp_s.length) {
-		trackcmp_s[0].parentNode.appendChild(trackcmp);
-	} else {
-		var trackcmp_h = document.getElementsByTagName("head");
-		trackcmp_h.length && trackcmp_h[0].appendChild(trackcmp);
-	}
-</script>
+        var getOrientation = function () {
+            //If browser support matchMedia, use it
+            if (window.matchMedia) {
+                if (window.matchMedia('(orientation: landscape)').matches) {
+                    return 'landscape';
+                } else if (window.matchMedia('(orientation: portrait)').matches) {
+                    return 'portrait';
+                }
+            } else { //matchMedia not supported, use screen height and width instead
+                if (window.screen.width < window.screen.height) {
+                    return 'portrait';
+                } else {
+                    return 'landscape';
+                }
+            }
+        };
 
-                                    
-                <script type="text/javascript">
-                    window._taboola = window._taboola || [];
-                    _taboola.push({flush: true});
-                </script>
-                            <script type="text/javascript">
-/* <![CDATA[ */
-var MVP = {"isInfiniteScroll":"","infiniteScrollMsgText":"Loading more posts...","infiniteScrollFinishedMsg":"Sorry, no more posts"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://grizly.com/wp-content/themes/flex-mag-child/js/scripts.js?ver=1.0.1"></script>
-<script type="text/javascript" src="https://grizly.com/wp-content/themes/flex-mag-child/js/js.cookie-2.0.3.min.js?ver=2.0.3"></script>
-<script type="text/javascript" src="https://grizly.com/wp-content/themes/flex-mag-child/js/jquery.sticky.js?ver=1.0.4"></script>
-<script type="text/javascript" src="https://grizly.com/wp-content/themes/flex-mag-child/js/jquery.actual.min.js?ver=1.0.18"></script>
-<script type="text/javascript" src="https://grizly.com/wp-includes/js/wp-embed.min.js?ver=4.7.2"></script>
 
-<script id="dsq-count-scr" src="//grizlylivewild.disqus.com/count.js" async=""></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a265d39eb7","applicationID":"19441233","transactionName":"YVBbMEBXW0FSVBUPWFgaeAdGX1pcHEcAAVIbU0wIXkFcVkdf","queueTime":0,"applicationTime":140,"atts":"TRdYRghNSE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+        var breakpoint = getBreakpoint();
+        var otation = getOrientation();
+        var auction_id = '', globalAdUnits = [];
+
+        if (breakpoint == 'mobile' || breakpoint == 'mobile-tall') {
+            auction_id = 'QyPk/';
+            globalAdUnits = ['RTK_2xmL'];
+        } else if (breakpoint == 'tablet') {
+            auction_id = 'QU6H/';
+            globalAdUnits = [
+                'RTK_wHnk', // Right Rail 1
+                'RTK_Su17'  // Right Rail 2
+            ];
+        } else {
+            auction_id = 'Nh7o/';
+            globalAdUnits = [
+                'RTK_sY09', // Right Rail 1
+                'RTK_Su17'  // Right Rail 2
+            ];
+        }
+
+        for (var i = 0; i < globalAdUnits.length; i++) {
+            auction_id += globalAdUnits[i].replace(/RTK_/gi, '') + '_';
+        }
+
+        auction_id = auction_id.slice(0, -1);
+
+                (function (w, d) {
+            w.jitaJS = w.jitaJS || {};
+            w.jitaJS.que = w.jitaJS.que || [];
+
+            var tag = d.createElement('script');
+            tag.src = '//jita.rtk.io/' + auction_id + '/jita.js?dfp=1';
+            tag.setAttribute('async', '');
+
+            var f = d.getElementsByTagName('script')[0];
+            f.parentNode.insertBefore(tag, f);
+        })(window, document);
+            </script>
+
+<script src="https://files.grizly.com/f/20191228013346-xqrchj/js/app.js"></script>
+<script src="https://files.grizly.com/f/20191228013346-xqrchj/js/sweetalert.min.js"></script>
+
+
 
 </body></html>
