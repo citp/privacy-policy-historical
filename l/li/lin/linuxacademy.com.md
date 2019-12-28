@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the linuxacademy.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415210252id_/https%3A//linuxacademy.com/join/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxacademy.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228114037id_/https%3A//linuxacademy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy – Linux Academy
+# Privacy Policy – Linux Academy
 
-##### Effective Date: _May 25th, 2018_  
+Effective Date: _May 25th, 2018_  
 Last Updated: _May 22nd, 2018_
 
 #### Introduction
@@ -41,7 +41,7 @@ Our Privacy Policy does not apply to services offered by other companies or indi
 
 #### Terms of Service
 
-By accessing or using the Sites in any manner, you also agree to be bound by Linux Academy’s [Terms of Service](https://web.archive.org/join/tos) (the “Agreement”). Please read the Agreement carefully. If you do not accept all of the terms and conditions contained in or incorporated by reference into the Agreement, please do not use the Sites.
+By accessing or using the Sites in any manner, you also agree to be bound by Linux Academy’s [Terms of Service](https://web.archive.org/terms-of-service/) (the “Agreement”). Please read the Agreement carefully. If you do not accept all of the terms and conditions contained in or incorporated by reference into the Agreement, please do not use the Sites.
 
 #### Information We Collect
 
