@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the segd.org privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510001058id_/https%3A//segd.org/sites/default/files/SEGD%2520Privacy%2520Policy%25208-22-18.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segd.org privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228045914id_/https%3A//segd.org/sites/default/files/SEGD%2520Privacy%2520Policy%25208-22-18.pdf) for the most accurate reproduction.*
 
 # SEGD PRIVACY AND SECURITY STATEMENT
 
