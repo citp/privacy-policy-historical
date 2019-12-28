@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oedro.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424195512id_/https%3A//www.oedro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oedro.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228124057id_/https%3A//www.oedro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | OEDRO®
 
-This privacy policy sets out how Oedro uses and protects any information that you give Oedro when you use this website. Oedro is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Oedro may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+This privacy policy sets out how OEDRO uses and protects any information that you give OEDRO when you use this website. OEDRO is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. OEDRO may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
 What we collect
 
