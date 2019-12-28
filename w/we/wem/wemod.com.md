@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wemod.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206235333id_/https%3A//www.wemod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wemod.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228130342id_/https%3A//www.wemod.com/privacy) for the most accurate reproduction.*
 
 # WeMod - Privacy Policy
 
-We at Daring Development, Inc., d/b/a WeMod are committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used and is provided by Daring Development, Inc., d/b/a WeMod, a New York corporation with a principal place of business located at 228 Park Ave S #74385, New York, NY 10003-1502. If you have requests concerning your personal information or any questions please contact us support@wemod.com.
+We at WeMod LLC are committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used and is provided by WeMod LLC, a Massachusetts company with a principal place of business located at 68 Harrison Ave, 6th Floor, Boston, MA 02111. If you have requests concerning your personal information or any questions please contact us support@wemod.com.
 
 **If you have objections to the Privacy Policy, you should immediately discontinue use of the Web site and the Services offered by us.**
 
@@ -10,7 +10,7 @@ We at Daring Development, Inc., d/b/a WeMod are committed to protecting your pri
 
 For purposes of this Privacy Policy references to "Services" shall mean any and all services offered by us, including but not limited to hobbyist software for gamers, news and entertainment related to modding games via our Web site.
 
-References to "us," "we," "our," and/or "WeMod" mean Daring Development Inc., d/b/a WeMod.
+References to "us," "we," "our," and/or "WeMod" mean WeMod LLC.
 
 References to the "Web site" mean wemod.com.
 
