@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukbusinessforums.co.uk privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628052938id_/https%3A//www.ukbusinessforums.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukbusinessforums.co.uk privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228221203id_/https%3A//www.ukbusinessforums.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | UK Business Forums
 
@@ -172,9 +172,9 @@ We keep your personal information for as long as we need to for the purposes for
 
 **Your rights**
 
-You have the right to ask us not to process your personal data or to restrict our processing of your personal data (including for marketing purposes). You can do so at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#620a070e122217090017110b0c071111040d10170f114c010d4c17095d111700080701165f37294750522017110b0c071111475052240d10170f11475052331707101b). Please state the site(s) it is in reference to.
+You have the right to ask us not to process your personal data or to restrict our processing of your personal data (including for marketing purposes). You can do so at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5139343d2111243a332422383f342222373e23243c227f323e7f243a6e2224333b3432256c041a746361132422383f342222746361173e23243c227463610024342328). Please state the site(s) it is in reference to.
 
-You also have the right to ask us to correct any mistakes or inaccuracies in your information which we hold at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cca4a9a0bc8cb9a7aeb9bfa5a2a9bfbfaaa3beb9a1bfe2afa3e2b9a7f3bfb9aea6a9afb8f19987e9fefc8eb9bfa5a2a9bfbfe9fefc8aa3beb9a1bfe9fefc9db9a9beb5). Please state the site(s) it is in reference to.
+You also have the right to ask us to correct any mistakes or inaccuracies in your information which we hold at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1b737e776b5b6e70796e6872757e68687d74696e7668357874356e7024686e79717e786f264e503e292b596e6872757e68683e292b5d74696e76683e292b4a6e7e6962). Please state the site(s) it is in reference to.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -266,10 +266,10 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **Complaints**
 
-If you have any complaints about the way we use your personal information please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cfa7aaa3bf8fbaa4adbabca6a1aabcbca9a0bdbaa2bce1aca0e1baa4f0bcbaada5aaacbbf29a84eafdff8dbabca6a1aabcbceafdff89a0bdbaa2bceafdff9ebaaabdb6) who will try to resolve the issue. If we cannot resolve any issue, you have the right to complain to the data protection authority in your country (the Information Commissioner in the UK).
+If you have any complaints about the way we use your personal information please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#523a373e221227393027213b3c372121343d20273f217c313d7c27396d212730383731266f07197760621027213b3c372121776062143d20273f21776062032737202b) who will try to resolve the issue. If we cannot resolve any issue, you have the right to complain to the data protection authority in your country (the Information Commissioner in the UK).
 
 **Contact**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#630b060f132316080116100a0d061010050c11160e104d000c4d16085c101601090600175e36284651532116100a0d061010465153250c11160e10465153321606111a) and please state the website(s) it is in reference to.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [h[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8ae2efe6facaffe1e8fff9e3e4eff9f9ece5f8ffe7f9a4e9e5a4ffe1b5f9ffe8e0efe9feb7dfc1afb8bac8fff9e3e4eff9f9afb8bacce5f8ffe7f9afb8badbffeff8f3) and please state the website(s) it is in reference to.
 
 Thank you for visiting our site.
