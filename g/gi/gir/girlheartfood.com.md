@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the girlheartfood.com privacy policy that was archived on 2019-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190107033553id_/https%3A//girlheartfood.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlheartfood.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228033057id_/https%3A//girlheartfood.com/policies) for the most accurate reproduction.*
 
-# Privacy Policy & Terms of Use -
+# Privacy Policy & Terms of Use - Girl Heart Food
 
 **PRIVACY POLICY AND TERMS OF USE (POLICIES)**
 
-Last Updated:  June 22, 2018
+Last Updated:  March 21, 2019
 
 Girl Heart Food (“Website”) is governed by the following Privacy Policy and Terms of Use.
 
@@ -69,11 +69,11 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 (b) <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox);
 
-(c) <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
+(c) [http://www.opera.com/help/tutorials/security/cookies/](https://www.opera.com/help/tutorials/security/cookies/) (Opera);
 
 (d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
 
-(e) <https://support.apple.com/kb/PH21411> (Safari); and
+(e) https://support.apple.com/kb/PH21411 (Safari); and
 
 (f) [https://privacy.microsoft.com/en-us/windows–10-microsoft-edge-and-privacy ](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)(Edge).
 
@@ -116,7 +116,7 @@ Additionally, the Website may use third-party service providers to service vario
 
  **Cloudflare –** this third-party service provider is used for Website optimization and security.  This third-service party service provider may collect user IP addresses, system configuration information, and other information about traffic to and from the Website (“log data”) in order to detect new threats, identify malicious third parties, and provide security protection of the Website.  Their privacy policy effective May 25, 2018 can be found [here](https://www.cloudflare.com/privacypolicy/).
 
- **Social Warfare –** this third-party service provider is used for social sharing buttons so a particular blog post, for example, can be shared via social media should a user wish to do so. When a user presses one of these buttons, his or her social network login is sent to the appropriate network to enable the share to happen.  For example, if a user wants to share a blog post on the Website via Twitter, the login prompt for Twitter will appear so the user can log into his or her Twitter account to share.  None of this information is stored by Social Warfare. Each of these social media networks has their own privacy policy.  Though none of this information is stored by Social Warfare, please use your own discretion when providing any login information or sharing to any social network site.
+ **Social Pug –** this third-party service provider is used for social sharing buttons so a particular blog post, for example, can be shared via social media should a user wish to do so. When a user presses one of these buttons, his or her social network login is sent to the appropriate network to enable the share to happen.  For example, if a user wants to share a blog post on the Website via Twitter, the login prompt for Twitter will appear so the user can log into his or her Twitter account to share.  Each of these social media networks has their own privacy policy.  Social Pug does not collect, store or distribute user information; even though this is the case, please use your own discretion when providing any login information or sharing to any social network site.
 
  **Akismet** – this third-party service provider checks user comments  against a global database of spam to prevent this Website from publishing malicious content. Their privacy policy can be found [here](https://automattic.com/privacy/).
 
