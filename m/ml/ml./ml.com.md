@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the ml.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628003936id_/https%3A//www.ml.com/privacy-and-security-center/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ml.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228192456id_/https%3A//www.ml.com/privacy-and-security-center/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
-Today, safeguarding one's personal and financial information is increasingly challenging. That's why at Merrill Lynch, we make it a priority and provide you with access to the information you need to protect yourself and to help keep your information secure.
+Today, safeguarding one's personal and financial information is increasingly challenging. That's why we make it a priority and provide you with access to the information you need to protect yourself and to help keep your information secure.  
+
 
 ###  ** Privacy Information**
 
@@ -16,7 +17,21 @@ U.S. Consumer Privacy Notice**
 
 The Bank of America U.S. Consumer Privacy Notice explains our privacy commitment and practices. It identifies the personal information that we collect and hold, and describes how we use, share and secure it.
 
-**Cookie Guide:**
+**  
+California Consumer Privacy Act Disclosure [View](https://www.bankofamerica.com/security-center/ccpa-disclosure/) & Personal Information Request Form [View](https://secure.bankofamerica.com/customer-preferences/public/personal-information-request)**
+
+This California Consumer Privacy Act Disclosure explains how Bank of America and its affiliates (collectively, the "Company," "we," or "us") collect[s], use[s], and disclose[s] personal information relating to California residents, and is provided pursuant to the California Consumer Privacy Act of 2018 ("CCPA").
+
+Please note, for participants who have an employer based plan (401(k), equity, nonqualified deferred compensation, defined benefit, and health benefit solutions) should submit their requests directly through their Retirement Benefits Contact Center phone number or using the Personal Information Request Form [View](https://secure.bankofamerica.com/customer-preferences/public/personal-information-request).
+
+**  
+Privacy Notice For Clients Of Merrill Lynch Bank And Trust Company (Cayman) Limited**
+
+This Privacy Notice applies to current and former individual clients or individuals seeking relationships with Merrill Lynch Bank and Trust Company (Cayman) Limited, and includes information about how Merrill Lynch Bank and Trust Company (Cayman) Limited / Bank of America Corporation will use, disclose and process client information and what actions you can take.
+
+**  
+**Cookie Guide:**   
+**
 
 The use of cookies and similar technologies is a common Internet practice. We have developed a Cookie Guide to provide very general information on cookies and similar technologies.
 
@@ -24,11 +39,11 @@ The use of cookies and similar technologies is a common Internet practice. We ha
 
 Your personal information is a valuable part of your financial life. We strongly recommend that you protect your information in the same way you monitor your financial accounts.
 
-  * [Identity Theft and Fraud](https://web.archive.org/privacy-and-security-center/identity-theft-and-fraud.html)
-  * [Protecting Yourself](https://web.archive.org/privacy-and-security-center/protect-yourself.html)
-  * [Report Theft and Fraud](https://web.archive.org/privacy-and-security-center/how-to-report-identity-theft-and-fraud.html)
-  * [How Merrill Lynch Protects Your Personal Information ](https://web.archive.org/privacy-and-security-center/protect-personal-information.html)
-  * [Security Information for Credit Cardholders](https://card.ml.com/RWDapp/ns/home?_ga=2.263411461.827346755.1506341207-189970974.1449852960&mc=ml)
+  * [Identity Theft and Fraud](https://web.archive.org/privacy-and-security-center/identity-theft-and-fraud.html "Identity Theft and Fraud")
+  * [Protecting Yourself](https://web.archive.org/privacy-and-security-center/protect-yourself.html "Protecting Yourself")
+  * [Report Theft and Fraud](https://web.archive.org/privacy-and-security-center/how-to-report-identity-theft-and-fraud.html "Report Theft and Fraud")
+  * [How Merrill Lynch Protects Your Personal Information](https://web.archive.org/privacy-and-security-center/protect-personal-information.html "How Merrill Lynch Protects Your Personal Information")
+  * [Security Information for Credit Cardholders](https://card.ml.com/RWDapp/ns/home?_ga=2.263411461.827346755.1506341207-189970974.1449852960&mc=ml "Security Information for Credit Cardholders")
 
 
 
@@ -36,7 +51,7 @@ Your personal information is a valuable part of your financial life. We strongly
 **If you need to report identity theft or fraud, or if you have questions, please call:  
 **1-800-637-7455**
 
-[Forward Suspicious Email to Us Link opens in a Email popup](mailto:abuse@bankofamerica.com&subject=Fraud&body=If%20you%20believe%20you%20have%20received%20a%20hoax%20e-mail%20%28phishing%20e-mail%29%20that%20appears%20to%20be%20from%20Merrill%20Lynch,%20please%20attach%20it%20to%20this%20e-mail%20message.)   
+[Forward Suspicious Email to Us Link opens in a Email popup](mailto:abuse@bankofamerica.com&subject=Fraud&body=If%20you%20believe%20you%20have%20received%20a%20hoax%20e-mail%20%28phishing%20e-mail%29%20that%20appears%20to%20be%20from%20Merrill%20Lynch,%20please%20attach%20it%20to%20this%20e-mail%20message. "Forward Suspicious Email to Us")   
 
 
 Thank you for bringing this suspicious email to our attention. Bank of America takes any attempts to fraudulently use our brand or impersonate a bank representative very seriously. Our team reviews all submissions; we will only reply to your message if we require additional information.
@@ -52,9 +67,9 @@ The term "Bank of America" or "we" or "us" or "our" in this Notice refers to ban
 
 Bank of America provides other online interfaces not covered by this Notice.  If you visit or access your accounts from one of these sites, please review the online privacy practices of that site to understand how your online information may be collected, used and shared.
 
-For visitors to this Site, we will use and share any information that we collect from or about you in accordance with the [Bank of America U.S. Consumer Privacy Notice](https://www.bankofamerica.com/privacy/consumer-privacy-notice.go). 
+For visitors to this Site, we will use and share any information that we collect from or about you in accordance with the [Bank of America U.S. Consumer Privacy Notice](https://www.bankofamerica.com/privacy/consumer-privacy-notice.go "Bank of America U.S. Consumer Privacy Notice"). 
 
-Additional information on our Privacy & Security practices may be found on our Sites and within the [Frequently Asked Questions](https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go) (FAQs). Although the additional information is provided as a resource, the terms and conditions of this Notice control, and by using the Site, you agree to the terms and conditions of this Notice.
+Additional information on our Privacy & Security practices may be found on our Sites and within the [Frequently Asked Questions](https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go "Frequently Asked Questions") (FAQs). Although the additional information is provided as a resource, the terms and conditions of this Notice control, and by using the Site, you agree to the terms and conditions of this Notice.
 
 **Collecting and using information**   
 **Personal Information We Collect Online**
@@ -82,7 +97,7 @@ We may use Personal Information:
 
 
 **How Personal Information Is Shared  
-**Please see the [Bank of America U.S. Consumer Privacy Notice](https://www.bankofamerica.com/privacy/consumer-privacy-notice.go) for information on how Personal Information may be shared and how you may be able to limit certain types of sharing.
+**Please see the [Bank of America U.S. Consumer Privacy Notice](https://www.bankofamerica.com/privacy/consumer-privacy-notice.go "Bank of America U.S. Consumer Privacy Notice") for information on how Personal Information may be shared and how you may be able to limit certain types of sharing.
 
 **Other Information We Collect Online  
 **   
@@ -95,7 +110,7 @@ Other Information is any information other than Personal Information that does n
   * **Using cookies** :  Cookies are pieces of information stored directly on the device you are using.  Cookies we use do not contain or capture unencrypted Personal Information.  Cookies allow us to collect information such as browser type, time spent on the Site, pages visited, language preferences, and your relationship with us.  We use the information for security purposes, to facilitate navigation, to display information more effectively, to personalize/tailor your experience while engaging with us, and to recognize your device to allow your use of our online products and services.  We collect statistical information about the usage of the Site in order to continually improve the design and functionality, to monitor responses to our advertisements and content, to understand how account holders and visitors use the Site and to assist us with resolving questions regarding the Site.  We also utilize cookies for advertising purposes. Please see the  **Advertising**  section below for more information.  
 You can refuse to accept these cookies and most devices and browsers offer their own privacy settings for cookies.  You will need to manage your cookie settings for each device and browser you use. However, if you do not accept these cookies, you may experience some inconvenience in your use of the Site and some online products and services.  For example, we will not be able to recognize your device and you will need to answer a challenge question each time you log on.  You also may not receive tailored advertising or other offers from us that may be relevant to your interests and needs.
   * **Other technologies including pixel tags, web beacons, and clear GIFs** : These may be used in connection with some Site pages, downloadable mobile applications and HTML-formatted email messages to measure the effectiveness of our communications, the success of our marketing campaigns, to compile statistics about usage and response rates, to personalize/tailor your experience while engaging with us online and offline, for fraud detection and prevention, for security purposes, for advertising and to assist us in resolving account holders' questions regarding use of our Site. Please see the Advertising section below for more information regarding our use of other technologies.
-  * **Flash objects** : As part of our solutions for online authentication, we use Flash objects (sometimes referred to as "Local Shared Objects") to help us recognize you and your device when you come back to the Site. For our pages running Adobe® Flash® content (demos and tutorials with moving content), we use Flash objects to determine your browser type and version of Adobe Flash in order for you to view the content.  We do not use Flash objects for any online behavioral advertising purpose.  Deleting cookies does not delete Flash objects. You can learn more about Flash objects – including how to control and disable them – through the [Adobe](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) interface. If you choose to disable Flash objects from our Site, then you may not be able to access and use all or part of the Site or benefit from the information and services offered.
+  * **Flash objects** : As part of our solutions for online authentication, we use Flash objects (sometimes referred to as "Local Shared Objects") to help us recognize you and your device when you come back to the Site. For our pages running Adobe® Flash® content (demos and tutorials with moving content), we use Flash objects to determine your browser type and version of Adobe Flash in order for you to view the content.  We do not use Flash objects for any online behavioral advertising purpose.  Deleting cookies does not delete Flash objects. You can learn more about Flash objects – including how to control and disable them – through the [Adobe](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html "Adobe") interface. If you choose to disable Flash objects from our Site, then you may not be able to access and use all or part of the Site or benefit from the information and services offered.
 
 
   * **IP Address:**   Your IP Address is a number that is automatically assigned to the device that you are using by your Internet Service Provider (ISP).  An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited.  Collecting IP Addresses is standard practice on the internet and is done automatically by many web sites.  We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, to personalize/tailor your experience while engaging with us online and offline, for compliance and security purposes, for advertising, and administering the Site. Please see the Advertising section below for more information.
@@ -139,7 +154,7 @@ We or our advertising service providers may use certain information about your a
 **Advertising Choices  
 **You may set your choices for advertising in the following ways:
 
-**Online Behavioral Advertising:  **If you prefer we not use information based on online Site behavior to provide online and offline tailored content and advertising, you may [opt out of online behavioral advertising.](https://www.bankofamerica.com/privacy/online-privacy-notice.go)
+**Online Behavioral Advertising:  **If you prefer we not use information based on online Site behavior to provide online and offline tailored content and advertising, you may [opt out of online behavioral advertising.](https://www.bankofamerica.com/privacy/online-privacy-notice.go "opt out of online behavioral advertising.")
 
 Opting out also means that the online content and advertising you receive on our non-servicing sites ( _i.e._ , before sign-in) will be untailored and will not be based on your online behavior or your relationship.
 
@@ -147,16 +162,16 @@ Please note that if you opt out of this advertising, you may still receive untai
 
 See the  **Important Reminder**  section below.
 
-**Bank-managed Direct Marketing:  **If you prefer we not deliver you marketing offers in email, postal mail or through telemarketing you may manage your direct marketing [choices online](https://secure.bankofamerica.com/customer/public/privacy.go) or:
+**Bank-managed Direct Marketing:  **If you prefer we not deliver you marketing offers in email, postal mail or through telemarketing you may manage your direct marketing [choices online](https://secure.bankofamerica.com/customer/public/privacy.go "choices online") or:
 
   * by telephone at 1.888.341.5000 our menu will prompt you through the choices,
   * through your assigned account representative (e.g., Financial Advisor, Mortgage Loan Officer) or a representative at a banking center
 
 
 
-**Advertising on third-party sites:** Bank of America participates in the Digital Advertising Alliance (DAA) self-regulatory program, uses the [Advertising Options Icon](http://www.aboutads.info/) on our behavioral ads on third-party sites (excluding ads appearing on platforms that do not accept the icon) and adheres to the DAA self-regulatory Principles for Online Behavioral Advertising. Anyone receiving a behavioral ad may click on the displayed icon to receive more information and can opt-out at that time or by visiting the third-party site's privacy policy for an opt-out mechanism.
+**Advertising on third-party sites:** Bank of America participates in the Digital Advertising Alliance (DAA) self-regulatory program, uses the [Advertising Options Icon](http://www.aboutads.info/ "Advertising Options Icon") on our behavioral ads on third-party sites (excluding ads appearing on platforms that do not accept the icon) and adheres to the DAA self-regulatory Principles for Online Behavioral Advertising. Anyone receiving a behavioral ad may click on the displayed icon to receive more information and can opt-out at that time or by visiting the third-party site's privacy policy for an opt-out mechanism.
 
-You may also opt out of receiving behavioral ads from many sites through the [Network Advertising Initiative's Opt-Out Tool](http://www.networkadvertising.org/choices/) or other tools provided by the publishing platform.
+You may also opt out of receiving behavioral ads from many sites through the [Network Advertising Initiative's Opt-Out Tool](http://www.networkadvertising.org/choices/ "Network Advertising Initiative's Opt-Out Tool") or other tools provided by the publishing platform.
 
 Please note that if you opt out, you may still receive untailored online advertising from Bank of America. Opting out from a specific third-party site means that the ads you receive will not be tailored based on your choices or behavior.
 
@@ -176,11 +191,11 @@ We may provide links to third-party sites, such as credit bureaus, service provi
 
 **Social media sites**
 
-Bank of America provides experiences on social media platforms including, but not limited to, Facebook®, Twitter®, YouTube® and LinkedIn® that enable online sharing and collaboration among users who have registered to use them. Any content you post on official Bank of America managed social media pages, such as pictures, information, opinions or any Personal Information that you make available to other participants on these social platforms, is subject to the Terms of Use and Privacy Policies of those respective platforms. Please refer to them to better understand your rights and obligations with regard to such content. In addition, please note that when visiting any official Bank of America social media pages, you are also subject to Bank of America's Privacy Notices, [Social Media User Terms](http://about.bankofamerica.com/en-us/social-media/terms-of-use.html#fbid=44ruMLjSRZK) and [Community Guidelines.](http://about.bankofamerica.com/en-us/social-media.html)
+Bank of America provides experiences on social media platforms including, but not limited to, Facebook®, Twitter®, YouTube® and LinkedIn® that enable online sharing and collaboration among users who have registered to use them. Any content you post on official Bank of America managed social media pages, such as pictures, information, opinions or any Personal Information that you make available to other participants on these social platforms, is subject to the Terms of Use and Privacy Policies of those respective platforms. Please refer to them to better understand your rights and obligations with regard to such content. In addition, please note that when visiting any official Bank of America social media pages, you are also subject to Bank of America's Privacy Notices, [Social Media User Terms](http://about.bankofamerica.com/en-us/social-media/terms-of-use.html#fbid=44ruMLjSRZK "Social Media User Terms") and [Community Guidelines](http://about.bankofamerica.com/en-us/social-media.html "Community Guidelines").
 
 **Security**
 
-To protect Personal Information from unauthorized access and use, we use security measures that comply with applicable federal and state laws. These measures may include device safeguards and secured files and buildings as well as oversight of our third-party service providers to ensure information remains confidential and secure.  Please visit [bankofamerica.com/security](https://www.bankofamerica.com/privacy/overview.go) for additional information.
+To protect Personal Information from unauthorized access and use, we use security measures that comply with applicable federal and state laws. These measures may include device safeguards and secured files and buildings as well as oversight of our third-party service providers to ensure information remains confidential and secure.  Please visit [bankofamerica.com/security](https://www.bankofamerica.com/privacy/overview.go "bankofamerica.com/security") for additional information.
 
 **Using other aggregation websites**
 
@@ -194,7 +209,7 @@ Keeping your account information accurate and up to date is very important. If y
 
 **Protecting children's privacy online**
 
-The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site. We do not knowingly collect information from children under 13 without parental consent. Visit the [Federal Trade Commission](http://www.ftc.gov/news-events/media-resources/protecting-consumer-privacy/kids-privacy-coppa) website for more information about the Children's Online Privacy Protection Act (COPPA).
+The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site. We do not knowingly collect information from children under 13 without parental consent. Visit the [Federal Trade Commission](http://www.ftc.gov/news-events/media-resources/protecting-consumer-privacy/kids-privacy-coppa "Federal Trade Commission") website for more information about the Children's Online Privacy Protection Act (COPPA).
 
 **Protecting individual health information**
 
