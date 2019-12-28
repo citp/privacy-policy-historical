@@ -1,10 +1,23 @@
-> *The following text is extracted and transformed from the cruisecritic.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626195748id_/https%3A//www.cruisecritic.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisecritic.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228225509id_/https%3A//www.cruisecritic.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # CruiseCritic - Privacy Policy
 
-Cruise Critic is an online service that provides recommendations for cruises, vacations, travel packages, travel guides and lots more. Our website, mobile properties, and related applications (collectively, our “Website”) are owned by The Independent Traveler, Inc. which is owned and operated by TripAdvisor LLC. More details about TripAdvisor LLC can be found below under “How you can contact us.” 
+  * [About Us](https://web.archive.org/about-us/about-us/ "About Us")
+  * [Advertising](https://web.archive.org/about-us/advertising/ "Advertising")
+  * [Ad Requests](https://web.archive.org/about-us/ad-requests/ "Ad Requests")
+  * [Content Licensing](https://web.archive.org/about-us/content-licensing/ "Content Licensing")
+  * [Press](https://web.archive.org/about-us/press/ "Press")
+  * [Employment Opportunities](https://www.tripadvisor.com/careers/search-jobs?location=8 "Employment Opportunities")
+  * [Privacy Policy](https://web.archive.org/about-us/privacy-policy/ "Privacy Policy")
+  * [Terms of Use](https://web.archive.org/about-us/terms-of-use/ "Terms of Use")
+  * [Editorial Disclaimer](https://web.archive.org/about-us/editorial-disclaimer/ "Editorial Disclaimer")
+  * [Contact Us](https://web.archive.org/about-us/contact-us/ "Contact Us")
 
-We understand that providing information online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us when you visit our Website or use our services. Before submitting your personal information to us, please read this Policy carefully to learn about our privacy practices. By visiting Cruise Critic’s website, [www.cruisecritic.com](https://web.archive.org/), and by visiting on a mobile phone, tablet, or similar device (a “Device”) or in connection with other sites or services, you are accepting the practices described herein. 
+
+
+Cruise Critic is an online service that provides recommendations for cruises, vacations, travel packages, travel guides and lots more. Our website, mobile properties, and related applications (collectively, our "Website") are owned by The Independent Traveler, Inc. which is owned and operated by TripAdvisor LLC. More details about TripAdvisor LLC can be found below under "How you can contact us." 
+
+We understand that providing information online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us when you visit our Website or use our services. Before submitting your personal information to us, please read this Policy carefully to learn about our privacy practices. By visiting Cruise Critic’s website, [www.cruisecritic.com](https://web.archive.org/), and by visiting on a mobile phone, tablet, or similar device (a "Device") or in connection with other sites or services, you are accepting the practices described herein. 
 
   * What information we collect from you
   * How we use your information
@@ -15,7 +28,7 @@ We understand that providing information online involves a great deal of trust o
   * Children's privacy
   * External links
   * Visiting our Website from outside the United States
-  * Your California privacy rights
+  * California Consumer Privacy Act Privacy Statement ("CCPA Statement")
   * Changes to this Privacy Policy
   * How you can contact us
 
@@ -33,7 +46,7 @@ You may have the opportunity to provide contact and travel-related information f
 
 Information from Other Sources. 
 
-We also may periodically obtain both personal and non-personal information about you from affiliated entities, business partners and other independent third-party sources and add it to other information about you. For example, if you visit Cruise Critic by “clicking through” from a site operated by one of our business partners, and you have registered with that partner, then information about you that you have provided to that partner may be shared with us, such as contact information and demographic information. As another example, if you access third party services, such as social media services, through our Website or before coming to our Website, we may collect information such as your user name, password, and other information made available to us through those services. We will work with our existing partners and potential future partners to improve and personalize your use of our Website in accordance with the practices outlined in this section and Policy. 
+We also may periodically obtain both personal and non-personal information about you from affiliated entities, business partners and other independent third-party sources and add it to other information about you. For example, if you visit Cruise Critic by "clicking through" from a site operated by one of our business partners, and you have registered with that partner, then information about you that you have provided to that partner may be shared with us, such as contact information and demographic information. As another example, if you access third party services, such as social media services, through our Website or before coming to our Website, we may collect information such as your user name, password, and other information made available to us through those services. We will work with our existing partners and potential future partners to improve and personalize your use of our Website in accordance with the practices outlined in this section and Policy. 
 
 Automatic Information. 
 
@@ -76,7 +89,7 @@ Please note that we do not have access to or control over cookies or other techn
 
 _Response to Do Not Track signals_
 
-Your web browser may transmit a “Do Not Track” (“DNT”) signal to Cruise Critic and other websites. Because of differences in web browsers’ default settings and the manner in which browsers incorporate DNT signals, it is sometimes unclear to site operators whether site visitors have selected the DNT setting themselves, or whether they are aware that they have a choice in determining the setting. Cruise Critic does not currently respond to DNT signals. Once the Internet industry has settled on standards related to this issue and Cruise Critic recognizes such standards, we may reevaluate this approach. 
+Your web browser may transmit a "Do Not Track" ("DNT") signal to Cruise Critic and other websites. Because of differences in web browsers’ default settings and the manner in which browsers incorporate DNT signals, it is sometimes unclear to site operators whether site visitors have selected the DNT setting themselves, or whether they are aware that they have a choice in determining the setting. Cruise Critic does not currently respond to DNT signals. Once the Internet industry has settled on standards related to this issue and Cruise Critic recognizes such standards, we may reevaluate this approach. 
 
 How we use your information
 
@@ -155,12 +168,36 @@ Visiting our Website from outside the United States
 
 If you are visiting our Website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that Cruise Critic does take steps pursuant to laws in the United States to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy. 
 
-Your California privacy rights
+California Consumer Privacy Act Privacy Statement ("CCPA Statement")
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at the address provided below in the “How you can contact us” section. 
+This CCPA Statement is provided pursuant to the California Consumer Privacy Act ("CCPA") and applies to California residents and supplements our overall Privacy Statement with additional disclosures and rights. 
+
+Your rights under CCPA
+
+As of January 1 2020, California law permits residents of California to request certain details about how their personal information is shared with third-parties or affiliated companies for direct marketing purposes. 
+
+California residents may also take advantage of the following rights: 
+
+  * You may request, up to two times each year, that we disclose to you the categories and specific pieces of personal information that we have collected about you, the categories of sources from which your personal information is collected, the business or commercial purpose for collecting your personal information, the categories of personal information that we disclosed for a business purpose, any categories of personal information about you that we sold, the categories of third-parties with whom we have shared your personal information, and the business or commercial purpose for selling your personal information, if applicable.
+  * You may request that we delete any personal information that we have collected from or about you. As described in more detail in our Privacy Statement, there are some reasons we will not be able to fully address your deletion request, such as if we need to complete a transaction for you, to detect and protect against fraudulent and illegal activity, to exercise our rights, or to comply with a legal obligation.
+  * You may request to opt out of our sale of your personal information to third-parties for their direct marketing purposes. This means that, if you opt out, going forward, we will not share your information with such third-parties to use for their purposes unless you later direct us to do so. To effect the opt out, please click on the Do Not Sell My Personal Information link on our website footer or submit a request in writing to the contact information below.
+
+
+
+To take advantage of your disclosure and deletion rights, [please contact us](https://web.archive.org/about-us/privacy-policy/#pp-contact-us). We may need to verify your identity to enable us to process your request. We value your privacy and will not discriminate in response to your exercise of privacy rights. We will respond to your request within 45 days of receipt of your request, after proper verification, unless we need additional time, in which case we will let you know. 
+
+Disclosures
+
+For purposes of compliance with the CCPA, in addition to the further details as described in the Statement, we make the following disclosures: 
+
+  * We collect the following categories of personal information: Identifiers/Contact Information, transactional information, Internet or other electronic network activity information, geolocation, visual and audio information, and inferences drawn from the above.
+  * We sell the following categories of personal information: Identifiers/Contact Information, Internet or other electronic network activity information, and inferences drawn from the above.
+  * We disclose the following categories of personal information for a business purpose: Identifiers/Contact Information, commercial information, Internet or other electronic network activity information, geolocation, visual and audio information, and inferences drawn from the above.
+
+
 
 Changes to this Privacy Policy
 
 Cruise Critic may change or modify this Privacy Policy in the future. We will note the date that revisions were last made to this Privacy Policy at the bottom of this page, and any revisions will take effect upon posting. We will notify our members of material changes to this Privacy Policy by either sending a notice to the email address you provided to us or by placing a notice on our Website. We encourage you to check this Privacy Policy from time to time to review the most current version. 
 
-This Privacy Policy is effective as of 08/01/2018.
+This Privacy Policy is effective as of 1/1/2020.
