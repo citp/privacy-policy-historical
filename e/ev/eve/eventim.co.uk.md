@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventim.co.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625163142id_/http%3A//www.eventim.co.uk/tickets.html%3Faffiliate%3DEUK%26doc%3Dinfo/dataProtection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventim.co.uk privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228130600id_/https%3A//www.eventim.co.uk/help/data-protection) for the most accurate reproduction.*
 
 # Tickets for concerts, gigs, festivals, comedy & more | Eventim UK
 
@@ -8,7 +8,7 @@ Eventim UK has created this Privacy Policy to show our firm commitment to the pr
 
 This document lays out our procedures in managing and protecting your personal data, how we limit the risk of a data breach and how we comply with the new GDPR data protection laws.
 
-Data protection responsibility lies with Eventim UK, the Data Controller. We can be contacted for any questions on Data Protection by emailing us on [marketing@eventim.co.uk](mailto:), or by sending a letter to Eventim UK, PO Box 65833, London, EC4A 2DQ.
+Data protection responsibility lies with Eventim UK, the Data Controller. We can be contacted for any questions on Data Protection by emailing us on [marketing@eventim.co.uk](mailto:), or by sending a letter to Eventim UK, PO Box 75668, London, WC1A 9QE.
 
 Eventim UK holds and updates a record of its data processing activities in accordance with GDPR.
 
@@ -46,7 +46,7 @@ The data subjects (i.e. you) have rights around their personal data. These are:
   * The right not to be profiled
   * The right to withdraw their consent
   * The right to transmit their data to another controller (portability)
-  * The right to complain to the Information Commissioner's Office
+  * The right to complain to the Information Commissioner’s Office
 
 
 
@@ -70,17 +70,25 @@ Eventim UK collects the following data to process a purchase:
 
 Eventim UK collects the following data when you create an Eventim account:
 
-_Mandatory:_
+_Mandatory:_  
+
     * Email Address
-_Optional:_
+  
+_Optional:_  
+
     * Name
     * Postal Address
     * Phone Number
     * Date of Birth
-Eventim UK collects the following data when you sign up to marketing communications (weekly newsletter, TicketAlarm):
+  
+Eventim UK collects the following data when you sign up to marketing communications (weekly newsletter, TicketAlarm):  
+
     * Email address
-Eventim UK may collect the following data when you contact us via social media, in order to manage your query:
-    * Social media username / handle – this is only stored as a note on the order you're enquiring about.
+  
+Eventim UK may collect the following data when you contact us via social media, in order to manage your query:  
+
+    * Social media username / handle – this is only stored as a note on the order you’re enquiring about.
+  
 Your personal information is used by us to contact you when necessary, in connection with transactions entered by you on the Site. We will not use your personal information for communications not associated with your transactions without your explicit consent – either by opting in during checkout, when creating an account or by updating the email preferences in your My Eventim account.
 
 **The service offered by Eventim UK may not be used by persons under the age of 16.**
@@ -95,14 +103,15 @@ In order to be able to process personal data it is necessary to identify the ass
 This is where you give your explicit consent for us to process your data, as detailed in the above sections. _ _Fulfilment of a contract to which the data subject is party__  
 This is where you place an order with Eventim UK. _ _Compliance with any legal obligation__  
 Where Eventim UK are required to comply with any legal obligations, e.g. fraud investigation. _ _Legitimate interest of the data controller__  
-When you've opted in to receive marketing communications from Eventim UK, we may contact you with upcoming events, presales and offers which we believe may interest you.
+When you’ve opted in to receive marketing communications from Eventim UK, we may contact you with upcoming events, presales and offers which we believe may interest you.
 
 Consent for us to contact you via email for marketing purposes, is collected by:
 
     * Clicking a check box during the purchase process
     * Completing marketing registration in your My Eventim account
     * Signing up for our weekly newsletter via our Site
-These can be withdrawn at any time in your [ My Eventim UK account](https://www.eventim.co.uk/login.html?affiliate=EUK&doc=feature/login).
+  
+These can be withdrawn at any time in your [ My Eventim UK account](https://web.archive.org/web/20191228130600id_/https://www.eventim.co.uk/help/data-protection/%E2%80%99).
 
 We only collect data strictly necessary to meet the purpose of processing. In the event of any change in processing, Eventim UK will ensure that the data collected are still relevant to the updated process.
 
@@ -136,9 +145,10 @@ The data are analysed for the following purposes:
     * Tracking those areas of our Site that are particularly popular with users
     * Analysing where users are from, in order to optimise the services provided
     * Adapting recommendations to specific groups of customers
-This process involves the use of stored cookies – namely ‘Perminfo' and ‘Evisc'. By adjusting your browser settings, you can block these stored cookies at any time, or you can stipulate that cookies are allowed when explicitly accepted by yourself.
+  
+This process involves the use of stored cookies – namely ‘Perminfo’ and ‘Evisc’. By adjusting your browser settings, you can block these stored cookies at any time, or you can stipulate that cookies are allowed when explicitly accepted by yourself.
 
-You can opt out from our personalised recommendations by clicking [here](http://www.eventim.co.uk/tickets.html?affiliate=EVE&doc=info/dataProtectionOptout).
+You can opt out from our personalised recommendations by clicking [here](https://web.archive.org/web/20191228130600id_/https://www.eventim.co.uk/help/data-protection/%E2%80%99http://www.eventim.co.uk/tickets.html?affiliate=EVE&doc=info/dataProtectionOptout%E2%80%99).
 
 After opting out, your specific recommendations will no longer be available.
 
@@ -146,25 +156,30 @@ _Please note_ : the opt out is completed by using the stored cookies. The opt ou
 
 Eventim UK deploys the following software solutions within the meaning of the above (by clicking the respective provider below, the user will be redirected to the opt out option):
 
-    * [Maxymiser](https://www.oracle.com/de/marketingcloud/products/testing-and-optimization/index.html)
-    * [Google](https://www.google.com/settings/ads)
-    * [Next Performance](https://www.nextperf.com/de/privacy)
-    * [Facebook](https://optout.aboutads.info/?c=2#!/)
-    * [Eventim UK](https://www.eventim.co.uk/tickets.html?affiliate=EUK&doc=info/dataProtectionOptout)
-    * [Google Analytics](javascript:gaOptout\(\))
-    * [Atlas Solutions, LLC](https://www.youronlinechoices.com/de/praferenzmanagement/)
-    * [AdTriba](https://www.adtriba.com/privacy-policy.html)
-    * [TagCommander](https://www.tagcommander.com/de/datenschutz/)
-    * [The Adex](https://www.youronlinechoices.com/de/praferenzmanagement/)
-    * a href=' https://www.youronlinechoices.com/de/praferenzmanagement/'>Tapad
+[Maxymiser](https://www.oracle.com/de/marketingcloud/products/testing-and-optimization/index.html)  
+[Google](https://www.google.com/settings/ads)  
+[Next Performance](https://www.nextperf.com/de/privacy)  
+[Facebook](https://optout.aboutads.info/?c=2#!/)  
+[Eventim UK](https://www.eventim.co.uk/tickets.html?affiliate=EUK&doc=info/dataProtectionOptout)  
+Google Analytics  
+[Atlas Solutions, LLC](https://www.youronlinechoices.com/de/praferenzmanagement/)  
+[AdTriba](https://www.adtriba.com/privacy-policy.html)  
+[TagCommander](https://www.tagcommander.com/de/datenschutz/)  
+[The Adex](https://www.youronlinechoices.com/de/praferenzmanagement/)  
+[Tapad](https://www.youronlinechoices.com/de/praferenzmanagement/)  
+[AdRoll](https://www.nextroll.com/privacy/)
+
 This website uses Google Analytics, a web analytics service provided by Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA ("Google"). Google Analytics uses so-called "cookies", text files that are stored on the user's computer and which allow an analysis of the use of the website. The information on the use of the website generated by the cookie is generally transferred to a Google server in the USA and stored there.
 
 The IP address transmitted by your browser as part of Google Analytics will not be merged with other Google data. In addition, Eventim UK has extended the Google Analytics code with "anonymizeIP" on this website. This ensures the masking of the user's IP address so that all data is collected anonymously. Only in exceptional cases the full IP address will be transferred to a Google server in the USA and abbreviated there.
 
 On behalf of Eventim UK, Google will use this information to evaluate the use of the website in order to compile reports on the website activities and to provide other services related to the website usage and the Internet usage for the website operator. The user can prevent the storage of the cookies by means of a corresponding setting of their browser software; in this case not all functions of this website may be fully utilised.
 
-The user can also prevent Google from collecting the data (including IP address) generated by the cookie and its use of the website (including IP address) as well as the processing of this data by Google, by downloading the browser plug-in available under the following link and installed: [  
-Eventim UK also uses Google Analytics to evaluate data from double-click cookies and AdWords for statistical purposes. If the user does not want this, it can be disabled through the Ad Manager ](https://tools.google.com/dlpage/gaoptout?hl=de%20%E2%80%98%3Ehttps://tools.google.com/dlpage/gaoptout?hl=de%3C/a%3E%3Cbr%3E%3Cbr%3E%20As%20an%20alternative%20to%20the%20browser%20add-on,%20particularly%20for%20browsers%20on%20mobile%20devices,%20the%20user%20can%20also%20prevent%20Google%20Analytics%20from%20being%20captured%20by%20clicking%20on%20this%20link.%20An%20opt-out%20cookie%20is%20then%20set%20which%20prevents%20the%20future%20collection%20of%20the%20user)[here](https://www.google.de/settings/ads/).
+The user can also prevent Google from collecting the data (including IP address) generated by the cookie and its use of the website (including IP address) as well as the processing of this data by Google, by downloading the browser plug-in available under the following link and installed: [https://tools.google.com/dlpage/gaoptout?hl=de](https://web.archive.org/web/20191228130600id_/https://www.eventim.co.uk/help/data-protection/%E2%80%99)
+
+As an alternative to the browser add-on, particularly for browsers on mobile devices, the user can also prevent Google Analytics from being captured by clicking on this link. An opt-out cookie is then set which prevents the future collection of the user's data when visiting this website. The opt-out cookie is only valid in the browser used and only for this website and is stored on the user's device. If the user clears the cookies in this browser, the opt-out cookie must be set again.
+
+Eventim UK also uses Google Analytics to evaluate data from double-click cookies and AdWords for statistical purposes. If the user does not want this, it can be disabled through the Ad Manager [here](https://web.archive.org/web/20191228130600id_/https://www.eventim.co.uk/help/data-protection/%E2%80%99).
 
 Eventim UK uses Google Analytics, including the capabilities of Universal Analytics. Universal Analytics allows us to analyse the activities on our sites across devices (for example, when using a laptop and later by using a tablet). This is made possible by the pseudonym assignment of a user ID to a user. Such an assignment occurs, for example, when the user registers for a customer account or logs on to his customer account. However, no personal data will be forwarded to Google. Although adding additional features to Google Analytics with Universal Analytics, this does not mean that there is a limitation of data protection measures such as IP Masking or the browser add-on.
 
@@ -176,11 +191,12 @@ When contacting us via social media regarding an order, you accept that we will 
 
 Our Site hosts social plug-ins for many social networks.
 
-When a web page containing a social plug-in (such as the ‘Like/Recommend' or 'Tweet' button) is accessed, the user's browser connects to the social networks servers and the content required for the social plug-ins is downloaded. The operator of the social network receives the web address of the website accessed by the user and the date and time of access and the IP address of the user amongst other information. If the user is logged into their social network account, the social network may be able to relate the visit to that page to the user's social network account. If the user clicks the social network button inside our website, this information may also be transferred to the social network and stored there. If the user does not wish this information to be sent to the social network, he or she must log out of their social network before visiting our website. If the user of the website is not a member of the social network, there is still a possibility that the social network will identify and store the user's IP address.
+When a web page containing a social plug-in (such as the ‘Like/Recommend’ or 'Tweet' button) is accessed, the user’s browser connects to the social networks servers and the content required for the social plug-ins is downloaded. The operator of the social network receives the web address of the website accessed by the user and the date and time of access and the IP address of the user amongst other information. If the user is logged into their social network account, the social network may be able to relate the visit to that page to the user’s social network account. If the user clicks the social network button inside our website, this information may also be transferred to the social network and stored there. If the user does not wish this information to be sent to the social network, he or she must log out of their social network before visiting our website. If the user of the website is not a member of the social network, there is still a possibility that the social network will identify and store the user’s IP address.
 
-Eventim UK has no control over the content of the plug-ins or of the information transferred to social networks. The purpose and scope of data collection, the further processing and use of the data by the social networks and the user's rights and setting options to protect the user's privacy can be found in the privacy policies of the networks, for example:
+Eventim UK has no control over the content of the plug-ins or of the information transferred to social networks. The purpose and scope of data collection, the further processing and use of the data by the social networks and the user’s rights and setting options to protect the user’s privacy can be found in the privacy policies of the networks, for example:
 
-    * [Twitter privacy policy](https://www.facebook.com/policyphp%20%E2%80%98%3EFacebook%20privacy%20policy%3C/a%3E%3C/li%3E%3Cli%3E%3Ca%20href=)
-    * [AddThis privacy policy](https://www.addthis.com/privacy)
+    * [Facebook privacy policy](https://web.archive.org/web/20191228130600id_/https://www.eventim.co.uk/help/data-protection/%E2%80%99)
+    * [Twitter privacy policy](https://web.archive.org/web/20191228130600id_/https://www.eventim.co.uk/help/data-protection/%E2%80%99)
+    * [AddThis privacy policy](https://web.archive.org/web/20191228130600id_/https://www.eventim.co.uk/help/data-protection/%E2%80%99)
 
 
