@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the routeone.co.uk privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505223952id_/https%3A//www.routeone.co.uk/customer/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routeone.co.uk privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228040015id_/https%3A//www.routeone.co.uk/customer/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Route One
 
@@ -90,6 +90,10 @@ We may disclose aggregate, anonymised statistics about the number of visitors to
 **Third party sites**  
 
 Our site may contain links to and from the websites of our partner networks, advertisers and other third parties. If you follow a link to any of these websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+**Klarna**
+
+n order to be able to offer you Klarna’s payment options, we will pass to Klarna certain aspects of your personal information, such as contact and order details, in order for Klarna to assess whether you qualify for their payment options and to tailor the payment options for you.  General information on Klarna can be found[ here](https://www.klarna.com/uk). Your personal data is handled in accordance with applicable data protection law and in accordance with the information in[ Klarna’s privacy policy](http://cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy).  
 
 **Seeing adverts for Route One online**  
 
