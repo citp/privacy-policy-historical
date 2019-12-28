@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the peakon.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326175347id_/https%3A//peakon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakon.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228010224id_/https%3A//peakon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Peakon
 
-Peakon ApS of Langebrogade 6F, 1411, Copenhagen K, Denmark and its group companies as detailed further below (collectively, “ **Peakon** ” / “ **we** ” / “ **our** ” / “ **us** ”) are committed to protecting and respecting your privacy.
+Peakon ApS of Frederiksberggade 11, 1459, Copenhagen K, Denmark and its group companies as detailed further below (collectively, “ **Peakon** ” / “ **we** ” / “ **our** ” / “ **us** ”) are committed to protecting and respecting your privacy.
 
 This policy sets out the basis, under applicable data protection law (including the General Data Protection Regulation (EU 2016/679), on which we will process any personal data we collect from you, or that you or your employer provides to us through your use of the Peakon online software platform and the accompanying software App (together the **“Platform”** ). 
 
@@ -32,13 +32,13 @@ In the case of Marketing Contacts, we are the data controller in respect of your
 
 We are also the data controller in respect of contact information for each client contact which we hold for account and contract management purposes, including for contract queries and billing purposes.
 
-References in this policy to **“your employer”** shall refer to the entity who has entered into the Employer Agreement with us, whether or not as a matter of law you are an employee, consultant or contractor of that entity, and such references are not intended to characterise or prejudice your status _vis-à-vis_  that entity.
+References in this policy to **“your employer”** shall refer to the entity who has entered into the Employer Agreement with us, whether or not as a matter of law you are an employee, consultant or contractor of that entity, and such references are not intended to characterise or prejudice your status vis-à-vis that entity.
 
  **INFORMATION WE COLLECT ABOUT YOU   **
 
 For Survey Recipients and Client Users: we will collect and process the following data about you as follows.
 
-  *  **Information you give us.** You may give us information about you:
+  * Information you give us. You may give us information about you:
 
 
   *     * when using the Platform’s functions, including by filling in forms or completing surveys on or via the Platform. The extent of the information collected in engagement surveys is set by your employer. This information may include your name, age, company email address, company telephone number, job title, level of seniority, department, work start date, salary and primary office location, as well as any views you provide to us about you or your performance in your role, or information regarding your employer, your colleagues or other third parties during the course of completing engagement surveys or otherwise using the Platform;
@@ -136,7 +136,7 @@ For Survey Recipients and Client Users
 
 In relation to the above uses, we shall process your personal data on the legal basis that it is necessary for the purposes of our legitimate interests or of your employer’s legitimate interests, including: to enable us to perform our contractual obligations under the Employer Agreement, to improve or optimise our services, to maintain the security of our computer systems, to understand how the Platform is use and to improve the user experience of the Platform, to protect and defend our legal rights, for troubleshooting, and for data analysis, testing and research purposes.  Please also note:
 
-  * We will not undertake any surveys or analysis via the Platform by specific reference to any special categories of personal data (including racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic or biometric data, health data, sex life or sexual orientation), unless this has been expressly requested or configured by your employer. Where this is the case, it is your employer’s responsibility to ensure they have obtained your explicit consent to such processing.  However, you might, in the course of providing comments or feedback in a survey, provide personal data within one of the above categories where this has not been requested.  By providing this data to us, you will be deemed to have consented to our processing such data as part of the survey results and disclosing such data to your employer.
+  * We will not undertake any surveys or analysis via the Platform by specific reference to any special categories of personal data (including racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic or biometric data, health data, sex life or sexual orientation), unless this has been expressly requested or configured by your employer. Where this is the case, it is your employer’s responsibility to ensure they have obtained your explicit consent to such processing or that they have another lawful basis for such processing (please contact your employer if you have any questions).  However, you might, in the course of providing comments or feedback in a survey, provide personal data within one of the above categories where this has not been requested.  By providing this data to us, you will be deemed to have consented to our processing such data as part of the survey results and disclosing such data to your employer.
 
 
   * We will not reveal your identity to your employer other than in exceptional circumstances, as explained further below in the section entitled “Disclosure Of Your Information”.
@@ -160,7 +160,7 @@ We may also share your personal data with selected third parties in accordance w
   *     * Amazon Web Services, Inc and Heroku, Inc; who provide cloud hosted infrastructure and services used by us to operate the Platform as a hosted solution;
 
 
-  *     * Google LLC, Delighted, Inc, Intercom, Inc. and Nexmo, Inc, who provide product tools and functionality used by us in delivery of the Platform and associated services; and
+  *     * Delighted, Inc, Intercom, Inc. and Nexmo, Inc, who provide product tools and functionality used by us in delivery of the Platform and associated services; and
 
 
   *     * Salesforce and Marketo, who provide marketing and CRM management and delivery services.
@@ -208,7 +208,7 @@ Except as explained above, we will not disclose your personal data to any third 
 
 A number of our service providers are based outside the European Economic Area (“ **EEA** ”), predominantly in the United States.  We may transfer your personal data to those services providers in the United States or other countries outside the EEA in order to provide our services via the Platform or (in respect of Marketing Contacts) in order to undertake marketing activities.
 
-We have put in place appropriate measures to ensure that your personal data are treated by those third parties in a way that is consistent with and which respects the EU laws on data protection:, including verifying that the recipient is certified under the EU-US Privacy Shield, or in putting in place written contractual agreements to meet EU-approved data protection obligations.  If you require further information about these protective measures, please contact us at privacy@peakon.com.
+We have put in place appropriate measures to ensure that your personal data are treated by those third parties in a way that is consistent with and which respects the EU laws on data protection, including verifying that the recipient is certified under the EU-US Privacy Shield, or in putting in place written contractual agreements to meet EU-approved data protection obligations.  If you require further information about these protective measures, please contact us at privacy@peakon.com.
 
  **SECURITY OF INFORMATION**
 
@@ -246,7 +246,7 @@ You have the following rights in regards to your personal information:
   *  **Rectification.** You have the right to request that we rectify any inaccurate personal data that we hold about you.
 
 
-  *  **Erasure.**   You have the right to request that we erase any personal data that we hold about you, based on one of a number of grounds, including the withdrawal of your consent (where our processing of that data is undertaken on the basis of your consent), or if your object to our continued processing (as mentioned above).  This right does not extend to information which is not personal data. Please also note that it is likely to be necessary for us to retain your personal data for the purposes of assessing and verifying data that is submitted and/or held on the Platform, and your rights under applicable law to request erasure may be limited accordingly. We also reserve the right to retain your personal data in an anonymised form for statistical and benchmarking purposes.
+  *  **Erasure.** You have the right to request that we erase any personal data that we hold about you, based on one of a number of grounds, including the withdrawal of your consent (where our processing of that data is undertaken on the basis of your consent), or if your object to our continued processing (as mentioned above).  This right does not extend to information which is not personal data. Please also note that it is likely to be necessary for us to retain your personal data for the purposes of assessing and verifying data that is submitted and/or held on the Platform, and your rights under applicable law to request erasure may be limited accordingly. We also reserve the right to retain your personal data in an anonymised form for statistical and benchmarking purposes.
 
 
   *  **Request to restriction of processing.** This enables you to ask us to restrict the processing of your personal data in certain circumstances, for example if you want us to establish its accuracy or the reason for processing it.
@@ -255,7 +255,7 @@ You have the following rights in regards to your personal information:
   *  **Portability.** You have the right to obtain copies of your personal data to enable you to reuse your personal data across different services and with different companies. You may also request that your personal data is transmitted directly to another organisation where this is technically feasible using our data processing systems.
 
 
-  *  **Change of preferences.** You can change your data processing preferences at any time. For example, if you have given your consent to direct marketing, but have changed your mind, you have the ability to opt out of receiving marketing communications by emailing us at [support@peakon.com](mailto:support@peakon.com) or clicking the relevant link in any communication you receive.
+  *  **Change of preferences.** You can change your data processing preferences at any time. **For example, if you have given your consent to direct marketing, but have changed your mind, you have the ability to opt out of receiving marketing communications** by emailing us at [privacy@peakon.com](mailto:support@peakon.com) or clicking the relevant link in any communication you receive.
 
 
 
@@ -279,4 +279,4 @@ Any changes we may make to our privacy policy will be posted on this page and wh
 
  **CONTACT   **
 
-If you have any questions about this Privacy Policy, please contact us at [support@peakon.com](mailto:support@peakon.com).
+If you have any questions about this Privacy Policy, please contact us at [privacy@peakon.com](mailto:support@peakon.com).
