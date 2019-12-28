@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexetc.org privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226161201id_/https%3A//sexetc.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexetc.org privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228010046id_/https%3A//sexetc.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -22,6 +22,6 @@ If you have any questions or comments about the “Privacy Statement” outlined
 
 Answer  
 Rutgers University  
-41 Gordon Road, Suite A  
+41 Gordon Road, Suite C  
 Piscataway, NJ 08854  
 [sexetc@rci.rutgers.edu](mailto:sexetc@rci.rutgers.edu)
