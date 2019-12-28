@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the avvo.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625203545id_/http%3A//www.avvo.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avvo.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228230918id_/https%3A//www.avvo.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Avvo
 
 **AVVO.COM**
 
-Last Revised: April 19, 2017
-
 Thanks for using Avvo. This privacy policy ( _"Policy"_ ) applies to your use of Avvo's website, products, apps, and services (together, the _"Services"_ ). The Policy is intended to inform you about how we collect and use information so you can make an informed decision about using the Services. Please read it carefully before using the Services or submitting any information to us. If you do not agree to any part of this Policy, then you should stop accessing the Services.
+
+If you have any questions, please [contact us](https://support.avvo.com/hc/en-us/articles/115000423163 "Link: http://www.avvo.com/support/contact_us")[.](https://support.avvo.com/hc/en-us/articles/115000423163)  
+
 
  **What information do we collect?**
 
@@ -22,7 +23,7 @@ We may also use third parties to display and target ads, provide certain functio
 
  **3\. Personal information**
 
-We collect and store Personal Information that you provide to us when accessing or using the Services. "Personal Information" means information relating to a person who is or can be identified directly from that information. This includes your name, address, telephone number, email address, credit card or other account number. Personal Information does not include: (1) aggregated or anonymized information; (2) any publicly available information about lawyers; (3) information about you that is provided by third parties; or (4) information that is posted to publicly accessible areas of the Services. Examples of Personal Information we collect include information that you provide when you (a) create or update your Avvo account, (b) communicate with us, (c) purchase services from us, (d) contact or recommend a lawyer, (e) submit client ratings or peer endorsements. If you are a lawyer and claim or update your profile (" _Profile_ "), or post information using your Profile, we may also collect verification information.
+We collect and store Personal Information that you provide to us when accessing or using the Services. "Personal Information" means information relating to a person who is or can be identified directly from that information. This includes your name, address, telephone number, email address, credit card or other account number. Personal Information does not include: (1) aggregated or anonymized information; (2) any publicly available information about lawyers; or (3) information that is posted to publicly accessible areas of the Services. Examples of Personal Information we collect include information that you provide when you (a) create or update your Avvo account, (b) communicate with us, (c) purchase services from us, (d) contact or recommend a lawyer, (e) submit client ratings or peer endorsements. If you are a lawyer and claim or update your profile (" _Profile_ "), or post information using your Profile, we may also collect verification information.
 
  **4\. Publicly posted Information**
 
@@ -32,19 +33,19 @@ Personal Information that you post to public areas of the Services or via your P
 
  **1\. Non-personal information**
 
-We use information other than Personal Information, including aggregated or anonymized information, for remarketing with Google Analytics, for ad targeting, to analyze trends, administer the Services, improve customer service, diagnose problems with our servers, track user movement, and gather demographic information for aggregate use. Third party ad platforms may use this information for a similar purpose, but you should follow up with third parties and confirm their information collection and usage practices directly.  _We may freely publish, disclose and use information other than Personal Information, including aggregated or anonymized Personal Information, to or with third parties._
+We use certain information (such as usage information, information collected automatically through cookies and other tracking technologies, and aggregated or anonymized information), for remarketing with Google Analytics, for ad targeting, to analyze trends, administer the Services, improve customer service, diagnose problems with our servers, track user movement, and gather demographic information for aggregate use. Third-party ad platforms may use this information for a similar purpose, but you should follow up with third parties and confirm their information collection and usage practices directly.  _We may freely publish, disclose and use this information to or with third parties._
 
  **2\. Personal information**
 
 We use Personal Information to facilitate your use of the Services, to process your requests or transactions, to provide you with information, products and services you request, to administer and assist us with the operation of our business, and for the purpose for which the information was provided. We may use the information we collect to send you news relevant to you or in accordance with your preferences. We may also send you advertisements from third parties.  _We do not disclose, rent, sell or otherwise make available your Personal Information to third parties for direct marketing purposes._
 
- **3\. Third party service providers**
+ **3\. Third-party service providers**
 
-In the event that we engage with third party service providers in connection with our Services, we may share Personal Information with such service providers who need access to such information to carry out their work for us. For example, we may use credit card processing or verification companies to verify credit card information or to verify your identity. Other than such service providers, we do not share Personal Information with third parties unless (1) you have indicated to us that you wish to receive information from such parties; (2) you otherwise give us your consent to do so; or (3) in response to a request for information or a subpoena.
+In the event that we engage with third-party service providers in connection with our Services, we may share Personal Information with such service providers who need access to such information to carry out their work for us. For example, we may use credit card processing or verification companies to verify credit card information or to verify your identity. Other than such service providers, we do not share Personal Information with third parties unless (1) you have indicated to us that you wish to receive information from such parties; (2) you otherwise give us your consent to do so; or (3) in response to a request for information or a subpoena.
 
  **4\. Text messaging**
 
-We do not ordinarily send text messages for marketing purposes, but to the extent you provide us with your mobile telephone number, you consent to the transmission of text messages to such number, and waive any rights you may have under the Telephone Consumer Protection Act. You may, however, contact us and opt out of receiving such texts.
+We do not ordinarily send text messages for marketing purposes, but to the extent you provide us with your mobile telephone number, you consent to the transmission of text messages to such number, and waive any rights you may have under the Telephone Consumer Protection Act. You may, however, contact us and opt-out of receiving such texts.
 
  **Managing your preferences**
 
@@ -62,11 +63,11 @@ We respect all browser instructions for setting or rejecting cookies on generall
 
 [Digital Advertising Alliance](http://www.aboutads.info/choices/ "Link: http://www.aboutads.info/choices/")
 
-While Avvo will follow any such preferences, we make no representations regarding whether third parties, including third party ad platforms, will do so.
+While Avvo will follow any such preferences, we make no representations regarding whether third parties, including third-party ad platforms, will do so.
 
  **2\. Managing your newsletter/communications preferences**
 
-You may select whether or not you wish to continue to receive newsletters or other communications by changing your account settings on the email and notifications page of the My Account section of the Services. In addition, you may "opt out" of receiving any category of subscription, marketing or promotional email from Avvo by following the unsubscribe instructions or using the unsubscribe links within the emails we send. Please note, however, that as long as you maintain an account, you may not "opt out" of receiving service or account-related emails from Avvo.
+You may select whether or not you wish to continue to receive newsletters or other communications by changing your account settings on the email and notifications page of the My Account section of the Services. In addition, you may "opt-out" of receiving any category of subscription, marketing or promotional email from Martindale-Avvo by following the unsubscribe instructions or using the unsubscribe links within the emails we send. Please note, however, that as long as you maintain an account, you may not "opt-out" of receiving service or account-related emails from Avvo.
 
  **Requests for information; disclosure for enforcement purposes**
 
@@ -87,27 +88,64 @@ Avvo endeavors to secure your Personal Information from unauthorized access, use
 
 No security measures are perfect or impenetrable. To protect the confidentiality of your Personal Information, you must keep your password confidential and not disclose it to any other person. You are responsible for all use of the Services by any person using your password. Please advise us immediately by emailing us if you believe your password has been misused. You should also note that email is not secure, and you should not send any confidential or sensitive information to us via an unsecured email.
 
- **Third party websites and practices**
+ **Third-party websites and practices**
 
-The Services may contain links to other websites or make available third party services, including ad platforms and technologies. We are not responsible for the privacy practices of such third parties. We encourage you to be aware and to read the privacy policies of any website or service that collects your information. Similarly, if you accessed the Services through another website, we are not responsible for the privacy practices of that website, and you should review the privacy policy of the originating website before providing any information to that website. This Policy applies solely to information collected by us.  
+The Services may contain links to other websites or make available third-party services, including ad platforms and technologies. We are not responsible for the privacy practices of such third parties. We encourage you to be aware and to read the privacy policies of any website or service that collects your information. Similarly, if you accessed the Services through another website, we are not responsible for the privacy practices of that website, and you should review the privacy policy of the originating website before providing any information to that website. This Policy applies solely to information collected by us.  
 
 
  **Transfers of information**
 
-Information about our customers, including Personal Information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which Personal Information could be transferred to third parties as one of Avvo's business assets. In such an event, we will attempt to notify you before your Personal Information is transferred, but you may not have the right to opt out of any such transfer.  
+Information about our customers, including Personal Information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which Personal Information could be transferred to third parties as one of Avvo's business assets. In such an event, we will attempt to notify you before your Personal Information is transferred, but you may not have the right to opt-out of any such transfer.  
 
 
  **Children**
 
 Our Services are not intended for use by children under the age of 13, and such use is prohibited by our Terms of use. We do not knowingly collect Personal Information from children under 13. If you become aware that a child has provided us with Personal Information, please contact us as set forth in this Policy.
 
+ **California privacy rights**
+
+This section is provided pursuant to the California Consumer Privacy Act of 2018 (the “ _CCPA_ ”). This section applies solely to our users who are California residents as defined under the CCPA.
+
+ **1\. Information we collect**
+
+Within the last twelve (12) months, we have or may have collected the following categories of information from our users and/or consumers: identifiers; personal information listed under Cal. Civ. Code § 1798.80(e); characteristics of protected classifications under California or federal law; commercial information; biometric information; internet or other similar network activity information; geolocation data; professional or employment-related information; and inferences drawn from such information. 
+
+**2. _Categories of sources from which information is collected_**
+
+We obtain the categories of personal information listed above from the following categories of sources: directly from you, as described above under “Personal information” and “Publicly posted information”; indirectly from other users of the Services; indirectly from third-parties that interact with us in connection with the services that we perform; and directly and indirectly through cookies and other technologies, as described above under “Use/log information” and “Cookies and online advertising.”
+
+ **3. _Sharing of personal information_**
+
+We disclose your personal information for a business purpose to service providers and third parties to whom you authorize or direct us to disclose your personal information in connection with the Services. We also may share personal information about you for any other purpose(s) disclosed to you at the time we collect your information or with your consent. 
+
+ **4. _Personal information “sold” to third parties_**
+
+In the preceding twelve (12) months, we have made available to our third-party marketing partners personal information included in the following categories: identifiers; commercial information; internet or other similar network activity information; and inferences drawn from such information.
+
+We do not sell the personal information of consumers that we know are minors under 16 years of age without affirmative authorization as required under the CCPA.
+
+ **5\. Your rights under the CCPA**
+
+As of January 1, 2020, California residents, as defined under the CCPA, may take advantage of the following rights:
+
+a)      Subject to certain exclusions under the CCPA, you have the right to opt-out of the sale of your personal information. 
+
+b)      You may request, up to two (2) times each year, that we disclose to you, once we receive and confirm your verifiable consumer request, the: (1) categories and specific pieces of personal information that we have collected about you; (2) categories of sources from which your personal information is collected; (3) business or commercial purpose for collecting your personal information; (4) categories of personal information that we disclosed for a business purpose; (5) categories of personal information that we sold about you; (6) categories of third-parties with whom we have shared your personal information; and (7) business or commercial purpose for selling your personal information.
+
+c)       Subject to certain exceptions and up to two (2) times each year, you may request that we delete any of your personal information that we collected from you.  Once we receive and confirmed your verifiable consumer request for deletion, we will delete (and direct our service providers to delete) such personal information from our records, unless an exception applies.
+
+To opt-out of the sale of your personal information, please refer to the “Managing online advertising preferences” section above.
+
+To exercise the access and deletion rights described above, please submit a request to us by either sending an email to legal@avvo.com or filling out our Privacy Contact Form, with “California Privacy Rights” in the subject line.
+
+You will be asked to provide certain identifying information, such as your name, email, and residency. While processing your request, we may ask you to provide further verifying documentation. We will only use personal information provided in a request to verify the requestor's identity or authority to make the request. Only you or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verifiable consumer request related to your personal information. You may also make a verifiable consumer request on behalf of your minor child. If you are making a request through an authorized agent acting on your behalf, such authorized agent must provide proof of written authorization to do so, and you must verify your identity directly with us, unless such authorized agent provides proof of a power of attorney pursuant to Probate Code sections 4000 to 4465.
+
+ **6\. Non-discrimination**
+
+We will not discriminate against you for exercising any of your rights under the CCPA. Accordingly, and unless permitted by the CCPA, we will not: deny you services; charge you different prices or rates for services; provide you a different level of service; or suggest that you may receive a different price or rate for services or a different level for services. We may charge a different price or rate or provide a different level of service if the difference is reasonably related to the value provided by your personal information.
+
  **Changes to the policy**
 
 We may change the provisions of this Policy at any time, and we will always post the most up-to-date version on our website. If we determine, in our sole discretion, that a modification to this Policy materially affects your rights, we will notify you (by, for example, sending a message to your account email or posting on the Avvo Blog).
 
-If you have any questions or comments about this Policy or the practices relating to our Services, or you wish to verify, correct or delete any Personal Information we have collected, please contact us via our [Support page](http://www.avvo.com/support/contact_us "Link: http://www.avvo.com/support/contact_us")[ ](http://www.avvo.com/support/contact_us "Link: http://www.avvo.com/support/contact_us")or at:
-
-Avvo, Inc.  
-720 Olive Way, Suite 1400  
-Seattle, WA 98101  
-Attn: Privacy Policy
+If you have any questions or comments about this Policy or the practices relating to our Services, or you wish to verify, correct or delete any Personal Information we have collected, please contact us via [our page here](https://support.avvo.com/hc/en-us/articles/115000423163 "Link: https://support.avvo.com/hc/en-us/articles/115000423163").
