@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiotime.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624105804id_/https%3A//tunein.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiotime.com privacy policy that was archived on 2019-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191228100234id_/https%3A//tunein.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policies | TuneIn | Free Internet Radio
 
@@ -6,7 +6,7 @@
 
 The terms “ **TuneIn** ,” “ **we** ,” “ **us** ,” and “ **our** ” include TuneIn, Inc. and its affiliates and/or subsidiaries. All other terms not defined in this Privacy Policy will have the meanings set forth in the TuneIn, Inc. End User License Agreement and Terms of Service located at <https://tunein.com/policies/> (“EULA”). 
 
-This Privacy Policy explains how TuneIn may collect, use, process, disclose and safeguard information we obtain through the Service, including our Website (currently at [www.tunein.com](https://web.archive.org/web/20190624105804id_/https://tunein.com/policies/privacy/www.tunein.com)) and our mobile applications, and in connection with our partner and vendor relationships. It also tells you about your rights and choices with respect to your Personal Information, and how you can contact us if you have any questions or concerns. 
+This Privacy Policy explains how TuneIn may collect, use, process, disclose and safeguard information we obtain through the Service, including our Website (currently at [www.tunein.com](https://tunein.com/)) and our mobile applications, and in connection with our partner and vendor relationships. It also tells you about your rights and choices with respect to your Personal Information, and how you can contact us if you have any questions or concerns. 
 
 For the purpose of this Privacy Policy, “ **Personal Information** ” means any information relating to an identified or identifiable individual. We obtain Personal Information relating to you from various sources as described below.
 
@@ -54,7 +54,7 @@ Where applicable, we indicate whether and why you must provide us with your Pers
 
 **Job Applications.** If you apply for a job at TuneIn, we may process your Personal Information to evaluate your application.
 
-**Legal.** We may use your Personal Information to enforce our [End User License Agreement and Terms of Service](https://tunein.com/policies/), to defend our legal rights, to comply with our legal obligations and internal policies.
+**Legal.** We may use your Personal Information to enforce our [EULA](https://tunein.com/policies/), to defend our legal rights, or to comply with our legal obligations and internal policies.
 
 If you are located in the European Economic Area (“ **EEA** ”): 
 
@@ -65,7 +65,7 @@ If you are located in the European Economic Area (“ **EEA** ”):
 
 
 
-**Vendors and Service Providers.**  We may share any Personal Information we receive with vendors and service providers retained in connection with the provision of the Service. For example, we may use service providers to measure app usage and user engagement, serve advertising on our Services or provide DDoS mitigation services. 
+**Vendors and Service Providers.**  We may share any Personal Information we receive with vendors and service providers retained in connection with the provision of the Service. For example, we may use service providers to measure app usage and user engagement, serve advertising on our Services or provide DDoS mitigation services.
 
 **Advertising Partners.** We may share your Personal Information with our third party advertising partners to provide ads that we think may interest you. For more information about our advertising and marketing practices and those of the third party advertising partners, please see our [Cookie Policy](https://tunein.com/policies/cookie/)
 
@@ -87,7 +87,7 @@ If you are located in the European Economic Area (“ **EEA** ”):
 
 We maintain administrative, technical and physical safeguards that are intended to appropriately protect Personal Information against accidental or unlawful destruction, accidental loss, unauthorized alteration, unauthorized disclosure or access, misuse, and any other unlawful form of processing of the Personal Information in our possession. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any Personal Information you provide to us.
 
-We take measures to delete your Personal Information or keep it in a form that does not permit identifying you when this information is no longer necessary for the purposes for which we process it, unless we are required by law to keep this information for a longer period. When determining the retention period, we take into account various criteria, such as the type of products and services requested by or provided to you, the nature and length of our relationship with you, possible re-enrolment with our products or services, the impact on the services we provide to you if we delete some information from or about you and mandatory retention periods provided by law and the statute of limitations.
+We take measures to delete your Personal Information or keep it in a form that does not permit identifying you when this information is no longer necessary for the purposes for which we process it, unless we are required by law to keep this information for a longer period. When determining the retention period, we take into account various criteria, such as the type of products and services requested by or provided to you, the nature and length of our relationship with you, possible re-enrollment with our products or services, the impact on the services we provide to you if we delete some information from or about you and mandatory retention periods provided by law and the statute of limitations.
 
 This Privacy Policy applies only to the processing of your Personal Information by TuneIn. The Service may contain links to third party sites, such as third party content providers (“ **Third Party Sites** ”). The policies and procedures described in this Privacy Policy do not apply to Third Party Sites. The links from the Service to any Third Party Sites do not imply that we endorse or have reviewed the Third Party Sites.
 
@@ -105,29 +105,36 @@ If you are located in the EEA, we comply with EU data protection law when transf
 
 **Location Information.** You can prevent us from collecting location information from your device by changing the settings on your device, if your device allows you to do so; however, if you do not provide us with location information you may not be able to fully use the Service. Please note that we will continue to receive your IP address and use it as described above to determine, for example, your location to comply with our licensing agreements. 
 
-**Opt-out.**  Each marketing email communication we send you will contain instructions permitting you to “opt-out” of receiving future marketing communications. You may also contact us as indicated below to have your name deleted from our email mailing lists, or you may update your communication preferences in your account settings on our website. Please note, however, that certain communications, such as push notifications, require you to change the settings on your device if you wish not to receive any future communications. In addition, on occasion we may send service-related announcements, such as disruption notifications, via email and you may not be able to opt-out of these communications.
+**Opt-out.**  Each marketing email communication we send you will contain instructions permitting you to “opt-out” of receiving future marketing communications. You may also contact us as indicated below to have your name deleted from our email mailing lists, or you may update your communication preferences in your account settings on our Website. Please note, however, that certain communications, such as push notifications, require you to change the settings on your device if you wish not to receive any future communications. In addition, on occasion we may send service-related announcements, such as disruption notifications, via email and you may not be able to opt-out of these communications.
 
-**Audience Information.** When you use our app, The Nielsen Company (US), LLC collect information on behalf of TuneIn about your use of the Service. If you wish to opt out of such digital measurement research, please visit the links to the Nielsen measurements in the app settings. 
+**Audience Information.** When you use our app, The Nielsen Company (US), LLC and Comscore, Inc. collect information on behalf of TuneIn about your use of the Service. If you wish to opt out of Nielsen’s digital measurement research, please visit the links to the Nielsen measurements in the app settings. 
 
-**Do Not Track.** Some web browsers incorporate a “Do Not Track” feature. Because there is not yet an accepted standard for how to respond to Do Not Track signals, our website does not currently respond to such signals.
+**Do Not Track.** Some web browsers incorporate a “Do Not Track” feature. Because there is not yet an accepted standard for how to respond to Do Not Track signals, our Website does not currently respond to such signals.
 
 If you are located in the EEA or Switzerland, you may have the following additional rights to: 
 
-  * Request access to and receive information about the Personal Information we maintain about you, to update and correct inaccuracies in your Personal Information, restrict or to object to the processing of your Personal Information, have the information anonymized or deleted, as appropriate, or exercise your right to data portability to easily transfer your Personal Information to another company. In addition, you may also have the right to lodge a complaint with a supervisory authority, including in your country of residence, place of work or where an incident took place.
-  * Withdraw any consent you previously provided to us regarding the processing of your Personal Information, at any time and free of charge. We will apply your preferences going forward and this will not affect the lawfulness of the processing before your consent withdrawal.
+  * Request access to and receive information about the Personal Information we maintain about you, to update and correct inaccuracies in your Personal Information, restrict or to object to the processing of your Personal Information, have the information anonymized or deleted, as appropriate, or exercise your right to data portability to easily transfer your Personal Information to another company. In addition, you may also have the right to lodge a complaint with a supervisory authority, including in your country of residence, place of work or where an incident took place. 
+  * Withdraw any consent you previously provided to us regarding the processing of your Personal Information, at any time and free of charge. We will apply your preferences going forward and this will not affect the lawfulness of the processing before your consent withdrawal. 
 
 
 
 Those rights may be limited in some circumstances by local law requirements. You may exercise these rights by using the How to Contact Us below. 
 
-**Posting of Revised Privacy Policy.**  We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted. If you are concerned about how your information is used, then bookmark this page and read this Privacy Policy periodically. 
+**Posting of Revised Privacy Policy.** We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted. If you are concerned about how your information is used, then bookmark this page and read this Privacy Policy periodically. 
 
 **New Uses of Information.** From time to time, we may desire to use or disclose Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, then we will make reasonable efforts to provide notice and obtain consent prior to any such uses as may be required by law.
 
-**Contact Information.**  If you have any questions, would like to exercise your rights or share suggestions for improving the Privacy Policy or the Service, or otherwise would like to contact us, then please feel free to contact us per the information below.
+**Contact Information.** If you have any questions, would like to exercise your rights or share suggestions for improving the Privacy Policy or the Service, or otherwise would like to contact us, then please feel free to contact us per the information below.
 
 **TuneIn, Inc.**  
 210 King Street,  
 3rd Floor  
 San Francisco, CA 94107  
 [support@tunein.com](mailto:%E2%80%A8support@tunein.com)
+
+If you are located in the EEA and would like to raise a question to us about your Personal Information, or otherwise exercise your rights in respect of your Personal Information, then you may also contact our data protection representative.
+
+**DPR Group**  
+[By Mail](https://tunein.com/policies/dpr-mailing/)  
+[tunein@dpr.eu.com](mailto:tunein@dpr.eu.com)  
+[www.dpr.eu.com/datarequest](https://www.dpr.eu.com/datarequest)
