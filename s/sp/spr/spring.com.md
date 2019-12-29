@@ -1,95 +1,158 @@
-> *The following text is extracted and transformed from the spring.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906170859id_/https%3A//www.spring.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spring.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229215213id_/https%3A//www.spring.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Adecco UK Group of Companies ("We" or "Adecco UK") are committed to protecting and respecting your privacy. Adecco UK means the following organisation(s) with whom you have registered and through which you are required to use www.spring.com for the purposes of receiving temporary and or permanent recruitment services: 
+Spring Technology Staffing Services Limited ("Spring",“Spring Technology”, “we” or “us”) is committed to protecting and respecting your privacy. 
 
-Adecco UK Limited (registered number 00593232); Ajilon (UK) Limited trading as Computer People (registered number 01458245); Badenoch & Clark Limited (registered number 01356186); Glotel International Limited (registered number 02435654); hyphen.com limited (registered number 03399532), Judd Farris Limited (registered number 03964665); Modis Europe Limited (registered number 02014344); Modis International Limited trading as (i) Modis (ii) Ajilon (registered number 01625479); Office Angels Limited (registered number 01985032); Roevin Management Services Limited (registered number 02436481); Spring Technology Staffing Services Limited (registered number 01923903); and Spring Personnel Limited (registered number: 04120467), are registered at Millennium Bridge House, 2 Lambeth Hill, London EC4V 4BG, each hereinafter referred to individually as an "Adecco Company".
+This Policy (together with other documents referred to herein) describes what personal information we collect from you and how we process your personal information when you use the [spring.com](https://spring.com/) website.
 
-This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.  
-For the purpose of the Data Protection Act 1998 (the “Act”), the data controller will be the Adecco Company with which you have registered for the purposes of securing temporary or permanent recruitment opportunities. Our nominated representative for the purpose of the Act is Gavin Tagg, Group Legal Counsel.
+There is an index below, so you can go straight to the bits you want if you prefer.
 
-### Information we may collect from you
+## Index:
 
-We may collect and process the following data about you:  
-
-
-  * Information that you provide by filling in forms on our site(s) including [https://www.spring.com](https://www.spring.com/) (our site(s)). This includes information provided at the time of registering to use our site(s), subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Adecco UK, and when you report a problem with our site(s). 
-  * When you register with us we may (depending upon which service you register for) ask for one or more of the following fields: your name, email, address, date of birth, gender, education, skills and qualifications, employment history (including remuneration details), references, ethnic origins, criminal records, personal interests, job requirements (including location, salary sought, job industry, job title) plus any other information you may volunteer to us as part of the sign-up process. 
-  * If we place you with our clients, we shall also request and hold copies of documentation showing your legal right to work in the UK (or the country in which you have chosen to work), and financial information such as bank account details. We may record and store any telephone calls you have with us for record keeping and quality control purposes. We may undertake credit references, and other lawful checks, where a recruitment client or third party requests such information. 
-  * If you contact us, we may keep a record of that correspondence. 
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
-  * Details of transactions you carry out through our site(s) and of the fulfilment of your orders. 
-  * Details of your visits to our site(s) including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
-
-We ask that you update your profile on [https://www.spring.com](https://www.spring.com/) on a regular basis and as a minimum at least every 6 months.  
-
-
-### IP addresses and cookies
-
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
-
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site(s) and to deliver a better and more personalised service. They enable us:
+  * Personal information we collect from you
+  * How we use your personal information
+  * What does the law say about this?
+  * Sharing with third parties
+  * IP addresses and cookies
+  * Where your personal information is stored and processed
+  * Do we transfer your data outside the European Union?
+  * Data Security
+  * Your rights. How you can access, correct and delete your personal information
+  * Marketing communications
+  * Changes to this Policy
+  * Contact
 
   
 
 
-  * To estimate our audience size and usage pattern. 
-  * To store information about your preferences, and so allow us to customise our site(s) according to your individual interests. 
-  * To speed up your searches. 
-  * To recognise you when you return to our site(s). 
+## Personal information we collect from you
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site(s). Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site(s). 
-
-### Where we store your personal data
-
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our customers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site(s), you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site(s); any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-### Uses made of the information
-
-We use information held about you in the following ways:
-
-  
-
-
-  * To ensure that content from our site(s) is presented in the most effective manner for you and for your computer. 
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
-  * To carry out our obligations arising from any contracts entered into between you and us. 
-  * To allow you to participate in interactive features of our service, when you choose to do so. 
-  * To notify you about changes to our service. 
-
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone. 
-
-### Disclosure of your information
-
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.
-
-We may also disclose your personal information to third parties in the event that: 
-
-  * We sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
-  * we or substantially all of our assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
-  * we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or standard terms and conditions of business and other agreements; or
-  * we reasonably need to protect the rights, property, or safety of Adecco UK, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * We will collect personal information on your visits to the Website including, but not limited to, traffic data, location data, weblogs, content from surveys and contact forms and other communication data and the resources that you access. Our collection of this personal information will make your visit to the Website easier in the future as we will be able to suggest Content that is relevant to you based on the location you access the Website from.
+  * We will collect any information you provide to us when you use our contact forms (for example “Contact”, “Send us a Message”, “Get financial updates”, or “Contact us about working together”). The provision of your personal information via our contact forms is not a statutory or contractual requirement; however, please note that fields marked with an asterisk (*) are mandatory fields, because we need this information to comply with or respond to your request. Other information or personal information you share with us when completing our contact forms is in your sole discretion. If you contact us, we will keep a record of that correspondence.
+  * We use your personal information to send you direct marketing via e-mail when you opt-in for this purpose in the relevant contact form. You may opt-out of receiving future marketing communications at any time by emailing [privacy@spring.com](mailto:privacy@spring.com)
+  * When you use or online services, we also store cookies as set out in more detail in our [Cookie Policy](https://www.adecco.co.uk/cookie-policy/)
+  * Our Website collects and shares information with third parties: Broadbean, Silverpop and Google My Business
 
 
 
-### Your rights
+## How we use your personal information
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise the right at any time by contacting us at privacypolicy@spring.com.  
-Our site(s) may, from time to time, contain links to and from third party website(s). If you follow a link to any of these website(s), please note that these website(s) have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these website(s). 
+Your personal information will be collected and handled by us for the following purposes:
 
-### Access to information
+  * To provide you with the services you expect us to
+  * to best tailor Content and resources according to your preferences.
+  * to respond to your request or questions when you contact us.
+  * to send to you other information – such as Spring upcoming events or newsletters – that may be of interest to you.
+  * to help us create, publish, and improve Content most relevant to you.
+  * to ensure that the Content provided through the Website is presented in the most effective manner for you and for your device.
+  * to allow you to participate in interactive features of our Website, when you choose to do so.
+  * to further develop and improve the Website and systems to better serve you. This mainly takes place in the context of new IT systems and processes so that information about you may be used in the testing of those new IT systems and processes where dummy data cannot fully replicate the operation of the new IT system.
+  * to perform analytical research on our prospective client and candidate base, including the content, and the services/products they are interested in
+  * to transfer data to third parties (see below)
+  * where necessary, to comply with any legal obligation; and
+  * we may also process your information to: 
+    1. investigate or respond to incidents and complaints
+    2. comply with obligations and rights and cooperate with investigations carried out by the police, government or regulators.
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request will normally be subject to an administration fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-### Changes to our privacy policy
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+## What does the law say about this?
 
-### Contact
+Our use of your information as described above is permitted by applicable data protection law because it is: 
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [privacypolicy@spring.com](mailto:privacypolicy@spring.com). Similarly, if you no longer require us to assist you in finding permanent work or temporary contracts please send an email to [privacypolicy@spring.com](mailto:privacypolicy@spring.com).
+  * necessary for our legitimate interests in pursuing the purposes set out above, and such interests in each case not being overridden by your privacy interests; 
+  * in some cases, necessary to meet our legal or regulatory responsibilities, such as disclosures to authorities, regulators or government bodies; or 
+  * in some cases, necessary for the performance of a task carried out in the public interest and, when we use special categories of personal information, necessary for establishing. exercising or defending legal claims or where the processing relates to personal information manifestly in the public domain;
+  * in limited circumstances, processed with your consent which we obtain from you from time to time, such as when you opt-in to receive marketing communications and news via email. See further information about B2B Communications in “Marketing communications” section below.
+
+
+
+We may at times use automated decisions solely on automatic processing, (like profiling), which produces legal effects concerning you or similarly significantly affects you.
+
+We may conduct this to ensure we give you a bespoke experience with us. Our automated decisions are personas that we have created using user’s past behavior, combined into a scoring model. This helps us prioritize requests and services.
+
+We will keep your information for as long as you wish to receive our communications and thereafter for the longer of the period required in order to meet our business, legal or regulatory responsibilities. Typically, this is for 2 years. 
+
+## Sharing with third parties
+
+To facilitate our efficient use of your information, and to provide you with the content and/or resources, we disclose your information to third parties. However, this disclosure will only occur in the following circumstances:
+
+  * **To suppliers, contractors and agents:** from time to time we engage or employ other companies and individuals to perform functions on our behalf, these include;
+
+o hosting providers  
+o providers maintaining the Website’s content  
+o marketing services providers  
+o providers of financial updates upon your request
+
+Such recipients will only have access to your personal information as required by them to perform their functions and are not permitted to use such personal information for any other purposes. These recipients will be subject to contractual confidentiality obligations. 
+
+  * **To other entities belonging to the Adecco Group** (i.e. any companies directly or indirectly controlled by Adecco). A list of Adecco Group companies is included here including their suppliers, contractors and agents, which can be involved in the provision of the Website or the content, so that we can better serve you or, simply, to give response to your requests (e.g. when you use contact us forms). 
+  * **To government or law enforcement authorities** if we determine in our sole discretion that we are under a legal obligation to do so
+
+
+
+## IP addresses and cookies
+
+We collect information about your computer, including (where available) your IP address, operating system and browser type, for system administration. This is statistical data about our users’ browsing actions and patterns and does not identify you or any individual.
+
+For the same reason, we obtain information about your general internet usage by using a cookie file which is stored on your device. Cookies help us to improve the Website and to deliver a better and more personalised content. For more information about our use of cookies on the Website, please refer to our Cookie Policy
+
+If your computer is shared with other people, we advise that you do not select the ‘remember my details’ option when that option is offered by the Website. 
+
+## Where your personal information is stored and processed
+
+As explained in the “Sharing with third parties” paragraph above, we share your personal information with the following:
+
+  * **Third party suppliers, contractors or agents:** where we use a third party supplier, contractor or agent, your personal information remains under our control and we have controls in place to ensure your personal information is adequately protected.
+  * **Other companies in the Adecco Group:** we have entered into a groupwide arrangement to ensure your personal information continues to be subject to an adequate level of protection. 
+
+
+
+We endeavour to take all steps reasonably necessary to ensure that your personal information is treated securely and in accordance with this Policy.
+
+## Do we transfer your data outside the European Union?
+
+Your personal information can be transferred and processed in one or more other countries, in or outside the European Union. We shall only transfer your data outside the EU to countries which the European Commission believes offers an adequate level of protection to you, or where the Adecco Group has put in place appropriate safeguards to seek to preserve the privacy of your information. Those countries include the US.
+
+## Data Security
+
+Although we will do our best to protect your personal information, you should be aware that the transmission of information via the internet is not completely secure and we cannot guarantee the security of your personal information transmitted to the Website or any third party; for this reason, any transmission is at your own risk. We will use strict operational procedures and adequate, technical and organizational security measures to prevent any unauthorised access, change, deletion or transmission of this personal information.
+
+## Your rights. How you can access, correct and delete your personal information
+
+Under applicable data protection laws, you have the following rights:
+
+  * **Right to access and obtain a copy of your personal information:** You are entitled to request confirmation whether we process any of your personal information. Where this is the case, you may have access to your personal information and to certain information about how it is processed. In some cases, you can ask us to provide you with an electronic copy of your information. In some limited circumstances, you also have the right to request portability of your personal information.
+  * **Right to correct your personal information:** If you can demonstrate that personal information we hold about you is not correct, you can ask that this information is updated or otherwise corrected. 
+  * **Right to be forgotten/have data deleted:** In certain circumstances you have the right to have your personal information deleted. You may make such a request at any time and Spring will evaluate if your request should be granted, however this right is subject to any legal rights or obligations we may have to retain data. For situations where in accordance with the law, we determine that your request to have your personal information deleted must be granted, Spring will do so without undue delay. 
+  * **Right to restrict or object to the processing of your data:** In certain circumstances you have the right to obtain restriction of the processing of your personal information, or to object on certain processing thereof on grounds relating to your particular situation.
+
+
+
+To exercise your rights, you can contact us at the following address: [privacy@spring.com](mailto:privacy@spring.com)
+
+To the extent our processing of your personal information is based on your consent, you also have the right to withdraw your consent at any time. Withdrawal of your consent will not affect the lawfulness of any processing based on your consent before the receipt of such withdrawal.
+
+You can also lodge a complaint about our processing of your personal information with the data protection authority of the Member State of your habitual residence, of your place of work, or of an alleged infringement of your rights). 
+
+## Marketing communications
+
+We will only send marketing communications to you, as individual, normally by email where you have consented that we may do so.
+
+We will usually offer you a check box on the forms we use to collect your personal information where, if you agree to receive marketing communications, you have to click the box.   
+B2B Communications. However, when you - representing or acting on behalf of a company or of any legal entity, private or public - provide us your personal information by contacting us as client or prospect, you allow Spring to send you marketing communications normally by email. In that case, the processing of your personal information is based on our legitimate interest as legal ground to develop our customer data base, our customer loyalty programs and to introduce our services or future services that may be of interest to you.
+
+In any case, where we send marketing communications to you via email, you may opt out of receiving any further marketing communications by clicking the ‘unsubscribe’ or ‘opt-out’ function in the email. In addition, you can also exercise your opt-out right at any time by contacting us at [privacy@spring.com](mailto:privacy@spring.com) and providing the following information: your name, your email address, a contact telephone number, the marketing communications you would like to opt out of receiving. 
+
+## Changes to this Policy
+
+The terms of this Policy may change from time to time. We shall publish any material changes to this Policy through appropriate notices either on this Website or contacting you using other communication channels. 
+
+## Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [privacy@spring.com](mailto:privacy@spring.com)
+
+You can request a copy of mechanisms relating to a specific transfer of your personal information by contacting [privacy@spring.com](mailto:privacy@spring.com)
+
+You can also contact our local data protection representative at the following address: [privacy@spring.com](mailto:privacy@spring.com)
