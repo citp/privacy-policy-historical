@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obeygiant.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426214728id_/https%3A//obeygiant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obeygiant.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229193819id_/https%3A//obeygiant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Obey Giant
 
