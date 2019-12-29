@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the instadp.com privacy policy that was archived on 2019-04-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190412062852id_/https%3A//www.instadp.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the instadp.com privacy policy that was archived on 2019-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191229080831id_/https%3A//www.instadp.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -20,8 +20,8 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="#FFFFFF">
 
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
-<link rel="stylesheet" href="styles/styles.css?v=16">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://js.stripe.com/v3/"></script><script async="" src="https://static.hotjar.com/c/hotjar-1115833.js?sv=6"></script></head>
+<link rel="stylesheet" href="styles/styles.css?v=3">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="scripts/jquery.js"></script></head>
 
 <body>
 
@@ -67,14 +67,14 @@
 </article>
 
 <!-- Header -->
-<header class="header">
+<header class="header  ">
 	<div class="centered">
-		<div class="menu-btn"></div>
+		<a href="" class="back-btn"></a>
+		<a href="promote" class="promo-btn"></a>
 		<div class="search-btn"><i class="icon"></i>Search username</div>
-		<a class="promote-btn" href="promote"></a>
+		<div class="menu-btn"></div>
 	</div>
 </header>
-
 
 <!-- Search modal 
 	1. Show promoted add class "promoted" to "search-modal"
@@ -90,6 +90,7 @@
 			<div class="back-btn"></div>
 			<input class="search-input" type="text" placeholder="Search username" autofocus="">
 			<div class="clear-btn"></div>
+			<div class="search-btn"></div>
 		</div>
 	</div>
 	<div class="search-results">
@@ -102,6 +103,18 @@
 				3. If verified add "verified to "account"
 			 -->
 
+
+			<!-- Search -->
+			<ul class="search-promo-list" style="display: none;">
+				<li class="item" style="display: block;">
+					<a class="item-link" target="_blank" href="https://www.followmeterapp.com">
+						<div class="logo" style="background-image: url('https://www.instadp.com/images/apps/followmeter.png');"></div>
+						<span class="name">Profile Stalkers</span>
+						<span class="desc">See who is stalking you on Instagram</span>
+					</a>
+					<a class="app-open" target="_blank" href="https://www.followmeterapp.com"><i></i>GET</a>
+				</li>
+			</ul>
 
 			<!-- Search Loading -->
 			<div class="search-loading">
@@ -349,11 +362,11 @@ function delaySearch(s){
 
 								if(li.getAttribute('data-type') == 'stories'){
 
-									li.querySelector('a').href = 'stories/'+item.username;
+									li.querySelector('a').href = 'stories/'+item.username+'&h';
 
 								} else {
 
-									li.querySelector('a').href = 'profile/'+item.username;
+									li.querySelector('a').href = 'profile/'+item.username+'&h';
 								}
 
 								var div = li.querySelector('a .avatar');
@@ -395,7 +408,7 @@ function delaySearch(s){
 				});
 			}
 		}
-	}, 1000);
+	}, 3000);
 }
 
 function refreshSearch(){
@@ -439,18 +452,26 @@ document.querySelector('.search-modal .back-btn').onclick = function(){
 
 	};
 
-document.querySelector('.search-modal .search-bar .centered .search-input').onpaste = function(e){
-
-	refreshSearch();
-};
-
 document.querySelector('.search-modal .search-bar .centered .search-input').onkeyup = function(e){
 
-	if(e.keyCode === 10 || e.keyCode === 13){
-    	e.preventDefault();
+	e.preventDefault();
+
+	if(e.keyCode === 13){
+    	refreshSearch();
     	return false;
 	}
 
+	var val = this.value;
+	if(val.length > 1){
+		document.querySelector('.search-modal .search-bar .search-btn').classList.add('show');
+	} else {
+		document.querySelector('.search-modal .search-bar .search-btn').classList.remove('show');
+	}
+};
+
+document.querySelector('.search-modal .search-bar .search-btn').onclick = function(e){
+	e.preventDefault();
+	
 	refreshSearch();
 };
 </script>
@@ -463,17 +484,21 @@ document.querySelector('.search-modal .search-bar .centered .search-input').onke
 
 	<span class="sb-sec-title">Menu</span>
 	<ul class="sb-nav-list">
-		<li><a href="promote"><i class="grow"></i>Promote your account</a>
+		<li><a href=""><i class="home"></i>Home</a>
+		</li><li><a href="promote"><i class="grow"></i>Analytics for Instagram</a>
+		</li><li><a href="articles"><i class="tips"></i>Tips &amp; Tricks</a>
 		</li><li><a href="contact"><i class="contact"></i>Contact</a>
 	</li></ul>
 
+	<div>
 	<span class="sb-sec-title">Fun Apps</span>
 	<ul class="sb-app-list">
-		<li><a target="_blank" href="https://qeekapp.com" onclick="trackOutLink('https://www.qeekapp.com'); return false;"><i style="background-image: url(images/apps/qeek.png);"></i>Qeek for Instagram</a>
-		</li><li><a target="_blank" href="https://followmeterapp.com" onclick="trackOutLink('https://www.followmeterapp.com'); return false;"><i style="background-image: url(images/apps/followmeter.png);"></i>Followmeter for Instagram</a>
-		</li><li><a target="_blank" href="https://bestgridapp.com" onclick="trackOutLink('https://www.bestgridapp.com'); return false;"><i style="background-image: url(images/apps/best-grid.png);"></i>Best Grid for Instagram</a>
-		</li><li><a target="_blank" href="https://tip18app.com" onclick="trackOutLink('https://www.tip18app.com'); return false;"><i style="background-image: url(images/apps/tip18.png);"></i>Tip18 Tip Calculator</a>
-	</li></ul>
+		<li><a target="_blank" href="https://followmeterapp.com"><i style="background-image: url(images/apps/followmeter.png);"></i>Followmeter for Instagram</a></li>
+		<li><a target="_blank" href="https://qeekapp.com"><i style="background-image: url(images/apps/qeek.png);"></i>Qeek for Instagram</a></li>
+		<li><a target="_blank" href="https://bestgridapp.com"><i style="background-image: url(images/apps/best-grid.png);"></i>Best Grid for Instagram</a></li>
+		<li><a target="_blank" href="https://tip18app.com"><i style="background-image: url(images/apps/tip18.png);"></i>Tip18 Tip Calculator</a></li>
+	</ul>
+	</div>
 
 </div>
 
@@ -512,17 +537,16 @@ document.querySelector('.search-modal .search-bar .centered .search-input').onke
 	}
 </script>
 
-
-<!-- Hotjar Tracking Code for instadp.com -->
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:1115833,hjsv:6};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+<!-- GDPR -->
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+<script src="scripts/gdpr.js"></script>
+<script type="text/javascript">
+$.cookieMessage({
+    'mainMessage': 'This website uses cookies. By using this website you consent to our use of these cookies.',
+    'acceptButton': 'OK',
+    'fontSize': '16px',
+    'backgroundColor': '#222',
+});
 </script>
 <!-- Page scripts -->
 <script type="text/javascript">
