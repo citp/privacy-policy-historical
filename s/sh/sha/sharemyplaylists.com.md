@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharemyplaylists.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622170121id_/http%3A//www.wminewmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharemyplaylists.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229141900id_/http%3A//www.wminewmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@
 
 **PRIVACY POLICY**
 
-Warner Music UK Limited (“ **WMUK** ”) is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we or our third-party service providers collect through certain of our owned or controlled websites, web properties ( _e.g._ , widgets and applications) and mobile applications (“ **Mobile Apps** ”) in each case, that link to this Privacy Policy (each, a “ **Property** ” or collectively the “ **Properties** ”). By providing Personal Information (as defined below) to us through the Properties, you acknowledge you have read this Privacy Policy and you understand the terms and conditions herein. 
+Warner Music UK Limited (“ **WMUK** ”), in the case of e-commerce site, WMIS ltd, is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we or our third-party service providers collect through certain of our owned or controlled websites, web properties ( _e.g._ , widgets and applications) and mobile applications (“ **Mobile Apps** ”) in each case, that link to this Privacy Policy (each, a “ **Property** ” or collectively the “ **Properties** ”). By providing Personal Information (as defined below) to us through the Properties, you acknowledge you have read this Privacy Policy and you understand the terms and conditions herein. 
 
 This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third party, including Facebook, Inc., Apple Inc., Google LLC, Microsoft Corp., any wireless carriers, our artists, our affiliates and any third party operating any site or property to which any Property contains a link. In addition, the inclusion of a link on any Property does not imply endorsement of, or affiliation with, the linked site or Property by us or by our artists or affiliates. Please note that the Properties may include the ability to access and submit (including, for example, via a third-party software application or service that is available through or in connection with a Property) certain information directly to third parties, such as Facebook, or to any application platform, such as Apple's App Store or Google Play. Such information is submitted by you directly to such third parties and this Privacy Policy does not apply to any such information submitted by you. 
 
@@ -227,7 +227,7 @@ The Properties are not directed to individuals under the age of sixteen (16), an
 We may change this Privacy Policy at any time. Please take a look at the “LAST UPDATED” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we make the revised Privacy Policy available on or through a Property. 
 
 **CONTACTING US**   
-Warner Music UK Limited, located at 27 Wrights Lane, London, the United Kingdom, is the company responsible for collection, use and disclosure of your Personal Information under this Privacy Policy. 
+Warner Music UK Limited, in the case of e-commerce site, WMIS ltd, located at 27 Wrights Lane, London, the United Kingdom, is the company responsible for collection, use and disclosure of your Personal Information under this Privacy Policy. 
 
 If you have any questions or concerns about this Privacy Policy or our data processing practices, please contact us by email at privacypolicy@wmg.com. Alternatively, if you are located within the EU/EEA, you may also lodge a complaint with a data protection authority for your country or region, or where an alleged infringement of applicable data protection law occurs. A list of data protection authorities is available [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080). 
 
