@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantconnect.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322004308id_/https%3A//www.quantconnect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantconnect.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229060103id_/https%3A//www.quantconnect.com/privacy) for the most accurate reproduction.*
 
 # Terms and Conditions | Privacy Terms and Conditions - QuantConnect.com
 
