@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findarticles.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235716id_/https%3A//www.cbsinteractive.com/legal/cbsi/privacy-policy/highlights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findarticles.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229202941id_/https%3A//www.cbsinteractive.com/legal/cbsi/privacy-policy/highlights) for the most accurate reproduction.*
 
 # CBS Privacy Policy Highlights :: CBS Interactive
 
@@ -46,7 +46,7 @@ We may share your information:
   * Where we have obtained your consent, including with video content and social networking services as described in our [Video Services Policy](https://web.archive.org/legal/cbsi/privacy-policy/video-services-and-social-networking).
   * With our third party service providers.
   * With business partners who sponsor a sweepstakes, contest, or promotion; or who jointly offer a service or feature with a CBS Service.
-  * Within the family of [CBS businesses](http://www.cbscorporation.com/our-portfolio).
+  * Within the family of [CBS businesses](https://www.cbscorporation.com/businesses-detail/).
   * If a CBS Service is sold to another company.
   * To protect or defend the rights of CBS or our users.
   * When required by law or public authorities.
