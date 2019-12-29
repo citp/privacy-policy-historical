@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the proper.io privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609220156id_/https%3A//proper.io/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proper.io privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229155345id_/https%3A//proper.io/privacypolicy) for the most accurate reproduction.*
 
-# Proper Media® - Privacypolicy
-
-## Proper Media Privacy Policy
+# Header Bidding Solutions - Header Bidding Platform | Proper Media
 
 Our privacy policy is designed to provide transparency into our privacy practices and principles, in a format that our guests can navigate, read and understand. We are dedicated to treating your personal information with care and respect. As such, we have created and implemented this privacy policy to inform visitors to the Proper Media website and users of the Proper Media features how we collect, protect and use the information we gather.
 
@@ -20,8 +18,8 @@ _Information we derive from your use of our website and by viewing our sponsored
 
 : We may collect information about the services that you use and how you use them, like when you visit different parts of our website or view our sponsored content, and what selections you make. We may also automatically collect certain technical information about your:
 
-  1. Device - We may collect device-specific information (such as your model #, operating system version, unique identifiers, mobile information if you use a mobile device to access our site or our service).
-  2. Site Activity - When you use our services or view content provided by us, we may automatically collect and store certain information in server logs, including how you use our service, your internet protocol address, the date and time of your request and referral URL and cookies that may uniquely identify your browser or your account. Cookies are small bits of electronic information that a website can transfer to a visitor’s computer to help target message and keep records of the users visit to a website. The use of cookies is standard on the Internet and many web sites use them. Cookies allow web site operators to better customize visits to the site to the visitor’s individual preferences. For example, by setting a cookie you would not have to enter information in the Site more than once, thereby saving time. We do not receive or record any personally identifying information in the cookies we use. Although most Web browsers automatically accept cookies, you can usually change your browser to prevent that or to notify you when you are sent a cookie. Even without accepting a cookie, you can still access the Proper Media Features.
+  1. Device – We may collect device-specific information (such as your model #, operating system version, unique identifiers, mobile information if you use a mobile device to access our site or our service).
+  2. Site Activity – When you use our services or view content provided by us, we may automatically collect and store certain information in server logs, including how you use our service, your internet protocol address, the date and time of your request and referral URL and cookies that may uniquely identify your browser or your account. Cookies are small bits of electronic information that a website can transfer to a visitor’s computer to help target message and keep records of the users visit to a website. The use of cookies is standard on the Internet and many web sites use them. Cookies allow web site operators to better customize visits to the site to the visitor’s individual preferences. For example, by setting a cookie you would not have to enter information in the Site more than once, thereby saving time. We do not receive or record any personally identifying information in the cookies we use. Although most Web browsers automatically accept cookies, you can usually change your browser to prevent that or to notify you when you are sent a cookie. Even without accepting a cookie, you can still access the Proper Media Features.
 
 
 
@@ -29,7 +27,7 @@ _Information we derive from your use of our website and by viewing our sponsored
 
 Your personally identifiable information may be used to: analyze how the service is used, diagnose service or technical problems or maintain security; operate, maintain, and provide to you the features and functionality of the Service; fulfill requests you may make of us; personalize your experience; and provide you with information and offers from us or third parties that we believe you may find useful or interesting. The information we collect may be used to target ads.
 
-We may use the information we collect from our advertiser and publisher customers for billing and account communication purposes. If you contact us, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. Generally speaking, we use the information we collect from all of our services to provide, maintain, protect and improve our services, to develop new services and offerings and to protect us and our users. You can opt out of any email communications you no longer wish to receive. 
+We may use the information we collect from our advertiser and publisher customers for billing and account communication purposes. If you contact us, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. Generally speaking, we use the information we collect from all of our services to provide, maintain, protect and improve our services, to develop new services and offerings and to protect us and our users. You can opt out of any email communications you no longer wish to receive.
 
 **3\. Information Sharing**
 
@@ -69,7 +67,7 @@ Our service may contain links to other websites that we do not own or operate. T
 
 **Updating Your Personal Information**
 
-All registered users are able to review, update or correct their personally identifiable information provided during the account registration process by changing their "user preferences" in their account. If you choose to opt out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account entirely, please email us at [staff@proper.com](mailto:staff@proper.io). You understand and agree we are not able to remove your personally identifiable information from the records of any third party who has been provided with your information in compliance with the use and sharing policy outlined above.
+All registered users are able to review, update or correct their personally identifiable information provided during the account registration process by changing their “user preferences” in their account. If you choose to opt out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account entirely, please email us at [staff@proper.com](mailto:staff@proper.io). You understand and agree we are not able to remove your personally identifiable information from the records of any third party who has been provided with your information in compliance with the use and sharing policy outlined above.
 
 **Enforcement**
 
