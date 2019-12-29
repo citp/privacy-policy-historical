@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the rentalcars.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812033515id_/https%3A//www.rentalcars.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalcars.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229112248id_/https%3A//www.rentalcars.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # Information on Privacy. Your Privacy is Important to Us! - Rentalcars.com
 
 ## Privacy Notice
 
-This Privacy Notice explains how we collect, use and protect any information about you. It also tells you how to get in touch if you have any questions about it, which we will be more than happy to answer. If you’re interested in what we do with cookies and similar technologies, please check out our [Cookie Statement. ](https://web.archive.org/CookieStatement.do)
+This Privacy Notice explains how we collect, use and protect any information about you. It also tells you how to get in touch if you have any questions, which we will be more than happy to answer. If you’re interested in what we do with cookies and similar technologies, please check out our [Cookie Statement. ](https://web.archive.org/CookieStatement.do)
 
 We may change this Notice from time to time; so please check back here for any updates.
 
 We offer a range of services related to online car rental, including products and services such as insurance, through our own websites, mobile apps, emails and text messages (‘platforms’). We also do this through our business partners’ websites, social media and other platforms. This Notice applies to all the personal data we collect while we’re doing this, or when you contact us by email, live chat, phone or post.
+
+Our business partners should also visit our [Privacy and Cookie Statement for Business Partners](http://www.rentalcarsconnect.com/privacy/) to understand how personal data is processed as part of our business relationship.
 
 ## Personal data you give us
 
@@ -40,17 +42,17 @@ If you’re using a mobile device, we might also collect location details. And w
 
 ## Personal data we get from other companies
 
-We may also get information about you from social media platforms, our business partners and other third parties. For example: 
+We may also get information about you from social media platforms, our business partners, subsidiaries of the Rentalcars.com corporate family, affiliates of the Booking Holdings Inc corporate group (see here for more information) and other third parties. For example:
 
-  * We work with affiliate business partners to offer our services on other platforms. When you make a booking on one of these platforms, we may share your personal data with them, and they may share your personal data with us. 
-  * The companies that provide the services you have booked through our platforms may need to send us information about you – for example, if your booking leads to an insurance claim or customer service dispute. 
-  * Our business partners may also send us information about you that may help us show you more relevant adverts. 
+  * We work with affiliate business partners to offer our services on other platforms. When you make a booking on one of these platforms, we may share your personal data with them, and they may share your personal data with us.
+  * The companies that provide the services you have booked through our platforms may need to send us information about you – for example, if your booking leads to an insurance claim or customer service dispute.
+  * Our business partners may also send us information about you that may help us show you more relevant adverts.
 
 
 
-We may combine any of this information with the information you give us directly. 
+We may combine any of this information with the information you give us directly.
 
-Please see ‘Why do we collect and use your personal data?’ for details. 
+Please see ‘Why do we collect and use your personal data?’ for details.
 
 ## Why do we collect and use your personal data? 
 
@@ -60,8 +62,8 @@ We ask for your personal data so we can book your car (and anything else you nee
 
 We may use your personal data in the following ways:
 
-  1. _Bookings:_ First and foremost, we use your personal data to make and administer your booking, and to forward the necessary details to the company that provides your car (or other product or service, such as insurance).
-  2. _Customer service:_ We provide international customer service 24/7 in over 40 languages. Our international customer service teams need your details, so they can help you make a booking, for example, or to reply to any queries you may have before, during or after your booking.
+  1. _Bookings:_ First and foremost, we use your personal data to make and administer your booking, and to forward the necessary details to the company that provides your car (or other product or service, such as insurance). This includes sending you communications in relation to your booking, such as confirmations, modifications and reminders.
+  2. _Customer service:_ We provide international customer service 24/7 in over 40 languages. Our international customer service teams need your details so they can help you make a booking, for example, or to reply to any queries you may have before, during or after your booking.
   3. _Customer reviews:_ We may use your contact details to send you a short questionnaire about your booking. This helps us understand and improve our service and the service our business partners provide.
   4. _Account facilities:_ To make things easier, you can create a user account on our platforms. This involves giving us your personal data, and it lets you do a number of useful things. You can manage your bookings or other purchases, take advantage of special offers, and manage your personal settings and preferences. It also makes it easier to make future bookings.
   5. _Marketing activities:_ We also use your personal data for marketing activities, which may include: 
@@ -85,24 +87,52 @@ We may use your personal data in the following ways:
 
 
 
+Providing your personal data to us is voluntary. However, depending on the type of service you may want to use, we may only be able to provide you with this service if certain personal data is collected. For instance, we cannot process your booking if we do not collect your name and contact details.
+
+If we use automated means to process personal data which produces legal effects or significantly affects you, we will implement suitable measures to safeguard you rights and freedoms, including the right to obtain human intervention.
+
 ## To process your personal data like this, we rely on the following legal grounds: 
 
 * _Performance of a contract:_ We need to use your personal data to fulfil any contract you’ve made with us. For example, when you book a car, we need to transfer your booking details to the rental company to make sure your car is waiting for you. 
 * _Legitimate interests:_ We may use your information for our ‘legitimate interests’ (a term which applies to anything we believe is an essential part of carrying out our business effectively – at the same time as respecting your rights and upholding the law). For example, to provide you with the most suitable content on our platforms, including our emails and newsletters; to improve and promote our products and services; and for administrative purposes. 
 * _Consent:_ We may rely on your consent to use your personal data in certain circumstances, for example direct marketing purposes. You may withdraw your consent at any time via our Data Subject Request Portal or by emailing datarights@rentalcars.com, stating “Privacy” in the subject line. 
 
-## What third parties do we share your personal data with – and why? 
+## What third parties do we share your personal data with – and why?
 
-There are a number of different business partners integrated in the services we provide, and in certain situations we may share your personal data with them. In most cases, we’re simply passing on your booking details to the business partners that are helping us deliver the service you’re requesting. We will also share your data with other third parties, which may include payment service providers, advertising partners and – in some cases – the authorities. These are the main reasons we would share your personal data. Would you like to know more? 
+There are a number of different business partners integrated in the services we provide, and in certain situations we may share your personal data with them. In most cases, we’re simply passing on your booking details to the business partners that are helping us deliver the service you’re requesting. We will also share your data with other third parties, which may include payment service providers, advertising partners, subsidiaries of the Rentalcars.com corporate family and affiliates of the Booking Holdings Inc corporate group, and – in some cases – the authorities. These are the main reasons we would share your personal data. Would you like to know more?
 
-## What third parties do we share your personal data with – and why? 
+## What third parties do we share your personal data with – and why?
 
-* _The company/companies supplying your car rental and/or related products and services:_ To make your booking, we need to send the relevant details to the company/companies supplying the car and/or other related products (including insurance) that you have requested. These details may include your name, age range, contact details (email, address and phone number), date and place of birth, passport information, driving licence information and any preferences you told us about while booking. If there is a dispute about your booking or insurance cover, or any other kind of customer service issue, we may need to provide the rental company with some information about the booking process as well as the dispute itself. This may include a copy of your booking confirmation, to prove that a booking was actually made, as well as any information related to your complaint. Please be aware that any information you provide directly to the company/companies supplying your car and/or related products will be stored and used in accordance with their own privacy notice(s) and terms and conditions.
-* _Our business partners:_ We work with business partners around the world. Some of our partners offer or advertise our services, as well as helping our other business partners offer and advertise their own travel-related services (including insurance). These business partners may also include the Booking Holdings Inc. corporate group, which includes Rentalcars.com and our sister companies (Agoda.com, Booking.com, priceline.com, KAYAK, and OpenTable). This may mean that their services are integrated into our platforms. When you make a booking on one of our business partners’ platforms, they’ll send us some of the personal data you have provided to them. Similarly, we may send our business partners some of the personal data related to your booking. This could be to help them analyse their business, for example, or to help them run their loyalty programmes. It could also be so that they can send you things like special offers, but only if you’ve given your consent for this. If the business partner provides customer service support, we will send them the details of your booking that they need to give you the support you need. In any of these cases, the handling of your personal data is governed by the privacy notices of these business partners. When you make a booking on a business partner’s website, please take the time to read their privacy notice to see how they handle your personal data. When you buy a product or service provided by one of our business partners, we will send them the personal data they need to provide it. Finally, we may also exchange information about our users with business partners for fraud detection/prevention purposes, but only as strictly necessary.
-* _Competent authorities:_ We may share your personal data with government or investigative authorities if we’re required to do so by law (or any regulation having the force of law). This includes court orders, subpoenas and orders arising from legal processes and criminal investigations. We may also disclose your personal data if strictly necessary for the prevention, detection or prosecution of fraud and other criminal acts. And we may need to disclose personal data to competent authorities to protect and defend our rights or properties, or the rights or properties of our business partners.
-* _Third-party service providers:_ We may use third-party service providers to process your personal data on our behalf. For example, we may use them to contact you, or to send booking information on our behalf to the company providing the service, or to manage aspects of our site, call centres or marketing activities. These third parties are bound by confidentiality clauses and are not allowed to use your personal data for other purposes.
-* _Advertising partners:_ We may share your email address and other personal data with third-party advertising partners, so we can make sure you see relevant advertisements when we market our services via third-party business partners. We also work with third-party advertisement networks to market services on other platforms, and with third-party suppliers who help us analyse our own data. All these third parties will be bound by confidentiality agreements and will not be allowed to use your personal data for any other purposes. For more information on personalised advertisements and your choices, please read “How and why do we use these technologies?” and “It’s your choice: Opting in and opting out” in our [Cookie Statement. ](https://web.archive.org/CookieStatement.do)
-* _Payment service providers and other financial institutions:_ We also work with third-party payment service providers to arrange payment or payment guarantees. If you (or the holder of the bank card used to make your booking) request a chargeback, we may need to share certain booking details with the payment service provider and the relevant financial institution. This may include a copy of your booking confirmation or the IP address used to make your booking. We may also share information with relevant financial institutions, if we consider it necessary for fraud detection and prevention purposes.
+  * _The company/companies supplying your car rental and/or related products and services:_ To make your booking, we need to send the relevant details to the company/companies supplying the car and/or other related products (including insurance) that you have requested. These details may include your name, age range, contact details (email, address and phone number), date and place of birth, passport information, driving licence information and any preferences you told us about while booking. If there is a dispute about your booking or insurance cover, or any other kind of customer service issue, we may need to provide the rental company with some information about the booking process as well as the dispute itself. This may include a copy of your booking confirmation, to prove that a booking was actually made, as well as any information related to your complaint. Please be aware that any information you provide directly to the company/companies supplying your car and/or related products will be stored and used in accordance with their own privacy notice(s) and terms and conditions.
+  * _Our business partners:_ We work with business partners around the world. Some of our partners offer or advertise our services, as well as helping our other business partners offer and advertise their own travel-related services (including insurance). These business partners may also include the Booking Holdings Inc. corporate group, which includes Rentalcars.com and our sister companies (Agoda.com, Booking.com, priceline.com, KAYAK, and OpenTable). This may mean that their services are integrated into our platforms. When you make a booking on one of our business partners’ platforms, they’ll send us some of the personal data you have provided to them. Similarly, we may send our business partners some of the personal data related to your booking. This could be to help them analyse their business, for example, or to help them run their loyalty programmes. It could also be so that they can send you things like special offers, but only if you’ve given your consent for this. If the business partner provides customer service support, we will send them the details of your booking that they need to give you the support you need. In any of these cases, the handling of your personal data is governed by the privacy notices of these business partners. When you make a booking on a business partner’s website, please take the time to read their privacy notice to see how they handle your personal data. When you buy a product or service provided by one of our business partners, we will send them the personal data they need to provide it. Finally, we may also exchange information about our users with business partners for fraud detection/prevention purposes, but only as strictly necessary.
+  * _The Booking Holdings, Inc. corporate group:_ Please read here how we may share your personal data with the Booking Holdings Inc. corporate group.
+  * _Competent authorities:_ We may share your personal data with government or investigative authorities if we’re required to do so by law (or any regulation having the force of law). This includes court orders, subpoenas and orders arising from legal processes and criminal investigations. We may also disclose your personal data if strictly necessary for the prevention, detection or prosecution of fraud and other criminal acts. And we may need to disclose personal data to competent authorities to protect and defend our rights or properties, or the rights or properties of our business partners.
+  * _Third-party service providers:_ We may use third-party service providers to process your personal data on our behalf and support us in providing our services. For example, we may use them to contact you, or to send booking information on our behalf to the company providing the service, or to manage aspects of our site, call centres or marketing activities. We may also use third-party service providers for market research, fraud detection and prevention services, including anti-fraud screening services. These third parties are bound by confidentiality clauses and are not allowed to use your personal data for other purposes.
+  * _Advertising partners:_ We may share your email address and other personal data with third-party advertising partners, so we can make sure you see relevant advertisements when we market our services via third-party business partners. We also work with third-party advertisement networks to market services on other platforms, and with third-party suppliers who help us analyse our own data. All these third parties will be bound by confidentiality agreements and will not be allowed to use your personal data for any other purposes. For more information on personalised advertisements and your choices, please read “How and why do we use these technologies?” and “It’s your choice: Opting in and opting out” in our [Cookie Statement. ](https://web.archive.org/CookieStatement.do)
+  * _Payment service providers and other financial institutions:_ We also work with third-party payment service providers to arrange payment or payment guarantees. If you (or the holder of the bank card used to make your booking) request a chargeback, we may need to share certain booking details with the payment service provider and the relevant financial institution. This may include a copy of your booking confirmation or the IP address used to make your booking. We may also share information with relevant financial institutions, if we consider it necessary for fraud detection and prevention purposes.
+
+
+
+The transmission of personal data as described in this Privacy Notice may include overseas transfers of personal data to countries whose data protection laws are not as comprehensive as those of the United Kingdom and countries within the European Union. Where required by UK law, we shall only transfer personal data to recipients offering an adequate level of data protection. In these situations, as may be required, we make contractual arrangements to ensure that your personal data is still protected in line with UK and European standards. You can ask us to see a copy of these contractual agreements using the contact details below.
+
+## How is your personal data shared within the Booking Holdings Inc. corporate group?
+
+Rentalcars.com is part of the Booking Holdings Inc. corporate group. See https://www.bookingholdings.com/ for more information.
+
+We may receive personal data about you from other companies of the Booking.com Holdings Inc. corporate group or share your personal data with them for the following purposes:
+
+  1. To provide services (including to make, administer and manage reservations or handle payments);
+  2. To provide customer support services;
+  3. To detect, prevent and investigate fraud, other illegal activities and data breaches;
+  4. For analytical and product improvement purposes;
+  5. To provide personalised offers or send you marketing with your consent, or as otherwise permitted by applicable law;
+  6. To ensure compliance with applicable laws.
+
+
+
+Unless indicated otherwise, for purposes A to E, we rely on our legitimate interest to share and receive personal data. For example, we work closely with Booking.com to offer accommodation and attractions services to our customers, and all companies within the Booking Holdings Inc. group of companies may need to exchange customer personal data to ensure it protects all users from fraudulent activities on its platforms.
+
+For purpose F, we rely where applicable on compliance with legal obligations (such as lawful law enforcement requests).
 
 ## How do we make use of mobile devices? 
 
@@ -118,9 +148,11 @@ To make sure you find deals that are more likely to interest you in our newslett
 
 Cross-device tracking can also mean that when you’re using one device, you may see personalised advertisements from lots of different companies, based on your activities on linked devices. The NAI (Network Advertising Initiative) should stop this happening if you opt out of the NAI behavioural advertising program (our [Cookie Statement](https://web.archive.org/CookieStatement.do) gives you the link you need, under “It's your choice: Opting in and opting out”). Please note: simply signing out of your user account won’t stop this happening.
 
-## What security procedures do we put in place to safeguard your personal data? 
+## What security and retention procedures do we put in place to safeguard your personal data?
 
-Our business systems and procedures ensure we take all reasonable steps to protect your personal data and safeguard it against any misuse or unauthorised access, in accordance with UK and European data protection laws. We also have specific security procedures and restrictions (both technical and physical) that limit access to, and use of, any personal data that we hold. Only authorised personnel can access personal data – and they’re only allowed to do it for specific, authorised reasons. 
+Our business systems and procedures ensure we take all reasonable steps to protect your personal data and safeguard it against any misuse or unauthorised access, in accordance with UK and European data protection laws. We also have specific security procedures and restrictions (both technical and physical) that limit access to, and use of, any personal data that we hold. Only authorised personnel can access personal data – and they’re only allowed to do it for specific, authorised reasons.
+
+We will retain your personal data for as long as we deem it necessary to enable you to use our services, to provide our services to you (including maintaining your online user account (if created)), to comply with applicable laws, resolve disputes with any parties and otherwise as necessary to allow us to conduct our business, including to detect and prevent fraud or other illegal activities. All personal data we retain will be subject to this Privacy Notice.
 
 ## How do we treat the personal data of children? 
 
@@ -132,6 +164,6 @@ You have the right, subject to some legal exceptions, to access, correct or dele
 
 When you make a booking or request a quote, we ask whether you’d like to opt in to receive marketing emails. You can opt out at any time by clicking “unsubscribe” in any of these marketing emails, or by updating your email preferences in your user account. 
 
-## Who is responsible for the processing of personal data on our platforms? 
+## Who is responsible for the processing of personal data on our platforms?
 
-TravelJigsaw Limited (trading as Rentalcars.com) controls the processing of personal data on its platforms. TravelJigsaw Limited is a private limited liability company, incorporated under the laws of the United Kingdom, and has offices at 35 Fountain Street, Manchester, M2 2AN. If you have any questions, concerns or comments about our practices, or this Privacy Notice, please email dataprotectionofficer@rentalcars.com, stating “Privacy” in the subject line, and we’ll get right back to you. When it comes to privacy, we’re always happy to talk. 
+TravelJigsaw Limited (trading as Rentalcars.com) controls the processing of personal data on its platforms. TravelJigsaw Limited is a private limited liability company, incorporated under the laws of the United Kingdom, and has offices at 35 Fountain Street, Manchester, M2 2AN. If you have any questions, concerns, comments or complaints about our practices, or this Privacy Notice, please email dataprotectionofficer@rentalcars.com, stating “Privacy” in the subject line, and we’ll get right back to you. You may also contact your local data protection authority. When it comes to privacy, we’re always happy to talk.
