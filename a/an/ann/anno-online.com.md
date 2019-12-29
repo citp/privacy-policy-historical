@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anno-online.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629084839id_/https%3A//legal.ubi.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anno-online.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229093739id_/https%3A//legal.ubi.com/privacypolicy) for the most accurate reproduction.*
 
 # UBISOFT PRIVACY POLICY
 
