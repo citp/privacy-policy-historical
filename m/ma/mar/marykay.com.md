@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marykay.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403041055id_/https%3A//www.marykay.com/en-us/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marykay.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229213120id_/https%3A//www.marykay.com/en-us/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
