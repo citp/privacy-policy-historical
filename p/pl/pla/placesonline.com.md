@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the placesonline.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508042603id_/https%3A//www.placesonline.com/info/copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placesonline.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229054916id_/https%3A//www.placesonline.com/info/copyright) for the most accurate reproduction.*
 
 # Privacy Policy
 
 AdvValica-GetPartialView = 0
 
-HeaderPageTitle-GetPartialViewNoCache = 0
+HeaderPageTitle-GetPartialViewNoCache = 0,0010009
 
 **1.**        **DATA CONTROLLER**  
 By consulting the website [www.placesonline.com](http://www.placesonline.com/) all data concerning identified or identifiable persons may be processed.
