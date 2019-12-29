@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themighty.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629212107id_/https%3A//themighty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themighty.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229111330id_/https%3A//themighty.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Mighty Help Center
 
