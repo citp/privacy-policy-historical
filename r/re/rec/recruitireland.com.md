@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the recruitireland.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417134029id_/https%3A//www.recruitireland.com/info/privacy-policy-896455.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitireland.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229215915id_/https%3A//www.recruitireland.com/info/privacy-policy) for the most accurate reproduction.*
 
-# RecruitIreland.com
+# Confidentiality and Privacy Policy | RecruitIreland.com
 
 **Data Protection & Privacy Policy**
 
