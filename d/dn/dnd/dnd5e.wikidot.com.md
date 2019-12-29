@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnd5e.wikidot.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232535id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnd5e.wikidot.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229225333id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wikidot - Free and Pro Wiki Hosting
 
