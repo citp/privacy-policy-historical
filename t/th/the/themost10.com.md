@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themost10.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613123118id_/http%3A//www.themost10.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themost10.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229151025id_/http%3A//www.themost10.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ The Most 10 is not responsible for the content of external internet sites. You a
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at[ http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html "Adsense ")
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at[ http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Adsense ")
 
 **Cookies**
 
@@ -30,4 +30,4 @@ While we do our best to protect your personal information, we cannot guarantee t
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-For any other information email [webmaster](https://web.archive.org/cdn-cgi/l/email-protection#224b4c444d62564a474f4d515613120c414d4f)
+For any other information email [webmaster](mailto:info@themost10.com)
