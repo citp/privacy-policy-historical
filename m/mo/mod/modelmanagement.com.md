@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modelmanagement.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605085327id_/https%3A//www.modelmanagement.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modelmanagement.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229174207id_/https%3A//www.modelmanagement.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Model Management
 
@@ -133,10 +133,10 @@ We hope that this Privacy Policy answers any questions that you may have. If you
 
 ### Contact us
 
-MM Model Management Ltd.  
-3, Chrysanthou Mylona Street  
-CY-3030 Limassol  
-Cyprus  
-V.A.T. NUMBER: CY10242739L  
-Company Registration Number: he 242739  
+Creative Talent Evolution S.L..  
+Moll de Barcelona, WTC  
+08039 Barcelona  
+Spain  
+V.A.T. NUMBER: ESB66936352  
+Company Registration Number: T45912-F118-B502829  
 Email: privacy@modelmanagement.com 
