@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eutimes.net privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325005046id_/http%3A//www.eutimes.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eutimes.net privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229234323id_/https%3A//www.eutimes.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EUTimes.net
+# Privacy Policy | The European Union Times
 
 **Privacy Policy**  
 EU Times, like most websites stores harmless cookies in your browser to remember actions such as when you vote in a poll, rate a story or a comment so that you can’t vote more than one time. Voting more than once would diminish the exactness of the poll which is intended to reflect views of all people. You are free to delete any cookies placed by EU Times in your browser. All user data stored on this website becomes private and it will not be passed to any third party companies.
