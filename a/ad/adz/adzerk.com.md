@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adzerk.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628232240id_/https%3A//dev.adzerk.com/docs/privacy-policy-customers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzerk.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229161025id_/https%3A//dev.adzerk.com/docs/privacy-policy-customers) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,3 +86,5 @@ If you have any questions about this privacy policy, or the information handling
 Adzerk's DPA is aimed to help you feel confident that you are working with a GDPR-compliant partner and to save both parties from legal harm should the other party breach the agreement. The details of the DPA [live here](https://dev.adzerk.com/v1.0/docs/adzerk-data-processing-agreement).
 
 Last Modified: April 10, 2018
+
+Updated 9 months ago
