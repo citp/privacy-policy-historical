@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalfaq.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624031707id_/http%3A//www.digitalfaq.com/about/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalfaq.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229093438id_/http%3A//www.digitalfaq.com/about/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy – The Digital FAQ
 
@@ -28,9 +28,13 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 We do not sell, trade, or otherwise transfer to outside parties the personally identifiable information of legitimate site members. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety; for example, to fight spam with services such as StopForumSpam.com.
 
-**Third party links**
+**Third-party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Third-party advertisers**
+
+We use third-party advertising companies which serve ads and may collect information about site visitors. These companies collect and use the information to provide relevant advertisements on our site, or other sites and mobile apps on the ad network, using cookies or pixels. It’s used to provide info on goods and services that you may find of interest, or to understand user interaction with the ads. For more information, or to opt out of collection, visit the ad network [site](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Changes to our Privacy Policy**
 
