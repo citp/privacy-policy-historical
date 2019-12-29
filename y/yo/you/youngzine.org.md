@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngzine.org privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103200100id_/http%3A//youngzine.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngzine.org privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229214623id_/https%3A//youngzine.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Youngzine
 
@@ -36,4 +36,4 @@ If you have any questions, comments, or concerns about our privacy policy, pleas
 
 **Changes to Privacy Policy**
 
-Due to the changing nature of the internet, this privacy policy may be modified at any time at our discretion. It is your responsibility to refer to this privacy policy periodically. If we make any significant changes, we will inform all our users by email.
+Due to the changing nature of the internet, this privacy policy may be modified at any time at our discretion. If we make any significant changes, we will inform all our users by email.
