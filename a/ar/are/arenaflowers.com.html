@@ -1,1295 +1,1919 @@
-<!--The following is the downloaded HTML source of the arenaflowers.com privacy policy that was archived on 2019-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190328125000id_/https%3A//www.arenaflowers.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arenaflowers.com privacy policy that was archived on 2019-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191229040844id_/https%3A//www.arenaflowers.com/pages/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html itemscope="" itemtype="http://schema.org" lang="en-GB"><head class="MLL"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MNQ5"></script><script crossorigin="" src="//d2bzfgi7sjutmd.cloudfront.net/asts/2/rollbar.min-6b13164d281b0b6e1e84a000f1e291cc.js" async=""></script><script type="text/javascript">window.AF = window.AF || {};
-window.AF.env = "production"</script><script type="text/javascript">if(['production', 'staging'].includes(AF.env)) {
-  var _rollbarConfig = {
-    rollbarJsUrl: "//d2bzfgi7sjutmd.cloudfront.net/asts/2/rollbar.min-6b13164d281b0b6e1e84a000f1e291cc.js",
-    accessToken: "8caf57f2655146c59104406d3796b7f0",
-    captureUncaught: true,
-    captureUnhandledRejections: true,
-    payload: {
-      environment: AF.env,
-      client: {
-        javascript: {
-          source_map_enabled: true,
-          code_version: "c8a8acb9e3345e8b0adca9e6207304c9fa918951",
-          guess_uncaught_frames: true
-        }
-      }
-    }
-  };
-  // Rollbar Snippet
-  !function(r){function o(n){if(e[n])return e[n].exports;var t=e[n]={exports:{},id:n,loaded:!1};return r[n].call(t.exports,t,t.exports,o),t.loaded=!0,t.exports}var e={};return o.m=r,o.c=e,o.p="",o(0)}([function(r,o,e){"use strict";var n=e(1),t=e(4);_rollbarConfig=_rollbarConfig||{},_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.2.10/rollbar.min.js",_rollbarConfig.async=void 0===_rollbarConfig.async||_rollbarConfig.async;var a=n.setupShim(window,_rollbarConfig),l=t(_rollbarConfig);window.rollbar=n.Rollbar,a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,l)},function(r,o,e){"use strict";function n(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}function t(r,o){this.options=r,this._rollbarOldOnError=null;var e=s++;this.shimId=function(){return e},window&&window._rollbarShims&&(window._rollbarShims[e]={handler:o,messages:[]})}function a(r,o){var e=o.globalAlias||"Rollbar";if("object"==typeof r[e])return r[e];r._rollbarShims={},r._rollbarWrappedError=null;var t=new p(o);return n(function(){o.captureUncaught&&(t._rollbarOldOnError=r.onerror,i.captureUncaughtExceptions(r,t,!0),i.wrapGlobals(r,t,!0)),o.captureUnhandledRejections&&i.captureUnhandledRejections(r,t,!0);var n=o.autoInstrument;return o.enabled!==!1&&(void 0===n||n===!0||"object"==typeof n&&n.network)&&r.addEventListener&&(r.addEventListener("load",t.captureLoad.bind(t)),r.addEventListener("DOMContentLoaded",t.captureDomContentLoaded.bind(t))),r[e]=t,t})()}function l(r){return n(function(){var o=this,e=Array.prototype.slice.call(arguments,0),n={shim:o,method:r,args:e,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)})}var i=e(2),s=0,d=e(3),c=function(r,o){return new t(r,o)},p=d.bind(null,c);t.prototype.loadFull=function(r,o,e,t,a){var l=function(){var o;if(void 0===r._rollbarDidLoad){o=new Error("rollbar.js did not load");for(var e,n,t,l,i=0;e=r._rollbarShims[i++];)for(e=e.messages||[];n=e.shift();)for(t=n.args||[],i=0;i<t.length;++i)if(l=t[i],"function"==typeof l){l(o);break}}"function"==typeof a&&a(o)},i=!1,s=o.createElement("script"),d=o.getElementsByTagName("script")[0],c=d.parentNode;s.crossOrigin="",s.src=t.rollbarJsUrl,e||(s.async=!0),s.onload=s.onreadystatechange=n(function(){if(!(i||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){s.onload=s.onreadystatechange=null;try{c.removeChild(s)}catch(r){}i=!0,l()}}),c.insertBefore(s,d)},t.prototype.wrap=function(r,o,e){try{var n;if(n="function"==typeof o?o:function(){return o||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){e&&"function"==typeof e&&e.apply(this,arguments);try{return r.apply(this,arguments)}catch(e){var o=e;throw"string"==typeof o&&(o=new String(o)),o._rollbarContext=n()||{},o._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=o,o}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(o){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,captureEvent,captureDomContentLoaded,captureLoad".split(","),f=0;f<u.length;++f)t.prototype[u[f]]=l(u[f]);r.exports={setupShim:a,Rollbar:p}},function(r,o){"use strict";function e(r,o,e){if(r){var t;"function"==typeof o._rollbarOldOnError?t=o._rollbarOldOnError:r.onerror&&!r.onerror.belongsToShim&&(t=r.onerror,o._rollbarOldOnError=t);var a=function(){var e=Array.prototype.slice.call(arguments,0);n(r,o,t,e)};a.belongsToShim=e,r.onerror=a}}function n(r,o,e,n){r._rollbarWrappedError&&(n[4]||(n[4]=r._rollbarWrappedError),n[5]||(n[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null),o.handleUncaughtException.apply(o,n),e&&e.apply(r,n)}function t(r,o,e){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var n=function(r){var e=r.reason,n=r.promise,t=r.detail;!e&&t&&(e=t.reason,n=t.promise),o&&o.handleUnhandledRejection&&o.handleUnhandledRejection(e,n)};n.belongsToShim=e,r._rollbarURH=n,r.addEventListener("unhandledrejection",n)}}function a(r,o,e){if(r){var n,t,a="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(n=0;n<a.length;++n)t=a[n],r[t]&&r[t].prototype&&l(o,r[t].prototype,e)}}function l(r,o,e){if(o.hasOwnProperty&&o.hasOwnProperty("addEventListener")){for(var n=o.addEventListener;n._rollbarOldAdd&&n.belongsToShim;)n=n._rollbarOldAdd;var t=function(o,e,t){n.call(this,o,r.wrap(e),t)};t._rollbarOldAdd=n,t.belongsToShim=e,o.addEventListener=t;for(var a=o.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,o,e){a.call(this,r,o&&o._rollbar_wrapped||o,e)};l._rollbarOldRemove=a,l.belongsToShim=e,o.removeEventListener=l}}r.exports={captureUncaughtExceptions:e,captureUnhandledRejections:t,wrapGlobals:a}},function(r,o){"use strict";function e(r,o){this.impl=r(o,this),this.options=o,n(e.prototype)}function n(r){for(var o=function(r){return function(){var o=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,o)}},e="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureEvent,captureDomContentLoaded,captureLoad".split(","),n=0;n<e.length;n++)r[e[n]]=o(e[n])}e.prototype._swapAndProcessMessages=function(r,o){this.impl=r(this.options);for(var e,n,t;e=o.shift();)n=e.method,t=e.args,this[n]&&"function"==typeof this[n]&&("captureDomContentLoaded"===n||"captureLoad"===n?this[n].apply(this,[t[0],e.ts]):this[n].apply(this,t));return this},r.exports=e},function(r,o){"use strict";r.exports=function(r){return function(o){if(!o&&!window._rollbarInitialized){r=r||{};for(var e,n,t=r.globalAlias||"Rollbar",a=window.rollbar,l=function(r){return new a(r)},i=0;e=window._rollbarShims[i++];)n||(n=e.handler),e.handler._swapAndProcessMessages(l,e.messages);window[t]=n,window._rollbarInitialized=!0}}}}]);
-  // End Rollbar Snippet
-}
-
-window.AF.reportError = function(message, exception = null, data = {}, logLevel = 'error') {
-  if(['production', 'staging'].includes(AF.env)) {
-    Rollbar[logLevel](message, exception, data);
-  } else {
-    console.error(message, [exception, data]);
-  }
-}</script><meta content="authenticity_token" name="csrf-param">
-<meta content="9diSamRkSXqgFLjFT0Q3NiLvp/oxM4dQtnWm60rj+48=" name="csrf-token"><meta charset="utf-8"><meta content="£" name="currency"><meta content="." name="currency_seperator"><meta content="IE=edge" http-equiv="X-UA-Compatible"><meta content="initial-scale=1, maximum-scale=1" name="viewport"><script crossorigin="anonymous" src="//d2bzfgi7sjutmd.cloudfront.net/asts/webpack-build/common-b44ae8fc67a639fb9e42.js" type="text/javascript"></script><script crossorigin="anonymous" src="//d2bzfgi7sjutmd.cloudfront.net/asts/webpack-build/polyfills-b44ae8fc67a639fb9e42.js" type="text/javascript"></script><meta content="on" http-equiv="x-dns-prefetch-control">
-<link href="//ajax.googleapis.com" rel="dns-prefetch">
-<link href="//fonts.googleapis.com" rel="dns-prefetch">
-<link href="//www.googletagmanager.com" rel="dns-prefetch">
-<link href="//apis.google.com" rel="dns-prefetch">
-<link href="//accounts.google.com" rel="dns-prefetch">
-<link href="//www.google.ie" rel="dns-prefetch">
-<link href="//fonts.gstatic.com" rel="dns-prefetch">
-<link href="//www.google-analytics.com" rel="dns-prefetch">
-<link href="//stats.g.doubleclick.net" rel="dns-prefetch">
-<link href="//www.google.com" rel="dns-prefetch">
-<link href="//ssl.gstatic.com" rel="dns-prefetch">
-<link href="//widget.intercom.io" rel="dns-prefetch">
-<link href="//api-iam.intercom.io" rel="dns-prefetch">
-<link href="//js.intercomcdn.com" rel="dns-prefetch">
-<link href="//widget.reviews.co.uk" rel="dns-prefetch">
-<link href="//api.reviews.co.uk" rel="dns-prefetch">
-<link href="//api-cache.reviews.co.uk" rel="dns-prefetch">
-<link href="//www.dwin1.com" rel="dns-prefetch">
-<link href="//connect.facebook.net" rel="dns-prefetch">
-<link href="//www.facebook.com" rel="dns-prefetch">
-<link href="//bat.bing.com" rel="dns-prefetch">
-<link href="//d2bzfgi7sjutmd.cloudfront.net" rel="dns-prefetch">
-<link href="//d3pmzj3l972r2n.cloudfront.net" rel="dns-prefetch">
-<link href="//dcx7pgohv5tio.cloudfront.net" rel="dns-prefetch">
-<link href="//d1e3excjqkgc1h.cloudfront.net" rel="dns-prefetch"><link as="script" href="//d2bzfgi7sjutmd.cloudfront.net/asts/2/jquery-3.3.1.min-c6134bcbb74b9e9d9278bfb860dcc199.js" rel="preload">
-<link as="script" href="//d2bzfgi7sjutmd.cloudfront.net/asts/2/bootstrap-3.3.7.min-5ada70b5d3551260101f6a47fbff5fb5.js" rel="preload">
-<link as="font" crossorigin="" href="//d2bzfgi7sjutmd.cloudfront.net/fonts/FontAwesome.woff2" rel="preload" type="font/woff2">
-<link as="script" href="//d2bzfgi7sjutmd.cloudfront.net/asts/2/sites/af-a46807d35823f3aa214681eeaf621a23.js" rel="preload"><link as="script" href="//d2bzfgi7sjutmd.cloudfront.net/asts/2/jquery-ui-1.12.1.min-de5f64da69f79cb7fe548c9631787ec0.js" rel="prefetch">
-<link as="script" href="//d2bzfgi7sjutmd.cloudfront.net/asts/webpack-build/basketCrossSell-b44ae8fc67a639fb9e42.js" rel="prefetch"><script type="text/javascript">if (navigator.userAgent.indexOf('MSIE 10') > 0) document.getElementsByTagName('html')[0].className = 'ie10';</script><link href="//d2bzfgi7sjutmd.cloudfront.net/asts/2/aqua-critical-402194c1f53c6fba7c352f9668f6a5b5.css" media="screen" rel="stylesheet" type="text/css"><link href="//d2bzfgi7sjutmd.cloudfront.net/asts/2/aqua-2b3585872d6066bed19d7a8102bdfb3c.css" media="screen" rel="stylesheet" type="text/css"><link href="//d2bzfgi7sjutmd.cloudfront.net/asts/2/af-2891d7b16d9d0403101084c941bf0409.css" media="screen" rel="stylesheet" type="text/css"><meta content="bXkxLjPt2dZg1Q12zriQqEuVSj+Rp6BaVvfLPECoxGY=" name="verify-v1"><link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"><link href="https://plus.google.com/115340998624140668095" rel="publisher"><meta content="wAt6nqgpSv0IHTiUhDzHFP90eo_O_0MFT0bkXiqt_g4" name="google-site-verification"><link href="/files/Image/arenaflowers.com/apple-touch-icon.png" rel="apple-touch-icon">
-<title>Privacy Policy</title>
-<meta name="description" content="Flower Delivery UK and internationally - privacy policy">
-
-<meta name="robots" content="noodp">
-<meta name="robots" content="noydir">
+<!DOCTYPE html><html class="no-js js" lang="en" itemscope="" itemtype="http://schema.org/WebPage"><!--<![endif]--><head>
 
 
-<!-- begin 3rd party integration -->
-<meta name="verify-v1" content="bXkxLjPt2dZg1Q12zriQqEuVSj+Rp6BaVvfLPECoxGY=">
-
-<!-- content("ahrefs.com meta tag", id: 15020, page_id: , site: af[1]) --> <meta name="verify-a" value="1054cd3241e281ec0975"> <!-- end_content(ahrefs.com meta tag) --><!-- content("Meta Head tag for Bing", id: 15305, page_id: , site: af[1]) --><meta name="msvalidate.01" content="CB62D7E1FA4F865F5723B8BE04239767"><!-- end_content(Meta Head tag for Bing) --><!-- content("Google Merchant Site verification (don't remove)", id: 15864, page_id: , site: af[1]) --><meta name="google-site-verification" content="3WEUFZA48WBknZp6x7xyCqXjF0mIhxgsZpGTaVx6bpc"><!-- end_content(Google Merchant Site verification (don't remove)) --><script>
-      dataLayer = [];
-    </script><link rel="canonical" href="https://www.arenaflowers.com/privacy-policy">
-<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Pacifico%7CPlayfair+Display:400,400i,700,700i%7CRoboto%7CRoboto+Condensed%7CRoboto+Slab"></head><body class="route_to_path page lang-en af"><!--[if IE 9]><div class="ie9"><![endif]--><script>
-      dataLayer.push({"event":"pageView","pageType":null,"channel":"N/A","vc":null});
-    </script><!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MNQ5"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  
+  <!-- Google Tag Manager -->
+<script type="text/javascript" async="" src="https://ecommplugins-trustboxsettings.trustpilot.com/arenaflowers.myshopify.com.js?settings=1575478532017&amp;shop=arenaflowers.myshopify.com"></script><script type="text/javascript" async="" src="https://ecommplugins-scripts.trustpilot.com/v2.1/js/header.min.js?settings=eyJrZXkiOiI1SGxndGxDNVp0UkZQbVhnIn0=&amp;shop=arenaflowers.myshopify.com"></script><script type="text/javascript" async="" src="https://analytics.getshogun.com/collector.js?shop=arenaflowers.myshopify.com"></script><script type="text/javascript" async="" src="https://cdn.refersion.com/pixel.js?shop=arenaflowers.myshopify.com&amp;client_id=41536&amp;pk=pub_ecc020dfdf66149812d5&amp;shop=arenaflowers.myshopify.com"></script><script type="text/javascript" async="" src="https://d2badvwg0mti9p.cloudfront.net/script.js?shop=arenaflowers.myshopify.com&amp;shop=arenaflowers.myshopify.com"></script><script type="text/javascript" async="" src="//d1liekpayvooaz.cloudfront.net/apps/uploadery/uploadery.js?shop=arenaflowers.myshopify.com"></script><script type="text/javascript" async="" src="https://lootly.io/js/integrations/shopify/script.js?shop=arenaflowers.myshopify.com"></script><script type="text/javascript" async="" src="https://chimpstatic.com/mcjs-connected/js/users/23bccf8985b5e6539dfea6ead/bcdcdb408be4893c51d5699b0.js?shop=arenaflowers.myshopify.com"></script><script type="text/javascript" async="" src="https://shy.elfsight.com/p/platform.js?shop=arenaflowers.myshopify.com"></script><script type="text/javascript" async="" src="//productreviews.shopifycdn.com/assets/v4/spr.js?shop=arenaflowers.myshopify.com"></script><script async="" src="//JUNOW11113.pcapredict.com/js/sensor.js"></script><script type="text/javascript" async="" src="https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2019.11.04.1"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MNQ5"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer', "GTM-MNQ5");</script>
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MNQ5');</script>
 <!-- End Google Tag Manager -->
-<div class="aqua--new-header" itemscope="" itemtype="http://schema.org/Organization"><div class="af-header--bar-spacer"> </div><div class="af-header--bar hidden-xs hidden-sm"><div class="container"><div class="af-header--bar--left-text pull-left mobile-header-carousel-js"><!-- content("Above header text", id: 15849, page_id: , site: af[1]) --><!-- Use the class 'check-mark' on <a> and <span> tags -->
-<span class="check-mark">FREE standard delivery</span>
-<span class="check-mark">Every bouquet hand-tied</span>
-<span class="check-mark">UK's no 1 rated ethical florist</span>
+
+    <meta charset="utf-8">
+ 
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' /><![endif]-->
+
+    <title>
 
 
-<!-- end_content(Above header text) --></div><div class="af-header__desktop-options text-right hidden-xs hidden-sm"><a href="/customer" class="sign-in btn" rel="nofollow"><div class="login"><span class="hidden-xs m-account-login-js" data-url="/site/customer_account_link">Sign in</span> </div></a><a href="/contact-us" class="btn" title="Contact Us">Contact Us</a><a href="/contact-us" class="btn telephone"><i class="fa fa-phone"></i>0800 0350 581</a></div></div></div><div class="af-header container"><div class="row af-header__desktop--logo-area"><div class="col-md-4 col-xs-12 col-sm-12"><div class="af-header__logo"><a href="/" itemprop="url"><img alt="Arenaflowers.com" src="//d2bzfgi7sjutmd.cloudfront.net/asts/2/logos/arenaflowers.com-40683e2d686566a872f33a79477befa7.png"></a></div></div><div class="col-md-8 hidden-sm hidden-xs quick-delivery" data-url="/ajax/free_delivery_content"><div class="quick-delivery-text-js col-xs-11"></div><div class="quick-delivery-clock-js col-xs-1"></div></div></div><nav class="navbar af-header__menu" id="main_navbar"><div class="nav-header hidden-md hidden-lg"><div class="container"><div aria-label="header-menu-options" class="btn-group-lg" role="group"><a href="tel:08000350581" class="btn" id="customer-service"><span class="sr-only">Call customer-service</span><i class="fa fa-phone"></i></a><a href="/contact-us" class="btn"><span class="sr-only">"Contact Us"</span><i class="fa fa-envelope"></i></a><a href="/customer" class="btn account-btn" rel="nofollow"><span class="m-mobile-account-login-js" data-url="/site/customer_account_link"><i class="fa fa-user-o"></i></span></a><a href="" class="btn search-btn"><span class="sr-only">Search</span><i class="fa fa-search"></i></a><a class="btn btn-small basket-widget-summary-js btn-warning af-header__menu--button-basket" href="#/basket" title="Basket"><picture class="basket--icon"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="//d2bzfgi7sjutmd.cloudfront.net/asts/2/svg-icons/basket-880bdbc7c2d5b4a92ca676927533ee08.svg" type="image/svg+xml"><!--[if IE 9]></video><![endif]--><img alt="B" src="//d2bzfgi7sjutmd.cloudfront.net/asts/2/svg-icons/basketx1-7304456186a6a0409a7a2e7e57db2299.png" srcset="//d2bzfgi7sjutmd.cloudfront.net/asts/2/svg-icons/basketx2-b83607a823b781ea2b4dbd86a0fcb0fb.png 2x, //d2bzfgi7sjutmd.cloudfront.net/asts/2/svg-icons/basketx3-72fd6264683653a07581b2a95d8fd6f8.png 3x"></picture> <span class="basket-widget-summary-count-js"> 0</span></a><button class="btn navbar-toggle pull-right" data-target="#navbar-collapse-grid" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span><i class="fa fa-2x fa-reorder"></i></button></div></div></div><div class="collapse navbar-collapse" id="navbar-collapse-grid"><!-- content("Responsive perm_nav_tabs", id: 15572, page_id: , site: af[1]) --><ul class="nav navbar-nav navbar-left">
-    <li class="dropdown-full">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Price</a>
-        <div class="dropdown-menu no-padding row">
-            <div class="col-md-4">
-                <div class="af-header__menu--header hidden-sm hidden-xs">
-                    Price
-                </div>
-                <ul class="af-header__menu--links">
-                    <li>
-                        <a href="/offers">Weekly Special Offers</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/price/amazebox-from-9-99">From £9.99 - AmazeBox</a>
-                    </li>
-                    <li>
-                        <a href="/letterbox">Letterbox Flowers</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/price/subscription-flowers">Subscription Flowers</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/price/less-than-30-pounds">Less than £30</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/price/30-to-40-pounds">£30 - £40</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/price/40-50-pounds">£40 - £50</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/price/more-than-50-pounds">Luxury Flowers</a>
-                    </li>
-                    <li>
-                    </li><li>
-                        <a href="/one-of-a-kind">One Of A Kind Collection</a>
-                    </li>
-                    <li>
-                        <a href="/business-corporate-flowers">Office &amp; Corporate Flowers</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/same-day-flowers">Same Day Flowers</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/florists-choice">Florist's Choice</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/price/special-offers ">Gift Ideas</a>
-                    </li>
-                </ul>
+
+ 
+
+        Privacy Policy | Arena Flowers
+        
+    </title>
+
+   
+ <meta name="description" content="This privacy notice tells you about the information we collect from you when you use our website www.arenaflowers.com. In collecting this information, we are acting as a data controller and, by law, we are required to provide you with information about us, about why and how we use your data.">
+ 
+<link rel="canonical" href="https://www.arenaflowers.com/pages/privacy-policy">
+
+
+
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta http-equiv="Accept-CH" content="DPR,Width,Viewport-Width">
+<meta name="language" content="english">
+<link rel="preconnect" href="//www.google-analytics.com">
+<link rel="preconnect" href="//fast.fonts.net">
+<link rel="preconnect" href="//ajax.googleapis.com">
+<link rel="preconnect" href="//cdn.shopify.com">
+<link rel="preconnect" href="//widget.trustpilot.com">
+<link rel="preconnect" href="//cloud.tinymce.com">
+<meta name="robots" content="noodp,noydir">
+
+
+
+     
+    
+  <meta property="og:title" content="Privacy Policy | Arena Flowers">
+  <meta property="og:type" content="website">
+
+
+
+<meta property="og:description" content="This privacy notice tells you about the information we collect from you when you use our website www.arenaflowers.com. In collecting this information, we are acting as a data controller and, by law, we are required to provide you with information about us, about why and how we use your data.">
+
+<meta property="og:url" content="https://www.arenaflowers.com/pages/privacy-policy">
+<meta property="og:site_name" content="Arena Flowers"> 
+ 
+ <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="google-site-verification" content="tezEgGB-rpnXeKWApXw6Xx92nLzLOLqOZrkquSexSzs">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/3503325297/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="0871d4eca46d2997760811b93014f0f2">
+<meta id="in-context-paypal-metadata" data-shop-id="3503325297" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="GBP">
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, Helvetica Neue, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--google-pay{line-height:0 !important;padding:0 !important;border-radius:unset !important;width:80px !important}@media (max-width: 500px){.additional-checkout-button--google-pay{width:100% !important}}.gpay-iframe{height:44px !important;width:100%  !important;cursor:pointer;vertical-align:middle !important}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--paypal,.additional-checkout-button--venmo{vertical-align:top;line-height:0 !important;padding:0 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<script id="shopify-features" type="application/json">{"accessToken":"0871d4eca46d2997760811b93014f0f2","betas":[],"domain":"www.arenaflowers.com","predictiveSearch":true,"shopId":3503325297,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "arenaflowers.myshopify.com";
+Shopify.currency = {"active":"GBP","rate":"1.0"};
+Shopify.theme = {"name":"additional-image-overlay","id":78896889969,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["\/\/productreviews.shopifycdn.com\/assets\/v4\/spr.js?shop=arenaflowers.myshopify.com","https:\/\/shy.elfsight.com\/p\/platform.js?shop=arenaflowers.myshopify.com","https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/23bccf8985b5e6539dfea6ead\/bcdcdb408be4893c51d5699b0.js?shop=arenaflowers.myshopify.com","https:\/\/lootly.io\/js\/integrations\/shopify\/script.js?shop=arenaflowers.myshopify.com","\/\/d1liekpayvooaz.cloudfront.net\/apps\/uploadery\/uploadery.js?shop=arenaflowers.myshopify.com","https:\/\/d2badvwg0mti9p.cloudfront.net\/script.js?shop=arenaflowers.myshopify.com\u0026shop=arenaflowers.myshopify.com","https:\/\/cdn.refersion.com\/pixel.js?shop=arenaflowers.myshopify.com\u0026client_id=41536\u0026pk=pub_ecc020dfdf66149812d5\u0026shop=arenaflowers.myshopify.com","https:\/\/analytics.getshogun.com\/collector.js?shop=arenaflowers.myshopify.com","https:\/\/ecommplugins-scripts.trustpilot.com\/v2.1\/js\/header.min.js?settings=eyJrZXkiOiI1SGxndGxDNVp0UkZQbVhnIn0=\u0026shop=arenaflowers.myshopify.com","https:\/\/ecommplugins-trustboxsettings.trustpilot.com\/arenaflowers.myshopify.com.js?settings=1575478532017\u0026shop=arenaflowers.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":3503325297,"offset":0,"reqid":"f4f49f9a-20b7-4aa6-b77a-18cfd8ab8987","pageurl":"www.arenaflowers.com\/pages\/privacy-policy","s":"pages-24411275377","u":"17638800a6f2","p":"page","rtyp":"page","rid":24411275377};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'GBP';
+var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":24411275377}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var isDuplicatedThankYouPageView = function() {
+    return document.cookie.indexOf('loggedConversion=' + window.location.pathname) !== -1;
+  }
+
+  var setCookieIfThankYouPage = function() {
+    if (window.location.pathname.indexOf('/checkouts') !== -1 &&
+        window.location.pathname.indexOf('/thank_you') !== -1) {
+
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + window.location.pathname + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config;
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2019.11.04.1';
+    var first = document.getElementsByTagName('script')[0];
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":3503325297,"isMerchantRequest":null,"themeId":78896889969,"themeCityHash":"427073774512607154","contentLanguage":"en","currency":"GBP"}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":1},"Google Analytics":{"trackingId":"UA-727763-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["1709053332655542"],"agent":"plshopify1.2"},"Google Gtag Pixel":{"conversionId":"AW-1038487828","eventLabels":[{"type":"page_view","action_label":"AW-1038487828\/_h2xCPu5r64BEJSimO8D"},{"type":"purchase","action_label":"AW-1038487828\/DE2jCP65r64BEJSimO8D"},{"type":"view_item","action_label":"AW-1038487828\/-cJKCIG6r64BEJSimO8D"},{"type":"add_to_cart","action_label":"AW-1038487828\/dMNqCIS6r64BEJSimO8D"},{"type":"begin_checkout","action_label":"AW-1038487828\/HyPFCNO7r64BEJSimO8D"},{"type":"search","action_label":"AW-1038487828\/rskBCNa7r64BEJSimO8D"},{"type":"add_payment_info","action_label":"AW-1038487828\/lP3SCNm7r64BEJSimO8D"}],"targetCountry":"GB"},"Session Attribution":{}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+      (function () {
+        if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+          return;
+        }
+        window.BOOMR = window.BOOMR || {};
+        window.BOOMR.snippetStart = new Date().getTime();
+        window.BOOMR.snippetExecuted = true;
+        window.BOOMR.snippetVersion = 12;
+        window.BOOMR.shopId = 3503325297;
+        window.BOOMR.themeId = 78896889969;
+        window.BOOMR.url =
+          "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+        var where = document.currentScript || document.getElementsByTagName("script")[0];
+        if (!where || !where.parentNode){
+          return;
+        }
+        var promoted = false;
+        var LOADER_TIMEOUT = 3000;
+        function promote() {
+          if (promoted) {
+            return;
+          }
+          var script = document.createElement("script");
+          script.id = "boomr-scr-as";
+          script.src = window.BOOMR.url;
+          script.async = true;
+          where.parentNode.appendChild(script);
+          promoted = true;
+        }
+        function iframeLoader(wasFallback) {
+          promoted = true;
+          var dom, bootstrap, iframe, iframeStyle;
+          var doc = document;
+          var win = window;
+          window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+          bootstrap = function(parent, scriptId) {
+            var script = doc.createElement("script");
+            script.id = scriptId || "boomr-if-as";
+            script.src = window.BOOMR.url;
+            BOOMR_lstart = new Date().getTime();
+            parent = parent || doc.body;
+            parent.appendChild(script);
+          };
+          if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+            window.BOOMR.snippetMethod = "s";
+            bootstrap(where.parentNode, "boomr-async");
+            return;
+          }
+          iframe = document.createElement("IFRAME");
+          iframe.src = "about:blank";
+          iframe.title = "";
+          iframe.role = "presentation";
+          iframe.loading = "eager";
+          iframeStyle = (iframe.frameElement || iframe).style;
+          iframeStyle.width = 0;
+          iframeStyle.height = 0;
+          iframeStyle.border = 0;
+          iframeStyle.display = "none";
+          where.parentNode.appendChild(iframe);
+          try {
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          } catch (e) {
+            dom = document.domain;
+            iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          }
+          if (dom) {
+            doc._boomrl = function() {
+              this.domain = dom;
+              bootstrap();
+            };
+            doc.write("<body onload='document._boomrl();'>");
+          } else {
+            win._boomrl = function() {
+              bootstrap();
+            };
+            if (win.addEventListener) {
+              win.addEventListener("load", win._boomrl, false);
+            } else if (win.attachEvent) {
+              win.attachEvent("onload", win._boomrl);
+            }
+          }
+          doc.close();
+        }
+        var link = document.createElement("link");
+        if (link.relList &&
+          typeof link.relList.supports === "function" &&
+          link.relList.supports("preload") &&
+          ("as" in link)) {
+          window.BOOMR.snippetMethod = "p";
+          link.href = window.BOOMR.url;
+          link.rel = "preload";
+          link.as = "script";
+          link.addEventListener("load", promote);
+          link.addEventListener("error", function() {
+            iframeLoader(true);
+          });
+          setTimeout(function() {
+            if (!promoted) {
+              iframeLoader(true);
+            }
+          }, LOADER_TIMEOUT);
+          BOOMR_lstart = new Date().getTime();
+          where.parentNode.appendChild(link);
+        } else {
+          iframeLoader(false);
+        }
+        function boomerangSaveLoadTime(e) {
+          window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+        }
+        if (window.addEventListener) {
+          window.addEventListener("load", boomerangSaveLoadTime, false);
+        } else if (window.attachEvent) {
+          window.attachEvent("onload", boomerangSaveLoadTime);
+        }
+        if (document.addEventListener) {
+          document.addEventListener("onBoomerangLoaded", function(e) {
+            e.detail.BOOMR.init({});
+            e.detail.BOOMR.t_end = new Date().getTime();
+          });
+        } else if (document.attachEvent) {
+          document.attachEvent("onpropertychange", function(e) {
+            if (!e) e=event;
+            if (e.propertyName === "onBoomerangLoaded") {
+              e.detail.BOOMR.init({});
+              e.detail.BOOMR.t_end = new Date().getTime();
+            }
+          });
+        }
+      })();
+    
+
+    if (!isDuplicatedThankYouPageView()) {
+      setCookieIfThankYouPage();
+      
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"page","resourceType":"page","resourceId":24411275377}
+        );
+      
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-09875a9a2b286acf534498184c24b199675a6097a941992d0979e5295d2cf9e9.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-09875a9a2b286acf534498184c24b199675a6097a941992d0979e5295d2cf9e9.js"></script>
+<script integrity="sha256-VNrOE03Po0eGeT5V7WlE3RrzS460zdA8c6TInfpdL+A=" crossorigin="anonymous" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/s/assets/storefront/load_feature-54dace134dcfa34786793e55ed6944dd1af34b8eb4cdd03c73a4c89dfa5d2fe0.js"></script>
+<script integrity="sha256-qzPTa4Ven/Yc2yyXr9BKZWCTXSrPTCnbGdWsxA7YCw0=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/s/assets/storefront/features-ab33d36b855e9ff61cdb2c97afd04a6560935d2acf4c29db19d5acc40ed80b0d.js" crossorigin="anonymous"></script>
+<script defer="defer" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-99e991855b3d8ddc69e625c68ab0579dd9927b611c2ec4943d396c72e3af0849.js"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 60px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+<script>
+    window.BOLD = window.BOLD || {};
+    window.BOLD.options = {settings: {v1_variant_mode : true, hybrid_fix_auto_insert_inputs: true}};
+</script><script>window.BOLD = window.BOLD || {};
+    window.BOLD.common = window.BOLD.common || {};
+    window.BOLD.common.Shopify = window.BOLD.common.Shopify || {};
+    window.BOLD.common.Shopify.shop = {
+      domain: 'www.arenaflowers.com',
+      permanent_domain: 'arenaflowers.myshopify.com',
+      url: 'https://www.arenaflowers.com',
+      secure_url: 'https://www.arenaflowers.com',
+      money_format: "£{{amount}}",
+      currency: "GBP"
+    };
+    window.BOLD.common.Shopify.customer = {
+      id: null,
+      tags: null,
+    };
+    window.BOLD.common.Shopify.cart = {"token":"d28bb383dabb5a3c2198141ad7e75b15","note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"GBP","items_subtotal_price":0,"cart_level_discount_applications":[]};
+    window.BOLD.common.template = 'page';window.BOLD.common.Shopify.formatMoney = function(money, format) {
+        function n(t, e) {
+            return "undefined" == typeof t ? e : t
+        }
+        function r(t, e, r, i) {
+            if (e = n(e, 2),
+                r = n(r, ","),
+                i = n(i, "."),
+            isNaN(t) || null == t)
+                return 0;
+            t = (t / 100).toFixed(e);
+            var o = t.split(".")
+                , a = o[0].replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1" + r)
+                , s = o[1] ? i + o[1] : "";
+            return a + s
+        }
+        "string" == typeof money && (money = money.replace(".", ""));
+        var i = ""
+            , o = /\{\{\s*(\w+)\s*\}\}/
+            , a = format || window.BOLD.common.Shopify.shop.money_format || window.Shopify.money_format || "$ {{ amount }}";
+        switch (a.match(o)[1]) {
+            case "amount":
+                i = r(money, 2, ",", ".");
+                break;
+            case "amount_no_decimals":
+                i = r(money, 0, ",", ".");
+                break;
+            case "amount_with_comma_separator":
+                i = r(money, 2, ".", ",");
+                break;
+            case "amount_no_decimals_with_comma_separator":
+                i = r(money, 0, ".", ",");
+                break;
+            case "amount_with_space_separator":
+                i = r(money, 2, " ", ",");
+                break;
+            case "amount_no_decimals_with_space_separator":
+                i = r(money, 0, " ", ",");
+                break;
+            case "amount_with_apostrophe_separator":
+                i = r(money, 2, "'", ".");
+                break;
+        }
+        return a.replace(o, i);
+    };
+    window.BOLD.common.Shopify.saveProduct = function (handle, product) {
+      if (typeof handle === 'string' && typeof window.BOLD.common.Shopify.products[handle] === 'undefined') {
+        if (typeof product === 'number') {
+          window.BOLD.common.Shopify.handles[product] = handle;
+          product = { id: product };
+        }
+        window.BOLD.common.Shopify.products[handle] = product;
+      }
+    };
+    window.BOLD.common.Shopify.saveVariant = function (variant_id, variant) {
+      if (typeof variant_id === 'number' && typeof window.BOLD.common.Shopify.variants[variant_id] === 'undefined') {
+        window.BOLD.common.Shopify.variants[variant_id] = variant;
+      }
+    };window.BOLD.common.Shopify.products = window.BOLD.common.Shopify.products || {};
+    window.BOLD.common.Shopify.variants = window.BOLD.common.Shopify.variants || {};
+    window.BOLD.common.Shopify.handles = window.BOLD.common.Shopify.handles || {};window.BOLD.common.Shopify.saveProduct(null, null);window.BOLD.apps_installed = {"Product Options":2} || {};window.BOLD.common.Shopify.metafields = window.BOLD.common.Shopify.metafields || {};window.BOLD.common.Shopify.metafields["bold_rp"] = {"recurring_type":2};window.BOLD.common.Shopify.metafields["bold_csp_defaults"] = {};window.BOLD.common.cacheParams = window.BOLD.common.cacheParams || {};
+    window.BOLD.common.cacheParams.options = 1577451032;
+</script><link href="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/bold-options.css?13853" rel="stylesheet" type="text/css" media="all">
+<script src="https://option.boldapps.net/js/options.js" type="text/javascript"></script>
+<script src="https://ro.boldapps.net/v2_ui/js/ro.js" type="text/javascript"></script>
+
+<script>
+  var BOLD = BOLD || {};
+  BOLD.recurring_orders = BOLD.recurring_orders || {};
+  if(typeof BOLD.recurring_orders.setSettings !== 'undefined') {
+      BOLD.recurring_orders.setSettings({
+        loadingEnabled: true
+      },true);
+   } else {
+     BOLD.recurring_orders.settings = {
+       loadingEnabled: true
+     };
+   }
+  BOLD.recurring_orders.modes = {
+    current_mode:2,
+    recurring_cart:0,
+    single_product:1,
+    mixed_cart:2
+  };
+  BOLD.customer = BOLD.customer || {};
+  BOLD.customer.id = null || '';
+  BOLD.customer.email= null || '';
+  BOLD.customer.address1= null || '';
+  BOLD.customer.address = null || '';
+  BOLD.customer.city = null || '';
+  BOLD.customer.company = null || '';
+  BOLD.customer.country = null || '';
+  BOLD.customer.first_name = null || '';
+  BOLD.customer.last_name = null || '';
+  BOLD.customer.phone = null || '';
+  BOLD.customer.province = null || '';
+  BOLD.customer.zip = null || '';
+  BOLD.customer.tags = null || '';
+  
+  
+  window.mixed_cart = null;
+</script>
+
+<script src="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/bold-helper-functions.js?13853" type="text/javascript"></script>
+
+    <!-- <link href="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/style.scss.css?13853" rel="stylesheet" type="text/css" media="all" /> -->
+    <link href="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/main.scss.css?13853" rel="stylesheet" type="text/css" media="all"> 
+  <link href="//cdn.shopify.com/s/global/social/social-icons.css" rel="stylesheet" type="text/css" media="all">
+
+    <!--[if lt IE 9]>
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+  <![endif]-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" integrity="sha256-spTpc4lvj4dOkKjrGokIrHkJgNA0xMS98Pw9N7ir9oI= sha384-/Gm+ur33q/W+9ANGYwB2Q4V0ZWApToOzRuA8md/1p9xMMxpqnlguMvk8QuEFWA1B sha512-h9kKZlwV1xrIcr2LwAPZhjlkx+x62mNwuQK5PAu9d3D+JXMNlGx8akZbqpXvp0vA54rz+DrqYVrzUGDMhwKmwQ==" crossorigin="anonymous"></script>
+    <script src="//cdn.shopify.com/s/assets/themes_support/shopify_common-8ea6ac3faf357236a97f5de749df4da6e8436ca107bc3a4ee805cbf08bc47392.js" type="text/javascript"></script> 
+
+    <!-- Additional Shopify helpers that will likely be added to the global shopify_common.js some day soon. -->
+
+<script src="//cdn.shopify.com/s/assets/themes_support/option_selection-fe6b72c2bbdd3369ac0bfefe8648e3c889efca213baefd4cfb0dd9363563831f.js" type="text/javascript"></script>
+
+<link rel="preconnect" href="//pcapredict.com">
+<script>(function(n,t,i,r){var u,f;n[i]=n[i]||{},n[i].initial={accountCode:"JUNOW11113",host:"JUNOW11113.pcapredict.com"},n[i].on=n[i].on||function(){(n[i].onq=n[i].onq||[]).push(arguments)},u=t.createElement("script"),u.async=!0,u.src=r,f=t.getElementsByTagName("script")[0],f.parentNode.insertBefore(u,f)})(window,document,"pca","//JUNOW11113.pcapredict.com/js/sensor.js")</script>
+
+<script>
+pca.on("load", function(type, id, control) {
+control.listen("populate",
+function(address) {
+addAddressToLocalStorage();
+getAvailableDate(encodeURI(document.getElementById('recipient_address_zip').value));
+setTimeout(function(){ calculateShippingMethods(); }, 750);
+});
+ var isChrome = !!window.chrome;
+    if (isChrome == true){
+        for (i=0; control.fields.length > i; i++){
+            document.getElementById(control.fields[i].element).autocomplete = "PCATEST";
+        };
+    };
+});
+
+</script>
+
+
+
+
+
+
+   
+   
+<link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/bdf08002-e52a-4e61-9793-1b3f934ad5ec.css">
+
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/apple-touch-icon.png?13853">
+<link rel="icon" type="image/png" sizes="32x32" href="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/favicon-32x32.png?13853">
+<link rel="icon" type="image/png" sizes="16x16" href="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/favicon-16x16.png?13853">
+<link rel="manifest" href="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/site.webmanifest?13853">
+<link rel="mask-icon" href="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/safari-pinned-tab.svg?13853" color="#2f4552">
+<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/favicon.ico?13853">
+<meta name="msapplication-TileColor" content="#2f4552">
+<meta name="msapplication-config" content="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/browserconfig.xml?13853">
+<meta name="theme-color" content="#2f4552">
+
+
+<script>document.documentElement.classList.add('js')</script><!-- TrustBox script -->
+<script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async=""></script>
+<!-- End TrustBox script -->
+
+<script src="https://cdn.tiny.cloud/1/fvekmhgg6jt0jx4u7j8u3snte9aoqrb1k4z8dpud77zmx8g7/tinymce/5/tinymce.min.js"></script> 
+
+
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	<!-- Copy Right by Frehhshopify -->
+	if ( 'undefined' == (typeof FHSPROD) ) {
+	    var FHSPROD = {};
+	}
+	if ('undefined' == (typeof FHSPROD.labelme)) {
+	    FHSPROD.labelme = {};
+	}
+	FHSPROD.labelme.server_date = '12/29/2019';
+
+
+  	FHSPROD.labelme.pg = 'collection';   
+
+
+  	if('undefined' == (typeof FHSPROD.labelme.product_list))
+  		FHSPROD.labelme.product_list = [];
+  
+
+   FHSPROD.labelme.product_main = null;
+
+  
+</script></head><body id="privacy-policy-arena-flowers" class="template-page disableFileUpload">
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MNQ5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  
+<div id="wrapper">
+    <div id="offCanvasWrapper">
+      
+        <div id="shopify-section-top-links" class="shopify-section"><div id="mastHeadTop">
+	<div class="wrapper">
+	    <div class="row">
+            <div class="col-wide-4 text-left">
+                
+                <p>The uk’s #1 rated ethical florist</p>
+                
             </div>
-            <div class="col-md-4 hidden-sm hidden-xs">
-                <a class="picture-link" href="/flowers/price/less-than-30-pounds">
-                    <img alt="Less Than £30" src="//d2bzfgi7sjutmd.cloudfront.net/ftp_assets/2/151117183957/Image/arenaflowers.com/nav/by-occasion/less-30.jpg">
-                    <div class="product-details">
-                        <div class="brand-name">
-                            Less Than £30
-                        </div>
-                        <div class="prices">
-                            From: £19.99
-                        </div>
-                    </div>
-                </a>
+            <div class="col-wide-4 text-center">
+                
+                <p>order before 9pm for next day delivery</p>
+                
             </div>
-            <div class="col-md-4 hidden-sm hidden-xs">
-                <a class="picture-link" href="/flowers/price/more-than-50-pounds">
-                    <img alt="Luxury Flowers" src="//d2bzfgi7sjutmd.cloudfront.net/ftp_assets/2/151117183957/Image/arenaflowers.com/nav/by-occasion/luxury.jpg">
-                    <div class="product-details">
-                        <div class="brand-name">
-                            Luxury Flowers
-                        </div>
-                        <div class="prices">
-                            From: £54.98
-                        </div>
-                    </div>
-                </a>
+            <div class="col-wide-4 text-right">
+                <ul>
+                    <li><a href="https://www.arenaflowers.com/pages/contact-us">Contact Us</a></li>
+					 
+						<li><a href="/account/login" id="customer_login_link">Login</a> / <a href="/account/register" id="customer_register_link">Register</a></li> 
+					
+		        </ul>	
             </div>
-        </div>
-    </li>
-    <li class="dropdown-full">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Occasion</a>
-        <div class="dropdown-menu no-padding row">
-            <div class="col-md-4">
-                <div class="af-header__menu--header hidden-sm hidden-xs">
-                    Occasion
-                </div>
-                <ul class="af-header__menu--links">
-                    <li>
-                        <a href="/flowers/mothers-day-flowers"><strong> Mother's Day Flowers</strong></a>
-                    </li>
-                    <li>
-                        <a href="/flowers/spring-flowers"> Spring Flowers</a>
-                    </li>                    
-                    <li>
-                        <a href="/flowers/price/special-offers"> Gift Sets</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/occasion/birthday"> Birthday</a>
-                    </li>
-                    <li>
-                        <a href="/funerals"> Sympathy &amp; Funerals</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/occasion/new-baby"> New Baby</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/occasion/anniversary"> Anniversary &amp; Engagements</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/occasion/romantic"> Romantic</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/occasion/get-well-soon"> Get Well Soon</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/occasion/thank-you"> Thank You</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/occasion/congratulations"> Congratulations</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/occasion/apology"> I'm Sorry / Apology</a>
-                    </li>
-                    <li>
-                        <a href="/weddings"> Weddings</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-md-4 hidden-sm hidden-xs">
-                <a class="picture-link" href="/flowers/mothers-day-flowers">
-                    <img alt="Mother's Day Flowers" src="//d2bzfgi7sjutmd.cloudfront.net/ftp_assets/2/060319140923/Image/arenaflowers.com/nav/mother-19.jpg">
-                    <div class="product-details">
-                        <div class="brand-name">
-                           Mother's Day Flowers
-                        </div>
-                        <div class="prices">
-                            From: £27.98
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-4 hidden-sm hidden-xs">
-                <a class="picture-link" href="/flowers/spring-flowers">
-                    <img alt="Spring Flowers" src="//d2bzfgi7sjutmd.cloudfront.net/ftp_assets/2/180119164146/Image/arenaflowers.com/nav/spring19.jpg">
-                    <div class="product-details">
-                        <div class="brand-name">
-                           Spring Flowers
-                        </div>
-                        <div class="prices">
-                            From: £31.99
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </li>
-    <li class="dropdown-full">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Variety</a>
-        <div class="dropdown-menu no-padding row">
-            <div class="col-md-4">
-                <div class="af-header__menu--header hidden-sm hidden-xs">
-                    Variety
-                </div>
-                <ul class="af-header__menu--links">
-                    <li>
-                        <a href="/flowers/fairtrade"> Fairtrade</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/british-flowers"> British Flowers</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/variety/roses"> Roses</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/variety/lilies"> Lilies</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/variety/carnations"> Carnations</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/variety/chrysanthemums"> Chrysanthemums</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/variety/freesias"> Freesias</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/variety/gerberas"> Gerberas</a>
-                    </li>
-                    <li>
-                        <a href="/one-of-a-kind"> One Of A Kind Collection</a>
-                    </li>
-                    <li>
-                        <a href="/pet-friendly"> Pet Friendly</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-md-4 hidden-sm hidden-xs">
-                <a class="picture-link" href="/flowers/fairtrade">
-                    <img alt="Fairtrade flowers" src="//d2bzfgi7sjutmd.cloudfront.net/ftp_assets/2/151117183957/Image/arenaflowers.com/nav/by-occasion/fairtrade.jpg">
-                    <div class="product-details">
-                        <div class="brand-name">
-                            Fairtrade Flowers
-                        </div>
-                        <div class="prices">
-                            From: £29.99
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-4 hidden-sm hidden-xs">
-                <a class="picture-link" href="/flowers/variety/roses">
-                    <img alt="Roses" src="//d2bzfgi7sjutmd.cloudfront.net/ftp_assets/2/161117124930/Image/arenaflowers.com/nav/by-occasion/roses.jpg">
-                    <div class="product-details">
-                        <div class="brand-name">
-                            Roses
-
-                        </div>
-                        <div class="prices">
-                            From: £21.99
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </li>
-    <li class="dropdown-full">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="#"> Colour</a>
-        <div class="dropdown-menu no-padding row">
-            <div class="col-md-4">
-                <div class="af-header__menu--header hidden-sm hidden-xs">
-                    Colour
-                </div>
-                <ul class="af-header__menu--links">
-                    <li>
-                        <a href="/flowers/colour/white"> White</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/colour/blue"> Blue</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/colour/pink"> Pink</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/colour/purple"> Purple</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/colour/red"> Red</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/colour/yellow"> Yellow</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/colour/orange"> Orange</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/colour/mixed"> Mixed Colours</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-md-4 hidden-sm hidden-xs">
-                <a class="picture-link" href="/flowers/colour/red">
-                    <img alt="Red Flowers" src="//d2bzfgi7sjutmd.cloudfront.net/ftp_assets/2/161117124930/Image/arenaflowers.com/nav/by-occasion/red.jpg">
-                    <div class="product-details">
-                        <div class="brand-name">
-                            Red Flowers
-                        </div>
-                        <div class="prices">
-                            From: £19.98
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-4 hidden-sm hidden-xs">
-                <a class="picture-link" href="/flowers/colour/white">
-                    <img alt="White Flowers" src="//d2bzfgi7sjutmd.cloudfront.net/ftp_assets/2/161117124930/Image/arenaflowers.com/nav/by-occasion/white.jpg">
-                    <div class="product-details">
-                        <div class="brand-name">
-                            White Flowers
-                        </div>
-                        <div class="prices">
-                            From: £19.98
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </li>
-    <li class="dropdown-full">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="/delivery"> UK</a>
-        <div class="dropdown-menu no-padding row">
-            <div class="col-md-12">
-                <div class="af-header__menu--header">
-                    <span class="hidden-sm hidden-xs">UK</span>
-                    <div class="row">
-                        <div class="col-md-3">
-                            <div class="af-header__menu--location">
-                                Cities
-                            </div>
-                            <ul class="af-header__menu--links sub-links">
-                                <li>
-                                    <a href="/delivery/london"> London</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/glasgow"> Glasgow</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/birmingham"> Birmingham</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/manchester"> Manchester</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/liverpool"> Liverpool</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/bristol"> Bristol</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/leeds"> Leeds</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/nottingham"> Nottingham</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/edinburgh"> Edinburgh</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/sheffield"> Sheffield</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="af-header__menu--location">
-                                Cities
-                            </div>
-                            <ul class="af-header__menu--links sub-links">
-                                <li>
-                                    <a href="/delivery/poole"> Poole</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/basingstoke"> Basingstoke</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/lincoln"> Lincoln</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/watford"> Watford</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/chesterfield"> Chesterfield</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/taunton"> Taunton</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/eastbourne"> Eastbourne</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/milton-keynes"> Milton Keynes</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/wakefield"> Wakefield</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/maidstone"> Maidstone</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="af-header__menu--location">
-                                Counties
-                            </div>
-                            <ul class="af-header__menu--links sub-links">
-                                <li>
-                                    <a href="/delivery/buckinghamshire"> Buckinghamshire</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/surrey"> Surrey</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/kent"> Kent</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/staffordshire"> Staffordshire</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/middlesbrough"> Middlesbrough</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/bedfordshire"> Bedfordshire</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/cheshire"> Cheshire</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/lancashire"> Lancashire</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/suffolk"> Suffolk</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/oxfordshire"> Oxfordshire</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="af-header__menu--location">
-                                UK Countries
-                            </div>
-                            <ul class="af-header__menu--links sub-links">
-                                <li>
-                                    <a href="/delivery"> England</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/scotland"> Scotland</a>
-                                </li>
-                                <li>
-                                    <a href="/delivery/wales"> Wales</a>
-                                </li>
-                            </ul>
-                            <ul class="af-header__menu--links sub-links">
-                                <li class="padding-top">
-                                    <a class="af-header__menu--link-all" href="/delivery"> View all UK Places</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li class="dropdown-full">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="/international"> International</a>
-        <div class="dropdown-menu no-padding row">
-            <div class="col-md-12">
-                <div class="af-header__menu--header">
-                    <span class="hidden-sm hidden-xs">International</span>
-                    <div class="row">
-                        <div class="col-md-3">
-                            <div class="af-header__menu--location">
-                                Europe
-                            </div>
-                            <ul class="af-header__menu--links sub-links">
-                                <li>
-                                    <a href="/international/france"> France</a>
-                                </li>
-                                <li>
-                                    <a href="/international/netherlands"> Holland</a>
-                                </li>
-                                <li>
-                                    <a href="/international/germany"> Germany</a>
-                                </li>
-                                <li>
-                                    <a href="/international/belgium"> Belgium</a>
-                                </li>
-                                <li>
-                                    <a href="/international/spain"> Spain</a>
-                                </li>
-                                <li>
-                                    <a href="/international/ireland"> Ireland</a>
-                                </li>
-                                <li>
-                                    <a href="/international/italy"> Italy</a>
-                                </li>
-                                <li>
-                                    <a href="/international/poland"> Poland</a>
-                                </li>
-                                <li>
-                                    <a href="/international/switzerland"> Switzerland</a>
-                                </li>
-                                <li>
-                                    <a href="/international/austria"> Austria</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="af-header__menu--location">
-                                Americas
-                            </div>
-                            <ul class="af-header__menu--links sub-links">
-                                <li>
-                                    <a href="/international/united-states"> United States</a>
-                                </li>
-                                <li>
-                                    <a href="/international/canada"> Canada</a>
-                                </li>
-                                <li>
-                                    <a href="/international/brazil"> Brazil</a>
-                                </li>
-                                <li>
-                                    <a href="/international/colombia"> Colombia</a>
-                                </li>
-                                <li>
-                                    <a href="/international/argentina"> Argentina</a>
-                                </li>
-                                <li>
-                                    <a href="/international/puerto-rico"> Puerto Rico</a>
-                                </li>
-                                <li>
-                                    <a href="/international/mexico"> Mexico</a>
-                                </li>
-                                <li>
-                                    <a href="/international/jamaica"> Jamaica</a>
-                                </li>
-                                <li>
-                                    <a href="/international/trinidad"> Trinidad</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="af-header__menu--location">
-                                Asia &amp; Australasia
-                            </div>
-                            <ul class="af-header__menu--links sub-links">
-                                <li>
-                                    <a href="/international/india"> India</a>
-                                </li>
-                                <li>
-                                    <a href="/international/japan"> Japan</a>
-                                </li>
-                                <li>
-                                    <a href="/international/china"> China</a>
-                                </li>
-                                <li>
-                                    <a href="/international/indonesia"> Indonesia</a>
-                                </li>
-                                <li>
-                                    <a href="/international/brunei"> Brunei</a>
-                                </li>
-                                <li>
-                                    <a href="/international/pakistan"> Pakistan</a>
-                                </li>
-                                <li>
-                                    <a href="/international/australia"> Australia</a>
-                                </li>
-                                <li>
-                                    <a href="/international/new-zealand"> New Zealand</a>
-                                </li>
-                                <li>
-                                    <a href="/international/singapore"> Singapore</a>
-                                </li>
-                                <li>
-                                    <a href="/international/sri-lanka"> Sri Lanka</a>
-                                </li>
-                                <li>
-                                    <a href="/international/philippines"> Philippines</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="af-header__menu--location">
-                                Africa
-                            </div>
-                            <ul class="af-header__menu--links sub-links">
-                                <li>
-                                    <a href="/international/south-africa"> South Africa</a>
-                                </li>
-                                <li>
-                                    <a href="/international/kenya"> Kenya</a>
-                                </li>
-                                <li>
-                                    <a href="/international/egypt"> Egypt</a>
-                                </li>
-                                <li>
-                                    <a href="/international/zimbabwe"> Zimbabwe</a>
-                                </li>
-                            </ul>
-                            <ul class="af-header__menu--links sub-links">
-                                <li class="padding-top">
-                                    <a class="af-header__menu--link-all" href="/international">All International
-                                        Places</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li class="dropdown-full">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="/gifts"> Gifts</a>
-        <div class="dropdown-menu no-padding row">
-            <div class="col-md-4">
-                <div class="af-header__menu--header hidden-sm hidden-xs">
-                    Gifts
-                </div>
-                <ul class="af-header__menu--links">
-                    <li>
-                        <a href="/gifts/balloons"> All Balloons</a>
-                    </li>
-
-                    <li>
-                        <a href="/gifts/health-and-beauty"> All Health &amp; Beauty</a>
-                    </li>
-
-                    <li>
-                        <a href="/gifts/luxury-chocolates"> All Chocolates</a>
-                    </li>
-                    <li>
-                        <a href="/gifts/drinks"> All Drinks</a>
-                    </li>
-                    <li>
-                        <a href="/gifts/teddy-bears"> All Soft Toys</a>
-                    </li>
-                    <li>
-                        <a href="/gifts/vases"> Vases</a>
-                    </li>
-
-                    <li>
-                        <a href="/flowers/occasion/new-baby"> New Baby Gifts</a>
-                    </li>
-
-                    <li>
-                        <a href="/flowers/price/special-offers"> Gift Ideas</a>
-                    </li>
-                    <li>
-                        <a class="af-header__menu--link-all" href="/gifts"> View all Gifts</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-md-4 hidden-sm hidden-xs">
-                <a class="picture-link" href="/gifts">
-                    <img alt="Explore our wide selection of gift ideas" src="//d2bzfgi7sjutmd.cloudfront.net/asts/2/placeholder/gifts_1-eb5a5bd32d6ca3f046989a7dd71b93ba.jpg">
-                </a>
-            </div>
-            <div class="col-md-4 hidden-sm hidden-xs">
-                <a class="picture-link" href="/gifts/luxury-chocolates">
-                    <img alt="Luxury Chocolates" src="//d2bzfgi7sjutmd.cloudfront.net/ftp_assets/2/120118120612/Image/arenaflowers.com/nav/chocolate.jpg">
-                    <div class="product-details">
-                        <div class="brand-name">
-                            Luxury Chocolates
-                        </div>
-                        <div class="prices">
-                            From: £2.99
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </li>
-    <li class="dropdown-full">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="#"> Fun</a>
-        <div class="dropdown-menu no-padding row">
-            <div class="col-md-4">
-                <div class="af-header__menu--header hidden-sm hidden-xs">
-                    Fun
-                </div>
-                <ul class="af-header__menu--links">
-                    <li>
-                        <a href="/referral-programme"> Our Referral Program</a>
-                    </li>
-                    <li>
-                        <a href="/features"> Features</a>
-                    </li>
-                    <li>
-                        <a href="/features/videos"> Videos</a>
-                    </li>
-                    <li>
-                        <a href="/features/history-of-wine"> History of Wine</a>
-                    </li>
-                    <li>
-                        <a href="/arena-flowers#twitter"> Twitter</a>
-                    </li>
-                    <li>
-                        <a href="/features/bee-keeping"> Beekeeping Guide</a>
-                    </li>
-                    <li>
-                        <a href="/flowers/back-to-the-fuchsia"> Back To The Fuchsia</a>
-                    </li>
-                    <li>
-                        <a href="/the-blooming-general-election"> The Blooming General Election</a>
-                    </li>
-                    <li>
-                        <a href="/eu"> European Referendum</a>
-                    </li>
-                    <li>
-                        <a href="/emergency-flowers"> Emergency Flowers App</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-md-3 fun-padding hidden-sm hidden-xs">
-                <a class="fun-link features" href="https://www.arenaflowers.com/features"><span>Features</span></a><a class="fun-link referral" href="/referral-programme"><span>Our referral Program</span></a>
-            </div>
-            <div class="col-md-3 fun-padding hidden-sm hidden-xs">
-                <a class="fun-link videos" href="/features/videos/"><span>Videos</span></a><a class="fun-link twitter" href="/arena-flowers#twitter"><span>@arenaflowers on Twitter</span></a>
-            </div>
-            <div class="col-md-2 fun-padding hidden-sm hidden-xs">
-                <div class="fun-image" style="background-image: url('//d2bzfgi7sjutmd.cloudfront.net/asts/2/placeholder/fun-44013ff6109d89c59891704535cdd6a5.jpg')"></div>
-            </div>
-        </div>
-    </li>
-    <li class="dropdown-full">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="/weddings"> Weddings</a>
-        <div class="dropdown-menu no-padding row">
-            <div class="col-md-4">
-                <div class="af-header__menu--header hidden-sm hidden-xs">
-                    Weddings
-                </div>
-                <ul class="af-header__menu--links">
-                    <li>
-                        <a href="/weddings/bouquets"> Wedding &amp; Bridal Bouquets</a>
-                    </li>
-                    <li>
-                        <a href="/weddings/buttonholes"> Wedding Buttonholes</a>
-                    </li>
-                    <li>
-                        <a href="/weddings/corsages"> Wedding Corsages</a>
-                    </li>
-                    <li>
-                        <a class="af-header__menu--link-all" href="/weddings"> All Wedding Items</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-md-4 hidden-sm hidden-xs">
-                <a class="picture-link" href="/weddings">
-                    <img alt="Wedding flowers &amp; arrangements" src="//d2bzfgi7sjutmd.cloudfront.net/asts/2/placeholder/weddings_1-8958423e9cdc1ae17ae47cda215775b3.jpg">
-                </a>
-            </div>
-            <div class="col-md-4">
-                <div class="funeral-secondary-hero hidden-sm hidden-xs">
-                    <h3 class="title">
-                        Contact our dedicated customer care team
-                    </h3>
-                    <div class="contact-info">
-                        If you would like to speak to someone about your specific requirements for your wedding flowers,
-                        please call:
-                    </div>
-                    <div class="contact-telephone">
-                        0800 0350 581
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li class="dropdown-full">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="/funerals">Funerals</a>
-        <div class="dropdown-menu no-padding row">
-            <div class="col-md-4">
-                <div class="af-header__menu--header hidden-sm hidden-xs">
-                    Funerals
-                </div>
-                <ul class="af-header__menu--links">
-                    <li>
-                        <a href="/funerals/bespoke"> Bespoke Funeral Flowers</a>
-                    </li>
-                    <li>
-                        <a href="/funerals/wreaths"> Funeral Wreaths</a>
-                    </li>
-                    <li>
-                        <a href="/funerals/sprays"> Funeral Sprays</a>
-                    </li>
-                    <li>
-                        <a href="/funerals/posies"> Funeral Posies</a>
-                    </li>
-                    <li>
-                        <a href="/funerals/tributes"> Funeral Tributes</a>
-                    </li>
-                    <li>
-                        <a href="/funerals/sheafs"> Funeral Sheafs</a>
-                    </li>
-                    <li>
-                        <a class="af-header__menu--link-all" href="/funerals"> All Funeral Items</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-md-4 hidden-sm hidden-xs">
-                <a class="picture-link" href="/funerals">
-                    <img alt="Funeral flowers &amp; arrangements" src="//d2bzfgi7sjutmd.cloudfront.net/asts/2/placeholder/funerals_1-c850670c325b8d9f5b2e13a4a6a09994.jpg">
-                </a>
-            </div>
-            <div class="col-md-4 hidden-sm hidden-xs">
-                <a class="picture-link" href="/funerals/fleur-de-lys-funeral-posy"><img alt="Fleur de Lys Funeral Posy" src="//d2bzfgi7sjutmd.cloudfront.net/product_image/2/medium/8250-fleur-de-lys-funeral-posy-b3c679a631b7f93a614dcc8cd0a4d342.jpg">
-                    <div class="product-details">
-                        <div class="brand-name">
-                            Fleur de Lys Funeral Posy
-                        </div>
-                        <div class="prices">
-                            £37.99
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </li>
-</ul>
-<!-- end_content(Responsive perm_nav_tabs) --><ul class="nav navbar-nav navbar-right hidden-sm hidden-xs"><li class="search-list-item"><a href="" class="btn search-btn"><span class="sr-only">Search</span><i class="fa fa-search"></i></a></li><li><a class="btn btn-small basket-widget-summary-js btn-warning af-header__menu--button-basket" href="#/basket" title="Basket"><picture class="basket--icon"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="//d2bzfgi7sjutmd.cloudfront.net/asts/2/svg-icons/basket-880bdbc7c2d5b4a92ca676927533ee08.svg" type="image/svg+xml"><!--[if IE 9]></video><![endif]--><img alt="B" src="//d2bzfgi7sjutmd.cloudfront.net/asts/2/svg-icons/basketx1-7304456186a6a0409a7a2e7e57db2299.png" srcset="//d2bzfgi7sjutmd.cloudfront.net/asts/2/svg-icons/basketx2-b83607a823b781ea2b4dbd86a0fcb0fb.png 2x, //d2bzfgi7sjutmd.cloudfront.net/asts/2/svg-icons/basketx3-72fd6264683653a07581b2a95d8fd6f8.png 3x"></picture> <span class="basket-widget-summary-count-js"> 0</span></a></li></ul><div class="top-basket--container basket-js row basket-widget basket-widget-js" data-url-load="/basket_widget/basket_widget.json?layout=aqua" data-url-remove="/basket/remove_product/:id:" id="basket"><div class="container"><div class="col-md-8 basket--items"><ul class="basket--list"></ul></div><div class="col-md-4 basket--info"><div class="heading">Order Total</div><div class="total">£0.00</div><div class="blurb"><div class="vat">Total includes £0.00 VAT</div><div class="min-purchase">Minimum purchase is £19.99</div><div class="secure space-above"><i class="fa fa-lock"></i>100% Secure Checkout</div></div><div class="checkout"><a href="/basket" class="btn btn-warning">Checkout</a></div></div></div></div></div></nav><div class="row"><div class="bouquet-search-box col-xs-12"><form accept-charset="UTF-8" action="/products/search/new" class="search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div><div class="input-group"><input class="form-control" id="query" name="query" placeholder="Search for..." type="text" value=""><span class="input-group-btn"><button class="btn btn-default" type="submit"><i class="fa fa-search" style="margin-right: 0;"></i></button></span></div></form></div></div></div></div><div class="wrapper"><div class="container"><div class="contents"><div class="content"><!-- content("", id: 16259, page_id: 272, site: af[1]) --><div><h1>Arena Flowers Privacy Policy</h1>
-<p>
-    This privacy notice tells you about the information we collect from you when you use our
-    website www.arenaflowers.com. In collecting this information, we are acting as a data controller
-    and, by law, we are required to provide you with information about us, about why and how we use your
-    data, and about the rights you have over your data.
-</p>
-
-<p>
-    <strong>Who are we?</strong><br><br>
-    We are Arena Flowers (Arena Online Ltd). Our address is Arena Online Ltd, Flowers HQ, Unit 1a,
-    Concord Business Centre, Concord Road, London, W3 0TJ. You can contact us by post at the above
-    address, by email at privacy@arenaflowers.com or by telephone on 0800 0350 581.<br><br>
-    We are not required to have a data protection officer, so any enquiries about our use of your
-    personal data should be addressed to the contact details above.
-</p>
-
-<p>
-    <strong>How we use your information</strong>
-</p>
-<ul>
-    <li>When you use our website</li>
-    <li>When you submit an enquiry via our website</li>
-    <li>When you purchase a product from our website</li>
-    <li>When you sign up to receive our newsletter</li>
-    <li>When you download a sample document</li>
-    <li>When you submit a review about us</li>
-    <li>When you take part in our feedback survey</li>
-    <li>Your rights as a data subject</li>
-    <li>Your right to complain</li>
-    <li>Updates to this privacy policy</li>
-</ul>
-
-<p>
-    <strong>When you use our website</strong><br><br>
-    When you use our website to browse our products and services and view the information we make available,
-    a number of cookies are used by us and by third parties to allow the website to function, to collect useful information
-    about visitors and to help to make your user experience better. For more information about our use of cookies,
-    please see our cookie policy.
-</p>
-<p>
-    <strong>When you submit an enquiry via our website</strong><br><br>
-    When you submit an enquiry via our website, we ask you for your name, contact telephone number and email address.<br><br>
-    We use this information to respond to your query, including providing you with any requested information about our
-    products and services. We may also email you several times after your enquiry in order to follow up on your interest
-    and ensure that we have answered your it to your satisfaction. We will do this based on our legitimate interest in
-    providing accurate information prior to a sale.<br><br>Your enquiry is stored and processed as an email which is hosted
-    by Google within the European Economic Area (EEA). It is also logged on a CRM system on a cloud server based in Ireland,
-    a country which the EU says has adequate data protection laws in place to protect your data.<br><br>
-    We do not use the information you provide to make any automated decisions that might affect you.<br><br>
-    We keep enquiry emails for two years, after which they are securely archived and kept for seven years,
-    when we delete them. CRM records are kept for three years after the last contact with you.
-</p>
-
-<p>
-    <strong>When you purchase a product from our website</strong><br><br>
-    When you purchase products from us online, we ask you for your name, address, contact telephone number, email address
-    and credit card information. We also record your IP (Internet Protocol) address, which is the address of your computer
-    on the Internet.<br><br>We will use your information to verify your credit card details for your purchase, process your
-    order and to send you your products. We will also send you a receipt via email and we may use your telephone number
-    to contact you regarding your purchase.<br><br>We require this information in order to process your payment, deliver
-    your products or services and fulfil our contract with you. We record your IP address in order to show that the correct
-    tax was applied to the sale, which we are required to do by law.<br><br>Your information is stored on our website and on
-    our cloud server, both of which are based within the European Union. Your credit card details are passed to a third-party
-    payment processor which is based worldwide and is certified to PCI compliant. We do not retain your credit card information.<br><br>
-    We do not use the information you provide to make any automated decisions that might affect you.<br><br>We keep your order
-    information for an indefinite period, as the licenses we sell for our products do not expire.
-</p>
-
-<p>
-    <strong>When you sign up to receive our newsletter</strong><br><br>
-    When you sign up to receive our newsletter, we ask for your name and your email address.<br><br>We will ask for your consent
-    to use your name and email address to email you our newsletter which contains information about our products and other
-    information which we feel might be of interest to you.<br><br>You can withdraw your consent at any time and we will
-    stop sending you the newsletter.<br><br>We do not use the information you provide to make any automated decisions
-    that might affect you.<br><br>We keep your personal data for as long as we produce and distribute our newsletter. If
-    you withdraw your consent, we will mark your details so that they are not used and delete them after two years.
-</p>
-
-<p>
-    <strong>When you download a sample document</strong><br><br>
-    When you request to download a sample document, such as a white paper, we ask for your name, company name (which
-    is optional) and your email address.<br><br>We use this information to email you a link to download the requested
-    document. We may also email you after your download in order to follow up on your interest in our products and
-    services. We will do this based on our legitimate interest in marketing to prospects for our products and services.<br><br>
-    We do not use the information you provide to make any automated decisions that might affect you.<br><br>Your personal
-    data is stored for one year after you requested your download, after which it is deleted.
-</p>
-
-<p>
-    <strong>When you submit a review about us</strong><br><br>
-    When you submit a review about us we record your name, your email address and your IP (Internet Protocol) address,
-    which is the address of your computer on the Internet.<br><br>We use this information to provide verified independent
-    views about our products and services to potential customers. Your name and the content of your review (but not your
-    email address or IP address) may be publicly displayed on our website. We will do this based on our legitimate interest
-    in marketing our products and services.<br><br>Your details are shared with a third party reviews system which is based within
-    the European Economic Area (EEA).<br><br>We do not use the information you provide to make any automated decisions that might
-    affect you.<br><br>Your personal data is stored for as long as we are marketing the product or services that the review
-    refers to, after which it is deleted. You may ask us to remove your review at any time.
-</p>
-
-<p>
-    <strong>When you take part in our feedback survey</strong><br><br>
-    When you take part in our feedback survey, we record your name, your email address, your organisation name, your
-    job role and your answers to questions we ask about your opinion of, and use of, our products and services.<br><br>
-    We use this information to develop and improve our products and services and our customer relationships. Your job
-    role, organisation and some or all of your comments may be publicly displayed on our website as a testimonial.
-    We will do this based on our legitimate interest in marketing our products and services.<br><br>
-    Your details are shared with a third party surveys system which is based within the European Economic Area (EEA).<br><br>
-    We do not use the information you provide to make any automated decisions that might affect you.<br><br>Your personal
-    data is stored for two years, or for as long as we are marketing the product or services that the review refers to,
-    whichever is shorter. You may ask us to remove a testimonial that is based on your feedback from our website at any time.
-</p>
-
-<p>
-    <strong>Your rights as a data subject</strong><br><br>
-    By law, you can ask us what information we hold about you, and you can ask us to correct it if it is inaccurate.
-    If we have asked for your consent to process your personal data, you may withdraw that consent at any time.<br><br>
-    If we are processing your personal data for reasons of consent or to fulfil a contract, you can ask us to give
-    you a copy of the information in a machine-readable format so that you can transfer it to another provider.<br><br>
-    If we are processing your personal data for reasons of consent or legitimate interest, you can request that your
-    data be erased.<br><br>You have the right to ask us to stop using your information for a period of time if you believe
-    we are not doing so lawfully.<br><br>Finally, in some circumstances you can ask us not to reach decisions affecting
-    you using automated processing or profiling.<br><br>To submit a request regarding your personal data by email, post or
-    telephone, please use the contact information provided above in the Who Are We section of this policy.<br><br>
-</p>
-
-<p>
-    <strong>Your right to complain</strong><br><br>
-    If you have a complaint about our use of your information, we would prefer you to contact us directly in the first
-    instance so that we can address your complaint. However, you can also contact the Information Commissioner’s Office
-    via their website at <a href="www.ico.org.uk/concerns">www.ico.org.uk/concerns</a> or write to them.
-</p>
-
-<p>
-    <strong>Updates to this privacy policy</strong><br><br>
-    We regularly review and, if appropriate, update this privacy policy from time to time, and as our services and use
-    of personal data evolves. If we want to make use of your personal data in a way that we haven’t previously identified,
-    we will contact you to provide information about this and, if necessary, to ask for your consent.<br><br>
-    We will update the version number and date of this document each time it is changed.
-</p>
-
-<h3>Cookie Policy</h3>
-
-<p>
-    We use cookies on this website in a number of ways including the checkout process so the page remembers the product(s) you
-    have chosen. We also use cookies to help tailor your shopping experience to your needs whilst also making your visit to our
-    website more efficient. This is done by collecting certain pieces of personal data about you in a small data file known as
-    a cookie and stored on your computer / internet device. Please note that this is a very common practice with websites and
-    that a cookie cannot harm your computer in any way. The data we store does NOT contain transactional information such as
-    credit card details and is also encrypted.<br><br>
-    It is important to understand that you will not be able to order from our website if you do not accept the cookie we place
-    on your computer. To make sure you can accept cookies, you can check your browser settings.<br><br>
-    Arena Flowers considers the settings you have selected in your browser as your consent for us to issue you with cookies.
-    If however you decide you do not want to order from us and also want to turn off the ability to accept cookies you can
-    find details on how cookies are enabled on your browser by checking the help catergory of your browser. By doing this you
-    will still be able to browse our website and contact our customer service via email on customer@arenaflowers.com.<br><br>
-    For more information regarding cookies and how the affect you please visit this site:
-    <a href="http://www.youronlinechoices.com">http://www.youronlinechoices.com</a><br><br>
-    We may use third-party advertising companies to serve advertisements on our behalf.  These companies may employ cookies
-    and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that
-    these third parties collect via cookies and action tags is completely anonymous.  Your browser can be modified to not accept
-    cookies - guidance for which is provided in the paragraph above. <br><br>
-</p>
-<p>Thank you for visiting <span style="font-weight: bold; font-style: italic;">Arena Flowers</span>.</p>
-<h2 style="font-style: italic;">The Arena Flowers Team</h2>
-<table cellspacing="0" cellpadding="0" border="0" width="500">
-    <tbody>
-        <tr>
-            <td width="167">
-            <img src="//www.arenaflowers.com/files/Image/arenaflowers.com/misc/arenaflowers.com.png" alt="Arena Flowers - an experience delivered" width="200px" style="margin-bottom: 1em"></td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td><strong>An experience delivered</strong></td>
-        </tr>
-    </tbody>
-</table>
-<p><br>
-<a href="/privacy-policy"><span style="font-weight: bold;">Back to top</span></a></p></div><!-- end_content() --></div></div></div></div><div class="container"><!-- content("Responsive trust_right", id: 15575, page_id: , site: af[1]) --><div class="col-md-12">
-  <div class="social-rounded-box-footer">
-    <i class="fa fa-comments fa-2x"></i>
-    <div class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox">
-
-        <!-- Please do not edit above-->
-
-        <!-- Review 1 -->
-
-        <div class="item active">
-          <h3>Customer feedback</h3>
-          <div class="actual-quote">
-            <p>As usual, Awesome service and product and the delivery service is impeccable. Love using this company. A++++++ David M</p>
-            <small>Tuesday, 26 March 2019</small>
-            <br>
-            <a class="btn btn-grey" href="/reviews">Read More Customer Reviews <i class="fa fa-chevron-right"></i></a>
-          </div>
-        </div>
-
-        <!-- Review 2 -->
-
-        <div class="item">
-          <h3>Customer feedback</h3>
-          <div class="actual-quote">
-            <p>Nothing but fantastic service! Vincent M</p>
-            <small>Tuesday, 26 March 2019</small>
-            <br>
-          <a class="btn btn-grey" href="/reviews">Read More Customer Reviews <i class="fa fa-chevron-right"></i></a>
-          </div>
-        </div>
-
-        <!-- Review 3 -->
-
-        <div class="item">
-          <h3>Customer feedback</h3>
-          <div class="actual-quote">
-            <p>The flowers my mum received were terrific, many thanks! Jonathan W</p>
-            <small>Monday, 25 March 2019</small>
-            <br>
-            <a class="btn btn-grey" href="/reviews">Read More Customer Reviews <i class="fa fa-chevron-right"></i></a>
-          </div>
-        </div>
-
-        <!-- Please do not edit below -->
-
-      </div>
-    </div>
-  </div>
-</div><!-- end_content(Responsive trust_right) --></div><div class="page--footer af__footer"><div class="container"><!-- content("Responsive Footer", id: 15576, page_id: , site: af[1]) --><div><div class="news hidden-xs">
-  <div class="heading text-center">As featured in these publications</div>
-  <div class="new-logos"><img src="//d2bzfgi7sjutmd.cloudfront.net/ftp_assets/2/020617161826/Image/arenaflowers.com/footer/news-logos.png" alt="New Agents"></div>
+	    	
+	    </div>
+	</div>
 </div>
 
-<footer>
 
-  <div class="row visible-xs">
-    <div class="col-xs-12">
+</div>
+        <div id="shopify-section-header" class="shopify-section"><div data-section-id="header" data-section-type="header-section">
 
-      <ul class="footer-nav">
-        <li><a href="/flowers/price/less-than-30-pounds">Flowers Under £30</a></li>
-        <li><a href="/flowers/occasion/birthday">Birthday Flowers</a></li>
-        <li><a href="/flowers/price/special-offers">Special Offers</a></li>
-        <li><a href="/reviews">Customer Reviews</a></li>
-        <li><a href="/arena-flowers">About Us</a></li>
-        <li><a rel="nofollow" href="/terms-and-conditions">Terms &amp; Conditions</a></li>
-        <li><a rel="nofollow" href="/privacy-policy">Privacy Policy</a></li>
-        <li><a href="/flower-care">Flower Care Guide</a></li>
-        <li><a href="/flowers/valentines-day-flowers">Valentine's Day</a></li>
-        <li><a href="/flowers/mothers-day-flowers">Mother's Day</a></li>
-        <li><a href="/international">International</a></li>
 
-      </ul>
+    
+        <header id="mastHead">
+    
 
-      <hr class="hidden-xs">
+		<div class="wrapper">
+            <div class="content">	
+                <a href="#" id="menuToggle" class="hide-for-wide"><span class="lnr lnr-menu"></span></a>
+                 
+<div id="navigation">
+    <div id="navigationInner" class="nav-wrapper">
+        <nav id="navigationBar" class="nav-inner">
+            <ul class="nav-primary hide-for-wide">
+				 
+					<li class="level0 account"><a class="nav-level0" href="https://www.arenaflowers.com/account/login"><span class="lnr lnr-user"></span>Login</a> / <a href="https://www.arenaflowers.com/account/register">Register</a></li> 
+				
+                <li class="level0"><a class="nav-level0" href="https://www.arenaflowers.com/pages/contact-us"><span class="lnr lnr-telephone"></span>Contact Us</a></li>
+            </ul>
+            <ul id="nav-ul" class="nav-primary">
+                  
+
+
+
+
+
+
+
+
+                <li class="level0 price parent">
+                    <a href="#" class="nav-level0">Price</a>
+                    <span class="toggleMenu lnr lnr-chevron-down"></span>
+
+
+  
+                            
+                    <div class="nav-drop">
+                        
+                            <div class="submenu">
+                                <h6><a href="#" class="level1">Shop by Price</a></h6>
+                                <ul>
+                                    
+                                    
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/less-than-30" title="">Less than £30</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/30-40" title="">£30-40</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/40-50" title="">£40-50</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/luxury-flowers" title="">Luxury Flowers</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/pages/subscription-flowers" title="">Subscription Flowers</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/all-flowers" title="">All Flowers &amp; Plants</a>
+                                    </li>
+                                      
+
+                                
+                                                                    
+                                </ul>
+                                <ul>
+                                     
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/special-offers" title="">Special Offers</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/same-day" title="">Same Day Flower Delivery</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/florists-choice" title="">Florists Choice</a>
+                                    </li>
+                                       
+                                
+                                </ul>
+                            </div>
+                       
+
+
+                          
+  
+
+
+                                    
+
+
+
+</div>
+
+                                
+                </li>
+                   
+
+
+
+
+
+
+
+
+                <li class="level0 occasion parent">
+                    <a href="#" class="nav-level0">Occasion</a>
+                    <span class="toggleMenu lnr lnr-chevron-down"></span>
+
+
+  
+                            
+
+                            
+                            
+
+                                            
+                                            
+
+                                            
+                                            
+                                            
+                                            
+<div class="nav-drop has-banner">
+
+                            <div class="submenu">
+                                <h6><a href="#" class="level1">Shop by Occasion</a></h6>
+                                <ul>
+                                    
+                                    
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/winter-flowers" title="">Winter Flowers</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/gift-sets" title="">Gift Sets</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/birthday" title="">Birthday</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/sympathy-funerals" title="">Sympathy &amp; Funerals</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/new-baby" title="">New Baby</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/anniversary-engagements" title="">Anniversary &amp; Engagements</a>
+                                    </li>
+                                      
+
+                                
+                                                                    
+                                </ul>
+                                <ul>
+                                     
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/romantic" title="">Romantic</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/get-well-soon" title="">Get Well Soon</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/thank-you" title="">Thank You</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/congratulations" title="">Congratulations</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/im-sorry-apology" title="">I'm Sorry / Apology</a>
+                                    </li>
+                                       
+                                
+                                </ul>
+                            </div>
+                       
+
+
+                          
+  
+
+                            <div class="banner">
+                                <a href="/collections/all/">
+                                <img class="bannerImage" src="//cdn.shopify.com/s/files/1/0035/0332/5297/files/wall-flowers_379x300_crop_center.jpg?v=1545230414" alt=""> 
+                                </a>
+                            <div class="bannerOverlay">
+
+                            <div class="textBlock">
+                            
+                            
+
+
+
+
+
+
+
+                            <h6>Flowers &amp; Romance</h6>
+<p>a match made in heaven</p>
+<p><a href="/collections/all/">shop now</a></p>
+<p></p>
+                            </div>
+                            <span class="linkText">shop now</span>
+
+
+                            </div>
+
+                            </div>
+                            
+
+
+                                    
+
+
+
+</div>
+
+                                
+                </li>
+                   
+
+
+
+
+
+
+
+
+                <li class="level0 variety parent">
+                    <a href="#" class="nav-level0">Variety</a>
+                    <span class="toggleMenu lnr lnr-chevron-down"></span>
+
+
+  
+                            
+                    <div class="nav-drop">
+                        
+                            <div class="submenu">
+                                <h6><a href="#" class="level1">Shop by Variety</a></h6>
+                                <ul>
+                                    
+                                    
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/letterbox" title="">Letterbox Flowers</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/fairtrade" title="">Fairtrade</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/pet-friendly" title="">Pet Friendly Flowers</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/hypoallergenic-flowers" title="">Hypoallergenic</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/plants" title="">Plants</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/roses" title="">Roses</a>
+                                    </li>
+                                      
+
+                                
+                                                                    
+                                </ul>
+                                <ul>
+                                     
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/lilies" title="">Lilies</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/carnations" title="">Carnations</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/chrysanthemums" title="">Chrysanthemums</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/freesias" title="">Freesias</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/gerberas" title="">Gerberas</a>
+                                    </li>
+                                       
+                                
+                                </ul>
+                            </div>
+                       
+
+
+                          
+  
+
+
+                                    
+
+
+
+</div>
+
+                                
+                </li>
+                   
+
+
+
+
+
+
+
+
+                <li class="level0 colour parent rightSide">
+                    <a href="#" class="nav-level0">Colour</a>
+                    <span class="toggleMenu lnr lnr-chevron-down"></span>
+
+
+  
+                            
+                    <div class="nav-drop">
+                        
+                            <div class="submenu">
+                                <h6><a href="#" class="level1">Shop by Colour</a></h6>
+                                <ul>
+                                    
+                                    
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/white" title="">White</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/blue" title="">Blue</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/pink" title="">Pink</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/purple" title="">Purple</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/red" title="">Red</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/orange" title="">Orange</a>
+                                    </li>
+                                      
+
+                                
+                                                                    
+                                </ul>
+                                <ul>
+                                     
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/mixed-colours" title="">Mixed Colours</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/yellow" title="">Yellow</a>
+                                    </li>
+                                       
+                                
+                                </ul>
+                            </div>
+                       
+
+
+                          
+  
+
+
+                                    
+
+
+
+</div>
+
+                                
+                </li>
+                   
+
+
+
+
+
+
+
+
+                <li class="level0 gifts parent rightSide">
+                    <a href="/collections/gifts" class="nav-level0">Gifts</a>
+                    <span class="toggleMenu lnr lnr-chevron-down"></span>
+
+
+  
+                            
+                    <div class="nav-drop">
+                        
+                            <div class="submenu">
+                                <h6><a href="/collections/gifts" class="level1">Shop by Gifts</a></h6>
+                                <ul>
+                                    
+                                    
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/gift-sets" title="">Gift Sets</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/chocolates" title="">Chocolates</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/drinks" title="">Drinks</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/vases" title="">Vases</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/gifts" title="">All Gifts</a>
+                                    </li>
+                                       
+                                
+                                </ul>
+                            </div>
+                       
+
+
+                          
+  
+
+
+                                    
+
+
+
+</div>
+
+                                
+                </li>
+                   
+
+
+
+
+
+
+
+
+                <li class="level0 subscriptions parent rightSide">
+                    <a href="/pages/subscription-flowers" class="nav-level0">Subscriptions</a>
+                    <span class="toggleMenu lnr lnr-chevron-down"></span>
+
+
+  
+                            
+                    <div class="nav-drop">
+                        
+                            <div class="submenu">
+                                <h6><a href="/pages/subscription-flowers" class="level1">Shop by Subscriptions</a></h6>
+                                <ul>
+                                    
+                                    
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/weekly-subscriptions" title="">Weekly Subscriptions</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/collections/monthly-subscriptions" title="">Monthly Subscriptions</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/pages/subscription-flowers" title="">All Subscriptions</a>
+                                    </li>
+                                       
+                                
+                                    
+                                    
+                                    <li class="level1">
+                                        <a href="/pages/subscription-flowers-faqs" title="">Subscriptions FAQs</a>
+                                    </li>
+                                       
+                                
+                                </ul>
+                            </div>
+                       
+
+
+                          
+  
+
+
+                                    
+
+
+
+</div>
+
+                                
+                </li>
+                  
+            </ul>
+        </nav>
     </div>
-  </div>
+</div>	
+                
+                    <a href="/" id="logo" itemprop="url" class="logo">
+                        <img src="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/logo.png?13853" alt="Arena Flowers">
+                    </a> 
+                
+                <div class="block-right">
+                    <a href="#" id="searchToggle" class="search-trigger"><span>Search</span></a> 
+                    <div class="miniCart">
+                        <a href="https://www.arenaflowers.com/cart" id="basketToggle"><span class="txt">Bag</span><span id="CartCount">0</span> </a>
+                        <div id="cart-container">
+                            <div id="CartContainer"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="search-container">
+                <div class="wrapper">
+                    <meta itemprop="url" content="https://www.arenaflowers.com">
+                    <form action="/search" method="get" class="search-form" role="search" itemprop="potentialAction" itemscope="" itemtype="https://schema.org/SearchAction">
+                        <meta itemprop="target" content="https://www.arenaflowers.com/search?q={q}">
+                        <input name="q" type="search" itemprop="query-input" id="search-field" placeholder="Search Arena Flowers" value="">
+                        <input type="hidden" name="type" value="product">
+                        <button type="submit" id="search-submit">Search</button>
+                    </form>
+                </div>
+            </div>
+		</div>
+  	</header>
+</div>
+</div>
+        
+        <main class="main-content" id="MainContent">
+            
+            <div class="cms-page">
+	<div class="wrapper">
+		<div class="page-title">
+				<h1>Privacy Policy</h1>
+		</div>
+		<div class="cms-content">
+			<p>This privacy notice tells you about the information we collect from you when you use our website www.arenaflowers.com. In collecting this information, we are acting as a data controller and, by law, we are required to provide you with information about us, about why and how we use your data, and about the rights you have over your data.</p>
+<h4>Who are we?</h4>
+<p>We are Arena Flowers (Arena Online Ltd). Our address is Arena Online Ltd, Flowers HQ, Unit 1a, Concord Business Centre, Concord Road, London, W3 0TJ. You can contact us by post at the above address, by email at privacy@arenaflowers.com or by telephone on 0800 0350 581.<br> We are not required to have a data protection officer, so any enquiries about our use of your personal data should be addressed to the contact details above.</p>
+<h4>How we use your information</h4>
+<ul>
+<li>When you use our website</li>
+<li>When you submit an enquiry via our website</li>
+<li>When you purchase a product from our website</li>
+<li>When you sign up to receive our newsletter</li>
+<li>When you download a sample document</li>
+<li>When you submit a review about us</li>
+<li>When you take part in our feedback survey</li>
+<li>Your rights as a data subject</li>
+<li>Your right to complain</li>
+<li>Updates to this privacy policy</li>
+</ul>
+<h4>When you use our website</h4>
+<p>When you use our website to browse our products and services and view the information we make available, a number of cookies are used by us and by third parties to allow the website to function, to collect useful information about visitors and to help to make your user experience better. For more information about our use of cookies, please see our cookie policy.</p>
+<h4>When you submit an enquiry via our website</h4>
+<p>When you submit an enquiry via our website, we ask you for your name, contact telephone number and email address.<br> We use this information to respond to your query, including providing you with any requested information about our products and services. We may also email you several times after your enquiry in order to follow up on your interest and ensure that we have answered your it to your satisfaction. We will do this based on our legitimate interest in providing accurate information prior to a sale.<br>Your enquiry is stored and processed as an email which is hosted by Google within the European Economic Area (EEA). It is also logged on a CRM system on a cloud server based in Ireland, a country which the EU says has adequate data protection laws in place to protect your data.<br> We do not use the information you provide to make any automated decisions that might affect you.<br> We keep enquiry emails for two years, after which they are securely archived and kept for seven years, when we delete them. CRM records are kept for three years after the last contact with you.</p>
+<h4>When you purchase a product from our website</h4>
+<p>When you purchase products from us online, we ask you for your name, address, contact telephone number, email address and credit card information. We also record your IP (Internet Protocol) address, which is the address of your computer on the Internet.<br>We will use your information to verify your credit card details for your purchase, process your order and to send you your products. We will also send you a receipt via email and we may use your telephone number to contact you regarding your purchase.<br>We require this information in order to process your payment, deliver your products or services and fulfil our contract with you. We record your IP address in order to show that the correct tax was applied to the sale, which we are required to do by law.<br>Your information is stored on our website and on our cloud server, both of which are based within the European Union. Your credit card details are passed to a third-party payment processor which is based worldwide and is certified to PCI compliant. We do not retain your credit card information.<br> We do not use the information you provide to make any automated decisions that might affect you.<br>We keep your order information for an indefinite period, as the licenses we sell for our products do not expire.</p>
+<h4>When you sign up to receive our newsletter</h4>
+<p>When you sign up to receive our newsletter, we ask for your name and your email address.<br>We will ask for your consent to use your name and email address to email you our newsletter which contains information about our products and other information which we feel might be of interest to you.<br>You can withdraw your consent at any time and we will stop sending you the newsletter.<br>We do not use the information you provide to make any automated decisions that might affect you.<br>We keep your personal data for as long as we produce and distribute our newsletter. If you withdraw your consent, we will mark your details so that they are not used and delete them after two years.</p>
+<h4>When you download a sample document</h4>
+<p>When you request to download a sample document, such as a white paper, we ask for your name, company name (which is optional) and your email address.<br>We use this information to email you a link to download the requested document. We may also email you after your download in order to follow up on your interest in our products and services. We will do this based on our legitimate interest in marketing to prospects for our products and services.<br> We do not use the information you provide to make any automated decisions that might affect you.<br>Your personal data is stored for one year after you requested your download, after which it is deleted.</p>
+<h4>When you submit a review about us</h4>
+<p>When you submit a review about us we record your name, your email address and your IP (Internet Protocol) address, which is the address of your computer on the Internet.<br>We use this information to provide verified independent views about our products and services to potential customers. Your name and the content of your review (but not your email address or IP address) may be publicly displayed on our website. We will do this based on our legitimate interest in marketing our products and services.<br>Your details are shared with a third party reviews system which is based within the European Economic Area (EEA).<br>We do not use the information you provide to make any automated decisions that might affect you.<br>Your personal data is stored for as long as we are marketing the product or services that the review refers to, after which it is deleted. You may ask us to remove your review at any time.</p>
+<h4>When you take part in our feedback survey</h4>
+<p>When you take part in our feedback survey, we record your name, your email address, your organisation name, your job role and your answers to questions we ask about your opinion of, and use of, our products and services.<br> We use this information to develop and improve our products and services and our customer relationships. Your job role, organisation and some or all of your comments may be publicly displayed on our website as a testimonial. We will do this based on our legitimate interest in marketing our products and services.<br> Your details are shared with a third party surveys system which is based within the European Economic Area (EEA).<br> We do not use the information you provide to make any automated decisions that might affect you.<br>Your personal data is stored for two years, or for as long as we are marketing the product or services that the review refers to, whichever is shorter. You may ask us to remove a testimonial that is based on your feedback from our website at any time.</p>
+<h4>Your rights as a data subject</h4>
+<p>By law, you can ask us what information we hold about you, and you can ask us to correct it if it is inaccurate. If we have asked for your consent to process your personal data, you may withdraw that consent at any time.<br> If we are processing your personal data for reasons of consent or to fulfil a contract, you can ask us to give you a copy of the information in a machine-readable format so that you can transfer it to another provider.<br> If we are processing your personal data for reasons of consent or legitimate interest, you can request that your data be erased.<br>You have the right to ask us to stop using your information for a period of time if you believe we are not doing so lawfully.<br>Finally, in some circumstances you can ask us not to reach decisions affecting you using automated processing or profiling.<br>To submit a request regarding your personal data by email, post or telephone, please use the contact information provided above in the Who Are We section of this policy.</p>
+<h4>Your right to complain</h4>
+<p>If you have a complaint about our use of your information, we would prefer you to contact us directly in the first instance so that we can address your complaint. However, you can also contact the Information Commissioner’s Office via their website at <a href="http://www.ico.org.uk/concerns" target="_blank" rel="noopener noreferrer">www.ico.org.uk/concerns</a> or write to them.</p>
+<h4>Updates to this privacy policy</h4>
+<p>We regularly review and, if appropriate, update this privacy policy from time to time, and as our services and use of personal data evolves. If we want to make use of your personal data in a way that we haven’t previously identified, we will contact you to provide information about this and, if necessary, to ask for your consent.<br> We will update the version number and date of this document each time it is changed.</p>
+<h3>Cookie Policy</h3>
+<p>We use cookies on this website in a number of ways including the checkout process so the page remembers the product(s) you have chosen. We also use cookies to help tailor your shopping experience to your needs whilst also making your visit to our website more efficient. This is done by collecting certain pieces of personal data about you in a small data file known as a cookie and stored on your computer / internet device. Please note that this is a very common practice with websites and that a cookie cannot harm your computer in any way. The data we store does NOT contain transactional information such as credit card details and is also encrypted.<br> It is important to understand that you will not be able to order from our website if you do not accept the cookie we place on your computer. To make sure you can accept cookies, you can check your browser settings.<br> Arena Flowers considers the settings you have selected in your browser as your consent for us to issue you with cookies. If however you decide you do not want to order from us and also want to turn off the ability to accept cookies you can find details on how cookies are enabled on your browser by checking the help catergory of your browser. By doing this you will still be able to browse our website and contact our customer service via email on <a href="mailto:customer@arenaflowers.com">customer@arenaflowers.com</a>.<br> For more information regarding cookies and how the affect you please visit this site: <a href="http://www.youronlinechoices.com">http://www.youronlinechoices.com</a><br> We may use third-party advertising companies to serve advertisements on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. Your browser can be modified to not accept cookies - guidance for which is provided in the paragraph above.</p>
+<p>Thank you for visiting Arena Flowers.</p>
+		</div>
+	</div>
+</div>
+        </main>
+            
+        <div id="shopify-section-logo-bar" class="shopify-section">
 
-  <div class="row credits hidden-xs">
-    <div class="col-md-12 col-lg-7">
-      <div class="col-sm-3 col-md-3">
 
-        <ul class="footer-nav">
-          <li><a href="/flowers/winter-flowers">Winter</a></li>
-          <li><a href="/flowers/spring-flowers">Spring</a></li>
-          <li><a href="/flowers/summer-flowers">Summer</a></li>
-          <li><a href="/flowers/autumn-flowers">Autumn</a></li>
-          <li><a href="/flowers/christmas-flowers">Christmas</a></li>
-          <li><a href="/international">International</a></li>
-          <li><a href="/flowers/fairtrade">Fairtrade Flowers</a></li>
-          <li><a href="/flowers/same-day-flowers">Same Day</a></li>
-        </ul>
 
-      </div>
 
-      <div class="col-sm-3 col-md-3">
+</div>
+        <div id="shopify-section-footer-sticky" class="shopify-section">
+<div class="footer-top">
+	<div class="wrapper">
+		<div class="row">
+			<div class="col-wide-3 col-medium-6 text-center">
+				<a href="/collections/fairtrade/"><span class="lnr lnr-medal-first"></span>The UK’s #1 rated ethical florist</a>
+			</div>
+			<div class="col-wide-3 col-medium-6 text-center">
+				<a href="/pages/about-us/"><span class="lnr lnr-thumbs-up"></span>Every bouquet hand tied</a>
+			</div>
+          <div class="col-wide-3 col-medium-6 text-center">
+				<a href="/pages/buy-flowers-plant-trees"><span class="lnr lnr-leaf"></span>You buy flowers, we plant trees</a>
+			</div>
+			<div class="col-wide-3 col-medium-6 text-center">
+				<a href="#mc-embedded-subscribe-form" class="newsletterSignUpText"><span class="lnr lnr-envelope"></span> Sign up to our newsletter</a>
+			</div>
+		</div>
+	</div>
+</div>
+	</div>
+        <div id="shopify-section-footer" class="shopify-section"><footer class="site-footer" id="mastFooter">
+	<div class="footer-links text-center">
+		<div class="wrapper">
+			<div class="row">
+				<div class="col-medium-4">
+					<h6>Company</h6>
+					<div class="skip-content">
+						<ul>
+							
+							<li>
+								<a href="/pages/about-us">About Us</a>
+							</li>
+							
+							<li>
+								<a href="/blogs/news">The Journal</a>
+							</li>
+							
+							<li>
+								<a href="/pages/arena-flowers-rewards">Arena Flowers Rewards</a>
+							</li>
+							
+							<li>
+								<a href="/pages/buy-flowers-plant-trees">Buy Flowers. Plant Trees.</a>
+							</li>
+							
+							<li>
+								<a href="/pages/flower-care-guide">Flower Care Guide</a>
+							</li>
+							
+							<li>
+								<a href="/pages/jobs-and-careers">Jobs at Arena</a>
+							</li>
+							
+							<li>
+								<a href="https://corporate.arenaflowers.com/">Corporate Flowers </a>
+							</li>
+							
+						</ul>
+					</div>
+					
+				</div>
+				<div class="col-medium-4">
+					<h6>Customer Service - 0800 0350 581</h6>
+					<div class="skip-content">
+						<ul>
+							
+							<li>
+								<a href="/pages/delivery-information">Delivery Information</a>
+							</li>
+							
+							<li>
+								<a href="/pages/faqs">FAQs</a>
+							</li>
+							
+							<li>
+								<a href="/pages/contact-us">Contact Us</a>
+							</li>
+							
+							<li>
+								<a href="/pages/customer-reviews">Customer Reviews</a>
+							</li>
+							
+							<li>
+								<a href="/pages/terms-conditions">Terms &amp; Conditions</a>
+							</li>
+							
+							<li>
+								<a href="/pages/privacy-policy">Privacy Policy</a>
+							</li>
+							
+							<li>
+								<a href="/pages/environmental-ethical-trading-policy">Environmental &amp; Ethical Trading Policy</a>
+							</li>
+							
+							<li>
+								<a href="/pages/modern-slavery-statement">Modern Slavery Statement</a>
+							</li>
+							
+							<li>
+								<a href="/pages/satisfaction-guarantee">Satisfaction Guarantee</a>
+							</li>
+							
+							<li>
+								<a href="/pages/subscription-flowers">Subscription Flowers</a>
+							</li>
+							
+						</ul>
+					</div>
+					
+				</div>
+		
+				<div class="col-medium-4" itemscope="" itemtype="http://schema.org/Organization">
+						<meta itemprop="url" content="https://www.arenaflowers.com">
+	<meta itemprop="logo" content="https://cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/apple-touch-icon.png?13853">
+					<h6>Follow us on</h6>
+					<div class="skip-content">
+						
+	<span itemprop="contactPoint" itemscope="" itemtype="http://schema.org/ContactPoint">
+		
 
-        <ul class="footer-nav">
-          <li><a href="/weddings">Weddings</a></li>
-          <li><a href="/funerals">Funerals</a></li>
-          <li><a href="/flowers/valentines-day-flowers">Valentine's Day</a></li>
-          <li><a href="/flowers/mothers-day-flowers">Mother's Day</a></li>
-          <li><a href="/flowers/occasion/black-friday-cyber-monday">Black Friday &amp; Cyber Monday</a></li>
-          <li><a href="/offers">Weekly Special Offers</a></li>
-          <li><a href="/arenaflowers-discount-code">The Vault</a></li>
-        </ul>
 
-      </div>
 
-      <div class="col-sm-3 col-md-3">
 
-        <ul class="footer-nav">
-          <li><a href="/delivery">Flower Delivery</a></li>
-          <li><a href="https://www.amazebox.co.uk" target="_blank">AmazeBox.co.uk</a></li>
-          <li><a href="/business-corporate-flowers">Corporate Flowers</a></li>
-          <li><a rel="nofollow" href="/satisfaction-guarantee">100% Satisfaction Guarantee</a></li>
-          <li><a rel="nofollow" href="/faq">FAQs</a></li>
-          <li><a href="/features/flower-care/">Flower Care Guide</a></li>
-          <li><a href="/arena-flowers">About Us</a></li>
-        </ul>
+	<meta itemprop="telephone" content="+44(0)8000350581">
+	<meta itemprop="contactType" content="customer service">
+	</span>
+	
+						<ul>
+							
+							<li>
+								<a rel="me" itemprop="sameAs" target="_blank" href="https://www.instagram.com/arena_flowers/">Instagram</a>
+							</li>
+							
+							<li>
+								<a rel="me" itemprop="sameAs" target="_blank" href="https://www.facebook.com/arenaflowersUK/">Facebook</a>
+							</li>
+							
+							<li>
+								<a rel="me" itemprop="sameAs" target="_blank" href="https://twitter.com/ArenaFlowers">Twitter</a>
+							</li>
+							
+							<li>
+								<a rel="me" itemprop="sameAs" target="_blank" href="https://uk.pinterest.com/arenaflowers/">Pinterest</a>
+							</li>
+							
+							<li>
+								<a rel="me" itemprop="sameAs" target="_blank" href="https://www.youtube.com/ArenaFlowers">YouTube</a>
+							</li>
+							
+							<li>
+								<a href="#" class="showNewsletterButton">Newsletter sign up</a>
+							</li>
+						</ul>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+    <div class="footer-bottom">
+        <div class="wrapper">
+			<div class="row">
+                <div class="col-wide-6 text-center">
+                    
+                </div>
+				<div class="col-wide-2 text-left">
+                    
+                        <img src="//cdn.shopify.com/s/files/1/0035/0332/5297/files/footer-left-icons.jpg?v=1568824831" alt="">
+                    
+                </div>
+                <div class="col-wide-2 text-right">
+                    
+                      <img class="logos-payment" src="//cdn.shopify.com/s/files/1/0035/0332/5297/files/footer-right.jpg?v=1541516772" alt="">
+                    
+                </div>
+				<div class="col-wide-8 text-center">
+					<!-- TrustBox widget - Micro Combo -->
+					<div class="trustpilot-widget" data-locale="en-GB" data-template-id="5419b6ffb0d04a076446a9af" data-businessunit-id="47783f3a0000640005020b27" data-style-height="20px" data-style-width="100%" data-theme="light">
+					<a href="https://uk.trustpilot.com/review/www.arenaflowers.com" target="_blank">Trustpilot</a>
+					</div>
+					<!-- End TrustBox widget -->
 
-      </div>
-
-      <div class="col-sm-3 col-md-3">
-
-        <ul class="footer-nav">
-          <li><a href="/blog">Arena News</a></li>
-          <li><a rel="nofollow" href="/terms-and-conditions">Terms &amp; Conditions</a></li>
-          <li><a rel="nofollow" href="/privacy-policy">Privacy Policy</a></li>
-          <li><a href="/reviews">Customer Reviews</a></li>
-          <li><a href="/affiliates">Affiliates</a></li>
-          <li><a href="/referral-programme">Referral Programme</a></li>
-          <li><a href="/jobs">Jobs At Arena</a></li>
-        </ul>
-
-      </div>
-
+                    <p class="copyright">Copyright © 2006 - 2019 Arena Online Ltd. All Rights Reserved. Arena Online Ltd, Flowers HQ, Unit 1a, Concord Business Centre, Concord Road, London, W3 0TJ.</p>
+                </div>
+            </div>
+        </div>
     </div>
+</footer>
 
-    <div class="col-sm-12 col-md-12 col-lg-5">
-      <div class="col-lg-7 col-md-9 col-sm-12">
-        <dl class="col-lg-10 col-md-6 col-sm-6 footer__payment">
 
-          <dt class="footer__payment__title">Secure payments processed via</dt>
 
-          <dd class="footer__payment__item"><div class="footer__payment__icon footer__payment__icon--paypal">PayPal</div></dd>
-          <dd class="footer__payment__item"><div class="footer__payment__icon footer__payment__icon--visa">Visa</div></dd>
-          <dd class="footer__payment__item"><div class="footer__payment__icon footer__payment__icon--mastercard">Mastercard</div></dd>
-          <dd class="footer__payment__item"><div class="footer__payment__icon footer__payment__icon--amex">American Express</div></dd>
 
-        </dl>
 
-        <div class="col-lg-12 col-md-6 col-sm-6">
-          <div class="footer__logo--groups">
 
-            <p>Connect with us:</p>
+</div>
+          
+    </div>
+</div>
+    <!--[if lt IE 8]><p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p><![endif]-->
 
-            <div class="col-xs-2">
-              <a href="https://www.facebook.com/pages/ArenaFlowerscom/19185016664" target="_blank">
-                <div class="social facebook-circle"><i class="fa fa-facebook"></i></div>
-              </a>
+    <script src="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/all.js?13853" type="text/javascript"></script>
+
+
+  
+
+  <script src="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/shop.js?13853" type="text/javascript"></script>
+  
+    
+
+    <script src="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/customer.js?13853" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/timber.js?13853" type="text/javascript"></script>
+
+    
+      <script src="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/handlebars.min.js?13853" type="text/javascript"></script>
+      
+  <script id="CartTemplate" type="text/template">
+  
+		<h3 class="count-{{{cartCount}}}">{{{cartCount}}} item<span>s</span> in bag</h3>
+    <form action="/cart" method="post" novalidate class="cart ajaxcart">
+      <div class="ajaxcart__inner">
+        {{#items}}
+        <div class="ajaxcart__product">
+          <div class="ajaxcart__row" data-line="{{line}}">
+            <div class="row">
+              <div class="item">
+                <a href="{{url}}" class="ajaxcart__product-image"><img src="{{img}}" alt=""></a>
+              </div>
+              <div class="item">
+                    <div class="row">
+                        <a href="{{url}}" class="ajaxcart__product-name">{{name}}</a>
+                        <div class="ajaxcart__qty">
+                            <label>Qty:</label>
+                            <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--minus icon-fallback-text" data-id="{{key}}" data-qty="{{itemMinus}}" data-line="{{line}}">
+                                <span class="icon icon-circle-minus" aria-hidden="true"></span>
+                                <span class="fallback-text hidden" aria-hidden="true">&minus;</span>
+                                <span class="hidden">Reduce item quantity by one</span>
+                            </button>
+                            <input type="text" name="updates[]" class="ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{key}}" data-line="{{line}}" aria-label="quantity" pattern="[0-9]*">
+                            <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--plus icon-fallback-text" data-id="{{key}}" data-line="{{line}}" data-qty="{{itemAdd}}">
+                                <span class="icon icon-plus-circle" aria-hidden="true"></span>
+                                <span class="fallback-text hidden" aria-hidden="true">+</span>
+                                <span class="hidden">Increase item quantity by one</span>
+                            </button>
+                        </div>
+                        <div class="ajaxcart__price">
+                        {{#if discountsApplied}}
+                            <small class="ajaxcart-item__price-strikethrough"><s>{{{originalLinePrice}}}</s></small>
+                            <br><span class="price">{{{linePrice}}}</span>
+                            {{else}}
+                            <span class="price">{{{linePrice}}}</span>
+                            {{/if}}
+                        
+                        {{#if discountsApplied}}
+                        
+                                {{#each discounts}}
+                            <small class="ajaxcart-item__discount">{{ this.title }}</small><br>
+                            {{/each}}
+                            
+                        {{/if}}
+                        </div>
+                        
+                  </div>
+                  
+                  {{#if variation}}
+                    <span class="ajaxcart__product-meta">{{variation}}</span>
+                  {{/if}}
+                  {{#properties}}
+                    {{#each this}}
+                      {{#if this}}
+                        <span class="ajaxcart__product-meta {{@key}}">{{@key}}: {{this}}</span>
+                      {{/if}}
+                    {{/each}}
+                  {{/properties}}
+                  
+
+              	  
+              </div>
             </div>
-            <div class="col-xs-2">
-              <a href="https://twitter.com/ArenaFlowers" target="_blank">
-                <div class="social twitter-circle"><i class="fa fa-twitter"></i></div>
-              </a>
-            </div>
-            <div class="col-xs-2">
-              <a href="https://plus.google.com/+arenaflowers/" target="_blank">
-                <div class="social google-plus-circle"><i class="fa fa-google-plus"></i></div>
-              </a>
-            </div>
-            <div class="col-xs-2">
-              <a href="https://uk.pinterest.com/arenaflowers/" target="_blank">
-                <div class="social pinterest-circle"><i class="fa fa-pinterest"></i></div>
-              </a>
-            </div>
-            <div class="col-xs-2">
-              <a href="https://www.arenaflowers.com/blog" target="_blank">
-                <div class="social blog-circle"><i class="fa fa-rss"></i></div>
-              </a>
-            </div>
-
           </div>
         </div>
+        {{/items}}
+
+        
       </div>
-      <div class="col-lg-5 col-md-3 hidden-sm">
-        <div id="m-reviewscouk-js" style="width:140px;"></div>
+      <div class="ajaxcart__footer">
+        <div class="row">
+          <div class="item">
+            <p>Subtotal</p>
+          </div>
+          <div class="item">
+            <p class="price">{{{totalPrice}}}</p>
+          </div>
+          {{#if totalCartDiscount}}
+            <p class="ajaxcart__savings text-center"><em>{{{totalCartDiscount}}}</em></p>
+          {{/if}}
+        </div>
+        <div class="buttons-set">
+            <p class="delivery-txt text-center">Buy now and we'll plant a tree</p>
+            <a href="{{shop.url}}/cart" class="button cart__checkout" name="checkout">
+            <span>Secure checkout</span>
+            </a>
+            
+        
+            
+            
+            
+        </div>
       </div>
-    </div>
-  </div>
-  <div class="row trustpilot">
-    <div class="col-md-12">
-      <div class="trustpilot-widget" data-businessunit-id="47783f3a0000640005020b27" data-locale="en-GB" data-stars="4,5" data-style-height="28px" data-style-width="100%" data-template-id="5406e65db0d04a09e042d5fc" data-theme="light"><a href="https://uk.trustpilot.com/review/www.arenaflowers.com" target="_blank">Trustpilot</a></div>
-    </div>
-  </div>
-  <script type="application/ld+json">
-    { "@context": "http://schema.org",
-      "@type": "Brand",
-      "name": "Arena Flowers",
-      "aggregateRating":
-        {"@type": "AggregateRating",
-         "ratingValue": "4.38",
-         "reviewCount": "1254"
-        }
-    }
+    </form>
+  
   </script>
-  <div class="row credits credits-copy">
-
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3">
-      <div class="credits--logo"><img src="//d2bzfgi7sjutmd.cloudfront.net/ftp_assets/2/090617100218/Image/arenaflowers.com/footer/new/arena-flowers-logo-footer.png" alt="Arena Flowers">
-      </div>
+  <script id="AjaxQty" type="text/template">
+  
+    <div class="ajaxcart__qty">
+      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--minus icon-fallback-text" data-id="{{key}}" data-qty="{{itemMinus}}">
+        <span class="icon icon-circle-minus" aria-hidden="true"></span>
+        <span class="fallback-text hidden" aria-hidden="true">&minus;</span>
+        <span class="hidden">Reduce item quantity by one</span>
+      </button>
+      <input type="text" class="ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{key}}" aria-label="quantity" pattern="[0-9]*">
+      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--plus icon-fallback-text" data-id="{{key}}" data-qty="{{itemAdd}}">
+        <span class="icon icon-plus-circle" aria-hidden="true"></span>
+        <span class="fallback-text hidden" aria-hidden="true">+</span>
+        <span class="hidden">Increase item quantity by one</span>
+      </button>
     </div>
-
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5">
-      <div class="copyright">
-        <small>Copyright © 2006 - 2019 Arena Online Ltd. All Rights Reserved. Arena Online Ltd, 
-        Flowers HQ, Unit 1a Concord Business Centre, Concord Road, London <span style="white-space: nowrap;">W3 0TJ</span>
-        </small>
-      </div>
+  
+  </script>
+  <script id="JsQty" type="text/template">
+  
+    <div class="js-qty">
+      <button type="button" class="js-qty__adjust js-qty__adjust--minus icon-fallback-text" data-id="{{key}}" data-qty="{{itemMinus}}">
+        <span class="icon icon-circle-minus" aria-hidden="true"></span>
+        <span class="fallback-text hidden" aria-hidden="true">&minus;</span>
+        <span class="hidden">Reduce item quantity by one</span>
+      </button>
+      <input type="text" class="js-qty__num" value="{{itemQty}}" min="1" data-id="{{key}}" aria-label="quantity" pattern="[0-9]*" name="{{inputName}}" id="{{inputId}}">
+      <button type="button" class="js-qty__adjust js-qty__adjust--plus icon-fallback-text" data-id="{{key}}" data-qty="{{itemAdd}}">
+        <span class="icon icon-plus-circle" aria-hidden="true"></span>
+        <span class="fallback-text hidden" aria-hidden="true">+</span>
+        <span class="hidden">Increase item quantity by one</span>
+      </button>
     </div>
+  
+  </script>
 
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
-      <div class="trade">
-        <a class="trade__icon trade__icon--fairtrade" href="/flowers/fairtrade"></a>
-        <a class="trade__icon trade__icon--ethical" href="/flowers/fairtrade#ethical"></a>
-        <div class="trade__icon trade__icon--shop-safe"></div>
-        <div class="trade__icon trade__icon--secure"></div>
-      </div>
+      <script src="//cdn.shopify.com/s/files/1/0035/0332/5297/t/27/assets/ajax-cart.js?13853" type="text/javascript"></script>
+      <script>
+        jQuery(document).ready(function() {
+          ajaxCart.init({
+            formSelector: '#AddToCartForm',
+            cartContainer: '#CartContainer',
+            addToCartSelector: '#AddToCart',
+            cartCountSelector: '#CartCount',
+            cartCostSelector: '#CartCost',
+            moneyFormat: "£{{amount}}"
+          });
+          ajaxCart.load();
+        });
+
+        jQuery(document.body).on('afterCartLoad.ajaxCart', function(evt, cart) {
+          // Bind to 'afterCartLoad.ajaxCart' to run any javascript after the cart has loaded in the DOM
+
+        });
+
+
+      </script>
+    
+
+    <script>
+      jQuery('html').removeClass('no-js').addClass('js');
+    </script>
+  
+
+<div class="featherlight popup-mailchimp">
+    <div class="featherlight-content"><button class="featherlight-close-icon featherlight-close" aria-label="Close"></button>
+        <div id="mc_embed_signup" class="featherlight-inner">
+    <!-- Begin MailChimp Signup Form -->
+    <div><div class="box">
+        <div id="popupImage">
+            <div id="shopify-section-cms-mailchimp" class="shopify-section">
+  
+
+    
+      
+                
+          
+
+              <div class="banner-wrapper row" style="background-image: url(//cdn.shopify.com/s/files/1/0035/0332/5297/files/about-m_600x768_crop_center.jpg?v=1543585823)">
+       
+           
+            
     </div>
-  </div>
-</footer>
-</div><!-- end_content(Responsive Footer) --></div></div><script crossorigin="anonymous" src="//d2bzfgi7sjutmd.cloudfront.net/asts/2/jquery-3.3.1.min-c6134bcbb74b9e9d9278bfb860dcc199.js" type="text/javascript"></script><script crossorigin="anonymous" src="//d2bzfgi7sjutmd.cloudfront.net/asts/2/bootstrap-3.3.7.min-5ada70b5d3551260101f6a47fbff5fb5.js" type="text/javascript"></script><script crossorigin="anonymous" src="//d2bzfgi7sjutmd.cloudfront.net/asts/2/aqua-d5289b857cb44cf90e8be77363a95513.js" type="text/javascript"></script><script crossorigin="anonymous" src="//d2bzfgi7sjutmd.cloudfront.net/asts/2/sites/af-a46807d35823f3aa214681eeaf621a23.js" type="text/javascript"></script><script async="" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" type="text/javascript"></script><script type="text/javascript">var head = document.getElementsByTagName('head')[0];
-var link = document.createElement('link');
-link.rel = 'stylesheet';
-link.type = 'text/css';
-link.href = "//fonts.googleapis.com/css?family=Pacifico%7CPlayfair+Display:400,400i,700,700i%7CRoboto%7CRoboto+Condensed%7CRoboto+Slab";
-head.appendChild(link);</script></body></html>
+      
+
+
+
+      
+    
+
+  
+
+
+
+
+</div>
+        </div>
+      <form action="https://arenaflowers.us7.list-manage.com/subscribe/post?u=23bccf8985b5e6539dfea6ead&amp;id=5864e81dc9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+            <div id="mc_embed_signup_scroll">
+<div id="innerSignUpScroll">
+                <h2>sign up to our newsletter</h2>
+                <p class="intro">Get the latest news and offers from Arena Flowers</p>
+                
+
+<div id="MCSignUpForm">
+
+                <span id="mailChimpErrorResponse"></span>
+                <div class="mc-field-group half">
+                    <label for="mce-FNAME" class="visibleHide">First Name </label>
+                    <input type="text" value="" name="FNAME" id="mce-FNAME" placeholder="First Name">
+                </div>
+                <div class="mc-field-group half right">
+                    <label for="mce-LNAME" class="visibleHide">Last Name </label>
+                    <input type="text" value="" name="LNAME" id="mce-LNAME" placeholder="Last Name">
+                </div>
+                <div class="mc-field-group clear">
+                    <label for="mce-EMAIL" class="visibleHide">Email Address </label>
+                    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address">
+                </div>
+                
+
+
+
+
+
+<p>You may like to review our <a href="/pages/privacy-policy">Privacy Policy</a> and <a href="/pages/terms-conditions">Terms &amp; Conditions</a>.</p>
+
+           </div>
+            
+                <div id="mce-responses" class="clear">
+                    <div class="response" id="mce-error-response" style="display:none"></div>
+                    <div class="response" id="mce-success-response" style="display:none"></div>
+                </div>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_23bccf8985b5e6539dfea6ead_5864e81dc9" tabindex="-1" value=""></div>
+                <div class="clear">
+                    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                </div>
+              
+            </div>
+            </div>
+        </form>
+    </div>
+    </div>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+    <!--End mc_embed_signup-->
+</div>
+</div>
+</div>
+
+
+
+
+
+
+  
+
+
+<!-- Gorgias Chat Widget Start -->
+<div id="gorgias-chat">
+  <style> #gorgias-web-messenger-container { margin-bottom: 30px !important; } </style>
+  
+  <style> @media (max-width: 576px) {#gorgias-web-messenger-container {display: none}} </style>
+
+
+<script>window.gorgiasChatParameters = {}</script>
+  <script type="text/javascript">
+var gorgiasChatInterval = window.setInterval(function () {
+  var iframe = document.querySelector('#gorgias-web-messenger-container');
+    if (iframe) { 
+      var head = iframe.contentWindow.document.querySelector('head')
+      if (head.children.length) {
+        window.clearInterval(gorgiasChatInterval); // this line breaks out of the loop - make sure it's not deleted.        
+        var styles = document.createElement('style');
+        styles.textContent = '.logo-wrapper{display: none}'
+        head.appendChild(styles)
+      }
+    }    
+}, 100);
+</script>
+<script src="https://config.gorgias.io/production/gpGJBxpnPK2YXZA5/chat/PG09N6gvznx4j5gK.js" defer=""></script>
+</div>
+<!-- Gorgias Chat Widget End -->
+  
+
+
+
+<div id="lootly-widget" class="lootly-init" style="display: none" data-provider="https://lootly.io" data-api-key="POROPrPhxsQPfjc1KTqypXZioq7fKktBiUlYdJJkH7DYCfBHwzxOIABbbdmU" data-shop-domain="arenaflowers.myshopify.com" data-shop-id="4493e8557572f8ff4ff5cad4ccef5597" data-customer-id="" data-customer-signature="">
+</div>
+
+  
+  
+  
+
+</body></html>
