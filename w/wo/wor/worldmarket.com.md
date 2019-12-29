@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmarket.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624194435id_/https%3A//www.worldmarket.com/category/customer-service/privacy-and-security.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarket.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229174544id_/https%3A//www.worldmarket.com/category/customer-service/privacy-and-security.do) for the most accurate reproduction.*
 
 # Privacy and Security | World Market
 
