@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the getrocketbook.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301174735id_/https%3A//getrocketbook.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrocketbook.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229213544id_/https%3A//getrocketbook.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy– Rocketbook
+# Privacy Policy - Rocketbook
 
-  1. **Introduction**
-
-
-
-Thank you for visiting Rocketbook and, if applicable, downloading our App. Rocketbook respects the privacy of its Users and has developed this Privacy Policy (this “Policy”) to demonstrate its commitment to protecting your privacy. This Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. 
+* **Introduction** Thank you for visiting Rocketbook and, if applicable, downloading our App. Rocketbook respects the privacy of its Users and has developed this Privacy Policy (this “Policy”) to demonstrate its commitment to protecting your privacy. This Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
 We encourage you to read this Policy carefully before using our App and Websites, or otherwise providing Personal Information to us.
 
@@ -42,15 +38,15 @@ _Information provided by you_
 
 We collect Personal Information from you when you:
 
-  * you download our App and sign up to our Service; 
+  * download our App and sign up for our Service;
   * purchase Products from us;
-  * make an enquiry, provide feedback, or otherwise contact us by post, email or on our website, including through the Contact Us Page;
+  * make an inquiry, provide feedback, or otherwise contact us by post, email or on our website, including through the Contact Us Page;
   * complete any of the webforms on the Website;
   * participate in any survey, unless you respond anonymously.
 
 
 
-All personal data that you provide to us must be true, complete, and accurate. We may keep a record of any conversation that we have. If you provide us with inaccurate or false data, and we suspect or identify fraud, we will record this. In addition we may search at fraud prevention agencies for information on you as part of our due diligence to ensure we comply with anti-money laundering legislation. 
+All personal data that you provide to us must be true, complete, and accurate. We may keep a record of any conversation that we have. If you provide us with inaccurate or false data, and we suspect or identify fraud, we will record this. In addition we may search at fraud prevention agencies for information on you as part of our due diligence to ensure we comply with anti-money laundering legislation.
 
 When you sign up to our Service, you will provide us with certain information:
 
@@ -71,8 +67,8 @@ There is certain information that we collect automatically as the result of your
   * Any search terms that you may enter on the Service
   * The time, frequency and duration of your visits to the Service
   * Your browser type and operating system
-  * The nature of the device from which you are accessing the Service, for example, whether you are accessing the Platform from a personal computer or from a mobile device and its device-ID
-  * Your location data (e.g. GPS)
+  * The nature of the device from which you are accessing the Service, for example, whether you are accessing the Platform from a computer or from a mobile device and its device-ID
+  * Your location data (e.g. IP Address)
   * Information collected through cookies and similar technology, as described in our Cookies Policy
   * Information regarding your interaction with email messages, for example, whether you opened, clicked on, or forwarded the email message
 
@@ -86,7 +82,7 @@ When you use our Service, we receive information generated through the use of th
 
 _Your Choices About Collection and Use of Your Information_
 
-You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our Service because such Personal Information may be required in order for you to register as a User; ask a question; or initiate other transactions. 
+You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our Service because such Personal Information may be required in order for you to register as a User; ask a question; or initiate other transactions.
 
   4. **Use of Your Information**
 
@@ -109,7 +105,7 @@ In general, we collect, store and use your information to provide you with a saf
 
 
 
-Please note you can unsubscribe from any Rocketbook email list anytime or modify the type of emails you would like to receive from us. You may also request that we delete your account and remove all your data by sending an email to [remove@getrocketbook.com](mailto:remove@getrocketbook.com).
+Please note you can unsubscribe from any Rocketbook email list anytime or modify the type of emails you would like to receive from us. You may also request that we delete your account and remove all your data by sending an email to[remove@getrocketbook.com](mailto:remove@getrocketbook.com).
 
 We may send promotional email messages ("Promotional Communications") directly or in partnership with parties other than Rocketbook. Each Promotional Communication will generally offer recipients choices about receiving additional messages. We may also send push notifications to your mobile device to provide App updates and other relevant messages, which you manage in our Service. You may be able to manage them from your device’s settings page for the relevant service.
 
@@ -119,7 +115,7 @@ We use mobile analytics software to allow us to better understand the functional
 
 _Accessing, Editing, and Removing Your Information_
 
-Users may in some cases be able to review, edit, and delete the Personal Information they have provided to us by logging into their account on the App and editing their account or contacting [remove@getrocketbook.com](mailto:remove@getrocketbook.com) to have your data removed and your account deleted from our systems. If you ask us to delete your account, we will do so within a reasonable period of time. We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such.
+Users may in some cases be able to review, edit, and delete the Personal Information they have provided to us by logging into their account on the App and editing their account or contacting[remove@getrocketbook.com](mailto:remove@getrocketbook.com) to have your data removed and your account deleted from our systems. If you ask us to delete your account, we will do so within a reasonable period of time. We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such.
 
   5. **Cookies**
 
@@ -141,7 +137,7 @@ Please be aware that this Policy, and any other policies in place, in addition t
 
 Although you are entering into an Agreement with Rocketbook to disclose your Personal Information to us, we do use third party individuals and organizations to assist us, including contractors, web hosts, and others.  
   
-For our legitimate business interests, we use third party individuals and organizations to assist us, including contractors, web hosts, and others.  We shall ask and require these third parties to implement appropriate organizational and technical security measures to protect against unauthorized disclosure of personal data, and only to process personal data in accordance with our instructions and applicable laws, and to the extent necessary to provide their services to us. 
+For our legitimate business interests, we use third party individuals and organizations to assist us, including contractors, web hosts, and others.  We shall ask and require these third parties to implement appropriate organizational and technical security measures to protect against unauthorized disclosure of personal data, and only to process personal data in accordance with our instructions and applicable laws, and to the extent necessary to provide their services to us.
 
   8. **International Transfer**
 
@@ -169,7 +165,7 @@ At times, it may become necessary for legal purposes, to release your informatio
 
 We shall process your Personal Information in a manner that ensures appropriate security of your Personal Information, including protection against unauthorized or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures.  
 
-We take certain measures to enhance the security of our Site and Service, including using SSL certificates. However, we make no representations as to the security or privacy of your your Personal Information. It is in our interest to keep our website secure, but we recommend that you use anti-virus software, firewalls, and other precautions to protect yourself from security threats.
+We take certain measures to enhance the security of our Site and Service, including using SSL certificates. However, we make no representations as to the security or privacy of your Personal Information. It is in our interest to keep our website secure, but we recommend that you use anti-virus software, firewalls, and other precautions to protect yourself from security threats.
 
   11. **Security Measures**
 
@@ -181,9 +177,9 @@ We take certain measures to enhance the security of our Site and Service, includ
 
 
 
-Our Service is general audience services and we do not knowingly collect Personal Information as defined in the U.S. Children's Online Privacy Protection Act ("COPPA") from children under the age of 13. In order to create an account on our Service, we do require that all users provide their full names and email addresses and create a password. If you are a child under thirteen (13) years of age, you are not permitted to send any information about yourself to us through the Service. We do not knowingly collect any personal information from any person under the age of 13.
+Our Service is general audience services and we do not knowingly collect Personal Information as defined in the U.S. Children's Online Privacy Protection Act ("COPPA") from children under the age of 13. In order to create an account on our Service, we do require that all users provide an email address and create a password. If you are a child under thirteen (13) years of age, you are not permitted to send any information about yourself to us through the Service. We do not knowingly collect any personal information from any person under the age of 13.
 
-In the event that we become aware that we have inadvertently received Personal Information from any child, we will dispose of that information or otherwise treat it in accordance with COPPA and other applicable laws and regulations. If you are a parent or guardian and you believe that your child under the age of thirteen (13) has provided us with Personal Information without COPPA-required consent, please contact us at: [legal@getrocketbook.com](mailto:legal@getrocketbook.com).
+In the event that we become aware that we have inadvertently received Personal Information from any child, we will dispose of that information or otherwise treat it in accordance with COPPA and other applicable laws and regulations. If you are a parent or guardian and you believe that your child under the age of thirteen (13) has provided us with Personal Information without COPPA-required consent, please contact us at:[legal@getrocketbook.com](mailto:legal@getrocketbook.com).
 
 _Web Purchases._
 
@@ -191,29 +187,29 @@ Although Rocketbook may sell and promote children's products in some instances, 
 
 _California Children’s Privacy Rights_
 
-If you are under the age of 18, or the parent of a user under the age of 18, residing in California, you are entitled to request removal of content or Personal Information you have posted on our Properties. If you would like to request removal of your or your child’s content or Personal Information, please email us at [remove@getrocketbook.com](mailto:remove@getrocketbook.com) for assistance, or you can delete specific information (or delete your or your child’s account) directly. Please keep in mind that deletion or removal of content or account may require us to terminate the account in question and we reserve the right to prohibit further use of our Service. Please note that removal of your content or Personal Information does not ensure complete or comprehensive removal, as there may be deidentified or recoverable elements of your content or Personal Information on our servers in some form. Additionally, we will not remove content or Personal Information that we may be required to retain under applicable federal and state laws.
+If you are under the age of 18, or the parent of a user under the age of 18, residing in California, you are entitled to request removal of content or Personal Information you have posted on our Properties. If you would like to request removal of your or your child’s content or Personal Information, please email us at[remove@getrocketbook.com](mailto:remove@getrocketbook.com) for assistance, or you can delete specific information (or delete your or your child’s account) directly. Please keep in mind that deletion or removal of content or account may require us to terminate the account in question and we reserve the right to prohibit further use of our Service. Please note that removal of your content or Personal Information does not ensure complete or comprehensive removal, as there may be deidentified or recoverable elements of your content or Personal Information on our servers in some form. Additionally, we will not remove content or Personal Information that we may be required to retain under applicable federal and state laws.
 
   13. **Your California Privacy Rights**
 
 
 
-Rocketbook permits residents of California to use its services. Therefore, it is the intent of Rocketbook to comply with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain Personal Information regarding our disclosure of Personal Information to any third parties for their direct marketing purposes. Various provisions throughout this Policy address requirements of the Californian privacy statutes. In summary, you must presume that we collect electronic information from all visitors. You may contact us at [legal@getrocketbook.com](mailto:legal@getrocketbook.com) with any questions.
+Rocketbook permits residents of California to use its services. Therefore, it is the intent of Rocketbook to comply with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain Personal Information regarding our disclosure of Personal Information to any third parties for their direct marketing purposes. Various provisions throughout this Policy address requirements of the Californian privacy statutes. In summary, you must presume that we collect electronic information from all visitors. You may contact us at[legal@getrocketbook.com](mailto:legal@getrocketbook.com) with any questions.
 
   14. **Sale or Merger**
 
 
 
-In the event that Rocketbook undergoes a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, for our legitimate interests we may share all of your information, including Personal Information, to any interested buyer and the successor organization in such transition. If material changes to Rocketbook's privacy practices are known by us to occur as a result of the business transition, we will notify you and other users of the business transition prior to transferring your Personal Information. We may otherwise disclose your information in connection with such business transition. 
+In the event that Rocketbook undergoes a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, for our legitimate interests we may share all of your information, including Personal Information, to any interested buyer and the successor organization in such transition. If material changes to Rocketbook's privacy practices are known by us to occur as a result of the business transition, we will notify you and other users of the business transition prior to transferring your Personal Information. We may otherwise disclose your information in connection with such business transition.
 
   15. **Your Rights**
 
 
 
-You have a number of rights under applicable laws. You may in some cases be able to exercise these rights yourself, such as the rights to review, edit, and delete the Personal Information you have provided to us by logging into your account on the App and editing your account accordingly. Otherwise, you should contact [legal@getrocketbook.com](mailto:legal@getrocketbook.com) to exercise your rights. Please note that we reserve the right to charge an administrative fee if your request is manifestly unfounded or excessive.  
+You have a number of rights under applicable laws. You may in some cases be able to exercise these rights yourself, such as the rights to review, edit, and delete the Personal Information you have provided to us by logging into your account on the App and editing your account accordingly. Otherwise, you should contact[legal@getrocketbook.com](mailto:legal@getrocketbook.com) to exercise your rights. Please note that we reserve the right to charge an administrative fee if your request is manifestly unfounded or excessive.  
 
 You can also require us to correct errors in the Personal Information that we process for you if it is inaccurate, incomplete, or out of date.  
 
-You also have the right at any time to require that we delete your Personal Information that we hold for you. If you ask us to delete your Personal Information we will do so within a reasonable period of time. 
+You also have the right at any time to require that we delete your Personal Information that we hold for you. If you ask us to delete your Personal Information we will do so within a reasonable period of time.
 
 At any time, you can withdraw your consent to receive our marketing emails.
 
@@ -229,6 +225,6 @@ We retain your personal data in accordance with applicable laws. The length of t
 
 We may amend this Policy from time to time. When we amend this Policy, we will post the amended version on this page. You must read this page each time that you use our Service, and your continued use of our Service shall constitute your acceptance of any such amendments. Changes to this Policy take effect from the date of publication.
 
-Last Modified: November 19, 2018.
+Last Modified: June 24, 2019
 
-Copyright © 2018 Rocketbook, All Rights Reserved
+Copyright © 2019 Rocketbook, All Rights Reserved
