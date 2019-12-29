@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ve.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630083718id_/https%3A//www.ve.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ve.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229224736id_/https%3A//www.ve.com/privacy-policy) for the most accurate reproduction.*
 
 # Ve | Privacy Policy
 
@@ -13,7 +13,7 @@ We take privacy seriously and are committed to ensuring a safe online experience
 We collect personal information about:
 
   * **End users who visit Client websites:** when you visit or interact with our Clients’ websites, mobile applications and services (including those of our affiliate networks) (“ **Client Sites** ”), we collect and process personal information about you. **We use this information to understand more about you and to advertise or promote our Clients’ products and services to you**. Please see Opting-out below if you wish to opt-out. You may have been redirected here because you have visited a Client Site; and
-  * **Clients and other visitors to our own website:** we collect and process personal information about Client personnel who use our Services and others who visit [https://www.ve.com](https://www.ve.com/?__hstc=162943075.c7d328eb0e8ec7e5c77d61cd3d72f9fc.1580386888562.1580386888562.1580386888562.1&__hssc=162943075.1.1580386888562&__hsfp=3924935683) (“ **Our Site** ”).
+  * **Clients and other visitors to our own website:** we collect and process personal information about Client personnel who use our Services and others who visit [https://www.ve.com](https://www.ve.com/?__hstc=162943075.5b638d508e96d10d7e52d7a3f412fbdc.1580386895489.1580386895489.1580386895489.1&__hssc=162943075.1.1580386895490&__hsfp=3924935683) (“ **Our Site** ”).
 
 
 
@@ -61,11 +61,11 @@ We collect the following categories of personal information from you:
 
 
 
-For more information about the technology that we use to collect Behavioural Data, please see our [Cookie Policy](https://www.ve.com/cookies-policy?__hstc=162943075.c7d328eb0e8ec7e5c77d61cd3d72f9fc.1580386888562.1580386888562.1580386888562.1&__hssc=162943075.1.1580386888562&__hsfp=3924935683).
+For more information about the technology that we use to collect Behavioural Data, please see our [Cookie Policy](https://www.ve.com/cookies-policy?__hstc=162943075.5b638d508e96d10d7e52d7a3f412fbdc.1580386895489.1580386895489.1580386895489.1&__hssc=162943075.1.1580386895490&__hsfp=3924935683).
 
 We also receive Behavioural Data and Profile Data from, and may share it with, third party partners (through “cookie synching” or similar matching technologies).
 
-We share personal information about you (including Behavioural Data and Profile Data) within the Ve group of companies to enable us to provide and improve our Services. A list of our group companies is available [here](https://www.ve.com/ve-subsidiary-list?__hstc=162943075.c7d328eb0e8ec7e5c77d61cd3d72f9fc.1580386888562.1580386888562.1580386888562.1&__hssc=162943075.1.1580386888562&__hsfp=3924935683).
+We share personal information about you (including Behavioural Data and Profile Data) within the Ve group of companies to enable us to provide and improve our Services. A list of our group companies is available [here](https://www.ve.com/ve-subsidiary-list?__hstc=162943075.5b638d508e96d10d7e52d7a3f412fbdc.1580386895489.1580386895489.1580386895489.1&__hssc=162943075.1.1580386895490&__hsfp=3924935683).
 
 We do not collect sensitive information from you (such as data relating to health or religious beliefs). Although it may be possible for us to infer certain information, such as your religious beliefs, from certain Behavioural Data that we may collect, we do not create or use segments that rely on the use of sensitive personal information for the purposes of online behavioural advertising.
 
@@ -134,7 +134,7 @@ We may collect the following categories of personal information from you:
 
 
 
-For more information about the technology that we use to collect Behavioural Data, please see our [Cookie Policy](https://www.ve.com/cookies-policy?__hstc=162943075.c7d328eb0e8ec7e5c77d61cd3d72f9fc.1580386888562.1580386888562.1580386888562.1&__hssc=162943075.1.1580386888562&__hsfp=3924935683).
+For more information about the technology that we use to collect Behavioural Data, please see our [Cookie Policy](https://www.ve.com/cookies-policy?__hstc=162943075.5b638d508e96d10d7e52d7a3f412fbdc.1580386895489.1580386895489.1580386895489.1&__hssc=162943075.1.1580386895490&__hsfp=3924935683).
 
 * * *
 
@@ -177,7 +177,7 @@ In particular, we may use your personal information for the following purposes:
 
 Ve makes use of certain cookies, pixels, beacons, log files and other technologies used on Client Sites and Our Site.
 
-Please see our [Cookie Policy](https://www.ve.com/cookies-policy?__hstc=162943075.c7d328eb0e8ec7e5c77d61cd3d72f9fc.1580386888562.1580386888562.1580386888562.1&__hssc=162943075.1.1580386888562&__hsfp=3924935683) to find out more about the cookies we use on Client Sites and Our Site.
+Please see our [Cookie Policy](https://www.ve.com/cookies-policy?__hstc=162943075.5b638d508e96d10d7e52d7a3f412fbdc.1580386895489.1580386895489.1580386895489.1&__hssc=162943075.1.1580386895490&__hsfp=3924935683) to find out more about the cookies we use on Client Sites and Our Site.
 
 Our Cookie Policy explains how you can manage and delete cookies which relate to Our Site.
 
@@ -190,6 +190,8 @@ This section explains how you can opt-out of our use of your personal informatio
 We explain below various mechanisms which you can use to opt-out of our use of your personal information in respect of Services that we provide in relation to Client Sites.
 
 Note that some of these mechanisms are subject to various limitations and conditions. In particular some of the mechanisms require that we place a cookie on your browser in order to identify you as a person who has opted-out of our use of your personal information. If you clear cookies or reset your device settings, we will not be able to identify you as a person who has opted-out of our use of your personal information.
+
+Retention of opt-out lists: Where you exercise your right to opt-out of receiving adverts or any personalised form of marketing, we will need to retain enough information (such as a cookie id, advertising id, or email address) in a suppression list to ensure that you do not received further marketing from us or sent by us on behalf of our Clients. This retention period will not expire, unless you contact us to advise that you would like us to, once again, send you marketing communications.
 
 Where you opt-out using the below mechanisms, we will restrict our use of your personal information according to the opt-out that you have chosen, but we may retain your personal data as described in this Privacy Policy (for further information please see How long do we keep your personal information for?):
 
