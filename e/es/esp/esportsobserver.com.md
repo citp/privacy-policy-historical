@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the esportsobserver.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615205409id_/https%3A//esportsobserver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esportsobserver.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229145034id_/https%3A//esportsobserver.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - The Esports Observer
+# Privacy Policy | The Esports Observer
 
 **PRIVACY STATEMENT**
 
@@ -59,7 +59,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 **How do I withdraw my consent?**
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [info@esportsobserver.com](mailto:info@esportsobserver.com).
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [info@esportsobserver.com](mailto:info@esportsobserver.com).
 
 **SECTION 3 – DISCLOSURE**
 
@@ -110,9 +110,9 @@ The information is then sent back to the server each time the browser requests a
 There are two main kinds of cookies: session cookies and persistent cookies. Session cookies are deleted from your computer when you close your browser, whereas persistent cookies remain stored on your computer until deleted, or until they reach their expiry date.
 
 **Google cookies**  
-Esports Business Solutions UG uses Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store and use this information. Google’s privacy policy is available at: http://www.google.com/privacypolicy.html.
+Esports Business Solutions UG uses Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store and use this information. Google’s privacy policy is available at: https://www.google.com/privacypolicy.html.
 
-Esports Business Solutions UG publishes Google Adsense interest-based advertisements on this website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google’s Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy_ads.html. However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.
+Esports Business Solutions UG publishes Google Adsense interest-based advertisements on this website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google’s Ads Preference Manager, available at: https://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: https://www.google.com/privacy_ads.html. However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: https://www.google.com/ads/preferences/plugin.
 
 **Refusing cookies**  
 Most browsers allow you to refuse to accept cookies.  
@@ -132,6 +132,4 @@ If our website is acquired or merged with another company, your information may
 
 **QUESTIONS AND CONTACT INFORMATION**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [info@esportsobserver.com](mailto:info@esportsobserver.com)
-
-You can also submit subject access requests, contact our designated DPO and set your privacy settings at [PRIVACY CENTER](https://esportsobserver.com/privacy/)
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [info@esportsobserver.com](mailto:info@esportsobserver.com)
