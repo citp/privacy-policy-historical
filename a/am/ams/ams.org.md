@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ams.org privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617010150id_/https%3A//www.ams.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ams.org privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229234335id_/https%3A//www.ams.org/privacy) for the most accurate reproduction.*
 
 # AMS Privacy Statement
 
