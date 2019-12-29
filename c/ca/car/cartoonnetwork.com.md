@@ -1,78 +1,188 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626224048id_/https%3A//www.cartoonnetwork.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229054440id_/https%3A//www.cartoonnetwork.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Cartoon Network
 
-Our visitors' privacy is important to us at Cartoon Network, ("we," "us," "our"), a division of Turner Broadcasting System, Inc. ("Turner"). We are providing this summary of our information practices ("Privacy Policy") because we are committed to helping our visitors understand what information is collected on our websites, online services, and mobile applications ("Site" or "Sites") and how they may control this information while exploring our Sites. This Privacy Policy governs our information practices on any Sites that we operate and that link to this Privacy Policy. This Privacy Policy may be subject to separate or additional privacy notices presented at the point of data collection. Although children under 13 may visit our Sites, some portions of the Sites may be directed at teens, parents or other adults and collect information only from these older visitors.
+Effective Date: January 1, 2020
 
-**THE INFORMATION WE COLLECT**
+To review our current Privacy Policy, please go to: <https://www.cartoonnetwork.com/2019-privacy-terms.html>
 
-**Account Registration and Visitor Provided Information.**  Some of our online and mobile activities, such as polls, sweepstakes and promotions, may ask for an e-mail address and possibly a first name so that we may respond to visitors' requests. Other activities may require account registration, which may request information such as a screen name, password, e-mail address, age, avatar preferences, interests, and other profile information. Email addresses collected for account registration of children under 13 years old are used to confirm the creation of an account and are stored in a "hashed" or protected format that doesn't identify the individual to help with account maintenance, such as retrieving a lost password.
+This Privacy Policy is about how Warner Bros. will collect and use any information you give us when you use our Services.  The word “Services” in this Privacy Policy means our websites, mobile apps, games, and other online services.
 
-**Visitor Communications.**  Some areas of our Sites include community and enhanced interactive features, such as blogs, and virtual worlds where visitors can select an avatar, post comments, chat with friends, play games, and earn rewards. These areas of the Sites allow children under 13 to select only pre-populated phrases or otherwise use tools or processes to filter and monitor chat messages and posts submitted by the child. If these tools detect that a child is trying to post personal information online, we will take reasonable measures to delete this personal information from the child's postings before they are made public. Other areas of our Sites allow visitors to contact us or tell a friend about our Sites. These areas may request personal information about the visitor or other people, such as the e-mail address of the recipient. Email addresses provided to us for this purpose are used solely to respond to the visitor's request and are deleted from our system once the message is sent.
+If you need help understanding this document, you should ask the adult who looks after you to read it and talk with you about it. Some of our websites and mobile apps are for adults as well as children. If you are an adult, you should take a look at our general audience [Warner Bros. Privacy Policy](http://www.warnerbros.com/privacy-center-wb-privacy-policy)  [https://policies.warnerbros.com/privacy/] for more information about how we will collect and use your data, including on Services that link to this policy.
 
-**Device and Usage Information Collected Through Cookies and Similar Online Technologies.**  We, our service providers, and third parties collect certain information automatically when visitors use our Sites, such as the type of computer or mobile operating system (e.g., Windows or Mac) and browser (e.g., Firefox, Internet Explorer, mobile Internet browser) used to access our Sites, mobile carrier, domain name of the Internet service provider (e.g., AT&T, Earthlink), certain identifiers such as unique device identifier, IP address, and mobile device IP address, and usage information (such as page requests, email open rates, average time spent, video or game player settings, achievements, activities and content viewed on our Sites). We, our service providers, or third parties may use cookies or similar online technologies to collect this information and enhance our visitors' online experience. For example, we place cookies on a visitor's computer browser or device when they visit our Site so we can store their preferences and analyze their use of the Site, such as how many times someone visits our Sites and various sections of those Sites. For more information about cookies and how browser settings can be changed to reject them, visitors should check their browser's Help menu or settings. Some of our Sites may use locally stored objects (sometimes referred to as "Flash cookies") for Adobe's Flash player and similar applications in order to provide certain content, such as video on demand, video clips, or animation. This technology may also remember settings, such as screen size or font selection. Flash cookies are not managed through a visitor's web browser, but Flash management tools can be accessed from  **Adobe's website**  (http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). We, our service providers, advertisers, and third parties also may use clear gifs (or "web beacons"), images, or scripts to collect data, such as the number of visitors to a web page or app, or to deliver a cookie or other content to a visitor's browser or device. Web beacons may also be used to provide information on the effectiveness of an advertisement or email campaigns (e.g., viewability, open rates, clicks, forwards, etc.). If a visitor decides not to accept cookies and similar online technologies from our Sites, that visitor may not be able to take advantage of all of the features of our Site. By using the Sites without rejecting cookies and similar online technologies, visitors consent to our use of such technologies to collect and process information.
+**WHAT INFORMATION DO WE COLLECT FROM YOU?  **
 
-**Social Media and Interactive Features.** If you use social media platforms and third-party plugins in connection with our Sites, the third parties who provide those features may be able to collect, use and make public information about you and activity on our Sites, depending on privacy settings and in accordance with the social media platform privacy and other policies. We recommend that visitors review these third-party privacy policies for more information about their information practices.
+**Information about you**
 
-**Parents, Guardians, Adults and Teens.**  For certain activities, such as community features where visitors can post comments and chat with others, we may ask for the e-mail address of a parent or guardian of a child under 13 or take other actions so that we can let the parent or guardian know about the child's participation in the activity or ask for the parent or guardian's permission for the child to participate in that activity. On certain Sites or portions of a Site with activities directed to an older audience, we may collect additional information from some visitors such as a full name, address, e-mail address, telephone number, or other information related to the activity such as their cable, satellite provider or school affiliation. Similarly, certain Sites or portions of a Site may permit some visitors to share content via social media accounts, to interact with a social media plugin or to log on via other third party platform accounts such as those available through Apple's Game Center or Facebook. When a visitor uses such social media platforms and plugins, some social media account information may be shared with us, such as a user name.
+For some of our Services, you don’t need to give us information like your name or email address to use the Service. 
 
-**User Generated Content and Related Personal Information.**  For user generated content activities like our CN Anything app, users may create or manipulate content with activities like selfies, stickers and drawings and save locally to their device photo library. We do not request, collect or store any personal information from those activities on the CN Anything app. For user generated content activities like our CN Sayin' app and our Stop Bullying: Speak Up activity, users of all ages may participate in a challenge locally on their device or take the Stop Bullying: Speak Up pledge, but only parents or users who indicate that they are at least 18 years old may participate in the interactive features that involve submission of videos and personal information to us. We may collect from such users: (i) the user's age; and if 18, (ii) a short video clip; (iii) the first and last name and email address of the user who is submitting the video to us; (iv) the first and last name of the person appearing in the video; and (v) an indication of whether the person who appears in the video is a minor and whether the person submitting the video and release is his or her parent or legal guardian. We may use and publish the video and related personal information submitted to us on TV, online, and in other media. By providing an email address to us, the user agrees and consents that we can use the email address to send a copy of the release and submission agreement and to communicate with the user about the app and content he or she sent to us.
+For some of our Services, we will ask for some more information from you so you can use the Service. We might need to ask permission from the adult who looks after you before you can give us this information.  This can include things like:
 
-**Purchases and Transactions.**  We may offer parents and other adult visitors the opportunity to make purchases, including items such as merchandise or gifts for friends or family, online games, virtual items and currency for use within our Sites and online games, or to enable participation in certain interactive features. In such cases, we may require the parent or adult to provide a full name, billing and mailing addresses, e-mail address, telephone number, and a credit card number. We sometimes may solicit additional voluntary information regarding shoppers' personal shopping preferences.
+\- your first name  
+- your location  
+- your email address  
+\- your username  
+- your telephone number  
+- your home address  
+\- numbers that identify your account or device  
+- a photo or video of you
 
-**Push Notifications.**  Visitors may choose to receive push notifications from a mobile app. Visitors can manage their push notification preferences at any time by adjusting the settings for the app on their mobile device.
+For some of our Services, such as virtual worlds, you can play games, talk with your friends or get items, such as gems and additional costumes or powers for your character. For these Services you need to choose a nickname or create an account. You will need to create a username and password and fill out other information about you.  For some Services, we collect your email address to help you make an account and then we keep your email address only in a “hashed” format so that it doesn’t identify you.  We use these “hashed” email addresses to help with your account, like to help you if you forget your password.   
 
-**HOW WE USE INFORMATION COLLECTED ON THE SITE**
+**Information about your adult**
 
-In addition to providing our products, programs, and services, we use visitors' information to fulfill their transactions and respond to their requests for content and information, such as enabling them to enter our sweepstakes or contests, to express their opinions on various topics, to play games and communicate with their friends, and to offer other features, products, programs, and services that we believe may be of interest. We also use the information we collect to support our internal operations, including personalizing content and experiences for visitors, authenticating visitors, improving and personalizing the design and content of our Sites, analyzing Site usage, serving contextual advertising, and managing advertising frequency. We may use the information we collect to prevent potentially illegal or offensive activities or to enforce our rights or the rights of other visitors or third parties. User generated content or information that a user who at least 18 years old submits to us through the Stop Bullying: Speak Up activity may be used on TV, online or in other media; we may use contact information submitted to send legal releases and to communicate with the user about the activity and content sent to us. We also may use the information for any other purposes disclosed to visitors at the time we collect their information and/or with appropriate consent.
+Sometimes, we need to collect information about the adult who looks after you. For example, we do this so we can:
 
-**HOW WE SHARE INFORMATION COLLECTED ON THE SITES**
+\- let them know about your interest in the Services  
+\- ask them for permission so you can access parts of our Services  
+\- tell them how to start some of the features for you
 
-**Service Providers.**  We sometimes use agents, contractors, or other service providers to provide services on our behalf to our visitors, such as moderating community postings, providing visitors with virtual currency or items they may have purchased, redeeming the currency for virtual items or products, sending merchandise that visitors have ordered, helping us administer and fulfill prizes for a promotion, contest or sweepstakes, or providing customer support services. In these cases, we require service providers to protect the confidentiality and security of personal information. We may also use reputable third parties and service providers for activities in support of internal operations, such as to perform analytics or to serve contextual advertisements.
+When we need to contact the adult who looks after you, we will need to get some information from them, so we may ask for their:
 
-**Co-Branded Sites and Promotions.**  Some of our Sites, or portions of our Sites, may be jointly provided by us and a sponsor or by one or more of our business partners who may also collect or have access to some of visitors' information. If this is the case, we will provide a notice at the point where the information is collected on the Site or upon download of the mobile app.
+\- full name  
+- address  
+\- email address  
+- telephone number
 
-**Corporate Affiliates.**  We may share visitors' information with our parent company and other Turner-affiliated companies.
+**When you buy things**
 
-**External Links.**  Our Sites may contain links to third-party websites, services, content, and applications whose information practices may be different from ours. Following these links may allow the user to go to or interact with third party websites, services, content, and applications that may offer content or games, or conduct contests or sweepstakes that are separate from our Sites. We are not responsible for the practices of these third parties, and we recommend that visitors review their privacy policies.
+Before buying something, you should always have permission from the adult who looks after you. When you buy something in a Service, your adult may have to pay for it with real money. Some of our Services allow you to buy things inside the Service, pay to join our clubs, and use online money from our Services.
 
-**Legal Process, Law Enforcement, and Corporate Transactions.**  We and our agents, contractors, business partners, Turner affiliated companies and service providers may disclose information we maintain when required to do so by applicable law, for example, in response to a court order, subpoena, legal process, or other claim or inquiry. We also may disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the rights, property, or safety of any person, violations of our terms of use, and to verify or enforce compliance with the policies governing our Sites and applicable laws, or as otherwise required or permitted by law or legal requirements. In addition, we may transfer visitors' information in connection with a corporate transaction, such as the sale of a Site, a merger or acquisition, consolidation, asset sale, or in the unlikely event of bankruptcy.
+**When you talk with your friends**
 
-**With Consent.**  We may disclose visitors' information for any other purposes with appropriate consent or at their direction.
+Some of our Services will let you talk with your friends in a way that shows your conversation with other people on the Service. Usually, you will choose from phrases we have already written. Otherwise, we will look at the messages so no one uses any bad words or shares your personal information. If we see that you are sharing your personal information with someone else, we will try to delete it before it is shared. We may ask permission from the adult who looks after you before we let you talk to your friends on our Services or if our Services let you post on social media.
 
-**De-Identified and/or Aggregate Information.**  We may take steps to de-identify or otherwise modify the information that we collect so that it is not intended to identify you personally. We may also aggregate information about users so that such information is not intended to specifically identify any users. We may use this de-identified and/or aggregate information to provide visitors with additional or more relevant produce or service opportunities, to improve and personalize the Sites, to perform analytics and other statistical analysis and for marketing purposes. We may share this de-identified and/or aggregate information with any third parties without restriction.
+**Information about your computer, console or smartphone**
 
-**INTERNATIONAL TRANSFER**
+When you visit or use one of our Services, we will get some information about your device and your internet browser (for example, Internet Explorer, Chrome or Firefox). We will also get some information about your IP Address and how you use our Services. To learn more, see our section about Cookies.
 
-We operate globally, so it may be necessary to transfer information we collect internationally. In particular, the information provided likely will be transferred to and processed in the United States by us, our agents or contractors. Our privacy practices are guided by data privacy laws in the United States. The data protection laws of the United States or other countries may not be as comprehensive or equivalent to those in the visitor's country of residence. By using the Sites, visitors consent to the collection, international transfer, storage, and processing of their information as set forth in this Privacy Policy and any other privacy notice provided at the time the information is collected.
+**Notifications**
 
-**OUR COMMITMENT TO SECURITY AND DATA RETENTION**
+You can choose to receive notifications on your device or within the Service.  Some of these notifications to your device are sent from outside your device (called push notifications). We may need to ask permission from the adult who looks after you to collect the information that we need to send you these push notifications. You can always turn notifications off in the settings of your device. This might be difficult, so make sure to ask the adult who looks after you to help.
 
-We maintain procedures intended to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect. These safeguards vary based on the sensitivity of the information that we collect and store. Please note, however, that no system can be guaranteed to be 100% secure. As a result, while we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us on or through the Sites and cannot be responsible for the theft, destruction, loss or inadvertent disclosure of your information. Personal information collected at the Sites will not be stored for longer than is reasonably necessary for the purposes described in this Privacy Policy or at the time the information is collected or for the purposes of complying with our legal obligations, resolving disputes, enforcing our agreements, and responding to visitor requests.
+**When you contact us**
 
-**YOUR CALIFORNIA PRIVACY RIGHTS & DO NOT TRACK**
+If you contact us by email or using an online form, we will ask you for some information. For example, this may include your first name and email address. We will also ask you to tell us why you are contacting us. Once we have helped you, we will delete your information.
 
-**Automated "Do Not Track" Signals.**  In some cases, some third parties that provide services to us, such as for analytics, may be able to collect information about a user's online activities when he or she uses the Site. Some web browsers may transmit "do-not-track" signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Consequently, we do not take actions to respond to automated "Do Not Track" signals at the current time. However, you can change your privacy preferences regarding the use of cookies and similar tracking technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered at the Site. Please consult the "Help" section of your browser for more information.
+**HOW DO WE USE YOUR INFORMATION**
 
-If you are a California resident, you may request information about practices related to disclosing your personal information to certain third parties and/or opt-out of sharing of your information with unaffiliated third parties for the third parties' direct marketing purposes, if applicable. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled "Your California Privacy Rights") by e-mail at privacy.cartoonnetwork@turner.com.
+We use your information for different reasons.
 
-**CHOICES; QUESTIONS; CONTACT US**
+**Where we have a legitimate interest**
 
-Visitors, parents or guardians with questions or comments regarding this Privacy Policy or who would like to review or update personal information collected on our Sites, have it deleted, or request that there be no further collection, use, or disclosure of this personal information can contact us using the information below.
+When using your information is very important to us but still fair to you, we have something called a "legitimate interest". When we have a legitimate interest and we use your information, we need to be sure that it is not going to upset you. We will use your information for our legitimate interest only if the laws of your country allow this.  In some countries, we may need to ask for your consent or the consent of the adult who looks after you before we can use your information in these ways.
 
-Cartoon Interactive Group, Inc. a division of Turner Broadcasting System, Inc.  
-Attn: Privacy Manager - Cartoon Network  
-1050 Techwood Drive - 1000 Bldg - Third Floor  
-Atlanta, GA 30318  
-Email: Privacy.CartoonNetwork@turner.com  
-Phone: 4O4-878-O694
+For example, we have a legitimate interest when we give you access:
 
-If a Site visitor, parent or guardian no longer wishes to have information collected by an application installed on their mobile device, they may uninstall the application by using the standard uninstall processes available on the mobile device or via the mobile application marketplace or network.
+\- to our Services  
+\- to play games  
+\- to chat with your friends  
+\- to post or send us comments
 
-**NOTIFICATION REGARDING UPDATES**
+We also have a legitimate interest, so we can: 
 
-We reserve the right to change our practices and our Privacy Policy at any time. We will notify you of material changes to our privacy practices by placing an updated privacy policy on the Site or in some circumstances we may notify you through other means. We encourage visitors to check back frequently to review this Privacy Policy to understand our current privacy practices.
+\- learn how to make our Services better  
+\- make sure your experience can be special and personalized for you  
+\- keep you and others safe   
+\- answer your questions and comments when you contact us
 
-Date Updated: April 23, 2018
+**If you and/or the adult who looks after you gives us permission (consent)  **
 
-3422144.1
+If you are old enough, you can give us permission to use your information. If you are not old enough, you will sometimes need to ask the adult who looks after you for permission. For example, when you want to receive a newsletter.
+
+**If the law says we must use your information**
+
+If the law says we must use your information, then we will do so. For example: 
+
+\- if the government or the police need to investigate something  
+\- if the law says we need to use your information
+
+**HOW DO WE SHARE YOUR INFORMATION?**
+
+**Our helpers (service providers)**
+
+Sometimes we have helpers who make sure our Services are great. They will help operate the Services or help with buying things on our Services, like points. They will also help with sending prizes to competition winners. We make sure that our helpers keep your information safe.
+
+**Our friends (for example, co-sponsors)**
+
+Sometimes we ask our friends to help us with our Services. If we do, they will have access to your information. We will let you know when we ask our friends to help us.
+
+**Our family (affiliates)**
+
+Sometimes we may share information with members of our family that agree to be bound by this Privacy Policy. You can find a list of some of the Warner Bros. Entertainment Group companies and affiliated WarnerMedia companies [here](https://policies.warnerbros.com/privacy/en-us/affiliates) [https://policies.warnerbros.com/privacy/en-us/affiliates]. We may update this list from time-to-time, so please check back periodically to keep up-to-date. 
+
+**Links to other people's websites (external links)**
+
+Our Services will sometimes have links to other people's websites. Those people can treat your information differently from us. You should make sure you understand how they will use your information by looking at their privacy policies.
+
+**Sharing information**
+
+When we have your adult’s permission for you to use social media platforms or plugins on our Services, those platforms can share their information back to the social media platform. This can mean that your friends will be told about what you do on our Service. You and the adult who looks after you should look at the privacy policies of these social media sites to learn more about how they use information about you.
+
+**If the law says we must share your information**
+
+Warner Bros., our friends and our helpers will sometimes need to share your information with other people when the law says so. For example, this can happen if the police, a judge, or the government asks us to. We need to share your information if it will help us stop people from doing bad things or committing crimes. We also need to share your information if it will help us protect you or other people.
+
+**If we sell or reorganize our business**
+
+If we sell or reorganize our business, we will share your information with the buyer or entity taking over operation of the Service.
+
+**If you or the adult who looks after you gives us permission**
+
+If you or the adult who looks after you gives us permission to share your information for something, then we will share your information in the way we describe at the time.
+
+**COOKIES**
+
+**What are cookies?**
+
+Cookies are tiny files that have information (data) in them. When you visit our Services, a cookie is placed on your device (like your computer, console or smartphone). Some mobile apps have technology that works like cookies. Cookies do not hurt your device.
+
+**What do cookies do?**
+
+Cookies help us to make your experience better. They can remember what you do on the Service (like your high score) and help us understand what you like doing.  The cookies will also help us know which parts of the Services are popular and which ones we need to make better.
+
+Some of our helpers and friends use their own cookies or other technology to help us or for their own activities. For example, these can help us understand how many people visited a Service.
+
+**Turning cookies off**
+
+You can choose to turn cookies off. You can also choose to block all cookies. You can do this using the settings menu. This might be difficult so make sure to ask the adult who looks after you to help you.
+
+If you do choose to turn cookies off, somethings on the website or Service might not work properly or your experience might not be as good.
+
+Some of our Services use a helper called Google Analytics. You have to turn off their cookies in a different way. To learn how to turn off their cookies, [click here](https://www.cartoonnetwork.com/redirects/index.html?url=https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)  [https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage]. You can also get the adult who looks after you to install a plug-in so they can take control of Google Analytics cookies. They can do this by [clicking here](https://www.cartoonnetwork.com/redirects/index.html?url=http://tools.google.com/dlpage/gaoptout?hl=en) [https://tools.google.com/dlpage/gaoptout?hl=en].
+
+**SENDING YOUR INFORMATION AROUND THE WORLD**
+
+We have offices around the world. Sometimes, we will need to send your information to a different country. Usually, this is to the United States where Warner Bros. and our helpers will use your information in the way we have already described in this Privacy Policy. It is important to remember that some countries do not have laws that protect your information in the same way. If you or the adult who looks after you want more information about how we send your information around the world, you can contact us by using the information at the end of this Privacy Policy.
+
+can contact us by using the information at the end of this Privacy Policy.
+
+**WE WANT TO KEEP YOUR INFORMATION SAFE  **
+
+We take reasonable steps to protect your information to stop other people getting to it. We also make sure to not keep your information for too long. If we need your information for our own purposes, we will also keep your information for three years after you last contact our customer support team or interact with our websites and apps or after you stop being subscribed or registered with us. Sometimes the law says we have to keep your information for longer than this. We may have to keep your information for longer to protect you and us.  When it’s time for us to stop keeping your information, we will burn or shred hard copies (like print-outs) and delete electronic copies in a way that means no one can read that information. 
+
+We may need to send you a message if someone gets to your information without our permission.  We will usually send this message by email to you or the adult who takes care of you.  Our message will explain what happened, why this matters to you, and what we are doing to fix it.  If we cannot send you this message directly, we may make a public post about it. 
+
+**YOUR RIGHTS**
+
+You or the adult who looks after you can ask to access your information, ask us to delete it, or stop us from using it sometimes. Sometimes they can even ask us to fix any mistakes or send it to someone else. Where we have asked the adult who looks after you to agree to let us use your information, they can stop us from using it. You or your adult can make these requests through our online portal [here](https://policies.warnerbros.com/individualrights/en/index.html) [https://policies.warnerbros.com/individualrights/en/index.html].
+
+**YOUR CALIFORNIA RIGHTS**
+
+California has passed a law named the California Consumer Privacy Act, or CCPA, which grants California residents certain rights with respect to their personal information.  The CCPA has specific rules regarding the use of children’s information.  In particular, the CCPA says that, if you are under the age of 13, an adult must provide permission for us to sell your information.  It also allows you or the adult who looks after you to ask for access to your information or to ask us to delete it. If you are interested in the rights that the CCPA grants to California residents, please visit the “California and CCPA Privacy Rights and Disclosures” section of the [Warner Bros. Privacy Policy](http://www.warnerbros.com/privacy-center-wb-privacy-policy)  [https://policies.warnerbros.com/privacy/]. To exercise your CCPA rights with respect to this information, either visit [here](https://privacycenter.wb.com/) [https://privacycenter.wb.com ] or contact us toll free at 833-WB-PRVCY (833-927-7829) or TTY: 833-PRVCY-TT (833-778-2988). These requests for disclosure are generally free
+
+**CONTACT US**
+
+If you or the adult who looks after you have any questions about this Privacy Policy you can contact us through our online portal [here](https://policies.warnerbros.com/individualrights/en/index.html) [https://policies.warnerbros.com/individualrights/en/index.html] or write to us at the following address:
+
+Warner Bros. Entertainment Inc.  
+Attention: Chief Privacy Officer   
+4000 Warner Blvd., Bldg. 160  
+Burbank, CA 91522   
+United States  
+833- WB PRVCY (833-927-7829) or 833-PRVCY-TT (833-778-2988)  
+WMPrivacy@warnermediagroup.com
+
+**UPDATES**
+
+From time to time, we may update this Privacy Policy. We will let you know about any big changes to how we use your information by putting a sign on our website or by sending the adult who looks after you an email message. We think it is a good idea for you to come back to this page once in a while to learn about how we protect your information.
