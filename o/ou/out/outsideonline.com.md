@@ -1,86 +1,146 @@
-> *The following text is extracted and transformed from the outsideonline.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618154310id_/https%3A//www.outsideonline.com/1929051/mariah-media-network-llcs-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsideonline.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229075137id_/https%3A//www.outsideonline.com/1929491/about-our-ads) for the most accurate reproduction.*
 
-# Mariah Media Network LLC’s Privacy Policy | Outside Online
+# About Our Ads | Outside Online
 
-This policy describes Mariah Media’s online privacy practices on the platforms where this policy is located.  These may include websites and sites designed for mobile devices.  The policy may also apply to the mobile and smart phone applications to which it might link.
+Interested in advertising in  _Outside_? Email [ads@outsideim.com](mailto:ads@outsidemag.com)
 
-### We Collect Information From and About You
+This policy covers the use of cookies and other tracking technologies and interest-based advertising on websites on which this policy appears.
 
-  1. Contact information. For example, we may collect your name and email address.  We may also collect your street address or phone number.  We may collect other I.D. numbers like user names.
-  2. Payment information.  For example, if you make purchases, we might collect your credit card information.
-  3. Information you submit or post. We collect the information you submit to us or post in a public space on our platform. 
-  4. Demographic information. For example, this includes your zip code. We may also collect your age and gender. We may collect this information if you contact us or enter a promotion.
-  5. Usage and device information. We may collect information about the website browser you are using, the pages you visit, or the third party websites from which or to which you go from our platform. We may also collect information about your equipment or device like a device or advertising identifier. We might look at how often you use the app and where you downloaded it. We collect this information using the tracking technologies described [here](https://www.outsideonline.com/1929491/about-our-ads).
-  6. Location information. We may collect information about your location, including your precise location. We may collect this information using different types of technologies, including GPS and Wi-Fi.
+### Tracking Technologies We Use
 
+We and third parties on the site collect personal information about users over time and across different websites, apps, and devices (our platforms) when you use our platforms. We or third parties use several tracking technologies. These may include browser and flash cookies, web beacons, and similar technologies. These may also include device IDs. These technologies are used to track our consumers and platform users, including for the following reasons:
 
+  * To track new visitors to our platforms.
 
-### We Collect Information in Different Ways
+  * To recognize past customers.
 
-  * We collect information directly from you.  For example, if you register on our platform, enter a contest, or take one of our online surveys.
-  * We collect information from you passively. For example, we use common tracking tools like cookies and web beacons to track user behavior.  We collect information about users over time and across different platforms and devices when you use this platform.  We may have third parties collect personal information this way. 
-  * We get information about you from third parties. We may get information about you or your preferences from our business partners. Social media platforms may also give us information about you.
+  * To store your password if you are registered on our platform.
 
+  * To serve you with advertising content in which we think you will be interested. As part of this customization, we may observe your behaviors on this platform or on other platforms. We may also get information about your browsing history from our trusted business partners.
 
+  * To integrate with third-party social media platforms.
 
-### We Combine Information We May Get from Various Sources. 
+  * To observe your behaviors and browsing activities over time across multiple platforms or devices.
 
-For example, if you are a subscriber to our print magazine, and register on this platform, we may combine the information we already have about you.  We may also combine information about you that we learn from third parties with information we already have. We may combine information that we collect across devices or platforms. 
-
-### We Use Information as Disclosed and Described Here
-
-We use information for our business purposes.  These include:
-
-  1. **To process your requests and for related purposes.**  For example, to fulfill an order you place with us.  Or, we may use you information to contact you about a purchase.
-  2. **To promote Outside Online and our related companies and products.**  For example, we might send you updates about our platforms or new products.  We may also send you other information which we think you might find interesting.  We may contact you using the contact information we have about you.
-  3. **To tell you about third party products or services we think you will like.**  For example, we might send you information about a deal that we are able to offer to our registered users.
-  4. **To operate our platforms and serve our advertisements.**  For example we use information we collect to analyze trends and improve platform layout.  We also monitor traffic patterns at our platforms to personalize our platform.  We sometimes work with third parties to help us with our platform monitoring activities. Our monitoring may include tracking your online activities, either ourselves or with the help of our vendors.  Monitoring may be across our platforms and be used to serve you with content in which we think you would be interested. To learn more about our tracking tools, click here.
-  5. **To protect our platforms and services.** We may use information to protect our company, our customers, and our services.
-  6. We use information as otherwise permitted by law or as we may notify you.
+  * So we can better understand our audience, our customers, our platform visitors, and their respective interests.
 
 
 
-### We May Share Information with Third Parties
 
-  * We will share information within the Mariah Media family of companies.
-  * We will share information with third parties who perform services on our behalf. For example, we share information with vendors, or will authorize them to collect information on our behalf. We also share information with companies that help us operate our platforms or fulfill customer requests. 
-  * We will share information with any successor to all or part of our business.  For example, if part of our business was sold we may sell our customer list as part of that transaction.
-  * We may share information with third party business partners.  For example, we might share your information when we conduct a joint promotion with another company.
-  * We may share this information if we think we have to in order to comply with the law or to protect ourselves. For example, we will disclose information in response to subpoenas or investigative requests. We may share information with a government agency or investigatory body requests it. We might share information if we are investigating potential fraud. This might include fraud we think has happened during a promotion. If you are the winner of a sweepstakes or contest, we may also share your information with anyone who requests a winner’s list. 
-  * We may share information for other reasons as may be described to you.
+We may use both “session” cookies and “persistent” cookies on this website. Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date. For further details, see below, consult the help menu in your browser, or visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
+Here is more information about certain tracking technologies cookies we currently use on our sites. We use all of these tracking technologies to improve our site and the experience of our visitors:
 
+### Analytics: Google Analytics
 
-### Your Choices
+We use these tracking tools to collect information about how visitors use our website. For example, we collect details of the site where the visitor has come from and the total number of times a visitor has been to our website.
 
-You can opt out of marketing emails by following the instructions in any marketing emails you receive.  You can also opt-out by sending an email message to emailreply@outsidemag.com with the word “unsubscribe” in the subject line.  Even if you opt out of getting marketing messages, we will still send you transactional messages.
+To opt out of being tracked by Google Analytics, visit: <https://tools.google.com/dlpage/gaoptout>
 
-You can control certain cookies and tracking tools. To learn how to manage how we—and our vendors—use cookies and other tracking tools, and to read our Do Not Track policy, please click here.
+### Analytics: Amplitude
 
-### Our Ads
+We use Amplitude tracking tools to collect information about how visitors use our website. We use this information to learn where visitors come from and how many times they return to the website.
 
-Third parties advertise on our platforms, and we also contract with third parties to serve ads across the Internet and across multiple devices.  The ads we serve may be based on tracking activities, as described in more detail [here](https://www.outsideonline.com/1929491/about-our-ads).
+To opt out of being tracked by Amplitude, visit: <https://cop.evidon.com/companies/amplitude> 
 
-### Security
+### Advertising/Analytics: Quantcast and Quantcount
 
-We use industry standard security measures to protect our platforms.  However, we cannot guarantee that the Internet or your use of our platforms will be completely secure.  We encourage you to take steps to protect yourself online.  For example, do not share your password with other people including ensuring that any online account information you have remains secure.
+We use Quantcast tracking tools to track user behavior over time and across third-party sites to improve the effectiveness of our online advertising. The information collected is used to improve and deliver relevant advertising. We use Quantcount to collect information about how visitors use our website. For example, we collect details of the site where the visitor has come from and the total number of times a visitor has been to our website.
 
-### About Children
+To opt out of being tracked by Quantcast, visit: <https://www.quantcast.com/opt-out/>
 
-Our platforms are not created for children.  We do not believe children are interested in our platforms, and do not knowingly collect information from children under 13.  If you are a parent or guardian and think we have information about your child who is under 13, please contact us at privacy@outsidemag.com. To learn more about how to protect your child online, visit the [FTC’s website](https://www.consumer.ftc.gov/features/feature-0038-onguardonline) and read the [helpful information provided by the FTC](https://www.consumer.ftc.gov/).
+### Advertising: Amazon Associates
 
-### Links
+We use these tracking tools to track user behavior over time and across third-party sites to improve the effectiveness of our online advertising. The information collected is used to improve and deliver relevant advertising.
 
-Our platforms contain links to third party sites.   If you click on one of those links, you will be taken to sites we do not control.  This policy does not apply to the information practices of those sites.  You should read the privacy policy of other sites carefully.  We are not responsible for such third party's sites.
+To opt out of being tracked by Amazon, visit: <https://www.amazon.com/adprefs/ref=hp_468496_advertisingpref2>
 
-### Non-US Users
+### Advertising: DoubleClick, Google Tag Manager, and Google Publisher Tags
 
-Our platforms are operated in the United States and are subject to United States laws. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States.  Please also be aware that by using our platforms and giving us your information, you consent to such transfer, and understand that the U.S. may not provide the same level of protections as the laws of your country. 
+We use these tracking tools to track user behavior over time and across third-party sites to improve the effectiveness of our online advertising. The information collected is used to improve and customize our advertising.
 
-### Policy Updates
+To opt out of being tracked by Google, visit: <https://adssettings.google.com/>
 
-From time to time we may change our privacy practices. The latest version of this policy will be posted here.  If there is a material change to this policy that we plan to apply retroactively, we will notify you as required by law. Please check our platforms periodically for updates.
+### Advertising: Adara 
 
-### How to Contact Us
+We use these tracking tools to track user behavior to improve the effectiveness of our online advertising. 
 
-If users have any questions about our privacy practices, you can email us at privacy@outsidemag.com. You can call us at (312) 222-1100. If you would like to write to us, our address is Mariah Media Network, LLC, 444 North Michigan Avenue, Suite 3350, Chicago IL 60611.
+To opt out of being tracked by Adara Analytics, visit: <https://adara.com/opt-out/> 
+
+### Advertising: Arrivalist
+
+We use these tracking tools to track user behavior to improve the effectiveness of our online advertising. 
+
+To opt out of being tracked by Arrivalist, visit: <http://dc.arrivalist.com/optout/>
+
+### Analytics: ScoreCard Research Beacon
+
+We use these tracking tools to collect information about how visitors use our website. For example, we collect details of the site where the visitor has come from and the total number of times a visitor has been to our website.
+
+To opt out of being tracked by ScoreCard across all websites, visit: [http://www.scorecardresearch.com/preferences.aspx](https://www.scorecardresearch.com/preferences.aspx) 
+
+### Advertising: Facebook Business
+
+We use these tracking tools to track user behavior over time and across third-party sites to improve the effectiveness of our online advertising. The information collected is used to improve and deliver relevant advertising.
+
+To opt out of being tracked by Facebook, visit: <https://www.facebook.com/help/568137493302217>
+
+### Analytics: Chartbeat
+
+We use this technology to collect information about how visitors use our website. For example, we collect details of the site where the visitor has come from and the total number of times a visitor has been to our website.
+
+To opt out of being tracked by Chartbeat, visit: <https://static.chartbeat.com/opt-out.html>
+
+### Functionality: Facebook Connect
+
+We use this technology to allow users to share their experiences with our apps and websites on Facebook. For example, we may collect your browser information, demographic data, and interaction data.
+
+To opt out of being tracked by Facebook Connect, visit: <https://www.facebook.com/help/211829542181913?helpref=faq_content>
+
+### Analytics: AvantLink
+
+We use this technology to track referrals to third-party web retailers when you buy a product linked from our site. 
+
+### Analytics: New Relic
+
+We use this technology to collect information about how visitors use our website. For example, we collect details of the site where the visitor has come from and the total number of times a visitor has been to our website.
+
+To opt out of being tracked by New Relic, visit: <https://newrelic.com/termsandconditions/privacy>
+
+### Analytics: Moat
+
+We use this technology to collect information about how visitors use our website. For example, we collect details about the ads and video content a visitor as viewed or interacted with. To opt out of being tracked by Moat, visit: <https://moat.com/privacy#your_choice>
+
+### Controlling Our Use of Tracking Technologies
+
+You may control our use of cookies. How you do so depends on the type of cookie. You can configure your browser to reject browser cookies. To find out more about how to enable, disable, or delete cookies from your web browsers, click [here](http://optout.aboutads.info/). To control flash cookies, click [here](https://www.tacobell.com/legal-notices/%E2%80%9Dhttp:/www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html%E2%80%9D). Why? Because flash cookies do not reside in your browser, and thus your browser settings will not affect them. If you configure your computer to block cookies, you may not be able to access certain functionality on our platforms.
+
+### Our Do-Not-Track Policy
+
+Some web browsers have “do not track” features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals. If you block cookies, certain features on our platforms may not work. If you block or reject cookies, not all of the tracking described here will stop. Options you select are browser and device specific.
+
+### We engage in interest-based advertising.
+
+We and our partners display interest-based advertising using information gathered about you over time across multiple platforms or devices.
+
+Interest-based advertising (or “online behavioral advertising”) includes ads served to you after you leave our platform, encouraging you to return. They also include ads we think are relevant based on your shopping habits or online activities. These ads might be served on websites or on apps. They might also be served in emails. We might serve these ads, or third parties may serve ads. They might be about our products or other companies’ products.
+
+### How do we gather relevant information about you for interest-based advertising?
+
+To decide what is relevant to you, we use information that you make available to us when you interact with us, our affiliates, and other third parties. We gather this information using the tracking tools described above. For example, we or our partners might look at your purchases or browsing behaviors. We might look at these activities on our platforms or the platforms of others. We work with third parties who help gather this information. These third parties might link your name or email address to other information they collect. That might include past purchases made offline or online. Or, it might include online usage information.
+
+### Opting Out of Receiving Seeing Tracking-Based Ads
+
+The Self-Regulatory Program for Online Behavioral Advertising program provides consumers with the ability to opt out of having their online behavior recorded and used for advertising purposes. If you want to opt out from participating companies, visit this page. Choices you make are both browser- and device-specific.
+
+Some of the tracking technologies we may use do not participate in the Self-Regulatory Program for Online Behavioral Advertising. This means you will not be opted out by following the instructions above. Instead, see the chart above to get more information about how to opt out of that tracker’s cookies.
+
+The Digital Advertising Alliance also offers a tool for opting out of the collection of cross-app data on a mobile device for interest-based advertising. To exercise choice for companies participating in this tool, download the AppChoices app [here](http://youradchoices.com/appchoices).
+
+If you opt out of online behavioral advertising (or interest-based advertising) or reject cookies, this will not stop you from seeing advertising—this will just not be tailored to your interests and therefore is less likely to be relevant to you.
+
+Certain choices you make are both browser- and device-specific.
+
+**Contact:  **If you have any questions about this cookie policy or our treatment of your personal data, please contact us at privacy@outsideim.com. You can call us at 312-222-1100. If you would like to write to us, our address is Outside Integrated Media, LLC, 444 North Michigan Ave. Suite 3350, Chicago IL 60611.
+
+Lead Photo: Nick Kelley
