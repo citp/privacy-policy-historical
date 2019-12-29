@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneindia.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630024811id_/https%3A//www.oneindia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneindia.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229182523id_/https%3A//www.oneindia.com/privacy.html) for the most accurate reproduction.*
 
 # Oneindia | Privacy Policy
 
@@ -65,6 +65,3 @@ One.in retains unconditional right to modify or amend this Policy without any re
 
 
 
-
-#### For Breaking News from Oneindia  
-Get instant news updates throughout the day.
