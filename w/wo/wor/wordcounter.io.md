@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordcounter.io privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508072448id_/https%3A//wordcounter.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordcounter.io privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229073603id_/https%3A//wordcounter.io/privacy-policy) for the most accurate reproduction.*
 
-# Contact – Word Counter
+# Privacy Policy – Word Counter
 
 ## Introduction
 
