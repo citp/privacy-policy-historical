@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tado.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403060106id_/https%3A//www.tado.com/us/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tado.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229105221id_/https%3A//www.tado.com/us/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies | tado°
 
