@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayiq.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625024634id_/http%3A//www.holidayiq.com/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayiq.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229044626id_/http%3A//www.holidayiq.com/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HolidayIQ.com
 
@@ -64,5 +64,16 @@ Amendment of this policy
 HIQ and/or the Company may from time to time amend this policy. When this policy is so amended, the last date of such amendment shall be indicated on this policy under the legend "Revised on 10 August 2014". In the event the amendment of this policy results in an enlargement of the scope of permitted disclosures of personally identifiable information, we shall obtain your consent before such disclosure. 
 
 If you have questions about our privacy statement or our use of your information, or if you need help changing the information provided to us, please contact us by [clicking here](http://www.holidayiq.com/contactus.php)
+
+This page is published and shall be construed in accordance with the provisions of Rule 3(11) of the Information Technology (Intermediaries Guidelines) Rules, 2011 (?IT Rules?) that requires publishing the name of the Grievance Officer and his/her contact details on the website, such that users or any victim who suffers as a result of a violation of Rule 3 (outlined in our Privacy Policy and Terms of Use) by any other person, can notify their complaints to us. 
+
+Further, as per Rule 3(4) of the IT Rules, the Grievance Officer shall acknowledge or respond to Your communication of violation of Rule 3, by any other person, within 36 (thirty six) hours, and the complaints shall be redressed within 1 (one) month from the date of receipt of the complaint. 
+
+In accordance with Information Technology Act, 2000 and rules made there under, the name and the contact details of the Grievance Officer are provided below: 
+
+Ms. Anusha Jha   
+Address: # 3796, 7th Main, HAL II Stage, Bangalore - 560008   
+Phone Number:080-40851222   
+Email ID: grievance.officer@holidayiq.com 
 
 If you do not wish to receive any further information about us, our products and our services, [please click here to unsubscribe.](http://www.holidayiq.com/unsubscribe.php)
