@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the thesabre.com privacy policy that was archived on 2019-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190331183056id_/https%3A//virginia.sportswar.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thesabre.com privacy policy that was archived on 2019-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191229104426id_/https%3A//virginia.sportswar.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: //ogp.me/ns#" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><head>
+<!DOCTYPE html><html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes">
 <link rel="profile" href="https://gmpg.org/xfn/11">
@@ -15,10 +15,16 @@
 </script>
 
 <script>
-  var sovrn = true;
+  var sovrn = false;
   var is_iPad = navigator.userAgent.match(/iPad/i) != null;
+  var is_safari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
   if(is_iPad){
     sovrn = false;
+  }
+  var is_mb = false;
+  if (window.location.href.indexOf("message_board") > -1) {
+    console.log("is mb");
+    is_mb = true;
   }
   var width = window.innerWidth 
     || document.documentElement.clientWidth 
@@ -32,12 +38,15 @@
     googletag.defineSlot('/1043154/TheSabre_300x600_3', [300, 600], 'div-gpt-swad-300x600_3').setCollapseEmptyDiv(true).addService(googletag.pubads());
     googletag.defineSlot('/1043154/TheSabre_336x280', [336, 280], 'div-gpt-swad-336x280').addService(googletag.pubads());
     if(width >= 700){
+    googletag.defineSlot('/1043154/TheSabre_300x250_Video', [300, 250], 'div-gpt-swad-300x250_video').addService(googletag.pubads());
     googletag.defineSlot('/1043154/TheSabre_728x90', [728, 90], 'div-gpt-swad-site_header').addService(googletag.pubads());
     googletag.defineSlot('/1043154/TheSabre_728x90_2', [728, 90], 'div-gpt-swad-728x90_2').setCollapseEmptyDiv(true).addService(googletag.pubads());
     googletag.defineSlot('/1043154/TheSabre_728x90_3', [728, 90], 'div-gpt-swad-728x90_3').setCollapseEmptyDiv(true).addService(googletag.pubads());
     }else{
     googletag.defineSlot('/1043154/TheSabre_320x50', [320, 50], 'div-gpt-swad-site_header').setCollapseEmptyDiv(true).addService(googletag.pubads());
-    googletag.defineSlot('/1043154/TheSabre_320x50_fixed', [320, 50], 'div-gpt-swad-320x50_fixed').setCollapseEmptyDiv(true).addService(googletag.pubads());
+      if(!is_safari){
+   		 googletag.defineSlot('/1043154/TheSabre_320x50_fixed', [320, 50], 'div-gpt-swad-320x50_fixed').setCollapseEmptyDiv(true).addService(googletag.pubads());
+      }
     }
     googletag.defineSlot('/1043154/TheSabre_mbadindex0', [[728, 90], [336, 280]], 'div-gpt-swad-MBAdIndex0').defineSizeMapping(mb_inline).setCollapseEmptyDiv(true).addService(googletag.pubads());
     googletag.defineSlot('/1043154/TheSabre_mbadindex1', [[728, 90], [336, 280]], 'div-gpt-swad-MBAdIndex1').defineSizeMapping(mb_inline).setCollapseEmptyDiv(true).addService(googletag.pubads());
@@ -49,6 +58,32 @@
     googletag.defineSlot('/1043154/TheSabre_mbpostinline', [[728, 90], [336, 280]], 'div-gpt-swad-mbpostinline').defineSizeMapping(mb_inline).setCollapseEmptyDiv(true).addService(googletag.pubads());
     googletag.enableServices();
   });
+</script>
+
+<!-- //Connect Container: virginia.sportswar.com-->
+<script src="//get.s-onetag.com/7c84dfc9-6339-46ce-afe8-7c9969f662d1/tag.min.js" async="" defer=""></script>
+
+<script type="application/javascript" src="//ced.sascdn.com/tag/3265/smart.js" async=""></script>
+<script type="application/javascript">
+    var sas = sas || {};
+    sas.cmd = sas.cmd || [];
+    sas.cmd.push(function() {
+        sas.setup({ networkid: 3265, domain: "//www15.smartadserver.com", async: true });
+    });
+    sas.cmd.push(function() {
+        sas.call("onecall", {
+            siteId: 297209,
+            pageId: 1090866,
+            formats: [
+                 { id: 71430 }
+                ,{ id: 73807 }
+                ,{ id: 71427 }
+                ,{ id: 77934 }
+                ,{ id: 71428 }
+            ],
+            target: ''
+        });
+    });
 </script>
 
 <!-- Begin Taboola code -->
@@ -82,7 +117,9 @@
        max-height: 50px;
     }
   }
-</style><script>
+</style>
+<script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js"></script>
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -91,19 +128,16 @@
   ga('create', 'UA-2646083-2', 'auto');
   ga('send', 'pageview');
 
-</script><title>Privacy Policy | TheSabre.com</title>
+</script><title>Privacy Policy | TheSabre.com</title><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Play%7COpen%20Sans&amp;subset=">
 
 <!-- This site is optimized with the Yoast SEO plugin v4.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="https://virginia.sportswar.com/privacy-policy/">
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//ws.sharethis.com">
-<link rel="dns-prefetch" href="//apis.google.com">
 <link rel="alternate" type="application/rss+xml" title="TheSabre.com » Feed" href="https://virginia.sportswar.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="TheSabre.com » Comments Feed" href="https://virginia.sportswar.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="TheSabre.com » Privacy Policy Comments Feed" href="https://virginia.sportswar.com/privacy-policy/feed/">
-<link rel="stylesheet" id="tt-public-css-main-css" href="https://virginia.sportswar.com/wp-content/plugins/tweetthis/assets/css/public-main.css" type="text/css" media="all">
-<link rel="stylesheet" id="tt-public-css-theme-css" href="https://virginia.sportswar.com/wp-content/plugins/tweetthis/assets/css/themes/light_hc.css" type="text/css" media="all">
 <link rel="stylesheet" id="wp-polls-css" href="https://virginia.sportswar.com/wp-content/plugins/wp-polls/polls-css.css" type="text/css" media="all">
 <style id="wp-polls-inline-css" type="text/css">
 .wp-polls .pollbar {
@@ -133,11 +167,12 @@
 }
                 
 </style>
+<link rel="stylesheet" id="tt-public-css-main-css" href="https://virginia.sportswar.com/wp-content/plugins/tweetthis/assets/css/public-main.css" type="text/css" media="all">
+<link rel="stylesheet" id="tt-public-css-theme-css" href="https://virginia.sportswar.com/wp-content/plugins/tweetthis/assets/css/themes/light_hc.css" type="text/css" media="all">
 <link rel="stylesheet" id="woocommerce-layout-css" href="https://virginia.sportswar.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css" type="text/css" media="all">
 <link rel="stylesheet" id="woocommerce-smallscreen-css" href="https://virginia.sportswar.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css" type="text/css" media="only screen and (max-width: 768px)">
 <link rel="stylesheet" id="woocommerce-general-css" href="https://virginia.sportswar.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css" type="text/css" media="all">
 <link rel="stylesheet" id="wprssmi_template_styles-css" href="https://virginia.sportswar.com/wp-content/plugins/wp-rss-multi-importer/templates/templates.css" type="text/css" media="all">
-<link rel="stylesheet" id="yop-public-css" href="https://virginia.sportswar.com/wp-content/plugins/yop-poll/public/assets/css/yop-poll-public.css" type="text/css" media="all">
 <link rel="stylesheet" id="dashicons-css" href="https://virginia.sportswar.com/wp-includes/css/dashicons.min.css" type="text/css" media="all">
 <link rel="stylesheet" id="thickbox-css" href="https://virginia.sportswar.com/wp-includes/js/thickbox/thickbox.css" type="text/css" media="all">
 <link rel="stylesheet" id="remodal-css" href="https://virginia.sportswar.com/wp-content/themes/sportswar-3/sw/assets/lib/remodal/remodal.css" type="text/css" media="all">
@@ -146,15 +181,8 @@
 <link rel="stylesheet" id="tablepress-default-css" href="https://virginia.sportswar.com/wp-content/uploads/sites/14/tablepress-combined.min.css" type="text/css" media="all">
 <script type="text/javascript" src="https://virginia.sportswar.com/wp-includes/js/jquery/jquery.js"></script>
 <script type="text/javascript" src="https://virginia.sportswar.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
-<script type="text/javascript" src="https://virginia.sportswar.com/wp-content/plugins/tweetthis/assets/js/tweet-this-box.js"></script>
 <script id="st_insights_js" type="text/javascript" src="https://ws.sharethis.com/button/st_insights.js?publisher=4d48b7c5-0ae3-43d4-bfbe-3ff8c17a8ae6&amp;product=simpleshare"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var objectL10n = {"yopPollParams":{"urlParams":{"ajax":"https:\/\/virginia.sportswar.com\/wp-admin\/admin-ajax.php","wpLogin":"https:\/\/virginia.sportswar.com\/wp-login.php?redirect_to=https%3A%2F%2Fvirginia.sportswar.com%2Fwp-admin%2Fadmin-ajax.php%3Faction%3Dyop_poll_record_wordpress_vote"},"apiParams":{"facebook":{"appId":""},"google":{"apiKey":"","clientId":""}},"captchaParams":{"imgPath":"https:\/\/virginia.sportswar.com\/wp-content\/plugins\/yop-poll\/public\/assets\/img\/","url":"https:\/\/virginia.sportswar.com\/wp-content\/plugins\/yop-poll\/app.php","accessibilityAlt":"Sound icon","accessibilityTitle":"Accessibility option: listen to a question and answer it!","accessibilityDescription":"Type below the <strong>answer<\/strong> to what you hear. Numbers or words:","explanation":"Click or touch the <strong>ANSWER<\/strong>","refreshAlt":"Refresh\/reload icon","refreshTitle":"Refresh\/reload: get new images and accessibility option!"},"voteParams":{"invalidPoll":"Invalid Poll","noAnswersSelected":"No answer selected","minAnswersRequired":"At least {min_answers_allowed} answer(s) required","maxAnswersRequired":"A max of {max_answers_allowed} answer(s) accepted","noAnswerForOther":"No other answer entered","noValueForCustomField":"{custom_field_name} is required","consentNotChecked":"You must agree to our terms and conditions","noCaptchaSelected":"Captcha is required","thankYou":"Thank you for your vote"},"resultsParams":{"singleVote":"vote","multipleVotes":"votes"}}};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://virginia.sportswar.com/wp-content/plugins/yop-poll/public/assets/js/yop-poll-public.min.js"></script>
-<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<script type="text/javascript" src="https://virginia.sportswar.com/wp-content/plugins/tweetthis/assets/js/tweet-this-box.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var photocrati_ajax = {"url":"https:\/\/virginia.sportswar.com\/?photocrati_ajax=1","wp_home_url":"https:\/\/virginia.sportswar.com","wp_site_url":"https:\/\/virginia.sportswar.com","wp_root_url":"https:\/\/virginia.sportswar.com","wp_plugins_url":"https:\/\/virginia.sportswar.com\/wp-content\/plugins","wp_content_url":"https:\/\/virginia.sportswar.com\/wp-content","wp_includes_url":"https:\/\/virginia.sportswar.com\/wp-includes\/","ngg_param_slug":"nggallery"};
@@ -165,12 +193,12 @@ var photocrati_ajax = {"url":"https:\/\/virginia.sportswar.com\/?photocrati_ajax
 <link rel="https://api.w.org/" href="https://virginia.sportswar.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://virginia.sportswar.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://virginia.sportswar.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.7.9">
+<meta name="generator" content="WordPress 4.7.16">
 <meta name="generator" content="WooCommerce 3.3.5">
 <link rel="shortlink" href="https://virginia.sportswar.com/?p=171">
 <link rel="alternate" type="application/json+oembed" href="https://virginia.sportswar.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvirginia.sportswar.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://virginia.sportswar.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvirginia.sportswar.com%2Fprivacy-policy%2F&amp;format=xml">
-<link rel="stylesheet" type="text/css" href="https://virginia.sportswar.com/wp-content/plugins/menu-on-footer/menu_on_footer.css" media="screen"><script>(function(d, s, id){
+<script>(function(d, s, id){
                  var js, fjs = d.getElementsByTagName(s)[0];
                  if (d.getElementById(id)) {return;}
                  js = d.createElement(s); js.id = id;
@@ -201,7 +229,7 @@ var photocrati_ajax = {"url":"https:\/\/virginia.sportswar.com\/?photocrati_ajax
 									
 									font-weight: light;
 								}
-								</style><!-- <meta name="NextGEN" version="3.0.1" /> -->
+								</style><!-- <meta name="NextGEN" version="3.2.4" /> -->
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<link rel="icon" href="https://virginia.sportswar.com/wp-content/uploads/sites/14/2017/03/cropped-sabre-s-square-32x32.png" sizes="32x32">
 <link rel="icon" href="https://virginia.sportswar.com/wp-content/uploads/sites/14/2017/03/cropped-sabre-s-square-192x192.png" sizes="192x192">
@@ -250,8 +278,8 @@ display:none;
  <!-- Misc. tags -->
 <!-- END - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.8.2 -->
 
-<link href="//virginia.sportswar.com/sass/wordpress/css/virginia.sportswar.com_1_1.css?bust=5ca107609bd11" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Play" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+<link href="//virginia.sportswar.com/sass/wordpress/css/virginia.sportswar.com_1_1.css?bust=5e027ddc43e48" rel="stylesheet" type="text/css">
+
 <script type="text/javascript" src="//virginia.sportswar.com/wp-content/themes/sportswar-6/sw/assets/js/stickyfill.min.js"></script>
 <script type="text/javascript" src="//virginia.sportswar.com/wp-content/themes/sportswar-6/sw/assets/js/jquery.lazyload-any.min.js"></script>
 <script type="text/javascript" src="//virginia.sportswar.com/wp-content/themes/sportswar-6/sw/assets/js/swmain_3.js"></script>
@@ -276,7 +304,7 @@ display:none;
                             nodejs_salt = result.nodejs_salt;
                         }
               </script>
-              <script type="text/javascript" src="https://acc.sportswar.com/am_mobi.php?subdomain=virginia&amp;ver=1875461694">
+              <script type="text/javascript" src="https://acc.sportswar.com/am_mobi.php?subdomain=virginia&amp;ver=1585229060">
               </script>
 
 	<div class="login">
@@ -307,7 +335,7 @@ display:none;
                   <p>Password: <input id="amember_login_password" type="password" name="amember_pass"></p>
                   <script>
                   document.write("<input type='hidden' name='amember_redirect_url' value='"+ window.location.protocol + "//" + window.location.hostname + window.location.pathname + "'>");
-                  </script><input type="hidden" name="amember_redirect_url" value="https://web.archive.org/web/20190331183056id_/https://virginia.sportswar.com/privacy-policy/">
+                  </script><input type="hidden" name="amember_redirect_url" value="https://web.archive.org/web/20191229104426id_/https://virginia.sportswar.com/privacy-policy/">
                   <input type="submit" style="display:none;">
                   </form>
                   <br>
@@ -341,7 +369,7 @@ display:none;
   }else{
   	googletag.cmd.push(function() { googletag.display('div-gpt-swad-site_header'); });
   }
-</script><script type="text/javascript" src="//ap.lijit.com/www/delivery/fpi.js?z=486161&amp;width=728&amp;height=90"></script>
+</script>
 </div>
 </center>
 
@@ -391,12 +419,13 @@ display:none;
 <ul class="sub-menu">
 	<li id="menu-item-215" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-215"><a href="https://virginia.sportswar.com/category/article/football-recruiting/">Football Updates – Edge</a></li>
 	<li id="menu-item-216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-216"><a href="https://virginia.sportswar.com/player/football/search/">Football Prospects</a></li>
-	<li id="menu-item-217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217"><a href="https://virginia.sportswar.com/player/football/2019-uva-commit/">2019 Football Commits</a></li>
-	<li id="menu-item-218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218"><a href="https://virginia.sportswar.com/player/football/2018-uva-signee/">2018 Football Signees</a></li>
-	<li id="menu-item-1276476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1276476"><a href="https://virginia.sportswar.com/virginia-cavaliers-2018-football-recruiting-target-board/">Virginia Cavaliers 2019 Football Recruiting Target Board</a></li>
+	<li id="menu-item-217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217"><a href="https://virginia.sportswar.com/player/football/2020-uva-commit/">2020 Football Commits</a></li>
+	<li id="menu-item-218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218"><a href="https://virginia.sportswar.com/player/football/2019-uva-signee/">2019 Football Signees</a></li>
+	<li id="menu-item-1276476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1276476"><a href="https://virginia.sportswar.com/virginia-cavaliers-2018-football-recruiting-target-board/">Virginia Cavaliers 2020 Football Recruiting Target Board</a></li>
 	<li id="menu-item-219" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-219"><a href="https://virginia.sportswar.com/category/article/basketball-recruiting/">Basketball Updates – Edge</a></li>
 	<li id="menu-item-220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220"><a href="https://virginia.sportswar.com/player/basketball/search/">Basketball Prospects</a></li>
-	<li id="menu-item-222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-222"><a href="https://virginia.sportswar.com/player/basketball/2018-va-signee/">2018 Basketball Signees</a></li>
+	<li id="menu-item-2246661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2246661"><a href="https://virginia.sportswar.com/player/basketball/2020-uva-commit/">2020 Basketball Commits</a></li>
+	<li id="menu-item-222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-222"><a href="https://virginia.sportswar.com/player/basketball/2020-va-signee/">2020 Basketball Signees</a></li>
 	<li id="menu-item-417150" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-417150"><a href="https://virginia.sportswar.com/virginia-recruiting/virginia-mens-basketball-scholarship-picture/">Men’s Basketball Scholarship Picture</a></li>
 	<li id="menu-item-225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a href="https://virginia.sportswar.com/virginia-recruiting/">More Recruiting</a></li>
 </ul>
@@ -425,14 +454,14 @@ display:none;
 <ul class="sub-menu">
 	<li id="menu-item-92504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92504"><a href="https://virginia.sportswar.com/football/">Football</a></li>
 	<li id="menu-item-92506" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92506"><a href="https://virginia.sportswar.com/basketball/">Men’s Basketball</a></li>
-	<li id="menu-item-276" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-276"><a target="_blank" href="http://www.virginiasports.com/sports/w-baskbl/va-w-baskbl-body.html">Women’s Basketball</a></li>
-	<li id="menu-item-279" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-279"><a target="_blank" href="http://www.virginiasports.com/sports/m-basebl/va-m-basebl-body.html">Baseball</a></li>
-	<li id="menu-item-278" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-278"><a target="_blank" href="http://www.virginiasports.com/sports/m-lacros/va-m-lacros-body.html">Men’s Lacrosse</a></li>
-	<li id="menu-item-280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-280"><a target="_blank" href="http://www.virginiasports.com/sports/m-soccer/va-m-soccer-body.html">Men’s Soccer</a></li>
-	<li id="menu-item-281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-281"><a target="_blank" href="http://www.virginiasports.com/sports/m-tennis/va-m-tennis-body.html">Men’s Tennis</a></li>
-	<li id="menu-item-282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-282"><a target="_blank" href="http://www.virginiasports.com/sports/m-golf/va-m-golf-body.html">Men’s Golf</a></li>
-	<li id="menu-item-284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-284"><a target="_blank" href="http://www.virginiasports.com/">All UVa Sports</a></li>
-	<li id="menu-item-283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-283"><a href="http://www.virginiasports.com/calendar/events/">UVa Sports Calendar</a></li>
+	<li id="menu-item-276" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-276"><a target="_blank" href="https://virginiasports.com/index.aspx?path=wbball">Women’s Basketball</a></li>
+	<li id="menu-item-279" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-279"><a target="_blank" href="https://virginiasports.com/index.aspx?path=baseball">Baseball</a></li>
+	<li id="menu-item-278" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-278"><a target="_blank" href="https://virginiasports.com/index.aspx?path=mlax">Men’s Lacrosse</a></li>
+	<li id="menu-item-280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-280"><a target="_blank" href="https://virginiasports.com/index.aspx?path=msoc">Men’s Soccer</a></li>
+	<li id="menu-item-281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-281"><a target="_blank" href="https://virginiasports.com/index.aspx?path=mten">Men’s Tennis</a></li>
+	<li id="menu-item-282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-282"><a target="_blank" href="https://virginiasports.com/index.aspx?path=mgolf">Men’s Golf</a></li>
+	<li id="menu-item-284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-284"><a target="_blank" href="http://www.virginiasports.com/">All UVA Sports</a></li>
+	<li id="menu-item-283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-283"><a href="http://www.virginiasports.com/calendar/events/">UVA Sports Calendar</a></li>
 </ul>
 </li>
 <li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-307"><a href="https://virginia.sportswar.com/wahoowa/">WAHOOWA!</a>
@@ -539,20 +568,24 @@ TheSabre.com’s advertising partners may place a cookie on your browser that ma
   }else{
   	googletag.cmd.push(function() { googletag.display('div-gpt-swad-728x90_3'); });
   }
-</script><script type="text/javascript" src="//ap.lijit.com/www/delivery/fpi.js?z=486154&amp;width=728&amp;height=90"></script>
+</script>
 </div>
 </center>
 </div>
 </div>		</div>
 	</div><!-- #primary -->
     <div id="page_sidebar_rail_right">
-        <div id="ws_widget__ad_codes-122" class="widget ad-codes"><h2 class="widgettitle">Get the Sabre Edge!</h2>
+        <div id="ws_widget__ad_codes-150" class="widget ad-codes"><div style="margin: 0 auto 0 auto; text-align:center;">
+<!-- /1043154/TheSabre_300x250_Video -->
+<div id="div-gpt-swad-300x250_video" style="width: 300px; height: 250px;">
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-swad-300x250_video'); });
+  </script>
+</div>
+</div>
+</div><div id="ws_widget__ad_codes-122" class="widget ad-codes"><h2 class="widgettitle">Get the Sabre Edge!</h2>
 <div style="margin: 0 auto 0 auto; text-align:center;">
 <a target="_blank" href="https://virginia.sportswar.com/subscribe-now/"><img src="https://virginia.sportswar.com/wp-content/uploads/sites/14/2018/10/subscription_prices_home_page_ad_pergola_2018.jpg" alt="Subscribe to TheSabre.com!"></a>
-</div>
-</div><div id="ws_widget__ad_codes-140" class="widget ad-codes"><h2 class="widgettitle">Support Us: Shop at Amazon!</h2>
-<div style="margin: 0 auto 0 auto; text-align:center;">
-<a target="_blank" href="https://www.amazon.com/?&amp;_encoding=UTF8&amp;tag=thesabre-20&amp;linkCode=ur2&amp;linkId=79b4209c8234ae63375abeae5c2b8b2c&amp;camp=1789&amp;creative=9325"><img src="https://virginia.sportswar.com/wp-content/uploads/sites/14/2017/07/amazon_button_300x75.jpg"></a><br><img src="//ir-na.amazon-adsystem.com/e/ir?t=thesabre-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">
 </div>
 </div><div id="ws_widget__ad_codes-111" class="widget ad-codes"><div style="margin: 0 auto 0 auto; text-align:center;">
 <!-- Sportswar Ad 300x600_1 -->
@@ -563,7 +596,7 @@ TheSabre.com’s advertising partners may place a cookie on your browser that ma
   }else{
   	googletag.cmd.push(function() { googletag.display('div-gpt-swad-300x600_1'); });
   }
-</script><script type="text/javascript" src="//ap.lijit.com/www/delivery/fpi.js?z=486121&amp;width=300&amp;height=600"></script>
+</script>
 </div>
 </div>
 </div>    </div>
@@ -577,7 +610,7 @@ TheSabre.com’s advertising partners may place a cookie on your browser that ma
   }else{
   	googletag.cmd.push(function() { googletag.display('div-gpt-swad-300x600_2'); });
   }
-</script><script type="text/javascript" src="//ap.lijit.com/www/delivery/fpi.js?z=486122&amp;width=300&amp;height=600"></script>
+</script>
 </div>
 </div>
 </div>    </div>
@@ -646,18 +679,18 @@ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax
 <script type="text/javascript">
 /* <![CDATA[ */
 
-var nextgen_lightbox_settings = {"static_path":"https:\/\/virginia.sportswar.com\/wp-content\/plugins\/nextgen-gallery\/products\/photocrati_nextgen\/modules\/lightbox\/static","context":"all_images_direct"};
+var nextgen_lightbox_settings = {"static_path":"","context":"all_images_direct"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://virginia.sportswar.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/common.min.js"></script>
+<script type="text/javascript" src="https://virginia.sportswar.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/common.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 
 var nextgen_thickbox_i18n = {"next":"Next &gt;","prev":"&lt; Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://virginia.sportswar.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.min.js"></script>
-<script type="text/javascript" src="https://virginia.sportswar.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/thickbox/nextgen_thickbox_init.min.js"></script>
+<script type="text/javascript" src="https://virginia.sportswar.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.js"></script>
+<script type="text/javascript" src="https://virginia.sportswar.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/thickbox/nextgen_thickbox_init.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/virginia.sportswar.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
@@ -668,7 +701,12 @@ var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","c
 <script type="text/javascript" src="https://virginia.sportswar.com/wp-content/themes/sportswar-6/js/skip-link-focus-fix.js"></script>
 <script type="text/javascript" src="https://virginia.sportswar.com/wp-content/plugins/page-links-to/js/new-tab.min.js"></script>
 <script type="text/javascript" src="https://virginia.sportswar.com/wp-includes/js/wp-embed.min.js"></script>
-<div id="mobile_nav">
+<script>
+var lazyLoadInstance = new LazyLoad({
+  elements_selector: ".lazy",
+  threshold: "2400"
+});
+</script><div id="mobile_nav">
 <div class="menu-secondary-menu-container"><ul id="mobile-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-94473"><a href="https://virginia.sportswar.com/chat-board-index/">MESSAGE BOARDS</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-371122"><a href="https://virginia.sportswar.com/whatsnew/">What’s New? (Latest Posts)</a></li>
@@ -691,12 +729,13 @@ var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","c
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-215"><a href="https://virginia.sportswar.com/category/article/football-recruiting/">Football Updates – Edge</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-216"><a href="https://virginia.sportswar.com/player/football/search/">Football Prospects</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217"><a href="https://virginia.sportswar.com/player/football/2019-uva-commit/">2019 Football Commits</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218"><a href="https://virginia.sportswar.com/player/football/2018-uva-signee/">2018 Football Signees</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1276476"><a href="https://virginia.sportswar.com/virginia-cavaliers-2018-football-recruiting-target-board/">Virginia Cavaliers 2019 Football Recruiting Target Board</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217"><a href="https://virginia.sportswar.com/player/football/2020-uva-commit/">2020 Football Commits</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218"><a href="https://virginia.sportswar.com/player/football/2019-uva-signee/">2019 Football Signees</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1276476"><a href="https://virginia.sportswar.com/virginia-cavaliers-2018-football-recruiting-target-board/">Virginia Cavaliers 2020 Football Recruiting Target Board</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-219"><a href="https://virginia.sportswar.com/category/article/basketball-recruiting/">Basketball Updates – Edge</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220"><a href="https://virginia.sportswar.com/player/basketball/search/">Basketball Prospects</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-222"><a href="https://virginia.sportswar.com/player/basketball/2018-va-signee/">2018 Basketball Signees</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2246661"><a href="https://virginia.sportswar.com/player/basketball/2020-uva-commit/">2020 Basketball Commits</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-222"><a href="https://virginia.sportswar.com/player/basketball/2020-va-signee/">2020 Basketball Signees</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-417150"><a href="https://virginia.sportswar.com/virginia-recruiting/virginia-mens-basketball-scholarship-picture/">Men’s Basketball Scholarship Picture</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a href="https://virginia.sportswar.com/virginia-recruiting/">More Recruiting</a></li>
 </ul>
@@ -725,14 +764,14 @@ var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","c
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92504"><a href="https://virginia.sportswar.com/football/">Football</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92506"><a href="https://virginia.sportswar.com/basketball/">Men’s Basketball</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-276"><a target="_blank" href="http://www.virginiasports.com/sports/w-baskbl/va-w-baskbl-body.html">Women’s Basketball</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-279"><a target="_blank" href="http://www.virginiasports.com/sports/m-basebl/va-m-basebl-body.html">Baseball</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-278"><a target="_blank" href="http://www.virginiasports.com/sports/m-lacros/va-m-lacros-body.html">Men’s Lacrosse</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-280"><a target="_blank" href="http://www.virginiasports.com/sports/m-soccer/va-m-soccer-body.html">Men’s Soccer</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-281"><a target="_blank" href="http://www.virginiasports.com/sports/m-tennis/va-m-tennis-body.html">Men’s Tennis</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-282"><a target="_blank" href="http://www.virginiasports.com/sports/m-golf/va-m-golf-body.html">Men’s Golf</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-284"><a target="_blank" href="http://www.virginiasports.com/">All UVa Sports</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-283"><a href="http://www.virginiasports.com/calendar/events/">UVa Sports Calendar</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-276"><a target="_blank" href="https://virginiasports.com/index.aspx?path=wbball">Women’s Basketball</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-279"><a target="_blank" href="https://virginiasports.com/index.aspx?path=baseball">Baseball</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-278"><a target="_blank" href="https://virginiasports.com/index.aspx?path=mlax">Men’s Lacrosse</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-280"><a target="_blank" href="https://virginiasports.com/index.aspx?path=msoc">Men’s Soccer</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-281"><a target="_blank" href="https://virginiasports.com/index.aspx?path=mten">Men’s Tennis</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-282"><a target="_blank" href="https://virginiasports.com/index.aspx?path=mgolf">Men’s Golf</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-284"><a target="_blank" href="http://www.virginiasports.com/">All UVA Sports</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-283"><a href="http://www.virginiasports.com/calendar/events/">UVA Sports Calendar</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-307"><a href="https://virginia.sportswar.com/wahoowa/">WAHOOWA!</a>
@@ -781,4 +820,5 @@ var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","c
 
 <endfooter></endfooter>
 
-</body></html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1577221596 --></body></html>
