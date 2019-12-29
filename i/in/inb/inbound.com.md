@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inbound.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629222832id_/https%3A//legal.hubspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inbound.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229054127id_/https%3A//legal.hubspot.com/privacy-policy) for the most accurate reproduction.*
 
 # HubSpot Privacy Policy
 
@@ -104,7 +104,7 @@ We use a variety of security technologies and procedures to help protect your Pe
 
 **Social Media Features**
 
-Our Websites include Social Media Features, such as the Facebook Like button and Widgets, such as the Share This button or interactive mini-programs that run on our sites. These features may collect your IP address, which page you are visiting on our sites, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Websites. This Privacy Policy does not apply to these features.  Your interactions with these features are governed by the privacy policy and other policies of the companies providing them.
+Our Websites include Social Media Features, such as the Facebook Like button and Widgets, such as the Share Button or interactive mini-programs that run on our sites. These features may collect your IP address, which page you are visiting on our sites, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Websites. This Privacy Policy does not apply to these features.  Your interactions with these features are governed by the privacy policy and other policies of the companies providing them.
 
 **External Websites**
 
