@@ -1,158 +1,248 @@
-> *The following text is extracted and transformed from the guitarcenter.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626061610id_/https%3A//www.guitarcenter.com/pages/privacy-rights-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarcenter.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229134246id_/https%3A//www.guitarcenter.com/pages/privacy-rights-policy) for the most accurate reproduction.*
 
 # Privacy Rights | Guitar Center
 
-**Last Revised: July 17, 2018**
-
 ## GUITAR CENTER PRIVACY POLICY
 
-This Guitar Center Privacy Policy ("Privacy Policy") applies to the website located at www.guitarcenter.com, the Guitar Center mobile application (the "App") and any other websites owned and operated by Guitar Center that direct the viewer or user to this Privacy Policy as well as other communications with Guitar Center as identified in this Privacy Policy. Collectively, we refer to www.guitarcenter.com, the App and any other website or mobile application owned or operated by Guitar Center, which refers its users to this Privacy Policy as the "Site." In this Privacy Policy, the terms "Guitar Center," "we," "our," and "us" refer to Guitar Center Stores, Inc. This Privacy Policy gives you details of our privacy practices, including: (a) what types of information we collect about you; (b) how the information will be used; (c) to whom we disclose the information; and (d) how we safeguard the information.
+**Last Revised: December 19, 2019**
 
-### Your Consent
+This Privacy Policy (" **Policy** ") describes how Guitar Center (" **Guitar Center** ," " **we** " or " **us** ") collects, uses, and discloses information related to our customers and prospective customers, visitors to Guitar Center retail stores, and users of our websites and mobile applications, as well as associated services (collectively, the " **Services** "). Your use of our Sites is subject to the Guitar Center Terms of Use, available at [www.guitarcenter.com/pages/terms-of-use](https://web.archive.org/pages/terms-of-use), which includes applicable terms governing limitations on liability and the resolution of disputes; this Policy is expressly incorporated by reference into the Guitar Center Terms of Use.
 
-By using the Site or providing personal information to us at our stores, or through our customer service department in connection with our products or Site or via email or text in response to a Guitar Center solicitation or communication, you are agreeing to allow Guitar Center to collect and use your information as described in the Privacy Policy. By using the Site you are also agreeing to our [Terms of Use](https://web.archive.org/pages/terms-of-use).
+### Overview of Our Collection and Use of Personal Information
 
-### What Information Does Guitar Center Collect and Why?
+This overview summarizes key information about our information practices, which are further explained below. Our collection and our use of your personal information varies depending upon the nature of our relationship and interactions. The table below provides a general overview of the categories of personal information we collect and the purposes for which we use such information.
 
-Information You Voluntarily Give Us
+**Categories of personal information we collect ******
 
-We may ask or allow you to provide us with personal information on a voluntary basis when you visit one of our stores, call, email or text us or use certain areas of the Site, and you will be required to provide personal information when you make purchases on the Site. The kinds of personal information that we may request may include, but is not limited to, your name, address, email address, telephone number, fax number and credit card information (collectively, "Personal Information"). In addition, the mobile version of the Site or the App may request access to the location of your mobile device. All such information will be treated in accordance with the terms of this Privacy Policy. 
+| 
 
-You may be required to register and create an account ("Account") to use certain areas of our Site. The email address and password used to create your Account can be used for the Site and the App. You are responsible for maintaining the confidentiality of your Account and are responsible for any activities that occur under your Account. 
+**How we use personal information**  
+  
+---|---  
+  
+_Name, contact information and other identifiers_ : identifiers such as a name, username, account name, address, phone number, email address, online identifier, IP address, government-issued identification numbers or other similar identifiers.
 
-In order to access some of the features of the Site, you must be signed in to your Account. You may also be able to sign in to the Site by using your social media log-in information. If you sign in through a social media service, we may collect the information in your profile that you have allowed the social media service to share with us. 
+| 
 
-IP Addresses and “Cookie” Information:
+_Providing support and services and operating our websites_
 
-As is the case with many websites, the Site logs your IP address and uses standard technology called "cookies," which are small data files that are downloaded onto your computer when you use the Site. Cookies automatically identify your browser to the guitarcenter.com server whenever you interact with the Site. We use cookies and the information they provide to improve the Site and the quality of your experience with the Site. We do not link IP addresses to your name, email address or other Personal Information. Certain kinds of cookies allow us to store your information to save you time in filling out forms on the Site. We only send this type of cookie to your browser when you have provided your consent for us to save your profile information.
+_Analyzing and improving our business_
 
-Web Beacons, Clear GIFs, and Other Technologies:
+_Personalizing content and experiences_
 
-The Site may also use "web beacons," "clear GIFs," or other technologies to obtain certain types of information when your web browser accesses the Site or when you are provided the opportunity to complete surveys, participate in a sweepstakes or other incentives related to the Site, or when you open or respond to any newsletter or other email you may have received from Guitar Center. These technologies may also be used to deliver cookies that conform to our cookie policy. These technologies may allow us to track your interaction with the Site from all of your devices, including personal computers, mobile devices, and/or tablets. Such cross-device tracking allows us to serve you with relevant advertisements on the most appropriate device.
+_Advertising, marketing and promotional purposes_
 
-Information from Third Parties:
+_Securing and protecting our business_
 
-Guitar Center may obtain additional information from third parties and add it to information we have collected from you.
+_Defending our legal rights_
 
-Information Collection on the App:
+_Auditing, reporting, corporate governance, and internal operations_
 
-The App may also request access to:
+_Complying with legal obligations_  
+  
+_Customer records_ : paper and electronic customer records containing personal information.  
+  
+_Protected classifications_ : characteristics of protected classifications under California or federal law such as race, sex, age, religion, national origin, disability and citizenship.  
+  
+_Commercial Information_ : including records of real property, products or services purchased, obtained, or considered, or other purchasing or use histories or tendencies.  
+  
+_Usage data_ : internet or other electronic network activity Information including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an Internet website, application, or advertisement.  
+  
+_Geolocation data_ : precise location information about a particular individual or device.  
+  
+_Audio, video and other electronic data_ : audio, electronic, visual, thermal, olfactory, or similar information such as, CCTV footage, photographs, and call recordings.  
+  
+_Employment history_ : professional or employment-related information.  
+  
+_Education information_ : education information and records.  
+  
+_Profiles and inferences_ : Inferences drawn from any of the information identified above to create a profile reflecting a resident’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes.  
+  
+Individual rights.Please see the Your Rights and Choices section below for a description of the choices we provide and the rights you have regarding your personal information. If you are a California resident, please be sure to review the _Important Additional Information for California Residents_ section below for important information about the categories of personal information we collect and disclose and your rights under California privacy laws.   
+  
+### Scope
 
-  * Your device's camera or saved photos in order to use certain features such as the scan barcode feature. You can decline to give permission for the App to access your camera or photos, but this feature, and other such features, will not be available to you if you decline.
-  * The contact information stored on your device, which is used to populate the "bill to" and "ship to" addresses at checkout when you make a purchase. You will be asked to provide your permission before such access is granted.
+This Policy applies to our collection, use and disclosure of personal information related to:
 
+  * Users of our website _[www.guitarcenter.com](https://web.archive.org/)_ , as well as any mobile applications, other websites, applications and online services that display or link to this Policy (collectively, the " **Site** ");
+  * Customers and prospective customers, including individuals who purchase our products through affiliate and other third party retailers;
+  * Visitors to Guitar Center stores (each, a " **Store** "); and
+  * Individuals who otherwise interact or communicate with us related to our Services.
 
 
-The App does not collect the unique identification number assigned to your device by your operating system (sometimes called a "UDID"). 
 
-The App may send push notifications or notices of interest in the absence of a specific request to your mobile device. In the event the App uses push notifications, you are provided with an opportunity to opt in to receiving them. If you decline to accept push notifications, you will not receive them, which means you may not receive the most current updates and features of the App. 
+**Personal Information.** In general, personal information includes any information that identifies, relates to, describes, or is reasonably capable of being associated, linked or linkable with a particular individual.
 
-You have choices when it comes to how the App functions on your mobile device. You may be able to manage push notifications and/or manage permissions, such as access to camera, photos, and contacts, by using your built-in mobile device settings and controls. 
+**Not Covered by this Notice.** This Privacy Policy does not apply to job applicants or to Guitar Center employees and non-employee workers, whose personal information is subject to different privacy notices. 
 
-Access to or availability of controls may vary depending on your device and operating system type and version. In some cases, you may not be able to use the App if you decline all permissions requested. 
+**By disclosing your personal information to us, interacting with us or using our Services, you understand and agree that Guitar Center may collect, use and disclose your personal information in accordance with this Privacy Policy. If required by applicable law, we will obtain your consent to our collection, use, transfer and disclosure of your personal information.**
 
-### How Does Guitar Center Use Your Information?
+### Collection of Personal Information
 
-Guitar Center may use Personal Information and other information collected automatically for a variety of purposes, including, without limitation, to:
+The personal information we collect varies depending upon the nature of the Services provided or used and our interactions with individuals.
 
-  * provide you with the requested services or respond to your inquiries;
-  * facilitate your purchase(s) on the Site;
-  * conduct surveys, sweepstakes, contests, or other special promotions;
-  * monitor consumer interest in our products and services;
-  * troubleshoot problems that may arise on the Site;
-  * protect against fraud or other criminal activity on the Site and other websites;
-  * customize your user experience on the Site;
-  * notify you of product or service offerings that we think may be of interest to you;
-  * assist us in tailoring our product lines, service offerings and the content of the Site to our customers' needs;
-  * improve the accuracy of our customer database;
-  * increase our understanding of our customer database;
-  * increase our understanding of our customers;
-  * identify potential new customers; and
-  * tailor our advertising to our customers.
+_**Categories of personal Information.**_ Certain privacy laws, such as the California Consumer Privacy Act ("CCPA") require that we disclose the categories of personal information that we collect about individuals. While the personal information we collect varies depending upon the circumstances, we may collect the following categories of personal information (subject to applicable legal requirements and restrictions):
 
+  * _Name, contact information and other identifiers:_ identifiers such as a name, username, account name, address, phone number, email address, online identifier, IP address, government-issued identification numbers or other similar identifiers.
+  * _Customer records:_ paper and electronic customer records containing personal information.
+  * _Protected classifications:_ characteristics of protected classifications under California or federal law such as race, sex, age, religion, national origin, disability and citizenship.
+  * _Commercial Information:_ including records of real property, products or services purchased, obtained, or considered, or other purchasing or use histories or tendencies.
+  * _Usage data:_ internet or other electronic network activity Information including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an Internet website, application, or advertisement.
+  * _Geolocation data:_ precise location information about a particular individual or device.
+  * _Audio, video and other electronic data:_ audio, electronic, visual, thermal, olfactory, or similar information such as, CCTV footage, photographs, and call recordings.
+  * _Employment history:_ professional or employment-related information.
+  * _Education information:_ education information and records.
+  * _Profiles and inferences:_ Inferences drawn from any of the information identified above to create a profile reflecting a resident’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes.
 
 
-To assist in these purposes, at certain times, we create a profile relating to you in order to show you the content that we think you might be interested in and to display the content according to your preferences.
 
-Third-Party Optimization Providers:
+_**Sources of Personal Information.**_ We may collect personal information about individuals:
 
-We contract with one or more online partners to help manage and optimize our Site and communications. We use the services of one or more marketing companies to help us measure the effectiveness of our advertising and how visitors use the Site. To do this, we use web beacons and cookies provided by our marketing companies on the Site. The type of information we collect includes information provided by the customer (including information necessary to complete transactions), IP addresses, cookie information (and other information that tracks browsing and purchasing history). By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from the Site on our behalf, we control how that data may and may not be used.
+  * _Directly from you:_ such as when you create an online account with us, make a purchase, participate in contests and promotions we offer, attend our events, or register to receive marketing and other communications from us, or contact us for customer support purposes.
+  * _From third parties:_ such as affiliate and other third party retailers that sell our products, public records, third party providers of services to us (e.g., fraud detection, identity verification and security), consumer data resellers, social networks, joint marketing partners and affiliate companies.
+  * _Related to your use of our Services:_ including information we collect automatically when you use our Sites, visit a Store, or interact with us, or information we derive about you and your preferences or interests based on the personal information we collect and our interactions with you.
 
-### How Does Guitar Center Share Information?
 
-Service Providers:
 
-Guitar Center may disclose Personal Information about individual users to third parties who provide services to Guitar Center and who agree to maintain the confidentiality of such information in accordance with this Privacy Policy. These third parties provide a variety of services to Guitar Center, including, without limitation, fulfilling product orders, managing or hosting the Site, helping create new content and promotions for the Site and sending or coordinating the sending of marketing communications to pre-identified users. In situations where you have supplied your information in connection with a question or request for information about a product or service offered by one of our business partners, we may also send the information you have supplied to the business partner(s) that offer such products or services.
+_**Information We Collect From You.**_ We may collect personal information from you related to:
 
-Third-Party Advertisers:
+  * _Registration, accounts and profiles:_ when you register for an account with we collect your name and email and password; we may also collect additional information such as your preferences, location and payment details.
+  * _Purchases, orders and payments:_ if you make a purchase, submit and order, return items, or sign up for certain Services, we collect information in order to process your payment, order or refund, fulfill your or order, including name, billing and shipping address and details, payment type, as well as credit card number or other payment account details (e.g., PayPal).
+  * _Marketing, surveys and events:_ if you sign up to receive news, updates, offers and other marketing communications from us, we may collect name, contact information about your preferences. We may also collect name, age, email address, and other information when you participate in contests, sweepstakes, events or activities offered by us (collectively, "events") or submit surveys or feedback to us.
+  * _Your communications and requests:_ when you email us, call us, or otherwise send us communications, we collect and maintain a record of your contact details, communications and our responses.
+  * _User content:_ If you post content or submit reviews and comments to us ("User Content"), we may maintain a record of your User Content, including the location, date and time of submission. 
+  * _Mobile applications:_ if you use our mobile applications, we collect information on and/or through these mobile applications, which may include (with your permission) access to your location, camera, photos and contacts, as well as permission to send you push notifications. 
 
-We may share your Personal Information, including, without limitation, your name, address and email address, as well as a record of any transactions you conduct on the Site or offline with us, with third-party advertising partners and their service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites.
 
-As Required by Law:
 
-Guitar Center may be required to share Personal Information in response to a valid court order, subpoena, government investigation, or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. In addition, we may share certain Personal Information when we believe that doing so is reasonably necessary to protect the rights, property and safety of our company and/or others.
+_**Information We Collect from Third Parties.**_ We may collect personal information about you from third party sources (which may be combined other personal information we have collected about you), such as:
 
-Subsidiaries and Affiliated Companies/Corporate Change:
+  * _Third party retailers:_ if you purchase our products from a third-party retailer, we receive information from that third party for order processing and fulfilment, returns and refunds processing, warranty and related purposes, which may include name, contact information, shipping and other order details.
+  * _Social media:_ if you choose to link, create, or log in to your Services account with a social media service (e.g., Twitter, Facebook, Instagram, etc.), we collect your permission to access certain information from your profile with that social media service. If you post or if you engage with a separate social media service or interact with us on our page with any social media service, we may collect personal information about you related to those interactions.
+  * _Other:_ we may obtain personal information, such as demographic information or updated contact details, from third parties; we may also collect information from public records. 
 
-Guitar Center may also share Personal Information with controlling entities, entities it controls, and entities under common control. Finally, Guitar Center may transfer Personal Information to participating companies in the event of a corporate sale, merger, acquisition, dissolution or similar event.
 
-Aggregate/Anonymous Sharing:
 
-We may also share information we collect about you, your devices and other visitors to the Site in an anonymous or aggregated form with our business partners and others without restriction.
+_Information We Collect or Derive About You._ We may collect or derive personal information about you your use of our Sites and Apps, visits to our Stores, or other interactions with us. 
 
-### Access to Information
+  * _Sites and Apps:_ We and our third party providers may use cookies, pixels, tags, log-files, and other technologies to collect information about a user from their browser or device, including, without limitation, your browser type, device type, operating system, software version, phone model, phone operating system, platform-dependent information, requested document, referring URL, date and time of your visit, clickstream data (e.g. about the pages you view, links you click and date and time stamps for your activities on our Sites) and the IP address associated with your transactions in the system. This information that we collect automatically may be linked with other personal information we have collected. For more information, see the Cookies and Tracking section below. 
+  * _Stores:_ In addition, when you visit a Store, we may collect personal information about you automatically through CCTV footage. If you contact us by phone, we may record our calls with you for quality, training, and protection purposes.
+  * _Profile and Interests:_ we may create profiles relating to you in order to show you the content that we think you might be interested in and reach you with more relevant ads and marketing.
 
-You can correct factual errors in your Personal Information by sending us a request that credibly shows any error. If you wish to access, update or correct your Personal Information that we collect through the Site, please contact us by mail at the address shown in the How to Contact section below. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections.
 
-### Your Choices
 
-Email Opt Out:
+### Use of Personal Information
 
-From time to time, Guitar Center may notify you by email of special promotions, changes to the Site, new product lines or products or service offerings that we think may be of special interest to you. If you decide you no longer want to receive emails notifying you of this information, [click here to unsubscribe](https://web.archive.org/manage-subscription), or follow the instructions in the promotional message. Email Opt Out requests will be processed within ten (10) days.
+Guitar Center may use personal information and other information collected automatically for a variety of purposes, including, without limitation, to: 
 
-Postal Mailing List:
+  * _Providing support and services:_ including to provide our Services, operate our Sites, Apps and online services, and interact with you in our Stores; to communicate with you about your access to and use of our Services; to respond to your inquiries; to provide troubleshooting, fulfill your orders and requests, process your payments and provide technical support; and for other customer service and support purposes.
+  * _Analyzing and improving our business:_ including to better understand how users access and use our Services and Sites, to evaluate and improve our Sites, Services and business operations, and to develop new features, offerings and services; to conduct surveys and other evaluations (such as customer satisfaction surveys); to monitor consumer interest in our products and Services; to troubleshoot problems that may arise on the Sites; to improve the accuracy of our customer database; to increase our understanding of our customer database; to increase our understanding of our customers; and for other research and analytical purposes.
+  * _Personalizing content and experiences:_ including to tailor content we send or display on our websites and other Services; to offer location customization and personalized help and instructions; and to otherwise personalize your experiences. To assist in these purposes, as well as the other purposes identified in this Policy, at certain times, we create a profile relating to you in order to show you the content that we think you might be interested in and to display the content according to your preferences.
+  * _Advertising, marketing and promotional purposes:_ including to reach you with more relevant ads and to evaluate, measure and improve the effectiveness of our ad campaigns; to send you newsletters, offers or other information we think may interest you; to contact you about our Services, products, or other information we think may interest you; to identify potential new customers; and to administer promotions, sweepstakes, contests or other special promotions.
+  * _Securing and protecting our business:_ including to protect and secure our business operations, assets, Services, network and information and technology resources; to investigate, prevent, detect and take action regarding fraud, unauthorized access, situations involving potential threats to the rights or safety of any person or third party, or other unauthorized activities or misconduct.
+  * _Defending our legal rights:_ including to manage and respond to actual and potential legal disputes and claims, and to otherwise establish, defend or protect our rights or interests, including in the context of anticipated or actual litigation with third parties.
+  * _Auditing, reporting, corporate governance, and internal operations:_ including relating to financial, tax and accounting audits; audits and assessments of our operations, privacy, security and financial controls, risk, and compliance with legal obligations; our general business, accounting, record keeping and legal functions; and related to any actual or contemplated merger, acquisition, asset sale or transfer, financing, bankruptcy or restructuring of all or part of our business.
+  * _Complying with legal obligations:_ including to comply with the law, our legal obligations and legal process, such warrants, subpoenas, court orders, and regulatory or law enforcement requests.
 
-Guitar Center may occasionally share its postal mailing list or a part of its mailing list with other organizations. If you do not want your name and address shared with other organizations, or do not wish to receive our mailings, please contact us at 1-866-498-7882.
 
-Please note that requested changes to our postal mailing list may take up to eight (8) weeks to take effect.
 
-Cookies:
+_**Aggregate and De-identified Data.**_ We may de-identify information and create anonymous and aggregated data sets and reports to assess, improve and develop our business, products and services, prepare benchmarking reports on our industry and for other research, marketing and analytics purposes.
 
-If you prefer not to allow us to use “cookies” to collect information, you can disable the cookies by turning them off in your browser, although some areas of the Site may not function properly if you do.
+### Disclosure of Personal Information
 
-Advertising Opt Out:
+We may share or disclose the personal information we collect as follows:
 
-To learn more about the use of your information for advertising or to choose not to have your information used by our third-party advertising partners by opting out, please visit the Network Advertising Initiative by clicking [here](https://www.networkadvertising.org/). You also may be able to opt-out of receiving interest-based advertisements through the App or on your mobile device generally by managing the settings on your mobile device.
+  * _Service providers:_ We may disclose personal information with third-party service providers who use this information to perform services for us, such as hosting providers, auditors, advisors, consultants, customer service and/or support providers.
+  * _Third parties:_ We may share personal information with third parties that provide advertising, campaign measurement, online and/or mobile analytics, and related services. These third parties may receive or access as browsing and/or other data about your use of the Services, in order to help us better reach individuals with relevant ads and/or measure our ad campaigns, and/or to better understand how individuals interact with our Sites and Services overtime and across devices. We may also transfer and/or sell personal information we collect and/or join together with other businesses to bring selected opportunities to customers or potential customers.
+  * _Subsidiaries and affiliates:_ We may share your personal information with our affiliated companies (i.e., our parent company and other companies under common ownership, control or management with us); they may use such personal information for the purposes set out in this Policy.
+  * _Legal compliance:_ We may be required to share personal information in response to a valid court order, subpoena, government investigation, or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. In addition, we may share certain Personal Information when we believe that doing so is reasonably necessary to protect the rights, property and safety of our company and/or others.
+  * _Business transfers:_ We may disclose and/or transfer personal information as part of any actual or contemplated merger, sale, transfer of assets, acquisition, financing and/or restructuring of all or part of our business, bankruptcy or similar event, including related to due diligence conducted prior to such event where permitted by law.
+  * _Protect our rights:_ We may disclose personal information where we believe it necessary to respond to claims asserted against us, to enforce or administer our agreements and terms, for fraud prevention, risk assessment, investigation and/or to protect the rights, property or safety of Guitar Center or our affiliates, clients, customers and/or others.
 
-Location:
 
-You can decline to allow the mobile Site or the App to access your mobile device’s location, either when you are first asked permission or at any other time by using your mobile device settings and controls. Certain features of the mobile Site and the App may not be accessible to you if you do not share location information.
 
-### Do Not Track
+**Aggregated and De-identified Data.** We may share aggregate or de-identified information with third parties for research, marketing, advertising, analytics and/or other purposes. 
 
-At this time, the Site do not recognize automated browser signals regarding tracking mechanisms, which may include "do not track" instructions. However, you may be able to change your privacy preferences regarding the use of cookies and similar technologies through your browser, as described above. We do not knowingly permit third parties to collect Personal Information about your online activities over time and across different web sites and apps when you use the Site.
+### Cookies and Analytics
 
-### Security
+We use cookies, pixels, tags, and other technologies, which may be provided by third parties, on our Sites to enable certain functionality and for security and fraud detection and prevention, as well as to collect usage information about our Sites and the emails that we send and to personalize content and provide more relevant ads and information. We may combine the information we collect via these technologies with other information, including personal information, that we collect.
 
-To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. We use these procedures to better safeguard your information.
+_**Cookies.**_ Cookies are alphanumeric identifiers that are transferred to your computer through your web browser for record-keeping purposes. Some cookies enable you to log-in to our Sites or save certain settings and preferences, while others, allow us to track usage and activities on our Sites, personalize content on our Sites, or deliver more relevant ads on our Sites and third party sites. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The "Help" tab on the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. If you block cookies, however, certain features on our Sites may not be available or function properly.
 
-Our security and privacy policies are periodically reviewed and enhanced as required and only authorized individuals are permitted access to the information that you provide to us. We take physical, technical and administrative measures to safeguard against unauthorized disclosures of Personal Information; however, we cannot guarantee that these measures will prevent breaches of the integrity and security of our network and systems, or that Personal Information will never be accessed or acquired by unauthorized persons, notwithstanding the safeguards we have in place.
+_**Log files.**_ Most browsers collect certain information, such as your IP address, device type, screen resolution, operating system version and internet browser type and version. This information is gathered automatically and stored in log files.
 
-### Links to Third Party Websites
+_**Pixel tags and embedded script**_ (aka clear GIFs and web beacons). Pixel tags are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer’s hard drive, pixel tags are embedded invisibly on web pages. We may use these, in connection with our Sites to, among other things, track the activities users of our Services, improve ads, personalize and manage content, and gather usage information about our Sites. We may also use these in HTML emails to, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded. 
 
-The Site provides links to various websites operated by third parties including, but not limited to, third party sites that display the Guitar Center trademarks. This Privacy Policy does not apply to third party websites that are accessible through the Guitar Center Site, unless such website directs users or visitors to this Privacy Policy. When you click on one of these links, you will be transferred out of the Site and connected to the website of the organization or company that maintains that website. Even if an affiliation exists between the Site and a third party website, we exercise no control over linked websites. Each of these linked websites maintains its own independent privacy and data collection policies and procedures. We encourage you to read the privacy policies of those other websites to learn how they collect, use, share and secure your information before providing any Personal Information.
+_**Third Party Analytics Tools.**_ Our Sites use automated devices and applications operated by third parties, such as Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Sites and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Google's practices by going to [www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/), and you can opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
 
-### Terms and Modifications to Privacy Policy
+_**Do-Not-Track Signals.**_ Please note that our Sites do not recognize or respond to any signal which your browser might transmit through the so-called 'Do Not Track' feature your browser might have. If you wish to disable cookies on our Services, you should not rely on any 'Do Not Track' feature your browser might have.
 
-By using the Site, you agree to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the Site. Guitar Center may modify this Privacy Policy at any time.
+### Interest-based Advertising: 
 
-When we make changes to the Privacy Policy, we will change the "Last Updated" date above. If a material change is made to this Privacy Policy, we will post notice of that change on the first page of this Privacy Policy. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the Site constitutes your consent to any changes to this Privacy Policy.
+We work with third party ad networks, channel partners, affiliates, measurement services, analytics and others (" **third party ad companies** ") to display advertising on our Services, and to manage or measure our advertising on third party sites, social media platforms, mobile apps and online services, as well as to send you promotional materials or offers via email or direct mail. We and these third party ad companies may use cookies, pixels tags, and other tools to collect activity information on our Services (as well as on third party sites and services), as well as IP address, device ID, cookie and advertising IDs, and other identifiers, general location information, and, with your consent, your device’s geolocation information; we and these third party ad companies use this information to provide you more relevant ads and content and to evaluate the success of such ads and content.
+
+_**Custom Lists and Matching.**_ We may create and disclose hashed customer list information (such as name and email address) with third parties—such as Facebook and Twitter—so that we can better target ads and content to you and others with similar interests, within these third-party services. These third parties use the personal information we provide to help us target ads and to enforce their terms, but we do not permit them to use or share the data we submit with other third-party advertisers. 
+
+_**Opt out of targeted ads.**_ You may control how participating third party ad companies use the information that they collect about your visits to our Sites, and those of third parties, in order to display more relevant targeted advertising to you; for more information and to opt-out of go to:
+
+  * [www.networkadvertising.org/optout_nonppii.asp](https://www.networkadvertising.org/optout_nonppii.asp) (Network Advertising Initiative)
+  * [www.aboutads.info/choices](https://www.aboutads.info/choices) (Digital Advertising Alliance)
+
+
+
+Opting out of participating ad networks does not opt you out of being served advertising. You may continue to receive generic or "contextual" ads on our Services. You may also continue to receive targeted ads on other websites, from companies that do not participate in the above programs.
 
 ### Collection of Children's Personal Information
 
-The Site is not directed to children under the age of 13, and Guitar Center does not collect or maintain Personal Information online from children we actually know at the time of collection are under the age of 13. Should we discover that we have collected Personal Information online from a child who is under 13, we will promptly delete that Personal Information. If you have concerns over the collection of children's Personal Information on the Site, please contact us at the address in the How to Contact section below.
+Our Sites are not directed to children under the age of 13, and Guitar Center does not knowingly collect or maintain personal information online from children we actually know at the time of collection are under the age of 13. Should we discover that we have collected personal information online from a child who is under 13, we will promptly delete that personal information. If you have concerns over the collection of children's personal information on the Sites, please contact us at the information provided in the Contact Us section below.
 
-### How to Contact
+_**CARU Safe Harbor.**_ This privacy policy and the CARU icon shown on our websites confirm that Guitar Center is a valid licensee and participating member in the CARU Safe Harbor Program ("CARU Safe Harbor"). To protect your privacy, we have voluntarily undertaken this privacy initiative. CARU has reviewed and certified that we meet established online information collection and use practices on all Guitar Center properties where this privacy policy is posted. As part of the CARU Safe Harbor, we are subject to audits and frequent monitoring of our websites and other enforcement and accountability mechanisms administered independently by CARU. 
+
+If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact CARU at:
+
+CARU Safe Harbor  
+Attn: Director  
+112 Madison Avenue, 3rd Floor  
+New York, NY 10016  
+[info@caru.bbb.org](mailto:info@caru.bbb.org)
+
+### Security
+
+The security of your personal information is important to us. We have put in place safeguards to protect the personal information we protect from unauthorized access, use and disclosure. However, we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. . We urge you to take steps to keep your personal information safe, such as choosing a strong password and logging out of your User account and closing your web browser when finished using the Services. 
+
+### Links to Third Party Sites
+
+The Sites provides links to various websites operated by third parties including, but not limited to, third party sites that display the Guitar Center trademarks. This Privacy Policy does not apply to third party websites that are accessible through the Guitar Center Sites, unless such website directs users or visitors to this Privacy Policy. When you click on one of these links, you will be transferred out of the Sites and connected to the website of the organization or company that maintains that website. Even if an affiliation exists between the Sites and a third-party website, we exercise no control over linked websites. Each of these linked websites maintains its own independent privacy and data collection policies and procedures. We encourage you to read the privacy policies of those other websites to learn how they collect, use, share and secure your information before providing any personal information.
+
+### Your Rights and Choices
+
+If you need to update your contact details or other personal information provided to us, please contact us as set forth in the Contact Us section below. **California residents have certain rights, under California privacy laws, regarding their personal information, which are set forth below, in the Additional Information for California Residents section below.**
+
+_**Marketing Choices.**_ You can control your marketing preferences as set forth below:
+
+  * _Email opt out:_ From time to time, Guitar Center may notify you by email of special promotions, changes to the Sites, new product lines or products or service offerings that we think may be of special interest to you. If you decide you no longer want to receive emails notifying you of this information, [click here to unsubscribe](https://web.archive.org/manage-subscription), or follow the instructions in the promotional message. Email Opt Out requests will be processed within ten (10) days.
+  * _Mailing list:_ Guitar Center may occasionally share its postal mailing list or a part of its mailing list with other organizations. If you do not want your name and address shared with other organizations, or do not wish to receive our mailings, please contact us at 1-866-498-7882. Please note that requested changes to our postal mailing list may take up to eight (8) weeks to take effect. 
+
+
+
+_**Sites Preferences.**_ You may control how we collect and manage certain information through our Sites:
+
+  * _Targeted advertising:_ To opt-out of certain targeted advertising by participating advertisers, go to:
+
+[www.networkadvertising.org/optout_nonppii.asp](https://www.networkadvertising.org/optout_nonppii.asp) (Network Advertising Initiative)  
+[www.aboutads.info/choices](https://www.aboutads.info/choices) (Digital Advertising Alliance)
+
+You can also adjust your browser cookies settings to block or delete third party cookies, as explained in the Cookies and Analytics section above. If you block cookies, certain features on our Sites may not be available or function properly.
+
+  * _Mobile applications:_ You can manage your preferences for push notifications, and access to your device location, camera, photos, and contacts by our App, through the device settings of your mobile device. In some cases, you may not be able to use certain features of the App if you decline certain permissions. For example, you must permit the App to access your device's camera or saved photos in order to use certain features such as the scan barcode feature.
+
+
+
+### Changes to this Privacy Policy
+
+When we make changes to the Privacy Policy, we will change the "Last Updated" date above. If a material change is made to this Privacy Policy, we will endeavor to provide notice in advance of such change, such as by posting notice of that change on the first page of this Privacy Policy or on our homepage, or by emailing your email address of record with us. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the Sites constitutes your consent to any changes to this Privacy Policy.
+
+### Contact Us
 
 If you have any questions or concerns about this Privacy Policy and/or if you want to exercise any of the rights that you are given under this Privacy Policy, please contact us at:
 
@@ -163,34 +253,173 @@ Attention: Legal Department
 Phone: 866-498-7882  
 [Email us using this link](https://web.archive.org/customer-service/email-us)
 
-If you communicate with us, we may retain your correspondence to improve our products, services, and the Site, and for other disclosed purposes. We may use information you provide to us in order to send you updates, such as notifications of changes to the terms of our services or important information about our services and products.
+### IMPORTANT ADDITIONAL INFORMATION FOR CALIFORNIA RESIDENTS
 
-As mentioned below, Guitar Center is a participating member of the CARU Safe Harbor Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact CARU at: 
+Below, we provide information, as required under California privacy laws, including the California Consumer Privacy Act ("CCPA"), which requires that we provide California residents certain specific information about how handle their personal information, whether collected online or offline. This section does not address or apply to our handling of publicly available information made lawfully available by state or federal governments or other personal information that is subject to an exemption under Section 1798.145(c) – (f) of the CCPA.
 
-CARU Safe Harbor  
-Attn: Director  
-112 Madison Avenue, 3rd Floor  
-New York, NY 10016  
-[info@caru.bbb.org](mailto:info@caru.bbb.org)  
+#### Categories of Personal Information We Collect and Disclose
+
+Our collection, use and disclosure of personal information about a California resident will vary depending upon the circumstances and nature of our interactions or relationship with such resident. The table below sets out generally the categories of personal information about California residents that we collect, sell and disclose to others for a business purpose. We collect these categories of personal information from the sources described in the Collection of Personal Information section above, and for the purposes described in the Use of Personal information section above.
+
+**Categories of personal information**
+
+| 
+
+**Collected** ****
+
+| 
+
+**Disclosed for business purposes** ****  
+  
+---|---|---  
+  
+_Name, contact information and other identifiers_ : identifiers such as a name, username, account name, address, phone number, email address, online identifier, IP address, government-issued identification numbers or other similar identifiers.  
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_Customer records_ : paper and electronic customer records containing personal information.
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_Protected classifications_ : characteristics of protected classifications under California or federal law such as race, sex, age, religion, national origin, disability and citizenship.
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_Commercial Information_ : including records of real property, products or services purchased, obtained, or considered, or other purchasing or use histories or tendencies.
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_Usage data_ : internet or other electronic network activity Information including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an Internet website, application, or advertisement.
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_Geolocation data_ : precise location information about a particular individual or device.
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_Audio, video and other electronic data_ : audio, electronic, visual, thermal, olfactory, or similar information such as, CCTV footage, photographs, and call recordings.
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_Employment history_ : professional or employment-related information.
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_Education information_ : education information and records.
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_Profiles and inferences_ : Inferences drawn from any of the information identified above to create a profile reflecting a resident’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes.
+
+| 
+
+_Yes_
+
+| 
+
+_Yes_  
+  
+_**Categories of Personal Information Sold.**_ The CCPA defines a "sale" as disclosing or making available to a third party personal information in exchange for monetary or other valuable consideration. While we do not disclose personal information to third parties in exchange for monetary compensation from such third parties, we do disclose or make available personal information to our affiliated companies and other third parties, in order to receive certain services or benefits from them, such as when we allow third party tags to collect information such as browsing history on our Sites, in order to improve and measure our ad campaigns. Pursuant to the CCPA, the categories of personal information that we may "sell" as includes: 
+
+  * _Name, contact information and other identifiers_
+  * _Usage data_
+  * _Profiles and inferences_
+  * _Customer Records_
+  * _Commercial Information_
+  * _Profiles and inferences_
 
 
-CARU Safe Harbor
 
-This privacy policy and the CARU icon shown on our websites confirm that Guitar Center is a valid licensee and participating member in the CARU Safe Harbor Program ("CARU Safe Harbor"). To protect your privacy, we have voluntarily undertaken this privacy initiative. CARU has reviewed and certified that we meet established online information collection and use practices on all Guitar Center properties where this privacy policy is posted. 
+**California Residents’ Rights**  
+California law grants California residents certain rights and imposes restrictions on particular business practices as set forth below.
 
-As part of the CARU Safe Harbor, we are subject to audits and frequent monitoring of our websites and other enforcement and accountability mechanisms administered independently by CARU. 
+_**Do-Not-Sell.**_ California residents have the right to opt-out of our sale of their personal information. Opt-out rights can be exercised by submitting a request [here](https://web.archive.org/data-request). We do not sell personal information about residents who we know are younger than 16 years old without opt-in consent.
 
-If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact CARU at: 
+_**Initial Notice.**_ We are required to notify California residents, at or before the point of collection of their personal information, the categories of personal information collected and the purposes for which such information is used.
 
-CARU Safe Harbor  
-Attn: Director  
-112 Madison Avenue, 3rd Floor  
-New York, NY 10016  
-[info@caru.bbb.org](mailto:info@caru.bbb.org)  
+_**Requests to Delete.**_ Subject to certain exceptions, California residents have the right to, at no charge, request deletion of their personal information that we have collected about them and to have such personal information deleted, except where an exemption applies.
+
+_**Request to Know.**_ California residents have the right to request and, subject to certain exemptions, receive a copy of the specific pieces of personal information that we have collected about them in the prior 12 months and to have this delivered, free of charge, either (a) by mail or (b) electronically in a portable and, to the extent technically feasible, readily useable format that allows the individual to transmit this information to another entity without hindrance. California residents also have the right to request that we provide them certain information about how we have handled their personal information in the prior 12 months, including the:
+
+  * categories of personal information collected;
+  * categories of sources of personal information;
+  * business and/or commercial purposes for collecting and selling their personal information;
+  * categories of third parties/with whom we have disclosed or shared their personal information;
+  * categories of personal information that we have disclosed or shared with a third party for a business purpose;
+  * categories of personal information collected; and
+  * categories of third parties to whom the residents’ personal information has been sold and the specific categories of personal information sold to each category of third party.
 
 
-California Privacy Rights
 
-Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. Except as provided herein, or otherwise disclosed to you, we do not share our customer's personal information with unaffiliated third parties for their own direct marketing purposes. For inquiries regarding our disclosure policy, please send us an [email using this link](https://web.archive.org/customer-service/email-us), or write us at: Guitar Center Stores, Inc., 5795 Lindero Canyon Road, Westlake Village, CA 91362. Attention: Legal Department - Privacy. We will be happy to honor your request. 
+California residents may make a Request to Know up to twice every 12 months.
 
-[Shop Guitar Center](https://web.archive.org/)
+_**Right to Non-discrimination.**_ The CCPA prohibits discrimination against California residents for exercising their rights under the CCPA. Discrimination may exist where a business denies or provides a different level or quality of goods or services, or charges (or suggests that it will charge) different prices, rates, or penalties on residents who exercise their CCPA rights, unless doing so is reasonably related to the value provided to the business by the residents’ data.
+
+_**Financial Incentives.**_ A business may offer financial incentives for the collection, sale or deletion of California residents’ personal information, provided it is not unjust, unreasonable, coercive or usurious, and is made available in compliance with applicable transparency, informed consent, and opt-out requirements. California residents have the right to be notified of any financial incentives offers and their material terms, the right to opt-out of such incentives at any time, and may not be included in such incentives without their prior informed opt-in consent.
+
+_**Your Rights Under California’s Shine-the-Light Law.**_ Under California’s "Shine the Light" law (Cal. Civ. Code § 1798.83), California residents who provide us certain personal information are entitled to request and obtain from us, free of charge, information about the personal information (if any) we have shared with third parties for their own direct marketing use. Such requests may be made once per calendar year for information about any relevant third party sharing in the prior calendar year. California residents who would like to make such a request may submit a request online at [https://www.guitarcenter.com/data-request](https://web.archive.org/data-request). The request should attest to the fact that the requester is a California resident, and provide a current California address.
+
+**Submitting Requests.** Do-Not-Sell (Opt-out) Requests, Requests to Know, and Requests to Delete may be submitted:
+
+  * Online at [https://www.guitarcenter.com/data-request](https://web.archive.org/data-request)
+  * By phone at (866) 979-0577 (toll free)
+
+
+
+We will respond to verifiable requests received from California residents as required by law
+
+**For more information about our privacy practices, you may contact us as set forth in theContact Us section above**.
