@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dermnetnz.org privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322201156id_/https%3A//www.dermnetnz.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dermnetnz.org privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229195436id_/https%3A//www.dermnetnz.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | DermNet NZ
 
