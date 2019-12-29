@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scanlife.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625030141id_/http%3A//www.scanlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanlife.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229090736id_/http%3A//www.scanlife.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
-## Effective Date: May 8, 2019
+## Effective Date: October 3, 2019
 
 **Privacy Policy**
 
@@ -62,7 +62,9 @@ Please note that the “do not track” setting may not be available on all oper
 
 **To enable the “do not track” setting on iOS, visit:**  <http://support.apple.com/kb/HT4228>
 
-**To enable the “do not track” setting on Android, visit:**  <http://www.futureofprivacy.org/2013/11/15/android-kitkat-update-new-privacy-features/>
+**To enable the “do not track” setting on Android please perform the following steps:** (i) Open your ‘ **Settings** ’ app; (ii) Locate **Privacy** ; (iii) Select ‘ **Advanced** ’; (iv) Select ‘ **Ads** ’; (v) Select ‘ **Opt out of Ads Personalization** ’; and (vi) When prompted select ‘ **Ok** ’.
+
+For additional details on option out of ads personalization for your Google account, visit the following external link: [Opt out of seeing personalized ads](https://support.google.com/ads/answer/2662922?hl=en)
 
 Scanbuy may update these instructions periodically as new information becomes available from Apple, Google, and other Operating System manufacturers.
 
@@ -133,7 +135,7 @@ visit ****<http://www.pushspring.com/optout.html>**********
 
 When you access the Services, Scanbuy collects your personal information that you provide us, automatically collected information, and retains anonymous and/or anonymized information. Please see **Personal Information** above to learn more about the types of personal information we may collect. Please see **Automatically Collected Information** above to learn more about the types of information we may collect automatically. Please see **Anonymous & Aggregate Information** above to learn more about the anonymous and/or anonymized information that we may retain. If you would like to review what information Scanbuy may have about you, click **[here](http://scn.by/9t9ab0htw8lvre)**. We want to give you the easiest ways to update, amend or delete your information – unless we have to maintain that information for legitimate business or legal purposes. **Scanbuy may be legally required to keep information and not delete it (or to keep information for a certain time, in which case we will comply with any deletion requests only after having fulfilled such requirements).**
 
-If you would like to exercise your Right to be Forgotten, under Article 17 of the GDPR, click **[here](http://scn.by/9t9ab0htw8lvra)**. Scanbuy is committed to protecting the integrity of your information from accidental or malicious destruction. Because of this, we may not delete residual copies of your information, even after you delete
+If you would like to exercise your Right to be Forgotten, under Article 17 of the GDPR, click **[here](http://scn.by/ks7wutk7nbuth0)**. Scanbuy is committed to protecting the integrity of your information from accidental or malicious destruction. Because of this, we may not delete residual copies of your information, even after you delete
 
 information from the Services, from our active servers or from our backup systems. For clarity, Scanbuy will not delete information that is anonymized and required for the Services to function properly. You can stop the collection of information by uninstalling the application following the standard uninstall processes of your mobile device or via the mobile application marketplace or network. ****
 
