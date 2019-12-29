@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wave.video privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229033955id_/https%3A//www.animatron.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wave.video privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229172158id_/https%3A//wave.video/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Animatron
+# Privacy | Wave.video
 
 Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of this website and the services offered on an through it (the “Service”), including information you provide when using it.
 
@@ -8,19 +8,19 @@ We expressly and strictly limit use of the Service to adults over 13 years of ag
 
 ## Data Collected
 
-_Browsing the Website._ You can use the search function, view articles, videos and pictures, and access other parts of the Service without having an account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content. If you have an account on the website and are logged in, the information may be associated with your account.
+ _Browsing the Website._ You can use the search function, view articles, videos and pictures, and access other parts of the Service without having an account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content. If you have an account on the website and are logged in, the information may be associated with your account.
 
-_Registering on the Website._ Registration of an account is required for using many parts of the Service, including saving your projects and using many other features. We request additional information at the time of your registration, including your name, email address and a password. Your IP address is recorded automatically. Some of this information may be used to provide you the Service and may become publicly available through your profile or through other use of the Service.
+ _Registering on the Website._ Registration of an account is required for using many parts of the Service, including saving your projects and using many other features. We request additional information at the time of your registration, including your name, email address and a password. Your IP address is recorded automatically. Some of this information may be used to provide you the Service and may become publicly available through your profile or through other use of the Service.
 
-_Usage Information._ We may record information about your usage of the Service such as the videos you view, the frequency and size of data transfers and other statistics. If you have registered and are logged in, we may associate that information with your account.
+ _Usage Information._ We may record information about your usage of the Service such as the videos you view, the frequency and size of data transfers and other statistics. If you have registered and are logged in, we may associate that information with your account.
 
-_Uploaded Content._ Any personal information or content you voluntarily publicly disclose online, including animations, pictures, videos, comments and your profile page or any other User Submissions, becomes publicly available and may be collected and used by others.
+ _Uploaded Content._ Any personal information or content you voluntarily publicly disclose online, including animations, pictures, videos, comments and your profile page or any other User Submissions, becomes publicly available and may be collected and used by others.
 
-_Other Information._ You may have the ability to favorite content, make comments on content and engage in other social activities. Any such activities may be visible to the public.
+ _Other Information._ You may have the ability to favorite content, make comments on content and engage in other social activities. Any such activities may be visible to the public.
 
-_Correspondences._ We may keep a record of any correspondence between you and us.
+ _Correspondences._ We may keep a record of any correspondence between you and us.
 
-_Cookies._ When you use the Service, we may send cookies to your computer to uniquely identify your browser session. We may use both session cookies and persistent cookies.
+ _Cookies._ When you use the Service, we may send cookies to your computer to uniquely identify your browser session. We may use both session cookies and persistent cookies.
 
 ## Data Usage
 
