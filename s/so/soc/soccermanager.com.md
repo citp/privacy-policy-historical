@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccermanager.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628225908id_/https%3A//www.soccermanager.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccermanager.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229182310id_/https%3A//www.soccermanager.com/privacy.php) for the most accurate reproduction.*
 
 # Soccer Manager Privacy Policy | Free Soccer Manager game
 
@@ -16,7 +16,7 @@ This privacy and data policy ( **"Privacy Policy"** ) applies and has effect in 
 
  **We do not use our Online Services to knowingly solicit information from, or market to, those under the age of 13.**
 
-If you have any questions or comments about this Privacy Policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#37545859435654434244774458545452455a5659565052451954585a).
+If you have any questions or comments about this Privacy Policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f1929e9f859092858482b1829e929294839c909f90969483df929e9c).
 
 We are committed to protecting and respecting your privacy. This Privacy Policy explains the basis on which personal data we collect from you will be processed by us or on our behalf. Where we decide the purpose and means for which personal data you supply through these Online Services is processed, we are the 'controller' for the purposes of the General Data Protection Regulation 2016/679 and the UK Data Protection Act 2018.
 
@@ -76,7 +76,7 @@ We may collect and process the following personal data from you when you use our
 
 When using our Online Services, you may decide to post information that may or may not contain personal data, in accordance with the rules of the relevant Online Service (such as the relevant forum rules applicable to our Communities). Similarly, when using some of our Games or other Online Services (where this functionality is provided by us) you may decide to post certain content such as leaderboard information and messages to other users, in accordance with the terms of use applicable for the relevant Online Service.
 
-In some Online Services, the provision of User Content (e.g. leaderboard / 'scoring' information between users and/or in a public manner within the Online Service or similar) ( **"Leaderboards"** ) is a significant or essential part of the functionality and/or gameplay or user experience and may be posted automatically. We may, but we are not required to, provide you with a means to still play / use the Online Service without taking part in this functionality (e.g. without having your information on the leaderboard) within the Online Service. You can also contact us to enquire further about User Content at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8cefe3e2f8edeff8f9ffccffe3efefe9fee1ede2edebe9fea2efe3e1). Please be aware that it may not be possible for us to turn off this type of User Content functionality for you within the Online Service without affecting your user experience.
+In some Online Services, the provision of User Content (e.g. leaderboard / 'scoring' information between users and/or in a public manner within the Online Service or similar) ( **"Leaderboards"** ) is a significant or essential part of the functionality and/or gameplay or user experience and may be posted automatically. We may, but we are not required to, provide you with a means to still play / use the Online Service without taking part in this functionality (e.g. without having your information on the leaderboard) within the Online Service. You can also contact us to enquire further about User Content at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#50333f3e24313324252310233f333335223d313e313735227e333f3d). Please be aware that it may not be possible for us to turn off this type of User Content functionality for you within the Online Service without affecting your user experience.
 
 We cannot control the wider dissemination via the public internet of personal data that you may choose to post, or make available, in User Content.
 
@@ -108,9 +108,9 @@ A cookie is a string of information that a website stores on a visitor's compute
 
 Third party vendors and partners are used by Soccer Manager when conducting our Analytics and for our other data processing activities set out in this policy, including in relation to our advertising purposes. The following cookies and similar technologies are used on the Online Services (but differ between each Online Service) and you can find out more information about their processing activities through the links provided:
 
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit <http://www.allaboutcookies.org/>. To opt out of being tracked by Google / Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit <http://www.allaboutcookies.org/>. To opt out of being tracked by Google / Google Analytics across all websites visit [http://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
-To opt out of being tracked by advertising providers you can access a general opt out at <http://www.networkadvertising.org/managing/opt_out.asp>.
+To opt out of being tracked by advertising providers you can access a general opt out at [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
 * * *
 
@@ -162,7 +162,7 @@ For the above purposes, we rely upon the legal basis of performance of a contrac
 
 We may process your Submitted Information so that we can serve untargeted advertisements to you in the relevant Online Service. For this purpose, your personal data is processed on the basis of our legitimate interests, being our commercial interests for advertisement-supported services.
 
-For some of our Online Services, we may process Submitted Information to show you more relevant advertisements (on our Online Services or on third party services), based on your perceived preferences, for our products and services or for other third party products and services. Where we process your Submitted Information for this type of advertising, we rely upon your consent for our data processing. You have the right to withdraw this consent at any time by letting us know by email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e5868a8b918486919096a5968a8686809788848b84828097cb868a88).
+For some of our Online Services, we may process Submitted Information to show you more relevant advertisements (on our Online Services or on third party services), based on your perceived preferences, for our products and services or for other third party products and services. Where we process your Submitted Information for this type of advertising, we rely upon your consent for our data processing. You have the right to withdraw this consent at any time by letting us know by email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4f2c20213b2e2c3b3a3c0f3c202c2c2a3d222e212e282a3d612c2022).
 
 For the purposes of serving you with more relevant advertising in our Online Services and on other third party services and platforms, we work with advertising networks including the following:
 
@@ -179,7 +179,7 @@ We will not process your information for the purposes of targeted marketing or p
 
 For some of our Online Services, Analytics information may be shared with advertisers on an anonymous aggregate basis. We may also publicise anonymous, aggregate statistics through our websites or other channels although this will not include your personal data (this might be, for example, aggregated visitor numbers).
 
-Please note that we use third party providers of adverts and the advert content is provided by these third parties and not Soccer Manager. Soccer Manager does not control and is not responsible for third party advert content. If you have concerns about specific advert content, you can contact us at: [contactu[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#82e1edecf6e3e1f6f7f1c2f1ede1e1e7f0efe3ece3e5e7f0ace1edef).
+Please note that we use third party providers of adverts and the advert content is provided by these third parties and not Soccer Manager. Soccer Manager does not control and is not responsible for third party advert content. If you have concerns about specific advert content, you can contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7d1e1213091c1e09080e3d0e121e1e180f101c131c1a180f531e1210).
 
 * * *
 
@@ -232,7 +232,7 @@ We may process information (being the Submitted Information or any part thereof)
 
 * * *
 
-Where you have consented, or where it is otherwise lawful for us to do so, we use your Submitted Information to send you emails in order to keep you informed about our news and products. You can withdraw your consent at any time by letting us know by email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d0b3bfbea4b1b3a4a5a390a3bfb3b3b5a2bdb1beb1b7b5a2feb3bfbd).
+Where you have consented, or where it is otherwise lawful for us to do so, we use your Submitted Information to send you emails in order to keep you informed about our news and products. You can withdraw your consent at any time by letting us know by email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#096a66677d686a7d7c7a497a666a6a6c7b646867686e6c7b276a6664).
 
 * * *
 
@@ -260,7 +260,7 @@ Where you have consented or where it is otherwise lawful to do so, we may use yo
 
 We may use automated decision-making methods which do not involve human involvement to process your information, and shall do so only in the ways that are described in this Privacy Policy.
 
-We will obtain your consent to collect your information to be used for marketing purposes that require consent. If you prefer that we do not use your data in this way, let us know by writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5b6babba1b4b6a1a0a695a6bab6b6b0a7b8b4bbb4b2b0a7fbb6bab8) or on the relevant forms or check-boxes that we may use to collect your data.
+We will obtain your consent to collect your information to be used for marketing purposes that require consent. If you prefer that we do not use your data in this way, let us know by writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e98a86879d888a9d9c9aa99a868a8a8c9b848887888e8c9bc78a8684) or on the relevant forms or check-boxes that we may use to collect your data.
 
  **6\. CONSUMER CONTROL AND OPT-OUT OPTIONS**
 
@@ -270,7 +270,7 @@ If you do not wish to be part of a lookalike campaign, or receive notifications 
 
 You have the following rights over the way we process personal data relating to you, as set out in the table below. We aim to comply with requests without undue delay and within one month at the latest.
 
-To make a request, please let us know via: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#94f7fbfae0f5f7e0e1e7d4e7fbf7f7f1e6f9f5faf5f3f1e6baf7fbf9).
+To make a request, please let us know via: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c8aba7a6bca9abbcbdbb88bba7ababadbaa5a9a6a9afadbae6aba7a5).
 
 * * *
 
@@ -278,7 +278,7 @@ To make a request, please let us know via: [[email protected]](https://web.arch
 
 You have the right to request a copy of the personal data we hold about you and to have any inaccuracies corrected.
 
-You can download a copy of your Game account information by following the instructions in your account settings (where this functionality is made available). Where this functionality is not available you can request a copy by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bdded2d3c9dcdec9c8cefdced2deded8cfd0dcd3dcdad8cf93ded2d0).
+You can download a copy of your Game account information by following the instructions in your account settings (where this functionality is made available). Where this functionality is not available you can request a copy by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7f1c10110b1e1c0b0a0c3f0c101c1c1a0d121e111e181a0d511c1012).
 
 We will use reasonable efforts, to the extent required by law, to comply with requests to supply, correct or delete personal data held about you on our files (and request that any third parties to whom it has been disclosed to do the same).
 
@@ -297,7 +297,7 @@ You can ask us to restrict, stop processing or delete your personal data if:
 
 
 
-You may be able to delete your accounts by following the instructions in your account settings, where applicable depending on the relevant Online Service. You can also request account deletion by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fb9894958f9a988f8e88bb889498989e89969a959a9c9e89d5989496).
+You may be able to delete your accounts by following the instructions in your account settings, where applicable depending on the relevant Online Service. You can also request account deletion by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#adcec2c3d9ccced9d8deeddec2cecec8dfc0ccc3cccac8df83cec2c0).
 
 * * *
 
@@ -340,10 +340,10 @@ Unfortunately, the transmission of information via the internet is not completel
 
 The data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ( **"EEA"** ). It may also be processed by staff that operate outside the EEA and work for us or our suppliers. These staff may be engaged in the fulfilment of your orders, the processing of your payment details, the maintenance of the Online Service, and the provision of support services. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-Where your personal data is transferred outside of the EEA to a territory not subject to an adequacy decision by the European Commission, we have agreements in place with the relevant parties which include either (i) standard data protection clauses adopted by the relevant data protection regulator and approved by the European Commission or (ii) standard data protection clauses adopted by the European Commission, to ensure that appropriate safeguards are used to protect your personal data. Alternatively, we may put in place other appropriate safeguards. If you require more information about these safeguards, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a5c6cacbd1c4c6d1d0d6e5d6cac6c6c0d7c8c4cbc4c2c0d78bc6cac8).
+Where your personal data is transferred outside of the EEA to a territory not subject to an adequacy decision by the European Commission, we have agreements in place with the relevant parties which include either (i) standard data protection clauses adopted by the relevant data protection regulator and approved by the European Commission or (ii) standard data protection clauses adopted by the European Commission, to ensure that appropriate safeguards are used to protect your personal data. Alternatively, we may put in place other appropriate safeguards. If you require more information about these safeguards, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6d0e0203190c0e19181e2d1e020e0e081f000c030c0a081f430e0200).
 
  **12\. CONTACT INFORMATION**
 
-All questions, comments or enquiries should be directed to Soccer Manager at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bdded2d3c9dcdec9c8cefdced2deded8cfd0dcd3dcdad8cf93ded2d0). We will endeavor to respond to any query or questions within a reasonable amount of time.
+All questions, comments or enquiries should be directed to Soccer Manager at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a1c2cecfd5c0c2d5d4d2e1d2cec2c2c4d3ccc0cfc0c6c4d38fc2cecc). We will endeavor to respond to any query or questions within a reasonable amount of time.
 
 © SOCCER MANAGER LTD. All Rights Reserved.
