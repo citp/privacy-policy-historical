@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lizardpoint.com privacy policy that was archived on 2018-09-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180903185632id_/https%3A//lizardpoint.com/shared/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lizardpoint.com privacy policy that was archived on 2019-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191229062810id_/https%3A//lizardpoint.com/shared/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
@@ -197,26 +197,21 @@ ga('send', 'pageview', { 'anonymizeIp': true });
 <div id="topArea">
 <div id="topAreaDetail" style="width:728px; height:90px;">
 
-<!-- browser: Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)-->	
-	
-	
-    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-9536169495713098" data-ad-slot="8076460572"></ins>
+<!-- browser: Mozilla/5.0 (compatible; archive.org_bot +http://archive.org/details/archive.org_bot)-->	
+	<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-9536169495713098" data-ad-slot="8076460572">
+		
+	</ins>
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-    <div style="margin: 3px 0 3px 0;"><a href="/shared/supportLizardPoint.php?l=remove">Become a supporter to remove 3rd party ads</a></div>
-
-</div>
-</div>
-
-</td>
-    
+    </div>
+ <!-- end of topArea detail-->
+<div style="margin: 3px 0 3px 0;"><a href="/shared/supportLizardPoint.php?l=remove">Become a supporter to remove 3rd party ads</a></div>
+</div><!-- end of topArea-->
+</td>    
 </tr>
-</tbody></table>
-<!-- end of header table -->
-
-
+</tbody></table> <!-- end of header table -->
 <!-- nav area -->
 
 <script>var envir = '';</script>
@@ -249,14 +244,1564 @@ ga('send', 'pageview', { 'anonymizeIp': true });
 
   
 </style>
-<script type="text/javascript" src="../shared/js/registration.js?v20160720"></script>
+
+<script>
+//console.log('In registration.php experiment: start of file');
+//console.log('In registration.php experiment: about to call check session');
+checkSession();
+
+//logStuff is only being used by createPrintresults2 for debugging
+function logStuff(UN,UID,TheMessage,filename)
+{
+	
+  if (typeof filename === 'undefined') {
+     filename='none';
+  }
+
+// objective: to enable flat file and/or applog database logging even though we're in Javascript
+
+	 if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+    {
+      if (xmlhttp.readyState==4 && xmlhttp.status==200)
+      {
+        // what do you want to do after it returns that it's done?
+      }
+    }
+  xmlhttp.open("POST","/shared"+envir+"/php/writeStuff.php",true);
+  xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+  if (filename == 'none') {
+	console.log('calling logstuff with no filename param');
+	xmlhttp.send("UN="+UN+"&UID="+UID+"&TheMessage="+TheMessage);  // send the post variables you need 
+}	
+ else {
+	console.log('calling logstuff with a filename param:'+filename);
+	xmlhttp.send("UN="+UN+"&UID="+UID+"&TheMessage="+TheMessage+"&logname="+filename);  // send the post variables you need 
+ }
+}
+
+function UserLogIn(UserName)
+{
+    //document.getElementById("login-menu").style.display="none";
+    //document.getElementById("user-menu").style.display="inline";
+	
+	user = UserName;
+}
+
+function UserLogOut()
+{
+    //document.getElementById("user-menu").style.display="none";
+    //document.getElementById("login-menu").style.display="inline";
+	
+	//alert("You have logged out.");
+	user = "false";
+  
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+    {
+      if (xmlhttp.readyState==4 && xmlhttp.status==200)
+      {
+        if (typeof(login_required) !== "undefined")
+		{
+		    if (login_required == true) {
+		        window.location.href = "../geography"+envir+"/index.php";
+			}	
+			else {
+				//get Geoff to check this... when would this ELSE get executed?
+				window.location.reload(false);	
+			}	
+		}
+		else window.location.reload(false);	
+      }
+    }
+  xmlhttp.open("POST","/shared"+envir+"/php/end-session.php",true);
+  xmlhttp.send();
+}
+
+function checkSession() 
+{
+	//console.log('In registration.php experiment: check session');
+		var usertempname = 'false';
+	if (usertempname !== "false") 
+		{
+		  UserLogIn(usertempname);
+		  //I ran this under normal conditions and it gives correct value of user. at start of checksession value was false, now its got a name
+		  //console.log("and now user is "+user); 
+		  //logStuff(user,'','in checksession, after calling get-session');
+		}  
+		else if (typeof(login_required) !== "undefined")
+		{
+		    if (login_required == true)
+			    window.location.href = "/shared"+envir+"/signin.php";
+		}
+	
+	
+
+}
+
+// not using this... the ajax call fails too often
+function XcheckSession ()
+{
+	// just trying to prove I can write to applog from here
+	//console.log("in check session with user="+user);
+	//logStuff(user,'','at start of checkSession');
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+    {
+      if (xmlhttp.readyState==4 && xmlhttp.status==200)
+      {
+        if (xmlhttp.responseText !== "false") 
+		{
+		  UserLogIn(xmlhttp.responseText);
+		  //I ran this under normal conditions and it gives correct value of user. at start of checksession value was false, now its got a name
+		  //console.log("and now user is "+user); 
+		  //logStuff(user,'','in checksession, after calling get-session');
+		}  
+		else if (typeof(login_required) !== "undefined")
+		{
+		    if (login_required == true)
+			    window.location.href = "/shared"+envir+"/signin.php";
+		}
+		else 
+		{
+		// this should be the case where the responseText is false, and I think I ought to set user to false, 
+		// what I'm looking for in production is a situation where user has a value of someone's username but get session returned false
+		// this would tell me that he was once signed in ok but something happened to his session, and if I don't change user to false, it will
+		// try to save his scores
+			//if (xmlhttp.responseText != user)
+			//	logStuff(user,'','user:'+user+'. in checkSession, get-session returned user:'+ xmlhttp.responseText+".");
+		}
+      }
+    }
+  xmlhttp.open("POST","/shared"+envir+"/php/get-session.php",true);
+  xmlhttp.send();
+}
+
+function validPw() // for change password
+{
+    var inputsFilled = true;
+	updtScreen("oldpw","");
+	updtScreen("newpw","");
+	updtScreen("newpw2","");
+	
+	
+	
+    if (document.pwinput.oldpassword.value == "")
+	{
+	    updtScreen("oldpw","x must be filled");
+		inputsFilled = false;
+	}
+	
+	
+	
+    if (document.pwinput.newpassword.value == "")
+	{
+	    updtScreen("newpw","x must be filled");
+		inputsFilled = false;
+	}
+	else if ( /[^a-zA-Z0-9\`\~\!\@\#\$\%\^\&\*\(\)\_\-\+\=\{\}\[\]\\\|\:\;\"\'\<\>\,\.\?\/]/.test( document.pwinput.newpassword.value ) )
+	{
+		updtScreen("newpw", "x valid characters are alphanumeric and special characters, no spaces");
+		inputsFilled = false;
+		//console.log("in pw a-z check");
+	}
+    else if (document.pwinput.newpassword.value.length < 6)
+	{
+	    updtScreen("newpw","x too short (6 char)");
+		inputsFilled = false;
+	}
+    else if (document.pwinput.newpassword.value == document.pwinput.oldpassword.value)
+	{
+	    updtScreen("newpw","x must be different from current password");
+		inputsFilled = false;
+	}
+    if (document.pwinput.newpassword2.value !== document.pwinput.newpassword.value)
+	{
+	    updtScreen("newpw2","x must match new password");
+		inputsFilled = false;
+	}
+	
+	if (inputsFilled == true)
+	    ChangePassword();
+}
+
+function validClassPw() // for change password
+{
+    var inputsFilled = true;
+	updtScreen("currpwmsg","");
+	updtScreen("newclasspwmsg","");
+	updtScreen("newclasspw2msg","");
+	
+	
+	
+    if (document.classpwinput.currpassword.value == "")
+	{
+	    updtScreen("currpwmsg","x your password must be filled in");
+		inputsFilled = false;
+	}
+	
+	
+	
+    if (document.classpwinput.newclasspassword.value == "")
+	{
+	    updtScreen("newclasspwmsg","x new class password must be filled");
+		inputsFilled = false;
+	}
+	else if ( /[^a-zA-Z0-9\`\~\!\@\#\$\%\^\&\*\(\)\_\-\+\=\{\}\[\]\\\|\:\;\"\'\<\>\,\.\?\/]/.test( document.classpwinput.newclasspassword.value ) )
+	{
+		updtScreen("newclasspwmsg", "x valid characters are alphanumeric and special characters, no spaces");
+		inputsFilled = false;
+		//console.log("in pw a-z check");
+	}
+    else if (document.classpwinput.newclasspassword.value.length < 6)
+	{
+	    updtScreen("newclasspwmsg","x new password is too short (must be at least 6 chars)");
+		inputsFilled = false;
+	}
+    //else if (document.classwinput.newclasspassword.value == document.classpwinput.oldclasspassword.value)
+	//{
+	 //   updtScreen("newclasspwmsg","x must be different from current password");
+	//	inputsFilled = false;
+	//}
+    if (document.classpwinput.newclasspassword2.value !== document.classpwinput.newclasspassword.value)
+	{
+	    updtScreen("newclasspw2msg","x must match new password");
+		inputsFilled = false;
+	}
+	
+	if (inputsFilled == true)
+	    ChangeClassPassword();
+}
+
+function ChangePassword()
+{
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+    {
+      if (xmlhttp.readyState==4 && xmlhttp.status==200)
+      {
+	    if (xmlhttp.responseText == "")
+		{
+		  updtScreen("oldpw","");
+		  updtScreen("newpw","");
+		  updtScreen("newpw2","");
+		  updtScreen("pwupdate","Your password has been changed.");
+		  document.pwinput.reset();
+		  
+		}
+		else
+          updtScreen("oldpw",xmlhttp.responseText);
+      }
+    }
+	
+  var encodedPWOld = encodeURIComponent(document.pwinput.oldpassword.value);
+  var encodedPWNew = encodeURIComponent(document.pwinput.newpassword.value);
+ 
+ 
+  xmlhttp.open("POST","/shared"+envir+"/php/change-password.php",true);
+  xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+  //xmlhttp.send("oldpw="+document.pwinput.oldpassword.value+"&newpw="+document.pwinput.newpassword.value);
+  xmlhttp.send("oldpw="+encodedPWOld+"&newpw="+encodedPWNew);
+}
+
+// this function doesn't seem to be used. The code was moved to the changeclasspassword page
+function ChangeClassPassword()
+{
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+    {
+      if (xmlhttp.readyState==4 && xmlhttp.status==200)
+      {
+	     var trimmedResponse = xmlhttp.responseText.replace(/^\s*/,'').replace(/\s*$/,'').toLowerCase();
+	   // if (xmlhttp.responseText == "")
+	   if (trimmedResponse == "")
+		{
+		  updtScreen("currpwmsg","");
+		  updtScreen("newclasspwmsg","");
+		  updtScreen("newclasspw2msg","");
+		  updtScreen("classpwupdatemsg","The class password has been changed.");
+		  updtScreen("currClassPw",document.classpwinput.newclasspassword.value);
+		  showDiv("currPwLine");
+		  document.classpwinput.reset();
+		  
+		}
+		else {
+			updtScreen("classpwupdatemsg","");   // clear the value of the field that reports a successful change (in case just prior to this error they had a successful change)
+			updtScreen("currpwmsg",xmlhttp.responseText);
+		   
+		 
+		  }
+       }
+	  
+    }
+	
+  xmlhttp.open("POST","/shared"+envir+"/php/change-class-password.php",true);
+  xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+  xmlhttp.send("currpassword="+document.classpwinput.currpassword.value+"&newclasspw="+document.classpwinput.newclasspassword.value);
+}
+
+function ChangeEmailDoover(pwval,newEmail) {
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+    {
+      if (xmlhttp.readyState==4 && xmlhttp.status==200)
+      {
+	    if (xmlhttp.responseText == "")
+		{
+		  updtScreen("pw","");
+		  updtScreen("newe","");
+		  updtScreen("newe2","");
+		  updtScreen("eupdate","Your email has been changed and a confirmation has been sent to your old and new address.");
+		  updtScreen("current_email",document.einput.newemail.value);
+		//document.getElementById('oldemail').disabled = false;
+		//document.getElementById('oldemail').value = "";
+//		  document.einput.oldemail.value="";
+		  document.einput.reset();
+		}
+		else
+			if (xmlhttp.responseText == 'x incorrect password') 
+			{
+			updtScreen("pw",xmlhttp.responseText);
+			}
+			else {
+			updtScreen("newe",xmlhttp.responseText);
+			}
+      }
+    }
+  var encodedPW = encodeURIComponent(pwval);
+   var encodedEmail = encodeURIComponent(newEmail);
+  xmlhttp.open("POST","/shared"+envir+"/php/change-email.php",true);
+  xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+  xmlhttp.send("password="+encodedPW+"&email="+encodedEmail);
+
+
+}
+
+// not used anymore
+function ChangeEmail()
+{
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+    {
+      if (xmlhttp.readyState==4 && xmlhttp.status==200)
+      {
+	    if (xmlhttp.responseText == "")
+		{
+		  updtScreen("pw","");
+		  updtScreen("newe","");
+		  updtScreen("newe2","");
+		  updtScreen("eupdate","Your email has been changed and a confirmation has been sent to your old and new address.");
+		  updtScreen("current_email",document.einput.newemail.value);
+		//document.getElementById('oldemail').disabled = false;
+		//document.getElementById('oldemail').value = "";
+//		  document.einput.oldemail.value="";
+		  document.einput.reset();
+		}
+		else
+			if (xmlhttp.responseText == 'x incorrect password') 
+			{
+			updtScreen("pw",xmlhttp.responseText);
+			}
+			else {
+			updtScreen("newe",xmlhttp.responseText);
+			}
+      }
+    }
+  xmlhttp.open("POST","/shared"+envir+"/php/change-email.php",true);
+  xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+  xmlhttp.send("password="+document.einput.pass.value+"&email="+document.einput.newemail.value);
+}
+
+
+function validEmail() // for change email
+{
+    var inputsFilled = true;
+	
+	newEmail = document.getElementById('chgEmailForm').newemail.value;
+	newEmail2 = document.getElementById('chgEmailForm').newemail2.value;
+	
+    //var x=document.einput.newemail.value;
+	var x=document.getElementById('chgEmailForm').newemail.value;
+	console.log('so the old email value is:'+x);
+   // var atpos=x.indexOf("@");
+   var atpos=newEmail.indexOf("@");
+   // var dotpos=x.lastIndexOf(".");
+   var dotpos=newEmail.lastIndexOf(".");
+	//var oldaddy= document.einput.oldemail.value;
+	
+	updtScreen("pw","");
+	updtScreen("newe","");
+	updtScreen("newe2","");
+	
+	
+	
+	//if (document.einput.newemail.value == "")
+	if (newEmail == "")
+	{
+	    updtScreen("newe","x new email must be filled in");
+		inputsFilled = false;
+	}
+	else if (atpos<1 || dotpos<atpos+2 || dotpos+2>=newEmail.length)
+	{
+	    updtScreen("newe","x invalid email");
+		inputsFilled = false;
+	}
+	curMail=document.getElementById('current_email').innerHTML;
+	//console.log('current email is:'+document.getElementById('current_email').innerHTML);
+	//console.log("value of innerhtml:"+curMail);
+	//if (document.einput.newemail.value == document.einput.oldemail.value) 
+	
+	//if (document.einput.newemail.value == curMail) 
+	if (newEmail == curMail) 
+	{
+		updtScreen("newe","x this is the same as your current email address");
+		//console.log("debugging... oldemail address is:"+oldaddy);
+		inputsFilled = false;
+	}
+    if (newEmail2 !== newEmail)
+	{
+	    updtScreen("newe2","x must match new email");
+		inputsFilled = false;
+	}
+    //if (document.einput.pass.value == "")
+	if (document.getElementById('chgEmailForm').pass.value == "")
+	{
+	    updtScreen("pw","x password must be filled in");
+		inputsFilled = false;
+	}
+	
+	
+	
+	if (inputsFilled == true) {
+//	    ChangeEmail();
+		ChangeEmailDoover(document.getElementById('chgEmailForm').pass.value,newEmail)
+	}
+}
+
+function validAlias() // for change userdata.alias for teachers (and maybe for O students?)
+{
+	console.log('in validAlias of registration.js');
+    var inputsFilled = true;
+   	updtScreen("alias_update_msg","");
+	updtScreen("newa","");
+	
+	
+	if (document.aliasform.newalias.value == "")
+	{
+	    updtScreen("newa","x new display name must be filled in");
+		inputsFilled = false;
+	}
+	// else if (atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length)
+	// {
+	    // updtScreen("newa","x invalid name. Alphabetic, . and space allowed.");
+		// inputsFilled = false;
+	// }
+	result = validateName(document.aliasform.newalias.value,'newa') ;
+	if (result != '') {
+		console.log('validation of name failed');
+		inputsFilled = false;
+	}
+	
+	
+	if (inputsFilled == true)
+	    changeAlias();
+}
+
+function NOTUSEDupdateAliasSchool() {
+	console.log('in updateAliasSchool');
+	resAlias = 0;
+	resSchool = 0;
+	
+	if ((document.aliasform.newAlias.value == '') && (document.aliasform.newSchool.value == '')) {
+		updtScreen('alias_update_msgErr','Display name or school not input. No update performed');
+		return;
+	}
+		
+	resAlias = validateTextField(document.aliasform.newAlias.value,'alias-msg','display name');
+	resSchool = validateTextField(document.aliasform.newSchool.value,'school-msg','school');
+
+	if ((resAlias == 0) && (resSchool == 0)) {
+		console.log('ok to continue with the update');
+	
+	}
+
+}
+
+function validateName(nameVal,errDisplay) {
+console.log('in validateName with namveVal='+nameVal+" and errDisplay field name = "+errDisplay);
+	
+	updtScreen(errDisplay,'');
+	err=0;
+	var errMsg = '';
+	if ( /[^a-zA-Z0-9 \_\'\,\-\.\?\/]/.test( nameVal ) )
+	//if ( /[^a-zA-Z0-9 \_\,\-\.]/.test( document.forms[formname].studentalias.value ) )
+	{
+		errMsg ="Invalid characters in your name. Valid characters are:  alphanumeric , . - _  ' and space.";
+		err = 1;
+		//if ( /\'/.test( document.forms[formname].studentalias.value ) )
+		//	errMsg+=" We're sorry, we can't accept an apostrophe at this time... we will get that fixed soon. In the meantime, please omit the apostrophe.";
+		updtScreen(errDisplay,errMsg);
+	}
+	return err;	
+ }
+
+ 
+ // was written for changing alias and school, but not currently used
+ function  validateTextField(nameVal,errDisplay,textDescr) {
+console.log('in validateTextField with namveVal='+nameVal+" and errDisplay field name = "+errDisplay +" and textDescr="+textDescr);
+	
+	updtScreen(errDisplay,'');
+	err=0;
+	var errMsg = '';
+	if ( /[^a-zA-Z0-9 \_\'\,\-\.\?\/]/.test( nameVal ) )
+	//if ( /[^a-zA-Z0-9 \_\,\-\.]/.test( document.forms[formname].studentalias.value ) )
+	{
+		errMsg ="Invalid characters in "+textDescr+". Valid characters are:  alphanumeric , . - _  ' and space.";
+		err = 1;
+		updtScreen(errDisplay,errMsg);
+	}
+	return err;
+	
+ }
+
+// this is used in teacher profile to update his display name
+function changeAlias()
+{
+  console.log('in changeAlias');
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+  {
+    if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	  console.log("response received:"+xmlhttp.responseText);
+	  if (xmlhttp.responseText == '') {
+		updtScreen("alias_update_msgSucc","Your display name has been updated");
+		updtScreen("alias_update_msgErr",'');
+		console.log('alias update might have worked');
+		updtScreen("current_alias",document.aliasform.newalias.value);
+	  }
+		
+	  else {
+		updtScreen("alias_update_msgErr",xmlhttp.responseText);
+		updtScreen("alias_update_msgSucc",'');
+		updtScreen('newa','x');
+			console.log('alias update failed?');
+	  }	
+    }
+  }
+  // update-user-alias for students should also be able to work here, it echos back '' if everything is ok
+  xmlhttp.open("POST","/shared"+envir+"/php/update-user-alias.php",true);
+  xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+  console.log('sending:'+"alias="+document.aliasform.newalias.value);
+  xmlhttp.send("alias="+document.aliasform.newalias.value);
+}
+
+function  NOTUSEDchangeTeacherNameSchool()
+{
+  console.log('in changeTeacherNameSchool');
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+  {
+    if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	  console.log("response received:"+xmlhttp.responseText);
+	  if (xmlhttp.responseText == '') {
+		updtScreen("alias_update_msgSucc","Your display name has been updated");
+		updtScreen("alias_update_msgErr",'');
+		console.log('alias update might have worked');
+		updtScreen("current_alias",document.aliasform.newalias.value);
+	  }
+		
+	  else {
+		updtScreen("alias_update_msgErr",xmlhttp.responseText);
+		updtScreen("alias_update_msgSucc",'');
+		updtScreen('newa','x');
+			console.log('alias update failed?');
+	  }	
+    }
+  }
+  // update-user-alias for students should also be able to work here, it echos back '' if everything is ok
+  // only send the variables that need to be updated
+  sendString = '';
+  if (document.aliasform.newalias.value != '') {
+	sendString =  "alias="+document.aliasform.newalias.value;
+  }	
+  if (document.aliasform.newschool.value != '') {
+    if (sendString!= '') sendString += "&";
+	sendString +=  "school="+document.aliasform.newschool.value;
+  }		  
+ 
+  xmlhttp.open("POST","/shared"+envir+"/php/update-TeacherNameSchool.php",true);
+  xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+  console.log('sending:'+sendString);
+  //xmlhttp.send(sendString);
+  
+  
+}
+
+
+function ResendLink(user_name) //resend the verification link, signin.php check-login.php
+{
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+    {
+      if (xmlhttp.readyState==4 && xmlhttp.status==200)
+      {
+	    updtScreen("login_confirm",xmlhttp.responseText);
+		updtScreen("login_error","");
+      }
+    }
+  xmlhttp.open("POST","/shared"+envir+"/php/send-email.php",true);
+  xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+  xmlhttp.send("user_name="+user_name);
+}
+
+function filterLetters(event)
+{
+    var keyCode = ('which' in event) ? event.which : event.keyCode;
+	
+	if ((keyCode >= 48 && keyCode <= 57) || (keyCode >= 96  && keyCode <= 105 ) || (keyCode == 8)) //numbers, numpad, or backspace
+	    return true; 
+	else 
+	    return false;
+}
+
+function validThresh() // for customizing pass threshold
+{
+    var entry = document.passinput.threshold.value;
+    if (entry == "")
+	{
+		updtScreen("threshsuccess","");
+	    updtScreen("threshfail","Field is empty.");
+	}
+	else if (isNaN(entry))
+	{
+		updtScreen("threshsuccess","");
+	    updtScreen("threshfail","Not a number.");
+	}
+	else if (entry < 50 || entry > 100)
+	{
+		updtScreen("threshsuccess","");
+	    updtScreen("threshfail","Out of bounds (50-100)");
+	}
+    else
+	{
+	    setThreshold();
+		updtScreen("threshfail","");
+		updtScreen("threshsuccess","Pass threshold updated.");
+	}
+}
+
+function setThreshold()
+{
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+  {
+    if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	  updtScreen("current_thresh",document.passinput.threshold.value);
+	  
+    }
+  }
+  
+  xmlhttp.open("POST","/shared"+envir+"/php/update-threshold.php",true);
+  xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+  xmlhttp.send("threshold="+document.passinput.threshold.value);
+}
+
+function sendLogin()
+{
+ 
+  var xmlhttp;
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+  {
+    if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	  if (xmlhttp.responseText == document.loginput.user_name.value)
+	  {
+		UserLogIn(document.loginput.user_name.value);
+		
+		if (document.getElementById('last_url').innerHTML == 'true') {
+			
+		    window.history.back();
+		}
+		else {
+			
+		    window.location.href = "../geography"+envir+"/index.php";
+		}	
+	    updtScreen("login_error","");
+	    updtScreen("login_confirm","You have logged on.");
+	  }
+	  else
+	  {
+	    updtScreen("login_confirm","");
+	    updtScreen("login_error",xmlhttp.responseText);
+	  }
+    }
+  }
+  xmlhttp.open("POST","/shared"+envir+"/php/check-login.php",true);
+  xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+
+  xmlhttp.send("user_name="+document.loginput.user_name.value+"&password="+document.loginput.password.value);
+}
+
+
+
+function validateStudents()
+{
+    
+	var reg = true;
+	
+	updtScreen("invalid_prefix","");
+	updtScreen("invalid_num_students","");
+	updtScreen("invalid_password","");
+	updtScreen("invalid_password2","");
+	
+	
+    if (document.input.prefix.value == "")
+	{
+	    updtScreen("invalid_prefix","x Prefix must be filled in");
+		reg = false;
+	}
+	else if (document.input.prefix.value.length < 4)
+	{
+	    updtScreen("invalid_prefix","x Prefix too short (min. 4 char)");
+		reg = false;
+	}
+	
+	if (document.input.password.value == "")
+	{
+	    updtScreen("invalid_password","x must be filled in");
+		reg = false;
+	}
+	else if (document.input.password.value.length < 6)
+	{
+	    updtScreen("invalid_password","x too short (6 char)");
+		reg = false;
+	}
+	else if ( /[^a-zA-Z0-9\`\~\!\@\#\$\%\^\&\*\(\)\_\-\+\=\{\}\[\]\\\|\:\;\"\'\<\>\,\.\?\/]/.test( document.input.password.value ) )
+	{
+		updtScreen("invalid_password", "x Valid characters are alphanumeric and special characters, no spaces");
+		reg = false;
+		
+	}
+	
+	if (document.input.password.value !== document.input.password2.value)
+	{
+	    updtScreen("invalid_password2","x Must match password");
+		reg = false;
+	}
+	
+	
+	if (reg == true)
+	{
+	    callToCreateStudents();
+	}
+}
+
+function XXXNOTUSEDvalidate()
+{
+    var x=document.input.email.value;
+    var atpos=x.indexOf("@");
+    var dotpos=x.lastIndexOf(".");
+	var reg = true;
+	
+	updtScreen("invalid_user_name","");
+	updtScreen("invalid_email","");
+	updtScreen("invalid_password","");
+	updtScreen("invalid_password2","");
+	updtScreen("invalid_terms","");
+	updtScreen("register_confirm","");
+	
+    if (document.input.user_name.value == "")
+	{
+	    updtScreen("invalid_user_name","x must be filled in");
+		reg = false;
+	}
+	else if (document.input.user_name.value.length < 4)
+	{
+	    updtScreen("invalid_user_name","x too short (4 char)");
+		reg = false;
+	}
+	
+	if (document.input.email.value == "")
+	{
+	    updtScreen("invalid_email","x must be filled in");
+		reg = false;
+	}
+	else if (atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length)
+	{
+	    updtScreen("invalid_email","x invalid email");
+		reg = false;
+	}
+	
+	if (document.input.password.value == "")
+	{
+	    updtScreen("invalid_password","x must be filled in");
+		reg = false;
+	}
+	else if (document.input.password.value.length < 6)
+	{
+	    updtScreen("invalid_password","x too short (6 char)");
+		reg = false;
+	}
+	else if ( /[^a-zA-Z0-9\`\~\!\@\#\$\%\^\&\*\(\)\_\-\+\=\{\}\[\]\\\|\:\;\"\'\<\>\,\.\?\/]/.test( document.input.password.value ) )
+	{
+		updtScreen("invalid_password", "x valid characters are alphanumeric and special characters, no spaces");
+		reg = false;
+		
+	}
+	
+	if (document.input.password.value !== document.input.password2.value)
+	{
+	    updtScreen("invalid_password2","x must match password");
+		reg = false;
+	}
+	if (document.input.terms.checked == false)
+	{
+	    updtScreen("invalid_terms","x required");
+		reg = false;
+	}
+	
+	if (reg == true)
+	{
+	    loadRegister();
+	}
+}
+
+
+
+function validateNewUser()
+{
+    var x=document.input.email.value;
+    var atpos=x.indexOf("@");
+    var dotpos=x.lastIndexOf(".");
+	var reg = true;
+	
+	updtScreen("invalid_user_name","");
+	updtScreen("invalid_email","");
+	updtScreen("invalid_email2","");
+	updtScreen("invalid_password","");
+	updtScreen("invalid_password2","");
+	updtScreen("invalid_terms","");
+	updtScreen("invalid_schoolname","");
+	updtScreen("register_confirm","");
+	updtScreen("general_error","");
+	
+    if (document.input.user_name.value == "")
+	{
+	    updtScreen("invalid_user_name","x must be filled in");
+		reg = false;
+	}
+	else if (document.input.user_name.value.length < 4)
+	{
+	    updtScreen("invalid_user_name","x too short (4 char)");
+		reg = false;
+	}
+	
+	// username must contain only  a-z, A-Z, 0-9 or _  (special message if s.)
+	if ( document.input.user_name.value.substring(0, 2) == 's.') {
+		updtScreen("invalid_user_name","x Students that have been assigned a user name starting with 's.' should use the sign in form at the top of the screen.");
+		 reg = false;
+	}
+	else  {
+		if( /[^a-zA-Z0-9_]/.test( document.input.user_name.value ) ) {
+			updtScreen("invalid_user_name","x User name can only contain letters a-z, numbers 0-9 and _");
+			reg = false;
+		}
+		if  ((document.input.user_name.value.toLowerCase() == 'true') || (document.input.user_name.value.toLowerCase() == 'false') || (document.input.user_name.value.toLowerCase() == 'null')) {
+			updtScreen("invalid_user_name","x "+document.input.user_name.value+" is not a valid user name (reserved word)");
+			reg = false;
+		}
+			
+	}   
+ 
+	
+	
+	if (document.input.email.value == "")
+	{
+	    updtScreen("invalid_email","x must be filled in");
+		reg = false;
+	}
+	else if (atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length)
+	{
+	    updtScreen("invalid_email","x invalid email");
+		reg = false;
+	}
+	
+	if (document.input.email.value !== document.input.email2.value)
+	{
+	    updtScreen("invalid_email2","x must match email");
+		reg = false;
+	}
+	
+	if (document.input.password.value == "")
+	{
+	    updtScreen("invalid_password","x must be filled in");
+		reg = false;
+	}
+	else if (document.input.password.value.length < 6)
+	{
+	    updtScreen("invalid_password","x too short (6 char)");
+		reg = false;
+	}
+	else if ( /[^a-zA-Z0-9\`\~\!\@\#\$\%\^\&\*\(\)\_\-\+\=\{\}\[\]\\\|\:\;\"\'\<\>\,\.\?\/]/.test( document.input.password.value ) )
+	{
+		updtScreen("invalid_password", "x valid characters are alphanumeric and special characters, no spaces");
+		reg = false;
+		
+	}
+	
+	if (document.input.password.value !== document.input.password2.value)
+	{
+	    updtScreen("invalid_password2","x must match password");
+		reg = false;
+	}
+	if (document.input.terms.checked == false)
+	{
+	    updtScreen("invalid_terms","x required");
+		reg = false;
+	}
+	
+	if (document.input.teacher.checked == true)
+	{
+		if (document.input.schoolname.value == '')
+		{
+			updtScreen("invalid_schoolname","x required");
+			reg = false;
+		}
+		else {
+			if( /[^a-zA-Z-\s\.\']/.test( document.input.schoolname.value ) ) {
+			updtScreen("invalid_schoolname","x School name can only contain letters a-z, '. - and space");
+			reg = false;
+			}
+		}	
+	}
+	else {
+		document.input.schoolname.value = '';
+		updtScreen("invalid_schoolname","");
+	}	
+	
+	if (reg == true)
+	{
+	    loadRegisterNewUser();
+	}
+}
+
+
+
+
+
+function callToCreateStudents()
+{
+  var xmlhttp;
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+  {
+    if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	  //var trimmedResponse = xmlhttp.responseText.replace(/^\s*/,'').replace(/\s*$/,'').toLowerCase();
+	  var trimmedResponse = xmlhttp.responseText.replace(/^\s*/,'').replace(/\s*$/,'');
+	 //console.log("respTxt="+xmlhttp.responseText+" and trimmed is:"+trimmedResponse+" and "+document.input.user_name.value+" rest of test line");
+	  
+	  //if (xmlhttp.responseText == document.input.user_name.value)
+	   if (trimmedResponse == document.input.user_name.value)
+	  {
+	    updtScreen("register_confirm","Student records have been created. You're good to go!");
+	    document.input.reset();
+	  }
+	  else
+	  {
+	    if (xmlhttp.responseText == "x email already in use")
+		  updtScreen("invalid_email",xmlhttp.responseText);
+		else
+          updtScreen("invalid_user_name",xmlhttp.responseText);
+	  }
+    }
+  }
+  xmlhttp.open("POST","/shared"+envir+"/php/create-students.php",true);
+  xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+
+  xmlhttp.send("prefix="+document.input.prefix.value+"&password="+document.input.password.value+"&num_students="+document.input.num_students.value);
+}
+
+function loadRegisterNewUser()
+{
+  var xmlhttp;
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+  {
+   //console.log("in ready state change thing, status is "+xmlhttp.status)
+    if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+		// response will be a series of comma delimited values, separated by ;. For example 1,,;0,uname,,;1,email,email already used
+		// it should either be 0,fieldname,''   or one or more 1,fieldname,msg; 
+		arrResult = xmlhttp.responseText.split(";");	
+		//console.log("size of response="+arrResult.length);
+		overallResult = arrResult[0].split(',');
+		
+		if (overallResult[0] == 0)
+		{
+			//console.log("looks good");
+			updtScreen("register_confirm","You have successfully registered. Go to your email and use the link we have sent you to activate your account. You may have to look in your spam or junk mail folder.");
+			document.input.reset();
+		}
+		else
+		for (i=0; i<arrResult.length; i++)
+		{
+			dtlResult = arrResult[i].split(',');
+			//console.log("result"+i+":"+dtlResult[0]+";"+dtlResult[1]+";"+dtlResult[2]);
+			
+			if (dtlResult[1] == 'email')  updtScreen("invalid_email",dtlResult[2]);
+			if (dtlResult[1] == 'username')  updtScreen("invalid_user_name",dtlResult[2]);
+			if (dtlResult[1] == 'general')  updtScreen("general_error",dtlResult[2]);
+		}	
+		
+		 
+	  
+    }
+  }
+  xmlhttp.open("POST","/shared"+envir+"/php/create-user.php",true);
+  xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+
+  if (document.input.teacher.checked == true) {
+	teacherStr="&teacher=1&schoolname="+document.input.schoolname.value;
+  }
+  else teacherStr='';
+  
+  // I need to encode the password because a & would make it look like another parm is happening
+  var encodedPW = encodeURIComponent(document.input.password.value);
+  var encodedEmail = encodeURIComponent(document.input.email.value);
+  // sendString="user_name="+document.input.user_name.value+"&password="+document.input.password.value+"&email="+document.input.email.value+teacherStr;
+  sendString="user_name="+document.input.user_name.value+"&password="+encodedPW+"&email="+encodedEmail+teacherStr;
+
+  //xmlhttp.send("user_name="+document.input.user_name.value+"&password="+document.input.password.value+"&email="+document.input.email.value+teacherStr);
+  
+  //xmlhttp.send("user_name="+document.input.user_name.value+"&password="+encodedPW+"&email="+encodedEmail+teacherStr);
+  xmlhttp.send(sendString);
+  
+}
+
+function XXXNOTUSEDloadRegister()
+{	   
+  var xmlhttp;
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+  {
+    if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	  if (xmlhttp.responseText == document.input.user_name.value)
+	  {
+	    updtScreen("register_confirm","You have successfully registered. Go to your email and use the link we have sent you to activate your account. You may have to look in your spam or junk mail folder.");
+	    document.input.reset();
+	  }
+	  else
+	  {
+	    if (xmlhttp.responseText == "x email already in use")
+		  updtScreen("invalid_email",xmlhttp.responseText);
+		else
+          updtScreen("invalid_user_name",xmlhttp.responseText);
+	  }
+    }
+  }
+  xmlhttp.open("POST","/shared"+envir+"/php/create-userJSONvers.php",true);
+  xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+  
+  var encodedPW = encodeURIComponent(document.input.password.value);
+  console.log('in registration.js, endocdedPW:'+encodedPW);
+
+ 
+ 
+ 
+ //sendString = "user_name="+document.input.user_name.value+"&password="+document.input.password.value+"&email="+document.input.email.value;
+ sendString = "user_name="+document.input.user_name.value+"&password="+encodedPW+"&email="+document.input.email.value;
+  //xmlhttp.send("user_name="+document.input.user_name.value+"&password="+document.input.password.value+"&email="+document.input.email.value);
+ xmlhttp.send("user_name="+document.input.user_name.value+"&password="+encodedPW+"&email="+document.input.email.value);
+
+}
+
+
+function NotifyOption()
+{
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+  {
+    if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	  updtScreen("notifyupdate","Your notification options have been updated.");
+	  updtScreen("notifyval",xmlhttp.responseText);
+	  toggleDisplay('buttonOn');
+	  toggleDisplay('buttonOff');
+    }
+  }
+  
+  xmlhttp.open("POST","/shared"+envir+"/php/update-notify.php",true);
+  xmlhttp.send();
+}
+
+function toSignIn() //return for sign in page
+{
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function()
+  {
+    if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	   window.location.href = "/shared"+envir+"/signin.php";
+    }
+  }
+  xmlhttp.open("POST","/shared"+envir+"/php/set-return.php",true);
+  xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+  xmlhttp.send("url="+document.URL);
+}
+
+function updateQuizDetails (field)
+{
+    hideDiv("geotable");
+    hideDiv("flgtable");
+    hideDiv("peotable");
+    hideDiv("arttable");
+    hideDiv("geotrivtable");
+	showDiv(field+"table");
+}
+
+function updtScreen (id,val) {
+	if (document.getElementById(id))
+	{
+		document.getElementById(id).innerHTML=val;
+	}	
+}
+
+function openVisible (name) {
+	if (document.getElementById(name)) 
+	{
+		document.getElementById(name).style.visibility="visible";
+	}	
+}
+
+
+function closeInvisible (name) {
+	if (document.getElementById(name)) 
+	{
+		document.getElementById(name).style.visibility="hidden";
+	}	
+}
+
+function showDivInline(id) {
+	if (document.getElementById(id)) 
+	{
+		var elem = document.getElementById(id);
+		elem.style.display = 'inline';
+	}	
+
+}
+
+function showDiv(id) {
+	if (document.getElementById(id)) 
+	{
+		var elem = document.getElementById(id);
+		elem.style.display = 'block';
+	}	
+
+}
+
+function hideDiv(id) {
+	//console.log("hideDiv, in registration.js "+id);
+	if (document.getElementById(id)) 
+	{
+		var elem = document.getElementById(id);
+		elem.style.display = 'none';
+	}
+}
+
+function toggleDisplay(id) {
+	if (document.getElementById(id)) 
+	{
+		var elem = document.getElementById(id);
+		if (elem.style.display == 'none')
+			showDivInline(id);
+		else
+			hideDiv(id);
+	}		
+}
+
+// functions for email subscriptions
+function checkform()
+{
+  for (i=0;i<fieldstocheck.length;i++) {
+    if (eval("document.subscribeform.elements['"+fieldstocheck[i]+"'].type") == "checkbox") {
+      if (document.subscribeform.elements[fieldstocheck[i]].checked) {
+      } else {
+        alert("Please enter your "+fieldnames[i]);
+        eval("document.subscribeform.elements['"+fieldstocheck[i]+"'].focus()");
+
+        return false;
+      }
+    } else {
+      if (eval("document.subscribeform.elements['"+fieldstocheck[i]+"'].value") == "") {
+        alert("Please enter your "+fieldnames[i]);
+        eval("document.subscribeform.elements['"+fieldstocheck[i]+"'].focus()");
+
+        return false;
+      }
+    }
+  }
+  for (i=0;i<groupstocheck.length;i++) {
+    if (!checkGroup(groupstocheck[i],groupnames[i])) {
+      return false;
+    }
+  }
+  
+
+  return true;
+}
+
+var fieldstocheck = new Array();
+var fieldnames = new Array();
+function addFieldToCheck(value,name)
+{
+  fieldstocheck[fieldstocheck.length] = value;
+  fieldnames[fieldnames.length] = name;
+}
+var groupstocheck = new Array();
+var groupnames = new Array();
+function addGroupToCheck(value,name)
+{
+  groupstocheck[groupstocheck.length] = value;
+  groupnames[groupnames.length] = name;
+}
+
+function compareEmail()
+{
+  return (document.subscribeform.elements["email"].value == document.subscribeform.elements["emailconfirm"].value);
+}
+function checkGroup(name,value)
+{
+  option = -1;
+  for (i=0;i<document.subscribeform.elements[name].length;i++) {
+    if (document.subscribeform.elements[name][i].checked) {
+      option = i;
+    }
+  }
+  if (option == -1) {
+    alert ("Please enter your "+value);
+
+    return false;
+  }
+
+  return true;
+}
+
+function popupCenter(w, h,winname) {
+var left = (screen.width/2)-(w/2);
+var top = (screen.height/2)-(h/2);
+if (winname=='') winname='new';
+return window.open('', winname, 'dialog,modal,scrollbars=no,resizable=no,width='+w+',height='+h+',top='+top+',left='+left);
+} 
+
+
+function saveFave() {
+	if (category === undefined) {
+		category='geo';
+		//console.log("in saveFave, no category so set it to:"+category);
+	}	
+	//else console.log("in saveFave, category is:"+category);
+	fave_ctr++;
+if (fave_ctr >= fave_limit) {
+	alert("The star feature has been temporarily disabled due to spamming.");
+}
+else {	
+	if (window.XMLHttpRequest)   {xmlhttp=new XMLHttpRequest(); }
+	else  { xmlhttp=new ActiveXObject("Microsoft.XMLHTTP"); }
+	xmlhttp.onreadystatechange=function() {
+      	if (xmlhttp.readyState==4 && xmlhttp.status==200) {
+			//if  (xmlhttp.responseText == '') {
+			//	alert("Quiz saved to your favorites.");
+			//	document.getElementById('fave').href = 'javascript:unsaveFave();';
+			//	updtScreen('fave',"<img class='fave_saved' src='images/spacer.gif' title='click to remove from your favorite quizzes'>");
+			//}
+			//else  {
+			//	// error occurred 
+			//	alert(xmlhttp.responseText);
+			//}
+			
+			// remove above *********************
+			if  (xmlhttp.responseText == '') {
+				alert("Quiz saved to your favorites.");
+				document.getElementById('fave').href = 'javascript:unsaveFave();';
+				updtScreen('fave',"<img class='fave_saved' src='images/spacer.gif' title='click to remove from your favorite quizzes'>");
+			}
+			else  {
+				// error occurred 
+				// let's use the first character for something... like letting me know if the person should sign in again
+				errCode = xmlhttp.responseText.substring(0,1);
+				restofResponse = xmlhttp.responseText.substring(1);
+				if (errCode == '2') {
+					addMsg = "The page will reload. You may need to sign in again.";
+				}
+				else addMsg = '';
+				alert(restofResponse+" "+addMsg);
+				if (errCode == '2') location.reload();
+			}
+      	}
+    }
+	locn="../shared"+envir+"/php/save-fav.php";
+  	xmlhttp.open("POST",locn,true);
+  	xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+	//if ( typeof qid == 'undefined') {
+	//	xmlhttp.send("quiz="+id+"&cust_quiz_id=0"+"&cat="+category+"&debug=sit1");
+	//}	
+	//else {
+	//	xmlhttp.send("quiz="+id+"&cust_quiz_id="+qid+"&cat="+category+"&debug=sit2");
+	//}
+	if  (( typeof qid == 'undefined') || (  qid == ''))
+		qid = 0;
+	xmlhttp.send("quiz="+id+"&cust_quiz_id="+qid+"&cat="+category);	
+}	
+}
+
+function xxxxunsaveFave2() {
+	fave_ctr++;
+if (fave_ctr >= fave_limit) {
+	alert("The star feature has been temporarily disabled due to spamming.");
+}
+else {
+	if (window.XMLHttpRequest)   {xmlhttp=new XMLHttpRequest(); }
+	else  { xmlhttp=new ActiveXObject("Microsoft.XMLHTTP"); }
+	xmlhttp.onreadystatechange=function() {
+      	if (xmlhttp.readyState==4 && xmlhttp.status==200) {
+						
+			if  (xmlhttp.responseText == '') {
+				alert("Quiz removed from your favorites.");
+			//if (fave_ctr >= fave_limit) {
+				
+			//	alert("The star feature has been temporarily disabled due to spamming.");
+			//	updtScreen('fave',"<img class='fave_saved' src='images/spacer.gif' title=''");
+			//}
+			//else {
+				document.getElementById('fave').href = 'javascript:saveFave();';
+				updtScreen('fave',"<img class='fave_unsaved' src='images/spacer.gif' title='click to save as favorite quiz'>");
+			//}
+			}
+			else  {
+				// error occurred 
+				// let's use the first character for something... like letting me know if the person should sign in again
+				errCode = substr(xmlhttp.responseText,0,1);
+				restofResponse = substr(xmlhttp.responseText,1);
+				if (errCode == '2') {
+					addMsg = "It could be that you need to sign in again.";
+				}
+				else addMsg = '';
+				alert(restofResponse+" "+addMsg);
+			}
+			
+      	}
+    }
+	locn="../shared"+envir+"/php/unsave-fav.php";
+  	xmlhttp.open("POST",locn,true);
+  	xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+	if ( typeof qid == 'undefined') {
+		xmlhttp.send("quiz="+id);
+	}	
+	else {
+		xmlhttp.send("quiz="+id+"&cust_quiz_id="+qid);
+		console.log("sent to unfav: quiz="+id+"&cust_quiz_id="+qid);
+	}
+}	
+}
+
+
+function unsaveFave() {
+	fave_ctr++;
+	if (category === undefined) {
+		category='geo';
+		//console.log("in unsaveFave, no category so set it to:"+category);
+	}	
+	//else console.log("in unsaveFave, category is:"+category);
+	
+if (fave_ctr >= fave_limit) {
+	alert("The star feature has been temporarily disabled due to spamming.");
+}
+else {
+	if (window.XMLHttpRequest)   {xmlhttp=new XMLHttpRequest(); }
+	else  { xmlhttp=new ActiveXObject("Microsoft.XMLHTTP"); }
+	xmlhttp.onreadystatechange=function() {
+      	if (xmlhttp.readyState==4 && xmlhttp.status==200) {
+			if  (xmlhttp.responseText == '') {
+				alert("Quiz removed from your favorites.");
+			//if (fave_ctr >= fave_limit) {
+				
+			//	alert("The star feature has been temporarily disabled due to spamming.");
+			//	updtScreen('fave',"<img class='fave_saved' src='images/spacer.gif' title=''");
+			//}
+			//else {
+				document.getElementById('fave').href = 'javascript:saveFave();';
+				updtScreen('fave',"<img class='fave_unsaved' src='images/spacer.gif' title='click to save as favorite quiz'>");
+			//}
+			}
+			else  {
+				// error occurred 
+				// let's use the first character for something... like letting me know if the person should sign in again
+				errCode = xmlhttp.responseText.substring(0,1);
+				restofResponse = xmlhttp.responseText.substring(1);
+				if (errCode == '2') {
+					addMsg = "The page will reload. You may need to sign in again.";
+				}
+				else addMsg = '';
+				alert(restofResponse+" "+addMsg);
+				if (errCode == '2') location.reload();
+			}
+      	}
+    }
+	locn="../shared"+envir+"/php/unsave-fav.php";
+  	xmlhttp.open("POST",locn,true);
+  	xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+	if  (( typeof qid == 'undefined') || (  qid == ''))
+		qid = 0;
+	
+	xmlhttp.send("quiz="+id+"&cust_quiz_id="+qid+"&cat="+category);
+	
+}	
+}
+</script><!--
+<script type="text/javascript" src="../shared/js/registration.js?v20190428"></script>
+-->
 
 <div class="whiteBar"> </div>
 
-<div class="upperNav"><ul><li><a href="/geography/index.php" class="active">Geography</a></li><li><a href="/flags/index.php">Flags</a></li><li><a href="/people/index.php">World Leaders</a></li><li><a href="/art/index.php">Art</a></li><li><a href="/math/index.php">Math</a></li><li><a href="/games/index.php">Games</a></li><li><a href="/blog/category/whats-new/">What's New</a></li><li class="main" id="login-menu"><a href='javascript:document.forms["goToSignIn"].submit();'>Sign in/Register</a></li>
+<div class="upperNav">
+<ul>
+<li><a href="/geography/index.php" class="active">Geography</a></li>
+<li><a href="/flags/index.php">Flags</a></li>
+<li><a href="/people/index.php">World Leaders</a></li>
+<li><a href="/art/index.php">Art</a></li>
+<li><a href="/math/index.php">Math</a></li>
+<li><a href="/games/index.php">Games</a></li>
+<li><a href="/blog/">What's New</a></li>
+<li class="main" id="login-menu"><a href='javascript:document.forms["goToSignIn"].submit();'>Sign in/Register</a></li>
 
 
-</ul></div>	
+</ul>
+</div>	
 	
 <ul id="menu">
 
@@ -268,6 +1813,8 @@ ga('send', 'pageview', { 'anonymizeIp': true });
         <h3>WORLD map quizzes</h3>
         <ul>
           <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/water-icon.gif" height="12" width="12" alt="water icon" title="body of water quiz"><a href="../geography/world-quiz.php">Continents and oceans</a></li>
+		  <li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/paper-icon.gif" height="12" width="12" alt="print map icon" title="printable maps of world continents and oceans"><a href="../geography/printable-maps.php">Printable Maps of World: continents and oceans</a></li>
+		    <li><a href="../geography/APHugRegions-quiz.php">AP Human Geography: World Regions</a></li>
          <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a href="../geography/world-countries-quiz.php">Lots of countries! (159)</a></li>
 		<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a href="../geography/world-countries-magnifier-quiz.php?qid=1806">All the countries! (196)</a></li>
 		<li><img class="navicon" src="../geography/images/icons/city-icon.gif" height="12" width="12" alt="city icon" title="city quiz"><a href="../geography/world-capitals-quiz.php?qid=53394">World: capital cities (196)</a></li>
@@ -275,8 +1822,11 @@ ga('send', 'pageview', { 'anonymizeIp': true });
          
 		 <li><img class="navicon" src="../geography/images/icons/water-icon.gif" height="12" width="12" alt="water icon" title="water quiz"><a href="../geography/world-rivers-quiz.php">World Rivers</a></li>
 		  <li><img class="navicon" src="../geography/images/icons/water-icon.gif" height="12" width="12" alt="water icon" title="water quiz"><a href="../geography/world-water-magnifier-quiz.php">World Water <span class="navNumQs">(225 questions)</span></a></li>
+		  <li><img class="navicon" src="../geography/images/icons/physical-icon.gif" height="12" width="12" alt="physical icon" title="physical quiz"><a href="../geography/world-deserts-quiz.php">World Deserts</a></li>
 		  <li><img class="navicon" src="../geography/images/icons/physical-icon.gif" height="12" width="12" alt="physical icon" title="physical quiz"><a href="../geography/world-mountains-quiz.php">World Mountain Ranges</a></li>
+
 		    <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/physical-icon.gif" height="12" width="12" alt="physical icon" title="physical quiz"><img class="navicon" src="../geography/images/icons/water-icon.gif" height="12" width="12" alt="water icon" title="water quiz"><a href="../geography/mega-quiz.php">World: countries, US states, water, mountains etc</a></li>
+			 <li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="travel and tourism quiz"><a title="" href="../geography/all-airports-txt-quiz.php">Airport codes (type answer) </a></li>
         </ul>
 	
       </div>
@@ -300,16 +1850,18 @@ ga('send', 'pageview', { 'anonymizeIp': true });
 	 <ul>
       
 	<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a href="../geography/africa-quiz.php">All Countries of Africa <span class="navNumQs">(55 questions)</span></a> </li>
+	<li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/Tt-type-icon.png" height="12" width="12" alt="text input icon" title="text input quiz"><a href="../geography/africa-txt-quiz.php">Africa: countries (type answer)</a> </li>
 	<li><img class="navicon" src="../geography/images/icons/paper-icon.gif" height="12" width="12" alt="print map icon" title="printable maps of Africa"><a href="../geography/printable-maps.php">Printable Maps of Africa</a></li>
 	<li><img class="navicon" src="../geography/images/icons/city-icon.gif" height="12" width="12" alt="city icon" title="city quiz"><a href="../geography/africa-caps-quiz.php">Africa Capital cities  map quiz <span class="navNumQs">(55 questions)</span></a></li>
 	
 
-	<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/flag-icon.gif" height="12" width="12" alt="flag icon" title="flag quiz"> <a href="../geography/africa-flags-quiz.php">Match country flags to the map </a></li>
+	<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/flag-icon.gif" height="12" width="12" alt="flag icon" title="flag quiz"> <a href="../geography/africa-flags-quiz.php">Africa: Match country flags to the map </a></li>
 	<li><img class="navicon" src="../geography/images/icons/water-icon.gif" height="12" width="12" alt="water icon" title="body of water quiz"><a href="../geography/africa-rivers-quiz.php">Africa: Rivers and lakes  map quiz</a></li>
+	<li><img class="navicon" src="../geography/images/icons/water-icon.gif" height="12" width="12" alt="water icon" title="body of water quiz"><a href="../geography/africa-water-quiz.php">Africa: Bodies of water map quiz (NEW!)</a></li>
 	<li><img class="navicon" src="../geography/images/icons/physical-icon.gif" height="12" width="12" alt="physical icon" title="physical features quiz"><img class="navicon" src="../geography/images/icons/water-icon.gif" height="12" width="12" alt="water icon" title="body of water quiz"><a href="../geography/africa-physical-quiz.php">Africa: Physical features  map quiz</a></li>
 	
 	 <li><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="tourist destination quiz"><a title="" href="../geography/africa-tourist-quiz.php">Africa tourist destinations </a></li>	
- 	 
+ 	  <li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="travel and tourism quiz"><a title="" href="../geography/africa-airports-txt-quiz.php">Africa Airport codes (type answer) </a></li>
  </ul>
  
 	 <h3>Africa by Region</h3>
@@ -319,7 +1871,7 @@ ga('send', 'pageview', { 'anonymizeIp': true });
     <li><img class="navicon" src="../geography/images/icons/city-icon.gif" height="12" width="12" alt="city icon" title="city quiz"><a href="../geography/africa-western-caps-quiz.php">Western Africa Capital cities    <span class="navNumQs">(16 questions)</span></a></li>
 	<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a href="../geography/africa-eastern-quiz.php">Eastern Africa countries    <span class="navNumQs">(11 questions)</span></a> </li>
 	<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a href="../geography/africa-central-quiz.php">Central Africa countries    <span class="navNumQs">(11 questions)</span></a></li>
-	<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a href="../geography/africa-southern-quiz.php">South Africa countries  <span class="navNumQs">(10 questions)</span></a> </li>
+	<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a href="../geography/africa-southern-quiz.php">Southern Africa countries  <span class="navNumQs">(10 questions)</span></a> </li>
 
 	 </ul>
     </div>
@@ -350,8 +1902,10 @@ ga('send', 'pageview', { 'anonymizeIp': true });
 		<h3>THE AMERICAS  map quizzes</h3>
 		<ul>
         	<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a title="" href="../geography/americas-quiz.php">The Americas - countries</a></li>
+			<li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/Tt-type-icon.png" height="12" width="12" alt="text input icon" title="text input quiz"><a href="../geography/americas-txt-quiz.php">The Americas - countries (type answer)</a> </li>
 			<li><img class="navicon" src="../geography/images/icons/city-icon.gif" height="12" width="12" alt="city icon" title="city quiz"><a title="" href="../geography/americas-caps-quiz.php">The Americas - capital cities</a></li>
-			<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/flag-icon.gif" height="12" width="12" alt="flag icon" title="flag quiz"> <a href="../geography/americas-flags-quiz.php">Match country flags to the map </a></li>
+			<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/flag-icon.gif" height="12" width="12" alt="flag icon" title="flag quiz"> <a href="../geography/americas-flags-quiz.php">Americas: Match country flags to the map </a></li>
+			 <li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="travel and tourism quiz"><a title="" href="../geography/americas-airports-txt-quiz.php">Americas Airport codes (type answer) </a></li>
 		</ul>	
         <h3>NORTH AMERICA  map quizzes</h3>
         <ul>
@@ -360,6 +1914,7 @@ ga('send', 'pageview', { 'anonymizeIp': true });
                 <li><img class="navicon" src="../geography/images/icons/city-icon.gif" height="12" width="12" alt="region icon" title="city quiz"><a title="" href="../geography/carib-caps-quiz.php">Caribbean capital cities</a></li>
                 <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a title="" href="../geography/centamer-carib-quiz.php">Central America and part of Caribbean</a></li>
 		<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a title="" href="../geography/centralamer-quiz.php">Central America: countries</a></li>
+		<li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/paper-icon.gif" height="12" width="12" alt="print map icon" title="printable maps of Central America countries"><a href="../geography/printable-maps.php">Printable Maps of Central America countries</a></li>
 		<li><img class="navicon" src="../geography/images/icons/city-icon.gif" height="12" width="12" alt="city icon" title="city quiz"><a title="" href="../geography/centralamer-caps-quiz.php">Central America: country capitals</a></li>
 		<li><img class="navicon" src="../geography/images/icons/water-icon.gif" height="12" width="12" alt="water icon" title="body of water quiz"><a href="../geography/n-america-water-rivers-quiz.php">North America: Bodies of Water (NEW - has rivers)</a></li>
 		<li><img class="navicon" src="../geography/images/icons/water-icon.gif" height="12" width="12" alt="water icon" title="body of water quiz"><a href="../geography/n-america-water-quiz.php">North America: Bodies of Water (OLDER VERSION: NO RIVERS)</a></li>
@@ -374,6 +1929,7 @@ ga('send', 'pageview', { 'anonymizeIp': true });
         <ul>
           	
 		<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a title="" href="../geography/canada-quiz.php">Canada: Provinces and territories</a></li>
+		<li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/Tt-type-icon.png" height="12" width="12" alt="text input icon" title="text input quiz"><a href="../geography/canada-txt-quiz.php">Canada: Provinces and territories (type answer)</a> </li>
 		<li><img class="navicon" src="../geography/images/icons/paper-icon.gif" height="12" width="12" alt="print map icon" title="printable maps of Canada"><a href="../geography/printable-maps.php">Printable Maps of Canada</a></li>
 		<li><img class="navicon" src="../geography/images/icons/city-icon.gif" height="12" width="12" alt="city icon" title="city quiz"><a title="" href="../geography/canada-caps-quiz.php">Canada: Provincial &amp; territorial capitals</a></li>
 		<li><img class="navicon" src="../geography/images/icons/water-icon.gif" height="12" width="12" alt="water icon" title="body of water quiz"><a href="../geography/canada-water-quiz.php">Canada: Bodies of water (level 1)</a></li>
@@ -385,7 +1941,9 @@ ga('send', 'pageview', { 'anonymizeIp': true });
 	<li><img class="navicon" src="../geography/images/icons/physical-icon.gif" height="12" width="12" alt="physical icon" title="physical features quiz"><a href="../geography/canada-geophysical-quiz.php">Canada: Geophysical regions</a></li>
 	<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/flag-icon.gif" height="12" width="12" alt="flag icon" title="flag quiz"> <a href="../geography/canada-flags-quiz.php">Match provincial flags to the map quiz</a></li>
 	
-	<li><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="tourist destination quiz"><a title="" href="../geography/canada-tourist-quiz.php">Canada tourist destinations </a></li>	
+	<li><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="travel and tourism quiz"><a title="" href="../geography/canada-tourist-quiz.php">Canada tourist destinations </a></li>
+	<li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="travel and tourism quiz"><a title="" href="../geography/canada-airports-txt-quiz.php">Canada airport codes (type answer) </a></li>
+	
 
 	</ul>
 
@@ -404,6 +1962,7 @@ ga('send', 'pageview', { 'anonymizeIp': true });
           <h3>USA  map quizzes</h3>
         <ul>
          <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a title="States" href="../geography/usa-quiz.php">USA: States</a></li>
+		 <li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/Tt-type-icon.png" height="12" width="12" alt="text input icon" title="text input quiz"><a href="../geography/usa-txt-quiz.php">USA: States (type answer)</a> </li>
 		 <li><img class="navicon" src="../geography/images/icons/paper-icon.gif" height="12" width="12" alt="print map icon" title="printable maps of USA"><a href="../geography/printable-maps.php">Printable Maps of the USA</a></li>
          <li><img class="navicon" src="../geography/images/icons/city-icon.gif" height="12" width="12" alt="city icon" title="city quiz"><a title="" href="../geography/usa-caps-quiz.php">USA: State capitals</a></li>
          <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a title="States" href="../geography/usa-west-quiz.php">USA: States - West</a></li>
@@ -416,14 +1975,19 @@ ga('send', 'pageview', { 'anonymizeIp': true });
           <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/person-icon.gif" height="12" width="12" alt="leader icon" title="leader quiz"><a title="" href="../geography/usa-governors-quiz.php">USA: Governors</a></li>
 		<li><img class="navicon" src="../geography/images/icons/physical-icon.gif" height="12" width="12" alt="physical icon" title="physical features quiz"><a href="../geography/usa-geophysical-quiz.php">USA: Geophysical regions</a></li>
 		
-		<li><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="tourist destination quiz"><a title="" href="../geography/usa-tourist-quiz.php">USA tourist destinations </a></li>		
+		<li><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="tourist destination quiz"><a title="" href="../geography/usa-tourist-quiz.php">USA tourist destinations </a></li>	
+		<li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="travel and tourism quiz"><a title="" href="../geography/usa-airports-txt-quiz.php">USA airport codes (type answer) </a></li>
+	
+
+		<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/flag-icon.gif" height="12" width="12" alt="flag icon" title="flag quiz"> <a href="../geography/usa-flags-quiz.php">USA: Match flags to the map quiz</a></li>
 
         </ul>
       </div>
 	 <div class="column-1">
         <h3>SOUTH AMERICA map quizzes</h3>
         <ul>
-         	<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a title="" href="../geography/samerica-quiz.php">Countries </a></li>
+         	<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a title="" href="../geography/samerica-quiz.php">South America: countries </a></li>
+			<li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/Tt-type-icon.png" height="12" width="12" alt="text input icon" title="text input quiz"><a href="../geography/samerica-txt-quiz.php">South America: countries (type answer)</a> </li>
 			<li><img class="navicon" src="../geography/images/icons/paper-icon.gif" height="12" width="12" alt="print map icon" title="printable maps of South America"><a href="../geography/printable-maps.php">Printable Maps of South America</a></li>
 		<li><img class="navicon" src="../geography/images/icons/city-icon.gif" height="12" width="12" alt="city icon" title="city quiz"><a title="" href="../geography/samerica-caps-quiz.php">Country capitals</a></li>
 		<li><img class="navicon" src="../geography/images/icons/water-icon.gif" height="12" width="12" alt="water icon" title="body of water quiz"><a href="../geography/s-america-rivers-lvl1-quiz.php">Rivers &amp; Lakes - level 1</a></li>		
@@ -456,6 +2020,7 @@ ga('send', 'pageview', { 'anonymizeIp': true });
         <h3>Asia map quizzes</h3>
         <ul>
 	    <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a href="../geography/asia-quiz.php">Asia countries (excludes Western)</a></li>
+		<li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/Tt-type-icon.png" height="12" width="12" alt="text input icon" title="text input quiz"><a href="../geography/asia-txt-quiz.php">Asia - countries (type answer)</a> </li>
 		<li><img class="navicon" src="../geography/images/icons/paper-icon.gif" height="12" width="12" alt="print map icon" title="printable maps of Asia"><a href="../geography/printable-maps.php">Printable Maps of Asia</a></li>
          
           
@@ -465,7 +2030,8 @@ ga('send', 'pageview', { 'anonymizeIp': true });
 		    <li><img class="navicon" src="../geography/images/icons/physical-icon.gif" height="12" width="12" alt="physical icon" title="physical features quiz"><img class="navicon" src="../geography/images/icons/water-icon.gif" height="12" width="12" alt="water icon" title="water quiz"><a href="../geography/asia-physical-quiz.php">Asia physical features</a></li>
 			<li><img class="navicon" src="../geography/images/icons/water-icon.gif" height="12" width="12" alt="water icon" title="water quiz"> <a href="../geography/asia-physical-quiz.php?qid=8420">Asia: bodies of water</a></li>
 			<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/flag-icon.gif" height="12" width="12" alt="flag icon" title="flag quiz"> <a href="../geography/asia-flags-quiz.php">Match country flags to the map </a></li>
-				
+			 <li><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="tourist destination quiz"><a title="" href="../geography/asia-tourist-quiz.php">Asia tourist destinations </a></li>	
+			<li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="travel and tourism quiz"><a title="" href="../geography/asia-airports-txt-quiz.php">Asia Airport codes (type answer) </a></li>			 
 		  </ul>
 		  
 		    <h3>Asia by Region</h3>
@@ -481,10 +2047,13 @@ ga('send', 'pageview', { 'anonymizeIp': true });
 		    <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a href="../geography/asia-southeast-quiz.php">Southeast Asia countries <span class="navNumQs">(11 questions)</span></a> </li>
 			
 			 <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a href="../geography/mideast-w-eg-quiz.php">Middle East countries (includes Egypt)</a></li>
+			 
+			 <li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/Tt-type-icon.png" height="12" width="12" alt="text input icon" title="text input quiz"><a href="../geography/mideast-txt-quiz.php">Middle East countries (includes Eqypt) (type answer)</a> </li>
 			 <li><img class="navicon" src="../geography/images/icons/city-icon.gif" height="12" width="12" alt="city icon" title="city quiz"><a href="../geography/mideast-w-eg-caps-quiz.php">Middle East capital cities (includes Egypt)</a></li>
 			
 			
-			<li><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="tourist destination quiz"><a title="" href="middle-east-tourist-quiz.php">Middle East tourist destinations </a></li>
+			<li><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="tourist destination quiz"><a title="" href="../geography/middle-east-tourist-quiz.php">Middle East tourist destinations </a></li>
+			
 			
         </ul>
       </div>
@@ -502,7 +2071,7 @@ ga('send', 'pageview', { 'anonymizeIp': true });
          <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"> <a href="../geography/philippines-quiz.php">Philippines: islands</a></li>
          <li><img class="navicon" src="../geography/images/icons/city-icon.gif" height="12" width="12" alt="city icon" title="city quiz"><a href="../geography/philippines-cities-quiz.php">Philippines: major cities</a></li>
 	 <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a href="../geography/russia-quiz.php">Russia: federal subjects</a></li>
-	 <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a href="../geography/russia-republics-quiz.php">Russia: republics</a></li>	
+ <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a href="../geography/russia-quiz.php?qid=117727">Russia: republics</a></li>
 	
 	    </ul>
       </div>
@@ -514,16 +2083,20 @@ ga('send', 'pageview', { 'anonymizeIp': true });
 <!--[if lte IE 6]></td><td><![endif]-->
 
 <li class="main"><a href="#">Australia/Oceania</a>
-    <div class="menu-container-2"><!-- START - Australia/Oceania -->
+    <div class="menu-container-3"><!-- START - Australia/Oceania -->
       
-      <div class="column-1">
+      <div class="column-2">
         <h3>OCEANIA  map quizzes</h3>
         <ul>
          	<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a title="" href="../geography/oceania-quiz.php">Oceania: Countries </a></li>
-  			  <li><img class="navicon" src="../geography/images/icons/city-icon.gif" height="12" width="12" alt="city icon" title="city quiz"><a title="" href="../geography/oceania-caps-quiz.php">Oceania: capital cities</a></li>
+			
+			<li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/Tt-type-icon.png" height="12" width="12" alt="text input icon" title="text input quiz"><a href="../geography/oceania-txt-quiz.php?qid=118430">Oceania: countries (type answer)</a> </li>
+			 <li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/paper-icon.gif" height="12" width="12" alt="print map icon" title="printable maps of Oceania"><a href="../geography/printable-maps.php">Printable Maps of Oceania</a></li>
+			 <li><img class="navicon" src="../geography/images/icons/city-icon.gif" height="12" width="12" alt="city icon" title="city quiz"><a title="" href="../geography/oceania-caps-quiz.php">Oceania: capital cities</a></li>
 			<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a title="" href="../geography/oceania-islands-quiz.php">Oceania: Islands </a></li>
 		<!--<li ><img class="navicon" ../geography/images/icons/city-icon.gif"  height="12" width="12"  alt="city icon" title="city quiz"><a title="" href="" >Country capitals</a></li>-->
-								
+			 <li><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="tourist destination quiz"><a title="" href="../geography/oceania-tourist-quiz.php">Australia/Oceania tourist destinations </a></li>					
+			 <li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="travel and tourism quiz"><a title="" href="../geography/oceania-airports-txt-quiz.php">Australia/Oceania airport codes (type answer) </a></li>					
         </ul>
       </div>
 	
@@ -551,6 +2124,7 @@ ga('send', 'pageview', { 'anonymizeIp': true });
         <h3>EUROPE  map quizzes</h3>
         <ul>
           <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"> <a href="../geography/europe-quiz.php">European Countries</a></li>
+		  <li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/Tt-type-icon.png" height="12" width="12" alt="text input icon" title="text input quiz"><a href="../geography/europe-txt-quiz.php">Europe: countries (type answer)</a> </li>
 		  <li><img class="navicon" src="../geography/images/icons/paper-icon.gif" height="12" width="12" alt="print map icon" title="printable maps of Europe"><a href="../geography/printable-maps.php">Printable Maps of Europe</a></li>
 	 <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"> <a href="../geography/europe-western-quiz.php">Western European countries </a></li>
          <li><img class="navicon" src="../geography/images/icons/city-icon.gif" height="12" width="12" alt="city icon" title="city quiz"><a href="../geography/w-europe-cities-quiz.php">Western Europe: major cities</a></li>
@@ -567,6 +2141,11 @@ ga('send', 'pageview', { 'anonymizeIp': true });
 		   
 		   
 	<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><img class="navicon" src="../geography/images/icons/flag-icon.gif" height="12" width="12" alt="flag icon" title="flag quiz"> <a href="../geography/europe-flags-quiz.php">Match flags to the map quiz</a></li>
+	
+	 <li><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="tourist destination quiz"><a title="" href="../geography/europe-tourist-quiz.php">Europe  tourist destinations </a></li>
+	 <li><img class="navicon" src="../geography/images/icons/new-icon.gif" height="12" width="12" alt="new quiz icon" title="new quiz"><img class="navicon" src="../geography/images/icons/plane-icon.gif" height="12" width="12" alt="travel icon" title="travel and tourism quiz"><a title="" href="../geography/europe-airports-txt-quiz.php">Europe airport codes (type answer) </a></li>
+	
+		
         </ul>
 	 </div>
       <div class="column-1">
@@ -580,7 +2159,7 @@ ga('send', 'pageview', { 'anonymizeIp': true });
           <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"> <a href="../geography/italy-quiz.php">Italy: regions</a></li>
 	  <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"> <a href="../geography/norway-quiz.php">Norway: counties</a></li>
           <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"> <a href="../geography/russia-quiz.php">Russia: federal subjects</a></li>	
-		   <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a href="../geography/russia-republics-quiz.php">Russia: republics</a></li>
+		 <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"><a href="../geography/russia-quiz.php?qid=117727">Russia: republics</a></li>
 		   	<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"> <a href="../geography/spain-autonomies-quiz.php">Spain: autonomies</a></li>
 		  	<li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"> <a href="../geography/spain-quiz.php">Spain: provinces</a></li>
           <li><img class="navicon" src="../geography/images/icons/region-icon.gif" height="12" width="12" alt="region icon" title="region quiz"> <a href="../geography/sweden-quiz.php">Sweden: counties</a></li>
@@ -684,6 +2263,7 @@ ga('send', 'pageview', { 'anonymizeIp': true });
 
 <li class="main"><a href="/shared/forTeachers.php">Teacher Info</a></li>
 <li class="xmain"> <a href="../geography/find_quiz.php"><img src="/geography/images/icons/search.png" alt="search for a quiz" height="24" width="32"></a></li>
+
   </ul>
 <!-- end of nav area -->
 
@@ -701,7 +2281,7 @@ Lizard Point Quizzes takes online privacy seriously. Please read the following t
 Pages on this website use Google Analytics to track demographic information (such as the visitor's country), technology information (such as browser and operating system), and pages visited. This information is only shown to Lizard Point Quizzes in aggregate form. Lizard Point does not see an individual's information or activity while visiting this site. </p>
 <p>
 
-If you register for an account on Lizard Point, you will be asked for a user name and email address. This information is used to maintain your access to your account, to facilitate signing in and retrieving a lost password/resetting a password. The email address, with your permission, will be used to notify you of new quizzes and site features.  Your email address will not be shared with third parties. If you sign in to your account, the quizzes you complete are recorded in order that we can provide you with the Personalized Quiz Tracker service. Your IP address is recorded with each sign in, and with each quiz that is completed, and is only used by us to maintain site integrity and security.</p>
+If you register for an account on Lizard Point, you will be asked for a user name and email address. You may receive a one-time welcome email from us which introduces you to the features of your account and where to look for help. This welcome email is currently only sent to Teacher accounts. Your mail address and user name are otherwise used to maintain your access to your account, to facilitate signing in and retrieving a lost password/resetting a password. The email address, with your permission, will be used to notify you of new quizzes and site features.  Your email address will not be shared with third parties. If you sign in to your account, the quizzes you complete are recorded in order that we can provide you with the Personalized Quiz Tracker service. Your IP address is recorded with each sign in, and with each quiz that is completed, and is only used by us to maintain site integrity and security. Your educational data is retained only for your own educational purposes, and is shared with your teacher <strong>if you have a student account</strong>. We may review the data to ensure site integrity or to understand usage patterns that help us evolve our site services. </p>
 <p>
 <strong>Special note.</strong> We also provide users the ability to sign in to their preexisting Lizard Point account with their Google credentials.  In this case, we will access your Google account email address and use it to verify your account. This saves having to remember and type your Lizard Point password. Be aware, however, that you still need to sign out from Lizard Point - simply signing out of Google will not end your session.</p>
 <p>
@@ -720,9 +2300,15 @@ Generated accounts are intended not to hold any student PII (Personally Identifi
 <p>
 Student-owned accounts are registered by the student using their own email addresses.  Students may use their own discretion in creating their usernames – but we advise those with privacy concerns not to use their real, full name.  After students create their accounts they may voluntarily connect these accounts with a teacher’s class account after agreeing to share their quiz results.  Teachers may request students to enter in an alias to aid in reconciling accounts to students.  Once again, <strong>we strongly discourage use of any identifiable information in this field.</strong>
 
+</p><h2>Account deletion</h2>
+<p>Student accounts that were generated by teachers can be deleted by the teacher. If a parent wishes to delete a child's account, the parent should first contact the teacher to delete the account, so that the teacher has the opportunity to record any student scores that are required for evaluating the student. If the teacher does not delete the account when requested, the parent should email us to request deletion of the account.</p>
+<p>All other accounts - those which are created by providing an email address - can be deleted by the user themself, or by sending us an email request from the email address that the account was set up with. We may require other information to verify the validity of the request.</p>
 
-</p><p>
-</p><h1>Advertising</h1>
+<h2>Security of your data</h2>
+<p>
+All user data is encrypted in transit via Secure Socket Layer (SSL) technology with a certificate issued by Sectigo (formerly Comodo CA). </p>
+
+<h1>Advertising</h1>
 <br>
 Some pages on this website contain third party advertisements.
  Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website.
@@ -732,7 +2318,7 @@ Google uses the DART cookie to enable it and its partners to serve ads to you ba
 You can get more information on Google's privacy and advertising policies, and you may opt out of the use of the DART cookie by visiting   <a href="http://www.google.com/privacy_ads.html">Google's Privacy Center</a>.
 </p></td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td align="right" class="update">Last updated: February 4, 2018</td></tr>
+<tr><td align="right" class="update">Last updated: August 25, 2019</td></tr>
 </tbody></table>
 
 
