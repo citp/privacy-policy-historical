@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616212656id_/https%3A//www.boston.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229042629id_/https%3A//www.boston.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boston.com
 
@@ -177,7 +177,7 @@ We recognize and respect that your privacy and Personal Information is important
 
 **_Your Data Subject Rights (EU/EEA and UK)_**
 
-Under certain circumstances, you have rights under applicable data protection laws with respect to Personal Information we knowingly collected. Please click on the links below to expand and find out more about those rights.
+Under certain circumstances, you have rights under applicable data protection laws with respect to Personal Information we knowingly collected. See below for more information on the following rights:
 
   * **Choice**
   * **Request access to your personal data**
