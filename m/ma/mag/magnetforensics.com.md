@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magnetforensics.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411033134id_/https%3A//www.magnetforensics.com/privacy-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnetforensics.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229195116id_/https%3A//www.magnetforensics.com/privacy-security-statement) for the most accurate reproduction.*
 
 # Magnet Privacy & Security - Privact & Security Statement | Magnet Forensics
 
