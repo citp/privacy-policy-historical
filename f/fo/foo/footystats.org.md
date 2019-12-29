@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footystats.org privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322160015id_/https%3A//footystats.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footystats.org privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229014327id_/https%3A//footystats.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FootyStats
 
