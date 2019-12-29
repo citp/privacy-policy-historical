@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ryrob.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603124048id_/https%3A//www.ryrob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryrob.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229091554id_/https%3A//www.ryrob.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - How to Start a Profitable Side Business with Ryan Robinson
+# Privacy Policy | RyRob.com: A Blog by Ryan Robinson | Learn How to Blog and Make Money on the Internet
 
 ### This privacy policy sets out how **  Ryan Robinson** ** ** uses and protects any information that you volunteer when you use this website.
 
