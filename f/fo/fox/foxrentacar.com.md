@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the foxrentacar.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803210805id_/https%3A//www.foxrentacar.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxrentacar.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229080008id_/https%3A//www.foxrentacar.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Fox Rent A Car - Privacy Policy
 
-This privacy policy is effective September 3, 2014.
+This privacy policy is effective May 24, 2018.
 
 If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under this new policy, please contact us at [customerservice@foxrentacar.com](mailto:customerservice@foxrentacar.com).
 
 ### PRIVACY POLICY
 
-( _Effective September 3, 2014_ )
+( _Effective May 24, 2018_ )
 
 Welcome to this Internet website offered by or in connection with Fox Rent A Car, Inc. (collectively, "we", "us" or "our"). As used in this privacy policy (the “Privacy Policy”), the singular term "Website" includes all websites and all devices or applications that collect personal information from you that we or our successors, parents, subsidiaries, affiliates and related companies or other companies under a common control that we may have now or in the future (“Affiliated Companies”) operate that link to this Privacy Policy, web pages within each such website, device or application, any equivalent, mirror, replacement, substitute or backup website, device or application, and web pages that are associated with each such website, device or application.
 
@@ -49,15 +49,13 @@ Whether or not you provide personally identifiable information is your choice; h
 
 (2) Non-Personal Information: Our definition of “non-personal information” is any information that does not personally identify you. Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. We also automatically collect certain non-personal information from you when you access our Website. This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Mac OS, etc.), the name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits.
 
-THUMBIT APP:
+(3) Vehicle Use Data: Owner's vehicles will contain hardware that gathers and transmits information about vehicle use. This is done as a security measure against accident or theft and also to provide you with valuable services and information, such as other drivers' data.
 
-(3) Vehicle Use Data. Owner's vehicles will contain hardware that gathers and transmits information about vehicle use. This is done as a security measure against accident or theft and also to provide you with valuable services and information, such as other drivers' data. Vehicle Use Data. Owner's vehicles will contain hardware that gathers and transmits information about vehicle use. This is done as a security measure against accident or theft and also to provide you with valuable services and information, such as other drivers' Vehicle Use Data. Owner's vehicles will contain hardware that gathers and transmits information about vehicle use. This is done as a security measure against accident or theft and also to provide you with valuable services and information, such as other drivers' data.
-
-Location Tracking. To prevent theft, and to allow us to locate you in case of emergency, accident, lock-out, etc., we track the location of your vehicle. Your location information will be confined to JustShareIt service, and we will never impermissibly make your location or movements public. As part of our service, the location of your vehicle may be released to insurance companies, the police, or similar parties in the course of an investigation and/or accident claim, and to provide assistance in emergencies.
+Location Tracking: To prevent theft, and to allow us to locate you in case of emergency, accident, lock-out, etc., we track the location of your vehicle. Your location information will be confined to JustShareIt service, and we will never impermissibly make your location or movements public. As part of our service, the location of your vehicle may be released to insurance companies, the police, or similar parties in the course of an investigation and/or accident claim, and to provide assistance in emergencies.
 
 Information regarding the location of each vehicle on JustShareIt’s site is also transmitted to JustShareIt and can be tracked by your JustShareIt-enabled smartphone. Owners can control when the location of their vehicle is broadcast, including during a Renter’s rental period. Anonymized Vehicle location information may be released to insurance companies, the police, or other interested parties when appropriate. You will need to notify us in writing that you are cancelling your subscription whereby we will not disclose your tracking information to third parties.
 
-Driver and Vehicle Information. As a member of JustShareIt’s Site, you authorize us to access your driver’s record, vehicle history report from all applicable entities and authorities. This authorization continues for as long as you are a JustShareIt member. Moreover, you authorize all DMVs, RMVs, auto mechanics and all other entities and interested parties to release information to us regarding your driving record and vehicle history.
+Driver and Vehicle Information: As a member of JustShareIt’s Site, you authorize us to access your driver’s record, vehicle history report from all applicable entities and authorities. This authorization continues for as long as you are a JustShareIt member. Moreover, you authorize all DMVs, RMVs, auto mechanics and all other entities and interested parties to release information to us regarding your driving record and vehicle history.
 
 #### B. HOW WE USE & SHARE THE INFORMATION COLLECTED
 
@@ -79,7 +77,7 @@ If you are concerned about the storage and use of cookies, you may be able to di
 
 (5) Other: Notwithstanding anything herein to the contrary, we reserve the right to use IP addresses to identify a visitor or disclose any personally identifiable or non-personal information about you if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; (d) respond to claims that any posting or other content violates the rights of third parties; (e) in an emergency, protect the health and safety of our Website's users or the general public; or (f) enforce compliance with our Website rules.
 
-(6) Your California Privacy Rights: Residents of the State of California have the right to request from certain business with whom the California resident has an established business relationship a list of all third parties to which the business, during the immediately preceding calendar year, has disclosed certain personally identifiable information for direct marketing purposes. We are only required to respond to a customer request once during any calendar year. To obtain this information you should send a request to [customerservice@foxrentacar.com](mailto:customerservice@foxrentacar.com) with the subject heading “California Privacy Rights.” In your request, please attest to the fact that you are a California resident and provide a current California address for our response. Please be aware that not all information sharing is covered by the California Privacy Rights Requirements(should include a link to this information) and only information on covered sharing will be included in our response.
+(6) Your California Privacy Rights: Residents of the State of California have the right to request from certain business with whom the California resident has an established business relationship a list of all third parties to which the business, during the immediately preceding calendar year, has disclosed certain personally identifiable information for direct marketing purposes. We are only required to respond to a customer request once during any calendar year. To obtain this information you should send a request to customerservice@foxrentacar.com with the subject heading “California Privacy Rights.” In your request, please attest to the fact that you are a California resident and provide a current California address for our response. Please be aware that not all information sharing is covered by the California Privacy Rights Requirements(should include a link to this information) and only information on covered sharing will be included in our response.
 
 (7) OnStar Equipment: If my rental vehicle has active OnStar equipment, I understand that my use of the vehicle is subject to the OnStar Terms and Conditions and Privacy Statement, a current copy of which is available at www.onstar.com, including system and service limitations, warranty exclusions, limitations of liability, wireless service provider terms, privacy practices relating to OnStar’s collection, use and sharing of information about me and the vehicle, and the application of other relevant provisions including responsibilities I have when using OnStar services. Further details regarding the OnStar Terms and Conditions and Privacy Statement are available at OnStar.com. By proceeding to rent the vehicle and sign this contract, I authorize the provision of OnStar services in accordance with the OnStar Terms and Conditions and Privacy Statement, and agree to be bound by the OnStar Terms and Conditions and Privacy Statement.
 
@@ -99,7 +97,7 @@ You understand, acknowledge and agree that we may, in our sole discretion and wi
 
 #### F. CHILDREN
 
-The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for anyone under 18 years of age. We do not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at [customerservice@foxrentacar.com](mailto:customerservice@foxrentacar.com). A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.
+The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for anyone under 18 years of age. We do not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at customerservice@foxrentacar.com. A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.
 
 #### G. KEEPING YOUR INFORMATION SECURE
 
@@ -111,12 +109,10 @@ Our Website may link to or contain links to other third party websites that we d
 
 #### I. CONTACT & OPT-OUT INFORMATION
 
-You may contact us as at [customerservice@foxrentacar.com](mailto:customerservice@foxrentacar.com) if you: (a) have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our Affiliated Companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
+You may contact us as at customerservice@foxrentacar.com if you: (a) have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our Affiliated Companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
 
 #### J. SOLE STATEMENT
 
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
-
-Updated 07/18/16
