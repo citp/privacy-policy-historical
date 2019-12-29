@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scorebing.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513015039id_/https%3A//www.scorebing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorebing.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229123033id_/https%3A//www.scorebing.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ScoreBing
 
