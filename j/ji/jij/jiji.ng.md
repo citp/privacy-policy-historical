@@ -1,100 +1,257 @@
-> *The following text is extracted and transformed from the jiji.ng privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521035424id_/https%3A//jiji.ng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiji.ng privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229183336id_/https%3A//jiji.ng/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-This Privacy Policy describes collection, use, disclosure, retention, and protection of your personal information. It applies to jiji.ng website where this Privacy Policy appears in the footer, and to any jiji.ng application, service, or tool (collectively **“Resources”** or **“Services”** ) where this Privacy Policy is referenced, regardless of how you access or use them, including through mobile devices.
+This Privacy Policy explains what personal data is collected when you use the jiji.ng any jiji.ng mobile application (“ **Jiji** ”) and the services provided through it (together with the “ **Service** ”), how such personal data will be used, shared.
 
-By using Resources with or without registered account, you are accepting the terms of this Privacy Policy and [Terms of Conditions](https://jiji.ng/rules.html), and you are consenting to the collection, use, disclosure, retention, and protection of your personal information as described in this Privacy Policy by Administrator.
+BY USING THE SERVICE, YOU PROMISE US THAT (I) YOU HAVE READ, UNDERSTAND AND AGREE TO THIS PRIVACY POLICY, AND (II) YOU ARE OVER 16 YEARS OF AGE (OR HAVE HAD YOUR PARENT OR GUARDIAN READ AND AGREE TO THIS PRIVACY POLICY FOR YOU). If you do not agree or are unable to make this promise, you must not use the Service. In such case, you must contact the support team via online chat or email to (a) request deletion of your account and data.
 
-**“Administrator”** , **“we”** or **“us”** \- Local Content Administrator or other entity that exercise control over the Local Content Administrator, which renders the Services to the Users and that controls User`s personal data.
+“ **Process** ”, in respect of personal data, includes to collect, store, and disclose to others.
 
-**“Local Content Administrator”** — Jiji.ng Online Marketplace Nigeria Limited, entity incorporated under the laws of Nigeria.
+### TABLE OF CONTENTS
 
-**“User”** , **“you”** , **“your”** –means any natural person eligible to conclude an agreement under the applicable law with Administrator and using any of Services with or without a registered account.
+  * #### 1\. PERSONAL DATA CONTROLLER
 
-## 1\. COLLECTION
+  * #### 2\. CATEGORIES OF PERSONAL DATA WE COLLECT
 
-#### Personal information you give us when you use Services or register an account
+  * #### 3\. DATA PROTECTION PRINCIPLES
 
-Personal information User disclose when register an account, including name, email addresses or telephone number.
+  * #### 4\. FOR WHAT PURPOSES WE PROCESS PERSONAL DATA
 
-Users’ communication data; messages, letters, statements, sent to the User by other users.
+  * #### 5\. UNDER WHAT LEGAL BASES WE PROCESS YOUR PERSONAL DATA
 
-Other content that User generate, or that is connected to User account.
+  * #### 6\. WITH WHOM WE SHARE YOUR PERSONAL DATA
 
-#### Personal information we collect automatically when you use Services or register an account 
+  * #### 7\. HOW YOU CAN EXERCISE YOUR PRIVACY RIGHTS
 
-Usage and log information. Service-related, diagnostic, and performance information. This includes information about your activity (such as how you use our product, how you interact with others using our product, and the like), log files, diagnostic, and performance logs and reports.
+  * #### 8\. AGE LIMITATION
 
-Device and connection information. We collect device-specific information when you install, access, or use Services. This includes information such as hardware model, operating system information, browser information, IP address, sensors of the device, mobile network information including phone number, and device identifiers. We collect device location information if you use our location features, such as when you post an announcements and for diagnostics and troubleshooting purposes such as if you are having trouble with our application’s location features. We may collect information about your email and another accounts if registered from the device on an exceptional basis as a result of performing of suspicious actions from the device and there is reasonable doubt to assume that you can be an emulator.
+  * #### 9\. CHANGES TO THIS PRIVACY POLICY
 
-#### Personal information we collect using cookies
+  * #### 10\. DATA RETENTION
 
-We can use cookies-files (hereinafter — “cookies”) for storing of certain information about you and tracking your use of the Services. Use of cookies is common for Internet sites for the purpose of facilitation of their users’ identification. Cookie is a small volume of data which is sent to your internet browser and stored on your PC’s rigid disk. If you do not block or delete cookies, then in each case you use the Service via the same PC our web servers would be notified about you using the Services, and we would receive data on your visit. Generally, we use cookies for User identification and so that we could have a possibility to: 
-
-  * provide access to your account without re-entering data by you
-  * collect statistics about usage of Services;
-  * investigate the patterns of visits and to facilitate guiding of promoting materials based on Users’ interests;
-  * monitor progress and participation in promotional events.
+  * #### 11\. CONTACT US
 
 
 
-You are entitled to specify in which manner and at what time cookies will be accepted by way of setting your internet browser installed on PC, which you use for using the Services. You can change such settings at any time, as you wish. After your preferences will have been installed in the internet browser, you will be able to accept all cookies, or you can choose to notify you about cookies being directed to your browser, or you can discard all cookies. When you discard all cookies by having selected an option of blocking cookies in your browser, it can be possible that you will more often need to re-enter your information for getting access to your account, and some additional functionality on the Resources will not be available to you.
 
-#### Personal information from other sources
+### 1\. PERSONAL DATA CONTROLLER
 
-We may allow you to share information with social media sites, or use social media sites to create your account or to connect your account with the respective social media site. Those social media sites may give us automatically access to certain personal information retained by them about you (e.g., content viewed by you, content liked by you, and information about the advertisements you have been shown or may have clicked on, etc.). You control the personal information you allow us to have access to through the privacy settings on the applicable social media site and the permissions you give us when you grant us access to your personal information retained by the respective social media site about you. By associating an account managed by a social media site with your account and authorizing us to have access to this information, you agree that we may collect, use and retain the information provided by these social media sites in accordance with this Privacy Policy.
+Jiji.ng Online Marketplace Nigeria Limited, a company registered in Nigeria (with registered office at 91/93 MM Way Jibowu Busstop Yaba Lagos) will be the controller of your personal data.
 
-## 2\. USE AND RETENTION
+### 2\. CATEGORIES OF PERSONAL DATA WE COLLECT
 
-We use the personal information we collect to: 
+We collect data you give us voluntarily (for example, an email address). We also collect data automatically (for example, your IP address).
 
-  * Provide, improve, and personalize Services;
-  * Contact you about your account and provide you customer support;
-  * Provide you with a personalized experience on our sites;
-  * Personalize our advertising and marketing communications;
-  * Detect, prevent, mitigate and investigate fraudulent or illegal activities.
+  1. ##### Data you give us
+
+You may be asked to provide us information about yourself when you register for and/or use the Service. This information includes: first name, phone number, email (together “Required Information”), last name, photo, address details, working hours. 
+
+To use our Service and register an account, you will need to provide Required Information. You will be able to use the Service even if you do not give this data to us, but some Service’s functionality may be limited to you (for example, if you do no register an account, you will not be able to chat with other users, post ads, see contact details of other users). 
+
+Sometimes you may also need to provide to us additional information in the communication with our Support Team in order to fulfill your request (for example, if your account was previously blocked, we may ask you to confirm your identity by providing an ID document). 
+
+  2. ##### Data provided to us by third parties
+
+When you decide to log in using Facebook or Google, we get personal data from your Facebook or Google account. This includes your profile image, name, and Facebook ID, Google ID, friends list. For more information, please refer to the Facebook Permissions Reference (describes the categories of information, which Facebook may share with third parties and the set of requirements) and to the Facebook Data policy. In addition, Facebook lets you control the choices you made when connecting your Facebook profile to the App on their Apps and Websites page. To know more about how Google processes your data, visit its Privacy Policy. 
+  3. ##### Data we collect automatically:
+
+    * ##### Data about how you found us
+
+We collect data about your referring URL (that is, the place on the Web where you were when you tapped on our ad). 
+    * ##### Device and Location data.
+
+We collect data from your device. Examples of such data include language settings, IP address, time zone, type and model of a device, device settings, operating system, Internet service provider, mobile carrier, hardware ID, and Facebook ID. 
+    * ##### Usage data
+
+We record how you interact with our Service. For example, we log the features, and content you interact with, how often you use the Service, how long you are on the Service, what sections you use, how many ads you watch. 
+    * ##### Advertising IDs
+
+We collect your Apple Identifier for Advertising (“IDFA”) or Google Advertising ID (“AAID”) (depending on the operating system of your device). You can typically reset these numbers through the settings of your device’s operating system (but we do not control this). 
+    * ##### Transaction data
+
+When you make payments through the Service, you need to provide financial account data, such as your credit card number, to our third-party service providers. We do not collect or store full credit card number data, though we may receive credit card-related data, data about the transaction, including date, time and amount of the transaction, the type of payment method used. 
+    * ##### Cookies
+
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our Service. A persistent cookie remains on your hard drive for an extended period of time. We also use tracking pixels that set cookies to assist with delivering online advertising. Cookies are used, in particular, to automatically recognize you the next time you visit our Website. As a result, the information, which you have earlier entered in certain fields on the Website may automatically appear the next time when you use our Service. Cookie data will be stored on your device and most of the times only for a limited time period. 
 
 
 
-## 3\. DISCLOSURE
+### 3\. DATA PROTECTION PRINCIPLES
 
-We may disclose your personal information to third parties. This disclosure may be required for us to provide you access to the Services, to comply with our legal obligations, to facilitate our marketing and advertising activities, or to prevent, detect, mitigate, and investigate fraudulent or illegal activities related to the Services.
+In our data protection practices we strive to, in particular, to provide that personal data is:
 
-We minimize the amount of personal information we disclose to what is directly relevant and necessary to accomplish the specified purpose. As stated above, we do not disclose your personal information to third parties for their marketing and advertising purposes.
-
-We may disclose your personal information to the following parties and for the following purposes: 
-
-  * To third party service providers who help us to provide Services, including but not limited payment processing services, assist us in providing customize advertising. The third parties should use only that information, which is necessary for such services.
-  * to law enforcement or governmental agencies, or authorized third-parties, in response to a verified request relating to a criminal investigation or alleged or suspected illegal activity or any other activity that may expose us, you, or any other of our users to legal liability.
-  * to third parties involved in a legal proceeding, if they provide us with a subpoena, court order or substantially similar legal procedure, or we otherwise believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity
+  1. processed in accordance with specific, legitimate and lawful purpose consented to by you; 
+  2. is adequate, accurate and without prejudice to the dignity of a human person; 
+  3. stored only for the period within which it is reasonably needed; and 
+  4. secured against reasonably foreseeable hazards and breaches such as theft, cyberattack, viral attack, dissemination, manipulations of any kind, damage by rain, fire or exposure to other natural elements. 
 
 
 
-Change of Ownership
+### 4\. FOR WHAT PURPOSES WE PROCESS YOUR PERSONAL DATA
 
-If we were to merge with or be acquired by another company, we may share information with them in accordance with our global privacy standards. Should such an event occur, we will require that the new combined entity follow this Privacy Policy with respect to your personal information.
+We process your personal data: 
 
-## 4\. CHANGE/DELETE OF PERSONAL INFORMATION
+  1. ##### To provide our Service
 
-Users who registered an account may gain access to, adjust or delete information provided by them. The User shall bear responsibility for accuracy of data, or announcements posted by him/her to the Resource.
+This includes enabling you to use the Service in a seamless manner and preventing or addressing Service errors or technical issues. 
+  2. ##### To customize your experience
 
-The User may disable, or change account credentials through settings. Posted information can be changed or deleted on user’s personal account on the Resource web page, via application.
+We process your personal data to adjust the content of the Service and make offers tailored to your personal preferences and interests. 
+  3. ##### To manage your account and provide you with customer support
 
-You are entitled to delete your account at any time. Together with your account we also delete all materials that you’ve ever posted. If you wish not to delete your account but only to suspend its using, you can deactivate it. Please remember that information related to you, and shared by and between other persons, shall not be considered as a part of your account, therefore, it won’t be deleted together with your account
+We process your personal data to respond to your requests for technical support, Service information or to any other communication you initiate. This includes accessing your account to address technical support requests. For this purpose, we may send you, for example, notifications or emails about the performance of our Service, security, payment transactions, notices regarding our Terms and Conditions of Use or this Privacy Policy. 
+  4. ##### To communicate with you regarding your use of our Service
 
-## 5\. SECURITY
+We communicate with you, for example, by push notifications or in the chat. As a result, you may, for example, receive a notification whether on the Website or via email that you received a new message on Jiji. To opt out of receiving push notifications, you need to change the settings on your browser or mobile device. To opt out of the certain type of emails, you need to follow an unsubscribe link located in the footer of the email by contacting our support team at support@jiji.ng or in your profile setting. 
 
-3We protect your information using technical and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are data encryption, physical access controls to our data centers, and information access authorization controls. If you believe your account has been abused, please contact us following the instructions in the [Contact](https://jiji.ng/contacts.html).
+The services that we use for these purposes may collect data concerning the date and time when the message was viewed by our users, as well as when they interacted with it, such as by clicking on links included in the message. 
 
-User information is available only to those employees of Administrator, who need such an access to personal user information for performing their official duties. All employees having access to user information shall sign non-disclosure agreement with regard to non-disclosing user information to the third parties.
+  5. ##### To research and analyze your use of the Service
 
-## 6\. CHANGE OF PRIVACY POLICY
+This helps us to better understand our business, analyze our operations, maintain, improve, innovate, plan, design, and develop Jiji and our new products. We also use such data for statistical analysis purposes, to test and improve our offers. This enables us to better understand what features and sections of Jiji our users like more, what categories of users use our Service. As a consequence, we often decide how to improve Jiji based on the results obtained from this processing. For example, if we discover that Jobs section is not as popular as others, we may focus on improving it. 
+  6. ##### To send you marketing communications
 
-All changes of this Privacy Policy shall be reported by means of posting amendments or revised versions of Privacy Policy to the Services. The reworded Privacy Policy shall be deemed effective immediately after having been posted.
+We process your personal data for our marketing campaigns. We may add your email address to our marketing list. As a result, you will receive information about our products, such as for example, special offers, and products of our partners. If you do not want to receive marketing emails from us, you can unsubscribe following instructions in the footer of the marketing emails, by contacting our support team at support@jiji.ng or in your profile setting. 
 
-Administrator shall not be responsible for any damages or loss incurred by the User of the third parties due to misunderstanding or lack of understanding of terms and conditions of this Privacy Policy, guidelines or instructions regarding procedure of operating the Services, order of data posting and any other technical issues.
+We may also show you advertisements on the Website, and send you push notifications for marketing purposes. To opt out of receiving push notifications, you need to change the settings on your device or/and browser. 
 
-## 7\. CONTACT CUSTOMER SERVICE
+  7. ##### To personalize our ads
 
-Should you have any questions, wishes or complaints related to information provided by you please contact us at the address: support@jiji.ng.
+We and our partners use your personal data to tailor ads and possibly even show them to you at the relevant time. For example, if you have visited our Website, you might see ads of our products, for example, in your Facebook’s feed. 
+
+We may target advertising to you through a variety of ad networks and exchanges, using data from advertising technologies on and off of our Services like unique cookie, or similar tracking technology, pixel, device identifiers, geolocation, operation system information, email. 
+
+**How to opt out or influence personalized advertising**
+
+##### iOS:
+
+On your iPhone or iPad, go to “Settings,” then “Privacy” and tap “Advertising” to select “Limit Ad Track”. In addition, you can reset your advertising identifier (this also may help you to see less of personalized ads) in the same section. 
+
+##### Android:
+
+To opt-out of ads on an Android device, simply open the Google Settings app on your mobile phone, tap “Ads” and enable “Opt out of interest-based ads”. In addition, you can reset your advertising identifier in the same section (this also may help you to see less of personalized ads). 
+
+To learn even more about how to affect advertising choices on various devices, please look at the information available [here](http://www.networkadvertising.org/mobile-choice). 
+
+In addition, you may get useful information and opt out of some interest-based advertising, by visiting the following links: 
+
+    1. Network Advertising Initiative – <http://optout.networkadvertising.org/>
+    2. Digital Advertising Alliance – <http://optout.aboutads.info/>
+    3. Digital Advertising Alliance (Canada) – <http://youradchoices.ca/choices>
+    4. Digital Advertising Alliance (EU) – <http://www.youronlinechoices.com/>
+    5. DAA AppChoices page – <http://www.aboutads.info/appchoices>
+
+##### Browsers:
+
+It is also may be possible to stop your browser from accepting cookies altogether by changing your browser’s cookie settings. You can usually find these settings in the “options” or “preferences” menu of your browser. The following links may be helpful, or you can use the “Help” option in your browser. 
+
+    1. Cookie settings in Internet Explorer 
+    2. Cookie settings in Firefox 
+    3. Cookie settings in Chrome 
+    4. Cookie settings in Safari web and iOS 
+
+**Google** allows its users to [opt out of Google’s personalized ads](https://adssettings.google.com/authenticated?hl=ru) and to [prevent their data from being used by Google Analytics.](https://tools.google.com/dlpage/gaoptout/)
+
+**Facebook** also allows its users to influence the types of ads they see on Facebook. To find how to control the ads you see on Facebook, please go [here](https://www.facebook.com/help/146952742043748?helpref=related) or adjust your ads settings on [Facebook](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen)
+
+    1. #####  To enforce our Terms and Conditions of Use and to prevent and combat fraud 
+
+We use personal data to enforce our agreements and contractual commitments, to detect, prevent, and combat fraud. As a result of such processing, we may share your information with others, including law enforcement agencies (in particular, if a dispute arises in connection with our Terms and Conditions of Use). 
+    2. #####  To comply with legal obligations 
+
+We may process, use, or share your data when the law requires it, in particular, if a law enforcement agency requests your data by available legal means. 
+    3. #####  To process your payments 
+
+We provide paid products and/or services within the Service. For this purpose, we use third-party services for payment processing (for example, payment processors). As a result of this processing, you will be able to make a payment and use the paid features of the Service. 
+
+
+
+### 5\. UNDER WHAT LEGAL BASES WE PROCESS YOUR PERSONAL DATA
+
+We process your personal data, in particular, under the following legal bases:
+
+  1. your consent; 
+  2. to perform our contract with you; 
+  3. for our (or others') legitimate interests; Under this legal basis we, in particular: 
+
+    * communicate with you regarding your use of our Service
+
+This includes, for example, sending you push notifications reminding you that you have unread messages. The legitimate interest we rely on for this purpose is our interest to encourage you to use our Service more often. We also take into account the potential benefits to you. 
+
+    * research and analyze your use of the Service
+
+Our legitimate interest for this purpose is our interest in improving our Service so that we understand users’ preferences and are able to provide you with a better experience (for example, to make the use of our mobile application easier and more enjoyable, or to introduce and test new features). 
+
+    * send you marketing communications
+
+The legitimate interest we rely on for this processing is our interest to promote our Service in a measured and appropriate way. 
+
+    * personalize our ads
+
+The legitimate interest we rely on for this processing is our interest to promote our Service in a reasonably targeted way. 
+
+    * enforce our Terms and Conditions of Use and to prevent and combat fraud
+
+Our legitimate interests for this purpose are enforcing our legal rights, preventing and addressing fraud and unauthorized use of the Service, non-compliance with our Terms and Conditions of Use. 
+
+    * to comply with legal obligations. 
+
+
+
+
+###  6\. WITH WHOM WE SHARE YOUR PERSONAL DATA 
+
+We share information with third parties that help us operate, provide, improve, integrate, customize, support, and market our Service. We may share some sets of personal data, in particular, for purposes and with parties indicated in Section 2 of this Privacy Policy. The types of third parties we share information with include, in particular: 
+
+  1. #####  Service providers 
+
+We share personal data with third parties that we hire to provide services or perform business functions on our behalf, based on our instructions. We may share your personal information with the following types of service providers: 
+
+    * cloud storage providers (Amazon, DigitalOcean, Hetzner)
+    * data analytics providers (Facebook, Google, Appsflyer)
+    * marketing partners (in particular, social media networks, marketing agencies, email delivery services; such as Facebook, Google, Mailfire)
+  2. #####  Law enforcement agencies and other public authorities 
+
+We may use and disclose personal data to enforce our Terms and Conditions of Use, to protect our rights, privacy, safety, or property, and/or that of our affiliates, you or others, and to respond to requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities, or in other cases provided for by law. 
+
+  3. #####  Third parties as part of a merger or acquisition 
+
+As we develop our business, we may buy or sell assets or business offerings. Customers’ information is generally one of the transferred business assets in these types of transactions. We may also share such information with any affiliated entity (e.g. parent company or subsidiary) and may transfer such information in the course of a corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
+
+
+
+
+###  7\. HOW YOU CAN EXERCISE YOUR PRIVACY RIGHTS 
+
+To be in control of your personal data, you have the following rights: 
+
+**Accessing / reviewing / updating / correcting your personal data.** You may review, edit, or change the personal data that you had previously provided to Jiji in the settings section on the Website. 
+
+You may also request a copy of your personal data collected during your use of the Service at support@jiji.ng. 
+
+**Deleting your personal data.** You can request the erasure of your personal data by sending us an email at support@jiji.ng. 
+
+When you request deletion of your personal data, we will use reasonable efforts to honor your request. In some cases we may be legally required to keep some of the data for a certain time; in such event, we will fulfill your request after we have complied with our obligations. 
+
+**Objecting to or restricting the use of your personal data (including for direct marketing purposes).** You can ask us to stop using all or some of your personal data or limit our use thereof by sending a request at support@jiji.ng. 
+
+**The right to lodge a complaint with the supervisory authority.** We would love you to contact us directly, so we could address your concerns. Nevertheless, you have the right to lodge a complaint with a competent data protection supervisory authority. 
+
+###  8\. AGE LIMITATION 
+
+We do not knowingly process personal data from persons under 16 years of age. If you learn that anyone younger than 16 has provided us with personal data, please contact us at support@jiji.ng. 
+
+###  9\. CHANGES TO THIS PRIVACY POLICY 
+
+We may modify this Privacy Policy from time to time. If we decide to make material changes to this Privacy Policy, you will be notified through our Service or by other available means and will have an opportunity to review the revised Privacy Policy. By continuing to access or use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy. 
+
+###  10\. DATA RETENTION 
+
+We will store your personal data for as long as it is reasonably necessary for achieving the purposes set forth in this Privacy Policy (including providing the Service to you), which includes (but is not limited to) the period during which you have a Jiji account. We will also retain and use your personal data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+###  11.CONTACT US 
+
+You may contact us at any time for details regarding this Privacy Policy and its previous versions. For any questions concerning your account or your personal data please contact us at support@jiji.ng. 
+
+Effective as of May 2019
