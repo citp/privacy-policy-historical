@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veinteractive.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630083718id_/https%3A//www.ve.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veinteractive.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229224736id_/https%3A//www.ve.com/privacy-policy) for the most accurate reproduction.*
 
 # Ve | Privacy Policy
 
@@ -190,6 +190,8 @@ This section explains how you can opt-out of our use of your personal informatio
 We explain below various mechanisms which you can use to opt-out of our use of your personal information in respect of Services that we provide in relation to Client Sites.
 
 Note that some of these mechanisms are subject to various limitations and conditions. In particular some of the mechanisms require that we place a cookie on your browser in order to identify you as a person who has opted-out of our use of your personal information. If you clear cookies or reset your device settings, we will not be able to identify you as a person who has opted-out of our use of your personal information.
+
+Retention of opt-out lists: Where you exercise your right to opt-out of receiving adverts or any personalised form of marketing, we will need to retain enough information (such as a cookie id, advertising id, or email address) in a suppression list to ensure that you do not received further marketing from us or sent by us on behalf of our Clients. This retention period will not expire, unless you contact us to advise that you would like us to, once again, send you marketing communications.
 
 Where you opt-out using the below mechanisms, we will restrict our use of your personal information according to the opt-out that you have chosen, but we may retain your personal data as described in this Privacy Policy (for further information please see How long do we keep your personal information for?):
 
