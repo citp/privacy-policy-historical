@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boutique-homes.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413162116id_/https%3A//www.boutique-homes.com/helpdesk/terms-of-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boutique-homes.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229182221id_/https%3A//www.boutique-homes.com/helpdesk/terms-of-service/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Modern Vacation Home Rentals
+# Privacy Policy | BoutiqueHomes
 
 Effective date: May 26, 2018
 
@@ -10,7 +10,7 @@ We use your data to provide and improve the Service. By using the Service, you a
 
 ### Definitions
 
- **Service**  
+**Service**  
 Service is the boutique-homes.com website operated by BoutiqueHomes  
 **Personal Data**  
 Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).  
@@ -33,7 +33,7 @@ We collect several different types of information for various purposes to provid
 
 ### Types of Data Collected
 
-#####  _Personal Data_
+##### _Personal Data_
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
@@ -45,17 +45,17 @@ While using our Service, we may ask you to provide us with certain personally id
 
 We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
 
-#####  _Usage Data_
+##### _Usage Data_
 
 We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-#####  _Location Data_
+##### _Location Data_
 
 We may use and store information about your location if you give us permission to do so (“Location Data”). We use this data to provide features of our Service, to improve and customize our Service.
 
 You can enable or disable location services when you use our Service at any time, through your device settings.
 
-#####  _Tracking Cookies Data_
+##### _Tracking Cookies Data_
 
 We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
@@ -65,9 +65,9 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 Examples of Cookies we use:
 
-  *  **Session Cookies.** We use Session Cookies to operate our Service.
-  *  **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
-  *  **Security Cookies.** We use Security Cookies for security purposes.
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
 
 
 
@@ -142,27 +142,27 @@ If you wish to be informed what Personal Data we hold about you and if you want 
 
 In certain circumstances, you have the following data protection rights:
 
- **The right to access, update or to delete the information we have on you.**
+**The right to access, update or to delete the information we have on you.**
 
 Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
 
- **The right of rectification.**
+**The right of rectification.**
 
 You have the right to have your information rectified if that information is inaccurate or incomplete.
 
- **The right to object.**
+**The right to object.**
 
 You have the right to object to our processing of your Personal Data.
 
- **The right of restriction.**
+**The right of restriction.**
 
 You have the right to request that we restrict the processing of your personal information.
 
- **The right to data portability.**
+**The right to data portability.**
 
 You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
 
- **The right to withdraw consent.**
+**The right to withdraw consent.**
 
 You also have the right to withdraw your consent at any time where BoutiqueHomes relied on your consent to process your personal information.
 
@@ -184,7 +184,7 @@ We will not store or collect your payment card details. That information is prov
 
 The payment processors we work with are:
 
- **PayPal or Braintree**
+**PayPal or Braintree**
 
 Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
 
