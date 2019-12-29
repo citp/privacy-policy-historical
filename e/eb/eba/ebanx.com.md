@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebanx.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630021916id_/https%3A//business.ebanx.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebanx.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229061350id_/https%3A//business.ebanx.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EBANX
 
