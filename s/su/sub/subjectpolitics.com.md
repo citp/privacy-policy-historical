@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subjectpolitics.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630035954id_/https%3A//www.subjectpolitics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subjectpolitics.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229165735id_/https%3A//www.subjectpolitics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Subject: Politics
 
