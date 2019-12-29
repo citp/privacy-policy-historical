@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostpapa.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516212951id_/https%3A//www.hostpapa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostpapa.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229150624id_/http%3A//hostpapa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HostPapa Web Hosting
 
