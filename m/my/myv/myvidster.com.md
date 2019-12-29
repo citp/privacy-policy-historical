@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvidster.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624190249id_/http%3A//www.myvidster.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvidster.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229183026id_/https%3A//www.myvidster.com/docs/privacy) for the most accurate reproduction.*
 
 # MyVidster - Privacy Policy
 
@@ -10,7 +10,7 @@
 
 **What This Privacy Policy Covers**
 
-  * This privacy policy governs the use of the MyVidster web site at http://www.myvidster.com/ 
+  * This privacy policy governs the use of the MyVidster web site at https://www.myvidster.com/ 
   * It covers how MyVidster treats personal information -- that is, personally identifiable like your name, address, email address, or phone number. 
   * Children under 18 are not permitted to use the MyVidster service, and so this privacy policy makes no provision for children's use of the site. 
 
