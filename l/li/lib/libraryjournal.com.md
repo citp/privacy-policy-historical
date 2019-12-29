@@ -1,82 +1,119 @@
-> *The following text is extracted and transformed from the libraryjournal.com privacy policy that was archived on 2018-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180214152341id_/https%3A//lj.libraryjournal.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libraryjournal.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229014132id_/https%3A//www.libraryjournal.com/%3Fpage%3DData-Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Library Journal
 
-_MAY 31, 2010_
+##### Library Journals, LLC
 
-### Overview
+Library Journals, LLC, which includes Library Journal, School Library Journal, LJHotline, The Horn Book, and The Horn Book Guide values you as our customer and recognizes the importance of privacy. This Privacy Statement describes the privacy practices of Library Journals, LLC for data that we collect:
 
-Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.  
-This Privacy Policy describes the policies of Library Journals LLC (“LJLLC” or “we”), a wholly owned subsidiary of Media Source Inc., regarding the collection, use, disclosure and protection of the following types of information:
+through websites operated by us from which you are accessing this Privacy Statement (collectively, the “Websites”)
 
-  * Information obtained when you (“you” or “User”) visit the www.libraryjournal.com web site (this “Site” or “LJ”).
-  * Information obtained through e-mail communications with you related to the Site.
+through the digital editions and other software applications made available by us for use on or through computers and mobile devices (the “Apps”)
 
+through our social media pages that we control (collectively, our “Social Media Pages”)
 
+through HTML-formatted email messages and newsletters that we send you and through your communications with us
 
-This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy.
+when you attend a live event, or through other offline interactions
 
-We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.
+Collectively, the Websites, Apps, and Social Media Pages are referred to as “Online Services” and, together with offline interactions, the “Services.”
 
-### Information We Collect and How We Collect It
+* * *
 
-We require you to provide certain information about yourself if you register with this Site or request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., blogs, moderated discussions and bulletin boards).
+##### Privacy and Cookies
 
-The information we collect may include information from which you may be personally identified (“Personally Identifiable Information”), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.
+This privacy and cookies policy (the “Privacy Policy”) describes how Library Journals, LLC (as applicable, "we" or "us") treat information you provide to us or that we collect, including how we use such information, how we protect the security of such information and how you may change or request that we amend such information from our systems. This includes any information associated with you (such as your name, title, email address or phone number) that is supplied to us in conjunction with your use or potential use of our “Online Services” and “Offline Interactions,” as well as information we generate based on your use of the website -- In either case, information that does, or can be used to, identify you ("Personal Information").
 
-When you visit this Site, we may collect the IP address of your computer. We also use automatic data collection technology to record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include “cookies” and “clear GIFs” (also known as “pixel tags” or “beacons”). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
+Except as described in this Privacy Policy, we will not, without your consent, sell or rent to any third party any Personal Information collected through this website or the Service.
 
-Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit: <http://www.networkadvertising.org/optout_nonppii.asp.>[ ](http://www.networkadvertising.org/optout_nonppii.asp.)
+* * *
 
-You also may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at www.privacychoices.org.
+##### Website Visitors
 
-### How We Use Your Information
+Library Journals, LLC also maintains a data log on visitors to our website, including but not limited to a visitor's IP address, the websites from which visitors access our website, the type of web browsers used to access our website, the device used to access our website, the pages viewed, and time spent on site. We use this information because we have a legitimate business interest in understanding how our website is accessed, how it is used and where visitors are coming from.
 
-We use Personally Identifiable Information collected on this Site for the following purposes:
+If we have collected your Personal Information through our website or through an event registration form, and we have a permission to do so, we will use your Personal Information to inform you about other services and products that might be of interest to you and to gather feedback from you on our website and other topics of interest.
 
-  * To provide you with this Site and other products and services.
-  * To respond to your inquiries and contact you about changes regarding this Site.
-  * To provide you with e-mail, fax and other notices (such as expiration and renewal notices) regarding your account and the products or services that you are receiving, and for billing and collection purposes.
-  * For any other purpose disclosed at the time the information is collected or to which you consent.
-  * As otherwise specifically described in this Privacy Policy.
+We also collect information about website users through “cookies.” Cookies are small pieces of information sent by a web server to a web browser which allow the server to uniquely identify the browser on each page. For further information about Cookies, please see our "Cookies" section below.
 
+* * *
 
+##### Registered Users
 
-We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site.
+When logged into the site, your Personal Information will be visible with your “Profile,” which contains the information supplied to us. You will be able to update or correct any of the Personal Information in your profile. As a function of “Profile,” we will also maintain a history of your transactions with Library Journals, LLC, and certain actions taken by you while accessing the website services.
 
-We may use the information you provide us to send you e-mail, fax and other communications on behalf of LJLLC and our affiliates. These communications may include e-mail newsletters, as well as offers for other LJ, LJLLC and Media Source services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.
+* * *
 
-We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to websupport@mediasourceinc.com with the subject line “opt out – third party.”
+##### Security
 
-### Our Disclosure of Your Information
+Library Journals, LLC implemented and currently maintains an information security program that includes administrative, technical, and physical safeguards and other security measures necessary to (a) ensure the security, confidentiality, and integrity of your Personal Information; (b) protect against any anticipated threats or hazards to the security, confidentiality, and integrity of your Personal Information; (c) protect against unauthorized access to, destruction, modification, disclosure or use of your Personal Information; and (d) detect and respond to security incidents involving your Personal Information.
 
-We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:
+* * *
 
-  * Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.
-  * To third parties engaged to provide services under contractual requirement to keep Personally Identifiable Information confidential and use it only to perform the services.
-  * Portions of this Site may be provided as “Premium” or “Sponsored” content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content.
-  * To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to websupport@mediasourceinc.com with the subject line: “do not disclose.”
-  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving LJ, LJLLC, or this Site.
-  * When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.
-  * When disclosure is necessary to accomplish the purpose for which you provide it.
-  * To other Media Source, Inc. companies for any uses consistent with those disclosed in this Privacy Policy.
+##### GDPR Compliance
 
+We store your Personal Information on cloud servers located in the United States. If you are a resident of the EU (European Union), you have certain rights regarding Library Journals, LLC’s use of your Personal Information. These rights are subject to restrictions under European data protection law and, subject to the exemptions in that law, may only apply to certain types of information or processing. Your rights over your Personal Information and how you can use them are listed below.
 
+1\. We need your consent for some of the ways we use your Personal Information, e.g., for marketing or processing special categories of information about you. You can remove that consent at any time.
 
-### Security
+2\. You can ask us to confirm if we are processing your Personal Information and if we are, you can ask for access to that information and details regarding:
 
-We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
+a. why we are using your information;
 
-### Right to Access and Change Information
+b. what information are we using;
 
-You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to websupport@mediasourceinc.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
+c. who we have shared the information with;
 
-### Links
+d. the period for which your information will be stored, or how we determine that period;
 
-This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.
+e. your right to object to our processing of your information, your right to have your information erased or the processing of your information restricted;
 
-This Site is operated by:  
-websupport@mediasourceinc.com  
-Library Journals LLC  
-123 William St., Suite 802  
-New York, NY 10038
+f. your right to lodge a complaint with a data protection supervisory authority;
+
+g. the source of your information where it has not been provided by you;
+
+h. the existence of any automated decision-making processes using your data or any profiling;
+
+i. the transfers of your information to countries outside of EU and the safeguards in place; and
+
+j. your right to a copy of the information about you which is being processed by us.
+
+3\. You can ask us to correct your information if it's wrong.
+
+4\. You can ask us to delete some of your information.
+
+5\. You can ask us to restrict how we use your information.
+
+6\. You can ask us to help you move some of your information to other companies.
+
+7\. You have a right to ask that we provide your information in an easily readable format to another company.
+
+8\. You can ask us to stop using your information, but only in certain cases.
+
+9\. You have the right to complain to the relevant supervisory authority.
+
+You also have a right to object to us processing your information in certain circumstances. You can ask us to stop processing your information at any time. In certain circumstances we may not be able to do this or may not be required to do this. For example, if there are outstanding contracts between us, if we required by law to keep the information or if the information is relevant to a legal dispute then we may not stop processing your information.
+
+* * *
+
+##### Use of "cookies"
+
+Our website uses cookies to distinguish you from other users of our website and to collect information about your online preferences. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. Cookies contain information that is transferred to your computer's hard drive. By continuing to browse the site, you are agreeing to our use of cookies.
+
+* * *
+
+##### OPTIONAL SECTION – Types of Cookies
+
+Strictly necessary cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website.
+
+Analytical/performance cookies. These cookies collect information about how you use our website. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. These cookies are sometimes placed by third-party providers of web traffic analysis services, such as Google Analytics.
+
+Functionality cookies. These cookies remember choices you make and are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+
+Targeting cookies. These cookies collect information about your browsing habits such as the pages you have visited and the links you have followed. We will use this information to make our website more relevant to your interests. They are also used to make advertising more relevant to you, as well as to limit the number of times you see an advert. These cookies are usually placed by third-party advertising networks. They remember the other websites that you visit and this information is shared with third-party organisations, for example advertisers.
+
+Please note that third parties (including, for example, Google Analytics which we use) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+Most internet browsers are automatically set up to accept cookies. However, you can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. Please refer to the help and support area on your internet browser for instructions on how to block or delete cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
+
+By using the Services, you agree to the terms and conditions of this Privacy Statement.
