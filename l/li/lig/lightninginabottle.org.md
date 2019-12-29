@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightninginabottle.org privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224125148id_/https%3A//lightninginabottle.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightninginabottle.org privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229134802id_/https%3A//lightninginabottle.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lightning In A Bottle
 
