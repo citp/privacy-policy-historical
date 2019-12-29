@@ -1,158 +1,211 @@
-> *The following text is extracted and transformed from the drudgereport.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230075255id_/http%3A//www.intermarkets.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drudgereport.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229152003id_/http%3A//drudgereport.com/privacy) for the most accurate reproduction.*
 
-# Intermarkets Privacy Policy - Intermarkets Inc.
+# Privacy Policy – Drudge Report
 
-_Revised July 20, 2018_
+**Last Updated: August 2, 2019**
 
-Intermarkets, Inc. is an online advertising management services firm that offers advertisers opportunities to display their interactive ads on/in websites, emails, and other digital platforms that are included within the Intermarkets Portfolio or affiliated companies, including any online or mobile website, application (“app”), or other digital product or service installation through which this Privacy Policy appears (each a “Service,” collectively the “Services”). Our services streamline the selection and delivery of interactive ads for advertisers and website publishers.
+Drudge Report is a news website (see “ **Who We Are** “). We are concerned about privacy issues and want you to be familiar with how we collect, use, and share information and how you can exercise the privacy rights available to you.  This Privacy Policy (“ **Policy** ”) covers the information that we may process:
 
-Your privacy is important to us, and we are committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, protect, and share information when you are served an advertisement using or visiting the Services. This Privacy Policy also explains your choices for managing your information preferences.
+  1. About individuals who visit, use, or interact with the Drudge Report Properties (see “ **Privacy for the Drudge Report Properties** ” ).
 
-By using the Services, you consent to this Privacy Policy. This Privacy Policy does not apply to the practices of third parties that Intermarkets does not own, control, manage, or employ.
 
-Intermarkets uses the following ad servers and their privacy policies can be found by clicking on their names below:
 
-[AppNexus](https://www.appnexus.com/en/company/platform-privacy-policy)  
-[DFP](https://www.google.com/intl/en/policies/privacy/)  
-[LiveIntent](https://liveintent.com/services-privacy-policy)  
-[OpenX](https://www.openx.com/legal/privacy-policy/)
+If you are resident in the European Economic Area and want to find out more about your data protection rights, please see “Your Data Protection Rights“.
 
-While we are not a member, we are committed to following the [Network Advertising Initiative’s Self-Regulatory Principles](https://www.networkadvertising.org/code-enforcement/).
+If you have any questions, you may contact us **[by email](mailto:drudge@drudgereport.com)**.
 
-### Information We Collect through the Site
+**SECTION 1 – WHO WE ARE**
 
-**Personally Identifiable Information**
+A reference to  **“Drudge Report** ” “ **we** ” or “ **our** ” means The Drudge Report (drudgereport.com).
 
-We collect information that personally identifies you, such as your name, username, email address, credit card details, and other information as we may from time to time request at our discretion (“Personally Identifiable Information” or “PII”) if you choose to share such information with us. For example, you may be asked to provide us with certain Personally Identifiable Information when you register with or use our Services, sign up for an email subscription, and at other times. The decision to provide this information is optional; however, if you elect not to register with or provide such information, you may not be able to access certain content, features, or services available on or through the Services. We reserve the right to send you certain communications relating to the Intermarkets service, such as service announcements, administrative messages, special promotions, and Intermarkets newsletters, which are considered part of your account, without offering you the opportunity to opt out of receiving them.
+Drudge Report provides curated headlines with links to previaling stories about current events worldwide. We operate a website and mobile applications, each " **Digital Properties** ". We provide information to the public and digital advertising space to our “ **Media Buyers** ” who are advertisers and other ad partners looking to distribute relevant ad content on our Digital Properties. We display relevant online advertising to end users (“ **End Users** ”) who interact with our Digital Properties.
 
-**Non-Personally Identifiable Information**
+Drudge Report may also share or license certain information about End Users collected in connection with our partners, agencies and other interested third parties, to help them better promote transparency and protect against fraud.
 
-We automatically collect Non-Personally Identifiable Information when you use the Site. Non-Personally Identifiable Information includes demographic information (such as age, gender, city or state) and a user’s click stream information. Click stream data is anonymous and can include information such as your IP address, webpages viewed, the date and time at which those pages were viewed and interaction with content and advertisements on those webpages. Technologies used to collect this click stream data include cookies and web beacons. Intermarkets collects Non-Personally Identifiable Information and stores it in log files. We use this information to help us understand how people use our Site. For example, each time you use the Site we automatically collect the type of web browser you use, your operating system, your ISP, which pages you view, and the time and duration of your visits to the Site.
+Drudge Report also collects information from individuals when they visit, use, or interact with: (i) www.drudgereport.com and other websites operated by us, including Drudge Report’s client interfaces (the “ **Websites** ”); (ii) our software applications (the “ **Apps** ”); (collectively, our “ **Drudge Report Properties** ”).
 
-We may supplement our click stream data with Non-Personally Identifiable Information (namely, behavioral and demographic data from third party Services Providers as defined below) to target and serve some of the advertisements you see on the Services and those of our Portfolio publishers. This anonymous supplemental data may include such things as zip code, age, gender, and income range. We use the Non-Personally Identifiable Information described above to better customize the sort of advertisements you see. This information also may be used to help measure and research an advertisement’s effectiveness, or for other purposes. We also aggregate anonymous cookie data in order to identify large audience segments that assist advertisers in targeting their campaigns to the most relevant Internet audience.
+**SECTION 2 – THINGS WE PROMISE NOT TO DO**
 
-While we encourage third party advertising providers to comply with applicable law and self-regulatory standards, there are far too many online advertising transactions occurring on our Portfolio publishers’ websites to police every transaction. We pass through all advertising disclosures and opt-out mechanisms of the advertising providers, but the use and collection of information by our third-party advertising Service Providers is governed by the individual privacy policies of those providers.
+This Section covers the specific things that we promise not do to that you might be concerned about. 
 
-**Social Media Information**
+  * We do **not** collect your email address, name, or telephone number(s) in order to use our web site.
+  * We do **not** collect your email address, name, or telephone number(s) when you use our news tip feedback form, unless you choose to include that information in the free form text field. Only your IP address is collected in order to limit abuse of the web form.
+  * We do **not** send marketing or sales emails to you.
 
-If you visit the Services on a device on which you also use social networks or if you interact with us through a social media service or other platform, we may have access to some information you provide to that social network or platform such as your name, email address, friend list, photo, age, gender, location, birthday, social networking ID, current city, and the people/sites you follow, or your posts or “likes.”  For a description on how social media services and other third-party platforms, plug-ins, integrations or applications handle your information, please refer to their respective privacy policies and terms of use, which may permit you to modify your privacy settings.
 
-**Cookies and Web Beacons**
 
-We may use cookies (a small text file placed on your computer to identify your computer and browser), web beacons (an electronic file placed on a website that monitors usage), and other similar technologies to improve the quality of the Services and to better target and analyze consumer behavior with the goal of providing better and more relevant advertising. Our cookie does not include your name or anything personal to you. It simply tells us that we have encountered your computer at some prior point. Most web browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Services may not work if you delete or disable cookies. Alternatively, you are always free to opt out of the cookies.
+**SECTION 3 – PRIVACY FOR THE DRUDGE REPORT PROPERTIES**
 
-Some of our Service Providers may use their own cookies and web beacons in connection with the services they perform on our behalf. If you would like more information about these practices and to know your choices about not having this information used by these companies, please [click here](https://www.networkadvertising.org/managing/index.asp).
+This Section describes how we collect and use information when visitors interact with or use any of the Drudge Report Properties (such as our Website and mobile apps).
 
-### How We Use and Share Information Collected through the Services
+**3.1      WHAT INFORMATION DO WE COLLECT?**
 
-**General**
+**Information that individuals provide voluntarily**
 
-We use Personally Identifiable Information and Non-Personally Identifiable Information for internal purposes only, such as to notify you of new products or services, to send service notifications, to customize the advertising and content you see, to offer email promotions from our trusted network of partners (which you may opt-out of at any time, as described more fully below), to fulfill your requests for products and services, to improve the Services, to conduct research, to solicit your feedback and input about the Services, and to provide more relevant and effective products, services, and advertisements on or through the Services.
+Although our Website does not ask for this information, our mobile Apps may ask visitors to provide personal information voluntarily: for example, we may collect personal information when a visitor registers the app, or otherwise contacts us.
 
-Personally Identifiable Information and Non-Personally Identifiable Information may be combined with data collected from other sources so that we may further improve the relevance and effectiveness of products, services, and advertisements offered on or through the Services. We will not sell, share, or rent Personally Identifiable Information and Non-Personally Identifiable Information to third parties, and we will not otherwise disclose Personally Identifiable Information and Non-Personally Identifiable Information to third parties, without your permission, except as expressly disclosed in this Privacy Policy.
+The personal information we collect may include contact information (such as name, address, telephone number, or email address) and contact preferences.  It may also include professional information, such as job title, department or job role, and the nature of an individual’s request or communication.  We may also collect information that visitors choose to provide to us when completing any ‘free text’ boxes in our forms (for example, for news tips).  Please do not post any information that you do not want to reveal to the public at large. We do not collect any personal information from our news tips form, except the End User IP address which is only used to prevent abuse of the form.
 
-**Service Providers**
+**Information we or our third-party partners collect automatically**
 
-Intermarkets may share Personally Identifiable Information with its service providers that help Intermarkets provide the services that you request (“Service Providers”). For example, we may contract with Service Providers to provide certain services, such as credit card processing, advertising, analytics tools, data management services, web hosting, and web development. We provide our Service Providers with the information needed for them to perform these services, however, each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your information from unauthorized access, destruction, use, modification or disclosure.
+When using the Drudge Report Properties, we or our third-party partners may automatically collect certain information from an individual’s device.  In some countries, including countries in the EU, this information may be considered personal data under applicable data protection laws.
 
-**Non-Personally Identifiable Information Only**
+Specifically, the information we collect automatically may include IP address, operating system type and version, browser type and version, cookie ID, an individual’s activities on the Drudge Report Properties, and other information about the individual’s system and connection and how the individual interacts with the Drudge Report Properties and other websites.  We and our third-party partners may collect this information as a part of log files and through the use of cookies or other tracking technologies, as explained further in our [Website Cookie Policy](https://web.archive.org/privacy/cookie-policy/).
 
-We may use, and disclose to third parties, certain Non-Personally Identifiable Information regarding the Site (e.g., number of visits, page views, and the like) without your permission. However, such information does not identify you individually.
+**3.2      HOW DO WE USE YOUR INFORMATION?**
 
-**Other Transfers**
+We may use information collected from the Drudge Report Properties for the following purposes:
 
-We may share Personally Identifiable Information and Non-Personally Identifiable Information with businesses controlling, controlled by, or under common control with Intermarkets. If Intermarkets is merged, acquired, or sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer Personally Identifiable Information and Non-Personally Identifiable Information in connection with such transaction. You will have the opportunity to opt out of any such transfer if, in our discretion, the new entity plans to handle your information in a way that differs materially from this Privacy Policy.
+* **To send administrative information.  **For example, to send information regarding our services and changes to our terms, conditions, and policies.
+* **Interest-based advertising and analytics.**  We may partner with certain third parties to collect information on the Drudge Report Properties to engage in analysis, auditing, research, and reporting, as well as to deliver advertising that we believe may interest you based on your activity on the Drudge Report Properties and other websites over time. These third parties may set and access cookies on your computer or other device and may also use pixel tags, web logs, web beacons, or other similar technologies.  For more information about these practices and how to opt out, please see Drudge Report’s [Website Cookie Policy](https://web.archive.org/privacy/cookie-policy/) **.**
+* **To manage accounts and provide customer support or other services**. For example, we may use information to create or administer Drudge Report accounts and to provide customer support or other requested services or information.
+* **To select content and improve quality.  **We may use information to help improve the Drudge Report Properties and to ensure that content on the Drudge Report Properties is presented in the most effective manner for your device.
+* **For legal purposes.  **We may use information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with subpoenas, warrants, or other legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+* **For our business purposes.  **We may use information for our business purposes, such as data analysis, audits, identifying usage trends, determining the effectiveness of our promotional campaigns, and to evaluate and improve our products, services, marketing, and client relationships.
 
-**Third Party Sharing**
+**3.3**           **COOKIES AND SIMILAR TRACKING TECHNOLOGIES**
 
-We may use, and disclose to third parties, certain Non-Personally Identifiable Information regarding the Site (e.g., number of visits, page views, and the like) without your permission. However, such information does not identify you individually. As for Personally Identifiable Information, we may share your first name, email address, zip code, and party affiliation with our trusted network of partners. However, we will provide you with an opportunity to opt out of sharing such information.
+We and our third-party partners may use cookies and similar tracking technologies on the Drudge Report Properties to collect and use information about you.  For further information about the types of cookies and other tracking technologies we use, why, and how you can control cookies, please see our [Website Cookie Policy. ](https://web.archive.org/legal/website-cookie-policy/)
 
-### Compliance with Laws and Law Enforcement
+**3.4       USE OF DRUDGE REPORT PROPERTIES BY MINORS**
 
-Intermarkets cooperates with government and law enforcement officials and private parties to enforce and comply with the law. Intermarkets reserves the right to disclose Personally Identifiable Information and Non-Personally Identifiable Information to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect the safety, property or rights of Intermarkets or of any third party, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+The Drudge Report Properties are not intended for nor directed to individuals that are deemed to be children under applicable data protection or privacy laws, and we request that such individuals do not provide information through any of the Drudge Report Properties.
 
-### Email Opt-Out Procedure
+**SECTION 4 – GENERAL INFORMATION**
 
-**IF YOU DO NOT WANT TO RECEIVE EMAIL PROMOTIONS FROM OUR TRUSTED NETWORK OF PARTNERS, YOU MAY UNSUBSCRIBE FROM OUR EMAIL NEWSLETTERS OR PROMOTIONAL EMAILS BY FOLLOWING THE OPT-OUT INSTRUCTIONS CONTAINED IN THE EMAIL OR EMAIL US AT[INFO@INTERMARKETS.NET](mailto:INFO@INTERMARKETS.NET) AND YOU WILL BE REMOVED FROM OUR THIRD-PARTY DISCLOSURE LIST.**
+**4.1       HOW DO WE SHARE YOUR INFORMATION?**
 
-Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’ database. If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed.
+Information we collect may be disclosed:
 
-### Cookie Opt-Out Procedure
+  * **To our affiliates** : We may disclose your information to our affiliates (see “[Who We Are](https://web.archive.org/legal/privacy-policy/#Who)“) for the purposes described in this Policy.  Drudge Report, Inc., is the party responsible for the management of your personal information jointly used by it and its affiliates.
+  * **Media Buyers** : If you are an End User, we may share information we collect Media Buyer Clients for purposes relevant to our business relationships with them, such as for billing purposes, dispute resolution, or fraud prevention and to allow them to make decisions regarding buying advertising inventory on our Digital Properties and other websites and applications, and to analyze the effectiveness and performance of their advertising campaigns via our services, including sharing your device’s physical location to enable our Media Buyer Clients to provide you with more personalized content and to study the effectiveness of advertising campaigns.
+  * **Other Clients:**  If you are an End User, we may share certain information we collect in connection with our Ad Services with brands, agencies and other interested third parties to help them better identify and validate commercial opportunities, promote transparency and protect against fraud.
+  * **Attribution and Analytics Partners** : If you are an End User, we may share your information (such as your cookie ID, mobile device ID, or other unique identifier) with our (or our Publisher Client or Media Buyer’s) attribution and analytics partners to validate and measure the success and effectiveness of ads delivered via the Platform.
+  *  **With our vendors, consultants, and other service providers** : We may share your information with our third-party service providers, vendors, contractors, or agents who perform functions required for the operation of the business.  Examples include, to provide data storage and processing services, lead management, campaign management, technical support for our Platform and Drudge Report Properties and fraud prevention.
+  * **Website advertising partners** : As noted above, we may partner with certain third parties to collect information on the Drudge Report Properties to engage in analysis, auditing, research, and reporting, as well as to deliver advertising that we believe may interest you based on your activity on the Drudge Report Properties and other websites over time.  We may share information with them for this purpose.
+  * **Business transfers** : We may share your information with a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or sock (including in connection with any bankruptcy or similar proceedings).
+  * **For legal purposes** : We may share your information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with subpoenas, warrants, or other legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+  * **With consent** : We may disclose an individual’s information to any other person with the individual’s consent to such disclosure.
 
-Intermarkets and our service providers may use the information we collect from and about you to deliver relevant ads to you when you use the Services (on any of your devices) or another service. As noted above, third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and information the different devices you use and your activity on such devices, to assist them in delivering advertising that is more relevant to your interests. To find out more about interest-based advertising and third-party entities that use these technologies, please go to <https://www.networkadvertising.org/understanding-online-advertising/>.
 
-**IF YOU WOULD LIKE TO OPT OUT OF INTEREST-BASED ADVERTISING, PLEASE VISIT  [http://www.networkadvertising.org/choices](http://optout.networkadvertising.org/)  or [http://www.aboutads.info](http://www.aboutads.info/).**
 
-_**PLEASE NOTE** that if you erase or otherwise alter your browser’s cookie file (including upgrading certain browsers) you may need to opt out again._
+**4.2       YOUR OPT-OUT CHOICES**
 
-_**PLEASE NOTE** that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites. You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. Intermarkets has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers. _
+**Opting out of receiving electronic communications from us  **
 
-### Mobile Opt-Out Procedure
+We do not send marketing-related emails to anyone. Therefore it is not necesary to opt out of receiving any marketing-related emails from us, because that will not happen. If you receive marketing related emails claiming to be from Drudge Report, they are fraudulent.
 
-We also sometimes use, or partner with publishers, publisher-facing, or app developer platforms that use mobile Software Development Kits (“SDKs”), or use an SDK with a mobile app that we offer, to collect Information, such as mobile identifiers (e.g., IDFAs and Android Advertising IDs), and information connected to how mobile devices interact with our Services and those using our Services. A mobile SDK is the mobile app version of a web beacon (see “Web Beacons” above). The SDK is a bit of computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services or analytics to be performed. We may use this technology to deliver or help our Partners deliver certain advertising through mobile applications and browsers based on information associated with your mobile device.
+**Opting out of interest-based advertising from Cookies**
 
-Depending on your device, you may be able to reset your mobile device’s advertising identifier at any time by accessing the privacy settings on your mobile device. In addition, each operating system, iOS for Apple phones, Android for Android devices and Windows for Microsoft devices, provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements.
+To opt out of receiving interest-based advertising (including retargeting) through the use of cookies in your current browser and for more information on what it means to opt out, please go to [https://granite3.com/legal/opt-out/](https://web.archive.org/legal/opt-out/).
 
-**IF YOU WOULD LIKE TO OPT-OUT OF SUCH AD NETWORKS’ AND SERVICES’ ADVERTISING PRACTICES ON THE PARTICULAR DEVICE ON WHICH YOU ARE ACCESSING THIS POLICY, GO TO[HTTP://WWW.NETWORKADVERTISING.ORG/MOBILE-CHOICE](http://www.networkadvertising.org/MOBILE-CHOICE) TO OPT-OUT FOR YOUR MOBILE WEB BROWSERS. YOU MAY ALSO DOWNLOAD THE APPCHOICES APP AT [HTTPS://WWW.ABOUTADS.INFO/APPCHOICES](http://www.aboutads.info/APPCHOICES) TO OPT-OUT IN MOBILE APPS.**
+See Drudge Report’s [Platform ](https://pubmatic.com/legal/platform-cookie-policy/)[Cookie Policy](https://web.archive.org/legal/platform-cookie-policy/) and [Website Cookie Policy](https://web.archive.org/legal/website-cookie-policy/) for more information on how Drudge Report uses cookies and other similar technologies. For more information about cookies in general, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).  For more information about how to clear your browser cache, please see your browser’s instructions for doing so.  Please note that deleting or resetting cookies and clearing your browser cache will not opt you out of receiving interest-based advertising (including retargeting) from Drudge Report.
 
-_**PLEASE NOTE** that all Cookie and Mobile opt-out tools referenced above are provided by third parties, not Intermarkets. Intermarkets does not control or operate these tools or the choices that advertisers and others provide through these tools._
+We are a member of the Network Advertising Initiative (NAI) and adhere to the 2018 NAI Code of Conduct.  We also adhere to the Digital Advertising Alliance’s (DAA) Self-Regulatory Principles for Online Behavioral Advertising and Multi-Site Data, the Application of Self-Regulatory Principles to the Mobile Environment, and the Application of the DAA Principles of Transparency and Control to Data Used Across Devices.  If you go to [optout.networkadvertising.org](http://optout.networkadvertising.org/), or [optout.aboutads.info](http://optout.aboutads.info/), you can learn how to exercise choice regarding the collection of information about your online activities over time and across multiple third-party websites, online services, devices, or applications for interest-based advertising purposes.
 
-### Third Party Websites
+Some of our advertising networks have their own opt-out mechanisms that are linked from their sites or their online-posted privacy policies.  You should review the privacy policies of those companies for these opt-out links if you no longer wish to receive targeted advertising from a particular company, or multiple companies.
 
-The Services may contain links to websites or content operated and maintained by third parties. Intermarkets does not control those sites or their privacy practices, which may differ from our practices. If you click on a link or an advertisement, the privacy policy of the website to which you link will govern the collection and use of your information by that website’s operator(s). You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before disclosing any information to the website. For more information, please [click here](https://www.networkadvertising.org/understanding-online-advertising/).
+At this time, we do not honor “Do Not Track” headers and similar mechanisms.
 
-### Spyware or Adware
+**Opting Out of Interest-Based Advertising in Mobile Applications**
 
-These terms refer to applications that are downloaded to your computer. These types of applications deliver ads (usually in the form of pop-up type ads) based on your web usage. We do not participate in any way with spyware or adware applications, and we do not download these types (or any types) of applications without your expressed acceptance. Cookies and .swf files are not spyware or adware, and they are not harmful to your computer.
+Our clients and partners may display interest-based advertising to you in mobile applications, based on your use of mobile applications over time and across non-affiliated apps.  To learn more about these practices and how to opt out, please visit <http://www.aboutads.info/appchoices>, download the DAA’s AppChoices mobile app, and follow the instructions provided in the AppChoices mobile app.  You can also adjust the advertising preferences on your mobile device (in iOS, visit Settings > Privacy > Advertising > Limit Ad Tracking, and in Android, visit Settings > Google > Ads > Opt out of interest-based ads).
 
-### Public Forums
+**Opting Out of Cross-Device Targeting**
 
-Please be advised that, whenever you voluntarily post information to any Intermarkets community page or any other public forums, such information can and may be accessed by the public. This means that any person or entity with access to such information can potentially use it for any purpose, including sending unsolicited communications.
+Our clients and partners may combine and use information from websites or applications on your current browser or device with information from your other browsers or devices for advertising purposes.  To opt out of such practices by our clients and partners, please follow the instructions above for opting out on each of your browsers and on each of your mobile devices, including:
 
-### Security
+  * Opting Out of Interest-Based Advertising from Cookies
+  * Opting Out of Interest-Based Advertising for Mobile Advertising Identifiers
 
-We recognize the importance of safeguarding the confidentiality of your information. Accordingly, we employ standard security measures designed to protect your information from unauthorized access. However, no data transmission over the Internet or other network can be guaranteed to be 100% secure. Therefore, while we strive to protect any information you transmit on or through the Site, please be advised that Intermarkets assumes no responsibility or liability for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond Intermarkets’ reasonable control.
 
-### Processing in the United States
 
-We process and store all information in the United States. By using our Services, you agree that the collection, use, transfer, and disclosure of your Personally Identifiable Information will be governed by the applicable laws in the United States.
+Please note that you will need to opt out separately on each of your browsers and on each of your mobile devices to ensure that information collected on a particular browser or device is not used on another browser or device.
 
-### Children’s Privacy Statement
+**4.3       YOUR DATA PROTECTION RIGHTS**
 
-The Intermarkets Services are directed to, and intended for use by, adults only. We do not knowingly collect information from children under the age of 13. If we become aware that we have inadvertently received information from a child under the age of 13, we will delete such information from our records. Because we do not knowingly collect any information from children under the age of 13, we also do not knowingly distribute such information to third parties.
+You have the following data protection rights:
 
-### Privacy Policy Changes
+  * You have the right to request  **access to**  or that we  **change, update, or delete your personal information**  at any time. Please note that we may impose a small fee for access and disclosure of your personal information where permitted under applicable law, which will be communicated to you.
+  * If we have collected and process your personal information with your consent, then you can  **withdraw your consent**  at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * The right to  **opt out of**  receiving marketing communications from us. See “[Your Opt-Out Choices](https://web.archive.org/legal/privacy-policy/#optout)” for further information.
+  * If you are a resident of the European Economic Area (EEA), you may also have the following rights:
+    * The right to **  object to processing **of your personal information,  **restrict processing**  of your personal information, or  **request**   **portability**  of your personal information. To exercise these rights email [drudge@drudgereport.com](mailto:drudge@drudgereport.com); and
+    * The right to  **complain to a data protection authority**  about our collection and use of your personal information. For more information, please contact your local data protection authority.  Contact details for data protection authorities in the EEA are [here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
 
-Intermarkets may update this Privacy Policy from time to time, and so you should review this Policy periodically. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Services. Those changes will go into effect on the Revision Date shown at the top of the revised Privacy Policy. Your continued use of the Services constitutes your consent to the revised Privacy Policy.
 
-### Acceptance of Privacy Policy
 
-When you use the Intermarkets Services, you are accepting the terms and conditions of this Privacy Policy, and Intermarkets will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Intermarkets Services. You can also access, correct, or change your Personally Identifiable Information, or opt-out of our direct marketing efforts, by sending an email to [info@intermarkets.net](mailto:info@intermarkets.net). Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’ database. If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. If you have questions or concerns about this Privacy Policy, please email us at [info@intermarkets.net](mailto:info@intermarkets.net) or send us a letter at Intermarkets, Inc., Attention: Privacy, 11951 Freedom Drive, 11th Floor, Reston, VA 20190.
+Please note that because most of the information we store can only identify a particular browser or device, and cannot directly identify you personally, you may need to provide us with some additional information to enable us to identify the personal information we hold about you and ensure that we accurately fulfill your request and do not infringe on the privacy rights of other individuals.You can exercise your rights at any time by contacting us at [drudge@drudgereport.com](mailto:drudge@drudgereport.com). We will respond to your request in accordance with our obligations under applicable privacy laws. Please review our [Data Subject Rights Notice](https://web.archive.org/legal/eea-data-subject-rights-notice/) for further information and instructions on how to exercise your rights.
 
-### California Privacy Notice
+**4.4        LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION (EEA END USERS AND VISITORS ONLY)**If you are a resident of the EEA, our legal basis for collecting and using personal information described above will depend on the personal information concerned and the specific context in which we collect it.  However, we normally rely on our (or our Clients) legitimate interests to collect personal information from you, except where such interests are overridden by your data protection interests or fundamental rights and freedoms.  Where we rely on our legitimate interests to process your personal information, they include the interests described in the sections above with the heading “How Do We Use Your Information” and how we use it with the Drudge Report Properties.
 
-California’s Shine the Light law provides California residents with the right to receive disclosures about any sharing of their personal information with other companies.
+In some cases, we may rely on your consent or have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person.  If we rely on consent to collect and/or process your personal information, we will obtain such consent in compliance with applicable laws.
 
-If you are a California resident and you provided your personal information to Intermarkets, then, once each calendar year, you may submit a written request for information about the information we shared, if any, with other companies for their use in direct marketing. To submit your written request, please email us at [info@intermarkets.net](mailto:info@intermarkets.net) or send us a letter at Intermarkets, Inc., Attention: Privacy, 11951 Freedom Drive, 11th Floor, Reston, VA 20190 with “Request for California Privacy” in the letter subject line.
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the “Contacting Us” heading below.
 
-Within 30 days of receiving your request, we will send you a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties.
+**4.5        THIRD PARTIES**
 
-We reserve our right not to respond to requests sent more than once in a calendar year, or requests submitted to an address other than the one posted in this notice.
+This Policy does not address, and except as otherwise described in this Policy, we are not responsible for, the privacy, information, or other practices of any third parties, including our vendors or any other third party operating any site or service to which the Ad Services or Drudge Report Properties link.  The inclusion of a link through the Ad Services or Online Property does not imply endorsement of the linked site or service by us or by our affiliates.
 
-Please note that the California Shine the Light law does not cover all information sharing. Our disclosure only includes information covered by the law.
+Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any personal information you disclose to other organizations through or in connection with the Ad Services or Drudge Report Properties.
 
-### Users in the EEA and Switzerland
+You should always read the privacy policy of any website you access or social network page through which you share information carefully in order to understand their specific privacy and information usage practices.
 
-If you are a resident of the EEA or Switzerland, the following information applies with respect to personal data collected through your use of our Services.
+**4.6      HOW DO WE KEEP YOUR PERSONAL INFORMATION SECURE?**
 
-**Purposes of processing and legal basis for processing:**
+We use reasonable organizational, technical, administrative, and physical safeguards to protect the personal information we collect and process.  The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information and to help ensure that your data is safe and secure.  However, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section below.
 
-We process personal data consistent with our disclosures in this Privacy Policy. We process personal data on the following legal bases: (1) with your consent; (2) as necessary to perform our agreement to provide the Services; and (3) as necessary for our legitimate interests in providing the Services where those interests do not override your fundamental rights and freedoms related to data privacy.
+**4.7       RETENTION OF YOUR INFORMATION**
 
-**Transfers**
+We will retain personal information for the period necessary to fulfill the purposes outlined in this Policy and where we have ongoing legitimate business needs to do so (for example, to provide the Ad Services, to comply with applicable legal, tax or accounting requirements, to enforce our agreements or comply with our legal obligations) unless a longer retention period is required or permitted by law.
 
-Personal data we collect may be transferred to, and stored and processed in, the United States or any other country in which we or our affiliates or processors maintain facilities. We will ensure that transfers of personal data to a third country or an international organization are subject to appropriate safeguards.
+If you are an End User, we may retain information that we collect through the Ad Services (including the segment information that we receive from third parties) for up to 45 days from the last date that we received any of the End User’s data.  We may retain ad impression information for up to 45 days.  We may retain raw ad server logs for our mobile ad server business for up to 45 days.  We use precise geolocation for the specific ad impression to which the geolocation relates, after which the geolocation information is aggregated with other geolocation data for use by us for analytical purposes.  If we de-identify information we collect through the Ad Services, we may retain that information, in an aggregated format, indefinitely.  In such cases, we commit to not re-identifying the information.  If we are required to retain information to comply with a legal or audit obligation, we may store End User information for longer periods.
 
-**Individual Rights**
+**4.8        INTERNATIONAL DATA TRANSFERS**
 
-If you are a resident of the EEA or Switzerland, we respect your rights according to Chapter 3 of the EU General Data Protection Regulation. In order to verify your identity, we may require you to provide us with personal information prior to accessing any records containing information about you.
+The Drudge Report Properties and Ad Services are provided, supported, and hosted in the United States.  If you are using these from outside the United States, be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information, in the United States and other locations, including India, where we have offices or employees or engage service providers.  These countries may have data protection laws that are different from the laws of your country of residence.
+
+However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Policy.  These include:
+
+  * Implementing the European Commission’s Standard Contractual Clauses for transfers of personal information between our group companies, which require all group companies to protect personal information they process from the EEA in accordance with European Union data protection law. Our Standard Contractual Clauses can be provided upon request.  We have implemented similar appropriate safeguards with our third-party service providers and partners and further details can be provided upon request; and
+  * Self-certifying to the EU-US and Swiss-US Privacy Shield Frameworks. See our Privacy Shield Notice below for further information.
+
+
+
+**4.9        PRIVACY SHIELD NOTICE**
+
+EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Status |    
+  
+---|---  
+  
+Drudge Report, Inc., located in the United States, participates in and has certified its compliance with the EU-U.S.  Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  We are committed to subjecting all personal information received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S.  Department of Commerce’s Privacy Shield website: https://www.privacyshield.gov/welcome.  A list of Privacy Shield participants is maintained by the Department of Commerce and is available at: <https://www.privacyshield.gov/list>.
+
+Drudge Report is responsible for the processing of personal information it receives under each Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf.  We comply with the Privacy Shield Principles for all onward transfers of personal information from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal information received or transferred pursuant to the Privacy Shield Frameworks, we are subject to the regulatory enforcement powers of the U.S.  Federal Trade Commission.  In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider TRUSTe (free of charge to you) at <https://feedback-form.truste.com/watchdog/request>.  Under certain conditions, more fully described on the Privacy Shield website, <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+Residents of the EU and Switzerland may also request our data processing agreements in addition to relying on Drudge Report’s Privacy Shield certification.
+
+**4.10     SENSITIVE INFORMATION AND OUR USE OF NON-SENSITIVE HEALTH SEGMENTS**
+
+We ask that you not send us, and you not disclose, any sensitive personal information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background, or trade union membership) on or through the Drudge Report Properties or otherwise to us.
+
+We may receive the following non-sensitive health-related advertising segments that we use to target ads that may be of interest to End Users: diet and fitness; doctors; health care professionals; health conscious; health and medicine; health and well-being; interest in health insurance; and pregnancy.
+
+**4.11     UPDATES TO THIS POLICY**
+
+We will review and update this Policy periodically and will note the date of its most recent revision at the top of this Policy.  If we make material changes to this Policy, we will post the revised Policy on our website and may take additional measures to inform you about such changes if required by applicable data protection laws.  We encourage you to review this Policy frequently to be informed of how Drudge Report is protecting your information.
+
+**4.12    CONTACTING US**
+
+If you have any questions about this Policy or Drudge Report’s privacy practices, please contact us by email at [drudge@drudgereport.com](mailto:drudge@drudgereport.com). 
+
+Please note that email communications are not always secure, so please do not include sensitive information in your emails to us.
+
+To comply with our obligations under EU data protection legislation, we have appointed a Data Protection Officer (DPO).  Our DPO is contactable at [drudge@drudgereport.com](mailto:drudge@drudgereport.com) or by mail using the details provided above.
+
+**Who is the controller of my data?**  For the purposes of EU data protection legislation, Drudge Report is the controller of your personal information.
+
+Copyright © 2019 Drudge Report 
