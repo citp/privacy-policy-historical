@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buygames.ps privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630201644id_/https%3A//www.buygames.ps/en/content/privacy-policy-7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buygames.ps privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229165329id_/https%3A//www.buygames.ps/en/content/privacy-policy-7) for the most accurate reproduction.*
 
 # Privacy Policy | BuyGames.PS
 
