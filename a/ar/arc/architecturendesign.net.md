@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecturendesign.net privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112023727id_/https%3A//www.architecturendesign.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturendesign.net privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229140453id_/https%3A//www.architecturendesign.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Architecture & Design
 
