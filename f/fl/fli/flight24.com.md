@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flight24.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624045703id_/https%3A//www.flightradar24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flight24.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229154845id_/https%3A//www.flightradar24.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Flightradar24.com - Live flight tracker!
+# Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24
 
 Content
 
@@ -25,7 +25,7 @@ Using our Services may require that you register a user account as set forth in 
 
 ## Registration data
 
-When creating a user account on the Website or through our Apps, you are required to provide the following information; email address and password. If you connect to the Service using credentials from a Third Party Service (as defined in the Terms of Use) (e.g. Facebook), you authorize us to collect your authentication information, such as your username and encrypted access credentials. We may also, following your prior consent, collect other information available on or through your Third Party Service's account, including, for example, your name, profile picture, country, hometown, email address, date of birth, gender, friends' names and profile pictures, and networks in order to gain insights into user behaviour. If you register to subscribe to any of our Paid Services, as defined in our Terms of Service), you will also need to provide your name, last name, and country of residence. If you register for our Business Services, you further need to provide your company name (which may be a limited liability company or a sole trader) and will be able to provide your address and VAT number. Please note that we are unable to provide the basic services for registered users or any Paid Services unless you provide the above stated personal data.
+When creating a user account on the Website or through our Apps, you are required to provide the following information; email address and password. If you connect to the Service using credentials from a Third Party Service (as defined in the Terms of Use) (e.g. Facebook), you authorize us to collect your authentication information, such as your username and encrypted access credentials. We may also, following your prior consent, collect other information available on or through your Third Party Service’s account, including, for example, your name, profile picture, country, hometown, email address, date of birth, gender, friends’ names and profile pictures, and networks in order to gain insights into user behaviour. If you register to subscribe to any of our Paid Services, as defined in our Terms of Service), you will also need to provide your name, last name, and country of residence. If you register for our Business Services, you further need to provide your company name (which may be a limited liability company or a sole trader) and will be able to provide your address and VAT number. Please note that we are unable to provide the basic services for registered users or any Paid Services unless you provide the above stated personal data.
 
 If you are using our Services through an App on a mobile device, we may provide features that rely on the use of additional information on your mobile device or require access to certain services on your mobile device that will enhance your experience but are not required to use the Service. For example, you may give us your authorization to gather the specific location of your mobile device. However, in order for us to gather or use the specific location of your mobile device you must first give your explicit permission. Any such information gathered will only be used for the specific purpose explained at the time we ask for your permission. If you have given us your permission to gather and use your location, you will always have the ability to withdraw such permission by changing the settings of your mobile device.
 
@@ -35,15 +35,13 @@ When you use the Services, certain information will be collected automatically, 
 
 ## Purposes of processing
 
-We will process the information set out above for the following purposes:
-
-(i) to administer your account, to enable and provide the Services and integration with third party services, and to provide, personalize and improve your experience with the Services, and to otherwise provide the Services according to the user terms; (ii) to send you alerts or messages by email or otherwise, including to provide you with marketing of products and services and to inform you about updates of the Services or the user terms, (iii) to improve and develop the Services or new services and products and to analyze your use of the Services, (iv) to ensure the technical functioning of the Services and to prevent use of the Services in breach of the user terms, (v) to enforce the user terms, including to protect our rights, property and safety and also the rights, property and safety of third parties if necessary and (vi) to fulfil requirements by law.
+We will process the information set out above for the following purposes: (i) to administer your account, to enable and provide the Services and integration with third party services, and to provide, personalize and improve your experience with the Services, and to otherwise provide the Services according to the user terms; (ii) to send you alerts or messages by email or otherwise, including to provide you with marketing of products and services and to inform you about updates of the Services or the user terms, (iii) to improve and develop the Services or new services and products and to analyze your use of the Services, (iv) to ensure the technical functioning of the Services and to prevent use of the Services in breach of the user terms, (v) to enforce the user terms, including to protect our rights, property and safety and also the rights, property and safety of third parties if necessary and (vi) to fulfil requirements by law.
 
 ## Legal basis
 
-By clicking the "I accept" button in the account set up, or similar, you agree to adhere to our terms of use and enter into an agreement with us and to to receive direct marketing from us or third parties, e.g. by email or otherwise. You have the right to refuse your personal data being used for direct marketing. Please note however, that if you are using any of our services which are subject to this Privacy Policy, you may not be able to continue using certain services if you do not provide us with the personal data. 
+By clicking the "I accept" button in the account set up, or similar, you agree to adhere to our terms of use and enter into an agreement with us and to to receive direct marketing from us or third parties, e.g. by email or otherwise. You have the right to refuse your personal data being used for direct marketing. Please note however, that if you are using any of our services which are subject to this Privacy Policy, you may not be able to continue using certain services if you do not provide us with the personal data.
 
-Where you have registered for a Service, certain personal data will be processed for the fulfilment of such agreement with you and you acknowledge that the processing of such personal data is regulated in said agreement. We may also base some of our processing on a balancing of interest evaluation, where our interest is to maintain and develop our services.
+Where you have registered for a Service, certain personal data will be processed for the fulfilment of such agreement with you and you acknowledge that the processing of such personal data is regulated in said agreement. We may also base some of our processing on a balancing of interest evaluation, where our interest is to maintain and develop our services. 
 
 Certain processing is also based on your consent. This is the case where we share your data with other users of the Service and where we collect data through your Third Party Service Account. You can withdraw your consent at any time by adjusting your privacy preferences in our app and website setting menus.
 
@@ -53,11 +51,9 @@ We may disclose your personal data to other users of the Services (upon your opt
 
 ## Right to request information and correction of data
 
-You, being the person whose personal data is being processed, are entitled by law to once per calendar year, free of charge, upon written request receive information regarding the personal data which is processed. You also have the right to request rectification, erasure, portability or blocking of any personal data and to object to the processing of personal data. If you would like to exercise any such rights, please write to us at the address set out above, stating your full name and, if applicable, your address, user name and the email address used for registration. Please note that the request to receive information of the processing of your personal data shall be duly signed by you.
+You, being the person whose personal data is being processed, are entitled by law to once per calendar year, free of charge, upon written request receive information regarding the personal data which is processed. You also have the right to request rectification, erasure, portability or blocking of any personal data and to object to the processing of personal data. If you would like to exercise any such rights, please write to us at the address set out above, stating your full name and, if applicable, your address, user name and the email address used for registration. Please note that the request to receive information of the processing of your personal data shall be duly signed by you. You also have a right to lodge a complaint with the supervisory authority.
 
-You also have a right to lodge a complaint with the supervisory authority. 
-
-Retention
+### Retention
 
 We will keep your data during our relationship. If we find that an account is inactive for twelve (12) months we will delete your data.
 
@@ -75,7 +71,7 @@ The Cookies used may be session Cookies, which disappear when you shut down your
 
 
 
-These are the Cookies we use:
+### These are the Cookies we use:
 
 ### List of cookies
 
@@ -202,7 +198,7 @@ Lifetime| 1 year
 Purpose| User Consent  
 Description| Whether the user has consented to our weather data terms and conditions  
   
-Most web browsers allow you to manage your Cookie preferences. You can set your browser to refuse Cookies, or delete certain Cookies. In general you should also be able to manage similar technologies by using your browser's preferences.
+Most web browsers allow you to manage your Cookie preferences. You can set your browser to refuse Cookies, or delete certain Cookies. In general you should also be able to manage similar technologies by using your browser’s preferences.
 
 Please note that if you choose to block Cookies, the functionality of the Services may be affected.
 
