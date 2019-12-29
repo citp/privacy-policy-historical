@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forex-tsd.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623214046id_/https%3A//www.mql5.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-tsd.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229015549id_/https%3A//www.mql5.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy and Data Protection Policy
 
-This Privacy and Data Protection Policy sets out the basis which MQL5 Ltd. (“we”, “us”, or “our”) may collect, use or otherwise process personal data via our website [www.mql5.com](https://web.archive.org/) ("Website") and all related websites as specified below, downloadable software, mobile applications including desktop applications (collectively "Products"), and other services provided by us and on which a link to this Privacy Policy is displayed, and all other communication with individuals through written or oral means, such as email, chat or phone (collectively together with the Website and Products, our "Services").   
+This Privacy and Data Protection Policy sets out the basis which MetaQuotes Ltd. (“we”, “us”, or “our”) may collect, use or otherwise process personal data via our website [www.mql5.com](https://web.archive.org/) ("Website") and all related websites as specified below, downloadable software, mobile applications including desktop applications (collectively "Products"), and other services provided by us and on which a link to this Privacy Policy is displayed, and all other communication with individuals through written or oral means, such as email, chat or phone (collectively together with the Website and Products, our "Services").   
 
 
 We are committed to safeguarding your personal information that you entrust to us while using our websites and Services, including use of the following:
@@ -79,7 +79,7 @@ If you use our website for product or service purchases, we collect information 
 
 1.4 Minor's personal information and privacy
 
-We recognize the importance of protecting the information about minors and we do not knowingly collect any personal information from minors under eighteen (18) years of age.  Our website and services are directed to persons over eighteen (18) years of age, MQL5 Ltd. accepts no responsibility for any failure to comply with this requirement.
+We recognize the importance of protecting the information about minors and we do not knowingly collect any personal information from minors under eighteen (18) years of age.  Our website and services are directed to persons over eighteen (18) years of age, MetaQuotes Ltd. accepts no responsibility for any failure to comply with this requirement.
 
 We encourage parents and legal guardians to take the appropriate measures to prevent children under eighteen years of age from viewing at this Website without the appropriate permission.  
 
