@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904003438id_/https%3A//www.toyota.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229163031id_/https%3A//www.toyota.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Toyota | Privacy Policy
 
-Updated 27 February 2017
+Updated 14 November 2018
 
 ### Toyota Group - Privacy and Credit Information Policy
 
-[DOWNLOAD PDF](https://web.archive.org/static/pdfs/toyota-group-privacy-credit-infomation-policy_27-02-17.pdf)
+[Download PDF](https://web.archive.org/-/media/main-site/privacy-policy/toyota-group-privacy-and-credit-information-policy_14-09-18.pdf?la=en)
 
 #### 1\. Who are we?
 
@@ -39,8 +39,8 @@ The Toyota Group collects and shares with other members of the OneToyota Network
 
 For more information about how authorised Toyota dealers in Australia handle your information, please see the dealer’s privacy policy, available from the dealer’s website.
 
-For Toyota Western Australia’s privacy policy, click here.  
-For Toyota Insurance’s privacy policy, click here.
+For Toyota Western Australia’s privacy policy, [click here](https://web.archive.org/privacy-policy-western-australia).  
+For Toyota Insurance’s privacy policy, [click here](https://web.archive.org/insurance-privacy-policy).
 
 #### 3\. What information do we collect and hold?
 
@@ -160,7 +160,7 @@ We may disclose your information to others including:
   * Other credit providers to assess your application with Toyota Finance or manage your credit;
   * A guarantor, if a finance arrangement is guaranteed;
   * Our agents or contractors which perform a particular function or service on our behalf;
-  * Government and law enforcement agencies, bodies and regulators, or a dispute resolution body of which we are a member (for example, the Financial Ombudsman Service), if we are required to disclose your information to such authorities; or
+  * Government and law enforcement agencies, bodies and regulators, or a dispute resolution body of which we are a member (for example, the Australian Financial Complaints Authority), if we are required to disclose your information to such authorities; or
   * Your employer or former employer (for example, to conduct a reference check for potential employment or finance applications).
 
 
@@ -169,6 +169,7 @@ Examples of our third party agents or contractors include:
 
   * Mailing houses;
   * Printers;
+  * Finance and insurance product suppliers;
   * Organisations that assist us to conduct promotions or market research;
   * Customer support providers;
   * Information technology service providers;
@@ -233,7 +234,7 @@ We may hold information about you in digital and paper forms. We take reasonable
 We may disclose your information to organisations located overseas. These include:
 
   * Our related companies in Japan and elsewhere in the world; or
-  * our service providers that are located or hold data overseas including in the USA, Singapore, the UK and Sweden.
+  * our service providers that are located or hold data overseas including in the USA, Singapore, India, the UK and Sweden.
 
 
 
@@ -253,7 +254,7 @@ If you believe that your privacy has been compromised, or if you feel that we ha
 
 We endeavour to respond to you within 24 hours to acknowledge the complaint and explain how we will investigate it. This may include consulting with the CRB or other credit providers if the complaint relates to your credit information. We will try to resolve your complaint within 20 working days and write to you to explain the reasons for our decision. When this is not possible, we will contact you and let you know how long it will take for us to resolve your complaint.
 
-If your complaint is not satisfactorily resolved, you can contact us to discuss your concerns or lodge a complaint with Office of the Australian Information Commissioner by visiting [oaic.gov.au](https://www.oaic.gov.au/), calling **1300 363 992** or emailing [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au). If your complaint relates to your finance with us you may access the Financial Ombudsman Service at fos.org.au or by calling **1300 780 808**.
+If your complaint is not satisfactorily resolved, you can contact us to discuss your concerns or lodge a complaint with Office of the Australian Information Commissioner by visiting [oaic.gov.au](https://www.oaic.gov.au/), calling **1300 363 992** or emailing [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au). If your complaint relates to your finance with us you may access the Australian Financial Complaints Authority at [afca.org.au](https://www.afca.org.au/) or by calling **1800 931 678**.
 
 #### 13\. Contacting us
 
@@ -261,9 +262,9 @@ If your enquiry relates to Toyota Australia (Toyota vehicles, parts, accessories
 
   * Email:
     * For product and service enquiries: [guestexperience@toyota.com.au](mailto:guestexperience@toyota.com.au)
-    * For privacy enquiries: [privacy@toyota.com.au](mailto:privacy@toyota.com.au)
+    * For privacy enquiries:[privacy@toyota.com.au](mailto:privacy@toyota.com.au)
   * Telephone: 1800 TOYOTA (1800 869 682)
-  * Post: Toyota Australia, PO Box 5428, Chatswood West NSW 1515
+  * Post: Toyota Australia, GPO Box 2006S, Melbourne, VIC 3001
 
 
 
