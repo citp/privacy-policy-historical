@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silverfast.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506204231id_/https%3A//www.silverfast.com/show/privacy/en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverfast.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229160743id_/https%3A//www.silverfast.com/show/privacy/en.html) for the most accurate reproduction.*
 
 # Privacy Policy :: LaserSoft Imaging
 
@@ -54,7 +54,7 @@ Newsletter Subscription
 The website operator offers a newsletter, in which you are informed of current events and special offers. If you would like to subscribe to the newsletter, you must provide a valid e-mail address. 
 
 Tracking Pixels and Embedded Scripts  
-Zählpixel und eingebettete Skripte sind weitere Technologien, die wir in unseren We also use tracking pixels and embedded scripts technology on our websites and in some of our email messages and advertisements. Tracking pixels are simple programming code found in webpages, e-mail messages and advertisements, that inform us when the website, e-mail message or advertisement was displayed or clicked. Embedded scripts are programming code that we use on some of our webpages, that collect how you use these pages, for example, what links you click. We use this information to improve our websites and to adjust our services to match your likely interests and to collect data for market research. Under certain circumstances, it is possible to disable scripting functions such as, for example, JavaScript in your browser (see the browser-help function). If you disable scripting capabilities, our websites may potentially fail to work properly. 
+We also use tracking pixels and embedded scripts technology on our websites and in some of our email messages and advertisements. Tracking pixels are simple programming code found in webpages, e-mail messages and advertisements, that inform us when the website, e-mail message or advertisement was displayed or clicked. Embedded scripts are programming code that we use on some of our webpages, that collect how you use these pages, for example, what links you click. We use this information to improve our websites and to adjust our services to match your likely interests and to collect data for market research. Under certain circumstances, it is possible to disable scripting functions such as, for example, JavaScript in your browser (see the browser-help function). If you disable scripting capabilities, our websites may potentially fail to work properly. 
 
 Rights of the User: Disclosure, Correction and Cancellation  
 You, the user, receive, upon request and free of charge, information concerning your personal information that we have saved. As long as your request does not conflict with our legal obligation to store data (e.g. data retention), you maintain the right to have incorrect data corrected and personal data either blocked or erased. 
@@ -66,7 +66,7 @@ Luisenweg 6-8
 Germany  
 Tel.: 0431 56009-0  
 Email: info[at]silverfast.com  
-Website: www.silverfast.de 
+Website: www.silverfast.com 
 
 Data Protection Registrar  
 Please contact our data protection registrar with any further questions concerning the processing of your personal data. 
