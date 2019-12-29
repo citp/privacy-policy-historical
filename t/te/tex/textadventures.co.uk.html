@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the textadventures.co.uk privacy policy that was archived on 2019-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190612132319id_/http%3A//textadventures.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the textadventures.co.uk privacy policy that was archived on 2019-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191229220601id_/http%3A//textadventures.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
             <meta charset="utf-8">
@@ -83,14 +83,19 @@
 <li><a href="/quest">Create</a></li>                                <li><a href="/forum">Forums</a></li>
                             </ul>
                             <div id="header-links" class="pull-right">
-                                <a id="header-twitter" href="http://twitter.com/textadv" target="_blank"><img class="header-icon" src="/Images/twitter2.png"></a>
+                                <a id="header-twitter" href="https://twitter.com/textadv" target="_blank"><img class="header-icon" src="/Images/twitter2.png"></a>
                                 <a class="btn btn-success btn-xs" href="/help">Help!</a>
 <a class="btn btn-info btn-xs" href="/account/register">Register</a><a class="btn btn-info btn-xs" href="/account/login?returnUrl=%2Fprivacy">Log in</a>                            </div>
                         </div>
 
                     </div>
                 </div>
-                
+                <!--<div class="row" style="padding: 5px 0;background-color: #ff0000; color: white;">
+                    <div class="col-md-12">
+                        <b><center>Message.</center></b>
+                    </div>
+                </div>-->
+
 
             </header>
             <div class="container">
@@ -146,7 +151,7 @@
                         <h4>Connect</h4>
                         <div class="footer-connect">
                             <a href="https://www.facebook.com/textadventures"><img src="/Images/facebook.png"> Follow us on Facebook</a><br>
-                            <a href="http://twitter.com/textadv"><img src="/Images/twitter.png"> Follow @TextAdv on Twitter</a><br>
+                            <a href="https://twitter.com/textadv"><img src="/Images/twitter.png"> Follow @TextAdv on Twitter</a><br>
                         </div>
                     </div>
 
@@ -182,6 +187,44 @@
                     </p>
                 </footer>
             </div>
+                    <script type="text/javascript">
+
+                var your_site_key = '6LcwXSYTAAAAALDvw6KCeES8Me8MJruasgMyXZS8';
+    var renderRecaptcha = function () {
+        grecaptcha.render('ReCaptchContainer', {
+            'sitekey': '6LcwXSYTAAAAALDvw6KCeES8Me8MJruasgMyXZS8',
+            'callback': reCaptchaCallback,
+            theme: 'light', //light or dark
+            type: 'image',// image or audio
+            size: 'normal'//normal or compact
+        });
+    };
+
+    var reCaptchaCallback = function (response) {
+        if (response !== '') {
+            jQuery('#lblMessage').css('color', 'green').html('Success');
+        }
+    };
+
+    jQuery('button.validacion').click(function (e) {
+        var message = 'Please checck the checkbox';
+        if (typeof (grecaptcha) != 'undefined') {
+            var response = grecaptcha.getResponse();
+            if (response.length === 0) {
+                message = 'Captcha verification failed';
+            }
+            else {
+                message = 'Success!';
+                jQuery('button.validacion').parent().submit();
+            }
+        }
+        else
+            alert("false");
+        jQuery('#lblMessage').html(message);
+        jQuery('#lblMessage').css('color', (message.toLowerCase() == 'success!') ? "green" : "red");
+    });
+
+                    </script>
         <!-- Modal -->
         <div class="modal fade" id="errorModal" tabindex="-1" role="dialog" aria-labelledby="errorModalLabel" aria-hidden="true">
             <div class="modal-dialog" role="document">
