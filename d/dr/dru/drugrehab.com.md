@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugrehab.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308234408id_/https%3A//www.drugrehab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugrehab.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229032643id_/https%3A//www.drugrehab.com/privacy-policy) for the most accurate reproduction.*
 
 # Drugrehab.com's Privacy Policy | Collecting & Using Information
 
@@ -88,7 +88,7 @@ IP Address:
 Aggregated and De-identified Data:
     Aggregated and De-identified Data is data that we may create or compile from various sources, including, but not limited to, accounts and transactions. This information, which does not identify individual account holders, may be used for our business purposes, which may include offering products or services, research, marketing or analyzing market trends, and other purposes consistent with applicable laws.
 Third-Party Web Beacons:
-    We may use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our Site. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo, [click here](https://aim.yahoo.com/aim/us/en/optout/index.htm).
+    We may use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our Site. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo, click here.
 
 ## Advertising
 
