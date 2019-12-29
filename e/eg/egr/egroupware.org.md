@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egroupware.org privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522213030id_/https%3A//www.egroupware.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egroupware.org privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229092436id_/https%3A//www.egroupware.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EGroupware
 
