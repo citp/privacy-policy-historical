@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628231031id_/https%3A//www.bleepingcomputer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229043356id_/https%3A//www.bleepingcomputer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -172,8 +172,6 @@ Don't do anything wrong and we won't have to worry about the above :)
 There is no data that we keep for those who have not registered an account on the site.
 
 If you have registered as a member then you have access to all of your posted data by viewing your profile, [examining your preferences](https://www.bleepingcomputer.com/forums/index.php?app=core&module=usercp), [seeing the content you follow](https://www.bleepingcomputer.com/forums/index.php?app=core&module=search&do=followed), [viewing your posts and topics](https://www.bleepingcomputer.com/forums/index.php?app=core&module=search&do=user_activity), [viewing your personal messages](https://www.bleepingcomputer.com/forums/index.php?app=members&module=messaging), and [viewing your subscribed news articles](https://www.bleepingcomputer.com/subscribed-articles/). 
-
-In the near future, we will provide a tool that you can use to download all of your data in one archive.
 
 It should be noted that as a member, you agreed to allow BleepingComputer to indefinitely display any posts or topics you created in the forums. With that said, we do not want you to be concerned about any personally identifiable information and if you find any, you can always [contact us](https://www.bleepingcomputer.com/contact/) and request that we remove the personal information. 
 
