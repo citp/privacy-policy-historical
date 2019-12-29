@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the higgypop.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329021453id_/https%3A//www.higgypop.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higgypop.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229012211id_/https%3A//www.higgypop.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Higgypop
 
@@ -14,7 +14,7 @@ Personal Data means any information that can identify you as an individual. We n
 
 This includes but is not limited to, your first name, surname, date of birth, email address, and postal address. Some of these pieces of information are optional. We will not normally collect any sensitive personal information from you. If we do, we will request your explicit prior consent to do so.
 
-We collect your details when you create an account, subscribe to our email newsletter, place an order, submit comments via contact forms, play games, chat live, send an email to an email address associated with this website, or enter a competition or promotion.
+We collect your details when you create an account, subscribe to our email newsletter, place an order, submit comments via contact forms, play games, vote or nominate in our awards, vote in polls, chat live, send an email to an email address associated with this website, or enter a competition or promotion.
 
 Some of our website features allow you to invite a contact, such as a friend or family member to use the service. In order to provide this service, we will collect both your personal details and your contact's. We will use your name when we contact the person you have recommended, their personal data will only be used once and will not be saved or stored in any way.
 
