@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendhunter.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184748id_/https%3A//www.trendhunter.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendhunter.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229194151id_/https%3A//www.trendhunter.com/terms) for the most accurate reproduction.*
 
 # Terms of Use - TREND HUNTER Inc.
 
@@ -336,6 +336,7 @@ To send you information regarding changes to our policies, other terms and condi
 | For all these categories, it is in our legitimate interests to continually monitor and improve our services and your experience of the Site and to ensure network security. We consider this use to be necessary for our legitimate interests and will not be prejudicial or detrimental to you.  
 To measure or understand the effectiveness of any marketing we provide to you and others.  | It is in our legitimate interests to continually improve our offering and to develop our business. We consider this use to be necessary in order to effectively generate business and will not be prejudicial or detrimental to you.  
   
+  
 
 
 * * *
@@ -445,7 +446,7 @@ By continuing to browse the Site, you are agreeing to our use of cookies.
 
 If you don't want us to use cookies when you use the Site, you can set your internet browser not to accept cookies. However, if you block cookies some of the features on the Site may not function as a result. 
 
-You can find more information about how to do manage cookies for all the commonly used internet browsers by visiting [www.allaboutcookies.org](https://web.archive.org/web/20190624184748id_/https%3A//www.trendhunter.com/www.allaboutcookies.org). This website will also explain how you can delete cookies which are already stored on your device.
+You can find more information about how to do manage cookies for all the commonly used internet browsers by visiting [www.allaboutcookies.org](https://web.archive.org/web/20191229194151id_/https%3A//www.trendhunter.com/www.allaboutcookies.org). This website will also explain how you can delete cookies which are already stored on your device.
 
 We currently use the following third party cookies: 
 
@@ -488,3 +489,7 @@ Trend Hunter will share and release organization assessments to organizations to
 You may choose to share your summary assessment or full assessment via social media or distributing the assessment PDF or link. 
 
 Trend Hunter will aggregate and group results for various purposes, including without limitation, research, analysis, benchmarking, publicity and public presentations. 
+
+### Categories
+
+* * *
