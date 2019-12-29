@@ -1,98 +1,159 @@
-> *The following text is extracted and transformed from the lpdedicated.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813175945id_/https%3A//lunarpages.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpdedicated.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229150624id_/https%3A//www.hostpapa.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Lunarpages
+# Privacy Policy - HostPapa Web Hosting
 
-Lunarpages takes your privacy very seriously. This Privacy Policy sets forth our commitment to you regarding your privacy and security on the Lunarpages website (the “Site”). This Privacy Policy will detail the categories of information we collect from Lunarpages users, how we use such information, and how you can access the information that we have and make changes or remove it. This Privacy Policy is issued based upon our commitment to you and in conformity with California Business and Professions Code section 22575. For EU residents, special considerations may apply as set forth below.
+* * *
 
-**Categories of Information Collected**
+LAST UPDATED: May 25, 2018
 
-Lunarpages collects both personally identifiable information (which is information specific and personal to you) and non-personally identifiable information (which is aggregate information that does not identify you).
+HostPapa prides itself on protecting your privacy and supporting a safe online experience. This Privacy Policy outlines the information we collect and how we use it. Translations are provided for convenience for non-English customers; however, the English version located at [www.hostpapa.com/terms](https://web.archive.org/terms/) will take priority in the event of any discrepancies. HostPapa is governed by the Personal Information Protection and Electronic Documents Act, the EU General Data Protection Regulation (GDPR), and any other relevant data protection regulations that may apply in the regions we operate in. By using the HostPapa website, you consent to the data practices described in this Privacy Policy.
 
-**Collection and Use of Information**
+### What this Privacy Policy covers
 
-**General**
+This policy covers the information HostPapa collects and how we use it. It also outlines the steps HostPapa takes to protect that information, how to contact us, and how we comply with relevant data protection regulations such as the GDPR.
 
-Lunarpages collects information from and about you as user of the Site. We collect this information (a) when you register as a customer; (b) when you request services offered by Lunarpages; (c) when you communicate with us about your account; and (d) when you access the Site. The information that we collect includes your name, address, telephone number, email address, billing information, URL information, IP Address, browser type, and other data relating to the sale, use and billing of our services. In addition to the uses described throughout this Privacy Policy, the information we collect relating to you will be used: (1) for the registration and management of your member account, including to provide the services that you have requested (2) for purposes of security, maintaining the Site and ensuring the best possible user experience, (3) to collect any outstanding balance on your account, (4) to enforce our rights and/or ensure your compliance with our Terms of Service, (5) to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our site, (6) to communicate with you on behalf of ourselves and our marketing partners, and (7) to share your personally identifiable information with our approved marketing partners for marketing purposes related to offers that we believe you may be interested in. We require all marketing partners to comply with the Federal CAN-SPAM Act, GDPR and all other applicable laws. We require that each such marketing partner provide a conspicuous opt-out link for your use to remove your information from their email list. Furthermore, if you wish us not to share your email address or other personally identifiable information you may contact us by email at [support@lunarpages.com](mailto:support@lunarpages.com).
+Under the GDPR, HostPapa is a data controller for the information we collect from you. In certain cases, we are also a data processor for data collected by our clients; for more information on client-collected data, please see “Information collected by our customers” below.
 
-**Surveys or Contests**
+### What information we collect
 
-On occasion we provide hosting customers with the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
+We collect information from you in order to deliver services that you purchase and to monitor and improve the customer experience on our website. The data collected may include your name, email address, postal address, telephone number(s), and billing information such as credit card numbers. It may also include marketing preferences, survey and contest responses, and information you provide through online chats, telephone calls, and support tickets with us.
 
-If the contest or survey requires, permits or is otherwise related to the submission by you to us of any story, artwork, photograph or other such material this information and material may be used to select a winner and tabulate survey results. In addition, we may use any such submission pursuant to the relevant portion of our Terms of Service to display to other hosting customers or non-hosting customers whether or not in conjunction with information from our advertisers or partners.
+HostPapa services are intended for business use, and HostPapa does not knowingly market to or collect personal information from people under the age of 18.
 
-**Cookies**
+### How we collect information
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on the Lunarpages website. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. By your use of the Lunarpages website you consent to allow us to place cookies on your computer and to access them as you navigate our website.
+HostPapa collects personally identifiable information in a variety of ways, including but not limited to: online order forms, online chats, telephone calls, market research surveys, and customer support tickets.
 
-We use session ID cookies which expire when you close your browser. These cookies make it easier for you to navigate our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
+Certain information about your computer hardware and software may also be automatically collected through tools such as Google Analytics. This information can include your IP address, browser type, domain names, access times, and referring website addresses.
 
-**Links to Other Sites**
+HostPapa may also collect information from third parties as required in order to provide you with products and services.
 
-The Site contains links to other sites that are not owned or controlled by Lunarpages. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware of when you leave our site and to read the privacy statements of each and every website that you visit and how it collects and uses your personally identifiable information.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through HostPapa’s blog or social media pages, this information may be collected and used by others.
 
-**Lunarpages – Under 13 Privacy Statement  
-Information Collection & Use**
+### How we use your information
 
-Lunarpages does not specifically target the Site to children under 13 years of age. Nonetheless, all of the Site content is intended to be generally appropriate for children with the proper parental guidance and as such we encourage parents to explore this website together with their children and to discuss the information obtained.
+#### Provision of Services
 
-**Your Websites**
+HostPapa collects and uses your personal information to operate the HostPapa website, to deliver the services you have requested, and to inform you of other products or services available from HostPapa and its affiliates. This includes sharing your information with trusted third parties, as explained below.
 
-Information that you post on the Internet or in public forums can be read, collected, or used by other users of the Internet, and could be used to identify you, contact you, send you unsolicited messages or for any other possible purpose. We have no control over the use of such information. We are not responsible for any personally identifiable information you post and we caution you to consider all such information to be publicly available. If you believe that you have been contacted in a manner that is in violation of our Terms of Service please notify us and include all information you may have as to the nature of any communication that you received and the identity of the person initiating such communication. Please send all notices under this paragraph to [abuse@lunarpages.com](mailto:abuse@lunarpages.com).
+If you elect use a service that provides you the ability to import your personal contacts or related information (i.e. OnePlan Connect), HostPapa will not use this information for commercial purposes except to provide that service.
 
-According to our Terms of Service, misuse of such information by anyone, including you, can result in the termination of a user account.
+#### Third-Party Services
 
-**Security**
+HostPapa offers certain products and services in conjunction with or through trusted partners, sponsors, and affiliates (“Third-Party Services”). These services may be available for an additional fee, or they may be included for free or as a portion of a larger bundle of services. In order to properly set up these services (and, where needed, integrate them with any services you may have), we may need to share certain information you have provided to us with these Third-Party Services. For payments or other monetary transactions, HostPapa must share your personal information (specifically your billing information) with our payment processor. In all cases, we share only information that is required to set up and operate these services. Third-Parties are not permitted to use, keep, or share your data except for the specific services they have been contracted to provide.
 
-The security of your personal information is important to us. Information that you submit in relation to a financial transaction is encrypted using secure socket layer technology (SSL). Information in our possession is maintained according to generally accepted industry standards. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+#### Business Continuity
 
-If you have any questions about security on our Website, you may contact us at [support@lunarpages.com](mailto:support@lunarpages.com).
+Should HostPapa become part of a merger, acquisition, corporate reorganization, or any other change of control, your personal information will be included in HostPapa’s sale of business assets. This means that it could be shared with HostPapa’s new owners, or with a new business that HostPapa acquires. If this happens, HostPapa will make reasonable efforts to notify you and inform you of any choices you may have about the information you shared with us.
 
-**Business Transitions**
+#### Web Analytics
 
-In the event Lunarpages goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified of any such change in ownership or control of your personal information via email at the address you have provided during registration.
+HostPapa keeps track of the websites and pages our customers visit within HostPapa in order to determine which HostPapa services are the most popular. This data is used to deliver customized content and advertising within HostPapa to customers whose behaviour indicates they are interested in a particular subject area. Data may also be used to determine the effectiveness of promotional campaigns and advertising.
 
-**Third Party Data Collection**
+#### Communications
 
-Use of the Lunarpages website does not expose users to the collection of data by third parties directly. Lunarpages does not currently participate in any program to allow the sharing of data as to our user’s behavior within the Lunarpages systems.
+HostPapa may contact you regarding services you have purchased from us to deliver information, updates, notices of functionality changes, upcoming payments, and planned service maintenance.
 
-**How to Access or Modify Your Information**
+We may also contact you with newsletters, announcements, and special offers we think you may find valuable. You can withdraw your consent to receive these communications at any time.
 
-The Lunarpages Terms of Service requires that all customers keep their account information current at all times. However, the above collection practices may cause our systems to collect and maintain other information as described above pertaining to you in addition to your account information. As to any such additional information for Members or any information collected from individuals not yet a customer of Lunarpages, we provide the opportunity for you to determine, update and in some instances remove the data that we have collected. In order to determine whether we have any information connected to you, or to update your information, you may send an email to [support@lunarpages.com](mailto:support@lunarpages.com) with your user name and your email address. Please do not provide your password.
+HostPapa may display targeted advertising to you. For more information, please see “How we use cookies” below.
 
-**Revisions to This Policy**
+#### Legal Disclosure
 
-If we decide to change this Privacy Policy, we will post those changes here, place a notice on our homepage, and place a notice in other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+HostPapa, its affiliates, trusted partners, and sponsors may be required to disclose or process any personal information we collect in order comply with legal, regulatory, and law-enforcement requests (like court orders or for taxes), especially to protect HostPapa, our customers, or the public.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you either here, by email, or by means of a notice on our home page, at our option.
+#### Domain Registration
 
-**European Union Residents – GDPR** :
+In order to register domain names, personal information collected during your purchase must be provided to the registrar responsible for processing your request, as per the registrar’s rules and the rules set out by the Internet Corporation for Assigned Names and Numbers (ICANN) and/or the relevant domain name registry. 
 
-The following additional provisions apply to Personally Identifiable Information  collected by Lunarapages  from European Union residents located therein at the time the data is collected (“PII” or “data”). For EU data subjects, in the event of any conflict between these provisions and those set forth above, these provisions shall control. The General Data Protection Regulation (EU) 2016/679 (“GDPR”) governs the processing and protection of your PII and affords you the following rights you can enforce by contacting Lunarpages through support@lunarpages.com:
+This information goes into a searchable database (WHOIS). Access to WHOIS information may be limited but you can help protect yourself by opting out of displaying your personal information through the purchase of a Domain Privacy service (some domains are not eligible for this service).
 
-  * You may access, update, or delete your PII via your Control Panel or by contacting us at [support@lunarpages.com](mailto:support@lunarpages.com). Thereafter, our retention of such information will depend upon the data necessary for any services purchased or otherwise required for our legitimate business purpose, legal or contractual record keeping requirements. You may request that we cease the use of your PII for marketing purposes also by contacting us at [support@lunarpages.com](mailto:support@lunarpages.com). Notwithstanding the forgoing, exceptions may apply for data maintained: 
-    * Pursuant to any legal or contractual obligation;
-    * In relation to resolving, defending or enforcing our rights;
-    * For accurate business and financial reporting.
-  * You may transfer your PII to another entity by contacting us at [support@lunarpages.com](mailto:support@lunarpages.com).
-  * You may request that we cease processing your PII for marketing purposes by contacting us at [support@lunarpages.com](mailto:support@lunarpages.com).
-  * Any questions concerning our GDPR policies may be directed to:
+### Our legal basis for processing your information
+
+Contract: Your personal information is necessary for providing the services you requested. This includes payment and setting up the services, and also the assistance and support we provide to make sure your services are working properly.
+
+Consent: From time to time HostPapa may send you announcements and special offers. You can withdraw your consent for these communications at any time by clicking the unsubscribe link on any email you no longer wish to receive, or by contacting our Data Protection Officer by emailing us at [dpo@hostpapa.com](mailto:dpo@hostpapa.com).
+
+Legal Obligation: HostPapa may be required to process any personal information we collect in order comply with legal, regulatory, and law-enforcement requests.
+
+### Where we store your information
+
+The data we collect is stored primarily in Canada and is regulated by the Personal Information Protection and Electronic Documents Act (PIPEDA). Canada has been recognized by the EU as providing adequate data protection (as per article 45 of Regulation (EU) 2016/679), which allows personal information of EU residents to be freely transferred to Canada.
+
+As HostPapa works with a number of US-based partners, we also transfer (in accordance with Article 45 of the GDPR) personal information to companies that have certified their compliance with the EU-U.S. or Swiss-U.S. Privacy Shield Frameworks.
+
+### How we protect your information
+
+HostPapa secures the information we collect on servers in a controlled, secure environment. We maintain safeguards to protect against unauthorized access, use, modification, and disclosure of this data.
+
+Where possible, HostPapa uses industry-standard SSL encryption when communicating your data. HostPapa also ensures that all customer websites have free access to SSL certificates from“Let’s Encrypt.”
+
+However, no data transmission over the Internet or wireless network can be guaranteed 100% secure. While we strive to protect your personal information, there are security and privacy limitations of the Internet which are beyond our control. Information and data may be viewed or tampered with in transit by a third party, despite best efforts.
+
+### How we retain your information
+
+HostPapa will retain your personal information for as long as your HostPapa services are active.Once your last service has been cancelled, HostPapa will:
+
+  * Retain certain information stored directly on the hosting server for 40 days. Data stored by third-party services may be retained for shorter or longer periods depending on the service; please contact us for details on specific services.
+  * Retain certain information stored in other systems for up to 7 years for potential auditing purposes and to enable us to maintain accurate business, tax, and financial records.
 
 
 
-GDPR Compliance  
-1908 N. Enterprise St.  
-Anaheim, CA 92865  
-legal@lunarpages.com
+HostPapa may retain personal information longer in order to comply with specific legal requests or obligations. When personal information is no longer required, we will ensure it is deleted.
 
-**Questions About the Lunarpages Privacy Policy**
+### How we transfer your information
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us at:
+If you visit HostPapa or its websites from a country other than the country in which our servers are located, your communications with HostPapa may result in the transfer of information across international borders. This may also happen if you telephone us or start an online chat. In all cases, your information will be handled under the terms of this Privacy Policy.
 
-Add2Net, Inc.  
-Lunarpages Division  
-1908 N. Enterprise St.  
-Anaheim, CA 92865
+### How to change your information
 
-Or via email at [support@lunarpages.com](mailto:support@lunarpages.com)
+You may request access to review, update, and correct any inaccuracies in your personal information by contacting our Data Protection Officer by emailing us at [dpo@hostpapa.com](mailto:dpo@hostpapa.com). We may ask you to provide personal information in the form of answers to security questions in order to verify your request.
 
-Version 6.0 – 20180524
+You can also access and update much of your personal information through the HostPapa Dashboard in the My Profile section. Please ensure you always keep your contact and billing information current with us.
+
+You also have the right to request that we delete your personal data. We will honor the request to the extent possible under our legal and contractual obligations. Please keep in mind that deleting your data may stop your HostPapa services from working properly or at all.
+
+### How we use cookies
+
+HostPapa uses “cookies” to help personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize HostPapa pages, or register with a HostPapa site or service, a cookie helps HostPapa recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same HostPapa website, the information you previously provided can be retrieved, so you can easily use the HostPapa features that you customized.
+
+Some cookies are necessary for HostPapa sites to work properly, such as the cookies which indicate you’ve successfully logged into your account. Some cookies, like the ones used by Google Analytics, help us see how visitors use our sites. Others are used to customize your advertising experience. If you visit a HostPapa website with a browser that has cookies enabled, you are letting us know that you agree to us using cookies with your browser.
+
+You can modify your browser settings to delete or block cookies. You will need to see the “Help” section of your browser for instructions on how to do this. You could also install plugins that block or manage cookies. If you do decide to limit your browser’s ability to use cookies, please remember that HostPapa sites may not function properly.
+
+### Information collected by our customers
+
+HostPapa customers may collect data from people who visit their sites, regardless of whether a purchase is made. HostPapa customers are responsible for ensuring they are complying with all legal and privacy regulations, including but not limited to the European GDPR.
+
+HostPapa does not have a direct relationship with our customers’ visitors or users.
+
+If you would like to make any requests regarding personal information that has been collected by a HostPapa customer, please contact them directly. This applies to any kind of request, whether to access, correct, amend, or delete information. If the customer asks HostPapa to remove any personal information we will respond within thirty (30) days.
+
+### Links to Third-Party Sites
+
+You may be able to access other websites that have links on HostPapa websites, where you can purchase products and services or register to receive materials or new product updates. In many of these cases, you will be asked to provide personal information such as your name, email address, or other contact information, or credit/billing information. If you complete an order or provide personal information to a website or service that is not provided by HostPapa, HostPapa has no control over the third party’s use of any personal information. HostPapa therefore has no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use, disclose, secure, or otherwise deal with your personal information. HostPapa provides these links to other websites as a convenience to you. Please exercise care when visiting linked websites, which will have separate and independent privacy policies.
+
+### Social Sign-in
+
+We provide you with the ability to log in to your account using social media services such as Facebook, Google+, or Twitter. If you choose to use this feature, the service you select will prompt you for your consent to share some personal information. We will store that information in order to give you access to your account.
+
+If you no longer want to use social sign-in, you can disable it in the My Profile section of the HostPapa Dashboard.
+
+### Future changes to our Privacy Policy
+
+HostPapa reserves the right to modify this Privacy Policy at any time. Please check back regularly to make sure you are aware of any changes and to stay informed of how we are protecting your information.
+
+### How to contact us
+
+We welcome your comments regarding this Privacy Policy. If you believe we have not adhered to this Privacy Policy or you require any changes or access to your personal information, please contact our Data Protection Officer by emailing us at [dpo@hostpapa.com](mailto:dpo@hostpapa.com).
+
+Alternatively, you can contact us in writing at:
+
+HostPapa  
+115 George St., Suite 511  
+Oakville, Ontario  
+L6J 0A2
+
+We will use commercially reasonable efforts to promptly determine and remedy the problem.
