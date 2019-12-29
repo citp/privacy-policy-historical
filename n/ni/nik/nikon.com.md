@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikon.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416063700id_/https%3A//www.nikon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikon.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229151617id_/https%3A//www.nikon.com/privacy) for the most accurate reproduction.*
 
 # Nikon | Privacy Management
 
@@ -60,6 +60,13 @@ If you do not know the section to which you should send an inquiry, please visit
 ## 6\. Improvement
 
 The Company will comply with privacy protection-related Japanese laws and regulations, and will review and improve the contents of this document to strive constantly towards better privacy protection.
+
+## 7\. Other
+
+If you are a California resident, you may have additional rights regarding your personal information collected by the Company. Please read the California-Specific Addendum
+
+  * [NIKON PRIVACY MANAGEMENT CALIFORNIA-SPECIFIC ADDENDUM](https://web.archive.org/web/20191229151617id_/http://www.nikon.com/privacy/ccpa.htm)
+
 
   * *Personal information refers to information with which a particular individual can be identified, including any information that can be matched with other information to identify a particular individual.
 
