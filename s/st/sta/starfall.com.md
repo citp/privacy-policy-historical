@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the starfall.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224242id_/https%3A//teach.starfall.com/lv/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfall.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229042257id_/https%3A//teach.starfall.com/lv/info/privacy) for the most accurate reproduction.*
 
-# Starfall Education - Parent-Teacher Center
+# Starfall Education Privacy Policy
 
-Starfall Education Foundation strives to create a safe and playful environment for all children. Throughout our services — the many Starfall Apps for mobile devices, the Starfall website for children ([www.starfall.com](http://www.starfall.com/)), the Starfall Parent-Teacher Center™ ([teach.starfall.com](https://teach.starfall.com/)), and the Starfall Store™ ([store.starfall.com](https://store.starfall.com/)) — we adhere to a strict policy of respecting and protecting the privacy of our users.
+Starfall Education Foundation strives to create a safe and playful environment for all children. Throughout our services — the many Starfall Apps for mobile devices, the Starfall website for children ([www.starfall.com](https://www.starfall.com/)), the Starfall Parent-Teacher Center™ ([teach.starfall.com](https://teach.starfall.com/)), and the Starfall Store™ ([store.starfall.com](https://store.starfall.com/)) — we adhere to a strict policy of respecting and protecting the privacy of our users.
 
-**Starfall does not collect personal information from children.** We do not require children to provide personal information to use and access our services. The Starfall websites and apps directed toward children are COPPA compliant.
+**Starfall does not collect personal information from children, or track children's progress.** We do not require children to provide personal information to use and access our services. The Starfall websites and apps directed toward children are compliant with COPPA and FERPA.
 
   
 www.kidsafeseal.com 
