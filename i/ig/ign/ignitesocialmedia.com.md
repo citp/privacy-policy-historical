@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ignitesocialmedia.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019220345id_/http%3A//www.ignitesocialmedia.com/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ignitesocialmedia.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229030503id_/https%3A//www.ignitesocialmedia.com/contact/privacy) for the most accurate reproduction.*
 
-# Ignite Social Media - The original social media agency | Privacy Policy
+# Ignite Social Media Agency – The original social media agency | Privacy Policy
 
 #### Last updated: March 15, 2017
 
