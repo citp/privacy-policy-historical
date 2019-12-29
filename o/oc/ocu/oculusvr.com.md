@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oculusvr.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629203254id_/https%3A//www.oculus.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oculusvr.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229172636id_/https%3A//www.oculus.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Oculus
 
 ## Oculus Privacy Policy
 
- _Last Updated: September 4, 2018_
+ _Last Updated: December 11, 2019_
 
 Oculus is brought to you by Facebook Technologies, LLC (formerly known as Oculus VR, LLC) ("Oculus," "we," "us") and is one of the [ Facebook Companies (https://www.facebook.com/help/111814505650678)](https://www.facebook.com/help/111814505650678). We make virtual, mixed, and augmented reality (collectively, "XR") products and operate a platform where users can download, interact with, and submit content and obtain services related to our products. Collectively, we describe our products and services—including our websites, mobile apps, platform, content, hardware and the services described further in our [ Terms of Service (https://www.oculus.com/legal/terms-of-service)](https://www.oculus.com/legal/terms-of-service)—as our "Services." This Privacy Policy explains how we treat information from or about our users, including how we collect, use, and share information in connection with our Services.
 
@@ -101,7 +101,9 @@ We also share de-identified or aggregate data with others. De-identified data me
 
  **4\. How the Facebook Companies work together**
 
-Oculus shares infrastructure, systems technology with other [ Facebook Companies (https://www.facebook.com/help/111814505650678)](https://www.facebook.com/help/111814505650678/) (which include Facebook, Instagram, and WhatsApp) to provide an innovative, relevant, consistent and safe experience across all Facebook Company Products you use. We also process information about you across the Facebook Companies for these purposes, as permitted by applicable law and in accordance with their terms and policies. For example, we use information about bad actors on Oculus to fight spam or abuse on other [Facebook Company Products (https://www.facebook.com/help/195227921252400)](https://www.facebook.com/help/195227921252400) like Instagram. And if you link your Oculus and Facebook accounts, we use information about you on Facebook to help recommend content that you’ll find interesting and engaging on Oculus. We also work to understand how people use and interact with Facebook Company Products, like understanding the number of unique users on different Facebook Company Products.
+Oculus shares infrastructure, systems technology with other [ Facebook Companies](https://www.facebook.com/help/111814505650678/) (which include Facebook, Instagram, and WhatsApp) to provide an innovative, relevant, consistent and safe experience across all Facebook Company Products you use. We also process information about you across the Facebook Companies for these purposes, as permitted by applicable law and in accordance with their terms and policies. For example, we use information about bad actors on Oculus to fight spam or abuse on other [Facebook Company Products](https://www.facebook.com/help/195227921252400) like Instagram. We also work to understand how people use and interact with Facebook Company Products, like understanding the number of unique users on different Facebook Company Products.
+
+Facebook also powers social features on Oculus. If you choose to log into Facebook on Oculus, Facebook will use your Oculus account information and information about your use of Oculus products to provide, personalize and improve Facebook Company Products, including to personalize the ads you see on and off Facebook Company Products. You can control what data Facebook uses to show you ads on and off of Facebook Company Products in your Facebook Settings.
 
  **5\. Third Parties that Provide Content, Marketing, or Functionality on Our Services**
 
