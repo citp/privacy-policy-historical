@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chaturbate.eu privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826230725id_/http%3A//chaturbate.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaturbate.eu privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229134927id_/https%3A//chaturbate.eu/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Chaturbate - Free Adult Webcams, Live Sex, Free Sex Chat
+# Privacy Policy - Chaturbate - free adult webcams, live sex, free sex chat
 
 This Privacy & Cookies Policy (the "Policy") dated May 22, 2018 replaces all previous policies. Please take the time to review before you continue to use our products and services.
 
@@ -110,7 +110,7 @@ Some of our web pages will contain promotional links to other companies' sites. 
 ## Contacting us and accessing your personal information
 
 If you have any queries or comments about this Privacy & Cookies Policy please contact us at:  
-[support@chaturbate.com](https://web.archive.org/cdn-cgi/l/email-protection#cbede8fafafef0ede8fafafcf0ede8fafaf9f0ede8fafaf9f0ede8fafafaf0ede8fafafff0ede8fafafdf0ede8fbfdfff0ede8fbf2f2f0ede8fafbfff0ede8fbf2fcf0ede8fafafdf0ede8fafafcf0ede8fafafff0ede8fbf2f3f0ede8fbf2fcf0ede8fafafdf0ede8fafbfaf0ede8fbfffdf0ede8fbf2f2f0ede8fafafaf0ede8fafbf2f0)
+[support@chaturbate.com](mailto:support@chaturbate.com)
 
 If you wish to review or receive a copy of the personal information we hold about you, we offer a self-serve tool [here](https://web.archive.org/security/privacy/data_export/), else please write to us at:
 
@@ -119,7 +119,7 @@ If you wish to review or receive a copy of the personal information we hold abou
 >  Unit 4 Studios  
 >  100 Bradford Road  
 >  Dewsbury, United Kingdom, WF13 2EF  
->  [privacyquestions@chaturbate.com](https://web.archive.org/cdn-cgi/l/email-protection#d7f1f4e6e6e5ecf1f4e6e6e3ecf1f4e6e7e2ecf1f4e6e6efecf1f4e7eee0ecf1f4e7eeeeecf1f4e6e5e6ecf1f4e6e6e4ecf1f4e6e6e0ecf1f4e6e7e6ecf1f4e6e6e2ecf1f4e6e6e1ecf1f4e6e7e2ecf1f4e6e6e6ecf1f4e6e6e7ecf1f4e6e6e2ecf1f4e7e1e3ecf1f4e7eeeeecf1f4e6e7e3ecf1f4e7eee0ecf1f4e6e6e1ecf1f4e6e6e0ecf1f4e6e6e3ecf1f4e7eeefecf1f4e7eee0ecf1f4e6e6e1ecf1f4e6e7e6ecf1f4e7e3e1ecf1f4e7eeeeecf1f4e6e6e6ecf1f4e6e7eeec)
+>  [privacyquestions@chaturbate.com](mailto:privacyquestions@chaturbate.com)
 
 We reserve the right to charge an administration fee in relation to fulfilling a request for access to personal information which fee shall not exceed the maximum fee allowed by law.
 
