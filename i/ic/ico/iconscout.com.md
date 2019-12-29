@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the iconscout.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024074543id_/https%3A//iconscout.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconscout.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229161223id_/https%3A//iconscout.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Iconscout Support
+# Privacy Policy
+
+UPDATED AUGUST 11, 2018 
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in India privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -45,7 +47,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 If you disable cookies off, some features will be disabled It won't affect the user's experience that makes your site experience more efficient and some of our services will not function properly. However, you can still surf the website.
 
-## **Third party Disclosure**
+##  **Third party Disclosure**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
