@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialadr.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184722id_/https%3A//socialadr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialadr.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229182417id_/https%3A//socialadr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SocialAdr - Social Media Marketing Services
 
