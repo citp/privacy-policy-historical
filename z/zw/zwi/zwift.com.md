@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zwift.com privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220195306id_/https%3A//zwift.com/en/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zwift.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229115648id_/https%3A//zwift.com/p/privacy) for the most accurate reproduction.*
 
 # Zwift
 
