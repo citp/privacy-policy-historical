@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyonce.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221233638id_/https%3A//beyonce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyonce.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229175427id_/https%3A//www.beyonce.com/privacy-policy) for the most accurate reproduction.*
 
 # Beyoncé
 
