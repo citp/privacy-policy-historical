@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games.lol privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512152832id_/https%3A//games.lol/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games.lol privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229180625id_/https%3A//games.lol/privacy-policy) for the most accurate reproduction.*
 
 # Games.lol | Updated Website & GDPR Compliant Privacy Policy
 
