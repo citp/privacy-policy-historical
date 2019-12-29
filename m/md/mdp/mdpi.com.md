@@ -1,23 +1,30 @@
-> *The following text is extracted and transformed from the mdpi.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604194252id_/https%3A//www.mdpi.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdpi.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229135634id_/https%3A//www.mdpi.com/about/privacy) for the most accurate reproduction.*
 
 # MDPI | Privacy Policy
 
-[ ](https://web.archive.org/)
+You can use * to search for partial matches. 
 
-[ ](https://web.archive.org/)
+## Need Help?
 
-[](https://web.archive.org/)
+### Support
 
-## MDPI Contact
+Find support for a specific problem on the support section of our website. 
 
-MDPI  
-St. Alban-Anlage 66,   
-4052 Basel, Switzerland  
-Support contact [__](mailto:support)  
-Tel. +41 61 683 77 34  
-Fax: +41 61 302 89 18
+[ Get Support ](https://web.archive.org/about/contactform)
 
-For more contact information, see [here](https://web.archive.org/about/contact). 
+### Feedback
+
+Please let us know what you think of our products and services. 
+
+[ Give Feedback ](https://web.archive.org/feedback/send)
+
+### Information
+
+Our dedicated information section provides allows you to learn more about MDPI. 
+
+[ Get Information ](https://web.archive.org/authors)
+
+_clear_
 
 We respect your concerns regarding privacy on the Internet and value the relationship we have with you. This policy outlines our efforts to protect your privacy, what kind of your data we collect and what we will do with the collected data. MDPI is an open access publisher and provides platforms for open scientific exchange. This Privacy Policy affects all websites and services that MDPI provides, including, but not limited to, [Sciforum](https://sciforum.net/), [Preprints](https://www.preprints.org/), [Scilit](https://www.scilit.net/), [Encylcopedia](https://encyclopedia.pub/), [WSForum](http://wsforum.org/) and [MDPI’s Submission System, “SuSy”](https://susy.mdpi.com/). 
 
@@ -36,6 +43,8 @@ All data we collect from you on our websites is protected against unauthorized a
 While you use our websites, your visits to individual pages will be tracked and recorded in web server log files (“Log Data”). Log Data may be used by MDPI for statistical purposes, to recognize patterns of usage of the websites, and to improve the structure and content presentation. The usage information we collect (using [HTTP Cookies](https://en.wikipedia.org/wiki/HTTP_cookie)) includes referring URLs, browser and device characteristics, IP address, operating system, as well as dates and times of website visits. 
 
 Via the website, MDPI may offer via its website third party services, such as article recommendations, social login, social sharing, and banners to third party sites. Information which is collected by MDPI when you access third party services is processed under this Privacy Policy, while information collected by third party operators themselves will be governed by their own privacy policies. 
+
+When visiting our website, your browser may produce pop-up advertisements. These advertisements are produced by other websites you have previously visited or by third party software installed on your computer. MDPI does not authorize, endorse, or recommend products or services contained in such pop-ups advertisements. 
 
 Our websites may use Google Analytics to help us collect information about how visitors use our sites. We use this information to compile reports and to help us improve the sites. The cookies collect information in an anonymous form, including the number of visitors to a site, where visitors have navigated to a site from and the pages they visit whilst on a site. 
 
