@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cedcommerce.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222162023id_/https%3A//cedcommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedcommerce.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229175727id_/https%3A//cedcommerce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Page - CedCommerce Inc
 
@@ -7,7 +7,7 @@
 CedCommerce an ecommerce wing of CedCoss Technologies Pvt Ltd , 3/460 Vishwas Khand Gomti Nagar Lucknow India respects the privacy of its clients and the website visitors. This Privacy Policy has been created to make you aware of what information we may collect from you and how you shared information is being used from all our site ( <https://cedcommerce.com/>), subdomains and any of the social media pages. You can also visit our [customer service page](https://cedcommerce.com/customer-service) and check all our terms and conditions.
 
   * <https://www.facebook.com/cedcommerce>
-  * <https://plus.google.com/+Cedcommerce-Marketplace>
+  * [https://www.youtube.com/channel/UCLRUCC_jvKf4tfZ2omjaW8Q](https://www.youtube.com/CedCommerce)
   * <https://twitter.com/cedcommerce>
   * <https://www.linkedin.com/company/cedcommerce>
 
