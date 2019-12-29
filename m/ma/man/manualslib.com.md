@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manualslib.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528061934id_/https%3A//www.manualslib.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manualslib.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230004137id_/https%3A//www.manualslib.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Manualslib.com
 
