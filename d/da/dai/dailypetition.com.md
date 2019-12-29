@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailypetition.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623071527id_/https%3A//www.dailypetition.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypetition.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229133621id_/https%3A//www.dailypetition.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ We may collect non-personal identification information about Users whenever they
 
 ## Cookies
 
-Please read our [Cookie Notice](https://web.archive.org/web/20190623071527id_/https%3A//www.dailypetition.com/cookie_notice.php).
+Please read our [Cookie Notice](https://web.archive.org/web/20191229133621id_/https%3A//www.dailypetition.com/cookie_notice.php).
 
 ## How we use collected information
 
@@ -67,12 +67,12 @@ Right | How we protect you
 The rights in the scope of consent (the right to withdraw consent at any time). | We ask you to give consent before giving us yur personal data. If you do not have an account, we do not store any data about you or it is anonymized. The data you fill out in our contact form is not stored or used for any other means than replying to you. The only time when we ask for any of your data and store it is when you create an account. Then, we only ask for the minimal data we need to identify you as a person: name and email address. If you create an account by Facebook, we will also store your oauth_uid and access_token. Also, we store your IP number in anonymized form (last three digits are set to "0"). We use the email address for transactional, non-marketing, communications only. You can always withdraw this consent by deleting your account and all the data we hold about you.  
 Time limit for complying with the rights of data subjects | We will try to answer to any complain in 14 days or less. Usually right away.  
 Right to basic information (purposes for with the data is beeing precessed) | We only process your data when you create an account.  
-Right of access to the information we have about you. | You can chek if we hold any information about you such as an account on the [Recover account](https://web.archive.org/web/20190623071527id_/https%3A//www.dailypetition.com/recover.php) page.   
+Right of access to the information we have about you. | You can chek if we hold any information about you such as an account on the [Recover account](https://web.archive.org/web/20191229133621id_/https%3A//www.dailypetition.com/recover.php) page.   
 Right of rectification entitled to require a controller to rectify any errors in their personal data. (right of correction) | When you log in to your account, you can modify either your name (under Edit Profile) or your email address (under Change Email). You can also edit any petitions you created from the "Edit petition" button in the petition's page.  
 Right to erasure (the "right to be forgotten") | You can always delete your all your data from your account. The button is marked in red and says "Delete My Profile". There, you can delete any petitions you created. Also, and any remove your signature form any petition you signed. This applies for both account holders and non-account holders.  
 Notifying third parties regarding rectification, erasure or restriction | We do not share your data with any third parties, but if we ever do, we will notify them if you want to delete your data.  
 Right of data portability | You can always download your all your data from your account. The button is marked in red and says "Download My Profile". It will be a .zip archive with a .json with all your database info (profile, petitions you created, signatures), photos from petitions you created in .jpg format and videos you posted in .mp4 format.  
-Right to object to processing or for the purposes of direct marketing | We do not send direct marketing emails. If you subscribed to web notifications and wish to unsubscribe you can do so in the [Settings Page](https://web.archive.org/web/20190623071527id_/https%3A//www.dailypetition.com/contact.php). You can always object to processing by terminating your account. To do this, delete your all your data from your account. The button is marked in red and says "Delete My Profile".   
+Right to object to processing or for the purposes of direct marketing | We do not send direct marketing emails. If you subscribed to web notifications and wish to unsubscribe you can do so in the [Settings Page](https://web.archive.org/web/20191229133621id_/https%3A//www.dailypetition.com/contact.php). You can always object to processing by terminating your account. To do this, delete your all your data from your account. The button is marked in red and says "Delete My Profile".   
 The right to lodge a complaint with a supervisory authority | You can lodge a complaint to your supervisign authority in your respective country.  
 Right to not be evaluated on the basis of automated processing  | We do not evaluate our users in such ways.  
 The period for which the personal data will be stored. | We will keep your account safe and protect your data integrity, availability, confidentiality and durability until such time that you decide to delete your account.  
@@ -111,7 +111,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ## Google Adsense
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 ## Facebook Ads
 
@@ -129,5 +129,5 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [DailyPetition.com](https://www.dailypetition.com/) | [DailyPetition.com Contact Information](https://www.dailypetition.com/contact.php)   
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#64070b0a100507102400050d081d1401100d100d0b0a4a070b09)  
+[contact@dailypetition.com](mailto:contact@dailypetition.com)  
 This document was last updated on March 20, 2018
