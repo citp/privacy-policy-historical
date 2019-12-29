@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the christianforums.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326104017id_/https%3A//www.christianforums.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianforums.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229092855id_/https%3A//www.christianforums.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Christian Forums
 
   * [__](https://twitter.com/christianforums "Twitter")
   * [__](https://www.facebook.com/christianforumscom/ "Facebook")
-  * [__](https://web.archive.org/web/20190326104017id_/https%3A//www.christianforums.com/help/forums/-/index.rss "RSS")
+  * [__](https://web.archive.org/web/20191229092855id_/https%3A//www.christianforums.com/help/forums/-/index.rss "RSS")
   * [__](https://www.christianforums.com/tickets/ "Contact Us")
 
 
@@ -62,7 +62,7 @@ We are committed to ensuring that any information you provide to us is secure. I
 
 Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
 
-We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20190326104017id_/https%3A//www.christianforums.com/help/help/cookies).
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20191229092855id_/https%3A//www.christianforums.com/help/help/cookies).
 
 ## Acceptance of this policy
 
