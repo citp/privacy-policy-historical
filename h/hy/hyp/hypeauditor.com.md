@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hypeauditor.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311152402id_/https%3A//hypeauditor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypeauditor.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229065608id_/https%3A//hypeauditor.com/privacy) for the most accurate reproduction.*
 
-# Privacy | 100% AI-powered Instagram Auditor
+# Privacy | HypeAuditor Youtube & Instagram AI analytics
 
 ## HypeAuditor Privacy Policy
 
@@ -8,7 +8,7 @@ USING THE WEBSITE HYPEAUDITOR.COM YOU ACKNOWLEDGE THAT YOU ARE AWARE OF THE COLL
 
 ALL DATA THAT YOU PROVIDE IS A PREREQUISITE FOR CONCLUDING AN TERMS OF SERVICE ON THE USE OF THE SITE.
 
-The Site and Services, as described in our Terms of Service, are provided to you by Stonecast Financial LLC, an Indiana Limited Liability Company with registered office at 9165 Otis ave., Suite 238, Indianapolis, IN 46216, USA (the “Data Controller” of your personal data). Consequently, “We”, “Us” and “Ours” refers to the Data Controller. Feel free to send any of your data protection queries to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#32414742425d4046725a4b42575347565b465d401c515d5f)
+The Site and Services, as described in our Terms of Service, are provided to you by Stonecast Financial LLC, an Indiana Limited Liability Company with registered office at 9165 Otis ave., Suite 238, Indianapolis, IN 46216, USA (the “Data Controller” of your personal data). Consequently, “We”, “Us” and “Ours” refers to the Data Controller. Feel free to send any of your data protection queries to us at [support@hypeauditor.com](mailto:support@hypeauditor.com)
 
 This Privacy Policy describes the way that We deal with certain personal data of customers of our Services (the “Customers”) and data of users of social networks (the “Influencers”).
 
@@ -22,7 +22,7 @@ Information you provide Us with: | Legal basis for processing | Reason for colle
 ---|---|---  
 1\. Full name | Performance of the contract with you. We will store just enough information to honour your opt-out preference. | You know our name, We require yours for the contractual relationship between the parties  
 2\. Email | 1) Performance of contract with you and | 1) We require your email to log you into the system and to provide you with the Service, reports, Service related updates, communications and other important information.   
-| 2) Our legitimate interests, if related to marketing. | 2) If We do use your email to contact you for marketing purposes, it will be in Our legitimate interests to do so, but you will always have a chance to opt out of such marketing communications for similar products and/or services prior to first (and any subsequent) communication. You may opt out at any time by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bfcccacfcfd0cdcbffd7c6cfdadecadbd6cbd0cd91dcd0d2)  
+| 2) Our legitimate interests, if related to marketing. | 2) If We do use your email to contact you for marketing purposes, it will be in Our legitimate interests to do so, but you will always have a chance to opt out of such marketing communications for similar products and/or services prior to first (and any subsequent) communication. You may opt out at any time by emailing [support@hypeauditor.com](mailto:support@hypeauditor.com)  
   
 The rest is the technical stuff that must be processed in order to provide you with our services.
 
@@ -31,7 +31,7 @@ Information collected/accessed automatically | Legal basis for processing
 1\. Internet Protocol (IP) address | Performance of the contract. You need this to connect to the Internet.  
 2\. We set and access various cookies* on your device | Contract performance for the “strictly necessary” cookies. Legitimate interest for the first-party analytics cookies. Your consent prior to the placement of all the other types of cookies.  
   
-* This is a piece of information that is automatically transmitted from your electronic device when you use your browser. More information about what kind of information your browser transmits can be found on the sites of the browser companies (for example, [Chrome](https://web.archive.org/web/20190311152402id_/https://hypeauditor.com/privacy/%20//www.google.com/chrome/browser/privacy/#cookies)). You can disable the transfer of cookies at any time in the browser settings.
+* This is a piece of information that is automatically transmitted from your electronic device when you use your browser. More information about what kind of information your browser transmits can be found on the sites of the browser companies (for example, [Chrome](https://web.archive.org/web/20191229065608id_/https://hypeauditor.com/privacy/%20//www.google.com/chrome/browser/privacy/#cookies)). You can disable the transfer of cookies at any time in the browser settings.
 
 #### 2.2. INFLUENCERS
 
@@ -110,10 +110,6 @@ We have, in addition, a regulation for the creation of passwords. This guarantee
 Passwords must meet the following requirements:
 
   * At least 8 characters long
-  * At least 1 letter in upper-case
-  * At least 1 letter in lower-case
-  * At least 1 number
-  * At least 1 non-alphanumeric character
 
 
 
@@ -167,7 +163,7 @@ In any case where a third party accesses your data on Our behalf or upon Our ins
 
 ### 7\. Your rights
 
-You are entitled to the full spectrum of the rights under the General Data Protection Regulation and We will go out of our way to accommodate any valid request. You can exercise your rights by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4e3d3b3e3e213c3a0e26373e2b2f3b2a273a213c602d2123)
+You are entitled to the full spectrum of the rights under the General Data Protection Regulation and We will go out of our way to accommodate any valid request. You can exercise your rights by emailing us at [support@hypeauditor.com](mailto:support@hypeauditor.com)
 
 You have a wide array of rights that we respect. Among those, the right to:
 
@@ -189,7 +185,7 @@ We work with analytics providers such as Google Analytics, which use cookies and
 
 ### 9\. Children’s privacy
 
-We never knowingly collect or solicit any information from anyone of 13 years and younger. The Sites and Services are not directed at nor made look to appeal to such persons. Parents or guardians that believe that We hold information about their children aged 13 and under may contact Us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cdbeb8bdbda2bfb98da5b4bda8acb8a9a4b9a2bfe3aea2a0)
+We never knowingly collect or solicit any information from anyone of 13 years and younger. The Sites and Services are not directed at nor made look to appeal to such persons. Parents or guardians that believe that We hold information about their children aged 13 and under may contact Us at [support@hypeauditor.com](mailto:support@hypeauditor.com)
 
 ### 10\. Our commitment
 
