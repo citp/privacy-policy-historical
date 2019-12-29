@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biodiversitylibrary.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233036id_/http%3A//si.edu/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biodiversitylibrary.org privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229143600id_/http%3A//si.edu/Privacy) for the most accurate reproduction.*
 
 # Smithsonian Institution's Privacy Statement| Smithsonian Institution
 
