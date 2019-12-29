@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smithsonianmag.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221554id_/https%3A//www.smithsonianmag.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithsonianmag.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229180040id_/https%3A//www.smithsonianmag.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | Smithsonian
+# Privacy Statement | Smithsonian Magazine
 
 Thank you for visiting a Smithsonian Enterprises (SE) website and reviewing our Privacy Statement. SE is comprised of the following sites: Smithsonian magazine ([www.Smithsonianmag.com](https://www.smithsonianmag.com/)), Air&Space Magazine ([www.airspacemag.com](https://www.airspacemag.com/)), SmithsonianStore ([www.SmithsonianStore.com](https://www.smithsonianstore.com/)), Smithsonian Tween Tribune ([www.tweentribune.com](https://www.tweentribune.com/)), Smithsonian Books ([www.smithsonianbooks.com](https://www.smithsonianbooks.com/)) and Smithsonian Journeys ([www.SmithsonianJourneys.org](http://www.smithsonianjourneys.org/)). SE does not collect your personal information when you visit our websites unless you choose to provide that information to us. Smithsonian does not sell, exchange, or release your personal information to outside parties without your consent. Once we obtain your consent, we consider it valid until revoked by you.
 
