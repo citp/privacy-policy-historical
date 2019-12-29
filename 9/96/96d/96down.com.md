@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 96down.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627044906id_/https%3A//www.96down.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 96down.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229050759id_/https%3A//www.96down.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 96Down.Com
 
