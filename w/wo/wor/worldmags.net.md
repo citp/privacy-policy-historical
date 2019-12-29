@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the worldmags.net privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116194439id_/http%3A//worldmags.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmags.net privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229013328id_/http%3A//worldmags.net/policy.html) for the most accurate reproduction.*
 
-# Privacy Policy » PDF Digital Magazine
+# Privacy Policy » PDF Digital Magazines
 
 General rules on the site
 
   
-**Worldmags.net – Privacy Policy**
+**Worldmags.net � Privacy Policy**
 
 By using our Web site, you consent to the collection and use of this information by Worldmags.net. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, Worldmags.net may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
 
