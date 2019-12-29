@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benevity.org privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502075810id_/https%3A//www.benevity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benevity.org privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229023629id_/https%3A//www.benevity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Governs Use Of Personal Information - Benevity — Benevity
 
