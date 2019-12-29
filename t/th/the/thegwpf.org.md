@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegwpf.org privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528021529id_/http%3A//www.thegwpf.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegwpf.org privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229010900id_/http%3A//www.thegwpf.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Global Warming Policy Foundation (GWPF)
 
