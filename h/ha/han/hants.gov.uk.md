@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hants.gov.uk privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406060044id_/https%3A//www.hants.gov.uk/aboutthecouncil/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hants.gov.uk privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229153407id_/https%3A//www.hants.gov.uk/aboutthecouncil/privacy) for the most accurate reproduction.*
 
-# Hampshire County Council privacy notice | About the Council | Hantsweb
+# Hampshire County Council privacy notice | About the Council | Hampshire County Council
 
 The General Data Protection Regulation and Data Protection Act 2018 require organisations, businesses and the government to keep your personal information secure and to only use it in accordance with the data protection principles 
 
@@ -32,6 +32,7 @@ We use your information in the following ways:
   * to help investigate any concerns or complaints you have may have about the services you receive
   * for the establishment, exercise or defence of legal claims
   * where otherwise allowed under the General Data Protection Regulation and Data Protection Act 2018. For further information refer to the [Information Commissioner's website](https://ico.org.uk/)
+  * in order to provide tailored communications to Hampshire residents about Council services we use data which has been analysed by third parties. This enables us to target appropriate messages via social media to the relevant sections of the population such as individuals in a certain age range or geographical area of Hampshire
 
 
 
@@ -76,7 +77,7 @@ WebChat
 
 We use a third party provider, SnapEngage, to support our WebChat service, which we use to handle customer enquiries in real time. All enquiries will be dealt with by Hampshire County Council staff.
 
-If you use the WebChat service we will collect your name, email address and the contents of your WebChat session. This information will be stored in our customer database. Your information will not be shared with any other organisations, unless there is a statutory or legal requirement to do so. If you have a Hantsweb account associated with the email address you provide, a record of your session will be stored against your details. This will not contain the contents of the WebChat session.
+If you use the WebChat service we will collect your name, email address and the contents of your WebChat session. This information will be stored in our customer database. Your information will not be shared with any other organisations, unless there is a statutory or legal requirement to do so. If you have a customer account associated with the email address you provide, a record of your session will be stored against your details. This will not contain the contents of the WebChat session.
 
 Your rights 
     
@@ -126,27 +127,6 @@ The County Council’s website contains external links to third party sites. Our
 
 When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
 
-These pieces of information are used to improve services for you through, for example: 
+[Our use of cookies on this website](https://web.archive.org/aboutthecouncil/privacy/cookie-policy) provides details of the cookies we set and information on how to manage them.
 
-  * enabling a service to recognise your device so you don’t have to give the same information several times during one task
-  * recognising that you may already have given a username and password so you don’t need to do it for every web page requested
-  * measuring how many people are using services, so they can be made easier to use and there’s enough capacity to ensure they are fast
-  * you can manage these small files yourself and learn more about them through [GOV.UK's guide to cookies](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies)
-
-
-
-### Our use of cookies
-
-Google Analytics sets cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This is to ensure that the service is available when you want it and fast. 
-
-Hantsweb uses cookies for collecting non-personal user information from the site. Hantsweb does not collect any information about you except that required for system administration of the website. 
-
-Cookies are pieces of data created when you visit a site, and contain a unique, anonymous number. They are stored in the cookie directory of your hard drive, and do not expire at the end of your session. Cookies do not contain any personal information about you and cannot be used to identify an individual user. If you choose not to accept the cookie, this will not affect your access to the majority of facilities available on our website. 
-
-Although your browser may be set up to allow the creation of cookies, you can specify that you be prompted before a site puts a cookie on your hard disk, so that you can decide whether to allow or disallow the cookie. Alternatively, you can set your computer not to accept any cookie. 
-
-This site uses Google Analytics code to gather statistical information. For more information on how Google Analytics processes this information, visit the [Google Analytics website](https://www.google.com/analytics/standard/).
-
-### Trademark and Copyright Information 
-
-Hantsweb is a Registered® Trademark. Please read our Copyright Statement for more information. 
+You can manage these small files yourself and learn more about them through [GOV.UK's guide to cookies](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies)
