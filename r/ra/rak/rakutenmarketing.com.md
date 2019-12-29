@@ -1,191 +1,272 @@
-> *The following text is extracted and transformed from the rakutenmarketing.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204083840id_/https%3A//rakutenmarketing.com/legal-notices/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakutenmarketing.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229195200id_/https%3A//rakutenmarketing.com/legal-notices/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Rakuten Marketing
 
-**RAKUTEN MEDIA CORPORATE WEBSITE PRIVACY POLICY**
+**Effective on January 1, 2020**
 
-**Last updated on May 25, 2018.**
+Rakuten Marketing LLC (hereinafter referred to as “we” or “us”) operates its corporate website at [https://rakutenmarketing.com](https://rakutenmarketing.com/) (“Site”). This privacy policy describes how we collect and use personal information about you, with whom we share personal information, how we protect this information, and your rights in relation to this information.
 
-Rakuten Marketing LLC (hereinafter referred to as “Rakuten Marketing” or “we” or “us”) operates its corporate website at [https://rakutenmarketing.com](https://rakutenmarketing.com/) (“Site”). This Privacy Policy applies solely to information collected by us on our Site and outlines our privacy practices, including as they pertain to users of our Site (“you”), including employees and representatives of entities such as advertisers and publishers that have signed up for Rakuten Marketing’s services (“Business Customers”).  There are additional terms and conditions that relate to your data as outlined in the Publisher Membership Agreement if you are a registered Publisher.   Rakuten Marketing is part of the [Rakuten Group](https://global.rakuten.com/corp/about/company/), which includes the affiliates and subsidiaries of our parent company Rakuten, Inc., based in Tokyo, Japan.
+This privacy policy does not address information collected as part of the services provided by Rakuten Marketing (the “Services”), which is described in the [Rakuten Marketing Services Privacy Policy](https://rakutenmarketing.com/legal-notices/services-privacy-policy/); however, this privacy policy representatives of entities (such as our customers and publishers participating in our network) that have signed up for our Services, and access certain information and reporting through our Site. Additional terms set forth in our commercial agreements with customers and publishers may govern your use of our Site.
 
-This Privacy Policy also describes the choices available to you regarding our use of your information collected on this Site and your choices with respect to the collection and use of such information. For privacy policies relating to Rakuten Marketing’s services please click here <https://rakutenmarketing.com/legal-notices/services-privacy-policy>.
+Rakuten Marketing is part of the [Rakuten Group](https://global.rakuten.com/corp/about/company/), which includes the affiliates and subsidiaries of our parent company Rakuten, Inc., based in Tokyo, Japan.
 
-This Site is designed to be in compliance with the DAA Self-Regulatory Principles for Online Behavioral Advertising and the NAI Code of Conduct and the Interactive Advertising Bureau (IAB) Europe Framework for OBA.  Click [here](http://www.aboutads.info/) if you would like further information regarding the DAA Self-Regulatory Principles or [here](http://www.networkadvertising.org/sites/default/files/NAI_Code15encr.pdf) if you would like more information regarding the NAI Code of Conduct or [here](http://www.edaa.eu/european-principles/) if you would like further information about the IAB Europe’s OBA Framework.
+This Site is designed to comply with the DAA Self-Regulatory Principles for Online Behavioral Advertising and the NAI Code of Conduct and the Interactive Advertising Bureau (IAB) Europe Framework for OBA.  Click [here](http://www.aboutads.info/) if you would like further information regarding the DAA Self-Regulatory Principles or [here](http://www.networkadvertising.org/sites/default/files/NAI_Code15encr.pdf) if you would like more information regarding the NAI Code of Conduct or [here](http://www.edaa.eu/european-principles/) if you would like further information about the IAB Europe’s OBA Framework.
 
-**IF LOCATED IN THE EUROPEAN UNION (EU), REFERENCES IN THIS PRIVACY POLICY TO WHAT WE DO WITH PERSONAL DATA ARE MORE FULLY EXPLAINED IN RIGHTS FOR EU USERS BELOW.**
+If you have any questions or concerns about our use of your personal information, please contact us using the contact details provided in the [‘Contact Information’](https://web.archive.org/legal-notices/website-privacy-policy/#contact-information) of this Privacy Policy.
 
-##### **COLLECTION OF INFORMATION**
+**QUICK LINKS**
 
-We collect information from you when you visit the Sites including information regarding your browsing, usage, and interactions.  We also collect information that allows us to identify browsers and devices we have interacted with previously. The information that we collect about you: the type of Internet browser, browser language and operating system you use; your device’s Internet protocol (“IP”) address; access dates and times; unique device identifiers as well as hardware or operating system device identifiers (e.g., IDFA for iOS and AAID for Android); connection type (wired or Wi-Fi); the region where your device is located; network to which your device is connected; longitude/latitude of a (mobile) device; SDK data; engagement data; geo-IP data; the mobile carrier (if available); the website you came from before, and visited after; and information related to the pages you are viewing on the Website.
+[COLLECTION OF INFORMATION](https://web.archive.org/legal-notices/website-privacy-policy/#collection-of-information)
 
-We also collect personal information, such as your name, address, phone number, e-mail address, or credit card information from the Site only when you choose to provide it to us in a form or by registering as a publisher.  By providing this information you have consented for Rakuten Marketing to contact you to respond to your inquiries (including about Rakuten Marketing’s various service offerings) and as otherwise permitted by this Privacy Policy. You may also submit personal information such as name and email address to subscribe to one of our newsletters.
+[USE OF INFORMATION](https://web.archive.org/legal-notices/website-privacy-policy/#use-of-information)
 
-Certain sections of the Site (including certain password protected sections) can only be accessed by employees or representatives of Business Customers. Each of our contracts with Business Customers may contain terms that set forth more specific obligations and rights of Rakuten Marketing with respect to the use and disclosure of the information that we gather from a specific Business Customer.
+[SHARING OF INFORMATION](https://web.archive.org/legal-notices/website-privacy-policy/#sharing-of-information)
 
-In addition, employees or representatives of current or prospective Business Customers are required to submit certain pieces of their personal information to us in order to be contacted in connection with (or to allow us to provide) one or more of our Services. Such personal information may include, without limitation, name, phone, and email of an entity or any employee or representative, bank account or credit card information and social security number. Certain Business Customers may be required to complete an online form on the Site which could ask for the prospective Business Customer’s name, address, Taxpayer Identification Number (which may be an individual’s Social Security Number), VAT registration numbers or other foreign tax identification numbers (for foreign entities) as well as information about the proposed business to be conducted by such Business Customer through the Services. If we do not enter into an agreement with such prospective Business Customer, then we may (but have no obligation to) retain and/or use the information that the applicant provided on our Site to the extent consistent with this Privacy Policy or in any other way that the applicant has authorized.
+[YOUR RIGHTS](https://web.archive.org/legal-notices/website-privacy-policy/#your-rights)
 
-##### **COOKIES AND SIMILAR TECHNOLOGIES**
+[OPT-OUTS AND WITHDRAWAL OF CONSENT](https://web.archive.org/legal-notices/website-privacy-policy/#opt-outs-and-withdrawal-of-consent)
 
-“Cookies” are pieces of information that may be placed on your computer by a website for facilitating and enhancing your communication and interaction with that website. We and certain third-party business partners, vendors and advertisers may use cookies (or clear gifs, web beacons or similar devices, including devices that function in the mobile environment) to collect information and other behavioral data from you for purposes such as targeting advertising services and better understanding the effectiveness of our advertisements. To learn about cookies in general you may visit www.iab-performance-marketing-explained.net or [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+[RIGHTS OF INDIVIDUALS IN THE EEA](https://web.archive.org/legal-notices/website-privacy-policy/#rights-of-individuals-in-the-eea)
 
-**We use different types of cookies and some cookies are put into the following categories (please note that some cookies may be used differently by different Business Customers):   **
+[RIGHTS OF CALIFORNIA RESIDENTS](https://web.archive.org/legal-notices/website-privacy-policy/#rights-of-california-residents)
 
-  * **Analytical/performance cookies.** They allow us to recognize a return visitor to the website of a Rakuten Marketing Business Customer.
-  * **Functionality cookies.** These are used to recognize you when you return to the website of a Rakuten Marketing Business Customer. This enables us to personalize advertising content for you, and remember your preferences (for example, your choice of language or region).
-  * **Targeting cookies.** These cookies record your visit to the website of a Rakuten Marketing Business Customer, the pages you have visited and the links you have followed. We use this information to make the advertising displayed to you more relevant to your interests. You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+[DURATION OF PROCESSING](https://web.archive.org/legal-notices/website-privacy-policy/#duration-of-processing)
+
+[TRANSFERS OF PERSONAL INFORMATION](https://web.archive.org/legal-notices/website-privacy-policy/#transfers-of-personal-information)
+
+[SECURITY](https://web.archive.org/legal-notices/website-privacy-policy/#security)
+
+[THIRD PARTY SITES AND PARTNERS](https://web.archive.org/legal-notices/website-privacy-policy/#third-party-sites-and-partners)
+
+[PUBLIC FORUMS](https://web.archive.org/legal-notices/website-privacy-policy/#public-forums)
+
+[CHILDREN’S INFORMATION](https://web.archive.org/legal-notices/website-privacy-policy/#children's-information)
+
+[CHANGES TO THIS PRIVACY POLICY](https://web.archive.org/legal-notices/website-privacy-policy/#changes-to-this-privacy-policy)
+
+[CONTACT INFORMATION](https://web.archive.org/legal-notices/website-privacy-policy/#contact-information)
+
+**COLLECTION OF INFORMATION**
+
+We collect certain information from you when you visit our Site. This information is further described below.
+
+_Information we collect_
+
+  * **Personal Identifiers and online identifiers** such as your name, address, phone number, e-mail address, or credit card information (to the extent needed to pay for or receive payment as part of our Services; and browser and device information such as such as your device’s Internet protocol (“IP”) address; unique device identifiers as well as hardware or operating system device identifiers (e.g., IDFA for iOS and AAID for Android); and information about the type of Internet browser, browser language and operating system you use; connection type (wired or Wi-Fi); the region where your device is located; network to which your device is connected; geo-IP data; and the mobile carrier (if available).
+  * **Commercial and Transaction Information** such as information about payments made, received or due as part of the Services.
+  * **Information about your behavior on our Site** such as information regarding your browsing, usage, and interactions; information that allows us to identify browsers and devices we have interacted with previously; the website you came from before and visited after; and information related to the pages you are viewing on the Site.
+  * **Information required if you are a customer or publisher** such as name, address, phone number, email address, Taxpayer Identification Number (which may be an individual’s Social Security Number), VAT registration numbers or other foreign tax identification numbers (for foreign entities).
 
 
 
-Sample information about the cookies we use and what they do is set out in the table below
+_Cookie Information_
 
-##### **Opt-Outs AND WITHDRAWAL OF CONSENT**
+In connection with certain features of our Services to customers, we may set cookies on your web browser (or use other technologies like clear gifs, web beacons or similar devices, including devices that function in the mobile environment) when you interact with websites, applications or advertisements in our network.  For detailed related to the cookies that we use as well as instructions for opting-out, click [here.](https://web.archive.org/legal-notices/cookie-policy/)
 
-If you are located in the EU and we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. To withdraw your consent, or to learn more about your rights as a data subject, please see the **EU USERS BELOW** paragraph below. Regardless of whether you are located in the EU or elsewhere, you may exercise the applicable opt-out options below.
+**USE OF INFORMATION**
 
-##### _Web Browser/Cookie-Based Opt-Out_
+We use the information we collect from or about you on our Site in the following ways:
 
-You may stop or restrict the placement of cookies on your computer or remove them from your browser by adjusting your web browser preferences. There are also many programs that allow you to manually delete your cookies.
+  * to contact you and/or provide information requested by you, including access to our newsletters, blogs, and other marketing information about our Services;
+  * to respond to applications and inquiries of prospective customers and publishers;
+  * to provide customers and publishers access to reporting associated with our Services;
+  * to conduct internal analysis in order to perform and improve the effectiveness of our Site and our services and to understand the audiences for our Site and Services;
+  * to respond to inquiries and requests of our Site users.
 
-The online advertising industry also provides websites from which you may opt-out of receiving targeted ads/interest-based advertising from us, our data partners and our other advertising partners that participate in self-regulatory programs. You may use the NAI opt-out tool at  **<http://www.networkadvertising.org/choices/>** , which will allow you to opt out of seeing targeted ads from us and other members. The DAA’s opt-out tool can be found at **<http://www.aboutads.info/choices/>**.  EU users who have provided their consent to our use of cookies and similar technologies to process their personal information (see the paragraph titled RIGHTS FOR EU USERS below) can use the EDAA’s opt-out tool which can be found at **<http://www.youronlinechoices.eu/>**.
 
-To be clear, the opt-out from targeted ads must be performed on each device and browser that you wish to have opted out. For example, if you have opted out on your computer browser, that opt-out will not be effective on your mobile device. You must separately opt out on each device.  However, once you have opted out on one device (“Opted-Out Device”), we will not use any new data from the Opted-Out Device to identify you on another device for interest-based advertising purposes, and will not use data from another device for interest-based advertising purposes on the Opted-Out Device.
 
-If you erase or otherwise alter your cookie/device settings (including upgrading certain browsers or devices) you may need to perform each opt-out process again, unless we can match the device as outlined above.
+To the extent permitted by applicable law, we also collect, create, process and store information that is not personal information such as sets of aggregate data and other generalized information, including information about browsing, usage and interactions and de-identified personal information that does not reveal your identity. We retain the right to use and disclose information that is not personal information in any manner permitted by law.
 
-Even if you opt out of targeted ads based on cookies, you may still see ads based on other general factors such as webpage context or browser type.
+**SHARING OF INFORMATION**
 
-##### _Mobile Application-Based Opt-Outs_
+We do not sell your personal information to third parties; however, we do disclose information about you and your usage of our Site as follows:
 
-**Cookie-based opt-outs are not effective on mobile applications. Users may opt out of certain advertisements on mobile applications or reset advertising identifiers via their device settings.   To learn how to limit ad tracking or to reset the advertising identifier on your iOS and Android device, click on the following links:** ** **
+  * to third parties that are providing services on our behalf;For example, (a) when you apply for participation as a publisher on our network, we may share information submitted by you with third party vendors to authenticate and/or supplement your application information; (b) we may also share customers credit card information with our third party banking and payment portal for the purposes of collecting payments due to us or to facilitate payment to a customer; (c) we may share customer personal information to publishers participating in our network to provide Services to such customers; or (c) we may share information in connection with a sweepstakes, contest or other promotions you entered for the purposes of facilitating such promotion,
 
-  * **iOS –** **<https://support.apple.com/en-us/HT202074>**
-  * **Android –** **<https://support.google.com/ads/answer/2662922?hl=en>**
+
+  * to infrastructure, technology, operational and other service providers to help support the infrastructure necessary to operate the Site; or
+  * to our group companies and other partners who provide data processing services to us (for example, to support the delivery of, provide functionality on, or help to enhance the security of our Services), or who otherwise process personal information for purposes that are described in this privacy policy, notified to you when we collect your personal information, or notified to you by the group company or partner.
+
+
+
+We may also disclose information about you:
+
+  * if we are required to do so by law or legal process;
+  * to law enforcement authorities or other government officials;
+  * when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity;
+  * if necessary to protect the vital interests or legal of another individual;
+  * in connection with a corporate reorganization or a sale or transfer of all or a portion of our business or asset; or
+  * to any other person with your consent to the disclosure.
+
+
+
+**YOUR RIGHTS**
+
+If you wish to **access, correct, update or request deletion** of your personal information as required by applicable laws, filling out the form located [here](https://go.rakutenmarketing.com/hubfs/legal-notices/Data-Subject-Rights-Request-Confirmation-of-Identify.pdf) and providing the verification information as stated on the form. Alternatively, you can contact us using the contact details provided under the “Contact Information” heading [below](https://web.archive.org/legal-notices/website-privacy-policy/#contact-information).
+
+We will respond to all requests we receive from individuals wishing to exercise their rights in accordance with applicable data protection laws.
+
+**OPT-OUTS AND WITHDRAWAL OF CONSENT**
+
+Regardless of whether you are located in the EU or elsewhere, you may exercise the applicable opt-out options below.
+
+_Web Browser/Cookie-Based Opt-Out_
+
+You may stop or restrict the placement of cookies on your computer or remove them from your browser by adjusting your web browser preferences. There are also many programs that allow you to manually delete your cookies.  For more information regarding this form of cookie-based opt-outs, [click here](https://web.archive.org/legal-notices/cookie-policy/).
+
+_Mobile Application-Based Opt-Outs_
+
+Cookie-based opt-outs are not effective on mobile applications. Users may opt out of certain advertisements on mobile applications or reset advertising identifiers via their device settings.  To learn how to limit ad tracking or to reset the advertising identifier on your iOS and Android device, click on the following links:
+
+  * [iOS](https://support.apple.com/en-us/HT202074)
+  * [Android](https://support.google.com/ads/answer/2662922?hl=en)
 
 
 
 You may also download and set your preferences on the App Choices mobile application(s) available in Google Play or the Apple App stores.
 
-##### _Third Party Marketing Opt-Out_
+_Opt-Out_
 
-If you do not want your personal information shared with any third party who may use such information for direct marketing purposes, then you may opt out of such disclosures by sending an email to [rm-privacy@mail.rakuten.com](mailto:rm-privacy@mail.rakuten.com). However, we are not responsible for removing your personal information from the lists of any third party who has previously been provided with your information in accordance with this Privacy Policy.
+If you do not want your personal information to be used by us for marketing purposes, you may opt out of such disclosures by sending an [email.](mailto:rm-subjectrequests@mail.rakuten.com)
 
-##### **USE AND DISCLOSURE OF INFORMATION**
+**RIGHTS OF INDIVIDUALS IN THE EEA**
 
-We may use and disclose your information, which may include your personal information, as follows:
+If you are located in the European Economic Area, you have the following additional data protection rights:
 
-  * We use your information, as provided by you through the Site, to contact and correspond with you and/or to respond to your inquiries, as well as for other business purposes such as adding you to our marketing lists, reviewing your application if you are applying to become a Business Customer.
-  * Combining information we collect about you with information we obtain from Business Customers and other partners, Ad Networks and/or other companies such as Data Providers including our corporate affiliates (pursuant to their own privacy policies). This is in order to provide Services to for ourselves and our Business Customers such as tools to see how their website or mobile applications are used and tools to enable the display of targeted advertisements across multiple devices. This gives the capability to conduct internal analysis in order to perform and improve the effectiveness of the online advertising services that we provide to our Business Customers and the services of our corporate affiliates.
-
-
-  * Determining whether multiple devices (e.g., a desktop computer and a mobile phone) are connected by applying probabilistic techniques (e.g., algorithmic and other mathematical techniques) to data that we collect. For example, determining the probability that a desktop web cookie and a mobile device belonging to the same user. We may supplement such probabilistic data with deterministic data (e.g., unique identifiers).
-
-
-  * We also use your information to analyze your interactions with and performance of our Site, to determine how much time visitors have spent on the Site, to improve our Site and our Services, for our research activities and to gather demographic information about our user base as a whole.
-
-
-  * If you are a Business Customer, we may use and disclose your personal information as necessary to provide the Services.
-
-
-  * We share your information with our corporate affiliates (including our parent company and its personnel) for the purposes of conducting internal analysis to improve our services and the services of our corporate affiliates.
-
-
-  * We disclose your information to third parties who are providing services on our behalf. For example and without limitation, (a) where you apply for participation as a publishing customer in one of our advertising platforms, we may share information submitted by you with third party vendors to authenticate and/or supplement your application information; (b) we may also share Business Customers’ credit card information with our third party banking and payment portal for the purposes of collecting payments due to us or to facilitate payment to a Business Customer; (c) we may share information in connection with any sweepstakes, raffles, contests or other promotions you’ve entered or intend to enter for the purposes of facilitating your participation in that sweepstake, raffle, content or other promotion.
-
-
-  * We disclose your information in connection with (a) requests from local, state or federal government or law enforcement officials; (b) any judicial, administrative or similar proceeding or order, such as subpoena; (c) if required by law; or (d) to investigate suspected fraud, harassment, physical threats, or other violations of any law, rule or regulation, this Privacy Policy, or the rights of third parties or to investigate any suspected conduct which we deem improper.
-  * In the case of a disclosure to third parties to perform services on our behalf, such third parties shall have access to your information for the purpose of performing services for us and for use in a manner directed by us, which use shall be consistent with this Privacy Policy and any consents you provide.
-  * We do not sell your personal information to third parties or mass marketers.
-
-
-  * Finally, please note that if you specifically consent to additional uses or disclosures of your information, we may use your information in a manner consistent with that consent.
+  * You can **object to processing** of your personal data,
+  * You can ask us to **restrict processing** of your personal data,
+  * You can **request portability** of your personal data or
+  * You can **request deletion** of your personal data
 
 
 
-To be clear, we may, to the extent permitted by applicable law, collect or create information that is not personal information such as sets of aggregate data and other generalized information, including information about browsing, usage and interactions and de-identified personal information that does not reveal your identity. We retain the right to use and disclose information that is not personal information in any manner permitted by law.
+You can exercise these rights by please filling out the form located here and providing the verification information as stated on the form, or by contacting us using the contact details provided under the “Contact Information” heading [below](https://web.archive.org/legal-notices/website-privacy-policy/#contact-information).
 
-##### **DO NOT TRACK**
+Similarly, if we have collected and process your personal information with your consent, then you can **withdraw your consent** at any time.  Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent. You can withdraw your consent by using the go to the data subject access request page and submitting a request or by contacting us using the contact details provided under the “Contact Information” heading [below.](https://web.archive.org/legal-notices/website-privacy-policy/#contact-information)
 
-There is currently no universally recognized standard for Do Not Track signals. Accordingly, at this time, cookies used on our website and used in providing our services do not respond to any Do Not Track signals or browser settings. You may opt-out of receiving cookies by adjusting your web browser settings to reject cookies.
+You have the **right to complain to a data protection authority** about our collection and use of your personal information.  For more information, please contact your local data protection authority. (Contact details for data protection authorities in the European Economic Area are available [here](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).) We would, however, appreciate an opportunity to address your complaint before you approach the supervisory authority so please contact us in the first instance with any complaints you may have by sending an [email](mailto:rm-subjectrequests@mail.rakuten.com).
 
-##### **YOUR CALIFORNIA PRIVACY RIGHTS**
+_Legal Basis For Using EEA Personal Data_ :
 
-California Law permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us by email, rm-privacy@mail.rakuten.com or write to us at the address listed under Contact Information.
+If you are located in the European Economic Area, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it. Usually, we rely on the following legal bases to process your personal information:
 
-##### **RIGHTS OF EU USERS**
-
-If you are located in the EU and EU data protection law applies to the processing of your information, we provide the controls described in this policy so you can exercise your right to request access to, update, remove and restrict the processing of your information. You also have the right to object to the processing of your information or export your information to another service.
-
-When you first visit a website or application, we read cookies and similar technologies on the internet browser of your device or in connection with applications you use that allows us to identify browsers and devices that have previously interacted with our Services or Business Customers.  This initial reading of cookies and similar technologies allows us to determine whether you or the user(s) of your device, have previously given consent to the use of “personal data” as defined under applicable EU law.
-
-Apart from this initial browser or device reading, if you are located in the EU then the references in this privacy policy to the collection and use of your personal data will occur only after we determine the appropriate legal basis to process such information: (i) consent, (ii) legitimate interest (as described below), (iii) fulfilment of a contract, or (iii) our compliance with a legal obligation. References to the opt-out possibilities set forth above will apply to you if you have first given consent to the use of your personal data as outlined below. Then you may choose to limit how we may use your personal data.  EU users also have specific rights which are enumerated below.
-
-##### _Legal Basis For Using EU User Personal Data_ :
-
-In the EU, the processing of your personal data must rely on a legal basis. For these regions, there are different legal bases that we rely on to use your personal data, namely:
-
-  * Legitimate interest: We may process your personal data for our legitimate interests. For example, to provide or improve our Services, manage relationships with Business Customers, or for security purposes and fraud prevention. When we process personal information to meet our legitimate interests, we put in place safeguards to ensure that your privacy is protected and to ensure that our legitimate interests are not overridden by your interests or fundamental rights and freedoms.
-  * Consent: We will rely on your consent to use your personal data (including, without limitation, technical data, cookie data, usage information, and geo-location data), for personalized or interest-based advertising purposes. You may opt-out of your data usage at any time by using this Subject Access Request page or by using the tools outlined above.
-  * Fulfillment of Contract: We will process your business contact information you provide when registering for our services to provide the Services and manage relationships.  We will also reach out to you about the additional opportunities within our Services to make sure you are aware of all of the available options.
+  * _Legitimate interest_ : We may process your personal data for our legitimate interests. For example, to provide or improve our Services, manage relationships with customers, or for security purposes and fraud prevention. We will also reach out to you about our service offerings to make sure you are aware of all of the available options. When we process personal information to meet our legitimate interests, we put in place safeguards to ensure that your privacy is protected and to ensure that our legitimate interests are not overridden by your interests or fundamental rights and freedoms.
+  * _Consent_ : We will rely on your consent to use your personal data (including, without limitation, technical data, cookie data, usage information, and geo-location data), for personalized or interest-based advertising purposes and to send you marketing information. When you first visit a website or application, we read cookies and similar technologies on the internet browser of your device or in connection with applications you use that allows us to identify browsers and devices that have previously interacted with our Service or customers.  This initial reading of cookies and similar technologies allows us to determine whether you or the user(s) of your device, have previously given consent to the use of personal data. You may withdraw your consent at anytime by using this Subject Access Request [page](https://web.archive.org/legal-notices/subject-requests/) or by using the tools outlined above.
+  * _Fulfillment of Contract_ : We will process your business contact information you provide when registering for our Service to provide the services and manage relationships.
+  * _L_ _egal obligation_ : In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person. If we ask you to provide personal information to comply with a legal requirement, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
 
 
 
-In  addition to the other rights outlined above, individuals based in the EU also have the right to be informed of the following:
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the [Contact Information](https://web.archive.org/legal-notices/website-privacy-policy/#contact-information) section of this Privacy Policy.
 
-  * Data Sharing: The direct recipients of your personal data include our corporate affiliates, as well as Business Customers such as advertisers and publishers in the Rakuten Ad Network.  There may also be indirect recipients of a limited amount of personal data based on your access to the Service.
-  * Duration of the Processing: Rakuten Marketing may actively process your personal data for two years from the time of your last interaction with our Services or the websites or applications of our Business Customers (“Interaction Date”).  We may, however, store your data in a pseudonymized or anonymized form for up to seven (7) years after the Interaction Date in order to comply with other legal requirements.  After such time we delete your personal data from our system(s).
-  * Transfers of Personal Data: Rakuten Marketing and our Business Customers may be located in various countries throughout the world.  As a result, personal data may also be transferred from the EU to the United States and other jurisdictions whose laws may differ from those in the EU.  Rakuten Marketing relies on the Rakuten, Inc. Binding Corporate Rules (BCR) for legal data transfers outside of the EU within the Rakuten Group companies.  The Luxembourg Data Protection Authority, acting as the lead authority for Rakuten, Inc., has approved the BCR.   The BCR ensures your personal data is protected by requiring all Rakuten Group companies to follow the same rules when processing your personal data. For more information on the BCR’s please visit <https://corp.rakuten.co.jp/privacy/en/bcr.html>. For data transfers to entities outside of the Rakuten Group in countries that have not been deemed to provide an adequate level of protection by the European Commission, we may use specific contracts promulgated by the European Commission, such as the Standard Contractual Clauses.
+**RIGHTS OF CALIFORNIA RESIDENTS**
+
+This section contains disclosures required by the California Consumer Privacy Act (“CCPA”) and applies only to “personal information” that is subject to the CCPA.
+
+_Personal Information We Collect, Disclose for a Business Purpose, and Sell._ **  **
+
+We collect the categories of personal information about California consumers identified in the chart below.  As further set forth in the chart below, in the past 12 months, we have disclosed and sold California consumers’ personal information to third parties for business or commercial purposes.  We do not sell information collected from your use of this website.
+
+**Categories of Personal Information** | **Collected in the last 12 months:** | **Categories of sources from which information is collected:** | **Business or commercial purposes for collection, use, and sharing:** | **Disclosed for business purposes to the following categories of third parties:**  
+---|---|---|---|---  
+Personal and online identifiers (such as first and last name, email address, or unique online identifiers) | Yes | Consumers | Performing Services  
+Internal Research  
+Internal Operations  
+Activities to maintain and improve services  
+Auditing  
+Marketing  
+Process Job  
+Applications  
+Legal compliance  
+Detecting and protecting against security incidents, fraud, and illegal activity  
+Product development  
+Debugging | Service Providers  
+Affiliates  
+Commercial or transactions information (such as records of products or services purchased, obtained or considered) | Yes | Consumers | Perform services  
+Marketing  
+Auditing  
+Legal compliance  
+Detecting and protecting against security incidents, fraud, and illegal activity  
+Product development  
+Debugging | Service Providers  
+Affiliates  
+Internet or other electronic network activity information (such as browsing history, search history, interactions with a website, email, application, or advertisement) | Yes | Service Providers | Performing Services  
+Internal Research  
+Internal Operations  
+Activities to maintain and improve services  
+Auditing  
+Marketing  
+Legal compliance  
+Detecting and protecting against security incidents, fraud, and illegal activity  
+Product development  
+Debugging | Service Providers  
+Affiliates  
+Other information about you that is linked to the personal information above | Yes | Consumers  
+Service Providers | Performing Services  
+Internal Research  
+Internal Operations  
+Activities to maintain and improve services  
+Auditing  
+Marketing  
+Legal compliance  
+Detecting and protecting against security incidents, fraud, and illegal activity  
+Product development  
+Debugging | Service Providers  
+Affiliates  
+  
+_Your Rights Regarding Personal Information._ California residents have certain rights with respect to the personal information collected by businesses.  If you are a California resident, you may exercise the following rights regarding your personal information, subject to certain exceptions and limitations:
+
+  * The **right to know** the categories and specific pieces of personal information we collect, use, disclose, and sell about you, the categories of sources from which we collected your personal information, our purposes for collecting or selling your personal information, the categories of your personal information that we have either sold or disclosed for a business purpose, and the categories of third parties with which we have shared personal information;
+  * The **right to request that we delete** the personal information we have collected from you or maintain about you.
+  * The right to **opt out of our sale(s)** of your personal information. Please note that if you opt out of certain types of sales, we will be unable to provide you with the services that rely on such sales.
+  * The **right not to receive discriminatory treatment** for the exercise of the privacy rights conferred by the CCPA.
 
 
 
-##### _EU Data Subject Rights_
+To exercise any of the above rights, please contact us using the following information and submit the required verifying information, as further described below:
 
-Under certain circumstances, EU users have rights under data protection laws in relation to your personal data, including as follows
-
-  * Access, Correction, Restriction, Erasure and Portability: You have the right to (i) access your personal data which we may have in our system(s); (ii) request correction of your personal data we have in or system(s); (iii) object to or request that we restrict the processing of your personal data under certain circumstances; (iv) request erasure of your personal data from our system(s) under certain circumstances; and (v) request transfer of your personal data out of our system(s) in a commonly used format. To exercise the access, correction, restriction, erasure and portability rights, please fill out the form located here and provide the verification information as stated on the form.
-
-
-  * Withdrawal of Consent: Where we are relying on consent to process your personal data, you have the right to withdraw your consent at any time. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. In order to withdraw your consent, please use the go to the data subject access request page  and submit a request.
-
-
-  * Right to Lodge a Complaint: EU users also have the right to lodge a complaint about Rakuten Marketing processing your personal data with your local data supervisory authority. We would, however, appreciate an opportunity to address your complaint before you approach the supervisory authority so please contact us in the first instance with any complaints you may have by sending an email to [rm-subjectrequests@mail.rakuten.com](mailto:rm-subjectrequests@mail.rakuten.com).
+  * [Online](https://rakutenmarketing.com/legal-notices/website-privacy-request-form/)
+  * By [emailing](mailto:rm-subjectrequests@mail.rakuten.com)
 
 
 
-Rakuten Marketing will use all reasonable efforts to facilitate your exercise of the above rights in accordance with applicable data protection laws.  Please note that in order for you to assert these rights, we need to verify your identity to confirm your rights. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. In order to verify your identity, we may need to gather more personal data from you than we currently have.
+Note that we may need to request additional information from you to verify your identity or understand the scope of your request, although you will not be required to create an account with us to submit a request or have it fulfilled.  We will require you to provide, at a minimum the information indicated as required on the webform located [here](https://web.archive.org/legal-notices/website-privacy-request-form/).  You may designate an authorized agent to make a request on your behalf by having the agent complete the webform located [here](https://web.archive.org/legal-notices/website-privacy-request-form/). We do not knowingly sell personal information of minors under 16 years of age.
 
-##### **SECURITY**
+**DURATION OF PROCESSING**
 
-We take appropriate reasonable security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of personal information. This includes the necessary physical, electronic and managerial procedures designed to protect data integrity, access and use. Please note that no method of transmission over the Internet or method of electronic storage is 100% secure. As a result, we strive to protect your personal information but cannot ensure or warrant the security of your information against any possible loss or unauthorized access ** **
+Rakuten Marketing may actively process your personal information for one year from the time of your last interaction with our Services or the websites or applications of our customers.  We may, however, store your information in a pseudonymized or anonymized form for up to seven (7) years after the date that you interact with our Services where we have an ongoing legitimate business need to do so (for example to respond to a query from you, provide you with a service you requested or to comply with applicable legal, tax or accounting requirements.  When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-##### **CHANGE IN CONTROL**
+**TRANSFERS OF PERSONAL INFORMATION**
 
-Without limiting our other rights to transfer data and information as set forth in this Privacy Policy, in the event that Rakuten Marketing sells or transfers ownership, operation or control, is acquired by or merged with a third party entity, or in the unlikely event of Rakuten Marketing’s bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, Rakuten Marketing reserves the right, in any of these circumstances, to transfer or assign the information we have collected (including any personal information, if any) as part of such merger, acquisition, sale, reorganization or other change of control. Any entity acquiring assets comprising or consisting of your information shall agree to handle such information in accordance with the terms of this Privacy Policy.
+Rakuten Marketing and our customers or service providers may be located in various countries throughout the world.  As a result, your personal information may be transferred to, and processed in, countries other than the country in which you are resident.  These countries may have data protection laws that are different to the laws of your country (and, in some cases, may not be as protective).
 
-##### **COMMENTS AND QUESTIONS**
+However, we have taken appropriate safeguards (such as contractual commitments) to require that your personal information will remain protected in accordance with this Privacy Policy.  Rakuten Marketing relies on the Rakuten, Inc. Binding Corporate Rules (BCR) for legal data transfers outside of the EU within the Rakuten Group companies.  The Luxembourg Data Protection Authority, acting as the lead authority for Rakuten, Inc., has approved the BCR.   The BCR ensures your personal information is protected by requiring all Rakuten Group companies to follow the same rules when processing your personal information. For more information on the BCR’s please [visit](https://corp.rakuten.co.jp/privacy/en/bcr.html). For data transfers to entities outside of the Rakuten Group in countries that have not been deemed to provide an adequate level of protection by the European Commission, we may use specific contracts promulgated by the European Commission, such as the Standard Contractual Clauses and further details can be provided upon request.
 
-We use reasonable processes to ensure compliance with this Privacy Policy and periodically verify that the policy is accurate. We encourage you to raise any concerns using the contact information provided below, and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of information.
+**SECURITY**
 
-For any questions about our privacy practices, you may contact us by email at _[rm-privacy@mail.rakuten.com](mailto:rm-privacy@mail.rakuten.com)_.
+We take appropriate technical and organizational measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of personal information. This includes the necessary physical, electronic and managerial procedures designed to protect data integrity, access and use. Please note that no method of transmission over the Internet or method of electronic storage is 100% secure. As a result, we strive to protect your personal information but cannot ensure or warrant the security of your information against any possible loss or unauthorized access.
 
-Advertisers (or prospective advertisers) who have questions or comments about this Privacy Policy or the relevant provisions of their advertiser agreements should contact their account sales or services representatives.
-
-##### **THIRD PARTY SITES AND PARTNERS**
+**THIRD PARTY SITES AND PARTNERS**
 
 Our Site may contain links to other websites, including our advertisers’ websites. Other websites may also reference or link to our Site. Some of our advertisers or third-party website or technology partners may place their own cookies and/or other data collection tools on your Internet browser; however, we have no access to or control over these cookies and/or other data collection tools. These other domains and/or websites are not controlled by us. We encourage our users to read the privacy policies of each and every website that they interact with. We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other websites. Visiting these other websites is at your own risk.
 
-##### **PUBLIC FORUMS**
+**PUBLIC FORUMS**
 
-Our Site offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us at [rm-privacy@mail.rakuten.com](mailto:rm-privacy@mail.rakuten.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Site offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, [contact us.](mailto:rm-privacy@mail.rakuten.com) In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-##### **CHILDREN’S INFORMATION**
+**CHILDREN’S INFORMATION**
 
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to participate in and monitor their online activity. Rakuten Marketing does not knowingly collect any personal information from children under the age of 13 (or such other age as may be restricted under local law). If a parent or guardian believes that Rakuten Marketing has in its database the personal information of a child under the age of 13 (or such other age as may be restricted under local law), please contact [rm-privacy@mail.rakuten.com](mailto:rm-privacy@mail.rakuten.com) and we will use our best efforts to remove the information from our records.
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to participate in and monitor their online activity. Rakuten Marketing Services are not intended to process personal information of children under the age of 16 does not knowingly collect any personal information from children under the age of 16. If a parent or guardian believes that Rakuten Marketing has in its database the personal information of a child under the age of 16 please [contact](mailto:rm-privacy@mail.rakuten.com) and we will use our best efforts to remove the information from our records.
 
-##### **CHANGES TO THIS PRIVACY POLICY**
+**CHANGES TO THIS PRIVACY POLICY**
 
-Rakuten Marketing reserves the right to change or replace this Privacy Policy at any time and from time to time. Any changes or replacement will be noted through indications on our website related to this Privacy Policy and located at <https://rakutenmarketing.com/legal-notices/website-privacy-policy>. You will be deemed to have been made aware of and will be subject to, the changes to the Privacy Policy after such notice has been posted. We will state the date this Privacy Policy was last updated. We encourage you to review our Privacy Policy on a regular basis.
+Rakuten Marketing reserves the right to change or replace this Privacy Policy at any time to reflect any changes in our privacy practices. When we update our Privacy Policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make.  We will obtain your consent to any material Privacy Policy changes if and where this is required by applicable data protection laws.  Any changes or replacement will be posted on our website related to this Privacy Policy and located at [here](https://rakutenmarketing.com/legal-notices/website-privacy-policy/). You can see when this Privacy Policy was last updated by checking the “last updated” date displayed at the top of this Privacy Policy. We encourage you to review our Privacy Policy on a regular basis.
 
-##### **CONTACT INFORMATION**
+**CONTACT INFORMATION**
+
+We use reasonable processes to ensure compliance with this Privacy Policy and periodically verify that the Privacy Policy is accurate. We encourage you to raise any concerns using the contact information provided below and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of information.
+
+For any questions about our privacy practices, you may contact us by [email](mailto:rm-privacy@mail.rakuten.com).
 
 Our postal address is:  
 Rakuten Marketing LLC  
@@ -193,10 +274,12 @@ Rakuten Marketing LLC
 New York, NY 10003  
 USA
 
-The European representative for purposes of this Policy is:  
+If you are located within the European Economic Area, the data controller of your personal information is Rakuten Marketing LLC.
+
+The European establishment for purposes of this Policy is:  
 Rakuten Marketing Europe Limited  
-71 queen Victoria street 7th Floor Queen Victoria Street,  
+71 Queen Victoria Street, 7th Floor  
 London EC4V 4AY  
 United Kingdom
 
-Rakuten Inc’s Data Protection Officer and the Rakuten Marketing privacy team can be reached at  [rm-subjectrights@mail.rakuten.com](mailto:rm-subjectrights@mail.rakuten.com).
+Rakuten Inc’s Data Protection Officer and the Rakuten Marketing privacy team can be reached [here](mailto:rm-subjectrequests@mail.rakuten.com).
