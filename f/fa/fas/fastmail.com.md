@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the fastmail.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517032601id_/https%3A//www.fastmail.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastmail.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230003817id_/https%3A//www.fastmail.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy policy | FastMail
+# Privacy policy | Fastmail
 
 FastMail Pty Ltd ( **"we"** , **"our"** or **"us"** ) based at PO Box 234, Collins Street West, VIC 8007, Australia, ABN 31 142 646 580 is responsible for your personal information (Personal Information) and we take our data protection and privacy responsibilities seriously.
 
 The privacy of your Personal Information is your right. We want to make our policies on managing your data clear and understandable, so we've tried to write our privacy policy in plain English.
 
-Each section of this policy is labelled to make it easy for you to navigate — please click on a topic in the list below to find out more. This privacy policy explains how we collect, use and share your personal information so please read it carefully. If you have any questions, please contact us.
-
-* * *
+Each section of this policy is labelled to make it easy for you to navigate — please click on a topic in the list below to find out more. This privacy policy explains how we collect, use and share your personal information so please read it carefully. If you have any questions, please [contact us](https://www.fastmail.com/about/privacy/#contact).
 
 **Important information about FastMail:**
 
@@ -20,18 +18,16 @@ You should be aware that your information may be held in databases which can be 
 
 You can read about where data is held on our [security](https://web.archive.org/help/ourservice/security.html) help page.
 
-* * *
-
 This privacy policy explains how we collect, use and share personal information in the course of our business activities, including:
 
-  * What personal information we collect and when and why we use it.
-  * How we share personal information within FastMail and with our service providers, regulators and other third parties
-  * Explaining more about your Marketing Preferences
-  * Transferring personal information globally
-  * How we protect and store personal information
-  * Cookies
-  * Your rights available to help manage your privacy
-  * How you can contact us for more support
+  * [What personal information we collect and when and why we use it.](https://www.fastmail.com/about/privacy/#personal)
+  * [How we share personal information within FastMail and with our service providers, regulators and other third parties](https://www.fastmail.com/about/privacy/#sharing)
+  * [Explaining more about your Marketing Preferences](https://www.fastmail.com/about/privacy/#marketing)
+  * [Transferring personal information globally](https://www.fastmail.com/about/privacy/#transfering)
+  * [How we protect and store personal information](https://www.fastmail.com/about/privacy/#protection)
+  * [Cookies](https://www.fastmail.com/about/privacy/#cookies)
+  * [Your rights available to help manage your privacy](https://www.fastmail.com/about/privacy/#rights)
+  * [How you can contact us for more support](https://www.fastmail.com/about/privacy/#contact)
 
 
 
@@ -43,14 +39,16 @@ We may review or update this privacy policy from time to time to keep it up to d
 
 If there is a link to any third party on any of our websites, their privacy policy applies. We are not responsible for the privacy practices of any third party.
 
+* * *
+
 ## What personal information we collect, and when and why we use it
 
 In this section you can find out more about:
 
   * the types of personal information we collect;
-  * when we collect personal information;
+  * [when we collect personal information](https://www.fastmail.com/about/privacy/#personal-when);
   * the different kinds of personal information we collect for certain services we offer; and
-  * how we use personal information
+  * [how we use personal information](https://www.fastmail.com/about/privacy/#personal-how)
 
 
 
@@ -66,7 +64,7 @@ The information we collect, and how that information is used, depends on how you
 
 If you register to use, or use, one of our websites or services including FastMail [https://www.fastmail.com](https://www.fastmail.com/), Pobox (Lifetime Email) [https://www.pobox.com](https://www.pobox.com/), Listbox [https://www.listbox.com](https://www.listbox.com/) or Topicbox [https://www.topicbox.com](https://www.topicbox.com/), personal information that may be collected directly from you includes name, billing address, mobile phone number, organisation name, your own domain name, IP address, browser user-agent and billing details (credit card, or PayPal account). We also collect some of this information if you are using our services on a trial basis. Our help page on each service explains how your information is deleted if you decide not to proceed.
 
-We may also collect personal information such as IP address, device information and log information by using cookies. Please see Cookies for more information on this and our [Cookies Policy](https://web.archive.org/web/20190517032601id_/https%3A//www.fastmail.com/about/cookies.html).
+We may also collect personal information such as IP address, device information and log information by using cookies. Please see [Cookies](https://www.fastmail.com/about/privacy/#cookies) for more information on this and our [Cookies Policy](https://www.fastmail.com/about/privacy/cookies.html).
 
 We process mail sent and received from your account to block spam and fraud. We receive information from third party services to assist us in identifying spam. If you report a message to us, either through the service or via customer support, as spam or not spam, we may share that message with the third party service that flagged it to improve the accuracy of future filtering. See further below on your rights when we disclose your information to our third party service providers.
 
@@ -97,10 +95,10 @@ We use this information to:
   * provide you with our services and to maintain, manage and improve our services;
   * help our services deliver more useful, customised content such as more accurate search results;
   * send you notifications when you receive new mail or events; we may also send you a notification if we detect suspicious activity, like an attempt to sign in to your account from an unusual location;
-  * at your option, contact you to let you know about updates to our services or information we feel may be of interest to you (see more information at Direct Marketing);
+  * at your option, contact you to let you know about updates to our services or information we feel may be of interest to you (see more information at [Direct Marketing](https://www.fastmail.com/about/privacy/#marketing));
   * provide you with customer support including technical support and troubleshooting (for example, to reset your password);
   * protect you and conduct security investigations and fraud and abuse analysis (including to help us flag spam mail);
-  * conduct analytics and measurement to understand how our services are used;
+  * conduct [analytics](https://www.fastmail.com/about/privacy/#personal-analytics) and measurement to understand how our services are used;
   * comply with our legal obligations, for example when assisting governments and law enforcement agencies or regulators (as may be required by law);
   * improve the safety and reliability of our services. This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm FastMail, you, our users, or the general public.
 
@@ -151,9 +149,9 @@ Your use of FastMail products and services is subject to your organisation's pol
 
 In this section you can find out more about:
 
-  * how we use personal information to keep you up to date with our products and services;
-  * how you can manage your marketing preferences; and
-  * when and how we undertake profiling and analytics
+  * [how we use personal information to keep you up to date with our products and services](https://www.fastmail.com/about/privacy/#marketing-how);
+  * [how you can manage your marketing preferences](https://www.fastmail.com/about/privacy/#marketing-prefs); and
+  * [when and how we undertake profiling and analytics](https://www.fastmail.com/about/privacy/#marketing-analytics)
 
 
 
@@ -166,7 +164,7 @@ We may use your name and email address to send direct marketing communications t
 To protect your privacy rights and to ensure you have control over how we manage marketing with you:
 
   * users of the FastMail, Listbox and Pobox services can opt out of any non-essential communication by de-selecting the relevant checkbox in the settings page in the web interface;
-  * even after opting in, you can ask us to stop sending email marketing by following the “unsubscribe” or opt-out links in electronic communications. Alternatively you can contact us; and
+  * even after opting in, you can ask us to stop sending email marketing by following the “unsubscribe” or opt-out links in electronic communications. Alternatively you can [contact us](https://www.fastmail.com/about/privacy/#contact); and
   * we will take steps to limit direct marketing to a reasonable and proportionate level and only send you communications which we believe may be of interest or relevance to you
 
 
@@ -199,7 +197,7 @@ We will take appropriate steps to ensure that transfers of personal information 
 
 
 
-You have a right to contact us for more information about the safeguards we have put in place (including a copy of relevant contractual commitments) to ensure the adequate protection of your personal information when this is transferred as mentioned above.
+You have a right to [contact us](https://www.fastmail.com/about/privacy/#contact) for more information about the safeguards we have put in place (including a copy of relevant contractual commitments) to ensure the adequate protection of your personal information when this is transferred as mentioned above.
 
 ## How we protect and store your information
 
@@ -241,15 +239,15 @@ When a FastMail product collects age, and there is an age in your jurisdiction u
 
 A cookie is a text file containing small amounts of information which is downloaded to/stored on your computer (or other internet enabled devices, such as a smartphone or tablet) when you visit a website.
 
-Cookies may collect personal information about you. Cookies help us remember information about your visit to our website, like your username, country, language and other settings. Cookies allow us to understand who has seen which webpages, to determine how frequently particular pages are visited and to determine the most popular areas of our website. They can also help us to operate our website more efficiently and make your next visit easier. Cookies can allow us to do various other things, as explained further in our [Cookie Policy](https://web.archive.org/web/20190517032601id_/https%3A//www.fastmail.com/about/cookies.html).
+Cookies may collect personal information about you. Cookies help us remember information about your visit to our website, like your username, country, language and other settings. Cookies allow us to understand who has seen which webpages, to determine how frequently particular pages are visited and to determine the most popular areas of our website. They can also help us to operate our website more efficiently and make your next visit easier. Cookies can allow us to do various other things, as explained further in our [Cookie Policy](https://www.fastmail.com/about/privacy/cookies.html).
 
-For more information about how our cookies work and information about how to manage your cookie settings please visit our [Cookie Policy](https://web.archive.org/web/20190517032601id_/https%3A//www.fastmail.com/about/cookies.html)
+For more information about how our cookies work and information about how to manage your cookie settings please visit our [Cookie Policy](https://www.fastmail.com/about/privacy/cookies.html)
 
 ## Your rights available to help manage your privacy
 
 You have a number of rights in relation to your personal information.
 
-You may access or request correction of the personal information that we hold about you by contacting us. There are some circumstances in which we are not required to give you access to your personal information.
+You may access or request correction of the personal information that we hold about you by [contacting us](https://www.fastmail.com/about/privacy/#contact). There are some circumstances in which we are not required to give you access to your personal information.
 
 There is no charge for requesting access to your personal information but we may require you to meet our reasonable costs in providing you with access (such as photocopying costs or costs for time spent on collating large amounts of material).
 
@@ -276,13 +274,11 @@ You may have these rights under applicable laws, including the EU General Data P
 
 If your organisation, such as your employer or service provider, provides you access to and is administering your use of FastMail products, contact your organisation to learn more about how to access and control your Personal Information.
 
-You can access and control your Personal Information that FastMail has obtained, and exercise your data protection rights, using various tools we provide. The tools most useful to you will depend on our interactions with you and your use of our products. Please use our [help pages](https://web.archive.org/help/) first to learn about the tools available to you, but you are able to contact us to exercise your rights.
+You can access and control your Personal Information that FastMail has obtained, and exercise your data protection rights, using various tools we provide. The tools most useful to you will depend on our interactions with you and your use of our products. Please use our [help pages](https://web.archive.org/help/) first to learn about the tools available to you, but you are able to [contact us](https://www.fastmail.com/about/privacy/#contact) to exercise your rights.
 
 We may ask you for additional information to confirm your identity and for security purposes, in particular before disclosing personal information to you.
 
 We may not always be able to fully address your request, for example if it would impact the duty of confidentiality we owe to others, or if we are legally entitled to deal with the request in a different way.
-
-## Contact us
 
 The primary point of contact for all issues arising from this Policy is our Data Protection Officer. They can be contacted in the following ways:
 
@@ -296,13 +292,13 @@ Australia
 
 If you have any questions, concerns or complaints regarding our compliance with this privacy notice, the information we hold about you or if you wish to exercise your rights, we encourage you to first contact our Data Protection Officer. We will investigate and attempt to resolve complaints and disputes and make every reasonable effort to honour your wish to exercise your rights as quickly as possible and in any event, within the timescales provided by applicable data protection laws.
 
-## To contact your data protection supervisory authority
-
 You have a right to lodge a complaint with your local data protection supervisory authority (i.e. your place of habitual residence, place or work or place of alleged infringement).
 
 If you are located in Australia, you can contact the Office of the Australian Information Commissioner at <https://www.oaic.gov.au/>.
 
 We would however ask that you please attempt to resolve any issues with us before raising with your local supervisory authority.
+
+## Glossary: definitions
 
 Defined Term | Definition  
 ---|---  
