@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the movember.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221004946id_/https%3A//us.movember.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movember.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229080951id_/https%3A//us.movember.com/privacy) for the most accurate reproduction.*
 
-# Movember United States - Privacy
+# Movember - Privacy
 
 **Date of last revision 11 October 2017**
 
