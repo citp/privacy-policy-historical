@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camden.gov.uk privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523200848id_/https%3A//www.camden.gov.uk/data-protection-privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camden.gov.uk privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229201744id_/https%3A//www.camden.gov.uk/data-protection-privacy-and-cookies) for the most accurate reproduction.*
 
 # Data protection, privacy and cookies - Camden Council
 
@@ -16,7 +16,7 @@ If you would like general information about Data Protection, the law and good pr
 
 The Council’s Data Protection Officer is Andrew Maughan who is the council’s Borough Solicitor. He can be contacted at [dpo@camden.gov.uk](mailto:dpo@camden.gov.uk)
 
-### What information do we collect about you and for what purpose?
+What information do we collect about you and for what purpose?
 
 We may collect personal data about you which covers basic details such as name, address, telephone number, and date of birth. We also collect some sensitive information such as ethnicity and religious beliefs, but only where it is required to provide a service or for monitoring equality of both for customers and employees. We will always explain to you why and how this information will be used.
 
@@ -84,9 +84,11 @@ If we wish to use your personal data for a new purpose, not in line with the pur
 
 ### Contact Camden
 
-As part of the Council’s drive towards increasing customer satisfaction with its services we try to encourage people to contact us via Contact Camden. When you telephone Camden (particularly for the first time) you will talk to one of our Contact Camden officers. They will ask you for information which will be shared within the council in order for us to deliver services for you. Failure to provide this information might affect how we can support you in line with our responsibilities. You may also be asked to give consent to the use of the information for wider purposes. If this is the case we will explain why we want that information and what we will use it for. We will stick to what we have agreed.
+As part of the Council’s drive towards increasing customer satisfaction with its services we try to encourage people to contact us via Contact Camden. When you telephone Camden (particularly for the first time) you will talk to one of our Contact Camden officers. They will ask you for information which will be shared within the council in order for us to deliver services for you. Failure to provide this information might affect how we can support you in line with our responsibilities. In some cases you may also be asked to give consent to the use of the information for wider purposes. If this is the case we will explain why we want that information and what we will use it for. We will stick to what we have agreed.
 
 For some of our services we need to collect information from you so we can contact you or to provide the service. The information that you provide will be logged on our database for future reference and this information may be accessed by other departments within the Council. This central system will record any change to your details, so that once you have told one council department you do not have to repeat this information.
+
+When you contact the council by phone, we record your call for training, monitoring, quality assurance and compliance purposes. Our legal basis for processing is Article 6(1)(e) Public task and Article 9(2)(g) Substantial public interest under the General Data Protection Regulation. We may refer to recordings to clarify details of conversations, to monitor staff performance and to improve on customer experience and quality of service. We keep voice recordings for the current year plus 1 year and call records for the current year plus 3 years and then delete in line with our retention schedule. There may be occasions when we need to keep recordings for longer, for example when further investigation is needed into a matter you have contacted us about. 
 
 ### Sharing Basic Details across Council Services- Single/Golden Record
 
@@ -200,7 +202,7 @@ The first tier includes information such as:
 
 The second tier is for selected staff in Private Sector Housing teams at all London local authorities, to view spent and unspent convictions, cautions, and civil penalty notices (up to six years old) in addition to the information in Tier 1.
 
-The Checker will support Camden housing officers, environmental health officers, fire brigade officers and trading standards officers in their enforcement efforts, through information sharing and increased awareness amongst renters, landlords and letting agents of the work that councils are doing locally to crack down on criminal behavior. The processing is considered to be necessary in respect of the performance of our underlying statutory powers of enforcement and for reasons of substantial public interest.
+The Checker will support Camden housing officers, environmental health officers, fire brigade officers and trading standards officers in their enforcement efforts, through information sharing and increased awareness amongst renters, landlords and letting agents of the work that councils are doing locally to crack down on criminal behaviour. The processing is considered to be necessary in respect of the performance of our underlying statutory powers of enforcement and for reasons of substantial public interest.
 
 Information on the Checker will be shared from three London Borough of Camden departments (private sector housing, trading standards and housing options) with the other London Boroughs.
 
