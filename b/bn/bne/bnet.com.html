@@ -1,7 +1,47 @@
-<!--The following is the downloaded HTML source of the bnet.com privacy policy that was archived on 2019-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630235716id_/https%3A//www.cbsinteractive.com/legal/cbsi/privacy-policy/highlights) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bnet.com privacy policy that was archived on 2019-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191229202941id_/https%3A//www.cbsinteractive.com/legal/cbsi/privacy-policy/highlights) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
+
+    
+            
+
+        <!-- OneTrust CMP -->
+    <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="80f94122-3412-43dd-a43e-daeb76157bce"></script>
+
+    <!-- optanon - standardized api for OneTrust -->
+    <script src="//production-cmp.isgprivacy.cbsi.com/dist/optanon.js" type="text/javascript" async=""></script>
+
+    <!-- optanon api bootstrap -->
+    <script type="text/javascript">
+        !function(n){var o=window,a="cbsoptanon",c="cmd",d="config";o[a]=o[a]?o[a]:{},o[a][c]=o[a][c]?o[a][c]:[],o[a][d]=o[a][d]?o[a][d]:[],["onIframesReady","onFormsReady","onScriptsReady","onAdsReady"].forEach(function(n){o[a][n]=o[a][n]||function(){var d=arguments;o[a][c].push(function(){o[a][n].apply(o[a],d)})}})}();
+    </script>
+
+    <script type="text/plain" class="optanon-category-1" async="" src="https://www.googletagmanager.com/gtag/js?id=UA-32029723-1" charset="utf-8"></script>
+<script>
+    // window.dataLayer = window.dataLayer || [];
+    // function gtag(){dataLayer.push(arguments);}
+    // gtag('js', new Date());
+    //
+    // gtag('config', 'UA-32029723-1');
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}    // use the bootstrap code until onetrust and cbsoptanon
+    // are present
+    cbsoptanon.onScriptsReady(function(cmp) {
+        // register a callback when consent changes
+        // and when initial preferences are set by onetrust
+        cmp.ot.addOnConsentChangedHandler(function() {
+            // if targeting/marketing is consented to
+            // fire off gtag functions / analytics
+            cmp.ot.targetingAllowed(function(allowed) {
+                if (allowed) {
+                    gtag('js', new Date());
+                    gtag('config', 'UA-32029723-1');
+                }
+            });
+        });
+    });
+</script>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>CBS Privacy Policy Highlights :: CBS Interactive</title>
     <meta name="Description" content="">
@@ -12,47 +52,15 @@
     <link rel="shortcut icon" href="/i/favicon.png">
     <meta charset="UTF-8">
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" id="evidon-settings" src="//www.cbsinteractive.com/sitenotice/425/archive/settings.js"></script><script async="" id="evidon-themes" src="//www.cbsinteractive.com/sitenotice/425/snthemes.js"></script><script async="" id="evidon-location" src="//c.evidon.com/geo/country.js"></script><script async="" id="evidon-notice" src="//www.cbsinteractive.com/sitenotice/evidon-sitenotice-tag.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta content="en_US" http-equiv="Content-Language">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-        <script type="text/javascript">
-
-        (function(id){function append(scriptid,url,async){var d=document,sn='script',f=d.getElementsByTagName(sn)[0];if(!f)f=d.head;var s=d.createElement(sn);s.async=!0;s.id=scriptid;s.src=url;f.parentNode.insertBefore(s,f)}
-            function getRootDomain(){var parts=window.location.hostname.split('.');if(parts.length===2)rootDomain=parts[0];else if(parts.length>2){var part=parts[parts.length-2];if(part==='com'||part==='co'){rootDomain=parts[parts.length-3]}
-            else{rootDomain=part}}
-                return rootDomain}
-            window.evidon={};
-            window.evidon.id=id;
-            var evidoncdn='//c.evidon.com/',
-                cdn='//www.cbsinteractive.com/',
-                rootDomain=getRootDomain(),
-                noticecdn=cdn+'sitenotice/';
-            append('evidon-notice',noticecdn+'evidon-sitenotice-tag.js',!1);
-            append('evidon-location',evidoncdn+'geo/country.js',!0);
-            append('evidon-themes',noticecdn+id+'/snthemes.js',!0);
-            if(rootDomain)append('evidon-settings',noticecdn+id+'/'+rootDomain+'/settings.js',!0);
-            window.evidon.priorConsentCallback=function(){
-
-                append('google-analytics', 'https://www.googletagmanager.com/gtag/js?id=UA-32029723-1', true);
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'UA-32029723-1');
-                append('grayscaleapp', 'https://scripts.gograyscale.com/snippets/10/chat.js', true);
-
-
-            };
-            window.evidon.closeCallback=function(){};
-            window.evidon.consentWithdrawnCallback=function(){}})(425)
-
-
-    </script>
 
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="/css/style.css?20190630">
-    <link rel="stylesheet" type="text/css" href="/content/css/pages.css?20190630">
+    <link rel="stylesheet" type="text/css" href="/css/style.css?20191229">
+    <link rel="stylesheet" type="text/css" href="/content/css/pages.css?20191229">
 
     <!--[if lt IE 9]> <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
 
@@ -174,7 +182,7 @@ gtag('config', 'UA-32029723-1');
             <li>Where we have obtained your consent, including with video content and social networking services as described in our <a href="/legal/cbsi/privacy-policy/video-services-and-social-networking" target="_blank">Video Services Policy</a>.</li>
             <li>With our third&nbsp;party service providers.</li>
             <li>With business partners who sponsor a sweepstakes, contest, or promotion; or who jointly offer a service or feature with a CBS Service.</li>
-            <li>Within the family of <a href="http://www.cbscorporation.com/our-portfolio" target="_blank">CBS businesses</a>.</li>
+            <li>Within the family of <a href="https://www.cbscorporation.com/businesses-detail/" target="_blank">CBS businesses</a>.</li>
             <li>If a CBS Service&nbsp;is sold to another company.</li>
             <li>To protect or defend the rights of CBS or our users.</li>
             <li>When required by law or public authorities.</li>
@@ -242,13 +250,15 @@ gtag('config', 'UA-32029723-1');
         <ul class="col-7">
             <li class="col-4"><a href="http://investors.cbscorporation.com/phoenix.zhtml?c=99462&amp;p=irol-irhome">Investors</a></li>
             <li class="col-4"><a href="http://legalterms.cbsinteractive.com/adchoice">Ad Choice</a></li>
-            <li class="col-4"><a href="http://www.cbscorporation.com">CBS Corporation</a></li>
+            <li class="col-4"><a href="https://www.viacbs.com/">ViacomCBS Inc.</a></li>
             <li class="col-4"><a href="/legal/cbsi/patents">Patents</a></li>
             <li class="col-4"><a href="http://legalterms.cbsinteractive.com/privacy">Privacy Policy</a></li>
             <li class="col-4"><a href="http://legalterms.cbsinteractive.com/terms-of-use">Terms of Use</a></li>
             <li class="col-4"><a href="http://legalterms.cbsinteractive.com/copyrightcomplaint">Copyright</a></li>
             <li class="col-4"><a href="http://legalterms.cbsinteractive.com/eula">Mobile Terms</a></li>
             <li class="col-4"><a href="http://legalterms.cbsinteractive.com/cookies">Cookies</a></li>
+            <li class="col-4 ca-links"><a href="https://ca.privacy.cbs/">CA Privacy/Info We Collect</a></li>
+            <li class="col-4 ca-links"><a href="https://ca.privacy.cbs/donotsell">CA Do Not Sell My Info</a></li>
         </ul>
         <div class="col-5 last">
             <div class="header-h5"><h5 style="text-align: right">Join the Conversation</h5></div>
@@ -285,6 +295,7 @@ c-2.8,1.2-5.7,2.4-8.5,3.5c-2.2,0.9-3.1-0.2-3.1-2.3C13.2,25.7,13.2,22.9,13.2,20.2
 </a>        </div>
         <div class="col-12 disclaimer">
             <p>By viewing our video content, you are accepting the terms of our <a href="http://legalterms.cbsinteractive.com/video-services">Video Services Policy</a></p>
+            <p>CBS Interactive is a ViacomCBS Company.</p>
         </div>
         <div class="col-12">
             <div class="copyright">
@@ -318,13 +329,13 @@ c-2.8,1.2-5.7,2.4-8.5,3.5c-2.2,0.9-3.1-0.2-3.1-2.3C13.2,25.7,13.2,22.9,13.2,20.2
 </div>
     
 
-            <script src="/js/scripts.min.js?20190630"></script>
+            <script src="/js/scripts.min.js?20191229"></script>
 <link rel="stylesheet" type="text/css" href="/content/css/lightbox/effect.css">
 <link rel="stylesheet" type="text/css" href="/content/css/lightbox/flashy.min.css">
 <script type="text/javascript" src="/content/js/lightbox/jquery.flashy.min.js"></script>
 <script type="text/javascript" src="/content/js/lightbox/main.js"></script>
 
-<script src="/content/js/pages.js?20190630"></script>
+<script src="/content/js/pages.js?20191229"></script>
 
 
 
@@ -334,6 +345,6 @@ c-2.8,1.2-5.7,2.4-8.5,3.5c-2.2,0.9-3.1-0.2-3.1-2.3C13.2,25.7,13.2,22.9,13.2,20.2
     
 
               
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0803f0cca8","applicationID":"12002807","transactionName":"blxbN0RTWBJXVkFcClcWbBFfHV8PUlBNGxVRSQ==","queueTime":0,"applicationTime":46,"ttGuid":"","agentToken":"","atts":"QhtYQQxJSxw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 
 </body></html>
