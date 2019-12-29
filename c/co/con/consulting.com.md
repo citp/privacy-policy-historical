@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consulting.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515010444id_/https%3A//www.consulting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consulting.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229030048id_/https%3A//www.consulting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Consulting.com
 
