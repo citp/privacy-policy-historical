@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620141957id_/https%3A//www.kongregate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229203635id_/https%3A//www.kongregate.com/privacy) for the most accurate reproduction.*
 
 # Kongregate Privacy Policy
 
@@ -263,7 +263,8 @@ In certain circumstances, the Privacy Shield Framework provides the right to inv
 For questions or concerns regarding the Privacy Policy or the use of personal information you submit to us, please contact us at support@kongregate.com or at:
 
 Kongregate Inc.  
-450 Sansome Street, 12th Floor  
-San Francisco, CA 94111 
+Floor 3, Suite 321  
+149 New Montgomery St  
+San Francisco, CA 94105 
 
-_Last updated: November 1, 2018_
+_Last updated: December 19th, 2019_
