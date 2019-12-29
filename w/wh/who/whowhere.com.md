@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whowhere.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223758id_/http%3A//info.lycos.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whowhere.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230003730id_/http%3A//info.lycos.com/resources/privacy-policy) for the most accurate reproduction.*
 
 # Lycos.com | About Lycos
 
@@ -206,7 +206,13 @@ Search the Web for as much information as you can about how to protect your priv
 
 Questions regarding this policy should be directed to:
 
-Lycos Privacy Site Coordinator Lycos, Inc. 880 Main St., 2nd FL Waltham MA 02451 (781) 472-2001 (781) 472-2001 (Fax) [privacy@lycos.com](mailto:privacy@lycos.com)
+Lycos Privacy Site Coordinator  
+Lycos, Inc.   
+177 Huntington Ave Ste 1703 #60001  
+Boston, MA 02115-3151  
+(781) 472-2001  
+(781) 472-2001 (Fax)  
+[privacy@lycos.com](mailto:privacy@lycos.com)
 
 ### Updates
 
