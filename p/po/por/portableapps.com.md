@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portableapps.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630192842id_/https%3A//portableapps.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portableapps.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229165741id_/http%3A//www.portableapps.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | PortableApps.com
 
