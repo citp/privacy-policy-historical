@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frankkern.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611083258id_/https%3A//frankkern.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frankkern.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229030220id_/https%3A//frankkern.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Frank Kern
 
@@ -28,7 +28,7 @@ You may also withdraw your consent anytime, by contacting us at support@FranKern
 
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. Also, if our site is acquired or merged with another company, your information may be transferred to the new owners so that they may continue to sell and support our products and services.
 
-**IMPORTANT:** We do not sell, rent or otherwise disclose your personal information to any third parties, including but not limited to advertisers, strategic partners or vendors. Again, we take your privacy very seriously.
+**IMPORTANT:**  We do not sell, rent or otherwise disclose your personal information to any third parties, including but not limited to advertisers, strategic partners or vendors. Again, we take your privacy very seriously.
 
 **SECTION 4 – DATA STORAGE**
 
@@ -44,7 +44,7 @@ All direct payment gateways adhere to the standards set by PCI-DSS as managed by
 
 PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-**NOTE:** At no point during the transaction does Frank Kern Inc (or FrankKern.com) take custody or store your credit card information. This is process is monitored and managed by Infusionsoft, and you can read their terms of service, privacy policy and PCI Compliance information by visiting their site at: <http://www.infusionsoft.com/legal>
+**NOTE:**  At no point during the transaction does Frank Kern Inc (or FrankKern.com) take custody or store your credit card information. This is process is monitored and managed by Infusionsoft, and you can read their terms of service, privacy policy and PCI Compliance information by visiting their site at: <http://www.infusionsoft.com/legal>
 
 **SECTION 5 – THIRD-PARTY SERVICES**
 
@@ -60,7 +60,7 @@ As an example, if you are located in Canada and your transaction is processed by
 
 Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-**Links:** When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+**Links:**  When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
 **SECTION 6 – SECURITY**
 
@@ -82,4 +82,4 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 **QUESTIONS AND CONTACT INFORMATION**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at support@FrankKernHelpDesk.com or by mail at Frank Kern Inc, 7660 Fay Ave H PMB 307 La Jolla, Ca 92037.
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at support@FrankKernHelpDesk.com or by mail at Kern Media INC, 3960 Howard Hughes Pkwy #500, Las Vegas, NV, United States of America, 89169. 858-859-9485.
