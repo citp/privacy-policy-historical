@@ -1,21 +1,117 @@
-<!--The following is the downloaded HTML source of the buzzworthy.com privacy policy that was archived on 2017-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171120024601id_/http%3A//www.buzzworthy.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buzzworthy.com privacy policy that was archived on 2019-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191229134010id_/http%3A//www.buzzworthy.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js" xmlns="https://www.w3.org/1999/xhtml" xmlns:fb="https://ogp.me/ns/fb#"><head>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+
+	
+	
+
+<meta name="dailymotion-domain-verification" content="dmauapn02ej5ayg9w">	
+	
+	
+	
 		<meta charset="UTF-8">
+	
 		<title>Privacy</title>
+	
+	
+
+	
+	
+	
+	
+	
+<script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="https://www.buzzworthy.com/wp-content/themes/buzzworthy/js/js.cookie.js"></script>
+
+<script>
+	var bw = {}
+	function parseURL(url) {
+    var parser = document.createElement('a'),
+        searchObject = {},
+        queries, split, i;
+    // Let the browser do the work
+    parser.href = url;
+    // Convert query string to object
+    queries = parser.search.replace(/^\?/, '').split('&');
+    for( i = 0; i < queries.length; i++ ) {
+        split = queries[i].split('=');
+        searchObject[split[0]] = split[1];
+    }
+    return {
+        protocol: parser.protocol,
+        host: parser.host,
+        hostname: parser.hostname,
+        port: parser.port,
+        pathname: parser.pathname,
+        search: parser.search,
+        searchObject: searchObject,
+        hash: parser.hash
+    };
+}
+
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+	
+	
+	bw.parsedurl = parseURL(window.location.href);
+	bw.dirtyslug = bw.parsedurl.pathname;
+	bw.slug = bw.dirtyslug.replace(/\//g, '');
+
+	bw.utm_campaign = getParameterByName('utm_campaign');
+	
+	
+	
+	window.globalutmsource = Cookies.get('global_utm_source');
+	window.globalutmcampaign = Cookies.get('global_utm_campaign');
+	console.log('glob utm ' + window.globalutmsource);
+	
+	if(window.globalutmsource == 'en' || window.globalutmsource == 'irsrbak' || window.globalutmsource == 'qr') {
+			if(bw.utm_campaign == '' || bw.utm_campaign == null){
+				
+				var actual_link = "/privacy/"
+				//window.location.href = 'https://www.buzzworthy.com/error.php?link='+actual_link;
+				
+				
+			}	
+		
+	}
+	
+
+	
+	
+</script>
+
+
+	
+		
 				<!-- dns prefetch -->
 		<link href="//www.google-analytics.com" rel="dns-prefetch">
 	
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,600,700" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/css?family=Lato:400,700,300" rel="stylesheet" type="text/css">
+		
+		<link href="https://fonts.googleapis.com/css?family=Merriweather:300" rel="stylesheet">
+
+		
+		<link href="https://fonts.googleapis.com/css?family=Lato:400,700|Libre+Baskerville:400,400i,700" rel="stylesheet">
+		
+		<link href="https://fonts.googleapis.com/css?family=Barlow+Condensed:400,600" rel="stylesheet">
+
+
                       
         <!-- meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
 		<meta name="google-site-verification" content="MlIv6SBhCriQt0eox3JtzHoLHO2-jcdD5eXBElweuGs">
 		<meta property="fb:admins" content="16314471">
-        <meta property="fb:629703330376290" content="629703330376290">
+       
                         
         
         
@@ -39,9 +135,14 @@
 <meta name="theme-color" content="#ffffff">
         
         
-        
-		<script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://d26b395fwzu5fz.cloudfront.net/3.2.4/keen.min.js" type="text/javascript"></script>
-        
+	
+	
+			
+
+    <style>
+    </style>
+		<script src="https://d26b395fwzu5fz.cloudfront.net/3.2.4/keen.min.js"></script>
+      
         
         <!-- Fetch the Tag Library -->
 
@@ -68,8 +169,9 @@
         <link type="text/css" rel="stylesheet" href="https://www.buzzworthy.com/wp-content/themes/buzzworthy/css/jquery.mmenu.css">
          
 
-		
-<!-- This site is optimized with the Yoast SEO plugin v5.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+		<link rel="alternate" hreflang="en" href="https://www.buzzworthy.com/privacy/">
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v10.0.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="https://www.buzzworthy.com/privacy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -77,16 +179,19 @@
 <meta property="og:description" content="Because your privacy is important to us, BUZZWORTHY has established procedures to protect any personal information you provide to us in accordance with the following principles: A. Collecting and Sharing Personal Information: We explicitly ask when we need information that personally identifies you (“Personal Information”). For example, BUZZWORTHY asks you for your name and e-mail...">
 <meta property="og:url" content="https://www.buzzworthy.com/privacy/">
 <meta property="og:site_name" content="Buzzworthy">
-<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.buzzworthy.com\/","name":"Buzzworthy","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.buzzworthy.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<!-- / Yoast SEO plugin. -->
+<meta property="fb:app_id" content="851636541662765">
+<meta property="og:image" content="https://www.buzzworthy.com/wp-content/uploads/2018/07/823355b63ab3af0a0e4d1367e89abd1c-768x432.jpg">
+<meta property="og:image:secure_url" content="https://www.buzzworthy.com/wp-content/uploads/2018/07/823355b63ab3af0a0e4d1367e89abd1c-768x432.jpg">
+<meta property="og:image:width" content="768">
+<meta property="og:image:height" content="432">
+<!-- / Yoast SEO Premium plugin. -->
 
 <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
-<link rel="dns-prefetch" href="//ssl.p.jwpcdn.com">
 <link rel="dns-prefetch" href="//s.w.org">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"\/\/www.buzzworthy.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.3"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="//www.buzzworthy.com/wp-includes/js/wp-emoji-release.min.js?ver=4.8.3" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"\/\/www.buzzworthy.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="//www.buzzworthy.com/wp-includes/js/wp-emoji-release.min.js?ver=5.2.5" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -101,37 +206,51 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="rs-settings-css" href="//www.buzzworthy.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.1.4&amp;ver=4.8.3" media="all">
-<link rel="stylesheet" id="rs-captions-css" href="//www.buzzworthy.com/wp-content/plugins/revslider/rs-plugin/css/dynamic-captions.css?rev=4.1.4&amp;ver=4.8.3" media="all">
-<link rel="stylesheet" id="rs-plugin-static-css" href="//www.buzzworthy.com/wp-content/plugins/revslider/rs-plugin/css/static-captions.css?rev=4.1.4&amp;ver=4.8.3" media="all">
-<link rel="stylesheet" id="normalize-css" href="//www.buzzworthy.com/wp-content/themes/buzzworthy/normalize.css?ver=1.0" media="all">
-<link rel="stylesheet" id="html5blank-css" href="//www.buzzworthy.com/wp-content/themes/buzzworthy/style.css?ver=5.26" media="all">
+	<link rel="stylesheet" id="wp-block-library-css" href="//www.buzzworthy.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.5" media="all">
+<link rel="stylesheet" id="normalize-css" href="//www.buzzworthy.com/wp-content/themes/buzzworthy/normalize.css?ver=1.1" media="all">
+<link rel="stylesheet" id="html5blank-css" href="//www.buzzworthy.com/wp-content/themes/buzzworthy/style.css?ver=7.15" media="all">
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/conditionizr.js/2.2.0/conditionizr.min.js?ver=2.2.0"></script>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js?ver=2.6.2"></script>
-<script type="text/javascript" src="//www.buzzworthy.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="//www.buzzworthy.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
 <script type="text/javascript" src="//www.buzzworthy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="//www.buzzworthy.com/wp-content/themes/buzzworthy/js/jquery.tooltipster.min.js?ver=4.8.3"></script>
-<script type="text/javascript" src="//ssl.p.jwpcdn.com/6/12/jwplayer.js?ver=4.8.3"></script>
-<script type="text/javascript" src="//www.buzzworthy.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.1.4&amp;ver=4.8.3"></script>
-<script type="text/javascript" src="//www.buzzworthy.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.1.4&amp;ver=4.8.3"></script>
-<script type="text/javascript" src="//www.buzzworthy.com/wp-content/themes/buzzworthy/js/jquery.infinitescroll.min.js?ver=4.8.3"></script>
+<script type="text/javascript" src="//www.buzzworthy.com/wp-content/themes/buzzworthy/js/jquery.tooltipster.min.js?ver=5.2.5"></script>
+<script type="text/javascript" src="//www.buzzworthy.com/wp-content/themes/buzzworthy/js/jquery.infinitescroll.min.js?ver=5.2.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var aamLocal = {"nonce":"9c72ee4562","ajaxurl":"https:\/\/www.buzzworthy.com\/wp-admin\/admin-ajax.php"};
+var aamLocal = {"nonce":"2ba17d4c5f","ajaxurl":"https:\/\/www.buzzworthy.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//www.buzzworthy.com/wp-content/plugins/advanced-access-manager/media/js/aam-login.js?ver=4.8.3"></script>
+<script type="text/javascript" src="//www.buzzworthy.com/wp-content/plugins/advanced-access-manager/media/js/aam-login.js?ver=5.2.5"></script>
 <link rel="https://api.w.org/" href="https://www.buzzworthy.com/wp-json/">
 <link rel="alternate" type="application/json+oembed" href="https://www.buzzworthy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.buzzworthy.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.buzzworthy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.buzzworthy.com%2Fprivacy%2F&amp;format=xml">
-			<meta property="fb:pages" content="599660620064366">
-			<script type="text/javascript">jwplayer.key='2KMMcQoWX0bhxLTaU7llRDh2dtj8sjGSTh5EDQ==';jwplayer.defaults = { "ph": 2 };</script>        
+<meta name="generator" content="WPML ver:4.2.7.1 stt:1,2;">
+<style>
+.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 768px) and (max-width: 979px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 767px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}
+</style>
+	
+        
         <link type="text/css" rel="stylesheet" href="https://www.buzzworthy.com/wp-content/themes/buzzworthy/css/modal.css">
         
         <script type="text/javascript" src="https://www.buzzworthy.com/wp-content/themes/buzzworthy/js/ie.js"></script>
        <script type="text/javascript" src="https://www.buzzworthy.com/wp-content/themes/buzzworthy/js/jquery.main.js"></script>
        <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.isotope/1.5.25/jquery.isotope.min.js"></script>
        <script type="text/javascript" src="https://www.buzzworthy.com/wp-content/themes/buzzworthy/js/jquery.jsticky.min.js"></script>
+	       <script type="text/javascript" src="https://www.buzzworthy.com/wp-content/themes/buzzworthy/js/sticky-kit.min.js"></script>
+
+	
+	
        <script type="text/javascript" src="https://www.buzzworthy.com/wp-content/themes/buzzworthy/js/js.cookie.js"></script>
        
        
@@ -196,47 +315,49 @@ var aamLocal = {"nonce":"9c72ee4562","ajaxurl":"https:\/\/www.buzzworthy.com\/wp
 
 
 
-<script type="text/javascript">
-			
-			  
-			  
-			  
-			  
-			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-			  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-			
-			  ga('create', 'UA-39522107-1', 'buzzworthy.com');
-			  ga('require', 'linkid', 'linkid.js');
-			  //ga('send', 'pageview');
-			  
-		
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-  (function() {
-    var gads = document.createElement('script');
-    gads.async = true;
-    gads.type = 'text/javascript';
-    var useSSL = 'https:' == document.location.protocol;
-    gads.src = (useSSL ? 'https:' : 'https:') +
-      '//www.googletagservices.com/tag/js/gpt.js';
-    var node = document.getElementsByTagName('script')[0];
-    node.parentNode.insertBefore(gads, node);
-  })();
-</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
 
   
   
     	<script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
-  	<script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script>
+  	
   	<script type="text/javascript" src="//native.sharethrough.com/assets/sfp.js"></script>
   	
     
   
   
+<script src="https://www.buzzworthy.com/wp-content/themes/buzzworthy/js/clipboard.js-master/dist/clipboard.min.js"></script>
 
-	</head>
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-39522107-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-39522107-1');
+</script>
+	
+	
+	
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+ (adsbygoogle = window.adsbygoogle || []).push({
+   google_ad_client: "ca-pub-5494520009736956",
+   enable_page_level_ads: true
+ });
+</script>
+		
+
+	
+	
+	<script type="text/javascript" src="//d3m4pwfre7t1u5.cloudfront.net/script.js"></script>  
+</head>
+	
+
+	
     
     
    
@@ -246,37 +367,7 @@ var aamLocal = {"nonce":"9c72ee4562","ajaxurl":"https:\/\/www.buzzworthy.com\/wp
     
     
      
-    <div class="cd-panel from-left">
-    
-   
-		
-
-		<div class="cd-panel-container">
-        
-         <header class="cd-panel-header">
-		 <strong class="flyoutlogo">buzzworthy</strong>
-		<a href="#0" class="cd-panel-close">Close</a>
-	</header>
-        
-			<div class="cd-panel-content">
-            <div class="cd-panel-content-middle">
-           
-            <div class="fbmeme"><img src="https://www.buzzworthy.com/wp-content/themes/buzzworthy/img/baby.jpg"></div>
-				<div class="fbcta"><span class="accentword">SOAK</span> IN ALL THE BREAKING CONTENT</div>
-                <div class="fblikecta">LIKE OUR FACEBOOK PAGE</div>
-                
-                </div>
-                <div class="fbcircle">
-                <div class="fb-like" data-href="https://www.facebook.com/TheBuzzworthy" data-layout="button" data-action="like" data-show-faces="true" data-share="false" style="height: 100px; overflow: hidden;"></div>
-                </div>
-
-			</div> <!-- cd-panel-content -->
-            
-		</div> <!-- cd-panel-container -->
-        <div class="blackoverlay"></div>
-	</div>
-  
-    
+       
     
     
     
@@ -516,7 +607,16 @@ src="https://www.facebook.com/tr?id=596836103797226&ev=PageView&noscript=1"
 
  
 
-
+<style>
+			
+			
+			
+	#nav-menu li {
+		display:none;
+		
+		
+	}
+			</style>
         
         
 		<header id="header" class="FixedTop">
@@ -524,12 +624,18 @@ src="https://www.facebook.com/tr?id=596836103797226&ev=PageView&noscript=1"
             <a class="menuopen" href="#nav-menu"></a>
 
 				<strong class="logo"><a href="https://www.buzzworthy.com">buzzworthy</a></strong>
+										   
 				<nav id="nav">
 					<ul>
                     <li class="sectiontitle"><a title="explore" href="https://www.buzzworthy.com/look/explore/">explore</a></li><li class="sectiontitle"><a title="entertain" href="https://www.buzzworthy.com/look/entertain/">entertain</a></li><li class="sectiontitle"><a title="express" href="https://www.buzzworthy.com/look/express/">express</a></li>                       
 					</ul>
 				</nav>
+				   
                 
+				
+				
+				
+									
                 <nav id="nav-menu">
 					<ul>
                       <li><a href="https://www.buzzworthy.com/look/explore/">EXPLORE</a></li>
@@ -537,8 +643,8 @@ src="https://www.facebook.com/tr?id=596836103797226&ev=PageView&noscript=1"
                        <li><a href="https://www.buzzworthy.com/look/express/">EXPRESS</a></li>
 					</ul>
 				</nav>
-                
-                <div class="logincontrols">
+				  
+                                <div class="logincontrols">
                  <div class="topicon">
                  <div class="facebookcounter">
                  <div class="fb-like" data-href="https://www.facebook.com/TheBuzzworthy" data-width="450" data-layout="button_count" data-show-faces="false" data-send="false"></div>
@@ -553,10 +659,6 @@ src="https://www.facebook.com/tr?id=596836103797226&ev=PageView&noscript=1"
 				
 			</div>
 		</header>
-		
-		
-        
-        
 		
             	
 	<!-- section -->
@@ -585,8 +687,10 @@ src="https://www.facebook.com/tr?id=596836103797226&ev=PageView&noscript=1"
 <h4 dir="ltr">F. General Information:</h4>
 <p dir="ltr">Please keep in mind that whenever you voluntarily disclose personal information online, that information can be collected and used by others. Therefore, when you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or from our services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and for any other personal information.</p>
 <p dir="ltr">If at any time you believe BUZZWORTHY has not adhered to these principles, please notify us via the contact us link.</p>
-<h4 dir="ltr">G. How to Opt-Out of Third Party Tracking Technologies:</h4>
-<p>Our advertising service vendors and other third parties will at times also use Tracking Technologies to serve you advertisements tailored to interests you have shown by browsing on this Service and other sites, applications, destinations, and services you have visited, and to determine whether you have seen a particular advertisement before to avoid sending you duplicate advertisements, and for other lawful business purposes. In doing so, these third parties will collect non-personally identifiable data including for example the make, model, settings, specifications (e.g., CPU speed, connection speed, browser type, operating system, device identifier) and geographic location of your computer, mobile or other device, as well as date/time stamp, IP address, pages visited, time of visits, content viewed, ads viewed, the site(s), application(s), destination(s), and/or service(s) you arrived from, and other clickstream data. The use of Tracking Technologies by third parties is subject to their own privacy policies, not this Privacy Policy, and we have no responsibility or liability in connection therewith. If you do not want the services that Tracking Technologies provide, you may be able to opt-out by visiting http://www.aboutads.info.</p>
+<h4 dir="ltr">G. Third Party Tracking and Links to Other Websites or Services:</h4>
+<p>Our websites and services include third-party advertising. These third-parties, or other third-parties that work on their behalf, may send (or “serve”) the advertisements that appear on our websites or services. These third-parties automatically receive your IP address when this occurs. These third-parties may also use cookies, Javascript, Pixel Tags and other technologies to determine how long visits last and other associated information, deliver advertisements, and to collect personal information. We do not control how these advertisers collect personal information. Visitors to our websites or services should check the Privacy Policy of the Internet advertising company or advertiser to see whether and how it collects personal information. These companies may not recognize or respond to DNT headers from web browsers. Some third-parties allow you to opt-out of, or customize your preferences regarding, third-party advertisements and services. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a></p>
+<p>Specifically, our websites and services make use of Google’s “Google Analytics” platform in order to collect data about where traffic to our websites and services originates, how long visits last, and other associated information. For more information about Google Analytics, please visit Google’s official Google Analytics webpage here. We have implemented a number of Google Analytics “Display Advertising” features on our websites and services, including “Remarketing,” “Google Display Network Impression Reporting,” the “DoubleClick Campaign Manager” integration, and “Google Analytics Demographics and Interest Reporting.” You can opt-out of Google Analytics for Display Advertising and customize Google Display Networks ads here. Google also offers other opt-outs for Google Analytics here. Alternatively, you can opt-out of the collection of data by Google and certain other advertising service providers at the Network Advertising Initiative’s opt-out page, <a href="http://www.networkadvertising.org/managing/opt_out.asp" rel="noopener" target="_blank">here</a>.</p>
+<p>Please note that our websites and services contain links to other websites or services that will not follow this Privacy Policy. For instance, clicking on an advertisement or on links or other elements on our websites or services may take you to an entirely different website or service. Links to other websites or services may use our logos or styles as a result of a co-branding agreement. These websites or services may independently send their own cookies to you and may collect data and make use of that data not in accordance with this Privacy Policy. This Privacy Policy does not apply to any other websites or services. You should check the applicable privacy policy to determine how other websites or services will handle personal information or any other data collected from or provided by you.</p>
 <p>&nbsp;</p>
 			
 			<div class="comments">
@@ -606,48 +710,65 @@ src="https://www.facebook.com/tr?id=596836103797226&ev=PageView&noscript=1"
 	<!-- /section -->
     </div>
     </div>
+		  <div style="clear:both;"></div>
     </div>
 	
 
 <footer id="footer">
 			<div class="holder">
-				<div class="footer-columer">
-					<div id="feed1" class="column">
-						<div class="headerimage"><img src="https://www.buzzworthy.com/wp-content/themes/buzzworthy/img/wired.png"></div>
-						<ul><li><a target="_blank" rel="nofollow" href="https://www.wired.com/story/thanksgiving-hack-cook-your-turkey-sous-vide">Thanksgiving Hack: Cook Your Turkey Sous Vide</a><div class="wprss-feed-meta"></div></li><li><a target="_blank" rel="nofollow" href="https://www.wired.com/story/best-amazon-fire-tablet">Which Amazon Fire Tablet is Best For You?</a><div class="wprss-feed-meta"></div></li><li><a target="_blank" rel="nofollow" href="https://www.wired.com/story/internet-week-146">While You Were Offline: Steven Mnuchin Will Show You the Money</a><div class="wprss-feed-meta"></div></li><li><a target="_blank" rel="nofollow" href="https://www.wired.com/story/dubai-airshow-photos">Behind the Scenes of the Dubai Airshow Spending Spree (Photos)</a><div class="wprss-feed-meta"></div></li></ul><div class="nav-links">    <div class="nav-previous alignleft"><a href="https://www.buzzworthy.com/privacy/page/2/">Older posts</a></div>    <div class="nav-next alignright"></div></div>					</div>
-					<div id="feed2" class="column">
-						<div class="headerimage"><img src="https://www.buzzworthy.com/wp-content/themes/buzzworthy/img/cool.png"></div>
-						<ul><li><a target="_blank" rel="nofollow" href="http://feeds.coolhunting.com/~r/ch/~3/IMua9gHMdbo/listenup-239">ListenUp: A Björk mixtape, new music by Loma, a sad farewell to Chuck Mosley and more in this week’s music</a><div class="wprss-feed-meta"></div></li><li><a target="_blank" rel="nofollow" href="http://feeds.coolhunting.com/~r/ch/~3/O9Uz1WqJFWI/linkaboutit-390">Link About It: This Week’s Picks: A sad farewell to Lil Peep, photographs from punk-era NYC, Barbie gets a hijab and more</a><div class="wprss-feed-meta"></div></li><li><a target="_blank" rel="nofollow" href="http://feeds.coolhunting.com/~r/ch/~3/oUIeTgcqp2w/interview-giampiero-bodino">Interview: Couture Jewelry Designer Giampiero Bodino: A tantalizing display at this year’s Salon Art + Design hints at the mastermind’s vision</a><div class="wprss-feed-meta"></div></li></ul><div class="nav-links">    <div class="nav-previous alignleft"><a href="https://www.buzzworthy.com/privacy/page/2/">Older posts</a></div>    <div class="nav-next alignright"></div></div>					</div>
-					<div id="feed3" class="column">
-						<div class="headerimage"><img src="https://www.buzzworthy.com/wp-content/themes/buzzworthy/img/cnn.png"></div>
-						 <ul><li><a target="_blank" rel="nofollow" href="http://rss.cnn.com/~r/rss/cnn_showbiz/~3/4mSj_Ky40b4/index.html">Country music star Mel Tillis dies</a><div class="wprss-feed-meta"></div></li><li><a target="_blank" rel="nofollow" href="http://rss.cnn.com/~r/rss/cnn_showbiz/~3/umeltlF7L6w/index.html">‘Wonder’ movie is real life for these two families</a><div class="wprss-feed-meta"></div></li><li><a target="_blank" rel="nofollow" href="http://rss.cnn.com/~r/rss/cnn_showbiz/~3/0dC4dhRk1kc/index.html">Lena Dunham apologizes for speaking in defense of ‘Girls’ colleague</a><div class="wprss-feed-meta"></div></li><li><a target="_blank" rel="nofollow" href="http://rss.cnn.com/~r/rss/cnn_showbiz/~3/25R3yOy_r6U/index.html">‘Justice League’ stumbles at the box office</a><div class="wprss-feed-meta"></div></li></ul><div class="nav-links">    <div class="nav-previous alignleft"><a href="https://www.buzzworthy.com/privacy/page/2/">Older posts</a></div>    <div class="nav-next alignright"></div></div>					</div>
-					<div class="column">
-						 <h4>info</h4>
-						<ul>
-        <li><a href="http://www.buzzworthy.com/about-buzzworthy/">About</a></li>
-        <li><a href="http://www.buzzworthy.com/terms-of-service/">Terms of Service</a></li>
-        <li><a href="http://www.buzzworthy.com/privacy/">Privacy</a></li>
-        <li><a href="mailto:adops@buzzworthy.com">Advertisers</a></li>
-        <li><a href="mailto:info@buzzworthy.com">Contact Us</a></li>
-               
-      </ul>
-						
-					</div>
-				</div>
-			</div>
+				
+				
+				 				
+											<div class="footer-columer">
+
+								<div class="column">
+							<img style="position: relative;left: 4px;top: -5px;padding-left: 16px;padding-top: 12px;width:  25px;height:  25px;" src="https://www.buzzworthy.com/wp-content/themes/buzzworthy/img/bwsmall.jpg">
+
+								<ul>
+									<li><a title="about-bw" href="http://www.buzzworthy.com/about-buzzworthy/">About</a></li>
+									<li><a title="tos-bw" href="http://www.buzzworthy.com/terms-of-service/">Terms of Service</a></li>
+									<li><a title="privacy-bw" href="http://www.buzzworthy.com/privacy/">Privacy</a></li>
+									<li><a title="ad-bw" href="mailto:adops@buzzworthy.com">Advertisers</a></li>
+									<li><a title="contact-bw" href="mailto:info@buzzworthy.com">Contact Us</a></li>
+								   
+				 				 </ul>
+
+								</div>
+
+
+									<div class="column">
+
+									<ul>
+										<li>© 2018 Buzzworthy, Inc. All Rights Reserved.</li>
+
+
+									</ul>
+
+								</div>
+
+
+
+
+							</div>
+				
+								
+				
+				
+							</div>
+	
+	
+	
+	
+	
+
+	
 		</footer>
         
        
 	</div> <!--End Wrapper-->
     
-<script type="text/javascript" src="//www.buzzworthy.com/wp-includes/js/wp-embed.min.js?ver=4.8.3"></script>
-<script type="text/javascript" src="//www.buzzworthy.com/wp-content/themes/buzzworthy/js/comment-reply.js?ver=4.8.3"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var countVars = {"disqusShortname":"wearebuzzworthy"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.buzzworthy.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.8.3"></script>
+<script type="text/javascript" src="//www.buzzworthy.com/wp-includes/js/wp-embed.min.js?ver=5.2.5"></script>
+<script type="text/javascript" src="//www.buzzworthy.com/wp-content/themes/buzzworthy/js/comment-reply.js?ver=5.2.5"></script>
 
 
 
@@ -658,12 +779,6 @@ var countVars = {"disqusShortname":"wearebuzzworthy"};
   _taboola.push({flush: true});
 </script> 
 
-<!-- /23522623/Editorial_1x1_Operational -->
-<div id="div-gpt-ad-1430257091626-3" style="height:1px; width:1px;">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1430257091626-3'); });
-</script>
-</div>
 
 
 
