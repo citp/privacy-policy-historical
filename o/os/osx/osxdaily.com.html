@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the osxdaily.com privacy policy that was archived on 2019-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190626091807id_/http%3A//osxdaily.com/osxdailycom-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the osxdaily.com privacy policy that was archived on 2019-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191229182906id_/http%3A//osxdaily.com/osxdailycom-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta property="fb:admins" content="724580831">
@@ -24,10 +24,224 @@
 
 <link rel="dns-prefetch" href="//s0.wp.com">
 <link rel="dns-prefetch" href="//s.w.org">
-		<script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=000140732189139953166:WMX-1131898171"></script><script type="text/javascript" async="" src="https://osxdaily.com/un6up8Rl5Bi9.js?ts=73781"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/cdn.osxdaily.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://cdn.osxdaily.com/wp-includes/js/wp-emoji-release.min.js?ver=5.2.2" type="text/javascript" defer=""></script>
+		<script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=000140732189139953166:WMX-1131898171"></script><script type="text/javascript" async="" src="https://osxdaily.com/un6up8Rl5Bi9.js?ts=55610"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/cdn.osxdaily.com\/wp-includes\/js\/wp-emoji.js?ver=5.3.2","twemoji":"http:\/\/cdn.osxdaily.com\/wp-includes\/js\/twemoji.js?ver=5.3.2"}};
+			/**
+ * @output wp-includes/js/wp-emoji-loader.js
+ */
+
+( function( window, document, settings ) {
+	var src, ready, ii, tests;
+
+	// Create a canvas element for testing native browser support of emoji.
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
+
+	/**
+	 * Checks if two sets of Emoji characters render the same visually.
+	 *
+	 * @since 4.9.0
+	 *
+	 * @private
+	 *
+	 * @param {number[]} set1 Set of Emoji character codes.
+	 * @param {number[]} set2 Set of Emoji character codes.
+	 *
+	 * @return {boolean} True if the two sets render the same.
+	 */
+	function emojiSetsRenderIdentically( set1, set2 ) {
+		var stringFromCharCode = String.fromCharCode;
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set1 ), 0, 0 );
+		var rendered1 = canvas.toDataURL();
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set2 ), 0, 0 );
+		var rendered2 = canvas.toDataURL();
+
+		return rendered1 === rendered2;
+	}
+
+	/**
+	 * Detects if the browser supports rendering emoji or flag emoji.
+	 *
+	 * Flag emoji are a single glyph made of two characters, so some browsers
+	 * (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @private
+	 *
+	 * @param {string} type Whether to test for support of "flag" or "emoji".
+	 *
+	 * @return {boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var isIdentical;
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * Test for Transgender flag compatibility. This flag is shortlisted for the Emoji 13 spec,
+				 * but has landed in Twemoji early, so we can add support for it, too.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + transgender symbol).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[ 0x1F3F3, 0xFE0F, 0x200D, 0x26A7, 0xFE0F ],
+					[ 0x1F3F3, 0xFE0F, 0x200B, 0x26A7, 0xFE0F ]
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
+				 * so gives us an easy test for full support.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly ([U] + [N]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[ 0xD83C, 0xDDFA, 0xD83C, 0xDDF3 ],
+					[ 0xD83C, 0xDDFA, 0x200B, 0xD83C, 0xDDF3 ]
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for English flag compatibility. England is a country in the United Kingdom, it
+				 * does not have a two letter locale code but rather an five letter sub-division code.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[ 0xD83C, 0xDFF4, 0xDB40, 0xDC67, 0xDB40, 0xDC62, 0xDB40, 0xDC65, 0xDB40, 0xDC6E, 0xDB40, 0xDC67, 0xDB40, 0xDC7F ],
+					[ 0xD83C, 0xDFF4, 0x200B, 0xDB40, 0xDC67, 0x200B, 0xDB40, 0xDC62, 0x200B, 0xDB40, 0xDC65, 0x200B, 0xDB40, 0xDC6E, 0x200B, 0xDB40, 0xDC67, 0x200B, 0xDB40, 0xDC7F ]
+				);
+
+				return ! isIdentical;
+			case 'emoji':
+				/*
+				 * Love is love.
+				 *
+				 * To test for Emoji 12 support, try to render a new emoji: men holding hands, with different skin
+				 * tone modifiers.
+				 *
+				 * When updating this test for future Emoji releases, ensure that individual emoji that make up the
+				 * sequence come from older emoji standards.
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[0xD83D, 0xDC68, 0xD83C, 0xDFFE, 0x200D, 0xD83E, 0xDD1D, 0x200D, 0xD83D, 0xDC68, 0xD83C, 0xDFFC],
+					[0xD83D, 0xDC68, 0xD83C, 0xDFFE, 0x200B, 0xD83E, 0xDD1D, 0x200B, 0xD83D, 0xDC68, 0xD83C, 0xDFFC]
+				);
+
+				return ! isIdentical;
+		}
+
+		return false;
+	}
+
+	/**
+	 * Adds a script to the head of the document.
+	 *
+	 * @ignore
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param {Object} src The url where the script is located.
+	 * @return {void}
+	 */
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.defer = script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	tests = Array( 'flag', 'emoji' );
+
+	settings.supports = {
+		everything: true,
+		everythingExceptFlag: true
+	};
+
+	/*
+	 * Tests the browser support for flag emojis and other emojis, and adjusts the
+	 * support settings accordingly.
+	 */
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
+
+	// Sets DOMReady to false and assigns a ready function to settings.
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	// When the browser can not render everything we need to load a polyfill.
+	if ( ! settings.supports.everything ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		/*
+		 * Cross-browser version of adding a dom ready event.
+		 */
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script><script src="http://cdn.osxdaily.com/wp-includes/js/twemoji.js?ver=5.3.2" type="text/javascript" defer=""></script><script src="http://cdn.osxdaily.com/wp-includes/js/wp-emoji.js?ver=5.3.2" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -42,19 +256,21 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel="stylesheet" id="wp-block-library-css" href="http://cdn.osxdaily.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="cookie-notice-front-css" href="http://cdn.osxdaily.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.2.2" type="text/css" media="all">
+	<link rel="stylesheet" id="wp-block-library-css" href="http://cdn.osxdaily.com/wp-includes/css/dist/block-library/style.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="cookie-notice-front-css" href="http://cdn.osxdaily.com/wp-content/plugins/cookie-notice/css/front.css?ver=5.3.2" type="text/css" media="all">
 <link rel="stylesheet" id="wp-syntax-css-css" href="http://cdn.osxdaily.com/wp-content/plugins/wp-syntax/css/wp-syntax.css?ver=1.1" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-lazyloadxt-fadein-css-css" href="http://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.fadein.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="a3a3_lazy_load-css" href="http://cdn.osxdaily.com/wp-content/uploads/sass/a3_lazy_load.min.css?ver=1571440752" type="text/css" media="all">
+<link rel="stylesheet" id="sharedaddy-css" href="http://cdn.osxdaily.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.css?ver=7.9.1" type="text/css" media="all">
 <link rel="stylesheet" id="social-logos-css" href="http://cdn.osxdaily.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="http://cdn.osxdaily.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.2.1" type="text/css" media="all">
 <script type="text/javascript" src="http://cdn.osxdaily.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
-<script type="text/javascript" src="http://cdn.osxdaily.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://cdn.osxdaily.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var cnArgs = {"ajaxurl":"https:\/\/osxdaily.com\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"yes","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"true","cookieTime":"31536000","cookiePath":"\/","cookieDomain":"","redirection":"","cache":"1","refuse":"no","revoke_cookies":"0","revoke_cookies_opt":"automatic","secure":"0"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://cdn.osxdaily.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.2.43"></script>
+<script type="text/javascript" src="http://cdn.osxdaily.com/wp-content/plugins/cookie-notice/js/front.js?ver=1.2.43"></script>
 <link rel="https://api.w.org/" href="http://osxdaily.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://osxdaily.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cdn.osxdaily.com/wp-includes/wlwmanifest.xml"> 
@@ -71,11 +287,13 @@ var cnArgs = {"ajaxurl":"https:\/\/osxdaily.com\/wp-admin\/admin-ajax.php","hide
 		if ('https:' == document.location.protocol) {
 			host = host.replace('http://', 'https://');
 		}
-		pl_beacon.src = host + '/un6up8Rl5Bi9.js?ts=' + Math.floor((Math.random() * 100000) + 1);
+		pl_beacon.src = host + '/' + 'un6up8Rl5Bi9' + '.js?ts=' + Math.floor((Math.random() * 100000) + 1);
 		var first_script_tag = document.getElementsByTagName('script')[0];
 		first_script_tag.parentNode.insertBefore(pl_beacon, first_script_tag);
 	})();
-</script><style type="text/css">img#wpstats{display:none}</style>
+</script><style data-context="foundation-flickity-css">/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */.flickity-enabled{position:relative}.flickity-enabled:focus{outline:0}.flickity-viewport{overflow:hidden;position:relative;height:100%}.flickity-slider{position:absolute;width:100%;height:100%}.flickity-enabled.is-draggable{-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flickity-enabled.is-draggable .flickity-viewport{cursor:move;cursor:-webkit-grab;cursor:grab}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down{cursor:-webkit-grabbing;cursor:grabbing}.flickity-prev-next-button{position:absolute;top:50%;width:44px;height:44px;border:none;border-radius:50%;background:#fff;background:hsla(0,0%,100%,.75);cursor:pointer;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.flickity-prev-next-button:hover{background:#fff}.flickity-prev-next-button:focus{outline:0;box-shadow:0 0 0 5px #09f}.flickity-prev-next-button:active{opacity:.6}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-rtl .flickity-prev-next-button.previous{left:auto;right:10px}.flickity-rtl .flickity-prev-next-button.next{right:auto;left:10px}.flickity-prev-next-button:disabled{opacity:.3;cursor:auto}.flickity-prev-next-button svg{position:absolute;left:20%;top:20%;width:60%;height:60%}.flickity-prev-next-button .arrow{fill:#333}.flickity-page-dots{position:absolute;width:100%;bottom:-25px;padding:0;margin:0;list-style:none;text-align:center;line-height:1}.flickity-rtl .flickity-page-dots{direction:rtl}.flickity-page-dots .dot{display:inline-block;width:10px;height:10px;margin:0 8px;background:#333;border-radius:50%;opacity:.25;cursor:pointer}.flickity-page-dots .dot.is-selected{opacity:1}</style><style data-context="foundation-slideout-css">.slideout-menu{position:fixed;left:0;top:0;bottom:0;right:auto;z-index:0;width:256px;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none}.slideout-menu.pushit-right{left:auto;right:0}.slideout-panel{position:relative;z-index:1;will-change:transform}.slideout-open,.slideout-open .slideout-panel,.slideout-open body{overflow:hidden}.slideout-open .slideout-menu{display:block}.pushit{display:none}</style><style type="text/css">img#wpstats{display:none}</style>
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="article">
 <meta property="og:title" content="OSXDaily.com Privacy Policy">
@@ -84,14 +302,21 @@ var cnArgs = {"ajaxurl":"https:\/\/osxdaily.com\/wp-admin\/admin-ajax.php","hide
 <meta property="article:published_time" content="2009-03-17T19:24:52+00:00">
 <meta property="article:modified_time" content="2018-05-25T02:00:51+00:00">
 <meta property="og:site_name" content="OS X Daily">
-<meta property="og:image" content="https://s0.wp.com/i/blank.jpg">
+<meta property="og:image" content="http://cdn.osxdaily.com/wp-content/uploads/2019/09/cropped-apple-touch-icon-104.png">
+<meta property="og:image:width" content="512">
+<meta property="og:image:height" content="512">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:site" content="@osxdaily">
 <meta name="twitter:text:title" content="OSXDaily.com Privacy Policy">
+<meta name="twitter:image" content="http://cdn.osxdaily.com/wp-content/uploads/2019/09/cropped-apple-touch-icon-104-270x270.png">
 <meta name="twitter:card" content="summary">
 
 <!-- End Jetpack Open Graph Tags -->
-
+<link rel="icon" href="http://cdn.osxdaily.com/wp-content/uploads/2019/09/cropped-apple-touch-icon-104-32x32.png" sizes="32x32">
+<link rel="icon" href="http://cdn.osxdaily.com/wp-content/uploads/2019/09/cropped-apple-touch-icon-104-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="http://cdn.osxdaily.com/wp-content/uploads/2019/09/cropped-apple-touch-icon-104-180x180.png">
+<meta name="msapplication-TileImage" content="http://cdn.osxdaily.com/wp-content/uploads/2019/09/cropped-apple-touch-icon-104-270x270.png">
+<style>.ios7.web-app-mode.has-fixed header{ background-color: rgba(255,255,255,.88);}</style>
 
 <script type="text/javascript" async="" src="http://s3.buysellads.com/ac/bsa.js"></script></head>
 
@@ -114,12 +339,13 @@ var cnArgs = {"ajaxurl":"https:\/\/osxdaily.com\/wp-admin\/admin-ajax.php","hide
 
 <div id="top_block">
 
+
 <script type="text/javascript"><!--
 	e9 = new Object();
     e9.size = "728x90,468x60";
 	e9.noAd = 1;
 //--></script>
-<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/OSXDailycom/ROS/tags.js"></script>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/OSXDailycom/ROS/tags.js"></script>
 
 </div>
 
@@ -217,7 +443,7 @@ var cnArgs = {"ajaxurl":"https:\/\/osxdaily.com\/wp-admin\/admin-ajax.php","hide
     e9.size = "300x250,160x600,300x600";
 	e9.noAd = 1;
 //--></script>
-<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/OSXDailycom/ROS/tags.js"></script>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/OSXDailycom/ROS/tags.js"></script>
 </div>
 
 
@@ -229,15 +455,15 @@ var cnArgs = {"ajaxurl":"https:\/\/osxdaily.com\/wp-admin\/admin-ajax.php","hide
 <ul>
  
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/25/how-install-ios-13-public-beta-iphone/" rel="bookmark">How to Install iOS 13 Public Beta on iPhone</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/28/how-backup-whatsapp-chat-iphone-ipad/" rel="bookmark">How to Backup WhatsApp Chats to iCloud on iPhone &amp; iPad</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/23/fix-ipad-stuck-apple-logo-screen/" rel="bookmark">How to Fix iPad Stuck on Apple Logo Screen</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/27/change-airpods-pro-squeeze-stems/" rel="bookmark">How to Change What AirPods Pro Stems Do When Squeezed</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/22/how-enter-dfu-mode-ipad-pro/" rel="bookmark">How to Enter DFU Mode on iPad Pro (2018 and Later)</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/26/customize-airpods-tap-controls/" rel="bookmark">How to Customize AirPods Tap Controls</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/21/enable-do-not-disturb-mac/" rel="bookmark">How to Enable Do Not Disturb on Mac</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/23/howto-recovery-mode-iphone-11-iphone-11-pro/" rel="bookmark">How to Use Recovery Mode on iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/20/word-ipad-keyboard-shortcuts/" rel="bookmark">16 Word for iPad Keyboard Shortcuts</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/22/howto-force-restart-iphone-11-iphone-11-pro-iphone-11-pro-max/" rel="bookmark">How to Force Restart iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max</a></li>
 </ul>
 </div>
 <!--endposts-->
@@ -250,7 +476,7 @@ var cnArgs = {"ajaxurl":"https:\/\/osxdaily.com\/wp-admin\/admin-ajax.php","hide
     e9.size = "300x250,160x600,300x600";
 	e9.noAd = 1;
 //--></script>
-<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/OSXDailycom/ROS/tags.js"></script>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/OSXDailycom/ROS/tags.js"></script>
 
 </div>
 
@@ -260,15 +486,15 @@ var cnArgs = {"ajaxurl":"https:\/\/osxdaily.com\/wp-admin\/admin-ajax.php","hide
 <ul>
  
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/24/ios-12-4-beta-5-macos-10-14-6-beta-3-released-for-testing/" rel="bookmark">iOS 12.4 Beta 5 &amp; MacOS 10.14.6 Beta 3 Released for Testing</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/17/beta-1-of-ios-13-3-1-ipados-13-3-1-macos-catalina-10-15-3-released-for-testing/" rel="bookmark">Beta 1 of iOS 13.3.1, iPadOS 13.3.1, MacOS Catalina 10.15.3 Released for Testing</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/24/ios-13-ipados-13-public-beta-download-now/" rel="bookmark">iOS 13 &amp; iPadOS 13 Public Beta Download Available Now</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/11/ios-12-4-4-update-download/" rel="bookmark">iOS 12.4.4 Update for iPhone 6, iPhone 5s, Older iPads, Released</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/24/macos-catalina-public-beta-download-now-available/" rel="bookmark">MacOS Catalina Public Beta Download Now Available</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/10/macos-catalina-10-15-2-update-download/" rel="bookmark">MacOS Catalina 10.15.2 Update Released for Mac, &amp; Security Updates for Older MacOS</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/18/macos-catalina-release-dates-public-beta-final/" rel="bookmark">MacOS Catalina Release Dates: Public Beta, Final Version</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/10/ios-13-3-ipados-13-3-update-download/" rel="bookmark">iOS 13.3 &amp; iPadOS 13.3 Update Released for iPhone &amp; iPad</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/17/macos-catalina-beta-2-released-for-download/" rel="bookmark">MacOS Catalina Beta 2 Released for Download</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/06/beta-4-of-macos-catalina-10-15-2-released-for-testing/" rel="bookmark">Beta 4 of MacOS Catalina 10.15.2 Released for Testing</a></li>
 </ul>
 </div>
 <!--endposts-->
@@ -289,29 +515,28 @@ var cnArgs = {"ajaxurl":"https:\/\/osxdaily.com\/wp-admin\/admin-ajax.php","hide
 <ul>
  
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/25/how-install-ios-13-public-beta-iphone/" rel="bookmark">How to Install iOS 13 Public Beta on iPhone</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/28/how-backup-whatsapp-chat-iphone-ipad/" rel="bookmark">How to Backup WhatsApp Chats to iCloud on iPhone &amp; iPad</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/24/ios-13-ipados-13-public-beta-download-now/" rel="bookmark">iOS 13 &amp; iPadOS 13 Public Beta Download Available Now</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/27/change-airpods-pro-squeeze-stems/" rel="bookmark">How to Change What AirPods Pro Stems Do When Squeezed</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/17/ios-13-beta-2-download-now/" rel="bookmark">iOS 13 Beta 2 Download Now Available</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/26/customize-airpods-tap-controls/" rel="bookmark">How to Customize AirPods Tap Controls</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/16/how-recovery-mode-iphone-xr-iphone-xs-xs-max-x/" rel="bookmark">How to Enter Recovery Mode on iPhone XR, iPhone XS &amp; XS Max, iPhone X</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/23/howto-recovery-mode-iphone-11-iphone-11-pro/" rel="bookmark">How to Use Recovery Mode on iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/15/recovery-mode-iphone-8-plus-iphone-8/" rel="bookmark">How to Enter Recovery Mode for iPhone 8 &amp; iPhone 8 Plus</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/22/howto-force-restart-iphone-11-iphone-11-pro-iphone-11-pro-max/" rel="bookmark">How to Force Restart iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max</a></li>
 </ul>
 </div>
 <!--endposts-->
 
 <div style="margin:20px 0;">
 
-<!-- tf -->
+<!-- TF 300x250_BTF -->
 <script type="text/javascript"><!--
 	e9 = new Object();
     e9.size = "300x250";
     e9.noAd = 1;
 //--></script>
-<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/OSXDailycom/ROS/tags.js"></script>
-
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/OSXDailycom/BTF/tags.js"></script>
 </div>
 
 
@@ -321,15 +546,15 @@ var cnArgs = {"ajaxurl":"https:\/\/osxdaily.com\/wp-admin\/admin-ajax.php","hide
 <ul>
  
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/24/macos-catalina-public-beta-download-now-available/" rel="bookmark">MacOS Catalina Public Beta Download Now Available</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/24/get-a-christmas-tree-blinking-lights-on-the-mac-desktop-with-treetoplights/" rel="bookmark">Get a Christmas Tree &amp; Blinking Lights on the Mac Desktop with TreetopLights</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/21/enable-do-not-disturb-mac/" rel="bookmark">How to Enable Do Not Disturb on Mac</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/18/how-remove-app-icons-mac-dock/" rel="bookmark">How to Remove App Icons from Mac Dock</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/19/how-downgrade-macos-catalina-beta/" rel="bookmark">How to Downgrade from MacOS Catalina Beta</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/11/how-use-sidecar-mac-ipad/" rel="bookmark">How to Use Sidecar on Mac with iPad as a Second Display</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/18/how-resume-download-safari-mac/" rel="bookmark">How to Resume a Download in Safari on Mac</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/10/macos-catalina-10-15-2-update-download/" rel="bookmark">MacOS Catalina 10.15.2 Update Released for Mac, &amp; Security Updates for Older MacOS</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/18/macos-catalina-release-dates-public-beta-final/" rel="bookmark">MacOS Catalina Release Dates: Public Beta, Final Version</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/07/howto-force-restart-macbook-air/" rel="bookmark">How to Force Restart a MacBook Air (2018/2019)</a></li>
 </ul>
 </div>
 <!--endposts-->
@@ -342,9 +567,9 @@ var cnArgs = {"ajaxurl":"https:\/\/osxdaily.com\/wp-admin\/admin-ajax.php","hide
 <script type="text/javascript"><!--
 	e9 = new Object();
     e9.size = "300x250";
-	e9.noAd = 1;
+    e9.noAd = 1;
 //--></script>
-<script type="text/javascript" src="//tags.expo9.exponential.com/tags/OSXDailycom/ROS/tags.js"></script>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/OSXDailycom/BTF/tags.js"></script>
 </div>
 
 	<!--posts-->
@@ -353,15 +578,15 @@ var cnArgs = {"ajaxurl":"https:\/\/osxdaily.com\/wp-admin\/admin-ajax.php","hide
 <ul>
  
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/23/fix-ipad-stuck-apple-logo-screen/" rel="bookmark">How to Fix iPad Stuck on Apple Logo Screen</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/23/howto-recovery-mode-iphone-11-iphone-11-pro/" rel="bookmark">How to Use Recovery Mode on iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/22/how-enter-dfu-mode-ipad-pro/" rel="bookmark">How to Enter DFU Mode on iPad Pro (2018 and Later)</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/22/howto-force-restart-iphone-11-iphone-11-pro-iphone-11-pro-max/" rel="bookmark">How to Force Restart iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/19/how-downgrade-macos-catalina-beta/" rel="bookmark">How to Downgrade from MacOS Catalina Beta</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/21/howto-turn-off-iphone-11-pro/" rel="bookmark">How to Turn Off iPhone 11 &amp; iPhone 11 Pro</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/18/how-resume-download-safari-mac/" rel="bookmark">How to Resume a Download in Safari on Mac</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/12/07/howto-force-restart-macbook-air/" rel="bookmark">How to Force Restart a MacBook Air (2018/2019)</a></li>
  
-<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/06/16/how-recovery-mode-iphone-xr-iphone-xs-xs-max-x/" rel="bookmark">How to Enter Recovery Mode on iPhone XR, iPhone XS &amp; XS Max, iPhone X</a></li>
+<li style="margin:16px 0; font-size:15px;">- <a style="font-weight:normal;color:#333;text-decoration:none;" href="http://osxdaily.com/2019/11/17/how-take-screenshot-iphone-11-iphone-11-pro-max/" rel="bookmark">How to Take a Screenshot on iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max</a></li>
 </ul>
 </div>
 <!--endposts-->
@@ -476,7 +701,7 @@ If a visitor has a complaint about content or anything else contained within OSX
 <p>Any changes to privacy policy and data policy will be posted here.</p>
 <p>Any questions or comments regarding this privacy policy, or otherwise, can be sent directly to osxdailycom@gmail.com</p>
 <p>Updated: May 24 2018</p>
-<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-353" class="share-facebook sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-353" class="share-twitter sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-linkedin"><a rel="nofollow" data-shared="sharing-linkedin-353" class="share-linkedin sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-353" class="share-pinterest sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li><li class="share-telegram"><a rel="nofollow" data-shared="" class="share-telegram sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=telegram" target="_blank" title="Click to share on Telegram"><span>Telegram</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow" data-shared="" class="share-jetpack-whatsapp sd-button share-icon" href="https://api.whatsapp.com/send?text=OSXDaily.com%20Privacy%20Policy%20http%3A%2F%2Fosxdaily.com%2Fosxdailycom-privacy-policy%2F" target="_blank" title="Click to share on WhatsApp"><span>WhatsApp</span></a></li><li class="share-end"></li><li class="share-skype"><a rel="nofollow" data-shared="sharing-skype-353" class="share-skype sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=skype" target="_blank" title="Click to share on Skype"><span>Skype</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-353" class="share-google-plus-1 sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-353" class="share-facebook sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-353" class="share-twitter sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-353" class="share-linkedin sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-353" class="share-pinterest sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li><li class="share-pocket"><a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li><li class="share-telegram"><a rel="nofollow noopener noreferrer" data-shared="" class="share-telegram sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=telegram" target="_blank" title="Click to share on Telegram"><span>Telegram</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=jetpack-whatsapp" target="_blank" title="Click to share on WhatsApp"><span>WhatsApp</span></a></li><li class="share-end"></li><li class="share-skype"><a rel="nofollow noopener noreferrer" data-shared="sharing-skype-353" class="share-skype sd-button share-icon" href="http://osxdaily.com/osxdailycom-privacy-policy/?share=skype" target="_blank" title="Click to share on Skype"><span>Skype</span></a></li><li class="share-end"></li></ul></div></div></div></div></div>
 <!-- Matched Content -->
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle" style="display:inline-block;width:600px;height:400px" data-ad-client="ca-pub-7321635426958037" data-ad-slot="5790820468"></ins>
@@ -520,20 +745,33 @@ urchinTracker();
 
 
 
-<!-- Powered by WPtouch Pro: 3.8.3 -->
+<!-- Powered by WPtouch Pro: 4.3.34 -->
 	<script type="text/javascript">
 		window.WPCOM_sharing_counts = {"http:\/\/osxdaily.com\/osxdailycom-privacy-policy\/":353};
 	</script>
-		<script type="text/javascript" src="http://cdn.osxdaily.com/wp-includes/js/comment-reply.min.js?ver=5.2.2"></script>
-<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201926"></script>
+						<script type="text/javascript" src="http://cdn.osxdaily.com/wp-includes/js/comment-reply.js?ver=5.3.2"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201952"></script>
 <script type="text/javascript" src="http://cdn.osxdaily.com/wp-content/plugins/wp-syntax/js/wp-syntax.js?ver=1.1"></script>
-<script type="text/javascript" src="http://cdn.osxdaily.com/wp-includes/js/wp-embed.min.js?ver=5.2.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var sharing_js_options = {"lang":"en","counts":"1"};
+var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://cdn.osxdaily.com/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=6.2.1"></script>
+<script type="text/javascript" src="http://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extra.js?ver=1.9.3"></script>
+<script type="text/javascript" src="http://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.js?ver=1.9.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var a3_lazyload_extend_params = {"edgeY":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js?ver=1.9.3"></script>
+<script type="text/javascript" src="http://cdn.osxdaily.com/wp-includes/js/wp-embed.js?ver=5.3.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cdn.osxdaily.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=7.9.1"></script>
 <script type="text/javascript">
 var windowOpen;
 			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
@@ -598,20 +836,11 @@ var windowOpen;
 				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomskype', 'menubar=1,resizable=1,width=305,height=665' );
 				return false;
 			});
-var windowOpen;
-			jQuery( document.body ).on( 'click', 'a.share-google-plus-1', function() {
-				// If there's another sharing window open, close it.
-				if ( 'undefined' !== typeof windowOpen ) {
-					windowOpen.close();
-				}
-				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
-				return false;
-			});
 </script>
-<script type="text/javascript" src="https://stats.wp.com/e-201926.js" async="async" defer="defer"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201952.js" async="async" defer="defer"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:6.2.1',blog:'6690815',post:'353',tz:'-7',srv:'osxdaily.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:7.9.1',blog:'6690815',post:'353',tz:'-7',srv:'osxdaily.com'} ]);
 	_stq.push([ 'clickTrackerInit', '6690815', '353' ]);
 </script>
 
