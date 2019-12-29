@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webstagram.one privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626052721id_/https%3A//www.webstagram.one/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstagram.one privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229113619id_/https%3A//www.webstagramsite.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Webstagram
 
-Thank you for visiting Webstagram.one Please make sure to read this privacy policy very carefully before you use the webstagram. If you do not agree with any of it, please do not use our webstagram. By using or accessing the webstagram, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. 
+Thank you for visiting Webstagramsite.com Please make sure to read this privacy policy very carefully before you use the webstagram. If you do not agree with any of it, please do not use our webstagram. By using or accessing the webstagram, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. 
 
 At Webstagram we value the privacy of our users and it’s important for us that you understand what happens to the information you provide to us. This document is to help you understand how we use, store, collect and disclose your data. 
 
