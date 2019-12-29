@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625212821id_/https%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2019-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191229191132id_/http%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Veterans United Home Loans
 
@@ -88,7 +88,7 @@ Definitions
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-  * Our affiliates include companies with a Veterans United, Military United, Neighbors, and Mortgage Research Center name; and nonfinancial companies such as Veterans United Realty and Alliance Realty Network. 
+  * Our affiliates include companies with a Veterans United, Military United, Neighbors, and Mortgage Research Center name; and nonfinancial companies such as Veterans United Realty, Veterans United Homefront, and Alliance Realty Network. 
 
   
 **Nonaffiliates** | 
@@ -197,7 +197,7 @@ Your real estate agent works to help you throughout your homebuying process, fro
 
 Veterans United Home Loans will not communicate information to your real estate agent unless we believe they need to know the information to perform their duties as your agent. Veterans United clients may opt out of providing their agent's access to the app at any time. Clients may contact [customerservice@veteransunited.com](mailto:customerservice@veteransunited.com) or alert their designated loan officer that they would prefer to not share the information with their agent. By submitting your information, you agree to allow Veterans United Home Loans to release transaction information to your real estate agent, if you choose to work with one. 
 
-**Veterans United Home Loans (Last Updated: December 21, 2016)**
+**Veterans United Home Loans (Last Updated: July 22, 2019)**
 
 Speak with a Home Loan Specialist today 
 
