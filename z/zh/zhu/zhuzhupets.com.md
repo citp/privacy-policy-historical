@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zhuzhupets.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612185605id_/https%3A//www.spinmaster.com/privacy-policy.php%3FuserLoc%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zhuzhupets.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230082002id_/https%3A//www.spinmaster.com/privacy-policy.php%3FuserLoc%3Dus) for the most accurate reproduction.*
 
 # Spin Master - Privacy Policy
 
