@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singularityhub.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612201632id_/https%3A//singularityhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singularityhub.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230203934id_/https%3A//singularityhub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Singularity Hub
 
@@ -26,7 +26,7 @@ Singularity acts as a “ **data controller** ” (defined terms used that are n
 
 ### D. Collection and Use of Your Personal Data
 
-We may collect a variety of information, including Personal Data, about you as you use our Sites and Solutions and interact with us. For a complete listing of the Personal Data we typically collect and how we use it by Site and Solution family, please [download the SU Personal Data Usage](https://su.org/wp-content/uploads/2019/02/SU-PD-Data-Usage.pdf) document. A summary of what we collect and how we use the Personal Data associated with our main Site and Solutions is compiled for your convenience below.
+We may collect a variety of information, including Personal Data, about you as you use our Sites and Solutions and interact with us. For a complete listing of the Personal Data we typically collect and how we use it by Site and Solution family, please [download the SU Personal Data Usage](https://su.org/wp-content/uploads/2019/02/SU-PD-Data-Usage.pdf) document. A summary of what we collect and how we use the Personal Data associated with our main Site and Solutions is compiled for your convenience below.
 
 **1. _Information You Give to Us_**
 
@@ -34,7 +34,7 @@ We may collect a variety of information, including Personal Data, about you as y
 
 When you become an SU community member, we collect information about you including (but not limited to) your name, your employer’s name, your work address (including your country location), and your email address. We may also collect your personal email address, a personal mailing address, and a mobile phone number. We ask members to voluntarily provide additional information in their membership profile, such as information about their educational background, professional experience, interests in exponential technologies, a photo, social media identifiers, and some other information. Members may edit their profile at any time to change, add, or remove Personal Data.
 
-We process your Personal Data for membership administration, to deliver member benefits to you, and to inform you of SU-related events, content, and other benefits or opportunities associated with your SU membership. We may also use this information to help us understand our members’ needs and interests to better tailor our Site and Solutions to meet your needs.
+We process your Personal Data for membership administration, to deliver member benefits to you, and to inform you of SU-related events, content, and other benefits or opportunities associated with your SU membership. We may also use this information to help us understand our members’ needs and interests to better tailor our Site and Solutions to meet your needs.
 
 Members can participate in local SU chapter meetings organized by volunteers which take place at various locations. We may collect registration information from SU users, community members and their guests, which we may share with a sponsoring SU partner and location hosts for purposes of verifying registration and to ensure only registered guests are allowed attendance.
 
@@ -42,7 +42,7 @@ _**b. Personal Data Provided at Live or Web Programs and Events**_
 
 SU hosts many events throughout the year. These include in-person and web-based conferences, summits, speakers’ series, and other in-person as well as virtual gatherings (collectively, “events”). If you register for one of our events and you are a member, we will access the information in your member account to provide you with information and services associated with the event. If you are not a member and you register for one of our events, we will collect your name, telephone number, address, email address and select other information, which we will store in our database(s) and use to provide you with information and services associated with the current and future events, SU community membership and SU content.
 
-If you are a presenter or speaker at one of our events, we will collect information about you including your name, employer, educational and professional background, contact information, and photograph. We may collect information provided by event attendees who evaluated your performance as a presenter. We may also make and store a recording of your voice and likeness in certain instances.
+If you are a presenter or speaker at one of our events, we will collect information about you including your name, employer, educational and professional background, contact information, and photograph. We may collect information provided by event attendees who evaluated your performance as a presenter. We may also make and store a recording of your voice and likeness in certain instances.
 
 If you attend an in person SU event, you may be offered the option to download a mobile application to help you navigate the event and plan your schedule. This event app may require the device identifier associated with your device but does not collect or use any other personal data without your consent.
 
@@ -60,7 +60,7 @@ We also conduct surveys that we use to evaluate content quality and relevance to
 
 **_d. Personal Data Provided in Site or Solution Forums and Chat Rooms_**
 
-If you participate in an SU community member or cohort forum or chat room on an SU Site or Solution, the information, including Personal Data, you provide there will be made available to others, and could be used to contact you, send you unsolicited messages, or for other purposes over which neither SU nor you will have control. Forums, chat rooms, and social media controlled by individual members of the SU member community may have additional rules and conditions or none at all. As further described in the Terms of Use applicable to Sites and Solutions, SU is not responsible for the Personal Data or any other information you choose to submit in these forums. To request removal of your Personal Data from forums and chat rooms located on SU Sites, please contact us using the [Personal Data Access Request Form](https://su.org/contact/privacy-and-data-access/). In some situations, due to current technology limitations, it may not be feasible to remove some or all of your Personal Data from these forums.
+If you participate in an SU community member or cohort forum or chat room on an SU Site or Solution, the information, including Personal Data, you provide there will be made available to others, and could be used to contact you, send you unsolicited messages, or for other purposes over which neither SU nor you will have control. Forums, chat rooms, and social media controlled by individual members of the SU member community may have additional rules and conditions or none at all. As further described in the Terms of Use applicable to Sites and Solutions, SU is not responsible for the Personal Data or any other information you choose to submit in these forums. To request removal of your Personal Data from forums and chat rooms located on SU Sites, please contact us using the [Personal Data Access Request Form](https://su.org/contact/privacy-and-data-access/). In some situations, due to current technology limitations, it may not be feasible to remove some or all of your Personal Data from these forums.
 
 **_e. Personal Data Provided for Training_**
 
@@ -74,7 +74,7 @@ If you ask us not to contact you by email at a certain email address, SU will re
 
 **_g. Personal Data Provided to Process Payment_**
 
-You may purchase Solutions using a payment card. Payment card information may be provided directly by users, via an SU Site or authorized third party event registration vendor site, into the PCI/DSS-compliant payment processing service to which SU subscribes. We do not process or store the card information. Occasionally, members or customers ask SU employees or SU event volunteers to enter payment card or other financial account information into the PCI/DSS-compliant payment processing service to which SU subscribes. We strongly encourage you not to submit this information by email. When SU employees receive payment card or other financial account information from customers or members by email, fax, phone, or mail, it is entered as instructed and then deleted or destroyed.
+You may purchase Solutions using a payment card. Payment card information may be provided directly by users, via an SU Site or authorized third party event registration vendor site, into the PCI/DSS-compliant payment processing service to which SU subscribes. We do not process or store the card information. Occasionally, members or customers ask SU employees or SU event volunteers to enter payment card or other financial account information into the PCI/DSS-compliant payment processing service to which SU subscribes. We strongly encourage you not to submit this information by email. When SU employees receive payment card or other financial account information from customers or members by email, phone, or mail, it is entered as instructed and then deleted or destroyed.
 
 **_h. Personal Data Received from Third Parties_**
 
@@ -150,11 +150,11 @@ SU Sites and select Solutions use interfaces with social media sites such as Fac
 
 SU makes community member information available through its community directory, known as the SU Global Hub, using the SU Global Site. Community members are invited to opt-in to have their information shared in the SU Global Hub.
 
-### F. International Transfers of Your Personal Data
+### F. International Transfers of Your Personal Data
 
 Singularity is headquartered in the United States and Personal Data we collect from you will be processed in the United States. The United States has not sought nor received a finding of “adequacy” from the European Union under Article 45 of the GDPR. We aim to collect and transfer Personal Data only: i) with your consent; ii) to perform a contract with you; or iii) to fulfill a compelling legitimate interest in a manner that does not outweigh your rights and freedoms.
 
-By providing us with your Personal Data, you acknowledge and agree that we may from time to time transfer any of your Personal Data to any of our offices, agents, partners, or appointed representatives located around the world. We are implementing appropriate safeguards for transfers of Personal Data originating from the European Economic Area (EEA) to countries located outside of the EEA. These safeguards include implementing standard data protection clauses that have been approved by the European Commission or (in relation to transfers from the European Union to the USA) transferring Personal Data to entities that have signed up to the EU-U.S. [Privacy Shield](https://www.privacyshield.gov/welcome). Please do not submit any Personal Data to us if you do not wish for your data to be transferred internationally.
+By providing us with your Personal Data, you acknowledge and agree that we may from time to time transfer any of your Personal Data to any of our offices, agents, partners, or appointed representatives located around the world. We are implementing appropriate safeguards for transfers of Personal Data originating from the European Economic Area (EEA) to countries located outside of the EEA. These safeguards include implementing standard data protection clauses that have been approved by the European Commission or (in relation to transfers from the European Union to the USA) transferring Personal Data to entities that have signed up to the EU-U.S. [Privacy Shield](https://www.privacyshield.gov/welcome). Please do not submit any Personal Data to us if you do not wish for your data to be transferred internationally.
 
 ### G. Your Rights and Choices Regarding Your Personal Data
 
@@ -201,7 +201,7 @@ We will retain your Personal Data for the period required to fulfill the purpose
 
 Your Personal Data is stored by SU on servers of the cloud-based database management services we engage, located primarily in the United States. Unless you request otherwise, we will retain data for the duration of your business relationship with us or for as long as is required by law. For more information on where and how long your Personal Data is stored, please contact DataSecurity@su.org.
 
-###  J. Children’s Privacy
+### J. Children’s Privacy
 
 We encourage parents and guardians to take an active role in their children’s online activities. We do not knowingly collect Personal Data from minors under the age of eighteen (18) without appropriate parental or guardian consent. If you believe that we may have collected Personal Data from someone under the applicable age of consent in your country without proper consent, please let us know using the methods described in the “How to Contact Us” section and we will take appropriate measures to investigate and address the issue promptly.
 
@@ -229,13 +229,9 @@ Attn: General Counsel
 
 Singularity Education Group
 
-NASA Research Park
+2831 Mission College Blvd
 
-Building 20, S. Akron Road
-
-MS 20-1
-
-Moffett Field, CA 94035-0001
+Santa Clara, CA 95054-1838
 
 Phone: +1 (650) 200-3434
 
@@ -252,29 +248,29 @@ When we transfer Personal Data from you across national borders, we do so in com
 
 For our individual users and customers whose use of our Solutions and Sites results in the transfer of personal information from the European Economic Area (EEA) or Switzerland to non-EEA countries, we rely on one or more of the following legal mechanisms: the EU-US Privacy Shield, the Swiss-US Privacy Shield, our terms of use, and consent of the individual.
 
-**Privacy Shield Principles.** Singularity complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union (“EU”) member countries and Switzerland transferred to the United States pursuant to Privacy Shield. Singularity has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this Policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome)
+**Privacy Shield Principles.** Singularity complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union (“EU”) member countries and Switzerland transferred to the United States pursuant to Privacy Shield. Singularity has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this Policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome)
 
-**Complaints and inquiries.** In compliance with the Privacy Shield Principles, Singularity commits to resolve complaints about your privacy and our collection or use of your Personal Data transferred to the United States pursuant to Privacy Shield. EU and Swiss individuals with Privacy Shield inquiries or complaints should first contact Singularity at [DataSecurity@su.org](mailto:DataSecurity@su.org), or call us at +1 (650) 200-3434. Singularity will respond to all such inquiries and complaints within 30 days of receiving them.
+**Complaints and inquiries.** In compliance with the Privacy Shield Principles, Singularity commits to resolve complaints about your privacy and our collection or use of your Personal Data transferred to the United States pursuant to Privacy Shield. EU and Swiss individuals with Privacy Shield inquiries or complaints should first contact Singularity at [DataSecurity@su.org](mailto:DataSecurity@su.org), or call us at +1 (650) 200-3434. Singularity will respond to all such inquiries and complaints within 30 days of receiving them.
 
-**Independent recourse.** Singularity has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint from us, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](https://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. This service is provided free of charge to you.
+**Independent recourse.** Singularity has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint from us, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](https://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. This service is provided free of charge to you.
 
-If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>
 
-**Onward transfer.**  Singularity maintains contracts with third parties that process Personal Data within the scope of the Privacy Shield. These contracts restrict such third parties’ access, use, and disclosure of Personal Data in compliance with Singularity’s Privacy Shield obligations. Singularity remains liable under the Privacy Shield Principles if third-party agents that it engages to process personal data on its behalf do so in a manner inconsistent with the Principles, unless Singularity proves that it is not responsible for the event giving rise to the damage.
+**Onward transfer.** Singularity maintains contracts with third parties that process Personal Data within the scope of the Privacy Shield. These contracts restrict such third parties’ access, use, and disclosure of Personal Data in compliance with Singularity’s Privacy Shield obligations. Singularity remains liable under the Privacy Shield Principles if third-party agents that it engages to process personal data on its behalf do so in a manner inconsistent with the Principles, unless Singularity proves that it is not responsible for the event giving rise to the damage.
 
-**Federal Trade Commission authority.**  Singularity is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+**Federal Trade Commission authority.** Singularity is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
 
-**Required disclosure.**  Singularity may be required to disclose Personal Data in response to lawful requests by public authorities, including meeting national security or law enforcement requirements
+**Required disclosure.** Singularity may be required to disclose Personal Data in response to lawful requests by public authorities, including meeting national security or law enforcement requirements
 
-**Access.**  Singularity acknowledges that EU and Swiss individuals have the right to access the personal information/data that we maintain about them. Subject to certain exceptions, upon requests and provided you provide us sufficient information to confirm your identity, Singularity will provide you with the Personal Data that we have collected about you for the purpose of enabling you to correct, amend, or delete any inaccuracies. You may make this request by contacting us at [DataSecurity@su.org](mailto:DataSecurity@su.org). If Singularity is not able to provide the information that you are requesting within 30 days of receipt of your request, we will provide you a timeline for providing the requested information. If Singularity denies access to your Personal Data, we will explain why access was denied and give you contact information for further inquiries regarding the denial of access.
+**Access.** Singularity acknowledges that EU and Swiss individuals have the right to access the personal information/data that we maintain about them. Subject to certain exceptions, upon requests and provided you provide us sufficient information to confirm your identity, Singularity will provide you with the Personal Data that we have collected about you for the purpose of enabling you to correct, amend, or delete any inaccuracies. You may make this request by contacting us at [DataSecurity@su.org](mailto:DataSecurity@su.org). If Singularity is not able to provide the information that you are requesting within 30 days of receipt of your request, we will provide you a timeline for providing the requested information. If Singularity denies access to your Personal Data, we will explain why access was denied and give you contact information for further inquiries regarding the denial of access.
 
-**Use and Choice.**  Singularity will not process Personal Data about EU and Swiss individuals maintained in reliance on the Privacy Shield for purposes other than those for which the information was originally obtained or subsequently authorized by the individual, unless an exception applies. EU and Swiss individuals may contact Singularity [link to complaints section above] at any time to withdraw consent. If you withdraw your consent, your Personal Data will not be further processed. Singularity will also provide EU and Swiss individuals with an individual opt-out choice, or opt-in for sensitive data, before we share your data with third parties other than our agents. EU and Swiss individuals may contact [link to complaints section above] Singularity to opt out of Singularity’s sharing Personal Data with most third parties, excluding those necessary for our processing, as required by law, or as necessary to protect Singularity and its users.
+**Use and Choice.** Singularity will not process Personal Data about EU and Swiss individuals maintained in reliance on the Privacy Shield for purposes other than those for which the information was originally obtained or subsequently authorized by the individual, unless an exception applies. EU and Swiss individuals may contact Singularity [link to complaints section above] at any time to withdraw consent. If you withdraw your consent, your Personal Data will not be further processed. Singularity will also provide EU and Swiss individuals with an individual opt-out choice, or opt-in for sensitive data, before we share your data with third parties other than our agents. EU and Swiss individuals may contact [link to complaints section above] Singularity to opt out of Singularity’s sharing Personal Data with most third parties, excluding those necessary for our processing, as required by law, or as necessary to protect Singularity and its users.
 
 **III. COOKIES STATEMENT**
 
 Singularity takes your privacy very seriously, including your activities in browsing Singularity owned or controlled websites and mobile application(s) (collectively, “Sites”).
 
-Our Sites use cookies and similar technologies for various purposes including to distinguish you from other users of our Sites. By continuing to use our Sites, you agree to our Cookie Statement. Cookies are small amounts of data that are stored on your computer or device when you visit a Site. Cookies don’t tell us who you are, but they do enable us to recognize your device and, where you have made various preferences or actions, they enable us to remember them. Your computer reaches us via a particular IP (Internet Protocol) address and indicates where you are connecting from and what service provider you are using; this IP address is considered Personal Data. More general information about cookies and how they work is available at [www.allaboutcookies.org](http://www.allaboutcookies.org/). Singularity is not responsible for third parties’ cookies.
+Our Sites use cookies and similar technologies for various purposes including to distinguish you from other users of our Sites. By continuing to use our Sites, you agree to our Cookie Statement. Cookies are small amounts of data that are stored on your computer or device when you visit a Site. Cookies don’t tell us who you are, but they do enable us to recognize your device and, where you have made various preferences or actions, they enable us to remember them. Your computer reaches us via a particular IP (Internet Protocol) address and indicates where you are connecting from and what service provider you are using; this IP address is considered Personal Data. More general information about cookies and how they work is available at [www.allaboutcookies.org](http://www.allaboutcookies.org/). Singularity is not responsible for third parties’ cookies.
 
 _**What Cookies Do We Collect and How Do We Use Them?**_
 
@@ -298,7 +294,7 @@ Where our Sites include links to other websites, the privacy practices may diffe
 
 Our site may also include social media features, such as the Facebook and Twitter buttons and widgets, or interactive mini-programs that run on our Sites. These features may collect your IP address, which page you are visiting on our Sites, and may set a cookie to enable the feature to function properly. Social Media features and widgets are either hosted by a third party or hosted directly on our Sites. Your interactions with these features are governed by the privacy statement of the company providing it.
 
-Most web browsers allow some control of most types of cookies through the browser settings. To find out more about cookies,  including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/). If you are located in the European Economic Area (EEA), visit [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/) for guidance in multiple languages regarding how to manage and delete advertising cookies. Please note that these reference sites are not owned, managed, or controlled in any way by Singularity, and that visiting these sites will not constitute an opt-out of cookie collection and storage for the Sites.
+Most web browsers allow some control of most types of cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/). If you are located in the European Economic Area (EEA), visit [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/) for guidance in multiple languages regarding how to manage and delete advertising cookies. Please note that these reference sites are not owned, managed, or controlled in any way by Singularity, and that visiting these sites will not constitute an opt-out of cookie collection and storage for the Sites.
 
 To opt out of being tracked by Google Analytics across all websites, visit <https://tools.google.com/dlpage/gaoptout>.
 
@@ -310,7 +306,7 @@ We may change this Cookies Statement from time to time. If we make changes, we w
 
 **_Contact Us_**
 
-If you have any questions about our Cookies Statement you can contact us at: [datasecurity@su.org](mailto:datasecurity@su.org).
+If you have any questions about our Cookies Statement you can contact us at: [datasecurity@su.org](mailto:datasecurity@su.org).
 
 Singularity University, Singularity Hub, Singularity Summit, SU Labs, Singularity Labs, Exponential Medicine, Exponential Finance and all associated logos and design elements are trademarks and/or service marks of Singularity Education Group.
 
