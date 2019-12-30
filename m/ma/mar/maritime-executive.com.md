@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the maritime-executive.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501125558id_/https%3A//www.maritime-executive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maritime-executive.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230194310id_/https%3A//www.maritime-executive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Maritime Executive
+
+####  MarEx PrivacyPolicy 
 
 **The Maritime Executive provides premium news, insight and analysis to a growing audience of global decision makers. We have held true to our values of integrity, authority and independence for more than 20 years. Central to this mission is our commitment to upholding the highest standards of data protection for our customers.**
 
