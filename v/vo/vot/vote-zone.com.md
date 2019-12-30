@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vote-zone.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624222149id_/https%3A//hyip.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vote-zone.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231001855id_/https%3A//hyip.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | HYIP.com
+# Privacy policy | HYIP.com ❝ Make Money Online
 
-We are HYIP.com ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/misc/contact/).
+We are HYIP.com ❝ Make Money Online ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/misc/contact/).
 
 ## What information we hold about you
 
