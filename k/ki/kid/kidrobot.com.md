@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidrobot.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310113046id_/https%3A//www.kidrobot.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidrobot.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231002000id_/https%3A//www.kidrobot.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Kidrobot
+# Privacy Policy– Kidrobot
 
 Kidrobot Privacy Policy
 
