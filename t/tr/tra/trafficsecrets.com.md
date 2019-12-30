@@ -1,71 +1,41 @@
-> *The following text is extracted and transformed from the trafficsecrets.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131109id_/http%3A//www.trafficsecrets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficsecrets.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230171009id_/https%3A//clickfunnels.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Traffic Secrets
+# Privacy Policy Notice - ClickFunnels
 
-### Privacy Policy
+**I. Personally-Identifiable Information and Non-Personally Identifiable Information.**
 
-This Privacy Policy governs the manner in which Traffic Secrets collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.trafficsecrets.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Traffic Secrets.
+Etison, LLC (also referred to herein as “ClickFunnels”) may collect two different types of information, Personally Identifiable Information (“PII”) and Non-Personally Identifiable Information (“Non-PII”). PII that we collect is information that identifies you as an individual – and includes your name, address, telephone number, e-mail address, credit card information, billing address and shipping information. Non-PII is aggregated information, demographic information, IP addresses, user behavior data from web interaction metrics tools and other information that does not reveal your specific identity. PII and Non-PII may be collected anytime you access or use a ClickFunnels website. PII and Non-PII may also be collected by ClickFunnels during in-person discussions, telephone conversations, and electronic or other written communications. ClickFunnels also collects information via cookies; blocking cookies may render you unable to access certain ClickFunnels products, services, or websites. 
 
-#### Personal identification information
+ClickFunnels uses PII to respond to your inquiries, provide you with services you have requested, keep you informed of services ClickFunnels thinks may be of interest to you, and otherwise personalize your experience with ClickFunnels, and other reasons. ClickFunnels does not sell or lease PII about you to others, and may in some cases be liable for so doing under the Privacy Shield Framework outlined below. ClickFunnels will provide your e-mail address to affiliates or users who refer you to us, or through whom you create a ClickFunnels account. ClickFunnels shares your PII with ClickFunnels affiliates and third parties contracting with ClickFunnels to provide services to you, including financial institutions, API integrators you have chosen, and other third party software services that you have chosen to assist you with your sales funnels. ClickFunnels employees who design our databases and software, and those employees who provide you with customer service, along with our customer service software partners, also have access to PII as part of their job in providing services to You. ClickFunnels may also share PII when required by law, or when you have expressly requested ClickFunnels to do so. ClickFunnels reserves the right to disclose and use your PII if ClickFunnels believes it is necessary to: (a) respond to legal process, e.g., a subpoena; (b) respond to a law enforcement agency’s request; (c) enforce the Terms; or (d) protect the rights, privacy, safety, property, or operations of ClickFunnels or third parties; 
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Because Non-PII does not personally identify You, ClickFunnels reserves the right to use and disclose to third parties Non-PII for any purpose. 
 
-#### Non-personal identification information
+ClickFunnels maintains reasonable physical, administrative and technical safeguards to protect PII from loss, misuse, or unauthorized access, disclosure, alteration or destruction. ClickFunnels enforces its Privacy Policy via self-assessment. 
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+ClickFunnels reserves the right to change this privacy notice, which changes will become effective upon posting of the revised notice on <https://www.clickfunnels.com/privacy>,or upon emailing of the changes to You at the email address You provided to ClickFunnels, or as required by law.
 
-#### Web browser cookies
+**II. Links to or From Other Sites.**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Except where expressly stated by ClickFunnels, ClickFunnels is not affiliated or associated with operators of any third party websites that link to or are linked from any ClickFunnels-maintained website. ClickFunnels disclaims any responsibility for the accuracy or content of information found on third party websites that link to or are linked from any ClickFunnels website. ClickFunnels disclaims any responsibility for the security of any information (including without limitation credit card and personally identifiable information (“PII”)) that you may provide to any third party. ClickFunnels reserves the right, at any time and in its sole and absolute discretion, to block links to any ClickFunnels-maintained website through technological or other means without prior notice.
 
-#### How we use collected information
+**III. Information; Registration; User Names and Passwords**
 
-Traffic Secrets may collect and use Users personal information for the following purposes:
+As a ClickFunnels website user, you will be required to create an account with ClickFunnels. You warrant that the information you provide ClickFunnels is truthful and accurate, and that you are not impersonating another person. You are responsible for maintaining the confidentiality of any password you may use to access your ClickFunnels account, and you agree not to transfer your password or User name, or lend or otherwise transfer your use of or access to your account, to any third party. You are fully responsible for all transactions with, and information conveyed to, ClickFunnels under your account. You agree to immediately notify ClickFunnels of any unauthorized use of your password or User name or any other breach of security related to your account. You agree that ClickFunnels is not liable, and you will hold ClickFunnels harmless, for any loss or damage arising from your failure to comply with any of the foregoing obligations.
 
-  * To improve customer service   
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * To improve our Site  
-We may use feedback you provide to improve our products and services.
-  * To process payments  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * To run a promotion, contest, survey or other Site feature  
-To send Users information they agreed to receive about topics we think will be of interest to them.
-  * To send periodic emails
+**IV.  ** **EU-US and Swiss-US Privacy Shield Frameworks.**
 
+ClickFunnels complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from European Union and Switzerland to the United States, respectively. ClickFunnels has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [www.privacyshield.gov](http://www.privacyshield.gov/). For full definitions of the Privacy Shield Principles, please visit [www.privacyshield.gov/EU-US-Framework](http://www.privacyshield.gov/EU-US-Framework.).
 
+Under the Privacy Shield, you have the right to access, correct, or delete your personal data. You also have the right to limit ClickFunnels’ use of your data – including the right to opt-in or out of receiving communications from ClickFunnels. To exercise any of these rights, please send an email to compliance@clickfunnels.com.
 
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+**Third party data transfer.** ClickFunnels may be liable for the transfer of EU and/or Swiss personal data to third parties acting as our agents unless we can prove we are not responsible for the event given rise to the damages.
 
-#### How we protect your information
+**The Choice Principle.** Note that we may be required to release personal data of EU and/or Swiss individuals in response to lawful requests by public authorities including to meet national security and law enforcement requirements.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, ClickFunnels commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should contact ClickFunnels at:
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+Email: compliance@clickfunnels.com
 
-#### Sharing your personal information
+Regular Mail: ClickFunnels, Attn: Legal Department, 3443 W. Bavaria Street, Eagle, Idaho 83616.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
-
-#### Third party websites
-
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
-
-#### Changes to this privacy policy
-
-Traffic Secrets has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-#### Your acceptance of these terms
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-#### Contacting us
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
-
-Traffic Secrets, LLC   
-http://www.trafficsecrets.com   
-2801 B Street,   
-Unit #575,   
-San Diego, CA 92102.
+ClickFunnels has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](https://app.clickfunnels.com/pages/8570218/%E2%80%8Bwww.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. Under certain limited conditions, individuals in the European Union or Switzerland may have the right to invoke “last resort” binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission. The Federal Trade Commission has jurisdiction with enforcement authority over ClickFunnels’ compliance with the Privacy Shield.
