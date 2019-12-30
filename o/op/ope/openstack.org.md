@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openstack.org privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621101755id_/https%3A//openstack.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openstack.org privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230201421id_/https%3A//openstack.org/privacy) for the most accurate reproduction.*
 
 # OpenStack Privacy Policy - OpenStack is open source software for creating private and public clouds.
 
@@ -8,7 +8,7 @@ This Privacy Policy describes how the OpenStack Foundation collects personal dat
 
 The OpenStack Foundation is committed to the principles of the Privacy Shield through transparent disclosure of our activities related to privacy protection. We work at carefully balancing the Foundation’s interest in using your personal data to meet its goal against any potential impact to you arising from our use.
 
-If you have any questions or concerns about this Privacy Policy, or want further information on how we balance your right to personal data protection against our interest in serving our community, please contact us at [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#4c3c3e253a2d2f350c233c29223f382d2f2762233e2b), or PO Box 1903, Austin, Texas 78767.
+If you have any questions or concerns about this Privacy Policy, or want further information on how we balance your right to personal data protection against our interest in serving our community, please contact us at [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#98e8eaf1eef9fbe1d8f7e8fdf6ebecf9fbf3b6f7eaff), or PO Box 1903, Austin, Texas 78767.
 
 ## This Policy is divided into sections:
 
@@ -203,7 +203,7 @@ Salesforce for community relationship information management;
 
 Discus for the comments features on our blog and other Web publications;
 
-Zendesk to manage incoming email and other requests, such email to [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#4825293a232d3c21262f0827382d263b3c292b2366273a2f) and [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#97f5fefbfbfef9f0d7f8e7f2f9e4e3f6f4fcb9f8e5f0);
+Zendesk to manage incoming email and other requests, such email to [[email protected]org](https://www.openstack.org/cdn-cgi/l/email-protection#99f4f8ebf2fcedf0f7fed9f6e9fcf7eaedf8faf2b7f6ebfe) and [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#096b60656560676e4966796c677a7d686a6227667b6e);
 
 Survey Monkey to administer surveys and analyze the results;
 
@@ -239,11 +239,11 @@ A tracking pixel, also known as a web bug or web beacon, is a small graphic (usu
 
 ## Part VI. Communications Policy
 
-If you do not wish to receive our email or other communications, please send your request to [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#2555574c5344465c654a55404b565144464e0b4a5742) or write us at Compliance Officer, OpenStack Foundation, P.O. Box 1903, Austin, TX 78767. Please note that it may take up to ten days to remove your contact information from our marketing communications lists, so you may receive correspondence from us for a short time after you make your request.
+If you do not wish to receive our email or other communications, please send your request to [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#6a1a18031c0b09132a051a0f04191e0b09014405180d) or write us at Compliance Officer, OpenStack Foundation, P.O. Box 1903, Austin, TX 78767. Please note that it may take up to ten days to remove your contact information from our marketing communications lists, so you may receive correspondence from us for a short time after you make your request.
 
 ## Part VII. Children
 
-None of our websites, mobile applications or services are intended for children. Do not attempt to register as a services user unless you are at least 18 years old. Do not submit information about yourself using our websites or applications if you are under 13. If you are the parent or guardian of a child under 13 who may have submitted information to us please contact us at [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#d0a0a2b9a6b1b3a990bfa0b5bea3a4b1b3bbfebfa2b7).
+None of our websites, mobile applications or services are intended for children. Do not attempt to register as a services user unless you are at least 18 years old. Do not submit information about yourself using our websites or applications if you are under 13. If you are the parent or guardian of a child under 13 who may have submitted information to us please contact us at [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#3141435847505248715e41545f424550525a1f5e4356).
 
 ## Part VIII. Security
 
@@ -259,11 +259,11 @@ We will retain your personal data only for as long as reasonably necessary to fu
 
 To determine the appropriate retention period for personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements.
 
-Please contact us at [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#ed9d9f849b8c8e94ad829d88839e998c8e86c3829f8a) if you would like more information about our data retention policies
+Please contact us at [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#b9c9cbd0cfd8dac0f9d6c9dcd7cacdd8dad297d6cbde) if you would like more information about our data retention policies
 
 ## Part X. Requests to amend or erase your personal data, or restrict our use of your personal data
 
-Our policies for complying with your requests to amend, erase, restrict or take other action with respect to your personal data are stated below. We will comply with the applicable legal requirements for these types of requests. You should communicate your request to [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#6313110a1502001a230c13060d10170200084d0c1104).
+Our policies for complying with your requests to amend, erase, restrict or take other action with respect to your personal data are stated below. We will comply with the applicable legal requirements for these types of requests. You should communicate your request to [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#e8989a819e898b91a887988d869b9c898b83c6879a8f).
 
   * **Request access**  to your personal data. This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
 
@@ -300,7 +300,7 @@ The OpenStack Foundation participates in the EU-US and Swiss Privacy Shield fram
 
 [ ](https://www.privacytrust.com/cert/125927.html)
 
-In compliance with the Privacy Shield Principles, The OpenStack Foundation commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact The OpenStack Foundation at [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#1565677c6374766c557a65707b666174767e3b7a6772) and give us the opportunity to resolve your complaint. We will respond to your complaint promptly.
+In compliance with the Privacy Shield Principles, The OpenStack Foundation commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact The OpenStack Foundation at [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#afdfddc6d9ceccd6efc0dfcac1dcdbceccc481c0ddc8) and give us the opportunity to resolve your complaint. We will respond to your complaint promptly.
 
 The OpenStack Foundation has further committed to refer unresolved Privacy Shield complaints to Privacy Trust, an alternate dispute resolution provider located in the United States. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.privacytrust.com/drs/openstack> for more information or to [raise a privacy shield complaint with PrivacyTrust](https://www.privacytrust.com/drs/openstack). The services of Privacy Trust are provided at no cost to you.
 
