@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacounty.gov privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610172033id_/http%3A//www.lacounty.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacounty.gov privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230111053id_/https%3A//www.lacounty.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – COUNTY OF LOS ANGELES
 
