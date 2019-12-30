@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the tigerdirect.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429012221id_/http%3A//www.tigerdirect.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdirect.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230195222id_/http%3A//www.tigerdirect.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at TigerDirect.com
 
-**TigerDirect Business Privacy Policy**
-
-**Effective Date: February 17th, 2016** ****  
-**Last Updated: April 16, 2018** ****
+**Effective Date: February 17th, 2016**  
+**Last Updated: April 16, 2018**
 
 We at Tiger Direct Business ("TigerDirect", "we" or "us") understand that making purchases online involves a great deal of trust on your part. We take that trust seriously and hope this privacy policy (the "Policy") is to help you understand what kind of Personal Information we may gather about you when you visit the TigerDirect Business Web site located at www.TigerDirect.com and related sub- domains (the Site), how we may use the Personal Information you have provided to us, to whom we disclose such Personal Information, and how you can correct or update the Personal Information you have provided us.
 
@@ -33,6 +31,8 @@ To assist you with your review of our Policy, we have provided answers or questi
   * ONLINE VS. OFFLINE PRACTICES
   * CONTACTING TIGERDIRECT BUSINESS
 
+
+
 **WHAT INFORMATION WE COLLECT ABOUT YOU**  
 When you visit our Site, we collect information directly from you as well as through the use of cookies and web beacons about (i) your computer such as its IP address, operating systems and browser software; (ii) the website that you came from before visiting our Site, which pages of the Site you visited, the order in which you visited those pages, and which hyperlinks you clicked; and (iii) demographic information about you regarding age and range of income levels. This is all done for the purposes of (i) assessing our Site traffic and the effectiveness of our Site content; (ii) diagnosing problems with our servers, and (iii) improving the quality of your Site visits. We may also collect information pertaining solely to corporations, government or educational entities, or other business or non-profit, which at times may involve us purchasing third party information about businesses and other entities from others. The company information we purchase may include number of employees or annual sales information or similar information to better serve our organizational customers. We may use any such corporate information without restriction. We also collect your Personal Data, which we explain further directly below. We do not track our Site visitors when they are on third-party websites.
 
@@ -56,6 +56,8 @@ We collect only that Personal Information that you specifically and voluntarily 
   * Participate in a survey
   * Register at our website
 
+
+
 Please note the site is intended for use by residents of the U.S. only who are over the age of eighteen (18). We do not knowingly collect Personal Information from children younger than thirteen (13) years of age.
 
 **HOW WE USE THE PERSONAL INFORMATION WE COLLECT**  
@@ -74,6 +76,8 @@ We may share or disclose your Personal Information with:
   * Our affiliated or related companies (collectively, our “affiliates”);
   * Our service providers, consultants, professional advisors and contractors who perform services on our behalf. For example, we may disclose your Personal Information to a third party designed to determine the accuracy of and/or to update the Personal Information we have collected. We may also combine data that we collect online with data collected offline (such as through purchases made through one of our catalogs), or with data provided by other parties;
   * Unaffiliated third party individuals or entities, such as our marketing or business partners, not affiliated with TigerDirect Business or our affiliates. Please note that, although we only work with third parties whom we believe to be reputable, our third-party marketing partners may have different privacy policies and practices than ours and we are not responsible for the privacy practices of our marketing partners or any other third parties.
+
+
 
 In the event that we sell or otherwise transfer to a third party assets related either (a) to the Site (b) to one or more of our businesses, divisions or affiliated companies, we reserve the right to also transfer any and all information (including any Personal Information) associated with the Site and/or any business, division or affiliated company to such third party.
 
