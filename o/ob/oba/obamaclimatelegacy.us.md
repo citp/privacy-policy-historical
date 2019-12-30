@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the obamaclimatelegacy.us privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105071945id_/https%3A//resources.flippa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obamaclimatelegacy.us privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230200123id_/https%3A//resources.flippa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Flippa Resources
+# Privacy Policy |
 
 This privacy policy sets out how **Flippa.Com Pty Ltd** (ACN 135 570 713) **(“Flippa”/ “we” / “us”/ “our”)** handles “personal information” or “personal data” you provide to us or that we collect when you use our goods and services **(“Personal Information”)**.
 
