@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bislr.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519215205id_/https%3A//www.autopilothq.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bislr.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230141502id_/https%3A//www.autopilothq.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Autopilot Privacy Policy: visual marketing automation software
 
@@ -113,7 +113,7 @@ We use commercially reasonable physical, technical and administrative measures t
 
 ## EU - U.S. and Swiss - U.S. Privacy Shield
 
-With respect to the Personal Information we receive from or on behalf of our customers in the EU and Switzerland, AutopilotHQ, Inc. in the U.S. complies with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, as set forth by the U.S. Department of Commerce. You can review our Privacy Shield Notice at [https://autopilothq.com/legal/privacy-policy](https://web.archive.org/legal/privacy-policy "Privacy Policy")
+With respect to the Personal Information we receive from or on behalf of our customers in the EU and Switzerland, AutopilotHQ, Inc. in the U.S. complies with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, as set forth by the U.S. Department of Commerce. You can review our Privacy Shield Notice at [https://www.autopilothq.com/legal/privacy-shield](https://web.archive.org/legal/privacy-shield "Privacy Shield")
 
 ## Access to personal information
 
