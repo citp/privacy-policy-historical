@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the carbonfund.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401080941id_/https%3A//carbonfund.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonfund.org privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230043557id_/https%3A//carbonfund.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Carbonfund.org
+# Privacy Policy Donor Information - Carbonfund.org Foundation
 
-Our Commitment to Our Donors 
+## Our Commitment to Our Donors
 
-We will not sell, share or trade our donors’ names or personal information with any other entity, nor send mailings to our donors on behalf of other organizations. 
+We will not sell, share or trade our donors’ names or personal information with any other entity, nor send mailings to our donors on behalf of other organizations.
 
-This policy applies to all information received by Carbonfund.org Foundation, both online and offline, on any Platform (“Platform”, includes the Carbonfund.org Foundation website and mobile applications), as well as any electronic, written, or oral communications.
+This policy applies to all information received by Carbonfund.org Foundation, both online and offline, on any Platform (“Platform”, includes the Carbonfund.org Foundation website and mobile applications), as well as any electronic, written, or oral communications.
 
 To the extent any donations are processed through a third-party service provider, our donors’ information will only be used for purposes necessary to process the donation.
 
-The following statement details the Carbonfund.org Foundation, Inc. privacy policy. You may also be interested in our [**Terms of Use**](https://carbonfund.org/terms-of-use/). If you have any questions, please [**contact us**](https://carbonfund.org/contact/).
+The following statement details the Carbonfund.org Foundation, Inc. privacy policy. You may also be interested in our [ **Terms of Use**](https://carbonfund.org/terms-of-use/). If you have any questions, please [ **contact us**](https://carbonfund.org/contact/).
 
 ### What personal information is collected and how is it used?
 
@@ -28,16 +28,16 @@ When persons visit our site, data collected by our computers will not be publicl
 
 ### What other types of information are collected, and how are they used?
 
-#### Cookies:
+#### Cookies
 
 Carbonfund.org uses “cookie” messages to automatically help provide better services. They remind us who you are and how you like to use our web site, based on what you’ve done and told us before. The “cookie” is placed in your computer and is read when you come back to our web site. Cookies let us take you to the information and features you’re particularly interested in. They also let us track your and others’ usage, so we know which parts of our sites are most popular. You can reject cookies or very easily cancel them later. If you would like your browser to reject cookies, you can instruct your browser to do so although some features might become unavailable.
 
-#### Aggregate information:
+#### Aggregate information
 
 When guests enter our site, our server picks up information used to help us provide our users with better services and for internal record keeping. This information is picked up automatically from your Internet Service Provider and web browser, and includes your type of computer operating system and the browser that you are using, IP addresses, and demographic data. Also collected is the number of people viewing our web site. This information is collected in non-identifiable form.
 
 #### What if a person has questions about the privacy of this site?
 
-It is our hope that you enjoy and feel comfortable exploring our web site. If you feel that we are not abiding by our posted privacy policy in any respect, please immediately contact us via mail at 853 Main Street East Aurora, NY 14052 or via email at [info@carbonfund.org](mailto:info@carbonfund.org).
+It is our hope that you enjoy and feel comfortable exploring our web site. If you feel that we are not abiding by our posted privacy policy in any respect, please immediately contact us via mail at 853 Main Street East Aurora, NY 14052 or via email at [info@carbonfund.org](mailto:info@carbonfund.org).
 
 What happens when our privacy policy is updated? We may update our web site or make changes in our procedure, which may require an update to our privacy policy. This change would appear in our posted policy and your continued usage of our site would indicate agreement and compliance with this new policy.
