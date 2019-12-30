@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolbusinessideas.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502170518id_/https%3A//www.coolbusinessideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbusinessideas.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230215859id_/https%3A//www.coolbusinessideas.com/privacy-policy) for the most accurate reproduction.*
 
 # CoolBusinessIdeas.com | Privacy Policy
 
@@ -62,7 +62,7 @@ We bear no responsibility in such cases.
 **Spam filtering**
 
 If you are using spam filtering software, you can enter the following email address into your filtering software’s “white list” to ensure you continue to receive  
-CoolBusinessIdeas.com email messages: [bizness@CoolBusinessIdeas.com](https://web.archive.org/web/20190502170518id_/https://www.coolbusinessideas.com/privacy-policy/bizness@CoolBusinessIdeas.com).  
+CoolBusinessIdeas.com email messages: [bizness@CoolBusinessIdeas.com](https://web.archive.org/web/20191230215859id_/https://www.coolbusinessideas.com/privacy-policy/bizness@CoolBusinessIdeas.com).  
 For best results, add our domain, [www.coolbusinessideas.com](https://www.coolbusinessideas.com/), to your email client’s whitelist.
 
 **IP address**
