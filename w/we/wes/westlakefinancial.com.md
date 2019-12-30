@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the westlakefinancial.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611074721id_/https%3A//www.westlakefinancial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlakefinancial.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230225346id_/https%3A//www.westlakefinancial.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Westlake Financial Services
+# Privacy Notice - Westlake Financial
 
-Westlake Services, LLC d/b/a Westlake Financial Services (“Westlake”) is committed to respecting the individual rights of our customers. We are providing this privacy notice to inform you of our privacy and security practices regarding our relationship with you.
+Westlake Services, LLC d/b/a Westlake Financial (“Westlake”) is committed to respecting the individual rights of our customers. We are providing this privacy notice to inform you of our privacy and security practices regarding our relationship with you.
 
-Please view our privacy policy and opt-out notice [here](https://westlakefinancial.blob.core.windows.net/media/WFS-Privacy-Notice.pdf).  
-California residents: View California opt-out notice [here](https://westlakefinancial.blob.core.windows.net/media/WFS-California-Opt-Out-Notice.pdf).
+Please view our privacy notice [here](https://westlakefinancial.blob.core.windows.net/media/2019-Westlake-Joint-Privacy-Notice.pdf).  
+California residents only: Please view our privacy notice [here](https://westlakefinancial.blob.core.windows.net/media/2019-Westlake-Joint-Privacy-Options-CA.pdf).
 
 ## **PRIVACY POLICY – ONLINE SUPPLEMENT**
 
