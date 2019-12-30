@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apester.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235514id_/https%3A//apester.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apester.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230171232id_/https%3A//apester.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Apester
 
