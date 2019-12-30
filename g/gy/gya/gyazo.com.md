@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gyazo.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626215706id_/https%3A//gyazo.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gyazo.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230195304id_/https%3A//gyazo.com/doc/privacy) for the most accurate reproduction.*
 
 # Gyazo - Privacy Policy
 
@@ -150,6 +150,10 @@ While this Policy states our standards for maintenance of Personal Information a
 #### Links to Third Party Websites
 
 Please be advised that a Nota, Inc. Site, Product or Service may contain certain hyperlinks to other websites.  Although these websites may have privacy policies, all of these websites and their privacy policies are independent of our Website and this Policy.  We are not responsible for compliance with other websites’ privacy policies or data collection practices.  You should review these privacy policies carefully before providing Personal Information to these websites.
+
+#### YouTube Upload Feature (YouTube API Services)
+
+Gyazo uses YouTube API Services to provide the option to upload your video captures to YouTube. By using this feature you agree to be bound by the YouTube terms of service. The YouTube terms of service can be seen at <https://www.youtube.com/t/terms> We use, process, and share some of your information with third parties such as for advertisement, as described in section B and C on this page. Your use of the upload feature via YouTube API Services is covered by Google's Privacy Policy which can be seen at <http://www.google.com/policies/privacy> In addition to the normal procedure for deleting your stored data on Gyazo, you can revoke Gyazo's access to your data via the Google security settings page at <https://security.google.com/settings/security/permissions> If you have any questions or complaints about our privacy practies you can contact us at <https://gyazo.com/contact>
 
 #### Contacting Nota, Inc.
 
