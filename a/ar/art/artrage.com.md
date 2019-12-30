@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artrage.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628105703id_/https%3A//www.artrage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artrage.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230113742id_/https%3A//www.artrage.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ArtRage
 
@@ -50,11 +50,11 @@ The artrage.com website may contain links to third-party websites, products, wid
 
  **Google Services**
 
-The artrage.com website uses various technologies to collect and store general website usage information via Google services. Learn more about the [Google’s Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy").
+The artrage.com website uses various technologies to collect and store general website usage information via Google services. Learn more about the [Google’s Privacy Policy](https://www.google.com/policies/privacy/ "Google Privacy").
 
  **Amazon Affiliate**
 
-Ambient Design has an affiliate relationship with the Amazon store and benefits from any purchases made on the artrage.com website through Amazon sales. Learn more about [Amazon’s Privacy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496 "Amazon Privacy").
+Ambient Design has an affiliate relationship with the Amazon store and benefits from any purchases made on the artrage.com website through Amazon sales. Learn more about [Amazon’s Privacy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496 "Amazon Privacy").
 
  **Apple Software**
 
@@ -62,7 +62,7 @@ Ambient Design provides software for the iPad and iPhone, sold via the Apple App
 
  **Facebook and other social networks**
 
-The artrage.com website links out into various social networks for the art community, such as Facebook. More information about [Facebook’s Privacy](http://www.facebook.com/help/445588775451827 "Facebook Privacy").
+The artrage.com website links out into various social networks for the art community, such as Facebook. More information about [Facebook’s Privacy](https://www.facebook.com/help/445588775451827 "Facebook Privacy").
 
 ### Children’s Information
 
