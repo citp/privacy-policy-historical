@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingweb.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331154747id_/https%3A//www.accountingweb.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingweb.co.uk privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230223504id_/https%3A//www.accountingweb.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | AccountingWEB
 
@@ -174,27 +174,26 @@ You have the right to obtain a copy of the personal data we hold about you. You 
 
 **Cookies**
 
+A cookie is a small text file written to your hard drive that contains information about your account and use of this site. Cookies enable us to collect useful information and to improve your experience when accessing and using our site.
+
 Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
 
-There is a notice on our home page which describes how we use cookies and which also provides a link to our website privacy policy. This notice will give you an opportunity to consent to our use of cookies for the purposes described in this policy and our website privacy policy.
+There is a popup when you visit our website which asks for your permission for us and our partners to use cookies on our platform (apart from where we have a Legitimate Interest to do so). The consent you give us is stored in a Consent Management Platform (Quantcast) and you can remove consent at anytime by either clicking "More Options" in the Popup or via the link at the top of this privacy policy.
 
-A cookie is a small text file written to your hard drive that contains information about your account and use of this site. Cookies do not contain any personal information about users. Cookies enable us to collect useful information and to improve your experience when accessing and using our site. The cookies we use on our site include:
+The cookies we use on our site include:
 
-  * **Snowplow**  
- _We use this this service to improve your experience across the sites_
+  * **Quantcast**  
+ _We use this this service to manage your consent choices._
 
   * _The service:_
 
-    * This service runs in the background on our sites and sends one or more cookies to your computer, or handheld device to collect non-identifiable information. Where you have provided personal data, we use Snowplow to match your anonymous data to your personal data. These cookies are used to help improve the quality of our service, including for storing user preferences, improving ad selection, content recommendations, and search results, as well as tracking user trends, such as what content people consume. We also use cookies in our advertising services to help advertisers and publishers serve and manage ads across the web.
+    * This service runs in the background and drops a cookies to your computer, or handheld device. It helps us to collect, record, and pass  your advertising consent to our thrid party suppliers that participate in the IAB framework (<http://advertisingconsent.eu/>). Note that Google is  not currently IAB framework.
 
-  * _The data Snowplow stores about you:_
+  * _The data Quantcast stores about you:_
 
-    * Your non-identifiable browsing history across any of our sites; including but not limited to, device type, pageviews, depth of visit, dwell time, advertisements interaction. We match identifiable data that you provide us to these metrics.
-
-
+    * A unique identifier with a record of what you have consented too.
 
 
-For more details on Snowplow please visit their website <https://snowplowanalytics.com/>
 
   * **Google Analytics**  
  _We use this this service to improve your experience across the sites_
@@ -230,17 +229,6 @@ For more details on Google Analytics please visit their website[ http://www.goog
 
     * Drupal (<http://drupal.com/>) is our content management system and sets cookies to store user initiated interface preferences. This helps make your visits easier and the site more useful to you.
 
-  * **Convertr**  
-We use this service to validate data received via forms for example company name and email address.  Convertr will set the following cookies:
-
-
-
-What it does | Duration | Mandatory | Action  
----|---|---|---  
-The PHPSESSIONID cookie is a mandatory cookie for the Convertr platform to operate.We use this cookie to give the user feedback messages around form errors and to temporarily persist application data to this user. | This cookie will last for a maximum of 24 hours or be automatically removed when you close your browser | Yes | [Opt-out](https://sift.cvtr.io/cookies/optout)  
-The cvtr cookie is used to track which data source your clickcame from. We use this only to attribute your click & conversion to the correct data source within our platform for reporting. | 30 days | No | [Opt-out](https://sift.cvtr.io/cookies/optout)  
-  
-  * For more details on Convertr please visit their website [https://www.convertrmedia.com/ ](https://www.convertrmedia.com/)
 
 
 
@@ -250,7 +238,7 @@ Third parties (including, for example, advertising networks and providers of ext
 
 **Managing cookies**
 
-If you wish to restrict or block the cookies which are set by our site, you can do this through your browser settings. The "help" function within your browser should provide information about this. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
+If you do not wish to manage your consent choices through our Consent Management Platform then you can also do this through your browser settings. The "help" function within your browser should provide information about this. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
 
 **Changes to our privacy policy**
 
