@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myanimelist.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630045010id_/https%3A//myanimelist.net/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myanimelist.net privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230161305id_/https%3A//myanimelist.net/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyAnimeList.net
 
