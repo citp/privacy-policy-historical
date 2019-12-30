@@ -1,8 +1,38 @@
-> *The following text is extracted and transformed from the free-av.de privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623071812id_/https%3A//www.avira.com/en/general-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-av.de privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230165950id_/https%3A//www.avira.com/en/general-privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# General Privacy
 
-## Introduction
+##  We do not sell your data to third parties 
+
+At Avira, we consider it our responsibility to protect your data and privacy as best we can. As a German company with headquarters by Lake Constance, we have always been subject to one of the strictest data protection laws in the world. 
+
+Millions of customers already entrust us with their data as we apply the highest safety standards when storing and processing it. Moreover, we only collect data if absolutely necessary and in the best interests of our customers, for example, to send them a product activation code per email. 
+
+In the following, you will discover how we implement the prescribed measures of the new General Data Protection Regulation (GDPR):
+
+ 
+
+###  Data Protection Policy 
+
+  * Introduction
+  * How can you contact us?
+  * What do we mean by certain terms?
+  * What personal data is processed by us? 
+  * Why and on what legal basis do we store personal data?
+  * How do we use cookies, analysis and tracking tools, and social media registrations?
+  * Why and who do we share personal data with?
+  * How do we collaborate with partners on your behalf? 
+  * What do we use international partners for?
+  * What data protection settings are available?
+  * How can you revoke your consent?
+  * What are your rights?
+  * How do we protect personal data?
+  * What possibilities are there for minors to use our services?
+  * What other information is important?
+
+ 
+
+### Introduction
 
 This Privacy Policy is intended to provide information on the processing of personal data in our companies. We hereby fulfill our statutory obligations under the Telemedia Act (TMG) and the EU General Data Protection Regulation (EU-GDPR, EU 2016/679), in particular Articles 13 and 14 as well as Article 26(2). 
 
@@ -17,6 +47,8 @@ In this document we also explain how we use cookies and analysis tools throughou
 Please note that further information may be added to our Privacy Policy depending on the product or service concerned.
 
 We always adhere to applicable data protection legislation and this Privacy Policy. We only share data with others as described in these provisions.
+
+### How can you contact us?
 
 Which Avira company is responsible for you? If you live outside the USA or Canada, the following Avira companies may be responsible, depending on the respective contract:
 
@@ -50,7 +82,7 @@ Email: [data-privacy@avira.com](mailto:data-privacy@avira.com)
 
 
 
-## What do we mean by certain terms?
+### What do we mean by certain terms?
 
 #### Anonymization
 
@@ -116,7 +148,7 @@ Freely selectable network name.
 
 Internet based software solution for managing your account or your settings.
 
-## What personal data is processed by us? 
+### What personal data is processed by us? 
 
 We process different data when you install or use our products or visit our websites. This data may be directly or indirectly of a personal nature, i.e. it may involve other data sources. 
 
@@ -192,7 +224,7 @@ Avira Identity Scanner provides continuous monitoring of personal data on the we
 
 For certain features, we access the location data of your device. 
 
-## Why and on what legal basis do we store personal data?
+### Why and on what legal basis do we store personal data?
 
 ### Processing purposes:
 
@@ -237,6 +269,8 @@ Should the data no longer be used, it will be anonymized and/or deleted in accor
 Should you wish to have your data deleted, please note that we are able to block your data immediately but for legal reasons or due to technical restrictions it may take up to 180 days to permanently delete your data from the live systems. 
 
 Furthermore, please note that after confirming your deletion request it will no longer be possible to restore your data.
+
+### How do we use cookies, analysis and tracking tools, and social media registrations?
 
 When you use a product or service, cookies are uploaded to your browser. Cookies may be used to identify your browser so that our website is displayed correctly. We also use cookies at various points on our website to analyze the use of our website and thereby optimize it, such as the shopping cart function for orders in the Avira online store. 
 
@@ -308,11 +342,11 @@ Here are a few examples:
 
 
 
-## How do we collaborate with partners on your behalf?
+### How do we collaborate with partners on your behalf?
 
 We collaborate with partners for selected products and services as joint controllers within the meaning of Article 26 GDPR. We jointly define the purpose and means of processing with these companies. For this, personal data may also be forwarded. In accordance with the GDPR, both companies are then responsible for this processing and/or the legally compliant handling of your data. 
 
-## What do we use international partners for?
+### What do we use international partners for?
 
 We use a global IT infrastructure including computers, cloud-based servers, networks, and software solutions of international companies to provide our services.
 
@@ -329,11 +363,11 @@ Compliance with statutory obligations and requirements is guaranteed by our part
 
 Further, in certain specific cases your personal data may be forwarded to third countries based on your express consent.
 
-## What data protection settings are available?
+### What data protection settings are available?
 
 Our products offer you a number of options and settings. These are usually explained to you when you first use or register for them. It is quite possible that by changing the settings, certain services may no longer function properly.
 
-## How can you revoke your consent?
+### How can you revoke your consent?
 
 If you have given us your consent to process certain data, e.g. to receive a newsletter or third-party offers, you have the right to revoke this consent – also in part – at any time. You can usually do so at my.avira.com or by contacting us directly.
 
@@ -341,7 +375,7 @@ If data processing is based on a weighing of interests pursuant to Article 6(1)f
 
 In the case of direct advertising, you have a general right to object without having to provide information on the particular situation. Please inform us of your objection in writing (e.g. email) or by telephone.
 
-## What are your rights?
+### What are your rights?
 
 You have the following rights in connection with your personal data, subject to possible legal restrictions:
 
@@ -394,7 +428,7 @@ Königstrasse 10a, 70173 Stuttgart
 
 
 
-## How do we protect personal data?
+### How do we protect personal data?
 
 We have implemented safeguards to protect your personal data that are both state-of-the-art within the software industry and meet the requirements of data protection legislation. These are continuously checked and, if necessary, adapted. The objective is to protect your data against accidental or intentional manipulation, partial or total loss, destruction, or unauthorized knowledge or access by third-parties. 
 
@@ -404,11 +438,11 @@ We protect our systems and processing with a series of technical and organizatio
 
 Our employees are regularly trained in the sensitive handling of personal data and are obliged to observe data secrecy in accordance with legal requirements.
 
-## What possibilities are there for minors to use our services?
+### What possibilities are there for minors to use our services?
 
 Our products and services may not be ordered or installed by minors.
 
-## What other information is important? 
+### What other information is important? 
 
 ### Public information:
 
@@ -421,3 +455,9 @@ This Privacy Policy is revised on an ad-hoc basis to adapt it to current develop
 Effective: 18 February, 2019
 
 Version: 3.5 
+
+ 
+
+###  Archived Privacy Policies 
+
+[See past versions of our Privacy Policy >](https://web.archive.org/en/archived-privacy-policies)
