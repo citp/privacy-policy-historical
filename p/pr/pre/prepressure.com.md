@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prepressure.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513184447id_/https%3A//www.prepressure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepressure.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230191110id_/https%3A//www.prepressure.com/privacy-policy) for the most accurate reproduction.*
 
-# About Prepressure | More information on my prepress site
+# Prepressure
 
 _This privacy policy is an honest attempt to inform you about the way I collect, use or otherwise handle your personally identifiable information. It is as boring as all the other statements found elsewhere on the web and it is  unlikely to teach you anything new or be worth the time needed to read it._
 
