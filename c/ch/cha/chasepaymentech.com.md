@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chasepaymentech.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623225641id_/https%3A//merchantservices.chase.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chasepaymentech.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230234835id_/https%3A//merchantservices.chase.com/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
