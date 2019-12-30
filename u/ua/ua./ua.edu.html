@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the ua.edu privacy policy that was archived on 2019-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190528023353id_/https%3A//www.ua.edu/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ua.edu privacy policy that was archived on 2019-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191230044926id_/https%3A//www.ua.edu/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
 	<title>Privacy Statement | The University of Alabama</title>
 
+		
 	
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,11 +15,13 @@
 	<meta property="og:url" content="https://www.ua.edu">
 	<meta property="og:image" content="https://www.ua.edu/img/quadaerial01_1920.jpg">
 	<meta property="fb:admins" content="27423772">
+	
+	
 
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,300|Open+Sans:400,300,600,700" rel="stylesheet">
 	<link href="https://www.ua.edu/assets/css/bootstrap.min.css?ver=3.3.7" rel="stylesheet">
 	<link href="https://www.ua.edu/assets/css/font-awesome.min.css?ver=4.6.3" rel="stylesheet">
-	<link href="https://www.ua.edu/assets/css/style.min.css?ver=1.1.8" rel="stylesheet">
+	<link href="https://www.ua.edu/assets/css/style.min.css?ver=1.1.10" rel="stylesheet">
 	<link href="https://www.ua.edu/assets/css/bootstrap-accessibility.css" rel="stylesheet">
 
 	<link rel="apple-touch-icon" sizes="57x57" href="https://www.ua.edu/assets/img/favicons/apple-touch-icon-57x57.png">
@@ -61,6 +64,8 @@
 		</head>
 <body class="page-privacystatement">
 	
+			
+	
 	
 	<header>
 		<a href="#skip-to-content" id="skip-link" class="btn btn-primary btn-lg">Skip to content</a>
@@ -88,23 +93,23 @@
 								<li><a href="http://mybama.ua.edu/">myBama</a></li>
 
 								<li class="top-search">
-									<a href="#" title="Search">
+									<button title="Search" id="search">
 										<span class="sr-only">Search</span>
 										<i class="fa fa-search fa-lg search-btn"></i>
-									</a>
+									</button>
 								</li>
 								<li class="top-tools">
-									<a href="#" title="Tools">
+									<button title="Tools" id="tools">
 										<span class="sr-only">Tools</span>
 										<i class="fa fa-th fa-lg tools-btn"></i>
-									</a>
+									</button>
 								</li>
 							</ul>
 			        	</nav>
 		        	</div> <!-- .col-md-7 -->
 	        	</div> <!-- .row -->
         	</div> <!-- .container -->
-        	<div class="top-tools-container">
+        	<div class="top-tools-container" id="top-tools">
 				<div class="container">
 					<div class="row">
 						<nav>
@@ -124,7 +129,7 @@
 				</div> <!-- .container -->
 			</div> <!-- .top-tools-container -->
 
-			<div class="top-search-container">
+			<div class="top-search-container" id="top-search">
 	        	<div class="container">
 		        	<div class="row">
 			        	<div class="col-md-4">
@@ -406,7 +411,7 @@
 						<li><a href="http://graduate.ua.edu">Graduate School</a> </li>
 						<li><a href="http://honors.ua.edu/">Honors College</a> </li>
 						<li><a href="http://www.ches.ua.edu/">Human Environmental Sciences</a> </li>
-						<li><a href="http://www.law.ua.edu/">Hugh F. Culverhouse Jr. School of Law</a> </li>
+						<li><a href="http://www.law.ua.edu/">School of Law</a> </li>
 						<li><a href="http://nursing.ua.edu/">Nursing</a> </li>
 						<li><a href="http://socialwork.ua.edu/">Social Work</a></li>
 					</ul>
@@ -449,7 +454,7 @@
 							<ul class="list-unstyled">
 								<li><a href="http://police.ua.edu/">University Police</a></li>
 								<li><a href="https://police.ua.edu/advisory/">Crime Advisories</a></li>
-								<li><a href="http://ready.ua.edu/">Emergency Preparedness</a></li>
+								<li><a href="http://ready.ua.edu/">Emergency Management</a></li>
 								<li><a href="https://www.ua.edu/campuslife/uact">Reporting (UAct)</a></li>
 							</ul>
 
@@ -555,7 +560,23 @@
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 	<script src="https://www.ua.edu/assets/js/vendors/bootstrap.min.js?ver=3.3.7"></script>
-		<script src="https://www.ua.edu/assets/js/scripts.min.js?ver=1.0.5"></script>
+		
+	<script>
+				$( ".top-tools > button" ).click(function() {
+					// Turn off search
+					$( '#top-search' ).slideUp( 250, 'linear' );
+					// Open tools
+					$( '#top-tools' ).slideToggle( 250, 'linear' );
+				});
+				
+				$( ".top-search > button" ).click(function() {
+					// Turn off tools
+					$( '#top-tools' ).slideUp( 250, 'linear' );
+					// Open search
+					$( '#top-search' ).slideToggle( 250, 'linear' );
+				});
+	</script>
+	<script src="https://www.ua.edu/assets/js/scripts.min.js?ver=1.0.5"></script>
 	<script src="https://www.ua.edu/assets/js/bootstrap-accessibility.min.js"></script>
 	<script src="https://www.ua.edu/assets/js/accessibility.min.js"></script>
 
