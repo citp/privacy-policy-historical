@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livedrive.com privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212171130id_/https%3A//www2.livedrive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livedrive.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230233033id_/https%3A//www2.livedrive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Livedrive
 
@@ -324,5 +324,3 @@ The Company has appointed a Data Protection Officer, who may be contacted using 
 •    “Standard Contractual Clauses” means template transfer clauses adopted by the European Commission or adopted by a Data Protection Authority and approved by the European Commission.
 
 •    “Site” means any website operated, or maintained, by us or on our behalf. 
-
-©2005–2019 Livedrive Internet Ltd. All rights reserved. Company registration No. 05435857. Registered in England and Wales. VAT No. GB184159586. Registered office: The Battleship Building, 179 Harrow Road, London, W2 6NB, UK.The VAT rate in your jurisdiction is applicable.  [Terms of Service](https://web.archive.org/terms-of-use) | [Privacy Policy](https://web.archive.org/privacy-policy) | [Cookie Policy](https://web.archive.org/cookie-policy)
