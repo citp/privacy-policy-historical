@@ -1,43 +1,18 @@
-> *The following text is extracted and transformed from the paypal.com.au privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211055id_/https%3A//www.paypal.com/au/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal.com.au privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230210535id_/https%3A//www.paypal.com/au/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
 
-# PayPal
+# privacy-full
 
->> [View all legal agreements](https://www.paypal.com/au/webapps/mpp/ua/legalhub-full "Legal Agreements")
+## PayPal Privacy Statement
 
-Effective Date: 28 March 2019
-
-This version: 19-1
-
+Effective Date: 28 March 2019  
+This version: 19-1  
 Previous version: 18-2
 
-**Overview**
+Jump to section:
 
-**What Personal Data Do We Collect?**
+###  Overview
 
-**Why Do We Retain Personal Data?**
-
-**Do We Share Personal Data?**  
-
-**How Do We Work with Other Services and Platforms?**  
-
-**How Do We Use Cookies and Tracking Technologies?**
-
-**What Privacy Choices Are Available To You?**    
-
-**How Do We Protect Your Personal Data?**
-
-**Can Children Use Our Services?**  
-
-**What Else Should You Know?**
-
-**Contact Us**
-
-**Definitions**
-
-  
-1\. Overview
-
-**PayPal** has developed this Privacy Statement to explain how we may collect, retain, process, share and transfer your **Personal Data** when you visit our Sites or use our Services.  This Privacy Statement applies to your Personal Data when you visit **Sites** or use **Services** , and does not apply to online websites or services that we do not own or control, including websites or services of other PayPal **Users**.
+ **PayPal** has developed this Privacy Statement to explain how we may collect, retain, process, share and transfer your **Personal Data** when you visit our Sites or use our Services.  This Privacy Statement applies to your Personal Data when you visit **Sites** or use **Services** , and does not apply to online websites or services that we do not own or control, including websites or services of other PayPal **Users**.
 
 This Privacy Statement is designed to help you obtain information about our privacy practices and to help you understand your privacy choices when you use our Sites and Services.  Please note that our Service offerings may vary by region. 
 
@@ -45,7 +20,9 @@ We have defined some terms that we use throughout the Privacy Statement .  You 
 
 Please **contact us** if you have questions about our privacy practices that are not addressed in this Privacy Statement.
 
-2. What Personal Data Do We Collect?
+Back to top
+
+###  What Personal Data Do We Collect?
 
 The primary purpose for collecting your Personal Data is to provide you with a secure, smooth, efficient, and customised experience.  We may collect information about you when you visit our Sites or use our Services, including the following:
 
@@ -59,16 +36,19 @@ The primary purpose for collecting your Personal Data is to provide you with a s
   * **Information that you choose to provide us to obtain additional Services or specific online Services –** If you request or participate in an optional Site feature, or request enhanced Services or other elective functionality, we may collect additional information from you.  We will provide you with a separate notice at the time of collection, if the use of that information differs from the uses disclosed in this Privacy Statement . 
   * **Information about you if you use the Service “Checkout without a PayPal Account” –** Certain limited Services are available without being required to log in to or establish an Account, also referred to as Checkout without a PayPal Account.  We will collect Personal Data, information about any funding instrument used, Device Information, Technical Usage Data, and Geolocation Information as necessary to complete the transaction.  If you are an Account holder and choose to engage in a Checkout without a PayPal Account, we will collect information about the transaction and may associate it with your Account.  If you are not an Account holder and choose to engage in a Checkout without a PayPal Account, we will collect and store all information you provide and use and share such information in accordance with this Privacy Statement. 
   * **Information about you from third-party sources –** We obtain information from third-party sources such as merchants, data providers, and credit bureaus, where permitted by law. 
-  * **Other information we collect related to your use of our Sites or Services –** We may collect additional information from or about you when you communicate with us, contact our customer support teams or respond to a survey.  
- 
+  * **Other information we collect related to your use of our Sites or Services –** We may collect additional information from or about you when you communicate with us, contact our customer support teams or respond to a survey.
 
 
 
-3.  Why Do We Retain Personal Data?
+Back to top
+
+###  Why Do We Retain Personal Data?
 
 We retain Personal Data to fulfill our legal or regulatory obligations and for our business purposes.  We may retain Personal Data for longer periods than required by law if it is in our legitimate business interests and not prohibited by law.  If your Account is closed, we may take steps to mask Personal Data and other information, but we reserve our ability to retain and access the data for so long as required to comply with applicable laws.  We will continue to use and disclose such Personal Data in accordance with this Privacy Statement.
 
-4.  How Do We Process Personal Data? 
+Back to top
+
+###  How Do We Process Personal Data?
 
 We may **Process** your information for the following reasons:
 
@@ -87,12 +67,13 @@ We may **Process** your information for the following reasons:
   * **To provide you with location-specific options, functionality or offers** if you elect to share your Geolocation Information through the Services.  We will use this information to enhance the security of the Sites and Services and provide you with location-based Services, such as advertising, search results, and other personalized content. 
   * **To comply with our obligations and to enforce the terms of our Sites and Services,** including to comply with all applicable laws and regulations.
   * **To make it easier for you to find and connect with others,** we may use your information you have shared with the Service to suggest connections between you and people you may know.  For example, we may associate information that we learn about you through your and your contacts’ use of the Services, and information you and others provide to suggest people you may know or may want to transact with through our Services.  Social functionality and features designed to simplify your use of the Services with others vary by Service. 
-  * **To respond to your requests,** for example to contact you about a question you submitted to our customer service team.  
- 
+  * **To respond to your requests,** for example to contact you about a question you submitted to our customer service team.
 
 
 
-5.  Do We Share Personal Data? 
+Back to top
+
+###  Do We Share Personal Data?
 
 We may share your Personal Data or other information about you with others in a variety of ways as described in this section of the Privacy Statement. 
 
@@ -136,10 +117,11 @@ We may share your Personal Data or other information for the following reasons:
 
 **With your consent:** We also will share your Personal Data and other information with your consent or direction, including if you authorize an account connection with a third-party account or platform. 
 
-In addition, PayPal may provide aggregated statistical data to third-parties, including other businesses and members of the public, about how, when, and why Users visit our Sites and use our Services.  This data will not personally identify you or provide information about your use of the Sites or Services.  We do not share your Personal Data with third parties for their marketing purposes without your consent.  
- 
+In addition, PayPal may provide aggregated statistical data to third-parties, including other businesses and members of the public, about how, when, and why Users visit our Sites and use our Services.  This data will not personally identify you or provide information about your use of the Sites or Services.  We do not share your Personal Data with third parties for their marketing purposes without your consent.
 
-6.  How Do We Work with Other Services and Platforms? 
+Back to top
+
+###  How Do We Work with Other Services and Platforms?
 
 A significant benefit and innovation of PayPal’s Services is that you can connect your Account with a third-party account or platform.  For the purposes of this Privacy Statement, an “account connection” with such a third-party is a connection you authorize or enable between your Account and a non-PayPal account, payment instrument, or platform that you lawfully control or own.  When you authorize such a connection, PayPal and the third-party will exchange your Personal Data and other information directly.  Examples of account connections include:
 
@@ -151,18 +133,21 @@ A significant benefit and innovation of PayPal’s Services is that you can conn
 
 If you choose to create an account connection, we may receive information from the third-party about you and your use of the third-party’s service.  For example, if you connect your Account to a social media account, we will receive Personal Data from the social media provider via the account connection.  If you connect your Account to other financial accounts, directly or through a third-party service provider, we may have access to your account balance and transactional information, such as purchases and funds transfers.  We will use all such information that we receive from a third-party via an account connection in a manner consistent with this Privacy Statement. 
 
-Information that we share with a third-party based on an account connection will be used and disclosed in accordance with the third-party’s privacy practices.  Before authorizing an account connection, you should review the privacy notice of any third-party that will gain access to your Personal Data as part of the account connection.  For example, Personal Data that PayPal shares with a third-party account or platform such as a social media account may in turn be shared with certain other parties, including the general public, depending on the account’s or platform’s privacy practices. 
+Information that we share with a third-party based on an account connection will be used and disclosed in accordance with the third-party’s privacy practices.  Before authorizing an account connection, you should review the privacy notice of any third-party that will gain access to your Personal Data as part of the account connection.  For example, Personal Data that PayPal shares with a third-party account or platform such as a social media account may in turn be shared with certain other parties, including the general public, depending on the account’s or platform’s privacy practices.
 
-7.  How Do We Use Cookies and Tracking Technologies?
+Back to top
+
+###  How Do We Use Cookies and Tracking Technologies?
 
 When you visit our Sites, use our Services, or visit a third-party website for which we provide online Services, we and our business partners and vendors may use cookies and other tracking technologies (collectively, “Cookies”) to recognize you as a User and to customize your online experiences, the Services you use, and other online content and advertising; measure the effectiveness of promotions and perform analytics; and to mitigate risk, prevent potential fraud, and promote trust and safety across our Sites and Services.  Certain aspects and features of our Services and Sites are only available through the use of Cookies, so if you choose to disable or decline Cookies, your use of the Sites and Services may be limited or not possible. 
 
 Do Not Track (DNT) is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other third-parties.  We do not respond to DNT signals.
 
-Please review our **[Statement on Cookies and Tracking Technologies](https://www.paypalobjects.com/digitalassets/c/website/ua/pdf/global/PayPal_Cookie_Policy.pdf?locale.x=en_AU)** to learn more about how we use Cookies.  
- 
+Please review our **[Statement on Cookies and Tracking Technologies](https://www.paypalobjects.com/digitalassets/c/website/ua/pdf/global/PayPal_Cookie_Policy.pdf?locale.x=en_AU)** to learn more about how we use Cookies.
 
-8.  What Privacy Choices Are Available To You?
+Back to top
+
+###  What Privacy Choices Are Available To You?
 
 You have choices when it comes to the privacy practices and communications described in this Privacy Statement.  Many of your choices may be explained at the time you sign up for or use a Service or in the context of your use of a Site.  You may be provided with instructions and prompts within the experiences as you navigate the Services. 
 
@@ -185,23 +170,27 @@ You have choices when it comes to the privacy practices and communications descr
   * **Choices Relating to Communication**
     * **Notices, Alerts and Updates from Us:**  
       * **Marketing:** We may send you marketing content about our Sites, Services, products, products we jointly offer with financial institutions, as well as the products and services of unaffiliated third parties and members of the PayPal corporate family through various communication channels, for example, email, text, pop-ups, push notifications, and messaging applications.  You may opt out of these marketing communications by following the instructions in the communications you receive.  If you have an Account with us, you may also adjust your communication preferences in your Account settings.  For messages sent via push notifications, you may manage your preferences in your device. 
-      * **Informational and Other:** We will send communications to you that are required or necessary to send to Users of our Services, notifications that contain important information and other communications that you request from us.  You may not opt out of receiving these communications.  However, you may be able to adjust the media and format through which you receive these notices.  
- 
+      * **Informational and Other:** We will send communications to you that are required or necessary to send to Users of our Services, notifications that contain important information and other communications that you request from us.  You may not opt out of receiving these communications.  However, you may be able to adjust the media and format through which you receive these notices.
 
 
 
-9.  How Do We Protect Your Personal Data?
+Back to top
 
-We maintain technical, physical, and administrative security measures designed to provide reasonable protection for your Personal Data against loss, misuse, unauthorized access, disclosure, and alteration.  The security measures include firewalls, data encryption, physical access controls to our data centers, and information access authorization controls.  While we are dedicated to securing our systems and Services, you are responsible for securing and maintaining the privacy of your password(s) and Account/profile registration information and verifying that the Personal Data we maintain about you is accurate and current.  We are not responsible for protecting any Personal Data that we share with a third-party based on an account connection that you have authorized.  
- 
+###  How Do We Protect Your Personal Data?
 
-10.  Can Children Use Our Services?
+We maintain technical, physical, and administrative security measures designed to provide reasonable protection for your Personal Data against loss, misuse, unauthorized access, disclosure, and alteration.  The security measures include firewalls, data encryption, physical access controls to our data centers, and information access authorization controls.  While we are dedicated to securing our systems and Services, you are responsible for securing and maintaining the privacy of your password(s) and Account/profile registration information and verifying that the Personal Data we maintain about you is accurate and current.  We are not responsible for protecting any Personal Data that we share with a third-party based on an account connection that you have authorized.
+
+Back to top
+
+###  Can Children Use Our Services?
 
 The Sites and Services are not directed to children under the age of 13.  We do not knowingly collect information, including Personal Data, from children or other individuals who are not legally able to use our Sites and Services.  If we obtain actual knowledge that we have collected Personal Data from a child under the age of 13, we will promptly delete it, unless we are legally obligated to retain such data.  **Contact us** if you believe that we have mistakenly or unintentionally collected information from a child under the age of 13.
 
-11.  What Else Should You Know?
+Back to top
 
-**Changes to This Privacy Statement.**  
+###  What Else Should You Know?
+
+ **Changes to This Privacy Statement.**  
 
 We may revise this Privacy Statement from time to time to reflect changes to our business, the Sites or Services, or applicable laws.  The revised Privacy Statement will be effective as of the published effective date. 
 
@@ -211,7 +200,9 @@ If the revised version includes a substantial change, we will provide you with 3
 
 Our operations are supported by a network of computers, cloud-based servers, and other infrastructure and information technology, including, but not limited to, third-party service providers.  We and our third-party service providers store and Process your Personal Data in the United States of America and elsewhere in the world.  We will protect your information as described in this Privacy Statement if your Personal Data is transferred to other countries.  By using our Sites and Services, you consent to your Personal Data being transferred to other countries, including countries that have different data protection rules than your country.  We do not represent that our Sites and Services are appropriate or available in any particular jurisdiction.
 
-12.  Contact Us
+Back to top
+
+###  Contact Us
 
 You may contact us if you have general questions about our Privacy Statement and practices or questions about your Account information or Personal Data. 
 
@@ -233,12 +224,13 @@ We aim to:
 
 
 
-Where we cannot resolve a complaint within 45 days, we will notify you of the reason for the delay as well as an indication of when we expect to resolve the complaint.  If you are not satisfied with the outcome of your complaint, you may wish to contact the Financial Ombudsman Service for most complaints about your credit information.  Alternatively, you may contact the Office of the Australian Information Commissioner.  
- 
+Where we cannot resolve a complaint within 45 days, we will notify you of the reason for the delay as well as an indication of when we expect to resolve the complaint.  If you are not satisfied with the outcome of your complaint, you may wish to contact the Financial Ombudsman Service for most complaints about your credit information.  Alternatively, you may contact the Office of the Australian Information Commissioner.
 
-13. Definitions
+Back to top
 
-**Account** means a PayPal member account.
+###  Definitions
+
+ **Account** means a PayPal member account.
 
 **Checkout without a PayPal Account** means a person’s use of the Services without logging into and/or creating an Account. 
 
@@ -260,7 +252,9 @@ Where we cannot resolve a complaint within 45 days, we will notify you of the re
 
 **User** means an individual who uses the Services or accesses the Sites and has established a relationship with PayPal (for example, by opening an Account and agreeing to the PayPal User Agreement) or otherwise uses the Services as a buyer, seller or other type of participant to a transaction, including Checkout without a PayPal Account.
 
-14\. Additional Information
+Back to top
+
+###  Additional Information
 
 The information provided in this section may be specific to customers depending on your region or how you use the Services. This information is provided to PayPal from third parties you may interact with when using the Services.
 
@@ -269,3 +263,5 @@ The information provided in this section may be specific to customers depending 
 PayPal uses ReCaptcha on the Sites and Services. Your use of ReCaptcha is subject to the Google [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) and [Terms of Use](https://www.google.com/intl/en/policies/terms/).
 
 ReCaptcha is only used to fight spam and abuse.
+
+Back to top
