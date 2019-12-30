@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kerboodle.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630214539id_/https%3A//global.oup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerboodle.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230031922id_/https%3A//global.oup.com/privacy) for the most accurate reproduction.*
 
 # Oxford University Press - Privacy Policy
 
