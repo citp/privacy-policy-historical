@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pluralsight.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220745id_/https%3A//www.pluralsight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluralsight.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230210901id_/https%3A//www.pluralsight.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Pluralsight
 
-This Privacy Policy (“ **Privacy Policy** ”) applies to the corporate website accessible at <https://www.pluralsight.com/> (“ **Website** ”) and the cloud-based technology skills platform also accessible through that website, the video players used to view Pluralsight courses, and the mobile applications (“ **Platform** ”, and together with the Website, collectively, the “ **Site** ”), all owned and operated by Pluralsight, LLC, a Nevada limited liability company (“ **Pluralsight** ”, “ **we** ”, or “ **us** ”). This Privacy Policy describes how Pluralsight collects and uses personal information collected through the Website and the Platform. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. 
+This Privacy Policy (“Privacy Policy”) applies to the corporate website accessible at <https://www.pluralsight.com/> (“Website”) and the cloud-based technology learning platform also accessible through that website, the video players used to view Pluralsight courses, and the mobile applications (“Platform”, and together with the Website, collectively, the “Site”), all owned and operated by Pluralsight, LLC, a Nevada limited liability company (“Pluralsight”, “we”, or “us”). This Privacy Policy describes how Pluralsight collects and uses personal information collected through the Website and the Platform. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. 
 
-**This Privacy Policy sets out:**
+This Privacy Policy sets out:
 
   * The information we collect about you
   * How we use the information we collect
@@ -18,6 +18,7 @@ This Privacy Policy (“ **Privacy Policy** ”) applies to the corporate websit
   * Information about our participation in Privacy Shield
   * Public forums
   * Payment processing
+  * California Resident Privacy Rights
   * Information about enforcement and dispute resolution
   * Changes to this Privacy Policy
   * Contact us
@@ -27,17 +28,16 @@ This Privacy Policy (“ **Privacy Policy** ”) applies to the corporate websit
 Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it. By engaging with the Website and the Platform you acknowledge you have read and understood this Privacy Policy. Data protection laws require companies to describe their role and responsibility when handling personal information.   
 
 
-When users access our Website and view information about us and our technology, communicate with us, download whitepapers, and register for events etc, we are the **_data controller_**.   
+European Economic Area Data Subject Rights: If you are a resident of the European Economic Area, the following definitions apply to your data. When you access our Website and view information about us and our technology, communicate with us, download whitepapers, and register for events etc, we are the  _data controller_. 
+
+When you engage with the Platform because your employer has signed up to a Business plan (as defined in our Terms of Use at <https://www.pluralsight.com/terms>, the “Terms of Use”) or a Company Partnership Subscription (see below), then;
+
+  * your employer is the  _data controller_  with respect to the user information it provides to us. This information typically includes first name, last name, and business email address. Where your employer is the data controller in this way, we act as a  _data processor_  under data protection laws, meaning we use the information to provide a service to your employer.
+  * Pluralsight is the  _data controller_  for information provided directly by you or as a result of interacting with the Platform, including assessment data, a secondary email address, additional profile details such as job title, personal website URL, a short bio, social platform handles, and demographic information such as your gender, year of birth, and your work industry. To be clear, none of these additional profile details are required to utilize our Site, but we can offer you an enhanced experience if you provide it.
 
 
-When an individual engages with the Platform because their employer has signed up to a Business plan (as defined in our Terms of Use at <https://www.pluralsight.com/terms>, the “ **Terms of Use** ”) or a Company Partnership Subscription (see below), then;
 
-  * the user’s employer is the **_data controller_** with respect to the user information it provides to us. This information typically includes first name, last name, and business email address. Where your employer is data controller in this way, we act as a **_data processor_** under data protection laws, meaning we use the information to provide a service to your employer.
-  * Pluralsight is the **_data controller_** for information provided directly by the individual or as a result of interacting with the Platform, including assessment data, a secondary email address, additional profile details such as job title, personal website URL, a short bio, social platform handles, and demographic information such as your gender, year of birth, and your work industry. To be clear, none of these additional profile details are required to utilize our Site, but we can offer you an enhanced experience if you provide it.
-
-
-
-When an individual signs up as a user of the Platform via an Individual Plan (as defined in the [Terms of Use](https://www.pluralsight.com/terms)), Pluralsight is the **_data controller_** for all personal information provided by that user and collected by the Platform as the user accesses and uses it.
+When you sign up as a user of the Platform via an Individual Plan (as defined in the [Terms of Use](https://www.pluralsight.com/terms)), Pluralsight is the  _data controller_  for all personal information provided by that user and collected by the Platform as the user accesses and uses it.
 
 #####  The information we collect about you 
 
@@ -83,6 +83,8 @@ We consider your personal information to be a vital part of our relationship wit
 
 We sometimes hire other companies to perform certain business-related functions, such as sending email on our behalf, payment processing, or conducting market research. We also share your email address with third parties, such as Facebook, LinkedIn, and Twitter in order to provide custom marketing materials for you on their platforms. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. These companies are not permitted to use any personal information that we share with them for any other purpose aside from providing services to us.
 
+We also share information with third parties about customer engagement on our platform. For example, when you view a course about a technology vendor, we share information such as the number of course minutes viewed, Role and Skill IQ levels, hands-on course engagement, and other related data with that technology vendor. We share this information and receive feedback from those third parties in order to improve the content available on our platform and better collaborate with our partners to jointly help companies and individuals address their skill development needs. Unless we specifically ask for and you grant consent, the data we provide to third parties does not include personal information.
+
 **Business Plans and Company Partnership Subscriptions:    
 **
 
@@ -102,13 +104,13 @@ We will take reasonable steps to ensure that we only collect that personal infor
 
 When you register, or otherwise give us personal information, we will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated in this Privacy Policy. When Pluralsight is acting as a **_data processor_** , we will only process personal information in accordance with the instructions given by the **_data controller_**. When Pluralsight is acting as a data controller, we will act in accordance with your permission to offer you our services and as otherwise instructed by you. We will also give you the ability to opt out before we disclose your personal information to a third party or use your personal information for purposes that are fundamentally different than the purpose for which it was originally created.
 
-If you would like to discontinue receiving communications from us, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or on the Communications Preferences Dashboard located in your member profile on our Site or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4c3f393c3c233e380c3c20393e2d203f252b2438622f2321). Please note that we may not include the opt-out information in e-mails that are transactional in nature and are not marketing communications (i.e., e-mails concerning your order, the website’s Terms of Use, etc.). You will not have the ability to opt-out of receiving transactional emails via the Communications Preferences Dashboard. If you have questions or concerns regarding a transactional e-mail, please contact us.
+If you would like to discontinue receiving communications from us, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or on the Communications Preferences Dashboard located in your member profile on our Site or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a3d0d6d3d3ccd1d7e3d3cfd6d1c2cfd0cac4cbd78dc0ccce). Please note that we may not include the opt-out information in e-mails that are transactional in nature and are not marketing communications (i.e., e-mails concerning your order, the website’s Terms of Use, etc.). You will not have the ability to opt-out of receiving transactional emails via the Communications Preferences Dashboard. If you have questions or concerns regarding a transactional e-mail, please contact us.
 
 #####  Your access to your information and how long we keep it 
 
-Upon request, Pluralsight will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#72010702021d000632021e0700131e011b151a065c111d1f). 
+Upon request, Pluralsight will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#23505653534c515763534f5651424f504a444b570d404c4e). 
 
-We will provide you with the means to ensure that your personal information is correct and current. If you have registered to use the Platform, we will provide a way for you to access and change your profile on our Platform. We will also allow you to completely delete your profile along with all personal information associated with that profile, although this option may significantly degrade your experience with our Platform. You may request deletion by accessing your profile and clicking on the link available there. Alternatively, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#95e6e0e5e5fae7e1d5e5f9e0e7f4f9e6fcf2fde1bbf6faf8). We will respond to your request within a reasonable timeframe. Requesting deletion of your account means your personal information is permanently deleted and cannot be retrieved.
+We will provide you with the means to ensure that your personal information is correct and current. If you have registered to use the Platform, we will provide a way for you to access and change your profile on our Platform. We will also allow you to completely delete your profile along with all personal information associated with that profile, although this option may significantly degrade your experience with our Platform. You may request deletion by accessing your profile and clicking on the link available there. Alternatively, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#03707673736c717743736f7671626f706a646b772d606c6e). We will respond to your request within a reasonable timeframe. Requesting deletion of your account means your personal information is permanently deleted and cannot be retrieved.
 
 If you would like to view your personal information that we hold at any time, you may access your profile from our Site.
 
@@ -118,13 +120,13 @@ We retain your information while your account is active or as needed to provide 
 
 The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our checkout page, your information is sent over an authenticated and encrypted connection using Transport Layer Security (TLS).
 
-We store your personal information only on servers with limited access that are located in controlled facilities, and use a variety of technologies and procedures intended to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration and destruction. Nonetheless, no communication via the Internet can ever be 100% secure, and no security measures can ever be assured to be effective. Accordingly, you are advised to use caution and discretion when determining what personal information to disclose to us.  
+We store your personal information only on servers with limited access that are located in controlled facilities and use a variety of technologies and procedures intended to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration and destruction. Nonetheless, no communication via the Internet can ever be 100% secure, and no security measures can ever be assured to be effective. Accordingly, you are advised to use caution and discretion when determining what personal information to disclose to us.  
 
 
 If you have any questions about security on our Site, contact us as follows:  
 
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d3a0a6a3a3bca1a793a3bfa6a1b2bfa0bab4bba7fdb0bcbe) 
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#691a1c1919061b1d2919051c1b08051a000e011d470a0604)
 
 Phone: (801) 784-9007 opt 1
 
@@ -147,9 +149,9 @@ We use the following types of cookies:
 
 **Strictly necessary cookies.** These are cookies that are required for the operation of our website and under our terms with you. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services. 
 
-**Analytical/performance cookies.** They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us for our legitimate interests of improving the way our website works, for example, by ensuring that users are finding what they are looking for easily. 
+**Analytical/performance cookies.** They allow us to recognize and count the number of visitors and to see how visitors move around our website when they are using it. This helps us for our legitimate interests of improving the way our website works, for example, by ensuring that users are finding what they are looking for easily. 
 
-**Functionality cookies.** These are used to recognise you when you return to our website. This enables us, subject to your choices and preferences, to personalize our content, greet you by name and remember your preferences (for example, your choice of language or region).
+**Functionality cookies.** These are used to recognize you when you return to our website. This enables us, subject to your choices and preferences, to personalize our content, greet you by name and remember your preferences (for example, your choice of language or region).
 
 **Targeting cookies.** These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information subject to your choices and preferences to make our Site and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
 
@@ -204,23 +206,28 @@ Except for essential cookies, all cookies used on our Site will expire after two
 
 This Privacy Policy applies only to our Site. The Site may contain links to other web sites not operated or controlled by us. The policies and procedures described here do not apply to web sites or other services that Pluralsight does not operate or control. These links from our Site do not imply that we endorse or have reviewed those web sites or other services. We suggest contacting those services directly for information on their privacy policies.
 
+#####  California Resident Privacy Rights 
+
+Under California law, California residents are entitled to certain privacy rights concerning their personal information.  If you are a California resident, you have the right to ask us for a notice identifying the categories of your personal information that we shared with third parties for their direct marketing purposes in the previous twelve (12) months.  You may make this request twice a year, free of charge; see the “Contact Us” section below for details on where to send such requests. You will need to provide information that will allow us to verify your identity to ensure continued protection of your personal information.  We do not share personal information with third parties for their direct marketing purposes without your consent, which may be withheld or withdrawn at any time.  
+
+
 #####  Information about our participation in Privacy Shield 
 
-Pluralsight participates in and has certified its compliance with the EU-U.S. and the Swiss-U.S. Privacy Shield frameworks. We are committed to subjecting all information received from the European Union (“ **EU** ”) and European Economic Area and Switzerland which constitutes “personal data” subject to the EU’s and Switzerland’s privacy laws (“ **EU and Swiss Personal Data** ”), in reliance on Privacy Shield, to the applicable Privacy Shield Principles. To learn more about Privacy Shield and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List (<https://www.privacyshield.gov/list>). Our compliance with applicable Privacy Shield Principles is further described as follows:
+Pluralsight participates in and has certified its compliance with the EU-U.S. and the Swiss-U.S. Privacy Shield frameworks. We are committed to subjecting all information received from the European Union (“ **EU** ”), the United Kingdom (“ **UK** ”), the European Economic Area and Switzerland which constitutes “personal data” subject to the EU’s, the UK, and Switzerland’s privacy laws (“ **EU, UK, and Swiss Personal Data** ”), in reliance on Privacy Shield, to the applicable Privacy Shield Principles. To learn more about Privacy Shield and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List (<https://www.privacyshield.gov/list>). Our compliance with applicable Privacy Shield Principles is further described as follows:
 
-**_Collection and use; Purpose._** Pluralsight collects and uses EU and Swiss Personal Data as described in the sections above about how we collect and use personal information.
+**_Collection and use; Purpose._** Pluralsight collects and uses EU, UK, and Swiss Personal Data as described in the sections above about how we collect and use personal information.
 
-**_Third party disclosure._** We may disclose EU and Swiss Personal Data as described in the sections above about how and when we disclose personal information.
+**_Third party disclosure._** We may disclose EU, UK, and Swiss Personal Data as described in the sections above about how and when we disclose personal information.
 
-**_Security._** Pluralsight protects the security of EU and Swiss Personal Data during transfer and storage as described in the sections above about how we protect personal information.
+**_Security._** Pluralsight protects the security of EU, UK, and Swiss Personal Data during transfer and storage as described in the sections above about how we protect personal information.
 
-**_Onward transfer._** Where Pluralsight transfers personal data from the EU or Switzerland, we do so under the Privacy Shield framework. Pluralsight maintains contracts with third parties who act on behalf of Pluralsight and to whom we transfer personal data that restrict their access, use, and disclosure of personal data in compliance with our Privacy Shield obligations. Pluralsight complies with the Privacy Shield Principles for all onward transfers of EU and Swiss Personal Data, including the onward transfer liability provisions.
+**_Onward transfer._** Where Pluralsight transfers personal data from the EU, UK, or Switzerland, we do so under the Privacy Shield framework. Pluralsight maintains contracts with third parties who act on behalf of Pluralsight and to whom we transfer personal data that restrict their access, use, and disclosure of personal data in compliance with our Privacy Shield obligations. Pluralsight complies with the Privacy Shield Principles for all onward transfers of EU, UK, and Swiss Personal Data, including the onward transfer liability provisions.
 
-**_Access and choice._** Residents of the EU and Switzerland whose personal data Pluralsight has directly collected may request access to, and the opportunity to correct, amend, or delete such personal data. To submit such requests or raise any other questions, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#087b7d7878677a7c4878647d7a69647b616f607c266b6765). Pluralsight reserves the right to take appropriate steps to authenticate an applicant’s identity and charge a reasonable fee before providing access and deny requests, except as required by the Privacy Shield principles.
+**_Access and choice._** Residents of the EU, UK, and Switzerland whose personal data Pluralsight has directly collected may request access to, and the opportunity to correct, amend, or delete such personal data. To submit such requests or raise any other questions, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#04777174746b767044746871766568776d636c702a676b69). Pluralsight reserves the right to take appropriate steps to authenticate an applicant’s identity and charge a reasonable fee before providing access and deny requests, except as required by the Privacy Shield principles.
 
-**_Recourse; enforcement; liability._** Pluralsight complies with the Privacy Shield Principles for recourse, enforcement and liability. Pluralsight uses a third party (outside compliance review) agent to assure compliance with this Privacy Policy and periodically verifies that this Privacy Policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformance with Privacy Shield principles. You may direct inquiries or complaints concerning our Privacy Shield compliance to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#562523262639242216263a2324373a253f313e227835393b). Pluralsight will respond within 45 days. If we fail to respond or if our response did not satisfactorily address your concern, you may file a report with our U.S.-based third party dispute resolution provider (free of charge) at  _<https://feedback-form.truste.com/watchdog/request>_. Pluralsight has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship. Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+**_Recourse; enforcement; liability._** Pluralsight complies with the Privacy Shield Principles for recourse, enforcement and liability. Pluralsight uses a third party (outside compliance review) agent to assure compliance with this Privacy Policy and periodically verifies that this Privacy Policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformance with Privacy Shield principles. You may direct inquiries or complaints concerning our Privacy Shield compliance to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ec9f999c9c839e98ac9c80999e8d809f858b8498c28f8381). Pluralsight will respond within 45 days. If we fail to respond or if our response did not satisfactorily address your concern, you may file a report with our U.S.-based third party dispute resolution provider (free of charge) at  _<https://feedback-form.truste.com/watchdog/request>_. Pluralsight has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship. Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-**_Jurisdiction.  _**With respect to EU and Swiss Personal Data received or transferred pursuant to the Privacy Shield framework, Pluralsight is subject to the regulatory investigation and enforcement powers of the U.S. Federal Trade Commission.
+**_Jurisdiction.  _**With respect to EU, UK, and Swiss Personal Data received or transferred pursuant to the Privacy Shield framework, Pluralsight is subject to the regulatory investigation and enforcement powers of the U.S. Federal Trade Commission.
 
 The Site may, from time to time, make chat rooms, message boards, news groups, or other public forums available to its users, whether by way of our own services or by way of the services or features of a third party. Any information that is disclosed in these areas becomes public information and you should exercise caution when using these areas and avoid posting any personal or sensitive information. If a separate login is required to use these areas, please be aware that you may need to also log out separately.
 
@@ -230,9 +237,9 @@ When you purchase a subscription directly from Pluralsight, payment details you 
 
 We will conduct compliance audits of our relevant privacy practices to verify compliance with this Privacy Policy. Any Pluralsight employee that we determine has acted in violation of this Privacy Policy will be subject to disciplinary action up to and including termination of employment.
 
-Any questions or concerns regarding our use or disclosure of personal information should be addressed to Customer Support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f98a8c8989968b8db989958c8b98958a909e918dd79a9694). We will investigate and attempt to resolve any complaints and disputes regarding the use and disclosure of personal information in accordance with the provisions of this Privacy Policy.
+Any questions or concerns regarding our use or disclosure of personal information should be addressed to Customer Support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d8abada8a8b7aaac98a8b4adaab9b4abb1bfb0acf6bbb7b5). We will investigate and attempt to resolve any complaints and disputes regarding the use and disclosure of personal information in accordance with the provisions of this Privacy Policy.
 
-Pluralsight has committed to refer unresolved Privacy Shield complaints to TRUSTe, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgement of your complaint from us, or if we have not resolved your complaint, please contact TRUSTe for more information or to file a report. The services of TRUSTe are provided at no cost to you.
+Pluralsight has committed to refer unresolved Privacy Shield complaints to an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgement of your complaint from us, or if we have not resolved your complaint, please contact our third party dispute resolution provider (free of charge) at  <https://feedback-form.truste.com/watchdog/request>.
 
 #####  Changes to this Privacy Policy 
 
@@ -240,7 +247,7 @@ As our Site evolves, this Privacy Policy will need to evolve as well to cover ne
 
 Questions or comments regarding this Privacy Policy should be submitted to Pluralsight by e-mail or phone as follows:
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#32414742425d404672425e4740535e415b555a461c515d5f)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0f7c7a7f7f607d7b4f7f637a7d6e637c6668677b216c6062)
 
 Phone: (801) 784-9007 opt 1.
 
