@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openingceremony.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528045559id_/https%3A//www.openingceremony.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openingceremony.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230012838id_/https%3A//www.openingceremony.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Opening Ceremony
 
