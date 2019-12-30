@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendns.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626231535id_/http%3A//www.cisco.com/c/en/us/about/legal/privacy-full.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendns.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230210417id_/http%3A//www.cisco.com/c/en/us/about/legal/privacy-full.html) for the most accurate reproduction.*
 
 # Cisco Online Privacy Statement - Cisco
 
@@ -139,7 +139,9 @@ Cisco safeguards and enables the global transfer of personal information in a nu
 
   * #### APEC Privacy Certification
 
-The U.S. APEC Accountability Agent certified that Cisco's global privacy program complies with the Asia Pacific Economic Cooperation (APEC) Cross-Border Privacy Rules System (CBPRs). The CBPRs provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC Privacy Framework and CBPRs can be found [here](https://www.cbprs.org/). Our certification applies to our business processes across our global operations that process and transfer personal information to/from our affiliates around the world. To view our certification, please visit the validation page [](https://privacy.truste.com/privacy-seal/validation?rid=b43a113a-d2ce-471a-826a-d9d580fbdd2e) by clicking on the TRUSTe seal.
+Cisco's global privacy program, described in this Privacy Statement, complies with the Asia Pacific Economic Cooperation (APEC) Cross-Border Privacy Rules System (CBPRs). The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC Privacy Framework and CBPRs can be found [here](https://www.cbprs.org/). Our certification applies to our business processes across our global operations that process and transfer personal information to/from our affiliates around the world. To view our certification, please visit the validation page [](https://privacy.truste.com/privacy-seal/validation?rid=b43a113a-d2ce-471a-826a-d9d580fbdd2e) by clicking on the TRUSTe seal.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=2726e304-7fe8-4aa9-8700-a0c849f0241c)
 
 
 
@@ -166,11 +168,25 @@ If you have an unresolved privacy concern related to personal data processed or 
 
 ### Your California Privacy Rights
 
+#### California Consumer Privacy Act (CCPA)
+
+In the last twelve months, Cisco may have collected, used, and shared, for business purposes, personal information about you as described in this privacy statement. Each category of data may be used by Cisco or shared with third parties also as described in this Privacy Statement. Residents of California have the right to request access to and deletion of the information Cisco holds about them. Such requests may be submitted by email to privacy@cisco.com or by mail to Cisco Systems, Inc., Privacy Legal Department, 170 West Tasman Dr., San Jose, CA 95134, USA. Cisco will not sell your personal information without your consent.
+
+Cisco will not discriminate against you for exercising your rights under CCPA. Specifically, we will not:
+
+  * Deny access to our Solutions;
+  * Charge a different rate for the use of our Solutions; or
+  * Provide a different quality of service.
+
+
+
+#### California Shine the Light
+
 Residents of the State of California, under California Civil Code § 1798.83, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed personal information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an opt-out or opt-in choice for use of your personal information by third parties (such as advertisers) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options.
 
 Cisco qualifies for the alternative option. We have a comprehensive privacy statement, and provide you with details on how you may either opt-out or opt-in to the use of your personal information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your personal information for marketing purposes during the preceding year.
 
-If you are a California resident and request information about how to exercise your third party disclosure choices, please [email us your request](mailto:privacy@cisco.com).
+If you are a California resident and request information about how to exercise your third-party disclosure choices or CCPA rights, please [email us your request](mailto:privacy@cisco.com).
 
 ### How to Contact Us
 
@@ -180,6 +196,6 @@ We value your opinions. Should you have questions or comments related to this Pr
 
 We may update this Privacy Statement from time to time. If we modify our Privacy Statement, we will post the revised version here, with an updated revision date. You agree to visit these pages periodically to be aware of and review any such revisions. If we make material changes to our Privacy Statement, we may also notify you by other means prior to the changes taking effect, such as by posting a notice on our websites or sending you a notification. By continuing to use our website after such revisions are in effect, you accept and agree to the revisions and to abide by them.
 
-### The Cisco Privacy Statement was revised and posted as of April 10, 2019.
+### The Cisco Privacy Statement was revised and posted as of December 23, 2019.
 
 Click here for the [previous version of the privacy statement](https://web.archive.org/c/en/us/about/legal/privacy-full/previous-2018.html).
