@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salsajeans.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201145556id_/https%3A//www.salsajeans.com/en/buying-guide-and-conditions/privacy-policy-pg18.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salsajeans.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230185000id_/https%3A//www.salsajeans.com/en/buying-guide-and-conditions/privacy-policy-pg18.html) for the most accurate reproduction.*
 
-# Salsa® Jeans | Clothing and Accessories for Women & Men
+# Salsa Jeans ®| Jeans, Clothing and Accessories for Women and Men
 
 SALSA operates on the basis of trust and transparency. This commitment is transferred into our day-to-day relationship with our customers, employees and suppliers. The privacy and security of the data you entrust to us are a priority for us.
 
@@ -106,7 +106,7 @@ We may have to disclose your personal data to the authorities or to third partie
 
 **6\. Does SALSA transfer my personal data outside the European Union?**
 
-SALSA may transfer your personal data to third countries outside the European Union, if it is in the legitimate interest of the data subject, maintaining the same level of assurance of protection of those data.
+SALSA may transfer your personal data to third countries outside the European Union, maintaining the same level of assurance of protection of those data.
 
 **7\. How does SALSA protect my personal data?**
 
@@ -134,13 +134,13 @@ Cookies are small text files sent to your computer or mobile device when you vis
 
 The cookies that SALSA collects do not allow the user to be identified. They only store generic information, namely the type and/or place of access and how the websites are used. Cookies only retain information related to your preferences as a user. 
 
-These are the types of Cookies we use at [www.salsajeans.com](https://web.archive.org/web/20181201145556id_/https%3A//www.salsajeans.com/en/buying-guide-and-conditions/www.salsajeans.com):
+These are the types of Cookies we use at [www.salsajeans.com](https://web.archive.org/web/20191230185000id_/https%3A//www.salsajeans.com/en/buying-guide-and-conditions/www.salsajeans.com):
 
 i.Session cookies: Temporary cookies that remain in the browser's cookie file until leaving the web page, so no record is left on the user's hard drive. The information gathered by these cookies is used to analyse website traffic patterns. Session cookies allow both the content and the usability of the site to be improved.   
 ii.Analysis cookies: Cookies processed by us or by third parties, allowing us to quantify the number of users and to conduct statistical measurement and analysis of how users are using the service offered. We examine how you browse on our site, with the aim of improving the supply of products or services we offer you.   
 iii.Advertising cookies: Cookies processed by us or by third parties, allowing us to more effectively manage the offer of advertising space that exists on the site. They allow us to analyse your browsing habits and to show you advertising related to your browsing profile.
 
-If you prefer not to allow cookies you have the option to disable cookies in the browser you use, but you should be aware that this may prevent some web pages from being presented correctly.
+If you prefer not to allow cookies you have the option to disable cookies in the browser you use, but you should be aware that some web pages may not be presented correctly.
 
 All browsers allow the user to accept, decline or delete cookies by selecting those actions in the advanced browser settings. Cookies can be configured in the "Options" or "Preferences" menu. You should note, however, that disabling cookies may prevent some web services from working properly, and it may totally or partially affect your browsing experience on the website.
 
