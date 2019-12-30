@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesitsgirls.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221238id_/https%3A//www.thesitsgirls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesitsgirls.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230213336id_/https%3A//www.thesitsgirls.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The SITS Girls
 
