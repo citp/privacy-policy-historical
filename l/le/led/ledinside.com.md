@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ledinside.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410145336id_/https%3A//www.ledinside.com/service/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledinside.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230193933id_/https%3A//www.ledinside.com/service/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy-LEDinside
 
