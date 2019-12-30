@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sploder.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627152230id_/http%3A//www.sploder.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sploder.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230111002id_/http%3A//www.sploder.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Make your own Games Online for Free
 
