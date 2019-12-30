@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the christmastreeshops.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105102745id_/https%3A//www.christmastreeshops.com/safety-security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christmastreeshops.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230203724id_/https%3A//www.christmastreeshops.com/safety-security-privacy) for the most accurate reproduction.*
 
-# Safety, Security, Privacy - Christmas Tree Shops and That!
+# Safety, Security, Privacy - Christmas Tree Shops and That! - Home Decor, Furniture & Gifts Store
 
-## **Privacy Policy**
+## Privacy Policy
 
 _Privacy Policy Effective Date: This Privacy Policy became effective on April 18, 2006 and was last revised on October 16, 2013.  _
 
@@ -14,7 +14,7 @@ This Privacy Policy governs use of the Site. One of the Brands may have a separa
 
 As we update and diversify our products and services, this Privacy Policy may change. We reserve the right, at our discretion, to change, modify, add, or remove portions of this Privacy Policy at any time. Please check this page for updates periodically. If we make any material changes to this Privacy Policy, we will notify you here. Unless the law otherwise requires, we do not provide notice of changes to this Privacy Policy and your use of the Site following any posted changes will indicate your acceptance of such changes. **This Privacy Policy became effective April 18, 2006 and was most recently changed on October 16, 2013.** These changes were extensive, as they reflected the transition of the Site from an informational page to an e-commerce website.
 
-## **What Information Do We Actively Collect and Inactively Gather?**
+## What Information Do We Actively Collect and Inactively Gather?
 
 ### **Personal Information**
 
@@ -102,7 +102,7 @@ We may use third-party advertising companies to serve ads when you visit our Sit
 
 Under California Civil Code §§1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of Personal Information we share with third parties or corporate affiliates for those third parties' or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to Christmas Tree Shops, Inc., 650 Liberty Avenue, Union, New Jersey 07083, attn: Customer Service - Privacy. 
 
-**Texting Terms**
+### **Texting Terms**
 
 By providing your mobile number and clicking "I CONSENT", you consent to receive mobile text alerts regarding exclusive offers and promotions from Christmas Tree Shops Inc. You may receive up to 8 text messages per month. 
 
@@ -112,4 +112,4 @@ By signing up, you are confirming you are over the age of 13. 
 
 You understand that we will send mobile text messages using automated technology. 
 
-Message and data rates may apply. Send STOP to 47283 to cancel. Text HELP to 47283 for help. For more information contact us at bargains@christmastreeshops.com or call 1-888-287-3232. 
+Message and data rates may apply. Send STOP to 66763 to cancel. Text HELP to 66763 for help. For more information contact us at bargains@christmastreeshops.com or call 1-888-287-3232. 
