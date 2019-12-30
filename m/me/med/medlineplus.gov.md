@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230855id_/https%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230190601id_/https%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
