@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the w3resource.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215157id_/https%3A//www.w3resource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3resource.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230210031id_/https%3A//www.w3resource.com/privacy.php) for the most accurate reproduction.*
 
 # About privacy policy of w3resource
 
-Last update on October 12 2018 07:41:49 (UTC/GMT +8 hours)
+Last update on November 09 2019 06:56:36 (UTC/GMT +8 hours)
 
 w3resource (may be referred as 'we' hereafter) wants to inform our users regarding our privacy policies and how we or our partners may collect information from user and regarding our as well as our partner's commitment to protect privacy of our users. We request you to read this carefully.
 
