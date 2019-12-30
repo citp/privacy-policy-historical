@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626221340id_/https%3A//www.reverbnation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230203129id_/https%3A//www.reverbnation.com/privacy) for the most accurate reproduction.*
 
 # ReverbNation Privacy Policy
 
-#### Revised as of October 23, 2018
+#### Revised as of July 23, 2019
 
 Welcome to the website ReverbNation.com (the _"Site"_ ) and related platforms, products, and services available on or from the Site (the _"Services"_ ) are owned and operated by eMinor Incorporated d/b/a ReverbNation (together with its affiliates, successors, and assigns hereinafter referred to as _"our"_ , _"we"_ , _"us"_ , or _"ReverbNation"_ ).
 
@@ -79,6 +79,10 @@ If you choose (opt in) to use one of our social features, you may be asked to lo
 We link this data to a user ID that ReverbNation assigns to you. When a SNS sends us the user IDs and profile pictures of your friends, we check to see which of your friends also have chosen to use the same ReverbNation social feature you selected. If your friends have not chosen to use our social features, we do not retain their user IDs or other information about them. If your friends have opted in to use the same social feature you selected, then we link that information to you so that you can enjoy ReverbNation’s social features with those friends. We will update the list of friends linked to your user ID each time you log back into our social feature.
 
 While using a ReverbNation social feature, you may be able to see your friends’ profile pictures and their most recent use of the feature. Similarly, when your friends are using the feature, they may be able to see your profile picture and your most recent use of the feature. You may be able to invite your friends to join you in a social feature, such as by posting a message to your Facebook wall. You are never required to use ReverbNation’s social features in order to use our applications.
+
+#### LINKING TO OR EMBEDDING YOUTUBE VIDEOS IN YOUR PROFILE
+
+While using ReverbNation, users may link to or embed their YouTube videos to their ReverbNation profiles. By electing to link to or embed YouTube videos to your profile will utilize YouTube’s [API Services](https://developers.google.com/youtube/terms/developer-policies#definition-youtube-api-services) and you agree to be bound by the applicable [YouTube Terms of Service](https://www.youtube.com/t/terms). In addition to our normal procedure for deleting stored data, users can revoke that our access to your data via the [Google security settings page](https://myaccount.google.com/permissions?pli=1).
 
 #### CORRECTING OR UPDATING INFORMATION
 
@@ -171,4 +175,4 @@ For individuals who reside in the European Economic Area or Switzerland, if you 
 
 Any disputes regarding this Privacy Policy are subject to our [General Terms and Conditions](https://www.reverbnation.com/termsandconditions) and will be governed by the laws of the State of North Carolina, applicable to agreements made and performed there.
 
-© 2018 eMinor Incorporated. All rights reserved.
+© 2019 eMinor Incorporated. All rights reserved.
