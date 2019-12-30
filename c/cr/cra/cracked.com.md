@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cracked.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630203826id_/https%3A//www.cracked.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cracked.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230045042id_/https%3A//www.cracked.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy -Cracked.com - America's Only Humor Site | Cracked.com | Cracked.com
 
@@ -6,7 +6,7 @@
 
 **(Last Modified & Effective January 19, 2017)**
 
-Welcome to Cracked.com ("Website"), an interactive online service operated by The E.W. Scripps Company and its subsidiaries ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy.
+Welcome to Cracked.com ("Website"), an interactive online service operated by Literally Media and its subsidiaries ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy.
 
 We have adopted this Privacy Policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.
 
