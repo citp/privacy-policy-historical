@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macpaw.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625225142id_/https%3A//macpaw.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macpaw.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230145547id_/https%3A//macpaw.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - MacPaw
 
@@ -135,7 +135,7 @@ We only disclose Personal Data to third parties when:
 
 
 
-MacPaw does not share your Personal Data with third parties for the purpose of enabling them to deliver their advertisements to you.
+MacPaw does not share your Personal Data/personally ** ** identifiable information with third parties for the purpose of enabling them to deliver their advertisements to you.
 
 MacPaw does not sell or rent your Personal Data.
 
@@ -204,13 +204,15 @@ We rely on your consent to process Personal Data:
 
 In some cases, MacPaw may process Personal Data pursuant to legal obligation or to protect your vital interests or those of another person.
 
-Individuals located in the European Economic Area (EEA) have certain rights in respect to their personal information, including the right to access, correct, or delete Personal Data we process through your use of the Site and/or Product. If you’re a user based in the EEA, you can:
+You have the following rights in respect to your personal information, including the right to access, correct, or delete Personal Data we process through your use of the Site and/or Product. You can: * Have your Personal Data corrected or deleted. You may ask us to correct information you think is inaccurate or completely delete all information that we hold about you by emailing: 
 
-  * Have your Personal Data corrected or deleted. You may ask us to correct information you think is inaccurate or completely delete all information that we hold about you by emailing: [support@macpaw.com](mailto:support@macpaw.com).
-  * Access your Personal Data report by submitting a request at [support@macpaw.com](mailto:support@macpaw.com). This report will include the Personal Data we have about you, provided to you in a structured, commonly used, and portable format.
-  * Object to us processing your Personal Data. It is your right to lodge an objection to the processing of your personal data by emailing: [support@macpaw.com](mailto:support@macpaw.com) if you feel the “ground relating to your particular situation” apply.  The only reasons we will be able to deny your request is if we can show compelling legitimate grounds for the processing, which override your interest, rights and freedoms, or the processing is for the establishment, exercise or defence of a legal claims.
-  * You can ask us to stop using your Personal Data, including when we use your Personal Data to send you marketing emails. We only send marketing communications to users located in the EEA with your prior consent, and you may withdraw your consent at any time by clicking the “unsubscribe” link found within MacPaw emails and changing your contact preferences. Please note you will continue to receive transactional messages related to our Product, even if you unsubscribe from marketing emails.
-  * Complain to a regulator. If you’re based in the EEA and think that we haven’t complied with data protection laws, you have a right to lodge a complaint with your local supervisory authority.
+[support@macpaw.com](mailto:support@macpaw.com "Follow link")
+
+  * Access your Personal Data report by submitting a request at [support@macpaw.com](mailto:support@macpaw.com "Follow link"). This report will include the Personal Data we have about you, provided to you in a structured, commonly used, and portable format.
+  * Object to us processing your Personal Data. It is your right to lodge an objection to the processing of your personal data by emailing: [support@macpaw.com](mailto:support@macpaw.com "Follow link") if you feel the “ground relating to your particular situation” apply. The only reasons we will be able to deny your request is if we can show compelling legitimate grounds for the processing, which override your interest, rights and freedoms, or the processing is for the establishment, exercise or defence of a legal claims.
+  * Ask us to stop using your Personal Data, including when we use your Personal Data to send you marketing emails. We only send marketing communications to you with your prior consent, and you may withdraw your consent at any time by clicking the “unsubscribe” link found within MacPaw emails and changing your contact preferences. Please note you will continue to receive transactional messages related to our Product, even if you unsubscribe from marketing emails.
+  * Complain to a regulator. If you’re based in the European Economic Area (EEA) and think that we haven’t complied with data protection laws, you have a right to lodge a complaint with your local supervisory authority.
+  * Request to know more details about the categories or specific pieces of personal information we collect (including how we use and disclose this information), to delete their personal information, to opt out of any “sales” that may be occurring, and to not be discriminated against for exercising these rights.
 
 
 
@@ -236,7 +238,7 @@ Czech Republic
 
 Contact form: [https://www.verasafe.com/privacy-services/contact-article-27-representative](http://a.insgly.net/api/trk?id=emailclick&i=785717&eid=105368002&url=https%3a%2f%2fwww.verasafe.com%2fprivacy-services%2fcontact-article-27-representative&env=https%3a%2f%2fgoogleapps.insight.ly)
 
-This privacy policy was last updated on 25 March 2019 and this version is in line with the new GDPR guidelines.
+This privacy policy was last updated on 18 December 2019 and this version is in line with the new GDPR guidelines.
 
 We may need to update this Policy to keep pace with changes in our Sites, Products, and Services, our business, and laws applicable to us and you. We will, however, always maintain our commitment to respect your privacy. We will notify you of any material changes that impact your rights under this Policy by email (to your most recently provided email address) or post any other revisions to this Policy, along with their effective date, in an easy-to-find area of the Sites, so we recommend that you periodically check back here to stay informed of any changes. Please note that your continued use of MacPaw after any change means that you agree with, and consent to be bound by, the new Policy. If you disagree with any changes in this Policy and do not wish your information to be subject to it, you will need to stop using the Sites and/or Products.
 
