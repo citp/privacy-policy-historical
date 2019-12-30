@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suasnews.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508220505id_/https%3A//www.suasnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suasnews.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230201807id_/https%3A//www.suasnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - sUAS News - The Business of Drones
 
