@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dbrand.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426113339id_/https%3A//dbrand.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbrand.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231002650id_/https%3A//dbrand.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » dbrand
 
@@ -24,7 +24,7 @@ P.O. Box 98190
 Toronto, ON M4M 1J0  
 Canada
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Email: privacy@dbrand.com
 
 Attention: Privacy Information Officer 
 
