@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irlpodcast.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624105407id_/https%3A//www.mozilla.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irlpodcast.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231000246id_/https%3A//www.mozilla.org/privacy) for the most accurate reproduction.*
 
 # Mozilla Privacy
 
