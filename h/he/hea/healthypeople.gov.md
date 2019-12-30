@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthypeople.gov privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627151815id_/https%3A//www.hhs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypeople.gov privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230210627id_/https%3A//www.hhs.gov/privacy.html) for the most accurate reproduction.*
 
 # HHS Privacy Policy Notice | HHS.gov
 
@@ -83,84 +83,62 @@ The HHS Chief Information Officer (CIO) also holds the position of Senior Agency
 
 For HHS SAOP contact information, see:
 
-**Beth Killoran**  
-HHS Senior Agency Official for Privacy;  
-Deputy Assistant Secretary for Information Technology; and  
+**Jose Arrieta**  
+HHS Senior Agency Official for Privacy  
 Chief Information Officer (CIO).  
-Phone: 202-690-6162  
-E-mail: [beth.killoran@hhs.gov](mailto:beth.killoran@hhs.gov)
-
-For HHS Chief Privacy and Data Sharing Officer contact information, see:
-
-**Matthew Olsen**  
-HHS Chief Privacy and Data Sharing Officer; and  
-Executive Director, OCIO Office of Privacy & Information Management.  
-Phone: 202-260-0322  
-E-mail: [Matthew.Olsen@hhs.gov](mailto:Matthew.Olsen@hhs.gov)
+E-mail: [PrivacyProgramMailbox@hhs.gov](mailto:PrivacyProgramMailbox@hhs.gov)
 
 ### OpDiv Senior Officials for Privacy:
 
 Each OpDiv has, at a minimum, a Senior Official for Privacy (SOP) to oversee privacy compliance activities. For OpDiv SOP contact information, see:
 
-**Gary Cochran**  
+**Anita Alford**  
 Administration for Children and Families (ACF)  
-Phone: 202-401-6465  
-[Gary.Cochran@acf.hhs.gov](mailto:Gary.Cochran@acf.hhs.gov)
+[OCIO.Privacy@acf.hhs.gov](mailto:OCIO.Privacy@acf.hhs.gov)
 
 **Jacques Newgen**  
 Administration of Community Living (ACL)  
-Phone: 202-795-7414  
 [Jacques.Newgen@acl.hhs.gov](mailto:Jacques.Newgen@acl.hhs.gov)
 
 **Tim Erny**  
 Agency for Healthcare Research and Quality (AHRQ)  
-Phone: 301-427-1760  
-[Tim.Erny@ahrq.hhs.gov](mailto:Tim.Erny@ahrq.hhs.gov)
+[AHRQSecureAHRQ@ahrq.hhs.gov](mailto:AHRQSecureAHRQ@ahrq.hhs.gov)
 
 **Beverly Walker**  
 Centers for Disease Control and Prevention (CDC)  
-Phone: 770-488-8524  
-[vhz4@cdc.gov](mailto:vhz4@cdc.gov)
+[BEWalker@cdc.gov](mailto:BEWalker@cdc.gov)
 
-**Emery Csulak**  
+**Michael Pagels**  
 Centers for Medicare and Medicaid Services (CMS)  
-Phone: 410-786-8954  
-[Emery.Csulak@cms.hhs.gov](mailto:Emery.Csulak@cms.hhs.gov)
+[privacy@cms.gov](mailto:privacy@cms.gov)
 
 **Cullen Cowley**  
 Food and Drug Administration (FDA)  
-Phone: 301-796-3900  
-[Cullen.Cowley@fda.hhs.gov](mailto:Cullen.Cowley@fda.hhs.gov)
+[FDAPrivacyOffice@fda.hhs.gov](mailto:FDAPrivacyOffice@fda.hhs.gov).
 
-**James Ellis**  
+**Brent Kopp**  
 Health Resources and Services Administration (HRSA)  
-Phone: 301-443-6035  
-[JEllis@hrsa.gov](mailto:JEllis@hrsa.gov)
+[hrsaprivacy@hrsa.gov](mailto:hrsaprivacy@hrsa.gov)
 
 **Heather H. McClane**  
 Indian Health Service (IHS)  
-Phone: 301-443-1116  
 [Heather.McClane@ihs.gov](mailto:Heather.McClane@ihs.gov)
 
 **Celeste Dade-Vinson**  
 National Institutes of Health (NIH)  
-Phone: 301-402-6201  
-[celeste.dade-vinson@nih.gov](mailto:celeste.dade-vinson@nih.gov)
+[privacy@mail.nih.gov](mailto:privacy@mail.nih.gov)
 
-**Kamran Khaliq**  
+**OIG Senior Official for Privacy**  
 Office of Inspector General (OIG)  
-Phone: 202-205-9207  
-[SOP@oig.hhs.gov](mailto:SOP@oig.hhs.gov) or [Kamran.Khaliq@oig.hhs.gov](mailto:Kamran.Khaliq@oig.hhs.gov)
+[SOP@oig.hhs.gov](mailto:SOP@oig.hhs.gov)
 
 **Vanessa Baur**  
 Office of the Secretary (OS) and Program Support Center (PSC)  
-Phone: 301-945-5572  
-[Vanessa.Baur@hhs.gov](mailto:Vanessa.Baur@hhs.gov)
+[OSPrivacyMailbox@hhs.gov](mailto:OSPrivacyMailbox@hhs.gov)
 
 **Ammar Ahmad**  
 Substance Abuse and Mental Health Services Administration (SAMHSA)  
-Phone: 240-276-0128  
-[Ammar.Ahmad@samhsa.hhs.gov](mailto:Ammar.Ahmad@samhsa.hhs.gov)
+[Ammar.Ahmad@samhsa.hhs.gov](mailto:Ammar.Ahmad@samhsa.hhs.gov/) / [Info.Privacy@samhsa.hhs.gov](mailto:Info.Privacy@samhsa.hhs.gov)
 
 * * *
 
