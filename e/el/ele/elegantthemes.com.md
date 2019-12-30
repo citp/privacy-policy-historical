@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elegantthemes.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625222238id_/https%3A//www.elegantthemes.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elegantthemes.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231002851id_/https%3A//www.elegantthemes.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Elegant Themes
 
@@ -34,7 +34,7 @@ As is true of most websites, we gather certain information (such as mobile provi
 
 If you are a Client, when you register with us via our Website, we will ask you for some personally identifiable information, such as your first and last name, company name, email address, billing address, and credit card information. You may review and update this personally identifiable information in your profile by [logging in](https://www.elegantthemes.com/members-area/) and editing such information in your dashboard.
 
-You can request that all of your pesronal information be deleted from our servers using the online [deletion request](https://web.archive.org/data/) form.
+You can request that all of your personal information be deleted from our servers using the online [deletion request](https://web.archive.org/data/) form.
 
 You can request a copy of your personal information using the online [information request](https://web.archive.org/data/) form.
 
@@ -143,7 +143,7 @@ You can also write us at:
 Elegant Themes, Inc.   
 584 Castro Street #123   
 Apartment 3A   
-San Francisco, CA 94103   
+San Francisco, CA 94114   
 USA
 
 ### 8\. History
