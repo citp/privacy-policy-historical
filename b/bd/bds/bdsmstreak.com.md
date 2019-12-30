@@ -1,16 +1,186 @@
-> *The following text is extracted and transformed from the bdsmstreak.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061428id_/http%3A//bdsmstreak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdsmstreak.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230154307id_/https%3A//bdsmstreak.com/privacy) for the most accurate reproduction.*
 
 # 2257
 
 ## Privacy
 
-General  
-The operative parties referred to in this policy are Bdsmstreak.com and You, the User of this site.  
-Bdsmstreak.com is the publisher and operator of the website(s) listed at the beginning of this Policy. Hereinafter, Bdsmstreak.com shall be referred to as “Company”. When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Company. Additionally, when the terms “the Site” or “Site” are used, these terms refer to the website(s) listed at the beginning of this Policy. You, the User – As the User of this Site, this Policy will refer to the User as “You” or through any applicable second-person pronouns, such as “Yours,” etc. Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns. This Privacy Policy describes how we use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site. Revisions to this Policy We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the “refresh” button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “last modified” date remains unchanged after You have clicked the “refresh” button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed “last modified” dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting. Personal Information that We Collect Visitors to Our Site and services will have multiple manners of interactivity with Us. Depending upon Your level of interaction, We will collect different information about You. The type of information collected is as follows: Members - Members are those Users who interact with Our services in a way which requires registration, such as by uploading content to the Site. Members will be prompted to provide a valid e-mail address in the process of registering a username. Browsers - Browsers are visitors to the Site who never enter into any active data collection pages. Browsers may, however, view content uploaded by Members. Any information gathered from Browsers is also gathered from Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devices (explained below). How We Collect Information from You Passive Collection – We use cookies to collect information about You in order to enhance Your experience on the Site. The information collected in Our cookies includes, but is not limited to, Your User IP address, geographic location and other session data. Active Collection – We collect information from You, such as Your name, e-mail address and credit card information, if applicable, when You complete registration forms to sign up for Your membership on Our Site. Locations for such collection are registration or personal profile pages, but We reserve the right to add additional information collection portals. How We Use Your Information The primary use for Your information is to provide You with services You have requested and/or paid for. We also use Your information to deliver customized services to You. Member login information and e-mail addresses may be disclosed to third parties for the purpose of providing certain features or third-party upgrades as requested by the Member. We are not responsible for how third parties use your information, and You should become familiar with such third parties’ privacy policies prior to requesting their services. Non-personal and aggregate information, such as that collected passively is used in order to customize Our marketing efforts or to customize the use of Our Site for an aggregate group of customers. We additionally may use the personal information of Users whose membership has expired or has been cancelled in order to market Our services to these individuals in the future. We generally will use Your information for the purposes for which You specifically provide it, for example, to ensure payment for subscription services, if applicable. We also use Your information for market research purposes – in order to increase Your (and other Users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes. We also use Your information for the obvious purpose of providing Your User profile to all of Our other Members and Browsers. When You create a profile, You should consider all of the information on the profile to be public information, accessible by anyone, unless otherwise stated. Even if You choose to not make public Your personally identifying information, You should understand that there is a possibility that You may be identified through information You provide on Your profile. For example, You may be visually recognized by someone who sees Your picture or Your description may be adequately detailed that someone browsing the Site would be able to tell that the person is You. Accordingly, You understand that using this Site places You in control of all of the information displayed on Your profile, and You are fully responsible for any consequences arising out of such information You choose to publish. Special Cases. It is Our policy not to use or share the personal information about Browsers or Members in ways unrelated to those described in this Policy without also providing You an opportunity to opt out or otherwise prohibit such unrelated uses. However, We may disclose personal information about Browsers or Members, or information regarding Your use of the services or Site(s) accessible through Our services, for any reason if, in Our sole discretion, We believe that it is reasonable to do so, including: To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information; To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms & Conditions or other User policies; To operate Our services properly; To protect ourselves, Our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. If We have reason to believe that the User is not the owner of a credit card, even if the credit card use is authorized, We will provide information about You to the credit card holder. We will absolutely provide Your information to the credit card holder if We believe that fraud is a possibility. However, We do not require that there be fraud, as it is Our policy that the credit card holder always has an absolute right to access any and all of Your personal information. Anyone who violates Our Anti-Spam Policy, if applicable, shall have their personal information made public. If there is any investigation on any unlawful spamming, or any use of bulk e-mail in order to promote Your User profile, or any use of bulk e-mail in any manner that leads back to Our Site, or any one of Our Sites, We will cooperate with any and all parties completely and freely in order to see that Your bulk e-mail activities stop.   
-Public Areas  
-Any information provided in a User profile, blog, profile post, Member directory, chat room, or other related service should be considered to be public information. We do not, cannot, and will not act to maintain the privacy of any information that You provide in any such forum or medium.   
-Our Commitment to Data Security  
-We take measures to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of Our network and systems. Nevertheless, We cannot guarantee that Our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is one hundred percent (100%) breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.   
-How to Access or Modify Your Information We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, please refer to Your account settings page or the profile editing page.  
-Where to Direct Questions About Our Privacy Policy  
-If You have any questions about this Privacy Policy or the practices described herein, You may contact Us via link at header of our site.
+Privacy Policy
+
+Last Modified: May 25th, 2018
+
+Introduction 
+
+Bdsmstreak.com is privately owned website. (hereinafter “Bdsmstreak” or the “Website”) and is the controller of the information collected or provided via this Website.
+
+Please read this privacy policy carefully, as your access to and use of our Website signifies that you have read, understand and agree to all terms within this privacy policy. If you do not agree with any part of this privacy policy or our terms, please do not access or continue to use our Website or otherwise submit your personal data. We respect your privacy and are committed to protecting your personal data.
+
+If you have any questions about our privacy practices, please see “Contact Information” below for information on how to contact us. 
+
+We collect, process and retain personal data to the extent it is necessary to provide users with our service. This privacy policy applies to information we collect: 
+
+on this Website,  
+in e-mail, text and other communications between you and this Website.  
+When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this privacy policy. It does not apply to information collected by:
+
+us offline or through any other means, including on any other website operated by us or any third party (including our affiliates and subsidiaries); or any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements.
+
+The Data We Collect About You
+
+Personal data, or personal information, means any information about an individual from which that person can be identified by (“Personal Information”). It does not include data that has been anonymized or pseudonymized.
+
+We may collect, use, store and transfer different kinds of personal data about you, which we have grouped together as follows:
+
+Persons who visit the Website without logging in or registering “unregistered users” 
+
+· Technical Data includes internet protocol (IP) address, browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website. 
+
+· User Submitted Data includes data collected at your direction for a specific function, for example a contest or survey. 
+
+· Usage Data includes aggregated information about how you use our Website, products and services. 
+
+Persons who choose to create an account “registered users” 
+
+· Identity Data includes, username or similar identifier, date of birth and gender. 
+
+· Contact Data includes email address. 
+
+· Technical Data includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website. 
+
+· User Submitted Data includes data collected at your direction for a specific function, for example your username and password, your interests, preferences, feedback and survey responses. 
+
+· Usage Data includes information about how you use our Website, products and services. 
+
+· Marketing and Communications Data includes your preferences in receiving marketing from us and our third parties and your communication preferences. 
+
+We may also collect, use and share your data to produce and share aggregated insights that do not identify you. Aggregated data may be derived from your personal data but is not considered personal data as this data does not directly or indirectly reveal your identity. For example, we may aggregate your usage data to calculate the percentage of users accessing a specific Website feature, to generate statistics about our users, to calculate the percentage of users accessing a specific Website feature, to calculate ad impressions served or clicked on, or to publish visitor demographics. 
+
+We do not collect special categories of Personal Information about you (this includes details about your race or ethnicity, religious or philosophical beliefs, political opinions, trade union membership, information about your health and genetic and biometric data). However, particular preferences and sexual orientation depend on how you use our Website and services. The processing of such Sensitive Personal Information may be necessary to provide some of our service to you. 
+
+How is Your Personal Information Collected? 
+
+We use different methods to collect data from and about you including through: 
+
+Direct interactions. Information that you provide when carrying out search queries on our Website or by filling in forms on our Website, in particular at the time of registering to use our Website, subscribing to our service, posting material, taking part in surveys, entering a contest or promotion sponsored by us, when reporting a problem with our Website, or requesting further services. Automated technologies or interactions. See “Third-party Use of Cookies and Other Tracking Technologies” for details of how we may automatically collect your personal data. 
+
+User Contributions 
+
+We may provide areas on our Website where you can post information about yourself and others and communicate with others, upload content (e.g., pictures, videos, audio files, etc.), and post comments or reviews of content found on the Website. You should be aware that any Personal Information you submit, display, or publish in public areas of our website is considered publicly available and can be read, collected, used, and disclosed by others. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your Personal Information. To request removal of your personal information from our website, please refer to the section “your rights related to your personal information” in this policy. 
+
+Information Collected Through Automatic Data Collection Technologies 
+
+As you navigate through and interact with our Website, we use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information, search terms, and cookie information. 
+
+The technologies we use for this automatic data collection may include: 
+
+Cookies (or browser cookies). Cookies are small text files that are stored in your web browser or downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie, and allow a website to recognize a user’s device. 
+
+We currently use the following types of cookies: 
+
+Cookies that are strictly necessary: These are cookies that are required for the operation of our Website. These include, for example, cookies that enable a user to log in to our Website and to check if a user is allowed access to a particular service or content.
+
+Analytical cookies: These cookies allow us to recognize and count the number of users and to see how users use and explore our Website. These cookies help us to improve our Website, for example by ensuring that all users are able to find what they are looking for easily.
+
+Functionality cookies: These cookies are not essential, but help us to personalize and enhance your online experience on our Website. This type of cookies allows us to recognize you when you return to our Website and to remember, for example, your choice of language.
+
+Targeting cookies: These cookies record the visit of a user on our Website, the pages a user has visited and the links a user has followed in order to enable us to make our Website more relevant to the users' interests.
+
+We do not require that you accept cookies and you may withdraw your consent to our use of cookies at any time by adjusting your browser’s privacy settings. However, if you decline to accept cookies, some functionality on our Website may be disabled and you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. Cookies can be either session cookies or persistent cookies. A session cookie expires automatically when you close your browser. A persistent cookie will remain until it expires or you delete your cookies. Expiration dates are set in the cookies themselves; some may expire after a few minutes while others may expire after multiple year
+
+Web Beacons. Pages of our Website and our e-mails may contain small electronic files known as web beacons (also known as clear gifs, pixel tags, single-pixel gifs and web bugs) that are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies.
+
+Analytics. We use third party analytics, in particular Google Analytics provided by Google, Inc., USA (“Google”). These tools and technologies collect and analyze certain types of information, including IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, usage, media access control address (MAC Address), mobile unique device identifiers, and other similar information via the use of cookies. The information generated by Google Analytics about your use of the Website (including your IP address) may be transmitted to and stored by Google on servers in the United States. Because we activated IP anonymization for Google Analytics, Google will anonymize the last octet of a particular IP address. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity. To learn how you can opt out from this information collection by Google see “Choices About How We Collect, Use and Disclose Your Personal Information” below. 
+
+Third-party Use of Cookies and Other Tracking Technologies 
+
+Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Website. Unless expressly stated otherwise, our website does not provide any Personal Information to these third parties, however they may collect information, including Personal Information, such as internet protocol (IP) address, browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website. They may use this information to provide you with interest-based advertising or other targeted content. 
+
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “Choices About How We Collect, Use and Disclose Your Personal Information”. 
+
+How We Use Your Personal Data 
+
+We will only use your personal data when the applicable local law allows us to. Most commonly, we will use your personal data in the following circumstances: 
+
+For purposes of providing the services, customer management and functionality and security as is necessary to perform the services provided to you under our term and conditions and any other contract that you have with us.
+
+Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+
+Where we need to comply with a legal or regulatory obligation.
+
+Where you declare your valid consent to use it.
+
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data.
+
+Purposes for Which We Use Your Personal Information 
+
+In general, we use information that we collect about you or that you provide to us, including Personal Information and Sensitive Personal Information, for following purposes: Provision of services (Registered Members Only): to present our Website and its contents to you, including any interactive features on our Website, and to provide you with information, products or services that you request from us; we also collect and use Personal Information to verify your eligibility and deliver prizes in connection with contests and sweepstakes;  
+Customer management (Registered Members Only): to manage a registered users’ account, to provide customer support and notices to the registered user about his account or subscription, including expiration and renewal notices, and notices about changes to our Website or any products or services we offer or provide through it;   
+Customization of content (Registered Members Only): to perform research and analysis about your use of, or interest in, our Website content, products, or services, in order to develop and display content and advertising tailored to your interests on our Website and other sites;   
+Analytics: to determine whether users of the Website are unique, or whether the same user is using the Website on multiple occasions, and to monitor aggregate metrics such as total number of visitors, pages viewed, demographic patterns;   
+Functionality and security: to diagnose or fix technology problems, and to detect, prevent, and respond to actual or potential fraud, illegal activities, or intellectual property infringement;   
+Compliance: to enforce our terms and conditions and to comply with our legal obligations; in any other way we may describe when you provide the information; or for any other purpose with your consent provided separately from this privacy policy. 
+
+Disclosure of Your Personal Information 
+
+We do not disclose your Personal Information except in the limited circumstances described here. 
+
+We may disclose your Personal Information to members of our corporate group (that is, entities that control, are controlled by, or are under common control with us) to the extent this is necessary for the purposes of provision of services, customer management, customization of content, advertising, analytics, verifications, functionality and security, and compliance. Service providers. To our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, risk and fraud detection and mitigation, providing customer service, performing business and sales analysis, customization of content, analytics, security, supporting our Website functionality, surveys and other features offered through our Website. These service providers may have access to Personal Information needed to perform their functions but are not permitted to share or use such information for any other purposes. Legal successors. To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our Website users is among the assets transferred. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your personal information uses it in a manner that is consistent with this privacy policy. We access, preserve and share your Personal Information with regulators, law enforcement or others where we reasonably believe such disclosure is needed to (a) satisfy any applicable law, regulation, legal process, or governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or technical issues, (d) protect against harm to the rights, property or safety of our company, our users, our employees, or others; or (e) to maintain and protect the security and integrity of our Website or infrastructure. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.   
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. We also may share aggregated information with third parties for conducting general business analysis. This information does not contain any Personal Information and may be used to develop content and services that we hope you and other users will find of interest. 
+
+Retention of Personal Information 
+
+We will only retain your Personal Data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. 
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. 
+
+Where we no longer need to process your Personal Data for the purposes set out in this Privacy Policy, we will delete your Personal Data from our systems. 
+
+Where permissible, we will also delete your Personal Data upon your request. Information on how to make a deletion request can be found under “Your Rights Related to Your Personal Information”. 
+
+If you have questions about our data retention practices, please send us an e-mail at bdsmstreak@gmail.com.
+
+The period for which we keep your Personal Information that is necessary for compliance and legal enforcement purposes varies and depend on the nature of our legal obligations and claims in the individual case. 
+
+How We Protect the Security of Your Personal Information 
+
+We take appropriate security measures (including physical, electronic and procedural measures) to safeguard your Personal Information from unauthorized access and disclosure. For example, only authorized employees are permitted to access Personal Information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your Personal Information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your Personal Information. Please be advised, however, that we cannot fully eliminate security risks associated with the storage and transmission of Personal Data. 
+
+You are responsible for maintaining the secrecy of your unique password and account information at all times. We are not responsible for circumventions of any privacy settings or security measures contained on the Website.. 
+
+Choices About How We Collect, Use and Disclose Your Personal Information 
+
+We strive to provide you with choices regarding the Personal Information you provide to us. 
+
+You can choose not to provide us with certain Personal Information, but that may result in you being unable to use certain features of our Website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our Website.   
+You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of the Website may then be inaccessible or not function properly. You may opt out of the Google Analytics by visiting the Google advertising opt-out page or by downloading and installing the browser plug-in available at Google Analytics opt-out page.  
+If you submit Personal Information, you may delete and deactivate your account with us at any time. If you deactivate and delete the information of your account, your Personal Information and any and all other account related information including, but not limited to, user profile data, sharing data and any other data, or content specifically associated with your account will no longer be accessible by you. After deleting and deactivating your account, if you choose to have an account with us in the future, you will have to sign up for a new account as none of the information you previously provided or saved within your account will have been saved. 
+
+Your Rights Related to Your Personal Information Subject to local law, you have certain rights regarding the Personal Information we collect, use or disclose and that is related to you, including the right   
+to receive information on the Personal Information concerning we hold about you and how such Personal Information is used (right to access); to rectify inaccurate Personal Information concerning you (right to data rectification); to delete/erase your Personal Information (right to erasure/deletion, “right to be forgotten”); to receive the Personal Information provided by you in a structured, commonly used and machine-readable format and to transmit those Personal Information to another data controller (right to data portability) to object to the use of your Personal Information where such use is based on our legitimate interests or on public interests (right to object); and in some cases, to restrict our use of your Personal Information (right to restriction of processing). If we ask for your consent to use your Personal Information, you can withdraw your consent at any time. Note that in case of a withdrawal of your consent you may no longer able to use several functionalities of our Website and our services. You may, at any time, send us an e-mail at bdsmstreak@gmail.com to exercise your above rights in accordance with the applicable legal requirements and limitations. If you are located in the European Economic Area, you have a right to lodge a complaint with your local data protection authority. 
+
+Note that some requests to delete certain Personal Information will require the deletion of your user account as the provision of user accounts are inextricable linked to the use of certain Personal Information (e.g., your e-mail address). Also note that it is possible that we require additional information from you in order to verify your authorization to make the request and to honor your request. 
+
+Changes to Our Privacy Policy 
+
+We may modify or revise our privacy policy from time to time. Although we may attempt to notify you when major changes are made to this privacy policy, you are expected to periodically review the most up-to-date version found at so you are aware of any changes, as they are binding on you. 
+
+If we change anything in our privacy policy, the date of change will be reflected in the “last modified date”. You agree that you will periodically review this privacy policy and refresh the page when doing so. You agree to note the date of the last revision to our privacy policy. If the “last modified” date is unchanged from the last time you reviewed our privacy policy, then it is unchanged. On the other hand, if the date has changed, then there have been changes, and you agree to re-review our privacy policy, and you agree to the new ones. By continuing to use the Website subsequent to us making available an amended version of our privacy policy in a way that you can easily take notice of it, you thereby consent to such amendment. 
+
+Enforcement; Cooperation 
+
+We regularly review our compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or our treatment of Personal Information by contacting us through this Website at bdsmstreak@gmail.com. When we receive a formal written complaint, it is our policy to contact the complaining party regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the collection, use and disclosure of Personal Information that cannot be resolved by an individual and us. 
+
+No Rights of Third Parties 
+
+This privacy policy does not create rights enforceable by third parties or require disclosure of any Personal Information relating to users of the Website. 
+
+Our Policy Towards Minors 
+
+Our Website is not directed to persons under the age of 18 or the applicable age of majority in the jurisdiction from which the Website is accessed and we do not knowingly collect Personal Information from minors. If you become aware that your child has provided us with Personal Information, please contact us at bdsmstreak@gmail.com. If we become aware that a minor has provided us with Personal Information, we take steps to remove such information and terminate that person’s account. 
+
+No Error Free Performance 
+
+We do not guarantee error-free performance under this privacy policy. We will use reasonable efforts to comply with this privacy policy and will take prompt corrective action when we learn of any failure to comply with our privacy policy. We shall not be liable for any incidental, consequential or punitive damages relating to this privacy policy. 
+
+Contact Information 
+
+If you have any questions about this privacy policy or our information-handling practices, please contact us at bdsmstreak@gmail.com GDPR (General Data Protecton Regulation) In accordance with the General Data Protecton Regulation law in the European Union effective May 25, 2018, Bdsmstreak users can request a copy of their personal data as well as get Bdsmstreak to delete their personal data. 
