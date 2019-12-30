@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colorado.edu privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232018id_/https%3A//www.colorado.edu/policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorado.edu privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230224910id_/https%3A//www.colorado.edu/policies/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | University of Colorado Boulder
+# Privacy Statement | Campus Policies | University of Colorado Boulder
 
 ### Commitment to Protection of Individual Privacy
 
@@ -20,7 +20,7 @@ For website administration purposes, information, other than personally identifi
 
 ### **Advertising services and cookies**
 
-Some of our websites use remarketing service (such as DoubleClick or Google Adwords) to advertise across the internet on third party websites (including Google) to previous visitors to our site. Remarketing practices will display relevant ads tailored to you based on your past visits to a site under [www.colorado.edu](https://www.colorado.edu/).  We are not collecting any identifiable information through the use of these cookies or any other third party remarketing system. The information we do collect is used to enable the ability to display ads relating to the pages visited by the visitor.
+Some of our websites use remarketing service (such as DoubleClick or Google Adwords) to advertise across the internet on third party websites (including Google) to previous visitors to our site. Remarketing practices will display relevant ads tailored to you based on your past visits to a site under [www.colorado.edu](http://www.colorado.edu/).  We are not collecting any identifiable information through the use of these cookies or any other third party remarketing system. The information we do collect is used to enable the ability to display ads relating to the pages visited by the visitor.
 
 In addition to using cookies and related technologies as described above, we also may permit the third party companies to help us tailor advertising that we think may be of interest to users and to collect and use other data about user activities on our Sites and/or Services. These companies may deliver ads that might also place cookies and otherwise track user behavior. The data collected on user activities is not identifiable information but used to help determine if a user took action from the advertisement.
 
@@ -40,4 +40,16 @@ The information provided in this privacy statement should not be construed as gi
 
 Distribution: Students, Deans, Directors, Department Heads, Faculty and Staff
 
-G. P. "Bud" Peterson, Chancellor 
+### Effective Date
+
+Monday, March 26, 2007
+
+### Approved By
+
+G. P. "Bud" Peterson, Chancellor
+
+### Author(s)
+
+Electronic Communications Committee (ECC)
+
+Office of University Counsel
