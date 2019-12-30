@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geogebra.org privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608134253id_/https%3A//www.geogebra.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geogebra.org privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230083818id_/http%3A//www.geogebra.org/privacy) for the most accurate reproduction.*
 
-# Privé – GeoGebra
+# Privacy – GeoGebra
 
-Last updated: 12 mai 2018
+Last updated: May 12, 2018
 
 Welcome to the website and online services (the "Website") of GeoGebra!
 
