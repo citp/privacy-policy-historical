@@ -1,72 +1,90 @@
-> *The following text is extracted and transformed from the nailsmag.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406013738id_/https%3A//www.nailsmag.com/privacy-policy%3Fref%3Dftr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nailsmag.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230201014id_/https%3A//www.bobitbusinessmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Bobit Business Media | Bobit Business Media Privacy Policy
 
-This privacy policy pertains to the use of the NAILS Magazine website at www.nailsmag.com and is in addition to [Bobit Business Media privacy policy](http://www.bobitbusinessmedia.com/privacy.aspx).
+## Privacy Policy
 
-**Information we collect**
+Bobit Business Media privacy policy for all publications, events, and digital properties
 
-  * When you register an account at NAILS Magazine, we ask for your email address and certain optional information, such as your name.
-  * NAILS Magazine automatically receives and records information in our server logs from your browser, including your IP address, cookies, and the page you request. This is normal website behavior.
-  * NAILS Magazine uses information for the following general purposes: billing, identification and authentication, service improvement, contact, research, and anonymous reporting.
+Effective June 17, 2019
 
+Bobit Business Media (“BBM” or “we”) recognizes the importance of protecting the privacy of information provided to us. We provide this notice to ensure that your expectations and our practices are aligned and to make you aware of your choices with regard to our use and disclosure of the information you provide to us. We consider all subscribers, customers, members, web visitors, event/webinar/website registrants, conference attendees, and speakers part of the Bobit Business Media community. The following guidelines have been created to demonstrate our commitment to your privacy.
 
+Our location and contact information:
 
-  
-**IP addresses**
+Privacy Manager  
+Bobit Business Media  
+3520 Challenger Street  
+Torrance, CA 90503  
+Phone: (310) 533-2577  
+E-mail:  [privacy@bobit.com](mailto:privacy@bobit.com)
 
-IP addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in our user registration databases when you register with NAILS Magazine.
+### The Information We Collect
 
-IP addresses may be used for various purposes, including:
+We collect information you provide to us, including personally identifiable information, in the course of using, engaging with, or otherwise interacting with our products, services, and programs.  Through this interaction you can, among other activities, subscribe to one of our products (such as newsletters or magazines); request information from us or one of our trusted partners; engage in various activities like entering contests or sweepstakes, taking quizzes, responding to surveys, voting in polls or otherwise expressing an opinion; or participate in one of our online forums or communities.
 
-  * To diagnose or service technical problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
-  * To estimate the total number of users visiting NAILS Magazine from specific geographical regions.
-  * To make sure that people are not abusing the voting or submission systems.
+We may also collect information about your personal or professional interests, opinions and/or your use of various products, services and programs.  For example, we may ask you to provide your job responsibilities or the industry in which you work to qualify for a free magazine subscription.
 
+In some cases you can submit information about other people.  For example, you might submit a person’s name, company information, and mailing or email address to nominate the person for an industry award.
 
+In addition to the information you provide to us directly, we, our partners, advertising networks, advertisers or other third part service providers may also collect non-personally identifiable information when you visit our web pages, open our emails, or engage with any of our other products or services.  This includes such information as type of browser and operating system you are using, your IP address, your device identifiers, your internet service provider, location-based information, and the content you interacted with, viewed, or accessed.  This data may be combined and linked with data from other sources.
 
-  
-**Cookies**
+We use Google Analytics remarketing, display network reporting, and analytics demographics and interest reporting. Visitors can opt-out of Google Analytics for display advertising and customize Google display network ads using the Ads Settings (<https://www.google.com/ads/preferences>). Visitors may also opt-out of additional data collection via the Google Analytics opt-out browser add-on.  We use Remarketing with Google Analytics to advertise our own products and services via the Google Display Network.  Third-party vendors, including Google, show our ads on sites across the Internet. We and third-party vendors, including Google, use first-party cookies and third-party cookies to inform, optimize, and serve ads based on someone’s past visits to our websites.
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a website's computers and stored on your computer's disk.
+### How We Use Collected Information
 
-  * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
-  * If you reject all cookies, you will not be able to use NAILS Magazine services that require you to "log in" and you may not be able to take full advantage of the NAILS Magazine services.
-  * NAILS Magazine uses its own cookies for a number of purposes, which may include (but not be limited to) the following: 
-    * To access your information when you log in.
-    * To keep track of preferences you specify while you are using NAILS Magazine's services.
-    * To display the most appropriate advertising, based on your interests and activity on NAILS Magazine.
-    * To estimate and report our total audience size and traffic.
-    * To conduct research to improve NAILS Magazine's content and services.
-  * NAILS Magazine may let other companies (such as Google) that show advertisements on our pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to NAILS Magazine's cookies.
+We use the personal information that you provide to us to provide products, services and programs to you.  As part of a subscription and/or registration agreement, subscribers and registrants will be contacted by us through mail, e-mail, and/or phone to communicate with them about their subscription and/or registration. They will be contacted for renewal, re-qualification, surveys, updates concerning their account profile and special offers related to their subscription and/or registration.  You may unsubscribe from newsletters and other email communications at any time by clicking the unsubscribe link at the bottom of the email you are no longer interested in.
 
+From time to time we may contact you (or permit selected third parties to contact you) to notify you of special offers or other products, services, programs, or events.  By providing your email address and/or phone number you consent to us contacting you by email or telephone.
 
+The information we collect is also used to improve the content of our web pages, to customize the content and layout of our pages, and/or to notify visitors about updates to our website. We do not share individual contact information about our members with advertisers or third party vendors unless it’s specified when the information is collected.  We may offer contests, sweepstakes, promotions, editorial features or other offerings that are sponsored or co-sponsored by or presented with identified third parties. By participating in such activities or offerings, your IP address and the personally identifiable information you voluntarily submit may be provided to third parties we trust.  Bobit Business Media does not control the third parties’ use of this information.  Generally, we will let you know at the time of collection if a product is sponsored. If you wish to change your contact preferences with an individual exhibitor/sponsor, please follow their own unsubscribe request details. Unsubscribing with Bobit Business Media stops Bobit from sharing your information with third parties and from contacting you about issues not related to your subscriptions, but it does not affect any third-parties with whom we have shared your information from contacting you. In order to unsubscribe from communications from third parties, you must do that directly with the third-party company.
 
-  
-**Information sharing and disclosure**
+Certain information — such as your password and credit card number — is never disclosed in any form whatsoever to any outside party and we do not ask for that information over the phone
 
-  * When you post a photo or text on NAILS Magazine, your username or alias is visible to other users.
-  * If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
-  * Generally, NAILS Magazine does not share personal information about you with other people or non-affiliated companies without your consent, except when compelled by subpoenas, warrants, court orders or legal process.
-  * It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person, violations of NAILS Magazine's terms of use, or as otherwise permitted or required by law. We will transfer information about you if NAILS Magazine is acquired by or merged with another company. In this event, NAILS Magazine will notify you by email or by putting a prominent notice on the NAILS Magazine website before information about you is transferred and becomes subject to a different privacy policy. NAILS Magazine may share demographic information with business partners, such as "61% of users who regularly use NAILS Magazine are between the ages of 25 and 35" or the like. No personally identifiable information will be used without your permission.
+### Transfer of Personal Information
 
+We may disclose your personal information to selected third parties outside Bobit Business Media for purposes associated with payment processing, the supply of products or services, for website administration or elsewhere when you have consented to such disclosures.  These third parties are contractually bound to use personal information only to perform the services that we hire them to provide.
 
+In addition, we make available sponsored content, and content provided to us from third parties.  In return for access to this content, we may ask you to provide us with personal information.  When accessing content sponsored or contributed by a third party, your personal information may be shared with those third parties, and the information will be governed by those parties’ privacy policies as well as ours.  Bobit Business Media does not bear any responsibility for any actions or policies of such third parties.  If you do not wish to have your information shared with a third party, please do not access sponsored or third party content on our site.
 
-  
-**Editing and deleting account information**
+We may also disclose personal information to third parties in, but not limited to the following circumstances:
 
-  * You can change your NAILS Magazine profile information at any time, except your username, which is fixed when created.  **If you wish to reactivate your account sometime after terminating, you will need to do so with a new user name and you will have no access to any of the original material you submitted. If you forget your username, you can receive assistance retrieving it by writing to editor@nailsmag.com.**
-  * We may send you certain communications relating to the NAILS Magazine service, such as service announcements and administrative messages.
-  * You can delete your NAILS Magazine account at any time via your account profile page; however, please note that comments you have written on other NAILS Magazine users' photos will still exist, in order to maintain discussion integrity. Comments you've made on other parties' accounts may remain in place unless you expressly request in writing (at address below) that the comments be removed. Such comments may remain in place even if Bobit Business Media chooses to terminate your account.
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to fulfill their job duties.
-  * Your NAILS Magazine profile information is password-protected with a password you create. 
-  * In certain areas, NAILS Magazine uses SSL-encryption to protect data transmissions.
+  * In the event we buy or sell any assets, in which case we may disclose your personal data to the prospective seller or buyer of such asset.
+  * In the event a currently owned Bobit Business Media asset is acquired by a third party, in which case personal data will be transferred as part of that acquisition.
+  * If we are under duty to disclose or share personal data to comply with any legal obligation or in order to enforce our terms and conditions or other agreements or to protect the rights, property or safety of Bobit Business Media.
 
 
 
-  
-**Changes to this privacy policy**
+### Accessing/Correcting/Updating Personal Information
 
-NAILS Magazine may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your NAILS Magazine account or by placing a prominent notice on our site.
+You may view and update information that you previously submitted to Bobit Business Media by sending us an e-mail through the e-mail link provided above or writing to us at the above address.  Current subscribers and registrants can also access and change their information by selecting the appropriate link in the email product, or on the website where their current subscription/registration resides.  A request to change information may not be accommodated if the request conflicts with legal requirements or could result in incorrect information.  Requests to view or change personal information may take a few days to process.
 
-**If you have any questions, please e-mail us at editor@nailsmag.com.**
+### Cookies
+
+We use cookies to store website visitors’ preferences, record session information (such as items that visitors add to their shopping carts), record user-specific information such as what pages users access or visit, customize advertising content and/or frequency, customize web page content based on a visitor’s browser type or other information that the visitor sends, and store users’ names and passwords.  A cookie is a small amount of data sent to your browser from a server and stored on your computer’s hard drive.  Most browsers allow users to block the receipt of cookies, but doing so may compromise your ability to use certain features of our websites.  We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
+
+We also use third-party advertising companies to serve ads to visitors on our websites. These companies may use information (not including visitors’ names, addresses, email addresses, or telephone numbers) about visits to this and other websites in order to provide advertisements about goods and services of interest to visitors. For more information about this practice and choices about not having this information used by these companies, click here.  To learn more about behavioral advertising practices or to opt-out of this type of advertising for some companies, you can visit [http://www.networkadvertising.org](https://www.networkadvertising.org/) and [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
+
+### Ad Servers and Third Parties
+
+We may use third parties to present or serve advertisements, including advertisements based on online behavior to conduct research or collect additional personally identifiable information.  Additionally, third parties may place and use tracking mechanisms (e.g., tracking pixels) on our web pages or in the emails we send to you.  This Privacy Policy does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g. cookies, web beacons and clear gifs).
+
+Some of our web pages, products, and services contain links to third party sites and services whose privacy practices may be different than ours. We also allow you to connect with other third party sites and services. You should consult the other third party sites’ and services’ privacy notices in order to better understand their privacy practices.
+
+### Security
+
+Bobit Business Media takes every precaution to protect your information from unauthorized use. When you submit sensitive information via our websites, the information is protected both online and offline.
+
+Children should always get permission from their parents before sending any information about themselves (such as their names, e-mail addresses, and phone numbers) over the Internet, to us or to anyone else. We won’t knowingly allow anyone under 13 to register with us or to provide any other personal information. If you’re under 13, please do not provide us with any personal information about yourself (such as your name, your e-mail address or your phone number).
+
+### Users Outside the U.S.
+
+Our websites are operated in the United States. If you are located in the European Union or elsewhere outside of the United States, be aware that any information you provide to us will be transferred to the United States. By using our websites, participating in any of our products or services and/or providing us with your information, you consent to this transfer and to our collection and use of your information as set forth above.
+
+### Policy Updates
+
+From time to time, we may use provided information for new, unanticipated uses not previously disclosed in our privacy policy. If our information practices change we will immediately post any adjustments to our policy on this website. This will serve as your notification of these changes. If you are concerned about how your information is used, bookmark this page and check back periodically.
+
+### Enforcement
+
+If you feel that this site is not following its stated information policy, please contact us through the above postal address, e-mail link, or phone number.
