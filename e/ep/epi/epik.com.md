@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epik.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505063032id_/https%3A//epik.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epik.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230201153id_/https%3A//epik.com/privacy.php) for the most accurate reproduction.*
 
 # Terms and Conditions - epik.com
 
@@ -24,7 +24,6 @@ Additionally, Epik asks new customers to select or create the following:
 
 \- User Name  
 \- Password  
-\- Security Questions with Customized Answers  
 
 
 (3) Payments 
@@ -52,7 +51,7 @@ If you contact Epik customer support, our system will log pertinent information,
 
 \- Fist and Last Name  
 \- Email Address  
-\- Phone Number  
+\- Account PIN Number  
 \- Message text  
 
 
@@ -99,7 +98,7 @@ Epik sends automated renewal reminders via email to help customers avoid uninten
 
 Your password is used to provide secure account access at Epik. Your user name is used to identify accounts in contexts where you don't wish to share your personal name or email address. For example, when moving a domain from someone else's account to yours, you may not wish to divulge personally identifying information. As a pseudonym tied to your account, the user name can be a useful substitute. 
 
-We refer to your 3 security questions and customized answers in the event that a password is forgotten and you cannot reset it through email. For customers who have lost email access but who can contact Epik by phone, this is often a life saver. We also refer to these secret questions and answers as an extra layer of security when someone – perhaps you, or perhaps an impostor – requests changes or private details about your account. If you are concerned that these answers stored by Epik could be used to answer similar security questions at other websites, then you can simply invent unique answers for Epik – answers which do not unlock non-Epik accounts owned by you. We allow you to customize your answers any way you choose. 
+We refer to your account PIN # in the event that a password is forgotten and you cannot reset it through email. For customers who have lost email access but who can contact Epik by phone, chat or an alternative email address not on file, this is often a life saver. For those who have misplaced their PIN # or did not take note of it while logged into their account, will be able to submit requested information such as a valid ID and selfie through our account with Validation.com. A link will be supplied to go to in order to submit the requested information for review. 
 
 (3) Payments 
 
@@ -119,7 +118,7 @@ In rare cases, Epik must investigate suspicious activity, including credit card 
 
 (5) Support Inquiries 
 
-In the context of support tickets, Epik relies on your first and last name, email address, and phone number in several ways: to validate your identity, locate your account quickly, search for your ticket within our system, and reply to you. This information is preserved indefinitely along with the messages themselves. We use it to train support staff, document abuse allegations, identify and fix glitches, and research customer history in order to help you in the future. 
+In the context of support tickets, Epik relies on your first and last name, email address, and account PIN number in several ways: to validate your identity, locate your account quickly, search for your ticket within our system, and reply to you. This information is preserved indefinitely along with the messages themselves. We use it to train support staff, document abuse allegations, identify and fix glitches, and research customer history in order to help you in the future. 
 
 (6) Domain Inquiries 
 
