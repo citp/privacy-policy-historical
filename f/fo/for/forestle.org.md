@@ -1,6 +1,153 @@
-> *The following text is extracted and transformed from the forestle.org privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625021312id_/https%3A//info.ecosia.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestle.org privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230035932id_/https%3A//info.ecosia.org/privacy) for the most accurate reproduction.*
 
 # Learn more about our privacy policy and the data that we do collect
+
+Forests need protecting and so does your privacy. We make sure to do both.
+
+  * tiger icon_new Created with Sketch.
+
+#### We don’t store your searches permanently
+
+We don’t create personal profiles of you based on your search history. We actually anonymize all searches within one week.
+
+  * trees icon_new Created with Sketch.
+
+#### We don’t sell your data to advertisers
+
+Many web services collect user data in order to sell it without asking your permission. We don’t sell your data or your searches to advertising companies.
+
+  * sea icon_new Created with Sketch.
+
+#### Your searches are encrypted
+
+We protect your searches from potential eavesdroppers with a securely encrypted connection. This way we make sure that nobody between you and us can see your searches.
+
+  * fish icon_new Created with Sketch.
+
+#### We don’t use external tracking tools
+
+Most websites use external tracking tools, like Google Analytics, to optimize their services. We don’t use such third party trackers, in order to prevent others from accessing your searches.
+
+  * #### You can turn off all our tracking
+
+We only collect a small amount of data to be able to improve our services. If you want to opt out of tracking, you can activate “Do Not Track” in your browser’s settings.
+
+
+
+
+### How does Ecosia protect my privacy?
+
+We only collect the data we absolutely need and do so with a self-hosted, secure and encrypted in-house analytics system.
+
+We do not, and never will, share or sell any data we collect ourselves with any third party. Also, no third party that is not directly involved in answering your search request will ever have access to your search data.
+
+For all data we collect ourselves, we take data protection very seriously and take many steps to ensure it is safe and anonymous. For example:
+
+  * We remove parts of the IP address when we store it so they become anonymous. For example 192.168.152.223 becomes 192.168.XXX.XXX
+  * We do not use unique event fingerprinting
+  * We send all data collected from Ecosia services over an SSL-secured connection
+  * We store all analytics data in an highly encrypted database
+  * We only keep fully anonymised search data after 7 days
+
+
+
+If you have "Do Not Track" enabled in your browser settings we do not collect any analytics data. Most other websites ignore this setting - we think users should have a choice.
+
+We only allow connections to our search engine over a secured SSL/HTTPS connection. This way no one between you and Ecosia can secretly listen in on your searches. We use Digicert, one of the largest and most trusted SSL certificate authorities, to generate and manage our SSL certificates.
+
+Ecosia’s servers are located around the world in order to provide a fast response no matter where you are. However, when you perform a search on Ecosia, your request will generally be routed to the server that is geographically nearest to you. That means, for example, if you are located in Germany your search traffic will remain within Germany and will fall under strict German privacy regulations.
+
+### Why are you collecting data at all?
+
+At Ecosia, we want to make sure our users have the best search experience possible. We collect data and do statistical analysis to understand user behavior and trends, how people use our services, and to monitor, troubleshoot, and improve Ecosia. We might, for example, use it to decide which new feature to build next.
+
+For this we use a self-hosted, secure and encrypted in-house analytics system. This allows us to gather data about how our users interact with Ecosia products in a secure and anonymized way.
+
+We also save the searches we receive to filter spam. Unfortunately there is a lot of spam search requests and this allows us to block them. If we would not block spam it would cost us money and resources to answer these search requests, meaning that we would plant less trees.
+
+After 7 days we remove all personal information (like the IP address) from the search data. This way we make 100% sure that we have no way of knowing who searched for what and also no way of connecting different searches to each other or creating any kind of profiles.
+
+Additionally, we collect anonymous data to help identify and fix bugs and issues in Ecosia products and services. This data for example includes [log data](https://wikipedia.org/wiki/Server_log) collected by our servers or data related to program crashes and exceptions.
+
+### What about cookies?
+
+A cookie is a small text file that the website you visit sends to your computer. Ecosia uses cookies to store your settings, so we know in which language to show you this page for example.
+
+Information stored in our cookies include:
+
+  * Your country and language settings
+  * Whether or not you have installed an extension
+  * The value of your search counter
+  * Your adult filter settings
+  * The timestamp of your last search
+  * Your Bing Client ID (if enabled)
+  * If you have interacted with certain features before, to for example show you that you have unread notifications
+  * In some cases which way you have found out about Ecosia
+  * In some cases an identifier for our own anonymous usage data, for example to know how many users we have
+  * To determine which version of the page to show you if we are running a test with two different version (A/B test)
+
+
+
+We do not store any personal information in the cookie.
+
+### Can anyone see my searches?
+
+After 7 days we remove all personal information (like the IP address) from the search data we collect ourselves. So we don't know what you have searched for.
+
+We will never share your searches with anyone except services that are directly involved in answering your search request, like Bing. To make sure, we don't use any third party tools on the Ecosia Search pages. We also actively prevent "Search Leakage", so none of the sites you visit by clicking on a search result on Ecosia know what you searched for.
+
+Ecosia does provide options for performing searches on various third party websites via the “More” dropdown, the “Maps” tab, and the Ecosia Search Tag feature. Please be aware that we can’t influence what third party websites track about you once you have followed a link.
+
+### Will any data ever be shared with 3rd parties?
+
+We will never share your searches with anyone except services that are directly involved in answering your search request, like Bing. To make sure, we don't use any third party tools on the Ecosia Search pages.
+
+There are some cases where information you actively submit will be handled by third party tools. They all store it securely and don't share it with anyone. They also all follow the strict EU privacy laws.
+
+  * When using our newsletter: [Mailchimp](https://kb.mailchimp.com/accounts/management/about-the-general-data-protection-regulation)
+  * When applying for a position with us: [Lever](https://www.lever.co/privacy/)
+  * When using the contact form or reading our FAQs: [Zendesk](https://www.zendesk.com/company/customers-partners/eu-data-protection/)
+  * Data about how well our servers are running: [Sentry](https://sentry.io/security/#data-seurity-and-privacy), [HockeyApp](https://support.hockeyapp.net/kb/app-management-2/what-data-is-collected-with-the-hockeysdks-2), [Papertrail](https://papertrailapp.com/info/terms)
+  * When visiting our Blog: [Ghost](https://ghost.org/privacy/)
+  * When sending yourself an sms to download our mobile app: [Branch.io](https://branch.io/policies/#privacy)
+  * When taking part in a survey: [Typeform](https://www.typeform.com/help/gdpr-compliance/)
+
+
+
+Ecosia does use third party tools on non-search pages where absolutely necessary to help us understand and tune our marketing campaigns. For example, we may run an ad campaign on a social media site that requires us to share some data about user activity in order to help us understand how effective that campaign is. This helps us to prevent spending money on unsuccessful advertising campaigns that could instead be used to plant trees.
+
+If you wish to revoke consent of these third party tools to collect your data please use the following links.
+
+  * Facebook: <https://www.facebook.com/ads/preferences/>
+  * Adwords: [https://adssettings.google.com](https://adssettings.google.com/)
+
+
+
+### What data do you share with search results providers like Bing?
+
+We do work with third parties to answer your search requests. To some of our partners we don’t send your search query or any other information, like the IP address. For example, for our weather results we only send the location we are requesting weather information for. To other partners we have to forward more details in order to answer your search request.
+
+For example, when you do a search on Ecosia we forward the following information to our partner, Bing: IP address, user agent string, search term, and some settings like your country and language setting.
+
+Additionally, by default Ecosia sets a Bing-specific “Client ID” parameter to improve the quality of your search results. If your browser has “Do Not Track” enabled, we disable the “Client ID” automatically. You can also choose to disable this feature by modifying your user settings.
+
+Bing automatically anonymizes your Ecosia search history and unique identifier after 4 days. For more information on how Bing handles your data see their [privacy policy.](https://privacy.microsoft.com/privacystatement)
+
+### How can you protect my privacy, if you show ads?
+
+Like other search engines, we do display search ads next to the search results. When users click on these ads we earn income, which we use for tree planting. We can display these advertisements while still being privacy friendly.
+
+We work with ad networks, like Bing Ads, to show ads based on your search query. When you do a search and ads are displayed next to the search results no data is collected or shared with the advertiser.
+
+### How does your privacy policy compare to other search engines?
+
+Ecosia is a “privacy friendly” search engine. We take user privacy very seriously.
+
+By using Ecosia (instead of for example Google) you drastically reduce the amount of data that is collected about you. At Ecosia, we don’t create personal profiles of you, but anonymize all searches after 7 days. Google has lots of other services (Android, Chrome, Gmail, YouTube, Google Analytics being used on other websites etc.), which means they can combine data from a lot of sources and create a detailed profile of you to show you personalized search results and advertisements.
+
+There are only a few search engines with their own web index - for example Google, Bing, Yandex and Baidu. Most other general web search engines cooperate and share data with these companies in some form. We currently work with Bing and are very transparent about what we share with them.
+
+Beyond that, no search engine can ever provide perfect protection of your search data, because other parties – like your network provider or browser for example – might still be able to access some of your data. If you think somebody might be after you, we would recommend checking out security tools like VPNs and services like TOR.
 
 The protection of your privacy is extremely important to us. This data protection declaration provides information on how and for what purpose we process personal data and explains the rights to which you are entitled. We are aware of how important personal data is to our users and we uphold all German and European data protection provisions.
 
