@@ -1,133 +1,362 @@
-> *The following text is extracted and transformed from the thejinxhbo.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010023434id_/http%3A//www.hbo.com/html/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejinxhbo.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230154059id_/https%3A//www.hbo.com/privacy-policy) for the most accurate reproduction.*
 
-# HBO.com: Corporate Information: Privacy Policy
+# Privacy Policy | HBO
 
-## HBO Privacy Policy
+Effective Date: January 1, 2020
 
-Last updated: July 1, 2014. To see a summary of what has changed, [click here](https://web.archive.org/html/privacy-policy/summary-of-changes.html).
+To review our current Privacy Policy, please go to: https://www.hbo.com/privacy-policy-previous
 
-Please read this Privacy Policy carefully before using this online entertainment service. Access to and use of this online entertainment service (the "Service") is provided by Home Box Office, Inc. ("HBO," "Cinemax," "Us" or "We") subject to the following. This Privacy Policy also applies to, without limitation, online and mobile Web sites, services and applications, as well as all components, features and downloads that are owned or controlled by HBO, are available through the Service, that interact with the Service and display this Privacy Policy and which are collectively included in the definition of "Service.". References to "you" in this Privacy Policy shall also include any household member accounts established by you, if available. 
+Thank you for visiting a WarnerMedia Entertainment property. This Privacy Policy explains our online information practices and the choices you can make about information collected through our websites, services, and applications (each a “Site” or collectively, the “Sites”). This Privacy Policy applies to any Site that links directly to this policy. For certain offerings on our Sites, there may be additional notices about our information practices and choices. Please read those additional privacy disclosures to understand how they apply to you. Our privacy policy is designed to provide transparency into our privacy practices and principles. You can learn about our WarnerMedia and AT&T affiliates by visiting [here](https://warnermediaprivacy.com/affiliates/).
 
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used in connection with the Service. This Privacy Policy applies to the Service, and covers information collected on or through or in connection with your use of the Service. 
+**TABLE OF CONTENTS**
 
-HBO reserves the right to modify the terms and conditions of this Privacy Policy or to change, modify or otherwise alter any feature of the Service, at any time in its sole discretion. Changes may be communicated to you by making the revised Privacy Policy available for your review. If we make changes to this Privacy Policy that materially modify our rights to use your previously-collected personally identifiable information, we will notify you to obtain your consent either through an email or a prominent posting on this Service. Your continued use of the Service after the revised version is made available constitutes your agreement to the revision.
+· INFORMATION WE COLLECT
 
-In addition, please review the Service's [Terms of Use](https://web.archive.org/html/terms-of-use/index.html), which governs your use of the Service. BY USING OUR SERVICE, YOU CONSENT TO OUR PRIVACY POLICY AND TERMS OF USE AND OUR COLLECTION, USE AND SHARING OF YOUR INFORMATION AND DATA, AND OTHER ACTIVITIES, AS DESCRIBED BELOW.
+· HOW WE USE THE INFORMATION
 
-1\. **The Information We Collect**
+· INFORMATION SHARING AND DISCLOSURE
 
-On certain portions of the Service, you are requested to provide personally identifiable information. The types of personally identifiable information that may be collected on these pages may include, without limitation: e-mail address (mandatory for certain functions, such as to set Parental Controls, enter a sweepstakes or contest or establish a registered user account but otherwise optional for many promotional materials), and other information (e.g., name, mailing address, cell phone numbers, date of birth, subscriber registration information, screen name, credit card information, bank account information and information about your interests in and use of various products, programs, and services) you voluntarily provide. Personally identifiable information may be collected when you: (a) create a Registered Account; (b) create Subaccounts linked to your Registered Account; (c) register for promotions or other features of the Service; (d) report any issues relating to the Service or your use of the Service; (e) provide feedback or post comments on the Service; (f) engage in other transactions on the Service, including the purchase of products; or (g) answer a survey or participate in research. HBO also may collect personally identifiable and other information from you in the course of investigating suspected violations of this Privacy Policy and HBO's Terms of Use. 
+· YOUR CHOICES AND CONTROLS
 
-We also may collect certain other information when you access the Service, such as: the type of browser you are using; the type of operating system you are using; the IP address or other unique identifier such as a Device Identifier (defined below) of any of your computer(s) or device(s) that are used to access the Service; the name of your Internet service provider or mobile carrier; referring/exit pages; date/time stamp; clickstream data; web beacons; precise geolocation information and information about your interests in and use of various products, programs, and services (collectively described as "Usage Information," described in greater detail in paragraph 2(e). below). If you log in via a social media platform, see Section 4 regarding additional information that may be collected. In addition, when you visit the Service our servers automatically collect information describing your use of the Service, including but not limited to content accessed by you, page/screen visits, length of time viewing a certain page or program, how the content is viewed, etc. 
+· COOKIES AND OTHER TECHNICAL INFORMATION
 
-We may on occasion combine your information we collect with additional records (including those of our vendors and affiliated companies) to enhance our ability to market to you those products, features, or services that may be of interest to you, to assist us in providing, personalizing and improving our Service and other offerings, and for research purposes. 
+· INFORMATION SECURITY
 
-Some of the sites associated with our Service also allow you to invite your friends to participate in activities or allow you to share certain features with your friends. Inviting friends is optional, and in some instances may help you to earn incentives. To do so, you may provide their contact information or may enter your log-in credentials to import e-mail addresses from your address book from other sites or devices that support such functionality (e.g. Yahoo! and Gmail). Additionally, if your friends enter the Service via links you provide - such as on social media sites - you may receive incentives for such referrals. 
+· HOW YOU CAN ACCESS OR CORRECT INFORMATION
 
-2\. **How We Use the Information**
+· ADDITIONAL INFORMATION REGARDING CHILDREN'S PRIVACY
 
-(a) **To Enable and Improve Access to the Service.** We may use or share the information you provide about yourself with our vendors, affiliates, partners and distributors to verify your eligibility to access the Service, fulfill your requests for our products, programs, and services, to customize your use of the Service based on your viewing patterns and areas of interest, verify the status of your Registered Account and/or Subaccounts, for research and analytics, and to provide you with information regarding changes or updates to the Service, newsletters, and special offers and promotions. 
+· INTERNATIONAL TRANSFER
 
-The information we collect in connection with our online, mobile and video forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs and services. 
+· NOTIFICATION REGARDING PRIVACY POLICY UPDATES
 
-If you choose to submit content for publication, we may publish your screen name and other information you have provided to us on the Service, on the Internet, or elsewhere. We also may access content posted about our programs and services on various online platforms (such as Twitter hash tags) and post them on our site.
+· HOW TO CONTACT US
 
-(b) **To Assist Third Parties Acting on Our Behalf.** We may use third party vendors to perform certain services on behalf of us, such as hosting the site or application, fulfilling your orders of products and/or services, designing and/or operating the Service's features, tracking the Service's activities and analytics, and enabling HBO to send you special offers or performing other administrative services. We may provide these vendors with access to user information, including Device Identifiers and personally identifiable information, to carry out the services they are performing for you or for us. We may use third party analytics service providers for purposes such as to evaluate and provide us with information about the Service and viewing of our content. These vendors may set and access their own Tracking Technologies (defined below) on your Device and they may otherwise collect or have access to information about you. Please recognize that HBO and/or its vendors (such as mailing houses or customer service vendors) may store this information, and may share this information with third parties as necessary to process your transactions and provide access to the Service by you and your Subaccount holders. HBO may also use this information for internal review and analysis of the Service, the customer service process, and consumer comments. 
+· CALIFORNIA AND CCPA PRIVACY RIGHTS AND DISCLOSURES
 
-(c) **To Communicate With You.** We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to provide you with newsletters, promotional information about HBO and/or the Service, in connection with incentive programs, rewards and fan engagement activities, to respond to your inquiries about our offerings and provide customer service assistance, to offer you other products, programs or services that we believe may be of interest to you, or to contact you about changes to the Service or other system requirements, your Registered Account or Subaccount with us, or any customer service requests submitted by you.
+· [AFFILIATES](https://warnermediaprivacy.com/affiliates/)
 
-(d) **To Improve the Service.** We sometimes use the information that we collect to improve the design and content of our Service and to enable us to personalize your experience in using our Service. We also may use this information to analyze usage of the Service in the aggregate, to provide user ratings and other information to subscribers generally, to offer you products, programs, or services that we think you might enjoy, and to better assist with customer service. We may also share such information in the aggregate to enable partners, prospective partners, affiliates or third parties (such as Nielsen, movie studios, cable and satellite companies, etc.) to analyze usage of particular items of content, such as how often a particular film was streamed or how much of a particular film was watched. 
+INFORMATION WE COLLECT
 
-(e) **Cookies and Usage Information Collected as You Access and Use the Service.** In addition to any personally identifiable information or other information that you choose to submit to the Service, we and our third-party service providers may use a variety of technologies that automatically or passively collect certain information whenever you visit or interact with the Service ("Usage Information"), which technologies may be downloaded to your Device (defined below) and may set or modify settings on your Device. This Usage Information may include the browser that you are using, the URL that referred you to our Service, all the areas within our Service that you visit and your activities there, your Device location, your Device characteristics and certain Device data, and the time of day, among other information. We also may collect precise geolocation from your Device if you provide us with consent. We may use Usage Information for a variety of purposes, including to assess, enhance or otherwise improve the Service or our activities in connection with it, for analytics or for marketing purposes. In addition, we may collect your IP address or other identifier ("Device Identifier") for your computer or other device used to access the Service (any, a "Device"). 
+We may collect different types of information during your interactions with our Sites and through our advertising and media across the Internet and mobile apps. This information may include personal information (e.g., name, phone number, postal address, email address, and certain payment information), technical information (e.g., technical information, including device identifier, IP address, browser type, operating system) and usage information (e.g., how you use and navigate to and from our Sites, and information about content or advertisements you have been shown or have clicked on). We may combine these types of information together, and collectively refer to all of this information in this Privacy Policy as “Information.” Information may be collected as described below and through the use of cookies, web beacons, pixels, and other similar technologies by us or by other companies on our behalf. Below we describe the types of Information we may collect:
 
-A Device Identifier is a number that is automatically assigned to your Device used to access the Service, and our computers identify your Device by its Device Identifier. We may access and use Device Identifiers that have already been associated with your device. 
+**Registration, account, and sign-up information.** We may collect Information in the course of your use of, or registration with, our Sites. For example, when you create an account, register for or download an application, or sign-up for a product or service, you may provide us with certain personal information. This type of personal information may include: name, phone number, postal address, fax number, email address, or certain payment information (e.g., credit card and billing information). We may also receive Information about your interest in and use of various products, programs, services, and content available on or through our Sites.
 
-We may use various new and hereafter developed technologies to collect Device Identifiers, Usage Information and Demographic Information about you ("Tracking Technologies"). A few of the methods that may be used to collect Usage Information include, without limitation, the following (and subsequent technology and methods hereafter developed):
+**Other information you provide to us.** On some Sites, you may share other information about yourself by, for example, publishing and sharing the information with the Site’s website or in the Site’s community. Sometimes you may also choose to provide more sensitive forms of personal information to us, such as information regarding your physical or mental health, biometric data, race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, or trade union membership. For example, we may collect this type of sensitive information if you participate in surveys, focus groups, or opportunities to test new products, programs, or services. We collect this sensitive information with your consent, if required by law, and we take special steps to protect and limit any use of it to the purposes for which it is provided.
 
-**_Cookies_.** A browser cookie is a data file placed on a Device when it is used to visit the Service. Cookies may be used for many purposes, including, without limitation, remembering you and your preferences and tracking your visits to and activities in connection with the Service. The Service also may use locally stored objects to provide certain content, such as video on demand, video clips, or animation. Adobe's Flash player and similar applications use this technology to remember settings, preferences, and usage similar to browser cookies. Most cookies may be disabled or removed or blocked using tools and settings on commercial browsers. However, some cookies, such as Flash cookies or HTML5 cookies, may not be disabled through your browser. For information on disabling Flash cookies, go to [Adobe's website](http://www.adobe.com/) at www.adobe.com. Please be aware that if you disable or remove cookies some parts of our Service may not work and that when you revisit our Service, your ability to limit cookies is subject to your browser settings and limitations.
+**Information from others inviting friends.** On some of our Sites, we may collect Information other people submit about you. For example, a friend might submit Information to invite you to participate in an offering, make recommendations, or share content. By processing these requests, we may receive your Information, including a recipient’s name, postal address, email address, telephone number, or information about your interest in and use of various products, programs, services, and content. Some of our Sites also allow users to invite friends to participate in activities by providing their friends’ contact details or importing contacts from your address book or from other sites. 
 
-**_Web Beacons_.** Web beacons are small strings of code that provide a method for delivering a graphic image on a web page for the purpose of transferring data, such as: the IP address of the computer that downloaded the page on which the web beacon appears, the URL (Uniform Resource Locator) of the page on which the web beacon appears, the time the page containing the web beacon was viewed, the types of browser that fetched the web beacon, the identification number of any cookie on the computer previously placed by that server, or whether an email has been opened. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. The Service may use web beacons for a number of purposes, including, without limitation, to count visitors to the Service, to monitor how users navigate the Service, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed. 
+**Information from other sources.** We may, on occasion, combine Information we receive online with other information, including usage information from our other Sites and our online advertising and media. We may also supplement or combine Information with information from a variety of other sources or outside records, such as demographic, transaction history, or personal information, and we may use that combined information in accordance with this Privacy Policy.
 
-(f) **Third Party Ad Servers.** As discussed in detail below in paragraph 5, on our sites or as part of our services, third party ad servers may present or serve advertisements, provide us with data collection, reporting, ad response measurement, and site analytics, and assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. They may also collect information concerning your online activities over time and across different websites. The information they may collect includes the other sites you have visited or applications that you have downloaded to your mobile device, and other information about you or your device in order to help analyze and serve anonymous targeted advertising on the Service and elsewhere. For more information about third party ad servers and your ability to opt-out of targeted advertising from such third parties, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/) (www.networkadvertising.org) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices) (www.aboutads.info/choices).
+**Social media.** You can engage with some of our content and offerings, such as videos, games, applications, and other offerings on or through third party communities, forums, and social media sites, services, plug-ins, and applications (“Social Media Sites”). When you link to or interact with our Sites or content through Social Media Sites, you may allow us to receive certain Information from your social media account (e.g., name, user ID, email address, profile photo, photos and videos, gender, birthday, location, your list of friends and their contact details, people you follow and/or who follow you, the posts or the 'likes' you make). We may also receive Information from your interaction with our content (e.g., content viewed, game performance, high scores, and information about advertisements you have been shown or have clicked on). By providing this Information or otherwise interacting with our Sites through Social Media Sites, you consent to our use of Information from the Social Media Sites in accordance with this Privacy Policy. For information about how you can customize your privacy settings on Social Media Sites, and how those Social Media Sites handle your personal information and content, please refer to their privacy help guides, privacy policies, and terms of use.
 
-(g) **Additional Uses.** HBO may on occasion combine your information we collect with additional records (such as publicly available information, including on social media sites, and those of our vendors and affiliated companies) to enhance our ability to market to you those products, features, or services that may be of interest to you, for research purposes, and to assist us in providing, personalizing and improving our Service and other offerings.
+**Public forums.** If you post or share Information or content, such as photos, letters, videos, or comments, while participating in online forums on our Sites, or when you interact with our Sites through Social Media Sites, depending on your privacy settings, this Information or content and your username may become public on the Internet or within a community of users. We cannot prevent further use of this Information once you share it in a publicly available forum. For information about how you can customize your privacy settings on Social Media Sites, and how those Social Media Sites handle your personal information and content, please refer to their privacy help guides, privacy policies, and terms of use.
 
-HBO has not implemented a response to browser-based Do Not Track signals. Because of the current lack of consensus with respect to the Do Not Track standard from both a compliance perspective and a technical perspective, we have not yet determined how or if we would implement a response to Do Not Track signals; we will continue to evaluate in the event a uniform standard is adopted.
+**Location information.** We may have access to certain Information about your location, such as your country or address, when you provide it or via device information (such as an IP address). If you access our Sites on your mobile device, we may collect Information about your device’s precise location.
 
-3\. **When We Share Your Information**
+**Camera access**. For some Sites, we will ask for permission to access your device’s camera. If you grant permission, you may be able to take pictures or video within the app experience or to access certain augmented reality (“AR”) features. Some of these features may rely on camera systems to track movements of your eyes and other facial features or your immediate surroundings to apply AR effects. Information gathered from facial scanning technology, e.g. TrueDepth API, is only used to make these services and features available to you and is only persistent on the device during use of the AR features. Facial data is not stored on our systems nor shared with any third party.
 
-Information may be shared as set forth more particularly in Paragraph 2 of this Privacy Policy. In addition, there may be times when we share your information, including your personally identifiable information as follows: 
+**Video viewing information.** For some Sites, we collect information about the films, TV shows and URLs that you view. 
 
-(a) **Administrative and Legal Reasons.** We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information to third parties in connection with fraud-scoring, detection, and prevention activities or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to protect our rights and the rights of others, and as otherwise required by law. 
+**Technical and usage information.** We also collect certain technical and usage information when you use our Sites, such as the type of device, browser, and operating system you are using, your Internet service provider or mobile carrier, unique device identifier, IDFA or IDFV, MAC address, IP address, device and browser settings, the webpages and mobile apps you use, advertisements you see and interact with, and certain Site usage information. See our [Cookies and Other Technical Information](https://policies.warnerbros.com/privacy/en-us/html/privacy_en-us_1.0.0.html#cookies)section for more information on how we may use these technologies to collect this Information.
 
-(b) **Sale of Assets or Change of Control.** In the event of a sale of assets or change in ownership, we may transfer such information to a successor of HBO or any person or entity that acquires ownership or control of HBO or the Service via any means. 
+HOW WE USE THE INFORMATION
 
-(c) **For Affiliate Use.** As you know, HBO is a Time Warner company, and as such, has affiliate sibling companies. We may share your personally identifiable information with our affiliates to identify products and services that may be of interest to you, for research, analysis and to assist in the improvement of our Service or those of our affiliates, and in connection with promotions conducted by us, by our affiliates, or jointly. Below is a list of some of the Time Warner companies that are affiliated with HBO and with whom we may share information we collect at our sites. We may update this list from time-to-time with additional Time Warner companies, so please check back periodically to keep up-to-date. 
+We use Information for the purposes described in this policy or disclosed at the time of collection or with your consent.
 
-Time Warner Inc.  
-Turner Broadcasting System Inc.  
-Warner Bros. Entertainment Inc.
+**Providing and marketing products and services.** We use the Information we collect about you through our Sites to fulfill your requests for, and otherwise provide or analyze your use of our products, programs, services and content, to facilitate sharing and other interactions with Social Media Sites, and to provide, develop, maintain, personalize, protect, and improve your experience and our offerings. For example, we use Information collected on our Sites to enable you to do things like (i) watch trailers, movies, programs, and video clips, (ii) get entertainment news and updates, (iii) get information about our products, services, and content, (iv) locate and access personalized information or functionality based on your location (e.g., find stores, theaters, or show times), (v) buy digital content or movie tickets, (vi) play games, (vii) engage with interactive features, activities, and Social Media Sites, (viii) read and post comments, content, and reviews, or (ix) enter promotions, contests, and sweepstakes. We may also use Information to offer, market, and advertise products, programs, and services from us and our affiliates, business partners, and select third parties that we believe may be of interest to you.
 
-(d) **Co-Branded Opportunities:** We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit as a result of participation in such content or activities. We have no control over these parties' use of this information. We will notify you at the time your personally identifiable information is requested whether such information will be shared with these parties. 
+**Communicating with you and others.** We use Information about you to communicate with you, such as (i) to notify you when you win one of our contests or sweepstakes or when we make changes to our policies or user agreements, (ii) to respond to your inquiries, (iii) to communicate with you about your purchases or transactions, (iv) to contact you about your account, or (v) to send you information about promotions, offerings, and Site features. You may also choose to receive push notifications from us on your mobile device. If you choose to submit content for publication online or in other forums, we may publish your screen name and other Information you have provided to us on our Sites, the Internet, or elsewhere. We use Information that you provide about others to enable us to send them invitations, promotions, or other content on your behalf or through our Sites. From time to time, we also may use this Information to offer, market, or advertise products, programs, or services to them from us and our affiliates, and business partners.
 
-4\. **Social Networks and Information Sharing**
+**Use of technical and usage information.** We use technical and usage information to improve the design, functionality and content of our Sites and to enable us to personalize your experience with our Sites and offerings. We use this Information (i) to provide, develop, maintain, personalize, protect, and improve our Sites, products, programs, and services and to operate our business, (ii) to perform analytics, including to analyze and report on usage and performance of our Sites, (iii) to protect against, identify, and prevent fraud and other unlawful activity, (iv) to create aggregate data about groups or categories of our users, and (iv) for us and our affiliates, business partners, and select third parties to target, offer, market, or advertise products, programs, or services.
 
-You can also engage with our content and other offerings, such as videos, games and applications, on or through third-party social media sites, plug-ins and applications, (collectively Social Networks) such as those offered by Facebook, Twitter, and others. If you log onto Social Network sites from the Service, the Social Network's privacy policy governs your use of the Social Network.
+**Compliance.** We may use Information we collect to detect, investigate, and prevent activities on our Sites that may violate our terms of use, could be fraudulent, violate copyright, or other rules or that may be otherwise illegal, to comply with legal requirements, and to protect our rights and the rights and safety of our users and others.
 
-In certain instances, you may have the ability to link your account with us to third party Social Networks. When you link your account or engage with our content on or through third party Social Networks, services, plug-ins, or applications, you allow us to have ongoing access to certain information from your Social Network account (e.g., name, e-mail address, profile photo, gender, birthday, location, your list of friends and their contact information, people you follow and/or who follow you, the posts or the 'likes' you make). We may also receive other information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on, etc.) from your Social Network interaction with our content.
+INFORMATION SHARING AND DISCLOSURE
 
-**By sharing or posting content from the Service to a Social Network site, or by linking your Social Network account with your HBO account, you consent to HBO's collection and use of your Social Network information that you have made available to be shared.** HBO will collect information from your Social Network sites each time you share content from the Service to the Social Network, and may collect information from your postings for rewards or incentives. 
+We may share and disclose Information in the following ways or for any other purpose disclosed at the time of collection:
 
-When you provide information to a Site from your Social Network account, it can help enable us to do things like (i) give you exclusive content, (ii) personalize your online experience with us within and outside our Service, and (iii) contact you through the Social Networks or directly with the latest news, special offers, and rewards. By providing such information, you consent to the use of the information in accordance with this Privacy Policy.
+**With your consent.** We may disclose Information when you provide us with your consent to do so.
 
-If you post information or content, such as by posting photos, commenting on a blog, or participating in online forums or communities at our Service, or when you interact with our Service through Social Networks, plug-ins or other applications, depending on your privacy settings this information may become public on the Internet. Therefore, we cannot prevent further use of this information. You can control what data you share through privacy settings available on some Social Networks. For more information about how you can customize your privacy settings and how Social Networks handle your personally identifiable information, please refer to their privacy help guides, privacy policies and terms of use.
+**Legal and law enforcement purposes.** We may disclose Information in response to legal process, for example in response to a court order or a subpoena, or in response to a law enforcement agency's request. We also may disclose such Information to third parties: (i) in connection with fraud prevention activities, (ii) where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, (iii) in situations that may involve violations of our terms of use or other rules, (iv) to protect our rights and the rights and safety of others, and (v) as otherwise required by law.
 
-5\. **Collection of Information by Third Parties**
+**Change of control.** We may transfer Information in the event of a business transaction, such as if we or one of our business units or our relevant assets are acquired by, sold to, or merged with another company or as part of a bankruptcy proceeding or a business reorganization.
 
-The Service may contain links to other sites, including without limitation, the sites of our distributors, whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. As you use the Service, third parties may place cookies and collect personally identifiable information concerning your online activities over time and across different websites.
+**Service providers.** Our agents and contractors may have access to Information to help carry out the services they are performing for us, such as, but not limited to, creation, maintenance, hosting, and delivery of our Sites, products, and services, conduct marketing, handle payments, email and order fulfillment, administer contests, conduct research and analytics, or customer service.
 
-6\. **Storage and Security**
+**Affiliates.** We may disclose Information to affiliates. For example, we may share Information we collect with our [affiliates](https://policies.warnerbros.com/privacy/en-us/html/%20https:/policies.warnerbros.com/privacy/en-us/affiliates/) to provide, improve, offer, market, and otherwise communicate with you about their own products and services. Our products and services may be developed, managed, marketed and sold by a variety of our affiliates. We share Information that may identify you personally internally among affiliates publicly recognized as a WarnerMedia affiliate, such as Xandr and the AT&T family of companies. A list of our publicly recognized WarnerMedia affiliates is found [here](https://warnermediaprivacy.com/affiliates/). Public recognition may derive from, for example, use of common branding elements, advertising, press, social media reports or other public form of notice. We require the affiliate to protect the Information consistent with this Policy. For affiliates not publicly recognized as WarnerMedia affiliates, we share Information under the same circumstances and limitations that we impose when we share with non-WarnerMedia companies, like vendors performing services on our behalf. We may also combine Information that identifies you personally with data that comes from an app or affiliate that has a different privacy policy. When we do that, our Policy applies to the combined data set.
 
-We and/or our agents and contractors (such as mailing houses, customer service vendors or cloud services) may store your information. When we store your information, we do so for as long as we have a legitimate business reason to do so or for as long as necessary to comply with our legal obligations or enforce our legal rights.
+**Business partners and third parties.** We may also share Information with business partners and third parties (e.g., other companies, retailers, research organizations, advertisers, ad agencies, advertising networks and platforms, participatory databases, publishers, and non-profit organizations) that may want to market products or services to you. If we share personal information with such unaffiliated third parties for their own marketing purposes, we provide you with an opportunity to opt out of such uses either at the point of collection or through the choice mechanisms set forth in this Privacy Policy. To learn more about your choices, please see [Your Choices](https://policies.warnerbros.com/privacy/en-us/html/privacy_en-us_1.0.0.html#yourchoices) and Your Controls below.
 
-We take information security seriously and use reasonable physical, electronic, and managerial procedures to help prevent unauthorized access, maintain data security, and correctly use the information we collect online.For example, HBO and its agents secure any financial information, including credit card numbers, with encryption technologies. We incorporate commercially reasonable safeguards to help protect and secure your personally identifiable information.
+**Linked sites.** Some of our Sites contain links to other sites, including Social Media sites, whose information practices may be different from ours. Information you submit to other sites will be governed by the other sites' privacy policies and terms.
 
-Of course, no data transmission over the Internet, wireless data transmission, or data storage is 100% secure, and any message or information you send to the Service may be read or intercepted by others. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
+**Sponsors and co-promotions.** We may sometimes offer content or programs (e.g., contests, sweepstakes, promotions, games, applications or Social Media site integrations) that are sponsored by or co-branded with identified parties. By virtue of these relationships, the sponsoring or co-branding parties may collect or obtain Information from visitors that participate in the activity. We have no control over these sponsoring or co-branding parties' use of this Information. We encourage you to visit the privacy policy of any such sponsoring or co-branding party to learn about their data practices prior to providing Information through sponsored or co-branded content or programs.
 
-7\. **How You can Access or Correct Information, or Opt Out**
+**Advertising networks.** We may share certain information with parties to provide advertising to you based on your interests. For more information, please see [Ad Choices](https://policies.warnerbros.com/privacy/en-us/html/privacy_en-us_1.0.0.html#adchoices) below.
 
-You can access much of the personally identifiable information that you have provided to the Service online, or correct factual errors in such information, at the Settings section of the Service. 
+YOUR CHOICES AND CONTROLS
 
-To help protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections to any personally identifiable or billing information. 
+**Marketing communications and sharing with third parties.** We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us, and our sharing of personal information with unaffiliated third parties for their direct marketing purposes. If you ever decide in the future that you would like to update these preferences, you may (i) log in to an account you have created with us at one of our Sites to adjust your settings, or (ii) send us an email at WMPrivacy@warnermediagroup.com. To opt out of receiving our email marketing communications, you can also follow the "unsubscribe" instructions provided in any marketing email you receive from us. If you previously chose to receive push notifications on your mobile device from us, but no longer wish to receive them, you can manage your preferences through your device or app settings, depending on the type of device. If you have signed up to receive text messages from us and no longer wish to receive such messages, you may follow the instructions to stop the delivery of such messages, which may include by replying "STOP" to the received text message.
 
-If at any time you wish to stop receiving promotional materials related to the Service, we will provide an unsubscribe link at the bottom of each promotional e-mail you receive. You can also go to the subscription overlay in your dashboard to opt out of newsletters and other promotional e-mails. Please keep in mind that opting out of promotional e-mails will not prevent you from receiving transactional e-mail correspondence related to, without limitation: the Service, your Registered Account and/or any Subaccounts. 
+For California residents, please see below for additional information on the choices we provide to you.
 
-If you no longer wish to have any information collected by any mobile application included in the Service, you may uninstall the application by using the standard uninstall processes available on your mobile device or via the mobile application marketplace or network.
+**Ad Choices.** We may work with third parties to present advertisements and to engage in data collection, reporting, ad delivery and response measurement, and site analytics on our Sites and on third party websites across the Internet and applications over time. These third parties may use cookies, web beacons, pixels, or similar technologies to perform this activity. They may also obtain information about applications you use, websites you visit, and other information from across your devices and browsers in order to help serve advertising that may be more relevant to your interests on and off our Sites and across your devices and browsers. This type of advertising is known as interest-based advertising. They may also use this information to associate various browsers and devices together for the purpose of interest-based advertising and other purposes like analytics.
 
-In some instances, certain information or services can be provided to you only if personally identifiable information is provided. If you elect not to provide such information, you may not be able to access certain content or information.
+For more information about interest-based advertising on your desktop or mobile browser, and your ability to opt out of this type of advertising by third parties that participate in self-regulatory programs, please visit the [Network Advertising Initiative](https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options) [https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options] and/or the DAA . To learn more about interest-based advertising in mobile apps and to opt out of this type of advertising by third parties that participate in the DAA’s AppChoices tool, please download the version of [AppChoices](http://youradchoices.com/appchoices) for your device [here](http://youradchoices.com/appchoices). Please note that any opt-out choice you exercise through these programs will apply to interest-based advertising by the third parties you select, but will still allow the collection of data for other purposes, including research, analytics, and internal operations. You may continue to receive advertising, but that advertising may be less relevant to your interests.Self-Regulatory Program for Online Behavioral Advertising [http://optout.aboutads.info/choices?c=2&lang=EN]. To learn more about interest-based advertising in mobile apps and to opt out of this type of advertising by third parties that participate in the DAA’s AppChoices tool, please download the version of for your device [here](http://youradchoices.com/appchoices) [https://youradchoices.com/appchoices]. Please note that any opt-out choice you exercise through these programs will apply to interest-based advertising by the third parties you select, but will still allow the collection of data for other purposes, including research, analytics, and internal operations. You may continue to receive advertising, but that advertising may be less relevant to your interests.
 
-8\. **Collection of Information from Children**
+You may have more options depending on your mobile device and operating system. For example, most device operating systems (e.g., iOS for Apple phones, Android for Android devices, and Windows for Microsoft devices) provide their own instructions on how to limit or prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems to learn more about these features and how they apply to tailored in-app advertisements.
 
-HBO does not knowingly collect any personally identifiable information submitted to the Service directly from individuals under the age of 13. Except in the case of Subaccounts, we will delete information associated with a user if we obtain actual knowledge that the user is not at least 13 years old. 
+**Precise location information**. To disable the collection of precise location information from your mobile device through our mobile apps, you can access your mobile device settings and choose to limit that collection.
 
-As noted in the Terms of Use, a Registered Accountholder may establish a Subaccount, if available, on behalf of a minor child for whom such Registered Accountholder is a parent or legal guardian. In such case, we require the Registered Accountholder to provide the information requested for establishing a Subaccount and to agree to the terms of this Privacy Policy on behalf of such minor child. 
+See also Cookies and Other Technical Information for more choices about managing other technical and usage information. ****
 
-If you are a parent or legal guardian who has discovered that your child has registered for or accessed the Service without your consent, you can ask us to remove any unauthorized information provided by your child by contacting us at [contacthbo@hbo.com](mailto:contacthbo@hbo.com) or [contactmax@hbo.com](mailto:contactmax@hbo.com) or your television provider. Upon valid notice from you, HBO will make reasonable efforts to investigate and remove the information. Please be sure to provide customer service with the Username, Password and e-mail address submitted by your child. Please review the Terms of Use for information regarding how to cancel such subscription. 
+COOKIES AND OTHER TECHNICAL INFORMATION
 
-9\. **How to Contact Us**
+**Cookies and other technologies.** We, and our affiliates, vendors, and business partners may send "cookies" to your computer or use similar technologies to understand and enhance your online experience at our Sites and through our advertising and media across the Internet and mobile apps.
 
-If you have any questions or concerns about the Privacy Policy for the Service or its implementation you may contact us at [contacthbo@hbo.com](mailto:contacthbo@hbo.com) or [contactmax@hbo.com](mailto:contactmax@hbo.com). 
+Cookies are small text files placed in your browser. We may also use pixels or "web beacons" that monitor your use of our Sites. Web beacons are small strings of code that provide a method for delivering a graphic image on a webpage for the purpose of transferring data, such as the IP address of the computer that downloaded the page on which the web beacon appears, the URL of the page on which the web beacon appears, the time the page containing the web beacon was viewed, the type of browser that fetched the web beacon, and the identification number of any cookie on the computer previously placed by that server. We may also integrate “Software Development Kits” (“SDKs”) into our applications to perform similar functions as cookies and web beacons. For example, SDKs may collect technical and usage information such as mobile device identifiers and your interactions with the Site and other mobile apps.
 
-10\. **California -- Your California Privacy Rights**
+We may use cookies and other technologies to help recognize your browser or device, maintain your preferences, provide certain Site features, and collect Information about interactions with our Sites, our content, and our communications. For example, when corresponding with you via HTML capable email, web beacons and other technologies let us know about your activity, including whether you received and opened our email, clicked through a link, or otherwise interacted with our content, and this information may be associated with Information previously collected.
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personal information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by HBO pursuant to Section 1798.83 of the California Civil Code, please contact us via the email address stated above. Please allow 30 days for a response.
+We may also use cookies and other technologies (i) to provide, develop, maintain, personalize, protect, and improve our Sites, products, programs, and services and to operate our business, (ii) to perform analytics, including to analyze and report on usage and performance of our Sites and marketing materials, (iii) to protect against, identify, and prevent fraud and other unlawful activity, (iv) to create aggregate data about groups or categories of our users, (v) to synchronize users across devices, affiliates, business partners, and select third parties, and (vi) for us and our affiliates, business partners, and select third parties to target, offer, market, or advertise products, programs, or services. Cookies and other technologies also facilitate, manage, and measure the performance of advertisements displayed on or delivered by or through us and/or other networks or sites. By visiting the Site, whether as a registered user or otherwise, you acknowledge, and agree that you are giving us your consent to track your activities and your use of the Site through the technologies described above, as well as similar technologies developed in the future, and that we may use such tracking technologies in the emails we send to you.
 
-11\. **Dispute Resolution**
+**Managing cookies and other technologies.** Cookies can either be persistent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). Check your browser settings to learn how to delete cookies.
 
-The resolution of any dispute, claim or controversy arising out of or relating to the Service or your use of the Service, including this Privacy Policy, will be governed by the Arbitration Agreement in Section 22 of HBO's Terms of Use.
+You may adjust your browser to reject cookies from us or from any other website. Controlling cookies via browser controls may not limit our use of other technologies. Please consult your browser’s settings for more information. However, blocking cookies or similar technology might prevent you from accessing some of our content or Site features.
 
-12\. **International Notice**
+Some of our Sites may use locally stored objects (“LSOs”) to provide certain content, such as video on demand, video clips, or animation, and a better user experience. Adobe's Flash player and similar applications use this technology to remember settings, preferences, and usage similar to browser cookies. Flash cookies are not managed through your web browser, but you can access your Flash management tools from [Adobe's web site](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Your browser may also offer other tools to delete or reject other LSOs; please check your browser’s settings or help menu for more information.
 
-The registration features of these Services are intended for US residents. Although many of our sites can be viewed internationally, many of our computer systems are currently based in the United States. Therefore, please note that all personally identifiable information will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. 
+Some of our sites may use Google Analytics to analyze traffic. You can find out more information about Google Analytics cookies here: <https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage>. To opt-out of Google Analytics relating to your use of our Sites, you can download and install the Browser Plugin available via this link: <https://tools.google.com/dlpage/gaoptout?hl=en>.
 
-Effective Date: July 1, 2014
+We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+See the [Your Choices](https://policies.warnerbros.com/privacy/en-us/html/privacy_en-us_1.0.0.html#yourchoices) section to learn how to control data collection for certain purposes.
+
+INFORMATION SECURITY
+
+We have put in place reasonable controls designed to help safeguard the personal information we collect via the Sites. However, no security measures are perfect, and we cannot assure you that personal information that we collect will never be accessed or used in in an unauthorized way.
+
+HOW YOU CAN ACCESS OR CORRECT INFORMATION
+
+To access the personal information that we have collected about you online from Sites on which this Privacy Policy is posted or to update your user profile, please log into your account if you have created one with us, or send an email to WMPrivacy@warnermediagroup.com. For California residents, please see below for additional information on accessing information about you. 
+
+ADDITIONAL INFORMATION REGARDING CHILDREN'S PRIVACY
+
+On most Sites, we do not knowingly collect information from children. On some Sites, we may ask the user to provide us with the user's age information. If the person indicates that he or she is under 13 years old, as permitted by law we will (i) collect no or limited personal information (e.g. persistent identifier and/or email address only) from that individual, (ii) inform the child that a parent's verifiable consent is required, and/or (iii) collect the email address of the user's parent in addition to the user's email address. We use the parent's email address to seek the parent's verifiable consent or notify the parent of his/her child's online activities and enable the parent to unsubscribe his/her child from a newsletter or other similar activity. Once a parent provides consent, we may use any information from the child consistent with the rest of this Privacy Policy and/or the terms of the consent provided by the parent. If a user is under 13, we will not condition his/her participation in an online activity on the disclosure of more personal information than is reasonably necessary to participate in the activity. If you would like to review any personal information that we have collected online from your child, have this personal information deleted from our active servers, and/or request that there be no further collection or use of your child's personal information, or if you have questions about these information practices, you may contact us at WMPrivacy@warnermediagroup.com, or at WarnerMedia Privacy Office, 4000 Warner Blvd., Bldg. 160, Burbank, CA 91522. 
+
+  
+INTERNATIONAL TRANSFER
+
+We operate internationally, and many of our computer systems are currently based in the United States, this means Information we collect will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you use or visit our Sites from outside the United States, you consent to the collection and/or processing in the United States of Information we collect from you. 
+
+NOTIFICATION REGARDING PRIVACY POLICY UPDATES
+
+From time to time, we may update this Privacy Policy. We will notify you about material changes to this Privacy Policy by placing a notice on our Sites. We encourage you to periodically check back and review this policy so that you always know our current privacy practices.
+
+HOW TO CONTACT US
+
+If you have any questions about this Privacy Policy you may contact us at: WMPrivacy@warnermediagroup.com or at WarnerMedia Privacy Office, 4000 Warner Blvd., Bldg. 160, Burbank, CA 91522 or contact us toll free at 833-WM-PRVCY (833-967-7829) or TTY: 833-PRVCY-TT (833-778-2988). 
+
+CALIFORNIA AND CCPA PRIVACY RIGHTS AND DISCLOSURES
+
+This California Privacy Rights and Disclosure section addresses legal obligations and rights laid out in the California Consumer Privacy Act, or CCPA. These obligations and rights apply to businesses doing business in California and to California residents andinformation that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with California consumers or households (“California Information”). 
+
+CALIFORNIA INFORMATION WE COLLECTED AND SHARED
+
+This section provides the information California residents need to exercise their rights over their California Information. Here is information about the California Information we have collected from and shared about consumers over the twelve months prior to the Effective Date of this Privacy Policy.
+
+California Information We Collected
+
+In the year before the date this policy was issued, on some Sites we may have collected the following categories of California Information:
+
+  * Address and other identifiers – such as name, postal address, zip code, email address, account name, Social Security number, driver’s license number, payment card numbers, passport number, or other similar identifiers
+
+
+  * Unique and online identifiers – such as IP address, device IDs, or other similar identifiers
+
+
+  * Characteristics of protected classifications – such as race, ethnicity, or sexual orientation
+
+
+  * Commercial information – such as products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies
+
+
+  * Internet, gaming or other electronic network activity information – such as browsing history, search history and information regarding an individual’s interaction with an internet website, application, or advertisement
+
+
+  * Professional or educational Information 
+
+
+  * Biometric information
+
+
+  * Video footage (e.g., CCTV); Audio recordings; Photographs; Calendar information
+
+
+  * Location information – (e.g. if you access our Sites on your mobile device we may collect Information about your device’s precise location.)
+
+
+  * In game or online viewing activities (e.g., videos viewed, pages viewed)
+
+
+  * Inferences drawn from California Information, such as individual profiles, preferences, characteristics, behaviors.
+
+
+
+We may have collected these categories of California Information for the following purposes:
+
+  * Performing services on behalf of the business, such as customer service, processing or fulfilling orders, providing content recommendations, and processing payments
+
+
+  * Auditing customer transactions
+
+
+  * Fraud and crime prevention
+
+
+  * Debugging errors in systems
+
+
+  * Marketing and advertising
+
+
+  * Internal research, analytics and development – e.g., user-preference analytics
+
+
+  * Developing, maintaining, provisioning or upgrading networks, products, services, or devices. ****
+
+
+
+We may have obtained California Information from a variety of sources, including:
+
+· Directly from you, including technical and usage information when you use our Sites
+
+· Linked sites, such as Social Media Sites, and third-party platforms
+
+· Our WarnerMedia or AT&T affiliates
+
+· Our joint-ventures and promotional and strategic partners 
+
+· Information suppliers
+
+· Distributors and other vendors
+
+· Marketing mailing lists
+
+· Other users submitting California Information about you, such as to invite you to participate in an offering, make recommendations, or share content
+
+· Publicly available sources.
+
+California Information We Shared
+
+In the year before the date this policy was issued, for some Sites we may have shared these categories of California Information for operational purposes with providers who provide services for us, like processing your bill: 
+
+  * Address and other identifiers – such as name, postal address, email address, account name, Social Security number, driver’s license number, payment card numbers passport number, or other similar identifiers
+
+
+  * Unique and online identifiers – IP address, device IDs, or other similar identifiers
+
+
+  * Commercial information – such as records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies
+
+
+  * Internet, gaming or other electronic network activity information – such as browsing history, search history, and information regarding an individual’s interaction with an internet website, application, or advertisement
+
+
+  * Professional or educational Information 
+
+
+  * Biometric information
+
+
+  * Video footage (e.g., CCTV); Audio recordings; Photographs; Calendar information 
+
+
+  * Location information – (e.g. if you access our Sites on your mobile device we may collect Information about your device’s precise location.)
+
+
+  * In game or online viewing activities (e.g., videos viewed, pages viewed) __
+
+
+  * Inferences drawn from California Information, such as individual preferences, characteristics, behaviors. __
+
+
+
+The California Consumer Privacy Act defines ‘sale’ very broadly. It includes the sharing of California Information in exchange for anything of value. According to this broad definition, in the year before the date this policy was issued, for some Sites we may have sold the following categories of California Information:
+
+  * Address and other identifiers – such as name, postal address, email address, account name, Social Security number, driver’s license number, passport number, or other similar identifiers
+
+
+  * Unique and online identifiers – IP address, device IDs, or other similar identifiers
+
+
+  * Commercial information – such as records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies
+
+
+  * Internet, gaming or other electronic network activity information – such as browsing history, search history, and information regarding an individual’s interaction with an internet website, application, or advertisement
+
+
+
+· Location information - (e.g. if you access our Sites on your mobile device we may collect Information about your device’s precise location.)
+
+  * Inferences drawn from California Information, such as individual profiles, preferences, characteristics, behaviors. __
+
+
+
+YOUR CALIFORNIA PRIVACY RIGHTS TO REQUEST DISCLOSURE OF INFORMATION WE COLLECT AND SHARE ABOUT YOU
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information about our practices related to the disclosure of your personal information by certain members of the WarnerMedia Family of Companies to certain third parties for their direct marketing purposes. You may be able to opt-out of our sharing of your personal information with unaffiliated third parties for the third parties’ direct marketing purposes in certain circumstances. Please send your request (along with your full name, email address, postal address, and the subject line labeled “Your California Privacy Rights”) by email at WMPrivacy@warnermediagroup.com.
+
+In addition, if you are a California resident, the CCPA grants you the right to request certain information about our practices with respect to California Information. In particular, you can request the following: 
+
+  * The categories and specific pieces of your California Information that we’ve collected
+
+
+  * The categories of sources from which we collected California Information
+
+
+  * The business or commercial purposes for which we collected or sold California Information
+
+
+  * The categories of third parties with which we shared California Information. 
+
+
+
+You can submit a request to us for the following additional information: 
+
+  * The categories of third parties to which we’ve sold California Information, and the category or categories of California Information sold to each.
+
+
+  * The categories of California Information that we’ve shared with service providers who provide services for us, like processing your bill. 
+
+
+
+To exercise your CCPA rights with respect to this information, either visit here [<https://www.warnermediaprivacy.com/>] or contact us toll free at 833-WM-PRVCY (833-967-7829) or TTY: 833-PRVCY-TT (833-778-2988). These requests for disclosure are generally free. 
+
+YOUR RIGHT TO REQUEST THE DELETION OF CALIFORNIA INFORMATION 
+
+Upon your request, we will delete the California Information we have collected about you, except for situations when that information is necessary for us to: provide you with a product or service that you requested; perform a contract we entered into with you; maintain the functionality or security of our systems; comply with or exercise rights provided by the law; or use the information internally in ways that are compatible with the context in which you provided the information to us, or that are reasonably aligned with your expectations based on your relationship with us.
+
+To exercise your right to request the deletion of your California Information, either visit here [<https://www.warnermediaprivacy.com/>] or contact us toll free at 833-WM-PRVCY (833-967-7829) or TTY: 833-PRVCY-TT (833-778-2988). These requests are generally free. 
+
+YOUR RIGHT TO ASK US NOT TO SELL YOUR CALIFORNIA INFORMATION
+
+You can always tell us not to sell your California Information by visiting here: [<https://www.warnermediaprivacy.com/do-not-sell/>].
+
+Once we receive and process your request, we will not sell your California Information unless you later allow us to do so.
+
+DO NOT TRACK NOTICE
+
+We do not currently take actions to respond to Do Not Track signals and similar signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+See the Your Choices section to learn how to control data collection for certain purposes.
+
+OUR SUPPORT FOR THE EXERCISE YOUR DATA RIGHTS
+
+We are committed to providing you control over your California Information. If you exercise any of these rights explained in this section of the Privacy Policy, we will not disadvantage you. You will not be denied or charged different prices or rates for goods or services or provided a different level or quality of goods or services.
+
+CONSUMERS UNDER 16 YEARS OLD
+
+CCPA has specific rules regarding the use of California Information from consumers under 16 years of age. In particular, consistent with the CCPA, if we knowingly collect the California Information of a consumer under the age of 16, we will not sell the information unless we receive affirmative permission to do so. If the consumer is between the ages of 13 and 16 years of age, the consumer may provide that permission; if the consumer is under the age of 13, the consumer’s parent or guardian must provide the permission.
+
+If you would like further information on how we handle California Information from consumers under the age of 16 years of age, or if you have questions about these information practices, you may contact us here [[wmprivacy@warnermediagroup.com](mailto:wmprivacy@warnermediagroup.com)], or at WarnerMedia Privacy Office, 4000 Warner Blvd., Bldg. 160, Burbank, CA 91522.
