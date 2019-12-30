@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htcdev.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416162612id_/https%3A//www.htc.com/us/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htcdev.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230140400id_/https%3A//www.htc.com/us/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Terms | HTC United States
 
@@ -162,7 +162,7 @@ We welcome your comments or questions about this Policy. Please email us at [glo
 We may make changes to this Policy. If we make any changes to the Policy they will be posted on this page and we will change the “Last Updated” date below.   
 **THIS PRIVACY POLICY WAS LAST UPDATED ON 25th MAY 2018.**
 
-([View archived versions](https://web.archive.org/web/20190416162612id_/https://www.htc.com/us/terms/privacy-policy-list/))
+([View archived versions](https://web.archive.org/web/20191230140400id_/https://www.htc.com/us/terms/privacy-policy-list/))
 
 
 
