@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the argos.co.uk privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619212125id_/https%3A//www.argos.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argos.co.uk privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230213644id_/https%3A//www.argos.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Go Argos
 
