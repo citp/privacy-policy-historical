@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shroudoftheavatar.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009033911id_/https%3A//www.shroudoftheavatar.com/%3Fpage_id%3D68611) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shroudoftheavatar.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230090319id_/https%3A//www.shroudoftheavatar.com/%3Fpage_id%3D68611) for the most accurate reproduction.*
 
 # Privacy Policy | Shroud of the Avatar
 
