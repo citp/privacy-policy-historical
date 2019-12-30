@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the anantara.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524063657id_/https%3A//www.anantara.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anantara.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230232302id_/https%3A//www.anantara.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | Anantara Hotels | Minor International PCL
 
 ## Privacy Notice
 
-**This Privacy Notice was last updated on 3 September 2018  **
+**This Privacy Notice was last updated on 3 September 2018    
+**  
+For hotels based within the European Union please refer to the [Privacy Policy of NH Hotel Group.](https://www.nh-hotels.com/privacy-policy)
 
-Minor International PCL and its subsidiaries Minor International PCL and its subsidiaries (“Minor Group”, “us”, “we” or “the Company”) (the “Data Controller”), is a global company focused on three primary businesses including restaurants, hotels and lifestyle brands distribution. . We understand and respect the importance of your privacy and below we explain: 
+Minor International PCL and its subsidiaries (“Minor Group”, “us”, “we” or “the Company”) (the “Data Controller”), is a global company focused on three primary businesses including restaurants, hotels and lifestyle brands distribution. We understand and respect the importance of your privacy and below we explain: 
 
   * What information we collect about you
   * Who is collecting data
