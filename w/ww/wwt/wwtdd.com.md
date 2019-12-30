@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wwtdd.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220183550id_/http%3A//www.wwtdd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwtdd.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230202253id_/http%3A//www.egotastic.com/privacy-policy) for the most accurate reproduction.*
 
-# WWTDD - Latest Celebrity Gossip and Scandal News
+# Privacy Policy
 
 **Privacy Policy**
 
 **Effective as of May 25, 2018**
 
-**To view our previous Privacy Policy, click[here](http://www.wwtdd.com/privacy-policy-old/).**
+**To view our previous Privacy Policy, click[here](http://www.egotastic.com/privacy-policy-old/).**
 
 1. Introduction  
 2. Information we collect   
@@ -29,7 +29,7 @@
 **1.** ******Purpose of this Privacy Policy**
 
 **  
-** Please read the following policy to understand how your personal information will be treated as you make full use of our Website. When we talk about our Website or our Service, we are referring to fleshbot.com, any corresponding mobile application and any services provided by us through such website and/or application. When we talk about “we”, ‘’our’’ or ‘’us’’ in this policy, we are referring to Last Men, LLC., the company that provides the Website and Service. If you have any questions, concerns or complaints related to this Privacy Policy or our processing of your personal information, please email us here: [privacy@wwtdd.com](mailto:privacy@wwtdd.com). This email address is monitored on a regular basis and we aim to respond to your query as soon as possible.
+** Please read the following policy to understand how your personal information will be treated as you make full use of our Website. When we talk about our Website or our Service, we are referring to fleshbot.com, any corresponding mobile application and any services provided by us through such website and/or application. When we talk about “we”, ‘’our’’ or ‘’us’’ in this policy, we are referring to Last Men, LLC., the company that provides the Website and Service. If you have any questions, concerns or complaints related to this Privacy Policy or our processing of your personal information, please email us here: [privacy@egotastic.com](mailto:privacy@egotastic.com). This email address is monitored on a regular basis and we aim to respond to your query as soon as possible.
 
 The Privacy Policy has three main purposes:
 
@@ -50,7 +50,7 @@ The information we collect can be divided into the following broad categories:
 
 • **Usage Data**  includes information about how you use our Website or Service, such as the particular pages you interact with, how often you visit, how long you’re on the Website, surveys, the service you’re looking at and the emails you interact with.
 
-• **Verification Data**  includes proof of identity and proof of address as further detailed in our [**Subject Access Request Form**.](http://www.wwtdd.com/access-request-form/)
+• **Verification Data**  includes proof of identity and proof of address as further detailed in our [**Subject Access Request Form**.](http://www.egotastic.com/access-request-form/)
 
 More specifically, we may collect and store the following information relating to you:
 
@@ -63,7 +63,7 @@ We collect information from you when you voluntarily submit information directly
 
 **2.3   Tracking technologies**
 
-We use “cookies” and similar tracking technologies (as described in **Section 5** below and in our [**Cookie Policy**](http://www.wwtdd.com/cookie-policy/)) to track your activities on our Website, and may also receive data about you if you visit other websites employing our cookies.
+We use “cookies” and similar tracking technologies (as described in **Section 5** below and in our [**Cookie Policy**](http://www.egotastic.com/cookie-policy/)) to track your activities on our Website, and may also receive data about you if you visit other websites employing our cookies.
 
 **2.4 Automated technologies or interactions**
 
@@ -71,7 +71,7 @@ As you interact with our Website, we may automatically collect technical and usa
 
 **2.5   Promotions & surveys**
 
-From time to time, we may offer you the opportunity to participate in promotions such as sweepstakes, contests, offers, and/or surveys (“Special Promotions”) through the Website. A Special Promotion may be governed by a privacy policy and/or terms and conditions that are additional to, or separate from, this Privacy Policy and our [ **Terms of Use**](http://www.wwtdd.com/terms-conditions/). If the provisions of the Special Promotion’s privacy policy or terms and conditions conflict with this Privacy Policy or  our [**Terms of Use**](http://www.wwtdd.com/terms-conditions/), those additional or separate provisions shall prevail. If you participate in a Special Promotion, we may ask you for certain information in addition to what is stated in this Privacy Policy, including personal information. That additional information may be combined with other account information and may be used and shared as described in this Privacy Policy or in the Special Promotion.
+From time to time, we may offer you the opportunity to participate in promotions such as sweepstakes, contests, offers, and/or surveys (“Special Promotions”) through the Website. A Special Promotion may be governed by a privacy policy and/or terms and conditions that are additional to, or separate from, this Privacy Policy and our [ **Terms of Use**](http://www.egotastic.com/terms-and-conditions/). If the provisions of the Special Promotion’s privacy policy or terms and conditions conflict with this Privacy Policy or  our [**Terms of Use**](http://www.egotastic.com/terms-and-conditions/), those additional or separate provisions shall prevail. If you participate in a Special Promotion, we may ask you for certain information in addition to what is stated in this Privacy Policy, including personal information. That additional information may be combined with other account information and may be used and shared as described in this Privacy Policy or in the Special Promotion.
 
 **2.6 Information received from our service providers and partners**
 
@@ -146,7 +146,7 @@ Usage Data
 
 Consent  
   
-To enforce this Privacy Policy, our [ **Terms of Use**](http://www.wwtdd.com/terms-conditions/), and any other terms that you have agreed to, including to protect the rights, property, or safety of our users, or any other person, or the copyright-protected content of the Website
+To enforce this Privacy Policy, our [ **Terms of Use**](http://www.egotastic.com/terms-and-conditions/), and any other terms that you have agreed to, including to protect the rights, property, or safety of our users, or any other person, or the copyright-protected content of the Website
 
 | 
 
@@ -186,7 +186,7 @@ We may from time to time share your information with third-party service provide
 
 To provide you with the best experience on our Website, we use third parties who automatically process your Usage Data on our behalf. Where possible, we will make sure this data is anonymized.
 
-For your information, click [**here**](http://www.wwtdd.com/third-party-processors/) to view some examples of how third parties process your personal data.
+For your information, click [**here**](http://www.egotastic.com/third-party-processors/) to view some examples of how third parties process your personal data.
 
 **4.3   Promotions and surveys**
 
@@ -198,7 +198,7 @@ A cookie is a small text file that is placed on your computer, mobile phone, or 
 
 There are also technologies such as mobile device identifiers and SDK integrations to help companies recognize your device when you return to an app or otherwise use a service.
 
-Our policy regarding cookies can be found [**here**](http://www.wwtdd.com/cookie-policy/).
+Our policy regarding cookies can be found [**here**](http://www.egotastic.com/cookie-policy/).
 
 **6\. Information collected by third parties**
 
@@ -228,7 +228,7 @@ In the event we go through a business transition, such as a merger, acquisition 
 
 **11\. California user consumer rights**
 
-In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov). Under California law, California residents who have an established business relationship with us or one of our subsidiaries may choose to opt out of our disclosure of personal information about them to third parties for direct marketing purposes. As detailed above, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval, email [privacy@wwtdd.com](mailto:privacy@wwtdd.com).
+In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov). Under California law, California residents who have an established business relationship with us or one of our subsidiaries may choose to opt out of our disclosure of personal information about them to third parties for direct marketing purposes. As detailed above, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval, email [privacy@egotastic.com](mailto:privacy@egotastic.com).
 
 **12\. Users located outside of the United States**
 
@@ -256,7 +256,7 @@ If you are located in the European Union, or if the EU’s General Data Protecti
 
 9\. not have a decision made about you based solely on  **automated processing**.
 
-If you wish to exercise any of the rights set out above or request details about the specific legal basis we are relying on to process your personal data, please email us at [privacy@wwtdd.com](mailto:privacy@wwtdd.com) using the [ **Subject Access Request  Form**](http://www.wwtdd.com/access-request-form/).
+If you wish to exercise any of the rights set out above or request details about the specific legal basis we are relying on to process your personal data, please email us at [privacy@egotastic.com](mailto:privacy@egotastic.com) using the [ **Subject Access Request  Form**](http://www.egotastic.com/access-request-form/).
 
 We will respond to you within 30 days of receipt of your request. Occasionally it may take us longer than 30 days if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
@@ -264,7 +264,7 @@ We may need to request specific information from you to help us confirm your ide
 
 You will not have to pay a fee to access your personal data (or to exercise any of your other legal rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
 
-You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please email us at [privacy@wwtdd.com](mailto:privacy@wwtdd.com) in the first instance.
+You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please email us at [privacy@egotastic.com](mailto:privacy@egotastic.com) in the first instance.
 
 **14\. Data retention**
 
@@ -283,9 +283,3 @@ We fully cooperate with law enforcement agencies in identifying those who use ou
 Occasionally we may, in our discretion, make changes to this Privacy Policy. When we make material changes to this Privacy Policy, we’ll provide you with prominent notice as appropriate under the circumstances, e.g. by displaying a prominent notice within the Website or by sending you an email. In some cases, we will notify you in advance, and your continued use of the Website after the changes have been made will constitute your acceptance of the changes. Please therefore make sure you read any such notice carefully. If you object to any of the changes, you have the opportunity to delete your account and any associated information. Once deleted your details will be non-recoverable.
 
 Please note that if you opt out of receiving notices from us, change notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes, as posted on the Website.
-
-**17\. Who we are**
-
-For the purposes of the GDPR, Last Men, LLC, Inc., an Illinois limited liability company located at 1625 N. Damen street, 2nd floor, Chicago, IL 60647 is the Data Controller and is responsible for your personal data. This means that we determine the purposes and ways of the processing of your personal data.
-
-This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More](http://www.wwtdd.com/cookie-policy)
