@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the varusteleka.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626010143id_/https%3A//www.varusteleka.com/en/page/privacy-notice/59486) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varusteleka.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230041518id_/https%3A//www.varusteleka.com/en/page/privacy-notice/59486) for the most accurate reproduction.*
 
 # Privacy Notice - Varusteleka.com
 
@@ -67,7 +67,7 @@ In some cases, we need to transfer information to third parties, for reasons suc
 
 Data management liable:  
 Varusteleka Oy  
-Ruosilantie 2  
+Hankasuontie 11 A  
 00390 Helsinki  
 Business ID: 2082907-8
 
