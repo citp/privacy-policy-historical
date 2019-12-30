@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vimeopro.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235930id_/https%3A//vimeo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vimeopro.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230232439id_/https%3A//vimeo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Vimeo
 
-Last Updated: August 30, 2018
+Last Updated: December 11, 2019
 
 This Privacy Policy explains the information that Vimeo collects when you use its products and services, how that information is used, with whom it may be shared, and your privacy choices.
 
@@ -28,7 +28,7 @@ This Privacy Policy explains the information that Vimeo collects when you use it
 
 ##### Who we are and what we do
 
-This Privacy Policy covers Vimeo, Inc. and its subsidiaries including Livestream LLC (collectively, **"Vimeo," "we" "us"** or **"our"** ). We provide online video sharing and related services through our websites, including Vimeo.com and Livestream.com, our branded applications for mobile and connected devices, and our embeddable video players. We also offer video-related devices, such as Mevo cameras and accessories. 
+This Privacy Policy covers Vimeo, Inc. (collectively, “Vimeo,” “we” “us” or “our”). We provide online video hosting, sharing and related services through our owned-and-operated websites, including Vimeo.com and Livestream.com, our branded applications for mobile and connected devices, and our embeddable video players (collectively, the “services”). 
 
 ##### Acceptance and Changes
 
@@ -36,7 +36,7 @@ By registering for, downloading, or using our services, you accept this Privacy 
 
 ## 2\. Children's Privacy
 
-We do not knowingly collect information of persons who are under the minimum required ages specified herein. Residents of the European Union must be at least 16. Persons outside of the EU must be at least 13. Persons who are under 18 must obtain parental consent to use our services. 
+We do not knowingly collect personal information from individuals who are under the minimum required ages specified herein. You must be at least 16 years old or the age of majority in your jurisdiction, whichever is greater, to use our services. Individuals under the applicable age may use our services only through a parent or legal guardian's account and with their involvement. If you are a parent or legal guardian who believes your child has provided personal information to Vimeo without your consent, you may ask us to delete such information by contacting us at [privacy@vimeo.com](mailto:%20privacy@vimeo.com). 
 
 ## 3\. Data We Collect About You
 
@@ -44,17 +44,19 @@ We collect information about you when you use our services. In addition, third p
 
 ##### Account Information
 
-To create an account, you must provide a valid email address and password. If you choose to sign-up and/or authenticate using a third-party account (e.g., Facebook, Twitter), you authorize us to obtain account information from the third-party platform. 
+To create an account, you must provide a valid email address and password. If you choose to sign-up and/or authenticate using a third-party account (e.g., Facebook, Google), you authorize us to obtain account information from the third-party platform. 
 
 ##### Financial Information
 
-To buy an item, you may need to provide a valid payment method (e.g., credit card or PayPal account). Your payment information will be collected and processed by our authorized payment vendors. We do not directly collect or store credit or debit card numbers ourselves in the ordinary course of processing transactions. If we allow purchase through a third-party platform (i.e., in-app purchase), the payment method stored with the third-party platform will be charged. 
+To make a purchase, you may need to provide a valid payment method (e.g., credit card or PayPal account). Your payment information will be collected and processed by our authorized payment vendors. We do not directly collect or store credit or debit card numbers ourselves in the ordinary course of processing transactions. If we allow purchase through a third-party platform (i.e. in-app purchase), the payment method stored with the third-party platform will be charged. 
 
 If you wish to sell items or earn money from advertising through our services, you must provide an account to receive funds and tax information, which may include your name, address, and taxpayer identification number. 
 
 ##### Content
 
 Accountholders may create a profile and upload content such as videos, text, photographs, and artwork. Your profile may display information about you and your activities. This information may be accessed by others. Your videos may be viewed and otherwise accessed by others, and associated metadata (e.g., titles, descriptions, tags, etc.) are viewable by others. Your interactions with other users (e.g., comments, "likes," private messages) may be seen by others. You may choose to limit the availability of your profile and videos. For more details, see **Section 9**. 
+
+If you submit images or videos to us in connection with our video creation and editing tools, we may analyze such content using a variety of techniques, including machine-learning algorithms, for the sole purpose of creating a video at your direction. In doing so, we may derive facial-related information from your content solely for the purpose of creating a video for you. This information may be used, for example, to locate a face within a frame. Facial landmarks are retained for 48 hours after a video editing session. We do not collect, use, or store any facial-related information for the purpose of recognizing faces outside of the limited video-creation purposes set forth herein. 
 
 ##### Other Information You May Submit
 
@@ -66,11 +68,11 @@ We automatically collect certain types of data when you use our services, regard
 
 ##### Physical Products
 
-We collect your shipping address to send you products you have ordered. We may automatically collect data concerning your use of our video devices. 
+We collect your shipping address to send you products you have ordered. 
 
 ##### Information Collected by Third Parties
 
-Some third parties may collect data about you when you use our services. This may include data you submit (such as payment information) or automatically-collected information (in the case of third-party analytics providers and advertisers). 
+Some third parties may collect data about you when you use our services. This may include data you submit (such as payment information) or automatically-collected information (in the case of third-party analytics providers and advertising partners). 
 
 We may obtain data from third parties about you. We may combine that data with information that we have collected. For example, some advertisers or advertising platforms may allow us to determine what other online services you might use so that we may place relevant ads on those services. 
 
@@ -83,7 +85,7 @@ We may use your data for the following purposes:
   * **Communicating with you:** We use your data when we communicate with you (e.g., when we respond to a customer support or other inquiry).
   * **Improving our services:** We use your data to understand how our services are being used and how we can improve them. In general, we analyze aggregated data, rather than specific user data. We may, however, need to analyze a specific case to address a specific problem (e.g., a bug that affects only a few accounts).
   * **Customizing your experience:** We use your data to personalize the service to you. This may include remembering your preferences for language or volume or displaying videos that you might enjoy, based upon your viewing choices.
-  * **Marketing and advertising:** We use your data to display ads and send you offers. We may also use your data in delivering third-party advertisements to you. This may include "targeted ads" based upon your activities.
+  * **Marketing and advertising:** We use your data to show you ads on third-party sites. We may also use your data in delivering third-party advertisements to you. This may include "targeted ads" based upon your activities.
   * **Exercising our rights:** Where reasonably necessary, we use your data to exercise our legal rights and prevent abuse of our service. For example, we may use your data to detect and prevent fraud, spam, or content that violates our Terms of Service.
   * **Legal compliance:** We use your data where we are legally required to do so. For example, we may need to gather your data to respond to a subpoena or court order.
   * **Protecting your information:** Where appropriate, we may anonymize, backup, and delete certain data.
@@ -92,16 +94,27 @@ We may use your data for the following purposes:
 
 We may use algorithms and other automated means to implement any of the above.
 
+Whenever we process your data for one of these purposes, we have determined that one or more of the following lawful bases apply:
+
+  * Performance of a contract;
+  * Legitimate commercial interest;
+  * Compliance with a legal obligation; or
+  * Consent
+
+
+
+If you require further information about the balancing test that Vimeo has undertaken to justify its reliance on legitimate interest as a lawful basis of processing, see **Section 15** for information on how to contact us.
+
 ## 5\. With Whom We Share Your Data
 
 We share data with third parties as follows:
 
   * **As you instruct:** We may make your profile and videos available to others as you instruct in using our services. We may share your data with persons to whom you have granted account-level access.
-  * **With your consent:** We may share your data with third parties where we have obtained your express consent to do so. You may revoke these consents.
+  * **With your consent:** We may share your data with third parties where we have obtained your express consent to do so.
   * **Authorized vendors:** We may share your data with third-party vendors that help us operate our services, process orders, and comply with your instructions and our contractual obligations. This includes payment processors, content delivery networks (CDNs), cloud-based hosting services, monitoring services, email service providers, quality assurance and testing vendors, fraud and abuse prevention vendors, customer relations management (CRM) vendors, and shipment vendors.
-  * **Advertising:** We may share your data with advertising companies to display relevant ads to you. Unless you expressly agree, we will not share or sell your name, email address, or physical address with such persons.
-  * **Analytics:** We may share your data with persons who provide analytics showing how customers are using our services. 
-  * **Affiliates and advisors:** We may share your data with our parent company, IAC/InterActiveCorp, and our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance. Unless you expressly agree, we will not share your data with our parent or any affiliate for other purposes, such as direct marketing.
+  * **Advertising:** We may share your data with advertising companies to display relevant ads to you.
+  * **Analytics:** We may share your data with analytics providers which help us understand how customers are using our services.
+  * **Affiliates and advisors:** We may share your data with our parent company, IAC/InterActiveCorp, and our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance. We may share your data with our affiliates to the extent necessary to provide you with the services ordered.
   * **Certain legal situations:** We may share your data where we believe disclosure is necessary to comply with a legal obligation or in connection with a corporate transaction as discussed in Section 6.
   * **Aggregated or anonymized information:** We may publicly disclose non-personal aggregated or anonymized information such as our number of visitors and registered users.
 
@@ -125,7 +138,7 @@ We may share your data with potential transaction partners, advisors, and others
 
 ## 7\. Data Retention
 
-We retain your data for as long as you have an account. When you close an account, we will delete its content, including its videos. We may retain logs of automatically collected information (for internal analytics); your email address; your tax information; communications with you; and your transactional information (for auditing, tax, and financial purposes). When we no longer have a business reason for retaining data, we will delete or anonymize it.
+We retain your data for as long as you have an account. When you close an account, we will delete its content, including its videos. We may retain logs of automatically collected information (for internal analytics and security purposes); your email address; your tax information; communications with you; and your transactional information (for auditing, tax, and financial purposes). When we no longer have a business reason for retaining data, we will delete or anonymize it.
 
 We retain deleted videos on our servers for a short period in case you wish to reverse deletion. Once we delete a video, we may not be able to recover it. If you have previously made a video public, the video or its thumbnail may be discoverable in a search engine's cache for a time. We have no control over search engines; however, we will, upon request, send a request for deletion to major search engines.
 
@@ -145,11 +158,11 @@ We enable you to make numerous choices about your data:
 
 
 
-Users from certain countries may have additional rights. See **Section 14** for more details.
+Users in certain jurisdictions may have additional rights. See **Section 14** for more details.
 
 ## 9\. Account and Video Privacy Settings
 
-Our video hosting and sharing tools offer the ability to limit the distribution of your content, including your videos. This section explains some of your choices.
+As part of our services we offer you the ability to limit the distribution of your content, including your videos. This section explains some of your choices.
 
 ##### Profile
 
@@ -177,7 +190,7 @@ You may change these settings at any time. Changes will be applied on a go-forwa
 
 ##### Emails
 
-By creating an account, you consent to receive commercial emails from us. This includes newsletters and offers. Users from certain countries may have the ability to opt out or opt in at the time of account creation. All users may decline to receive commercial messages in their account settings. Please note that any opt-out request may take several days to process and you will continue to receive transactional emails from us (e.g., emails confirming transactions and/or providing information about your account).
+If you create an account, you may receive commercial emails from us. This includes newsletters and offers. You may always opt out from receiving commercial messages in your account settings. Please note that any opt-out request may take several days to process and you will continue to receive transactional emails from us (e.g., emails confirming transactions and/or providing information about your account).
 
 ##### Mobile Device Communications
 
@@ -195,22 +208,21 @@ You may receive other people's data in using our service. If you receive informa
 
 We may provide links to online services that we do not own or operate. These services fall outside of this Privacy Policy and we have no control over the data they collect. For example, if you click on an advertisement, you may be taken to the advertiser's website. Once on a third-party site, your data may be collected by others. We encourage you to read the privacy policies of such services before using them. 
 
-You may use our service through third-party sites. For example, you may watch a video that is embedded on a third-party site or use one of our apps on a third-party platform. This Privacy Policy covers our apps and video players, but does not cover any third-party site or any third-party video player. 
+You may use our service through third-party sites and to send you offers. For example, you may watch a video that is embedded on a third-party site or use one of our apps on a third-party platform. This Privacy Policy covers our apps and video players, but does not cover any third-party site or any third-party video player. 
 
 ## 14\. International Data Transfers and Certain User Rights
 
 ##### 14.1 Location of Data
 
-Vimeo is based in the United States. We provide services globally using computer systems, servers, and databases located in the U.S. and other countries. When you use our services from outside of the U.S., your information will be transferred to, stored in, and processed in the U.S. and other countries. Please note that U.S. data and privacy laws may not be as comprehensive as those in your country. Residents of certain countries may be subject to additional protections as set forth in **Sections 14.2** and **14.3** below.
+Vimeo is based in the United States. We provide services globally using computer systems, servers, and databases located in the U.S. and other countries. When you use our services from outside of the U.S., your information may be transferred to and processed in the U.S.. Please note that U.S. data and privacy laws may not be as comprehensive as those in your country. Residents of certain countries may be subject to additional protections as set forth in **Sections 14.2** and **14.3** below.
 
 ##### 14.2 GDPR (EEA Users)
 
-This **Section 14.2** applies only to natural persons residing in the European Economic Area (for the purpose of this section only, "you" or "your" shall be limited accordingly). It is Vimeo's policy to comply with the EU's General Data Protection Regulation (GDPR). In accordance with the GDPR, we may transfer your personal information from your home country to the U.S. (or other countries) based upon the following legal frameworks:
+This **Section 14.2** applies only to natural persons residing in the European Economic Area (for the purpose of this section only, "you" or "your" shall be limited accordingly). It is Vimeo's policy to comply with the EEA's General Data Protection Regulation (GDPR). In accordance with the GDPR, we may transfer your personal information from your home country to the U.S. (or other countries) based upon the following legal bases:
 
-  * Legitimate business interests: We could not provide our services or comply with our obligations to you without transferring your personal information to the U.S.
-  * Consent: We may transfer your personal information when we receive your express, revocable consent.
+  * Legitimate business interests: We could not provide our services or comply with our legal obligations without transferring your personal information to the U.S.
   * Our use of Standard Contractual Clauses (also known as "Model Clauses") where appropriate.
-  * The EU-U.S. and Swiss-U.S. Privacy Shield frameworks, as described further below.
+  * Our certification and adherence to the EU-U.S. and Swiss-U.S. Privacy Shield frameworks, as described further below.
 
 
 
@@ -218,30 +230,43 @@ You have the right to: opt out of non-essential cookies (see our [Cookie Policy]
 
 If you have a request, complaint or inquiry, please contact our Data Protection Officer at the address listed in **Section 15**. We are committed to working with you to obtain a fair resolution of any issue. You also have the right to file a complaint with the supervisory data protection authority of your jurisdiction.
 
-##### 14.3 Privacy Shield (EU and Swiss Users)
+##### 14.3 Privacy Shield (EEA, UK and Swiss Users)
 
-This **Section 14.3** applies only to natural persons residing in the European Union and Switzerland (for the purpose of this section only, "you" or "your" shall be limited accordingly). Vimeo complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework (collectively, **"Privacy Shield"** ) regarding the collection, use, and retention of personal information transferred from the EU to the U.S.
+This **Section 14.3** applies only to natural persons residing in the European Economic Area, the United Kingdom and Switzerland (for the purpose of this section only, "you" or "your" shall be limited accordingly). Vimeo complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework (collectively, " **Privacy Shield** ") as established by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EU, the United Kingdom and/or Switzerland, as applicable, to the U.S. 
 
 Vimeo adheres to the Privacy Shield principles of notice, choice, onward transfer, security, data integrity, access, and enforcement (the **"Privacy Shield Principles"** ). Vimeo has established policies and procedures to ensure compliance with the Privacy Shield Principles and will conduct an annual internal assessment to ensure such compliance. If there is any conflict between the terms of this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
 
 Vimeo has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view Vimeo's certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). By making this certification, Vimeo is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
-Where Vimeo has transferred personal information of EU or Swiss residents to third parties, Vimeo shall be liable if those third parties do not process personal information in compliance with the Privacy Shield Principles. This shall not be the case where Vimeo establishes that it is not responsible for the damage caused by the third party.
+Where Vimeo has transferred personal information of EEA, UK or Swiss residents to third parties, Vimeo shall be liable if those third parties do not process personal information in compliance with the Privacy Shield Principles. This shall not be the case where Vimeo establishes that it is not responsible for the damage caused by the third party.
 
 In accordance with Privacy Shield Principles, Vimeo commits to resolve complaints about our collection or use of your personal information. If you have inquiries or complaints regarding our Privacy Shield policy, you should first contact Vimeo at the address listed in **Section 15**. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact our independent recourse mechanism provider, JAMS, at <https://www.jamsadr.com/eu-us-privacy-shield>, to file a complaint. JAMS' services are provided at no cost to you.
 
 If you have an unresolved complaint after contacting both Vimeo and JAMS, you may elect to arbitrate your Privacy Shield claims against Vimeo pursuant to Annex I of the Privacy Shield Principles, which provides for binding arbitration administered by the American Arbitration Association. Such arbitration will be binding upon you and Vimeo.
 
-##### 14.4 California User Rights
+##### 14.4 California Users
 
-California residents have the right to opt out of disclosing information to third parties for the purpose of allowing such third parties to directly market their products and services. At this time, we do not engage in this type of disclosure. If you have questions, please contact us.
+Under California’s “Shine the Light” law, California residents have the right to opt out of disclosing information to third parties for the purpose of allowing such third parties to directly market their products and services. At this time, we do not engage in this type of disclosure.
+
+Under the California Consumer Privacy Act (“CCPA”), California consumers have the following rights, which can be exercised directly or in certain cases, through an authorized agent:
+
+* **Right to Know.** You have the right to request information about the categories and sources of personal information we collect, our purposes for collecting the information, and the types of third parties that receive that information. Details about our data collection, use and third-party disclosures can be found [here](https://vimeo.com/privacy/california-privacy). In addition, you have the right to request a copy of your personal information. You may exercise this right once per 12-month period by using this [form](https://vimeo.com/help/contact?category=cf_account&subcategory=cf_privacy_related_request). 
+* **Right to Delete.** You have the right to request that we delete some or all of the personal information that we have about you. Deleting all data will typically require the deletion of your account, along with all content, including your videos. Notwithstanding the foregoing, we may retain information to provide services you have ordered, complete transactions, honor opt-outs, prevent fraud, spam, and other abuse, comply with our legal obligations, cooperate with law enforcement, and to exercise and defend our rights. You may exercise your right to delete using this [form](https://vimeo.com/help/contact?category=cf_account&subcategory=cf_privacy_related_request).
+* **Do Not Sell.** You have the right to opt out of the sale of your personal information, and to request information about whether we have sold your personal information in the past 12 months. Vimeo does not sell personal information, and we have not done so in the last year. If we begin to do so, we will update this notice and provide a mechanism to opt out of any such sale.
+* **Non-Discrimination.** We won’t discriminate against you because you exercise any rights herein. 
+
+To exercise your rights to know and delete, we must be able to verify your identity as the owner of the Vimeo account you are inquiring about. We may not be able to fulfill your request until we can do so. In general, we verify identity by confirming that you are the owner of the email address associated with the account. An authorized agent submitting a request on your behalf must also have access to the email address associated with the account, along with sufficient evidence that you have authorized that person to submit the request on your behalf. Although you need not have a Vimeo account to submit a request, we may not be able to locate certain information to process your request if you don’t have one.
+
+##### 14.5 Nevada Users
+
+Nevada residents have the right to opt out of the sale of certain "covered information" collected by operators of websites or online services. We currently do not sell covered information, as "sale" is defined by such law, and we don't have plans to sell this information. However, if you would like to be notified if we decide in the future to sell personal information covered by the Act, you can provide us with your name and email address [here](https://forms.gle/Fz9PvcKHMdT7WTer5). You are responsible for updating any change in your email address by the same method and we are not obligated to cross-reference other emails you may have otherwise provided us for other purposes. We will maintain this information and contact you if our plans change. At that time, we will create a process for verifying your identity and providing an opportunity to verified consumers to complete their opt-out. Please become familiar with our data practices as set forth in this Privacy Policy. We may share your data as explained in this Privacy Policy, such as to enhance your experiences and our services, and those activities will be unaffected by a Nevada do not sell request.
 
 ## 15\. How to Contact Us
 
 For any questions, inquiries, or complaints relating to your privacy, please contact us at:
 
 > **Vimeo, Inc.**  
+>  Attention: Data Protection Officer  
 >  555 West 18th Street  
 >  New York, New York 10011  
->  Attention: Data Protection Officer  
 >  [Privacy@vimeo.com](mailto:privacy@vimeo.com)
