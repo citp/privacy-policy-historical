@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreaker.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626044759id_/https%3A//www.spreaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreaker.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230214744id_/https%3A//www.spreaker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ Users can find further detailed information about such purposes of processing an
 
 ## Facebook permissions asked by Spreaker
 
-Spreaker may ask for some Facebook permissions allowing it to perform actions with the User's Facebook account and to retrieve information, including Personal Data, from it. This service allows Spreaker to connect with the User's account on the Facebook social network, provided by Facebook Inc.
+Spreaker may ask for some Facebook permissions allowing it to perform actions with the User's Facebook account and to retrieve information, including Personal Data, from it. This service allows Spreaker to connect with the User's account on the Facebook social network, provided by Facebook, Inc.
 
 For more information about the following permissions, refer to the [Facebook permissions documentation](https://developers.facebook.com/docs/authentication/permissions/) and to the [Facebook privacy policy](https://www.facebook.com/about/privacy/).
 
@@ -119,9 +119,9 @@ This type of service allows User Data to be utilized for advertising communicati
 This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below. Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside Spreaker. For more information, please check the privacy policies of the relevant services.  
 In addition to any opt out offered by any of the services below, the User may opt out of a third-party service's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/).
 
-#### DoubleClick for Publishers (Google Inc.)
+#### DoubleClick for Publishers (Google, Inc.)
 
-DoubleClick for Publishers is an advertising service provided by Google Inc. that allows the Owner to run advertising campaigns in conjunction with external advertising networks that the Owner, unless otherwise specified in this document, has no direct relationship with. In order to opt out from being tracked by various advertising networks, Users may make use of [Youronlinechoices](http://www.youronlinechoices.com/). In order to understand Google's use of data, consult [Google's partner policy](https://www.google.com/policies/privacy/partners/).  
+DoubleClick for Publishers is an advertising service provided by Google, Inc. that allows the Owner to run advertising campaigns in conjunction with external advertising networks that the Owner, unless otherwise specified in this document, has no direct relationship with. In order to opt out from being tracked by various advertising networks, Users may make use of [Youronlinechoices](http://www.youronlinechoices.com/). In order to understand Google's use of data, consult [Google's partner policy](https://www.google.com/policies/privacy/partners/).  
 This service uses the “Doubleclick” Cookie, which tracks use of Spreaker and User behavior concerning ads, products and services offered.  
 Users may decide to disable all the Doubleclick Cookies by clicking on: [www.google.com/settings/ads/onweb/optout?hl=en](https://www.google.com/settings/ads/onweb/optout?hl=en).
 
@@ -131,9 +131,9 @@ Place of processing: United States – [Privacy Policy](http://www.google.com/pr
 
 The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
-#### Google Analytics (Google Inc.)
+#### Google Analytics (Google, Inc.)
 
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of Spreaker, to prepare reports on its activities and share them with other Google services.  
+Google Analytics is a web analysis service provided by Google, Inc. (“Google”). Google utilizes the Data collected to track and examine the use of Spreaker, to prepare reports on its activities and share them with other Google services.  
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
 Personal Data collected: Cookies and Usage Data.
@@ -146,20 +146,26 @@ By registering on the mailing list or for the newsletter, the User’s email add
 
 Personal Data collected: email address.
 
+#### Unbounce (Unbounce Marketing Solutions, Inc.)
+
+Unbounce is a service that helps us showing landing pages to our user and let the users ask us to get in touch with them. By registering on our landing pages, the User’s email address will be added to the contact list of those who may receive email messages containing commercial or promotional nature concerning Spreaker.
+
+Place of processing: United States or other countries outside of where you live for the purposes as described in the following policies – [Privacy Policy](https://unbounce.com/privacy/).
+
 Payment processing services enable Spreaker to process payments by credit card, bank transfer or other means. To ensure greater security, Spreaker shares only the information necessary to execute the transaction with the financial intermediaries handling the transaction.  
 Some of these services may also enable the sending of timed messages to the User, such as emails containing invoices or notifications concerning the payment.
 
-#### PayPal (PayPal Inc.)
+#### PayPal (PayPal, Inc.)
 
-PayPal is a payment service provided by PayPal Inc., which allows Users to make online payments.
+PayPal is a payment service provided by PayPal, Inc., which allows Users to make online payments.
 
 Personal Data collected: various types of Data as specified in the privacy policy of the service.
 
 Place of processing: See the PayPal privacy policy – [Privacy Policy](https://www.paypal.com/privacy). 
 
-#### Stripe (Stripe Inc)
+#### Stripe (Stripe, Inc)
 
-Stripe is a payment service provided by Stripe Inc.
+Stripe is a payment service provided by Stripe, Inc.
 
 Personal Data collected: various types of Data as specified in the privacy policy of the service.
 
@@ -169,7 +175,7 @@ This type of service has the purpose of hosting Data and files that enable Sprea
 
 #### Amazon Web Services (AWS) (Amazon Web Services, Inc.)
 
-Amazon Web Services is a hosting and backend service provided by Amazon.com Inc.
+Amazon Web Services is a hosting and backend service provided by Amazon.com, Inc.
 
 Personal Data collected: various types of Data as specified in the privacy policy of the service.
 
@@ -208,9 +214,9 @@ Personal Data collected: various types of Data as specified in the privacy polic
 
 Place of processing: United States – [Privacy Policy](https://dev.twitter.com/terms/api-terms). Privacy Shield participant.
 
-#### Google OAuth (Google Inc.)
+#### Google OAuth (Google, Inc.)
 
-Google OAuth is a registration and authentication service provided by Google Inc. and is connected to the Google network.
+Google OAuth is a registration and authentication service provided by Google, Inc. and is connected to the Google network.
 
 Personal Data collected: various types of Data as specified in the privacy policy of the service.
 
@@ -220,13 +226,19 @@ This type of service allows Spreaker and its partners to inform, optimize and se
 This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioral targeting activity.  
 In addition to any opt out offered by any of the services below, the User may opt out of a third-party service's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/).
 
-#### AdWords Remarketing (Google Inc.)
+#### AdWords Remarketing (Google, Inc.)
 
-AdWords Remarketing is a remarketing and behavioral targeting service provided by Google Inc. that connects the activity of Spreaker with the Adwords advertising network and the Doubleclick Cookie.
+AdWords Remarketing is a remarketing and behavioral targeting service provided by Google, Inc. that connects the activity of Spreaker with the Adwords advertising network and the Doubleclick Cookie.
 
 Personal Data collected: Cookies and Usage Data.
 
 Place of processing: United States – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout).
+
+#### Facebook Pixel and Custom Audience (Facebook, Inc. and Facebook Ireland Ltd.)
+
+Facebook is a social network and an advertising service provided by Facebook, Inc. and Facebook Ireland Ltd.
+
+Place of processing: United States or other countries outside of where you live for the purposes as described in the following policies – [Privacy Policy](https://www.facebook.com/about/privacy/) – [Cookie Policy](https://www.facebook.com/policies/cookies/).
 
 ## Further information about Personal Data
 
@@ -289,7 +301,7 @@ Any requests to exercise User rights can be directed to the Owner through the co
 
 ## Cookie Policy
 
-Spreaker uses Cookies. To learn more and for a detailed cookie notice, the User may consult the [Cookie Policy](https://www.iubenda.com/privacy-policy/36948804/cookie-policy "Cookie Policy").
+Spreaker uses Cookies. To learn more and for a detailed cookie notice, the User may consult the [Cookie Policy](https://www.spreaker.com/cookies)
 
 ## Additional information about Data collection and processing
 
