@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icontact.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627005626id_/https%3A//www.icontact.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icontact.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230222358id_/https%3A//www.icontact.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iContact
 
@@ -86,7 +86,7 @@ We partner with a third party to manage our advertising on other sites. Our thir
 
 #### How Can I Access My Information?
 
-Upon request iContact will provide you with information about whether we hold any of your personal information. Customers may access and amend the contact information and other account information we have collected from them by logging in to their accounts and changing their account information. In addition, individuals may request access to and modification or deletion of any personal data we have collected about them by e-mailing [customercare@icontact.com](mailto:customercare@icontact.com). We will respond to your access request within 30 days.
+Upon request iContact will provide you with information about whether we hold any of your personal information. Customers may access and amend the contact information and other account information we have collected from them by logging in to their accounts and changing their account information. Customers have the right to opt out of (a) disclosures of their Personal Data to third parties not identified at the time of collection or subsequently authorized, and (b) uses of Personal Data for purposes materially different from those disclosed at the time of collection or subsequently authorized. Individuals may request access to and modification or deletion of any personal data we have collected about them by e-mailing [customercare@icontact.com](mailto:customercare@icontact.com). We will respond to your access request within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [customercare@icontact.com](mailto:customercare@icontact.com). We will retain and use your information as necessary to comply with our legal obligations, support our business operations, resolve disputes, and enforce our agreements.
 
