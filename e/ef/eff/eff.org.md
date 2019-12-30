@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629224415id_/https%3A//www.eff.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230181243id_/https%3A//www.eff.org/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electronic Frontier Foundation
 
@@ -159,13 +159,13 @@ _Also recently updated May 1, 2014 to reflect: 1) introduction of EFF's separate
 
   * [Oct 19 2011 - Jul 23 2012](https://www.eff.org/policy/2011/10/19)
 
-  * [Jul 24, 2012 - Apr 30, 2014](https://web.archive.org/web/20190629224415id_/https%3A//www.eff.org/policy/2012/07/24)
+  * [Jul 24, 2012 - Apr 30, 2014](https://web.archive.org/web/20191230181243id_/https%3A//www.eff.org/policy/2012/07/24)
 
-  * [Apr 31, 2014 – Jun 12, 2014](https://web.archive.org/web/20190629224415id_/https%3A//www.eff.org/policy/2014/04/31)
+  * [Apr 31, 2014 – Jun 12, 2014](https://web.archive.org/web/20191230181243id_/https%3A//www.eff.org/policy/2014/04/31)
 
-  * [Jun 13, 2014 – Apr 7, 2015](https://web.archive.org/web/20190629224415id_/https%3A//www.eff.org/policy/2014/06/13)
+  * [Jun 13, 2014 – Apr 7, 2015](https://web.archive.org/web/20191230181243id_/https%3A//www.eff.org/policy/2014/06/13)
 
-  * [Apr 8, 2015 – Jul 13, 2016](https://web.archive.org/web/20190629224415id_/https%3A//www.eff.org/policy/2016/07/13)
+  * [Apr 8, 2015 – Jul 13, 2016](https://web.archive.org/web/20191230181243id_/https%3A//www.eff.org/policy/2016/07/13)
 
   * [Jul 14, 2016 to Feb 19, 2018](https://web.archive.org/policy/2018/02/19)
 
