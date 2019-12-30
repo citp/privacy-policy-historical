@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iabtechlab.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406081758id_/https%3A//iabtechlab.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iabtechlab.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230223613id_/https%3A//iabtechlab.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IAB Tech Lab
 
