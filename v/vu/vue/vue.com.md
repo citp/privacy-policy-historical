@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vue.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603043000id_/https%3A//home.pearsonvue.com/privacy%23cookies-and-web-beacons) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vue.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231001118id_/https%3A//home.pearsonvue.com/privacy%23cookies-and-web-beacons) for the most accurate reproduction.*
 
 # Privacy and cookies policy :: Pearson VUE
 
@@ -72,7 +72,7 @@ We rely on the following legal grounds to process your Personal Data:
 
   * _Performance of a contract._ We may need to collect and process your Personal Data as necessary to perform services subject to a contractual agreement with you. Examples of our legal grounds to process your Personal Data as being necessary for the performance of a contract include, but are not limited to: (i) when you make an online purchase in order for the purpose of allowing us to deliver the purchased product; and (ii) when you register and schedule to take a test sponsor’s test on Pearson VUE’s or Certiport’s website you will be entering into a Candidate Agreement by and between you, Pearson VUE or Certiport, and the test sponsor for the purpose of permitting us to collect, use, transfer, process and store your Personal Data consistent with this Privacy Policy.
   * _Consent._ Where we ask you for your consent, we will collect and use your Personal Data only to the extent you have consented.
-  * _Legitimate interests._ We may use your Personal Data for our legitimate interests for the purposes of improving our products and services and improving the content of our Site(s); and for the legitimate interest of our test sponsors.
+  * _Legitimate interests._ We may use your Personal Data for our legitimate interests for the purposes of improving our products and services, the content of our Site(s), and improving our applications and systems; and for the legitimate interest of our test sponsors.
 
 
 
@@ -82,15 +82,13 @@ We do not sell, lease, rent, or otherwise disclosure your Personal Data to third
 
 ## COMPLIANCE WITH THE EU-U.S. AND SWISS-U.S.PRIVACY SHIELD FRAMEWORKS
 
-### EU-U.S. and Swiss-U.S. Privacy Shield Frameworks
+### EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Certification
 
-Consistent with our commitment to protect Personal Data worldwide we are dedicated to providing privacy protection as defined by the European community and Swiss laws for the handling of Personal Data received from individuals in the European Union member states (including Iceland, Liechtenstein and Norway) (collectively the “EU member states” or the “EU”) and Switzerland. The Pearson VUE Business Group complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data transferred from the EU member states and Switzerland to the United States. The Pearson VUE Business Group has certified to the Department of Commerce that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability (the “Privacy Shield Principles”). To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+The Pearson VUE Business Group maintains certification for and complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework (“Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data transferred from the European Union, the United Kingdom, and Switzerland, as applicable, to the United States upon reliance on the Privacy Shield. The Pearson VUE Business Group has certified to the U.S. Department of Commerce that we adhere to and comply with the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability (the “Privacy Shield Principles”) for Personal Data received from individuals residing in the EU, the United Kingdom, and Switzerland. To learn more about the Privacy Shield program, and to view the Pearson VUE Business Group’s certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
-The Pearson VUE Business Group is responsible for the processing of Personal Data it receives, under each Privacy Shield Framework, and subsequently transfers to other companies and individuals to perform functions or services on our behalf.
+The Pearson VUE Business Group is responsible for the processing of Personal Data it receives, under each Privacy Shield Framework, and subsequently onward transfers to third parties to perform processing functions or to provide services on our behalf.
 
-We comply with the Privacy Shield Principles for all onward transfers of Personal data from the EU member states and Switzerland.
-
-The Pearson VUE Business Group has further committed to cooperate with the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU or Switzerland. Click on Resolution of Concerns for more detailed information.
+The Pearson VUE Business Group has further committed to cooperate with the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved privacy or Personal Data use concerns. Click on Resolution of Concerns for more detailed information.
 
 Additionally, the Pearson VUE Business Group is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. As further explained on the Privacy Shield website at [https://www.privacyshield.gov](https://www.privacyshield.gov/), as a last resort and in limited situations, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
@@ -104,7 +102,7 @@ Providing your Personal Data is voluntary, but may be necessary if you wish to r
 
 In addition to the Personal Data that we may collect or receive in registering a candidate (“you”) for certification, licensure, or academic admission testing the test sponsor may also provide to us or instruct us to collect the following additional Personal Data, as necessary or appropriate, including, but not limited to: language, date of birth, social security number, test sponsor’s identification number, employment information, previous examination history, education information, and source of financing for the test. For candidate verification and identification purposes, we may be instructed to collect all or part of a government-issued identification number and mother’s maiden name.
 
-At the test center, depending upon the test sponsor and/or test security requirements, you may be required to provide your signature, photographic image, a copy of your photo identification, palm vein pattern digitally where permitted by law (for the purposes of identity verification and to protect the security and integrity of the test) and you may be audio- and video-recorded while you are taking the test. You may be required to provide your palm vein pattern where permitted by law if your ID does not meet the requirements of identity verification. Where palm vein pattern collection is required by your test sponsor, by continuing with the test, you are consenting to such collection and use.
+At the test center, depending upon the test sponsor and/or test security requirements, you may be required to provide two (2) forms of identification, your signature, photographic image, a palm vein pattern digitally where permitted by law (for the purposes of identity verification and to protect the security and integrity of the test) and you may be audio- and video-recorded during your testing session. In addition, you may be required to provide your palm vein pattern where permitted by law if your ID does not meet the requirements of identity verification. Where palm vein pattern collection is required by your test sponsor, by continuing with the test, you are consenting to such collection and use.
 
 We will handle and treat all Personal Data collected or received by us in connection with certification, licensure, and academic admission test registration and test administration in the manner as described in this Privacy Policy.
 
@@ -112,8 +110,8 @@ We will handle and treat all Personal Data collected or received by us in connec
 
 We use Personal Data to provide services and information, to administer testing programs on behalf of your test sponsor, and for our legitimate purposes in operating our business. Examples of our use or disclosure of your Personal Data include, but is not limited to:
 
-  * We will use your Personal Data to provide test delivery services to you, including test scheduling and administration, maintaining the integrity of the testing process, and score reporting as directed by your test sponsor. Where required by your test sponsor and permitted by law, your palm vein pattern will be used as described herein and also to verify your identity detect, and aide in the prevention of fraud or misrepresentation.
-  * Personal Data is also used for our legitimate business purposes as needed to manage day to day business needs including, but not limited to, payment processing and financial account management, business planning and forecasting, security and fraud prevention, and compliance with legal and regulatory obligations.
+  * Providing test delivery services to you, including test scheduling and administration, maintaining the integrity of the testing process, and score reporting as directed by your test sponsor. Where required by your test sponsor and permitted by law, your palm vein pattern will be used as described herein and to authenticate your identity, detect, and aide in the prevention of fraud or misrepresentation.
+  * Our legitimate business purposes as needed to manage day to day business needs including, but not limited to, payment processing and financial account management, business planning and forecasting, security and fraud prevention, and compliance with legal and regulatory obligations. In addition, you agree that Pearson VUE, for its internal use only, may use images of your ID documentation for the purpose of further developing, upgrading, and improving our applications and systems.
 
 
 
@@ -127,9 +125,9 @@ Certain certification, credentialing, licensure, and academic admission tests ar
 
 If a test sponsor offers their test outside of a Pearson VUE Business Group’s authorized testing center through online proctoring and if you choose to take the test through Pearson VUE’s online proctoring platform, in addition to the requirements of Description of Certification, Licensure, and Academic Admission Test Services, you will be monitored over the Internet through your computer via your webcam and microphone. Online proctoring means that you will log on to a test platform through the internet to take your test and you will be monitored during your entire testing session in real-time so that your face, voice, desk and workspace will be captured and a recording will be made of these images for the purposes of test security and the integrity of the testing process. It is your responsibility to monitor your online proctored testing environment. You must make sure that only you will be recorded during your testing session and that no one else will be physically in the room where you are testing and that no one speaks to you during your testing session. If at any time during an online proctored testing session another person enters the work space or if another person’s voice is detected on the audio recording your testing session may be immediately terminated and the test stopped. If this event occurs you will not receive a test refund or be credited for any portion of the test fee.
 
-Some test sponsors’ may elect to utilize self-check-in automated greet process during online proctor testing. This process will include identification validation through automated processing and facial comparison technology. You understand and agree that Pearson VUE may, for some test sponsor’s, use facial comparison technology for the purpose of verifying your identity during the testing session by comparing your facial image to that presented on your identification and to facial images captured during the testing session and for the purposes of further developing, upgrading, and improving this application.
+Some test sponsors’ may elect to automate the check-in process. During this automated check-in process you will check yourself in, upload the photo you’ve taken of yourself, and share your identification documents (“IDs”) on camera. Images of your IDs will be used for the purpose of ID validation through the use of ID authentication protocols. We will use the ID authentication protocols in conjunction with biometric facial comparison technology to authenticate your identity. You understand and agree that Pearson VUE may, for some test sponsor’s, use facial comparison technology for the purpose of verifying your identity during the testing session by comparing your facial image to that presented on your ID and to your facial images captured during the testing session. In addition, you agree that Pearson VUE, for its internal use only, may use images of your IDs for the purpose of further developing, upgrading, and improving our applications and systems.
 
-The video and audio recordings are standard test procedures for all test sponsors’ online proctored tests and your video and audio recording will be used for purposes of identity verification, remote observation, incident resolution, such as fraud prevention, test security, and for the integrity of the test and the testing process. For more information about how the test sponsor may collect and use your Personal Data we encourage you to review the test sponsor’s privacy policy.
+The video and audio recordings are standard test procedures for all test sponsors’ online proctored tests and your video and audio recording will be used for purposes of identity verification, remote observation, incident resolution, such as fraud prevention, test security, and for the integrity of the test and the testing process. In addition, you agree that Pearson VUE, for its internal use only, may use images of your ID documentation for the purpose of further developing, upgrading, and improving our applications and systems. For more information about how the test sponsor may collect and use your Personal Data we encourage you to review the test sponsor’s privacy policy.
 
 ### Personal Data Collected for Online Proctoring Test Services
 
@@ -137,7 +135,7 @@ All of the same Personal Data that we collect or receive as described above appl
 
 ### PTE Professional
 
-When you take the PTE Professional test, we use your Personal Data to:
+When you take the PTE Professional test NCS Pearson, Inc. is the data controller and the data processor of your Personal Data. When you take the PTE Professional test we may use your Personal Data to:
 
   * Administer the PTE Professional test, the English for Professionals Exam.
   * Process your requests for products, services, or information and to communicate with you regarding such requests.
@@ -149,13 +147,15 @@ When you take the PTE Professional test, we use your Personal Data to:
 
 
 
+In addition, you agree that Pearson VUE, for its internal use only, may use images of your IDs for the purpose of further developing, upgrading, and improving our applications and systems.
+
 ### Your Choices
 
 PTE Professional endeavors to provide you with choices regarding our use of your Personal Data. For example, although we may occasionally use your Personal Data to contact you regarding products or services of PTE Professional we think might be of interest you, you will be given instructions on how to opt out of receiving further communications of this nature by email. Should you elect to opt out of receiving further communications you may still receive program-related messages and similar transactional communications by email. In addition, as noted above, you will have the opportunity to choose not to receive marketing materials and communications from our affiliates or third party partners.
 
 ## IC3
 
-When you take the IC3 test, we use your Personal Data to:
+When you take the IC3 test, NCS Pearson, Inc. is the data controller and the data processor of your Personal Data. When you take the IC3 test we use your Personal Data to:
 
   * Administer the IC3 test, Internet and Core Computing Certification Exam.
   * Process your requests for products, services, or information and to communicate with you regarding such requests.
@@ -166,6 +166,8 @@ When you take the IC3 test, we use your Personal Data to:
   * Provide you with information about products, services or special offers. Please see the section below entitled “Your Choices” to better understand your choices with regard to these communications from us.
 
 
+
+In addition, you agree that Pearson VUE, for its internal use only, may use images of your IDs for the purpose of further developing, upgrading, and improving our applications and systems.
 
 ### Your Choices
 
@@ -227,7 +229,7 @@ We clearly identify what information must be provided by you in order for us to 
 
 ### How We Use the Personal Data We Collect
 
-We use the Personal Data you provide to Pearson VUE to provide services and information you request, to process transactions, fulfill product delivery and for legitimate purposes in operating our business. Additionally, we use information collected about your use of our site for legitimate business interests to understand the habits of our Site users and to improve the products, services, and content we offer.
+We use the Personal Data you provide to Pearson VUE to provide services and information you request, to process transactions, fulfill product delivery and for legitimate purposes in operating our business. Additionally, we use information collected about your use of our site for legitimate business interests to understand the habits of our Site users and to improve the products, services, and content we offer. In addition, you agree that Pearson VUE, for its internal use only, may use Your Personal Data for the purpose of further developing, upgrading, and improving our applications and systems.
 
 ## CREDENTIALING SERVICES
 
@@ -287,7 +289,7 @@ Individuals who make online purchases will be asked to provide credit/debit card
 
 ## RESOLUTION OF CONCERNS
 
-The Pearson VUE Business Group commits to resolve complaints about your privacy and our collection, use, transfer, or processing of your Personal Data. Individuals with inquires or concerns regarding this Privacy Policy should first contact the Pearson VUE Business Group at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com) or you may call us at +1 (952) 681-3918.
+The Pearson VUE Business Group commits to resolve privacy or Personal Data use concerns about your privacy and our collection, use, transfer, or processing of your Personal Data. Individuals with inquires or concerns regarding this Privacy Policy should first contact the Pearson VUE Business Group at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com) or you may call us at +1 (952) 681-3918.
 
 Pearson VUE endeavors to respond to your inquiry within 30 days. If you believe you have not received a timely acknowledgement of your inquiry or concern, or if you believe your inquiry or concern was not satisfactorily addressed by the Pearson VUE Business Group you should contact (at no charge) your state or national data protection authority. A list of National Data Protection Authorities can be found by clicking on [National Data Protection Authorities](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm). The Pearson VUE Business Group has committed to cooperate with the Data Protection Authorities and will comply with the information and advice provided to it by the panel of DPAs in relation to such unresolved complaints.
 
@@ -335,6 +337,6 @@ By continuing to use our website after we post any such changes or updates you a
 
 
 
-Revision Date: November 2, 2018
+Revision Date: November 4, 2019
 
 Close window
