@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatguru.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215142id_/https%3A//seatguru.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatguru.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230210152id_/https%3A//www.seatguru.com/privacy.php) for the most accurate reproduction.*
 
 # SeatGuru Privacy Policy
 
@@ -77,9 +77,33 @@ If any part of the SeatGuru Web site links you to other Web sites, those externa
 
 If you are visiting our Web site from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that SeatGuru does take steps pursuant to laws in the United States to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.
 
-### Your California privacy rights
+### California Consumer Privacy Act Privacy Statement ("CCPA Statement")
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please email [privacy@tripadvisor.com](mailto:privacy@tripadvisor.com).
+This CCPA Statement is provided pursuant to the California Consumer Privacy Act ("CCPA") and applies to California residents and supplements our overall Privacy Statement with additional disclosures and rights.
+
+### Your rights under CCPA
+
+As of January 1 2020, California law permits residents of California to request certain details about how their personal information is shared with third-parties or affiliated companies for direct marketing purposes.
+
+California residents may also take advantage of the following rights:
+
+  * You may request, up to two times each year, that we disclose to you the categories and specific pieces of personal information that we have collected about you, the categories of sources from which your personal information is collected, the business or commercial purpose for collecting your personal information, the categories of personal information that we disclosed for a business purpose, any categories of personal information about you that we sold, the categories of third-parties with whom we have shared your personal information, and the business or commercial purpose for selling your personal information, if applicable.
+  * You may request that we delete any personal information that we have collected from or about you. As described in more detail in our Privacy Statement, there are some reasons we will not be able to fully address your deletion request, such as if we need to complete a transaction for you, to detect and protect against fraudulent and illegal activity, to exercise our rights, or to comply with a legal obligation.
+  * You may request to opt out of our sale of your personal information to third-parties for their direct marketing purposes. This means that, if you opt out, going forward, we will not share your information with such third-parties to use for their purposes unless you later direct us to do so. To effect the opt out, please click on the Do Not Sell My Personal Information link on our website footer or submit a request in writing to the contact information below.
+
+
+
+To take advantage of your disclosure and deletion rights, please contact us via email at privacy@tripadvisor.com. We may need to verify your identity to enable us to process your request. We value your privacy and will not discriminate in response to your exercise of privacy rights. We will respond to your request within 45 days of receipt of your request, after proper verification, unless we need additional time, in which case we will let you know.
+
+### Disclosures
+
+For purposes of compliance with the CCPA, in addition to the further details as described in the Statement, we make the following disclosures:
+
+  * We collect the following categories of personal information: _Identifiers/Contact Information, transactional information, Internet or other electronic network activity information, geolocation, visual and audio information, and inferences drawn from the above._
+  * We sell the following categories of personal information: _Identifiers/Contact Information, Internet or other electronic network activity information, and inferences drawn from the above._
+  * We disclose the following categories of personal information for a business purpose: _Identifiers/Contact Information, commercial information, Internet or other electronic network activity information, geolocation, visual and audio information, and inferences drawn from the above._
+
+
 
 ### Changes to this Privacy Policy
 
@@ -93,4 +117,4 @@ TripAdvisor LLC
 400 1st Avenue  
 Needham, MA 02494 
 
-This Privacy Policy is effective as of November 10, 2010.
+This Privacy Policy is effective as of January 1, 2020.
