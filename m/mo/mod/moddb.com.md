@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230083437id_/https%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230142224id_/https%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mod DB - Mod DB
 
 **Last modified: May 28, 2018.  
 Effective date: May 28, 2018.  
-View our [previous privacy policy](https://web.archive.org/web/20181230083437id_/https%3A//www.moddb.com/privacy-policy?history=2016-01-21) here. **
+View our [previous privacy policy](https://web.archive.org/web/20191230142224id_/https%3A//www.moddb.com/privacy-policy?history=2016-01-21) here. **
 
-DBolical Pty Ltd ("us", "we", or "our") operates a network of connected game development communities including [Gamefront.com](https://www.gamefront.com/), [Indiedb.com](https://www.indiedb.com/), [Moddb.com](https://www.moddb.com/), [Vrdb.com](https://www.vrdb.com/) and [Slidedb.com](https://www.slidedb.com/) (the "Service(s)").
+DBolical Pty Ltd ("us", "we", or "our") operates a network of connected game development communities including [Gamefront.com](https://www.gamefront.com/), [Indiedb.com](https://www.indiedb.com/) and [Moddb.com](https://www.moddb.com/) (the "Service(s)").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -15,7 +15,7 @@ We use your data to provide and improve the Service. By using the Service, you a
 ## **Definitions**
 
   * **Service**  
-Service means the [Gamefront.com](https://www.gamefront.com/), [Indiedb.com](https://www.indiedb.com/), [Moddb.com](https://www.moddb.com/), [Vrdb.com](https://www.vrdb.com/) and [Slidedb.com](https://www.slidedb.com/) websites operated by DBolical Pty Ltd.
+Service means the [Gamefront.com](https://www.gamefront.com/), [Indiedb.com](https://www.indiedb.com/) and [Moddb.com](https://www.moddb.com/) websites operated by DBolical Pty Ltd.
   * **Personal Data**  
 Personal Data means data about a living individual who can be identified from that data (or from those and other information either in our possession or likely to come into our possession). We do not consider publicly available games, mods, engines, hardware, software, groups or related content you share or contribute too, to be Personal Data.
   * **Usage Data**  
@@ -238,7 +238,7 @@ Their Privacy Policy can be viewed at: <https://www.paypal.com/webapps/mpp/ua/pr
 
 ### Social Media
 
-We occasionally embed social media widgets, to allow our community to share and promote content posted on our Service. Your use of these features enables the sharing of certain information with your friends or the public, depending on the settings you establish with the third-party that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the third-parties that provide these social sharing features (e.g. [Twitter](https://twitter.com/personalization), [Facebook](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen), [Google+](https://plus.google.com/settings) and [Reddit](https://www.reddit.com/personalization)).
+We occasionally embed social media widgets, to allow our community to share and promote content posted on our Service. Your use of these features enables the sharing of certain information with your friends or the public, depending on the settings you establish with the third-party that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the third-parties that provide these social sharing features (e.g. [Twitter](https://twitter.com/personalization), [Facebook](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen) and [Reddit](https://www.reddit.com/personalization)).
 
 ## **Links to Other Sites**
 
