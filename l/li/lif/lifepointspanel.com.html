@@ -1,0 +1,929 @@
+<!--The following is the downloaded HTML source of the lifepointspanel.com privacy policy that was archived on 2019-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191230035349id_/https%3A//www.lifepointspanel.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# "><head>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1158.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"813f3aacc4",applicationID:"288828962"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1158.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="//content.lifepointspanel.com/sites/lifepoints/files/favicon_0.ico" type="image/vnd.microsoft.icon">
+<link rel="alternate" hreflang="en" href="https://www.lifepointspanel.com/privacy?language_content_entity=en">
+<link rel="alternate" hreflang="nl-NL" href="https://www.lifepointspanel.com/node/2?language_content_entity=nl-NL">
+<link rel="alternate" hreflang="en-PH" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-PH">
+<link rel="alternate" hreflang="el-GR" href="https://www.lifepointspanel.com/node/2?language_content_entity=el-GR">
+<link rel="alternate" hreflang="no-NO" href="https://www.lifepointspanel.com/node/2?language_content_entity=no-NO">
+<link rel="alternate" hreflang="tr-TR" href="https://www.lifepointspanel.com/node/2?language_content_entity=tr-TR">
+<link rel="alternate" hreflang="id-ID" href="https://www.lifepointspanel.com/node/2?language_content_entity=id-ID">
+<link rel="alternate" hreflang="vi-VN" href="https://www.lifepointspanel.com/node/2?language_content_entity=vi-VN">
+<link rel="alternate" hreflang="es-ES" href="https://www.lifepointspanel.com/node/2?language_content_entity=es-ES">
+<link rel="alternate" hreflang="zh-TW" href="https://www.lifepointspanel.com/node/2?language_content_entity=zh-TW">
+<link rel="alternate" hreflang="fr-CA" href="https://www.lifepointspanel.com/node/2?language_content_entity=fr-CA">
+<link rel="alternate" hreflang="th-TH" href="https://www.lifepointspanel.com/node/2?language_content_entity=th-TH">
+<link rel="alternate" hreflang="de-DE" href="https://www.lifepointspanel.com/node/2?language_content_entity=de-DE">
+<link rel="alternate" hreflang="it-IT" href="https://www.lifepointspanel.com/node/2?language_content_entity=it-IT">
+<link rel="alternate" hreflang="fr-FR" href="https://www.lifepointspanel.com/node/2?language_content_entity=fr-FR">
+<link rel="alternate" hreflang="ja-JP" href="https://www.lifepointspanel.com/node/2?language_content_entity=ja-JP">
+<link rel="alternate" hreflang="zh-CN" href="https://www.lifepointspanel.com/node/2?language_content_entity=zh-CN">
+<link rel="alternate" hreflang="ko-KR" href="https://www.lifepointspanel.com/node/2?language_content_entity=ko-KR">
+<link rel="alternate" hreflang="ro-RO" href="https://www.lifepointspanel.com/node/2?language_content_entity=ro-RO">
+<link rel="alternate" hreflang="de-CH" href="https://www.lifepointspanel.com/node/2?language_content_entity=de-CH">
+<link rel="alternate" hreflang="fr-CH" href="https://www.lifepointspanel.com/node/2?language_content_entity=fr-CH">
+<link rel="alternate" hreflang="it-CH" href="https://www.lifepointspanel.com/node/2?language_content_entity=it-CH">
+<link rel="alternate" hreflang="en-ZA" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-ZA">
+<link rel="alternate" hreflang="en-GB" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-GB">
+<link rel="alternate" hreflang="en-US" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-US">
+<link rel="alternate" hreflang="es-US" href="https://www.lifepointspanel.com/node/2?language_content_entity=es-US">
+<link rel="alternate" hreflang="pl-PL" href="https://www.lifepointspanel.com/node/2?language_content_entity=pl-PL">
+<link rel="alternate" hreflang="de-AT" href="https://www.lifepointspanel.com/node/2?language_content_entity=de-AT">
+<link rel="alternate" hreflang="en-IN" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-IN">
+<link rel="alternate" hreflang="zh-HK" href="https://www.lifepointspanel.com/node/2?language_content_entity=zh-HK">
+<link rel="alternate" hreflang="en-HK" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-HK">
+<link rel="alternate" hreflang="en-SG" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-SG">
+<link rel="alternate" hreflang="nl-BE" href="https://www.lifepointspanel.com/node/2?language_content_entity=nl-BE">
+<link rel="alternate" hreflang="fr-BE" href="https://www.lifepointspanel.com/node/2?language_content_entity=fr-BE">
+<link rel="alternate" hreflang="pt-PT" href="https://www.lifepointspanel.com/node/2?language_content_entity=pt-PT">
+<link rel="alternate" hreflang="es-MX" href="https://www.lifepointspanel.com/node/2?language_content_entity=es-MX">
+<link rel="alternate" hreflang="es-AR" href="https://www.lifepointspanel.com/node/2?language_content_entity=es-AR">
+<link rel="alternate" hreflang="es-CO" href="https://www.lifepointspanel.com/node/2?language_content_entity=es-CO">
+<link rel="alternate" hreflang="en-NZ" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-NZ">
+<link rel="alternate" hreflang="ms-MY" href="https://www.lifepointspanel.com/node/2?language_content_entity=ms-MY">
+<link rel="alternate" hreflang="en-MY" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-MY">
+<link rel="alternate" hreflang="hu-HU" href="https://www.lifepointspanel.com/node/2?language_content_entity=hu-HU">
+<link rel="alternate" hreflang="cs-CZ" href="https://www.lifepointspanel.com/node/2?language_content_entity=cs-CZ">
+<link rel="alternate" hreflang="fi-FI" href="https://www.lifepointspanel.com/node/2?language_content_entity=fi-FI">
+<link rel="alternate" hreflang="sv-SE" href="https://www.lifepointspanel.com/node/2?language_content_entity=sv-SE">
+<link rel="alternate" hreflang="da-DK" href="https://www.lifepointspanel.com/node/2?language_content_entity=da-DK">
+<link rel="alternate" hreflang="pt-BR" href="https://www.lifepointspanel.com/node/2?language_content_entity=pt-BR">
+<link rel="alternate" hreflang="en-AU" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-AU">
+<link rel="alternate" hreflang="en-IE" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-IE">
+<link rel="alternate" hreflang="en-CA" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-CA">
+<link rel="alternate" hreflang="en-ID" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-ID">
+<link rel="alternate" hreflang="ru-RU" href="https://www.lifepointspanel.com/node/2?language_content_entity=ru-RU">
+<link rel="alternate" hreflang="AR-SA" href="https://www.lifepointspanel.com/node/2?language_content_entity=AR-SA">
+<link rel="canonical" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-US">
+<link rel="shortlink" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-US">
+<link rel="revision" href="https://www.lifepointspanel.com/node/2?language_content_entity=en-US">
+<script src="//content.lifepointspanel.com/sites/lifepoints/files/google_gtag_js/gtag_AW-925940475.js?id=AW-925940475&amp;q34sdz" async=""></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-925940475');</script>
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"23001977"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+
+    <title>LifePoints Panel Privacy Policy | LifePoints</title>
+    <link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Lato:400,700">
+<link rel="stylesheet" media="all" href="//content.lifepointspanel.com/sites/lifepoints/files/css/css_aoF2VHMiD7gvSklj0aSgcX0IlsbqZEEP7CPH2hfFW2M.css?q34sdz">
+<link rel="stylesheet" media="all" href="//content.lifepointspanel.com/sites/lifepoints/files/css/css_aIErNNR2Mvehqz0fMQNu6-KJz7aRLeQsxc-e8TPKOuw.css?q34sdz">
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"bootstrap\/popover,bootstrap\/tooltip,core\/drupal.dialog.ajax,core\/html5shiv,fontawesome\/fontawesome.webfonts.shim,lifepoints_sass\/bootstrap-scripts,lifepoints_sass\/global-styling,lp_cookie_preferences\/lp_cookie_preferences,ls_adobe_analytics\/adobe-code,mmenu\/mmenu.default,mmenu\/mmenu.fresh_theme,mmenu\/mmenu.hammer,mmenu\/mmenu.icomoon,mmenu\/mmenu.jquery.hammer,mmenu\/mmenu.main,poll\/drupal.poll-links,system\/base","theme":"lifepoints_sass","theme_token":null},"ajaxTrustedUrl":[],"mmenu":{"mmenu_right":{"enabled":"1","title":"Right menu","name":"mmenu_right","blocks":[{"module_delta":"block_class|menu_block:account|useraccountmenu_2","menu_parameters":{"min_depth":"1"},"title":"\u003Cnone\u003E","collapsed":"1","wrap":"0","module":"block_class","delta":"useraccountmenu_2"}],"options":{"classes":"mm-fresh","effects":[],"slidingSubmenus":false,"clickOpen":{"open":true,"selector":".dashboardMenu"},"counters":{"add":false,"update":false},"dragOpen":{"open":false,"pageNode":"body","threshold":100,"maxStartPos":50},"footer":{"add":false,"content":"","title":"Copyright \u00a92019","update":true},"header":{"add":false,"content":"","title":"LifePoints","update":true},"labels":{"collapse":false},"offCanvas":{"enabled":true,"modal":false,"moveBackground":true,"position":"right","zposition":"front"},"searchfield":{"add":false,"addTo":"menu","search":false,"placeholder":"Search","noResults":"No results found.","showLinksOnly":true}},"configurations":{"clone":false,"preventTabbing":false,"panelNodetype":"div, ul, ol","transitionDuration":400,"classNames":{"label":"Label","panel":"Panel","selected":"Selected","buttonbars":{"buttonbar":"anchors"},"counters":{"counter":"Counter"},"fixedElements":{"fixedTop":"FixedTop","fixedBottom":"FixedBottom"},"footer":{"panelFooter":"Footer"},"header":{"panelHeader":"Header","panelNext":"Next","panelPrev":"Prev"},"labels":{"collapsed":"Collapsed"},"toggles":{"toggle":"Toggle","check":"Check"}},"dragOpen":{"width":{"perc":0.8,"min":140,"max":440},"height":{"perc":0.8,"min":140,"max":880}},"offCanvas":{"menuInjectMethod":"prepend","menuWrapperSelector":"body","pageNodetype":"div","pageSelector":"body \u003E div"}},"custom":[],"position":"right"},"mmenu_top":{"enabled":"1","title":"Top menu","name":"mmenu_top","blocks":{"1":{"module_delta":"block_class|menu_block:login|login","menu_parameters":{"min_depth":"1"},"title":"\u003Cnone\u003E","collapsed":"1","wrap":"0","module":"block_class","delta":"login"}},"options":{"classes":"mm-fresh","effects":[],"slidingSubmenus":true,"clickOpen":{"open":true,"selector":".joinNowMenu"},"counters":{"add":false,"update":false},"dragOpen":{"open":false,"pageNode":"body","threshold":100,"maxStartPos":50},"footer":{"add":false,"content":"","title":"Copyright \u00a92018","update":false},"header":{"add":false,"content":"","title":"LifePoints","update":false},"labels":{"collapse":false},"offCanvas":{"enabled":true,"modal":false,"moveBackground":true,"position":"top","zposition":"front"},"searchfield":{"add":false,"addTo":"menu","search":false,"placeholder":"Search","noResults":"No results found.","showLinksOnly":true}},"configurations":{"clone":false,"preventTabbing":false,"panelNodetype":"div, ul, ol","transitionDuration":400,"classNames":{"label":"Label","panel":"Panel","selected":"Selected","buttonbars":{"buttonbar":"anchors"},"counters":{"counter":"Counter"},"fixedElements":{"fixedTop":"FixedTop","fixedBottom":"FixedBottom"},"footer":{"panelFooter":"Footer"},"header":{"panelHeader":"Header","panelNext":"Next","panelPrev":"Prev"},"labels":{"collapsed":"Collapsed"},"toggles":{"toggle":"Toggle","check":"Check"}},"dragOpen":{"width":{"perc":0.8,"min":140,"max":440},"height":{"perc":0.8,"min":140,"max":880}},"offCanvas":{"menuInjectMethod":"prepend","menuWrapperSelector":"body","pageNodetype":"div","pageSelector":"body \u003E div"}},"custom":[],"position":"top"}},"base_url":"https:\/\/www.lifepointspanel.com\/en-US","adobe":{"code":{"footer":"","header":"\/\/assets.adobedtm.com\/launch-EN356be410f2fc4fb0aa8bd4fe407de66e.min.js"}},"smartIp":"{\u0022location\u0022:{\u0022source\u0022:\u0022smart_ip\u0022,\u0022ipAddress\u0022:\u0022207.241.225.158\u0022,\u0022ipVersion\u0022:4,\u0022timestamp\u0022:1577678029,\u0022originalData\u0022:{\u0022continent\u0022:{\u0022code\u0022:\u0022NA\u0022,\u0022geoname_id\u0022:6255149,\u0022names\u0022:{\u0022de\u0022:\u0022Nordamerika\u0022,\u0022en\u0022:\u0022North America\u0022,\u0022es\u0022:\u0022Norteam\\u00e9rica\u0022,\u0022fr\u0022:\u0022Am\\u00e9rique du Nord\u0022,\u0022ja\u0022:\u0022\\u5317\\u30a2\\u30e1\\u30ea\\u30ab\u0022,\u0022pt-BR\u0022:\u0022Am\\u00e9rica do Norte\u0022,\u0022ru\u0022:\u0022\\u0421\\u0435\\u0432\\u0435\\u0440\\u043d\\u0430\\u044f \\u0410\\u043c\\u0435\\u0440\\u0438\\u043a\\u0430\u0022,\u0022zh-CN\u0022:\u0022\\u5317\\u7f8e\\u6d32\u0022}},\u0022country\u0022:{\u0022geoname_id\u0022:6252001,\u0022iso_code\u0022:\u0022US\u0022,\u0022names\u0022:{\u0022de\u0022:\u0022USA\u0022,\u0022en\u0022:\u0022United States\u0022,\u0022es\u0022:\u0022Estados Unidos\u0022,\u0022fr\u0022:\u0022\\u00c9tats-Unis\u0022,\u0022ja\u0022:\u0022\\u30a2\\u30e1\\u30ea\\u30ab\\u5408\\u8846\\u56fd\u0022,\u0022pt-BR\u0022:\u0022Estados Unidos\u0022,\u0022ru\u0022:\u0022\\u0421\\u0428\\u0410\u0022,\u0022zh-CN\u0022:\u0022\\u7f8e\\u56fd\u0022}},\u0022registered_country\u0022:{\u0022geoname_id\u0022:6252001,\u0022iso_code\u0022:\u0022US\u0022,\u0022names\u0022:{\u0022de\u0022:\u0022USA\u0022,\u0022en\u0022:\u0022United States\u0022,\u0022es\u0022:\u0022Estados Unidos\u0022,\u0022fr\u0022:\u0022\\u00c9tats-Unis\u0022,\u0022ja\u0022:\u0022\\u30a2\\u30e1\\u30ea\\u30ab\\u5408\\u8846\\u56fd\u0022,\u0022pt-BR\u0022:\u0022Estados Unidos\u0022,\u0022ru\u0022:\u0022\\u0421\\u0428\\u0410\u0022,\u0022zh-CN\u0022:\u0022\\u7f8e\\u56fd\u0022}}},\u0022country\u0022:\u0022United States\u0022,\u0022countryCode\u0022:\u0022US\u0022,\u0022region\u0022:\u0022\u0022,\u0022regionCode\u0022:\u0022\u0022,\u0022city\u0022:\u0022\u0022,\u0022zip\u0022:\u0022\u0022,\u0022latitude\u0022:\u0022\u0022,\u0022longitude\u0022:\u0022\u0022,\u0022timeZone\u0022:\u0022\u0022,\u0022isEuCountry\u0022:false,\u0022isGdprCountry\u0022:false}}","smartIpSrc":{"smartIp":"smart_ip","geocodedSmartIp":"geocoded_smart_ip","w3c":"w3c"},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_keyboard":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","popover_trigger_autoclose":1,"tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"newTermsAvailable":false,"MoreSurveysSeeAllLimit":10,"OnGoingSurveysSeeAllLimit":10,"userLoginStatus":false,"activation_mail_sent_submit":"Please check your email. We\u0027ve sent an email to your email address. Click the link in the email to activate your membership.","webcamCheckPageRefresh":false,"user":{"uid":0,"permissionsHash":"4d1f66fd70913b3be6c978037b648e6d99885288340f1908e21d6cb3652ee936"}}</script>
+<script src="//content.lifepointspanel.com/sites/lifepoints/files/js/js_ASNZPV5m6nvWKycn0OhFMe6dCnFxb2qe3R2FYdzmqek.js"></script>
+
+<!--[if lte IE 8]>
+<script src="//content.lifepointspanel.com/sites/lifepoints/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+      <script type="text/javascript">
+          //setting data layer variable based on cookie permission
+          var marketing_optimization_cookie_name = '3rd_party_optimization';
+          var user_accepted_marking_optimization_cookies = false;
+          var cookies = document.cookie.split(";");
+          for (var i = 0; i < cookies.length; i++) {
+              var c = cookies[i].trim();
+              if (c.indexOf(marketing_optimization_cookie_name) == 0) {
+                  user_accepted_marking_optimization_cookies = c.substring(marketing_optimization_cookie_name.length + 1, c.length);
+              }
+          }
+
+          dataLayer = [{
+              '3rd_party_marking_optimization_consent': user_accepted_marking_optimization_cookies
+
+          }];
+
+      </script>
+  </head>
+  <body class="page-node-2 path-node page-node-type-lp-registration-terms lang-en-us navbar-is-fixed-top has-glyphicons">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+                        <div class="slideIn-notification cookie_banner_notification">  <div class="region region-cookie-banner">
+    
+<div class="container white-text">
+    
+    
+    <div class="row">
+        <div class="col-md-9 white-font">
+                            <div><p>Please tell us if we may use 3rd party marketing optimization cookies to remind you about our panel offer in the future in case you don’t register today.</p>
+
+<p>We use website cookies and similar technologies on our websites to ensure that we give you the best experience on our websites (including those optimized for mobile devices). These cookies and similar technologies are to help manage login sessions, tell us which parts of our websites people have visited, and improve the speed/security of our sites.</p>
+</div>
+      
+                
+            <a href="/node/15?language_content_entity=en-US" class="dark-cyan-text">Find out more</a>
+        </div>
+        
+        <div class="col-md-3 text-center">&nbsp;
+            <br><br><br>
+            <p><button class="close-slideIn btn btn-primary btn-round-lg btn-lg" id="accept_all_cookies" type="button">ACCEPT ALL COOKIES</button></p>
+            
+            <p><a class="close-slideIn dark-orange-text" id="accept_only_website_cookies" href="#">ACCEPT ONLY WEBSITE COOKIES</a></p>
+        </div>
+    </div>
+</div>
+    
+
+
+    
+
+          
+          
+
+
+
+    
+
+
+  </div>
+</div>
+                                        <header class="navbar navbar-default navbar-fixed-top" id="navbar" role="banner">
+                            <div class="container"> <!-- hard code container div nolonger supported by theme -->
+                  
+                  <div class="navbar-header">
+                        <div class="region region-navigation">
+          <a class="logo navbar-btn pull-left" href="/" title="Home" rel="home">
+      <img src="//content.lifepointspanel.com/themes/lifepoints_sass/logo.svg" alt="Home">
+    </a>
+      
+  </div>
+
+                                            
+                          <div class="dashboardMenu"></div>
+                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                              <span class="sr-only">Toggle navigation</span>
+                              <span class="icon-bar"></span>
+                              <span class="icon-bar"></span>
+                              <span class="icon-bar"></span>
+                          </button>
+                                        </div>
+
+                                                          <div id="navbar-collapse" class="navbar-collapse collapse">
+                            <div class="region region-navigation-collapsible">
+    <nav role="navigation" aria-labelledby="block-lifepoints-sass-login-menu" id="block-lifepoints-sass-login">
+            
+  <h2 class="visually-hidden" id="block-lifepoints-sass-login-menu">Login</h2>
+  
+
+        
+              <ul class="menu nav navbar-nav navbar-right">
+                            <li>
+        <a href="/registration" target="_self" rel="" data-drupal-link-system-path="registration">JOIN NOW</a>
+                  </li>
+                        <li>
+        <a href="#login" target="_self" rel="" class="loginmodal">LOG IN</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+                      </div>
+                                                  </div>
+                        </header>
+        
+
+<div class="row">
+
+    
+
+</div>
+
+          <div role="main" class="main-container container-fluid js-quickedit-main-content">
+          <div class="row">
+
+                                                                    <div class="col-sm-12" role="heading">
+                            <div class="region region-header">
+        <h1 class="page-header"><span>LifePoints Panel Privacy Policy</span>
+</h1>
+
+
+  </div>
+
+                      </div>
+                                
+                            
+                            
+              <section class="col-sm-12">
+
+                                                                                    <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback="" class="hidden"></div>
+
+  </div>
+</div>
+                                        
+
+
+                                    
+                                    
+                                                                                    
+                                        
+                                                      <a id="main-content"></a>
+                                    <article class="lp-registration-terms is-promoted clearfix">
+                      <div class="col-sm-12 content">
+                            <div class="region region-content">
+      
+
+
+ 
+
+<div class="container">
+	
+	<div class="padding-tb40">
+
+	<h1>LifePoints Panel Privacy Policy</h1>
+    
+
+    
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><b>Last updated: May 19, 2018</b></p>
+
+<p><b>Lightspeed Privacy Policy May 2018 – Lightspeed Panels (all territories and panels EXCEPT Australia, including consumer and HCP panels)</b></p>
+
+<p><b>1.&nbsp;&nbsp; &nbsp;Introduction</b></p>
+
+<p>This Privacy Policy sets out the commitment of Lightspeed Research Limited, 4 Millbank, Westminster, London, SW1P 3JA, UK ("Lightspeed"), a Kantar group company ("Kantar"), to the privacy of its panel members (“Panellists”, “Panellist”), and governs Panellists’ rights regarding privacy and data protection.</p>
+
+<p>This Privacy Policy applies to the Lightspeed panels known as MySurvey, GlobalTestMarket, LifePoints and All Global Circle, altogether identified in this Privacy Policy as the Lightspeed panels (the “Panels”). Panellists are members of the Panels, operated by Lightspeed and for which Lightspeed is the data controller. Taking part in our panels, surveys and research activities is entirely voluntary. By registering to the Panels and accepting these terms, you confirm that you have read and understood the terms of this Privacy Policy. We ask you to read this Privacy Policy carefully.</p>
+
+<p>For the purpose of this Privacy Policy, “personal data” means any information which relates to an identifiable living individual.</p>
+
+<p><b>2.&nbsp;&nbsp; &nbsp;Lawful Collection and Use of Data&nbsp;</b></p>
+
+<p>Lightspeed collects information in several ways from different parts of our site, our mobile application and other Panellist activities such as social media, apps and surveys. Examples of these activities are explained below and include:</p>
+
+<p><b>Registration:</b> some personal data is gathered when you register, such as name, email address, postal address, mobile device ID, medical education number (US), GMC Number (UK), le numéro RPPS (France), and el número de colegiado (Spain).</p>
+
+<p><b>Panel Surveys or Research Activities: </b>personal data may also be collected from you when you participate in a survey or in a research activity proposed by the Panels, such as use of a specific app, passive tracking or social tracking.</p>
+
+<p><b>Account Preferences:</b> you may decide to share your mobile number or your social network ID/account with us or you may provide other personal data when setting up your account or at a later stage.</p>
+
+<p>In summary (we’ve provided more details below), the main purposes for which we use your personal data are to:</p>
+
+<ol><li>Contact you for surveys via email, through mobile notifications or texts or any other proposed communication options</li>
+	<li>Inform you of updates to our panel services, new features and details relevant to you through panel communications</li>
+	<li>Select you for future surveys</li>
+	<li>Include you in our prize draws</li>
+	<li>Help you when you contact our support team</li>
+	<li>Allow us to reward you with the promised incentives</li>
+	<li>Protect Lightspeed from fraudulent behavior</li>
+	<li>Prevent multiple entries in surveys by the same individuals (in line with our Terms and Conditions)</li>
+	<li>Update, enrich and clean our panel members’ data to improve our usage of data, allowing us to better select you for surveys</li>
+</ol><p>We have set out below more detailed information about how we use your personal data. We are also required by law to explain the legal basis for processing your personal data. These legal bases are listed below and could be different for each use case:</p>
+
+<ol><li>We have your consent for the use of your personal data</li>
+	<li>We need to use your personal data in order to perform a contract with you</li>
+	<li>We need to process your data to comply with a legal obligation&nbsp;</li>
+	<li>We need to process your data in order to protect your vital interests or someone else</li>
+	<li>The processing is necessary to perform a task in the public interest or</li>
+	<li>The use of your personal data is necessary for our (or our clients’) legitimate interests (in which case we will explain what those interests are).</li>
+</ol><p>We will never misrepresent ourselves or what we are doing. If you receive an email that concerns you, purporting to be from us, please let us know as shown below in ‘How to Contact Us’.</p>
+
+<table align="left" border="1" cellpadding="1" cellspacing="1" valign="top"><tbody><tr><th scope="col" style="text-align: left; background-color:#E2DFDF;"><b>Case</b></th>
+			<th scope="col" style="text-align: left; background-color:#E2DFDF;"><b>Purpose</b></th>
+			<th scope="col" style="text-align: left; background-color:#E2DFDF;"><b>Data collected/processed</b></th>
+		</tr><tr><td style="vertical-align: top;"><b>Market Research</b></td>
+			<td style="vertical-align: top;">To understand your views about certain products and services or to understand your behavior in different situations</td>
+			<td style="vertical-align: top;">Identifier, contact details, email address, voice, image, opinion.</td>
+		</tr><tr><td style="vertical-align: top;"><b>Scientific Research for academics, public health organizations or Research Council institutes</b></td>
+			<td style="vertical-align: top;">Including but not limiting to clinical studies, health economics and outcomes research (HEOR), non-interventional studies (NIS), real world research (RWR), observational studies, epidemiology research</td>
+			<td style="vertical-align: top;">Identifier, contact details, email address, health data, e.g. disease, health status, diagnose, treatment pattern, unmet needs</td>
+		</tr><tr><td style="vertical-align: top;"><b>Scientific Research for commercial companies and charitable research organizations</b></td>
+			<td style="vertical-align: top;">Including but not limiting to clinical studies, health economics and outcomes research (HEOR), non-interventional studies (NIS), real world research (RWR), observational studies, epidemiology research<br>
+			&nbsp;</td>
+			<td style="vertical-align: top;">Identifier, contact details, email address, health data, e.g. disease, health status, diagnose, treatment pattern, unmet needs</td>
+		</tr><tr><td style="vertical-align: top;"><b>Safety monitoring (Pharmacovigilance Adverse Events Reporting)</b></td>
+			<td style="vertical-align: top;">Report Adverse Events during our studies to competent authorities<br>
+			&nbsp;</td>
+			<td style="vertical-align: top;">Identifier, contact details, email address, disease, treatment, product taken and adverse events</td>
+		</tr><tr><td style="vertical-align: top;"><b>Public Disclosure</b></td>
+			<td style="vertical-align: top;">To share or disclosed pursuant to judicial or other government subpoenas, warrants, orders or pursuant to similar and other legal or regulatory requirements, we will provide such information to the appropriate authorities.<br>
+			&nbsp;</td>
+			<td style="vertical-align: top;">Identifier, name, contact details, email address, incentive received.</td>
+		</tr><tr><td style="vertical-align: top;"><b>Fraud Protection</b></td>
+			<td style="vertical-align: top;">Protection of our business interests against fraudulent behavior or behavior not in line with our Terms and Conditions<br>
+			&nbsp;</td>
+			<td style="vertical-align: top;">IP address, browser specifications, device specifications, postal addresses, email addresses, official identification number (i.e. ME number)</td>
+		</tr><tr><td style="vertical-align: top;"><b>Survey Participation Uniqueness</b></td>
+			<td style="vertical-align: top;">Prevention of multiple entries in surveys by the same individuals in line with our Terms and Conditions<br>
+			&nbsp;</td>
+			<td style="vertical-align: top;">IP address, browser specifications, device specifications</td>
+		</tr><tr><td align="top" style="vertical-align: top;"><b>Tracking of the Answers of Recurring Respondents (special research design projects)</b></td>
+			<td style="vertical-align: top;">When you participate in our surveys, we typically use a temporary ID which makes your answers in the survey anonymous to our clients. However, some of our clients have the specific research design need to understand how your opinion has evolved over a period of time. For this specific project type that we call "tracking" projects we will use persistent IDs and we will make this clear at the beginning of each of these surveys. Your survey responses will be considered as personal data and you will have the right to access them. Such projects will contain a notice on the very first page of the survey, so that you can identify them and decide whether or not to take part.<br>
+			&nbsp;</td>
+			<td style="vertical-align: top;">Persistent unique project-specific identifier</td>
+		</tr><tr><td style="vertical-align: top;"><b>Data Matching and Enrichment</b></td>
+			<td style="vertical-align: top;">We enrich the data we hold on file about you by matching your personal data with third parties. This will help us to improve your panel profile and ensure that we select relevant surveys for you.<br>
+			We utilize matching services (i.e. third parties who are specialized in data management) to acquire additional information about you from public and private data sources (such as social networks, retailers and content subscription services with whom you have an account) or to use your personal data as an aid to develop additional or new types of anonymous data sets (i.e. we compile your aggregate data with data from other consumers to create a new lifestyle segment). The matching service (our partner) holds the personal data we share for a short time, uses it to assemble the additional information, and then return the combined information to us. Partners are contractually bound to delete the data we share with them or and are not authorized to use it in any way other than for this specific purpose.<br>
+			&nbsp;</td>
+			<td style="vertical-align: top;">IP address, browser specifications, device specifications</td>
+		</tr><tr><td style="vertical-align: top;"><b>Advertising Targeting and Media Buying Research</b></td>
+			<td style="vertical-align: top;">We use your personal data to help our clients and vendors enrich their data by using lookalike modelling techniques.<br>
+			Thanks to your participation in our surveys and your profile data, we can help our clients to improve their advertising targeting, and to create better online advertising models, through lookalike modelling or similar research methodologies. We will use your personal data we collect about you through profile building, participation in research surveys or data matching to match with third-parties and platforms (our partners). We include contractual safeguards to ensure that you will not automatically be targeted for commercial purposes, as a result of your data being used to help create a lookalike audience, and that our partners cannot use your data for any other purpose.<br>
+			&nbsp;</td>
+			<td style="vertical-align: top;">Persistent unique identifier, contact details, email address, social login, cookie, IP address, mobile device ID, official identification number (i.e. ME number)</td>
+		</tr><tr><td style="vertical-align: top;"><b>Ad Exposure and Measurement</b></td>
+			<td style="vertical-align: top;">In addition to cookie-based matching (which you can control and consent to via your panel account), we will use personal data you provide to us, such as email address, in a direct matching process with third parties (our clients and partners) to determine if you are a user of that service (such as social networks, websites, mobile apps) for advertising measurement research purposes. We will identify what advertisements you may have been exposed to on those sites and platforms and measure how brand attitudes or brand recall have impacted sales. The third parties that we work with are not allowed to use the data for any other purpose.<br>
+			&nbsp;</td>
+			<td style="vertical-align: top;">Persistent unique identifier, contact details, email address, social login, cookie, IP address, mobile device ID, official identification number (i.e. ME number)</td>
+		</tr></tbody></table><p>&nbsp;</p>
+
+<p>Our third-party partners are all contractually bound to keep any information they collect and disclose to us, or that we collect and disclose to them, confidential and must protect it with security standards and practices that are equivalent to our own.</p>
+
+<p><b>3.&nbsp;&nbsp; &nbsp;Where We Store Your Personal Data</b><br>
+For personal data which is subject to the GDPR and transferred to a country or territory outside the European Economic Area (EEA), we shall put adequate safeguards in place to ensure the transfer is made by a lawful method for the purposes of EU data protection law and secure. For data which is not subject to the GDPR, Lightspeed shall strictly follow any other applicable data protection laws.<br>
+Lightspeed’s data storage servers are located in Europe and in the United States of America (USA) and are managed by third party service providers in the cloud.</p>
+
+<p>We take appropriate technological and organizational measures to protect your personal data, both during transmission and once we receive it. Our security procedures are consistent with generally accepted standards used to protect personal data.</p>
+
+<p>All our employees are contractually obliged to follow our policies and procedures regarding confidentiality, security and privacy.</p>
+
+<p>Your account information and personal data are password-protected so that you and only you have access to your information. In order to keep your personal data safe, we recommend that you do not divulge your password to anyone. Lightspeed will never ask you for your password in an unsolicited phone call or in an unsolicited email. &nbsp;Also, please remember to sign out of your Panels account and close your browser window when you have finished visiting our site. This is to ensure that others cannot access your personal data and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. Please change your password regularly.</p>
+
+<p><b>4. &nbsp;&nbsp; &nbsp;Confidentiality and Industry Requirements</b><br>
+Whenever Lightspeed handles personal data as described above, regardless of where this occurs, Lightspeed takes steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, no data transmission can be guaranteed to be 100% secure. As a result, while we strive to protect your personal data, Lightspeed cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we will take reasonable steps to ensure our systems are secure. &nbsp;<br><br>
+Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.<br><br>
+We adhere to standards and industry requirements, including:</p>
+
+<table style="border: 1px; #FFF;" valign="top"><tbody><tr style="border: 1px; #FFF;"><td style="vertical-align: top; border: 1px; #FFF;">o&nbsp;&nbsp; &nbsp;European Society for Opinion and Market Research (ESOMAR)<br>
+			o&nbsp;&nbsp; &nbsp;European Pharmaceutical Market Research Association (EphMRA)<br>
+			o&nbsp;&nbsp; &nbsp;ARF<br>
+			o&nbsp;&nbsp; &nbsp;DGOF<br>
+			o&nbsp;&nbsp; &nbsp;Market Research Society (UK)<br>
+			o&nbsp;&nbsp; &nbsp;AMSRS<br>
+			o&nbsp;&nbsp; &nbsp;Insights Association<br>
+			o&nbsp;&nbsp; &nbsp;British Healthcare British Intelligence Association (BHBIA)<br>
+			o&nbsp;&nbsp; &nbsp;Baqmar</td>
+			<td style="vertical-align: top; border: 1px; #FFF;">o&nbsp;&nbsp; &nbsp;Jmra<br>
+			o&nbsp;&nbsp; &nbsp;Kora<br>
+			o&nbsp;&nbsp; &nbsp;Moa<br>
+			o&nbsp;&nbsp; &nbsp;Mria-Arim<br>
+			o&nbsp;&nbsp; &nbsp;MRS Singapore<br>
+			o&nbsp;&nbsp; &nbsp;MRS New Zealand<br>
+			o&nbsp;&nbsp; &nbsp;Women in Research<br>
+			o&nbsp;&nbsp; &nbsp;American Marketing Association (AMA)<br>
+			o&nbsp;&nbsp; &nbsp;Italian Society for Opinion and Market Research (ASSIRM)<br>
+			o&nbsp;&nbsp; &nbsp;Intellus Worldwide</td>
+		</tr></tbody></table><p><br><b>5. &nbsp;&nbsp; &nbsp;Cookie Disclosure</b><br>
+Cookies are small text files stored on your computer or mobile device by a website that assigns a numerical user ID and stores certain information about your online browsing. They are used to help users navigate websites efficiently and perform certain functions. The website sends information to the browser which then creates a text file on the user’s computer or mobile device. Every time the user goes back to the same website, the browser retrieves and sends this file to the website's server.</p>
+
+<p>For behavioral tracking research, we use optional cookies / software applications, but only if you have given your consent to these cookies / applications.</p>
+
+<p>As is true of most online surveys, we gather certain information automatically and store it in survey data files. This information may include things like Internet Protocol addresses (IP address), browser type, Internet service provider (“ISP”); referring/exit pages, operating system and date/time stamp.</p>
+
+<p>We use this automatically collected information to analyse trends such as browser usage and to administer the site, e.g. to optimize the survey experience depending on your browser type. We may also use your IP address to check whether there have been multiple participations in the survey from this IP address and also to protect our business against fraudulent behavior.</p>
+
+<p>Lightspeed defines cookies within 3 categories:</p>
+
+<ol><li>Required to use the Panels site</li>
+	<li>Security-specific</li>
+	<li>Behavioral or advertising research cookies</li>
+</ol><p>For more information, please log in and access your cookie preferences page where you are able to adjust your cookie settings.</p>
+
+<p>As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as ‘clickstream data’, may be collected and stored by a website's server. Clickstream data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Site. We may collect and use clickstream data as aggregated information to anonymously determine how much time visitors spend on each page of our site, how visitors navigate throughout the site and how we may tailor our web pages to better meet the needs of visitors. This information will be used to improve our site and our services. Any collection or use of clickstream data will be anonymous and will not intentionally contain any personal data.</p>
+
+<p><b>6. &nbsp;&nbsp; &nbsp;Accuracy</b><br>
+We take reasonable steps to keep personal data in our possession or control accurate, complete and current, based on the most recent information made available to us by you and/or by our client.</p>
+
+<p>We rely on you to help us keep your personal data accurate, complete and current by answering our questions honestly. You are responsible for ensuring that you notify us of any changes to your personal data.</p>
+
+<p><b>7. &nbsp;&nbsp; &nbsp;Children’s Data</b><br>
+Lightspeed recognizes the need to provide further privacy protections with respect to personal data collected from children. We never knowingly invite children under the legal age set by the authorities in the country in which you reside to participate in research studies without parental permission. If it is necessary and appropriate to a particular project to directly involve children under the legal age, we take measures to ensure we have been given permission by their parent or legal guardian. Lightspeed will provide parents and guardians information about the survey topic, about any personal or sensitive information which may be collected from the children, the way this data will be used and whether and with whom Lightspeed may share such information.</p>
+
+<p>While the child is completing the survey, it is the responsibility of the parent or guardian to supervise them.</p>
+
+<p><b>8. &nbsp;&nbsp; &nbsp;Sensitive Data&nbsp;</b><br>
+From time to time, Lightspeed may collect personal data that is classified as “special categories” of personal data. &nbsp;This includes racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation. &nbsp; You can choose whether or not to provide this data to us.</p>
+
+<p><b>9. &nbsp;&nbsp; &nbsp;Rights of Individuals&nbsp;</b><br>
+To request access to personal data that we hold about you, you should submit your request in writing to the e-mail address or postal address shown below in “How to Contact Us”.</p>
+
+<p>You have the following rights in relation to your personal data:</p>
+
+<ol><li>Right to change your mind and to withdraw your consent</li>
+	<li>Right to access your personal data</li>
+	<li>Right to rectify your personal data</li>
+	<li>Right to erase your personal data from our systems, unless we have legitimate interest reasons for continuing to process the information</li>
+	<li>Right to port your personal data (portability right)</li>
+	<li>Right to restrict processing of your personal data</li>
+	<li>Right to object to the processing of your personal data</li>
+</ol><p>We shall also notify third parties to whom we have transferred your personal data of any changes that we make on your request. Note that while Lightspeed communicates to these third parties, Lightspeed is not responsible for the actions taken by these third parties to answer your request. You may be able to access your personal data held by these third parties and correct, amend or delete it where it is inaccurate.</p>
+
+<p><b>10. &nbsp;&nbsp; &nbsp;Data Storage and Retention&nbsp;</b><br>
+Personal data will be retained only for such period as is appropriate for its intended and lawful use. Lightspeed will retain your personal data for as long as you are a member of the Panels. In case you unsubscribe from the Panels, we shall retain data for no longer than 3 months after you unsubscribe, unless otherwise required by law. Personal data that is no longer required will be disposed of in ways that ensure their confidential nature is not compromised.</p>
+
+<p>As part of the Company Business Continuity Plan and as required by ISO 27001, ISO 9001, ISO 20252 and in certain instances the law, our electronic systems are backed up and archived. These archives are retained for a defined period of time in a strictly controlled environment. Once expired, the data is deleted and destroyed to ensure the data is erased completely.</p>
+
+<p><b>11. &nbsp;&nbsp; &nbsp;Notification of Material Change</b><br>
+We reserve the right to change, add to, or remove portions from this Privacy Policy at any time. You should read this page regularly to ensure you are updated as to any changes. However, if any material change is made to this Privacy Policy, we will notify you of that change. Non-material changes to this Privacy Policy will be announced through the Panels’ sites only. Your continued access to the Panels’ sites and services after such changes conclusively demonstrates your consent to any changes.</p>
+
+<p>We will always display the most up-to-date policy on this web page.</p>
+
+<p>Last updated: 19 May 2018</p>
+
+<p><b>12. &nbsp;&nbsp; &nbsp;How to Contact Us</b><br>
+If you have any questions or concerns relating to your privacy or to Lightspeed privacy practices, our General Counsel and Data Protection Officer is Gillie Abbotts-Jones and you can contact Lightspeed:</p>
+
+<ol><li>by email at <a href="mailto:privacy@lightspeedresearch.com">privacy@lightspeedresearch.com</a>&nbsp;</li>
+	<li>by post to: Lightspeed, Privacy Office, 4 Millbank, Westminster, London SW1P 3JA, United Kingdom</li>
+</ol><p><b>13. &nbsp;&nbsp; &nbsp;Complaints &amp; Country Specific Disclosure</b><br>
+If you consider that our processing of your personal data infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state or jurisdiction of your habitual residence, your place of work or the place of the alleged infringement. To find the contact details of your country supervisory authority, <a href="https://lsprodcms.s3-us-west-2.amazonaws.com/vice/0001/01/d758886baa97b0a325f6d3aadcfb694fc3746b9a.pdf">please consult our dedicated page</a>.&nbsp;</p>
+</div>
+      
+
+</div>
+
+</div>
+
+
+
+       
+                    
+
+    
+
+
+
+  </div>
+
+                                                </div>
+                  </article>
+              </section>
+
+                                      </div>
+      </div>
+  
+<div class="container-fluid lightgrey-3">
+    <!-- footer page banner -->
+    <div class="container">
+
+        <div class="row">
+            
+        </div>
+
+    </div>
+</div>
+
+
+<div class="secondary-footer">
+    <div class="container text-center">
+          <div class="region region-page-footerstrapline">
+    <section id="block-homepagefooterstrapline" class="block block-block-content block-block-content6d002693-3d0e-48be-bd8f-d4b41f25a890 clearfix">
+  
+    
+
+      <p><span class="orange-text">Live Your Life.</span> <span class="dark-cyan-text">Get Rewarded.</span></p>
+
+
+  </section>
+
+
+  </div>
+
+    </div>
+</div>
+
+<div class="main-footer center-on-small-only">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-6">
+                <!-- logo, our privacy content and privacy menu (block 1 - region footBlock1)-->
+                <div class="row">
+                    <div class="col-md-2">
+                        <div class="footerLogo"></div>
+                        <br>
+                    </div>
+                    <div class="col-md-9">
+                          <div class="region region-footerblock-a">
+    <section id="block-privacyguaranteeblock" class="block block-block-content block-block-contentf6e63f4f-46f4-46f5-9bd6-58c45daa9801 clearfix">
+  
+    
+
+      <h6>OUR PRIVACY GUARANTEE</h6>
+
+<p>We go above and beyond to ensure your data is safe and secure with us. Please take a moment to review our:</p>
+
+
+  </section>
+
+<nav role="navigation" aria-labelledby="block-privacyguarantee-menu" id="block-privacyguarantee">
+            
+  <h2 class="visually-hidden" id="block-privacyguarantee-menu">Privacy Guarantee</h2>
+  
+
+        
+              <ul class="menu nav">
+                            <li>
+        <a href="/terms-of-service" target="_self" rel="" title="LifePoints Membership Terms and Conditions" data-drupal-link-system-path="node/4">LifePoints Membership Terms and Conditions</a>
+                  </li>
+                        <li>
+        <a href="/privacy" target="_self" rel="" title="LifePoints Panel Privacy Policy" data-drupal-link-system-path="node/2" class="is-active">LifePoints Panel Privacy Policy</a>
+                  </li>
+                        <li>
+        <a href="/cookies/more-information" target="_self" rel="" title="LifePoints Cookies Policy" data-drupal-link-system-path="node/15">LifePoints Cookies Policy</a>
+                  </li>
+                        <li>
+        <a href="/terms-rewards" target="_self" rel="" title="LifePoints Rewards Program Terms" data-drupal-link-system-path="node/1">LifePoints Rewards Program Terms</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+                        <!-- block 2 -->
+
+                    </div>
+
+                </div>
+            </div> <!-- col-md-6 -->
+
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-xs-6">
+                          <div class="region region-footerblock-b">
+    <nav role="navigation" aria-labelledby="block-aboutus-menu" id="block-aboutus">
+      
+  <h2 id="block-aboutus-menu">ABOUT US</h2>
+  
+
+        
+              <ul class="menu nav">
+                            <li>
+        <a href="/about-us/who-we-are" target="_self" rel="" title="Who We Are" data-drupal-link-system-path="node/44">Who We Are</a>
+                  </li>
+                        <li>
+        <a href="/about-us/how-it-works" target="_self" rel="" title="How It Works" data-drupal-link-system-path="node/18">How It Works</a>
+                  </li>
+                        <li>
+        <a href="/community" target="_self" rel="" title="Community " data-drupal-link-system-path="community">Community</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+ <!-- block 2 -->
+                    </div>
+                    <div class="col-xs-6">
+                          <div class="region region-footerblock-c">
+    <section id="block-needhelp-2" class="block block-lp-zendesk block-need-help clearfix">
+  
+    
+
+          <h2> NEED HELP?</h2>
+    <a href="https://lifepoints.zendesk.com/hc">Help Center</a>
+
+  </section>
+
+
+  </div>
+ <!-- block 2 -->
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-md-2"> <!-- social links -->
+
+                  <div class="region region-footerblock-d">
+    <section id="block-sociallinksfooter" class="block block-block-content block-block-content72e7b77e-cf1a-4e0e-aab5-1786004b2338 clearfix">
+  
+    
+
+      <ul class="list-inline social-media"><li><a href="https://www.facebook.com/lifepointspanel" target="_blank" title="Facebook"><i class="fab fa-facebook-f">&nbsp;</i></a></li>
+	<li><a href="https://www.twitter.com/lifepointspanel" target="_blank" title="Twitter"><i class="fab fa-twitter">&nbsp;</i></a></li>
+	<li><a href="https://www.instagram.com/lifepointspanel" target="_blank" title="Instagram"><i class="fab fa-instagram">&nbsp;</i></a></li>
+</ul>
+
+  </section>
+
+
+  </div>
+ <!-- block 2 -->
+
+            </div>
+
+        </div> <!-- end of main footer row -->
+    </div><!-- end of container -->
+</div> <!-- end of main footer class -->
+
+<div class="dark-grey">
+      <div class="region region-page-copyright">
+    <section id="block-copyright" class="block block-block-content block-block-contentc07cb970-31fd-41c6-847d-80f214ba3ef7 clearfix">
+  
+    
+
+      <div class="copyright text-center">
+<p>© 2019 LIFEPOINTS</p>
+</div>
+
+
+  </section>
+
+
+  </div>
+
+</div>
+
+<div id="resenddoiemail-box" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+
+            <div class="modal-body">
+                <a class="close login-box-close pull-right" data-dismiss="modal"><i class="fas fa-times icon18"></i></a>
+                <div class="icon-logo"></div>
+
+                <div class="alert-danger resend-doi-email-errors"></div>
+                <div class="alert-success resend-doi-email-success"></div>
+                <form class="lp-resend-doi-form" data-drupal-selector="lp-resend-doi-form" action="/privacy" method="post" id="lp-resend-doi-form" accept-charset="UTF-8">
+  <h2 class="text-center">Re-send Email</h2><p class="text-center">Enter the email address you used to sign up</p><p class="text-center">and we will send you a link to activate your membership.</p><div class="form-item js-form-item form-type-email js-form-type-email form-item-email-address js-form-item-email-address form-no-label form-group">
+  
+  
+  <div class="form-group form-group-lg"><input oninvalid="this.setCustomValidity('Your email address is required. Please enter a valid email address.')" oninput="setCustomValidity('')" placeholder="Email Address " data-drupal-selector="edit-email-address" class="form-email required form-control" type="email" id="edit-email-address" name="email_address" value="" size="60" maxlength="254" required="required" aria-required="true" title="" data-toggle="tooltip"></div>
+
+  
+  
+  </div>
+<p class="text-center"><button class="btn btn-info btn-round-lg btn-lg login-btn button js-form-submit form-submit btn-primary btn" data-drupal-selector="edit-submit-button" type="submit" id="edit-submit-button" name="op" value="Submit">Submit</button></p><input autocomplete="off" data-drupal-selector="form-lskasxchkchjs9jf6e0ylqcuw3xtpld35kaz7qb-ad0" type="hidden" name="form_build_id" value="form-lsKasxCHKcHJs9jf6e0ylQcUw3XTPld35kaz7qb-aD0"><input data-drupal-selector="edit-lp-resend-doi-form" type="hidden" name="form_id" value="lp_resend_doi_form">
+</form>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+<div id="forgotpassword-box" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+
+            <div class="modal-body">
+                <a class="close pull-right" data-dismiss="modal"><i class="fas fa-times icon18"></i></a>
+                <div class="icon-logo"></div>
+
+                <div class="alert-danger forgotpassword-errors"></div>
+                <div class="alert-success forgotpassword-success"></div>
+                <!--Forgot password form Html-->
+                <div class="forgotpasshtmldata"></div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+<div id="login-box" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+
+            <div class="modal-body">
+
+                <div class="container">
+                    <div class="row">
+                        <div class="hid">
+                            <div class="row">
+                                <div class="col-sm-6 text-center">
+
+
+                                    <div class="card-content">
+                                        <a class="close login-box-close pull-right" data-dismiss="modal"><i class="fas fa-times icon18"></i></a>
+                                        <div class="icon-logo"></div>
+                                        <h2 class="text-center">LOG IN</h2>
+                                        <br>
+                                        <!--Login form Html-->
+                                        <div class="loginhtmldata"></div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+<div id="terms-form-box" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+
+            <div class="modal-body">
+
+                <div class="container">
+                    <div class="row">
+                        <div class="hid">
+                            <div class="row">
+                                <div class="col-sm-6 text-center">
+
+
+                                    <div class="card-content">
+                                        <div class="icon-logo"></div>
+                                        <h2 class="text-center">TERMS &amp; CONDITIONS</h2>
+                                        <br>
+                                        <form class="lp-terms-form" data-drupal-selector="lp-terms-form" action="/privacy" method="post" id="lp-terms-form" accept-charset="UTF-8">
+  <div class="text-left"><h5 class="dark-grey-text lato-font"><strong>Please accept the new update in the below term(s)</strong></h5>
+  <p>LifePoints is operated by Lightspeed Research Limited.  Please take a moment to read our panel terms, made of our Privacy Policy, our Panel Terms &amp; Conditions, our Rewards Program Term.</p>
+  <p>Do you agree to our terms?</p><div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-newterms-1 js-form-item-newterms-1 form-no-label checkbox">
+  
+  
+  <label class="check"><input oninvalid="this.setCustomValidity('Please agree to the all the Terms and Conditions to become a member of LifePoints.')" onchange="setCustomValidity('')" data-drupal-selector="edit-newterms-1" class="form-checkbox required form-control" type="checkbox" id="edit-newterms-1" name="newterms_1" value="1" required="required" aria-required="true"><span class="checkmark"></span></label>
+
+  
+  
+  </div>
+<div class="new_hidden_terms" pterm="newterms_1"><a target="_blank" href="/privacy">Yes, I have read and I understand the Privacy Policy</a></div><div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-newterms-2 js-form-item-newterms-2 form-no-label checkbox">
+  
+  
+  <label class="check"><input oninvalid="this.setCustomValidity('Please agree to the all the Terms and Conditions to become a member of LifePoints.')" onchange="setCustomValidity('')" data-drupal-selector="edit-newterms-2" class="form-checkbox required form-control" type="checkbox" id="edit-newterms-2" name="newterms_2" value="1" required="required" aria-required="true"><span class="checkmark"></span></label>
+
+  
+  
+  </div>
+<div class="new_hidden_terms" pterm="newterms_2"><a target="_blank" href="/terms-of-use">Yes, I have read and I understand the Panel Terms &amp; Conditions</a></div><div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-newterms-3 js-form-item-newterms-3 form-no-label checkbox">
+  
+  
+  <label class="check"><input oninvalid="this.setCustomValidity('Please agree to the all the Terms and Conditions to become a member of LifePoints.')" onchange="setCustomValidity('')" data-drupal-selector="edit-newterms-3" class="form-checkbox required form-control" type="checkbox" id="edit-newterms-3" name="newterms_3" value="1" required="required" aria-required="true"><span class="checkmark"></span></label>
+
+  
+  
+  </div>
+<div class="new_hidden_terms" pterm="newterms_3"><a target="_blank" href="/terms-rewards">Yes, I have read and I understand the Rewards Program Terms</a></div><div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-newterms-4 js-form-item-newterms-4 form-no-label checkbox">
+  
+  
+  <label class="check"><input oninvalid="this.setCustomValidity('Please agree to the all the Terms and Conditions to become a member of LifePoints.')" onchange="setCustomValidity('')" data-drupal-selector="edit-newterms-4" class="form-checkbox required form-control" type="checkbox" id="edit-newterms-4" name="newterms_4" value="1" required="required" aria-required="true"><span class="checkmark"></span></label>
+
+  
+  
+  </div>
+<div class="new_hidden_terms" pterm="newterms_4"><a target="_blank" href="/terms-of-service">Yes, I agree to be contacted by Lightspeed about panel updates, services and offers (no third parties will contact you).</a></div></div><input autocomplete="off" data-drupal-selector="form-rggwjvhny1hyyhlmh6mbhkm-qvyrvfqjbixwdb1vwcq" type="hidden" name="form_build_id" value="form-rGGwjVhNY1hYyHLMH6MBhKM_qvYrvFqJbIxWDb1vWcQ"><input data-drupal-selector="edit-lp-terms-form" type="hidden" name="form_id" value="lp_terms_form"><div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><br><p class="text-center"><button class="btn btn-info btn-round-lg btn-lg button js-form-submit form-submit btn-primary btn" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Submit">Submit</button></p></div>
+
+</form>
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+<!-- forgotpassword-success box -->
+<div id="forgotpassword-success-box" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+
+            <div class="modal-body">
+                <a class="close login-box-close pull-right" data-dismiss="modal"><i class="fas fa-times icon18"></i></a>
+                <div class="icon-logo"></div>
+                <h2 class="text-center">Forgot your Password?</h2>
+                <p class="text-center">ALL SET. An email with a link to reset your password is now on its way. Check your inbox or SPAM/junk folder.</p>
+                <p class="text-center">
+                    <button type="button" data-dismiss="modal" class="btn btn-info btn-round-lg btn-lg">CLOSE</button>
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+<div class="page-loading-box" style="display: none;">
+    <div id="loading-overlay"></div>
+    <div class="loading">
+        <div class="loading-bar"></div>
+        <div class="loading-bar"></div>
+        <div class="loading-bar"></div>
+        <div class="loading-bar"></div>
+        <div class="loading-bar"></div>
+        <div class="loading-bar"></div>
+    </div>
+</div>
+<div class="barc-cookies-box" style="display: none;"></div>
+
+  </div>
+
+    <nav id="mmenu_right" class="mmenu-nav clearfix">
+    <ul>
+                                    <li class="mmenu-collapsed">
+                                                    <nav role="navigation" aria-labelledby="block-useraccountmenu-2-menu" id="block-useraccountmenu-2">
+            
+  <h2 class="visually-hidden" id="block-useraccountmenu-2-menu">User account menu Mobile</h2>
+  
+
+        
+              <ul class="menu nav navbar-nav navbar-right">
+                            <li>
+        <a href="/member/dashboard" target="_self" rel="" class="home" title="HOME" data-drupal-link-system-path="member/dashboard">HOME</a>
+                  </li>
+                        <li>
+        <a href="/member/rewards" target="_self" rel="" class="rewards" title="Rewards" data-drupal-link-system-path="node/55">REWARDS</a>
+                  </li>
+                        <li>
+        <a href="/member/activity" target="_self" rel="" class="menu-rewardpoints" data-drupal-link-system-path="member/activity">LIFEPOINTS</a>
+                  </li>
+                        <li>
+        <a href="/member/zendeskhelp/helpcenter" target="_self" rel="" class="helpCenter" title="Help Center" data-drupal-link-system-path="member/zendeskhelp/helpcenter">HELP CENTER</a>
+                  </li>
+                        <li class="expanded dropdown">
+        <a href="#mm-1" class="dropdown-toggle" data-target="#" data-toggle="dropdown">MEMBERSHIP <span class="caret"></span></a>
+                                  <ul class="menu dropdown-menu">
+                            <li>
+        <a href="/member/account" target="_self" rel="" data-drupal-link-system-path="member/account">My Membership</a>
+                  </li>
+                        <li>
+        <a href="/about-us/lifepoints-bonus-australia" target="_self" rel="" class="lifepointsBonus" title="LifePoints Bonus Australia" data-drupal-link-system-path="node/93">LifePoints Bonus</a>
+                  </li>
+                        <li>
+        <a href="/member/activity" target="_self" rel="" data-drupal-link-system-path="member/activity">My Activity</a>
+                  </li>
+                        <li>
+        <a href="/member/privacy-settings" target="_self" rel="" data-drupal-link-system-path="member/privacysettings">My Privacy Settings</a>
+                  </li>
+                        <li>
+        <a href="/member/unsubscribe" target="_self" rel="" data-drupal-link-system-path="member/unsubscribe">Cancel My Membership</a>
+                  </li>
+                        <li>
+        <a href="/logout" target="_self" rel="" data-drupal-link-system-path="logout">LOG OUT</a>
+                  </li>
+        </ul>
+  
+            </li>
+        </ul>
+  
+
+
+  </nav>
+
+                                </li>
+                        </ul>
+</nav>
+<nav id="mmenu_top" class="mmenu-nav clearfix">
+    <ul>
+                                    <li class="mmenu-collapsed">
+                                                    <nav role="navigation" aria-labelledby="block-login-menu" id="block-login">
+            
+  <h2 class="visually-hidden" id="block-login-menu">Login Mobile</h2>
+  
+
+        
+              <ul class="menu nav navbar-nav navbar-right">
+                            <li>
+        <a href="/registration" target="_self" rel="" data-drupal-link-system-path="registration">JOIN NOW</a>
+                  </li>
+                        <li>
+        <a href="#login" target="_self" rel="" class="loginmodal">LOG IN</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+                                </li>
+                        </ul>
+</nav>
+
+    <script src="//content.lifepointspanel.com/sites/lifepoints/files/js/js_e2U8dv1fXNjr-PV1pPJObZaaKZR3ckTSrjVD1kK3M1c.js"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"813f3aacc4","applicationID":"288828962","transactionName":"YFxXZEAAC0FWARdeC1kWdFNGCApcGCYRQhRWVWlzXRMAbnoHDUI4c1xTUUcNEX9SDBZ7DVlSYUJXBChTWQsTQghWTVpCQUxbVVIMBkUFQ1x8XlYEHXNZBjBYFkM=","queueTime":0,"applicationTime":679,"atts":"TBtUEggaGE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
