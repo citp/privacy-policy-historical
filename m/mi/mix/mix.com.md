@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mix.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502184904id_/https%3A//mix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mix.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230205733id_/https%3A//mix.com/privacy) for the most accurate reproduction.*
 
 # Mix · Privacy Agreement
 
@@ -18,13 +18,13 @@ We are Mix Tech, Inc. ( **“Mix”** , **“us”** , **“we”** or **“our�
 
 ##### About the Mix Services
 
-We provide users ( **“you”** , **“your”** ) with services, delivered via the Mix website (currently located at [http://www.mix.com](http://www.mix.com/)), (the **“Site”** ), the Mix mobile applications, and/or any other platform or media through which we may make such services available from time to time, that allow you to explore the Internet, find new websites that may be of interest to you, receive recommendations of websites from Mix, and join a community of individuals with similar tastes and interests (collectively, the **“Services”** ).
+We provide users ( **“you”** , **“your”** ) with services, delivered via the Mix website (currently located at [http://www.mix.com](http://www.mix.com/)), (the **“Site”** ), the Mix mobile applications, browser extensions, and/or any other platform or media through which we may make such services available from time to time, that allow you to explore the Internet, find new websites that may be of interest to you, receive recommendations of websites from Mix, and join a community of individuals with similar tastes and interests (collectively, the **“Services”** ).
 
 * * *
 
 ##### About This Privacy Policy
 
-This Privacy Policy informs you of Mix’s policies and practices regarding the collection and use of information you submit to us or which we collect about you through our Services and informs you of options that you have to control or restrict the availability and use of your information. Wherever you reside or from whichever country you submit your information, you consent to our use of your information, consistent with this Privacy Policy, in the United States and in other territories where Mix provides its Services.
+This Privacy Policy informs you of Mix’s policies and practices regarding the collection and use of information you submit to us or which we collect about you through our Services and informs you of options that you have to control or restrict the availability and use of your information. Wherever you reside or from whichever country you submit your information, you consent to our use of your information, consistent with this Privacy Policy, in the United States and in other territories where Mix provides its Services. The above said does not apply to you if you are in the European Union (EU). Users in the EU should see the last section (“Additional Information for EU Residents”), which will inform you in detail about the personal data we process, how we process it, for which purposes we process it, with whom we share it, on what legal basis we process and transfer your personal data and which rights you have regarding the processing of your personal data.
 
 * * *
 
@@ -56,13 +56,13 @@ We want to give our Users the best possible experience, personalized for each Us
 
 ##### Some Terms We Use in This Privacy Policy
 
- **“Agent”** means any Third Party that Processes Personal Information pursuant to the instructions of, and solely for, Mix or to which Mix discloses Personal Information for use on its behalf.
+ **“Agent”** or **“Processor”** means any Third Party that Processes Personal Information pursuant to the instructions of, and solely for, Mix or to which Mix discloses Personal Information for use on its behalf.
 
- **“Non-Identifying Information”** means information that does not permit the identification of an individual person, such as information that you provide as part of registration and personalization of your Mix account, or certain information that Mix collects through its Partner Communities. Some Non-Identifying Information could be considered a part of your Personal Information if it were combined with other identifiers in a way that enables you to be identified.
+ **“Non-Identifying Information”** means information that does not permit the identification of an individual person.
 
  **“Log Data”** is derived by our servers automatically as you engage with the Services, which record information that your browser or mobile device sends whenever you interact with the Service.
 
- **“Personal Information”** is any information relating to an identified or identifiable natural person ( **“Individual”** ). 
+ **“Personal Information”** or **“Personal Data”** is any information relating to an identified or identifiable natural person ( **“Individual”** ). 
 
 **“Process”** or **“Processing”** means any operation which is performed upon Personal Information, whether or not by automatic means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure, or destruction.
 
@@ -76,9 +76,9 @@ Mix will collect only that Personal Information which is relevant for the purpos
 
  **Personal Information.** When you create a Mix account or connect through our Partner Communities, we will collect your e-mail address, gender, year of birth and specific or general location. If you register for our Services via a Partner Community, we will obtain certain Personal Information you have provided to the Partner Community (such as your name, profile picture, e-mail address, date of birth and specific address or general location). If you enable interoperability with a Third Party application, additional Personal Information that you have provided to that Third Party application may be collected and/or you may specifically authorize Mix to access certain information from such Third Party application. The information we obtain may depend on the privacy settings you have with the Partner Community or Third Party application and the information obtained may not be visible in your account. If you personalize your Mix account, we will also collect any information you provide, such as your full name, your photo or avatar and any optional information you decide to supply about yourself and your interests. We will first seek your specific permission before we gain any access to your contacts should you wish to enable sharing through the Services.
 
- **Non-Identifying Information.** We also collect some Non-Identifying Information about you and your interests as you navigate through and interact with our Services.. We may also receive Non-Identifying Information about you and your interests from other sources like Third Parties that add to their websites Mix widgets or Mix badges.
+ **Non-Identifying Information.** We also collect some Non-Identifying Information about you and your interests as you navigate through and interact with our Services such as the URL of page(s) you view and the titles and content of the pages you save to Mix. We may also receive Non-Identifying Information about you and your interests from other sources like Third Parties that add to their websites Mix widgets or Mix badges.
 
- **Log Data.** When you interact with the Services our servers automatically record information that your browser or device sends. This Log Data may include information such as your computer’s IP address, browser type, and operating system, your mobile device identifier, the time of day of your access, your general physical location or your more specific location if you are connecting through your mobile device, and other analytics that help us deliver and monitor the effectiveness of our Services.
+ **Log Data.** When you interact with the Services, our servers automatically record information that your browser or device sends. This Log Data may include information such as your computer’s IP address, browser type, and operating system, your mobile device identifier, the time of day of your access, your general physical location or your more specific location if you are connecting through your mobile device, and other analytics that help us deliver and monitor the effectiveness of our Services.
 
  **Information You Provide.** When you enter any other information into any postings or comments, we may collect this information.
 
@@ -122,42 +122,42 @@ We may retain an archived copy of your records as required by law or for legitim
 
  **To Provide Products, Services, or Information Requested.** Mix may use information about you to fulfill requests for products, Services, or information, including information about potential or future Services, including to:
 
-  * o Generally manage Individual information and accounts;
-  * o Respond to questions, comments, and other requests;
-  * o Provide access to certain areas, functionalities, and features of Mix’s Services;
-  * o Contact you to answer requests for customer support or technical support.
+  * • Generally manage Individual information and accounts;
+  * • Respond to questions, comments, and other requests;
+  * • Provide access to certain areas, functionalities, and features of Mix’s Services;
+  * • Contact you to answer requests for customer support or technical support.
 
 
 
  **Administrative Purposes.** Mix may use Personal Information about you for its administrative purposes, including to:
 
-  * o Measure interest in Mix’s Services;
-  * o Develop new products and Services;
-  * o Ensure internal quality control;
-  * o Verify Individual identity;
-  * o Communicate about Individual accounts and activities on Mix’s Services and systems, and, in Mix’s discretion, changes to any of our policies;
-  * o Send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance;
-  * o Process payment for products or services purchased;
-  * o Process applications and transactions;
-  * o Prevent potentially prohibited or illegal activities;
-  * o Enforce our Terms.
+  * • Measure interest in Mix’s Services;
+  * • Develop new products and Services;
+  * • Ensure internal quality control;
+  * • Verify Individual identity;
+  * • Communicate about Individual accounts and activities on Mix’s Services and systems, and, in Mix’s discretion, changes to any of our policies;
+  * • Send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance;
+  * • Process payment for products or services purchased;
+  * • Process applications and transactions;
+  * • Prevent potentially prohibited or illegal activities;
+  * • Enforce our Terms.
 
 
 
  **Marketing.** Mix may use Personal Information to provide you with materials about offers, products, and Services that may be of interest, including new content or Services. Mix may provide you with these materials by or email, as permitted by applicable law. Such uses include:
 
-  * o To tailor content, advertisements, and offers;
-  * o To notify you about offers, products, and services that may be of interest to you;
-  * o To provide Services to you and our sponsors;
-  * o For other purposes disclosed at the time that Individuals provide Personal Information; or
-  * o Otherwise with your consent.
-  * o You may contact us at any time to opt-out of the use of your Personal Information for marketing purposes, as further described in “How do I Opt Out?” section below. 
+  * • To tailor content, advertisements, and offers;
+  * • To notify you about offers, products, and services that may be of interest to you;
+  * • To provide Services to you and our sponsors;
+  * • For other purposes disclosed at the time that Individuals provide Personal Information; or
+  * • Otherwise with your consent.
+  * • You may contact us at any time to opt-out of the use of your Personal Information for marketing purposes, as further described in “How do I Opt Out?” section below. 
 
 
 
 **Research and Development.** Mix may use Personal Information to create non-identifiable information that we may use alone or in the aggregate with information obtained from other sources, in order to help us to optimally deliver our existing products and Services or develop new products and Services. From time to time, Mix may perform research (online and offline) via surveys. We may engage Third-Party service providers to conduct such surveys on our behalf. All survey responses are voluntary, and the information collected will be used for research and reporting purposes to help us better serve Individuals by learning more about their needs and the quality of the products and services we provide. The survey responses may be utilized to determine the effectiveness of our Services, various types of communications, advertising campaigns, and/or promotional activities. If an Individual participates in a survey, the information given will be used along with that of other study participants. We may share anonymous Individual and aggregate data for research and analysis purposes.
 
- **Services via Mobile Devices.** From time to time, Mix may provide Services that are specifically designed to be compatible and used on mobile devices. Mix will collect certain information that your mobile device sends when you use such Services, like a device identifier, user settings, location information, mobile carrier, and the operating system of your device. Mobile versions of Mix’s Services may require that users log in with an account. In such cases, information about use of mobile versions of the Services may be associated with accounts. In addition, Mix may enable Individuals to download an application, widget, or other tool that can be used on mobile or other computing devices. Some of these tools may store information on mobile or other devices. These tools may transmit Personal Information to Mix to enable Individuals to access Accounts and to enable Mix to track use of these tools. Some of these tools may enable users to email reports and other information from the tool. Mix may use Personal Information or non-identifiable information transmitted to Mix to enhance these tools, to develop new tools, for quality improvement and as otherwise described in this Privacy Policy or in other notices Mix provides.
+ **Services via Mobile Devices and Browser Extensions.** From time to time, Mix may provide Services that are specifically designed to be compatible and used on mobile devices. Mix will collect certain information that your mobile device sends when you use such Services, like a device identifier, user settings, location information, mobile carrier, and the operating system of your device. Mobile versions of Mix’s Services may require that users log in with an account. In such cases, information about use of mobile versions of the Services may be associated with accounts. In addition, Mix may enable Individuals to download an application, widget, browser extension, or other tool that can be used on mobile or other computing devices. Some of these tools may store information on mobile or other devices. These tools may transmit Personal Information to Mix to enable Individuals to access Accounts and to enable Mix to track use of these tools. Some of these tools may enable users to email reports and other information from the tool. Mix may use Personal Information or non-identifiable information transmitted to Mix to enhance these tools, to develop new tools, for quality improvement and as otherwise described in this Privacy Policy or in other notices Mix provides.
 
  **Other Uses.** Mix may use Personal Information for which we have a legitimate interest, such as direct marketing, individual or market research, anti-fraud protection, or any other purpose disclosed to you at the time you provide Personal Information or with your consent. 
 
@@ -243,9 +243,72 @@ California law permits users who are California residents to request and obtain 
 
 The Services may contain links or integrations to Third Party applications, websites or services, and also may be accessed via Third Party applications, websites or services. Our display within the Services of links or referrals to other websites, services and applications does not signify our endorsement of such other websites, services or applications or their content. We have no control over, do not review, and cannot be responsible for these outside websites, services or their content. This Privacy Policy does not govern your visits to these other websites or services, and your access is entirely at your own risk. These other services and applications may set their own cookies on users, collect data, or solicit personal information. You should refer to any privacy policies on such services and applications to understand how your information may be collected and used, and should choose appropriate settings for sharing your personal information before proceeding to any integration with a Third Party service or application.
 
- **Revision History**
+ **YouTube content.** We access YouTube API Services to show the YouTube Embedded Player on websites and applications which may serve advertisements through that interface. YouTube receives data about your activity and Mix does not control the data collected by YouTube. For more information, view the [Google Privacy Policy](http://www.google.com/policies/privacy). 
+
+* * *
+
+##### Additional Information for EU Residents
+
+In the course of visiting our website, using our mobile applications or browser extensions, and/or using our services, we may process the following personal data:
+
+ **Log Data.** When you interact with the Services our servers automatically record information that your browser or device sends. This Log Data may include information such as your computer’s IP address, browser type, and operating system, your mobile device identifier, the time of day of your access, your general physical location or your more specific location if you are connecting through your mobile device, and other analytics that help us deliver and monitor the effectiveness of our Services. This is necessary to be enable you to use our website and Services. Further, we have a legitimate interest to evaluate the effectiveness of our Services. The legal bases for this processing activity are Article 6 sec. 1 sent. 1 lit. b, f GDPR.
+
+ **Account Information.** When you create a Mix account, we will collect your e-mail address, gender, year of birth and specific or general location. We process this information to provide our Services to you. If you personalize your Mix account, we will also collect any information you provide, such as your full name, your photo or avatar and any optional information you decide to supply about yourself and your interests. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR ("performance of a contract").
+
+ **Information relating to your use of or interaction with Partner Communities.** If you register for our Services via a Partner Community, we will obtain certain Personal Information you have provided to the Partner Community (such as your name, profile picture, e-mail address, date of birth and specific address or general location). If you enable interoperability with a Third Party application, additional Personal Information that you have provided to that Third Party application may be collected and/or you may specifically authorize Mix to access certain information from such Third Party application. The information we obtain may depend on the privacy settings you have with the Partner Community or Third Party application and the information obtained may not be visible in your account. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. f ("legitimate interest") GDPR. We have a legitimate interest to optimize our services.
+
+ **Profiling.** We also collect some Information about you and your interests as you navigate through and interact with our Services such as the URL of page(s) you view and the titles and content of the pages you save to Mix. We process this information as part of our services to find and recommend new websites that may be of interest to you, and to provide a community of individuals with similar tastes and interests as you. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 f ("legitimate interest") GDPR. We have a legitimate interest to improve our services and provide you the best user experience. We expect that this is also in line with your interests.
+
+ **Postings and Comments.** We process the information you enter into postings/comments on our website to monitor, filter and moderate it for the purposes of being able to remove profanity and other inappropriate conversations. The legal basis for this processing activity is our legitimate interest in being able to defend ourselves from possible liability claims that may arise from unlawful comments posted by you, Article 6 sec. 1 sent. 1 lit. f GDPR ("legitimate interest").
+
+ **Contacting us.** When you leave us feedback or write to us directly, we will collect any information that is contained in your feedback or comment form, which will include your e-mail address and other information that you may submit to us for reference or reply. This processing activity is based on your (implicit) consent according to Article 6 sec. 1 sent. 1 lit. a GDPR and/or Article 6 sec. 1 sent. 1 lit. b GDPR ("performance of a contract"), depending on the initial purpose for contacting us.
+
+We use Technologies such as Cookies, Pixel Tags, Web Beacons, that are essentially small data files placed on your computer, tablet, mobile phone, or other devices (referred to collectively as a "device") that allow us to record certain pieces of information whenever you visit or interact with our Sites, Services, applications, messaging, and tools, and to recognize you across devices. These Technologies may be 
+
+  * • Operationally Necessary. We may use Technologies that are necessary to the operation of our Site, Services, applications, and tools. This includes technologies that allow you access to our Site, Services, applications, and tools; that are required to identify irregular Site behavior, prevent fraudulent activity and improve security; or that allow you to make use of our functions such as shopping-carts, saved search, or similar functions. The legal basis is Article 6 sec. 1 sent. 1 lit. b GDPR ("performance of a contract").
+  * • Performance Related. We may use cookies, web beacons, or other similar technologies to assess the performance of our Site, Services, applications, and tools, including as part of our analytic practices to help us understand how our visitors use our Sites, determine if you have interacted with our messaging, determine whether you have viewed an item or link, or to improve our Site content, Services, applications, or tools. We have a legitimate interest to evaluate the effectiveness of our Services. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. f GDPR ("legitimate interest"). These cookies include: "branch_session_first", "iterate_hq"
+  * • Functionality Related. We may use cookies, web beacons, or other similar technologies that allow us to offer you enhanced functionality when accessing or using our Site, Services, applications, or tools. This may include identifying you when you sign into our Site or keeping track of your specified preferences, interests, or past items viewed so that we may enhance the presentation of content on our Site. We have a legitimate interest to enhance the presentation of content on our Site. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. f ("legitimate interest") GDPR. These cookies include: "AWSALB", "_csrf", "token", "usr_sess", "user_identified", "reported_url_ids"
+  * • Advertising or Targeting Related. We may use first-party or third-party cookies and web beacons to deliver content, including advertisements relevant to your interests, on our Site or on Third Party sites. This includes using technologies to understand the usefulness to you of the advertisements and content that has been delivered to you, such as whether you have clicked on an advertisement. This processing is based on Art. 6 sec. 1 sent. 1 lit. f DSGVO. We have a legitimate interest in analyzing user behavior in order to optimize our advertising. These cookies include: "ajs_anonymous_id", "ajs_group_id", "ajs_user_id", "_ga", "_gat", "_fbp", "intercom" 
+
+**Social Media Widgets.** Our Site includes social media features such as the Facebook “Like” button and LinkedIn (that might include widgets such as the share this button or other interactive mini-programs). These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. These social media features are either hosted by a Third Party or hosted directly on our Site.
+
+ **Opt-out.** Most browsers are initially set up to accept cookies and tracking pixels. You can reset your browser to refuse all cookies or to indicate when a cookie is being set. Instructions to remove persistent cookies can be found through outside resources. Mobile devices may contain settings that allow you to disable tracking, analytics and/or location data. Be aware, however, that if you choose to disable cookies or opt out of tracking or disengage similar features on your mobile device, some areas of the Services may not be optimized for your use, you may not be able to access any or all of the functionality of the Services, and your experience using the Services will be limited.
+
+ **Analytics.** We may also use Google Analytics and Google Analytics Demographics and Interest Reporting to collect information regarding visitor behavior and visitor demographics on some of our Services, and to develop website content. The Provider is Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. We have entered into a contract data processing agreement with Google.
+
+Google Analytics uses so-called cookies (see above). The information generated by the cookie about your use of this website is generally transmitted to a Google server in the United States and stored there. The corresponding evaluation of your surfing behavior is made available to us in anonymized form.
+
+We have activated the IP anonymization function on this website. As a result, your IP address is truncated by Google within member states of the European Union or other Contracting States to the Agreement on the European Economic Area prior to transmission to the United States. Only in exceptional cases the full IP address will be transmitted to a Google server in the United States and truncated there.
+
+On behalf of the operator of this website, Google will use this information to evaluate your use of the website, to compile reports on website activity and to provide other services related to website activity and Internet usage to the website operator. The IP address transmitted by Google Analytics as part of Google Analytics will not be merged with other Google data.
+
+In addition, Google is certified under the EU-US Privacy Shield and the Swiss-US Privacy Shield, thereby ensuring an appropriate level of data protection at Google in the United States.
+
+Google Analytics cookies are stored on the basis of Article 6 sec. 1 sent. 1 lit. f ("legitimate interest") GDPR. We have a legitimate interest in analyzing user behavior in order to optimize both our web website and our advertising.
+
+You can prevent the use of Google Analytics at any time, either by installing a Google Browser Plugin that will set an opt-out cookie, or through appropriate settings in your browser. For more information, visit <https://tools.google.com/dlpage/gaoptout?hl=de> and <https://www.google.com/analytics/terms/de.htm>.
+
+For more information on the handling of user data at Google Analytics, see the Google Privacy Policy: <https://support.google.com/analytics/answer/6004245?hl=de>.
+
+This website further uses the "Demographics" feature of Google Analytics. As a result, reports can be produced that contain statements on the age, gender and interests of the website visitors. This data comes from interest-based advertising of Google as well as visitor data from third-party providers. This data cannot be associated with a specific person. You can disable this feature at any time through the ad settings in your Google Account, or generally prohibit the collection of your data by Google Analytics as described above.
+
+The legal basis is Article 6 sec. 1 sent. 1 lit. f ("legitimate interest") GDPR. We have a legitimate interest in analyzing user behavior in order to optimize both our web website and our advertising.
+
+ **Your rights.** If you are a user based in the European Union, you may be entitled to exercise some or all of the following rights:
+
+    * • Require (i) information whether your personal data is retained and (ii) access to your personal data retained.
+    * • Request rectification, removal or restriction of your personal data, e.g. because (i) it is incomplete or inaccurate, (ii) it is no longer needed for the purposes for which it was collected, or (iii) the consent on which the processing was based has been withdrawn.
+    * • Refuse to provide and – without impact to data processing activities that have taken place before such withdrawal – withdraw your consent to processing of your personal data at any time.
+    * • **Object, on grounds relating to your particular situation, to processing of your personal data,** **in case such processing is based on our or a third party’s legitimate interests or object to the** **use of your personal data for direct marketing at any time.**
+    * • Take legal actions in relation to any potential breach of your rights regarding the processing of your personal data, as well as to lodge complaints before the competent data protection regulators.
+    * • Require (i) to receive the personal data concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and (ii) to transmit those data to another controller without hindrance from our side. Where technically feasible you shall have the right to have the personal data transmitted directly from us to another controller. 
+
+
+
+**Revision History**
 
   * Privacy Policy - Effective February 1, 2017
   * Privacy Policy - Effective May 16, 2018
+  * Privacy Policy - Effective October 18, 2019
 
 
