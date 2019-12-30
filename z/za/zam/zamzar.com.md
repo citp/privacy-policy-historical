@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zamzar.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628225435id_/https%3A//www.zamzar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamzar.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230121539id_/https%3A//www.zamzar.com/privacy.php) for the most accurate reproduction.*
 
 # Zamzar - Free online file conversion
 
@@ -34,7 +34,7 @@ The information we collect about all visitors to our website includes the visito
 
 ##### Why do we collect this?
 
-The information we collect about all visitors to our website includes the visitor's browser type ("User Agent"), language preference, referring site, and the date and time of each visitor request. We also collect potentially personally-identifying information like Internet Protocol (IP) addresses.
+We collect this information to better understand how our website visitors use Zamzar, to monitor and protect the security of the website and to protect against abuse of the Services. We also use this information to recognise you when you return to our website, to store information about your preferences, and to allow us to customise the website according to your individual interests.
 
 #### Information from users converting files
 
