@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pinknews.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630033343id_/https%3A//www.pinknews.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinknews.co.uk privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231001726id_/https%3A//www.pinknews.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • PinkNews
+# Privacy Policy
 
-****Last updated: 23 May 2018
+****Last updated: 17 July 2019
 
 http://pink.news and the PinkNews App (‘Website’) is provided by PinkNews Media Group Ltd (‘we’/’us’/’our’). In doing so, we may be in a position to receive and process personal information relating to you. As the controller of this information, we’re providing this Privacy Notice (‘Notice’) to explain our approach to personal information. This Notice forms part of our https://www.pinknews.co.uk/terms-and-conditions/, which governs the use of this Website.
 
@@ -99,7 +99,7 @@ Contact details including email address |
       2. Enabling a service to recognise your computer so you don’t have to give the same information during one task
       3. Recognising that you have already given a username and password so you don’t need to enter it for every web page requested
       4. Measuring how many people are using services, so they can be made easier to use and that there is enough capacity to ensure they are fast
-    4. To learn more about cookies, you may wish to visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/), [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) or [www.google.com/policies/technologies/cookies/](http://www.google.com/policies/technologies/cookies/)
+    4. To learn more about cookies, you may wish to visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/), [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) or [www.google.com/policies/technologies/cookies/](https://www.google.com/policies/technologies/cookies/)
     5. This Website uses, or allows use of, the following cookies:
 
 **Cookie name** | **Cookie qualities** | **Consent needed**  
@@ -328,120 +328,3 @@ For more information, please read our full privacy notice at https://www.pinkne
 If you have any concerns, please contact our Data Protection Officer at the address shown above at 1.2.
 
 You can change your mind and change your consent choices at anytime by clicking here.
-
-———————————————-
-
-**Cookie notice**
-
-This Website makes use of cookies. These cookies, which are listed below, are not strictly required for a service you’ve requested from us, though we think they have the potential to enhance your experience:
-
-– Rubicon: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– Google: This cookie allows us to personalise advertisements and statistics for your browsing experience on the web and our apps  
-– AdMarvel/ Opera: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– Sharethrough: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– Taboola: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– Mic: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– Zergnet: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– OpenX: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– Index Exchange: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– Gum Gum: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– Rev Content: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– YOC: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– Sovrn: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– Just Premium: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– Ad You Like: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– 33 Across: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– Teads: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps  
-– Unruly: This cookie allows us to personalise advertisements for your browsing experience on the web and our apps
-
-Please indicate which of these cookies you are happy to receive from this Website. You may withdraw your consent at any time, through either the Website or your web browser (which can also be used to delete currently stored cookies).
-
-Regarding third-party cookies for which consent is required, we will ensure that the third party has obtained consent.
-
-For more information about the cookies we use and our approach to the processing of personal information, please read our privacy notice at: [https://www.pinknews.co.uk/privacy-policy/](https://www.pinknews.co.uk/privacy-policy)
-
-———————————————-
-
-**What to with your document**
-
-**This section tells you what to do with your privacy notice and your ‘just-in-time’ notices.**
-
-**Privacy notice**
-
-Copy this to your website on the page at <https://www.pinknews.co.uk/privacy-policy/>, and add a link to it on every page of your website.
-
-**‘Just-in-time’ notices**
-
-These are short notices that you put on your website at the point that you ask for information. They’ll refer website users to your full privacy notice. You don’t have to use these, but the Information Commissioner’s Office recommend this technique.
-
-Because the user’s consent required for at least some of the information you’ll request, you’ll need to add some kind of mechanism for the user to give consent when the user sees the relevant notices. You should also make it very clear how the user can withdraw consent and ask for all personal information about them to be deleted.
-
-Copy the text below the ‘Privacy notice about necessary information’ into an appropriate space (e.g. pop-up box) that should appear as soon as the website is opened and before the user is asked to provide information that is necessary.
-
-Do the same for the text below the ‘Cookie Notice’, before any cookies are sent.
-
-## Who we are
-
-Our website address is: http://wpengine.com1.
-
-## What personal data we collect and why we collect it
-
-### Comments
-
-When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
-
-An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
-
-### Media
-
-If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
-
-### Contact forms
-
-### Cookies
-
-If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
-
-If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
-
-When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
-
-If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
-
-### Embedded content from other websites
-
-Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
-
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
-
-### Analytics
-
-## Who we share your data with
-
-## How long we retain your data
-
-If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
-
-For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
-
-## What rights you have over your data
-
-If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
-
-## Where we send your data
-
-Visitor comments may be checked through an automated spam detection service.
-
-## Your contact information
-
-## Additional information
-
-### How we protect your data
-
-### What data breach procedures we have in place
-
-### What third parties we receive data from
-
-### What automated decision making and/or profiling we do with user data
-
-### Industry regulatory disclosure requirements
