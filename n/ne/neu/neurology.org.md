@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neurology.org privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619210022id_/http%3A//journals.lww.com/_layouts/15/oaks.journals/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurology.org privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230103137id_/http%3A//journals.lww.com/_layouts/15/oaks.journals/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
