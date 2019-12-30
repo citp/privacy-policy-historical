@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aliimg.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630214738id_/http%3A//rule.alibaba.com/rule/detail/2034.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliimg.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230210133id_/https%3A//rule.alibaba.com/rule/detail/2034.htm) for the most accurate reproduction.*
 
 # Alibaba.com Rules Center
 
