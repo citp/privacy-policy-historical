@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330111456id_/https%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230184435id_/https%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crowdfunder.co.uk
 
@@ -369,4 +369,4 @@ _You can contact us with your queries in relation to this policy or for any othe
 
 To contact us in relation to this policy, including to exercise any of your rights in relation to your personal information, please contact us or write to us by email at support@crowdfunder.uk.
 
-_Crowdfunder Limited’s company registration number is 07831511 and registered office address is Crowdfunder, 11 Cliff Road, Newquay, Cornwall, TR7 2NE._
+_Crowdfunder Limited’s company registration number is 07831511 and registered office address is  Crowdfunder, C-Space 5-7 The Crescent, Newquay, Cornwall, TR7 1DT._
