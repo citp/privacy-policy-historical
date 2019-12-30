@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jacamo.co.uk privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116103828id_/https%3A//www.jacamo.co.uk/shop/policies/policiesView.action%3FfinalTarget%3Dpolicies_rights%26decoration%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacamo.co.uk privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230145142id_/https%3A//www.jacamo.co.uk/shop/policies/policiesView.action%3FfinalTarget%3Dpolicies_rights%26decoration%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy | Jacamo
 
 This Privacy Policy sets out how we collect and use your personal information and what your individual data protection and privacy rights are.
 
-This Privacy Policy was last updated on 1st May 2018 and is version 2.1.
+This Privacy Policy was last updated on 20th November 2019 and is version 2.6.
 
 ## Who is Responsible for Processing Your Personal Data
 
@@ -18,13 +18,21 @@ When you share your personal information with us, you have a right to expect tha
 
 Whether you have supplied your personal details online, by phone, by email or in a letter, we will never use them without a lawful reason to do so. We will use your personal data for the purposes for which they were initially requested and as fully explained in this Privacy Policy. 
 
-It is your responsibility to ensure that your personal data provided to us is accurate and up to date. You can update your personal contact details, including email address and phone number, by visiting [My Account](https://web.archive.org/shop/myaccount/Overview.action) online or, if you need to update any other personal details, by ringing our contact centre on 0345 071 9018.
+It is your responsibility to ensure that your personal data provided to us is accurate and up to date. You can update your personal contact details, including email address and phone number, by visiting [My Account](https://web.archive.org/shop/myaccount/Overview.action) online or, if you need to update any other personal details, by ringing our contact centre on 0345 071 9018. (Select option 1)
 
 ## Using Your Personal Data for Direct Marketing Purposes
 
 Based on your marketing preferences, we use your email and home address to send you details of our latest products and promotions. We also use marketing Profiling techniques to determine what product offers may be of interest to you whether that be by email, telemarketing, direct mail or social media. For further information on how we use your personal data to keep you informed about our products and promotions and how you can change your marketing preferences, click the relevant sections below.
 
-We hold your personal data for the purposes of direct marketing to you for a period of two years from the date of your last purchase unless you have an outstanding credit balance or have updated your marketing preferences in which case you will continue to receive marketing information unless you tell us otherwise. If you have only ever registered a cash account but never bought from us, we will stop marketing to you after a period of six months unless you ask to be contacted by updating your marketing preferences.
+We hold your personal data for the purposes of direct marketing to you for a period of two years from the date of your last purchase or transaction on your account. We will continue direct marketing to you after the two years have passed if you fall into any of the following categories:
+
+  * you have an outstanding credit balance,
+  * you have updated your marketing preferences or,
+  * you have opened/clicked on a direct marketing email in the last 12 months.
+
+
+
+If you have only ever registered a cash account but never bought from us, we will stop marketing to you after a period of six months unless you ask to be contacted by updating your marketing preferences.
 
 ### Obtaining Your Consent+
 
@@ -32,7 +40,13 @@ We will obtain your consent to send you details of our latest products and promo
 
 ### Email Marketing +
 
-We would like to keep you informed about our latest product offers and promotions using the email address you provide to us.  We will also use your date of birth to send you specific offers for your birthday.  To do this, we will ask you to opt-in to receive marketing emails when you first register an account with us , sign up for our newsletter, enter a competition or prize draw or agree for us to use your email address for marketing purposes when we send you electronic receipts in store.  You can opt out of email marketing at any time - see Changing Your Marketing Preferences.
+We would like to keep you informed about our latest product offers and promotions using the email address you provide to us. We will also use your date of birth to send you specific offers for your birthday.
+
+To do this, we will ask you to opt-in to receive marketing emails when you first register an account with us, sign up for our newsletter, enter a competition or prize draw or agree for us to use your email address for marketing purposes.
+
+We create and keep records of how you interact the electronic communications we send you by industry standard technologies such as pixels and gifs. These technologies enable us to gather statistics around email opening and clicks to help us measure the effectiveness of our marketing campaigns. You can prevent these technologies by disabling image autoloading in your emails at any time using your mail provider’s settings.
+
+You can opt out of email marketing at any time - see Changing Your Marketing Preferences.
 
 ### Telemarketing+
 
@@ -46,7 +60,7 @@ We will use your name and address to send you personalised marketing mails in th
 
 ### +
 
-We will use your email address to send you online targeted marketing information about our product offers and promotions via social media platforms.  To do this, we will share your email address in a secure manner with social media organisations, such as Facebook, who will match our advertising requirements to your social media profile.  We have a legitimate business interest to send you product information via social media which we believe is of relevance to you; this is known as Interest-Based Advertising. However, should you wish to exercise your right to stop targeted social media marketing, you can do this at any time - see Changing Your Marketing Preferences.
+We will use your data such as your email address and other online identifiers to send you online targeted marketing information about our product offers and promotions via social media platforms.  To do this, we will share your email address in a secure manner with social media organisations, such as Facebook, who will match our advertising requirements to your social media profile.  We have a legitimate business interest to send you product information via social media which we believe is of relevance to you; this is known as Interest-Based Advertising. However, should you wish to exercise your right to stop targeted social media marketing, you can do this at any time - see Changing Your Marketing Preferences.
 
 ### Third Party Marketing+
 
@@ -80,23 +94,25 @@ You can exercise your right to object to Direct Mail or Social Media at any time
 
 Please allow 48 hours for your changes to be processed for social media.  You may still receive direct marketing materials that are already processed before we received your request for up to 2 months.
 
-## Using Your Personal Data to Improve Your Online Shopping Experience 
+## Using Your Personal Data to Improve Your Shopping Experience 
 
-We want to make sure that we only contact you with online content that you will find relevant and interesting.  For this to work effectively, we collect information about your browsing activity using [Cookies](https://web.archive.org/shop/page/cookies/show.action) when you are using our websites.  These [Cookies](https://web.archive.org/shop/page/cookies/show.action) pass back to us your browsing information using your Internet Protocol ("IP") address as the identifier, which we combine with other anonymised, non-personalised and aggregated data, allowing us to determine what content and product information is most relevant to you when you are shopping online. 
+We want to make sure that we only contact you with content that you will find relevant and interesting.  For this to work effectively, we collect information about your online browsing activity using [Cookies](https://web.archive.org/shop/page/cookies/show.action) when you are using our websites and apps. These [Cookies](https://web.archive.org/shop/page/cookies/show.action) pass back to us your browsing information using your Internet Protocol ("IP") address as the identifier, which we combine with other anonymised, non-personalised and aggregated data, allowing us to determine what content and product information is most relevant to you when you are shopping online. 
 
-We have a legitimate business interest to use the aggregated and anonymised data obtained via [Cookies](https://web.archive.org/shop/page/cookies/show.action) and other data sources to help us provide you with relevant product marketing and improve your online shopping experience.
+We may sometimes share some of your personal data with third parties in order to analyse the effectiveness of our marketing campaigns across various marketing channels, including television. This will allow our third party partners to provide us with aggregated, anonymised analysis and they will not use the data we share with them to market their products or services to you. 
+
+We have a legitimate business interest to use the aggregated and anonymised data obtained via [Cookies](https://web.archive.org/shop/page/cookies/show.action) and other data sources to help us provide you with relevant product marketing and improve your shopping experience.
 
 ### Profiling+
 
-Profiling is a term used to describe a form of data processing where significant volumes of data made up of lots of different data types - such as browser history from [Cookies](https://web.archive.org/shop/page/cookies/show.action), age, gender, size, transaction history, demographics and buying habits - are all used in an aggregated, anonymised and non-personalised form to evaluate and predict, based on statistical analysis, what you may or may not want to purchase from us by assigning you to a profile type.  We use this technique to understand what drives you to buy from us and the types of products you are most likely to be interested in whether that be by email, telemarketing, direct mail or social media.  This is sometimes referred to as Big Data and Data Science and is widely used by retailers to improve their customer offering and Interest-Based Advertising. 
+Profiling is a term used to describe a form of data processing where significant volumes of data made up of lots of different data types - such as browser history from [Cookies](https://web.archive.org/shop/page/cookies/show.action), age, gender, size, transaction history, demographics, financial behaviour, preferences and buying habits - are all used in an aggregated, anonymised and non-personalised form to evaluate and predict, based on statistical analysis, what you may or may not want to purchase from us by assigning you to a profile type.  We use this technique to understand what drives you and others like you to buy from us and the types of products you and others are most likely to be interested in whether that be by email, telemarketing, direct mail or social media.  This is sometimes referred to as Big Data and Data Science and is widely used by retailers to improve their customer offering and Interest-Based Advertising. 
 
 ### Interest Based Advertising+
 
-The data that we collect and use when you browse or shop online, including where we use [Cookies](https://web.archive.org/shop/page/cookies/show.action), uses your IP address as the unique identifier; however, it will not contain your name, home address or phone number. We may also use your email address to send you online targeted marketing information but we always use hashed email addresses to keep your data secure. The email addresses are scrambled before being utilised to ensure nobody else can gain access to your email address. This enables us to offer our customers the best possible online user experience and equally allows us to improve the relevancy of our advertising. This allows us to provide you with more of the content you want to see.
+The data that we collect and use when you browse or shop online, including where we use [Cookies](https://web.archive.org/shop/page/cookies/show.action), uses your IP address as the unique identifier; however, it will not contain your name, home address or phone number. Along with your IP address, we may also capture data about your device to allow us to track performance across different platforms. We may also use your email address to send you online targeted marketing information, but we always use hashed email addresses to keep your data secure. The email addresses are scrambled before being utilised to ensure nobody else can gain access to your email address. This enables us to offer our customers the best possible online user experience and equally allows us to improve the relevancy of our advertising. This allows us to provide you with more of the content you want to see and allows us to evaluate the effectiveness of our marketing campaigns.
 
 ## Using Your Personal Data to Open Your Personal Credit Account
 
-When you apply for a credit account with us, we will use your personal data to make a decision as to whether or not we will accept your application and, if so, the amount of credit we will offer you.  Without this data, we are unable to perform the services under this contract i.e. to calculate the amount of credit offered and manage your credit account in accordance with the applicable guidelines and regulation.
+When you apply for a credit account with us, we will use your personal data to make a decision as to whether or not we will accept your application and, if so, the amount of credit we will offer you.  Without this data, we are unable to perform the services under this contract i.e. to calculate the amount of credit offered and manage your credit account in accordance with the applicable guidelines and regulation. This option is not available for new High & Mighty customers.
 
 You have a choice to opt out of providing us with your personal data for the purpose of making an automated decision at the point of application and select a cash account.  By opting out, we will not be able to provide you with a credit account.  However, you can still shop with us by opting for a cash account as an alternative and pay with credit or debit card for your purchases.
 
@@ -106,7 +122,13 @@ We will hold your personal data for 6 years, plus the current financial year, af
 
 To make a decision with regards to your credit application, we use automated decision making. To do this we will make searches about you with Credit Reference Agencies. We use the data from Credit Reference Agencies, together with personal data you provided to us, transactional data (such as any previous trading or account history with us), public records (such as insolvency register) and other data which you have given permission to be used for this purpose to verify your identity and determine the level of credit we can offer you. This data is used to calculate a score which allows us to categorise customers according to risk.  We do this so that we can respond to your credit application promptly and to ensure our credit lending decisions are fair and responsible.  By proceeding with your application, you agree to the use of these automated processes and acknowledge that without it we are unable to proceed with your credit application.  However, you can still shop with us by opting for a cash account as an alternative and pay with credit or debit card for your purchases.
 
-Where we are unable to make an immediate decision, we will refer your application to our Credit Underwriting Team who may request additional information from you.  Should you not wish to provide such information, we will not be able to make a decision with regards to your credit account application for you.  However, you can still shop with us by opting for a cash account as an alternative and pay with credit or debit card for your purchases. 
+We have also partnered with Aire Labs Ltd (Aire), authorised and regulated by the Financial Conduct Authority for the provision of credit references (FRN:744817), who we may refer you to in order to ask some additional questions. When transferred to Aire you will need to answer all of the questions to complete your credit application with us.
+
+Aire will ask questions about you and your household, such as your financial circumstances, employment, education, and lifestyle. They may also seek further information about you from other data providers and public sources. All of the information collected will be analysed and used to build a picture of your financial standing, which will only be shared with us. 
+
+Both us and Aire will share with each other and use the information provided by you in order for us to continue to process your credit application and to support our lending decision making process. We rely on our legitimate interest in ensuring our credit lending decisions are fair and responsible when processing and sharing your data in this way. We will continue to exchange information about you with Aire while you have a relationship with us, so Aire can perform statistical analysis about credit lending decisions and to improve their service. This data will not be shared with anyone else.
+
+Where we are still unable to make an immediate decision, we will refer your application to our Credit Underwriting Team who may request additional information from you.  Should you not wish to provide such information, we will not be able to make a decision with regards to your credit account application for you.  However, you can still shop with us by opting for a cash account as an alternative and pay with credit or debit card for your purchases. 
 
 ### Credit Reference Agencies+
 
@@ -115,6 +137,12 @@ We will request information about you from Credit Reference Agencies ("CRAs") an
   * [www.experian.co.uk/crain](http://www.experian.co.uk/crain)
   * [www.callcredit.co.uk/crain](http://www.callcredit.co.uk/crain)
   * [www.equifax.co.uk/crain](http://www.equifax.co.uk/crain)
+
+
+
+You can also find information about how Aire handle your data at: 
+
+  * [www.aire.io/privacy-app/](https://aire.io/privacy-app/)
 
 
 
@@ -142,7 +170,19 @@ Any card details provided by customers via paper order forms will be immediately
 
 ## Using Your Personal Data for Fraud Prevention
 
-We carry out fraud checks on new credit applications and credit orders.  In order to do this, we use data sourced from Credit Reference Agencies and other external agencies that are involved in fraud detection. If we identify fraud, we will pass data relating to the fraudulent activity such as name, address and email address to these agencies to help protect individuals and other businesses from the threat of fraud in the future.
+We carry out fraud checks before providing goods or credit to you. In order to do this, we use data sourced from Credit Reference Agencies and other external agencies that are involved in fraud detection to prevent fraud and money laundering, and to verify your identity. Data we use to do this may include: name, address, date of birth, contact details, financial information, employment details and device identifiers, including IP address.
+
+The personal information we have collected from you will be shared with fraud prevention agencies and law enforcement agencies who will use it to prevent fraud and money-laundering and to verify your identity. If fraud is detected, you could be refused certain services, finance, or employment. Further details of how your information will be used by us and these fraud prevention agencies, and your data protection rights, can be found by [https://www.cifas.org.uk/fpn](https://www.pcisecuritystandards.org/ "visit the cifas.org.uk website")
+
+We process your personal data on the basis that we have a legitimate interest in preventing fraud and money laundering, and to verify identity, in order to protect our business and comply with laws that apply to us. Such processing is also a contractual requirement of the services or financing you have requested.
+
+We process your personal data on the basis that we have a legitimate interest in preventing fraud and money laundering, and to verify identity, in order to protect our business and comply with laws that apply to us. Such processing is also a contractual requirement of the services or financing you have requested.
+
+As part of the processing of your data, decisions may be made by automated means. This means we may automatically decide that you pose a fraud or money laundering risk if our processing reveals your behaviour to be consistent with money laundering or known fraudulent conduct, or is inconsistent with your previous submissions, or you appear to have deliberately hidden your true identity. 
+
+If we, or a fraud prevention agency, determine that you pose a fraud or money laundering risk, we may refuse to provide the services or financing you have requested, or we may stop providing existing services to you. A record of any fraud or money laundering risk will be retained by the fraud prevention agencies, and may result in others refusing to provide services, financing or employment to you. If you have any questions about this, please contact us on the details above.
+
+Whenever fraud prevention agencies transfer your personal data outside of the European Economic Area, they impose contractual obligations on the recipients of that data to protect your personal data to the standard required in the European Economic Area. They may also require the recipient to subscribe to ‘international frameworks’ intended to enable secure data sharing.
 
 We will hold your personal data for 6 years, plus the current financial year, after the date of your last transaction on your personal credit or cash account.
 
@@ -201,7 +241,7 @@ We will hold your statement data for 6 years, plus the current financial year, a
 
 ### Call Recordings+
 
-We record all calls into our contact centre for quality assurance, regulatory compliance and training purposes.  We retain all call recordings for a period of 12 months.
+We may record inbound and outbound calls from our contact centre for quality assurance, regulatory compliance and training and monitoring purposes. We retain all call recordings for a period of 12 months.
 
 ### Enquiries and Complaints+
 
@@ -213,25 +253,23 @@ We will use your personal data for all general service communications including 
 
 ## Using Your Personal Data to Improve Our Services
 
-As a valued customer, we may use your personal data to contact you by phone, SMS, letter or email to ask you to participate in one of our service improvement programmes.  We will share your personal contact details with our chosen third party partners and service providers who may carry out these service improvement programmes on our behalf.  We will always make you aware of how we will use the information that we gather from you at the time of contacting you for any specific service improvement programme.  We have a legitimate business interest in contacting our customers in this way and will always treat your involvement in any service improvement programme, and associated personal data, in confidence.
-
-Should you not wish to participate in our service improvement programme, you can simply decline to participate at the point of contact or, should you wish never to be contacted for the purpose of market research, you can tell us at any time by ringing the contact centre on 0345 071 9018.
+As a valued customer, we may use your personal data to contact you by phone, SMS, letter or email to ask you to participate in one of our product and/or service improvement programmes.  We will share your personal contact details with our chosen third party partners and service providers who may carry out these programmes on our behalf.  We will always make you aware of how we will use the information that we gather from you at the time of contacting you for any specific product and/or service improvement programme. We have a legitimate business interest in contacting our customers in this way and will always treat your involvement in any product and/or service improvement programme, and associated personal data, in confidence.
 
 ### Product Reviews+
 
-Whenever you make a purchase from us, we will send you an email asking you to provide a review of the product and tell us what you think.  If you choose to do so, you will be asked to enter your email address, your thoughts about the product and any relevant details which may include age range, height and size if relevant to the product you have purchased.  You will also be asked to agree to separate terms and conditions as we use a third party to process and analyse the data for us.  We will use your email address to confirm that we have received your product review.  We are really keen to hear what you think about our products and use the information to inform our product development programme. 
+Whenever you make a purchase from us, we will send you an email asking you to provide a review of the product and tell us what you think.  If you choose to do so, you will be asked to enter your email address, your thoughts about the product and any relevant details which may include age range, height and size if relevant to the product you have purchased. You will also be asked to agree to separate terms and conditions as we use a third party, Bazaar Voice, to process and analyse the data for us. We will use your email address to confirm that we have received your product review.  We are really keen to hear what you think about our products and use the information to inform our product development programme. However, if you prefer not to receive product review emails in future, you can unsubscribe using the link in the body of the email.
 
-### Fizzback+
+### Fizzback & Medallia+
 
-We use a tool called Fizzback to communicate with our customers to obtain feedback about our products and services.  We will send you an SMS or email containing a short survey which we ask you to complete and send back to us.  This information is only used by us to improve our product and service offering and deal with any Enquiries and Complaints that you raise via Fizzback.  Should you not wish to participate, you can choose not to respond.
+We use both Fizzback & Medallia to communicate with our customers to obtain feedback about our products and services. We will send you an SMS or email containing a short survey which we ask you to complete and send back to us. This information is only used by us to improve our product and service offering and deal with any Enquiries and Complaints that you raise via Fizzback or Medallia. Should you not wish to participate, you can choose not to respond.
 
 ### Surveys+
 
-From time to time, we will contact you to take part in a customer satisfaction survey.  We often use third party partners to collect this information on our behalf.  We will share your basic personal data - name, address, phone number and email - for them to contact you to ask if you wish to participate in such surveys. We, or our third party partners, may sometimes follow up on surveys with you to get more information from you regarding specific complaints or feedback.  You can choose not to participate in such surveys should you not wish for your personal data to be shared in this way by ringing the contact centre on 0345 071 9018.
+From time to time, we will contact you to take part in a customer satisfaction survey. We often use third party partners to collect this information on our behalf. We will share your basic personal data - name, address, phone number and email - for them to contact you to ask if you wish to participate in such surveys. We, or our third party partners, may sometimes follow up on surveys with you to get more information from you regarding specific complaints or feedback. You can choose not to participate in such surveys should you not wish for your personal data to be shared in this way by ringing the contact centre on 0345 071 9018 or by asking our third party partners to remove your details from further surveys.
 
 ### Research & Focus Groups+
 
-From time to time, we employ different market research agencies, who act on our behalf, to contact our customers with the aim of getting a more detailed understanding of what our customers think about our products and services.  We will share your basic personal data - name, address, phone number and email - for them to contact you to ask if you wish to participate in our service improvement programme.  We may also share more personal data about your shopping habits, including the size and type of products that you have purchased if this is relevant to the market research.  Occasionally, we ask our research companies not to tell customers that they are contacting you on our behalf, for example for brand research purposes, as we do not want to influence your answers.  However, the market research company is obliged to disclose this information should you ask at the end of the survey.  If you do not wish to be contacted for market research purposes, you can ring the contact centre on 0345 071 9018.
+From time to time, we employ different market research agencies, who act on our behalf, to contact our customers with the aim of getting a more detailed understanding of what our customers think about our products and services. We will share your basic personal data - name, address, phone number and email - for them to contact you to ask if you wish to participate in our service improvement programme. We may also share more personal data about your shopping habits, including the size and type of products that you have purchased if this is relevant to the market research. Occasionally, we ask our research companies not to tell customers that they are contacting you on our behalf, for example for brand research purposes, as we do not want to influence your answers. However, the market research company is obliged to disclose this information should you ask at the end of the survey. If you do not wish to be contacted for market research purposes, you can ring the contact centre on 0345 071 9018 or by asking our third party partners to remove your details from further surveys.
 
 ### Social Media+
 
@@ -271,15 +309,13 @@ Manchester M60 6ES
 
 [informationrequest@nbrown.co.uk](mailto:informationrequest@nbrown.co.uk)
 
-Tel: 0161 2382123
-
 If you are at all dissatisfied with the information provided by the Data Governance Team, please address any complaints to the Data Protection Officer at the same address.
 
 ## Your Personal Data Rights
 
 ### Right of Access+
 
-You may wish to access a copy of the personal data we hold about you - known as a Subject Access Request.  You can do so by ringing, writing to or emailing the Data Governance team. We will respond to your Subject Access Request as soon as possible and, in any event, within the statutory 30 days.  However, in the event that we need more information from you to verify your identity, which we must do to ensure we disclose your personal data to the right person, the 30 day response period will only commence from the time that we have validated your identity. 
+You may wish to access a copy of the personal data we hold about you - known as a Subject Access Request.  You can do so by ringing, writing to or emailing the Data Governance team. We will respond to your Subject Access Request as soon as possible and, in any event, within one month. However, in the event that we need more information from you to verify your identity, which we must do to ensure we disclose your personal data to the right person, the one month response period will only commence from the time that we have validated your identity. 
 
 Please be aware that for security reasons we do not usually provide details of any bank details that we hold against your account(s).  Please speak to our Data Governance team should you need this additional information.
 
