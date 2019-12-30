@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vporn.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517160059id_/https%3A//www.vporn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vporn.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230223156id_/https%3A//www.vporn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — vPorn
 
