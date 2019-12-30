@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the yidio.com privacy policy that was archived on 2019-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630221629id_/https%3A//www.yidio.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yidio.com privacy policy that was archived on 2019-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191230230900id_/https%3A//www.yidio.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/video#">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class=" google-optimize-hide"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/video#">
 <meta charset="UTF-8">
 <title>Yidio Privacy Policy</title>
 <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="">
@@ -9,6 +9,7 @@
 <link rel="shortcut icon" href="//cfm.yidio.com/favicon.ico">
 <link rel="apple-touch-icon" href="//cfm.yidio.com/app/apple-touch-icon-175x175-precomposed.png">
 <meta name="Description" content="Yidio privacy page describes how Yidio uses information provided by the user.">
+	
 
 <link href="https://www.yidio.com/privacy" rel="canonical">
 
@@ -50,7 +51,7 @@
 </script>
 
 
-	<link rel="stylesheet" type="text/css" href="//cfm.yidio.com/css/all.css?version=6">
+	<link rel="stylesheet" type="text/css" href="//cfm.yidio.com/css/all.css?version=7">
 
 
 
@@ -79,13 +80,15 @@
 	globals.utm_campaign = '';
 	globals.utm_term = '';
 	globals.utm_content = '';
+	globals.pid = '';
+	
 	var $ = $j = jQuery.noConflict();
 							globals.big_rebel_ad = "0";
 	globals.is_country_check_uk_gb = "0";
     globals.main_country_cookie = "US";
 	globals.site_device_type  = "0";
 
-	var MAIN_RANDOM_VARIABLE = "15";
+	var MAIN_RANDOM_VARIABLE = "25";
 	var overlay_timer = 1000;
 	var overlay_position = 200;
 	var slide_ad_on = 0;
@@ -120,7 +123,17 @@
 	window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);}
 	gtag('js', new Date());
 
-	if (globals.page == 'episodes_main') {
+	// Enable Google Optimize on all pages for overlay ad test
+
+	gtag('config', 'UA-347064-8', {'optimize_id':'GTM-WQ5NXLJ'});
+
+	(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+	h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+	(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+	})(window,document.documentElement,'google-optimize-hide','dataLayer',4000,{'GTM-WQ5NXLJ':true});
+
+	/*
+	if (globals.page == 'episodes_main' || ) {
 
 		gtag('config', 'UA-347064-8', {'optimize_id':'GTM-WQ5NXLJ'});
 
@@ -129,11 +142,10 @@
 		(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
 		})(window,document.documentElement,'google-optimize-hide','dataLayer',4000,{'GTM-WQ5NXLJ':true});
 
-		dataLayer.push({'event': 'optimize.activate'});
-
 	} else {
 		gtag('config', 'UA-347064-8');
 	}
+	*/
 
 </script>
 
@@ -142,9 +154,9 @@
 <script type="text/javascript">
 globals.show_is_prime="0";
 </script>
-<script type="text/javascript" src="//cfm.yidio.com/js/jquery.main.js?version=96" crossorigin="anonymous"></script>
+<script type="text/javascript" src="//cfm.yidio.com/js/jquery.main.js?version=116" crossorigin="anonymous"></script>
 <script async="" src="https://cdn.boomtrain.com/analyticstrain/yidio/analyticstrain.min.js"></script>
-<script type="text/javascript" src="//cfm.yidio.com/js/new-header-js.js?version=5" crossorigin="anonymous"></script>
+<script type="text/javascript" src="//cfm.yidio.com/js/new-header-js.js?version=8" crossorigin="anonymous"></script>
 
 
 
@@ -167,7 +179,7 @@ globals.show_is_prime="0";
 
 
 
-<link rel="stylesheet" type="text/css" href="//cfm.yidio.com/css/modal.css?version=38">
+<link rel="stylesheet" type="text/css" href="//cfm.yidio.com/css/modal.css?version=50">
 
 
 
