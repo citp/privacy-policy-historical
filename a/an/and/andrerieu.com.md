@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andrerieu.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617072901id_/https%3A//www.andrerieu.com/en/terms-and-conditions-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrerieu.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230123001id_/https%3A//www.andrerieu.com/en/terms-and-conditions-privacy-policy) for the most accurate reproduction.*
 
 # Terms and conditions / privacy policy
 
