@@ -1,149 +1,191 @@
-> *The following text is extracted and transformed from the travelmob.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022075025id_/http%3A//www.travelmob.com/pages/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmob.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230235534id_/https%3A//www.homeaway.com/info/legal/privacy-policy) for the most accurate reproduction.*
 
-# travelmob: Vacation Rentals, Apartments, Villas & More
+# HomeAway Vacation Rentals: Privacy Policies
 
-1
+### Privacy Policies
 
-This is the privacy policy ( **Privacy Policy** ) of travelmob Pte Ltd ( **travelmob** , **we** , **us** , **our** or a similar expression). 
+ **Privacy Policies**
 
-2
+**HomeAway Privacy Policy**
 
-**Billing Information** means credit card and related billing information. **Identity Information** means information about you that can be used to contact or identify you. It includes your name, phone number, email address, identity numbers and address, but excludes Billing Information. **Including** and similar expressions are construed without limitation. **Non-Identifying Information** is information that is not Identity Information, including zip or postal code, individual preferences and demographic information. **Personal Information** means Identity Information and Billing Information together. **Service** means to provide and improve our Site, services, features, content, use of and other dealing with the Site. **Site** means[ www.travelmob.com](https://web.archive.org/). **User** means a Member and any person visiting or browsing the Site or who in any other manner deals with the Services. **using, processing** or similar operations on information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within travelmob. **You** means a User. 
+Last updated November 14, 2017
 
-3
+We are serious about protecting the privacy of our users.  This Privacy Policy describes how we use and protect your personal data.  It applies to HomeAway.com, VRBO.com, VacationRentals.com, software.homeaway.com, any subdomains thereof and any other websites where this policy is linked to in the footer of the page and any mobile application of such HomeAway websites (which we have collectively called the “Site” in this policy).
 
-This Privacy Policy may be amended from time to time. Your continued use or other dealing with the Site is deemed to be acceptance of the Privacy Policy, as amended from time to time. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the meanings given to them in our prevailing Terms of Service ([www.travelmob.com/pages/terms)](https://web.archive.org/pages/terms). 
+The Site is operated by HomeAway.com, Inc., which is part of the HomeAway group.  The terms “users” or “you” as used in this Privacy Policy, refer to travelers, who use the Site to look for properties to rent, property owners and managers who list properties for rent on the Site and other users who use software or other tools or services we provide on a Site.  It also applies to other visitors to our site - for example those applying for a job through the Site.
 
-4
+We use information collected about you as explained in this Privacy Policy. The Site may contain links to third parties' websites. We're not responsible for the privacy practices or the content of those websites. The Site may also contain links to terms and conditions and privacy policies of third party providers who provide tools or services on a Site. Therefore, please read carefully any privacy policies on those links or websites before either agreeing to their terms or using those tools, services or websites.  Unless we explain otherwise in this policy, the words and phrases used in this policy have the same meaning as in the Terms and Conditions - available at  _[Terms& Conditions](https://web.archive.org/web/20171228000410/https:/www.homeaway.com/info/about-us/legal/terms-conditions)_.
 
-This Privacy Policy applies only to information that you provide to us through the Service. 
+By providing information to us when listing a property, searching for a property, using any tool or service on a Site or otherwise using the Site, you expressly agree to this Privacy Policy and our terms of use. This Privacy Policy was last updated on the date set forth above and applies from that date.  We may occasionally amend this Privacy Policy to reflect regulatory requirements, advances in technology, Site updates and changes in our information collection and disclosure practices. Any new policy will automatically be effective when it is published on a Site. You should therefore return here regularly to view our most up to date Privacy Policy. You should also print a copy for your records.
 
-5
+**Who processes your personal data, and where?**
 
-Your information may be transferred to and maintained on computers located outside of your state, province, country or jurisdiction, where privacy laws may be different to those in your location. 
+Your personal data (also referred to as personal information) - that is, data that identifies you, or from which you are identifiable - will be collected, processed, stored and used by us, and passed to and processed by companies in the HomeAway group and third party data processors acting on our behalf. HomeAway is a global business.  As a result, personal data contributed by or collected from users may be stored and processed in the United States or any other country in which we, members of the HomeAway group or our agents maintain facilities.  By using our Site, you acknowledge and agree that you may be transferring your personal data outside of the country in which you have contributed it (“your country”), and that you consent to any transfer of information outside of your country. These countries may not have similar data protection laws to those that apply in your country. However, if we transfer your personal data outside of your country in this way, we will take steps to try to ensure that your privacy rights are protected in compliance with applicable data protection law and this Privacy Policy.
 
-6
+We do not knowingly collect or process data from anyone under the age of eighteen (18) years old.
 
-We collect information for the Service.
+HomeAway Group sites may also use Google Analytics to gather statistics on site usage.  This may involve the use of cookies.  There are more details in our Cookie Notice and in Google’s own privacy policy.  Google may aggregate data they collect from their various services including Google Analytics, Google Translate, Google Maps and YouTube.  You acknowledge and accept that HomeAway Group has no control over Google’s data collection.  We strongly advise you to look at Google’s privacy policy for details of their data collection practices. You can find more information about how Google uses data here:  _[https://www.google.com/policies/privacy/partners/](https://web.archive.org/web/20171228000410/https:/www.google.com/policies/privacy/partners/)_. If you want to opt out from Google Analytics, please check here:  _[https://tools.google.com/dlpage/gaoptout](https://web.archive.org/web/20171228000410/https:/tools.google.com/dlpage/gaoptout)_.
 
-7
+**The information we gather**
 
-We use your Personal Information to provide the Service and administer your inquiries. When you register through the Site, become a Member, post a Listing, book an Accommodation or contact a Member, we will ask you for Identity Information. We may also ask for Billing Information for certain transactions. If the address of a Listing you post matches that of your credit card billing address, that address is considered Identity Information. Some Personal Information are mandatory, like your name and email address, and others are optional, like your date of birth. We may require address confirmation for Accommodations included in Listings. 
+At various times you may give your personal data to us. For example, in order to send a booking request or inquiry from you to a property owner or manager, we may need to know all or some of the following: your full name, address, telephone number, e-mail address, your current location, and, in the case of a listing, a method of payment. You may also give personal data to us at other times, such as when registering on the Site or when submitting a listing for a property. We also receive your personal information when you set up financial account information for payment processing.  We may also gather information from cookies or web beacons.  You can find out more about how they operate in the relevant section of this policy below.  We also collect IP addresses, mobile device identifier details, your location, navigation and click-stream data, the time of accessing the Site, homes you viewed, what you searched for, the duration of your visit, and other  details of your activity on the Site. If you ask us to connect with other sites (for example if you ask us to connect with your Facebook account) we may get information about you that way too.  In connection with electronic communications we facilitate through a Site, we use electronic or manual checks to monitor such communications for trust and security purposes.  For further details on how we collect personal data, see Surveys and Communications below.  We obtain data from you either by you inputting your personal details, by the automatic collection of information about you as you use the Site, when we speak to you, or from third parties.  Third party information may include financial information from our payment processor partners that we use to update our records and to prevent and detect fraud, information from your mobile provider if you are accessing the Site over a mobile device or information from a third party such as a social media or travel opinions site where you have asked us to share your data with them. 
 
-8
+**How we use your personal data**
 
-We collect Personal Information when you register for the Service.
+Our primary purpose in collecting your personal data is to provide you with the services you request and those which we believe will optimize your use of the Site.  You agree that we may use your personal data for the following purposes:
 
-9
+•    For the services provided on the Site or to support your request;
 
-You can register by logging into online accounts have with third party service providers, including Facebook ( **SNS** , and each SNS account, a **Third Party Account** ), via our Site. You may link your Account with Third Party Accounts, by providing your Third Party Account login information to travelmob through the Service or by allowing travelmob to access your Third Party Account. If you register by logging into a Third Party Account via our Site, we will obtain the Personal Information you provide to the applicable SNS (including your legal name, email address, profile picture, names of your SNS friends, names of your SNS groups, other information you make publicly available and other information you authorize travelmob to access) from your Third Party Accounts. We will use that information to create your travelmob Account and travelmob Account profile page and you will become a Member. By granting us access to the Third Party Accounts, we will access, make available and store (if applicable, as permitted by the SNS and authorized by you) the information in your Third Party Accounts so that it is available on your travelmob Account on the Site and Service. This information may include your friends, likes and other associations. 
+•    To contact you from time to time with user or service updates;
 
-You warrant that our access and dealing with your SNS and Third Party Account as described in this clause are permitted by the applicable SNS or Third Party Account terms of use. You warrant you may disclose your SNS and Third Party Account login and other information to travelmob and grant travelmob access to your SNS and Third Party Account. You indemnify and hold us harmless from all reasonable costs, expenses, damages, liability and losses that we may suffer or incur arising out of or in connection with your breach of these warranties, to the extent not caused by our own negligence or default. 
+•    To send other messages that help us provide our services on the Site;
 
-10
+•    To assist people you have done (or have agreed to do) business with.  For example if you are an owner and a traveler who has booked or inquired with you needs your details we may pass them on. If you are a traveler and an owner you have booked with needs to contact you we may give them your details;
 
-We may collect Non Identifying Information as part of registration and the administration and personalization of your travelmob Account profile. We use Non-Personal Information mainly to provide the Service, complete your transactions and administer your inquiries. 
+•    To customize, measure, report on and improve our services, content and advertising;
 
-11
+•    To promote services related to the Site or those of the HomeAway group and/or our affiliates;
 
-Non-Identifying Information becomes Personal Information if combined with information that enables you to be identified. We may combine Non-Identifying Information with your Non-Identifying Information and aggregate it with information collected from other Users to improve your user experience and Service quality and to analyze and understand Service usage. We may also use the combined information without aggregating it to serve you specifically, including to introduce a product to you according to your preferences or restrictions. 
+•    To compare information for accuracy, update our records, and verify it with third parties;
 
-12
+•    To prevent, investigate or prosecute activity we think may be potentially illegal, unlawful or harmful; and
 
-We may use your Personal Information to contact you with travelmob newsletters, marketing or promotional information and to provide you Service notifications. If you do not wish to receive these communications, your can unsubscribe or opt out with the relevant notification features or following the unsubscribe instructions in the communication. 
+•    To enforce our Privacy Policy and/or our Terms and Conditions or any other purpose referenced herein or therein.
 
-13
+We collate statistics about site traffic, sales and other commercial information which we pass onto third parties to assist us with improving the services we provide to you. We also use demographic information to tailor the Site and we share that information with third parties so that they can build up a better picture of our customer base and general consumer trends.
 
-Our servers automatically record information that a User's browser sends (Log Data). This Log Data may include your Internet Protocol (IP) address, browser type or the webpage you visited before the Site, pages of our Site visited, time spent on those pages, information you searched on the Site, access times and other statistics. We use this information to monitor and analyze use of the Service and technical administration, to increase our Site functionality and user-friendliness, and to better address User needs. We also use this information to verify that Users meet the criteria required for certain transactions. Log Data is not Personal Information and is not used in association with Personal Information. We may aggregate, analyze, evaluate and deal with Log Data as if Non-Identifying Information. 
+If you are a property owner or manager, we may also display your phone number on the listing itself so that travelers may contact you and to restrict fraudulent behavior. We may also contact you about your account and your use of our services.
 
-14
+**How We May Disclose Your Personal Data**
 
-We use cookies to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use (a) persistent cookies to save your login information for future logins to the Site; and (b) session ID cookies to enable certain features of the Site, to better understand your use of the Site and to monitor total usage of and web traffic routing on the Site. Session cookies but not persistent cookies are deleted from your computer when you log off from the Service and close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can configure your browser to reject cookies or to prompt you before accepting a cookie. If you do not accept cookies, you may not be able to use all portions or functions of the Service. 
+We may disclose your personal data to enforce our policies, or where we are permitted (or believe in good faith that we are required) to do so by applicable law, such as in response to a request by a law enforcement or governmental authority, or in connection with actual or proposed litigation, or to protect our property, people and other rights or interests.
 
-15
+We may also share your personal data with:
 
-From time to time we use electronic images Web beacons (or single-pixel gifs) together with cookies to compile aggregated statistics to analyze how our Site are used. From time to time we use Web beacons in our emails to track emails and links readership and click-throughs. 
+•    One of our partners if you've requested their services or if you’ve requested to be provided with information by them;
 
-16
+  * The provider behind HomeAway’s $1M Liability Insurance, including traveler information related to covered stays; 
 
-Users may email Members with the Contact Host feature on the Site. Where you do so, the email addresses will be used only for the purpose of sending the email to the addressee. 
 
-17
 
-Users may telephone Members with the Contact Host feature on the Site. When you do so, we do not disclose your phone number to the Member you contact. We will use your phone number to contact you and then connect you with the Member you contact. 
+•    Another member if you have done business with them;
 
-18
+•    A third party performing services on our behalf, such as to process payments;
 
-If you choose to use our referral service to ask a friend for a recommendation, we will ask you for your friend’s email address. We will automatically send your friend a one-time email invitation to visit the Site. travelmob stores this information for the sole purpose of sending this one-time email. Your friend may contact us at[ support@travelmob.com](mailto:support@travelmob.com) to request that we remove this information from our database. 
+•    Companies in the HomeAway group and/or affiliates; or
 
-19
+•    Other companies or business entities, for example if we are thinking of a merger with or sale to that company or business entity;
 
-You can import contacts from your email account address book to invite them to send you recommendations. We collect, but do not store, the username and password for the email account from which you import your contacts and will only use it for that purpose only. 
+•    Other companies we work with to feature all or part of the property listings or otherwise provide promotional or other services related to our or HomeAway group’s business.  This might include featuring your listings and photographs on other websites;
 
-20
+•    Any third party you have asked us to share your personal data with – such as Facebook if you have asked us to connect with your Facebook account; or
 
-We do not at any time request your credit card information, Account ID, login password, national identification numbers or other Personal Information in a non-secure or unsolicited email or phone call. 
+•    Any legal or governmental entity pursuant to a subpoena or other legal request, or as necessary to remit certain taxes in the course of processing payments.
 
-21
+You may have accessed our Site through a hyperlink from the website of one of our partners.  If so, you consent to your personal details and purchase information, including behavioral patterns, being shared with that trading partner in accordance with our contractual relationship with them.
 
-Listings posted by Hosts, ratings and reviews of Hosts and Guests and the Profile Information of Hosts and Guests are public information on the Site. 
+In the event that any part of the HomeAway group is sold, or some of its assets transferred to a third party, your personal information, as a valuable asset, may also be transferred.  Potential purchasers and their advisors may have access to data as part of the sale process. We will request the acquiring party to follow the practices described in this Privacy Policy with respect to previously collected information.  Nevertheless, we cannot promise that an acquiring party or the merged entity will have the same privacy practices or treat your information the same as described in this Privacy Policy. Similarly, your personal information may be passed on to a successor in interest in the unlikely event of a liquidation, bankruptcy, or administration. Our customer database could be sold separately from the rest of the business, in whole or in a number of parts.  It could be that the purchaser's business is different from ours, too.
 
-22
+**Communications**
 
-When you create an Account, we will set up your Account profile page. Your Account profile page includes your name. You can select Personal Information you wish to be included in your Account profile page, including a profile picture, your SNS groups, your SNS friends or connections who are also Members, connections between your Account and SNSes, biography and links to your Listings ( **Profile Information** ). We publicly display on the Site your Profile Information in your Account profile. With your prior permission, we display on third party sites your Profile Information. Information you choose to provide as part of your Profile Information is public. You control how much you want other Users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage you to control carefully Profile Information. You can review and revise your Profile Information at any time. 
+We and the HomeAway group may offer different communications from time to time intended to enhance the services we or they offer. Users may cancel their subscription to these communications at any time, although it may take a short while for the changes in your preferences to become effective.
 
-23
+**Surveys**
 
-We may publish your Listing publicly on the Site and enable third parties to publish Listings on their websites through the use of widgets. We may identify the geographical location of your Listing with a map and show the neighborhood of your Listing. We do not disclose your address until you close a transaction with another Member. 
+We also use surveys to collect information about our users. From time to time, we request users' input in order to evaluate potential features and services. The decision to answer a survey is completely yours. We use information gathered from surveys to improve our services.
 
-24
+**Games**
 
-If you make a booking, we will disclose the following information to the relevant Host: (a) your name, (b) a link to your Account profile page, (c) names of your SNS friends or associations, and (d) an indication that the name that you provided to travelmob matches the name that you provided to the SNSs linked your to your Account. This information is intended to enable the Host to decide whether or not to accept your booking. 
+From time to time we may provide games on the Site.  These games may allow for connectivity with other users or third parties. The rules for each game will specify how the information gathered from you will be used and disclosed if it is different than as described in this Privacy Policy. If that is the case you consent to your personal data being used and transferred accordingly.
 
-25
+**Mobile Applications**
 
-When a Host confirms a booking we will disclose to the Guest the Host's Identify Information, including name, phone number, address and email. We disclose to the Host the Guest's Identify Information, including name, phone number and email. A Guest's Billing Information is not disclosed to a Host. 
+When you download or use apps relating to our websites, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. If you have questions about how to disable your device's location services, we recommend you consult your device’s manual, or contact your mobile service carrier or your device manufacturer.
 
-26
+**Telephone Calls**
 
-We may disclose to third parties aggregated information that does not include Personal Information, Non-Identifying Information and Log Data for industry analysis, demographic profiling and other purposes. 
+As well as collecting data online and from correspondence we may also speak with you face to face (for example at a Summit or other conference) or by telephone.  We may record telephone conversations for quality assurance and training purposes.  This Privacy Policy also governs those recordings and we keep this data in the same way that we keep other data.  Recordings of calls may also be transferred to locations or processed worldwide.
 
-27
+**Inquiries and other Electronic Communications**
 
-We may employ third parties to facilitate, provide or otherwise assist with the Service, including maintenance, database management, web analytics, fraud detection and improvement of the Site features and analysis of Site and Service usage. These third parties may have access to your Personal Information solely if they need to know and subject to confidentiality obligations. We may provide Personal Information to our business partners or other entities for the purpose of providing you information on goods or services. You can at any time opt out receiving these communications. Third party vendors, including Google, use cookies to serve ads based on a User's prior visits to travelmob. You can disable Google cookies at <http://www.google.com/privacy_ads.html>. 
+Travelers may send inquiries to property owners or managers via clickable links on the listings on a Site. Further, travelers and property owners or managers may communicate with each other via tools on a Site. If you choose to send an inquiry or booking request through these links, your personal information, including your email address and any other information you supply (unless the Site specifies otherwise), will be visible to the property owner or manager in question so that they might reply directly to you. Your details may also be sent to us and we have access to those communications even if you contact the property owner or manager directly. If property owners or managers and travelers further engage in communications through a Site, we also have access to those communications, which we monitor for compliance and security purposes. Additionally those inquiries and messages may be hosted on, be processed by or transmit through our servers. If you engage in such communications and call the other party, you may be asked to leave a return telephone number. Do not share information in the e-mail or phone call that you are not prepared to allow such person and HomeAway group to have, including, but not limited to, credit card and bank account information. In addition inquiries and messages can be sent to the individual member you selected and to our system. Our customer service team may share such communications with property owners or managers. We may also from time to time, use third party e-mail servers to send and track receipt of such communications, and analyze the pattern of such communications for trust and security purposes as well as to gather data, such as inquiry and booking data (on an anonymous basis), to assist us in better understanding our business.
 
-28
+**How Do We Protect Your Personal Information Once We Have It?**
 
-We will disclose information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal processes (including subpoenas), to protect the safety, property or rights of any person or to stop activity which is or may be illegal, unethical or actionable. 
+We take reasonable technical and organizational measures to guard against unauthorized or unlawful processing of your personal data and against accidental loss or destruction of, or damage to, your personal data. While no system is completely secure, we believe the measures implemented by the Site reduce our vulnerability to security problems to a level appropriate to the type of data involved. We have security measures in place to protect our user database and access to this database is restricted internally. However, it remains your responsibility:
 
-29
+•    To protect against unauthorized access to your use of the Site;
 
-We may sell, transfer or otherwise deal with any of our assets, including your Personal Information, in connection with a merger, acquisition or other reorganization, whether solvent or insolvent. 
+•    To ensure no one else uses the Site while your machine is logged on to the Site (including by logging on to your machine through a mobile, Wi-Fi or shared access connection you are using);
 
-30
+•    To log off or exit from the Site when not using it;
 
-You may review, update, correct or delete Personal Information by contacting us at[ help@travelmob.com](mailto:help@travelmob.com) or editing your profile. You can cancel your Account with the Cancel Account feature of the Service. Cancelling your Account does not remove reviews you post on the Site, which remain public. After you cancel your account, we may continue to retain information about you, as required for our business purposes or to comply with applicable data retention laws. 
+•    Where relevant, to keep your password or other access information secret.  Your password and log in details are personal to you and should not be given to anyone else or used to provide shared access for example over a network; and
 
-31
+•    To maintain good internet security.  For example if your email account or Facebook account is compromised this could allow access to your account with us if you have given us those details and/or permitted access through those accounts. If your email account is compromised it could be used to ask us to reset a password and gain access to your account with us.
 
-When you enter sensitive information (including Billing Information) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect Personal Information during transmission and in storage. No method of transmission over the Internet or method of electronic storage is secure. We do not provide any security service standards or assurances. If you have any questions about Site security, you can contact [support@travelmob.com](mailto:support@travelmob.com). 
+You should keep all of your account details secure.  If you think that any of your accounts has been compromised you should change your account credentials with us, and in particular make sure any compromised account does not allow access to your account with us.  You should also tell us as soon as you can, so that we can try to help you keep your account secure and if necessary warn anyone else who could be affected.
 
-32
+If you have asked us to share data with third party sites, however (such as Facebook) their servers may not be secure. Payment card and bank account information is generally stored by our payment processing partners and we contractually require them to keep that data secure.  We also use third parties to help us optimize our Site flow, content and advertising (see below). 
 
-Where required by applicable laws, and subject to restrictions required for investigation, restoration and law enforcement, we will as soon as practicable disclose to you breaches of security, confidentiality or integrity of your unencrypted information. 
+Note that, despite the measures taken by us and the third parties we engage, the Internet is not secure.  As a result others may nevertheless unlawfully intercept or access private transmissions or data.
 
-33
+**What are Cookies, Web Beacons and Clear GIFs and Why Do We Use Them?**
 
-The Site contains links to other websites. These links are not endorsements, authorizations or representations relating to any third party or their privacy or other practices. We do not control any third party websites. These websites may place cookies or other files on your computer, collect data or solicit information from you. They have their own terms of use relating to personal information and privacy. You use and deal with these other websites at your own risk. 
+A "cookie" is a small file placed on your hard drive by some of our web pages.   We, or third parties we do business with, may use cookies to help us analyze our web page flow, customize our services, content and advertising, measure promotional effectiveness and promote trust and safety. Cookies are commonly used at most major transactional websites in much the same way we use them here at our Site.
 
-34
+You may delete and block all cookies from this site, but parts of the site will not work. We want to be open about our cookie use.
 
-With your consent we may post your testimonial on the Site and identify you as the author. If you want your testimonial removed please contact [support@travelmob.com](mailto:support@travelmob.com). 
+Even if you are only browsing the Site, certain information (including computer and connection information, browser type and version, operating system and platform details, and the time of accessing the Site) is automatically collected about you. This information will be collected every time you access the Site and it will be used for the purposes outlined in this Privacy Policy.
 
-35
+You can reduce the information cookies collected from your device.  An easy way of doing this is often to change the settings in your browser. If you do that you should know that (a) your use of the Site may be adversely affected (and possibly entirely prevented), (b) your experience of this and other sites that use cookies to enhance or personalize your experience may be adversely affected, and (c) you may not be presented with advertising that reflects the way that you use our and other sites. You find out how to make these changes to your browser at this site: www.allaboutcookies.org/manage-cookies/.  Unless you have adjusted your browser settings so that it will refuse cookies, our system will send cookies as soon as you visit our Site.  By using the Site you consent to this, unless you change your browser settings.  
 
-The Site is not directed to individuals under 18. We do not knowingly collect information from children under 13. If parents or guardians become aware that their child has provided us with Personal Information without their consent, they should contact us at[ support@travelmob.com](mailto:support@travelmob.com). We will delete the Personal Information of a child under 13 that we are aware of. 
+We gather and share information concerning the use of the Site by property owners and managers and travelers with one or more third-party tracking companies for the purpose of reporting statistics. To do this, some of the pages you visit on our Site use electronic images placed in the web page code, called pixel tags (also called "clear GIFs" or "web beacons") that can serve many of the same purposes as cookies.
 
-37
+Web beacons may be used to track the traffic patterns of users from one page to another in order to maximize web traffic flow. Our third-party advertising service providers may also use web beacons to recognize you when you visit the Site and to help determine how you found the Site. If you would like more information about this and to know your choices about not having this information used by these companies, please visit: the Digital Advertising Alliance’s website,  _[http://www.aboutads.info/](https://web.archive.org/web/20171228000410/http:/www.aboutads.info/)_ , or the Network Advertising Initiative’s website,  _[http://networkadvertising.org/consumer/opt_out.asp](https://web.archive.org/web/20171228000410/http:/networkadvertising.org/consumer/opt_out.asp)_.
 
-This Privacy Policy is governed by Singapore law. The parties submit to the non-exclusive jurisdiction of the Singapore courts.
+Your browser or device may include “Do Not Track” functionality. Our information collection and disclosure practices, and the choices that we provide to visitors, will continue to operate as described in this Privacy Policy, whether or not a Do Not Track signal is received.
+
+**Phishing or False emails**
+
+If you receive an unsolicited email that appears to be from us or a property owner or manager that requests personal information (such as your credit card, login, or password), or that asks you to verify or confirm your account or other personal information by clicking on a link, that email was likely to have been sent by someone trying to unlawfully obtain your information, sometimes referred to as a "phisher" or "spoofer." We do not ask for this type of information in an email. Do not provide the information or click on the link.  Please contact us at  _[Customer Support](https://help.homeaway.com/)_  if you get an email like this.
+
+**Job applicants, current and former employees**
+
+If you use the Site to apply to work with us, we will use the information you supply to process your application and to monitor recruitment statistics.  Where we want to disclose information to a third party, for example where we want to take up a reference, will not do so without informing you beforehand unless the disclosure is required by law.  Personal information about unsuccessful candidates will be held for 12 months after the recruitment exercise has been completed, it will then be destroyed or deleted.  We retain de-personalized statistical information about applicants to help inform our recruitment activities . HomeAway is based in the US and employee and recruitment data is held there and in other HomeAway group locations worldwide.
+
+Once a person has taken up employment with us, we will compile a file relating to their employment.  At that stage we will give you more details about how we hold employee details.
+
+**Your California Privacy Rights**
+
+If you are a California resident, California law permits you to request certain information regarding the disclosure of your personal information by us and our related companies to third parties for the third parties' direct marketing purposes.  To make such a request, please use the contact information below.
+
+**How do I correct or update my information?**
+
+If you are a property owner or manager, the best way of seeing any personal information processed by us is to log on to your account by using the ‘Owner Login’ tab at the top of the screen.  You can see your basic details and correct or update them there at any time to suit you.  We also want to give you the opportunity to identify any inaccuracies in any other information we hold about you. Where possible, if we're told about the inaccuracy of any personal information, we will make appropriate corrections. You can ask to see, update or amend any information we hold on you by contacting us using the information below. We may not be able to delete your personal information without also deleting your user account.  You will not be permitted to examine the personal information of any other person or entity.  In order to verify your identity, you may be required to provide us with personal information prior to accessing any records containing information about you.  We may not accommodate a request to change or delete personal information if we believe doing so would violate any law or legal requirement, or cause the information to be incorrect.
+
+We will honor any legal right that you have to access, modify or erase your personal information.  To request access and to find out whether any fees may apply, if permitted by applicable state, federal, or national law (outside of the United States), please contact us using the information below.
+
+**How do I opt-out of receiving marketing communications from you?**
+
+We will contact you from time to time for marketing purposes. Unless you have opted out, this could include contacting you by phone or email.
+
+You may opt-out of receiving marketing communications from us by the following means:
+
+1.    Contact us at  _[Customer Support](https://help.homeaway.com/)_ ;
+
+2.    Follow the instructions included in each communication or newsletter;
+
+3.    Use the  _[Unsubscribe function](http://mailaway.homeaway.com/PreferenceCenter)_ ; or
+
+4.    Mail the request to us at 1011 W. Fifth Street, Suite 300 Austin, Texas 78703.
+
+Please remember that if you change your preferences it may take a short time for those preferences to become effective.
+
+**How long will we keep your personal data?**
+
+We will retain your personal data only as long as is necessary for the purposes to which you consent under the Terms and Conditions and this Privacy Policy, or as is required by applicable law, and then we will delete it.
+
+**How do I contact you?**
+
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at  _[Customer Support](https://help.homeaway.com/)_. 
