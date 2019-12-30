@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emojipedia.org privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623001539id_/https%3A//emojipedia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emojipedia.org privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230020538id_/https%3A//emojipedia.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ Emojipedia Pty Ltd does not knowingly collect personal identifiable information 
 
 **Unsubscribe or Opt-Out**
 
-All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to Info@emojipedia.org. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out. 
+All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out. 
 
 **Links to Other Web Sites**
 
@@ -68,7 +68,7 @@ Through the use of this website, you are hereby accepting the terms and conditio
 
 If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
 
-**Email:** privacy@emojipedia.org
+**Email:** [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Telephone Number:** +61 3 9015 9618
 
