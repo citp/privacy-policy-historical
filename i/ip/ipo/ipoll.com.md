@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipoll.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609104625id_/https%3A//www.ipoll.com/en/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipoll.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230131505id_/https%3A//www.ipoll.com/en/policies/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 
 **First Effective: August 15, 2013**
 
-**This Version: Effective April 1st, 2017**
+**This Version: Effective December 30, 2019**
 
 The following sets forth the privacy policy for the Dynata,LLC f/k/a Survey Sampling International, LLC online panel communities, the Dynata,LLC f/k/a Survey Sampling International, LLC panel websites and/or the Dynata,LLC f/k/a Survey Sampling International, LLC mobile applications (collectively “Application/Services”) offered by Dynata,LLC f/k/a Survey Sampling International, LLC and its parent, subsidiary and affiliated companies (collectively “ ** _Dynata_** ”). 
 
@@ -601,6 +601,104 @@ The Application/Services is not designed for, or intended for use by, any indivi
 **What security is available for the personal data and other information collected through the Application/Services?**
 
 Dynata maintains an appropriate level of technical, administrative, and physical safeguards to protect personal data and other information disclosed or collected by Dynata. Dynata reviews, monitors, and evaluates its privacy practices and protection systems on a regular basis. Despite the safeguards we implement, transmissions over the Internet and/or a mobile network are not totally secure and Dynata does not guarantee the security of online transmissions. Dynata is not responsible for any errors by individuals in submitting personal data to Dynata.
+
+**FOR CALIFORNIA RESIDENTS:**
+
+**Your Rights Under the California Consumer Protection Act of 2018 (“CCPA”)**
+
+Pursuant to the California Consumer Protection Act of 2018 (“CCPA”), and subject to certain exceptions and limitations, Californians can contact Dynata to exercise the rights described below with respect to certain personal information that Dynata holds about them. To the extent those rights apply to you, they are described below. Dynata also handles certain personal information on behalf of Dynata customers. You should contact those customers to exercise any rights you may have with respect to that personal information.
+
+Right to Know About Personal Information Collected, Disclosed, or Sold
+
+You have the right to request that we provide you with details about the personal information we collect, use, disclose and sell. You can submit a verifiable consumer request by clicking here. You can also submit your request via our toll-free number 833-681-0436. Dynata reserves the right to verify your identity to our satisfaction, including by asking you to log into your account if you have one.
+
+You are entitled to receive the following:
+
+  * The categories of your personal information that Dynata has collected in the preceding 12 months
+  * The categories of sources from which that information was collected
+  * The business/commercial purpose for the collection or selling
+  * The categories of third parties with whom Dynata shares personal information
+  * The specific pieces of personal information Dynata has collected about you (subject to some exceptions)
+
+
+
+Because Dynata has disclosed or sold (as those words are defined in the CCPA) personal information to third parties in the last 12 months, you are also entitled to receive:
+
+  * The categories of personal information that Dynata has disclosed or sold in the past 12 months
+
+
+
+_Right to Request Deletion of Personal Information_
+
+You have the right to request deletion of the personal information we have collected about you (subject to some exceptions). You can submit your request as described above, and we reserve the right to conduct the verification described above.
+
+_Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights_
+
+You have the right not to receive unlawful discriminatory treatment by Dynata for the exercise of your privacy rights under the CCPA.
+
+_Right to Opt-Out of Sale of Personal Information_
+
+You have the right to opt-out of the sale of your personal information by Dynata. You can submit a verifiable consumer request by clicking here or by calling 833-681-0436. You may also request to opt-out by sending an email to privacy@dynata.com. 
+
+**List of Categories of Personal Information to be Collected and May Have Been Sold or Disclosed**
+
+_Categories of Personal Information Collected_
+
+Dynata collects personal information from research participants during and after registration with a panel, including, without limitation, during participation in a survey and in connection with the receipt and redemption of rewards and incentives and/or during the Application/Services registration and download process. 
+
+_The categories of personal information we may collect include:_
+
+  * “Identifiers” such as 
+    * Name
+    * Address(es)
+    * Telephone number(s) (including home, cell, and/or business telephone numbers)
+    * Email address(es)
+    * Date of birth
+    * Internet Protocol address
+    * Unique device identification number (such as identifiers for analytics or advertising)
+    * Network provider user ID (a number uniquely allocated to you by your network provider)
+    * Media Access Control (MAC) address 
+    * International Mobile Equipment Identity
+    * Unique cookie identifiers
+  * Internet or other electronic network activity information, and other information collected through automated means (more detail can be found here), such as: 
+    * Information about your device (e.g., device operating system, the other applications on your device, device network provider, device type, time zone, network status, browser type, browser identifier and other information that alone or in combination may be used to uniquely identify your device)
+    * Geolocation
+    * Cookies and similar technology
+    * Social media information
+    * Log files
+    * Digital fingerprinting
+    * Watermarking
+    * Browsing activity
+  * Other behavioral information
+  * Professional or employment-related information, including occupation
+  * Education information
+  * Additional content/material you submit, including photos, videos and/or similar content
+  * Characteristics of potentially protected classifications under California, federal or international law (e.g., health and medical conditions, sexual orientation or sexual life, political opinions/views, race/ethnic origin, gender, religious and philosophical beliefs and trade-union membership)
+  * Other medical information
+  * Demographic information
+
+
+
+All of the information above was collected for the purposes described here. In CCPA terms, these purposes, which are described further in that section of our Privacy Policy, include but are not limited to the following examples:
+
+  * Auditing related to a current interaction with you and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance with the CCPA and other standards;
+  * Detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity;
+  * Debugging to identify and repair errors that impair existing intended functionality;
+  * Short-term, transient uses;
+  * Performing or using services, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing financing, providing or using advertising or marketing services, providing or using analytic services, or providing or using similar services;
+  * Undertaking internal research for technological development and demonstration;
+  * Undertaking activities to verify or maintain the quality or safety of services and devices, and to improve, upgrade, or enhance services and devices; and
+  * Facilitating the operational purposes of Dynata or our service providers. 
+
+
+
+_Categories of Personal Information that May Have Been Sold_
+
+Dynata sold all of the above categories of personal information in the last 12 months.
+
+_Categories of Personal Information that Were Disclosed_
+
+Dynata disclosed all of the above categories of personal information in the last 12 months.
 
 **Who can I contact with questions about this Policy?**
 
