@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpacanada.ca privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331041226id_/https%3A//www.cpacanada.ca/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpacanada.ca privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230201344id_/https%3A//www.cpacanada.ca/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -134,12 +134,14 @@ Last revised: May 25, 2017
 
 ## Highlights
 
-View our complete coverage of the 2019 federal budget. We have tax highlights, an insightful federal budget analysis as well as video interviews with our experts.
+January 27, 2020
 
-May 22, 2019
+In a world of emerging technologies, changing demographics, and new geopolitical pressures, what role should the Canadian accounting profession play? Learn how you can help CPA Canada's ambitious Foresight initiative to future-proof our profession.
 
-Explore important emerging technologies in accounting, business and finance at this must-attend conference for senior leaders. Connect with peers, experts and pioneers on best-fit technology solutions for your clients or organization.
+January 10, 2020
 
-September 23, 2019
+Attend this year's American Accounting Association (AAA)'s 2020 Management Accounting Section Midyear Meeting. This two-day event includes a research conference, IMA doctoral colloquium and more.
 
-Canada’s dynamic, must-attend CPA event of the year is heading to Montréal with the theme of innovation for sustainability.
+February 10, 2020
+
+Financial sustainability and digital disruption are influencing the future of NFPs. Be equipped to lead through complex change by attending Canada’s premiere event for not-for-profit leaders. 
