@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moderntiredealer.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330204143id_/https%3A//www.moderntiredealer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderntiredealer.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230194923id_/https%3A//www.moderntiredealer.com/privacy-policy) for the most accurate reproduction.*
 
 # Bobit Business Media | Bobit Business Media Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Bobit Business Media privacy policy for all publications, events, and digital properties
 
-Effective May 21, 2018
+Effective June 17, 2019
 
 Bobit Business Media (“BBM” or “we”) recognizes the importance of protecting the privacy of information provided to us. We provide this notice to ensure that your expectations and our practices are aligned and to make you aware of your choices with regard to our use and disclosure of the information you provide to us. We consider all subscribers, customers, members, web visitors, event/webinar/website registrants, conference attendees, and speakers part of the Bobit Business Media community. The following guidelines have been created to demonstrate our commitment to your privacy.
 
@@ -16,8 +16,8 @@ Privacy Manager
 Bobit Business Media  
 3520 Challenger Street  
 Torrance, CA 90503  
-Phone: (310) 533-2440  
-E-mail:  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a6a48534c5b59437a785558534e14595557)
+Phone: (310) 533-2577  
+E-mail:  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#86f6f4eff0e7e5ffc6e4e9e4eff2a8e5e9eb)
 
 ### The Information We Collect
 
