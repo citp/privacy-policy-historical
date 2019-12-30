@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designworldonline.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331184027id_/http%3A//www.wtwhmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designworldonline.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230191403id_/http%3A//www.wtwhmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WTWH Media LLC
 
@@ -17,6 +17,8 @@ We use third parties such as ad servers or network advertisers, to deliver ads
 ### Data Controllers & Security
 
 WTWH can be considered a data controller and processor under the GDPR and as a cloud based company we rely on 3rd parties to process and control data on our behalf. WTWH has chosen vendors that are GDPR compliant and provide the highest standards in data safeguarding, storage and transmission. WTWH designed its platforms and services with built-in data security and privacy services, platform and tools needed to help safeguard sensitive data wherever it resides. WTWH Media implements appropriate technical and organizational measures to ensure a level of security appropriate to the risk.
+
+The California Consumer Privacy Act (CCPA) takes effect on January 1st, 2020. This new privacy law requires businesses to disclose how they treat consumers’ personal information if they process information on individuals residing in the state of California. WTWH Media is exempt from the CCPA Act, but adheres to individual requests for information and data removal. WTWH Media also acts as a data processor or ‘service provider’ and the CCPA does not apply to service providers.
 
 ### How we use the information
 
@@ -46,7 +48,7 @@ Our sites contain links to other Web sites. Links from our sites to other sites 
 
 ### CAN-SPAM
 
-WTWH adheres rigorously to all [CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business) legislation and we always make it easy for opt-in recipients to to opt-out of any communication sent on behalf of WTWH Media. We utilize 3rd party data processors in our emailing campaigns and those parties have been chosen for their adherence to the same CAN-SPAM legislation and data integrity, safety and security. GDPR requires the easy ‘forgetting’ or deletion of user data and WTWH adheres to accommodating these requests. Due to ensuring those users who globally opt-out of email delivery, a unique identifier – an email only in this case – is still stored with our 3rd party processors to ensure that email as an identifier is not added back into our databases.  A user can be added back into our system only if they specifically double opt in via our secure forms to validate the email as owned or authorized by them and then agree to receive communications. All other data associated with a request for deletion will be eliminated from any WTWH system or database.
+WTWH adheres rigorously to all [CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business) legislation and we always make it easy for opt-in recipients to opt-out of any communication sent on behalf of WTWH Media. We utilize 3rd party data processors in our emailing campaigns and those parties have been chosen for their adherence to the same CAN-SPAM legislation and data integrity, safety and security. GDPR requires the easy ‘forgetting’ or deletion of user data and WTWH adheres to accommodating these requests. Due to ensuring those users who globally opt-out of email delivery, a unique identifier – an email only in this case – is still stored with our 3rd party processors to ensure that email as an identifier is not added back into our databases.  A user can be added back into our system only if they specifically double opt in via our secure forms to validate the email as owned or authorized by them and then agree to receive communications. All other data associated with a request for deletion will be eliminated from any WTWH system or database.
 
 ### Updates
 
@@ -56,5 +58,5 @@ From time to time, we may update this privacy notice. We encourage you to period
 
 Please contact Marshall Matheson – Tel +1.888.543.2447 and/or use the form on this page.
 
-The Privacy Notice posted on this site was updated on May 14, 2018  
+The Privacy Notice posted on this site was updated on December 20, 2019  
 
