@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the musescore.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629011000id_/https%3A//musescore.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musescore.org privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230115748id_/https%3A//musescore.com/legal/privacy) for the most accurate reproduction.*
 
-# MuseScore Privacy Policy | MuseScore
+# Musescore Privacy Policy | Musescore
 
-### Effective as of May 25, 2018
+### Effective as of December 13, 2019
 
-MuseScore provides a platform, including websites available at [musescore.com](https://musescore.com/) and [musescore.org](https://musescore.org/) and related mobile applications, which makes available various services, including music-related tools and content (the “Service”). “MuseScore,” or “we” or “us” refers to MuseScore BVBA and the MuseScore Corporate Family in this Privacy Policy (the “Policy”). The MuseScore Corporate Family means MuseScore’s subsidiaries, parent companies, joint ventures and other corporate entities under common ownership and/or any of their agents, consultants, employees, officers and directors.
+MuseScore provides a platform, including websites available at [www.musescore.com](http://www.musescore.com/) and [www.musescore.org](http://www.musescore.org/) and related mobile applications, which makes available various services, including music-related tools and content (the “Service”). “MuseScore,” or “we” or “us” refers to MuseScore BVBA and the MuseScore Corporate Family in this Privacy Policy (the “Policy”). The MuseScore Corporate Family means MuseScore’s subsidiaries, parent companies, joint ventures and other corporate entities under common ownership and/or any of their agents, consultants, employees, officers and directors. 
 
 We at MuseScore respect the privacy concerns of the users of this Service and have created this privacy policy to explain (1) what information we gather from you when you visit our Service, (2) how we may use such information, (3) your choices concerning how we may use such information and (4) the security measures we take to protect such information. Some information is collected on this Service automatically through our technology; other information is collected only when you choose to give it to us (e.g., when you set up an account, register for a contest or sign up for a specific online transaction).
 
@@ -16,9 +16,12 @@ This Policy is intended to provide adequate and consistent safeguards for the ha
 
 Although you should read through the Policy for complete information on how we collect, use, share, and secure information, the following provides a summary of some the most important aspects of or our privacy practices:
 
-  * ​  
-We may use your personally identifiable information to provide you with services, including to process donations or payments you make, to improve our services, and to provide you with information on upcoming events, announcements, and contests. 
+  * We may use your personally identifiable information to provide you with services, including to process donations or payments you make, to improve our services, and to provide you with information on upcoming events, announcements, and contests. 
+
+
   * We may share your personally identifiable information under certain circumstances as disclosed in this Policy. 
+
+
   * We take reasonable measures to secure your personal information, but we cannot promise, and you should not expect, that your personal information will remain secure in all circumstances. 
 
 
@@ -27,36 +30,52 @@ We may use your personally identifiable information to provide you with services
 
 We respect your privacy and are committed to protecting your personal information in compliance with the applicable legislation. This compliance is consistent with our desire to keep you informed and to recognize and respect your privacy rights. We agree to observe the following principles when processing personal information:
 
-  * Data will be processed fairly and in accordance with applicable law. 
+  * Data will be processed fairly and in accordance with applicable law.
+
+
   * Data will be collected for specified, legitimate purposes and not processed further in ways incompatible with those purposes. 
+
+
   * Data will be relevant to and not excessive for the purposes for which they are collected and used. For example data may be rendered anonymous if deemed reasonable, feasible and appropriate, depending on the nature of the data and the risks associated with the intended uses. 
+
+
   * Data subjects in the EU will be asked to provide their clear and unequivocal consent for the collection, processing and transfer of their personal data. 
+
+
   * Data will be accurate and, where necessary kept up up-to-date. Reasonable steps will be taken to rectify or delete personal information that is inaccurate or incomplete. 
+
+
   * Data will be kept only as it is necessary for the purposes for which it was collected and processed. Those purposes shall be described in this Policy. 
+
+
   * Data will be deleted or amended following a relevant request by the concerned data subject, should such notice comply with the applicable legislation each time. 
+
+
   * Data will be processed in accordance with the individual’s legal rights (as described in this Policy or as provided by law). 
+
+
   * Appropriate technical, physical and organizational measures will be taken to prevent unauthorized access, unlawful processing and unauthorized or accidental loss, destruction or damage to data. In case of any such violation with respect to personal data, we will take appropriate steps to end the violation and determine liabilities in accordance with applicable law and will cooperate with the competent authorities. 
 
 
 
 ### Information We Gather Automatically
 
-When you visit this Service, certain non-personally identifying information is recorded automatically by the standard operation of our Internet servers. Information such as the type of browser being used, its operating system, and your computer's Internet Protocol ("IP") address (a number that your Internet service provider assigns to your computer whenever you surf the Internet) is gathered in order to facilitate our online operations and to assure an efficient online experience for you. If you access our Service from a mobile or other device, we may collect information for that device (including operating system, browser, type of device) in order to facilitate our mobile operations and to assure an efficient mobile experience for you. We may use or share this information for security purposes, to generate group statistics about our user community, or as required by law.
+When you visit this Service, certain non-personally identifying information is recorded automatically by the standard operation of our Internet servers. Information such as the type of browser being used, its operating system, and your computer's Internet Protocol ("IP") address (a number that your Internet service provider assigns to your computer whenever you surf the Internet) is gathered in order to facilitate our online operations and to assure an efficient online experience for you. If you access our Service from a mobile or other device, we may collect information for that device (including operating system, browser, type of device) in order to facilitate our mobile operations and to assure an efficient mobile experience for you. We may use or share this information for security purposes, to generate group statistics about our user community, or as required by law.
 
 If you access our Service from a social network like Facebook, MuseScore receives certain information about you from the social network automatically. The information we receive depends on the Service, the social network, and your privacy settings and your friends’ privacy settings on that social network.
 
 For example, MuseScore may collect and store some or all of the following information provided by the social network:
 
-  * ​ your first and last name;
-  * ​ your profile picture or its URL;
-  * ​ your social network ID number (like your Facebook ID number), which is linked to publicly-available information like your name and profile photo;
-  * ​ the social network ID numbers and other public data for your friends;
-  * ​ the login e-mail you provided to that social network when you registered with it;
-  * ​ your physical location and that of the devices you use to access our Services;
-  * ​ your gender;
-  * ​ your birthday and/or age range;
-  * ​ other publicly-available information on the social network; and/or
-  * ​ any other information that you or the social networks share with MuseScore.
+  * your first and last name; 
+  * your profile picture or its URL; 
+  * your social network ID number (like your Facebook ID number), which is linked to publicly-available information like your name and profile photo; 
+  * the social network ID numbers and other public data for your friends; 
+  * the login e-mail you provided to that social network when you registered with it; 
+  * your physical location and that of the devices you use to access our Services; 
+  * your gender; 
+  * your birthday and/or age range; 
+  * other publicly-available information on the social network; and/or 
+  * any other information that you or the social networks share with MuseScore. 
 
 
 
@@ -64,13 +83,17 @@ If you access our Service from a social network, you should also read that socia
 
 Among the purposes for which we may use such generally non-personally identifying information is for identification purposes in the event of an emergency threatening life or property, or where proper legal process allows using such information. For instance, we may use your IP address or other automatically recorded information, in cooperation with your Internet provider, to attempt to identify you if it is necessary to contact you or to bring legal action against you because you are violating the Terms of Service for use for this Service, may be causing injury to or interference (intentionally or unintentionally) with our company's rights or property, or may be adversely affecting other users of this Service or anyone else who could be harmed by your activities.
 
+### Usage Data
+
+We may collect data based on your use of the Service AKA telemetry, and we do not associate such telemetry data with your name. We use such telemetry data to better understand the usage patterns of our Service and the behaviors of our collective audience. At times we may share this information in aggregated anonymous form with third parties. Collection of telemetry data based on your use of the Service is done only if you permit it. The legal basis for this telemetry data processing is our legitimate interest in improving our software and Service.
+
 ### Personal Information You Provide To Us
 
-We may request personally identifying information from you in a variety of contexts. For example, you may provide such data to us if you: (1) complete an online registration form (e.g., registering for an account, various sign-up forms for receiving email newsletters, registering for special offers, entering a contest/sweepstakes or responding to a survey); (2) fill out an order form to request information; (3) register to participate in message boards and chat rooms (if any) and other community features; or (4) purchase any products or services from us or another MuseScore business. Additionally, when you ask for help from our Customer Support team, we will collect and store the contact information you give them (generally, your name and e-mail address), information about your activity on our Services, and your user name. We will also store the communications you have with the Customer Service team and any information in those communications in order to provide support.
+We may request personally identifying information from you in a variety of contexts. For example, you may provide such data to us if you: (1) complete an online registration form (e.g., registering for an account, various sign-up forms for receiving email newsletters, registering for special offers, entering a contest/sweepstakes or responding to a survey); (2) fill out an order form to request information; (3) register to participate in message boards and chat rooms (if any) and other community features; or (4) purchase any products or services from us or another MuseScore business. Additionally, when you ask for help from our Customer Support team, we will collect and store the contact information you give them (generally, your name and e-mail address), information about your activity on our Services, and your user name. We will also store the communications you have with the Customer Service team and any information in those communications in order to provide support.
 
 In such cases, the personally identifying information we request may include your name, email address, mailing address and zip code, phone number, and, where appropriate, a valid credit card number with expiration date (collectively, "Personal Information"). In addition, we may collect other non-personally identifying information such as your date of birth, gender, country of residence, language preference, hobbies and other information regarding your interaction with our Service such as your viewing and listening habits, preferences and other customized activities in which you participate. Of course, you never have to answer any of the questions we ask you (nor choose to view or listen to any multimedia content or otherwise interact with our Service), but refusal to do so may limit the products or services we can offer or provide to you.
 
-When you provide Personal Information to us, we may use that data to create a " **Profile** " page for you, which will be held in a database using reasonable security measures to protect the data from unauthorized access. Others outside Musescore will not be allowed to see the data on your **Profile** page except with your consent (see below). If you register to set up an account, you will be able to access your **Profile** page at any time in order to update your individual Personal Information listed therein (see below under "How Can You Correct or Review Your Personal Information?" for more details).
+When you provide Personal Information to us, we may use that data to create a " **Profile** " page for you, which will be held in a database using reasonable security measures to protect the data from unauthorized access. Others outside Musescore will not be allowed to see the data on your **Profile  **page except with your consent (see below). If you register to set up an account, you will be able to access your **Profile** page at any time in order to update your individual Personal Information listed therein (see below under "How Can You Correct or Review Your Personal Information?" for more details). 
 
 ### How Can Your Personal Information Be Used?
 
@@ -84,7 +107,7 @@ MuseScore keeps track of the websites and pages you visit within the Service, wh
 
 We may have links to third party-operated sites that sell or license certain music, videos, or other goods mentioned, provided, or promoted on MuseScore. Such third party sites are not operated or controlled by MuseScore, and any transactions that you may enter into with such sites will be subject to the privacy and security practices of the merchant with which you are transacting. MuseScore and MuseScore are not responsible for the privacy and security practices of sites not in our immediate control.
 
-We may use your Personal Information and other non-personally identifying information we collect to update you about our products or services or to contact you about exciting offers of new products or services that we believe may be of interest to you. You always have the option to receive fewer or no communications in the future from us by opting out. You may opt out by (a) following the instructions included in the specific communication you no longer wish to receive, (b) sending an email to [privacy@musescore.com](mailto:privacy@musescore.com) and explaining how you would like to modify your preferences, or (c) accessing your Profile page and modifying how you would like to modify your preferences.
+We may use your Personal Information and other non-personally identifying information we collect to update you about our products or services or to contact you about exciting offers of new products or services that we believe may be of interest to you. You always have the option to receive fewer or no communications in the future from us by opting out. You may opt out by (a) following the instructions included in the specific communication you no longer wish to receive,  (b) sending an email to privacy@musescore.com and explaining how you would like to modify your preferences, or (c) accessing your Profile page and modifying how you would like to modify your preferences.
 
 Finally, without any specific approval from you, we may develop general aggregate data (i.e., data that cannot be used to identify specific individuals) about our user community that is partly based on information about you and your transactions with MuseScore. For example, hypothetically, you might be one of 1,000,000 customers between the ages of 25 and 35. We may share such aggregate statistics with other MuseScore-related companies without your consent.
 
@@ -94,13 +117,13 @@ When you give Personal Information to MuseScore in connection with a contest, we
 
 Outside MuseScore
 
-When you give Personal Information to MuseScore, we may ask you to allow us to share that data (together with non-personally identifying information you may provide) with our promotional partners and third-party advertisers. In such instances, our general practice is to ask you to "opt-in" to share such data and information on, for example, a specific promotion, registration page or sweepstakes. However, in some instances, we may ask you to "opt-out" from sharing such data and information with a given promotional partner or third party advertiser in connection with a specific promotion, registration page or sweepstakes. If you prefer, you may give us blanket permission to share your Personal Information with all of our promotional partners and third-party advertisers. Conversely, you may also choose not to allow us to share your Personal Information with any other companies outside MuseScore.
+When you give Personal Information to MuseScore, we may ask you to allow us to share that data (together with non-personally identifying information you may provide) with our promotional partners and third-party advertisers. In such instances, our general practice is to ask you to "opt-in" to share such data and information on, for example, a specific promotion, registration page or sweepstakes. However, in some instances, and where law permits, we may ask you to "opt-out" from sharing such data and information with a given promotional partner or third party advertiser in connection with a specific promotion, registration page or contests. If you prefer, you may give us blanket permission to share your Personal Information with all of our promotional partners and third-party advertisers. Conversely, you may also choose not to allow us to share your Personal Information with any other companies outside MuseScore.
 
-If you consent to share your Personal Information with our promotional partners and third-party advertisers, you are allowing such parties to use such Personal Information and to contact you in accordance with their own privacy policies. You have the option to change your mind and to stop us from further sharing your Personal Information with our promotional partners and third-party advertisers by modifying your preferences or by contacting [privacy@musescore.com](mailto:privacy@musescore.com) and explaining how you would like to modify your preferences.. We will not retrieve any Personal Information shared with our promotional partners and third-party advertisers prior to your decision to opt-out. If you wish to limit or discontinue receiving further communications from a promotional partner or third-party advertiser, please contact that company directly in the manner indicated in its own communications with you.
+If you consent to share your Personal Information with our promotional partners and third-party advertisers, you are allowing such parties to use such Personal Information and to contact you in accordance with their own privacy policies. You have the option to change your mind and to stop us from further sharing your Personal Information with our promotional partners and third-party advertisers by modifying your preferences or by contacting privacy@muscsore.com and explaining how you would like to modify your preferences.. We will not retrieve any Personal Information shared with our promotional partners and third-party advertisers prior to your decision to opt-out. If you wish to limit or discontinue receiving further communications from a promotional partner or third-party advertiser, please contact that company directly in the manner indicated in its own communications with you.
 
-Without any specific approval from you, MuseScore may develop general aggregate data (i.e., data that cannot be used to identify specific individuals) about you that is partly based on information about you and your transactions us. We may share such aggregate statistics with promotional partners and third-party advertisers without your consent.
+Without any specific approval from you, MuseScore may develop general aggregate data (i.e., data that cannot be used to identify specific individuals) about you that is partly based on information about you and your transactions us. We may share such aggregate statistics with promotional partners and third-party advertisers without your consent. 
 
-Finally, we may use your Personal Information in connection with third-party advertisers who serve ads to you while visiting an MuseScore Service. These third-party advertisers may use your Personal Information (not including any personally identifying information you may provide) in order to generate advertisements about goods and services that may be of interest to you. If you would like to know more about this practice and to obtain information about how third-party advertisers use your Personal Information to select advertisements please click [here](http://www.networkadvertising.org/).
+Finally, we may use your Personal Information in connection with third-party advertisers who serve ads to you while visiting an MuseScore Service.  These third-party advertisers may use your Personal Information (not including any personally identifying information you may provide) in order to generate advertisements about goods and services that may be of interest to you.  If you would like to know more about this practice and to obtain information about how third-party advertisers use your Personal Information to select advertisements please click _[here](http://networkadvertising.org/) _.
 
 Service Providers
 
@@ -108,21 +131,27 @@ We may employ third party companies to provide customer support, perform Website
 
 For Legal Enforcement Purposes
 
-We reserve the right to disclose your Personal Information, including credit card information, as required by law or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against you if you are violating the Terms of Service for this Service or may be causing injury to or interference (intentionally or unintentionally) with our company's rights or property, other users of this Service or anyone else who could be harmed by your activities. Additionally, MuseScore cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of MuseScore or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, an illegal, unethical or legally actionable activity.
+We reserve the right to disclose your Personal Information, including credit card information, as required by law or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against you if you are violating the Terms of Service for this Service or may be causing injury to or interference (intentionally or unintentionally) with our company's rights or property, other users of this Service or anyone else who could be harmed by your activities. Additionally, MuseScore cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of MuseScore or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, an illegal, unethical or legally actionable activity.
 
 As an Asset of MuseScore
 
 If MuseScore becomes involved in a merger, acquisition, or any form of sale or transfer of some or all of its assets, your information will be transferred to the acquiring entity. In such a situation, you will be provided with notice that a transfer of your information is imminent, and you will be given an opportunity to opt-out of the transfer of your information.
 
+### Do Not Sell My Personal Information
+
+California law requires that we maintain a separate webpage that allows you to opt out of the sale of your personal information, which can be accessed by clicking the link below:
+
+[Do Not Sell My Personal Information](https://musescore.com/legal/do-not-sell-my-personal-information)
+
 ### How Can You Correct or Review Your Personal Information?
 
-You can access, review, update and correct Personal Information you have provided us by clicking on the My Profile tab at the top of this page. If you prefer, you can also contact us by sending an email to [privacy@musescore.com](mailto:privacy@musescore.com) and explaining how you would like to modify your preferences.
+You can access, review, update and correct Personal Information you have provided us by clicking on the My Profile tab at the top of this page. If you prefer, you can also contact us by sending an email to privacy@musescore.com and explaining how you would like to modify your preferences.
 
 ### Safeguarding Your Personal Information
 
-MuseScore cares about the security of your Personal Information. We follow generally accepted industry security standards to safeguard and help prevent unauthorized access, maintain data security and correctly use such Personal Information. When you provide credit card information, we use secure socket layer (SSL) encryption for that data.
+_Information security._ To safeguard against unauthorized access to personal information by third parties, all electronic personal information held by MuseScore is maintained on systems that are protected by up-to-date secure network architectures that contain firewalls and intrusion detection devices. The data saved in servers is “backed up” (i.e. the data are recorded on separate media) to avoid the consequences of any inadvertent erasure, destruction or loss otherwise. The servers are stored in facilities with high security, access restricted to unauthorized personnel, fire detection and response systems.
 
-Despite many advances in information security technology and procedures, however, no commercially deployed method of information transfer over the Internet or electronic data storage is known to be 100% secure. As a result, while we do strive to use modern and commercially reasonable means to protect your Personal Information, we cannot guarantee the absolute security of that information during its transmission or its storage in our systems.
+_Physical and administrative security._ We employ reasonable physical and administrative safeguards to protect your personal information. While we will use such efforts, we cannot and will not insure the security of your information. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorized third party access or other acts of third parties, or acts or omissions beyond our reasonable control.
 
 ### For Parents Concerning the Privacy of Information on Their Children
 
@@ -132,13 +161,13 @@ Children under 13 are not allowed to use MuseScore. If you are based in the EEA 
 
 MuseScore is a worldwide service. By using MuseScore, you authorize us to transfer and store your information outside your home country, including in the United States, for the purposes described in this policy. The privacy protections and the rights of authorities to access your information in these countries may not be the same as in your home country.
 
-We take additional measures when information is transferred from the European Economic Area (EEA). This includes having standard clauses approved by the European Commission in our contracts with parties that receive information outside the EEA. We also rely on European Commission adequacy decisions about certain countries, as applicable, for data transfers to countries outside the EEA.
+We take additional measures when information is transferred from the European Economic Area (EEA). This includes having standard clauses approved by the European Commission in our contracts with parties that receive information outside the EEA. We also rely on European Commission adequacy decisions about certain countries, as applicable, for data transfers to countries outside the EEA.
 
 ### Cookies
 
 A "cookie" is a small text file that an Internet Service can place on your computer's hard drive for record-keeping purposes. Cookies make using this Service easier by, among other things, saving your passwords and preferences for you, keeping track of your shopping cart when you visit an online store or other similar purposes, and to help identify you whenever you return to our Service, so you do not need to reenter your identification information. Most Internet browsers are initially set up to accept cookies. However, you can reset your browser to refuse all cookies or to alert you when a cookie is being sent (note: you may need to consult your browser's "Help" area for instructions on how to do that). If you choose to disable your cookies setting or refuse to accept a cookie, some parts of this Service will not function properly or may perform considerably slower. For example, without cookies, you will not be able to set personalized preferences or you may have difficulty downloading tablatures, watching videos or utilizing the Community Forums. Some of our web pages may contain electronic images (called "Clear GIFs", "Single-Pixel GIFs", or "Web Beacons") that allow us to count page views or to access cookies. In general, any electronic image viewed as part of a web page, including an ad banner, can act as a Clear GIF. Typically, though, Clear GIFs are very small (1-by-1 pixel size) files. They are often invisible on a web page, but their presence can be detected within many Internet browsers by setting your browser to view web page "sources". Clear GIFs are so small in order not to use valuable space on the computer screen that is better used to display helpful content. We may also include Clear GIFs in our email products in order to determine information about the opening and reading of such emails. In addition, some advertising networks that serve ads on our web Service may occasionally use Clear GIFs within banner advertisements. Clear GIFs set by MuseScore generally are not used to collect, gather, monitor, or share personal information about our users, though they can be used in conjunction with cookies to record particular actions. We use Clear GIFs primarily to compile aggregated, anonymous statistics about web Service or email product usage.
 
-Some of the advertisements and other services that appear on our web Service(s) are delivered to you by Internet advertising companies. These companies utilize certain technologies including cookies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our sites and other web sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/)
+Some of the advertisements and other services that appear on our web Service(s) are delivered to you by Internet advertising companies. These companies utilize certain technologies including cookies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our sites and other web sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/)
 
 ### Message Boards, Chat Rooms and Instant Messaging
 
@@ -150,15 +179,15 @@ We do not endorse and are not responsible for the content or practices of web si
 
 ### How to Contact Us
 
-If you have any questions or complaints about our Privacy Policy, you can contact us at Octaaf Soudanstraat 22, Sint-Denijs-Westrem, 9051 Belgium or [privacy@musescore.com](mailto:privacy@musescore.com). When we receive such inquiries about our Privacy Policy, we will use the Personal Information (such as your email address) only to respond to your question or comment. However, if your question raises one or more issues that affect our promotional partners, we may also share your question with them in order to provide a response.
+If you have any questions or complaints about our Privacy Policy, you can contact us at Octaaf Soudanstraat 22, Sint-Denijs-Westrem, 9051 Belgium or privacy@musescore.com. When we receive such inquiries about our Privacy Policy, we will use the Personal Information (such as your email address) only to respond to your question or comment. However, if your question raises one or more issues that affect our promotional partners, we may also share your question with them in order to provide a response.
 
-You may request access to any Personal Information maintained on you by MuseScore at any time by emailing [privacy@musescore.com](mailto:privacy@musescore.com).
+You may request access to any Personal Information maintained on you by MuseScore at any time by emailing privacy@musescore.com.
 
-You may email [privacy@musescore.com](mailto:privacy@musescore.com) to review, update, and revise your personal information.
+You may email privacy@musescore.com to review, update, and revise your personal information.
 
 If any information is inaccurate or incomplete, you may request that the data be amended. It is your responsibility to provide use with accurate personal information about yourself and to inform us of any changes. (e.g. new home address or change of name).
 
-If you demonstrate that the purpose for which the data is being processed in no longer legal or appropriate, the data will be deleted, unless the applicable law requires otherwise. You also have the right to request the deletion of your personal data for any reason by emailing [privacy@musescore.com](mailto:privacy@musescore.com).
+If you demonstrate that the purpose for which the data is being processed in no longer legal or appropriate, the data will be deleted, unless the applicable law requires otherwise. You also have the right to request the deletion of your personal data for any reason by emailing privacy@musescore.com.
 
 ### Obligations to Data Protection Authorities
 
