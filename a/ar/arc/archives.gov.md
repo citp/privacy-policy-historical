@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archives.gov privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628152210id_/https%3A//www.archives.gov/global-pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archives.gov privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230103630id_/http%3A//www.archives.gov/global-pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Use Policies | National Archives
 
