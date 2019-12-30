@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazonaws.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230718id_/https%3A//aws.amazon.com/privacy/%3Fnc1%3Df_pr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazonaws.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230233539id_/https%3A//aws.amazon.com/privacy/%3Fnc1%3Df_pr) for the most accurate reproduction.*
 
 # AWS Privacy
 
