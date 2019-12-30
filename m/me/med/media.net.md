@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the media.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224412id_/https%3A//www.media.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media.net privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230222610id_/https%3A//www.media.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Media.net
 
@@ -33,12 +33,12 @@ When you register to participate in Media.net’s program for use of Media.net T
 
 Additionally, we may also collect certain others types of information that, along Personally Identifiable Data, may be considered and specifically named "Personal Data" in certain jurisdictions, including the European Union (“EU”), such as: 
 
-  * _Technical Data,_ which includes internet protocol (IP) address, cookies, browser and device information, location data and your login data.
+  * _Technical Data,_ which includes internet protocol (IP) address, cookies, browser and device information, mobile device identifiers, location data and your login data.
   * _Usage Data,_ which includes information about how you use our Website and Partner Sites and advertising we serve on those sites including how many times you viewed the ad, clicked the ad etc to improve our Services and also mitigate fraudulent activities.
 
 
 
-We collect Technical Data and Usage Data regarding your behavior and usage patterns on our Website and on our Partner Sites. We collect this type of information about you using cookies, web beacons, and other web tools ("Tools"). We do not use these Tools to store any Personally Identifiable Data. We do not have access to or control the Tools used by third parties on our Website or on any Partner Sites, and this policy does not govern the use of Tools by these third parties. Some of the Tools and the ways in which we use them are further described below: 
+We collect Technical Data and Usage Data regarding your behavior and usage patterns on our Website, on our mobile applications (to the extent downloaded to your mobile device) and on our Partner Sites. We collect this type of information about you using cookies, web beacons, and other web tools ("Tools"). We do not use these Tools to store any Personally Identifiable Data. We do not have access to or control the Tools used by third parties on our Website or on any Partner Sites, and this policy does not govern the use of Tools by these third parties. Some of the Tools and the ways in which we use them are further described below: 
 
   * To inform us if an advertisement has been served to the same computer before, and if so, when the advertisement was served. These cookies are not used by Media.net to build a profile of a user’s behavior nor are they used by Media.net for the purposes of behavioral tracking or behavioral targeting.
   * To conduct research and identify fraud and malicious activity
@@ -48,7 +48,7 @@ We collect Technical Data and Usage Data regarding your behavior and usage patte
 
 Unless you choose to provide it to us, our Technology does not collect any sensitive consumer information about you during the ad delivery process. Our Technology does not, for example, collect any social security numbers, insurance plan numbers, financial account numbers, precise real-time geographic location derived through location-based services, nor any specific information about your past, present, or potential future health or medical conditions or treatments, including genetic, genomic or family medical history.
 
-Further, while our Technology does not deliver targeted ads based on precise medical conditions or treatments or market prescription drugs, we may generate and serve targeted ads for general health products that do not require a prescription. Examples may include certain health categories like dietary supplements, fitness equipment, weight-loss products, skin-care products etc. For a full list of our health related segments, please [click here.](https://aim.yahoo.com/aim/us/en/optout/categories)
+Further, while our Technology does not deliver targeted ads based on precise medical conditions or treatments or market prescription drugs, we may generate and serve targeted ads for general health products that do not require a prescription. Examples may include certain health categories like dietary supplements, fitness equipment, weight-loss products, skin-care products etc. For a full list of our health related segments, please [click here.](https://about.ads.microsoft.com/en-us/resources/policies/pharmacy-and-health-care-products-and-services-policies)
 
 **IF YOU ARE SITUATED IN THE EU, PLEASE SEE THE SECTION “ADDITIONAL EU DISCLOSURES” THAT PERTAIN TO OUR COLLECTION, USE AND DISCLOSURE OF YOUR PERSONALLY IDENTIFIABLE DATA AND PERSONAL DATA AND ADDITIONAL RIGHTS YOU HAVE UNDER APPLICABLE LAW.**
 
@@ -87,7 +87,7 @@ Subject to the section titled “Additional EU Disclosures”, we may share the 
 
 ### _Opting out of interest based advertising_
 
-As noted above, our Technology uses cookies. Your browser may give you the ability to adjust your settings to delete or disable cookies. If you choose to disable cookies, you may not be able to use certain features on our Partner Sites you visit or take full advantage of our Technology. You can also opt-out of receiving personalized ads from us and other third party advertisers and ad networks who are members of the Network Advertising Initiative ("NAI"). The NAI's opt-out tool can be found here <http://www.networkadvertising.org/choices/>. We comply with the Self-Regulatory Principles for Online Behavioral Advertising set forth by the Digital Advertising Alliance (DAA). Please note that if you use a different web browser, computer, clear, block, delete or restrict your cookies after opting out, you may need to repeat your choices. 
+As noted above, our Technology uses cookies. Your browser may give you the ability to adjust your settings to delete or disable cookies. If you choose to disable cookies, you may not be able to use certain features on our Partner Sites you visit or take full advantage of our Technology. You can also opt-out of receiving personalized ads from us and other third party advertisers and ad networks who are members of the Network Advertising Initiative ("NAI"). The NAI's opt-out tool can be found here <http://www.networkadvertising.org/choices/>. More information about system privacy controls and instructions for opting out via your mobile device can be found at <http://www.networkadvertising.org/mobile-choice>. We comply with the Self-Regulatory Principles for Online Behavioral Advertising set forth by the Digital Advertising Alliance (DAA). Please note that if you use a different web browser, computer, clear, block, delete or restrict your cookies after opting out, you may need to repeat your choices. 
 
 ### Data Retention
 
@@ -95,7 +95,7 @@ We will only retain information relating to you for as long as necessary to fulf
 
 ### Children
 
-Our Website is intended for an audience above the age of 18. Neither our Website nor our Technology / advertising services are developed for, intended for, or directed at, children, and we do not knowingly collect information about children under the age of 13 (or such other age as may be restricted under local law). If you believe your child has provided his or her information to us, please contact us at [privacy@media.net](mailto:privacy@media.net). 
+Our Website is intended for an audience above the age of 18. Neither our Website nor our Technology / advertising services are developed for, intended for, or directed at, children, and we do not knowingly collect information about children under the age of 16 (or such other age as may be restricted under local law). If you believe your child has provided his or her information to us, please contact us at [privacy@media.net](mailto:privacy@media.net). 
 
 ### Additional EU Disclosures
 
