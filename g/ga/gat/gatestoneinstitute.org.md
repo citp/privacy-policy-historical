@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatestoneinstitute.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330082540id_/https%3A//www.gatestoneinstitute.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatestoneinstitute.org privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230144126id_/https%3A//www.gatestoneinstitute.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy :: Gatestone Institute
 
@@ -314,3 +314,10 @@ Any changes we make to our privacy policy in future will be posted on this page 
 **_Contact Us_**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to: [info@gatestoneinstitute.org](mailto:info@gatestoneinstitute.org)
+
+Get Free Exclusive Gatestone Content: 
+
+**TRAILER: BDS -- Beyond Deception Strategy  
+A Pierre Rehov Film**
+
+[Tweets by @GatestoneInst](https://twitter.com/GatestoneInst)
