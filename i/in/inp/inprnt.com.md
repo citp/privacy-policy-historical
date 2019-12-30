@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inprnt.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230231137id_/https%3A//www.inprnt.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inprnt.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230223645id_/https%3A//www.inprnt.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,7 +66,7 @@ Upon request we can close your account. Please note, however, that some data may
 
 #### Privacy of Children
 
-INPRNT does not knowingly collect personal information online from children under the age of 16, and children under the age of 16 are prohibited from using our services. If you learn that a child has provided us with personal information, please contact us at support@inprnt.com.
+INPRNT does not knowingly collect personal information online from children under the age of 18, and children under the age of 18 are prohibited from using our services. If you learn that a child has provided us with personal information, please contact us at support@inprnt.com.
 
   
 
