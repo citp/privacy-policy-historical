@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldi.co.uk privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405204929id_/https%3A//www.aldi.co.uk/customer-services/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldi.co.uk privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230162135id_/https%3A//www.aldi.co.uk/customer-services/privacy-notice) for the most accurate reproduction.*
 
 # Customer Services - Privacy Notice - ALDI UK
 
@@ -37,9 +37,9 @@ This Privacy Notice is broken down into a number of layers to allow you to more 
 
 This Privacy Notice sets out how ALDI collects and processes your personal data as a customer. This principally relates to your use of our Site / App, whether you are using them to sign up to our newsletter, purchase a product or service, take part in a competition, or otherwise.
 
-By visiting www.ALDI.co.uk and our associated ALDI domains (our “ **Site** ”), and in particular by submitting your personal data to us, you are accepting and consenting to the practices described in this Privacy Notice. This Privacy Notice applies whether you are visiting our Site through an internet browser or through an ALDI "App" on your device (an " **App** ").
+By visiting www.ALDI.co.uk and our associated ALDI domains (our “ **Site** ”), and in particular by submitting your personal data to us, you are accepting and consenting to the practices described in this Privacy Notice. This Privacy Notice applies whether you are visiting our Site through an internet browser or through an ALDI "App" on your device (an " **App** ").
 
-It is important that you read this Privacy Notice together with any other privacy policy we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This Privacy Notice supplements the other policies and is not intended to override them.
+It is important that you read this Privacy Notice together with any other privacy policy we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This Privacy Notice supplements the other policies and is not intended to override them.
 
 Finally, our Site and App are not intended for children and we do not knowingly collect data relating to children.
 
@@ -53,11 +53,9 @@ Close
 
   * Contact details
 
-We welcome questions and comments regarding this Privacy Notice or our use of your data. If you would like to contact us please use the details below or any relevant links provided on our Site / App.
+We welcome questions and comments regarding this Privacy Notice or our use of your data. If you would like to contact us please use the details below or any relevant links provided on our Site / App. We have a Data Privacy Team responsible for overseeing questions in relation to this Privacy Notice and our use of your data. Their details are set out below:
 
-We have a Data Privacy Team responsible for overseeing questions in relation to this Privacy Notice and our use of your data. Their details are set out below:
-
-Email address: [privacy@aldi.co.uk](mailto:privacy@aldi.co.uk)
+Email address: [privacy@aldi.co.uk ](mailto:privacy@aldi.co.uk)
 
 Postal address: Holly Lane, Atherstone, Warwickshire, CV9 2SQ
 
@@ -75,7 +73,7 @@ Close
 
 This Privacy Notice was last updated on 16th January 2019.
 
-Any changes we may make to our Privacy Notice in the future will be posted on this page. We recommend that you check this page from time to time to take notice of any changes we make, as they are binding on you if you provide us with information after such a change has been made.
+Any changes we may make to our Privacy Notice in the future will be posted on this page. We recommend that you check this page from time to time to take notice of any changes we make, as they are binding on you if you provide us with information after such a change has been made.
 
 Close
 
@@ -91,9 +89,7 @@ Close
 
   * Informing us of changes to your data
 
-It is important that the personal data we hold about you is accurate and current. As such you can use your ‘My Account’ page to amend a number of the details which we hold about you. For example, if you replace your credit card, you can click on the ‘delete card’ button in the ‘Payment Details’ area of the ‘My Account’ page and your old card’s information will be removed from your account.
-
-Close
+It is important that the personal data we hold about you is accurate and current. As such you can use your ‘My Account’ page to amend a number of the details which we hold about you. For example, if you replace your credit card, you can click on the ‘delete card’ button in the ‘Payment Details’ area of the ‘My Account’ page and your old card’s information will be removed from your account.Close
 
   * Third-party links
 
@@ -101,29 +97,34 @@ Our Site / App may contain links to and from third-party websites, plug-ins and 
 
   * Governing Law and Jurisdiction
 
-This Privacy Notice is governed by English law and you can bring legal proceedings in respect of it in the English courts. If you live in Scotland you can bring legal proceedings in respect of it in either the Scottish or the English courts. If you live in Northern Ireland you can bring legal proceedings in respect of it in either the Northern Irish or the English courts.
-
-Close
+This Privacy Notice is governed by English law and you can bring legal proceedings in respect of it in the English courts. If you live in Scotland you can bring legal proceedings in respect of it in either the Scottish or the English courts. If you live in Northern Ireland you can bring legal proceedings in respect of it in either the Northern Irish or the English courts.Close
 
 
 
 
 ## 2\. THE DATA WE COLLECT ABOUT YOU
 
-  * The data we collect about you
+  * The Data we collect about you
 
 “ **Personal data** ” means any information about an individual from which that person can be identified. It does not include data where the identity of the person concerned has been removed (which is called “ **Anonymised Data** ”).
 
 We may collect, use, store and transfer different kinds of personal data about you. This can be broken down into the following categories:
 
-    *  **Identity Data** includes your name, username or similar identifier, marital status, title, date of birth and gender (this will primarily be text based, but could also include audio, photos, videos and other forms of media).
-    *  **Contact Data** includes billing address, delivery address, email address and telephone numbers.
-    *  **Financial Data** includes bank account and payment card details.
-    *  **Transaction Data** includes details about payments to and from you and other details of products and services you have purchased from us.
-    *  **Technical Data** includes the internet protocol (IP) address of your device, details of the cookies on your device, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access our Site / App.
-    *  **Profile Data** includes your username and password, purchases or orders made by you, your interests, preferences, reviews, feedback and survey responses.
-    *  **Usage Data** includes information about how you use our Site / App, products and services.
-    *  **Marketing and Communications Data** includes your preferences in receiving marketing communications from us and our third-parties and your communication preferences.
+ **Identity Data** includes your name, username or similar identifier, marital status, title, date of birth and gender (this will primarily be text based, but could also include audio, photos, videos and other forms of media).
+
+ **Contact Data** includes billing address, delivery address, email address and telephone numbers.
+
+ **Financial Data** includes bank account and payment card details.
+
+ **Transaction Data** includes details about payments to and from you and other details of products and services you have purchased from us.
+
+ **Technical Data** includes the internet protocol (IP) address of your device, details of the cookies on your device, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access our Site / App.
+
+ **Profile Data** includes your username and password, purchases or orders made by you, your interests, preferences, reviews, feedback and survey responses.
+
+ **Usage Data** includes information about how you use our Site / App, products and services.
+
+ **Marketing and Communications Data** includes your preferences in receiving marketing communications from us and our third-parties and your communication preferences.
 
 We also collect, use and share “ **Aggregated Data** ”. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does **not** reveal your identity. For example, we may aggregate our users’ Usage Data to calculate the percentage of those users accessing a specific Site / App feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this Privacy Notice.
 
@@ -133,7 +134,7 @@ Close
 
   * If you fail to provide personal data
 
-Where we need to collect personal data by law, or under the terms of a contract we have with you, and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with our products or services). In this case, we may have to cancel a product delivery or service you have with us (but we will notify you if this is the case at the time). Close
+Where we need to collect personal data by law, or under the terms of a contract we have with you, and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with our products or services). In this case, we may have to cancel a product delivery or service you have with us (but we will notify you if this is the case at the time).Close
 
 
 
@@ -146,29 +147,35 @@ We use different methods to collect data from and about you including:
 
 You may give us personal data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes:
 
-    *  **Information that you provide by filling in forms on our Site / App** : This includes information  provided:
+ **Information that you provide by filling in forms on our Site / App** : This includes information provided:
 
-           at the time of registering to use our Site / App;
+· at the time of registering to use our Site / App;
 
-           when subscribing to a newsletter;
+· when subscribing to a newsletter;
 
-           through a contact form (whether on our Site / App or by any other means);
+· through a contact form (whether on our Site / App or by any other means);
 
-           when posting material such as ratings and reviews;
+· when posting material such as ratings and reviews;
 
-           when requesting further services; or
+· when requesting further services; or
 
-           when searching for a product;
+· when searching for a product;
 
-    *  **Social Media** : Information that you provide to us on our Social Media pages, such as Facebook, Twitter, Pinterest, Snapchat, Instagram and LinkedIn;
-    *  **Order details** : Information that you provide in relation to an order or a product you have purchased. This includes details of any cards which you have successfully used to purchase products on the Site. These card details will be stored and visible to you in the ‘Payment Details’ area of your ‘My Account’ page. Please note, if you no longer wish us to keep your card details for making future purchases, you can click on the ‘delete card’ button and your card information will be removed from your account;
-    *  **App details** : Information that you provide when you download or otherwise register on the App, use the App or share data via any social media functions on the App (which may include the phone number of the device used to use the App, your username and password on the App and other App registration information);
-    *  **Competition details** : Information that you provide when you enter one of our competitions or participate in one of our promotions;
-    *  **Troubleshooting details** : Information that you provide when you report a problem with our Site / App;
-    *  **Wi-Fi details** : Information that you provide when accessing Wi-Fi services in our Stores;
-    *  **Survey details** : Information that you provide through surveys or when asked to give your opinions about our services and products;
-    *  **Contact details** : Information that you provide when contacting our Customer Services Team or otherwise corresponding with us; and/or
-    *  **Transaction details** : Details of transactions which you carry out with us (whether through our Site / App or otherwise) and of the fulfilment of your orders (such as your intended delivery address and financial details).
+ **Social Media** : Information that you provide to us on our Social Media pages, such as Facebook, Twitter, Pinterest, Snapchat, Instagram and LinkedIn;
+
+ **Order details** : Information that you provide in relation to an order or a product you have purchased. This includes details of any cards which you have successfully used to purchase products on the Site. These card details will be stored and visible to you in the ‘Payment Details’ area of your ‘My Account’ page. Please note, if you no longer wish us to keep your card details for making future purchases, you can click on the ‘delete card’ button and your card information will be removed from your account;
+
+ **App details** : Information that you provide when you download or otherwise register on the App, use the App or share data via any social media functions on the App (which may include the phone number of the device used to use the App, your username and password on the App and other App registration information);
+
+ **Competition details** : Information that you provide when you enter one of our competitions or participate in one of our promotions; **Troubleshooting details** : Information that you provide when you report a problem with our Site / App;
+
+ **Wi-Fi details** : Information that you provide when accessing Wi-Fi services in our Stores;
+
+ **Survey details** : Information that you provide through surveys or when asked to give your opinions about our services and products;
+
+ **Contact details** : Information that you provide when contacting our Customer Services Team or otherwise corresponding with us; and/or
+
+ **Transaction details** : Details of transactions which you carry out with us (whether through our Site / App or otherwise) and of the fulfilment of your orders (such as your intended delivery address and financial details).
 
 Close
 
@@ -176,8 +183,8 @@ Close
 
 We may also collect and process the following data automatically when you use our Site / App:
 
-    *  the internet protocol (IP) address of your device, your login information, details of the type of device you use, a unique device identifier (for example, your device's IMEI number, the MAC address of your device's wireless network interface, or the mobile phone number used by your device), mobile network information, your browser type and version, your time zone setting, browser plug-in types and versions, operating system and platform;
-    *  information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Site / App (including date and time), products you viewed or searched for, page response times, download errors and bugs, the length of your visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the Site / App and any phone number used to call our customer service number;
+    * the internet protocol (IP) address of your device, your login information, details of the type of device you use, a unique device identifier (for example, your device's IMEI number, the MAC address of your device's wireless network interface, or the mobile phone number used by your device), mobile network information, your browser type and version, your time zone setting, browser plug-in types and versions, operating system and platform;
+    * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Site / App (including date and time), products you viewed or searched for, page response times, download errors and bugs, the length of your visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the Site / App and any phone number used to call our customer service number;
     * information stored on your device which you consent to share with us (such as contact information, friend lists, login information, photos, videos or other digital content) (you can typically turn off this functionality at any time by changing the relevant settings for the App on your device);
     * any details of your current location which you consent to share with us (you can typically turn off this functionality at any time by turning off the ‘location services’ settings for the App on your device); and
     * information provided to us by third-parties (including, for example, business partners, sub-contractors in technical, Wi-Fi, payment and delivery services, advertising networks, analytics providers, search information providers and credit reference agencies).
@@ -186,9 +193,7 @@ Close
 
   * Cookies
 
-We may also receive Technical Data about you if you visit other websites employing our cookies, please see Section 6 (Cookies Policy) for further details.
-
-Close
+We may also receive Technical Data about you if you visit other websites employing our cookies, please see Section 6 (Cookies Policy) for further details.Close
 
   * Third parties or publicly available sources
 
@@ -213,11 +218,11 @@ We will only use your personal data when the law allows us to. Most commonly, we
     * we need to comply with a legal or regulatory obligation; and/or
     * you have specifically consented to us using your personal data in a particular way.
 
-[Click here](https://web.archive.org/how-we-use-your-personal-data-general-site) for a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. Please note that we may:
+[Click here](https://web.archive.org/how-we-use-your-personal-data-general-site) for a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. Please note that we may:
 
     * process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data;
     * combine information from other sources with information you give to us and that which we collect about you; and
-    * use this combined information for the purposes set out [here](https://web.archive.org/how-we-use-your-personal-data-general-site).
+    * use this combined information for the purposes set out here.
 
 Close
 
@@ -226,11 +231,11 @@ Close
 
 ## 5\. HOW WE USE YOUR PERSONAL DATA – SPECIAL PURPOSES
 
-  * How we use your personal data - Special Purposes 
+  * How we use your personal data - Special Purposes
 
-We may occasionally require your personal data for additional Special Purposes, such as our product review panels. [Click here](https://web.archive.org/how-we-use-your-personal-data-special-purposes) for a description of the ways in which we use your personal data, and which of the legal bases we rely on to do so, in respect of such special purposes. You may have been linked to this portion of this Privacy Notice from another website or app relating to one of these special purposes.
+We may occasionally require your personal data for additional Special Purposes, such as our product review panels. [Click here](https://web.archive.org/how-we-use-your-personal-data-special-purposes) for a description of the ways in which we use your personal data, and which of the legal bases we rely on to do so, in respect of such special purposes. You may have been linked to this portion of this Privacy Notice from another website or app relating to one of these special purposes.
 
-Please note that the rest of this Privacy Notice (whether it is regarding who we are, how to contact us, our complaints procedures or otherwise) will still apply to our handling of your data for these Special Purposes. In the event that there is a conflict between this “Special Purposes” section and the wider Privacy Notice, this “Special Purposes” section will apply.
+Please note that the rest of this Privacy Notice (whether it is regarding who we are, how to contact us, our complaints procedures or otherwise) will still apply to our handling of your data for these Special Purposes. In the event that there is a conflict between this “Special Purposes” section and the wider Privacy Notice, this “Special Purposes” section will apply.
 
 Close
 
@@ -239,7 +244,7 @@ Close
 
   * What are cookies
 
-Cookies are small pieces of information that are stored on the hard drive of your device and they enable a server to collect information from an internet browser. You can find out more about how cookies work at [www.aboutcookies.org](http://www.aboutcookies.org/) .
+Cookies are small pieces of information that are stored on the hard drive of your device and they enable a server to collect information from an internet browser. You can find out more about how cookies work at [www.aboutcookies.org](http://www.aboutcookies.org/).
 
 Close
 
@@ -261,24 +266,29 @@ We use cookies to:
     * identify which of your device(s) you use to access our Site / App or any account which you have registered on it; and
     * prevent credit fraud and various forms of cyber-crime.
 
-The cookies we use:
+Close
+
+  * The cookies we use
 
     * may persist on your device between visits to our Site / App, so that, for example, we can identify you when you visit again; and
     * may be provided either by us or by third-party service providers (such as analytics and search engine providers).
 
+[Click here](https://web.archive.org/cookies-we-use) to view the cookies we use.
+
 Close
 
-  * Avoiding cookies
+  * Avoiding Cookies
 
-You can set your browser to accept or reject certain cookies or, if you prefer, you can set your browser to alert you each time a cookie is detected. Previous cookies that have been stored on your device can also be deleted. However, if you block our cookies or you subsequently delete a cookie that has been placed on your device, it will not be possible for you to use our Site / App effectively as our systems rely on cookies to identify you as the user.Close
+You can set your browser to accept or reject certain cookies or, if you prefer, you can set your browser to alert you each time a cookie is detected. Previous cookies that have been stored on your device can also be deleted. However, if you block our cookies or you subsequently delete a cookie that has been placed on your device, it will not be possible for you to use our Site / App effectively as our systems rely on cookies to identify you as the user.
 
-  * Cookies we use
+Close
+
 
 
 
 ## 7\. DISCLOSURES OF YOUR PERSONAL DATA
 
-  * Disclosure of your personal data
+  * Disclosures of your personal data
 
 First and foremost, you can rest assured that your personal data will not be shared with third-parties unnecessarily. We may disclose your personal data for the purposes set out in this Privacy Notice:
 
@@ -306,9 +316,9 @@ This Anonymised Data will be collected using cookies in a way which alone cannot
 
 Close
 
-  * Third-party marketing 
+  * Third-party marketing
 
-We will never share your personal data with any company outside the ALDI Group (as defined above) for non-ALDI related marketing purposes. Close
+We will never share your personal data with any company outside the ALDI Group (as defined above) for non-ALDI related marketing purposes.Close
 
 
 
@@ -317,7 +327,7 @@ We will never share your personal data with any company outside the ALDI Group (
 
   * International Transfers
 
-The data that we collect from you will be stored on secure servers within the European Economic Area (" **EEA** "). The majority of such data is held within the UK.
+The data that we collect from you will be stored on secure servers within the European Economic Area ("EEA"). The majority of such data is held within the UK.
 
 Certain information may be accessed and processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services (such as content moderation or the maintenance of our data storage facilities).
 
@@ -367,16 +377,23 @@ Close
 
   * Your Legal Rights
 
-Under certain circumstances, you have rights under data protection laws in relation to your personal data. If you wish to exercise any of the rights set out above, please contact us using the details set out in the “Contact Details” section in Section 1 (Overview of this Notice and who we are). A summary of the rights you have is set out below:
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. If you wish to exercise any of the rights set out above, please contact us using the details set out in the “Contact Details” section in Section 1 (Overview of this Notice and who we are). A summary of the rights you have is set out below:
 
-    *  **Opting-out of Marketing** : You can ask us or third-parties to stop sending you marketing communications at any time by: (a) visiting our unsubscribe page ([www.aldi.co.uk/unsubscribe-me](http://www.aldi.co.uk/unsubscribe-me)) and following the instructions provided; (b) by using the “unsubscribe” link at the bottom of any marketing communications which we send to you; or (c) by contacting us at any time using the details set out in the “Contact Details” section Section 1 (Overview of this Notice and who we are).
-    *  **Data Subject Access Requests** : You have the right to request access to your personal data. This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
-    *  **Correction** : You have the right to request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
-    *  **Erasure** : You have the right to request we erase your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. Please note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
-    *  **Processing Objection** : You have the right to object to us processing your personal data where we are relying on a legitimate interest (or those of a third-party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
-    *  **Processing Restriction** : You have the right to request we restrict the processing of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data's accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
-    *  **Data Transfer** : You have the right to request we transfer your personal data to you or to a third-party. We will provide to you, or a third-party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
-    *  **Withdrawing consent** : You have the right to withdraw your consent to processing where we are relying on that consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+ **Opting-out of Marketing** : You can ask us or third-parties to stop sending you marketing communications at any time by: (a) visiting our unsubscribe page (www.aldi.co.uk/unsubscribe-me) and following the instructions provided; (b) by using the “unsubscribe” link at the bottom of any marketing communications which we send to you; or (c) by contacting us at any time using the details set out in the “Contact Details” section Section 1 (Overview of this Notice and who we are).
+
+ **Data Subject Access Requests** : You have the right to request access to your personal data. This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+ **Correction** : You have the right to request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+ **Erasure** : You have the right to request we erase your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. Please note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+
+ **Processing Objection** : You have the right to object to us processing your personal data where we are relying on a legitimate interest (or those of a third-party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+ **Processing Restriction** : You have the right to request we restrict the processing of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data's accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+
+ **Data Transfer** : You have the right to request we transfer your personal data to you or to a third-party. We will provide to you, or a third-party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+ **Withdrawing consent** : You have the right to withdraw your consent to processing where we are relying on that consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
 Close
 
@@ -384,15 +401,15 @@ Close
 
 You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.Close
 
-  * What we may need from you
+  * What we may need from you 
 
 We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.Close
 
   * Time limit to respond
 
-We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. Close
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.Close
 
 
 
 
-LNqxwRIizAcfilLQlQRHDmSKmwCkJbFLhvYxlOXlbtGWSeVmJbTnLTufugzEdGqmzbNkrJLwuBsWOdLQwQLCBiicuoKuTRbwdemJQOhXjrOubWeDrQbgvfJThcPllZAbXhNQShrRLxSKanHrWQSSefdpzGvMoGRqoqqVEgpYsKWNLZpVgHKHDKHvTLEynMNLvDWemYcOvdQdgTukBdsAunjfKWkOFbm 
+pspBGscjCnUdHRFNWvFcjOLBukPKAcvhnhZdgpUDhXQfmiRbzpzHooIEjmHqdBivbWSuLVVjEmOjKtDskHyXNdHIbJKlBvxCEuFAyirlRAQdrUUWvluLjlhGpoTIeMyveVMtglLOBxnqjbIzcyALfGWsZHdmScdmZATsymjjHzgQaUCnlPG 
