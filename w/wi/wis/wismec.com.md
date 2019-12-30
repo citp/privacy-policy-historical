@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wismec.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628153446id_/http%3A//www.wismec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wismec.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230180003id_/https%3A//www.wismec.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wismec Electronics Co.,Ltd
 
