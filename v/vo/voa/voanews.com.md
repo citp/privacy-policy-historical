@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the voanews.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603203918id_/https%3A//www.voanews.com/p/5338.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voanews.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231000843id_/https%3A//www.voanews.com/terms-use-and-privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice VOA News
-
-### Terms of Use and Privacy Notice
+# Terms of Use and Privacy Notice | Voice of America - English
 
 **Privacy Statement**
 
-We will collect no personal information about you when you visit our website unless you choose to provide that information to us.  
-
+We will collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
 **Information Collected and Stored Automatically**
 
@@ -18,38 +15,32 @@ If you do nothing during your visit but browse through the website, read pages, 
   * The date and time you access our site;
   * The pages you visit;
   * If you linked to this website from another website, the address of that other website.
-  * 
+  *  
+
 
 
 **If You Send Us Personal Information**  
-If you choose to provide us with personal information by sending an e-mail to us, or by filling out a form with your personal information and submitting it through our website, we use that information to respond to your message and to help us get the information you have requested. We do not collect personal information for any other purposes. Moreover, we do not create individual profiles with the information you provide or give this information to any private organizations. Nor do we collect information for commercial marketing.  
+If you choose to provide us with personal information by sending an e-mail to us, or by filling out a form with your personal information and submitting it through our website, we use that information to respond to your message and to help us get the information you have requested. We do not collect personal information for any other purposes. Moreover, we do not create individual profiles with the information you provide or give this information to any private organizations. Nor do we collect information for commercial marketing.
 
-
-We would share your e-mail with another federal government agency only if your inquiry related to that agency or if we were required to do so by law. In addition, we would release documents, including e-mails, if required to do so by a congressional or judicial subpoena.  
-
+We would share your e-mail with another federal government agency only if your inquiry related to that agency or if we were required to do so by law. In addition, we would release documents, including e-mails, if required to do so by a congressional or judicial subpoena.
 
 **Information Collected for Tracking and Customization (Cookies)**
 
-A cookie is a small file that a website transfers to your computer to allow it to remember specific information about your session while you are connected. Your computer will only share the information in the cookie with the website that provided it, and no other website can request it. There are two types of cookies, session and persistent. Session cookies last only as long as your web browser is open. Once you close your browser, the cookie disappears. Persistent cookies store information on your computer for longer periods of time.  
-
+A cookie is a small file that a website transfers to your computer to allow it to remember specific information about your session while you are connected. Your computer will only share the information in the cookie with the website that provided it, and no other website can request it. There are two types of cookies, session and persistent. Session cookies last only as long as your web browser is open. Once you close your browser, the cookie disappears. Persistent cookies store information on your computer for longer periods of time.
 
 Voice of America websites may use session cookies for technical purposes such as to enable better navigation through the site, or to allow you to customize your preferences for interacting with the site. A few VOA websites may also make use of persistent cookies to remember you between visits so, for example, you can save your customized preference settings for future visits. Each VOA site using persistent cookies identifies itself as doing so.
 
-At no time is your private information, whether stored in persistent cookies or elsewhere, shared with third parties who have no right to that information. If you do not wish to have session or persistent cookies stored on your machine, you can turn them off in your browser. However, this may affect the functioning of some VOA websites.  
-
+At no time is your private information, whether stored in persistent cookies or elsewhere, shared with third parties who have no right to that information. If you do not wish to have session or persistent cookies stored on your machine, you can turn them off in your browser. However, this may affect the functioning of some VOA websites.
 
 **Disclaimer**
 
-We may link to external sites that help us perform our mission or illustrate news reports. Links to external servers do not imply any official Voice of America endorsement of the opinions or ideas expressed therein, nor do such links guarantee the validity of the information provided. Links to commercial sites are in no way an endorsement of any vendor's products or services. Links will be provided to external servers that are managed in a professional manner (i.e., it is fully operational, is available most of the time, does not serve inaccurate information or obscene graphics, etc.). This server will not link to external servers if such a link would appear to provide an official endorsement of fundraising efforts or lobbying for a political agenda.  
+We may link to external sites that help us perform our mission or illustrate news reports. Links to external servers do not imply any official Voice of America endorsement of the opinions or ideas expressed therein, nor do such links guarantee the validity of the information provided. Links to commercial sites are in no way an endorsement of any vendor's products or services. Links will be provided to external servers that are managed in a professional manner (i.e., it is fully operational, is available most of the time, does not serve inaccurate information or obscene graphics, etc.). This server will not link to external servers if such a link would appear to provide an official endorsement of fundraising efforts or lobbying for a political agenda.
 
-
-The Voice of America does not broadcast in the United States. Our programs are intended for overseas audiences, as is our website. Domestic American broadcasters utilizing similar tradenames and call letters are not affiliated with this international broadcasting agency, or with VOANews.com.  
-
+The Voice of America does not broadcast in the United States. Our programs are intended for overseas audiences, as is our website. Domestic American broadcasters utilizing similar tradenames and call letters are not affiliated with this international broadcasting agency, or with VOANews.com.
 
 **Corrections**
 
-VOANews.com handles errors in the following way: If the error is a simple typo that doesn't change facts or understanding of the story, we consider it a minor change and simply correct it without further mention. If the error is substantive or one of fact, we change it, add an asterisk *, then a note at the bottom saying when it was corrected and what was wrong originally. On a breaking news story, we may overwrite the text of an article several times as the story develops. Due to the urgency of the news and time constraints, we will not mention the exact changes in each version - we expect understanding that it is a story that is still developing.  
-
+VOANews.com handles errors in the following way: If the error is a simple typo that doesn't change facts or understanding of the story, we consider it a minor change and simply correct it without further mention. If the error is substantive or one of fact, we change it, add an asterisk *, then a note at the bottom saying when it was corrected and what was wrong originally. On a breaking news story, we may overwrite the text of an article several times as the story develops. Due to the urgency of the news and time constraints, we will not mention the exact changes in each version - we expect understanding that it is a story that is still developing.
 
 **Rules for Posting Comments**
 
@@ -71,7 +62,7 @@ All comments must follow these rules:
 
 2.Third Party Content: VOA has individual licenses from Agence France Presse (AFP), the Associated Press (AP) and Reuters to use their text, video, audio, photos and graphics on our website. All three agencies’ material is copyrighted and the property of AFP, AP and Reuters respectively, and may not be copied, published or redistributed without the written permission of each agency. AFP, AP and Reuters text, video, audio photo, and/or graphic material shall not be published, broadcast, rewritten for broadcast or publication or redistributed directly or indirectly in any medium. Neither these materials nor any portion thereof may be stored in a computer except for personal and non-commercial use. AFP, AP and Reuters will not be held liable in any way to the User or to any third party or to any other person who may receive information in the Service or to any other person whatsoever, for any delays, inaccuracies, errors or omissions therefrom or in the transmission or delivery of all or any part thereof or for any damages arising from any of the foregoing or occasioned thereby.
 
-3\. "Voice of America" and "voanews.com" are trademarks which may not be used for commercial purposes without express permission. However, you may use a thumbnail graphic of the voanews.com logo if you wish to create a link to the voanews.com website on your own page. Should you wish to establish a link, please send your request to[ voanews@voanews.com](mailto:voanews@voanews.com "voanews@voanews.com").
+3\. "Voice of America" and "voanews.com" are trademarks which may not be used for commercial purposes without express permission. However, you may use a thumbnail graphic of the voanews.com logo if you wish to create a link to the voanews.com website on your own page. Should you wish to establish a link, please send your request to[ voanews@voanews.com](mailto:voanews@voanews.com "voanews@voanews.com").
 
 **Digital Millennium Copyright Act Notice**  
 The Voice of America (VOA) respects the intellectual property of others, and we ask users of the VOA site to do the same. In accordance with the Digital Millennium Copyright Act (DMCA) and other applicable law, VOA has adopted a policy that provides for the termination in appropriate circumstances of account holders who infringe the rights of copyright holders. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide VOA’s Copyright Agent the following information:
@@ -88,7 +79,7 @@ The Voice of America (VOA) respects the intellectual property of others, and we 
 
 • A statement that the information in the notification is accurate, and under penalty of perjury, that you, the complaining party, are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-VOA’s Copyright Agent for notice of claims of copyright infringement on or regarding VOA’s site can be reached by sending an email to [copyrightagent@bbg.gov](mailto:copyrightagent@bbg.gov) or writing to:
+VOA’s Copyright Agent for notice of claims of copyright infringement on or regarding VOA’s site can be reached by sending an email to [copyrightagent@bbg.gov](mailto:copyrightagent@bbg.gov) or writing to:
 
 Voice of America Copyright Agent  
 330 Independence Ave, SW  
