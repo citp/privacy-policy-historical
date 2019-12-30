@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the readitlaterlist.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624220056id_/https%3A//getpocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readitlaterlist.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230235543id_/https%3A//getpocket.com/privacy) for the most accurate reproduction.*
 
 # Pocket: Privacy Policy
 
-#### _Posted March 18, 2019_
+#### _Posted December 23, 2019_
 
-This notice describes the Privacy Policy that applies to all information collected or submitted when you install or use the Pocket™ application or any of the other proprietary software applications or services we provide, and when you visit our website (all of which are referred to collectively herein as the "Pocket Technologies"). The Pocket Technologies are owned and operated by Read It Later, Inc. (referred to herein as "we," "us," "our," "Read It Later" or "Pocket"), which has developed applications and services for use in connection with a variety of devices and platforms, including without limitation, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox and other mobile devices and computers. 
+This notice describes the Privacy Policy that applies to all information collected or submitted when you install or use the Pocket application or any of the other proprietary software applications or services we provide, and when you visit our website (all of which are referred to collectively herein as the "Pocket Technologies"). The Pocket Technologies are owned and operated by Read It Later, Inc. (referred to herein as "we," "us," "our," "Read It Later" or "Pocket"), which has developed applications and services for use in connection with a variety of devices and platforms, including without limitation, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox and other mobile devices and computers. 
 
 We understand your concerns about privacy. We want you to understand what types of information we collect and what may happen to that information if you install the Pocket application, visit the Pocket Website or use any of the Pocket Technologies. 
 
@@ -86,11 +86,11 @@ As part of our default settings to share saved and recommended content, we send 
 
 Please note this Privacy Policy will change from time to time. We may amend this Privacy Policy at any time by posting the amended terms on our Website that you can access at [getpocket.com](https://getpocket.com/) or through the options or help menu of the Pocket application. All amended terms shall automatically be effective thirty (30) days after they are initially posted on the Website. If we make any material changes to our Privacy Policy that affect user information already stored in our database, we will post a prominent notice on our Website notifying users that our Privacy Policy has changed. Our use of your information shall be governed by the terms and conditions of our Privacy Policy in effect when you first use our application or thirty (30) after the terms are changed, as explained above. 
 
-If you have questions about any of the provisions described above, please contact us at [privacy@getpocket.com](mailto:privacy@getpocket.com) or at the street address listed above. 
+If you have questions about any of the provisions described above, please contact us at privacy@getpocket.com or at the street address listed above. 
 
 #### CONTACT
 
-If you have questions or concerns regarding this Privacy Policy, you should contact us at [privacy@getpocket.com](mailto:privacy@getpocket.com). Alternatively, you may contact us at: 
+If you have questions or concerns regarding this Privacy Policy, you should contact us at privacy@getpocket.com or <https://help.getpocket.com/contact>. Alternatively, you may contact us at: 
 
 Read It Later, Inc.  
 233 Sansome, Suite 1200  
