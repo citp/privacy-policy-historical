@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the holidayemailmarketing.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220131129id_/https%3A//www.aweber.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayemailmarketing.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230202619id_/https%3A//www.aweber.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Your Information Is Kept Safe
 
-Effective Date: 05/21/2018 
+Effective Date: 6/24/2019 
 
 ### What Do You Do With My Information?
 
-At AWeber Systems, Inc. (“AWeber”, “We”, “Us” or “Our”), we respect your privacy and take protecting it seriously. This Privacy Policy covers our collection, use and disclosure of information we collect through our website and service, [www.aweber.com](https://web.archive.org/web/20181220131129id_/https%3A//) owned and operated by AWeber Systems, Inc. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which our Clients have engaged us.
+At AWeber Systems, Inc. (“AWeber”, “We”, “Us” or “Our”), we respect your privacy and take protecting it seriously. This Privacy Policy covers our collection, use and disclosure of information we collect through our website and service, [www.aweber.com](https://web.archive.org/web/20191230202619id_/https%3A//) owned and operated by AWeber Systems, Inc. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which our Clients have engaged us.
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=92c715c6-ea16-4d4d-ab9c-00891673615b "TRUSTe Privacy Certification")
 
-Our [Data Processing and Security Terms](https://web.archive.org/web/20181220131129id_/https%3A//www.aweber.com/dpst.htm) contains more information about how we process data.
+Our [Data Processing and Security Terms](https://web.archive.org/web/20191230202619id_/https%3A//www.aweber.com/dpst.htm) contains more information about how we process data.
 
 ### EU - U.S. Privacy Shield and Swiss - U.S. Privacy Shield
 
-AWeber Systems, Inc. participates in and has certified its compliance with the [EU - U.S. Privacy Shield Framework](https://www.privacyshield.gov/participant?id=a2zt0000000TNN8AAO) and the Swiss - U.S. Privacy Shield Framework. AWeber Systems, Inc. is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield List. <https://www.privacyshield.gov/list>
+AWeber Systems, Inc. participates in and has certified its compliance with the [EU - U.S. Privacy Shield Framework](https://www.privacyshield.gov/participant?id=a2zt0000000TNN8AAO) and the Swiss - U.S. Privacy Shield Framework. AWeber Systems, Inc. is committed to subjecting all personal data received from European Union (EU) member countries, the United Kingdom and Switzerland, respectively. in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield List. <https://www.privacyshield.gov/list>
 
-AWeber Systems, Inc. is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. AWeber Systems, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+AWeber Systems, Inc. is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. AWeber Systems, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, the United Kingdom, and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, AWeber Systems, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Company may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, AWeber Systems, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, AWeber Systems, Inc may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -26,9 +26,9 @@ Under certain conditions, more fully described on the Privacy Shield website <ht
 
 **Here's what we do - and, more importantly, don't do - with any information you provide us.**
 
-### “I Am An AWeber Affiliate.”
+### “I Am An AWeber Advocate.”
 
-Your name, address, phone and fax number, email address, tax ID number or SSN and any other information you provide are held in strict confidence. We collect this information only so we can generate your commission checks and meet United States federal tax requirements.
+Your name, address, phone and fax number, email address, tax ID number or SSN and any other information you provide are held in strict confidence. We collect this information only so we can generate your customer referral checks and meet United States federal tax requirements.
 
 We do not sell or share your information with anyone else.
 
@@ -40,7 +40,9 @@ We do not contact you. We do not sell or share your information with anyone else
 
 We collect information under the direction of our Clients, and have no direct relationship with you, whose personal data we process. We work with our Clients to help them provide notice to their subscribers concerning the purpose for which personal information is collected.
 
-If you are a subscriber of one of our Clients and would no longer like to be contacted by our Client, please contact the our Client that you interact with directly. If you are one of our Clients and would like to update your account, please [contact us](https://web.archive.org/web/20181220131129id_/https%3A//www.aweber.com/contact-us.htm).
+In order for AWeber to prevent Spam and protect Inboxes, we review customers' mailing lists, which contain your data, with a variety of automatic tests. Our staff also manually reviews mailing lists, and your data, for any signs of irresponsible emailing by our Clients.
+
+If you are a subscriber of one of our Clients and would no longer like to be contacted by our Client, please contact the our Client that you interact with directly. If you are one of our Clients and would like to update your account, please [contact us](https://web.archive.org/web/20191230202619id_/https%3A//www.aweber.com/contact-us.htm).
 
 We have no direct relationship with the individuals whose personal data we process. We acknowledge that you have the right to access your personal information. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his or her query to our Client (the data controller). If our Client requests that we remove the data, we will respond to their request within 30 business days.
 
@@ -60,11 +62,17 @@ We may also send you service related email announcements on rare occasions when 
 
 All account information for our Clients is held in strict confidence.
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell or share your information with anyone. We only collect information like your name, email address, mailing address, phone number, and billing information so we can provide the [email marketing services](https://web.archive.org/web/20181220131129id_/https%3A//) described on our website.
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell or share your information with anyone. We only collect information like your name, email address, mailing address, phone number, geographic information, online and device identifiers, and billing information so we can provide the [email marketing services](https://web.archive.org/web/20191230202619id_/https%3A//) described on our website.
 
 ### Service Providers
 
-We use other third parties, such as a credit card processing company, to bill you for services and a Live Chat service to assist you if you have questions while using our website or regarding your order. When you sign up for our services, we will share your personal information only as necessary for the third party to provide that service. Some third parties will provide us with information about you from publicly available sources to provide you a personalized experience while using our services.
+AWeber does not disclose or distribute collected personal information to non-agent third parties. AWeber will offer individuals the opportunity to choose (opt-out) whether their personal information is to be disclosed to a non-agent third party.
+
+AWeber will provide the opportunity to choose (opt-in) when their personal information to be used for a purpose other than the purpose for which it was originally collected. AWeber will provide individuals with reasonable mechanisms to exercise their choices by contacting us or following instructions as presented in this policy.
+
+We use other third parties to provide our services. When you sign up for our services, we will share your personal information only as necessary for the third party to provide that service. This could include billing information provided to a credit card processing company to bill you for services or location, geographic information, device IDs, and online identifiers for personalization, or contact information to provide Live Chat and other Customer Support services while using our website.
+
+Some third parties will provide us with information about you from publicly available sources to provide you a personalized experience while using our services. This information includes website information, social media handles, and other company information.
 
 ### Legal Disclaimer
 
@@ -74,7 +82,7 @@ In the event we go through a business transition, such as a merger, acquisition 
 
 ### Access To Personal Information
 
-Upon request we will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by [contacting us](https://web.archive.org/web/20181220131129id_/https%3A//www.aweber.com/contact-us.htm). We will respond to your request within 30 days.
+Upon request we will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by [contacting us](https://web.archive.org/web/20191230202619id_/https%3A//www.aweber.com/contact-us.htm). We will respond to your request within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -82,23 +90,23 @@ We will retain your information for as long as your account is active or as need
 
 The security of your personal information and our Clients' information is important to us. When you enter sensitive information, such as login credentials and credit card information, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can [contact us](https://web.archive.org/web/20181220131129id_/https%3A//www.aweber.com/contact-us.htm).
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can [contact us](https://web.archive.org/web/20191230202619id_/https%3A//www.aweber.com/contact-us.htm).
 
 ### What About Cookies and Other Tracking Technologies?
 
 #### What are Cookies?
 
-Cookies are small pieces of text sent by your web browser by our website. A cookie file is stored in your web browser and allows us, our partners, affiliates, and other service providers to recognize you and make your next visit easier and our service more useful to you.
+Cookies are small pieces of text sent by your web browser by our website. A cookie file is stored in your web browser and allows us, our partners, advocates, and other service providers to recognize you and make your next visit easier and our service more useful to you.
 
 #### How AWeber uses Cookies
 
-We and our partners, affiliates, or analytics or services providers use technologies, such as cookies, beacons, tags, and scripts, to analyze trends, administer our website, tracking users' movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+We and our partners, advocates, or analytics or services providers use technologies, such as cookies, beacons, tags, and scripts, to analyze trends, administer our website, tracking users' movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies for our shopping cart, to remember your settings (e.g., language preference), and for authentication.
 
 #### Your choices regarding AWeber cookies
 
-You can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited. If you'd like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser.
+You can control the use of cookies within your individual browser settings. If you reject non-essential cookies, you may still use our website, but your ability to use some features or areas of our website may be limited or unavailable. If you would like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser.
 
 ### What About HTML 5?
 
@@ -118,7 +126,7 @@ If you wish to not have this information used for the purpose of serving you tar
 
 ### Testimonials
 
-We post customer testimonials on our website, which may contain personal information. We do obtain our Clients' consent to post their name along with their testimonial via email prior to posting the testimonial on our website. However, if you wish to request the removal of your testimonial, please [contact us](https://web.archive.org/web/20181220131129id_/https%3A//www.aweber.com/contact-us.htm).
+We post customer testimonials on our website, which may contain personal information. We do obtain our Clients' consent to post their name along with their testimonial via email prior to posting the testimonial on our website. However, if you wish to request the removal of your testimonial, please [contact us](https://web.archive.org/web/20191230202619id_/https%3A//www.aweber.com/contact-us.htm).
 
 ### Social Media Features
 
@@ -138,10 +146,10 @@ Our website includes links to other websites whose privacy practices may differ 
 
 ### Public Forums
 
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, [contact us](https://web.archive.org/web/20181220131129id_/https%3A//www.aweber.com/contact-us.htm). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, [contact us](https://web.archive.org/web/20191230202619id_/https%3A//www.aweber.com/contact-us.htm). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 We also have an engineering blog, which is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to this blog. You will need to contact or login into the third party application if you want to remove the personal information that was posted to the comments section. To learn how the third party application uses your information, please review its privacy policy.
 
 ### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us via email at [help@aweber.com](mailto:help@aweber.com) or via postal mail at 1100 Manor Drive Chalfont, PA 18914, USA.
+If you have any questions or suggestions regarding our privacy policy, please contact us via email at [help@aweber.com](mailto:help@aweber.com) or via postal mail at AWeber Systems, Inc. 1100 Manor Drive Chalfont, PA 18914, USA.
