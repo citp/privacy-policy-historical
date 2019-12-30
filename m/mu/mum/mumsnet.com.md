@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mumsnet.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522114701id_/https%3A//www.mumsnet.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumsnet.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230011524id_/https%3A//www.mumsnet.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy | Mumsnet
 
 This policy explains the way that we collect, use and protect your data as well as your choices with regard to your data.
 
-We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while including all the relevant information – but please do [contactus@mumsnet.com](mailto:contactus@mumsnet.com) if anything doesn’t make sense or needs expanding on. Because, by necessity, this is a long document and because we’re all pressed for time, we've summarised the key points – you can click on each one to get more detailed information. Please do read the whole thing if you can.
+We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while including all the relevant information – but please do [contactus@mumsnet.com](mailto:contactus@mumsnet.com) if anything doesn’t make sense or needs expanding on. Because, by necessity, this is a long document and because we’re all pressed for time, we've summarised the key points – you can click on each one to get more detailed information. Please do read the whole thing if you can
 
 ######  Our aims and duty of care 
 
@@ -24,11 +24,11 @@ See more +
 
 We store IP address, cookies, your device’s unique ID, page browsing history, ads you’ve viewed and clicked, searches you’ve made on site, approximate location, and any enquiries you’ve made. For registered members we also store username, password and email address; discussions you may have with Mumsnet site moderators; and a summary of decisions we’ve taken about you if we’ve reviewed your use of Mumsnet Talk for any reason. Registered members may also have given us more data on sign up, such as the age of their children.
 
-We store your email address to register you and contact you (if you have asked for email newsletters) and we store things such as IP address, cookies and device ID so that our systems recognise you if you return to Mumsnet. We store things such as your device’s reading habits to show you things we think may be of interest to you (eg content or ads). When we look at this information across large numbers of users, it helps us see which parts of Mumsnet are well-used and which aren’t, and this helps us to decide what sort of content and features might be useful to develop.
+We store your email address to register you and contact you (if you have asked for email newsletters) and we store things such as IP address, cookies and device ID so that our systems recognise you if you return to Mumsnet. We store things such as your device’s reading habits to show you things we think may be of interest to you (eg content or ads). When we look at this information across large numbers of users, it helps us see which parts of Mumsnet are well-used and which aren’t, and this helps us to decide what sort of content and features might be useful to develop. Subject to the permissions you have given us (as described in your permissions and choices below), we may also pass your device's reading habits to selected brands for these brands to show you things they think may be of interest to you (eg content or ads).
 
 We don’t require your name or address when you view Mumsnet content or register with the site, and you can use Mumsnet fully without providing it.
 
-Subject to your permissions and choices (as explained later) we collect, store and process the data listed in this section. We believe we provide a useful service, and therefore have a legitimate interest in processing your data which benefits both Mumsnet and you as a Mumsnet user.
+Subject to your permissions and choices, we collect, store and process the data listed in this section. We believe we provide a useful service, and therefore have a legitimate interest in processing your data which benefits both Mumsnet and you as a Mumsnet user.
 
 **We store the following data for all users, whether registered or not:**
 
@@ -68,7 +68,7 @@ Of your registration data, only your Mumsnet username is displayed on screen for
 
 We also provide an anonymised copy of all Talk posts to a handful of carefully chosen organisations so that they can analyse social trends. None of your personal information is ever shared and we remove Mumsnet usernames before sharing this information.
 
-Registered members of Mumsnet can start discussions and add comments, pictures and videos to existing discussions within Mumsnet Talk’s forums under Mumsnet’s [Terms of Use](https://web.archive.org/web/20190522114701id_/https%3A//www.mumsnet.com/info/terms-of-use). This is optional in the sense that it’s up to you whether you post on Mumsnet or not; if you do post we always store the contents of those posts. These posts are public, but of your registration data, only your Mumsnet username is displayed on screen. Your Mumsnet username is picked by you when you [join Mumsnet](https://web.archive.org/register); you can change it at any time in [My Account](https://web.archive.org/member/registration-details).
+Registered members of Mumsnet can start discussions and add comments, pictures and videos to existing discussions within Mumsnet Talk’s forums under Mumsnet’s [Terms of Use](https://web.archive.org/web/20191230011524id_/https%3A//www.mumsnet.com/info/terms-of-use). This is optional in the sense that it’s up to you whether you post on Mumsnet or not; if you do post we always store the contents of those posts. These posts are public, but of your registration data, only your Mumsnet username is displayed on screen. Your Mumsnet username is picked by you when you [join Mumsnet](https://web.archive.org/register); you can change it at any time in [My Account](https://web.archive.org/member/registration-details).
 
 Mumsnet’s forums (with the exception of some topics, like [“Off the beaten track”](https://web.archive.org/Talk/off_the_beaten_track)) are visible to search engines. This means that any personal information users choose to share in their posts on Mumsnet can be seen widely. We cannot control who sees these posts. However, wherever appropriate we remind users that Mumsnet’s forums are highly visible and can be read by anyone, anywhere.
 
@@ -188,6 +188,8 @@ These companies allow you to use your social media account to log in to Mumsnet.
 
 **Advertising**
 
+The third-party companies below help us to deliver advertising. These companies use cookies to select and deliver advertisements for you, and to measure the delivery and effectiveness of such advertisements. This will include using collected information about your interests in order to select ads for you, processing data about what advertisements were shown, how often they are shown, when and where they are shown, and whether you took any action related to the advertisement, including for example clicking an ad or making a purchase.
+
 These companies deliver advertising on Mumsnet:
 
 [Lotame](https://www.lotame.com/about-lotame/privacy/)   
@@ -205,7 +207,8 @@ These companies help Mumsnet understand our users:
 
 [Google Analytics](https://analytics.google.com/analytics/web/)  
 [GA Audience](https://policies.google.com/privacy?hl=en)  
-[Treasure Data](https://www.treasuredata.com/)
+[SnowPlow](https://snowplowanalytics.com/)  
+[SnowFlake](https://www.snowflake.com/)
 
 This company helps Mumsnet understand how our site and apps are performing (for example, reporting on the speed that pages take to load).
 
@@ -258,6 +261,34 @@ Mumsnet uses best practice, multi-tier web application security for our servers 
 
 See more + 
 
+######  Alexa Skills 
+
+\+ 
+
+This privacy policy describes how Mumsnet (“Mumsnet”, “us” or “we”) protects your (“you”, “the user”) privacy and your data. Before using any of our Alexa Skills (“our skills”), please read this policy and our [Alexa Skills Terms of Use](https://web.archive.org/web/20191230011524id_/https%3A//www.mumsnet.com/info/terms-of-use), as well as the [Alexa Terms of Use](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201809740) and the [Privacy Policies by the Amazon Digital Services LLC](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909010) (with its affiliates, “Amazon”).
+
+Regarding Amazon, “Alexa” means their Alexa Voice Service which includes third-party services (like our skills) and other related software.
+
+If you use one of our skills you fully agree to this privacy policy.
+
+**General**
+
+When you use our skills you have to talk to Alexa. This voice input is sent to Amazon and us, where we use it to understand what our skill should do for you. This is absolutely necessary for our service to give you an appropriate answer.
+
+**Data**
+
+We only collect personal data necessary to run our skill – this is your due date. We do not share this with anyone outside of Mumsnet.
+
+To improve our services we analyse automatically how often utterances are spoken and other analytics. This is done automatically by Amazon in the Amazon Developer Portal.
+
+For some of our skills, it is necessary to save data for you in our databases. This data is connected to your Alexa-UserId but never to your name or any other personal information. In the case of our “Mumsnet Pregnancy” skill, we save your due date. Otherwise, we would not be able to provide this service.
+
+**Changes**
+
+Our skills or parts of them may change or be updated at any time. Further, this Privacy Policy might change. You can find a link to this policy on the description page of the skill in the Alexa App or in the Alexa Store.
+
+See more + 
+
 ######  Updates 
 
 \+ 
@@ -266,6 +297,8 @@ Further updates will be noted here as and when they are made.
 
 22 May 2018: deletion policy on Private Messages updated  
 8 May 2018: Privacy Policy updated  
-17 September 2018: cookie explanations updated to reflect new consent process
+17 September 2018: cookie explanations updated to reflect new consent process  
+29 August 2019: updates to privacy policy – what data is stored and why  
+12 September 2019: Alexa Skills privacy policy included
 
 See more + 
