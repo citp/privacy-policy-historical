@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontier.co.uk privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603140601id_/https%3A//www.frontier.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontier.co.uk privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230025446id_/https%3A//www.frontier.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Frontier
 
