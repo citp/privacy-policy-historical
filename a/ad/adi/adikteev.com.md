@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adikteev.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312151112id_/https%3A//www.adikteev.com/privacy-policy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adikteev.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230052513id_/https%3A//www.adikteev.com/privacy-policy-eng) for the most accurate reproduction.*
 
 # Privacy Policy – Adikteev
 
