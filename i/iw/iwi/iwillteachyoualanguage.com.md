@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwillteachyoualanguage.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407005735id_/https%3A//www.iwillteachyoualanguage.com/terms-of-service) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwillteachyoualanguage.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230155021id_/https%3A//www.iwillteachyoualanguage.com/terms-of-service) for the most accurate reproduction.*
 
 # Terms of Service & Privacy Policy – I Will Teach You A Language
 
@@ -208,7 +208,14 @@ A cookie is a small text file that we store on your device. Our website uses coo
 
 Cookies are used by nearly all websites and do not harm your system in any way.
 
-Your consent applies to the domain: www.iwillteachyoualanguage.com.
+Your consent applies to the domains:
+
+  * www.iwillteachyoualanguage.com
+  * www.fluentspanishacademy.com
+  * www.languageinfluencersummit.com
+  * www.languageinfluencermastermind.com
+
+
 
 #### **Changes to our privacy policy**
 
