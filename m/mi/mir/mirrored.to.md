@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mirrored.to privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222232id_/https%3A//www.mirrored.to/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrored.to privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230203002id_/https%3A//www.mirrored.to/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mirrored.to - Upload Your files to multiple hosts
 
 **What data does Mirrored.to store about the files I upload?**
 
-  * IP address of the computer from which the upload is started.
+  * IP address of the computer from which the upload is initiated.
   * Timestamp of the upload
   * MD5 checksum of the uploaded file
   * The file URL link entered by the uploader for remote uploads
@@ -12,7 +12,7 @@
 
 
 
-Data listed above may be shared with third party hosting sites you are uploading to as well. This may be required as part of their terms of service. All files uploaded to our servers are stored temporarily for delivery and are deleted when they have been uploaded to third-party websites.
+Data listed above may be shared with third party hosting sites you are uploading to as well. This may be required as part of their terms of service. All files uploaded to our servers are stored temporarily for delivery and are permanently deleted in no later than 24 hours once they have been uploaded to the chosen third-party websites.
 
 **Logging IP Addresses**
 
