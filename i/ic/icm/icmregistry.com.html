@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the icmregistry.com privacy policy that was archived on 2019-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190625082328id_/http%3A//www.icmregistry.com/about/policies/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icmregistry.com privacy policy that was archived on 2019-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191230061937id_/https%3A//icmregistry.com/about/policies/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,110 +14,110 @@ ul.disc {margin-left:20px;font-size:14px;color:#444;list-style-type:disc;margin-
 ul.disc li {margin-bottom:10px;}
 	.sectiontitle {font-weight:700;}
 </style>
-<script type="text/javascript">
+	<script type="text/javascript">
 
- var _gaq = _gaq || [];
- _gaq.push(['_setAccount', 'UA-22768834-2']);
- _gaq.push(['_trackPageview']);
- _gaq.push(['_trackEvent']);
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-22768834-2']);
+	_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackEvent']);
 
- (function() {
-   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
- })();
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
 
 </script>
 <script>
 $(document).ready(function() {
- 	var action = $('#global_domain').val();
-    $("form#global_search").each(function() {
-        var jqForm = $(this);
-        var jsForm = this;
-        jqForm.submit(function(event) { // when someone submits the form(s)
-            event.preventDefault(); // don't submit the form yet
-            _gaq.push(["_trackEvent", "Search", "Domains", action, , false]); // create a custom event
-            setTimeout(function() { // now wait 300 milliseconds...
-                jsForm.submit(); // ... and continue with the form submission
-            },300);
-        });
-    });
- 
+	var action = $('#global_domain').val();
+	$("form#global_search").each(function() {
+		var jqForm = $(this);
+		var jsForm = this;
+		jqForm.submit(function(event) { // when someone submits the form(s)
+			event.preventDefault(); // don't submit the form yet
+			_gaq.push(["_trackEvent", "Search", "Domains", action, , false]); // create a custom event
+			setTimeout(function() { // now wait 300 milliseconds...
+				jsForm.submit(); // ... and continue with the form submission
+			},300);
+		});
+	});
+
 });
 </script>
 <script>
 
-$(document).ready(function() {	
+$(document).ready(function() {
 
 	//select all the a tag with name equal to modal
 	$('a[name=modal]').click(function(e) {
 		//Cancel the link behavior
 		e.preventDefault();
-		
+
 		//Get the A tag
 		var id = $(this).attr('href');
-	
+
 		//Get the screen height and width
 		var maskHeight = $(document).height();
 		var maskWidth = $(window).width();
-	
+
 		//Set heigth and width to mask to fill up the whole screen
 		$('#mask').css({'width':maskWidth,'height':maskHeight});
-		
-		//transition effect		
-		$('#mask').fadeIn(1000);	
-		$('#mask').fadeTo("slow",0.8);	
-	
+
+		//transition effect
+		$('#mask').fadeIn(1000);
+		$('#mask').fadeTo("slow",0.8);
+
 		//Get the window height and width
 		var winH = $(window).height();
 		var winW = $(window).width();
-              
+
 		//Set the popup window to center
 		$(id).css('top',  winH/2-$(id).height()/2);
 		$(id).css('left', winW/2-$(id).width()/2);
-	
+
 		//transition effect
-		$(id).fadeIn(2000); 
-	
+		$(id).fadeIn(2000);
+
 	});
-	
+
 	//if close button is clicked
 	$('.window .close').click(function (e) {
 		//Cancel the link behavior
 		e.preventDefault();
-		
+
 		$('#mask').hide();
 		$('.window').hide();
-	});		
-	
+	});
+
 	//if mask is clicked
 	$('#mask').click(function () {
 		$(this).hide();
 		$('.window').hide();
-	});			
-	
+	});
+
 
 	$(window).resize(function () {
-	 
- 		var box = $('#boxes .window');
- 
-        //Get the screen height and width
-        var maskHeight = $(document).height();
-        var maskWidth = $(window).width();
-      
-        //Set height and width to mask to fill up the whole screen
-        $('#mask').css({'width':maskWidth,'height':maskHeight});
-               
-        //Get the window height and width
-        var winH = $(window).height();
-        var winW = $(window).width();
 
-        //Set the popup window to center
-        box.css('top',  winH/2 - box.height()/2);
-        box.css('left', winW/2 - box.width()/2);
-	 
-	});	
-	
+		var box = $('#boxes .window');
+
+		//Get the screen height and width
+		var maskHeight = $(document).height();
+		var maskWidth = $(window).width();
+
+		//Set height and width to mask to fill up the whole screen
+		$('#mask').css({'width':maskWidth,'height':maskHeight});
+
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
+
+		//Set the popup window to center
+		box.css('top',  winH/2 - box.height()/2);
+		box.css('left', winW/2 - box.width()/2);
+
+	});
+
 });
 
 </script>
@@ -126,126 +126,130 @@ $(document).ready(function() {
 </head>
 
 <body id="pg1" class="pg4 ">
-<div id="header">
-<div style="width:100%;background:#c3c3c3;height:10px;"></div>
-<div style="width:1000px;height:85px;margin:0 auto;">
+	<div id="header">
+		<div style="width:100%;background:#c3c3c3;height:10px;"></div>
+		<div style="width:1000px;height:85px;margin:0 auto;">
 
-<a id="logo" href="/">
-</a>
-<script>
-$(document).ready(function(){
-	//MAIN MENU
-	$('#menu .mli').mouseover(function(){
-		$(this).children('ul').show();
-		$(this).children('.catlink').addClass('selected');
-	});
-	$('#menu .mli').mouseout(function(){
-		$(this).children('ul').hide();
-		$(this).children('.catlink').removeClass('selected');
-	});
-	//GET BODY ID
-	pgMenu = $('body').attr('id');
-	pgNav = $('body').attr('class').split(' ')[0];
-	//MAIN MENU SELECTED
-	$('#men-'+pgMenu).addClass('active');
-	//NAVIGATION SELECTED
-	$('#nav-'+pgNav).parent('li').addClass('selected');
-	//$('#nav-'+pgNav).parent('li').append('<div style="width:9px;height:13px;background:url(/images/selected-arrow.gif) no-repeat 0 0;position:absolute;right:-39px;top:10px;"></div>');
-	
-});
-</script>  
+			<a id="logo" href="/">
+			</a>
+			<script>
+			$(document).ready(function(){
+				//MAIN MENU
+				$('#menu .mli').mouseover(function(){
+					$(this).children('ul').show();
+					$(this).children('.catlink').addClass('selected');
+				});
+				$('#menu .mli').mouseout(function(){
+					$(this).children('ul').hide();
+					$(this).children('.catlink').removeClass('selected');
+				});
+				//GET BODY ID
+				pgMenu = $('body').attr('id');
+				pgNav = $('body').attr('class').split(' ')[0];
+				//MAIN MENU SELECTED
+				$('#men-'+pgMenu).addClass('active');
+				//NAVIGATION SELECTED
+				$('#nav-'+pgNav).parent('li').addClass('selected');
+				//$('#nav-'+pgNav).parent('li').append('<div style="width:9px;height:13px;background:url(/images/selected-arrow.gif) no-repeat 0 0;position:absolute;right:-39px;top:10px;"></div>');
 
-<script>
-$(document).ready(function(){
-	$(document).scroll(function(){
-		if($(document).scrollTop() >= 155 && $('#navcont').length > 0){
-			$('#navcont').addClass('detach');
-			if($('#nav.row h1').css('margin-left')=='0px'){
-				
-				$('#nav.row h1').animate({marginLeft : 100},50,function(){$('.logosub').show();});	
-			}
-			
-			//$('#navcont.detach').animate({top: 0},500);
-			$('#subcontainer').addClass('detach');
-		}
-		else {
-			if($('#nav.row h1').css('margin-left')=='100px'){
-				$('.logosub').hide();
-					$('#nav.row h1').animate({marginLeft : 0},50);	
-				
-				
-			}
-			
-			$('#navcont').removeClass('detach');
-			$('#subcontainer').removeClass('detach');
-			}
-	});
-});
-</script>  
-            
-   
-      <ul id="menu">
-      <li id="menu_about" class="mli">
-      <a class="catlink" id="men-pg1" href="#">ABOUT</a>
-      <ul>
-      <li><a href="/about/sponsored-community">Sponsored Community</a></li>
-      <li><a href="/about/policies">Policies</a></li>
-      <li><a href="/about/events">Upcoming Events</a></li>
-      </ul>
-      </li>
-      <li id="menu_domains" class="mli">
-      <a class="catlink" id="men-pg0" href="/domains">DOMAINS</a>
-      <ul>
-      <li><a href="/domains/">Get Your .XXX</a></li>
-      <li><a href="/domains/available">Available Domains</a></li>
-      <li><a href="/domains/premium">Premium Domains</a></li>
-      <li><a href="/registrars">Where to Buy</a></li>
-      </ul>
-      </li>
-      <li id="menu_programs" class="mli">
-      <a class="catlink" id="men-pg4" href="/programs/gtlds">PROGRAMS</a>
-      <ul>
-      <li><a href="/programs/gtlds">.XXX, .PORN, .SEX, .ADULT</a></li>
-      <li><a href="/programs/brandprotection/">Brand Protection</a></li>
-      <li><a href="/programs/recommended">Recommended Programs</a></li>
-      </ul>
-      </li>
-      <li id="menu_registrars" class="mli">
-      <a class="catlink" id="men-pg3" href="/registrars">REGISTRARS</a>
-      <ul>
-      <li><a href="/registrars">Accredited Registrars</a></li>
-      <li><a href="/registrars/become">Registrar Accreditation</a></li>
-      </ul>
-      </li>
-      <li id="menu_media" class="mli">
-      <a class="catlink" id="men-pg2" href="/media/press">MEDIA</a>
-      <ul>
-      <li><a href="/media/press">Press</a></li>
-      </ul>
-      </li>
-      <li id="menu_contact" class="mli">
-      <a class="catlink" id="men-pg5" href="/contact">CONTACT</a>
-      <ul>
-      <li><a href="/contact">Contact Us</a></li>
-      <li><a href="/contact/report-abuse/">Report Abuse</a></li>
-      <li><a href="/members">Membership</a></li>
-      <li><a href="/support/faq">FAQ</a></li>
-      <li><a href="/email/updated-membership-process.php" target="_blank">Member Login</a></li>
-      </ul>
-      </li>
-      <li id="menu_whois" class="mli">
-      <a class="catlink" id="men-pg6" href="/whois">WHOIS</a>
-      </li>
-      </ul>
-         
-          
-          
-          
-     <div style="width:220px;height:34px;border:1px solid #d5d5d5;float:right;margin-top:35px;">
-     <form action="/domains" target="_blank" method="get" id="global_search">
-     <input name="domain" placeholder="Find Your Domain" class="buy" id="global_domain"><input type="submit" class="btn send squared" style="width:77px;padding:0 0 0 0;height:34px;" value="SEARCH">
-     </form>
-     </div>     
+			});
+		</script>
+
+		<script>
+		$(document).ready(function(){
+			$(document).scroll(function(){
+				if($(document).scrollTop() >= 155 && $('#navcont').length > 0){
+					$('#navcont').addClass('detach');
+					if($('#nav.row h1').css('margin-left')=='0px'){
+
+						$('#nav.row h1').animate({marginLeft : 100},50,function(){$('.logosub').show();});
+					}
+
+					//$('#navcont.detach').animate({top: 0},500);
+					$('#subcontainer').addClass('detach');
+				}
+				else {
+					if($('#nav.row h1').css('margin-left')=='100px'){
+						$('.logosub').hide();
+						$('#nav.row h1').animate({marginLeft : 0},50);
+
+
+					}
+
+					$('#navcont').removeClass('detach');
+					$('#subcontainer').removeClass('detach');
+				}
+			});
+		});
+	</script>
+
+
+	<ul id="menu">
+		<li id="menu_about" class="mli">
+			<a class="catlink" id="men-pg1" href="#">ABOUT</a>
+			<ul>
+				<li><a href="/about/sponsored-community">Sponsored Community</a></li>
+				<li><a href="/about/policies">Policies</a></li>
+				<li><a href="/about/events">Upcoming Events</a></li>
+			</ul>
+		</li>
+		<li id="menu_domains" class="mli">
+			<a class="catlink" id="men-pg0" href="/domains">DOMAINS</a>
+			<ul>
+				<li><a href="/domains/">Get Your .XXX</a></li>
+				<li><a href="/domains/available">Available Domains</a></li>
+				<li><a href="/domains/premium">Premium Domains</a></li>
+				<li><a href="/expired">Expired Domains</a></li>
+				<li><a href="/registrars">Where to Buy</a></li>
+			</ul>
+		</li>
+		<li id="menu_programs" class="mli">
+			<a class="catlink" id="men-pg4" href="/programs/gtlds">PROGRAMS</a>
+			<ul>
+				<li><a href="/programs/gtlds">.XXX, .PORN, .SEX, .ADULT</a></li>
+				<li><a href="/programs/brandprotection/">Brand Protection</a></li>
+				<li><a href="/programs/recommended">Recommended Programs</a></li>
+			</ul>
+		</li>
+		<li id="menu_registrars" class="mli">
+			<a class="catlink" id="men-pg3" href="/registrars">REGISTRARS</a>
+			<ul>
+				<li><a href="/registrars">Accredited Registrars</a></li>
+				<li><a href="/registrars/become">Registrar Accreditation</a></li>
+			</ul>
+		</li>
+		<li id="menu_media" class="mli">
+			<a class="catlink" id="men-pg2" href="/media/press">MEDIA</a>
+			<ul>
+				<li><a href="/media/press">Press</a></li>
+			</ul>
+		</li>
+		<li id="menu_contact" class="mli">
+			<a class="catlink" id="men-pg5" href="/contact">CONTACT</a>
+			<ul>
+				<li><a href="/contact">Contact Us</a></li>
+				<li><a href="/contact/report-abuse/">Report Abuse</a></li>
+				<li><a href="/members">Membership</a></li>
+				<li><a href="/support/faq">FAQ</a></li>
+				<li><a href="/email/updated-membership-process.php" target="_blank">Member Login</a></li>
+			</ul>
+		</li>
+		<li id="menu_whois" class="mli">
+			<a class="catlink" id="men-pg6" href="/whois">WHOIS</a>
+		</li>
+		<li id="menu_migration" class="mli">
+			<a class="catlink" id="men-pg7" href="/migration">MIGRATION</a>
+		</li>
+	</ul>
+
+
+
+
+	<div style="width:220px;height:34px;border:1px solid #d5d5d5;float:right;margin-top:35px;">
+		<form action="/domains" target="_blank" method="get" id="global_search">
+			<input name="domain" placeholder="Find Your Domain" class="buy" id="global_domain"><input type="submit" class="btn send squared" style="width:77px;padding:0 0 0 0;height:34px;" value="SEARCH">
+		</form>
+	</div>
 
 </div>
 <style>
