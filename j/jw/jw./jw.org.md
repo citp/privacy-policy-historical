@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jw.org privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619204914id_/https%3A//www.jw.org/finder%3Fdocid%3D1011512%26prefer%3Dcontent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jw.org privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230224632id_/https%3A//www.jw.org/finder%3Fdocid%3D1011512%26prefer%3Dcontent) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,13 +28,15 @@ If you are a minor in the country in which you are accessing our website, you ma
 
 ##  THIRD-PARTY VENDORS
 
-At times this website will contain links to the website of a third-party vendor we have retained to perform services on our behalf (for example, the filling out of online forms). You will know that you are on a third-party vendor’s website because it will have a different appearance and the address bar on your browser will change. At the time we select third-party vendors, and periodically thereafter, we inspect their privacy and data protection policies to ensure that they meet the same standards we use for our own policies. If you have questions about a third-party vendor’s policies, please see the policy listed on their website.
+At times this website will contain links to the website of a third-party vendor we have retained to perform services on our behalf (for example, the filling out of online forms). You will know that you are on a third-party vendor’s website because it will have a different appearance and the address bar on your browser will change. At the time we select third-party vendors, and periodically thereafter, we inspect their privacy and data protection policies to ensure that they meet the same standards we use for our own policies. However, these third-party vendors provide apps and services whose programming, terms of use, privacy policies, and general conditions that we cannot control. For this reason, your use of those apps and services on this website is subject to the current terms of service and general conditions set by the third-party vendor. We are not informed of updates so please review the terms before using the third-party service. If you have questions about a third-party vendor’s policies, please see the policy listed on their website.
 
-##  NOTIFICATION OF CHANGES TO THIS POLICY
+ Your use of Google Maps services on this website is subject to the current [Google Privacy Policy](https://policies.google.com/privacy). Google is a third-party vendor whose apps, programming, and [Terms of Service](https://policies.google.com/terms) we cannot control. For this reason, your use of Google Maps services on this website is subject to the current [Google Maps/Google Earth Additional Terms of Service](https://maps.google.com/help/terms_maps/). We are not informed of updates so please review the terms before using Google Maps services. Do not use Google Maps services if you do not accept the terms.
 
-We are continually improving and adding new functionality and features to this website, and improving and adding to our existing services. Because of these ongoing changes, as well as changes in the law and the nature of technology, our data practices will change from time to time. When it proves necessary to change our Policy, we will post any changes on this page so that you are always aware of what information we collect and how we use it.
+## NOTIFICATION OF CHANGES TO THIS POLICY
 
-##  ACTIVE SCRIPTING OR JAVASCRIPT
+ We are continually improving and adding new functionality and features to this website, and improving and adding to our existing services. Because of these ongoing changes, as well as changes in the law and the nature of technology, our data practices will change from time to time. When it proves necessary to change our Policy, we will post any changes on this page so that you are always aware of what information we collect and how we use it.
+
+## ACTIVE SCRIPTING OR JAVASCRIPT
 
 Scripting is used to improve the functionality of our website. Scripting technology allows the site to return information more quickly to you. Scripting is never used by the site to install software on your computer or to collect unauthorized information from you.
 
