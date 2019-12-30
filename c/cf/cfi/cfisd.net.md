@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the cfisd.net privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524084238id_/https%3A//www.cfisd.net/en/news-media/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfisd.net privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230195417id_/https%3A//www.cfisd.net/en/news-media/privacy-policy) for the most accurate reproduction.*
 
-# Cypress-Fairbanks Independent School District :: Privacy Policy
+# Privacy Policy :: Cypress-Fairbanks Independent School District
+
+  * [Home](https://www.cfisd.net/en)
+  * [News & Media](https://www.cfisd.net/en/news-media)
+  * [Privacy Policy](https://www.cfisd.net/en/news-media/privacy-policy)
+
+
 
 Cypress-Fairbanks Independent School District (CFISD) is strongly committed to protecting the privacy and security of the users of its website. Our Privacy Policy is your assurance that we will protect your personal information, to the maximum extent available. 
 
