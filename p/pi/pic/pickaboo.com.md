@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickaboo.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522023333id_/https%3A//www.pickaboo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickaboo.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230112331id_/https%3A//www.pickaboo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | pickaboo.com
 
