@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelaudience.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610072418id_/https%3A//travelaudience.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelaudience.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230213322id_/https%3A//travelaudience.com/website-privacy-policy) for the most accurate reproduction.*
 
 # travel audience - website privacy policy
 
@@ -41,7 +41,7 @@ travel audience principally only collects and uses your personal data insofar as
 
 ## What are personal data and which types are recorded on this website?
 
- **Personal data** is any information, which refers to an identified or identifiable natural person. This is therefore all data, which identify you as an individual or make identifiable. For example name, postal address, telephone number, e-mail address.
+**Personal data** is any information, which refers to an identified or identifiable natural person. This is therefore all data, which identify you as an individual or make identifiable. For example name, postal address, telephone number, e-mail address.
 
 The processing of personal data is only carried out if this is permitted by statutory regulations.
 
@@ -85,7 +85,7 @@ After this general overview of the use of your personal data and their legal bas
 
 With the mere informational use of our website, therefore if you do not register or otherwise send information, we will only collect the personal data, which your b. If you would like to view our website, we will collect the following data, which are necessary for us from a technical point of view in order to display our website to you and the guarantee the stability and security, the legal basis is Art 6 Para. 1 S. 1 lit. f GDPR:
 
- **Technical data:  
+**Technical data:  
 **These include  
 Your registration data,  
 Type and version of your browser,  
@@ -93,10 +93,10 @@ Your time zone setting,
 Type and version of your browser plugins,  
 Your operating system and your platform.
 
- **Location data:  
+**Location data:  
 **If you use the website we enter details relating to your geographical data. These location details enable us to offer you location-based products and services at the respective time. They will, however, not be stored by us or forwarded to third parties.
 
- **Non-personal data:  
+**Non-personal data:  
 **Collected information relating to your use of the website, your full URL-click stream (Uniform Resource Locator), via the and from the website (with details of data and time), the products displayed or searched for by you, answer times of the sites, download errors, duration of the display of certain sites, Information relating to the site interactions (how e.g. scrolling, clicking and mouse-over) as well as the methods used to leave the site.
 
 ## What happens with your personal data when you have left our website again?
@@ -119,22 +119,22 @@ A cookie is a text file with small quantities of information, which is downloade
 
 There are two main types of cookies: Session Cookies and Persistent Cookies.
 
- **Session Cookies** are only allocated to your computer or mobile device for the duration of the visit to a website and will be deleted as soon as you close the browser.
+**Session Cookies** are only allocated to your computer or mobile device for the duration of the visit to a website and will be deleted as soon as you close the browser.
 
- **Persistent Cookies** , on the other hand, are stored on your device until they are deleted or expire.
+**Persistent Cookies** , on the other hand, are stored on your device until they are deleted or expire.
 
 ## Which cookies are used on this website?
 
- **Absolutely necessary cookies _  
+**Absolutely necessary cookies _  
 _** These are necessary in order for you to be able to navigate on the website and can use its functions, e.g. with the access to secure areas of the website. Without these cookies services requested by you cannot be made available. These cookies do not collect any information about you, which can be used for marketing purposes. We have a legitimate interest in the use of these cookies as otherwise you cannot use our website, or we cannot present our website to you in a functional manner.
 
- **Function-related cookies _  
+**Function-related cookies _  
 _** These collect information concerning how this website is used by you. For example, information can be collected regarding which pages you have visited more frequently or when you have received an error message from one of the pages on this website. These cookies do not collect direct information, which identifies you.
 
- **Functionality cookies _  
+**Functionality cookies _  
 _** With the help of these cookies the website can remember your individual settings, the preferred language or the region, in which you are located. The website subsequently uses this information to provide improved functions. These cookies can also be used in order to remember changes, which you have made to text size, font and other adjustable parts of the website. Even if the information collected by these cookies is anonymous, these cookies can identify you in combination with other data, because they track certain information of your internet provider for your settings.
 
- **Target-oriented cookies _  
+**Target-oriented cookies _  
 _** These cookies collect various items of information about your surfing habits. These cookies store that you have visited various websites, and transmits the information to other companies, e.g. advertising companies. The pursued purpose is to display target-oriented advertising to you, which are more relevant for you and your interests. Although these cookies can track your visits to websites in the internet, the cookies themselves do not usually know where you are located. Without these cookies the online advertisements displayed to you are of less relevance for you and your interests.
 
 ## How can cookies be restricted or blocked?
@@ -205,7 +205,7 @@ We use so-called Web-Analytic Tools on our website. Below we will explain to you
 
 ## The use of Google Analytics on our website
 
- **How Google Analytics works and why we use it**
+**How Google Analytics works and why we use it**
 
 On our website we use Google Analytics, a web analysis service of Google Inc. (“Google”).
 
@@ -217,7 +217,7 @@ We use Google Analytics in order to analyze the use of our website and in order 
 
 On our website we use Google Analytics moreover for a cross-device analysis of visitor flows, which is carried out via a user-ID. In your customer account, go to “My data”, “personal data”, you can deactivate the cross-device analysis of your use.
 
- **How can the use of Google Analytics be prevented and which consequences will this have?**
+**How can the use of Google Analytics be prevented and which consequences will this have?**
 
 You can prevent the storage of the cookies by adjusting the setting of your browser software; however we would like to point out that in this case you may not be able to use all functions of this website in full. In addition you can prevent the entry of the data generated by the cookie and which refer to your use of the website (incl. your IP address) to Google as well as the processing of these data by Google by downloading and installing the browser plugin available under the following link: <http://tools.google.com/dlpage/gaoptout?hl=de>.
 
@@ -225,7 +225,7 @@ This website uses Google Analytics with the extension “_anonymizeIp()”. This
 
 The legal basis for the use of Google Analytics is Art. 6 Para. 1 S. 1 lit. f GDPR.
 
- **You can find further information here**
+**You can find further information here**
 
 Information of the third party provider: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001. Conditions of use: <http://www.google.com/analytics/terms/de.html>,
 
@@ -333,17 +333,17 @@ The website is not oriented to individuals under the age of eighteen (18) years 
 
 According to the GDPR you are entitled to the following rights against us:
 
- **Right of access by the data subject pursuant to Art.  15 GDPR**
+**Right of access by the data subject pursuant to Art.  15 GDPR**
 
- **Right to rectification Art.  16 GDPR**
+**Right to rectification Art.  16 GDPR**
 
- **Right to erasure (“right to be forgotten”) Art.  17 GDPR**
+**Right to erasure (“right to be forgotten”) Art.  17 GDPR**
 
- **Right to restriction of processing Art.  18 GDPR**
+**Right to restriction of processing Art.  18 GDPR**
 
- **Right to notification Art.  19 GDPR**
+**Right to notification Art.  19 GDPR**
 
- **Right to data portability Art.  20 GDPR**
+**Right to data portability Art.  20 GDPR**
 
 The following link [http://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&rid=1](http://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&rid=1) leads you directly to the text of the GDPR law
 
