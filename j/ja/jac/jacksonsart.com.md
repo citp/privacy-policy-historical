@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jacksonsart.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404232852id_/https%3A//www.jacksonsart.com/site-security-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonsart.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230033011id_/https%3A//www.jacksonsart.com/site-security-privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy | Jackson's Art Supplies
+# Privacy Notice | Jackson's Art Supplies
 
 This policy outlines how we obtain, store, use and share your personal information
 
