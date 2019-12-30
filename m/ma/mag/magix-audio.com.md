@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magix-audio.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609115445id_/https%3A//www.magix.com/int/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magix-audio.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230134604id_/https%3A//www.magix.com/int/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
