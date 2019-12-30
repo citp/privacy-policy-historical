@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the researchgate.net privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627193829id_/https%3A//www.researchgate.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchgate.net privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230211526id_/https%3A//www.researchgate.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ResearchGate, the professional network for scientists.
 
@@ -134,6 +134,10 @@ With respect to Google Analytics, the following additional safeguards apply: we 
 To opt out from Google Analytics, please click
 
 [here](https://tools.google.com/dlpage/gaoptout?hl=en).
+
+If you are a Californian resident, please click
+
+to limit Google’s ability to use your personal data for the serving of personalized ads.
 
  **G. Communications**
 
