@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mayoclinic.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629132049id_/https%3A//www.mayoclinic.org/about-this-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayoclinic.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231001321id_/http%3A//www.mayoclinic.org/about-this-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - About This Site - Mayo Clinic
 
-This policy was last updated on May 25th, 2018.
+This policy was last updated on August 13, 2019.
 
 ### Web privacy policy
 
-We take your privacy seriously, and we want you to know how we collect, use, share and protect your information. In addition to this privacy policy, users of the Mayo Clinic site should consult the Mayo Clinic site terms of use as well as any product specific terms and conditions that apply. You may review [policies](http://www.mayo.edu/pmts/mc5200-mc5299/mc5256-01.pdf) specifically related to patient information (protected health information, or PHI) submitted through Mayo Clinic's patient portal. This policy applies to MayoClinic.org, MayoClinic.edu and other Web locations under Mayo Clinic's control. Other Mayo Clinic online properties may have their own privacy policies that apply to those sites. You should review those privacy policies in connection with your use of those sites.
+We take your privacy seriously, and we want you to know how we collect, use, share and protect your information. In addition to this privacy policy, users of the Mayo Clinic site should consult the Mayo Clinic site terms of use as well as any product specific terms and conditions that apply. You may review [policies](https://www.mayo.edu/pmts/mc5200-mc5299/mc5256-01.pdf) specifically related to patient information (protected health information, or PHI) submitted through Mayo Clinic's patient portal. This policy applies to MayoClinic.org, MayoClinic.edu and other Web locations under Mayo Clinic's control. Other Mayo Clinic online properties may have their own privacy policies that apply to those sites. You should review those privacy policies in connection with your use of those sites.
 
 ### What information we collect
 
@@ -18,7 +18,7 @@ Much of this information is collected through cookies, web beacons and other tra
 
 ### Email communications, newsletter and related services
 
-MayoClinic.org provides you with the opportunity to receive communications from us or third parties. You can sign up for a free email newsletter. You can unsubscribe from this newsletter at any time.
+MayoClinic.org provides you with the opportunity to receive communications from us or third parties. You can sign up for a free Mayo Clinic House Call email newsletter. You can unsubscribe from this newsletter at any time.
 
 Email communications that you send to us via the email links on our site may be shared with a customer service representative, employee, medical expert or agent that is most able to address your inquiry. We make every effort to respond in a timely fashion once communications are received. Once we have responded to your communication, it is discarded or archived, depending on the nature of the inquiry.
 
@@ -28,7 +28,7 @@ You may decide at some point that you no longer wish to receive communications f
 
   1. Mayo Privacy Officer
   2. MayoClinic.org
-  3. 200 First St. SW 
+  3. 200 First St. SW
   4. Rochester, MN 55905
 
 
@@ -53,6 +53,8 @@ We use the information we collect for things like:
   * Establishing and managing your accounts with us
 
 
+
+We may combine this information with any other information we have about you, including, if you are a Mayo Clinic Patient, any PHI we have about you. If we combine this information with your PHI, we will treat all of that information as PHI, and will only use or disclose that information as set forth in our notice of privacy practices.
 
 ### Data retention
 
@@ -134,12 +136,15 @@ If you have a question or concern regarding your privacy, please contact Mayo Cl
 
   1. Mayo Clinic Privacy Officer
   2. 200 First St. SW
-  3. Rochester, MN 55905 
-  4. 507-266-6286 
+  3. Rochester, MN 55905
+  4. 507-266-6286
   5. dlenterpriseprivacyoffice@mayo.edu
 
 
 
-May 25, 2018
+Aug. 23, 2019
 
 . 
+  *[PHI]: protected health information
+  *[SSL]: Secure Sockets Layer
+  *[EEA]: European Economic Area
