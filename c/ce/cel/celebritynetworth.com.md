@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritynetworth.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610210724id_/https%3A//www.celebritynetworth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritynetworth.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231000424id_/https%3A//www.celebritynetworth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Celebrity Net Worth
 
