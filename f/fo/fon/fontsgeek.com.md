@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontsgeek.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222191742id_/http%3A//fontsgeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontsgeek.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230200518id_/http%3A//fontsgeek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Fontsgeek
 
@@ -6,4 +6,4 @@ Your privacy is an important part of our relationship with you. Protecting your 
 
 When we place links or advertising banners to other sites from our website, please note that we do not control the content, practices or privacy policies of any of these other sites. We do not endorse or hold ourselves responsible for the privacy policies or information gathering practices of any other websites, other than sites run by us. 
 
-We may use [third-party advertising companies](http://d2n34hka6o6fwq.cloudfront.net/pp.html) to serve ads when you visit our website. 
+We may use [third-party advertising companies](https://d2n34hka6o6fwq.cloudfront.net/pp.html) to serve ads when you visit our website. 
