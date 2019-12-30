@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashleyrnadison.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626215127id_/https%3A//www.ashleyrnadison.com/app/public/privacy.p%3Fc%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleyrnadison.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230194705id_/https%3A//www.ashleyrnadison.com/app/public/privacy.p%3Fc%3D2) for the most accurate reproduction.*
 
 # Ashley Madison® | Privacy Policy
 
