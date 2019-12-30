@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pesdb.net privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117110611id_/http%3A//pesdb.net/pes2019/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pesdb.net privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230132857id_/http%3A//pesdb.net/pes2020/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
-# PES Database 2019
+# PES Database 2020
 
 **Privacy Policy for pesdb.net**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by [clicking here](https://web.archive.org/web/20181117110611id_/http%3A//pesdb.net/pes2019/?page=contact).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by [clicking here](https://web.archive.org/web/20191230132857id_/http%3A//pesdb.net/pes2020/?page=contact).
 
 At pesdb.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by pesdb.net and how it is used.
 
@@ -17,7 +17,7 @@ pesdb.net does use cookies to store information about visitors preferences, reco
 **DoubleClick DART Cookie**  
 \- Google, as a third party vendor, uses cookies to serve ads on pesdb.net.  
 \- Google's use of the DART cookie enables it to serve ads to your users based on their visit to pesdb.net and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <http://www.google.com/privacy_ads.html>
+\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <https://www.google.com/privacy_ads.html>
 
 Some of our advertising partners may use cookies and web beacons on our site.  
 Our advertising partners include Google Adsense.
@@ -30,4 +30,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-[Return to Home Page](https://web.archive.org/web/20181117110611id_/http%3A//pesdb.net/pes2019/)
+[Return to Home Page](https://web.archive.org/web/20191230132857id_/http%3A//pesdb.net/pes2020/)
