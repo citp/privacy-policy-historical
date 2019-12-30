@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elfster.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330200946id_/https%3A//www.elfster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elfster.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230222747id_/https%3A//elfster.com/privacy) for the most accurate reproduction.*
 
 # The Elfster Privacy Policy
 
