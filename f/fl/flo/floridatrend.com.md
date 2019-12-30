@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531063030id_/https%3A//www.floridatrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230192052id_/https%3A//www.floridatrend.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Welcome to FloridaTrend.com.** This website is operated by Trend Magazines Inc. We are committed to protecting personal information about our users and persons who transact business through Web sites we own and operate, including but not limited to: [FloridaTrend. com](http://www.floridatrend.com/), [www.BusinessFlorida.com](http://www.businessflorida.com/), [FloridaSmallBusiness.com](http://www.floridasmallbusiness.com/), [ResearchFlorida.com](http://www.researchflorida.com/) and [FloridaNEXT.com](http://www.floridanext.com/). 
+**Welcome to FloridaTrend.com.** This website is operated by Trend Magazines Inc. We are committed to protecting personal information about our users and persons who transact business through Web sites we own and operate, including but not limited to: [FloridaTrend. com](https://www.floridatrend.com/), [BusinessFlorida.com](http://www.businessflorida.com/), [FloridaSmallBusiness.com](http://www.floridasmallbusiness.com/), [ResearchFlorida.com](http://www.researchflorida.com/) and [FloridaNEXT.com](https://www.floridanext.com/). 
 
 Our postal address is **490 1st Ave. S., St. Petersburg, FL 33701**. 
 
