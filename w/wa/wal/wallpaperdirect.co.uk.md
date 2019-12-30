@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperdirect.co.uk privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609195619id_/https%3A//www.wallpaperdirect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperdirect.co.uk privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230233718id_/https%3A//www.wallpaperdirect.com/privacy) for the most accurate reproduction.*
 
 # Privacy notice : Wallpaper Direct
 
