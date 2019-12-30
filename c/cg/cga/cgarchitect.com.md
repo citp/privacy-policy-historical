@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgarchitect.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120232153id_/http%3A//www.cgarchitect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgarchitect.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230084008id_/http%3A//www.cgarchitect.com/privacy) for the most accurate reproduction.*
 
 # CGarchitect - Professional 3D Architectural Visualization User Community | Privacy Policy
 
