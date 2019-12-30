@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the peterboroughtoday.co.uk privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627091728id_/https%3A//www.jpimedia.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterboroughtoday.co.uk privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230162839id_/https%3A//www.jpimedia.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – JPIMedia Ltd
 
 **ABOUT US**  
-JPIMedia Ltd (“ **we** ”, ” **our** ”, “ **us** ”) respect the privacy of our website users (“ **you** ”) and we recognise the need for appropriate protections and management of your personal information.  
+JPIMedia Publishing Limited (“ **we** ”, ” **our** ”, “ **us** ”) respect the privacy of our website users (“ **you** ”) and we recognise the need for appropriate protections and management of your personal information.
+
 When we, and our service providers, collect and use your personal information and special category data, we are the data controller for the purposes of Data Protection Legislation (defined below).
 
 **PURPOSE**
@@ -62,7 +63,7 @@ The following third parties may have access to your personal information for the
   * Event organisers: where we hold events, we may share your personal information with third party organisers of the event including caterers and venues, for example, we may share your name with the venue for the purposes of administering a guest list.
   * Competition prize providers: where you enter one of our competitions, we may share your information with the third party who is supplying the prize to ensure they are able to provide you with the prize.
   * Cookies providers: for example, Google Analytics and 1PlusXAG, please see our cookies information tool for further information.
-  * JPIMedia Ltd  is part of a group structure, and your personal information may require to be transferred to one of our subsidiaries in order to ensure the proper functioning of our business;
+  * JPIMedia Publishing Limited is part of a group structure, and your personal information may require to be transferred to one of our subsidiaries or affiliates in order to ensure the proper functioning of our business;
   * any other person who is authorised to act on your behalf;
   * regulators, government departments, law enforcement authorities, tax authorities, accountants, insurance companies, lawyers and other professional advisers;
   * any relevant dispute resolution body or the courts; and
