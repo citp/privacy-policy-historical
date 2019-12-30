@@ -1,265 +1,795 @@
-> *The following text is extracted and transformed from the discovery.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630203027id_/https%3A//corporate.discovery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovery.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230222436id_/https%3A//corporate.discovery.com/privacy-policy) for the most accurate reproduction.*
 
 # DISCOVERY COMMUNICATIONS PRIVACY POLICY – Discovery, Inc.
 
-****DISCOVERY COMMUNICATIONS PRIVACY POLICY****
+**PRIVACY NOTICE**
 
-This privacy policy applies only to the websites and applications controlled by Discovery Communications, LLC and/or its subsidiary and affiliated entities (“Discovery,” “we” or “us”) where this privacy policy is posted (collectively, the “Sites”). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
+**LAST UPDATED: December 2019  
+**
 
-  1. ****Information Collected****
+**NOTE:   The Discovery Privacy Notice has been updated.  Please review the updated Privacy Notice carefully before using the Discovery Services.**
 
+_____________________________________________________________________________________
 
+This Privacy Notice (“Notice”) describes the privacy practices of Discovery Communications, LLC and/or its subsidiary and affiliated entities (“Discovery,” “we” or “us”) with regard to Services where this Notice is posted.  You can find out more information about Discovery, including our subsidiaries and affiliates, [_here_](https://corporate.discovery.com/businesses-and-brands/).
 
-This privacy policy applies only to information collected on the Sites and does not apply to information collected by Discovery through any other means. For details on the information collected and used from children under the age of 13, [click here](http://corporate.discovery.com/privacy-policy/#children).
+This Notice explains how we collect, use, and share information about users who interact with our websites, applications, our content on connected televisions, or other interactive services that link to or reference this Privacy Notice (“Services”).  This Notice does not apply to our collection of information from other features, services, or sources (unless specifically stated), or to third parties that provide information to Discovery.
 
-We collect two types of information from visitors to the Sites: (1) Personally Identifiable Information; and (2) Non-Personally Identifiable Information, such as your IP address or cookies.
+By accessing and using the Services, you agree to our collection and use of your information in the manner described in this Notice.  If you disagree with the terms of this Notice, you should not use the Services.
 
-****(1) Personally Identifiable Information****
+This Notice explains:
 
-“Personally Identifiable Information” is information that identifies you personally, such as your name, address, telephone number, email address, or company name. Discovery collects and stores the personally identifiable information that you have provided to us. Here are some examples of manners in which we may collect your personally identifiable information on the Sites:
+  1. GEOGRAPHIC SCOPE OF THE NOTICE
+  2. TYPES OF INFORMATION WE COLLECT FROM OR ABOUT YOU
+  3. HOW WE USE THE INFORMATION WE COLLECT
+  4. WHEN WE SHARE INFORMATION
+  5. CHOICES YOU HAVE REGARDING THE COLLECTION, USE, AND SHARING OF INFORMATION
+  6. HOW WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES
+  7. ADDITIONAL PRIVACY INFORMATION FOR CALIFORNIA RESIDENTS
+  8. ADDITIONAL PRIVACY INFORMATION FOR NEVADA RESIDENTS
+  9. HOW WE PROTECT CHILDREN’S INFORMATION
+  10. HOW WE MAINTAIN AND SECURE THE INFORMATION WE COLLECT
+  11. THIRD-PARTY SITES, SERVICES, AND FEATURES
+  12. GOVERNING LAW AND VENUE
+  13. UPDATES TO THE NOTICE
+  14. HOW YOU CAN CONTACT US
 
-  * We may collect your email address, first and last name and zip code if you sign up for an online newsletter;
-  * We may collect your email address if you contact us with a question;
-  * We may collect your first and last name, date of birth and email address if you choose to participate in a contest or sweepstakes; and
-  * We may collect your first and last name, your address, and your credit card and billing information if you make a purchase of a product at the Discovery Store.
-  * We may collect your email address, place of residence and other information from your public profile if you register for one of our websites through a social media site such as Facebook.
 
+  1. **GEOGRAPHIC SCOPE OF THE NOTICE**
 
 
-The above list provides an example of the personally identifiable information that may be collected on the Sites. If you do not want Discovery to collect your personally identifiable information, please do not provide it to us.
 
-****(2) Non-Personally Identifiable Information****
+The Services are operated in the United States and are intended for users located in the United States.  The Services are therefore governed by and operated in accordance with the laws of the United States.  If you are located outside of the United States, please be aware that information you provide to us or that we obtain as a result of your use of the Services will be collected in the United States and/or transferred to the United States and will be subject to U.S. law.
 
-“Non-Personally Identifiable Information” can be technical information or it can be demographic information, such as your age, gender or interests. Non-personally identifiable information does NOT identify you personally. Here are some examples of the non-personally identifiable information that is collected via the Sites and a description of how this information is used:
+By using the Services and/or providing us with information, you (a) consent to the transfer and/or processing of any information to and in the United States, (b) acknowledge that U.S. law may provide a lower standard of protection for information than the laws of your location, (c) understand that we will collect, transfer, store, process and share your information from or about you in accordance with this Notice and U.S. law.
 
-  * Internet Protocol (IP) address – Your IP address is a number that lets computers attached to the Internet know where to send you data – such as the webpages you view. We use this information to deliver our webpages to you upon request, to tailor our Sites to the interests of our users and to measure traffic within our Sites.
-  * Cookie – A “cookie” is a small text file that may be used to collect information about your activity on the Sites. For example, when someone visits a page within the Sites, a cookie is placed on the user’s machine (if the user accepts cookies) or is read if the user has visited the Sites previously. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our Sites.
-  * Web Beacons (also known as “clear gifs,” “web bugs” or “pixel tags”) – “Web Beacons” are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of the Sites and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, web beacons can tell the sender whether and when the email has been opened. In contrast to cookies, which are stored on a user’s computer hard drive, web beacons are embedded invisibly on web pages.
-  * Demographic Information – “Demographic Information” may be your gender, age, zip code and interests, which you voluntarily provide to us on the Sites. We use this information to provide you with personalized services and to analyze trends to ensure the information provided by the Sites meets your needs. For example, we offer personalized TV schedule listings and program reminders for Discovery Channel, TLC, Animal Planet, Discovery Life or any of our other TV offerings if you tell us which programs and topics you are interested in. Please note that we also consider aggregated information, which is not personally identifiable, to be non-personally identifiable information. The above list provides an example of the non-personally identifiable information that is collected via the Sites.
+  2. **TYPES OF INFORMATION WE COLLECT FROM OR ABOUT YOU**
 
 
-  1. ****Use of Information Collected Via the Sites****
 
+When you interact with the Services, we collect information that directly identifies you ( _i.e._ , information that would allow someone to identify you or contact you, such as your full name, postal address, e-mail address, or telephone number), as well as information about your use of the Services.  Below we describe the different types of information we collect from you and the devices you use when you interact with the Services.
 
+**_Information you provide to us:_   **Some of the Services may permit you to enter contact information and other information about yourself and others.  We collect and store any information you enter through the Services.  For example, you may provide:
 
-****(1) Personally Identifiable Information****
+  * your name, postal address, e-mail address, phone number, profile picture, birthday, or other information, such as when you register with our Services, create or edit your user profile, sign up to receive newsletters, or enter in a contest or sweepstakes;
+  * certain demographic information, such as your age, gender, or income bracket, when you participate in a survey or poll;
+  * information in postings, comments, or forums (such as chat rooms, message boards, or similar public forums) within the Services, and in non-public messages you send to other users of the Services;
+  * nutrition and dietary preference information when you search for recipes within the Services;
+  * your first and last name, your address, and your credit card and billing information if you purchase of a product at the Discovery Store or subscribe to one of Discovery’s paid Services; or
 
-We use your personally identifiable information that is collected on these Sites primarily for the following purposes:
 
-  * To deliver services, such as educational programs, information, newsletters or software you request or purchase;
-  * To alert you to special offers, updated information and other new services from Discovery, or other third parties, or to forward promotional materials;
-  * To complete a transaction or service requested by you;
-  * To fulfill the terms of a promotion;
-  * To ensure the Sites are relevant to your needs;
-  * To help us create and publish content most relevant to you;
-  * To notify you about a material change to this privacy policy or the Visitor Agreement, if necessary;
-  * To allow you access to limited-entry areas of the Sites; and
-  * To contact you in response to sign up forms such as Contact Us or Order Inquiry.
+  * your e-mail address, communications, and files when you send to us a message by e-mail, through our Customer Support portal, or through other communication services.
 
 
 
-****(2) Non-Personally Identifiable Information****
+**_Information we collect automatically from your devices:_**   When you interact with the Services, certain information about your use of the Services is automatically collected.  This information includes information about the devices used to access the Services, such as Internet Protocol (“IP”) address, your device ID and other unique device identifiers, mobile network information, information about how the device is interacting with our Services, hardware model, and the type and version of your device’s operating system or web browser.  We also collect information about how you use our Services, such as pages viewed and the order of such pages, content (including video content) or advertising you view within the Services; the length of time you interact with the Services; search queries entered within the Services; error logs; websites and other services you visit before and after visiting a Discovery site; and other similar information.  Much of this information is collected through cookies, web beacons, and other tracking technologies.  Please see our [Tracking Technologies Notice](https://corporate.discovery.com/tracking-technologies-notice/) for further information, including your choices in relation to the use of these technologies.
 
-Non-personally identifiable information is used as described above and in other ways as permitted by applicable laws, including combining non-personally identifiable information with personally identifiable information (except with respect to non-personally identifiable information collected from children under the age of 13).
+**_Information from Social Media Networks and Other Third Parties:_** When you use certain features of the Services, you may give us permission to access information about you from services offered by third parties, including social media networks.  For example, you may choose to register on our websites by using a social media account, or you may use a social media function on our Services such as a “share” button.  Doing that allows us to obtain information from the social media platform.  That information could include your friends or contacts, profile picture, birth date, gender, people/sites you follow, or other profile-related information, as well as any other information you have opted to share. The information we obtain from social media networks depends on your account/privacy settings with those third parties and those third-parties’ privacy policies, so be sure to check those policies and to adjust your settings to meet your preferences.
 
-  1. ****Sharing and Disclosure of Information****
+We may also obtain information about you from other third-party sources, such as our partners and advertisers, interactive applications offered through our services (such as embedded video players), and commercially available sources such as data aggregators and public databases.  We may combine the information we receive from third parties with information we collect through the Services.
 
+**_Location Information_** : We collect general information about your location through the Services, such as the city, state, and/or zip code associated with your IP Address.  If you agree, we may collect more specific location information that is provided through the GPS functionality on your mobile device used to access the Services. That location information is used to present information and advertising that is of relevance to you in your geographic area and to allow you to take advantage of certain features of the Services such as tailoring live class schedules to your time zone or providing you with local grocery store options for recipe ingredient delivery.  If you grant permission for us to collect more specific GPS location information, you can disable such access through your mobile device settings.
 
+**_Information You Provide About Others_ :** If you send someone else a communication using the Services, such as sending content to a friend, the information you provide (names, e-mail addresses, etc.) is used to facilitate the communication and is not used for any other marketing purpose unless we obtain consent from that person or we explicitly say otherwise in accordance with applicable legal requirements.  Please be aware that when you use any send-to-a-friend functionality on our Services, your e-mail address may be included in the communication you send.
 
-****(1) Personally Identifiable Information****
+  3. **HOW WE USE THE INFORMATION WE COLLECT**
 
-We may share or disclose your personally identifiable information in the following instances:
 
-(i) To fulfill a service to you. For example, if you choose to watch an educational program on the Sites, we may share your personally identifiable information in order to provide the program to you. In addition, if you email us a question, we may use your email address to process your request and respond to your question. Also, if you are entering a sweepstakes or contest, we may use your personally identifiable information in order to fulfill the terms of that promotion. This means that we may share the information for prize fulfillment purposes or mail carriers. We also may share your information with the co-sponsor of that promotion:
 
-(ii) To affiliates, strategic partners, agents, third party marketers or other unaffiliated parties who are offering products or services that we believe may be of interest to you or who require your personally identifiable information for research, administrative and/or internal business purposes. These parties may use your personally identifiable information to contact you with an offer or advertisement related to a product or service, or they may use such information for their own research, administration or business purposes. If you do not want us to share your personally identifiable information in this manner, please do not provide us with this information.
+We use the information we collect to provide and improve the Services; to communicate with you; to deliver advertising; and to develop and provide additional products, features, and offerings, as explained in more detail below.
 
-(iii) To unaffiliated third-party service providers, agents or independent contractors who help us maintain our Sites and provide other administrative services to us (including, but not limited to, order processing and fulfillment, providing customer service, maintaining and analyzing data, sending customer communications on Discovery’s behalf, and entry collection, winner selection and prize fulfillment for contests, sweepstakes and other promotions). We seek to ensure that these unaffiliated third parties will not use the personally identifiable information for any other purpose than to provide the administrative services for which they are responsible. Because such unaffiliated third-party service providers that help us administer our Sites will have access to users’ personally identifiable information, if you do not wish for our unaffiliated third-party service providers to have access to your information, please do not register or submit any personally identifiable information to us.
+**_Provide the Services you request, including to maintain and service your account_** _, for example to:_
 
-(iv) To complete your purchase. If you choose to make a purchase on the Sites, we may collect from you your credit card number, billing address and other information related to such purchase, and we may use such collected information in order to fulfill your purchase. We may also provide such information, or other personally identifiable information provided by you, to unaffiliated third parties as necessary to complete your purchase (for example, to process your credit card).
+  * Fulfill your requests for products, services, or information;
+  * Process your payments and ship your products;
+  * Enable your access to the Services and participation in special features of the Services, such as recipe boxes, surveys, polls, and message boards;
+  * Provide technical and other support, including to understand and resolve technical issues with the Services;
+  * Send you service-related communications;
+  * Display user-generated content; and
+  * Process your entries into sweepstakes, contests or promotions.
 
-(v) To comply with the law or in the good faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on us, protect and defend our rights or property, including the rights and property of Discovery and its family of Sites or act in urgent circumstances to protect the personal safety of our end users.
 
-(vi) To third parties as part of any corporate reorganization process including, but not limited to, mergers, acquisitions, and sales of all or substantially all of our assets.
 
-(vii) To track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
+**_Communicate with you and provide customer service to support the Services_** , _including to:_
 
-(viii) To protect against potential fraud, we may verify with third parties the information collected from these Sites. In the course of such verification, we may receive personally identifiable information about you from such services. In particular, if you use a credit card or debit card to purchase services with us, we may use card authorization and fraud screening services to verify that your card information and address matches the information that you supplied to us, and that the card has not been reported as lost or stolen.
+  * Provide customer service support or respond to your inquiries, requests and comments;
+  * Send you electronic newsletters or enter you into sweepstakes or contests; and
+  * Provide you legal notices or other notices with respect the Services, including service-related communications.
 
-Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>.
 
-Except as described in this Privacy Policy or at the time we request the information, we do not otherwise use, share or otherwise disclose your personally identifiable information to any third parties.
 
-****(2) Non-Personally Identifiable Information****
+**_Develop and improve the Services and personalize your experience with the Services_** _, including to:_
 
-We use non-personally identifiable information collected on the Sites in the manner disclosed above in the Section A(2). We may share this non-personal information with third parties.
+  * Analyze patterns in the use of the Services, study site traffic, and understand customer needs and trends to improve our Services and develop new ones;
+  * Provide you with a customized product experience, including viewing and other content recommendations;
+  * Send you personalized newsletters, surveys, and information about products, services and promotions offered by us, our partners, and other organizations with which we work;
+  * Customize the content on the Services based on your activities and interests;
+  * Create profiles about you, including adding and combining information we obtain from third parties, which may be used for analytics, marketing and advertising; and
+  * Use inferences about your preferences and interests for any and all of the above purposes.
 
-  1. ****Collection and Use of Information from Children Under the Age of 13****
 
 
+**_Provide our marketing and third-party advertising to you_** _, including to:_
 
-****(1) Collection of Personally Identifiable Information Collected from Children****
+  * Send you newsletters, promotional e-mails, surveys, and information about products, services and promotions offered by us, our partners, and other organizations with which we work;
+  * Customize advertising that our third-party partners deliver on the Services (e.g., personalized third-party advertising);
+  * Create and update inferences about you and audience segments that can be used for targeted advertising and marketing on the Services, third party services and platforms, and mobile apps;
+  * Create profiles about you, including adding and combining information we obtain from third parties, which may be used for analytics, marketing, and advertising; and
+  * Measure the placement, frequency, efficacy, and compliance of advertising and ad impressions.
 
-In most instances, Discovery will only request the first name and email address of the child in order to complete an immediate request from the child. The information that is collected will only be used for the requested purpose and will be deleted immediately. Discovery will not store or otherwise use that information. Here are some examples of instances in which Discovery may immediately delete the child’s information after the completion of the child’s initial request:
 
-  * If the child emails an inquiry;
-  * If the child participates in a game;
-  * If the child refers a game to a friend, we may request his or her first name and email address and the friend’s first name and email address;
-  * If the child wants to receive a postcard on one occasion; and
-  * If the child sends a postcard to a friend on one occasion, we may request his or her first name and email address and the friend’s first name and email address.
 
+**_Security, Fraud, and Legal Compliance,_** _including_ :
 
+  * Monitor prevent, and detect fraud, such as through verifying your identity;
+  * Combat spam or other malware or security risks;
+  * Monitor, enforce, and improve the security of our Services;
+  * Comply with any applicable procedures, laws, and regulations, subpoenas, governmental requests or legal process, or in connection with a legal investigation, if in our good faith opinion such is required or permitted by law; and
+  * Establish, exercise, or defend our legal rights (e.g., to enforce compliance with our Terms of Use, Visitor Agreements, Privacy Policies, or other contracts or legal rights).
 
-From time to time, we may request limited personally identifiable information from children in order to offer a service, a promotion or other activity to children. In such an instance, we will request that the child provide his or her email address, as well as the email address of his or her parent or legal guardian (“parent”). Discovery will use that email address to send the parent an email letting him or her know about the child’s contact. The email will include details on how the parent may (i) provide Discovery with consent; (ii) prohibit Discovery from any further contact with the child; or (iii) delete the child’s personally identifiable information. Discovery will not collect more information than is reasonably necessary for the child to participate in the activity at issue.
 
-Below are some examples of instances in which we may collect the first name and email address from children on the Sites and require parental consent:
 
-  * If the child wants to enter a sweepstakes, contest or other promotion; and
-  * If the child wants to receive newsletters on a recurring basis.
+Please note that all of the information we collect about you may be combined together in order to facilitate all of the above purposes.
 
+  4. **WHEN WE SHARE INFORMATION**
 
 
-****(2) Use of Personally Identifiable Information Collected from Children****
 
-When we collect personally identifiable information from kids, we will only use that information for the express purpose for which it was collected. For example, if a child enters a sweepstakes, we will request the parent’s information (as described in Section D(1)) and will only use the child’s email address to enter the child into the sweepstakes, to notify the parent of the child’s entry, and to identify and notify the child if he or she is a potential winner. The personally identifiable information will not be used for any other purpose, and the personally identifiable information will not be used after the promotion is complete.
+We may disclose the information we collect as described below and supplemented by our [Tracking Technologies Notice](https://corporate.discovery.com/tracking-technologies-notice/).  By accessing and using the Services, you consent to our sharing practices, as described in this Notice, and subject to any choices you have made.
 
-****(3) Sharing of Personally Identifiable Information Collected from Children****
+**_Third-party service providers_** : We engage third-party service providers to perform a variety of services and functions on our behalf, such as customer support, administering our promotions, marketing or promotional assistance, data analytics, online advertising, technology services and platforms, processing payments, and other services.
 
-Except as provided in this Section, we do not share personally identifiable information collected from children with any unaffiliated third parties. We may, however, share a child’s personally identifiable information that we have collected with parental consent in the following limited instances:
+**_The Discovery family of companies:   _** We may share information about you within the family of Discovery companies, including our subsidiary and affiliated companies and joint venture partners, to provide and improve our products and services, as well as to provide you with information about products or services that may interest you.
 
-  * We may share such information with third-party service providers who help Discovery maintain the Sites and provide other administrative services to us. We seek to ensure that these unaffiliated third parties may not use the personally identifiable information for any other purpose, and these unaffiliated third parties have agreed to maintain the confidentiality, security and integrity of the personally identifiable information.
-  * If a child is selected as a potential winner of one of our contests or sweepstakes, we will notify the child’s parent via the email address that the child submitted. If the parent consents, we will collect and share this information in order to fulfill the terms of the promotion.
-  * Finally, we may disclose a child’s personally identifiable information to third parties if we believe we are required to do so in order to comply with law (including court orders and subpoenas); to comply with requests from law enforcement agencies or the government; to enforce our Visitor Agreement; to protect our rights, privacy, safety or property and the rights, privacy, safety or property of our employees or other users of our Sites; to protect our operations; and to permit us to pursue available remedies or limit the damages that we may sustain.
+**_Sweepstakes, contests & promotions_:  **When you register or enter a promotion, sweepstakes, or contest through our Services, we may share the information you provide for such purposes with authorized third-party service providers (as described above), participating sponsors, and advertising partners.  Further, by entering any promotion, you are agreeing to the official rules that govern that promotion, which may require you to take certain actions, including, except where prohibited by law, allowing Discovery and/or the sponsor(s) of the promotion to use and publicly release your name, voice, and/or likeness in advertising or marketing associated with the promotion.  Please review the relevant promotion, sweepstakes, or contest rules for more information.
 
+**_Business partners_ :  **We may share information with third parties with whom we have business relationships, such as our co-promotional partners, advertisers, ad networks, and data marketing services, for purposes such as offering products and services that may interest you.
 
+**_Business transfer:_**   In the event we go through a business transition such as a merger, acquisition, bankruptcy, reorganization, or sale of all or a portion of our assets, or a diligence process in connection with a potential business transaction, the information we collect and maintain may be disclosed, sold, or transferred as part of that transaction.  If such transfer is subject to additional restrictions under applicable laws, we will comply with such restrictions.
 
-****(4) Non Personally Identifiable Information****
+**_Legal requirements and protection of Services and users_** : We will disclose the information we collect where we have a good faith belief that such disclosure is: (a) required by law (or to respond to subpoenas, warrants, government requests, or similar process served on us); (b) pursuant to our DMCA notice and take-down policy and procedures; and/or (c) necessary to protect or defend our legal rights or property, our Services, you, or other third parties, or ensure the safety and security of our Services, systems, and of our customers or the general public.
 
-We collect and store the non-personally identifiable information that is described in Section A(2) of this privacy policy. We do not, however, link this information to personally identifiable information when it is collected from children.
+**_With your consent:   _**We may share or disclose information about you if you ask or authorize us to do so, including by intentionally interacting with third-parties on our sites.  Additionally, when you choose to share information in a public forum, that information may be seen or collected by anyone, including third parties that do not adhere to our Privacy Notice.  We are not responsible for events arising from the distribution of any information you choose to share publicly through our Services.
 
-****(5) Note to Parents and Legal Guardians****
+**_Aggregate information:_**   We may aggregate and/or de-identify information such that it is no longer linked to you or your device.  This Notice does not limit our ability to disclose aggregated or de-identified information that is not linked to you.   We may use and disclose such information to our partners, advertisers, and any other third parties in our discretion.
 
-Please contact Discovery at any time regarding privacy questions or concerns, or to request to review what personally identifiable information we have collected from a child. Parents may also contact us at any time to request that we delete the personally identifiable information of a child or a parent and/or refuse to permit further collection or use of a child’s information. We will take steps to ensure that any person contacting us regarding a child’s information is the child’s parent or guardian.
+  5. **CHOICES YOU HAVE REGARDING THE COLLECTION, USE, AND SHARING OF INFORMATION**
 
-Discovery Communications, LLC  
-1 Discovery Place  
-Silver Spring, MD 20910  
-Phone: (240) 662-2000 (Legal)  
-Email: [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com)
 
-  1. ****International Transfer of Information****
 
+You have many choices regarding how we use and share your information.  These choices are described in more detail below.
 
+**_Subscription and Registration Services_** :  The Services may include subscription and registration management tools that allow you to make changes regarding your preferences for receiving communications. Regardless of whether these tools are available through the Services, you may contact us as at [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com) if you: (a) have questions or comments about this Notice; (b) wish to make corrections to the information you have provided to us; (c) want to opt-out from receiving future commercial correspondence, including e-mails, from us (we may continue to send you transactional messages such as responding to your inquiries or notices of updates to this Notice); or (d) do not want us to  share information that identifies you with third parties for such third parties’ direct marketing purposes.
 
-If you choose to provide us with personally identifiable information, Discovery may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personally identifiable information to the United States which does not have the same data protection laws as the EU and by providing your personally identifiable information you consent to:
+We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note:
 
-  * the use of your personally identifiable information for the uses identified above in accordance with this privacy policy; and
-  * the transfer of your personally identifiable information to the United States as indicated above.
+  * you may be required to verify your identity to make certain changes;
+  * we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Services;
+  * it is not always possible to completely change, remove, or delete all information about you from our databases for legal and other reasons; and
+  * we generally do not remove public postings you may have made on the Services, such as in forums or blogs.
 
 
-  1. ****Opt-Out****
 
+**_E-mail communications_** :  In connection with certain features on the Services, we may allow you to set your preferences for receiving e-mail communications from us (such as agreeing to some communications but not others).  In other instances, you may “opt out” of receiving future commercial e-mail communications from us by clicking the “unsubscribe” link or following the other instructions included at the bottom of most e-mails we send, provided, however, we reserve the right to continue to send you transactional e-mails, such as customer service communications and shipping confirmations.
 
+**_Targeted advertising_** :  To find out more about our advertising and how to opt out of receiving interest-based advertising from companies that participate in the Digital Advertising Alliance, please see our [Tracking Technologies Notice](https://corporate.discovery.com/tracking-technologies-notice/).
 
-We communicate with users who subscribe to our services on a regular basis via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional.
+**_Mobile device location information_** :  If you access the Services through a mobile device and you do not want your device to provide us with specific, GPS location-tracking information, either do not agree to allow your device to share this information with us or disable the GPS or other location-tracking functions on your device. Your device manufacturer should provide instructions on how to disable GPS or other location-tracking functions.  If you initially consent to the collection of location information, you can subsequently stop our collection of location information at any time by changing the preferences on your mobile device or by uninstalling the application from your mobile device.
 
-However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on the Sites or if you do not want us to share your personally identifiable information with third parties. The opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the “unsubscribe” link within the text of the email.
+  6. **HOW WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES**
 
-  1. ****Forums, Chat Rooms and Other Public Posting Areas****
 
 
+Like many companies, we use cookies and other tracking technologies on our Services. For detailed information about the tracking technologies we use, how we use those technologies, and additional options you have regarding the use of those technologies, please visit our Tracking Technologies Notice.  Additionally, as more fully explained in that [Tracking Technologies Notice](https://corporate.discovery.com/tracking-technologies-notice/), your browser or device may include “Do Not Track” functionality.  Our information collection and disclosure practices, and the choices that we provide, will continue to operate as described in this Notice and the related Tracking Technologies Notice, whether or not a Do Not Track signal is received.
 
-Please note that any information you include in a message you post to any chat room, forum or other public posting area is available to anyone with Internet access. If you do not want people to know your e-mail address, for example, do not include it in any message you post publicly. PLEASE BE EXTREMELY CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS.
+  7. **ADDITIONAL PRIVACY INFORMATION FOR CALIFORNIA RESIDENTS**
 
-  1. ****Third Party Web Sites****
 
 
+If you are a California resident, California law requires us to provide you with some additional information regarding the “personal information” (as defined in the California Consumer Privacy Act (“CCPA”)) we collect from and about you, and your rights with respect to your personal information.  You can find this additional information in our California Privacy Notice .
 
-This statement applies solely to information collected on the Sites. The Sites may contain links to other web sites. We are not responsible for the privacy practices or the content of these other web sites.
+  8. **ADDITIONAL PRIVACY INFORMATION FOR NEVADA RESIDENTS**
 
-  1. ****Third Party Advertisers****
 
 
+Under Nevada law, Nevada residents who have purchased goods or services from us may opt out of the “sale” of “covered information” (as such terms are defined under Nevada law) for monetary consideration to a person for that person to license or sell such information to additional persons.  In some circumstances, we may share your information with certain third parties that we believe can provide you with offers and promotions for products and services of interest to you.  This sharing may qualify as a sale under Nevada law. If you are a Nevada resident who has purchased goods or services from us, you may submit a request to opt out of “sales” activity emailing us at [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com).   Please note we may take reasonable steps to verify your identity and the authenticity of the request.
 
-We may use advertisers, third party ad networks, and other advertising companies to serve advertisements on the Sites. Please be advised that such advertising companies may gather information about your visit to the Sites or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please [click here](http://www.networkadvertising.org/managing/opt_out.asp). PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
+  9. **HOW WE PROTECT CHILDREN’S INFORMATION**
 
-  1. ****Accessing Your Personally Identifiable Information and Privacy Preferences****
 
 
+Discovery Services are generally directed to adults and not intended for use by children under the age of thirteen (13), we do not allow children to provide their “personal information” (as defined by the U.S. Children’s Online Privacy Protection Act or “COPPA”) on these Services, and we will delete such information in a reasonable period of time if we become aware of it.  In some limited cases, Discovery does offer Services that are intended for use by children under thirteen (13); please see the privacy notices posted on those services for more information.  If you have any questions about our practices with respect to children’s privacy or to request that we delete personal information provided by your child, please contact us at [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com).
 
-We provide you with an opportunity to access your personally identifiable information to ensure it is correct, accurate and current. To edit your personally identifiable information, please contact our customer service representatives at (240) 662-8909. To be removed from our mailing list or if you would prefer that we do not share your information with third party marketers, please contact us at [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com). We will make reasonable efforts to accommodate your request.
+  10. **HOW WE MAINTAIN AND SECURE THE INFORMATION WE COLLECT**
 
-  1. ****Assignment****
 
 
+We maintain the information we collect for as long as necessary to provide the Services, for so as long as reasonably required to satisfy the purpose for which you submitted the information or our business purposes, or as required by law.
 
-In the event that all or part of our assets or sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Sites.
+We take technical and organizational security measures to protect your information against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure, or access. However, no method of transmission over the internet, and no means of electronic or physical storage, is absolutely secure. As such, you acknowledge and accept that we cannot guarantee the security of your information transmitted to, through, or on our Services or via the Internet and that any such transmission is at your own risk.
 
-  1. ****Changes to this Privacy Policy****
+If you create an account or register with any of our Services, you are responsible for maintaining the secrecy of your password at all times.
 
+**11.THIRD-PARTY SITES, SERVICES, AND FEATURES**
 
+Our Services may contain links to third-party websites (e.g., online stores that offer products for purchase), third-party plug-ins (e.g., social-sharing buttons), and third-party features (e.g., banner advertisements).  These third-party services may collect information from or about you when you interact with them, and in some cases, they may track your activity, including through the use of cookies or other tracking technologies, without you needing to interact with them. We are not responsible for the content or practices of such third parties, and their collection, use, and disclosure of your information will be subject to their privacy policies, and not this Notice. We urge you to read the privacy and security policies of these third parties.
 
-We reserve the right to change this privacy policy from time to time. When we do, we will also revise the “last update” date at the bottom of this privacy policy. For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change by sending a notice to the primary email address specified in your account or by placing a prominent notice on the Sites.
+**12.GOVERNING LAW AND VENUE**
 
-We will also notify parents if we change the kinds of information that we collect from children and materially alter our practices of sharing and using this information. We will not collect, use or share the information without parental consent.
+This Notice and all disputes arising hereunder or relating hereto shall be governed by, and will be construed under, the laws of the State of New York, without regard to choice of law principles.  Those who choose to access the Services from locations outside the United States do so on their own initiative and are responsible for compliance with local laws if and to the extent local laws are applicable.  By using the Services, you agree that the exclusive jurisdiction for any dispute not subject to any applicable arbitration clause in our Terms of Use or Visitor Agreement shall be the state and federal courts located in New York.
 
-  1. ****Security****
+  13. **UPDATES TO THE NOTICE**
 
 
 
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to Discovery is done at your own risk.
+We may change this Notice from time to time as our services, technology, and legal obligations change.  If we make changes, we will post the updated Notice and revise the “Last Updated” date.  Any changes will be effective immediately upon posting of the revised Notice, and your continued use of the Services after that date will indicate your consent to any changes, unless applicable law requires us to provide another form of notice and/or seek your agreement to such changes.
 
-Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
+  14. **HOW TO CONTACT US**
 
-If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using these Sites or providing personally identifiable information to us, you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of these Sites. We may post a notice on our Sites if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
 
-  1. ****Age Screening****
 
+For any questions or complaints regarding this Notice or Discovery privacy practices, please contact us at:  [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com)
 
+**California Privacy Notice**
 
-Some parts of the Sites require that personally identifiable information be submitted in order to participate. For example, if you want to receive one of our newsletters, you must give us your email address. Some parts of the Sites will have an age-screening mechanism to prevent kids from registering. We will not knowingly allow anyone under the age of thirteen to register with any of our Sites, or to access those features that require registration, except as explicitly disclosed herein.
+This Privacy Notice for California residents supplements the Discovery Privacy Notice. This Notice applies to website visitors, app users, and customers in California. This Notice gives California residents additional information about our information collection and use practices required by the California Consumer Privacy Act of 2018 (“CCPA”), and also provides California residents with specific privacy rights.
 
-If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen other than in a legally permissible situation, we will delete the information from our records as soon as we discover it.
+  1. Information About the Personal Information we Collect
 
-  1. ****Contacting Discovery****
 
 
+This following chart provides information about the categories of personal information that we collect, the purposes for which we use the information, the sources of the information, and the categories of third parties to whom we disclose the information for business purposes.
 
-If you have any questions about this privacy policy or our privacy practices, please contact us at [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com). All information you provide in any written communication will also be covered by this policy.
+**Categories of information collected** | **Purposes of use**
 
-  1. ****Dispute Resolution****
+**  
+(see “How We Use The Information We Collect” in our Privacy Notice for additional information)**
 
+| **Sources of personal information** | **Categories of third parties to whom we disclose the information**
 
+**(see “When We Share Information” in our Privacy Notice for additional information)**  
+  
+---|---|---|---  
+**Information you provide to us:** | ** **  
+**Registration, subscription, or contact information**
 
-In the event of any controversy, claim or dispute (“dispute”) related to or arising out of your use of the Sites, other than disputes related to or involving Discovery’s intellectual property or Discovery’s licensed intellectual or proprietary rights, you and Discovery mutually agree to the following dispute resolution procedure:
+such as e-mail address, name, phone number, and billing information
 
-  1. The parties will first attempt in good faith to resolve any dispute by informal negotiation. The informal negotiation period will begin when the party asserting the dispute sends a written notice to the other party describing the facts and circumstances of the dispute. If, after sixty (60) days from the date the notice of dispute is sent, the parties have been unable to resolve the dispute, either party may commence binding arbitration. The parties may agree to extend the informal dispute resolution period by mutual written agreement.
-  2. If the parties are unable to resolve the dispute through informal negotiation, you and Discovery agree that exclusive jurisdiction for the dispute shall be binding arbitration before one arbitrator to be mutually agreed upon by both parties. If the parties cannot agree on the selection of an Arbitrator, they shall each select one Arbitrator from the list of qualified JAMS arbitrators and those two Arbitrators shall select the person who shall serve as the Arbitrator for such dispute. Arbitration shall be initiated in the New York, N.Y., area and shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures. Judgment on any potential award may be entered in any court having jurisdiction. BY USING THE SITES, YOU ARE HEREBY GIVING UP YOUR RIGHT TO LITIGATE A DISPUTE IN COURT BEFORE A JUDGE OR JURY. Unless the arbitrator concludes that the arbitration was frivolous or brought for an improper purpose, Discovery will pay all filing, JAMS, and arbitrator’s fees and expenses.
-  3. ALL DISPUTES SHALL BE RESOLVED ON AN INDIVIDUAL BASIS. Neither party shall have the right to have a dispute heard as a class action and no arbitration or proceeding can be combined with another without the prior written consent of all parties to the proceeding.
-  4. ****Choice of Law****
+| ·       Provide the Services 
 
+·       Communicate with you and provide customer service
 
+·       Personalize your experience
 
-This privacy policy has been made in and shall be construed in accordance with the laws of the State of Maryland, without giving effect to any conflict of law principles.
+·       Our marketing and third-party marketing and advertising purposes
 
-The parties acknowledge that this policy evidences a transaction involving interstate commerce. Notwithstanding the provision in the preceding paragraph with respect to applicable substantive law, any arbitration conducted pursuant to the terms of this Policy shall be governed by the Federal Arbitration Act (9 U.S.C. §§ 1-16).
+·       Bug detection and error reporting
 
-  1. ****Choice of Forum****
+·       Auditing consumer interactions
 
+·       Security, fraud, and legal compliance
 
+| ·       You 
 
-By using the Discovery Sites, you agree that the exclusive jurisdiction for any dispute not subject to the arbitration provision discussed above shall be the state and federal courts located in Maryland.
+·       Other users who provide information about you
 
-****YOUR CALIFORNIA PRIVACY RIGHTS****
+·       Consumer data resellers
 
-Discovery does not support Do Not Track browser settings and does not currently participate in any “Do Not Track” frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information.
+·       Public records databases
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding Discovery’s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
+·       Events
 
-Discovery Communications, LLC  
-1 Discovery Place  
-Silver Spring, MD 20910  
-Phone: (240) 662-2000 (Legal)  
-Email: privacy_policy@discovery.com
+·       Our affiliates
 
-Last updated on August 28, 2018.
+| ·       Service providers 
+
+·       Our affiliates
+
+·       Other individuals, services, and partners at your request
+
+·       contests and promotions partners
+
+·       Marketers
+
+·       Social media networks
+
+·       Entities for legal purposes
+
+·       Entities for sales or transfer of business or assets  
+  
+**Customer service information**
+
+such as questions and other messages you address to us through online forms, by e-mail, over the phone, or by post; and summaries or voice recordings of your interactions with customer care
+
+| ·       Provide the Services 
+
+·       Improve the Services
+
+·       Communicate with you & provide customer service
+
+·       Bug detection and error reporting
+
+·       Security, fraud, and legal compliance
+
+| ·       You 
+
+·       Our affiliates
+
+| ·       Service providers 
+
+·       Our affiliates
+
+·       Entities for legal purposes
+
+·       Entities for sales or transfer of business or assets  
+  
+**Demographic, statistical, and interest information**
+
+such as your age, date of birth, gender, interests, lifestyle, and household information, and hobbies
+
+| ·       Provide the Services 
+
+·       Improve the Services
+
+·       Communicate with you & provide customer service
+
+·       Personalize your experience
+
+·       Our marketing and third-party marketing and advertising purposes
+
+·       security, fraud, and legal compliance
+
+| ·       You 
+
+·       Other users who provide information about you
+
+·       Consumer data resellers
+
+·       Our affiliates
+
+·       Public records databases
+
+·       Conferences and other events
+
+·       Marketers
+
+·       Social media networks, in accordance with your preferences
+
+| ·       Service providers 
+
+·       Our affiliates
+
+·       Other individuals, services, and partners at your request
+
+·       Contests and promotions partners
+
+·       Marketers
+
+·       Social media networks
+
+·       Entities for legal purposes
+
+·       Entities for sales or transfer of business or assets  
+  
+**Financial and transactional information**
+
+such as credit or debit card number, verification number, and expiration date, to process payments and information about your transactions and purchases with us
+
+| ·       Provide the Services 
+
+·       Communicate with you & provide customer service
+
+·       Security, fraud, and legal compliance
+
+| ·       You 
+
+·       Third-party payment processors who collect this information on our behalf and who also have an independent relationship with you
+
+·       Third party partners or co-branded partners
+
+| ·       Service providers 
+
+·       Our affiliates
+
+·       Third parties for legal purposes
+
+·       Entities for sales or transfer of business or assets  
+  
+**Employment or Education Information when you register for events or for networking insights services**
+
+such as education history, employment experience, and business contact information
+
+| ·       Provide the Services 
+
+·       Communicate with you & provide customer service
+
+·       Personalize your experience
+
+·       Our marketing and third-party marketing and advertising purposes
+
+| ·       You 
+
+·       Other users who provide information about you
+
+·       Consumer data resellers
+
+·       Our affiliates
+
+·       Public records databases
+
+·       Conferences and other events
+
+·       Marketers
+
+·       Social media networks, in accordance with your privacy preferences on such services
+
+| ·       Service providers 
+
+·       Our affiliates
+
+·       Other individuals, services, and partners at your request
+
+·       Contests and promotions partners
+
+·       Marketers
+
+·       Social media networks
+
+·       Entities for legal purposes
+
+·       Entities for sales or transfer of business or assets  
+  
+**User-generated content**
+
+such as comments on articles, photos, videos, audio, any information you submit in public forums or message boards, reviews and feedback or testimonials you provide about our Services
+
+| ·       Provide the Services 
+
+·       Communicate with you & provide customer service
+
+·       Personalize your experience
+
+·       Our marketing and third-party marketing and advertising purposes
+
+·       Bug detection and error reporting
+
+·       Security, fraud, and legal compliance
+
+| ·       You 
+
+·       Other users who provide information about you in connection with their event or profile
+
+| ·       Service providers 
+
+·       Our affiliates
+
+·       Other individuals, services, and partners at your request
+
+·       Contests and promotions partners
+
+·       Marketers
+
+·       Social media networks
+
+·       Entities for legal purposes
+
+·       Entities for sales or transfer of business or assets  
+  
+**Research, survey, or sweepstakes information (including personal identifiers and user generated content)**
+
+collected if you participate in a survey or sweepstakes; includes information needed for you to participate (such as contact information), and to fulfill your prize
+
+| ·       Provide the Services 
+
+·       Improve the Services
+
+·       Communicate with you & provide customer service
+
+·       Personalize your experience
+
+·       Our marketing and third-party marketing and advertising purposes
+
+·       Bug detection and error reporting
+
+·       Auditing consumer interactions
+
+·       Security, fraud, and legal compliance
+
+| ·       You 
+
+·       Survey or sweepstakes partners
+
+·       Researchers and analysts
+
+| ·       Service providers 
+
+·       Our affiliates
+
+·       Other individuals, services, and partners at your request
+
+·       Contests and promotions partners
+
+·       Marketers
+
+·       Social media networks
+
+·       Entities for legal purposes
+
+·       Entities for sales or transfer of business or assets  
+  
+**Contact Information about others (including personal identifiers)**
+
+such as name and mailing address to send a gift or use our send-to-a-friend functionality.
+
+| ·       Provide the Services 
+
+·       Communicate with you & provide customer service
+
+·       Auditing consumer interactions
+
+·       Security, fraud, and legal compliance
+
+| ·       You 
+
+·       Other users (if you are the recipient of a communication)
+
+·       Our affiliates
+
+| ·       Service providers 
+
+·       Our affiliates
+
+·       Other individuals, services, and partners at your request
+
+·       Entities for legal purposes
+
+·       Entities for sales or transfer of business or assets  
+  
+**Social media information**
+
+if you link your account or access the Services through a third-party connection or log-in, we may have access to any information you provide to that social network depending on your privacy settings such as your name, e-mail address, friend list, photo, gender, location, and current city; and information you provide to us directly through our pages on social networking and blogging platforms (e.g., Facebook, Instagram, and Twitter)
+
+| ·       Provide the Services 
+
+·       Communicate with you & provide customer service
+
+·       Personalize your experience
+
+·       Our marketing and third-party marketing and advertising purposes
+
+·       Bug detection and error reporting
+
+·       Auditing consumer interactions
+
+·       Security, fraud, and legal compliance
+
+| ·       You 
+
+·       Social media networks, in accordance with your privacy preferences on such services
+
+| ·       Service providers 
+
+·       Our affiliates
+
+·       Other individuals, services, and partners at your request
+
+·       Contests and promotions partners
+
+·       Marketers
+
+·       Social media networks
+
+·       Entities for legal purposes
+
+·       Entities for sales or transfer of business or assets  
+  
+**Information we collect automatically from you and/or your device:** | ** **  
+---|---  
+**Categories of information collected** | **Purposes of use**
+
+**(see “How We Use Personal Information” in our Privacy Notice for additional information)**
+
+| **Sources of personal information** | **Categories of third parties to whom we disclose the information** **(see “When We Share Information” in our Privacy Notice for additional information)**  
+**Device information and identifiers**
+
+such as IP address; browser type and language; operating system; platform type; device type; software and hardware attributes; and unique device, advertising, and app identifiers
+
+| ·       Provide the Services 
+
+·       Personalize your experience
+
+·       Improve the Services
+
+·       Our marketing and third-party marketing and advertising purposes
+
+·       Bug detection and error reporting
+
+·       Auditing consumer Interactions
+
+·       Security, fraud, and legal compliance
+
+| ·       You (through your device) 
+
+·       Advertising providers
+
+·       Analytics providers
+
+·       Cookies and tracking technologies
+
+| ·       Service providers 
+
+·       Our affiliates
+
+·       Advertisers, ad networks and advertising partners
+
+·       Social media networks
+
+·       Entities for legal purposes
+
+·       Entities for sales or transfer of business or assets  
+  
+**Internet network and device activity data**
+
+such as information about files you download, domain names, landing pages, browsing activity, content or ads viewed and clicked, dates and times of access, pages viewed, forms you complete or partially complete, search terms, uploads or downloads, the URL that referred you to our Services, the web sites you visit after this web site; and other web usage activity and data logged by our web servers, whether you open an e-mail and your interaction with e-mail content, access times, error logs, and other similar information.
+
+**See[Tracking Technologies Notice](https://corporate.discovery.com/tracking-technologies-notice/)** **for more information about how we collect and use this information.**
+
+| ·       Provide the Services 
+
+·       Personalize your experience
+
+·       Improve the Services
+
+·       Our marketing and third-party marketing and advertising purposes
+
+·       Bug detection and error reporting
+
+·       Auditing consumer Interactions
+
+·       Security, fraud, and legal compliance
+
+| ·       You (through your device) 
+
+·       Advertising providers
+
+·       Analytics providers
+
+·       Cookies and tracking technologies
+
+·       Marketers
+
+·       Our affiliates
+
+| ·       Service providers 
+
+·       Our affiliates
+
+·       Advertisers, ad networks and advertising partners
+
+·       Social media networks
+
+·       Entities for legal purposes
+
+·       Entities for sales or transfer of business or assets  
+  
+**Geolocation information**
+
+such as city, state and ZIP code associated with your IP address; and precise geolocation information from GPS-based functionality on your mobile devices, in accordance with your mobile device settings
+
+| ·       Provide the Services 
+
+·       Personalize your experience
+
+·       Improve the Services
+
+·       Our marketing and third-party marketing and advertising purposes
+
+·       Bug detection and error reporting
+
+·       Auditing consumer Interactions
+
+·       Security, fraud, and legal compliance
+
+| ·       You 
+
+·       Advertising providers
+
+·       Analytics providers
+
+·       Marketers
+
+·       Our affiliates
+
+| ·       Service providers 
+
+·       Our affiliates
+
+·       Online advertisers, ad networks and advertising partners
+
+·       Social media networks
+
+·       Entities for legal purposes
+
+·       Entities for sales or transfer of business or assets  
+  
+**Information We Infer or Inference Information We Receive from Third Parties:** | ** **  
+---|---  
+**Categories of information collected** | **Purposes of use**
+
+**(see “How We Use The Information We Collect” in our Privacy Notice for additional information)**
+
+| **Sources of personal information** | **Categories of third parties to whom we disclose the information** **(see “When We Share Information” in our Privacy Notice for additional information)**  
+**Inference Data**
+
+such as information about your potential preferences that we infer from your activities on the Services, and information you provide or inference information we receive from other parties
+
+| ·       Provide the Services 
+
+·       Communicate with you & provide customer service
+
+·       Personalize your experience
+
+·       Improve the Services
+
+·       Our marketing and third-party marketing and advertising purposes
+
+| ·       You, if we infer it from your information and activities 
+
+·       Our affiliates
+
+·       Consumer data resellers
+
+·       Analytics providers
+
+| ·       Service providers 
+
+·       Our affiliates
+
+·       Online advertisers, ad networks and advertising partners
+
+·       Entities for legal purposes
+
+·       Entities for sales or transfer of business or assets  
+  
+  1. **California Information & Deletion Rights **
+
+
+
+If you are a California resident, the CCPA allows you to make certain requests about your personal information. Specifically, the CCPA allows you to request us to:
+
+  * Inform you about the categories of personal information we collect or disclose about you; the categories of sources of such information, the business or commercial purpose for collecting your personal information, and the categories of third parties with whom we share/disclose personal information;
+  * Provide access to and/or a copy of certain personal information we hold about you;
+  * Delete certain personal information we have about you; and
+  * Provide you with information about the financial incentives that we offer to you, if any.
+
+
+
+Please note that certain information may be exempt from such requests under California law.  For example, we need certain information in order to provide the Services to you.
+
+Verification: We will take reasonable steps to verify your identity before responding to a request, which may include, at a minimum, depending on the sensitivity of the information you are requesting and the type of request you are making, verifying your name, e-mail address, and physical address.
+
+You are also permitted to designate an authorized agent to submit certain requests on your behalf.  In order for an authorized agent to be verified, you must provide the authorized agent with signed, written permission to make such requests or a power of attorney.  We may also follow up with you to verify your identity before processing the authorized agent’s request.
+
+If you would like further information regarding your legal rights under California law or would like to exercise any of them, please submit your request using the following intake form:
+
+[**_California Information & Deletion Requests_**](https://corporate.discovery.com/california_accessdeletion)
+
+If you prefer, you may contact us at the following toll-free phone number to make your request: +1-866-324-3637.
+
+  1. **Notice of Right to Opt-Out of Sale of Personal Information**
+
+
+
+California residents may opt out of the “sale” of their personal information.  Under the CCPA, “sale” is broadly defined to mean the sharing of personal information with third parties who are not acting as our service providers or who are otherwise not restricted from using data only on our behalf or pursuant to an applicable CCPA exception.
+
+In some circumstances, we may share certain of your information with third parties to provide you with offers, promotions, and opportunities that may be of interest to you, which may be considered a “sale” under the CCPA.  Under the CCPA, “sale” may also include allowing third parties to “collect” certain information, such as IP address, and/or browsing behavior, through cookies and similar technologies, to deliver targeted advertising on the Services or other services.  Advertising, including targeted advertising, enables us to provide you certain content for free and allows us to provide you offers relevant to you.
+
+If you would like to opt out of our use of your information for such purposes that are considered a “sale” under California law, you may do so as outlined on the following page:  [_Do Not Sell My Personal Information_](https://corporate.discovery.com/california_dns).  Please note that we do not knowingly sell the personal information of minors under 16 years of age without legally-required affirmative authorization.
+
+The CCPA further provides you with the right to not be discriminated against (as provided for in applicable law) for exercising your access, deletion or sale opt out rights.
+
+  1. **California “Shine the Light” Disclosure**
+
+
+
+If a company shares “personal information” (as defined in California’s “Shine the Light” law, Civil Code § 1798.83) with third parties for their direct marketing purposes (e.g., to send offers and information that may be of interest to you), California law requires either providing a mechanism by which consumers can obtain more information about such sharing over the prior calendar year, or providing a mechanism by which consumers can opt out of such sharing.  As discussed above, we provide an opt out for this sharing.  If you are a California resident and would like to opt out of sharing pursuant to this law, please use the “Do Not Sell My Personal Information” link above.
