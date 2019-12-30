@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eenews.net privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618182052id_/https%3A//www.eenews.net/eep/learn_more/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eenews.net privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230191342id_/https%3A//www.eenews.net/eep/learn_more/privacy_policy) for the most accurate reproduction.*
 
 # E&E News -- Privacy and Data Practices Policy
 
