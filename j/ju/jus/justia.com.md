@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justia.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220234id_/https%3A//www.justia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justia.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230211140id_/https%3A//www.justia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Justia
 
@@ -10,19 +10,19 @@ _Note: Additional terms and conditions, if any, regarding the collection and use
 
 Justia collects personal information in three ways - through information provided directly from our users, from information collected through web server logs and through cookies.
 
-### Information Supplied by Our Users
+**Information Supplied by Our Users**
 
 Justia collects personal information, such as your e-mail address, name, home or work address and telephone number. Justia may also collect demographic information, such as your ZIP code, age, gender, and legal interests. Justia does not collect any of this unique information about you except when you specifically and knowingly provide such information.
 
 Justia may retain this information indefinitely, or to the extent permissible by law.
 
-### Information from Web Server Logs
+**Information from Web Server Logs**
 
 Justia records and saves information about you from our web server logs such as your Internet [Protocol] (IP) address, the time and day you visited and your browser type. This information is used to verify our records and to provide better services to you.
 
 Justia may retain this information indefinitely, or to the extent permissible by law.
 
-### Information from Cookies
+**Information from Cookies**
 
 In order to offer and provide you with personalized services, Justia uses "cookies" to store and help track information about you. A cookie is a piece of data that identifies you as a unique user. Justia will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order.
 
@@ -67,3 +67,5 @@ While Justia is committed to protecting your personal information, no data trans
 When you sign up for Justia's products and service, we may send you an email confirming your new account. The message will be sent to the address that you supplied to us at the time of sign-up and will describe ways for you to change or delete the account information provided. Remember to keep the confirmation email as it will also contain information that will help you in case you run into problems accessing our services.
 
 We welcome your comments or questions. Send us an email at justiaprivacypolicy (at) justia.com.
+
+_Last updated April 2018_
