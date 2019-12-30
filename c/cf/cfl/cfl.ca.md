@@ -1,122 +1,271 @@
-> *The following text is extracted and transformed from the cfl.ca privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401174132id_/https%3A//www.cfl.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfl.ca privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230031532id_/https%3A//www.cfl.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CFL.ca
 
-This Privacy Policy describes the manner in which the Canadian Football League and its affiliates, including CFL Enterprises, L.P., CFL Enterprises G.P., CFL Holdings G.P., and CFL Holdings L.P., (collectively, the “CFL,” “we,” “our,” “us”) use information in operating our websites, our mobile and other apps, and any other online service that displays or provides an authorized link to this Privacy Policy (collectively, our “Services”). Please note that this Privacy Policy does not apply to the websites, apps, or services of any of the Member Clubs of the Canadian Football League (“Member Clubs”), which are governed by the individual privacy policies of the Member Clubs.
+**[** [EN](https://www.cfl.ca/privacy-policy/) | [FR](https://www.lcf.ca/politique-de-confidentialite/) | [DE](https://www.cfl.ca/datenschutzerklarung-fur-burger/)  **]**
 
-By using our Services, you consent to the practices described in this Privacy Policy. If you have any questions about this Privacy Policy, please contact us at <http://www.cfl.ca/contact-us/>  or as described under Contact Us below.
+_NOTICE OF POLICY CHANGE_
 
-### **Information Collection**
+We have updated our Privacy Policy so please take note that several changes have been made to the terms below. Some of the key changes are summarized here:
 
-You generally are not required to provide information about yourself when you visit the Services. However, we may ask you for some or all of the following types of information when you register with our Services, sign up for contests or sweepstakes, participate in surveys or forums, access various content or features, submit comments or content, use a send-to-a-friend feature, or directly contact us with questions or feedback:
-
-  * Contact information, such as name, e-mail address, postal address, and telephone number;
-  * Unique identifiers, such as a user name or password;
-  * Demographic information, such as gender;
-  * Financial information, such as credit card or other payment information;
-  * Geolocation information;
-  * Communications preferences;
-  * Search queries;
-  * Comments and other information posted in our interactive online forums;
-  * Correspondence and other information that you send to us; and
-  * Additional information as otherwise described to you at the point of collection or pursuant to your consent.
+  * **We have harmonized the privacy policies of the CFL and Member Clubs** so that all CFL fans can expect their Personal Information to be treated and protected in accordance with the same Privacy Policy. The CFL’s Privacy Policy now also applies to each CFL Member Club, who are hereafter referred to as “CFL Affiliates” for the purposes of this Privacy Policy.
+  * **We have also updated the terms of the Privacy Policy**. Many of the terms from the previous iteration of the CFL and Member Clubs’ privacy policies have been clarified or modified. One important change in this joint Privacy Policy is that **Personal Information may, for limited and specified purposes, be shared and used by the CFL and Member Clubs**.
+  * We have appended an updated [Cookie Policy](https://web.archive.org/cookies-policy/) to explain what cookies are and how we use them.
+  * **We have also amended the Privacy Policy in respect of citizens from European Union (“EU”) Member States.** The policy now reflects the requirements in respect of processing personal data of EU citizens as required by the General Data Protection Regulation ((EU) 2016/679) (“ **GDPR** “).
 
 
 
-We also may collect certain information automatically when you visit the Services, including:
+By using any of our Services, you consent to the collection, use and disclosure of your Personal Information as described in our updated Privacy Policy. However, if you are an EU Citizen, your data will only be processed in accordance with one of the legal bases described in sections 4 and 10 of the Privacy Policy.  Please review our revised Privacy Policy below before continuing to enjoy our Services.
 
-  * Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;
-  * Your device type or mobile carrier;
-  * Other unique identifiers, including mobile device identification numbers;
-  * Your browser type and operating system;
-  * Sites you visited before and after visiting the Services;
-  * Pages you view and links you click on within the Services;
-  * Information collected through cookies, web beacons, Local Shared Objects, and other technologies;
-  * Information about your interactions with e-mail messages, such as the links clicked on and whether the messages were received, opened, or forwarded; and
-  * Standard Server Log Information
+* * *
+
+  1. _Headnote_
 
 
 
-### **Use of Information**
+This privacy policy (the “ **Privacy Policy** ”) describes the manner in which the CFL and CFL Affiliates, including Member Clubs, may use and disclose Personal Information that is collected or received through our interactions with you and through  products, services, events and programs available at: cfl.ca, lfc.ca, CFL Pick ‘Em, TSN CFL Fantasy, Predict The Pick, CFLShop.ca, CFL Newsletters, CFL Forums, CFL Mobile App(s), GreyCupFestival.ca, bclions.com, esks.com, stampeders.com, riderville.com, ticats.ca, argonauts.ca, ottawaredblacks.com and montrealalouettes.com (collectively, our “ **Services** ”). In limited circumstances, **Personal Information collected or received by a Member Club may be shared and used by a Member Club or the CFL for a purpose expressly set out in this Privacy Policy** (see: “5. How the CFL and Member Clubs May Share and Use Personal Information”).
 
-We may use information that we collect through the Services for a variety of purposes, including to:
+For the purposes of this Privacy Policy, “ **CFL Affiliates** ” includes Member Clubs of the Canadian Football League (“ **Member Clubs** ”), as well as CFL Enterprises L.P., CFL Enterprises G.P. Inc., CFL Holdings G.P. Inc., and CFL Holdings L.P., (collectively, the “ **CFL** ,” “ **we** ,” “ **our** ,” “ **us** ”).
 
-  * Provide you with the products, promotions, services, newsletters, and information you request and respond to correspondence that we receive from you;
-  * Contact you via email and otherwise about your account, products, services, contests, and events that we think might be of interest to you;
-  * Send you promotional material or special offers on our behalf or on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties;
-  * Maintain or administer the Services, perform business analyses, or for other internal purposes to improve the quality of our business, the Services, and other products and services we offer;
-  * Publish stories, comments, photos, and other information posted in our interactive online features;
-  * Customize and personalize your use of the Services; and
-  * As otherwise described to you at the point of collection or pursuant to your consent.
+The CFL is the controller of all Personal Information, except where such Personal Information is collected by a Member Club via a Member Club website, in which case that Member Club will be the controller. Where you consent to a Member Club sharing your personal information to the CFL, the CFL will be the data controller.  The controller is responsible for all processing of your data.
+
+By using any of our Services, you consent to the collection, use and disclosure of your Personal Information as described in this Privacy Policy. However, if you are an EU Citizen, your data will only be processed in accordance with one of the legal bases described in sections 4 and 10 of this Privacy Policy and listed in section 4.
+
+  2. _Changes to the Privacy Policy_
 
 
 
-### **Sharing Information**
+Please note this Privacy Policy may be updated at times to reflect changes in our privacy practices. Any such changes will be posted on this page and where appropriate, notified to you when you start use of a Service for the first time following the change.  Changes will take effect immediately upon such posting or notification, and will apply to all collected information obtained by CFL after such posting or notification.  We encourage you to review this Privacy Policy periodically. The revised version is effective as of the published effective date. By your continued use of our Services, you acknowledge that any revised Privacy Policy will supersede any prior privacy policies to which you and your information may have been subject.
 
-We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect. At times, as described below, we may share your personal information with others for various purposes:
-
-  * **Service Providers** : We may share your information with service providers that perform certain functions or services on our behalf (such as to host the Services, fulfill orders, provide products and services, manage databases; perform analyses, process credit card payments, provide customer service, or send communications for us). These companies are authorized to use your personal information only as necessary to provide these services to us.
-  * **Subsidiaries and Affiliates** : We may share your information with all members of the CFL Family, including, without limitation, our subsidiaries and affiliates (e.g., CFL Enterprises, L.P., CFL Enterprises G.P., CFL Holdings G.P., and CFL Holdings L.P.).
-  * **Member Clubs** : We may share your information with Member Clubs, each of whom has its own privacy policy, which is available on the Member Club’s respective website.
-  * **Select Business Partners** : With your consent, we may share your information with select business partners that are not service providers, such as our sponsors and broadcast partners, so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. If you do not elect to have your information shared, it will not be shared with such third parties. We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them. However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes.
-  * **Third-Party Ad Serving and Audience and Traffic Measurement Services** : Some of the content, advertising and functionality on our Services may be provided by third parties that are not affiliated with us. For example: 
-    * **Content providers** , which may operate contests, sweepstakes, fantasy or interactive games, or public forums on our Services;
-    * **Retail and other companies** (such as those that operate our Shop and those that operate other Services), which may process transactions, provide customer service, and perform other related functions;
-    * **Advertising providers** , which help us and our advertisers provide ads (on our Services or elsewhere online) that are tailored to users’ interests and understand users’ response to those ads;
-    * **Audience-measurement companies** , which help us measure the overall usage of our Services and compare that usage to other online services; and
-    * **Social networking services** (such as Facebook, Twitter, and Google+), which enable you to log in to certain of our Services, to comment on content available on our Services, and to share things you find on our Services with your social network.
-    * **Mobile location analytics providers** , which use location-specific data to facilitate the transmission of informational, marketing, and public service communications to you.
+  3. _Personal Information We May Collect_
 
 
 
-These third parties may set their own cookies or similar web technologies to collect information about users’ online activities over time and across different websites.
+When you interact with us through our Services, we may collect data, including Personal Information from you or from other sources. “Personal Information” is information about an individual from which that person can be identified.
 
-  * **Other Parties in Connection with Business Transactions** : If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the unlikely event of bankruptcy, a business reorganization, or similar event, we may transfer your information as part of such transaction.
-  * **Administrative or Legal Process** : We may disclose your information to third parties in order to protect the legal rights, safety, and security of the CFL, our corporate affiliates, subsidiaries, business partners, and the users of our Services; enforce our Terms of Use; respond to and resolve claims or complaints; prevent fraud or for risk management purposes; and comply with or respond to law enforcement or legal process or a request for cooperation by a government or other entity, whether or not legally required.
-  * **Interactive Features** : We may share information with third parties when you post information to a user profile or a public area of the Services, such as a chat room, forum, blog, or other community tool. If you post to these interactive features, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure that parties who have access to such information will respect your privacy. Please exercise caution when using these features.
-  * **Other Parties with your Consent** : We may share information with third parties when you consent to such sharing. For example, if you win a contest or sweepstakes, we may ask your permission to publicly post certain information on the Services identifying you as the winner.
+Data that we collect may be information that you directly provide to us, such as Personal Information you provide when you use our Services, or information that is passively or automatically collected from you, such as information collected from your browser or device.  Please consult our “Cookie Policy” for information about the type of cookies used on our websites and how that information is managed.
+
+The data we collect primarily includes:
+
+  * **Data that you provide directly when you register for, or use, the Services**. This data will vary, but typically consists of name, email address, postal address, phone number and other similar contact data.  We also receive data from the communications you send to us, such as customer service inquiries, product reviews and other feedback regarding the Services.
+  * **User credentials** , such as username, password, password hints and similar security information used to create an account and authenticate users of the Services.
+  * **Demographic data** , such as age, gender, country and language preference.
+  * **Payment data** , such as credit card information and billing address.
+  * **Device data** , such as type of device, operating system and other software installed on the device, device settings, IP address, device identifiers and error reports.
+  * **Usage data** , such as the programs and features you access, items you purchase, and the timing, frequency and duration of your interactions through the Services.
+  * **Location data** , such as IP addresses transmitted from your device.
+  * **Information about your interests and preferences** , such as your favorite clubs and players, your home city or your communications preferences. In addition to what you provide directly, we may infer your interests and preferences from other data we collect, such as the content and advertisements you interact with while using the Services.
+  * **Third party integrations**. If you connect your use of the Services through a third party service (e.g., a social media platform), the third party may share certain information from your third party account with us.
+  * **Other third party data** , such as data from our affiliates, partners or vendors, data brokers or public sources. For example, if a third party runs a contest, they might share information about the people who entered the contest in accordance with their own privacy notices. We also might receive Personal Information from online ticket websites in accordance with their own privacy notices and/or through agreements with such online ticket websites, so we can see who has bought tickets to which game.
 
 
 
-### **Cookies and Similar Technologies**
+The CFL and Member Clubs have harmonized their Privacy Policies such that a Member Club or the CFL may collect Personal Information from a Member Club or the CFL for any of the limited purposes set out below (see: “5. How the CFL and Member Clubs May Share and Use Personal Information”).
 
-The Services use technologies such as cookies, beacons, tags and scripts. These technologies are used for a variety of purposes, such as analyzing trends, administering the Services, analyzing how users interact with the Services, and gathering demographic information. By using the Services, you consent to our use of cookies and similar technologies.
+  4. _How the CFL or a Member Club May Use Personal Information_
 
-Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Services, but your ability to use certain features may be limited.
 
-We may use mobile analytics software to allow us to better understand the functionality of our Services. This software may record information such as how often you use an application, the events that occur within the application, aggregated usage, performance data, and where an application was downloaded from.
 
-### **Links to Other Websites**
+Please be advised that the CFL or a Member Club may use Personal Information for the following purposes. This section does _not_ permit the CFL or a Member Club to share or disclose Personal Information for any of the following purposes.
 
-The Services may contain links to other websites or online services that are operated and maintained by third parties and that are not under our control or maintained by us. Such links do not constitute an endorsement by us of those other websites, the content displayed therein, or the persons or entities associated therewith. This Privacy Policy does not apply to this third-party content. We encourage you to review the privacy policies of these third-party websites or services. We do not have any control over such services, and therefore have no responsibility or liability for the manner in which the entities that operate such linked services may collect, use, disclose, or otherwise treat your information.
+In respect of EU citizens, we will only use your Personal Information where we have a legal basis for doing so. The relevant legal bases that we rely on in respect of our processing of your Personal Information on our website, apps and in connection with the Services are described in section 10 of this Privacy Policy and are listed below in relation to each purpose.
 
-### **Security**
+**The CFL or a Member Club may use Personal Information** **to provide services**. We use the data we collect or receive to provide you with the Services you use or request. For example, we use this information to:
 
-We have adopted reasonable security procedures to help protect against loss, misuse, and unauthorized access to the information you provide to us.
+  * Create accounts;
+  * Process transactions;
+  * Provide technical support and respond to user inquiries;
+  * Store Personal Information and keep records of our processing activities;
+  * Comply with legal obligations that apply to us in connection with the provision of our websites, apps and Services;
+  * Administer your participation in our events, contests, sweepstakes, games, or promotions;
+  * Notify you about updates to our Services or send other communications that are relevant to your use of our Services; and
+  * Protect you and us by enhancing our ability to detect and prevent fraud and potentially illegal activities in connection with our Services and otherwise enforce our rights.
 
-Please note that no data transmission or storage can be guaranteed to be 100% secure. As a result, while we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to the Services and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information.
 
-Your online access to some of your information may be protected with a password that you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls, or email messages).
 
-### **Data Retention**
+If you are in an EU Member State, your Personal Information will be processed for this purpose under the lawful bases of:
 
-We will retain your information for as long as your account is active, as needed to provide you the Services, and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+  * Performance of a contract;
+  * Legitimate interests; and/or
+  * Compliance with a legal obligation.
 
-### **Minors**
 
-People aged thirteen or under are not allowed to become registered users of this site. For more information, please contact the webmaster.
 
-### **Changes to this Privacy Policy**
+**The CFL or a Member Club may use the data we collect and receive** **to improve our operation and Services.** We also use the data we collect or receive to provide content you may find relevant and interesting and to maintain and upgrade our operations and our Services. For example, we may use this information to:
 
-We may update this Privacy Policy from time to time to reflect changes in our privacy practices, so we encourage you to review this Privacy Policy periodically. If we make significant changes to this Privacy Policy, we will provide appropriate notice to you.
+  * Solicit, process, review and make use of input and feedback;
+  * Identify and address technical issues on our Services; and
+  * Customize your experiences based on location information or your online activities, including the content you view, the products you bid on or purchase, other Services of ours you use, and other information we collect or receive.
 
-### **Contact Us**
 
-If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [contact@cfl.ca](mailto:contact@cfl.ca) or:
+
+If you are in an EU Member State, your Personal Information will be processed for this purpose under the lawful basis of:
+
+  * Legitimate interests.
+
+
+
+**The CFL or a Member Club may use the data we collect and receive** **to provide effective advertising and marketing.** We also use the data we collect and receive to send you promotional communications. For example, we may use this information:
+
+  * To send you electronic and other marketing messages about our Services, our venues, sponsors, our community and charitable endeavors, or other third-party business partners that may be tailored to your preferences and interests – for example, content related to your favorite club.
+  * To conduct analytical and/or market research to enable us to improve the goods and services we offer.
+
+
+
+If you are in an EU Member State, your Personal Information will be processed for this purpose under the lawful bases of:
+
+  * Consent, where we send you direct marketing (except where we are marketing our own products and/or services which are similar to those in which you have previously purchased from us and several further conditions are met); and/or
+
+
+
+Legitimate interests for all other marketing.  **The CFL or a Member Club may use the data we collect and receive** **to anonymize you.** We may take your Personal Information and anonymize it, after which we may use it for our analytics services (for instance, to find out the types of people who use certain Services), and to provide insights for ourselves and third parties.
+
+If you are in an EU Member State, your Personal Information will be processed for this purpose under the lawful basis of:
+
+  * Legitimate interests.
+
+
+
+**The CFL or a Member Club may also use the data we collect and receive for other purposes** that will be described to you at the point of collection or for which you provide your consent.
+
+  5. _How the CFL and Member Clubs May Share and Use Personal Information_
+
+
+
+**The CFL and Member Clubs may share Personal Information** **among CFL Affiliates for the following purposes:**
+
+  * **To conduct data analytics, consumer and/or market research** related to the goods and services we offer. This may involve merging Personal Information derived from multiple sources, including Member Clubs, for profile compilation purposes.
+  * **To utilize data analytics, consumer and/or market research** for the purpose of improving Services.
+  * **To send tailored communications and other marketing messages** to select recipients about Services and other offers.
+
+
+  6. _How We May Disclose_ _Personal Information_ _to Third Parties_
+
+
+
+We may share data we collect with select third parties for the purposes set out below.
+
+**We may disclose the data we collect and receive** **to provide our** **Services.** We sometimes engage or partner with other companies to operate the Services or perform certain functions on our behalf – for example, maintaining our fan database, delivering messages and advertising, operating our websites and digital platforms. We may provide these companies with access to your Personal Information as needed for them to perform these functions in a manner consistent with this Policy. As at the date of this Privacy Policy, these companies are as follows: Mailchimp and Facebook.
+
+**We may disclose the data we collect and receive** **when** **necessary under certain circumstances.** We may disclose your personal data to, for instance, law enforcement agencies and other public authorities, when we believe that disclosure is necessary to:
+
+  * Comply with applicable law or respond to valid legal process.
+  * Protect the safety and security of our fans or our Services.
+  * Prevent fraud, abuse or other unlawful or unauthorized activities.
+  * Protect the rights or property of us or third parties, including enforcing the terms of our agreements.
+
+
+
+**We may also share your data for any other purpose as disclosed to you at the time of collection, or when we have obtained valid consent.** Please note that this Privacy Policy is not intended to limit our ability to share or disclose aggregated, pseudonymized or anonymized data in a manner that accords with applicable privacy law.
+
+  7. _Security Safeguards for Personal Information_
+
+
+
+We have adopted administrative and technical measures to help protect against loss, misuse, interference, disclosure, destruction, alteration and unauthorized access to the data you provide to us. We also maintain reasonable procedures to help ensure that such data is reliable for its intended use and is accurate, complete and current.
+
+Please note that no data transmission or storage can be guaranteed to be 100% secure. Despite our efforts to ensure that unauthorized third parties will not access or obtain your Personal Information through its Web site, complete confidentiality and security cannot currently be guaranteed on the Internet. The provision of services and communications via the Internet are subject to a risk of interception, loss, or alteration. As a result, while we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to the Services and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information. By using our web services, you acknowledge and agree that we cannot be held responsible for damages resulting from the transmission of confidential information or Personal Information over the Internet and that such communications are at your own risk. **This does not affect any liability we might have under the GDPR in respect of the Personal Information of EU citizens.** In the event of a breach of security safeguards for Personal Information, the CFL, CFL Affiliates and business partners will comply with all reporting and notification obligations.
+
+Please be advised that regardless of the geographic location from which you use our Services or provide Personal Information to us, your data may be transferred to, maintained in, and processed by the CFL, CFL Affiliates, service providers and our business partners in Canada and the United States. In respect of EU citizens, please see section 10 of this Privacy Policy for more information about how we safeguard international transfers of data.
+
+We will retain Personal Information only for as long as reasonably necessary for the purposes set out above or for as long as required by law. In some circumstances we will anonymise your Personal Information (so that it can no longer be associated with you) for research or statistical purposes, in which case we may use this information indefinitely without further notice to you.
+
+  8. _Your Access to Your Personal Information_
+
+
+
+We will give you access to Personal Information we retain about you in accordance with the provisions of the _Personal Information Protection and Electronic Documents Act_ or other applicable law (EU citizens should see section 10, below, which more fully describes their rights and California residents should see section 11 with respect to their rights). We will make every reasonable effort to keep your Personal Information accurate and up-to-date. Upon your request, you shall be informed of the existence, and where possible, of the use and disclosure of your Personal Information. You may verify the accuracy and completeness of your Personal Information, and may request that it be amended, if appropriate. Simply send us an e-mail at contact@cfl.ca and we will look after your request.
+
+  9. _Privacy Policy for Children (Users Under 13 Years Old)_
+
+
+
+Our services are not directed to, or intended for, children under 13 years of age.  We may use age screening mechanisms to help us determine if a user is under the age of 13.  However, if a parent or guardian of a child who is under 13 years of age discovers that Personal Information of such child has been submitted to CFL through the Services without the parent’s or guardian’s consent, CFL will use commercially reasonable measures to remove such Personal Information from CFL’s servers at the parent’s or guardian’s request.  To request the removal of such Personal Information, CFL, the parent or guardian must contact CFL as set forth in section 14, and provide all information requested by CFL to assist it in identifying the Personal Information to be removed.
+
+  10. _European Privacy Rights_
+
+
+
+This section of the Privacy Policy applies only if you use our Services covered by this Policy from a country that is a Member State of the European Union, (the “EU”), and supplements the provisions in this Privacy Policy.
+
+Under the GDPR, you are entitled to additional rights, including: (i) the right to withdraw consent to processing where consent is the basis of processing; (ii) the right to access your Personal Information and certain other supplementary information; (iii) the right to object to certain types of processing, including processing based on Legitimate Interests or which is carried out for the purposes of direct marketing; (iv) the right to erasure of Personal Information about you, under certain conditions; (v) the right to demand that we restrict processing of your Personal Information, under certain conditions, if you believe we have exceeded the legitimate basis for processing, processing is no longer necessary, or believe your Personal Information is inaccurate; (vi) the right to data portability which means the ability to obtain and reuse your Personal Information for your own purposes across different services; (vii) the right object to decisions being taken by automated means which produce legal effects concerning you or similarly significantly affect you, under certain conditions; (viii) the right to lodge a complaint with data protection authorities (<https://edpb.europa.eu/about-edpb/board/members_en>); (viii) the right to be informed with clear, transparent and easily understandable information about how we use your Personal Information and your rights (this is why we are providing you with the information in this Privacy Policy); and (ix) the right to have your personal data corrected if it is inaccurate or incomplete. If you want to learn more about your rights under the _GDPR_ , you can visit the European Commission’s page on Data Protection at: <http://ec.europa.eu/justice/data-protection/index_en.htm>.
+
+In France, you are also entitled to provide us with your instructions as to the fate of your Personal Information after your death.
+
+_Legal bases for processing_
+
+The relevant legal bases for processing personal data for the purposes of GDPR are as follows:
+
+**Consent:** means our processing of your personal data where you have signified your agreement by a statement or action for a specific purpose. Consent will only be valid if it is a freely given, specific, informed and unambiguous indication of what you want.
+
+You can withdraw your consent at any time by contacting us. This will not affect any processing that is carried out before you withdraw your consent.
+
+**Legitimate interests:** means our processing of your personal data where this is necessary for our legitimate interests or those of a third party, except where these interests are overridden by your interests or fundamental rights and freedoms. In this case, our legitimate interests are those that we have in:
+
+  * operating our apps and websites;
+  * providing the Services;
+  * sending you electronic marketing communications in respect of the Services, including where these are similar to those in which you have previously requested from us;
+  * detecting and preventing fraud and other criminal offences;
+  * ensuring the quality of, and improving, the Services;
+  * administering your account(s);
+  * responding to your queries and requests;
+  * communicating with you;
+  * record keeping, statistical analysis, internal reporting and research purposes;
+  * ensuring network and information security;
+  * notifying you about changes to our services;
+  * investigating any complaint you make;
+  * providing evidence in any dispute or anticipated dispute between you and us;
+  * analysing how our apps and website are being used;
+  * customising various aspects of our apps and website to improve your experience;
+  * understanding the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+  * business and disaster recovery (e.g. creating back-ups);
+  * lawful document retention/storage purposes;
+  * database management; and
+  * protecting the rights, property, and/or safety of us, our personnel and others.
+
+
+
+**Necessary for compliance with a legal obligation:** means our processing of your personal data where this is necessary for compliance with a legal obligation that applies to us.
+
+**Necessary in connection with a contract:** means our processing of your personal data where this is necessary for the performance of a contract with you, or in order to take steps at your request before entering into a contract, for example to deliver the Services to you.
+
+_International transfers_
+
+The CFL, CFL Affiliates and Member Clubs are based outside of the European Economic Area (“ **EEA** “) and so their collection and processing of your personal data may involve a transfer of information outside the EEA.
+
+When transferring your personal data outside the EEA, we ensure that security measures and appropriate safeguards are put in place to protect the personal data and to ensure that all transfers comply with applicable data protection law.
+
+The CFL, CFL Affiliates and Members Clubs are based in Canada, which means that due to an adequacy decision by the European Commission, any Personal Information outlined in this Privacy Policy is covered by laws that provide an adequate level of protection.
+
+Where we share your Personal Information with service providers or business partners based in the USA, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the USA. For further details see <https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/eu-us-data-transfers_en>.
+
+  11. _California Residents’ Rights_
+
+
+
+CFL will, to the extent required by any applicable law, disclose, delete or take any other action with respect to any Personal Information relating to you that is collected by CFL.  Specifically, if you are a resident of California and make such a request, CFL (and each third party to whom or which CFL transferred any Personal Information relating to you) will (a) disclose (i) the categories of any Personal Information relating to you that is collected by CFL, (ii) the categories of sources from whom or which such Personal Information is collected by CFL, (iii) the business or commercial purposes for CFL’s collecting such Personal Information, (iv) the categories of third parties to whom or which CFL transfers such Personal Information and (v) the specific pieces of such Personal Information collected by CFL, and (b) except in certain circumstances, delete such Personal Information.  Note, however, that laws that apply to one category of individuals do not confer the same benefits on other individuals not covered by such particular law.
+
+  12. _Third Party Links_
+
+
+
+Our Services may, from time to time, contain links to and from third parties.  Please note that these websites have their own privacy notices and that we do not accept any responsibility or liability for these notices or for any personal data that may be collected through these websites. Please check the privacy notices of these other websites before you submit any personal data to them.
+
+  13. _If You Fail to Provide Personal Information_
+
+
+
+Where we need to collect Personal Information by law, or under the terms of a contract we have with you, and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with the Services). In this case, we may have to cancel the provision of the Service you have with us but we will notify you if this is the case at the time.
+
+  14. _Contact Us_
+
+
+
+If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [contact@cfl.ca](mailto:contact@cfl.ca) or:
 
 **Canadian Football League**  
 50 Wellington Street East, 3rd Floor  
 Toronto, Ontario M5E 1C8  
-Attention: Website Privacy Policy  
+Attention: Privacy Policy  
 Tel: (416) 322-9650  
 Fax: (416) 322-9651
