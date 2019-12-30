@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossref.org privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425122807id_/https%3A//www.crossref.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossref.org privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230111945id_/https%3A//www.crossref.org/privacy) for the most accurate reproduction.*
 
 # Privacy - Crossref
 
@@ -16,11 +16,11 @@ If you [sign up for news and updates](https://web.archive.org/subscribe-newslett
 
 ## Joining as a member
 
-If you sign up to become a member of Crossref, we add you as an ‘inactive’ account in our Customer Rrelationship Management (CRM) system, [SugarCRM](https://www.sugarcrm.com/). Once your account is approved, and when you’ve signed your contract and paid your first year’s membership fee, we set your account to ‘active’. When you sign up we ask for contacts for: billing, voting, business, technical, and metadata quality. The billing contact receives the invoices for annual membership fees and quarterly content registration fees. The voting contact recieves the annual board election notices and votes on behalf of the member organization. The Business contact agrees to the terms and recieves regular service and product information. The technical contact may be your chosen agent to deposit metadata with us. And the metadata quality contact is the one we send reports to about metadata errors and would be the one to fix them.
+If you sign up to become a member of Crossref, we add you as an ‘inactive’ account in our Customer Relationship Management (CRM) system, [SugarCRM](https://www.sugarcrm.com/). Once your account is approved, and when you’ve signed your contract and paid your first year’s membership fee, we set your account to ‘active’. When you sign up we ask for contacts for: billing, voting, business, technical, and metadata quality. The billing contact receives the invoices for annual membership fees and quarterly content registration fees. The voting contact recieves the annual board election notices and votes on behalf of the member organization. The Business contact agrees to the terms and recieves regular service and product information. The technical contact may be your chosen agent to deposit metadata with us. And the metadata quality contact is the one we send reports to about metadata errors and would be the one to fix them.
 
 Over time we might ask to be in touch with additional people at your organization, such as editors, product managers, production staff, and other interested colleagues. We will ask upfront for your consent and it is always possible to opt-out later if you change your mind.
 
-Depending on the type of account, you may receive a series of on-boarding emails that provide information about how to get started with your participation in Crossref. We will also email you with significant news as and when things change, services are improved, or new services are introduced.
+Depending on the type of account, you may receive a series of on-boarding emails that provide information about how to get started with your participation in Crossref. We will also email you with significant news as and when things change, services are improved, or new services are introduced. We may also invite you to participate in research or surveys.
 
 We offer both members and non-members a range of [services to access metadata](https://web.archive.org/services/metadata-delivery). In some cases, the provided metadata may include data (or metadata derived from data) that originated from sources other than our members (“third-party sources”). We will take steps to inform all users of our metadata delivery services about any third-party sources for the metadata. If the third-party source requires it, we will also provide their privacy policies or usage restrictions. We respect the terms and conditions, including the privacy policies, of the third-party sources and we expect the users of our metadata services to do so as well.
 
@@ -58,7 +58,7 @@ We will not share your personal information with third parties, except as we des
 
 Crossref is registered in the United States. Wherever you are located, any of the data you provide to Crossref may be transferred to the United States, where data protection and privacy laws may be different, and less rigorous, than the laws in your country.
 
-## Accessing, Correcting, and Removing Information
+## Accessing, correcting, and removing information
 
 Unless there is an exemption or other applicable law, you have the right to withdraw your consent to us processing your personal data, including the transfer of that information to the United States. You also have a right to request copies of your personal data and request that we correct any information that is inaccurate or out of date, or to ask that it be erased where it is no longer necessary for us to have the data. Where your data has been provided to us by another organization, such as a publisher, you should contact that organization in the first instance. If you have provided your information directly to us, or if you have any other questions about this notice or want additional information, you should contact us directly.
 
