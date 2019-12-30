@@ -1,123 +1,252 @@
-> *The following text is extracted and transformed from the cylance.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911071344id_/http%3A//cylance.com/en_us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cylance.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230202128id_/https%3A//www.cylance.com/en-us/company/about-us/privacy-notice.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Notice | Company | Cylance
 
-This Privacy Policy was last updated on August 3, 2017.
+[](https://privacy.truste.com/privacy-seal/validation?rid=30176b35-8273-42c3-af68-0b7c5a2940c3)
 
-This Privacy Policy ("Policy") informs you of the types of information Cylance Inc. (“Cylance,” “we,” “us,” “our,” or the “Company”) collects about you when you visit our website at http://www.cylance.com and associated sub-domains (“Site”); download and install any of our products, or any installer or other applications we provide to you (collectively, “Software”); or utilize any of our services (the “Services”), and how we use that information. The term “Cylance Services” means the Site, the Software, and the Services. By visiting the Site, downloading the Software, or utilizing our Services, you agree to the provisions of this Policy. Unless stated otherwise, our current Policy applies to all information that we collect from or about you.
+This privacy notice is effective starting February 6, 2019.
 
-This Policy does not apply to information collected by any third party, including through any application or content that may link to or be accessible from the Cylance Services. If you do not agree to the terms of this Policy, please do not use, access, download, install, or utilize (collectively, “use”) any Cylance Services or otherwise provide us with any personal information.
+Cylance is committed to protecting the privacy of all individuals who entrust their personal data with us. As a company dedicated to protecting data, our collection and use of personal data is guided by our mission to prevent malware attacks and protect our customers' data.
 
-### **Information We Collect and How We Use Your Information**
+This privacy notice applies to the personal data collected, processed, or stored by Cylance, and its subsidiaries (“Cylance”, “we”, “our” or “us”), when you visit our websites, register to attend an event, download and install any of our products, including consumer versions of our products, use any application we provide to you, or utilize any of our services.
 
-**When You Use Cylance Services**
+If you are a resident in the European Economic Area, Cylance Inc. is the data controller of your personal data, except where our products and services have been deployed within an organization, such as your workplace or business.
 
-We may automatically collect certain aggregate information and analytical data related to your use of the Cylance Services, including visiting the Site (see “Tracking Technologies” below). Aggregate information is non-personally identifiable or anonymous information about you, including the date and time of your visit; the Internet Protocol (“IP”) address of your computer; information about your browser and operating system; the state or country from which you accessed the Site; the Internet address you visited before reaching the Site; error logs; the name of the domain and host you used to access the Internet; the features of the Site that you accessed; and other hardware and software information. However, none of the automatically collected aggregate information and analytical data described above is associated with your personally identifiable information unless you voluntarily share your personal information with us.
+If you have any questions regarding this notice, see the Contact Us section later in this statement.
 
-We use log files to manage traffic loads and information technology requirements for providing reliable service, as well as to enhance the Site by tailoring our content to your interests and needs.
+### **Why We Collect and Use Your Data**
 
-We may also use Google Analytics and other third-party analytics providers to assist in collecting aggregate information to improve our Site. Google’s use and collection of information from our Site are governed by the [Google Analytics Terms of Use](https://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](https://www.google.com/policies/privacy/). To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-Out Browser Add-on by [clicking here](https://tools.google.com/dlpage/gaoptout).
+Cylance will only collect, use, or store your personal data when we have a fair and lawful purpose for such processing. We rely on several legal basis for the purposes described in this privacy notice, including:
 
-**While Using the Software**
+  * as necessary to provide a service requested by you, such as when you request a whitepaper or register to attend a webinar
+  * as necessary to fulfill or perform a contract we enter with you, or an organization you work for, such as when our products and services process information about the computer they are installed upon
+  * where you have given your consent, which you may revoke at any time, to process your personal data for a specific purpose, such as subscribing to receive an email from us about our company’s products and services
+  * when we have a legal obligation, or the processing is in the public interest or in furtherance of a vital interest
+  * the processing is necessary to further our legitimate interests, which may include the improvement of our products or services, securing our systems and to protect against fraud
 
-As an integral part of its functionality, the Software may automatically collect and transmit certain files and processes, including portable executable files or other executable code, that exist on, or are being introduced into a computer system or network ("Files"), to identify potential or actual malicious code, malware, or other intrusive artifacts or processes (collectively “Potentially Malicious Code”). Such Files are transmitted to our servers so that we can analyze them for malicious code, malware, or other intrusive programs. We may also collect certain systems telemetry information, including, without limitation, the path and file name of the Potentially Malicious Code, user names; MAC Addresses; network information; hardware type; model number; hard disk size; CPU type; disk type; RAM size; systems architecture; operating system; versions; locale; BIOS version; BIOS model; system telemetry; device ID; IP address; location; information about third-party products; and other configurations, settings, and artifacts.
 
-**Email Communications**
 
-On our Site, you can sign up to receive additional information, attend a webinar, or sign up to attend a live event. To receive additional information from us, you must provide your name, company name, email address, and phone number. This information is retained by us and our third-party business partners to provide you with information, marketing materials, or updates for Cylance Services similar or related to the information that you have requested. Our third-party business partners provide Cylance with services that may require us to provide them with your personal information. These third-party business partners are not permitted to use the information collected on our behalf except to help us conduct business, improve, or provide the Cylance Services.
+We collect information from you for the following purposes:
 
-We may also send you notifications via email regarding Cylance Services for the purpose of keeping you informed of any updates or changes to the Cylance Services, e.g., product updates and support communications. These email communications are essential for the continued functionality of the Cylance Services, and you will continue to receive these types of email communications even if you choose to opt-out of any other email communication from us.
+**Service Delivery and Product Improvement**
+  * Enable the trial, purchase and delivery of our products and services
+  * Improve the performance and optimize the utilization of our products and services
+  * Provide customer support, and respond to requests, questions and comments
+  
+**Marketing, Events and Promotions**
+  * Deliver information about our products, services and promotions, including advertising
+  * Register you for webinars, events and conferences
+  * Improve the operation of our websites and effectiveness of marketing campaigns
+  * Administer contests, promotions, surveys and focus groups
+  
+**Improve Internal Operations**
+  * Analyze your use of our products and services to drive improvements
+  * Manage our sales and marketing activities, and measure corporate performance
+  
+**Fraud Prevention, Security and Compliance**
+  * Protect the security and integrity of our products, services and data
+  * Prevent fraudulent transactions, protect our intellectual property and other assets
+  * Meet our corporate reporting, compliance and fiduciary obligations
 
-If you would like to review your communication preferences, or if you do not want to receive further information or materials from us, you can update your information or opt-out by following the instructions contained within each communication from us. You can also contact us at [privacy@cylance.com](mailto:privacy@cylance.com) or write to us at the address listed at the end of this Policy.
 
-**Your Account Information**
 
-Information you provide when you create an account on our Site, register your Software, or in relation to the receipt of any other Service may include your name, company name, personal and/or business email address, phone number, and other personally identifiable information (“Account Information”). Your Account Information is stored securely with controlled access and used to inform you of upcoming events, send you information and updates, respond to inquiries for service requests, authenticate your use of the Software, manage the Site and the Software, and assess the usage of the Services. 
+For more information about the legal bases we use to lawfully process personal data, see our [Privacy Notice Frequently Asked Questions](https://web.archive.org/en-us/company/about-us/privacy-notice-faq.html#gen-data-05).
 
-In connection with providing Cylance Services to its clients, Cylance may collect personally identifiable information from employees and customers of our clients, users of our clients' networks and systems, and individuals that connect to our clients' networks and systems. The use of information collected as a result of providing Cylance Services to our clients will be limited to the purposes for providing the Software or Services to the client. We may transfer personal information to other companies that help us provide our Software and Services to our clients. Transfers to subsequent third parties are covered by the service agreements with our clients.
+### **What We Collect and How We Use Your Data**
 
-**Access**
+#### When Visiting Our Websites
 
-Upon request, Cylance will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by contacting us at [privacy@cylance.com](mailto:privacy@cylance.com). We will respond to your request within a reasonable timeframe. In certain circumstances, we may be required by law to retain your personal information or may need to retain your personal information in order to continue providing the Cylance Services.
+We automatically collect and aggregate information related to your use of our websites. We use technologies, such as cookies, to enable functionality, measure performance, and provide relevant information when you visit or return to our sites. This information helps our websites work correctly, provide information about our products and services, and supports our efforts to understand our customers’ interests.
 
-Cylance acknowledges that you have the right to access your personal information. However, Cylance has no direct relationship with the individuals whose personal information it may process on behalf of Cylance’s clients. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to Cylance’s client (the data controller). If requested to remove data, we will respond within a reasonable timeframe. 
+We collect the following types of information from you when you visit our websites:
 
-**Tracking Technologies**
+  * **Device and Browser Information:** We collect information about the device and browser you use when visiting our websites, including information such as the Internet Protocol (IP) address of the device, your preferred language, the type of device you use, the device operating system and browser type.
+  * **GeoLocation:** We derive the approximate geographic location, such as country, based upon the IP address of the device used when visiting our website to analyze traffic and improve our site. 
+  * **Browsing Activity:** We collect information about how you browse our website, including the address of referring websites, the pages you visit, and the path you take through our websites.
+  * **Cookie and Related Technologies:** We use technologies, such as cookies and related technologies, to collect information about the use of our websites to determine the effectiveness of content or the email messages you’ve subscribed to.
+  * **Social Media Features:** Our websites allow you to share information on your social media platform of choice, such as Facebook, Google+, Twitter, and LinkedIn. These features are usually recognizable by their third-party logo and may collect your IP address, the page you are visiting on our site, and set a cookie to enable the feature to work properly when you use this functionality.
 
-Cylance and its partners use cookies or similar technologies to analyze trends, administer the Site, track users’ movements around the Site, and gather demographic information about our user base as a whole. The technologies we use for automatic data collection may include, e.g., browser cookies, web beacons, and flash cookies. 
 
-You may manage how your mobile device and browser handles cookies by adjusting its privacy and security settings. Mobile devices and browsers are different, so refer to instructions related to your device and browser to learn about cookie-related and other privacy and security settings that may be available. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. Currently, we do not alter our data collection and use practices in response to Do Not Track signals.
 
-**Third-Party Use of Cookies and Other Tracking Technologies**
+For more information on how to manage cookies on your devices, including how to opt-out of cookies, see Managing Your Tracking Technology Preferences.
 
-Some content or applications, including advertisements, on the Site are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies (alone or in conjunction with web beacons or other tracking technologies) to collect information about you when you use our Site. 
+#### When Requesting Information or Registering for An Event
 
-**Outside Parties; Disclosure of Information**
+You may sign up to receive information about our company, our products and services, cybersecurity news and information, access our partner portal and register to attend an event on our websites. Based on your consent, we may send you electronic communications to keep you informed of changes to our products and services.
 
-Except as provided in this Policy, we do not sell, trade, lease, rent, or otherwise transfer your personal information to third parties. We reserve the right to share your information with third-party business partners and service providers who assist us in operating our Site, conducting our business, and providing you with the Cylance Services. Cylance requires these third parties to take commercially reasonable steps to safeguard your personal information and not use your personal information for other purposes unless you consent. 
+Your personal data will be accessed by authorized Cylance personnel to deliver the requested information and market to you in compliance with this privacy notice. We may also provide your personal data to trusted third-party providers to help us deliver the information you requested, support event activities, or provide updates about Cylance products and services. Third-party providers are not permitted to use your information for any other purposes.
 
-We may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that such disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, respond to a government request, or to conduct investigations of violations of our End User License Agreement. For example, if we conduct a fraud investigation and conclude that one side has engaged in deceptive practices, we may provide that person or entity’s contact information to victims who request it.
+**Data collected when requesting information from us**  
+The personal data we collect to deliver the information you requested, or register you for an event, may include your name, title, company name, email address, country, phone number and recent web activity.
 
-We may also provide access to, assign, or disclose information maintained by us, including your Account Information, in connection with a corporate transaction, such as a merger, acquisition, or purchase of all or substantially all of our assets.
+You can update your information, review your communication preferences, or stop receiving further communications from us by following the instructions contained within each communication we send you.
 
-**Third-Party Links**
+#### When Using Our Products and Services
 
-The Site includes links to third-party sites, products, or services, and your access to these third-party sites, products, or services may result in the collection or sharing of your information. These third parties have separate and independent privacy policies. We are not responsible or liable for the content and activities of these linked sites, products, or services. The inclusion of these third-party sites, products, or services on our Site shall not be construed to be an endorsement or representation regarding any third-party sites, products, or services. We encourage you to review the privacy policies of such third parties.
+Our products analyze software and activity on a computer to determine if malware is present, provide information about the security of the computer and respond to potential security threats. You may configure the software to upload potentially malicious computer code to our servers for further analysis. The software collects limited personal data to perform these functions. The uploaded potentially malicious computer code is de-identified and maintained separately from information that may identify an individual. Some personal data may be transferred to Cylance to enable us to provide support and billing.
 
-**Security**
+When providing professional services to our clients, Cylance may collect personal data from our clients, users of our clients' networks and systems, and individuals that connect to our clients' networks and systems. The collection and use of this personal data are limited to providing the professional service to the client. Authorized Cylance personnel will access personal data and we may transfer personal data to trusted third-party providers to help us provide professional services to our clients.
 
-The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [privacy@cylance.com](mailto:privacy@cylance.com).
+**Data collected by our products and services**  
+As part of using our products and services we collect information that is necessary to perform an analysis of potentially malicious software or activity detected by our products, manage licenses, and communicate with customers. Your personal data is stored on Cylance’s cloud-based infrastructure.
 
-**International Users**
+**Analysis of potentially malicious software and activity**  
+When the product is configured by the user or customer, potentially malicious executable files and forensically relevant computer activity data may be collected for analysis. Data contained within the potentially malicious executable files is non-personal, and any attribution data is deleted or anonymized prior to analysis.
 
-The information we collect may be stored in the United States because our operations are primarily in the United States. As such, your information may be transferred to, used, processed, or maintained on computers located outside of your province, country, or other governmental jurisdiction, and privacy laws may not be as protective as those in your jurisdiction. In situations where you are located outside the United States and choose to provide information to us, we will transfer your information to the United States and process it there. Furthermore, this Policy is governed by the laws of the United States and the State of California.
+To find out more about the personal data collected by our products and services, see the [Privacy Notice Frequently Asked Questions](https://web.archive.org/en-us/company/about-us/privacy-notice-faq.html).
 
-**EU-U.S. Privacy Shield**
+#### When Purchasing Consumer Products from Us
 
-Cylance complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Cylance has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/list). The Federal Trade Commission has jurisdiction over Cylance’s compliance with the Privacy Shield.
+When purchasing consumer products from us and related offerings, we use PCI/DSS-compliant services provided by trusted third-parties to process payments for your subscription. Cylance does not store or have access to your payment card information.
 
-Cylance is responsible for the processing of personal information it receives under the Privacy Shield Framework and subsequently transfers to a third-party acting as an agent on its behalf. Cylance complies with the Privacy Shield Principles for all onward transfers of personal information from the European Union, including the onward transfer liability provisions. Under certain circumstances, Cylance may remain liable under the Privacy Shield Principles if our agents process your European Union personal information that we transfer to them in a manner inconsistent with the Privacy Shield Principles.
+**Our payment card providers**  
+We use the PCI/DSS-compliant payment services of [Bright Market, LLC d/b/a FastSpring](https://fastspring.com/privacy/), and [Digital River](https://www.digitalriver.com/corporate-policies/), which are based in the United States, to process your subscriptions to our consumer products.
 
-With respect to personal information received or transferred pursuant to the Privacy Shield Framework, Cylance is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Cylance may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+#### Information from Third-Parties
 
-In compliance with the Privacy Shield Principles, Cylance commits to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us by using our “Contacting Us” information provided below. 
+As part of our marketing activities, we may receive additional information about you from third-party service providers to supplement the information you provided directly to us, so we can provide more relevant information about our company, products and services to you. The information we receive is public information related to the organization or business you work for, such the size of your company, industry, and business mailing address.
 
-Cylance has further committed to refer unresolved Privacy Shield complaints to TRUSTe, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit <https://feedback-form.truste.com/watchdog/request> for more information or to file a complaint. The services of TRUSTe are provided at no cost to you.
+#### Who We Share Your Data With
 
-Under certain conditions, it may be possible for you to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. For additional information, see the U.S. Department of Commerce’s Privacy Shield Framework: Annex I (Binding Arbitration).
+We do not sell, lease, or trade the personal data we collect from you. We may transfer your personal data to other Cylance entities located in the United States and worldwide for the purposes outlined in this privacy notice. We may provide access or transfer your personal data to authorized Cylance personnel, business partners and trusted third-party providers, including those who help us market, provide support, maintain or service our products and services.
 
-**Children's Online Privacy Protection Act**
+The personal data shared with Cylance entities may include: name, e-mail address and telephone number, company, title, work address, your recent interactions with our business applications, and event attendance.
 
-We do not knowingly collect any information from anyone under 13 years of age, and the Cylance Services are directed to people who are at least 13 years old. If you become aware that your child has provided us with personal information without your consent, please contact us at [privacy@cylance.com](mailto:privacy@cylance.com). A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof. If we become aware that a child under 13 has provided us with personal information, we will take steps to remove such information from our active systems and will terminate the child’s account. 
+Cylance requires our partners and third-party providers to take commercially reasonable steps to safeguard your personal data, comply with applicable laws and regulations, and not using your personal data for other purposes unless you have provided consent.
 
-**Terms of Service for Site Usage**
+We may disclose your personal data to government agencies and law enforcement officials when we believe it is necessary to respond to subpoenas, court orders, other legal process or as required by law and to prevent or take action regarding illegal activities, suspected fraud or software piracy, and situations involving potential threats to the physical safety of any person, or in cases where we believe our intellectual property rights may be violated.
 
-Please also visit our Terms of Service section establishing the use, disclaimers, and limitations of liability governing the use of the Site at [Terms of Service](https://www.cylance.com/terms).
+We may also provide access to, assign, or disclose your personal data, in connection with a corporate transaction, such as a merger, acquisition, or purchase all or a portion of our company assets.
 
-**Additional Terms and Conditions for Software**
+#### How We Protect Your Data
 
-This Policy applies only to information collected through our Site or by the use of our Software or the utilization of our Services and not to information collected offline. Your download and use of our Software is subject to additional terms and conditions that define your rights, as well as our rights, with respect to the Software and its use. Those additional terms and conditions are contained in the Evaluation Agreement or End User License Agreement that you are required to accept prior to downloading the Software.
+We are committed to ensuring that your personal data is secure. We take commercially reasonable measures, including physical, administrative and technical safeguards, to protect your personal data from unauthorized access, use, alteration, destruction and disclosure.
 
-**Your Consent**
+To find out more about our security practices, see our [Privacy Notice Frequently Asked Questions](https://web.archive.org/en-us/company/about-us/privacy-notice-faq.html).
 
-By using our Site, downloading or using the Software, or utilizing the Services, you consent to the terms and conditions of this Policy.
+#### How Long We Store Your Data
 
-**Effective Date; Changes To Our Privacy Policy**
+We retain your personal data for the period necessary to fulfill the purposes for which it was collected, or for a reasonable period thereafter to comply with our legal obligations, and contractual and business operations requirements. With relation to personal data collected by our products and services, we retain information during the term of the agreement, based upon instructions provided by our customers, or for shorter periods of time as described in the applicable product or service documentation. Non-personal data, such as samples of potentially malicious software or anonymized data, may be retained indefinitely for the purpose of improving the performance of our products and services.
 
-Each time you use the Cylance Services, the current version of this Policy will apply. We reserve the right to change this Policy at any time to reflect changes in the law, the Cylance Services we provide, our business and technology, and our data collection and use practices. Accordingly, each time you use the Cylance Services, you should check the date of this Policy (which appears at the top of the Policy) and review any changes since the last version. If we make any material changes, we will notify you by the email address specified in your Account Information or by means of a notice on the Site prior to the change becoming effective.
+### **Our Use of Cookies and Other Tracking Technologies**
 
-Your continued use of the Cylance Services following the posting of changes to this Policy will mean you accept those changes.
+#### How We Use Cookies and Other Tracking Technologies
 
-**Notice To California Residents**
+We use cookies, web beacons, pixel tags and other tracking technologies on our websites or emails to, to:
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request and obtain from us once a year, free of charge, information regarding the disclosure of your personal information by the Company to third parties for the third parties’ direct marketing purposes. With respect to these entities, this Policy applies only to their activities within the State of California. If you are a California resident and would like to request this information, please send an email to [privacy@cylance.com](mailto:privacy@cylance.com) or write to us at the address below.
+  * present information to you based on your expressed preference, such as desired language
+  * collect statistics regarding your website usage, such as time spent, pages viewed, and actions taken on our websites
+  * allow us to measure and improve the effectiveness of our marketing activities
+  * provide you with messages that is more relevant to your interests, demographics or industry
+  * in some cases, to deliver advertising about our products and services to you when you visit websites owned by other third-parties
 
-**Contacting Us**
 
-If there are any questions regarding this Policy, you may contact us using the information below:
 
-Office of the Chief Security and Trust Officer  
-[Cylance Inc.](https://www.cylance.com/)  
-18201 Von Karman, Suite 700  
-Irvine, CA 92612.  
+Please bear in mind that disabling cookies may reduce the functionality of our website.
+
+For more information on cookies and other tracking technologies, see our [Privacy Notice Frequently Asked Questions](https://web.archive.org/en-us/company/about-us/privacy-notice-faq.html).
+
+#### Use of Analytics Services
+
+Cylance uses services from trusted third-parties to collect and analyze data from users about their use of our websites, products and services. We use this information to improve the quality and functionality of the services we provide, and to develop features that serve you and other users.
+
+The types of information that we collect include the date and time a user accesses our website, products or services, the IP address the request came from, the features they use, and their frequency of use.
+
+For more information on our use of Analytic Services, see our [Privacy Notice Frequently Asked Questions](https://web.archive.org/en-us/company/about-us/privacy-notice-faq.html).
+
+#### Use of Third-Party Cookies
+
+Cylance and its partners, including ad networks, use cookies and other tracking technologies to manage our advertising delivered on other sites. We may display targeted advertisements to you while you are visiting our website, and other websites, based on information we obtain from you, or from third-parties.
+
+#### Managing Your Tracking Technologies Preferences
+
+You can manage how your device handles cookies by adjusting its privacy and security settings, but it may limit your use of certain features on our website.
+
+If you do not want to have this information used to serve targeted advertising, you may opt-out by visiting:
+
+  * <http://preferences-mgr.truste.com/>
+  * <http://www.networkadvertising.org/managing/opt_out.asp>
+  * <http://www.youronlinechoices.eu/> (European Union visitors)
+
+
+
+Please note that although you may opt out of targeted advertising, you will continue to see advertisements, however, these advertisements may not be as relevant to you as targeted advertisements.
+
+For more information on ways to manage your tracking technology preferences, see our [Privacy Notice Frequently Asked Questions](https://web.archive.org/en-us/company/about-us/privacy-notice-faq.html).
+
+#### Do Not Track
+
+Currently, we do not alter our data collection and use practices in response to Do Not Track (DNT) signals.
+
+### International Transfers of your Data
+
+Cylance may transfer your personal data to the United States, to a subsidiary located outside of the United States, or to a third-party or business partner located outside of the United States to operate our business and fulfill the purposes described in this notice. In situations where you are located outside the United States and choose to provide information to us, we may transfer your personal data to the United States and process it there. By using our websites or providing any personal data to us, where applicable law permits, you consent to the transfer, processing, and storage of such information outside of your country of residence where data protection standards may be different.
+
+#### EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
+
+Cylance has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/).
+
+Cylance is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third-party acting as an agent on its behalf. Cylance complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Cylance is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Cylance may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+In compliance with the Privacy Shield Principles, Cylance commits to resolve complaints about our collection or use of your personal data. European Union and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Cylance at [privacy@cylance.com](mailto:privacy@cylance.com).
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, [please contact our U.S.-based third-party dispute resolution provider](https://feedback-form.truste.com/watchdog/request) (<https://feedback-form.truste.com/watchdog/request>) (free of charge).
+
+Under certain conditions, it may be possible for you to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. For additional information, see the [Privacy Shield Website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint).
+
+### Children’s Privacy
+
+We do not knowingly collect any information from anyone under 13 years of age. If you become aware that your child has provided us with personal data, please contact us.
+
+If we become aware that a child under 13 has provided us with personal data, we will remove such information from our active systems and will terminate the child’s account.
+
+### Your California Privacy Rights
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request and obtain from us once a year, free of charge, information regarding the disclosure of your personal information by the Cylance to third-parties for the third-parties’ direct marketing purposes. To make such a request, please contact us by [submitting our request form](https://privacyportal-cdn.onetrust.com/dsarwebform/7f750270-e9ac-4ee8-a56b-703e5ca2b7f5/5ee56faf-afe2-4348-8720-32b47b2d04ba.html).
+
+### Your Rights and Contacting Us
+
+To the extent allowed by applicable law, you have the right to request details of the personal data we have about you, update inaccurate information, request your personal data be deleted, right to restrict processing of your personal data, right to data portability, and object to the collection or use of personal data we process based on our legitimate interests as a company. In some cases, you may be directed to make your request to the organization who licensed our software or services. If you wish to exercise these rights, please contact us by [submitting our request form](https://privacyportal-cdn.onetrust.com/dsarwebform/7f750270-e9ac-4ee8-a56b-703e5ca2b7f5/5ee56faf-afe2-4348-8720-32b47b2d04ba.html).
+
+For more information about your right of choice on how to control your personal information, see our [Privacy Notice Frequently Asked Questions](https://web.archive.org/en-us/company/about-us/privacy-notice-faq.html).
+
+If you live in the European Economic Area and are dissatisfied with our use of your personal data, you have the right to lodge a complaint with your local supervisory authority. You may find contact details on [ec.europa.eu](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
+
+### Contact Us
+
+We value your feedback. If there are any questions regarding this notice, or our collection and use of your data, you may [submit our request form](https://privacyportal-cdn.onetrust.com/dsarwebform/7f750270-e9ac-4ee8-a56b-703e5ca2b7f5/5ee56faf-afe2-4348-8720-32b47b2d04ba.html), contact us by email, or write to us at:
+
+**Global**  
+Cylance Inc.  
+Attn: Chief Privacy Officer  
+400 Spectrum Center Drive  
+Suite 900  
+Irvine, CA 92618  
 [privacy@cylance.com](mailto:privacy@cylance.com)
+
+**European Economic Area**  
+Cylance Ireland Limited  
+Attn: Data Protection Officer  
+Second Floor  
+89/90 South Mall  
+Cork City, Ireland  
+[dpo@cylance.com](mailto:dpo@cylance.com)
+
+**Asia-Pacific**  
+Cylance Japan K.K.  
+Shin-Marunouchi Building 10F  
+1-5-1 Marunouchi  
+Chiyoda, Tokyo  
+100-6510  
+Japan  
+[infojapan@cylance.com](mailto:infojapan@cylance.com)
+
+**Updates to our Privacy Notice**
+
+Each time you use Cylance website, products or services, the current version of this notice will apply. We reserve the right to change this notice at any time to reflect changes in the law, the Cylance products and services we provide, our business and technology, and our data collection and use practices.
+
+If we make any material changes, we will notify you using your email address on record or by placing a notice on the site prior to the change becoming effective.
+
+Your continued use of the Cylance products, services or website following the posting of changes to this notice will be deemed your acceptance those changes.
