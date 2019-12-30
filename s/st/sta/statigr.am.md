@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statigr.am privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626220006id_/https%3A//pro.iconosquare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statigr.am privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230200109id_/https%3A//pro.iconosquare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Iconosquare
 
@@ -61,11 +61,7 @@ IMPORTANT: NOTE TO USERS
 
 ANY NAVIGATION ON THE SITE AFTER THE PUBLICATION OF THE PRESENT PRIVACY POLICY IS ACCEPTABLE UNLESS RESERVED.
 
-If the user wishes to withdraw his consent to the processing of his personal data, it is sufficient for him to send a request on the following forms:
-
-\- To request a deletion of personal data: <https://pro.iconosquare.com/contact?rgpd=delete>;  
-\- To request the portability of personal data: <https://pro.iconosquare.com/contact?rgpd=export>;  
-\- For all other requests please send an email to the following address: [legal@iconosquare.com](mailto:legal@iconosquare.com). 
+If the user wishes to withdraw his consent to the processing of his personal data, request a deletion of personal data, request the portability of personal data and/or have any request related to our privacy policy; please send an email to the following address: [legal@iconosquare.com](mailto:legal@iconosquare.com). 
 
 ## 6\. Recipients of the collect
 
@@ -132,7 +128,13 @@ Select the preferred level using the slider.
 
 Users are informed that it is possible that, after blocked cookies, certain pages of the Site will no longer be accessible. 
 
-## 10\. Users rights
+## 10\. APIs
+
+APIs are used by the Site, or third party service providers to the Site, to interact with other social media platforms.
+
+The Service uses YouTube API Services to access data of the Youtube channels you’ve given access to. You can access the Google Privacy Policy at <http://www.google.com/policies/privacy>.
+
+## 11\. Users rights
 
 In accordance with the Act no. 78-17 of 6 January 1978 on data processing, files and freedoms modified by the law 2004-801 of 6 August 2004, and the Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, users have:
 
@@ -143,7 +145,8 @@ In accordance with the Act no. 78-17 of 6 January 1978 on data processing, files
 \- A right to limit their personal data;  
 \- A portability right on their personal data.
 
-Users wishing to assert any of their rights may send their request by email at the following address: [legal@iconosquare.com](mailto:legal@iconosquare.com).
+Users wishing to assert any of their rights may send their request by email at the following address: [help@iconosquare.com](mailto:help@iconosquare.com).  
+For security reasons, if you're asking to delete your data, a confirmation email will be sent to the email associated with your Iconosquare account. Please reply to this mail to confirm the deletion process.
 
 Upon exercise of any of these rights, users must send to ICONOSQUARE all elements necessary to their identification: name, email, connection identifier and possibly mailing address. Furthermore, in accordance with the regulations in force, their application must be signed, accompanied by a copy of an identity card bearing their signature, and clarify in detail the right to object they wish to implement and the address to which they wish the answer.
 
@@ -151,8 +154,10 @@ ICONOSQUARE then agrees to answer within a maximum period of one (1) month follo
 
 If ICONOSQUARE does not any take action following a request, ICONOSQUARE will inform the claimant without delay and at the latest within one (1) month of receipt of the request of the reasons for not taking action.
 
-ICONOSQUARE informs users of their right to lodge a complaint at the CNIL. 
+ICONOSQUARE informs users of their right to lodge a complaint at the CNIL.
 
-## 11\. Applicable law
+In addition to those procedures for deleting stored data, users can also revoke the Service’s access to their data via the Google security settings page at <https://security.google.com/settings/security/permissions>
+
+## 12\. Applicable law
 
 The Privacy Policy is governed by French law.
