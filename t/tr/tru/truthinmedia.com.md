@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthinmedia.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414090720id_/http%3A//truthinmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthinmedia.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230112828id_/https%3A//truthinmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Truth In Media
 
