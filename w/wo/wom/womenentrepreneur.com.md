@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenentrepreneur.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620144715id_/https%3A//www.entrepreneur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenentrepreneur.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230234906id_/https%3A//www.entrepreneur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Entrepreneur Media, Inc.
 
