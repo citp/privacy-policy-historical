@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmj.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630214440id_/https%3A//www.bmj.com/company/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmj.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230171236id_/https%3A//www.bmj.com/company/your-privacy) for the most accurate reproduction.*
 
 # BMJ privacy notice | BMJ
 
@@ -18,7 +18,7 @@ If you have any questions about these rights or how your personal data is used b
 
 How we use your personal data will depend upon how you use our services. We have included separate sections in section 1 of this Notice for distinct products and services we offer to help you identify how this Notice is relevant to you. 
 
-Last updated 8 April 2019  | [Archived versions](https://www.bmj.com/company/wp-content/uploads/2019/04/Archived-version.-PrivacyNotice.-080419vs.240518.pdf)
+Last updated 8 April 2019  | [Archived versions](https://www.bmj.com/company/your-privacy-2/privacy-policy-archive/)
 
 **This Notice has the following  parts:**
 
@@ -129,7 +129,7 @@ We use personal characteristics such as age, gender, address, role, your express
 BMJ also uses a range of advertising technologies like pixels, ad tags, cookies and mobile identifiers as well as specific  
 services used by some websites and social media networks, such as Facebook, to present BMJ adverts to you when you are on other websites and apps. These adverts will be based on information we hold about you about your previous use of BMJ sites (for example, your BMJ search history, the content you accessed and the adverts you clicked on).
 
-We participate in the DMD Healthcare Communication NetworkTM (the “Network”), and as such have implemented various technologies that, where you are a verified medical professional in the USA and have opted in to the Network, will identify you when you access our websites. These technologies are managed by DMD Marketing Corp (DMD), and may involve the collection, receipt, and sharing of information with DMD, its clients and other Network members about your use of our websites. These technologies also allow personalised adverts to be displayed on our websites about medical products relevant to your profession. If you would like to understand further about how our participation in the Network affects your privacy, please click here: [https://usersupport.dmdconnects.com/PrivacyPolicy.htm](https://web.archive.org/web/20190630214440id_/https://www.bmj.com/company/your-privacy/usersupport.dmdconnects.com/PrivacyPolicy.htm "user support")
+We participate in the DMD Healthcare Communication NetworkTM (the “Network”), and as such have implemented various technologies that, where you are a verified medical professional in the USA and have opted in to the Network, will identify you when you access our websites. These technologies are managed by DMD Marketing Corp (DMD), and may involve the collection, receipt, and sharing of information with DMD, its clients and other Network members about your use of our websites. These technologies also allow personalised adverts to be displayed on our websites about medical products relevant to your profession. If you would like to understand further about how our participation in the Network affects your privacy, please click here: [https://usersupport.dmdconnects.com/PrivacyPolicy.htm](https://web.archive.org/web/20191230171236id_/https://www.bmj.com/company/your-privacy/usersupport.dmdconnects.com/PrivacyPolicy.htm "user support")
 
 BMJ will, in limited circumstances, disclose personal data to third parties, or allow personal data to be stored or handled, in countries outside the European Economic Area. In these circumstances, your personal data will only be transferred on one of the following bases:
 
