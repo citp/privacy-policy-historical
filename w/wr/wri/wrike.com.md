@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrike.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624051336id_/https%3A//www.wrike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrike.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230205828id_/https%3A//www.wrike.com/privacy) for the most accurate reproduction.*
 
 # Wrike Privacy Policy
 
@@ -11,7 +11,7 @@ This is the Privacy Policy for Wrike and its Affiliates.
   * “ **Customer** ” means the entity that has contracted with Wrike to receive a free, trial, or paid Platform Plan or other Service Offerings. For example: When a business purchases a Platform Plan and sets up accounts under that Platform Plan for employees, the business is the Customer, and each individual using the Platform under the Plan is a User. If a one-person business signs up for its own free Platform Plan, that person is both the Customer and the User.  If that person invites others to set up accounts under that Plan, those other people will be Users as well.
   * “ **GDPR** ” means the EU General Data Protection Regulation.
   * “ **Personal Data** ” means any information about an identified or identifiable individual, such as their name or contact information.
-  * **Platform** ” means the work management and collaboration platform on wrike.com and the Wrike [desktop and mobile apps](https://help.wrike.com/hc/en-us/categories/200942165-Apps).
+  * “ **Platform** ” means the work management and collaboration platform on wrike.com and the Wrike [desktop and mobile apps](https://help.wrike.com/hc/en-us/categories/200942165-Apps).
   * “ **Platform Plan** ” means a Customer’s subscription to the Platform
   * **“User”** means an individual who uses a Service Offering. Within the Platform, there are three types of Users: Regular Users, External Users, and Collaborators. Those User types are defined at that hyperlink. “Workspace” means the Platform instance to which Customer gains access when entering into a Platform Plan. The Workpace may contain one or more projects administered by Customer. “Wrike” means Wrike, Inc., whose contact information is at the end of this Privacy Policy.
   * **“Service Offerings”** means the Platform and Wrike’s related support and professional services.
