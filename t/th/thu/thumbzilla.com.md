@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thumbzilla.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414125806id_/https%3A//www.thumbzilla.com/information%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbzilla.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230113757id_/https%3A//www.thumbzilla.com/information%23privacy) for the most accurate reproduction.*
 
 # Site Information - FAQ, Privacy Policy, Advertising And More | Pornhub
 
@@ -20,9 +20,9 @@
 Categories
 
   *     * [All](https://web.archive.org/categories/all)
-    *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *   * More>
+    *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *   * More>
 
-    *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     * 
+    *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     * 
 
 
   * Search Thumbzilla
@@ -353,11 +353,9 @@ The headings in these Terms of Service are for convenience only and have no lega
 
 We may terminate these Terms of Service for any or no reason at any time by notifying you through a notice on the Website, by email, or by any other method of communication. Any such termination will be without prejudice to our rights, remedies, claims, or defenses hereunder. Upon termination of the Terms of Service, you will no longer have a right to access your account or your Content. We will not have any obligation to assist you in migrating your data or your Content and we may not keep any back up of any of your Content. We will not be not responsible for deleting your Content. Note that, even if your Content is deleted from our active servers, it may remain in our archives (but we have no obligation to archive or back-up your Content), and subject to the licenses set forth in these Terms of Service.
 
-**Privacy Policy**
+Last Modified: Jan 1, 2020
 
-**_Last Modified: May 21st, 2018_**
-
-**Introduction**
+## Introduction
 
 MG Freesite II Ltd (hereinafter “ **we** ”, “ **us** ” or “ **our** ”) operates the website [https://www.thumbzilla.com/](https://web.archive.org/) (hereinafter “ **Thumbzilla** ” or the “ **Website** ”) and is the controller of the information collected or provided via this Website.
 
@@ -374,14 +372,14 @@ We collect, process and retain personal data to the extent it is necessary to pr
 
 
 
-It does not apply to information collected by:
+It does not apply to information collected by:>
 
   * us offline or through any other means, including on any other website operated by us or any third party (including our affiliates and subsidiaries); or
   * any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements.
 
 
 
-**The Data We Collect About You**
+## The Data We Collect About You
 
 Personal data, or personal information, means any information about an individual from which that person can be identified by (“ **Personal Information** ”). It does not include data that has been anonymized or pseudonymized.
 
@@ -389,35 +387,30 @@ We may collect, use, store and transfer different kinds of personal data about y
 
 Persons who visit the Website without logging in or registering “ **unregistered users** ”
 
-·        **Technical Data** includes internet protocol (IP) address, which we pseudonymize (a technique that replaces or removes information in the dataset that identifies an individual), browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website.
+  * Technical Data includes internet protocol (IP) address, which we pseudonymize (a technique that replaces or removes information in the dataset that identifies an individual), browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website.
+  * User Submitted Data includes data collected at your direction for a specific function, for example a contest or survey.
+  * Usage Data includes aggregated information about how you use our Website, products and services.
 
-·        **User Submitted Data** includes data collected at your direction for a specific function, for example a contest or survey.
 
-·        **Usage Data** includes aggregated information about how you use our Website, products and services.
 
 Persons who choose to create an account “ **registered users** ”
 
-·        **Identity Data** includes, username or similar identifier, date of birth and gender.
+  * Identity Data includes, username or similar identifier, date of birth and gender.
+  * Contact Data includes email address.
+  * Financial Data in case of purchases includes payment card details.
+  * Transaction Data in case of purchases, it may include details about payments to and from you and other details of products and services you have purchased or received from us.
+  * Identity Data includes, username or similar identifier, date of birth and gender.
+  * User Submitted Data includes data collected at your direction for a specific function, for example your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
+  * Usage Data includes information about how you use our Website, products and services.
+  * Marketing and Communications Data includes your preferences in receiving marketing from us and our third parties and your communication preferences.
 
-·        **Contact Data** includes email address.
 
-·        **Financial Data** in case of purchases includes payment card details.
-
-·        **Transaction Data** in case of purchases, it may include details about payments to and from you and other details of products and services you have purchased or received from us.
-
-·        **Technical Data** includes pseudonymized internet protocol (IP) address, your login data, browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website.
-
-·        **User Submitted Data** includes data collected at your direction for a specific function, for example your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
-
-·        **Usage Data** includes information about how you use our Website, products and services.
-
-·        **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
 
 We may also collect, use and share your data to produce and share aggregated insights that do not identify you. Aggregated data may be derived from your personal data but is not considered personal data as this data does not directly or indirectly reveal your identity. For example, we may aggregate your usage data to calculate the percentage of users accessing a specific Website feature, to generate statistics about our users, to calculate the percentage of users accessing a specific Website feature, to calculate ad impressions served or clicked on, or to publish visitor demographics.
 
 We do not collect special categories of Personal Information about you (this includes details about your race or ethnicity, religious or philosophical beliefs, political opinions, trade union membership, information about your health and genetic and biometric data). However, particular preferences and sexual orientation depend on how you use our Website and services. The processing of such Sensitive Personal Information may be necessary to provide some of our service to you.
 
-**How is Your Personal Information Collected?**
+## How is Your Personal Information Collected?
 
 We use different methods to collect data from and about you including through:
 
@@ -426,11 +419,11 @@ We use different methods to collect data from and about you including through:
 
 
 
-**User Contributions**
+## User Contributions
 
 We may provide areas on our Website where you can post information about yourself and others and communicate with others, upload content (e.g., pictures, videos, audio files, etc.), and post comments or reviews of content found on the Website. Such postings are governed by our terms of use found at <https://www.thumbzilla.com/information#terms>. You should be aware that any Personal Information you submit, display, or publish in public areas of our website is considered publicly available and can be read, collected, used, and disclosed by others. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your Personal Information. To request removal of your personal information from our website, please refer to the section “your rights related to your personal information” in this policy. 
 
-**Information Collected Through Automatic Data Collection Technologies**
+## Information Collected Through Automatic Data Collection Technologies
 
 As you navigate through and interact with our Website, we use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information, search terms, and cookie information.
 
@@ -442,25 +435,23 @@ The technologies we use for this automatic data collection may include:
 
 We currently use the following types of cookies:
 
-    * _Cookies that are strictly necessary_ : These are cookies that are required for the operation of our Website. These include, for example, cookies that enable a user to log in to our Website and to check if a user is allowed access to a particular service or content.
-    * _Analytical cookies_ : These cookies allow us to recognize and count the number of users and to see how users use and explore our Website. These cookies help us to improve our Website, for example by ensuring that all users are able to find what they are looking for easily.
-    * _Functionality cookies_ : These cookies are not essential, but help us to personalize and enhance your online experience on our Website. This type of cookies allows us to recognize you when you return to our Website and to remember, for example, your choice of language.
-    * _Targeting cookies_ : These cookies record the visit of a user on our Website, the pages a user has visited and the links a user has followed in order to enable us to make our Website more relevant to the users' interests.
-    * We do not require that you accept cookies and you may withdraw your consent to our use of cookies at any time by adjusting your browser’s privacy settings. However, if you decline to accept cookies, some functionality on our Website may be disabled and you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. Cookies can be either session cookies or persistent cookies. A session cookie expires automatically when you close your browser. A persistent cookie will remain until it expires or you delete your cookies. Expiration dates are set in the cookies themselves; some may expire after a few minutes while others may expire after multiple year
-
-
+  * _Cookies that are strictly necessary_ >: These are cookies that are required for the operation of our Website. These include, for example, cookies that enable a user to log in to our Website and to check if a user is allowed access to a particular service or content.
+  * _Analytical cookies_ : These cookies allow us to recognize and count the number of users and to see how users use and explore our Website. These cookies help us to improve our Website, for example by ensuring that all users are able to find what they are looking for easily.
+  * _Functionality cookies_ : These cookies are not essential, but help us to personalize and enhance your online experience on our Website. This type of cookies allows us to recognize you when you return to our Website and to remember, for example, your choice of language.
+  * _Targeting cookies_ : These cookies record the visit of a user on our Website, the pages a user has visited and the links a user has followed in order to enable us to make our Website more relevant to the users' interests.
+  * We do not require that you accept cookies and you may withdraw your consent to our use of cookies at any time by adjusting your browser’s privacy settings. However, if you decline to accept cookies, some functionality on our Website may be disabled and you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. Cookies can be either session cookies or persistent cookies. A session cookie expires automatically when you close your browser. A persistent cookie will remain until it expires or you delete your cookies. Expiration dates are set in the cookies themselves; some may expire after a few minutes while others may expire after multiple year
   * **Web Beacons**. Pages of our Website and our e-mails may contain small electronic files known as web beacons (also known as clear gifs, pixel tags, single-pixel gifs and web bugs) that are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies.
   * **Analytics**. We use third party analytics and advertising tools and technologies, in particular Google Analytics and DoubleClick provided by Google, Inc., USA (“Google”). These tools and technologies collect and analyze certain types of information, including IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, media access control address (MAC Address), mobile unique device identifiers, and other similar information via the use of cookies. The information generated by Google Analytics and DoubleClick about your use of the Website (including your IP address) may be transmitted to and stored by Google on servers in the United States. Because we activated IP anonymization for Google Analytics and Double Click, Google will anonymize the last octet of a particular IP address. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity and managing advertising content. To learn how you can opt out from this information collection by Google see “ _Choices About How We Collect, Use and Disclose Your Personal Information_ ” below.
 
 
 
-**Third-party Use of Cookies and Other Tracking Technologies**
+## Third-party Use of Cookies and Other Tracking Technologies
 
 Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Website. Unless expressly stated otherwise, our website does not provide any Personal Information to these third parties, however they may collect information, including Personal Information, such as internet protocol (IP) address, browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website. They may use this information to provide you with interest-based advertising or other targeted content.
 
 We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “ _Choices About How We Collect, Use and Disclose Your Personal Information_ ”.
 
-**How We Use Your Personal Data**
+## How We Use Your Personal Data
 
 We will only use your personal data when the applicable local law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
@@ -473,7 +464,7 @@ We will only use your personal data when the applicable local law allows us to. 
 
 Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data.
 
-**Purposes for Which We Use Your Personal Information**
+## Purposes for Which We Use Your Personal Information
 
 In general, we use information that we collect about you or that you provide to us, including Personal Information and Sensitive Personal Information, for following purposes:
 
@@ -487,7 +478,7 @@ In general, we use information that we collect about you or that you provide to 
 
 
 
-**Disclosure of Your Personal Information**
+## Disclosure of Your Personal Information
 
 We do not disclose your Personal Information except in the limited circumstances described here.
 
@@ -501,17 +492,17 @@ We access, preserve and share your Personal Information with regulators, law enf
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. We also may share aggregated information with third parties for conducting general business analysis. This information does not contain any Personal Information and may be used to develop content and services that we hope you and other users will find of interest.
 
-**Financial Information**
+## Financial Information
 
 Financial information (including Personal Information) that you have provided to us will only be shared with our third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors who only use your financial information and Personal Information for that purpose. All financial data and related Personal Information will not be shared by us with third parties except with your authorization or when necessary to carry out all and any transactions requested by you with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party is subject to their terms and conditions.
 
-**Transfers of Your Personal Information to Other Countries**
+## Transfers of Your Personal Information to Other Countries
 
 Whenever in the course of sharing information we transfer Personal Information to countries outside of the European Economic Area and other regions with comprehensive data protection laws, we will ensure that the information is transferred in accordance with this privacy policy and as permitted by the applicable laws on data protection.
 
 By using the Website you consent to the transfer of information that we collect about you, including personal information, to any country in which we, members of our corporate group (that is, entities that control, are controlled by, or are under common control with us) or our service providers are located.
 
-**Retention of Personal Information**
+## Retention of Personal Information
 
 We will only retain your Personal Data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
@@ -525,13 +516,13 @@ If you have questions about our data retention practices, please send us an e-ma
 
 The period for which we keep your Personal Information that is necessary for compliance and legal enforcement purposes varies and depend on the nature of our legal obligations and claims in the individual case.
 
-**How We Protect the Security of Your Personal Information**
+## How We Protect the Security of Your Personal Information
 
 We take appropriate security measures (including physical, electronic and procedural measures) to safeguard your Personal Information from unauthorized access and disclosure. For example, only authorized employees are permitted to access Personal Information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your Personal Information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your Personal Information. Please be advised, however, that we cannot fully eliminate security risks associated with the storage and transmission of Personal Data.
 
 You are responsible for maintaining the secrecy of your unique password and account information at all times. We are not responsible for circumventions of any privacy settings or security measures contained on the Website..
 
-**Choices About How We Collect, Use and Disclose Your Personal Information**
+## Choices About How We Collect, Use and Disclose Your Personal Information
 
 We strive to provide you with choices regarding the Personal Information you provide to us.
 
@@ -543,7 +534,7 @@ We strive to provide you with choices regarding the Personal Information you pro
 
 
 
-**Your Rights Related to Your Personal Information**
+## Your Rights Related to Your Personal Information
 
 Subject to local law, you have certain rights regarding the Personal Information we collect, use or disclose and that is related to you, including the right
 
@@ -562,29 +553,45 @@ You may, at any time, send us an e-mail at [support@pornhub.com](mailto:support
 
 Note that some requests to delete certain Personal Information will require the deletion of your user account as the provision of user accounts are inextricable linked to the use of certain Personal Information ( _e.g._ , your e-mail address). Also note that it is possible that we require additional information from you in order to verify your authorization to make the request and to honor your request.
 
-**Changes to Our Privacy Policy**
+## California Consumer Privacy Act Notice
+
+As of January 1, 2020, the California Consumer Privacy Act of 2018 (" **CCPA** ") provides California residents (" **Consumer(s)** ") certain rights with respect to their personal information, as this term is defined under the CCPA. In addition to the rights we state under this policy and subject to the exceptions found under the CCPA, Consumers have the right to: 
+
+  * Opt-out of the sale of their personal information, should we sell their personal information;
+  * Be informed of certain information concerning our collection and use of their personal information;
+  * Request that we delete certain personal information we collected from them;
+  * Appoint an agent to exercise their rights provided for by the CCPA, provided that a duly executed notarized power of attorney is presented and provided that the agent has information deemed sufficient to allow us to verify the identity of the Consumer in question and to locate his/her information in our systems;
+  * Not be subjected to discrimination for the exercise of these rights. We will not deny California residents the use of our service, neither will we provide a different level or quality or services for exercising any of their CCPA rights, unless as permitted under the CCPA.
+
+
+
+This Website does not sell nor has it sold in the past 12 months personal information to third parties for monetary or other valuable considerations. We may however disclose certain personal information with third parties, service providers and entities within our corporate group in order to enable them to perform certain services on our behalf and namely to make the Website work properly. Regardless, we respect the California residents’ right to exclude personal information from such sharing arrangements and to thereby opt-out of any future sale of their personal information. 
+
+If the CCPA is applicable to you and you would like to record such preference, please click on the following link for ["Do Not Sell My Personal Information"](mailto:support@pornhub.com)
+
+## Changes to Our Privacy Policy
 
 We may modify or revise our privacy policy from time to time. Although we may attempt to notify you when major changes are made to this privacy policy, you are expected to periodically review the most up-to-date version found at <http://www.pornhub.com/information#privacy> so you are aware of any changes, as they are binding on you.
 
 If we change anything in our privacy policy, the date of change will be reflected in the “last modified date”. You agree that you will periodically review this privacy policy and refresh the page when doing so. You agree to note the date of the last revision to our privacy policy. If the “last modified” date is unchanged from the last time you reviewed our privacy policy, then it is unchanged. On the other hand, if the date has changed, then there have been changes, and you agree to re-review our privacy policy, and you agree to the new ones. By continuing to use the Website subsequent to us making available an amended version of our privacy policy in a way that you can easily take notice of it, you thereby consent to such amendment.
 
-**Enforcement; Cooperation**
+## Enforcement; Cooperation
 
 We regularly review our compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or our treatment of Personal Information by contacting us through this Website at [support@pornhub.com](mailto:support@pornhub.com). When we receive a formal written complaint, it is our policy to contact the complaining party regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the collection, use and disclosure of Personal Information that cannot be resolved by an individual and us.
 
-**No Rights of Third Parties**
+## No Rights of Third Parties
 
 This privacy policy does not create rights enforceable by third parties or require disclosure of any Personal Information relating to users of the Website.
 
-**Our Policy Towards Minors**
+## Our Policy Towards Minors
 
 Our Website is not directed to persons under the age of 18 or the applicable age of majority in the jurisdiction from which the Website is accessed and we do not knowingly collect Personal Information from minors. If you become aware that your child has provided us with Personal Information, please contact us at [support@pornhub.com](mailto:support@pornhub.com). If we become aware that a minor has provided us with Personal Information, we take steps to remove such information and terminate that person’s account.
 
-**No Error Free Performance**
+## No Error Free Performance
 
 We do not guarantee error-free performance under this privacy policy. We will use reasonable efforts to comply with this privacy policy and will take prompt corrective action when we learn of any failure to comply with our privacy policy. We shall not be liable for any incidental, consequential or punitive damages relating to this privacy policy.
 
-**Contact Information**
+## Contact Information
 
 If you have any questions about this privacy policy or our information-handling practices, please contact us at [support@pornhub.com](mailto:support@pornhub.com).
 
