@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourcareeverywhere.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303051051id_/https%3A//www.yourcareeverywhere.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcareeverywhere.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230012735id_/https%3A//www.yourcareeverywhere.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | YourCareEverywhere
 
