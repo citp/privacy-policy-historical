@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getafreelancer.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627014616id_/https%3A//www.freelancer.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getafreelancer.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230092652id_/https%3A//www.freelancer.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Freelancer
 
@@ -116,7 +116,7 @@ We use automated decision when helping matching users to jobs. The primary way t
 
 #### Our third party service providers
 
-The personal information of users may be held or processed on our behalf outside Australia, including 'in the cloud', by our third party service providers. Our third party service providers are bound by contract to only use your personal information on our behalf, under our instructions. 
+The personal information of users may be held, transmitted to or processed on our behalf outside Australia, including 'in the cloud', by our third party service providers. Our third party service providers are bound by contract to only use your personal information on our behalf, under our instructions. 
 
 Our third party service providers include: 
 
