@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialbox.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222127id_/https%3A//www.zoosk.com/privacy%3Ffrom%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbox.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230202414id_/https%3A//www.zoosk.com/privacy%3Ffrom%3Dfooter) for the most accurate reproduction.*
 
 # None
 
@@ -95,7 +95,7 @@ This Policy does not create rights enforceable by third parties or require discl
 
 * ### CONTACTING ZOOSK
 
-If you have questions about this Policy, please contact us at privacy@zoosk.com or by writing to us at: Zoosk, Inc., Attn: Privacy Matters, 555 Mission Street, 3rd Floor, San Francisco, CA 94105.
+If you have questions about this Policy, please contact us at privacy@zoosk.com or by writing to us at: Zoosk Customer Care – Spark Networks Services, Attn: Privacy Matters, 3300 N. Ashton Blvd, Suite 240, Lehi, UT 84043.
 
 * ### LAST REVISION DATE AND EFFECTIVE DATE
 
