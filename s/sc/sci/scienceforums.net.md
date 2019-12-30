@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scienceforums.net privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509090907id_/https%3A//www.scienceforums.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scienceforums.net privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231000050id_/https%3A//www.scienceforums.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Science Forums
 
@@ -15,10 +15,10 @@ ScienceForums.net staff will neither release email or IP addresses, nor read or 
 
 ScienceForums.net will never release or sell private information to other companies or organizations except in the above cases.
 
- **Our Commitment to Children's Privacy**  
+**Our Commitment to Children's Privacy**  
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
- **Cookies**  
+**Cookies**  
 This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
 
 ### Third Parties
