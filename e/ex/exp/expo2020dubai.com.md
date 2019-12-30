@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the expo2020dubai.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430220509id_/https%3A//www.expo2020dubai.com/%7E/link.aspx%3F_id%3D0F8A6EB229F64A9F8173E07A4842B5F3%26_z%3Dz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expo2020dubai.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230183713id_/https%3A//www.expo2020dubai.com/%7E/link.aspx%3F_id%3D0F8A6EB229F64A9F8173E07A4842B5F3%26_z%3Dz) for the most accurate reproduction.*
 
-# Privacy and Cookies
+# Privacy and Cookies | Expo 2020 Dubai
 
 ## Version 1.0 | 01 April 2019
 
@@ -282,8 +282,20 @@
 
 > **14.1** If you are resident in the UAE and under 21 or, alternatively, are resident elsewhere and are not yet the relevant age of majority in the jurisdiction in which you reside, we are not permitted to contract with you directly. By agreeing to this Privacy Policy, you acknowledge and agree that your guardian has read and consented to its terms on your behalf. If we seek your consent to process your Personal Data for a specific purpose in accordance with this Privacy Policy, such consent must be granted on your behalf by your guardian.
 
-**15\. CONTACT US**
+**15\. FILMING, PHOTOGRAPHY AND RECORDINGS**
 
-> **15.1** If you have any questions, concerns or complaints regarding our compliance with this Privacy Policy and the data protection regulations, or if you wish to exercise your rights, please contact us. We will investigate and will attempt to resolve complaints and disputes and make every reasonable effort to honour your wish to exercise your rights as quickly as possible, in any event, within the timescales provided by applicable data protection laws. 
+> **15.1** The Event Attendee consents to be photographed, filmed or taped by Expo 2020, its affiliates, the BIE, any media appointed by Expo 2020 or the Exposition Staff during their visit to the Exposition site. 
 > 
-> **15.2** In some countries, you may have a right to lodge a complaint with your local data protection supervisory authority. We ask that you please attempt to resolve any issues with us before referring to your local supervisory authority. 
+> **15.2** The Event Attendee consents that Expo 2020, its affiliates, its Commercial Partners, the BIE and any media appointed by Expo 2020 shall have the right to broadcast, publish, license and use in any manner whatsoever any live or recorded audio, video, photographs, recordings or any publication or reproduction of the Exposition and associated events which contains the Event Attendee’s image, likeness, actions and statements made of, or at, the Exposition or associated events in any medium or context for any purpose globally without any remuneration or other form of consideration in perpetuity. Expo 2020 and any third parties and anyone acquiring from Expo 2020 the right to use such material are not liable to the Event Attendee in any way for its use.
+> 
+> **15.3** Images, video and sound recordings of the Exposition or associated events taken by the Event Attendee with a media capture device such as a mobile phone, tablet, photo camera, video camera, audio equipment or device hereafter existing, cannot be used for any purpose other than for private and domestic purposes. The Event Attendee may not sell, license, broadcast, publish, or otherwise commercially exploit such material including on social networking website and applications as well as the internet more generally or make it available to third parties for commercial purposes. 
+> 
+> **15.4** Please be advised that there are certain areas within the Exposition Site including within the Venues that photo, video and/or audio recording is prohibited for security reasons, for example, the security screening area, the restroom facilities and restricted access areas, certain performances etc.
+> 
+> **15.5** Please be advised that taking photos or shooting videos of other persons in the United Arab Emirates without their consent may be considered an invasion of their privacy and may lead to prosecution. Expo 2020 hereby notifies all Event Attendees that not all visitors to the Exposition Site and Venues, including Exposition Staff, wish to be photographed, videotaped, recorded or bothered in any manner and any liability incurred for doing so is the Event Attendee’s own.
+
+**16\. CONTACT US**
+
+> **16.1** If you have any questions, concerns or complaints regarding our compliance with this Privacy Policy and the data protection regulations, or if you wish to exercise your rights, please contact us. We will investigate and will attempt to resolve complaints and disputes and make every reasonable effort to honour your wish to exercise your rights as quickly as possible, in any event, within the timescales provided by applicable data protection laws. 
+> 
+> **16.2** In some countries, you may have a right to lodge a complaint with your local data protection supervisory authority. We ask that you please attempt to resolve any issues with us before referring to your local supervisory authority. 
