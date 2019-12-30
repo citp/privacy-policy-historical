@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myfreeforum.org privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624221227id_/https%3A//www.tapatalk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreeforum.org privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230235941id_/https%3A//www.tapatalk.com/privacy_policy) for the most accurate reproduction.*
 
 # Tapatalk - Privacy Policy
 
 TAPATALK PRIVACY POLICY
 
-Last Updated:  April 24, 2019
+Last Updated:  August 28, 2019
 
 Tapatalk is designed to keep you connected to the forums/sites you love. And designed to protect your privacy.  We believe privacy is a right, and you have a right to keep it private. Our goal is to be transparent about how we collect and use information about you, to keep such information secure, and to provide you with meaningful choices.  
 
@@ -191,9 +191,6 @@ We share the information collected as follows:
 
 
   * In addition, we or our data partner(s) may collect and store a unique identifier matched to your mobile device, in order to deliver customized ads or content while you use the Service or other websites or applications, or to seek to identify you in a unique manner across other devices or browsers.  In order to customize these ads or content, we or our data partner(s) may connect de-identified demographic or other data about you (received from third parties) either to data you voluntarily submitted to us (such as your email address), or to data automatically collected from you (such as your device identifier or IP address).  However, we will only share your email address with our data partners in hashed, non-human readable form.
-
-
-  * We may collect and share precise location information, including the presence of connected devices via bluetooth, through methods such as mobile “SDKs” by means of our partnership with [Cuebiq](http://privacy.cuebiq.com/). This information may be used by itself, aggregated, or combined with mobile device identifiers, and may be shared with third party companies, for purposes related to advertising, attribution (such as measuring ad performance), analytics, and research.  You can withdraw your consent to having such location data collected by changing the settings on your device (note that certain services may lose functionality as a result), or through other options described below. 
 
 
   * When you use our website, we may share information that we may collect from you, such as your email (in hashed, de-identified form), IP address or information about your browser or operating system, with our partner, LiveRamp Inc and its group companies (‘LiveRamp’). LiveRamp may drop a cookie on your browser and match your shared information to their on- and offline marketing databases and those of its advertising partners to create a link between your browser and information in those other databases. Similarly, when you use our mobile apps, we may also share hashed and de-identified email addresses, mobile device ID, location data, and advertising identifiers with LiveRamp, which uses that information to create a link between your mobile device and its databases. This link may be shared by our partners globally for the purpose of enabling interest-based content or advertising throughout your online experience (e.g. cross device, web, email and in app etc.) by third parties unaffiliated with our website. These third parties may in turn link further demographic or interest-based information to your browser. You have the right to opt-out of LiveRamp’s Cookie or Mobile Identifiers and can easily do so by clicking on this link: <https://liveramp.uk/opt_out/>.
