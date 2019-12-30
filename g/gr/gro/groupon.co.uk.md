@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the groupon.co.uk privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627005413id_/https%3A//www.groupon.co.uk/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.co.uk privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231003326id_/https%3A//www.groupon.co.uk/legal/privacypolicy) for the most accurate reproduction.*
 
 # GROUPON INTERNATIONAL LIMITED PRIVACY STATEMENT
 
 GROUPON INTERNATIONAL LIMITED PRIVACY STATEMENT
 
-Effective Date: 23 January 2019
+Effective Date: 3 October 2019
 
 This Privacy Statement explains how Groupon International Limited and our European Affiliates collect, control, process, and use information about you (which we call “personal data”). 
 
@@ -24,9 +24,9 @@ You understand that your continued use of the Site after we send a notice about 
 
 We will collect the following personal data when you interact with the Site:
 
-  * Authentication and identification information (e.g. your name, email address, and password). This information is necessary to set up and log you into your account. If you don’t provide it, we may not be able to provide our services to you;
+  * Authentication and identification information (e.g. your name, email address, and password). This information is necessary to set up and log you into your account, but you do have the option to make purchases without creating a password. If you don’t provide this, we may not be able to provide our full range of account services to you;
   * Basic personal details (e.g. your name, date of birth, and nationality);
-  * Contact details (e.g. your postal address, telephone number, and email address). We may need some of this information to deliver products to you, such as your postal address, and won’t be able to carry out these services if you don’t provide it;
+  * Contact details (e.g. your postal address, telephone number, and email address). We may need some of this information to deliver products to you, such as your postal address to deliver physical products and your email address to send you vouchers, and won’t be able to carry out these services if you don’t provide it;
   * Payment details (e.g. your credit card details or payment tokens from third party payment providers like PayPal). We use these to process your order, and won’t be able to take payment from you or give refunds if you don’t provide it; and
   * Information about your contacts with Groupon (e.g. call recordings, instant messages on our site, and user generated content).
 
@@ -37,7 +37,7 @@ Some information we collect is necessary for us to provide our services or meet 
 We will also automatically collect personal data when you interact with the Site through your computer, mobile device, or other device. This personal data includes the following:
 
   * Analytics data (e.g. information about app downloads, app and web page histories), which may include data collected from cookies and other types of device identifiers;
-  * Profile inputs (e.g. page and deal views on the site, click information and information about the website you clicked to our Site from). This may include data about your location. With respect to geolocation information collected from your mobile device, we will only collect this where you have provided consent; and
+  * Profile inputs (e.g. page and deal views on the site, purchase details, click information and information about the website you clicked to our Site from). This may include data about your location. With respect to geolocation information collected from your mobile device, we will only collect this where you have provided consent; and
   * Device details (e.g. MAC address, IP address, bluetooth data and advertising identifiers).
 
 
@@ -56,7 +56,7 @@ We will only receive data from our Business Partners where they are legally perm
 
 We will collect the personal data described above at various stages in your relationship with us when you:
 
-  * Register, subscribe, authorise the transfer of, or create an account with us;
+  * Register, subscribe, authorise the transfer of, or create an account with us. If you choose not to create a password for your account, we create an account and link your purchase details to your email address, which you can set a password for during each purchase;
   * Open or respond to emails or messages from us;
   * Provide information to enroll or participate in programs provided on behalf of, or together with Sellers and Business Partners, with your consent or as necessary to provide services you have requested;
   * Visit any page online that displays our ads or content;
@@ -99,7 +99,7 @@ In accordance with applicable law, you may (i) request access to any personal da
 
 We control and process the personal data you provide to us, which we collect from other sources, and which we generate to:
 
-  * Create your account when you sign up and log you in, which is necessary for us to provide our services to you in accordance with the [Terms of Use](https://www.groupon.co.uk/legal/termsofservice);
+  * Create your account when you sign up and log you in, which is necessary for us to provide our services to you in accordance with the [Terms of Use](https://www.groupon.co.uk/legal/termsofservice).  If you make purchases without creating a password, we link these purchases to your email address and create a secure account in our systems. If you create a password at a later date, you will be able to see the past purchases made with a particular email address;
   * Operate, maintain, and improve the Site by analyzing how you and our other customers use and interact with it. This is to meet our legitimate business interests in providing the Site and ensuring that it provides the best experience for our customers;
   * Validate, facilitate, and prevent fraudulent purchases. This may include processing orders for vouchers and other goods and services, payment verification, and verifying that vouchers redeemed by customers are valid. This is necessary to meet our contractual commitments to you set out in the [Terms of Use](https://www.groupon.co.uk/legal/termsofservice);
   * Carry-out marketing, which may involve:
