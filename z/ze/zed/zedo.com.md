@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zedo.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220459id_/https%3A//www.zedo.com/about-zedo/privacy-policy-highlights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zedo.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230222530id_/https%3A//www.zedo.com/about-zedo/privacy-policy-highlights) for the most accurate reproduction.*
 
 # Privacy Policy Highlights - ZEDO, Inc.
 
