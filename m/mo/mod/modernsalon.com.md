@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernsalon.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505064829id_/http%3A//www.bobitbusinessmedia.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernsalon.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230201014id_/https%3A//www.bobitbusinessmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Bobit Business Media | Bobit Business Media Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Bobit Business Media privacy policy for all publications, events, and digital properties
 
-Effective May 21, 2018
+Effective June 17, 2019
 
 Bobit Business Media (“BBM” or “we”) recognizes the importance of protecting the privacy of information provided to us. We provide this notice to ensure that your expectations and our practices are aligned and to make you aware of your choices with regard to our use and disclosure of the information you provide to us. We consider all subscribers, customers, members, web visitors, event/webinar/website registrants, conference attendees, and speakers part of the Bobit Business Media community. The following guidelines have been created to demonstrate our commitment to your privacy.
 
@@ -16,8 +16,8 @@ Privacy Manager
 Bobit Business Media  
 3520 Challenger Street  
 Torrance, CA 90503  
-Phone: (310) 533-2440  
-E-mail:  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#85d5f7ecf3e4e6fcc5c7eae7ecf1abe6eae8)
+Phone: (310) 533-2577  
+E-mail:  [privacy@bobit.com](mailto:privacy@bobit.com)
 
 ### The Information We Collect
 
