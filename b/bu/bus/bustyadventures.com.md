@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustyadventures.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624221654id_/https%3A//bangbros.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustyadventures.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231001240id_/https%3A//bangbros.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -83,8 +83,8 @@ We use third party services to assist with fraud prevention and enforcing protec
 
 For any questions about this policy or your data please contact our Data Privacy Officer as follows: 
 
-  * EU persons contact Sonesta Technologies, s.r.o. at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
-  * Non-EU persons please contact Sonesta Group, LLC at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * EU persons contact Sonesta Technologies, s.r.o. at euprivacy@bangbros.com
+  * Non-EU persons please contact Sonesta Group, LLC at privacy@bangbros.com
 
 
 
