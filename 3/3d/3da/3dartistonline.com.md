@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dartistonline.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629202408id_/http%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dartistonline.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230085247id_/http%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Future
 
