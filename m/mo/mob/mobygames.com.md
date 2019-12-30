@@ -1,87 +1,251 @@
-> *The following text is extracted and transformed from the mobygames.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622192354id_/https%3A//www.mobygames.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobygames.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230073726id_/https%3A//www.mobygames.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy was last revised on March 30th, 2014
+_Effective date: August 2, 2019_
 
-Recent updates to this Privacy Policy
+Blue Flame Labs, LLC doing business as MobyGames ("us", "we", “MobyGames”, or alternative first person reference) operates the https://www.mobygames.com website and associated social media, including but not limited to the official MobyGames Discord server (the "Website").
 
-MobyGames, a websites and online service operated by Blue Flame Labs ("Blue Flame Labs," "MobyGames," "we," or "us"), knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Blue Flame Labs when you use MobyGames.com and other websites and services operated by Blue Flame Labs in connection with the MobyGames (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. 
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This privacy policy applies to any MobyGames website, application, service, or tool (individually “Service” and collectively "Services") where this privacy policy is referenced, regardless of how you access or use them, including through mobile devices.
 
-**Information We Collect**
+We use your data to provide and improve the Services. This Privacy Policy is solely intended to inform you of our data collection practices and your rights to any of your data that we may collect. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from <https://www.mobygames.com/info/terms>.
 
-User-Provided Information: You provide us information about yourself, such as your name and e-mail address, if you register for a Member account with the Service. We may gather information about the files you download from and upload to the Service.
+## Definitions
 
-Cookies Information: When you visit the Service, we may send one or more cookies -- a small text file containing a string of alphanumeric characters -- to your computer that uniquely identifies your browser and lets MobyGames help you login faster and enhance your navigation through the site. A cookie may also convey anonymous information about how you browse the Service to us. A cookie does not collect personal information about you. MobyGames uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+### Personal Data
 
-Log File Information: Log file information is automatically reported by your browser each time you access a web page. When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+Personal Data means information relating to an identified or identifiable individual. An identifiable individual is one who can be identified, directly or indirectly, by reference to an identifier such as a name, a device identification number, location data, an online identifier, or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. 
 
-Clear Gifs Information: When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your MobyGames account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make the MobyGames better for our users.
+### Usage Data
 
- **How We Use Your Information**
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
+### Cookies
 
-By providing the MobyGames your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out or change your preferences in your Account Settings page. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails. If you correspond with us by email, we may retain the content of your email messages, your email address, and our responses.
+Cookies are small pieces of data stored on a User’s device.
 
-We use the information we gather about Users' download activity to analyze the popularity of particular files and genres, to enhance the end user experience, and to detect and protect the download services from abuse.
+### Data Controller and Data Protection Officer
 
-Any personal information or content that you voluntarily disclose for posting to the Service (including your User Content) becomes available to the public. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
+Data Controller means a person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal data are, or are to be, processed.
 
-MobyGames may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.
+For the purpose of this Privacy Policy, we are a Data Controller of your data.
 
-MobyGames reserves the right, but has no obligation, to monitor the User Content you post on the site. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or our Terms of Use Agreement, or to protect or defend our rights or property or those of any third party. MobyGames also reserves the right to remove information upon the request of any third party. We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with certain IP addresses; and (f) help you efficiently access your information after you sign in.
+Where we have a legal obligation to do so, we have appointed data protection officers (DPOs) to be responsible for our privacy program. You can contact our DPO via the Contact Us information detailed below in this privacy policy.
 
- **How We Share Your Information**
+### Data Processor (or Service Providers)
 
-Personally Identifiable Information: MobyGames will not rent or sell your personally identifiable information to others (except as part of a change in ownership as further described below). MobyGames may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of MobyGames (for instance, on servers or databases co-located with hosting providers).
+Data Processor (or Service Provider) means any person (other than an employee of the Data Controller) who processes the data on behalf of the Data Controller.
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
+We may use the services of various Service Providers in order to process your data more effectively.
 
-From time to time, we may run contests, special offers, or other events or activities ("Events") on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.
+### Data Subject
 
-Except as otherwise described in this Privacy Policy, Blue Flame Labs will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of MobyGames, our Users or others.
+Data Subject is any living individual who is the subject of Personal Data.
 
-Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain MobyGames services.
+### User
 
- **Agents and Contractors**
+The User is you! The individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](https://www.google.com/doubleclick/privacy/). Moby Games may allow third-party ad servers or ad networks to serve advertisements on MobyGames.com. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on MobyGames. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. MobyGames does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks MobyGames to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here for Google](https://www.google.com/privacy_ads.html) or [click here](https://www.networkadvertising.org/managing/opt_out.asp) for a number of advertisers including Google. The MobyGames Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
+## Information Collection And Use
 
- **Co-Sponsors and Promotional Partners**
+We collect different types of information for various purposes to provide and improve our Service to you.
 
-From time to time, we may run contests, special offers, or other events or activities ("events") on our Website. Information collected for these events may include personal information (e.g., name, mailing address, etc.) and may be collected by or shared with a third party sponsor, co-sponsor, or other reputable third party (e.g., promotional partner, retailer, or game or magazine publisher). If you provide information to such third parties, you give them permission to use it for the purpose of that event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these events at the time of the contest/event or when the information is collected.
+### Types of Data Collected
 
-In some instances, we may have an arrangement with a promotional partner or retailer, whereby they share with us customer information collected on their website. In the event that we receive such data and combine it with our customer records, the combined information will be treated in accordance with this Privacy Policy. Otherwise, all such information is subject to the privacy policy under which it was collected.
+### Personal Data
 
- **How We Protect Your Information**
+While using our Services, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you for customer support or for our e-mail update sign up ("Personal Data"). Personally identifiable information may include, but is not limited to: 
 
-MobyGames uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to MobyGames and you do so at your own risk. Once we receive your transmission of information, MobyGames makes commercially reasonable efforts to ensure the security of our systems, including the processing of billing information through a single socket layer gateway to our billing provider. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+  * Email address
+  * First name and last name
+  * A username you personally select
+  * Cookies and Usage Data
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from the MobyGames, at all times.
 
- **Compromise of Personal Information**
 
-In the event that personal information is compromised as a result of a breach of security, MobyGames will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+We may use your Personal Data to contact you with newsletters, updates, submission guidelines, marketing or promotional materials and other information that may be of interest to you. You may opt in to receiving any, or all, of these communications from us by following the subscribe link or instructions provided in any email we send.
 
- **Your Choices About Your Information**
+### Usage Data
 
-You may, of course, decline to submit personally identifiable information through the Service, in which case MobyGames may not be able to provide certain services to you. You may update or correct your account information at any time by logging in to your account. You can review and correct the information about you that Blue Flame Labs keeps on file by contacting us directly at [admin@mobygames.com](mailto:admin@mobygames.com).
+We, or third parties operating through our website (such as ad providers like Facebook and Google), may also collect information concerning your access and use of the Services ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
- **Children's Privacy**
+### Location Data
 
-Protecting the privacy of young children is especially important. For that reason, MobyGames does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on MobyGames. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [admin@mobygames.com](mailto:admin@mobygames.com).
+We may use and store information about your location if you give us permission to do so (“Location Data”). We use this data to provide features of our Service, to improve and customize our Service.
 
- **Links to Other Web Sites**
+You can enable or disable location services when you use our Service at any time, through your device settings.
 
-We are not responsible for the practices employed by websites linked to or from our website, nor the information or content contained therein. Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding
+### Tracking Cookies Data
 
- **Notification Procedures**
+We, or third parties acting on our or their own behalf via mobygames.com, use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our website, as determined by Blue Flame Labs in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
- **Changes to Our Privacy Policy**
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
+Examples of Cookies we use: 
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [admin@mobygames.com](mailto:admin@mobygames.com).
+  * Session Cookies. We use Session Cookies to operate our Service.
+  * Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
+  * Security Cookies. We use Security Cookies for security purposes.
+
+
+
+## Use of Data
+
+We use your personal information to fulfill a contract with you and provide you with our Services, to comply with our legal obligation, protect your vital interest, or as may be required for the public good. This includes: 
+
+  * To provide and maintain our Services
+  * To notify you about changes to our Services
+  * To allow you to participate in interactive features of our Services when you choose to do so
+  * To provide customer support
+  * To prevent, detect, mitigate, and investigate fraud, security breaches or other potentially prohibited or illegal activities
+
+
+
+We also use your personal information to pursue our legitimate interests where your rights and freedoms do not outweigh these interests. We have implemented controls to balance our interests with your rights. This includes to: 
+
+  * Receive and review submissions from Users for inclusion on the Website;
+Gather analysis or valuable information so that we can improve our Service through surveys and questionnaires; 
+  * monitor the usage of our Service;
+  * detect, prevent and address technical issues
+
+
+
+With your consent, we may use your personal information to: 
+
+  * provide you with news, special offers and general information about other goods, and services that we offer, unless you have opted not to receive such information; 
+  * Provide you with marketing from third parties; 
+
+
+
+You have the right to withdraw your consent at any time.
+
+When you submit game data or individual data through our Submissions page, you acknowledge that the information provided becomes the property of MobyGames for use and inclusion on the Website.
+
+## Retention of Data
+
+MobyGames will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+MobyGames will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Services, or we are legally or contractually obligated to retain this data for longer time periods.
+
+## Transfer Of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction. If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to the United States and process it there.
+
+MobyGames will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place, including the security of your data and other personal information. The transfer of such data is typically for the purpose of fulfilling our contract with you, as specified above. Therefore, any request to delete or modify such Personal Data may result in the termination or interruption of our Services with respect to your usage of such Services.
+
+## Disclosure Of Data
+
+### Disclosure for Law Enforcement
+
+Under certain circumstances, MobyGames may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+### Legal Requirements
+
+MobyGames may disclose your Personal Data in the good faith belief that such action is necessary to: 
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of MobyGames
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+### Change of Control
+
+If we are subject to a merger or acquisition with/by another company, we may share information with them in accordance with our privacy standards. Should such an event occur, we will require that the new combined entity follow this privacy policy with respect to your Personal Data. If we intend to handle your Personal Data for any purposes not covered in this privacy notice, you will receive prior notification of the processing of your Personal Data for the new purposes.
+
+## Security Of Data
+
+We protect your Personal Data using technical and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use may include firewalls and data encryption, physical access controls to our data centers, and information access authorization controls. The security of your Personal Data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## "Do Not Track" Signals
+
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## Your Rights
+
+MobyGames aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data. You may update, correct, or provide additional information to your Personal Data by resubmitting your information or contacting us directly. If you are correcting information provided to a third party please correct your information via the methods and direction provided by the third party.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us via any of the contact options provided at the end of this Privacy Policy.
+
+You have the right: 
+
+  * to know what personal information we maintain about you
+  * to receive a copy of your personal information in a structured, commonly used and machine-readable or commonly used electronic format on request
+  * to update and modify personal information is incorrect or incomplete
+  * to object to our processing of your personal information when collection is based on a legitimate interest
+  * to delete or restrict how we use your personal information, but this right is determined by applicable law and may impact your access to some of our Services
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+### Service Providers
+
+We may employ third party companies and individuals to facilitate our Services ("Service Providers"), to provide the Services on our behalf, to perform Service-related services or to assist us in analyzing how our Services are used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Advertising
+
+[Enthusiast Gaming](https://www.enthusiastgaming.com/)
+
+### Web Services, Payment Processing and Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+> **Google Analytics**  
+>  Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+> 
+> You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+> 
+> For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: http://www.google.com/intl/en/policies/privacy/ 
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us, including advertisements provided by our ad providers. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children's Privacy
+
+Our Services are intended for a general audience and are not intended for children. We do not knowingly collect personal information from users deemed to be children under their respective national laws. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## California Residents
+
+California Civil Code Section 1798.83 permits end users of MobyGames who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address: 
+
+Blue Flame Labs LLC  
+264 Arbor Valley Dr  
+San Jose, CA, 95119
+
+## California Do Not Track Disclosure
+
+Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. At this time, we do not respond to Do Not Track browser settings or signals. For information about Do Not Track, please visit: www.allaboutdnt.org.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us: 
+
+  * Reach our Data Protection Officer by email: moby@mobygames.com
+  * By visiting this page on our website: <https://www.mobygames.com/info/feedback>
+  * Or by mail at:
+
+
+
+> Blue Flame Labs LLC  
+>  264 Arbor Valley Dr  
+>  San Jose, CA, 95119 
