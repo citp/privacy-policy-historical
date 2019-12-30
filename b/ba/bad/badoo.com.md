@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badoo.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630213128id_/https%3A//badoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badoo.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230222947id_/https%3A//badoo.com/privacy) for the most accurate reproduction.*
 
 # Badoo's Privacy Policy
 
@@ -16,9 +16,13 @@ To join the Badoo network you will have to complete our online registration form
 
 Please be careful about posting sensitive details about yourself on your Profile such as your religious denomination and health details. While you may voluntarily provide this information to us when you create your Profile, including your sexual preferences and ethnic background, there is no requirement to do so. Please remember that photographs or any video clips that you post on Badoo may reveal these kinds of sensitive personal data. Where you do upload and choose to tell us sensitive data about yourself, you are explicitly consenting to our processing your information and making this public to other users.
 
-For safety and security and to ensure you have the best possible user experience, we require users to verify their accounts and might ask for your phone number. We want to make sure you are not a robot! And we also want to avoid fake Badoo accounts being created which can be used for malicious activities and cyber crime – they threaten the Badoo network and spoil things for everyone. We use a third party provider for account verification who will keep your phone number for up to 90 days for fraud identification purposes across a range of online platforms and services like Badoo’s. We collect and use your phone number on the basis of our legitimate interests identified above and for the prevention of fraud.
+For safety and security and to ensure you have the best possible user experience, we require users to verify their accounts and might ask for your phone number. We want to make sure you are not a robot! And we also want to avoid fake Badoo accounts being created which can be used for malicious activities and cyber crime – they threaten the Badoo network and spoil things for everyone. We use a third party provider for account verification who will keep your phone number for up to 90 days for fraud identification purposes. We collect and use your phone number on the basis of our legitimate interests identified above and for the prevention of fraud.
 
 To prevent abuse of the app/site, Badoo uses automated decisions to block accounts as part of its anti-spam procedures. In order to do this, our systems check accounts and messages for content that indicates breaches of our Terms and Conditions of Use. If an account or message meets certain criteria that demonstrate that the Terms and Conditions of Use are likely to have been breached, the relevant account will automatically be blocked. All users of accounts that have been blocked will be notified that their account has been blocked and affected users can contact Badoo to contest the decision.
+
+Badoo also uses automated decisions to prevent fraudulent payment transactions being processed as part of its anti-fraud procedures. In order to do this, our systems check payment transactions for behaviour that indicates breaches of our Terms and Conditions of Use. If a transaction meets certain criteria that demonstrate that the Terms and Conditions of Use are likely to have been breached and the transaction is likely to be fraudulent, the relevant transaction may automatically be blocked. Where a transaction is blocked, the user will be notified that their transaction cannot be processed and affected users can contact Badoo to contest the decision.
+
+Please note that if your account is blocked, any account(s) that you have on our other group platforms/applications may also be blocked as part of our anti-spam and anti-fraud procedures.
 
 If you decide to purchase any of our premium services, we will process your payment information and retain this securely for the prevention of fraud and for audit/tax purposes. Under data protection law, it is necessary for us to collect and process this payment data to enable us to perform our contract with you and our ongoing retention of this data is justified by our legitimate interests set out above.
 
@@ -32,7 +36,7 @@ Badoo offers you the opportunity to stay in touch with the friends and contacts 
 
 When you use your mobile or the desktop application, we will collect information about WiFi access points as well as other location information about your longitude and latitude. That information helps us identify your physical location so that it can be displayed and shared with other members choosing to view “nearby” posts.
 
-If you have enabled location services, but wish to turn it off, you can do so by the following methods:
+If you have enabled location services, but wish to turn them off, you can do so by the following methods:
 
   1. iPhone app — settings, privacy, location services, Badoo
   2. Android — settings, location, Badoo, permissions, location
@@ -53,28 +57,32 @@ To provide you with the Badoo social networking service | Name, email address, d
 To facilitate networking opportunities on the Badoo site | Optional information that you choose to provide in your profile, which may include information about your sexual preferences, religion, ethnic background, photos etc. | Consent  
 To verify your identity and prevent fraud and to ensure the safety and security of users | Phone number | Legitimate interests – it is in our legitimate interests to ensure that accounts are not set up fraudulently and to safeguard users of the site  
 To take payment for premium services | Payment card details | Contractual necessity and legitimate interests – we have a legitimate interest in receiving payment for our premium services  
-To serve targeted advertisements to users of the site | Demographic and location information | Legitimate interests – it is in our legitimate interests to target advertisements so that users see relevant advertisements and to allow us to generate income from advertising revenue  
-To send you marketing information about our offers and services | Email address and cell phone number | Legitimate interests – it is in our legitimate interests to promote our products and services  
-To enable users to create their Badoo profile and log in to the app via Facebook | Data from Facebook, including email address, name and profile picture, date of birth, friends who use the app, pages liked, location and photos | Legitimate interests – it is in our legitimate interests to promote our products and services  
-To show “nearby” location information to you and other users of the site | Wifi access points and location data when you use the mobile app | Consent  
+To serve targeted advertisements to users of the site/app | Demographic and location information | Legitimate interests – it is in our legitimate interests to target advertisements so that users see relevant advertisements and to allow us to generate income from advertising revenue  
+To send you marketing information about our offers and services | Email address and mobile phone number | Legitimate interests – it is in our legitimate interests to promote our products and services  
+To contact you in order to run surveys for research purposes and to obtain feedback | Email address and mobile phone number | Legitimate interests – it is in our legitimate interests to carry out research so that we can further develop the app and improve the service  
+To enable users to create their Badoo profile and log into the app via Facebook | Data from Facebook, including email address, name and profile picture, date of birth, friends who use the app, pages liked, location and photos | Legitimate interests – it is in our legitimate interests to promote our products and services  
+To show “nearby” location information to you and other users of the site/app | Wifi access points and location data when you use the mobile app | Legitimate interests – it is in our legitimate interests to provide this functionality as part of the services  
 To serve advertisements through the Badoo mobile app | Device ID | Legitimate interests – it is in our legitimate interests and the interests of third party advertisers to deliver advertisements to you to promote their products  
 To provide the lookalikes function | Photos and faceprint | Legitimate interests – it is in our legitimate interests to provide this functionality  
-To carry out analysis to help us improve the app | Log and usage data, including IP address, browser type, referring domain, pages accessed, mobile carrier and search terms | Legitimate interests – it is in our interests to analyze the way in which users are accessing and using our services so that we can further develop the app and improve the service  
+To carry out analysis to help us improve the app | Log and usage data, including IP address, browser type, referring domain, pages accessed, mobile carrier and search terms | Legitimate interests – it is in our interests to analyse the way in which users are accessing and using our services so that we can further develop the app and improve the service  
 To respond to correspondence and queries that you submit to us | Email address and IP address | Legitimate interests – it is in our legitimate interests to respond to your queries to ensure that we provide a good service to users and troubleshoot problems  
-To block accounts as part of our anti-spam procedures | Email address, phone number, IP address and IP session information, social network ID, username, faceprint, user agent string | Legitimate interests – it is in our legitimate interests to prevent unauthorized behavior and to maintain the safety and security of our services  
+To block accounts as part of our anti-spam procedures | Email address, phone number, IP address and IP session information, social network ID, username, faceprint, user agent string | Legitimate interests – it is in our legitimate interests to prevent unauthorised behaviour and to maintain the safety and security of our services  
+To block payment transactions as part of our anti-fraud procedures | Name, IP address, email address, mobile number, cardholder name, payments received, type of payment, user ID, country | Legitimate interests – it is in our legitimate interests to prevent fraudulent transactions and to maintain the security of our services  
   
 ## How long will Badoo keep my data?
 
 We keep your personal information only as long as we need it for legitimate business purposes (as set out above) and as permitted by applicable law.
 
-In practice, we delete or anonymize your information upon deletion of your account (following the safety retention window), unless:
+In practice, we delete or anonymise your information upon deletion of your account (following the safety retention window), unless:
 
   1. we must keep it to comply with applicable law (for instance, some “traffic data” is kept for one year to comply with statutory data retention obligations);
   2. we must keep it to evidence our compliance with applicable law (for instance, records of consents to our Terms, Privacy Policy and other similar consents are kept for five years);
   3. there is an outstanding issue, claim or dispute requiring us to keep the relevant information until it is resolved; or
-  4. the information must be kept for our legitimate business interests, such as fraud prevention and enhancing users' safety and security. For example, information may need to be kept to prevent a user who was banned for unsafe behavior or security incidents from opening a new account.
+  4. the information must be kept for our legitimate business interests, such as fraud prevention and enhancing users' safety and security. For example, information may need to be kept to prevent a user who was banned for unsafe behaviour or security incidents from opening a new account.
 
 
+
+Where Badoo uses machine learning, for example, to help us detect and prevent fraudulent card transactions, and to detect and prevent spam communications on the App (as explained above), we may need to keep personal information for a longer period than the retention periods explained above, to enable the machine learning to work properly. Where this is the case, we always seek to minimise the amount of personal information that is used and we ensure that it is ring-fenced and kept securely from other user personal information. We regularly review the period for which personal information is required for machine learning purposes and delete any identifiable information when it is no longer required.
 
 ## What information does Badoo collect about me if I’m under 18?
 
@@ -84,7 +92,7 @@ Badoo does not knowingly collect any information about or market to children, mi
 
 You can choose to invite your friends to join Badoo to make sure that they also get the benefits of meeting new people. To make it easier to search and find friends and acquaintances on Badoo, users may search for other members by email address. If you want to invite your friends and contacts to Badoo, we will send an email invitation from Badoo in your name or you can send an SMS (if you use our Android or iPhone App) to your friends and contacts encouraging them to sign up to Badoo. If any of the individuals you have invited do not register within a few days, Badoo may occasionally send reminder emails on your behalf to those individuals. You can choose to invite all your friends or only a select few by simply unticking the names of those friends you do not wish to invite, but please remember you must not invite any children to join. You are responsible for ensuring that your friend has agreed to receiving a Badoo invite.
 
-When you import your contacts, we store their name and email address or their cell phone number so that we can automatically connect you and your friend. Badoo does not sell these email addresses or cell phone numbers or use them to send any other communication besides email invitations. The friend may contact Badoo to request the removal of their information from our database by visiting our [Feedback Page](http://badoo.com/feedback). Any such request will only apply to addresses or cell phone numbers we have at the time of the request and not to any addresses or cell phone numbers that the member/user provides to us later.
+When you import your contacts, we store their name and email address or their mobile number so that we can automatically connect you and your friend. Badoo does not sell these email addresses or mobile numbers or use them to send any other communication besides email invitations. The friend may contact Badoo to request the removal of their information from our database by visiting our [Feedback Page](http://badoo.com/feedback). Any such request will only apply to addresses or mobile numbers we have at the time of the request and not to any addresses or mobile numbers that the member/user provides to us later.
 
 ## Who does Badoo share information with?
 
@@ -103,13 +111,15 @@ We share your data with the following categories of third-parties:
 
 We ensure these parties must adhere to strict data protection and confidentiality provisions that are consistent with this Policy. Measures are taken to ensure that the data shared is non-attributable to the greatest extent possible.
 
-In the event that Badoo or any of its affiliates undergoes a business transition or change of ownership, such as a merger, acquisition by another company, re-organization, or sale of all or a portion of its assets, or in the event of insolvency or administration, we may be required to disclose your personal data.
+In the event that Badoo or any of its affiliates undergoes a business transition or change of ownership, such as a merger, acquisition by another company, re-organisation, or sale of all or a portion of its assets, or in the event of insolvency or administration, we may be required to disclose your personal data.
+
+Your data may be shared with other Badoo group companies, for example, to block accounts and suspected fraudulent payment transactions as part of our anti-spam and anti-fraud procedures.
 
 ## How does lookalikes work?
 
 Lookalikes is one feature of the site which is primarily designed to allow you to find people who look similar to celebrities, friends or even you! The feature will return photos of people who look like the person you searched for and who are existing members of Badoo. After using the feature you will be invited to create a Badoo account so that you can contact these “lookalikes” and possibly meet (only if they agree of course!).
 
-We respect other people’s rights, and you should too. We recognize that as well as uploading a photo of yourself to find your lookalike, you may wish to upload a photo of someone else to find their lookalikes. If you do, then you should get their permission before you upload their photo. You are not permitted to upload photos of children.
+We respect other people’s rights, and you should too. We recognise that as well as uploading a photo of yourself to find your lookalike, you may wish to upload a photo of someone else to find their lookalikes. If you do, then you should get their permission before you upload their photo. You are not permitted to upload photos of children.
 
 Any photos that are uploaded for use in lookalikes will be stored on our servers until your account is deleted. If you wish for the photo to be deleted before then (e.g. you have been contacted by the person in the photo you uploaded seeking immediate removal of the photo), you may contact us via email at [lookalike@badoo.com](mailto:lookalike@badoo.com) to make your request. Please be aware that it may take up to 72 hours for us to process your request.
 
@@ -119,7 +129,7 @@ Under UK and EU law, you have the right to lodge a complaint with data protectio
 
 You have a number of rights under European Data Protection law if you are an EU citizen.
 
-  1. Right to be informed: what personal data an organization is processing and why (this notice).
+  1. Right to be informed: what personal data an organisation is processing and why (this notice).
   2. Right of access: you can request a copy of your data.
   3. Right of rectification: if the data held is inaccurate, you have the right to have it corrected.
   4. Right to erasure: you have the right to have your data deleted in certain circumstances.
@@ -136,7 +146,7 @@ If you want to exercise any of your rights listed above please visit our Feedbac
 
 Badoo has implemented appropriate security measures to protect and prevent the loss, misuse, and alteration of the information under our control, including your personal data. Our technical experts at Badoo work hard to ensure your secure use of our site.
 
-While we take reasonable precautions against possible security breaches of our website, member database and records, no website or internet transmission is completely secure and we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal data safe (including your password) and to log out of your account after use. If you lose your password or give it out, or another service provider that you use suffers a data breach and you have used the same credentials with that service provider as you have with Badoo, your personal data may be compromised. If that happens, please report it to Support via our Feedback page.
+While we take reasonable precautions against possible security breaches of our website, member database and records, no website or internet transmission is completely secure and we cannot guarantee that unauthorised access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal data safe (including your password) and to log out of your account after use. If you lose your password or give it out, or another service provider that you use suffers a data breach and you have used the same credentials with that service provider as you have with Badoo, your personal data may be compromised. If that happens, please report it to Support via our Feedback page.
 
 ## Where is my personal data kept?
 
@@ -156,9 +166,9 @@ We use your personal data to resolve disputes, troubleshoot problems and enforce
 
 ### What are ‘cookies’ and what ‘cookies’ does Badoo use?
 
-We collect information by placing cookies on your computer or mobile device. A cookie is a piece of text stored on your computer or mobile device by your web browser. They are basically a tool that stores information about website visits, recognizes you and your preferences each time you visit Badoo, and ensures site functionality and enables us to provide the services our members request.
+We collect information by placing cookies on your computer or mobile. A cookie is a piece of text stored on your computer or mobile by your web browser. They are basically a tool that stores information about website visits, recognises you and your preferences each time you visit Badoo, and ensures site functionality and enables us to provide the services our members request.
 
-When you visit the publicly available sections of Badoo, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known as local storage devices) on members’ computers, so that Badoo remembers them and makes their login experience faster and easier. We may use persistent tracking cookies on your mobile device, mainly for security protection purposes, such as to prevent phishers, scammers, unauthorized login attempts, and to help you access your hacked account. We do not use any information whilst you are logged off.
+When you visit the publicly available sections of Badoo, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known as local storage devices) on members’ computers, so that Badoo remembers them and makes their login experience faster and easier. We may use persistent tracking cookies on your mobile device, mainly for security protection purposes, such as to prevent phishers, scammers, unauthorised login attempts, and to help you access your hacked account. We do not use any information whilst you are logged off.
 
 You may set your browser and your mobile settings to block cookies and local storage devices, but if you do so, you may not be able to access the features that Badoo offers.
 
@@ -177,14 +187,14 @@ Badoo uses cookies and local storage devices so that we know who you are, what i
 Cookie Functions | Cookie Purposes  
 ---|---  
 Analytics and research | Badoo uses Google Analytics to collect information about how visitors use the Badoo site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. For more information about Google’s privacy policy, please visit <http://www.google.com/intl/en/policies/>  
-Authentication | These cookies help us to identify our members so that when you’re logged in, you can enjoy Badoo’s offerings, experiences and various features, such as uploading photographs, chatting and can localize your experience, such as when you’ve requested to view Badoo’s site in your local language or when you’ve asked Badoo to ‘remember me’. These cookies also help to remember who invited you to join Badoo.  
+Authentication | These cookies help us to identify our members so that when you’re logged in, you can enjoy Badoo’s offerings, experiences and various features, such as uploading photographs, chatting and can localise your experience, such as when you’ve requested to view Badoo’s site in your local language or when you’ve asked Badoo to ‘remember me’. These cookies also help to remember who invited you to join Badoo.  
 Security and site integrity | 
 
 We use cookies and other devices, such as CAPTCHAs, to help keep Badoo and our members safe and secure. These cookies do things like protect Badoo users from spam and fraud, by ensuring the safety of your personal data when you shop on Badoo for things like Badoo Premium.
 
-We may use persistent cookies, which will help us to ensure we have identified the same device is logging in to the correct account. These types of cookies also help with our anti-spam measures and may help us to prevent phishers, scammers, unauthorized login attempts to your account and accessing any hacked accounts.  
+We may use persistent cookies, which will help us to ensure we have identified the same device is logging in to the correct account. These types of cookies also help with our anti-spam measures and may help us to prevent phishers, scammers, unauthorised login attempts to your account and accessing any hacked accounts.  
   
-Site features and services | These cookies and local storage devices provide the functionality that our Badoo members enjoy, such as uploading photographs, chats, instant messaging, your account settings and your request to have Badoo as your homepage or your search preference. We also use cookies to help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between Badoo with your other favorite social networks. 
+Site features and services | These cookies and local storage devices provide the functionality that our Badoo members enjoy, such as uploading photographs, chats, instant messaging, your account settings and your request to have Badoo as your homepage or your search preference. We also use cookies to help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between Badoo with your other favourite social networks. 
 
 In some cases, the site feature you choose may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data and Badoo recommends that you read their privacy policies. Third parties who place cookies on your device when you use Badoo include, and we have included a link to their privacy policies:
 
@@ -205,4 +215,4 @@ Our use of cookies and local share devices, including the specific cookie names,
 
 
 
-This Privacy Policy was last updated on 14 May 2019.
+This Privacy Policy was last updated on 22 August 2019.
