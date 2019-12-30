@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customerhelpdesk.org privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608042723id_/https%3A//clickfunnels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerhelpdesk.org privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230171009id_/https%3A//clickfunnels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Notice - ClickFunnels
 
