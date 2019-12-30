@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gehealthcare.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324060624id_/https%3A//www.ge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gehealthcare.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230093637id_/https%3A//www.ge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GE.com
 
@@ -24,7 +24,9 @@ Click on one of the links below to jump to the listed section:
   * How We Protect Personal Information
   * Retention of Personal Information
   * Additional Information
-    * Notice to California Residents
+    * [Notice to California Residents](https://web.archive.org/privacy/california-notice)
+    * [Notice Regarding Joint Use of Personal Data Under the Personal Information Protection Act of Japan](https://web.archive.org/privacy/japan-notice)
+    * [Personal Data Processing Policy in Russia/ПОЛОЖЕНИЕ О ПОРЯДКЕ ОБРАБОТКИ ПЕРСОНАЛЬНЫХ ДАННЫХ](https://web.archive.org/privacy/russia-notice)
     * Children’s Personal Information
     * Changes to Our Privacy Policy
   * How To Contact Us
@@ -117,7 +119,7 @@ We do not sell or otherwise disclose personal information about you except as de
 
   * We may share personal information within the GE Group for the purposes described in this Privacy Policy.
   * We may share personal information with service providers we have retained to perform services on our behalf (such as payment processing, order fulfillment, customer support and data analytics). These service providers are contractually required to safeguard the information provided to them and are restricted from using or disclosing such information except as necessary to perform services on our behalf or to comply with legal requirements.
-  * We may share personal information with our joint marketing partners and other business partners for the purposes described in this Privacy Policy.
+  * We may share personal information with our joint marketing partners and other business partners for the purposes described in this Privacy Policy, or in the case of processing that is specific to a particular GE Business, as described in the Business privacy and/or information handling practices notice.
   * We may disclose personal information about you (1) if we are required or permitted to do so by applicable law or legal process (such as a court order or subpoena), (2) to law enforcement authorities or other government officials to comply with a legitimate legal request, (3) when we believe disclosure is necessary to prevent physical harm or financial loss, (4) to establish, exercise or defend our legal rights, (5) in connection with an investigation of suspected or actual fraud or illegal activity or (6) otherwise with your consent.
   * We reserve the right to transfer to relevant third-parties any information we have about you in the event of a potential or actual sale or transfer of all or a portion of our business or assets (including in the event of a merger, acquisition, joint venture, reorganization, divestiture, dissolution or liquidation) or other business combination. In such case, we will require the relevant third parties to provide comparable levels of protection as the GE Group provides with respect to the information we share.
 
@@ -145,11 +147,13 @@ We maintain administrative, technical and physical safeguards, consistent with l
 
 To the extent permitted by applicable law, we retain personal information we obtain about you as long as (1) it is needed for the purposes for which we obtained it, in accordance with the provisions of this Privacy Policy or (2) we have another lawful basis, stated in this Privacy Policy or at the point of collection, for retaining that information beyond the period for which it is necessary to serve the original purpose for obtaining the personal information.
 
-### **Additional Information**
+### **Additional Information & Jurisdiction Specific Notices**
 
-#### **Notice to California Residents**
+  * [Notice to California Residents](https://web.archive.org/privacy/california-notice)
+  * [Notice Regarding Joint Use of Personal Data Under the Personal Information Protection Act of Japan](https://web.archive.org/privacy/japan-notice)
+  * [Personal Data Processing Policy in Russia/ПОЛОЖЕНИЕ О ПОРЯДКЕ ОБРАБОТКИ ПЕРСОНАЛЬНЫХ ДАННЫХ](https://web.archive.org/privacy/russia-notice)
 
-Subject to certain limits under California law, California residents may ask us to provide them with (1) a list of certain categories of personal information we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year and (2) the identity of those third parties. To obtain this information, please send an email to [CARequest@ge.com](mailto:CARequest@ge.com) with "California Shine the Light Privacy Request" in the subject line and in the body of your message.
+
 
 #### **Children’s Personal Information**
 
@@ -166,7 +170,7 @@ If you have any questions or comments about this Privacy Policy or if you would 
   
 Attn: Chief Privacy Officer  
 General Electric Company  
-33-41 Farnsworth Street  
+5 Necco Street  
 Boston, MA 02210  
 United States
 
