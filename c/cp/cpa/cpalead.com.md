@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpalead.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215200id_/https%3A//www.cpalead.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpalead.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230210328id_/https%3A//www.cpalead.com/privacy.php) for the most accurate reproduction.*
 
 # {{title}}
 
