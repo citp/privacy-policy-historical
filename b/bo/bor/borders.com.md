@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the borders.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613112027id_/https%3A//www.barnesandnoble.com/h/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borders.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230131008id_/https%3A//www.barnesandnoble.com/h/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Introduction | Barnes & Noble®
+# Privacy Policy | Barnes & Noble®
 
 At Barnes & Noble we value all of our customers and understand that you care about the privacy and security of your personal information. The Privacy Principles set out below apply to Barnes & Noble's collection, storage, use and disclosure of personal information that may be collected by us when you interact with Barnes & Noble, such as when you visit our stores or websites, or use our devices or applications, participate in our Member program, or deal with customer service.
 
