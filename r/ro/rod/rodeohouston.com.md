@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rodeohouston.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015101858id_/https%3A//www.rodeohouston.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rodeohouston.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230181248id_/https%3A//www.rodeohouston.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
