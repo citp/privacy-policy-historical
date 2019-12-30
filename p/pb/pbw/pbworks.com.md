@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbworks.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627000450id_/http%3A//www.pbworks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbworks.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230080548id_/http%3A//pbworks.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
