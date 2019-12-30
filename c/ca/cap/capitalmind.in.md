@@ -1,19 +1,72 @@
-> *The following text is extracted and transformed from the capitalmind.in privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416161654id_/https%3A//capitalmind.in/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalmind.in privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230191021id_/https%3A//www.capitalmind.in/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Capitalmind
+# Privacy » Capitalmind - Better Investing
 
-Your privacy is important to us. It is **Wizemarkets Analytics Pvt Ltd’s** policy to respect your privacy regarding any information we may collect from you across our website, [http://capitalmind.in](https://capitalmind.in/), and other sites we own and operate.
+**SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?**
 
-We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
+When you sign up or purchase something from our site, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
 
-We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.
+When you browse our site, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
-We don’t share any personally identifying information publicly or with third-parties, except when required to by law.
+Email marketing: With your permission, we may send you emails about our store, new products and other updates. Our emails include an unsubscribe link powered/managed by SendGrid and Zoho.
 
-Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
+**SECTION 2 – CONSENT**
 
-You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
+How do you get my consent?
 
-Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, we imply that you consent to our collecting it and using it for that specific reason only.
 
-This policy is effective as of 01 January 2017.
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
+
+How do I withdraw my consent?
+
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at premium@capitalmind.in or mailing us at: 3rd Floor Prakash Arcade, #2323, 17th Cross, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102
+
+**SECTION 3 – DISCLOSURE**
+
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
+
+**SECTION 4 – PAYMENT**
+
+We primarily use Instamojo and/or Razorpay for processing payments. We do not store your card data on our servers but Razorpay and Zoho (used for membership management) may store a masked version of your credit card number. The data is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS) when processing payment. Your purchase transaction data is only used as long as is necessary to complete your purchase transaction.
+
+Our payment gateway adheres to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.  
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
+
+For more insight, you may also want to read terms and conditions of razorpay on https://razorpay.com
+
+**SECTION 5 – THIRD-PARTY SERVICES**
+
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
+
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
+
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
+
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
+
+Links: When you click on links on our site, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+
+**SECTION 6 – SECURITY**
+
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+
+**SECTION 7 – COOKIES**
+
+We use cookies to maintain session of your user. It is not used to personally identify you on other websites.
+
+**SECTION 8 – AGE OF CONSENT**
+
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+
+**SECTION 9 – CHANGES TO THIS PRIVACY POLICY**
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+
+**QUESTIONS AND CONTACT INFORMATION**
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at premium@capitalmind.in or by mail at 3rd Floor Prakash Arcade, #2323, 17th Cross, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102
