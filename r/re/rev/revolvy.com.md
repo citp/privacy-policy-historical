@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the revolvy.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628210155id_/https%3A//www.revolvy.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolvy.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230201044id_/https%3A//www.revolvy.com/main/privacy.php) for the most accurate reproduction.*
 
 # Revolvy Privacy Policy
 
-**March 7, 2019**
+**September 30, 2019**
 
 Thank you for using Revolvy ([https://www.revolvy.com](https://www.revolvy.com/))!
 
 Revolvy is owned by Revolvy LLC and we want you to know that we take your privacy seriously. The data controller can be reached at Revolvy LLC; Attn: Data Controller; 5400 Johnson Drive; Suite 120; Mission, KS 66205.
 
 This Privacy Policy ("Policy") describes the information that we gather on Revolvy, how we use and share such information, your options relating to the information and the steps we take to protect such information.
+
+Please note that Revolvy works with Google and uses YouTube API Services. See the Google Privacy Policy at http://www.google.com/policies/privacy.
 
 By visiting and using Revolvy, you accept the privacy practices described in this Policy. This Policy is incorporated into, and is subject to, the Revolvy Terms of Service.
 
@@ -49,7 +51,13 @@ To opt-out of being tracked by third party advertisers, click the links below:
 
 Google is one of the primary advertisers on Revolvy. As a third party vendor, Google uses cookies to serve ads on the site. Google's uses cookes to serve ads to our users based on their visit to Revolvy and other sites on the Internet. For more detailed information on how Google uses cookies in advertising and how you can manage these cookies in your web browser, please visit <https://policies.google.com/technologies/cookies>
 
+Relating to YouTube, Revolvy does not directly collect, store, share or use any user information other than to deliver videos in response to search requests by the user. Revolvy or YouTube may directly or via third parties serve advertisements to users along with video content.
+
 5\. Third-Party Service Providers. We may provide your personal information to third-party service providers who work on behalf of or with us to provide some of the services and features of Revolvy and to help us communicate with you. Examples of such services include MailChimp, a company that facilitates communication with our users via email. We do not maintain responsibility for the manner in which third parties use or further disclose personal information collected from you in accordance with this Policy, after we have disclosed such information to those third parties
+
+6\. Relating to YouTube, the API Client that we use on Revolvy stores, accesses or collects (or allows third parties to do so) information directly or indirectly on or from users’ devices, including by placing, accessing or recognizing cookies or similar technology on users' devices or browsers.
+
+7\. Revolvy has implemented a Google-provided reCAPTCHA form on our site. Please note that your use of reCAPTCHA is subject to the Google Privacy Policy (https://policies.google.com/privacy) and Terms of Use (https://policies.google.com/terms).
 
 ## III. Information Sharing
 
@@ -78,6 +86,12 @@ Additionally, on Revolvy you may 1) post comments to topics, 2) reply to other u
 4\. Email Preferences. When you receive promotional communications from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail you receive or by contacting us directly at [questions@revolvy.com](mailto:questions@revolvy.com).
 
 Despite your indicated email preferences, we may send you administrative emails regarding Revolvy, including, for example, administrative confirmations, and notices of updates to our Policy if we choose to provide such notices to you in this manner.
+
+5\. DoubleClick Dart Cookie. Google, as a third party vendor, uses cookies to serve ads on Revolvy. Google’s use of the DART cookie enables it to serve ads to users based on their visit to Revolvy and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/ads/preferences/>
+
+6\. Third Party Ad Networks. Users in the United States may opt out of many third-party ad networks. For example, you may go to the Digital Advertising Alliance (“DAA”) [Consumer Choice Page](http://www.aboutads.info/choices/) for information about opting out of interest-based advertising and their choices regarding having information used by [DAA companies](http://www.aboutads.info/participating/). You may also go to the Network Advertising Initiative (“NAI”) [Consumer Opt-Out Page](http://www.networkadvertising.org/choices/) for information about opting out of interest-based advertising and their choices regarding having information used by [NAI members](http://www.networkadvertising.org/participating-networks).
+
+Opting out from one or more companies listed on the DAA [Consumer Choice Page](http://www.aboutads.info/choices/) or the NAI [Consumer Opt-Out Page](http://www.networkadvertising.org/choices/) will opt you out from those companies’ delivery of interest-based content or ads to you, but it does not mean you will no longer receive any advertising through our sites or on other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., contextually based ads). Also, if your browsers are configured to reject cookies when you opt out on the DAA or NAI websites, your opt out may not be effective. Additional information is available on the DAA’s website at [www.aboutads.info](https://web.archive.org/web/20191230201044id_/https%3A//www.revolvy.com/main/www.aboutads.info) or the NAI’s website at [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 ## V. Mobile Privacy
 
