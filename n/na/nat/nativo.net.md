@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nativo.net privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110172108id_/https%3A//www.nativo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativo.net privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230214730id_/https%3A//www.nativo.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy — Nativo Native Platform
 
-Incoming, EU-wide data protection legislation known as the **“General Data Protection Regulation”** or **“GDPR”** (a copy of which is posted [here](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=en)), will have effect from May 25th, 2018. The Website Privacy Policy is intended to meet our duties of Transparency under the GDPR and all other applicable privacy laws.
+EU-wide data protection legislation known as the **“General Data Protection Regulation”** or **“GDPR”** (a copy of which is posted [here](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=en)), has effect from May 25th, 2018. California data protection legislation known as the “California Consumer Privacy Act of 2018” has effect from January 1, 2020. The Website Privacy Policy is intended to meet our duties of Transparency under the GDPR, the CCPA and all other applicable privacy laws.
 
 We will post any modifications or changes to this Website Privacy Policy on this page.
 
@@ -53,6 +53,10 @@ You can typically remove or reject cookies via your browser settings. In order t
 
 As noted above, if you clear your cookies, it will delete the Nativo Cookie and therefore the Cookie ID will no longer identify a cookie on your device. This means the next time you visit the Website (unless you actively identify yourself by logging in), we will not recognize you or your device, we will treat you as an entirely new user we have never seen before, and we will set the Nativo Cookie (together with a new Cookie ID) again.
 
+###  **ADDITIONAL PRIVACY RIGHTS FOR EEA, UK AND SWITZERLAND USERS**
+
+If you are located in the European Economic Area, the United Kingdom or Switzerland, you have the following additional rights:
+
  **Erasure.**
 
 In addition to the opt-out rights described above, you may have the right to request that we erase Personal Data we hold about you in certain situations. You can exercise these rights by contacting our Data Protection Officer at [privacy@nativo.com](mailto:privacy@nativo.com). If you do not have an account with us, we won’t have a way to identify your data by name in our systems, so, in such case, we may need to request certain information from you (such as the applicable Cookie ID from your system) to complete this request.
@@ -85,15 +89,44 @@ We will reply to your complaint as soon as we can and in any event, within forty
 
 If you feel that your complaint has not been adequately resolved, please note that the GDPR gives you the right to contact your local data protection supervisory authority, which for the UK, is the Information Commissioner’s Office.
 
+###  **ADDITIONAL PRIVACY RIGHTS FOR CALIFORNIA USERS**
+
+Effective January 1, 2020, if you are a resident of the State of California (as defined in Section 17014 of Title 18 of the California Code of Regulations), then you have the below additional rights under the California Consumer Protection Act (CCPA). Any terms defined in the CCPA have the same meaning when used in this Section. 
+
+**Deletion.** You have the right to request the deletion of your personal information that we have collected and retained, subject to certain exceptions. 
+
+**Disclosure.** You have the right to request, no more than twice in a 12-month period, disclosure of the personal information about you that we collect, use, disclose and sell during the preceding year, which shall include as follows:
+
+  * The categories of personal information that we’ve collected and sold about you, or shared for a business purpose with our service providers.
+
+  * The categories of sources from which we collected such information.
+
+  * The categories of third parties with whom we’ve shared that personal information and to whom we’ve sold that personal information. 
+
+  * Our business or commercial purpose for collecting or selling that personal information.
+
+  * The specific pieces of personal information we collected about you. 
+
+
+
+
+**Non-Discrimination**. We will not discriminate against you for exercising any of your CCPA rights. 
+
+**Opt out**. We do not consider that our disclosure of personal information we collect to third parties constitutes a “Sale” of personal information under the CCPA. Rather, in the course of providing our services, we disclose personal information for business purposes. To opt out of the use of your personal information for targeted advertising purposes, please refer to the “[What Your Rights Are](https://www.nativo.com/interest-based-ads/#your-rights)” Section of this policy.  
+
+Effective January 1, 2020, if you wish to contact us to submit a request under the California Consumer Privacy Act of 2018, please feel free to contact us by telephone at 1-855-905-0440, by email at [privacy@nativo.com](mailto:privacy@nativo.com), or by clicking [here](https://support.nativo.com/hc/en-us/requests/new). Your request must: (a) provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative; and (b) describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it. 
+
+For purposes of exercising your rights above, please refer to the “[What Personal Data we Collect](https://www.nativo.com/interest-based-ads/#what-personal-data-we-collect)”, “[How we Use Your Personal Data and Why](https://www.nativo.com/interest-based-ads/#how-we-use-your-personal-data)” and “[Who We Share Your Personal Data With](https://www.nativo.com/interest-based-ads/#who-we-share-your-personal-data-with)” sections of this policy, which discloses the categories of personal information we have collected about consumers in the previous 12 months and the business purposes for which we use and disclose the information we collect. 
+
+For clarity, under CCPA personal information does not include de-identified or aggregated consumer information.
+
 ## **What Personal Data we collect.**
 
 All the Personal Data we collect from you is outlined in the table below.
 
-Before you read that table, it might be useful to explain what “Personal Data” is. The GDPR definition of Personal Data can be found [here](https://gdpr-info.eu/art-4-gdpr/). Essentially, it boils down to: information about an individual, from which that individual is either directly identified or can be identified.  
+“Personal Data” refers to information about you that may be considered “personal data” or “personal information” under GDPR, CCPA or other applicable privacy or data protection laws. 
 
-It does **not** include ‘anonymous data’ (i.e., information where the identity of an individual has been permanently removed).
-
-However, it **does** include ‘indirect identifiers’ or ‘pseudonymous data’ (i.e., information which alone doesn’t identify an individual but, when combined with certain additional and reasonably accessible information, could be attributed to a particular person).
+As further detailed below, the personal information we collect may include: (A) identifiers, such as your real name, email address, account name or other similar identifiers that you provide as part of your Account Information; (B) Commercial information, such as the Nativo products or services you have purchased or considered; and (C) Internet or other electronic network activity information, such as information regarding your interaction with Nativo’s products, websites and advertisements. 
 
 Category of Personal Data collected | What this means | How we collect it  
 ---|---|---  
