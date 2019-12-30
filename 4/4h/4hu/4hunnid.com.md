@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4hunnid.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627101309id_/https%3A//shop.4hunnid.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4hunnid.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231005737id_/https%3A//4hunnid.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 4Hunnid Shop
+# Privacy Policy | 4Hunnid
 
 **Live Nation Entertainment Privacy Policy – Your Privacy Rights**  
 
