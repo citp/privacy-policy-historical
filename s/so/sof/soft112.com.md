@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft112.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215053id_/https%3A//www.soft112.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft112.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230205907id_/https%3A//www.soft112.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for soft112.com
 
