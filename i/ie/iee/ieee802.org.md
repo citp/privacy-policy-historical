@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ieee802.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231200717id_/http%3A//www.ieee.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieee802.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231004951id_/http%3A//www.ieee.org/privacy) for the most accurate reproduction.*
 
 # IEEE - IEEE Privacy Policy
 
