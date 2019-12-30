@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevinylfactory.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527163405id_/https%3A//thevinylfactory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevinylfactory.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230060439id_/https%3A//thevinylfactory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Vinyl Factory
 
