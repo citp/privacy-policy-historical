@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egotastic.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222216id_/http%3A//www.egotastic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egotastic.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230202253id_/http%3A//www.egotastic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -283,7 +283,3 @@ We fully cooperate with law enforcement agencies in identifying those who use ou
 Occasionally we may, in our discretion, make changes to this Privacy Policy. When we make material changes to this Privacy Policy, we’ll provide you with prominent notice as appropriate under the circumstances, e.g. by displaying a prominent notice within the Website or by sending you an email. In some cases, we will notify you in advance, and your continued use of the Website after the changes have been made will constitute your acceptance of the changes. Please therefore make sure you read any such notice carefully. If you object to any of the changes, you have the opportunity to delete your account and any associated information. Once deleted your details will be non-recoverable.
 
 Please note that if you opt out of receiving notices from us, change notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes, as posted on the Website.
-
-**17\. Who we are**
-
-For the purposes of the GDPR, Last Men, LLC, Inc., an Illinois limited liability company located at 1625 N. Damen street, 2nd floor, Chicago, IL 60647 is the Data Controller and is responsible for your personal data. This means that we determine the purposes and ways of the processing of your personal data.
