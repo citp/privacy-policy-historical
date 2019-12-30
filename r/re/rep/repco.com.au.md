@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the repco.com.au privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411141520id_/https%3A//www.repco.com.au/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repco.com.au privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230040736id_/https%3A//www.repco.com.au/en/privacy-policy) for the most accurate reproduction.*
 
-# Repco Australia
+# Privacy Policy | Repco Australia
 
 GPC Asia Pacific (“ **we** ”, “ **us** ” and “ **our** ”) understands how important it is to protect the personal information of our customers, business partners and other stakeholders that we interact with. We take care to comply with the Privacy Principles contained in the Privacy Act and provide you with a level of comfort that the information you provide to us will be managed in accordance with law.
 
