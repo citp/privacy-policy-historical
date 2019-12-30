@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grahamhancock.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625130904id_/https%3A//grahamhancock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grahamhancock.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230111749id_/https%3A//grahamhancock.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Graham Hancock Official Website
 
@@ -26,13 +26,20 @@ An anonymized string created from your email address (also called a hash) may be
 
 ### Cookies
 
-If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment.
 
-If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+**Google Analytics**  
+Google Analytics lets us analyse how visitors use our site, so that we may improve it and provide a better user experience. These cookies collect data anonymously. Please see [Google’s privacy policy](http://www.google.com/analytics/learn/privacy.html) for further information.
 
-When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+**Phorum**  
+Our messageboard stores cookies to keep track of your account.
 
-If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+**YouTube cookies**  
+We embed YouTube videos. YouTube uses cookies to build video statistics and improve their site experience.
+
+### Amazon Associates
+
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
 ### Embedded content from other websites
 
