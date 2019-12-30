@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the name.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222302id_/https%3A//www.name.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the name.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230203145id_/https%3A//www.name.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -382,9 +382,9 @@ If you have any questions, concerns or complaints about our Privacy Policy and h
 
 Donuts Inc.  
 ATTN: Data Privacy Section, Legal Department  
-5808 Lake Washington Blvd NE  
-Suite 300  
-Kirkland, WA 98033   
+10500 NE 8th Avenue  
+Suite 750  
+Bellevue, WA 98004   
 USA  
 
 
