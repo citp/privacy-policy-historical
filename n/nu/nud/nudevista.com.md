@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nudevista.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222812id_/https%3A//www.nudevista.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nudevista.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230203226id_/https%3A//www.nudevista.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
