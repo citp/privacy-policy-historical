@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ny.gov privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626225738id_/http%3A//www.ny.gov/node/56891) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ny.gov privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230205755id_/http%3A//www.ny.gov/node/56891) for the most accurate reproduction.*
 
 # Privacy Policy | The State of New York
 
