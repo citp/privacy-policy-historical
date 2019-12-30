@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the on-running.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402214808id_/https%3A//customer-service.on-running.com/en-fi/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the on-running.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230143117id_/https%3A//customer-service.on-running.com/en-us/privacy_policy) for the most accurate reproduction.*
 
 # On User Privacy Notice | On
 
