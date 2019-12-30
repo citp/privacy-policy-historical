@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the factmag.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421064336id_/https%3A//www.factmag.com/terms-of-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factmag.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230060439id_/https%3A//thevinylfactory.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms of Service & Privacy Policy - FACT Magazine: Music News, New Music.
+# Privacy Policy - The Vinyl Factory
 
 **The Vinyl Factory Group**
 
@@ -87,7 +87,7 @@ We use information held about you in the following ways:
   * We ask for your details so we can add you to our email database and send you updates you’ve requested.
 
 
-  * This information will not be given to any third party, except to the extent and for the purpose we may be required to do so by any law, or where you have consented to it. If you wish us to stop contacting you please unsubscribe from the service at the foot of any of our email updates.
+  * This information will not be given to any third party, except for use by The Vinyl Factory group to provide tailored tailored advertising on third party social platforms such as Facebook, Twitter, Google and Instagram and except for the purpose we may be required to do so by any law, or where you have consented to it. If you wish us to stop contacting you please unsubscribe from the service at the foot of any of our email updates.
 
 
 
@@ -208,4 +208,4 @@ You should check the third-party websites for more information about these.
 
 **How to manage cookies**
 
-You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. You may wish to visit [www.aboutcookies.org](https://www.aboutcookies.org/) which contains comprehensive information on how to modify the cookie settings on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone or tablet you will need to refer to your device manual. If you’d like to opt out of advertising cookies, please go to the Network Advertising Initiative website [http://www.networkadvertising.org/](https://www.networkadvertising.org/) (opens in a new window – please note that we are not responsible for the content of external websites).
+You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. You may wish to visit [www.aboutcookies.org](https://www.aboutcookies.org/) which contains comprehensive information on how to modify the cookie settings on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone or tablet you will need to refer to your device manual. If you’d like to opt out of advertising cookies, please go to the Network Advertising Initiative website <http://www.networkadvertising.org/> (opens in a new window – please note that we are not responsible for the content of external websites).
