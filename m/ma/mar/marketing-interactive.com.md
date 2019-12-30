@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketing-interactive.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626100133id_/https%3A//www.marketing-interactive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketing-interactive.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230094314id_/https%3A//www.marketing-interactive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marketing Interactive
 
@@ -10,7 +10,7 @@ Sometimes third parties, called third-party ad servers or ad networks, deliver a
 
 Please be assured that we take your concerns about privacy quite seriously, and we intend to take every reasonable effort to protect it. To that end, Lighthouse Independent Media has developed a comprehensive privacy policy. If you’d like more information about our use of customer data, please review Lighthouse Independent Media Customer Privacy Policy Statement below.
 
-Questions or comments can be sent to [Deborah Quek](mailto:subscriptions@marketing-interactive.com).
+Questions or comments can be sent to [here](mailto:subscriptions@marketing-interactive.com).
 
 If you prefer not to receive relevant business information from companies outside Lighthouse Independent Media, you may contact our circulations department at [subscriptions@marketing-interactive.com](mailto:subscriptions@marketing-interactive.com).
 
