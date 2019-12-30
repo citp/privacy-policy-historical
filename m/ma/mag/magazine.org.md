@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazine.org privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530063039id_/https%3A//www.magazine.org/Magazine/About_Pages/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine.org privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230194829id_/https%3A//www.magazine.org/Magazine/About_Pages/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,4 +14,4 @@ Our Website does not automatically collect any individually identifiable informa
 
 If you provide us with your postal or e-mail address, you may receive periodic mailings, containing information we believe you may find useful, including notices of new services offered by MPA, upcoming events, published newsletters and press releases. If you do not wish to receive this information, we will be happy to remove your name from our database. You may notify us by email at mpa@magazine.org. Please specify if you do not wish to receive any future electronic contacts and/or First-class mailings. 
 
-We do our best to ensure accurate, timely, and complete information. We cannot, however, guarantee the accuracy of information obtained from external sources. If you have any questions about MPA's privacy policy, if you would like to opt-out from receiving future communications from MPA or its sponsors, please contact us at mpa@magazine.org 
+We do our best to ensure accurate, timely, and complete information. We cannot, however, guarantee the accuracy of information obtained from external sources. If you have any questions about MPA's privacy policy, if you would like to opt-out from receiving future communications from MPA or its sponsors, please contact us at mpa@magazine.org
