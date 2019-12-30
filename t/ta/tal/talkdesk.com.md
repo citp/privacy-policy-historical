@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the talkdesk.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505023619id_/https%3A//www.talkdesk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkdesk.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230111448id_/https%3A//www.talkdesk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Talkdesk
 
 ## Talkdesk Privacy Policy
 
-Last Updated: September 21, 2018
+Last Updated: November 6, 2019
 
 ### Purpose of the Privacy Policy
 
@@ -172,11 +172,20 @@ We comply with the EU-U.S. Privacy Shield and the Swiss – U.S. Privacy Shield 
 
 
 
-In compliance with the EU-U.S. Privacy Shield and Swiss – U.S. Privacy Shield , we are committed to resolving complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us at: [privacy@talkdesk.com](mailto:privacy@talkdesk.com).
+In compliance with the EU-U.S. Privacy Shield and Swiss – U.S. Privacy Shield, we are committed to resolving complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us at: [privacy@talkdesk.com](mailto:privacy@talkdesk.com)
+
+Talkdesk has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.
 
 If necessary, we have further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield to JAMS, an alternative dispute resolution provider located in the United States.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://www.jamsadr.com/eu-us-privacy-shield.
 
 As a last resort, privacy complaints that remain unresolved after pursuing these and other channels may be subject to binding arbitration before the Privacy Shield Panel to be created jointly by the US Department of Commerce and the European Commission. The Federal Trade Commission has jurisdiction over Talkdesk’s compliance with this policy and the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield, Talkdesk is potentially liable.
+
+In compliance with the Privacy Shield Principles, Talkdesk commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Talkdesk at:
+
+Privacy Team/DPO  
+[privacy@talkdesk.com](mailto:privacy@talkdesk.com)
+
+Talkdesk has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.
 
   7. ### California User Consumer Rights
 
