@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smdp.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427205554id_/https%3A//www.smdp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smdp.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230192110id_/https%3A//www.smdp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Santa Monica Daily Press
 
