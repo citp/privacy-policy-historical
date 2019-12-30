@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobusi.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620184033id_/https%3A//www.mobusi.com/privacy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobusi.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231003832id_/https%3A//www.mobusi.com/privacy.en.html) for the most accurate reproduction.*
 
 # mobusi - Privacy Policy
 
