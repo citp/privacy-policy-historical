@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landmarkcinemas.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411201904id_/https%3A//www.landmarkcinemas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkcinemas.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230135759id_/https%3A//www.landmarkcinemas.com/privacy-policy) for the most accurate reproduction.*
 
 # Landmark Cinemas Privacy Policy
 
@@ -131,7 +131,7 @@ We may routinely delete certain records that contain Personal Information in acc
 
 If you have any questions or comments about this Privacy Policy, please contact us:
 
-  * by email at [privacyofficer@Landmarkcinemas.com](mailto:privacyofficer@Landmarkcinemas.com);
+  * by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b5c5c7dcc3d4d6ccdad3d3dcd6d0c7f5f9d4dbd1d8d4c7ded6dcdbd0d8d4c69bd6dad8);
   * by telephone at 1-403-262-4255; or
   * by mail at:
     * Attn: Guest Services
