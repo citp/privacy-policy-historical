@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520125528id_/https%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230203229id_/https%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
 
 # The Tennis Recruiting Network
 
@@ -136,28 +136,13 @@ Marietta, GA 30007-1912
 
 | 
 
-[**Wilson Rush Pro 3.0 Men's Tennis Shoe Review**](http://www.tennis-warehouse.com/tennis_recruit.html?&URL=http%3A%2F%2Fbit.ly%2FTennisWareh&from=tenrec)
-
-To purchase this product or for a much more detailed written review, [Click Here!](http://www.tennis-warehouse.com/tennis_recruit.html?&URL=http%3A%2F%2Fbit.ly%2FTennisWareh&from=tenrec)
-
-| [](http://www.tennis-warehouse.com/player.html?ccode=DSCHWARTZ&from=tenrec) |   |  **[Diego Schwartzman](http://www.tennis-warehouse.com/player.html?ccode=DSCHWARTZ&from=tenrec)** [Fila Axilus 2 Energized Blue/Black Men's Shoes](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2FFila_Axilus_2_Energized_Blue_Black%2FdescpageMSFILA-FMA2EBB.html)  
-**Sale: $90.00**  
-[Feedback](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2Ffeedback-FMA2EBB.html)  
----|---|---  
-[](http://www.tennis-warehouse.com/player.html?ccode=JSOCK&from=tenrec) |   |  **[Jack Sock](http://www.tennis-warehouse.com/player.html?ccode=JSOCK&from=tenrec)** [Nike Air Zoom Vapor X Beige/Crimson Men's Shoe](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2FNike_Air_Zoom_Vapor_X_Beige_Crimson_Mens_Shoe%2FdescpageMSNIKE-NAZVXBC.html)  
-**Sale: $89.94**  
-[Review](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2FLearning_Center%2Freviews%2Fshoes%2FNike_Air_Zoom_Vapor_X_Mens.html%3Fpcode%3DNAZVXBC), [Feedback](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2Ffeedback-NAZVXBC.html)  
-[](http://www.tennis-warehouse.com/player.html?ccode=FTIAFOE&from=tenrec) |   |  **[Frances Tiafoe](http://www.tennis-warehouse.com/player.html?ccode=FTIAFOE&from=tenrec)** [Nike Air Zoom Zero PRM Volt/Black/White Men's Shoe](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2FNike_Air_Zoom_Zero_PRM_Volt_Black_White_Mens_Shoe%2FdescpageMSNIKE-NMAZZPV.html)  
-**Sale: $97.50**  
-[Review](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2FLearning_Center%2Freviews%2Fshoes%2FNike_Air_Zoom_Zero_Mens.html%3Fpcode%3DNMAZZPV), [Feedback](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2Ffeedback-NMAZZPV.html), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9wFoZASM400)  
-[](http://www.tennis-warehouse.com/player.html?ccode=POUILLE&from=tenrec) |   |  **[Lucas Pouille](http://www.tennis-warehouse.com/player.html?ccode=POUILLE&from=tenrec)** [adidas Ubersonic 2.0 Navy/Scarlet Men's Shoes](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2Fadidas_Ubersonic_20_Navy_Scarlet_Mens_Shoes%2FdescpageMSADIDAS-AAUSN.html)  
-**Sale: $69.94**  
-[Review](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2Freviews%2FAAUSN%2FAAUSNreview.html), [Feedback](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2Ffeedback-AAUSN.html), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dlsd1flk4IoE)  
  
 
-[**Tourna Grip - Karolina Pliskova**](https://www.youtube.com/channel/UCEiUDDKo_0pCqV_nAT3LZvQ)
+[**The Mizuno US Open 2018 Kiriko collection**](https://www.youtube.com/channel/UCWqV0VyD62en5pAqVxNpjlw)
 
-Top WTA player Karolina Pliskova on playing with Tourna Grip.
+It is now time to hit the hard court of Flushing Meadows. In occasion of the fourth Grand Slam tournament, we are launching our new ... 
+
+See More
 
  
 
