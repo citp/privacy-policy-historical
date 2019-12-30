@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511051259id_/http%3A//www.hotelnewsnow.com/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230193300id_/http%3A//www.hotelnewsnow.com/terms-of-use) for the most accurate reproduction.*
 
 # HNN
 
@@ -7,23 +7,23 @@ Effective as of 25 May 2018
 
 **Who We Are**
 
-Hotel News Now (“HNN”) is a division of STR, Inc. and, along with STR’s affiliate STR Global, Ltd, is part of the STR Group.
+Hotel News Now (“HNN”) is a division of STR, LLC, and, along with STR’s affiliate STR Global, Ltd, and STR Sector Analysis, LLC, is part of the STR Group.
 
 HNN and the STR Group are privacy conscious organizations. This means we are committed to protecting the privacy of all individuals who interact with us, whether by registering as a subscriber to website or submitting information to us. This approach to privacy applies to all personal information received by us from our visitors and subscribers, whether in electronic, paper or verbal form. It also applies to how we use that information and the choices that are available to you regarding our use of your personal information. 
 
 **Privacy Shield**
 
-The STR Group, through STR, Inc. in the U.S complies with the EU-U.S. Privacy Shield (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom to the United States in reliance on Privacy Shield The STR Group has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+The STR Group, through STR, LLC, and STR Sector Analysis, LLC, has applied to participate in and has certified to the U.S. Department of Commerce, which has jurisdiction over us, that it will operate with the Department in compliance with the EU-US Privacy Shield Framework (the “Privacy Shield). STR Group has stated to the DOC that it is committed to ensuring that all personal information that is received or transferred to us from the member countries of the European Union and the European Economic Area is and will continue to be handled according to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-If you have any questions or complaints about our compliance with the Privacy Shield, please contact us at [legal@str.com](mailto:legal@str.com) or send a letter to our U.S. headquarters at STR, Inc., 735 East Main Street, Hendersonville, Tennessee, USA 37075, Attention: Legal).
+If you have any questions or complaints about our compliance with the Privacy Shield, please contact us at [legal@str.com](mailto:legal@str.com) or send a letter to our U.S. headquarters at STR, LLC, 735 East Main Street, Hendersonville, Tennessee, USA 37075, Attention: Legal).
 
 If we cannot resolve your complaint, or if you do not receive a timely acknowledgement of your complaint from us, you may submit the complaint at no-cost to the American Arbitration Association (AAA®) and its international division, the International Centre for Dispute Resolution (ICDR®) at <http://go.adr.org/privacyshield.html>.
 
-Under certain limited circumstances, if all other remedies have been exhausted to no avail, European Union individuals may invoke binding Privacy Shield arbitration as a last resort.  Please visit <https://www.privacyshield.gov/article?id=ANNEX-I-introduction> for information on when you may invoke binding arbitration.   To initiate binding arbitration, you must give notification of this decision to STR at legal@str.com or send a letter to our U.S. headquarters STR, Inc., 735 East Main Street, Hendersonville, Tennessee, USA 37075, Attention: Legal).
+Under certain limited circumstances, if all other remedies have been exhausted to no avail, European Union individuals may invoke binding Privacy Shield arbitration as a last resort.  Please visit <https://www.privacyshield.gov/article?id=ANNEX-I-introduction> for information on when you may invoke binding arbitration.   To initiate binding arbitration, you must give notification of this decision to STR at legal@str.com or send a letter to our U.S. headquarters STR, LLC, 735 East Main Street, Hendersonville, Tennessee, USA 37075, Attention: Legal).
 
 General information about the Privacy Shield and the Privacy Shield Principles, as well as information about binding Privacy Shield arbitration, can be found at [www.privacyshield.gov](http://www.privacyshield.gov/).
 
-**Please note that STR, Inc. is also subject to the investigatory and enforcement powers of the United States Federal Trade Commission.**
+**Please note that STR,  LLC, is also subject to the investigatory and enforcement powers of the United States Federal Trade Commission.**
 
 **What Information Do We Collect From You and When?  
 **  
@@ -70,7 +70,7 @@ You may object to our use of your information for any of these purposes and you 
 
 **With Whom Do We Share Your Personal Information? How Long Do We Keep it?**
 
-Your personal information may be shared between and among STR, Inc. in the United States and STR Global, Ltd in the UK, with offices in Germany, Beijing, Dubai, Australia, Brazil, Singapore, and Spain, for purposes of enabling HNN and the rest of the STR Group to provide you with current hotel industry news, as well as the optimal data and analytic services that our customers expect. 
+Your personal information may be shared between and among STR, LLC, in the United States and STR Global, Ltd, in the UK, with offices in Germany, Beijing, Dubai, Australia, Brazil, Singapore, and Spain, for purposes of enabling HNN and the rest of the STR Group to provide you with current hotel industry news, as well as the optimal data and analytic services that our customers expect. 
 
 We also contract with third party data processors to help us store, catalog and process your contact and payment/credit card information for our sales, service and marketing activities. Among these third parties are SalesForce (cloud based Customer Relations Management), Cvent (Hotel Data Conference registration), MailChimp (marketing and promotional emails), Azure (online data storage), and Proofpoint (email firewall). We require all third party data processors to keep confidential the personal information that we disclose to them and to only use such personal information for the purpose for which it was disclosed. Please let us know if you would like more information about how we work with these companies. We recognize that, under certain data privacy laws and regulations, STR Group may be liable for the actions of those agents and processors we use to process your information.
 
@@ -134,7 +134,7 @@ For Complaints or Further Inquiries: If you have any questions about our privacy
 By email: [privacy@str.com](mailto:privacy@str.com)  
 By phone: 1-615-824-8664 extension 3340  
 By mail:  
- **STR, Inc.**  
+ **STR,  LLC**  
  **Attention Legal Department**  
  **735 East Main Street**  
  **Hendersonville, TN, USA 37075.**
