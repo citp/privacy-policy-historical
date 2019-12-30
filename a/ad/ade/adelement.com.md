@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelement.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620183958id_/http%3A//adelement.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelement.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230013314id_/http%3A//adelement.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AdElement
 
