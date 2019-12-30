@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paradoxwikis.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526134307id_/https%3A//legal.paradoxplaza.com/privacy%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paradoxwikis.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230095859id_/https%3A//legal.paradoxplaza.com/privacy%3Flocale%3Den) for the most accurate reproduction.*
 
 # Privacy Policy | Paradox Interactive
 
@@ -8,11 +8,15 @@ SUMMARY OF LATEST UPDATES, APRIL 08, 2019
 
 This is a summary of the most significant updates, but we encourage you to read the whole policy to understand how we process your personal data. 
 
-• Updated language to better reflect the wording of the GDPR and to make it easier to read; • Clarified that this privacy policy is applicable for our affiliates, i.e. Triumph and Harebrained Schemes; • Clarified that you will automatically receive Newsletters or offers when you create a Paradox Account in-game or purchase games from Paradox’s webstore, unless you opt-out;
+  * Updated language to better reflect the wording of the GDPR and to make it easier to read;
+  * Clarified that this privacy policy is applicable for our affiliates, i.e. Triumph and Harebrained Schemes; 
+  * Clarified that you will automatically receive Newsletters or offers when you create a Paradox Account in-game or purchase games from Paradox’s webstore, unless you opt-out;
+
+
 
 ## SUMMARY
 
-With this privacy policy (the “Policy”), we want to let you know how we at Paradox Interactive, established in Sweden, with the address Västgötagatan 5, 11827 Stockholm with corporate company number 556667-4759 (herein "Paradox Interactive", "we" or "us") promise to take care of the personal information we collect from you. This includes the information you provide us with (for example, when opening a Paradox Account or subscribing to our newsletter), what we learn when having you on our site and when you are playing our games. This Policy explains which personal information we collect from you and for what reasons, how we use, store transfer such data but also how you can contact us to ask about your data and invoke your rights. 
+With this privacy policy (the “Policy”), we want to let you know how we at Paradox Interactive, established in Sweden, with the address Magnus Ladulåsgatan 4, 118 66 Stockholm with corporate company number 556667-4759 (herein "Paradox Interactive", "we" or "us") promise to take care of the personal information we collect from you. This includes the information you provide us with (for example, when opening a Paradox Account or subscribing to our newsletter), what we learn when having you on our site and when you are playing our games. This Policy explains which personal information we collect from you and for what reasons, how we use, store transfer such data but also how you can contact us to ask about your data and invoke your rights. 
 
 We only collect, use, store and transfer ("process") your personal information in accordance with applicable data protection legislation, including but not limited to the (EU) General Data Protection Regulation (2016/679) ("GDPR") and applicable national data protection legislation (hereafter "applicable law"). 
 
@@ -22,11 +26,19 @@ We will use your personal information for different purposes. We will for exampl
 
 We will engage other companies in order to fulfil our purposes and obligations as set out in this policy, and we will transfer your personal information to countries outside the EU and EEA that may not have as strict privacy legislation as where you live. We will only transfer your personal information to such countries if we are allowed to do so, please see section 8 for more information.
 
-When we collect personal information about you, you are entitled to the following rights under applicable law: • the right to access and rectify your personal information; • the right to object to our processing of personal information; • the right to restrict to our processing of personal information; • the right to demand us to delete your personal information; and • the right to data portability.
+When we collect personal information about you, you are entitled to the following rights under applicable law:
 
-For more information about the rights you have in relation to your personal information, please see sections 14- 20 below. If you have any concerns as to how we use your personal information, we would kindly ask you to contact us first. However, you can always lodge a complaint with a relevant authority, specifically where you live, work or where you believe an infringement of you rights has occurred. The relevant data protection authority in Sweden is Datainspektionen, [www.datainspektionen.se](https://web.archive.org/web/20190526134307id_/https%3A//legal.paradoxplaza.com/www.datainspektionen.se). Please see section 22 for further information.
+  * the right to access and rectify your personal information;
+  * the right to object to our processing of personal information;
+  * the right to restrict to our processing of personal information;
+  * the right to demand us to delete your personal information; and
+  * the right to data portability.
 
-If you have any questions about the personal information we collect, how we use your data and how we transfer your data to fulfil our purposes as stated herein, please contact us at: <https://support.paradoxplaza.com/hc/en-us> or by mail; PARADOX INTERACTIVE AB, Att. Privacy team Västgötagatan 5,118 27 Stockholm, Sweden. Below follows a more detailed description of how we use personal information. 
+
+
+For more information about the rights you have in relation to your personal information, please see sections 14- 20 below. If you have any concerns as to how we use your personal information, we would kindly ask you to contact us first. However, you can always lodge a complaint with a relevant authority, specifically where you live, work or where you believe an infringement of you rights has occurred. The relevant data protection authority in Sweden is Datainspektionen, [https://www.datainspektionen.se](https://www.datainspektionen.se/). Please see section 22 for further information.
+
+If you have any questions about the personal information we collect, how we use your data and how we transfer your data to fulfil our purposes as stated herein, please contact us at: <https://support.paradoxplaza.com/hc/en-us> or by mail; PARADOX INTERACTIVE AB, Att. Privacy team Magnus Ladulåsgatan 4, 118 66 Stockholm, Sweden. Below follows a more detailed description of how we use personal information. 
 
 ## CONTENT
 
@@ -58,7 +70,7 @@ If you have any questions about the personal information we collect, how we use 
 
 ## 1\. WHO WE ARE
 
-We are Paradox Interactive. This Policy applies to websites operated by us and by Triumph Studios, White Wolf Entertainment, Harebrained Schemes, and any other of our affiliates, including on [https://paradoxplaza.com](https://paradoxplaza.com/), [https://paradoxinteractive.com](https://paradoxinteractive.com/), [https://forum.paradoxplaza.com](https://forum.paradoxplaza.com/), [https://harebrained-schemes.com](https://harebrained-schemes.com/), and on [https://triumph.net](https://triumph.net/). This Policy also applies to your use of our services such as the Paradox Store, forums and Paradox Account and also when you use and play our games or other products (we call all of the above “Services”). We are the controller of the personal information collected. If you have any questions or want to know more about how we use your personal information, please contact us by logging in to your Paradox Account or by directly contacting our Support Department at: <https://support.paradoxplaza.com/>, or contact us as stated in the beginning of this Policy. Our physical address can be found at the end of this Policy under the section HOW TO CONTACT US AND HOW TO COMPLAIN.
+We are Paradox Interactive. This Policy applies to websites operated by us and by Triumph Studios, White Wolf Entertainment, Harebrained Schemes, and any other of our affiliates, including on [https://paradoxplaza.com](https://paradoxplaza.com/), [https://paradoxinteractive.com](https://paradoxinteractive.com/), [https://forum.paradoxplaza.com](https://forum.paradoxplaza.com/), [http://harebrained-schemes.com](http://harebrained-schemes.com/), and on [http://triumph.net](http://triumph.net/). This Policy also applies to your use of our services such as the Paradox Store, forums and Paradox Account and also when you use and play our games or other products (we call all of the above “Services”). We are the controller of the personal information collected. If you have any questions or want to know more about how we use your personal information, please contact us by logging in to your Paradox Account or by directly contacting our Support Department at: <https://support.paradoxplaza.com/hc/en-us>, or contact us as stated in the beginning of this Policy. Our physical address can be found at the end of this Policy under the section HOW TO CONTACT US AND HOW TO COMPLAIN.
 
 ## 2\. WHAT WE PROMISE
 
@@ -70,32 +82,123 @@ Personal information can be any information relating to an identified or identif
 
 ## 4\. LEGAL GROUNDS FOR PROCESSING OF YOUR DATA
 
-We will only use and process data about you if we have one of the following reason to do so: ● to fulfil a contract we have with you (for example, when you have purchased a game on our Paradox Store); ● when it is our legal duty (for example, to identify your age and make sure we are not collecting data from young children, for book keeping purposes and to fulfil our obligations in relation to authorities); ● when you consent to it (for example, when subscribing to our newsletter or opening a Paradox Account); or ● when it is in our legitimate interest (for example, to enforce our policies, manage our everyday business, to perform statistical analysis on anonymized and/or aggregated data, for direct marketing purposes, to ensure information security, to prevent fraud or to transfer the data to different part of the organisation when necessary). When we rely on a legitimate interest we have concluded that our interest is not overridden by your interests or fundamental rights and freedoms. You are welcome to contact us to learn more about how we have reached this conclusion. 
+We will only use and process data about you if we have one of the following reason to do so: 
+
+  * to fulfil a contract we have with you (for example, when you have purchased a game on our Paradox Store); 
+  * when it is our legal duty (for example, to identify your age and make sure we are not collecting data from young children, for book keeping purposes and to fulfil our obligations in relation to authorities);
+  * when you consent to it (for example, when subscribing to our newsletter or opening a Paradox Account); or
+  * when it is in our legitimate interest (for example, to enforce our policies, manage our everyday business, to perform statistical analysis on anonymized and/or aggregated data, for direct marketing purposes, to ensure information security, to prevent fraud or to transfer the data to different part of the organisation when necessary). When we rely on a legitimate interest we have concluded that our interest is not overridden by your interests or fundamental rights and freedoms. You are welcome to contact us to learn more about how we have reached this conclusion. 
+
+
 
 ## 5\. WHEN DO WE COLLECT YOUR DATA?
 
-We will collect data about you when you use our Services, including in the following situations:  
-● When you register a Paradox Account ● When you subscribe to our newsletters ● When you purchase one of our games or any other products ● When you play our games ● When you register on and use our forums ● When you contact us or our support services, via emails or letters ● When you use our websites, in-game browser, apps, or games ● In customer surveys ● If you participate in user research initiatives ● If you participate in a playtest or prelease test such as alpha/beta/etc. test releases ● If you take part in our competitions or promotions ● When you enrol in, or participate in, one of our events ● When you send us a game pitch ● When you click on one of our ads or in our newsletters ● When you subscribe to receive our press releases ● you log in to our Services using third party account ● When you work for Paradox. In such case, please contact our Human Resources department separately for more information.
+We will collect data about you when you use our Services, including in the following situations: 
+
+  * When you register a Paradox Account
+  * When you subscribe to our newsletters
+  * When you purchase one of our games or any other products
+  * When you play our games
+  * When you register on and use our forums
+  * When you contact us or our support services, via emails or letters
+  * When you use our websites, in-game browser, apps, or games
+  * In customer surveys 
+  * If you participate in user research initiatives
+  * If you participate in a playtest or prelease test such as alpha/beta/etc. test releases
+  * If you take part in our competitions or promotionsWhen you enrol in, or participate in, one of our events
+  * When you send us a game pitch
+  * When you click on one of our ads or in our newsletters
+  * When you subscribe to receive our press releases
+  * you log in to our Services using third party account
+  * When you work for Paradox. In such case, please contact our Human Resources department separately for more information.
+
+
 
 ## 6\. WHAT DATA DO WE COLLECT?
 
-We use data that you have explicitly provided to us in different situations. We also use personal information that is generated by your device or when you use our Services. These categories are further explained below. Data that you explicitly provide us with: ● email address ● username ● country of residence ● age or date of birth ● name ● password(s) created to access parts of the Services ● nicknames on forums and in games
+We use data that you have explicitly provided to us in different situations. We also use personal information that is generated by your device or when you use our Services. These categories are further explained below. Data that you explicitly provide us with:
 
-The above information may be provided to us when you open a Paradox Account, or when you subscribe to our press releases or newsletters. In addition to the above, and when purchasing a game or enrolling in an event, you may have to provide us with the following data: ● physical address ● telephone number ● card information payment account details ● PayPal account information ● name and contact information for a business or organization
+  * email address
+  * username
+  * country of residence
+  * age or date of birth
+  * name
+  * password(s) created to access parts of the Services
+  * nicknames on forums and in games
 
-Finally, any other data you actively provide us with when: ● you contact support or seek help from Paradox ● you fill in our surveys or join our playtests ● you enter a contest. If you win, we might need additional information about you depending on the specific contest. We will, however, only collect such information with your consent ● you apply for a job at Paradox and provide information relevant to the application. For more information on how we use personal information in that respect, please refer to the privacy policy available on our job applications website.
 
-Data we collect when you use our Services or games: ● Profile and usage data. This includes the profile you create to identify yourself when you connect to our Services and internet protocol (IP) address and cookies that may uniquely identify your browser. It also includes other data about how you use our Services and games. We gather this data from devices you use to connect to those Services, such as computers and mobile phones, using cookies and other internet tracking software. ● Payment and transaction data ● Location data ● Platform type, such as distribution platform (for example, Steam, GOG, Paradox launcher) or hardware platform (PC, Android, iOS, Xbox One, PlayStation®4)  
-● Preferred language ● Gender ● Information about your device, hardware and software ● Referral pages and page exit time ● Steam ID, account for PlayStation™Network ID, IDFA (iOS), Advertiser ID (Android) or other game platform IDs like IP address, Google Play Advertising ID, Windows Phone Device ID, Twitch user ID, GOG ID or MAC address. ● In-game activity including but not limited to what games you play, own, how you play, how often and for how long ● Game crash report(s) and error dump information from your device ● Activity carried out within our Paradox Launcher application, including install, uninstall, and update event information ● Multiplayer sessions, when these sessions were played and which players were in them ● Friend relations added to the Friends List in chat systems in games on the Paradox Launcher
+
+The above information may be provided to us when you open a Paradox Account, or when you subscribe to our press releases or newsletters. In addition to the above, and when purchasing a game or enrolling in an event, you may have to provide us with the following data:
+
+  * physical address
+  * telephone number
+  * card information payment account details 
+  * PayPal account information
+  * name and contact information for a business or organization
+
+
+
+Finally, any other data you actively provide us with when:
+
+  * you contact support or seek help from Paradox
+  * you fill in our surveys or join our playtests
+  * you enter a contest. If you win, we might need additional information about you depending on the specific contest. We will, however, only collect such information with your consent
+  * you apply for a job at Paradox and provide information relevant to the application. For more information on how we use personal information in that respect, please refer to the privacy policy available on our job applications website.
+
+
+
+Data we collect when you use our Services or games:
+
+  * Profile and usage data. This includes the profile you create to identify yourself when you connect to our Services and internet protocol (IP) address and cookies that may uniquely identify your browser. It also includes other data about how you use our Services and games. We gather this data from devices you use to connect to those Services, such as computers and mobile phones, using cookies and other internet tracking software.
+  * Payment and transaction data
+  * Location data
+  * Platform type, such as distribution platform (for example, Steam, GOG, Paradox launcher) or hardware platform (PC, Android, iOS, Xbox One, PlayStation®4)  
+
+  * Preferred language
+  * Gender
+  * Information about your device, hardware and software
+  * Referral pages and page exit time
+  * Steam ID, account for PlayStation™Network, IDFA (iOS), Advertiser ID (Android) or other game platform IDs like IP address, Google Play Advertising ID, Windows Phone Device ID, Twitch user ID, GOG ID or MAC address.
+  * In-game activity including but not limited to what games you play, own, how you play, how often and for how long 
+  * Game crash report(s) and error dump information from your device
+  * Activity carried out within our Paradox Launcher application, including install, uninstall, and update event information
+  * Multiplayer sessions, when these sessions were played and which players were in them
+  * Friend relations added to the Friends List in chat systems in games on the Paradox Launcher
+
+
 
 We will always ask for your consent to give us details on your location data. You have a right to withdraw your consent at any time as described under section 20 below. 
 
 Data from third parties we work with: We may receive data about you from third parties or partners, like for example Facebook. A full list of such third parties is available on our website under <https://legal.paradoxplaza.com/third-party?locale=en>.  
-When you link your Paradox Account with a Steam Account or other account, we may collect Personal Information about you from such account, including your game library. We may also receive information from third parties (such as game distributors) to add to the information we receive from you. This is used to help us deliver relevant advertising to you, to prevent fraud and/or abuse, and to collect your geolocation for taxation purposes.
+When you link your Paradox Account with a Steam Account or other account, we may collect Personal Information about you from such account, including your game library.
+
+We may also receive information from third parties (such as game distributors) to add to the information we receive from you. This is used to help us deliver relevant advertising to you, to prevent fraud and/or abuse, and to collect your geolocation for taxation purposes.
 
 ## 7\. WHY DO WE PROCESS YOUR DATA?
 
-We process your data for the following purposes: ● To operate, improve, develop and provide you with our games, apps and Services ● To provide you with recommendations and game offers that you may like ● To respond to inquiries or comments from you ● To verify your identity in order to prevent unauthorized access ● To provide you with software updates ● To understand trends in usage of our Services ● To calculate marketing conversion rates and other elements of advertising performance ● To help tracking and correcting errors and bugs in games and services ● To customize your user experience (for example, by giving you more relevant ads and inform you about game releases that you might be interested in, unless you have told us not to (opt-out)) ● To maintain the integrity and security of the Services ● To process transactions and communicate with you regarding these transactions ● To maintain or administer your Paradox Account, including contacting you in order to update your Paradox Account details if necessary ● To administer and perform play- and beta tests which you have signed up for ● To create reports, analyses or similar for the purpose of research and business intelligence and be able to track potential problems, behaviour and trends ● To enforce our terms and conditions, such as our EULA, Terms of Use, Rules of Conduct and this Policy ● To send you newsletters and promotional notices and offers (jointly “Newsletters”) you have previously agreed to when either creating a Paradox account or buying any of our Games (please note that if you create an account within our Game or purchase any of our Games you will automatically receive Newsletters unless you click to unsubscribe when creating the account or in any subsequent Newsletter) ● To communicate with you who is our partner’s contact person (i.e. an employee at our partner) regarding business matters ● To keep our Services fair, investigate and prevent fraud and illegal behaviour ● To comply with applicable laws and regulations.
+We process your data for the following purposes:
+
+  * To operate, improve, develop and provide you with our games, apps and Services
+  * To provide you with recommendations and game offers that you may like
+  * To respond to inquiries or comments from you
+  * To verify your identity in order to prevent unauthorized access
+  * To provide you with software updates
+  * To understand trends in usage of our Services
+  * To calculate marketing conversion rates and other elements of advertising performance
+  * To help tracking and correcting errors and bugs in games and services
+  * To customize your user experience (for example, by giving you more relevant ads and inform you about game releases that you might be interested in, unless you have told us not to (opt-out))
+  * To maintain the integrity and security of the Services
+  * To process transactions and communicate with you regarding these transactions
+  * To maintain or administer your Paradox Account, including contacting you in order to update your Paradox Account details if necessary
+  * To administer and perform play- and beta tests which you have signed up for
+  * To create reports, analyses or similar for the purpose of research and business intelligence and be able to track potential problems, behaviour and trends
+  * To enforce our terms and conditions, such as our EULA, Terms of Use, Rules of Conduct and this Policy
+  * To send you newsletters and promotional notices and offers (jointly “Newsletters”) you have previously agreed to when either creating a Paradox account or buying any of our Games (please note that if you create an account within our Game or purchase any of our Games you will automatically receive Newsletters unless you click to unsubscribe when creating the account or in any subsequent Newsletter)
+  * To communicate with you who is our partner’s contact person (i.e. an employee at our partner) regarding business matters
+  * To keep our Services fair, investigate and prevent fraud and illegal behaviour
+  * To comply with applicable laws and regulations.
+
+
 
 We will not use your data for any other purpose than the purpose for which the data is originally collected.
 
@@ -103,7 +206,17 @@ Special information about marketing: We use your data to inform you about releva
 
 ## 8\. WHO DO WE SHARE YOUR INFORMATION WITH?
 
-To be able to provide you with the Services and the best possible experience, we will share your data with other companies and organisations. We will only do so if our partners can provide the same level of security to keep your data safe as implemented by us and if our partners can ensure that they comply with applicable laws and privacy regulations. We may share your information with the following partners: ● Market Research Agencies (like for example Nielsen, Kantar Media) ● Game distribution platforms (for example Steam) ● Co-publishing partners (for example, Eugen Systems SA) ● Payment providers (for example, Adyen, PayPal) ● Companies and external consultants that help support our platform and services (for example, Gamespark sand Salesforce) ● Advertising partners and attribution platforms to help us understand the effectiveness of our marketing campaigns (for example, Google, Facebook, and Adjust) ● Marketing services (for example Survey Monkey and Mailchimp)
+To be able to provide you with the Services and the best possible experience, we will share your data with other companies and organisations. We will only do so if our partners can provide the same level of security to keep your data safe as implemented by us and if our partners can ensure that they comply with applicable laws and privacy regulations. We may share your information with the following partners:
+
+  * Market Research Agencies (like for example Nielsen, Kantar Media) 
+  * Game distribution platforms (for example Steam)
+  * Co-publishing partners (for example, Eugen Systems SA)
+  * Payment providers (for example, Adyen, PayPal)
+  * Companies and external consultants that help support our platform and services (for example, Gamespark sand Salesforce)
+  * Advertising partners and attribution platforms to help us understand the effectiveness of our marketing campaigns (for example, Google, Facebook, and Adjust) 
+  * Marketing services (for example Survey Monkey and Mailchimp)
+
+
 
 A full list of these partners or Third Parties can be found here: <https://legal.paradoxplaza.com/third-party?locale=en>. Please note that our games or products may be advertised in other applications. If you click on one of these advertisements and install our game, you will become a user of our Services. To prevent fraud and verify the installation of the game, we may share your IDFA (iOS) and/or Advertiser ID (Android) with the relevant advertiser. For Services using the Unity Engine, such as for example our game Cities: Skylines, Unity is our service provider. For Services using the Unreal Engine, Unreal is our service provider. Both Unity and Unreal may collect certain data in relation to your use of such Services. You can find their privacy policy on their websites under <https://unity3d.com/legal/privacy-policy> and <https://www.epicgames.com/site/en-US/privacypolicy>. We may release your data when we are required to by a court order, according to law or in the event of a bankruptcy or other similar unfortunate event. We may also share and may acquire your data with future subsidiaries or companies if we choose to sell, transfer or merge parts of our business. We will, however, only transfer the data if we must and if these companies comply with applicable privacy regulations and can guarantee that your data will be kept safe.
 
@@ -180,9 +293,9 @@ This Policy may change from time to time. Any changes to this Policy will be pos
 
 ## 22\. HOW TO CONTACT US AND HOW TO COMPLAIN
 
-Please let us know if you are not happy with the way we use and process your data by contacting our Support department at: <https://support.paradoxplaza.com/hc/en-us> We will also appreciate to get feedback from you if you think that this Policy or any part of it is unclear. Our address is: PARADOX INTERACTIVE AB, Att. Privacy team Västgötagatan 5,118 27 Stockholm, Sweden.
+Please let us know if you are not happy with the way we use and process your data by contacting our Support department at: <https://support.paradoxplaza.com/hc/en-us> We will also appreciate to get feedback from you if you think that this Policy or any part of it is unclear. Our address is: PARADOX INTERACTIVE AB, Att. Privacy team Magnus Ladulåsgatan 4, 118 66 Stockholm, Sweden.
 
-You always have the right to lodge a complaint with the relevant authority in particular where you live, work or where an alleged infringement of the GDPR has occurred. For example, the relevant authorities in Sweden is Datainspektionen [www.datainspektionen.se](https://web.archive.org/web/20190526134307id_/https%3A//legal.paradoxplaza.com/www.datainspektionen.se). 
+You always have the right to lodge a complaint with the relevant authority in particular where you live, work or where an alleged infringement of the GDPR has occurred. For example, the relevant authorities in Sweden is Datainspektionen [https://www.datainspektionen.se](https://www.datainspektionen.se/). 
 
 ## 23\. OTHER USEFUL INFORMATION
 
