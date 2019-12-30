@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailtouchpoints.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411150322id_/http%3A//www.retailtouchpoints.com/general/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailtouchpoints.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230200910id_/http%3A//www.retailtouchpoints.com/general/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Retail TouchPoints
 
