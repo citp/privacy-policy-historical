@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightningdesignsystem.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224701id_/https%3A//www.salesforce.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightningdesignsystem.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231220614id_/https%3A//www.salesforce.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Salesforce.com
 
@@ -8,9 +8,9 @@ Salesforce’s full Privacy Statement contains more information about Salesforce
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6)
 
-[ ](https://privacy.truste.com/privacy-seal/validation?rid=c4e93b5b-f002-44f6-86ac-2cdb22d2beeb)
-
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6)
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=b5e42bbd-4d3e-4631-a14e-c04a441f1a4a)
 
 Salesforce is the controller of your Personal Data and is responsible for its processing, unless expressly specified otherwise in our full Privacy Statement. For the avoidance of doubt, our Privacy Statement does not apply to the extent we process Personal Data in the role of a processor on behalf of our customers. A reference to “Salesforce,” “we,” “us” or the “Company” is a reference to salesforce.com, inc and the relevant affiliate involved in the processing activity. The office locations of where salesforce.com, inc. and its affiliates are located can be found 
 
