@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellanaija.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628064947id_/https%3A//www.bellanaija.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellanaija.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231100411id_/https%3A//www.bellanaija.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | BellaNaija
 
