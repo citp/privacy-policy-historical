@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fangamer.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610184214id_/https%3A//www.fangamer.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fangamer.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231221216id_/https%3A//www.fangamer.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fangamer
 
