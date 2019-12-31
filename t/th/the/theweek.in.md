@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theweek.in privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232227id_/https%3A//www.theweek.in/privacy-an-settlement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweek.in privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231164724id_/https%3A//www.theweek.in/privacy-an-settlement.html) for the most accurate reproduction.*
 
 # Privacy and Settlement - The Week
 
