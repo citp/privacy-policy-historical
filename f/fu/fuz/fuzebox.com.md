@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuzebox.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115014554id_/https%3A//www.fuze.com/fuze-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuzebox.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231161119id_/https%3A//www.fuze.com/fuze-privacy-policy) for the most accurate reproduction.*
 
 # Fuze Privacy Policy I Fuze
 
@@ -200,11 +200,9 @@ Email:
 
 Address:
 
-Fuze DPO c/o Yung Shin Van Der Sype, time.lex,
+Fuze DPO c/o Jean-Philippe Prénovost,
 
-Joseph Stevensstraat 7 rue Joseph Stevens,
-
-1000 Brussels, Belgium
+133 Whitechapel High Street, London UK E1 7QA
 
 ## Additional Information for European Economic Area Users
 
