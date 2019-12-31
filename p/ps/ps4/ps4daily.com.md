@@ -1,204 +1,362 @@
-> *The following text is extracted and transformed from the ps4daily.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703182425id_/http%3A//ps4daily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps4daily.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231234308id_/https%3A//policies.google.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | PlayStation 4
+# Privacy Policy – Privacy & Terms – Google
 
-1\. INTRODUCTION
+We want you to understand the types of information we collect as you use our services
 
-1.1 PURPOSE
+We collect information to provide better services to all our users — from figuring out basic stuff like which language you speak, to more complex things like which [ads you’ll find most useful](https://policies.google.com/privacy#footnote-useful-ads), [the people who matter most to you online](https://policies.google.com/privacy#footnote-people-online), or which YouTube videos you might like. The information Google collects, and how that information is used, depends on how you use our services and how you manage your privacy controls.
 
-Neverstill Media, LLC ("Neverstill", "us", "we", or "Company") operates an online network of informational and community driven websites including this website and any subdomains thereof (the "Website").
+When you’re not signed in to a Google Account, we store the information we collect with [unique identifiers](https://policies.google.com/privacy#footnote-unique-id) tied to the browser, application, or [device](https://policies.google.com/privacy#footnote-device) you’re using. This helps us do things like maintain your language preferences across browsing sessions.
 
-The purpose of this Privacy Policy (the "Policy") is to give you confidence as you visit our Website, and to demonstrate our commitment to treating you fairly. This Policy only applies to this Website, and not to third party websites and content that you may be able to access from this Website, each of which may have their own terms of service and policies that differ from this Policy.
+When you’re signed in, we also collect information that we store with your Google Account, which we treat as [personal information](https://policies.google.com/privacy#footnote-personal-info).
 
-This Policy does not apply to information that we may obtain by means other than our Website, such as by phone, postal mail, e-mail, or other online and offline mediums. The Policy also does not apply to information collected about you by anyone except us and only applies to the Website on which this policy is found.
+## Things you create or provide to us
 
-By visiting this Website you agree to the terms of this Policy. They may be ammended from time to time, so check this page often for updates.
+When you create a Google Account, you provide us with [personal information](https://policies.google.com/privacy#footnote-personal-info) that includes your name and a password. You can also choose to add a [phone number](https://policies.google.com/privacy#footnote-phone-number) or [payment information](https://policies.google.com/privacy#footnote-payment-info) to your account. Even if you aren’t signed in to a Google Account, you might choose to provide us with information — like an email address to receive updates about our services.
 
-1.2 GENERAL
+We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.
 
-In general, you can visit this Website without telling us who you are or revealing any personal information. Typically, this information is requested when you become a member of the Website or contact us for information or other reasons.
+## Information we collect as you use our services
 
-To improve the services available through this Website, we may ask you for personal information and we may collect certain information from your computer each time you visit us.
+### Your apps, browsers & devices
 
-This Privacy Policy explains, in general, what Personal Information and other information is collected on our Website, how the information is used, and with whom we may share such information. This Policy explains our practices and how you can opt-out of having your information shared for such purposes as direct marketing from third parties. Please take a few minutes to read this Policy to understand how we treat you and your information.
+We collect information about the apps, browsers, and [devices](https://policies.google.com/privacy#footnote-devices) you use to access Google services, which helps us provide features like automatic product updates and dimming your screen if your battery runs low.
 
-2\. COLLECTED INFORMATION
+The information we collect includes [unique identifiers](https://policies.google.com/privacy#footnote-unique-id), browser type and settings, device type and settings, operating system, mobile network information including carrier name and phone number, and application version number. We also collect information about the interaction of your apps, browsers, and devices with our services, including [IP address](https://policies.google.com/privacy#footnote-ip), crash reports, system activity, and the date, time, and referrer URL of your request.
 
-We may collect two types of personally identifying information from users: personal data ("Personal Information" such as names and contact details) and aggregated data on website usage (such as statistics and information on traffic patterns).
+We collect this information when a Google service on your device contacts our servers — for example, when you install an app from the Play Store or when a service checks for automatic updates. If you’re using an [Android device with Google apps](https://policies.google.com/privacy#footnote-android-device), your device periodically contacts Google servers to provide information about your device and connection to our services. This information includes things like your device type, carrier name, crash reports, and which apps you've installed.
 
-2.1 User-Provided Information
+### Your activity
 
-a. Registration
+We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include:
 
-In order to use some features and services offered by this Website, you may be required to create an account with us. During the registration process, you may be required to provide certain Personal Information, including, but not limited to, your name, E-mail address, birthday, gender, mailing address, phone number, and links to your social networking accounts. We use this information to contact you about the services on our Website in which you have expressed an interest.
+  * Terms you search for
+  * Videos you watch
+  * [Views and interactions with content and ads](https://policies.google.com/privacy#footnote-content-views)
+  * Voice and audio information when you use audio features
+  * Purchase activity
+  * People with whom you communicate or share content
+  * Activity on third-party sites and apps that use our services
+  * Chrome browsing history you’ve [synced with your Google Account](https://policies.google.com/privacy#footnote-chrome-sync)
 
-b. Correspondence
 
-If you send us personal correspondence, such as E-mails or letters, or if other users or third parties send us correspondence about your activities, we may collect such information into a file specific to you. Users may also submit comments, questions, or other correspondence through "contact us" forms or similar features on our Website for which we may attribute and correlate personal information to the user's account.
 
-c. Social Sharing
+If you use our [services to make and receive calls or send and receive messages](https://policies.google.com/privacy#footnote-calls-messages), we may collect telephony log information like your phone number, calling-party number, receiving-party number, forwarding numbers, time and date of calls and messages, duration of calls, routing information, and types of calls.
 
-Some features of our website may allow you to share information, products, or services with your friends and family through options such as "E-mail to Friend", "Like on Facebook", or similar buttons and forms. In some cases these features may request names, e-mail addresses, and other information regarding you or your friend or family member. Such information will be treated in accordance wih this Privacy Policy and applicable law.
+You can visit your Google Account to find and manage activity information that’s saved in your account.
 
-d. Other
+### Your location information
 
-As a community focused site, our Website may request or allow input of personal information in certain circumstances or situations, including, but not limited to: purchases, sweepstakes, contests, surveys, chat rooms, bulletin boards, forums, blog comments, and wikis. Such information will be traeted in accordance with this Privacy Policy and applicable law.
+We collect information about your location when you use our services, which helps us offer features like driving directions for your weekend getaway or showtimes for movies playing near you.
 
-2.2 Website Usage Statistics and Aggregate Data
+Your location can be determined with varying degrees of accuracy by:
 
-a. Log Files
+  * GPS
+  * [IP address](https://policies.google.com/privacy#footnote-ip)
+  * [Sensor data from your device](https://policies.google.com/privacy#footnote-sensor-data)
+  * [Information about things near your device](https://policies.google.com/privacy#footnote-near-device), such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices
 
-As is true with most websites, our Website gathers certain information and stores it in log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit Website pages, operating system, date/time stamp, demographic information, and movements around the site.
 
-We typically use this information for internal system administration, to help diagnose problems with our server, and to administer our Website. Such information may also be used to gather broad demographic information, such as country of origin. We may link this information with your Personal Information when we feel that is is necessary to enforce compliance with our rules and policies or Terms of Service, or to proect our Website, Company, customers, or others.
 
-Any or all of these activities with regard to Website usage information may be performed on our behalf by our service providers.
+The types of location data we collect depend in part on your device and account settings. For example, you can [turn your Android device’s location on or off](https://support.google.com/accounts?p=privpol_location) using the device’s settings app. You can also turn on [Location History](https://support.google.com/accounts?p=privpol_lochistory) if you want to create a private map of where you go with your signed-in devices.
 
-b. Cookies
+* * *
 
-We may use "cookies" to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related softwrae from a web server when you visit it. They are stored on your computer's hard drive for record keeping purposes. Cookies track where you travel on our Website and other websites and record what you visit, look at, and purchase. They may store the information in your shopping cart, and/or your username and password. A cookie may enable us to relate your use of our Website to other information about you, including your Personal Information. These purposes serve to improve and personalize your experience on our Website.
+In some circumstances, Google also collects information about you from [publicly accessible sources](https://policies.google.com/privacy#footnote-sources). For example, if your name appears in your local newspaper, Google’s Search engine may index that article and display it to other people if they search for your name. We may also collect information about you from trusted partners, including marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to [protect against abuse](https://policies.google.com/privacy#footnote-against-abuse). We also receive information from advertisers to provide [advertising and research services on their behalf](https://policies.google.com/privacy#footnote-ad-services).
 
-You may get cookies from our advertisers which is standard in the internet industry. We do not control these cookies, and these cookies are not subject to our privacy policy. Visit [aboutads.info](http://www.aboutads.info/), [networkadvertising.org](http://www.networkadvertising.org/choices/), and our “Right to Opt-out” section below for more information.
+We use various technologies to collect and store information, including [cookies](https://policies.google.com/privacy#footnote-cookies-and-similar-technologies), [pixel tags](https://policies.google.com/privacy#footnote-pixel), local storage, such as [browser web storage](https://policies.google.com/privacy#footnote-browser-storage) or [application data caches](https://policies.google.com/privacy#footnote-application-data-cache), databases, and [server logs](https://policies.google.com/privacy#footnote-server-logs).
 
-Note that you may be able to adjust your web browser settings to notify you when a cookie has been set or to disable cookies entirely. However, in some cases, limiting cookie settings may preclude you from using or negatively impact the display or functionality of certain Website features.
+We use data to build better services
 
-c. Clear GIFs
+We use the information we collect from all our services for the following purposes:
 
-We may use "clear GIFs" (aka "Web beacons" or "pixel tags") or similar technologies in the Website and in our communications with you to enable us to know whether you have visited a web page or received a message. A clear GIF is typically a one-pixel, transparent image, located on a web page or in an e-mail or other type of message. When the image is retrieved by a user's web browser, a clear GIF may enable us to relate your viewing or receipt of said image or message to other information about you, including your Personal Information.
+### Provide our services
 
-d. Supplementation of Information
+We use your information to [deliver our services](https://policies.google.com/privacy#footnote-deliver-services), like processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts.
 
-In order to provide certain services to you, we may on occassion supplement the personal information you submitted to us with information from third-party sources and website usage statistics.
+### Maintain & improve our services
 
-3\. USAGE OF COLLECTED INFORMATION
+We also use your information to [ensure our services are working as intended](https://policies.google.com/privacy#footnote-ensure-working), such as tracking outages or troubleshooting issues that you report to us. And we use your information to [make improvements](https://policies.google.com/privacy#footnote-make-improvements) to our services — for example, understanding which search terms are most frequently misspelled helps us improve spell-check features used across our services.
 
-We use both personal information and aggregate information that is collected on the Website for multiple purposes.
+### Develop new services
 
-3.1 Public Forums
+We use the information we collect in existing services to help us develop new ones. For example, understanding how people organized their photos in Picasa, Google’s first photos app, helped us design and launch Google Photos.
 
-When you contribute to a public area or feature of our Website, such as a bulletin board, chat room, blog, wiki, or other open forum that we make available through our Website, the information you submit will be made available to the general public and will not be considered "Personal Information" for the purposes of this Privacy Policy.
+### Provide personalized services, including content and ads
 
-For this reason, we recommend that you do not submit any sensitive personal information, including your full name, home address, phone number, or other information that would enable other users to locate you, your additional personal information, or your financial information on these areas of our Website.
+We use the information we collect to customize our services for you, including providing recommendations, personalized content, and [customized search results](https://policies.google.com/privacy#footnote-customized-search). For example, [Security Checkup](https://myaccount.google.com/security-checkup?utm_source=pp) provides security tips adapted to how you use Google products. And Google Play uses information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.
 
-3.2 Editorial Purposes
+Depending on your settings, we may also show you [personalized ads](https://policies.google.com/privacy#footnote-personalized-ads) based on your interests. For example, if you search for “mountain bikes,” you may see an ad for sports equipment when you’re browsing a site that shows ads served by Google. You can control what information we use to show you ads by visiting your ad settings.
 
-We may use information provided to us through public forums, comments, e-mails, Q&A, polls and other sources on the Website, for editorial purposes, and we may use your name and related information that you provide to us in articles and places we publish on the Website and the Website's related properties.
+  * We don’t show you personalized ads based on [sensitive categories](https://policies.google.com/privacy#footnote-sensitive-categories), such as race, religion, sexual orientation, or health.
+  * We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. For example, if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop.
 
-All information you provide, including but not limited to, personal anecdotes, name, likeness, photograph, and biographical information, may be attributed to you. We may edit, rewrite, use, and reuse the content in any way and on any media, whether now known or invented in the future, with or without attribution, as well as in trade media, advertising, and promotions.
 
-You agree that any content you send will comply with the Terms of Use.
 
-3.3 Improve and Customize Service
+### Measure performance
 
-We may use your personal information and related aggregate information to analyze user beahvior and measure interest for the purpose of customizing and improving services and features. We may use this information to correspond with you, for example in the form of e-mails and mailings, to send you information about products, services, companies, events, sponsors, and other opportunities that we identify may interest you.
+We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites that use Google Analytics, Google and a Google Analytics customer [may link information](https://policies.google.com/privacy#footnote-link-info) about your activity from that site with activity from other sites that use our ad services.
 
-You may opt-out of receiving such notices from us, at any time, by following the instructions in the "Right to opt out" section below.
+### Communicate with you
 
-3.4 Service-related Announcements
+We use information we collect, like your email address, to interact with you directly. For example, we may send you a notification if we detect suspicious activity, like an attempt to sign in to your Google Account from an unusual location. Or we may let you know about upcoming changes or improvements to our services. And if you contact Google, we’ll keep a record of your request in order to help solve any issues you might be facing.
 
-We may send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally (but not always), you may opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
+### Protect Google, our users, and the public
 
-3.5 Co-sponsored Contests, Sweepstakes, and Offerings
+We use information to help improve the [safety and reliability](https://policies.google.com/privacy#footnote-safety-reliability) of our services. This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm Google, our users, or the public.
 
-Some of our contests, sweepstakes, and other offerings may be co-sponsored by another company. In those situations, the information we obtain from you in connection with such contest, sweepstakes, or offering may be shared with our co-sponsor. In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. If you do not wish for the information we obtain from you to be shared with our co-sponsor, then do not enter such contest, sweepstake, or other offering or otherwise provide to us any Personal Information in connection with such contest, sweepstake or other offering. We are not responsible for how our co-sponsors may use your information.
+* * *
 
-3.6 Business Partners and Service Providers
+We use different technologies to process your information for these purposes. We use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features tailored to how you use our services. And we analyze your content to help us [detect abuse](https://policies.google.com/privacy#footnote-detect-abuse) such as spam, malware, and illegal content. We also use [algorithms](https://policies.google.com/privacy#footnote-algorithm) to recognize patterns in data. For example, Google Translate helps people communicate across languages by detecting common language patterns in phrases you ask it to translate.
 
-We may use third parties to help both our Company and Website operate and deliver related products, services, and features. We may share your Personal Information with our affiliates, service providers, business partners, and other third parties that provide these products and services. For example, this includes but is not limited to, hosting companies, e-mail service providers, analytics companies, distribution companies, and fulfillment companies. Unless otherwise stated, these companies do not have any right to use the Personal Information we provide them beyond what is necessary for them to assist us.
+We may [combine the information we collect](https://policies.google.com/privacy#footnote-combine-info) among our services and across your devices for the purposes described above. For example, if you watch videos of guitar players on YouTube, you might see an ad for guitar lessons on a site that uses our ad products. Depending on your account settings, [your activity on other sites and apps](https://policies.google.com/privacy#footnote-other-sites) may be associated with your personal information in order to improve Google’s services and the ads delivered by Google.
 
-When you conduct e-commerce with one of the e-commerce affiliates or service providers to which the Website may be linked, certain personal information such as you e-mail address and home address may be collected by the service provider's server and made available to us. We do not, however, transfer credit card information you may provide to that service provider.
+If other users already have your email address or other information that identifies you, we may show them your publicly visible Google Account information, such as your name and photo. This helps people identify an email coming from you, for example.
 
-3.7 Third Party Ad Servers
+We’ll ask for your consent before using your information for a purpose that isn’t covered in this Privacy Policy.
 
-We may use third-party advertising companies to serve ads when you visit our Website. These companies may use information about your visits to this Website and to other websites in order to provide advertisements about goods and services they believe are of interest to you. These companies may use cookies and clear GIFs to measure advertising effectiveness.
+### ads you’ll find most useful
 
-Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information.
+For example, if you watch videos about baking on YouTube, you may see more ads that relate to baking as you browse the web. We also may use your IP address to determine your approximate location, so that we can serve you ads for a nearby pizza delivery service if you search for “pizza.” Learn more [about Google ads](https://support.google.com/accounts?p=privpol_whyad) and [why you may see particular ads](https://support.google.com/accounts?p=privpol_whyad).
 
-3.8 Business Transfer
+### the people who matter most to you online
 
-In the event that the Company, Website, or substantially all of its assets, are aquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation, or liquidation, Personal Information will likely be transferred.
+For example, when you type an address in the To, Cc, or Bcc field of an email you're composing, Gmail will suggest addresses based on the people you [contact most frequently](https://contacts.google.com/).
 
-3.9 Legally Compelled Disclosures
+### phone number
 
-We may disclose Personal Information to government authorities, and to other third parties when compelled to do so by government authorities, at our descretion, or otherwise required or permitted by law, including but not limited to in response to court orders and subpoenas. We also may disclose Personal Information when we have reason to believe that someone has committed, or will commit, unlawful acts or acts that endanger the health or safety of another; is causing injury to, or interference with, our rights or property, other suers of the Website, or anyone else that could be harmed by such activities. In some situations, we may share you rPersonal Information, on a confidential basis, with third parties who perform a particular service on our behalf, such as sending e-mails from a lawyer under our direction.
+If you add your phone number to your account, it can be used for different purposes across Google services, depending on your settings. For example, your phone number can be used to help you access your account if you forget your password, help people find and connect with you, and make the ads you see more relevant to you. [Learn more](https://support.google.com/accounts?p=privpol_phone&hl=en_US)
 
-3.10 Disclaimer
+### payment information
 
-We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from this Website or other websites owned by the Company.
+For example, if you add a credit card or other payment method to your Google Account, you can use it to buy things across our services, like apps in the Play Store. We may also ask for other information, like a business tax ID, to help process your payment. In some cases, we may also need to verify your identity and may ask you for information to do this.
 
-4\. SECURITY
+We may also use payment information to verify that you meet age requirements, if, for example, you enter an incorrect birthday indicating you’re not old enough to have a Google Account. [Learn more](https://support.google.com/accounts?p=privpol_agereq&hl=en_US)
 
-4.1 General
+### devices
 
-No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of the Web Site to intercept or access transmissions or private communications unlawfully, including in the case of your contacting us by e-mail or a "contact us" or similar feature on our Website. Accordingly, though the Website may take reasonable steps to protect the security and integrity of all Personal Information provided to this Web Site, due to the inherent nature of the internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. Any such transmission is done at your own risk.
+For example, we can use information from your devices to help you decide which device you’d like to use to install an app or view a movie you buy from Google Play. We also use this information to help protect your account.
 
-4.2 Children
+### Android device with Google apps
 
-The Website is not intended for use by children under the age of 13 or for children between the ages of 13 and 17, except in accordance with the Terms of Service. No one under the age 13 is authorized to provide any Personal Information or use our public discussion areas, forums and chat rooms. The Website does not knowingly collect Personal Information from children under the age of 13.
+Android devices with Google apps include devices sold by Google or one of our partners and include phones, cameras, vehicles, wearables, and televisions. These devices use Google Play Services and other pre-installed apps that include services like Gmail, Maps, your phone’s camera and phone dialer, text-to-speech conversion, keyboard input, and security features.
 
-4.3 Phishing
+### Views and interactions with content and ads
 
-Identity theft is a continuing global problem, with unauthorized individuals or companies to send e-mail messages and and other correspondence to consumers, purporting to be a legitimate representative. For example, a bank or online merchant requesting sensitive account or payment information. Although the correspondence may appear to be from the domain and account of a legitimate source, in reality, sometimes it's illegally spoofed in hopes of collecting such sensitive information. This illegal activity is known as "phishing".
+For example, we collect information about views and interactions with ads so we can provide aggregated reports to advertisers, like telling them whether we served their ad on a page and whether the ad was likely seen by a viewer. We may also measure other interactions, such as how you move your mouse over an ad or if you interact with the page on which the ad appears.
 
-If you receive an e-mail correspondence that appears to be from this Website, requesting sensitive Personal Information (such as passwords or credit card information), or that otherwise seems suspicious, do not provide such information and report such a request by using the Website's contact form.
+### synced with your Google Account
 
-4.4 Linked-To Websites
+Your Chrome browsing history is only saved to your account if you’ve enabled Chrome synchronization with your Google Account. [Learn more](https://support.google.com/chrome?p=privpol_chrsync)
 
-This Website and other websites owned by Neverstill may contain links to other sites. However, please be aware that Neverstill is not responsible for and cannot control the privacy policies and terms of service of such other sites. We encourage you to be aware when you leave this Website, and to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by websites owned by our Company.
+### services to make and receive calls or send and receive messages
 
-5\. ENFORCEMENT
+Examples of these services include:
 
-If for some reason you believe Neverstill has not adhered to the principles of this Privacy Policy, please notify us by accessing the “Contact Us” link and submitting a formal complaint or question.
+  * Google Hangouts, for making domestic and international calls
+  * Google Voice, for making calls, sending text messages, and managing voicemail
+  * Google Fi, for a phone plan
 
-5.1 Limitations of Warranties and Remedies.
 
-To the full extent allowed by law, NEVERSTILL disclaims all warranties, terms or conditions, express or implied, either in fact or by operation of law, statutory or otherwise, including warranties, terms, or conditions of merchantability, fitness for a particular purpose, and warranty of noninfringement. NEVERSTILL neither assumes nor authorizes any other person to assume for it any other liability in connection with SERVICES FROM NEVERSTILL. liability OF NEVERSTILL will not exceed the fee paid by the customer for the PURCHASE of the products. In no event will NEVERSTILL be liable for any incidental, consequential, punitive, or special damages, including, without limitation, lost profits or revenues, even if NEVERSTILL has, or should have had, any knowledge, actual or constructive, of the possibility of such damages.
 
-5.2 Indemnification
+### Sensor data from your device
 
-Each of the parties acknowledges and agrees that by entering into and performing its obligations under this Privacy Policy, Neverstill will not assume and should not be exposed to the business and operational risks associated with Your business. You agree to defend, indemnify, and hold harmless Neverstill and its officers and employees against any and all third party claims, suits, costs, losses, liabilities and expenses of any kind (including reasonable attorneys’ fees) that Neverstill may incur arising out of or resulting from the use of the Website or any of the services of Neverstill, the end user, or any other person.
+Your device may have sensors that can be used to better understand your location and movement. For example, an accelerometer can be used to determine your speed and a gyroscope to figure out your direction of travel.
 
-5.3 Consent to Processing
+### Information about things near your device
 
-This agreement will be construed and governed in accordance with the laws of the state of Maryland in the United States of America, without application of choice-of-law provisions that would require application of the laws of another jurisdiction. By entering into this agreement, all parties irrevocably submit themselves to the exclusive jurisdiction of the state and federal courts in Baltimore City, Maryland with regard to any dispute relatING to this Privacy Policy or its enforcement. The parties also hereby waive any challenge to venue they may have to a lawsuit filed in a state or federal court in Baltimore City, Maryland, regarding a dispute between the parties relating to this Privacy Policy or its enforcement.
+If you use Google’s Location services on Android, we can improve the performance of apps that rely on your location, like Google Maps. If you use Google’s Location services, your device sends information to Google about its location, sensors (like accelerometer), and nearby cell towers and Wi-Fi access points (like MAC address and signal strength). All these things help to determine your location. You can use your device settings to enable Google Location services. [Learn more](https://support.google.com/accounts?p=privpol_androidloc&hl=en_US)
 
-5.4 Severability
+### publicly accessible sources
 
-If any provision of this Privacy Policy is found to be invalid, illegal, or unenforceable, the validity, legality and enforceability of any of the remaining provisions will not in any way be affected or impaired and a valid, legal, and enforceable provision of similar intent and economic impact will be substituted therefore.
+For example, we may collect information that’s publicly available online or from other public sources to help train Google’s language models and build features like Google Translate.
 
-5.5 Additional Provisions Regarding Liability
+### protect against abuse
 
-The parties agree that the foregoing limitations will not be read so as to limit any liability to an extent that would not be permitted under applicable law and specifically will not limit any liability for gross negligence, intentional tortious or unlawful conduct, or damages for strict liability that may not be limited by law.
+For example, information about security threats can help us notify you if we think your account has been compromised (at which point we can help you take steps to protect your account).
 
-5.6 Notices
+### advertising and research services on their behalf
 
-Any notices or other communication required or permitted to be made or given by either Party pursuant to this Privacy Policy will be in writing, in English, and will be deemed to have been duly given when delivered if delivered personally or sent by recognized overnight express courier, to the address specified herein or such other address as Neverstill may specify in writing. All notices shall be sent to:
+For example, advertisers may upload data from their loyalty-card programs so that they can better understand the performance of their ad campaigns. We only provide aggregated reports to advertisers that don’t reveal information about individual people.
 
-Neverstill Media LLC
+### deliver our services
 
-6328 Baltimore National Pike
+Examples of how we use your information to deliver our services include:
 
-Suite 200
+  * We use the IP address assigned to your device to send you the data you requested, such as loading a YouTube video
+  * We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account
+  * Photos and videos you upload to Google Photos are used to help you create albums, animations, and other creations that you can share. [Learn more](https://support.google.com/photos?p=privpol_manage)
+  * A flight confirmation email you receive may be used to create a “check-in” button that appears in your Gmail
+  * When you purchase services or physical goods from us, you may provide us information like your shipping address or delivery instructions. We use this information for things like processing, fulfilling, and delivering your order, and to provide support in connection with the product or service you purchase.
 
-Catonsville, MD 21228-3901
 
-6\. ADDITIONAL INFORMATION
 
-6.1 Changes to this Privacy Policy
+### ensure our services are working as intended
 
-We reserve the right to change or update this Privacy Policy, or any of our other policies or practices, at any time, and will notify users of this Website by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to this Website. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as aposting a notice on the front page of our Website or sending you an E-mail.
+For example, we continuously monitor our systems to look for problems. And if we find something wrong with a specific feature, reviewing activity information collected before the problem started allows us to fix things more quickly.
 
-6.2 Right to Opt-out  
-You have the right to "opt-out" of certain of our uses of your Personal Information on this Website. For example, at the time you are requested to provide Personal Information on this Website, you may have the opportunity to elect to, or not to: (1) receive correspondence from us, or (2) have your Personal Information shared with other entities affiliated or unaffiliated with the Website for their marketing purposes. You may also make this request by sending an E-Mail through the Contact Us link on this Website indicating you wish to opt-out of correspondence.
+### make improvements
 
-Additionally, it is recommended you visit [aboutads.info](http://aboutads.info/) to further understand and educate yourself regarding online advertising. The [List of Participants](http://www.aboutads.info/participating) identifies which ad agencies and ad networks make it easy to opt-out. You may also wish to take special note of the "For Consumers" section.
+For example, we use cookies to analyze how people interact with our services. And that analysis can help us build better products. For example, it may help us discover that it’s taking people too long to complete a certain task or that they have trouble finishing steps at all. We can then redesign that feature and improve the product for everyone.
 
-Opt-out links from some (but not all) of our Company's affiliated partners and ad agencies can be found here: [Admeld](http://www.admeld.com/opt-out/), [AOL Advertising](http://advertising.aol.com/privacy/advertisingcom/opt-out), [Casale Media](http://casalemedia.com/privacy/), [Google](http://www.google.com/ads/preferences/), [IDGTechNetwork](http://idgtechnetwork.com/terms/), [Kontera](http://www.kontera.com/ad-choices), [Quantcast](https://www.quantcast.com/how-we-do-it/consumer-choice/opt-out/), [Yahoo](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/). You may also attempt to [find relevant opt-out options through NetworkAdvertising.org](http://www.networkadvertising.org/managing/opt_out.asp).
+### customized search results
 
-Please understand that if you opt-out of receiving correspondence from us, we may still contact you in connection with your relationship, activities, transactions, and communications with us. Furthermore, it may be necessary to contact you for reasons outlined in Section 3 titled "Usage of Collected Information".
+For example, when you’re signed in to your Google Account and have the Web & App Activity control enabled, you can get more relevant search results that are based on your previous searches and activity from other Google services. You can [learn more here](https://support.google.com/websearch?p=privpol_searchactivity). You may also get customized search results even when you’re signed out. If you don’t want this level of search customization, you can [search and browse privately](https://support.google.com/websearch?p=privpol_incognito) or turn off [signed-out search personalization](https://www.google.com/history/optout).
 
-6\. Contact Information
+### personalized ads
 
-If you have any questions or comments regarding our privacy practices, you may contact us by using the contact form on this Website or any Company website.
+You may also see personalized ads based on information from the advertiser. If you shopped on an advertiser's website, for example, they can use that visit information to show you ads. [Learn more](https://support.google.com/accounts?p=privpol_whyad&hl=en_US)
 
-Effective Date: January 18, 2013
+### sensitive categories
+
+When showing you personalized ads, we use topics that we think might be of interest to you based on your activity. For example, you may see ads for things like "Cooking and Recipes" or "Air Travel.” We don’t use topics or show personalized ads based on sensitive categories like race, religion, sexual orientation, or health. And we [require the same from advertisers](https://support.google.com/adwordspolicy?p=privpol_p13nad) that use our services.
+
+### may link information
+
+Google Analytics relies on first-party cookies, which means the cookies are set by the Google Analytics customer. Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to third-party cookies that are related to visits to other websites. For example, an advertiser may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic. [Learn more](https://support.google.com/analytics?p=privpol_data&hl=en_US)
+
+### safety and reliability
+
+Some examples of how we use your information to help keep our services safe and reliable include:
+
+  * Collecting and analyzing IP addresses and cookie data to protect against automated abuse. This abuse takes many forms, such as sending spam to Gmail users, stealing money from advertisers by fraudulently clicking on ads, or censoring content by launching a Distributed Denial of Service (DDoS) attack.
+  * The “last account activity” feature in Gmail can help you find out if and when someone accessed your email without your knowledge. This feature shows you information about recent activity in Gmail, such as the IP addresses that accessed your mail, the associated location, and the date and time of access. [Learn more](https://support.google.com/mail?p=privpol_signinactivity&hl=en_US)
+
+
+
+### detect abuse
+
+When we detect spam, malware, illegal content, and other forms of abuse on our systems in violation of our policies, we may disable your account or take other appropriate action. In certain circumstances, we may also report the violation to appropriate authorities.
+
+### combine the information we collect
+
+Some examples of how we combine the information we collect include:
+
+  * When you’re signed in to your Google Account and search on Google, you can see search results from the public web, along with relevant information from the content you have in other Google products, like Gmail or Google Calendar. This can include things like the status of your upcoming flights, restaurant, and hotel reservations, or your photos. [Learn more](https://support.google.com/websearch?p=privpol_privresults&hl=en_US)
+  * If you have communicated with someone via Gmail and want to add them to a Google Doc or an event in Google Calendar, Google makes it easy to do so by autocompleting their email address when you start to type in their name. This feature makes it easier to share things with people you know. [Learn more](https://support.google.com/accounts?p=autocontacts&hl=en_US)
+  * The Google app can use data that you have stored in other Google products to show you personalized content, depending on your settings. For example, if you have searches stored in your Web & App Activity, the Google app can show you news articles and other information about your interests, like sports scores, based your activity. [Learn more](https://support.google.com/websearch?p=privpol_feed&hl=en_US)
+  * If you link your Google Account to your Google Home, you can manage your information and get things done through the Google Assistant. For example, you can add events to your Google Calendar or get your schedule for the day, ask for status updates on your upcoming flight, or send information like driving directions to your phone. [Learn more](https://support.google.com/googlehome?p=privpol_actions&hl=en_US)
+
+
+
+### your activity on other sites and apps
+
+This activity might come from your use of Google services, like from syncing your account with Chrome or your visits to sites and apps that partner with Google. Many websites and apps partner with Google to improve their content and services. For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics), or it might embed other content (such as videos from YouTube). These services may share information about your activity with Google and, depending on your [account settings](https://myaccount.google.com/) and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information.
+
+[Learn more](https://policies.google.com/technologies/partner-sites) about how Google uses data when you use our partners' sites or apps.
+
+### partner with Google
+
+There are over 2 million non-Google websites and apps that partner with Google to show ads. [Learn more](https://support.google.com/accounts?p=privpol_controlads&hl=en_US)
+
+### specific Google services
+
+For example, you can delete [your blog](https://support.google.com/blogger?p=privpol_blog) from Blogger or [a Google Site you own](https://support.google.com/sites?p=privpol_delete) from Google Sites. You can also delete [reviews](https://support.google.com/googleplay?p=privpol_review) you’ve left on apps, games, and other content in the Play Store.
+
+### rely on cookies to function properly
+
+For example, we use a cookie called ‘lbcs’ that makes it possible for you to open many Google Docs in one browser. Blocking this cookie would prevent Google Docs from working as expected. [Learn more](https://policies.google.com/technologies/types)
+
+### legal process, or enforceable governmental request
+
+Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to disclose user data. Respect for the privacy and security of data you store with Google underpins our approach to complying with these legal requests. Our legal team reviews each and every request, regardless of type, and we frequently push back when a request appears to be overly broad or doesn’t follow the correct process. Learn more in our [Transparency Report](https://transparencyreport.google.com/user-data/overview).
+
+### show trends
+
+When lots of people start searching for something, it can provide useful information about particular trends at that time. Google Trends samples Google web searches to estimate the popularity of searches over a certain period of time and shares those results publicly in aggregated terms. [Learn more](https://support.google.com/trends?p=privpol_about)
+
+### specific partners
+
+For example, we allow YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies. Another example is merchants on our shopping pages, who use cookies to understand how many different people see their product listings. [Learn more](https://policies.google.com/privacy/google-partners) about these partners and how they use your information.
+
+### servers around the world
+
+For example, we operate data centers located [around the world](https://www.google.com/about/datacenters/inside/locations) to help keep our products continuously available for users.
+
+### third parties
+
+For example, we process your information to report use statistics to rights holders about how their content was used in our services. We may also process your information if people search for your name and we display search results for sites containing publicly available information about you.
+
+### appropriate safeguards
+
+For example, we may anonymize data, or encrypt data to ensure it can’t be linked to other information about you. [Learn more](https://policies.google.com/technologies/anonymization)
+
+### ensure and improve
+
+For example, we analyze how people interact with advertising to improve the performance of our ads.
+
+### Customizing our services
+
+For example, we may display a Google Doodle on the Search homepage to celebrate an event specific to your country.
+
+### Affiliates
+
+An affiliate is an entity that belongs to the Google group of companies, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp, and Google Dialer Inc. Learn more about the [companies providing business services in the EU](https://privacy.google.com/businesses/affiliates).
+
+### Algorithm
+
+A process or set of rules followed by a computer in performing problem-solving operations.
+
+### Application data cache
+
+An application data cache is a data repository on a device. It can, for example, enable a web application to run without an internet connection and improve the performance of the application by enabling faster loading of content.
+
+### Browser web storage
+
+Browser web storage enables websites to store data in a browser on a device. When used in "local storage" mode, it enables data to be stored across sessions. This makes data retrievable even after a browser has been closed and reopened. One technology that facilitates web storage is HTML 5.
+
+### Cookies and similar technologies
+
+A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the site again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can configure your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. Learn more about [how Google uses cookies](https://policies.google.com/technologies/cookies) and how Google uses data, including cookies, [when you use our partners' sites or apps](https://policies.google.com/technologies/partner-sites).
+
+### Device
+
+A device is a computer that can be used to access Google services. For example, desktop computers, tablets, smart speakers, and smartphones are all considered devices.
+
+### Non-personally identifiable information
+
+This is information that is recorded about users so that it no longer reflects or references an individually-identifiable user.
+
+### IP address
+
+Every device connected to the Internet is assigned a number known as an Internet protocol (IP) address. These numbers are usually assigned in geographic blocks. An IP address can often be used to identify the location from which a device is connecting to the Internet.
+
+### Pixel tag
+
+A pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened. Pixel tags are often used in combination with cookies.
+
+### Personal information
+
+This is information that you provide to us which personally identifies you, such as your name, email address, or billing information, or other data that can be reasonably linked to such information by Google, such as information we associate with your Google Account.
+
+### Sensitive personal information
+
+This is a particular category of personal information relating to topics such as confidential medical facts, racial or ethnic origins, political or religious beliefs, or sexuality.
+
+### Server logs
+
+Like most websites, our servers automatically record the page requests made when you visit our sites. These “server logs” typically include your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+
+A typical log entry for a search for “cars” looks like this:
+    
+    
+    123.45.67.89 - 25/Mar/2003 10:15:32 -  
+    http://www.google.com/search?q=cars -  
+    Firefox 1.0.7; Windows NT 5.1 -  
+    740674ce2123e969
+
+  * `123.45.67.89` is the Internet Protocol address assigned to the user by the user’s ISP. Depending on the user’s service, a different address may be assigned to the user by their service provider each time they connect to the Internet.
+  * `25/Mar/2003 10:15:32` is the date and time of the query.
+  * `http://www.google.com/search?q=cars` is the requested URL, including the search query.
+  * `Firefox 1.0.7; Windows NT 5.1` is the browser and operating system being used.
+  * `740674ce2123a969` is the unique cookie ID assigned to this particular computer the first time it visited Google. (Cookies can be deleted by users. If the user has deleted the cookie from the computer since the last time they’ve visited Google, then it will be the unique cookie ID assigned to their device the next time they visit Google from that particular device).
+
+
+
+### Unique identifiers
+
+A unique identifier is a string of characters that can be used to uniquely identify a browser, app, or device. Different identifiers vary in how permanent they are, whether they can be reset by users, and how they can be accessed.
+
+Unique identifiers can be used for various purposes, including security and fraud detection, syncing services such as your email inbox, remembering your preferences, and providing personalized advertising. For example, unique identifiers stored in cookies help sites display content in your browser in your preferred language. You can configure your browser to refuse all cookies or to indicate when a cookie is being sent. Learn more about [how Google uses cookies](https://policies.google.com/technologies/cookies).
+
+On other platforms besides browsers, unique identifiers are used to recognize a specific device or app on that device. For example, a unique identifier such as the Advertising ID is used to provide relevant advertising on Android devices, and can be [managed](https://policies.google.com/technologies/ads) in your device’s settings. Unique identifiers may also be incorporated into a device by its manufacturer (sometimes called a universally unique ID or UUID), such as the IMEI-number of a mobile phone. For example, a device’s unique identifier can be used to customize our service to your device or analyze device issues related to our services.
