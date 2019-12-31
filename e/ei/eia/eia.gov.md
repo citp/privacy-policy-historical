@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eia.gov privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627024344id_/https%3A//www.eia.gov/about/privacy_security_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eia.gov privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231040843id_/https%3A//www.eia.gov/about/privacy_security_policy.php) for the most accurate reproduction.*
 
 # About EIA - Policies - U.S. Energy Information Administration (EIA)
 
