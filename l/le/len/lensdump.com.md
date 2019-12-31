@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lensdump.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629050510id_/https%3A//lensdump.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lensdump.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231041216id_/https%3A//lensdump.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy - Lensdump
 
@@ -39,7 +39,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 #### _**Google Adsense & DoubleClick DART Cookie**_
 
-Google, a third party vendor, uses the DART cookie to serve ads on lensdump (collectively “DigitFreak” or “subsidiary Site”). Users may opt out of the use of the DART cookie by visiting [Google's Content Network Privacy Policy](http://www.google.com/privacy/ads/).
+Google, a third party vendor, uses the DART cookie to serve ads on lensdump (collectively “DigitFreak” or “subsidiary Site”). Users may opt out of the use of the DART cookie by visiting [Google's Content Network Privacy Policy](https://www.google.com/privacy/ads/).
 
 You can read [Terms of service](https://www.google.com/adsense/terms) and [Google Ad Local (Localized terms of service)](https://www.google.com/adsense/localized-terms) and [Google ad Policy](https://www.google.com/adsense/support/as/bin/answer.py?answer=48182) so that you agree with them before browsing the website any further.
 
