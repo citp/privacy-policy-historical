@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siddhayoga.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630095541id_/https%3A//www.siddhayoga.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siddhayoga.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231185743id_/https%3A//www.siddhayoga.org/privacy) for the most accurate reproduction.*
 
-# SYDA Foundation Privacy Policy
+# SYDA Foundation Privacy Policy | Siddha Yoga Path
 
 **Privacy Policy posted on 08/19/2018 (Effective Date)**
 
@@ -140,12 +140,12 @@ You have the right to the following actions:
   * Users will be made aware of these changes by the change of the effective date at the top of this Privacy Policy.
   * If SYDA makes a change that it reasonably believes may materially affect how it collects, discloses, or otherwise shares your personal information, SYDA will post a separate notice to that effect at the top of the revised Privacy Policy.
   * Any changes made to this Privacy Policy will apply to any personal information that you provide to SYDA on or after the effective date of such changes and any information previously collected from you by SYDA.
-  * If you do not agree with the revised terms of this Privacy Policy, you may terminate your use of the Sites and contact SYDA to unsubscribe from any emails it sends at [webmaster@syda.org](mailto:webmaster@syda.org) or by mailing us at SYDA Foundation, 371 Brickman Road, P.O. Box 600, South Fallsburg, NY 12779.
+  * If you do not agree with the revised terms of this Privacy Policy, you may terminate your use of the Sites and contact SYDA to unsubscribe from any emails it sends at [webmaster@syda.org](mailto:webmaster@syda.org) or by mailing us at SYDA Foundation, P.O. Box 600, South Fallsburg, NY 12779.
 
 
 
 ## Questions or Concerns
 
-  * If you have any questions about this Privacy Policy or the Sites, please contact SYDA via email at [webmaster@syda.org](mailto:webmaster@syda.org) or by postal mail at SYDA Foundation, 371 Brickman Road, P.O. Box 600, South Fallsburg, NY 12779.
+  * If you have any questions about this Privacy Policy or the Sites, please contact SYDA via email at [webmaster@syda.org](mailto:webmaster@syda.org) or by postal mail at SYDA Foundation, P.O. Box 600, South Fallsburg, NY 12779.
 
 
