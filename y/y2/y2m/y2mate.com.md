@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the y2mate.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505004314id_/https%3A//y2mate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y2mate.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231151538id_/https%3A//y2mate.com/privacy-policy) for the most accurate reproduction.*
 
-# Y2mate.com policy - The best Youtube converter online
+# Y2mate.com policy - Y2mate YouTube converter & downloader
 
 **PRIVACY POLICY**
 
@@ -8,7 +8,7 @@ Here at Muvi Office, doing business as Muviapp (“Company,” “we,” “us,�
 
 By visiting or using the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, process and share your information as described herein.
 
-Any capitalized terms used herein without definition shall have the meaning given to them in the End User License Agreement: www.muviapp.com/terms.
+Any capitalized terms used herein without definition shall have the meaning given to them in the End User License Agreement: y2mate.com/terms-of-service.
 
 I. PRIVACY PRINCIPLES
 
@@ -24,7 +24,7 @@ II. WHAT DOES THIS PRIVACY POLICY COVER?
 
 This Privacy Policy covers our treatment of information that we gather when you are accessing or using our Services. This policy does not apply to the practices of companies that we do not own or control (including, without limitation, the third party content providers from whom you may receive content through the Services), or to individuals that we do not employ or manage.
 
-Company does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for the Website or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to Company or on the Website. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [info@muviapp.com](mailto:info@muviapp.com).
+Company does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for the Website or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to Company or on the Website. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [m.me/y2mate.tv](https://m.me/y2mate.tv).
 
 III. WHAT INFORMATION DOES MUVIAPP COLLECT?
 
@@ -88,4 +88,4 @@ If we are required to provide notice of unauthorized access or other invasion of
 
 X. QUESTIONS OR CONCERNS
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to info@Muviapp.com
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to : [m.me/y2mate.tv](https://m.me/y2mate.tv)
