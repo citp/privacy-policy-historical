@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airnow.gov privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231654id_/http%3A//www.epa.gov/epafiles/usenotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airnow.gov privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231041035id_/http%3A//www.epa.gov/epafiles/usenotice.htm) for the most accurate reproduction.*
 
 # Privacy and Security Notice | EPA's Implementation of the Privacy Act | US EPA
 
@@ -14,7 +14,7 @@ This page explains how we will handle information we learn about you from your v
     * How the information is used
     * How e-mail is handled
     * Personal information via forms
-    * EPA and Social Media or Third Party Sites
+    * EPA and social media or third-party sites
   * **Security**
 
 
