@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223644id_/https%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231185322id_/https%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4shared.com - free file sharing and storage - Privacy Policy
 
@@ -8,11 +8,11 @@ We reserve the right to change the provisions of this Policy at any time. We wil
 
 ### 1\. Personal Data Collection and Use
 
-#### 1.1 Data You Choose to Provide to Us
+#### 1.1. Data You Choose to Provide to Us
 
 4shared collects Personal Data during your registration at our Digital Purposes, when you choose to provide it, such as your name and email address.
 
-The decision to provide such data is optional. However, if you choose not to register or provide this data, you may not be able to access certain features or services, available within our Digital Properties.
+The decision to provide such data is optional. However, if you choose not to register or provide this data, you may not be able to access certain features or services available within our Digital Properties.
 
 Your consent to the collection and use of Personal Data will be logged by us.
 
@@ -26,7 +26,7 @@ You may unsubscribe from our newsletters and marketing emails anytime.
 
 For further info about your consent withdrawal and other opt-out options, please refer to "Your Choice and Control" section of this Privacy Policy, below.
 
-#### 1.2 Personal Data Obtained from the Use of our Digital Properties
+#### 1.2. Personal Data Obtained from the Use of our Digital Properties
 
 We may also collect additional data through our Digital Properties that may include (a combination of) Personal Data elements, such as:
 
@@ -53,33 +53,33 @@ The collected Personal Data may be used for such purposes as:
 
 
 
-#### 1.3 Personal Data Obtained from Other Sources
+#### 1.3. Personal Data Obtained from Other Sources
 
 4shared allows you to sign up and log in using your Facebook, Twitter or Google accounts.
 
-#### \- Facebook
+#### a. Facebook
 
 If you sign up using Facebook, Facebook will ask your permission to share certain information from your Facebook account with 4shared. This information is collected by Facebook and is provided to us under the Terms of Facebook Data Policy.
 
-For more details, please visit: [facebook.com/about/privacy](https://www.facebook.com/about/privacy). 
+For more details, please visit: <https://www.facebook.com/about/privacy>. 
 
-#### \- Twitter
+#### b. Twitter
 
 If you sign up using Twitter, Twitter will ask your permission to share certain information from your Twitter account with 4shared. This information is collected by Twitter and is provided to us under the Terms of Twitter Privacy Policy.
 
-For more details, please visit [twitter.com/privacy](https://twitter.com/privacy). 
+For more details, please visit: <https://twitter.com/privacy>. 
 
-#### \- Google
+#### c. Google
 
 If you sign up using Google, Google will ask your permission to share certain information from your Google account with 4shared. This information is collected by Google and is provided to us under the Terms of Google Privacy Policy.
 
-For more details, please visit: [policies.google.com/privacy](https://policies.google.com/privacy).
+For more details, please visit: <https://policies.google.com/privacy>.
 
 ### 2\. Use of Cookies and Similar Technology
 
 We may also automatically collect certain Personal Data through the use of cookies, beacons and other similar technology to collect aggregated statistics related to the use of our Apps and Services and improve the performance of our Digital Properties.
 
-#### \- Service Provision Cookies
+#### a. Service provision cookies
 
 While you are visiting the Website, our web servers for the operation of the Service temporarily collect general technical information, in particular about the software and hardware you use, the IP address of the requesting computer, which websites you have visited and when, and the Duration of your visit.
 
@@ -89,7 +89,7 @@ We use such service provision cookie technology to help you navigate our Website
 
 In case of a user login, however, we set a cookie, which then remains stored to enable automatic login (permanent cookie).
 
-#### \- Service Performance Cookies
+#### b. Service performance cookies
 
 We may use third-party analytics and research services, such as Google Analytics to better understand how visitors interact with our Digital Properties, e.g. collect data such as where visitors came from, what actions they took, and where visitors went when they left Digital Properties.
 
@@ -97,21 +97,15 @@ We may use third-party analytics and research services, such as Google Analytics
 
 We use this information to improve your experience when visiting our Digital Properties. We may also work with other partners to conduct research surveys in order to improve the user experience on our Digital Properties.
 
-For more information on data collection via Google Analytics cookie technology, please refer to Google Analytics privacy practices: [support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245)
+For more information on data collection via Google Analytics cookie technology, please refer to Google Analytics privacy practices: <https://support.google.com/analytics/answer/6004245>. 
 
-For details on how to opt out from data collection via Google Analytics cookie technology, please refer to the opt-out instructions: [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
-
-If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions.
-
-However, if you choose to remove or reject cookies, this could affect certain features or services made available via the Service. Moreover, if you delete cookies after previously opting out of 4shared practices, you may need to renew your opt-out choice.
-
-For more information about cookies, please visit [www.allaboutcookies.org](https://www.allaboutcookies.org/)
+For details on how to opt out of cookies, please refer to "Your Choice and Control" section of this Privacy Policy, below.
 
 ### 3\. Disclosure of Personal Data to Third Parties, Onward Transfer
 
 We may share (a combination of) Personal Data elements with:
 
-#### \- Third-party Service Providers
+#### a. Third-party service providers
 
 We may share your Personal Data with third-party service providers who may assist us in responding to your inquiries or requests, or otherwise perform some business or operational function for us.
 
@@ -119,7 +113,7 @@ We require that such third-party service providers confirm their Personal Data P
 
 Any use of Personal Data by such Service Providers for the purposes other than performing business or operational function for 4shared and its Digital Properties is strictly prohibited.
 
-#### \- Third-party Advertising Partners
+#### b. Third-party advertising partners
 
 We partner with third-party ad networks to display advertising within our Digital Properties. Our ad network partners use Web beacons and log files to collect data about your activities on our Digital Properties to provide you targeted advertising based upon your interests.
 
@@ -127,83 +121,11 @@ This data is collected, stored and disclosed in the pseudonymized manner and can
 
 The use of cookies and beacons by our partners is not covered by our privacy statement. We do not have access or control over these cookies.
 
-#### \- Third-party targeted interest-based advertising data providers
+#### c. Third-party targeted interest-based advertising data providers
 
 We may also disclose some Personal Data, in the pseudonymized manner, with third-party targeted interest-based advertising data providers for the purpose of facilitating advertising services for their customers, such as ad networks and other third-party websites and applications.
 
-For more details on collection, use and disclosure of Personal Data, and instructions on how to opt out of interest-based advertising, please refer to information provided below or visit websites of advertising networks and data providers:
-
-**Airpush, Inc.** collects Data relating to your use of 4shared App, other apps and your device, in a pseudonymized manner, that may include (a combination of) Personal Data elements, such as:
-
-  * Bluetooth beacon data
-  * Hashed or encrypted values of your email or phone number
-  * Geolocation, and
-  * other permission-based user information.
-
-
-
-You will see the ↓ icon whenever data is being collected. Collected data will be shared with third parties for advertising, analytics and market research purposes.
-
-For further information about Airpush, Inc.'s data collection and use practices, please see Airpush, Inc.'s [Technology Privacy Statement](http://www.airpush.com/technology_privacy/) and [Privacy Policy](http://www.airpush.com/privacypolicy/). To opt out of data collection by AirPush, Inc., please use the [AirPush, Inc. opt-out link](https://optout.mobi.info/).
-
-**OpenSignal** collects data on mobile network coverage and performance. We use the crowdsourced data collected from users' devices to publish reports and metrics on mobile network experience. You can see the reports we publish here: <http://opensignal.com/reports>
-
-OpenSignal is the independent global standard for measuring real-world mobile network experience. We believe measuring how the network performs directly through users' eyes is key to building better wireless networks.
-
-To read more about the data we collect and our privacy policy please follow the link <http://opensignal.com/privacypolicy-for-crowdsourcedata.com>
-
-**Epom Ltd.** may collect data related to the use of 4shared apps, other apps and user's device, that may include (a combination of) Personal Data elements, such as geographical location, network performance, and other permission-based information.
-
-Data is collected and treated anonymously and shared with other partners so that users can receive more effective ads in the 4shared applications. For more details please refer to [Epom's Privacy Policy](https://apps.epom.com/privacy-policy).
-
-**Unacast, Inc.** collects Data in a relating to your use of our apps, other apps and your device, that may include (a combination of) Data elements, such as:
-
-  * Precise geolocation data
-  * Unique advertising IDs
-  * Usage data (IP Address, device type, device carrier, timestamp, etc.)
-
-
-
-Unacast, Inc. will use the Data collected about you for the following purposes, including but not limited to:
-
-  * Customize ads in this app and in other apps
-  * Market research and other research
-
-
-
-Please see [Unacast's Privacy Policy](https://www.unacast.com/privacy/policy) for more information and trusted partners listed below.
-
-**Tutela Technologies Ltd.** collects data relating to your use of our apps, other apps and your device, that may include (a combination of) Personal Data elements, such as:
-
-  * Location
-  * Wireless network performance, usage, and identifiers, and
-  * other permission-based user information.
-
-
-
-Data is shared with wireless service providers and other third parties who use it to analyze aggregate consumer mobile trends, improve your wireless networks, and conduct cyber-security research.
-
-Outside of GDPR participating countries, mobile advertiser ID may be shared for network marketing and advertising purposes in accordance with the Digital Advertising Alliance principles. No data is stored by Tutela for longer than 12 months.
-
-For further information about Tutela's data practices, including technical and organisational measures to ensure that personal data are not attributed to an identifiable natural person, please see the [Privacy Charter](https://public.tutela.com/TutelaPrivacyCharter.pdf).
-
-To opt out of data sharing with Tutela, please utilize the opt-out measures provided in the privacy statement, contact data.protection.officer@tutela.com, or contact us at [legal@4shared.com](mailto:legal@4shared.com). 
-
-**Oracle America, Inc.** We share data relating to your use of 4shared App, other apps and your device, in a pseudonymized manner, that may include (a combination of) Personal Data elements, such as:
-
-  * Online behavioral information
-  * IP address
-  * Interest data
-  * Unique advertising IDs
-
-
-
-Oracle will use the Data we share about you to for the following purposes, including but not limited to:
-
-  * Creation of segments for targeted advertising and marketing purposes;
-  * Oracle's internal system improvements, product improvement, statistical analysis, and research, and development. 
-
-
+For more details on the collection, use and disclosure of Personal Data, and instructions on how to opt out of interest-based advertising, please refer to information provided below or visit websites of advertising networks and data providers:
 
 **Predicio** collects the following information:
 
@@ -217,49 +139,7 @@ Oracle will use the Data we share about you to for the following purposes, inclu
 
 To read more about the data and opt-out of the collection please follow the link <http://www.predic.io/privacy>
 
-**X-Mode Social, Inc.** collects data in a relating to your use of our apps, other apps and your device, that may include (a combination of) Data elements, such as:
-
-  * Precise geolocation data
-  * Unique advertising IDs
-  * Usage data (IP Address, device type, device carrier, timestamp, etc.)
-
-
-
-X-Mode will use the Data collected about you for the following purposes, including but not limited to:
-
-  * Customize ads in this app and in other apps
-  * Market research and other research
-
-
-
-Please see [X-Mode's Privacy Policy](http://xmode.io/privacy-policy.html) for more information and trusted partners listed below.
-
-**Complementics** collects Data relating to your use of 4shared App, other apps and your device, in a pseudonymized manner, that may include (a combination of) Personal Data elements, such as:
-
-  * Hashed or encrypted values of your email or phone number
-  * Geolocation, and
-  * other permission-based user information.
-
-
-
-Privacy and Opt-Out Options: for further information about Complementics data collection and use practices, please see Complementics [Privacy Policy](https://www.complementics.com/privacy). To opt out of data collection by Complementics, please use the Complementics [opt-out link](https://www.complementics.com/opt-out).
-
-**Factual, Inc.** collects data in a relating to your use of our apps, other apps and your device, that may include (a combination of) Data elements, such as:
-
-  * Precise geolocation data
-  * Unique advertising IDs
-  * Usage data (IP Address, device type, device carrier, timestamp, etc.)
-
-
-
-Factual, Inc. will use the Data collected about you for the following purposes, including but not limited to:
-
-  * Customize and measure the effectiveness of ads;
-  * Market research and other insights.
-
-
-
-**In Loco**. The 4shared app contains the geolocation technology owned by IN LOCO INFORMATION TECHNOLOGY S.A. ("In Loco"). This technology allows capturing location data from your mobile device, which is collected and treated anonymously by In Loco so that you can receive more effective ads in the 4shared application. By accepting this Privacy Policy, you declare to be aware of and agree to the collection and processing of your data by In Loco, as provided in [In Loco's Privacy Policy](https://s3.amazonaws.com/blog.inlocomedia.com/In+Loco+Media+-+Privacy+Policy+%5BEN%5D.pdf).
+* * *
 
 **MobKnow.** We share data relating to your use of 4shared Apps, other apps and your device, in a pseudonymized manner, that may include (a combination of) Personal Data elements, such as:
 
@@ -286,77 +166,13 @@ For further information about MobKnow data practices, including technical and or
 
 To opt out of data sharing with MobKnow, please utilize the opt-out measures provided in the privacy statement, contact [DPO@mobknow.com](mailto:DPO@mobknow.com), or contact us at [legal@4shared.com](mailto:legal@4shared.com).
 
-[**ResultsData**](https://data.resultsmedia.com/privacy_policy.html) will use anonymized user data for online targeted advertising throughout the user's browsing experience.
+* * *
 
-**Pubmint GmbH** may collect anonymous data through anonymous tracking technologies that record such events as related to your activity and device, that may include (a combination of) Personal Data elements, such as:
+**ResultsData** will use anonymized user data for online targeted advertising throughout the user's browsing experience.
 
-  * socio-demographic data (e.g. age range)
-  * device-related data (type, operating system, version)
-  * app usage data (including app installation, uninstallation)
-  * unique Advertising IDs
+For more information, please refer to ResultsData [Privacy Policy](https://data.resultsmedia.com/privacy_policy.html).
 
-
-
-The personal data transferred may be subject to the following basic processing activities:
-
-  * to serve Pubmint ads in mobile applications
-  * personalize advertising
-  * enhance ad effectiveness and relevance
-  * provide reporting for internal and external clients
-  * improve Pubmint Services and Platform
-  * conduct research
-
-
-
-For further information about Pubmint data practices, including technical and organizational measures to ensure that personal data are not attributed to an identifiable natural person, please see the Pubmint [Privacy Policy](https://www.pubmint.com/privacy).
-
-To opt out of data sharing with Pubmint, please utilize the opt-out measures provided in the privacy statement, contact [operations@pubmint.com](mailto:operations@pubmint.com), or contact us at [legal@4shared.com](mailto:legal@4shared.com).
-
-**ElephantData Ltd.** collects data relating to your use of 4shared Apps, other apps and your device, in a pseudonymized manner, that may include (a combination of) Personal Data elements, such as:
-
-  * IP address
-  * device-related data (including CPU core number, RAM, ROM, screen size and model)
-  * network data (e.g. network type, operator)
-  * unique Advertising IDs
-  * app usage data (including app installation, uninstallation, update)
-
-
-
-ElephantData does not collect or disclose any sensitive personal information (e.g. information related to racial or ethnic origin, political opinions, religion or other beliefs, health, sexual orientations).
-
-The personal data transferred may be subject to the following basic processing activities:
-
-  * to operate and improve ElephantData services
-  * find out the reason why the error occurred or application crashed and
-  * improve the quality of the application
-  * better understand how users access and use the application
-  * help ElephantData develop new services.
-
-
-
-For further information about ElephantData data practices, including technical and organizational measures to ensure that personal data are not attributed to an identifiable natural person, please see the ElephantData [Privacy Policy](http://www.elephantdata.net/file/elephantData_PrivacyPolicy.pdf).
-
-To opt out of data sharing with ElephantData, please utilize the opt-out measures provided in the privacy statement, contact [service@elephantdata.net](mailto:service@elephantdata.net), or contact us at [legal@4shared.com](mailto:legal@4shared.com).
-
-**Tiendeo Web Marketing SL** collects data relating to your use of 4shared App and your device, in a pseudonymized manner, that may include (a combination of) Personal Data elements, such as:
-
-  * device location (longitude and latitude)
-  * unique Advertising IDs (IDFA/GAID)
-
-
-
-The personal data transferred may be subject to the following basic processing activities:
-
-  * for purposes of contractual compliance
-  * for purposes of legitimate interest to offer possible service improvements
-  * for purposes of promotion and/or profiling by express consent
-  * to offer personalized and geolocated promotions
-
-
-
-For further information about Tiendeo data practices, including technical and organizational measures to ensure that personal data are not attributed to an identifiable natural person, please see the Tiendeo [Privacy Policy](https://www.tiendeo.com/info/en/legal-notice-en).
-
-To opt out of data sharing with Tiendeo, please utilize the opt-out measures provided in the privacy statement, deactivate location permission, contact [dpo@tiendeo.com](mailto:dpo@tiendeo.com), or contact us at [legal@4shared.com](mailto:legal@4shared.com).
+* * *
 
 **adsquare GmbH.** We share data relating to your use of 4shared Apps, other apps and your device, in a pseudonymized manner, that may include (a combination of) Personal Data elements, such as:
 
@@ -383,10 +199,300 @@ For further information about adsquare data practices, including technical and o
 
 To opt out of data sharing with adsquare, please utilize the opt-out measures provided in the privacy statement, contact [privacy@adsquare.com](mailto:privacy@adsquare.com), or contact us at [legal@4shared.com](mailto:legal@4shared.com).
 
-For more details, please refer to opt-out instructions on websites of self-regulatory organizations:
+* * *
+
+**OpenSignal** collects data on mobile network coverage and performance. We use the crowdsourced data collected from users' devices to publish reports and metrics on mobile network experience. You can see the reports we publish here: <http://opensignal.com/reports>
+
+OpenSignal is the independent global standard for measuring real-world mobile network experience. We believe measuring how the network performs directly through users' eyes is key to building better wireless networks.
+
+To read more about the data we collect and our privacy policy please follow the link <http://opensignal.com/privacypolicy-for-crowdsourcedata.com>
+
+* * *
+
+**Tutela Technologies Ltd.** collects data relating to your use of our apps, other apps and your device, that may include (a combination of) Personal Data elements, such as:
+
+  * Location
+  * Wireless network performance, usage, and identifiers, and
+  * other permission-based user information.
+
+
+
+Data is shared with wireless service providers and other third parties who use it to analyze aggregate consumer mobile trends, improve your wireless networks, and conduct cyber-security research.
+
+Outside of GDPR participating countries, mobile advertiser ID may be shared for network marketing and advertising purposes in accordance with the Digital Advertising Alliance principles. No data is stored by Tutela for longer than 12 months.
+
+For further information about Tutela's data practices, including technical and organisational measures to ensure that personal data are not attributed to an identifiable natural person, please see the [Privacy Charter](https://public.tutela.com/TutelaPrivacyCharter.pdf).
+
+To opt out of data sharing with Tutela, please utilize the opt-out measures provided in the privacy statement, contact data.protection.officer@tutela.com, or contact us at [legal@4shared.com](mailto:legal@4shared.com). 
+
+* * *
+
+**Neustar Information Services, Inc.** may collect, use, and disclose various types of information, including:
+
+  * pseudonymous IDs including information linked to DIIs (Device Identifiable Data) such as Cookies, MAID (Mobile Advertising IDs), Statistical IDs, IP Addresses,and other third-party identifiers that do not, by themselves, identify a specific individual,
+  * geolocation or Latitude/Longitude data that are, or are rendered, imprecise.
+
+
+
+Neustar Information Services, Inc. will use the collected data for the following purposes, including but not limited to:
+
+  * marketing solutions development,
+  * targeted advertising and remarketing,
+  * user analytics,
+  * fraud and operational intelligence,
+  * security solutions.
+
+
+
+For further information about Neustar data practices, please refer to Neustar [Privacy Policy](https://www.home.neustar/privacy).
+
+To opt out from data sharing with Neustar, please visit <https://www.home.neustar/privacy/opt-out>.
+
+* * *
+
+**TrueData Solutions, Inc.** may collect the following data elements, including:
+
+  * mobile advertising identifiers such as IDFA and Google AdID,
+  * location data,
+  * device and hardware data,
+  * application install data,
+  * other types of user-level data.
+
+
+
+TrueData Solutions, Inc. may utilize the collected information with agencies, brands, and other companies that use mobile data for various advertising services such as mobile ad targeting, ad and audience analytics.
+
+For further information about TrueData Solutions, Inc.data practices, please refer to TrueData [Privacy Policy](https://www.truedata.co/privacy-policy/).
+
+To opt out of data sharing with TrueData, please refer to <https://info.truedata.co/are-you-in> or email TrueData directly at [privacy@truedata.co](mailto:privacy@truedata.co).
+
+Company | Data that may be collected | Scope of Usage | Opt-out options  
+---|---|---|---  
+Predicio | 
+
+  * MAID
+  * Mobile OS
+  * Device information
+  * Location
+  * Encrypted MD5 email (if in-app sign-in available)
+  * List of installed apps
+
+| Marketing and communications, including to:
+
+  * predict users' interests and preferences for interest-based advertising
+  * tailor ads to a particular location
+  * determine how users respond to certain ads, etc.
+
+More info: <http://www.predic.io/privacy> |  To opt out, please send an email to:  
+
+
+  * [legal@predic.io](mailto:legal@predic.io), or
+  * [legal@4shared.com](mailto:legal@4shared.com).
+
+  
+MobKnow | 
+
+  * IP address
+  * MAID
+  * Device information (ID, brand, model, network, provider)
+  * List of installed apps
+  * Location data
+
+|  Basic processing activities include:
+
+  * providing advertising and app monetization experience,
+  * customer service activities, such as processing orders, payment processing, technical support and improving offerings,
+  * consulting, professional, security, storage, hosting and other related services
+  * internal business processes and management, age verification or authentication purposes, fraud detection and prevention, and compliance with governmental, legislative and regulatory bodies,
+  * sales and marketing.
+
+More info: <https://mobknow.com/privacy_policy/> |  To opt out, please send an email to:  
+
+
+  * [DPO@mobknow.com](mailto:DPO@mobknow.com), or
+  * [legal@4shared.com](mailto:legal@4shared.com).
+
+  
+ResultsData | 
+
+  * MAID
+  * Device information (OS, manufacturer, model)
+  * Location data
+
+|  Marketing & targeted advertising purposes
+
+More info: <https://data.resultsmedia.com/privacy_policy.html>
+
+|  To opt out, please send an email to:  
+
+
+  * [dpo@resultsmedia.com](mailto:dpo@resultsmedia.com), or
+  * [legal@4shared.com](mailto:legal@4shared.com).
+
+  
+adsquare GmbH | 
+
+  * MAID
+  * IP address
+  * Location data
+  * Aggregated (anonymized) data: audience data segments (list of installed apps)
+
+|  Online marketing purposes, throughout ‘Audience Management Platform’ ("AMP"), e.g. for
+
+  * predicting users' interests and preferences for interest-based advertising,
+  * ad tailoring to a particular location and users' location behavior,
+  * determining how users respond to certain ads
+  * cross-device targeting in order to serve or measure advertising on related devices,
+  * reporting aggregated statistics regarding, for example, the effectiveness of digital advertising campaigns,
+  * provision, operation, management, maintenance, and enhancements of the AMP.
+
+More info: <https://www.adsquare.com/privacy/> |  To opt out, please send an email to:  
+
+
+  * [privacy@adsquare.com](mailto:privacy@adsquare.com), or
+  * [legal@4shared.com](mailto:legal@4shared.com).
+
+  
+OpenSignal, Inc. | Aggregated anonymous data:  
+
+
+  * Location
+  * Network diagnostic information
+  * Sensor diagnostic information
+  * Usage of our app
+
+|  Statistics aggregation & analysis of network's service coverage, performance and signal quality.
+
+More info: <https://opensignal.com/privacypolicy>
+
+|  To opt out, please send an email to: [legal@4shared.com](mailto:legal@4shared.com).   
+Tutela Technologies Ltd. | 
+
+  * Location
+  * Wireless network performance, usage
+  * MAID
+  * Other permission-based user information.
+
+|  Purposes of usage include:
+
+  * analysis of aggregated consumer mobile trends,
+  * improvement of wireless networks,
+  * cyber-security research, etc.
+
+Outside of GDPR participating countries, mobile advertiser ID may be shared for network marketing and advertising purposes in accordance with the Digital Advertising Alliance principles.  
+More info: <https://public.tutela.com/TutelaPrivacyCharter.pdf> |  To opt out, please send an email to:  
+
+
+  * [data.protection.officer@tutela.com](mailto:data.protection.officer@tutela.com), or
+  * [legal@4shared.com](mailto:legal@4shared.com).
+
+  
+Neustar Information Services, Inc. |  (1) Pseudonymous IDs including information linked to DIIs (Device Identifiable Data) such as:  
+
+
+  * Cookies,
+  * MAID,
+  * Statistical IDs,
+  * IP Address, and
+  * other third-party identifiers that do not, by themselves, identify a specific individual.
+
+(2) Geolocation or Latitude/Longitude data that are, or are rendered, imprecise.  |  Purposes of usage include:
+
+  * marketing solutions development,
+  * targeted advertising and remarketing,
+  * user analytics,
+  * fraud and operational intelligence,
+  * security solutions, etc.
+
+More info: <https://www.home.neustar/privacy> |  Opt out via a webpage <https://www.home.neustar/privacy/opt-out>, or send us an email at [legal@4shared.com](mailto:legal@4shared.com).   
+TrueData Solutions, Inc. | 
+
+  * MAID such as IDFA and Google AdID,
+  * Location data,
+  * Device and hardware data,
+  * List of installed apps
+  * Hashed email
+  * IP address
+
+|  The collected data may be utilized in partnership with agencies, brands, and other companies that use mobile data for various advertising services, such as:
+
+  * mobile ad targeting,
+  * ad and audience analytics.
+
+More info: <https://www.truedata.co/privacy-policy/> |  Opt out via a webpage <https://info.truedata.co/are-you-in>, or send an email to: 
+
+  * [privacy@truedata.co](mailto:privacy@truedata.co), or
+  * [legal@4shared.com](mailto:legal@4shared.com).
+
+  
+  
+For more information and available opt-out mechanisms, regarding interest-based advertising, please refer to "Your Choice and Control" section of this Privacy Policy, below.
+
+#### d. Legally required disclosure. Additional notes
+
+We may also disclose your Personal Data if required by law, including without limitation, by search warrant, subpoena or court order; to protect our and third-party rights; and for purposes disclosed at the time of collection.
+
+### 4\. Your Choice and Control
+
+We do our best to provide you choice and control, with regard to Personal Data and other information you provide to us.
+
+It is not necessary for you to provide us with any Personal Data in order to visit our Website and use our Services, although certain information is being collected automatically during your visit (as described above).
+
+#### 4.1. Opting Out of Cookies
+
+To opt out of data collection via Google Analytics cookie technology, please refer to the Google's opt-out instructions at [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+
+If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions.
+
+For more information on how to manage cookies in your web-browser, please refer to [www.allaboutcookies.org](https://www.allaboutcookies.org/).
+
+If you register a 4shared account, you can control your Personal Data in a number of ways within your your 4shared account settings on our Website.
+
+#### 4.2. Right to Withdraw Consent
+
+You may withdraw your consent to the collection and use of Personal Data by 4shared - generally or with regard to the additionally voluntarily communicated data in accordance with effect for the future.
+
+However, in the event of your cancellation, certain features that require registration may no longer be provided. This does not apply to the revocation to collect further voluntary data, provided to us.
+
+To withdraw your consent to the collection and use of your Personal Data by 4shared, please send us a corresponding inquiry via email [legal@4shared.com](mailto:legal@4shared.com).
+
+#### 4.3. Opting Out of Newsletters and Marketing Emails
+
+To unsubscribe from our newsletters and marketing emails:
+
+  1. Sign in your 4shared account via our Website.
+  2. Go to your 4shared account Settings.
+  3. In the Account Overview tab, select (unmark) email notifications (if any) you wish to unsubscribe from. 
+  4. Click "Save changes".
+
+
+
+You may also unsubscribe from our newsletters and marketing emails by clicking on the Unsubscribe links, provided in such emails.
+
+#### 4.4. Opting Out of Personal Data Disclosure to Social Networks
+
+The Social Networks tab within your account Settings on our Website enables you to control the information you share with social networks via connected accounts.
+
+To opt out of your data collection by Facebook, Twitter or Google, use the "Disconnect" option for the corresponding account in the Social Networks tab within your 4shared account Settings on our Website.
+
+#### 4.5. Opting Out of Personal Data Disclosure to Other Users
+
+4shared doesn't claim ownership of Your Content.
+
+4shared doesn't use what you say in email, chat, your files, documents, photos, videos and other Content to target advertising to you.
+
+4shared enables you to store or share Your Content, access or download content, shared by other users. When you share Your Content with others, you acknowledge that they may be able to save, record, reproduce, share, transmit, broadcast, display or otherwise use Your Content without providing any compensation to you.
+
+If any of your Content contains (a combination of) Personal Data elements or any other information that you would not like to share, you can limit other users' access to this Content within your 4shared account - by making a file "Private" or setting up "Private access" to a folder, correspondingly.
+
+For more details on how to secure and protect your Content, please visit [4shared Security](https://www.4shared.com/security.jsp) page.
+
+#### 4.6. Opting Out of Interest-Based Advertising
+
+To opt out of interest-based advertising, please refer to the following opt-out options and mechanisms:
 
 **Recommended for U.S.-based users:**  
-Network Advertising Initiative (NAI) opt-out program: [optout.networkadvertising.org](https://optout.networkadvertising.org/)  
+Network Advertising Initiative (NAI) opt-out program: [optout.networkadvertising.org](https://www.networkadvertising.org/choices/)  
 Digital Advertising Alliance (DAA) opt-out program: [optout.aboutads.info](https://optout.aboutads.info/)
 
 **Recommended for Canada-based users:**  
@@ -399,66 +505,9 @@ To opt out of data collection via mobile applications, please visit the DAA AppC
 
 Please note that even if you opt out of interest-based advertising, 4shared may continue to collect data for other purposes, 4shared will still display generic ads (i.e. not targeted to you), while using our Digital Properties.
 
-We may also disclose your Personal Data if required by law, including without limitation, by search warrant, subpoena or court order; to protect our and third-party rights; and for purposes disclosed at time of collection.
+#### 4.7. Opt-Out Options in 4shared Applications
 
-### 4\. Your Choice and Control
-
-We do our best to provide you choice and control, with regard to Personal Data and other information you provide to us.
-
-It is not necessary for you to provide us with any Personal Data in order to visit our Website and use our Services, although certain information is be collected automatically during your visit (as described above).
-
-If you register a 4shared account, you can control your Personal Data in a number of ways within your your 4shared account settings on our Website:
-
-#### 4.1 Right to Withdraw Consent
-
-You may withdraw your consent to the collection and use of Personal Data by 4shared - generally or with regard to the additionally voluntarily communicated data in accordance with effect for the future.
-
-However, in the event of your cancellation, certain features that require registration may no longer be provided. This does not apply to the revocation to collect further voluntary data, provided to us.
-
-To withdraw your consent to the collection and use of your Personal Data by 4shared, please send us a corresponding inquiry via email [legal@4shared.com](mailto:legal@4shared.com).
-
-#### 4.2 Opting Out of Newsletters and Marketing Emails
-
-To unsubscribe from our newsletters and marketing emails:
-
-  * Sign in your 4shared account via our Website.
-  * Go to your 4shared account Settings.
-  * In the Account Overview tab within Settings, select (unmark) email notifications (if any) you wish to unsubscribe from. 
-  * Save changes.
-
-
-
-You may also unsubscribe from our newsletters and marketing emails by clicking on the Unsubscribe links, provided in such emails.
-
-#### 4.3 Opt-Out Options within 4shared Applications
-
-For more information on the collection, use and disclosure of Personal Data via 4shared Applications and your opt-out choices, please refer to [4shared App Privacy Statement](https://web.archive.org/privacyForApps.jsp).
-
-#### 4.4 Sharing Personal Data with Social Networks
-
-If you sign up for 4shared using your Twitter, Facebook or Google account, your 4shared account and your Twitter, Facebook or Google account respectively will be connected automatically.
-
-For more information, regarding the collection and use of data by Facebook, Twitter and Google, please refer to their Privacy Policies:
-
-Facebook: <https://www.facebook.com/about/privacy>  
-Twitter: <https://twitter.com/privacy>  
-Google: <https://policies.google.com/privacy>
-
-The Social Networks tab within your account Settings on our Website enables you to control the information you share with social networks via connected accounts.
-
-To opt out of your data collection by Facebook, Twitter and Google, use the "Disconnect" option for the corresponding account in the Social Networks tab within your 4shared account Settings on our Website.
-
-#### 4.5 Sharing Personal Data with Other Users
-
-4shared enables you to store or share Your Content, access or download content, shared by other users. 4shared doesn't claim ownership of Your Content.
-
-When you share Your Content with others, you acknowledge that they may be able to save, record, reproduce, share, transmit, broadcast, display or otherwise use Your Content without providing any compensation to you.
-
-If any of your Content contains (a combination of) Personal Data elements or any other information that you would not like to share, you can limit other users' access to this Content within your 4shared account by making a file "Private" or setting up "Private access" to a folder, correspondingly.
-
-4shared doesn't use what you say in email, chat, your files, documents, photos, videos and other Content to target advertising to you.
-
-For more details on how to secure and protect your Content, please visit our [4shared Security page](https://web.archive.org/security.jsp).
+For more information on the collection, use and disclosure of Personal Data via 4shared Applications and your opt-out choices, please refer to [4shared App Privacy Statement](https://www.4shared.com/privacyForApps.jsp).
 
 ### 5\. Data Security
 
@@ -480,21 +529,19 @@ We process information in a way that is compatible with and relevant to the purp
 
 4shared takes reasonable steps to ensure that information is accurate, complete, current, and reliable for its intended use.
 
-For the Data you choose you provide us with, you may review, correct, update, or change your Personal Data, request that we deactivate your account, or remove your Personal Data from our direct marketing efforts, at any time by emailing us at [legal@4shared.com](mailto:legal@4shared.com)
+For the Data you choose you provide us with, you may review, correct, update, or change your Personal Data, request that we deactivate your account, or remove your Personal Data from our direct marketing efforts, at any time by emailing us at [legal@4shared.com](mailto:legal@4shared.com).
 
-### 9\. Information Related to Children
+### 9\. Information Relating to Children
 
-Our Digital Properties are designed for people 16 years of age and older.
+Our Digital Properties are designed for people 18 years of age and older.
 
-4shared does not knowingly collect Personal Data from anyone under the age of 16. If 4shared is made aware that it has received Personal Data from someone under 16, it will use reasonable efforts to remove that information from its records.
+4shared does not knowingly collect Personal Data from anyone under the age of 18. If 4shared is made aware that it has received Personal Data from someone under 18, it will use reasonable efforts to remove that information from its records.
 
-### 10\. Additional Disclosures
-
-#### 10.1 Legal Basis for Processing Personal Data of EEA and Swiss Individuals
+### 10\. Legal Basis for Processing Personal Data of EEA and Swiss Individuals
 
 4shared is committed to compliance and adherence to Personal Data privacy and protection laws, rules and regulations, including:
 
-  * Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation); 
+  * Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation); 
   * regulatory guidelines;
   * any of the applicable self-regulatory guidelines.
 
@@ -502,11 +549,11 @@ Our Digital Properties are designed for people 16 years of age and older.
 
 If there is any conflict between the Terms of Use or other policies described in this Privacy Policy, the Policies covered in this Section shall govern.
 
-#### 10.2 Data Retention
+#### 10.1. Data Retention
 
 Retention of personal information of EEA and Swiss individuals will be handled in accordance with 4shared Data Retention policy (as described above).
 
-#### 10.3 Accessing and Deleting Personal Data
+#### 10.2. Accessing and Deleting Personal Data
 
 EEA and Swiss individuals have the right to access the personal information that 4shared maintains about you, as that term is defined in EU data protection and privacy regulations, including GDPR principles, and you may be able to correct or amend that information if it is inaccurate or has been processed in violation of the GDPR principles, to the extent allowed by applicable law.
 
@@ -524,13 +571,13 @@ For any requests or information regarding the rights set out above, please conta
 
 4shared is committed to resolving of complaints about our collection or use of your personal information. EEA or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact 4shared at [pi@4shared.com](mailto:pi@4shared.com).
 
-#### 10.4 Disclosure of Personal Data to Third Parties, Onward Transfer
+#### 10.3. Disclosure of Personal Data to Third Parties, Onward Transfer
 
 4shared may transfer Personal Data elements of EU and Swiss individuals received to third parties, as described above in this Privacy Policy. The Personal Data disclosed will be used for the purposes set forth in this Privacy Policy.
 
 You may request disclosure, notification of the intended purpose, correction, addition, deletion, and cessation of use or cessation of disclosure to third parties of your Personal Data by emailing us at [pi@4shared.com](mailto:pi@4shared.com).
 
-#### 10.5 Notifying Third Parties about Personal Data Rectification, Erasure, Restriction
+#### 10.4. Notifying Third Parties about Personal Data Rectification, Erasure, Restriction
 
 Where 4shared has disclosed Personal Data of its User to any third parties, and the User has subsequently exercised any of the rights of rectification, erasure or blocking, 4shared will promptly notify those third parties of the User's exercising of those rights. In no case 4shared shall be liable for the failure of any third party to comply with such User's request.
 
@@ -538,18 +585,69 @@ Where 4shared has disclosed Personal Data of its User to any third parties, and 
 
 Where 4shared has made Personal Data of its User public, and the User exercises any of the rights as described above, 4shared will take reasonable steps to inform third parties that the User has exercised those rights.
 
-#### 10.6 Collection and Use of Sensitive or Special Categories of Personal Data
+#### 10.5. Collection and Use of Sensitive or Special Categories of Personal Data
 
-4shared does not knowingly collect, store or in any other way process Sensitive or Special Categories of User Data, such as: Personal Data, revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership; Data concerning health or sex life and sexual orientation; genetic data or biometric data; Personal Data of Children below the age of 16 years
+4shared does not knowingly collect, store or in any other way process Sensitive or Special Categories of User Data, such as: Personal Data, revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership; Data concerning health or sex life and sexual orientation; genetic data or biometric data; Personal Data of Children below the age of 18 years.
 
 If 4shared is made aware that it has received (a combination of) such Sensitive Personal Data elements, we will use reasonable efforts to remove this Data from our records.
 
-### 11\. Other Important Privacy Information
+### 11\. Legal Basis for the Processing of Personal Data of California Residents
 
-#### 11.1 Links to Third-Party Websites
+4shared is committed to compliance to Personal Data privacy and protection laws and regulations, including California Consumer Privacy Act (CPPA).
+
+If there is any conflict between the 4shared Terms of Service or Privacy Policy, the Policies covered in this Section shall govern.
+
+#### 11.1. Personal Data Rights of California Residents
+
+Pursuant to California Consumer Privacy Act (CPPA), registered 4shared Users who are California residents have the right to:
+
+(i) access Personal Data 4shared has collected from them,  
+(ii) request deletion of Personal Data collected,  
+(iii) request disclosure of Personal Data shared, or sold to third parties for direct marketing purposes.
+
+**We do not collect Personal Data from Users who do not have a registered 4shared account.**
+
+If you are a California resident and have a registered account at 4shared, you may exercise any of those rights - by following the instructions below.
+
+**To exercise any of your privacy rights under CPPA mentioned herein:**
+
+  1. Visit [https://www.4shared.com](https://www.4shared.com/) in a web-browser on your desktop computer or notebook.
+  2. Sign in your 4shared account.
+  3. Go to account "Settings."
+  4. Switch to the "CPPA" tab.
+  5. Select the option you need by checking the relevant box.
+  6. Click "Submit."
+
+
+
+#### 11.2. Opting Out of the Sale of Personal Data
+
+Pursuant to Civil Code Section 1798.120, registered 4shared Users who are residents of California have the right to opt out of the Sale or of their Personal Data collected via our Website and Mobile Applications anytime.
+
+If you are a California resident, have a registered account at 4shared, and wish to exercise this right, please follow the opt-out instructions below.
+
+**To opt out of the sale of Personal Data collected via our Website:**
+
+  1. Visit [https://4shared.com](https://4shared.com/) in a web-browser on your desktop or mobile device.
+  2. Click "Do not sell my personal information" in the bottom menu.
+  3. Confirm your choice by clicking "OK" in the popup window.
+
+
+
+For more information on how to opt out of the sale of Personal Data collected via out Apps, please please refer to [4shared App Privacy Statement](https://www.4shared.com/privacyForApps.jsp).
+
+#### 11.3. Processing of Children's Personal Data
+
+Our Services are intended for use by individuals 18 years of age and older.
+
+If we are made aware that 4shared has obtained Personal Data of Children below the age of 18 years, we will use reasonable efforts to remove this Data from our records.
+
+### 12\. Other Important Privacy Information
+
+#### 12.1. Links to Third-Party Websites
 
 Our Digital Properties may contain links to other websites operated by third parties. We do not own or control such websites and this Privacy Policy applies solely to information collected through our Digital Properties. Their data practices are regulated by the privacy statements of these websites.
 
-#### 11.2 Contact Us
+#### 12.2. Contact Us
 
-If you have questions about this Privacy Policy, please contact us at [legal@4shared.com](mailto:legal@4shared.com)
+If you have questions about this Privacy Policy, please contact us at [legal@4shared.com](mailto:legal@4shared.com).
