@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cookiebot.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607124105id_/https%3A//www.cookiebot.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookiebot.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231234311id_/https%3A//www.cookiebot.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cookiebot
+# Privacy Policy
 
 Your privacy is important to Cybot A/S (“ **Cybot** ”). This Privacy Policy covers what we collect and how we use, disclose, transfer and store your information.
 
