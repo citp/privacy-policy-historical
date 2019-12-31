@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iana.org privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624195007id_/https%3A//www.icann.org/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iana.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231233738id_/https%3A//www.icann.org/privacy/policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - ICANN
 
