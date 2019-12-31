@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applovin.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628035300id_/https%3A//www.applovin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applovin.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231195917id_/https%3A//www.applovin.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AppLovin
 
