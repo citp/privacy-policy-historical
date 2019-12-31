@@ -1,107 +1,210 @@
-> *The following text is extracted and transformed from the friendfeed.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409065840id_/http%3A//friendfeed.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendfeed.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231231525id_/https%3A//www.facebook.com/privacy/explanation) for the most accurate reproduction.*
 
-# FriendFeed - Privacy Policy
+# Data Policy
 
-_Last updated: September 26, 2008_
+This policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook ([Facebook Products](https://www.facebook.com/help/1561485474074139?ref=dp) or Products). You can find additional tools and information in the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT1ZZsh7sH1ss2HgihmQhVts8Qcq59mQYbcpETyYIacmXM6jCUXRAishiWgL5Ie6dHoMdiGZiviRBIPnOtCfudhl5t3MvvQY8Ly8vx47EYCOsMNX16MS8brCa9q9DYnzTmPJXUNLv7gCSfV_5WGA5Q). 
 
-FriendFeed takes your privacy seriously. We respect and protect the privacy of our users and take appropriate steps to safeguard your personal information. This privacy policy (the “Policy”) explains the types of personal information that we receive and collect when you use the FriendFeed website ("Site") or the services offered by FriendFeed ("Services").
+###  What kinds of information do we collect? 
 
-Because FriendFeed is intended for users to share information, photos, ideas, etc. with their friends, it is important to distinguish between what we will share with third parties, and what users are themselves sharing on the Site. We do not generally restrict what you share with your friends on the Site, and you are solely responsible for the content and privacy of what you share. FriendFeed, however, does not sell personal information to third parties at any time for any reason. The information we collect, as described below, is used solely to facilitate the delivery to you of our Services. Despite our policy against the sale or use of personal information of users other than for the purpose of delivering the Services, users should be aware that what they share on the Site may be discovered by third parties without the involvement of FriendFeed, including, without limitation, search engine crawlers, bots and the like. Users should always take that into consideration whenever they share something, whether on our Site or on other third-party sites.
+To provide the Facebook Products, we must process information about you. The types of information we collect depend on how you use our Products. You can learn how to access and delete information we collect by visiting the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT387CeuXLw1E1WM7aHHrQOHK6wjO7fHSGLY3uFIAiuGMXHCZBRS7P2e1FwvLqDAzbR4TI8BpTmNA0brqr1tRncvd1adAWmLa8ZqedNMoPwX8KT_AymNyaei6NuBQXCw-ughorCcMvgye7DETaBe4Q). 
 
-FriendFeed adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce's safe harbor program](http://www.export.gov/safeharbor/).
+Things you and others do and provide.
 
-If you have any questions about this Policy, please contact us at [privacy@friendfeed.com](mailto:privacy@friendfeed.com), or write to us at FriendFeed Inc., 313 W. Evelyn Ave., Mountain View, CA 94041. 
+  *  **Information and content you provide.** We collect the content, communications and other information you provide when you use our Products, including when you sign up for an account, create or share content, and message or communicate with others. This can include information in or about the content you provide (like metadata), such as the location of a photo or the date a file was created. It can also include what you see through features we provide, such as our [camera](https://www.facebook.com/help/162347444215311), so we can do things like suggest masks and filters that you might like, or give you tips on using camera formats. Our systems automatically process content and communications you and others provide to analyze context and what's in them for the purposes described below. Learn more about how you can control who can see the things you [share](https://www.facebook.com/help/1297502253597210?ref=dp). 
 
-### Information we collect
+    * Data with special protections: You can choose to provide information in your Facebook [profile fields](https://www.facebook.com/help/353111348061173?ref=dp) or Life Events about your religious views, political views, who you are "interested in," or your health. This and other information (such as racial or ethnic origin, philosophical beliefs or trade union membership) could be subject to special protections under the laws of your country.
 
-#### Information you provide
+  *  **Networks and connections.** We collect information about the people, [Pages](https://www.facebook.com/help/282489752085908?ref=dp), accounts, [hashtags](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F351460621611097%3Fref%3Ddp&h=AT1gKBbGvS01UF5ZD3KeP3kqWShuv_NhbO760wMsP2i-9BXI7x1P1Sb6j6H6flU9rVenAJmTH-_CG-fZ8ftZK1wJ-QnmCYzd0jcBwlo3nouhIq9xgXuER74aTCVGsS0uhI_F0OBmyqMbaHkFNarhog) and groups you are connected to and how you interact with them across our Products, such as people you communicate with the most or groups you are part of. We also collect contact information if you [choose to upload, sync or import it from a device](https://www.facebook.com/help/561688620598358?ref=dp) (such as an address book or call log or SMS log history), which we use for things like helping you and others find people you may know and for the other purposes listed below.
 
-  * When you sign up for a FriendFeed account, we ask you for personal information, such as your name, email address, and a nickname. You'll be asked to create a password for your FriendFeed account. You may also provide us with additional email addresses that we will link with your account.
-  * You may create a public profile that includes certain personal information and pictures, which can be accessed and viewed by other FriendFeed users.
-  * If you choose to have FriendFeed aggregate your activity from other websites, you must provide us with your username for each site. You should be aware that for certain sites, this may expose your email credentials. For some sites, we will ask for a password if it is required by that service to display the information on FriendFeed.
-  * When you provide friends' email addresses and the services they use, we store these in order to provide Services to you. We also store your imported contact list if you choose.
-  * When you invite friends to FriendFeed or send messages through FriendFeed, we collect and maintain information associated with those messages, including email addresses and content.
+  *  **Your usage.** We collect information about how you use our Products, such as the types of content you view or engage with; the features you use; the actions you take; the people or accounts you interact with; and the time, frequency and duration of your activities. For example, we log when you're using and have last used our Products, and what posts, videos and other content you view on our Products. We also collect information about how you use features like our camera.
 
+  *  **Information about transactions made on our Products.** If you use our Products for [purchases](https://www.facebook.com/help/1434403039959381?ref=dp) or other financial transactions (such as when you make a purchase in a game or make a [donation](https://l.facebook.com/l.php?u=https%3A%2F%2Fdonations.fb.com%2F&h=AT1L-fFoy5hbNni7duKpYG-y2jSi5J404E0caDGbguB5iwecjOx98TrrAH4Pq_wzN-JyHo4eQFSKjqTyghif5T9t64a76PMryz22TK7wbfDkpCNYUf9eXtJCgqW2u-Cp5nqyXQBgvIhcTL8Cd1WpmQ)), we collect information about the purchase or transaction. This includes payment information, such as your credit or debit card number and other card information; other account and authentication information; and billing, shipping and contact details.
 
-
-#### Cookies
-
-A cookie is a small file containing a string of characters. This information is sent to your computer when you use FriendFeed, and it’s stored on your computer so that we can uniquely identify a user’s browser. We use cookies to store user preferences and track user trends. Because FriendFeed is entirely personalized, your browser must accept cookies for us to provide our Services to you.
-
-#### Contents of entries
-
-The contents of any entry that you post directly to the Site, as well as any text, images, photos, videos and audio, are stored and maintained on our servers in order to publish these items and provide the Service. Your submitted content will be associated with your account.
-
-#### User communications
-
-When you send email or other communication to FriendFeed, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
-
-#### Non-personally-identifying information
-
-This is information that is commonly made available by web browsers and servers, such as the browser type, language preference, referring site, and the date and time of each visitor request. FriendFeed uses this information to better understand how visitors use our website. From time to time, we may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in FriendFeed usage.
-
-### Uses
-
-We maintain and process your personal information in order to provide your FriendFeed account and access. When you send messages or invitations through FriendFeed, your name, email address and personal FriendFeed URL are identified in the message. We also use your name and email address to notify you of FriendFeed updates that you have selected for in “Settings”, as well as other information, such as friend subscription requests.
-
-We store passwords for third-party services if it is required by that service to display the information on FriendFeed. We do this in order to provide Services to you. We do not store passwords for third-party sites when you provide them as part of contact information retrieval, such as contacts import from Gmail.
-
-In addition to the above, FriendFeed may process personal information for such purposes as:
-
-  * Sending you information related to your FriendFeed account or other FriendFeed services;
-  * Auditing, research and analysis in order to maintain, protect and improve our services;
-  * Ensuring the technical functioning of our network; and
-  * Developing new services.
+  *  **Things others do and information they provide about you.** We also receive and analyze content, communications and information that other people provide when they use our Products. This can include information about you, such as when others share or comment on a photo of you, send a message to you, or upload, sync or import your contact information.
 
 
 
-FriendFeed processes personal information on our servers in the United States of America. For users outside the United States, please note that any personally-identifying information you enter into the Site will be transferred out of your country and into the United States. You consent to such transfer through your use of the Site and our Services. You also warrant that you have the right to transfer such information outside your country and into the United States.
 
-### Choices for personal information
+Device Information
 
-You may change your FriendFeed account settings in the FriendFeed “Settings” section. You may delete your entries through FriendFeed, and this will take immediate effect in your account view. Residual copies of deleted entries remain in our database to keep them from accidentally reappearing in people's feeds. When an entry is deleted in FriendFeed, it often is not deleted in the third-party site from which that entry came. FriendFeed retains the original entry so that it is not added as a "new" item during a future crawl. 
+As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices you use. For example, we use information collected about your use of our Products on your phone to better personalize the content (including [ads](https://www.facebook.com/help/119468292028768?ref=dp)) or features you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device. 
 
-If you wish to terminate your FriendFeed account, you can do so at: [http://friendfeed.com/account/delete](https://web.archive.org/account/delete). You can also write to us at FriendFeed Inc., 313 W. Evelyn Ave., Mountain View, CA 94041. If you terminate your account, your profile and any entries or comments you’ve made will be removed from the site. Your account will be deleted immediately, but it will remain in our backup systems.
+Information we obtain from these devices includes: 
 
-You can decline to submit personal information to our Service, in which case FriendFeed may not be able to provide the Service to you.
+  * **Device attributes:** information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.
 
-### Information sharing
+  *  **Device operations:** information about operations and behaviors performed on the device, such as whether a window is foregrounded or backgrounded, or mouse movements (which can help distinguish humans from bots).
 
-In addition to the uses noted above, FriendFeed only shares personal information with other companies or individuals outside of FriendFeed in the following limited circumstances:
+  *  **Identifiers:** unique identifiers, device IDs, and other identifiers, such as from games, apps or accounts you use, and Family Device IDs (or other identifiers unique to [Facebook Company Products](https://www.facebook.com/help/195227921252400?ref=dp) associated with the same device or account).
 
-  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms of Service](https://web.archive.org/web/20150409065840id_/http%3A//friendfeed.com/about/terms), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of FriendFeed, its users or the public as required or permitted by law.
+  *  **Device signals:** Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers.
+
+  *  **Data from device settings:** information you allow us to receive through device settings you turn on, such as access to your GPS location, camera or photos.
+
+  *  **Network and connections:** information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network, so we can do things like help you [stream a video from your phone to your TV](https://www.facebook.com/help/276515126152168?ref=dp).
+
+  * 
+
+
+Information from partners.
+
+Advertisers, [app](https://www.facebook.com/help/1642635852727373?ref=dp) developers, and publishers can send us information through [Facebook Business Tools](https://www.facebook.com/help/331509497253087) they use, including our social plug-ins (such as the Like button), Facebook Login, our [APIs and SDKs](https://developers.facebook.com/docs/apis-and-sdks), or the Facebook [pixel](https://www.facebook.com/business/a/facebook-pixel). These partners provide information about your activities off Facebook—including information about your device, websites you visit, purchases you make, the ads you see, and how you use their services—whether or not you have a Facebook account or are logged into Facebook. For example, a game developer could use our API to tell us what games you play, or a business could tell us about a purchase you made in its store. We also receive information about your online and offline actions and purchases from third-party data providers who have the rights to provide us with your information. 
+
+Partners receive your data when you visit or use their services or through third parties they work with. We require each of these partners to have lawful rights to collect, use and share your data before providing any data to us. [Learn more](https://www.facebook.com/help/494750870625830?ref=dp) about the types of partners we receive data from. 
+
+To learn more about how we use cookies in connection with Facebook Business Tools, review the [Facebook Cookies Policy](https://www.facebook.com/policies/cookies) and [Instagram Cookies Policy](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Flegal%2Fcookies%2F&h=AT1J8uzoQwyLEmyTHQltRe0xttDDNRtzDO9myESebAt_p03N2Mfj3KfurXr2DC-AHRRvpoEqZw9LaLOeVQwyVaUQi0dNR1cke24Pd8222F8UqCH04bjtniardwSqxtFv8c0iJA58ElgicZaZ0-ZnUA). 
+
+###  How do we use this information? 
+
+We use the information we have (subject to choices you make) as described below and to provide and support the Facebook Products and related services described in the [Facebook Terms](https://www.facebook.com/legal/terms/update) and [Instagram Terms](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F581066165581870%3Fref%3Ddp&h=AT3uJTCNKxAoCS2a5LGo9FsNqh8fKgNDYK2W_ORmH9mn-pPOKqBGy1xMbtzrPpM2fPUx4t_y-wzkQDOAeDWOZM5DkAKLFpn-OzHCKjX6yVJMgSI1lGhudb4zrbYKI9x4pBHPcs9Xg2VcmfS4LuHBZA). Here's how: 
+
+Provide, personalize and improve our Products.
+
+We use the information we have to deliver our Products, including to personalize features and content (including your [News Feed](https://www.facebook.com/help/166738576721085?ref=dp), [Instagram Feed](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1986234648360433%3Fref%3Ddp&h=AT3EBkyA71UdhPdAFoVXU6sCAZ03EfWJAcFDsaD4J9xTp9FgfqOZRPQMrNb7SB6OzHbSkxGMyB0YGcq3sFZuZORkxQdYtMgabn_3qqal8Aa8OmreS5wIhGzTuz2I_obYMfd7b-z2A2m8dRng5D7j_A), Instagram Stories and ads) and make suggestions for you (such as groups or [events](https://www.facebook.com/help/1076296042409786?ref=dp) you may be interested in or topics you may want to follow) on and off our Products. To create personalized Products that are unique and relevant to you, we use your connections, preferences, interests and activities based on the data we collect and learn from you and others (including any data with special protections you choose to provide); how you use and interact with our Products; and the people, places, or things you're connected to and interested in on and off our Products. Learn more about how we use information about you to personalize your Facebook and Instagram experience, including features, content and recommendations in Facebook Products; you can also learn more about how we choose the [ads](https://www.facebook.com/about/ads) that you see. 
+
+  * **Information across Facebook Products and devices:** We connect information about your activities on different Facebook Products and devices to provide a more tailored and consistent experience on all Facebook Products you use, wherever you use them. For example, we can suggest that you join a group on Facebook that includes people you follow on Instagram or communicate with using Messenger. We can also make your experience more seamless, for example, by automatically filling in your registration information (such as your phone number) from one Facebook Product when you sign up for an account on a different Product.
+
+  *  **Location-related information:** We use [location-related information](https://www.facebook.com/about/basics/manage-your-privacy/location)-such as your current location, where you live, the places you like to go, and the businesses and people you're near-to provide, personalize and improve our Products, [including ads](https://www.facebook.com/about/ads), for you and others. Location-related information can be based on things like precise device location (if you've allowed us to collect it), IP addresses, and information from your and others' use of Facebook Products (such as check-ins or events you attend).
+
+  *  **Product research and development:** We use the information we have to develop, test and improve our Products, including by conducting surveys and research, and testing and troubleshooting new products and features.
+
+  *  **Face recognition:** If you have it turned on, we use face recognition technology to recognize you in photos, videos and camera experiences. The face-recognition templates we create may constitute data with special protections under the laws of your country. Learn more about [how we use face recognition technology](https://www.facebook.com/help/122175507864081?ref=dp), or control our use of this technology in [Facebook Settings](https://www.facebook.com/settings/facerec). If we introduce face-recognition technology to your Instagram experience, we will let you know first, and you will have control over whether we use this technology for you.
+
+  *  **Ads and other sponsored content:** We use the information we have about you-including information about your interests, actions and connections-to select and personalize ads, offers and other sponsored content that we show you. Learn more about how we [select and personalize ads](https://www.facebook.com/ads/preferences), and your choices over the data we use to select ads and other sponsored content for you in the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT2qlMqoJBrVTcFXG1-iaCwqY6Is8gsdJvY7ADDB3T8OGUl7f5q6zd6HasC0oN_t2Dq4ngwiXtOx6aC9iag3YMy6IOS4YX0olxM1oxbArJwpH-grmc1ACKR2a1Ms_2utuuVaFohLO-t1vrCzwNdgmg).
 
 
 
-If FriendFeed becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
-Please contact us at the address below for any additional questions about the management or use of personal data.
+Provide measurement, analytics, and other business services.
 
-### Information security
+We use the information we have (including your activity off our Products, such as the websites you visit and ads you see) to help advertisers and other partners measure the effectiveness and distribution of their ads and services, and understand the types of people who use their services and how people interact with their websites, apps, and services. Learn how we share information with these partners. 
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+Promote safety, integrity and security.
 
-We restrict access to personal information to FriendFeed employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+We use the information we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Products, and promote safety and security on and off of Facebook Products. For example, we use data we have to investigate suspicious activity or violations of our terms or policies, or to [detect when someone needs help](https://code.facebook.com/posts/286893341840510/under-the-hood-suicide-prevention-tools-powered-by-ai/). To learn more, visit the [Facebook Security Help Center](https://www.facebook.com/help/379220725465972?ref=dp) and [Instagram Security Tips](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F369001149843369&h=AT0jm0hzpIyNDeKIDa-ICobwBvixI95MAmuFMVD5qLuQ9AMuS0wVnjbHw_sXXeZDEKgOygPZ0yWDzP_q7PAKl-Jc33lPGCLibZizJ6NKtiy4zaRwzCC3mRXWqRe3rJD5MYpIWPe_64uv9-svrVhzTQ). 
 
-### Data integrity
+Communicate with you.
 
-FriendFeed processes personal information only for the purposes for which it was collected and in accordance with this Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+We use the information we have to send you marketing communications, communicate with you about our Products, and let you know about our policies and terms. We also use your information to respond to you when you contact us. 
 
-### Accessing and updating personal information
+###  How is this information shared? 
 
-When you use FriendFeed, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
+Your information is shared with others in the following ways: 
 
-### Links to Third Party Sites
+Sharing on Facebook Products
 
-This Policy only applies to the FriendFeed website and services. We do not exercise control over the sites that our service links to. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and FriendFeed and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party.
+People and accounts you share and communicate with
 
-### Enforcement
+When you share and communicate using our Products, [you choose the audience for what you share](https://www.facebook.com/help/120939471321735?ref=dp). For example, when you post on Facebook, you select the audience for the post, such as a group, all of your friends, the public, or a customized list of people. Similarly, when you use Messenger or Instagram to communicate with people or businesses, those people and businesses can see the content you send. Your network can also see actions you have taken on our Products, including engagement with ads and sponsored content. We also let other accounts see who has viewed their Facebook or Instagram Stories. 
 
-FriendFeed regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or FriendFeed’s treatment of personal information by contacting us at [privacy@friendfeed.com](mailto:privacy@friendfeed.com) or by writing to us at the address below. When we receive formal written complaints at this address, it is FriendFeed's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between FriendFeed and an individual.
+**[Public information](https://www.facebook.com/help/203805466323736?ref=dp)** can be seen by anyone, on or off our Products, including if they don't have an account. This includes your Instagram username; any information you share with a public audience; information in your [public profile on Facebook](https://www.facebook.com/help/203805466323736?ref=dp); and content you share on a Facebook Page, [public Instagram account](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F448523408565555%3Fref%3Ddp&h=AT3UetoMWoseUk80ZpBRLztwrYrwXvL4KZJJInG72Ayhfc7FWuo9K9rIOeqmGILigVBvvdd6TXd45kp0U_jFQaRiidfER1fH3NOvhMTkJl_9Wbg55weeUVFXvfu5D9_jS3Dxw5xmq_SCYdlubmOQcQ) or any other public forum, such as [Facebook Marketplace](https://www.facebook.com/marketplace). You, other people using Facebook and Instagram, and we can provide access to or send public information to anyone on or off our Products, including in other Facebook Company Products, in search results, or through tools and APIs. Public information can also be seen, accessed, reshared or downloaded through third-party services such as search engines, APIs, and offline media such as TV, and by apps, websites and other services that integrate with our Products. 
 
-### Changes to this policy
+Learn more about what information is public and how to control your visibility on [Facebook](https://www.facebook.com/help/203805466323736?ref=dp) and [Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F243810329323104%3Fref%3Ddp&h=AT18mgfxIQ7NZ5X1p6U0to2x7WRXGSe4UNVXSUTZzM-m8UDOyzDZNAHh9V1tKRw7_E7nxURfzTCZjlPB-2hIjFaGfyoF9hsGvUNYHiEMTFKJu33oI88XO4gIbC5VHNQzWk225ZTIP-XAEQxcfYWFsw). 
 
-This Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Policy in an archive for your review.
+Content others share or reshare about you
 
-If you have any additional questions or concerns about this Policy, please contact us at [privacy@friendfeed.com](mailto:privacy@friendfeed.com), or write to us at FriendFeed Inc., 313 W. Evelyn Ave., Mountain View, CA 94041. 
+You should consider who you choose to share with, because people who can see your activity on our Products can choose to share it with others on and off our Products, including people and businesses outside the audience you shared with. For example, when you share a post or send a message to specific friends or accounts, they can download, screenshot, or reshare that content to others across or off our Products, in person or in virtual reality experiences such as [Facebook Spaces](https://www.facebook.com/help/241256606347754?ref=dp). Also, when you comment on someone else's post or react to their content, your comment or reaction is visible to anyone who can see the other person's content, and that person can change the audience later. 
+
+People can also use our Products to create and share content about you with the audience they choose. For example, people can share a photo of you in a Story, mention or tag you at a location in a post, or share information about you in their posts or messages. If you are uncomfortable with what others have shared about you on our Products, you can learn how to [report the content](https://www.facebook.com/help/181495968648557?ref=dp). 
+
+Information about your active status or presence on our Products.
+
+People in your networks can see signals telling them whether you are active on our Products, including whether you are currently active on [Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F906123729538696%3Fref%3Ddp&h=AT3jIE0LSp1VTWwnIY34Dx2kDP4AoCnMe4JqzeGwGO7DZJeNvo2PMmjq_UiwpH4tHINqw5tAv8DvcAL3eCGac4edKqd6ZYgAndA5qckFh_hs-kSsmClbMZqKHKyT9I6FW8dUlWsf9JLUyDH-cnz9gw), [Messenger](https://www.facebook.com/help/149081061827062?ref=dp) or Facebook, or when you last used our Products. 
+
+Apps, websites, and third-party integrations on or using our Products.
+
+When you choose to use third-party apps, websites, or other services that use, or are integrated with, our Products, they can receive information about what you post or share. For example, when you play a game with your Facebook friends or use a Facebook Comment or Share button on a website, the game developer or website can receive information about your activities in the game or receive a comment or link that you share from the website on Facebook. Also, when you download or use such third-party services, they can access your [public profile](https://www.facebook.com/help/203805466323736?ref=dp) on Facebook, and any information that you share with them. Apps and websites you use may receive your list of Facebook friends if you choose to share it with them. But apps and websites you use will not be able to receive any other information about your Facebook friends from you, or information about any of your Instagram followers (although your friends and followers may, of course, choose to share this information themselves). Information collected by these third-party services is subject to their own terms and policies, not this one. 
+
+Devices and operating systems providing native versions of Facebook and Instagram (i.e. where we have not developed our own first-party apps) will have access to all information you choose to share with them, including information your friends share with you, so they can provide our core functionality to you. 
+
+_Note: We are in the process of restricting developers’ data access even further to help prevent abuse. For example, we will remove developers' access to your Facebook and Instagram data if you haven't used their app in 3 months, and we are changing Login, so that in the next version, we will reduce the data that an app can request without app review to include only name, Instagram username and bio, profile photo and email address. Requesting any other data will require our approval._
+
+New owner.
+
+If the ownership or control of all or part of our Products or their assets changes, we may transfer your information to the new owner. 
+
+Sharing with Third-Party Partners
+
+We work with third-party partners who help us provide and improve our Products or who use Facebook Business Tools to grow their businesses, which makes it possible to operate our companies and provide free services to people around the world. We don't sell any of your information to anyone, and we never will. We also impose strict restrictions on how our partners can use and disclose the data we provide. Here are the types of third parties we share information with: 
+
+Partners who use our analytics services.
+
+We provide aggregated statistics and insights that help people and businesses understand how people are engaging with their posts, listings, Pages, videos and other content on and off the Facebook Products. For example, Page admins and Instagram business profiles receive information about the number of people or accounts who viewed, reacted to, or commented on their posts, as well as aggregate demographic and other information that helps them understand interactions with their Page or account. 
+
+Advertisers.
+
+We provide advertisers with reports about the kinds of people seeing their ads and how their ads are performing, but we don't share information that personally identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us permission. For example, we provide general demographic and interest information to advertisers (for example, that an ad was seen by a woman between the ages of 25 and 34 who lives in Madrid and likes software engineering) to help them better understand their audience. We also confirm which Facebook ads led you to make a purchase or take an action with an advertiser. 
+
+Measurement partners.
+
+We share information about you with companies that aggregate it to provide analytics and measurement reports to our partners. 
+
+Partners offering goods and services in our Products.
+
+When you subscribe to receive premium content, or buy something from a seller in our Products, the content creator or seller can receive your public information and other information you share with them, as well as the information needed to complete the transaction, including shipping and contact details. 
+
+Vendors and service providers.
+
+We provide information and content to vendors and service providers who support our business, such as by providing technical infrastructure services, analyzing how our Products are used, providing customer service, facilitating payments or conducting surveys. 
+
+Researchers and academics.
+
+We also provide information and content to research partners and [academics](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2Fprograms%2F&h=AT32UhEzyjS7KTDrfi6erWpXX-3qqleiItdivlJdPa9YohHR12kn1K0j13YAStiGxMXb1-s8_9V9qXXJzpbsuHUBgXYw645xwlI2U8BWoVHzU1i3aD_Hu1zLAQBkIwQgUPMINfaAkHhRkgUk-vByCQuynyg5OBKJafQ) to conduct research that advances scholarship and innovation that support our business or mission, and enhances discovery and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. 
+
+Law enforcement or legal requests.
+
+We share information with law enforcement or in response to legal requests in the circumstances outlined below. 
+
+Learn more about how you can control the information about you that you or others share with third-party partners in the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT04RxRvOuGMF2Wm31OGxeKj2GOE93JiQDhHj8YTAQdUBGLwGQW46UQ8K6p4fnMT5h8baq9qljiq-C7jGVYk6mhjO7hQGI60QrzzN-5P09v53QhFK90EpCkpB4mHMWQAD8XbBE9tN4_ghTjTtcm9Vg). 
+
+###  How do the Facebook Companies work together? 
+
+Facebook and Instagram share infrastructure, systems and technology with other [Facebook Companies](https://www.facebook.com/help/111814505650678?ref=dp) (which include WhatsApp and Oculus) to provide an innovative, relevant, consistent and safe experience across all [Facebook Company Products](https://www.facebook.com/help/195227921252400?ref=dp) you use. We also process information about you across the Facebook Companies for these purposes, as permitted by applicable law and in accordance with their terms and policies. For example, we process information from WhatsApp about accounts sending spam on its service so we can take appropriate action against those accounts on Facebook, Instagram or Messenger. We also work to understand how people use and interact with Facebook Company Products, such as understanding the number of unique users on different Facebook Company Products. 
+
+###  How can I manage or delete information about me? 
+
+We provide you with the ability to access, rectify, port and erase your data. Learn more in your [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT2x5buKz09eBBDiK2EZW7akhSjiITJK-v4JJaO7TpTvFtVLiymyhklkRV_tTQIojiltE9Ucf-vTDWy4uwrEP6STusF0nPOkHwpdWqFLEC5xilR_y7uOlROouAOCvOMTi-tdK-OWrvRG59IIpJQmKg). 
+
+We store data until it is no longer necessary to provide our services and Facebook Products, or until your account is deleted - whichever comes first. This is a case-by-case determination that depends on things like the nature of the data, why it is collected and processed, and relevant legal or operational retention needs. For example, when you search for something on Facebook, you can access and delete that query from within your search history at any time, but the log of that search is deleted after 6 months. If you submit a copy of your government-issued ID for account verification purposes, we delete that copy 30 days after submission. Learn more about deletion of [content you have shared](https://www.facebook.com/help/356107851084108?ref=dp) and [cookie data obtained through social plugins](https://www.facebook.com/help/206635839404055?ref=dp). 
+
+When you delete your account, we [delete things](https://www.facebook.com/help/356107851084108?ref=dp) you have posted, such as your photos and status updates, and you won't be able to recover that information later. Information that others have shared about you isn't part of your account and won't be deleted. If you don't want to delete your account but want to temporarily stop using the Products, you can deactivate your account instead. To delete your account at any time, please visit the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT1voJSL1RHuxWvWjPr5oJ6q-ooOjZFTbxTeTbWxFFYqdFjuDrt54M9Vzv90RUDDywvOUmMi99XI2L4JF2YHGWq_PMTYrJOJb-27sojJ_aBidIXa5iCztCpHi3vGqc8TTn0R6P1JU5gZLuRv1oIEuQ). 
+
+###  How do we respond to legal requests or prevent harm? 
+
+We access, preserve and share your information with regulators, law enforcement or others: 
+
+  * In response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States when we have a good-faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards.
+
+  * When we have a good-faith belief it is necessary to: detect, prevent and address fraud, unauthorized use of the Products, violations of our terms or policies, or other harmful or illegal activity; to protect ourselves (including our rights, property or Products), you or others, including as part of investigations or regulatory inquiries; or to prevent death or imminent bodily harm. For example, if relevant, we provide information to and receive information from third-party partners about the reliability of your account to prevent fraud, abuse and other harmful activity on and off our Products.
+
+
+
+
+Information we receive about you (including financial transaction data related to purchases made with Facebook) can be accessed and preserved for an extended period when it is the subject of a legal request or obligation, governmental investigation, or investigations of possible violations of our terms or policies, or otherwise to prevent harm. We also retain information from accounts disabled for terms violations for at least a year to prevent repeat abuse or other term violations. 
+
+###  How do we operate and transfer data as part of our global services? 
+
+We share information globally, both internally within the Facebook Companies, and externally with our partners and with those you connect and share with around the world in accordance with this policy. Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this policy. These data transfers are necessary to provide the services set forth in the [Facebook Terms](https://www.facebook.com/legal/terms/) and [Instagram Terms](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F581066165581870%3Fref%3Ddp&h=AT1kbN00dlOhVgYCdOmLBbI96Ubyk0QZO5ou18hKquNdJrOLFekTXNajjCpd6-2WnYiMxDDk4tjSiG9CP-5jgS1b20RnMItaEa4eoAVeooNctt440JE_gidJ-JLNeI61fqkvcdAornl0YMreZELfHw) and to globally operate and provide our Products to you. We utilize [standard contract clauses](https://l.facebook.com/l.php?u=http%3A%2F%2Feur-lex.europa.eu%2Flegal-content%2FEN%2FTXT%2FPDF%2F%3Furi%3DCELEX%3A32010D0087&h=AT2gf63EAqN9pX7dTtOVLR_X1NGAGwZhgQ34qZLSuzPpAcBGvMDMiwuKxK23bkggsq1DCVYGlyjahByxiODJXRugAZzI0c_D43s8D7db93Wr_M0sa6alKxBWhcwePgW8AMvMqtEGpEvU4I3UEG-ED8OKFdlRTCOGHgs), rely on the European Commission's [adequacy decisions](https://l.facebook.com/l.php?u=https%3A%2F%2Fec.europa.eu%2Finfo%2Flaw%2Flaw-topic%2Fdata-protection%2Fdata-transfers-outside-eu%2Fadequacy-protection-personal-data-non-eu-countries_en&h=AT1ihYxKTTrxQafl-Fu1S9czFncGkkIzcIHk49rRCN7xkvwkVgsyQ_N0gE0ufUekD2sdySdv3jA8tCm-EoxxKZbMX8oGbaSaTO6DWrZBIckIbLjxmRVIqoNMaOym6pHUgOT2_2P145sr3K0ie2VEvw) about certain countries, as applicable, and obtain your consent for these data transfers to the United States and other countries. 
+
+###  How will we notify you of changes to this policy? 
+
+We'll notify you before we make changes to this policy and give you the opportunity to review the revised policy before you choose to continue using our Products. 
+
+###  Privacy notice for California residents 
+
+If you are a California resident, you can learn more about your consumer privacy rights by reviewing the [California Privacy Notice](https://www.facebook.com/legal/policy/ccpa). 
+
+###  How to contact Facebook with questions 
+
+You can learn more about how privacy works [on Facebook](https://www.facebook.com/about/basics) and on [Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp&h=AT2N697bPyVWTa2ViObQCSgo2QSh3E9-JQqzbvI-acalyoeKyXjog9pG4MHKIWydhB_kFiHs-YOu4gmgxgMIQXmHkdjrRjHK4HL4whLce3G_TRCecOrYVnpZq636VW2XHKYTGb-L9PFrnVbp1yOpDA). If you have questions about this policy, you can contact us as described below. We may resolve disputes you have with us in connection with our privacy policies and practices through TrustArc. You can contact TrustArc through its [website](https://l.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=AT1Mt_QLH8dHSo2UskAP1ZB9HcgnYxUk79zxDc8firgN82PeK2hXKIpUDb86AvU3vG7WBIwzVHDhFPgGqW0nONQlKEHk0_3i8sbGErp6ZwdHGjVwFJmRaUcxNtCfhecurEfZDZg-SYrVBScFyNDMbw). 
+
+Contact Us 
+
+You can contact us [online](https://www.facebook.com/help/contact/861937627253138) or by mail at: 
+
+Facebook, Inc.  
+ATTN: Privacy Operations  
+1601 Willow Road  
+Menlo Park, CA 94025 
+
+Date of Last Revision: April 19, 2018 
