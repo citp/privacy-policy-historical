@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centos.org privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628221149id_/https%3A//www.centos.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centos.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231211421id_/http%3A//www.centos.org/legal/privacy) for the most accurate reproduction.*
 
 # CentOS Privacy Policy
 
