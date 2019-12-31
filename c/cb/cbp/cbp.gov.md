@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbp.gov privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630050115id_/https%3A//www.cbp.gov/site-policy-notices/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbp.gov privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231033639id_/https%3A//www.cbp.gov/site-policy-notices/privacy-statement) for the most accurate reproduction.*
 
 # Website Privacy Policy | U.S. Customs and Border Protection
 
