@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509111747id_/https%3A//www.loveinc.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231194350id_/https%3A//www.loveinc.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# loveinc.com - Love Incorporated
+# loveinc..com - Love Incorporated
 
 ### This policy
 
