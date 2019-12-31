@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasteofcountry.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630014838id_/https%3A//tasteofcountry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasteofcountry.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231234010id_/https%3A//tasteofcountry.com/privacy) for the most accurate reproduction.*
 
 # Taste of Country
 
@@ -122,7 +122,7 @@ Windows: <http://choice.microsoft.com/en-US/opt-out>
 
 The DAA’s AppChoices App provides options regarding the collection of cross-app data for your device.
 
-Additional resources or tools may exist that streamline the process of submitting opt-out requests--for example, [TRUSTe’s Ad Preference Manager](https://preferences-mgr.truste.com/). We do not review or warrant the representations made by these tools and cannot guarantee the effectiveness. 
+Additional resources or tools may exist that streamline the process of submitting opt-out requests--for example, [TRUSTe’s Ad Preference Manager](https://preferences-mgr.truste.com/). We do not review or warrant the representations made by these tools and cannot guarantee the effectiveness.
 
 6.3 To opt out of Google Analytics Advertising Features, visit Google’s Ad Settings page. Website users can also access the Google Analytics Opt Out Browser Add-on <https://support.google.com/analytics/answer/181881?hl=en>.
 
@@ -138,11 +138,11 @@ Additional resources or tools may exist that streamline the process of submittin
 
 ### 7\. Children 
 
-We do not permit children under 13 years of age to use the Services, and we do not knowingly collect, use or disclose information from anyone under 13 years of age except as part of specific outreach programs with parental permission. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records. If you believe that we have mistakenly or unintentionally collected personal information of a minor without appropriate consent, please notify us at our privacy preferences page: [http://tasteofcountry.com/privacy/preferences](https://tasteofcountry.com/privacy/preferences). You may also contact by mail at the following address: Townsquare Media, Inc., ATTN: Privacy, 240 Greenwich Ave., Greenwich, CT 06830.
+We do not permit children under 13 years of age to use the Services, and we do not knowingly collect, use or disclose information from anyone under 13 years of age except as part of specific outreach programs with parental permission. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records. If you believe that we have mistakenly or unintentionally collected personal information of a minor without appropriate consent, please notify us at our privacy preferences page: [http://tasteofcountry.com/privacy/preferences](https://tasteofcountry.com/privacy/preferences). You may also contact by mail at the following address: Townsquare Media, Inc., ATTN: Privacy, 1 Manhattanville Rd, Suite 202 Purchase, NY 10577.
 
 ### 8\. Your California Privacy Rights
 
-8.1 Under California Civil Code sections 1798.83-1798.84, California residents are entitled to request information from us regarding what categories of personal information we share with third parties who may use the data for direct marketing purposes and all third parties with whom we have shared that data in the past year. If you are a California resident and would like to submit a request, please write to the following address: Townsquare Media, Inc., ATTN: Privacy, 240 Greenwich Ave., Greenwich, CT 06830. You must put the statement “Your California Privacy Rights” in the body of the request and state the name of our website with respect to which you are requesting the information as well as your name, street address, city, state, and zip code. 
+8.1 Under California Civil Code sections 1798.83-1798.84, California residents are entitled to request information from us regarding what categories of personal information we share with third parties who may use the data for direct marketing purposes and all third parties with whom we have shared that data in the past year. If you are a California resident and would like to submit a request, please write to the following address: Townsquare Media, Inc., ATTN: Privacy, 1 Manhattanville Rd, Suite 202 Purchase, NY 10577. You must put the statement “Your California Privacy Rights” in the body of the request and state the name of our website with respect to which you are requesting the information as well as your name, street address, city, state, and zip code.
 
 ### 9\. International User Notice
 
@@ -162,10 +162,10 @@ _Purposes of processing and legal basis for processing_ : As explained above, we
 
 • The right to request data erasure. You have the right to have your data erased from our Services if the data is no longer necessary for the purpose for which it was collected, you withdraw consent and no other legal basis for processing exists, or you believe your fundamental rights to data privacy and protection outweigh our legitimate interest in continuing the processing. 
 
-• The right to restrict or object to our processing. You have the right to restrict or object to our processing if we are processing your data based on legitimate interests or the performance of a task in the public interest as an exercise of official authority (including profiling); using your data for direct marketing (including profiling); or processing your data for purposes of scientific or historical research and statistics. 
+• The right to restrict or object to our processing. You have the right to restrict or object to our processing if we are processing your data based on legitimate interests or the performance of a task in the public interest as an exercise of official authority (including profiling); using your data for direct marketing (including profiling); or processing your data for purposes of scientific or historical research and statistics.
 
 ### 11\. Contact
 
-If you have any questions about your privacy or security at the Services, or wish to update your information, please contact us at our privacy preferences page: [http://tasteofcountry.com/privacy/preferences](https://tasteofcountry.com/privacy/preferences). You may also write to us at: Townsquare Media, Inc., ATTN: Privacy, 240 Greenwich Ave., Greenwich, CT 06830, Fax: 1 (800) 301-6408, and include your name, mailing address and email address in the message. You may call us at 1 (203) 861-0900.
+If you have any questions about your privacy or security at the Services, or wish to update your information, please contact us at our privacy preferences page: [http://tasteofcountry.com/privacy/preferences](https://tasteofcountry.com/privacy/preferences). You may also write to us at: Townsquare Media, Inc., ATTN: Privacy, 1 Manhattanville Rd, Suite 202 Purchase, NY 10577, Fax: 1 (800) 301-6408, and include your name, mailing address and email address in the message. You may call us at 1 (203) 861-0900.
 
-### DATE LAST MODIFIED: December 14, 2018
+### DATE LAST MODIFIED: November 22, 2019
