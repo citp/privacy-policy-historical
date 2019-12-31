@@ -1,74 +1,199 @@
-> *The following text is extracted and transformed from the ynetnews.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232841id_/https%3A//www.ynetnews.com/articles/0%2C7340%2CL-3048313%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ynetnews.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231182744id_/https%3A//www.ynetnews.com/articles/0%2C7340%2CL-3048313%2C00.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy and Statement
 
-Yedioth Internet respects the privacy of users of the websites it manages and operates, including the Ynet, WinWin and Ynetnews websites (these sites shall be hereinafter referred to, for convenience, as “Ynet Sites” or “the Sites”). This statement explains the accepted privacy policy for the Sites. It gives an overview, inter alia, of the way in which Yedioth Internet uses information provided thereto by the users of the Sites or collected thereby during the use of the Sites.
+Welcome to the privacy policy of Yedioth Internet and Yedioth Ahronoth Ltd.
 
-Some of the services in the Ynet Sites require registration. In the course of the registration you will be 
+In this privacy policy, we will explain how we use the information we receive or collect, about the internet surfers and users of our applications and websites: ynet website (at: www.ynet.co.il), the premium ynet + site, winwin, ynetnews, other websites related to the ynet site, the ynet application, the ynet+ application, and the Yehdioth Ahronoth newspaper application (hereinafter the “Websites").
 
-required to provide personal information, such as your full name, (encoded) ID number, address, contact details or e-mail address or your credit card information. The fields which are designated for compulsory completion shall be explicitly indicated. If you do not enter the requisite data in the compulsory fields, you will be unable to register to the services requiring registration. Since Yedioth Internet will only ask for the information required for the registered service, in some of the services you will be required to provide further data, as required according to the type of the service. Thus, for instance, during the subscription to the Ynet encyclopedia you will be asked to provide, inter alia, your credit card details. 
+If you do not agree to the terms of this Privacy Policy, please immediately stop browsing the Websites and any other use of the Websites.
 
-Connecting to Ynet Sites (which enable it) through the Facebook account of the client (user / end user) may transfer to the database information as approved by the Facebook management and subject to a procedure of your approval as part of that platform (Facebook) and the details you provided there, such as your full name, profile picture, age range, gender and other public information like an e-mail address and identification number (which is provided to each Facebook user). 
+This privacy policy is binding, and it will apply to any viewing or browsing, uploading of content, or any other use of the Websites, by any person, and by any means, application or device (hereinafter - “Use” and the “Website Users”).
 
-Your registration to services which require you to register and/or provide details while purchasing a product or a service through the Ynet Sites or their sub-sites (WinWin, Ynettours, Ynetshops, etc.) will serve as an approval on your behalf to be included on a list of people receiving advertisements from different commercial bodies including the relevant site, via e-mail, text message, etc. Notwithstanding the previous sentence, you will be able to declare, following any advertisement sent to you, your refusal to continue receiving advertisements, and until you do so you will continue receiving advertisements as aforementioned. 
+There is no legal obligation to consent to the transmission, collection, production or other use of the information.
 
-The information you provide when registering to the services on the Sites will be stored in the Yedioth Internet database. You are not required by law to provide the information, but without providing it you will not be able to use these services. 
+In respect to any browsing or other use of the Websites, you voluntarily agree to this Privacy Policy in its entirety, and to the saving, transmission and production of the information, to the processing and transfer of the information, and any other use of the information as set forth in this policy.
 
-In the course of your use of the Sites, it is possible that information pertaining to your habits, products and services you have purchased or sought to sell, information or advertisements that you have read on the Sites, the pages you watched, offers and services that were of interest to you, the modes of payment used by you, the location of the computer through which you had access to the Sites, and more, will be gathered or accumulated. Yedioth Internet shall store this information in its data bases. Any use of these data, as well as of the data you provide in the course of the registration to the different services on the Ynet Sites, shall be made only in accordance with this Privacy Policy or with the provisions of the law—for the following purposes:
+In respect to any surfing or other use of the Website, you represent and warrant that you are at least 18 years of age, or that you use the Websites with the approval of one of your parents (or a guardian responsible for you), and with his agreement to this Privacy Policy in its entirety.
 
-  * To enable you to use various services on the Sites—such as (but not limited to) forums, games, special deals and different activities which shall be offered from time to time on the Sites. 
-  * To improve and expand the services and content offered on the Sites, including creating new services and content which correspond to the requirements and expectations of the users of the Sites, and modifying or canceling existing services and content. The information used by Yedioth Internet for this purpose shall be mainly statistical information, which will not identify you personally. 
-  * To create personal zones on the Sites, which you can modify according to your preferences. 
-  * To purchase products and/or services on the Sites—including publication of information and content on your behalf. 
-  * To tailor advertisements you view while visiting the Ynet Sites to your special fields of interest. Any information used by Yedioth Internet for this purpose will not identify you personally by name or address. 
-  * Yedioth Internet may e-mail you from time to time information pertaining to its services, as well as marketing and advertising material—whether information published by Yedioth Internet itself or information received from other posting advertisers for publication purposes. At any time, you may ask to stop receiving information of this kind. Nevertheless, Yedioth Internet will not transfer your personal details to advertisers. 
-  * To contact you (as and when necessary) or to analyze and provide statistical information to third parties, including advertisers. Any such information will not identify you personally. 
-  * For any other purpose, as specified herein or in the Terms of Use of any of the relevant services on the Ynet Sites. 
-  * For the orderly and proper operation and development of the Sites. No information used for this purpose will be transferred to any third party, except to the extent permitted under this Privacy Policy, as updated from time to time.  
+You may contact us by telephone at +972-3-6082222 or at Yedioth Internet Customer Service Department, 1 Noah Moses Rishon Le Zion; Fax number: 03-6932466 (note: for customer service); or by email at [service@y-i.co.il](mailto:service@y-i.co.il) regarding any questions about this Privacy Policy, and for the purpose of exercising your rights, or in any other matter relating to the information or information security 
 
+The privacy policy refers to both women and men, and it is worded in the male gender for convenience only.
 
+This Privacy Policy was last updated in the month of August 2019.
 
+In some of the Websites we will request that you enter details, in the framework of a registration process, or so that you may use various services: games, promotions, sale and purchase of products, forums, various networking activities, etc. (hereinafter - the "Services"). We will store the information you enter in our databases and use it for these purposes:
 
-Yedioth Internet will not transfer your personal details and any collected information pertaining to your activities on the website (as far as such details and information identify you personally), to any third party, except in the following cases:
+1\. Full name, identity certificate number, telephone number, contact details, address, email address
 
-  * In cases where information about you, as previously stated, is published by you at your own initiative as your contact details (for instance, as part of advertisements you would publish on the WinWin website); 
-  * When you purchase products and services from trade and content partners of Yedioth Internet or when you take part in any other third-party content-related activity or in joint activities of Yedioth Internet and a third party, which are presented on the Ynet Sites. In these cases, these partners may be provided with the information they need for the completion of the purchase procedure, for management of the relevant content-related activity and in order to maintain contact with you; 
-  * Should you breach the Ynet Sites’ Terms of Use, the provisions of the Sites’ registration agreement or any of the services provided therein or the Sites’ Terms of Use, or should you perform or attempt to perform any allegedly illegal action, through the Sites or in connection therewith. In such cases, Yedioth Internet may transfer the information as shall be necessary; 
-  * If Yedioth Internet receives a court order instructing it to transfer your details or any information about you to a third party; 
-  * In any case of a dispute, claim, action, demand or legal proceedings, if any, between yourself and Yedioth Internet; 
-  * If Yedioth Internet considers that transferring such information is necessary in order to prevent serious damage to your person or property or to the person or property of any third party; 
-  * Yedioth Internet has the right to transfer your personal details and the information collected further to your use of the Sites to other companies of the Yedioth Ahronot Group, provided, however, that they use this information only in accordance with this Privacy Policy; 
-  * Should Yedioth Internet organize the operation of the Sites through another corporation—and should it merge with another entity or merge the activity of the Sites with a third party activity—it shall be entitled to transfer to the new corporation a copy of the information collected about you on the Sites or any other statistical information in its possession, provided, however, that said corporation shall subject itself to this privacy policy.  
+We will use this information 
 
+to contact you, to enable you to use the various Websites and Services and to improve your experience of using these Websites and Services, to send you updates and direct mail, marketing information, newsletters, and promotional offers that may be of interest to you, for analysis purposes, segmentation and improvement of the Services and in to enable you to post information on Websites (as part of Services that offer this option). 
 
+2\. Details of Means of Payment
 
+In some of the Websites we will request that you enter your credit card details, or other means of payment. We will use this information, however, only for making purchases on the Websites, and for no other purpose or matter.
 
-Cookies are used for the ongoing and orderly operation of the Sites, including for the purpose of collecting statistical data about use of the Sites, the verification of information, adjusting the Sites to your personal preferences and for purposes of information security. Cookies are text files created by your browser according to a command from the Ynet Sites computers. Some of the Cookies will expire when you close down the browser and others are saved on your computer’s hard disk. If, for instance, you use Windows OS and your browser is Microsoft Internet Explorer, you can find the saved Cookies in the folder C-->Windows-->Cookies as well as in C:-->Windows-->Temporary Internet Files. The Cookies contain a variety of information, such as the pages you have accessed, the amount of time you spent on the Sites, the source from which you reached the Sites, sections and information you have sought during your entries into the Sites, and more. Cookies are also used to obviate the need to enter your personal details into the system every time you revisit sections of Ynet Sites that require registration. The information contained in the Cookies is encoded, and Yedioth Internet takes precautions to ensure that only the Ynet computers are able to read and decipher the information stored therein.
+3\. Details of products that you purchased or sold, pictures, talkbacks and other content that you will publish on the websites
 
-If you do not wish to receive Cookies, you may avoid receiving them by changing the definitions in your browser. Please read the Help file of your browser for this purpose. Please bear in mind, however, that disabling the Cookies may prevent you from using some of the services and the features on the Ynet Sites or on other websites. Furthermore, you can delete the Cookies from your computer at any time. It is recommended that you do so only if you are sure that you do not wish Ynet Sites to correspond to your individual preferences. Since the Cookies sometimes save you the need to enter usernames and passwords, it is recommended that do not delete them unless you are sure you have first written down in a safe place all the details required for the use of the Sites.
+On some of the Websites, you can post and upload messages, photos, comments (talkbacks), and other content. We will use this information to enable you to publish the content and use the Websites, for monitoring, management, analysis, segmenting and improving the experience of using the Websites, to tailor the content and advertisements displayed to you, for marketing purposes, and in order to enable you to publish information on the Websites that permit this.
 
-If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [](http://www.networkadvertising.org/managing/opt_out.asp)
+Information that we collect about you:
 
-[
+We produce and store information about users of the Websites and use it for these purposes:
 
-http://www.networkadvertising.org/managing/opt_out.asp
+1\. Offers and Services that interested you, monitoring surfing habits, usage data, information and advertisements you have viewed, web pages you have browsed, products you have purchased, fields of interest
 
-](http://www.networkadvertising.org/managing/opt_out.asp)
+We will use this information to tailor the content and advertisements displayed to you to your preferences and interests, in order to send you updates and direct mailing, marketing information, and advertising offers that may be of interest to you, as well as for monitoring, segmenting, managing and improving your experience using the Websites.
 
-[](http://www.networkadvertising.org/managing/opt_out.asp)Third Party Services 
+For further details regarding our use of cookies and other monitoring means, see the section regarding cookies hereafter in this policy.
 
-Some of the services on the Ynet Sites, like the article search engine and the Encyclopedia entries, are managed by Yedioth Internet’s commerce and content partners. These services are offered through those partners’ computers and not from Yedioth Internet’s computers. In the course of your use of these services, you may be asked to provide personal details, or information may be collected about you. The use of this information is subject to the privacy policy of the managers of those services and not to Ynet’s Privacy Policy, and so it is recommended that you review their privacy policy documents as well. 
+2\. Location data, course of traffic, IP address, device ID number, device type and settings, language, browser type
 
-Yedioth Internet permits other companies to manage the advertisements display scheme on the Ynet Sites and/or uses systems on behalf of other companies in connection with managing the advertisements display scheme on the Ynet Sites. The advertisements that you see while visiting the Ynet Sites originate from the computers of these companies. In order to manage the advertisements, these companies post Cookies on your computer and places Web Beacons in the advertisements or in the sites' pages. The Web Beacons are tiny graphics with a unique identifier that are embedded in Internet pages and are used to help collect information about the browsing and usage of the site as well as audience data (such as age, gender and areas of interest) that are extracted from interest-based advertising by Google or other advertisers through a Google Analytics code. The collected information does not identify you, and is only intended to match the displayed advertisements to your personal interests. The use made by such companies of Cookies and Web Beacons is subject to their own privacy policies and not to this Private Policy of the Ynet Sites. Should you wish to control and change definitions that would limit, inter alia, the ability to provide you with segmented advertising, you may do so vis-à-vis the companies based on their privacy policies. 
+We will use this information to tailor the content and advertisements displayed to you to your preferences and interests, to send you updates and direct mailing, marketing information, and advertising offers that may be of interest to you, as well as for monitoring, segmenting, managing and improving your experience using the Websites.
 
-check the privacy policies of the companies that are managing the advertising scheme on the Ynet Sites, you may do so via their own websites. Concerning Google’s advertisements display scheme through [this link](https://www.google.com/intl/en/policies/privacy/). 
+If you use our application, location data will be collected even when the application is not running (by using GPS signals or other information sent from the device where the application is installed). You can prevent the collection of location data from your device at any time by changing the settings in accordance with the device manufacturer's instructions.
 
-Yedioth Internet uses the assistance of different companies, which provide it with services of statistical analysis about the use of the Ynet Sites. The companies collect and analyze information about the scope of the use of the site, the frequency of the use thereof, the users’ sources of access to the site, etc. The collected information is statistical in its nature, does not identify you personally and is intended for the purposes of analysis, research and control.
+3\. Information from advertisers and from our business partners
 
-Yedioth Internet implements data security systems and procedures on the Ynet Sites. Although such systems and procedures reduce the risk of unauthorized entry into the Ynet computers, they do not provide absolute security. Therefore, Yedioth Internet does not guarantee that the services on the Ynet Sites are absolutely immune to unauthorized access to the information stored therein. 
+We may receive information about you, from our advertisers and business partners, and of other entities and companies in the Yedioth Ahronoth group. We will use this information in order to tailor the content and advertisements displayed to you to your preferences and interests, to send you updates and direct mailing, marketing information, and advertising offers that may be of interest to you, as well as for monitoring, segmenting, managing and improving your experience using the Websites.
 
-Under the Protection of Privacy Law, 5741-1981, any individual is entitled, whether himself or through a proxy so authorized in writing on his behalf or through his legal guardian, to access information pertaining to him that is contained in a database. Any person who peruses such information and finds it to be inaccurate, incomplete, unclear or non-updated, may contact the owner of the database with a request to correct, amend or delete the data. Should the owner of the database refuse to comply with such a request, he must inform the applicant of such a refusal in the manner determined in the regulations. Any refusal on the part of the owner of the database to permit access or comply with a request to amend or delete information may be appealed by the applicant in a magistrates’ court as determined in the regulations.
+4\. Information from social networks: details, pictures and profile picture, age range, gender, email address and ID number (given to each user), and additional information, according to your agreement with social networking sites
 
-Moreover, should the information contained in the Yedioth Internet’s databases be used for purposes of personally soliciting you, based on your affiliation to any population group as determined according to one or more attributes of people whose names are included in the database (“solicitation for commercial purposes”)—then you are entitled under the Protection of Privacy Law, 5741-1981, to submit a written request that such information pertaining to you be deleted from the database. Yedioth Internet shall in such case delete any information that is required only for solicitation for commercial purposes as stated above. Any information required by Yedioth Internet for management of its business—including documentation of commercial and other activities performed by you on the Ynet Sites—shall continue to be legally stored at Yedioth Internet, but no further use shall be made of such information for purposes of personally soliciting you. If within 30 days you do not receive notification that the information that Yedioth Internet was requested to delete was in fact deleted according to the provisions of this paragraph, you are entitled to apply to a magistrates’ court in the manner determined in the regulations and as authorized by law, in order that the court may instruct Yedioth Internet to take the required action as stated.
+You can use some of the Websites through a link to your Facebook account, or links to accounts on other social networks. In these cases, information about you may be transmitted to us according to the terms of use and permissions you have set in your accounts. We will use this information to tailor the content and advertisements displayed to you, your preferences and interests, to send you updates and direct mailing, marketing information, and advertising suggestions that may be of interest to you, as well as for monitoring, segmenting, managing and improving your site experience.
 
-Yedioth Internet has the right to change the terms of its Privacy Policy from time to time. Should any substantive changes be made in this Policy, to the instructions referring to use of personal information provided by you, notification of such change will be posted on the Sites’ homepage.
+The information identified about you will be collected, produced and stored in our databases.
+
+Our Websites include links to sites that we do not control (hereinafter - the "Linked Sites"), which may collect, use and produce information about their users. Providing details, and any other use of the Linked Sites, is subject to the Terms of Use and Privacy of the Linked Sites, and they are not under our control or responsibility.
+
+Saving and processing information about you is based on the need to enable you to use the Websites and to provide you with the Services, on your consent, or on our legitimate interests in operating the Websites.
+
+Transferring Information to Third Parties:
+
+For the purposes and uses set forth in this Privacy Policy, and to support and operate the Websites (including through "Cloud Services"), we may transfer information about you, to companies and other entities in the Yedioth Ahronoth Group, as well as to other entities and various service providers - in Israel and abroad.
+
+We may pass on information to third parties, also in these cases:
+
+1\. In the event that you publish the information (in a sale notice, content on your behalf, or in any other publication that you upload to one of our Websites);
+
+2\. In order to tailor third-party advertising and various content for you.
+
+3\. If you purchase products or Services from our trading and content partners, or participate in the activities of these entities, we will transfer to our partners the information they need about you to complete the purchase process or management activity, and maintain contact with you;
+
+4\. In the event that you violate the Terms of Use of the Websites, or the provisions of the subscription agreements to Websites or for Services, or if you perform any actions that appear to be in violation of the law;
+
+5\. In case a dispute arises between you and us, or if we receive a judicial order or regulatory instruction, instructing us to provide the information;
+
+6\. In the event that we organize the activities of the Websites in the framework of another corporation, or merge with another entity, or merge the activities of the Websites with the activities of another entity - provided that the other entity assumes the provisions of this Privacy Policy.
+
+The third parties to whom we may transmit information are:
+
+1\. Our trading and content partners, as well as companies and entities in the Yedioth Ahronoth group, including the various service providers and consultants of the companies and entities in the group.
+
+2\. Entities that will be exposed to the details that you publish on the Websites (for example talkbacks or advertisements to sell a product).
+
+3\. Entities that a judicial body or any regulatory body may order to grant them access to information.
+
+4\. Any entity who shall purchase the activities of the Site, or shall merge with a corporation from Yedioth Group, provided that it is subject to this Privacy Policy.
+
+In any event that we transmit information about you outside the borders of Israel, the transfer of the information will be performed in accordance with the terms of the law and this policy.
+
+We will use the contact information you enter (by registering for Services or to the Websites, by purchasing or selling products, uploading and publishing content on your behalf, or in any other case where you enter contact information), in order to keep in touch with you, to offer and send you various marketing content from various entities, direct mailing, newsletters , updates, advertising, and to notify you of various notices regarding Services and the Websites (hereinafter - "Mail").
+
+The Mail will be sent to you via e-mail, pop-up notifications or push notifications, SMS messages, and any other means of communication.
+
+If you do not wish to receive advertising mail, you may contact us and request that your name be removed from the mailing list, by clicking on a link that appears in each e-mail message sent to you, or by contacting: Yedioth Customer Service Department, 1 Noah Moses Street Rishon Lezion ; or by email, at [service@y-i.co.il](mailto:service@y-i.co.il), or by contacting the service call center at number: 972-3-6082222. We will remove your information from the mailing list, in accordance with your request, the Telecommunications Law (Bezeq and Broadcasting), 5742- 1982, and the Privacy Protection Law, 5742- 1982.
+
+If you use our applications, we will send you warnings, updates and push notifications, including sounds, even when the application is not in use, through the device servers on which the application is installed.
+
+You may, at any time, cancel or update the possibility of receiving push notifications by changing the application settings on your device.
+
+We will keep the information about you during the period that you use our Websites or Services, and afterwards for the purpose of providing the Services, and sending offers and updates, or other mail, in accordance with the terms of this policy.
+
+We will also keep the information about you during the period required to protect and maintain our legal rights, as well as in order to comply with regulatory requirements, the prevention of deception or fraud, enforcement of this Privacy Policy and Terms of Use of the Websites.
+
+1\. The right to review the information
+
+You are entitled to review information that was collected about you, that is stored in our databases, and which is identified and associated with you. It is not possible to review information which is not identified and associated with you.
+
+2\. The right to amend information
+
+If you have found that the information stored about you is not correct, complete, clear or updated, it is possible to contact us, in a detailed request to amend or delete the information.
+
+To exercise these rights, please contact us using the contact information provided at the beginning of this document. We will review your application and respond according to the deadlines set in the law. If we refuse your request, you can appeal to the Magistrate's Court, in accordance with the provisions of the law.
+
+3\. The right to cancel consent
+
+You are entitled, at any time, to cancel your consent to receive direct mail, by contacting us with an appropriate request. For additional details, see the chapter on direct mail and advertising notifications.
+
+4\. Additional rights regarding information
+
+You may be entitled to additional rights regarding information about you: rights to delete information, to limit and stop the processing of information, to transfer information to other entities. Inquiries about these issues, or regarding other matters related to this Privacy Policy, can be referred to us through the contact information that appears at the beginning of this document. We will review your inquiry and we will respond accordingly.
+
+Even if we delete, amend information, or grant your request in any other manner, we will in any case continue to keep information we require for managing the Websites and our businesses, including documenting operations, as well as information required to defend and protect our legal rights, or for complying with regulatory requirements, to prevent deception or fraud, and for the enforcement of this Privacy Policy and Terms of Use of the Websites.
+
+For complaints regarding your rights or regarding this Privacy Policy, you can contact the Privacy Protection Authority at the e-mail address: [PPA@justice.gov.il](mailto:PPA@justice.gov.il)
+
+We invest a lot of effort to protect information and implement various information security systems and procedures. However, our protection and information security systems are not completely immune to all unauthorized penetration or access, and they do not provide absolute protection. We will not be held liable for any damage you may incur as a result of such penetration, unauthorized use, or theft of information from our databases or Websites.
+
+Any use of the various Websites, of content uploaded to Websites and content related to them - could expose you to a variety of dangers associated with using the internet: computer or mobile phone penetration, viruses, malware, etc. Use of the Websites, of the various Services, and the content uploaded to the Websites or the content related to them is under your sole responsibility. We recommend that you install adequate security software and security means before using the Websites and the Services.
+
+The Websites and Services include and use "cookies", "web beacons" pixels, and other systems that collect information and monitor the use of the Websites.
+
+"Cookies" are strings of letters and numbers that are stored in the computer's memory (or device) which allows to store information about you. Some cookies will expire when you finish surfing and close your browser software, and others will be saved in your computer (or device) memory.
+
+The cookies contain information about your surfing habits, the pages you have visited, the length of time you spent on the Websites, where you came from to the Websites, sections and information you wish to see when entering the site, monitoring your surfing and activity habits, details of your ISP, IP address, device location, and more.
+
+The cookies are used for various purposes: gathering statistics, verifying details, adjusting the site to your personal preferences, monitoring surfing habits and activities, surfing history, characterizing your usage of the Websites, improving the service and user experience, advertising and marketing tailored to your preferences, information security, and other purposes.
+
+Some cookies are necessary for the proper operation of the site, some are used for control, evaluation and analysis purposes, and some are used to personalize the marketing and advertising content displayed to you.
+
+Some of the cookies and other systems that operate on the Websites are operated by third parties or as part of the service provided by those third parties in the framework of the Websites. Any use made by these third parties, cookies, web beacons, or any other similar technology, is governed by their privacy policy.
+
+Deleting Cookies and Stopping the Use of Them:
+
+You can delete, or completely stop using cookies by changing the settings in your internet browser. Disabling cookies may harm your possibility of using from using some of the Websites and Services, as well as the quality of surfing and other operations on other websites. In some cases, deleting cookies will require you to re-enter your username and password before logging in to the various Services. For more details about cookies, and the different options for disabling or deleting cookies, please refer to these links, depending on the type of browser you use:
+
+Google Chrome browser:
+
+<https://support.google.com/chrome/answer/95647?hl=en>
+
+Microsoft Internet Explorer Browser:
+
+<https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer>
+
+Mozilla Firefox browser:
+
+<https://support.mozilla.org/en/kb/%D7%9E%D7%97%D7%99%D7%A7%D7%AA%20%D7%A2%D7%95%D7%92%D7%99%D7%95%D7%AA>
+
+Apple Safari Browser:
+
+<https://support.apple.com/en-il/guide/safari/manage-cookies-and-website-data-sfri11471/mac>
+
+Setting Cookie Settings in the Websites:
+
+You can determine and set what types of cookies will be activated during your use of the Websites, and which cookies you refuse to accept.
+
+To set and adjust cookie settings on your site, according to your preferences, click here: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/)
+
+ Publisher Common ID – Opt-Out
+
+The Publisher Common ID is a cookie that can be utilized by multiple advertisers in order to provide relevant advertising. You may opt-out of receiving this id.
+
+To opt-out Publisher Common ID settings click here: Opt-Out
+
+For more information and other external Opt-Out options:
+
+NAI – https://www.networkadvertising.org/choices/
+
+DAA – http://optout.aboutads.info/Other systems that operate in the Websites:
+
+Other systems operate in the Websites which collect information about users, monitor their activities, and some of them also help manage the advertisements on the Websites, including: pixels, "web beacons" and other means. These tools monitor site usage, scope of use, frequency of use, access sources, and other details. The information collected through these tools is designed to tailor the content and advertisements displayed to you to your preferences and to the fields of your interest, as well as for the purposes of analyzing, managing and improving the experience of using the Websites, segmenting research and monitoring.
+
+Some of the advertisements shown to you on Websites are run by third parties. The use of these tools by companies to monitor the activity of surfers is detailed in the privacy policies of those companies.
+
+One of the systems that operates in Websites is the Google Analytics system, which collects information about users' surfing habits. For more details on this system, please see these links: <https://policies.google.com/privacy?hl=iw>, and: <http://www.google.com/analytics/terms/us.html>. For options on limiting this system, see the link: <https://tools.google.com/dlpage/gaoptout>
+
+Another system operating on the Websites is Taboola, which collects information about users' surfing habits, and the content offered for viewing is tailored to their preferences. For more details on this system, please see the link: [https://popup.taboola.com/en/?template=colorbox&utm_source=ynet-ynet-:&utm_medium=referral&utm_content=thumbnails-c:Below%20Main%20Column%20Thumbnails](https://popup.taboola.com/en/?template=colorbox&utm_source=ynet-ynet-:&utm_medium=referral&utm_content=thumbnails-c:Below%20Main%20Column%20Thumbnails)
+
+We will update this Privacy Policy from time to time. The binding version of this Privacy Policy is the latest version displayed on the Websites, and you accept and agree to the Privacy Policy including all of its clauses, including any amendments and updates thereof. If we make any material changes to this Privacy Policy, an appropriate notice will be posted on the Websites’ home pages. Please review this page from time to time to check the latest and most binding version of this Privacy Policy. 
