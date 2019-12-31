@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixedmartialarts.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221404id_/https%3A//www.mixedmartialarts.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixedmartialarts.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231012115id_/https%3A//www.mixedmartialarts.com/privacy_policy) for the most accurate reproduction.*
 
 # Terms Of Use - The Underground
 
