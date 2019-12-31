@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arxiv.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630203418id_/https%3A//arxiv.org/help/policies/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arxiv.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231153617id_/https%3A//arxiv.org/help/policies/privacy_policy) for the most accurate reproduction.*
 
 # arXiv Privacy Policy | arXiv e-print repository
 
