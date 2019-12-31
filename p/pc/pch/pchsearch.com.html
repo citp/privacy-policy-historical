@@ -1,18 +1,16 @@
-<!--The following is the downloaded HTML source of the pchsearch.com privacy policy that was archived on 2019-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630235446id_/http%3A//privacy.pch.com) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pchsearch.com privacy policy that was archived on 2019-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191231045126id_/http%3A//privacy.pch.com) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" dir="ltr"><head>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
-		<meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
-	<base href="https://privacy.pch.com/en-us/">
+		<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1158.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"c72205da0c",applicationID:"22505713"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1158.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+	<base href="https://privacy.pch.com/">
 	<meta name="generator" content="Joomla! - Open Source Content Management">
-	<title>Privacy Policy Home</title>
+	<title>Home</title>
 	<link href="/templates/pchprivacy3/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-	<link href="/media/jui/css/chosen.css" rel="stylesheet">
-	<link href="/templates/pchprivacy3/css/template.css?23we23we" rel="stylesheet">
+	<link href="/templates/pchprivacy3/css/template.css?1885692425" rel="stylesheet">
 	<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-	<link href="/templates/pchprivacy3/css/user.css?23we23we" rel="stylesheet">
+	<link href="/templates/pchprivacy3/css/user.css?1885692425" rel="stylesheet">
 	<style>
 
 	h1, h2, h3, h4, h5, h6, .site-title {
@@ -39,17 +37,10 @@
 	<script src="/media/jui/js/jquery.min.js"></script>
 	<script src="/media/jui/js/jquery-noconflict.js"></script>
 	<script src="/media/jui/js/jquery-migrate.min.js"></script>
-	<script src="/media/jui/js/chosen.jquery.min.js"></script>
 	<script src="/media/system/js/caption.js"></script>
 	<script src="/media/jui/js/bootstrap.min.js"></script>
-	<script src="/templates/pchprivacy3/js/template.js?23we23we"></script>
-	<script src="/templates/pchprivacy3/js/privacymenu.js?23we23we"></script>
+	<script src="/templates/pchprivacy3/js/template.js?1885692425"></script>
 	<script>
-
-		jQuery(document).ready(function (){
-			jQuery('select').chosen({"disable_search_threshold":10,"search_contains":true,"allow_single_deselect":true,"placeholder_text_multiple":"Type or select some options","placeholder_text_single":"Select an option","no_results_text":"No results match"});
-		});
-	
 jQuery(window).on('load',  function() {
 				new JCaption('img.caption');
 			});
@@ -71,205 +62,772 @@ jQuery(window).on('load',  function() {
 
 			</div>
 			<div>
+
 			<br>
 			</div>
 			<div class="row-fluid">
-									<!-- Begin Sidebar -->
-					<div id="sidebar" class="span3">
-						<div class="sidebar-nav">
-									<div class="moduletable">
-						
 
-<div class="custom">
-	<div id="leftnav">
-	<a href="/"><div id="main" class="onSub"><b>Policy Summary</b></div></a>
-	<a href="/collection-use"><div id="collection-use" class="onSub"> - Collection &amp; Use</div></a>
-	<a href="/tracking-technologies"><div id="tracking-technologies" class="onSub">- Tracking Technologies</div></a>
-	<a href="/data-security"><div id="data-security" class="onSub">- Data Security</div></a>
-	<a href="/data-sharing"> <div id="data-sharing" class="onSub">- Data Sharing</div></a>
-	<a href="/advertising">  <div id="advertising" class="onSub">- Advertising</div></a>
-	<a href="/user-options">  <div id="user-options" class="onSub">- User Options</div></a>
-	<a href="/additional-information"> <div id="additional-information" class="onSub">- Other Information</div></a>
-</div></div>
-		</div>
-	
-						</div>
-					</div>
-					<!-- End Sidebar -->
-				
-				<main id="content" role="main" class="span9">
+
+				<main id="content" role="main" class="span12">
 					<!-- Begin Content -->
-					
 					
 					<div id="system-message-container">
 	</div>
 
-					   					    <div id="summaryContainer" class="summaryContainer">
-					    	<div class="summaryHeader">
-					    				<div class="moduletable">
-						
 
-<div class="custom">
-	<div class="summary-title">Policy Summary</div>
-<div class="sectionLeadin">
-<div id="CTV"><a title="TRUSTe online privacy certification" href="//privacy.truste.com/privacy-seal/Publishers-Clearing-House/validation?rid=aab593cf-de19-453b-8c08-dec4d4024af3" target="_blank"><img style="border: none;" src="//privacy-policy.truste.com/privacy-seal/Publishers-Clearing-House/seal?rid=8be31524-7560-4990-b26e-1c9fbfe54811" alt="TRUSTe online privacy certification"></a></div>
-
-<p><strong>Last Updated January 18, 2019</strong></p>
-<p>This notice provides highlights of the full <a href="/privacy-policy">Publishers Clearing House Online Privacy Statement </a>. Unless otherwise specified, this notice and the full privacy statement apply to all those Publishers Clearing House Web sites and services that display or link to this notice. </p>
-<p>
-Our Websites and Mobile Apps use IBA, Interest Based Advertising. To learn more about IBA you can click here <a href="http://www.aboutads.info/" target="_BLANK">http://www.aboutads.info/</a>. To learn more about PCH use of IBA please click <a href="/advertising"> here </a>.  You can exercise your choices related to personalized ads by clicking <a href="http://preferences-mgr.trustarc.com/?pid=pch01&amp;aid=pch_pub01&amp;type=pch" target="_BLANK">here. </a> 
-Publishers Clearing House Mobile APP users can use the following links to download the DAA AppChoices App that lets you opt out from interest-based advertising with a particular company:  <a href="https://itunes.apple.com/us/app/appchoices/id894822870" target="_BLANK">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.DAA.appchoices" target="_BLANK">Google Play Store</a>. If you engage with PCH on multiple devices, you must opt out on each device separately.
-<a id="moreLink" class="moreLink">more...</a></p>
-<div id="summaryFull" class="hidden">
-<p>To the extent hyperlinks or banner advertisements incorporating hyperlinks are utilized on this Site to access third party sites, users should be aware that these third party web sites are not controlled by pch.com and, therefore, are not subject to this privacy policy. We recommend that users check the privacy policies of these individual sites to see how their personal information will be utilized.</p>
-<p>Please note that our Web sites may utilize framing techniques that allow us to insert advertising content from third parties into a PCH web page. If you are providing information or responding to an advertisement while visiting our sites you should always check the url listed in your browser. If such url is not from PCH, then the information that is being collected would be to a third party whose privacy policy governs the collection and use of such information. <a id="lessLink" class="lessLink">less...</a></p>
-</div>
-</div></div>
-		</div>
+					        <div id="main">
+					          <div class="item-page" itemscope="" itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="en-US">
 	
-					    	</div>
-					    	<div class="summaryColumn1">
-					    				<div class="moduletable">
+		
 						
-
-<div class="custom">
-	<div class="summarySection">
-<a href="/collection-use"><div class="collection-and-use-title">Collection and Use<span class="right">»</span> </div></a>
-<br>
-<p>We collect certain personal information from our visitors to process and fulfill online sweepstakes entries and online orders for the products and services we offer. Such information may include full name, email address and date of birth. To provide our users with a more personalized and relevant web service, we may also collect and use personal data to identify users' specific interests and needs and may, at times, use your personally identifiable information to exchange, link or combine it with third party data groups to help understand your needs and provide you with better and more relevant service.</p>
-<span><a class="summaryLink" href="/collection-use">learn more »</a></span>
-<br>
-<br>
-</div></div>
-		</div>
-			<div class="moduletable">
-						
-
-<div class="custom">
-	<div class="summarySection">
-<a href="/tracking-technologies"><div class="tracking-title">Tracking Technologies<span class="right">»</span> </div></a>
-<br>
-<p>Through the use of “cookies”, “pixel tags” and "flash cookies" we may collect data on, among other things, the following information:</p>
+	
+	
+				
+						<div itemprop="articleBody">
+		        <p>
+            </p><div style="float: right; border: 2px solid;width: 40%;   padding-top: 7px;  padding-right: 10px;  padding-bottom: 5px;  padding-left: 10px;">
+                 For California Consumers, please
+                <a href="/california-rights">click here</a>
+                for information on your rights under the California Consumer Protection Act
+                to access and control the use your data.          
+            </div>
+         <p></p>
 <p>
-</p><ul>
-<li>The website that referred you to us</li>
-<li>The web pages you viewed on our site</li>
-<li>The advertisements you viewed and clicked on at our site</li>
-<li>Coupon activity including the types of coupons that you choose</li>
-<li>Store your preferences such as volume control or high game score</li>
-<li>Display content based upon what you view on our site or mobile apps to personalize your visit.  To learn more about our Targeted or Behavioral Advertising practices, please click <a href="/advertising">here.</a></li>
+ <b>   Last Updated: December 26, 2019</b>
+</p>
+
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p>
+    Publishers Clearing House ("PCH") respects your privacy. We take seriously
+    our obligation to protect the information or "data" about you that we
+    collect, process or share with others. This Privacy Policy governs all
+    websites and digital properties owned or operated by PCH ("Website") and
+    applies to all registrants, entrants, visitors and other users of such
+    Website ("Users").
+</p>
+<p>
+    The purpose of this Privacy Policy is, among other things, to inform you 1)
+    why we collect consumer data, 2) where we get the consumer data we hold, 3)
+    the kinds of consumer data we collect, 4) the kinds of consumer data that
+    we share with third parties, and 5) how that third-party sharing occurs.
+</p>
+<p>
+    The choices you have regarding collection and use of your data are
+    described in the relevant sections below. Residents of some states have
+    additional rights to access and control the use of their data. Please see
+    the state-specific statements of privacy rights below.
+</p>
+<p>
+    If you choose to register, enter or access our Website, you consent to and
+    agree to be bound by this Privacy Policy. If you don't agree to be bound by
+    this Privacy Policy, please do not register, enter or access our Website.
+    We reserve the right in our discretion to change, modify, add or remove
+    portions of this Privacy Policy. You should check this page periodically
+    for any changes. If you use or access our Website after such a change is
+    made, you will consent to and agree to be bound by the change.
+</p>
+<p>
+    <strong></strong>
+</p>
+<p>
+    <strong>1. </strong>
+    <a href="#_Why_does_PCH">
+        <strong>Why does PCH collect consumer data?</strong>
+    </a>
+    <strong></strong>
+</p>
+<p>
+    <strong>2. </strong>
+    <a href="#_From_whom_does">
+        <strong>From whom does PCH collect consumer data?</strong>
+    </a>
+    <strong></strong>
+</p>
+<p>
+    <strong>3. </strong>
+    <a href="#_What_consumer_data">
+        <strong>What consumer data does PCH collect?</strong>
+    </a>
+    <strong></strong>
+</p>
+<p>
+    <strong>4. </strong>
+    <a href="#_Does_PCH_share">
+        <strong>Does PCH share consumer data with third-parties?</strong>
+    </a>
+    <strong></strong>
+</p>
+<p>
+    <strong>5. </strong>
+    <a href="#_How_does_such">
+        <strong>How does such third-party data-sharing occur?</strong>
+    </a>
+    <strong></strong>
+</p>
+<p>
+    <strong>6. </strong>
+    <a href="#_What_are_Cookies">
+        <strong>What are Cookies and other tracking technologies?</strong>
+    </a>
+    <strong></strong>
+</p>
+<p>
+    <strong>7. </strong>
+    <a href="#_Can_I_opt-out">
+        <strong>What is Targeted or Behavioral Advertising?</strong>
+    </a>
+    <strong></strong>
+</p>
+<p>
+    <strong>8. </strong>
+    <a href="#_Can_I_opt-out_1">
+        <strong>Can I opt-out of receiving email from PCH?</strong>
+    </a>
+    <strong> </strong>
+    <strong></strong>
+</p>
+<p>
+    <strong>9. </strong>
+    <a href="#_Can_I_opt-out_1">
+        <strong>Can I opt-out of data collection and use by PCH?</strong>
+    </a>
+    <strong> </strong>
+    <strong></strong>
+</p>
+<p>
+    <strong>10. </strong>
+    <a href="#_What_about_third-party">
+        <strong>What about third-party websites?</strong>
+    </a>
+    <strong></strong>
+</p>
+<p>
+    <strong>11. </strong>
+    <a href="#_What_does_PCH">
+        <strong>What does PCH do to keep their Website secure?</strong>
+    </a>
+    <strong></strong>
+</p>
+<p>
+    <strong>12. </strong>
+    <a href="#_Does_PCH_collect">
+        <strong>
+            Does PCH collect information from Users outside of the United
+            States?
+        </strong>
+    </a>
+    <strong></strong>
+</p>
+<p>
+    <strong>13. </strong>
+    <a href="#_Does_PCH_collect_1">
+        <strong>Does PCH collect personal information from children?</strong>
+    </a>
+    <strong></strong>
+</p>
+<p>
+    <strong>14. </strong>
+    <a href="#_What_about_off-line">
+        <strong>What about off-line information and privacy practices?</strong>
+    </a>
+    <strong></strong>
+</p>
+<p>
+    <strong>15. </strong>
+    <a href="#_Your_California_Privacy">
+        <strong>What are my California Privacy Rights?</strong>
+    </a>
+    <strong></strong>
+</p>
+<p>
+    <strong>16. </strong>
+    <a href="#_Your_Nevada_Privacy">
+        <strong>What are my Nevada Privacy Rights?</strong>
+    </a>
+    <strong></strong>
+</p>
+<p>
+    <strong>17. </strong>
+    <a href="#_Further_Questions?"><strong>Further Questions?</strong></a>
+    <strong></strong>
+</p>
+<h1>
+    <a name="_Why_does_PCH"></a>
+    1. Why does PCH collect data on consumers?
+</h1>
+<p>
+    <strong></strong>
+</p>
+<p>
+    PCH collects consumer data for the following business and commercial
+    purposes:<strong></strong>
+</p>
+<ul>
+    <li>
+        <em>Relevancy Purposes</em>
+        , to provide Users with the most relevant experiences on our Website
+        and versions of our mobile applications, including sweepstakes, games
+        and ads, that we think are likely to be of interest to you.
+    </li>
+    <li>
+        <em>Transactional Purposes</em>
+        , to contact Users with our offers and promotions, to process entries
+        and orders, to award tokens and prizes, to fulfill orders, to
+        facilitate your interaction with the advertisers on whose ads you have
+        clicked and whose surveys you may have taken.
+    </li>
+    <li>
+        <em>Technical Purposes</em>
+        , to provide notices, updates, security alerts and support information;
+        to analyze usage trends in the aggregate; and to administer our
+        Website. For mobile devices, we use analytics software to allow us to
+        better understand the functionality of our mobile software on your
+        phone or tablet. This software may record information such as how often
+        you use the application, the events that occur within the application,
+        aggregated usage, performance data and where the application was
+        downloaded from.
+    </li>
+    <li>
+        <em>Customer Service Purposes</em>
+        , to communicate with you via SMS / email / direct mail about your
+        entries, orders, payments and any other questions you may have.
+    </li>
+    <li>
+        <em>Reporting Purposes,</em>
+        to share consumer data with third-party reporting services, fraud
+        detection services, advertisers, product vendors and (in the case of
+        winners) governmental agencies.
+    </li>
 </ul>
+<h1>
+    <a name="_From_whom_does"></a>
+    2. From whom does PCH collect consumer data?
+</h1>
+<p>
+    PCH collects consumer data from sources in the following categories:
+</p>
+<ul>
+    <li>
+        <em>Direct from Consumer</em>
+        , information that you provide to us directly, such as registering on
+        our website (e.g., name and address), responding to surveys, playing
+        games, claiming prizes, redeeming Tokens and posting messages on the
+        PCH Blog.
+    </li>
+    <li>
+        <em>Automatic Data Collection</em>
+        , collected automatically when you visit or register on our Website,
+        such as internet protocol (IP) address, device ID, browser type,
+        internet service provider (ISP), referring/exit pages, operating
+        system, date/time stamp and/or click-stream data, and through the use
+        of "cookies", "pixel tags" and similar tracking technologies. For
+        additional information on such tracking technologies, see Section 6
+        below.
+    </li>
+    <li>
+        <em>Third-Party Sources</em>
+        , information obtained from third parties, such as data management
+        platforms, advertisers, publishers, the public domain and governmental
+        and other public sources, as well as commercial data aggregators who
+        collect data from businesses and other sources and make that data
+        available to commercial users like PCH for a valuable consideration, or
+        through coops and exchanges in which third-party advertisers and
+        website operators pool their consumer data and make it available to
+        other participants in the coop or exchange.
+    </li>
+</ul>
+<h1>
+    <a name="_What_consumer_data"></a>
+    3. What consumer data does PCH collect?
+</h1>
+<p>
+    PCH collects data about consumers in the following categories:
+</p>
+<ul>
+    <li>
+        <em>Identifying Data</em>
+        , such as name, postal address, telephone number, e-mail address, cell
+        phone number (for SMS purposes), user name and password.
+    </li>
+    <li>
+        <em>Technical Data</em>
+        , such as IP address, MAID (Mobile Advertising ID), site traffic data
+        and data on any websites that referred you to us.
+    </li>
+    <li>
+        <em>Engagement Data</em>
+        , such as the web pages you viewed, the sweepstakes, games, mobile
+        applications and instant win opportunities you played, surveys you may
+        have taken, advertisements you have viewed and/or clicked-on, and other
+        interactions on our Website.
+    </li>
+    <li>
+        <em>Affinity Data</em>
+        , such as data on your demonstrated interests and hobbies, the games
+        you play and the products you have viewed or purchased and payments
+        made.
+    </li>
+    <li>
+        <em>Demographic Data</em>
+        , such as age, gender, income level, geographic area and other personal
+        characteristics.
+    </li>
+    <li>
+        <em>Winner Information</em>
+        , such as contests entered, entry date(s), prize choices and payment
+        preferences for winners of PCH prizes.
+    </li>
+</ul>
+<p>
+    <strong></strong>
+</p>
+<strong>
+    <br clear="all">
+</strong>
+<p>
+    <strong></strong>
+</p>
+<h1>
+    <a name="_Does_PCH_share"></a>
+    4. Does PCH share consumer data with third-parties?
+</h1>
+<p>
+    PCH shares consumer data with third parties in the following categories:
+</p>
+<ul>
+    <li>
+        <em>Targeting Partners</em>
+        , such as data management partners or other third parties who use
+        Engagement, Affinity and Demographic information to align you with
+        others in relevant groups based on common characteristics, interests
+        and propensities in order to create anonymized marketing segments that
+        may be shared with third-parties.
+    </li>
+    <li>
+        <em>Marketing Partners,</em>
+        such as advertisers or app developers who wish to target and/or
+        retarget our Users with relevant advertisements on other websites or
+        magazine publishers and direct-to-consumer merchants who wish to
+        communicate directly with our customers and Users through name rental
+        or exchange.
+    </li>
+    <li>
+        <em>Acquisition Partners</em>
+        , such as publishers and other third parties who display PCH ads on
+        their websites to help PCH in attracting and acquiring new customers
+        and users, or retargeting existing or lapsed Users, for our Websites.
+    </li>
+    <li>
+        <em>Service Providers</em>
+        , such as optimization and attribution partners, fraud-detection
+        services, lettershop operators, fulfillment houses and other service
+        providers, who need access to consumer data in order to provide such
+        services, and advertisers, product vendors and publishers, who need the
+        data to provide you with the products and services you have ordered.
+    </li>
+    <li>
+        <em>Media Intermediaries, </em>
+        such as buy-side advertising platforms, media vendors, brokers,
+        agencies or other intermediaries that represent advertisers, publishers
+        or others who may wish to match their audience against our audience to
+        determine if they want to target offers to our Users.<em></em>
+    </li>
+    <li>
+        <em>Aggregators</em>
+        , such as data management platforms, advertisers and publishers, as
+        well as commercial data aggregators who collect data from businesses
+        and other sources, and coops and exchanges in which third-party
+        advertisers and website operators pool their consumer data and make it
+        available to other participants in the coop or exchange.
+    </li>
+    <li>
+        <em>Reporting Partners</em>
+        , such as ad agencies, adtech platforms (demand-side, supply-side and
+        data management platforms), to report on events that occur on our
+        Website, including advertising impressions, clicks and orders. Note: if
+        you win a prize of $600 or more, you will be required to provide your
+        tax identification number for IRS reporting.
+    </li>
+    <li>
+        <em>Supporting Partners</em>
+        , such as marketing advisors, consultants and other third-party
+        industry participants who work with us on a commercial basis or provide
+        advice or services to us to support our business.
+    </li>
+</ul>
+<h1>
+    <a name="_How_does_such"></a>
+    5. How does such third-party data-sharing occur?
+</h1>
+<p>
+    We assign a unique generic user ID ("GUID") to each User. GUIDs are
+    anonymized, and contain no personally-identifiable information. We use
+    GUIDs to track and report on Users' engagement with our Website,
+    transactions with us and any prizes, awards or other benefits to which they
+    may be entitled. GUIDs may be shared with third-party advertiser to
+    facilitate and report on a User's engagement with advertisements or offers
+    from such third parties.
+</p>
+<p>
+    We share a User's Google Advertising ID with application tracking companies
+    so that they can track and report to us whether a User has viewed, clicked
+    on our accepted an advertiser's offer or downloaded an advertiser's app.
+</p>
+<p>
+    We use third-party service providers to verify a User's address, in order
+    to ensure our commercial messages reach the intended User and to process
+    any User orders prior to shipping, submit a list of User names and
+    addresses to the third-party for
+</p>
+<p>
+    We may provide User contact information and data to selected third-party
+    advertisers and publishers to present offers directly to our Users that are
+    geared towards their interests.
+</p>
+<p>
+    Our applications may contain tools from third-party service providers that
+    enable those third parties to collect and analyze non-personally
+    identifiable information from Users' devices in accordance with such third
+    parties' own privacy policies and subject to the legal requirements that
+    apply to them.
+</p>
+<p>
+    In the event of a merger, acquisition or change of control of PCH, customer
+    data would be considered a business asset and would be transferred. We will
+    disclose information we maintain when required to do so by law, for
+    example, in response to a court order or a subpoena. We may also disclose
+    consumer data as required by law or to protect the safety and security of
+    our Users.
+</p>
+<p>
+    We will provide your name and address to the publisher of any magazine you
+    order, or any item you order that is shipped to you directly by the seller,
+    so they can fulfill your order. Such publishers or sellers may exchange or
+    rent their subscriber and customer names, typically to third-parties with
+    offers that align with User interests. If you do not wish to receive such
+    offers, we suggest that you notify the publisher or seller directly, as PCH
+    is not able to make such requests on your behalf.
+</p>
+<p>
+    We use other third party vendors such as lettershops, e-mail service
+    providers, credit card processors and fulfillment houses, to provide postal
+    and e-mail delivery services, order processing and order fulfillment
+    services. When you order or register on our Website, we may share your
+    consumer data to enable these third parties to provide these services.
+    These third parties are prohibited from using your consumer data for any
+    other purpose including their own marketing purposes.
+</p>
+<p>
+    When you register with our Website, we may share your name and information
+    with third parties who may contact you with relevant offers. If you wish to
+    opt out of such exchanges you may
+    <a href="https://accounts.pch.com/do-not-sell" target="_blank">
+        click here
+    </a>
+    .
+</p>
+<p>
+    We may share your personally identifiable information with our affiliates,
+    our technical consultants, auditors, attorneys and other third parties who
+    work with us to make our Website and services available.
+</p>
+<h1>
+    <a name="_What_are_Cookies"></a>
+    6. What are Cookies and other tracking technologies?
+</h1>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    PCH and its partners use cookies or similar technologies to recognize User
+    access privileges to PCH, analyze trends, administer the website, track
+    users’ movements around the website, add advertisements for goods or
+    services we think may interest you, estimate our audience size, and to
+    gather demographic information about our user base as a whole.
+</p>
+<p>
+    A cookie is a small data file that a website can send to the browser on
+    your computer when you link to that website. A cookie can hold information
+    deposited in the file by a website, which can then be read by other sites.
+    A cookie is not a computer program, it does not extract personal
+    information about you or from your computer and it does not read data on
+    your hard drive or instruct your computer to perform any function.
+</p>
+<p>
+    You may be able to use your browser to give you the option of accepting or
+    rejecting a cookie whenever you visit a website. You may also be able to
+    use your browser or other software to clear cookies from your browser any
+    time you wish. However, deleting a website's cookie may mean that some
+    features of our Website will not operate correct. Besides cookies, we may
+    use web beacons, tracking pixels or similar tracking mechanisms to track
+    your usage patterns on our Website. Like cookies, these small files do not
+    store, record or share any personal information about you. We utilize
+    third-party internet service providers to collect site traffic data through
+    the use of such tracking technologies that can be embedded in our Website.
+    These service providers can then provide us with aggregate and anonymous
+    usage data to allow us to improve our Website. This usage data cannot in be
+    associated with any personal information we have about you.
+</p>
+<h1>
+    7. Targeted or Behavioral Advertising:
+</h1>
+<p>
+    Targeted (also known as Behavioral) Advertising uses information collected
+    on a person's web browsing behavior (such as the pages they have visited or
+    the searches they have made) to select relevant digital experiences and
+    advertisements for display to that person on third-party websites. For
+    example, if you have shown an interest in cooking while visiting PCH, you
+    may be served an advertisement from PCH or a third-party advertiser for
+    cooking-related products when you visit a website other than our Website.
+    The information collected is linked only to an anonymous GUID; it does not
+    include any information that could be linked back to a particular person,
+    such as their name, address or credit card number.
+</p>
+<p>
+    If you would like to opt out of Targeted Advertising, please
+    <a href="http://preferences-mgr.truste.com/?pid=pch01" target="_blank">
+        click here
+    </a>
+    . If you are accessing our promotions and content through our mobile apps,
+    you may opt out of such targeted advertising by opening the menu options on
+    our APP, clicking on “Ad Preferences” and completing your opt-out
+    preferences as indicated.
+</p>
+<p>
+    Please note that this will opt you out of targeted ads from PCH and any
+    other participating advertisers. If you opt out, you will continue to
+    receive online advertising from Publishers Clearing House; however, these
+    ads won't be targeted and therefore may not be as relevant to you.
+</p>
+<h1>
+    <a name="_Can_I_opt-out"></a>
+    8. Can I opt-out of receiving email from PCH?
+</h1>
+<p>
+    Yes. Receiving email from PCH is always optional. You may opt-in to all,
+    some or none of our email programs. If you are already receiving PCH
+    promotional emails for one or more of our email programs, and no longer
+    wish to receive such communications, simply follow the "unsubscribe"
+    instructions that appear in every PCH e-mail. If you prefer, or have other
+    questions, you can contact us through the "Contact Us" page found in the
+Info Center on our Website at    <a href="https://info.pch.com/contact-us/">https://info.pch.com/</a> or by
+    writing directly to Christopher L. Irving, Consumer &amp; Privacy Affairs,
+    PCH, 300 Jericho Quadrangle, #300, Jericho, New York, 11753.
+</p>
+<p>
+    If you have provided consumer data directly to our third-party marketing
+    partners, and are receiving email communications directly from these third
+    parties, PCH cannot in most instances unsubscribe you from these third
+    party email programs. If you wish to unsubscribe from one of our marketing
+    partners, please follow the unsubscribe procedures within their e-mails or
+    in their privacy policy.
+</p>
+<h1>
+    <a name="_Hlk24288329"></a>
+    <a name="_Can_I_opt-out_1"></a>
+    9. Can I opt-out of data collection and use by PCH?
+</h1>
+<p>
+    We will retain your data for as long as your account is active and the data
+    is needed for contest processing or to provide you the goods and services
+    that you may have ordered.
+</p>
+<p>
+    If you wish to cancel your account or request that we no longer use your
+    information to provide you services contact us at
+    <a href="mailto:p%72i%76acychoices@cc.pc%68.c%6Fm">
+        <span id="cloakd7eff37f8b06f38b84a5ae9abb826f97"><a href="mailto:privacychoices@cc.pch.com">privacychoices@cc.pch.com</a></span><script type="text/javascript">
+				document.getElementById('cloakd7eff37f8b06f38b84a5ae9abb826f97').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyd7eff37f8b06f38b84a5ae9abb826f97 = 'pr&#105;v&#97;cych&#111;&#105;c&#101;s' + '&#64;';
+				addyd7eff37f8b06f38b84a5ae9abb826f97 = addyd7eff37f8b06f38b84a5ae9abb826f97 + 'cc' + '&#46;' + 'pch' + '&#46;' + 'c&#111;m';
+				var addy_textd7eff37f8b06f38b84a5ae9abb826f97 = 'pr&#105;v&#97;cych&#111;&#105;c&#101;s' + '&#64;' + 'cc' + '&#46;' + 'pch' + '&#46;' + 'c&#111;m';document.getElementById('cloakd7eff37f8b06f38b84a5ae9abb826f97').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyd7eff37f8b06f38b84a5ae9abb826f97 + '\'>'+addy_textd7eff37f8b06f38b84a5ae9abb826f97+'<\/a>';
+		</script>
+    </a>
+    . We will retain and use your information as necessary to comply with our
+    legal obligations, resolve disputes, and enforce our agreements. We will
+    respond to your request within a reasonable timeframe.
+</p>
+<p>
+    Residents of some states have additional rights to control access to and
+    use of their data. Please see the state-specific statements of privacy
+    rights below.
+</p>
+<h1>
+    <a name="_What_about_third-party"></a>
+    10. What about third-party websites?
+</h1>
+<p>
+    By clicking on hyperlinks or banner advertisements on our Website, you may
+    be redirected to websites owned and operated by advertisers and other third
+    parties. PCH does not control such websites or their owners and operators,
+    and such websites are not subject to this Privacy Policy. Any data
+    submitted on or collected by such a third party website will be governed by
+    the privacy policy on that website. We recommend that Users check the
+    privacy policies of such third-party websites to see how their consumer
+    data will be collected, processed and shared.
+</p>
+<p>
+    We sometimes partner with third parties to present co-branded promotions,
+    offers and experiences, so you may occasionally find yourself on a
+    third-party website that displays our branding. Please be sure to pay
+    attention to the URL displayed on your browser, so that you will know whose
+    privacy policy governs the collection, processing and sharing of your
+    consumer data. It may not always be this Privacy Policy.
+</p>
+<h1>
+    <a name="_What_does_PCH"></a>
+    11. What does PCH do to keep their Website secure?
+</h1>
+<p>
+    We follow generally accepted standards to protect the personal information
+    submitted to us, both during transmission and once it is received,
+    including appropriate organizational, technological and physical safeguards
+    commensurate with the sensitivity of the personal information in question.
+    Although we believe that the measures we take to safeguard your data are
+    appropriate, we cannot guarantee its absolute security. To further protect
+    your data, we recommend that you use complex passwords for your accounts
+    with us and for accounts with third parties that you link to any of your
+    accounts with us. Please do not use the same passwords you use for PCH for
+    other services or share your password with unauthorized people.
+</p>
+<h1>
+    <a name="_Does_PCH_collect"></a>
+    12. Does PCH collect information from Users outside of the United States?
+</h1>
+<p>
+    Our Website is not intended to be used by visitors residing outside of the
+    United States and such Users are not eligible to register or submit online
+    sweepstakes entries. However, some sweepstakes promoted on our Website are
+    open to residents of Canada (excluding Quebec), who can participate in
+    these sweepstakes by sending a write-in entry to the address provided in
+    the Official Rules. We regret that, due to systems limitations, non-U.S.
+    residents may not order products through PCH.
+</p>
+<h1>
+    <a name="_Does_PCH_collect_1"></a>
+    13. Does PCH collect personal information from children?
+</h1>
+<p>
+    Our Website is not intended for or directed to persons under the age of
+    sixteen, and PCH does not intend to collect personal information from
+    individuals in this age group. If PCH receives actual notice that a person
+    under the age of sixteen has provided personal information to PCH, PCH will
+    promptly (immediately, in the case of persons under the age of thirteen)
+    remove such information from its files.
+</p>
+<p>
+    <strong></strong>
+</p>
+<h1>
+    <a name="_What_about_off-line"></a>
+    14. What about off-line information and privacy practices?
+</h1>
+<p>
+    PCH collects certain consumer data from our direct mail customers and
+    entrants primarily to process sweepstakes entries and fulfill orders for
+    the products and services we offer. For example, we need your full name and
+    address to enter you in major sweepstakes, to send you any magazine
+    subscription or product you may purchase or to notify you if you've won a
+    prize. We use information on your product purchases to infer your areas of
+    interest so we can provide you with the most relevant offers and products.
+    We may also use the personal data we collect for systems administration and
+    troubleshooting purposes, and to report aggregate information to our
+    marketing partners and other third parties.
+</p>
+<p>
+    PCH shares or exchanges mailing lists and other offline marketing
+    information about the offline consumers who respond to our offers with
+    publishers, list brokers and direct marketers, so they may contact you
+    about products and services that may interest you.
+</p>
+<p>
+    If you do not want your name passed to other companies for the purpose of
+    receiving marketing offers, just tell us by contacting us at
+    <a href="mailto:p%72i%76acychoices@cc.pc%68.c%6Fm">
+        <span id="cloak4e7ee3d8eb8086f6b13ef75714d42df2"><a href="mailto:privacychoices@cc.pch.com">privacychoices@cc.pch.com</a></span><script type="text/javascript">
+				document.getElementById('cloak4e7ee3d8eb8086f6b13ef75714d42df2').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy4e7ee3d8eb8086f6b13ef75714d42df2 = 'pr&#105;v&#97;cych&#111;&#105;c&#101;s' + '&#64;';
+				addy4e7ee3d8eb8086f6b13ef75714d42df2 = addy4e7ee3d8eb8086f6b13ef75714d42df2 + 'cc' + '&#46;' + 'pch' + '&#46;' + 'c&#111;m';
+				var addy_text4e7ee3d8eb8086f6b13ef75714d42df2 = 'pr&#105;v&#97;cych&#111;&#105;c&#101;s' + '&#64;' + 'cc' + '&#46;' + 'pch' + '&#46;' + 'c&#111;m';document.getElementById('cloak4e7ee3d8eb8086f6b13ef75714d42df2').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy4e7ee3d8eb8086f6b13ef75714d42df2 + '\'>'+addy_text4e7ee3d8eb8086f6b13ef75714d42df2+'<\/a>';
+		</script>
+    </a>
+    or by writing to Christopher L. Irving, Consumer &amp; Privacy Affairs,
+    PCH, 300 Jericho Quadrangle #300 Jericho, NY 11753. and we will be pleased
+    to respect your wishes. Please make sure to provide your full name,
+    address, city, state and zip code information if you wish your request to
+    apply to both on-line and off-line marketing information sharing.
+</p>
+<p>
+    <strong></strong>
+</p>
+<h1>
+    <a name="_Your_California_Privacy"></a>
+    15. Your California Privacy Rights:
+</h1>
+<p>
+    The following information for California residents covers on-line
+    (internet) and off-line (direct mail) information sharing activities.
+    Please review the complete Publishers Clearing House Privacy Policy for
+    full details on our information sharing and privacy practices. As detailed
+    in this Privacy Policy, PCH may use, collect, disclose and sell personal
+    information about the consumers who respond to our offers. California
+    consumers who wish to learn more about such practice and their rights under
+    the California Consumer Protection Act, including the right to opt out of
+the sale of your data, may    <a href="/california-rights">click here</a>.
+</p>
+
+    <strong></strong>
 <p></p>
-<span><a class="summaryLink" href="/tracking-technologies">learn more »</a></span>
-<br>
-<br>
-</div></div>
-		</div>
-			<div class="moduletable">
-						
-
-<div class="custom">
-	<div class="summarySection">
-<a href="/data-security"><div class="data-security-title">Data Security<span class="right">»</span> </div></a>
-<br>
-<p>We have implemented a number of security features. throughout the pch.com site that are intended to prevent the unauthorized release of or access to the user  information we collect online.</p>
-<span><a class="summaryLink" href="/data-security">learn more »</a></span>
-<br>
-<br>
-</div></div>
-		</div>
-	
-					    	</div>
-					    	<div class="summaryColumn2">
-					    				<div class="moduletable">
-						
-
-<div class="custom">
-	<div class="summarySection">
-<a href="/data-sharing"><div class="data-sharing-title">Data Sharing<span class="right">»</span> </div></a>
-<br>
+<h1>
+    <a name="_Your_Nevada_Privacy"></a>
+    16. Your Nevada Privacy Rights:
+</h1>
 <p>
-    PCH shares information concerning specific interests and needs of our Users
-    with third parties in order to provide our Users with a more personalized
-    and relevant web service.
+    <strong></strong>
 </p>
 <p>
-    User information is sometimes provided to our marketing partners in an
-    aggregate and anonymized form that enables them to provide you with
-    relevant offers without disclosing personally identifying information. In
-    other cases, we may provide marketing partners with the information
-    necessary to contact you directly through digital channels or the mail. PCH
-    may use aggregated and anonymized User information to identify relevant
-    third-party offers and content for User consumption, with or without
-    sharing such information directly with a third-party marketing partner, and
-    to match such offers and content to appropriate Users. PCH may also
-    exchange, combine or acquire User information with third-party data
-    cooperatives and from third-party data providers to help understand your
-    needs and provide you with a more relevant online experience.
+Nevada residents may use the following link to request that your personal information not be sold to third parties: <a href="https://accounts.pch.com/do-not-sell">https://accounts.pch.com/do-not-sell</a>
 </p>
 <p>
-    PCH shares User information with third-party service vendors such as e-mail
-    service providers, content providers, data hygiene service providers or ad
-    tech industry participants. These third parties are ordinarily prohibited
-    from using your personal information for any other purpose.
+    <strong></strong>
 </p>
-<span><a class="summaryLink" href="/data-sharing">learn more »</a></span><br>
-<br>
-<br>
-</div></div>
-		</div>
-			<div class="moduletable">
-						
-
-<div class="custom">
-	<div class="summarySection">
-<a href="/advertising"><div class="collection-and-use-title">Advertising<span class="right">»</span> </div></a>
-<br>
-<p>This website/app utilizes Interest Based Advertising. Publishers Clearing House adheres to DAA (Digital Advertising Alliance) standards and principals. Click here <a href="http://www.aboutads.info/consumers" target="_BLANK"> http://www.aboutads.info/consumers</a> to learn more.  Publishers Clearing House Mobile APP users can use the following links to download the DAA AppChoices App that lets you opt out from interest-based advertising with a particular company:  <a href="https://itunes.apple.com/us/app/appchoices/id894822870" target="_BLANK">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.DAA.appchoices" target="_BLANK">Google Play Store</a>. If you engage with PCH on multiple devices, you must opt out on each device separately.
+<h1>
+    <a name="_Further_Questions?"></a>
+    17. Further Questions?
+</h1>
+<p>
+    We welcome any questions or comments you may have regarding this Privacy
+    Policy or the use of your data. To contact us, please visit the Info Center
+    of the Website or write directly to Christopher L. Irving, Consumer &amp;
+    Privacy Affairs, PCH, 300 Jericho Quadrangle #300 Jericho, NY 11753.
 </p>
-<p>If you would like to opt out from being shown targeted advertising by our 3rd party providers, including Google, please click <a href="http://preferences-mgr.trustarc.com/?pid=pch01&amp;aid=pch_pub01&amp;type=pch" target="_BLANK">here</a>: 
-Please note that this will opt you out of targeted ads from pch.com and any other participating advertisers. If you opt out, you will continue to receive online advertising from Publishers Clearing House; however, these ads may not be as relevant to you.</p>
-<span><a class="summaryLink" href="/advertising">learn more »</a></span>
-<br>
-<br>
-</div></div>
-		</div>
-			<div class="moduletable">
-						
+<p>
+    If you have an unresolved privacy or data use concern that we have not
+    addressed satisfactorily, please contact our U.S. based third-party dispute
+    resolution provider at
+    <a href="https://feedback-form.truste.com/watchdog/request">
+        https://feedback-form.truste.com/watchdog/request
+    </a>
+    .
+</p>
 
-<div class="custom">
-	<div class="summarySection">
-<a href="/user-options"><div class="user-options-title">User Options<span class="right">»</span> </div></a>
-<br>
-        <p>Receiving email messages from pch.com, our affiliates and partners is optional. Users can access the personal information they have provided to pch.com for the purposes of reviewing and updating such information.</p>
-<span><a class="summaryLink" href="/user-options">learn more »</a></span>
-<br>
-<br>
-</div></div>
-		</div>
-			<div class="moduletable">
-						
+ <div><a href="//privacy.truste.com/privacy-seal/validation?rid=6c68c1fd-0e45-4e30-a5c5-9e86439f1bdb" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=6c68c1fd-0e45-4e30-a5c5-9e86439f1bdb" alt="TRUSTe"></a></div>
+	</div>
 
-<div class="custom">
-	<div class="summarySection">
-<a href="/additional-information"><div class="other-information-title">Other Information<span class="right">»</span> </div></a>
-<br>
-<p>The pch.com site is not directed to visitors residing outside of the United States. The pch.com site is not targeted nor directed to children under the age of thirteen.</p>
-                            <p></p>
-                            <p>To contact us, please visit the <a href="http://info.pch.com/consumer-information" target="_BLANK">Info Center</a> of the site or write directly to Christopher L. Irving, Consumer &amp; Privacy Affairs, pch.com, 300 Jericho Quadrangle #300 Jericho, NY 11753.</p>
-<span><a class="summaryLink" href="/additional-information">learn more »</a></span>
-<br>
-<br>
-</div></div>
-		</div>
-	
-					    	</div>
-					    </div>	
-					    
-					
+						
+									</div>
+
+					        </div>
 					<!-- End Content -->
 				</main>
-							</div>
+			</div>
 		</div>
 		</div>
 		<br>
@@ -284,6 +842,6 @@ Please note that this will opt you out of targeted ads from pch.com and any othe
 	</footer>
 	
 	
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c72205da0c","applicationID":"22505713","transactionName":"NgMGZhFWC0VWUk1bDg9JJVEXXgpYGHJWXBUECBBxDFkRRFhdVVcTTgINQRNbBE8=","queueTime":0,"applicationTime":90,"atts":"GkQFEFlMGEs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c72205da0c","applicationID":"22505713","transactionName":"NgMGZhFWC0VWUk1bDg9JJVEXXgpYGHJWXBUECBBxDFkRRFhdVVcTTgINQRNbBE8=","queueTime":0,"applicationTime":235,"atts":"GkQFEFlMGEs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
