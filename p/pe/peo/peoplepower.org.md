@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplepower.org privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623201533id_/https%3A//www.aclu.org/american-civil-liberties-union-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplepower.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231161745id_/https%3A//www.aclu.org/american-civil-liberties-union-privacy-statement) for the most accurate reproduction.*
 
 # American Civil Liberties Union Privacy Statement | American Civil Liberties Union
 
