@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpi.edu privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427205836id_/https%3A//info.rpi.edu/web-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpi.edu privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231095105id_/https%3A//info.rpi.edu/web-privacy-statement) for the most accurate reproduction.*
 
 # Web Privacy Statement | RPI INFO
 
