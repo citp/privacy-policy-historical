@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the universal-music.co.uk privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625230036id_/http%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universal-music.co.uk privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231211237id_/http%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Universal Music UK - Privacy Policy
 
-_VERSION: 2.0_GLOBAL_   
-Effective Date: May 15, 2018
+_VERSION: 2.2_GLOBAL_   
+Effective Date: 20/11/2019
 
 This privacy policy sets out the basis on which any information (which may include personal data, as defined in data protection law) we collect from you, or that you provide to us, through this website, application or service (the “Site”) will be processed by us. Please read the following carefully to understand our practices regarding your information and how we will treat it. 
 
@@ -19,7 +19,7 @@ As used in this Privacy Policy, "UMG Companies" includes all entities UMG contro
 
 Questions, comments and requests regarding this privacy policy are welcomed by [clicking here](http://privacypolicy.umusic.com/email/default.asp), or by mail at the relevant address specified below. 
 
-You may contact UMG’s Data Protection Officer by [clicking here](http://privacypolicy.umusic.com/email/default.asp) or by email at [privacy.officer@umusic.com](mailto:privacy.officer@umusic.com). 
+You may contact UMG’s Data Protection Officer by [clicking here](http://privacypolicy.umusic.com/email/default.asp) or by email at [privacy@universalmusic.com](mailto:privacy@universalmusic.com). 
 
 For questions, comments or requests not related to this privacy policy please see [this FAQ](http://www.universalmusic.com/contact-us/) regarding how to contact UMG. 
 
@@ -78,7 +78,7 @@ We may use information held about you in the following ways:
 
 We may combine information we receive from other sources with information you give to us and information we collect about you (including information in relation to your devices). We may use this combined information for the purposes set out above. 
 
-For clarity, if you are a UMG artist, and the Site pertains to royalty payments and your commercial relationship with UMG, then UMG shall only use your information collected from such Site to facilitate royalty payments and UMG’s management of its commercial relationship with you and as otherwise as agreed in your artist agreement with UMG.
+For clarity, if you are a UMG artist, and the Site pertains to royalty payments and your commercial relationship with UMG, then UMG shall only use your information collected from such Site to facilitate royalty payments and UMG’s management of its commercial relationship with you and as otherwise as agreed in your artist agreement with UMG. 
 
 ###  DISCLOSURE OF YOUR INFORMATION
 
@@ -140,9 +140,32 @@ If you have applied for a job at UMG, you may have certain rights under your loc
 
 ###  YOUR CALIFORNIA PRIVACY RIGHTS
 
-California residents may opt out of having their personally identifiable information shared with third parties for those third parties' direct marketing purposes by contacting us as described in the “Contact” section. 
+California residents have certain rights regarding the collection, use, disclosure, and sale of their personal data. As defined in the California Consumer Privacy Act, we engage in industry-standard advertising business practices that may be considered a sale. We do not knowingly sell personal data related to children under 16 years of age. UMG has sold personal data in the last 12 months in the following ways:
 
-Do-Not-Track Signals and Similar Mechanisms. Some web browsers may transmit “do-not-track” signals to the websites and other online services with which a user communicates. There is no industry standard that governs what, if anything, websites should do when they receive these signals. UMG currently does not take action in response to these signals. 
+  * By allowing advertising networks we partner with to place cookies or other tracking technologies through our sites;
+  * By sharing hashed or pseudonymized identifiers with advertising networks to create audiences for use in online advertising.
+
+
+
+California residents have the right to request:
+
+  * Disclosure of personal data we collect, use, disclose, and sell about you;
+  * Deletion of your personal data that we maintain;
+  * To opt out of the sale of your personal data.
+
+
+
+To opt out of the sale of your personal data, designate an authorized representative, make a request, or for more information, Contact the UMG Privacy Office or email us at [privacy@universalmusic.com](mailto:privacy@universalmusic.com "mailto:privacy@universalmusic.com").
+
+In most cases, UMG will verify your request by confirming that you control the email address associated with your personal data. If necessary, and taking into account available technology, security and privacy concerns, and the burden on our business, we reserve the right to take additional steps or require additional information to verify your request.
+
+You have the right not to receive discriminatory treatment for exercising your privacy rights.
+
+Other California Privacy Rights
+
+You may opt out of having your personally identifiable information shared with third parties for those third parties’ direct marketing purposes by Contacting the UMG Privacy Office.
+
+Do-Not-Track Signals and Similar Mechanisms. Some web browsers may transmit “do-not-track” signals to the websites and other online services with which a user communicates. There is no industry standard that governs what, if anything, websites should do when they receive these signals. UMG currently does not take action in response to these signals.
 
 ###  LINKS TO THIRD PARTY WEBSITES
 
