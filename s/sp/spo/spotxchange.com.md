@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotxchange.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630021128id_/https%3A//www.spotx.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotxchange.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231220606id_/https%3A//www.spotx.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SpotX
 
@@ -30,11 +30,11 @@ In a 2015 Nielsen survey2 about new product discovery, 78% of respondents said t
 
 ### Don’t suffer through the same ad 50 times
 
-Have you seen the same ad multiple times in a day or week? You often end up quoting the commercial and feel a negative association with the advertised product. These duplicated ads are annoying and ineffective. Some of the data we collect helps us lesson the likelihood of this happening.
+Have you seen the same ad multiple times in a day or week? You often end up quoting the commercial and feel a negative association with the advertised product. These duplicated ads are annoying and ineffective. Some of the data we collect helps us reduce the likelihood of this happening.
 
-## What we collect about you
+## Categories of information we collect about you
 
-To accomplish the goals outlined above, SpotX needs to collect some information. However, rest assured that we never know who you are. Rather, we collect information on the behavior that takes place on your device. There are different ways to capture user and device information, and they vary by device and environment. The information we collect or share also varies depending on the partner we are working with and why they might want to process the information. There are plenty of great resources available on the internet that describe these ID types, and we have outlined and defined a few below.
+To accomplish the goals outlined above, SpotX needs to collect some information. However, rest assured that we will never know who you are. Rather, we collect information on the behavior that takes place on your device. There are different ways to capture user and device information, and they vary by device and environment. The information we collect or share also varies depending on the partner we are working with and why they might want to process the information. There are plenty of great resources available on the internet that describe these ID types, and we have outlined and defined a few below.
 
 **Cookies 4 – Device: Desktop browsers such as Chrome, Internet Explorer, Mozilla Firefox, and Safari, and mobile and tablet browsers to a lesser degree. **
 
@@ -53,7 +53,7 @@ For advertising, cookies help ad tech companies:
 
   * Know if you’ve watched or interacted with an ad
   * Understand your behavior as you move from site to site to help show you more relevant ads or to attribute a purchase to an ad that you saw
-  * ync audience data between buyers and sellers. In an ideal scenario, both buyers and sellers know that they’ve seen your device before and are able to apply the data they know about that ID to the ad opportunity. For example, a beverage company builds a profile based on your device’s behavior and believes that you are a “beverage intender”. As the Ad Server, SpotX needs to surface the information (such as the cookie) to the buyer to say “This ID is browsing on X site and is available to see an ad.” This enables the buyer to know that it is an opportunity they want to purchase and to do so. This process is called syncing. Cookies help facilitate this throughout the ad ecosystem. Syncing also helps achieve the benefits outlined in “What’s in it for you, the user”.
+  * Sync audience data between buyers and sellers. In an ideal scenario, both buyers and sellers know that they’ve seen your device before and are able to apply the data they know about that ID to the ad opportunity. For example, a beverage company builds a profile based on your device’s behavior and believes that you are a “beverage intender”. As the Ad Server, SpotX needs to surface the information (such as the cookie) to the buyer to say “This ID is browsing on X site and is available to see an ad.” This enables the buyer to know that it is an opportunity they want to purchase and to do so. This process is called syncing. Cookies help facilitate this throughout the ad ecosystem. Syncing also helps achieve the benefits outlined in “What’s in it for you, the user”.
 
 
 
@@ -135,6 +135,8 @@ In general, Personal Information you submit to us is used by us either to regist
 We may provide Personal Information to third-parties to the extent such third-parties provide operational assistance (i.e., outsourced or third-party services) to SpotX and then only for that purpose. Examples of such third-party services include sending email, providing marketing assistance, processing credit card payments, and providing customer service. However, these service providers do not have any independent right to share this information (except pursuant to a legal requirement such as a subpoena or warrant). SpotX may share some or all of your Personal Information with current or future Affiliates, in which case we will require our Affiliates to honor this Privacy Policy.  
 SpotX may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the information personally identifiable to you. We may use this Anonymous Information to analyze usage patterns so that we may enhance our Services. We reserve the right to use and disclose Anonymous Information to third-parties in our discretion. This Anonymous Information may include, but is not limited to, browser type, URLs visited, and search terms entered.
 
+SpotX does not “sell” the information we collect through the use of our services as defined under CCPA.
+
 **We use cookies to track site performance on our Website**
 
 These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site.
@@ -143,7 +145,7 @@ These cookies allow us to count visits and traffic sources, so we can measure an
 
 ## What is the General Data Protection Regulation (GDPR)?
 
-GDPR is a new set of rules in the European Union designed to give residents of the EU more control over their Personal Data. It’s goal is to ensure that citizens and businesses in the European Union can fully benefit from the modern digital economy. According to the text, the “Regulation protects fundamental rights and freedoms of natural persons and in particular their right to the protection of personal data.” Generally, it applies to the Personal Data of EU residents and the companies that handle it. Refer to articles 1-3 of the GDPR to determine whether it applies to you.
+GDPR is a set of rules in the European Union designed to give residents of the EU more control over their Personal Data. It’s goal is to ensure that citizens and businesses in the European Union can fully benefit from the modern digital economy. According to the text, the “Regulation protects fundamental rights and freedoms of natural persons and in particular their right to the protection of personal data.” Generally, it applies to the Personal Data of EU residents and the companies that handle it. Refer to articles 1-3 of the GDPR to determine whether it applies to you.
 
 ## Your rights under GDPR
 
@@ -156,16 +158,46 @@ If GDPR applies to you, you can find the [complete](https://gdpr-info.eu/chapter
 
 
 
-## General Workflow
+## What is the California Consumer Protection Act (CCPA)?
+
+The purpose is to expand existing privacy rights in California, to help [Californian consumers] “Own Your Personal Information, Control Your Personal Information, Secure Your Personal Information” and “Hold Big Corporations Accountable” (CA Privacy). According to the California Consumer Privacy Act website, the law gives Californians the following rights:
+
+Right to know all data collected by a business on you, twice a year, free of charge.
+
+Right to say no to the sale of your information.
+
+Information Security: Right to sue companies who collected your data, where that data was stolen or disclosed pursuant to an unauthorized data breach, if the company was careless or negligent about how it protected your data (i.e. if the data was unencrypted, un-redacted, or the company didn’t have reasonable security policies and procedures in place to protect it).
+
+Right to delete data you have posted.
+
+Right not to be discriminated against if you tell a company not to sell your personal information.
+
+Right to be informed of what categories of data will be collected about you prior to its collection/at point of collection, and to be informed of any changes to this collection.
+
+Mandated opt-in before sale of children’s information (under the age of 16).
+
+Right to know the categories of third parties with whom your data is shared
+
+Right to know the categories of sources of information from whom your data was acquired.
+
+Right to know the business or commercial purpose of collecting your information.
+
+This privacy policy contains all the information you need to exercise your rights under CCPA including the Right to know data collected about you and the Right to say no to the sale of personal information.
+
+SpotX Sale of Data under CCPA
+
+SpotX’s use of the personal information specified in the Categories of Personal Information, Data Retention, and General Workflow sections of this privacy policy may qualify as a “Sale” under CCPA, since the data we provide to partners helps us generate valuable consideration. It is likely that each of these categories was “sold” in the past twelve months.
+
+## General Workflow – Sources of Personal Information
 
 The following describes the general workflow of data in our systems.
 
-  * The key workflow is triggered by a user (Data Subject), who is visiting the publisher’s (Controller’s) Website and/or Application by requesting the website URL through the browser or by opening the Application on the applicable device.
+  * The key workflow is triggered by a user (Data Subject), who is visiting the publisher’s (Controller’s/Business’s) Website and/or Application by requesting the website URL through the browser or by opening the Application on the applicable device.
   * Within the Website and/or Application an ad tag is integrated, which triggers a request to the SpotX ad serving Platform, requesting an advertisement.
-  * In the event that the publisher has a 1st party data connection through the SpotX platform, SpotX will cross reference the request with the Data Management Platform (Sub-processor) used by the Publisher.
-  * SpotX cooperates with different 3rd Parties (Sub-processors), including but not limited to DSP’s – to enable and allow monetization of the publisher’s Website and/or Application.
-  * With every creative delivered by SpotX, it will trigger requests to 3rd party brand safety measurement vendors (Sub-processors), which are measuring the compliance of the website and the creative displayed with the expectations of the advertisers.
-  * Furthermore, SpotX synchronizes user ID’s with the 3rd Party Data Management platforms and DSP’s for the purpose laid out in Appendix B
+  * In the event that the publisher has a 1st party data connection through the SpotX platform, SpotX will cross reference the request with the Data Management Platform (Sub-processor/Service Provider) used by the Publisher.
+  * SpotX cooperates with different 3rd Parties (Sub-processors/Service Provider), including but not limited to DSP’s – to enable and allow monetization of the publisher’s Website and/or Application.
+  * With every creative delivered by SpotX, it will trigger requests to 3rd party brand safety measurement vendors (Sub-processors/Service Provider), which are measuring the compliance of the website and the creative displayed with the expectations of the advertisers.
+  * Furthermore, SpotX synchronizes user ID’s with the 3rd Party Data Management platforms and DSP’s for the purpose laid out in Data Retention Policies
   * After the ad delivery process, SpotX aggregates the number of delivered creatives and standard KPIs including but not limited to: Clicks and Completed views. This information is used to invoice the 3rd Parties used for monetization, be it by the publisher or SpotX. Additionally this information is used to execute the business agreement between the publisher and SpotX.
 
 
@@ -289,9 +321,9 @@ The IP Address is cross checked with databases to determine Geographic Location 
 
   
 **Means of Storing** | The cookie_id is stored on servers associate with the Audience Management Engine (AME) – separately from all other non-PII data points. | The Device ID is stored hashed and salted onto our data servers and is irreversibly anonymized | The IP Address is stored hashed and salted and is irreversibly anonymized  
-**Place of Processing** | SpotX owned Amsterdam Data center | SpotX owned Amsterdam Data center | SpotX owned Amsterdam Data center  
-**Place of Storage** | SpotX owned Amsterdam Data center | SpotX owned Denver or Virginia Data center | SpotX owned Denver or Virginia Data center  
-**Retention Period of Storage** | 14 days | 18 months | 18 months  
+**Place of Processing** | SpotX owned Amsterdam Data center for EU data and Denver or Virginia data center for California data | SpotX owned Amsterdam Data center for EU data and Denver or Virginia data center for California data | SpotX owned Amsterdam Data center for EU data and Denver or Virginia data center for California data  
+**Place of Storage** | SpotX owned Amsterdam Data center for EU data and Denver or Virginia data center for California data | SpotX owned Denver or Virginia Data center | SpotX owned Denver or Virginia Data center  
+**Retention Period of Storage** | 14 days in EU, 30 days outside EU | 18 months | 18 months  
 **Purpose** | The purposes of the cookie_id is: 
 
   1. In order to prevent over exposure of a particular campaign to the Data Subject, SpotX and the respective DSP perform frequency capping. The cookie_id is technically required for this purpose.
@@ -430,11 +462,12 @@ Amobee (f.k.a. Turn)
 RhythmOne/Blinkx  
 AOL One  
 RUN DSP  
-MediaMath
+MediaMath  
+Quantcast
 
 ## Contact Information
 
-For GDPR related questions or inquiries, email [gdpr@spotx.tv](mailto:gdpr@spotx.tv).
+For privacy related questions or inquiries, email [privacy@spotx.tv](mailto:privacy@spotx.tv).
 
 **SpotX Data Protection Officer**  
 **Name:** ePrivacy GmbH  
@@ -455,7 +488,9 @@ We may disclose Personal Information if we believe in good faith that such discl
 
 We reserve the right to modify this Privacy Policy at any time. If we make material changes to it we will post those changes to this Privacy Policy, the Website, and other places we deem appropriate so that you are aware of what Personal Information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-## Please visit THIS PORTAL to exercise your rights with SpotX data.
+## Please visit the links below to exercise your rights with SpotX data including “do not sell.”
+
+This privacy policy was last updated on December 18, 2019.
 
 1 Yukhanaov, Anna. “Consumers Love to Hate Ads but Won’t Pay to Escape Them.” Morning Consult, 24 Sept. 2017, morningconsult.com/2017/09/23/consumers-love-hate-ads-wont-pay-escape/.  
 2 “Looking to Achieve New Product Success? Listen to Your Customers. .” Nielsen.com, www.nielsen.com/content/dam/nielsenglobal/dk/docs/Nielsen%20Global%20New%20Product%20Innovation%20Report%20June%202015.pdf.  
