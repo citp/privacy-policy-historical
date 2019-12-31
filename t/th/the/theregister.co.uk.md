@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628041702id_/https%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231192937id_/https%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • The Register
 
@@ -78,18 +78,18 @@ We have set out below more specifics on how we use such data.
 
 #### Server Logs
 
-The Register may collect your IP address to produce a server log – as all web servers do. This information is used solely for monitoring the volume of traffic the site receives and measuring the number of readers. We do not use the information for tracking the activities of specific visitors to the Website.
+The Register will collect your IP address to produce a server log – as all web servers do - and other data derived from your IP address including your country or region, your ISP, and in some cases your organisation. This information is used to monitor the volume of traffic the site receives, the number of readers and their location. We do not use this information to track the activity of individual visitors to the website.
 
 #### Advertising
 
-The Register runs advertising for a wide variety of organisations. These adverts are served from our advertising servers as well as from third-party advertising servers managed by the advertiser. Recent third-party ad servers include DoubleClick, SizMek and Atlas.
+The Register runs advertising for a wide variety of organisations. These adverts are served from our advertising servers as well as from third-party advertising servers managed by the advertiser. Recent third-party ad servers include Google Ad Manager (formerly DoubleClick), SizMek and FlashTalking.
 
 These ad servers may attempt to set cookies on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of advert delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.
 
 The respective privacy policies of these ad servers can be found here:
 
-[Google / DoubleClick](https://www.google.com/intl/en/policies/privacy/)   
-DoubleClick has a cookie opt-out facility [here](https://www.google.com/privacy/ads/)
+[Google Ad Manager](https://www.google.com/intl/en/policies/privacy/)   
+Google Ad Manager has a cookie opt-out facility [here](https://www.google.com/privacy/ads/)
 
 [Sizmek Privacy Policy](https://www.sizmek.com/privacy-policy/).
 
