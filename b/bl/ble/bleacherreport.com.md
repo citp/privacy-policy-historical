@@ -1,321 +1,300 @@
-> *The following text is extracted and transformed from the bleacherreport.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618092726id_/https%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleacherreport.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231064509id_/https%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bleacher Report
 
-Privacy Policy Users Outside of EU
+**Effective Date: January 1, 2020**  
+To review our current Privacy Policy, please go to our old [privacy](https://web.archive.org/pages/privacy_old).
 
-Privacy Policy Users Inside of EU
+Thank you for visiting a WarnerMedia News & Sports property. This Privacy Policy explains our online information practices and the choices you can make about information collected through our websites, services, and applications (each a “Site” or collectively, the “Sites”). This Privacy Policy applies to any Site that links directly to this policy. For certain offerings on our Sites, there may be additional notices about our information practices and choices. Please read those additional privacy disclosures to understand how they apply to you. Our privacy policy is designed to provide transparency into our privacy practices and principles. You can learn about our WarnerMedia and AT&T affiliates by visiting [here.](https://warnermediaprivacy.com/affiliates/)
 
- **What’s New in the Updated Privacy Policy? We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among Bleacher Report, its parent and affiliates, including AT &T, Inc. and Warner Media, LLC, and unaffiliated third parties. Please take the time to read the full privacy statement. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
+*  **INFORMATION WE COLLECT**  
+We may collect different types of information during your interactions with our Sites and through our advertising and media across the Internet and mobile apps. This information may include personal information (e.g., name, phone number, postal address, email address, and certain payment information), technical information (e.g., technical information, including device identifier, IP address, browser type, operating system) and usage information (e.g., how you use and navigate to and from our Sites, and information about content or advertisements you have been shown or have clicked on). We may combine these types of information together, and collectively refer to all of this information in this Privacy Policy as “Information.” Information may be collected as described below and through the use of cookies, web beacons, pixels, and other similar technologies by us or by other companies on our behalf. Below we describe the types of Information we may collect:
 
-Thank you for visiting Bleacher Report, a digital service presented to you by Bleacher Report, Inc. (“Bleacher”), which is part of the Turner Broadcasting System, Inc. (“Turner”) network of affiliated and operated digital services (“Turner Network”). As used herein, “we” and “us” refer collectively to Turner and Bleacher Report. Your privacy is important to us. As such, we provide this privacy policy (“Privacy Policy”) explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among the Turner Network, which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with Bleacher, Turner or its Affiliates, including any online or mobile website, application or digital service through which this Privacy Policy appears (each a “Service,” collectively the “Services”). “Users” are persons that use the Services.
+  1.  **Registration, account, and sign-up information.**  We may collect Information in the course of your use of, or registration with, our Sites. For example, when you create an account, register for or download an application, or sign-up for a product or service, you may provide us with certain personal information. This type of personal information may include: name, phone number, postal address, fax number, email address, or certain payment information (e.g., credit card and billing information). We may also receive Information about your interest in and use of various products, programs, services, and content available on or through our Sites.
 
-[A representative list of Turner Affiliates is available here](https://turneraffiliates.turner.com/Affiliates/Turner-Affiliates-English).
+  2.  **Other information you provide to us.**  On some Sites, you may share other information about yourself by, for example, publishing and sharing the information with the Site’s website or in the Site’s community. Sometimes you may also choose to provide more sensitive forms of personal information to us, such as information regarding your physical or mental health, biometric data, race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, or trade union membership. For example, we may collect this type of sensitive information if you participate in surveys, focus groups, or opportunities to test new products, programs, or services. We collect this sensitive information with your consent, if required by law, and we take special steps to protect and limit any use of it to the purposes for which it is provided.
 
-## Privacy Policy Users Outside of EU
+  3.  **Information from others inviting friends.**  On some of our Sites, we may collect Information other people submit about you. For example, a friend might submit Information to invite you to participate in an offering, make recommendations, or share content. By processing these requests, we may receive your Information, including a recipient’s name, postal address, email address, telephone number, or information about your interest in and use of various products, programs, services, and content. Some of our Sites also allow users to invite friends to participate in activities by providing their friends’ contact details or importing contacts from your address book or from other sites.
 
-  1.  **The Information We Collect.**
+  4.  **Information from other sources.**  We may, on occasion, combine Information we receive online with other information, including usage information from our other Sites and our online advertising and media. We may also supplement or combine Information with information from a variety of other sources or outside records, such as demographic, transaction history, or personal information, and we may use that combined information in accordance with this Privacy Policy.
 
-We receive both information that is directly provided to us, such as personal information you provide when you visit the Services, and information that is passively or automatically collected from you, such as anonymous information collected from your browser or device. In this Privacy Policy, we refer to all of this as the “Information”.
+  5.  **Social media.**  You can engage with some of our content and offerings, such as videos, games, applications, and other offerings on or through third party communities, forums, and social media sites, services, plug-ins, and applications (“Social Media Sites”). When you link to or interact with our Sites or content through Social Media Sites, you may allow us to receive certain Information from your social media account (e.g., name, user ID, email address, profile photo, photos and videos, gender, birthday, location, your list of friends and their contact details, people you follow and/or who follow you, the posts or the 'likes' you make). We may also receive Information from your interaction with our content (e.g., content viewed, game performance, high scores, and information about advertisements you have been shown or have clicked on). By providing this Information or otherwise interacting with our Sites through Social Media Sites, you consent to our use of Information from the Social Media Sites in accordance with this Privacy Policy. For information about how you can customize your privacy settings on Social Media Sites, and how those Social Media Sites handle your personal information and content, please refer to their privacy help guides, privacy policies, and terms of use. Public forums. If you post or share Information or content, such as photos, letters, videos, or comments, while participating in online forums on our Sites, or when you interact with our Sites through Social Media Sites, depending on your privacy settings, this Information or content and your username may become public on the Internet or within a community of users. We cannot prevent further use of this Information once you share it in a publicly available forum. For information about how you can customize your privacy settings on Social Media Sites, and how those Social Media Sites handle your personal information and content, please refer to their privacy help guides, privacy policies, and terms of use.
 
-    1.  **Information You Provide To Us.** At some Services, you can register, order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters or text message alerts, or participate in one of our online forums or communities. In the course of these various offerings, we often seek to collect from you various forms of information, such as: name, address, e-mail address, telephone number, fax number and credit card information.
+  6.  **Location information.**  We may have access to certain Information about your location, such as your country or address, when you provide it or via device information (such as an IP address). If you access our Sites on your mobile device, we may collect Information about your device’s precise location.
 
-At some Services, you may also be able to submit Information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. This Information may include, for instance, a recipient's name, address, e-mail address, and telephone number.
+  7.  **Camera access.**  For some Sites, we will ask for permission to access your device’s camera. If you grant permission, you may be able to take pictures or video within the app experience or to access certain augmented reality (“AR”) features. Some of these features may rely on camera systems to track movements of your eyes and other facial features or your immediate surroundings to apply AR effects. Information gathered from facial scanning technology, e.g. TrueDepth API, is only used to make these services and features available to you and is only persistent on the device during use of the AR features. Facial data is not stored on our systems nor shared with any third party.
 
-    2.  **Information That is Passively or Automatically Collected.** We, and our “Partners” who include Turner, Turner Affiliates, third party service providers, advertisers, advertising networks and platforms, agencies, and distribution or other partners may use automated means to collect various types of Information about you, your computer or other device used to access, or in connection with, our Services. A representative, non-exhaustive list of the types of automatically collected information may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the name of your Internet service provider (e.g., Comcast, Verizon or AT&T) and domains used by such providers, mobile network, device identifiers (such as an Apple IDFA or an Android Advertising ID), device settings, device attributes, browser settings, the web pages of the Services you have visited, Services visited before and after you visit a Service, the type of handheld or mobile device used to view the Service (e.g., iOS, Android), location information, and the content and advertisements you have accessed, seen, forwarded and/or clicked on. Please see our Section IV titled **Cookies, and Other User and Ad-Targeting Technologies** for more information about how the foregoing Information may be collected and used.
-    3.  **Geo-location Information.** If you are accessing a Service from a mobile device or through a mobile application, you may be asked to share your precise (GPS level) geo-location information with us so we can customize your experience on our Services or on other Services, when we work with a Partner such as a third party mobile ad platform. If you agree to such collection, in most cases, you will be able to turn off such data collection at any time by accessing the privacy settings of your mobile device and/or through the settings in the applicable mobile application.
-    4.  **Information Collected By and From Social Media Services and Other Third Party Platforms.** You also can engage with our content, such as video, games, applications, and other offerings, on or through social media services or other third party platforms, such as Facebook, or other third-party social media plug-ins, integrations and applications. When you engage with our content on or through social media services or other third party platforms, plug-ins, integrations or applications, you may allow us to have access to certain Information in your profile. This may include your name, e-mail address, photo, gender, birthday, location, an ID associated with the applicable third party platform or social media account user files, like photos and videos, your list of friends or connections, people you follow and/or who follow you, or your posts or “likes.” For a description on how social media services and other third party platforms, plug-ins, integrations or applications handle your information, please refer to their respective privacy policies and terms of use, which may permit you to modify your privacy settings.
+  8.  **Video viewing information.**  For some Sites, we collect information about the films, TV shows and URLs that you view.
 
-When we interact with you through our content on third party websites, applications, integrations or platforms, we may obtain any information regarding your interaction with that content, such as content you have viewed, your game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on.
+  9.  **Technical and usage information.**  We also collect certain technical and usage information when you use our Sites, such as the type of device, browser, and operating system you are using, your Internet service provider or mobile carrier, unique device identifier, IDFA or IDFV, MAC address, IP address, device and browser settings, the webpages and mobile apps you use, advertisements you see and interact with, and certain Site usage information. See our Cookies and Other Technical Information section for more information on how we may use these technologies to collect this Information.
 
-  2.  **How We Use the Information**
 
-We, along with our Partners, may use the Information to:
 
-    1. provide and communicate with you about the Services or your account with us,
-    2. fulfill your requests regarding the Services, including without limitation requests for newsletters and notifications,
-    3. respond to your inquiries, and notify you if you have won a contest,
-    4. communicate with you about other products, programs or services that we believe may be of interest to you,
-    5. enforce the legal terms (including without limitation our policies and terms of service) that govern your use of our Services, and/or for the purposes for which you provided the Information,
-    6. provide technical support for the Services,
-    7. prevent fraud or potentially illegal activities (including, without limitation, copyright infringement) on or through the Services,
-    8. protect the safety of our Users,
-    9. customize or personalize ads, offers and content made available to you based on your visits to and/or usage of the Services or other online or mobile websites, applications, platforms or services, and analyze the
-    10. performance of those ads, offers and content, as well as your interaction with them,
-    11. perform analysis regarding how you use the Services or any part thereof,
-    12. send gifts, cards, invitations or emails if you use these services, to your designated recipients.
+*  **HOW WE USE THE INFORMATION**  
+We use Information for the purposes described in this policy or disclosed at the time of collection or with your consent.
 
-When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our Services, (3) contact you through the social media service or directly by sending you the latest news, special offerings, and rewards, and (4) enable you to share your experience and content via social media services. When you provide information about yourself to us through an application, through our Services, or on social media services or other third party platforms, it may be publicly viewed by other members of these services and we cannot prevent further use of the information by third parties.
+  1.  **Providing and marketing products and services.**  We use the Information we collect about you through our Sites to fulfill your requests for, and otherwise provide or analyze your use of our products, programs, services and content, to facilitate sharing and other interactions with Social Media Sites, and to provide, develop, maintain, personalize, protect, and improve your experience and our offerings. For example, we use Information collected on our Sites to enable you to do things like (i) watch trailers, movies, programs, and video clips, (ii) get entertainment news and updates, (iii) get information about our products, services, and content, (iv) locate and access personalized information or functionality based on your location (e.g., find stores, theaters, or show times), (v) buy digital content or movie tickets, (vi) play games, (vii) engage with interactive features, activities, and Social Media Sites, (viii) read and post comments, content, and reviews, or (ix) enter promotions, contests, and sweepstakes. We may also use Information to offer, market, and advertise products, programs, and services from us and our affiliates, business partners, and select third parties that we believe may be of interest to you
 
-We or a Partner may use “cookies” or similar technologies to associate certain of the Information with a unique identifier that then associates the Information with your device or browser. For information about how these technologies work and how we may use them, please go to Section IV, titled **Cookies, And Other User And Ad-Targeting Technologies**. Sometimes, we may associate cookies with the Information, including de-identified, “hashed,” or anonymous versions of Information you have provided (such as during registration), in order to send or help our Partners send ads and offers based on your presumed interests or demographic information.
+  2.  **Communicating with you and others.**  We use Information about you to communicate with you, such as (i) to notify you when you win one of our contests or sweepstakes or when we make changes to our policies or user agreements, (ii) to respond to your inquiries, (iii) to communicate with you about your purchases or transactions, (iv) to contact you about your account, or (v) to send you information about promotions, offerings, and Site features. You may also choose to receive push notifications from us on your mobile device. If you choose to submit content for publication online or in other forums, we may publish your screen name and other Information you have provided to us on our Sites, the Internet, or elsewhere. We use Information that you provide about others to enable us to send them invitations, promotions, or other content on your behalf or through our Sites. From time to time, we also may use this Information to offer, market, or advertise products, programs, or services to them from us and our affiliates, and business partners.
 
-We may combine any of the Information we collect, for any of the above purposes, and may sometimes enhance the Information with other information that we obtain from third party sources. Please also be aware that if you choose to submit Information or content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, an article, or a video), we may publish that Information and content, along with other Information about you (such as your name, screen name or location). Likewise, if you register and create a profile with our Service, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews, posts, articles) will be displayed publicly on the Service, is searchable, can be found by third parties and may be reused and redistributed by us in our sole discretion. See our **[Terms of Use](https://web.archive.org/pages/terms)** for details on our use of content you submit.
+  3.  **Use of  technical and usage information.** We use technical and usage information to improve the design, functionality and content of our Sites and to enable us to personalize your experience with our Sites and offerings. We use this Information (i) to provide, develop, maintain, personalize, protect, and improve our Sites, products, programs, and services and to operate our business, (ii) to perform analytics, including to analyze and report on usage and performance of our Sites, (iii) to protect against, identify, and prevent fraud and other unlawful activity, (iv) to create aggregate data about groups or categories of our users, and (iv) for us and our affiliates, business partners, and select third parties to target, offer, market, or advertise products, programs, or services.
 
-  3.  **Information Sharing and Disclosure**
+  4.  **Compliance.**  We may use Information we collect to detect, investigate, and prevent activities on our Sites that may violate our terms of use, could be fraudulent, violate copyright, or other rules or that may be otherwise illegal, to comply with legal requirements, and to protect our rights and the rights and safety of our users and others.
 
-We may disclose the Information as follows:
 
-    1. To service providers or Partners that we have engaged to perform business-related functions on our behalf. This may include service providers that: (a) conduct research and analytics; (b) create content; (c) provide customer, technical or operational support; (d) conduct or support marketing (such as email or advertising platforms); (e) fulfill orders and user requests; (f) handle payments; (g) host our Services, forums and online communities; (h) administer contests; (i) maintain databases; (j) send or support online or mobile advertising; and (k) otherwise support our Services.
-    2. In response to legal process, for example, in response to a court order or a subpoena, a law enforcement or government agency's request or similar request.
-    3. With third parties in order to investigate, prevent, or take action (in our sole discretion) regarding potentially illegal activities, suspected fraud, situations involving potential threats to any person, us, or the Services, or violations of our policies, the law or our **[Terms of Use](https://web.archive.org/pages/terms),** to verify or enforce compliance with the policies governing our Services.
-    4. We may transfer some or all of your Information if we, or one of our business units, undergoes a business transition, like a merger, acquisition by another company, or sale of all or part of our assets, or if a substantial portion of our or of a business unit’s assets is sold or merged in this way.
-    5. We may share the Information with Turner Affiliates, so they can provide, improve and communicate with you about their own, or their marketing partners’ products and services. [A representative list of Turner Affiliates is available here](https://turneraffiliates.turner.com/Affiliates/Turner-Affiliates-English).
-    6. We may share the Information with unaffiliated Partners and third parties (e.g., our third party service providers, advertisers, advertising networks and platforms, agencies, other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that wish to market products or services to you. If you wish to opt out from such sharing please visit the **How to Contact Us/Opting Out of Marketing Communications** section below for further instructions.
 
-Please note that the Services covered by this Privacy Policy may offer content (e.g., contests, sweepstakes, promotions, games, applications, or social network integrations) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain information from their visitors. We have no control over these third parties' use of this information, which is subject to their own privacy policies.
+*  **INFORMATION SHARING AND DISCLOSURE**  
+We may share and disclose Information in the following ways or for any other purpose disclosed at the time of collection:
 
-  4.  **Cookies and Other User and Ad-Targeting Technologies.** We use cookies and other technologies both to provide our Services to you and to advertise to you. We also may work with Partners to help them advertise to you when you visit other websites or mobile applications, and to help them perform user analytics. These technologies may also be used to analyze how our Users interact with advertising on our Services and elsewhere, and more generally, to learn more about our Users and what services or offers you might prefer to receive. We describe some of these technologies below.
+  1.  **With your consent.**  We may disclose Information when you provide us with your consent to do so.
 
-    1.  **Cookies.** To enhance your online experience, we and our Partners use “cookies”, “web beacons” or other tracking technologies. Cookies are text files placed in your computer's browser to store your preferences. We use cookies or other tracking technologies to understand Service and Internet usage and to improve or customize the products, content, offerings, services or advertisements on our Services. For example, we may use cookies to personalize your experience at our Services (e.g., to recognize you by name when you return to a Service), save your password in password-protected areas, and enable you to use shopping carts on our Services. We also may use cookies or other tracking technologies to help us offer you products, content, offerings or services that may be of interest to you and to deliver relevant advertising when you visit this Service, a Turner Affiliate’s Service, or when you visit other websites or applications. We or a third party platform with whom we work may place or recognize a unique cookie on your browser to enable you to receive customized content, offers, services or advertisements on our Services or other sites. These cookies contain no information intended to identify you personally. The cookies may be associated with de-identified demographic or other data linked to or derived from data you voluntarily have submitted to us (e.g., your email address) that we may share with a service provider solely in hashed, non-human readable form.
+  2.  **Legal and law enforcement purposes.**  We may disclose Information in response to legal process, for example in response to a court order or a subpoena, or in response to a law enforcement agency's request. We also may disclose such Information to third parties: (i) in connection with fraud prevention activities, (ii) where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, (iii) in situations that may involve violations of our terms of use or other rules, (iv) to protect our rights and the rights and safety of others, and (v) as otherwise required by law.
 
-We, our third party service providers, advertisers, advertising networks and platforms, agencies, or our Partners also may use cookies or other tracking technologies to manage and measure the performance of advertisements displayed on or delivered by or through the Turner Network and/or other networks or Services. This also helps us, our service providers and Partners provide more relevant advertising.
+  3.  **Change of control.**  We may transfer Information in the event of a business transaction, such as if we or one of our business units or our relevant assets are acquired by, sold to, or merged with another company or as part of a bankruptcy proceeding or a business reorganization.
 
-    2.  **Syncing Cookies and Identifiers.** We may work with our Partners (for instance, third party ad platforms) to synchronize unique, anonymous identifiers (such as those associated with cookies) in order to match our Partners’ uniquely coded user identifiers to our own. We may do this, for instance, to enhance data points about a particular unique browser or device, and thus enable us or others to send ads that are more relevant, match Users to their likely product interests, or better synchronize, cap, or optimize advertising.
-    3.  **Locally Stored Objects.** Services on the Turner Network may employ locally stored objects (“LSOs”) and other client side storage tracking technologies in certain situations where they help to provide a better user experience, such as to remember settings, preferences and usage similar to browser cookies, or in order to target or help our Partners target ads, analyze ad performance, or perform user, website or market analytics. For LSOs utilized by Adobe Flash you can access Flash management tools from [ **Adobe’s website**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). In addition, some, but not all browsers, provide the ability to remove LSOs, sometimes within cookie and privacy settings.
-    4.  **Disabling Cookies.** Most web browsers are set up to accept cookies. You may be able to set your browser to warn you before accepting certain cookies or to refuse certain cookies. However, if you disable the use of cookies in your web browser, some features of the Services may be difficult to use or inoperable.
+  4.  **Service providers.**  Our agents and contractors may have access to Information to help carry out the services they are performing for us, such as, but not limited to, creation, maintenance, hosting, and delivery of our Sites, products, and services, conduct marketing, handle payments, email and order fulfillment, administer contests, conduct research and analytics, or customer service.
 
-We may work with certain third-party companies that use techniques other than HTTP cookies to recognize your computer or device and/or to collect and record information about your web surfing activity, including those integrated with our Services. Please keep in mind that your web browser may not permit you to block the use of these techniques, and those browser settings that block conventional cookies may have no effect on such techniques. To learn more about Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of DAA’s opt-out program, please go to [**http://www.aboutads.info**](http://www.aboutads.info/).
+  5.  **Affiliates.**  We may disclose Information to affiliates. For example, we may share Information we collect with our affiliates to provide, improve, offer, market, and otherwise communicate with you about their own products and services. Our products and services may be developed, managed, marketed and sold by a variety of our affiliates. We share Information that may identify you personally internally among affiliates publicly recognized as a WarnerMedia affiliate, such as Xandr and the AT&T family of companies. A list of our publicly recognized WarnerMedia affiliates is found [here](https://warnermediaprivacy.com/affiliates/). Public recognition may derive from, for example, use of common branding elements, advertising, press, social media reports or other public form of notice. We require the affiliate to protect the Information consistent with this Policy. For affiliates not publicly recognized as WarnerMedia affiliates, we share information under the same circumstances and limitations that we impose when we share with non-WarnerMedia companies, like vendors performing services on our behalf. We may also combine Information that identifies you personally with data that comes from an app or affiliate that has a different privacy policy. When we do that, our Policy applies to the combined data set.
 
-    5.  **Web Beacons.** We and our Partners may also use “web beacons” or clear GIFs, or similar technologies, which are small pieces of code placed on a Service or in an email, to monitor the behavior and collect data about the visitors viewing a Service or email. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that Service. Web beacons may also be used to provide information on the effectiveness of our email campaigns (e.g., open rates, clicks, forwards, etc.).
-    6.  **Mobile Device Identifiers and SDKs.** We also sometimes use, or partner with publishers or publisher-facing or app developer platforms that use, mobile Software Development Kits (“SDKs”), to collect information, such as mobile identifiers (e.g., IDFAs and Android Advertising IDs), and information connected to how mobile devices interact with our Sites and those using our Sites. Such SDKs provide computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services or analytics to be performed. We may use this technology to deliver or help our partners and other third parties to deliver certain advertising through mobile applications and browsers based on information associated with your mobile device. If you’d like to opt-out from having ads tailored to you in this way on your mobile device, please follow the instructions in the “Your Ad Choices” section below.
+  6.  **Business partners and third parties.**  We may also share Information with business partners and third parties (e.g., other companies, retailers, research organizations, advertisers, ad agencies, advertising networks and platforms, participatory databases, publishers, and non-profit organizations) that may want to market products or services to you. If we share personal information with such unaffiliated third parties for their own marketing purposes, we provide you with an opportunity to opt out of such uses either at the point of collection or through the choice mechanisms set forth in this Privacy Policy. To learn more about your choices, please see Your Choices and Your Controls below.
 
-By visiting the Service, whether as a registered user or otherwise, you acknowledge, and agree that you are giving us your consent to track your activities and your use of the Service through the technologies described above, as well as similar technologies developed in the future, and that we may use such tracking technologies in the emails we send to you.
+  7.  **Linked sites.**  Some of our Sites contain links to other sites, including Social Media sites, whose information practices may be different from ours. Information you submit to other sites will be governed by the other sites' privacy policies and terms.
 
-Our unaffiliated Partners and third parties may themselves set and access their own tracking technologies when you visit our Services and they may have access to information about you and your online activities over time and across different websites or applications when you use the Service. Their use of such tracking technologies is not in our control and is subject to their own privacy policies.
+  8.  **Sponsors and co-promotions.**  We may sometimes offer content or programs (e.g., contests, sweepstakes, promotions, games, applications or Social Media site integrations) that are sponsored by or co-branded with identified parties. By virtue of these relationships, the sponsoring or co-branding parties may collect or obtain Information from visitors that participate in the activity. We have no control over these sponsoring or co-branding parties' use of this Information. We encourage you to visit the privacy policy of any such sponsoring or co-branding party to learn about their data practices prior to providing Information through sponsored or co-branded content or programs.
 
-  5.  **Your Ad Choices**
+  9.  **Advertising networks.**  We may share certain information with parties to provide advertising to you based on your interests. For more information, please see Ad Choices below.
 
-Advertising enables us to provide the rich content for which Services on the Turner Network are known, and to provide much of this content free of cost to our Users. Thus, we strive to provide you with ads that are relevant to you and for products you may want.
 
-However, we also offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our **Ad Choices** page, which has general information about certain companies that place these ads. You may also find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative (“NAI”) at the [**NAI Service**](http://www.networkadvertising.org/), and the Digital Advertising Alliance (the “DAA”) at the [DAA consumer choice Service](http://www.aboutads.info/). Turner is a participant in the online industry’s self-regulatory program administered by the DAA and has agreed to adhere to the DAA’s principles applicable to interest-based ads.
 
-The tools provided on the **Ad Choices** page, as well as the [**DAA opt-out page**](http://www.aboutads.info/choices/) and the [**NAI opt-out page**](http://www.networkadvertising.org/managing/opt_out.asp) are provided by third parties, not Bleacher. Bleacher does not control or operate these tools or the choices that advertisers and others provide through these tools.
+*  **YOUR CHOICES AND CONTROLS**
 
-When using a mobile application you may receive tailored in-application advertisements. Depending on your device, you may be able to reset your mobile device’s advertising identifier at any time by accessing the privacy settings on your mobile device. In addition, each operating system, iOS for Apple phones, Android for Android devices and Windows for Microsoft devices, provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact (or review the applicable privacy web page of) the applicable platform operator.
+  1.  **Marketing communications and sharing with third parties.**  We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us, and our sharing of personal information with unaffiliated third parties for their direct marketing purposes. If you ever decide in the future that you would like to update these preferences, you may (i) log in to an account you have created with us at one of our Sites to adjust your settings, or (ii) send us an email at WMPrivacy@warnermediagroup.com. To opt out of receiving our email marketing communications, you can also follow the "unsubscribe" instructions provided in any marketing email you receive from us. If you previously chose to receive push notifications on your mobile device from us, but no longer wish to receive them, you can manage your preferences through your device or app settings, depending on the type of device. If you have signed up to receive text messages from us and no longer wish to receive such messages, you may follow the instructions to stop the delivery of such messages, which may include by replying "STOP" to the received text message.
 
-  6.  **Other Important Information About Your Privacy**
+For California residents, please see below for additional information on the choices we provide to you.
 
-    1.  **How We Respond to Do Not Track Signals**
+  2.  **Ad Choices.**  WWe may work with third parties to present advertisements and to engage in data collection, reporting, ad delivery and response measurement, and site analytics on our Sites and on third party websites across the Internet and applications over time. These third parties may use cookies, web beacons, pixels, or similar technologies to perform this activity. They may also obtain information about applications you use, websites you visit, and other information from across your devices and browsers in order to help serve advertising that may be more relevant to your interests on and off our Sites and across your devices and browsers. This type of advertising is known as interest-based advertising. They may also use this information to associate various browsers and devices together for the purpose of interest-based advertising and other purposes like analytics.
 
-At this time Services on the Turner Network do not recognize automated browser signals regarding tracking mechanisms, which may include “do not track” instructions.
+For more information about interest-based advertising on your desktop or mobile browser, and your ability to opt out of this type of advertising by third parties that participate in self-regulatory programs, please visit the [Network Advertising Initiative](https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options) and/or the [DAA Self-Regulatory Program for Online Behavioral Advertising](https://web.archive.org/web/20191231064509id_/https%3A//bleacherreport.com/pages/www.aboutads.info/choices). To learn more about interest-based advertising in mobile apps and to opt out of this type of advertising by third parties that participate in the DAA’s AppChoices tool, please download the version of AppChoices for your device [here](https://web.archive.org/web/20191231064509id_/https%3A//bleacherreport.com/pages/youradchoices.com/appchoices). Please note that any opt-out choice you exercise through these programs will apply to interest-based advertising by the third parties you select, but will still allow the collection of data for other purposes, including research, analytics, and internal operations. You may continue to receive advertising, but that advertising may be less relevant to your interests.
 
-    2.  **Linked Services**
+You may have more options depending on your mobile device and operating system. For example, most device operating systems (e.g., iOS for Apple phones, Android for Android devices, and Windows for Microsoft devices) provide their own instructions on how to limit or prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems to learn more about these features and how they apply to tailored in-app advertisements.
 
-Some of the Services contain links to or integrations with other services such as Facebook, Twitter, LinkedIn, and other media services and platforms whose information practices may be different than ours. Visitors should consult these other services' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
+  3.  **Precise location information.**  To disable the collection of precise location information from your mobile device through our mobile apps, you can access your mobile device settings and choose to limit that collection.
 
-    3.  **International Transfer**
+See also Cookies and Other Technical Information for more choices about managing other technical and usage information.
 
-This Service is governed by and operated in accordance with US law. If you are located outside of the US, you use this Service at your own risk. Bleacher is a company that operates globally so it is necessary to transfer your Information internationally. In particular, your Information will be transferred to and processed in the United States where many of our central databases operate. By using this Service, you acknowledge that the data protection and other laws of other countries, such as the United States, may provide a less comprehensive or protective standard of protection than those in your country, and consent to your Information being collected, processed and transferred as set forth in this Privacy Policy and US law.
 
-    4.  **Data Security**
 
-We have put in place physical, electronic, and managerial procedures designed to help prevent unauthorized access, to maintain data security, and to use correctly the Information we collect online. These safeguards vary based on the sensitivity of the Information that we collect and store.
+*  **COOKIES AND OTHER TECHNICAL INFORMATION**
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of Information, we cannot assure you that Information will never be disclosed, altered or destroyed in a manner that is inconsistent with this Privacy Policy.
+ **Cookies and other technologies.**  We, and our affiliates, vendors, and business partners may send "cookies" to your computer or use similar technologies to understand and enhance your online experience at our Sites and through our advertising and media across the Internet and mobile apps.
 
-    5.  **How You Can Access or Correct Information**
+Cookies are small text files placed in your browser. We may also use pixels or "web beacons" that monitor your use of our Sites. Web beacons are small strings of code that provide a method for delivering a graphic image on a webpage for the purpose of transferring data, such as the IP address of the computer that downloaded the page on which the web beacon appears, the URL of the page on which the web beacon appears, the time the page containing the web beacon was viewed, the type of browser that fetched the web beacon, and the identification number of any cookie on the computer previously placed by that server. We may also integrate “Software Development Kits” (“SDKs”) into our applications to perform similar functions as cookies and web beacons. For example, SDKs may collect technical and usage information such as mobile device identifiers and your interactions with the Site and other mobile apps.
 
-Access to certain personal Information that is collected from our Services and that we maintain may be available to you. For example, if you created a password-protected account within our Service, you can access that account to review account Information.
+We may use cookies and other technologies to help recognize your browser or device, maintain your preferences, provide certain Site features, and collect Information about interactions with our Sites, our content, and our communications. For example, when corresponding with you via HTML capable email, web beacons and other technologies let us know about your activity, including whether you received and opened our email, clicked through a link, or otherwise interacted with our content, and this information may be associated with Information previously collected.
 
-You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personal Information. Please include your registration information for such service such as first name, last name and e-mail address in the request. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account.
+We may also use cookies and other technologies (i) to provide, develop, maintain, personalize, protect, and improve our Sites, products, programs, and services and to operate our business, (ii) to perform analytics, including to analyze and report on usage and performance of our Sites and marketing materials, (iii) to protect against, identify, and prevent fraud and other unlawful activity, (iv) to create aggregate data about groups or categories of our users, (v) to synchronize users across devices, affiliates, business partners, and select third parties, and (vi) for us and our affiliates, business partners, and select third parties to target, offer, market, or advertise products, programs, or services. Cookies and other technologies also facilitate, manage, and measure the performance of advertisements displayed on or delivered by or through us and/or other networks or sites. By visiting the Site, whether as a registered user or otherwise, you acknowledge, and agree that you are giving us your consent to track your activities and your use of the Site through the technologies described above, as well as similar technologies developed in the future, and that we may use such tracking technologies in the emails we send to you.
 
-Customer Support  
-Bleacher Report  
-153 Kearny St.  
-2nd Floor  
-San Francisco, CA 94108  
-email: [**support@bleacherreport.com**](mailto:support@bleacherreport.com)
+ **Managing cookies and  other technologies.** Cookies can either be persistent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). Check your browser settings to learn how to delete cookies.
 
-    6.  **How to Contact Us/Opting Out of Marketing Communications**
+You may adjust your browser to reject cookies from us or from any other website. Controlling cookies via browser controls may not limit our use of other technologies. Please consult your browser’s settings for more information. However, blocking cookies or similar technology might prevent you from accessing some of our content or Site features.
 
-If you have any questions or concerns about the online Privacy Policy for this Service or its implementation, or if you would like to opt out from our sharing of your personal Information with unaffiliated third parties for the third parties' direct marketing purposes you may contact our Privacy Policy Coordinator at the above address or [**support@bleacherreport.com**](mailto:support@bleacherreport.com) and request that we opt you out of such sharing. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account.
+Some of our Sites may use locally stored objects (“LSOs”) to provide certain content, such as video on demand, video clips, or animation, and a better user experience. Adobe's Flash player and similar applications use this technology to remember settings, preferences, and usage similar to browser cookies. Flash cookies are not managed through your web browser, but you can access your Flash management tools from Adobe's web site. Your browser may also offer other tools to delete or reject other LSOs; please check your browser’s settings or help menu for more information.
 
-If you have signed up to receive our e-mails and prefer not to receive marketing information from this Service, follow the “unsubscribe” instructions provided on any marketing e-mail you receive from this Service. If you have signed up to receive text messages from us and no longer wish to receive such messages, you may follow the instructions to stop the delivery of such messages, which may include by replying “STOP” to the received text message.
+Some of our sites may use Google Analytics to analyze traffic. You can find out more information about Google Analytics cookies here: https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage. To opt-out of Google Analytics relating to your use of our Sites, you can download and install the Browser Plugin available via this link: https://tools.google.com/dlpage/gaoptout?hl=en.
 
-    7.  **California Residents – Your California Privacy Rights**
+We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
 
-California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As discussed above in **How to Contact Us/Opting Out of Marketing Communications** , if you wish to opt-out of our sharing of your personal Information with third parties for the third parties’ direct marketing purposes or to find out more about your opt-out rights, please contact our Privacy Policy Coordinator as described above.
+See the Your Choices section to learn how to control data collection for certain purposes.
 
-  7.  **List of Turner Affiliates.**
+*  **INFORMATION SECURITY**
 
-Please [click here](https://turneraffiliates.turner.com/Affiliates/Turner-Affiliates-English) to see a representative list of Turner companies that currently may have access to the Information collected from Users on our Services as set forth in this Privacy Policy. This list also includes companies that are affiliated with the Turner group companies and their affiliates, with whom we may share Information we collect on our Services. We may update this list from time-to-time, so please check back periodically to keep up-to-date.
+We have put in place reasonable controls designed to help safeguard the personal information we collect via the Sites. However, no security measures are perfect, and we cannot assure you that personal information that we collect will never be accessed or used in in an unauthorized way.
 
-  8.  **Updates & Effective Date**
+*  **HOW YOU CAN ACCESS OR CORRECT INFORMATION**
 
-From time to time, we may update this Privacy Policy. We will notify you about material changes by either sending an email message to the email address you most recently provided to us or by prominently posting a notice on our Service. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and with whom we share it.
+To access the personal information that we have collected about you online from Sites on which this Privacy Policy is posted or to update your user profile, please log into your account if you have created one with us, or send an email to WMPrivacy@warnermediagroup.com. For California residents, please see below for additional information on accessing information about you.
 
+*  **ADDITIONAL INFORMATION REGARDING CHILDREN'S PRIVACY**
 
+On most Sites, we do not knowingly collect information from children. On some Sites, we may ask the user to provide us with the user's age information. If the person indicates that he or she is under 13 years old, as permitted by law we will (i) collect no or limited personal information (e.g. persistent identifier and/or email address only) from that individual, (ii) inform the child that a parent's verifiable consent is required, and/or (iii) collect the email address of the user's parent in addition to the user's email address. We use the parent's email address to seek the parent's verifiable consent or notify the parent of his/her child's online activities and enable the parent to unsubscribe his/her child from a newsletter or other similar activity. Once a parent provides consent, we may use any information from the child consistent with the rest of this Privacy Policy and/or the terms of the consent provided by the parent. If a user is under 13, we will not condition his/her participation in an online activity on the disclosure of more personal information than is reasonably necessary to participate in the activity. If you would like to review any personal information that we have collected online from your child, have this personal information deleted from our active servers, and/or request that there be no further collection or use of your child's personal information, or if you have questions about these information practices, you may contact us at WMPrivacy@warnermediagroup.com, or at WarnerMedia Privacy Office, 4000 Warner Blvd., Bldg. 160, Burbank, CA 91522.
 
+*  **INTERNATIONAL TRANSFER**
 
-## Privacy Policy Users Inside of EU
+We operate internationally, and many of our computer systems are currently based in the United States, this means Information we collect will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you use or visit our Sites from outside the United States, you consent to the collection and/or processing in the United States of Information we collect from you.
 
-This policy applies to any online and mobile website, application and digital service ("Services") of Turner Broadcasting System, Inc. and its Affiliates which displays the policy. We use "Turner", "we", "us" and "our" to refer to Turner Broadcasting System, Inc. and its Affiliates, including AT&T, Inc. and Warner Media, LLC, and to your personal data as "Information". You can also learn about cookies and similar technology in this policy.
+*  **NOTIFICATION REGARDING PRIVACY POLICY UPDATES**
 
-### KEY POINTS
+From time to time, we may update this Privacy Policy. We will notify you about material changes to this Privacy Policy by placing a notice on our Sites. We encourage you to periodically check back and review this policy so that you always know our current privacy practices.
 
-  * We use Information to allow you to use the Services. Click here to learn more.
-  * If you give us permission, we will send you news and promotional material about our Services. You can change your mind about this at any time and ask us not to process your Information for direct marketing purposes, including profiling related to direct marketing. This policy explains when we process Information, for our legitimate interests. You can ask us to stop processing this Information. Click here to learn more about your rights and how you can exercise them.
-  * We use cookies and other tracking technologies to personalize content and advertising and to make our content function better. To learn about our use of tracking technologies click here.
-  * We provide interactive features that engage with social media sites, such as Facebook and Twitter. If you use these features, these sites will send us Information about you. Click here to learn more.
-  * We disclose Information when you agree that we can share Information with business partners or other Turner Affiliates. We also share Information with third parties we engage to process Information on our behalf or when such sharing is required by law, or in certain other situations. Click here to learn more.
-  * We transfer your Information to the United States and to other countries have measures in place to protect Information that we collect, store and transfer. Click here to learn more.
+*  **HOW TO CONTACT US**
 
+If you have any questions about this Privacy Policy you may contact us at: WMPrivacy@warnermediagroup.com or at WarnerMedia Privacy Office, 4000 Warner Blvd., Bldg. 160, Burbank, CA 91522 or contact us toll free at 833-WM-PRVCY (833-967-7829) or TTY: 833-PRVCY-TT (833-778-2988).
 
-  1.  **HOW WE USE YOUR INFORMATION**
+*  **CALIFORNIA AND CCPA PRIVACY RIGHTS AND DISCLOSURES**
 
-We use your Information for the following purposes:
+This California Privacy Rights and Disclosure section addresses legal obligations and rights laid out in the California Consumer Privacy Act, or CCPA. These obligations and rights apply to businesses doing business in California and to California residents and information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with California consumers or households (“California Information”).
 
-    1.  **To fulfil a contract, or take steps prior to entry into a contract:**
-      1. to process your registration for the Services, or entry to a competition;
-      2. to provide the Services, to communicate with you about them or your account with us;
-      3. to send you information about changes to our terms or policies; and 
-      4. to verify your identity.
-    2.  **Where this is necessary for purposes which are in our, or third parties', legitimate interests:**
+*  **CALIFORNIA INFORMATION WE COLLECTED AND SHARED**
 
-These interests are:
+This section provides the information California residents need to exercise their rights over their California Information. Here is information about the California Information we have collected from and shared about consumers over the twelve months prior to the Effective Date of this Privacy Policy.
 
-      1. to fulfil your requests and inquiries regarding the Services and to notify you if you have won a contest;
-      2. to provide technical support for the Services;
-      3. to analyse how you use the Services, including which videos you like to watch, and to help us develop new services; and
-      4. to enforce our policies and terms of use, to check for potential illegal activity (such as copyright infringement or fraud) and to protect the safety of other users of the Services. 
-    3. **Where you give us consent:**
-      1. to send you newsletters you have requested and to use technologies to check if these have been received and opened; and
-      2. to send you content, offers, rewards, and promotional materials, by email or on other sites, apps or social media, which may be personalized based on your visits to and use of the Services and to check to see if these ads have been received and if they were of interest to you.
-    4.  **For purposes which are required by law;**
-      1. in response to requests by government or law enforcement authorities conducting an investigation.
-  2.  **INFORMATION WE RECEIVE**
-    1. From You. We receive Information that you provide to us directly, such as registration Information, and Information that is collected automatically, such as Information collected from your browser or device.
-    2. From Third Parties. We also receive some Information about you from third parties.
+*  **California Information We Collected**
 
-When you engage with our content through social media, or other non-Turner, sites or applications, those sites will share Information with us:
+In the year before the date this policy was issued, on some Sites we may have collected the following categories of California Information:
 
-      1. about the content you have viewed or interacted with, your game performance and high scores, and about adverts within the content which you have been shown or clicked on; and
-      2. in your profile – for example, your name, e-mail address, gender, birthday, location, user ID, photos and videos, your list of friends or connections, people you follow and/or who follow you, or your posts or "likes".
+  1. Address and other identifiers – such as name, postal address, zip code, email address, account name, Social Security number, driver’s license number, payment card numbers, passport number, or other similar identifiers
 
-The privacy policies for these sites and applications will contain more detail about this and how to change your privacy settings on those sites and applications.
+  2. Unique and online identifiers – such as IP address, device IDs, or other similar identifiers
 
-  3.  **INFORMATION SHARING AND DISCLOSURE**
+  3. Characteristics of protected classifications – such as race, ethnicity, or sexual orientation
 
-We share your Information:
+  4. Commercial information – such as products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies
 
-    1. With service providers we have engaged to perform business-related functions on our behalf. For example, to: (a) conduct research and analytics; (b) create content; (c) provide customer support services; (d) conduct or support marketing; (e) fulfil orders; (f) handle payments; (g) host Services; (h) administer contests; and (i) maintain databases;
-    2. In response to legal process, for example, in response to a court order or a subpoena, a law enforcement or government agency's request;
-    3. With third parties if this will help us to enforce our policies and terms of use, to check for potential illegal activity (such as copyright infringement or fraud) or to protect the safety of other users of the Services;
-    4. If we, or one of our business units, undergoes a business transition, like a merger, acquisition by another company, or sale of all or part of our assets;
-    5. With your consent, we share Information with other organisations so they can market their products and services to you. We share Information with:
+  5. Internet, gaming or other electronic network activity information – such as browsing history, search history and information regarding an individual’s interaction with an internet website, application, or advertisement
 
-Turner Affiliates — A list of Turner Affiliates is available [here](https://turneraffiliates.turner.com/Affiliates/Turner-Affiliates-English); and
+  6. Professional or educational Information
 
-Advertising networks and platforms (for more information on this see the section on cookies and similar tracking technologies), magazine publishers, database, retailers, participatory databases and non-profit organisations.
+  7. Biometric information
 
-  4.  **COOKIES AND SIMILAR TRACKING TECHNOLOGIES.**
+  8. Video footage (e.g., CCTV); Audio recordings; Photographs; Calendar information
 
-We use cookies and other similar technologies to help provide Services, to advertise to you and to analyse how you use our Services and whether advertisements are being viewed. We also allow third parties to use tracking technologies for similar purposes.
+  9. Location information – (e.g. if you access our Sites on your mobile device we may collect Information about your device’s precise location.)
 
-We use tracking technologies for the following purposes:
+  10. In game or online viewing activities (e.g., videos viewed, pages viewed)
 
- **Strictly necessary purposes**  
-To let you login, to ensure site security and to provide shopping cart functionality. Without this type of technology, our Services won't work properly or won't be able to provide certain features and functionalities.
+  11. Inferences drawn from California Information, such as individual profiles, preferences, characteristics, behaviors.
 
- **Performance purposes**  
-To analyse how visitors use a website, for instance which pages visitors visit most often, in order to provide a better user experience. We also use this technology to check if you have opened our emails, so we can see if they are being delivered correctly and are of interest.
 
- **Personalisation purposes**  
-To remember choices you have made — such as language or region.
 
- **Advertising cookies**  
-To limit the number of times you see an advertisement, or to customize advertising across Services and make it more relevant to you and to allow us to measure the effectiveness of advertising campaigns and track whether ads have been properly displayed.
 
- **Social media cookies**  
-Cookies are used by social media services to enable you to share our content with your friends and networks. These cookies may track your browser across other sites and build a profile of your interests, which may impact the content and messages you see on other websites that you visit.
+We may have collected these categories of California Information for the following purposes:
 
- **How to manage & remove cookies**  
-If you are using our Services via a browser you can restrict, block or remove cookies through your web browser settings. The Help menu on the menu bar of most browsers also tells you how to prevent your browser from accepting new cookies, how to delete old cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether.
+  1. Performing services on behalf of the business, such as customer service, processing or fulfilling orders, providing content recommendations, and processing payments
 
-You can also visit [www.aboutcookies.org](https://www.aboutcookies.org/) for more information on how to manage and remove cookies across a number of different internet browsers. You also have the option to change your cookie preferences and withdraw your consent at any time using the Privacy Preference Center. This Privacy Preference Center also provides more detail about the third parties which place cookies on our site. 
+  2. Auditing customer transactions
 
-We also use Flash cookies to provide some content such as video clips or animation. You can manage Flash cookies via Adobe's website.
+  3. Fraud and crime prevention
 
-If you are using our Services via an application, the operating system for your device provides instructions on how to prevent tailored advertising and how to reset your device's advertising identifier.
+  4. Debugging errors in systems
 
-If you would like to contact us about cookies please email us at [support@bleacherreport.com](mailto:support@bleacherreport.com).
+  5. Marketing and advertising
 
-  5.  **OTHER IMPORTANT INFORMATION ABOUT YOUR PRIVACY**
-    1.  **International Transfer**
+  6. Internal research, analytics and development – e.g., user-preference analytics
 
-We operate globally, so we do need to transfer your Information internationally. In particular, your Information will be transferred to and processed in the United States where many of our central databases operate. We use European Commission approved contract clauses to protect your Information, an appropriate Privacy Shield certification or a vendor's Processor Binding Corporate Rules. A copy of the relevant mechanism can be provided for your review on request to our Privacy Policy Coordinator using the details set out below.
+  7. Developing, maintaining, provisioning or upgrading networks, products, services, or devices.
 
-    2.  **Data Security**
 
-We have put in place physical, electronic, and managerial procedures designed to help prevent unauthorized access, to maintain data security, and to use correctly the Information we collect online. These safeguards vary based on the sensitivity of the Information that we collect and store.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of Information, we cannot assure you that Information will never be disclosed, altered or destroyed in a manner that is inconsistent with this Privacy policy.
 
-    3.  **Retention of Your Information**
+We may have obtained California Information from a variety of sources, including:
 
-We keep details of users who have registered for a Service with us for as long as you use the Service and for up to 18 months afterwards.
+  1. Directly from you, including technical and usage information when you use our Sites
 
-If you make payments in connection with the Services, we keep payment data for 13 months after the date of payment.
+  2. Linked sites, such as Social Media Sites, and third-party platforms
 
-If you contact us with support queries, we keep the data for between 3 and 18 months, depending on the nature of the query and whether you have registered with us for a Service.
+  3. Our WarnerMedia or AT&T affiliates
 
-Our cookies and other tracking technologies expire 13 months from the date after you give or renew consent for us to use these technologies.
+  4. Our joint-ventures and promotional and strategic partners
 
-Where we process Information for marketing purposes, we process the Information while you remain interested in the marketing (for example, where you open and read our offers) and for three years after that point. If you ask us to stop sending marketing we will keep your Information for a short period after this (to allow us to implement your requests). We also keep a record of the fact that you have asked us not to send you direct marketing or to process your Information indefinitely so that we can respect your request in the future.
+  5. Information suppliers
 
-Where we process Information for Service security purposes, we retain it for 6 months.
+  6. Distributors and other vendors
 
-    4.  **Your Rights/How to Contact Us**
+  7. Marketing mailing lists
 
-You have the right to ask us for a copy of your Information, to correct, delete or restrict (stop any active) processing of your Information; and to obtain the Information you provide to us for a contract or with your consent in a structured, machine readable format, and to ask us to share this Information to another controller.
+  8. Other users submitting California Information about you, such as to invite you to participate in an offering, make recommendations, or share content
 
-In addition, you can object to the processing of your Information in some circumstances (in particular, where we do not have to process the Information to meet a contractual or other legal requirement).
+  9. Publicly available sources.
 
-These rights may be limited, for example if fulfilling your request would reveal Information about another person, or if you ask us to delete Information which we are required by law to keep or have compelling legitimate interests in keeping.
 
-Where you have given consent to our using your Information for marketing, you can withdraw your consent at any time. You can also ask us not to carry out profiling for direct marketing purposes. You can opt out of receiving email newsletters and other marketing communications by following the opt-out instructions provided to you in those emails. If you sign up to receive SMS or MMS messages, you can unsubscribe from those messages received by replying "STOP".
 
-To exercise any of these rights, you can use our data subject [request form](https://app-eu.onetrust.com/app/#/webform/0cfd8893-ae62-4831-bd63-d4d6840b1178) or get in touch with us or our Privacy Policy Coordinator using the details set out below. Please include your registration Information such as first name, last name and e-mail address in the request. We may ask you to provide additional Information for identity verification purposes, or to verify that you are in possession of an applicable email account.
+*  **California Information We Shared**
 
-You also have a right to complain to a supervisory authority for data protection in the country where you live, where you work, or where you consider that a breach of data protection has occurred, although we hope that we can assist with any queries or concerns you may have about our use of your Information. Our Data Protection Officer can be contacted with any such queries or concerns about our use of our information at the contact details listed below.
+In the year before the date this policy was issued, for some Sites we may have shared these categories of California Information for operational purposes with providers who provide services for us, like processing your bill:
 
- **E-mail Administration**  
-Turner Broadcasting System, Inc.  
-Attention: Privacy Policy Coordinator  
-1050 Techwood Drive NW  
-Atlanta, GA 30318  
-email: [privacy.turner@turner.com](mailto:privacy.turner@turner.com)
+  1. Address and other identifiers – such as name, postal address, email address, account name, Social Security number, driver’s license number, payment card numbers passport number, or other similar identifiers
 
- **Data Protection Officer**  
-Turner Broadcasting System, Inc.  
-1050 Techwood Drive NW  
-Atlanta, GA 30318  
-email: [DPO@turner.com](mailto:DPO@turner.com)
+  2. Unique and online identifiers – IP address, device IDs, or other similar identifiers
 
-  6.  **WHO IS THE DATA CONTROLLER?**
+  3. Commercial information – such as records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies
 
-This policy applies to a number of Turner companies. The company which is responsible for a particular Service (the data controller) is listed below:
+  4. Internet, gaming or other electronic network activity information – such as browsing history, search history, and information regarding an individual’s interaction with an internet website, application, or advertisement
 
-Bleacher Report, Inc. (Data Controller)  
-153 Kearny Street, 2nd Floor  
-San Francisco, CA 94108  
-Email: [support@bleacherreport.com](mailto:support@bleacherreport.com)| Turner Broadcasting System Europe Limited (Data Protection Representative)  
-Turner House, 16 Great Marlborough Street, London, W1F-7HS  
-Email: [privacy.turner@turner.com](mailto:privacy.turner@turner.com)  
----|---  
-  7.  **UPDATES & EFFECTIVE DATE**
+  5. Professional or educational Information
 
-From time to time, we may update this policy. We will notify you about material changes by either sending an email message to the email address you most recently provided to us or by prominently posting a notice on our Service. We encourage you to periodically check back and review this policy so that you know what Information we collect, how we use it, and with whom we share it.
+  6. Biometric information
 
+  7. Video footage (e.g., CCTV); Audio recordings; Photographs; Calendar information
 
+  8. Location information – (e.g. if you access our Sites on your mobile device we may collect Information about your device’s precise location.)
 
+  9. In game or online viewing activities (e.g., videos viewed, pages viewed)
 
-The policy posted on this Service was updated on December 5, 2018.
+  10. Inferences drawn from California Information, such as individual profiles, preferences, characteristics, behaviors.
 
- **Questions?**
 
-Please e-mail [support@bleacherreport.com](mailto:support@bleacherreport.com).
 
-[Read the Terms of Use](https://web.archive.org/pages/terms)
 
-[Read the Acceptable Use Policy](https://web.archive.org/pages/usepolicy)
+The California Consumer Privacy Act defines ‘sale’ very broadly. It includes the sharing of California Information in exchange for anything of value. According to this broad definition, in the year before the date this policy was issued, on some Sites we may have sold the following categories of California Information:
+
+  1. Address and other identifiers – such as name, postal address, email address, account name, Social Security number, driver’s license number, passport number, or other similar identifiers
+
+  2. Unique and online identifiers – IP address, device IDs, or other similar identifiers
+
+  3. Commercial information – such as records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies
+
+  4. Internet, gaming or other electronic network activity information – such as browsing history, search history, and information regarding an individual’s interaction with an internet website, application, or advertisement
+
+  5. Location information - (e.g. if you access our Sites on your mobile device we may collect Information about your device’s precise location.)
+
+  6. Inferences drawn from California Information, such as individual profiles, preferences, characteristics, behaviors.
+
+
+
+*  **YOUR CALIFORNIA PRIVACY RIGHTS TO REQUEST DISCLOSURE OF INFORMATION WE COLLECT AND SHARE ABOUT YOU**
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information about our practices related to the disclosure of your personal information by certain members of the WarnerMedia Family of Companies to certain third parties for their direct marketing purposes. You may be able to opt-out of our sharing of your personal information with unaffiliated third parties for the third parties’ direct marketing purposes in certain circumstances. Please send your request (along with your full name, email address, postal address, and the subject line labeled “Your California Privacy Rights”) by email at WMPrivacy@warnermediagroup.com.
+
+In addition, if you are a California resident, the CCPA grants you the right to request certain information about our practices with respect to California Information. In particular, you can request the following:
+
+  1. The categories and specific pieces of your California Information that we’ve collected
+
+  2. The categories of sources from which we collected California Information
+
+  3. The business or commercial purposes for which we collected or sold California Information
+
+  4. The categories of third parties with which we shared California Information.
+
+
+You can submit a request to us for the following additional information:
+  1. The categories of third parties to which we’ve sold California Information, and the category or categories of California Information sold to each.
+
+  2. The categories of California Information that we’ve shared with service providers who provide services for us, like processing your bill.
+
+
+To exercise your CCPA rights with respect to this information, either visit [here](https://www.warnermediaprivacy.com/) or contact us toll free at 833-WM-PRVCY (833-967-7829) or TTY: 833-PRVCY-TT (833-778-2988). These requests for disclosure are generally free.
+*  **YOUR RIGHT TO REQUEST THE DELETION OF CALIFORNIA INFORMATION**
+
+Upon your request, we will delete the California Information we have collected about you, except for situations when that information is necessary for us to: provide you with a product or service that you requested; perform a contract we entered into with you; maintain the functionality or security of our systems; comply with or exercise rights provided by the law; or use the information internally in ways that are compatible with the context in which you provided the information to us, or that are reasonably aligned with your expectations based on your relationship with us. To exercise your right to request the deletion of your California Information, either visit [here](https://www.warnermediaprivacy.com/) or contact us toll free at 833-WM-PRVCY (833-967-7829) or TTY: 833-PRVCY-TT (833-778-2988). These requests are generally free.
+
+*  **YOUR RIGHT TO ASK US NOT TO SELL YOUR CALIFORNIA INFORMATION**
+
+You can always tell us not to sell your California Information by visiting [here](https://www.warnermediaprivacy.com/do-not-sell/).
+
+Once we receive and process your request, we will not sell your California Information unless you later allow us to do so.
+
+*  **DO NOT TRACK NOTICE**
+
+We do not currently take actions to respond to Do Not Track signals and similar signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+See the Your Choices section to learn how to control data collection for certain purposes.
+
+*  **OUR SUPPORT FOR THE EXERCISE YOUR DATA RIGHTS**
+
+We are committed to providing you control over your California Information. If you exercise any of these rights explained in this section of the Privacy Policy, we will not disadvantage you. You will not be denied or charged different prices or rates for goods or services or provided a different level or quality of goods or services.
+
+*  **CONSUMERS UNDER 16 YEARS OLD**
+
+CCPA has specific rules regarding the use of California Information from consumers under 16 years of age. In particular, consistent with the CCPA, if we knowingly collect the California Information of a consumer under the age of 16, we will not sell the information unless we receive affirmative permission to do so. If the consumer is between the ages of 13 and 16 years of age, the consumer may provide that permission; if the consumer is under the age of 13, the consumer’s parent or guardian must provide the permission.
+
+If you would like further information on how we handle California Information from consumers under the age of 16 years of age, or if you have questions about these information practices, you may contact us [here](https://web.archive.org/web/20191231064509id_/https%3A//bleacherreport.com/pages/wmprivacy@warnermediagroup.com), or at WarnerMedia Privacy Office, 4000 Warner Blvd., Bldg. 160, Burbank, CA 91522. We are committed to providing you control over your California Information. If you exercise any of these rights explained in this section of the Privacy Policy, we will not disadvantage you. You will not be denied or charged different prices or rates for goods or services or provided a different level or quality of goods or services.
