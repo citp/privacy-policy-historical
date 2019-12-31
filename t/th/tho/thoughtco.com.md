@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoughtco.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626052855id_/https%3A//www.thoughtco.com/legal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtco.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231215529id_/https%3A//www.thoughtco.com/legal%23privacy) for the most accurate reproduction.*
 
 # Terms of Use and Policies
 
@@ -121,9 +121,62 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 ### Jurisdiction Specific Provisions
 
-#### Our Notice to California Residents
+#### California Privacy Notice
 
-Subject to certain limits, under California law California residents may ask us to provide them with a list of the categories of personal data that we have disclosed to third parties for those third parties’ direct marketing purposes during the preceding calendar year, as well as the identity of those third parties. California residents may contact us as specified in the How to Contact Us section below to make a request for this information. 
+This California Consumer Act Privacy Notice (“ **CCPA Notice** ”) applies to “Consumers” as defined by the California Consumer Privacy Act (“ **CCPA** ”). For the purpose of this CCPA Notice, personal information applies to “Personal Information” as defined by the CCPA (also referred to herein as “PI”). 
+
+We collect and share the following categories of PI from the corresponding sources and for the corresponding purposes set forth in the table below. 
+
+Category of Personal Information | Sources of Personal Information | Purposes for Collection | Categories of Third Parties with whom Personal Information is shared | Purposes of Third Parties Receiving PI  
+---|---|---|---|---  
+1\. **Identifiers and Personal Records** (e.g., email address, name, address, IP address, credit card number) | Directly from you; your devices; Vendors | Performing Services; Processing and managing interactions and transactions; Quality Assurance; security; debugging; marketing | Vendors which assist us in providing services and running our internal business operations (“Vendors”); Data Analytics Partners; Corporate affiliates | Performing Services on our behalf; Processing and managing interactions and transactions; performing services; Quality Assurance; security; debugging  
+2\. **Customer Acct.** Details/Commercial Information (e.g., details of your use of our service) | You; your devices; Vendors | Performing Services; Research and development; quality assurance; security; debugging; and marketing | Data Analytics Partners; Vendors; Corporate affiliates | Performing Services on our behalf; research and development; quality assurance; security; and debugging  
+3\. **Internet Usage Information** (e.g., information regarding your interaction with our services) | You; your devices; Data Analytics Partners; Vendors | Research and development; quality assurance; security; and debugging | Data Analytics Partners; Vendors; Corporate affiliates | Performing Services on our behalf; Research and development; quality assurance; security; and debugging  
+4\. **Inferences** (e.g., your preferences, likelihood of interest in certain of our services) | Data Analytics Partners; Vendors; Advertising Networks | Research and development; quality assurance; and marketing | Data Analytics Partners; Vendors; Advertising Networks; Corporate affiliates | Performing Services on our behalf; research and development; quality assurance; marketing  
+  
+In addition, we may collect, use and disclose your PI as required or permitted by applicable law, or as directed by you, in accordance with this Privacy Policy. 
+
+We do not knowingly “sell” personal information that we collect from you, in accordance with the definition of “sell” in the CCPA, and will treat personal information we collect from you as subject to a do not sell request. There is not yet a consensus as to whether third-party cookies and tracking devices associated with our websites and mobile apps may constitute a “sale” of your PI as defined by the CCPA. You can exercise control over browser-based cookies by adjusting the settings on your browser. We also list cookies and provide access to their privacy information and, if available, opt-out programs in our Cookie Policy. Further, you can learn more about your choices regarding certain kinds of online interest-based advertising with the [Digital Advertising Alliance](https://youradchoices.com/) or the [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1). We do not represent that these third-party tools, programs or statements are complete or accurate. 
+
+Some browsers have signals that may be characterized as do not track signals, but we do not understand them to operate in that manner or to indicate a do not sell expression by you, so we currently do not recognize these as a do not sell request. We understand that various parties are developing do not sell signals and we may recognize certain such signals if we conclude such a program is appropriate. 
+
+California Consumers have the right to exercise the privacy rights under the CCPA. California Consumers may exercise these rights via an authorized agent who meets the agency requirements of the CCPA. Any request you submit to us is subject to an identification and residency verification process (“ **Verifiable Consumer Request** ”). We will not fulfill your CCPA request unless you have provided sufficient information for us to reasonably verify you are the Consumer about whom we collected PI. In order to verify your identity, we will send you an email to the email address that you provide to us, and you must take action as described in our email. This will enable us to verify that the person who made the request controls and has access to the email address associated with the request. We will check our systems for the email address that you provide, and any information associated with such email address. If you provide us with an email address that has not been used to interact with us, then we will not be able to verify your identity. In other words, the only reasonable method by which we may verify the identity of individuals is if we have an email address on file that was provided to us in relation to our services. We will be unable to fulfill your request if we cannot verify your identity. **Please follow the instructions at our Consumer Rights Request page[here](https://www.thoughtco.com/privacy-request)** and respond to any follow up inquiries we may make. 
+
+Some personal information we maintain about Consumers is not sufficiently associated with enough personal information about the Consumer for us to be able to verify that it is a particular Consumer’s personal information (e.g., clickstream data tied only to a pseudonymous browser ID). As required by the CCPA, we do not include that personal information in response to Verifiable Consumer Requests. If we cannot comply with a request, we will explain the reasons in our response. 
+
+We will make commercially reasonable efforts to identify Consumer PI that we collect, process, store, disclose, and otherwise use and to respond to your California Consumer privacy rights requests. We will typically not charge a fee to fully respond to your requests, but we may charge a reasonable fee, or refuse to act upon a request, if your request is excessive, repetitive, unfounded, or overly burdensome. 
+
+**To make a request according to your rights to know or to request deletion of your PI set forth below, please click[here](https://www.thoughtco.com/privacy-request),** where you will find a description of the process we use to verify your request and any information that we will need to confirm your identity. In order to verify your identity, we will send you an email to the email address that you provide to us, and you must take action as described in our email. This will enable us to verify that the person who made the request controls and has access to the email address associated with the request. We will check our systems for the email address that you provide, and any information associated with such email address. If you provide us with an email address that has not been used to interact with us, then we will not be able to verify your identity. In other words, the only reasonable method by which we may verify the identity of individuals is if we have an email address on file that was provided to us in relation to our services. We will be unable to fulfill your request if we cannot verify your identity. 
+
+For your specific pieces of information, as required by the CCPA, we will apply heightened verification standards, which may include a request to provide further information. 
+
+You have the right to send us a request, no more than twice in a twelve-month period, for any of the following for the period that is twelve months prior to the request date: 
+
+  * The categories of PI we have collected about you.
+  * The categories of sources from which we collected your PI.
+  * The business or commercial purposes for our collecting or selling your PI.
+  * The categories of third parties to whom we have shared your PI.
+  * The specific pieces of PI we have collected about you.
+  * A list of the categories of PI disclosed for a business purpose in the prior 12 months, or that no disclosure occurred.
+  * A list of the categories of PI sold about you in the prior 12 months, or that no sale occurred. If we sold your PI, we will explain:
+    * The categories of your PI we have sold.
+    * The categories of third parties to which we sold PI, by categories of PI sold for each third party.
+
+
+
+You have the right to make or obtain a transportable copy, no more than twice in a twelve-month period, of your PI that we have collected in the period that is 12 months prior to the request date and are maintaining. 
+
+Please note that PI is retained by us for various time periods, so we may not be able to fully respond to what might be relevant going back 12 months prior to the request. 
+
+Except to the extent we have a basis for retention under CCPA, you may request that we delete your PI that we have collected directly from you and are maintaining. Note also that we are not required to delete your PI that we did not collect directly from you. 
+
+You may alternatively exercise more limited control of your PI by instead exercising one of the following more limited opt-outs, including unsubscribing from email newsletters. 
+
+We will not discriminate against you in a manner prohibited by the CCPA because you exercise your CCPA rights. However, we may charge a different price or rate, or offer a different level or quality of good or service, to the extent that doing so is reasonably related to the value of the applicable data. In addition, we may offer you financial incentives for the collection, sale and retention and use of your PI as permitted by the CCPA that can, without limitation, result in reasonably different prices, rates, or quality levels. The material aspects of any financial incentive will be explained and described in its program terms. Please note that participating in incentive programs is entirely optional, you will have to affirmatively opt-in to the program and you can opt-out of each program (i.e., terminate participation and forgo the ongoing incentives) prospectively by following the instructions in the applicable program description and terms. We may add or change incentive programs and/or their terms by posting notice on the program descriptions and terms linked to above so check them regularly. 
+
+#### Our Notice to Nevada Residents
+
+Under Nevada law, Nevada residents may opt out of the sale of certain “covered information” collected by operators of websites or online services. We currently do not sell covered information, as “sale” is defined by such law, and we don’t have plans to sell this information. However, if you would like to be notified if we decide in the future to sell personal information covered by the Act, please go to [NevadaPrivacy@thoughtco.com](mailto:nevadaprivacy@thoughtco.com) to provide your name and email address. We may share your data as explained in this privacy policy, such as to enhance your experiences and our services, and those activities will be unaffected by a Nevada do not sell request. You may also have other choices regarding our data practices as set forth elsewhere in this privacy policy. 
 
 #### If you are located in the European Economic Area (EEA):
 
