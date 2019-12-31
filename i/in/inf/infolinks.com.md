@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224104id_/https%3A//www.infolinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231212930id_/https%3A//www.infolinks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective: May 25, 2018.  
+Effective: Jan 1, 2019.  
 
 Infolinks Media, LLC (AKA, Infolinks) is an advertising technology company that provides a variety of online advertising-related services. We respect all concerns about privacy issues and want you to be familiar with how we collect, use, and share information and how you can exercise the privacy rights available to you.  This Privacy Policy (“Policy”) covers the information that we may process:
 
@@ -190,7 +190,7 @@ Please note that email communications are not always secure, so please do not in
 Contact Information:
 
 Infolinks Media, LLC c/o Privacy  
-45 Broad Street, Second Floor  
+3 N Maple Avenue, Suite #1  
 Ridgewood, New Jersey 07450, USA
 
 To comply with our obligations under EU data protection legislation, we have appointed a Data Protection Officer (DPO).  Our DPO is contactable at [info@Infolinks.com](mailto:info@Infolinks.com) using the subject “Data Protection Officer:”, or by mail using the details provided above.
@@ -216,6 +216,16 @@ If you make a request to access personal information we hold about you (also kno
 Please note, however, that for detailed information we have a very short retention period for most files with Digital Identifiers. As a result, we may not be able to provide you with any records at all in response to an access request. In such cases, however, we will inform you that we have not been able to locate any records associated with your Digital Identifiers.
 
 Important Note: We have a responsibility to verify your identity before we respond to an access request.  This is to make sure that we provide a copy of your personal information only to the person who is entitled to it — you.  Because of this, it is our policy not to accept requests submitted by third parties (including automated robots), and to require certain documentation from you to verify that you are authorized to make the access request. If you wish to make an access request, we kindly ask that you contact us directly and follow the instructions below.
+
+**SECTION 5A – Additional Information for California  Residents Explained**
+
+If you are a resident of California, please review these additional privacy disclosures.
+
+_Your Rights_
+
+California law requires us to disclose the categories of personal information we collect and how we use them, the categories of sources from which we collect personal information, and the third parties with whom we share personal information, which we have explained above. We are also required to communicate information about rights you have under California law—for information about these rights, please ​review the complete document​ above. You also have the right to request what information we collect and how we use and disclose it. You may exercise these rights by ​submiting our disclosure form. Please note that because most of the information we store can only identify a particular browser or device, and cannot identify you individually, you need to provide us with some additional information to enable us to identify the User Information we hold about you, if any, and ensure that we accurately fulfill your request. If you have any questions about your rights or our disclosures, you may reach us at ​+1.INFO.LNK
+
+In addition, we are required to provide you certain information about the business and commercial purposes for which we collect and share your personal information. We use and disclose the information we collect for the business purposes described ​throughout the document of this policy, including: to allow our clients to select and display advertisements, to understand how users interact with our services, for auditing purposes, to detect security incidents, to prevent fraud, debug, and repair errors, and for other purposes described above.
 
 **HOW TO MAKE A DATA SUBJECT RIGHTS REQUEST**
 
@@ -307,11 +317,13 @@ You have the right to decide whether to accept or reject cookies. In addition to
 
 **SECTION -A-**
 
+Please Submit the Data Subject Access Request by mail to the contact address in Section 4.1, or as a PDF attachment as seen in Section 4.10:
+
 **DATA SUBJECT ACCESS REQUEST –   AUTHORIZATION VERIFICATION FORM**
 
 I, the undersigned Data Subject, hereby swear, certify and attest that:
 
-  1. I am a citizen and/or resident of _________________________________________, which is located within the European Economic Area;
+  1. I am a citizen and/or resident of _________________________________________, which is located within the ________________ Area;
   2. Please complete for the access you are requesting:
 
 
@@ -319,7 +331,8 @@ I, the undersigned Data Subject, hereby swear, certify and attest that:
 ¨[   ] I own and operate a device on which is stored at least one cookie listed in Infolinks’s Platform Cookie Policy or Website Cookie Policy, which is set by the Infolinks domain, and contains the following string(s) of text: _______________________________________________________________________; _______________________________________________________________________;
 
   3. [   ] I have the authority, under relevant laws, rules and regulations, to submit a subject access request for personal data associated with the above-listed identifiers; and
-  4. [   ] I am not requesting this information for any fraudulent, criminal, malicious or other unlawful or improper purpose. 5. I have followed the directions and provided all information required by the Infolinks EEA Data Subject Rights Notice.
+  4. [   ] I am not requesting this information for any fraudulent, criminal, malicious or other unlawful or improper purpose.
+  5. I have followed the directions and provided all information required by the Infolinks Data Subject Rights Notice.
 
 
 
