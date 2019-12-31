@@ -1,375 +1,1080 @@
-<!--The following is the downloaded HTML source of the wolframalpha.com privacy policy that was archived on 2018-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180622110811id_/http%3A//www.wolframalpha.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wolframalpha.com privacy policy that was archived on 2019-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191231174724id_/https%3A//www.wolfram.com/legal/privacy/wolfram) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Wolfram|Alpha Privacy Policy</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="synonyms" content="wolfram alpha, alpha">
+    <meta charset="utf-8">
+    <title>Wolfram Privacy Policy</title>
 
-<meta name="google-site-verification" content="mE2MwXYWZdTRA6VgPRWefX10WVDza-PcEBsywQgtM2s">
-<meta name="msvalidate.01" content="C8DF0015EE38FC5B84FA0F36AFFAF874">
+<!-- gl-head-includes.en.html -->
 
-<!--[if IE]>
-<meta name="msapplication-config" content="/browserconfig.xml?_v=1470063461">
-<![endif]-->
-
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300|Source+Sans+Pro:400,300,300italic,400italic,600,600italic">
-<link href="/css/fonts.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="https://www.wolframcdn.com/css/normalize.css">
-<link rel="stylesheet" href="/html_includes/header-footer/header-footer.css">
-<link rel="stylesheet" href="/html_includes/header-footer/lexia/lexia.css">
-<link rel="stylesheet" href="/html_includes/header-footer/header-subnav.css">
-
-<script async="" src="//wal.wolfram.com/js/1.1.0/raw.js"></script><script type="text/javascript">
-    //
-        var stage = '';
-    //
     
-    (function(a,b,c,d,e,f,g,h){a['WolframAnalyticsObject']=f;a[f]=a[f]||function(){
-    (a[f].q=a[f].q||[]).push(arguments)},a[f].q=a[f].q||[],a[f].t=1*new Date();
-    a[f].d=d,a[f].v=e,g=b.createElement(c),h=b.getElementsByTagName(c)[0],g.async=1
-    ,g.src=d+'/js/'+e+'/raw.js',h.parentNode.insertBefore(g,h)})
-    (window,document,'script','//wal.' + stage + 'wolfram.com','1.1.0','wal');
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="http://www.wolfram.com/share.png">
+    <meta prefix="og: http://ogp.me/ns#" property="og:image:secure_url" content="https://www.wolfram.com/share.png">
+    <meta prefix="og: http://ogp.me/ns#" property="og:image:width" content="1200">
+    <meta prefix="og: http://ogp.me/ns#" property="og:image:height" content="1200">
     
-    wal('log','pageload');
+    <link rel="stylesheet" href="//www.wolframcdn.com/fonts/source-sans-pro/1.0/global.css">
+    <link rel="stylesheet" href="/common/css/gl-styles.en.css">
+    <script async="" src="//web.archive.org/web/20200101204148/https://wal.wolfram.com/js/3.0.0/wal.js"></script><script src="//www.wolframcdn.com/consent/cookie-consent.js"></script>
+    <script src="/common/javascript/wal/latest/walLoad.js"></script>
+    <script src="/common/javascript/jquery/core/1.11.2/jquery.min.js"></script>
+    <script src="/common/javascript/jquery/plugins/migrate/1.2.1/jquery-migrate-1.2.1.min.js"></script>
+    <script src="/common/javascript/jquery/plugins/hoverIntent/r6/hoverIntent.min.js"></script>
+    <script src="/common/javascript/gl-head-scripts.en.js"></script>
+    <script src="/common/javascript/analytics.js"></script>
+
+<!--/gl-head-includes.en.html -->
+
+    <link rel="stylesheet" href="/common/css/normalize/current/normalize.min.css">
+    <link rel="stylesheet" type="text/css" href="/legal/css/legal.css">
+<script type="text/javascript" language="Javascript"> 
+$(document).ready(function(){
+  
+      $('.privacyArrow').toggleClass('keyarrowUp');
+      $('.privacyLinks').toggle();
+  
+      $(".selector").hover(function () {
+          if ($(this).hasClass("sidebarLinks")) {
+             $(this).removeClass("sidebarLinks");
+             $(this).addClass("sidebarLinksHover");
+      }
+      }, 
+      function () {
+          if ($(this).hasClass("sidebarLinksHover")) {
+             $(this).removeClass("sidebarLinksHover");
+             $(this).addClass("sidebarLinks");
+      }
+      }
+    );
+
+     
+    $(".selector").click(function () {
+      if ($(this).children().hasClass("keyarrowUp")) {
+         $(this).children().removeClass("keyarrowUp");
+         $(this).children().addClass("keyarrowDown");
+      }
+      else {
+           $(this).children().removeClass("keyarrowDown");
+         $(this).children().addClass("keyarrowUp");
+      }
+         $(this).siblings().filter(".linkUL").slideToggle("fast");
+     });
+ 
+  });
 </script>
 
-  <script type="text/javascript">
-	/* AdRoll tracking code
-	 * Currently included to specific pages. Consider moving this out to another file if this changes
-	 */
 
-	adroll_adv_id = "YK5YAN4TMJFF5ER2Q5CWAP";
-	adroll_pix_id = "XO5UPJF2XBFPZFSQFDAIIA";
-	/* OPTIONAL: provide email to improve user identification */
-	/* adroll_email = "username@example.com"; */
-	(function () {
-		var _onload = function(){
-			if (document.readyState && !/loaded|complete/.test(document.readyState)) {
-				setTimeout(_onload, 10);
-				return;
-			}
-			if (!window._adroll_loaded){
-				_adroll_loaded=true;
-				setTimeout(_onload, 50);
-				return;
-			
-			}
-			var scr = document.createElement("script");
-			var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-			scr.setAttribute('async', 'true');
-			scr.type = "text/javascript";
-			scr.src = host + "/j/roundtrip.js";
-			((document.getElementsByTagName('head') || [null])[0] || document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-		};
-		if (window.addEventListener) {
-			window.addEventListener('load', _onload, false);
-		}
-		else {
-			window.attachEvent('onload', _onload)
-		}
-	}());
-</script>
-  <link rel="stylesheet" href="/css/terms.css">
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
+</head>
 <body>
-  <header id="wa-common-header" class="authenticating">
-    <nav>
-        <h1>
-          <a href="/">
-            <img class="tracking-header-logo" src="/html_includes/header-footer/img/wolfram-alpha-logo.svg?v=2" alt="Wolfram|Alpha" width="166" height="25">
-          </a>
-        </h1>
-        <form id="header-input-form" class="input" action="/input/" method="get">
-            <label for="wa-top-input">What would you like to know about ?</label>
-            <input type="text" id="wa-top-input" name="i" placeholder="What would you like to know about ?">
-            <button>Compute</button>
-        </form>
-        <div class="menu-toggle"><span class="icon-hamburger-menu"></span></div>
-        <ul class="main-nav">
+
+<!-- gl-header.en.html -->
+
+<div id="gl-outer-wrapper" class="gl-en cf">
+    <div id="gl-header" class="gl-header-fixed" style="left: 0px;">
+        <div id="gl-header-top">
+            <ul class="cf">
+                <li><a href="http://www.wolframalpha.com/?source=nav">WolframAlpha.com</a></li>
+                <li><a href="https://www.wolframcloud.com/?source=nav">WolframCloud.com</a></li>
+                <li><a href="http://www.wolfram.com/resources/?source=nav">All Sites &amp; Public Resources...</a></li>
+            </ul>
+        </div>
+        <div id="gl-header-bottom" class="cf">
+            <div id="gl-logo">
+                <a href="http://www.wolfram.com/?source=nav" class="cf">
+                    <img src="/common/images/gl-logo-spikey.en.png" width="48" height="50" alt="" id="gl-logo-spikey">
+                    <img src="/common/images/gl-logo-wolfram.en.png" width="160" height="22" alt="Wolfram" id="gl-logo-wolfram">
+                    <img src="/common/images/gl-logo-computation-meets-knowledge.en.png" width="160" height="7" alt="Computation Meets Knowledge" id="gl-logo-slogan">
+                </a>
+            </div>
+            <ul id="gl-menu" class="cf">
+
+                <li id="gl-menu-products" class="gl-menu-tab">
+                    <a href="http://www.wolfram.com/products/?source=nav">Products &amp; Services<i class="gl-icon gl-r6-c2"></i></a>
+                    <ul class="gl-submenu">
+                        <li class="gl-col-wrapper cf">
+                            <ul class="gl-col gl-col1 gl-hover">
+                                <li><a href="http://www.wolfram.com/wolfram-one/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r2-c11"></i></span><span>Wolfram|One</span></a></li>
+                                <li><a href="http://www.wolfram.com/mathematica/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c2"></i></span><span>Mathematica</span></a></li>
+                                <li><a href="http://www.wolfram.com/wolfram-alpha-notebook-edition/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r2-c12"></i></span><span>Wolfram|Alpha Notebook&nbsp;Edition</span></a></li>
+                                <li><a href="http://www.wolfram.com/programming-lab/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c10"></i></span><span>Programming Lab</span></a></li>
+                                <li><a href="http://www.wolfram.com/finance-platform/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c5"></i></span><span>Finance Platform</span></a></li>
+                                <li><a href="http://www.wolfram.com/system-modeler/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c6"></i></span><span>SystemModeler</span></a></li>
+                                <li><a href="http://www.wolfram.com/player/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c4"></i></span><span>Wolfram Player</span></a></li>
+                                <li><a href="http://www.wolfram.com/engine/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r2-c4"></i></span><span>Wolfram Engine</span></a></li>
+                                <li><a href="http://www.wolfram.com/wolframscript/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c1"></i></span><span>WolframScript</span></a></li>
+                            </ul>
+                            <ul class="gl-col gl-col2">
+                                <li class="gl-hover gl-lines">
+                                    <ul>
+                                        <li><a href="http://www.wolfram.com/enterprise-private-cloud/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c12"></i></span><span>Enterprise Private Cloud</span></a></li>
+                                        <li><a href="http://www.wolfram.com/mathematica-enterprise-edition/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c13"></i></span><span>Enterprise Mathematica</span></a></li>
+                                        <li><a href="http://products.wolframalpha.com/appliance/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c14"></i></span><span>Wolfram|Alpha Appliance</span></a></li>
+                                    </ul>
+                                </li>
+                                <li class="gl-hover"><span class="gl-flex"><span><i class="gl-icon gl-r3-c7"></i></span><span>Enterprise Solutions</span></span>
+                                    <ul>
+                                        <li><a href="http://www.wolframsolutions.com/?source=nav">Corporate Consulting</a></li>
+                                        <li><a href="http://www.wolfram.com/support/technical-services/?source=nav">Technical Services</a></li>
+                                        <li><a href="http://products.wolframalpha.com/business/?source=nav">Wolfram|Alpha Business Solutions</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul class="gl-col gl-col3">
+                                <li class="gl-hover"><a href="https://resources.wolframcloud.com/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r3-c8"></i></span><span>Resource System</span></a>
+                                    <ul>
+                                        <li><a href="https://datarepository.wolframcloud.com/?source=nav">Data Repository</a></li>
+                                        <li><a href="https://resources.wolframcloud.com/NeuralNetRepository/?source=nav">Neural Net Repository</a></li>
+                                        <li><a href="https://resources.wolframcloud.com/FunctionRepository/?source=nav">Function Repository</a></li>
+                                    </ul>
+                                </li>
+                                <li class="gl-hover"><a href="http://www.wolframalpha.com/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c7"></i></span><span>Wolfram|Alpha</span></a>
+                                    <ul>
+                                        <li><a href="http://www.wolframalpha.com/pro/?source=nav">Wolfram|Alpha Pro</a></li>
+                                        <li><a href="http://www.wolframalpha.com/pro/problem-generator/?source=nav">Problem Generator</a></li>
+                                        <li><a href="http://products.wolframalpha.com/api/?source=nav">API</a></li>
+                                    </ul>
+                                </li>
+                                <li class="gl-hover"><a href="https://datadrop.wolframcloud.com/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r2-c10"></i></span><span>Data Drop</span></a></li>
+                            </ul>
+                            <ul class="gl-col gl-col4">
+                                <li class="gl-hover"><a href="http://www.wolfram.com/education/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r3-c2"></i></span><span>Products for Education</span></a></li>
+                                <li class="gl-hover"><span class="gl-flex"><span><i class="gl-icon gl-r1-c8"></i></span><span>Mobile Apps</span></span>
+                                    <ul>
+                                        <li><a href="http://www.wolfram.com/player-app/?source=nav">Wolfram Player</a></li>
+                                        <li><a href="http://www.wolfram.com/cloud-app/?source=nav" target="_blank">Wolfram Cloud App</a></li>
+                                        <li><a href="http://products.wolframalpha.com/mobile/?source=nav">Wolfram|Alpha for Mobile</a></li>
+                                        <li><a href="http://products.wolframalpha.com/mobile/?source=nav#wapowered">Wolfram|Alpha-Powered Apps</a></li>
+                                    </ul>
+                                </li>
+                                <li class="gl-hover"><span class="gl-flex"><span><i class="gl-icon gl-r1-c9"></i></span><span>Services</span></span>
+                                    <ul>
+                                        <li><a href="http://www.wolfram.com/support/technical-services/?source=nav">Paid Project Support</a></li>
+                                        <li><a href="http://www.wolfram.com/wolfram-u/?source=nav">Wolfram U</a></li>
+                                        <li><a href="http://education.wolfram.com/summer/?source=nav">Summer Programs</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li><!--/.gl-col-wrapper -->
+                        <li class="gl-col-footer">
+                            <a href="http://www.wolfram.com/products/?source=nav">All Products &amp; Services »</a>
+                        </li>
+                    </ul><!--/.gl-submenu -->
+                </li><!--/#gl-menu-products -->
+
+                <li id="gl-menu-technologies" class="gl-menu-tab">
+                    <a href="http://www.wolfram.com/technologies/?source=nav">Technologies<i class="gl-icon gl-r6-c2"></i></a>
+                    <ul class="gl-submenu">
+                        <li class="gl-col-wrapper">
+                            <div class="gl-col gl-col1">
+                                <a href="http://www.wolfram.com/language/?source=nav" class="gl-hover">
+                                    <span class="gl-flex"><span><i class="gl-icon gl-r2-c1"></i></span><span>Wolfram Language</span></span>
+                                    <span>Revolutionary knowledge-based programming language.</span>
+                                </a>
+                                <a href="http://www.wolfram.com/cloud/?source=nav" class="gl-hover">
+                                    <span class="gl-flex"><span><i class="gl-icon gl-r2-c2"></i></span><span>Wolfram Cloud</span></span>
+                                    <span>Central infrastructure for Wolfram's cloud products &amp; services.</span>
+                                </a>
+                                <a href="http://www.wolfram.com/wolfram-science/?source=nav" class="gl-hover">
+                                    <span class="gl-flex"><span><i class="gl-icon gl-r2-c8"></i></span><span>Wolfram Science</span></span>
+                                    <span>Technology-enabling science of the computational universe.</span>
+                                </a>
+                            </div>
+                            <div class="gl-col gl-col2">
+                                <a href="http://www.wolfram.com/notebooks/?source=nav" class="gl-hover">
+                                    <span class="gl-flex"><span><i class="gl-icon gl-r2-c3"></i></span><span>Wolfram Notebooks</span></span>
+                                    <span>The preeminent environment for any technical workflows.</span>
+                                </a>
+                                <a href="http://www.wolfram.com/engine/?source=nav" class="gl-hover">
+                                    <span class="gl-flex"><span><i class="gl-icon gl-r2-c4"></i></span><span>Wolfram Engine</span></span>
+                                    <span>Software engine implementing the Wolfram Language.</span>
+                                </a>
+                                <a href="http://www.wolfram.com/natural-language-understanding/?source=nav" class="gl-hover">
+                                    <span class="gl-flex"><span><i class="gl-icon gl-r2-c9"></i></span><span>Wolfram Natural Language Understanding System</span></span>
+                                    <span>Knowledge-based broadly deployed natural language.</span>
+                                </a>
+                            </div>
+                            <div class="gl-col gl-col3">
+                                <a href="http://www.wolfram.com/data-framework/?source=nav" class="gl-hover">
+                                    <span class="gl-flex"><span><i class="gl-icon gl-r2-c5"></i></span><span>Wolfram Data Framework</span></span>
+                                    <span>Semantic framework for real-world data.</span>
+                                </a>
+                                <a href="http://www.wolfram.com/universal-deployment-system/?source=nav" class="gl-hover">
+                                    <span class="gl-flex"><span><i class="gl-icon gl-r2-c6"></i></span><span>Wolfram Universal Deployment System</span></span>
+                                    <span>Instant deployment across cloud, desktop, mobile, and more.</span>
+                                </a>
+                                <a href="http://www.wolfram.com/knowledgebase/?source=nav" class="gl-hover">
+                                    <span class="gl-flex"><span><i class="gl-icon gl-r2-c7"></i></span><span>Wolfram Knowledgebase</span></span>
+                                    <span>Curated computable knowledge powering Wolfram|Alpha.</span>
+                                </a>
+                            </div>
+                        </li><!--/.gl-col-wrapper -->
+                        <li class="gl-col-footer">
+                            <a href="http://www.wolfram.com/technologies/?source=nav">All Technologies »</a>
+                        </li>
+                    </ul><!--/.gl-submenu -->
+                </li><!--/#gl-menu-technologies -->
+
+                <li id="gl-menu-solutions" class="gl-menu-tab">
+                    <a href="http://www.wolfram.com/solutions/?source=nav">Solutions<i class="gl-icon gl-r6-c2"></i></a>
+                    <ul class="gl-submenu">
+                        <li class="gl-col-wrapper">
+                            <ul class="gl-col gl-col1 gl-hover">
+                                <li><span class="gl-flex"><span><i class="gl-icon gl-r3-c1"></i></span><span>Engineering, R&amp;D</span></span>
+                                    <ul>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/aerospace-engineering/?source=nav">Aerospace &amp; Defense</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/chemical-engineering/?source=nav">Chemical Engineering</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/control-systems/?source=nav">Control Systems</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/electrical-engineering/?source=nav">Electrical Engineering</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/image-processing/?source=nav">Image Processing</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/industrial-engineering/?source=nav">Industrial Engineering</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/mechanical-engineering/?source=nav">Mechanical Engineering</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/operations-research/?source=nav">Operations Research</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/?source=nav"><em>More...</em></a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul class="gl-col gl-col2 gl-hover">
+                                <li><span class="gl-flex"><span><i class="gl-rtall gl-r3-c4"></i></span><span>Finance, Statistics &amp; Business Analysis</span></span>
+                                    <ul>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/actuarial-sciences/?source=nav">Actuarial Sciences</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/bioinformatics/?source=nav">Bioinformatics</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/data-science/?source=nav">Data Science</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/econometrics/?source=nav">Econometrics</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/financial-risk-management/?source=nav">Financial Risk Management</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/statistics/?source=nav">Statistics</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/?source=nav"><em>More...</em></a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul class="gl-col gl-col3">
+                                <li class="gl-hover"><span class="gl-flex"><span><i class="gl-icon gl-r3-c2"></i></span><span>Education</span></span>
+                                    <ul>
+                                        <li><a href="http://www.wolfram.com/education/?source=nav">All Solutions for Education</a></li>
+                                    </ul>
+                                </li>
+                                <li class="gl-hover"><span class="gl-flex"><span><i class="gl-icon gl-r3-c6"></i></span><span>Trends</span></span>
+                                    <ul>
+                                        <li><a href="http://www.wolfram.com/featureset/machine-learning/?source=nav">Machine Learning</a></li>
+                                        <li><a href="http://www.mpdatascience.com/?source=nav">Multiparadigm Data Science</a></li>
+                                        <li><a href="http://www.wolfram.com/internet-of-things/?source=nav">Internet of Things</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/hpc/?source=nav">High-Performance Computing</a></li>
+                                        <li><a href="http://www.wolfram.com/hackathons/?source=nav">Hackathons</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul class="gl-col gl-col4">
+                                <li class="gl-hover"><span class="gl-flex"><span><i class="gl-icon gl-r3-c3"></i></span><span>Software &amp; Web</span></span>
+                                    <ul>
+                                        <li><a href="http://www.wolfram.com/developer/?source=nav">Software Development</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/electronic-publishing/?source=nav">Authoring &amp; Publishing</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/interface-development/?source=nav">Interface Development</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/web-development/?source=nav">Web Development</a></li>
+                                    </ul>
+                                </li>
+                                <li class="gl-hover"><span class="gl-flex"><span><i class="gl-icon gl-r3-c5"></i></span><span>Sciences</span></span>
+                                    <ul>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/astronomy/?source=nav">Astronomy</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/biological-sciences/?source=nav">Biology</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/industry/chemistry/?source=nav">Chemistry</a></li>
+                                        <li><a href="http://www.wolfram.com/solutions/?source=nav"><em>More...</em></a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li><!--/.gl-col-wrapper -->
+                        <li class="gl-col-footer">
+                            <a href="http://www.wolfram.com/solutions/?source=nav">All Solutions »</a>
+                        </li>
+                    </ul><!--/.gl-submenu -->
+                </li><!--/#gl-menu-solutions -->
+
+                <li id="gl-menu-support" class="gl-menu-tab">
+                    <a href="http://www.wolfram.com/support/?source=nav">Learning &amp; Support<i class="gl-icon gl-r6-c2"></i></a>
+                    <ul class="gl-submenu">
+                        <li class="gl-col-wrapper">
+                            <ul class="gl-col gl-col1 gl-hover cf">
+                                <li class="gl-col1"><span class="gl-flex"><span><i class="gl-icon gl-r4-c1"></i></span><span>Learning</span></span>
+                                    <ul>
+                                        <li><a href="http://reference.wolfram.com/language/?source=nav">Wolfram Language Documentation</a></li>
+                                        <li><a href="http://www.wolfram.com/language/fast-introduction-for-programmers/?source=nav">Fast Introduction for Programmers</a></li>
+                                        <li><a href="http://www.wolfram.com/wolfram-u/?source=nav">Wolfram U</a></li>
+                                        <li><a href="http://www.wolfram.com/broadcast/?source=nav">Videos &amp; Screencasts</a></li>
+                                    </ul>
+                                </li>
+                                <li class="gl-col2">&nbsp;
+                                    <ul>
+                                        <li><a href="http://www.wolfram.com/language/elementary-introduction/?source=nav">Wolfram Language Introductory Book</a></li>
+                                        <li><a href="http://www.wolfram.com/wolfram-u/calendar/?source=nav">Webinars &amp; Training</a></li>
+                                        <li><a href="http://education.wolfram.com/summer/?source=nav">Summer Programs</a></li>
+                                        <li><a href="http://www.wolfram.com/books/?source=nav">Books</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul class="gl-col gl-col2 gl-hover">
+                                <li><span class="gl-flex"><span><i class="gl-icon gl-r4-c2"></i></span><span>Need Help?</span></span>
+                                    <ul>
+                                        <li><a href="http://support.wolfram.com/kb/?source=nav">Support FAQ</a></li>
+                                        <li><a href="http://community.wolfram.com/?source=nav">Wolfram Community</a></li>
+                                        <li><a href="http://www.wolfram.com/support/contact/?source=nav">Contact Support</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul class="gl-col gl-col3 gl-hover">
+                                <li><span class="gl-flex"><span><i class="gl-icon gl-r4-c4"></i></span><span>Premium Support</span></span>
+                                    <ul>
+                                        <li><a href="http://www.wolfram.com/mathematica/pricing/premier-service.php?source=nav">Premier Service</a></li>
+                                        <li><a href="http://www.wolfram.com/support/technical-services/?source=nav">Technical Services</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li><!--/.gl-col-wrapper -->
+                        <li class="gl-col-footer">
+                            <a href="http://www.wolfram.com/support/?source=nav">All Learning &amp; Support »</a>
+                        </li>
+                    </ul><!--/.gl-submenu -->
+                </li><!--/#gl-menu-support -->
+
+                <li id="gl-menu-company" class="gl-menu-tab">
+                    <a href="http://www.wolfram.com/company/?source=nav">Company<i class="gl-icon gl-r6-c2"></i></a>
+                    <ul class="gl-submenu">
+                        <li class="gl-col-wrapper">
+                            <ul class="gl-col gl-col1 gl-hover">
+                                <li><span class="gl-flex"><span><i class="gl-icon gl-r5-c1"></i></span><span>About</span></span>
+                                    <ul>
+                                        <li><a href="http://www.wolfram.com/company/background.html?source=nav">Company Background</a></li>
+                                        <li><a href="http://blog.wolfram.com/?source=nav">Wolfram Blog</a></li>
+                                        <li><a href="http://company.wolfram.com/announcements/?source=nav">Announcements</a></li>
+                                        <li><a href="http://company.wolfram.com/events/?source=nav">Events</a></li>
+                                        <li><a href="http://www.wolfram.com/company/contact/?source=nav">Contact Us</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul class="gl-col gl-col2 gl-hover">
+                                <li><span class="gl-flex"><span><i class="gl-icon gl-r5-c2"></i></span><span>Work with Us</span></span>
+                                    <ul>
+                                        <li><a href="http://www.wolfram.com/company/careers/?source=nav">Careers at Wolfram</a></li>
+                                        <li><a href="http://www.wolfram.com/company/careers/?source=nav">Internships</a></li>
+                                        <li><a href="http://community.wolfram.com/content?curTag=jobs&amp;source=nav">Other Wolfram Language Jobs</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul class="gl-col gl-col3 gl-hover cf">
+                                <li class="gl-col3"><span class="gl-flex"><span><i class="gl-icon gl-r5-c3"></i></span><span>Initiatives</span></span>
+                                    <ul>
+                                        <li><a href="http://www.wolframfoundation.org/?source=nav">Wolfram Foundation</a></li>
+                                        <li><a href="http://mathworld.wolfram.com/?source=nav" target="_blank">MathWorld</a></li>
+                                        <li><a href="http://www.computerbasedmath.org/?source=nav">Computer-Based Math</a></li>
+                                        <li><a href="http://www.wolframscience.com/?source=nav"><em>A New Kind of Science</em></a></li>
+                                        <li><a href="http://www.wolfram.com/hackathons/?source=nav">Wolfram Technology for Hackathons</a></li>
+                                        <li><a href="http://www.wolfram.com/company/careers/ambassador/?source=nav">Student Ambassador Program</a></li>
+                                    </ul>
+                                </li>
+                                <li class="gl-col4">&nbsp;
+                                    <ul>
+                                        <li><a href="http://www.wolfram.com/startups/?source=nav">Wolfram for Startups</a></li>
+                                        <li><a href="http://demonstrations.wolfram.com/?source=nav">Demonstrations Project</a></li>
+                                        <li><a href="http://www.wolfram.com/events/technology-conference/innovator-award/?source=nav">Wolfram Innovator Awards</a></li>
+                                        <li><a href="http://www.wolfram.com/raspberry-pi/?source=nav">Wolfram + Raspberry Pi</a></li>
+                                        <li><a href="http://education.wolfram.com/summer/?source=nav">Summer Programs</a></li>
+                                        <li><a href="http://www.wolfram.com/resources/?source=nav"><em>More...</em></a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li><!--/.gl-col-wrapper -->
+                        <li class="gl-col-footer">
+                            <a href="http://www.wolfram.com/company/?source=nav">All Company »</a>
+                        </li>
+                    </ul><!--/.gl-submenu -->
+                </li><!--/#gl-menu-company -->
+
+                <li id="gl-menu-divider"></li>
+                <li id="gl-menu-search" class="gl-menu-tab">
+                    <div class="gl-menu-tab-link"><i class="gl-icon gl-r6-c1"></i>Search</div>
+                    <ul class="gl-submenu">
+                        <li id="gl-search-wrapper" class="cf">
+                            <form action="//search.wolfram.com/" method="get" accept-charset="utf-8">
+                                <div>
+                                    <input type="text" name="query" placeholder="What are you looking for?" autocomplete="off" id="gl-search">
+                                </div>
+                            </form>
+                        </li>
+                    </ul><!--/.gl-submenu -->
+                </li><!--/#gl-menu-search -->
+
+            </ul><!--/#gl-menu -->
+        </div><!--/#gl-header-bottom -->
+    </div><!--/#gl-header -->
+    <div id="gl-header-bg" class="gl-header-fixed"><span><!-- --></span></div>
+    <div id="gl-header-offset" class="gl-header-fixed"><span><!-- --></span></div>
+    <div id="gl-inner-wrapper">
+
+<!--/gl-header.en.html -->
+
+<div id="wrapper">
+    <div class="leftcolumn">
+        <div class="header">
+            <h1>LEGAL INFORMATION</h1>
+        </div>
+        <h1>Wolfram Privacy Policy</h1>
+        <p>
+            Wolfram understands your concerns about how your information is used and shared, and we endeavor to use such information carefully and sensibly. This policy explains how the information you provide is collected and used, as well as your rights in connection to your information under applicable laws.
+        </p>
+
+        <h3>What Information Do We Collect?</h3>
+        <p>
+We may collect both Personal Information (PI) and non-Personal Information (non-PI) about you through your experience on our websites, from your use of our services and products and via other voluntary contact with you (collectively "Services").
+        </p>
+        <p>
+The PI we collect through our Services primarily consists of information you submit to us. Because participation in our Services is voluntary, you have a choice of whether or not to disclose such information. The following are categories of PI we have collected in the past 12 months:
+        </p>
+<p>
+<strong>Identifiers</strong>
+</p>
+	<ul>
+	<li>Examples include: a real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, Social Security number, driver's license number, passport number or other similar identifiers</li>
+	</ul>
+<p>
+<strong>Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))</strong>
+</p>
+	<ul>
+	<li>Examples include: a name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information or health insurance information. Some PI included in this category may overlap with other categories.</li>
+	</ul>
+<p>
+<strong>Internet or other similar network activity</strong>
+</p>
+	<ul>
+	<li>Examples include: browsing history, search history, or information on a consumer's interaction with a website, application or advertisement</li>
+	</ul>
+<p>
+<strong>Geolocation data</strong>
+</p>
+	<ul>
+	<li>Physical location only</li>
+	</ul>
+<p>
+<strong>Sensory data</strong>
+</p>
+	<ul>
+	<li>Examples include: audio, electronic, visual, thermal, olfactory or similar information</li>
+	</ul>
+<p>
+<strong>Professional or employment-related information</strong>
+</p>
+	<ul>
+	<li>Examples include: current or past job history or performance evaluations</li>
+	</ul>
+
+
+
+        <p>
+            In addition to information that you provide to us voluntarily, we receive some additional PI and non-PI whenever you interact with our Services online, including your Internet Protocol (IP) address, browser type and version, referral URLs and other data automatically supplied by most common web browsers.
+        </p>
+        <p>
+            We may also collect information from third-party sites, as described below in
+            <a href="#third-party">What Information Do We Collect from Third-Party Sites?</a>
+        </p>
+
+        <h3>How Is Your Information Used?</h3>
+        <p>
+            The PI we obtain from users, site participants and visitors helps us enhance and refine our Services. Non-PI collected about you through your experience, queries and feedback is used to better understand the entire population that is utilizing our Services and how we might improve the collective experience. Except as noted below, we track and record IP addresses that access our Services for internal reporting, diagnostic analysis and security purposes only.
+        </p>
+        <p>
+            Your IP address is used to determine, when possible, your approximate geographical location, which affects the computations or outputs provided by our Services for such things as default currency and units of measure based on what country you are in. Your browser type may be used to optimize your display, for example, on mobile devices or to work around limitations of a particular browser. Referrer URLs may be used to generate usage statistics and analyze usage patterns.
+        </p>
+        <p>
+	If you provide your email address to us, we may email you in response, as well as notify you of other offers or Services that may be of interest. When you send email or other communication to us, we may retain that communication to respond to you and improve our Services. If at any time you want to stop receiving communication from us, please click the unsubscribe link in the footer of any email message from us, or contact our Customer Support <a href="/support/contact/email/">online</a> or by phone at 1-800-WOLFRAM. However, please note that we may still contact you with transactional communications associated with any software or service agreements you have with us or in direct response to any communication you send us.
+        </p>
+
+        <h3 id="disclosures">Disclosures of Your Information</h3>
+        <p>
+            We do not sell, rent, trade or lease your information to third parties, and have not done so in the past 12 months. Any information we share shall be subject to the parameters associated with your requested Services and preferences.
+        </p>
+        <p>
+            When we share PI, we require the recipient to protect your PI in compliance with the law, including keeping the PI confidential and not using it for any purpose except the specific purpose of performing our Services and only within the direct business relationship with Wolfram. Wolfram may share information with affiliates, partners, service providers, authorized resellers and distributors, and relevant third parties in order to fulfill the limited purposes described herein.
+        </p>
+<p>
+In the past 12 months, we have disclosed the following categories of PI for a business purpose:
+	</p><ul>
+	<li>Identifiers</li>
+	<li>California Customer Records PI categories</li>
+	<li>Internet or other similar network activity</li>
+	</ul>
+<p></p>
+<p>
+We disclose your PI for a business purpose to the following categories of third parties:
+	</p><ul>
+	<li>Our affiliates</li>
+	<li>Service providers</li>
+	<li>Third parties to whom you or your agents authorize us to disclose your PI in connection with products or Services we provide to you</li>
+	</ul>
+<p></p>
+
+
+        <p>
+            Any collected information (PI and non-PI) associated with your use of our Services may also be subject to disclosure to government authorities or other authorized third parties pursuant to a lawful request, subpoena or other process that legally compels disclosure of that information.
+        </p>
+        <p>
+            We may also preserve, use or disclose your information if necessary to enforce our Terms of Use and related agreements; to detect, prevent or otherwise address fraud, security or technical issues, including suspiciously high-volume use of our Services; to respond to support requests; or to protect the rights, property or safety of our company, our users or others.
+        </p>
+
+        <h3 id="third-party">What Information Do We Collect from Third-Party Sites?</h3>
+        <p>
+            When you use our Services to connect to or access data from a third-party site ("TPS"), including but not limited to social networking sites, we may collect PI about you from any TPS profile for which you give our Services access credentials.
+        </p>
+        <p>
+            By authorizing these Services to access your TPS profile, you are authorizing us, in accordance with this Privacy Policy, to collect, store and use any and all information that your privacy settings at the TPS allow our Services to access through the TPS application programming interface ("API").
+        </p>
+        <p>
+            Because the linkage between any TPS and our Services is completely voluntary and our Services' abilities to access your information at the TPS require that linkage, and any information transmitted is controlled by your privacy settings at the TPS, you have a choice of whether or not to disclose such information.
+        </p>
+
+        <h3>Links to Third-Party Websites</h3>
+        <p>
+            From time to time, our Services may contain links to other websites. We do not exercise any control over these websites, and we are not responsible for their privacy practices or content. We encourage all users to read the privacy policies of each and every website visited when following links from our Services. This Privacy Policy applies solely to information collected by our Services.
+        </p>
+
+        <h3>Cookies</h3>
+        <p>
+            When you visit our websites, they, like most websites, send one or more cookies—small identifiers—to your computer that store information about your session and preferences as well as information that can help improve our Services. While we do use strictly necessary and functional cookies for basic site functionality, as well as security and fraud investigation purposes, our primary purpose in using all other cookies is to enhance and improve your user experience by understanding and remembering your preferences, and by general tracking of our user trends. We utilize the following types of cookies:
+        </p>
+        <ul>
             <li>
-              <a class="header-pro-link">Pro</a>
-              <ul class="pro-menu">
-                <li><a class="tracking-pro-link" href="/pro/">For Everyone</a></li>
-                <li><a class="tracking-pro-link" href="/pro-for-students/">For Students</a></li>
-                <li><a class="tracking-pro-link" href="/pro-for-educators/">For Educators</a></li>
-                <li><a class="tracking-pro-link" href="/pro/pricing">Pricing</a></li>
-              </ul>
+               Default cookies: These strictly necessary and functional cookies support and facilitate the provision of Services that you have requested on our websites, and may enable enhanced features.
             </li>
             <li>
-              <a class="icon-apps">Apps</a>
-              <ul class="apps-menu">
-                <li><a class="web-apps-link tracking-apps-link" href="/web-apps">Web Apps</a></li>
-                <li><a class="wpg-link tracking-apps-link" href="/problem-generator">Problem Generator</a></li>
-                <li><a class="mobile-apps-link tracking-apps-link" href="http://products.wolframalpha.com/mobile/">Mobile Apps</a></li>
-                <li><a class="all-products-link tracking-apps-link" href="http://products.wolframalpha.com/">All Products</a></li>
-              </ul>
-            </li>
-            <li><a href="/tour/" class="tracking-header-link">Tour</a></li>
-            <li class="oauth">
-              <a class="sign-in">Sign in</a>
-              <button class="signed-in icon-user-email"></button>
-                <ul class="user-menu">
-                  <div>
-                    <li><a class="tracking-user-menu-link" href="/?lbox=auth-favorites">Favorites</a></li>
-                    <li><a class="tracking-user-menu-link" href="/?lbox=auth-history">History</a></li>
-                    <li><a class="tracking-user-menu-link" href="/?lbox=auth-preferences">Preferences</a></li>
-                    <li><a class="tracking-user-menu-link" href="/?lbox=auth-downloads">Downloads</a></li>
-                    <li><a class="tracking-user-menu-link" href="/?lbox=auth-uploads">Uploads</a></li>
-          
-          <li><a class="tracking-user-menu-link" href="https://account.wolfram.com/products/wolfram-alpha/">Account</a></li>
-          
-                  </div>
-                  <div>
-                    <li><a class="tracking-user-menu-link" href="http://developer.wolframalpha.com/portal/mywidgets/">My Widgets</a></li>
-                    <li><a class="tracking-user-menu-link" href="http://developer.wolframalpha.com/portal/myapps/">My Apps (API)</a></li>
-                  </div>
-                  <div>
-                    <li><a href="#" class="sign-out">Sign Out</a></li>
-                  </div>
-                </ul>
+                Additional cookies: These cookies collect information that we utilize to support the measurement of our websites. On specific sites, Wolfram may use third-party cookies when working with outside partners for analytics and to optimize delivery of information that may be of interest to you. We do not have access to read or write such third-party cookies, nor do we directly control the manner in which they may be used.
             </li>
         </ul>
-    </nav>
-</header>
-<noscript>
-  <header id="wa-common-header">
-      <nav>
-          <h1>
-            <a href="/">
-              <img class="tracking-header-logo" src="/html_includes/header-footer/img/wolfram-alpha-logo.svg?v=2" alt="Wolfram|Alpha" width="166" height="25">
-            </a>
-          </h1>
-          <form id="header-input-form" class="input" action="/input/" method="get">
-              <label for="wa-top-input">What would you like to know about ?</label>
-              <input type="text" id="wa-top-input" name="i" placeholder="What would you like to know about ?">
-              <button>Compute</button>
-          </form>
-          <div class="menu-toggle"><span class="icon-hamburger-menu"></span></div>
-          <ul class="main-nav">
-              <li>
-                <a class="header-pro-link">Pro</a>
-                <ul class="pro-menu">
-                  <li><a class="tracking-pro-link" href="/pro/">For Everyone</a></li>
-                  <li><a class="tracking-pro-link" href="/pro-for-students/">For Students</a></li>
-                  <li><a class="tracking-pro-link" href="/pro-for-educators/">For Educators</a></li>
-                  <li><a class="tracking-pro-link" href="/pro/pricing/">Pricing</a></li>
-                </ul>
-              </li>
-              <li>
-                <a class="icon-apps">Apps</a>
-                <ul class="apps-menu">
-                  <li><a class="web-apps-link tracking-apps-link" href="/web-apps">Web Apps</a></li>
-                  <li><a class="wpg-link tracking-apps-link" href="/problem-generator">Problem Generator</a></li>
-                  <li><a class="mobile-apps-link tracking-apps-link" href="http://products.wolframalpha.com/mobile/">Mobile Apps</a></li>
-                  <li><a class="all-products-link tracking-apps-link" href="http://products.wolframalpha.com/">All Products</a></li>
-                </ul>
-              </li>
-              <li><a href="/tour/" class="tracking-header-link">Tour</a></li>
-              <li class="oauth">
-                <button class='signed-in icon-user-email'></button>
-                  <ul class='user-menu'>
-                    <div>
-                      <li><a class="tracking-user-menu-link" href='/?lbox=auth-favorites'>Favorites</a></li>
-                      <li><a class="tracking-user-menu-link" href='/?lbox=auth-history'>History</a></li>
-                      <li><a class="tracking-user-menu-link" href='/?lbox=auth-preferences'>Preferences</a></li>
-                      <li><a class="tracking-user-menu-link" href='/?lbox=auth-downloads'>Downloads</a></li>
-                      <li><a class="tracking-user-menu-link" href='/?lbox=auth-uploads'>Uploads</a></li>
-                      <li><a class="tracking-user-menu-link" href='/?lbox=auth-account'>Account</a></li>
-                    </div>
-                    <div>
-                      <li><a class="tracking-user-menu-link" href='http://developer.wolframalpha.com/portal/mywidgets/'>My Widgets</a></li>
-                      <li><a class="tracking-user-menu-link" href='http://developer.wolframalpha.com/portal/myapps/'>My Apps (API)</a></li>
-                    </div>
-                  </ul>
-              </li>
-          </ul>
-      </nav>
-  </header>
-<div class="js-banner">
-  <img src="/exclam-icon.png"></img>
-  Enable Javascript to interact with content and submit forms on Wolfram|Alpha websites. <a href="http://enable-javascript.com">Learn How &raquo;</a>
-</div>
-</noscript>
-<div id="wa-top-overlay"></div>
+        <p>
+            Most browsers are initially set up to accept cookies, but can typically be configured to block all cookies or block all third-party cookies. Please be aware that our websites may not have full functionality for you if your browser is set to block some or all cookies. Depending on your location, you may also be prompted to provide your consent to all cookies, other than strictly necessary and functional cookies, each time you visit our websites. Any information about you collected by us is retained and protected in accordance with the laws governing your location.
+        </p>
+        <p>
+	To opt out of cookies that allow information to be delivered to you, such as targeted (or "interest-based") advertising, via third-party ad groups we may work with, there are options for controlling the ads you receive. Please note, however, that opting out does not prevent you from seeing the ads; it only makes them less relevant or tailored to your interests. One way you may opt out can be found at the National Advertising Initiative Consumer Opt Out website <a href="//optout.networkadvertising.org/?c=1" target="_blank">here</a>.
+</p>
 
-  <main class="terms">
-    <div class="wrap">
-        <h1><a id="termsofuse"></a><span class="visuallyhidden">Wolfram|Alpha</span> Privacy Policy</h1>
-        <section>
-            <p>We understand your concerns about how your information is used and shared, and we endeavor to use such information carefully and sensibly. This page explains how the information you provide is collected and used.</p>
-        </section>
-        <section>
-            <h2><a id="ourcollection"></a>What Information Do We Collect?</h2>
-            <p>We may collect both personally identifiable information about you and non-personally-identifiable information about your experience when you access the Wolfram|Alpha website.</p>
-            <p>The personally identifiable information we collect on our website or through our service consists of information you submit to us, including your name, email address, and other personal information that you willingly provide. Because participation in these activities is voluntary, you have a choice whether or not to disclose such information.</p>
-            <p>In addition to information that you provide to us through forms, we receive non-personally identifiable information whenever you interact with our websites, including your Internet Protocol (IP) address, browser type and version, geographical region, referral URLs, and other data automatically supplied by common web browsers.</p>
-        </section>
-        <section>
-            <h2><a id="thirdpartycollect"></a>What Information Do We Collect from Third-Party Sites?</h2>
-            <p>When you use any Wolfram|Alpha application associated with a Third-Party Site ("TPS"), including but not limited to social networking sites such as Facebook, we may collect personally identifiable information about you from the profile you have established at the TPS.</p>
-            <p>By authorizing Wolfram|Alpha to access your TPS profile, you are authorizing Wolfram|Alpha to collect, store, and use in accordance with this Privacy Policy any and all information that your privacy settings at the TPS allow Wolfram|Alpha to access through the TPS Application Programming Interface ("API").</p>
-            <p>The personally identifiable information Wolfram|Alpha is allowed to access is affected by the privacy settings you have established at the TPS. Because the linkage between any TPS and Wolfram|Alpha is completely voluntary, and our ability to access your information at the TPS requires that linkage, you have a choice whether or not to disclose such information.</p>
-        </section>
-        <section>
-            <h2><a id="infoused"></a>How Is Your Information Used?</h2>
-            <p>Information about our users is an important part of our business, and we are not in the business of selling it to others. We do not sell, rent, or lease your information to third parties.</p>
-            <p>The information we obtain from Wolfram|Alpha users helps us enhance and refine our service and content. Non-personal information collected about you through your experience and queries is used to better understand the entire population that is utilizing our website and how we might improve our services to improve the collective experience. Except as noted below, we track and record IP addresses that access our website for internal reporting, diagnostic, and analysis purposes only.</p>
-            <p>If you choose to receive communication from Wolfram|Alpha directly or via use of any submission forms associated with the website, we may send you an email response as well as notify you of other offers or services that may be of interest. When you send email or other communications to us, we may retain those communications to respond to you and improve our products and services.</p>
-            <p>Your IP address is used to determine, when possible, your approximate geographical location, which affects such things as your results' default currency and units of measure, based on what country you are in. Your browser type may be used to fine-tune the results for optimal display, for example on mobile devices or to work around limitations of a particular browser. Referrer URLs may be used to generate usage statistics and analyze usage patterns.</p>
-        </section>
-        <section>
-            <h2><a id="disclosures"></a>Other Disclosures of Your Information</h2>
-            <p>We may release personally identifying information when we believe release is necessary to comply with lawful court orders. Any collected information associated with your use of the website (personal and non-personal) will be disclosed to government authorities or third parties only pursuant to a lawful request, subpoena, or other process that legally compels disclosure of that information.</p>
-            <p>We may also preserve, use, or disclose your information if necessary to enforce our <a href="/termsofuse/general/">Terms of Use</a> and related agreements; to detect, prevent, or otherwise address fraud, security or technical issues, including high-volume use of the website; to respond to support requests; or to protect the rights, property, or safety of Wolfram|Alpha, our users, or others.</p>
-        </section>
-        <section>
-            <h2><a id="cookies"></a>Cookies</h2>
-            <p>When you visit our website, we, like most websites, send one or more cookies—small identifiers—to your computer that store information about your session and preferences as well as information that can help improve our services. While we do use strictly necessary and functional cookies for basic site functionality, as well as security and fraud investigation purposes, our primary purpose in using all other cookies is to enhance and improve your user experience by understanding and remembering your preferences, and by general tracking of our user trends. We utilize the following types of cookies:</p>
-            <ol>
-                <li>Default cookies: These strictly necessary and functional cookies support and facilitate the provision of services that you have requested on our website, and may enable enhanced features.</li>
-                <li>Additional cookies: These cookies collect information that we utilize to support the measurement of this website. On specific sites, Wolfram may use third-party cookies when working with outside partners for analytics and to optimize delivery of information that may be of interest to you. We do not have access to read or write such third-party cookies, nor do we directly control the manner in which they may be used.</li>
-            </ol>
-            <p>Most browsers are initially set up to accept cookies, but can typically be configured to block all cookies or block all third-party cookies. Please be aware that our website may not have full functionality for you if your browser is set to block some or all cookies. Depending on your location, you may also be prompted to provide your consent to all cookies, other than strictly necessary and functional cookies, each time you visit our website. Any information about you collected by us is retained and protected in accordance with the law governing your location.</p>
-        </section>
-        <section>
-            <h2><a id="links"></a> Links to Third-Party Websites</h2>
-            <p>From time to time, Wolfram|Alpha may contain links to other websites. We do not exercise any control over these websites, and we are not responsible for their privacy practices or content. We encourage all users to read the privacy policies of each and every website visited when following links from the Wolfram|Alpha website. This privacy policy applies solely to information collected by Wolfram|Alpha.</p>
-        </section>
-        <section>
-            <h2><a id="thirdpartysources"></a>Accessing Wolfram|Alpha from Third-Party Sources</h2>
-            <p>Wolfram|Alpha may additionally be accessed through web widgets or gadgets that are embedded on third-party sites. If you choose to access Wolfram|Alpha via such tools, then depending on the third-party widget technology, your personal information and queries may be passed on to the third party's servers prior to being processed on the Wolfram|Alpha website.</p>
-        </section>
-        <section>
-            <h2><a id="security"></a>Security</h2>
-            <p>We take appropriate measures to ensure the security of our website and systems. This includes precautions to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, alteration, disclosure, or destruction of data.</p>
-            <p>Despite our efforts to protect your personal information, there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the internet may be intercepted. Your use of the website constitutes an acceptance of such risk.</p>
-        </section>
-        <section>
-            <h2><a id="changes"></a>Changes to This Privacy Policy</h2>
-            <p>We may update or modify this Privacy Policy from time to time in the future. Any such updates or modifications shall be effective immediately upon their posting. Please refer back to this page often for the latest information.</p>
-        </section>
-        <section>
-            <h2><a id="changes"></a>Data Retention</h2>
-            <p>We collect and hold personal data about our customers, users and enthusiasts, employees and others in the European Union who access our resources and services in a manner consistent with the lawful bases as outlined in the European Union's General Data Protection Regulation (GDPR). Please see the <a href="http://www.wolfram.com/legal/privacy/data-retention.html">Data Retention Policy Addendum to Wolfram's Privacy Policies</a>, which outlines our GDPR compliance in collecting, processing and using your personal data. It also describes how you can contact us to review any personal data and withdraw any consent you have given us to store it.</p>
-        </section>
-        <section>
-            <h2><a id="questions"></a>Questions and Concerns</h2>
-            <p>If you have any questions or concerns about this Privacy Policy, you may <a href="/contact-us/">email us</a> or contact us by U.S. mail at Wolfram Alpha LLC, Attn: Legal Department, 100 Trade Center Drive, Champaign, IL 61820-7237 USA.</p>
-        </section>
-        <footer>
-            <p>Effective as of May 24, 2018</p>
-        </footer>
+        <h3>Security</h3>
+        <p>
+            We take appropriate measures to ensure the security of our Services. These include precautions to safeguard your PI against loss, theft and misuse, as well as against unauthorized access, alteration, disclosure or destruction of data.
+        </p>
+        <p>
+            Despite our efforts to protect your PI, there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the internet may be intercepted. Your use of our Services constitutes an acceptance of such risk.
+        </p>
+
+        <h3>Accessing Our Data Servers</h3>
+        <p>
+            Various Wolfram Services offer some functionality for which they must access our data servers through the internet. When they do so, our data servers receive information similar to what our web servers receive when you visit our websites, as well as various Service-specific identifying information.
+        </p>
+        <p>
+            Specifically, using Wolfram|Alpha, or utilizing the Wolfram|Alpha functionality within other Services, will trigger the collection of information about the specific query. Some queries may require collecting additional information, such as session information covering the history of Wolfram Mathematica evaluations or the content of Wolfram Finance Platform notebooks containing the Wolfram|Alpha query.
+        </p>
+            You can choose to prevent these Services from accessing our servers by disconnecting from the internet or by using the Internet Connectivity item in the Help menu to tell the Service not to connect to the internet. If you choose not to allow these Services to access our servers, our Services will not be able to perform certain functions.
+        <p>
+	Under normal circumstances, we will never release information on accesses to our servers. We may, however, release information as described above in <a href="#disclosures">Disclosures of Your Information</a>.
+        </p>
+
+        <h3>Accessing Our Services from Third-Party Sources</h3>
+        <p>
+            <em>This section is only applicable to Wolfram|Alpha and the Wolfram Cloud:</em>
+        </p>
+        <p>
+            These Services may additionally be accessed through web widgets, scripts or gadgets that are embedded on third-party sites. If you choose to access these Services via such tools, then depending on the third-party technology, your PI and input may be passed on to the third party's servers prior to being processed by our Services.
+        </p>
+
+        <h3>Data Retention and the GDPR</h3>
+        <p>
+	We collect and hold personal data about our customers, users and enthusiasts, employees and others in the European Union who access our resources and services in a manner consistent with the lawful bases as outlined in the European Union's General Data Protection Regulation (GDPR). Please see the <a href="/legal/privacy/data-retention.html">Data Retention Policy Addendum to Wolfram's Privacy Policies</a>, which outlines our GDPR compliance in collecting, processing and using your personal data. It also describes how you can contact us to review any personal data and withdraw any consent you have given us to store it.
+        </p>
+
+	<h3>California Residents</h3>
+	<p>
+	Effective January 1, 2020, the California Consumer Privacy Act (CCPA) allows California residents, upon a verifiable consumer request, certain rights with respect to our collection of their PI. If you are a California resident, please see the <a href="/legal/privacy/ccpa-addendum/">CCPA Addendum to Wolfram's Privacy Policies</a>. It outlines how you may contact us to exercise your rights under California law. Please note that you must verify your identity before further action is taken. 
+	</p>
+
+        <h3>Changes to This Privacy Policy</h3>
+        <p>
+            We may update or modify this Privacy Policy from time to time in the future. Any such updates or
+            modifications shall be effective immediately upon their announcement. Please refer often to this
+            document <a href="/legal/privacy/wolfram/">online</a> for the latest information.
+        </p>
+
+        <h3>Questions, Concerns and More Information</h3>
+        <p>
+            For information on policies related to the use of our Services, see our <a href="/legal/">Legal portal</a>.
+        </p>
+        <p>
+            If you have any questions or concerns about this Privacy Policy, you may contact us
+            <a href="/contact-us/">online</a>, by email at <a href="mailto:myprivacy@wolfram.com">myprivacy@wolfram.com</a> or by US mail at Wolfram, Attn: Legal Department,
+            100 Trade Center Drive, Champaign, IL 61820-7237 USA.
+        </p>
+        <p>
+            By using our Services, you are telling us either that you are 18 years or older and legally able to form contracts, or that an adult with authority to act on your behalf has agreed to these terms and to be responsible for ensuring your compliance with them in your use of the Services and any results you obtain from them. If you don't want to be bound by these terms, do not use the Services or their results.
+        </p>
+        <p>
+            Revised December 26, 2019
+        </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--        <h1>Wolfram Privacy Policy</h1>
+        <p>
+            Wolfram understands your concerns about how your information is used and shared, and we endeavor 
+            to use such information carefully and sensibly. This policy explains how the information you provide 
+            is collected and used.
+        </p>
+        
+        <h3>What Information Do We Collect?</h3>
+        <p>
+            We may collect both personally identifiable information about you and non-personally-identifiable 
+            information through your experience on our websites, from your use of our services and products, 
+            and via other voluntary contact with you (collectively "Services").
+        </p>
+        <p>
+            The personally identifiable information we collect through our Services primarily consists of 
+            information you submit to us, including your name, email address and other personal information 
+            that you willingly provide. Because participation in our Services is voluntary, you have a choice 
+            of whether or not to disclose such information.
+        </p>
+        <p>
+            In addition to information that you provide to us voluntarily, we receive some additional personally 
+            identifiable information and non-personally-identifiable information whenever you interact with our 
+            Services online, including your Internet Protocol (IP) address, browser type and version, referral 
+            URLs and other data automatically supplied by most common web browsers.
+        </p>
+        <p>
+            We may also collect information from third-party sites, as described below in 
+            <a href="#third-party">What Information Do We Collect from Third-Party Sites?</a>
+        </p>
+
+        <h3>How Is Your Information Used?</h3>
+        <p>
+            The information we obtain from users, site participants and visitors helps us enhance and refine our 
+            Services. Non-personal information collected about you through your experience, queries and feedback 
+            is used to better understand the entire population that is utilizing our Services and how we might 
+            improve the collective experience. Except as noted below, we track and record IP addresses that 
+            access our Services for internal reporting, diagnostic analysis and security purposes only.
+        </p>
+        <p>
+            Your IP address is used to determine, when possible, your approximate geographical location, which 
+            affects the computations or outputs provided by our Services for such things as default currency 
+            and units of measure based on what country you are in. Your browser type may be used to optimize 
+            your display, for example on mobile devices or to work around limitations of a particular browser. 
+            Referrer URLs may be used to generate usage statistics and analyze usage patterns.
+        </p>
+        <p>
+            If you provide your email address to us, we may email you in response, as well as notify you of 
+            other offers or services that may be of interest. When you send email or other communication to us, 
+            we may retain that communication to respond to you and improve our Services. If at any time you 
+            want to stop receiving communication from us, please click the unsubscribe link in the footer of 
+            any email message from us, or contact our customer service 
+            <a href="/support/contact/email/">online</a> or by phone at 1-800-WOLFRAM. However, please note 
+            that we may still contact you with transactional communications associated with any software or 
+            service agreements you have with us or in direct response to any communication you send us.
+        </p>
+
+        <h3 id="disclosures">Disclosures of Your Information</h3>
+        <p>
+            We do not sell, rent, trade or lease your information to third parties. Any information we share shall 
+            be subject to the parameters associated with your requested Services and preferences.
+        </p>
+        <p>
+            When we share personal information, we require the recipient to protect your personal information in 
+            compliance with the law. Wolfram may share information with affiliates, partners, service providers, 
+            authorized resellers and distributors and relevant third parties in order to fulfill the limited purposes 
+            described herein.
+        </p>
+        <p>
+            Any collected information (personal and non-personal) associated with your use of our Services may also be 
+            subject to disclosure to government authorities or other authorized third parties pursuant to a lawful request, 
+            subpoena or other process that legally compels disclosure of that information.
+        </p>
+        <p>
+            We may also preserve, use or disclose your information if necessary to enforce our Terms of Use and related 
+            agreements; to detect, prevent or otherwise address fraud, security or technical issues, including suspiciously 
+            high-volume use of our Services; to respond to support requests; or to protect the rights, property or safety 
+            of our company, our users or others.
+        </p>
+
+        <h3 id="third-party">What Information Do We Collect from Third-Party Sites?</h3>
+        <p>
+            When you use our Services to connect to or access data from a third-party site ("TPS"), including but not 
+            limited to social networking sites, we may collect personally identifiable information about you from any 
+            TPS profile for which you give our Services access credentials.
+        </p>
+        <p>
+            By authorizing these Services to access your TPS profile, you are authorizing us, in accordance with this 
+            Privacy Policy, to collect, store and use any and all information that your privacy settings at the TPS 
+            allow our Services to access through the TPS application programming interface ("API").
+        </p>
+        <p>
+            Because the linkage between any TPS and our Services is completely voluntary and our Services' abilities 
+            to access your information at the TPS require that linkage, and any information transmitted is controlled 
+            by your privacy settings at the TPS, you have a choice of whether or not to disclose such information.
+        </p>
+
+        <h3>Links to Third-Party Websites</h3>
+        <p>
+            From time to time, our Services may contain links to other websites. We do not exercise any control over 
+            these websites, and we are not responsible for their privacy practices or content. We encourage all users 
+            to read the privacy policies of each and every website visited when following links from our Services. 
+            This Privacy Policy applies solely to information collected by our Services.
+        </p>
+
+        <h3>Cookies</h3>
+        <p>
+            When you visit our websites, they, like most websites, send one or more cookies—small identifiers—to your 
+            computer that store information about your session and preferences as well as information that can help 
+            improve our Services. While we do use strictly necessary and functional cookies for basic site functionality, 
+            as well as security and fraud investigation purposes, our primary purpose in using all other cookies is to 
+            enhance and improve your user experience by understanding and remembering your preferences, and by general 
+            tracking of our user trends. We utilize the following types of cookies:
+        </p>
+        <ul>
+            <li>
+                Default cookies: These strictly necessary and functional cookies support and facilitate the 
+                provision of services that you have requested on our websites, and may enable enhanced features.
+            </li>
+            <li>
+                Additional cookies: These cookies collect information that we utilize to support the measurement 
+                of our websites. On specific sites, Wolfram may use third-party cookies when working with outside 
+                partners for analytics and to optimize delivery of information that may be of interest to you. 
+                We do not have access to read or write such third-party cookies, nor do we directly control the 
+                manner in which they may be used.
+            </li>
+        </ul>
+        <p>
+            Most browsers are initially set up to accept cookies, but can typically be configured to block all cookies 
+            or block all third-party cookies. Please be aware that our websites may not have full functionality for 
+            you if your browser is set to block some or all cookies. Depending on your location, you may also be 
+            prompted to provide your consent to all cookies, other than strictly necessary and functional cookies, 
+            each time you visit our websites. Any information about you collected by us is retained and protected 
+            in accordance with the laws governing your location.
+        </p>
+	<p>
+	To opt out of cookies that allow information to be delivered to you, such as targeted (or "interest-based") advertising, via third-party ad groups we may work with, there are options for controlling the ads you receive. Please note, however, that opting out does not prevent you from seeing the ads; it only makes them less relevant or tailored to your interests. One way you may opt out can be found at the National Advertising Initiative Consumer Opt Out website <a href="//optout.networkadvertising.org/?c=1" target="_blank">here</a>.
+</p>
+
+        <h3>Security</h3>
+        <p>
+            We take appropriate measures to ensure the security of our Services. These include precautions to safeguard 
+            your personal information against loss, theft and misuse, as well as against unauthorized access, alteration, 
+            disclosure or destruction of data.
+        </p>
+        <p>
+            Despite our efforts to protect your personal information, there is always some risk that an unauthorized 
+            third party may find a way around our security systems or that transmissions of your information over the 
+            internet may be intercepted. Your use of our Services constitutes an acceptance of such risk.
+        </p>
+
+        <h3>Accessing Our Data Servers</h3>
+        <p>
+            Various Wolfram Services offer some functionality for which they must access our data servers through 
+            the internet. When they do so, our data servers receive information similar to what our web servers 
+            receive when you visit our websites, as well as various Service-specific identifying information.
+        </p>
+        <p>
+            Specifically, using Wolfram|Alpha, or utilizing the Wolfram|Alpha functionality within other Services, 
+            will trigger the collection of information about the specific query. Some queries may require 
+            collecting additional information, such as session information covering the history of Wolfram Mathematica 
+            evaluations or the content of Wolfram Finance Platform notebooks containing the Wolfram|Alpha query. 
+        </p>
+            You can choose to prevent these Services from accessing our servers by disconnecting from the internet 
+            or by using the Internet Connectivity item in the Help menu to tell the Service not to connect to the 
+            internet. If you choose not to allow these Services to access our servers, our Services will not be 
+            able to perform certain functions.
+        <p>
+            Under normal circumstances, we will never release information on accesses to our servers. We may, 
+            however, release information as described above in <a href="#disclosures">Disclosures of Your Information</a>.
+        </p>
+
+        <h3>Accessing Our Services from Third-Party Sources</h3>
+        <p>
+            <em>This section is only applicable to Wolfram|Alpha and the Wolfram Cloud:</em>
+        </p>
+        <p>
+            These Services may additionally be accessed through web widgets, scripts or gadgets that are embedded 
+            on third-party sites. If you choose to access these Services via such tools, then depending on the 
+            third-party technology, your personal information and input may be passed on to the third party's 
+            servers prior to being processed by our Services.
+        </p>
+
+        <h3>Data Retention and the GDPR</h3>
+        <p>
+            We collect and hold personal data about our customers, users and enthusiasts, employees and others 
+            in the European Union who access our resources and services in a manner consistent with the lawful 
+            bases as outlined in the European Union's General Data Protection Regulation (GDPR). Please see 
+            the <a href="/legal/privacy/data-retention.html">Data Retention Policy Addendum to Wolfram's Privacy Policies</a>, 
+            which outlines our GDPR compliance in collecting, processing and using your personal data. It also 
+            describes how you can contact us to review any personal data and withdraw any consent you have 
+            given us to store it.
+        </p>
+
+        <h3>Changes to This Privacy Policy</h3>
+        <p>
+            We may update or modify this Privacy Policy from time to time in the future. Any such updates or 
+            modifications shall be effective immediately upon their announcement. Please refer often to this 
+            document <a href="/legal/privacy/wolfram/">online</a> for the latest information.
+        </p>
+
+        <h3>Questions, Concerns and More Information</h3>
+        <p>
+            For information on policies related to the use of our Services, see our <a href="/legal/">Legal portal</a>.
+        </p>
+        <p>
+            If you have any questions or concerns about this Privacy Policy, you may contact us 
+            <a href="/contact-us/">online</a>, by email at <a href="mailto:myprivacy@wolfram.com">myprivacy@wolfram.com</a> or by US mail at Wolfram, Attn: Legal Department, 
+            100 Trade Center Drive, Champaign, IL 61820-7237 USA.
+        </p>
+        <p>
+            By using our Services, you are telling us either that you are 18 years or older and legally able to form 
+            contracts, or that an adult with authority to act on your behalf has agreed to these terms and to be 
+            responsible for ensuring your compliance with them in your use of the Services and any results you obtain 
+            from them. If you don't want to be bound by these terms, do not use the Services or their results. 
+        </p>
+        <p>
+            Revised September 27, 2019
+        </p>
+-->
+
     </div>
-  </main>
-  <footer lang="en" id="wa-common-footer">
-    <nav class="wolfram-alpha">
-        <h2 class="visuallyhidden">Wolfram|Alpha Pages</h2>
-        <ul>
-            <li><a href="/pro/" class="tracking-footer-link">Pro</a></li>
-            <li><a href="/web-apps/" class="tracking-footer-link">Web Apps</a></li>
-            <li><a href="http://products.wolframalpha.com/mobile/" class="tracking-footer-link">Mobile Apps</a></li>
-            <li><a href="http://products.wolframalpha.com/" class="tracking-footer-link">Products</a></li>
-            <li><a href="http://products.wolframalpha.com/business/" class="tracking-footer-link">Business Solutions</a></li>
-            <li><a href="http://products.wolframalpha.com/developers/" class="tracking-footer-link">API &amp; Developer Solutions</a></li>
-            <li><a href="/about/" class="tracking-footer-link">About</a></li>
-            <li><a href="/resources/" class="tracking-footer-link">Resources &amp; Tools</a></li>
-            <li><a href="http://blog.wolfram.com/category/wolframalpha/" class="tracking-footer-link">Blog</a></li>
-            <li><a href="http://community.wolfram.com/" class="tracking-footer-link">Community</a></li>
-            <li><a href="/contact-us/" class="tracking-footer-link">Contact</a></li>
-            <li><a href="/social/" class="tracking-footer-link-connect"> <ul class="connect-icons">
-                <li class="icon-social-facebook"></li>
-                <li class="icon-social-twitter"></li>
-                <li class="icon-social-tumblr"></li>
-                <li class="icon-social-linkedin"></li>
-            </ul></a></li>
-        </ul>
-    </nav>
-    <ul class="colophon">
-        <li class="lang-switcher-container">
-            <a id="lang-switcher">
-                <div class="globe"></div>
-                <span>English</span>
-                <ul></ul>
-            </a>
-        </li>
-        <li><span class="cell"><span class="text">©2018 Wolfram Alpha LLC</span></span></li>
-        <li><a href="/termsofuse/" target="_blank" class="tracking-footer-link"><span class="text">Terms</span></a></li>
-        <li><a href="/privacypolicy.html" target="_blank" class="tracking-footer-link"><span class="text">Privacy</span></a></li>
-    </ul>
-    <nav class="wolfram">
-        <h2><a href="https://www.wolfram.com/" class="tracking-footer-link"><span class="logo"><span class="icon-wolfram-corporate-spikey"></span> <span class="icon-wolfram-corporate-logotype"></span></span><span class="visuallyhidden">Wolfram Research</span></a></h2>
-        <ul>
-            <li><a href="https://www.wolfram.com/" class="tracking-footer-link">wolfram.com</a></li>
-            <li><a href="https://www.wolfram.com/language/" class="tracking-footer-link">Wolfram Language</a></li>
-            <li><a href="https://www.wolfram.com/education/" class="tracking-footer-link">Wolfram for Education</a></li>
-            <li><a href="http://demonstrations.wolfram.com/" class="tracking-footer-link">Wolfram Demonstrations</a></li>
-            <li><a href="https://www.wolfram.com/mathematica/" class="tracking-footer-link">Mathematica</a></li>
-            <li><a href="http://mathworld.wolfram.com/" class="tracking-footer-link">MathWorld</a></li>
-        </ul>
-    </nav>
-</footer>
-<script type="text/javascript">
- window.api = {
-     billingSrc: "www.wolframalpha.com",
- }
- window.user = {
-     signIn: "/auth/sign-in/url"
- }
- if (stage === 'test.') {
-     window.api.billing = "https://billing.test.wolfram.com/api/prices.json"
- } else if (stage === 'devel.') {
-     window.api.billing = "https://billing.devel.wolfram.com/api/prices.json"
- } else {
-     window.api.billing = "https://billing.wolfram.com/api/prices.json"
- }
-</script>
-<script src="https://www.wolframcdn.com/javascript/jquery-2.1.4.min.js"></script>
-<script src="/javascript/cookies.js"></script>
-<script src="/html_includes/header-footer/header-footer.js"></script>
+    <div class="rightcolumn">
+		<div class="sidebarTop"><a href="/legal/">Legal</a></div>
+		<div class="sidebar">
+			<ul>
+				<li class="selector sidebarLinks">Privacy Policies<span class="privacyArrow keyarrowDown"></span></li>
+				<li class="linkUL privacyLinks" style="display: list-item;"><div class="legalLinks">
+					<ul class="sublist">
+						<li><a href="/legal/privacy/wolfram/">Wolfram</a></li>
+						<li><a href="/legal/privacy/wolfram/">Wolfram|Alpha</a></li>
+						<li><a href="/legal/privacy/data-retention.html">Data Retention</a></li>
+                        <li><a href="/legal/privacy/ccpa-addendum/">CCPA Addendum</a></li>
+					</ul>
+				</div></li>
+			</ul>
+			<ul>
+				<li class="selector sidebarLinks">Terms of Use<span class="termsArrow keyarrowDown keyarrowUp"></span></li>
+				<li class="linkUL termsLinks"><div class="legalLinks">
+					<ul class="sublist">
+						<li><a href="/legal/terms/wolfram-research.html">Wolfram Research</a></li>
+						<li><a href="http://www.wolframalpha.com/termsofuse/">Wolfram|Alpha</a></li>
+						<li><a href="https://www.wolframalpha.com/termsofuse/pro/">Wolfram|Alpha Pro</a></li>
+						<li><a href="http://products.wolframalpha.com/api/termsofuse.html">Wolfram|Alpha API</a></li>
+						<li><a href="/legal/terms/wolfram-id-terms.html">Wolfram ID</a></li>
+						<li><a href="/legal/terms/wolfram-engine.html">Wolfram Engine</a></li>
+						<li><a href="/legal/terms/wolfram-cloud/">Wolfram Cloud</a></li>
+						<li><a href="/legal/terms/wolfram-enterprise-private-cloud.html">Wolfram Enterprise Private Cloud</a></li>
+						<li><a href="/legal/terms/wolfram-programming-lab.html">Wolfram Programming Lab</a></li>
+						<li><a href="http://community.wolfram.com/tou">Wolfram Community</a></li>
+						<li><a href="/legal/terms/connected-devices-project.html">Wolfram Connected Devices Project</a></li>
+						<li><a href="/legal/terms/wolfram-demonstrations-project.html">Wolfram Demonstrations Project</a></li>
+						<li><a href="/legal/terms/mathworld.html">Mathworld</a></li>
+						<li><a href="/legal/terms/wolfram-tones.html">WolframTones</a></li>
+						<li><a href="/legal/terms/wolfram-science.html">Wolfram Science</a></li>
+						<li><a href="/legal/terms/screensavers-wallpapers.html">Wolfram Research Screensavers and Wallpapers</a></li>
+						<li><a href="/legal/terms/wolfram-id-terms.html">Wolfram User Portal</a></li>
+						<li><a href="/legal/terms/wolfram-chat.html">Wolfram Chat</a></li>
+					</ul>
+				</div></li>
+			</ul>
+			<ul>
+				<li class="selector sidebarLinks">License Agreements<span class="licenseArrow keyarrowDown keyarrowUp"></span></li>
+				<li class="linkUL licenseLinks"><div class="legalLinks">
+					<ul class="sublist">
+						<li><a href="/legal/agreements/wolfram-mathematica/">Wolfram Mathematica</a></li>
+						<li><a href="/legal/agreements/wolfram-desktop/">Wolfram Desktop</a></li>
+						<li><a href="/legal/agreements/wolfram-system-modeler/">Wolfram SystemModeler</a></li>
+						<li><a href="/legal/agreements/wolfram-system-modeler-library.html">Wolfram SystemModeler Library</a></li>
+						<li><a href="/legal/agreements/wolfram-finance-platform/">Wolfram Finance Platform</a></li>
+						<li><a href="/legal/agreements/wolfram-alpha-notebook-edition/">Wolfram|Alpha Notebook Edition</a></li>
+						<li><a href="/legal/agreements/wolfram-mathematica-raspberry-pi/">Wolfram Raspberry Pi Bundle</a></li>
+						<li><a href="/legal/agreements/wolfram-player/">Wolfram Player</a></li>
+						<li><a href="/legal/agreements/wolfram-webmathematica/">webMathematica Professional</a></li>
+						<li><a href="/legal/agreements/wolfram-webmathematica-amateur/">webMathematica Amateur</a></li>
+						<li><a href="/legal/agreements/wolfram-tones.html">WolframTones</a></li>
+						<li><a href="/legal/agreements/mathlink.html">MathLink</a></li>
+						<li><a href="/legal/agreements/jlink.html">J/Link</a></li>
+						<li><a href="/legal/agreements/wolframalpha-toolbar.html">Wolfram|Alpha Toolbar</a></li>
+						<li><a href="/legal/agreements/wolfram-app/">Wolfram Application Pack</a></li>
+						<li><a href="/legal/third-party-license-agreements/">Other</a></li>
+					</ul>
+				</div></li>
+			</ul>
+			<ul>
+				<li class="selector sidebarLinks">Publishing and Submissions<span class="licenseArrow keyarrowDown keyarrowUp"></span></li>
+				<li class="linkUL licenseLinks"><div class="legalLinks">
+					<ul class="sublist">
+						<li><a href="/legal/submission-policies/wolfram-challenges.html">Wolfram Challenges</a></li>
+                                                <li><a href="/legal/submission-policies/wolfram-competitions/">Wolfram Competitions</a></li>
+						<li><a href="https://datarepository.wolframcloud.com/submission-agreement">Wolfram Data Repository</a></li>
+						<li><a href="http://demonstrations.wolfram.com/submissionpolicy.html">Wolfram Demonstrations</a></li>
+						<li><a href="https://datarepository.wolframcloud.com/publisher-agreement">Wolfram Resource System</a></li>
+					</ul>
+				</div></li>
+			</ul>
+			<ul>
+				<li class="selector sidebarLinks">Service Level Agreements<span class="serviceArrow keyarrowDown keyarrowUp"></span></li>
+				<li class="linkUL serviceLinks"><div class="legalLinks">
+					<ul class="sublist">
+						<li><a href="/legal/service-level-agreements/enterprise-support.html">Enterprise Support</a></li>
+					</ul>
+				</div></li>
+			</ul>
+			<ul>
+				<li class="selector sidebarLinks">Accessibility<span class="accessArrow keyarrowDown keyarrowUp"></span></li>
+				<li class="linkUL accessLinks"><div class="legalLinks">
+					<ul class="sublist">
+						<li><a href="/legal/accessibility/wolfram-mathematica/">Wolfram Mathematica</a></li>
+						<li><a href="/legal/accessibility/wolfram-cdf-player.html">Wolfram CDF Player (desktop deployment)</a></li>
+						<li><a href="/legal/accessibility/wolfram-system-modeler/">Wolfram SystemModeler</a></li>
+					</ul>
+				</div></li>
+			</ul>
+		</div>
+		<div><img src="/legal/images/sidebarBottom.gif"></div>
 
-<script type="text/javascript">
-	/* AdRoll tracking code
-	 * Currently included to specific pages. Consider moving this out to another file if this changes
-	 */
+    </div>
+</div>
 
-	adroll_adv_id = "YK5YAN4TMJFF5ER2Q5CWAP";
-	adroll_pix_id = "XO5UPJF2XBFPZFSQFDAIIA";
-	/* OPTIONAL: provide email to improve user identification */
-	/* adroll_email = "username@example.com"; */
-	(function () {
-		var _onload = function(){
-			if (document.readyState && !/loaded|complete/.test(document.readyState)) {
-				setTimeout(_onload, 10);
-				return;
-			}
-			if (!window._adroll_loaded){
-				_adroll_loaded=true;
-				setTimeout(_onload, 50);
-				return;
-			
-			}
-			var scr = document.createElement("script");
-			var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-			scr.setAttribute('async', 'true');
-			scr.type = "text/javascript";
-			scr.src = host + "/j/roundtrip.js";
-			((document.getElementsByTagName('head') || [null])[0] || document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-		};
-		if (window.addEventListener) {
-			window.addEventListener('load', _onload, false);
-		}
-		else {
-			window.attachEvent('onload', _onload)
-		}
-	}());
-</script>
-<script type="text/javascript">
-</script>
+<!-- gl-footer.en.html -->
+
+<div id="gl-footer-difference" style="display: none; height: 0px;"><span><!-- --></span></div>
+<div id="gl-footer" class="cf">
+    <div id="gl-footer-menu" class="cf">
+        <div class="gl-col gl-col-1">
+            <ul>
+                <li>Products</li>
+                <li><a href="http://www.wolfram.com/wolfram-one/?source=footer">Wolfram|One</a></li>
+                <li><a href="http://www.wolfram.com/mathematica/?source=footer">Mathematica</a></li>
+                <li><a href="http://www.wolfram.com/wolfram-alpha-notebook-edition/?source=footer">Wolfram|Alpha Notebook Edition</a></li>
+                <li><a href="http://www.wolfram.com/programming-lab/?source=footer">Programming Lab</a></li>
+                <li><a href="http://www.wolframalpha.com/pro/?source=footer">Wolfram|Alpha Pro</a></li>
+                <li><a href="http://www.wolfram.com/products/?source=footer#mobile-apps">Mobile Apps</a></li>
+                <li><a href="http://www.wolfram.com/finance-platform/?source=footer">Finance Platform</a></li>
+                <li><a href="http://www.wolfram.com/system-modeler/?source=footer">SystemModeler</a></li>
+                <li><a href="http://www.wolfram.com/player/?source=footer">Wolfram Player</a></li>
+                <li><a href="http://www.wolfram.com/engine/?source=footer">Wolfram Engine</a></li>
+                <li><a href="http://www.wolfram.com/wolframscript/?source=footer">WolframScript</a></li>
+                <li><a href="http://www.wolfram.com/products/workbench/?source=footer">Wolfram Workbench</a></li>
+                <li><a href="http://www.wolfram.com/group-organization-licensing/?source=footer">Volume &amp; Site Licensing</a></li>
+                <li><a href="http://www.wolfram.com/enterprise-private-cloud/?source=footer">Enterprise Private Cloud</a></li>
+                <li class="gl-all"><a href="http://www.wolfram.com/products/?source=footer">View all...</a></li>
+            </ul>
+        </div>
+        <div class="gl-col gl-col-2">
+            <ul>
+                <li>Services</li>
+                <li><a href="http://www.wolfram.com/support/technical-services/?source=footer">Technical Services</a></li>
+                <li><a href="http://www.wolframsolutions.com/?source=footer">Corporate Consulting</a></li>
+            </ul>
+            <ul>
+                <li>For Customers</li>
+                <li><a href="http://www.wolfram.com/get-products-services/?source=footer">Online Store</a></li>
+                <li><a href="https://user.wolfram.com/portal/ProductRegistration?source=footer">Product Registration</a></li>
+                <li><a href="https://user.wolfram.com/portal/login.html?source=footer">Product Downloads</a></li>
+                <li><a href="https://user.wolfram.com/portal/login.html?source=footer">Service Plans Benefits</a></li>
+                <li><a href="http://user.wolfram.com/portal/?source=footer">User Portal</a></li>
+                <li><a href="https://account.wolfram.com/?source=footer">Your Account</a></li>
+            </ul>
+            <ul>
+                <li>Support</li>
+                <li><a href="http://support.wolfram.com/kb/?source=footer">Support FAQ</a></li>
+                <li><a href="http://www.wolfram.com/support/contact/email/?source=footer">Customer Service</a></li>
+                <li><a href="http://www.wolfram.com/support/contact/?source=footer">Contact Support</a></li>
+            </ul>
+        </div>
+        <div class="gl-col gl-col-3">
+            <ul>
+                <li>Learning</li>
+                <li><a href="http://reference.wolfram.com/language/?source=footer">Wolfram Language Documentation</a></li>
+                <li><a href="http://www.wolfram.com/language/elementary-introduction/?source=footer">Wolfram Language Introductory Book</a></li>
+                <li><a href="http://www.wolfram.com/language/fast-introduction-for-programmers/?source=footer">Fast Introduction for Programmers</a></li>
+                <li><a href="http://www.wolfram.com/language/fast-introduction-for-math-students/?source=footer">Fast Introduction for Math Students</a></li>
+                <li><a href="http://www.wolfram.com/wolfram-u/calendar/?source=footer">Webinars &amp; Training</a></li>
+                <li><a href="http://www.wolfram.com/wolfram-u/?source=footer">Wolfram U</a></li>
+                <li><a href="http://education.wolfram.com/summer/?source=footer">Summer Programs</a></li>
+                <li><a href="http://www.wolfram.com/broadcast/?source=footer">Videos</a></li>
+                <li><a href="http://www.wolfram.com/books/?source=footer">Books</a></li>
+            </ul>
+        </div>
+        <div class="gl-col gl-col-4">
+            <ul>
+                <li>Public Resources</li>
+                <li><a href="http://www.wolframalpha.com/?source=footer">Wolfram|Alpha</a></li>
+                <li><a href="http://demonstrations.wolfram.com/?source=footer">Demonstrations Project</a></li>
+                <li><a href="https://resources.wolframcloud.com/?source=footer">Resource System</a></li>
+                <li><a href="http://devices.wolfram.com/?source=footer">Connected Devices Project</a></li>
+                <li><a href="https://datadrop.wolframcloud.com/?source=footer">Wolfram Data Drop</a></li>
+                <li><a href="http://www.wolfram.com/raspberry-pi/?source=footer">Wolfram + Raspberry Pi</a></li>
+                <li><a href="http://www.wolframscience.com/?source=footer">Wolfram Science</a></li>
+                <li><a href="http://www.computerbasedmath.org/?source=footer">Computer-Based Math</a></li>
+                <li><a href="http://mathworld.wolfram.com/?source=footer" target="_blank">MathWorld</a></li>
+                <li><a href="http://www.wolfram.com/hackathons/?source=footer">Hackathons</a></li>
+                <li><a href="http://www.wolfram.com/resources/computational-thinking/?source=footer">Computational Thinking</a></li>
+                <li class="gl-all"><a href="http://www.wolfram.com/resources/?source=footer">View all...</a></li>
+            </ul>
+        </div>
+        <div class="gl-col gl-col-5">
+            <ul>
+                <li>Company</li>
+                <li><a href="http://company.wolfram.com/announcements/?source=footer">Announcements</a></li>
+                <li><a href="http://company.wolfram.com/events/?source=footer">Events</a></li>
+                <li><a href="http://www.wolfram.com/company/background.html?source=footer">About Wolfram</a></li>
+                <li><a href="http://www.wolfram.com/company/careers/?source=footer">Careers</a></li>
+                <li><a href="http://www.wolfram.com/company/contact/?source=footer">Contact</a></li>
+            </ul>
+            <ul>
+                <li>Connect</li>
+                <li><a href="http://community.wolfram.com/?source=footer">Wolfram Community</a></li>
+                <li><a href="http://blog.wolfram.com/?source=footer">Wolfram Blog</a></li>
+                <li><a href="http://company.wolfram.com/announcements/newsletter/?source=footer">Newsletter</a></li>
+                <li><a href="http://www.wolfram.com/connect/?source=footer"><i class="gl-icon gl-r7-c1"></i></a></li>
+            </ul>
+        </div>
+    </div><!--/#gl-footer-menu -->
+    <div id="gl-footer-copyright" class="cf">
+        <div class="gl-col1">
+            <span>© <span class="gl-year">2019</span> <a href="http://www.wolfram.com/?source=footer">Wolfram</a>. All rights reserved.</span>
+        </div>
+        <div class="gl-col2 cf"><span id="gl-footer-lang"><span id="gl-footer-lang-message"><i class="gl-icon gl-r7-c2"></i></span><span id="gl-footer-lang-links"><a href="/legal/privacy/wolfram/index.ja.html?footer=lang"><img src="/common/images/gl-lang-ja.png" alt="ja"></a> </span></span>
+            <ul class="cf">
+                <li><a href="http://www.wolfram.com/legal/?source=footer">Legal</a> &amp; <a href="http://www.wolfram.com/legal/privacy/wolfram/?source=footer">Privacy Policy</a></li>
+                <li><a href="http://www.wolfram.com/site-map/?source=footer">Site Map</a></li>
+                <li><a href="http://www.wolframalpha.com/?source=footer">WolframAlpha.com</a></li>
+                <li><a href="https://www.wolframcloud.com/?source=footer">WolframCloud.com</a></li>
+            </ul>
+        </div>
+    </div><!--/#gl-footer-copyright -->
+</div><!--/#gl-footer -->
+
+<!--/gl-footer.en.html -->
+
+
+<!-- gl-footer-includes.en.html -->
+
+    </div><!--/#gl-inner-wrapper -->
+    <noscript><div id="gl-noscript"><div><i><!-- --></i>Enable JavaScript to interact with content and submit forms on Wolfram websites. <a href="http://www.enable-javascript.com/" target="_blank">Learn how&nbsp;&raquo;</a></div></div></noscript>
+</div><!--/#gl-outer-wrapper -->
+
+
+
+
+
+<script src="/common/javascript/gl-footer-scripts.en.js"></script>
+
+<!--/gl-footer-includes.en.html -->
+
+
+
+
 
 
 
