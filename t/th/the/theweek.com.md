@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theweek.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629232527id_/https%3A//theweek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweek.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231190430id_/https%3A//theweek.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -141,11 +141,14 @@ We reserve the right to change this Privacy Policy from time to time, so please 
 
 We commit to resolving complaints about your privacy and our collection, use or transfer of your Personal Information. Users with a need to provide a Notice to us under this policy or our Terms of Use, or Users with inquiries or complaints regarding this Privacy Policy should contact us at: 
 
-privacy@theweek.com  
-or  
+[privacy@theweek.com](mailto:privacy@theweek.com)
+
+or
+
 The Week Publications, Inc.  
-55 West 39th Street,  
-5th Floor  
-New York, NY 10018
+155 E 44th St,  
+22nd Floor  
+New York, NY 10017  
+
 
 Review Consent Preferences
