@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the logstash.net privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621103317id_/https%3A//www.elastic.co/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logstash.net privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231154626id_/https%3A//www.elastic.co/legal/privacy-statement) for the most accurate reproduction.*
 
 # Elastic Privacy Statement | Elastic
 
-Effective Date: March 31, 2019 
+Effective Date: December 2, 2019 
 
 Elastic welcomes your interest in our company, products, and services. This document is our "Privacy Statement." It applies to Elasticsearch, Inc., our subsidiaries and affiliated companies, as well as all Elastic-owned and operated websites, domains, services, applications, and products (collectively, "Site", "Elastic", "We", "Our", or "Us"). 
 
@@ -19,7 +19,7 @@ We collect Personal Data that you knowingly and voluntarily provide when you:
   * Interact with our websites;
   * Register for any of our services;
   * Submit requests, suggestions, or other communications to us;
-  * Choose to share usage information regarding Elastic products and services with Elastic
+  * Use Elastic products and services.
 
 
 
@@ -45,9 +45,9 @@ We collect information that is directly provided by you, collected automatically
 
 We use technology integrated into our websites, products, and services that you can choose to enable to provide us with automated data collection. Such information may include: 
 
-  * Product Usage Data - We collect product usage information as described in our [Telemetry Privacy Statement Supplement](https://web.archive.org/legal/telemetry-privacy-statement)
-  * Elastic Cloud Elasticsearch Service Usage Data - When you use an Elasticsearch Service trial or subscription account, we collect information about your use of the Elasticsearch Service, as described in our [Telemetry Privacy Statement Supplement](https://web.archive.org/legal/telemetry-privacy-statement)
-  * Demonstration Usage Data - If you interact with our demonstration systems at https://demo.elastic.co, we collect detailed information about your interaction with the demo system as described in our [Telemetry Privacy Statement Supplement](https://web.archive.org/legal/telemetry-privacy-statement)
+  * Elastic Stack Product Usage Data (Self-Managed) - We collect product usage information as described in our [Product Usage Data Privacy Statement Supplement](https://web.archive.org/legal/telemetry-privacy-statement)
+  * Elastic Cloud Elasticsearch Service Usage Data - When you use an Elasticsearch Service trial or subscription account, we collect information about your use of the Elasticsearch Service, as described in our [Product Usage Data Privacy Statement Supplement](https://web.archive.org/legal/telemetry-privacy-statement)
+  * Demonstration Usage Data - If you interact with our demonstration systems at https://demo.elastic.co, we collect detailed information about your interaction with the demo system as described in our [Product Usage Data Privacy Statement Supplement](https://web.archive.org/legal/telemetry-privacy-statement)
   * Device Data - Data collected from Google Analytics and/or FullStory may provide us with information regarding your device type (mobile, tablet, desktop/laptop, etc.), operating system, and type of browser. This helps us prioritize support for popular configurations.
   * Application Data - We may collect data regarding key performance metrics of Elastic applications in order to understand if there are issues.
   * Website Browsing Data – We collect information about your visits and activity on our Elastic websites, including the content (and any ads) that you view and interact with, the address of the website from which you were referred and other clickstream behavior (such as the pages you view, the links you click or which items you've added to your shopping cart). Some of this information is collected using our Automatic Data Collection Tools which include cookies, web beacons and embedded web links. To learn more, please read the Cookies and Website Automatic Data Collection section in this Privacy Statement.
@@ -66,7 +66,7 @@ We may also acquire data from third-party sources that we deem to be credible an
 
 ### Other Information We Collect
 
-We may also collect information and data you choose to provide that is not Personal Data, such as your occupation, affiliated companies, and general location. Additionally, we may collect technical information relating to your mobile phone, mobile device or computer and the way you interact with the Site, such as your IP address, browser type, and aggregate user data. This information is used to identify your internet browser, store your user preferences, authenticate user sessions, provide services, and determine whether you have installed the software necessary to access certain material or applications on the Site. 
+We may also collect information and data you choose to provide such as your occupation, affiliated companies, and general location. Additionally, we may collect technical information relating to your mobile phone, mobile device or computer and the way you interact with the Site, such as your IP address, browser type, and aggregate user data. This information is used to identify your internet browser, store your user preferences, authenticate user sessions, provide services, and determine whether you have installed the software necessary to access certain material or applications on the Site. 
 
 ## How We Use Personal Data
 
@@ -112,7 +112,7 @@ We may transfer your Personal Data to other Elastic entities within the US or wo
 
 ### Sharing Data with Third Party Service Providers
 
-We will not provide your Personal Data to third party advertisers without your permission, except as provided in this privacy statement. We will not share Personal Data with third parties that would directly contact you without your explicit consent to be contacted by a partner. However, we may provide information and data that is not Personal Data, to our third party providers for any purpose including primarily customizing and targeting advertising messages. 
+We will not provide your Personal Data to third party advertisers without your permission, except as provided in this privacy statement. We will not share Personal Data with third parties that would directly contact you without your explicit consent to be contacted by a partner. 
 
 We work with external service providers to plan, manage and/or support certain aspects of our business operations on our behalf. 
 
@@ -147,7 +147,7 @@ The Site may contain links or references to other websites, including third part
 
 Elastic uses third party payment processors to process payments made to us. In connection with the processing of such payments, we do not retain any personally identifiable information or any financial information such as credit card numbers. Rather, all such information is provided directly to our third party processors. These third party processors currently include Wirecard. Chase Paymentech, and Recurly, and their privacy policies may be viewed at: 
 
-  * Wirecard: <http://www.wirecard.com/privacy-protection/>;
+  * Wirecard: <https://www.wirecard.com/privacy-policy>;
   * Chase Paymentech: <http://www.chasepaymentech.com/privacypolicy/>;
   * Recurly: <https://recurly.com/security> and <https://recurly.com/legal/privacy>.
 
@@ -259,7 +259,7 @@ If you do not want us to collect information about the links that you click, you
 
 ## Your Rights
 
-At your request, we will: (i) inform you of what personal information we have on file for you; (ii) amend or correct the personal information that we have on file for you or any previous privacy preferences that you have selected; and/or (iii) erase personal information that you have provided to us, or that we have collected. You may do so by contacting us via email at [privacy@elastic.co](mailto:privacy@elastic.co); provided, however, that we ask individuals to identify themselves and the information requested to be accessed, corrected or erased before processing such requests, and, to the extent permitted by applicable law, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes). 
+At your request, we will: (i) inform you of what personal data we have on file for you; (ii) amend or correct the personal data that we have on file for you or any previous privacy preferences that you have selected; and/or (iii) erase personal datathat you have provided to us, or that we have collected. You may do so by contacting us via email at [privacy@elastic.co](mailto:privacy@elastic.co); provided, however, that we ask individuals to identify themselves and the information requested to be accessed, corrected or erased before processing such requests, and, to the extent permitted by applicable law, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes). 
 
 For information regarding advertising opt-out and cookie choices, please see Third Party Advertising Cookies and Social Media Cookies above. 
 
@@ -267,7 +267,7 @@ If you ask us to erase your Personal Data from our records, we will use commerci
 
 ### Your California Privacy Rights
 
-If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third-party for marketing purposes, please email us at: [privacy@elastic.co](mailto:privacy@elastic.co); call us at +1.650.458.2620; or send your request via postal mail to: 
+If you are a resident of the State of California and would like to opt-out from the disclosure of your personal data to any third-party for marketing purposes, please email us at: [privacy@elastic.co](mailto:privacy@elastic.co); call us at +1.650.458.2620; or send your request via postal mail to: 
 
 Elasticsearch, Inc.  
 800 W. El Camino Real, Suite 350   
@@ -288,8 +288,8 @@ Or
 
     1. Elasticsearch B.V.  
 Attn: Privacy Team  
-Rijnsburgstraat 11  
-1059 AT Amsterdam  
+Keizersgracht 281  
+1016 ED Amsterdam   
 The Netherlands
 
 ## Your Privacy Preferences
@@ -321,13 +321,13 @@ United States of America
 
 Elasticsearch B.V.  
 Attn: Privacy Team  
-Rijnsburgstraat 11  
-1059 AT Amsterdam  
+Keizersgracht 281  
+1016 ED Amsterdam  
 The Netherlands 
 
 All communications will be treated confidentially and we will also take reasonable steps to verify your identity, such as requiring a password and user ID or confirming personal information, in order to validate any requests, questions or concerns. Upon receipt of your communication, our representative will respond to you within a reasonable time to address your requests, questions or concerns and ensure that they are resolved in a timely and appropriate manner. 
 
-For German data subjects,you can also contact our Data Protection Officer (DPO) for Germany: [elastic@rehm-datenschutz.de](mailto:elastic@rehm-datenschutz.de). 
+For German data subjects, you can also contact our Data Protection Officer (DPO) for Germany: [elastic@rehm-datenschutz.de](mailto:elastic@rehm-datenschutz.de). 
 
 If we are unable to resolve your concerns, you have the right to contact your local data privacy supervisory authority or seek a remedy through the courts if you believe your requests to exercise your rights have not been honored. 
 
