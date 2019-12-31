@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aldifoods.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824222900id_/https%3A//www.aldi.us/en/online-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldifoods.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231115507id_/https%3A//www.aldi.us/en/online-privacy-notice) for the most accurate reproduction.*
 
-# ALDI US - Online Privacy Notice
+# Online Privacy Notice | ALDI US
 
 ## Information We Collect
 
@@ -18,8 +18,8 @@ We may obtain certain personal information through our Sites.  The types of per
 
 ·        content and other data posted to our Sites, blog and social media pages, and information we obtain through ALDI-related social media apps, tools, widgets and plug-ins. 
 
-Back to Top  
-
+[Back to Top  
+](https://www.aldi.us/en/online-privacy-notice/#c408703)
 
 ## Information we Collect By Automated Means
 
@@ -33,7 +33,7 @@ We may use third-party web analytics services on our Sites, such as those of Mat
 
 In addition, when you use our ALDI USA mobile application, we may collect certain information by automated means, including the application name, device type, version of the application and version of the operating system.
 
-Back to Top
+[Back to Top](https://www.aldi.us/en/online-privacy-notice/#c408703)
 
 ## How We Use The Information We Obtain
 
@@ -65,7 +65,7 @@ We may use the information collected through automated means to provide a more t
 
 The providers of third-party plug-ins on our Sites, such as social sharing tools, may use automated means to collect information regarding your use of the Sites and your interactions with the plug-ins.  This information is subject to the privacy policies or notices of the plug-in providers and is not subject to this U.S. Online Privacy Notice.  We are not responsible for these providers’ information practices.
 
-Back to Top
+[Back to Top](https://www.aldi.us/en/online-privacy-notice/#c408703)
 
 ## Internet-Based Advertising
 
@@ -73,57 +73,57 @@ Data about your activities online is being collected on our Sites for use in pro
 
 You may see certain ads on other websites because we participate in advertising networks administered by third parties and utilize third party service providers.  Networks track your online activities over time by collecting information through automated means, including through the use of the technologies described in the “Information We Collect By Automated Means” section above, and they use this information to show you advertisements that are tailored to your individual interests.  The information they collect includes information about your visits to our Sites, such as the pages you have viewed.  This collection and ad targeting takes place both on our Sites and on third-party websites that participate in the ad networks, such as sites that feature advertisements delivered by the ad networks.  This process also helps us track the effectiveness of our marketing efforts.  To learn more about ad networks, including how to opt out, visit [www.aboutads.info/choices](http://www.aboutads.info/choices).  We may also use third party service providers, such as Google’s Double Click to collect information through automated means for the purpose of direct Aldi-related advertising and other content to you. 
 
-Back to Top
+[Back to Top](https://www.aldi.us/en/online-privacy-notice/#c408703)
 
 ## Information We Share
 
-We do not sell or otherwise share personal information about you, except as described in this U.S. Online Privacy Notice.  We share personal information with third parties who perform services on our behalf.  We also may share the personal information we obtain with our affiliates.  When you enter a nickname after completing a game on our Sites, we may post the nickname and your score on a publicly available score list. 
+We do not sell or otherwise share personal information about you, except as described in this U.S. Online Privacy Notice.  We share personal information with third parties who perform services on our behalf.  We also may share the personal information we obtain with our affiliates.
 
-Our Weekly Ads pages are operated by Flipp (“Flipp”), whose own privacy policies apply to the collection, use and disclosure of information obtained through the Weekly Ads pages by Flipp and its partners (such as Flipp’s ad networks).  Flipp may use browser and flash cookies, HTML 5 web storage, pixels and web beacons on our Weekly Ads pages.  Similarly, the collection, use and disclosure of information by social media sites in connection with ALDI’s social media pages and accounts, including on Facebook, Pinterest, Instagram, Twitter and YouTube, is subject to those sites’ privacy policies. 
+Our Weekly Ads pages are operated by Fusion92 (“Fusion92”), whose own privacy policies apply to the collection, use and disclosure of information obtained through the Weekly Ads pages by Fusion92 and its partners (such as Fusion92 ad networks).  Fusion92 may use browser cookies, HTML 5 web storage, pixels and web beacons on our Weekly Ads pages.  Similarly, the collection, use and disclosure of information by social media sites in connection with ALDI’s social media pages and accounts, including on Facebook, Pinterest, Instagram, Twitter and YouTube, is subject to those sites’ privacy policies. 
 
 We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.  We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation). 
 
-Back to Top
+[Back to Top](https://www.aldi.us/en/online-privacy-notice/#c408703)
 
 ## Your Options
 
 We offer you certain choices about how we communicate with you and what information we collect from you.  To update your preferences, ask us to remove your information from our mailing lists or submit a request, please contact us as specified in the How To Contact Us section of this U.S. Online Privacy Notice.
 
-Back to Top
+[Back to Top](https://www.aldi.us/en/online-privacy-notice/#c408703)
 
 ## Notice To California Residents
 
-Subject to certain limits under California law, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties.  To make this request, California residents may contact us as specified in the How to Contact Us section below. 
+Subject to certain limits under California law, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties.  To make this request, California residents may contact us as specified in the [How to Contact Us](https://www.aldi.us/en/online-privacy-notice/#c408693) section below. 
 
 ## International Users
 
 As noted, this is a U.S. focused web site.  The Sites are not directed to users outside of the United State and are administered from the United States.  Information provided through the Site may be uploaded to a cloud and/or transferred to the U.S.    By providing information to the Sites you consent to the transfer, processing and/or use of the information to the U.S. and/or through a cloud.   In the event you utilize this site from outside of the U.S., you consent to the uploading of any information to a cloud and the transfer of the information to the U.S.
 
-Back to Top
+[Back to Top](https://www.aldi.us/en/online-privacy-notice/#c408703)
 
 ## Links To Other Websites
 
 Our Sites may contain links to other websites for your convenience and information.  These websites may be operated by companies not affiliated with ALDI, such as our Weekly Ads pages.  Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites.  We are not responsible for the content of any websites that are not affiliated with ALDI, any use of those websites, or the privacy practices of those websites.
 
-Back to Top
+[Back to Top](https://www.aldi.us/en/online-privacy-notice/#c408703)
 
 ## How We Protect Personal Information
 
 We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.  Nevertheless, please keep in mind that "perfect security" does not exist on the Internet.
 
-Back to Top
+[Back to Top](https://www.aldi.us/en/online-privacy-notice/#c408703)
 
 ## Children's Privacy
 
 Our Sites are not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on our Sites.  If you become aware that we have inadvertently received personal information from a visitor under the age of thirteen on our Sites, please contact us with a request to delete the information from our records.
 
-Back to Top
+[Back to Top](https://www.aldi.us/en/online-privacy-notice/#c408703)
 
 ## Updates To Our U.S. Online Privacy Notice
 
 This U.S. Online Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. 
 
-Back to Top
+[Back to Top](https://www.aldi.us/en/online-privacy-notice/#c408703)
 
 ## How To Contact Us--Access, Correct or Delete Information
 
@@ -136,14 +136,5 @@ Batavia, IL 60510 
 
 We reserve the right to request information to authenticate your request.   We may take a reasonable period of time to respond to any request to update or modify any information, limit use of information or to opt out of or unsubscribe from any communications.   If you request the deletion,  modification or limitation of use of your personal information maintained by us we will promptly review your request and respond.   If we grant your request, such information may be retained for a period of time in our backup systems as a precaution against system failures. Some information may be retained for longer periods as required by law, contract or auditing requirements. In some circumstances we will not be able to limit use of your personal information without unsubscribing you from communications or deleting your information.
 
-·        [Weekly Specials](https://www.aldi.us/en/weekly-specials/our-weekly-ads/)
-
-·        [Grocery & Home](https://www.aldi.us/en/grocery-home/aldi-brands/)
-
-·        [Be Inspired](https://www.aldi.us/en/be-inspired/healthy-living/)
-
-·        [Recipes](https://www.aldi.us/en/recipes/main/)
-
-·        [New to ALDI?](https://www.aldi.us/en/new-to-aldi/shopping-at-aldi/)
-
-·        [Customer Service](https://www.aldi.us/en/customer-service/)
+[Back to Top](https://www.aldi.us/en/online-privacy-notice/#c408703)  
+ 
