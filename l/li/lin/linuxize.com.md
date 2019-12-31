@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxize.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601093225id_/https%3A//linuxize.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxize.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231050000id_/https%3A//linuxize.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Linuxize
 
@@ -21,7 +21,7 @@ Like many other web sites, linuxize.com makes use of log files. The information 
 
 ## Cookies
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive. On linuxize.com several third-party cookies are used, such as the ones of Google Analytics.
+A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. On linuxize.com several third-party cookies are used, such as the ones of Google Analytics.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. However, this can affect how you are able to interact with our site as well as other websites.
 
@@ -35,4 +35,4 @@ We may periodically update this policy.
 
 ## Questions
 
-Any questions about this Privacy Policy should be addressed to [[email protected]](https://linuxize.com/cdn-cgi/l/email-protection)
+Any questions about this Privacy Policy should be addressed to [hello@linuxize.com](mailto:hello@linuxize.com)
