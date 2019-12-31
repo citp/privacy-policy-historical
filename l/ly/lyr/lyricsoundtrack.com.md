@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsoundtrack.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615201535id_/http%3A//www.lyricsoundtrack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsoundtrack.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231215104id_/http%3A//www.lyricsoundtrack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Soundtracks
 
