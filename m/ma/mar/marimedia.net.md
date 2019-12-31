@@ -1,93 +1,193 @@
-> *The following text is extracted and transformed from the marimedia.net privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615193106id_/http%3A//www.taptica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marimedia.net privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231062516id_/https%3A//www.taptica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Taptica
+# Taptica
 
-**Privacy Statement**
+#### **Website Privacy Policy**
 
-The Company, including its direct and/or indirect subsidiaries and affiliates which include the platform and services for Taptica (the “Company”, “We”), its respective website (the “Website”) and the services and technologies they provide (the “Service” or “Platform”) has a strong commitment to protect the privacy of its users. Our privacy policy aims to ensure the protection of privacy of our users and to provide them with control over the decision how their information is being used.
+  1. ##### **INTRODUCTION**
 
-**Acceptance of Terms**
 
-By visiting the Website or using the Service, you (“You”, “Your”) agree to be bound by this Policy. If You do not agree with this Policy, please do not use the Website or Service. The Privacy Policy should be read together with the Terms of Use which together comprise of the full agreement between the Company and its users.
 
-[Publishers terms & conditions](http://www.taptica.com/publisher-terms-conditions/)
 
-[Advertisers terms & conditions](http://www.taptica.com/advertisers-terms-conditions/)
+Tremor International Ltd. (formerly “Taptica International Ltd.” and “Taptica Ltd.” and hereafter: “Tremor”) respects your privacy and is committed to protecting your personal data. This privacy policy (“Policy”) will inform you how we look after your personal data when you visit our website. If you have any questions about this policy, please contact [privacy@taptica.com](mailto:privacy@taptica.com). 
 
-**What this Policy Covers**
+  2. ##### **INFORMATION ABOUT WHO WE ARE**
 
-This policy covers Advertisers and Affiliates. Our platform enables brands and app developers to engage valuable mobile users. Our technology utilizes a programmatic media-buying platform that harnesses the power of artificial intelligence to improve marketing ROI by finding the right users at the right time for the right campaign. This Privacy Policy explains how we treat users’privacy, so You may decide whether to useour Platform, including how You may opt-out. This policy does not cover the practices of companies that we do not own or control, or to people that we do not employ or manage, including any tracking technologies placed from outside our services.
 
-**Information Collection**
 
-To help Company personalize the advertising, to enhance ad effectiveness and relevancy, improve our Services and Platform, create new products, conduct research, and provide reporting for internal and external clients, we are required to use tracking technologies, to collect information about the way in which users may respond to, select and interact with an ad or any content provided therein, analyze usage patterns and record Your browsing activity.
 
-The tracking technologies are accessed to collect and send statistical information when a user uses the Platform. To serve our ads in mobile applications we collect identifiers, such as Android Id or IDFA depending on the operating system of Your mobile device based on Your policy. These identifiers consist of a string of anonymous and random characters singling out Your device that Company stored by Company with a hash (non reversible encrypting method).
+**PURPOSE OF THIS POLICY:   **This Policy aims to give you information on how Tremor collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to our website or purchase products or services from us.
 
-We only use these tracking technologies to better target and analyze consumer behavior with the goal of enabling us to provide our clients better and more relevant advertising.
+It is important that you read this Policy together with any other policy or notice we may provide so that you are fully aware of how and why we are using your data. This Policy supplements the other notices and is not intended to override them.
 
-WE DO NOT USE TRACKING TECHNOLOGIES TO PROCESS OR COLLECT ANY PERSONALLY IDENTIFYING INFORMATION ABOUT YOU. For purposes of this document, personally identifying information (PII) is information that personally identifies You and that is not otherwise publicly available, such as Your first and last name, social security or identification number, credit card number, phone number, or email address. We use tracking technology for non-PII only, which is information that cannot be directly associated with a specific person or entity, such as Yourmobile device and/or computer’s configuration, and the version and type of browser You are using. While some non-PII could be used in conjunction with other information to personally identify a user (e.g., the address of a web page or of a computer on the Internet could identify a user when combined with Internet service provider records), we ourselves generally have no way of tying any of the information we collect back to a particular user, and in the unusual circumstance that we could use an Internet protocol address for such purposes, we do not do so unless required by law.
+**CONTACT DETAILS:**  Our full details are:
 
-**The Information We Collect**
+  * Full name of legal entity: Tremor International Ltd.
+  * Email address: [ _info@taptica.com_](mailto:info@taptica.com)
+  * Postal address: 121 Hashmonaim Tel Aviv, 6713328 Israel
+  * Telephone number: 972-3-545-3900
 
-We may collect only anonymous data through anonymous tracking technologies that record such asevents related to Your activity that may include socio-demographic data such as age range, information related to Your device (device type, operating system, version) and events related to the platform activity.
 
-**How We Use that Information**
 
-We do not rent or sell any information about You to others, or trade any such information. We may share aggregate information, and other non-PII information about You for various purposes, such as to perform or enhance our services. We may also share any information (including to personally identify a user) with our affiliates or service providers, in response to any request by authorities that we believe legally compels us to respond, to establish or exercise legal rights or defend against legal claims, to investigate, prevent, or take action for violations of our terms of service, or as otherwise required by law.
+**CONTROLLER:   **Tremor is made up of different legal entities. This Policy is issued on behalf of the Tremor Group so when we mention “Tremor”, “we”, “us” or “our” in this Policy, we are referring to the relevant company in the Tremor Group responsible for processing your data.
 
-**International & Data Internet-based Transfer**
+If you have any concerns about how we are handling your data you have the right to make a complaint to your data protection supervisory authority. We would, however, appreciate the chance to deal with your concerns before you approach the supervisory authority so please contact us in the first instance.
 
-We use the Internet to collect and process personal data. It necessarily involves the transmission of data on an international basis. Therefore, by browsing this Website and communicating electronically with us, You acknowledge and agree to our processing of personal data in this way. Your information may be stored and processed in the United States and Israel or any other country where the Company has facilities
+**CHANGES TO THE POLICY AND YOUR DUTY TO INFORM US OF CHANGES:**  This version was last updated on May, 2018. It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
-**Your Ability to Edit/Delete Your Information**
+**THIRD-PARTY LINKS:**  This website may include links to third-party websites, plug-ins and applications. We do not control these third-party websites. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
-Because we do not collect PII, and the information we obtain is automatic through tracking technologies, We cannot provide You the ability to edit or update Your non-PII information after it is collected. You can always opt-out though. If You opt-out from tracking technologies, any information that We already have collected or stored may remain in back-up storage for some period of time after Your deletion request. This may be the case even though no more information remains in our active databases.
+Please note this website is not intended for children and we do not knowingly collect data relating to children.
 
-**Ability to disable mobile interest-based or use of mobile device for advertising (in-app advertisements “Opt-Out” )**
+  3. ##### **THE DATA WE COLLECT ABOUT YOU**
 
-You can always opt out of interest-based ads by companies providing in app advertisements by adjusting your device settings. Note that each operating system offers an opt-out option in your device settings. For more information please contact your device manufacturer or refer to the links below.
 
-Android users – [https://developer.android.com/google/play-services/id.html#get_started](https://developer.android.com/google/play-services/id.html#get_started%20 "https://developer.android.com/google/play-services/id.html#get_started ")
 
-iOS users – <http://support.apple.com/kb/HT4228>
 
-**Your Ability to disable Tracking Technologies (“Opt-Out”)**
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
 
-You may disable tracking technologies by sending an e-mail request to moc.a1497555002citpa1497555002t@sno1497555002itare1497555002po1497555002.  Within 24 hours after receiving your e-mail we will no longer collect non-PII information from You or Your users.
+We may collect, use, store and transfer different kinds of personal data about you. We have categorised these as follows:
 
-**Your End Users**
+  * **Identity  **includes first name, last name, username and title.
+  * **Contact  **includes billing and delivery address, email address and contact numbers.
+  * **Financial  **includes bank account and payment details.
+  * **Transaction  **includes details about payments to and from you and other details of products and services you have purchased from us.
+  * **Technical  **includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+  * **Usage  **includes information about how you use our website, products and services.
+  * **Marketing and Communications  **includes your preferences in receiving marketing from us and our third parties and your communication preferences.
 
-You must conspicuously post, display, maintain, and make readily accessible to end usersYour privacy policy on Your web site(s) and otherwise make it available to all users. Your privacy policy must comply with all applicable laws and regulations regarding the privacy of user’s information, be commercially reasonable, and provide information on Your data collection practices, including information on the kind of data collected, the purposes for which the data will be processed, any disclosures that will be made of the data and use of any tracking mechanism, use of third party technology, use of cookies and information on how to disable those tracking mechanisms.
 
-The following provisions are hereby agreed:
 
-(I) At all times You agree: (i) to comply with all applicable data Protection Laws, which is defined as the law of the country corresponding to the place of collection of user data, and the place of residence of the user whose personal data is collected; (ii) to get affirmative consent prior to the first occurrence that third parties may be placing and reading cookies on end users’ browsers to collect information in the course of the advertising or content being served;
+We also collect, use and share  **Aggregated Data**  such as statistical or demographic data for any purpose. This data does not directly or indirectly reveal your identity. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice.
 
-(II) At all time during the term of this Agreement, You agree not to associate any cookies with any PII, or set, read, write, modify or delete any cookies on the Company  domain, or use cookies or tracking technologies through the Service in a manner that could collect or transmit personally identifiable information unless prior to the first occurrence of any such collection or transmission, You: (A) You will fully, accurately, clearly and conspicuously, disclose the type of information collected (described with specificity in the case of personally identifiable information), the method of collection (e.g. by registration, etc.), and the location of (i.e., a link to) the privacy policy that governs the collection, use and disclosure of the information; and (B) Obtain the end user’s affirmative consent to such collection and/or transmission;
+We do not collect any  **Special Categories of Personal Data**  about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
 
-(III) We reserve the right to change the required privacy disclosures as mandated by law including self-regulation or practice, upon written notice.  You agree to cooperate to implement such revised disclosure or such other disclosure, or the Company has the right to terminate if not cured after notice of breach. You further agree upon request to provide company with a copy of the most current privacy policies, or any changes thereto, at the same time that such privacy policies or changes are made.
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you do not provide that data, we may not be able to perform the contract (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you.
 
-**Children**
+  4. ##### **HOW DO WE COLLECT YOUR PERSONAL DATA?**
 
-Our Platform and Services are not designed for, or directed at children. We do not create segments to specifically target anyone under the age of 13, and we do not knowingly collect any information from them. If we become aware that we have inadvertently received information from a child under the age of 13, we will take all appropriate steps to delete such information from our records.
 
-**Data Security and Retention**
 
-The security of Your information is fundamental to us. We have implemented industry-standard security measures, which include the use of firewalls and encryption.
 
-Once You uninstall or disable all tracking technologies, it will expire within 2 days. No security measures, however thorough, are perfect and there can be no absolute assurance of security. Therefore, We cannot and do not offer an absolute guarantee or warrant the security of the information we possess.
+We collect data from and about you as follows:
 
-**Contact Us**
+  * **Direct interactions.** You may give us your Identity, Contact and Financial Data by filling in forms or by corresponding with us by post, phone or email. This includes personal data you provide when you: (a) apply for our products or services; (b) create an account on our website; (c) subscribe to our service or publications; (d) request marketing to be sent to you; or (e) give us some feedback.
+  * **Automated technologies or interactions.** As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns by using cookies, server logs and other similar technologies.
 
-If You have questions or concerns regarding this Privacy Policy, please contact us at *protected email*.
 
-**Updates to this Policy**
+  5. ##### **HOW WE USE YOUR PERSONAL DATA**
 
-From time to time We may make changes to this Policy and publish the same prominently on our website with the date of last update. These changes will supersede any prior changes. You understand and agree that We will treat Your continued use of our services after such changes have been published as Your acceptance of the updated Policy
 
-**Links to Other Content**
 
-While using the Service You may be linked from or to third parties sites. We are not responsible for information, content, terms, offers or any other use of privacy policy at these sites. When You use a link to go from our Website or Service to another website, our Privacy Policy is no longer in effect. By Your browsing and interaction on any other website, including websites which have a link on the Website, is subject to that website’s own rules and policies.
 
-_**Last Update: January 2015**_
+We only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+  * Where we need to perform the contract we are about to enter or have entered into with you.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
+
+
+
+Generally we do not rely on consent as a legal basis for processing your personal data other than when we send third party direct marketing communications to you via email. You have the right to withdraw consent to marketing at any time by contacting us at [unsubscribe@taptica.com](mailto:unsubscribe@taptica.com).
+
+Purposes for which we will use your personal data
+
+**Purpose/Activity** | **Type of data** | **Lawful basis for processing including basis of legitimate interest**  
+---|---|---  
+To register you as a new customer | Identity; Contact | Performance of a contract with you  
+To process and deliver your order including managing payments, fees and charges and collecting and recovering money owed to us | Identity; Contact; Financial; Transaction; Marketing and Communications | Performance of a contract with you 
+
+Necessary for our legitimate interests (to recover debts due to us)  
+  
+To manage our relationship with you which includes notifying you about changes to our terms or privacy policy | Identity; Contact; Marketing and Communications | Performance of a contract with you 
+
+Necessary to comply with a legal obligation
+
+Necessary for our legitimate interests (to keep our records updated)  
+  
+To administer and protect our business and this website (including troubleshooting, data analysis, system maintenance, support, reporting and hosting of data) | Identity; Contact; Technical | Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud) 
+
+Necessary to comply with a legal obligation  
+  
+To deliver relevant website content | Identity; Contact; Usage; Marketing and Communications; Technical | Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences | Technical; Usage | Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
+  
+  * **Marketing.** We want to ensure that you have choices regarding certain personal data uses, particularly around marketing and advertising. Please contact us if you want to change your marketing preferences.
+  * **Third-Party Marketing.** We will get your express opt-in consent before we share your personal data with any company outside the Tremor group of companies for marketing purposes.
+  * **Opting out.** You can ask us to stop sending you marketing messages at any time by contacting us at [unsubcribe@taptica.com](mailto:unsubcribe@taptica.com). Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase or other transactions.
+  * **Cookies:** You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our  _[cookie policy](https://www.taptica.com/cookies-policy/)_.
+  * **Change of Purpose.** We will only use your personal data for the purposes for which we collected it, unless we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact [privacy@taptica.com](mailto:privacy@taptica.com). If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+
+
+**Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.**
+
+  6. ##### **DISCLOSURES OF YOUR PERSONAL DATA**
+
+
+
+
+We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 5 above.
+
+  * Internal Third Parties: other companies in the Tremor Group acting as joint controllers or processors.
+  * External Third Parties including: 
+    * Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers who provide services to us.
+    * Regulators and other authorities acting as processors or joint controllers who require reporting of processing activities in certain circumstances.
+  * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
+
+
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We only permit our service providers to process your personal data for specified purposes and in accordance with our instructions.
+
+  7. ##### **INTERNATIONAL TRANSFERS**
+
+
+
+
+We share your personal data within the Tremor Group. This will involve transferring your data outside the European Economic Area ( **EEA** ). In addition many of our external third parties are based outside the EEA so their processing of your personal data will involve a transfer of data outside the EEA.
+
+Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
+
+  * We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission.
+  * Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe.
+  * Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US.
+
+
+
+Please contact us at [ _privacy@taptica.com_](mailto:privacy@taptica.com) if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+
+  8. ##### **DATA SECURITY**
+
+
+
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes. We may use this information indefinitely without further notice to you.
+
+  9. ##### **YOUR LEGAL RIGHTS**
+
+
+
+
+You have rights under data protection laws in relation to your personal data.
+
+  * **Request access to your personal data.  **This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it
+  * **Request correction of your personal data.  **This enables you to have any incomplete or inaccurate data we hold about you corrected.
+  * **Request erasure of your personal data.  **This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it.
+  * **Object to processing of your personal data  **where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes.
+  * **Request restriction of processing your personal data.  **This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+  * **Request transfer of your personal data  **to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format.
+  * **Right to withdraw consent  **where we are relying on consent to process your personal data.
+
+
+
+If you wish to exercise any of the rights set out above, please contact us at [ _privacy@taptica.com_](mailto:privacy@taptica.com).
+
+**No fee usually required.**  You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+**What we may need from you.**  We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+**Time limit to respond.**  We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
