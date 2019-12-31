@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tweakxp.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604143843id_/http%3A//www.advancedpcmedia.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweakxp.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231103154id_/http%3A//www.advancedpcmedia.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for Advanced PC Media LLC Sites and Software
 
 **Advanced PC Media LLC Privacy Policy**
 
-The following is the privacy policy for all web sites provided by Advanced PC Media LLC including Tweaks.com, WinGeek.com and DealGizmo.com collectively defined as our “Sites.”
+The following is the privacy policy for all web sites provided by Advanced PC Media LLC including Tweaks.com, WinGeek.com, CastleInsider.com and DealGizmo.com collectively defined as our “Sites.”
 
 **Data Collected & How We Use It**
 
