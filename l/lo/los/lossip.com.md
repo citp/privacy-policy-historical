@@ -1,159 +1,85 @@
-> *The following text is extracted and transformed from the lossip.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429000423id_/https%3A//bossip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lossip.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231211106id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy | Bossip
+# HugeDomains.com - Privacy Policy
 
-Revised as of May 27, 2015
+HUGEDOMAINS.COM PRIVACY POLICY
 
-**1\. INTRODUCTION**
+HugeDomains's Privacy Policy describes how this site collects and uses the personally identifiable information provided by customers/consumers/users of this site. It also describes the choices available to customers regarding HugeDomains's use of customer's personally identifiable information and how that information may be accessed and updated by customers and how it may be provided to third-parties.
 
-**_Purpose_**. The purpose of this Privacy Policy (“ **Policy** ”) is to describe how Moguldom Media Group LLC (“ **Company** ,” “ **we** ,” and “ **us** ”) collects, shares and protects your personal information. We collect certain personal information through our websites, which as of the revision date noted above, are located at bossip.com, madamenoire.com, mommynoire.com, styleblazer.com, hiphopwired.com, afkinsider.com, afktravel.com, madamenoire.tv, and moguldomstudios.com and including any associated mobile web sites and mobile applications (collectively, the “Sites”). **PLEASE READ THIS POLICY CAREFULLY**. If you do not understand any aspects of this Policy or have any questions related to this Policy, please feel free to [contact us on-line](http://moguldom.com/privacycontact/), or by mail to the address set forth at the end of this Policy.
+If you do not agree to HugeDomains's Privacy Policy and/or [Terms of Service](https://web.archive.org/terms.cfm), you must immediately cease use of HugeDomains.com. If you do not agree, do not use HugeDomains's website or services,  do not purchase domains and do not enter into payment plans with HugeDomains.com.
 
-This Policy explains:
+HugeDomains.com is a United States company, located in Denver, Colorado, USA. HugeDomains complies with the U.S-EU Safe Harbor framework which is dictated and set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. HugeDomains further complies with the California Online Privacy Protection Act and the Children's Online Privacy Protection Act (COPPA).
 
-A. The Types of Information We Collect from You and Why We Collect It
+**What Information HugeDomains Collects**
 
-B. How We Use and Share Your Information
+HugeDomains must collect certain personal data in order to conduct business, provide customer service and provide a customer with relevant requested services. Personal information is collected from customers when  a customer contacts HugeDomains through the website, when a customer purchases a domain, whenever a customer fills out a contact form on the HugeDomains platform; when a customer submits payment to HugeDomains; and when a customer contacts HugeDomains via phone or chat. HugeDomains will further collect certain personal information from customers as needed in order to continue to provide services to its customers and as required by any relevant law, rule, regulation, and other method that ensures the safety of HugeDomains, its customers, and the general public.
 
-C. Access to Your Information and Choices
+HugeDomains collects customers' relevant personal information, including but not limited to: name, address, phone number, fax number (if applicable), email address and other data used to directly or indirectly to identify you in connection to your use of HugeDomains's services. Many products/services may require a customer to provide HugeDomains with additional information such as credit card information, associated billing information, or other financial and payment information. In order to protect HugeDomains and its customers, as well as intellectual property rights, HugeDomains may require customers to provide government identification and/or other documentation as proof of identity and physical address.
 
-D. Security of Your Information
+**Why HugeDomains Collects This Information**
 
-E. California Privacy Rights
+HugeDomains collects customer information for several reasons, including but not limited to: following relevant and required ICANN data collection requirements, along with and to abide and comply with United States laws, rules, and regulations. Further, HugeDomains collects such information in order to allow HugeDomains to: 
 
-F. Changes to Our Privacy Policy
+a. **To personalize customer experience**  \- customer information helps HugeDomains better respond to customer's individual needs.
 
-G. Questions and How to Contact Us
+b. **To improve the HugeDomains website and services** \- HugeDomains continually strives to improve its website offerings and services based on the information and feedback received from customers.
 
-**_Notice With Regard To Third-Party Sites_**. This Policy applies only to information that we collect through our Sites. It is important that you understand that our Sites contain links to third-party sites that are not owned, operated or controlled in any way by us. Please be aware that we cannot be, and are not responsible for the privacy practices of websites that are not owned, operated or controlled by us, even if our Sites contain links through which you may choose to visit such websites. Be aware that when you choose to leave our Sites to visit any website not owned or operated by us, you should always read the privacy policy of that website, since the privacy policies of that website that would govern how its owners collect and use your personal information.
+c. **To improve customer service** \- customer information helps HugeDomains more effectively respond to specific customer service requests and support needs. Should a customer contact HugeDomains for service or support, it will keep an internal record of such correspondence, whether email or telephone call, along with an internal record of support given.
 
-**_Read Our Terms of Use_**. Your use of our Sites is also subject to our ‘Terms of Use,’ which describe other terms and conditions to which you are deemed to agree by your act of using our Sites. Please read our Terms of Use carefully and [contact us on-line](http://moguldom.com/privacycontact/) or by post as described below if you have any questions or concerns or feel that you do not fully understand any part of our Terms of Use. **IF YOU DO NOT AGREE WITH ANY PART OF THIS POLICY OR OUR TERMS OF USE, YOUR ONLY OPTION IS NOT TO USE OUR SITES**. By accessing and continuing to use our Sites, you agree to this Policy and the Terms of Use.  
-  
-**2\. INFORMATION WE COLLECT AND WHY WE COLLECT IT**
+d. **To process transactions**  \- other than specifically provided in this provision, or required by law, customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company without direct and express customer consent.
 
-A. Personally Identifiable Information That You Provide To Us. You may provide certain information to us on our Sites through various actions you might take, including:
+e. **To send periodic emails** \- customer email addresses provided for order processing, will be used to send customers relevant and pertinent information and updates pertaining to their HugeDomains account and registered domain names and/or other services. These communications include, but are not limited, to: HugeDomains updates and questions or concerns regarding the customer, their account, or specific services. If a customer chooses to opt-in to a mailing list, they will receive email communications that may include company news, updates, related product or service information, as set per email preferences which is customizable from within each users' account.
 
-(i) by signing up for a newsletter;
+f. **Domain ownership information**  \- HugeDomains.com sells domain names, and all domain name purchases require registrant information in order to complete the purchase and facilitate the transfer of the domain name. The information provided by a customer when purchasing a domain can and will be used to transfer ownership of said domain names. The registration information provided for a domain is recorded and shared with trusted parties in order to deliver such purchases to domain buyers. If a customer does not opt-in for privacy protection, the whois information provided when buying domain names may be shared via a public record called "whois".
 
-(ii) by filling out feedback forms;
+**How HugeDomains Collects this Information**
 
-(iii) by filling out ‘contact us’ forms;
+HugeDomains utilizes a variety of security measures to maintain the safety of customers' personal information. All supplied financial information (including credit card data) is transmitted via Secure Socket Layer (SSL) technology and then encrypted into the company's payment gateway provider's database. This database and the sensitive information contained within are only accessible by those authorized with special access rights to such systems and are required to keep the information confidential. 
 
-(iv) by filling out on-line email forms;
+HugeDomains uses cookies (and other technologies such as web beacons, pixels, tags, scrips) to identify you so you don't need to log in each time you visit a HugeDomains website or its mobile applications. The cookies are linked to your customer account, which is associated with the information in your account. HugeDomains uses cookies to help remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that it can offer better site experiences and tools in the future. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most modern websites, if you turn your cookies off, some of HugeDomains's services may not function properly or function at all. HugeDomains does not test its website for this and does not guarantee use of services with cookies disabled. 
 
-(v) by submitting request for information forms;
+HugeDomains, like most companies, obtains information about its customers automatically and stores this information in its internal databases. This information may include but is not limited to: Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring entry/exit pages, operating system, date/time stamp and/or clickstream data, and other data that could directly or indirectly identify you. HugeDomains uses this information to help personalize your experience and search results, diagnose problems with its systems, to administer the services on this site, and for other corporate uses.
 
-(vi) by providing user generated content, such as user comments, blog posts, “hashtags” and other social media type communications; and
+**How HugeDomains Uses this Information**
 
-(vii) by reporting a problem to us on our Sites.
+HugeDomains must first and foremost abide by local law. As a US company, HugeDomains will first abide by US laws and regulations when two laws might differ and/or conflict with one another.
 
-The information that you provide and that we collect from you could and most often does include personally identifiable information about you, such as your legal name, address, telephone number, and email address that could be used to identify, contact or locate you.
+HugeDomains securely holds on to personal data internally. Such data can be held indefinitely in order to keep accurate records that may be required under local law and regulation. 
 
-B. No Information From Children Under Age 13. **OUR SITES ARE NOT INTENDED FOR USE BY CHILDREN UNDER THE AGE OF 13**. If you are under the age of 13, you must get the express permission of your parents before using our Sites. Do not attempt to provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information. If you believe we might have any information from a child under the age of 13, please [contact us on-line](http://moguldom.com/privacycontact/) so that we may immediately investigate and take appropriate action as soon as practicable.
+HugeDomains uses customer information to communicate directly with their customers. It is important for customers to keep their email address up to date and check their email regularly for updates regarding a HugeDomains account. 
 
-C. Non-Personally Identifiable Information We Collect Automatically. We also collect certain non-personally identifiable information about your use of our Sites, such as:
+HugeDomains may have the need to provide customer information to third parties for certain services required by HugeDomains, including but not limited to, credit card processors, technical support services, shipping of goods or services, customer relationship management, SMS delivery, Collections Agencies,  registry compliance, law enforcement, among other third parties for other similar such reasons. When a domain is purchased which is managed at a partner registrar, HugeDomains reserves the right to automatically push said domain name(s) into an account at that domain name registrar in order to provide the relevant purchased product(s) to the customer. HugeDomains will only share information that is necessary for the third party to provide the required services. This information will not be sold nor voluntarily disseminated unless reasonably needed at HugeDomains's sole discretion. 
 
-(i) your IP address;
+When a HugeDomains account is cancelled/suspended/terminated, either voluntarily or involuntarily, this does not mean that the customer's personally identifiable information has been deleted entirely from HugeDomains's systems and databases. Some or all this information may be retained by HugeDomains, including but not limited, to comply with legal obligations, resolve disputes, prevent fraud and/or enforce company agreements.  In addition, you will not be able to submit a form on this website without providing the exact information required to complete that specific action. It is forbidden and against of ICANN's rules to provide false Registrant information about any domain name registration(s). Providing false or fake information may and will result in suspension of the customer's HugeDomains account and forfeiture of any related domain name(s) registered with HugeDomains or any of its affiliate companies or domain name registrars.
 
-(ii) your browser type;
+HugeDomains will cooperate with government, law enforcement officials and relevant private parties to enforce and comply with Unites States law and with applicable and mandatory regulations regarding the services it provides. If necessary, HugeDomains will disclose any customer information to the relevant officials or private parties when appropriate or deemed reasonably necessary. Further, if HugeDomains believes, in its sole discretion, (including without limitation to subpoenas), that the preservation of certain customer information is necessary to protect its rights or the property and/or the rights of a third party. HugeDomains may further maintain or share customer information in order to protect the safety of the public or any person, to prevent or stop activity HugeDomains considers to be illegal based on applicable laws, or to otherwise uphold the law.  By using HugeDomains's website and services, all customers expressly consent to this Privacy Policy. HugeDomains further reserves the right to modify this Policy at any time. If changes are made to this Policy, those changes will be publicly posted. HugeDomains is not required to directly notify its customers of changes made to this Policy, however, if material changes are made, HugeDomains will notify its customers by email or through a public notice on its website.
 
-(iii) your computer or device type;
+**To Access, Update, or Delete Your Personal Information**
 
-(iv) your unique device identifiers;
+You have the right to correct any personal information held about you that is inaccurate or incomplete. If there is information located on HugeDomains servers you wish to correct, you will be required to login to your account and update the appropriate information. This includes account owner information, information submitted for various products and services offered through this website, including but not limited to purchased domain names and payment methods linked to your account.
 
-(v) your Operating system version;
+You have the right issue a request that HugeDomains delete your personal data. HugeDomains will review your request and delete data if possible. HugeDomains reserves the right, in its sole discretion, to retain any personal data. Personal data may be retained for several reasons, including, but not limited to: fraud mitigation; preserving or enforcing legal and/or contractual rights; data retention mandated by local law,  domain registrars processing of your data, relevant domain registries, contracts, or reasons necessary to HugeDomains's business and operate such services. If you wish to have your data erased, you can use the contact details found on the bottom of this page, please provide as many details as possible as to your request, and the company will determine if you have a valid basis for the erasure of your data. If you have questions about data retention you may contact us with your questions or concerns. You have the right to lodge a complaint with a relevant supervisory authority.
 
-(vi) the last previous web page from where you navigated to our Sites;
+**Third Parties**
 
-(vii) the time and date of your using our Sites;
+HugeDomains.com may share your personal information with affiliated companies within its corporate family and other third-parties that integrate with HugeDomains services, and to provide products and services, including but not limited to: Customer Relationship Management; processing payments; fraud prevention; management of domain names; and serving advertisements. Many of these third parties are affiliate companies, and work in conjunction with HugeDomains to provide customers the products and services provided by HugeDomains to HugeDomains's customers.
 
-(viii) the name of your Internet service provider (ISP);
+Targeted ads may be provided to HugeDomains customers based upon their webpages and Internet activity. These ads and offers may be displayed as product banners provided while you are engaged in Internet browsing or using HugeDomains.com and its services. In some instances, HugeDomains partners with third parties to manage advertising, including targeted advertising on HugeDomains webpages and other websites. These third-party partners may use certain data collection tools such as cookies in order to collect information about customer activities to provide customers with customized advertisements. When possible, such providers will give ways to opt-out of any such advertisements.
 
-(viv) the pages on our Sites that you view;
+HugeDomains's website may contain links to third party websites. HugeDomains is not responsible for the privacy policy and data collection of third-party sites. You are solely responsible for reviewing any third-party privacy practices on all such websites.
 
-(x) your location / geo-location information
+Some Internet browsers may allow users to receive notifications when a website is utilizing tracking technology and may allow that user to use a "do not track" signal. There is no industry standard or agreement among industry participates as to what this "do not track" signal entails. As there is not set definition or regulation regarding this process, HugeDomains does not make any adjustments or alternations in its operating processes when a "do not track" signal is received from an Internet browser.
 
-(xi) cookies (defined and explained below); and
+**Corporate Reorganization**
 
-(xii) local shared objects (flash cookies).
+If HugeDomains were to merge with another company or if HugeDomains is involved in an acquisition or sale of all a substantial portion of assets, or other similar sale transaction, your information will be transferred as part of that transaction and you will be notified by email and/or notice on HugeDomains website of any such transfer and any choices you may have regarding your information.
 
-Non-personally identifiable information is data that cannot alone be used to identify you personally.
+**Contact Information**
 
-C. Cookies. When you visit our Sites, we send one or more ‘cookies’ to your computer or other device. A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit our Sites again, these cookies allow us to recognize your browser. Cookies may store unique identifiers, user preferences and other information. You can adjust the settings in your browser to refuse all cookies or to inform you when a cookie is being sent. However, some website features or services may not function properly without cookies. We use cookies to improve the quality of our service, including for storing your user preferences, tracking user trends and providing relevant advertising to you (subject to your opt-out rights).
+If you have any other questions about this Privacy Policy, the practices of HugeDomains you may use the contact us form on this web site to request additional information, or you can reach us  by phone at +1 (303) 893-0552 or by email at sales@hugedomains.com 
 
-D. Device Identifiers. **** When you access our Sites, we may access, collect, monitor and/or remotely store one or more “device identifiers.” Device identifiers are small data files or similar data structures stored on or associated with your computer or mobile device that uniquely identifies your device and are used by Moguldom to enhance your use of our Sites. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or software, or date sent to the device by Moguldom. A device identifier may convey information about how you browse our Sites. A device identifier does not collect or share any personally identifiable information about you. However, a device identifier may be used in conjunction with other information in a manner that may constitute personally identifiable information.
+\---
 
-E. Location Data **.** When you access our Sites, and with your express prior opt-in consent, we may access, collect, monitor and/or remotely store “location data,” which may include GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device. Location data may convey information to us about how you browse our Sites. Location data does not collect or share any personally identifiable information about you. However, location data may be used in conjunction with other information in a manner that may constitute personally identifiable information.
+Last Revised: July 05, 2018
 
-F. Pixel Tags. We may also use ‘pixel tags,’ also known as ‘web beacons,’ which are small graphic files that allow us to monitor the use of our websites.  Pixel tags are a type of technology placed on a website or within the body of an email for the purpose of tracking activity on our Sites, or to confirm when emails are opened or accessed, and are often used in combination with cookies. A pixel tag can collect information such as the IP (Internet Protocol) address of the computer that downloaded the page on which the tag appears, the URL of the page on which the pixel tag appears, the time the page containing the pixel tag was viewed, the type of browser that fetched the pixel tag, and the identification number of any cookie on the computer previously placed by that server. Typically, pixel tags are used to count users who have visited certain pages of our Sites, who have opened an email from us, and to collect other website statistics such as popularity of certain content found on our Sites and to verify system and server integrity.
-
-G. Log File Information. Log file information is automatically reported by your browser each time you access a web page. When you use our Sites, our servers automatically record certain log file information. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, data about how you interact with links on our Sites, and other such information.
-
-H. Passive Browser Information **.** We collect passive browser information through our web servers. We use this information to help us understand how many visitors come to our Sites and where they come from.
-
-I. Scripts.  A script is a short segment of computer code included in a web page or other content that can be used to set and access a cookie on your computer’s hard drive and to record your activity on a website. Moguldom may use scripts on our Sites, on third-party websites, or in our emails and newsletters
-
-  
-**3\. HOW WE USE AND SHARE YOUR INFORMATION**
-
-A. To Provide Products, Services, and Information (Personally Identifiable Information). We use the information that we collect about you or that you provide to us, including any personal information, (i) so that we can present our Sites and their contents to you, (ii) to provide you with information, products and services that you request from us, (iii) to allow you to participate in interactive or social features on our Sites, (iv) to fulfill any other purpose for which you provide information to us, (v) in any other way we may describe when you provide such information to us, and (vi) for any other purpose with your consent.
-
-We may use third parties to help host our Sites, send out email updates about the Sites, provide marketing and advertising services for us, remove repetitive information from our user lists, and otherwise support our business. These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service. We use demographic information to better understand our customers, and improve our products and services.
-
-B. How We may Use Non-Personally Identifiable Information. We use non-personally identifiable information for reasons including to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our services; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems reported by our users or engineers that are associated with certain IP addresses; (f) monitor and prevent fraud and abuse; (g) keep track of preferences you specify while you are using our Sites; (h) conduct research to improve or Sites; (i) monitor advertising-related metrics, in order to provide you with more helpful and relevant advertising; and (j) track user content and users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act.
-
-C. For Advertising and Marketing. We may use how you browse our Sites in order to show you ads for our Company or for our advertising partners that may be more relevant to your interests. We may use cookies and other information to provide relevant, interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior on our Sites in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our Sites, or when you are browsing third-party sites not owned by Company.
-
-We allow certain third-party companies to serve ads and/or collect certain anonymous information when you and other Internet users visit. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to our Sites and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. We belong to ad networks that may use your browsing history across participating websites (such as our Sites) to show you interest-based advertisements on those websites. You can opt-out of receiving interest-based ads from us through these third parties by following the opt-out procedures set forth at:
-
-<http://www.google.com/ads/preferences/plugin/index.html>
-
-<http://advertising.aol.com/privacy/advertisingcom/opt-out>
-
-<http://www.networkadvertising.org/choices/#completed>
-
-Please note that even if you choose to opt out of receiving interest-based ads, you will continue to see ads on our Sites, but they will not be based on how you browse our Sites.
-
-Websites you browse may also offer their own opt-out methods for interest-based advertising.
-
-C. Third Party Advertising & Marketing. From time-to-time, and with your consent, we may disclose information you share with us, with companies who may wish to offer you products and services of interest. You may opt into this information sharing by emailing [privacy@moguldom.com](mailto:privacy@moguldom.com).
-
-D. Your Consent. We will share your personal information with companies, organizations or individuals outside of the Company only when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information. Sensitive personal information is a particular sub-category of personal information relating to confidential medical facts, racial or ethnic origins, political or religious beliefs or sexual orientation.
-
-E. Legal Requests or Requirements and to Prevent Harm. We will share personal information with third-party companies, organizations, agencies, or individuals outside of Company if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
-
-(i) comply with any applicable law, regulation, subpoena, legal process or enforceable governmental request;
-
-(ii) enforce applicable Terms of Use, including investigation of potential violations thereof;
-
-(iii) detect, prevent, or otherwise address fraud, security or technical issues; and
-
-(iv) protect against harm to the rights, property or safety of the Company, our users, customers or the public, as required or permitted by law.
-
-F. Transfer in the Event of Sale or Change of Control. If the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business or the Sites to a third party, such as by merger, acquisition, bankruptcy proceeding or otherwise, we may transfer or sell your personal information to the new owner. In such a case, unless permitted otherwise by applicable law, your information would remain subject to the promises made in this Policy (as amended) unless you agree differently.  
-  
-**4\. ACCESS TO YOUR INFORMATION AND CHOICES**
-
-You can contact us through our [contact us page](http://moguldom.com/privacycontact/) to obtain information about the personal information we have relating to you. If you have questions about personal information we have about you or need to update your information, you can contact us through our [contact us page](http://moguldom.com/privacycontact/). You can opt-out of receiving marketing and promotional e-mails from Company by using the opt-out or unsubscribe feature contained in those e-mails.  
-  
-**5\. SECURITY OF YOUR INFORMATION**
-
-We use commercially reasonable measures to maintain the privacy and security of your personal information. However, since the Internet is not a 100% secure environment, we cannot guarantee, ensure, or warrant the security of any information you transmit to us. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information, if any. Please note that e-mails and other communications you send to us through our Sites are not encrypted, and we strongly advise you not to communicate any confidential information through these means.  
-  
-**6\. CALIFORNIA PRIVACY RIGHTS**
-
-Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once per calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2015 will receive information regarding 2014 sharing activities).
-
-To obtain this information, please send an email message to [privacy@moguldom.com](mailto:privacy@moguldom.com) with “Request for California Privacy Information” on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.  
-  
-**7\. CHANGES TO OUR PRIVACY POLICY**
-
-Moguldom may modify or update this Policy at its sole discretion from time to time, and so you should review this Policy periodically. When we change the Policy in a material way, we will notify you by means of a notice on our Sites prior to the change becoming effective. Changes to this Policy are effective when they are posted on this page. Your continued access to our Sites after the Policy has been modified and posted will signify your acceptance of all such modifications.  
-The date this Policy was last revised is identified at the top of this page. You are responsible for ensuring that we have an active, up-to-date email address for you and for periodically visiting this Policy to check for any changes.  
-  
-**8\. QUESTIONS AND HOW CONTACT US**
-
-If you have any questions, concerns, complaints or suggestions regarding this Policy or otherwise need to contact us, please [contact us on-line](http://moguldom.com/privacycontact/). You may also contact us by post at the following address:
-
-Moguldom Media Group LLC  
-5211 NW 33rd Ave  
-Fort Lauderdale, FL 33309
+Copyright 2005-2019 HugeDomains.com. All Rights Reserved.
