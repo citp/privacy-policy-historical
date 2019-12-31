@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highwebmedia.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630000819id_/https%3A//chaturbate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highwebmedia.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231050627id_/https%3A//chaturbate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Chaturbate
 
