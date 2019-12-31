@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coreldraw.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223936id_/https%3A//www.corel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coreldraw.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231064309id_/https%3A//www.corel.com/privacy) for the most accurate reproduction.*
 
 # Corel Privacy Statement | Legal Information
 
@@ -170,7 +170,7 @@ Corel reserves the right to change this Privacy Statement. We will provide notif
 
 **8\. Contact Information**
 
-To exercise your rights regarding Personal Data (as described above in this Privacy Statement), or if you have any questions about this Privacy Statement or our privacy practices, please complete this [form](https://web.archive.org/web/20190630223938id_/https://www.corel.com/en/corel-privacy-policy/modal-privacy.html) or contact us at [privacy@corel.com](mailto:privacy@corel.com).
+To exercise your rights regarding Personal Data (as described above in this Privacy Statement), or if you have any questions about this Privacy Statement or our privacy practices, please complete this [form](https://web.archive.org/web/20191231064313id_/https://www.corel.com/en/corel-privacy-policy/modal-privacy.html) or contact us at [privacy@corel.com](mailto:privacy@corel.com).
 
 We strongly encourage you to use the form at the link, to ensure the most efficient handling of your submission. Please do not use this form to report technical problems or to raise other issues that are not directly related to data privacy or this Privacy Statement. For technical issues, contact Corel Customer Support at <https://support.corel.com/hc/en-us/requests/new> or MindManager Customer Support at <https://www.mindjet.com/contact/>.
 
