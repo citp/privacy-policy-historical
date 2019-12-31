@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysavings.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223948id_/https%3A//www.feedblitz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysavings.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231064419id_/https%3A//www.feedblitz.com/privacy) for the most accurate reproduction.*
 
 # FeedBlitz Privacy Policy | FeedBlitz
 
@@ -12,6 +12,7 @@ In more or less plain English, this is what our privacy policy says:
   * FeedBlitz uses cookies, tracking and logging to make FeedBlitz work and tell list owners about activity on their lists.
   * FeedBlitz emails globally, but is a US-based business with a US-based infrastructure.
   * You can [set or change your personal privacy and cookie settings](https://app.feedblitz.com/f/?Privacy) at any time.
+  * You can [contact us](https://www.feedblitz.com/contact/) to exercise your right to access your data, right your to be deleted, and your right to prevent FeedBlitz selling anonymized information with third parties.
 
 
 
@@ -87,7 +88,7 @@ FeedBlitz’s Publishers may include their own ads within their own newsletters.
 
 Detailed information about the cookies FeedBlitz uses is on our [cookie page](https://www.feedblitz.com/cookies/).
 
-### Sharing of Personal Information with third-parties
+### Sharing of Personal Information with Third-Parties
 
 The safety of your personal information is critical to our business. Unless we have your explicit consent, we do not rent, sell, or share your personal information, except as detailed below:
 
@@ -106,6 +107,16 @@ The safety of your personal information is critical to our business. Unless we h
 You can decline to submit personal information to any of our Services at any time. However, if you decline to submit personal information, we may not be able to provide the Services. You may request deletion of your personal information by sending an email to support@feedblitz.com, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete the account information, it will be deleted from the active database but it may remain in our archives for compliance purposes.
 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. The Services may not function properly if you do not have cookies enabled.
+
+### Sharing of Anonymized Information with Third Parties
+
+FeedBlitz never shares or sells personally identifiable information (PII) about you, except as explained above.
+
+FeedBlitz may however share anonymized (not human readable, and not personally identifiable (PII)) information (also known as “hashes”) for use in third party partner ad networks.
+
+Our partners may link these hashes to a cookie stored on your browser or device, and as part of that process they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. They may use this information to recognize you across different channels and platforms, and they may combine it with data collected elsewhere. Anonymized data about you collected by our partners may be transferred outside of the country from which it was originally collected.
+
+You may opt out of anonymized third party sharing by FeedBlitz by [contacting FeedBlitz technical support via phone, email or chat here](https://www.feedblitz.com/support/), or by changing your [privacy settings](https://app.feedblitz.com/f/f.fbz?privacy) and disabling the “Third Party Partners” option. There’s more information about CCPA (California Consumer Privacy Act) compliance [here](https://www.feedblitz.com/ccpa/), and European GDPR compliance [here](http://feedblitz.com/gdpr/).
 
 ###  **Conditions of Use**
 
