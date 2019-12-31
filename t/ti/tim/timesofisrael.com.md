@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesofisrael.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630091643id_/https%3A//www.timesofisrael.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesofisrael.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231051022id_/https%3A//www.timesofisrael.com/privacy) for the most accurate reproduction.*
 
 # Times of Israel Privacy Policy | The Times of Israel
 
