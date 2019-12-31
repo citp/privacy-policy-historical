@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the progameguides.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518152830id_/https%3A//progameguides.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progameguides.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231232222id_/https%3A//progameguides.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Pro Game Guides
 
 _Last updated May 21, 2018_
 
-Pro Game Guides, operated by Temptalia, LLC (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website https://www.progameguides.com/ including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the “Site”). Please read this Privacy Policy carefully.
+Pro Game Guides, owned and operated by Temptalia LLC (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website https://www.progameguides.com/ including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the “Site”). Please read this Privacy Policy carefully.
 
 IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE SITE.
 
@@ -29,6 +29,8 @@ Personal and other information you may provide when entering contests or giveawa
 **Data From Creating a User Account**
 
 Personal and other information you may provide when creating or updating your user account. You are under no obligation to complete all data fields in your profile; however, for required information if you choose not to submit the data your ability to create, update, or use your User Account may be limited, restricted, or prohibited.
+
+Consent Options
 
 ### USE OF YOUR INFORMATION
 
