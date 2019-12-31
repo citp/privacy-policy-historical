@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the docdroid.net privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608050836id_/https%3A//www.docdroid.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docdroid.net privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231075244id_/https%3A//www.docdroid.net/privacy) for the most accurate reproduction.*
 
 # Privacy | DocDroid
 
-DocDroid is maintained by Lunaweb Ltd, Munich (Germany). As a Data Controller, DocDroid is bound by the requirements of the General Data Protection Regulations (GDPR). If you do not agree to our Privacy Policy and the other terms stated below, please do not use our services and [let us know about your concerns](https://www.docdroid.net/contact). We reserve the right to change our Privacy Policy and other terms stated below at any time. 
+DocDroid is maintained by Lunaweb GmbH, Munich (Germany). As a Data Controller, DocDroid is bound by the requirements of the General Data Protection Regulations (GDPR). If you do not agree to our Privacy Policy and the other terms stated below, please do not use our services and [let us know about your concerns](https://www.docdroid.net/contact). We reserve the right to change our Privacy Policy and other terms stated below at any time. 
 
 ##  Personal Data Collected by Us 
 
