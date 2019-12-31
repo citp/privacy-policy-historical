@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thuglifevideos.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630063647id_/http%3A//thuglifevideos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thuglifevideos.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231205053id_/http%3A//thuglifevideos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Thug Life Videos
 
@@ -33,4 +33,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-By continuing to use the site, you agree to the use of cookies.Accept Reject [Read More](http://thuglifevideos.com/privacy-policy/)
+By continuing to use the site, you agree to the use of cookies.Accept Reject [Read More](https://thuglifevideos.com/privacy-policy/)
