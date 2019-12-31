@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the viruslist.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607215822id_/https%3A//www.kaspersky.com/web-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viruslist.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231183436id_/https%3A//www.kaspersky.com/web-privacy-policy) for the most accurate reproduction.*
 
 # Web Privacy Policy | Kaspersky Lab
 
 ## Kaspersky Lab Privacy Policy for Websites
 
-Last updated: 25.01.2019. [What’s New](https://web.archive.org/web-privacy-policy/updates)
+Last updated: 31.10.2019. [What’s New](https://web.archive.org/web-privacy-policy/updates)
 
 #### **DATA CONTROLLER INFORMATION**
 
@@ -85,7 +85,7 @@ In order to use the Service and have access to all of its functions, you will pr
 
 **_Licenses_** **.** You can manage all of your Kaspersky Lab product licenses using the "Licenses" function by adding your valid activation code(s) for each product and connect it to the device it is used on. You can also choose to be reminded of expiring licenses automatically or use the auto-renewal function. Reminders will only be sent to you by email if you expressly opt in to that.
 
-**_Support_** **.** If you request support from our Technical Support or Virus Lab team using support services, we will ask you for information needed to enable us to provide you with such support, such as your registration/ license number, email address, and information about the product your problem relates to, your computer hardware, software and the nature of the problem you are experiencing. Furthermore, it may be helpful or even necessary for this purpose to send us files you are experiencing problems with via the "Upload" function. These may also contain personal information, such as user specific or otherwise personally identifiable file names, meta data or contents. It is, of course, always your choice whether you want to upload files or not. In case you do, please refer to our Regulation on Data Provisioning linked to the upload service and accept it at first.
+**_Support_** **.** If you request support from our Technical Support or Virus Lab team using support services, we will ask you for information needed to enable us to provide you with such support, such as your registration/ license number, the last 4 symbols of your bank card number used for purchasing the license, email address, and information about the product your problem relates to, your computer hardware, software and the nature of the problem you are experiencing. Furthermore, it may be helpful or even necessary for this purpose to send us files you are experiencing problems with via the "Upload" function. These may also contain personal information, such as user specific or otherwise personally identifiable file names, meta data or contents. It is, of course, always your choice whether you want to upload files or not. In case you do, please refer to our Regulation on Data Provisioning linked to the upload service and accept it at first.
 
 **
 
@@ -148,6 +148,44 @@ In order to use the Service and have access to all of its functions, you will pr
 
 Data will be deleted after 6 months after your license expiration date.
 
+### Kaspersky Security Center Cloud Console
+
+### Categories of Personal Data
+
+In order to use the Solution and gain access to all of its functions, you need to provide the following personal data:
+
+  * email address;
+  * password;
+  * your account details;
+  * company name;
+  * country;
+  * information about your managed devices and installed software;
+  * information provided to the Kaspersky Lab technical support;
+  * license for the use of the Kaspersky Security Center Cloud Console application;
+  * information about the detected device and its components, which was received after the user turned on the Active Directory polling functionality. Information on enabling this functionality is provided in the documentation section "[Assigning Distribution Points Manually](https://click.kaspersky.com/?hl=en&link=online_help&pid=ksc&version=1.0.0&helpid=181511)".
+
+
+
+A complete list of the data that may be collected during operation of the solution Kaspersky Security Center Cloud Console is provided in the documentation section "[About Data Provision](https://click.kaspersky.com/?hl=en&link=online_help&pid=ksc&version=1.0.0&helpid=175956)".
+
+### Description of Solution
+
+**_Account Registration._** You must create a personal account in order to use the solution Kaspersky Security Center Cloud Console and to gain access to all of its functions. To do this, you must provide an email address (which will be used as your username) and a password. We commit to processing and using this information exclusively to provide you with the functionality of the solution Kaspersky Security Center Cloud Console. This information can only be processed and used for other purposes if you give your express consent.
+
+**_Account settings._** You can view, update and correct your account data, password and preferences, as well as delete your account at any time using the "Account Settings" function.
+
+**_Devices._** After registration, you will be able to manage all of the devices protected by the Kaspersky Lab products in your Kaspersky Security Center Cloud Console. For example, you can view the status of the Kaspersky Lab products on each device or fix any current issues. To do this, you must connect these devices using Kaspersky Security Center Cloud Console. Your account will then be linked to the corresponding devices. Before you start managing devices using Kaspersky Security Center Cloud Console, you must take all necessary measures to comply with the relevant legislation regarding the use of the Kaspersky Security Center Cloud Console services. In addition, you should change the settings of Kaspersky Security Center Cloud Console to suit your usage scenario. For more information, refer to our [online documentation](https://click.kaspersky.com/?hl=en&link=online_help&pid=ksc&version=1.0.0&helpid=5022). To ensure their performance, the devices managed by Kaspersky Security Center Cloud Console transfer data to the administration server. The list of the data about the managed devices collected by Kaspersky Security Center Cloud Console is provided in the documentation section "[About Data Provision](https://click.kaspersky.com/?hl=en&link=online_help&pid=ksc&version=1.0.0&helpid=175956)".
+
+### How Long Do We Keep Your Personal Data?
+
+After your license expires, users' data will be stored on KSC Hosted for three months in order to enable reversal of the migration of the user infrastructure from KSC Hosted or to make it possible to restore the use of functionality without any loss of data. Your data will be deleted three months after the license expiry date.
+
+If customers use a version of the product for testing, data will be deleted after the test period ends.
+
+### Purposes of Processing Personal Data
+
+Users can utilize the software solution Kaspersky Security Center Cloud Console for identification and control of the devices (and their owners) connected to the software solution Kaspersky Security Center Cloud Console by using the functions of managed programs. The list of the data processed by Kaspersky Security Center Cloud Console for these purposes is provided in the documentation section "[About Data Provision](https://click.kaspersky.com/?hl=en&link=online_help&pid=ksc&version=1.0.0&helpid=175956)".
+
 ### [**Kaspersky Security for Microsoft Office 365**](https://cloud.kaspersky.com/)
 
 ### **The categories of personal data**
@@ -159,7 +197,7 @@ In order to use the Service and have access to all of its functions, you will pr
   * password;
   * your preferences;
   * information you provided to Kaspersky Lab’s technical support;
-  * list of data that may be accessed by the Kaspersky Security for Microsoft Office 365 service as well as the data that is collected during operation of the service is presented in the documentation section "[About data provision](https://help.kaspersky.com/KS4MO365/1.2/en-US/144072.htm)".
+  * list of data that may be accessed by the Kaspersky Security for Microsoft Office 365 service as well as the data that is collected during operation of the service is presented in the documentation section "[About data provision](https://click.kaspersky.com/?link=online_help&hl=en-us&pid=KS365&version=1.2&helpid=144072)".
 
 
 
@@ -169,11 +207,11 @@ In order to use the Service and have access to all of its functions, you will pr
 
 **_Account settings._** You may review, update or correct your account data, password and preferences or even delete your account any time using "Account Settings" function.
 
-**_Configuring the service._** The Kaspersky Security for Microsoft Office 365 service is integrated directly with Office 365, which requires access to Exchange Online. To configure your connection to Exchange Online, you will be redirected to the Microsoft Online website and prompted to grant permission for the Kaspersky Security for Office 365 application through the OAuth 2.0 flow. The Kaspersky Security for Microsoft Office 365 service also requires a Service Account to access Exchange Online quarantine. This Service Account can be configured automatically or manually. If you choose automatic configuration, the service asks you for Global Admin credentials. The Service does not save this data in any form, but instead uses it only for the initial configuration and creation of a Service Account. If you choose manual configuration, Global Admin credentials are not required, and the Service Account is created manually by the administrator.
+**_Configuring the service._** The Kaspersky Security for Microsoft Office 365 service is integrated directly with Office 365, which requires access to Exchange Online or OneDrive. To configure your connection to Exchange Online or OneDrive, you will be redirected to the Microsoft Online website and prompted to grant permission for the Kaspersky Security for Office 365 application through the OAuth 2.0 flow. The Kaspersky Security for Microsoft Office 365 service also requires a Service Account to access Exchange Online quarantine. This Service Account can be configured automatically or manually. If you choose automatic configuration, the service asks you for Global Admin credentials. The Service does not save this data in any form, but instead uses it only for the initial configuration and creation of a Service Account. If you choose manual configuration, Global Admin credentials are not required, and the Service Account is created manually by the administrator.
 
-**_Service operation._** During operation, the Kaspersky Security for Microsoft Office 365 service receives messages and other objects (meetings, tasks, etc.) to be scanned, and they are processed according to the protection settings. Kaspersky Security for Microsoft Office 365 does not save messages or objects requiring scanning in its infrastructure. The list of data that may be accessed by the Kaspersky Security for Microsoft Office 365 service as well as the data that is collected during operation of the service is presented in the documentation section "[About data provision](https://help.kaspersky.com/KS4MO365/1.2/en-US/144072.htm)".
+**_Service operation._** During operation, the Kaspersky Security for Microsoft Office 365 service receives messages and other objects (meetings, tasks, etc.) as well as OneDrive files to be scanned, and they are processed according to the protection settings. Kaspersky Security for Microsoft Office 365 does not save messages, OneDrive files, or objects requiring scanning in its infrastructure. The list of data that may be accessed by the Kaspersky Security for Microsoft Office 365 service as well as the data that is collected during operation of the service is presented in the documentation section "[About data provision](https://help.kaspersky.com/KS4MO365/1.2/en-US/144072.htm)".
 
-**_Support_**. If you request support from our Technical Support or Virus Lab team using our technical support services, we will ask you for the information that we need in order to help you, such as your registration/license number, email address, data of the product and service related to your problem, information about your computer hardware and software, and the nature of the problem you are experiencing. Furthermore, it may be helpful or even necessary for this purpose to send us files you are experiencing problems with via Company Account "upload" function. These may also contain personal information, such as user specific or otherwise personally identifiable file names, meta data or contents. It is of course always your choice whether you want to upload files or not.
+**_Support_**. If you request support from our Technical Support or Virus Lab team using our technical support services, we will ask you for the information that we need in order to help you, such as your registration/license number, the last 4 symbols of your bank card number used for purchasing the license, email address, data of the product and service related to your problem, information about your computer hardware and software, and the nature of the problem you are experiencing. Furthermore, it may be helpful or even necessary for this purpose to send us files you are experiencing problems with via Company Account "upload" function. These may also contain personal information, such as user specific or otherwise personally identifiable file names, meta data or contents. It is of course always your choice whether you want to upload files or not.
 
 ### **How long do we keep your personal data**
 
@@ -204,7 +242,7 @@ We at Kaspersky Lab respect your desire to protect personal information. Therefo
 
 You make all decisions regarding whether or not to provide personal data. However, please note that if you do not wish to provide the necessary information, you may not be able to use Kaspersky Virus Desk. For example, if a file you want to upload for scanning contains personal data, it is solely your responsibility to assess and decide whether you want to and are allowed to share the data with us. We at Kaspersky Lab will solely use such data for the purpose of scanning and analyzing it for possible malware infection, but we cannot take responsibility regarding your right to share them with us in the first place.
 
-If you do not agree to the results of scanning and would like to receive feedback regarding the possible malware infection of information you have provided to us, you can enter your email address after clicking on “I disagree with the scan results” and checking on “I want to receive an email notification”. We will use your email address in order to provide you with such results and to provide you with customer support services based on your previous requests.
+If you disagree with the results of the scan and want to request for additional analysis, you can use the “Submit for analysis” option. Furthermore, if you would like to receive feedback regarding the possible malware infection of information you have provided to us, you can enter your e-mail address after checking on “I consent to provide AO Kaspersky Lab my email address to receive scan results and feedback” before pressing “Send”. We will only use this email address to provide you with the results of the analysis.
 
 ### **How long do we keep your personal data**
 
