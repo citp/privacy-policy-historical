@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jizzhut.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630002711id_/https%3A//www.youjizz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jizzhut.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231092318id_/https%3A//www.youjizz.com/privacy) for the most accurate reproduction.*
 
 # porntube, porn tube, mobile porn, pornotube, you porn, youporn
 
