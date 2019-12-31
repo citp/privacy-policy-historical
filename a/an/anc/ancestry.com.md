@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611175010id_/https%3A//www.ancestry.com/cs/privacyphilosophy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231084410id_/https%3A//www.ancestry.com/cs/privacyphilosophy) for the most accurate reproduction.*
 
 # Ancestry Privacy Center
 
@@ -19,15 +19,25 @@ Whether it’s your family history or your DNA data, we always strive to manage 
 
 [Read our full Privacy Statement](https://www.ancestry.com/cs/legal/privacystatement)
 
-## You're at the center of the AncestryDNA story.
+## You're at the center of the AncestryDNA® story.
 
-From your kit to your results and beyond, see how we put you and   
-your privacy first all along the way of your DNA experience.
+See how we put you and your privacy first all along the way of your DNA experience.
 
-## How do we help ensure you have control of your data?
+You’re in control of your  
+DNA and data.
 
-From what you choose to display to how your data can be shared,   
-learn AncestryDNA policies and processes to keep your data safe.
+From activation to results,  
+your privacy is protected.
+
+Our safeguards for law enforcement requests.
+
+You’re in control of your DNA and data.
+
+From activation to results,  
+your privacy is protected.
+
+Our safeguards for law  
+enforcement requests.
 
 ## Frequently Asked Questions
 
@@ -306,20 +316,6 @@ Because Ancestry encourages our users to share their family history discoveries,
 Remember that information you post within the Ancestry Community may become public to other users (depending on your privacy settings). This means that other users can copy and use the information you provide. If another user updates a person in their tree based on what you have shared in your tree, the information will include a source indicating that the information is from your tree. If they add a photo or story from your tree, it will show you as the original contributor. Although you may receive credit for your contributions, you don’t have total control over what others may do with the content you share.
 
 Remember, you are responsible for what you post on the site. Anything you post should be something you have permission to use (see the [Ancestry Terms and Conditions](https://www.ancestry.com/cs/legal/termsandconditions) for more details). You should also avoid posting content that could be offensive to other users (such as anything obscene, indecent, defamatory, or that incites hatred of any kind).
-
-    
-
-With your permission, Ancestry can use your Facebook account to enhance your experience on the Ancestry website(s). You can save time by signing into Ancestry using your Facebook login.
-
-**Signing in to Ancestry using your Facebook account**   
-If you don’t want to remember another username and password, you can sign in to Ancestry using your Facebook login. (You can still sign in using your Ancestry username and password; this just gives you an additional option.) Facebook will ask you to verify that they have your permission to share certain information with Ancestry. Using your Facebook credentials to login won’t share your Ancestry account information with Facebook, and we won't post anything to your Facebook wall or contact your Facebook friends without your permission.
-
-You can disconnect your Ancestry account from Facebook at any time. To do this, go to [Site Preferences](https://www.ancestry.com/secure/account/sitepreferences) and click “Disconnect from Facebook” in the right column under “Facebook Connect.”
-
-**Adding information from Facebook to your family tree**   
-You can use your Facebook account information to build a new family tree or to update a tree you already have.
-
-We respect Facebook profile settings and will only access the information from your Facebook account that they tell you about or you have given us permission to access. We will also ask you to confirm all the information we access before including it into your family tree. Also, we won't post anything to your Facebook wall or contact any of your Facebook friends unless you permit us to do so. Be aware that when you use Facebook information in your family tree, you are explicitly granting Ancestry permission to retain and use that information in accordance with the Ancestry [Terms and Conditions](https://www.ancestry.com/cs/legal/termsandconditions) and [Privacy Statement](https://www.ancestry.com/cs/legal/privacystatement).
 
     
 
