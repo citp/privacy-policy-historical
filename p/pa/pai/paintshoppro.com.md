@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paintshoppro.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023716id_/https%3A//www.corel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paintshoppro.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231064309id_/https%3A//www.corel.com/privacy) for the most accurate reproduction.*
 
 # Corel Privacy Statement | Legal Information
 
@@ -84,7 +84,7 @@ When you interact with us on our Sites or using our Products, you can submit Per
 
 **Special Collaborative Programs:** We may collaborate with another company to provide you with a unique product or service (a " **Collaborative Program** "). Our use of your Personal Data is limited to the specific Collaborative Program that you have joined or elected to use and we will disclose to you the specific Personal Data we will share and for what purpose before sharing with our collaboration partner.
 
-**Applicant Data:** If you would like to apply for employment with Corel, you can apply online at [www.corel.com](https://www.corel.com/), on our Careers page. We will process your application data solely for the purpose of responding to your application. Your data will be deleted within two years after finalizing your application unless you give us your explicit consent to keep your application on file to contact you with further job offers in the future.
+**Applicant Data:** If you would like to apply for employment with Corel, you can apply online at [www.corel.com](https://www.corel.com/), on our Careers page. We will process your application data solely for the purpose of responding to your application. Your data will be deleted (i) for applicants to Corel UK Limited and Corel GmbH, within six (6) months after finalizing your application, and (ii) for applicants to all other Corel entities, within two years after finalizing your application, and in either case we may retain it indefinitely if you give us your explicit consent to keep your application on file to contact you with further job offers in the future.
 
 **Business Contact or Sales Prospect Data:** If you are a business contact or sales prospect that has provided us your Personal Data, we will store your data in our database so that we can follow up on previous business conversations we’ve had with you, provide you additional information about our Products, or assist you in purchasing our Products. We may also share your Personal Data with sales representatives employed with our local affiliates or resellers so that they can work with you to complete any requested purchase of our Products. You can find our European resellers for by browsing [here](https://web.archive.org/en/partner-locator/) for the Corel reseller finder and [here](http://mindjet.force.com/SearchAccount/SearchAccounts) for the MindManager reseller finder.
 
@@ -170,7 +170,7 @@ Corel reserves the right to change this Privacy Statement. We will provide notif
 
 **8\. Contact Information**
 
-To exercise your rights regarding Personal Data (as described above in this Privacy Statement), or if you have any questions about this Privacy Statement or our privacy practices, please complete this [form](https://web.archive.org/web/20181226023719id_/https://www.corel.com/en/corel-privacy-policy/modal-privacy.html) or contact us at [privacy@corel.com](mailto:privacy@corel.com).
+To exercise your rights regarding Personal Data (as described above in this Privacy Statement), or if you have any questions about this Privacy Statement or our privacy practices, please complete this [form](https://web.archive.org/web/20191231064313id_/https://www.corel.com/en/corel-privacy-policy/modal-privacy.html) or contact us at [privacy@corel.com](mailto:privacy@corel.com).
 
 We strongly encourage you to use the form at the link, to ensure the most efficient handling of your submission. Please do not use this form to report technical problems or to raise other issues that are not directly related to data privacy or this Privacy Statement. For technical issues, contact Corel Customer Support at <https://support.corel.com/hc/en-us/requests/new> or MindManager Customer Support at <https://www.mindjet.com/contact/>.
 
