@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylife.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617174538id_/http%3A//www.mylife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylife.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231161826id_/https%3A//www.mylife.com/privacy-policy) for the most accurate reproduction.*
 
 # MyLife | Connecting everyone. All in one place.
 
