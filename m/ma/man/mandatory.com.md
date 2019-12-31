@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandatory.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233044id_/https%3A//www.mandatory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandatory.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231134415id_/https%3A//www.mandatory.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mandatory
 
@@ -186,6 +186,6 @@ We reserve the right to change this policy at any time. Please check this page p
 If you have questions about this privacy policy, please contact our legal team at legal@evolvemediallc.com, or send mail to:
 
 Evolve Media, LLC  
-5140 W. Goldleaf Circle, Third Floor  
-Los Angeles, CA 90056  
+11390 West Olympic Blvd Suite 450  
+Los Angeles, CA 90064  
 Attn: General Counsel
