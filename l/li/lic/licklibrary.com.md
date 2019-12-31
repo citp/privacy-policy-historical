@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the licklibrary.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509045350id_/http%3A//www.licklibrary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the licklibrary.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231013556id_/http%3A//www.licklibrary.com/privacy-policy) for the most accurate reproduction.*
 
 # LickLibrary - Privacy Policay
 
