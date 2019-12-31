@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infowarsshop.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630014427id_/http%3A//www.infowarsshop.com/Privacy-Policy_ep_89-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infowarsshop.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231174601id_/http%3A//www.infowarsshop.com/Privacy-Policy_ep_89-1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
