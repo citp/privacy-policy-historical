@@ -1,103 +1,204 @@
-> *The following text is extracted and transformed from the psycom.net privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414225338id_/https%3A//www.verticalhealth.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psycom.net privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231073400id_/https%3A//www.remedyhealthmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Vertical Health Privacy Policy | Vertical Health
+# Remedy Health Media
 
-#### Vertical Health is committed to responsible use of data and empowering you to protect your privacy.
+Last updated: July 8, 2019.
 
-If you would prefer not to participate in our data program, you may opt-out of further participation and delete all content browsing information associated with your current device. To manage your preferences please visit: <https://id.verticalhealth.net/preferences/>
+## 1\. INTRODUCTION
 
-### VERTICAL HEALTH PRIVACY POLICY
+This is the privacy policy (“Privacy Policy”) that governs how Remedy Health Media LLC and our affiliated companies ("Remedy", "we", "our" or "us"), use Personal Data (defined below) that we collect, receive and store about individuals in connection with the use of this website or websites, apps, or other online media under our operation and control (collectively the “Site”).
 
-All Vertical Health websites were founded by doctors and are now operated by Vertical Health, LLC. Patient privacy has a longstanding tradition in medicine. In fact, the Hippocratic Oath (which is sworn to by physicians around the world), is over 2000 years old, and contains very specific requirements about patient privacy.
+You may choose whether or not to provide or disclose Personal Data in connection with your use of the Site. If you choose not to provide the Personal Data we request, you may still visit and use parts of the Site, but may be unable to access or use certain features, options, programs, and services. The Site may contain links to third-party websites and services that are not owned or controlled by Remedy. We are not responsible for the privacy practices or the content of third party websites, services and advertisements, and you visit them at your own risk.
 
-Vertical Health LLC ("VH," "we" or "us") provides a variety of online services and products, including without limitation, subscription, newsletter, and update services ("Services"), to users and subscribers via e-mail and on numerous Web sites throughout the World Wide Web, including the site you are currently on (the "Sites"). The VH network of Sites includes [spineuniverse.com](https://www.spineuniverse.com/ "www.spineuniverse.com"), [endocrineweb.com](https://www.endocrineweb.com/ "www.endocrineweb.com"), [practicalpainmanagement.com](https://www.practicalpainmanagement.com/ "www.practicalpainmanagement.com"), [psycom.net](https://www.psycom.net/), [ontrackdiabetes.com](https://www.ontrackdiabetes.com/), and [verticalhealth.com](https://www.verticalhealth.com/ "www.verticalhealth.com"). VH is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for its users and subscribers.
+We are committed to respecting privacy and recognize the need for appropriate protection and management of any Personal Data that is shared with us as part of using the Site. As used in this Privacy Policy, "Personal Data" means any information that may be used, either alone or in combination with other information, to personally identify an individual.
 
-THE PURPOSE OF THIS VH PRIVACY POLICY (THE "POLICY") IS TO HELP YOU UNDERSTAND THE KINDS OF INFORMATION WE MAY GATHER ABOUT YOU WHEN YOU VISIT THE SITES OR USE ANY OF OUR SERVICES, HOW WE MAY USE THAT INFORMATION, IN WHICH MANNER WE WILL DISCLOSE IT, AND HOW YOU CAN CORRECT AND/OR UPDATE THE INFORMATION. PLEASE NOTE THAT BY USING THE SERVICES OR VISITING THE SITES, YOU SIGNIFY YOUR AGREEMENT WITH THIS POLICY. IF YOU DO NOT AGREE TO THE TERMS OF THIS POLICY, PLEASE DO NOT USE THE SERVICES OR REFRAIN FROM VISITING THE SITES.
+## 2\. CHANGES TO THIS PRIVACY POLICY.
 
-Please note that the Policy applies only to VH's Services and Sites, but not to other Web sites to which we may link, or to third parties or advertisers on the Sites. Additionally, your use of the Services and/or the Sites is governed by all applicable laws, VH's Terms of Service or Terms of Use, as well as by any other published rules pertaining to either a particular Site or Service.
+We reserve the right, at our discretion, to change the terms of this Privacy Policy at any time. You can see when this Privacy Policy was last updated by reviewing the “Last Updated” legend on the top of this page. We may provide you with notice of material changes to the Privacy Policy as appropriate under the circumstances. UNLESS OTHERWISE INDICATED, ANY CHANGES TO THIS PRIVACY POLICY WILL APPLY IMMEDIATELY UPON POSTING TO THE SITE.
 
-### Targeted Advertising
+## 3\. INFORMATION COLLECTED.
 
-VH believes that advertising on the Internet is more interesting to the user when it is relevant. Therefore, through the use of your non-personally identifiable information and technologies such as cookies, IP's, Device ID's, Etc. (each described below), we and our business partners may deliver advertisements that are targeted towards your particular interests and your behavior on the Internet. This is sometimes called behavioral advertising.
+We may receive and/or collect Personal Data in the following ways:
 
-Advertising may be delivered to you based upon information you have provided to us (such as your interests and demographic data) and non-personally identifiable information we collect ourselves from you (such as the pages you have viewed on the Sites or articles you have accessed). For instance, if you expressed an interest in a specific topic or have been reading articles on the Sites about a specific topic, we may serve advertisements specifically to you that are related to this topic. These targeted advertisements may appear on any number of Sites owned or controlled by VH that you visit, and may also appear on the Web sites of VH's business partners which are not owned or controlled by VH. If you do not want to receive such targeted advertisements, then follow the instructions below in the section titled "Managing Cookies."
+### 3.1. Personal Data You Provide To Us On the Site.
 
-### The Information We Gather
+If you send us a "Contact Us" request or feedback, or in connection with setting up an account on the Site, or if you buy or receive products or services on the Site or otherwise enter into a contract with us, or if you fill in forms or upload documents on the Site, you may provide us with certain information that may constitute Personal Data, such as:
 
-VH collects two types of information from visitors or users of the Sites or the Services: "personally identifiable information," such as your name and e-mail address and "aggregate" or "non-personally identifiable information", such as information about a user's use of the Sites (for example, how many users log on to Sites on a daily basis or view a particular article).
+· Your name;
 
-VH collects information from you at several different points on the Sites or through use of the Services, either through the use of technology such as cookies (explained below) or by asking you for specified information. Personally identifiable information is only collected by VH from you when you voluntarily provide it to us. This may occur when you voluntarily fill out a form or otherwise send information to VH. VH may require its subscribers and users to provide certain personal information if they wish to participate in various activities on the Sites (e.g., consummating transactions and entering into contests, drawings, or surveys). Non-personally identifiable information may be automatically collected from you in connection with your use of the Sites or Services.
+· Email address;
 
-### Message Board, Chats, and Directories
+· Address;
 
-Among the many Services which VH offers subscribers on the Sites, we provide voluntary message boards, chat rooms, directories, and other interactive forums. Please be aware that VH makes no commitment to monitor these forums. Furthermore, any information which you may post to a forum, including your personally identifiable information, will be disclosed and available to all users of that forum, and is therefore no longer private. By using the forums, you agree that VH is not responsible for any information that you disclose or communicate online in such forums, and any disclosures you make are at your own risk. VH reserves the right to republish your postings (in whole or part), taken from the forums, anywhere on the Sites, or elsewhere on the Web in any format or any other medium, including print and radio, without prior notice or your express consent.
+· Phone number;
 
-### How We Use the Information That We Gather
+· Profession;
 
-VH uses the information collected, including personally identifiable information, for a variety of purposes. For example, we use your information to better understand your needs and provide you with better products and services. We may use your information to respond to your inquiries or requests; communicate with you; update you on products, services, and benefits; alert you to promotional offers; personalize the Sites for you; contact you for market research; or provide you with marketing information, newsletters, or other information we think would be of particular interest.
+· Password;
 
-VH may also share your personally identifiable information and/or aggregate information with our affiliates, technical consultants, third party auditors, and other third parties who create or maintain the Sites, enhance their functionality, or provide associated services and/or deal with you in processing your orders and/or delivering content, samples, products, services, and gifts and prizes.
+· Marketing and communication preferences;
 
-In addition, VH may share your personally identifiable information (including, to the extent permitted by law, any demographic information we discover or you provide to us like ZIP code, age, gender, marital status, product preferences) with third parties, so that such third parties can contact you regarding their products, services, offers, or information we think you will find valuable. These third parties may also use the information to generate aggregate reports and market research or for other purposes. Any information shared with third parties becomes subject to such third parties' privacy policies and terms of use. VH is not responsible for any subsequent usage made by such third parties of the information they have received from us.
+· Content of the forms and documents you fill in or post on the Site;
 
-Vertical Health supports your privacy rights and permits you to delete all content browsing information and opt-out of further participation in data associated with your current device. In addition, you may request a report of data stored specific to your device (once a year free of charge). To exercise these rights please visit: <https://id.verticalhealth.net/preferences/>
+· Information you post on any public forums on the Site; and
 
-If you have any questions or concerns about this process or anything else related to data initiatives at Vertical Health please notify us in writing at [customer.service@verticalhealth.com](mailto:customer.service@verticalhealth.com) or at Vertical Health, LLC 7 North Willow Street, Suite 7A Montclair, NJ 07042.
+· Communications you send to us.
 
-### Marketing Communications
+When buying or receiving products or services on the Site, we may require you to provide billing information, such as billing name and address, and credit card number (collectively “Billing Information”). We use third party vendors such as Stripe, to process Billing Information and we do not collect or store Billing Information.
 
-VH will use your information to provide newsletters and marketing. You can withdraw permission for this at any time by clicking the unsubscribe link in the footer of any email you receive from us. VH uses third party service providers like MailChimp, Amazon Web Services, Rackspace, and ObjectLabs Corporation (mLab), to store data. You acknowledge that the information you provide may be transferred to the aforementioned service providers (or other similar services) for processing in accordance with their privacy policies.
+### 3.2. Personal Data You Provide To Third Parties On the Site.
 
-### VH uses certain technologies, such as "cookies," to personalize and improve your online experience.
+Please note that we use certain third party service providers and business partners on the Site to enhance your experience or deliver certain services. These third parties may collect Personal Data in performing their services and/or functions on the Site. For a list of the third parties, the services they provide to us, and to learn about their privacy practices, please visit: <https://www.remedyhealthmedia.com/third-party-service-providers> .
 
-  * Cookies are alphanumeric identifiers that are transferred to your computer's hard drive. Cookies store information about your visit to the Sites or your use of the Services, thereby allowing you to access certain VH Site features not otherwise available. The information in the cookie is transmitted from your computer to VH, our agents, or to one of our third-party authorized service contractors and business partners. The information contained in these cookies makes it possible for us to know if you are presently logged onto a Site or using any of the Services, or whether you have done so in a prior visit. This technology also enables VH to instantly determine your access privileges while allowing you to navigate the Sites or use any of the Services without having to repeatedly log in.
-  * Cookies from VH and/or one of our authorized service contractors or business partners are also used to collect standard information transmitted from your Web browser including, without limitation: your Internet protocol address, browser type, Web pages you visited with date and time, purchases you made on any of the Sites and the type of operating system on your computer. This information is used to help us understand and meet the ever-changing needs and interests of our visitors or subscribers.
-  * VH may also use cookies to track your access to, and use of the forums on the Sites, as well as your responses to any of our online surveys.
-  * VH does not control any cookies you may receive from an advertiser or other third party and these cookies are not subject to this Policy, although the advertiser may have their own policy.
-  * VH also uses Web beacon technology to help track site usage. Web beacons (also called single pixel gifs or action tags) allow VH to track page viewing counts and pattern, which we use to focus and tailor future content development, measure the effectiveness of VH's own marketing campaigns, and assist with broadband capacity management for the Sites.
-  * VH also employs Web beacons within the context of certain e-mails in order to determine the effectiveness and appeal of those mailings. These Web beacons notify VH if and when you open the e-mail, if your e-mail program is capable of displaying HTML messages, where you may navigate within these HTML messages, and when you click on a link in the message.
-  * VH also collects data that does not, on its own, permit direct association with any specific individual. This may include information such as occupation, language, zip code, area code, unique device identifier, referrer URL, location, and the time zone where a user accesses our sites.
-  * VH may also use a third party ad network provider to help present advertisements on this Site. Third-party ad serving enables VH to target advertisements to you for products and services you might be interested in. These third party network advertisers, along with other advertisers and sponsors on the Sites, may use cookies, Web beacons, or similar technologies (and, in the case of cookies, access them on your computer if you choose to have cookies enabled in your browser) to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before, and to avoid sending you duplicated advertisements. In doing so, the provider collects non-personally identifiable information such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of third party cookies, Web beacons, and similar technologies by these ad network providers is governed by each third party's specific privacy policy, not this one. Please visit <http://www.networkadvertising.org/optout_nonppii.asp> to learn more about the information collection practices and "opt-out" procedures of some of the third party ad networks we may use.
-  * Please note that VH reserves the right to access and/or disclose personally identifiable information and aggregate information we gather, as required by courts or administrative agencies and to the extent required to permit us to investigate suspected fraud, harassment, or other violations of any law, rule, or regulation, the Sites' rules or policies, or the rights of third parties or to investigate any suspected conduct that VH deems improper.
+### 3.3. Information Provided By Third Parties.
+
+We may collect information about you through non-affiliated third parties. For example, you may be able to access the Site through a social networking account. If you access the Site through your social media account, you may allow us to have access to certain Personal Data in your social media profile. If you access our Site from another website that provides Personal Data about you in accordance with their privacy policy, then we may collect such Personal Data.
+
+### 3.4. Information Collected Automatically.
+
+Certain information on the Site is collected automatically by means of various software tools. We have a legitimate interest in using such information to assist in log-in, systems administration purposes, information security and abuse prevention, to track user trends, and to analyze the effectiveness of the Site. Alone or in combination with other information, such automatically collected information may constitute Personal Data. Some of our service providers (described in Section 3.2 above) and business partners may use cookies or other methods to gather information regarding your use of the Site. For additional information about cookies, please see Section 3.4 (b). Business partners may use these cookies or other tracking methods for their own purposes by relating information about your use of the Site with any of Personal Data about you that they may have. The use of such information by a third party depends on the privacy policy of that third party.
+
+a) **Log Files On The Site**. The information inside the log files includes internet protocol (“IP”) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, clicked pages and any other information your browser may send to us.
+
+b) **Cookies**. We use cookies to make interactions with our Site easy and meaningful. When you visit our Site, our servers may send a cookie to your computer. Standing alone, cookies do not personally identify you; they merely recognize your web browser.
+
+We may use cookies that are session-based and persistent. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. Please note that if you disable your web browser’s ability to accept cookies, you will be able to navigate our Site, but you may not be able to successfully use all of the features of our Site.
+
+The following sets out how we may use different categories of cookies and your options for managing cookies’ settings:
+
+Type of Cookies | Description | Managing Settings  
+---|---|---  
+Required cookies | Required cookies enable you to navigate our Site and use its features, such as accessing secure areas of our Site and using our services. If you have chosen to identify yourself to us, we use cookies containing encrypted information to allow us to uniquely identify you. Each time you log into our Site, a cookie containing an encrypted, unique identifier that is tied to your account is placed on your browser. These cookies allow us to uniquely identify you when you are logged into our Site and to process your online transactions and requests. | Because required cookies are essential to operate our Site, there is no option to opt out of these cookies.  
+Performance cookies | These cookies collect information about how you use our Site, including which pages you go to most often and if they receive error messages from certain pages. These cookies do not collect information that individually identifies you. All information these cookies collect is aggregated and anonymous. It is only used to improve how our Site functions and performs. From time-to-time, we may engage third parties to track and analyze usage and volume statistical information from individuals who visit our Site. We may ,also utilize Flash cookies for these purposes. | To learn how to opt out of performance cookies using your browser settings click [here](https://www.aboutcookies.org/ "About Cookies"). To learn how to manage privacy and storage settings for Flash cookies click [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html "Flash cookies")  
+Functionality cookies | Functionality cookies allow our Site to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features. These cookies also enable you to optimize your use of our Site after logging in. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. | To learn how to opt out of functionality cookies using your browser settings click [here](https://www.aboutcookies.org/ "About Cookies").  
+Targeting or Advertising cookies | From time to time, we may track and analyze usage and volume statistical information from individuals who visit our Site. We sometimes use our own cookies as well as cookies delivered by third parties to track the performance of advertisements. For example, these cookies remember which browsers have visited our Site. The information provided to third parties does not include Personal Data, but this information may be re-associated with Personal Data after we receive it. By way of example, as you browse our Site, cookies may be placed on your computer so that we can understand what you are interested in. Our advertising partners then enable us to present you with retargeted advertising on other sites based on your previous interaction with our Site. We also contract with third-party advertising networks and similar partners that collect IP addresses and other information from web beacons (see below) on our Site, from emails, and on third-party sites. Ad networks follow your online activities over time by collecting website navigational information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other websites. This process also helps us manage and track the effectiveness of our marketing efforts. Third parties, with whom we partner to provide certain features on our Site or to display advertising based upon your web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. | To learn more about these and other advertising networks and their opt-out instructions, click [here](https://optout.networkadvertising.org/?c=1 "Advertising cookies"). To learn how to manage privacy and storage settings for Flash cookies click [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html "Flash Cookies").  
+  
+d) **Other Tracking Technologies**. When you visit the Site, we may collect your IP address to track and aggregate information. For example, we may use IP addresses to monitor the regions from which you navigate the Site. We may also use web beacons alone or in conjunction with cookies to compile information about your usage of the Site and interaction with emails from us. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular site tied to the web beacon. For example, we may place web beacons in marketing emails that notify us when you click on a link in the email that directs you to our Site. We may use web beacons to operate and improve our Site and email communications.
+
+e) **Analytics Software Tools**. We use analytics software such as Google Analytics and/or Adobe Analytics on our Site to help us analyze the traffic on our Site. For more information on Google Analytics’ processing of Personal Data, please see [http://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/ "Partners").” By using a browser plugin [http://www.google.com/ads/preferences/plugin/](https://www.google.com/ads/preferences/plugin/ "Analytcis Plugin") provided by Google, you can opt out of Google Analytics
+
+## 4\. THE PURPOSES FOR WHICH WE USE PERSONAL DATA.
+
+If you submit or we collect Personal Data through the Site, then such Personal Data may be used in the following ways:
+
+  * To provide, analyze, administer, improve, and personalize the Site;
+
+  * To communicate with you in connection with the Site, notifications, events, programs or offerings that you may have registered for;
+
+  * To send you updates and promotional materials;
+
+  * To provide personalized advertising to you;
+
+  * To identify and authenticate your access to the parts of the Site that you are authorized to access;
+
+  * For recruiting and human resources administration purposes;
+
+  * For research and development relating to the Site and the products and services we provide to you;
+
+  * For advertising purposes;
+
+  * For electronic direct marketing in compliance with applicable laws; and
+
+  * To protect our rights and/or our property and to ensure the technical functionality and security of the Site.
 
 
 
-### Managing Cookies
 
-You always have the option of setting your browser to warn you when a cookie is being accessed on your computer, to delete cookies that are currently on your computer or to decline cookies altogether. However, to take full advantage of the Sites, Services, and features offered by VH, your browser must accept cookies. The settings on your computer that allow you to accept or refuse cookies vary depending on the Web browser you are running. Please check the help tab of your browser for specifics on your software.
+## 5\. HOW WE DISCLOSE PERSONAL DATA.
 
-### Children's Information
+We do not sell, lease, rent or otherwise disclose the Personal Data collected on and through the Site to third parties unless otherwise stated below or with your consent.
 
-VH's policy is that it does not knowingly collect personally identifiable information from individuals under thirteen years of age. The Services or Sites are not directed or intended for children under thirteen years of age. If you are under thirteen years of age, you should not register to become a Subscriber or provide personally identifiable information on any of the Sites. If you are the parent or guardian of a child whom you believe has disclosed personally identifiable information to VH, please contact VH at [customer.service@verticalhealth.com](mailto:customer.service@verticalhealth.com) so that we may delete and remove such child's information from our systems.
+### 5.1. Our Third Party Providers.
 
-### Disclosure of Personal Information in the Event of Merger or Sale of Assets
+We transfer Personal Data to our third party service providers and business partners to perform tasks on our behalf and to assist us in providing the Site, as discussed in Section 3.2. above. We use commercially reasonable efforts to only engage or interact with third party service providers and business partners that post a privacy policy governing their processing of Personal Data. Notwithstanding the foregoing, we will comply with applicable laws regarding Personal Data transfers.
 
-VH, its parent, subsidiaries, or affiliates, could merge with or be acquired by another business entity, or all or substantially all of their respective assets could be acquired, or the assets of this Site could be acquired or transferred to another business entity. Should such a combination, acquisition, transaction, or transfer occur, VH reserves the right to transfer some or all of your personally identifiable information and other information to our successors in business and purchasers (in whole or in part) of this Site's assets.
+### 5.2. Business Partners.
 
-Certain information or Services offered or provided through the Sites may, from time to time, be provided on or through other Web sites operated by or in conjunction with third parties ("Partners"). These Web sites and the features thereon may have the same "look and feel" as VH's Sites and/or Services. VH terms these Web sites "co-branded sites", and often times a Partner's logo or name may appear on the Web site, or the Partner's name may appear in the URL. Although VH will retain any personally identifiable information collected about you from one of these co-branded sites, such information may also be shared by VH with that Partner. A Partner's use of any information shared will be subject to the Partner's own privacy practices and policies.
+From time to time, we may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from us, we may share Personal Data collected in connection with your purchase or expression of interest with our joint promotion partner(s). We do not control our business partners’ use of Personal Data we collect, and their use of the information will be in accordance with their own privacy policies.
 
-### Third Party Links
+### 5.3. In the Event of Merger, Sale, or Change of Control.
 
-VH does not monitor, control, or endorse the information collection or privacy practices of any third parties including, without limitation, any Partner, advertiser, or other third party who may provide services throughout the Sites. On behalf of various sponsors, the Sites may provide sponsored links to third party Web sites or resources ("Linked Sites"). VH neither controls nor have we reviewed or approved the content that appears on such Linked Sites.
+We may transfer or assign this Privacy Policy and any Personal Data to a third party entity that acquires or is merged with as part of a merger, acquisition, sale, or other change of control.
 
-Even though certain information collected by such third parties might not identify you personally, we strongly encourage you to become familiar with their privacy practices, and to contact them if you have any questions about their respective privacy policies and practices.
+### 5.4. Social Media Plugins.
 
-You acknowledge and agree that VH is not responsible for the legality, accuracy, or inappropriate nature of any content, advertising, products, or other materials on or available from such Linked Sites. You further acknowledge and agree that VH shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods, and services available on or through any such Linked Site.
+The Site uses social media plugins (e.g. Facebook) to enable you to easily share information with others. When you visit the Site, the operator of the social plugin can place a cookie on your device, enabling that operator to recognize individuals who have previously visited the Site. If you are logged into the social media website (e.g. Facebook, Twitter) while browsing the Site, the social media plugins allow that social media website to share personal information about your activities on the Site with other users of their social media website. For example, Facebook Social Plugins allow Facebook to show your Likes and comments on our pages to your Facebook friends. Facebook Social Plugins also allow you to see your friends’ Facebook activity on the Site. We do not control any of the content from the social media plugins. For more information about social plugins from other media websites you should refer to those sites’ privacy and data/information sharing statements/policies.
 
-### Security
+### 5.5. Other Disclosures.
 
-VH places a priority on the security of personally identifiable information, and we undertake reasonable security measures to protect the data that resides on our servers. VH also uses secure server software (SSL) to process all transactions that occur on the Sites. SSL encrypts all of your personal information transmitted over the Internet, including your credit card number, name, and address. However, no security system is impenetrable. VH cannot warrant or guaranty the security of its servers, nor can it guaranty that information supplied by Subscribers or other users will not be intercepted while being transmitted over the Internet.
+We may disclose Personal Data about you if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request; (ii) enforce our terms of use, including investigations of potential violations thereof; (iii) detect, prevent, or otherwise address fraud or security issues; or (iv) protect against harm to the rights, property or safety of Remedy, our users, or the public.
 
-### Correction/Updating Personal Information - Opt-Out
+## 6\. RETENTION OF PERSONAL DATA.
 
-If your personally identifiable information changes (such as your address or ZIP code), or if you no longer desire to use or access one of the Sites or Services, VH encourages you to correct, update, or remove the personal information that you provided. This can be done at the "Manage My Account" page on each of the Sites. Keep in mind, however, that even if you delete your account from VH's records, there will be residual information that will remain within VH's databases, access logs, and other records, which may or may not contain personally identifiable information. VH is not responsible for updating or removing any information contained in third party lists or databases.
+We reserve the right to retain any Personal Data as long as the Personal Data are needed to: (i) fulfill the purposes that are described in Section 4 (The Purposes For Which We Use Personal Data), and (ii) comply with applicable law.
 
-### How To Contact Us
+## 7\. YOUR RIGHTS.
 
-Please relay any questions you may have pertaining to our above stated policies to our Customer Service Department at [customer.service@verticalhealth.com](mailto:customer.service@verticalhealth.com).
+### 7.1 Rights Relating to Personal Data.
 
-### Privacy Policy Changes
+If you have an account on the Site, we provide access to—and the ability to edit or delete—certain categories of Personal Data through the account. We also permit you to:
 
-If VH makes changes to any of the terms or conditions of the Policy, this document will be revised so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. We reserve the right to change, modify, add or remove portions of this Policy at any time and without notice, and any changes will become effective immediately upon being posted unless VH advises you otherwise. Your continued use of the Services and/or the Sites after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly.
+  * Delete all content browsing information and opt-out of further participation in data associated with the current device you use to browse the Site. To exercise this right, please visit: <https://id.verticalhealth.net/preferences/>; and
 
-_Last updated: 3/29/2019_
+  * Delete all information related to email/newsletter subscriptions. To exercise this right, please visit: <https://remedyhealth.atlassian.net/servicedesk/customer/portal/2>.
+
+
+
+
+Subject to applicable law, if you would like to otherwise access, amend, correct, delete, export (e.g. data portability), object to the processing of Personal Data collected in and through the Site, or withdraw your consent (as applicable), you may submit a request to privacy@remedyhealthmedia.com or write to us at:
+
+       Attention: Privacy Officer
+
+       2111 Wilson Boulevard, suite 330
+
+       Arlington, Virginia 22201
+
+       We will promptly review all such requests in accordance with applicable laws.
+
+Depending on where you live, you may have a right to lodge a complaint with a regulatory agency if you believe that we have violated any of the rights concerning Personal Data about you. We encourage you to first reach out to us at privacy@remedyhealthmedia.com so we have an opportunity to address your concerns directly before you do so.
+
+### 7.2. Opting-Out of Promotional Emails.
+
+You may choose not to receive future promotional or advertising emails from us by selecting an unsubscribe link at the bottom of each email that you receive from us, or by responding to the emails directly and requesting removal if such a link is not available. Additionally, you may send a request specifying your communications preferences to [privacy@remedyhealthmedia.com](mailto:privacy@remedyhealthmedia.com "privacy@remedyhealthmedia.com"). Please note that even if you opt out of receiving the foregoing emails, we may still send you a response to any "Contact Us" request as well as administrative, maintenance and operational emails (for example, in connection with a password reset request).
+
+## 8\. DATA SECURITY.
+
+The security of Personal Data is important to us. We follow generally accepted industry standards to protect the Personal Data submitted to us, both during transmission and once we receive it. For example, we have implemented an information security program that contains administrative, technical and physical controls that are designed to reasonably safeguard Personal Data from unlawful use, unauthorized access, or disclosure. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect Personal Data, we cannot guarantee its absolute security.
+
+## 9\. TRANSFERS OF PERSONAL DATA FROM THE EU OR SWITZERLAND TO THE UNITED STATES.
+
+Remedy complies with the EU-US Privacy Shield Framework and Swiss-US Privacy Shield Framework (collectively, “Privacy Shield”) as set forth by the US Department of Commerce regarding the collection, use, and retention of Personal Data from European Union (the “EU”) member countries and Switzerland. Remedy has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. A violation of our commitment to Privacy Shield may be investigated by the Federal Trade Commission and/or the United States Department of Commerce. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, to the extent available, please visit https://www.privacyshield.gov.
+
+In compliance with the Privacy Shield Principles, Remedy commits to resolve complaints about your privacy and our collection or use of Personal Data about you. Persons from the EU or Switzerland who have inquiries or complaints regarding this Statement should first contact us via email at: privacy@remedyhealthmedia.com.
+
+Remedy has committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and the EU-Switzerland Privacy Shield Principles to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit https://www.jamsadr.com/eu-us-privacy-shield for more information and to file a complaint.
+
+These recourse mechanisms are available at no cost to you. Damages may be awarded in accordance with applicable law. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. Pursuant to the Privacy Shield, Remedy remains potentially liable for the transfer of Personal Data to third parties acting as our agents unless we can prove we were not a party to the events giving rise to the damages.
+
+In cases of onward transfer to third parties of Personal Data of EU or Swiss individuals received pursuant to the EU-US and Switzerland-US Privacy Shield, Remedy is potentially liable.
+
+## 10\. CHANGES TO THIS PRIVACY POLICY.
+
+We reserve the right, at our discretion, to change the terms of this Privacy Policy at any time. You can see when this Privacy Policy was last updated by reviewing the “Last Updated” legend on the top of this page. We may provide you with notice of material changes to the Privacy Policy as appropriate under the circumstances. UNLESS OTHERWISE INDICATED, ANY CHANGES TO THIS PRIVACY POLICY WILL APPLY IMMEDIATELY UPON POSTING.
+
+## 11\. CHILDREN’S PRIVACY.
+
+The Site is not intended for children under the age of 18. Accordingly, we do not intend to collect Personal Data from anyone we know to be under 18 years of age.
+
+## 12\. HOW WE RESPOND TO DO NOT TRACK SIGNALS.
+
+As explained above in Section 3.4, the technologies used on the Site may be used to track Site users over time and across third party websites to provide targeted advertising. How browsers communicate user preferences related to the Do Not Track signal is not yet uniform so a standard technological response has not yet been developed. For this reason, the Site may not respond to Do Not Track signals at this time.
+
+## 13\. YOUR CALIFORNIA PRIVACY RIGHTS.
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your Personal Data by Remedy to third parties for the third parties’ direct marketing purposes. To make such a request, please send an email to [privacy@remedyhealthmedia.com](mailto:privacy@remedyhealthmedia.com "privacy@remedyhealthmedia.com") or write to us:
+
+      Attention: Privacy Officer
+
+      2111 Wilson Boulevard, suite 330
+
+      Arlington, Virginia 22201
+
+## 14\. CONTACTING US.
+
+Any comments, concerns, complaints, or questions regarding our Privacy Policy may be addressed to [privacy@remedyhealthmedia.com](mailto:privacy@remedyhealthmedia.com "privacy@remedyhealthmedia.com").
