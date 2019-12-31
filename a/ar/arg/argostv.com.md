@@ -1,199 +1,85 @@
-> *The following text is extracted and transformed from the argostv.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630234913id_/https%3A//www.google.com/intl/en/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argostv.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231211106id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy – Privacy & Terms – Google
+# HugeDomains.com - Privacy Policy
 
-There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you [more relevant search results](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/more-relevant-search-results.html) and ads, to help you [connect with people](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/connect-with-people.html) or to make [sharing with others quicker and easier](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/sharing-with-others.html). As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
+HUGEDOMAINS.COM PRIVACY POLICY
 
-Our Privacy Policy explains: 
+HugeDomains's Privacy Policy describes how this site collects and uses the personally identifiable information provided by customers/consumers/users of this site. It also describes the choices available to customers regarding HugeDomains's use of customer's personally identifiable information and how that information may be accessed and updated by customers and how it may be provided to third-parties.
 
-  * What information we collect and why we collect it. 
-  * How we use that information. 
-  * The choices we offer, including how to access and update information.
+If you do not agree to HugeDomains's Privacy Policy and/or [Terms of Service](https://web.archive.org/terms.cfm), you must immediately cease use of HugeDomains.com. If you do not agree, do not use HugeDomains's website or services,  do not purchase domains and do not enter into payment plans with HugeDomains.com.
 
+HugeDomains.com is a United States company, located in Denver, Colorado, USA. HugeDomains complies with the U.S-EU Safe Harbor framework which is dictated and set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. HugeDomains further complies with the California Online Privacy Protection Act and the Children's Online Privacy Protection Act (COPPA).
 
+**What Information HugeDomains Collects**
 
-We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://support.google.com/policies/troubleshooter/2990837?hl=en). 
+HugeDomains must collect certain personal data in order to conduct business, provide customer service and provide a customer with relevant requested services. Personal information is collected from customers when  a customer contacts HugeDomains through the website, when a customer purchases a domain, whenever a customer fills out a contact form on the HugeDomains platform; when a customer submits payment to HugeDomains; and when a customer contacts HugeDomains via phone or chat. HugeDomains will further collect certain personal information from customers as needed in order to continue to provide services to its customers and as required by any relevant law, rule, regulation, and other method that ensures the safety of HugeDomains, its customers, and the general public.
 
-## Information we collect
+HugeDomains collects customers' relevant personal information, including but not limited to: name, address, phone number, fax number (if applicable), email address and other data used to directly or indirectly to identify you in connection to your use of HugeDomains's services. Many products/services may require a customer to provide HugeDomains with additional information such as credit card information, associated billing information, or other financial and payment information. In order to protect HugeDomains and its customers, as well as intellectual property rights, HugeDomains may require customers to provide government identification and/or other documentation as proof of identity and physical address.
 
-We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which [ads you’ll find most useful](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/ads-youll-find-most-useful.html), [the people who matter most to you online](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/the-people-who-matter-most.html), or which YouTube videos you might like. 
+**Why HugeDomains Collects This Information**
 
-We collect information in the following ways: 
+HugeDomains collects customer information for several reasons, including but not limited to: following relevant and required ICANN data collection requirements, along with and to abide and comply with United States laws, rules, and regulations. Further, HugeDomains collects such information in order to allow HugeDomains to: 
 
-  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or [credit card](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/credit-card.html) to store with your account. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](https://support.google.com/accounts/answer/112783?hl=en), which may include your name and photo. 
+a. **To personalize customer experience**  \- customer information helps HugeDomains better respond to customer's individual needs.
 
-  * **Information we get from your use of our services.** We [collect information](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/collect-information.html) about the services that you use and how you use them, like when you watch a video on YouTube, visit a website that uses our advertising services, or [view and interact with our ads](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/view-and-interact-with-our-ads.html) and content. This information includes: 
+b. **To improve the HugeDomains website and services** \- HugeDomains continually strives to improve its website offerings and services based on the information and feedback received from customers.
 
-    * **[Device information](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-device)**
+c. **To improve customer service** \- customer information helps HugeDomains more effectively respond to specific customer service requests and support needs. Should a customer contact HugeDomains for service or support, it will keep an internal record of such correspondence, whether email or telephone call, along with an internal record of support given.
 
-We collect [device-specific information](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/device-specific-information.html) (such as your hardware model, operating system version, [unique device identifiers](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-unique-device-id), and mobile network information including phone number). Google may associate your [device identifiers](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/device-identifiers.html) or [phone number](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/phone-number.html) with your Google Account. 
+d. **To process transactions**  \- other than specifically provided in this provision, or required by law, customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company without direct and express customer consent.
 
-    * **Log information**
+e. **To send periodic emails** \- customer email addresses provided for order processing, will be used to send customers relevant and pertinent information and updates pertaining to their HugeDomains account and registered domain names and/or other services. These communications include, but are not limited, to: HugeDomains updates and questions or concerns regarding the customer, their account, or specific services. If a customer chooses to opt-in to a mailing list, they will receive email communications that may include company news, updates, related product or service information, as set per email preferences which is customizable from within each users' account.
 
-When you use our services or view content provided by Google, we automatically collect and store certain information in [server logs](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This includes: 
+f. **Domain ownership information**  \- HugeDomains.com sells domain names, and all domain name purchases require registrant information in order to complete the purchase and facilitate the transfer of the domain name. The information provided by a customer when purchasing a domain can and will be used to transfer ownership of said domain names. The registration information provided for a domain is recorded and shared with trusted parties in order to deliver such purchases to domain buyers. If a customer does not opt-in for privacy protection, the whois information provided when buying domain names may be shared via a public record called "whois".
 
-      * details of how you used our service, such as your search queries. 
-      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
-      * [Internet protocol address](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-ip). 
-      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
-      * cookies that may uniquely identify your browser or your Google Account.
-    * **Location information**
+**How HugeDomains Collects this Information**
 
-When you use Google services, we [may collect and process information about your actual location](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/may-collect-and-process-information.html). We use various technologies to determine location, including IP address, GPS, [and other sensors](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/sensors.html) that may, for example, provide Google with information on nearby devices, [Wi-Fi access points and cell towers](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/wifi-access-points-and-cell-towers.html). 
+HugeDomains utilizes a variety of security measures to maintain the safety of customers' personal information. All supplied financial information (including credit card data) is transmitted via Secure Socket Layer (SSL) technology and then encrypted into the company's payment gateway provider's database. This database and the sensitive information contained within are only accessible by those authorized with special access rights to such systems and are required to keep the information confidential. 
 
-    * **Unique application numbers**
+HugeDomains uses cookies (and other technologies such as web beacons, pixels, tags, scrips) to identify you so you don't need to log in each time you visit a HugeDomains website or its mobile applications. The cookies are linked to your customer account, which is associated with the information in your account. HugeDomains uses cookies to help remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that it can offer better site experiences and tools in the future. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most modern websites, if you turn your cookies off, some of HugeDomains's services may not function properly or function at all. HugeDomains does not test its website for this and does not guarantee use of services with cookies disabled. 
 
-Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
+HugeDomains, like most companies, obtains information about its customers automatically and stores this information in its internal databases. This information may include but is not limited to: Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring entry/exit pages, operating system, date/time stamp and/or clickstream data, and other data that could directly or indirectly identify you. HugeDomains uses this information to help personalize your experience and search results, diagnose problems with its systems, to administer the services on this site, and for other corporate uses.
 
-    * **Local storage**
+**How HugeDomains Uses this Information**
 
-We may collect and store information (including personal information) locally on your device using mechanisms such as [browser web storage](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-browser-storage) (including HTML 5) and [application data caches](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-application-data-cache). 
+HugeDomains must first and foremost abide by local law. As a US company, HugeDomains will first abide by US laws and regulations when two laws might differ and/or conflict with one another.
 
-    * **Cookies and similar technologies**
+HugeDomains securely holds on to personal data internally. Such data can be held indefinitely in order to keep accurate records that may be required under local law and regulation. 
 
-We [and our partners](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/our-partners.html) use various technologies to collect and store information when you visit a Google service, and this may include using [cookies or similar technologies](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie) to identify your browser or device. We also use these technologies to collect and store information when you interact with services we offer to our partners, such as [advertising services](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/advertising-services.html) or Google features that may appear on other sites. Our Google Analytics product helps businesses and site owners analyze the traffic to their websites and apps. When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is [linked, by the Google Analytics customer or by Google, using Google technology, with information about visits to multiple sites](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html).
+HugeDomains uses customer information to communicate directly with their customers. It is important for customers to keep their email address up to date and check their email regularly for updates regarding a HugeDomains account. 
 
+HugeDomains may have the need to provide customer information to third parties for certain services required by HugeDomains, including but not limited to, credit card processors, technical support services, shipping of goods or services, customer relationship management, SMS delivery, Collections Agencies,  registry compliance, law enforcement, among other third parties for other similar such reasons. When a domain is purchased which is managed at a partner registrar, HugeDomains reserves the right to automatically push said domain name(s) into an account at that domain name registrar in order to provide the relevant purchased product(s) to the customer. HugeDomains will only share information that is necessary for the third party to provide the required services. This information will not be sold nor voluntarily disseminated unless reasonably needed at HugeDomains's sole discretion. 
 
+When a HugeDomains account is cancelled/suspended/terminated, either voluntarily or involuntarily, this does not mean that the customer's personally identifiable information has been deleted entirely from HugeDomains's systems and databases. Some or all this information may be retained by HugeDomains, including but not limited, to comply with legal obligations, resolve disputes, prevent fraud and/or enforce company agreements.  In addition, you will not be able to submit a form on this website without providing the exact information required to complete that specific action. It is forbidden and against of ICANN's rules to provide false Registrant information about any domain name registration(s). Providing false or fake information may and will result in suspension of the customer's HugeDomains account and forfeiture of any related domain name(s) registered with HugeDomains or any of its affiliate companies or domain name registrars.
 
+HugeDomains will cooperate with government, law enforcement officials and relevant private parties to enforce and comply with Unites States law and with applicable and mandatory regulations regarding the services it provides. If necessary, HugeDomains will disclose any customer information to the relevant officials or private parties when appropriate or deemed reasonably necessary. Further, if HugeDomains believes, in its sole discretion, (including without limitation to subpoenas), that the preservation of certain customer information is necessary to protect its rights or the property and/or the rights of a third party. HugeDomains may further maintain or share customer information in order to protect the safety of the public or any person, to prevent or stop activity HugeDomains considers to be illegal based on applicable laws, or to otherwise uphold the law.  By using HugeDomains's website and services, all customers expressly consent to this Privacy Policy. HugeDomains further reserves the right to modify this Policy at any time. If changes are made to this Policy, those changes will be publicly posted. HugeDomains is not required to directly notify its customers of changes made to this Policy, however, if material changes are made, HugeDomains will notify its customers by email or through a public notice on its website.
 
-Information we collect when you are signed in to Google, in addition to information we obtain about you from partners, may be associated with your Google Account. When information is associated with your Google Account, we treat it as personal information. For more information about how you can access, manage or delete information that is associated with your Google Account, visit the Transparency and choice section of this policy. 
+**To Access, Update, or Delete Your Personal Information**
 
-## How we use information we collect
+You have the right to correct any personal information held about you that is inaccurate or incomplete. If there is information located on HugeDomains servers you wish to correct, you will be required to login to your account and update the appropriate information. This includes account owner information, information submitted for various products and services offered through this website, including but not limited to purchased domain names and payment methods linked to your account.
 
-We use the information we collect from all of our services to [provide](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/provide-services.html), [maintain](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/maintain-services.html), [protect](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/protect-services.html) and improve them, to [develop new ones](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/develop-new-ones.html), and to [protect Google and our users](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/protect-google-and-our-users.html). We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
+You have the right issue a request that HugeDomains delete your personal data. HugeDomains will review your request and delete data if possible. HugeDomains reserves the right, in its sole discretion, to retain any personal data. Personal data may be retained for several reasons, including, but not limited to: fraud mitigation; preserving or enforcing legal and/or contractual rights; data retention mandated by local law,  domain registrars processing of your data, relevant domain registries, contracts, or reasons necessary to HugeDomains's business and operate such services. If you wish to have your data erased, you can use the contact details found on the bottom of this page, please provide as many details as possible as to your request, and the company will determine if you have a valid basis for the erasure of your data. If you have questions about data retention you may contact us with your questions or concerns. You have the right to lodge a complaint with a relevant supervisory authority.
 
-We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
+**Third Parties**
 
-If you have a Google Account, we may display your Profile name, Profile photo, and actions you take on Google or on third-party applications connected to your Google Account (such as +1’s, reviews you write and comments you post) in our services, including displaying in ads and other commercial contexts. We will respect the choices you make to [limit sharing or visibility settings](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/limit-sharing-or-visibility-settings.html) in your Google Account. 
+HugeDomains.com may share your personal information with affiliated companies within its corporate family and other third-parties that integrate with HugeDomains services, and to provide products and services, including but not limited to: Customer Relationship Management; processing payments; fraud prevention; management of domain names; and serving advertisements. Many of these third parties are affiliate companies, and work in conjunction with HugeDomains to provide customers the products and services provided by HugeDomains to HugeDomains's customers.
 
-When you contact Google, we keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
+Targeted ads may be provided to HugeDomains customers based upon their webpages and Internet activity. These ads and offers may be displayed as product banners provided while you are engaged in Internet browsing or using HugeDomains.com and its services. In some instances, HugeDomains partners with third parties to manage advertising, including targeted advertising on HugeDomains webpages and other websites. These third-party partners may use certain data collection tools such as cookies in order to collect information about customer activities to provide customers with customized advertisements. When possible, such providers will give ways to opt-out of any such advertisements.
 
-We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel), to [improve your user experience](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/improve-your-user-experience.html) and the overall quality of our services. One of the products we use to do this on our own services is Google Analytics. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with [sensitive categories](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-categories), such as those based on race, religion, sexual orientation or health. 
+HugeDomains's website may contain links to third party websites. HugeDomains is not responsible for the privacy policy and data collection of third-party sites. You are solely responsible for reviewing any third-party privacy practices on all such websites.
 
-Our automated systems analyze your content (including emails) to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection. 
+Some Internet browsers may allow users to receive notifications when a website is utilizing tracking technology and may allow that user to use a "do not track" signal. There is no industry standard or agreement among industry participates as to what this "do not track" signal entails. As there is not set definition or regulation regarding this process, HugeDomains does not make any adjustments or alternations in its operating processes when a "do not track" signal is received from an Internet browser.
 
-We may [combine personal information from one service with information, including personal information, from other Google services](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/combine-personal-information.html) – for example . Depending on [your account settings](https://myaccount.google.com/?hl=en), [your activity on other sites and apps](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/your-activity-on-other-sites-and-apps.html) may be associated with your personal information in order to improve Google’s services and the ads delivered by Google. 
+**Corporate Reorganization**
 
-We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
+If HugeDomains were to merge with another company or if HugeDomains is involved in an acquisition or sale of all a substantial portion of assets, or other similar sale transaction, your information will be transferred as part of that transaction and you will be notified by email and/or notice on HugeDomains website of any such transfer and any choices you may have regarding your information.
 
-Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
+**Contact Information**
 
-## Transparency and choice
+If you have any other questions about this Privacy Policy, the practices of HugeDomains you may use the contact us form on this web site to request additional information, or you can reach us  by phone at +1 (303) 893-0552 or by email at sales@hugedomains.com 
 
-People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
+\---
 
-  * [Review and update your Google activity controls](https://myaccount.google.com/privacy?hl=en#accounthistory) to decide what types of data, such as videos you’ve watched on YouTube or past searches, you would like saved with your account when you use Google services. You can also visit these [controls](https://myaccount.google.com/privacy?hl=en#toolsyoucanusenow) to manage whether certain activity is stored in a cookie or similar technology on your device when you use our services while signed-out of your account. 
-  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
-  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your preferences about the Google ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also opt out of certain Google advertising services here. 
-  * [Adjust](https://support.google.com/plus/answer/1355890?hl=en) how the Profile associated with your Google Account appears to others. 
-  * [Control](https://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with through your Google Account. 
-  * [Take information](http://www.dataliberation.org/) associated with your Google Account out of many of our services. 
-  * [Choose](https://plus.google.com/settings/endorsements?hl=en) whether your Profile name and Profile photo appear in shared endorsements that appear in ads.
+Last Revised: July 05, 2018
 
-
-
-You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services [may not function properly](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/may-not-function-properly.html) if your cookies are disabled. For example, we may not remember your language preferences. 
-
-## Information you share
-
-Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on [sharing](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/sharing.html) and [removing your content](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/removing-your-content.html). 
-
-## Accessing and updating your personal information
-
-Whenever you use our services, we aim to provide you with [access to your personal information](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/access-to-your-personal-information.html). If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
-
-We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems). 
-
-Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
-
-## Information we share
-
-We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies: 
-
-  * **With your consent**
-
-We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info). 
-
-  * **With domain administrators**
-
-If your Google Account is managed for you by a [domain administrator](https://support.google.com/a/answer/178897?hl=en) (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
-
-    * view statistics regarding your account, like statistics regarding applications you install. 
-    * change your account password. 
-    * suspend or terminate your account access. 
-    * access or retain information stored as part of your account. 
-    * receive your account information in order to satisfy applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/legal-process.html). 
-    * restrict your ability to delete or edit information or privacy settings.
-
-Please refer to your domain administrator’s privacy policy for more information. 
-
-  * **For external processing**
-
-We provide personal information to our [affiliates](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-affiliates) or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
-
-  * **For legal reasons**
-
-We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
-
-    * meet any applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/legal-process.html). 
-    * enforce applicable Terms of Service, including investigation of potential violations. 
-    * detect, prevent, or otherwise address fraud, security or technical issues. 
-    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
-
-
-
-[non-personally identifiable information](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly [to show trends](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/to-show-trends.html) about the general use of our services. 
-
-If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
-
-## Information security
-
-We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
-
-  * We encrypt many of our services [using SSL](https://support.google.com/websearch/answer/173733?hl=en). 
-  * We offer you [two step verification](https://www.google.com/intl/en/landing/2step/) when you access your Google Account, and a [Safe Browsing feature](https://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
-  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
-  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
-
-
-
-## When this Privacy Policy applies
-
-Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including YouTube, services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
-
-Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
-
-## Compliance and cooperation with regulatory authorities
-
-We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/frameworks/). When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
-
-## Changes
-
-Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
-
-## Specific product practices
-
-The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
-
-  * [Chrome and Chrome OS](https://www.google.com/chrome/intl/en/privacy.html)
-  * [Play Books](https://play.google.com/books/intl/en/privacy.html)
-  * [Payments](https://wallet.google.com/files/privacy.html?hl=en)
-  * [Fiber](https://fiber.google.com/legal/privacy.html)
-  * [Project Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
-  * [Google Apps for Education](https://www.google.com/work/apps/terms/education_privacy.html)
-
-
-
-For more information about some of our most popular services, you can visit the [Google Product Privacy Guide](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/technologies/product-privacy/). 
-
-Further useful privacy and security related materials can be found through Google’s [policies and principles pages](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/), including: 
-
-  * Information about our [technologies and principles](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/technologies/), which includes, among other things, more information on 
-    * [how Google uses cookies](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/technologies/cookies/). 
-    * technologies we use for [advertising](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/technologies/ads/). 
-    * how we [recognize patterns like faces](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/technologies/pattern-recognition/).
-  * A [page](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/partners/) that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products. 
-  * The [Privacy Checkup](https://myaccount.google.com/privacycheckup/1?hl=en) tool, which makes it easy to review your key privacy settings. 
-  * Google’s [safety center](https://www.google.com/intl/en/safetycenter/), which provides information on how to stay safe and secure online.
-
-
+Copyright 2005-2019 HugeDomains.com. All Rights Reserved.
