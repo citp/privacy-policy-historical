@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physicsforums.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531135704id_/https%3A//www.physicsforums.com/help/member-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physicsforums.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231092639id_/https%3A//www.physicsforums.com/help/member-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Physics Forums | Science Articles, Homework Help, Discussion
 
@@ -38,8 +38,7 @@ Please see <https://www.google.com/analytics/> for more information.
 Physicsforums.com uses Google Adsense for ad publishing.  
 Please see <https://www.google.com/adsense/> for more information.
 
-Physicsforums.com uses Viglinks for affiliate linking.  
-Please see [https://www.viglink.com](https://www.viglink.com/) for more information.
+Physicsforums.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. 
 
 **Policy on release of data derived from page logs**
 
@@ -60,9 +59,6 @@ An email address is required to create a new member account on Physicsforums.com
 **User data**
 
 Data on users, such as the times at which they posted and the number of posts they have made, are publicly available. In contrast, information about threads and posts read by users is not publicly available. This information is stored both in the cookies in your browser (if you are logged in), and on the server in the form of web server logs. Neither form of information is publicly available.
-
-For the Tapatalk PF mobile app for iOS and android, please see this policy on user data  
-<https://tapatalk.com/byo-privacy-policy.php>
 
 **Right to data portability  
 **  
