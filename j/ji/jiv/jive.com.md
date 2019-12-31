@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the jive.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630151644id_/https%3A//www.logmeininc.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jive.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231045234id_/https%3A//www.logmeininc.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LogMeIn
 
-Last Updated on January 1, 2018
+Last Updated on January 1, 2018  
+Reviewed on November 30, 2018
 
 **Introduction**
 
