@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the homepriceguide.com.au privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626224151id_/https%3A//www.domain.com.au/group/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepriceguide.com.au privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231044518id_/https%3A//www.domain.com.au/group/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Domain Group
 
-You have come through to this page from a website or app which is published by Domain Holdings Australia Limited (ABN 43 094 154 364) of 55 Pyrmont Street, Pyrmont NSW 2009 ( **Domain** ) or one of its subsidiaries.
+You have come through to this page from a website or app which is published by Domain Holdings Australia Limited (ABN 43 094 154 364) of Level 5, 100 Harris Street, Pyrmont NSW 2009 ( **Domain** ) or one of its subsidiaries.
 
 In this Privacy Policy, **Domain Group** , **us** , **we** or **our** means Domain and its related bodies corporate, partnerships and joint venture entities. Domain Group is the operator of the network (which includes our websites and apps) and the data controller for the personal information collected and processed via the network. 
 
@@ -38,10 +38,10 @@ We may collect the following types of personal information;
   * age or birth date;
   * profession, occupation or job title; 
   * gender;
-  * financial and transaction information; 
+  * financial and transaction information (including information about your assets, financial situation and claims history);
   * information about your interactions with us;
-  * information about the products and services you have purchased from us or which you have enquired about, together with any additional information necessary to deliver those products and services or to respond to your enquiries; 
-  * information relating to you that you provide to us directly through our network or indirectly through use of our network or online presence through our representatives or otherwise; 
+  * information about the products and services you have purchased from us or which you have enquired about, together with any additional information necessary to deliver those products and services or to respond to your enquiries;
+  * information relating to you that you provide to us directly through our network or indirectly through use of our network or online presence through our representatives or otherwise;
   * information you provide to us through our service centre, customer surveys or visits by our representatives from time to time; and/or
   * other personal information we may require from time to time to manage your business relationship with us.
 
@@ -130,7 +130,8 @@ We may disclose your personal information to a number of third parties in the co
 
   * our employees, related bodies corporate, business partnerships and joint venture entities; 
   * our external service providers including without limitation web hosting providers, advertisers, IT systems administrators, mailing houses, newsagents, couriers, payment processors, photographic analysers, data entry service providers, electronic network administrators, debt collectors, and professional advisers such as accountants, solicitors, business advisors and consultants;
-  * our existing or potential agents and/or business partners; 
+  * our existing or potential agents and/or business partners;
+  * insurers, reinsurers, intermediaries and claims assessors; 
   * our sponsors, or promoters of any competition that we conduct or promote via our services; 
   * specific third parties authorised by you to receive information held by us;
   * the police, any relevant government authority or enforcement body, or your Internet Service Provider or network administrator, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary; 
@@ -160,10 +161,8 @@ Please contact our Privacy Officer at:
 
 Privacy Officer  
 Domain Holdings Australia Limited  
-55 Pyrmont Street  
+Level 5, 100 Harris Street  
 Pyrmont NSW 2009
-
-Tel: 02 9254 3000
 
 Email: privacy@domain.com.au
 
@@ -171,11 +170,9 @@ Email: privacy@domain.com.au
 
 We may disclose your personal information to entities located overseas for some or all of the purposes listed above.  This may include disclosure to the following entities:
 
-    * our related bodies corporate, partnerships and joint venture entities; 
-    * our data hosting and Cloud-based IT service providers; and
-
-
-  * **other external service providers including those located in the U.K, U.S and India.   **
+  * our related bodies corporate, partnerships and joint venture entities; 
+  * our data hosting and Cloud-based IT service providers; and
+  * **other external service providers including those located in the U.K, U.S, Philippines and India.    **
 
 
 
@@ -225,4 +222,4 @@ Our website may contain links to other websites operated by third parties. We ma
 
 **Changes to our Privacy Policy**
 
-We may, from time to time, review and update this Privacy Policy, including taking account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recent updated Privacy Policy. Any updated versions of this Privacy Policy will be posted on our website. This Privacy Policy was last updated in February 2019.
+We may, from time to time, review and update this Privacy Policy, including taking account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recent updated Privacy Policy. Any updated versions of this Privacy Policy will be posted on our website. This Privacy Policy was last updated in September 2019.
