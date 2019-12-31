@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the behindthevoiceactors.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519042055id_/https%3A//www.behindthevoiceactors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the behindthevoiceactors.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231014423id_/https%3A//www.behindthevoiceactors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Behind The Voice Actors
 
