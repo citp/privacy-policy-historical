@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dress-for-less.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618082724id_/https%3A//www.dress-for-less.com/help%23Privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dress-for-less.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231150422id_/https%3A//www.dress-for-less.com/help%23Privacy%2520policy) for the most accurate reproduction.*
 
 # Help at DFL
 
@@ -280,7 +280,7 @@ For further information, please visit <http://www.econda.de/>.
 
 #### 5\. Emarsys Webextend
 
-We use the cookie/pixel tag Webextend of Emarsys eMarketing Systems AG Hans-Fischer-Straße 10, 80339 Munich to produce newsletters tailored to your interests. To do this, we use available information, such as receipt and read confirmations from emails, information about computers and internet connections, operating system and platform, your internet history, date and time of the visit to the homepage, or products/items you have looked at. In principle, we use this information in a pseudonymised form, but also to send you newsletters related to your areas of interest, if required.
+We use the cookie/pixel tag Webextend of Emarsys eMarketing Systems AG Hans-Fischer-Straße 10, 80339 Munich to produce newsletters tailored to your interests. To do this, we use available information, such as receipt and read confirmations from emails, information about computers and internet connections, operating system and platform, your internet history, your order history, date and time of the visit to the homepage, or products/items you have looked at. In principle, we use this information in a pseudonymised form, but also to send you newsletters related to your areas of interest, if required.
 
 You can opt out of data processing by Emarsys Webextend by clicking [here](https://www.scarabresearch.com/privacy/). By clicking on the box under figure 6 (opt-out), an opt-out cookie is placed with the effect that in future no data about your usage behaviour on our website is collected and stored by Emarsys. The opt-out cookie is only valid in this browser and only for our website, and is placed on your device. If you delete the cookies in this browser, you will need to place the opt-out cookie again.
 
