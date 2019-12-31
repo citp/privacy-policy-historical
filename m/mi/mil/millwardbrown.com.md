@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millwardbrown.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624090521id_/http%3A//www.millwardbrown.com/footer/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millwardbrown.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231205058id_/http%3A//www.millwardbrown.com/footer/privacy-terms) for the most accurate reproduction.*
 
 # Privacy & Terms
 
@@ -140,7 +140,7 @@ We are required by law to keep your personal data only for as long as is necessa
 
 ### Your Rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [webmaster@millwardbrown.com](mailto:webmaster@millwardbrown.com)
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [webmaster@kantar.com](mailto:webmaster@kantar.com)
 
 You also have the following rights in relation to your personal data (some of these rights apply only in certain circumstances, and some of them vary according to the legal basis on which we are processing your data – please see above for further details):
 
@@ -152,7 +152,7 @@ You also have the following rights in relation to your personal data (some of th
 
 
 
-If you’re not happy with how we’ve dealt with your personal data, we’d like a chance to put it right – please contact us at [webmaster@millwardbrown.com](mailto:webmaster@millwardbrown.com) . However, you have the right to complain to a supervisory authority – the authority for the UK is the Information Commissioner ([www.ico.org.uk](http://www.ico.org.uk/)).
+If you’re not happy with how we’ve dealt with your personal data, we’d like a chance to put it right – please contact us at [webmaster@kantar.com](mailto:webmaster@kantar.com) . However, you have the right to complain to a supervisory authority – the authority for the UK is the Information Commissioner ([www.ico.org.uk](http://www.ico.org.uk/)).
 
 ### Children Data Collection
 
@@ -180,7 +180,7 @@ This privacy policy was last updated on 25 May 2018. Any changes we may make to 
 
 ### Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [webmaster@millwardbrown.com](mailto:webmaster@millwardbrown.com) .  
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [webmaster@kantar.com](mailto:webmaster@kantar.com) .  
 You can also contact our data protection officer (DPO), Gillie Abbotts-Jones, at [info@kantar.com](mailto:info@kantar.com) .
 
 ## **Terms**
