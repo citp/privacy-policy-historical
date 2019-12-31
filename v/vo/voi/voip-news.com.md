@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voip-news.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235531id_/https%3A//www.ziffdavis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voip-news.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231230756id_/https%3A//www.ziffdavis.com/privacy-policy) for the most accurate reproduction.*
 
 # ZIFF DAVIS, LLC PRIVACY POLICY » Ziff Davis » Leaders in Tech, Gaming, Healthcare & Shopping
 
@@ -37,6 +37,9 @@ This Privacy Policy covers information collected through the following websites 
   * [DemandShore](https://www.demandshore.com/), [Technology Signals](https://www.technology-signals.com/)
   * [Ziff Davis Data](http://www.ziffdavisdata.net/)
   * [Best Black Friday](https://bestblackfriday.com/)
+  * [Deals of America](https://dealsofamerica.com/)
+  * [The Black Friday](https://theblackfriday.com/)
+  * [Best Gifts](https://bestgifts.com/)
 
 
 
@@ -51,6 +54,8 @@ Applications:
   * IGN App For Dead Space 3
   * PC Magazine
   * TechBargains
+  * Deals of America
+  * The Black Friday
 
 
 * **What Categories of Information We May Process**
