@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileformat.info privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522020438id_/http%3A//www.fileformat.info/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileformat.info privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231205438id_/https%3A//www.fileformat.info/about/privacy.htm) for the most accurate reproduction.*
 
 # FileFormat.Info Privacy Policy
 
