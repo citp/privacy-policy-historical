@@ -1,195 +1,94 @@
-> *The following text is extracted and transformed from the pjmedia.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410115438id_/https%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pjmedia.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231064553id_/https%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PJ Media
+# 
 
-In addition to the Privacy Policy and Rights applicable to all users of our Websites, California residents have some additional rights.
+**PRIVACY POLICY** ****
 
-If you are a California resident and you provided your email address to PJ Media, LLC ("PJM,” “Us” or “We”), then, once each calendar year, you may submit a written request for information about the information we shared, if any, with other companies for their use in direct marketing. To submit your written request, please send an E-mail to [webmaster@pjmedia.com](mailto:webmaster@pjmedia.com) with "Request for California Privacy" in the subject line.
+_(Effective and Last Modified November 5, 2019)_
 
-Within 30 days of receiving your request, we will send you a list of the names and addresses of these other companies during the immediately preceding calendar year.
+This website is a service of Salem Media Group, Inc. together with its subsidiaries, affiliates, agents and licensees (collectively “we,” “us,” or “our”). We have adopted this privacy policy (“Privacy Policy”) to explain what information may be collected when you access this website or any other website on which we place this Privacy Policy (“Website”), use our online or other services, or use any of our mobile or other applications (each, an “App”), how we and others use this information, under what circumstances we may disclose the information to third parties, and the instances in which we may allow third parties to collect information directly.  Depending on your activities when using or accessing our Website or App (collectively, the “Services”), you may from time-to-time be required to agree to additional terms and conditions. For clarity, our Services include any promotion which refers to this Privacy Policy for terms regarding the collection and use of your information.
 
-We reserve our right not to respond to requests sent more than once in a calendar year, or requests submitted to an address other than the one posted in this notice.
+Please note that this Privacy Policy applies only to information we collect from you through our Services and does not apply to our collection of information through other methods (e.g., in person at our restaurants, over the telephone, etc.), information provided to us by third parties, or information you provide to third parties.
 
-Please note that the California "Shine the Light" law does not cover all information sharing. Our disclosure only includes information covered by the law.
+**_Modifications to this Privacy Policy_**
 
- **PJ MEDIA PRIVACY POLICY**
+We generally keep this Privacy Policy posted on our Website and in our App.  You should review this Privacy Policy frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy.  WHEN YOU USE OUR SERVICES, YOU AGREE TO THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP USING OUR SERVICES.  Please note, however, that if we decide to use your personally identifiable information in a manner materially different than what is provided in this Privacy Policy or what we advised at the time it was collected, we will notify you of this change by e-mail to the last e-mail address provided to us or through our Applications. You will have a choice (by means of an “opt out” opportunity) as to whether we use their information in this different manner.  In such case, we will use your personally identifiable information in accordance with the terms in place when the information was collected.
 
-This policy was last updated June 2013
+  
+**A.         INFORMATION WE COLLECT  
+**
 
- **GENERAL**
+We typically collect two kinds of information about you when you use our Services: (1) information that you provide that personally identifies you; and (2) information that does not personally identify you that we automatically collect or that you provide us.  
 
-PJ Media, LLC., dba PJMedia, PJTV and Next Generation (“PJM”), is committed to maintaining the privacy of personal information that you provide to us when using [www.PJMedia.com](http://pjmedia.com/), [www.PJTV.com](http://www.pjtv.com/) and [NextGeneration.TV](http://www.nextgeneration.tv/)(the “Site” or “Sites”). The term Site includes any additional websites we may subsequently implement. This Privacy Policy describes how we treat personal information received about you when you visit or become a member of any of our Sites.
+**(1)   Personally Identifiable Information:  **Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, mail address, phone number, etc.  As a general policy, we do not automatically collect your personally identifiable information when you use our Services.  In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Services.  For instance, you may: (a) provide your name, mail/shipping address, email address, credit card number and phone number when registering with our App or Website, or in connection with your participation in a promotion; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when using our App, or participating in a survey or poll; or (c) post a general comment and/or recommendation through our Services.  Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name).  Whether you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content or features available through our Services. 
 
-We may make content or services from other websites available to you from links located on the Sites. These other websites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such website to determine how that site protects your privacy.
+**(2)   Non-Personally Identifiable Information:**  Our definition of non-personally identifiable information is any information that does not personally identify you.  Non-personally identifiable information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous.  We obtain non-personally identifiable information about you from information that you provide us, either separately or together with your personally identifiable information.  We also automatically collect certain non-personally identifiable information from you when you access use our Services.  This information can include, among other things, the computer, mobile device or equipment (“Device”) you are using, other applications or software you are using, your mobile carrier and mobile network information, your IP addresses or Device identifier, the type of browser (e.g., Safari, Opera, etc.) and operating system you are using (e.g. Android, iOS, etc.), your search queries, and how much you use our Services.
 
- **NOTICE CONCERNING CHILDREN**
+**_Location Information:_**   As noted, when you use our Services, particularly our App, we may automatically collect certain Device-specific information.  This includes the general or specific location of your Device through GPS, Bluetooth or WiFi signals.  Before we collect or send location-specific information, it is our practice to ask for your consent.  In some instances, your operating system may not allow you to install our App unless you provide consent. In all instances, you may withdraw your consent by disabling location features for your Device – the App will still work though certain location features (e.g., Store Locator) may not function and certain other Services may be limited.
 
- **PLEASE NOTE** : We are general audience Sites, and do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children’s privacy online. If we learn or have reason to suspect that a Site user is under age 13, we will promptly delete any personal information in that user’s account.
+**B.         HOW WE USE & SHARE THE INFORMATION COLLECTED**
 
- **INFORMATION WE COLLECT**
+**(1)   Personally Identifiable Information:** The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information.  We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“affiliated companies”), or to communicate with you about content or other information you have posted or shared with us via use of our Services. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below. However, the use of certain Services may be conditioned on your ongoing consent to provide you promotional information.
 
- **General** : When you register, and at other times, we will collect information from you.  This information falls into two main categories: Personally Identifiable Information and Non-Personally Identifiable Information.
+In certain instances, we may also share your personally identifiable information as follows:
 
- **Personally Identifiable Information (PII)** is any information collected through the Sites that identifies or can be used to identify, contact, or locate you.  PII would include your full name, address, and credit-card number.  PII may include your email address if you have chosen not to use an anonymous email address (e.g.,: some people have their full name in their email address, or have a personal website URL in their email address). Your email address is your “User Name” on our websites. It is not visible to other users. In some states even an anonymous email address is considered PII.  PII may include your Screen Name, if you have chosen not to use an anonymous screen name. Your Screen Name is visible to other users when you post comments.
+·         With our third-party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that operate the Website or App, process credit card orders, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc.  Our vendors agree to use this information, and we share information with them, only to carry out our requests; and
 
-We do not knowingly collect PII from children under the age of eighteen.
+·         With participating third-party sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Services and certain third-party co-promotional partners and others with whom we have marketing or other relationships.
 
-Although PII is collected through our Sites, your billing information (full name, address and associated credit card number) are not stored on our servers.  We use the services of Paypal to process credit card payments.  Please refer to Paypal’s privacy statement which can be found [here](https://cms.paypal.com/us/cgi-bin/marketingweb?cmd=_render-content&fli=true&content_ID=ua/Privacy_full&locale.x=en_US) for information about the storage of your name, address and credit card information.
+Except as provided in this Privacy Policy, your personally identifiable information will not be shared or sold to any third parties without your prior approval. 
 
-Your email address and user password are stored on our server. We also collect other non-PII facts about your computers, profession, interests and similar information.
+**(2)   Non-Personally Identifiable Information:** We use non-personally identifiable information in a variety of ways.  For example, we may use non-personally identifiable information to evaluate use of our Services, track the types of products being purchased, gauge coupon or offer redemption rates, understand customer needs and trends, carry out targeted promotional activities, and to improve our Services. We may use your non-personally identifiable information by itself or aggregate it with information we have obtained from other customers or other sources. We may, among other things, share your non-personally identifiable information with our affiliated companies, allow third parties to collect such information directly from you, and/or sell the non-personally identifiable information to third parties to achieve these and any other business objectives (e.g., generate revenue, form relationships, etc.).  However, it is important to remember that your non-personally identifiable information (whether standing alone or combined with other non-personally identifiable information) is anonymous information that does not personally identify you.
 
- **Surveys:** We may conduct occasional online surveys. For example, when you’re within one of our Sites, you may see a pop-up window or button offering you the optional opportunity of participating in a survey. These surveys are entirely voluntary and you may easily decline to participate.  If you do participate, you may be asked to provide additional information.
+**C.         TRACKING TECHNOLOGIES**
 
- **Site Usage Information:** We automatically collect IP addresses and Site usage information from you when you visit the Sites . This information helps us evaluate how our visitors and members use and navigate our Sites including the number and frequency of visitors and members to each Web page, and the length of their visits.
+**(1)   Cookies/Web Beacons. **We automatically receive and store certain types of non-personally identifiable information whenever you interact with us. For example, like many websites, we use “cookies,” “web beacons” (also called “clear gifs” or “pixel tags”) and embedded scripts to obtain certain types of information when you use or access our Services. “Cookies” are small files that we transfer to your computer’s hard drive or your web browser memory to enable our systems to recognize your browser and to provide convenience and other features to you. “Web beacons” are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movements of users, when an email has been opened, and to provide other information.
 
-Additionally we may collect usage information that is tied to Personally Identifiable Information for purposes of subscription tracking and enforcement, for special features, or to provide enhanced member products and services.
+Examples of the information we collect and analyze in this manner include the Internet Protocol (IP) address used to connect your Device to the Internet; computer and connection information such as browser type and version, operating system, and platform; your activities our Website, including the products you view or searched for, as well as the URL you come from and go to next (whether this URL is on our Website or not); and cookie number.  **It is important to note that the cookies and web beacons that we use do not contain and are not tied to personally identifiable information about you.**
 
- **Help Desk Information:** Should you contact our Customer Support System with a question or technical concern, we will create and then store a customer support “ticket” that you will fill out.  This is your support profile.  This profile may include first name, last name, phone number, email address, and if needed to address your concern, city/state/zip and address.
+If you are concerned about the storage and use of cookies, you may block or limit the storage of cookies via browser controls or other software (we do not promise that our Services will recognize or work with any such browser controls/software – e.g., see below for Do Not Track options).  You may also be able to delete cookies manually from your Device through your internet browser, operating system or other programs.  Please note, however, that some portions of our Services will not function properly or be available if you are able and do block and/or delete cookies.
 
- **HOW WE USE INFORMATION COLLECTED**
+  
+**(2)  Preference Based Advertising: **We may work with third parties, including advertising companies and website analysis firms, who use cookies and web beacons to collect non-personally identifiable information when you visit our Website and third party sites. This non-personally identifiable information, collected through cookies and web beacons, is typically used by these third-party advertising companies (i.e., advertising networks) to serve you with advertisements while on third party sites tailored to meet your preferences and needs.  If you do not wish to participate in this activity, go to [www.aboutads.info](http://www.aboutads.info/) and follow the simple opt-out process.
 
-We may use information in the following ways:
+A couple of important notes about this opt-out tool: (1) it includes all the advertising networks that we may work with, but also many that we do not work with; and (2) it may rely on cookies to ensure that a given advertising network does not collect information about you (“Opt-out Cookies”) – an explanation of how Opt-out Cookies work can be found on [www.aboutads.info](http://www.aboutads.info/).  Therefore, if you use different Device, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the opt-out task again. In addition, third party mobile applications, such as AppChoices (offered by the Digital Advertising Alliance), may allow you to opt out of preference based advertising via your Device.
 
-  * Credit card information is used only to process, validate and verify memberships and subscriptions;
-  * For any purpose, if we announce the purpose in advance;
-  * To provide notifications about new or existing products and services, special offers from us and from third-party providers, through email, pop-ups or other technology;
-  * To provide advertisements to you through the Sites, email messages, text messages, applications, or other methods of communication;
-  * To operate and enhance existing features or develop new features, products and services;
-  * To provide Third Party Service Providers (see description of Third Party Service Providers, below) with aggregate information about our user base and usage patterns;
-  * To allow us to personalize the content that you and others see based on personal characteristics or preferences.
+**(3) Do Not Track Features:  **Certain internet browsers may offer you the option of providing notice to websites that you do not wish for your online activities to be tracked for preference based advertising purposes (“DNT Notice”). Some browsers are, by default, set to provide a DNT Notice, whether that reflects your preference. Please note that with respect to our Website, we do not take any action based on browser based DNT Notices. If you do not wish to participate in preference based advertising activities, you should follow the simple opt-out process identified above. ** **
 
+**D.         OTHER USES & INFORMATION**
 
+( **1)   Email Communications:  **If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference.  For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information, to us by email.  However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us (e.g., product updates, customer support, etc.), we are sending you information about our other products and services, or you consented to being contacted by email for a particular purpose. In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, agree to some communications but not others. You may “opt out” of receiving future commercial email communications from us by clicking the “unsubscribe” link included at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications.
 
-We may combine the information that we collect from you on the Sites with information that you provide to us in connection with your use of our other products, services and Sites.
+**(3)  Transfer of Assets:**  As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and non-personally identifiable information we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
 
-We may also share our membership list with organizations which provide information, services or products from which we believe our members will benefit. Information on canceling any account or opting out of our email lists can be found in the “Your Rights” section below.
+**(4)  Other:** Regardless of any other provision in this Privacy Policy, we reserve the right to disclose any personally identifiable or non-personally identifiable information about you if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Services, or other users; or (d) in an emergency to protect the health and safety of our customers or the general public.
 
-We may hire other companies to perform services on our behalf including, without limitation, facilitating some aspects of the Sites, serving advertisements, sending e-mail, and fulfilling purchase requests. These other companies may be supplied with or have access to your Personally Identifiable Information solely for the purpose of providing these services to us or on our behalf.  Please see the following provider privacy policies:
+**E.         PUBLIC FORUMS**
 
-  *  **[Publir Privacy Policy](http://www.publir.com/privacy.html)**
-  * [ **Google Analytics Privacy Policy**](http://www.google.com/intl/en/policies/privacy/)
-  * [ **PayPal Privacy Policy**](https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US)
-  * [ **LiveIntent Privacy Policy**](http://www.liveintent.com/privacy-policy/)
-  * [ **NewsMax Privacy Policy**](http://www.newsmax.com/PrivacyStatement)
+We may offer Services with chat rooms, blogs, message boards, bulletin boards, the ability to post user generated content or similar public forums where you and other users of our Services can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums.  We may use personally identifiable and non-personally identifiable information about you to identify you with a posting in a public forum.  Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Services.
 
+**F.          SPECIFIC PRIVACY RIGHTS**
 
+**(1) Children:**  Neither our App nor any of our other Services are intended for children under the age of 13.  We do not knowingly collect personally identifiable information from children under the age of 13.  If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us, please contact Scott Hunter at  _[scott.hunter@salemmedia.com](mailto:scott.hunter@salemmedia.com)_.  A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit the use of that information.
 
-We may use third parties, called Third Party Service Providers, to provide premium features such as links to sources of additional information or to conduct surveys. These Third Party Service Providers may be supplied with or have access to your Personally Identifiable Information solely for the purpose of providing these services to us or on our behalf. They may also collect additional Personally Identifiable Information directly on their websites. They may also collect and use non-Personally Identifiable Information about your visits to the Sites and other websites in order to present custom information that may be of interest to you.  If you would like more information about this practice or to opt out of having this information used by some Third Party Service Providers, [please visit here](http://www.networkadvertising.org/optout_nonppii.asp).
+**(2) California:**  Beginning January 1, 2005, California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us by clicking the  _Contact Us_  link on our Website.
 
-We may disclose and use Personally Identifiable Information and other information in special circumstances where it is necessary to enforce our User and Member Agreement or Terms of Service (for example, when necessary to protect our intellectual property rights). We may also disclose or use your Personally Identifiable Information as well as other information when we, in good faith, believe that the law requires us to do so.
+**G.         KEEPING YOUR INFORMATION SECURE**
 
- **USER CONTENT**
+We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control.  Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online or through our Services, and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.
 
- **Comments:** The Comments section of any Site provides you with an opportunity to tell us what you think about our content, and read what other readers have to say, and possibly to upload other content such as user-generated videos. When you register to use our comments feature, you are giving us the right to make your comments public and to make public the screen name you choose.
+**H.         THIRD PARTY DATA/SERVICES**
 
- **Other User Submitted Content:** We may provide you with the opportunity to submit other content to our Sites for viewing by our readers, such as videos, photographs, blog posts or articles.  If you choose to submit material to us, we may ask for information about you and the material you submitted.  We may make public any information that you provide including your name, location and e-mail address.
+**(1)   Social Networks.** We may allow you to register for an account with us by using an account you have with a social network or other third-party, such as Facebook, Google, Twitter, etc. (“Social Network Account”).  In such instances, we may receive and you are granting us access to certain information regarding your Social Network Account (e.g., friends, mutual friends, contacts, etc.). We may make this information available on or through the Services and to our users.  You may be able to restrict what information is shared and how it is used through privacy and other settings.  Also, depending on the privacy settings you have set in your Social Network Account, personally identifiable information may be shared with us and made available through the Services and to our users.
 
- **Other User Submitted Information:** We may provide you with the opportunity to submit and save information relating to our Sites and various areas on our Sites, such as books you’ve read, movies seen, reviews, etc. Submitting this information is voluntary. You will be told which information is visible to either other users of that area, or the public. Please read this information carefully so you can choose whether you wish to submit this information or not.
+**(2)   Third Party Services.** Our Services may link to, contain links to or embed functionality provided by third parties, such as reward programs, surveys, etc. (“Third Party Services”).  We do not control or maintain Third Party Services, nor are we are not responsible for the privacy practices employed by any provider of a Third Party Service. We encourage you to read the privacy statements applicable to all Third Party Services before submitting any personally identifiable information through these websites.
 
- **MEMBER MESSAGES**
+**I.           CONTACT & OPT-OUT INFORMATION**
 
-If you subscribe to any members-only area of the Sites, to special email lists, or to any other voluntary subscription-based program, you may occasionally receive email messages about the Sites that are intended to assist you in making the most out of your subscription. These member messages contain a link that you may use to opt out of receiving further member messages. You may also decline to receive them by contacting [support@pjmedia.com](mailto:support@pjmedia.com).
+You may contact us as via the  _Contact Us_  link on the Website if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
- **YOUR RIGHTS**
+We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Services. 
 
- **Ability To Choose:** You may, of course, decline to submit Personally Identifiable Information through the PJM Sites, in which case we may not be able to provide all of our services to you. You may update or correct your personal profile information and email preferences at any time by visiting your profile page. Please note that media files uploaded by you cannot be removed and remain subject to our User and Member Agreement and Terms of Service.
+**J.          SOLE STATEMENT**
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
-
-If you would like more information about opting out or having your information used by some Third Party Service Providers, [please visit here](http://www.networkadvertising.org/optout_nonppii.asp).
-
- **How to Review, Correct or Delete Your Information:** You may review, and update the Personally Identifiable Information/registration information that you have provided to us by contacting Customer Service at [support@pjmedia.com](mailto:support@pjmedia.com). You may also delete your account through Customer Service at the links provided.
-
- **Email and Newsletter Opt-Out:** We give our users the option to sign up for email lists and newsletters.  However, you may change your mind about a subscription, or we may make a mistake and add you to a mailing list you didn’t request.  In either case, you can always click on the “opt-out” link at the bottom of each email or newsletter we might send.
-
- **COOKIES AND WEB BEACONS**
-
-We employ cookie technology. Read our Cookie Disclosure Statement for more information about our use of cookies. We use web beacons (invisible images often referred to as pixel tags or clear GIFs) on our Sites in order to recognize users and assess traffic patterns. We also include Web beacons in our e-mail messages including newsletters in order to count how many e-mail messages have been opened.
-
- **THIRD PARTY CONTENT ON THE SITES**
-
-When you view any third party content such as a survey or supplemental references on our Sites or on other sites, our Third Party Service Provider may place or recognize a unique cookie on your browser. The Sites and our providers may also use Web beacons (invisible images often referred to as pixel tags or clear GIFs) to note which Services pages you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track response to our advertising efforts.
-
- **SECURITY**
-
-The Personally Identifiable Information we collect about you is stored in limited-access servers. We will maintain safeguards to protect the security of these servers and your Personally Identifiable Information.
-
- **DATA RETENTION**
-
-We retain your information for as long as necessary to permit us to use it for the purposes that we have communicated to you and comply with applicable law or regulations.
-
- **POLICY MODIFICATIONS**
-
-When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of our Sites that the policy has been updated and by changing the date on this page noting when the policy was last updated.
-
- **TRANSFER TO U.S.**
-
-PJM is hosted in the United States.  If you are a member or user accessing PJM from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of PJM (which is governed by U.S. law), this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
-
- **IN THE EVENT OF MERGER, SALE, OR BANKRUPTCY**
-
-In the event that PJM is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our members and users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.
-
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [support@pjmedia.com](mailto:support@pjmedia.com).
-
- **COOKIE DISCLOSURE STATEMENT**
-
-Cookies are a common type of technology used by most large websites.  The following is information that will help you understand the use of cookies.
-
- **What's a cookie?**
-
-A cookie is a small file that is sent to your computer by a site’s server. A cookie can be a record of your visit to a site, including information such as your User Name, registration information, time of last visit, pages viewed, etc. A cookie created by one site’s servers can be retrieved only by that site’s servers. Thus, information in the PJM cookies is not accessible to other sites. This type of cookie is called a “first party” cookie.
-
-There is another type of cookie called a “third party” cookie. If you are using website A, and website A uses the services of website B, and if website B were to leave a cookie on your machine, that would be considered a “third party” cookie because you are not using website B directly.  Some browsers, for example Internet Explorer, are configured to disallow third party cookies by default.
-
- **Using PJM**
-
-In order to access PJM successfully, your browser must be set to “accept all cookies.” You can later block cookies from other individual sites if you wish.
-
-If you set your browser to “not accept” any cookies, or if you block our cookies, you will not be able to register or sign in to the Sites because we use cookies to keep track of your sign-in status. We also use cookies to implement the “remember me” feature, which allows you to return to the Sites without having to log in each time. We do this by saving an encrypted version of your credentials in a cookie.
-
-If your browser is not set to accept cookies, then you can still use the Sites, but only as a visitor. Visitors have a limited number of videos that they can watch before registering, so if your browser is not set to accept cookies, you will not be able to watch those additional videos once you reach this limit. Also, if you cannot register you cannot subscribe to the Sites.
-
-We also suggest that you do not navigate the Sites with your browser’s “cookie alert” feature enabled. While you certainly could set your browser to alert you each time a cookie is passed to your machine, you most likely will find the experience of having to respond to frequent cookie alerts quite frustrating while trying to enjoy your subscription. We suggest that you turn the “cookie alert” feature off, or perhaps use the Sites for a short time with it on, once you’ve seen firsthand how we use the technology.
-
- **Why do we use cookies?**
-
-We use cookies to allow you to move quickly through our Sites. We accomplish this in many ways, using several different cookies. When you first enter our Sites, for example, we use a test cookie to confirm your browser’s ability to retain cookies. Next, we check our database to verify your subscription so you can gain access. A cookie is then temporarily “set” within your browser to allow you to proceed without having to confirm your identity with each subsequent page you request to view.
-
-Without cookie technology, we would not be able to offer you convenient features such as the ability to store your User Name and Password so that you won’t have to sign in each time you come to the Sites.
-
-We use P3P to allow the use of third party cookies within the family of PJM Sites. P3P (Platform for Privacy Preferences Project) is a protocol that allows websites to declare their intended use of information they collect about web browser users. When this is done some of the default restrictions against third party cookies are relaxed. We do this to allow all of our Sites to use a single database of user information , so that once you register with one of our Sites, you will be able to sign in to any of our Sites.
-
-Other cookies that you may receive during your sessions here are from actual Third Party Service Providers. These Third Party Service Providers may use their own cookies in order to serve surveys or premium content on our Sites.
-
- **Third party cookie information for emails.**
-
-We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to <http://aboutads.info/choices> or <http://www.networkadvertising.org/choices/>
-
-Additionally, emails we send may contain a bit of code known as a "web beacon." This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images "off" in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.”
-
- **So what's in it for our members?**
-
-Here's a quick rundown of what we see as the biggest advantages of using cookies:
-
-  * Universal sign in. Once you register with one of our Sites you can use these same credentials on all of our Sites.
-  * More convenient access. We won't have to ask you to identify yourself with each new page requested.
-  * Fewer Sign-ins. Using our "remember me" feature, you can return to our Sites without having to sign in each time.
-
-
-
- **Will the cookies you send me go away?**
-
-Some of our cookies are long term. If they weren’t, we’d need to ask you for certain information with each new session, such as your User Name. Some cookies do expire after a short period of time. Remember, cookies are small files and won’t pose any significant disk-space concerns on your computer.
-
-In fact, most of PJM cookies expire after 24 hours from their time of issue. Others, such as those required to retain settings you elect (User Name, Password, etc.) will continue to reside on your hard drive for subsequent use by your browser, but are quite small and should not pose any significant disk capacity concern.
-
-You are, of course, free to clear any and all cookies from your hard drive any time you wish; simply search your system for any files named cookie*.* (or similar) and delete these at your discretion. Additionally all major Internet browsers have a feature that allows you to erase cookies. This is usually found in the preferences section of your browser.  Your browser’s “Help” section should allow you to find this feature.
-
-Remember, however, that deleting these cookies means any long-term settings (such as your stored User Name) will need to be provided the next time you want to use one of the Sites.
-
-There are also a number of software and shareware programs available that are designed to periodically purge cookie files from your hard disk. We do not recommend these applications and, as such, cannot address any resulting support issues that may be related to the use of these programs.
-
-Copyright PJ Media® 2013. All Rights Reserved.
-
-http://pjmedia.com/privacy-policy 
+This Privacy Policy as posted is the sole statement of our privacy policy with respect to our Services, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website and/or App.
