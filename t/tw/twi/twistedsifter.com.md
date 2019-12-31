@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistedsifter.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627224218id_/https%3A//twistedsifter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistedsifter.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231091036id_/https%3A//twistedsifter.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY «TwistedSifter
 
