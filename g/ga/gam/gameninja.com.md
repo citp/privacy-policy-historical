@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameninja.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224359id_/https%3A//gameninja.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameninja.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231064814id_/https%3A//gameninja.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Web Games - GameNinja.com
 
