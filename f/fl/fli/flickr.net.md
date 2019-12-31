@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flickr.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224958id_/https%3A//www.flickr.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flickr.net privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231195344id_/https%3A//www.flickr.com/help/privacy) for the most accurate reproduction.*
 
-# Bantuan | Flickr
+# Help | Flickr
 
 ## Flickr Privacy Policy
 
@@ -60,7 +60,11 @@ Exchangeable Image File Format (“EXIF”) data is a record of the settings and
 
 Image Recognition Technology
 
-We use image recognition algorithms to find visually similar images as well as to help you organize your photos and make it easier to search images. This technology might identify and tag scenes, actions, objects, or public figures. Information Collected by Cookies and Other Tracking Technologies We use various technologies to collect information, including cookies, web beacons and similar technologies. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We use cookies to keep you logged in to the Services, to count the number of unique computers using the Services and to record your user preferences. We may also collect information using web beacons (also known as “tracking pixels”). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see "Your Choices" below.
+We use image recognition algorithms to find visually similar images as well as to help you organize your photos and make it easier to search images. This technology might identify and tag scenes, actions, objects, or public figures. 
+
+Information Collected by Cookies and Other Tracking Technologies
+
+We use various technologies to collect information, including cookies, web beacons and similar technologies. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We use cookies to keep you logged in to the Services, to count the number of unique computers using the Services and to record your user preferences. We may also collect information using web beacons (also known as “tracking pixels”). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see "Your Choices" below. 
 
 Information We Collect From Other Sources
 
