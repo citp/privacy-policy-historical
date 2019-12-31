@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ffiec.gov privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108203250id_/https%3A//www.ffiec.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffiec.gov privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231233033id_/https%3A//www.ffiec.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ Although questions, comments, and other communications that we receive generally
 
 **Security of the Web Site**
 
-For the security of our site and to ensure that the site remains available to all users, the FFIEC employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. See the FFIEC's [Disclaimer](https://web.archive.org/web/20190108203250id_/https%3A//www.ffiec.gov/disclaimer.htm) for additional information on this issue.   
+For the security of our site and to ensure that the site remains available to all users, the FFIEC employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. See the FFIEC's [Disclaimer](https://web.archive.org/web/20191231233033id_/https%3A//www.ffiec.gov/disclaimer.htm) for additional information on this issue.   
 
 
 **How to Contact Us about the Web Site**
