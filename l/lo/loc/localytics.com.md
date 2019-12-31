@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localytics.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224415id_/https%3A//www.localytics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localytics.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231230435id_/https%3A//www.localytics.com/privacy-policy) for the most accurate reproduction.*
 
 # Localytics Privacy Policy | Localytics
 
@@ -8,7 +8,7 @@ Localytics is committed to respecting the privacy rights of our Customers and 
 
 You should also note that Localytics may process certain PII (or information that may otherwise be considered Personal Data under applicable law) on behalf of our Customers who make use of our Service.  See the About Our Service Offering section below.  
 
-This Privacy Policy is provided in a layered format so you can click through to the specific areas set out below. Alternatively you can download a pdf version of the Policy [here](http://pages.localytics.com/rs/650-CZQ-842/images/Website%20privacy%20policy%20Localytics%2C%20052318.pdf). Please also use the Glossary to understand the meaning of some of the terms used in this Privacy Policy.
+This Privacy Policy is provided in a layered format so you can click through to the specific areas set out below. Alternatively you can download a pdf version of the Policy [here](http://pages.localytics.com/rs/650-CZQ-842/images/Localytics%20Privacy%20Policy_PrivacyShield_updatedAug2019.pdf). Please also use the Glossary to understand the meaning of some of the terms used in this Privacy Policy.
 
 ##### 1. IMPORTANT INFORMATION AND WHO WE ARE
 
@@ -63,7 +63,7 @@ This Privacy Policy is issued on behalf of the Localytics Group so when we menti
 
 If you are based outside of the EU, Char Software, Inc. d/b/a Localytics is the controller and responsible for your personal information.
 
-If you are based in the EU, the party that acts as the data controller and that is responsible for your personal information may be Char Software, Inc. d/b/a Localytics, or Localytics Limited.
+If you are based outside of the EU, Char Software, Inc. d/b/a Localytics is the controller and responsible for your personal information. Char Software, Inc. d/b/a Localytics is subject to the jurisdiction of the U.S. Federal Trade Commission.
 
 We have appointed a data privacy manager who is responsible for overseeing questions in relation to this Privacy Policy. If you have any questions about this Privacy Policy, including any requests to exercise your legal rights, please contact the data privacy manager using the details set out below.
 
@@ -73,16 +73,21 @@ Our full details are:
 
 Company:  | **Char Software, Inc. d/b/a Localytics**  
 ---|---  
-Contact: | **Charlie Case, Director of Security**  
+Contact: | **Stephen Mello, VP of Product and Engineering**  
 Email address:  | **[privacy@localytics.com](mailto:privacy@localytics.com)**  
 Postal address:  | **2 Center Plaza, 3 rd Floor, Boston, MA 02108, USA**  
 Telephone number:  | **1-800-418-0746 or 1-617-418-4422**  
   
-If you are based in the European Union, you also have the right to make a complaint at any time to your local supervisory authority for data protection issues. We would, however, appreciate the chance to deal with your concerns before you approach the regulator so please [contact us](mailto:privacy@localytics.com) in the first instance.
+  
+If you are based in the European Union, you also have the right to make a complaint at any time to your local supervisory authority for data protection issues.
+
+In addition, if you wish to express a concern or make a complaint and you do not receive timely acknowledgment, or the matter is not satisfactorily addressed, you can also submit your issue to Privacy Trust, an independent third party. Visit <https://www.privacytrust.com/drs/localytics>.
+
+Finally, as a last resort, and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
 
 #### Changes to the Privacy Policy and your duty to inform us of changes
 
-This version was last updated on May 23, 2018 and historic versions can be obtained by [contacting us](mailto:privacy@localytics.com).
+This version was last updated on September 10, 2019 and historic versions can be obtained by [contacting us](mailto:privacy@localytics.com).
 
 We reserve the right to change the terms of this Privacy Policy at any time. We will notify you of any material changes by way of a visual alert on the Site announcing that the Privacy Policy has changed, and/or by way of email to those who have provided an email address to us.
 
@@ -367,17 +372,28 @@ We require all third parties to respect the security of your personal informatio
 
 ## 6\.  International transfers
 
-If you access our Sites from the European Union, please note that we share your personal information within the Localytics Group. This will involve transferring your information outside the European Economic Area (EEA).
+If you access our Sites from the European Union, please note that we share your personal information within the Localytics Group. This will involve transferring your information outside the European Economic Area (EEA).
 
 Many of our external third parties are also based outside the European Economic Area (EEA) so their processing of your personal information will involve a transfer of data outside the EEA.
 
 Whenever we transfer your personal information out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented :
 
-• We may transfer your personal information to countries that have been deemed to provide an adequate level of protection for personal information by the European Commission. For further details, click [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
+• We may transfer your personal information to countries that have been deemed to provide an adequate level of protection for personal information by the European Commission. For further details click [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
 
-• Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal information the same protection it has in Europe. For further details, click [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en).  
+• Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal information the same protection it has in Europe. For further details, click [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en).  
 
-• Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal information shared between the Europe and the US. For further details, click [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en). Please contact us if you want further information on the specific mechanism used by us when transferring your personal information out of the EEA.
+• Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal information shared between the Europe and the US. For further details, click here. Please contact us if you want further information on the specific mechanism used by us when transferring your personal information out of the EEA. 
+
+[  
+  
+](https://www.privacytrust.com/cert/419389.html)
+
+**EU-U.S. Privacy Shield**  
+Localytics complies with the EU-U.S. Privacy Shield Framework and Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Localytics is committed to the Privacy Shield Principles and has certified to the Department of Commerce that it adheres to them. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+
+Please contact us if you want further information on the specific mechanism used by us when transferring your personal information out of the EEA.
+
+Note that in the event that we transfer to third parties personal data that we received pursuant to the EU-US Privacy Shield, we remain responsible for treatment of that data per this policy and the Privacy Shield and we will ensure that third parties treat personal data in substantially the same manner we do.
 
 ## 7\.  Data security
 
@@ -405,7 +421,7 @@ In some circumstances we may anonymize your personal data (so that it can no lon
 
 You have the right to request access to your personal information or to request that your personal data be rectified, or updated. If you are a registered user of our Site, you are also able to delete the information you have included in your profile by logging in and accessing your Localytics account. To request removal of your personal information from our blogs, community forum, or from testimonials, please [contact us](mailto:privacy@localytics.com).
 
-In the event your login or other personal information has been lost, stolen, or used without permission, you must promptly notify us ([contact us](mailto:privacy@localytics.com))to remove that personal information from your account and update our records accordingly.
+In the event your login or other personal information has been lost, stolen, or used without permission, you must promptly notify us ([contact us](mailto:privacy@localytics.com)) to remove that personal information from your account and update our records accordingly.
 
 California residents: Under California Civil Code sections 1798.83-1798.84, you are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you would like a copy of this notice, please [contact us](mailto:privacy@localytics.com).
 
@@ -470,6 +486,8 @@ External Third Parties
 • Professional advisers including lawyers, bankers, auditors and insurers based in the U.S. or Europe who provide consultancy, banking, legal, insurance and accounting services.
 
 • Regulatory authorities in any jurisdiction who may require reporting of processing activities in certain circumstances.
+
+• Law enforcement authorities upon receipt of a valid judicial instruction
 
 **EU residents** **:** if you wish to receive specific information about external third parties with which we may be sharing your personal information please feel free to contact us.
 
