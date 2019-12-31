@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630010246id_/https%3A//www.shaadi.com/shaadi-info/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231171452id_/https%3A//www.shaadi.com/shaadi-info/index/privacy) for the most accurate reproduction.*
 
 # Shaadi.com Privacy PolicyIndian matrimonial web site - free listing matrimonials - Shaadi.com
 
@@ -101,15 +101,16 @@ If we make a material change to our privacy policy, we will send an email commun
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [email us](https://web.archive.org/customer-relations/faq/write-to-us) or contact us at.
 
 **Shaadi.com**  
-People Interactive (I) Pvt. Ltd. Unit no 4, Film Centre Building , Tardeo AC Market , Tardeo, Mumbai - 400034 Phone: 1860-200-3456 (Standard Charges apply)
+People Interactive (I) Pvt. Ltd. Unit no 4, Film Centre Building , Tardeo AC Market , Tardeo, Mumbai - 400034 Phone: +91-7862889999 (Standard Charges apply)
 
 OR
 
 Contact the Grievance Officer:-  
+Sharmila Mylvaganam  
 People Interactive (I) Pvt. Ltd.  
 3rd Floor, Tardeo Annexe, Film Centre Building, 68,  
 Tardeo Road, Mumbai - 400 034  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#eb8c99828e9d8a85888e848d8d82888e99ab9b8e849b878e82859f8e998a889f829d8ec58285)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c8afbaa1adbea9a6abada7aeaea1abadba88b8ada7b8a4ada1a6bcadbaa9abbca1beade6a1a6)
 
 
 
