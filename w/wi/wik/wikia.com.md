@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wikia.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235129id_/https%3A//www.fandom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikia.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231195357id_/https%3A//www.fandom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FANDOM
+# Privacy Policy | Fandom
 
-_Date of Last Revision: December 6, 2018. Please check back regularly to keep informed of updates to this policy._
+_Date of Last Revision: October 28, 2019. Please check back regularly to keep informed of updates to this policy._
 
-This privacy policy outlines the personal information about you that Wikia, Inc. (“ **Wikia** ”, “ **FANDOM** ”, “ **we** “, “ **us** “, “ **our** “) collects, uses and stores via our sites at fandom.com, wikia.com and wikia.org (including all subdomains) and our mobile apps under the FANDOM or Wikia brands (collectively, our “ **Website** “).
+This privacy policy outlines the personal information about you that Fandom, Inc. ( **“Fandom,”** “ **we** “, “ **us** “, “ **our** “) collects, uses and stores via our sites at fandom.com, wikia.com and wikia.org (including all subdomains) and our mobile apps under the Fandom brand (collectively, our “ **Website** “).
 
 Specifically, this privacy policy provides you with details about the personal information we collect from you, how we use your personal information, and your rights regarding the personal information we hold about you.
 
@@ -43,7 +43,7 @@ We respect your right to privacy. Our overall aim is to ensure that our collecti
 
 ## Who we are
 
-Wikia, Inc. is a company registered in the State of Delaware, U.S.A. (corporate number C2935209), whose registered office is at 360 3rd Street, Suite 750, San Francisco, CA 94107 and we are the data controller of the personal information that we collect from you as described in this privacy policy.
+Fandom, Inc. is a company registered in the State of Delaware, U.S.A. (corporate number C2935209), whose registered office is at 130 Sutter Street, 4th Floor, San Francisco, CA 94104 and we are the data controller of the personal information that we collect from you as described in this privacy policy.
 
 We respect your right to privacy and will only process personal information you provide to us in accordance with applicable data protection laws.
 
@@ -57,13 +57,13 @@ If you are under the age of 16 (applicable to users located in the EEA excluding
 
 1\. _Registered Users_
 
-Registration on our Website (i.e., signing up for a FANDOM account) is not required in order to access information on our Website. Registration is only required for the following purposes:
+Registration on our Website (i.e., signing up for a Fandom account) is not required in order to access information on our Website. Registration is only required for the following purposes:
 
-  1. to create a new FANDOM community;
-  2. to make a contribution of content to certain FANDOM communities (i.e., those which do not allow for anonymous contributions);
-  3. to hold a management or administrative position within a FANDOM community (such persons monitor the content on their applicable communities and, for example, can reject content submitted by others);
-  4. to submit discussions (e.g., a comment on an article or video posted on a FANDOM community) or to submit content to a chat forum; or
-  5. to view content on the FANDOM mobile application.
+  1. to create a new Fandom community;
+  2. to make a contribution of content to certain Fandom communities (i.e., those which do not allow for anonymous contributions);
+  3. to hold a management or administrative position within a Fandom community (such persons monitor the content on their applicable communities and, for example, can reject content submitted by others);
+  4. to submit discussions (e.g., a comment on an article or video posted on a Fandom community) or to submit content to a chat forum; or
+  5. to view content on the Fandom mobile application.
 
 
 
@@ -107,7 +107,7 @@ In general, we use two types of cookies on our website:
 
 
 
-Also, on the FANDOM mobile app the user is asked to indicate the communities it is particularly interested in (e.g., Star Wars, Batman, etc) and that information is also used for such segmentation purposes.
+Also, on the Fandom mobile app the user is asked to indicate the communities it is particularly interested in (e.g., Star Wars, Batman, etc) and that information is also used for such segmentation purposes.
 
 You can find out more about how the Salesforce DMP platform collects and uses this non-personal information by clicking the “Salesforce DMP Privacy” link on the salesforce.com website. Salesforce is an NAI member and, as stated below, you may use the NAI opt-out tool to cease our use of the Krux data for the purpose of sending you personalized advertisements.
 
@@ -196,7 +196,7 @@ If an exception applies, we will tell you this when responding to your request. 
 
 Please also note for security and fraud investigation and prevention purposes, we will retain the full IP address for users located in the EEA for up to 12 months.
 
-In addition, we keep a copy of requests submitted to us to comply with our own legal obligation to maintain data processing records. Please also note that certain information, such as your IP address (if you edit while not logged in) and any public contributions to the FANDOM community sites is archived and displayed indefinitely by design; the transparency of each community’s contribution and revision histories is critical to their efficacy and trustworthiness. In addition, the anonymization process cannot ensure complete or comprehensive anonymization of all of the content or information posted on our Website related to your prior username. If your request is granted, the name change will only occur in automatically generated logs (such as page histories) in association with content that you posted. The name change will not delete mentions of your prior username by third parties.
+In addition, we keep a copy of requests submitted to us to comply with our own legal obligation to maintain data processing records. Please also note that certain information, such as your IP address (if you edit while not logged in) and any public contributions to the Fandom community sites is archived and displayed indefinitely by design; the transparency of each community’s contribution and revision histories is critical to their efficacy and trustworthiness. In addition, the anonymization process cannot ensure complete or comprehensive anonymization of all of the content or information posted on our Website related to your prior username. If your request is granted, the name change will only occur in automatically generated logs (such as page histories) in association with content that you posted. The name change will not delete mentions of your prior username by third parties.
 
 ## International Transfers
 
@@ -209,15 +209,15 @@ We will also transfer the personal information that we collect about you to thir
 We have a Data Protection Officer to assist with all queries regarding our processing of personal information.
 
 **Wade Warren, DPO**  
-c/o Wikia, Inc.  
-149 New Montgomery Street, 3rd Floor  
-San Francisco, CA 94105  
+c/o Fandom, Inc.  
+130 Sutter Street, 4th Floor  
+San Francisco, CA 94104  
 **Email:** DPO@fandom.com  
 **Phone:** (415) 980-5647
 
 If you have any complaints about our Website, please contact us at:
 
-**Address:** 149 New Montgomery Street, 3rd Floor, San Francisco, CA 94105  
+**Address:** 130 Sutter Street, 4th Floor, San Francisco, CA 94104  
 **Email:** support@fandom.com  
 **Telephone:** (415) 762-0780
 
