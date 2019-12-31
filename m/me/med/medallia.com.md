@@ -1,23 +1,24 @@
-> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224415id_/https%3A//www.medallia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231230434id_/https%3A//www.medallia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Medallia
 
 ## Overview
 
-#### Last Reviewed and Updated May 30, 2018
+#### Last Reviewed and Updated December 11, 2019 
 
 At Medallia, we want to provide you with information about the collection and use of your personal data. The following privacy notices explain the different ways your personal data is collected and used, and how you can exercise your preferences.
 
-  * The Medallia Experience Cloud Privacy Notice addresses the data we collect to provide our software-as-a-service (“SaaS”) platform to our clients.
-  * The Website Privacy Notice addresses the data we collect from Medallia’s company websites, including www.medallia.com, and customer prospects in our marketing efforts.
-  * The Recruitment Privacy Notice addresses the data we collect in our employee recruiting efforts.
-  * The Cookies Notice addresses the cookies we use in the Medallia Experience Cloud and on our company websites.
+  * The [Medallia Experience Cloud Privacy Notice](http://www.medallia.com/privacy-policy/#priv-pannel-2) addresses the data we collect to provide our software-as-a-service (“SaaS”) platform to our clients.
+  * The [Website Privacy Notice](http://www.medallia.com/privacy-policy/#priv-pannel-3) addresses the data we collect from Medallia’s company websites, including www.medallia.com, and customer prospects in our marketing efforts.
+  * The [Recruitment Privacy Notice](http://www.medallia.com/privacy-policy/#priv-pannel-4) addresses the data we collect in our employee recruiting efforts.
+  * The [Cookies Notice](http://www.medallia.com/privacy-policy/#priv-pannel-5) addresses the cookies we use in the Medallia Experience Cloud and on our company websites.
+  * The [CCPA Notice](http://www.medallia.com/privacy-policy/#priv-pannel-6) addresses Medallia’s responsibilities to our clients and required disclosures to California consumers under the California Consumer Privacy Act of 2018
 
 
 
-Medallia is certified under the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. For more information see our [Notice of Privacy Shield Certification](http://www.medallia.com/privacy-policy/privacy-shield-notice/).
+Medallia is certified under the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. For more information see our[ Notice of Privacy Shield Certification](https://web.archive.org/privacy-policy/privacy-shield-notice/).
 
-### About Medallia
+### **About Medallia**
 
 Medallia provides SaaS and professional services to other companies (our clients) that enable them to:
 
@@ -29,31 +30,33 @@ Medallia provides SaaS and professional services to other companies (our clients
 
 Medallia performs these functions on behalf of our clients. Medallia is not in the business of selling or renting personal data.
 
-### How to Contact Us
+### **How to Contact Us**
 
 **Questions about Communications from Medallia’s Clients**
 
-  * For information about email survey invitations or other communications sent by Medallia on behalf of one of our clients, including opt out and data deletion requests please visit [our opt-out FAQ](http://surveysupport.medallia.com/s/article/How-do-I-unsubscribe-from-receiving-survey-invitations-from-a-company?language=en_US).
-  * For general support inquiries, including problems with survey completion and incorrect survey invitations, please visit [our survey support portal](http://surveysupport.medallia.com/).
+  * For information about email survey invitations or other communications sent by Medallia on behalf of one of our clients, including opt out and data deletion requests please visit[ our opt-out FAQ](http://surveysupport.medallia.com/s/article/How-do-I-unsubscribe-from-receiving-survey-invitations-from-a-company?language=en_US).
+  * For general support inquiries, including problems with survey completion and incorrect survey invitations, please visit[ our survey support portal](http://surveysupport.medallia.com/).
 
 
 
-### Changes to our Notices
+### **Changes to our Notices**
 
-Updates to our privacy notices will be posted on our home page, sent to our clients via email, or through other appropriate channels. If you want to review our old privacy policy, effective before May 30, 2018, click [here](https://web.archive.org/web/20190630224415id_/https://www.medallia.com/privacy-policy/privacy-policy-archive/).
+Updates to our privacy notices will be posted on our home page, sent to our clients via email, or through other appropriate channels. If you want to review our old privacy policy, effective before May 30, 2018, click[ here](https://www.medallia.com/privacy-policy/privacy-policy-archive/).
 
-### Our Group Companies
+### **Our Group Companies**
 
-Our privacy notices cover how Medallia, Inc. and its subsidiaries and affiliated entities (collectively, “Group Companies”) handle your personal data. Group Companies are Medallia, Inc., Medallia Australia Pty Ltd, Medallia Canada Inc., MEDACX, S. de R.L. de C.V. (in Mexico), Medallia S.A. (in Argentina), Medallia Limited (in the United Kingdom), Medallia France Sarl, Medallia Digital Ltd. (in Israel), and Medallia GmbH (in Germany).
+Our privacy notices cover how Medallia, Inc. and its subsidiaries and affiliated entities (collectively, “Group Companies”) handle your personal data. Group Companies are Medallia, Inc., Medallia Australia Pty Ltd, Medallia Canada Inc., MEDACX, S. de R.L. de C.V. (in Mexico), Medallia S.A. (in Argentina), Medallia Limited (in the United Kingdom), Medallia France Sarl, Cooladata Ltd. (in Israel), Medallia Digital Ltd. (in Israel), and Medallia GmbH (in Germany).
 
-### For additional privacy inquiries
+### **For additional privacy inquiries**
 
-If you have questions about our privacy practices, you can contact us by emailing [privacy@medallia.com](mailto:privacy@medallia.com), or by writing to us at:
+If you have questions about our privacy practices, you can contact us by emailing privacy@medallia.com, or by writing to us at:
 
-Privacy, Medallia, Inc.  
+Privacy, Medallia, Inc.
+
 575 Market Street Suite 1850, San Francisco, CA 94105
 
-Privacy, Medallia Limited  
+Privacy, Medallia Limited
+
 5th Floor 80 Cheapside London EC2V 6EE
 
 ## Medallia Experience Cloud Notice
@@ -429,3 +432,100 @@ svs | Medallia | Functional | Records user’s preferred view for certain module
 ADRUM | AppDynamics | Performance and analytics | Records analytics regarding page load time.  
   
 ### ** **
+
+## California Consumer Privacy Act Notice
+
+#### Effective Date January 1, 2020 - Last Reviewed and Updated December 9, 2019
+
+### **Introduction**
+
+This notice addresses Medallia’s responsibilities to our clients and required disclosures to California consumers under the California Consumer Privacy Act of 2018, or CCPA. This notice supplements our Medallia Experience Cloud Notice and our Website Notice.
+
+In this notice, we use the following terms:
+
+  * “client” refers to a business to which Medallia provides its services and SaaS platform, such as those listed at https://www.medallia.com/customers;
+  * “business,” “business purpose,” “consumer,” “commercial purpose,” “personal information,” “sale” or “selling,” and “service provider” refer to the definitions in the CCPA;
+  * “Marketing Data” is defined in the Website Notice, which can be accessed from the navigation pane of www.medallia.com/privacy-policy;
+  * “Medallia Experience Cloud” refers to the SaaS platform and provision of professional services we provide to our clients; and
+  * “respondent” refers to an individual who is prompted to provide a response to one of Medallia’s clients through the Medallia Experience Cloud.
+
+
+
+**Medallia’s activity related to the CCPA**
+
+For the purposes of this notice, Medallia has two areas of activity that are related to the CCPA.
+
+First, Medallia collects data from consumers in the course of providing a software platform called the Medallia Experience Cloud to its clients. In this activity, Medallia acts strictly as a “service provider” to our clients under the CCPA, and our clients are “businesses”.
+
+In the Medallia Experience Cloud, Medallia collects customer data based on our clients’ instructions. For example, our clients specify what consumers we should contact to provide feedback, when we should contact them (e.g., after completing a purchase at a client’s retail store), how we should contact them (e.g., email or SMS), how often we should send them reminders to provide a response, and what questions are asked. Medallia’s clients also decide how to use or respond to feedback that is collected.
+
+Second, Medallia collects data from consumers in the course of its marketing efforts. This includes information we collect voluntarily from forms on our website and event registrations, information we collect automatically when you visit our website, and information we obtain from third party sources. In this activity, Medallia acts as a “business” under the CCPA.
+
+**Medallia’s handling of personal information under the CCPA**
+
+Regardless of which area of activity applies to you, Medallia **_does not sell your personal information_**.
+
+To be clear, in the previous 12 months we have not sold, rented, released, disclosed, disseminated, made available, transferred, or otherwise communicated a consumer’s personal information to another business or third party for monetary or other valuable consideration. If that changes, we will update this notice.
+
+Further, when we provide the Medallia Experience Cloud to our clients, we do not:
+
+  * process personal information for any commercial purpose other than providing our clients the products and services they have purchased; or
+  * retain, use or disclose personal information outside of the scope of the agreements we have with our clients.
+
+
+
+**Personal information collected and disclosures for business purposes**
+
+The CCPA requires that we disclose the categories of personal information we collect about consumers, and the categories of personal information we disclose for a business purpose.
+
+The chart below details where you find information about the categories of personal information that Medallia has collected in the previous 12 months for each activity related to the CCPA.
+
+**Activity** | **Where you can find information**  
+---|---  
+Providing the Medallia Experience Cloud to Medallia clients as a “service provider”. | The categories of personal information Medallia collects about consumers vary depending on our clients’ implementation and use of our software. 
+
+For a generalized description of these categories, see the section of the Medallia Experience Cloud Privacy Notice titled “ **What Data We Collect and How We Collect It** ”. This notice can be accessed from the navigation pane of www.medallia.com/privacy-policy.
+
+For more information on the types of data collected by a particular Medallia client, **refer to the privacy notice or communications of the Medallia client**.
+
+Our clients’ privacy notices are commonly located in the Medallia survey invitation (for web-based surveys) or on the client’s web site or mobile application (for digital surveys).  
+  
+Carrying out Medallia’s marketing efforts as a “business”. | See the section of our Website Privacy Notice titled “ **What Data We Collect** ”.  
+  
+The chart below details where you can find information about the categories of information we disclose for a business purpose in the previous 12 months.
+
+**Activity** | **Where you can find information**  
+---|---  
+Providing the Medallia Experience Cloud to Medallia clients as a “service provider”. | The categories of personal information Medallia discloses for a business purpose vary depending on the features of our software our clients use, and the servicing and support they have purchased. 
+
+For a generalized description of these disclosures, see the section of the Medallia Experience Cloud Privacy Notice titled “ **Who Accesses Personal Data** ”. This notice can be accessed from the navigation pane of www.medallia.com/privacy-policy.
+
+For more information on the disclosures made a particular Medallia client, **refer to the privacy notice or communications of the Medallia client**.
+
+Our clients’ privacy notices are commonly located in the Medallia survey invitation (for web-based surveys) or on the client’s web site or mobile application (for digital surveys).  
+  
+Carrying out Medallia’s marketing efforts as a “business”. | See the section of our Website Privacy Notice titled “ **Who Accesses Personal Data** ”.  
+  
+**Consumer rights under the CCPA**
+
+Your rights under the CCPA include the right to request a copy of the specific personal information collected about you in the 12 months prior to the request, and a business’s data collection practices (including categories of information collected, how information is used, and who it is disclosed to). We will generally refer to these as “access requests”.
+
+In addition, with some exceptions, you can request deletion of the personal information that is collected about you. We will generally refer to these as “deletion requests”.
+
+With respect to personal data of consumers collected in the Medallia Experience Cloud, Medallia’s clients are responsible for fulfilling access and deletion requests. Medallia supports these requests by offering our clients product features, processes and assistance in exporting personal information about individuals. These product features and processes complete the data deletion within 30 days of receiving the request from our client.
+
+With respect to the personal data of consumers collected in Medallia’s marketing efforts, we are responsible for fulfilling access and deletion requests.
+
+The chart below details how you can exercise your rights under the CCPA.
+
+**Activity** | **How to exercise your access and deletion rights**  
+---|---  
+Providing the Medallia Experience Cloud to Medallia clients as a “service provider”. | Please contact the Medallia client identified in the communication you received. 
+
+Contact information is commonly located within the communication or in a privacy policy linked from the communication.  
+  
+Carrying out Medallia’s marketing efforts as a “business”. | Please submit a request to [privacy@medallia.com](mailto:privacy@medallia.com). 
+
+In the request, please be as specific as possible in relation to the personal information you wish to access or delete. Once we receive the request, we will review it, and process the request accordingly. If we need additional information to verify your identity, we will let you know.
+
+Any identifying information in such requests will be used solely for verification, and to communicate with you. We will respond to the request within 45 days of receipt, or notify you if you require additional time.
