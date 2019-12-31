@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidswitch.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235512id_/https%3A//www.bidswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidswitch.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231212626id_/https%3A//www.bidswitch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BidSwitch
 
@@ -8,7 +8,7 @@
 
 ## Respecting your privacy
 
-_Last updated: 4 May 2018_
+_Last updated: 10 September 2019_
 
 * * *
 
@@ -31,6 +31,7 @@ We recommend that you read this Privacy Notice in full to ensure you are fully i
   * Do we use cookies
   * Do we disclose any information to third parties?
   * International data transfers
+  * Privacy Shield
   * Data retention
   * Third party links
   * Childrens’ Online Privacy Protection Act Compliance (COPPA)
@@ -100,7 +101,7 @@ We implement a variety of security measures to maintain the security of your per
 
 #### Do we use cookies?
 
-Yes, for more information see our [Cookie Statement](https://web.archive.org/web/20190630235512id_/http://www.bidswitch.com/cookie-statement) or to opt-out from our cookie(s), please click [here](http://x.bidswitch.net/opt-out). 
+Yes, for more information see our [Cookie Statement](https://web.archive.org/web/20191231212626id_/https://www.bidswitch.com/cookie-statement) or to opt-out from our cookie(s), please click [here](http://x.bidswitch.net/opt-out). 
 
 * * *
 
@@ -126,6 +127,12 @@ Your personal data may be transferred to, and processed in, countries other than
 Specifically, some of our website servers are located in the USA and our group companies and third party service providers and partners operate around the world. This means that when we collect your personal data we may process it in any of these countries.
 
 However, we have taken appropriate safeguards to require that your personal data will remain protected in accordance with this Privacy Notice. For any transfers out of the EEA, we will put in place appropriate safeguards in accordance with European law, such as executing the European Commission’s Standard Contractual Clauses for transfers of personal data between our group companies, which require all group companies to protect personal data they process from the EEA in accordance with European Union data protection law. We have implemented similar appropriate safeguards with our third party service providers and partners and further details can be provided upon request.
+
+* * *
+
+#### Privacy Shield
+
+BidSwitch adheres to the [Privacy Shield Principles](https://www.privacyshield.gov/welcome). Please click [here](https://www.bidswitch.com/wp-content/uploads/2019/10/Privacy-Shield-Policy-v1.0.pdf) to see our Privacy Shield Policy.
 
 * * *
 
