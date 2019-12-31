@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bovada.lv privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630225650id_/https%3A//www.bovada.lv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bovada.lv privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231065014id_/https%3A//www.bovada.lv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Overview - Play Online Poker | Bovada
 
