@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the visualdna.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416032843id_/https%3A//www.visualdna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualdna.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231194123id_/https%3A//www.visualdna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VisualDNA
 
-**Last Updated: 27 July 2018**
+#### Last Updated: 23 June 2019
 
-VisualDNA, a Nielsen Company (“ **we** ” or “ **us** ”), with a registered office and principal place of business at Nielsen House, John Smith Drive, Oxford, OX4 2WB, United Kingdom, provides various data analytics and targeted content and advertising services (“ **Services** ”) and devises image-based quizzes (“ **Quizzes** ”) for our clients and business partners, which include website owners and advertisers (“ **Clients** ”) under the VisualDNA, Youniverse and Imagini brands. We also operate a number of websites, including: [http://www.visualdna.com](http://www.visualdna.com/) and my.visualdna.com (“ **Sites** ”).
+VisualDNA, a Nielsen Company (“ **we** ” or “ **us** ”), with a registered office and principal place of business at Nielsen House, John Smith Drive, Oxford, OX4 2WB, United Kingdom, provides various data analytics and targeted content and advertising services (“ **Services** ”) and devises image-based quizzes (“ **Quizzes** ”) for our clients and business partners, which include website owners and advertisers (“ **Clients** ”) under the VisualDNA and Nielsen brands. We also operate a number of websites, including: [http://www.visualdna.com](http://www.visualdna.com/) (“ **Sites** ”).
 
 As the controller of the personal information that you provide us or we collect or process in connection with our Sites, Quizzes and Services, we are committed to protecting your privacy. This Privacy Policy sets out our data processing practices, including how and for what purposes we use the information collected about you or that you provide to us or our Clients through the use of/or in connection with the provision of our Sites, Quizzes and Services or your use of the Internet and any other electronic communications networks. 
 
 Where our Quizzes appear on third-party websites or we are providing our Services on behalf of our Clients, any personal information collected may be provided to the website owner and its use will be governed by the relevant website’s terms and conditions and privacy policy, unless otherwise expressly indicated. Please review all third-party websites’ privacy policies carefully before disclosing any personal information, as we are not responsible for the practices of such parties.
 
-If you have any queries or comments about our collection or use of your information, please get in touch by emailing us at [nmcdata@nielsen.com](mailto:nmcdata@nielsen.com).
+If you have any queries or comments about our collection or use of your information, please get in touch by emailing us at [privacy.department@nielsen.com](mailto:privacy.department@nielsen.com).
 
 ****1\. Collection of Your Information****
 
@@ -67,7 +67,7 @@ To the extent that we process any sensitive personal information relating to you
   * We may also transfer certain information, such as your IP address and information about your Internet browsing history (e.g., sites visited or interactions with advertisements) and other information collected via cookies, Web beacons and other technologies to our Clients, advertising partners and other third parties within our network. This information, which may be combined with information held by our Clients, may be used to provide advertising, promotions and other products and services that may be of particular interest to you. It may also be used to provide you with a tailored choice of content and media products. We do not provide our advertising and promotions partners with access to your name or contact information unless you choose to share it with them. Additionally, we do not provide your name or contact information to an advertising partner when you interact with or view a targeted advertisement. You can find out more about our use of cookies [here](http://www.visualdna.com/cookie-policy/).
   * We may engage third parties to provide services on our behalf, which may involve them processing your information (e.g., to complete partial addresses or augment the information we hold about you). Such parties may only act on our instructions and are not able to use your information for their own purposes without your consent.
   * We may transfer, sell or assign any of the information described in this Privacy Policy to third parties in connection with certain corporate transactions, such as  a sale, merger, consolidation, change of control, transfer of assets or re-organisation. However, except as described above or unless we are required to do so: (a) by law; (b) to enforce our terms and conditions of use or (c) to protect the rights, property or safety of our customers or others, we will not disclose, sell or distribute your information to any third party without your permission.
-  * All of these disclosures may result in the transfer of your information to countries or regions with data protection laws that differ from those in your country of residence, and by browsing our Sites, participating in our Quizzes and communicating electronically with us, you are acknowledging that your information may be transferred outside your country of residence.  In cases where your information is transferred outside your country of residence, we will ensure that there are adequate safeguards in place to protect your personal information. If you are a resident of the EU/EEA, such safeguard might be a data transfer agreement with the information recipient based on standard contractual clauses approved by the European Commission for transfers of personal information to third countries. For further details relating to the transfers described above and the adequate safeguards used with respect to such transfers, contact us at [nmcdata@nielsen.com](mailto:nmcdata@nielsen.com).  
+  * All of these disclosures may result in the transfer of your information to countries or regions with data protection laws that differ from those in your country of residence, and by browsing our Sites, participating in our Quizzes and communicating electronically with us, you are acknowledging that your information may be transferred outside your country of residence.  In cases where your information is transferred outside your country of residence, we will ensure that there are adequate safeguards in place to protect your personal information. If you are a resident of the EU/EEA, such safeguard might be a data transfer agreement with the information recipient based on standard contractual clauses approved by the European Commission for transfers of personal information to third countries. For further details relating to the transfers described above and the adequate safeguards used with respect to such transfers, contact us at [privacy.department@nielsen.com](mailto:privacy.department@nielsen.com).
 
 
 
@@ -89,9 +89,9 @@ Depending on your country of residence, you may have the right to:
 
 
 
-If you are interested in exercising one or more of the rights described above, please contact us at [privacy.department@nielsen.com](mailto:privacy.department@nielsen.com). Please note that we may request proof of your identity and require you to cooperate with our security checks before we can give effect to these rights.
+If you are interested in exercising one or more of the rights described above, please contact us at <https://app-de.onetrust.com/app/#/webform/9810a8bc-e54d-4d70-bac0-5e4d781ef5b9>. Please note that we may request proof of your identity and require you to cooperate with our security checks before we can give effect to these rights.
 
-You can also opt out of our cross-device partner services at any time by following these links: [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/) and [https://www.ghostery.com/support/global-opt-out/](https://www.ghostery.com/support/global-opt-out/). 
+You can also opt out of our cross-device partner services at any time by following this link: [http://www.aboutads.info/choices](http://www.aboutads.info/choices/) and locating “eXelate, a Nielsen Company” in the Company listing.
 
 Additionally, you can delete the personal information we hold about you by visiting <https://www.nielsen.com/us/en/privacy-statement/exelate-privacy-policy/opt-in-opt-out.html> and opting out.
 
@@ -115,7 +115,7 @@ We may update and make changes to this Privacy Policy from time to time at our d
 
 ****9\. Contact Us****
 
-If you have questions or concerns regarding this Privacy Policy, you should email us at [nmcdata@nielsen.com](mailto:nmcdata@nielsen.com) or write us at: 
+If you have questions or concerns regarding this Privacy Policy, you should email us at [privacy.department@nielsen.com](mailto:privacy.department@nielsen.com) or write us at: 
 
 _For EEA residents_ :
 
