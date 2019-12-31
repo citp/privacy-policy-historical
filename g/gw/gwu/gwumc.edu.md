@@ -1,75 +1,115 @@
-> *The following text is extracted and transformed from the gwumc.edu privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102185607id_/https%3A//www.gwu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwumc.edu privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231152539id_/https%3A//www.gwu.edu/privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy | The George Washington University
+# Website Privacy Notice | The George Washington University
 
-The George Washington University (GW) is committed to respecting users of GW’s websites. For that purpose, this policy has been adopted to address the collection and use of information from GW’s websites. In order to maintain effective privacy practices, GW retains the right to update this policy without notice.
+The George Washington University is committed to safeguarding and maintaining the privacy of your personal information.  In order for the university to provide our services, it is necessary for us to collect and use (process) personal information of our website visitors. This Privacy Notice describes our practices with regards to the collection and processing of personal information through the university’s websites.
 
-## Information Gathering
+For purposes of clarity, “processing” as used in this notice includes the collection, use, storage, transmission, disclosure, and destruction of personal information. This Privacy Notice applies to all information collected by the university and its third-party service providers (collectively, GW, university, us, or ours), including but not limited to websites and applications that post a link to this Privacy Notice.
 
-GW collects two types of information from users:
+By continuing to use and interact with GW websites and by providing GW your personal information, you are accepting the terms of this Privacy Notice.  
 
-  1. Information provided by the user in order to receive requested information and/or services
-  2. Information anonymously collected upon a user’s visit to GW’s websites
+## Information Collected
+
+In general, GW collects and processes two types of information through its websites: (1) information voluntarily provided by you in order to receive requested information and/or services, and (2) information automatically collected upon your navigation of our websites.
+
+### Information You Provide
+
+GW collects information about you when you interact with our websites.  GW processes the information you provide from the devices used when you access our websites, including, for example, when you request information, register an account, log in to the website, submit a test, register for courses, complete a web form, add or update your account information, or otherwise correspond with the university via our websites. 
+
+### Information Automatically Collected
+
+When you use GW websites, the university also automatically collects information about the devices you use to visit GW websites, including computers, tablets, and mobile phones.  We automatically collect your device identifier, web browser, IP address, and browsing information collected through cookies and beacons.  GW also automatically collects information about how you use the websites, such as what you have searched for and viewed on the websites.  The information automatically collected will be associated with any personal information you have provided. 
+
+### Cookies and Other Technologies We and Our Third-Party Advertising Service Providers Use
+
+We collect information automatically through various means such as “cookies,” and “web beacons.”  
+
+Cookies.  GW’s websites make use of “cookies,” which are small text files placed on your device to keep track of information about your browsing on a website. The utilization of cookies allows GW to enhance your experience by allowing GW to save your preferences. Your decision to set your web browser to accept or disable cookies is a personal choice.  However, without cookies you may not be able to take full advantage of features and functionality of GW websites.  
+
+If you would like more information on how to opt out of cookies, please visit: [http://optout.aboutads.info](http://optout.aboutads.info/) or <http://www.youronlinechoices.eu/>.
+
+Web Beacons.  GW uses web beacons to collect data from individuals who interact with GW websites. These technologies, which are often small, transparent images, when loaded collect information about the requestor. This could include your IP address, and the date and time a website was accessed.  Web beacons work in conjunction with cookies so if cookies are disabled, we are unable to collect unique information about you.
+
+## Processing Your Information
+
+  
+GW processes personal information to achieve the following purposes:
+
+  * Carry out the operations and managing the educational, research and administrative needs of the university and our community
+  * Improve our websites and services
+  * Respond to your requests or inquiries
+  * Provide newsletters, articles, service or safety alerts or announcements, event invitations, and other information that we believe may be of interest to you
+  * Request gifts and donations
+  * Analyze your use of the GW websites and perform other market research activities, such as interest-based advertising, targeted advertising, and online behavioral advertising in order to determine the content would be of interest to you
+  * Comply with legal obligations, enforce our agreements, and protect the health, safety, rights or property of you, us or others; and meeting legal obligations
+  * Prevent, investigate and take actions regarding possible fraud, unlawful or criminal activity, other misconduct, security or technical issues, or unauthorized access to or use of personal information, our website or data systems.
 
 
 
-## Information Provided by the User
+GW will process your information consistent with the consent you have provided for a stated purpose, or as necessary (i) for purposes of GW’s legitimate interests, (ii) for performance of a contract with you or to fulfill a request you have made, or (iii) for compliance with a legal obligation.
 
-Users may provide GW with non-personally and personally identifiable information in order to utilize certain services and retrieve information. Such instances may not be noticeable to the user and include, but are not limited to: filling out surveys, purchasing goods and services, submitting tests, registering for courses and submitting certain forms.
+## How GW Uses Your Information
 
-Should the user choose to provide GW with any personal information, GW will use such information only to conduct official university business and will disclose it only when such disclosure may be appropriate to comply with applicable law, to enforce [GW’s Visitor Agreement](https://web.archive.org/terms-use), or to protect the rights, property or the safety of visitors to GW’s websites, the university community or the public. GW does not sell, trade, or rent users’ personal information to others.
+### How Information is Shared
 
-GW maintains information collection procedures that comply with The Child Online Privacy Protection Act of 1998. If you believe that GW has collected personally identifiable information about your child, please contact GW immediately at [comply@gwu.edu](mailto:comply@gwu.edu) so that if such information has been collected, GW can take appropriate action.
+  
+GW may share your information with our third-party service providers to provide services or to support the university’s activities.  These activities include, for example, online course support for students, benefit services for faculty and staff, or study abroad and international studies / teaching opportunities.  GW third-party service providers are not authorized to disclose information except as necessary to perform the services on GW’s behalf or to comply with legal requirements. In certain instances, in order to provide services and to support university’s activities, or as required by law, GW may share your information with other departments within GW, other than the department with which you originally shared your information. In all of these instances, the information provided to the third-party or GW department will be limited to the extent necessary to provide the user-requested information and/or services, or as required by applicable law enforcement agencies.
 
-## Anonymously Collected Information
+### Third-Party Websites and Content
 
-When a user visits one of GW’s websites, some information such as the visitor’s Internet protocol (IP) address, Internet service provider, operating system, the site from which the visitor arrived, the time and date of the user’s visit and demographic and interest data of users may be collected automatically by GW and third-party vendors as part of the software operation of the website. This intake of information is not personally identifiable. GW uses this information solely for internal purposes, such as, to see what pages are most frequently visited, in order to improve the site. Additionally, GW is currently using Google’s Universal Analytics, a web metrics service, to collect certain information automatically upon a user’s visit. For more information regarding Universal Analytics, see [Google's privacy policy](https://www.google.com/policies/privacy/).
+  
+GW websites may contain links to other websites as a convenience to you. These websites may operate independently from GW websites and if you decide to use these links, you will leave the GW website. GW is not responsible for the privacy practices or the content of such other websites and does not make any representations or endorsements about them. If you decide to leave the GW website and access any third-party website, we strongly suggest you review the privacy notices or policies of that third-party website, as GW’s policies will no longer govern. You should review the applicable terms and policies, including privacy and information gathering practices, of these third-party sites.
 
-## Distribution of Collected Information
+### Your Personal Accounts
 
-In certain instances, in order to provide information and services, or as required by law, GW may disseminate non-personally and personally identifiable information to third parties and officials/departments within GW. In these instances, the information provided to the third-party or GW entity shall be limited to the extent necessary to provide the user-requested information and/or services, or as required by applicable law enforcement agencies.
+  
+Although GW has security measures in place to protect personal information you provided to us, you are encouraged to take steps on your own to protect your information by, for example, logging out of online applications, closing all web browsers after use of a website, and keeping your account and passwords confidential.  You should be aware that any information you post or disclose in news groups, forums, message boards and similar contexts may become public. You should always exercise caution before disclosing any personal information in such contexts.
 
-## Third Party Websites and Content
+### Retention of Information and Security
 
-GW websites may contain links to other websites owned by third parties as a convenience to the user. If a user decides to use these links, he or she will leave the GW website. GW is not responsible for the privacy practices or the content of such websites, and does not make any representations or endorsements about them. If a user decides to leave the website and access any third-party site, it will be at the user’s own risk, and users should be aware that GW’s policies will no longer govern. Users should review the applicable terms and policies, including privacy and data gathering practices, of any site to which the user navigates away from GW’s websites.
+  
+Information you provide GW will be retained in accordance with the university’s record retention schedule, applicable laws, or until such time the service requested is no longer available.  The university maintains administrative, technical, and physical safeguards to protect against loss, misuse, unauthorized access, disclosure, alteration, or destruction of the information you provide when visiting or using GW websites.  GW implements appropriate security measures to promote the confidentiality, integrity, and availability of any information in the possession (or control) of GW. GW utilizes Transport Layer Security (TLS) encryption technology for instances where GW websites process your personal information. The purpose of TLS is to protect your information from being viewed by an unauthorized person.  Additionally, some features on GW websites may enable credit card transactions in order for you to purchase goods and services. GW subcontracts the processing of online transactions to third-party services providers that comply with the Payment Card Industry Data Security Standard (PCI DSS).
 
-## Technologies We and Our Third Party Advertising Vendors Use
+### Rights for Individuals in the European Economic Area (EEA)
 
-GW uses tools such as Google AdWords and Google Display to remarket to individuals who visit program pages or other web pages relevant to our users. We, and our third party vendors, use pixel tags, small strings of code that provide a method for delivering a graphic image on a webpage, to obtain information about the computer being used to view a webpage, including the time spent on the site, the user’s operating system and browser type, demographic data, and similar information.
+If you reside in a member state of either the European Union or European Free Trade Association that is a party to the EEA Agreement (collectively, EU Residents), you have the right to access your personal information the university has collected about you for the purpose of reviewing, modifying, correcting or requesting erasure of your information.  You may also have the right to request a copy of your information.  Further, you may also request that the university restrict or stop processing your information.  Finally, you may object to communications, direct marketing, or automated processing of your personal information.
 
-GW’s websites make use of “cookies,” which are small text files placed on the user’s computer to keep track of information about the user’s browsing on this site. The utilization of cookies allows GW to enhance a user’s experience by allowing GW to create tailored web applications. A user’s decision to set his or her web browser to accept or disable cookies is a personal choice. However, some of GW’s websites may not function properly if cookies are disabled.
+To the extent applicable, the EU’s General Data Protection Regulation provides further information about your rights. You also have the right to lodge complaints with your national or regional data protection authority.
 
-Pixel tags and cookies may be used by GW and our third party vendors to show advertisements on non-GW websites and digital properties based on a user’s prior visits to GW websites. GW and third party vendors may also use pixel tags and cookies to collect demographic data on website users through Google advertising features, including demographic and interest reports, in order to serve users more appropriate advertising and to assess the effectiveness of advertising. Visitors who would like to opt out of these Google advertising features may do so with one of Google’s [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web.
+If you wish to exercise these rights, please contact us at the address included under the “Contact” section, below. To protect the personal information GW holds, the university may also request further information to verify your identity when exercising these rights. Upon a request to erase information, GW will maintain a core set of personal information to ensure we do not contact you inadvertently in the future, as well as any information necessary for archival purposes. We may also retain financial information for legal purposes, including United States Internal Revenue Service compliance. Additionally, in the event of an actual or threatened legal claim, GW may retain your information for purposes of establishing, defending against, or exercising our rights with respect to such claim.
 
-## The User’s Personal Account
+By providing information directly to GW, you consent to the transfer of your personal information outside of the EEA to the United States. Please note that the current laws and regulations of the United States may not provide the same level of protection as the data and privacy laws and regulations of the EEA.
 
-Any user that chooses to use GW’s websites is responsible for maintaining the confidentiality of his or her account and password, if any, and for restricting access to his or her computer, and agrees to accept responsibility for all activities that occur under his or her account or password. The user agrees that any billing and registration information provided on the websites will be accurate and complete.
-
-## Security
-
-GW implements stringent security measures to promote the confidentiality, integrity, and availability of any information in the possession (or control) of GW. GW utilizes Transport Layer Security (TLS) encryption technology for instances where GW websites request or provide personal information of the user. The TLS technology’s purpose is to protect users’ information from being viewed by an outside third-party.
-
-Some features on this website may enable credit card transactions in order for users to purchase a variety of goods and services. Credit card transactions are completely voluntary. Additionally, GW subcontracts the processing of online transactions to PCI DSS certified vendors to further promote effective security.
-
-While the security of users’ personal information is of the utmost importance to GW, GW cannot guarantee the security of any information the user chooses to disclose online. Any information the user chooses to disclose to GW is done at his or her own risk.
-
-## Policies
+### Policies
 
 Below are a number of pertinent policies and procedures implemented by GW related to this policy:
 
-  * The George Washington University Privacy Policy Statement
-  * GW Web Content Policy
-  * Security Breaches Involving Confidential Personal Information
-  * Information Security Policy
-  * Records Management Policy
-  * Health Information Privacy Policy
-  * Privacy of Student Records Policy
-  * Social Security Number and GWid Usage Policy
+•    Personal Information and Privacy Policy  
+•    GW Web Content Policy  
+•    Security Breaches Involving Confidential Personal Information  
+•    Information Security Policy  
+•    Records Management Policy  
+•    Health Information Privacy Policy  
+•    Privacy of Student Records Policy  
+•    Social Security Number and GWid Usage Policy
 
+Additional university policies may be found through the [Office of Compliance & Privacy website](https://compliance.gwu.edu/).
 
+### Children
 
-Additional university policies may be found through the [Office of Compliance & Privacy](http://compliance.gwu.edu/find-policy).
+If you are a US resident under the age of 13 or an EU Resident and under the age of 16, please do not provide any personal information on this website or through any of its features, unless authorized by parental consent.  For more information, US residents may consult the Children’s Online Privacy Protection Act, and EU Residents may consult the General Data Protection Regulation.  
+
+If you believe that GW has collected personal information about a child, please contact GW immediately, at the address included under the “Contact” section below, so that GW can take appropriate action.
 
 ## Contact
 
-If you have any questions regarding this policy or GW’s websites generally, please contact us at [comments@gwu.edu](mailto:comments@gwu.edu).
+  
+If you have any questions, concerns or wish to make a report with respect to this Privacy Notice or regarding how GW processes personal information, please contact us at [comply@gwu.edu](mailto:comply@gwu.edu).
+
+## Updates to this Privacy Notice
+
+  
+GW may modify this Privacy Notice from time to time, in its sole discretion.  We recommend you read the Notice periodically. If we make any significant changes to this Privacy Notice that increase the university’s rights to use personal information that we previously collected about you, we will obtain your consent through an email to your registered email address or by prominent posting on the university’s websites.  If GW intends to further process collected personal information for a purpose other than that for which the information was collected, prior to that further processing, the university shall provide you with information on that other purpose with additional information necessary to ensure fair and transparent processing.  
+ 
+
+Updated on January 9, 2019
