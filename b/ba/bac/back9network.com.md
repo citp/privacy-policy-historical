@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the back9network.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231084630id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the back9network.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231211106id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # HugeDomains.com - Privacy Policy
 
@@ -82,4 +82,4 @@ If you have any other questions about this Privacy Policy, the practices of Huge
 
 Last Revised: July 05, 2018
 
-Copyright 2005-2018 HugeDomains.com. All Rights Reserved.
+Copyright 2005-2019 HugeDomains.com. All Rights Reserved.
