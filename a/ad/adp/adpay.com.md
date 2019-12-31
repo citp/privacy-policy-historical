@@ -1,8 +1,26 @@
-> *The following text is extracted and transformed from the adpay.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212534id_/https%3A//www.ancestry.com/cs/legal/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpay.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231130009id_/https%3A//www.ancestry.com/cs/legal/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement - Ancestry.com
 
-At Ancestry, your privacy is a top priority. Ancestry is committed to being a good steward of your Personal Information, handling it in a responsible manner, and securing it with administrative, technical, and physical safeguards.
+**Effective Date of our Revised Privacy Statement:** 23 Dec 2019
+
+**Summary of Changes**
+
+This summary is intended to help you better understand the most recent changes to Ancestry’s Privacy Statement and how it may impact you.
+
+The updates to the Privacy Statement apply to your use of the Services when you view, access, or otherwise use the Services. To fully understand the changes and terms that will govern your use of our Services, please read the Privacy Statement.
+
+Specifically, the most recent changes include:
+
+  * The addition of language to comply with the California Consumer Privacy Act (“CCPA”) such as the categories of personal information collected, used and shared.
+  * The addition of language to the Law Enforcement section to clarify that Ancestry does not allow law enforcement to use Ancestry’s services to investigate crimes or to identify human remains.
+  * The incorporation of the AncestryHealth Supplemental Privacy Statement into the Ancestry Global Privacy Statement. Note: AncestryHealth is available to US customers only. 
+
+
+
+* * *
+
+At Ancestry®, your privacy is a top priority. Ancestry is committed to being a good steward of your Personal Information, handling it in a responsible manner, and securing it with administrative, technical, and physical safeguards.
 
 We also believe in being honest, direct and transparent when it comes to your data. Ancestry follows three guiding principles when it comes to your privacy:
 
@@ -14,42 +32,44 @@ We also believe in being honest, direct and transparent when it comes to your da
 
 **Other Important Things for You to Understand When You Use Our Services**
 
-You always maintain ownership of your DNA and DNA Data—you can manage and delete it as described in this Statement.
+You always maintain ownership of your DNA and DNA Data—you can manage and delete it as described in this Privacy Statement.
 
 You may discover unexpected facts about yourself or your family when using our services. Once discoveries are made, we can’t undo them.
 
-When you make new discoveries with us, you should feel confident and informed about how we use your Personal Information. Our full Privacy Statement is below and we encourage you to read it.
+When you make new discoveries with us, you should feel confident and informed about how we use your Personal Information. Our full Privacy Statement is below and we encourage you to read it. It covers the following Ancestry and related brands: Ancestry®, [AncestryDNA](https://www.ancestry.com/dna)®, [Fold3](https://www.fold3.com/)®, [Newspapers.com](https://www.newspapers.com/)™, [Archives](https://www.archives.com/)®, [We Remember](https://weremember.com/)®, and [Find A Grave](https://www.findagrave.com/)®.
 
-**Effective Date:** April 30, 2018
+**_US Customers only_** \- For information relating to AncestryHealth®, please read the **AncestryHealth® Supplemental Privacy Statement** in addition to our Privacy Statement. 
 
 **1.   Introduction**
 
-At Ancestry, we enable journeys of self-discovery. As a result, we collect, process and store your Personal Information as you use our websites, mobile applications, and services (collectively the “Services”). Personal Information is information that can identify you, such as your name, email or street address, or it may be information that could reasonably be linked back to you, including your Genetic Information. This Privacy Statement describes our practices for collecting, storing and processing your Personal Information and the controls we provide you to manage it within our Services. In addition, we have a [Cookie Policy](https://www.ancestry.com/cs/legal/AboutCookies) that describes our use of browser cookies and similar tracking technologies which is considered a part of this Privacy Statement.
+At Ancestry, we empower journeys of personal discovery to enrich lives. As a result, we collect, process and store your Personal Information as you use our websites, mobile applications, and services (collectively the “ **Services** ”). Personal Information is information that can identify you, such as your name, email or street address, or it may be information that could reasonably be linked back to you, including your Genetic Information. This Privacy Statement describes our practices for collecting, storing and processing your Personal Information and the controls we provide you to manage it within our Services. In addition, we have a [Cookie Policy](https://www.ancestry.com/cs/legal/AboutCookies) that describes our use of browser cookies and similar tracking technologies which is considered a part of this Privacy Statement.
 
 **2.   Account Creation and Your Engagement with Ancestry Services**
 
-The Personal Information required to create a basic Ancestry account is only your name, an email address, and a password. Access to Ancestry records to help you build a family tree, or to our DNA features (ethnicity estimate, etc.) requires additional personal information, including payment details, and, for the DNA test, the test code (when you activate your DNA test kit) and a saliva sample from which we can extract Genetic Information.
+The Personal Information required to create an account with Ancestry is limited to your name, an email address, and a password. For Archives users only, billing information is also required for account creation.
 
-Account creation also requires you to agree to the [Ancestry Terms and Conditions](https://www.ancestry.com/cs/legal/termsandconditions) and this Privacy Statement by clicking “Continue” on the account creation page.
+Account creation also requires you to agree to the [Ancestry Terms and Conditions](https://www.ancestry.com/cs/legal/health-terms) and this Privacy Statement.
 
-By clicking “Continue,” you are telling us that you consent to Ancestry collecting, processing, and sharing your Personal Information (including your Genetic Information if you have taken the AncestryDNA test) as described in this Privacy Statement and in any other documents referenced in this Privacy Statement.
+By creating an account you are telling us that you understand Ancestry will collect, process, and share your Personal Information (including your Genetic Information if you have taken the AncestryDNA test) as described in this Privacy Statement and in any other documents referenced in this Privacy Statement.
 
-At any time, you can request Ancestry delete information you have uploaded into your account, such as a family tree or your Genetic Information. Please see Section 10 for specific details about deleting your data.
+Access to Ancestry records to help you build a family tree, or to our DNA features (ethnicity estimate, etc.) requires additional personal information, including payment details, and, for the DNA test, the test code (when you activate your DNA test kit) and a saliva sample from which we can extract Genetic Information.
 
-If you no longer wish to have an Ancestry account, please go to your [Account Settings](https://www.ancestry.com/secure/account) and request that your account be deleted.
+At any time, you can request Ancestry delete information you have uploaded into your account, such as a family tree or your Genetic Information. You can also delete your entire account. Please see Section 10 for specific details about deleting your data.
 
 **3.   What Information Does Ancestry Collect From You?**
 
-The table below describes the information we collect from you to provide the Services. In this Privacy Statement, we refer to this as your “Personal Information.”
+The table below describes in more detail the information we collect from you. In this Privacy Statement, we refer to data that relates to you as “Personal Information.”
 
-Information category | Use Description  
+Information category | Description  
 ---|---  
 **Account Information** | 
 
   * Your name
   * An email address
-  * A password that you provide us when you create an Ancestry account
-  * A mobile phone number that you may voluntarily provide so we can notify you of DNA test result status, or when you contact Ancestry Member Services
+  * A password that you provide us when you create an account
+  * A mobile phone number that you may voluntarily provide so we can notify you of DNA test result status, other updates you agree to, or assist you when you contact Ancestry Member Services.
+  * For Archives users only, billing information is also required.
+  * Certain other Ancestry related brands may support third-party sign-in services such as Facebook.
 
   
 **Credit Card/Payment Information** | 
@@ -60,38 +80,43 @@ Information category | Use Description
 **DNA Kit Activation Information** | When you activate a DNA test kit, we collect 
 
   * Your DNA test kit code
-  * Your sex
+  * Your biological sex
   * Your year of birth
 
   
 **Profile Information** | 
 
-  * We collect the information that you provide when you voluntarily create a user profile. This information may be seen by other Ancestry users.
-  * Additional personal details that you provide in your profile (for example, a profile image, your name, age, location, etc.), will be visible to other Ancestry users.
+  * We collect the information that you provide when you voluntarily create a user profile. This information may be seen by other Users.
+  * Additional personal details that you provide in your profile (for example, a profile image, your name, age, location, etc.), will be visible to other Users.
 
   
 **User Provided Content** | 
 
-  * Information you provide about yourself or other living individuals when you voluntarily contribute to the Services, or participate in community discussions.
-  * For example, you might contribute details (stories, images) about you or other users’ family trees, annotate Ancestry content or records.
+  * Information you provide about yourself when you voluntarily contribute to the Services, upload content or participate in community discussions, which may include information about yourself or other living persons. 
+
+For example, you might contribute details (stories, images) about you or other users’ family trees, annotate Ancestry content or records.
+
   * Information about deceased persons is not Personal Information under this Privacy Statement.
 
   
 **Genetic Information** | 
 
-  * We extract your DNA from your saliva at one of our partner laboratories when you send it back to us in the tube provided with your AncestryDNA test kit.
-  * We convert your DNA into machine-readable code (“DNA Data”), which is used to provide you an ethnicity estimate. Your DNA Data is also used to provide other information about you, such as your connection to genetic relatives in our database and any genetic associated with physical traits, such as hair color or traits associated with your health and wellness.
-  * **A note about your DNA and Saliva** : Once our laboratory partner has produced your DNA Data, the DNA and saliva (also referred to as “biological samples”) are stored so that they can be available for future testing. Future testing may be done if you agree to our [Informed Consent for Research](https://www.ancestry.com/dna/legal/informedConsent/latest) or if you otherwise consent to future testing of your biological sample. Sections 8 and 10 below describe how you can control both your DNA Data and your biological samples.
+  * We extract your DNA from your saliva (together, your extracted DNA and saliva are referred to as “ **Biological Samples** ”) at one of our partner laboratories when you send it back to us in the tube provided with your AncestryDNA test kit.
+  * We convert your DNA into machine-readable biometric data (“DNA Data”), which is used to provide you an ethnicity estimate, including genetic communities. Your DNA Data is also used to provide other information about you, such as your degree of connection to genetic relatives in our database and any genetic  associated with certain biological, physiological, or behavioral traits, such as hair thickness and eye color or traits associated with your health and wellness.
+  * Your DNA Data and any information derived from your DNA Data or Biological Samples, such as ethnicity estimates and genetic relative matches, are referred to as “ **Genetic Information** ”.
+  * **A note about your DNA and Saliva** : Once our laboratory partner has produced your DNA Data, your Biological Samples are stored so that they can be available for future testing. Future testing may be done if you agree to our [Informed Consent for Research](https://www.ancestry.com/dna/legal/informedConsent/latest) or if you otherwise consent to future testing of your Biological Samples. Sections 8 and 10 below describe how you can control both your DNA Data and your Biological Samples.
 
   
-**Social Media Information** | If you use Facebook to log into Ancestry Services, we collect information from your Facebook profile that you choose to provide to us (for example your Facebook profile information).  
-**Additional User Information** | Information that you provide to us when you answer email surveys or online questionnaires offered through the Services.  
-**Your Communications** | Your 1:1 communications with other Ancestry users through our communications features, as well as information you provide in communications with Ancestry Member Services.  
-**Contests and Promotions** | Personal Information when you voluntarily participate in contests and special promotions we run through our Services.  
+**Additional User Information** | Information that you provide to us when you answer questions offered through the Services, surveys or questionnaires. This may include health or medical information.  
+**Note about health-related information** | Ancestry is not a covered entity under the Health Insurance Portability and Accountability Act (“ **HIPAA** ”), and as a result no Additional User Information provided by you is subject to or protected by HIPAA.  
+**Your Communications** | Your communications with other Users through our communications features, as well as information you provide in communications with Ancestry Member Services and support teams for our other Services, including audio and visual information (such as recordings of calls with Ancestry Member Services or information voluntarily shared when doing consumer insights research).  
+**Contests and Promotions** | Personal Information when you voluntarily participate in contests and special promotions we run or sponsor.  
+**Find A Grave® Photos and Photo Volunteers** | Metadata associated with digital photographs uploaded to Find A Grave®, including location, date and time the photo was taken. If you choose to be a photo volunteer for Find A Grave®, you provide your location to us which you can change or remove at any time.  
+**Other Protected Classifications and Sensitive Data** | We may collect information related to certain protected classifications such as gender or marital status.  
   
 **4.   What Information Does Ancestry Collect Through Your Use of the Services?**
 
-Information category | Use Description  
+Information category | Description  
 ---|---  
 **Computer and Mobile Device Information** | 
 
@@ -99,31 +124,34 @@ Information about how you access our Services, including the website you visited
 
 The Internet protocol (“IP”) address of your computer, mobile device, or the proxy server that you use to access the Internet, in addition to other technical information, such as:
 
-  * Your computer operating system, and
+  * Your computer operating system.
   * Your web browser.
   * Your mobile device identifier provided by your mobile device operating system and your mobile operating system.
   * The name of your internet service provider or mobile carrier.
 
+
+
+Ancestry may collect geolocation information from your device with your permission.  
   
-**Information from Cookies and similar technologies** | Cookies and similar technologies as described in our [Cookie Policy](https://www.ancestry.com/cs/legal/AboutCookies). Please refer to our cookie policy to learn about our practices and the controls we provide you.  
+**Information from Cookies and similar technologies** | Cookies and similar technologies as described in our [Cookie Policy](https://www.ancestry.com/cs/legal/AboutCookies). Please refer to our Cookie Policy to learn about our practices and the controls we provide you.  
 **Information shared through social media features** | 
 
 If you interact with social media through the Services, for example “Like,” “Tweet,” “Pin,” or “Follow Us” links to sites such as Facebook, Twitter, Pinterest, Instagram, and YouTube, Ancestry will collect these interactions and whatever account information these services make available to us.
 
-Your interactions with these features are governed by the privacy statement of the applicable third party company.  
+Your interactions with these features are governed by the privacy statement of the applicable third-party company.  
   
-**Information from your use of the Services** | Information about your use of the Services, such as when you search or access records or public family trees, which pages you view or links you click on, or when you add people to your tree, etc.  
+**Information from your use of the Services** | Information about your use of the Services, such as when you search or access records or public family trees, which pages you view or links you click on, or when you add people to your tree, etc., which we may use to infer details about you as a customer (for example subscriber, engaged/occasional user, etc.).  
   
 **5.   Information We Collect From Other Sources**
 
 Information category | Use Description  
 ---|---  
-**Information from Public and Historical Records** | Ancestry collects records from various sources, usually from official record sources, including newspapers, as well as birth, death, and marriage records, which may contain Personal Information relating to you. These records are generally part of Ancestry’s subscription Services.  
+**Information from Public and Historical Records** | Ancestry collects records from various sources, usually from official record sources, including newspapers, as well as birth, death, and marriage records, which may contain Personal Information relating to you. These records are usually made available to Users as part of the Ancestry subscription Services.  
 **Information from Third Parties** | 
 
 We may also receive information about you from third parties. For example, we may supplement the data we collect with demographic information licensed from third parties in order to personalize the Services and our offers to you.
 
-If you purchase a gift subscription, we will collect Personal Information to complete the gift and notify the recipient.  
+If you purchase a gift subscription, we will collect Personal Information to complete the gift and notify the recipient, such as the recipient’s name and email address.  
   
 **6.   How does Ancestry use your Personal Information?**
 
@@ -132,12 +160,12 @@ Information category | Use Description
 **Personal Information (generally)** | We use your Personal Information to provide, personalize, improve, update and expand our Services. This includes: 
 
   * Authenticating your access to the Services and improving Ancestry information security;
-  * Processing your payments for subscriptions, AncestryDNA services and test kits, and other premium products and features;
-  * Building new and improving existing products and Services;
+  * Processing your payments for subscriptions, AncestryDNA® services and test kits, and other products and features;
+  * Building new and improving existing Services;
   * Helping you create, and providing insights about, your family trees based on data in Ancestry’s databases;
   * Issuing surveys and questionnaires to collect Additional User Information for use in the Services, as well as facilitating product development and research initiatives;
   * Conducting scientific, statistical, and historical research; and
-  * Detecting and protecting against error, fraud, or other criminal or malicious activity and enforcing our Terms and Conditions.
+  * Detecting and protecting against error, fraud, or other criminal or malicious activity and enforcing our [Terms and Conditions](https://www.ancestry.com/cs/legal/health-terms).
 
   
 **Communications** | We use your Personal Information to communicate with you about the Services, such as when we: 
@@ -145,53 +173,68 @@ Information category | Use Description
   * Respond to your inquiries to Member Services;
   * Alert you to potential relatives identified by DNA matching, or through our family history services (for example, “Hints” about potential ancestors in our database);
   * Alert you to records pertaining to people in your family tree or to whom you may be related;
-  * Inform you of product changes or new products and services;
+  * Inform you of changes to Services or new Services;
   * Ask you to participate in Ancestry media productions or testimonials; and,
   * Provide you with information or request action in response to technical, security, and other operational issues.
 
   
-**Market new products and offers from us or our business partners.** | We use your Personal Information to market new products and offers from us or our business partners. This includes advertising personalized to you based on your interests. 
+**Market new products and offers from us or our business partners.** | We use your Personal Information to market new products and offers from us or our business partners. This includes advertising personalized to you based on your interests. We do not share your Genetic Information with third-party marketers, insurance companies or employers, and we will not use your Genetic Information for marketing or personalized advertising without getting your explicit consent. 
 
-**Note:** You can control how we market to you by using the unsubscribe link in any email you receive, by changing your [account preferences](https://www.ancestry.com/secure/account/emailpreferences), or by following the instructions in any other marketing communications you receive; for more information please see our Cookie Policy.  
+**Note:** You can control how we market to you by using the unsubscribe link in any email you receive, by changing your [account preferences](https://www.ancestry.com/secure/account/emailpreferences), or by following the instructions in any other marketing communications you receive; for more information please see our [Cookie Policy](https://www.ancestry.com/cs/legal/AboutCookies). Controls for Ancestry’s related brands’ are available through their settings and are listed [here](https://www.ancestry.com/cs/legal/related-brands).  
   
 **Genetic Information** | Ancestry uses your Genetic Information for the following primary purposes: 
 
-  * Delivering ethnicity results, (e.g., close relatives or distant cousins) from our database, and other information to help you learn more about yourself, your relatives and genetic family groups;
-  * Connecting you with your relatives in our database through features such as DNA matching or other product features;
-  * Providing you other insights into what your DNA reveals about traits, personal health and wellness; we may also invite you to participate in surveys and questionnaires (entirely optional) based on your DNA data.
+  * Delivering ethnicity results,  (e.g., close relatives or distant cousins) from our database, and other information to help you and other users learn more about each other, potential family members, as well as your DNA relatives and genetic family groups;
+  * Connecting you with and helping you learn about your genetic relatives in our database through features such as DNA matching or other product features;
+  * Providing you with other insights into what your DNA reveals about traits, personal health and wellness; we may also invite you to participate in surveys and questionnaires (entirely optional) based on your DNA data.
   * Providing relevant results to assist you in discovering common ancestors and other details about your family history, as well as helping you connect with friends and family;
   * Studying aggregated Genetic Information to better understand population and ethnicity-related health, wellness, aging, or physical conditions;
   * Conducting scientific, statistical, and historical research; and,
-  * Improving features and functionality in our existing DNA-related products, enhancing the customer experience across Ancestry products, improving the quality of our laboratory processes and technology, and building new products and services, including services related to personal health and wellness.
+  * Improving features and functionality in our existing DNA-related products, enhancing the customer experience across Ancestry Services, improving the quality of our laboratory processes and technology, and building new products and services, including services related to personal health and wellness.
 
 
 
 We will seek additional consent from you before we collect and process additional sensitive Personal Information (for example, health history) as part of your interaction with the Services.  
   
-**7.   When Do We Share Your Information and Who are the Recipients?**
+**7.   What Information Do We Share, when Do We Share It and Who are the Recipients?**
 
-Ancestry does not share your individual Personal Information (including your Genetic Information) with third-parties without your additional consent other than as described in this Privacy Statement. In particular, we will not share your Genetic Information with insurance companies, employers, or third-party marketers _without_ your express consent. The circumstances described below explain when sharing might occur:
+Ancestry does not share your individual Personal Information (including your Genetic Information) with third-parties except as described in this Privacy Statement or with your additional consent. We do not voluntarily share your information with law enforcement. Also, we will not share your Genetic Information with insurance companies, employers, or third-party marketers _without_ your express consent.
+
+**NOTE** : Ancestry does not sell your Personal Information.
+
+Ancestry may share the following categories of Personal Information about you or your use of the Services with the types of entities set forth in this section for business purposes (as defined by applicable law), or as required by applicable law:
+
+Identifiers (such as name, address, email address); Account Information (such as shipping address); Credit Card/Payment Information; Computer or Mobile Device Information; Audio and Visual information (such as recordings of calls with Ancestry Member Services or information voluntarily shared when doing consumer insights research); Inference data about you; Other Protected Classifications (such as gender and marital status); Health Information as well as Biological, Physiological, or Behavioral Traits and anything else mentioned in the table below.
+
+The circumstances described below explain when sharing might occur:
 
 People with whom your Information may be shared / Circumstances in which sharing might occur | Description  
 ---|---  
-**Other Ancestry Users or others you may choose to share with** | 
+**Other Users or others you may choose to share with** | 
 
-Any information you add to your Ancestry profile may be seen by other Ancestry users, as will public family tree details (we do not show living people in your tree to other users without your permission), and DNA matches (when you choose to see and be seen by your DNA matches).
+As part of your use of the Services, you have the option to add or share information with all Users of the Service or through sharing features with individual Users and non-Users. You may have additional sharing options in some Services, for example AncestryDNA (see below).
+
+Information in your public profile may be seen by all other Users, as will public family tree details (we do not show living people in your tree to other Users without your permission). To see what is visible, go to your public profile.
+
+If you choose to participate in DNA matches (when you choose to see and be seen by your DNA matches), your DNA matches can see certain information, such as your username, how they might be related to you, whether you have linked a family tree to your DNA, and either all or only shared (at your option) regions and genetic communities. You may be offered other options for connecting with relatives or learning about familial connections.
+
+You can share other DNA information, such as Traits, through compare and other one-to-one sharing features.
 
 If you share details of your family history or DNA experience outside the Services, you do so at your own risk.  
   
 **Service Providers** | 
 
-We use other companies to help us provide the Services to you. As a result, these partner companies will have some of your information in their systems. Our partners are subject to contractual obligations governing data security and confidentiality consistent with this Privacy Statement and applicable laws.
+We work with other companies when providing and marketing the Services. As a result, these companies will have some of your information in their systems. These companies are subject to contractual obligations governing data security and confidentiality consistent with applicable laws.
 
-These processing partners include our:
+These companies include our:
 
   * Laboratory partners;
   * DNA test shipping providers;
   * Payment processors;
   * Cloud services infrastructure providers;
   * Biological sample storage facilities;
-  * Vendors that assist us in marketing; analytics, and fraud prevention; and,
+  * Vendors that assist us in marketing, (including advertising), consumer research analytics, fraud prevention, and security;
+  * Communications infrastructure providers; and,
   * Some Member Services functions.
 
   
@@ -199,23 +242,26 @@ These processing partners include our:
 
 Research partners may include commercial or non-profit organizations that conduct or support scientific research, the development of therapeutics, medical devices or related material to treat, diagnose or predict health conditions. In some circumstances, a research partner or Ancestry may have a financial interest in the research arrangement. A list of our research partners can be found [here](https://www.ancestry.com/cs/collaborations).  
   
-**Legal or Regulatory Process** | We may share your Personal Information if we believe it is reasonably necessary to: 
+**Law Enforcement** | 
+
+Ancestry does not voluntarily cooperate with law enforcement. To provide our Users with the greatest protection under the law, we require all government agencies seeking access to Ancestry customers’ data to follow valid legal process and do not allow law enforcement to use Ancestry’s services to investigate crimes or to identify human remains.
+
+If we are compelled to disclose your Personal Information to law enforcement, we will do our best to provide you with advance notice, unless we are prohibited under the law from doing so. In the interest of transparency, Ancestry produces a [Transparency Report](https://www.ancestry.com/cs/transparency) where we list the number of valid law enforcement requests for user data across all our sites.  
+  
+**Other Legal or Regulatory Process** | We may share your Personal Information if we believe it is reasonably necessary to: 
 
   * Comply with valid legal process (e.g., subpoenas, warrants);
-  * Enforce or apply the Ancestry Terms and Conditions;
+  * Enforce or apply the [Ancestry Terms and Conditions](https://www.ancestry.com/cs/legal/health-terms);
   * Protect the security or integrity of the Services; or
   * Protect the rights, property, or safety, of Ancestry, our employees or users.
 
-
-
-If we are compelled to disclose your Personal Information to law enforcement, we will do our best to provide you with advance notice, unless we are prohibited under the law from doing so. In the interest of transparency, Ancestry produces a [Transparency Report](https://www.ancestry.com/cs/transparency) where we list the number of valid law enforcement requests for user data across all our sites.  
   
 **If Ancestry is Acquired** | If Ancestry or its businesses are acquired or transferred (including in connection with bankruptcy or similar proceedings), we will share your Personal Information with the acquiring or receiving entity. The promises in this Privacy Statement will continue to apply to your Personal Information that is transferred to the new entity.  
 **A note about aggregated data** | Ancestry may disclose user information in an aggregated form as part of the Services or our marketing, or in scientific publications published by us or our research partners. For example, we might note the percentage of immigrants in a State that are from a particular geographic region or country. Such disclosure will never include Personal Information.  
   
 **8.   Your Choices and Access to Your Personal Information**
 
-Subject to certain exceptions, you have a right to request access to your Personal Information and to be provided with a copy of certain information you provided in a portable form, as well as to seek to update, delete or correct this information by using the tools described below or by contacting Ancestry. Details and options for accessing this information are listed below.
+Subject to certain exceptions, you have a right to request access to your Personal Information and to be provided with a copy of certain information including the categories of your personal information we collect and disclose; the categories of sources of such information; and the business purpose for collection in a portable form, as well as to seek to update, delete or correct this information by using the tools described below or by contacting [Ancestry](https://support.ancestry.com/s/contactsupport). Details and options for accessing this information are listed below.
 
 Type | Choices  
 ---|---  
@@ -228,32 +274,24 @@ Type | Choices
   * [Test Settings](https://www.ancestry.com/dna), and
   * [My Alerts](https://www.ancestry.com/home/myancestry/myalerts).
 
-To learn how to manage the privacy settings for any family trees you have created on Ancestry, you can click [here](https://support.ancestry.com/s/article/ka215000000MUoBAAW/Family-Tree-Privacy).  
-**Related Brands** | Ancestry strives to make it simple for you to manage your privacy across the Services. You can manage your privacy settings for our related brands by clicking on the following links: 
-
-  * [AncestryDNA](https://www.ancestry.com/dna)
-  * [Fold3.com](https://www.fold3.com/account)
-  * [Newspapers.com](https://www.newspapers.com/account/)
-  * [Archives.com](https://www.archives.com/account/)
-  * [We Remember](https://weremember.com/)
-
-  
-**Mobile** | You can also control your information using the settings available in Ancestry’s mobile applications, such as the Ancestry, AncestryDNA or “[We’re Related](http://www.ancestry.com/wererelated/share/)” apps.  
-**Advertising** | If you do not want us to use data about your interests or behaviors to serve you targeted ads, you may change your settings as described in our [Cookie Policy](https://www.ancestry.com/cs/legal/AboutCookies). For information on please see our Cookie Policy.  
+To learn how to manage the privacy settings for any family trees you have created on Ancestry, you can click [here](https://support.ancestry.com/s/article/Family-Tree-Privacy).  
+**Related Brands** | Ancestry strives to make it simple for you to manage your privacy across the Services. You can manage your privacy settings for AncestryDNA [here](https://www.ancestry.com/dna) and our related brands [here](https://www.ancestry.com/cs/legal/related-brands).   
+**Mobile** | You can also control your information using the settings available in our mobile applications, such as Ancestry®, AncestryDNA®, Find A Grave® and We Remember® apps.  
+**Advertising** | If you do not want us to use data about your interests or behaviors to serve you targeted ads, you may change your settings as described in our [Cookie Policy](https://www.ancestry.com/cs/legal/AboutCookies). For information on  please see our Cookie Policy.  
 **Family Tree Information Download** | Ancestry allows you to download your family tree information in the standard GEDCOM family tree file format in your Family Tree Settings.  
-**Genetic Information Download** | Your DNA Data belongs to you. You always have the option of downloading a file with your DNA Data. Learn how [here](https://support.ancestry.com/s/article/ka215000000MUoLAAW/Changing-your-AncestryDNA-Account-Settings-1460090082989). For more information on what is included in your DNA Data download, go [here](https://support.ancestry.com/s/article/ka215000000MUry/Common-Questions-around-my-raw-DNA-download-US-1460088592248-2565).  
+**Genetic Information Download** | Your DNA Data belongs to you. You always have the option of downloading a file with your DNA Data. If you download your DNA Data, you do so at your own risk. Learn how [here](https://support.ancestry.com/s/article/Downloading-AncestryDNA-Raw-Data). For more information on what is included in your DNA Data download, go [here](https://support.ancestry.com/s/article/Downloading-AncestryDNA-Raw-Data).  
   
-**9.   What are Ancestry’s retention practices?**
+**9.   What are our retention practices?**
 
-Ancestry services are fundamentally premised on the notion that the personal voyage of self-discovery is not a one-time event and continues over lengthy periods of time—possibly lifetimes. Additionally, and with particular regard to our subscribers and DNA customers who pay fees or purchase subscriptions, the ongoing enhancement of Ancestry’s historical records and DNA features provide benefits and insights to our users over time. As a result, Ancestry’s retention practices reflect this ongoing value by retaining user accounts on our system until our users inform us of their desire to delete their data or close their accounts.
+Ancestry Services are fundamentally premised on the notion that the personal voyage of self-discovery is not a one-time event and continues over lengthy periods of time—possibly lifetimes. Additionally, and with particular regard to our subscribers and DNA customers who pay fees or purchase subscriptions, the ongoing enhancement of our collections of historical records and DNA features provide benefits and insights to our Users over time. As a result, our retention practices reflect this ongoing value by retaining user accounts on our system until our Users inform us of their desire to delete their data or close their accounts.
 
-Category of Information | Retention Period  
+Information Category | Retention Period  
 ---|---  
-**Account** | Ancestry will retain the Personal Information you provide while creating your account until such time as you ask us to close it.  
+**Account and Profile** | Ancestry will retain the Personal Information you provide while creating your account and your profile until such time as you ask us to delete it.  
 **Family Tree** | Due to the multi-generational significance of family trees, Ancestry will retain your family tree data as needed to provide you with continuous access, updated features, and the ability to enhance your family tree.  
-**DNA** | Ancestry retains your DNA data as needed to provide you with the features and functionality you purchased (or were gifted), including continuously updated features such as DNA matches, increasingly granular ethnicity estimates and improved origins/migration details, as well as new other features based on your DNA data.  
-**Related Brands** | Ancestry’s related brands (Fold3, Newspapers.com,etc.) have their own account logins and will retain your account as needed to provide you with continuous and updated Services. You can delete these accounts at any time.  
-**Usage Information** | In some cases we choose to retain usage information (e.g., visits to sites) in a depersonalized or aggregated form. Once aggregated, this information ceases to be personal and will not be subject to Ancestry user deletion requests.  
+**DNA** | Ancestry retains your DNA Data as needed to provide you with the features and functionality you purchased (or were gifted), including continuously updated features such as DNA matches, increasingly granular ethnicity estimates and improved regions and genetic communities, as well as new other features based on your DNA Data.  
+**Related Brands** | Our related brands (Fold3®, Newspapers.com™, Find A Grave®, We Remember® or Archives®) have their own account logins and will retain the Personal Information you provide while creating your account and your profile as needed to provide you with continuous and updated Services until such time as you ask us to delete it. You can delete these accounts at any time.  
+**Usage Information** | In some cases we choose to retain usage information (e.g., visits to sites) in a depersonalized or aggregated form. Once aggregated, this information ceases to be personal and will not be subject to user deletion requests.  
   
 **10.   How can I delete my Personal Information?**
 
@@ -265,19 +303,20 @@ Information Category | How to delete
 
 You can delete your Personal Information from Ancestry by logging into your [Account Settings](https://www.ancestry.com/secure/account).
 
-To the extent you have shared information through the Services (for example, by making your family trees public, or by sharing your DNA Results directly with other users), Ancestry will not be able to remove any copies of information that other Ancestry members may have retained.
+To the extent you have shared information through the Services (for example, by making your family trees public, or by sharing your DNA Results directly with other users), Ancestry will not be able to remove any copies of information that other Users may have retained.
 
 Please direct any request to remove information from linked archival records to the responsible archival entity.
 
 We will consider requests for removal of Personal Information from the searchable indexes of the records we hold on a case-by-case basis in accordance with law.
 
-If you have shared content with others either directly or by making your family tree details available to other Ancestry members, some of your Personal Information may have been copied to other Ancestry members’ family trees, which can only be removed by contacting the other Ancestry member and asking them to delete it.  
+If you have shared content with others either directly or by making your family tree details available to other Users, some of your Personal Information may have been copied to other Users’ family trees, which can only be removed by contacting the other User and asking them to delete it.  
   
 **Genetic** | Note: If you request that Ancestry delete your DNA Data, we will delete _all_ Genetic Information, including any derivative Genetic Information (ethnicity estimates, genetic relative matches, etc.) from our production, development, analytics, and research systems within 30 days. 
 
-To request the destruction of your biological samples, you must contact [Member Services](https://www.ancestry.com/cs/contact-us). Please note that if you have agreed to our [Informed Consent to Research](https://www.ancestry.com/dna/legal/informedConsent/latest), we will not be able to remove your Genetic Information from active or completed research projects, but we will not use it for any new research projects.  
+To request the destruction of your Biological Samples, you must contact [Member Services](https://support.ancestry.com/s/contactsupport). Please note that if you have agreed to our [Informed Consent to Research](https://www.ancestry.com/dna/legal/informedConsent/latest), we will not be able to remove your Genetic Information from active or completed research projects, but we will not use it for any new research projects.  
   
 **General** | Please note that there may be some latency in deleting your Personal Information from our backup systems after it has been deleted from our production, development, analytics, and research systems. Also, our laboratory partners may retain information they receive from us in order to comply with laws or regulations that may require them to do so, such as the Clinical Laboratory Improvements Amendments regulations administered by the U.S. Food and Drug Administration. Ancestry may also retain certain information as reasonably necessary to comply with our legal obligations (including law enforcement requests), resolve disputes, maintain security, prevent fraud and abuse, as well as to comply with tax, payment industry, securities, and clinical regulatory compliance requirements.  
+**Related Brands** | To delete information from our related brands (Fold3®, Newspapers.com™, Find A Grave®, We Remember® or Archives®), you can always contact us at the related brand and request that your Personal Information be deleted from that service. Some Services may also have an online request form accessible from that service’s account settings menu and viewable [here](https://www.ancestry.com/cs/legal/related-brands).  
   
 **11.   Security**
 
@@ -285,17 +324,23 @@ Ancestry maintains a comprehensive information security program designed to prot
 
 The specific security measures used are based on the sensitivity of the Personal Information collected. We have measures in place to protect against inappropriate access, loss, misuse, or alteration of Personal Information (including Genetic Information) under our control.
 
-Ancestry’s Security Team regularly reviews our security and privacy practices and enhances them as necessary to help ensure the integrity of our systems and your Personal Information.
+The Ancestry Security Team regularly reviews our security and privacy practices and enhances them as necessary to help ensure the integrity of our systems and your Personal Information.
 
 We use secure server software to encrypt Personal Information (including Genetic Information), and we only partner with security companies that meet and commit to our security standards. While we cannot guarantee that loss, misuse or alteration of data will not occur, we use reasonable efforts to prevent this.
 
 It is also important for you to guard against unauthorized access to your Personal Information by maintaining strong passwords and protecting against the unauthorized use of your own computer or device.
 
-**12.   Data Transfer**
+**12.   Data Transfer and Privacy Shield Notice**
 
-Any transfer of your Personal and Genetic Information between Ancestry’s Ireland-based company and Ancestry’s U.S.-based company for processing in the United States is conducted pursuant to established transfer mechanisms such as Standard Contractual.
+Any transfer of your Personal and Genetic Information between Ancestry’s Ireland-based company and Ancestry’s U.S.-based company for processing in the United States is conducted pursuant to established transfer mechanisms such as Standard Contractual  or Privacy Shield.
 
 You can request a copy of any standard contractual clauses relating to your Personal Information that we may have executed by contacting us using the details below.
+
+Ancestry and its subsidiaries (namely Ancestry.com Operations Inc, Ancestry.com DNA LLC, Ancestry International DNA LLC) listed in its certification on the Privacy Shield website comply with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, or Switzerland to the United States. Ancestry has certified to the Department of Commerce that it adheres to the Privacy Shield Principles and that it complies with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. To learn more about the Privacy Shield program and to view our certification, please visit: <https://www.privacyshield.gov/>. If there is any conflict between the terms in this Privacy Statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+
+Ancestry’s participation in the Privacy Shield applies to all personal data that is subject to the Ancestry Privacy Statement and is received from the European Union, European Economic Area, or Switzerland. Ancestry will comply with the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability in respect of such personal data. Ancestry’s accountability for personal data that it receives under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Ancestry remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf (1) do so in a manner inconsistent with the Principles and (2) Ancestry is responsible for the event giving rise to the damage.
+
+We encourage you to contact us as detailed below should you have a Privacy Shield-related (or general privacy-related) complaint. If you are a resident of the European Union, or Switzerland and are dissatisfied with the manner in which we have addressed your concerns about our privacy practices, you may seek further assistance, at no cost to you, from JAMS, our designated Privacy Shield alternative dispute resolution provider based in the United States through the JAMS website at: <https://www.jamsadr.com/eu-us-privacy-shield>. As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. You can learn more about this option through the Privacy Shield website at: <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>. Ancestry is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
 **13.   Changes to this Statement**
 
@@ -303,7 +348,7 @@ We may modify this Privacy Statement at any time, but we will provide prominent 
 
 We will also notify you of non-material changes to this Statement as of their effective date by posting a notice through the Services, on our websites, or sending you an email. Your continued use of our Services after notice of non-material changes means that you consent to the updated Privacy Statement.
 
-If you object to any changes, you may delete your account through your [Account Settings](https://www.ancestry.com/secure/account).
+If you object to any changes, you may delete your account as described in Section 10.
 
 **14.   California’s Shine the Light Law**
 
@@ -315,11 +360,11 @@ Where you have consented to data processing, your consent provides the legal bas
 
 We may also process your Personal Information on the basis of contractual necessity to perform a contract we have with you. For example, we process your credit card details when you provide them in order to use our Services or purchase access to premium features such as our DNA testing services.
 
-We may also process your Personal Information on the basis of our legitimate interests, including in providing and improving the Services. For example, Ancestry has a legitimate interest in understanding your login history so we can assess your interaction with our Services. We also have a legitimate interest in providing and developing interesting features to provide to our users. We use your Personal Information to keep our Services safe and secure and we do so as it necessary to pursue your and our legitimate interests in ensuring that our Services are secure, and to protect against fraud, spam and abuse.
+We may also process your Personal Information on the basis of our legitimate interests, including in providing and improving the Services. For example, Ancestry has a legitimate interest in understanding your login history so we can assess your interaction with our Services. We also have a legitimate interest in providing and developing interesting features to provide to our Users. We use your Personal Information to keep our Services safe and secure and we do so as it necessary to pursue your and our legitimate interests in ensuring that our Services are secure, and to protect against fraud, spam and abuse.
 
 Where we rely on legitimate interests to process your Personal Information, you have the right to object to such processing (meaning that you can ask us to stop). You can use your Privacy Settings to control certain ways in which we process your data. You can also contact us, using the details below, to object to other forms of processing.
 
-**16.   Identity and Contact Details of the Data**
+**16.   Identity and Contact Details of the Data **
 
 If you reside in the United States, Ancestry.com Operations Inc. and Ancestry.com DNA, LLC are responsible for the use of your data and for responding to any requests related to your Personal Information.
 
@@ -329,7 +374,7 @@ Contact information for these entities is listed at the bottom of this Statement
 
 Users outside of the United States may contact the Irish Data Protection Commission, or your local Data Protection Authority.
 
-Contact Details of the
+Contact Details of the 
 
   * Email: dpo@ancestry.com
 
@@ -339,7 +384,7 @@ Ancestry members can reach us using these [phone numbers](https://support.ancest
 
 **Official correspondence must be sent via postal mail to:**
 
-For members located in the United States | For members located outside of the United States  
+For Users located in the United States | For Users located outside of the United States  
 ---|---  
   
 Ancestry.com Operations Inc.
@@ -355,4 +400,40 @@ Ancestry Ireland Unlimited Company
 Attn: Privacy Office  
 52-55 Sir John Rogerson’s Quay  
 Dublin D02 NA07  
-Ireland
+Ireland  
+  
+The Ancestry Privacy Statement describes the general privacy practices of Ancestry’s Services including the AncestryHealth® Service. More information specific to the AncestryHealth® Service is provided below. You can also access Ancestry’s Privacy Center for additional details on Ancestry’s privacy practices [here](https://www.ancestry.com/cs/privacyphilosophy).
+
+ **1.   What information does Ancestry collect through your use of the AncestryHealth Service?**
+
+We collect the following information from you to provide the AncestryHealth® Service, which includes Health Activation Information, Your Health History, Family Health History and DNA Data, as defined below. This information, along with other information specified in the Ancestry Privacy Statement, is collectively referred to here as your “Personal Information”.
+
+We collect personal and health history information about your family members (“ **Family Health History** ”) which you have voluntarily contributed to your AncestryHealth® account. The information collected may include:
+
+ **2.   How does Ancestry use your Personal Information?**
+
+Ancestry may also use Your Health History information in a de-identified format to improve, update and expand the AncestryHealth® Service.
+
+Ancestry may use your Family Health History information to deliver a personalized experience. Ancestry may also use your Family Health History information in a de-identified format to improve our AncestryHealth® Service and identify new product offerings.
+
+If the independent physician network partner approves your laboratory test, and, depending on which AncestryHealth® product you buy and whether we have your DNA Data from prior testing, Ancestry will either share your DNA Data, or send your sample for processing to our independent laboratory partner. Using your DNA Data, our independent laboratory partner will generate a test result, which Ancestry, in turn, will use to provide your health report.
+
+Ancestry's independent physician network will also have access to your test result and health report.
+
+ **Please note:** As addressed in our Privacy Statement, Ancestry commits not to share any Personal Information of AncestryHealth® Users with insurance companies, employers, or third party marketers. Ancestry does not voluntarily cooperate with law enforcement. To provide our Users with the greatest protection under the law, we require all government agencies seeking access to Ancestry customers’ data to follow valid legal process and do not allow law enforcement to use Ancestry’s services to investigate crimes or to identify human remains.
+
+ **3.   When do we share your information and who are the recipients?**
+
+Ancestry will share your Health Activation Information, Your Health History, test results, health report, and any questions you submit through the “Submit a Question” feature with the independent physician network who has been appointed as part of the AncestryHealth® Service. The independent physician network will use this information to determine your eligibility for the test, to review and provide oversight of the health reports, as well as to assist in providing genetic counseling services to you.
+
+ **Please note:** The use of your information by the independent physician network, PWNHealth, will be subject to their [Terms of Use](http://ancestry-csc.pwnhealth.com/terms-of-use) and [Notice of Privacy Practices](http://ancestry-csc.pwnhealth.com/privacy).
+
+ **4.   Your Choices and Access to your Personal Information?**
+
+You may access your AncestryHealth® Core or Plus test results and reports at any time, through the AncestryHealth® product. You may also download your DNA data obtained from the micro-array technology used to provide you AncestryHealth® test results free of charge from your DNA test settings page. If you are a AncestryHealth® Plus customer, there may be additional charges to download your full next generation sequencing (NGS) DNA Data once the download feature becomes available.
+
+ **5.   What are Ancestry’s retention practices for the AncestryHealth® Service?**
+
+Ancestry will retain the Personal Information you provided to the AncestryHealth® Service until you tell us to delete it. This is to ensure that you always have access to your test results, health reports, and to the physician network service which is included as part of the AncestryHealth® Service. In addition, if you have purchased the AncestryHealth® subscription, you will be entitled to receive results to new tests as they become available, and Ancestry will need access to your Personal Information in order to provide this service.
+
+Please note that our laboratory partners are required to retain your data for a period of at least ten (10) years, or as required by state law and the Clinical Laboratory Improvements Act (CLIA) and the guildelines that apply to laboratories certified by the College of American Pathologists (CAP). The independent physician network will retain your Personal Information as required by applicable laws and regulations and subject to their Terms of Use and Notice of Privacy Practices.
