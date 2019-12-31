@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the access-board.gov privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530104457id_/https%3A//www.access-board.gov/the-board/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the access-board.gov privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231213647id_/https%3A//www.access-board.gov/the-board/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - United States Access Board
 
