@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the earthlink.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224231id_/https%3A//www.earthlink.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthlink.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231214612id_/https%3A//www.earthlink.net/privacy-policy) for the most accurate reproduction.*
 
 # Earthlink Policies and Agreements | EarthLink
 
-#### EarthLink Privacy Policy
+## EarthLink Privacy Policy
 
 **1\. What does the EarthLink Privacy Policy cover?**  
 This Privacy Policy covers (i) the use and retention of personally identifiable information (“PII”) that EarthLink, LLC (“EarthLink”) collects from our customers and visitors to the webpages on earthlink.net, related subdomains and their pages (collectively, “EarthLink Communication Channels” including Website, Mobile App and Phone) and (ii) your options with regard to that collection and use. The EarthLink Communication Channels and the services and products offered on or through the EarthLink Communication Channels are collectively referred to in this Privacy Policy as “EarthLink Services”.
