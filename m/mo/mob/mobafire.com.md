@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobafire.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630001253id_/https%3A//www.mobafire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobafire.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231080235id_/http%3A//www.mobafire.com/privacy-policy) for the most accurate reproduction.*
 
 # League of Legends Strategy Build Guide :: LoL Strategy Building Tool by MOBAFire
 
@@ -91,4 +91,4 @@ Any updates to our privacy policy will be posted on this page, and/or we'll upda
 
 This policy was last modified on May 23, 2018
 
-[ ](https://web.archive.org/league-of-legends/build/how-to-play-team-fight-tactics-tft-553575)
+[ ](https://web.archive.org/league-of-legends/forum/news/mobafire-season-10-guide-contest-44049)
