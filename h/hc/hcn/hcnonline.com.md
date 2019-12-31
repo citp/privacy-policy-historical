@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hcnonline.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627221345id_/https%3A//www.chron.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcnonline.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231084058id_/https%3A//www.chron.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Houston Chronicle
 
 **Last Updated: May 24, 2018**
 
-When you use or interact with a U.S. website, mobile app or other digital service (each a “Digital Service”) operated or owned by Chron, a publication of Hearst Newspapers, LLC,, we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full [Privacy Notice](https://web.archive.org/web/20180627221345id_/https://www.chron.com/privacy_policy/) below for a detailed explanation of our practices.
+When you use or interact with a U.S. website, mobile app or other digital service (each a “Digital Service”) operated or owned by Chron, a publication of Hearst Newspapers, LLC,, we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full [Privacy Notice](https://web.archive.org/web/20191231084058id_/https://www.chron.com/privacy_policy/) below for a detailed explanation of our practices.
 
 ### What Information We Obtain
 
@@ -231,7 +231,7 @@ The technologies used to deliver ads on websites and mobile apps differ. Please 
 
   1. **Disabling Cookies.** Most browsers accept cookies by default. You may be able to change the settings to have your browser refuse certain cookies or notify you before accepting cookies. 
     * If you choose to disable the use of cookies in your web browser, some features of the Digital Services may become difficult to use or unavailable.
-  2. **Opt-out Cookies.** You can follow the instructions provided by the Digital Advertising Alliance (“DAA”) [here](http://www.aboutads.info/) and/or the Network Advertising Initiative (“NAI”) [here](http://optout.networkadvertising.org/) to place an opt-out cookie on your browser. These opt-out cookies enable you to block participating companies from installing future cookies on your computer or browser. 
+  2. **Opt-out Cookies.** You can follow the instructions provided by the Digital Advertising Alliance (“DAA”) [here](http://optout.aboutads.info/) and/or the Network Advertising Initiative (“NAI”) [here](http://optout.networkadvertising.org/) to place an opt-out cookie on your browser. These opt-out cookies enable you to block participating companies from installing future cookies on your computer or browser. 
     * If you place opt-out cookies but subsequently clear or delete cookies on your computer or device browser, your opt-out cookies may be deleted and you may have to renew your opt- out choices for that specific browser.
     * The opt-out mechanisms offered by the DAA and NAI are provided by third parties. Hearst does not control or operate these mechanisms or the choices provided through these mechanisms.
 
