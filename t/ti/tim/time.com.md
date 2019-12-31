@@ -1,146 +1,272 @@
-> *The following text is extracted and transformed from the time.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623121032id_/http%3A//time.com/privacy/generic_privacy_new.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231184631id_/https%3A//time.com/privacy/generic_privacy_new.html) for the most accurate reproduction.*
 
 # TIME Privacy Policy for the US
 
-## PRIVACY POLICY
+[](https://time.com/)
 
-### Table of Contents
+**PRIVACY POLICY**
 
-  * [Information We Collect](https://web.archive.org/privacy/generic_privacy_new.html#collect)
-  * [How We Use the Information ](https://web.archive.org/privacy/generic_privacy_new.html#use)
-  * [Privacy Options](https://web.archive.org/privacy/generic_privacy_new.html#options)
-  * [Your California Privacy Rights: Notice to California Customers](https://web.archive.org/privacy/generic_privacy_new.html#california)
-  * [Collection of Information by Third-Parties](https://web.archive.org/privacy/generic_privacy_new.html#3party)
-  * [Cookies and other Tracking Technologies](https://web.archive.org/privacy/generic_privacy_new.html#cookies)
-  * [Our Commitment to Security](https://web.archive.org/privacy/generic_privacy_new.html#security)
-  * [Accessing, Correcting, and Deleting Your Personal Information](https://web.archive.org/privacy/generic_privacy_new.html#access)
-  * [Retention of Personal Information](https://web.archive.org/privacy/generic_privacy_new.html#retention)
-  * [Special Note for Parents](https://web.archive.org/privacy/generic_privacy_new.html#parents)
-  * [Changes to this Privacy Policy](https://web.archive.org/privacy/generic_privacy_new.html#changes)
-  * [How to Contact Us](https://web.archive.org/privacy/generic_privacy_new.html#contact)
+**This Privacy Policy was last updated on December 31, 2019.**
 
+**Table of Contents**
 
-
-(NEW)[European Union Privacy Information](https://web.archive.org/privacy/generic_privacy_new_eu.html)  
-For citizens of member countries of the European Union, and Switzerland, Norway, Lichtenstein, Iceland, Australia, and New Zealand
-
-[Canada Privacy Information](https://web.archive.org/privacy/generic_privacy_new_caneu.html)  
-This is the Privacy Policy which applies to you if you live outside the [European Union](https://web.archive.org/privacy/generic_privacy_new_eu.html), Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and [Canada](https://web.archive.org/privacy/generic_privacy_new_caneu.html).
-
-This Privacy Policy discloses the privacy practices for TIME, the TIME USA LLC . owned and operated websites and mobile apps on which it appears, including those websites listed [here](https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/bus_units.html), our email newsletters and other applications owned and operated by TIME USA LLC , including offline and online subscriptions and other product offerings (collectively referred to as the "Services"), and to any other services that display this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this Privacy Policy explaining our information practices and the choices you can make about the way your information is collected and used by TIME USA LLC and its subsidiaries. 
-
-#### The Information We Collect
-
-Through the Services, you can, among other activities, order publications and products; engage in various activities like entering contests or sweepstakes, playing games, taking quizzes, voting in polls or otherwise expressing an opinion; subscribe to one of our services, such as newsletters; or participate in one of our online forums or communities. We collect the information, including any personally identifiable information, that you provide to us in the course of using the Services. The types of information that may be collected through these Services include, but are not limited to: name, address, gender, e-mail address, telephone number, fax number and credit or debit card information.
-
-We may also collect information about your personal or professional interests and your use of, or opinions about, various products, programs and services. For instance, we may ask you to identify your job or industry to qualify you for free business magazines.
-
-Through some features of the Services and through certain promotions, you can submit information about other people. For example, you might submit a person's name, mailing and/or e-mail address to send a gift or electronic greeting card. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address and telephone number.
-
-We , our partners, advertisers, advertising networks or other third party service providers, as explained further in the **"Collection of Information by Third-Parties"** section below, may also collect certain non-personally identifiable information when you visit our web pages, open our emails, use our applications, or otherwise use the Services, including such information as the type of browser and operating system you are using, your IP address, your device identifiers, your Internet or wireless service provider, location-based information , and the content and advertisements you have interacted with, viewed, or accessed. This data may be combined and linked with data from other sources.
-
-[back to top](https://web.archive.org/privacy/generic_privacy_new.html#top)
-
-#### How We Use the Information
-
-We may use the information collected under this Privacy Policy in the following ways: 
-
-  * We may use the information you provide about yourself or others to fulfill requests for our publications, products or services, to respond to inquiries about offerings and to offer other products, programs or services that may be of interest.
-  * We may combine information we receive with outside records and share such information with third parties for use on our behalf to enhance our ability to market to you those products or services that may be of interest to you.
-  * We may disclose personally identifiable information that we receive from you and from third party sources to third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you.
-  * When you request a magazine, service, or other product, we will forward the information you give us to the publisher or provider to the extent necessary to fulfill your request. They may contact you with special offers of possible interest.
-  * We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or sweepstakes, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account.
-  * If you choose to submit content (e.g., a "letter to our editors" or an online review), we may publish your name, screen name and other information you have provided to us. You hereby consent to this.
-  * The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
-  * We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites, and to enable us to customize your Internet experience. We also may use this information to analyze site usage, as well as to offer you products, programs, or services.
-  * We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
-  * Agents and contractors of TIME USA LLC that have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for TIME USA LLC.
-  * We may transfer your personally identifiable information to other TIME USA LLC offices for internal management and administrative purposes on our behalf. Your personal data will be transferred to other TIME USA LLC . offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. To the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of TIME USA LLC ., our agents, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
-  * Please note that if TIME USA LLC . or any of its subsidiaries or lines of business is merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested, or otherwise disclosed as part of that transaction or proceeding.
+  1. The Information We Collect
+  2. How We Use the Information We Collect
+  3. Disclosure of Information.
+  4. Third Party Websites
+  5. Your California Privacy Rights: Notice to California Customers
+  6. Special Information for Nevada Residents 
+  7. Your Opt-Out Choices 
+  8. Security of Personal Information. 
+  9. Retention of Personal Information.
+  10. Special Note for Parents 
+  11. Changes to this Privacy Policy.
+  12. How to Contact Us
 
 
 
-#### Privacy Options
+[European Union Privacy Information](https://time.com/privacy/generic_privacy_new_eu.html)  
+The European Union Privacy Policy applies to data subjects in the European Union, and Switzerland, Norway, Lichtenstein, Iceland, Australia, and New Zealand
 
-If you prefer not to receive traditional mail or other off-line promotions from this or any other TIME USA LLC . property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by TIME USA LLC , please [click here](https://www.meredith.com/offlinePrivacy.html).
+[Canada Privacy Information](https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new_caneu.html?dnp-source=E)  
+The Canada Privacy Policy applies to you if you live in [Canada](https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new_caneu.html?dnp-source=E).
 
-If you prefer not to receive e-mail marketing from this or any other TIME USA LLC . property, or if you want to opt-out of any sharing of your email address with third parties not owned by TIME USA LLC ., please [click here](mailto:privacy@meredith.com).
+Your privacy is important to us. This Privacy Policy describes how TIME USA LLC and its affiliates or subsidiaries (“Time,” “we,” or “our”) collect, use, and disclose information when you interact with Time, including our owned and operated websites (<https://time.com/>), mobile apps, email newsletters, online subscriptions, other product offerings, and any other services that display this Privacy Policy (collectively referred to as the “Services”). This Privacy Policy also applies to any offline data collection, such as the contact information you provide to create or update your print subscriptions.
 
-We will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+In this Policy, “personal information” means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular individual.
 
-[back to top](https://web.archive.org/privacy/generic_privacy_new.html#top)
+Individuals from different countries or jurisdictions may have different rights with respect to their personal information. We reserve the ability to limit our response to any request to exercise your rights based on the law that is applicable to you.
 
-#### Your California Privacy Rights: Notice to California Customers
+  1. The Information We Collect 
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: TIME USA LLC . sites do not recognize the "do not track signals" that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://www.meredith.com/offlinePrivacy.html), or for email please [click here](mailto:privacy@meredith.com). To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
+Through the Services, you can, among other activities, order publications and products; sign up for events; engage in various activities including entering contests or sweepstakes, voting in polls or otherwise expressing an opinion; subscribe to one of our services, such as magazines or newsletters; or participate in one of our online forums or communities.
 
-#### Collection of Information by Third Parties
+Some of the information we request from you is required in order for you to use our Services. If you do not wish to provide such information to us, you are not obligated to, but as a result you may not be able to use the particular Service. However, some of the information we request from you is optional. This means that you can elect not to provide it to us and you will still be able to use the Service. If not all the information we request on a form is required, we may identify the required information to you such as by displaying an asterisk (*) next to the field where we request the required information.
 
-Some of our Services contain links to third party sites and services whose privacy practices may be different than ours. We also allow you to connect with other third party sites and services. You should consult the other third party sites' and services' privacy notices in order to better understand their privacy practices.
+**Information you give us about yourself or others** : You give information to us directly when, for example, you register for a subscription or newsletter, purchase a product from us, disclose information in response to a survey, apply for a job, or contact our customer service department.
 
-We sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the TIME USA LLC . site and the third parties. TIME USA LLC . has no control over the third parties' use of this information.
+Through some features of the Services and through certain promotions, you can submit information about other people. For example, you might submit a person's name, mailing and/or e-mail address to send a gift or electronic greeting card. The types of personal information that may be collected about other people at these pages include: recipient's name, address, e-mail address and telephone number. Please ensure that you notify the person whose information you are providing to us.
 
-We may use third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the Services and to conduct research about the advertisements-or the Services themselves. Additionally, third parties may place and use tracking mechanisms, e.g., tracking pixels, in the emails we may send to you. This Privacy Policy does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
+Please remember that any information you disclose in any public forum or community areas becomes public information and is immediately accessible to other users, so it is important for you to carefully consider what, if any, information you reveal in these areas.
 
-For more information on advertisements and your behavioral advertising options, visit our [About Ads page](https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html) and our [Network Advertising Initiatives page](https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/parties.html).
+**Information we collect automatically** : When you interact with our Services, we (and our partners, advertisers, advertising networks and other third party service providers) automatically collect certain information. For example, we collect information about the webpages you view and how you move through our Services, how you reached our Services, how you interact with our social media pages, and how you interact with our email communications.
 
-Note regarding Market Research/Ratings: Our Services may also feature Nielsen's proprietary measurement software which may contribute to market research, like Nielsen's TV Ratings. To learn more about this information, please click [here](http://www.nielsen.com/digitalprivacy). Nielsen's software may collect your choices with regards to it.
+We (and our partners, advertisers, advertising networks and other third party service providers) use cookies and other tracking technologies to obtain information automatically. Cookies are small text files that are placed in your computer or device to store your preferences. Other information you provide to us may be linked to the data stored in the cookie. A cookie assigns a unique numerical identifier to your Web browser or device, and may enable us to recognize you as the same user who has used our Services, and relate your use of the Services to other information about you. Please see our [Cookies Policy](http://e-qa.time.com/privacy/cookie-policy.html), which explains our use of cookies and similar technologies in connection with our Services and lists partners and other third parties who collect information from you automatically on our Services.
 
-We also may use certain recognition services by our partner LiveRamp. To opt out of such services by LiveRamp, please visit <https://liveramp.com/opt_out/>.
+**Information from other sources** : We obtain information from third party sources, which may include:
 
-#### Cookies and other Tracking Technologies
+    * Third party data suppliers from which we purchase demographic data to supplement the data we collect;
+    * Social networks when you reference our Services or grant permission to Time to access your data on one or more of these services;
+    * Partners with which we offer co-branded services, sell or distribute our products, or engage in joint marketing activities; and
+    * Publicly-available sources such as open government databases or other data in the public domain.
 
-We may place "cookies" on your computer or device. Cookies are small text files that we place in your computer or device to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personal information unless you choose to provide this information to us by, for example, registering with one of our Services. Once you choose to provide us with personal information, this information may be linked to the data stored in the cookie. A cookie assigns a unique numerical identifier to your Web browser or device, and may enable us to recognize you as the same user who has used our Services, and relate your use of the Services to other information about you, such as your usage information and personal information.
+The following is a listing of the personal information we collect.
 
-We use cookies (and Local Shared Objects, HTML5, cache cookies, web beacons, or clear gifs, all described further below) to understand usage of the Services and to improve our content and offerings and to deliver advertisements that you might be interested in. For example, we may use cookies to personalize your experience on our Services (e.g., to recognize you by name when you return to our site, to save your password in password-protected areas, to enable shopping carts, or to tailor content or product and service offerings).
+    * **Personal Identifiers** :
+      * Name, phone number, email address, and contact address.
+      * Demographic information such as age, gender, and income level.
+      * Social media handle and basic account information when you interact with our Services through social media.
+      * We collect or create a unique numerical identifier when you use our Services.
+      * We collect your credit card number (through a service provider) when you complete a transaction. You have the option to store this information as part of your account.
+      * We or external parties operating on our behalf collect information about the device you use to access our Services, such as your IP address, a device ID, and information about your web browser.
+    * **Commercial Information** : When you engage in transactions with us, we create records of goods or services purchased or considered, as well as purchasing or consuming histories or tendencies.
+    * **Internet or Other Electronic Network Activity Information** : We collect information about the websites you came from and to which you are going, ad clicks, search history, and other information regarding your interaction with our websites and applications, such as the duration you stay on a webpage.
+    * **Audio, electronic, visual, thermal, olfactory, or similar information** : If you contact us via phone, we may record the call. We will notify you if a call is being recorded at the beginning of the call. We may collect your photographic or video image in limited circumstances, such as when you attend an event hosted by Time.
+    * **Professional or employment-related information** : We collect professional or employment-related information you voluntarily provide.
+    * **Education information** : We collect education information you voluntarily provide.
+    * **Geolocation Data** : We collect your IP address automatically when you use our Services, from which we or external parties operating on our behalf may be able to determine your general location. If you are using our app, with your consent, we or our authorized service providers and partners also may use precise geolocation technology such as GPS or Wi-Fi triangulation or mobile Bluetooth beacon technology to collect information about the exact location of your mobile device.
+    * **Inferences drawn to create a profile about a consumer reflecting the consumer’s preferences or characteristics** : We or third parties operating on our behalf may analyze your actual or likely preferences based on the information we gather about you as described above.
 
-Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you have refused cookies or similar tracking technologies and you should be aware that disabling cookies or similar tracking technologies might prevent you from accessing some of our content. However, your viewing of editorial content may be hampered. If you wish to block cookies, go to <http://www.allaboutcookies.org/> to find out how, or check your browser's instructions.
 
-Some of the tracking technologies we use include: 
+  2. How We Use the Information We Collect 
 
-  * Local Shared Objects: Local shared objects, such as .Flash cookies,. also may be stored on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, see <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
-  * HTML 5: HTML5, the language some Web sites are coded in, may be used to store information on your computer or device about your Service usage activities. This information may be retrieved by us to help us manage our Services, such as by giving us information about how our Services are being used by our visitors, how they can be improved, and to customize them for our users.
-  * Cache Cookies: Cache cookies, such as eTags, may be used to identify your computer or device as the same computer or device that visited a Service or Services in the past.
-  * Web Beacons: Our websites may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. A web beacon is an electronic image called a single-pixel or clear GIF. Web beacons can recognize certain types of information, such as a user's cookie number, time and date of a page view, and description of the page where the web beacon is placed. These web beacons may be used to deliver cookies that conform to our cookie policy above.
+We may use and/or disclose the information we collect for the following purposes:
+
+**Provide the Services:**
+
+    * Deliver content and fulfill requests for our publications, products, or services, including on our websites and in our apps. For example, when you subscribe to one of our publications or newsletters, we use the information we collect to deliver print issues and fulfill digital subscriptions and newsletters.
+    * Establish and administer your account, including conducting billing and invoicing, contacting you about the expiry of your subscription and sending you service messages about your subscription. For example, once you are subscribed, we may store your subscription information, including its start date, renewal date, pricing, publication, and any customer service contacts you may have with us.
+    * Authenticate access to your account. For example, you may provide us with a username and password to get access to your account.
+    * Perform maintenance and operations, including management of the network and devices supporting the Services and our systems.
+    * Provide technical support and assure quality of customer service interactions.
+    * Facilitate hardware and software upgrades for devices and systems.
+    * Enable your participation in surveys, sweepstakes, contests, and promotions.
+    * Enable your participation in community forums.
+
+**Communicate with You:**
+
+    * Respond to your inquiries.
+    * Personalize communications.
+    * Send you service-related announcements, such as to notify you when you have won one of our contests or sweepstakes, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account.
+
+**Make Improvements to Our Products and Services:**
+
+    * Identify and develop new products and services.
+    * Improve the design of our Services.
+    * Understand how our Services are used, including by creating measurement and analytics reports.
+
+**Provide Recommendations and Deliver Relevant Advertising:**
+
+    * Offer products, programs or services that may be of interest to you, and keep you informed of new happenings at Time.
+    * Market our Services.
+    * Determine which content to recommend to you.
+    * Send you promotional communications for the Services and other products and services we think may be of interest to you, including by disclosing contact information to third parties that may want to market products or services to you.
+    * Deliver more relevant advertising.
+
+**Investigate Theft or Other Illegal Activities and Ensure a Secure Online Environment:**
+
+    * Detect the unauthorized reception, use, or abuse of the Service.
+    * Protect you and other subscribers from fraudulent, abusive, unlawful use of, or subscription to, the Service.
+    * Protect our rights, our personnel, and our property.
+    * Comply with applicable law.
+
+We and our partners use cookies, tags, pixels, web beacons, or other means of collecting information automatically from you. Please see our [Cookies Policy](http://e-qa.time.com/privacy/cookie-policy.html) for more information.
 
 
 
-These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Service usage information to other information about you, including your personal information. We may match information collected from you through different means or at different times, including both personal information and Service usage information, and use such information along with offline and online information obtained from other sources (including third parties) such as demographic information and updated contact information (where that information has been lawfully disclosed to us) for the purposes of learning more about you so we can provide you with relevant content.
+  3. Disclosure of Information 
 
-[back to top](https://web.archive.org/privacy/generic_privacy_new.html#top)
+**Publicly:** If you choose to submit content (e.g., a “letter to the editor” or an online review), we may publish your name, screen name and other information you have provided to us, which will be public.
 
-#### Our Commitment to Security
+**Affiliates:** We may transfer information to other Time offices for internal management and administrative purposes or where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. We may combine information from the Services together and with other information we obtain from our business records. Additionally, information collected about you from a particular browser or device may be linked to information collected from another computer or device that we believe relates to you.
 
-We have put in place appropriate administrative, technical, and physical safeguards to help prevent unauthorized access, maintain data security and correctly use the information we collect. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
+**Sale or Merger of Business** : We may transfer to another entity or its affiliates or service providers some or all information about you in connection with, or during negotiations of, any merger, acquisition, sale of assets or any line of business, change in ownership control, or financing transaction. We cannot promise that an acquiring party or the merged entity will have the same privacy practices or treat your information the same as described in this Policy.
 
-#### Accessing, Correcting, and Deleting Your Personal Information
+**Service Providers** : We may disclose personal information to our service providers, which are companies that process information on our behalf, without your consent to deliver the Service and conduct business activities. We require the service providers to treat the information we disclose to them, or that they collect on our behalf, as confidential and to use the information only for the purposes for which they have been engaged. The following is a list of categories of our service providers.
 
-We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates.
+    * Subscription management and fulfillment providers.
+    * Billing and collection providers, such as payment processors and organizations that assist us in assessing your credit and payment status.
+    * Auditing and accounting firms.
+    * Professional services consultants, such as firms that assist with providing legal services, or supplying project-based resources and assistance.
+    * Advertising, marketing, and analytics services, including entities that analyze the information we collect from or about you to communicate with and advertise to you.
+    * Security vendors, such as entities that assist with security incident verification and response, service notifications, and fraud prevention.
+    * IT vendors, such as entities that assist with website design, hosting, and maintenance, data and software storage, and network operation.
 
-We encourage you to review, update, and correct the personal information that we maintain about you, and you may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirements, by contacting us as set out in the "How to Contact Us" section below. At our election, instead of deleting such information, we may retain it with your comment or correction noted in our records. By contacting us, you may also object to our further use of your personal information if you have compelling legitimate grounds (this may involve closing your account). We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to review, update, correct, and delete your personal information may be limited, subject to the law or your jurisdiction: (i) if your requests are abusive or unreasonably excessive, (ii) where the rights or safety of another person or persons would be encroached upon, or (iii) if the information or material you request relates to existing or anticipated legal proceedings between you and us, or providing access to you would prejudice negotiations between us or an investigation of possible unlawful activity. Your right to review, update, correct and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
+There are limited circumstances in which the service provider collects data directly from you when their privacy policies may also apply.
 
-#### Retention of Personal Information
+**Third Parties** : We may disclose personal information to third parties. The following is a list of categories of our third-party partners.
 
-We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity. Your rights to request that we delete your personal information are set forth in the **"Accessing, Correcting, and Deleting Your Personal Information"** section above.
+    * _Advertising, Marketing, and Analytics Partners_ : We partner with companies that assist us with marketing our Services, including by “remarketing” to you on other websites, apps, or social media platforms. These companies may collect information from you automatically via cookies or other tracking technologies when you use our Services. 
+    * _Other External Parties_ : We may disclose personally identifiable information, including your contact information, to organizations such as marketers, other magazine publishers, retailers, and non-profit organizations that want to market products or services to you.
 
-#### Special Note for Parents
+**Authorities** : We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request.
 
-The site you are visiting is one of the TIME USA LLC . general audience sites and is not intended for use by children. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
 
-#### Changes to this Privacy Policy
 
-This Privacy Policy may be changed by TIME USA LLC . The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
+  4. Third Party Websites 
 
-#### How to Contact Us
+Our Services provide links to third party websites or offerings where data privacy practices may be different to that of Time. The inclusion of any link does not imply our endorsement of any other company, its websites, or its products and/or services. These linked websites or offerings have separate and independent privacy policies, which we recommend you read carefully. We have no control over such websites or offerings and therefore have no responsibility or liability for the manner in which the organizations that operate such linked websites or offerings may collect, use, disclose, or otherwise treat your personal information.
 
-If you have any questions or concerns about the TIME USA LLC Privacy Policy or its implementation please contact us via email by [clicking here](mailto:privacy@meredith.com) or by writing to:
 
-Meredith Corporation  
-225 Liberty Street  
-New York, NY 10080  
-Email: [privacy@meredith.com](mailto:privacy@meredith.com)  
-1-515-284-3000
 
-[back to top](https://www.time.com/privacy/generic_privacy_new.html#top)
+  5. Your California Privacy Rights: Notice to California Customers 
 
-This Privacy Policy was revised September 29, 2017.
+**California Shine the Light** : California’s “Shine the Light” law, Civil Code Section 1798.83, requires businesses that disclose personal information to third parties for those third parties’ direct marketing purposes to give California customers the ability to opt-out of such disclosure. California Residents may exercise their opt-out right by going to our [California Do Not Sell Page](https://privacyportal-cdn.onetrust.com/dsarwebform/ec48745c-0b96-47da-aa41-f959ab79a818/e1de9460-d63a-4d4c-94d8-e876f7bbbb75.html).
+
+**California Consumer Privacy Act (“CCPA”):**
+
+The California Consumer Privacy Act (“CCPA”) grants residents of California certain rights with respect to their personal information and requires us to provide such individuals with certain information, as described in this Section.
+
+    * _Your Rights_ :
+    * _Transparency_ : At the time we collect personal information, you have the right to receive notice of the categories of personal information we collect, and the purposes for which those categories of personal information will be used.
+      * _Access/Right to Know_ : You have the right to request access to personal information we collected about you and information regarding the source of that personal information, the purposes for which we collect it, and the third parties and service providers with whom we share it. You can make this access request by going to our [California Access/Deletion Page](https://privacyportal-cdn.onetrust.com/dsarwebform/ec48745c-0b96-47da-aa41-f959ab79a818/d8de5a31-ec91-4408-bcc4-b89e24c83c97.html). If you are a print subscriber, you can also access and update much of the personal information we have collected about you through your [account page](https://w1.buysub.com/pubs/MX/TIM/Login_No_API.jsp?cds_page_id=231850&cds_mag_code=TIM&id=1576679095870&lsid=93520824558046323&vid=1).
+    * _Deletion_ : You have the right to request that we erase data we have collected from you. Please note that we may have a reason to deny your deletion request or delete data in a more limited way than you anticipated, e.g., because of a legal obligation to retain it or to provide a good or service that you request. You can make this deletion request by going to our [California Access/Deletion Page](https://privacyportal-cdn.onetrust.com/dsarwebform/ec48745c-0b96-47da-aa41-f959ab79a818/d8de5a31-ec91-4408-bcc4-b89e24c83c97.html).
+      * _Opt-Out of Sale_ : You have the right to request that we stop “selling” your personal information as that that term is defined in the California Consumer Privacy Act. A “sale” of personal information is defined broadly: “selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer’s personal information by the business to another business or a third party for monetary or other valuable consideration.” Please see below for more information about our “sales” of personal information. To opt-out, please go to our [California Do Not Sell Page](https://privacyportal-cdn.onetrust.com/dsarwebform/ec48745c-0b96-47da-aa41-f959ab79a818/e1de9460-d63a-4d4c-94d8-e876f7bbbb75.html).
+    * _Categories of personal information we collect_ : We collect the categories of information described above in the “  **Information We Collect** ” section for the purposes described in the “  **How We Use Information** ” section.
+    * _Categories of personal information we disclose_ : We may disclose any of the categories of personal information listed above and use them for the above-listed purposes or for other business or operational purposes compatible with the context in which the personal information was collected. Our disclosures of personal information include disclosures to our “service providers,” which are companies that we engage for business purposes to conduct activities on our behalf. The categories of service providers with whom we share information and the services they provide are described above.
+    * _Categories of personal information we “sell”_ : We may “sell” any of the categories of personal information listed above to third parties, _except_ for Professional or employment-related information; and Education information. To opt-out of such sales, please go to our [California Do Not Sell Page](https://privacyportal-cdn.onetrust.com/dsarwebform/ec48745c-0b96-47da-aa41-f959ab79a818/e1de9460-d63a-4d4c-94d8-e876f7bbbb75.html).
+
+You can also contact us as described below in the “ ** How to Contact Us  ** ”. 
+
+
+
+  6. Special Information for Nevada Residents 
+
+Residents of the State of Nevada have the right to opt out of the sale of certain pieces of their information to other companies who will sell or license their information to others. We disclose contact information to third parties that may want to market products or services to you. To opt-out of such sales, please email us at [privacy@time.com](mailto:privacy@time.com?subject=Nevada%20residents%20do%20not%20sell%20my%20personal%20information).
+
+
+
+  7. Your Opt-Out Choices 
+
+**Verification Procedures** : We must verify your identity for everyone’s protection. To do so, we may require you to provide us with verification information prior to accessing any records containing personal information about you. We do this by:
+
+    * Asking you to provide personal identifiers we can match against information we may have collected from you previously and confirm your request using the email or telephone number stated in the request; or
+    * Having you submit your request through your account page (if you are a subscriber), which will automatically verify your identity and will result in faster processing of your request.
+
+If you are a California resident, you may authorize another individual or a business registered with the California Secretary of State, called an authorized agent, to make requests on your behalf. If we receive a request from an authorized agent, we require that the authorized agent verify its identity with us, that you verify your identity with us, and that you provide us with proof that you authorized the authorized agent in writing to make the request.
+
+We will use the information you provide for verification only for the purpose of verification. We may have a reason under the law why we do not have to respond to your request, or respond to it in a more limited way than you anticipated. If we do, we will explain that to you in our response.
+
+**Your Account and Payment Information** : If you are a print subscriber, please visit the [account page](https://w1.buysub.com/pubs/MX/TIM/Login_No_API.jsp?cds_page_id=231850&cds_mag_code=TIM&id=1576679095870&lsid=93520824558046323&vid=1) to update your contact information and payment method.
+
+**Marketing and Other Communications** :
+
+    * If you wish to unsubscribe from receiving future email marketing from Time, please use the unsubscribe link that appears at the bottom of our marketing emails.
+    * If you are a newsletter subscriber, you may unsubscribe using the unsubscribe options in the newsletter emails.
+    * If you wish to opt-out of sharing of your personal information, including contact information, with third parties for marketing purposes, please email us [here](mailto:TIMcustserv@cdsfulfillment.com.?subject=Do%20not%20share%20my%20personal%20information%20with%20third%20parties).
+    * If you prefer not to receive traditional mail or other offline promotions from Time, please email us [here](mailto:TIMcustserv@cdsfulfillment.com.?subject=I%20do%20not%20wish%20to%20receive%20offline%20promotions%20from%20TIME).
+    * Please note that even if you opt out of receiving marketing communications from us, we may continue to send you transactional communications about your subscription or orders.
+
+**Opt-out of “sale”** : If you are a California resident, you have the right to opt out of our “sale” of personal information to third parties. Please see “  **Your California Privacy Rights: Notice to California Customers** ” above for a description of your rights and information on how to opt out.
+
+**Cookie Management, Analytics, Personalized Advertising, and Do Not Track** :
+
+    * Information about our use of cookies and other tracking technologies is available in our [Cookie Policy](http://e-qa.time.com/privacy/cookie-policy.html).
+    * You can control cookies using your web browser’s settings. If you delete your cookies or if you set your browser to decline cookies, some features of the Services may not be available, work, or work as designed.
+    * You can use our partners’ links above to learn more about the options they may make available to opt-out of their tracking technologies.
+    * You can broadly opt out of participating companies’ website tracking technologies by visiting the websites for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/), the [Digital Advertising Alliance](http://www.aboutads.info/choices), and the [European Interactive Digital Advertising Initiative](http://www.youronlinechoices.eu/).
+    * Similarly, you can learn about your options to opt out of mobile app tracking by some advertising networks through your device settings and by resetting the advertiser ID on your mobile device.
+
+When you make an opt-out choice, it does not necessarily mean that you will stop receiving ads altogether, but you will no longer receive personalized ads.
+
+If you delete your cookies, you may also delete your opt-out preferences.
+
+Your browser or device may include “Do Not Track” functionality. At this time, Time does not respond to browser “Do Not Track” signals.
+
+
+
+  8. Security of Personal Information 
+
+We have put in place administrative, technical, and physical safeguards to help prevent unauthorized access, maintain data security and correctly use the information we collect. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen.
+
+
+
+  9. Retention of Personal Information 
+
+We will retain your personal information while you have an account with us and thereafter for as long as we have a legitimate need to retain it. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity.
+
+
+
+  10. Special Note for Parents 
+
+The site you are visiting is one of the Time general audience sites and is not intended for use by children. If you are under the age of 16 please do not submit any personal information through this site.
+
+
+
+  11. Changes to this Privacy Policy 
+
+This Privacy Policy may be updated periodically to reflect changes to our information practices. The revised Privacy Policy will be posted on this website with the date of the last modification, and we will notify of the changes if required by the applicable law. We will treat your information in accordance with the privacy policy in place at the time of collection of such information, or as you otherwise indicate your preferences. We encourage you to check whenever you use our Services to see if the policy has been updated.
+
+
+
+  12. How to Contact Us 
+
+If you have any questions or concerns about this Privacy Policy, our data practices, or our compliance with applicable law please contact us by writing to us at [privacy@time.com](mailto:privacy@time.com?subject=Privacy%20Question), or at:
+
+Time USA, LLC  
+Attention: Privacy Officer  
+3 Bryant Park  
+New York, NY 10036
+
+Toll-free: 800-843-8463
+
+If you are a print subscriber located in the U.S. and have questions about your subscription, please contact us by writing to us at [customerservice@time.com](mailto:customerservice@time.com) or at:
+
+Time Customer Service   
+Attention: Consumer Affairs   
+3000 University Center Drive   
+Tampa, Florida 33612-6408   
+Toll-free: 800-843-8463 
+
+
+
