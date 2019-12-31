@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fosshub.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604034317id_/http%3A//www.fosshub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fosshub.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231234144id_/https%3A//www.fosshub.com/privacy.html) for the most accurate reproduction.*
 
 # Fosshub | Privacy
 
