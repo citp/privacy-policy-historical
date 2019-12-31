@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the findicons.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232452id_/https%3A//findicons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findicons.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231044317id_/https%3A//findicons.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - FindIcons.com
-
-## Privacy Policy
+# Privacy Policy - Find Icons
 
 FindIcons.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the FindIcons website, you are accepting the practices outlined in this Privacy Policy.
 
