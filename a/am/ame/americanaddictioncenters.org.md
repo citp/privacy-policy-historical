@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanaddictioncenters.org privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027173146id_/https%3A//americanaddictioncenters.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanaddictioncenters.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231232023id_/https%3A//americanaddictioncenters.org/policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -122,7 +122,10 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 <http://www.americanaddictioncenters.org/contact-us/>
 
-**American Addiction Centers**   
-200 Powell Place   
-Brentwood, TN 37027   
+**American Addiction Centers**
+
+200 Powell Place
+
+Brentwood, TN 37027
+
 [contactaac@contactaac.com](mailto:contactaac@contactaac.com "AAC's Email")
