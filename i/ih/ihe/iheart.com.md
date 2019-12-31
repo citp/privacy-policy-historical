@@ -1,165 +1,314 @@
-> *The following text is extracted and transformed from the iheart.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232235id_/https%3A//www.iheart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheart.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231212122id_/https%3A//www.iheart.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iHeartRadio
 
-[Versión en Español](https://web.archive.org/content/poltica-de-privacidad-y-cookies/)
+**Versión en Español:**[ **https://www.iheartradio.com/legal/privacy-es**](https://www.iheartradio.com/legal/privacy-es)
 
-UPDATED AS OF: July 16, 2018
+UPDATED AS OF: DECEMBER 19, 2019
 
-iHeartMedia, Inc. ("iHeartMedia", "we", "us", or "our") is committed to maintaining your confidence and trust as it relates to the privacy of your information. This Privacy Policy describes how we collect, protect, share and use your information as part of our technology platforms, including, our websites, interactive features and mobile Apps ("Platforms") and how you may access and control its use in connection with our marketing communications and business activities.
+iHeartMedia, Inc. and our affiliates and subsidiaries (the list of which is viewable at <https://iheartmedia.com/Other-Businesses>) (collectively "iHeartMedia", "we", "us", or "our") are committed to maintaining your confidence and trust as it relates to the privacy of your information. This Privacy Policy describes how we collect, protect, share and use your information, both offline and online, including as part of our websites, interactive features, and Apps (collectively, "Platforms"), and your rights and choices in connection your information.
 
 ## QUICK GUIDE TO CONTENTS
 
-  1. INFORMATION COLLECTED ON OUR PLATFORMS
-  2. HOW WE USE THE INFORMATION WE COLLECT
-  3. SHARING OF INFORMATION
-  4. ADVERTISING SERVICES
-  5. YOUR PRIVACY RIGHTS, CHOICE AND ACCESS
-  6. CHILDREN
-  7. SECURITY OF YOUR INFORMATION
-  8. OTHER SITES
-  9. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION
-  10. CHANGES
-  11. CONTACT US
+  1. WHAT INFORMATION WE COLLECT
+  2. HOW WE USE INFORMATION 
+  3. WE COLLECT INFORMATION FROM VARIOUS SOURCES
+  4. WE SHARE INFORMATION WITH OTHERS
+  5. YOUR CHOICES
+  6. YOUR CALIFORNIA PRIVACY RIGHTS
+  7. CHILDREN
+  8. SECURITY OF YOUR INFORMATION
+  9. OTHER SITES
+  10. UNITED STATES ONLY
+  11. CHANGES
+  12. CONTACT US
 
 
 
-## 1\. INFORMATION COLLECTED ON OUR PLATFORMS
+## 1\. WHAT INFORMATION WE COLLECT
 
-### Information You Provide To Us
+We (and the vendors we hire to perform business functions on our behalf) and third parties who have integrated their technologies into our platforms and services may collect, receive, and develop several categories of personal information about you depending on the nature of your interactions with us:
 
-When you use the Platforms, for example to register to create an account, update your information, sign up for a subscription, use certain features, access or download content, purchase items or enter into promotions, refer others to the Platform, interact with us via third party applications or social media sites, request customer support or otherwise communicate with us, we or our service providers or business partners may collect information that identifies you, including personal information, such as your name, e-mail address, telephone number, mobile phone number, credit card or debit card details, geographic location, mailing address, date of birth, demographic information (such as zip code, age and gender), photos, videos, social media account details and other information from your device.
+**_Identifiers:_** We may collect your name, e-mail address, telephone number, mobile phone number, mailing address, date of birth, social media account handles or usernames, and iHeartMedia account usernames and passwords. We may collect your Social Security Number if you are the winner of a promotion or contest. You may create a personal iHeartRadio Code by enabling this feature through the settings in the Apps; the iHeartRadio Code is connected to a unique identifier that ties back to your iHeartRadio account and the information associated with your account. You may also submit photos and videos.
 
-You may decide to provide us with another person's email or phone number so that person may be invited to join iHeartMedia or so that we may facilitate your communication with other people through the service. Local law may require you to seek the consent of your contacts to provide their personal information to iHeartMedia, who may use that information in accordance with the terms of this Privacy Policy.
+**_Demographic and Classification Information:_** We may collect your zip code, age, gender, race, and political affiliation.
 
-You may choose to create a personal iHeartRadio Code by enabling this feature through the settings in the App. The iHeartRadio Code is connected to a unique identifier that ties back to your iHeartRadio account and the information associated with your account (e.g., email, year of birth, gender). The iHeartRadio Code can be scanned to enter iHeartMedia contests, access events, and other exclusive promotions and to interact with our Services. We may use the iHeartRadio Code for our administering our contests, promotions, events and for advertising, marketing and related business purposes. We may share the iHeartRadio Code and the associated unique identifier (and underlying account data as well as your name and phone number), with third parties, including our business partners for marketing purposes and as set forth in the applicable sections of our Privacy Policy governing the use and sharing of such data.
+**_Purchase and Preference Information:_** We may collect information about the artists, stations, podcasts, playlists, and genres you are interested in; content you purchase, access, or download; records of your transactions and subscription purchases; records of contests you enter.
 
-### Information Collected Automatically
+**_Browser, Usage, and Device Information:_** We use tracking tools like cookies and pixels to automatically collect information about your interactions with our Platforms, such as your IP address and other unique identifiers for the computer, mobile device, tablet or other device ("Device"), including the hardware model and mobile network information. We collect information about your use of the Platforms, including your browser type; operating system; activations; listening times; what areas of the Platforms you access and for how long; search terms you enter; how long you stay on a page; which hyperlinks and content or advertisements you click on; which songs, playlists, audiovisual content and other iHeartMedia users you interact with; and the page served and preceding page views. If you use our Apps, we may also look at how often you use the Apps and where you downloaded it. We may collect information about your views, clicks, and interactions with our digital content and advertisements (both on and off the Platforms), as well as our promotional emails.If you create an account using your credentials from a third-party social media site, we will have access to certain information from that site, as described further below.
 
-Whenever you visit or interact with the Platforms, we, as well as any third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Platforms are accessed and used ("Usage Information"). Usage Information may include information collected in the following ways:
+**_Location Information:_** We or our vendors or third parties may collect information about the general location of your Device when you access or use the Platforms; or if you choose to turn on your Bluetooth, Wi-Fi or other geolocation functionality when you use the Apps, subject to your consent, the Apps or SDKs embedded within the Apps may collect, infer, and use more precise geolocation information.
 
-**Log Files:** Information is logged about your use of the Platforms, including your browser type, operating system, activations, content you purchase, access, or download, listening times, the page served and the preceding page views. This statistical usage data provides us with information about the use of the Platforms, such as how many visitors visit a specific page on the Platforms, how long they stay on that page, and which hyperlinks, if any, they “click” on. It also provides us with information about your interactions with songs, playlists, audiovisual content and other iHeartMedia users, as well as advertising and products or services offered through or linked from the Platforms. This information helps us keep our Platforms fresh and interesting to our visitors and enables content to be tailored on and off the Platforms to a visitor’s interests.
+**_Employment-Related Information:_** If you apply for a job, we may collect information about your work experience and previous employment, your education history, your resume, the URL to your personal or professional websites, your workplace skill sets and certifications, whether you need a visa to work in the United States, and salary expectations. If you apply for a job, you can choose to also voluntarily provide any of the following self-identifying information: ethnicity, gender, disability status, and/or veteran status.
 
-**Device Identifiers** : We or our service providers and partners may automatically collect your IP address or other unique identifier ("Device Identifier") for the computer, mobile device, tablet or other device (“Device”) you use to access the Platforms, including the hardware model and mobile network information. A Device Identifier is a number such as a mobile advertising identifier (Android AAID or Apple IDFA) that is automatically assigned to your Device when you access a website or its servers or an application, and our computers identify your Device by its Device Identifier. We may use and share with third parties Device Identifiers to, among other things, administer the Platforms, help diagnose problems with our servers, analyze trends, provide attribution metrics to our advertisers and partners, track users' web page movements, help identify you and your shopping cart, and gather broad demographic information for aggregate use.
+**_Payment Information:_** We collect your credit card or debit card details when you make a purchase.
 
-**Location Information** : We may collect or infer information about the general location of your Device when you access or use the Platforms; or if you choose to turn on your Bluetooth, Wi-Fi or other geolocation functionality when you use the App, subject to your consent, the App may collect, infer, and use more precise geolocation information. We may use and share your location with certain third-parties for analytics, attribution and advertising purposes (currently advertising use is restricted to iHeartMedia properties only).
+**_We develop Inferences:_** Using the other pieces of personal information collected about you, we draw inferences about you, reflecting what we believe to be your interests, characteristics, predispositions, and attitudes.
 
-**Cookies; Pixel Tags** : The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites and, if you so choose, enable interaction between your activities on the Platforms and your activities on such social networking sites. We, or our vendors and partners, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Platforms or third-party sites (such as to select which ads or offers are most likely to appeal to you, based on your browsing behavior, interests, preferences, location, or demographic information), as well as for market research related purposes. Personalized content may also include content from the providers of goods and services that you may be able to purchase through the Platform or otherwise (who may pay us to show you such content). Note, however, that if a third party content provider asks us to show content to users with certain characteristics (for example, women ages 18-24) or a segment of that group (for example, women ages 18-24 who are located in a particular locality) and you respond to that content or click on links embedded in that content, the third-party content provider may conclude that you have the characteristics of the audience that they are trying to reach. iHeartMedia does not have access to or control over cookies, web beacons, or other technologies that third parties who have asked us to show you content may use, and the privacy practices of these third parties are not covered by this Privacy Policy. Please contact these companies directly for information on their data collection and privacy practices. For more information on advertising using cookies and how to opt out of advertising cookies specifically, please see the sections on Advertising Services; and Your Privacy Rights, Choices, Access below.
+## 2\. HOW WE USE INFORMATION
 
-Similarly, we may use analytics platforms and other tracking technologies to help us track and analyze usage of our Platforms, using cookies, pixels and other tracking technologies.
+We may use personal information for the following purposes:
 
-### Information Received from Other Sources
+  * To respond to your questions and requests;
+  * To provide customer service;
+  * To provide you with access to certain areas and features of the Platforms, such as your favorite stations, your musical preferences, songs you have listened to, shared playlists and your interaction with other users;
+  * To communicate with you about your account and activities on the Platforms, such as changes to any iHeartMedia policy;
+  * To administer the Platforms; help diagnose problems with our servers; and facilitate site navigation
+  * To conduct Platform analytics and operations and to analyze trends;
+  * To provide and administer contests, events, and other promotions;
+  * For market research;
+  * To improve the Platforms and keep our Platforms fresh and interesting to our visitors;
+  * To track the effectiveness of our advertising (such as measuring how many people view or click an ad) and for advertising attribution, analytics and reporting;
+  * To personalize your iHeartMedia experience, such as:
+    * To curate and suggest songs and other content that match your interests; this may include suggesting personalized or localized radio stations, or providing specific features on the Platforms; and
+    * To serve or display ads and offers (both on and off the Platforms) that are more likely to be relevant to you; these may be for our own products and services, or for products and services offered by our partners and other brands or advertisers (who may pay us to show you such content);
+  * To send you (either directly or through one of our partners) marketing and promotional messages;
+  * To pay artists and record labels for tracks you hear;
+  * To associate you with your account or activities on social networking sites and, if you so choose, to enable interaction and data sharing between your activities on the Platforms and your activities on such social networking sites;
+  * For security and safety purposes, such as protecting against cyber threats; protecting our rights and the rights of our customers and subscribers; detecting, investigating, or preventing fraud and other illegal activities; and responding to legal and regulatory compliance obligations;
+  * To comply with our license obligations;
+  * To verify your identity; and
+  * For other lawful purposes disclosed at the time we collect your information or otherwise with your consent.
 
-We may obtain information from other sources and combine that with information we collect through the Platforms. For example, if you create an account using your credentials from a third-party social media site, we will have access to certain information from that site, such as your name, profile and account information, such as lists of your friends, "likes", comments you have shared, groups and location, in accordance with the authorization procedures determined by such third-party social media site. Services like Facebook Connect give you the option to post information about your activities on our Platforms to your profile page to share with others within your network. In addition, we may receive information about you if other users of a third party application or website give us access to their profiles and you are one of their "connections" or information about you is otherwise accessible through your "connections'" web page, profile page, or similar page on a social networking or other third party website or interactive service.
 
-You may integrate your iHeartMedia account with third party applications and sites. If you do, we may receive similar information related to your interactions with the iHeartMedia service on the third party application, as well as information about your publicly available activity on the third party application or site.
 
-We may also receive information about you from our partners and service providers, (including, for example, business partners, analytics vendors, advertising networks and search information providers) which we use to personalize your iHeartMedia experience, to measure ad quality and responses, and to display ads that are more likely to be relevant to you.
+## 3\. WE COLLECT INFORMATION FROM VARIOUS SOURCES
 
-## 2\. HOW WE USE THE INFORMATION WE COLLECT
+**_Directly from you:_** We, as well as our service providers, collect personal information directly from you when you use the Platforms, for example to register to create an account, update your information, sign up for a subscription, use certain features, complete a profile or otherwise tell us about your preferences, access or download content, purchase items or enter into promotions, post content to the Platforms, refer others to the Platforms, interact with us via third party applications or social media sites, request customer support or otherwise communicate with us.We collect personal information when you create an iHeartRadio Code.If you apply for a job, we also collect Employment-Related info and any other personal information you to provide (such as self-identifying information).
 
-We use the information we collect about and from you for a variety of business purposes such as to: respond to your questions and requests; provide customer service; provide you with access to certain areas and features of the Platforms such as your favorite stations, your musical preferences, songs you have listened to, shared playlists and your interaction with other users; verify your identity; communicate with you about your account and activities on the Platforms and, in our discretion, changes to any iHeartMedia policy; market research; Platform analytics and operations; advertising attribution, analytics and reporting; curate content, personalize advertisements, and offers that are served to you on and off the Platforms by us or our partners and advertisers; (including for third party products and services) made available on or outside the Platform for example by providing personalized or localized radio stations, content, advertisements, recommendations, features that match your interests, browsing behavior and preferences; improve the Platforms; link or combine your information with information we receive from others to help understand your needs and to provide you with better service and offers; communicate with you, either directly or through one of our partners, for marketing and promotional purposes via emails, newsletters, notifications, or other messages, consistent with any permissions you may have communicated to us; comply with license obligations; and for purposes disclosed at the time you provide your information or otherwise with your consent.
+**_Automatically from your devices:_** We, as well as advertisers and/or service providers, may use a variety of tracking tools and technologies that automatically or passively collect information like Browser/Usage/Device Information and Location Information any time you visit or interact with the Platforms, our emails, and our advertising and content on other websites and platforms.
 
-## 3\. SHARING OF INFORMATION
+**_Vendors and service providers:_** We receive personal information about you from our vendors and service providers we hire to help us run our business, including those companies that host, protect, or operate our Platforms; analyze data; collect debts for us; provide customer service; send emails for us; process payments; conduct surveys; fulfill orders; run our promotional activities and contests; or provide marketing, analytics, and advertising services.
 
-The information collected or generated through your use of the Platform may be shared by you or by us as described below.
+**_Business partners:_** We receive personal information about you from our business partners, including those businesses with whom we offer joint or co-branded promotions, or who advertise on the Platforms. We may also get personal information from advertising networks and search information providers.
 
-### Sharing of Information by You
+**_Social media:_** If you create an account using your credentials from a social media site, we will have access to certain information from that site.Services like Facebook Connect give you the option to post information about your activities on our Platforms to your profile page to share with others within your network. In addition, we may receive information about you if other users of a social media application or website give us access to their profiles and you are one of their "connections" or if information about you is otherwise accessible through your "connections'" web page, profile page, or similar page on a social networking or other third party website or interactive service.
 
-iHeartMedia is a social service that offers many ways to find, enjoy, and share content.  Your name and/or username, profile picture, who you follow, your followers, and your iHeartMedia user profile will be publicly available.
+**_Other users:_** Other users may decide to provide us with your personal information (such as Identifiers) so that we may invite you to join iHeartMedia or so that we may facilitate communication between users of the Platforms.
 
-**Your Activities.** Your activity on the Platform (e.g., music you listen to, music you share), playlists created or followed, and content you post to the Platform are made publicly available by default and can be accessed by users who follow you or view your iHeartMedia profile and will also be displayed publicly in third-party search engine results and may appear together with other public profile information, such as your playlists, picture and name and/or username. Although this information is made public by default, in the “Your Choices” section below, we describe the controls that you can use to limit the sharing of your information.
+**_We combine information:_** When we get information from other sources, we may combine that with information we already have.We may combine information that we have collected offline with information we collect online or through the Platforms.We may also aggregate your information with other consumers’ information to understand preferences and trends within your peer group over time.
 
-**Third Party Platforms.**   If your iHeartMedia account is connected to a third party application or social medial platform, iHeartMedia may automatically share your activity with that service, including the content you use and such information may be attributed to your account on the third party platform and published on such service.  Likewise, if you log into a third party application with your iHeartMedia account, that third party application may have access to certain information such as your iHeartMedia playlists and activity.  A third party platform’s use of information collected from you (or as authorized by you) is governed by the third party platform’s privacy policies and your settings on the relevant service.
+## 4\. WE SHARE INFORMATION WITH OTHERS
 
-### Sharing of Information by Us
+We may share personal information as described below:
 
-We may share aggregate user statistics, demographic information, and Usage Information with third parties.  We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy & Cookie Notice and in the following circumstances:
+**_Affiliates:_** We may share personal information with our affiliates, subsidiaries, and other companies under common control and ownership with iHeartMedia.
 
-**Third Parties.  ** In order to carry out your requests, to make various features, services and materials available to you through the Platforms, and to respond to your inquiries, we may share your information with third parties that perform functions on our behalf, such as companies that: host or operate our Platforms; payment processors; analyze data; provide customer service; sponsors or other third parties that participate in or administer our promotions. Your personal information may also be used by us or shared with our sponsors, partners, advertisers, advertising networks, advertising servers, and analytics companies or other third parties in connection with marketing, promotional, and other offers, as well as product information, and for such third party’s advertising, analytics, planning and market research. These advertisers, advertising networks, advertising servers, and analytics companies use various technologies to collect data in order to send (or serve) relevant ads to users on our Platforms, or on platforms or websites operated by third parties. These technologies may include the placement of cookies or web beacons, the use of unique or non-unique non-personal identifiers, or the use of other technologies on our Platforms, which may be used to track user behavior both on and off our Platforms, to track how our Platforms are being used, to link various Devices you may use, build consumer profiles and to serve you more relevant ads. This Privacy Policy does not cover the use of various technologies by third party advertisers, advertising networks, advertising servers, and analytics companies.  We may also share your information with the rights holders that license content to iHeartMedia to stream on the Platforms.
+**_Vendors and service providers:_** We may share personal information with vendors and service providers we hire to help us run our business, including those companies that host, protect, or operate our Platforms; analyze data; provide customer service, send emails for us; process payments; conduct surveys; fulfill orders; run our promotional activities and contests; or provide marketing, analytics, and advertising services.
 
-**Your Agreement To Have Your Personal Information Shared.**   While on our Platforms, you may have the opportunity to opt-in to receive information and/or marketing offers from someone else or to otherwise consent to the sharing of your information with a third party.  If you use the social sharing features of the Platforms, your information may be shared with certain of your friends or groups. If you agree to have your information shared, your information will be disclosed to the third party and the information you disclose will be subject to the privacy policy and business practices of that third party.
+**_Business partners, rights holders, advertisers, and advertising companies:_** We may share or make available personal information with or to our sponsors, partners, advertisers, advertising networks, advertising servers, and analytics companies or other third parties in connection with our and their marketing, promotional, and other offers, as well as product information. These third parties may use your personal information for their own advertising, analytics, planning, market research, or other business purposes. We may also share your information with the rights holders that license content to iHeartMedia to stream on the Platforms (e.g., artists or record labels). If you connect your iHeartMedia account to a third party application or social media platform, iHeartMedia may automatically share your personal information with that service, and such information may be attributed to your account on the third party platform and published on such service. Likewise, if you log into a third party application with your iHeartMedia account, that third party application may have access to certain information such as your iHeartMedia playlists and activity. Some transfers of your personal information to these other companies may be viewed as a “sale” under certain state laws.
 
-**Business Transfers.  ** Your information may also be used by us or shared with our subsidiaries and affiliates for internal reasons, primarily for business and operational purposes.  As we continue to develop our business, we may sell or purchase assets.  If another entity acquires us or all or substantially all of our assets, or assets related to the Platforms, your information may be disclosed to such entity as part of the due diligence process and will be transferred to such entity as one of the transferred assets.  Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
+**_Nielsen:_**  Our Platforms may include Nielsen's proprietary measurement software which may allow you to contribute to market research. To learn more about the information Nielsen's software may collect and your choices with regard to it, please go to <https://www.nielsen.com/us/en/legal/privacy-statement/digital-measurement/>. If you would like to opt-out of participating, please go to <https://priv-policy.imrworldwide.com/priv/browser/cookie-policy-us-en.html?optout=1>.
 
-**Legal Disclosure.  ** iHeartMedia may transfer and disclose your information to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our Terms of Use or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Platforms or the public.
+**_Other users:_** iHeartMedia is a social service that offers many ways to find, enjoy, and share content. Your name and/or username, profile picture, who you follow, your followers, and your iHeartMedia user profile are publicly available to other subscribers.Your activity on the Platform (e.g., music you listen to, music you share), playlists created or followed, and content you post to the Platform are made publicly available by default and can be accessed by users who follow you or view your iHeartMedia profile and will also be displayed publicly in third-party search engine results and may appear together with other public profile information, such as your playlists, picture and name and/or username. This information is made public by default, but you can limit this sharing as described in the " _Your Choices_[KE2]" section below.
 
-**Nielsen.** Our Platforms may include Nielsen’s proprietary measurement software which may allow you to contribute to market research. To learn more about the information Nielsen’s software may collect and your choices with regard to it, please click [here](http://www.nielsen.com/digitalprivacy).
+**_Business transfers:_** As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all or substantially all of our assets, or assets related to the Platforms, your information may be disclosed to such entity as part of the due diligence process and may be transferred to such entity as one of the transferred assets. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
 
-## 4\. ADVERTISING SERVICES
+**_SDK Partners:_** We may make available personal information to third party technology companies whose software development kits (SDKs) or application programming interfaces (APIs) are embedded into our mobile apps.
 
-When you use the Platforms, we, our service providers and advertising partners may set and access cookies and similar tracking technologies on your computer or Device in order to collect information about your online web-browsing activities over time and across different online websites and services (including, but not limited to, online or cloud computing services, and online applications) or mobile applications in order to serve you ads or other content personalized to your interests. This form of advertising is referred to as Interest Based Advertising (“IBA”). In order to personalize these ads or content, we or our advertising partners or service providers may connect and/or share data about you either to data you provided to us, e.g., your email address, or to Usage Information collected from you, such as your Device Identifier or IP address. The use of cookies, pixel tags, or similar technologies by these third parties is subject to their own privacy policies, not ours. If you do not want your information collected and used by us or the companies we work with for IBA purposes, you can opt out of this form of advertising by following the instructions in the next section.
+**_Legal compliance:_** We may share personal information with third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our Terms of Use or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of other parties, visitors to our Platforms, or the public.
 
-## 5\. YOUR PRIVACY RIGHTS, CHOICE AND ACCESS
+**_Other disclosures:_** We may share personal information for other reasons we may describe to you from time to time as permitted by law.
 
-**If you do not consent to the collection, use or sharing of your information in the manner described in this Privacy Policy, please do not provide us with such information. By providing such information, you are opting in to the collection, use and sharing of this information in accordance with this Privacy Policy.**
+**_Non-personal information:_** We may share information that has been de-identified or aggregated such that it does not identify or relate to you, with other parties for any purpose. This may include aggregated user statistics about the Platforms or aggregated demographic information about our users.
 
-_Cookies, Tracking & IBA:_
+## 5\. YOUR CHOICES
 
-To learn how you may be able to reduce the number of cookies you receive from us or third parties, or delete cookies that have already been installed in your browser’s cookie folder, please refer to your browser’s help menu or other instructions related to your browser to see if you can reject or disable such cookies.  You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser. Removing or rejecting browser cookies does not necessarily affect third-party flash cookies used in connection with our Platform. To delete or disable flash cookies, please visit <https://www.adobe.com/support/documentation/en/flashplayer/help/settings_manager.html> for more information. If you do disable or opt out of receiving cookies, please be aware that some features and services on our Platform may not work properly because we may not be able to recognize and associate you with your account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
+__Cookies:__
 
-As described above, we, or other parties we do business with, may place or recognize unique cookies or other technologies on your browser and Device when you visit our Platform to collect information about your use of our Platforms and your other online activities over time and across different websites and apps, and may use that information to serve interest-based advertisements to you as you browse the Internet. To learn more about such interest-based advertising, please visit: [https://optout.aboutads.info](https://optout.aboutads.info/).
+To learn how you can reject or delete cookies from us or other companies, please refer to your browser's help menu. Deleting or rejecting browser cookies does not necessarily affect third-party flash cookies used in connection with our Platform. To delete or disable flash cookies, please go to <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>. If you disable or opt out of receiving cookies, please be aware that some features and services on our Platform may not work properly because we may not be able to recognize and associate you with your account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
 
-There are 2 ways that you can opt out of IBA practices from certain iHeartmedia or third party ads on our Platforms and on third party sites and apps. One way is through the cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the Digital Advertising Alliance (DAA). To opt out of IBA, please click on the following link and follow the instructions: DAA AppChoices – <http://www.aboutads.info/appchoices/> and [http://optout.aboutads.info](http://optout.aboutads.info/).  To opt out from the use of information about your online activities for IBA by NAI member companies, visit: <http://www.networkadvertising.org/choices/>. 
+To learn how to change your device identifier or mobile advertising ID, please refer to your device's help menu or other instructions.
 
-Another way to opt out of IBA is by clicking on the Advertising Options Icon featured on certain iHeartMedia ads on third-party websites. When clicked it (i) describes the collection and uses of data gathered at the relevant third-party website and (ii) provides a way for you to opt out of data collection and use by the third parties listed for the purposes of IBA. If you choose to opt out, our service provider will communicate your opt out election to the relevant third-party advertising partners and a cookie will be placed on your browser indicating your decision to opt out.
+Our Platforms may include Nielsen's proprietary measurement software which may allow you to contribute to market research. If you would like to opt-out of participating, please go to <https://priv-policy.imrworldwide.com/priv/browser/cookie-policy-us-en.html?optout=1>.
 
-Bear in mind that because cookies are stored by your browser, if you use different browsers on your computer, or multiple computers and Devices that have browsers and you do not wish to have cookies collect information for IBA purposes, you will need to opt out of IBA from each browser on each of the computers and Devices that you use. Please note that even if you opt out of IBA, you may still receive advertisements from us; they just won’t be customized based on your web-browsing activities on third-party websites. Please also note that if you opt-out of IBA, we may still track your visits to the Platforms for our own analytics, operations and security purposes.
+__Interest-Based Advertising:__
 
-To learn how to change your Device Identifier, please refer to your device’s help menu or other instructions.
+When you use the Platforms, we, our service providers, and advertising partners may place cookies and similar tracking technologies on your computer or Device in order to collect information about your online web-browsing activities over time and across different websites and online services or mobile applications, in order to serve you ads or other content personalized to your interests. This form of advertising is referred to as Interest Based Advertising (“IBA”). In order to personalize these ads or content, we or our advertising partners or service providers may connect and/or share personal information about you either to data you provided to us or to Browser/Usage/Device Information and Location Information collected about you. 
 
-Some browsers have a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked.  These features are not yet uniform, so note that our systems are not configured to recognize Do Not Track headers or signals from some or all browsers.
+You can opt out of being tracked online for IBA purposes by going to [http://optout.aboutads.info/?c=2&lang=EN](http://optout.aboutads.info/?c=2&lang=EN) or <http://optout.networkadvertising.org/?c=1>. You can opt out of being tracked for IBA purposes on mobile apps by going to <https://youradchoices.com/appchoices>.Another way to opt out of IBA is by clicking on the Advertising Options Icon featured on certain iHeartMedia ads on third-party websites. When clicked it (i) describes the collection and uses of data gathered at the relevant party website and (ii) provides a way for you to opt out of data collection and use by the other parties listed for the purposes of IBA. 
 
-_Data Sharing and Communications:_
+Choices you make are device-specific and browser-specific.If you use different browsers on your computer, or multiple computers and Devices, you will need to opt out of IBA from each browser on each of the computers and Devices that you use. Please note that even if you opt out of IBA, you may still receive advertisements from us; they just won't be customized based on your web-browsing activities on third-party websites. Please also note that if you opt-out of IBA, we may still track your visits to the Platforms for our own analytics, operations and security purposes.
 
-You may always direct us not to share your personal information with third parties, not to use your information to provide you with information or offers, or not to send you newsletters, e-mails or other communications by:sending us an e-mail at [privacy@iheartradio.com](mailto:privacy@iheartradio.com); contacting us by mail at iHeartMedia Digital Customer Service, 20880 Stone Oak Pkwy, San Antonio, TX 78258 , or following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it. Please note that if you opt-out of various uses of your information the service we provide to you and relevant offers may be impacted. Also, If you opt out of receiving promotional offers, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+__Do Not Track:__
 
-_Your California Privacy Rights:_
+Some browsers have a "Do Not Track" feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, and our systems are not configured to recognize Do Not Track headers or signals from some or all browsers.
 
-California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us as described above in Data Sharing and Communications.
+__Marketing Communications:__
 
-_Location Information:  _
+If you don’t want to receive promotional communications from us, such as offers, newsletters, advertising e-mails or other marketing communications, you can unsubscribe by:
 
-By downloading our App or using the Platforms, you consent to our collection and use of your Device location information and sharing of location information with third parties for analytics and advertising purposes (currently advertising use is exclusively within iHeartMedia properties). If you initially consent to our collection of precise location information, you can subsequently stop the collection of precise location information at any time by going to the setting feature on your Device and changing your preferences. If you do so, certain features of our App may no longer function. You also may stop our collection of location information by following the standard uninstall process to remove our App from your device.
+  * following the removal instructions in the communication that you receive; 
+  * sending us an e-mail:
+    * iHeartRadio and Premiere: [privacy@iheartmedia.com](mailto:privacy@iheartmedia.com)
+    * RCS: [privacy@rcsworks.com](mailto:privacy@rcsworks.com)
+    * TTWN: [privacy@iheartmedia.com](mailto:privacy@iheartmedia.com)
+    * Katz: [privacy@katzmedia.com](mailto:privacy@katzmedia.com)
+    * Rushlimbaugh.com: [privacy@rushlimbaugh.com](mailto:privacy@rushlimbaugh.com)
+    * Coasttocoastam.com: [privacy@coasttocoastam.com](mailto:privacy@coasttocoastam.com)
+    * iHeart AdBuilder: [support@iheartadbuilder.com](mailto:support@iheartadbuilder.com)
+    * Jelli: [contact@jelli.com](mailto:contact@jelli.com)
+    * SigAlert: [support@sigalert.com](mailto:support@sigalert.com)
+    * Event Ticket Internal Sales: [BusinessCCPA@iheartmedia.com](mailto:BusinessCCPA@iheartmedia.com)
+    * iheartadvertising.com: [BusinessCCPA@iheartmedia.com](mailto:BusinessCCPA@iheartmedia.com)
+  * contacting us by mail 
+    * iHeartRadio, Katz, TTWN, Premiere, Rushlimbaugh.com and coasttocoastam.com: iHeartMedia Digital Customer Service, 32 Avenue of the Americas, 21st Floor, New York, NY 10013 
+    * RCS: RCS, 445 Hamilton Avenue 7th Floor, White Plains NY 10601
+    * Jelli: 703 South B Street, 2nd Floor San Mateo, CA 94401
+    * Event Ticket Internal Sales: iHeartMedia, Attention: Quick Wins Team, 125 W. 55th St, 7th Floor, New York, NY 10019
+    * iHeart Ad Builder: iHeart AdBuilder Customer 125 West 55th Street, New York NY, 10th Floor, 10019
+    * SigAlert: Total Traffic & Weather Network,1819 Peachtree St, NE, 2nd Floor, Atlanta, GA 30309
+    * iheartadvertising.com: Quick Wins Team, 125 W. 55th St, 7th Floor, New York, NY 10019
 
-_Access to Your Information:_
 
-If you wish to verify, correct, or update any of your personal information collected through the Platforms, you may contact us at the above address or e-mail. In accordance with our routine record keeping, we may delete certain records that contain personal information you have submitted through the Platforms. We are under no obligation to store such personal information indefinitely and disclaim any liability arising out of, or related to, the destruction of such personal information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
 
-## 6\. CHILDREN
+Please note that if you opt out of receiving promotional communications, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
 
-The Platform is not directed to children under 13. We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
+__Location Information__ _:  _
 
-## 7\. SECURITY OF YOUR INFORMATION
+By downloading our Apps or using the Platforms, you consent to our collection, use, and sharing of your Location Information with other parties for analytics, advertising, and other purposes described herein. You can stop the collection of precise Location Information at any time by going to the setting feature on your Device and changing your preferences. If you do so, certain features of our Apps may no longer function as intended. You also may also uninstall or remove our Apps from your Device.
 
-We use certain reasonable security measures to help protect your personal information. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure.  Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Platforms and provide us with your information at your own risk.
+__Push Notifications:__
 
-## 8\. OTHER SITES
+If you use our Apps, we may send you push notifications from time to time. If you no longer wish to receive push notifications, you can turn them off at the device level in your App settings.
 
-The Platforms may contain links to other sites that we do not own or operate. This includes links from service providers, advertisers, sponsors and/or partners that may use our logo(s) as part of a co-branding or co-marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other websites may send their own cookies to your Device, they may independently collect data or solicit personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Platforms (including those linked to through an email or social networking page).
+__Access to Your Information__ _:  _
+
+If you wish to verify, correct, or update any of your personal information we have collected or received, you may contact us at the address or e-mail provided below. In accordance with our routine record keeping, we may delete certain records that contain personal information about you. We are under no obligation to store such personal information indefinitely and disclaim any liability arising out of, or related to, the destruction of such personal information. 
+
+## 6\. YOUR CALIFORNIA PRIVACY RIGHTS
+
+As of January 1, 2020, California law permits residents of California to request certain details about how their personal information is shared with third parties for the third parties’ direct marketing purposes. If you are a California resident and would like to make such a request, please contact us using the methods described in the Contact Us section, and include “Shine the Light” in your inquiry.
+
+As of January 1, 2020, if you reside in California, you also have the right to make the following requests with respect to your personal information:
+
+__Access:__ You have the right to request that we disclose to you the following: (i) the categories of personal information that we have collected about you; (ii) the categories of sources from which we have collected personal information about you; (iii) the business or commercial purpose for collecting or selling your personal information; (iv) the categories of personal information that we have sold about you and the categories of outside parties to whom the personal information was sold; (v) the categories of personal information that we have disclosed about you for our business purposes and the categories of suppliers to whom the personal information was disclosed; and (vi) the specific pieces of personal information that we have collected about you.
+
+__Deletion:__ You can request that we delete the personal information that we maintain about you, subject to certain exceptions.
+
+__Sale Opt-out:__ You can opt-out of the sale of your personal information to a third party by visiting the applicable offering’s Do Not Sell My Information method set forth below. For purposes of this privacy policy, “sell” means the sale, rental, release, disclosure, dissemination, availability, transfer, or other oral, written, or electronic communication of your personal information to an outside party for monetary or other valuable consideration.
+
+  * iHeartRadio and Premiere: <https://iheart.com/ccpa>
+  * RCS: <https://rcssupport.com/en/privacy>
+  * Katz: <https://info.katzmedia.com/compliance_ccpa>
+  * Rushlimbaugh.com: <https://www.rushlimbaugh.com/ccpa>
+  * Coasttocoastam.com: <https://www.coasttocoastam.com/ccpa>
+  * Sigalert: <https://www.sigalert.com/ccpa>
+  * iHeartAdvertising.com, Jelli, iHeart Ad Builder and TTWN: We believe these offerings do not currently sell the personal information that is subject to this privacy policy
+  * Event Ticket Internal Sales: We believe this offering does not currently sell the personal information that is subject to this privacy policy
+
+
+
+__Right to be free from discrimination:__ You have the right not to be discriminated against for exercising these rights.
+
+We may deny certain requests, or fulfill a request only in part, based on our legal rights and obligations. For example, we may retain personal information as permitted by law, such as for tax or other record keeping purposes, to maintain an active account, and to process transactions and facilitate customer requests. Note that for purposes of these rights, personal information does not include information about job applicants, employees, and other of our personnel collected in the employment context.
+
+We will take reasonable steps to verify your identity prior to responding to your requests.The verification steps will vary depending on the sensitivity of the personal information and whether you have an account with us.
+
+You may designate an authorized agent to make a request on your behalf.When submitting the request, please ensure the authorized agent identifies himself/herself/itself as an authorized agent.
+
+We also want California residents to know the following:
+
+  * We collect and use the following categories of personal information as set forth in the California Consumer Privacy Act of 2018 for the business and commercial purposes described in this Privacy Policy: identifiers; personal information categories listed in Cal. Civ. Code § 1798.80(e), characteristics of protected classifications under California or federal law; commercial information; internet or other electronic network activity information; geolocation data; and inferences.
+  * We collect these categories of personal information from the categories of sources described above in this Privacy Policy.
+  * We disclose each of the foregoing categories of personal information to our service providers, business and advertising partners, advertising networks, data analytics providers, and social networks.
+  * We may “sell” the following categories of personal information: identifiers; personal information categories listed in Cal. Civ. Code § 1798.80(e); commercial information; Internet or other electronic network activity; geolocation data; and inferences.
+
+
+
+You can exercise these rights online by clicking the links set forth below, by emailing us at applicable link below, or by calling us at the number set forth below:
+
+**iHeartRadio and Premiere**
+
+  * <https://iheart.com/ccpa>
+  * [privacy@iheartmedia.com](mailto:privacy@iheartmedia.com)
+  * 800-317-8708
+
+
+
+**RCS**
+
+  * <https://rcssupport.com/en/privacy/>
+  * [privacy@rcsworks.com](mailto:privacy@rcsworks.com)
+  * 877-774-1013
+
+
+
+**Katz**
+
+  * <https://info.katzmedia.com/compliance_ccpa>
+  * [privacy@katzmedia.com](mailto:privacy@katzmedia.com)
+  * 800-927-1247
+
+
+
+**Rushlimbaugh.com**
+
+  * <https://www.rushlimbaugh.com/ccpa>
+  * [privacy@rushlimbaugh.com](mailto:privacy@rushlimbaugh.com)
+  * 833-704-0160
+
+
+
+**Coasttocoastam.com**
+
+  * <https://www.coasttocoastam.com/ccpa>
+  * [privacy@coasttocoastam.com](mailto:privacy@coasttocoastam.com)
+  * 855-939-1997
+
+
+
+**SigAlert**
+
+  * <https://www.sigalert.com/ccpa>
+  * [support@sigalert.com](mailto:support@sigalert.com)
+  * 800-417-9152
+
+
+
+**Event Ticket Internal Sales**
+
+  * <https://iheartmedia.sharepoint.com/sites/events/Lists/CCPA/ccpa.aspx>
+  * [BusinessCCPA@iheartmedia.com](mailto:BusinessCCPA@iheartmedia.com)
+
+
+
+**Jelli** , **Ad Builder** , **TTWNetwork.com** and **iheartadvertising.com** are for business use only.
+
+## 7\. CHILDREN
+
+The Platform is not directed to children under 13. We do not knowingly collect, use or disclose personal information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her personal information without the parent/guardian's consent. If we become aware that we have unknowingly collected personal information from a child under the age of 13, we will make reasonable efforts to delete such information from our records. 
+
+## 8\. SECURITY OF YOUR INFORMATION
+
+We use certain reasonable security measures designed to help protect your personal information. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Platforms and provide us with your information at your own risk.
+
+## 9.OTHER SITES
+
+The Platforms may contain links to other sites that we do not own or operate. This includes links from service providers, advertisers, sponsors and/or partners that may use our logo(s) as part of a co-branding or co-marketing agreement. We do not control, recommend or endorse, and are not responsible for, these sites or their content, products, services or privacy policies or practices. These other websites may send their own cookies to your Device, they may independently collect data or solicit personal Information, and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Platforms (including those linked to through an email or social networking page).
 
 The Platforms may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Policy.
 
-## 9\. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION
+## 10.UNITED STATES ONLY
 
 The Platforms are governed by and operated in, and in accordance with the laws of, the United States, and are intended for the enjoyment of residents of the United States. iHeartMedia makes no representation that the Platforms are governed by or operated in accordance with the laws of any other nation.
 
-## 10\. CHANGES
+## 11.CHANGES
 
-Any changes we may make to our Privacy Policy will be posted on this page. Please check back frequently to see any updates or changes to our Privacy Policy. If you do not agree or consent to these updates or changes, do not continue to use the Platform.
+Any changes we may make to our Privacy Policy will be posted on this page and/or communicated to you in other ways if required by law. Please check back frequently to see any updates or changes to our Privacy Policy. If you do not agree or consent to these updates or changes, do not continue to use the Platform.
 
-## 11\. CONTACT US
+## 12.CONTACT US
 
 If you have any questions or concerns about this Privacy Statement, the practices of the Platforms, or your experiences with the Platforms, please contact us at:
 
-Attn: Privacy Questions
-
 iHeartMedia, Inc.
 
-20880 Stone Oak Pkwy
-
-San Antonio, TX 78258
+Attn: iHeartMedia Digital Customer Service
 
 Re: iHeartMedia Privacy Statement
 
-E-Mail:[privacy@iheartradio.com](mailto:privacy@iheartradio.com)
+32 Avenue of the Americas, 21st Floor, 
+
+New York, NY 10013
+
+E-Mail: [privacy@iheartmedia.com ](mailto:privacy@iheartmedia.com%20%20)
