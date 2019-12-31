@@ -1,203 +1,204 @@
-> *The following text is extracted and transformed from the thebody.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226051948id_/http%3A//www.remedyhealthmedia.com/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebody.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231073400id_/https%3A//www.remedyhealthmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# This Privacy Policy was last modified and is effective as of September 19, 2016 Remedy Health Media, LLC
+# Remedy Health Media
 
-          This Privacy Policy was last modified and is effective as of September 19, 2016
-Remedy Health Media, LLC
-Privacy Policy
-Remedy Health Media, LLC (“RHM”, “we”, “us”, or “our”) operates the following list of
-healthcare and fitness-related websites: www.remedyhealthmedia.com, www.healthcentral.com,
-www.intelecare.com, www.thebody.com, www.thebodypro.com, www.healthcommunities.com,
-www.mood247.com, www.healthcommunitiesproviderservices.com, www.healthafter50.com,
-and www.berkeleywellness.com (individually, a “Site”; collectively, the “Sites”). This is the
-official Privacy Policy for the Sites. This Privacy Policy forms a part of your legal agreement
-with us, along with our Terms of Use and any other Additional Terms.
-PLEASE READ THIS PRIVACY POLICY CAREFULLY AS IT DESCRIBES HOW WE
-COLLECT AND USE INFORMATION COLLECTED ABOUT YOU ONLINE AND UNDER
-WHAT CIRCUMSTANCES WE SHARE INFORMATION ABOUT YOU. Any terms not
-defined in this Privacy Policy are shall have the meaning ascribed to them in the Terms of Use.
-1.       CHANGES TO PRIVACY POLICY. We reserve the right, in our sole discretion, to
-modify, add or delete provisions of this Privacy Policy at any time. When we make material
-changes to this Privacy Policy, we will inform you by either emailing you or posting a notice on
-the page from which you access this Privacy Policy. We display the effective date of this Privacy
-Policy at the top of this page. Your use of any of our Sites after the effective date of any such
-modification, means you accept and agree to be bound by the Privacy Policy, as modified. You
-should come back to this web page and review this Privacy Policy regularly so that you remain
-aware of the terms and conditions that apply to you.
-2.       NON-PERSONAL INFORMATION COLLECTED AND HOW COLLECTED.
-When you access or visit any of our Sites, we and our operational service providers (as defined
-in the “Disclosure to Third Parties” section below) and others who host our Sites often use
-“cookies” and other technologies that may recognize, collect and/or transmit information that is
-associated with you or your device. These various technologies may recognize, collect and/or
-transmit information about your visits to our Sites, such as your Internet Protocol (“IP”) address,
-the Internet or web domain that referred you, the type of operating system and browser you are
-using, the date and time of your visit, data relating to activities on our Sites (e.g., so-called
-“clickstream” data) and other technological attributes about your visit to the Sites. We may use
-this information to analyze trends, administer the Sites, provide promotional material of interest
-to users, track user movements on the Sites and gather aggregate demographic information about
-visitors so we can continually improve our Sites.
-Cookies and other technologies may also allow our Sites to recognize your computer or device
-each time it is used to visit a particular Site, track how you use our Sites, track your preferences
-for features and functions and, for our Sites that have registration or similar features, they can
-store information such as your user name and password so you don’t have to re-enter them each
-time you return to visit.
+Last updated: July 8, 2019.
 
+## 1\. INTRODUCTION
 
-Third Parties that deliver advertising on our Sites may use cookies and other technologies to
-collect user information when users respond to or interact with banner placements. The
-information collected does not usually identify you personally, with the potential exception
-described in Section 9 regarding The Body PRO.
-Most Internet browsers allow you to delete or disable cookies by changing the settings on your
-Internet browser. However, please note, deleting or disabling cookies may affect your ability to
-use certain features and functions of our Sites and it may also require you to re-enter certain
-information each time you visit or attempt to use our Sites. You should consult the operating
-instructions that apply to your browser to determine how to best configure your browser settings
-for your needs.
-3.      PERSONAL INFORMATION COLLECTED. The term “Personal Information” refers
-to any information you provide in connection with your use of any of our Sites by which you can
-be personally identified. Personal Information may include such things as your name, mobile
-phone number, street address, telephone number, date of birth, e-mail address, photographs of
-yourself, and any other information which might reasonably be used to identify you. On some of
-our Sites, we may also collect Personal Information related to your health, for example, whether
-you have high blood pressure or what type of medicine you are taking.
-We obtain Personal Information from you when you voluntarily submit it to us (or our
-operational service providers) or provide it on one or more of our Sites in order to allow you to
-register, subscribe or take advantage of certain features, functions, services, activities,
-promotions (e.g., sweepstakes and contests), and content on our Sites (these are referred to as
-“Content” in our Terms of Use). For example, on some of our Sites, we may collect Personal
-Information that you post within the community-based features, such as the “Share Your Story”
-or “Ask a Question” features on the Health Central Site and the “Connect” and “Ask the
-Experts” features on The Body Site. Please note that you may not be able to use some Content if
-you choose not to provide your Personal Information when requested. If you provide or submit
-your Personal Information to any of our Sites, our policy is to give you the right to review,
-update and/or delete your Personal Information, subject to our obligations to comply with legal,
-regulatory or internal audit and record-keeping requirements.
-4.      HOW WE USE YOUR INFORMATION. We may use the information that we obtain
-from you, including Personal Information and information in the aggregate form: (a) to provide
-you with the information you have requested (e.g., emailing you health alerts) or to provide you
-with the services you have requested (e.g., sending you newsletters; sending you text messages;
-responding to your request for a consultation); (b) to improve the Content, appearance and utility
-of our Sites; (c) to tailor your experience on our Sites; (d) to track our visitors’ use of our Sites
-for internal research purposes; (e) to monitor compliance with our Terms of Use; (f) to notify our
-visitors of updates to our Sites; (g) to send you promotional and marketing materials; and (h) for
-our internal or our business partners’ research and analysis purposes. If we or any of our Sites
-collect, maintain, use or intend to share your Personal Information for purposes other than as
-described in this Privacy Policy, we will ensure that it is included within the Additional Terms
-that applies to the Site or Sites involved or will post a notice to you before you submit your
-Personal Information.
-                                                  -2 -
+This is the privacy policy (“Privacy Policy”) that governs how Remedy Health Media LLC and our affiliated companies ("Remedy", "we", "our" or "us"), use Personal Data (defined below) that we collect, receive and store about individuals in connection with the use of this website or websites, apps, or other online media under our operation and control (collectively the “Site”).
 
+You may choose whether or not to provide or disclose Personal Data in connection with your use of the Site. If you choose not to provide the Personal Data we request, you may still visit and use parts of the Site, but may be unable to access or use certain features, options, programs, and services. The Site may contain links to third-party websites and services that are not owned or controlled by Remedy. We are not responsible for the privacy practices or the content of third party websites, services and advertisements, and you visit them at your own risk.
 
-5.       PUBLIC POSTINGS. Some of our Sites may permit you to make Postings (as defined
-in our Terms of Use). If you make a Posting to any area of a Site that that may be accessed by
-other users (such as health-related information you place on a message board, public profile, or
-chat room), please keep in mind that such information can be viewed and used by anyone who
-uses or accesses the Site. Please do not disclose Personal Information in these areas. Any
-information you disclose may be used by third parties we do not control. We are not responsible
-for any information, including Personal Information, you choose to disclose to public areas of
-our Sites, or for any related losses or damages, whether alleged or actual.
-6.       CHILDREN. Our Sites are not intended for children under the age of 13 and we do not
-knowingly solicit or collect Personal Information from children under the age of 13. If you are a
-parent or guardian of a child under the age of 13 and believe he or she has provided Personal
-Information to us please notify us at privacy@remedyhealthmedia.com. If you are 13 or older
-but still a minor in the state in which you reside (typically 18), you must obtain the consent of
-your parent or guardian before using our Sites.
-7.       THIRD PARTY LINKS. Our Sites may contain or display information from co-
-sponsors, advertisers, retailers, social networks, operational service providers or other
-unaffiliated third parties (each, a “Third Party”) that offer to make information, goods or services
-available, provide opportunities to participate in promotions or engage in activities or that link or
-redirect your browser to other websites, materials or organizations. We are not responsible for
-the privacy or data use practices at these external websites. We encourage you to review the
-privacy policies and terms and conditions for these web sites. If you have any questions
-regarding the information gathering or dissemination activities of other web sites, you should
-consult the privacy policies and terms and conditions contained on those web sites.
-8.       DISCLOSURE TO THIRD PARTIES. Our policy is to not sell, rent, lease, provide or
-otherwise disclose your Personal Information to unaffiliated entities unless specifically described
-here or in any other terms that may apply to your use of a particular Site.
-We reserve the right to disclose your Personal Information to any Third Party we engage for the
-purpose of administering, operating, configuring site design, maintaining and providing internal
-support for our Sites and Content on the Sites. These Third Parties are called “operational service
-providers” and provide internal support to operations and activities and for Site design,
-development, advertising, hosting and operations. For example, we may employ operational
-service providers to send direct emails on our behalf or to provide information technology
-support. We may also use operational service providers to display or serve advertising on our
-Sites, run promotions, and distribute email messages or web-based newsletters and other
-information. We take reasonable efforts to ensure that our operational service providers protect
-your privacy, and that they are not permitted to use your Personal Information for their own
-marketing or promotional purposes.
-We also reserve the right to make your Personal Information available to Third Parties in the
-following situations:
-    •    when compelled by a governmental agency, law, regulation, a court or other legal
-         process;
-                                                 -3 -
+We are committed to respecting privacy and recognize the need for appropriate protection and management of any Personal Data that is shared with us as part of using the Site. As used in this Privacy Policy, "Personal Data" means any information that may be used, either alone or in combination with other information, to personally identify an individual.
+
+## 2\. CHANGES TO THIS PRIVACY POLICY.
+
+We reserve the right, at our discretion, to change the terms of this Privacy Policy at any time. You can see when this Privacy Policy was last updated by reviewing the “Last Updated” legend on the top of this page. We may provide you with notice of material changes to the Privacy Policy as appropriate under the circumstances. UNLESS OTHERWISE INDICATED, ANY CHANGES TO THIS PRIVACY POLICY WILL APPLY IMMEDIATELY UPON POSTING TO THE SITE.
+
+## 3\. INFORMATION COLLECTED.
+
+We may receive and/or collect Personal Data in the following ways:
+
+### 3.1. Personal Data You Provide To Us On the Site.
+
+If you send us a "Contact Us" request or feedback, or in connection with setting up an account on the Site, or if you buy or receive products or services on the Site or otherwise enter into a contract with us, or if you fill in forms or upload documents on the Site, you may provide us with certain information that may constitute Personal Data, such as:
+
+· Your name;
+
+· Email address;
+
+· Address;
+
+· Phone number;
+
+· Profession;
+
+· Password;
+
+· Marketing and communication preferences;
+
+· Content of the forms and documents you fill in or post on the Site;
+
+· Information you post on any public forums on the Site; and
+
+· Communications you send to us.
+
+When buying or receiving products or services on the Site, we may require you to provide billing information, such as billing name and address, and credit card number (collectively “Billing Information”). We use third party vendors such as Stripe, to process Billing Information and we do not collect or store Billing Information.
+
+### 3.2. Personal Data You Provide To Third Parties On the Site.
+
+Please note that we use certain third party service providers and business partners on the Site to enhance your experience or deliver certain services. These third parties may collect Personal Data in performing their services and/or functions on the Site. For a list of the third parties, the services they provide to us, and to learn about their privacy practices, please visit: <https://www.remedyhealthmedia.com/third-party-service-providers> .
+
+### 3.3. Information Provided By Third Parties.
+
+We may collect information about you through non-affiliated third parties. For example, you may be able to access the Site through a social networking account. If you access the Site through your social media account, you may allow us to have access to certain Personal Data in your social media profile. If you access our Site from another website that provides Personal Data about you in accordance with their privacy policy, then we may collect such Personal Data.
+
+### 3.4. Information Collected Automatically.
+
+Certain information on the Site is collected automatically by means of various software tools. We have a legitimate interest in using such information to assist in log-in, systems administration purposes, information security and abuse prevention, to track user trends, and to analyze the effectiveness of the Site. Alone or in combination with other information, such automatically collected information may constitute Personal Data. Some of our service providers (described in Section 3.2 above) and business partners may use cookies or other methods to gather information regarding your use of the Site. For additional information about cookies, please see Section 3.4 (b). Business partners may use these cookies or other tracking methods for their own purposes by relating information about your use of the Site with any of Personal Data about you that they may have. The use of such information by a third party depends on the privacy policy of that third party.
+
+a) **Log Files On The Site**. The information inside the log files includes internet protocol (“IP”) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, clicked pages and any other information your browser may send to us.
+
+b) **Cookies**. We use cookies to make interactions with our Site easy and meaningful. When you visit our Site, our servers may send a cookie to your computer. Standing alone, cookies do not personally identify you; they merely recognize your web browser.
+
+We may use cookies that are session-based and persistent. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. Please note that if you disable your web browser’s ability to accept cookies, you will be able to navigate our Site, but you may not be able to successfully use all of the features of our Site.
+
+The following sets out how we may use different categories of cookies and your options for managing cookies’ settings:
+
+Type of Cookies | Description | Managing Settings  
+---|---|---  
+Required cookies | Required cookies enable you to navigate our Site and use its features, such as accessing secure areas of our Site and using our services. If you have chosen to identify yourself to us, we use cookies containing encrypted information to allow us to uniquely identify you. Each time you log into our Site, a cookie containing an encrypted, unique identifier that is tied to your account is placed on your browser. These cookies allow us to uniquely identify you when you are logged into our Site and to process your online transactions and requests. | Because required cookies are essential to operate our Site, there is no option to opt out of these cookies.  
+Performance cookies | These cookies collect information about how you use our Site, including which pages you go to most often and if they receive error messages from certain pages. These cookies do not collect information that individually identifies you. All information these cookies collect is aggregated and anonymous. It is only used to improve how our Site functions and performs. From time-to-time, we may engage third parties to track and analyze usage and volume statistical information from individuals who visit our Site. We may ,also utilize Flash cookies for these purposes. | To learn how to opt out of performance cookies using your browser settings click [here](https://www.aboutcookies.org/ "About Cookies"). To learn how to manage privacy and storage settings for Flash cookies click [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html "Flash cookies")  
+Functionality cookies | Functionality cookies allow our Site to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features. These cookies also enable you to optimize your use of our Site after logging in. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. | To learn how to opt out of functionality cookies using your browser settings click [here](https://www.aboutcookies.org/ "About Cookies").  
+Targeting or Advertising cookies | From time to time, we may track and analyze usage and volume statistical information from individuals who visit our Site. We sometimes use our own cookies as well as cookies delivered by third parties to track the performance of advertisements. For example, these cookies remember which browsers have visited our Site. The information provided to third parties does not include Personal Data, but this information may be re-associated with Personal Data after we receive it. By way of example, as you browse our Site, cookies may be placed on your computer so that we can understand what you are interested in. Our advertising partners then enable us to present you with retargeted advertising on other sites based on your previous interaction with our Site. We also contract with third-party advertising networks and similar partners that collect IP addresses and other information from web beacons (see below) on our Site, from emails, and on third-party sites. Ad networks follow your online activities over time by collecting website navigational information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other websites. This process also helps us manage and track the effectiveness of our marketing efforts. Third parties, with whom we partner to provide certain features on our Site or to display advertising based upon your web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. | To learn more about these and other advertising networks and their opt-out instructions, click [here](https://optout.networkadvertising.org/?c=1 "Advertising cookies"). To learn how to manage privacy and storage settings for Flash cookies click [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html "Flash Cookies").  
+  
+d) **Other Tracking Technologies**. When you visit the Site, we may collect your IP address to track and aggregate information. For example, we may use IP addresses to monitor the regions from which you navigate the Site. We may also use web beacons alone or in conjunction with cookies to compile information about your usage of the Site and interaction with emails from us. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular site tied to the web beacon. For example, we may place web beacons in marketing emails that notify us when you click on a link in the email that directs you to our Site. We may use web beacons to operate and improve our Site and email communications.
+
+e) **Analytics Software Tools**. We use analytics software such as Google Analytics and/or Adobe Analytics on our Site to help us analyze the traffic on our Site. For more information on Google Analytics’ processing of Personal Data, please see [http://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/ "Partners").” By using a browser plugin [http://www.google.com/ads/preferences/plugin/](https://www.google.com/ads/preferences/plugin/ "Analytcis Plugin") provided by Google, you can opt out of Google Analytics
+
+## 4\. THE PURPOSES FOR WHICH WE USE PERSONAL DATA.
+
+If you submit or we collect Personal Data through the Site, then such Personal Data may be used in the following ways:
+
+  * To provide, analyze, administer, improve, and personalize the Site;
+
+  * To communicate with you in connection with the Site, notifications, events, programs or offerings that you may have registered for;
+
+  * To send you updates and promotional materials;
+
+  * To provide personalized advertising to you;
+
+  * To identify and authenticate your access to the parts of the Site that you are authorized to access;
+
+  * For recruiting and human resources administration purposes;
+
+  * For research and development relating to the Site and the products and services we provide to you;
+
+  * For advertising purposes;
+
+  * For electronic direct marketing in compliance with applicable laws; and
+
+  * To protect our rights and/or our property and to ensure the technical functionality and security of the Site.
 
 
-    •   if we believe you are, have or may violate any law, regulation, or our Terms of Use;
-    •   to enforce our Terms of Use or any other agreements we may have with you;
-    •   if we believe you are or may be a threat to the safety, property, interests or rights of RHM
-        or others;
-    •   in order to investigate, respond to or resolve problems or inquiries or defend our interests;
-    •   in a merger, acquisition, change of control, joint venture or other business combination;
-    •   when you otherwise consent.
-9.      DISCLOSURE APPLICABLE TO THE BODY PRO SITE. If you are a healthcare
-provider utilizing The Body PRO site, Third Parties may combine information gathered through
-cookies, pixels and other technologies in an effort to personally identify you. The data they
-collect will be used solely for research and measurement purposes.
-10.     AGGREGATE OR ANONYMIZED DATA. RHM may, either by itself or in
-coordination with its business partners and RHM operational service providers, create aggregate
-or anonymized data sets from the Personal Information that we collect. As a general matter,
-aggregate and anonymized data sets do not include your Personal Information and cannot be
-used to identify you. We may disclose such aggregate or anonymized data sets with our business
-partners; for example, our business partners may use such aggregate or anonymized data sets in
-order to conduct research and analysis.
-11.     REMOVAL OR DELETION OF YOUR INFORMATION/OPTING OUT. In
-general, at your request, RHM will remove or delete Personal Information that you have
-provided to us. You may do so by emailing privacy@remedyhealthmedia.com with your opt-out
-request. Some of our Sites may permit you to opt-out of certain Voluntary Communications (as
-defined in our Terms of Use) for which you have registered or subscribed to receive (e.g.,
-newsletters) and promotional Automatic Communications (as defined in our Terms of Use).
-Users may unsubscribe from receiving Voluntary Communications and promotional Automatic
-Communications from us at any time by following the instructions contained at the end of every
-email.
-Please note that you may continue to receive emails from us for up to ten (10) days following
-your unsubscribing.
-12.     SECURITY. We maintain a reasonable standard of security and try to limit information
-access to individuals who need to have such access to perform their responsibilities associated
-with our Sites and the Content on our Sites. Despite these efforts, no system can ever be 100%
-secure. As a result, we cannot guarantee that the Personal Information stored on our servers will
-be free from unauthorized access. By using our Sites you are agreeing to assume this risk and
-any and all responsibility and liability that may arise.
-13.     CORRECTING OR UPDATING YOUR PERSONAL INFORMATION. If you have
-provided your Personal Information to us, you can update or delete it by logging into your
-account or contacting us at privacy@remedyhealthmedia.com. Although we may provide you
-with the ability to update or delete Personal Information directly on our Site, some Personal
-Information may not be changed or deleted by you and may require you to contact RHM for
-verification.
-                                                 -4 -
 
 
-14.      YOUR CALIFORNIA PRIVACY RIGHTS. California Civil Code Section 1798.83,
-allows individuals who have provided their Personal Information to us to request information
-about our disclosures of certain categories of Personal Information (if any) to third parties for
-their direct marketing purposes during the immediately preceding year. If applicable, you may
-request such information by either sending an email to our designated Privacy Administrator at
-privacy@remedyhealthmedia.com or contacting us via postal mail, proper postage prepaid, at:
-Privacy Administrator
-Remedy Health Media, LLC
-750 Third Avenue, 6th Floor
-New York, NY 10017
-Attn: Your California Privacy Rights
-In addition, under California law, website operators are required to disclose how they respond to
-web browser “do not track” signals or other similar mechanisms that provide consumers the
-ability to exercise choice regarding the collection of personal information of a consumer over
-time and across third party websites, to the extent the operator engages in that collection. At this
-time, we do not track our users’ Personal Information over time and across third-party websites.
-This law also requires website operators to disclose whether third parties may collect personal
-information about their users’ online activities over time and across different sites when the users
-use the operator’s website. We do not knowingly permit third parties to collect Personal
-Information about an individual user’s online activities over time and across different web sites
-when using our Sites, except as described in Section 9 herein.
-15.      CONTACT US. If you have any questions about this Privacy Policy, please contact us
-at: privacy@remedyhealthmedia.com.
-© 2016 Remedy Health Media, LLC. All Rights Reserved.
-                                                 -5 -
+## 5\. HOW WE DISCLOSE PERSONAL DATA.
+
+We do not sell, lease, rent or otherwise disclose the Personal Data collected on and through the Site to third parties unless otherwise stated below or with your consent.
+
+### 5.1. Our Third Party Providers.
+
+We transfer Personal Data to our third party service providers and business partners to perform tasks on our behalf and to assist us in providing the Site, as discussed in Section 3.2. above. We use commercially reasonable efforts to only engage or interact with third party service providers and business partners that post a privacy policy governing their processing of Personal Data. Notwithstanding the foregoing, we will comply with applicable laws regarding Personal Data transfers.
+
+### 5.2. Business Partners.
+
+From time to time, we may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from us, we may share Personal Data collected in connection with your purchase or expression of interest with our joint promotion partner(s). We do not control our business partners’ use of Personal Data we collect, and their use of the information will be in accordance with their own privacy policies.
+
+### 5.3. In the Event of Merger, Sale, or Change of Control.
+
+We may transfer or assign this Privacy Policy and any Personal Data to a third party entity that acquires or is merged with as part of a merger, acquisition, sale, or other change of control.
+
+### 5.4. Social Media Plugins.
+
+The Site uses social media plugins (e.g. Facebook) to enable you to easily share information with others. When you visit the Site, the operator of the social plugin can place a cookie on your device, enabling that operator to recognize individuals who have previously visited the Site. If you are logged into the social media website (e.g. Facebook, Twitter) while browsing the Site, the social media plugins allow that social media website to share personal information about your activities on the Site with other users of their social media website. For example, Facebook Social Plugins allow Facebook to show your Likes and comments on our pages to your Facebook friends. Facebook Social Plugins also allow you to see your friends’ Facebook activity on the Site. We do not control any of the content from the social media plugins. For more information about social plugins from other media websites you should refer to those sites’ privacy and data/information sharing statements/policies.
+
+### 5.5. Other Disclosures.
+
+We may disclose Personal Data about you if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request; (ii) enforce our terms of use, including investigations of potential violations thereof; (iii) detect, prevent, or otherwise address fraud or security issues; or (iv) protect against harm to the rights, property or safety of Remedy, our users, or the public.
+
+## 6\. RETENTION OF PERSONAL DATA.
+
+We reserve the right to retain any Personal Data as long as the Personal Data are needed to: (i) fulfill the purposes that are described in Section 4 (The Purposes For Which We Use Personal Data), and (ii) comply with applicable law.
+
+## 7\. YOUR RIGHTS.
+
+### 7.1 Rights Relating to Personal Data.
+
+If you have an account on the Site, we provide access to—and the ability to edit or delete—certain categories of Personal Data through the account. We also permit you to:
+
+  * Delete all content browsing information and opt-out of further participation in data associated with the current device you use to browse the Site. To exercise this right, please visit: <https://id.verticalhealth.net/preferences/>; and
+
+  * Delete all information related to email/newsletter subscriptions. To exercise this right, please visit: <https://remedyhealth.atlassian.net/servicedesk/customer/portal/2>.
+
+
+
+
+Subject to applicable law, if you would like to otherwise access, amend, correct, delete, export (e.g. data portability), object to the processing of Personal Data collected in and through the Site, or withdraw your consent (as applicable), you may submit a request to privacy@remedyhealthmedia.com or write to us at:
+
+       Attention: Privacy Officer
+
+       2111 Wilson Boulevard, suite 330
+
+       Arlington, Virginia 22201
+
+       We will promptly review all such requests in accordance with applicable laws.
+
+Depending on where you live, you may have a right to lodge a complaint with a regulatory agency if you believe that we have violated any of the rights concerning Personal Data about you. We encourage you to first reach out to us at privacy@remedyhealthmedia.com so we have an opportunity to address your concerns directly before you do so.
+
+### 7.2. Opting-Out of Promotional Emails.
+
+You may choose not to receive future promotional or advertising emails from us by selecting an unsubscribe link at the bottom of each email that you receive from us, or by responding to the emails directly and requesting removal if such a link is not available. Additionally, you may send a request specifying your communications preferences to [privacy@remedyhealthmedia.com](mailto:privacy@remedyhealthmedia.com "privacy@remedyhealthmedia.com"). Please note that even if you opt out of receiving the foregoing emails, we may still send you a response to any "Contact Us" request as well as administrative, maintenance and operational emails (for example, in connection with a password reset request).
+
+## 8\. DATA SECURITY.
+
+The security of Personal Data is important to us. We follow generally accepted industry standards to protect the Personal Data submitted to us, both during transmission and once we receive it. For example, we have implemented an information security program that contains administrative, technical and physical controls that are designed to reasonably safeguard Personal Data from unlawful use, unauthorized access, or disclosure. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect Personal Data, we cannot guarantee its absolute security.
+
+## 9\. TRANSFERS OF PERSONAL DATA FROM THE EU OR SWITZERLAND TO THE UNITED STATES.
+
+Remedy complies with the EU-US Privacy Shield Framework and Swiss-US Privacy Shield Framework (collectively, “Privacy Shield”) as set forth by the US Department of Commerce regarding the collection, use, and retention of Personal Data from European Union (the “EU”) member countries and Switzerland. Remedy has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. A violation of our commitment to Privacy Shield may be investigated by the Federal Trade Commission and/or the United States Department of Commerce. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, to the extent available, please visit https://www.privacyshield.gov.
+
+In compliance with the Privacy Shield Principles, Remedy commits to resolve complaints about your privacy and our collection or use of Personal Data about you. Persons from the EU or Switzerland who have inquiries or complaints regarding this Statement should first contact us via email at: privacy@remedyhealthmedia.com.
+
+Remedy has committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and the EU-Switzerland Privacy Shield Principles to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit https://www.jamsadr.com/eu-us-privacy-shield for more information and to file a complaint.
+
+These recourse mechanisms are available at no cost to you. Damages may be awarded in accordance with applicable law. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. Pursuant to the Privacy Shield, Remedy remains potentially liable for the transfer of Personal Data to third parties acting as our agents unless we can prove we were not a party to the events giving rise to the damages.
+
+In cases of onward transfer to third parties of Personal Data of EU or Swiss individuals received pursuant to the EU-US and Switzerland-US Privacy Shield, Remedy is potentially liable.
+
+## 10\. CHANGES TO THIS PRIVACY POLICY.
+
+We reserve the right, at our discretion, to change the terms of this Privacy Policy at any time. You can see when this Privacy Policy was last updated by reviewing the “Last Updated” legend on the top of this page. We may provide you with notice of material changes to the Privacy Policy as appropriate under the circumstances. UNLESS OTHERWISE INDICATED, ANY CHANGES TO THIS PRIVACY POLICY WILL APPLY IMMEDIATELY UPON POSTING.
+
+## 11\. CHILDREN’S PRIVACY.
+
+The Site is not intended for children under the age of 18. Accordingly, we do not intend to collect Personal Data from anyone we know to be under 18 years of age.
+
+## 12\. HOW WE RESPOND TO DO NOT TRACK SIGNALS.
+
+As explained above in Section 3.4, the technologies used on the Site may be used to track Site users over time and across third party websites to provide targeted advertising. How browsers communicate user preferences related to the Do Not Track signal is not yet uniform so a standard technological response has not yet been developed. For this reason, the Site may not respond to Do Not Track signals at this time.
+
+## 13\. YOUR CALIFORNIA PRIVACY RIGHTS.
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your Personal Data by Remedy to third parties for the third parties’ direct marketing purposes. To make such a request, please send an email to [privacy@remedyhealthmedia.com](mailto:privacy@remedyhealthmedia.com "privacy@remedyhealthmedia.com") or write to us:
+
+      Attention: Privacy Officer
+
+      2111 Wilson Boulevard, suite 330
+
+      Arlington, Virginia 22201
+
+## 14\. CONTACTING US.
+
+Any comments, concerns, complaints, or questions regarding our Privacy Policy may be addressed to [privacy@remedyhealthmedia.com](mailto:privacy@remedyhealthmedia.com "privacy@remedyhealthmedia.com").
