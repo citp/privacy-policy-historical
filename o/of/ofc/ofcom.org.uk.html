@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ofcom.org.uk privacy policy that was archived on 2019-03-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190329183046id_/https%3A//www.ofcom.org.uk/about-ofcom/foi-dp/general-privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ofcom.org.uk privacy policy that was archived on 2019-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191231093239id_/https%3A//www.ofcom.org.uk/about-ofcom/foi-dp/general-privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" async-hide"><head>
     <meta charset="utf-8">
@@ -24,7 +24,7 @@
 <meta name="Ofcom.ResponseCategory" content="Organisation">
 
 <!-- Publication Details //-->
-<meta name="Published.Date" content="2018-12-11 10:33:34">
+<meta name="Published.Date" content="2019-08-22 17:01:11">
 <meta name="Published.DateDisplay" content="show_yes">
 
 <!-- CCEB (TEST DO NOT USE) //-->
@@ -52,7 +52,7 @@
 <meta name="keywords.manual" content="">
 
     
-<link href="https://www.ofcom.org.uk/designs/css/main2018.css?v=0.1.51" rel="stylesheet"> 
+<link href="https://www.ofcom.org.uk/designs/css/main.dev2019.css?v=0.1.13" rel="stylesheet"> 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 <link href="https://www.ofcom.org.uk/__data/assets/css_file/0006/1500/jquery-ui.css" rel="stylesheet"> 
 <!-- Twitter Card data -->
@@ -75,8 +75,8 @@
 
 <meta property="og:description" content="">
 <meta property="og:site_name" content="Ofcom">
-<meta property="article:published_time" content="2018-12-11 10:33:34">
-<meta property="article:modified_time" content="2018-12-11 10:33:35">
+<meta property="article:published_time" content="2019-08-22 17:01:11">
+<meta property="article:modified_time" content="2019-08-22 17:01:14">
 <meta property="article:tag" content="">    
     <link rel="icon" href="/__data/assets/image/0016/91312/favicon.gif">
     <!--[if IE]><link rel="shortcut icon" href="/__data/assets/image/0016/91312/favicon.gif"><![endif]-->
@@ -120,11 +120,11 @@
     
     </script>
     
-    <noscript>
+<!--    <noscript>
     
     <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=12742&fmt=gif" />
     
-    </noscript> 
+    </noscript> -->
 
 
 
@@ -157,13 +157,14 @@
         </div>
     </div>
 </div>
-
 <header class="header" role="banner">
 <div class="row">
     <div class="large-12 columns">
         <a class="mobile-el mobile-menu off-canvas__toggle" href="#" title="Open menu" role="button" aria-haspopup="true">
             <i class="fa fa-bars fa-large" aria-hidden="true"></i>
+        
         <span>Menu</span>
+        
         </a>
             <a href="/" title="Ofcom home page"><img class="logo logo-lg" src="https://www.ofcom.org.uk/__data/assets/file/0010/163/logo.svg" alt="Ofcom home page">
             <img class="logo logo-mob" src="https://www.ofcom.org.uk/__data/assets/file/0009/162/logo-mob.svg" alt="Ofcom home page"></a>
@@ -171,19 +172,26 @@
          
             
              <a href="https://www.ofcom.org.uk/cymru/about-ofcom/foi-dp/general-privacy-statement" title="Switch to Cymraeg" class="mobile-el lang-switch-mobile"> 
-             <button type="submit" class="lang-switch-mobile-button">
-                <i class="fa fa-comments-o" aria-hidden="true"></i>
-            </button>
+           <!--  <button type="submit" class="lang-switch-mobile-button"> -->
+                <i class="fa fa-comments-o mobile-icon" aria-hidden="true"></i>
+           <!-- </button> -->
              <span>Cymraeg</span>
             </a>   
             
              
+       <!-- <div class="lang-switch-mobile">
+             <button type="submit" class="lang-switch-mobile-button">
+             <i class="fa fa-comments-o" aria-hidden="true"></i></button>
+              
+             <a href="https://www.ofcom.org.uk/cymru/about-ofcom/foi-dp/general-privacy-statement" title="Switch to Cymraeg">Cymraeg</a>
+                
+        </div>-->
         
         
-        <a class="mobile-el mobile-search" href="#" title="Open search bar" role="button" aria-haspopup="true">
-            <button type="submit" class="search-button">
-                <i class="fa fa-search fa-large" aria-hidden="true"></i>
-            </button>
+        <a class="mobile-el mobile-search" href="#" title="Open search bar" role="button" aria-expanded="false" id="mobile-search-icon">
+            <!--<button type="submit" class="search-button">-->
+                <i class="fa fa-search fa-large mobile-icon" aria-hidden="true"></i>
+            <!--</button>-->
         <span>Search</span>
         </a>
         <div class="lang-toggle">
@@ -193,7 +201,7 @@
         </div>
         <div class="search-input">
             
-            <form role="search" action="/search" method="get" style="position: relative">
+            <form role="search" action="/search" method="get">
             
               <label for="homepage-search-input" class="visuallyhidden">Search site</label>
               <input type="text" name="query" class="search-input-field" placeholder="Search the Ofcom site..." autocomplete="off" id="homepage-search-input">
@@ -219,8 +227,35 @@
 	    </div> 
     </div>
 </div>
+</header></div>
 
-</header>               
+
+
+<script>
+
+    var elem = document.getElementById("mobile-search-icon");
+    var x = elem.getAttribute("aria-expanded");
+    
+    function change() {
+        if (elem.title=="Close") elem.title = "Open search bar";
+        else elem.title = "Close";
+    }
+    
+    function ariaChange() {
+        if (x == "true") {
+            x = "false"
+        } else {
+            x = "true"
+        }
+        elem.setAttribute("aria-expanded", x);
+    }
+    
+    elem.addEventListener('click', function() {
+        change();
+        ariaChange();
+    });
+
+</script>               
                 <!-- /.header -->
                 <!--endnoindex-->
                 <!-- start main-content -->
@@ -241,71 +276,71 @@
     
 	<ul class="sub-nav"></ul>
 </li>                                    
-                                		                                    <li class=" nav-red">
+                                														                                    <li class=" nav-red">
                                         <a href="https://www.ofcom.org.uk/home">Home</a>
-                                        		                                    </li>
+                                        																		                                    </li>
                                                                         <li class=" nav-purple">
                                         <a href="https://www.ofcom.org.uk/phones-telecoms-and-internet">Phones, telecoms and internet</a>
-                                        		                                        <ul class="sub-nav">
+                                        														                                        <ul class="sub-nav">
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers">Advice for consumers</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/phones-telecoms-and-internet/how-to-report-a-complaint">Complain about phones or internet services</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/phones-telecoms-and-internet/information-for-industry">Information for industry</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/phones-telecoms-and-internet/coverage">Coverage </a></li>
                                                                                     </ul>
-                                                                            </li>
+                                        				                                    </li>
                                                                         <li class=" nav-purple">
                                         <a href="https://www.ofcom.org.uk/tv-radio-and-on-demand">TV, radio and on-demand</a>
-                                        		                                        <ul class="sub-nav">
+                                        														                                        <ul class="sub-nav">
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/how-to-report-a-complaint">Complain about TV, radio, a website or an app</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/advice-for-consumers">Advice for consumers</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/information-for-industry">Information for the TV, radio and on-demand industry</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-codes">Broadcasting codes</a></li>
                                                                                     </ul>
-                                                                            </li>
+                                        				                                    </li>
                                                                         <li class=" nav-purple">
                                         <a href="https://www.ofcom.org.uk/postal-services">Postal services</a>
-                                        		                                        <ul class="sub-nav">
+                                        														                                        <ul class="sub-nav">
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/postal-services/complaints-about-postal-service">Complain about postal services</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/postal-services/advice">Advice for consumers</a></li>
                                                                                     </ul>
-                                                                            </li>
+                                        				                                    </li>
                                                                         <li class=" nav-purple">
                                         <a href="https://www.ofcom.org.uk/spectrum">Spectrum</a>
-                                        		                                        <ul class="sub-nav">
+                                        														                                        <ul class="sub-nav">
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/spectrum/spectrum-management">Spectrum management</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/spectrum/interference-enforcement">Protecting and managing the airwaves</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/spectrum/radio-spectrum-and-the-law">Radio spectrum and the law</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/spectrum/information">Spectrum information</a></li>
                                                                                     </ul>
-                                                                            </li>
+                                        				                                    </li>
                                                                         <li class=" nav-purple">
                                         <a href="https://www.ofcom.org.uk/consultations-and-statements">Consultations and statements</a>
-                                        		                                        <ul class="sub-nav">
+                                        														                                        <ul class="sub-nav">
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/consultations-and-statements/consultation-response-coversheet">Consultation response coversheet</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/consultations-and-statements/better-policy-making-ofcoms-approach-to-impact-assessment">Ofcom's approach to Impact Assessment</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/consultations-and-statements/how-will-ofcom-consult">Ofcom's consultation principles</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/consultations-and-statements/ofcomresponses">Ofcom responses</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/consultations-and-statements/sign-up-for-our-consultations-bulletin">Sign up for our consultations bulletin</a></li>
                                                                                     </ul>
-                                                                            </li>
+                                        				                                    </li>
                                                                         <li class=" nav-purple">
                                         <a href="https://www.ofcom.org.uk/research-and-data">Research and data</a>
-                                        		                                        <ul class="sub-nav">
+                                        														                                        <ul class="sub-nav">
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/research-and-data/search">Search all research and data</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/research-and-data/multi-sector-research">Multi-sector research</a></li>
-                                                                                        <li class=""><a href="https://www.ofcom.org.uk/research-and-data/tv-radio-and-on-demand">TV, radio and on-demand</a></li>
+                                                                                        <li class=""><a href="https://www.ofcom.org.uk/research-and-data/tv-radio-and-on-demand">TV, radio and on-demand research</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/research-and-data/telecoms-research">Telecoms research</a></li>
-                                                                                        <li class=""><a href="https://www.ofcom.org.uk/research-and-data/media-literacy-research">Media literacy research</a></li>
+                                                                                        <li class=""><a href="https://www.ofcom.org.uk/research-and-data/media-literacy-research">Making Sense of Media</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/research-and-data/internet-and-on-demand-research">Internet research</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/research-and-data/post-research">Post research</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/research-and-data/technology">Technology research</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/research-and-data/data">Data</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/research-and-data/about-ofcoms-research">About Ofcom's research</a></li>
                                                                                     </ul>
-                                                                            </li>
+                                        				                                    </li>
                                                                         <li class="active nav-purple">
                                         <a href="https://www.ofcom.org.uk/about-ofcom">About Ofcom</a>
-                                        		                                        <ul class="sub-nav">
+                                        														                                        <ul class="sub-nav">
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/about-ofcom/what-is-ofcom">What is Ofcom?</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/about-ofcom/how-ofcom-is-run">How Ofcom is run</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/about-ofcom/latest">News and updates</a></li>
@@ -317,20 +352,22 @@
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/about-ofcom/annual-reports-and-plans">Annual reports and plans</a></li>
                                                                                         <li class="current"><a href="https://www.ofcom.org.uk/about-ofcom/foi-dp">FOI and Data Protection</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/about-ofcom/supplying-ofcom">Supplying Ofcom</a></li>
+                                                                                        <li class=""><a href="https://www.ofcom.org.uk/about-ofcom/website">About this website</a></li>
+                                                                                        <li class=""><a href="https://www.ofcom.org.uk/about-ofcom/copyright">Copyright and information re-use</a></li>
                                                                                     </ul>
-                                                                            </li>
+                                        				                                    </li>
                                                                         <li class=" nav-purple">
                                         <a href="https://www.ofcom.org.uk/manage-your-licence">Manage your licence</a>
-                                        		                                        <ul class="sub-nav">
+                                        														                                        <ul class="sub-nav">
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/manage-your-licence/tv-broadcast-licences">TV broadcast licences</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/manage-your-licence/radiocommunication-licences">Radiocommunications licences</a></li>
                                                                                         <li class=""><a href="https://www.ofcom.org.uk/manage-your-licence/radio-broadcast-licensing">Radio broadcast licences</a></li>
                                                                                     </ul>
-                                                                            </li>
+                                        				                                    </li>
                                                                         <li class=" nav-purple">
                                         <a href="https://www.ofcom.org.uk/pay-your-licence-online">Pay your licence online</a>
-                                        		                                    </li>
-                                     
+                                        																		                                    </li>
+                                    				 
                                 
 <li class="nav-lang-toggle"><a href="https://www.ofcom.org.uk/cymru/about-ofcom/foi-dp/general-privacy-statement" title="Switch to Cymraeg">Cymraeg</a></li>
                                 </ul>
@@ -360,15 +397,15 @@
     <div class="large-8 columns">
         <div class="header-container">
             <h1 class="page-title">General Privacy Statement – How we handle your personal data</h1>
-          <!--  <div class="saved-pages-component">
+            <div class="saved-pages-component">
                 <span>
                  <button class="page-save" data-name="General Privacy Statement – How we handle your personal data" data-url="https://www.ofcom.org.uk/about-ofcom/foi-dp/general-privacy-statement" data-id="113117"><span>Add to Your Pages</span> <i class="fa fa-star" aria-hidden="true"></i></button>
                 </span>
-            </div>-->
+            </div>
        
         
                 <div class="small-text grey">
-           <small>11 December 2018</small>
+           <small>22 August 2019</small>
         </div>
                  </div>
         <hr>
@@ -388,7 +425,7 @@
             <a href="#accordion__target-113522">What personal data does Ofcom collect?<span class="open" aria-hidden="true"></span></a>
         </div>
         <div class="accordion-content element-invisible" aria-hidden="true" id="collapsible-113522">
-            <p>Depending on the purpose and context, the personal data Ofcom collects may include:</p><ul type="disc"><li>Your name and job title</li><li>Your contact information (which may include your IP address)</li><li>Your occupation and employer’s details</li><li>Your bank details and national insurance number</li><li>Information relating to your age, disability status, racial or ethnic origin, political opinion and political affiliations, religious or philosophical belief, trade union membership, genetic data, health, sex, sexual orientation, gender and nationality, criminal convictions and offences</li><li>Other information relevant to:<ul type="disc"><li>Improving our services (including, but not limited to, recording or monitoring communications between you and Ofcom for the purposes of quality control and staff training)</li><li>Carrying out our statutory functions as a communications regulator (which include protecting and furthering the interests of consumers and promoting competition)</li></ul></li></ul><p>Other information relevant to our duties as an employer.</p>
+            <p>Depending on the purpose and context, the personal data Ofcom collects may include:</p><ul type="disc"><li>Your name and job title</li><li>Your contact information (which may include your IP address)</li><li>Your occupation and employer’s details</li><li>Your bank details and national insurance number</li><li>Information relating to your age, disability status, racial or ethnic origin, political opinion and political affiliations, religious or philosophical belief, trade union membership, genetic data, health, sex, sexual orientation, gender and nationality, criminal convictions and offences</li><li>Other information relevant to:<ul type="disc"><li>Improving our services (including, but not limited to, recording or monitoring communications between you and Ofcom for the purposes of quality control and staff training)</li><li>Carrying out our statutory functions as a communications regulator (which include protecting and furthering the interests of consumers and promoting competition)</li></ul></li><li>Other information relevant to our duties as an employer.</li></ul><p>In carrying out our functions, Ofcom may from time to time collect personal data which users of online media platforms (for example, Twitter, Facebook, Instagram, YouTube, news websites and other public blogs/forums) have chosen to make publicly available.</p>
         </div>
     </div>
 </div><div class="accordion">
@@ -397,7 +434,7 @@
             <a href="#accordion__target-113524">How will Ofcom use my personal data?<span class="open" aria-hidden="true"></span></a>
         </div>
         <div class="accordion-content element-invisible" aria-hidden="true" id="collapsible-113524">
-            <p>Ofcom may use your personal data for the purposes of carrying out its statutory functions, including Ofcom’s law enforcement functions, and complying with its legal obligations. Ofcom may also use your personal data where there are reasons of substantial public interest to do so, or where it has otherwise obtained your consent.</p><p>In particular, Ofcom may use your personal data for one or more of the following reasons:</p><ul type="disc"><li>To carry out our statutory functions, for example: <ul type="disc"><li>Licensing, including granting and administering broadcast licences and licences for radio equipment and other wireless communications apparatus</li><li>Logging and handling complaints, including consumer complaints and fairness and privacy complaints</li><li>Undertaking regulatory investigations</li><li>Carrying out law enforcement activities, including investigating and prosecuting criminal offences relating to illegal broadcasting and unlawful use of wireless communications apparatus</li><li>Gathering and publishing evidence and opinions, including through consultations and carrying out research</li><li>Ensuring transparency and accountability in the way in which Ofcom carries out its regulatory activities.</li></ul></li><li>To improve our services;</li><li>To send information to you which we think may be of interest to you;</li><li>To undertake our duties as an employer;</li><li>To pass your details to accountants, consultants and other professionals for the purpose of obtaining professional advice and complying with Ofcom's contractual obligations;</li><li>To comply with our legal and regulatory obligations;</li><li>To establish, exercise or defend legal claims;</li></ul><p>Ofcom may also, from time to time, need to share your personal data with other third parties, including:</p><ul type="disc"><li>Where appropriate, broadcasters and communications providers, for the purposes of resolving complaints about broadcasting (including on-demand content) or services;</li><li>The police, or other law-enforcement bodies, for the purposes of undertaking investigations or where we are legally obliged to do so;</li><li>Government departments and other regulatory bodies for the purposes of enabling us and them to carry out our respective legal and statutory functions. These may include, for example, the Information Commissioner, the Advertising Standards Authority, the Charity Commission, the Civil Aviation Authority and the Competition and Markets Authority (amongst other regulatory or co-regulatory bodies or investigatory bodies of a similar nature);</li><li>Third parties who we may employ to in order to process personal data on our behalf (in compliance with the requirements of data protection legislation).</li></ul>
+            <p>Ofcom may use your personal data for the purposes of carrying out its statutory functions, including Ofcom’s law enforcement functions, and complying with its legal obligations. Ofcom may also use your personal data where there are reasons of substantial public interest to do so, or where it has otherwise obtained your consent.</p><p>In particular, Ofcom may use your personal data for one or more of the following reasons:</p><ul type="disc"><li>To carry out our statutory functions, for example: <ul><li>Licensing, including granting and administering broadcast licences and licences for radio equipment and other wireless communications apparatus</li><li>Logging and handling complaints, including consumer complaints and fairness and privacy complaints</li><li>Undertaking regulatory investigations or investigations under the Competition Act 1998</li><li>Carrying out law enforcement activities, including investigating and prosecuting criminal offences relating to illegal broadcasting and unlawful use of wireless communications apparatus</li><li>Gathering and publishing evidence and opinions, including through consultations and carrying out research</li><li>Ensuring transparency and accountability in the way in which Ofcom carries out its regulatory activities.</li></ul></li><li>To improve our services;</li><li>To send information to you which we think may be of interest to you;</li><li>To undertake our duties as an employer;</li><li>To pass your details to accountants, consultants and other professionals for the purpose of obtaining professional advice and complying with Ofcom's contractual obligations;</li><li>To comply with our legal and regulatory obligations;</li><li>To establish, exercise or defend legal claims;</li></ul><p>Ofcom may also, from time to time, need to share your personal data with other third parties, including:</p><ul type="disc"><li>Where appropriate, broadcasters and communications providers, for the purposes of resolving complaints about broadcasting (including on-demand content) or services;</li><li>Organisations falling within the scope of Ofcom’s powers, third party complainants, and any representatives and expert witnesses engaged by those parties or Ofcom for the purposes of exercising our regulatory functions, including undertaking investigations and subsequent appeals. This includes, for example, allowing the subjects of an investigation (and where relevant, the complainant) access to the file, which allows those parties to understand the evidence that Ofcom is relying on in its provisional and final decisions;</li><li>The police, or other law-enforcement bodies, for the purposes of undertaking investigations or where we are legally obliged to do so;</li><li>Government departments and other regulatory bodies for the purposes of enabling us and them to carry out our respective legal and statutory functions. These may include, for example, the Information Commissioner, the Advertising Standards Authority, the Charity Commission, the Civil Aviation Authority, the Competition and Markets Authority and the European Commission (amongst other regulatory or co-regulatory bodies or investigatory bodies of a similar nature);</li><li>Third parties who we may employ to in order to process personal data on our behalf (in compliance with the requirements of data protection legislation).</li></ul>
         </div>
     </div>
 </div><div class="accordion">
@@ -468,7 +505,7 @@
     </div>
     
     <div class="large-4 columns sidebar">
-       <!-- <a href="#" class="add-fav-btn icon icon-star"><span>Add Your Pages</span></a>-->
+        <!--<a href="#" class="add-fav-btn icon icon-star"><span>Add Your Pages</span></a>-->
         <div class="saved-pages-component">
             <span>
              <button class="page-save" data-name="General Privacy Statement – How we handle your personal data" data-url="https://www.ofcom.org.uk/about-ofcom/foi-dp/general-privacy-statement" data-id="113117"><span>Add to Your Pages</span> <i class="fa fa-star" aria-hidden="true"></i></button>
@@ -525,7 +562,7 @@
     <section class="social">
         <div class="social-wrapper">
             <ul>
-                <li><a href="http://www.twitter.com/ofcom" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i><span class="visuallyhidden">Twitter</span></a></li><li><a href="http://www.facebook.com/ofcom" title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i><span class="visuallyhidden">Facebook</span></a></li><li><a href="https://www.linkedin.com/company/ofcom" title="LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i><span class="visuallyhidden">LinkedIn</span></a></li><li><a href="http://www.youtube.co.uk/ofcom" title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i><span class="visuallyhidden">Youtube</span></a></li><li><a href="https://www.instagram.com/ofcom.org.uk/" title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i><span class="visuallyhidden">Instagram</span></a></li>
+                <li><a href="https://www.twitter.com/ofcom" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i><span class="visuallyhidden">Twitter</span></a></li><li><a href="https://www.facebook.com/ofcom" title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i><span class="visuallyhidden">Facebook</span></a></li><li><a href="https://www.linkedin.com/company/ofcom" title="LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i><span class="visuallyhidden">LinkedIn</span></a></li><li><a href="https://www.youtube.co.uk/ofcom" title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i><span class="visuallyhidden">Youtube</span></a></li><li><a href="https://www.instagram.com/ofcom.org.uk/" title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i><span class="visuallyhidden">Instagram</span></a></li>
             </ul>
         </div>
     </section>
@@ -572,18 +609,21 @@ footer .social a {
 </footer>            <!-- /.footer -->
             <!--endnoindex-->
         </div>
-    </div>
+    
     <!-- /#page-wrapper -->
     <script src="https://www.ofcom.org.uk/__data/assets/git_bridge/0018/99/static/js/vendor/modernizr.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.34.4/es6-shim.min.js"></script>
 <script src="https://www.ofcom.org.uk/__data/assets/git_bridge/0018/99/static/js/vendor/jquery.min.js"></script>
 <script src="https://www.ofcom.org.uk/__data/assets/js_file/0018/1485/jquery-ui-1.10.3.custom.min.js"></script>
-<script src="https://www.ofcom.org.uk/__data/assets/git_bridge/0018/99/static/js/plugins.min.js"></script>
+<script src="https://www.ofcom.org.uk/__data/assets/git_bridge/0018/152190/static/js/plugins.min.js"></script>
 <script src="https://www.ofcom.org.uk/__data/assets/js_file/0017/1484/jquery.funnelback-completion.js"></script>
 <script src="https://www.ofcom.org.uk/__data/assets/js_file/0023/1499/js.cookie.js"></script>
 <script type="text/javascript" src="https://www.ofcom.org.uk/__data/assets/js_file/0013/1525/jquery.validate.min.js"></script>
 <!--<script src="https://www.ofcom.org.uk/__data/assets/js_file/0006/222/global.js"></script>-->
-<script src="https://www.ofcom.org.uk/__data/assets/git_bridge/0018/99/static/js/global.js?v=8"></script>
+<script src="https://www.ofcom.org.uk/__data/assets/git_bridge/0018/152190/static/js/global.js?v=9"></script>
+
+
+
 <!-- notification banner cookie exp 30days below - to be moved to js file when git fixed-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script> 
 <script type="text/javascript">
