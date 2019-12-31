@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the runewsweek.ru privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624233010id_/http%3A//www.thedailybeast.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runewsweek.ru privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231113746id_/https%3A//www.thedailybeast.com/company/privacy-policy) for the most accurate reproduction.*
 
-# The Daily Beast
+# Privacy Policy - The Daily Beast
 
 ## Privacy Policy
 
-### As of June 27, 2018
+### As of December 20, 2019
 
 The Daily Beast Company LLC has prepared this Privacy Policy to help you understand more about how we collect, use, and disclose information that we collect about consumers through our web and mobile services, which we refer to in this Privacy Policy collectively as the “Services.”
 
-This Privacy Policy only covers information that we collect about you as part of your use of the Services. For example, it does not cover information that we collect in news reporting or as a part of our business arrangements. This Privacy Policy also does not apply to The Daily Beast Shop, found at shop.thedailybeast.com, which is powered by StackCommerce and subject to the StackCommerce [Privacy Policy](https://shop.thedailybeast.com/privacy) and [Terms of Use](https://shop.thedailybeast.com/terms).
+This Privacy Policy only covers information that we collect about you as part of your use of the Services.
 
 ### What information do you collect about me?
 
@@ -120,7 +120,59 @@ We do not knowingly collect personal information (as that term is defined in the
 
 ### What are my California privacy rights?
 
-California law permits residents of California to request certain details about what personal information (as that term is defined in California Civil Code § 1798.83) a company shares with third parties for the third parties’ direct marketing purposes. Upon receipt of this notification, we will discontinue sharing your information for third party direct marketing purposes as soon as practicable.
+California’s “Shine the Light” law permits residents of California to request certain details about what personal information (as that term is defined in California Civil Code § 1798.83) a company shares with third parties for the third parties’ direct marketing purposes. Upon receipt of this notification, we will discontinue sharing your information for third party direct marketing purposes as soon as practicable.
+
+The California Consumer Privacy Act, effective January 1, 2020, provides California “Consumers” with certain rights, as explained in our California Consumer Privacy Act Notice (“CCPA Notice”) below. Please review our CCPA Notice below for more information.
+
+This CCPA Notice applies to “Personal Information” (also referred to herein as PI) of “Consumers” as defined by the California Consumer Privacy Act (“CCPA”).
+
+We collect and share the following categories of PI from the corresponding sources and for the corresponding purposes set forth in the table below.
+
+Category of Personal Information| Sources of Personal Information| Purposes for Collection| Categories of Third Parties with whom Personal Information is shared| Purposes of Third Parties Receiving PI  
+---|---|---|---|---  
+1\. Identifiers and Personal Records (e.g., email address, name, address, IP address, credit card number)| Directly from you; your devices; Vendors| Performing Services; Processing and managing interactions and transactions; Quality Assurance; security; debugging; marketing| Vendors which assist us in providing services and running our internal business operations (“Vendors”); Data Analytics Partners| Performing Services on our behalf; Processing and managing interactions and transactions; performing services; Quality Assurance; security; debugging  
+2\. Customer Account Details / Commercial Information (e.g., details of your use of our service)| Directly from you; your devices| Performing Services; Research and development; quality assurance; security; debugging; and marketing| Data Analytics Partners; Vendors| Performing Services on our behalf; research and development; quality assurance; security; and debugging  
+3\. Internet Usage Information (e.g., information regarding your interaction with our services)| You; your devices; Data Analytics Partners; Vendors| Research and development; quality assurance; security; and debugging| Data Analytics Partners; Vendors| Performing Services on our behalf; Research and development; quality assurance; security; and debugging  
+4\. Geolocation Data| Your devices; Vendors| Performing Services; Processing and managing interactions and transactions; Quality Assurance; security; debugging; marketing| Vendors| Performing Services on our behalf; Processing and managing interactions and transactions; performing services; Quality Assurance; security; debugging  
+5\. Inferences (e.g., your preferences, likelihood of interest in certain of our services)| Data Analytics Partners; Vendors; Advertising Networks| Research and development; quality assurance; and marketing| Data Analytics Partners; Vendors; Advertising Networks| Performing Services on our behalf; research and development; quality assurance; marketing  
+  
+In addition, we may collect, use and disclose your PI as required or permitted by applicable law, or as directed by you, in accordance with this Privacy Policy.
+
+We do not knowingly “sell” personal information that we collect from you, in accordance with the definition of “sell” in the CCPA, and will treat personal information we collect from you as subject to a do not sell request. There is not yet a consensus as to whether third party cookies and tracking devices associated with our websites and mobile apps may constitute a “sale” of your PI as defined by the CCPA. You can exercise control over browser-based cookies by adjusting the settings on your browser. Further, you can learn more about your choices regarding certain kinds of online interest-based advertising here. We do not represent that these third-party tools, programs or statements are complete or accurate.
+
+Some browsers have signals that may be characterized as do not track signals, but we do not understand them to operate in that manner or to indicate a do not sell expression by you so we currently do not recognize these as a do not sell request. We understand that various parties are developing do not sell signals and we may recognize certain such signals if we conclude such a program is appropriate.
+
+California Consumers have the right to exercise the privacy rights under the CCPA. California Consumers may exercise these rights via an authorized agent who meets the agency requirements of the CCPA. Any request you submit to us is subject to an identification and residency verification process (“Verifiable Consumer Request”). We will not fulfill your CCPA request unless you have provided sufficient information for us to reasonably verify you are the Consumer about whom we collected PI. Please follow the instructions at our Consumer Rights Request page [here](https://web.archive.org/company/california-consumer-rights-request) and respond to any follow up inquiries we may make.
+
+Some personal information we maintain about Consumers is not sufficiently associated with enough personal information about the Consumer for us to be able to verify that it is a particular Consumer’s personal information (e.g., clickstream data tied only to a pseudonymous browser ID). As required by the CCPA, we do not include that personal information in response to Verifiable Consumer Requests. If we cannot comply with a request, we will explain the reasons in our response.
+
+We will make commercially reasonable efforts to identify Consumer PI that we collect, process, store, disclose, and otherwise use and to respond to your California Consumer privacy rights requests. We will typically not charge a fee to fully respond to your requests, but we may charge a reasonable fee, or refuse to act upon a request, if your request is excessive, repetitive, unfounded, or overly burdensome.
+
+To make a request according to your rights to know or to request deletion of your PI set forth below, please email us at california-consumer-rights-request@thedailybeast.com or click [here](https://web.archive.org/company/california-consumer-rights-request), where you will find a form to complete so that we can verify your identity using your email address and browser ID and fulfill your request as required by the CCPA. For your specific pieces of information, if required by the CCPA, we will apply heightened verification standards, which may include a request to provide further information.
+
+You have the right to send us a request, no more than twice in a twelve-month period, for any of the following for the period that is twelve months prior to the request date:
+
+  * The categories of PI we have collected about you.
+  * The categories of sources from which we collected your PI.
+  * The business or commercial purposes for our collecting or selling your PI.
+  * The categories of third parties to whom we have shared your PI.
+  * The specific pieces of PI we have collected about you.
+  * A list of the categories of PI disclosed for a business purpose in the prior 12 months, or that no disclosure occurred.
+  * A list of the categories of PI sold about you in the prior 12 months, or that no sale occurred. If we sold your PI, we will explain:
+    * The categories of your PI we have sold.
+    * The categories of third parties to which we sold PI, by categories of PI sold for each third party.
+
+
+
+You have the right to make or obtain a transportable copy, no more than twice in a twelve-month period, of your PI that we have collected in the period that is 12 months prior to the request date and are maintaining.
+
+Please note that PI is retained by us for various time periods, so we may not be able to fully respond to what might be relevant going back 12 months prior to the request.
+
+Except to the extent we have a basis for retention under CCPA, you may request that we delete your PI that we have collected directly from you and are maintaining. Note also that we are not required to delete your PI that we did not collect directly from you.
+
+You may alternatively exercise more limited control of your PI by instead exercising one of the following more limited opt-outs, including unsubscribing from email newsletters by clicking the unsubscribe link in the footer of a The Daily Beast email or sending an email to [tech@thedailybeast.com](mailto:tech@thedailybeast.com).
+
+We will not discriminate against you in a manner prohibited by the CCPA because you exercise your CCPA rights. However, we may charge a different price or rate, or offer a different level or quality of good or service, to the extent that doing so is reasonably related to the value of the applicable data. In addition, we may offer you financial incentives for the collection, sale and retention and use of your PI as permitted by the CCPA that can, without limitation, result in reasonably different prices, rates, or quality levels. The material aspects of any financial incentive will be explained and described in its program terms. Please note that participating in incentive programs is entirely optional, you will have to affirmatively opt-in to the program and you can opt-out of each program (i.e., terminate participation and forgo the ongoing incentives) prospectively by following the instructions in the applicable program description and terms. We may add or change incentive programs and/or their terms by posting notice on the program descriptions and terms linked to above so check them regularly.
 
 ### What are cookies and web beacons and how are they used on the Services?
 
