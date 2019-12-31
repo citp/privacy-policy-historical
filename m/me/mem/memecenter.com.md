@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memecenter.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232959id_/https%3A//www.memecenter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memecenter.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231044955id_/https%3A//www.memecenter.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
