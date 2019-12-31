@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609022705id_/http%3A//www.mathworks.com/company/aboutus/policies_statements.html%3Fs_tid%3Dgf_priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231212745id_/https%3A//www.mathworks.com/company/aboutus/policies_statements.html%3Fs_tid%3Dgf_priv) for the most accurate reproduction.*
 
 # Policies and Statements - MATLAB & Simulink
 
@@ -99,7 +99,7 @@ You can use browser settings and third-party services to block cookies, advertis
 
 **Changing, correcting, or deleting your personal information**
 
-[MathWorks Account](https://www.mathworks.com/login) holders may make changes and corrections to personal information online. If you have other questions or requests about your personal information, or wish to exercise any of your legal rights involving your personal information, please submit a [Customer Support request](https://web.archive.org/support/contact_us.html?s_tid=sp_ban_cs) or contact us at [privacy@mathworks.com](mailto:privacy@mathworks.com).
+[MathWorks Account](https://www.mathworks.com/login) holders may make changes and corrections to personal information online. If you have other questions or requests about your personal information, or wish to exercise any of your legal rights involving your personal information, please submit a [Customer Support privacy request](https://web.archive.org/company/aboutus/data-subject-access-request.html?s_tid=sp_ban_cs) or contact us at [privacy@mathworks.com](mailto:privacy@mathworks.com).
 
 In some cases, we may not be able to fully comply with your requests. For example, even if you request that we delete your personal information, we may need to retain your data for legal purposes. In these cases, we will respond to your request and explain the extent to which we were able to comply.
 
@@ -113,7 +113,7 @@ MathWorks complies with applicable privacy laws, including the GDPR, and adheres
 
 **GDPR and global privacy laws**
 
-If you are subject to the GDPR or other applicable privacy laws, you have the right to make certain requests about your personal data. You have the right to request access to your personal data, request that MathWorks correct your personal data so that it is accurate and up to date, or request that your personal data be restricted or removed. You may exercise these rights by submitting a [Customer Support request](https://web.archive.org/support/contact_us.html?s_tid=sp_ban_cs) or contacting us at [privacy@mathworks.com](mailto:privacy@mathworks.com).
+If you are subject to the GDPR or other applicable privacy laws, you have the right to make certain requests about your personal data. You have the right to request access to your personal data, request that MathWorks correct your personal data so that it is accurate and up to date, or request that your personal data be restricted or removed. You may exercise these rights by submitting a [Customer Support privacy request](https://web.archive.org/company/aboutus/data-subject-access-request.html?s_tid=sp_ban_cs) or contacting us at [privacy@mathworks.com](mailto:privacy@mathworks.com).
 
 You have the right to object to the processing of your personal data on the grounds that the processing is not lawful. You have the right to data portability, the right to withdraw consent to processing, and the right to lodge a complaint with a supervisory authority.
 
@@ -127,7 +127,7 @@ For GDPR purposes, MathWorks representative is The MathWorks GmbH, Adalperostr. 
 
 MathWorks is certified under the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Economic Area, the United Kingdom, and Switzerland to the United States, respectively. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, visit <https://www.privacyshield.gov/>. MathWorks is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
-In compliance with privacy laws and the Privacy Shield Frameworks, MathWorks commits to resolve complaints about your privacy and our collection or use of your personal information. Individuals with inquiries or complaints regarding this Privacy Policy, or individuals exercising their data subject rights, should first contact MathWorks by emailing [privacy@mathworks.com](mailto:privacy@mathworks.com)or by sending mail to the following address: Head of Customer Service, MathWorks, 1 Apple Hill Drive, Natick, MA 01760. Sensitive personal information may be sent by fax to 1-508-647-7061.
+In compliance with privacy laws and the Privacy Shield Frameworks, MathWorks commits to resolve complaints about your privacy and our collection or use of your personal information. Individuals with inquiries or complaints regarding this Privacy Policy, or individuals exercising their data subject rights, should first contact MathWorks by emailing [privacy@mathworks.com](mailto:privacy@mathworks.com), by submitting a [Customer Support privacy request](https://web.archive.org/company/aboutus/data-subject-access-request.html?s_tid=sp_ban_cs), or by sending mail to the following address: Head of Customer Service, MathWorks, 1 Apple Hill Drive, Natick, MA 01760. Sensitive personal information may be sent by fax to 1-508-647-7061.
 
 MathWorks has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, visit <http://www.bbb.org/eu-privacy-shield> for more information and to file a complaint at no cost to you. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield panel.
 
