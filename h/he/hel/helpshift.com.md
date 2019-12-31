@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the helpshift.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424102906id_/https%3A//www.helpshift.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpshift.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231094618id_/https%3A//www.helpshift.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-**HELPSHIFT PRIVACY STATEMENT**
+# Privacy | Helpshift
 
 **Effective Date: March 27, 2018**
 
@@ -12,7 +10,7 @@ This Privacy Statement covers Helpshift’s treatment of personal information (�
 
 **1\. What Personal Information does Helpshift collect and what does it use it for?**
 
-_(i) Information you provide to us _
+_(i) Information you provide to us_
 
 Helpshift collects information you voluntarily submit to the Website or Services.  For example, when you register for or use an account, request a demo, trial or further information about our Services, subscribe to marketing communications, provide your feedback, seek customer support, post comments on our blog, or sign up to our events or webinars, you may provide certain information to us such as your name, email address, contact details, company name, job role, payment related information (e.g. credit card number, physical address, etc.) and the nature of your request or communication. 
 
@@ -47,7 +45,7 @@ We will use this information for a number of purposes, including:
 
 We may also use “cookies” to track your experience and use of the Website and Services as explained further under the heading “Cookies and similar tracking technology” below. 
 
-_(iii) Information we process on behalf of our customers. _
+_(iii) Information we process on behalf of our customers._
 
 In the course of using our Services, our customers and their end-users may submit or upload certain content, communications, data, attachments or files to our Services for hosting and processing by us.  For example, if an end-user communicates with our customer’s support staff using Helpshift’s In-App Chat features, then we will process the end-user’s name, email address and support request on behalf of our customers (as a data processor) and in accordance with their instructions.  Our privacy practices in such cases will be governed by the contract that we have in place with them. 
 
