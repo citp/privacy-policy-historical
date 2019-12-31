@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the file.net privacy policy that was archived on 2019-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190424122517id_/https%3A//www.file.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the file.net privacy policy that was archived on 2019-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191231234430id_/https%3A//www.file.net/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -55,6 +55,8 @@ span.stars{background-image:url(img/sprite.png);width:50px;display:inline-block;
 #footer img{vertical-align:middle;position:relative;top:-4px;margin-left:10px}
 .addthis_toolbox,.atclear{display:inline-block;margin-top:10px}
 .addthis_button_tweet{width:90px}
+#adr-pf{visibility:hidden;width:0;height:0;background:none no-repeat;animation: zeig 2ms forwards}
+@keyframes zeig {100% {width:226px;height:35px;visibility:visible}}
 
 @media only screen and (max-width : 650px) { #navigation a{padding:7px 10px 3px 10px;font-size:14px; height:20px} #navigation #navsoft, #navigation #navnews{display:none} #header,#navigation{padding-left:35px;padding-right:0} #GreyBox,.content{padding:25px 35px} #mspartner a{font-size:18px;top:31px;right:12px;white-space:nowrap}}
 @media only screen and (max-width : 405px) { #logo a, #logo span{font-size:37px} #logo{padding-top:18px} #header,#navigation{padding-left:25px}}
@@ -92,8 +94,8 @@ h3,h4,h5{margin:1em 0 0 0}
 <p>Our privacy policy is structured as follows:</p>
 <p>I. Information about us as controllers of your data<br>II. The rights of users and data subjects<br>III. Information about the data processing</p>
 <h3>I. Information about us as controllers of your data</h3>
-<p>The party responsible for this website (the "controller") for purposes of data protection law is:</p>
-<p><img src="img/adressinfo.png" width="121" height="113" alt="image"></p>
+<p>The party responsible for this website (the "controller") for purposes of data protection law is:<br>
+</p><div id="adr-pf" style="background-image: url(&quot;/img/adr-pf.png&quot;);"></div><p></p>
 <h3>II. The rights of users and data subjects</h3>
 <p>With regard to the data processing to be described in more detail below, users and data subjects have the right</p>
 <ul type="disc">
@@ -203,6 +205,7 @@ in particular on options for preventing the use of data.</p>
 
 <script>
   document.getElementById("year").innerText = new Date().getFullYear();
+  document.getElementById("adr-pf").style.backgroundImage = "url('/img/adr-pf.png')";
 
     function nort_seal(url) {
     window.open(url, "VRSN_Splash", "location=yes,status=yes,resizable=yes,scrollbars=yes,width=560,height=400");
