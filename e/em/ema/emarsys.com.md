@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emarsys.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415113702id_/https%3A//emarsys.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emarsys.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231174315id_/https%3A//emarsys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Emarsys
 
@@ -46,7 +46,9 @@ Users can change, edit or remove any information provided to us at the time of r
 
 By subscribing to our email marketing, you will be the first to learn about new products, valuable tips and news as well as exclusive offers. After signing up you will receive a confirmation email with an activation link to start receiving the newsletter. Emails will be sent from or include the brand name ‘Emarsys’ within. Email sending frequency will vary. If you no longer wish to receive our emails you can unsubscribe at any time, simply by clicking the “unsubscribe” link in the footer of any of our emails. Alternatively, consent can be withdrawn by emailing _[unsubscribe@emarsys.com](mailto:unsubscribe@emarsys.com)_.
 
-We use the email address specified during a purchase for direct marketing activities for our own similar products or services. These mailings are intended to inform you about the product(s) you have bought. If you do not wish to receive our product update communications any longer, you can unsubscribe from them at any time without costs other than the transmission costs pursuant to the basic tariffs being incurred in this regard. Unsubscription can simply be done by clicking the “unsubscribe” link in the footer of any of our product update emails. Alternatively, consent can be withdrawn by emailing _[unsubscribe@emarsys.com](mailto:unsubscribe@emarsys.com)_.
+We use the email address specified during a purchase (including email addresses provided to Emarsys for using the purchased Emarsys services) for direct marketing activities for our own similar products or services. These mailings are intended to inform you about the product(s) you have bought. You are able to unsubscribe without costs other than the transmission costs pursuant to the basic rates being incurred in this regard by clicking on the link in every email or by sending us an email to _[unsubscribe@emarsys.com](mailto:unsubscribe@emarsys.com)_.
+
+In addition to direct marketing, we might use the email addresses, which you have provided to Emarsys, for sending you marketing based on one or more of the following legal bases: (i) your consent (Art. 6 (1) lit. a GDPR), (ii) necessity for the performance of our contracted services to you (Art. 6 (1) lit. b GDPR), and (iii) our legitimate interests (Art. 6 (1) lit. f GDPR).
 
 ### Unsubscribe
 
@@ -70,14 +72,14 @@ Emarsys North America Inc
 10 W Market St., Suite 1350  
 Indianapolis, IN 46204
 
-**Phone** : +1 844-693-6277  
+ **Phone** : +1 844-693-6277  
 **Fax** : +1 317-663-1117  
 **Email** : [us@emarsys.com](mailto:us@emarsys.com)  
 **Web** :[ www.emarsys.com](http://www.emarsys.com/)
 
 ### Data protection officer:
 
-**Szabolcs Steiner**  
+ **Szabolcs Steiner**  
 [dataprotection@emarsys.com](mailto:dataprotection@emarsys.com)  
 +43147820800  
 Emarsys eMarketing Systems AG  
