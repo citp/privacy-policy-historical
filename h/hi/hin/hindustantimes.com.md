@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630011537id_/https%3A//www.hindustantimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231202024id_/https%3A//www.hindustantimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Hindustan Times - News | Hindustan Times
+# Privacy Policy | Hindustan Times
 
 **HT Digital Streams Limited** (hereinafter referred as “HTDSL”) recognizes the importance of maintaining the privacy of every user who visits our website.  We value your privacy and appreciate your trust in us. We are committed to be transparent about the data we collect about you, how it is used  and with whom it is shared. 
 
