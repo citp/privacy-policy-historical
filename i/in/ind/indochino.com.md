@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indochino.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630162453id_/https%3A//www.indochino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indochino.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231223335id_/https%3A//www.indochino.com/privacy-policy) for the most accurate reproduction.*
 
 # INDOCHINO | Men's Custom Suits
 
-Last updated: March 19, 2018
+Last updated: November 1, 2019
 
 Indochino Apparel Inc. ("Indochino") is committed to protecting the privacy rights of our customers and visitors to our showrooms and website, [www.indochino.com](http://www.indochino.com/). Indochino knows that you care how information about you is collected, used and shared, and we appreciate your trust.
 
@@ -25,6 +25,8 @@ During your use of Indochino.com, such as registering for My Account and signing
 ## INFORMATION WE COLLECT AUTOMATICALLY
 
 Indochino.com uses "cookies", a technology that stores a small amount of information on a website user's computer to permit the website to recognize future visits using that computer. Cookies enhance the convenience and use of Indochino.com. For example, the information provided through cookies is used to recognize you as a previous user (so you do not have to enter your personal information every time), offer personalized web page content and information for your use and otherwise facilitate your website experience. Cookie data may be used for purposes including delivering to you banner advertisements and other advertising tailored to your interests when you visit certain websites and selecting offers and products to display to you when you visit our website. You may also wish to decline cookies generally if your browser permits, but doing so may affect your use of the website.
+
+We use this profiling to manage and tailor the content and services we provide to you.
 
 To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mails from Indochino.com if your computer supports such capabilities. If you do not wish to receive e-mail or other mail from Indochino, please simply click unsubscribe.
 
@@ -58,7 +60,7 @@ If you are in the European Economic Area ("EEA"), we will rely on one of the fol
 
 ## DO WE SHARE THE INFORMATION WE RECEIVE?
 
-We share personal information as described below.
+We may share personal information as described below.
 
 ## DISCLOSURE TO AUTHORIZING PERSONS
 
@@ -66,9 +68,7 @@ If you use the website on behalf of another person or organization (such as your
 
 ## DISCLOSURE TO AFFILIATES, SUPPLIERS AND SERVICE PROVIDERS
 
-Indochino will provide your personal information to its affiliated businesses, such as Indochino (Shanghai) Apparel Inc. or other suppliers and service providers as necessary for the purposes described in this Privacy Policy. For example, Indochino discloses certain personal information to the team of tailors from whom your suit is made, your credit card provider and the shipping company in order to facilitate the purchase and delivery of suits through our website. Indochino may also disclose certain personal information to service providers that analyze website use. Indochino requires its affiliated businesses, suppliers and service providers to agree to use your personal information only for the purposes for which it is provided to them, and to protect the privacy of your personal information in a manner that is consistent with this Policy. Some of these affiliates, suppliers and service providers may be located outside of Canada, including in the United States, the United Kingdom and China.
-
-We use this profiling to manage and tailor the content and services we provide to you.
+Indochino will provide your personal information to its affiliated businesses, such as Indochino (Shanghai) Apparel Inc. or other suppliers and service providers as necessary for the purposes described in this Privacy Policy (for example, to provide products or services, advertising and marketing, for data analysis, to enhance the information collected from or about you and for payment processing and shipping, etc). Indochino requires its affiliated businesses, suppliers and service providers to agree to use your personal information only for the purposes for which it is provided to them, and to protect the privacy of your personal information in a manner that is consistent with this Policy. Some of these affiliates, suppliers and service providers may be located outside of Canada, including in the United States, the United Kingdom and China.
 
 ## DISCLOSURE IN BUSINESS TRANSFERS
 
@@ -112,7 +112,7 @@ If you are in the EEA and we hold some of your personal information, you have th
 
 ## CHILDREN'S POLICY
 
-Indochino is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request personally identifiable information online from anyone under the age of 13 without prior verifiable parental consent. If we discover that a visitor under the age of 13 has registered without parental consent, we will delete his or her registration information from our files as soon as possible.
+Indochino does not knowingly collect personally identifiable information online from individuals under the age of 13. If we have reason to believe that we may have accidentally recieved personal information from an individual under the age of 13, please contact us immediately at [info@indochino.com](mailto:info@indochino.com).
 
 ## POLICY UPDATE
 
