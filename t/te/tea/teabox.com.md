@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teabox.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906184110id_/https%3A//www.teabox.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teabox.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231082305id_/https%3A//www.teabox.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Teabox Privacy Policy
 
