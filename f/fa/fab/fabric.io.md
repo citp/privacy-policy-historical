@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabric.io privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235645id_/https%3A//policies.google.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabric.io privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231234308id_/https%3A//policies.google.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Privacy & Terms – Google
 
