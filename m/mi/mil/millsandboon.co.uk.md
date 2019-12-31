@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624025243id_/https%3A//www.harpercollins.co.uk/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231161300id_/https%3A//www.harpercollins.co.uk/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HCUK Corporate
 
