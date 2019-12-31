@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signal.co privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235527id_/https%3A//www.signal.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signal.co privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231220605id_/https%3A//www.signal.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Signal
 
@@ -10,11 +10,11 @@ Signal Cookie Notice
 
 [Signal Opt-Out](https://privacy.signal.co/opt-out.html)
 
-This policy was last modified on and has an effective date of May 30, 2019.
+This policy was last modified on and has an effective date of September 19, 2019.
 
 Signal Digital, Inc. (“Signal” “we” or “us”), a digital marketing technology company, respects your privacy. The Signal Platform (“Platform”)  helps its clients collect, manage and distribute their data to better recognize, understand and market to their consumers. The purpose of this privacy policy is to help explain to our clients, consumers, and partners how we collect, use, and disclose such information through our Platform.
 
-If you are a resident in the European Economic Area and want to find out more about your data protection rights, please see [Data Subject Requests](https://www.signal.co/privacy-policy/#datasubjectrequests).
+If you are a resident in the European Economic Area (EEA) and want to find out more about your data protection rights, please see [Data Subject Requests](https://www.signal.co/privacy-policy/#datasubjectrequests).
 
 For information about how we collect, use, and disclose information from our clients and visitors to our websites, please see our [Website Privacy Policy](https://www.signal.co/privacy-policy/#websitepolicy).
 
@@ -55,7 +55,7 @@ You can find out more about us and our Platform [here](https://www.signal.co/cus
 
 In order to provide the Platform, our clients must configure the Platform to collect data from users of our clients’ websites, mobile applications, advertising impressions, email campaigns, retail stores and other sources (“Data Sources”) that use our Platform. Signal does not have any relationship, contractual or otherwise, with the users of the Data Sources, the client maintains these relationships.
 
-The Platform deploys various cookies and similar tracking technologies (See [How We Collect Usage Data](https://www.signal.co/privacy-policy/#howwecollect)) to automatically collect certain information about your device when you visit or interact with Data Sources that use our technology (“Usage Data”) as well as information about how you interact with ads. This includes your IP address and certain unique identifiers that may be considered personal information in certain jurisdictions, including the European Economic Area.
+The Platform deploys various cookies and similar tracking technologies (See [How We Collect Usage Data](https://www.signal.co/privacy-policy/#howwecollect)) to automatically collect certain information about your device when you visit or interact with Data Sources that use our technology (“Usage Data”) as well as information about how you interact with ads. This includes your IP address and certain unique identifiers that may be considered personal data in certain jurisdictions, including the European Economic Area.
 
 We collect this information by assigning a random unique identifier (“UID”) to your device the first time you interact with a Data Source that uses our technology. The UID is then used to establish linkages between you and other information the client and Platform may have about you.
 
