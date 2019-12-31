@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taptica.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212652id_/https%3A//www.taptica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taptica.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231062516id_/https%3A//www.taptica.com/privacy-policy) for the most accurate reproduction.*
 
 # Taptica
 
@@ -9,27 +9,27 @@
 
 
 
-Taptica respects your privacy and is committed to protecting your personal data. This privacy policy (“Policy”) will inform you how we look after your personal data when you visit our website. If you have any questions about this policy, please contact  _privacy@taptica.com_.
+Tremor International Ltd. (formerly “Taptica International Ltd.” and “Taptica Ltd.” and hereafter: “Tremor”) respects your privacy and is committed to protecting your personal data. This privacy policy (“Policy”) will inform you how we look after your personal data when you visit our website. If you have any questions about this policy, please contact [privacy@taptica.com](mailto:privacy@taptica.com). 
 
   2. ##### **INFORMATION ABOUT WHO WE ARE**
 
 
 
 
-**PURPOSE OF THIS POLICY:**  This Policy aims to give you information on how Taptica collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to our website or purchase products or services from us.
+**PURPOSE OF THIS POLICY:   **This Policy aims to give you information on how Tremor collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to our website or purchase products or services from us.
 
 It is important that you read this Policy together with any other policy or notice we may provide so that you are fully aware of how and why we are using your data. This Policy supplements the other notices and is not intended to override them.
 
 **CONTACT DETAILS:**  Our full details are:
 
-  * Full name of legal entity: Taptica Ltd.
-  * Email address:  _info@taptica.com_
+  * Full name of legal entity: Tremor International Ltd.
+  * Email address: [ _info@taptica.com_](mailto:info@taptica.com)
   * Postal address: 121 Hashmonaim Tel Aviv, 6713328 Israel
   * Telephone number: 972-3-545-3900
 
 
 
-**CONTROLLER:**  Taptica is made up of different legal entities. This Policy is issued on behalf of the Taptica Group so when we mention “Taptica”, “we”, “us” or “our” in this Policy, we are referring to the relevant company in the Taptica Group responsible for processing your data.
+**CONTROLLER:   **Tremor is made up of different legal entities. This Policy is issued on behalf of the Tremor Group so when we mention “Tremor”, “we”, “us” or “our” in this Policy, we are referring to the relevant company in the Tremor Group responsible for processing your data.
 
 If you have any concerns about how we are handling your data you have the right to make a complaint to your data protection supervisory authority. We would, however, appreciate the chance to deal with your concerns before you approach the supervisory authority so please contact us in the first instance.
 
@@ -88,7 +88,7 @@ We only use your personal data when the law allows us to. Most commonly, we will
 
 
 
-Generally we do not rely on consent as a legal basis for processing your personal data other than when we send third party direct marketing communications to you via email. You have the right to withdraw consent to marketing at any time by contacting us at *protected email*.
+Generally we do not rely on consent as a legal basis for processing your personal data other than when we send third party direct marketing communications to you via email. You have the right to withdraw consent to marketing at any time by contacting us at [unsubscribe@taptica.com](mailto:unsubscribe@taptica.com).
 
 Purposes for which we will use your personal data
 
@@ -113,10 +113,10 @@ To deliver relevant website content | Identity; Contact; Usage; Marketing and Co
 To use data analytics to improve our website, products/services, marketing, customer relationships and experiences | Technical; Usage | Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
   
   * **Marketing.** We want to ensure that you have choices regarding certain personal data uses, particularly around marketing and advertising. Please contact us if you want to change your marketing preferences.
-  * **Third-Party Marketing.** We will get your express opt-in consent before we share your personal data with any company outside the Taptica group of companies for marketing purposes.
-  * **Opting out.** You can ask us to stop sending you marketing messages at any time by contacting us at *protected email*. Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase or other transactions.
+  * **Third-Party Marketing.** We will get your express opt-in consent before we share your personal data with any company outside the Tremor group of companies for marketing purposes.
+  * **Opting out.** You can ask us to stop sending you marketing messages at any time by contacting us at [unsubcribe@taptica.com](mailto:unsubcribe@taptica.com). Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase or other transactions.
   * **Cookies:** You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our  _[cookie policy](https://www.taptica.com/cookies-policy/)_.
-  * **Change of Purpose.** We will only use your personal data for the purposes for which we collected it, unless we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact *protected email*. If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+  * **Change of Purpose.** We will only use your personal data for the purposes for which we collected it, unless we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact [privacy@taptica.com](mailto:privacy@taptica.com). If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
 
 
@@ -129,7 +129,7 @@ To use data analytics to improve our website, products/services, marketing, cust
 
 We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 5 above.
 
-  * Internal Third Parties: other companies in the Taptica Group acting as joint controllers or processors.
+  * Internal Third Parties: other companies in the Tremor Group acting as joint controllers or processors.
   * External Third Parties including: 
     * Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers who provide services to us.
     * Regulators and other authorities acting as processors or joint controllers who require reporting of processing activities in certain circumstances.
@@ -144,7 +144,7 @@ We require all third parties to respect the security of your personal data and t
 
 
 
-We share your personal data within the Taptica Group. This will involve transferring your data outside the European Economic Area ( **EEA** ). In addition many of our external third parties are based outside the EEA so their processing of your personal data will involve a transfer of data outside the EEA.
+We share your personal data within the Tremor Group. This will involve transferring your data outside the European Economic Area ( **EEA** ). In addition many of our external third parties are based outside the EEA so their processing of your personal data will involve a transfer of data outside the EEA.
 
 Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
 
@@ -154,7 +154,7 @@ Whenever we transfer your personal data out of the EEA, we ensure a similar degr
 
 
 
-Please contact us at  _privacy@taptica.com_  if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+Please contact us at [ _privacy@taptica.com_](mailto:privacy@taptica.com) if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
 
   8. ##### **DATA SECURITY**
 
@@ -184,7 +184,7 @@ You have rights under data protection laws in relation to your personal data.
 
 
 
-If you wish to exercise any of the rights set out above, please contact us at  _privacy@taptica.com_.
+If you wish to exercise any of the rights set out above, please contact us at [ _privacy@taptica.com_](mailto:privacy@taptica.com).
 
 **No fee usually required.**  You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
 
