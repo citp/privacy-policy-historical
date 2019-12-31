@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the getgist.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430100149id_/https%3A//getgist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getgist.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231115827id_/https%3A//getgist.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Gist
 
-**PRIVACY POLICY**
+[](https://web.archive.org/)
+
+Read the privacy policy to learn how your data is handled.
+
+[Get started __](https://app.getgist.com/signup)
+
+Start your unlimited 21 day free trial.
 
 ConvertFox Global, Inc. (“Gist”, “we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy (“Policy”) applies to your use of Gist’s website located at [www.getgist.com](https://www.getgist.com/) on all platforms (the “Website”).
 
@@ -125,3 +131,21 @@ By describing how we will notify users of updates to this Policy, Gist is in no 
 
 
 If you have questions or comments about this Policy or our privacy practices, or to report any violations or abuse of the Website, please contact us at [support@getgist.com](mailto:support@getgist.com).
+
+We use the chat feature the most it has increased our engagement and retention by allowing us to respond to website visitors in realtime or within the next day. The chat rules create an engaging prompt for visitors.... [Read full review](https://www.g2.com/products/gist/reviews/gist-review-2674368)
+
+The product is constantly updated. For example, recently added new chips and they are cool:
+
+... [Read full review](https://www.g2.com/products/gist/reviews/gist-review-2817276)
+
+That they develop the tool steadily. The support is amazing. If there is any problem, they try to help as best as they can. I’m very impressed by how the tool developed since I got it.
+
+[Read full review](https://www.g2.com/products/gist/reviews/gist-review-3151197)
+
+I have multiple websites which I am running for my business and it has host of landig pages, signup pages, demo pages, trial pages and other places where I was looking to increase conversions. I have used other similar products to achieve the goal... [Read full review](https://www.g2.com/products/gist/reviews/gist-review-2624616)
+
+Live chat is great, drip emails are quite good, support is GREAT
+
+[Read full review](https://www.g2.com/products/gist/reviews/gist-review-2840154)
+
+I primarily purchased Gist for live chat, and it does that really well. The chat interface is clear, simple and great looking for the end user and makes chat management really straightforward for the organisation. What was a real bonus for me is... [Read full review](https://www.g2.com/products/gist/reviews/gist-review-2618380)
