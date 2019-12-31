@@ -1,189 +1,179 @@
-> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624164706id_/http%3A//static.caller.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231112940id_/https%3A//cm.caller.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | Corpus Christi Caller Times
+# Caller-Times
 
-Last Updated: May 14, 2018
+_Last Updated: December 20, 2019_
 
-We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
+This Privacy Policy describes the privacy practices for the websites operated by Gannett Co., Inc. and its affiliates (“Gannett” “we”, “our” “us”), and applies solely to the Personal Information (as defined below in Section 1) that we collect and use relating to consumers and users residing outside of the State of California. *Effective January 1, 2020, this Privacy Policy does not apply to California residents. If you are a California resident, please click here for [Your California Privacy Rights/Privacy Policy](https://cm.caller.com/privacy-policy/)*.
 
-This Privacy Notice discloses the privacy practices of our Websites, whether accessed through a computer, tablet, smartphone or other device (individually or collectively, “Device” or “Devices”), and our Apps. Specifically, it outlines the types of information that we gather about you while you are using our Websites or Apps (collectively, “Services”) or other websites, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail). In addition, this Privacy Notice does not apply to our non-digital products and services. Please read this Privacy Notice carefully. By using the Services, you agree that your use of our Services, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](https://web.archive.org/terms/) . Because the web and apps are evolving media, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on our Websites or Apps. If we make a significant change in the way we collect, use or share your information, the change will be posted on this page thirty (30) days before the change takes effect. We will also update the "Last Updated" date to reflect the date of the changes. By continuing to use the Services after we post any such changes, you accept the Privacy Notice as modified. Your access of the Services for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Privacy Notice unless you make any further use or access of our Services.
+This Privacy Policy is applicable to the publications, businesses, websites and mobile applications operated by Gannett/USA TODAY Network, including the Website from which you accessed this Privacy Policy (our websites and mobile applications are collectively referred to as “Websites”). It also applies to the related online services that we provide through our Websites and mobile apps (the "Services").
 
-  
+By using the Websites and/or the Services and providing us with Personal Information, you agree to the practices described in this Privacy Policy and the [Cookie Policy](https://cm.caller.com/cookie-policy#) referenced below and to the updates to these policies posted here from time to time. To make sure you stay informed of all changes, you should check these policies periodically. Updates will be referenced by the "Last Updated" date shown above.
 
+  1. Definition of Personal Information
+  2. Personal Information We Collect
+  3. How We Use Personal Information
+  4. Do We Use "Cookies"?
+  5. Third Party Links
+  6. Security
+  7. Accessing, Correcting or Deleting Your Personal Information
+  8. Privacy Policy for California Residents
+  9. Children’s On-Line Privacy Information 
+  10. Changes to This Privacy Policy
+  11. Contact Us
 
-### Your California Privacy Rights
 
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
-Andrea Shandell  
-Online Privacy Coordinator  
-Gannett Law Department  
-7950 Jones Branch Drive  
-McLean, VA 22107
+1\. DEFINITION OF PERSONAL INFORMATION
 
-  
+For purposes of this Privacy Policy, unless a different definition is noted in a particular instance, "Personal Information" means information that identifies, relates to, describes, references, or is reasonably capable of being associated with a particular consumer or device.
 
+2\. PERSONAL INFORMATION WE COLLECT 
 
-### SUMMARY
+We may collect the following types of Personal Information about you as described below:
 
-Collection. We collect information that you give us and information that is automatically collected.   
-Use. We use the information for the purpose you gave it to us (for example, to register or make a purchase); to provide content and advertising; to contact you; and for other purposes.   
-Share. We share the information with our service providers and affiliates to administer the Services; to provide content for the Services; to provide advertising on the Services; and for other purposes. We also share the information with other third parties to provide advertising on the Services, on other sites and apps, and for other purposes.   
-**  
-**
+  * (A) Personal Information you provide to us,
+  * (B) Personal Information we may automatically collect, and
+  * (C) Personal Information we may receive from third parties.
 
-**Please read the rest of this notice for complete details.**
 
-  
 
+In using our Websites or Services, you may provide us with Personal Information, which may include (the examples provided are illustrative and not intended to be exhaustive):
 
-### How We Collect Information
+  * Contact information such as name, email address, postal address and telephone number(s);
+  * Demographic information such as birth date or gender;
+  * Account information and log in credentials, including unique identifiers such as username and password;
+  * Payment and transaction information including credit or bank card information;
+  * Preferences for communications;
+  * Communications and opinions in chat rooms, message boards, forums, surveys, polls, and online forms;
+  * Access to your geo-location (including through our mobile app) or to other data held on social media platforms and other software (for example, access to your contacts, calendar or photos);
+  * Photos and/or videos; and
+  * Additional information as otherwise described to you at the point of collection or pursuant to your consent.
 
-The information that we collect about you while you are using our Services falls into two general categories: information you provide to us, and information that is automatically collected. All of the information we collect may be collected directly by us, or it may be collected by a vendor providing contractual services to us, such as a service provider.
 
-1\. _Information You Provide to Us_.
 
-We may collect and store information that you voluntarily supply to us while using our Services, including information you send to us by email or other platforms in connection with a feature provided through the Services. This may include information that can be used to contact or identify you, such as your name, email address, postal address, telephone numbers, birthdate and gender. Some examples of this type of information include:
+Our Websites and Services may automatically collect certain Personal Information about you. This Personal Information may include (the examples provided are illustrative and not intended to be exhaustive):
 
-  * information that you electronically submit when you contact us with questions or participate in contests, surveys or sweepstakes;   
+  * IP address, which is the number associated with the service through which you access the Internet, such as through your ISP (Internet service provider);
+  * Date and time of your visit or use of our Websites or Services;
+  * Domain server from which you are using our Websites or Services;
+  * Type of computer, web browsers, search engine used, operating system, or platform you use;
+  * Data identifying the web pages you visited prior to and after visiting our Websites or using our Services;
+  * Your movement and activity within the website, which is aggregated with other Personal information;
+  * Geo-location information through the use of any of our mobile applications;
+  * Mobile device information, including the type of device you use, operating system version, and the device identifier (or “UDID”); and
+  * Mobile application identification and behavior, use, and aggregated usage, performance data, and where the application was downloaded from.
 
-  * information that you post on blogs, discussion forums or other community posting and social networking areas accessed through our Services;   
 
-  * information and content you provide when you upload a photograph, video or audio file;  
 
-  * information that you electronically submit when you complete an online registration form to access and use certain features of our Services;   
+We may collect additional Personal Information about you from third-party websites, social media platforms, such as, but not limited, to Facebook, Twitter, Instagram, SnapChat (“Social Media Platforms”), third party data providers, and sources providing publicly-available Personal information (e.g., from the U.S. postal service) for the purposes described in Section 3 below.
 
-  * information that you provide within an advertisement on one of our Services; and   
+Personal Information we may access from Social Media Platforms may include, but is not limited to:
 
-  * information contained in search requests that you submit through our Services.   
+  * Your Social Media Platform login information
+  * Your location data
+  * Your profile information
+  * Your list of contacts, friends or followers
+  * Certain Personal Information about your activities on the Social Media Platform
 
 
 
+Please keep in mind that when you provide Personal Information to us on a third-party website or platform (for example, via our applications), the Personal Information you provide may be separately collected by the third-party website or the Social Media Platform. Please review the privacy policies of the applicable third party website or Social Media Platform for their privacy practices.
 
-We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions through our Services.
+3\. HOW WE USE PERSONAL INFORMATION
 
-2\. _Information that is Automatically Collected_.   
+We use and process your Personal Information for the following types of purposes (the examples provided are illustrative and not intended to be exhaustive).
 
+  * To provide you with the Websites and Services, and related promotions, newsletters and information you request
+  * To respond to your inquiries and provide you with requested information and other communications, including by email or text messages, and including alerts, notification of promotions, contests, and events
+  * For marketing and advertising purposes, including sending you promotional material or special offers on our behalf or on behalf of our marketing partners and/or their respective affiliates and other third parties, provided that you have not already opted-out of receiving such communications
+  * For billing and payment processing
+  * To deliver personalized advertising and content
+  * To fulfill contracts we have with you
+  * To manage, improve and foster relationships with third-party service providers, including vendors, suppliers, and parents, affiliates, subsidiaries, and business partners
+  * To maintain, improve, customize, or administer the Websites and Services, perform business analyses, or other internal purposes to improve the quality of our business, the Websites and the Services, resolve technical problems, or improve security or develop other products and services
+  * To comply with our [Terms of Service](https://cm.caller.com/terms)
+  * To perform analytics for business purposes and business intelligence, such as monitoring traffic to our Websites, counting ad impressions, and auditing legal and regulatory compliance
+  * To maintain the safety, security, and integrity of our Websites, products and Services, databases and other technology assets and our business, including preventing fraud, detecting security breaches and prosecuting violators
+  * To identify and repair errors in our Websites' functionality
+  * To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, in which Personal Information we hold is among the assets transferred
+  * To comply with any applicable laws and regulations and respond to lawful requests; and/or
+  * For any other purposes disclosed to you at the time we collect your Personal Information and/or pursuant to your consent
 
-We also collect and store information that is generated automatically as you use our Services. Some examples of this type of information include: 
 
-  * whether you downloaded an App;   
 
-  * the source of the download of the App (for example, through a particular advertisement for the App);   
+If we decide to use the Personal Information for materially different purposes, we will update this Privacy Policy.
 
-  * your Device’s connection to the Internet;   
+We may disclose your Personal Information to other parties, including:
 
-  * your browser or operating system;   
+  * Our affiliates
+  * Service providers
+  * Advertisers, advertising technology companies, analytics companies and other third parties with whom we have business relationships
+  * Government regulators
+  * Our legal advisors and parties involved in a legal process
+  * To an entity involved in the sale of our business
+  * Third parties to whom you or your agents authorize us to disclose your Personal Information in connection with products or Services we provide to you
 
-  * which pages you visit through our Services and how often;   
 
-  * which features of our Services you interact with and how often;   
 
-  * which advertisements we serve to you and your engagement with them; and   
+In order to provide advertisements and content that are more relevant to you, we and our advertising and content providers may collect Personal Information when you use our Websites (such as the IP address of your device, the identifier on your mobile device, or cookies stored on your device), and may share the information we collect with third parties. Please see our [Cookie Policy](https://cm.caller.com/cookie-policy#) for more information.
 
-  * information generated when you upload a photograph, video or audio file.   
+If we decide to disclose Personal Information to additional categories of parties, we will update this Privacy Policy.
 
+4\. DO WE USE "COOKIES"?
 
+Yes. Cookies and similar technologies are small files that a website or its service provider transfers to a computer's hard drive through a Web browser (if the user allows) that enables the website's or service provider's systems to recognize the user's browser and capture and remember certain information.
 
+In general, we and our third party providers and advertisers, use cookies and other technologies to optimize the functionality of the Websites, to help us understand how the Websites are used and to provide users with interest-based content or advertising based upon their browsing activities and interests.
 
-In addition, certain Devices and browsers contain unique identifiers that can be used to identify other information about your Device. When you use such a Device or browser to access our Services, your Device and/or your browser may automatically collect and/or transmit your Device's unique identifier, IP address, MAC address, profile information (if you connect through a social network such as Facebook), location information, the make and model of your Device, the wireless provider associated with your Device, and similar information. We may ask you whether we may access and collect your location information even when you are not using the Services, but you may decline this request. 
+For more information about the cookies and other technologies that we, our affiliates and third party providers and advertisers use on our Websites, please read our [Cookie Policy.](https://cm.caller.com/cookie-policy#)
 
-We also may use a standard feature found in browser software called a "cookie" to enhance your experience with our Services. Cookies are small files that your web browser or an App places on your Device for record-keeping purposes. By showing how and when visitors use the Services or other websites, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences for certain Services when you have entered preference information before. We also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who use the Services or other websites. Additionally, we may assign an anonymous identifier to the tracking pixel or session cookie. 
+In addition, you may opt out of certain interest-based advertising by using the following resources:
 
-We, along with third parties, may use other kinds of technologies, such as local storage, in connection with our Services. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings (see below). The method for disabling local storage will vary depending on your browser and device. 
+  * (a) You may opt-out of tracking and receiving tailored advertisements on your mobile device by some mobile advertising companies and other similar entities by downloading the App Choices app at www.aboutads.info/appchoices.
+  * (b) You may opt-out of receiving permissible targeted advertisements by using the NAI Opt-out tool available at <http://optout.networkadvertising.org/?c=1> or visiting About Ads at [http://optout.aboutads.info](http://optout.aboutads.info/).
+  * (c) You may opt-out of having your activity on our Websites and Services made available to Google Analytics by installing the Google Analytics opt-out add-on for your web browser by visiting: <https://tools.google.com/dlpage/gaoptout> for your web browser.
 
-3\. _Your Choices_. 
 
-When we request information from you through our Services, you may always choose not to provide us with that information. But if you decline to supply or provide us with certain information while using our Services, you may not be able to use or participate in some or all of the features offered through our Services. 
 
-If you want to limit the information that is automatically collected while you use our Services or other websites, most web browsers allow you to disable certain functionality or set certain privacy settings. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Services. Our Site does not collect personally identifiable information or persistent identifiers from, deliver a personalized experience to, or otherwise track or monitor, persons reasonably identified as visiting our Site from the European Union.
+5\. THIRD PARTY LINKS
 
-You can stop all future collection of information by the Apps by uninstalling the Apps according to the procedures outlined in the Apps or on your Device. 
+Our Websites or Services may contain links to other websites or services that are not owned or controlled by us, including links to social media platforms, or may redirect you off our Website or away from our Services to other websites for information or other services. This Privacy Policy only applies to information collected by our Websites and Services. We are not responsible for the privacy and security practices of those other websites or social media platforms or the information they may collect (which may include IP address). You should refer to such third parties' privacy policies on their sites to determine their respective privacy practices. Links to any other website’s or content do not constitute or imply an endorsement or recommendation by us of the linked website, social media platform, and/or content.
 
-4\. _Collection of Information by Service Providers and Third-Party Advertising Service Providers_. 
+6\. SECURITY
 
-In addition, our service providers and third-party advertising service providers may use their own cookies, web beacons and other technologies to collect the information listed above from our Services. The data collected in connection with the ad serving and ad targeting through our Services does not include your name, postal address, email address, telephone number, birthdate or gender unless you affirmatively provide information within the ad. However, it may include Device identifying information such as the IP address, MAC address, cookie or other Device-specific unique ID. These service providers also may assign an anonymous identifier to the tracking pixel or session cookie. 
+We use commercially reasonable procedures and various technical, administrative and physical safeguards to help protect the confidentiality of your Personal Information. However, you should assume that no data transmitted over the Internet or stored or maintained by us or our third-party service providers can be 100% secure. Therefore, although we believe the measures implemented by us reduce the likelihood of security problems to a level appropriate to the type of data involved, we do not promise or guarantee, and you should not expect, that your Personal Information or private communications will always remain private or secure. We do not guarantee that your Personal Information will not be misused by third parties. We are not responsible for the circumvention of any privacy settings or security features.
 
-The collection of information by our service providers and third-party advertising service providers is governed by their relevant privacy notices, for which we have no responsibility or liability, and are not covered by our Privacy Notice. If you have any questions regarding the privacy notice of one of our service providers, you should contact the service provider directly for more information. 
+If you believe that your Personal Information has been accessed or acquired by an unauthorized person, please promptly [Contact Us](https://help.caller.com/contact-us) so that necessary measures can quickly be taken.
 
-If you would like more information about the information collection practices of a particular third-party advertising service provider, or if you would like more information on how to opt out of a third-party advertising service provider’s information collection practices, go to [www.aboutads.info,](http://www.aboutads.info/) or for apps, at [www.aboutads.info/appchoices.](http://www.aboutads.info/appchoices) 
+7\. ACCESSING, CORRECTING, OR DELETING YOUR PERSONAL INFORMATION
 
-Additionally, some of our third-party advertising service providers are members of the Network Advertising Initiative ("NAI"). You can obtain more information about these third-party advertising service providers' information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI's website at [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
+As required by applicable laws, and subject to any permitted exceptions and limitations, we will comply with any verified consumer request you submit with respect to your Personal Information. Please submit a verifiable consumer request to us through the web form link provided below in [Contact Us](https://help.caller.com/contact-us).
 
-Please note that one of our third-party advertising service providers is DoubleClick. You can opt out of the use of cookies by DoubleClick by visiting [http://www.google.com/settings/ads.](http://www.google.com/settings/ads) 
+8\. PRIVACY POLICY FOR CALIFORNIA RESIDENTS
 
-**How We Use Information  **
+This Privacy Policy does not apply to California residents. If you are a California resident, please go to [Your California Privacy Rights/Privacy Policy](https://cm.caller.com/privacy-policy/) to learn about your California privacy rights.
 
-We may use the information we collect from you while you are using the Services for any purpose related to the Services and in a variety of other ways, including, for example:  
+9\. CHILDREN’S ON-LINE PRIVACY INFORMATION
 
+The Websites and Services are not intended for use by children under the age of 13. In addition, we do not knowingly collect information from children under the age of 13, although certain third party sites that we link to may do so. These third-party sites have their own terms of use and privacy policies and we encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide information on our Websites without their permission.
 
-  * for the purpose for which the information was submitted;
-  * to process your registration requests;
-  * to provide you with services and communications that you have requested;
-  * to send you email updates and other communications, promotional messages and advertisements that we believe may be of interest to you;  
+Involvement of parents: In accordance with the provisions of the Children’s Online Privacy Act, in the event that we do begin collecting any Personal Information or data from children under the age of 13, we will notify parents first, and will seek parental or guardian consent to collect, use and/or disclose certain Personal Information from children under the age of 13. A parent may review and have deleted their child’s Personal Information, and may refuse to permit further collection or use of their child’s information by contacting us as noted at the end of this Privacy Policy. Parents may consent to our collection and use of their child’s Personal Information without consenting to the disclosure of that information to others.
 
-  * to customize features and advertising that appear through the Services;   
+If you have reason to believe that a child under the age of 13 has provided Personal Information [Contact Us](https://help.caller.com/contact-us) below with sufficient detail to enable us to delete that information from our databases.
 
-  * to deliver our Services’ content to you;
-  * to contact you for customer service purposes;
-  * to send you administrative notices or notices regarding important changes or additions to our Services;
-  * to measure Services’ traffic;
-  * to measure and analyze user interests, behavior, trends and traffic patterns;
-  * to protect the rights of the Services and others or to comply with applicable law; and
-  * to improve the features offered via the Services. 
+10\. CHANGES TO THIS PRIVACY POLICY
 
+We may amend this Privacy Policy at our discretion and at any time. When we make changes to this Privacy Policy, we will post the updated notice on our Websites and update the notice's "Last Updated" date. **Your continued use of our Website and/or Services following the posting of changes constitutes your acceptance of such changes.**
 
+11\. CONTACT US
 
-We may use location information, either information you provided by you or information automatically collected, in order to provide you with location-based content, interest-based content services and advertising. We also may combine information we collect from you while you are using our Services with information that we collect from other sources, including other websites or apps, to customize features, content and advertising that appear through our Services. 
+If you have any questions or comments about this Privacy Policy, the ways in which we collect and use your Personal Information described here, your choices and rights regarding such use, or you wish to exercise your rights, please contact us as provided below:
 
-For more information on how service providers, third-party advertising service providers, affiliates, third parties and advertisers use information, please refer to the next section. 
+To fill out a Data Information or Deletion Request, [click here](https://privacyportal-cdn.onetrust.com/dsarwebform/5b4b73e5-9c9c-4c5c-82c1-9389c9e42f1c/a1f2900f-24b5-4039-a406-fd6c1b1a07eb.html)
 
-**How We Share Information  **
+Do Not Sell My Personal Information: [click here](https://privacyportal-cdn.onetrust.com/dsarwebform/5b4b73e5-9c9c-4c5c-82c1-9389c9e42f1c/d67dd2ff-2806-409f-95ea-5adfb78643bb.html)
 
-_Sharing for Services Administration_. We may provide your information to our affiliates or to service providers for purposes related to Services administration. If you use a credit or debit card to complete a transaction through our Services, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf. 
+Call us at +1 (844) 510-3710
 
-_Sharing for Additional Content, Products and Services_. We also make some content, products and services available through cooperative relationships with service providers, where the brands of our service provider appear in connection with such content, products and/or services. We may share with our service provider any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our service provider. 
-
-If you do not wish certain information to be shared for these purposes, send a letter to the _Online Privacy Coordinator_ , whose contact information is listed at the end of this Privacy Notice. 
-
-_Sharing Information for Advertising and Other Promotional Purposes_. We may use service providers and third-party advertising service providers to target and serve some of the advertisements you see through the Services. We may share your information, or technical or aggregate information, with service providers, third-party advertising service providers, our affiliates, third parties and advertisers for their use in displaying ads through our Services or for other promotional purposes, including displaying ads on other sites and apps. The technical or aggregate information may be based on data that includes your information and such items as type of pages viewed and categories of interest. These service providers, third-party advertising service providers, affiliates, third parties and advertisers may use their own browser or flash cookies, web beacons and similar technologies to collect technical information (such as Device unique identifier, IP address, MAC address, browser type, pages visited, and location information) that is generated automatically as a user views or interacts with an ad. These service providers, third-party advertising service providers, affiliates, third parties and advertisers may use that information, sometimes in conjunction with similar information gathered through other websites and other sources, to deliver advertisements through the Services or for other promotional purposes. They also may use that information to deliver advertisements, or for other promotional purposes, on other websites, as well as on other websites that participate in our third-party advertising service providers’ advertising networks, which are tailored to match the perceived interests of consumers. The information obtained by service providers, third-party advertising service providers, affiliates, third parties and advertisers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes. 
-
-If you log into the Services with a social media service or you connect a social media account with the Services, we may share your information with that social media service. The social media services’ use of the shared information will be governed by the social media services’ privacy policy and your social media account settings, for which we have no responsibility or liability. If you do not want your information shared in this way, do not log into the Services through a social media service and do not connect your social media account with the Services. 
-
-If you do not wish certain information to be shared for these purposes, send a letter to the _Online Privacy Coordinator_ , whose contact information is listed at the end of this Privacy Notice. 
-
-_Sharing for Other Purposes_. Please be aware that we may occasionally release information about you if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](https://web.archive.org/terms/) or (c) to protect the rights, property, or personal safety of our Services, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
-
-Please also note that as our business grows, we may buy or sell various assets. If we sell some or all of our assets, or our Services are acquired by another company, information collected about our Services’ users may be among the transferred assets. 
-
-**Ad Serving and Targeting Choices**
-
-We operate in compliance with the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising, [www.aboutads.info.](http://www.aboutads.info/) 
-
-Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online -- for example on blogs, discussion forums, or other community posting or social networking areas offered through our Services -- that information can be seen, collected and used by others besides us. We are not responsible or liable for any unauthorized third-party use of such information. 
-
-**Children's Privacy Statement**
-
-The Services are not intended for children under the age of 13. We do not knowingly collect any personal information from a child under 13. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 through the Services, we will delete such information from our records. 
-
-**Changes to Your Information**
-
-If you are a registered user of our Services, you can make changes to your account information by logging in to the Services and using the tools available via the Services. If you have subscribed to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by logging in to your account. 
-
-**Security**
-
-All information we gather on our Services is stored within databases to which only we and service providers are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Services’ servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. 
-
-**Links to Other Sites**
-
-Our Websites and Apps also include links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control and for which we have no responsibility or liability. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the privacy notice of the operator of the site you are visiting or the provider of such products or services. 
-
-**Questions Regarding Privacy**
-
-If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact: 
-
-Andrea Shandell  
-Online Privacy Coordinator   
-Gannett Law Department   
-7950 Jones Branch Drive   
-McLean, VA 22107 
+Email us at [privacy@gannett.com](mailto:privacy@gannett.com)
