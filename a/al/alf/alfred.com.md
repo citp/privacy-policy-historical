@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfred.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410124229id_/https%3A//www.alfred.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfred.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231062350id_/https%3A//www.alfred.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
