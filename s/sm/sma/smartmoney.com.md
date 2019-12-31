@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartmoney.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630055109id_/https%3A//www.dowjones.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartmoney.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231221410id_/https%3A//www.dowjones.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dow Jones
 
@@ -12,7 +12,7 @@ This Privacy Policy applies to information we collect from all sources, includin
 
 This Policy describes the types of Personal Data we collect, how we use it, and with whom we share it. It also describes generally Dow Jones' practices for handling Other Information (e.g., interests, demographics and services usage) collected through our Dow Jones Services or from a third party to the extent such information is associated with a particular device, user or user account. We also describe the measures we take to protect the information, your options for choice and access, and how you can contact us about privacy practices. As described more fully below, we share information with our subsidiaries, and affiliated companies ("Dow Jones Affiliates"), for the purposes described in this Privacy Policy. A list of Dow Jones subsidiaries and Affiliates is available in annual reports accessible [here](http://investors.newscorp.com/sec-filings). By using the Dow Jones Services, you acknowledge you have read and accept this Privacy Policy.
 
-Your decision to use the Dow Jones Services and provide your Personal Data is voluntary. We indicate on our online, mobile, and other registration forms what types of Personal Data are requested. You may choose not to submit requested information online, or may choose to restrict the use of cookies (see Other Information below, or our [Cookie Policy](https://web.archive.org/web/20190630055109id_/https://www.dowjones.com/privacy-policy/cookies-policy/), for more information), but that may limit the services Dow Jones is able to provide to you.
+Your decision to use the Dow Jones Services and provide your Personal Data is voluntary. We indicate on our online, mobile, and other registration forms what types of Personal Data are requested. You may choose not to submit requested information online, or may choose to restrict the use of cookies (see Other Information below, or our [Cookie Policy](https://web.archive.org/web/20191231221410id_/https://www.dowjones.com/privacy-policy/cookies-policy/), for more information), but that may limit the services Dow Jones is able to provide to you.
 
 The Dow Jones Services are a network of general audience sites, and are not targeted to, and do not knowingly collect Personal Data from, minors under 16 years of age. We request that these individuals do not provide Personal Data through the Dow Jones Services.
 
@@ -48,7 +48,7 @@ We may receive Other Information about you from third parties, including, for ex
 
 2.2.3 Other Information Collected Automatically
 
-Our services use cookies and other tracking technologies to function effectively and deliver certain features. For more information about how we use cookies and tracking technologies, please refer to our [Cookie Policy](https://web.archive.org/web/20190630055109id_/https://www.dowjones.com/privacy-policy/cookies-policy/).
+Our services use cookies and other tracking technologies to function effectively and deliver certain features. For more information about how we use cookies and tracking technologies, please refer to our [Cookie Policy](https://web.archive.org/web/20191231221410id_/https://www.dowjones.com/privacy-policy/cookies-policy/).
 
 The Dow Jones Services may also be linked to sites or apps operated by third parties, and may carry advertisements or offer content, special offers, functionality, games or applications developed and maintained by third parties, using iframes, tools, or plug-ins (“Linked Services”). These third party Linked Services may use automated means to collect information about you and your use of these features. Some of these third party sites may be co-branded with a Dow Jones logo, even though they are not operated or maintained by us.
 
@@ -64,7 +64,7 @@ To improve the quality of our products and services and to personalize your expe
 
 Through third party analytics providers, ad networks, and advertisers, we can track your online activities over time and across third party websites, apps and devices, by obtaining information through automated means.
 
-This information, along with information we gather when you log in, can be used to understand use across sites and devices to help improve our products, remember your preferences, provide content recommendations, and show you advertisements on the Dow Jones Services or other third party websites and apps that may be tailored to your individual interests. For more information, including how to manage cookies, please refer to our [Cookie Policy](https://web.archive.org/web/20190630055109id_/https://www.dowjones.com/privacy-policy/cookies-policy/).
+This information, along with information we gather when you log in, can be used to understand use across sites and devices to help improve our products, remember your preferences, provide content recommendations, and show you advertisements on the Dow Jones Services or other third party websites and apps that may be tailored to your individual interests. For more information, including how to manage cookies, please refer to our [Cookie Policy](https://web.archive.org/web/20191231221410id_/https://www.dowjones.com/privacy-policy/cookies-policy/).
 
 3.1 To Provide, Measure And Improve Our Products And Services
 
@@ -164,7 +164,7 @@ You may also opt out from our sharing of your contact information with unaffilia
 
 6.1.3 To Opt Out Of Online Interest-Based Or Text Advertising
 
-You may also opt out of online interest-based advertising by taking the steps detailed in our [Cookie Policy](https://web.archive.org/web/20190630055109id_/https://www.dowjones.com/privacy-policy/cookies-policy/).
+You may also opt out of online interest-based advertising by taking the steps detailed in our [Cookie Policy](https://web.archive.org/web/20191231221410id_/https://www.dowjones.com/privacy-policy/cookies-policy/).
 
 If you consented to receiving promotions or advertising via Text Message, you can unsubscribe from receiving Text Messages at any time by replying “STOP” to one of our Text Messages.
 
