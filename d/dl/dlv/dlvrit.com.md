@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dlvrit.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627223901id_/https%3A//dlvrit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlvrit.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231090757id_/https%3A//dlvrit.com/privacy-policy) for the most accurate reproduction.*
 
 # dlvr.it - Privacy Policy
+
+[ ](https://mktgcdn.dlvrit.com/wp-content/uploads/2017/07/d_250x250.png)
 
 _Effective May 23, 2018_
 
