@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradetracker.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235606id_/https%3A//tradetracker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradetracker.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231220608id_/https%3A//tradetracker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TradeTracker.com
 
@@ -12,7 +12,7 @@ These terms apply to the websites and other products offered by TRADETRACKER INT
 
 This privacy and data policy (“ **Privacy Policy** ”) applies and has effect in respect of all online services and other software and services made available by us (together the " **Service(s)** "), as well as any other online features relating to the Services including our websites for events and product promotions (the “ **Websites** ”).  Together the Service(s) and Website(s) are referred to as the “ **Online Services** ”.
 
-If you have any questions or comments about this Privacy Policy or if  you would like to opt-out from tracking, please contact us at [[email protected]](https://tradetracker.com/cdn-cgi/l/email-protection#0575776c7364667c457177646160717764666e60772b666a68). For more information about our cookies and how we use them, please refer to [this page](https://tradetracker.com/privacy-policy/how-we-use-cookies/) or [click here](https://aboutcookies.org/) of you're looking for  information about cookies in general.  
+If you have any questions or comments about this Privacy Policy or if  you would like to opt-out from tracking, please contact us at [[email protected]](https://tradetracker.com/cdn-cgi/l/email-protection#5121233827303228112523303534252330323a34237f323e3c). For more information about our cookies and how we use them, please refer to [this page](https://tradetracker.com/privacy-policy/how-we-use-cookies/) or [click here](https://aboutcookies.org/) of you're looking for  information about cookies in general.  
 
 
 We are committed to protecting and respecting your privacy. The Privacy Policy explains the basis on which personal information we collect from you will be processed by us or on our behalf. Where we decide the purpose or means for which personal data you supply through these Online Services is processed, we are the “data controller”. We will comply with all applicable data protection laws, including the General Data Protection Regulation2016/679.
@@ -93,8 +93,6 @@ _Partners_ : We are engaged by Partners to provide Services to them. You may hav
 
 _Group members, personnel, suppliers or subcontractors_ : We keep your information confidential, but may disclose it to any member of our group (which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006), our personnel, suppliers or subcontractors insofar as it is reasonably necessary for the purposes set out in this Privacy Policy. However, this is on the basis that they do not make independent use of the information, and have agreed to safeguard it.
 
-_Required by law:_ In addition, we may disclose your information to the extent that we are required to do so by law (which may include to government bodies and law enforcement agencies); in connection with any legal proceedings or prospective legal proceedings; and in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention).
-
 _Required by law:_  In addition, we may disclose your information to the extent that we are required to do so by law (which may include to government bodies and law enforcement agencies); in connection with any legal proceedings or prospective legal proceedings; and in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention).
 
 _Enforcement:_ We may also disclose your personal information to third parties in order to enforce or apply the terms of agreements, to investigate potential breaches, or to protect the rights, property or safety of TradeTracker.com, our customers, or others.
@@ -103,7 +101,7 @@ _Enforcement:_ We may also disclose your personal information to third parties i
 
 You have the following rights over the way we process personal data relating to you, as set out in the table below. We aim to comply without undue delay, and within one month at the latest.
 
-To make a request, please let us know by sending an email to  _[[email  protected]](https://tradetracker.com/cdn-cgi/l/email-protection#c8b8baa1bea9abb188bcbaa9acadbcbaa9aba3adbae6aba7a5)_.
+To make a request, please let us know by sending an email to  _[[email  protected]](https://tradetracker.com/cdn-cgi/l/email-protection#c9b9bba0bfa8aab089bdbba8adacbdbba8aaa2acbbe7aaa6a4)_.
 
 #### **Ask for a copy of data we are processing about you and have inaccuracies corrected**
 
@@ -139,7 +137,7 @@ We will hold your personal information on our systems for as long as is necessar
 
 ## **8\. Children**
 
-We do not use our Online Services to knowingly solicit information from or market to children under the age of 13. Our terms of use prohibit users aged under 13 years from accessing our Online Services. In the event that we learn that we have collected personal information from a child under 13 years of age we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13 years of age please contact us at [[email protected]](https://tradetracker.com/cdn-cgi/l/email-protection#ff8f8d96899e9c86bf8b8d9e9b9a8b8d9e9c949a8dd19c9092).
+We do not use our Online Services to knowingly solicit information from or market to children under the age of 13. Our terms of use prohibit users aged under 13 years from accessing our Online Services. In the event that we learn that we have collected personal information from a child under 13 years of age we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13 years of age please contact us at [[email protected]](https://tradetracker.com/cdn-cgi/l/email-protection#8bfbf9e2fdeae8f2cbfff9eaefeefff9eae8e0eef9a5e8e4e6).
 
 ## **9\. Security**
 
@@ -153,10 +151,10 @@ Our servers are located in Ireland.
 
 It is possible that your personal information may be transferred outside of the EU by any of our Partners. We recommend that you refer to their privacy policies and/or terms and conditions if you are concerned about your data being transferred outside the EU.
 
-Where we transfer your information outside of the EU, we have agreements in place with those parties which include standard data protection clauses adopted by a data protection regulator and approved by the European Commission to ensure that appropriate safeguards are in place to protect your personal data. If you would like to find out more about these safeguards, please let us know by writing to __[[email  protected]](https://tradetracker.com/cdn-cgi/l/email-protection#bececcd7c8dfddc7fecaccdfdadbcaccdfddd5dbcc90ddd1d3).
+Where we transfer your information outside of the EU, we have agreements in place with those parties which include standard data protection clauses adopted by a data protection regulator and approved by the European Commission to ensure that appropriate safeguards are in place to protect your personal data. If you would like to find out more about these safeguards, please let us know by writing to __[[email  protected]](https://tradetracker.com/cdn-cgi/l/email-protection#80f0f2e9f6e1e3f9c0f4f2e1e4e5f4f2e1e3ebe5f2aee3efed).
 
 ## **Contact information**
 
-All questions, comments or enquiries should be directed to TradeTracker at __[[email  protected]](https://tradetracker.com/cdn-cgi/l/email-protection#49393b203f282a30093d3b282d2c3d3b282a222c3b672a2624). We will endeavour to respond to any query or questions within five business days.
+All questions, comments or enquiries should be directed to TradeTracker at __[[email  protected]](https://tradetracker.com/cdn-cgi/l/email-protection#6111130817000218211513000504151300020a04134f020e0c). We will endeavour to respond to any query or questions within five business days.
 
 © 2018 TRADETRACKER.COM - All trade marks are the property of the relevant owners. All rights reserved.
