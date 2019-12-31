@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primis.tech privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528045830id_/https%3A//www.primis.tech/wp-content/uploads/2019/03/Primis-Privacy-Policy-GDPR.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primis.tech privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231152651id_/https%3A//www.primis.tech/wp-content/uploads/2019/03/Primis-Privacy-Policy-GDPR.pdf) for the most accurate reproduction.*
 
 # Privacy Notice
 
