@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seniorsmatter.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523111210id_/http%3A//seniorsmatter.com/our-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seniorsmatter.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231063442id_/http%3A//seniorsmatter.com/our-policies) for the most accurate reproduction.*
 
 # Our Policies | Seniors Matter
 
