@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitware.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325201051id_/https%3A//www.kitware.com/privacy/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitware.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231233142id_/https%3A//www.kitware.com/privacy/%23privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Kitware, Inc.
 
