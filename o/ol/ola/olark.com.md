@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the olark.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603034514id_/https%3A//www.olark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olark.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231091159id_/https%3A//www.olark.com/privacy-policy) for the most accurate reproduction.*
 
 # Olark Privacy Policy | Olark
 
-Last Modified: May 23, 2018
+Last Modified: November 15, 2019
 
 We take your privacy seriously. Habla, Inc. (“Olark”, or “we”, or “our”, or “us”) has created this Privacy Policy to explain how we collect, store, use and protect your information. This Privacy Policy explains our information handling practices when you use our communication services, interact with our website, or interact with us directly (collectively the “Services”).
 
@@ -12,13 +12,11 @@ This Privacy Policy is incorporated into, and considered a part of, the Terms of
 
 By accessing or using the Services, you do hereby warrant and represent that you have read, understand and agree to all terms and conditions stated herein, and our Terms of Service, currently available at <http://www.olark.com/tos> (the “Terms of Service”).
 
-Please note, to the extent you reside outside the United States, the European Economic Area, the United Kingdom, or Switzerland, please be advised that by accepting the terms of this Privacy Policy, you acknowledge, agree and consent to the transfer to and processing of personal information on servers located outside the country where you reside and that our collection and use of your personal information accordance with the laws of the United States that may be different and may be less protective than those in your country.
-
 If you do not agree with or you are not comfortable with any aspect of this Policy, you should immediately discontinue access or use of our Services.
 
 ## 2\. Notification of Changes
 
-Olark’s security and Privacy Policy is periodically reviewed, might change as Olark updates and expands the Services. Olark will endeavor to notify you of these changes but will not be liable for any failure to do so. Once the new Policy is posted, the Policy will become effective after your continued use of the Services. We may provide additional “just-in-time” disclosures or additional information about the data collection, use and sharing practices of specific Services. These notices may supplement or clarify our privacy practices or may provide you with additional choices about how we process your Personal Information.
+Olark’s Privacy Policy is periodically reviewed, and might change as Olark updates and expands the Services. Olark will endeavor to notify you directly of any material changes, and will post a notice of any non material changes on our website. Once the new Policy is posted, the Policy will become effective after your continued use of the Services.
 
 Olark encourages you to review this Privacy Policy periodically. If you have any questions you can contact us at privacy@olark.com.
 
@@ -68,33 +66,33 @@ We use your Personal Information for the following purposes:
 
 
 
-_Designated Countries_ : For all purposes listed above, pursuant to the EU General Data Protection Regulation (“GDPR”) or any equivalent legislation (collectively “Data Protection Laws”), we process your Personal Information based on our contract with you.
+_Designated Countries_ : For purposes of the EU General Data Protection Regulation (“GDPR”) or any equivalent legislation (collectively “Applicable Data Protection Laws”), we process this Personal Information based on our contract with you.
 
   * **To engage in marketing activities**. We may send you marketing communications based on your communication settings to inform you about relevant products and services; to deliver targeted marketing; to provide you with promotional offers; or to inform you about our events, webinars or materials, including those of our partners. We process information about your usage of our Services and your contact information to provide marketing communications. You can opt-out of our marketing communications at any time.
 
 
 
-_Designated Countries_ : Pursuant to the Data Protection Laws, we process this Personal Information based on your consent.
+_Designated Countries_ : For purposes of the Applicable Data Protection Laws, we process this Personal Information based on your consent.
 
   * **To enhance your experience on the Services**. We process your Personal Information to provide you with a personalized experience on our Services, such as allowing you to use social media plugins on our Services (e.g., Facebook and Twitter) or by keeping track of your preferences (e.g., timezone, display name, etc.). Without such processing, we may not be able to ensure your continued enjoyment of part or all of our Services.
 
 
 
-_Designated Countries_ : Pursuant to the Data Protection Laws, we process this Personal Information to satisfy our legitimate interests as described above.
+_Designated Countries_ : For purposes of the Applicable Data Protection Laws, we process this Personal Information to satisfy our legitimate interests as described above.
 
   * **To conduct research and development**. We pride ourselves in being innovative and continuing to offer you new, customized or improved features on our Services. In order to do so, we process your Personal Information to better understand you and the way you use and interact with our Services. Without such processing, we cannot ensure your continued enjoyment of part or all of our Services.
 
 
 
-_Designated Countries_ : Pursuant to the Data Protection Laws, we process this Personal Information to satisfy our legitimate interests as described above.
+_Designated Countries_ : For purposes of the Applicable Data Protection Laws, we process this Personal Information to satisfy our legitimate interests as described above.
 
   * **To maintain legal and regulatory compliance**. We process your Personal Information, in collaboration with service providers acting on our behalf, to pay our taxes or fulfill our other business obligations, and/or to manage risk as required under applicable law. We cannot perform the Services in accordance with legal and regulatory requirements without processing your Personal Information for such purposes.
 
 
 
-_Designated Countries_ : Pursuant to the Data Protection Laws, we process this Personal Information to comply with our legal obligations.
+_Designated Countries_ : For purposes of the Applicable Data Protection Laws, we process this Personal Information to comply with our legal obligations and/or to satisfy our legitimate interests.
 
-If you provide us Personal Information about others, or if others give us your information, we will only use that information for the use described when the information was requested. Please ensure you have proper consent to share such information with us.
+If you provide us with Personal Information about others, or if others give us your Personal Information, we will only use that Personal Information for the uses described when the Personal Information was provided. Please ensure you have lawful basis to share any third party Personal Information with us.
 
 ## 6\. Third-party services
 
@@ -111,7 +109,7 @@ We may share with third parties non-Personal Information, public information, an
 
 
 
-_Designated Countries_ : Pursuant to the Data Protection Laws, we process this Personal Information to satisfy our legal obligations, protect your vital interests or process data in the public interest, based on our legitimate interests, and your consent, respectively.
+_Designated Countries_ : For purposes of the Applicable Data Protection Laws, we process this Personal Information, as applicable, to satisfy our legal obligations, protect your vital interests or process data in the public interest, for purposes of our legitimate interests, or with your consent.
 
 ## 8\. Personnel
 
@@ -131,9 +129,11 @@ When you register for the Services we will include you in marketing corresponden
 
 When you visit websites on the Internet, your browser may automatically transmit information to the websites you visit throughout every visit. Like many websites, we may use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes.
 
-Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Services and then close your browser. Third party tools in the Services may also place or read cookies on your browser and we may use Flash cookies (or local shared objects) to store your preferences or use on the Services to personalize your visit. We do not control how third-party cookies are used. You should check the relevant third-party’s website for more information about how they use cookies. Both first party and third-party cookies can be serve a number of different functions, such as analytics, marketing and advertising.
+Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Services and then close your browser. Third party tools in the Services may also place or read cookies on your browser and we may use Flash cookies (or local shared objects) to store your preferences or use on the Services to personalize your visit. We do not control how third-party cookies are used. You should check the relevant third-party’s website for more information about how they use cookies. Both first party and third-party cookies can serve a number of different functions, such as analytics, marketing and advertising.
 
-We and our service providers may also use “pixel tags,” “web beacons,” “clear GIFs,” or similar means in connection with the Services and HTML-formatted email messages to, among other things, track the actions of Users and email recipients, to determine the success of marketing campaigns and to compile aggregate statistics about Services usage and response rates. We may also engage one or more third party service providers to serve online advertisements on our behalf. They may use a “pixel tag” to collect information about your visits to the Services and to other websites, and they may use that information to target advertisements for goods and services. We will not share this information with third parties in a manner that personally identifies you.
+With your consent, we or our service providers may also use “pixel tags,” “web beacons,” “clear GIFs,” or similar means in connection with the Services and HTML-formatted email messages to, among other things, track the actions of Users and email recipients, to determine the success of marketing campaigns and to compile aggregate statistics about Services usage and response rates. We may also engage one or more third party service providers to serve online advertisements on our behalf. Our service providers may use a “pixel tag” to collect information about your visits to the Services and to other websites, and they may use that information to target advertisements for goods and services. We will not share this information with third parties in a manner that personally identifies you.
+
+Olark’s embedded chat (and specifically the domains olark.com, api.olark.com, assets.olark.com, nrpc.olark.com, and static.olark.com) does not collect, retain, or share data regarding a particular Customer End User’s activity across multiple websites or applications that are not owned by Olark. Olark does assign each user a unique user ID within the scope of an individual website, but does not collect or retain IP or any information except information users volunteer (for example, an email or credit card number) which would allow Olark to identify the same particular user on more than one website. For the purposes of abuse and fraud prevention, Olark may use Customer End User IP during a chat session to block fraudulent IPs, trolls, and prevent other abuse; this IP information will be destroyed after the session, including logs destroyed after 7 days.
 
 We may use the following types of cookies and tracking technologies:
 
@@ -153,7 +153,7 @@ You can instruct your browser, by changing its options under Settings or Prefere
 
 We do not control interest-based advertising cookies on our Services. If you would like more information about such cookies or to opt out of having your cookie information used by companies that are part of the Network Advertising Initiative, please visit www.networkadvertising.org/choices.
 
-_Designated Countries_ : Pursuant to the Data Protection Laws, we process this Personal Information to satisfy our legitimate interests as described above. As required by law, we will ask for your consent.
+_Designated Countries_ : For purposes of the Applicable Data Protection Laws, we process this Personal Information to satisfy our legitimate interests as described above or, to the extent required by Applicable Data Protection Laws, we will ask for your consent.
 
 ## 12\. Do not track signals
 
@@ -165,19 +165,19 @@ We will take all appropriate legal, organizational, and technical measures to pr
 
 ## 14\. Security
 
-The security of your Personal Information is important to us. Our service providers are required to maintain appropriate physical, technical and administrative safeguards to protect the security and confidentiality of the Personal Information you provide to us.
+The security of your Personal Information is important to us. We maintain, and require our service providers to maintain, appropriate physical, technical and administrative safeguards to protect the security and confidentiality of the Personal Information you provide to us.
 
-However, even the best security measures are not foolproof and we cannot guarantee that loss, misuse, unauthorized acquisition, or alteration of your data will not occur. We cannot ensure or warrant the security or confidentiality of the Personal Information you transmit to or receive from us by Internet or wireless connection, including email, phone, or SMS because we have no way of protecting that information that is out of our control.
+However, even the best security measures are not foolproof and we cannot guarantee that loss, misuse, unauthorized acquisition, or alteration of your data will not occur. We cannot ensure or warrant the security or confidentiality of the Personal Information you transmit to or receive from us by Internet or wireless connection, including email, phone, or SMS because we have no way of protecting Personal Information that is out of our control.
 
 You are also responsible for the security of your Personal Information. You should choose a password of sufficient length and complexity when you use our Services, and keep your password confidential. If you think there has been unauthorized access to or use of your account, please contact us immediately at privacy@olark.com.
 
 ## 15\. Retention
 
-To preserve the integrity of our Services, we may also retain information submitted by Users for an indefinite length of time, even after the termination of your account or your relationship with us as governed by the Terms of Service. We will not share Personal Information in backups with third parties unless compelled to by law.
+We will retain your Personal Information for so long as we have a legal basis to do so. Please contact us at Privacy@Olark.com for more information about how long we retain specific categories of Personal Information.
 
 ## 16\. Requests to Access, Edit, or Delete Information
 
-You may edit your account information when logged in to the Services at any time – all you need is your username and password. Olark shall, upon request and promptly using commercially reasonable efforts, correct, delete, and/or block Personal Information from further processing and/or use except to the extent required by law. You can request deletion or correction of your Personal Information by contacting Olark at privacy@olark.com.
+You may edit your account information when logged in to the Services at any time – all you need is your username and password. In addition, you may also ask Olark to correct, delete, and/or cease processing your Personal Information from further processing and/or use. It may not be possible for us to delete or cease processing all of the Personal Information we hold about you where we have an ongoing relationship with you or where we have a legal basis to retain such Personal Information. You can exercise any of your rights above by contacting Olark at privacy@olark.com.
 
 ## 17\. California Privacy Rights
 
@@ -193,7 +193,7 @@ We do not knowingly collect Personal Information from children under 16 years of
 
 This section only applies to individuals who do not reside in the United States, the European Economic Area, Switzerland or United Kingdom.
 
-We primarily store data about you, including personal information, on servers located an operated within the United States. If you reside outside of the United States, to provide an operate the Services, we may send and store your personal information outside of the country where you reside or are located, to the United States. Therefore, our collection and use of your personal information may be subject to the United States laws related to privacy and use of personal information. These laws, including what is determined to be “personal data and/or information” are different and may be less protective than those applicable to you in your country of residence.
+We primarily store data about you, including personal information, on servers located and operated within the United States. If you reside outside of the United States, to provide an operate the Services, you acknowledge, agree and consent to sending and storing your personal information outside of the country where you reside or are located, to the United States. Therefore, our collection and use of your personal information may be subject to the United States laws related to privacy and use of personal information. These laws, including what is determined to be “personal data and/or information” are different and may be less protective than those applicable to you in your country of residence.
 
 ## 20\. Users in Designated Countries
 
@@ -240,16 +240,12 @@ Restricted Personal Information shall only be processed with your consent or for
 
   * **Right to object to processing**. If we process your Personal Information on the legal basis of consent, contract or legitimate interests, you may object to such processing at any time, as permitted by applicable law. We can continue to process your Personal Information if it is necessary for the defense of legal claims, or for any other exceptions permitted by applicable law.
   * **Notification to third-parties processing your Personal Information**. If we share your Personal Information with third parties, we will communicate any rectification, erasure or restriction of your Personal Information to each third party that has received your information, unless this proves impossible or involves disproportionate effort. Upon your request, we will identify such third parties.
-  * **Retention**. We will try to limit the retention of your Personal Information to the length of time necessary to serve the purpose(s) for which your Personal Information was processed, to resolve disputes, enforce our agreements, and as required or permitted by law. While retention requirements can vary by country, we generally apply the retention periods described below. 
-    * **Contact Information**. For example, your name, email address and telephone number as used for marketing purposes is retained on an ongoing basis until you unsubscribe. Once you unsubscribe, we add your contact information to our suppression list indefinitely to ensure we respect your unsubscribe request.
-    * **Interactions and Content**. For example, any posts on our blog or website, support tickets, and other content may be kept indefinitely after you close your account for the establishment or defense of legal claims, audit and crime prevention purposes.
-    * **Web Behavior Data**. For example, any information collected via technical means such as cookies, webpage counters and other analytics tools are retained for a period of up to one year from expiry of the cookie.
 
 
 
 If you have questions about our retention periods, please contact us.
 
-If you have any questions, you may reach our Data Protection Officer at dpo@olark.com.
+If you have any questions, you may reach our Data Protection Officer at dpo@olark.com, and our Member Representative, DPR Group, by writing an email to datainquiry@dpr.eu.com quoting “Habla, Inc. (trading as Olark)” in the subject line.
 
 ### Olark’s Commitment to Comply with the Privacy Shield Principles
 
@@ -271,4 +267,4 @@ Olark is subject to the investigatory and enforcement powers of the U.S. Federal
 
 If you have any questions about the Privacy Policy, please contact us at privacy@olark.com.
 
-Copyright © 2018 Habla, Inc.
+Copyright © 2019 Habla, Inc.
