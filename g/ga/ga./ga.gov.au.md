@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522062536id_/https%3A//www.ga.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231231247id_/https%3A//www.ga.gov.au/privacy) for the most accurate reproduction.*
 
 # Geoscience Australia Privacy Policy | Geoscience Australia
 
@@ -109,7 +109,7 @@ We understand that from time to time you may not want to provide this informatio
 
 We collect limited amounts of sensitive personal information.
 
-If you are an employee, prospective employee, contractor or require unescorted access to our facility we will collect information about your criminal history through a police records check.  Access to this information is strictly controlled and is only used in assessing your suitability for employment or access.
+If you are an employee, prospective employee, contractor or require unescorted access to our facility we will collect information about your criminal history through a police records check. Access to this information is strictly controlled and is only used in assessing your suitability for employment or access.
 
 If you are performing field work for us we will collect health information and share this with the team leader to ensure that any illness or injury that occurs during field work can be appropriately managed.
 
@@ -170,9 +170,17 @@ Some of the third parties we disclose personal information to may be located ove
 
 We will not share or disclose your personal information without your consent other than as described in the collection notice or as required or allowed by law.
 
+## Privacy Impact Assessments
+
+A privacy impact assessment is a systematic assessment of a project that identifies the impact the project might have on the privacy of individuals, and sets out recommendations for managing, minimising or eliminating that impact.
+
+## Privacy Impact Assessments Register
+
+In accordance with s. 15(1) of the Privacy (Australian Government Agencies – Governance) APP Code 2017, we are required to maintain a register of all Privacy Impact Assessments completed.
+
 ## Managed Services Agreement
 
-We use a Managed Services Agreement (MSA) for the provision of IT services.  In performing their duties under this arrangement, the provider may pass limited personal information overseas, including to the European Union, the United States of America and India. This information is usually restricted to your name and contact details and is the minimum necessary for the purposes of maintaining our IT systems.  This information will be held and used according to the requirements of the Privacy Act and the APPs.
+We use a Managed Services Agreement (MSA) for the provision of IT services. In performing their duties under this arrangement, the provider may pass limited personal information overseas, including to the European Union, the United States of America and India. This information is usually restricted to your name and contact details and is the minimum necessary for the purposes of maintaining our IT systems. This information will be held and used according to the requirements of the Privacy Act and the APPs.
 
 ## Security
 
@@ -190,7 +198,7 @@ You may request access to any personal information we hold about you at any time
 
 Where we hold information that you are entitled to access, we will provide it to you by a suitable means (e.g. by mailing or emailing it to you). We will not charge you for providing the information.
 
-If you believe that personal information we hold about you is incorrect or incomplete, you may request to have it amended. We will consider whether the information requires amendment.  If so, we will do so without charging you. In the unlikely event that we do not agree that there are grounds for amendment, we will give you written notice of the reasons for the refusal within 30 days of receipt of your request, together with information about how you may seek review if you do not agree with our decision. Before correcting personal information we may require verification of your identity.
+If you believe that personal information we hold about you is incorrect or incomplete, you may request to have it amended. We will consider whether the information requires amendment. If so, we will do so without charging you. In the unlikely event that we do not agree that there are grounds for amendment, we will give you written notice of the reasons for the refusal within 30 days of receipt of your request, together with information about how you may seek review if you do not agree with our decision. Before correcting personal information we may require verification of your identity.
 
 There may be rare instances where we cannot grant you access to the personal information we hold. For example, we may need to refuse access if required or authorised to refuse access under Commonwealth legislation. If that happens, we will give you written notice of the reasons for the refusal within 30 days of receipt of your request, together with information about how you can complain about our refusal if you wish to do so.
 
