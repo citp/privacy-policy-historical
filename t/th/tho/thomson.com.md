@@ -1,332 +1,411 @@
-> *The following text is extracted and transformed from the thomson.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630210822id_/https%3A//www.thomsonreuters.com/en/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomson.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231211748id_/https%3A//www.thomsonreuters.com/en/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement | Thomson Reuters
 
-This Statement applies to individuals who use any website, application, including mobile application (“app”), product, software or service of ours that hyperlinks to this Statement (we call these our “ **Services** ”).
+  * Our customers’ “content” that is inputted/uploaded and processed, stored, or hosted by our customers using our Services in connection with their account with us, in which this personal information is governed by our customers’ respective privacy policies;
+  * The “content” that is distributed within our Services (including with respect to personal information included in such content), although this is addressed in our **Informational Content Privacy Statement** ; or
+  * Any website, application, product, software, service, or content that are offered by third parties or that link to their own privacy statement, privacy policy, or privacy notice.
 
-It does not generally apply to individuals whose personal information forms part of the content included within our products, although you can find further information on that topic _here_.
 
-Thomson Reuters provides information solutions for professionals and our Services are generally not aimed at children.
 
-Depending on the Service, we may provide additional or different privacy statements or notices for specific interactions you have with us or to highlight how we use your personal information for specific Services. Where we do this, it will be clear which statements apply to which interactions and Services. For example, if you use one of our mobile apps, we provide you a separate notice in relation to a particular data type collected through that app.  
+Importantly, some laws (like GDPR) distinguish between a “controller” and a “processor” (or similar terms). We note that we are a “controller” for those Services where we make decisions on how personal information is used in connection with our Services, and we are a “processor” for those Services where we only use personal information as allowed by our customers.
 
+Where we make decisions on how personal information is used in connection with our Services (where we are acting as a controller), we are responsible for the obligations of a “controller” under applicable laws in connection with the processing of personal information – for example, we use this Privacy Statement and other notices to provide you with information about our use of personal information, as required by law. Where we only use personal information as allowed by our customers (where we are acting as a processor), our customers are similarly responsible for the obligations of a “controller” under applicable laws in connection with the processing of personal information, and, if you are using our Services through one of our customers, you should contact them if you have questions or concerns about the processing of your personal information or compliance with applicable laws.
 
-Within our Services, there may be links to third-party websites or applications. **We are not responsible for the content or privacy compliance of third party websites or applications.** You should check those websites or applications for their privacy statements and terms that apply to them.
+For **_California Consumers_** , we have also prepared a _Supplemental Privacy Statement for California Consumers under CCPA_ (“ **California Statement** ”) in compliance with the California Consumer Privacy Act of 2018 (“ **CCPA** ”). Please review our California Statement attached below for more information.
 
-**Children’s Privacy.** Our Services are not generally aimed at children. In the limited circumstances where we may collect and use personal information about children, for example to develop an educational resource, we will comply with industry guidelines and applicable laws.
+For our Public Records Products (such as PeopleMap, Public Records on Westlaw, and CLEAR), please visit our supplemental [Public Records Privacy Statement](https://legalsolutions.thomsonreuters.com/law-products/about/legal-notices/privacy/records?CID=TRSite) for more information about the use of personal information in our Public Records Products.
 
-Thomson Reuters is a global company that is made up of numerous legal entities.
+## Who we are & how to contact us  
 
-For some Services we make decisions on how personal information is used in the context of a Service (Thomson Reuters is a controller of personal information in this case), and for other Services we will only use personal information as instructed by our customers (Thomson Reuters is a processor of personal information in this case). Below you can find more information on the cases in which Thomson Reuters is a controller of personal information and information on how to contact us.
 
-To learn more about the products in which we are a controller of personal information, please visit this site: [https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/fact-sheets/thomson-reuters-as-a-controller-of-personal-information-product-list.pdf](https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/fact-sheets/thomson-reuters-as-a-controller-of-personal-information-product-list.pdf.). In the European Economic Area, if you wish to contact the Thomson Reuters entity that is controller for the Service relevant to you, please contact the following companies.  If you are unsure which entity to contact, or are located in another location, we welcome you to _contact us_ for more information. 
+Thomson Reuters Holdings Inc. is a Delaware corporation with an office at Metro Center, One Station Place, Stamford, Connecticut 06902, United States. In addition, the Thomson Reuters group of companies is made up of numerous legal entities with offices located across the globe. If you want to locate a specific Thomson Reuters office and the local contact information for an office, please see our [list of locations here](https://www.thomsonreuters.com/en/locations.html).
 
-**Business Service**  
-| **Entity Contact  **  
-| **Contact Address**  
-  
----|---|---  
-Legal  
-| Thomson Reuters (Professional) UK Limited  
-| Attention: Thomson Reuters Privacy Team, Legal Department, 30 South Colonnade-Canary Wharf, London E14 5EP, United Kingdom  
-  
-Tax & Accounting  
-| Thomson Reuters (Professional) UK Limited  
-  
-  
-Further information about when we act as a processor of personal information and business specific details can be found  _here_.
+Any comments, concerns, complaints, or questions regarding our Privacy Statement may be addressed to [privacy.issues@thomsonreuters.com](mailto:privacy.issues@thomsonreuters.com) or you can write us as follows:
 
-We collect personal information about you from your interactions with us and from certain third parties and other sources (such as your employer or the subscriber providing access to our Services or from publicly available sources where permissible).
+To the Thomson Reuters’s global **General Counsel, Privacy** :
 
-We obtain personal information **from you** :
+General Counsel, Privacy  
+Thomson Reuters  
+610 Opperman Drive  
+Eagan, Minnesota 55123  
+United States of America  
 
-  * **through your interactions with us and our Services** , such as, when you purchase or use our Services, register for an event, request information or call us for support (please note that we may record or monitor our telephone calls for compliance and quality assurance purposes)
-  * **through your system/device and use of our Services**. Our servers, logs and other technologies automatically collect system/device and usage information to help us administer, protect and improve our Services, analyze usage and improve users’ experience
-  * **through cookies and similar technologies included on our Services**. More information relating to cookies, and how to control their use can be found _here_ and information related to Interest-Based and Mobile Advertising can be found _here_ ** _._**
 
+To the Thomson Reuters’s **Data Protection Officer** in the EU/EEA:
 
+Data Protection Officer  
+Thomson Reuters  
+30 South Colonnade-Canary Wharf  
+London E14 5EP, United Kingdom  
 
-We also collect personal information about you from **third parties** such as: ****
 
-  * **the person(s) arranging for you to access our Services** (e.g., your employer or our subscriber) in order to set up a user account
-  * **an organization to which you belong** where that organization provides you access to our Services (such as a library providing you access to certain of our Services, like our legal information products) ** __**
-  * **partners and service providers who work with us** in relation to your Service ** __**
-  * **publicly available sources** such as public websites, open government databases or other data in the public domain, to help us maintain data accuracy and provide and enhance the Services   ** __**
+As mentioned above, if you are using our Services through one of our customers, then you should contact them with any privacy-related issues or questions.
 
+## Information we collect  
 
 
-The type of personal information we collect depends on how you are interacting with us and which Services you are purchasing or using.
+The type of personal information we collect depends on how you are specifically interacting with us and which Services you are using. Generally, we collect the following categories of personal information:
 
-**In many cases, you can choose whether or not to provide us with personal information, but if you choose not to, you may not get full functionality from the Services.**
+  * **Contact Information** , such as name, alias, address, phone number, social media user ID, email address, and similar contact data. ****
+  * **Organization and Contacts Information** , such as your employer or organizations that you are a member of, information about your colleagues or those within your organization, your status with an organization, and similar data. ****
+  * **Account Information** , such as security-related information (including user names and **** passwords, authentication methods, and roles), service-related information (including purchase history and account profiles), billing-related information (including payment, shipping, and billing information), and similar data. ****
+  * **User Content** , such as content of communications, suggestions, questions, comments, feedback, and other information you send to us, that you provide to us when you contact us, or that you post on our Services (including information in alerts, folders, notes, and shares of content), and similar data. ****
+  * **Device & Browser Information**, such as network and connection information (including Internet Service Provider (ISP) and Internet Protocol (IP) addresses), device and browser identifiers and information (including device, application, or browser type, version, plug-in type and version, operating system, user agent, language and time zone settings, and other technical information), advertising identifiers, cookie identifiers and information, and similar data. ****
+  * **Usage Information and Browsing History** , such as usage metrics (including usage rates, occurrences of technical errors, diagnostic reports, settings preferences, backup information, API calls, and other logs), content interactions (including searches, views, downloads, prints, shares, streams, and display or playback details), and user journey history (including clickstreams and page navigation, URLs, timestamps, content viewed or searched for, page response times, page interaction information (such as scrolling, clicks, and mouse-overs), and download errors), advertising interactions (including when and how you interact with marketing and advertising materials, click rates, purchases or next steps you may make after seeing an advertisement, and marketing preferences), and similar data. ****
+  * **Location Data** , such as the location of your device, your household, and similar location data. ****
+  * **Demographic Information** , such as country, preferred language, age and date of birth, marriage status, gender, physical characteristics, personal or household/familial financial status and metrics, military status, and similar data. ****
+  * **Your Image** , such as still pictures, video, voice, and other similar data. ****
+  * **Identity Information** , such as government-issued identification information, tax identifiers, social security numbers, other government-issued identifiers, and similar data.
+  * **Financial Information** , such as billing address, credit card information, billing contact details, and similar data. ****
+  * **Social Media and Online Content** , such as information in social media and online profiles, online posts, and similar data. ****
+  * **Career, Education, and Employment Related Information,** such as **** job preferences or interests, work performance and history, salary history, status as a veteran, nationality and immigration status, demographic data, disability-related information, application information, professional licensure information and related compliance activities, accreditations and other accolades, education history (including schools attended, academic degrees or areas of study, academic performance, and rankings), and similar data. ** **
 
-The personal information we collect consists of the following:
 
-  * **Name and contact data** , such as, **** first and last name, email address, postal address, phone number, and other similar contact data
-  * **Account Credentials** , such as, **** passwords and other security information for authentication and access
-  * **User content** , such as, communications and files provided by you in relation to your use of the Services
-  * **Payment information** , such as, **** payment card number (credit or debit card), and the security code associated with your payment instrument, if you make a payment
-  * **Device information** , such as, **** information about your **** device, such as IP address, location or provider
-  * **Usage information and browsing history** , **** such as, information about how you navigate within our Services, your browsing history and which elements of our Services you use the most ** __**
-  * **Location data** , for Services with location-enhanced features. If we need your consent to collect geo-location data, we will collect this separately
-  * **Demographic information** , such as, **** your country, and preferred language
-  * **CCTV** , if you visit us or attend a Thomson Reuters event
 
+## Sources of information  
 
 
-This section includes details of the purposes for which we use personal information and also the different legal grounds upon which we process that personal information. We use personal information to provide and improve Services and for other purposes that are in our _legitimate interests_ , as well as for compliance purposes. Further information is set out below.
+We collect personal information about you either directly from you, from certain third parties (such as your employer or the subscriber providing access to our Services), or from other sources (such as publicly available sources) as follows:
 
-Some laws require us to explain our lawful reason for processing your personal information. We process personal information about you on the basis that it is: ** __**
+You provide personal information to us when you:
 
-  * **necessary for the performance of a contract** : **** where we have a contract with you, we will process your personal information in order to fulfil that contract (i.e., to provide you with Services)
-  * **in our or a third parties’ legitimate interests** : details of those _legitimate interests_ are set out in more detail below (e.g., provision of Services that we are contractually obliged by a third party, such as your employer or our subscriber, to deliver to you)
-  * **where you give us your consent** : we only ask for your consent in relation to specific uses of personal information where we need to and, if we need it, we will collect it separately and make it clear that we are asking for consent
-  * **for compliance with a legal obligation** (e.g., to respond to a court order or a regulator)
+  * Search for, subscribe to, or purchase our Services.
+  * Use our Services or otherwise interact with us.
+  * Create or maintain a profile or account with us.
+  * Purchase, use, or otherwise interact with content, products, or services from third party providers who have a relationship with us.
+  * Create, post, or submit user content on our Services.
+  * Register for or attend one of our events or locations.
+  * Request or sign up for information.
+  * Communicate with us by phone, email, chat, in person, or otherwise.
+  * Complete a questionnaire, survey, support ticket, or other information request form.
+  * When you express an interest in working with us or apply for a job or position with us.
 
 
 
-You are welcome to _contact us_ for further information on the legal grounds that we rely on in relation to any specific processing of your personal information.  
+We collect personal information automatically when you:
 
+  * Search for, visit, interact with, or use our Services (including through a device).
+  * Access, use, or download content from us.
+  * Open emails or click on links in emails or advertisements from us.
+  * Otherwise interact or communicate with us (such as when you attend one of our events or locations, when you request support or send us information, or when you mention or post to our social media accounts).
 
-We use personal information for a number of legitimate interests, including to provide and improve Services, administer our relationship with you and our business, for marketing and in order to exercise our rights and responsibilities. More detailed information about these legitimate interests is set out below.
 
-  * to set up and administer your account, provide technical and customer support and training, verify your identity, and send important account, subscription and Service information
-  * to administer our relationship with you, our business and our third-party providers (e.g., to send invoices)
-  * to deliver and suggest tailored content such as news, research, reports and business information. We analyze the way you use our Services to make suggestions to you for features or Services that we believe you will also be interested in, and so that we can make our Services more user-friendly
-  * to personalize your experience with our Services. We may retain your browsing and usage information to make your searches within our Services more relevant and use those insights to target advertising to you online on our websites and apps. Your choices in relation to marketing are explained here.  
-We may sometimes share your personal information across our Services so that we can make all of the Services we deliver to you more intuitive (e.g., rather than requiring you to enter the same data many times) ****
-  * to contact you in relation to, and conduct, surveys or polls you choose to take part in and to analyze the data collected for market research purposes ****
-  * to display information you choose to post, share, upload or make available in chat rooms, messaging services, and community and event forums (including in community and event profiles) and for related collaboration, peer connection, games and information exchange ****
-  * to provide any third party, who has made our Services available to you (e.g., your employer or our subscriber), insights about use of the Services ** __**
-  * for internal research and development purposes and to improve, test and enhance the features and functions of our Services
-  * to provide you with _marketing_  as permitted by law ** __**
-  * to **** meet our internal and external audit requirements, including our information security obligations (and if your employer or our subscriber provides for your access to our Services, to meet their internal and external audit requirements) ** __**
-  * to enforce our terms and conditions
-  * to protect our rights, privacy, safety, networks, systems and  property, or those of other persons
-  * for **** the prevention, detection or investigation of a crime or other breach of law or requirement, loss prevention or fraud
-  *  to comply with requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities, including where they are outside your country of residence
-  * in order to exercise our rights, and to defend ourselves from claims and to comply with laws and regulations that apply to us or third parties with whom we work
-  * in order to participate in, or be the subject of, any sale, merger, acquisition, restructure, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings)
 
+We also collect personal information about you from third parties, such as: ****
 
+  * Your organization and others with whom you have a relationship that provide or publish personal information related to you, such as from our customers when they arrange access to our Services for you or from others when they create, post, or submit user content on our Services that may include your personal information.
+  * Professional or industry organizations and certification / licensure agencies that provide or publish personal information related to you.
+  * Third parties and affiliates who resell or integrate with our Services.
+  * Service providers **** and business partners who work with us in relation to our Services and that we may utilize to deliver certain content, products, or services or to enhance your experience.
+  * Marketing, sales generation, and recruiting business partners.
+  * Credit bureaus and other similar agencies.
+  * Government agencies and others who release or publish public records.
+  * Other publicly or generally available sources, such as social media sites, public and online websites, open databases, and data in the public domain.
 
-Where we rely on legitimate interests as a lawful ground for processing your personal information, we balance those interests against your interests, fundamental rights and freedoms. For more information on how this balancing exercise has been carried out, please contact our _Privacy Team_. ** _ _**
 
-We deliver marketing and event communications to you across various platforms such as email, telephone, text messaging, direct mail and online. Where required by law, we will ask you to explicitly opt in to receive marketing from us. If we send you a marketing communication it will include instructions on how to opt out of receiving these communications in the future. 
 
-Honoring your marketing preferences is important to us. You have the right to opt out of receiving direct marketing and targeted online advertising.  
+## How we use information
 
+This section includes details of the purposes for which we use personal information and the different legal reasons for processing that personal information.  
 
-**How to Opt Out of Email Marketing**
 
-Where we send marketing emails, we provide unsubscribe options for your use within our emails. To update your email marketing preferences, please visit the applicable email preference center, a link to which will normally be included in emails you receive from us. In addition, you can also use the “Contact Us” feature of a particular Service, discuss with your Thomson Reuters contact or contact our _Privacy Team_.
+__Lawful Basis__
 
-Even if you opt out of receiving marketing communications by email, we may still send you service communications or important transactional information related to your accounts and subscriptions (for purposes such as providing customer support).
+First, some laws require us to explain the **lawful basis** upon which we process your personal information. With respect to these laws, we process personal information about you for one or more of the following basis:
 
-**Interest-based advertising (IBA)**
+  * **To Perform a Contract**. Where the processing is necessary for the performance of contract.
+  * **Legitimate Interests.** Where the processing is necessary for legitimate interests pursued by us or by a third party, except where such interests are overridden by your interests or fundamental rights and freedoms which require protection of personal information. ****
+  * **Your Consent.** Where you have given us consent to process your personal information for specified purposes, such as to provide our Service and other items requested by you.
+  * **Comply with the Law.** Where the processing is necessary for compliance with a legal obligation.
 
-Interest-based advertising (IBA) allows us to deliver targeted advertising to users of our Services. IBA works by showing you advertisements, or sending you marketing emails, that are based on the type of content you access or read. For example, as you browse our Services, one of the cookies placed on your device will be an advertising cookie so we can better understand what sort of pages or content you are interested in. The information collected about your device enables us to group you with other devices that have shown similar interests. We can then display advertising to categories of users that is based on common interests. For more information about IBA, please visit: <http://www.iab.net/public_policy/behavioral-advertisingprinciples>.
 
-**Opting out of IBA**
 
-If you want to opt out of receiving interest-based advertising, it does not mean that you will no longer receive advertising when you are using our Services. It just means that we will not use your personal information for IBA and that any advertising you see will not be customized to you. You can exercise your online advertising choices at [http://optout.aboutads.info](http://optout.aboutads.info/) or by clicking the AdChoices icon in an ad and following the instructions.  You may also opt out of receiving interest-based ads from many sites through the Network Advertising Initiative's (NAI) Opt Out Tool (<http://www.networkadvertising.org/choices>) and in the EU at <http://www.youronlinechoices.com/>. If you delete cookies, use a different device, or change web browsers, you may need to opt out again.
+__Processing of Personal Information__
 
-**Advertising on mobile devices**
+We process your personal information in connection with our Services and for other business purposes, including to:
 
-Mobile devices have an identifier that gives companies the ability to serve targeted ads to a specific mobile device. In many cases, you can turn off mobile device ad tracking or you can reset the advertising identifier at any time within your mobile device privacy settings. Another tool you can use to control advertising on your mobile device is the AppChoices App: <http://youradchoices.com/appchoices>. You may also choose to turn off location tracking on your mobile device. If you turn off ad tracking or location tracking, we will no longer use information collected from your device’s advertising identifier for the purposes of advertising. You may still see the same number of ads but they may be less relevant because they will not be based on your interests.  Where we need your consent to gather information about your location we will obtain this from you. 
+  * Provide, deliver, analyze, and administer our Services (including in connection with the performance of a contract).
+  * For internal research and development purposes for new content, products, and services, and to improve, test, and enhance the features and functions of our current Services.
+  * Process transactions related to our Services and administer accounts or profiles related to you or your organization (including registrations, subscriptions, purchases, billing events, royalty calculations, and payments).
+  * Personalize and make recommendations related to our Services and other offerings.
+  * Contact and communicate with you in connection with our Services or other notifications, programs, events, or updates that you may have registered for.
+  * Send you offers, advertising, and marketing materials, including to provide personalized advertising to you.
+  * Conduct and communicate with you regarding recruiting and human resources administration.
+  * Comply with your instructions or to fulfill other, specified purposes for which you have given your consent.
+  * Detect and prevent fraud and abuse to ensure the security and protection of all customers and others, as well as to identify and authenticate your access to our Service or to identify and authenticate you before we provide you with certain information.
+  * Exercise our rights and to protect our and others’ rights and/or property, including to take action against those that seek to violate or abuse our Services.
+  * Comply with the law and our legal obligations, including to respond to a request or order from a court, regulator, or authority, as well as to fulfill our contractual obligations with our customers when they arrange access to our Services for you.
+  * Effectuate the sale, merger, acquisition, or other disposition of our business (including in connection with any bankruptcy or similar proceedings).
 
-We share personal information within the Thomson Reuters group, with our business partners and third party service providers, the person providing for your access to our Services (if that is not you) and in accordance with law. Our third-party service providers are not permitted to share or use personal information we make available to them for any purpose other than to provide services to us.
 
-We share your information for the purposes set out in this Statement, with the following categories of recipients:
 
-  * Thomson Reuters group companies
-  * the person providing your access to our Services (e.g., your employer or our subscriber)
-  * business partners with whom we **** deliver co-branded Services, provide content, or to host events, conferences and seminars
-  * third parties that help us deliver Services or act on our behalf
-  * third parties where we have a duty to or are permitted to disclose your personal information by law (e.g., government agencies, law enforcement, courts and other public authorities)
-  * third parties in order to participate in, or be the subject of, any sale, merger, acquisition, restructure, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings), in which case we may disclose your personal data to prospective buyers, sellers, advisers or partners and your data may be a transferred asset in a business sale
-  * third parties where reasonably required to protect our rights, users, systems and Services (e.g., legal counsel and information security professionals)
-  * any person you have asked us to share information with (e.g., if you upload information into a public forum it is shared publicly)
+## How we share information  
 
 
+We share personal information for the purposes set out in this Privacy Statement and with the following categories of recipients:
 
-Thomson Reuters is a global organization and your personal information may be stored and processed outside of your home country, including in countries that may not offer the same level of protection for your personal information as your home country. We have measures in place to ensure that when your personal information is transferred internationally, it is subject to appropriate safeguards in accordance with data protection laws. Often, these include contractual safeguards. More information about these safeguards (including copies, where relevant) can be obtained by contacting us _here_. 
+  * **The Thomson Reuters Group**. We may share your personal information amongst the companies within the Thomson Reuters group of companies.
+  * **Your Organization and Contacts.** We may share your personal information with your organization and others with whom you have a relationship in order to fulfill or perform a contract or other legal obligation, including with our customer that arranges access to our Services for you and pays us in connection with your access. We may also share your personal information with your contacts if you are in the same organization or to facilitate the exchange of information between you and the contact(s).
+  * **Business Partners.** We may share your personal information with our business partners to jointly offer, provide, deliver, analyze, administer, improve, and personalize products or services (including these Services) or to host events. We may also pass certain requests from you or your organization to these business providers. ****
+  * **Third Party Content Providers.** We may share your personal information with our third party content providers to perform tasks on our behalf and to assist us in providing, delivering, analyzing, administering, improving, and personalizing content that are delivered as part of our Services. We may also pass certain requests from you or your organization to these content providers. ****
+  * **Social Media Services.** We may work with certain third party social media providers to offer you their social networking services through our Services. These social networking services may be able to collect information about you, including your activity on our Services. These third party social networking services also may notify your friends, both on our Services and on the social networking services themselves, that you are a user of our Services or about your use of our Services, in accordance with applicable law and their own privacy policies. ****
+  * **Third Party Service Providers.** We may share your personal information with our third party service providers to perform tasks on our behalf and to assist us in offering, providing, delivering, analyzing, administering, improving, and personalizing our Services. For example, service providers who assist us in performing, delivering, or enhancing certain products and services related to our delivery and operation of our Services, who provide technical and/or customer support on our behalf, who provide application or software development and quality assurance, who provide tracking and reporting functions, research on user demographics, interests, and behavior, and other products or services. These third party service providers may also collect personal information about or from you in performing their services and/or functions on our Services. We may also pass certain requests from you or your organization to these third party service providers. ****
+  * **Advertisers.** We may share your personal information with advertisers, advertising exchanges, and marketing agencies that we engage for advertising services, to deliver advertising on some of our Services, and to assist us in advertising our brand and products and services. Those advertising services may also target advertisements on third party websites based on cookies or other information indicating previous interaction with us and/or our Services. ****
+  * **Users.** For some of our Services, we aggregate information from public records, phone books, social networks, marketing surveys, business websites, and other sources made available to us to create listings and profiles that become a part of our content in these Services, such as attorney and legal professional directories. These listings and profiles may be made available to all users of these Services. As described above, we may also share your personal information with other users who are your contacts if you are in the same organization or to facilitate the exchange of information between you and the contact(s). Additionally, if you choose to include your personal information in any reviews, comments, or other posts that you create, then that personal information may be displayed other users as part of your posting. ****
+  * **In the Event of Merger, Sale, or Change of Control.** We may transfer this Privacy Statement and your personal information to a third party entity that acquires or is merged with us as part of a merger, acquisition, sale, or other change of control (such as the result of a bankruptcy proceeding). ****
+  * **Other Disclosures.** We may disclose your personal information to third parties if we reasonably believe that disclosure of such information is helpful or reasonably necessary to comply with any applicable law or regulation, to comply with or respond to a legal process or law enforcement or governmental request, to enforce our terms and conditions or other rights (including investigations of potential violations of our rights), to detect, prevent, or address fraud or security issues, or to protect against harm to the rights, property, or safety of Thomson Reuters, our users, or the public.
 
-Thomson Reuters has networks, databases, servers, systems, support and helpdesks around the world.  We collaborate with third parties like cloud hosting services, suppliers and technology support located around the world to serve the needs of our business, workforce and customers. We take appropriate steps to ensure that personal information is processed, secured and transferred according to applicable law. In some cases, we may need to disclose or transfer your personal information within Thomson Reuters or to third parties in areas outside of your home country, including to countries that have not been declared adequate for the purposes of data protection by the  European Commission.  
 
 
-The areas in which these recipients are located will vary from time to time, but include the United States, Europe, Canada, Asia (including Australia and India), and other countries where Thomson Reuters has a presence or uses contractors.  Click to see a list of global locations at <https://www.thomsonreuters.com/en/locations.html>.
+## Location of information  
 
-When we transfer personal information internationally, we put in place safeguards in accordance with applicable law (including Articles 44 to 50 of the EU General Data Protection Regulation).  If you would like to know more about our data transfer practices and obtain copies of any relevant safeguarding measures, please contact our _Privacy Team_. 
 
-Thomson Reuters takes the security of personal information seriously and we use appropriate technologies and procedures to protect personal information (including administrative, technical and physical safeguards) according to the risk level and the service provided.
+Thomson Reuters Holdings Inc. is located in the United States and the affiliated entities within the Thomson Reuters group of companies are located throughout the world. During your use of our Services and your interactions with us, your personal information may be transferred outside of your home country and may be stored in and accessed from multiple countries.
 
-We have in place a global Information Security and Risk Management team, led by our Chief Information Security Officer, which is responsible for implementing secure data handling practices at Thomson Reuters.  
+Whenever we transfer personal information to other jurisdictions, we will ensure that the information is transferred in accordance with this Privacy Statement and as permitted by applicable data protection laws. ****
 
+## Security of information  
 
-Our information security policies and procedures are closely aligned with widely accepted international standards and are reviewed regularly and updated as necessary to meet the sensitivity of the personal information we handle, our business needs, changes in technology and regulatory requirements. We have implemented appropriate information security controls.
 
-More information on the steps we have taken to ensure our information security practices meet the requirements of the EU General Data Protection Regulation can be accessed here: <https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/faqs/thomson-reuters-and-the-gdpr.pdf>.  
+The security of your personal information is important to us. Taking into account the nature, scope, context, and purposes of processing personal information, as well as the risks to individuals of varying likelihood and severity, we have implemented technical and organizational measures designed to protect the security of personal information.
 
-We retain your information in accordance with our enterprise records retention schedule. You can find more information on the criteria used to calculate the retention periods set out below.
+However, please note that no method of transmission over the Internet or method of electronic storage is 100% secure. Therefore, while we strive to use commercially acceptable measures designed to protect personal information, we cannot guarantee its absolute security.
 
-Thomson Reuters has a Records and Information Governance team that works in conjunction with our Privacy Team to implement policies and rules relating to the retention of personal information. We have an enterprise records retention schedule that is based upon a classification scheme consisting of business functions, record classes, and record types.  
+Our security procedures also means that we may request proof of identity before we disclose personal information to you or before we process your other requests.
 
+## Retention of information  
 
-We calculate retention periods for your personal information in accordance with the following criteria:
 
-  * the length of time necessary to fulfill the purposes we collected it for
-  * when you or your employer (or other subscriber providing for your access to our Services) cease to use our Services
-  * the length of time it is reasonable to keep records to demonstrate that we have fulfilled our duties and obligations
-  * any limitation periods within which claims might be made
-  * any retention periods prescribed by law or recommended by regulators, professional bodies or associations
-  * the existence of any relevant proceedings
+We retain personal information in accordance with our enterprise records retention schedule, which varies by Service, business function, record classes, and record types.
 
+We calculate retention periods based upon and reserve the right to retain personal information for the periods that the personal information is needed to: (a) fulfill the purposes described in this Privacy Statement, (b) meet the timelines determined or recommended by regulators, professional bodies, or associations, (c) comply with applicable laws, legal holds, and other legal obligations (including contractual obligations), and (d) comply with your requests.
 
+## Children's privacy  
 
-You may have rights under European and other laws to have access to your personal information and to ask us to rectify, erase and restrict use of, your personal information. You may also have rights to object to your personal information being used, to ask for the transfer of personal information you have made available to us and to withdraw consent to the use of your personal information. Further information on how to exercise your rights is set out below.
 
-We will honor your rights under applicable data protection laws. You have the following rights under European laws, and may have similar rights under the laws of other countries.  
+Our Services generally provide information solutions and, as such, our Services are intended for professionals and/or individuals over eighteen (18) years of age. We do not target children and do not knowingly collect any personal information from children under the age of thirteen (13). When a user discloses personal information on our Services, that user is representing to us that he or she is at least eighteen (18) years of age.
 
+## Marketing choices  
 
-  * **Right of subject access** : The right to make a written request for details of your personal information and a copy of that personal information
-  * **Right to rectification** : The right to have inaccurate information about you corrected or removed
-  * **Right to erasure ('right to be forgotten')** : The right to have certain personal information about you erased
-  * **Right to restriction of processing** : The right to request that your personal information is only used for restricted purposes
-  * **Right to opt out of marketing** : You can manage your marketing preferences by unsubscribe links found in the communications you receive from us or by visiting the applicable preference center ** __**
-  * **Right to object** : The right to object to processing of your personal information in cases where our processing is based on the performance of a task carried out in the public interest or we have let you know the processing is necessary for our or a third party’s legitimate interests
-  * **Right to data portability** : The right to ask for the personal information you have made available to us to be transferred to you or a third party in machine-readable format
-  * **Right to withdraw consent** : The right to withdraw any consent you have previously given us to handle your personal information. If you withdraw your consent, this will not affect the lawfulness of our use of your personal information prior to the withdrawal of your consent
 
+We deliver advertising and marketing across various platforms, such as on our Services or via email, telephone, text messaging, direct mail, and various online channels. Our Services and marketing materials may also include third party advertising and links to other websites and applications. Third party advertising partners may collect information about you when you interact with their content, advertising, or services.
 
+You can control cookies and tracking tools. To learn how to manage how we and our partners use cookies and other tracking tools, and to read our Cookie & IBA Policy here.
 
-These rights are not absolute and they do not always apply in all cases.
+## Your rights  
 
-In response to a request, we will ask you to verify your identity if we need to, and to provide information that helps us to understand your request better. If we do not comply with your request, whether in whole or in part, we will explain why.
 
-In order to exercise your rights please visit the following site: [http://thomsonreutersdsr.ethicspoint.com](http://thomsonreutersdsr.ethicspoint.com/).
+In certain circumstances, local data protection laws (such as the GDPR) may give you rights with respect to personal information if you are located in or are a resident of that country, state, or territory (including if you are located in the EU/EEA). As discussed above, we have also prepared a _Supplemental Privacy Statement for California Consumers under CCPA_ (“ **California Statement** ”) in compliance with the California Consumer Privacy Act of 2018 (“ **CCPA** ”). Please review our California Statement below for more information.
 
-Legal Business Public Records Products: For requests related to PeopleMap, Public Records on Westlaw and CLEAR, please visit the following site: <https://legalsolutions.thomsonreuters.com/law-products/about/legal-notices/privacy/records?CID=TRSite>.
+**IMPORTANT** : WE ARE ONLY REQUIRED TO HONOR RIGHTS TO THE EXTENT THAT THESE RIGHTS HAVE BEEN GRANTED TO YOU AND APPLY TO YOU UNDER APPLICABLE DATA PROTECTION LAWS. PLEASE CONSULT YOUR LOCAL DATA PROTECTION LAWS TO DETERMINE WHAT RIGHTS MAY BE AVAILABLE TO YOU AND WHEN ACCESS TO THESE RIGHTS ARE LIMITED.
 
-Thomson Reuters and our third-party providers set and use cookies and similar technologies to store and manage user preferences, deliver targeted advertising, enable content, and gather analytic and usage data, for example. The use of cookies and other tracking technologies is standard across websites and apps through which information is collected about your online activities across applications, websites, or other services. More information about how we use cookies and similar technologies and how you can control and manage them is below.
+_What rights may be available to me?_
 
-**What is a cookie?**  
+These rights differ based upon local data protection laws in your country, state, or territory, but these rights **may** include one or more of the following:
 
+  * **Access to Personal Information.** You may have the right to obtain confirmation from us that we process your personal information and, if so, you may have the right to request access to your personal information. Please note that, to the extent permitted by law, we may charge a reasonable fee based on administrative costs for the first or further copies of your personal information requested by you.
+  * **Rectification.** You may have the right to request that we rectify inaccurate personal information concerning you and, depending on the purposes of the processing, you may have the right to have incomplete personal information completed.
+  * **Erasure/Deletion.** You may have the right to require us to erase some or all of the personal information concerning you.
+  * **Restriction of Processing.** You may have the right to require us to restrict the further processing your personal information. In such cases, the respective information will be marked as restricted, and may only be processed by us for certain purposes.
+  * **Object**. You may have the right to object, on grounds relating to your particular situation, to the processing of your personal information by us, and we may be required to no longer process some or all of your personal information.
+  * **Data Portability**. You may have the right to receive a copy of your personal information which you have provided to us, in a structured, commonly used, and machine-readable format, and you may have the right to transmit that personal information to another entity without hindrance from us.
+  * **Withdraw Consent**. You may have the right to withdraw consent you have provided to us where we rely solely on your consent to process your personal information. You can always provide your consent to us again at a later time.
+  * **Right to Complain.** You may have the right to lodge a complaint to an applicable supervisory authority or other regulator if you are not satisfied with our responses to your requests or how we manage your personal information. For example, if you are located in the EU/EEA, a list of and more information about the EU/EEA Data Protection Authorities can be found here: <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>. We encourage you to first or also reach out to us at [privacy.issues@thomsonreuters.com](mailto:privacy.issues@thomsonreuters.com), so we have an opportunity to address your concerns directly.
+  * If you are a **California resident** , California Civil Code Section 1798.83 may permit you the right to request information regarding the disclosure of personal information about you by us to third parties for the third parties’ direct marketing purposes.
+  * If you are a **Nevada resident** , Nevada residents may also have certain rights regarding the sale of personal information. Nevada residents may opt out of the future sale of their information to a third party so that they may license or sell information by clicking the following link “[Do Not Sell My Personal Information](https://privacyportal-cdn.onetrust.com/dsarwebform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d.html)” or by emailing us at: [privacy.issues@thomsonreuters.com](mailto:privacy.issues@thomsonreuters.com).
 
-A cookie is a small text file that is placed on a computer or other device and is used to identify the user or device and to collect information. Cookies are typically assigned to one of four categories, depending on their function and intended purpose: absolutely necessary cookies, performance cookies, functional cookies, and cookies for marketing purposes.
 
-**Types of cookies and why we use them**
 
-Absolutely necessary cookies: These cookies are essential to enable you to move around a website and use its features. Without these cookies, Services you have asked for, like adding items to an online shopping cart, cannot be provided.
+Importantly, these rights are **_not_** absolutely guaranteed and there are several exceptions where we may not have an obligation to fulfill your request. PLEASE CONSULT YOUR LOCAL DATA PROTECTION LAWS TO DETERMINE WHAT RIGHTS MAY BE AVAILABLE TO YOU AND WHICH EXCEPTIONS MAY APPLY.
 
-**Performance cookies:**  These cookies collect information about how you use our websites. Information collected includes, for example, the Internet browsers and operating systems used, the domain name of the website previously visited, the number of visits, average duration of visit, and pages viewed. These cookies only collect information in an aggregated format. Performance cookies are used to improve the user-friendliness of a website and enhance your experience.
+_How do I submit a request?_
 
-**Functionality cookies:  **These cookies allow the website to remember choices you make (such as your username or ID, language preference, or the area or region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts, and other customizable parts of web pages. They may also be used to provide Services you have asked for, such as watching a video or commenting on a blog. These cookies cannot track your browsing activity on other websites.
+To make a request or exercise your rights, please visit our [Data Subject Rights Portal](https://privacyportal-cdn.onetrust.com/dsarwebform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d.html). ****
 
-**Targeting and advertising cookies:**  These cookies track browsing habits and are used to deliver targeted (interest-based) advertising. They are also used to limit the number of times you see an ad and to measure the effectiveness of advertising campaigns. They remember that you have visited a website and this information is shared with other organizations, such as advertisers.
+If you are making a request with respect to our **Public Records Products** , please visit our supplemental [Public Records Privacy Statement](https://legalsolutions.thomsonreuters.com/law-products/about/legal-notices/privacy/records?CID=TRSite) for more information about submitting a request or exercising your rights for these Public Records products.
 
-**Managing cookies**
+When you make a request, we ask that you help us with the following:
 
-You can manage website cookies in your browser settings, and you always have the choice to change these settings by accepting, rejecting, or deleting cookies. If you choose to change your settings, you may find that certain functions and features will not work as intended on the Services. All browser settings are slightly different, so to manage cookies, you should refer to the relevant settings within your browser.
+  * **_Tell Us Which Right You Are Exercising_** : **** Please specify which right you want to exercise and the personal information to which your request relates (if not to you). If you are acting on behalf of another individual, please clearly indicate this fact and your authority to act on such person’s behalf.
+  * **_Tell Us More about Your Relationship with Us_** : Please let us know how you are associated with us, such as that you use certain Services of ours or that you were a former employee.
+  * **_Help Us Verify Your Identity_** : As mentioned above, our security procedures mean that we may request proof of identity before we disclose personal information to you or before we process your other requests. Provide us enough information to verify your identify. If we cannot initially verify your identity, we may request additional information to complete the verification process (such information may include your picture, a copy of your driver’s license or other government-issued ID and/or a recent utility or credit card bill). Please note that if we cannot verify your identity, we may not be able to fulfill your request. Any personal information you disclose to us for purposes of verifying your identity may be shared with our third party service providers and/or third parties (like your phone carrier) or government agencies for the purpose of verification.
+  * **_Direct Our Response Delivery_** : Depending on your request, we will provide a response to you via email or through a link to access certain information. If you prefer to receive our response in another way, then please let us know your preferred delivery mechanism to receive our response. You may specify, for example, email, mail, or through your account (if you have one with us).
 
-We understand that you may want to know more about cookies. Here are some useful resources that provide detailed information about types of cookies, how they are used, and how you can manage your cookie preferences: [www.aboutcookies.org](http://www.aboutcookies.org/)  or [www.allaboutcookies.org](http://www.allaboutcookies.org/). Please click below for detailed information on how to disable and delete cookies in some commonly used browsers:
 
-  * [Mozilla Firefox®](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
-  * [Microsoft® Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11)
-  * [Google Chrome™](https://support.google.com/accounts/answer/61416?hl=en)
-  * [](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)[Safari®](https://support.apple.com/en-us/HT201265)
 
+## Changes to this Privacy Statement  
 
 
-We use certain other tracking technologies in addition to cookies:
+As our organization changes over time, this Privacy Statement is expected to change as well. We reserve the right to amend the Privacy Statement at any time, for any reason, and without notice to you other than the posting of the updated Privacy Statement on our Services. We may e-mail periodic reminders of our notices and terms and conditions, but you should check our Services frequently to see the current Privacy Statement that is in effect and any changes that may have been made to it.
 
-  * **Local shared objects/Flash cookies** : Flash cookies, also known as local shared objects, are designed to support browser content supported by Adobe® Flash. They are usually used to enable ads and video content on websites. Like other cookies, they will store information on your device, some of which will be specific to the Flash-enabled content. Flash cookies can only be deleted within Adobe Flash rather than via your browser. Please refer to the following help page for information on how to manage your privacy settings and deletion of Flash cookies: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>.
-  * **Web beacons** : Our web pages may contain electronic images known as web beacons (also called single-pixel gifs and transparent graphic images) that we use to help deliver cookies on our sites, count users who have visited those sites, deliver Services, and analyze the effectiveness of our promotional campaigns, for example. We may also include web beacons in our marketing email messages or newsletters to determine whether an email is opened or if links are clicked. Web beacons are also used to deliver you  _interest-based advertising_.
-  * **Web server & application logs:** Our servers automatically collect certain information to help us administer and protect the Services, analyze usage, and improve users’ experience. The information collected includes:
-    * IP address and browser type
-    * Device information including Unique Device Identifier (UDID), MAC address, Identifier For Advertisers (IFA), and similar identifiers we or others may assign
-    * Device operating system and other technical facts
-    * The city, state, and country from which you access our website
-    * Pages visited and content viewed, stored, and purchased
-    * Information or text entered
-    * Links and buttons clicked
-    * URLs visited before and after you use our Services
+## Conflicts  
 
 
+Depending on the specific Service you are using or specific interactions you have with us, we may provide different or supplemental privacy statements that describe and govern how we use your personal information. When we do so, those different or supplemental privacy statements apply to that specific Service you are using or those specific interactions you have with us.
 
-**“Do Not Track” Signals**
+If there is any conflict between the English version of our Privacy Statement and a version translated in another language, the English version controls.
 
-Some browsers transmit Do Not Track (DNT) signals to websites. Due to the lack of a common interpretation of DNT signals throughout the industry, we do not currently alter, change, or respond to DNT requests or signals from these browsers. We continue to monitor industry activity in this area and reassess our DNT practices as necessary.
+## Introduction  
 
-**Connecting via social networks**
 
-Some of our Services may include social networking features, such as the Facebook® “Like” button and widgets, “Share” buttons, and interactive mini-programs. Additionally, you may choose to use your own social networking logins from, for example, Facebook or LinkedIn®, to log into some of our Services. If you choose to connect using a social networking or similar service, we may receive and store authentication information from that service to enable you to log in and other information that you may choose to share when you connect with these Services. These Services may collect information such as the web pages you visited and IP addresses, and may set cookies to enable features to function properly. We are not responsible for the security or privacy of any information collected by these third parties. You should review the privacy statements or policies applicable to the third-party services you connect to, use, or access. If you do not want your personal information shared with your social media account provider or other users of the social media service, please do not connect your social media account with your account for the Services and do not participate in social sharing on the Services.
+As a global company, our business proudly serves certain natural persons residing in the State of California (each, a “ **consumer** ”). This _Supplemental Privacy Statement for California Consumers under CCPA_ (“ **California Statement** ”) explains rights that California consumers may have under the California Consumer Privacy Act of 2018 (“ **CCPA** ”).
 
-This Statement generally relates to the personal information we collect about users in connection with the Services, where we make decisions about how that personal information is handled (Thomson Reuters as a controller). However, you can click on “Learn More” below for more information about how we process personal information that our customers input into our Services and for which Thomson Reuters does not make decisions about (Thomson Reuters as a processor). ** __**
+When we use the term “ **personal information** ” in this supplemental California Statement, we are using that term as CCPA defines it, which CCPA generally defines “ **personal information** ” to mean information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household. However, personal information does _not_ include publicly available, deidentified, or aggregate consumer information (which are all defined in CCPA). Notably, the definition of “ **personal information** ” also does not apply to the collection of personal information from job applicants, employees – whether you are our employee or any employee of the entity arranging access to our Services for you, business owners, directors, officers, medical staff, or contractors.
 
-Where we need to give you additional information about how your personal information is used in relation to specific Services we will provide separate or additional privacy notices.
+## Categories of personal information we collect, the sources of that information, purposes for why we collect it, who we share it with, and whether we sell that personal information  
 
-Your professional service provider (e.g., your financial, tax, legal or accounting adviser) and other third parties may enter your personal information into Services we make available to, and host for them on their behalf. They may provide their own privacy notices to you. You should contact them for these notices, and you may also be able to find their privacy notices on their websites.
 
-**Use of Publicly Available Data within Our Services**  
+Where we act as a “business” under CCPA (meaning we determine the manner and reasons for why we process your personal information), we may be required to disclose additional information regarding the categories of personal information we collect, the sources where we obtain that information, the purposes for why we collect that information, who we share that information with, as well as whether we sell that personal information – all of which depends on the specific Service. Accordingly, we’ve provided additional Service-specific information for subject Services on our website located at [tr.com/privacy-information](https://www.thomsonreuters.com/privacy-information.html).
 
+## Your privacy rights  
 
-Many professionals and third parties rely on the use of publicly available information in order to carry out research (e.g., on case law) or to satisfy their compliance obligations (e.g., to carry out anti-money-laundering checks).
 
-To assist them, we make available information obtained from publicly available sources like public websites, open government databases or other data in the public domain (some of which is behind a paywall and some not).
+If you are a resident of California and are not a job applicant, employee/contractor, or employee/contractor of another company interacting with us in your job role, you have the right to request what information we collect, use, and disclose. You also have the right to request that we delete your information.
 
-We take privacy seriously and put in place measures designed to ensure that we process personal information in a proportionate way and in compliance with data protection laws.   
+To make a request, you can contact us through our [Data Subject Rights Portal](https://privacyportal-cdn.onetrust.com/dsarwebform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d.html) or at 1-866-633-7656. Provide us enough information to verify your identify. We will use information you provide to us to verify your request. If we cannot initially verify your identity, we may request additional information to complete the verification process, such as, for example, a copy of your driver’s license and/or a recent utility or credit card bill. You can designate an agent to make a request on your behalf by either: (1) having your agent send us a letter, signed by you, certifying that the agent is acting on your behalf and showing proof that they are registered with the California Secretary of State; or (2) by you and the agent executing and sending us a notarized power of attorney stating that the agent is authorized to act on your behalf.  Please note that we may still require you to verify your identity before we process a request submitted by your agent.
 
-Where we process non-sensitive personal information within those Services, it is normally processed because it is in our or a third parties’ legitimate interests to do so. In the limited circumstances where we process sensitive personal information, we normally do so where:
+California residents also have certain rights regarding the sale of personal information. California residents have the right to opt out of the sale of their personal information by clicking the following link “[Do Not Sell My Personal Information](https://privacyportal-cdn.onetrust.com/dsarwebform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d.html)” or by clicking the button above.  
 
-  * necessary in relation to obligations under employment, social security and social protection law
-  * personal information has been manifestly made public by the person to whom it relates
-  * necessary for the establishment, exercise or defence of legal claims or whenever courts are acting in their judicial capacity
-  * processing is necessary for reasons of substantial public interest, on the basis of applicable law
 
+We will not discriminate against you because you have exercised any of your privacy rights under the CCPA.
 
+Our Privacy Statement explains our principles when it comes to the collection, processing, and storage of your personal information. This Cookie & IBA Policy supplements the above Privacy Statement and specifically explains how we, our partners, and users of our Services deploy cookies and other tracking technologies, including for Interest-Based Advertising (IBA), as well as the options you have to control them.
 
-We put in place appropriate measures to protect your information where it is _transferred internationally_ , to _secure_  it and to ensure it is _retained_ only for a reasonable period. 
+## Cookie policy  
 
-If you would like to make further enquiries about how personal information is used within a specific Service, please contact our _Privacy Team_. 
 
-To provide you with additional context on other products and services we offer, we have provided below more information regarding certain data protection practices in our Legal and Tax & Accounting businesses.
+**_What are Cookies?_**
 
-**Legal Products and Services**  
+**Cookies** are small pieces of data, stored in text files, that are stored on your computer or other device when websites are loaded in a browser. They are widely used to “remember” you and your preferences, either for a single visit (through a “ **session cookie** ”) or for multiple repeat visits (using a “ **persistent cookie** ”). They ensure a consistent and efficient experience for visitors, and perform essential functions such as allowing users to register and remain logged in. Cookies may be set by the site that you are visiting (known as “ **first party cookies** ”), or by third parties, such as those who serve content or provide advertising or analytics services on the website (“ **third party cookies** ”).
 
+Both websites and HTML emails may also contain other tracking technologies such as “ **web beacons** ” or “ **pixels**.” These are typically small transparent images that provide us with statistics, for similar purposes as cookies. They are often used in conjunction with cookies, though they are not stored on your computer in the same way as cookies. As a result, if you disable cookies, web beacons may still load, but their functionality will be restricted.
 
-Our global Legal business provides research and business management and efficiency tools to the legal profession, often processing personal information that our users input into the Services. For example, if a law firm uses our firm management Services, they may record personal information when using those Services and they may ask us to hold or access it on their behalf (e.g., to provide software/Service support).   
+**Flash cookies** , also known as **local shared objects** , are designed to support browser content supported by Adobe® Flash. They are usually used to enable ads and video content on websites. Like other cookies, they will store information on your device, some of which will be specific to the Flash-enabled content. Flash cookies can only be deleted within Adobe Flash rather than via your browser. Please refer to the following help page for information on how to manage your privacy settings and deletion of Flash cookies: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>. ****
 
+**_How We Use Cookies_**
 
-Thomson Records Legal public records products include the CLEAR suite of products and public records data on Westlaw, including PeopleMap and Company Investigator. These products are made up of consumer and company data aggregated from government agencies and reputable third party private data providers. These products are available only to authorized businesses and government organizations for their legitimate internal business uses and subject to applicable law. In addition to this Statement, these products are also subject to the [Public Records Privacy Statement](https://legalsolutions.thomsonreuters.com/law-products/about/legal-notices/privacy/records?CID=TRSite), available here: <https://legalsolutions.thomsonreuters.com/law-products/about/legal-notices/privacy/records?CID=TRSite>.
+We use cookies for several different purposes. Some cookies are necessary for technical reasons; some enable a personalized experience for both visitors and registered users; and some allow the display of advertising from selected third party networks. Some of these cookies may be set when a page is loaded, or when a user takes a particular action on one of our Services. Many of the cookies we use are only set if you are a registered user, while others are set whenever you visit or use one of our Services (irrespective of whether you have an account). For more information on the choices you have about the cookies we use, please see Section entitled _Controlling Cookies_  below.
 
-For more information about how your legal professionals handle your personal information, please contact them directly. ** __**
+**_Where We Place Cookies_**
 
-Thomson Reuters recognizes and respects that many of its customers and users of our Legal business Services (such as Westlaw and Practical Law) may be subject to ethical obligations to protect confidences with their clients. Where we act as a service provider in regard to the personal or confidential information that our customers or users input into our Legal Services, we do so in accordance with permissible law and we do not use any such information other than to provide, administer and improve our Services, provide user support or to meet our legal obligations.
+We set cookies in a number of different locations across our services. These locations may include:
 
-**Tax & Accounting Products and Services**  
+  * Our websites (including tr.com and reuters.com) and other Services;
+  * Our mobile apps;
+  * The emails we send.
 
 
-Our global Tax & Accounting business provides tools that support tax and accounting professionals. These Services typically process personal information on behalf of our customers when they use our Services.  This may include sensitive personal information such as information that could determine a person’s race, ethnicity, sexual orientation and/or health status. For example, if an accountant uses our  tax and accounting software, they may use it to process information about individuals and they may ask us to hold or access that information on their behalf (e.g., when providing software/Service support).  
 
+**_Types of Cookies_**
 
-If you would like to find out more about the personal information held by your accountant or tax professional, please contact them directly.   
+The bullet points below outline the types of cookies we use on our Services and why we use them. We also provide explanations of their purpose(s).
 
+  * **Strictly Necessary**. These cookies are essential for our Services to perform their basic functions. These include cookies that are required to allow registered users to authenticate and perform account related functions, as well as to save the contents of virtual “carts” for e-commerce functionality.
+  * **Analytics and Performance**. Performance cookies collect information on how users interact with our Services, including what pages are visited most, as well as other analytical data. We use these details to improve how our Services function and to understand how users interact with our Services.
+  * **Functionality**. These cookies are used to store preferences set by users such as account name, language, and location.
+  * **Security**. We use these cookies to help identify and prevent potential security risks.
+  * **Advertising**. These cookies are used to display relevant advertising to users who use our Services, as well as to understand and report on the efficacy of ads served on our Services. They track details such as the number of unique visitors, the number of times particular ads have been displayed, and the number of clicks the ads have received. They are also used to build user profiles, including showing you ads based on products or services you’ve viewed or acts you have taken on our (and other) websites and services. These are set by us and trusted third party networks, and are generally persistent in nature.
+  * **Third Party / Embedded Content**. Services hosted by us make use of different third party applications and services to enhance the experience of Service visitors. These include social media platforms such as Facebook and Twitter (through the use of sharing buttons). As a result, cookies may be set by these third parties, and used by them to track your online activity. We have no direct control over the information that is collected by these cookies.
 
-If you have any questions, comments, complaints or suggestions in relation to data protection or this Statement, or any other concerns about the way in which we process information about you, please contact our Privacy Team at [privacy.enquiries@tr.com](mailto:privacy.enquiries@tr.com) or at Privacy Team, Thomson Reuters, 30 South Colonnade-Canary Wharf, London E14 5EP, United Kingdom.
 
-If you are not satisfied with the response, we encourage you to escalate your query to our Data Protection Officer at [dpprivacyofficer@tr.com](mailto:dpprivacyofficer@tr.com) or at Data Protection Officer, Thomson Reuters, 30 South Colonnade-Canary Wharf, London E14 5EP, United Kingdom.  
 
+**_Controlling Cookies_**
 
-Additionally, if you wish to locate a Thomson Reuters office, please see <https://www.thomsonreuters.com/en/locations.html>.
+You may wish to restrict the use of cookies or completely prevent them from being set. Most modern browsers allow you to change your cookie settings. You can usually find these settings in the options or preferences menu of your browser. To understand these settings, the following links for commonly used browsers may be helpful, or you can use the help option in your browser for more details:
 
-**Filing a Complaint.** If you are not content with how Thomson Reuters manages your personal information, you can lodge a complaint with a privacy supervisory authority. In the European Economic Area, the relevant supervisory authority is the one in the country or territory where:
+  * [Cookie settings in Internet Explorer](http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies#ie=ie-10)
+  * [Cookie settings in Firefox](http://support.mozilla.com/en-US/kb/Cookies)
+  * [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?hl=en&ref_topic=14666)
+  * [Cookie settings in Safari web](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac) and [iOS](http://support.apple.com/kb/HT1677)
 
-  * you are resident
-  * you work, or
-  * the alleged infringement took place
 
 
+If you disable cookies, please be aware that some of the features of our Services may not function correctly.
 
-A list of National Data Protection Authorities in the European Economic Area can be found here: <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>.
+For more details on your choices regarding use of your web browsing activity for interest-based advertising you may visit the following sites:
 
-This Statement may be subject to updates. Any material future changes or additions to the processing of personal information as described in this Statement affecting you will be communicated to you through an appropriate channel. For example, we may place a prominent notice on a product site or email you to let you know of an updated Statement.  
+  * [networkadvertising.org](http://networkadvertising.org/)
+  * [optout.aboutads.info](http://optout.aboutads.info/)
+  * [youradchoices.com](http://youradchoices.com/)
+  * [youronlinechoices.eu](http://youronlinechoices.eu/)
+
+
+
+On a mobile device, you may also be to adjust your settings to limit ad tracking.  
+
+You can opt out of Google Analytics by installing [Google’s opt-out browser add-on](https://tools.google.com/dlpage/gaoptout).
+
+**_Do Not Track Signals_**
+
+Generally, we do not currently respond to, or take any action with respect to web browser "do not track" signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information about an individual’s online activities over time and across third party websites or online services. **However** , in some instances our third party service providers who integrate within our Services do honor Do Not Track signals.
+
+**_Consent for Advertising Cookies on Our Sites_**
+
+You may see a “cookie banner” on our websites. If you are visiting one of our Services from the EU/EEA, then we do not set, or allow our ad partners to set, cookies that are used to show you targeted ads before you click to accept. When you consent in this manner, we and our advertising partners may set advertising cookies on the site or other Service you are visiting and on other of our websites, dashboards, and services. We’ll display the banner to you periodically, just in case you change your mind.
+
+## Interest-based advertising (IBA) policy  
+
+
+**_Opt-Out of Email Marketing_** __
+
+You may choose not to receive future marketing or advertising emails from us by clicking the unsubscribe link at the bottom of each marketing or advertising email that you receive from us. Alternatively, you may send us an opt-out request specifying your communications preferences to [privacy.issues@thomsonreuters.com](mailto:privacy.issues@thomsonreuters.com).  
+
+Please note that, even if you opt-out of receiving marketing or advertising emails, we may still send you transactional emails related to the performance of our Services or your account with us, including administrative emails, maintenance emails, operational emails (for example, in connection with a password reset request), and responses to any “contact” request you initiate.
+
+We may also restart sending you marketing or advertising emails if you later opt-in.
+
+**_Interest-Based Advertising Notice_** __
+
+_What is Interest-Based Advertising?_
+
+Interest-based advertising, sometimes referred to as “targeted advertising”, “online behavioral advertising”, and “personalized advertising”, allows us to deliver personalized and/or targeted advertising to individuals that are tailored to individual interests, as well as to provide advertising-related services such as ad delivery, reporting, attribution, analytics, and market research. We serve interest-based advertising using information you make available to us when you interact with our Services and other sites, content, or products or services, which may be supplemented by third parties as discussed below. We deliver interest-based advertising on Thomson Reuters’s owned and operated sites, on unaffiliated sites, and through our Services.
+
+Like other online advertising networks, we use cookies, web beacons, and other technologies to enable us to learn about what ads you are served, what ads you click, and other actions you take on our sites, on other sites, and sometimes offline (collectively, “ **Ad Stats** ”). This allows us to provide you with more useful and relevant ads.
+
+We allow third party companies to collect certain information when you visit our websites or use our Services. Third party advertisers and other third parties (including ad networks, ad delivery or ad serving companies, and other service providers they may use) may also collect information about your Ad Stats, in which they may use that information to assume that users who interact with or click on a personalized ad or content are part of the group that the ad or content is directed towards. Also, some third parties may provide us with information about you (such as the sites where you have been shown ads, your Ad Stats, and/or demographic information) from offline and online sources that we may use to provide you more relevant and useful advertising.
+
+Advertisers or ad companies working on their behalf sometimes use technology to serve the ads that appear on our sites or Services directly to your browser. They automatically receive your IP address and/or information from cookies when this happens. They may also use third party cookies to measure the effectiveness of their ads and to personalize ad content. We do not have access to or control over third party cookies or other features that advertisers and third party sites may use, and the privacy practices of these advertisers and third party websites are not covered by this Privacy Statement. Please contact them directly for more information about their privacy practices.
+
+_How do I Opt-out of Interest-Based Advertising?_
+
+You may choose not to receive interest-based advertising. Please note that, even if you opt-out of receiving interest-based advertising, you will still receive advertisements and marketing materials, but they will not be personalized to you specifically.
+
+For some of our vendors that participate in the Digital Advertising Alliance (DAA), you can exercise your online advertising choices for those vendors to opt-out of interest-based advertising at [http://optout.aboutads.info](http://optout.aboutads.info/).  You may also opt out of receiving interest-based ads from many sites through the Network Advertising Initiative's (NAI) Opt Out Tool (<http://www.networkadvertising.org/choices>) and in the EU at <http://www.youronlinechoices.com/>.
+
+_How Do I Opt-Out of Advertising on Mobile Devices?_
+
+Mobile devices have an advertising identifier that gives companies the ability to serve targeted ads to a specific mobile device. Depending on your specific device, you may be able to limit advertising or reset the advertising identifier within your mobile device privacy settings. Another tool you can use to control advertising on your mobile device is the AppChoices App: <http://youradchoices.com/appchoices>. You may also choose to turn off the device’s location tracking on your mobile device depending on your specific device.
+
+Please note that some of the options described in the paragraphs above that you select are browser-specific or device-specific, so you may need to opt-out again if you delete cookies, use a different device, or change browsers. __
+
+## Contact us  
+
+
+If you have any questions about our use of cookies or about IBA, you can find the most recent contact details in our Privacy Statement.
+
+## **1\. Introduction**
+
+As a global business information services company, our business proudly distributes informational content within our Services. This Supplemental _Privacy Statement for Content Distributed with Thomson Reuters Services_ (“ **Informational Content Privacy Statement** ”) supplements the above Privacy Statement and further explains how we distribute and curate this informational content.
+
+## **2\. Why does Thomson Reuters publish informational content?**
+
+Thomson Reuters publishes various types of content, such as statutes, laws, regulations, rules, court cases, opinions, expert analysis, articles, forms, public records, treatise, dictionaries, and many other types of information, that we believe have professional and jurisprudential value for our customers or the general public.
+
+## **3\. How does Thomson Reuters obtain informational content?**
+
+Thomson Reuters obtains informational content in a number of ways – sometimes we purchase or license the content from others, sometimes we receive the content pursuant to a contract where we are required to curate and distribute the content, sometimes we commission the content ourselves, and sometimes the content is collected from a number of public sources, like public records, journalistic sources, and information in the public domain. Any personal information contained in informational content that is subsequently distributed by Thomson Reuters originates from the original text of the informational content.
+
+## **4\. How does Thomson Reuters curate informational content?**
+
+In addition to distributing the informational content, Thomson Reuters curates the content – in other words, Thomson Reuters prepares and provides summaries, metadata, or other related information concerning the original content. For example, reported cases in our legal products might include a headnote, key cite, and other metadata, as well as the full-text court case. In many cases, Thomson Reuters prepares the curation of the content. Any personal information contained in the curation is derived from personal information included in the original information content supplied by the source of that content.
+
+## **5\. Does Thomson Reuters edit or change the substances of the original information content?**
+
+Except for clerical/typographical errors and format changes in compliance with editorial house styles and except as directed by source of the original information content, Thomson Reuters does not edit or change the substance of the original information content in most cases.
+
+## **6\. What if I want to change or delete my personal information contained in the information content or just want the informational content removed?**
+
+In many cases, we are not the source of the information content and Thomson Reuters is not obliged to change or delete the substance of the original content including any personal information unless we receive a verified request from the source of the information content, such as, for example, a court order from the court that issued the court case in the first place.
+
+If you have any questions or concerns regarding the substance of any informational content or your personal information as contained in that information content, please contact the source of the informational content and work with them directly to resolve your questions or concerns.
