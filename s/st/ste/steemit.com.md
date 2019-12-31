@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the steemit.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620194048id_/https%3A//steemit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steemit.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231220853id_/https%3A//steemit.com/privacy.html) for the most accurate reproduction.*
 
 # Steemit
 
-## Effective: May 25, 2018
+## Effective: Oct 7, 2019
 
 This Privacy Policy describes how Steemit collects, uses and discloses information, and what choices you have with respect to the information. This Policy applies to the Steemit.com, steemit subdomains (e.g., signup.steemit.com) and services (collectively, “Services”).
 
@@ -40,10 +40,13 @@ To provide our service we will use your personal information in the following wa
   * To comply with law
   * We use your personal information as we believe necessary or appropriate to comply with applicable laws, lawful requests and legal process, such as to respond to subpoenas or requests from government authorities.  
   * For compliance, fraud prevention, and safety
+  * Communications
 
 
 
 We may use your personal information to protect, investigate, and deter against fraudulent, unauthorized, or illegal activity.
+
+We may use your personal information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe or instructions provided in any email send.
 
 ### SHARING OF PERSONAL INFORMATION
 
