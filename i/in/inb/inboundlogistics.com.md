@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the inboundlogistics.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230520id_/https%3A//www.thomasnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboundlogistics.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231070725id_/https%3A//www.thomasnet.com/privacy.html) for the most accurate reproduction.*
 
 # Thomas Privacy Statement
 
-Revised: November 1, 2018
+Revised: August 1, 2019
 
 ## Purpose
 
@@ -10,7 +10,7 @@ Thomas Publishing LLC, including its subsidiaries and affiliates identified belo
 
 Thomas complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Thomas has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-Thomas’ U.S. subsidiaries that also adhere to the Privacy Shield Principals include:
+Thomas’ U.S. subsidiaries that also adhere to the Privacy Shield Principles include:
 
 Thomas Publishing Company
 
@@ -31,10 +31,11 @@ This Privacy Statement covers our privacy practices with respect to the collecti
   1. Interaction with all Thomas website properties. In addition to its websites, Thomas provides web-based tools which require individuals to log-in to retrieve data or to update product information. These web-based tools and the Thomas website properties, collectively, are referred to as the Thomas Websites (the “Thomas Websites”).
   2. Product data management tools and services which include access to CAD and BIM models, product configurators and e-commerce capability, (collectively, “Thomas Product Data Solutions”).
   3. Marketing services provided to Customers including but not limited to website design & development and inbound marketing services, (collectively, “Thomas Marketing Services”).
+  4. Tracking services provided to Customers including but not limited to website tracking services and call tracking services, (collectively, “Thomas Tracking Services”)
 
 
 
-In this Privacy Statement, the Thomas Websites, Thomas Product Data Solutions and Thomas Marketing Services are collectively referred to as the “Thomas Service” or “Thomas Services.”
+In this Privacy Statement, the Thomas Websites, Thomas Product Data Solutions and Thomas Marketing Services and Thomas Tracking Services are collectively referred to as the “Thomas Service” or “Thomas Services.”
 
 You should review this Privacy Statement carefully, because if you do not agree with our practices, you should not use the Thomas Services. By using the Thomas Services, you accept and agree to our privacy practices. 
 
@@ -76,6 +77,7 @@ Thomas collects personal information on behalf of our Customers from visitors or
   * engage in e-commerce transactions with Customers via the Thomas Services;
   * submit informational requests and requests for pricing or quotations from Customers.
   * submit forms that may be required to download CAD or BIM sales drawings or other product information requests from Customers.
+  * access Customer websites that use Thomas Tracking Services
 
 
 
@@ -89,7 +91,7 @@ We collect details about your website visits, including, but not limited to, you
 
 Via persistent cookies, which are data files that remain on your computer for future visits until deleted, we may track your behavior at other websites, including what sites you visit and how long you spend there.
 
-In addition to the foregoing, Thomas may collect information on behalf of Customers who have provided forms residing within the Thomas Services, namely 
+In addition to the foregoing, Thomas may collect information on behalf of Customers who have provided forms residing within the Thomas Services, or Customers who have implemented a Thomas Tracking Service, namely 
 
   * Company name and address.
   * User contact information including, first name, last name, phone number and email address.
@@ -213,11 +215,6 @@ Budova DOCK1
 Praha 8 - Liben  
 180 00  
 Czech Republic
-
-Thomas Industrial Network Germany GmbH  
-Bahnhofstrasse 18  
-92224 Amberg  
-Germany
 
 ### Transfers of Personal Data 
 
