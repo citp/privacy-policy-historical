@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thenewcivilrightsmovement.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330100053id_/https%3A//www.thenewcivilrightsmovement.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewcivilrightsmovement.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231021701id_/https%3A//www.thenewcivilrightsmovement.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The New Civil Rights Movement
 
 The New Civil Rights Movement (“NCRM”) and our parent organization, AlterNet Media, respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit our website, and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
@@ -10,7 +10,7 @@ When you visit NCRM, our systems collect basic information about your computer, 
 
 **Advertising**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
 **Use of Cookies**
 
