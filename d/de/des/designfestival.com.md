@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designfestival.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626191612id_/https%3A//www.sitepoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designfestival.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231202153id_/https%3A//www.sitepoint.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy — SitePoint
 
@@ -204,7 +204,12 @@ For more information on the privacy practices of Google, please visit the Google
 
 ### Advertising
 
-We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service. These companies may use information about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies for interest based advertising, please visit <http://www.aboutads.info/choices/>.
+
+How to opt out  
+<http://optout.networkadvertising.org/#!/>
+
+Information about specific services and how to manage them is provided below.
 
 **Google AdSense DoubleClick Cookie**
 
@@ -300,11 +305,16 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us. You have a right to access the personal information we hold about you. To obtain a copy of the personal information we hold about you, please write to us at:
+If you have any questions about this Privacy Policy, please contact us. You have a right to access the personal information we hold about you. To obtain a copy of the personal information we hold about you, please write to us:
 
-  * By email: support@sitepoint.com
-  * By mail: 48 Cambridge street, Collingwood, Melbourne, Victoria 3066 Australia
+via email
 
+[support@sitepoint.com](mailto:support@sitepoint.com)
 
+or via mail
+
+PO Box 1115
+
+COLLINGWOOD  VIC  3066
 
 Please provide sufficient detail about the information in question to help us locate it. We will then use commercially reasonable efforts to promptly determine if there is a problem and take the necessary corrective action within a reasonable time.
