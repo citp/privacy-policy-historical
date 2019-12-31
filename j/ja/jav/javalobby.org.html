@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the javalobby.org privacy policy that was archived on 2019-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624122856id_/https%3A//dzone.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the javalobby.org privacy policy that was archived on 2019-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191231204756id_/https%3A//dzone.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:ng="http://angularjs.org" id="ng-app" lang="en" ng-app="TH"><head ng-controller="DZHeadController">
 <!--
@@ -30,10 +30,11 @@ https://devada.com/careers/
 
     <meta property="og:site_name" ng-attr-content="{{ service.siteName }}" content="dzone.com">
     <meta property="og:title" ng-attr-content="{{ service.title }}" content="DZone">
+    <meta property="og:url" ng-attr-content="{{ service.canonical }}" content="https://dzone.com/pages/privacy">
     <meta ng-if="service.img" ng-attr-content="{{ service.img }}" property="og:image" content="">
     <meta ng-if="service.type" ng-attr-content="{{ service.type }}" property="og:type" content="">
 
-    <meta name="twitter:site" content="@dzone">
+    <meta name="twitter:site" content="@DZoneInc">
     <meta ng-if="service.twitterImage" ng-attr-content="{{ service.twitterImage }}" name="twitter:image" content="">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:description" ng-attr-content="{{ service.description }}" content="Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts. Hundreds of free publications, over 1M members, totally free.">
@@ -44,12 +45,15 @@ https://devada.com/careers/
     <meta name="google-site-verification" content="kndbhxcupfEqWmZclhCpB6vlgOs7QSmx2UHAGGnP2mA">
 
     <link rel="dns-prefetch" href="//www.googletagservices.com">
-    <link rel="dns-prefetch" href="//pixel-geo.prfct.co">
     <link rel="dns-prefetch" href="//secure.adnxs.com">
     <link rel="dns-prefetch" href="//hn.inspectlet.com">
     <link rel="dns-prefetch" href="//inspectletws.herokuapp.com">
-    <link rel="dns-prefetch" href="//tag.perfectaudience.com">
     <link rel="dns-prefetch" href="//www.google-analytics.com">
+    <link rel="dns-prefetch" href="//a.optnmstr.com">
+    <link rel="dns-prefetch" href="//ajax.googleapis.com">
+    <link rel="dns-prefetch" href="//cdn.inspectlet.com">
+    <link rel="dns-prefetch" href="//csi.gstatic.com">
+
     <link rel="image_src" ng-href="{{ service.img }}" href=""><!--formatted-->
 
     <link ng-if="service.prevPage" rel="prev" ng-href="{{ service.prevPage }}" href="">
@@ -60,11 +64,16 @@ https://devada.com/careers/
 
     <meta name="df-verify" content="df0d76632b4543">
 
-<link rel="stylesheet" type="text/css" href="//dz2cdn3.dzone.com/storage/pub/12065568-combined.css" charset="utf-8"><link rel="stylesheet" type="text/css" href="//dz2cdn3.dzone.com/storage/pub/12065632-combined.css" charset="utf-8"></head>
-<body>
+    <link type="text/css" rel="stylesheet" href="/themes/dz20/lib/codemirror/lib/codemirror.css" media="screen">
+
+<link rel="stylesheet" type="text/css" href="//dz2cdn3.dzone.com/storage/pub/12877665-combined.css" charset="utf-8"><link rel="stylesheet" type="text/css" href="//dz2cdn3.dzone.com/storage/pub/12877723-combined.css" charset="utf-8"></head>
+
+<body class="adtoniq-body">
+
+    <toast></toast>
 
     <div class="container-fluid header" th-element="header" th-element-groups="[]" ng-hide="$root.isHidden('header')" data-th-element-name="header"><div class="row mainHeaderRow" th-element="mainHeaderRow" th-element-groups="['header']" ng-hide="$root.isHidden('mainHeaderRow')" data-th-element-name="mainHeaderRow"><div class="col-md-12 mainHeader headerHeaderV2 oUhbWOfRPSwBoUhM" th-element="mainHeader" th-element-groups="['header','mainHeaderRow']" ng-hide="$root.isHidden('mainHeader')" data-th-element-name="mainHeader" data-th-widget="header.headerV2" data-widget-header-header-v2="" ng-controller="mainHeader">
-<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K25QL22"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/ng-template" id="like-article.html">
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K25QL22"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/ng-template" id="like-article.html">
         <div class="dz-like"
              ng-class='{liked: status.liked}'
              ng-click='like()'
@@ -85,41 +94,42 @@ https://devada.com/careers/
 
 <div class="header-top">
     <div class="header-container">
-        <div class="pull-left">
+        <div class="pull-left logo-container">
             <div class="logo">
-                <a class="inner" href="/"><img src="/themes/dz20/images/DZLogo.png" alt="DZone"></a>
+                <a class="inner" href="/"><img src="/themes/dz20/images/dz_cropped.png" alt="DZone"></a>
             </div>
 
         
         </div>
-        <div class="pull-right">
 
+        <div class="pull-right login-and-search">
 
-            
                 <div class="dz-intro">Over a million developers have joined DZone.</div>
-                <div class="mobile-invisible sign-in-join" ng-if="!$root.user.authenticated"><a href="#" ng-click="loginForm(0)">Log In</a> <span class="dz-intro-span">/</span> <a href="#" ng-click="loginForm(1)">Sign Up</a></div>
-                <div class="join-icon mobile-invisible"><i class="icon-user" ng-if="!$root.user.authenticated" ng-click="loginForm(1)"></i></div>
-                <div class="join-icon mobile-visible" ng-cloak=""><img src="/themes/dz20/images/DZone_MobileLogin2.png" class="mobile-visible" ng-if="!$root.user.authenticated" ng-click="loginForm(0)"></div>
+                <div class="mobile-invisible sign-in-join" ng-if="!$root.user.authenticated"><a href="#" ng-click="login()">Log In</a> <span class="dz-intro-span">/</span> <a href="#" ng-click="signIn()">Join</a></div>
+                <button class="join-icon"><i class="icon-user" ng-if="!$root.user.authenticated" ng-click="login()"></i></button>
                 <div class="headerSearch">
-                    <span class="icon-search dropdown-toggle" ng-click="focusSearch()" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></span>
+                    <button class="icon-search dropdown-toggle" ng-click="focusSearch()" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></button>
                     <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
                         <li>
                             <form class="form-wrapper">
-                                <input id="search" ng-model="searchT" type="text" placeholder="Search" required="">
-                                <input type="button" value="Search" class="btn btn-action" ng-click="allResults()" ng-disabled="searchT.length < 3">
+                                <label for="search" class="sr-only">Search</label>
+                                <input id="search" role="search" ng-model="searchT" type="text" placeholder="Search" required="">
+                                <input type="button" value="Search" class="btn btn-action search-button" ng-click="allResults()" ng-disabled="searchT.length < 3">
                             </form>
                         </li>
-                        <div class="results-area" ng-cloak="">
-                            <div class="col-md-12"><th-loader flag="loading"></th-loader></div>
-                            <li ng-repeat="node in nodes">
-                                <div class="results-container">
-                                    <img dz-image-fid-width="80" dz-image-fid="{{ node.thumb }}">
+
+                      <div class="results-area" ng-cloak="">
+                          <div class="col-md-12"><th-loader flag="loading"></th-loader></div>
+                          <li ng-repeat="node in nodes">
+                              <div class="results-container">
+                                  <img dz-image-fid-width="80" dz-image-fid="{{ node.thumb }}">
+                                  <div class="results-content">
                                     <a class="title" target="{{ node.type=='link'? '_blank' : '_self'}}" ng-href="{{node.urlOrigin}}">{{node.title}}</a>
                                     <p class="source">
                                         <span class="type">{{node.type}}</span>
                                         <span class="source-bullet"> ·</span>
                                         <span ng-if="node.type=='link'" class="link-source">{{ node.urlSource.name }}</span>
-                                        <span ng-if="node.type=='link'" class="source-bullet"> ·</span>
+                                        <span ng-if="node.type=='link'" aria-hidden="true" class="source-bullet"> ·</span>
                                         <span class="source-date" am-time-ago="node.articleDate"></span>
                                         <span ng-if="node.type != 'guide'">
                                             by <a href="{{ node.authors[0].url }}" target="_blank" class="author-name" th-popup="users.profile.mini" popup-data="{user: node.authors[0].id}">{{node.authors[0].realName }}</a>
@@ -130,16 +140,18 @@ https://devada.com/careers/
                                         <dz-save template="refcard-save.html" node="node" class="save-btn"></dz-save>
                                         <span class="download-count"><i class="icon-download"></i> {{node.downloads}}</span>
                                     </div>
-                                    <div class="clear"></div>
-                                </div>
-                            </li>
-                        </div>
+                                  </div>
+                                  <div class="clear"></div>
+                              </div>
+                          </li>
+                      </div>
 
+                      <div class="results-additional-actions" ng-if="totalResults || haveResults">
                         <div class="totalResults" ng-if="totalResults"><span>{{totalResults}} search results</span></div>
                         <li class="btn-vall" ng-if="haveResults">
                             <input type="button" value="View All Results" ng-click="allResults()" class="btn btn-action" ng-disabled="searchT.length < 3">
                         </li>
-
+                      </div>
                     </ul>
                 </div>
 
@@ -150,151 +162,184 @@ https://devada.com/careers/
 <div class="header-bottom">
 
 
-    <ul class="portals header-container">
-            <li>
-                <a href="/refcardz" id="header-refcardz"><em>Refcardz</em></a></li>
-            <li>
-                <a href="/guides" id="header-guides"><em>Guides</em></a></li>
-            <li>
-                <a href="/portals" id="header-portals"><em>Zones</em></a></li>
-        <li style="color: #d9dcdd">|</li>
 
-        <li>
-            <a ng-class="{'active-state': isActivePortal(2)}" href="/agile-methodology-training-tools-news" id="header-2">
-            Agile</a>
-        </li>
-        <li>
-            <a ng-class="{'active-state': isActivePortal(4001)}" href="/artificial-intelligence-tutorials-tools-news" id="header-4001">
-            AI</a>
-        </li>
-        <li>
-            <a ng-class="{'active-state': isActivePortal(3)}" href="/big-data-analytics-tutorials-tools-news" id="header-3">
-            Big Data</a>
-        </li>
-        <li>
-            <a ng-class="{'active-state': isActivePortal(4)}" href="/cloud-computing-tutorials-tools-news" id="header-4">
-            Cloud</a>
-        </li>
-        <li>
-            <a ng-class="{'active-state': isActivePortal(5)}" href="/database-sql-nosql-tutorials-tools-news" id="header-5">
-            Database</a>
-        </li>
-        <li>
-            <a ng-class="{'active-state': isActivePortal(6)}" href="/devops-tutorials-tools-news" id="header-6">
-            DevOps</a>
-        </li>
-        <li>
-            <a ng-class="{'active-state': isActivePortal(7)}" href="/enterprise-integration-training-tools-news" id="header-7">
-            Integration</a>
-        </li>
-        <li>
-            <a ng-class="{'active-state': isActivePortal(8)}" href="/iot-developer-tutorials-tools-news-reviews" id="header-8">
-            IoT</a>
-        </li>
-        <li>
-            <a ng-class="{'active-state': isActivePortal(1)}" href="/java-jdk-development-tutorials-tools-news" id="header-1">
-            Java</a>
-        </li>
-        <li>
-            <a ng-class="{'active-state': isActivePortal(6001)}" href="/microservices-news-tutorials-tools" id="header-6001">
-            Microservices</a>
-        </li>
-        <li>
-            <a ng-class="{'active-state': isActivePortal(7001)}" href="/open-source-news-tutorials-tools" id="header-7001">
-            Open Source</a>
-        </li>
-        <li>
-            <a ng-class="{'active-state': isActivePortal(10)}" href="/apm-tools-performance-monitoring-optimization" id="header-10">
-            Performance</a>
-        </li>
-        <li>
-            <a ng-class="{'active-state': isActivePortal(2001)}" href="/application-web-network-security" id="header-2001">
-            Security</a>
-        </li>
-        <li>
-            <a ng-class="{'active-state': isActivePortal(11)}" href="/web-development-programming-tutorials-tools-news" id="header-11">
-            Web Dev</a>
+    <ul class="portals header-container scrollable-ul">
+            <li>
+                <a href="/refcardz" id="header-refcardz">
+                    <em>
+                      Refcardz
+                    </em>
+                </a>
+            </li>
+            <li>
+                <a href="/research" id="header-research">
+                    <em>
+                      Research
+                    </em>
+                </a>
+            </li>
+            <li>
+                <a href="/webinars" id="header-webinars">
+                    <em>
+                      Webinars
+                    </em>
+                </a>
+            </li>
+            <li class="last-portal-link">
+                <a href="/portals" id="header-portals" ng-click="toggleZones('/portals', $event)">
+                    <em>
+                      Zones
+                      <span class="collapsible-toggle {{zonesOpen ? 'open': ''}}">
+                        <i class="icon-angle-down"></i>
+                        <i class="icon-angle-up"></i>
+                      </span>
+                    </em>
+                </a>
+            </li>
+
+        <li class="separator" aria-hidden="true" style="color: #d9dcdd">|</li>
+        <li class="portal-topics {{zonesOpen ? 'open': ''}}">
+          <ul>
+                <li>
+                    <a href="/agile-methodology-training-tools-news" id="header-2" ng-class="{'active-state': isActivePortal(2)}">
+                        Agile
+                    </a>
+                </li>
+                <li>
+                    <a href="/artificial-intelligence-tutorials-tools-news" id="header-4001" ng-class="{'active-state': isActivePortal(4001)}">
+                        AI
+                    </a>
+                </li>
+                <li>
+                    <a href="/big-data-analytics-tutorials-tools-news" id="header-3" ng-class="{'active-state': isActivePortal(3)}">
+                        Big Data
+                    </a>
+                </li>
+                <li>
+                    <a href="/cloud-computing-tutorials-tools-news" id="header-4" ng-class="{'active-state': isActivePortal(4)}">
+                        Cloud
+                    </a>
+                </li>
+                <li>
+                    <a href="/database-sql-nosql-tutorials-tools-news" id="header-5" ng-class="{'active-state': isActivePortal(5)}">
+                        Database
+                    </a>
+                </li>
+                <li>
+                    <a href="/devops-tutorials-tools-news" id="header-6" ng-class="{'active-state': isActivePortal(6)}">
+                        DevOps
+                    </a>
+                </li>
+                <li>
+                    <a href="/enterprise-integration-training-tools-news" id="header-7" ng-class="{'active-state': isActivePortal(7)}">
+                        Integration
+                    </a>
+                </li>
+                <li>
+                    <a href="/iot-developer-tutorials-tools-news-reviews" id="header-8" ng-class="{'active-state': isActivePortal(8)}">
+                        IoT
+                    </a>
+                </li>
+                <li>
+                    <a href="/java-jdk-development-tutorials-tools-news" id="header-1" ng-class="{'active-state': isActivePortal(1)}">
+                        Java
+                    </a>
+                </li>
+                <li>
+                    <a href="/microservices-news-tutorials-tools" id="header-6001" ng-class="{'active-state': isActivePortal(6001)}">
+                        Microservices
+                    </a>
+                </li>
+                <li>
+                    <a href="/open-source-news-tutorials-tools" id="header-7001" ng-class="{'active-state': isActivePortal(7001)}">
+                        Open Source
+                    </a>
+                </li>
+                <li>
+                    <a href="/apm-tools-performance-monitoring-optimization" id="header-10" ng-class="{'active-state': isActivePortal(10)}">
+                        Performance
+                    </a>
+                </li>
+                <li>
+                    <a href="/application-web-network-security" id="header-2001" ng-class="{'active-state': isActivePortal(2001)}">
+                        Security
+                    </a>
+                </li>
+                <li>
+                    <a href="/web-development-programming-tutorials-tools-news" id="header-11" ng-class="{'active-state': isActivePortal(11)}">
+                        Web Dev
+                    </a>
+                </li>
+          </ul>
         </li>
     </ul>
 </div>
 </div></div></div><div class="container-fluid body" th-element="body" th-element-groups="[]" ng-hide="$root.isHidden('body')" data-th-element-name="body"><div class="row mainContentRow" th-element="mainContentRow" th-element-groups="['body']" ng-hide="$root.isHidden('mainContentRow')" data-th-element-name="mainContentRow"><div class="col-md-12 announcementBar1 announcementBar oUhbYlrRaqMaoUhM" th-element="announcementBar1" th-element-groups="['body','mainContentRow']" ng-hide="$root.isHidden('announcementBar1')" data-th-element-name="announcementBar1" data-th-widget="announcementBar" data-widget-announcement-bar="" ng-controller="announcementBar1"><div ng-if="announcement &amp;&amp; toShow" back-img="" hasimage="{{announcement.hasImage}}" img="{{announcement.img}}" imgbackup="{{announcement.img2}}" id="acontainer" class="ann-container" ng-cloak="">
     <div class="ann-body">{{announcement.body}}</div><a ng-if="announcement.link" class="ann-link" ng-click="track(announcement.id)" ng-ref="{{announcement.link}}">{{announcement.title}}<span class="icon-right-dir"></span></a>
 </div>
-</div><div class="col-md-12 staticPagesView4 staticPagesView oUhbvdV_VbnkfWVcC" th-element="staticPagesView4" th-element-groups="['body','mainContentRow']" ng-hide="$root.isHidden('staticPagesView4')" data-th-element-name="staticPagesView4" data-th-widget="staticPages.view" data-widget-static-pages-view="" ng-controller="staticPagesView4"><div class="layout-card" style="    border-top: 3px solid #B8B9B9 !important;
-    border: 1px solid #d9dcdd;
-    background-color: #ffffff;
-    padding: 15px;
-    margin-bottom: 17px;"> 
- <h1>DZone.com Privacy Policy</h1> 
- <p>DZone is committed to protecting your privacy. This Privacy Policy applies to the web site at dzone.com and all other affiliated sites and services (collectively, the “Site”). We are providing this Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of personal information that we collect and receive from you in connection with the Site.</p> 
- <p>This Privacy Policy does not apply to: (1) activities that occur offline; or (2) to information we collect outside of the Sites, including through any AnswerHub-powered site or the www.devada.com website provided by DZone.</p> 
- <p>The Site is made available free of charge only because advertisers and sponsors on the Site cover the costs associated with hosting and operating the Site. As further described below, by clicking on advertisements on the Site and taking advantage of sponsored content on the Site, you consent to the delivery of the personal information gathered by DZone to DZone’s advertisers and sponsors. </p> 
- <h2>Collection of Personal Data</h2> 
- <p>When inquiring about use of or subscribing to or otherwise using the Site, you may provide certain personally identifiable information necessary for use of the Site and for communicating with you. The data collected includes information about you that can be used to contact or identify you, and information related to your use or potential use of Site (collectively, “Personal Information”). Personal Information that we collect may include without limitation name, email address, organization, job title, and phone number.</p> 
- <p>Within our Site, if you interact with other users, the Site may share additional information with such other users. The additional information you share by participating in these types of communications is your choice and responsibility and the privacy of such information cannot be guaranteed. Similarly, information you share through messaging within our Site is solely your responsibility.</p> 
- <p>We will maintain your personal data so long as your account is active.</p> 
- <h2>Use of Cookies and Tracking Technologies</h2> 
- <p>We use cookies as part of the Site to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process.</p> 
- <p>We also use session ID cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close your browser. If you reject cookies, you may still use our Site, but your ability to use some areas of our Site will be limited.</p> 
- <p>We also may use pixel tags, web beacons and other similar technologies to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, which are also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. The information we obtain in this manner enables us to customize the Site and to measure the overall effectiveness of the Site’s content, programming and other activities. DZone uses Google Analytics to measure site traffic, visitor behavior, and to improve delivery of services. To understand the information shared with Google, how it is processed, and how you can control the information collected by Google on DZone, visit <a href="https://policies.google.com/technologies/partner-sites">https://policies.google.com/technologies/partner-sites</a>. </p> 
- <p>In addition to personal information, certain anonymous information about your visit is automatically captured when you visit the Site. This information includes the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site, occasional geographic data, and the Internet address of the Web site from which you linked directly to our site. We also may use your IP address to determine the organization that you are affiliated with. This anonymous information is used to help improve the Site, analyze trends, and administer the Site.</p> 
- <p>We may monitor your interactions with the Site, such as what pages you visit, what content you review, and what comments you make, and maintain this information with your Site profile. </p> 
- <h2>Use and Disclosure of Information</h2> 
- <p>We do not sell, rent, use or share your personal information with others except as indicated in this Privacy Policy.</p> 
- <p>We may use your Personal Information to: </p>
- <ul> 
-  <li>provide the Site and associated content and services,</li> 
-  <li>complete information for you including your name, signature, and profile picture when you post content to the Site,</li> 
-  <li>support and maintain the Site,</li> 
-  <li>improve and update the Site,</li> 
-  <li>communicate information to you that you have requested,</li> 
-  <li>for our marketing, research and development purposes, and</li> 
-  <li>for other purposes specified in this Privacy Policy or at the time information is requested from you.</li> 
- </ul>
- <p></p> 
- <p>Comments or questions sent to us using email or other messaging tools will be shared with our staff that is most likely to be able to address your concerns. We may archive your messages once we have provided you with a response. If we find your personal question valuable to community discussion, we reserve the right to post your question on the Site, after using reasonable efforts to remove any names or personal identification. Please note that email communications will not necessarily be secure; accordingly, you should not include sensitive information in email correspondence with us. </p> 
- <p>DZone may aggregate your information with other users’ information to determine and distribute aggregated statistics and information about the Site and its use and users. This aggregated information will not identify any specific user.</p> 
- <p>DZone may disclose your Personal Information to sponsors of content (such as white papers, product downloads, reference guides, and other content) and to advertisers on the Site when you download or otherwise access such content, or view or click on such advertisements.</p> 
- <p>DZone may also disclose your Personal Information to selected outside firms for marketing purposes. These firms are required to target their offers carefully. You may modify your account to withdraw your consent to receive offers that are not tied to your specific actions in clicking on advertisements or downloading sponsored content.</p> 
- <p>DZone may also disclose Personal Information: </p>
- <ul> 
-  <li>when we have your permission to do so; or</li> 
-  <li>to companies who work for DZone to provide one or more parts of the Site or that provide related administrative functions (such as support Sites and analytics). These third parties may have access to your personal information; if they do, this access is only so that they may perform these tasks on our behalf and they are obligated not to disclose or use it for any other purpose; or</li> 
-  <li>when we believe in good faith that disclosure is reasonably necessary to (1) comply with a legal process or law, or to respond to a subpoena, court order, or government request for information, (2) enforce Terms of Service and/or other agreements between you and DZone, (3) respond to claims that any content on the Site violates the rights of third parties, or that otherwise arise from your use of the Site, or (4) protect the rights, property, or personal safety of DZone, its users, or the public.</li> 
-  <li>when required or permitted to do so by law for public safety. Disclosures may be made to protect you from a serious threat to your health or safety or to protect the health or safety of another person.</li> 
- </ul>
- <p></p> 
- <h2>Your Rights</h2> 
- <p>You may withdraw your consent for disclosure of your Personal Information to sponsors of third-party content by providing notice to DZone at the address or email address noted below. If you withdraw your consent, your account will either be suspended or removed, or you will be restricted from downloading such content.</p> 
- <p>You have the right to access and edit, update or delete your personal information by logging onto the Site and accessing your account information. You may contact us with any questions or if you need assistance in updating or deleting your personal information.</p> 
- <p>You can ask us for a copy of your personal data in machine readable form.</p> 
- <h2>Third Parties and Links</h2> 
- <p>This Privacy Policy applies only to our Site. We may provide links to other information and sites that we believe may be of interest to our users. Their sites may collect or request personally identifiable information from you. You should review the privacy policy of these sites before providing such information, as these sites are not covered by our Privacy Policy. We cannot guarantee the standards of sites to which we link or be responsible for the contents, or privacy practices and policies, of these and other third-party sites. We encourage you to read the privacy policy of every site you visit.</p> 
- <p>Our Site may include social media features, including the Facebook Like button and widgets, such as the “share this” button or interactive mini-programs that run on our Site. These features may collect your IP address, where you are using our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features and widgets are governed by the privacy policy of the company that created the feature.</p> 
- <h2>Access to Account</h2> 
- <p>If you are a registered user of the Site, you can change your account information through your user profile page. You may need to supply certain information so that we can try to verify that you have authority to modify this information.</p> 
- <h2>Opt-Out</h2> 
- <p>You may opt-out of receiving certain marketing communications from us, by emailing us at <a href="mailto:privacy@dzone.com">privacy@dzone.com</a>. In addition, all marketing e-mails from DZone will provide you with the opportunity to unsubscribe from future marketing mailings. Even if you opt out of such mailings, however, we reserve the right to send you e-mail and other communications to disclose maintenance and other Site-related issues.</p> 
- <h2>Legal Requirements</h2> 
- <p>We intend to protect your privacy to the fullest extent possible as described in this policy while also fulfilling our responsibility to uphold all applicable laws and regulations. Due to potential legal requirements and other possible circumstances, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed or accessed in ways not otherwise described in this policy. We may be compelled under law to disclose information to government or third parties under certain circumstances or third parties may unlawfully intercept or access transmissions or private communications. Further, we can, and you hereby authorize us to, disclose any information to law enforcement or other government officials that we, in our sole discretion, believe necessary or appropriate in compliance with the law and/or government requests.</p> 
- <h2>United States</h2> 
- <p>The Site is hosted in the United States. If you are accessing the Site from outside the United States, please be advised that through your continued use of the Site, which is governed by U.S. law and this Privacy Policy, you are transferring your personal information to the United States and you consent to that transfer. The United States may not have the same data protection laws as your country. However, to the extent that Regulation (EU) 2016/679, the General Data Protection Regulation (“GDPR”) applies to you, DZone will comply with GDPR. </p> 
- <h2>Security Measures</h2> 
- <p>We have implemented reasonable and industry standard security measures on the Site to help protect against the loss, misuse and alteration of the personal information under our control. Additionally, we take reasonable steps to ensure that our third party business partners, including our hosting partners, provide sufficient protection for personal information. We will take reasonable efforts to maintain Personal Information in the area (e.g., country or continent) as specified by our Customer. We will promptly make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data.</p> 
- <p>You acknowledge that no method of transmission over the Internet, or method of electronic storage, is 100% secure, and that we cannot guarantee absolute security. If you have any questions about security on our Site, you may contact us.</p> 
- <h2>Privacy of Children</h2> 
- <p>Children under age 16 are not permitted to use the Site. We will not knowingly collect personally identifiable information on the Site from children under 16. If we become aware that a user of the Site is under the age 16 and has provided us with Personal Information, we may delete such information from our files and may deactivate the related account.</p> 
- <h2>In the Event of Merger, Sale or Bankruptcy</h2> 
- <p>In the event that all or part of DZone is acquired by or merged with a third party entity, DZone may transfer or assign the personally identifiable information held by DZone as part of such merger, acquisition, or other change of control. In the unlikely event of DZone's bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, DZone may not be able to control how personal information is treated, transferred, or used.</p> 
- <h2>Changes to this Privacy Policy</h2> 
- <p>This policy may be revised by us from time to time. By using this Site you agree that we have a right to change our policy without prior notification. The revised policy will appear on our Site with the date of last revision. Your continued use of the Site following such revisions will be conclusively deemed acceptance of any changes to these Terms.</p> 
- <p>If you have any questions or complaints regarding this Privacy Policy, please email us or write to: <br> Devada<br> 600 Park Offices Dr.<br> Suite 150 <br>Research Triangle Park, NC 27709<br> <a href="mailto:privacy@dzone.com">privacy@dzone.com</a> </p> 
- <p>If you believe you have not received an appropriate response from us regarding your question or complaint, you may contact the applicable supervisory authority below based on your residence:</p> 
- <ul> 
-  <li>EU Data Protection Authorities (DPAs)</li> 
-  <li>Swiss Federal Data Protection and Information Commissioner (FDPIC)</li> 
- </ul> 
- <p>Last Revised: May 2018</p> 
+</div><div class="col-md-12 staticPagesView4 staticPagesView oUhbvdV_VbnkfWVcC" th-element="staticPagesView4" th-element-groups="['body','mainContentRow']" ng-hide="$root.isHidden('staticPagesView4')" data-th-element-name="staticPagesView4" data-th-widget="staticPages.view" data-widget-static-pages-view="" ng-controller="staticPagesView4"><style type="text/css">h2{font-size:20px;}</style><div class="container layout-card"> 
+ <div class="row"> 
+  <div class="col-md-12"> 
+   <h1>DZone.com Privacy Policy</h1> 
+   <p> Devada is committed to protecting your privacy. This Privacy Policy applies to the web site at dzone.com and all other affiliated sites and services (collectively, the “Site”). We are providing this Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of personal information that we collect and receive from you in connection with the Site. <br><br> This Privacy Policy does not apply to: (1) activities that occur offline; or (2) to information we collect outside of the Sites, including through any AnswerHub-powered site or the www.devada.com website provided by DZone. The Site is made available free of charge only because advertisers and sponsors on the Site cover the costs associated with hosting and operating the Site. As further described below, by clicking on advertisements on the Site and taking advantage of sponsored content on the Site, you consent to the delivery of the personal information gathered by Devada to Devada’s advertisers and sponsors. </p> 
+   <h2> Collection of Personal Data </h2> 
+   <p> When inquiring about use of or subscribing to or otherwise using the Site, you may provide certain personally identifiable information necessary for use of the Site and for communicating with you. The data collected includes information about you that can be used to contact or identify you, and information related to your use or potential use of Site (collectively, “Personal Information”). Personal Information that we collect may include without limitation name, email address, organization, job title, and phone number. <br><br> In addition, Devada uses a data enrichment service named Clearbit to augment your personal information. When you create a new account, we use Clearbit’s API to enrich the profile data associated with your email address. This may include your company information, job title, and links to your social profiles. We use this data to better understand the attributes of users of our content. You can see, edit, and delete what personal information Clearbit stores about you on their website: https://claim.clearbit.com/claim. We also work with a service called Email Hunter (https://hunter.io/privacy-policy) to find personal email addresses of subject matter experts in our target market. We also work with additional third parties (including, for example, technical contractors, data analytics providers, search information providers) and may receive information about you from them and from publicly available sources. <br><br> Within our Site, if you interact with other users, the Site may share additional information with such other users. The additional information you share by participating in these types of communications is your choice and responsibility and the privacy of such information cannot be guaranteed. Similarly, information you share through messaging within our Site is solely your responsibility. We will maintain your personal data so long as your account is active. </p> 
+   <h2> Use of Cookies and Tracking Technologies </h2> 
+   <p> We use cookies as part of the Site to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process. <br><br> We also use session ID cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close your browser. If you reject cookies, you may still use our Site, but your ability to use some areas of our Site will be limited. <br><br> We also may use pixel tags, web beacons and other similar technologies to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, which are also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. The information we obtain in this manner enables us to customize the Site and to measure the overall effectiveness of the Site’s content, programming and other activities. Devada uses Google Analytics to measure site traffic, visitor behavior, and to improve delivery of services. To understand the information shared with Google, how it is processed, and how you can control the information collected by Google on the Site, visit https://policies.google.com/technologies/partner-sites. <br><br> In addition to personal information, certain anonymous information about your visit is automatically captured when you visit the Site. This information includes the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site, geographic data, and the Internet address of the Web site from which you linked directly to our Site. We also may use your IP address to determine the organization that you are affiliated with. This anonymous information is used to help improve the Site, analyze trends, and administer the Site. <br><br> We may monitor your interactions with the Site, such as what pages you visit, what content you review, and what comments you make, and maintain this information with your Site profile. </p> 
+   <h2> Use and Disclosure of Information </h2> 
+   <p> We do not sell, rent, use or share your personal information with others except as indicated in this Privacy Policy. We may use your Personal Information to: </p>
+   <ul> 
+    <li>provide the Site and associated content and services,</li> 
+    <li>complete information for you including your name, signature, and profile picture when you post content to the Site,</li> 
+    <li>support and maintain the Site,</li> 
+    <li>improve and update the Site,</li> 
+    <li>communicate information to you that you have requested,</li> 
+    <li>for our marketing, research and development purposes, and</li> 
+    <li>for other purposes specified in this Privacy Policy or at the time information is requested from you.</li> 
+   </ul> Comments or questions sent to us using email or other messaging tools will be shared with our staff that is most likely to be able to address your concerns. We may archive your messages once we have provided you with a response. If we find your personal question valuable to community discussion, we reserve the right to post your question on the Site, after using reasonable efforts to remove any names or personal identification. Please note that email communications will not necessarily be secure; accordingly, you should not include sensitive information in email correspondence with us. 
+   <br>
+   <br> Devada may aggregate your information with other users’ information to determine and distribute aggregated statistics and information about the Site and its use and users. This aggregated information will not identify any specific user. 
+   <br>
+   <br> Devada may disclose your Personal Information to sponsors of content (such as white papers, product downloads, reference guides, and other content) and to advertisers on the Site when you download or otherwise access such content, or view or click on such advertisements. 
+   <br>
+   <br> Devada may also disclose your Personal Information to selected outside firms for marketing purposes. These firms are required to target their offers carefully. You may modify your account to withdraw your consent to receive offers that are not tied to your specific actions in clicking on advertisements or downloading sponsored content. 
+   <br>
+   <br> Devada may also disclose Personal Information: 
+   <ul> 
+    <li>when we have your permission to do so; or</li> 
+    <li>to companies who work for Devada to provide one or more parts of the Site or that provide related administrative functions (such as support Sites and analytics). These third parties may have access to your personal information; if they do, this access is only so that they may perform these tasks on our behalf and they are obligated not to disclose or use it for any other purpose; or</li> 
+    <li>when we believe in good faith that disclosure is reasonably necessary to (1) comply with a legal process or law, or to respond to a subpoena, court order, or government request for information, (2) enforce Terms of Service and/or other agreements between you and Devada, (3) respond to claims that any content on the Site violates the rights of third parties, or that otherwise arise from your use of the Site, or (4) protect the rights, property, or personal safety of Devada, its users, or the public.</li> 
+    <li>when required or permitted to do so by law for public safety. Disclosures may be made to protect you from a serious threat to your health or safety or to protect the health or safety of another person.</li> 
+   </ul> 
+   <p></p> 
+   <h2> Your Rights </h2> 
+   <p> You may withdraw your consent for disclosure of your Personal Information to sponsors of third-party content by providing notice to Devada at the address or email address noted below at the end of this document. If you withdraw your consent, your account will either be suspended or removed, or you will be restricted from downloading such content. <br><br> You have the right to access and edit, update or delete your personal information by logging onto the Site and accessing your account information. You may contact us with any questions or if you need assistance in updating or deleting your personal information. You can ask us for a copy of your personal data at the email address noted below at the end of this document and it will be delivered to you in machine readable form. </p> 
+   <h2> Third Parties and Links </h2> 
+   <p> This Privacy Policy applies only to our Site. We may provide links to other information and sites that we believe may be of interest to our users. Their sites may collect or request personally identifiable information from you. You should review the privacy policy of these sites before providing such information, as these sites are not covered by our Privacy Policy. We cannot guarantee the standards of sites to which we link or be responsible for the contents, or privacy practices and policies, of these and other third-party sites. We encourage you to read the privacy policy of every site you visit. <br><br> Our Site may include social media features, including the Facebook Like button and widgets, such as the “share this” button or interactive mini-programs that run on our Site. These features may collect your IP address, where you are using our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features and widgets are governed by the privacy policy of the company that created the feature. </p> 
+   <h2> Access to Account </h2> 
+   <p> If you are a registered user of the Site, you can change your account information through your user profile page. You may need to supply certain information so that we can try to verify that you have authority to modify this information. </p> 
+   <h2> Opt-Out </h2> 
+   <p> You may opt-out of receiving certain marketing communications from us, by emailing us at privacy@devada.com. In addition, all marketing e-mails from DZone will provide you with the opportunity to unsubscribe from future marketing mailings. Even if you opt out of such mailings, however, we reserve the right to send you e-mail and other communications to disclose maintenance and other Site-related issues. </p> 
+   <h2> Legal Requirements </h2> 
+   <p>We intend to protect your privacy to the fullest extent possible as described in this policy while also fulfilling our responsibility to uphold all applicable laws and regulations. Due to potential legal requirements and other possible circumstances, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed or accessed in ways not otherwise described in this policy. We may be compelled under law to disclose information to government or third parties under certain circumstances or third parties may unlawfully intercept or access transmissions or private communications. Further, we can, and you hereby authorize us to, disclose any information to law enforcement or other government officials that we, in our sole discretion, believe necessary or appropriate in compliance with the law and/or government requests. </p> 
+   <h2> United States </h2> 
+   <p> The Site is hosted in the United States. If you are accessing the Site from outside the United States, please be advised that through your continued use of the Site, which is governed by U.S. law and this Privacy Policy, you are transferring your personal information to the United States and you consent to that transfer. The United States may not have the same data protection laws as your country. However, to the extent that Regulation (EU) 2016/679, the General Data Protection Regulation (“GDPR”) applies to you, DZone will comply with GDPR. </p> 
+   <h2> Security Measures </h2> 
+   <p> We have implemented reasonable and industry standard security measures on the Site to help protect against the loss, misuse and alteration of the personal information under our control. Additionally, we take reasonable steps to ensure that our third party business partners, including our hosting partners, provide sufficient protection for personal information. We will take reasonable efforts to maintain Personal Information in the area (e.g., country or continent) as specified by our Customer. We will promptly make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data. <br><br> You acknowledge that no method of transmission over the Internet, or method of electronic storage, is 100% secure, and that we cannot guarantee absolute security. If you have any questions about security on our Site, you may contact us. </p> 
+   <h2> Privacy of Children </h2> 
+   <p> Children under age 16 are not permitted to use the Site. We will not knowingly collect personally identifiable information on the Site from children under 16. If we become aware that a user of the Site is under the age 16 and has provided us with Personal Information, we may delete such information from our files and may deactivate the related account. </p> 
+   <h2> In the Event of Merger, Sale or Bankruptcy </h2> 
+   <p> In the event that all or part of Devada is acquired by or merged with a third-party entity, Devada may transfer or assign the personally identifiable information held by Devada as part of such merger, acquisition, or other change of control. In the unlikely event of Devada's bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, Devada may not be able to control how personal information is treated, transferred, or used. </p> 
+   <h2> Changes to this Privacy Policy </h2> 
+   <p> This policy may be revised by us from time to time. By using this Site you agree that we have a right to change our policy without prior notification. The revised policy will appear on our Site with the date of last revision. Your continued use of the Site following such revisions will be conclusively deemed acceptance of any changes to these Terms. <br><br> If you have any questions or complaints regarding this Privacy Policy, please email us or write to: <br><br> Devada<br> 600 Park Offices Dr.<br> Suite 150 <br> Research Triangle Park, NC 27709<br> <a href="mailto:privacy@devada.com">privacy@devada.com</a><br><br> If you believe you have not received an appropriate response from us regarding your question or complaint, you may contact the applicable supervisory authority below based on your residence: </p>
+   <ul> 
+    <li>EU Data Protection Authorities (DPAs)</li> 
+    <li>Swiss Federal Data Protection and Information Commissioner (FDPIC)</li> 
+   </ul> 
+   <br> Last Revised: July 2019 
+   <p></p> 
+  </div> 
+ </div> 
 </div></div></div></div><div class="container-fluid footerOuter" th-element="footerOuter" th-element-groups="[]" ng-hide="$root.isHidden('footerOuter')" data-th-element-name="footerOuter"><div class="row row2" th-element="row2" th-element-groups="['footerOuter']" ng-hide="$root.isHidden('row2')" data-th-element-name="row2"><div class="col-md-12 container3" th-element="container3" th-element-groups="['footerOuter','row2']" ng-hide="$root.isHidden('container3')" data-th-element-name="container3"><div class="container container3" th-element="container3" th-element-groups="['footerOuter','row2','container3']" ng-hide="$root.isHidden('container3')" data-th-element-name="container3"><div class="row footer" th-element="footer" th-element-groups="['footerOuter','row2','container3','container3']" ng-hide="$root.isHidden('footer')" data-th-element-name="footer"><div class="col-md-12 footerFooterV25 footerFooterV2 oUhbdrfPmhwBdrfXM" th-element="footerFooterV25" th-element-groups="['footerOuter','row2','container3','container3','footer']" ng-hide="$root.isHidden('footerFooterV25')" data-th-element-name="footerFooterV25" data-th-widget="footer.footerV2" data-widget-footer-footer-v2="" ng-controller="footerFooterV25"><div class="row footerContainer">
     <!-- CHANGES -->
 <div class="left col-xs-12 col-sm-7 col-md-7 col-lg-7">
@@ -306,16 +351,16 @@ https://devada.com/careers/
                 <a href="/pages/feeds" target="_blank"><i class="icon-rss-1"></i></a>
             </li>
             <li class="twitter-icon">
-                <a href="https://twitter.com/DZone" target="_blank"><i class="icon-twitter"></i></a>
+                <a href="https://twitter.com/DZoneInc" target="_blank"><i class="icon-twitter"></i></a>
             </li>
             <li class="facebook-icon">
-                <a href="https://www.facebook.com/DZone-259639764711" target="_blank"><i class="icon-facebook-1"></i></a>
+                <a href="https://www.facebook.com/DZoneInc" target="_blank"><i class="icon-facebook-1"></i></a>
             </li>
             <li class="google-icon">
                 <a href="https://plus.google.com/+dzone/posts" target="_blank"><i class="icon-gplus"></i></a>
             </li>
             <li class="linkedin-icon">
-                <a href="https://www.linkedin.com/company/dzone" target="_blank"><i class="icon-linkedin-1"></i></a>
+                <a href="https://www.linkedin.com/company/devada-team" target="_blank"><i class="icon-linkedin-1"></i></a>
             </li>
         </ul>
     </div>
@@ -380,20 +425,20 @@ https://devada.com/careers/
                 <a href="/pages/feeds" target="_blank"><i class="icon-rss-1"></i></a>
             </li>
             <li class="twitter-icon">
-                <a href="https://twitter.com/DZone" target="_blank"><i class="icon-twitter"></i></a>
+                <a href="https://twitter.com/DZoneInc" target="_blank"><i class="icon-twitter"></i></a>
             </li>
             <li class="facebook-icon">
-                <a href="https://www.facebook.com/DZone-259639764711" target="_blank"><i class="icon-facebook-1"></i></a>
+                <a href="https://www.facebook.com/DZoneInc" target="_blank"><i class="icon-facebook-1"></i></a>
             </li>
             <li class="linkedin-icon">
-                <a href="https://www.linkedin.com/company/devada-inc" target="_blank"><i class="icon-linkedin-1"></i></a>
+                <a href="https://www.linkedin.com/company/devada-team" target="_blank"><i class="icon-linkedin-1"></i></a>
             </li>
         </ul>
     </div>
 
     <div class="col-xs-12 powered-by">
         <p>DZone.com is powered by&nbsp;</p>
-        <a href="http://dzonesoftware.com/"><img src="/themes/dz20/images/AnswerHub_Devada_White_700.png"></a>
+        <a href="https://devada.com/answerhub/"><img data-src="/themes/dz20/images/answerhub_logo_white_footer.png" class="lazyload"></a>
     </div>
 
 </div>
@@ -404,7 +449,6 @@ https://devada.com/careers/
     <div class="row">
         <a href="#" class="back-to-top"><i class="icon-up-big"></i></a>
     </div>
-
 
 
     <script type="text/ng-template" id="/themes/dz20/widgets/header/sections/widget.html">
@@ -432,7 +476,52 @@ https://devada.com/careers/
 
     </script>
 
-<script type="text/ng-template" id="dzfollow.html"><button class="btn btn-follow" ng-class="{'btn-success': !status.followed, 'btn-warning': status.followed, 'hidden': followed.id == $root.user.id}" ng-click="follow()"><span ng-if="!status.followed"><i class="icon-plus"></i> Follow</span><span ng-if="status.followed" class="following">Following</span><span ng-if="status.followed" class="hover">Unfollow</span></button></script><script type="text/ng-template" id="dztopicselect.html"><ui-select  ng-if="canAddTopics" ng-model="editing.topics" theme="bootstrap" multiple tagging tagging-label="(add topic)"
+<script type="text/ng-template" id="followus.html">
+<div class="top-social">
+    <p>Let's be friends:</p>
+    <ul class="icons-only" ng-class="{open: isOpen}" click-outside="outside()">
+        <li class="rss-icon" id="rss-spotlight-1">
+            <a href="/pages/feeds"><i class="icon-rss-1"></i></a>
+        </li>
+        <li class="twitter-icon">
+            <a href="https://twitter.com/DZoneInc" target="_blank"><i class="icon-twitter"></i></a>
+        </li>
+        <li class="facebook-icon">
+            <a href="https://www.facebook.com/DZoneInc" target="_blank"><i class="icon-facebook-1"></i></a>
+        </li>
+        <li class="google-icon">
+            <a href="https://plus.google.com/+dzone/posts" target="_blank"><i class="icon-gplus"></i></a>
+        </li>
+        <li class="linkedin-icon">
+            <a href="https://www.linkedin.com/company/devada-team" target="_blank"><i class="icon-linkedin-1"></i></a>
+        </li>
+
+            <ul class="social-dropdown dropdown-menu">
+                <li class="rss" id="rss-spotlight"><a href="/pages/feeds"><i class="icon-rss-squared"></i> <span>RSS Feed</span></a></li>
+                <li class="twitter" id="twitter-spotlight">
+                    <a href="https://twitter.com/DZoneInc" class="twitter-follow-button" data-show-count="true"
+                       data-show-screen-name="false">Follow @DZoneInc</a>
+                </li>
+                <li class="fb-like" id="fb-spotlight" data-href="https://www.facebook.com/DZoneInc"
+                    data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></li>
+                <li class="google-plus" id="gplus-spotlight">
+                    <div class="g-follow" data-annotation="bubble" data-height="20"
+                         data-href="https://plus.google.com/108688665090780146602" data-rel="publisher"></div>
+                </li>
+                <li class="linkedin" id="linkedin-spotlight">
+                    <script type="IN/FollowCompany" data-id="114427" data-counter="right"></script>
+                
+            
+    
+
+<script type="text/ng-template" id="dzlike.html">
+<div class="dz-like " ng-class="{liked: status.liked}" ng-click="like()">
+    <a href="#">
+        <i class="icon-up-dir"></i>
+        <span>{{ status.score }}</span>
+    </a>
+</div>
+</script><script type="text/ng-template" id="dztopicselect.html"><ui-select  ng-if="canAddTopics" ng-model="editing.topics" theme="bootstrap" multiple tagging tagging-label="(add topic)"
            tagging-tokens=",">
     <ui-select-match class="input-tags"><div class="topics-tag">{{ $item }}</div></ui-select-match>
     <ui-select-choices
@@ -451,66 +540,7 @@ https://devada.com/careers/
         <div ng-bind-html="topic | highlight: $select.search"></div>
     </ui-select-choices>
 </ui-select></script><script type="text/ng-template" id="dzsave.html"><i class="icon-star-empty" ng-class="{'icon-star gold': status.saved, 'icon-star-empty': !status.saved}" tooltip-html-unsafe="{{status.saved ? 'Saved' : 'Save'}}" ng-click="save()"></i>
-<!--<span ng-class="{'gold count': status.saved}">{{ status.count }}</span>--></script><script type="text/ng-template" id="dzupload.html"><span class="btn btn-upload" >
-    <div ng-bind-html="label"></div>
-    <div class="progress-container" ng-style="{visibility: uploading ? 'visible' : 'hidden'}">
-        <progressbar max="100" value="progress"><span>{{ progress }}</span></progressbar>
-    </div>
-    <input type="file" ng-file-drop ng-file-select ng-file-change="upload($files)" />
-</span></script><script type="text/ng-template" id="inline-editable.html"><div class="inline-editable" ng-if="!status.editing" ng-click="edit()" ng-transclude></div>
-<div class="inline-editor-wrapper" ng-if="status.editing">
-    <textarea class="inline-editor" ng-model="status.editValue" ng-if="type == 'textarea'"></textarea>
-    <input class="inline-editor" ng-model="status.editValue" ng-if="type == 'input'"></textarea>
-    <div class="inline-editor-tools">
-        <button class="btn select-ok" ng-disabled="!status.editValue" ng-click="save()"><i class="icon-check-1"></i></button>
-        <button class="btn select-cancel" ng-disabled="!editable" ng-click="cancel()"><i class="icon-cancel-1"></i></button>
-    </div>
-</div></script><script type="text/ng-template" id="dzlike.html">
-<div class="dz-like " ng-class="{liked: status.liked}" ng-click="like()">
-    <a href="#">
-        <i class="icon-up-dir"></i>
-        <span>{{ status.score }}</span>
-    </a>
-</div>
-</script><script type="text/ng-template" id="dzphoto.html"><i class="icon-camera-alt photo" type="file" ng-file-drop ng-file-select ng-file-change="upload($files)"></i></script><script type="text/ng-template" id="followus.html">
-<div class="top-social">
-    <p>Let's be friends:</p>
-    <ul class="icons-only" ng-class="{open: isOpen}" click-outside="outside()">
-        <li class="rss-icon" id="rss-spotlight-1">
-            <a href="/pages/feeds"><i class="icon-rss-1"></i></a>
-        </li>
-        <li class="twitter-icon">
-            <a href="https://twitter.com/DZone" target="_blank"><i class="icon-twitter"></i></a>
-        </li>
-        <li class="facebook-icon">
-            <a href="https://www.facebook.com/DZone-259639764711" target="_blank"><i class="icon-facebook-1"></i></a>
-        </li>
-        <li class="google-icon">
-            <a href="https://plus.google.com/+dzone/posts" target="_blank"><i class="icon-gplus"></i></a>
-        </li>
-        <li class="linkedin-icon">
-            <a href="https://www.linkedin.com/company/dzone" target="_blank"><i class="icon-linkedin-1"></i></a>
-        </li>
-
-            <ul class="social-dropdown dropdown-menu">
-                <li class="rss" id="rss-spotlight"><a href="/pages/feeds"><i class="icon-rss-squared"></i> <span>RSS Feed</span></a></li>
-                <li class="twitter" id="twitter-spotlight">
-                    <a href="https://twitter.com/DZone" class="twitter-follow-button" data-show-count="true"
-                       data-show-screen-name="false">Follow @DZone</a>
-                </li>
-                <li class="fb-like" id="fb-spotlight" data-href="https://www.facebook.com/DZone-259639764711/timeline/"
-                    data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></li>
-                <li class="google-plus" id="gplus-spotlight">
-                    <div class="g-follow" data-annotation="bubble" data-height="20"
-                         data-href="https://plus.google.com/108688665090780146602" data-rel="publisher"></div>
-                </li>
-                <li class="linkedin" id="linkedin-spotlight">
-                    <script type="IN/FollowCompany" data-id="114427" data-counter="right"></script>
-                
-            
-    
-
-<script type="text/ng-template" id="overlay.html"><div class="ngdialog th-overlay">
+<!--<span ng-class="{'gold count': status.saved}">{{ status.count }}</span>--></script><script type="text/ng-template" id="overlay.html"><div class="ngdialog th-overlay">
     <div class="ngdialog-overlay">
         <div class="overlay-box">
             <i class="icon-spin5 animate-spin"></i>
@@ -518,7 +548,21 @@ https://devada.com/careers/
             <p>{{ message }}</p>
         </div>
     </div>
-</div></script><script type="text/ng-template" id="dialog.confirm.html"><p>{{ message }}</p></script><script type="text/ng-template" id="dialog.skeleton.html"><div class="dialog-title">
+</div></script><script type="text/ng-template" id="inline-editable.html"><div class="inline-editable" ng-if="!status.editing" ng-click="edit()" ng-transclude></div>
+<div class="inline-editor-wrapper" ng-if="status.editing">
+    <textarea class="inline-editor" ng-model="status.editValue" ng-if="type == 'textarea'"></textarea>
+    <input class="inline-editor" ng-model="status.editValue" ng-if="type == 'input'"></textarea>
+    <div class="inline-editor-tools">
+        <button class="btn select-ok" ng-disabled="!status.editValue" ng-click="save()"><i class="icon-check-1"></i></button>
+        <button class="btn select-cancel" ng-disabled="!editable" ng-click="cancel()"><i class="icon-cancel-1"></i></button>
+    </div>
+</div></script><script type="text/ng-template" id="dzupload.html"><span class="btn btn-upload" >
+    <div ng-bind-html="label"></div>
+    <div class="progress-container" ng-style="{visibility: uploading ? 'visible' : 'hidden'}">
+        <progressbar max="100" value="progress"><span>{{ progress }}</span></progressbar>
+    </div>
+    <input type="file" ng-file-drop ng-file-select ng-file-change="upload($files)" />
+</span></script><script type="text/ng-template" id="dzfollow.html"><button class="btn btn-follow" ng-class="{'btn-success': !status.followed, 'btn-warning': status.followed, 'hidden': followed.id == $root.user.id}" ng-click="follow()"><span ng-if="!status.followed"><i class="icon-plus"></i> Follow</span><span ng-if="status.followed" class="following">Following</span><span ng-if="status.followed" class="hover">Unfollow</span></button></script><script type="text/ng-template" id="dzphoto.html"><i class="icon-camera-alt photo" type="file" ng-file-drop ng-file-select ng-file-change="upload($files)"></i></script><script type="text/ng-template" id="dialog.confirm.html"><p>{{ message }}</p></script><script type="text/ng-template" id="dialog.skeleton.html"><div class="dialog-title">
     <h1 ng-if="$dialog.title">{{ $dialog.title }}</h1>
 </div>
 <div class="dialog-body {{ $dialog.extraClass }}" ng-include="$dialog.template"></div>
@@ -544,18 +588,17 @@ https://devada.com/careers/
         TH_CORE_VARS.additional = {};
 
         TH_CORE_VARS.additional.request = [{"site":{"keywords":"programming, software development, devops, java, agile, web, iot, database, mobile, big data, cloud","name":"DZone.com","description":"Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts. Hundreds of free publications, over 1M members, totally free.","id":7,"title":"DZone: Programming & DevOps news, tutorials & tools"},"dev":false,"context":"","theme":"dz20","cdn":["dz2cdn1.dzone.com","dz2cdn2.dzone.com","dz2cdn3.dzone.com","dz2cdn4.dzone.com"],"user":{"realName":null,"authenticated":false,"profile":"/users/2500002/anon-user.html","name":"Anonymous","GDPRStatus":null,"id":2500002,"avatar":"https://secure.gravatar.com/avatar/?d=identicon&r=PG"}}];
-        TH_CORE_VARS.additional.loadedScripts = [["/lib/jquery/jquery.js","/lib/lodash/lodash.js","/lib/moment/moment.js","/scripts/utils.js","/lib/angular/angular.js","/lib/angular/angular-sanitize.js","/lib/local-storage/angular-local-storage.js","/lib/bootstrap/dropdown.js","/lib/angular-ui/bootstrap.js","/lib/angular-ui/select.js","/lib/bootstrap-switch/bootstrap-switch.js","/lib/ngDialog/js/ngDialog.js","/lib/angular-moment/angular-moment.js","/scripts/app.js","/scripts/socket.js","/scripts/services.js","/scripts/ui-services.js","/scripts/directives.js","/scripts/filters.js","/lib/angular/angular-cookies.js","/lib/angulartics/angulartics.js","/lib/angulartics/angulartics-ga.js","/lib/angular-touch/angular-touch.min.js","/lib/elastic/elastic.js","/lib/ng-file-upload/angular-file-upload-all.js","/scripts/dzone.js","/scripts/ads.js","/scripts/social-media.js","/scripts/head.js","/scripts/links.js","/scripts/utilities/directives.js","/scripts/utilities/services.js","/scripts/utilities/editor.js","/lib/bootstrap-slider/bootstrap-slider.js","/lib/bootstrap-slider/directive.js","/lib/sb/sb.js","/lib/flexmenu/flexmenu.min.js","/widgets/header/headerV2/resize.js"]];
+        TH_CORE_VARS.additional.loadedScripts = [["/lib/jquery/jquery.js","/lib/lodash/lodash.js","/lib/moment/moment.js","/scripts/utils.js","/lib/angular/angular.js","/lib/angular/angular-sanitize.js","/lib/local-storage/angular-local-storage.js","/lib/bootstrap/dropdown.js","/lib/angular-ui/bootstrap.js","/lib/angular-ui/select.js","/lib/bootstrap-switch/bootstrap-switch.js","/lib/ngDialog/js/ngDialog.js","/lib/angular-moment/angular-moment.js","/scripts/app.js","/scripts/socket.js","/scripts/services.js","/scripts/ui-services.js","/scripts/directives.js","/scripts/filters.js","/lib/angular/angular-cookies.js","/lib/angulartics/angulartics.js","/lib/angulartics/angulartics-ga.js","/lib/angular-touch/angular-touch.min.js","/lib/dataTables/datatables.min.js","/lib/elastic/elastic.js","/lib/ng-file-upload/angular-file-upload-all.js","/scripts/dzone.js","/scripts/ads.js","/scripts/social-media.js","/scripts/head.js","/scripts/links.js","/scripts/utilities/directives.js","/scripts/utilities/services.js","/scripts/utilities/editor.js","/lib/bootstrap-slider/bootstrap-slider.js","/lib/bootstrap-slider/directive.js","/lib/sb/sb.js","/widgets/header/headerV2/resize.js"]];
         TH_CORE_VARS.additional.botInfo = [{"isRenderBot":false}];
         TH_CORE_VARS.additional.portals = [[{"hideFromHomepageWidgets":false,"hideFromNav":false,"code":"agile","color":"red","name":"Agile","topic":8,"id":2,"shortTitle":"agile-methodology-training-tools-news","url":"/agile-methodology-training-tools-news"},{"hideFromHomepageWidgets":false,"hideFromNav":false,"code":"ai","color":"purple","name":"AI","topic":2551,"id":4001,"shortTitle":"artificial-intelligence-tutorials-tools-news","url":"/artificial-intelligence-tutorials-tools-news"},{"hideFromHomepageWidgets":false,"hideFromNav":false,"code":"big-data","color":"green","name":"Big Data","topic":6129,"id":3,"shortTitle":"big-data-analytics-tutorials-tools-news","url":"/big-data-analytics-tutorials-tools-news"},{"hideFromHomepageWidgets":false,"hideFromNav":false,"code":"cloud","color":"orange","name":"Cloud","topic":30,"id":4,"shortTitle":"cloud-computing-tutorials-tools-news","url":"/cloud-computing-tutorials-tools-news"},{"hideFromHomepageWidgets":false,"hideFromNav":false,"code":"database","color":"purple","name":"Database","topic":59,"id":5,"shortTitle":"database-sql-nosql-tutorials-tools-news","url":"/database-sql-nosql-tutorials-tools-news"},{"hideFromHomepageWidgets":false,"hideFromNav":false,"code":"devops","color":"yellow","name":"DevOps","topic":31,"id":6,"shortTitle":"devops-tutorials-tools-news","url":"/devops-tutorials-tools-news"},{"hideFromHomepageWidgets":false,"hideFromNav":false,"code":"integration","color":"green","name":"Integration","topic":1138,"id":7,"shortTitle":"enterprise-integration-training-tools-news","url":"/enterprise-integration-training-tools-news"},{"hideFromHomepageWidgets":false,"hideFromNav":false,"code":"iot","color":"orange","name":"IoT","topic":48,"id":8,"shortTitle":"iot-developer-tutorials-tools-news-reviews","url":"/iot-developer-tutorials-tools-news-reviews"},{"hideFromHomepageWidgets":false,"hideFromNav":false,"code":"java","color":"purple","name":"Java","topic":1,"id":1,"shortTitle":"java-jdk-development-tutorials-tools-news","url":"/java-jdk-development-tutorials-tools-news"},{"hideFromHomepageWidgets":false,"hideFromNav":false,"code":"microservices","color":"green","name":"Microservices","topic":13268,"id":6001,"shortTitle":"microservices-news-tutorials-tools","url":"/microservices-news-tutorials-tools"},{"hideFromHomepageWidgets":true,"hideFromNav":true,"code":"mobile","color":"yellow","name":"Mobile","topic":29,"id":9,"shortTitle":"mobile-app-developer-tutorials-tools-news","url":"/mobile-app-developer-tutorials-tools-news"},{"hideFromHomepageWidgets":false,"hideFromNav":false,"code":"open-source","color":"purple","name":"Open Source","topic":75,"id":7001,"shortTitle":"open-source-news-tutorials-tools","url":"/open-source-news-tutorials-tools"},{"hideFromHomepageWidgets":false,"hideFromNav":false,"code":"performance","color":"red","name":"Performance","topic":653,"id":10,"shortTitle":"apm-tools-performance-monitoring-optimization","url":"/apm-tools-performance-monitoring-optimization"},{"hideFromHomepageWidgets":false,"hideFromNav":false,"code":"security","color":"green","name":"Security","topic":85,"id":2001,"shortTitle":"application-web-network-security","url":"/application-web-network-security"},{"hideFromHomepageWidgets":false,"hideFromNav":false,"code":"webdev","color":"orange","name":"Web Dev","topic":35,"id":11,"shortTitle":"web-development-programming-tutorials-tools-news","url":"/web-development-programming-tutorials-tools-news"},{"hideFromHomepageWidgets":true,"hideFromNav":true,"code":"inspiration-station ","color":"purple","name":"Writers'","topic":16873,"id":3001,"shortTitle":"writers-zone","url":"/writers-zone"}]];
-        TH_CORE_VARS.additional.loadedStyles = [["/lib/bootstrap/bootstrap.less","/lib/fontello/css/fontello.css","/lib/fontello/css/animation.css","/lib/angular-ui/select.css","/lib/ngDialog/css/ngDialog.css","/less/ngDialog-theme.less","/less/container.less","/lib/bootstrap-switch/bootstrap-switch.css","/less/dzone20.less","/less/fonts.less","/less/directives.less","/lib/sb/sb.css","/lib/bootstrap-slider/bootstrap-slider.css","/less/layout.less","/widgets/announcementBar/widget.less","/widgets/footer/footerV2/footerV2.less","/widgets/header/headerV2/widget.less","/widgets/staticPages/view/widget.less"]];
-        TH_CORE_VARS.additional.model = [{"metaData":{"title":"DZone","description":"Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts. Hundreds of free publications, over 1M members, totally free.","keywords":"programming, software development, devops, java, agile, web, iot, database, mobile, big data, cloud","siteName":"dzone.com","url":"https://dzone.com","img":null,"imgprop":"og:image","twitterImage":null,"type":null,"wordCount":null,"canonical":"https://dzone.com/pages/privacy","noIndex":false,"noFollow":false,"prevPage":null,"nextPage":null,"pubDate":null,"id":null,"author":null,"section":null,"useEscapedFragment":false,"robots":false,"robotsTag":""},"page":{"id":"809213","type":"page","creationDate":1435672867000,"creationDateFormatted":"06/30/2015 02:01 PM","title":"Privacy","body":"\n<div class=\"layout-card\" style=\"    border-top: 3px solid #B8B9B9 !important;\n    border: 1px solid #d9dcdd;\n    background-color: #ffffff;\n    padding: 15px;\n    margin-bottom: 17px;\">\n<h1>DZone.com Privacy Policy</h1>\n\n<p>DZone is committed to protecting your privacy. This Privacy Policy applies to the web site at dzone.com and all other affiliated sites and services (collectively, the “Site”).  We are providing this Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of personal information that we collect and receive from you in connection with the Site.</p>\n\n<p>This Privacy Policy does not apply to: (1) activities that occur offline; or (2) to information we collect outside of the Sites, including through any AnswerHub-powered site or the www.devada.com website provided by DZone.</p> \n\n<p>The Site is made available free of charge only because advertisers and sponsors on the Site cover the costs associated with hosting and operating the Site.   As further described below, by clicking on advertisements on the Site and taking advantage of sponsored content on the Site, you consent to the delivery of the personal information gathered by DZone to DZone’s advertisers and sponsors. </p>\n\n<h2>Collection of Personal Data</h2> \n<p>When inquiring about use of or subscribing to or otherwise using the Site, you may provide certain personally identifiable information necessary for use of the Site and for communicating with you.  The data collected includes information about you that can be used to contact or identify you, and information related to your use or potential use of Site (collectively, “Personal Information”).  Personal Information that we collect may include without limitation name, email address, organization, job title, and phone number.</p>\n\n\n<p>Within our Site, if you interact with other users, the Site may share additional information with such other users.  The additional information you share by participating in these types of communications is your choice and responsibility and the privacy of such information cannot be guaranteed.  Similarly, information you share through messaging within our Site is solely your responsibility.</p>\n\n<p>We will maintain your personal data so long as your account is active.</p>\n\n<h2>Use of Cookies and Tracking Technologies</h2>\n<p>We use cookies as part of the Site to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process.</p>  \n\n<p>We also use session ID cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close your browser. If you reject cookies, you may still use our Site, but your ability to use some areas of our Site will be limited.</p> \n\n<p>We also may use pixel tags, web beacons and other similar technologies to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, which are also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. The information we obtain in this manner enables us to customize the Site and to measure the overall effectiveness of the Site’s content, programming and other activities.\nDZone uses Google Analytics to measure site traffic, visitor behavior, and to improve delivery of services. To understand the information shared with Google, how it is processed, and how you can control the information collected by Google on DZone, visit <a href=\"https://policies.google.com/technologies/partner-sites\">https://policies.google.com/technologies/partner-sites</a>. </p> \n\n\n<p>In addition to personal information, certain anonymous information about your visit is automatically captured when you visit the Site. This information includes the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site, occasional geographic data, and the Internet address of the Web site from which you linked directly to our site. We also may use your IP address to determine the organization that you are affiliated with.  This anonymous information is used to help improve the Site, analyze trends, and administer the Site.</p>\n\n<p>We may monitor your interactions with the Site, such as what pages you visit, what content you review, and what comments you make, and maintain this information with your Site profile.  </p>\n\n<h2>Use and Disclosure of Information</h2> \n<p>We do not sell, rent, use or share your personal information with others except as indicated in this Privacy Policy.</p>\n\n<p>We may use your Personal Information to:\n<ul>\n<li>provide the Site and associated content and services,</li> \n<li>complete information for you including your name, signature, and profile picture when you post content to the Site,</li> \n<li>support and maintain the Site,</li>\n<li>improve and update the Site,</li> \n<li>communicate information to you that you have requested,</li> \n<li>for our marketing, research and development purposes, and</li> \n<li>for other purposes specified in this Privacy Policy or at the time information is requested from you.</li>\n</ul></p>\n\n<p>Comments or questions sent to us using email or other messaging tools will be shared with our staff that is most likely to be able to address your concerns. We may archive your messages once we have provided you with a response. If we find your personal question valuable to community discussion, we reserve the right to post your question on the Site, after using reasonable efforts to remove any names or personal identification.  Please note that email communications will not necessarily be secure; accordingly, you should not include sensitive information in email correspondence with us.  </p>\n\n<p>DZone may aggregate your information with other users’ information to determine and distribute aggregated statistics and information about the Site and its use and users.  This aggregated information will not identify any specific user.</p>\n\n<p>DZone may disclose your Personal Information to sponsors of content (such as white papers, product downloads, reference guides, and other content) and to advertisers on the Site when you download or otherwise access such content, or view or click on such advertisements.</p>\n\n<p>DZone may also disclose your Personal Information to selected outside firms for marketing purposes.  These firms are required to target their offers carefully.  You may modify your account to withdraw your consent to receive offers that are not tied to your specific actions in clicking on advertisements or downloading sponsored content.</p>\n\n<p>DZone may also disclose Personal Information:\n\t<ul>\n<li>when we have your permission to do so; or</li>\n<li>to companies who work for DZone to provide one or more parts of the Site or that provide related administrative functions (such as support Sites and analytics).  These third parties may have access to your personal information; if they do, this access is only so that they may perform these tasks on our behalf and they are obligated not to disclose or use it for any other purpose; or</li>\n<li>when we believe in good faith that disclosure is reasonably necessary to (1) comply with a legal process or law, or to respond to a subpoena, court order, or government request for information, (2) enforce Terms of Service and/or other agreements between you and DZone, (3) respond to claims that any content on the Site violates the rights of third parties, or that otherwise arise from your use of the Site, or (4) protect the rights, property, or personal safety of DZone, its users, or the public.</li>\n<li>when required or permitted to do so by law for public safety. Disclosures may be made to protect you from a serious threat to your health or safety or to protect the health or safety of another person.</li>\n</ul></p>\n\n<h2>Your Rights</h2>\n\n<p>You may withdraw your consent for disclosure of your Personal Information to sponsors of third-party content by providing notice to DZone at the address or email address noted below.  If you withdraw your consent, your account will either be suspended or removed, or you will be restricted from downloading such content.</p>\n\n<p>You have the right to access and edit, update or delete your personal information by logging onto the Site and accessing your account information.  You may contact us with any questions or if you need assistance in updating or deleting your personal information.</p>\n\n<p>You can ask us for a copy of your personal data in machine readable form.</p>\n\n<h2>Third Parties and Links</h2>\n<p>This Privacy Policy applies only to our Site. We may provide links to other information and sites that we believe may be of interest to our users. Their sites may collect or request personally identifiable information from you. You should review the privacy policy of these sites before providing such information, as these sites are not covered by our Privacy Policy. We cannot guarantee the standards of sites to which we link or be responsible for the contents, or privacy practices and policies, of these and other third-party sites. We encourage you to read the privacy policy of every site you visit.</p>\n\n<p>Our Site may include social media features, including the Facebook Like button and widgets, such as the “share this” button or interactive mini-programs that run on our Site. These features may collect your IP address, where you are using our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features and widgets are governed by the privacy policy of the company that created the feature.</p>\n\n<h2>Access to Account</h2>\n<p>If you are a registered user of the Site, you can change your account information through your user profile page.  You may need to supply certain information so that we can try to verify that you have authority to modify this information.</p>\n\n<h2>Opt-Out</h2>\n<p>You may opt-out of receiving certain marketing communications from us, by emailing us at <a href=\"mailto:privacy@dzone.com\">privacy@dzone.com</a>.  In addition, all marketing e-mails from DZone will provide you with the opportunity to unsubscribe from future marketing mailings.  Even if you opt out of such mailings, however, we reserve the right to send you e-mail and other communications to disclose maintenance and other Site-related issues.</p>\n\n<h2>Legal Requirements</h2>\n<p>We intend to protect your privacy to the fullest extent possible as described in this policy while also fulfilling our responsibility to uphold all applicable laws and regulations. Due to potential legal requirements and other possible circumstances, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed or accessed in ways not otherwise described in this policy. We may be compelled under law to disclose information to government or third parties under certain circumstances or third parties may unlawfully intercept or access transmissions or private communications. Further, we can, and you hereby authorize us to, disclose any information to law enforcement or other government officials that we, in our sole discretion, believe necessary or appropriate in compliance with the law and/or government requests.</p>\n\n<h2>United States</h2>\n<p>The Site is hosted in the United States. If you are accessing the Site from outside the United States, please be advised that through your continued use of the Site, which is governed by U.S. law and this Privacy Policy, you are transferring your personal information to the United States and you consent to that transfer.  The United States may not have the same data protection laws as your country.  However, to the extent that Regulation (EU) 2016/679, the General Data Protection Regulation (“GDPR”) applies to you, DZone will comply with GDPR. </p>  \n\n<h2>Security Measures</h2>\n<p>We have implemented reasonable and industry standard security measures on the Site to help protect against the loss, misuse and alteration of the personal information under our control. Additionally, we take reasonable steps to ensure that our third party business partners, including our hosting partners, provide sufficient protection for personal information.  We will take reasonable efforts to maintain Personal Information in the area (e.g., country or continent) as specified by our Customer.  We will promptly make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data.</p>\n\n<p>You acknowledge that no method of transmission over the Internet, or method of electronic storage, is 100% secure, and that we cannot guarantee absolute security. If you have any questions about security on our Site, you may contact us.</p>\n\n<h2>Privacy of Children</h2>\n<p>Children under age 16 are not permitted to use the Site. We will not knowingly collect personally identifiable information on the Site from children under 16. If we become aware that a user of the Site is under the age 16 and has provided us with Personal Information, we may delete such information from our files and may deactivate the related account.</p>\n\n<h2>In the Event of Merger, Sale or Bankruptcy</h2>\n<p>In the event that all or part of DZone is acquired by or merged with a third party entity, DZone may transfer or assign the personally identifiable information held by DZone as part of such merger, acquisition, or other change of control. In the unlikely event of DZone's bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, DZone may not be able to control how personal information is treated, transferred, or used.</p>\n\n<h2>Changes to this Privacy Policy</h2>\n<p>This policy may be revised by us from time to time. By using this Site you agree that we have a right to change our policy without prior notification. The revised policy will appear on our Site with the date of last revision.  Your continued use of the Site following such revisions will be conclusively deemed acceptance of any changes to these Terms.</p>\n\t\n<p>If you have any questions or complaints regarding this Privacy Policy, please email us or write to:\n<br>\nDevada<br>\n600 Park Offices Dr.<br>\nSuite 150 \n<br>Research Triangle Park, NC 27709<br>\n<a href=\"mailto:privacy@dzone.com\">privacy@dzone.com</a>\n</p>\n<p>If you believe you have not received an appropriate response from us regarding your question or complaint, you may contact the applicable supervisory authority below based on your residence:</p>\n<ul>\t\n<li>EU Data Protection Authorities (DPAs)</li>\n<li>Swiss Federal Data Protection and Information Commissioner (FDPIC)</li>\n</ul>\n<p>Last Revised:  May 2018</p>\n  </div>\n","bodyAsHTML":"<div class=\"layout-card\" style=\"    border-top: 3px solid #B8B9B9 !important;\n    border: 1px solid #d9dcdd;\n    background-color: #ffffff;\n    padding: 15px;\n    margin-bottom: 17px;\"> \n <h1>DZone.com Privacy Policy</h1> \n <p>DZone is committed to protecting your privacy. This Privacy Policy applies to the web site at dzone.com and all other affiliated sites and services (collectively, the “Site”). We are providing this Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of personal information that we collect and receive from you in connection with the Site.</p> \n <p>This Privacy Policy does not apply to: (1) activities that occur offline; or (2) to information we collect outside of the Sites, including through any AnswerHub-powered site or the www.devada.com website provided by DZone.</p> \n <p>The Site is made available free of charge only because advertisers and sponsors on the Site cover the costs associated with hosting and operating the Site. As further described below, by clicking on advertisements on the Site and taking advantage of sponsored content on the Site, you consent to the delivery of the personal information gathered by DZone to DZone’s advertisers and sponsors. </p> \n <h2>Collection of Personal Data</h2> \n <p>When inquiring about use of or subscribing to or otherwise using the Site, you may provide certain personally identifiable information necessary for use of the Site and for communicating with you. The data collected includes information about you that can be used to contact or identify you, and information related to your use or potential use of Site (collectively, “Personal Information”). Personal Information that we collect may include without limitation name, email address, organization, job title, and phone number.</p> \n <p>Within our Site, if you interact with other users, the Site may share additional information with such other users. The additional information you share by participating in these types of communications is your choice and responsibility and the privacy of such information cannot be guaranteed. Similarly, information you share through messaging within our Site is solely your responsibility.</p> \n <p>We will maintain your personal data so long as your account is active.</p> \n <h2>Use of Cookies and Tracking Technologies</h2> \n <p>We use cookies as part of the Site to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process.</p> \n <p>We also use session ID cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close your browser. If you reject cookies, you may still use our Site, but your ability to use some areas of our Site will be limited.</p> \n <p>We also may use pixel tags, web beacons and other similar technologies to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, which are also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. The information we obtain in this manner enables us to customize the Site and to measure the overall effectiveness of the Site’s content, programming and other activities. DZone uses Google Analytics to measure site traffic, visitor behavior, and to improve delivery of services. To understand the information shared with Google, how it is processed, and how you can control the information collected by Google on DZone, visit <a href=\"https://policies.google.com/technologies/partner-sites\">https://policies.google.com/technologies/partner-sites</a>. </p> \n <p>In addition to personal information, certain anonymous information about your visit is automatically captured when you visit the Site. This information includes the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site, occasional geographic data, and the Internet address of the Web site from which you linked directly to our site. We also may use your IP address to determine the organization that you are affiliated with. This anonymous information is used to help improve the Site, analyze trends, and administer the Site.</p> \n <p>We may monitor your interactions with the Site, such as what pages you visit, what content you review, and what comments you make, and maintain this information with your Site profile. </p> \n <h2>Use and Disclosure of Information</h2> \n <p>We do not sell, rent, use or share your personal information with others except as indicated in this Privacy Policy.</p> \n <p>We may use your Personal Information to: </p>\n <ul> \n  <li>provide the Site and associated content and services,</li> \n  <li>complete information for you including your name, signature, and profile picture when you post content to the Site,</li> \n  <li>support and maintain the Site,</li> \n  <li>improve and update the Site,</li> \n  <li>communicate information to you that you have requested,</li> \n  <li>for our marketing, research and development purposes, and</li> \n  <li>for other purposes specified in this Privacy Policy or at the time information is requested from you.</li> \n </ul>\n <p></p> \n <p>Comments or questions sent to us using email or other messaging tools will be shared with our staff that is most likely to be able to address your concerns. We may archive your messages once we have provided you with a response. If we find your personal question valuable to community discussion, we reserve the right to post your question on the Site, after using reasonable efforts to remove any names or personal identification. Please note that email communications will not necessarily be secure; accordingly, you should not include sensitive information in email correspondence with us. </p> \n <p>DZone may aggregate your information with other users’ information to determine and distribute aggregated statistics and information about the Site and its use and users. This aggregated information will not identify any specific user.</p> \n <p>DZone may disclose your Personal Information to sponsors of content (such as white papers, product downloads, reference guides, and other content) and to advertisers on the Site when you download or otherwise access such content, or view or click on such advertisements.</p> \n <p>DZone may also disclose your Personal Information to selected outside firms for marketing purposes. These firms are required to target their offers carefully. You may modify your account to withdraw your consent to receive offers that are not tied to your specific actions in clicking on advertisements or downloading sponsored content.</p> \n <p>DZone may also disclose Personal Information: </p>\n <ul> \n  <li>when we have your permission to do so; or</li> \n  <li>to companies who work for DZone to provide one or more parts of the Site or that provide related administrative functions (such as support Sites and analytics). These third parties may have access to your personal information; if they do, this access is only so that they may perform these tasks on our behalf and they are obligated not to disclose or use it for any other purpose; or</li> \n  <li>when we believe in good faith that disclosure is reasonably necessary to (1) comply with a legal process or law, or to respond to a subpoena, court order, or government request for information, (2) enforce Terms of Service and/or other agreements between you and DZone, (3) respond to claims that any content on the Site violates the rights of third parties, or that otherwise arise from your use of the Site, or (4) protect the rights, property, or personal safety of DZone, its users, or the public.</li> \n  <li>when required or permitted to do so by law for public safety. Disclosures may be made to protect you from a serious threat to your health or safety or to protect the health or safety of another person.</li> \n </ul>\n <p></p> \n <h2>Your Rights</h2> \n <p>You may withdraw your consent for disclosure of your Personal Information to sponsors of third-party content by providing notice to DZone at the address or email address noted below. If you withdraw your consent, your account will either be suspended or removed, or you will be restricted from downloading such content.</p> \n <p>You have the right to access and edit, update or delete your personal information by logging onto the Site and accessing your account information. You may contact us with any questions or if you need assistance in updating or deleting your personal information.</p> \n <p>You can ask us for a copy of your personal data in machine readable form.</p> \n <h2>Third Parties and Links</h2> \n <p>This Privacy Policy applies only to our Site. We may provide links to other information and sites that we believe may be of interest to our users. Their sites may collect or request personally identifiable information from you. You should review the privacy policy of these sites before providing such information, as these sites are not covered by our Privacy Policy. We cannot guarantee the standards of sites to which we link or be responsible for the contents, or privacy practices and policies, of these and other third-party sites. We encourage you to read the privacy policy of every site you visit.</p> \n <p>Our Site may include social media features, including the Facebook Like button and widgets, such as the “share this” button or interactive mini-programs that run on our Site. These features may collect your IP address, where you are using our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features and widgets are governed by the privacy policy of the company that created the feature.</p> \n <h2>Access to Account</h2> \n <p>If you are a registered user of the Site, you can change your account information through your user profile page. You may need to supply certain information so that we can try to verify that you have authority to modify this information.</p> \n <h2>Opt-Out</h2> \n <p>You may opt-out of receiving certain marketing communications from us, by emailing us at <a href=\"mailto:privacy@dzone.com\">privacy@dzone.com</a>. In addition, all marketing e-mails from DZone will provide you with the opportunity to unsubscribe from future marketing mailings. Even if you opt out of such mailings, however, we reserve the right to send you e-mail and other communications to disclose maintenance and other Site-related issues.</p> \n <h2>Legal Requirements</h2> \n <p>We intend to protect your privacy to the fullest extent possible as described in this policy while also fulfilling our responsibility to uphold all applicable laws and regulations. Due to potential legal requirements and other possible circumstances, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed or accessed in ways not otherwise described in this policy. We may be compelled under law to disclose information to government or third parties under certain circumstances or third parties may unlawfully intercept or access transmissions or private communications. Further, we can, and you hereby authorize us to, disclose any information to law enforcement or other government officials that we, in our sole discretion, believe necessary or appropriate in compliance with the law and/or government requests.</p> \n <h2>United States</h2> \n <p>The Site is hosted in the United States. If you are accessing the Site from outside the United States, please be advised that through your continued use of the Site, which is governed by U.S. law and this Privacy Policy, you are transferring your personal information to the United States and you consent to that transfer. The United States may not have the same data protection laws as your country. However, to the extent that Regulation (EU) 2016/679, the General Data Protection Regulation (“GDPR”) applies to you, DZone will comply with GDPR. </p> \n <h2>Security Measures</h2> \n <p>We have implemented reasonable and industry standard security measures on the Site to help protect against the loss, misuse and alteration of the personal information under our control. Additionally, we take reasonable steps to ensure that our third party business partners, including our hosting partners, provide sufficient protection for personal information. We will take reasonable efforts to maintain Personal Information in the area (e.g., country or continent) as specified by our Customer. We will promptly make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data.</p> \n <p>You acknowledge that no method of transmission over the Internet, or method of electronic storage, is 100% secure, and that we cannot guarantee absolute security. If you have any questions about security on our Site, you may contact us.</p> \n <h2>Privacy of Children</h2> \n <p>Children under age 16 are not permitted to use the Site. We will not knowingly collect personally identifiable information on the Site from children under 16. If we become aware that a user of the Site is under the age 16 and has provided us with Personal Information, we may delete such information from our files and may deactivate the related account.</p> \n <h2>In the Event of Merger, Sale or Bankruptcy</h2> \n <p>In the event that all or part of DZone is acquired by or merged with a third party entity, DZone may transfer or assign the personally identifiable information held by DZone as part of such merger, acquisition, or other change of control. In the unlikely event of DZone's bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, DZone may not be able to control how personal information is treated, transferred, or used.</p> \n <h2>Changes to this Privacy Policy</h2> \n <p>This policy may be revised by us from time to time. By using this Site you agree that we have a right to change our policy without prior notification. The revised policy will appear on our Site with the date of last revision. Your continued use of the Site following such revisions will be conclusively deemed acceptance of any changes to these Terms.</p> \n <p>If you have any questions or complaints regarding this Privacy Policy, please email us or write to: <br /> Devada<br /> 600 Park Offices Dr.<br /> Suite 150 <br />Research Triangle Park, NC 27709<br /> <a href=\"mailto:privacy@dzone.com\">privacy@dzone.com</a> </p> \n <p>If you believe you have not received an appropriate response from us regarding your question or complaint, you may contact the applicable supervisory authority below based on your residence:</p> \n <ul> \n  <li>EU Data Protection Authorities (DPAs)</li> \n  <li>Swiss Federal Data Protection and Information Commissioner (FDPIC)</li> \n </ul> \n <p>Last Revised: May 2018</p> \n</div>","author":{"id":1253325,"username":"chelseab","realname":"Chelsea Bosworth","emailHash":"b30771b4f7feff6ca5c51aaf366b10b27b427badd09847bfe2b2e58e56ddf9bd","avatar":"https://secure.gravatar.com/avatar/36e4ad04901bcdaf2f6445a8ce09386a?d=identicon&r=PG","reputation":1374},"lastEditedAction":34288838,"activeRevisionId":3849685,"revisionIds":[3849685,3849684,3849683,3163953,3141957,3139411,3139410,3139409,3139408,3139406,3139403,3130451,2506142,952388,931428],"lastActiveUserId":1174949,"lastActiveDate":1546449004000,"parentId":null,"parentAuthor":null,"originalParentId":null,"childrenIds":[],"commentIds":[],"marked":false,"topics":[],"primaryContainerId":8,"containerIds":[8,7],"plug":"pages/privacy","wiki":false,"score":0,"depth":0}}];
+        TH_CORE_VARS.additional.loadedStyles = [["/lib/bootstrap/bootstrap.less","/lib/fontello/css/fontello.css","/lib/fontello/css/animation.css","/lib/angular-ui/select.css","/lib/ngDialog/css/ngDialog.css","/less/ngDialog-theme.less","/less/container.less","/lib/bootstrap-switch/bootstrap-switch.css","/lib/dataTables/datatables.min.css","/less/dzone20.less","/less/fonts.less","/less/directives.less","/lib/sb/sb.css","/lib/bootstrap-slider/bootstrap-slider.css","/less/layout.less","/widgets/announcementBar/widget.less","/widgets/footer/footerV2/footerV2.less","/widgets/header/headerV2/widget.less","/widgets/staticPages/view/widget.less"]];
+        TH_CORE_VARS.additional.model = [{"metaData":{"title":"DZone","description":"Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts. Hundreds of free publications, over 1M members, totally free.","keywords":"programming, software development, devops, java, agile, web, iot, database, mobile, big data, cloud","siteName":"dzone.com","url":"https://dzone.com","img":null,"imgprop":"og:image","twitterImage":null,"type":null,"wordCount":null,"canonical":"https://dzone.com/pages/privacy","noIndex":false,"noFollow":false,"prevPage":null,"nextPage":null,"pubDate":null,"id":null,"author":null,"section":null,"useEscapedFragment":false,"robots":false,"robotsTag":""},"page":{"id":"809213","type":"page","creationDate":1435672867000,"creationDateFormatted":"06/30/2015 02:01 PM","title":"Privacy","body":"<style type=\"text/css\">\n  h2{font-size:20px;}\n</style>\n<div class=\"container layout-card\">\n  <div class=\"row\">\n    <div class=\"col-md-12\">\n\n<h1>DZone.com Privacy Policy</h1>\n<p>\nDevada is committed to protecting your privacy. This Privacy Policy applies to the web site at dzone.com and all other affiliated sites and services (collectively, the “Site”). We are providing this Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of personal information that we collect and receive from you in connection with the Site.\n<br><br>\nThis Privacy Policy does not apply to: (1) activities that occur offline; or (2) to information we collect outside of the Sites, including through any AnswerHub-powered site or the www.devada.com website provided by DZone.\nThe Site is made available free of charge only because advertisers and sponsors on the Site cover the costs associated with hosting and operating the Site. As further described below, by clicking on advertisements on the Site and taking advantage of sponsored content on the Site, you consent to the delivery of the personal information gathered by Devada to Devada’s advertisers and sponsors.\n</p>\n<h2>\nCollection of Personal Data\n</h2>\n<p>\nWhen inquiring about use of or subscribing to or otherwise using the Site, you may provide certain personally identifiable information necessary for use of the Site and for communicating with you. The data collected includes information about you that can be used to contact or identify you, and information related to your use or potential use of Site (collectively, “Personal Information”). Personal Information that we collect may include without limitation name, email address, organization, job title, and phone number.\n<br><br>\nIn addition, Devada uses a data enrichment service named Clearbit to augment your personal information.  When you create a new account, we use Clearbit’s API to enrich the profile data associated with your email address. This may include your company information, job title, and links to your social profiles. We use this data to better understand the attributes of users of our content. You can see, edit, and delete what personal information Clearbit stores about you on their website: https://claim.clearbit.com/claim.   We also work with a service called Email Hunter (https://hunter.io/privacy-policy) to find personal email addresses of subject matter experts in our target market. We also work with additional third parties (including, for example, technical contractors, data analytics providers, search information providers) and may receive information about you from them and from publicly available sources.\n<br><br>\nWithin our Site, if you interact with other users, the Site may share additional information with such other users. The additional information you share by participating in these types of communications is your choice and responsibility and the privacy of such information cannot be guaranteed. Similarly, information you share through messaging within our Site is solely your responsibility.  We will maintain your personal data so long as your account is active.\n</p>\n\n<h2>\nUse of Cookies and Tracking Technologies\n</h2>\n<p>\nWe use cookies as part of the Site to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process.\n<br><br>\nWe also use session ID cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close your browser. If you reject cookies, you may still use our Site, but your ability to use some areas of our Site will be limited.\n<br><br>\nWe also may use pixel tags, web beacons and other similar technologies to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, which are also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. The information we obtain in this manner enables us to customize the Site and to measure the overall effectiveness of the Site’s content, programming and other activities. Devada uses Google Analytics to measure site traffic, visitor behavior, and to improve delivery of services. To understand the information shared with Google, how it is processed, and how you can control the information collected by Google on the Site, visit https://policies.google.com/technologies/partner-sites.\n<br><br>\nIn addition to personal information, certain anonymous information about your visit is automatically captured when you visit the Site. This information includes the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site, geographic data, and the Internet address of the Web site from which you linked directly to our Site. We also may use your IP address to determine the organization that you are affiliated with. This anonymous information is used to help improve the Site, analyze trends, and administer the Site.\n<br><br>\nWe may monitor your interactions with the Site, such as what pages you visit, what content you review, and what comments you make, and maintain this information with your Site profile.\n</p>\n<h2>\nUse and Disclosure of Information\n</h2>\n<p>\nWe do not sell, rent, use or share your personal information with others except as indicated in this Privacy Policy.  We may use your Personal Information to:\n<ul>\n<li>provide the Site and associated content and services,</li>\n<li>complete information for you including your name, signature, and profile picture when you post content to the Site,</li>\n<li>support and maintain the Site,</li>\n<li>improve and update the Site,</li>\n<li>communicate information to you that you have requested,</li>\n<li>for our marketing, research and development purposes, and</li>\n<li>for other purposes specified in this Privacy Policy or at the time information is requested from you.</li>\n</ul>\nComments or questions sent to us using email or other messaging tools will be shared with our staff that is most likely to be able to address your concerns. We may archive your messages once we have provided you with a response. If we find your personal question valuable to community discussion, we reserve the right to post your question on the Site, after using reasonable efforts to remove any names or personal identification. Please note that email communications will not necessarily be secure; accordingly, you should not include sensitive information in email correspondence with us.\n<br><br>\nDevada may aggregate your information with other users’ information to determine and distribute aggregated statistics and information about the Site and its use and users. This aggregated information will not identify any specific user.\n<br><br>\nDevada may disclose your Personal Information to sponsors of content (such as white papers, product downloads, reference guides, and other content) and to advertisers on the Site when you download or otherwise access such content, or view or click on such advertisements.  \n<br><br>\nDevada may also disclose your Personal Information to selected outside firms for marketing purposes. These firms are required to target their offers carefully. You may modify your account to withdraw your consent to receive offers that are not tied to your specific actions in clicking on advertisements or downloading sponsored content.\n<br><br>\nDevada may also disclose Personal Information:\n<ul>\n<li>when we have your permission to do so; or</li>\n<li>to companies who work for Devada to provide one or more parts of the Site or that provide related administrative functions (such as support Sites and analytics). These third parties may have access to your personal information; if they do, this access is only so that they may perform these tasks on our behalf and they are obligated not to disclose or use it for any other purpose; or</li>\n<li>when we believe in good faith that disclosure is reasonably necessary to (1) comply with a legal process or law, or to respond to a subpoena, court order, or government request for information, (2) enforce Terms of Service and/or other agreements between you and Devada, (3) respond to claims that any content on the Site violates the rights of third parties, or that otherwise arise from your use of the Site, or (4) protect the rights, property, or personal safety of Devada, its users, or the public.</li>\n<li>when required or permitted to do so by law for public safety. Disclosures may be made to protect you from a serious threat to your health or safety or to protect the health or safety of another person.</li>\n</ul>\n</p>\n\n<h2>\nYour Rights\n</h2>\n<p>\nYou may withdraw your consent for disclosure of your Personal Information to sponsors of third-party content by providing notice to Devada at the address or email address noted below at the end of this document.  If you withdraw your consent, your account will either be suspended or removed, or you will be restricted from downloading such content.\n<br><br>\nYou have the right to access and edit, update or delete your personal information by logging onto the Site and accessing your account information. You may contact us with any questions or if you need assistance in updating or deleting your personal information.\nYou can ask us for a copy of your personal data at the email address noted below at the end of this document and it will be delivered to you in machine readable form.\n</p>\n<h2>\nThird Parties and Links\n</h2>\n<p>\nThis Privacy Policy applies only to our Site. We may provide links to other information and sites that we believe may be of interest to our users. Their sites may collect or request personally identifiable information from you. You should review the privacy policy of these sites before providing such information, as these sites are not covered by our Privacy Policy. We cannot guarantee the standards of sites to which we link or be responsible for the contents, or privacy practices and policies, of these and other third-party sites. We encourage you to read the privacy policy of every site you visit.\n<br><br>\nOur Site may include social media features, including the Facebook Like button and widgets, such as the “share this” button or interactive mini-programs that run on our Site. These features may collect your IP address, where you are using our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features and widgets are governed by the privacy policy of the company that created the feature.\n</p>\n<h2>\nAccess to Account\n</h2>\n<p>\nIf you are a registered user of the Site, you can change your account information through your user profile page. You may need to supply certain information so that we can try to verify that you have authority to modify this information.\n</p>\n<h2>\nOpt-Out\n</h2>\n<p>\nYou may opt-out of receiving certain marketing communications from us, by emailing us at privacy@devada.com.   In addition, all marketing e-mails from DZone will provide you with the opportunity to unsubscribe from future marketing mailings. Even if you opt out of such mailings, however, we reserve the right to send you e-mail and other communications to disclose maintenance and other Site-related issues.\n</p>\n<h2>\nLegal Requirements\n</h2>\n<p>We intend to protect your privacy to the fullest extent possible as described in this policy while also fulfilling our responsibility to uphold all applicable laws and regulations. Due to potential legal requirements and other possible circumstances, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed or accessed in ways not otherwise described in this policy. We may be compelled under law to disclose information to government or third parties under certain circumstances or third parties may unlawfully intercept or access transmissions or private communications. Further, we can, and you hereby authorize us to, disclose any information to law enforcement or other government officials that we, in our sole discretion, believe necessary or appropriate in compliance with the law and/or government requests.\n</p>\n<h2>\nUnited States\n</h2>\n<p>\nThe Site is hosted in the United States. If you are accessing the Site from outside the United States, please be advised that through your continued use of the Site, which is governed by U.S. law and this Privacy Policy, you are transferring your personal information to the United States and you consent to that transfer. The United States may not have the same data protection laws as your country. However, to the extent that Regulation (EU) 2016/679, the General Data Protection Regulation (“GDPR”) applies to you, DZone will comply with GDPR.\n</p>\n<h2>\nSecurity Measures\n</h2>\n<p>\nWe have implemented reasonable and industry standard security measures on the Site to help protect against the loss, misuse and alteration of the personal information under our control. Additionally, we take reasonable steps to ensure that our third party business partners, including our hosting partners, provide sufficient protection for personal information. We will take reasonable efforts to maintain Personal Information in the area (e.g., country or continent) as specified by our Customer. We will promptly make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data.\n<br><br>\nYou acknowledge that no method of transmission over the Internet, or method of electronic storage, is 100% secure, and that we cannot guarantee absolute security. If you have any questions about security on our Site, you may contact us.\n</p>\n<h2>\nPrivacy of Children\n</h2>\n<p>\nChildren under age 16 are not permitted to use the Site. We will not knowingly collect personally identifiable information on the Site from children under 16. If we become aware that a user of the Site is under the age 16 and has provided us with Personal Information, we may delete such information from our files and may deactivate the related account.\n</p>\n<h2>\nIn the Event of Merger, Sale or Bankruptcy\n</h2>\n<p>\nIn the event that all or part of Devada is acquired by or merged with a third-party entity, Devada may transfer or assign the personally identifiable information held by Devada as part of such merger, acquisition, or other change of control. In the unlikely event of Devada's bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, Devada may not be able to control how personal information is treated, transferred, or used.\n</p>\n<h2>\nChanges to this Privacy Policy\n</h2>\n<p>\nThis policy may be revised by us from time to time. By using this Site you agree that we have a right to change our policy without prior notification. The revised policy will appear on our Site with the date of last revision. Your continued use of the Site following such revisions will be conclusively deemed acceptance of any changes to these Terms.\n<br><br>\nIf you have any questions or complaints regarding this Privacy Policy, please email us or write to: \n<br><br>\nDevada<br>\n600 Park Offices Dr.<br>\nSuite 150 <br>\nResearch Triangle Park, NC 27709<br>\n<a href=\"mailto:privacy@devada.com\">privacy@devada.com</a><br><br>\n\nIf you believe you have not received an appropriate response from us regarding your question or complaint, you may contact the applicable supervisory authority below based on your residence:\n<ul>\n<li>EU Data Protection Authorities (DPAs)</li>\n<li>Swiss Federal Data Protection and Information Commissioner (FDPIC)</li>\n</ul>\n<br>\nLast Revised: July 2019\n</p>\n</div>\n</div>\n</div>\n","bodyAsHTML":"<style type=\"text/css\">h2{font-size:20px;}</style><div class=\"container layout-card\"> \n <div class=\"row\"> \n  <div class=\"col-md-12\"> \n   <h1>DZone.com Privacy Policy</h1> \n   <p> Devada is committed to protecting your privacy. This Privacy Policy applies to the web site at dzone.com and all other affiliated sites and services (collectively, the “Site”). We are providing this Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of personal information that we collect and receive from you in connection with the Site. <br /><br /> This Privacy Policy does not apply to: (1) activities that occur offline; or (2) to information we collect outside of the Sites, including through any AnswerHub-powered site or the www.devada.com website provided by DZone. The Site is made available free of charge only because advertisers and sponsors on the Site cover the costs associated with hosting and operating the Site. As further described below, by clicking on advertisements on the Site and taking advantage of sponsored content on the Site, you consent to the delivery of the personal information gathered by Devada to Devada’s advertisers and sponsors. </p> \n   <h2> Collection of Personal Data </h2> \n   <p> When inquiring about use of or subscribing to or otherwise using the Site, you may provide certain personally identifiable information necessary for use of the Site and for communicating with you. The data collected includes information about you that can be used to contact or identify you, and information related to your use or potential use of Site (collectively, “Personal Information”). Personal Information that we collect may include without limitation name, email address, organization, job title, and phone number. <br /><br /> In addition, Devada uses a data enrichment service named Clearbit to augment your personal information. When you create a new account, we use Clearbit’s API to enrich the profile data associated with your email address. This may include your company information, job title, and links to your social profiles. We use this data to better understand the attributes of users of our content. You can see, edit, and delete what personal information Clearbit stores about you on their website: https://claim.clearbit.com/claim. We also work with a service called Email Hunter (https://hunter.io/privacy-policy) to find personal email addresses of subject matter experts in our target market. We also work with additional third parties (including, for example, technical contractors, data analytics providers, search information providers) and may receive information about you from them and from publicly available sources. <br /><br /> Within our Site, if you interact with other users, the Site may share additional information with such other users. The additional information you share by participating in these types of communications is your choice and responsibility and the privacy of such information cannot be guaranteed. Similarly, information you share through messaging within our Site is solely your responsibility. We will maintain your personal data so long as your account is active. </p> \n   <h2> Use of Cookies and Tracking Technologies </h2> \n   <p> We use cookies as part of the Site to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process. <br /><br /> We also use session ID cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close your browser. If you reject cookies, you may still use our Site, but your ability to use some areas of our Site will be limited. <br /><br /> We also may use pixel tags, web beacons and other similar technologies to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, which are also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. The information we obtain in this manner enables us to customize the Site and to measure the overall effectiveness of the Site’s content, programming and other activities. Devada uses Google Analytics to measure site traffic, visitor behavior, and to improve delivery of services. To understand the information shared with Google, how it is processed, and how you can control the information collected by Google on the Site, visit https://policies.google.com/technologies/partner-sites. <br /><br /> In addition to personal information, certain anonymous information about your visit is automatically captured when you visit the Site. This information includes the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site, geographic data, and the Internet address of the Web site from which you linked directly to our Site. We also may use your IP address to determine the organization that you are affiliated with. This anonymous information is used to help improve the Site, analyze trends, and administer the Site. <br /><br /> We may monitor your interactions with the Site, such as what pages you visit, what content you review, and what comments you make, and maintain this information with your Site profile. </p> \n   <h2> Use and Disclosure of Information </h2> \n   <p> We do not sell, rent, use or share your personal information with others except as indicated in this Privacy Policy. We may use your Personal Information to: </p>\n   <ul> \n    <li>provide the Site and associated content and services,</li> \n    <li>complete information for you including your name, signature, and profile picture when you post content to the Site,</li> \n    <li>support and maintain the Site,</li> \n    <li>improve and update the Site,</li> \n    <li>communicate information to you that you have requested,</li> \n    <li>for our marketing, research and development purposes, and</li> \n    <li>for other purposes specified in this Privacy Policy or at the time information is requested from you.</li> \n   </ul> Comments or questions sent to us using email or other messaging tools will be shared with our staff that is most likely to be able to address your concerns. We may archive your messages once we have provided you with a response. If we find your personal question valuable to community discussion, we reserve the right to post your question on the Site, after using reasonable efforts to remove any names or personal identification. Please note that email communications will not necessarily be secure; accordingly, you should not include sensitive information in email correspondence with us. \n   <br />\n   <br /> Devada may aggregate your information with other users’ information to determine and distribute aggregated statistics and information about the Site and its use and users. This aggregated information will not identify any specific user. \n   <br />\n   <br /> Devada may disclose your Personal Information to sponsors of content (such as white papers, product downloads, reference guides, and other content) and to advertisers on the Site when you download or otherwise access such content, or view or click on such advertisements. \n   <br />\n   <br /> Devada may also disclose your Personal Information to selected outside firms for marketing purposes. These firms are required to target their offers carefully. You may modify your account to withdraw your consent to receive offers that are not tied to your specific actions in clicking on advertisements or downloading sponsored content. \n   <br />\n   <br /> Devada may also disclose Personal Information: \n   <ul> \n    <li>when we have your permission to do so; or</li> \n    <li>to companies who work for Devada to provide one or more parts of the Site or that provide related administrative functions (such as support Sites and analytics). These third parties may have access to your personal information; if they do, this access is only so that they may perform these tasks on our behalf and they are obligated not to disclose or use it for any other purpose; or</li> \n    <li>when we believe in good faith that disclosure is reasonably necessary to (1) comply with a legal process or law, or to respond to a subpoena, court order, or government request for information, (2) enforce Terms of Service and/or other agreements between you and Devada, (3) respond to claims that any content on the Site violates the rights of third parties, or that otherwise arise from your use of the Site, or (4) protect the rights, property, or personal safety of Devada, its users, or the public.</li> \n    <li>when required or permitted to do so by law for public safety. Disclosures may be made to protect you from a serious threat to your health or safety or to protect the health or safety of another person.</li> \n   </ul> \n   <p></p> \n   <h2> Your Rights </h2> \n   <p> You may withdraw your consent for disclosure of your Personal Information to sponsors of third-party content by providing notice to Devada at the address or email address noted below at the end of this document. If you withdraw your consent, your account will either be suspended or removed, or you will be restricted from downloading such content. <br /><br /> You have the right to access and edit, update or delete your personal information by logging onto the Site and accessing your account information. You may contact us with any questions or if you need assistance in updating or deleting your personal information. You can ask us for a copy of your personal data at the email address noted below at the end of this document and it will be delivered to you in machine readable form. </p> \n   <h2> Third Parties and Links </h2> \n   <p> This Privacy Policy applies only to our Site. We may provide links to other information and sites that we believe may be of interest to our users. Their sites may collect or request personally identifiable information from you. You should review the privacy policy of these sites before providing such information, as these sites are not covered by our Privacy Policy. We cannot guarantee the standards of sites to which we link or be responsible for the contents, or privacy practices and policies, of these and other third-party sites. We encourage you to read the privacy policy of every site you visit. <br /><br /> Our Site may include social media features, including the Facebook Like button and widgets, such as the “share this” button or interactive mini-programs that run on our Site. These features may collect your IP address, where you are using our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features and widgets are governed by the privacy policy of the company that created the feature. </p> \n   <h2> Access to Account </h2> \n   <p> If you are a registered user of the Site, you can change your account information through your user profile page. You may need to supply certain information so that we can try to verify that you have authority to modify this information. </p> \n   <h2> Opt-Out </h2> \n   <p> You may opt-out of receiving certain marketing communications from us, by emailing us at privacy@devada.com. In addition, all marketing e-mails from DZone will provide you with the opportunity to unsubscribe from future marketing mailings. Even if you opt out of such mailings, however, we reserve the right to send you e-mail and other communications to disclose maintenance and other Site-related issues. </p> \n   <h2> Legal Requirements </h2> \n   <p>We intend to protect your privacy to the fullest extent possible as described in this policy while also fulfilling our responsibility to uphold all applicable laws and regulations. Due to potential legal requirements and other possible circumstances, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed or accessed in ways not otherwise described in this policy. We may be compelled under law to disclose information to government or third parties under certain circumstances or third parties may unlawfully intercept or access transmissions or private communications. Further, we can, and you hereby authorize us to, disclose any information to law enforcement or other government officials that we, in our sole discretion, believe necessary or appropriate in compliance with the law and/or government requests. </p> \n   <h2> United States </h2> \n   <p> The Site is hosted in the United States. If you are accessing the Site from outside the United States, please be advised that through your continued use of the Site, which is governed by U.S. law and this Privacy Policy, you are transferring your personal information to the United States and you consent to that transfer. The United States may not have the same data protection laws as your country. However, to the extent that Regulation (EU) 2016/679, the General Data Protection Regulation (“GDPR”) applies to you, DZone will comply with GDPR. </p> \n   <h2> Security Measures </h2> \n   <p> We have implemented reasonable and industry standard security measures on the Site to help protect against the loss, misuse and alteration of the personal information under our control. Additionally, we take reasonable steps to ensure that our third party business partners, including our hosting partners, provide sufficient protection for personal information. We will take reasonable efforts to maintain Personal Information in the area (e.g., country or continent) as specified by our Customer. We will promptly make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data. <br /><br /> You acknowledge that no method of transmission over the Internet, or method of electronic storage, is 100% secure, and that we cannot guarantee absolute security. If you have any questions about security on our Site, you may contact us. </p> \n   <h2> Privacy of Children </h2> \n   <p> Children under age 16 are not permitted to use the Site. We will not knowingly collect personally identifiable information on the Site from children under 16. If we become aware that a user of the Site is under the age 16 and has provided us with Personal Information, we may delete such information from our files and may deactivate the related account. </p> \n   <h2> In the Event of Merger, Sale or Bankruptcy </h2> \n   <p> In the event that all or part of Devada is acquired by or merged with a third-party entity, Devada may transfer or assign the personally identifiable information held by Devada as part of such merger, acquisition, or other change of control. In the unlikely event of Devada's bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, Devada may not be able to control how personal information is treated, transferred, or used. </p> \n   <h2> Changes to this Privacy Policy </h2> \n   <p> This policy may be revised by us from time to time. By using this Site you agree that we have a right to change our policy without prior notification. The revised policy will appear on our Site with the date of last revision. Your continued use of the Site following such revisions will be conclusively deemed acceptance of any changes to these Terms. <br /><br /> If you have any questions or complaints regarding this Privacy Policy, please email us or write to: <br /><br /> Devada<br /> 600 Park Offices Dr.<br /> Suite 150 <br /> Research Triangle Park, NC 27709<br /> <a href=\"mailto:privacy@devada.com\">privacy@devada.com</a><br /><br /> If you believe you have not received an appropriate response from us regarding your question or complaint, you may contact the applicable supervisory authority below based on your residence: </p>\n   <ul> \n    <li>EU Data Protection Authorities (DPAs)</li> \n    <li>Swiss Federal Data Protection and Information Commissioner (FDPIC)</li> \n   </ul> \n   <br /> Last Revised: July 2019 \n   <p></p> \n  </div> \n </div> \n</div>","author":{"id":1253325,"username":"chelseab","realname":"Chelsea Bosworth","emailHash":"b30771b4f7feff6ca5c51aaf366b10b27b427badd09847bfe2b2e58e56ddf9bd","avatar":"https://secure.gravatar.com/avatar/36e4ad04901bcdaf2f6445a8ce09386a?d=identicon&r=PG","reputation":1374},"lastEditedAction":39067358,"activeRevisionId":4110474,"revisionIds":[4110474,4110467,4110466,3849685,3849684,3849683,3163953,3141957,3139411,3139410,3139409,3139408,3139406,3139403,3130451,2506142,952388,931428],"lastActiveUserId":1174949,"lastActiveDate":1563200743000,"parentId":null,"parentAuthor":null,"originalParentId":null,"childrenIds":[],"commentIds":[],"marked":false,"topics":[],"primaryContainerId":8,"containerIds":[8,7],"plug":"pages/privacy","wiki":false,"score":0,"depth":0}}];
         TH_CORE_VARS.additional.requiresModule = ["generalDirectives","monospaced.elastic","angularFileUpload","ui.bootstrap-slider","angulartics","angulartics.google.analytics","ngCookies","ngSanitize","ui.select","ui.bootstrap","angularMoment","ngTouch","ngDialog","LocalStorageModule"];
-        TH_CORE_VARS.additional.TH_CSRF = "-6628071591403680124";
+        TH_CORE_VARS.additional.TH_CSRF = "-6485528004602783936";
             } catch (e) {
         console.error(e);
     }
 </script>
-
 <script type="text/javascript">
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
@@ -571,7 +614,7 @@ https://devada.com/careers/
     })();
 </script>
 
-<script type="text/javascript" src="//dz2cdn2.dzone.com/storage/pub/12036653-combined.js" charset="utf-8"></script><script type="text/javascript" src="//dz2cdn2.dzone.com/storage/pub/12036674-combined.js" charset="utf-8"></script><script>
+<script type="text/javascript" src="//dz2cdn2.dzone.com/storage/pub/12877660-combined.js" charset="utf-8"></script><script type="text/javascript" src="//dz2cdn2.dzone.com/storage/pub/12877828-combined.js" charset="utf-8"></script><script>
     (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
         i[r] = i[r] || function () {
@@ -591,31 +634,6 @@ https://devada.com/careers/
     //ga('send', 'pageview');
 </script>
 
-<!-- Begin Inspectlet Embed Code -->
-<script type="text/javascript" id="inspectletjs">
-    window.__insp = window.__insp || [];
-    __insp.push(['wid', 1999343779]);
-    (function () {
-        function __ldinsp() {
-            var insp = document.createElement('script');
-            insp.type = 'text/javascript';
-            insp.async = true;
-            insp.id = "inspsync";
-            insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js';
-            var x = document.getElementsByTagName('script')[0];
-            x.parentNode.insertBefore(insp, x);
-        }
-
-        if (window.attachEvent) window.attachEvent('onload', __ldinsp);
-        else window.addEventListener('load', __ldinsp, false);
-    })();
-</script>
-<!-- End Inspectlet Embed Code -->
-
-
-
-<script src="https://cdn.optimizely.com/js/664902255.js"></script>
-
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -626,102 +644,216 @@ https://devada.com/careers/
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager -->
 
-<!-- START Parse.ly Include: DOM-Free -->
+<script src="/themes/dz20/lib/angular-animate.min.js"></script>
+<script src="/themes/dz20/lib/angular-sanitize.min.js"></script>
+<script src="/themes/dz20/lib/ngToast.min.js"></script>
+<script src="/themes/dz20/lib/lazysizes.min.js"></script>
+
+    <style>
+#adtoniq-msgr-bar {
+	position: fixed;
+	bottom: -20%;
+	left: 0;
+	width: 100%;
+	min-height: 30px;
+	z-index: 99999;
+	padding: 15px 0;
+	font-family: sans-serif;
+	font-size: 16px;
+	text-align: center;
+	background: #222;
+	color: #fff;
+	-webkit-transition: bottom 500ms ease-in-out;
+	transition: bottom 500ms ease-in-out
+}
+
+#adtoniq-msgr-bar p {
+	margin: 0 0 10px !important
+}
+
+#adtoniq-msgr-bar a {
+	color: #fff !important;
+	text-decoration: underline !important
+}
+
+#adtoniq-msgr-bar a:hover {
+	color: #d3d3d3 !important;
+	text-decoration: underline !important
+}
+
+#adtoniq-msgr-bar.reveal-alert {
+	bottom: 0;
+	-webkit-transition: bottom 500ms ease-in-out;
+	transition: bottom 500ms ease-in-out
+}
+
+#adtoniq-msgr-bar #adtoniq-msg-buttons {
+	display: inline-block;
+}
+
+#adtoniq-msg-buttons button {
+	margin-left: 20px;
+}
+
+
+#adtoniq-msgr-bar .btn-msg-bar {
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+	cursor: pointer;
+	border: 1px solid transparent;
+	white-space: nowrap;
+	padding: 10px 30px;
+	border-radius: 0;
+	background-color: #395972;
+	color: #fff !important;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none
+}
+
+#adtoniq-msgr-bar .btn-msg-bar:hover {
+	background: #283e50
+}
+
+#adtoniq-msgr-bar .btn-msg-bar+.btn-msg-bar {
+	margin-left: 10px
+}
+
+#adtoniq-msgr-bar #adtoniq-msg {
+	display: inline
+}
+
+#adtoniq-msgr-bar #adtoniq-btns {
+	display: inline
+}
+
+</style>
 <script>
-    if(document.domain=='dzone.com'){
-        (function(d) {
-            var site = document.domain, // replace with the domain of your site (e.g. parsely.com)
-                    b = d.body,
-                    e = d.createElement("div");
-            e.innerHTML = '<span id="parsely-cfg" data-parsely-site="'+site+'"></span>';
-            e.id = "parsely-root";
-            e.style.display = "none";
-            b.appendChild(e);
-        })(document);
-        (function(s, p, d) {
-            var h=d.location.protocol, i=p+"-"+s,
-                    e=d.getElementById(i), r=d.getElementById(p+"-root"),
-                    u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
-                            :"static."+p+".com";
-            if (e) return;
-            e = d.createElement(s); e.id = i; e.async = true;
-            e.src = h+"//"+u+"/p.js"; r.appendChild(e);
-        })("script", "parsely", document);
-    }
+adtoniq=function(){var K="";var ah=document.createElement("a");ah.href=window.location.href;var y="dzone.com";var j=y;var w="ontouchstart" in window||navigator.msMaxTouchPoints;var O="https://p.syllabuses.net";var e="https://p.syllabuses.net/";var Q="https://p.syllabuses.net/";var aj="d28745d8-4333-40e4-92d3-446379f1fcd6";var I="1389";var z="master-live";var ak="off";var ac="6";var A=[{width:"300",height:"600",cssSelector:".content-right-images .sidebar-ad:nth-child(1)",stripeId:"118623",directAd:{imageUrl:"//d2yi6d9qww9ckl.cloudfront.net/i/aHR0cHM6Ly9zdGF0aWMtNDJhbmRwYXJrLWNvbS5zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9pbWFnZXMvQ2FtcGFpZ25zL0FXU0xhbWJkYS9NaWNyb3NlcnZpY2VzXzN4Nl92MDEucG5n.png",clickThroughUrl:"https://d2yi6d9qww9ckl.cloudfront.net/d/aHR0cHM6Ly9kb2NzLmF3cy5hbWF6b24uY29tL2VuX3B2L2xhbWJkYS9sYXRlc3QvZGcvd2l0aC1vbi1kZW1hbmQtaHR0cHMtZXhhbXBsZS1jb25maWd1cmUtZXZlbnQtc291cmNlXzEuaHRtbD8mdHJrPWJhX2ExMzFMMDAwMDA1OFlJdFFBTSZ0cmtDYW1wYWlnbj1wYWNfNHEyMDE5X1BhYVMtU2VydmVybGVzc19MYW1iZGFfQWRUb25pcV9QdWJsaXNoZXIyJnNjX2NoYW5uZWw9YmEmc2NfY2FtcGFpZ249cGFjXzRxMjAxOV9QYWFTLVNlcnZlcmxlc3NfTGFtYmRhX0FkVG9uaXFfUHVibGlzaGVyMl9Hcm91cEEmc2Nfb3V0Y29tZT1Qcm9kdWN0X0Fkb3B0aW9uX0NhbXBhaWducyZzY19nZW89bXVsdCZzY19jb3VudHJ5PW11bHQmc2NfcHVibGlzaGVyPU90aGVycw==",campaignStartTime:"",campaignEndTime:""},preMarkup:"<div style='min-height: 600px; position: relative; text-align: center; width: 100%;'>",postMarkup:"</div>"},{width:"728",height:"90",cssSelector:".advertPancake8 .ng-isolate-scope",stripeId:"118623",directAd:{imageUrl:"//d2yi6d9qww9ckl.cloudfront.net/i/aHR0cHM6Ly9zdGF0aWMtNDJhbmRwYXJrLWNvbS5zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9pbWFnZXMvQ2FtcGFpZ25zL0FXU0R5bmFtb0RCL0R5bmFtb0RCX00yXzcyOHg5MF9NMi5qcGc=.jpg",clickThroughUrl:"https://d2yi6d9qww9ckl.cloudfront.net/d/aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9keW5hbW9kYi8/JnRyaz1iYV9hMTMxTDAwMDAwNThaN2pRQUUmdHJrQ2FtcGFpZ249cGFjX2F0X3E0MTAxOV9keW5hbW9kYl9wZHBfcHViNiZzY19jaGFubmVsPWJhJnNjX2NhbXBhaWduPXBhY19hdF9xNDEwMTlfc2NhbGVhcHBzX2Fkc19keW5hbW9kYiZzY19vdXRjb21lPVBhYVNfRGlnaXRhbF9NYXJrZXRpbmcmc2NfZ2VvPU5BTUVSJnNjX2NvdW50cnk9VVMmc2NfcHVibGlzaGVyPU90aGVycw==",campaignStartTime:"",campaignEndTime:""},preMarkup:"<div style='min-height: 90px; position: relative; display: block;padding: 1em 0;text-align: center;clear: both;'>",postMarkup:"</div>"},{width:"728",height:"90",cssSelector:".advertPancake10 .ng-isolate-scope",stripeId:"118623",directAd:{imageUrl:"//d2yi6d9qww9ckl.cloudfront.net/i/aHR0cHM6Ly9zdGF0aWMtNDJhbmRwYXJrLWNvbS5zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9pbWFnZXMvQ2FtcGFpZ25zL0FXU0R5bmFtb0RCL0R5bmFtb0RCX00yXzcyOHg5MF9NMi5qcGc=.jpg",clickThroughUrl:"https://d2yi6d9qww9ckl.cloudfront.net/d/aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9keW5hbW9kYi8/JnRyaz1iYV9hMTMxTDAwMDAwNThaN2pRQUUmdHJrQ2FtcGFpZ249cGFjX2F0X3E0MTAxOV9keW5hbW9kYl9wZHBfcHViNiZzY19jaGFubmVsPWJhJnNjX2NhbXBhaWduPXBhY19hdF9xNDEwMTlfc2NhbGVhcHBzX2Fkc19keW5hbW9kYiZzY19vdXRjb21lPVBhYVNfRGlnaXRhbF9NYXJrZXRpbmcmc2NfZ2VvPU5BTUVSJnNjX2NvdW50cnk9VVMmc2NfcHVibGlzaGVyPU90aGVycw==",campaignStartTime:"",campaignEndTime:""},preMarkup:"<div style='min-height: 90px; position: relative; display: block;padding: 1em 0;text-align: center;clear: both;'>",postMarkup:"</div>"}];var x=[];var aa="";var ai="${waisaDisable}";var U="PGRpdiBjbGFzcz0icGlfJXN0cmlwZWlkJSI+CiAgICA8IS0tIGRvbWFpbjogc3RyaXBlLnJzLXN0cmlwZS5jb20gLS0+CiAgICA8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgogICAgICAgIC5waV8lc3RyaXBlaWQlIGRpdiwgLnBpXyVzdHJpcGVpZCUgYSwgLnBpXyVzdHJpcGVpZCUgaW1nLCAucGlfJXN0cmlwZWlkJSB1bCwgLnBpXyVzdHJpcGVpZCUgbGkgeyBtYXJnaW46IDA7IHBhZGRpbmc6IDA7IGxpbmUtaGVpZ2h0OiAwOyBsaXN0LXN0eWxlOiBub25lOyBib3JkZXI6IDA7IHZlcnRpY2FsLWFsaWduOiBiYXNlbGluZTsgfSAucGlfJXN0cmlwZWlkJSB7IHBvc2l0aW9uOiByZWxhdGl2ZTsgbWF4LXdpZHRoOiAlc3RyaXBlX3dpZHRoJXB4OyBtYXJnaW46IDAgYXV0bzsgb3ZlcmZsb3c6IGhpZGRlbjsgfSAucGlfJXN0cmlwZWlkJSBhIHsgZGlzcGxheTogYmxvY2s7IGJvcmRlcjogMDsgYm9yZGVyLXN0eWxlOiBub25lOyBvdXRsaW5lOiBub25lOyB0ZXh0LWRlY29yYXRpb246IG5vbmU7IH0gLnBpXyVzdHJpcGVpZCUgaW1nIHsgZGlzcGxheTogYmxvY2s7IG1heC13aWR0aDogMTAwJTsgYm9yZGVyOiAwOyBvdXRsaW5lOiBub25lOyB0ZXh0LWRlY29yYXRpb246IG5vbmU7IH0gLnBpXyVzdHJpcGVpZCUgLnBpX2JyYW5kIGltZyB7IG1heC13aWR0aDogODRweDsgfSAucGlfJXN0cmlwZWlkJSAucGlfYnJhbmQgeyBwb3NpdGlvbjogYWJzb2x1dGU7IGRpc3BsYXk6IGJsb2NrOyB3aWR0aDogMTVweDsgaGVpZ2h0OiAxNXB4OyBvdmVyZmxvdzogaGlkZGVuOyByaWdodDogMDsgdG9wOiAwOyBjdXJzb3I6IHBvaW50ZXI7IHotaW5kZXg6IDEwMDA7IHRyYW5zaXRpb246IHdpZHRoIC4zczsgbGluZS1oZWlnaHQ6IDA7IH0gLnBpXyVzdHJpcGVpZCUgLnBpX2JyYW5kOmhvdmVyIHsgd2lkdGg6IDg0cHg7IH0gLnBpXyVzdHJpcGVpZCUgLnBpX2F1IGltZyB7IGhlaWdodDogYXV0bzsgd2lkdGg6IDEwMCU7IG1heC13aWR0aDogJXN0cmlwZV93aWR0aCVweDsgfQogICAgPC9zdHlsZT4KICAgIDxkaXYgY2xhc3M9InBpX2JyYW5kIj4KICAgICAgICA8YSBocmVmPSJodHRwczovL3N0cmlwZS5ycy1zdHJpcGUuY29tL2JyYW5kaW5nLz91dG1fc291cmNlPWNvbnRlbnRzdHJpcGUmdXRtX21lZGl1bT13ZWImdXRtX2NhbXBhaWduPXJzXyVzdHJpcGVpZCUmdXRtX2NvbnRlbnQ9bG9nbyZyc190eXBlPXdlYiIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9mb2xsb3cgbm9vcGVuZXIiPgogICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9wLnN5bGxhYnVzZXMubmV0L3IvYiIgaGVpZ2h0PSIxNSIgYWx0PSJMZWFybiBtb3JlIGFib3V0IFJldmVudWVTdHJpcGUuLi4iPgogICAgICAgIDwvYT4KICAgIDwvZGl2PgogICAgPGRpdiBjbGFzcz0icGlfYXUiPgogICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vc3RyaXBlLnJzLXN0cmlwZS5jb20vc3RyaXBlL3JlZGlyZWN0P2NzX2VtYWlsPXt7R1VJRH19JmNzX3N0cmlwZWlkPSVzdHJpcGVpZCUmY3Nfb2Zmc2V0PTAmY3NfY29udGFpbmVydHlwZT13ZWImY3NfZXNwPXBvd2VyaW5ib3hfd2ViIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub2ZvbGxvdyBub29wZW5lciI+PGltZyBhbHQ9IiIgc3JjPSJodHRwczovL3Auc3lsbGFidXNlcy5uZXQvci9hP3M9JXN0cmlwZWlkJSI+PC9hPgogICAgPC9kaXY+CjwvZGl2Pgo=";var ag={};var q="";var a="";var an="off";var f=null;var r=null;var J;var X=false;var b=false;var ap=false;var H=false;var T=false;var g=false;var p=false;var F=false;var L="";var G=0;var o=false;var ae=0;var P=Math.floor(Math.random()*10000000);var W=0;var af=[];var am=[];var ad=[];var u=[];var S=[];var au=[];var n=[];var at=null;var aq=k("adtoniq_choice");var V=null;var al=false;var N=0;function C(az){if(document.getElementsByClassName){return document.getElementsByClassName(az)}var l=[];var ay=new RegExp("(^| )"+az+"( |$)");var ax=document.getElementsByTagName("*");for(var aw=0,av=ax.length;aw<av;aw++){if(ay.test(ax[aw].className)){l.push(ax[aw])}}return l}function m(l){E(l,"")}function E(aw,av){var ax=C(aw);if(ax){for(var l=0;l<ax.length;l++){ax[l].style.display=av}}}function B(){E("adtoniq_adblocked","none");E("adtoniq_acceptable","none");E("adtoniq_blocked_analytics","none");m("adtoniq_nonblocked");m("adtoniq_protect")}function D(l){if(document.readyState==="loading"){window.addEventListener("DOMContentLoaded",function(){l()})}else{l()}}function c(){var av=am.length;for(var l=0;l<av;l++){am[l]()}m("adtoniq_nonblocked");m("adtoniq_protect")}function t(){m("adtoniq_adblocked");if(H){m("adtoniq_acceptable")}else{m("adtoniq_adblocked_no_acceptable")}}var R=false,ar=false;var h=false;function ao(){if(!h&&(ap||b)){if(aq=="track"){D(t)}function av(){h=true;if(f&&!f()){return}var az=u.length;for(var ay=0;ay<az;ay++){u[ay](aq,Q)}}if(document.readyState==="loading"){window.addEventListener("DOMContentLoaded",function(){av()})}else{av()}}function l(){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)}if(R&&ar){if(ap||b){if(l()){document.body.className+=" adtoniq-mobile"}}else{D(c)}var ax=af.length;for(var aw=0;aw<ax;aw++){af[aw](ap,b,H,p)}}}function k(l){var av="; "+document.cookie;var aw=av.split("; "+l+"=");if(aw.length==2){return aw.pop().split(";").shift()}}function v(aw,ax,ay){var l="";if(ay){var av=new Date();av.setTime(av.getTime()+(ay*24*60*60*1000));l="; expires="+av.toUTCString()}document.cookie=aw+"="+ax+l+"; path=/"}function M(){R=true;ao()}function Y(){ar=true;ao()}function ab(av,l){if(!l){l=window.location.href}av=av.replace(/[\[\]]/g,"\\$&");var ax=new RegExp("[?&]"+av+"(=([^&#]*)|&|#|$)"),aw=ax.exec(l);if(!aw){return null}if(!aw[2]){return""}return decodeURIComponent(aw[2].replace(/\+/g," "))}function s(av,l){l.parentNode.insertBefore(av,l.nextSibling)}function Z(){if(q!=="${msgAdUnitMsg}"&&q.length>0&&a!=="${msgAdUnitMsgSelector}"&&a.length>0){var aw=document.querySelectorAll(a);for(i=0;i<aw.length;i++){var l=aw[i];var av=document.createElement("div");av.insertAdjacentHTML("beforeend",q);var ax=av.getElementsByClassName("adtoniq-optin");if(ax&&ax.length==1){ax[0].onclick=function(){adtoniq.optIn();location.reload()}}s(av,l);l.parentNode.removeChild(l)}}}return{setup:function(){isSetPreviewCookie=ab("atdoniq-preview");if(isSetPreviewCookie=="1"){v("adt_mc",1,0)}if(z=="master-preview"){var av=k("adt_mc");al=(av!="1")}if(an=="on"){var l=document.querySelector("meta[name='adtoniq-exclude']");if(l){al=true}}if(!al){adtoniq.setup2()}},addBobber:function(l){af.push(l)},addAdBlockerCallback:function(l){af.push(l)},setAdUnitLocator:function(l){at=l},onBlocked:function(l){if(h){if(ap||b){if(aq!="track"){t();l(aq,true)}}}else{u.push(l)}},onMessaging:function(l){ad.push(l)},messagingEvent:function(l){var aw=ad.length;for(var av=0;av<aw;av++){ad[av](l)}},onAnalyticsBlocked:function(l){S.push(l)},setGA:function(av,aw,l){L=av;G=aw;o=l},setIntegration:function(av,l){O=av},setProxy:function(l){Q=l},getProxy:function(){return Q},setCollector:function(l){e=l},setId:function(l){I=l},optOut:function(av){aq="do-not-track";v("adtoniq_choice",aq,365);for(var l=0;l<n.length;l++){n[l]()}},optIn:function(av){aq="track";v("adtoniq_choice","track",365);for(var l=0;l<au.length;l++){au[l]()}},onOptIn:function(l){au.push(l)},onOptOut:function(l){au.push(l)},setEnableAdtoniq:function(l){f=l},setShouldShowAds:function(l){r=l},addNoAdBlockerCallback:function(l){am.push(l)},laybait:function(){function av(aw,ay){var ax=new XMLHttpRequest();ax.open("get",aw);ax.responseType="blob";ax.onload=function(){var az=new FileReader();az.onload=function(){ay(this.result)};az.readAsDataURL(ax.response)};ax.send()}function l(){var aw=new Image();aw.onload=function(){av(aw.src,function(ax){ap=ax.length<=5;Y()})};aw.onerror=function(){ap=true;Y()};aw.src="https://static-42andpark-com.s3-us-west-2.amazonaws.com/ads/ad-300x250.png"}l();document.addEventListener("DOMContentLoaded",function(az){var ay=document.createElement("iframe");ay.src="https://d2iauwyyse18c1.cloudfront.net/1389.html?o="+(typeof(aq)!="undefined"?(aq=="track"?"t":"d"):"u")+"&r="+document.referrer;ay.setAttribute("style","position:absolute;left:-10px;width:1px;height:1px;");document.body.appendChild(ay);var ax=null;function aA(){var aF="pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links";var aE="width: 1px !important; height: 1px !important; position: absolute !important; left: -10000px !important; top: -1000px !important;";ax=document.createElement("div");ax.id="zippity";ax.setAttribute("class",aF);ax.setAttribute("style",aE);document.body.appendChild(ax)}function aD(){var aF=window.document.body.getAttribute("abp")!==null||ax.offsetParent===null||ax.offsetHeight==0||ax.offsetWidth==0||ax.offsetLeft==0||ax.offsetTop==0||ax.clientHeight==0||ax.clientWidth==0;if(window.getComputedStyle!==undefined&&!aF){var aE=window.getComputedStyle(ax,null);aF=aE.getPropertyValue("display")=="none"||aE.getPropertyValue("visibility")=="hidden"}if(aF){b=true}return aF}aA();var aC=new Date();var aB=null;var aw=setInterval(function(){if(aD()){if(aB){clearTimeout(aB)}try{document.body.removeChild(ax)}catch(aE){}clearInterval(aw);M()}},100);aB=setTimeout(function(){clearInterval(aw);try{document.body.removeChild(ax)}catch(aE){}M()},1*1000)})},setup2:function(){if(typeof j==="undefined"){return}if(aq=="track"){m("adtoniq_nonblocked")}adtoniq.onBlocked(function(av,aw){function l(){adtoniq.inflateAdUnit()}if(av=="do-not-track"){Z()}else{if(av!="track"){adtoniq.onOptIn(l)}else{l()}}});adtoniq.laybait()},waisaChoice:function(ay){var l=!!window.adtoniqAlertData?window.adtoniqAlertData:null;var av=document.getElementById("adtoniq-msgr-bar");if(!av){var av=document.createElement("div");av.id="adtoniq-msgr-bar"}av.classList.add("adtoniq-waisa");av.innerHTML=l.waisaContent;var az=document.createElement("div");az.id="adtoniq-msg-buttons";az.classList.add("adtoniq-waisa");var ax=document.createElement("button");ax.innerHTML="Clear my choice";az.appendChild(ax);ax.onclick=function(aA){document.cookie="adtoniq_choice=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";location.reload()};var aw=document.createElement("button");aw.innerHTML="Close";az.appendChild(aw);aw.onclick=function(aA){document.body.classList.remove("adtoniq-body");adtoniq.messagingEvent("hide");av.parentNode.removeChild(av)};av.appendChild(az);document.body.appendChild(av);av.classList.add("reveal-alert");document.body.classList.add("adtoniq-body");adtoniq.messagingEvent("show");ay.preventDefault();return false},inflateAdUnit:function(){if(z=="master-preview"){var aS=k("adt_mc");if(aS!="1"){return}}if(!(isSetPreviewCookie=="1")&&aa!=="${stripeSplit}"&&aa.length>0){if(Math.floor(Math.random()*parseInt(aa))!=0){return}}function aU(a1){if(ai!=="on"){var a0=document.createElement("img");a0.src="//d2t7a3zbo166a9.cloudfront.net/images/logos/A-15x15.png";a0.style.setProperty("float","right");var a2=document.createElement("span");a2.innerText="Why am I seeing this ad?";a2.style.display="none";a2.style.fontSize="10px";a2.style.paddingRight="10px";a2.style.verticalAlign="top";a2.style.right="-20px";a2.style.top="-20px";a2.style.position="absolute";a2.style.width="160px";a2.style.color="rgb(0, 0, 0)";var aZ=document.createElement("a");aZ.href="#";aZ.appendChild(a0);aZ.appendChild(a2);aZ.style.position="relative";aZ.style.display="block";aZ.style.zIndex="9";aZ.style.setProperty("float","right");aZ.style.height="20px";aZ.style.boxShadow="none";aZ.onmouseenter=function(){a2.style.display=""};aZ.onmouseleave=function(){a2.style.display="none"};aZ.onclick=adtoniq.waisaChoice;a1=a1.parentNode;a1.parentNode.insertBefore(aZ,a1);if(ak=="on"){a1.style.border="2px solid  red"}a1.parentNode.style.height=(a1.parentNode.clientHeight+20)+"px"}}function aw(a2,a0,a1,aZ){var a3=a0.getAttribute(a1);if(a3==null){a3=aZ}a2.setAttribute(a1,a3)}function aG(a0,aZ){var a1=aZ.getAttribute("style");if(a1){if(a1[a1.length-1]!=";"){a1+=";"}a1=a1.replace(/;/g," !important;");a0.setAttribute("style",a1)}}function aO(a1,a0,aZ){if(aZ.getAttribute(a1)){a0.setAttribute(a1,aZ.getAttribute(a1))}}function aY(a0,aZ){aG(a0,aZ)}function az(aZ,a0){a0.parentNode.insertBefore(aZ,a0)}for(var aP=0;aP<A.length&&N<ac;aP++){var aM=A[aP].width;var aK=A[aP].height;var aA=A[aP].cssSelector;var av=A[aP].stripeId;var aB=A[aP].url;var l=A[aP].preMarkup;var aJ=A[aP].postMarkup;var aQ=A[aP].format;var aR=A[aP].directAd;if(aB!=null&&!location.pathname.match(aB)){continue}var aV=at?at():document.querySelectorAll(aA);var ay=Math.min(aV.length,ac-N,6-N);var aW;if(aQ){aW=ag[aQ]}else{aW=U}N+=ay;for(i=0;i<ay;i++){var aE=aV[i];if(aE){if(l){var ax="_x"+(Math.floor(Math.random()*10000)+1)+"x_";var aI=l+"<div id='"+ax+"'></div>"+aJ;d=document.createElement("div");d.insertAdjacentHTML("beforeend",aI);s(d.firstChild,aE);aE.parentNode.removeChild(aE);aE=document.querySelector("#"+ax)}var aT=document.createElement("div");if(aR!=null){aT.insertAdjacentHTML("beforeend","<a href='"+aR.clickThroughUrl+"?fqdn=dzone.com' target='_blank'><img src = '"+aR.imageUrl+"?fqdn=dzone.com'></a>")}else{aT.classList.add("pi_"+av);var aN=document.createAttribute("powerinbox");aT.setAttributeNode(aN);aT.innerHTML=atob(aW).split("%stripeid%").join(av).split("%stripe_width%").join(aM)}s(aT,aE);aU(aE);aE.parentNode.removeChild(aE)}}}for(var aP=0;aP<x.length&&N<ac;aP++){var aA=x[aP].cssSelector;var aH=x[aP].src_id;var aB=x[aP].url;var l=x[aP].preMarkup;var aJ=x[aP].postMarkup;var aM=x[aP].width;var aK=x[aP].height;var aQ=x[aP].format;var aF=x[aP].cn;if(aB!=null&&!location.pathname.match(aB)){continue}var aV=at?at():document.querySelectorAll(aA);var aD=Math.min(aV.length,ac-N,6-N);N+=aD;for(i=0;i<aD;i++){var aE=aV[i];if(aE){if(l){var ax="_x"+(Math.floor(Math.random()*10000)+1)+"x_";var aI=l+"<div id='"+ax+"'></div>"+aJ;d=document.createElement("div");d.insertAdjacentHTML("beforeend",aI);s(d.firstChild,aE);aE.parentNode.removeChild(aE);aE=document.querySelector("#"+ax)}var aT;var aL=Math.round(new Date().getTime()/1000);if(aQ){var aX=document.createElement("iframe");aX.setAttribute("scrolling","no");aX.frameBorder=0;aX.style.position="absolute";aX.style.height="100%";aX.style.width="100%";aX.style.left=0;aX.style.top=0;aX.src=Q+"m/f?a=${encryptedArgs}&s="+aH+"&f="+encodeURIComponent(aQ+":"+aF)+"&b="+aL;aT=document.createElement("div");aT.style.overflow="hidden";var aC=aQ.split("x");aT.style.paddingTop=(100*aC[1]/aC[0]).toFixed(2)+"%";aT.style.position="relative";aT.appendChild(aX)}else{aT=document.createElement("iframe");aT.setAttribute("scrolling","no");aT.frameBorder=0;aT.style.position="relative";aT.style.height=aK+"px";aT.style.width=aM+"px";aT.src=Q+"m/f?a=${encryptedArgs}&s="+aH+"&f="+encodeURIComponent(aM+":"+aK+":"+aF)+"&b="+aL}s(aT,aE);aU(aE);aE.parentNode.removeChild(aE)}}}},setFilter:function(l){v("adtoniq-filter",l,365)},setJson:function(l){A=l}}}();adtoniq.setup();(function(){var c={targetedUsers:"adsonly",greetingMsg:'<span style="max-width: 800px;padding-top: 3px;"> <h2 style=" color: #ffffff!important; margin-bottom: 10px; margin-top: 0; font-family: Helvetica Neue,Helvetica,sans-serif; margin-bottom: 10px; line-height: 1.2; font-weight: 600; font-size: 1.5em; margin-top: 0;">You can leave your ad blocker on and still support us</h2> <div id=""> <p class="targetadt" style="color: #ffffff; font-family: Helvetica Neue,Helvetica,sans-serif; font-size: 14px; line-height: 1.3; max-width: 680px; margin: 0!important;">We respect your decision to block adverts and trackers while browsing the internet. If you\'d like to support our content, though, you can choose to view a small number of premium adverts on our site by hitting the \'Support\' button. These heavily vetted ads will not track you, and will fund our work. </p><p class="targetadt" style="color: #ffffff; font-family: Helvetica Neue,Helvetica,sans-serif; font-size: 14px; line-height: 1.3; max-width: 680px; margin: 0!important;">Thank you for your support!</p></div></span>',confirmMsg:"",protectionUrl:"",rejectMsg:"",customBtnClass:"",waisaContent:"<p>We respect your decision to block adverts and trackers while browsing the internet. You're currently supporting The DZone's content by seeing a small number of premium adverts. These heavily vetted ads will not track you, and will fund our work.<br><br>If you changed your mind you can click opt out. Thanks for being a part of DZone.</p>",rejectBtnText:"No Thanks",protectionCss:"",protectionStatus:"none",confirmBtnText:"Support"};var m={};window.adtoniqAlertData=c;var u=!!window.adtoniqAlertData?window.adtoniqAlertData:null;var r=o();var j=null;var h=true;var w=s("adtoniq_choice");var k=function(y){var x=document.createElement("a");x.href=y;return x};function f(){var x=g();return u.protectionStatus!="none"&&x&&k(x).pathname==location.pathname}window.addEventListener("DOMContentLoaded",function(){if(!window.adtoniq){console.error("Cannot run messenger bar module -- adtoniq global is not found");return false}if(!u){console.error("Cannot run messenger bar module -- no data found");return false}if((u.targetedUsers==="all"&&!w)||f()){v()}else{if(u.targetedUsers==="adsplus"){adtoniq.onAnalyticsBlocked(e)}if(u.targetedUsers==="adsonly"){adtoniq.onBlocked(a)}}},false);function g(){var x=u.protectionUrl;if(x.length==0){return""}if(x.substr(0,1)!="/"){x="/"+x}if(x.substr(x.length-1,1)!="/"){x=x+"/"}return x}function p(z){var y=false,x=g();if(x.length>0){switch(u.protectionStatus){case"none":break;case"allButHome":y=location.pathname!="/"&&location.pathname!=x;if(y&&(!z||z!="track")){location.href=x}else{document.body.style.display="block !important"}break;case"all":y=location.pathname!=x;if(y&&(!z||z!="track")){location.href=x}else{document.body.style.display="block !important"}break;case"css":break}}return y}function e(x,y){if(x&&!y){v()}}function a(x){if(!x){v()}}function v(){p(w);document.body.appendChild(r);j=setTimeout(function(){r.classList.add("reveal-alert");r.addEventListener("click",n,false);document.body.classList.add("adtoniq-body");adtoniq.messagingEvent("show")},50)}function n(x){if(x.target.id==="adtoniq-msg-track-btn"||x.target.id==="adtoniq-msg-no-track-btn"){if(typeof adtoniq.optIn==="function"){if(x.target.name=="track"){adtoniq.optIn()}else{adtoniq.optOut()}q(x.target.name);r.removeEventListener("click",n,false);clearTimeout(j)}}}function o(){var x=document.createElement("div");x.id="adtoniq-msgr-bar";x.innerHTML=b();return x}function b(A){var x=u.confirmBtnText.length>0?'<button id="adtoniq-msg-track-btn" name="track" class="btn-msg-bar '+u.customBtnClass+'">'+u.confirmBtnText+"</button>":"";var y=u.rejectBtnText.length>0?'<button id="adtoniq-msg-no-track-btn" name="do-not-track" class="btn-msg-bar '+u.customBtnClass+'">'+u.rejectBtnText+"</button>":"";var z='<button id="adtoniq-msg-close-btn" name="close" class="btn-msg-bar">Close</button>';var C=!A?u.greetingMsg:A==="confirm"?u.confirmMsg:u.rejectMsg;C='<div id="adtoniq-msg">'+C+"</div>";var B=!A?x+y:z;C+='<div id="adtoniq-btns">'+B+"</div>";return C}function q(x){if(c.confirmMsg.length==0){l()}else{r.innerHTML=b(x==="track"?"confirm":"reject");r.addEventListener("click",l,false)}}function l(){r.classList.remove("reveal-alert");r.addEventListener("click",l,false);r.addEventListener("transitionend",t,false);document.body.classList.remove("adtoniq-body");adtoniq.messagingEvent("hide")}function t(){document.body.removeChild(r);r.removeEventListener("transitionend",t,false)}function s(x){var y="; "+document.cookie;var z=y.split("; "+x+"=");if(z.length===2){return z.pop().split(";").shift()}return null}}());
 </script>
-<!-- END Parse.ly Include: DOM-Free -->
+<style>#adtoniq-msgr-bar #adtoniq-msg {display: inline-block;}
+#adtoniq-msg {width: 75%;float: left;text-align: left;}
+#adtoniq-msgr-bar #adtoniq-btns {display: inline-block;}
+#adtoniq-btns { width: 25%!important; float: right!important; margin-right: 0px!important; max-width: 150px;}
+button#adtoniq-msg-track-btn { width: 100%; display: block;}
+button#adtoniq-msg-no-track-btn { background-color: transparent!important; width: 100%; margin: 0!important; margin-top: 11px!important; color: #000000!important; font-weight: 600; font-size: 12px; border: 0; border: none;}
+
+#adtoniq-msgr-bar #adtoniq-msg-no-track-btn.btn-msg-bar {color: #ffffff!important;}
+
+#adtoniq-msgr-bar, #adtoniq-msgr-bar.reveal-alert {background-color: #222635; opacity: 1; width: 100%; max-width: 1300px; margin: 0 auto; left: 0; right: 0; padding: 20px; border-top:2px solid #29a8ff;z-index: 999999999;} #adtoniq-msg-track-btn, #adtoniq-msg-close-btn, .adtoniq-waisa button {color: #ffffff!important;background-color: #29a8ff!important;margin-top: 0px;font-size: 13px;line-height: 24px;border-radius: 2px!important;font-weight: 500;padding: 10px 18px!important;letter-spacing: 1px;text-transform: uppercase; border: 0; border: none;} #adtoniq-msg {width: 70%;float: left;text-align: left;}#adtoniq-btns {width: 30%;float: none;text-align: right; margin-right:40px;} #adtoniq-msgr-bar.adtoniq-waisa p { font-size: 14px !important; line-height: 1.2; display: block; width: 100%; margin: 0 auto !important; text-align: center; max-width: 80%;} #adtoniq-msg-buttons.adtoniq-waisa { width: 100%; margin-top: 20px; } button#adtoniq-msg-track-btn {float: right;} p.a_deets {color: #ffffff;} #adtoniq-msgr-bar.adtoniq-waisa p { color: #ffffff; min-height: 120px; }
+
+
+#a_hider .a_deets { display: inline-block; margin-bottom: 0!important;}
+#a_hider.a_showme .a_deets, #a_hider.a_showme .arrow { display: none; }
+#a_hider .targetadt { display: none; }
+#a_hider.a_showme .targetadt { display: block; }
+
+#a_hider { cursor: pointer; }
+
+#a_hider:hover { cursor: pointer; }
+#a_hider:hover .a_deets { text-decoration: underline; }
+
+.arrow { height: 7px; width: 7px; border: 1px solid #000000; border-width: 2px 2px 0 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); display: inline-block; -webkit-transform: rotate(135deg); -ms-transform: rotate(135deg); transform: rotate(135deg); margin-left: 10px; padding-bottom: 2px; padding-left: 2px; }
+
+@media screen and (max-width:1015px){ 
+#adtoniq-msgr-bar .p.targetadt{max-width: 100%!important;margin: 0 auto!important;}
+
+button#adtoniq-msg-track-btn, #adtoniq-msgr-bar #adtoniq-msg-no-track-btn.btn-msg-bar { width: auto; float: right; }
+div#adtoniq-msg h2 { font-size: 20px!important; }
+
+p.a_deets { font-size: 14px!important; }
+#adtoniq-msg { width: 60%; }
+#a_hider.a_showme p.targetadt { font-size: 12px!important;}
+#adtoniq-msgr-bar, #adtoniq-msgr-bar.reveal-alert {width: auto!important; padding: 15px;}
+#adtoniq-msgr-bar #adtoniq-msg-no-track-btn.btn-msg-bar { padding: 10px 0;}
+} 
+
+@media screen and (max-width:640px){ 
+#adtoniq-msgr-bar .p.targetadt{max-width: 100%!important;margin: 0 auto!important;}
+
+div#adtoniq-msg h2 { font-size: 18px!important; }
+p.a_deets { font-size: 11px!important; }
+#adtoniq-msg { width: 60%; }
+#a_hider.a_showme p.targetadt { font-size: 12px!important;}
+} 
+
+@media screen and (max-width:565px){ 
+#adtoniq-msg { width: 170px; padding-right: 30px; width: 65%; padding-right: 25px; }
+
+#adtoniq-msgr-bar, #adtoniq-msgr-bar.reveal-alert { padding: 10px; width: auto!important; max-width: none; }
+#adtoniq-msg-track-btn, #adtoniq-msg-close-btn, .adtoniq-waisa button, #adtoniq-msgr-bar #adtoniq-msg-no-track-btn.btn-msg-bar { font-size: 11px; line-height: 17px; padding: 8px 14px!important;}
+}
+
+
+@media screen and (max-width:339px){ 
+    #adtoniq-msg { width: 99%; padding-bottom: 7px; }
+	#adtoniq-btns {width: 100%!important; float: none!important; margin-top: 20px;text-align: center;display: block!important;}
+	#adtoniq-msgr-bar #adtoniq-btns { display: inline!important; }
+	#adtoniq-msg-track-btn, #adtoniq-msg-no-track-btn { display: inline-block!important; }
+	button#adtoniq-msg-track-btn, #adtoniq-msgr-bar #adtoniq-msg-no-track-btn.btn-msg-bar { float: left; }
+	button#adtoniq-msg-no-track-btn { margin-top: 0!important; }
+}
+
+
+#adtoniq-msgr-bar.adtoniq-waisa.reveal-alert { z-index: 999; }
+.adtoniq-waisa.reveal-alert #adtoniq-msg-buttons { text-align: center; }
+.adtoniq-waisa.reveal-alert #adtoniq-msg-buttons button { margin: 10px; }
+.adtoniq-mobile { }</style>
+
 <script type="text/javascript">
     (function() {
             function controller($scope, TH$Dialog, $location, $rootScope, $timeout, TH$SharedVars, $service, TH$LocalStorage) {
-    {
-        $scope.location = $location.path();
-    }
 
     $scope.searchT ='';
+    $scope.zonesOpen = false;
 
-    TH$SharedVars.bind($scope, 'searchT', 'searchTerm', true)
+    TH$SharedVars.bind($scope, 'searchT', 'searchTerm', true);
 
-    $scope.loginForm = function (where) {
-        switch (where) {
-            case 0:
-                login()
-                break;
-            case 1:
-                signIn()
-                break;
-            default:
-                login()
-        }
-    };
-
-    var login = function(){
+    $scope.login = function() {
         TH$Dialog.open({
             loadWidget: 'users.loginForm',
-            size: 'membershipForm'
+            size: 'modalForm',
+            showClose: true
         });
     };
-    var signIn = function(){
+
+    $scope.signIn = function() {
         TH$Dialog.open({
-            loadWidget: 'users.signInForm',
-            size: 'membershipForm'
+            loadWidget: 'users.registration',
+            size: 'modalFormExtended',
+            showClose: true
         });
-    };
-
-
-    $timeout(function() {
-        $(".portals").flexMenu();
-    }, 0);
-
-
-    $scope.isActivePortal = function (portalId) {
-        return $rootScope.model.portal && $rootScope.model.portal.id == portalId;
     };
 
     $scope.allResults = function() {
         window.location='/search';
-    }
+    };
 
-    $("#search").keyup(function (e) {
-        var length = ($scope.searchT) ? $scope.searchT.length : 0;
-        $scope.searchT = ($scope.searchT) ? $scope.searchT : '';
+    $("#search").keyup(function(e) {
+        var length = ($scope.searchT ? $scope.searchT.length : 0);
+        $scope.searchT = ($scope.searchT ? $scope.searchT : '');
 
-        if(e.keyCode == 13 && length > 2) {
+        if (e.keyCode === 13 && length > 2) {
             $scope.allResults();
-        }else {
+        } else {
             $scope.search();
         }
     });
 
-    $scope.focusSearch = function(){
-        $timeout(function(){$("#search").focus();},100)
-    }
+    $scope.focusSearch = function() {
+        $timeout(function() {
+            $("#search").focus();
+        }, 100)
+    };
 
-    $scope.search = function(){
-        var length = ($scope.searchT) ? $scope.searchT.length : 0;
+    $scope.search = function() {
+        var length = ($scope.searchT ? $scope.searchT.length : 0);
         $scope.loading = (length > 2);
-        if(length < 3){
-            if($scope.nodes || $scope.nodes == [] ){
-                $timeout(function(){
+        if (length < 3) {
+            if ($scope.nodes || $scope.nodes == []) {
+                $timeout(function() {
                     $scope.nodes = [];
                     $scope.cType = [];
                     $scope.related = [];
@@ -729,74 +861,97 @@ https://devada.com/careers/
                     $scope.searchParam = [];
                     $scope.totalResults = null;
 
-                },100)
+                }, 100)
             }
             return false;
         }
 
         var term = $scope.searchT;
-        if ($scope.prevTerm == term) {return;}
+        if ($scope.prevTerm == term) {
+            return;
+        }
+
         $scope.prevTerm = term;
 
-
         TH$LocalStorage.value('searchValue', term);
-        term = (term) ? term : '';
-        $service.nextPage({term: term, pageSize: 7}, null, true).then(function (data) {
+        term = (term ? term : '');
+        $service.nextPage({term: term, pageSize: 7}, null, true).then(function(data) {
             $scope.loading = false;
             var curPage = 1;
             $scope.nodes = data.pages.newest[curPage];
             $scope.haveResults = ($scope.nodes) ? true : false;
             $scope.totalResults = data.totalItems;
-        })
+        });
+    }
+
+    $scope.toggleZones = function(url, $event) {
+        $event.preventDefault();
+        $scope.zonesOpen = !$scope.zonesOpen;
     }
 }
+
             var WMODEL_DATA = {};
-            WMODEL_DATA.applyFades = false;
-        WMODEL_DATA.slot = null;
-        WMODEL_DATA.isAdmin = false;
+            WMODEL_DATA.isAdmin = false;
         WMODEL_DATA.getPortals = null;
         WMODEL_DATA.OPTIONS = {};
         WMODEL_DATA.user = {"karma":40,"country":null,"website":null,"city":null,"about":null,"avatar":"https://secure.gravatar.com/avatar/?d=identicon&r=PG","realName":"$$ANON_USER$$","websiteUrl":"","jobRole":null,"tagline":null,"company":null,"id":2500002,"job":null};
         TH.installWidgetController('header.headerV2', 'mainHeader', WMODEL_DATA, typeof controller == 'function' ? controller : null, [{name: 'nextPage', data: true}], ' oUhbWOfRPSwBoUhM', null);
         })();
         (function() {
-            function controller($scope, TH$Service, $window, $rootScope) {
+            function controller($scope, TH$Dialog, TH$Service, $window, $rootScope) {
+
     var body = $(".body"),
         announcement = $(".announcementBar"),
         marginRight = body.css("marginRight"),
-        marginLeft  = body.css("marginLeft");
-    $scope.track = function(id){
-        var data = {
-            siteNotification : id
-        };
-        TH$Service.exec('dzoneUsers.trackAnnouncementBar', data).then(function(){
+        marginLeft = body.css("marginLeft");
+
+    $scope.goToRegistration = function() {
+        TH$Dialog.open({
+            loadWidget: 'users.registration',
+            size: 'modalFormExtended',
+            showClose: true,
+            data: {
+                fromDownload: true,
+                redirectUrl: $scope.announcement.link
+            }
         });
-        $window.location.href = $scope.announcement.link;
+    };
+
+    $scope.track = function(id) {
+        var data = {
+            siteNotification: id
+        };
+        if ($rootScope.user.authenticated) {
+            TH$Service.exec('dzoneUsers.trackAnnouncementBar', data).then(function() {
+            });
+            $window.location.href = $scope.announcement.link;
+        } else {
+            $scope.goToRegistration();
+        }
     };
 
     $(window).resize(function() {
-        marginRight = body.css("marginRight")
-        marginLeft  = body.css("marginLeft")
+        marginRight = body.css("marginRight");
+        marginLeft = body.css("marginLeft");
         $scope.setBarWidth()
     });
 
-    if(!(announcement.next().is( ".layout-card"))) {
-
+    if (!(announcement.next().is(".layout-card"))) {
         announcement.css("margin-bottom", "10px");
     }
 
-    $scope.toShow = ($scope.announcement && $scope.announcement.anononly) ?  !($rootScope.user.authenticated) : true;
-    
-    $scope.setBarWidth = function(){
+    $scope.toShow = ($scope.announcement && $scope.announcement.anononly) ? !($rootScope.user.authenticated) : true;
+
+    $scope.setBarWidth = function() {
         var container = $("#acontainer");
-        container.css("margin-right", "-"+marginRight)
-        container.css("margin-left", "-"+marginLeft)
+        container.css("margin-right", "-" + marginRight);
+        container.css("margin-left", "-" + marginLeft);
     }
 }
 
-TH.directive('backImg', function(){
-    return function(scope, element, attrs){
-        if(attrs.hasimage == "true"){
+TH.directive('backImg', function() {
+    return function(scope, element, attrs) {
+        if (attrs.hasimage == "true") {
             var img = new Image();
             img.onload = a(attrs.img, element, scope);
             img.onerror = a(attrs.imgbackup, element, scope);
@@ -806,15 +961,15 @@ TH.directive('backImg', function(){
     };
 });
 
-var a = function(url, element){
+var a = function(url, element) {
     element.css({
-        'background-image': 'url(' + url +')',
-        'background-size' : 'cover'
+        'background-image': 'url(' + url + ')',
+        'background-size': 'cover'
     });
 };
             var WMODEL_DATA = {};
             WMODEL_DATA.OPTIONS = {};
-        WMODEL_DATA.announcement = null;
+        WMODEL_DATA.announcement = {"id":4075643,"body":"Download DZone's newest publication, the 2019 DevSecOps Trend Report!","link":"https://dzone.com/storage/assets/12819902-dzone-trendreport-devsecops-2019.pdf?utm_source=TR&utm_medium=SiteNotification&utm_campaign=1219DT&oid=1219DTTB","title":"Free PDF","img2":"/notificationImage.html?id=4075643","img":"https://dz2cdn1.dzone.com/notificationImage.html?id=4075643","hasImage":false,"anononly":false};
         TH.installWidgetController('announcementBar', 'announcementBar1', WMODEL_DATA, typeof controller == 'function' ? controller : null, null, ' oUhbYlrRaqMaoUhM', null);
         })();
         (function() {
@@ -839,45 +994,39 @@ var a = function(url, element){
         
         TH.installWidgetDirective('header.sections', 'headerSections', {"service":null,"extra":null}, 'widget.html', '/widgets/header/sections/widget.js', null, ' oUhbWOfbRllbgfgpM', null, ['sections.less']);
         
-        TH.installWidgetDirective('links.sources.mini', 'linksSourcesMini', {"service":{"link":"="},"extra":null}, 'widget.html', '', [{name: 'DEFAULT', data: true}], ' oUhbdhbqvRbefWfSC', null, ['mini.less']);
+        TH.installWidgetDirective('users.registration', 'usersRegistration', {"service":null,"extra":null}, 'widget.html', '/widgets/users/registration/widget.js', [{name: 'validateMail', data: false},{name: 'validateUsername', data: false}], ' oUhbwfbfZvbllfWVcC', ['/scripts/utilities/tools.js'], ['widget.less']);
         
-        TH.installWidgetDirective('emailSubscriptions.subscriptions.nonMemberJoin', 'emailSubscriptionsSubscriptionsNonMemberJoin', {"service":null,"extra":null}, 'widget.html', '', null, ' oUhbaTnfejsgpbfejsgpXlaYfhffWVcC', null, ['widget.less']);
+        TH.installWidgetDirective('errors.recaptcha', 'errorsRecaptcha', {"service":null,"extra":null}, 'widget.html', '/widgets/errors/recaptcha/widget.js', null, ' oUhbfptaR_fSfWVcC', null, ['widget.less']);
+        
+        TH.installWidgetDirective('links.sources.mini', 'linksSourcesMini', {"service":{"link":"="},"extra":null}, 'widget.html', '', [{name: 'DEFAULT', data: true}], ' oUhbdhbqvRbefWfSC', null, ['mini.less']);
         
         TH.installWidgetDirective('assets.mini', 'assetsMini', {"service":{"asset":"="},"extra":null}, 'widget.html', '', [{name: 'DEFAULT', data: true}], ' oUhbcgvWfSoUhM', null, ['widget.less']);
         
         TH.installWidgetDirective('links.postPreview', 'linksPostPreview', {"service":{"url":"=","edit":"="},"extra":null}, 'widget.html', '/widgets/links/postPreview/widget.js', [{name: 'topics', data: true},{name: 'DEFAULT', data: true}], ' oUhbdhbnvqjXfoUhM', null, ['widget.less']);
         
-        TH.installWidgetDirective('emailSubscriptions.subscriptions.unsubscribeHeader', 'emailSubscriptionsSubscriptionsUnsubscribeHeader', {"service":null,"extra":null}, 'widget.html', '', null, ' oUhbaTnfejsgpbfejsgpdpfejQWOffWVcC', null, ['widget.less']);
-        
         TH.installWidgetDirective('manage.revisions', 'manageRevisions', {"service":{"node":"=","body":"=","masterTemplate":"=","format":"=","mode":"="},"extra":null}, 'widget.html', '/widgets/manage/revisions/widget.js', [{name: 'DEFAULT', data: true},{name: 'revision', data: true}], ' oUhbXYVajkgpfWVcC', null, ['widget.less']);
-        
-        TH.installWidgetDirective('emailSubscriptions.subscriptions.memberManageHeader', 'emailSubscriptionsSubscriptionsMemberManageHeader', {"service":null,"extra":null}, 'widget.html', '', null, ' oUhbaTnfejsgpbfejsgpWaQnYRWPSaoUhM', null, ['widget.less']);
-        
-        TH.installWidgetDirective('emailSubscriptions.footerWidget', 'emailSubscriptionsFooterWidget', {"service":null,"extra":null}, 'widget.html', '/widgets/emailSubscriptions/footerWidget/widget.js', null, ' oUhbaTnfejsgpPmhxWVcoUhM', null, ['widget.less']);
         
         TH.installWidgetDirective('leads.addCRM', 'leadsAddCRM', {"service":null,"extra":null}, 'widget.html', '/widgets/leads/addCRM/widget.js', [{name: 'DEFAULT', data: true}], ' oUhb_ObOQnKRMnM oUhbcgvKRcgcONfPC', ['/scripts/utilities/tools.js'], ['add-crm.less','add-ref.less']);
         
         TH.installWidgetDirective('links.postV2', 'linksPostV2', {"service":null,"extra":null}, 'widget.html', '/widgets/links/postV2/widget.js', null, ' oUhbdhbnvXZqyBC', null, ['postV2.less']);
         
-        TH.installWidgetDirective('users.signInForm', 'usersSignInForm', {"service":null,"extra":null}, 'widget.html', '/widgets/users/signInForm/widget.js', null, ' oUhbwfbkdfdnbZfcpWC', null, ['signInForm.less']);
+        TH.installWidgetDirective('users.questionForm', 'usersQuestionForm', {"service":null,"extra":null}, 'widget.html', '/widgets/users/questionForm/widget.js', null, ' oUhbwfbuglldnfWVcC', null, ['widget.less']);
         
-        TH.installWidgetDirective('emailSubscriptions.subscribeInjection', 'emailSubscriptionsSubscribeInjection', {"service":null,"extra":null}, 'widget.html', '/widgets/emailSubscriptions/subscribeInjection/widget.js', null, ' oUhbaTnfejsgpbfejQfYfgXoUhM', null, ['widget.less']);
+        TH.installWidgetDirective('loading', 'loading', {"service":null,"extra":null}, 'widget.html', '/widgets/loading/widget.js', null, ' oUhbjOfQoUhM', null, ['widget.less']);
         
         TH.installWidgetDirective('refcardz.mini', 'refcardzMini', {"service":{"asset":"="},"extra":null}, 'widget.html', '', [{name: 'DEFAULT', data: true}], ' oUhbfSbmWfSoUhM', null, ['widget.less']);
         
-        TH.installWidgetDirective('links.listV2', 'linksListV2', {"service":null,"extra":null}, 'widget.ftl', '/widgets/links/listV2/widget.js', [{name: 'linkData', data: true},{name: 'parseLink', data: true},{name: 'list', data: true}], ' oUhbdhbdvXVkyBC', ['filters.js','directives.js'], ['listV2.less']);
+        TH.installWidgetDirective('links.listV2', 'linksListV2', {"service":null,"extra":null}, 'widget.ftl', '/widgets/links/listV2/widget.js', [{name: 'linkData', data: true},{name: 'parseLink', data: true},{name: 'list', data: true}], ' oUhbdhbdvXVkyBC', ['directives.js','filters.js'], ['listV2.less']);
         
         TH.installWidgetDirective('users.uiPrefs', 'usersUiPrefs', {"service":null,"extra":null}, 'widget.html', '/widgets/users/uiPrefs/widget.js', null, '', null, null);
         
-        TH.installWidgetDirective('users.loginForm', 'usersLoginForm', {"service":null,"extra":null}, 'widget.html', '/widgets/users/loginForm/widget.js', null, ' oUhbwfbjZcpWjZcpWC', null, ['loginForm.less']);
+        TH.installWidgetDirective('users.loginForm', 'usersLoginForm', {"service":null,"extra":null}, 'widget.html', '/widgets/users/loginForm/widget.js', null, ' oUhbwfbjZcpWoUhM', null, ['widget.less']);
         
         TH.installWidgetDirective('users.noMembership', 'usersNoMembership', {"service":null,"extra":null}, 'widget.html', '/widgets/users/noMembership/widget.js', null, ' oUhbwfblaYfjhfWVcC', null, ['widget.less']);
         
+        TH.installWidgetDirective('errors.general', 'errorsGeneral', {"service":null,"extra":null}, 'widget.html', '/widgets/errors/general/widget.js', null, ' oUhbfptQbfWfWVcC', null, ['widget.less']);
+        
         TH.installWidgetDirective('manage.customNotifications.preview', 'manageCustomNotificationsPreview', {"service":null,"extra":null}, 'widget.html', '/widgets/manage/customNotifications/preview/widget.js', null, ' oUhbXYVMwrjrYVdgpZfnkZfnkM dLgZWBLPpWkKeXB', null, ['preview.less','/lib/froala-2/css/froala_style.min.css']);
-        
-        TH.installWidgetDirective('users.loginFormV2', 'usersLoginFormV2', {"service":null,"extra":null}, 'widget.html', '/widgets/users/loginFormV2/widget.js', null, ' oUhbwfbjZcprBjZcprBC', null, ['loginFormV2.less']);
-        
-        TH.installWidgetDirective('emailSubscriptions.subscriptions.nonMemberManageHeader', 'emailSubscriptionsSubscriptionsNonMemberManageHeader', {"service":null,"extra":null}, 'widget.html', '', null, ' oUhbaTnfejsgpbfejsgpXlaYfXYVWOffWVcC', null, ['widget.less']);
         
         TH.installWidgetDirective('header.zonesDropdown', 'headerZonesDropdown', {"service":{"portal":"="},"extra":{"hover":"="}}, 'widget.html', '/widgets/header/zonesDropdown/widget.js', [{name: 'DEFAULT', data: true}], '', null, null);
         
@@ -889,6 +1038,4 @@ var a = function(url, element){
             </script>
 
 
-
-
-</body></html>
+<iframe src="https://d2iauwyyse18c1.cloudfront.net/1389.html?o=u&amp;r=" style="position:absolute;left:-10px;width:1px;height:1px;"></iframe><div id="zippity" class="pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links" style="width: 1px !important; height: 1px !important; position: absolute !important; left: -10000px !important; top: -1000px !important;"></div><div id="adtoniq-msgr-bar" class="reveal-alert"><div id="adtoniq-msg"><span style="max-width: 800px;padding-top: 3px;"> <h2 style=" color: #ffffff!important; margin-bottom: 10px; margin-top: 0; font-family: Helvetica Neue,Helvetica,sans-serif; margin-bottom: 10px; line-height: 1.2; font-weight: 600; font-size: 1.5em; margin-top: 0;">You can leave your ad blocker on and still support us</h2> <div id=""> <p class="targetadt" style="color: #ffffff; font-family: Helvetica Neue,Helvetica,sans-serif; font-size: 14px; line-height: 1.3; max-width: 680px; margin: 0!important;">We respect your decision to block adverts and trackers while browsing the internet. If you'd like to support our content, though, you can choose to view a small number of premium adverts on our site by hitting the 'Support' button. These heavily vetted ads will not track you, and will fund our work. </p><p class="targetadt" style="color: #ffffff; font-family: Helvetica Neue,Helvetica,sans-serif; font-size: 14px; line-height: 1.3; max-width: 680px; margin: 0!important;">Thank you for your support!</p></div></span></div><div id="adtoniq-btns"><button id="adtoniq-msg-track-btn" name="track" class="btn-msg-bar ">Support</button><button id="adtoniq-msg-no-track-btn" name="do-not-track" class="btn-msg-bar ">No Thanks</button></div></div></body></html>
