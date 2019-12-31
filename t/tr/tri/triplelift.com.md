@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the triplelift.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629112458id_/https%3A//triplelift.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triplelift.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231230436id_/https%3A//triplelift.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Triplelift
 
 **TRIPLELIFT PRIVACY POLICY**
 
-Updated and effective as of: May 23, 2018
+Updated and effective as of: December 20, 2019
 
 This Privacy Policy explains how Triple Lift, Inc. and its subsidiaries, including TripleLift UK Limited and Header Direct LLC (“ **TripleLift** ”, “ **we** ”, “ **us** ”, “ **our** ”) collect, use, and share information and the options available to you. If you have any questions, you may contact us. See the “ **Contacting Us** ” section below.  We may change this Privacy Policy from time to time. Please consult this Privacy Policy regularly for updates. See “ **Changes to this Privacy Policy** ” below for more information.  You acknowledge that you accept the practices described in this Privacy Policy by visiting and/or using our Services. 
 
@@ -223,9 +223,11 @@ iOS:   In iOS you can modify privacy settings in Settings > Privacy. You can s
 
 **ACCESS AND RIGHTS REGARDING PERSONAL INFORMATION**
 
-If you reside outside the European Economic Area and Switzerland, and you would like to review, correct, update, suppress, or delete the personal information that TripleLift maintains about you, or you would like to request a copy of your personal information held by us, you may contact us at privacy@triplelift.com.
+If you reside outside of California, the European Economic Area and Switzerland, and you would like to review, correct, update, suppress, or delete the personal information that TripleLift maintains about you, or you would like to request a copy of your personal information held by us, you may contact us at [privacy@triplelift.com](mailto:privacy@triplelift.com).
 
 If you are a resident of the European Economic Area, including Switzerland, you have the right to access the personal information that TripleLift maintains about you, and you may be able to review, correct, update, suppress, or delete that information or the processing of that information. To exercise these rights and other data subject rights as a resident of the European Economic Area, including Switzerland, please email us and our data protection officer at privacy@triplelift.com or see [access.triplelift.com](https://access.triplelift.com/).
+
+If you are a consumer who is a resident of California, California law requires us to inform you that TripleLift may sell your personal information to third parties in connection with our Services; however, subject to certain limitations, California law also permits you to request certain information regarding our disclosures or sales of your personal information during the preceding calendar year and gives you the right to opt out of our sale of your personal information to third parties. To learn more about California residents’ rights and, if you are a California resident, to make requests about your personal information or exercise your opt-out rights, visit our [Notice to California Residents](https://triplelift.com/ccpa/).
 
 To opt out of receiving marketing communications from us, please see “Choices.”
 
