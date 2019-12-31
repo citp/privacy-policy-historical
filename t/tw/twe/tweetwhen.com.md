@@ -1,220 +1,85 @@
-> *The following text is extracted and transformed from the tweetwhen.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123094114id_/http%3A//www.hubspot.com/privacy-policy/tabid/47008/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetwhen.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231211106id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-Last Modified: September 30, 2016 
+HUGEDOMAINS.COM PRIVACY POLICY
 
-We at HubSpot (HubSpot, Inc. and our affiliates) are committed to protecting your privacy. This Privacy Policy applies to both our websites (Websites), including www.hubspot.com, www.inbound.com, and our Subscription Service (the Subscription Service), including our associated mobile applications (Mobile Apps) owned and controlled by HubSpot. This Privacy Policy governs our data collection, processing and usage practices. It also describes your choices regarding use, access and correction of your personal information. By using the Websites or the Subscription Service, you consent to the data practices described in this Privacy Policy. If you do not agree with the data practices described in this Privacy Policy, you should not use the Websites or the Subscription Service. 
+HugeDomains's Privacy Policy describes how this site collects and uses the personally identifiable information provided by customers/consumers/users of this site. It also describes the choices available to customers regarding HugeDomains's use of customer's personally identifiable information and how that information may be accessed and updated by customers and how it may be provided to third-parties.
 
-We periodically update this Privacy Policy. If you subscribe to the Subscription Service, then you will receive notice when this Privacy Policy is modified. The notice will be delivered through the Notification app in the HubSpot portal used to access your HubSpot subscription. We encourage you to review this Privacy Policy periodically.
+If you do not agree to HugeDomains's Privacy Policy and/or [Terms of Service](https://web.archive.org/terms.cfm), you must immediately cease use of HugeDomains.com. If you do not agree, do not use HugeDomains's website or services,  do not purchase domains and do not enter into payment plans with HugeDomains.com.
 
-#### **EU – U.S. Privacy Shield**
+HugeDomains.com is a United States company, located in Denver, Colorado, USA. HugeDomains complies with the U.S-EU Safe Harbor framework which is dictated and set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. HugeDomains further complies with the California Online Privacy Protection Act and the Children's Online Privacy Protection Act (COPPA).
 
-HubSpot submitted its self-certification to the US Department of Commerce on September 30, 2016. Once we've been added to the list available on their website, we'll update our [Data Privacy Resources](https://legal.hubspot.com/data-privacy) page with a link.
+**What Information HugeDomains Collects**
 
-HubSpot participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. The following affiliated entities adhere to the Privacy Shield principles: HubSpot Ireland Limited, HubSpot Australia Pty Ltd, HubSpot Asia Pte. Ltd., and HubSpot Japan KK. HubSpot is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
+HugeDomains must collect certain personal data in order to conduct business, provide customer service and provide a customer with relevant requested services. Personal information is collected from customers when  a customer contacts HugeDomains through the website, when a customer purchases a domain, whenever a customer fills out a contact form on the HugeDomains platform; when a customer submits payment to HugeDomains; and when a customer contacts HugeDomains via phone or chat. HugeDomains will further collect certain personal information from customers as needed in order to continue to provide services to its customers and as required by any relevant law, rule, regulation, and other method that ensures the safety of HugeDomains, its customers, and the general public.
 
-HubSpot is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. HubSpot complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+HugeDomains collects customers' relevant personal information, including but not limited to: name, address, phone number, fax number (if applicable), email address and other data used to directly or indirectly to identify you in connection to your use of HugeDomains's services. Many products/services may require a customer to provide HugeDomains with additional information such as credit card information, associated billing information, or other financial and payment information. In order to protect HugeDomains and its customers, as well as intellectual property rights, HugeDomains may require customers to provide government identification and/or other documentation as proof of identity and physical address.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, HubSpot is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, HubSpot may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+**Why HugeDomains Collects This Information**
 
-You may direct any inquiries or complaints related to our Privacy Shield compliance to privacy@hubspot.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+HugeDomains collects customer information for several reasons, including but not limited to: following relevant and required ICANN data collection requirements, along with and to abide and comply with United States laws, rules, and regulations. Further, HugeDomains collects such information in order to allow HugeDomains to: 
 
-#### **U.S. – Swiss Safe Harbor**
+a. **To personalize customer experience**  \- customer information helps HugeDomains better respond to customer's individual needs.
 
-HubSpot complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from Switzerland. HubSpot has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view HubSpot's certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
+b. **To improve the HugeDomains website and services** \- HugeDomains continually strives to improve its website offerings and services based on the information and feedback received from customers.
 
-## **1\. Important Information**
+c. **To improve customer service** \- customer information helps HugeDomains more effectively respond to specific customer service requests and support needs. Should a customer contact HugeDomains for service or support, it will keep an internal record of such correspondence, whether email or telephone call, along with an internal record of support given.
 
-#### 1.1. Changes to this Privacy Policy
+d. **To process transactions**  \- other than specifically provided in this provision, or required by law, customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company without direct and express customer consent.
 
-We may update this Privacy Policy from time to time by posting a new version online. You should check this page occasionally to review any changes. If we make any material changes we will notify you by posting the revised Privacy Policy on our Websites and, if you subscribe to our Subscription Service, providing notice through the Notification app in the HubSpot portal used to access your HubSpot subscription. This helps you to always be aware of what information we collect, how we use it and under what circumstances, if any, it is disclosed. Your continued use of the Websites, the Subscription Service, and/or continued provision of Personal Information to us will be subject to the terms of the then-current Privacy Policy.
+e. **To send periodic emails** \- customer email addresses provided for order processing, will be used to send customers relevant and pertinent information and updates pertaining to their HugeDomains account and registered domain names and/or other services. These communications include, but are not limited, to: HugeDomains updates and questions or concerns regarding the customer, their account, or specific services. If a customer chooses to opt-in to a mailing list, they will receive email communications that may include company news, updates, related product or service information, as set per email preferences which is customizable from within each users' account.
 
-#### **1.2. Contact Us**
+f. **Domain ownership information**  \- HugeDomains.com sells domain names, and all domain name purchases require registrant information in order to complete the purchase and facilitate the transfer of the domain name. The information provided by a customer when purchasing a domain can and will be used to transfer ownership of said domain names. The registration information provided for a domain is recorded and shared with trusted parties in order to deliver such purchases to domain buyers. If a customer does not opt-in for privacy protection, the whois information provided when buying domain names may be shared via a public record called "whois".
 
-If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at privacy@hubspot.com or by mail to HubSpot, Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, Attn: Privacy.
+**How HugeDomains Collects this Information**
 
-## **2\. Use of the Subscription Service by HubSpot and our Customers**
+HugeDomains utilizes a variety of security measures to maintain the safety of customers' personal information. All supplied financial information (including credit card data) is transmitted via Secure Socket Layer (SSL) technology and then encrypted into the company's payment gateway provider's database. This database and the sensitive information contained within are only accessible by those authorized with special access rights to such systems and are required to keep the information confidential. 
 
-#### **2.1. The HubSpot Subscription Service**
+HugeDomains uses cookies (and other technologies such as web beacons, pixels, tags, scrips) to identify you so you don't need to log in each time you visit a HugeDomains website or its mobile applications. The cookies are linked to your customer account, which is associated with the information in your account. HugeDomains uses cookies to help remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that it can offer better site experiences and tools in the future. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most modern websites, if you turn your cookies off, some of HugeDomains's services may not function properly or function at all. HugeDomains does not test its website for this and does not guarantee use of services with cookies disabled. 
 
-Our online Subscription Service allows any company that uses it (our customers and HubSpot itself) to build marketing webpages on our servers where visitors can learn more about the company, download content, and provide their contact information and other demographic information. This information, which is stored and managed on our service providers' servers, is then used so that the visitors can be contacted about their interest in the company's goods or services and interact with the company. HubSpot provides the Subscription Service to our customers for their own marketing and lead generation, and we use it on our Websites for our own marketing and lead generation. 
+HugeDomains, like most companies, obtains information about its customers automatically and stores this information in its internal databases. This information may include but is not limited to: Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring entry/exit pages, operating system, date/time stamp and/or clickstream data, and other data that could directly or indirectly identify you. HugeDomains uses this information to help personalize your experience and search results, diagnose problems with its systems, to administer the services on this site, and for other corporate uses.
 
-#### **2.2. Use by HubSpot**
+**How HugeDomains Uses this Information**
 
-We use our own Subscription Service to build webpages that people can visit to learn more about HubSpot. Information that we collect and manage using the Subscription Service for our own marketing belongs to us and is used, disclosed and protected according to this Privacy Policy. 
+HugeDomains must first and foremost abide by local law. As a US company, HugeDomains will first abide by US laws and regulations when two laws might differ and/or conflict with one another.
 
-#### **2.3. Use by Our Customers**
+HugeDomains securely holds on to personal data internally. Such data can be held indefinitely in order to keep accurate records that may be required under local law and regulation. 
 
-Our customers use the Subscription Service to build webpages that people can visit to learn more about their business. HubSpot does not control the content of these webpages or the types of information that our customers may choose to collect or manage using the Subscription Service. That information belongs to them and is used, disclosed and protected by them according to their privacy policies and is not subject to this Privacy Policy. HubSpot processes our customers' information as they direct and in accordance with our agreements with our customers, and we store it on our service providers' servers, but we do not have control over its collection or management. Our agreements with our customers prohibit us from using that information, except as necessary to provide and improve the Subscription Service, as permitted by this Privacy Policy, and as required by law. We have no direct relationship with individuals who provide Personal Information to our customers. HubSpot acknowledges that you have the right to access your Personal Information. Our customers control and are responsible for correcting, deleting or updating information they have collected from you using the Subscription Service. If requested to remove data we will respond within a reasonable timeframe. We may work with our customers to help them provide notice to their visitors about their data collection, processing and usage. Our agreements with our customers prohibit them from using the Subscription Service to collect, manage, or process Sensitive Information. We are not responsible for our customers' use of information they collect on the Subscription Service.
+HugeDomains uses customer information to communicate directly with their customers. It is important for customers to keep their email address up to date and check their email regularly for updates regarding a HugeDomains account. 
 
-HubSpot collects information under the direction of its customers, and has no direct relationship with the individuals whose Personal Information it processes. If you are a customer of one of our customers and would no longer like to be contacted by one of our customer that use our Subscription Service, please contact the customer that you interact with directly. We may transfer Personal Information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our customers.
+HugeDomains may have the need to provide customer information to third parties for certain services required by HugeDomains, including but not limited to, credit card processors, technical support services, shipping of goods or services, customer relationship management, SMS delivery, Collections Agencies,  registry compliance, law enforcement, among other third parties for other similar such reasons. When a domain is purchased which is managed at a partner registrar, HugeDomains reserves the right to automatically push said domain name(s) into an account at that domain name registrar in order to provide the relevant purchased product(s) to the customer. HugeDomains will only share information that is necessary for the third party to provide the required services. This information will not be sold nor voluntarily disseminated unless reasonably needed at HugeDomains's sole discretion. 
 
-#### **2.4. "Sensitive Information"**
+When a HugeDomains account is cancelled/suspended/terminated, either voluntarily or involuntarily, this does not mean that the customer's personally identifiable information has been deleted entirely from HugeDomains's systems and databases. Some or all this information may be retained by HugeDomains, including but not limited, to comply with legal obligations, resolve disputes, prevent fraud and/or enforce company agreements.  In addition, you will not be able to submit a form on this website without providing the exact information required to complete that specific action. It is forbidden and against of ICANN's rules to provide false Registrant information about any domain name registration(s). Providing false or fake information may and will result in suspension of the customer's HugeDomains account and forfeiture of any related domain name(s) registered with HugeDomains or any of its affiliate companies or domain name registrars.
 
-This refers to credit or debit card numbers, personal financial account information, Social Security numbers, passport numbers, driver's license numbers or similar personal identifiers, racial or ethnic origin, physical or mental health condition or information, or other employment, financial or health information.
+HugeDomains will cooperate with government, law enforcement officials and relevant private parties to enforce and comply with Unites States law and with applicable and mandatory regulations regarding the services it provides. If necessary, HugeDomains will disclose any customer information to the relevant officials or private parties when appropriate or deemed reasonably necessary. Further, if HugeDomains believes, in its sole discretion, (including without limitation to subpoenas), that the preservation of certain customer information is necessary to protect its rights or the property and/or the rights of a third party. HugeDomains may further maintain or share customer information in order to protect the safety of the public or any person, to prevent or stop activity HugeDomains considers to be illegal based on applicable laws, or to otherwise uphold the law.  By using HugeDomains's website and services, all customers expressly consent to this Privacy Policy. HugeDomains further reserves the right to modify this Policy at any time. If changes are made to this Policy, those changes will be publicly posted. HugeDomains is not required to directly notify its customers of changes made to this Policy, however, if material changes are made, HugeDomains will notify its customers by email or through a public notice on its website.
 
-## **3\. Information We Collect**
+**To Access, Update, or Delete Your Personal Information**
 
-#### **3.1. When You Visit our Websites**
+You have the right to correct any personal information held about you that is inaccurate or incomplete. If there is information located on HugeDomains servers you wish to correct, you will be required to login to your account and update the appropriate information. This includes account owner information, information submitted for various products and services offered through this website, including but not limited to purchased domain names and payment methods linked to your account.
 
-You are free to explore the Websites without providing any information about yourself. When you visit the Websites or register for the Subscription Service, we request that you provide Personal Information about yourself, and we collect Navigational Information. 
+You have the right issue a request that HugeDomains delete your personal data. HugeDomains will review your request and delete data if possible. HugeDomains reserves the right, in its sole discretion, to retain any personal data. Personal data may be retained for several reasons, including, but not limited to: fraud mitigation; preserving or enforcing legal and/or contractual rights; data retention mandated by local law,  domain registrars processing of your data, relevant domain registries, contracts, or reasons necessary to HugeDomains's business and operate such services. If you wish to have your data erased, you can use the contact details found on the bottom of this page, please provide as many details as possible as to your request, and the company will determine if you have a valid basis for the erasure of your data. If you have questions about data retention you may contact us with your questions or concerns. You have the right to lodge a complaint with a relevant supervisory authority.
 
-#### **3.2. When You Use our Mobile Application**
+**Third Parties**
 
-We use mobile analytics software to allow us to better understand the functionality of our Mobile Apps on your mobile device. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. In addition to information we collect on our Websites, when you use our Mobile Apps we may also collect your city location, device model and version, device identifier (or “UDID”), OS version, and your HubSpot Subscription Service credentials. 
+HugeDomains.com may share your personal information with affiliated companies within its corporate family and other third-parties that integrate with HugeDomains services, and to provide products and services, including but not limited to: Customer Relationship Management; processing payments; fraud prevention; management of domain names; and serving advertisements. Many of these third parties are affiliate companies, and work in conjunction with HugeDomains to provide customers the products and services provided by HugeDomains to HugeDomains's customers.
 
-We send push notifications from time to time in order to update you about events or promotions. If you no longer wish to receive such communications, you may turn them off at the device level.
+Targeted ads may be provided to HugeDomains customers based upon their webpages and Internet activity. These ads and offers may be displayed as product banners provided while you are engaged in Internet browsing or using HugeDomains.com and its services. In some instances, HugeDomains partners with third parties to manage advertising, including targeted advertising on HugeDomains webpages and other websites. These third-party partners may use certain data collection tools such as cookies in order to collect information about customer activities to provide customers with customized advertisements. When possible, such providers will give ways to opt-out of any such advertisements.
 
-We may link information we store within the analytics software to Personal Information you submit within the Mobile App. We do this to improve services we offer you and improve our marketing, analytics and site functionality.
+HugeDomains's website may contain links to third party websites. HugeDomains is not responsible for the privacy policy and data collection of third-party sites. You are solely responsible for reviewing any third-party privacy practices on all such websites.
 
-#### **3.3. "Personal Information"**
+Some Internet browsers may allow users to receive notifications when a website is utilizing tracking technology and may allow that user to use a "do not track" signal. There is no industry standard or agreement among industry participates as to what this "do not track" signal entails. As there is not set definition or regulation regarding this process, HugeDomains does not make any adjustments or alternations in its operating processes when a "do not track" signal is received from an Internet browser.
 
-This refers to any information that you voluntarily submit to us and that identifies you personally, including contact information, such as your name, e-mail address, company name, address, phone number, and other information about yourself or your business. Personal Information can also include information about any transactions, both free and paid, that you enter into on the Websites, and information about you that is available on the internet, such as from Facebook, LinkedIn, Twitter and Google, or publicly available information that we acquire from service providers.
+**Corporate Reorganization**
 
-#### **3.4. "Navigational Information"**
+If HugeDomains were to merge with another company or if HugeDomains is involved in an acquisition or sale of all a substantial portion of assets, or other similar sale transaction, your information will be transferred as part of that transaction and you will be notified by email and/or notice on HugeDomains website of any such transfer and any choices you may have regarding your information.
 
-This refers to information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and pages viewed. Please see the "Navigation Information" section below.
+**Contact Information**
 
-#### **3.5. Payment Information**
+If you have any other questions about this Privacy Policy, the practices of HugeDomains you may use the contact us form on this web site to request additional information, or you can reach us  by phone at +1 (303) 893-0552 or by email at sales@hugedomains.com 
 
-We collect and process payment information from you when you subscribe to the Subscription Service, including credit cards numbers and billing information, using third party PCI-compliant service providers. Except for this, we do not collect Sensitive Information from you.
+\---
 
-#### **3.6. Information About Children**
+Last Revised: July 05, 2018
 
-The Websites are not intended for or targeted at children under 13, and we do not knowingly or intentionally collect information about children under 13. If you believe that we have collected information about a child under 13, please contact us at privacy@hubspot.com, so that we may delete the information.
-
-## **4\. How We Use Information We Collect**
-
-#### **4.1. Compliance with Our Privacy Policy**
-
-We use the information we collect only in compliance with this Privacy Policy. Customers who subscribe to our Subscription Services are obligated through our agreements with them to comply with this Privacy Policy.
-
-#### **4.2. We Never Sell Personal Information**
-
-We will never sell your Personal Information to any third party. 
-
-#### **4.3. Use of Personal Information**
-
-In addition to the uses identified elsewhere in this Privacy Policy, we may use your Personal Information to: (a) improve your browsing experience by personalizing the Websites and to improve the Subscription Service; (b) send information to you which we think may be of interest to you by post, email, or other means; (c) send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, and (d) provide other companies with statistical information about our users -- but this information will not be used to identify any individual user. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, we do not transfer your unique Personal Information to the third party. In addition, we may share data with trusted partners to contact you based on your request to receive such communications, help us perform statistical analysis, or provide customer support. Such third parties are prohibited from using your Personal Information except for these purposes, and they are required to maintain the confidentiality of your information.
-
-#### **4.4. Use of Navigational Information**
-
-We use Navigational Information to operate and improve the Websites and the Subscription Service. We may also use Navigational Information alone or in combination with Personal Information to provide you with personalized information about HubSpot. 
-
-#### **4.5. Customer Testimonials and Comments**
-
-We post customer testimonials and comments on our Websites, which may contain Personal Information. We obtain each customer's consent via email prior to posting the customer's name and testimonial.
-
-#### **4.6. Use of Credit Card Information**
-
-If you give us credit card information, we use it solely to check your financial qualifications and collect payment from you. We use a third-party service provider to manage credit card processing. This service provider is not permitted to store, retain, or use information you provide except for the sole purpose of credit card processing on our behalf.
-
-#### **4.7. Service Providers**
-
-We employ other companies and people to provide services to visitors to our Websites, our customers, and users of the Subscription Service and may need to share your information with them to provide information, products or services to you. Examples may include removing repetitive information from prospect lists, analyzing data, providing marketing assistance, processing credit card payments, supplementing the information you provide us in order to provide you with better service, and providing customer service. In all cases where we share your information with such agents, we explicitly require the agent to acknowledge and adhere to our privacy and customer data handling policies.
-
-#### **4.8. Security of your Personal Information**
-
-We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use or disclosure. We secure the Personal Information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When sensitive Personal Information (such as a credit card number and/or geo-location data) is collected on our Websites and/or transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
-
-If you have any questions about the security of your Personal Information, you can contact us at [privacy@hubspot.com](mailto:privacy@hubspot.com).
-
-#### **4.9. Social Media Features**
-
-Our Websites include Social Media Features, such as the Facebook Like button and Widgets, such as the Share This button or interactive mini-programs that run on our sites. These features may collect your IP address, which page you are visiting on our sites, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Websites. This Privacy Policy does not apply to these features.  Your interactions with these features are governed by the privacy policy and other policies of the companies providing them.
-
-#### **4.10. External Websites**
-
-Our Websites provide links to other websites. We do not control, and are not responsible for, the content or practices of these other websites. Our provision of such links does not constitute our endorsement of these other websites, their content, their owners, or their practices. This Privacy Policy does not apply to these other websites, which are subject to any privacy and other policies they may have.
-
-#### **4.11. Public Forums**
-
-We offer publicly accessible message boards, blogs, and community forums. Please keep in mind that if you directly disclose any information through our public message boards, blogs, or forums, this information may be collected and used by others. We will correct or delete any information you have posted on the Websites if you so request, as described in "Opting Out and Unsubscribing" below.
-
-#### **4.12. Retention of Personal Information**
-
-We retain Personal Information that you provide us as long as we consider it potentially useful in contacting you about the Subscription Service or our other services, or as needed to comply with our legal obligations, resolve disputes and enforce our agreements, and then we securely delete the information. We will delete this information from the servers at an earlier date if you so request, as described in "Opting Out and Unsubscribing" below. If you provide information to our customers as part of their use of the Subscription Service, our customers decide how long to retain the personal information they collect from you. If a customer terminates its use of the Subscription Service, then we will provide customer with access to all information stored for the customer by the Subscription Service, including any Personal Information provided by you, for export by the customer according to our agreement with our customer. After termination, we may, unless legally prohibited, delete all customer information, including your Personal Information, from the Subscription Service.
-
-#### **4.13. International Transfer of Information**
-
-To facilitate our global operations, we may transfer and access Personal Information from around the world, including the United States. This Privacy Policy shall apply even if we transfer Personal Information to other countries.
-
-#### **4.14. Corporate Events**
-
-If we (or our assets) are acquired by another company, whether by merger, acquisition, bankruptcy or otherwise, that company would receive all information gathered by HubSpot on the Websites and the Subscription Service. In this event, you will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your Personal Information, and choices you may have regarding your Personal Information.
-
-#### **4.15. Compelled Disclosure**
-
-We reserve the right to use or disclose your Personal Information if required by law or if we reasonably believe that use or disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or comply with a law, court order, or legal process.
-
-## **5\. Navigational Information**
-
-#### **5.1. Cookies**
-
-HubSpot and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole.
-
-We use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize pages on our Websites, or register for the Subscription Service, a cookie helps us to recall your specific information on subsequent visits. When you return to the same Website, the information you previously provided can be retrieved, so you can easily use the customized features.
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the HubSpot Subscription Service or Websites you visit. HubSpot keeps track of the Websites and pages you visit within HubSpot, in order to determine what portion of the HubSpot Website or Subscription Service is the most popular or most used. This data is used to deliver customized content and promotions within the HubSpot Website and Subscription Service to customers whose behavior indicates that they are interested in a particular subject area.
-
-#### **5.2. Log Files**
-
-We may collect demographic information, such as your ZIP code, age, gender, preferences, interests and favorites using log files that are not associated with your name or other personal information. There is also information about your computer hardware and software that is automatically collected by us. This information can include: your IP address, browser type, domain names, internet service provider (ISP), the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, clickstream data, access times and referring website addresses. This information is used by HubSpot for the operation of the Subscription Service, to maintain quality of the Subscription Service, and to provide general statistics regarding use of the HubSpot Website. For these purposes, we do link this automatically-collected data to Personal Information such as name, email address, address, and phone number.
-
-#### **5.3. Clear Gifs (Web Beacons/Web Bugs)**
-
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage the Website and Subscription Service by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages or in emails and are about the size of the period at the end of this sentence. We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients.  This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. We tie the information gathered by clear gifs in emails to our customers' Personal Information. If you would like to opt-out of these emails, please see "Opting Out and Unsubscribing".
-
-#### **5.4. Navigational Information Collected by Our Customers**
-
-Our customers can use the tools we provide, as well as tools provided by third parties, to collect Navigational Information when you visit their webpages on the Subscription Service. HubSpot does not control our customers' use of these tools, nor do we control the information they collect or how they use it. 
-
-#### **5.5. Single Sign-On**
-
-You can log in to our site using a Single Sign-on (SSO) service like your Google account. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Such services may give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
-
-#### **5.6. Flash Cookies and Other Third Party Tracking Technologies**
-
-The Adobe Flash Player (and similar applications) use technology to remember settings, preferences and usage similar to browser cookies but these are managed through a different interface than the one provided by your Web browser. This technology creates locally stored objects that are often referred to as "Flash cookies." HubSpot does not use Flash cookies. However, our customers of our software platform may create pages on the HubSpot platform that employ Adobe Flash cookies.  HubSpot does not have access or control over our customers' Flash cookies, but you may access your Flash management tools from Adobe's web site directly.
-
-Similarly, our customers may create pages using the HubSpot Subscription Service that use technology from tracking utility companies, such as cookies and web beacons.   The use of these technologies by our customers is not covered by our Privacy Policy.  We do not have access or control over these third party tracking technologies.
-
-#### **5.7. Advertising**
-
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here: <http://preferences.truste.com/> (or if located in the European Union, by clicking here: http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
-
-#### **5.8. Third Party Tracking Technologies**
-
-The use of cookies and web beacons by any tracking utility company is not covered by our Privacy Policy. We do not have access or control over these third party tracking technologies.
-
-## **6\. Opting Out and Unsubscribing  **
-
-#### **6.1. Reviewing, Correcting and Removing Your Personal Information**
-
-Upon request HubSpot will provide you with information about whether we hold any of your Personal Information. If you provide us with your Personal Information, you have the following rights with respect to that information:
-
-  * To review the user information that you have supplied to us 
-  * To request that we correct any errors, outdated information, or omissions in user information that you have supplied to us 
-  * To request that your user information not be used to contact you 
-  * To request that your user information be removed from any solicitation list that we use 
-  * To request that your user information be deleted from our records
-  * To opt out of being solicited by HubSpot or third parties 
-
-
-
-To exercise any of these rights, please contact us at privacy@hubspot.com or by mail to HubSpot, Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, Attention: Privacy. We will respond to your request to change, correct, or delete your information within a reasonable timeframe and notify you of the action we have taken.
-
-#### **6.2. Anti-Spam Policy**
-
-Our Acceptable Use Policy, at [http://legal.hubspot.com/acceptable-use](https://web.archive.org/acceptable-use), applies to us and to our customers and, among other things, prohibits use of the Subscription Service to send unsolicited commercial email in violation of applicable laws, and requires the inclusion in every email sent using the Subscription Service of an "opt-out" mechanism and other required information. We require all of our customers to agree to adhere to the Acceptable Use Policy at all times, and any violations of the Acceptable Use Policy by a customer can result in immediate suspension or termination of the Subscription Service.
-
-#### **6.3. To Unsubscribe From Our Communications**
-
-You may unsubscribe from our marketing communications by clicking on the "unsubscribe" link located on the bottom of our e-mails, or by sending us email us at privacy@hubspot.com, or by sending us postal mail to HubSpot, Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, Attention: Privacy. Customers cannot opt out of receiving transactional emails related to their account with us or the Subscription Service. 
-
-#### **6.4. To Unsubscribe from Our Customers' Communications**
-
-Our customers are solely responsible for their own marketing emails and other communications; we cannot unsubscribe you from their communications. You can unsubscribe from our customers' marketing communications by clicking on the "unsubscribe" link located on the bottom of their emails, or by contacting them directly.
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=5cc8e655-cfd8-4778-ba62-eba1e3e15777 "TRUSTe Privacy Certification")
+Copyright 2005-2019 HugeDomains.com. All Rights Reserved.
