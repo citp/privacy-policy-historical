@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garrysmods.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331220559id_/https%3A//garrysmods.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garrysmods.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231140752id_/https%3A//garrysmods.org/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | garrysmods.org
 
@@ -62,6 +62,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 garrysmods.org  
 http://garrysmods.org  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#51323e3f25303225113630232328223c3e35227f3e2336)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#41222e2f35202235012620333338322c2e25326f2e3326)
 
 **This document was last updated on March 16, 2015**
