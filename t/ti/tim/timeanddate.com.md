@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626042635id_/https%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231145031id_/https%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for timeanddate.com
 
@@ -153,4 +153,12 @@ Time and Date AS
 Kanalsletta 4  
 NO-4033 Stavanger  
 Norway  
-[webmaster@timeanddate.com](mailto://webmaster@timeanddate.com)
+[webmaster@timeanddate.com](mailto://webmaster@timeanddate.com)[](https://web.archive.org/services/supporter.html "Supporter")
+
+### [Become a Supporter](https://web.archive.org/services/supporter.html "Become a Supporter")
+
+Help us keep up the good work. [More](https://web.archive.org/services/supporter.html "Become a Supporter")
+
+* * *
+
+* * *
