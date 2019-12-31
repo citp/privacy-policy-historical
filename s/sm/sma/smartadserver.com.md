@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartadserver.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231256id_/https%3A//smartadserver.com/corporate-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartadserver.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231085147id_/https%3A//smartadserver.com/corporate-privacy-policy) for the most accurate reproduction.*
 
 # Our corporate privacy policy - Smart
 
@@ -12,7 +12,7 @@ Smart AdServer is located at 66 rue de la Chaussée d’Antin, 75009 Paris, Fran
 
 ## What data do we collect and for what purposes?
 
-  *  **Information you provide to us**
+  * **Information you provide to us**
 
 
 
@@ -50,7 +50,7 @@ We use cookies (small text files containing a string of characters, stored in th
 
 The following cookies can be found on our Website:
 
- ** _See the chart below for the type of cookie and its purpose_**
+**_See the chart below for the type of cookie and its purpose_**
 
 Strictly necessary cookies
 
@@ -84,7 +84,7 @@ These cookies enable visitors, if they wish, to login to their social media acco
 
 Your browser may offer tools to enable or disable cookies by modifying the settings in your browser. However, please note that certain features of the Website may not work if you delete or disable cookies. Moreover, if you delete cookies after previously opting-out of Smart AdServer, you may need to renew your opt-out choice. For more information about opting-out, please see Section 8 below.
 
-## On which grounds do we process Personal Data?
+## On which grounds do we process Personal Data? 
 
 We collect Personal Data from you where we have your consent to do so (e.g. through a check box). Your consent is securely stored and documented in our systems. You may withdraw any consent to personal data processing at any time by sending an email to: [privacy@smartadserver.com](mailto:privacy@smartadserver.com) specifying your request.
 
@@ -128,13 +128,13 @@ Your request should be addressed to [privacy@smartadserver.com](mailto:privacy@s
 
 If you consider your rights have been infringed upon according to the current privacy regulation, or regarding the denial of a request, you may lodge a complaint towards your local competent supervisory authority.
 
-## Transfer of Personal Data outside of the European Union
+## Transfer of Personal Data outside of the European Union 
 
 Personal Data may be transferred to a partner located in a third country not providing adequate protection regarding data protection. With these partners, we sign standard contractual clauses adopted by the European Commission to ensure an adequate level of protection.
 
 When Personal Data may be transferred in the United States of America, we ensure that the other party is complying with the Privacy Shield Framework and/or that standard contractual clauses are signed, regarding the collection, use and retention of personal information transferred from the European Union to the United States, respectively.
 
-## Opt-out and withdrawing of consent
+## Opt-out and withdrawing of consent 
 
 For the sake of transparency, Smart has adopted a cookie opt-out policy, allowing each Internet user to opt out from our advertising network. This ensures that your browser will no longer be identified by our system. Please note that for us to acknowledge your desire to opt-out, one cookie will be placed on your device in order to ensure the performance of your opt-out. Moreover, this opt-out will only be available for the device on which it was created.
 
