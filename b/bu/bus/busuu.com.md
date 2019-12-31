@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busuu.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230218id_/https%3A//www.busuu.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busuu.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231023732id_/https%3A//www.busuu.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Busuu
 
@@ -35,6 +35,8 @@ When you register for a Busuu account, Busuu collects personal data that you sub
 Busuu also collects and generates a number of other areas of usage information automatically which includes; services metadata, log data, device information, IP addresses, third-party data and cookie information.
 
 We also collect, use and share Aggregated Data such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice. We do not collect any Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
+
+We may contact you to ask you to participate in research. By participating in research with us, you confirm that you have read and agreed to the research conditions. Some of our research will use information from your Busuu account in order to give us accurate results. Results will be aggregated and may be used for marketing purposes. No personal details will be shared with third parties. All your personal information will be stored securely for the duration of the research and deleted after the publication of the results. We store your personal information only on secure servers that are held in secure facilities in the European Economic Area (“EEA”) and have up-to-date firewall protection. If you decide to participate in any research, your participation is voluntary and you can withdraw at any time. If you’d like to withdraw, please send an email to [research@busuu.com](mailto:research@busuu.com) and your request will be processed on the following working day in the UK. All your data will then be deleted from our database and excluded from the research.
 
 When you use the Service, you may set up your personal profile, form relationships, send and receive messages, perform searches and queries, enrol in events and courses, and transmit information through various channels.
 
@@ -142,4 +144,4 @@ Busuu is the trading name of Busuu Limited with registered address at 50 Finsbur
 
 You may obtain a copy of the personal data held about you that you provide through the Site or otherwise request that Busuu updates, makes changes or deletes personal information by sending an email to [privacy@busuu.com](mailto:privacy@busuu.com). If you have any questions or suggestions regarding our Privacy Policy, you can contact Busuu by email at [privacy@busuu.com](mailto:privacy@busuu.com). 
 
-Last updated: October 2018
+Last updated: August 2019
