@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the producthunt.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502142957id_/https%3A//www.producthunt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producthunt.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231102605id_/https%3A//www.producthunt.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | Product Hunt
 
-Effective date: May 25, 2018
+Effective date: January 1, 2020
 
 We recognize that your privacy is very important and take it seriously. This Privacy & Cookies Policy describes Product Hunt’s policies and procedures on the collection, use and disclosure of your information when you use the services, websites, and applications offered by Product Hunt (the “Services”) and tells you about your privacy rights and how the law protects you. By using the Services, you consent to our use of your information in accordance with this Privacy & Cookies Policy. We will not use or share your personal information with anyone except as described in this Privacy & Cookies Policy. Third-party websites hosted by Product Hunt through its Ship service are subject to the Terms of Service and Privacy Policies of such third party unless otherwise indicated on such page. Capitalized terms that are not defined in this Privacy & Cookies Policy have the meaning given them in our [Terms of Service](https://web.archive.org/tos).
 
@@ -24,7 +24,7 @@ With that in mind, this Privacy and Cookies Policy is designed to describe:
 
 
 
-This Privacy & Cookies Policy is intended to meet our duties of transparency under the “General Data Protection Regulation” or “GDPR”.
+This Privacy & Cookies Policy is intended to meet our duties of transparency under the “General Data Protection Regulation” or “GDPR”, as well as the California Consumer Protection Act or “CCPA”.
 
 We will post any modifications or changes to this Privacy & Cookies Policy on this page.
 
@@ -32,7 +32,7 @@ We will post any modifications or changes to this Privacy & Cookies Policy on th
 
  **Who we are.** Product Hunt, Inc. is the Controller (for the purposes of the GDPR) of your Personal Data (referred to as either “Product Hunt”, “we”, “us” or “our” in this Privacy & Cookies Policy). Our address is 90 Gold Street, San Francisco, CA 94133.
 
- **How to contact us.** If you have any questions about our practices or this Privacy & Cookies Policy, please contact us at[hello@producthunt.com](mailto:hello@producthunt.com).
+ **How to contact us.** If you have any questions about our practices or this Privacy & Cookies Policy, please contact us at[hello@producthunt.com](mailto:hello@producthunt.com) or toll-free via phone at 1-800-270-5505.
 
  **Our EU Representative.** As we do not have an establishment in the European Union (“EU”), we have appointed a representative based in the United Kingdom, who you may address if you are located in the EU to raise any issues or queries you may have relating to our processing of your Personal Data and/or this Privacy & Cookies Policy more generally. Our EU representative is: AngelList Ltd located at 2nd Floor, White Bear Yard, Clerkenwell Road, London, UK, EC1R 5DF. Our EU representative can be contacted directly by emailing them at the following address: euprivacy@angel.co.
 
@@ -43,10 +43,10 @@ You have the right under this Privacy and Cookies Policy, and by law if you are 
   *  **Request access to your Personal Data.** If you are within the EU, this enables you to receive a copy of the Personal Data we hold about you and to check that we are lawfully processing it.
   *  **Request correction of the Personal Data that we hold about you.** This enables you to have any incomplete or inaccurate information we hold about you corrected.
   *  **Request erasure of your Personal Data.** This enables you to ask us to delete or remove Personal Data where there is no good reason for us continuing to process it. You also have the right if you are within the EU to ask us to delete or remove your Personal Data where you have exercised your right to object to processing (see below).
-  *  **Object to processing of your Personal Data.** This right exists where we are relying on a legitimate interest as the legal basis for our processing and there is something about your particular situation, which makes you want to object to processing of your Personal Data on this ground. You also have the right to object where we are processing your Personal Data for direct marketing purposes.
+  *  **Object to processing of your Personal Data.** This right exists where we are relying on a legitimate interest as the legal basis for our processing and there is something about your particular situation, which makes you want to object to the processing of your Personal Data on this ground. You also have the right to object where we are processing your Personal Data for direct marketing purposes.
   *  **Request the restriction of processing of your Personal Data.** This enables you to ask us to suspend the processing of Personal Data about you, for example if you want us to establish its accuracy or the reason for processing it.
   *  **Request the transfer of your Personal Data.** If you are within the EU, we will provide to you, or a third party you have chosen, your Personal Data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
-  *  **Withdraw consent.** This right only exists where we are relying on consent to process your Personal Data (“Consent Withdrawal”). If you withdraw your consent, we may not be able to provide you with access to the certain specific functionalities of our Site. We will advise you if this is the case at the time you withdraw your consent.
+  *  **Withdraw consent.** This right only exists where we are relying on consent to process your Personal Data (“Consent Withdrawal”). If you withdraw your consent, we may not be able to provide you with access to certain specific functionalities of our Site. We will advise you if this is the case at the time you withdraw your consent.
 
 
 
@@ -86,7 +86,7 @@ We use Personal Data we collect to provide the Services, personalize content, re
 
 Category of Personal Data collected| What this means  
 ---|---  
-Identity Data| First name, last name, maiden name, last name, username or similar identifier, password, marital status, title, date of birth and gender, picture.  
+Identity Data| First name, surname, maiden name, last name, username or similar identifier, password, marital status, title, date of birth and gender, picture.  
 Contact Data| Your email address, home address, work address, billing address and telephone numbers.  
 Professional Background Data| Educational and professional history, interests and accomplishments, projects completed.  
 Online Presence Data| Links to your public account pages at social media websites, links to personal websites, your log-in credentials for Twitter or other third party sites and other online materials related to you.  
@@ -141,7 +141,7 @@ Data brokers|
 
   
   
- **Aggregated Data.** We may also collect, use and share “Aggregated Data” such as statistical or demographic data for any purpose. Aggregated Data may be derived from your Personal Data, but once in aggregated form it will not constitute Personal Data for the purposes of the GDPR as this data does not directly or indirectly reveal your identity. However, if we combine or connect Aggregated Data with your Personal Data so that it can directly or indirectly identify you, we treat the combined data as Personal Data which will be used in accordance with this Privacy & Cookies Policy.
+ **Aggregated Data.** We may also collect, use and share “Aggregated Data” such as statistical or demographic data for any purpose. Aggregated Data may be derived from your Personal Data, but once in aggregated form it will not constitute Personal Data for the purposes of the GDPR or CCPA as this data does not directly or indirectly reveal your identity. However, if we combine or connect Aggregated Data with your Personal Data so that it can directly or indirectly identify you, we treat the combined data as Personal Data which will be used in accordance with this Privacy & Cookies Policy.
 
  **No Special Categories of Personal Data.** We do not collect any “Special Categories of Personal Data” about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
 
@@ -174,7 +174,7 @@ To comply with applicable law, legal process and regulations and protect legitim
 
 ## How We Use Cookies And Other Tracking Or Profiling Technologies
 
-We collect non-personally identifiable information regarding your usage of the Services, including the pages and articles and presentations you viewed, time spent using certain features of the website, demographic data such as server locations, connection speed, and other information that does not identify you. Like most online services, we also use cookies, log files, clear GIFs, tracking pixels, web beacons, and other technologies that may collect Personal Data.
+We may collect non-personally identifiable information regarding your usage of the Services, including the pages and articles and presentations you viewed, time spent using certain features of the website, demographic data such as server locations, connection speed, and other information that does not identify you. Like most online services, we also use cookies, log files, clear GIFs, tracking pixels, web beacons, and other technologies that may collect Personal Data.
 
 ## Cookies:
 
@@ -248,7 +248,7 @@ We use industry-standard physical, managerial, and technical safeguards to prese
 
 We have put in place procedures to deal with any actual or suspected Personal Data breach. In the event that personal information is compromised as a result of such a breach of security, we will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy & Cookies Policy, or as otherwise required by applicable law.
 
-We cannot ensure that your Personally Data will be protected, controlled or otherwise managed pursuant to this Privacy & Cookies Policy if you share your login and password information with any third party, including any third party operating a website or providing other services.
+We cannot ensure that your Personal Data will be protected, controlled or otherwise managed pursuant to this Privacy & Cookies Policy if you share your login and password information with any third party, including any third party operating a website or providing other services.
 
 ## Our Policy on Children's Privacy
 
