@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shortnews.de privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215002id_/https%3A//sedo.com/us/about-us/policies/protecting-your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortnews.de privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231094511id_/https%3A//sedo.com/us/about-us/policies/protecting-your-privacy) for the most accurate reproduction.*
 
 # Protecting your Privacy
 
