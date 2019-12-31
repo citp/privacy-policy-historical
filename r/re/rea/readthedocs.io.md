@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the readthedocs.io privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309073804id_/https%3A//docs.readthedocs.io/en/latest/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readthedocs.io privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231234431id_/https%3A//docs.readthedocs.io/page/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy — Read the Docs 3.3.1 documentation
+# Privacy Policy — Read the Docs 3.11.1 documentation
 
-__[Read the Docs](https://web.archive.org/web/20190309073804id_/https%3A//docs.readthedocs.io/en/latest/index.html)
+__[Read the Docs](https://web.archive.org/web/20191231234431id_/https://docs.readthedocs.io/en/stable/index.html)
 
-Effective date: **May 30, 2018**
+Effective date: **September 30, 2019**
 
 Welcome to Read the Docs. At Read the Docs, we believe in protecting the privacy of our users, authors, and readers.
 
@@ -18,12 +18,14 @@ Of course, the short version doesn’t tell you everything, so please read on fo
 
 Read the Docs is made up of:
 
-readthedocs.org
-    This is a website aimed at documentation authors writing and building software documentation. This Privacy Policy applies to this site in full without reservation.
-readthedocs.com
-    This website is a commercial hosted offering for hosting private documentation for corporate clients. It is governed by this privacy policy but also separate [terms](https://readthedocs.com/terms/).
+readthedocs.org (“Read the Docs Community”)
+    This is a website aimed at documentation authors and project maintainers writing and distributing technical documentation. This Privacy Policy applies to this site in full without reservation.
+readthedocs.com (“Read the Docs for Business”)
+    This website is a commercial hosted offering for hosting private documentation for corporate clients. This Privacy Policy applies to this site in full without reservation.
 readthedocs.io, readthedocs-hosted.com, and other domains (“Documentation Sites”)
-    These websites are where Read the Docs hosts documentation on behalf of documentation authors. A best effort is made to apply this Privacy Policy to these sites but the documentation may contain content and files created by documentation authors.
+    These websites are where Read the Docs hosts documentation (“[User-Generated Content](https://web.archive.org/web/20191231234431id_/https://docs.readthedocs.io/en/stable/terms-of-service.html#user-generated-content)”) on behalf of documentation authors. A best effort is made to apply this Privacy Policy to these sites but the documentation may contain content and files created by documentation authors.
+
+All use of Read the Docs is subject to this Privacy Policy, together with our [Terms of service](https://web.archive.org/web/20191231234431id_/https://docs.readthedocs.io/en/stable/terms-of-service.html).
 
 ## What information Read the Docs collects and why¶
 
@@ -54,7 +56,7 @@ If you **create an account** , we require some basic information at the time of 
 
 User Personal Information does not include aggregated, non-personally identifying information. We may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
 
-#### Why do we collect this?¶
+#### Why do we collect this information?¶
 
   * We need your User Personal Information to create your account, and to provide the services you request.
   * We use your User Personal Information, specifically your user name, to identify you on Read the Docs.
@@ -69,6 +71,8 @@ User Personal Information does not include aggregated, non-personally identifyin
 We do not intentionally collect **sensitive personal information** , such as social security numbers, genetic data, health information, or religious information.
 
 Documentation Sites hosted on Read the Docs are public, anyone (including us) may view their contents. If you have included private or sensitive information in your Documentation Site, such as email addresses, that information may be indexed by search engines or used by third parties.
+
+Read the Docs for Business may host [private projects](https://web.archive.org/web/20191231234431id_/https://docs.readthedocs.io/en/stable/terms-of-service.html#private-projects) which we treat as confidential and we only access them for support reasons, with your consent, or if required to for security reasons
 
 If you’re a **child under the age of 13** , you may not have an account on Read the Docs. Read the Docs does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account. We don’t want to discourage you from writing software documentation, but those are the rules.
 
@@ -87,7 +91,7 @@ For Read the Docs, this means:
 
 
 
-Our DNT policy applies without reservation to readthedocs.org and readthedocs.com. A best effort is made to apply this to Documentation Sites, but we do not have complete control over the contents of these sites.
+Our DNT policy applies without reservation to Read the Docs Community and Read the Docs for Business. A best effort is made to apply this to Documentation Sites, but we do not have complete control over the contents of these sites.
 
 For more details about DNT, visit [All About Do Not Track](http://www.allaboutdnt.com/).
 
@@ -152,7 +156,7 @@ We may retain certain User Personal Information indefinitely, unless you delete 
 
 If you would like to delete your User Personal Information, you may do so in your [user account](https://readthedocs.org/accounts/delete/). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile.
 
-Our web server logs for readthedocs.org, readthedocs.com, and Documentation Sites are deleted after 10 days barring legal obligations.
+Our web server logs for Read the Docs Community, Read the Docs for Business, and Documentation Sites are deleted after 10 days barring legal obligations.
 
 ## Changes to our Privacy Policy¶
 
