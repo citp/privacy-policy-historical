@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the netsertive.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622052802id_/https%3A//www.netsertive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsertive.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231062419id_/https%3A//www.netsertive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Netsertive
 
-### Last Updated: 5.25.18
+### Last Updated: May 25, 2018
 
 Netsertive, Inc. (“Netsertive”, the “Company,” “us,” “we,” or “our”) is committed to protecting the privacy of users (“user”, “you” or “your”) of our website (“Site”), [netsertive.com](https://www.netsertive.com/), and our products and services (“Product” or “Products”). Our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Site and our Products. This Privacy Policy will be continuously assessed against new technologies, business practices and our clients’ needs. This Privacy Policy applies to this Site and our Products and governs data collection and usage at this Site and our Products.
 
@@ -16,7 +16,7 @@ Netsertive is the sole owner of the information collected on this site. We colle
 
 As you use our Site or Products, certain passive information may also be collected, including your Internet Protocol address, browser type, and operating system. We also use cookies, web beacons and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed. This type of information is collected to make our Products more useful to you.
 
-Third party vendors, including Google, Yahoo, and Microsoft, show you ads on sites on the internet. These vendors use cookies to serve ads based on a user’s prior visits to the Site. Users may opt out of Google’s use of cookies by visiting the Google [advertising opt-out page](http://www.google.com/policies/technologies/ads/) or other third party vendor’s use of cookies by visiting the [Network Advertising opt out page](http://www.networkadvertising.org/choices/).
+Third party vendors, including Google, Yahoo, and Microsoft, show you ads on sites on the internet. These vendors use cookies to serve ads based on a user’s prior visits to the Site. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads/) or other third party vendor’s use of cookies by visiting the [Network Advertising opt out page](http://www.networkadvertising.org/choices/).
 
 ### How We Use Your Information
 
@@ -24,9 +24,9 @@ We use information that we collect about you or that you provide to us, includin
 
 ### Disclosure of Your Information
 
-We may convert or combine some Personal Information of users into de-identified or aggregated data that does not disclose any of the Personal Information of any individual user. We may disclose any such de-identified or aggregated data without restriction.
+We may convert or combine some Personal Information of users into de-identified or aggregated data that does not disclose any of the Personal Information of any individual user.
 
-We may disclose Personal Information to our subsidiaries and affiliates and to any contractors, service providers and other third parties who need to know such information to support our permitted uses of Personal Information. We may disclose such Personal Information to a buyer or other successor to our business in the event of a sale of equity or assets, reorganization, merger or a similar corporate transaction.
+We may disclose any such de-identified or aggregated data without restriction.We may disclose Personal Information to our subsidiaries and affiliates and to any contractors, service providers and other third parties who need to know such information to support our permitted uses of Personal Information. We may disclose such Personal Information to a buyer or other successor to our business in the event of a sale of equity or assets, reorganization, merger or a similar corporate transaction.
 
 Some of the information that we collect from cookies relates to your personal use of the Site and our Products allows us to store information about your preferences, speed up your searches and recognize you when you return to our Site or Products. Except as otherwise expressly provided in this policy, this information is not shared with third parties. Other information that we collect from cookies and web beacons is not tied to your Personal Information and enables us to estimate our audience size and usage patterns. This traffic data may be shared with third parties.
 
@@ -34,7 +34,7 @@ We may also disclose your Personal Information for any other purpose disclosed w
 
 We may also disclose your Personal Information to comply with any court order, law or legal process, including to respond to any government or regulatory request and to enforce or apply our terms of use or terms of sale, including for billing and collection purposes, or if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
-**Your Access to and Control Over Information**
+### Your Access to and Control Over Information
 
 You may contact us at any time at [privacy@netsertive.com](mailto:privacy@netsertive.com) to:
 
