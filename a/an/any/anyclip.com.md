@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anyclip.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231932id_/https%3A//anyclip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyclip.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231170145id_/https%3A//anyclip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AnyClip
 
@@ -6,7 +6,7 @@
 
 AnyClip Ltd. and its affiliates (“ **we** ” or “ **us** ”) provide ad selling and content enrichment services (the “ **Services** ”). As part of the Services, we and/or our third-party partners collect different kinds of information about end users using our Services through websites embedding our Services (“ **you** ”). Protecting your privacy and personal information are of great importance to us. This Privacy Policy explains what information we and/or our partners collect about you as part of the Services and why, what is done with that information and how it is handled.
 
-##  **Information Collected**
+## **Information Collected**
 
 We and/or our partners may collect information about you in connection with Services in two ways: information you provide us and information we collect automatically.
 
@@ -16,17 +16,17 @@ We and/or our partners may collect information about you in connection with Serv
   * Personal information that any customers or affiliates (including any potential customers of affiliates) provide when registering to open an account for the Services or requesting information on our website, such as name, address, email address and phone number.
 
 
-  * Information collected automatically –
+  * Information collected automatically – 
     * Information about your use of our Services, your interaction with ads or other content provided to you through our Services, device information such as operating system and browser type and device identifiers.
     * Computer and connection information such as your IP address, the URL accessed and web log information.
 
 
 
- **Non-Personal Information**
+**Non-Personal Information**
 
 Some of the information we and/or our third-party partners collect, as detailed above, may be collected as un-identified and non-identifiable information, which means it cannot be reasonably associated with you personally. Some of the information is collected in an aggregated form for analytical purposes. If any non-personal information is associated with you, we will treat it as personal information.
 
- **Use of Information**
+**Use of Information**
 
 We use information for the following general purposes: to fulfill our contract with you or with our clients and partners, as applicable, to fulfill your requests, to provide you with content and ads that are best suitable to you, and to improve our services and contact you.
 
@@ -61,9 +61,9 @@ If you are our partner, customer or affiliate:
 
 
 
- **We use your personal information to pursue our legitimate interests where your rights and freedoms do not outweigh these interests.  **
+**We use your personal information to pursue our legitimate interests where your rights and freedoms do not outweigh these interests.  **
 
- **Cookies**
+**Cookies**
 
 We and/or our partners use “cookies” (a small text file sent by your computer each time you visit our website, unique to your user account or your browser), web beacons and other similar technologies to record log data. We use several types of cookies:
 
@@ -77,11 +77,11 @@ Cookies are required for different functions of our Services:
 
 You are free to delete or block cookies from your device, by changing the preferences on your browser. However, please note that should you choose not to accept cookies, the advertisements and content provided to you through our Services will not be personalized and will be less relevant for you. Most browsers accept cookies automatically, but generally provide the option to view the cookies currently stored on your device, and the choice to accept, reject or delete cookies, block third party cookies, block cookies from particular sites, accept all cookies or to receive notification when a new cookie is stored. Please see your browser’s ‘options’ or ‘preferences’ menu to change your cookie preferences.
 
- **Third Party Services**
+**Third Party Services**
 
 Information on our Services may contain links to third party services, websites or applications, and any information you provide to those sites and applications will be covered by any privacy policies they may have. This Privacy Policy does not apply to the practices of companies that we do not own or control or employees that we do not manage. Please be sure to read the privacy policies of any third-party applications, services and sites that you visit or provide permission to access your information. It is those third parties’ responsibility to protect any information you give them, so we will not be held liable for their wrongful use of your personally identifying information.
 
- **Sharing Your Information with Third Parties**
+**Sharing Your Information with Third Parties**
 
 We do not disclose or share your personal information with other people or companies except to provide products or services you’ve requested, or under the following circumstances:
 
@@ -95,13 +95,13 @@ We do not disclose or share your personal information with other people or compa
 
 Entities we share your information with in order to provide you with the Services include: publishers, advertisers, ad agencies and storage services companies. This is required in order to provide our Services and provide you with compatible content and advertising.
 
- **Transfer of Information Outside Your Jurisdiction**
+**Transfer of Information Outside Your Jurisdiction**
 
 We may store and process information in sites located throughout the world, including in sites operated and maintained by cloud based service providers. For information on our cloud service providers and sub-processors please contact our support at [DPO@anyclip.com](mailto:DPO@anyclip.com).
 
 AS PART OF THE STORAGE OF YOUR INFORMATION, INFORMATION THAT WE COLLECT ABOUT YOU, INCLUDING PERSONAL INFORMATION, MAY BE TRANSFERRED ACROSS BORDERS AND FROM YOUR COUNTRY OR JURISDICTION TO OTHER COUNTRIES OR JURISDICTIONS AROUND THE WORLD. TO THE EXTENT NECESSARY UNDER EU PRIVACY LAWS AND REGULATIONS, WE WILL IMPLEMENT DATA ONWARD TRANSFER INSTRUMENTS SUCH AS DATA PROCESSING AND PROTECTION AGREEMENTS OR ENSURING SUCH JURISDICTION IMPOSES ADEQUATE DATA PROTECTION REGULATIONS.
 
- **Your rights**
+**Your rights**
 
 In case we collect personal information about you and if you are an EU resident or the resident of another jurisdiction that affords you with the below rights you:
 
@@ -131,17 +131,17 @@ After it is no longer necessary for us to retain your personal information, we w
 
 You can request information on the data that might possibly remain in our archived records after your account has been deleted.
 
- **Information Regarding Children**
+**Information Regarding Children**
 
 We do not collect any identifiable information from children under the age of 16. If you believe that a child has provided us with personally identifiable information without the consent of his or her parent or guardian, please contact us at DPO@anyclip.com
 
 If we become aware that a child under age 16 has provided us with personally identifiable information, we will remove it.
 
- **Complaints**
+**Complaints**
 
 You have the right to file complaints with a data protection supervisory authority.
 
- **Changes to this Policy**
+**Changes to this Policy**
 
 We may update this policy from time to time. We will notify you about significant changes in the way we treat information by sending a notice to the primary email address specified you provided us and by placing a prominent notice on our site, and require your consent if required by law, in light of the nature of the changes.
 
