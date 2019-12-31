@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsmb.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629032223id_/http%3A//www.fsmb.org/about-fsmb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsmb.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231212755id_/http%3A//www.fsmb.org/about-fsmb/privacy-policy) for the most accurate reproduction.*
 
 # FSMB | Privacy Policy
 
