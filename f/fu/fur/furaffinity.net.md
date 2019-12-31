@@ -1,31 +1,14 @@
-> *The following text is extracted and transformed from the furaffinity.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224517id_/https%3A//www.furaffinity.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furaffinity.net privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231211350id_/http%3A//www.furaffinity.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -- Fur Affinity [dot] net
 
-## Fur Affinity | Privacy Policy
-
-**Updated** \- 5/25/2018
-
-Privacy Policy Updates  
-Information Collection and Use  
-Children's Privacy  
-Cookies and Tracking  
-Aggregate Information  
-Disclosure  
-California Privacy Rights  
-Links to Third Party Sites  
-Security  
-Staying in Control of Your information: Your Rights  
-Questions  
-Users Outside of the United States of America
-
 Thank you for reviewing IMVU, Inc's Fur Affinity (herein referred to as "Fur Affinity") privacy policy for the Fur Affinity website located at furaffinity.net and subdomains thereof ("Site"). This Privacy Policy details certain policies implemented throughout Fur Affinity governing Fur Affinity's collection and use of personally identifiable information about users of our Site.
 
-#### Privacy Policy Updates
+## Privacy Policy Updates
 
 Fur Affinity may need to update this Privacy Policy from time to time. If so, Fur Affinity will post our updated Privacy Policy on our Site, along with notice that the Privacy Policy has been changed so you are always aware of what personally identifiable information we may collect and how we may use this information. Fur Affinity may also send users a notification notifying such users of any changes to the Privacy Policy. Fur Affinity encourages you to review this Privacy Policy regularly for any changes. Your continued use of the Site and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
 
-#### Information Collection and Use
+## Information Collection and Use
 
 To register an account at Fur Affinity we request certain personal data from you on the registration form such as your username, password, email address, and date of birth.
 
@@ -35,84 +18,103 @@ In addition, when you register, we may collect any personal data that you person
 
 Unless you have set your preferences to hide certain data other users on our service will be able to view your profile data (which includes your username or any customizable data which you may have provided, such as a bio, contact information, or personal preferences).
 
-#### Children's Privacy
+## Children's Privacy
 
 Fur Affinity recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. The Site is not directed to children under the age of 13. Fur Affinity does not target its Site to children under 13. Fur Affinity does not knowingly collect personally identifiable information from children under the age of 13.
 
 If we learn that a child under the age of 13 provided us with personally identifiable information, we will delete that information. If your child has provided personally identifiable information, please contact us. If you are under the age of 13, please do not provide us with any personally identifiable information.
 
-**Please note:** for users in the EU the minimum age to create an account is 16.
+Please note: for users in the EU the minimum age to create an account is 16.
 
-#### Cookies and Tracking
+## Cookies and Tracking
 
 We may use small text files called cookies to improve overall experience in the Site. A cookie is a piece of data stored on the user's hard drive containing information about the user. We may use persistent cookies to remember your login to the Site. You can read more about cookies at www.allaboutcookies.org. If you reject cookies, you may still use our Site, but your ability to use some areas of our Site may be limited.
 
-Fur Affinity tracks users over time and over our Furaffinity subdomain websites. We record users' use of the Site, comments they make and the pages that they visit. Third party providers of external services that provide advertising, such as DoubleClick by Google, may track users over time and over our Site and third party apps or websites and such third parties may also place cookies, via our Site. You can read more about privacy and cookies set by DoubleClick by Google at <https://www.google.com/intl/en/policies>.
+Fur Affinity tracks users over time and over our Furaffinity subdomain websites. We record users' use of the Site, comments they make and the pages that they visit. Third party providers of external services that provide advertising, such as DoubleClick by Google, may track users over time and over our Site and third party apps or websites and such third parties may also place cookies, via our Site. You can read more about privacy and cookies set by DoubleClick by Google at https://www.google.com/intl/en/policies.
 
-#### Aggregate Information
+## Aggregate Information
 
 We may track information that will be maintained, used and disclosed in aggregate form only and which will not contain your personally identifiable information. For example, we may collect IP addresses, browser type and cookie numbers. We may analyze this data for trends and statistics in the aggregate, and we may use such aggregate information to administer the Site, track users' movement, and gather broad demographic information for aggregate use.
 
-#### Disclosure
+## Disclosure
 
 We may provide your personally identifiable information and the data generated by cookies and the aggregate information to the vendors and service agencies that we may engage to assist us in providing our services to you for their use solely to provide us with such assistance. We will also disclose your personally identifiable information (a) if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an ongoing investigation of a governmental authority, (b) to enforce the Fur Affinity Terms of Service or user agreements or to protect our rights or (c) to protect the safety of users of our Site and our services. We will not sell your personally identifiable information to any company or organization, but we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Fur Affinity participates or to a purchaser or acquirer of all or substantially all of Fur Affinity's assets to which the Site relates.
 
-#### California Privacy Rights 
+## California Privacy Rights 
 
 We do not disclose any personally identifiable information to third parties for their direct marketing purposes. Should this practice change, we will seek your consent before disclosing information for a third party's direct marketing.
 
-#### Links to Third Party Sites
+California residents wishing to exercise access, data portability, or deletion rights above may submit a verifiable consumer request to us by either:
+
+  * Calling us at 1-877-395-4688 or 1-877-395-IMVU.
+  * Sending us an email to [privacy@furaffinity.net](mailto:privacy@furaffinity.net).
+
+
+
+## Verification and Response 
+
+We endeavor to respond to a verifiable requests within forty-five (45) days of receipt. If we require more time (up to 90 days), we will inform you of the reason and extension period in writing. If you have an account with us, we will deliver our written response to that account. If you do not have an account with us, we will deliver our written response by mail or electronically, at your option.
+
+Any disclosures we provide will only cover the 12-month period preceding our receipt of the verifiable request. If applicable, our response will explain the reasons we cannot comply with a request. For data portability requests, we will select a format to provide your Personal Information that is readily useable and should allow you to transmit the information from one entity to another entity without hindrance.
+
+## Links to Third Party Sites
 
 The Site may provide links to other Websites or resources over which Fur Affinity does not have control ("External Web Sites"). Such links do not constitute an endorsement by Fur Affinity of those External Web Sites. You acknowledge that Fur Affinity is providing these links to you only as a convenience, and further agree that Fur Affinity is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
 
-#### Security
+## Security
 
 We may employ procedural and technological measures, consistent with industry practice. Such measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Fur Affinity may use encryption, secure socket layer, password protection and other internal measures to help prevent unauthorized access to your personally identifiable information. We also have internal policies for the safe handling of data. We will endeavor to destroy your information when we no longer have a legitimate business need to use it, except for backups that are archived and retained in the ordinary course of business.
 
-#### Staying in Control of Your information: Your Rights
+## Staying in Control of Your information: Your Rights
 
 We respect the fact that your personal information is your information, and we'll make it easy for you to manage and update your personal details.
 
-  * **Your right to rectification**  
+### Your right to rectification
+
 You have a right to rectify, update or complete any inaccurate personal data, pending verification of your identification. Most of this can be accomplished by going to your "Account Settings" and making any changes there. For instance, if your contact details change, or if you spot any errors in the information we hold about you, we recommend starting with your "Account Settings". If, after visiting your "Account Settings", you are still unable to rectify the information, please contact us directly by opening a trouble ticket.
 
-Requests for your rectification can be sent to **myinfo@furaffinity.net**. 
+Requests for your rectification can be sent to [myinfo@furaffinity.net](mailto:myinfo@furaffinity.net).
 
-  * **Your right of access**  
+### Your right of access
+
 You have the right to obtain a copy of all personal data that Fur Affinity holds about you, such as personal details or correspondence, generally, within a 30 day time limit and free of charge. You may limit the amount of data that you would like to obtain if you do not wish to access all of the records.
 
-Requests for your right of access can be sent to **myinfo@furaffinity.net**. 
+Requests for your right of access can be sent to [myinfo@furaffinity.net](mailto:myinfo@furaffinity.net).
 
-  * **Your right to move your data (portability)**  
+### Your right to move your data (portability)
+
 Under certain circumstances you can request that a data collector move your data to another service provider. This is not an automatic right, and because Fur Affinity provides unique Services, it may not be able to honor your right to data portability.
 
-Requests for your right of access can be sent to **myinfo@furaffinity.net**. 
+Requests for your right of access can be sent to [myinfo@furaffinity.net](mailto:myinfo@furaffinity.net).
 
-  * **Your right to object to processing**  
+### Your right to object to processing
+
 You have to right to request that Fur Affinity stop certain data processing activities that involve processing your personal data. This isn't an automatic right, and Fur Affinity's ability to restrict processing will depend on the type of data that for which you are making this request.
 
-Requests for your personal information can be sent to **stop@furaffinity.net**. 
+Requests for your personal information can be sent to [stop@furaffinity.net](mailto:stop@furaffinity.net).
 
-  * **You have a right request deletion**  
+### You have a right request deletion
+
 You have a right to request that Fur Affinity delete your personal data that it holds. This isn't an automatic right, and what Fur Affinity is able to delete will depend on the type of data that we hold about you, whether it was obtained via consent, what purpose it serves, and whether Fur Affinity has an obligation to keep the data, among other things.
 
 Note that unless you request deletion, and such request is determined to be appropriate, while you remain a user, we'll process and retain your data as described in this Privacy Notice in order to enable you to use the Services. Once you stop being a user, we will hold your data as described in the data retention section.
 
-Requests for deletions can be sent to **deleteme@furaffinity.net**.
+Requests for deletions can be sent to [deleteme@furaffinity.net](mailto:deleteme@furaffinity.net).
 
-_For all requests mentioned above, there is a 30 day limit to which Fur Affinity must respond by, that may be extended in certain situations. Also, you will need to give adequate proof of your identity in order for Fur Affinity to identify you before any data is released._
+For all requests mentioned above, there is a 30 day limit to which Fur Affinity must respond by, that may be extended in certain situations. Also, you will need to give adequate proof of your identity in order for Fur Affinity to identify you before any data is released.
 
-  * **You have a right to lodge a complaint with a Supervisory Authority**  
-If you feel that Fur Affinity is not processing your personal data in a manner that complies with the GDPR, you have a right to lodge a complaint with the supervisory authority of your country of residence. 
-  * **You have a right to withdraw your consent**  
-For activities where you have provided consent to Fur Affinity, you have a right to withdraw your consent at any time by opening a trouble ticket and notify staff. Note that where you remove consent we may not be able to offer you continued access to the Services. However, if the consent relates to activities that are not strictly necessary for a functional user experience, your withdrawal will not affect your ability to use and access the Services. 
+### You have a right to lodge a complaint with a Supervisory Authority
 
+If you feel that Fur Affinity is not processing your personal data in a manner that complies with the GDPR, you have a right to lodge a complaint with the supervisory authority of your country of residence.
 
+### You have a right to withdraw your consent
 
-#### Questions
+For activities where you have provided consent to Fur Affinity, you have a right to withdraw your consent at any time by opening a trouble ticket and notify staff. Note that where you remove consent we may not be able to offer you continued access to the Services. However, if the consent relates to activities that are not strictly necessary for a functional user experience, your withdrawal will not affect your ability to use and access the Services.
 
-If you have any questions regarding this Privacy Policy please contact us via email at **privacy@furaffinity.net**.
+## Questions
 
-#### Users Outside of the United States
+If you have any questions regarding this Privacy Policy please contact us via email at [privacy@furaffinity.net](mailto:privacy@furaffinity.net).
+
+## Users Outside of the United States
 
 Our computer systems and third party hosting provider systems are currently based in the United States and may be located in other countries, so your personal data will be processed by us in the U.S. and other countries where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with the Site as a visitor from outside the United States, by using the Site you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy.
