@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalarchives.gov.uk privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410162757id_/http%3A//nationalarchives.gov.uk/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalarchives.gov.uk privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231234650id_/https%3A//www.nationalarchives.gov.uk/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy notice - Legal
 
@@ -322,5 +322,3 @@ Website: <https://ico.org.uk/global/contact-us/helpline>
 ### Information on data protection
 
 [Data protection policy](http://nationalarchives.gov.uk/documents/data-protection-policy-nov-2011-updated-may-2018.pdf "Data protection policy, opens in a new window") (PDF, 0.28 MB)
-
-We use cookies to improve services and ensure they work for you. Read our [cookie policy](https://web.archive.org/web/20190401142450/http://www.nationalarchives.gov.uk/legal/cookies.htm "Our cookie policy"). Close
