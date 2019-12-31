@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the idontlikeyouinthatway.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233044id_/https%3A//www.mandatory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idontlikeyouinthatway.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231134415id_/https%3A//www.mandatory.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mandatory
 
 This privacy policy was last modified on January 10, 2019 (the “Effective Date”).
 
-We take your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at legal@evolvemediallc.com.
+We take your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 * ### Scope
 
@@ -141,7 +141,7 @@ We do not currently take actions to respond to Do Not Track signals because a un
 
  **California Residents**
 
-If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail to legal@evolvemediallc.com.
+If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
  **Canada Residents**
 
@@ -161,7 +161,7 @@ Please note that we need to retain certain information for recordkeeping purpose
 
 ##  **EU Data Subject Rights**
 
-If you are a resident of the European Economic Area (EEA), you have the right to: (a) request access to your personal data and rectification of inaccurate personal data; (b) request erasure of your personal data; (c) request restrictions on the processing of your personal data; (d) object to processing your personal data; and/or (e) the right to data portability (“collectively, “Requests”). We will honor all such Requests but we can only process Requests from a user whose identity has been verified. To verify your identity, please provide your email address or [URL] when you make a request. For more information about how to get access to personal data and for exercising your rights, you can submit a request to legal@evolvemediallc.com with “Personal Data Request” in the subject line of the message. You also have the right to lodge a complaint with a supervisory authority.
+If you are a resident of the European Economic Area (EEA), you have the right to: (a) request access to your personal data and rectification of inaccurate personal data; (b) request erasure of your personal data; (c) request restrictions on the processing of your personal data; (d) object to processing your personal data; and/or (e) the right to data portability (“collectively, “Requests”). We will honor all such Requests but we can only process Requests from a user whose identity has been verified. To verify your identity, please provide your email address or [URL] when you make a request. For more information about how to get access to personal data and for exercising your rights, you can submit a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with “Personal Data Request” in the subject line of the message. You also have the right to lodge a complaint with a supervisory authority.
 
 * ### Confidentiality and security
 
@@ -175,7 +175,7 @@ Protecting the privacy of young children is especially important. The Site is de
 
 The Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.
 
-If you believe that we might have any information from or about a child under 13, please contact us at legal@evolvemediallc.com.
+If you believe that we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 * ### Changes to the privacy policy
 
@@ -183,9 +183,9 @@ We reserve the right to change this policy at any time. Please check this page p
 
 * ### Questions and suggestions
 
-If you have questions about this privacy policy, please contact our legal team at legal@evolvemediallc.com, or send mail to:
+If you have questions about this privacy policy, please contact our legal team at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or send mail to:
 
 Evolve Media, LLC  
-5140 W. Goldleaf Circle, Third Floor  
-Los Angeles, CA 90056  
+11390 West Olympic Blvd Suite 450  
+Los Angeles, CA 90064  
 Attn: General Counsel
