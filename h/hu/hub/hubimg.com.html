@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the hubimg.com privacy policy that was archived on 2019-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630004617id_/https%3A//hubpages.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hubimg.com privacy policy that was archived on 2019-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191231193228id_/https%3A//hubpages.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script async="" src="//cdn.petametrics.com/999gba4qphtjrmpe.js?ts=439591"></script><script src="https://assets.hubstatic.com/s/ss42955309.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!DOCTYPE html><html lang="en"><head><script async="" src="//cdn.petametrics.com/999gba4qphtjrmpe.js?ts=439466"></script><script src="https://assets.hubstatic.com/s/ss189378895.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <title>HubPages Network Privacy Policy</title>
 <link href="https://sb.scorecardresearch.com/beacon.js" rel="preconnect">
 <link href="https://uid.mavencoalition.io/" rel="preconnect">
@@ -14,8 +14,8 @@
 
 
 
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js?"></script><script>var maven_rcw_enabled = true;</script><script>
-window.gdprConsents = {"version":1,"user_version":1,"categories":{"features":true,"marketing":true,"stats":true},"vendors":{"features":{"googlesearch":true,"googlemaps":true,"googlecharts":true,"adsensehost":true,"youtube":true,"vimeo":true,"paypal":true,"facebooklogin":true,"maven":true},"marketing":{"adsense":true,"doubleclick":true,"indexexchange":true,"sovrn":true,"facebookads":true,"amazonads":true,"appnexus":true,"openx":true,"rubicon":true,"triplelift":true,"saymedia":true,"remarketing":true,"conversion":true},"stats":{"authoranalytics":true,"comscore":true,"amazonaffpixel":true,"clicksco":true}},"eu":false};
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script>var hpTrafficRecirculation = {showMavenWidget: false, logLiftigniterPageview: false, mavenChannels: []};</script><script>
+window.gdprConsents = {"version":1,"user_version":1,"categories":{"features":null,"marketing":null,"stats":null},"vendors":{"features":{"googlesearch":null,"googlemaps":null,"googlecharts":null,"adsensehost":null,"youtube":null,"vimeo":null,"paypal":null,"facebooklogin":null,"maven":null},"marketing":{"adsense":null,"doubleclick":null,"indexexchange":null,"sovrn":null,"facebookads":null,"amazonads":null,"appnexus":null,"openx":null,"rubicon":null,"triplelift":null,"saymedia":null,"remarketing":null,"conversion":null},"stats":{"authoranalytics":null,"comscore":null,"amazonaffpixel":null,"clicksco":null}},"eu":false};
 // polyfill-promise 8.1.0
 !function(e,n){"object"==typeof exports&&"undefined"!=typeof module?n():"function"==typeof define&&define.amd?define(n):n()}(0,function(){"use strict";function e(e){var n=this.constructor;return this.then(function(t){return n.resolve(e()).then(function(){return t})},function(t){return n.resolve(e()).then(function(){return n.reject(t)})})}function n(){}function t(e){if(!(this instanceof t))throw new TypeError("Promises must be constructed via new");if("function"!=typeof e)throw new TypeError("not a function");this._state=0,this._handled=!1,this._value=undefined,this._deferreds=[],u(e,this)}function o(e,n){for(;3===e._state;)e=e._value;0!==e._state?(e._handled=!0,t._immediateFn(function(){var t=1===e._state?n.onFulfilled:n.onRejected;if(null!==t){var o;try{o=t(e._value)}catch(f){return void i(n.promise,f)}r(n.promise,o)}else(1===e._state?r:i)(n.promise,e._value)})):e._deferreds.push(n)}function r(e,n){try{if(n===e)throw new TypeError("A promise cannot be resolved with itself.");if(n&&("object"==typeof n||"function"==typeof n)){var o=n.then;if(n instanceof t)return e._state=3,e._value=n,void f(e);if("function"==typeof o)return void u(function(e,n){return function(){e.apply(n,arguments)}}(o,n),e)}e._state=1,e._value=n,f(e)}catch(r){i(e,r)}}function i(e,n){e._state=2,e._value=n,f(e)}function f(e){2===e._state&&0===e._deferreds.length&&t._immediateFn(function(){e._handled||t._unhandledRejectionFn(e._value)});for(var n=0,r=e._deferreds.length;r>n;n++)o(e,e._deferreds[n]);e._deferreds=null}function u(e,n){var t=!1;try{e(function(e){t||(t=!0,r(n,e))},function(e){t||(t=!0,i(n,e))})}catch(o){if(t)return;t=!0,i(n,o)}}var c=setTimeout;t.prototype["catch"]=function(e){return this.then(null,e)},t.prototype.then=function(e,t){var r=new this.constructor(n);return o(this,new function(e,n,t){this.onFulfilled="function"==typeof e?e:null,this.onRejected="function"==typeof n?n:null,this.promise=t}(e,t,r)),r},t.prototype["finally"]=e,t.all=function(e){return new t(function(n,t){function o(e,f){try{if(f&&("object"==typeof f||"function"==typeof f)){var u=f.then;if("function"==typeof u)return void u.call(f,function(n){o(e,n)},t)}r[e]=f,0==--i&&n(r)}catch(c){t(c)}}if(!e||"undefined"==typeof e.length)throw new TypeError("Promise.all accepts an array");var r=Array.prototype.slice.call(e);if(0===r.length)return n([]);for(var i=r.length,f=0;r.length>f;f++)o(f,r[f])})},t.resolve=function(e){return e&&"object"==typeof e&&e.constructor===t?e:new t(function(n){n(e)})},t.reject=function(e){return new t(function(n,t){t(e)})},t.race=function(e){return new t(function(n,t){for(var o=0,r=e.length;r>o;o++)e[o].then(n,t)})},t._immediateFn="function"==typeof setImmediate&&function(e){setImmediate(e)}||function(e){c(e,0)},t._unhandledRejectionFn=function(e){void 0!==console&&console&&console.warn("Possible Unhandled Promise Rejection:",e)};var l=function(){if("undefined"!=typeof self)return self;if("undefined"!=typeof window)return window;if("undefined"!=typeof global)return global;throw Error("unable to locate global object")}();"Promise"in l?l.Promise.prototype["finally"]||(l.Promise.prototype["finally"]=e):l.Promise=t});
 /**
@@ -24,13 +24,13 @@ window.gdprConsents = {"version":1,"user_version":1,"categories":{"features":tru
 
 // v2 gives a 200 OK even when called from within EAA
 window.mavenUID = new Promise(function(resolve) {
-	fetch('https://uid.mavencoalition.io/v2', {
+	fetch('https://uid.mavencoalition.io/v3', {
 		credentials: 'include' // include the cookie in the request
 	})
 		.then(function(response) {
 			if (response.status === 200) {
 				response.json().then(function(resp) {
-					resolve(resp.uid || false);
+					resolve(resp);
 				});
 			} else {
 				throw new Error('invalid UID service response');
@@ -38,7 +38,7 @@ window.mavenUID = new Promise(function(resolve) {
 		})
 		.catch(function(e) {
 			console.warn(e);
-			resolve(false);
+			resolve({});
 		});
 });
 //Unfetch 4.0.1, Copyright (c) 2017 Jason Miller, The MIT License (MIT)
@@ -229,10 +229,13 @@ var hubpagesSiteTracking = {
 				}
 			}
 		};
-		var theURL = '/c/' + whattype + id + '.gif' + referer;
-		var sep = referer.length > 0 && referer.charAt(0) == '?' ? '&' : '?';
-		xmlhttp.open('GET', theURL, true);
-		xmlhttp.send(null);
+
+		xmlhttp.open('POST', '/ctracker/', true);
+		xmlhttp.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+		if (referer.length > 0 && referer.charAt(0) == '?') {
+			referer = referer.replace(/^\?/, '&');
+		}
+		xmlhttp.send(whattype + '=' + id + referer);
 	}
 };
 
@@ -271,13 +274,14 @@ if (typeof hpstdata != 'undefined') {
 */
 (function(global){var _$LAB=global.$LAB,_UseLocalXHR="UseLocalXHR",_AlwaysPreserveOrder="AlwaysPreserveOrder",_AllowDuplicates="AllowDuplicates",_CacheBust="CacheBust",_Debug="Debug",_BasePath="BasePath",_ErrorHandler="ErrorHandler",root_page=/^[^?#]*\//.exec(location.href)[0],root_domain=/^\w+\:\/\/\/?[^\/]+/.exec(root_page)[0],append_to=document.head||document.getElementsByTagName("head"),opera_or_gecko=(global.opera&&Object.prototype.toString.call(global.opera)=="[object Opera]")||("MozAppearance"in document.documentElement.style),log_msg=function(){},log_error=log_msg,test_script_elem=document.createElement("script"),explicit_preloading=typeof test_script_elem.preload=="boolean",real_preloading=explicit_preloading||(test_script_elem.readyState&&test_script_elem.readyState=="uninitialized"),script_ordered_async=!real_preloading&&test_script_elem.async===true,xhr_or_cache_preloading=!real_preloading&&!script_ordered_async&&!opera_or_gecko;if(global.console&&global.console.log){if(!global.console.error)global.console.error=global.console.log;log_msg=function(msg){global.console.log(msg)};log_error=function(msg,err){global.console.error(msg,err)}}function is_func(func){return Object.prototype.toString.call(func)=="[object Function]"}function is_array(arr){return Object.prototype.toString.call(arr)=="[object Array]"}function canonical_uri(src,base_path){var absolute_regex=/^\w+\:\/\//;if(/^\/\/\/?/.test(src)){src=location.protocol+src}else if(!absolute_regex.test(src)&&src.charAt(0)!="/"){src=(base_path||"")+src}return absolute_regex.test(src)?src:((src.charAt(0)=="/"?root_domain:root_page)+src)}function merge_objs(source,target){for(var k in source){if(source.hasOwnProperty(k)){target[k]=source[k]}}return target}function check_chain_group_scripts_ready(chain_group){var any_scripts_ready=false;for(var i=0;i<chain_group.scripts.length;i++){if(chain_group.scripts[i].ready&&chain_group.scripts[i].exec_trigger){any_scripts_ready=true;chain_group.scripts[i].exec_trigger();chain_group.scripts[i].exec_trigger=null}}return any_scripts_ready}function create_script_load_listener(elem,registry_item,flag,onload){elem.onload=elem.onreadystatechange=function(){if((elem.readyState&&elem.readyState!="complete"&&elem.readyState!="loaded")||registry_item[flag])return;elem.onload=elem.onreadystatechange=null;onload()}}function script_executed(registry_item){registry_item.ready=registry_item.finished=true;for(var i=0;i<registry_item.finished_listeners.length;i++){registry_item.finished_listeners[i]()}registry_item.ready_listeners=[];registry_item.finished_listeners=[]}function request_script(chain_opts,script_obj,registry_item,onload,preload_this_script){setTimeout(function(){var script,src=script_obj.real_src,xhr;if("item"in append_to){if(!append_to[0]){setTimeout(arguments.callee,25);return}append_to=append_to[0]}script=document.createElement("script");if(script_obj.type)script.type=script_obj.type;if(script_obj.charset)script.charset=script_obj.charset;if(preload_this_script){if(real_preloading){if(chain_opts[_Debug])log_msg("start script preload: "+src);registry_item.elem=script;if(explicit_preloading){script.preload=true;script.onpreload=onload}else{script.onreadystatechange=function(){if(script.readyState=="loaded")onload()}}script.src=src}else if(preload_this_script&&src.indexOf(root_domain)==0&&chain_opts[_UseLocalXHR]){xhr=new XMLHttpRequest();if(chain_opts[_Debug])log_msg("start script preload (xhr): "+src);xhr.onreadystatechange=function(){if(xhr.readyState==4){xhr.onreadystatechange=function(){};registry_item.text=xhr.responseText+"\n//@ sourceURL="+src;onload()}};xhr.open("GET",src);xhr.send()}else{if(chain_opts[_Debug])log_msg("start script preload (cache): "+src);script.type="text/cache-script";create_script_load_listener(script,registry_item,"ready",function(){append_to.removeChild(script);onload()});script.src=src;append_to.insertBefore(script,append_to.firstChild)}}else if(script_ordered_async){if(chain_opts[_Debug])log_msg("start script load (ordered async): "+src);script.async=false;create_script_load_listener(script,registry_item,"finished",onload);script.src=src;append_to.insertBefore(script,append_to.firstChild)}else{if(chain_opts[_Debug])log_msg("start script load: "+src);create_script_load_listener(script,registry_item,"finished",onload);script.src=src;append_to.insertBefore(script,append_to.firstChild)}},0)}function create_sandbox(){var global_defaults={},can_use_preloading=real_preloading||xhr_or_cache_preloading,queue=[],registry={},instanceAPI;global_defaults[_UseLocalXHR]=true;global_defaults[_AlwaysPreserveOrder]=false;global_defaults[_AllowDuplicates]=false;global_defaults[_CacheBust]=false;global_defaults[_Debug]=false;global_defaults[_BasePath]="";global_defaults[_ErrorHandler]=function(err){};function execute_preloaded_script(chain_opts,script_obj,registry_item){var script;function preload_execute_finished(){if(script!=null){script=null;script_executed(registry_item)}}if(registry[script_obj.src].finished)return;if(!chain_opts[_AllowDuplicates])registry[script_obj.src].finished=true;script=registry_item.elem||document.createElement("script");if(script_obj.type)script.type=script_obj.type;if(script_obj.charset)script.charset=script_obj.charset;create_script_load_listener(script,registry_item,"finished",preload_execute_finished);if(registry_item.elem){registry_item.elem=null}else if(registry_item.text){script.onload=script.onreadystatechange=null;script.text=registry_item.text}else{script.src=script_obj.real_src}append_to.insertBefore(script,append_to.firstChild);if(registry_item.text){preload_execute_finished()}}function do_script(chain_opts,script_obj,chain_group,preload_this_script){var registry_item,registry_items,ready_cb=function(){script_obj.ready_cb(script_obj,function(){execute_preloaded_script(chain_opts,script_obj,registry_item)})},finished_cb=function(){script_obj.finished_cb(script_obj,chain_group)};script_obj.src=canonical_uri(script_obj.src,chain_opts[_BasePath]);script_obj.real_src=script_obj.src+(chain_opts[_CacheBust]?((/\?.*$/.test(script_obj.src)?"&_":"?_")+~~(Math.random()*1E9)+"="):"");if(!registry[script_obj.src])registry[script_obj.src]={items:[],finished:false};registry_items=registry[script_obj.src].items;if(chain_opts[_AllowDuplicates]||registry_items.length==0){registry_item=registry_items[registry_items.length]={ready:false,finished:false,ready_listeners:[ready_cb],finished_listeners:[finished_cb]};request_script(chain_opts,script_obj,registry_item,((preload_this_script)?function(){registry_item.ready=true;for(var i=0;i<registry_item.ready_listeners.length;i++){registry_item.ready_listeners[i]()}registry_item.ready_listeners=[]}:function(){script_executed(registry_item)}),preload_this_script)}else{registry_item=registry_items[0];if(registry_item.finished){finished_cb()}else{registry_item.finished_listeners.push(finished_cb)}}}function create_chain(){var chainedAPI,chain_opts=merge_objs(global_defaults,{}),chain=[],exec_cursor=0,scripts_currently_loading=false,group;function chain_script_ready(script_obj,exec_trigger){if(chain_opts[_Debug])log_msg("script preload finished: "+script_obj.real_src);script_obj.ready=true;script_obj.exec_trigger=exec_trigger;advance_exec_cursor()}function chain_script_executed(script_obj,chain_group){if(chain_opts[_Debug])log_msg("script execution finished: "+script_obj.real_src);script_obj.ready=script_obj.finished=true;script_obj.exec_trigger=null;for(var i=0;i<chain_group.scripts.length;i++){if(!chain_group.scripts[i].finished)return}chain_group.finished=true;advance_exec_cursor()}function advance_exec_cursor(){while(exec_cursor<chain.length){if(is_func(chain[exec_cursor])){if(chain_opts[_Debug])log_msg("$LAB.wait() executing: "+chain[exec_cursor]);try{chain[exec_cursor++]()}catch(err){chain_opts[_ErrorHandler](err);if(chain_opts[_Debug])log_error("$LAB.wait() error caught: ",err)}continue}else if(!chain[exec_cursor].finished){if(check_chain_group_scripts_ready(chain[exec_cursor]))continue;break}exec_cursor++}if(exec_cursor==chain.length){scripts_currently_loading=false;group=false}}function init_script_chain_group(){if(!group||!group.scripts){chain.push(group={scripts:[],finished:true})}}chainedAPI={script:function(){for(var i=0;i<arguments.length;i++){(function(script_obj,script_list){var splice_args;if(!is_array(script_obj)){script_list=[script_obj]}for(var j=0;j<script_list.length;j++){init_script_chain_group();script_obj=script_list[j];if(is_func(script_obj))script_obj=script_obj();if(!script_obj)continue;if(is_array(script_obj)){splice_args=[].slice.call(script_obj);splice_args.unshift(j,1);[].splice.apply(script_list,splice_args);j--;continue}if(typeof script_obj=="string")script_obj={src:script_obj};script_obj=merge_objs(script_obj,{ready:false,ready_cb:chain_script_ready,finished:false,finished_cb:chain_script_executed});group.finished=false;group.scripts.push(script_obj);do_script(chain_opts,script_obj,group,(can_use_preloading&&scripts_currently_loading));scripts_currently_loading=true;if(chain_opts[_AlwaysPreserveOrder])chainedAPI.wait()}})(arguments[i],arguments[i])}return chainedAPI},wait:function(){if(arguments.length>0){for(var i=0;i<arguments.length;i++){chain.push(arguments[i])}group=chain[chain.length-1]}else group=false;advance_exec_cursor();return chainedAPI}};return{script:chainedAPI.script,wait:chainedAPI.wait,setOptions:function(opts){merge_objs(opts,chain_opts);return chainedAPI}}}instanceAPI={setGlobalDefaults:function(opts){merge_objs(opts,global_defaults);return instanceAPI},setOptions:function(){return create_chain().setOptions.apply(null,arguments)},script:function(){return create_chain().script.apply(null,arguments)},wait:function(){return create_chain().wait.apply(null,arguments)},queueScript:function(){queue[queue.length]={type:"script",args:[].slice.call(arguments)};return instanceAPI},queueWait:function(){queue[queue.length]={type:"wait",args:[].slice.call(arguments)};return instanceAPI},runQueue:function(){var $L=instanceAPI,len=queue.length,i=len,val;for(;--i>=0;){val=queue.shift();$L=$L[val.type].apply(null,val.args)}return $L},noConflict:function(){global.$LAB=_$LAB;return instanceAPI},sandbox:function(){return create_sandbox()}};return instanceAPI}global.$LAB=create_sandbox();(function(addEvent,domLoaded,handler){if(document.readyState==null&&document[addEvent]){document.readyState="loading";document[addEvent](domLoaded,handler=function(){document.removeEventListener(domLoaded,handler,false);document.readyState="complete"},false)}})("addEventListener","DOMContentLoaded")})(this);
 </script><script>$LAB.setGlobalDefaults({'ErrorHandler': function(err) { console.log(err); throw err; }});  var LABqueue = $LAB.script('https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js').wait(function() { jq = $.noConflict(); })
-.script('https://assets.hubstatic.com/s/ss42955309.js')
+.script('https://assets.hubstatic.com/s/ss189378895.js')
 ;
 </script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');var customDimensions = {"dimension21":"hubpages.com","dimension22":"hubpages.com","dimension23":"lifestyle","dimension29":"0"};
-function fireMavenUA(mavenUID) {
+function fireMavenUA(resp) {
+	var mavenUID = resp.uid; // This may be false, which is acceptable.
 	ga('create', 'UA-126130613-1', 'auto', {'name': 'mavenTracker'});
 	ga('mavenTracker.set', 'anonymizeIp', true);
 	if (hubpagesConsent.isEU()) { ga('mavenTracker.set', 'displayFeaturesTask', null); }
@@ -285,13 +289,17 @@ function fireMavenUA(mavenUID) {
 		ga('mavenTracker.set', 'userId', mavenUID); 
 		window.customDimensions['dimension29'] = '1';
 	}	
+	if (resp.isDemonetized) {
+		window.customDimensions['dimension32'] = resp.demonetizedReason || 'Unknown';
+	} else {
+		window.customDimensions['dimension32'] = '0';
+	}
 	ga('mavenTracker.send', 'pageview', window.customDimensions);
 }
 
 if (window.mavenUID) {
-	window.mavenUID.then(function(uid) {
-		// UID may be false-y, which is acceptable.
-		fireMavenUA(uid);
+	window.mavenUID.then(function(resp) {
+		fireMavenUA(resp);
 	});
 }
 	ga('create', 'UA-286186-1', 'hubpages.com', {'name': 'siteTracker'});
@@ -301,7 +309,7 @@ if (window.mavenUID) {
 	window.gaSiteTracker = 'siteTracker.';
 </script>
 
-<link rel="stylesheet" type="text/css" href="https://assets.hubstatic.com/s/site-bases58309093.css">
+<link rel="stylesheet" type="text/css" href="https://assets.hubstatic.com/s/site-bases213011041.css">
 
 <style>
 .svglogo.hubpages-logo32 { width: 130px; height: 32px;}
@@ -311,7 +319,7 @@ if (window.mavenUID) {
 </style>
     
   </head>
-<body class="hubpages fully-responsive static nomast">
+<body class="use-sourcepoint use-sourcepoint-ccpa hubpages fully-responsive static nomast">
 
 <!-- symbols (9967 bytes) -->
 <svg id="svg-definitions">
@@ -332,7 +340,7 @@ if (window.mavenUID) {
 
 <h1>HubPages Network Privacy Policy</h1>
 
-<p>This Privacy Policy was last updated on May 14, 2018, and is effective May 24, 2018. See <a href="#recent">the bottom of this page</a> for recent changes to this Privacy Policy.</p>
+<p>This Privacy Policy was last updated on December 28, 2019, and is effective Jan 1, 2020. See <a href="#recent">the bottom of this page</a> for recent changes to this Privacy Policy.</p>
 
 <p>hubpages.com is part of the HubPages Service.</p>
 
@@ -466,11 +474,9 @@ if (window.mavenUID) {
 
 <p>You may access the consent dialogue tool and update/remove your consents by <a href="#" onclick="showGdprPopup();return false;">clicking here</a></p>
 
-<p>Beyond consent management, please submit GDPR-related data rights or other requests via email to: <a href="mailto:dpo@hubpages.com">DPO@hubpages.com</a></p>
+<p>Beyond consent management, please submit GDPR-related data rights or other requests via email to: <a href="mailto:gdpr@hubpages.com">gdpr@hubpages.com</a></p>
 
 <p>The Data Controller is HubPages, Inc.  You may contact HubPages at: <a href="mailto:team@hubpages.com">Team@hubpages.com</a></p>
-
-<p>The DPO at HubPages is Eric Bassman:  <a href="mailto:dpo@hubpages.com">DPO@hubpages.com</a></p>
 
 <h3>Disclosure of Data Transfer &amp; Third-Parties</h3>
 
@@ -484,10 +490,276 @@ if (window.mavenUID) {
 
 <p>GDPR impacted users may have broader data/deletion rights for users than specified in the HubPages Terms of Use for all global users.  Deletions of data, pursuant to properly issued, valid, and verified GDPR-related requests from a person or entity with rights to make such a request, will occur within a reasonable timeframe; data in backup archives that is unlinked may take longer to delete than active data.</p>
 
+<h2 id="ccpa">12. PRIVACY NOTICE FOR CALIFORNIA RESIDENTS</h2>
+
+<p><strong>Effective Date:</strong> January 1, 2020</p>
+
+<p>This <strong>Privacy Notice for California Residents</strong> applies solely to all visitors, users, and others who reside in the State of California ("consumers" or "you"). We adopt this notice to comply with the California Consumer Privacy Act of 2018 (CCPA) and any terms defined in the CCPA have the same meaning when used in this Privacy Notice.</p>
+
+<h3>Information We Collect</h3>
+
+<p>We collect information that identifies, relates to, describes, references, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer, household, or device ("personal information"). Personal information does not include:</p>
+
+<ul>
+  <li>Publicly available information from government records.</li>
+  <li>Deidentified or aggregated consumer information.</li>
+</ul>
+
+<p>In particular, we have collected the following categories of personal information from consumers within the last twelve (12) months:</p>
+
+<table style="margin-bottom:30px">
+  <tbody><tr>
+    <th>Category</th>
+    <th>Examples</th>
+    <th>Collected</th>
+  </tr>
+  <tr>
+     <td>A. Identifiers.</td>
+     <td><p>A real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, Social Security number, driver's license number, passport number, or other similar identifiers.</p></td>
+     <td>YES</td>
+   </tr>
+  <tr>
+     <td>B. Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).</td>
+     <td><p>A name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information.</p><p>Some personal information included in this category may overlap with other categories.</p></td>
+     <td>YES</td>
+   </tr>
+  <tr>
+     <td>C. Protected classification characteristics under California or federal law.</td>
+     <td><p>Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).</p></td>
+     <td>YES</td>
+   </tr>
+  <tr>
+     <td>D. Commercial information.</td>
+     <td><p>Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.</p></td>
+     <td>YES</td>
+   </tr>
+  <tr>
+     <td>E. Biometric information.</td>
+     <td><p>Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data.</p></td>
+     <td>NO</td>
+   </tr>
+  <tr>
+     <td>F. Internet or other similar network activity.</td>
+     <td><p>Browsing history, search history, information on a consumer's interaction with a website, application, or advertisement.</p></td>
+     <td>YES</td>
+   </tr>
+  <tr>
+     <td>G. Geolocation data.</td>
+     <td><p>Physical location or movements.</p></td>
+     <td>YES</td>
+   </tr>
+  <tr>
+     <td>H. Sensory data.</td>
+     <td><p>Audio, electronic, visual, thermal, olfactory, or similar information.</p></td>
+     <td>YES</td>
+   </tr>
+  <tr>
+     <td>I. Professional or employment-related information.</td>
+     <td><p>Current or past job history or performance evaluations.</p></td>
+     <td>YES</td>
+   </tr>
+  <tr>
+     <td>J. Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)).</td>
+     <td><p>Education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records.</p></td>
+     <td>NO</td>
+   </tr>
+  <tr>
+     <td>K. Inferences drawn from other personal information.</td>
+     <td><p>Profile reflecting a person's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.</p></td>
+     <td>YES</td>
+   </tr>
+</tbody></table>
+
+<p>We obtain the categories of personal information listed above from the following categories of sources:</p>
+
+<ul>
+  <li>Directly from you. For example, from forms you complete or products and services you purchase from us; from content or other materials you enter or upload to our Platform or Services.</li>
+  <li>Indirectly from you. For example, from observing your actions on our Website.  This may be done by us or by third parties with whom we have agreements to operate within or in conjunction with our Platform or Services.<p></p>
+</li></ul>
+
+<h3>Use of Personal Information</h3>
+
+<p>We may use, share/sell, or disclose the personal information we collect for one or more of the following purposes:</p>
+
+<ul>
+  <li>To fulfill or meet the reason you provided the information. For example, if you share your name and contact information to ask a question about our products or services, we will use that personal information to respond to your inquiry. If you provide your personal information to purchase a product or service, we will use that information to process your payment and facilitate delivery. We may also save your information to facilitate new product orders or process returns.</li> 
+  <li>To provide, support, personalize, and develop our Website, products, and services.</li>
+  <li>To create, maintain, customize, and secure your account with us.</li>
+  <li>To process your requests, purchases, transactions, and payments and prevent transactional fraud.</li>
+  <li>To provide you with support and to respond to your inquiries, including to investigate and address your concerns and monitor and improve our responses.</li>
+  <li>To personalize your Website experience and to deliver content and product and service offerings relevant to your interests, including targeted offers and ads through our Website, third-party sites, and via email, phone, or text message (with your consent, where required by law).</li>
+  <li>To help maintain the safety, security, and integrity of our Website, products and services, databases and other technology assets, and business.</li>
+  <li>For testing, research, analysis, and product development, including to develop and improve our Website, products, and services.</li>
+  <li>To respond to law enforcement requests and as required by applicable law, court order, or governmental regulations.</li>
+  <li>As described to you when collecting your personal information or as otherwise set forth in the CCPA.</li>
+  <li>To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by us  about our consumers is among the assets transferred.</li>
+</ul>
+
+<p>We will not collect additional categories of personal information or use the personal information we collected for materially different, unrelated, or incompatible purposes without providing you notice.</p>
+
+
+<h3>Sharing Personal Information</h3>
+
+<p>We may disclose your personal information to a third party for a business purpose or share/sell your personal information, subject to your right to opt-out of those sales (see Personal Information Sales Opt-Out and Opt-In Rights). When we disclose personal information for a business purpose, we enter a contract that describes the purpose and requires the recipient to both keep that personal information confidential and not use it for any purpose except performing the contract.</p>
+
+<p>We may share your personal information with the following categories of third parties:</p>
+
+<ul>
+  <li>Service providers.</li>
+  <li>Partners. “Partners” third-party content creators and publishers</li>
+</ul>
+
+<h4>Disclosures of Personal Information for a Business Purpose</h4>
+
+<p>In the preceding twelve (12) months, we have disclosed the following categories of personal information for a business purpose:</p>
+
+<ul>
+  <li>Category A: Identifiers.</li>
+  <li>Category B: California Customer Records personal information categories.</li>
+  <li>Category C: Protected classification characteristics under California or federal law.</li>
+  <li>Category D: Commercial information.</li>
+  <li>Category F: Internet or other similar network activity.</li>
+  <li>Category G: Geolocation data.</li>
+  <li>Category H: Sensory data.</li>
+  <li>Category I: Professional or employment-related information.</li>
+  <li>Category K: Inferences drawn from other personal information.</li>
+</ul>
+
+<p>We disclose your personal information for a business purpose to the following categories of third parties:</p>
+
+<ul>
+  <li>Service providers.</li>
+  <li>Partners.</li>
+</ul>
+
+<h4>Sales of Personal Information</h4>
+
+<p>In the preceding twelve (12) months, we have shared/sold the following categories of personal information:</p>
+
+<ul>
+
+  <li>A. Identifiers.</li>
+  <li>B. California Customer Records personal information categories.</li>
+  <li>C. Protected classification characteristics under California or federal law.</li>
+  <li>D. Commercial information.</li>
+  <li>F. Internet or other similar network activity.</li>
+  <li>G. Geolocation data.</li>
+  <li>H. Sensory data.</li>
+  <li>I. Professional or employment-related information.</li>
+  <li>K. Inferences drawn from other personal information.</li>
+</ul>
+
+<p>We sell your personal information to the following categories of third parties:</p>
+
+<ul> 
+  <li>Partners.</li>
+</ul>
+
+<h3>Your Rights and Choices</h3>
+ 
+<p>The CCPA provides consumers (California residents) with specific rights regarding their personal information. This section describes your CCPA rights and explains how to exercise those rights.</p>
+
+<h4>Access to Specific Information and Data Portability Rights</h4>
+
+<p>You have the right to request that we disclose certain information to you about our collection and use of your personal information over the past 12 months. Once we receive and confirm your verifiable consumer request (see Exercising Access, Data Portability, and Deletion Rights), we will disclose to you:</p>
+
+<ul>
+  <li>The categories of personal information we collected about you.</li>
+  <li>The categories of sources for the personal information we collected about you.
+  </li><li>Our business or commercial purpose for collecting or selling that personal information.
+  </li><li>The categories of third parties with whom we share that personal information.
+  </li><li>The specific pieces of personal information we collected about you (also called a data portability request).
+  </li><li>If we sold or disclosed your personal information for a business purpose, two separate lists disclosing:
+    <ul>
+      <li>sales, identifying the personal information categories that each category of recipient purchased; and</li>
+      <li>disclosures for a business purpose, identifying the personal information categories that each category of recipient obtained.</li>
+    </ul>
+  </li>
+</ul>
+
+<h4>Deletion Request Rights</h4>
+
+<p>You have the right to request that we delete any of your personal information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request (see Exercising Access, Data Portability, and Deletion Rights), we will delete (and direct our service providers to delete) your personal information from our records, unless an exception applies.</p>
+
+<p>We may deny your deletion request if retaining the information is necessary for us or our service provider(s) to:</p>
+
+<ol>
+  <li>Complete the transaction for which we collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, or otherwise perform our contract with you.</li>
+  <li>Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.</li>
+  <li>Debug products to identify and repair errors that impair existing intended functionality.</li>
+  <li>Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.</li>
+  <li>Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).</li>
+  <li>Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if you previously provided informed consent.</li>
+  <li>Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.</li>
+  <li>Comply with a legal obligation.</li>
+  <li>Make other internal and lawful uses of that information that are compatible with the context in which you provided it.</li>
+</ol>
+
+<h4>Exercising Access, Data Portability, and Deletion Rights</h4>
+<p>To exercise the access, data portability, and deletion rights described above, please submit a verifiable consumer request to us by either:</p>
+<ul>
+  <li>Emailing us at “CCPA-maven@maven.io”</li>
+  <li>Calling us at 1-866-321-8726</li>
+</ul>
+
+<p>Only you, or someone legally authorized to act on your behalf, may make a verifiable consumer request related to your personal information. You may also make a verifiable consumer request on behalf of your minor child.</p>
+
+<p>You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must:</p>
+
+<ul>
+  <li>Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative, which may include:</li>
+    <ul><li>First name, last name, email address, postal address, phone number</li></ul>
+  <li>Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.</li>
+</ul>
+
+<p>We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you.</p>
+ 
+<p>Making a verifiable consumer request does not require you to create an account with us. However, we do consider requests made through your password protected account sufficiently verified when the request relates to personal information associated with that specific account.
+We will only use personal information provided in a verifiable consumer request to verify the requestor's identity or authority to make the request.</p>
+
+<p>For instructions on exercising sale opt-out rights, see Personal Information Sales Opt-Out and Opt-In Rights.</p>
+
+<h4>Response Timing and Format</h4>
+
+<p>We aim to respond to a verifiable consumer request within forty-five (45) days of its receipt. If we require more time (up to 90 days), we will inform you of the reason and extension period in writing.</p>
+
+<p>If you have an account with us, we will deliver our written response to the email address on file for that account. If you do not have an account with us, we will deliver our written response electronically to the email that you provided to us as part of your request.</p>
+
+<p>Any disclosures we provide may only cover the 12-month period preceding the verifiable consumer request's receipt. The response we provide will also explain the reasons we cannot comply with a request, if applicable. For data portability requests, we will select a format to provide your personal information that is readily usable and should allow you to transmit the information from one entity to another entity without hindrance.</p>
+
+<p>We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.</p>
+
+<h4>Personal Information Sales Opt-Out and Opt-In Rights</h4>
+
+<p>If you are 16 years of age or older, you have the right to direct us to not sell your personal information at any time (the "right to opt-out"). We do not sell the personal information of consumers we actually know are less than 16 years of age, unless we receive affirmative authorization (the "right to opt-in") from either the consumer who is at least 13 but not yet 16 years of age, or the parent or guardian of a consumer less than 13 years of age. Consumers who opt-in to personal information sales may opt-out of future sales at any time.</p>
+
+<p>To exercise the right to opt-out, you (or your authorized representative) may submit a request to us by visiting the applicable the website (among those listed in the introductory paragraph in our Terms Of Use) and clicking on the “Do Not Sell My Info” link directly on that website and then completing the CCPA Opt-Out Manager submission.  Please note that we operate multiple websites, and any specific opt-out submission applies only to the one specific website on which you make the submission.</p>
+
+<p>You do not need to create an account with us to exercise your opt-out rights. We will only use personal information provided in an opt-out request to review and comply with the request.</p>
+
+<h4>Non-Discrimination</h4>
+
+<p>We will not discriminate against you for exercising any of your CCPA rights. Unless permitted by the CCPA, we will not:</p>
+
+<ul>
+  <li>Deny you goods or services.</li>
+  <li>Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties.</li>
+  <li>Provide you a different level or quality of goods or services.</li>
+  <li>Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+</li></ul>
+
+<p>However, we may offer you certain financial incentives permitted by the CCPA that can result in different prices, rates, or quality levels. Any CCPA-permitted financial incentive we offer will reasonably relate to your personal information's value and contain written terms that describe the program's material aspects. Participation in a financial incentive program requires your prior opt in consent, which you may revoke at any time.</p>
+
+<h4>Other California Privacy Rights</h4>
+
+<p>California's "Shine the Light" law (Civil Code Section § 1798.83) permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request or for questions regarding our Notice for California Residents, please send an email to privacy@maven.io.</p>
+
 <br>
 <br>
 
 <a name="recent"></a><h2>RECENT CHANGES TO THIS PRIVACY POLICY</h2>
+
+<p>December 28, 2019. We revised the policy for California residents under the California Consumer Privacy Act.</p>
 
 <p>May 14, 2018.  We revised the policy for users impacted by GDPR</p>
 
@@ -510,7 +782,7 @@ if (window.mavenUID) {
 <p>November 19, 2009: We made changes throughout the Privacy Policy. Please review the amended Privacy Policy carefully. Among other things, we added a provision to Section 3 explaining how we may share your Personally Identifiable Information with our service providers; explained how third-party advertisers use your information in Section 4; clarified our security policy in Section 6; and deleted a provision about international users that is covered in our Terms of Use.</p>
 
 
-</div><div id="before_footer"></div><div id="footer_wrap"><div id="footer"><a id="footer_logo" tabindex="-1" href="https://hubpages.com/" title="To the HubPages home page"><svg class="svglogo hubpages-logo hubpages-logo30"><title></title><use xlink:href="#hubpages-logo"></use></svg></a><div class="footer_links"><ul id="footerlist"><li><a tabindex="-1" href="https://hubpages.com/about/us">About Us</a></li><li><a tabindex="-1" href="https://hubpages.com/copyright">Copyright</a></li><li><a tabindex="-1" href="https://hubpages.com/user-agreement">Terms of Use</a></li><li><a tabindex="-1" href="https://hubpages.com/privacy-policy">Privacy Policy</a></li><li><a href="https://hubpages.com/advertising">Advertising</a></li></ul><a href="https://maven.io/company/?utm_source=maven-coalition&amp;utm_medium=hubpages&amp;utm_campaign=logos&amp;utm_content=footer-maven-channel" id="maven-channel-footer"><svg class="svglogo maven-channel maven-channel40"><title></title><use xlink:href="#maven-channel"></use></svg></a></div><div class="legalese"><p>Copyright © 2019 HubPages Inc. and respective owners. Other product and company names shown may be trademarks of their respective owners. HubPages<sup>®</sup> is a registered Service Mark of HubPages, Inc. HubPages and Hubbers (authors) may earn revenue on this page based on affiliate relationships and advertisements with partners including Amazon, Google, and others.</p><p>HubPages Inc, a part of Maven Inc.</p></div><div style="clear:both;"></div></div></div><div id="mobile_menu" hidden=""><div id="mobile_menu_content"><div class="button_section section"><a href="https://hubpages.com/signin/">Sign In</a><a href="https://hubpages.com/user/new/" class="button primary_action">Join</a></div><div class="categories section"><div class="category_group"><h3><a href="https://hubpages.com/art">Arts and Design</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/autos">Autos</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/literature">Books, Literature, and Writing</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/business">Business and Employment</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/education">Education and Science</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/entertainment">Entertainment and Media</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/family">Family and Parenting</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/style">Fashion and Beauty</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/food">Food and Cooking</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/games-hobbies">Games, Toys, and Hobbies</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/relationships">Gender and Relationships</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/health">Health</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/holidays">Holidays and Celebrations</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/living">Home</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/community">HubPages Tutorials and Community</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/money">Personal Finance</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/animals">Pets and Animals</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/politics">Politics and Social Issues</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/religion-philosophy">Religion and Philosophy</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/sports">Sports and Recreation</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/technology">Technology</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/travel">Travel and Places</a></h3></div></div><div class="resourcelinks section"><ul><li><a href="https://blog.hubpages.com">Blog</a></li><li><a href="https://hubpages.com/help-wizard/">Help</a></li></ul><div style="clear:both"></div></div><div class="footer section"><h3><a href="https://hubpages.com/about/us">About Us</a></h3><ul><li><a href="https://hubpages.com/help/sites-editorial-policy">Editorial Policy</a></li><li><a href="https://hubpages.com/copyright">Copyright</a></li><li><a href="https://hubpages.com/user-agreement">Terms of Use</a></li><li><a href="https://hubpages.com/privacy-policy">Privacy Policy</a></li><li><a href="https://hubpages.com/advertising">Advertising</a></li></ul><p class="legalese">Copyright © 2019 HubPages Inc. and respective owners.<br>HubPages Inc, a part of Maven Inc.</p><a href="https://maven.io/company/?utm_source=maven-coalition&amp;utm_medium=hubpages&amp;utm_campaign=logos&amp;utm_content=hamburger-maven-channel" id="maven-channel-hamburger"><svg class="svglogo maven-channel maven-channel40"><title></title><use xlink:href="#maven-channel"></use></svg></a></div></div></div>
+</div><div id="before_footer"></div><div id="ccpa_banner"><div class="do-not-sell-button"></div></div><div id="footer_wrap"><div id="footer"><a id="footer_logo" tabindex="-1" href="https://hubpages.com/" title="To the HubPages home page"><svg class="svglogo hubpages-logo hubpages-logo30"><title></title><use xlink:href="#hubpages-logo"></use></svg></a><div class="footer_links"><ul id="footerlist"><li><a tabindex="-1" href="https://hubpages.com/about/us">About Us</a></li><li><a tabindex="-1" href="https://hubpages.com/copyright">Copyright</a></li><li><a tabindex="-1" href="https://hubpages.com/user-agreement">Terms of Use</a></li><li><a tabindex="-1" href="https://hubpages.com/privacy-policy">Privacy Policy</a></li><li><a href="https://hubpages.com/advertising">Advertising</a></li></ul><a href="https://maven.io/company/?utm_source=maven-coalition&amp;utm_medium=hubpages&amp;utm_campaign=logos&amp;utm_content=footer-maven-channel" id="maven-channel-footer"><svg class="svglogo maven-channel maven-channel40"><title></title><use xlink:href="#maven-channel"></use></svg></a></div><div class="legalese"><p>Copyright © 2019 HubPages Inc. and respective owners. Other product and company names shown may be trademarks of their respective owners. HubPages<sup>®</sup> is a registered Service Mark of HubPages, Inc. HubPages and Hubbers (authors) may earn revenue on this page based on affiliate relationships and advertisements with partners including Amazon, Google, and others.</p><p>HubPages Inc, a part of Maven Inc.</p></div><div style="clear:both;"></div></div></div><div id="mobile_menu" hidden=""><div id="mobile_menu_content"><div class="button_section section"><a href="https://hubpages.com/signin/">Sign In</a><a href="https://hubpages.com/user/new/" class="button primary_action">Join</a></div><div class="categories section"><div class="category_group"><h3><a href="https://hubpages.com/art">Arts and Design</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/autos">Autos</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/literature">Books, Literature, and Writing</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/business">Business and Employment</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/education">Education and Science</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/entertainment">Entertainment and Media</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/family">Family and Parenting</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/style">Fashion and Beauty</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/food">Food and Cooking</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/games-hobbies">Games, Toys, and Hobbies</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/relationships">Gender and Relationships</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/health">Health</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/holidays">Holidays and Celebrations</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/living">Home</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/community">HubPages Tutorials and Community</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/money">Personal Finance</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/animals">Pets and Animals</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/politics">Politics and Social Issues</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/religion-philosophy">Religion and Philosophy</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/sports">Sports and Recreation</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/technology">Technology</a></h3></div><div class="category_group"><h3><a href="https://hubpages.com/travel">Travel and Places</a></h3></div></div><div class="resourcelinks section"><ul><li><a href="https://blog.hubpages.com">Blog</a></li><li><a href="https://hubpages.com/help-wizard/">Help</a></li></ul><div style="clear:both"></div></div><div class="footer section"><h3><a href="https://hubpages.com/about/us">About Us</a></h3><ul><li><a href="https://hubpages.com/help/sites-editorial-policy">Editorial Policy</a></li><li><a href="https://hubpages.com/copyright">Copyright</a></li><li><a href="https://hubpages.com/user-agreement">Terms of Use</a></li><li><a href="https://hubpages.com/privacy-policy">Privacy Policy</a></li><li><a href="https://hubpages.com/advertising">Advertising</a></li></ul><p class="legalese">Copyright © 2019 HubPages Inc. and respective owners.<br>HubPages Inc, a part of Maven Inc.</p><a href="https://maven.io/company/?utm_source=maven-coalition&amp;utm_medium=hubpages&amp;utm_campaign=logos&amp;utm_content=hamburger-maven-channel" id="maven-channel-hamburger"><svg class="svglogo maven-channel maven-channel40"><title></title><use xlink:href="#maven-channel"></use></svg></a></div></div></div>
 <div id="ajaxing"><div id="ajaxing_box"><div class="spinny"></div><div id="working">working</div></div></div><script>LABqueue.wait(function() {crossDomainSetup('https://equalstyle.com/login-hub/', false);
 jq(document).ready(function() { hpSiteInit(); });
 window.userimg_domain = 'hubstatic.com';
@@ -699,6 +971,10 @@ if (typeof $igniter_var === 'undefined') {
 
 	//this must be called AFTER we have the maven UID
 	window.setupLiftigniter = function(uid) {
+		if ('undefined' === typeof window.hpTrafficRecirculation.logLiftigniterPageview || !window.hpTrafficRecirculation.logLiftigniterPageview) {
+			return;
+		}
+
 		$p('init', '999gba4qphtjrmpe');
 
 		// setUserId is needed for the 'don't keep showing me content I've already
@@ -710,8 +986,7 @@ if (typeof $igniter_var === 'undefined') {
 
 		$p('send', 'pageview');
 
-		// Turn off Maven-2-Maven as configured in hp_base_ApplicationConfig
-		if ('undefined' === typeof window.maven_rcw_enabled || !window.maven_rcw_enabled) {
+		if ('undefined' === typeof window.hpTrafficRecirculation.showMavenWidget || !window.hpTrafficRecirculation.showMavenWidget) {
 			return;
 		}
 
@@ -774,6 +1049,15 @@ if (typeof $igniter_var === 'undefined') {
 						console.log(event);
 					}
 				};
+
+				if ('object' === typeof window.hpTrafficRecirculation.mavenChannels && window.hpTrafficRecirculation.mavenChannels.length > 0) {
+					// Open up recommendations to the given set of channels
+					window.mvn.channelLinks = window.hpTrafficRecirculation.mavenChannels;
+					for (let i = 0; i < window.mvn.channelLinks.length; i++) {
+						window.mvn.channels.push(window.mvn.channelLinks[i].channelKey);
+					}
+				}
+
 				var s = document.createElement('script');
 				s.src = 'https://static.maven.io/m2m/widget.js';
 				document.body.appendChild(s);
@@ -783,15 +1067,15 @@ if (typeof $igniter_var === 'undefined') {
 		window.addEventListener('scroll', createMavenWidget);
 	};
 	if (window.mavenUID) {
-		window.mavenUID.then(function(uid) {
-			setupLiftigniter(uid ? uid : null);
+		window.mavenUID.then(function(resp) {
+			setupLiftigniter(resp.uid ? resp.uid : null);
 		});
 	}
 }
 </script><noscript>
   <img src="https://sb.scorecardresearch.com/p?c1=2&c2=27019031&cv=2.0&cj=1" alt="comscore pixel"/>
 </noscript>
-<!-- rendered by hubwbc10 at Sat, 29 Jun 19 17:09:47 -0700 -->
+<!-- rendered by hubwbc02 at Tue, 31 Dec 19 10:12:30 -0800 -->
 <!-- uncategorized hpads-ourshare -->
-<!-- served from cache Sat, 29 Jun 19 17:49:39 -0700 -->
+<!-- served from cache Tue, 31 Dec 19 11:32:29 -0800 -->
 </body></html>
