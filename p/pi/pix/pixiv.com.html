@@ -1,0 +1,219 @@
+<!--The following is the downloaded HTML source of the pixiv.com privacy policy that was archived on 2019-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191231234430id_/https%3A//www.pixiv.net/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head><title>[pixiv] Privacy Policy</title><meta name="viewport" content="width=device-width, initial-scale=1.0"><style>
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    font-family: "Helvetica Neue","arial","Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+.main-content h1 {font-size: 20px}
+.main-content h2 {font-size: 18px}
+.main-content h3 {font-size: 16px}
+.main-content h4 {font-size: 14px}
+</style><style>
+header {
+    border-bottom: solid #d6dee5 1px;
+}
+
+footer {
+    padding: 1em;
+}
+
+footer .content address {
+    float: right;
+}
+
+.logo {
+    height:25px;
+    margin-top:10px;
+    margin-bottom:5px;
+}
+
+@media screen and (min-width: 970px) {
+    .container .content {
+        width: 970px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    body {
+        background-color: #e4e7ee;
+    }
+
+    header {
+        background-color: white;
+        margin-bottom: 10px;
+    }
+}
+
+.main-content {
+    box-sizing: border-box;
+    padding: 1em;
+    background-color: white;
+}
+
+@media screen and (min-width: 970px) {
+    .main-content {
+        border-radius: 5px;
+        border: solid #d6dee5 1px;
+    }
+}
+ol.paragraph-item{
+    padding:0 0 0 2em;
+    margin:0;
+}
+
+ol.paragraph-item li{
+    list-style-type:none;
+    list-style-position:inside;
+    counter-increment: cnt;
+}
+.paragraph-item li:before{
+    display: marker;
+    content: "(" counter(cnt) ") ";
+}
+
+</style><style>
+@media screen and (min-width: 970px) {
+    .main-content .terms {
+        padding-left: 10em;
+        padding-right: 10em;
+    }
+}
+</style><style>
+.press-kit-section .button {
+    padding-right: 24px;
+    padding-left: 24px;
+    -webkit-transition: color .2s cubic-bezier(.42,0,.58,1),background-color .2s cubic-bezier(.42,0,.58,1);
+    transition: color .2s cubic-bezier(.42,0,.58,1),background-color .2s cubic-bezier(.42,0,.58,1);
+
+    position: relative;
+    top: 0;
+    left: 0;
+    border: 1px solid #009cff;
+    background: #fff;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    padding: 8px;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+    color: #009cff;
+    width: 208px;
+    margin: 0 auto;
+}
+
+.press-kit-section .button:hover {
+    background-color: #009cff;
+    color: #fff;
+}
+
+.press-kit-section .button:before {
+    content: "＞";
+    position: absolute;
+    top: 50%;
+    right: 4.89297%;
+    font-size: 10px;
+    line-height: 1;
+    vertical-align: middle;
+    width: 10px;
+    height: 10px;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.press-kit-section p img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.press-kit-section .show-pc {
+    display: none;
+}
+
+.press-kit-section .show-sp {
+    display: block;
+}
+
+@media screen and (min-width: 970px) {
+    .press-kit-section .show-pc {
+        display: block;
+    }
+
+    .press-kit-section .show-sp {
+        display: none;
+    }
+}
+</style><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>
+    var _gaq = _gaq || [];
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    _gaq.push(['_setAccount', 'UA-1830249-3']);_gaq.push(['_setDomainName', 'pixiv.net']);
+    if (window.pixiv) {
+        if (pixiv.user && pixiv.user.loggedIn) {
+            _gaq.push(['_setCustomVar', 1, 'login', 'yes', 3]);
+            _gaq.push(['_setCustomVar', 3, 'plan', pixiv.user.premium ? 'premium' : 'normal', 1]);
+            _gaq.push(['_setCustomVar', 5, 'gender', pixiv.user.gender, 1]);
+            _gaq.push(['_setCustomVar', 6, 'user_id', pixiv.user.id, 1]);
+            _gaq.push(['_setCustomVar', 12, 'illustup_flg', pixiv.user.illustup_flg ? 'uploaded' : 'not_uploaded', 3]);
+            _gaq.push(['_setCustomVar', 13, 'user_id_per_pv', pixiv.user.id, 3]);
+        } else {
+            _gaq.push(['_setCustomVar', 1, 'login', 'no', 3]);
+        }
+
+        _gaq.push(['_setCustomVar', 25, 'first_visit_datetime_pc', "2020-01-01 08:44:30", 3]);
+
+        (function() {
+            // クッキーあれば、一回でもログインした人とみなす
+            if (pixiv.user && window.colon && colon.storage) {
+                var cookie_name = 'login_ever';
+
+                if (colon.storage.cookie(cookie_name)) {// 一度でもログインしたことある
+                    _gaq.push(['_setCustomVar', 2, 'login ever', 'yes', 1]);
+
+                } else if (pixiv.user.loggedIn) { // ログインしてる
+                    colon.storage.cookie(cookie_name, 'yes', {
+                        expires: 1000 * 60 * 60 * 24 * 365 * 5, // 5 years
+                        domain: location.hostname
+                    });
+                    _gaq.push(['_setCustomVar', 2, 'login ever', 'yes', 1]);
+
+                } else { // ログインしたこと無いし、ログインしてもない
+                    _gaq.push(['_setCustomVar', 2, 'login ever', 'no', 1]);
+                }
+
+                
+                var p_ab_id = colon.storage.cookie('p_ab_id');
+                var p_ab_id_2 = colon.storage.cookie('p_ab_id_2');
+                _gaq.push(['_setCustomVar', 9, 'p_ab_id', p_ab_id, 1]);
+                _gaq.push(['_setCustomVar', 10, 'p_ab_id_2', p_ab_id_2, 1]);
+
+                var p_ab_d_id = colon.storage.cookie('p_ab_d_id');
+                _gaq.push(['_setCustomVar', 27, 'p_ab_d_id', p_ab_d_id, 3]);
+            }
+        } ())
+
+        _gaq.push(['_setCustomVar', 11, 'lang', "en", 1]);
+    }
+    
+        _gaq.push(['_setSiteSpeedSampleRate', 20]);
+    _gaq.push(['_trackPageview']);</script><script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-996000095"></script><script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'AW-996000095');
+    </script>
+</head><body><header class="container"><div class="content"><a href="/"><img class="logo" src="https://s.pximg.net/www/images/brand_terms_001.png"></a></div></header><section class="container"><div class="content main-content"><div class="terms"><h1>Terms / Guidelines</h1><ul class="termsNavi" style="padding-left: 2em"><li><a href="/terms/?page=term">Terms of Use</a></li><li><a>Privacy Policy</a></li><li><a href="/terms/?page=guideline">Guidelines</a></li><li><a href="/terms/?page=brand">pixiv Trademark Guideline</a></li><li><a href="/terms/?page=translation_suggestion">Translation suggestions terms of service</a></li><li><a href="/terms/?page=point">pixiv Point agreement</a></li><li><a href="https://sketch.pixiv.net/live_guidelines#live_reward_terms">Live Shoutouts Feature Terms of Use</a></li></ul><div class="termsArea"><hr><h2>Privacy Policy revision information</h2><h2>2019/4/18</h2><p>Updated "Performance cookies to improve our services" section regarding usage of reCAPTCHA<!-- p--></p><h3>Main revisions:</h3><ul><li>In Article 11 "Cookie policy", we added reCAPTCHA in the "Performance cookies to improve our services" section.</li></ul><a href="/terms/?page=privacy_history">Past revisions</a><hr><h2>Privacy Policy</h2><p>pixiv Inc. (hereinafter ""we"", ""us"", ""our""), being fully aware that private information is extremely important for the privacy of our members (hereinafter ""users"") who use ""pixiv"" (hereinafter ""this service""), shall pay particular attention to the management of private information.</p><h3>1　Private information</h3><p>""Private information"" is defined as personal data, which includes name, address, birthday, age, gender, telephone number, family member names, email address, ID, IP address, place of work, professional affiliation, business address, work telephone number, credit card number, bank account, visited homepage info, complaints, consultations or inquiry info. And combining one or more data from those personal data can identify a specific person.</p><h3 id="purpose">2　Purpose of use</h3><p>We shall only use private information received for the following purposes:</p><ol><p>( 1 ) In order to provide our service.</p><p>( 2 ) In order to charge users who use our paid service.</p><p>( 3 ) As determining data for improvement of this service, additional of a new service or publication or delivery of advertisements considering users' age, gender and interests.</p><p>( 4 ) In order to prevent usage violating the terms of use of this service.</p><p>( 5 ) In order to gather statistical data on users' usage (in case of collecting such data, data shall be modified in order not to identify an individual).</p><p>( 6 ) In order to grasp the usage situation of users and use them for improvement of this service and development of new services</p><p>( 7 ) To confirm the application of the e-mail delivery service and to deliver e-mails</p><p>( 8 ) To send notices such as results of a contest, campaign, prizes and the like, dispatch of goods, questionnaires etc.</p><p>( 9 ) To deliver information on various membership services and other various services that we offer</p><p>( 10 ) To ask for cooperation in surveys and participation in various events, to report results etc.</p><p>( 11 ) In order to grasp the utilization status of this product, this service, this website, etc., and to deliver information and surveys etc. to companies/organizations that are deemed beneficial to us, including our company</p><p>( 12 ) In order to provide personalized contents more relevant to users of this service</p></ol><h3>3　Use restrictions</h3><p>We shall use private information received from users only to the required extent in order to achieve the purpose of use mentioned above, except in following cases:</p><ol><li>When complying with a regulation</li><li>When needed to protect a person's life, physical health or property, and when impossible to get the user's consent</li><li>When particularly needed for the improvement in public health or implementation of rearing children, and when impossible to get the user's consent</li><li>When needed to cooperate with national organizations, local public organizations or ones who received the commission in order to implement the missions ordered by decree, and getting the user's consent may interfere with the mission</li></ol><h3>4　Acquisition of private information</h3><ol><li>We obtain users' private information to the extent the users use this service.</li><li>Other private information shall be obtained in an appropriate and fair manner. We shall not obtain information in any dishonest manners or against the users' will.</li></ol><h3>5　Acquisition notifications</h3><p>We will inform or announce beforehand the purpose of use when we obtain private information of a user by means other than using this service. We also announce the change of the purpose of use on this service.</p><h3>6　 Management of private information</h3><p>We shall appropriately control, manage and keep safe users' private information.</p><h3>7　Commission of management</h3><p>We may trustee private information received. In such case, we sign a necessary agreement with the fiduciary and direct that the fiduciary appropriately manages private information.</p><h3>8　Offering private information to a third party</h3><p>We shall not offer private information to a third party without the agreement of a user; provided, however, that this shall not apply to the following cases:</p><ol><li>When we trustee a part of our services and provide necessary information in order to accomplish the commissioned business.</li><li>When we disclose statistic data, which collects or analyzes individual private information with the aim of proving statistical information. The data is processed in order not to identify the user.</li><li>When we set aside private information of users who use our paid service to commissioned companies such as payment system companies, credit card companies or bank with the aim of charging the service fee.</li><li>When we trustee the delivery to users.</li><li>When required to disclose or offer information by law.</li></ol><h3>9　Disclosure of private information</h3><p>We shall disclose private information to the user's request. However, we may not disclose all or a part of the information in the following cases.</p><ol><li>When the life, physical health or property of the user is in danger.</li><li>When the disclosure damages our business operation significantly.</li><li>When doing so violates the law.</li></ol><h3>10　Correction of private information</h3><p>When a user requests to correct or add to their private information, we will verify identity and accuracy of the correction, then we will deal with the case in an appropriate manner.</p><h3 id="cookie">11　Cookie policy</h3><p>Our company uses cookies. Cookies are small pieces of text sent by the user's browser to our server whenever a user visits our website, and they automatically collect information about the user such as their advertisement browsing history, pages visited, applications and information about the user's usage environment. Cookies include Apple's Advertising Identifier (IDFA) and Google's Advertising ID (AAID). The information we collect has no purpose to identify individuals and is used exclusively for improving services and optimizing advertisement delivery. For detailed purposes of use, please refer to the following.&lt; /p&gt;</p><h4>Functionality cookies to remember the user's basic settings</h4><p>In order to provide a comfortable service environment for users, our service uses cookies to store settings customized by the user (such as display settings).</p><h4>Functionality cookies for automatic account authentication</h4><p>Our service uses cookies for automatic account authentication. By logging in using your personal pixiv account, you can use the service without entering your account information the second time or later.</p><h4>Performance cookies to improve our services</h4><strong>Google Analytics</strong><p>In order to collect information about how visitors use our website and to improve how our services work, we are using Google Analytics on this website. You can find out more about how Google Analytics works and about how information is collected on the Google Analytics terms of services and on Google privacy policy.</p><ul><li>Google Analytics Terms of Use<br><a href="https://www.google.com/analytics/terms/jp.html">https://www.google.com/analytics/terms/jp.html</a></li><li>Google Privacy Policy<br><a href="https://www.google.com/intl/ja/policies/privacy/">https://www.google.com/intl/ja/policies/privacy/</a></li></ul><p>To opt out of Google Analytics, please download the ""Opt-out Browser Add-on"" from the URL below. After you install it, you'll be able to edit Google Analytics settings.</p><ul><li>Google Analytics Opt-out Browser Add-on<br><a href="https://tools.google.com/dlpage/gaoptout?hl=ja">https://tools.google.com/dlpage/gaoptout?hl=ja</a></li></ul><strong>reCAPTCHA</strong><p>We use the reCAPTCHA service provided by Google Inc. (Google) to protect your submissions via internet submission forms on this site. This plugin checks if you are a person in order to prevent certain website functions from being (ab)used by spam bots (particularly comments). This plugin query includes the sending of the IP address and possibly other data required by Google for the Google reCAPTCHA service. For this purpose your input will be communicated to and used by Google. However, your IP address is previously truncated by Google within member states of the European Union or in other states which are party to the agreement on the European Economic Area and is, as such, anonymized. Only in exceptional cases is a full IP address transmitted to a Google server in the United States and truncated there. On behalf of the operator of this website, Google will use this information to evaluate your use of this service. The IP address provided by reCaptcha from your browser shall not be merged with any other data from Google.</p><h4>About surveys</h4><p>We use Qualaroo to conduct surveys in our services. Qualaroo uses cookies that do not collect personal information. For details about Qualaroo cookies, please check the company's privacy policy at the URL below.</p><ul><li>Qualaroo<br><a href="https://qualaroo.com/privacy-policy/">https://qualaroo.com/privacy-policy/</a></li></ul><h4>About displayed ads</h4><p>In order to optimize the distribution of advertisements by our company, we analyze the user's action history on our service using cookies. We might use information regarding your interests in targeting advertisement.</p><p>Targeting advertisements using cookies may be delivered in our service from a server of a third party company or by a third-party company entrusted by our company. In the case where these third-party companies are conducting advertisement distribution using cookies or the like, the automatically acquired information is recorded in the server of the third party company, and it will be managed under the privacy policy of the third-party company.</p><p>Please check the privacy policy of each company and the procedure for disabling targeted advertisement from the following page.</p><ul><li>How to opt out targeted ads from pixiv<br><a href="/optout/">https://www.pixiv.net/optout/</a></li><li>How to opt out targeted ads delivery on the iOS app<br><a href="https://support.apple.com/ja-jp/HT202074">https://support.apple.com/ja-jp/HT202074</a></li><li>How to opt out targeted ads delivery on the Android app<br><a href="https://support.google.com/googleplay/answer/3405269">https://support.google.com/googleplay/answer/3405269</a></li><li>DDAI（Date Driven Advertising Initiative）<br><a href="http://www.ddai.info/optout">http://www.ddai.info/optout</a></li><li>YourAdChoices<br><a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a></li><li>Rubicon Project<br><a href="http://rubiconproject.com/privacy">http://rubiconproject.com/privacy</a></li><li>i-mobile Co.,Ltd.<br><a href="https://i-mobile.co.jp/privacy.aspx">https://i-mobile.co.jp/privacy.aspx</a></li><li>Akinasista Corporation<br><a href="http://www.akinasista.co.jp/privacy_policy/index.php" http:="" www.akinasista.co.jp="" privacy_policy="" index.php<="" a=""></a></li><li><a href="http://www.akinasista.co.jp/privacy_policy/index.php" http:="" www.akinasista.co.jp="" privacy_policy="" index.php<="" a="">AXELMARK INC.<br></a><a href="http://www.axelmark.co.jp/privacy">http://www.axelmark.co.jp/privacy</a></li><li>AppLovin<br><a href="https://www.applovin.com/privacy-jp/">https://www.applovin.com/privacy-jp/</a></li><li>Amazon.co.jp<br><a href="https://www.amazon.co.jp/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&amp;nodeId=201909150">https://www.amazon.co.jp/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&amp;nodeId=201909150</a></li><li>AMoAd Inc.<br><a href="http://www.amoad.com/guideline/">http://www.amoad.com/guideline/</a></li><li>Oath Japan KK - AOL Platforms<br><a href="http://www.aolplatforms.jp/company/privacy/">http://www.aolplatforms.jp/company/privacy/</a></li><li>OpenX<br><a href="http://www.openx.com/about/privacy-policy">http://www.openx.com/about/privacy-policy</a></li><li>Google<br><a href="https://www.google.com/settings/ads">https://www.google.com/settings/ads</a></li><li>CRITEO<br><a href="https://www.criteo.com/jp/privacy/">https://www.criteo.com/jp/privacy/</a></li><li>CyberAgent, Inc.<br><a href="http://www.dynalyst.jp/legal/policy/optout.html">http://www.dynalyst.jp/legal/policy/optout.html</a></li><li>Geniee<br><a href="https://geniee.co.jp/privacy/">https://geniee.co.jp/privacy/</a></li><li>Supership<br><a href="http://supership.jp/optout.html">http://supership.jp/optout.html</a></li><li>GMO AD Marketing Inc.<br><a href="https://www.gmo-am.jp/privacy.html">https://www.gmo-am.jp/privacy.html</a></li><li>F@N Communications Inc<br><a href="https://nend.net/privacy/explainoptout">https://nend.net/privacy/explainoptout</a></li><li>Facebook Inc.<br><a href="https://www.facebook.com/about/ads">https://www.facebook.com/about/ads</a></li><li>fluct, Inc<br><a href="https://corp.fluct.jp/privacy/">https://corp.fluct.jp/privacy/</a></li><li>Platform One<br><a href="http://www.platform-one.co.jp/optout/">http://www.platform-one.co.jp/optout/</a></li><li>MICROAD, INC<br><a href="http://send.microad.jp/w3c/">http://send.microad.jp/w3c/</a></li><li>MoPub Inc.<br><a href="https://www.mopub.com/optout/">https://www.mopub.com/optout/</a></li><li>Yahoo Japan Corporation<br><a href="https://btoptout.yahoo.co.jp/optout/preferences.html">https://btoptout.yahoo.co.jp/optout/preferences.html</a><br><a href="http://docs.yahoo.co.jp/docs/info/terms/chapter1.html#cf2nd">http://docs.yahoo.co.jp/docs/info/terms/chapter1.html#cf2nd</a></li><li>United, Inc<br><a href="https://ja.ad-stir.com/sp/optout.html">https://ja.ad-stir.com/sp/optout.html</a></li></ul><p>The user can set whether to allow the use of cookies or not. However, if you disable cookies, you may not be able to use some of the settings and services within the service that require cookies.</p><h3>12　Disclaimer</h3><p>We assume no responsibility whatsoever for the acquisition of private information by a third party in the following cases.</p><ol><li>When the user discloses private information through our service or other means.</li><li>When one can be identified with information that a user enters on our service.</li></ol><h3>13　Inquiries</h3><p>Unless there is a risk of damage being caused to our business, we will ensure that the personal information that we hold can only be retrieved by its owner. To confirm which information we hold or ask for its correction or deletion, please refer to the<a href="/setting_user.php">method</a> prescribed by our company's regulations.<br>In addition, we accept inquiries about personal information disclosure, content correction, deletion, and complaints from the owner of the information.</p><h3>14　Revision of privacy policy</h3><p>A part or all of our privacy policy may change without notice. Revision will be announced on this site.</p></div></div></div></section><footer class="container"><div class="content"><a href="https://www.pixiv.co.jp/">pixiv Inc.</a>｜<a href="https://www.pixiv.net/terms/?page=privacy">Privacy Policy</a><address>© pixiv</address></div></footer></body></html>
