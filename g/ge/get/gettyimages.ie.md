@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gettyimages.ie privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627213327id_/https%3A//www.gettyimages.ie/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettyimages.ie privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231071355id_/https%3A//www.gettyimages.ie/company/privacy-policy) for the most accurate reproduction.*
 
 # Getty Images
 
 #### GETTY IMAGES PRIVACY POLICY
 
-Last updated: January 2019
+Last updated: December 2019
 
 Getty Images, Inc., and its affiliates, (collectively, “ **Getty Images** ”) is committed to protecting your privacy. This privacy policy tells you about our collection, use, and disclosure of your personal data. The terms of this policy apply to all Getty Images websites and associated services that link to this privacy policy (the “ **websites** ”), it does not apply to websites or services that link to a different privacy notice. 
 
@@ -63,7 +63,7 @@ Personal data collected by Getty Images may be stored and processed in your coun
 
 We transfer personal data from the European Economic Area and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. When we do so, we use a variety of legal mechanisms, including contracts where required by applicable law, to help ensure your rights and protections. To learn more about the European Commission's decisions on the adequacy of personal data protections, please visit: <https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en>.
 
-Getty Images has certified under the EU-U.S. and Swiss-U.S. Privacy Shield frameworks (individually and collectively, " **Privacy Shield** "). Getty Images complies with the Privacy Shield as set forth by the U.S. Department of Commerce with respect to the collection, use, transfer and retention of personal data from European Union member countries, the United Kingdom and/or Switzerland (as applicable) to the United States in reliance on the Privacy Shield. Getty Images has certified that it adheres to the Privacy Shield principles based on Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.
+Getty Images has certified under the EU-U.S. and Swiss-U.S. Privacy Shield frameworks (individually and collectively, " **Privacy Shield** "). Getty Images complies with the Privacy Shield as set forth by the U.S. Department of Commerce with respect to the collection, use, transfer and retention of personal data from European Union member countries, the United Kingdom and/or Switzerland (as applicable) to the United States in reliance on the Privacy Shield. As part of the Privacy Shield Framework, your data may be shared with the following US-based Getty Images affiliates: (a) Getty Images (Seattle), Inc.; (b) Getty Images (US), Inc.; (c) Getty Images News Services (PRC), Inc.; and (d) Getty Images, Inc. Getty Images has certified that it adheres to the Privacy Shield principles based on Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.
 
 We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. If third-party agents process personal data on our behalf in a manner inconsistent with the principles of Privacy Shield, we remain liable unless we prove we are not responsible for the event giving rise to the damage. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield principles, the Privacy Shield principles shall govern.
 
@@ -168,7 +168,23 @@ If the processing of personal data about you is subject to European Union data p
   
 To make such requests, contact us at [privacy@gettyimages.com](mailto:privacy@gettyimages.com). When we are processing data on behalf of another party that is the “data controller”, you should direct your request to that party. You also have the right to lodge a complaint with a supervisory authority, but we encourage you to first contact us with any questions or concerns. Please be aware that those rights set out above may not apply in some instances, for example where our right to processing your personal data may be necessary for exercising the right of freedom of expression (e.g., news gathering); or for the establishment, exercise or defence of legal claims.
 
-**Security of Your Personal Data**
+**Your California Privacy Rights**
+
+If you are a California resident and the processing of personal information about you is subject to the California Consumer Privacy Act ("CCPA"), you have certain rights with respect to that information. In particular, you have a right to request that companies provide you with the following information:
+
+(1) The categories and specific pieces of personal information we have collected about you.  
+(2) The categories of sources from which we collect personal information.  
+(3) The purposes for collecting, using, or selling personal information.  
+(4) The categories of third parties with which we share personal information.  
+(5) For companies that disclose personal information for a business purpose, the categories of personal information disclosed about you for a business purpose.  
+(6) For companies that sell personal information, the categories of personal information sold about you and the categories of third parties to which the personal information was sold, by category or categories of personal information for each third party to which the personal information was sold.
+
+To make such requests, contact us at [privacy@gettyimages.com](mailto:privacy@gettyimages.com "privacy@gettyimages.com"). Note that we have provided the information described in (2)-(5) in this privacy statement. With respect to (6), note that [we do not sell personal information as defined by the CCPA](https://web.archive.org/company/CCPA "CCPA").
+
+You also have a right to request that we delete personal information under certain circumstances, subject to a number of exceptions. Finally, you have a right to not be discriminated against for exercising rights set out in the CCPA.
+
+ **  
+Security of Your Personal Data**
 
 The security of your personal data is important to us. We take appropriate and reasonable steps designed to help protect your personal data from unauthorised access, use, disclosure, alteration, and destruction. For instance, in some cases we encrypt that information in transit using secure socket layer (SSL) technology. No method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, while we strive to protect your personal data, we cannot guarantee its absolute security.
 
@@ -194,4 +210,4 @@ For the EU
 
 Our data protection representative for the European Economic Area and Switzerland is located at Getty Images International. You can contact them by emailing [privacy@gettyimages.com](mailto:privacy@gettyimages.com) or by phone at 1800 931 768, or by postal mail at Attn: Privacy, Getty Images International, 1st Floor, The Herbert Building, The Park, Carrickmines, Dublin 18, Ireland.
 
-_©_ _1999-_ _2019 Getty Images, Inc. All rights reserved. Privacy Policy._
+_©_ _1999-_ _2020 Getty Images, Inc. All rights reserved. Privacy Policy._
