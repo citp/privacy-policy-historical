@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the apstylebook.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628145855id_/https%3A//apnews.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apstylebook.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231213150id_/https%3A//apnews.com/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
 This Privacy Policy applies to information that The Associated Press and its affiliates (referred to collectively in this Privacy Policy as “AP”, “we,” “us,” “our” and other similar pronouns) collect through those AP websites and mobile applications which make this Privacy Policy available (each such website and mobile application, a “Service”).
 
-This Privacy Policy explains the types of information we may collect, how we may use and disclose the information once it is collected, and, where applicable, how you can stop us from collecting, using, disclosing or continuing to hold your information. We want to ensure that in using any of the Services, you understand the terms of this Privacy Policy, including any subsequent changes made to the Privacy Policy as described in Part 11 below, and are aware of the privacy choices available to you. Please note that this Privacy Policy does not apply to information that you may provide to us, or that we may obtain, where a separate privacy policy is made available to you or which do not make this Privacy Policy available.<br>
+This Privacy Policy explains the types of information we may collect, how we may use and disclose the information once it is collected, and, where applicable, how you can stop us from collecting, using, disclosing or continuing to hold your information. We want to ensure that in using any of the Services, you understand the terms of this Privacy Policy, including any subsequent changes made to the Privacy Policy as described in Part 11 below, and are aware of the privacy choices available to you. Please note that this Privacy Policy does not apply to information that you may provide to us, or that we may obtain, where a separate privacy policy is made available to you or which do not make this Privacy Policy available.&lt;br&gt;
 
 ## 1\. What information may be collected?
 
@@ -24,7 +24,7 @@ As is typical of many web sites and mobile applications, when you use our Servic
 
   * Your IP address (which we may associate with your domain name or that of your Internet access provider or wireless carrier, and your location);
   * Unique ID number associated with your device;
-  * Other unique identifiers such as advertising identifiers (e.g., “ad-ID” or “IDFA”); 
+  * Other unique identifiers such as advertising identifiers (e.g., &quot;ad-ID&quot; or &quot;IDFA&quot;); 
   * Web browser and operating system information; 
   * Language of your device; 
   * Wireless connections you are using; 
@@ -114,7 +114,7 @@ You can manage website cookies in your browser settings. You always have the cho
   * Mozilla Firefox®: https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored
   * Microsoft® Internet Explorer: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11
   * Google Chrome™: https://support.google.com/accounts/answer/61416?hl=en
-  * Safari®: https://support.apple.com/kb/PH21411?viewlocale=en _US &locale=en_US
+  * Safari®: https://support.apple.com/kb/PH21411?viewlocale=en _US &amp;locale=en_US
 
 
 
