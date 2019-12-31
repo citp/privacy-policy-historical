@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldpackers.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512235245id_/https%3A//www.worldpackers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpackers.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231065059id_/https%3A//www.worldpackers.com/privacy) for the most accurate reproduction.*
 
 # Worldpackers Privacy Policy
 
