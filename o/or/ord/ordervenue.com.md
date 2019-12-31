@@ -1,78 +1,85 @@
-> *The following text is extracted and transformed from the ordervenue.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906095639id_/https%3A//www.earticleblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordervenue.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231211106id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - Earticleblog
+# HugeDomains.com - Privacy Policy
 
-Privacy Policy -EarticleBlog
+HUGEDOMAINS.COM PRIVACY POLICY
 
-## **Privacy Policy for www.earticleblog.com**
+HugeDomains's Privacy Policy describes how this site collects and uses the personally identifiable information provided by customers/consumers/users of this site. It also describes the choices available to customers regarding HugeDomains's use of customer's personally identifiable information and how that information may be accessed and updated by customers and how it may be provided to third-parties.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at newtweeks@gmail.com.
+If you do not agree to HugeDomains's Privacy Policy and/or [Terms of Service](https://web.archive.org/terms.cfm), you must immediately cease use of HugeDomains.com. If you do not agree, do not use HugeDomains's website or services,  do not purchase domains and do not enter into payment plans with HugeDomains.com.
 
-At www.earticleblog.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.earticleblog.com and how it is used. ** **
+HugeDomains.com is a United States company, located in Denver, Colorado, USA. HugeDomains complies with the U.S-EU Safe Harbor framework which is dictated and set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. HugeDomains further complies with the California Online Privacy Protection Act and the Children's Online Privacy Protection Act (COPPA).
 
-**Log Files**
+**What Information HugeDomains Collects**
 
-Like many other Web sites, www.earticleblog.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+HugeDomains must collect certain personal data in order to conduct business, provide customer service and provide a customer with relevant requested services. Personal information is collected from customers when  a customer contacts HugeDomains through the website, when a customer purchases a domain, whenever a customer fills out a contact form on the HugeDomains platform; when a customer submits payment to HugeDomains; and when a customer contacts HugeDomains via phone or chat. HugeDomains will further collect certain personal information from customers as needed in order to continue to provide services to its customers and as required by any relevant law, rule, regulation, and other method that ensures the safety of HugeDomains, its customers, and the general public.
 
-### Use of Cookies
+HugeDomains collects customers' relevant personal information, including but not limited to: name, address, phone number, fax number (if applicable), email address and other data used to directly or indirectly to identify you in connection to your use of HugeDomains's services. Many products/services may require a customer to provide HugeDomains with additional information such as credit card information, associated billing information, or other financial and payment information. In order to protect HugeDomains and its customers, as well as intellectual property rights, HugeDomains may require customers to provide government identification and/or other documentation as proof of identity and physical address.
 
-This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer/device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user’s computer/device.
+**Why HugeDomains Collects This Information**
 
-This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google’s privacy policy here for further information https://www.google.com/privacy.htm
+HugeDomains collects customer information for several reasons, including but not limited to: following relevant and required ICANN data collection requirements, along with and to abide and comply with United States laws, rules, and regulations. Further, HugeDomains collects such information in order to allow HugeDomains to: 
 
-Other cookies may be stored on your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
+a. **To personalize customer experience**  \- customer information helps HugeDomains better respond to customer's individual needs.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.earticleblog.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
+b. **To improve the HugeDomains website and services** \- HugeDomains continually strives to improve its website offerings and services based on the information and feedback received from customers.
 
-www.earticleblog.com has no access to or control over these cookies that are used by third-party advertisers.
+c. **To improve customer service** \- customer information helps HugeDomains more effectively respond to specific customer service requests and support needs. Should a customer contact HugeDomains for service or support, it will keep an internal record of such correspondence, whether email or telephone call, along with an internal record of support given.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.earticleblog.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
+d. **To process transactions**  \- other than specifically provided in this provision, or required by law, customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company without direct and express customer consent.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+e. **To send periodic emails** \- customer email addresses provided for order processing, will be used to send customers relevant and pertinent information and updates pertaining to their HugeDomains account and registered domain names and/or other services. These communications include, but are not limited, to: HugeDomains updates and questions or concerns regarding the customer, their account, or specific services. If a customer chooses to opt-in to a mailing list, they will receive email communications that may include company news, updates, related product or service information, as set per email preferences which is customizable from within each users' account.
 
-### Contact & Communication
+f. **Domain ownership information**  \- HugeDomains.com sells domain names, and all domain name purchases require registrant information in order to complete the purchase and facilitate the transfer of the domain name. The information provided by a customer when purchasing a domain can and will be used to transfer ownership of said domain names. The registration information provided for a domain is recorded and shared with trusted parties in order to deliver such purchases to domain buyers. If a customer does not opt-in for privacy protection, the whois information provided when buying domain names may be shared via a public record called "whois".
 
-Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
+**How HugeDomains Collects this Information**
 
-This website and its owners use any information submitted to provide you with further information about the products/services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
+HugeDomains utilizes a variety of security measures to maintain the safety of customers' personal information. All supplied financial information (including credit card data) is transmitted via Secure Socket Layer (SSL) technology and then encrypted into the company's payment gateway provider's database. This database and the sensitive information contained within are only accessible by those authorized with special access rights to such systems and are required to keep the information confidential. 
 
-### Email Newsletter
+HugeDomains uses cookies (and other technologies such as web beacons, pixels, tags, scrips) to identify you so you don't need to log in each time you visit a HugeDomains website or its mobile applications. The cookies are linked to your customer account, which is associated with the information in your account. HugeDomains uses cookies to help remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that it can offer better site experiences and tools in the future. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most modern websites, if you turn your cookies off, some of HugeDomains's services may not function properly or function at all. HugeDomains does not test its website for this and does not guarantee use of services with cookies disabled. 
 
-This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through a prior written agreement with the user.
+HugeDomains, like most companies, obtains information about its customers automatically and stores this information in its internal databases. This information may include but is not limited to: Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring entry/exit pages, operating system, date/time stamp and/or clickstream data, and other data that could directly or indirectly identify you. HugeDomains uses this information to help personalize your experience and search results, diagnose problems with its systems, to administer the services on this site, and for other corporate uses.
 
-### Adverts and Sponsored Links
+**How HugeDomains Uses this Information**
 
-This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.
+HugeDomains must first and foremost abide by local law. As a US company, HugeDomains will first abide by US laws and regulations when two laws might differ and/or conflict with one another.
 
-Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will track the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+HugeDomains securely holds on to personal data internally. Such data can be held indefinitely in order to keep accurate records that may be required under local law and regulation. 
 
-### Social Media Platforms
+HugeDomains uses customer information to communicate directly with their customers. It is important for customers to keep their email address up to date and check their email regularly for updates regarding a HugeDomains account. 
 
-Communication, engagement, and actions taken through external social media platforms that this website and its owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.
+HugeDomains may have the need to provide customer information to third parties for certain services required by HugeDomains, including but not limited to, credit card processors, technical support services, shipping of goods or services, customer relationship management, SMS delivery, Collections Agencies,  registry compliance, law enforcement, among other third parties for other similar such reasons. When a domain is purchased which is managed at a partner registrar, HugeDomains reserves the right to automatically push said domain name(s) into an account at that domain name registrar in order to provide the relevant purchased product(s) to the customer. HugeDomains will only share information that is necessary for the third party to provide the required services. This information will not be sold nor voluntarily disseminated unless reasonably needed at HugeDomains's sole discretion. 
 
-Users are advised to use social media platforms wisely and communicate/engage upon them with due care and caution in regard to their own privacy and personal details. This website nor its owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
+When a HugeDomains account is cancelled/suspended/terminated, either voluntarily or involuntarily, this does not mean that the customer's personally identifiable information has been deleted entirely from HugeDomains's systems and databases. Some or all this information may be retained by HugeDomains, including but not limited, to comply with legal obligations, resolve disputes, prevent fraud and/or enforce company agreements.  In addition, you will not be able to submit a form on this website without providing the exact information required to complete that specific action. It is forbidden and against of ICANN's rules to provide false Registrant information about any domain name registration(s). Providing false or fake information may and will result in suspension of the customer's HugeDomains account and forfeiture of any related domain name(s) registered with HugeDomains or any of its affiliate companies or domain name registrars.
 
-This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
+HugeDomains will cooperate with government, law enforcement officials and relevant private parties to enforce and comply with Unites States law and with applicable and mandatory regulations regarding the services it provides. If necessary, HugeDomains will disclose any customer information to the relevant officials or private parties when appropriate or deemed reasonably necessary. Further, if HugeDomains believes, in its sole discretion, (including without limitation to subpoenas), that the preservation of certain customer information is necessary to protect its rights or the property and/or the rights of a third party. HugeDomains may further maintain or share customer information in order to protect the safety of the public or any person, to prevent or stop activity HugeDomains considers to be illegal based on applicable laws, or to otherwise uphold the law.  By using HugeDomains's website and services, all customers expressly consent to this Privacy Policy. HugeDomains further reserves the right to modify this Policy at any time. If changes are made to this Policy, those changes will be publicly posted. HugeDomains is not required to directly notify its customers of changes made to this Policy, however, if material changes are made, HugeDomains will notify its customers by email or through a public notice on its website.
 
-**About us –**
+**To Access, Update, or Delete Your Personal Information**
 
-**we are only sharing this tweaks for information and educational purpose only. We are not promoting any hacks & fraudulent activity. **
+You have the right to correct any personal information held about you that is inaccurate or incomplete. If there is information located on HugeDomains servers you wish to correct, you will be required to login to your account and update the appropriate information. This includes account owner information, information submitted for various products and services offered through this website, including but not limited to purchased domain names and payment methods linked to your account.
 
-**Disclaimer:-**
+You have the right issue a request that HugeDomains delete your personal data. HugeDomains will review your request and delete data if possible. HugeDomains reserves the right, in its sole discretion, to retain any personal data. Personal data may be retained for several reasons, including, but not limited to: fraud mitigation; preserving or enforcing legal and/or contractual rights; data retention mandated by local law,  domain registrars processing of your data, relevant domain registries, contracts, or reasons necessary to HugeDomains's business and operate such services. If you wish to have your data erased, you can use the contact details found on the bottom of this page, please provide as many details as possible as to your request, and the company will determine if you have a valid basis for the erasure of your data. If you have questions about data retention you may contact us with your questions or concerns. You have the right to lodge a complaint with a relevant supervisory authority.
 
-  * This is a promotional SITE only, All files placed here are for introducing purpose only.
-  * Please, buy original games/ contents from author or developer site!
-  * We try to provide authentic information only. In case if you found information than let us know for correction . We are not liable legally for any information provided Here.  
+**Third Parties**
 
-  * All The Tricks,moding software and Tips are Not my site creation it is taking by some Useful internet resources.so I am not responsible any thing.
-  * If you do not agree to all the terms, please disconnect from this site now itself.
-  * By remaining at this site, you affirm your understanding and compliance of the above disclaimer and absolve this site of any responsibility henceforth-All files found on this site have been collected from various sources across the web and are believed to be in the “public domain”.
-  * All the logos and stuff are the property of their respective owners.
-  * We Provides 3rd Party Authors to Give their view on Offers By writing Here. This Views and comments are Purely author own views .
-  * **Disclaimer for post:** _This articles was prepared by the author in his personal capacity. The opinions expressed in the articles are the author’s own and do not necessarily reflect the view EarticleBlog . **Earticleblog or the author does not hold any copyright/trademark of the logo and brand name used in the stories.**_
+HugeDomains.com may share your personal information with affiliated companies within its corporate family and other third-parties that integrate with HugeDomains services, and to provide products and services, including but not limited to: Customer Relationship Management; processing payments; fraud prevention; management of domain names; and serving advertisements. Many of these third parties are affiliate companies, and work in conjunction with HugeDomains to provide customers the products and services provided by HugeDomains to HugeDomains's customers.
 
-  * Earticle does Not take any Guarantee of their views and authenticity from where they make such view.-If you are the rightful owner of any contents posted here, and object to them being displayed or If you are one of representatives of copy rights department and you don’t like our conditions of store, Please Contact Us with Proper legal data’s.We will remove it in 24 hour!
+Targeted ads may be provided to HugeDomains customers based upon their webpages and Internet activity. These ads and offers may be displayed as product banners provided while you are engaged in Internet browsing or using HugeDomains.com and its services. In some instances, HugeDomains partners with third parties to manage advertising, including targeted advertising on HugeDomains webpages and other websites. These third-party partners may use certain data collection tools such as cookies in order to collect information about customer activities to provide customers with customized advertisements. When possible, such providers will give ways to opt-out of any such advertisements.
 
+HugeDomains's website may contain links to third party websites. HugeDomains is not responsible for the privacy policy and data collection of third-party sites. You are solely responsible for reviewing any third-party privacy practices on all such websites.
 
+Some Internet browsers may allow users to receive notifications when a website is utilizing tracking technology and may allow that user to use a "do not track" signal. There is no industry standard or agreement among industry participates as to what this "do not track" signal entails. As there is not set definition or regulation regarding this process, HugeDomains does not make any adjustments or alternations in its operating processes when a "do not track" signal is received from an Internet browser.
 
-DMCA Policy Listed Here check Out : [DMCA](https://www.earticleblog.com/dmca)
+**Corporate Reorganization**
+
+If HugeDomains were to merge with another company or if HugeDomains is involved in an acquisition or sale of all a substantial portion of assets, or other similar sale transaction, your information will be transferred as part of that transaction and you will be notified by email and/or notice on HugeDomains website of any such transfer and any choices you may have regarding your information.
+
+**Contact Information**
+
+If you have any other questions about this Privacy Policy, the practices of HugeDomains you may use the contact us form on this web site to request additional information, or you can reach us  by phone at +1 (303) 893-0552 or by email at sales@hugedomains.com 
+
+\---
+
+Last Revised: July 05, 2018
+
+Copyright 2005-2019 HugeDomains.com. All Rights Reserved.
