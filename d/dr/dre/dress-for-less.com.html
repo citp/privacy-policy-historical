@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dress-for-less.com privacy policy that was archived on 2019-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190618082724id_/https%3A//www.dress-for-less.com/help%23Privacy%2520policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dress-for-less.com privacy policy that was archived on 2019-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191231150422id_/https%3A//www.dress-for-less.com/help%23Privacy%2520policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="staticContent servicePage" lang="en" xml:lang="en"><head>
 	<!-- BEGIN AlternateTags.jsp -->
@@ -24,10 +24,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <!-- END DFLGlobalMeta.jspf --><!-- BEGIN DFLGlobalCSS -->
-<link rel="stylesheet" href="https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/6d06b44/css/generated/main.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/9dd444e/css/generated/main.css" type="text/css" media="all">
 
 <!--[IF lt IE 9]>
-	<link rel="stylesheet" href="https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/6d06b44/css/generated/DFL/ie_lte_8.css" type="text/css" />
+	<link rel="stylesheet" href="https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/9dd444e/css/generated/DFL/ie_lte_8.css" type="text/css" />
 <![ENDIF]-->
 <!-- END DFLGlobalCSS --><!-- BEGIN CommonJSToInclude.jspf -->
 
@@ -188,7 +188,7 @@ function getStyleDirectoryPath() {
 
 
 
-<script type="text/javascript" src="https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/6d06b44/javascript/generated/head.js"></script>
+<script type="text/javascript" src="https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/9dd444e/javascript/generated/head.js"></script>
 <!--[IF lt IE 9]>
 <script type="text/javascript">
 	location.href = "/common/error_browser.html";
@@ -288,48 +288,30 @@ function getStyleDirectoryPath() {
 		<script type="text/javascript">
 			var ScarabQueue = ScarabQueue || [];
 			(function(id) {
-			  if (document.getElementById(id)) return;
-			  var js = document.createElement('script'); js.id = id;
-			  js.src = '//cdn.scarabresearch.com/js/187D9ED925A058D6/scarab-v2.js';
-			  var fs = document.getElementsByTagName('script')[0];
-			  fs.parentNode.insertBefore(js, fs);
+				if (document.getElementById(id)) return;
+				var js = document.createElement('script'); js.id = id;
+				js.src = '//cdn.scarabresearch.com/js/187D9ED925A058D6/scarab-v2.js';
+				var fs = document.getElementsByTagName('script')[0];
+				fs.parentNode.insertBefore(js, fs);
 			})('scarab-js-api');
 		</script>
-
-
+		
 		
 		<script type="text/javascript">
 			
-			var login = getCookie('X_softLoginEmail');
-			if ( login != null && login != '' ) {
-				ScarabQueue.push(['setEmail', login]);
-			}
-
-			
-			ScarabQueue.push(['language', '']);
-
-			
-			ScarabQueue.push(['availabilityZone', '']);
-
-			
-			ScarabQueue.push(['displayCurrency', '']);
 		</script>
 	<!-- END EmarsysApi.jspf --><!-- END CommonJSToInclude.jspf --><!-- START TrackingInit_Header.jspf -->
 <script type="text/javascript">
-<!--
 	require([
 			'dfl/Tracking'
 		], function ( DFLTrackingJS ) {
-
 		DFLTrackingJS.init('gtm', { 
 			'id': 'GTM-NBMRVG', 
 			'auth': '', 
 			'preview': '',
 			'cookie_wins': ''
 		});
-
 	});
-//-->
 </script>
 
 <!-- END TrackingInit_Header.jspf --><!-- END DFLGlobalHeader -->
@@ -346,8 +328,8 @@ function getStyleDirectoryPath() {
 	<meta name="pageIdentifier" content="HelpPage">
 	<meta name="pageId" content="1001">
 	<meta name="pageGroup" content="Content">
-	<link rel="stylesheet" href="https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/6d06b44/css/generated/servicePage.css" type="text/css">
-<script type="text/javascript" src="https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/6d06b44/javascript/StoreInfoArea/ServicePage.js"></script>
+	<link rel="stylesheet" href="https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/9dd444e/css/generated/servicePage.css" type="text/css">
+<script type="text/javascript" src="https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/9dd444e/javascript/StoreInfoArea/ServicePage.js"></script>
 
 </head>
 
@@ -415,37 +397,44 @@ function getStyleDirectoryPath() {
 		<div id="page">
 			<div id="headerWrapper">
 				<!-- BEGIN /DFLStorefrontAssetStore/Widgets/Header/DynamicHeader.jsp --><!-- BEGIN Tracking_SessionData.jspf --><!-- END /DFLStorefrontAssetStore/Widgets/Header/DynamicHeader.jsp --><!-- no catalog page -->
+
 <script tyle="text/javascript">
 	var url=window.location.href;
 	var hostname = window.location.hostname;
 	var pTitle = document.title;
 	var emailHash = "";
 	var email = "";
-	if( email )  {
+	if( email ) {
 		emailHash = CryptoJS.MD5(email).toString();
 	}
 
+	
+			var newsletterSubscriber = getCookie('DOI');
+			if (newsletterSubscriber == undefined){
+				newsletterSubscriber = 'nein'
+			}
+		
+			var genderCookie = getCookie('gender');
+			var genderTracking = genderCookie ? genderCookie : '';
+		
 
 	require (["dfl/Tracking"], function ( DFLTrackingJS ) {
-
-
-	    DFLTrackingJS.setCurrencyCode ( '' );
-
-
+		DFLTrackingJS.setCurrencyCode ( '' );
 		DFLTrackingJS.addPageData ( {
-  
+		
+			'gender': genderTracking,
 			'isLoggedIn': 'false',
 			'country': 'ROW',
-			'newsletterSubscriber': 'unknown',
+			'newsletterSubscriber': newsletterSubscriber,
 			'breakpoint': DFLTrackingJS.getBreakpoint(),
 			'order_currency': '',
-			'order_products_number': '',
-			'order_amount_net_EUR': '',
-			'order_subtotal_EUR': '',
+			'order_products_number': '0',
+			'order_amount_net_EUR': '0',
+			'order_subtotal_EUR': '0',
 			'productviewTest': '',
-			'pageCategory': 'home',
-			'pageSubCategory': 'na',
-			'emosUrl': 'https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/6d06b44/javascript/thirdParty/trackers/emos3.js',
+			'pageCategory': 'other',
+			'pageSubCategory': '',
+			'emosUrl': 'https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/9dd444e/javascript/thirdParty/trackers/emos3.js',
 			'pageTitle': pTitle,
 			'siteId': '10162'
 		});
@@ -498,7 +487,7 @@ function getStyleDirectoryPath() {
 	};
 </script>
 
-<script src="https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/6d06b44/javascript/Widgets/header.js"></script>
+<script src="https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/9dd444e/javascript/Widgets/header.js"></script>
 
 
 
@@ -537,14 +526,14 @@ function getStyleDirectoryPath() {
 				&nbsp;
 			</div>
 			<div class="col4 acol6 logo" id="logo">
-				<a href="https://www.dress-for-less.com"><img title="dress-for-less" alt="dress-for-less" src="https://media.dress-for-less.com/wcsstatic/01_Startseite/Special_Promo/logo_en.png"></a>
+				<a href="https://www.dress-for-less.com"><img title="dress-for-less" alt="dress-for-less" src="https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/images/logo.svg"></a>
 			</div>
 			<div class="col4 acol12">
 				<div class="userMenu">
 					
 						<div class="loginLink">
 							<!-- BEGIN GlobalLoginDFL.jsp --><!-- BEGIN GlobalLogin_DataDFL.jspf --><!-- END GlobalLogin_DataDFL.jspf --><!-- BEGIN GlobalLoginSignInDFL_UI.jspf -->
-	<a aria-label="Sign in" href="javascript: GlobalLoginJS.displayPanel('Header_GlobalLoginDFL');" class="GlobalLogin panelLink login" id="Header_GlobalLoginDFL_signInQuickLink" tabindex="0">Sign in</a>
+	<a aria-label="Sign in" href="javascript: GlobalLoginJS.displayPanel('Header_GlobalLoginDFL', 'MiniShopCartProductAdded');" class="GlobalLogin panelLink login" id="Header_GlobalLoginDFL_signInQuickLink" tabindex="0">Sign in</a>
 <!-- END GlobalLoginSignInDFL_UI.jspf --><!-- END GlobalLoginDFL.jsp -->
 						</div>
 						
@@ -620,45 +609,45 @@ function getStyleDirectoryPath() {
 <div id="MiniShoppingCart" dojotype="wc.widget.RefreshArea" widgetid="MiniShoppingCart" controllerid="MiniShoppingCartController" ariamessage="Shopping cart display updated" arialiveid="ariaMessage" role="region" aria-labelledby="MiniShoppingCart_Label">
 	<!-- BEGIN MiniShopCartDisplay_Data.jsp --><!-- BEGIN MinCartESpot.jsp --><!-- END MinCartESpot.jsp --><!-- END MiniShopCartDisplay_Data.jsp --><!-- BEGIN MiniShopCartDisplay_UI.jsp -->
 
-        <a id="widget_minishopcart" href="https://www.dress-for-less.com/AjaxOrderItemDisplayViewDFL?updatePrices=1&amp;doConfigurationValidation=Y&amp;catalogId=10051&amp;langId=-1&amp;URL=https%3A%2F%2Fwww.dress-for-less.com%2FAjaxOrderItemDisplayViewDFL%3FcatalogId%3D10051%26langId%3D-1%26storeId%3D10162&amp;storeId=10162" role="button" aria-label="Shopping cart">
-            <span id="minishopcart_subtotal">0.00&nbsp;€</span>
-            
-            <span class="basket_icon_v1">
-              <span id="minishopcart_total"></span>
-            </span>
-        </a>
+		<a id="widget_minishopcart" href="https://www.dress-for-less.com/AjaxOrderItemDisplayViewDFL?updatePrices=1&amp;doConfigurationValidation=Y&amp;catalogId=10051&amp;langId=-1&amp;URL=https%3A%2F%2Fwww.dress-for-less.com%2FAjaxOrderItemDisplayViewDFL%3FcatalogId%3D10051%26langId%3D-1%26storeId%3D10162&amp;storeId=10162" role="button" aria-label="Shopping cart">
+			<span id="minishopcart_subtotal">0.00&nbsp;€</span>
+			
+			<span class="basket_icon_v1">
+				<span id="minishopcart_total"></span>
+			</span>
+		</a>
 
-        <div id="placeHolder"></div>
-        <div id="MiniShopCartProductAdded">
-            <div id="MiniShopCartProductAddedWrapper" style="display:none;" aria-labelledby="cartDropdownMessage">
-                <!-- part of MiniShopCartDisplay_UI.jsp -->
-                <div id="widget_minishopcart_popup_1">
-                    <div id="cartDropdown">
-                        
-                        <div id="cartDropdownMessage" class="notification-panel ok head-h3"><span class="ti-check"></span><span class="message font-xs">This item has been successfully added:</span>
-                            <a id="MiniShopCartCloseButton_2" href="javascript:dijit.byId('MiniShopCartProductAdded').hide();" class="ti-close right">&nbsp;</a>
-                        </div>
-                        
-                        <div class="content">
-                            <div class="products added">
-                                
-                            </div>
-                        </div>
-                        <div class="footer" style="overflow: hidden;">
-                            <div>
-                                <a href="https://www.dress-for-less.com/AjaxOrderItemDisplayViewDFL?updatePrices=1&amp;doConfigurationValidation=Y&amp;catalogId=10051&amp;langId=-1&amp;URL=https%3A%2F%2Fwww.dress-for-less.com%2FAjaxOrderItemDisplayViewDFL%3FcatalogId%3D10051%26langId%3D-1%26storeId%3D10162&amp;storeId=10162" class="button_secondary wide margin">
-                                    <span>View shopping cart</span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+		<div id="placeHolder"></div>
+		<div id="MiniShopCartProductAdded">
+			<div id="MiniShopCartProductAddedWrapper" style="display:none;" aria-labelledby="cartDropdownMessage">
+				<!-- part of MiniShopCartDisplay_UI.jsp -->
+				<div id="widget_minishopcart_popup_1">
+					<div id="cartDropdown">
+						
+						<div id="cartDropdownMessage" class="notification-panel ok head-h3"><span class="ti-check"></span><span class="message font-xs">This item has been successfully added:</span>
+							<a id="MiniShopCartCloseButton_2" href="javascript:dijit.byId('MiniShopCartProductAdded').hide();" class="ti-close right">&nbsp;</a>
+						</div>
+						
+						<div class="content">
+							<div class="products added">
+								
+							</div>
+						</div>
+						<div class="footer" style="overflow: hidden;">
+							<div>
+								<a href="https://www.dress-for-less.com/AjaxOrderItemDisplayViewDFL?updatePrices=1&amp;doConfigurationValidation=Y&amp;catalogId=10051&amp;langId=-1&amp;URL=https%3A%2F%2Fwww.dress-for-less.com%2FAjaxOrderItemDisplayViewDFL%3FcatalogId%3D10051%26langId%3D-1%26storeId%3D10162&amp;storeId=10162" class="button_secondary wide margin">
+									<span>View shopping cart</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 
-            
-        </div>
+			
+		</div>
 
-        <!-- END MiniShopCartDisplay_UI.jsp -->
+		<!-- END MiniShopCartDisplay_UI.jsp -->
 </div>
 
 <div id="MiniShopCartContents" dojotype="wc.widget.RefreshArea" widgetid="MiniShopCartContents" controllerid="MiniShopCartContentsController" aria-labelledby="MiniShoppingCart_Label">
@@ -756,14 +745,6 @@ function getStyleDirectoryPath() {
 										
 										<li>
 											
-											<a id="categoryLink_15503_15513_15727" href="https://www.dress-for-less.com/women-clothing-swimwear" class="menuLink " role="menuitem" tabindex="-1">
-												Swimwear
-											</a>
-										</li>
-									
-										
-										<li>
-											
 											<a id="categoryLink_15503_15513_15733" href="https://www.dress-for-less.com/women-clothing-blouses" class="menuLink " role="menuitem" tabindex="-1">
 												Blouses
 											</a>
@@ -806,6 +787,14 @@ function getStyleDirectoryPath() {
 											
 											<a id="categoryLink_15503_15513_15752" href="https://www.dress-for-less.com/women-clothing-coats" class="menuLink " role="menuitem" tabindex="-1">
 												Coats
+											</a>
+										</li>
+									
+										
+										<li>
+											
+											<a id="categoryLink_15503_15513_15778" href="https://www.dress-for-less.com/women-clothing-sport" class="menuLink " role="menuitem" tabindex="-1">
+												Sport
 											</a>
 										</li>
 									
@@ -864,14 +853,6 @@ function getStyleDirectoryPath() {
 										
 										<li>
 											
-											<a id="categoryLink_15501_15508_15624" href="https://www.dress-for-less.com/men-clothing-swimwear" class="menuLink " role="menuitem" tabindex="-1">
-												Swimwear
-											</a>
-										</li>
-									
-										
-										<li>
-											
 											<a id="categoryLink_15501_15508_15637" href="https://www.dress-for-less.com/men-clothing-shirts" class="menuLink " role="menuitem" tabindex="-1">
 												Shirts
 											</a>
@@ -898,6 +879,14 @@ function getStyleDirectoryPath() {
 											
 											<a id="categoryLink_15501_15508_15643" href="https://www.dress-for-less.com/men-clothing-jeans" class="menuLink " role="menuitem" tabindex="-1">
 												Jeans
+											</a>
+										</li>
+									
+										
+										<li>
+											
+											<a id="categoryLink_15501_15508_15652" href="https://www.dress-for-less.com/men-clothing-coats" class="menuLink " role="menuitem" tabindex="-1">
+												Coats
 											</a>
 										</li>
 									
@@ -985,14 +974,6 @@ function getStyleDirectoryPath() {
 										
 										<li>
 											
-											<a id="categoryLink_15503_15510_15714" href="https://www.dress-for-less.com/women-shoes-espandrilles" class="menuLink " role="menuitem" tabindex="-1">
-												Espadrilles
-											</a>
-										</li>
-									
-										
-										<li>
-											
 											<a id="categoryLink_15503_15510_15715" href="https://www.dress-for-less.com/women-shoes-loafers-more" class="menuLink " role="menuitem" tabindex="-1">
 												Loafers &amp; More
 											</a>
@@ -1017,14 +998,6 @@ function getStyleDirectoryPath() {
 										
 										<li>
 											
-											<a id="categoryLink_15503_15510_15709" href="https://www.dress-for-less.com/women-shoes-sandals-thong-sandals" class="menuLink " role="menuitem" tabindex="-1">
-												Sandals/ Thong Sandals
-											</a>
-										</li>
-									
-										
-										<li>
-											
 											<a id="categoryLink_15503_15510_15713" href="https://www.dress-for-less.com/women-shoes-laced-shoes" class="menuLink " role="menuitem" tabindex="-1">
 												Laced Shoes
 											</a>
@@ -1033,8 +1006,24 @@ function getStyleDirectoryPath() {
 										
 										<li>
 											
+											<a id="categoryLink_15503_15510_15725" href="https://www.dress-for-less.com/women-shoes-shoe-accessories" class="menuLink " role="menuitem" tabindex="-1">
+												Shoe Accessories
+											</a>
+										</li>
+									
+										
+										<li>
+											
 											<a id="categoryLink_15503_15510_15721" href="https://www.dress-for-less.com/women-shoes-sneakers" class="menuLink " role="menuitem" tabindex="-1">
 												Sneakers
+											</a>
+										</li>
+									
+										
+										<li>
+											
+											<a id="categoryLink_15503_15510_15723" href="https://www.dress-for-less.com/women-shoes-sports-shoes" class="menuLink " role="menuitem" tabindex="-1">
+												Sports Shoes
 											</a>
 										</li>
 									
@@ -1324,14 +1313,6 @@ function getStyleDirectoryPath() {
 											
 											<a id="categoryLink_15501_15504_15528" href="https://www.dress-for-less.com/men-accessories-scarves-more" class="menuLink " role="menuitem" tabindex="-1">
 												Scarves &amp; More
-											</a>
-										</li>
-									
-										
-										<li>
-											
-											<a id="categoryLink_15501_15504_15532" href="https://www.dress-for-less.com/men-accessories-sunglasses" class="menuLink " role="menuitem" tabindex="-1">
-												Sunglasses
 											</a>
 										</li>
 									
@@ -1727,9 +1708,8 @@ var staticContentHeaders = [];
 	<div id="headerPromo" class="row headerPromo">
 		<div class="promoWrp slot1">
 			<p>
-<span style="color: #e6372d; text-decoration: none;">
-Sign up for the newsletter now and get your <strong>10% voucher</strong>!
-</span>
+<a href="/en/newsletter-anmeldung" style="color: #e6372d; text-decoration: none;">Sign up for the newsletter now and get your <strong>10% voucher</strong>!
+</a>
 </p>
 
 		</div>
@@ -2104,7 +2084,7 @@ online by clicking <a href="http://www.mastercard.com/uk/personal/en/cardholders
             +10,99 € Express surcharge<br>
             <strong class="border-top">16,98 €&nbsp;</strong>
         </div>
-        <div class="col2">Next day delivery<br>for orders placed<br>befor 17 CET Mo-Fr</div>
+        <div class="col2">Next day delivery<br>for orders placed<br>befor 17:00 CET Mo-Fr</div>
     </div>
     <!-- ###################################################################### -->
     <!-- Mindestbestellwert -->
@@ -4144,7 +4124,7 @@ online by clicking <a href="http://www.mastercard.com/uk/personal/en/cardholders
                 <div class="col4 acol6"><strong>Delivery time</strong></div>
             </div>
             <div class="row col12 bgcolor">
-                <div class="col8 acol6"><strong>7,99 €</strong></div>
+                <div class="col8 acol6"><strong>19,99 €</strong></div>
                 <div class="col4 acol6">approx. 2-3 Working days</div>
             </div>
         </div>
@@ -4500,12 +4480,8 @@ online by clicking <a href="http://www.mastercard.com/uk/personal/en/cardholders
 			</tr>
 			<tr>
 				<td class="serviceInfoTableData">Managing Director</td>
-				<td class="serviceInfoTableData">Sandra Rehm (Vorsitzende), Wolfram Keil</td>
+				<td class="serviceInfoTableData">Jörg Hensen</td>
             </tr>
-            <tr>
-                <td class="serviceInfoTableData">Chairman of the Advisory Board</td>
-                <td class="serviceInfoTableData">Mirco R. Schultis</td>
-			</tr>
 		</tbody>
 	</table>
 </div>
@@ -4741,7 +4717,37 @@ online by clicking <a href="http://www.mastercard.com/uk/personal/en/cardholders
 	is not possible, the item in question will also be considered
 	cancelled.</p>
 	
-<h4>§9 Exchange</h4>
+<h4>§9 Return guidelines</h4>
+
+<p>Please make sure that all items are returned new, unused and with all designer labels attached. Returns that are damaged or soiled will not be accepted and will be returned to the customer without a refund.</p>
+<p>Belts and inserts of the designer (e.g. proof of authenticity, dust bags and leather tags) should be returned if supplied.</p>
+
+<h4>Shoes</h4>
+<p>All shoes should be tried on on carpet before wearing.</p>
+
+<h4>Beauty</h4>
+<p>Skin care products, cosmetics and hair care products must be returned unused, unopened and in their original packaging, otherwise they will not be accepted. Please note that fragrances, nail varnishes and spray cans cannot be exchanged due to transport restrictions.</p>
+
+<h4>Underwear and Swimwear</h4>
+<p>Panties, swimsuits and bikini briefs must be tried on over the underwear without removing the protective strip. Returns without protective strips or soiled items will not be accepted and returned to the customer.</p>
+
+<h4>Technical products</h4>
+<p>Technical products must be returned in their original packaging.</p>
+
+<h4>Defective goods</h4>
+<p>Articles shall be considered defective if they are of inadequate quality, unsuitable for use or do not correspond to their description. Items damaged by normal use (wear), accidents or misuse are not considered to be defective.</p>
+<p>If you receive a defective item, you may return it to us within 30 days of receipt. If the item has been in your possession for more than six months, for example, please contact Customer Service.</p>
+
+<h4>Colours</h4>
+<p>We make every effort to reproduce the colours of the products presented on our website as faithfully as possible. However, due to the variety of monitor technologies and settings available, we cannot guarantee that your computer's monitor will display all colors 100% accurately.</p>
+
+<h4>Repeated returns</h4>
+<p>We try to make our return policy as flexible as possible to make shopping easier for you. However, we reserve the right to record the number of returns from our customers and may decline orders for a variety of returns in the future or close your dress-for-less account.</p>
+
+<h4>Return &amp; Exchange with our Free Collection Service</h4>
+<p>Please note that we do not accept returned items that were not purchased from dress-for-less. This includes personal items as well as items purchased from third parties. These returned items will be temporarily stored by us at your own risk. It is your sole responsibility to contact us regarding any return of such items. We reserve the right to charge you an additional fee for the return. Please note that we can only send these items to your address and not to a third party. Please also note that we cannot guarantee that these items will be kept for a longer period of time. We reserve the right to dispose of these items at any time.</p>
+
+<h4>§10 Exchange</h4>
 <ol>
 	<li>The exchange of an item for a different item is not
 		possible. You can only exchange an item for the same item in a
@@ -4755,27 +4761,27 @@ online by clicking <a href="http://www.mastercard.com/uk/personal/en/cardholders
 		order.</li>
 </ol>
 
-<h4>§10 Warranty</h4>
+<h4>§11 Warranty</h4>
 <p>The period of limitation for any warranty claims shall be 2
 	years. During this period, you are entitled to the statutory
 	warranty claims.</p>
 
-<h4>§11 Reservation of title</h4>
+<h4>§12 Reservation of title</h4>
 <p>The goods remain the property of dress-for-less GmbH until
 	full payment has been received.</p>
 
-<h4>§12 Data protection</h4>
+<h4>§13 Data protection</h4>
 <p>
 	For more information about data protection, please view our <a onclick="ServicePageJS.showSubcategory('Datenschutz',true)" href="#Datenschutz" class="external-link">data protection
 		declaration</a>.
 </p>
 
-<h4>§13 Offsetting and retention</h4>
+<h4>§14 Offsetting and retention</h4>
 <p>The offset or the execution of a right of retention is only
 	permissible if the counterclaim has been legally established as
 	final and absolute or is acknowledged by us in written form.</p>
 	
-<h4>§14 Choice of law and jurisdiction</h4>
+<h4>§15 Choice of law and jurisdiction</h4>
 <ol>
 	<li>German law is applicable with the exception of the UN
 		Convention on Contracts for the International Sale of Goods (CISG).</li>
@@ -5030,7 +5036,7 @@ online by clicking <a href="http://www.mastercard.com/uk/personal/en/cardholders
 <p>For further information, please visit <a href="http://www.econda.de/" target="_blank" rel="nofollow">http://www.econda.de/</a>.</p>
 
 <h4>5. Emarsys Webextend</h4>
-<p>We use the cookie/pixel tag Webextend of Emarsys eMarketing Systems AG Hans-Fischer-Straße 10, 80339 Munich to produce newsletters tailored to your interests. To do this, we use available information, such as receipt and read confirmations from emails, information about computers and internet connections, operating system and platform, your internet history, date and time of the visit to the homepage, or products/items you have looked at. In principle, we use this information in a pseudonymised form, but also to send you newsletters related to your areas of interest, if required.</p>
+<p>We use the cookie/pixel tag Webextend of Emarsys eMarketing Systems AG Hans-Fischer-Straße 10, 80339 Munich to produce newsletters tailored to your interests. To do this, we use available information, such as receipt and read confirmations from emails, information about computers and internet connections, operating system and platform, your internet history, your order history, date and time of the visit to the homepage, or products/items you have looked at. In principle, we use this information in a pseudonymised form, but also to send you newsletters related to your areas of interest, if required.</p>
 <p>You can opt out of data processing by Emarsys Webextend by clicking <a href="https://www.scarabresearch.com/privacy/" target="_blank" rel="nofollow">here</a>. By clicking on the box under figure 6 (opt-out), an opt-out cookie is placed with the effect that in future no data about your usage behaviour on our website is collected and stored by Emarsys. The opt-out cookie is only valid in this browser and only for our website, and is placed on your device. If you delete the cookies in this browser, you will need to place the opt-out cookie again.</p>
 
 <h4>6. Facebook Custom Audiences</h4>
@@ -5167,12 +5173,8 @@ online by clicking <a href="http://www.mastercard.com/uk/personal/en/cardholders
 			</tr>
 			<tr>
 				<td class="serviceInfoTableData">Directors</td>
-				<td class="serviceInfoTableData">Sandra Rehm (Vorsitzende), Wolfram Keil</td>
+				<td class="serviceInfoTableData">Jörg Hensen</td>
             </tr>
-            <tr>
-                <td class="serviceInfoTableData">Chairman of the Advisory Board</td>
-                <td class="serviceInfoTableData">Mirco R. Schultis</td>
-			</tr>
 		</tbody>
 	</table>
 </div>
@@ -5548,6 +5550,7 @@ online by clicking <a href="http://www.mastercard.com/uk/personal/en/cardholders
 					<li><a id="footerDeliveryLink" href="https://www.dress-for-less.com/help#Delivery" onclick="if (dojo.byId('Delivery') != null) { ServicePageJS.showSubcategory('Delivery'); }">Delivery</a></li>
 					<li><a id="footerReturnPolicyLink" href="https://www.dress-for-less.com/help#Returns" onclick="if (dojo.byId('Returns') != null) { ServicePageJS.showSubcategory('Returns'); }">Returns</a></li>
 					<li><a id="footerNewsletterLink" href="https://www.dress-for-less.com/newsletter-sign-up">Newsletter</a></li>
+					
 				</ul>
 			</div>
 
@@ -5645,19 +5648,15 @@ online by clicking <a href="http://www.mastercard.com/uk/personal/en/cardholders
 			</div>
 			<div class="section col5 acol12 hideOnMobile">
 				Customer service: 
-	      <span class="contact_tel" id="microdata_org_phone" itemprop="telephone">+49 6142 835 4401</span>
-	    </div>
+			<span class="contact_tel" id="microdata_org_phone" itemprop="telephone">+49 6142 835 4401</span>
+		</div>
 			<div class="section col4 acol12">
 				<div class="right copyright">Copyright @dress-for-less GmbH 1999-2019</div>
 			</div>
 		</div>
 	</div>
 
-	<!-- BEGIN EmarsysApi.jspf -->
-		<script type="text/javascript">
-			ScarabQueue.push(['go']);
-		</script>
-	<!-- END EmarsysApi.jspf -->
+	
 
 </div>
 <!-- BEGIN Common\PageExt.jspf -->
@@ -5674,108 +5673,125 @@ online by clicking <a href="http://www.mastercard.com/uk/personal/en/cardholders
 		});
 	});
 </script>
-<!-- END Common\PageExt.jspf --><!-- BEGIN /DFLStorefrontAssetStore/Widgets/Footer/DynamicFooter.jsp -->
+<!-- END Common\PageExt.jspf --><!-- BEGIN /DFLStorefrontAssetStore/Widgets/Footer/DynamicFooter.jsp --><script type="text/javascript">
+	
+</script><!-- BEGIN EmarsysCart.jspf -->
+<script type="x-application/json" class="cartTrackingData">
+	{
+		"orderItems": [
+			
+		]
+	}
+</script>
+
+<!-- END EmarsysCart.jspf -->
 
 <script>
-    function push_layer() {
         require(['dfl/Tracking'], function ( DFLTrackingJS ) {
             DFLTrackingJS.trackCartProducts ( {
-                'ecommerce': {
-                    'currencyCode': '',
+                    'currencyCode': 'EUR',
                     'impressions': [],
-                    'amount': ''
-                    }
+			'amount': ''
                 });
             });
-    }
 </script>
-<!-- END globalCartTracking --><!-- END /DFLStorefrontAssetStore/Widgets/Footer/DynamicFooter.jsp -->
+<!-- END globalCartTracking --><!-- END /DFLStorefrontAssetStore/Widgets/Footer/DynamicFooter.jsp --><!-- BEGIN EmarsysApi.jspf -->
+		<script type="text/javascript">
+			require(["dojo/query"], function(query){
+				if (query('.cartTrackingData').length > 0){
+					var orderItems = JSON.parse(query('.cartTrackingData')[0].innerHTML).orderItems;
+					ScarabQueue.push(['cart', orderItems]);
+				}
+			});
+			ScarabQueue.push(['go']);
+		</script>
+	<!-- END EmarsysApi.jspf -->
 
 <script type="text/javascript">
 	
-	 var dfl_wcs_pb$ = (function(){
-	    var returnObject = {};
-	    var storeData = function(){
-	        var _storeDataVariables = {};
-	        var storeDataFunctions = {
-	            
-	            setData: function(props){
-	                if(typeof props != "undefined" && typeof props == "object"){
-	                    for(var key in props){
-	                        storeDataFunctions.set(key, props[key]);
-	                    }
-	                }
-	            },
-	            
-	            set: function(name, value){
-	                _storeDataVariables[name] = value;
-	                var functionName = "get"+name.charAt(0).toUpperCase() + name.slice(1);
-	                
-	                returnObject[functionName] = function(){
-	                    return _storeDataVariables[name];
-	                }
-	                
-	                storeDataFunctions[functionName] = function(){
-	                    return _storeDataVariables[name];
-	                }
-	            },
-	            
-	            get:function(name){
-	                return _storeDataVariables[name];
-	            },
-	            
-	            append:function(name, column, value){
-	                if(typeof _storeDataVariables[name] == "undefined"){
-	                    _storeDataVariables[name] = {};
-	                }
-	                _storeDataVariables[name][column] = value;
-	            }, 
-	            
-	            debug:function(){
-	                var result = {};
-	                for(var key in _storeDataVariables){
-	                    result[key] = storeDataFunctions.get(key);
-	                }
-	                return result;
-	            }
-	        };
-	        return storeDataFunctions;
-	    }
-	    
-	       var _providedEvent = [];
-	       var _eventMap = {}
-	       var importFunctions = {
-	               require: function(name, func){
-	                   if(_providedEvent.indexOf(name) > -1){
-	                       func.call();
-	                   }
-	                   if(typeof _eventMap[name] == "undefined"){
-	                       _eventMap[name] = [];
-	                   }
-	                   _eventMap[name].push(func);
-	               },
-	               provide: function(name){
-	                   _providedEvent.push(name);
-	                   if(typeof _eventMap[name] != "undefined"){
-	                       for(var i = 0; i < _eventMap[name].length; i++) {
-	                           _eventMap[name][i].call();
-	                       }
-	                   }
-	               }
-	       }
-	    
-	    returnObject.storeData = new storeData();
-	    returnObject.eventBus = {};
-	    returnObject.require = importFunctions.require;
-	    returnObject.provide = importFunctions.provide;
-	    
-	    return returnObject;
+	var dfl_wcs_pb$ = (function(){
+		var returnObject = {};
+		var storeData = function(){
+			var _storeDataVariables = {};
+			var storeDataFunctions = {
+				
+				setData: function(props){
+					if(typeof props != "undefined" && typeof props == "object"){
+						for(var key in props){
+							storeDataFunctions.set(key, props[key]);
+						}
+					}
+				},
+				
+				set: function(name, value){
+					_storeDataVariables[name] = value;
+					var functionName = "get"+name.charAt(0).toUpperCase() + name.slice(1);
+					
+					returnObject[functionName] = function(){
+						return _storeDataVariables[name];
+					}
+					
+					storeDataFunctions[functionName] = function(){
+						return _storeDataVariables[name];
+					}
+				},
+				
+				get:function(name){
+					return _storeDataVariables[name];
+				},
+				
+				append:function(name, column, value){
+					if(typeof _storeDataVariables[name] == "undefined"){
+						_storeDataVariables[name] = {};
+					}
+					_storeDataVariables[name][column] = value;
+				}, 
+				
+				debug:function(){
+					var result = {};
+					for(var key in _storeDataVariables){
+						result[key] = storeDataFunctions.get(key);
+					}
+					return result;
+				}
+			};
+			return storeDataFunctions;
+		}
+		
+		   var _providedEvent = [];
+		   var _eventMap = {}
+		   var importFunctions = {
+				   require: function(name, func){
+					   if(_providedEvent.indexOf(name) > -1){
+						   func.call();
+					   }
+					   if(typeof _eventMap[name] == "undefined"){
+						   _eventMap[name] = [];
+					   }
+					   _eventMap[name].push(func);
+				   },
+				   provide: function(name){
+					   _providedEvent.push(name);
+					   if(typeof _eventMap[name] != "undefined"){
+						   for(var i = 0; i < _eventMap[name].length; i++) {
+							   _eventMap[name][i].call();
+						   }
+					   }
+				   }
+		   }
+		
+		returnObject.storeData = new storeData();
+		returnObject.eventBus = {};
+		returnObject.require = importFunctions.require;
+		returnObject.provide = importFunctions.provide;
+		
+		return returnObject;
 	
 	})();
 	
 	dfl_wcs_pb$.storeData.setData({
-	        jsDir:"",
-	        environment:""
+		jsDir:"",
+		environment:""
 	});
 	
 	
@@ -5796,7 +5812,7 @@ online by clicking <a href="http://www.mastercard.com/uk/personal/en/cardholders
 		</div>
 
 	<!-- BEGIN JSPFExtToInclude.jspf -->
-<script type="text/javascript" src="https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/6d06b44/javascript/generated/main.js"></script>
+<script type="text/javascript" src="https://media.dress-for-less.com/wcsstore/DFLStorefrontAssetStore/9dd444e/javascript/generated/main.js"></script>
 <!-- BEGIN TrustedShopsBadge.jspf -->
 <div id="DFLTrustbadge"></div>
 <script type="text/javascript">
