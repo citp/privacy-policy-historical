@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datawrapper.de privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503164711id_/https%3A//www.datawrapper.de/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datawrapper.de privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231050439id_/https%3A//www.datawrapper.de/privacy) for the most accurate reproduction.*
 
 # Privacy | Create charts and maps with Datawrapper
 
@@ -11,8 +11,7 @@ Since we founded Datawrapper we aimed to minimize the need for data collection. 
 This website and it services are operated by:
 
 Datawrapper GmbH  
-Bahnhofstr. 18 ,53604 Bad Honnef, Germany  
-e-mail: [support@datawrapper.de](mailto:support@datawrapper.de)
+Raumerstraße 39, 10437 Berlin, Germany e-mail: [support@datawrapper.de](mailto:support@datawrapper.de)
 
 ## 2\. Overview: What information is being collected?
 
@@ -48,7 +47,7 @@ We in general take an approach to only collect the minimal data we need to provi
 
 **Datawrapper App** : The “app” is the software where users create charts or maps. Here we store e-mails of users in order to manage accounts and to connect all charts or maps created to an user. We allow the use of generic e-mail accounts (e.g. team@...), should this be a concern for you.
 
-**Tracking Datawrapper charts & maps**: A published Datawrapper chart can be embedded into any website. To monitor this we use a self-developed, self-hosted tracking system with cookies. This technology only collects technical data, similar to services like Matomo. We do not collect the IP address of users, which is important. What we do collect is data in order to learn about global traffic, usage, but only from a technical point of view. Internally we are able connect user accounts with the number of charts produced and the number of “chart views” the published charts get. A “chart view” is a specific metric for Datawrapper, defined as a view of a chart on a public website. Internal views in the app are not part of the “chart view” metric. As our rates are calculated based on the usage per account, this metric is important to perform our service. “Chart views” for example define the threshold between free usage of Datawrapper (currently up to 10.000 per month) and the need to upgrade an account. For users concerned with privacy we provide the option to use a non-personal e-mail for registering an account.
+**Tracking Datawrapper charts & maps**: A published Datawrapper chart can be embedded into any website. To monitor this we use a self-developed, self-hosted tracking system with cookies. This technology only collects technical data, similar to services like Matomo. We do not collect the IP address of users, which is important. What we do collect is data in order to learn about global traffic, usage, but only from a technical point of view. Internally we are able connect user accounts with the number of charts produced and the number of “chart views” the published charts get. A “chart view” is a specific metric for Datawrapper, defined as a view of a chart on a public website. Internal views in the app are not part of the “chart view” metric. For users concerned with privacy we provide the option to use a non-personal e-mail for registering an account.
 
 **Support** : For the use of our support offering and tutorials in our Datawrapper Academy we use HelpScout, where we receive information via e-mail or through technologies like cookies or web beacons, collecting primarily technical data to help us identify issues and help with support requests.
 
@@ -62,7 +61,7 @@ The following data protection principles apply to the use of our website and oth
 
   1. We protect your personal data by taking all reasonable and necessary technical and organizational possibilities so that they are not accessible to unauthorized third parties. Our website and other services offered through it therefore use appropriate encryption mechanisms for the provision of content and during the input and transmission of data. When communicating by e-mail, we also recommend the use of encryption for confidential information
 
-  2. Person responsible in the meaning of. Art. 4 Para. 7 General Data Protection Regulation (GDPR) is Mirko Lorenz, Bahnhofstr. 18, 53604 Bad Honnef, Germany (see also via „Imprint“ at our Website). You can contact our us in regard to data protection at [support@datawrapper.de](https://web.archive.org/web/20190503164711id_/https://www.datawrapper.de/privacy/support@datawrapper.de) or via our postal address with the addition "Data Protection”.
+  2. Person responsible in the meaning of. Art. 4 Para. 7 General Data Protection Regulation (GDPR) is Mirko Lorenz, Raumerstraße 39, 10437 Berlin, Germany (see also via „Imprint“ at our Website). You can contact our us in regard to data protection at [support@datawrapper.de](https://web.archive.org/web/20191231050439id_/https://www.datawrapper.de/privacy/support@datawrapper.de) or via our postal address with the addition "Data Protection”.
 
   3. If you send us e-mail messages or other messages, in particular comments, or enter them directly on the Website, we will retain such messages in order to process the request, respond to questions and improve the Website, products and services. We delete the data arising in this context after the storage is no longer necessary or limit the processing if statutory retention obligations exist.
 
@@ -80,7 +79,7 @@ In particular, you have the following rights towards us with regard to the perso
 
 You also have the right to complain to a data protection supervisory authority about our processing of your personal data.
 
-  6. Please contact the person responsible for data protection at [support@datawrapper.de](https://web.archive.org/web/20190503164711id_/https://www.datawrapper.de/privacy/support@datawrapper.de) to request information and for withdrawal as well as for notification of a request for deletion; the data protection officer will then provide the information immediately or confirm the execution of your request for deletion. A deletion requested by you will then be carried out subject to statutory retention obligations. If a deletion cannot take place completely due to legal storage obligations, we limit the processing of the data concerned and inform you accordingly.
+  6. Please contact the person responsible for data protection at [support@datawrapper.de](https://web.archive.org/web/20191231050439id_/https://www.datawrapper.de/privacy/support@datawrapper.de) to request information and for withdrawal as well as for notification of a request for deletion; the data protection officer will then provide the information immediately or confirm the execution of your request for deletion. A deletion requested by you will then be carried out subject to statutory retention obligations. If a deletion cannot take place completely due to legal storage obligations, we limit the processing of the data concerned and inform you accordingly.
 
   7. For all data we collect we have reasonable organizational, technical and administrative measures to protect your data. To some part we rely on the procedures and security measures of other services, as listed above. In all cases we have ensured that the services we use comply with security guidelines. For services outside of the EU we have checked whether these services comply with EU rules or international equivalents such as updated Safe Harbour policies and agreements. At the time of publication of this privacy policy this was the case for all those services.
 
@@ -133,7 +132,7 @@ If at any time you no longer wish to receive newsletters from us, you can object
 
 ### 2.5. Personal Data which is provided by you as a user of Datawrapper as an application
 
-Datawrapper is a charting tool, enabling you as a user to upload data, create a visualisation and embed the resulting chart, map, table or other form of visual on any website.
+Datawrapper is a charting tool, enabling you as a user to upload data, create a visualization and embed the resulting chart, map, table or other form of visual on any website.
 
   1. If you would like to order in Datawrapper as a tool, it is necessary to register for an account. If it is a free account, no data other than an e-mail and a password is necessary. As mentioned above it is possible to use a non-personal, generic e-mail not displaying your name.
 
