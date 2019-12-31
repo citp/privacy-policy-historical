@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clipconverter.cc privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628081102id_/http%3A//www.clipconverter.cc/terms/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipconverter.cc privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231183601id_/https%3A//www.clipconverter.cc/terms/%23privacy) for the most accurate reproduction.*
 
-# Podmínky použití - ClipConverter.cc
+# Terms of Use - ClipConverter.cc
 
-## Podmínky použití
+## Terms of Use
 
-This ClipConverter Service Agreement describes the terms and conditions on which www.clipconverter.cc ("ClipConverter") offer services to you. ClipConverter is operated by Lunaweb Ltd, Postfach 11 47, 85739 Garching / Germany. By using ClipConverter services, you agree to be bound by the following terms and conditions: 
+This ClipConverter Service Agreement describes the terms and conditions on which www.clipconverter.cc ("ClipConverter") offer services to you. ClipConverter is operated by Lunaweb GmbH, Gruenwald / Germany. By using ClipConverter services, you agree to be bound by the following terms and conditions: 
 
   1. The use of ClipConverter is governed by German law with the following modifications and explanations to be considered. 
   2. You are the only responsible for the data (e.g. URLs) which it sends to the ClipConverter service. One is reminded that the illicit exchanges of recordings and protected works as well as the hacking harm artistic creation. One is reminded that also non the respect of the laws in force, in particular those concerning the respect of the intellectual and artistic property, can give place to continuations and judgments. 
