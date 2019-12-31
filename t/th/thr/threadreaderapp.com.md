@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the threadreaderapp.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530153918id_/https%3A//threadreaderapp.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadreaderapp.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231115358id_/https%3A//threadreaderapp.com/help/privacy) for the most accurate reproduction.*
 
-# Thread Reader App | Privacy Policy
+# Privacy Policy – Thread Reader
 
 This Application collects some Personal Data from its Users.
 
