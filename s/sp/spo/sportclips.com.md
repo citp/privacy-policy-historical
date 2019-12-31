@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportclips.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610035016id_/https%3A//www.sportclips.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportclips.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231201903id_/https%3A//sportclips.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Sport Clips
 
