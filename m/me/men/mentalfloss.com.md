@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mentalfloss.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624201723id_/http%3A//mentalfloss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentalfloss.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231202338id_/http%3A//mentalfloss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mental Floss
 
-**Last updated:** August 26, 2018
+**Last updated:** August 25, 2019
 
 ### Our Commitment to You
 
-This website: mentalfloss.com, including store.mentalfloss.com and any sub domain associated with it (together, the **"Shop"** or **"Site"** respectively), is a product of Sportority Inc. ( **“Sportority”** , **"we"** or **"us"** ). Sportority is dedicated to providing its users with the highest level of transparency and control over the use of their data. In order for us to provide you with our services, including the Site and the Shop (the **"Service"** ) we are required to collect and process certain personal information about you and your activity.
+This website: mentalfloss.com and any sub domain associated with it (together, the **"Site"** ), is a product of Pro Sportority (Israel) Ltd. ( **“Sportority”** , **"we"** or **"us"** ). Sportority is dedicated to providing its users with the highest level of transparency and control over the use of their data. In order for us to provide you with our services, including the Site (the **"Service"** ) we are required to collect and process certain personal information about you and your activity.
 
 By entrusting us with your information, we would like to assure you of our commitment to keep such information private. We have taken measurable steps to protect the confidentiality, security and integrity of this Information. We encourage you to review the following information carefully.
 
@@ -31,16 +31,14 @@ Updates to this Policy| 7
 
 Processing of your **“Personal Data”** (meaning any information which may potentially allow your identification with reasonable means) is necessary for the performance of our contractual obligations towards you and providing you with our Service and the operation thereof, to protect our legitimate interests and for compliance with legal and regulatory obligations to which we are subject.
 
-When you use our Service, you consent to the collection, storage, use, disclosure and other uses of your Personal Information as described in this Privacy Policy.
-
 ### How do we receive data about you?
 
 We receive your Personal Data from various sources:
 
-  1. Registration Information – when you create an account on our Site, Shop, or subscribe to our newsletters, we will ask you to provide us with certain contact details, and payment details if you decide to purchase a product on our shop, which are needed for us to provide with these Services.
+  1. Registration Information – when you create an account on our Site or subscribe to our newsletters, we will ask you to provide us with certain contact details, which are needed for us to provide with these Services.
   2. When you communicate with us ‑ For example when you send us an email, we collect the Personal Information you provided us with.
-  3. Third party information – We may receive your data from third parties who help us with the provision and maintenance of our Service, such as social networks, traffic analytics vendors, fraud prevention agencies and others.
-  4. Technical information ‑ When operating our Service, we use various technological tracking tools to collect information regarding your use of the Service. Along with our partners, we may use tracking technologies such as cookies, JavaScript, beacons and Local Storage, which are used to store content information and preferences. You can learn more about the tracking tools we use in our [Cookie Policy](https://web.archive.org/cookie-policy).
+  3. Third party information – we may receive your data from third parties who help us with the provision and maintenance of our Service, such as social networks, traffic analytics vendors, fraud prevention agencies and others.
+  4. Technical information ‑ when operating our Service, we use various technological tracking tools to collect information regarding your use of the Service. Along with our partners, we may use tracking technologies such as cookies, JavaScript, beacons and Local Storage, which are used to store content information and preferences. You can learn more about the tracking tools we use in our [Cookie Policy](https://web.archive.org/cookie-policy).
 
 
 
@@ -53,7 +51,6 @@ When you use our Service, you consent to the collection, storage, use, disclosur
 In the course of using the Service, we may collect certain Personal Data to provide and improve the Service, to contact or identify you, to enable you to access certain parts of the Service or as otherwise indicated in this Policy. We collect the following Personal Data about you:
 
   * **When using our Service** ‑ our webserver will automatically collect your IP address, and unique online identifiers. These details are pseudonimyzed (cannot directly identify you) and are collected for the purpose of delivering relevant content and ads and operating and improving our Service (including services from our partners).
-  * **When you make a purchase on our Shop** ‑ you may also be required to provide us with further contact details, such telephone number, mailing and delivery address, zip code, and payment details such as credit card number, in order for us to be able to fulfil your order. In addition, when you purchase a gift subscription we will collect the recipient’s name and email so we can send the gift subscription to the recipient.
   * **When you subscribe to our newsletters** – we will collect your email address.
   * **When you send us an email** – we will collect any information, including personal data that you choose to include in your inquiry to us.
 
@@ -80,8 +77,8 @@ To learn more about our Tracking Technologies please visit our [Cookie Policy](h
 
   * **Provision of service** – we will use the Personal Data you provide us for the provision and improvement of our Service, including for fulfilling your orders, providing customer support and to respond to your queries.
   * **Service announcements** \- we will use your Personal Data to communicate with you and to keep you informed of our latest updates to our Service and offer you service offers.
-  * **Marketing and advertising** \- We may use your Personal Data in the following ways: we may send you promotional material concerning our Service, or our partners' services, which we believe might interest you; we may also display certain adverts on our Service, which we believe will be relevant for you. We make our best efforts to make sure you see only relevant ads and receive relevant communications from us, including but not limited to, by building an automated profile based on your Personal Data.
-  * **Opt‑out of receiving marketing materials** \- You may choose not to receive our promotional or marketing emails (all or any part thereof) by clicking on the “unsubscribe” link in the emails that you receive from us. Please note that even if you unsubscribe, we may continue to send you service‑related updates and notifications, or reply to your queries and feedback you provide us.
+  * **Marketing and advertising** \- we may use your Personal Data in the following ways: we may send you promotional material concerning our Service, or our partners' services, which we believe might interest you; we may also display certain adverts on our Service, which we believe will be relevant for you. We make our best efforts to make sure you see only relevant ads and receive relevant communications from us, including but not limited to, by building an automated profile based on your Personal Data.
+  * **Opt‑out of receiving marketing materials** \- you may choose not to receive our promotional or marketing emails (all or any part thereof) by clicking on the “unsubscribe” link in the emails that you receive from us. Please note that even if you unsubscribe, we may continue to send you service‑related updates and notifications, or reply to your queries and feedback you provide us.
 
 If you do not want us to share your Personal Data for marketing purposes, you may opt‑out in accordance with this "Opt‑out" section. Please note that even if you opt‑out, we may still use and share your Personal Data with third parties for non‑marketing purposes (for example to fulfill your requests and orders, communicate with you and respond to your inquiries, etc.). In such cases, the companies with whom we share your Personal Data are authorized to use your Personal Data only as necessary to provide these non‑marketing services.
 
@@ -133,19 +130,11 @@ As an EU resident, you may request to:
 
 Please note that these rights pertain to EU residents only, are not absolute, and may be subject to our own legitimate interests and regulatory requirements.
 
-Users Outside the EU ‑ Some of the aforementioned rights are applicable in certain jurisdictions outside the EU as well. Users residing outside the EU are welcome to contact us for any questions or requests at the details below.
+Users Outside the EU ‑ some of the aforementioned rights are applicable in certain jurisdictions outside the EU as well. Users residing outside the EU are welcome to contact us for any questions or requests at the details below.
 
 ### How to contact us?
 
 If you wish to exercise any of the aforementioned rights, or receive more information, please contact our Data Protection Officer **(“ DPO ”)** using the details below:
-
-**Sportority Inc.**
-
-Email: [dpo@minutemedia.com](mailto:dpo@minutemedia.com)
-
-Mailing address: 33 E 33rd St 8th floor
-
-New York, NY 10016, USA
 
 ### Our Policy toward Children
 
