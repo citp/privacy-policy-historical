@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the lonnymag.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629014737id_/https%3A//www.livinglymedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonnymag.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231173303id_/https%3A//www.livinglymedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Livingly Media
 
-Last Updated: August 28, 2018
+Last Updated: December 6, 2019
 
- **We take the privacy of our users very seriously.**  Please read this Privacy Policy to learn more about how we treat personally identifiable information. We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at [privacy@livingly.com](https://web.archive.org/web/20170606150152/mailto:privacy@livingly.com) or in writing at: Privacy Director, Livingly Media, Inc., 201 Redwood Shores Parkway, Suite 300, Redwood City, CA 94065.
+ **We take the privacy of our users very seriously.**  Please read this Privacy Policy to learn more about how we treat personally identifiable information. We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at [dpo@livinglymedia.com](mailto:dpo@livinglymedia.com) or in writing at: Privacy Director, Livingly Media, Inc., 201 Redwood Shores Parkway, Suite 300, Redwood City, CA 94065.
 
- **Online Privacy Standards.**  While there are no official standards governing privacy practices on the internet, we follow the principles supported by the Federal Trade Commission’s Fair Information Practices Principles, currently available at [https://www.ftc.gov/reports/privacy-online-fair-information-practices-electronic-marketplace-federal-trade-commission](https://web.archive.org/web/20170606150152/https://www.ftc.gov/reports/privacy-online-fair-information-practices-electronic-marketplace-federal-trade-commission).
+ **Online Privacy Standards.**  While there are limited official standards governing privacy practices on the internet, we follow the principles supported by the Federal Trade Commission’s Fair Information Practices Principles, currently available at [https://www.ftc.gov/reports/privacy-online-fair-information-practices-electronic-marketplace-federal-trade-commission](https://web.archive.org/web/20170606150152/https://www.ftc.gov/reports/privacy-online-fair-information-practices-electronic-marketplace-federal-trade-commission) and the Data Protection Act 1998 and Regulation (EU) 2016/679 of the European Parliament and of the Council of the 27th of April 2016, General Data Protection Regulation referred to as “GDPR”.
 
- **What This Policy Covers.**  This policy covers Livingly Media’s treatment of personally identifiable information that we obtain when you visit our website or use our services. We regard personally identifiable information as information that someone can use to identify or contact you in person, such as real name, telephone number, birth date, email address, or physical mailing address. Information that we use internally to identify you as a member in our system, such as your selected UserID, is not considered personally identifiable information.
+ **What This Policy Covers.**  This policy covers Livingly Media’s treatment of personally identifiable information that we obtain when you visit our website or use our services. We regard personally identifiable information as information that someone can use to identify or contact you in person, such as real name, telephone number, birth date, email address, or physical mailing address. 
 
- **What This Policy Does Not Cover.**  This policy does not cover the privacy practices of third parties that we do not own or control, such as our partners and advertisers. In addition, we may provide links to other services and on occasion to other sites that may interest you. All of these sites operate independently of Livingly and they have their own privacy or security practices. For your best on-line experience, we encourage you to review their policies before submitting any personal information to them.
+**What This Policy Does Not Cover.**  This policy does not cover the privacy practices of third parties that we do not own or control, such as our partners and advertisers. In addition, we may provide links to other services and on occasion to other sites that may interest you. All of these sites operate independently of Livingly and they have their own privacy or security practices. For your best on-line experience, we encourage you to review their policies before submitting any personal information to them.
 
 ## HOW WE COLLECT INFORMATION
 
 INFORMATION YOU PROVIDE
 
- **Registration Information.**  During the registration process, we collect your email address. We will send you an email to verify that you are the owner of this address. You will also choose a UserID that we will use to identify you in our system.In general, we make it easy for you to view the personally identifiable information we have collected from you in your member profile page, where you can add, edit, or delete it as you see fit.
+ **Registration Information.**  During the email newsletter registration process, we collect your email address. Pursuant to the CAN-SPAM act of 2003, you may unsubscribe from our email newsletters at any time by using the unsubscribe link contained in the emails.
 
 ## INFORMATION WE DO NOT COLLECT
 
- **Children.**  As explained further in our Terms of Service, currently available at [http://www.livinglymedia.com/terms-of-service/](https://web.archive.org/web/20170606150152/http://www.livinglymedia.com/terms-of-service/), you must be 13 years of age or older to register to use our website. Therefore, we do not knowingly collect personally identifiable information about children. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at [privacy@livingly.com](https://web.archive.org/web/20170606150152/mailto:privacy@livingly.com) or write to our Privacy Director at the address noted above.
+ **Children.**  As explained further in our Terms of Service, currently available at [http://www.livinglymedia.com/terms-of-service/](https://web.archive.org/web/20170606150152/http://www.livinglymedia.com/terms-of-service/), you must be 13 years of age or older to register to use our website. Therefore, we do not knowingly collect personally identifiable information about children. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at [dpo@livingly.com](https://web.archive.org/web/20170606150152/mailto:privacy@livingly.com) or write to our Privacy Director at the address noted above.
 
- **Social Security Number.**  We do not ask for or require your social security number to use any of our services or to access any part of our site.
+ **Social Security Number or Credit Card.**  We do not ask for or require your social security number or credit card to use any of our services or to access any part of our site.
 
 ## INFORMATION WE TRACK
 
@@ -59,7 +59,7 @@ INFORMATION YOU PROVIDE
 
 WITH THIRD-PARTIES
 
- **Sharing, Renting, and Selling Information We Collect.**  We will neither rent nor sell your personally identifiable information to anyone. Occasionally we share anonymous, non-personal, aggregate information about our user base with partners or advertisers, and we may publish these aggregate usage statistics on our website for the interest of our members. We do not tie this shared or published data to personally identifiable information.
+ **Sharing, Renting, and Selling Information We Collect.**  We will neither rent nor sell your personally identifiable information to anyone. Occasionally we share anonymous, non-personal, or aggregate information about our user base with partners or advertisers, and we may publish these aggregate usage statistics on our website for the interest of our members. We do not tie this shared or published data to personally identifiable information.
 
 AS NECESSARY IN LEGAL CIRCUMSTANCES
 
@@ -75,9 +75,9 @@ AS NECESSARY IN LEGAL CIRCUMSTANCES
 
 ## YOUR PERSONAL CHOICES
 
- **Receiving Communications.**  If you subscribe to any optional promotional communications, you will be able to unsubscribe from them through your member profile page or through the emails we send you.
+ **Receiving Communications.**  If you subscribe to any optional promotional communications, you will be able to unsubscribe from through the emails we send you.
 
- **Editing / Deleting Member Account Information.**  You can view the personally identifiable information we have collected from you in your member profile page where you can add, edit, or delete it as you see fit. You may also request deletion of your member account through your member profile page.
+ **Editing / Deleting Member Account Information.**  You can view information we may have collected from you during a user registration process in a member profile page, where you can add, edit, or delete it as you see fit. You may also request deletion of your member account by emailing [dpo@livinglymedia.com](mailto:dpo@livinglymedia.com).
 
 ## FOR EU DATA SUBJECTS - LEGAL BASIS FOR COLLECTING AND USING YOUR DATA
 
@@ -104,16 +104,32 @@ Basis: Legitimate Interest 
 Newsletters    
 Basis: Consent 
 
-Information, system, network and cyber security    
+Information, system, network and cybersecurity    
 Basis: Legitimate Interest 
 
 ## FOR EU DATA SUBJECTS - HOW LONG DO WE KEEP YOUR DATA? 
 
 We delete or anonymise your data held in our archives unless retained through Consent, Contract, or Legitimate Interest.  Occasionally personal data is kept for longer than our standard retention policy, if it is required for legal or safeguarding interests or in order to respond to any complaints or claims that you make. If this is the case, we will only keep the data for as long as we need in order to fulfill those purposes. 
 
-You have the right of access, rectification, to be forgotten, portability, to withdraw and the right to object to us processing your personal data for the purposes set out above at any time. Unless we can show that we have a legitimate reason to continue processing your personal data, we will stop processing it.   
+You have the right to exercise choice/Consent and the possibility to review and change Consent choices at any time. To do so, please email [dpo@livinglymedia.com](mailto:dpo@livinglymedia.com) or use the following links for each of our websites. Please note, on some browsers, you may need to use the ‘reload’ button on your browser after visiting the link below, in order to load the form:
 
-You can delete your account at any time and/or choose to anonymise your posts by contacting us at [support@livingly.com](mailto:support@livingly.com), and you can unsubscribe to newsletters and surveys on your Profile or by unsubscribing using the link at the bottom of every email. 
+[Livingly](http://www.livingly.com/?__gdpr_force_eu__&__gdpr_force_cookie__)
+
+[Lonny](http://www.lonny.com/?__gdpr_force_eu__&__gdpr_force_cookie__)
+
+[Stylebistro](http://www.stylebistro.com/?__gdpr_force_eu__&__gdpr_force_cookie__)
+
+[Mabel+Moxie](http://www.mabelandmoxie.com/?__gdpr_force_eu__&__gdpr_force_cookie__)
+
+[It’s Rosy](http://www.itsrosy.com/?__gdpr_force_eu__&__gdpr_force_cookie__)
+
+[Zimbio](http://www.zimbio.com/?__gdpr_force_eu__&__gdpr_force_cookie__)
+
+The consequence of your choosing not to provide Consent is that Livingly Media will not call the relevant pre-selected advertising partners services on our webpages for your device after the choice has been made. The consequence of your revoking Consent is that Livingly Media will no longer call our pre-selected advertising partners services on our webpages for your device after Consent has been revoked.
+
+You have the right of access, rectification, to be forgotten, portability, to withdraw and the right to object to us processing your personal data for the purposes set out above at any time. Unless we can show that we have a Legitimate Interest to continue processing your personal data, we will stop processing it.   
+
+You can delete your account at any time and/or choose to anonymise your posts by contacting us at [support@livingly.com](mailto:support@livingly.com) or [dpo@livingly.com](mailto:dpo@livingly.com), and you can unsubscribe to newsletters and surveys on your Profile or by unsubscribing using the link at the bottom of every email. 
 
 ## FOR EU DATA SUBJECTS -  DATA PROTECTION OFFICER
 
