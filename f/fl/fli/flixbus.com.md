@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flixbus.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212400id_/https%3A//www.flixbus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixbus.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231062348id_/https%3A//www.flixbus.com/privacy-policy) for the most accurate reproduction.*
 
 # Data Privacy → FlixBus
 
-Date: 01/22/2019
+Date: 09/06/2019
 
 We attach great importance to the protection of your personal data. For this reason, data protection at FlixBus Inc has a high priority in collecting, processing and using data.
 
@@ -136,9 +136,25 @@ ADARA's cookie collects information about your travel activities and preferences
 
 SOJERN's cookie collects information about your travel activities and preferences from online travel partner websites, and engage with you through personalized, relevant adverts when you're browsing other websites and social media platforms, and through SOJERN analytics services. They may also enable the storing of conversion information used to track, create reporting and optimize the performance of SOJERN campaigns. You can learn more about SOJERN and opt out at <https://www.sojern.com/privacy/product-privacy-policy>.
 
-### 8.14 Awin
+### 8.13 Awin
 
 This website uses the AWIN technology and services, which is used to understand which website referred a user to this website. Awin measures the success of these referrals and assist the payment of commission to the referring websites. For this purpose, Awin stores cookies on devices of users who are visiting and using our online services in order to record business transactions (placing an order). Awin’s cookies are used to allocate one successful advertisement to a particular business transaction, and to perform corresponding billing services. Personally identifiable information on the user are neither collected nor processed nor used in tracking. Nothing but the information when and on which device (including device’s operating system and browser) a click on an advertisement occurred is stored in tracking cookies. You can learn more about Awin at <https://www.awin.com/us/legal/privacy-policy>. You can also find information about how to delete cookies from your computer at [youronlinechoices](http://www.youronlinechoices.com/de/praferenzmanagement).
+
+### 8.14 Dataxu
+
+We use cookies and similar technologies to collect information about your browser type, operating system, internet provider, IP address, domain name, the pages that you visit on third party websites, the actions that you take on those websites, the date and time of your visits to third party websites, and whether you respond to an online ad.
+
+For mobile users, we collect device types, device make and model, operating system, mobile advertising identifiers (e.g. IDFA on iPhone, Google ADID on Android), operating system device identifier, information about the types of apps you use and the GPS location of your device (subject to your provision of opt-in consent).
+
+We may receive unique identifiers associated with connected TV devices, as well as general information about the video content associated with the delivery of advertising. However, we do not receive information about the specific video content viewed nor associate advertising profiles based on viewed video content without first receiving opt-in consent.
+
+We do not collect personally identifiable information such as your name, address, phone number, or e-mail address. However, please note that our clients may use the platform to deliver advertisements based on previously personal, but now de-identified, pseudonymized or otherwise ‘audience-matched’ information. We do not link, combine or re-identifiy personally identifiable information with information collected through the platform without your opt-in consent.
+
+You may manage your preferences opt out of cookies placed on dataxu websites by clicking here: <https://www.dataxu.com/about-us/privacy/data-collection-platform/>
+
+### 8.15 Snowplow
+
+This website/app uses Snowplow Opensource, an analysis technology of Snowplow Analytics Limited (The Rome Building, 32-38 Scrutton Street, London, EC2A 4RQ, United Kingdom). With the help of analysis technology, we collect statistical data on the use of our website. Information which your browser transmits is collected and evaluated in the context of the use of this website. This is done by cookie technology and pixels, which are incorporated on each web page. The data collected in this way are used to create usage profiles that form the basis for web statistics. You can prevent storing of cookies on your computer via a corresponding setting of your browser software. However, we point out that you might not be able to use all functions of this website to their full extent in this case. You can also prevent FlixMobility from collecting the data generated by the cookie with respect to your use of the website, as well as the processing of this data by FlixMobility, by objecting to such collection and processing using the following link: [data.protection@flixbus.com](mailto:data.protection@flixbus.com)
 
 ## 9\. Social Plugins
 
