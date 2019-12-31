@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beeswax.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616050613id_/https%3A//beeswax.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beeswax.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231220607id_/https%3A//beeswax.com/privacy) for the most accurate reproduction.*
 
 # Beeswax Privacy Policy
 
