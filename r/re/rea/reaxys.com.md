@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the reaxys.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233743id_/http%3A//www.elsevier.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reaxys.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231234042id_/http%3A//www.elsevier.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](https://www.printfriendly.com/ "Printer Friendly and PDF")
 
-Last updated: May 9, 2019
+Last updated: December 19, 2019
 
 Elsevier is committed to maintaining your confidence and trust with respect to your privacy. This privacy policy explains how we collect, use and share your personal information.
 
@@ -22,9 +22,9 @@ The types of personal information that we collect directly from you depends on t
 
   * Contact details, such as your name, email address, postal address, phone number and social media handle;
   * Account login credentials, such as usernames and passwords, password hints and similar security information;
-  * Other account registration and profile information, including educational, professional and other background information, such as your field of study, current position, practice area and areas of interests, ORCID ID and photo;
+  * Other account registration and profile information, including educational, professional and other background information, such as your field of study, current position, practice area and areas of interests, gender, ORCID ID and photo;
   * Content that you upload and share or store in your account, such as annotations, comments, contributions and replies;
-  * Payment information, such as a credit or debit card number;
+  * Payment information, such as a credit or debit card number, and government-issued ID numbers;
   * Information that you communicate to us, such as questions or information you send to customer support;
   * Data that you provide to us as part of interacting with the Service, such as your favorites and search queries; and/or
   * Communications preferences, such as your preferred language and the frequency, type and format of the alerts you sign up to receive.
@@ -43,12 +43,12 @@ We may obtain information about you from the institution with which you are empl
 
 ### Data from other sources
 
-We also may obtain contact details and other information about you from other entities within the RELX Group and from third parties, including:
+We also may obtain contact details and other information about you from other entities within RELX and from third parties, including:
 
   * Social networks when that you grant permission to the Service to access your data on one or more networks;
   * Service providers that help us determine a location in order to customize certain products to your location;
   * Partners with which we offer co-branded services or engage in joint marketing activities; and/or
-  * Publicly -available sources and data suppliers from which we obtain data to validate or supplement the information we hold and to support the Service.
+  * Publicly available sources and data suppliers from which we obtain data to validate or supplement the information we hold and to support the Service.
 
 
 
@@ -86,6 +86,7 @@ We may also use your personal information to:
 
   * Respond to your requests, inquiries, comments or concerns;
   * Invite you to submit or review manuscripts or otherwise participate in our publishing programs;
+  * Issue payments and statements, such as for royalties and editorial fees;
   * Conduct and administer user testing and surveys as well as sweepstakes, competitions and similar promotions;
   * Provide you with relevant promotional messages and other information about products, events and services of ours, our group companies and third parties such as societies and sponsors;
   * Enhance and improve our products, events and services and develop new ones; and/or
@@ -109,7 +110,7 @@ We may also disclose to your institution or other third parties non-personally i
 
 Depending on the Service provided, we share your personal information with our:
 
-  * Affiliates, trading names and divisions within the Elsevier group of companies (for a list, visit [http://www.elsevier.com/locations](https://www.elsevier.com/about/locations)) and certain RELX Group companies that provide technology, customer service and other shared services functions; and/or
+  * Affiliates, trading names and divisions within the Elsevier group of companies (for a list, visit [http://www.elsevier.com/locations](https://www.elsevier.com/about/locations)) and certain RELX companies that provide technology, customer service and other shared services functions; and/or
   * Suppliers and service providers, including editors, reviewers, payment processors, customer support, email service providers, event venues and service providers, mailing houses, shipping agents and IT service providers;
 
 
@@ -132,7 +133,7 @@ We also will disclose your personal information if we have a good faith belief t
 
 
 
-and as part of a corporate transaction, such as a transfer of assets to or an acquisition by or merger with another company.
+and as part of a corporate transaction, such as a transfer of a journal or other assets to or an acquisition by or merger with another company.
 
 [Scroll to top of page](https://www.elsevier.com/legal/privacy-policy#top)
 
@@ -170,7 +171,9 @@ You have the right under European and certain other privacy and data protection 
 
 
 
-If you wish to exercise any of these rights, please contact us through the contact address provided below. We will respond to your request consistent with applicable laws. To protect your privacy and security, we may require you to verify your identity.
+If you wish to exercise any of these rights, please contact us through the [Elsevier Privacy Support Hub](https://service.elsevier.com/app/contact/supporthub/privacysupport). We will respond to your request consistent with applicable laws. To protect your privacy and security, we may require you to verify your identity. You may designate an authorized agent to make a request on your behalf subject to proof of identity and authorization.
+
+If you are a California resident, you have additional rights described [here](https://www.elsevier.com/legal/california-privacy-notice).
 
 [Scroll to top of page](https://www.elsevier.com/legal/privacy-policy#top)
 
@@ -216,7 +219,7 @@ We will update this privacy policy from time to time.  Any changes will be pos
 
 [Scroll to top of page](https://www.elsevier.com/legal/privacy-policy#top)
 
-If you have any questions, comments, complaints or requests regarding this privacy policy or our processing of your information, please contact:
+If you have any questions, comments, complaints or requests regarding this privacy policy or our processing of your information, please contact the Elsevier Data Protection Officer via the [Elsevier Privacy Support Hub](https://service.elsevier.com/app/contact/supporthub/privacysupport) or via post:
 
 Elsevier Data Protection Officer  
 Elsevier Limited  
@@ -250,13 +253,13 @@ With a Mendeley account, you can post comments and other research information to
 
 Information that you have shared with others on Mendeley (including its affiliated sites like the Mendeley support site) or that others have copied may remain visible after you have deleted the information from your Mendeley profile or closed your account. Groups content associated with closed accounts will show an unknown user as the source.
 
-If you registered for a Mendeley account, you can create job preferences (also called careers interests). You can update, change or delete your careers interests at any time by logging into your Mendeley  account and going to your careers interests (job preferences) page to make your desired changes. You can choose to let recruiters on Mendeley Careers see your careers interests.  In this case your careers interests, including your CV and contact information, will be available for searching, viewing and downloading by recruiters who request CVs matching your careers interests to be sent to them. Please note that your current employer may be a customer of Mendeley Careers, or a client of one of our customers. We cannot restrict the customers who access profiles on Mendeley Careers and cannot be held responsible for any eventuality. Please further note that although we try to grant access to career interests only to Mendeley Careers customers and require that they agree to access and use career interests solely for their recruitment-related purposes, we do not verify their identity or control their use, disclosure or retention of the information they access.
+If you registered for a Mendeley account, you can create job preferences (also called careers interests). You can update, change or delete your careers interests at any time by logging into your Mendeley  account and going to your careers interests (job preferences) page to make your desired changes.
 
-You can choose to let employers, recruiters and other human resource professionals who pay for access to Mendeley Careers (“Employers”) see your careers interests.  In this case your careers interests, including your CV and contact information, will be available for searching, viewing and downloading by Employers who request CVs matching your careers interests to be sent to them.
+You can choose to let recruiters who pay for access to Mendeley Careers see your careers interests. In this case your careers interests, including your CV and contact information, will be available for searching, viewing and downloading by recruiters who request CVs matching your careers interests to be sent to them.
 
 Please note that your current employer may be a customer of Mendeley Careers, or a client of one of our customers. We cannot restrict the customers who access profiles on Mendeley Careers and cannot be held responsible for any eventuality.
 
-Please further note that although we try to grant access to career interests only to Mendeley Customers and require that they agree to access and use career interests solely for their recruitment-related purposes, we do not verify their identity or control their use, disclosure or retention of the information they access.
+Please further note that although we try to grant access to career interests only to Mendeley Careers customers and require that they agree to access and use career interests solely for their recruitment-related purposes, we do not verify their identity or control their use, disclosure or retention of the information they access.
 
 ### Hivebench
 
