@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneysavingmom.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628003121id_/https%3A//moneysavingmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingmom.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231093851id_/https%3A//moneysavingmom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Money Saving Mom® : Money Saving Mom®
+# Privacy Policy | Money Saving Mom® : Money Saving Mom®
 
 Money Saving Mom®, LLC (“ **Company** ,” “ **we** ,” or “ **us** ”) respects your privacy and is committed to protecting it through this Privacy Policy.
 
@@ -24,7 +24,7 @@ _Information You Provide To Us_. The Website provides various places for users t
 
 We use information you provide to us to deliver the requested product and/or service, to improve our overall performance, and to provide you with offers, promotions, and information.
 
-_Information We Collect Through Automatic Data Collection Technology_. As you navigate through our Website, we may use automatic data collection technologies including Google Analytics to collect certain information about your equipment, browsing actions, and patterns. This will generally include information about your location, your traffic pattern through our website, and any communications between your computer and our Website.  Among other things, we will collect data about the type of computer you use, your Internet connection, your IP address, your operating system, and your browser type.
+_Information We Collect Through Automatic Data Collection Technology_. As you navigate through our Website, we may use automatic data collection technologies including Google Analytics to collect certain information about your equipment, browsing actions, and patterns. This will generally include information about your location, your traffic pattern through our website, and any communications between your computer and our Website.  Among other things, we will collect data about the type of computer you use, your Internet connection, your IP address, your operating system, and your browser type. We have enabled Google Analytics to collect demographic and interest based information about users. This data is reviewed in aggregate to provide us with information about our audience as a whole, and we will not have access to any data that is specifically associated with you.
 
 The information we collect automatically is used for statistical data and will not include personal information. We use this data to improve our Website and our service offerings. To the extent that you voluntarily provide personal information to us, our systems will associate the automatically collected information with your personal information.
 
