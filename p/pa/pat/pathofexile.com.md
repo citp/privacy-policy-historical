@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pathofexile.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628235202id_/https%3A//www.pathofexile.com/legal/terms-of-use-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathofexile.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231053509id_/https%3A//www.pathofexile.com/legal/terms-of-use-and-privacy-policy) for the most accurate reproduction.*
 
 # Path of Exile
 
