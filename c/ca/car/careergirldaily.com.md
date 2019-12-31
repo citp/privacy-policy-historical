@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careergirldaily.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330221034id_/https%3A//www.careergirldaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careergirldaily.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231201223id_/https%3A//www.careergirldaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Career Girl Daily
 
@@ -8,28 +8,28 @@ Careergirldaily.com understands that your privacy is vitally important. We respe
 
 This Policy applies to our use of all data we collect in relation to your use of our website. Please read this Policy carefully and ensure that you understand it. Your acceptance of this Privacy and Cookies Policy is deemed to occur upon your first use of our website. If you do not accept and agree with this Policy, you must stop using our website.
 
-  * **Definitions**
+  *  **Definitions**
 
 
 
 In this Policy, the following terms shall have the following meanings:  
 
-**“Account”** | means an account required to access and/or use certain areas and features of our Site;  
+ **“Account”**|  means an account required to access and/or use certain areas and features of our Site;  
 ---|---  
-**“Cookie”** | means a small text file placed on your computer or device by our Site when you visit certain parts of our Site and/or when you use certain features of our Site;  
-**“EEA”** | means the European Economic Area, comprised of all EU member states plus Norway, Iceland and Liechtenstein;  
-**“Privacy Regulations”** | means the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended in 2004, 2011 and 2015;  
-**“Site”** | means this website, CareerGirlDaily.com;  
-**“UK and EU Cookie Law”** | means the relevant parts of the Privacy Regulations; and  
-**“we/us/our”** | means Career Girl Daily London Ltd trading as CareerGirlDaily.com, a limited company registered in England and Wales with number **11045894** and whose registered office address is Office 15-3812 Vertinum 51 Portland Road, Kingston Upon Thames, Surrey, KT1 2SH.  
+ **“Cookie”**|  means a small text file placed on your computer or device by our Site when you visit certain parts of our Site and/or when you use certain features of our Site;  
+ **“EEA”**|  means the European Economic Area, comprised of all EU member states plus Norway, Iceland and Liechtenstein;  
+ **“Privacy Regulations”**|  means the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended in 2004, 2011 and 2015;  
+ **“Site”**|  means this website, CareerGirlDaily.com;  
+ **“UK and EU Cookie Law”**|  means the relevant parts of the Privacy Regulations; and  
+ **“we/us/our”**|  means Career Girl Daily London Ltd trading as CareerGirlDaily.com, a limited company registered in England and Wales with number **11045894** and whose registered office address is Office 15-3812 Vertinum 51 Portland Road, Kingston Upon Thames, Surrey, KT1 2SH.  
   
-  * **What does this Policy cover?**
+  *  **What does this Policy cover?**
 
 
 
 This Policy applies only to your use of our Site. It does not extend to any websites that are linked to from our Site. We have no control over how your data is collected, stored or used by other websites: you should check the privacy policies of such websites before providing any data to them.
 
-  * **What is personal data?**
+  *  **What is personal data?**
 
 
 
@@ -37,7 +37,7 @@ Personal data is defined by the General Data Protection Regulation (EU Regulatio
 
 Personal data is any information about you that enables you to be identified. Personal data covers obvious information such as your name and contact details, but it also covers less obvious information such as identification numbers, electronic location data and other online identifiers.
 
-  * **What are my rights?**
+  *  **What are my rights?**
 
 
 
@@ -58,7 +58,7 @@ Further information about your rights can also be obtained from the Information 
 
 If you have any cause for complaint about our use of your personal data, you have the right to lodge a complaint with the Information Commissioner’s Office.
 
-  * **What data do we collect?**
+  *  **What data do we collect?**
 
 
 
@@ -77,7 +77,7 @@ Some data is collected automatically by our Site. Other data is only collected i
 
 
 
-**How we use your personal data**
+ **How we use your personal data**
 
 Under the GDPR, we must always have a lawful basis for using personal data. This may be because the data is necessary for our performance of a contract with you, because you have consented to our use of your personal data, or because it is in our legitimate business interests to use it. Your personal data may be used for one or more of the following purposes:
 
@@ -93,7 +93,7 @@ Under the GDPR, we must always have a lawful basis for using personal data. This
 
 With your permission and/or where permitted by law, we may also use your personal data for marketing purposes, which may include contacting you by email with information, news, and offers on our products and/or services. You will not be sent any unlawful marketing or spam. We will always work to fully protect your rights and comply with our obligations under the GDPR and the Privacy and Electronic Communications (EC Directive) Regulations 2003, and you will always have the opportunity to opt-out.
 
-  * **How long we keep your data**
+  *  **How long we keep your data**
 
 
 
@@ -103,7 +103,7 @@ We will not keep your personal data for any longer than is necessary in light of
 
 
 
-**How and where we store or transfer your data**
+ **How and where we store or transfer your data**
 
 We will only store or transfer your personal data within the EEA. This means that it will be fully protected under the GDPR or to equivalent standards by law.
 
@@ -113,7 +113,7 @@ Data security is of great importance to us, and to protect your data we have put
 
 Notwithstanding the security measures we take, the transmission of data via the internet may not be completely secure. You should always take suitable precautions when transmitting data via the internet.
 
-  * **Do we share your data?**
+  *  **Do we share your data?**
 
 
 
@@ -123,7 +123,7 @@ We may compile statistics about the use of our Site including data on traffic, u
 
 In certain circumstances, we may be legally obliged to share data held by us, which may include your personal information – for example, where we are involved in legal proceedings, or where we are complying with the requirements of legislation, a court order or a governmental authority. We do not require any further permission from you in order to share your data in such circumstances and will comply as required with any such legally binding request that is made of us.
 
-  * **How you can control your data**
+  *  **How you can control your data**
 
 
 
@@ -131,7 +131,7 @@ In addition to your rights under the GDPR, when you submit personal data via our
 
 You may also wish to sign up to one or more of the preference services operating in the UK: the Telephone Preference Service, the Corporate Telephone Preference Service, and the Mailing Preference Service. These may help to prevent you receiving unsolicited marketing. Please note, however, that these services will not prevent you from receiving marketing communications that you have consented to receiving.
 
-  * **How you can withhold information**
+  *  **How you can withhold information**
 
 
 
@@ -139,7 +139,7 @@ You may access parts of our Site without providing any data at all.
 
 You may restrict your web browser’s use of Cookies. For more information, see clause 13.
 
-  * **How you can access your data**
+  *  **How you can access your data**
 
 
 
@@ -151,7 +151,7 @@ There is not normally any charge for a subject access request. However, if your 
 
 We will respond to your subject access request within one month of receiving it. Normally, we aim to provide a complete response, including a copy of your personal data, within that time. In some cases, however, particularly if your request is more complex, more time may be required up to a maximum of three months from the date we receive your request and, if relevant, your fee.
 
-  * **How we use Cookies**
+  *  **How we use Cookies**
 
 
 
@@ -173,13 +173,13 @@ You can choose to delete Cookies on your computer or device at any time; however
 
 You should keep your browser and operating system up-to-date and consult the help and guidance provided by the developer of your browser and manufacturer of your computer or device if you are unsure about adjusting your privacy settings.
 
-  * **Contacting us**
+  *  **Contacting us**
 
 
 
 If you have any questions about our Site or this Policy, please contact us by email at info@cgdlondon.com.
 
-  * **Changes to this Policy**
+  *  **Changes to this Policy**
 
 
 
