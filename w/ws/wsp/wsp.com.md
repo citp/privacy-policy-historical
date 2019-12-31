@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsp.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511154922id_/https%3A//www.wsp.com/en-GL/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsp.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231041132id_/https%3A//www.wsp.com/en-GL/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WSP
 
@@ -133,7 +133,7 @@ When you provide contact data to WSP, including through WSP websites, such as na
 
 Messages sent by WSP Canadian entities
 
-WSP Canadian entities adhere to the [WSP Anti-Spam Commitment](https://web.archive.org/en-GL/legal/anti-spam-commitment). If you are in Canada or if the message is received from a WSP entity operating in Canada, you can further opt-out of receiving marketing related electronic messages by notifying WSP at [unsubscribecanada@wsp.com](mailto:unsubscribecanada@wsp.com). For additional information, contact WSP’s Anti-Spam Compliance Office at [caslcompliance@wsp.com](mailto:caslcompliance@wsp.com). 
+WSP Canadian entities adhere to the WSP Anti-Spam Commitment. If you are in Canada or if the message is received from a WSP entity operating in Canada, you can further opt-out of receiving marketing related electronic messages by notifying WSP at [unsubscribecanada@wsp.com](mailto:unsubscribecanada@wsp.com). For additional information, contact WSP’s Anti-Spam Compliance Office at [caslcompliance@wsp.com](mailto:caslcompliance@wsp.com). 
 
 WSP operates globally and has worldwide affiliates. When you give WSP your Personal Information, it may be transferred, processed and stored on servers in Canada, where WSP’s head office is located, or in other countries in which WSP operates and therefore, your data may be available to government authorities under lawful orders and laws applicable in such foreign jurisdictions. To that extent, such Personal Information may not be afforded the same protections as under the laws of the jurisdiction in which you reside.
 
@@ -189,9 +189,6 @@ WSP complies with this Privacy Policy as well as applicable laws, including the 
 If you have any questions, complaints or concerns about privacy or the security of your Personal Information, please contact the WSP Privacy Office. Where relevant or required, WSP will collaborate with the appropriate regulatory authorities to resolve any complaints or issues regarding Personal Information.
 
 **Privacy Office:**  
-Shoshana Rosenberg, Global Chief Privacy Officer  
-WSP, One Penn Plaza, New York, NY, 10119, USA  
-Telephone: +1 212 465 5724  
 Email: [privacy@wsp.com](mailto:privacy@wsp.com)
 
 WSP may need to make changes to this Privacy Policy from time to time to reflect any changes in data protection and privacy laws and to update you on WSP's privacy practices.
