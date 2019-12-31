@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thebalanceeveryday.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232343id_/https%3A//www.thebalanceeveryday.com/legal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebalanceeveryday.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231215529id_/https%3A//www.thebalanceeveryday.com/legal%23privacy) for the most accurate reproduction.*
 
 # Terms of Use and Policies
 
-Updated May 25, 2018 
+Updated July 3, 2019 
 
-At The Balance, we take online privacy seriously and we respect the concerns of our community of users. In this policy (the "Privacy Policy") we describe our privacy practices with regard to information we collect through TheBalance.com and its affiliated sites, TheBalanceCareers.com, TheBalanceSMB.com, and TheBalanceEveryday.com (collectively, the "Site"), to help you make informed decisions about how you share information when you visit or use the site. 
+At The Balance, we take online privacy seriously and we respect the concerns of our community of users. In this policy (the "Privacy Policy") we describe our privacy practices with regard to information we collect through TheBalance.com and its affiliated sites, TheBalanceCareers.com, TheBalanceSMB.com, and TheBalanceEveryday.com (collectively, the "Site"), to help you make informed decisions about how you share information when you visit or use the site, as well as your rights in determining what we do with the information that we collect or hold about you. 
 
 ### Understanding How Information Is Collected on The Balance
 
@@ -51,11 +51,12 @@ We may use the information gathered on The Balance for various purposes, includi
 Our agents, vendors, consultants, and other service providers may have access to information we collect through the Site to carry out work on our behalf. Those parties are subject to confidentiality obligations and are restricted from using personal data collected through the Site for purposes other than to provide the requested assistance. In addition, we may share information: 
 
   * With our affiliates for internal business purposes; 
+  * With third parties for marketing purposes, including social media networks, data management platforms, and other advertising technology providers; for example, we may match your email address with third parties with whom you have also consented to share your email address and use such match to deliver custom offers or emails to you on the Sites and elsewhere online; 
   * If we are required to do so by law, regulation, or legal process (such as a court order or subpoena); 
-  * In response to requests from government agencies, such as law enforcement authorities; 
+  * In response to requests from government agencies, such as law enforcement authorities, including to meet national security requirements; 
   * If we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity; 
   * With respect to analytics and statistical information, to inform advertisers about the nature of our user base; 
-  * In the event we sell or transfer all or a portion of our business or assets (including a reorganization, dissolution, or liquidation); and 
+  * In the event we sell or transfer all or a portion of our business or assets (including a reorganization, dissolution, or liquidation). In such an event, we will seek to provide you with commercially reasonable notice, e.g., via email and/or notice on our website, of any change in ownership, incompatible new uses of your personal information, and choices you may have regarding your personal information; and 
   * With your consent or at your discretion. 
 
 
@@ -72,7 +73,7 @@ We will retain your personal data only for as long as necessary for the purposes
 
 **Disabling local shared objects (“Flash cookies”).** We may use other kinds of local storage that function similarly, but are stored in different parts of your computer from ordinary browser cookies. Your browser may allow you to disable its HTML5 local storage or delete information contained in its HTML5 local storage. [Click here](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) for details about deleting information contained in "local shared objects" or adjusting related preferences. 
 
-**Options concerning third-party ad networks.** For more information about third-party ad networks and services that use these technologies, you can visit [www.aboutads.info](http://www.aboutads.info/) and [click here](http://aboutads.info/choices) to opt out or to learn more about your options. You also may visit the [NAI's site for additional options](http://www.networkadvertising.org/choices) on how to opt out of interest-based advertising. 
+**Options concerning third-party ad networks.** As described in this Privacy Policy, we and third parties may use cookies and similar tracking technologies to collect information and infer your interests for interest-based advertising purposes. if you would prefer to not receive personalized ads based on your browser or device usage, you may generally opt out of interest-based advertising by clicking [here](http://preferences-mgr.truste.com/). Please note that you will continue to see advertisements, but such advertisements will no longer be tailored to your interests. For more information about third-party ad networks and services that use these technologies, you can visit [www.aboutads.info](http://www.aboutads.info/) and [click here](http://aboutads.info/choices) to opt out or to learn more about your options. You also may visit the [NAI's site for additional options](http://www.networkadvertising.org/choices) on how to opt out of interest-based advertising. 
 
 #### How We Protect Personal Data
 
@@ -115,11 +116,17 @@ You may also write to:
 1500 Broadway, 6th Floor   
 New York, NY 10036 
 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
+
 ### JURISDICTION SPECIFIC PROVISIONS
 
 Our Notice to California Residents
 
 Subject to certain limits, under California law California residents may ask us to provide them with a list of the categories of personal data that we have disclosed to third parties for those third parties’ direct marketing purposes during the preceding calendar year, as well as the identity of those third parties. California residents may contact us as specified in the How to Contact Us section above to make a request for this information.
+
+Our Notice to Nevada Residents
+
+Under Nevada law, Nevada residents may opt out of the sale of certain “covered information” collected by operators of websites or online services. We currently do not sell covered information, as “sale” is defined by such law, and we don’t have plans to sell this information. However, if you would like to be notified if we decide in the future to sell personal information covered by the Act, please go to [NevadaPrivacy@thebalance.com](mailto:NevadaPrivacy@thebalance.com) to provide your name and email address. We may share your data as explained in this privacy policy, such as to enhance your experiences and our services, and those activities will be unaffected by a Nevada do not sell request. You may also have other choices regarding our data practices as set forth elsewhere in this privacy policy.
 
 **If you are located in the European Economic Area (EEA):**
 
@@ -150,9 +157,9 @@ To serve advertising, content and offers to you based on your interests and onli
 To enable our affiliates or service providers to perform certain activities on our behalf; | It is necessary for us to process your personal data in this manner in order to deliver the services and process transactions according to the applicable contract between us. It is also in our legitimate interest to enable our service providers and affiliates to perform certain activities on our behalf. We consider this use to be proportionate and will not be prejudicial or detrimental to you.  
 To notify you of any changes to the Site that may affect you. | It is necessary for us to process your personal data in order to deliver the services and process transactions according to the applicable contract between us.  
     * If we are required to do so by law, regulation, or legal process (such as a court order or subpoena);
-    * In response to requests from government agencies, such as law enforcement authorities;
+    * In response to requests from government agencies, such as law enforcement authorities, including to meet national security requirements;
     * If we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity; and
-    * In the event we sell or transfer all or a portion of our business or assets (including a reorganization, dissolution, or liquidation)
+    * In the event we sell or transfer all or a portion of our business or assets (including a reorganization, dissolution, or liquidation). In such an event, we will seek to provide you with commercially reasonable notice, e.g., via email and/or notice on our website, of any change in ownership, incompatible new uses of your personal information, and choices you may have regarding your personal information;
 | We conduct this processing to comply with our legal obligations and to protect the public interest.  
     * Guard against, identify, and prevent fraud and other criminal activity, claims, and other liabilities; and
     * Comply with applicable legal requirements, law enforcement requests, and our company policies.
