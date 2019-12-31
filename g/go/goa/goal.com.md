@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the goal.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630205312id_/https%3A//www.goal.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goal.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231061834id_/https%3A//www.goal.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
 
-# Perform Media - Privacy Notice | Goal.com
+# DAZN Media - Privacy Notice | Goal.com
 
-**Perform Media - Privacy Notice**
+**DAZN Media - Privacy Notice**
 
 **1\. Introduction**
 
-Perform Media ( **"we"** , **"us"** or **"Perform Media"** ) is a business division of the Perform Group, headquartered in the UK.  Perform Media is a group of companies within the Perform Group which own, operate (either for ourselves or on behalf of third-parties) or represent a number of free-to-use digital sports media properties, which are either websites or mobile applications.  We also operate a video-content streaming service called ePlayer, which allows third-party digital publishers to stream sports video content on their own digital platforms.  In this notice, each of the properties and ePlayer platforms is referred to as a **"platform"**.  When we refer to the **"Service"** in this Privacy Notice, this means the provision of the content on the platforms to the user.
+DAZN Media ( **"we"** , **"us"** or **"DAZN  Media"**) is a business division of the DAZN Group Limited (DAZN Group), headquartered in the UK.  DAZN Media is a group of companies within the DAZN Group which own, operate (either for ourselves or on behalf of third-parties) or represent a number of free-to-use digital sports media properties, which are either websites or mobile applications.  We also operate a video-content streaming service called DAZN Player, which allows third-party digital publishers to stream sports video content on their own digital platforms.  In this notice, each of the properties and DAZN Player platforms is referred to as a **"platform"**.  When we refer to the **"Service"** in this Privacy Notice, this means the provision of the content on the platforms to the user.
 
-This notice explains why Perform Media collects information concerning the users of the platforms (each a **"user"** , **"you"** or **“your”** ), what type of information we collect and how we use that information.  This Privacy Notice applies to any such information collected via any platform which displays it (or a link to it).
+This notice explains why DAZN Media collects information concerning the users of the platforms (each a **"user"** , **"you"** or **“your”** ), what type of information we collect and how we use that information.  This Privacy Notice applies to any such information collected via any platform which displays it (or a link to it).
 
 Additional information for users located in the European Economic Area ( **“EEA”** ), Switzerland and the UK about their rights and other information can be found in the Annex to this Privacy Notice.
 
@@ -16,7 +16,7 @@ This notice has been last updated on 25 May 2018.
 
 **2\. What data we collect**
 
-When a user interacts with any of the platforms, Perform Media may collect certain data about that user.  This data falls into 2 broad categories: (i) data about a user themselves, which the user gives us; and (ii) data about the user, or the way a user interacts with the platforms or Services, which is collected by us electronically (collectively **"User Information"** ).
+When a user interacts with any of the platforms, DAZN Media may collect certain data about that user.  This data falls into 2 broad categories: (i) data about a user themselves, which the user gives us; and (ii) data about the user, or the way a user interacts with the platforms or Services, which is collected by us electronically (collectively **"User Information"** ).
 
 We collect the following User Information in accordance with applicable law:
 
@@ -37,6 +37,8 @@ We collect the following User Information in accordance with applicable law:
 
 We may also collect personal information from a variety of third-party sources.  These include social networks (subject to the user's privacy settings and the privacy policy of the social network, and adopting a “two-click” solution where required), service providers which allow us to verify, enhance or supplement the User Information collected on our platforms, and business partners to whom we are offering a service. 
 
+The platform may include Nielsen’s digital measurement software, which allows users to contribute to market research. To learn more about the data collected by Nielsen’s software and your options you can visit Nielsen measurement Privacy Policy at this [link](https://priv-policy.imrworldwide.com/priv/browser/it/it/optout.html).
+
 **3.  How & why we use the data we collect**
 
 We use the User Information for three main purposes: (i) to operate and improve the platforms and to ensure that we can provide the Services; (ii) to optimise the content on the platforms; and (iii) send marketing and show advertising to our users.
@@ -52,7 +54,7 @@ More specifically, we will use the User Information to do one or more of the fol
   7. send out email alerts, text messages notifications or device notifications in relation to our Service;
   8. send users prizes won via the platforms, and supply services purchased via our platforms;
   9. send notices and invoices to users, and collect payments from them;
-  10. provide third parties such as our third-party digital publishers who deploy ePlayer with statistical and other information about our users as required to operate the platforms or Services;
+  10. provide third parties such as our third-party digital publishers who deploy DAZN Player with statistical and other information about our users as required to operate the platforms or Services;
   11. deal with enquiries and complaints;
   12. provide our commercial partners with information about users’ use of co-branded services, including historical use data;
   13. comply with any legal or regulatory requirements and otherwise to any respond to any relevant regulator or competent authority as required by law;
@@ -68,7 +70,7 @@ More specifically, in relation to advertising:
   * we employ User Information to select and deliver advertising that appears on our platforms, and to allow third-parties (such as ad servers) to do this on our behalf;
   * we employ User Information to select and deliver advertising to users based on the way the user has interacted with our platforms, and to share that information with third-parties to allow them to do so;
   * we may pass User Information to service providers, such as Oracle or Google, to allow them to provide services on our behalf or to partner with us in selecting and serving ads for our advertising partners;
-  * we may pass User Information to advertisers or third-party publishers who display the ePlayer, to allow us to report on the advertising displayed to our users and how users interacted with it;
+  * we may pass User Information to advertisers or third-party publishers who display the DAZN Player, to allow us to report on the advertising displayed to our users and how users interacted with it;
   * we will not employ User Information to make qualitative judgments about individual users, nor make automated decisions in relation to users which could have a significant or legal effect on them, nor will we knowingly engage any third-party to do so.
 
 
@@ -97,7 +99,7 @@ Most web browsers automatically accept cookies, but if you prefer, you can chang
 
 **5\. Disclosure of User Information**
 
-We may share User Information with any member of the Perform group ([www.performgroup.com/](http://www.performgroup.com/)) where this is necessary for business administration purposes in accordance with applicable law.  We may also allow other members of the Perform group to contact users with relevant offers, competitions and latest news (where they have consented to doing so, if required by applicable laws).
+We may share User Information with any member of the DAZN Group (www.dazn.com) where this is necessary for business administration purposes in accordance with applicable law.  We may also allow other members of the DAZN Group to contact users with relevant offers, competitions and latest news (where they have consented to doing so, if required by applicable laws).
 
 We may also share User Information with selected third parties including:
 
@@ -114,7 +116,7 @@ Where relevant, we will disclose User Information and anonymized information ass
 
 **6\. Your right to opt-out**
 
-If you would like us to stop sending you marketing communications you may use the opt-out link here, the unsubscribe link in our marketing communications or by amending your App settings. Although we encourage you to use the opt-out link and App settings because it is automated, you may also contact us [here](mailto:mediacustomerservices@performgroup.com).
+If you would like us to stop sending you marketing communications you may use the opt-out link here, the unsubscribe link in our marketing communications or by amending your App settings. Although we encourage you to use the opt-out link and App settings because it is automated, you may also contact us [here](mailto:mediacustomerservices@dazn.com).
 
 If you, or another user of your device, wish to withdraw your cookies consent at any time, you have the ability to accept or decline cookies by modifying your browser setting. You may also go to www.allaboutcookies.org or www.youronlinechoices.eu if you are in Europe, or to www.aboutads.info/choices if you are anywhere else for instructions on how to disable cookies. You may opt-out from Google Analytics [here](https://tools.google.com/dlpage/gaoptout/). In some instances, when you opt-out, a new cookie (Opt-Out-Cookie) is placed in your web browser. This tells the third party provider to cease data collection from your browser and prevents advertisements from being delivered to you.
 
@@ -138,7 +140,7 @@ Our platforms are not directly intended for children and should not be used by t
 
 **10\. Contact**
 
-Questions, comments and requests regarding this Privacy Notice are welcomed and should be addressed to [mediacustomerservices@performgroup.com](mailto:mediacustomerservices@performgroup.com).
+Questions, comments and requests regarding this Privacy Notice are welcomed and should be addressed to [mediacustomerservices@dazn.com](mailto:mediacustomerservices@performgroup.com).
 
 **11\. Changes**
 
@@ -146,7 +148,7 @@ We reserve the right to change the practices described in this Privacy Notice at
 
 **ANNEX TO PRIVACY NOTICE - INFORMATION FOR EEA, SWISS, UK AND PHILIPPINE INDIVIDUALS**
 
-In order to comply with data privacy regulations in the EEA, Switzerland the UK, and the Philippines, Perform Media provides additional information to its EEA, Switzerland, UK and Philippine based users.
+In order to comply with data privacy regulations in the EEA, Switzerland the UK, and the Philippines, DAZN Media provides additional information to its EEA, Switzerland, UK and Philippine based users.
 
 **What is personal data?**
 
@@ -156,16 +158,16 @@ In order to comply with data privacy regulations in the EEA, Switzerland the UK,
 
 If you use our Service, the Data Controller is:
 
-Perform Media Services Ltd  
+DAZN Media Services Limited  
 Sussex House  
 Plane Tree Crescent  
 Feltham  
 TW13 7HE  
 United Kingdom
 
-Perform Media Services Ltd is registered as a data controller with the Information Commissioner’s Office in the UK (registration number ZA188575).
+DAZN Media Services Limited is registered as a data controller with the Information Commissioner’s Office in the UK (registration number ZA188575).
 
-**What is the legal basis on which Perform relies to process your personal data?**
+**What is the legal basis on which DAZN  relies to process your personal data?**
 
 On some occasions, we process your personal data with your consent (for example, when you agree to participate in our surveys and other activities or when you give us consent to send you marketing communications (adopting a “double-opt-in” where required) or to deal with your enquiries, as set out in paragraph 3 letter (d)).
 
@@ -175,9 +177,9 @@ We also process your personal data when it is in our legitimate interests to do 
 
 Finally, we will process your personal data where we are required to do this by law (for example, where we have to fulfil anti-money laundering requirements or disclose information under a court order), as set out in paragraph 3 letters (f), (g), (k) and (m). 
 
-**How long does Perform keep data?**
+**How long does DAZN  keep data?**
 
-Perform Media keeps your data for only as long as required to provide you with the necessary Services and to carry out the processing set out in this notice, and in line with its obligation under applicable law. This means that we will generally not keep your personal information for longer than six years following your last interaction with us, and the retention period will often be shorter. For example, we may keep your information for marketing purposes for a period of 3 years following the termination or expiry of our relationship, or your last contact with us.
+DAZN Media keeps your data for only as long as required to provide you with the necessary Services and to carry out the processing set out in this notice, and in line with its obligation under applicable law. This means that we will generally not keep your personal information for longer than six years following your last interaction with us, and the retention period will often be shorter. For example, we may keep your information for marketing purposes for a period of 3 years following the termination or expiry of our relationship, or your last contact with us.
 
 **Your rights**
 
