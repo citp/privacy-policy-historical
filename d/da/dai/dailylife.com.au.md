@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailylife.com.au privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630195557id_/https%3A//www.smh.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailylife.com.au privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231013602id_/https%3A//www.smh.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
