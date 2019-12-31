@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haaretz.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231341id_/https%3A//www.haaretz.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haaretz.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231194547id_/https%3A//www.haaretz.com/misc/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - Haaretz - Israel News | Haaretz.com
 
