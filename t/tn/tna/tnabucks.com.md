@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnabucks.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630214910id_/https%3A//www.linkbucks.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnabucks.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231091445id_/https%3A//www.linkbucks.com/policy) for the most accurate reproduction.*
 
 # Linkbucks.com - Make money when people leave your website!
 
