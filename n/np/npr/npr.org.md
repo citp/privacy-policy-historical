@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630071035id_/https%3A//www.npr.org/about-npr/179878450/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231183334id_/http%3A//npr.org/about-npr/179878450/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : NPR
 
@@ -70,7 +70,7 @@ We and our service providers may use the information collected from you (whether
 
 We also may use the information collected from you in other ways, and for other purposes, that are described to you at the point of collection or for which we otherwise have obtained your consent.
 
-**Disclosure of Information**
+******Disclosure of Information**
 
 Subject to the choices you have to control certain collection and uses of information as described in the "Your Choices" section of the Privacy Policy, we reserve the right to share with any third party, in accordance with applicable law, aggregated or other information that does not directly identify you as an individual.
 
