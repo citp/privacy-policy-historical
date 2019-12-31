@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232306id_/https%3A//www.gunbroker.com/c/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231073923id_/https%3A//www.gunbroker.com/c/user/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy at GunBroker.com | GunBroker.com
+# Privacy Policy | GunBroker.com
 
 As used in this Privacy Policy, “personal information” means information that may be used to identify a specific individual, or that is about an identifiable individual, including but not limited to name, email address, phone number or credit card number.  “Aggregate information” refers to combined demographic information which has been derived from personal information but which cannot be reasonably used to identify any individual. 
 
