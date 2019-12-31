@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awwwards.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235424id_/https%3A//www.awwwards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awwwards.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231051532id_/https%3A//www.awwwards.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Awwwards
 
