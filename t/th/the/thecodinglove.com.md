@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thecodinglove.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528154902id_/https%3A//thecodinglove.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecodinglove.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231100017id_/http%3A//thecodinglove.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice
 
-_/* Last updated: 05/20/2018 */_
+_/* Last updated: 09/09/2019 */_
 
 The following privacy notice applies to this website, and any sites which are or might be operated by The coding love, represented by Nicolas Lecointre, registered as a French autoentrepreneur (collectively, the “Websites”).  We may change or update this policy from time to time, and we will notify you of any changes by changing the “last updated” notice set forth above. Accordingly, you should frequently visit this web page. Any updated policy shall be effective immediately after it is posted. These privacy policies exclusively respond to the French law requirements. Any other privacy elements which might be applied in other countries don’t apply for the Websites.
 
@@ -32,7 +32,9 @@ We use cookies or similar tracking technologies, and log file information to: (a
 
 **3.0. Submission of Personal Information.**   You may, of course, decline to submit personally identifiable information through the Websites, in which case you can still view pictures and explore the Websites, but we may not be able to provide certain services to you. You may also change certain personally identifiable information you submit to us by logging into your account.
 
-**3.1. Cookies.** You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies in the browser settings if you prefer. If you choose to decline cookies, you may not be able to sign in or use other Website features or services that depend on cookies. If you choose to accept cookies, your browser may allow you to delete cookies that you have accepted at a later date.
+**3.1. Cookies.**  
+  
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies in the browser settings if you prefer. If you choose to decline cookies, you may not be able to sign in or use other Website features or services that depend on cookies. If you choose to accept cookies, your browser may allow you to delete cookies that you have accepted at a later date.
 
 **3.2. Third Party Networks.** We may allow third-party advertising companies and networks to serve cookies on the Website and to serve ads to you when you visit the Websites. These companies and networks may use the log file information and/or information collected by cookies, Web beacons and similar technologies to provide advertisements about goods and services that they believe may be of interest to you.
 
