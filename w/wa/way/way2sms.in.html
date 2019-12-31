@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the way2sms.in privacy policy that was archived on 2019-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190515085949id_/http%3A//www.way2sms.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the way2sms.in privacy policy that was archived on 2019-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191231202247id_/https%3A//www.way2sms.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8&quot;">
@@ -92,8 +92,8 @@
             <div class="m-main-nav">
                 <a href="send-sms"><span>Free SMS</span></a>
                 <a href="business"><span>Business</span></a>
-                <a href="promote"><span>Promote</span></a>
-                <a href="promote"><span>Voice SMS</span></a>
+<!--                <a href="promote"><span>Promote</span></a>
+                <a href="promote"><span>Voice SMS</span></a>-->
                 <a href="pricing"><span>Pricing</span></a>
 
             </div>
@@ -192,8 +192,8 @@
                     <!--            <li class="free-sms">Free SMS</li>-->
                     <li id="free"><a href="Login">Free SMS</a></li>
                     <li id="bsness"><a href="business">Business</a></li>
-                    <li id="prmt"><a href="promote"> Promote</a></li>
-                    <li id="vocie"><a href="voice-sms"> Voice SMS</a></li>
+<!--                    <li id="prmt"><a href="promote"> Promote</a></li>
+                    <li id="vocie"><a href="voice-sms"> Voice SMS</a></li>-->
                     <li id="pric"><a href="pricing"> Pricing</a></li>
 
                 </ul>
@@ -212,7 +212,7 @@
                                 <a href="Login" class="button button-default">Login</a> 
                             
                         
-                        <a href="user-registration" class="button button-secondary">Register</a>
+                        <a href="https://www.sms4india.com/user-registration" class="button button-secondary">Register</a>
                     </li>
                 
             </ul>
@@ -251,15 +251,15 @@
             
             <div class="page-wrapper">
                 <div class="alert-wrap hidden" id="errorDiv">
-    <div class="alert-msg warning-bg aler-warning">
-        <p id="errorMes">Warning</p>
-        <button id="errorClose" type="button" class="close-btn alertCloseButton" data-dismiss="modal"><span>x</span></button>
+    <div class="alert-msg warning-bg aler-warning d-table wt-100">
+        <p class="d-table-cell pr-20" id="errorMes">Warning</p>
+        <button id="errorClose" type="button" class="d-table-cell close-btn alertCloseButton" data-dismiss="modal"><span>x</span></button>
     </div>
 </div>
 <div class="alert-wrap hidden" id="successDiv">
-    <div class="alert-msg alert-success">
-        <p id="successMes">Success Message here</p>
-        <button id="successClose" type="button" class="close-btn alertCloseButton" data-dismiss="modal"><span>x</span></button>
+    <div class="alert-msg alert-success d-table wt-100">
+        <p class="d-table-cell pr-20" id="successMes">Success Message here</p>
+        <button id="successClose" type="button" class="d-table-cell close-btn alertCloseButton" data-dismiss="modal"><span>x</span></button>
     </div>
 </div>
 
@@ -335,7 +335,7 @@
                                 <input type="hidden" name="urlFrom" id="urlFrom" value="">
                                 <span class="inp-file-custom">
                                     <span class="inp-file-place">No File Choosen</span>
-                                    <span class="inp-select-file hidden text-over"></span>
+                                    <span class="inp-select-file hidden text-over" id="fileNameFeedback"></span>
                                 </span>
                             </label>
                             <b id="feedScreen" class="error hidden"></b>
@@ -644,8 +644,198 @@
     <div class="close" id="audio-close"><button type="button" class="cls-btn pos-rel" data-dismiss="modal" onclick=""><i class="close-butn"></i></button></div>
 </div>
 
+
+
+<div class="mdw-modal mdw-effect-2 mdw-hide" id="modal-busRedirect">
+    <div class="mdw-content">
+        <h3>Redirecting to new site</h3>
+        <div class="mdw-body wallet-rc">
+          
+            <div class="body-inr-cnt align-center">
+               
+                <p>
+                    We would like to inform, that we are redirecting you to our new domain to send a business campaign,
+also want to inform that proceedings to launch the campaign &amp; login credentials remain the same as
+way2sms
+                </p>
+            </div>
+        </div>
+        <div class="mdw-footer">
+            <button type="button" onclick="javascript:redirectBusiness();" class="btn-theme-sm btn-ls text-uppercase">
+                https://www.sms4india.com
+            </button>
+
+        </div>
+    </div>
+    <div class="close"><button type="button" class="cls-btn pos-rel" data-dismiss="modal" onclick="javascript:closeRedirect();" id="closeRedirect"><i class="close-butn"></i></button></div>
+</div>
+
+<div class="mdw-modal mdw-effect-2 mdw-hide" id="modal-apiRedirect">
+    <div class="mdw-content">
+        <h3>Redirecting to new site</h3>
+        <div class="mdw-body wallet-rc">
+          
+            <div class="body-inr-cnt align-center">
+               
+                <p>
+                    We would like to inform, that we are redirecting you to our new domain to send a business campaign,
+also want to inform that proceedings to launch the campaign &amp; login credentials remain the same as
+way2sms.
+                </p>
+            </div>
+        </div>
+        <div class="mdw-footer">
+            <button type="button" onclick="javascript:redirectBusiness();" class="btn-theme-sm btn-ls text-uppercase">
+                https://www.sms4india.com/
+            </button>
+
+        </div>
+    </div>
+    <div class="close"><button type="button" class="cls-btn pos-rel" data-dismiss="modal" onclick="javascript:closeApiRedirect();" id="closeRedirect"><i class="close-butn"></i></button></div>
+</div>
+
+<div class="mdw-modal mdw-effect-2 mdw-hide" id="modal-stopPaidSMS">
+    <div class="mdw-content">
+        <h3>Paid SMS Stopped</h3>
+        <div class="mdw-body wallet-rc">
+          
+            <div class="body-inr-cnt align-center">
+               
+                <p>
+                    You have exceeded the daily free SMS Limit. With only 20 paisa per SMS can send unlimited messages
+by topping up your wallet with minimum 500/-only. For payment, you will be redirected to our new domain
+with same way2sms login credentials
+                </p>
+            </div>
+        </div>
+        <div class="mdw-footer">
+            <button type="button" onclick="javascript:redirectBusiness();" class="btn-theme-sm btn-ls text-uppercase">
+                https://www.sms4india.com/
+            </button>
+
+        </div>
+    </div>
+    <div class="close"><button type="button" class="cls-btn pos-rel" data-dismiss="modal" onclick="javascript:stopPaidSMSService();" id="closeRedirect"><i class="close-butn"></i></button></div>
+</div>
+<!--stopWalletPaidSMS-->
+<div class="mdw-modal mdw-effect-2 mdw-hide" id="modal-stopWalletPaidSMS">
+    <div class="mdw-content">
+        <h3>Redirect to new site</h3>
+        <div class="mdw-body wallet-rc">
+          
+            <div class="body-inr-cnt align-center">
+               
+                <p>
+                    You have exceeded the daily free SMS Limit. Now with 20 paisa per sms you can send unlimited sms from our new domain sms4india.com with the same login credentials.
+                </p>
+            </div>
+        </div>
+        <div class="mdw-footer">
+            <button type="button" onclick="javascript:redirectBusiness();" class="btn-theme-sm btn-ls text-uppercase">
+                https://www.sms4india.com/
+            </button>
+
+        </div>
+    </div>
+    <div class="close"><button type="button" class="cls-btn pos-rel" data-dismiss="modal" onclick="javascript:stopWalletPaidSMSService();" id="closeRedirect"><i class="close-butn"></i></button></div>
+</div>
+<div class="mdw-modal mdw-effect-2 mdw-hide" id="modal-stopScheduleSMS">
+    <div class="mdw-content">
+        <h3>Schedule SMS Stopped</h3>
+        <div class="mdw-body wallet-rc">
+          
+            <div class="body-inr-cnt align-center">
+               
+                <p>
+                    You have exceeded the daily free SMS Limit. With only 20 paisa per SMS can send unlimited messages
+by topping up your wallet with minimum 500/-only. For payment, you will be redirected to our new domain
+with same way2sms login credentials
+                </p>
+            </div>
+        </div>
+        <div class="mdw-footer">
+            <button type="button" onclick="javascript:redirectBusiness();" class="btn-theme-sm btn-ls text-uppercase">
+                https://www.sms4india.com/
+            </button>
+
+        </div>
+    </div>
+    <div class="close"><button type="button" class="cls-btn pos-rel" data-dismiss="modal" onclick="javascript:stopScheduleSMSService();" id="closeRedirect"><i class="close-butn"></i></button></div>
+</div>
+
+<!--walletRedirect-->
+<div class="mdw-modal mdw-effect-2 mdw-hide" id="modal-walletRedirect">
+    <div class="mdw-content">
+        <h3>Redirect to new site</h3>
+        <div class="mdw-body wallet-rc">
+          
+            <div class="body-inr-cnt align-center">
+               
+                <p>
+                    We are happy to inform, that we are redirecting you to our new domain to complete your payment.
+ Login credentials remain the same as way2sms.
+                </p>
+            </div>
+        </div>
+        <div class="mdw-footer">
+            <button type="button" onclick="javascript:redirectBusiness();" class="btn-theme-sm btn-ls text-uppercase">
+                https://www.sms4india.com/
+            </button>
+
+        </div>
+    </div>
+    <div class="close"><button type="button" class="cls-btn pos-rel" data-dismiss="modal" onclick="javascript:closeWalletRedirect();" id="closeRedirect"><i class="close-butn"></i></button></div>
+</div>
+
 <div class="overlay mdw-overlay"></div>
 <script type="text/javascript">
+    function closeRedirect() {
+        $("#modal-busRedirect").addClass("mdw-show");
+        $("#modal-busRedirect").removeClass("mdw-hide");
+        document.rechWI.action = "send-sms";
+        document.rechWI.submit();
+    }
+    
+    function closeApiRedirect() {
+        $("#modal-apiRedirect").addClass("mdw-show");
+        $("#modal-apiRedirect").removeClass("mdw-hide");
+        document.rechWI.action = "send-sms";
+        document.rechWI.submit();
+    }
+    
+    function stopPaidSMSService() {
+        $("#modal-stoppedPaidSMS").addClass("mdw-hide");
+        $("#modal-stoppedPaidSMS").removeClass("mdw-show");
+        document.rechWI.action = "send-sms";
+        document.rechWI.submit();
+    }
+    
+    function stopWalletPaidSMSService() {
+        $("#modal-stopWalletPaidSMS").addClass("mdw-hide");
+        $("#modal-stopWalletPaidSMS").removeClass("mdw-show");
+    }
+    
+    function stopScheduleSMSService() {
+        $("#modal-stopScheduleSMS").addClass("mdw-show");
+        $("#modal-stopScheduleSMS").removeClass("mdw-hide");
+        document.rechWI.action = "send-sms";
+        document.rechWI.submit();
+    }
+    
+    function closeWalletRedirect() {
+        $("#modal-walletRedirect").addClass("mdw-show");
+        $("#modal-walletRedirect").removeClass("mdw-hide");
+        document.rechWI.action = "send-sms";
+        document.rechWI.submit();
+    }
+    
+    function redirectBusiness() {
+        window.open(
+            "https://www.sms4india.com/Login/way2sms",
+            "_blank"
+        )
+    }
+     
     $('#screenShot').bind('change', function () {
         var filename = $("#screenShot").val();
         if (/^\s*$/.test(filename)) {
@@ -721,7 +911,9 @@
         $("#mobileNoF").val("");
         $("#feedError,#mobileError").addClass("hidden");
         $("#feedScreen").addClass("hidden");
-        $("#fileNameFeedback").val("");
+        $("#fileNameFeedback").html("").addClass("hidden");
+        $("#screenShot").val("");
+        $(".inp-file-place").removeClass("hidden");
     }
     $("#closeFeed").click(function () {
         $("#modal-feed").removeClass("mdw-show");
@@ -1065,6 +1257,7 @@
         }
     });
 </script>
+
         <script type="text/javascript">
     $("#closeButton").click(function () {
         $("#mobFreeNav").removeClass("visible");
