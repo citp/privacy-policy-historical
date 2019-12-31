@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verify-email.org privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416133054id_/https%3A//verify-email.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verify-email.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231215219id_/https%3A//verify-email.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
