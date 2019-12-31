@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the compileonline.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624095833id_/https%3A//www.tutorialspoint.com/about/about_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compileonline.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231172215id_/https%3A//www.tutorialspoint.com/about/about_privacy.htm) for the most accurate reproduction.*
 
-# Tutorials Point Privacy Policy
+# About Privacy Policy at Tutorials Point - Tutorialspoint
 
-* * *
-
-* * *
-
-The website **www.tutorialspoint.com** is owned and maintained by **Tutorials Point India Private Limited** , henceforth termed as “we”, “our”, “us”, or the “company”. All the visitors, users, learners, contributors, teachers, and instructors are named as "users"; and the website tutorialspoint.com is termed as "website" everywhere in this document.
+The website **www.tutorialspoint.com** is owned and maintained by **Tutorials Point India Limited** , henceforth termed as “we”, “our”, “us”, or the “company”. All the visitors, users, learners, contributors, teachers, and instructors are named as "users"; and the website tutorialspoint.com is termed as "website" everywhere in this document.
 
 We are committed to protecting your privacy online. This privacy policy explains what information we collect from you or what information you share with us when you visit the website. We review our policy from time to time, so you are advised to check the latest version.
 
@@ -50,12 +46,6 @@ If you as a registered user of our website use or provide services, for example,
 
 Please be informed that the information you supply while making a payment for an availed service is processed through a secure payment gateway and that we do not store such information, including your bank account details, in our server.
 
-## Use of cookies
-
-A cookie is a small file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies can be used by web servers to identity and track users as they navigate different pages on a website and identify users returning to a website. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
-
-Kindly be informed that our website uses cookies to enhance our services based on user preferences. You can set your browser to block cookies, or to warn you before accepting them. Most parts of our website can be accessed even if your cookies are turned off, however you may find there are parts of the website that cannot be accessed with your browser settings blocking the cookies.
-
 ## Links to other websites
 
 Our website contains links to other websites. The users need to take notice of the fact that the linked websites are governed by their own privacy policies and we disclaim any responsibility arising out of your actions on the linked website. We advise users to go through the privacy policy of the linked website and their terms and conditions before sharing any information to these websites.
@@ -82,14 +72,30 @@ We employ the best mechanisms possible to protect your Personal Information, how
 
 In the unlikely event of a breach in security systems, we may notify you through email so that you can take suitable protective measures. You are advised to inform us immediately at contact@tutorialspoint.com in case your user name or password is compromised.
 
+## Third-Party Advertisements
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+
+We do not guarantee correctness, viability, validity and availability of information displayed on our website in the form of advertisements. We do not guarantee merchantability or fitness of the advertised information for any particular purpose.
+
+We declare the advertisers and their clients or allied partners are neither our agents, nor partners. We do not provide guarantee for any published information on behalf of any of the advertisers and their clients or allied partners.
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
 ## International users
 
 This website is operated from India. If you are an international user visiting from other regions having laws governing data collection and use that may differ from the Indian law, please note that you are transferring your personal data to India, which does not have the same data protection laws. By providing your personal data you consent to the use of your personal data for the uses identified above in accordance with this Privacy Policy.
 
-## Contact us
+## Cookies Policy
 
-If you have questions or concerns regarding this Policy, please [contact us](https://www.tutorialspoint.com/about/contact_us.htm).
+We collect cookies to enhance our users experience and we have explained our cookies policy in simple words. You are requested to go through this policy to understand how do we collect and use cookies.
 
-* * *
+[Cookies Policy](https://web.archive.org/about/about_cookies.htm)
 
-* * *
+## Updates & Contact Info
+
+From time to time, we may update this Policy. If we do, we’ll notify you by posting the policy on our site with a new effective date. If we make any material changes, we’ll take reasonable steps to notify you in advance of the planned change.
+
+If you have any questions about this privacy policy, please email us at contact@tutorialspoint.com
+
+Last updated: 4th Nov 2019
