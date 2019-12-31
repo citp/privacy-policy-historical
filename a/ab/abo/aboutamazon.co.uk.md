@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aboutamazon.co.uk privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403233122id_/https%3A//www.amazon.co.uk/gp/help/customer/display.html/ref%3Dfooter_privacy%3Fie%3DUTF8%26nodeId%3D201909010) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutamazon.co.uk privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231213202id_/https%3A//www.amazon.co.uk/gp/help/customer/display.html/ref%3Dfooter_privacy%3Fie%3DUTF8%26nodeId%3D201909010) for the most accurate reproduction.*
 
 # Amazon.co.uk Help: Privacy Notice
 
-Last Updated: 22 March 2019.
+Last Updated: 23 September 2019.
 
 To view a summary of the previous Privacy Notice please [click here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=202025290). 
 
@@ -27,7 +27,7 @@ We know that you care how information about you is used and shared and we apprec
 
 ##  Controllers of Personal Information
 
-Amazon Europe Core SARL, Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL, all four at 38 avenue John F. Kennedy, L-1855, Luxembourg and Amazon Video Limited of 1 Principal Place, Worship Street, London, EC2A 2FA, UK (together "Amazon Europe") are data controllers of personal information collected and processed through Amazon Services. Details can be found ****here. 
+Amazon Europe Core SARL, Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL, all four at 38 avenue John F. Kennedy, L-1855, Luxembourg and Amazon Digital UK Limited of 1 Principal Place, Worship Street, London, EC2A 2FA, UK (together "Amazon Europe") are data controllers of personal information collected and processed through Amazon Services. Details can be found ****here. 
 
 ##  EU-US and Swiss-US Privacy Shield
 
@@ -55,7 +55,7 @@ _**We process your personal information to operate, provide, and improve the Ama
   * **Provide voice services**. When you use our voice services, we process your voice input and other personal information to respond to your requests, provide the requested service to you, and improve Amazon Services. For more information about Alexa voice services click [here](https://www.amazon.co.uk/gp/help/customer/display.html/?nodeId=GA7E98TJFEJLYSFR)
   * **Comply with legal obligations.** In certain cases, we have a legal obligation to collect and process your personal information. For instance, we collect from sellers information regarding place of establishment and bank account information for identity verification and other purposes. 
   * **Communicate with you.** We use your personal information to communicate with you in relation to Amazon Services via different channels (e.g., by phone, email, chat).
-  * **Advertising.** We use your personal information to display interest-based ads for features, products, and services that might be of interest to you. To learn more, please read our [Interest-Based Ads notice](https://www.amazon.co.uk/gp/BIT/InternetBasedAds).
+  * **Advertising.** We use information such as your interactions with Amazon sites, content, or services to display interest-based ads for features, products, and services that might be of interest to you. We do not use information that personally identifies you to display interest-based ads. To learn more, please read our [Interest-Based Ads notice](https://www.amazon.co.uk/gp/BIT/InternetBasedAds).
   * **Fraud Prevention and Credit Risks.** We process personal information to prevent and detect fraud and abuse in order to protect the security of our customers, Amazon Europe, and others. We may also use scoring methods to assess and manage credit risks.
   * **Purposes for which we seek your consent.** We may also ask for your consent to process your personal information for a specific purpose that we communicate to you. When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time and we will stop processing of your data for that purpose.
 
@@ -222,30 +222,10 @@ Examples of information you can access through Amazon Services include:
 
 ##  **EU-US and Swiss-US Privacy Shield**
 
-Amazon.com, Inc. and certain of its controlled US affiliates (together, the Amazon Group Companies, or "We") participate in the EU-US and Swiss-US Privacy Shield Frameworks regarding the collection, use, and retention of personal information from European Union member countries, the United Kingdom, and Switzerland. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, see [he ****re](https://www.commerce.gov/tags/eu-us-privacy-shield).
+Amazon.com, Inc. and certain of its controlled US affiliates (together, the [Amazon Group Companies](https://www.amazon.com/gp/help/customer/display.html?nodeId=202137190), or "We") participate in the EU-US and Swiss-US Privacy Shield Frameworks regarding the collection, use, and retention of personal information from European Union member countries, the United Kingdom, and Switzerland. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, see [he ****re](https://www.commerce.gov/tags/eu-us-privacy-shield).
 
 If you have any inquiries or complaints about our handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at: privacyshield@amazon.com. We will respond to your inquiry promptly. If we are unable to satisfactorily resolve any complaint relating to the Privacy Shield, or if we fail to acknowledge your complaint in a timely fashion, you can submit your complaint to TRUSTe, which provides an independent third-party dispute resolution service based in the United States. TRUSTe has committed to respond to complaints and to provide appropriate recourse at no cost to you. To learn more about TRUSTe's dispute resolution services or to refer a complaint to TRUSTe, visit [here](https://www.truste.com/consumer-resources/). If neither Amazon nor TRUSTe resolves your complaint, you may pursue binding arbitration through the Privacy Shield Panel. To learn more about the Privacy Shield Panel, see [here](https://www.commerce.gov/tags/eu-us-privacy-shield). 
 
 As explained here we sometimes provide personal information to third parties to perform services on our behalf. If we transfer personal information received under the Privacy Shield to a third party, the third party's access, use, and disclosure of the personal data must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage.
 
 You can review our Privacy Shield registration [here](https://www.privacyshield.gov/participant?id=a2zt0000000TOWQAA4). The Amazon Group Companies are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-##  **Amazon Group Companies**
-
-As of October 20, 2017, the following entities are included in Amazon.com, Inc.'s Privacy Shield Certification:
-
-Amazon.com, Inc.
-
-Amazon.com Services, Inc.
-
-Amazon Media Group LLC
-
-Amazon Web Services, Inc.
-
-Audible, Inc.
-
-Amazon Corporate LLC
-
-Amazon Digital Services LLC
-
-Amazon Services LLC
