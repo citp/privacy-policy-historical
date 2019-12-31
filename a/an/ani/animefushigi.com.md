@@ -1,133 +1,253 @@
-> *The following text is extracted and transformed from the animefushigi.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320042525id_/http%3A//watchanime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animefushigi.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231193226id_/https%3A//www.cloudflare.com/privacypolicy) for the most accurate reproduction.*
 
-# WatchAnime.com Privacy Policy - Watch Anime
+# Privacy Policy | Cloudflare
 
-Last Updated: Jan, 12th, 2016
+****This Privacy Policy is effective as of October 31, 2019.****
 
-WatchAnime, Inc. respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. These privacy policies (the “Privacy Policy”) are intended to describe for you, as an individual who is a user of WatchAnime.com or any of our related sites, mobile and connected TV applications, or other online services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
+_We have updated our October 31, 2019 privacy policy to address new products and services, to list our Portuguese entity as our legal representative entity in the EU, to address the new California Consumer Privacy Act (CCPA), and to add to this Policy the statements we previously listed separately in our[Privacy Shield Framework Statement](https://www.cloudflare.com/privacyshield/ "Privacy Shield Statement"). In addition, in light of the United Kingdom leaving the European Union (Brexit), we have made changes to clarify our commitment to protect the personal data we receive from the United Kingdom after Brexit._
 
-We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our websites or any of our applications, you are accepting the practices described in this Privacy Policy. WatchAnime, Inc. is a part of the Vitzo family of businesses (www.vitzo.com).
+* * *
 
-If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
+_This Cloudflare Privacy Policy (“ **Policy** ”) outlines the information that Cloudflare, Inc. (“ **Cloudflare** ”, “ **we** ”, “ **us** ” or “ **our** ”) gathers, how we use that information, and the options you have to access, correct, or delete such information._
 
-### Information We Collect About You
+* * *
 
-**In General.** We may collect personal information that can identify you, such as your name and email address, and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.
+## CLOUDFLARE’S PROMISE
 
-  * **Information you provide.** We may collect and store any personal information you enter on our website or provide to us in some other manner, including personal information that may be contained in any video, comment or other submission you upload or post to the website. This includes identifying information, such as your name, address, e-mail address, and telephone number; your likeness; and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender and age, and other demographic information.
-  * **Information from other sources.** We may also periodically obtain both personal and non-personal information about you from other Vitzo businesses, business partners, contractors and other third parties. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information.
-  * **Information about others.** We may also collect and store personal information about other people that you provide to us. If you use our website to send others (friends, relatives, colleagues, etc.) a product as a gift, information that may interest them or messages (such as invitations) through our system, we may store your personal information, and the personal information of each such recipient. Similarly, if you use our website to upload, share and/or distribute content (including videos, comments or other submissions), and such content contains personal information about others, such information may be stored in order to allow for such uploading, sharing and/or distribution.
+Our mission to help build a better Internet is rooted in the importance we place on establishing trust with our Customers, users, and the Internet community globally. To earn and maintain that trust, we commit to communicating transparently, providing security, and protecting the privacy of data on our systems.
 
+We keep your personal information personal and private. We will not sell or rent your personal information to anyone. We will not share or otherwise disclose your personal information except as necessary to provide our Services or as otherwise described in this Policy without first providing you with notice and the opportunity to consent.
 
+## 1\. POLICY APPLICATION.
 
-**Use of cookies and other technologies to collect information.** We use various technologies to collect information from your computer and about your activities on our site. For more information on Cookies, please see our Cookie Policy.
+This Policy applies to Cloudflare’s collection, use, and disclosure of the information of the following categories of data subjects:
 
-  * **Information collected automatically.** We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see “Cookies” below), and the referring website address.
-  * **Cookies.** When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website.
-  * **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
-
-
-
-### How We Use the Information We Collect
-
-**In General.** We may use information that we collect about you to:
-
-  * deliver the products and services that you have requested;
-  * manage your account and provide you with customer support;
-  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
-  * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our sister Vitzo companies or other third parties;
-  * develop and display content and advertising tailored to your interests on our site and other sites;
-  * verify your eligibility and deliver prizes in connection with contests and sweepstakes;
-  * enforce our terms and conditions;
-  * manage our business and
-  * perform functions as otherwise described to you at the time of collection.
+  * **Attendees:** Those who provide their information to Cloudflare or Cloudflare representatives when they attend or register to attend Cloudflare-sponsored events or other events at which Cloudflare participates.
+  * **Website Visitors:** Those who visit our Websites and who may opt to provide an email address to receive communications from Cloudflare. For the purposes of this Policy, “Websites” shall refer collectively to [www.cloudflare.com](http://www.cloudflare.com/) as well as any other websites Cloudflare owns and that link to this Policy. For clarity, “Websites” does not include any sites owned or operated by our Customers, including where we serve as Registrar.
+  * **Customers:** Those who register on their own or on behalf of an entity or organization to use any of the Cloudflare Services (as defined below), including administrators on a Customer account. For the purposes of this Policy, “Services” shall refer to all of the cloud-based solutions offered, marketed or sold by Cloudflare or its authorized partners that are designed to increase the performance, security and availability of Internet properties, applications and networks, along with any software, software development kits and application programming interfaces ("APIs") made available in connection with the foregoing.
+  * **Public Resolver Users:** Those who use Cloudflare’s Public Recursive Domain Name System (“DNS”) Resolver services, such as the 1.1.1.1 Resolver. [Learn more about 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/privacy-policy/privacy-policy/ "1.1.1.1 Commitment to Privacy").
+  * **End Users:** Those who access or use our Customers’ domains, websites, application programming interfaces, mobile applications, Internet connected devices and whose information we process in order to provide the Services to our Customers pursuant to our agreements with them.
+  * **Registrants:** Users of Cloudflare’s domain registrar services. Cloudflare is an [ICANN](https://www.icann.org/ "ICANN")-accredited registrar and complies with the [2013 Registrar Accreditation Agreement](https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en "2013 RAA") (“RAA”).
 
 
 
-**Financial information.** We may use financial information or payment method to process payment for any purchases, subscriptions or sales made on our website, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
+This Policy does not apply to “Application Users”—those individuals who use Cloudflare’s consumer-facing applications, such as the 1.1.1.1 +Warp Application. See the [Application Privacy Policy](https://www.cloudflare.com/application/privacypolicy/) for more information about the data collection and use practices for Cloudflare's consumer-facing applications. 
 
-### With Whom We Share Your Information
+This Policy also does not apply to our Customers’ domains, websites, APIs, mobile applications, and networks, which may have their own terms and privacy policies. Our Customers are solely responsible for establishing policies for and ensuring compliance with all applicable laws and regulations, including those relating to the collection of personal information, in connection with the use of our Services by End Users with whom our Customers interact.
 
-We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our website or while using our services.
+Cloudflare’s Websites and Services are not intended for, nor designed to attract, individuals under the age of eighteen. Cloudflare does not knowingly collect personally identifiable information from any person under the age of eighteen.
 
-**Personal information.** We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
+## 2\. INFORMATION WE COLLECT (Categories of Data Subjects).
 
-  * **Authorized service providers:** We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
-  * **Seat Access.  **If you are a PRO or Business subscriber, you may grant access to your account to others subject to a seat limit. By doing so, you will be sharing all information related to the content and settings of your account except for your account credentials.
-  * **Business partners:** When you make purchases, reservations or engage in promotions offered through our website or our services, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant’s offer or program, you authorize us to provide your email address and other information to that merchant.
-  * **Direct mail partners.** From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by clicking here.
-  * **Other Vitzo  businesses.** We are part of the Vitzo family of businesses. We may share information we collect, including personal information, with the Vitzo companies. Sharing information with our Vitzo companies enables us to provide you with information about a variety of products and services that might interest you.
-  * **Other Situations.** We also may disclose your information: 
-    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
-    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, report or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
-    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+### Attendees:
+
+  * We may ask for and collect personal information such as your name, address, phone number and email address when you register for or attend a sponsored event or other events at which Cloudflare (and/or its representatives) participates. 
 
 
 
-Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
+### Website Visitors:
 
-**Aggregated and non-personal information.** We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties and our Vitzo sister companies to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
+  * **Name, email address, and other contact information.** We ask for and—at your option—collect personal information from you when you submit web forms on our Websites, including opportunities to sign up for and agree to receive email communications from us. We also may ask you to submit such personal information if you choose to use interactive features of the Websites, including participation in surveys, contests, promotions, sweepstakes, requesting customer support, or otherwise communicating with us. We will send such communications in accordance with applicable law.
 
-### Third-Party Websites
+  * **Log Files.** Just as when you visit and interact with most websites and services delivered via the Internet, when you visit our Websites, including the Cloudflare Community Forum, we gather certain information and store it in log files. This information may include but is not limited to Internet Protocol (IP) addresses, system configuration information, URLs of referring pages, and locale and language preferences.
 
-There are a number of places on our website or through our services where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement or a search result on our website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the “privacy” link typically located at the bottom of the webpage you are visiting.
+  * **Cookies and Other Tracking Technologies.** We may use cookies and other information-gathering technologies for a variety of purposes, such as providing us with information about how you interact with our Websites and assisting us in our marketing efforts. You can control how websites use cookies by configuring your browser's privacy settings (please refer to your browser's help function to learn more about cookie controls). Note that if you disable cookies entirely, Cloudflare’s Websites may not function properly. We may also use cookies and similar technologies to provide you advertising on third-party sites based upon your browsing activities and interests. If you wish not to have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://optout.networkadvertising.org/?c=1 "NAI US") (or if located in the European Union, the United Kingdom, or Switzerland, click [here](https://www.youronlinechoices.eu/ "NAI EU")). For more information about the cookies Cloudflare uses and your privacy choices, please see our [Cookie Policy](https://www.cloudflare.com/cookie-policy/ "Cookie Policy").
 
-### How You Can Access Your Information
-
-If you have an online account with us, you have the ability to review and update your personal information online by logging into your account. You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
-
-If you have an account with us, you also may choose to close your account (and remove any of your content) at any time by following the directions provided here or contacting customer support at: info@watchanime.com. After you close your account, you will not be able to sign in to our website or access any of your personal information. However, you can open a new account at any time. If you close your account, we may still retain certain information associated with your account for analytical purposes and record keeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our website or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.
-
-### Your Choices About Collection and Use of Your Information
-
-  * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our website.
-  * When you register on our website you may be given a choice as to whether you want to receive email messages and/or newsletters about product updates, improvements, special offers, or containing special distributions of content by us. At any time you can choose to no longer receive commercial or promotional emails or newsletters from us by clicking on the following link and entering the email address associated with your account: click here. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that, changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as a credit card processing partner or an event provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
-  * You may tell us not to share your personal information with third parties or the Vitzo family of companies for direct marketing purposes by clicking on the following link and entering the email address associated with your account: click here.
+  * **Interactive Areas.** The Websites may offer publicly accessible blogs, community forums, comments sections, discussion forums, or other interactive features (“Interactive Areas”). If you choose to participate in any of these Interactive Areas, please be aware that any information that you post in an Interactive Area might be read, collected, and used by others who access it. If you wish to remove your personal information from any of our Interactive Areas, please see the Section 8, below.
 
 
 
-### How We Protect Your Personal Information
 
-We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
+### Customers:
 
-We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission’s website at http://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.
+  * **Customer Account Information.** When you register for a Cloudflare account, we collect your email address. We will also ask you to enter your website domain in order to participate in the Services. In addition, when you have a domain and use the Services, we collect information about how you configure your account and the Services for your domain(s) (e.g., firewall settings), and we maintain logs of administrator activity on your domain(s). We refer to all of this information collectively as “Customer Account Information” for the purposes of this Policy. Customer Account Information is required to identify you as a Customer and permit you to access your account(s). By voluntarily providing us with such Customer Account Information, you represent that you are the owner of such personal data or otherwise have the requisite consent to provide it to us.
 
-### User Submissions
+  * **Payment Information.** You are not required to enter your payment information unless and until you decide to continue with a paid subscription to our Services. When you sign up for one of our paid Services, you must provide payment and billing information. The information you will need to submit depends on which payment method you choose. For example, if you pay with a credit card, we will collect your card information and billing address, although we do not store full credit card numbers or personal account numbers.
 
-We may provide areas on our websites where you can post information about yourself and others and communicate with others; upload content (e.g. pictures, videos, audio files, etc.); and post comments or reviews of content found on the Website. Such postings are governed by our [Terms and Conditions](https://web.archive.org/terms) of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address or share it with another user, you may receive unsolicited messages. We cannot control who reads your postings or what other users may do with the information you post or otherwise share with other users, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information.
 
-### Children’s Privacy
 
-Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13.
 
-### Visiting Our Websites from Outside the United States
+### Public Resolver Users:
 
-This Privacy Policy is intended to cover collection of information on or via our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
+  * We will collect limited DNS query data that is sent to the resolvers. This data does not contain user IP addresses or any other personally identifiable information, and the bulk of the limited query data is only stored for 24 hours. You can learn more about our 1.1.1.1 Public Resolver commitment to privacy [here](https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/ "1.1.1.1 Commitment to Privacy") and [here](https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/privacy-policy/privacy-policy/ "1.1.1.1 FAQ"). Our data handling practices for our 1.1.1.1 Mobile Application are somewhat different and are described [here](https://www.cloudflare.com/application/privacypolicy/).
 
-### No Rights of Third Parties
 
-This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
 
-### Changes to This Privacy Policy
+### End Users:
 
-We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the “Last Updated” date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an email to the email address you most recently provided us in your account, profile or registration (unless we do not have such an email address), and/or by prominently posting notice of the changes on our website. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
+  * Cloudflare processes End Users’ information on behalf of our Customers when End Users use our Customers’ domains, websites, APIs, mobile applications, Internet connected devices, and networks.
 
-### How to Contact Us
+  * This information may include but is not limited to IP addresses, system configuration information, and other information about traffic to and from Customers’ websites or networks (collectively, “Log Data”). We collect and use Log Data to operate, maintain, and improve our Services in performance of our obligations under our Customer agreements. 
 
-If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us: info@watchanime.com
 
-### Cookies:
 
-A cookie is a small text file that is stored on a user’s computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time.
 
-For example, when you sign in to our website, we will record your user or member ID and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
+When Cloudflare is a reverse proxy, our IP addresses may appear in WHOIS and DNS records for websites using our Services. We are a conduit for information controlled by others. It is our Customers and their users who are responsible for the content transmitted across our network (e.g., images, written content, graphics, etc.).
 
-You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
+### Registrants:
 
-We may allow third-parties, including Vitzo companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party’s privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies (www.networkadvertising.org).
+  * We collect data such as domain name and status, contact information (such as name, organization, address, phone number and email address), name server, DNSSEC, and Form of Approval (i.e., full WHOIS capture at time of transfer into our system, including the IP address that initiated the transfer).
 
-### Web Beacons:
 
-Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
 
-Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
+Cloudflare also stores server and network activity data, and observations and analyses derived from traffic data collected by Cloudflare in the course of providing the Services (together, “Operational Metrics”). Examples of Operational Metrics include service uptime and service availability metrics, request volumes, error rates, cache rates, and IP threat scores. 
+
+## 3\. HOW WE USE INFORMATION WE COLLECT.
+
+Cloudflare only processes personal information in a way that is compatible with and relevant to the purpose for which it was collected or authorized. As a general matter, for all categories of data described in Section 2 above except Public Resolver User data, we may use the information (including personal information, to the extent applicable) to:
+
+  * Provide, operate, maintain, improve, and promote the Website and Services for all users of the Website and Services;
+  * Enable you to access and use the Website and Services;
+  * Process and complete transactions, and send you related information, including purchase confirmations and invoices;
+  * Send transactional messages, including responses to your comments, questions, and requests; provide customer service and support; and send you technical notices, updates, security alerts, and support and administrative messages;
+  * Send commercial communications, in accordance with your communication preferences, such as providing you with information about products and services, features, surveys, newsletters, offers, promotions, contests, and events about us and our partners; and send other news or information about us and our partners. See Section 9 below for information on managing your communication preferences.
+  * Process and deliver contest or sweepstakes entries and rewards;
+  * Monitor and analyze trends, usage, and activities in connection with the Websites and Services and for marketing or advertising purposes;
+  * Comply with legal obligations as well as to investigate and prevent fraudulent transactions, unauthorized access to the Services, and other illegal activities;
+  * Personalize the Websites and Services, including by providing features or content that match your interests and preferences; and
+  * Process for other purposes for which we obtain your consent.
+
+
+
+**Public Resolver Users.** We use information we collect from Public Resolver Users to operate and improve the Cloudflare Resolver, such as to assist us in our debugging efforts if an issue arises. We do not use or store any Public Resolver User personal information. We will not combine any information collected from DNS queries with any other Cloudflare or third party data in any way that can be used to identify individual end users. [Learn more](https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/privacy-policy/privacy-policy/ "1.1.1.1 Commitment to Privacy").
+
+**Information from Third Party Services.** We may combine information we collect as described above with personal information we obtain from third parties. For example, we may combine information entered on a Cloudflare sales submission form with information we receive from a third-party sales intelligence platform vendor to enhance our ability to market our Services to Customers or potential Customers.
+
+## 4\. DATA AGGREGATION.
+
+Cloudflare may aggregate data we acquire about our Customers and their End Users, including the Log Data described above. For example, we may assemble data to determine how Web crawlers index the Internet and whether they are engaged in malicious activity or to compile web traffic reports and statistics. Non-personally identifiable, aggregated data may be shared with third parties.
+
+## 5\. NOTICE TO EU RESIDENTS.
+
+Cloudflare is a data controller for the Personal Data collected from all categories of data subjects listed above except for the Personal Data of End Users. Cloudflare processes the Personal Data of End Users on behalf of its Customers. 
+
+If you are an individual from the European Economic Area (the “EEA”), the United Kingdom or Switzerland, please note that our legal basis for collecting and using your personal information will depend on the personal information collected and the specific context in which we collect it. We normally will collect personal information from you only where: (a) we have your consent to do so, (b) where we need your personal information to perform a contract with you (e.g. to deliver the Cloudflare Services you have requested), or (c) where the processing is in our legitimate interests. Please note that in most cases, if you do not provide the requested information, Cloudflare will not be able to provide the requested service to you.
+
+In some cases, we may also have a legal obligation to collect personal information from you, or may otherwise need the personal information to protect your vital interests or those of another person. Where we rely on your consent to process your personal data, you have the right to withdraw or decline consent at any time. Where we rely on our legitimate interests to process your personal data, you have the right to object.
+
+If you have any questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us at [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com).
+
+## 6\. INFORMATION SHARING.
+
+We work with other companies who help us run our business (“Service Providers”). These companies provide services to help us deliver customer support, process credit card payments, manage and contact our existing Customers as well as sales leads, provide marketing support, and otherwise operate and improve our Services. These Service Providers may only process personal information pursuant to our instructions and in compliance both with this Privacy Policy and other applicable confidentiality and security measures and regulations, including our obligations under the EU-US and Swiss-US Privacy Shield frameworks described in Section 7, below.
+
+Specifically, we do not permit our Service Providers to sell any personal information we share with them or to use any personal information we share with them for their own marketing purposes or for any purpose other than in connection with the services they provide to us.
+
+In addition to sharing with Service Providers as described above, we also may share your information with others in the following circumstances:
+
+  * Within the Cloudflare Group (defined for the purposes of this Policy as Cloudflare Inc. (United States) and its subsidiaries listed Section 16;
+  * With our resellers and other sales partners who may help us distribute the Services to Customers;
+  * With an app developer when you install an app from our App Marketplace;
+  * In the event of a merger, sale, change in control, or reorganization of all or part of our business;
+  * When we are required to disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. (Learn more about how we handle law enforcement requests [here](https://www.cloudflare.com/transparency/ "Transparency"));
+  * Where we have a good-faith belief sharing is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Website Terms of Use, Self-Serve Subscription Agreement, and/or Enterprise Subscription Terms of Service; or as otherwise required to comply with our legal obligations; or
+  * As you may otherwise consent from time to time.
+
+
+
+**Public Resolver Users:** [Learn more](https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/privacy-policy/privacy-policy/ "1.1.1.1 FAQ") about information sharing specific to the 1.1.1.1 Resolver.
+
+**Registrants:** If you purchase a domain name from Cloudflare’s registrar service, ICANN (The Internet Corporation for Assigned Names and Numbers) and the relevant registry operators overseeing the domain’s top-level domain require us to collect registrant data for the purposes of domain registration and via the WHOIS protocol. We may also be required to share this public data with ICANN, the relevant registry operators and other such providers with whom we contract in order to provide our domain name services, and additionally upon the legitimate request of third parties. Registrant data may include the domain name, registrant name and other contact information, and domain name server information. [Learn more](https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/privacy-policy/privacy-policy/ "1.1.1.1 Commitment to Privacy"). 
+
+**Notice to California Residents:** We do not sell, rent, or share personal information with third parties as defined under the California Consumer Privacy Act of 2018 (California Civil Code Sec. 1798.100 et seq.), nor do we do not sell, rent, or share personal information with third parties for their direct marketing purposes as defined under California Civil Code Sec. 1798.83.
+
+## 7\. INTERNATIONAL INFORMATION TRANSFERS.
+
+Cloudflare is a U.S.-based, global company. We primarily store your information in the United States and the European Economic Area. To facilitate our global operations, we may transfer and access such information from around the world, including from other countries in which the Cloudflare Group has operations for the purposes described in this Policy.
+
+Whenever Cloudflare shares personal information originating in the EEA, the United Kingdom or Switzerland with a Cloudflare entity outside the EEA, the United Kingdom or Switzerland, it will do so on the basis of the EU standard contractual clauses (adjusted to address transfers from the United Kingdom) or the Privacy Shield Frameworks detailed in this section.
+
+If you are accessing or using our Websites or Services or otherwise providing information to us, you are agreeing to the transfer of your personal information to the United States and other jurisdictions in which we operate.
+
+**Privacy Shield.** Cloudflare is [certified](https://www.privacyshield.gov/participant?id=a2zt0000000GnZKAA0&status=Active "Privacy Shield Certification") under both the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EEA, the United Kingdom and Switzerland to the United States, respectively (“Privacy Shields”). We commit to periodically review and verify the accuracy of our policies and our compliance with the Privacy Shields. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. For more information on the EU-U.S. Privacy Shield or Swiss-U.S. Privacy Shield, please visit the U.S. Department of Commerce’s Privacy Shield website at: <https://www.privacyshield.gov/welcome>.
+
+If you believe that we maintain copies of your personal data within the scope of the Privacy Shields, you may direct any inquiries to [SAR@cloudflare.com](mailto:SAR@cloudflare.com) or via mail to: Cloudflare, Inc., 101 Townsend St., San Francisco, CA 94107, Attn: Data Protection Officer. We will respond to your inquiry within 30 days of receipt and verification of your identity. 
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. If neither we nor our dispute resolution provider are able to resolve your complaint, as a last resort you may engage in binding arbitration through the Privacy Shield Panel.
+
+Our commitments under the Privacy Shields are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. We may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Under such circumstances, we may be prohibited by law, court order or other legal process from providing notice of disclosure.
+
+## 8\. DATA SUBJECT RIGHTS AND CHOICES.
+
+  * **Attendees, Website Visitors, Customers, and Registrants:** You have the right to access, correct, update, export, or delete your personal information. You may email us at [SAR@cloudflare.com](mailto:SAR@cloudflare.com) with any such subject access requests (“SAR”), and we will respond within thirty (30) days. Customers also can access, correct, export, or update their Account Information by editing their profile or organization record at cloudflare.com.
+
+  * **Public Resolver Users:** We do not retain any personally identifiable information about Public Resolver Users that would be subject to the data subject rights described above.
+
+  * **End Users:** Cloudflare has no direct relationship with End Users. Even where “Cloudflare” may be indicated as the authoritative name server for a domain, unless Cloudflare is the owner of that domain, we have no control over a domain’s content. Accordingly, we rely upon our Customers to comply with the underlying legal requirements for subject access requests. If an End User requests that we access, correct, update, or delete their information, or no longer wishes to be contacted by one of our Customers that use our Services, we will direct that End User to contact the Customer website(s) with which they interacted directly. Our Customers are solely responsible for ensuring compliance with all applicable laws and regulations with respect to their website users.
+
+
+
+
+For any SAR, we will need to verify a requestor is inquiring about their own information before we can assist. Where a SAR may implicate the personal data of another individual, we must balance the request against the risk of violating another person’s privacy rights. We will comply with SARs to the extent required by applicable law or the US-Swiss or US-EU Privacy Shield. In the EEA, the United Kingdom and Switzerland, you also have the right to lodge a complaint with a supervisory authority.
+
+## 9\. COMMUNICATION PREFERENCES.
+
+Cloudflare will send you commercial communications based on the communication preferences in your account settings. Cloudflare also will send you service-related communications. You may manage your receipt of commercial communications by clicking on the “unsubscribe” link located on the bottom of such emails, through your account settings if you have a Cloudflare account, or you may send a request to [unsubscribe@cloudflare.com](mailto:unsubscribe@cloudflare.com). 
+
+## 10\. DATA SECURITY, DATA INTEGRITY AND ACCESS.
+
+We take all reasonable steps to protect information we receive from you from loss, misuse or unauthorized access, disclosure, alteration and/or destruction. We have put in place appropriate physical, technical and administrative measures to safeguard and secure your information, and we make use of privacy-enhancing technologies such as encryption. If you have any questions about the security of your personal information, you can contact us at [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com).
+
+## 11\. NOTIFICATION OF CHANGES.
+
+If we make changes to this Policy that we believe materially impact the privacy of your personal data, we will promptly provide notice of any such changes (and, where necessary, obtain consent), as well as post the updated Policy on this website noting the effective date of any changes.
+
+## 12\. BUSINESS TRANSACTIONS.
+
+We may assign or transfer this Policy, as well as information covered by this Policy, in the event of a merger, sale, change in control, or reorganization of all or part of our business.
+
+## 13\. ENGLISH LANGUAGE CONTROLS.
+
+Non-English translations of this Policy are provided for convenience only. In the event of any ambiguity or conflict between translations, the English version is authoritative and controls.
+
+## 14\. DISPUTE RESOLUTION.
+
+If you have an unresolved privacy or data-use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+## 15\. EU REPRESENTATIVE.
+
+Cloudflare Portugal, Unipessoal Lda., further identified in the Contact Information section, is our European Union representative pursuant to Article 27 of the EU General Data Protection Regulation. Cloudflare, Ltd., further identified in the Contact Information section, is our UK representative pursuant to the UK GDPR.
+
+**Cloudflare, Inc.**  
+101 Townsend St.  
+San Francisco, CA 94107  
+Attention: Data Protection Officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+**Cloudflare, Ltd.**  
+County Hall/The Riverside Building  
+Belvedere Road  
+London, SE1 7PB  
+Attention: Data Protection Officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+**Cloudflare Portugal, Unipessoal Lda.**  
+Largo Rafael Bordalo Pinheiro 29  
+1200-369 Lisboa  
+Attention: Data Protection Officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+**Cloudflare Germany GmbH**  
+Rosental 7  
+80331 München  
+Attention: Data Protection Officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+**Cloudflare Pte., Ltd.**  
+182 Cecil Street, #35-01  
+Frasers Tower, Singapore 069547  
+Attention: Data Protection Officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+**Cloudflare Australia Pty Ltd.**  
+333 George St., 5th Floor  
+Sydney, NSW 2000  
+Attention: Data Protection Officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+**Cloudflare (Beijing) Information Technology Co., Ltd.**  
+16 South Guangshun Street  
+Donghuang Building 17th Floor  
+Chaoyang District Beijing 100015  
+Attention: Data Protection Officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
