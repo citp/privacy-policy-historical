@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cladgenius.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508025139id_/https%3A//www.craigslist.org/about/privacy.policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cladgenius.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231175505id_/https%3A//www.craigslist.org/about/privacy.policy) for the most accurate reproduction.*
 
 # craigslist | privacy policy
 
 ## craigslist Privacy Policy (updated July 9, 2015)
 
-[terms of use](https://web.archive.org/web/20190508025139id_/https%3A//www.craigslist.org/about/terms.of.use)  |   [feedback](https://forums.craigslist.org/?forumID=8)
+[terms of use](https://web.archive.org/web/20191231175505id_/https%3A//www.craigslist.org/about/terms.of.use)  |   [feedback](https://forums.craigslist.org/?forumID=8)
 
 This policy details how data about you is used when you access our websites and services (together, "CL") or interact with us. If we update it, we will revise the date, place notices on CL if changes are material, and/or obtain your consent as required by law. 
 
