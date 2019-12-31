@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the file.net privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424122517id_/https%3A//www.file.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file.net privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231234430id_/https%3A//www.file.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,8 @@ III. Information about the data processing
 
 ### I. Information about us as controllers of your data
 
-The party responsible for this website (the "controller") for purposes of data protection law is:
+The party responsible for this website (the "controller") for purposes of data protection law is:  
+
 
 ### II. The rights of users and data subjects
 
@@ -196,6 +197,6 @@ We use the CDN (Content Delivery Network) and SSL encryption protocoll (https) b
 
 #### Contacting us
 
-If you have any questions, just [email us](https://web.archive.org/web/20190424122517id_/https%3A//www.file.net/contact.html).
+If you have any questions, just [email us](https://web.archive.org/web/20191231234430id_/https%3A//www.file.net/contact.html).
 
 This Privacy Policy is effective as of June 19, 2018. The Privacy Policy Statement was provided by the [Law Offices of Weiß & Partner](https://www.ratgeberrecht.eu/leistungen/muster-datenschutzerklaerung.html). We reserve the right to make changes to this privacy policy.
