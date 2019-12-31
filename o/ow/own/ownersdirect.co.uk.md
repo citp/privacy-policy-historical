@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ownersdirect.co.uk privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717203645id_/https%3A//www.homeaway.co.uk/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownersdirect.co.uk privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231013922id_/https%3A//www.homeaway.co.uk/info/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Homeaway UK (Holiday-Rentals)
+# Privacy Policy |
 
 ## Introduction
 
@@ -74,7 +74,7 @@ Specifically, the information we collect automatically may include information l
 
 Collecting this information enables us to better understand the visitors who come to our Online Services, where they come from, and what content on our Online Services is of interest to them. We use this information for our internal analytics purposes and to improve the quality and relevance of our Online Services for our visitors, for example, to customize your user experience, tailor your searches and show you advertisements that may be of interest. We also use this automatic information to prevent and detect fraud.
 
-Some of this information may be collected using cookies and similar tracking technology, as explained further under the heading “Cookies and similar tracking technology” [link].
+Some of this information may be collected using cookies and similar tracking technology, as explained further under the heading “[Cookies and similar tracking technology](https://www.homeaway.co.uk/info/about-us/cookies?icid=IL_AnyStyle_PR_O__cookies_LPRO_hp_footer)”.
 
   * _Information we collect when you use Apps_
 
@@ -122,7 +122,7 @@ We are not responsible for the Owner deducing your identity from the content of 
 
   * _Cookies and similar tracking technology_
 
-We use cookies and similar tracking technology (collectively, “Cookies”) to collect and use personal information about you, including to serve interest-based advertising. For further information about the types of Cookies we and our vendors use, why, and how you can control Cookies, please see our Cookie Policy [link]. We may combine the information you give us with information related to your transactions and information we receive about you from third parties who carry out services on our behalf. The information received via Cookies and similar technologies may allow us to cross track devices and users' clickstream data associated with the Cookies.
+We use cookies and similar tracking technology (collectively, “Cookies”) to collect and use personal information about you, including to serve interest-based advertising. For further information about the types of Cookies we and our vendors use, why, and how you can control Cookies, please see our [Cookie Policy](https://www.homeaway.co.uk/info/about-us/cookies?icid=IL_AnyStyle_PR_O__cookies_LPRO_hp_footer). We may combine the information you give us with information related to your transactions and information we receive about you from third parties who carry out services on our behalf. The information received via Cookies and similar technologies may allow us to cross track devices and users' clickstream data associated with the Cookies.
 
 In general, we will use the personal information we collect from you only for the purposes described in this Privacy Notice or for purposes that we explain to you at the time we collect your personal information.
 
