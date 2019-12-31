@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venturebeat.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220712id_/https%3A//venturebeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venturebeat.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231170236id_/https%3A//venturebeat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VentureBeat
 
@@ -305,7 +305,7 @@
 
 **EU Data Subject Rights**
 
-  1. If you are a resident of the European Economic Area (EEA), you have the right to: (a) request access to your Personal Data and rectification of inaccurate Personal Data; (b) request erasure of your Personal Data; (c) request restrictions on the processing of your Personal Data; (d) object to processing your Personal Data; and/or (e) the right to data portability (“collectively, “Requests”). We can only process Requests from a user whose identity has been verified. To verify your identity, please provide your email address or [URL] when you make a request. For more information about how to get access to Personal Data and for exercising your rights, you can submit a request [here](https://www.venturebeat.com/contact) by selecting the “I am an EU resident and would like to exercise my individual rights” option. You also have the right to lodge a complaint with a supervisory authority.
+  1. If you are a resident of the European Economic Area (EEA), you have the right to: (a) request access to your Personal Data and rectification of inaccurate Personal Data; (b) request erasure of your Personal Data; (c) request restrictions on the processing of your Personal Data; (d) object to processing your Personal Data; and/or (e) the right to data portability (“collectively, “Requests”). We can only process Requests from a user whose identity has been verified. To verify your identity, please provide your email address or [URL] when you make a request. For more information about how to get access to Personal Data and for exercising your rights, you can submit a request [here](https://web.archive.org/contact/) by selecting the “I am an EU resident and would like to exercise my individual rights” option. You also have the right to lodge a complaint with a supervisory authority.
 
 
 
