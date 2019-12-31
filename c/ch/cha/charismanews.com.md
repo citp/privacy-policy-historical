@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630185555id_/https%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231030742id_/https%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Charisma Magazine
 
@@ -65,7 +65,7 @@ Charisma Media
 600 Rinehart Rd.  
 Lake Mary, FL 32746  
 (407) 333-0600  
-[[email protected]](https://old.charismamag.com/cdn-cgi/l/email-protection#177462646364617457747f76657e647a767a72737e763974787a)
+[custsvc@charismamedia.com](mailto:custsvc@charismamedia.com)
 
 ### Your consent
 
