@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tutorialspoint.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607203341id_/http%3A//www.tutorialspoint.com/about/about_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialspoint.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231172215id_/http%3A//tutorialspoint.com/about/about_privacy.htm) for the most accurate reproduction.*
 
-# About Privacy Policy at Tutorials Point
-
-* * *
+# About Privacy Policy at Tutorials Point - Tutorialspoint
 
 The website **www.tutorialspoint.com** is owned and maintained by **Tutorials Point India Limited** , henceforth termed as “we”, “our”, “us”, or the “company”. All the visitors, users, learners, contributors, teachers, and instructors are named as "users"; and the website tutorialspoint.com is termed as "website" everywhere in this document.
 
@@ -74,12 +72,30 @@ We employ the best mechanisms possible to protect your Personal Information, how
 
 In the unlikely event of a breach in security systems, we may notify you through email so that you can take suitable protective measures. You are advised to inform us immediately at contact@tutorialspoint.com in case your user name or password is compromised.
 
+## Third-Party Advertisements
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+
+We do not guarantee correctness, viability, validity and availability of information displayed on our website in the form of advertisements. We do not guarantee merchantability or fitness of the advertised information for any particular purpose.
+
+We declare the advertisers and their clients or allied partners are neither our agents, nor partners. We do not provide guarantee for any published information on behalf of any of the advertisers and their clients or allied partners.
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
 ## International users
 
 This website is operated from India. If you are an international user visiting from other regions having laws governing data collection and use that may differ from the Indian law, please note that you are transferring your personal data to India, which does not have the same data protection laws. By providing your personal data you consent to the use of your personal data for the uses identified above in accordance with this Privacy Policy.
+
+## Cookies Policy
+
+We collect cookies to enhance our users experience and we have explained our cookies policy in simple words. You are requested to go through this policy to understand how do we collect and use cookies.
+
+[Cookies Policy](https://web.archive.org/about/about_cookies.htm)
 
 ## Updates & Contact Info
 
 From time to time, we may update this Policy. If we do, we’ll notify you by posting the policy on our site with a new effective date. If we make any material changes, we’ll take reasonable steps to notify you in advance of the planned change.
 
 If you have any questions about this privacy policy, please email us at contact@tutorialspoint.com
+
+Last updated: 4th Nov 2019
