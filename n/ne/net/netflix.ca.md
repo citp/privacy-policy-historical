@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the netflix.ca privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630203148id_/https%3A//help.netflix.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netflix.ca privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231142326id_/https%3A//help.netflix.com/legal/privacy) for the most accurate reproduction.*
 
 # None
-
-  * [ Back to Help Home ](https://web.archive.org/en)
-
-
 
 This Privacy Statement explains our practices, including your choices, regarding the collection, use, and disclosure of certain information, including your personal information, by the [Netflix family of companies](https://help.netflix.com/en/node/2101) ("Netflix"). 
 
