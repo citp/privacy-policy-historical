@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celtra.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235512id_/https%3A//www.celtra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celtra.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231230432id_/https%3A//www.celtra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Celtra
 
@@ -24,9 +24,11 @@ Celtra, Inc. (“Celtra,” “we,” “us,” or “our”) respects your priv
 
 ### **For purposes of this policy:**
 
-**“Personal Data”** for non-residents of the European Economic Area means any information that can be used to identify, contact, or precisely locate a person, including name, email, address, and telephone number.  
+**“Personal Data”** for non-residents of the European Economic Area (other than California residents) means any information that can be used to identify, contact, or precisely locate a person, including name, email, address, and telephone number.  
 
 **“Personal Data”** for residents of the European Economic Area means any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural, or social identity of that natural person. This includes IP address and advertising ID (IDFA/AAID).
+
+**“Personal Data”** for residents of California means information that identifies a particular California consumer or household, including, without limitation, name, unique personal identifier, online identifier, geolocation data, professional or employment-related information, or other information as defined in the CCPA.  This includes IP address and advertising ID (IDFA/AAID).
 
 **“Non-Personal Data”** means information not included in the definition of Personal Data, such as pages or ads visited, time spent on pages, browser and device type, and referring and exit pages. For non-residents of the European Economic Area, IP address and advertising IDs (IDFA/AAID) are Non-Personal Data.
 
@@ -47,27 +49,34 @@ Celtra uses this information to process payments. In certain circumstances, Celt
 
 We may use this data to manage and improve your experience using the Website and the Celtra Services. In some areas of the world, certain User Activity Data may be Personal Data. Where this is the case, we comply with applicable laws regarding our use and processing of Personal Data.  
 
-**IV. Ad Interaction Data**. When End Users interact with ads generated using the Celtra Services, we may collect information on behalf of Celtra’s customers which may be the advertiser, publisher, advertising agency, and/or their agents. Data collected through interaction with the Celtra Services may include time spent viewing an ad, page views, video views, number of ads clicked, IP address, device ID, GPS coordinates, advertising identifiers (IDFA/AAID), Personal Data that you affirmatively elect to share with us through text field forms, and other information about your interaction with the ads (“Ad Interaction Data”).
+**IV. Service Data** **.** In connection with providing the Celtra Services and serving ads to End Users, Celtra collects system connection information, such as the incoming IP address for each End User (“Service Data”).  In locations where Service Data constitutes Personal Data, Celtra acts a Data Controller and utilizes this data for legitimate business purposes, including, without limitation, maintaining platform security and availability, fraud detection, and resolving ad serving errors.
 
-With respect to End User data, Celtra is acting as a “Data Processor” on behalf of our customers, which may include the advertiser, publisher, and/or their agents who are the Data Controller of your data who may use this information for their lawful advertising purposes to provide you with a more tailored online advertising experience. We may also use the information internally to improve the functionality of the Celtra Services.
+**V. Ad Interaction Data**. When End Users interact with ads generated using the Celtra Services, we may collect information on behalf of Celtra’s customers which may be the advertiser, publisher, advertising agency, and/or their agents. Data collected through interaction with the Celtra Services may include time spent viewing an ad, page views, video views, number of ads clicked, IP address, device ID, GPS coordinates, advertising identifiers (IDFA/AAID), Personal Data that you affirmatively elect to share with us through text field forms, and other information about your interaction with the ads (“Ad Interaction Data”).
 
-**V. Cookies and similar technologies**.  A cookie is a small text file that is placed on your computer or device when you visit certain websites.  When we refer to “cookies” we include other technologies with similar purposes. Please refer to Celtra’s [Cookie Policy](https://www.celtra.com/cookie-policy/) for more information on cookies used in connection with the Website.
+With respect to Ad Interaction Data, Celtra is acting as a “Data Processor” on behalf of our customers, which may include the advertiser, publisher, and/or their agents who are the Data Controller of your data who may use this information for their lawful advertising purposes to provide you with a more tailored online advertising experience. We may also use the information internally to improve the functionality of the Celtra Services.
+
+**VI. Cookies and similar technologies**.  A cookie is a small text file that is placed on your computer or device when you visit certain websites.  When we refer to “cookies” we include other technologies with similar purposes. Please refer to Celtra’s [Cookie Policy](https://www.celtra.com/cookie-policy/) for more information on cookies used in connection with the Website.
 
 In connection with the Celtra Service, Celtra and its customers or partners may also use cookies to customize your online advertising experience as an End User based on the preferences or interests known or inferred from the data collected. Celtra customers may use cookies to serve appropriate ads to you and to help track results or measure effectiveness of those ads.  These third-parties may combine information collected in the context of delivering an ad to you with other information they have independently collected over time across different websites, including syncing or connecting behavior across different websites, mobile apps or devices. These third-parties collect and use information under their own privacy policies. To the extent Celtra uses cookies on behalf of a customer in connection with the Celtra Services, Celtra Cookies will persist for no more than ninety (90) days, but may be renewed each time the device is encountered.
 
-## 2.   Sharing and Disclosure of your Personal Data
+## 2\. Sharing and Disclosure of your Personal Data
 
 We may share your information at your direction or as described below at the time of sharing.
 
-**I. Customers**. We share Ad Interaction Data with our customers who may use this information for their lawful advertising purposes to provide you with a more personalized online advertising experience.
+**I. Customers**. We share User Activity Data and Ad Interaction Data with our customers who may use this information for their lawful advertising purposes to provide you with a more personalized online advertising experience. We follow customer instructions concerning sharing and disclosing this data, including any applicable terms in our customer agreement or customer’s use of the Services.
 
 **II. Third-Party Service Providers**. Celtra may share your information with Third-Party Service Providers that support us in delivering the Celtra Services to our customers. We may also share your information with companies that help us operate and market the Celtra Services, such as to bill our customers, analyze our Website Visitors, provide customer and technical support, database, analytics, and hosting services, and other operational support. We ensure that such service providers are contractually required to protect your Personal Data at all times.
 
-**III.** **Safety and Compliance with the Law**. Celtra may disclose your information to courts, law enforcement or governmental authorities, or authorized third parties, if and to the extent we are required to do so by law.
+**III.** **To Comply with the Law**. Celtra may disclose your information to courts, law enforcement or governmental authorities, or authorized third parties, if and to the extent we are required to do so by law, regulation, or legal process.
 
-**IV. Business Transfers**. If Celtra undertakes or is involved in any merger, acquisition, reorganization, sale of assets, bankruptcy, or insolvency event, then we may sell, transfer, or share some or all our assets, including your Personal Data. In this event, we will notify you before your Personal Data is transferred and becomes subject to a different privacy policy.
+**IV. Business Transfers**. If Celtra undertakes or is involved in any merger, acquisition, reorganization, sale of assets, bankruptcy, or insolvency event, then we may sell, transfer, or share some or all our assets, including your Personal Data. In this event, we will notify you before your Personal Data is transferred and becomes subject to a different privacy policy.  
+****
 
-**V. Other**. Celtra may also may disclose your information under circumstances not mentioned here with prior consent of the person or third-party that submitted the information to us.
+**V. To Enforce Our Rights, Prevent Fraud, and for Safety** **.** Celtra may use Personal Data to protect and defend the rights, property, or safety of Celtra or its customers, including enforcing contracts or policies, or in connection with investigating and preventing fraud or security issues.
+
+**VI.** **Corporate Affiliates**.  Celtra may share data with its corporate affiliates, parents,  and/or subsidiaries. 
+
+**VII. Other**. Celtra may also may disclose your information under circumstances not mentioned here with prior consent of the person or third-party that submitted the information to us.
 
 ## 3.   Your Choices
 
@@ -77,18 +86,16 @@ In some areas of the world, cookies and other identifiers may be Personal Data. 
 
 **II.  ** **Marketing Communications** **.**  You may choose to sign-up for marketing or other communications from Celtra on the Website.  Should you choose to unsubscribe from any lists for which you registered, you may do so by following the instructions on how to unsubscribe provided in all Celtra communications or by emailing [privacy@celtra.com](mailto:Privacy@celtra.com).  
 
-## 4\. Your Rights & the EU General Data Protection Act
+## 4\. Your Rights & the EU General Data Protection Act **_(_ “GDPR”)**
 
 We are committed to GDPR compliance when enforcement begins on May 25, 2018.  If you are a resident of the European Economic Area, you have the following rights with respect to data for which Celtra is the Data Controller:
 
   1. The right to request access to, or ask us to provide you with copies of, Personal Data that we hold about you at any time, which may be subject to a fee specified by law for processing your request (but not for making a request for access). If Celtra is the Data Controller with respect to your data, we will respond to your request within a reasonable period, and if Celtra is the Data Processor with respect to your data, we may redirect your request to Celtra’s customer acting as the Data Controller with respect to your data. We may decline a request for access to Personal Data in circumstances prescribed by relevant privacy laws. If we decline a request, we will provide you with a written notice that sets out the reasons for the refusal (unless it would be unreasonable to provide those reasons) and provide you with a statement regarding the mechanisms available to you to make a complaint;
   2. The right to ask us to delete any Personal Data that we hold about you free of charge, unless we are required to maintain a copy of this data pursuant to applicable law;
   3. The right to ask us to update and correct any out-of-date or incorrect or inaccurate Personal Data that we hold about you free of charge. We will take reasonable steps to correct the information so that it is accurate, complete and up to date. If we refuse to correct your Personal Data, we will provide you with a written notice that sets out the reasons for our refusal (unless it would be unreasonable to provide those reasons) and provide you with a statement regarding the mechanisms available to you to make a complaint;
-
-
-  3. The right to opt out of any marketing communications that we (or any third-party to whom we have disclosed your Personal Data with your consent) may send you or to withdraw your prior consent or object to any further processing of your Personal Data;
-  4. The right to request information about any automated decisions made using your Personal Data that have legal consequences for you or which significantly affect you; and
-  5.  The right to lodge a complaint with your local Data Protection Authority concerning Celtra’s processing of your Personal Data.
+  4. The right to opt out of any marketing communications that we (or any third-party to whom we have disclosed your Personal Data with your consent) may send you or to withdraw your prior consent or object to any further processing of your Personal Data;
+  5. The right to request information about any automated decisions made using your Personal Data that have legal consequences for you or which significantly affect you; and
+  6. The right to lodge a complaint with your local Data Protection Authority concerning Celtra’s processing of your Personal Data.
 
 
 
@@ -96,7 +103,7 @@ If you wish to exercise any of the above rights, send us an email at [privacy@ce
 
 ## 5\. Security of your Personal Data
 
-Celtra uses reasonable technical and organizational security measures to safeguard Personal Data that is submitted to us voluntarily through our Website or the Celtra Services or collected through interactions with the Celtra Services. However, no security measures are perfect or impenetrable. We cannot control the actions of third-parties with whom you elect to share your Personal Data and we cannot accept liability for for improper access to that data. We cannot guarantee that only authorized persons will view your Personal Data. We cannot ensure that information you share on our Website and/or through the Celtra Services will not become publicly available.
+Celtra uses reasonable technical and organizational security measures to safeguard Personal Data that is submitted to us voluntarily through our Website or the Celtra Services or collected through interactions with the Celtra Services. However, no security measures are perfect or impenetrable. We cannot control the actions of third-parties with whom you elect to share your Personal Data and we cannot accept liability for improper access to that data. We cannot guarantee that only authorized persons will view your Personal Data. We cannot ensure that information you share on our website and/or through the Celtra Services will not become publicly available. 
 
 ## 6\. Important Notice to All Non-U.S. Residents
 
@@ -104,7 +111,13 @@ Our servers are located in the US. If you are located outside of the US, please 
 
 ## 7\. California Privacy Rights
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to obtain certain information about the types of Personal Data that companies with whom they have an established business relationship (and that are not otherwise exempt) have shared with third parties for direct marketing purposes during the preceding calendar year, including the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. If you wish to submit a request pursuant to Section 1798.83, please contact Celtra via email at [privacy@celtra.com](mailto:Privacy@Celtra.com).
+This section provides additional details about the personal information we collect about California consumers and the rights afforded to them under the California Consumer Privacy Act (“CCPA”).
+
+For more details about the personal information we have collected over the last 12 months, including the categories of sources, please see the Information We Collect/Receive and How We Use that Information section above. We collect this information for the business and commercial purposes described in this section. We share this information with the categories of third parties described in the Sharing and Disclosure of Your Personal Data section above.  Celtra does not sell (as such term is defined in the CCPA) the personal data we collect (and will not sell it without providing a right to opt out). Please note that we do use third-party cookies for advertising purposes as described in our [Cookie Policy](https://www.celtra.com/cookie-policy/).
+
+Subject to certain limitations, the CCPA provides California consumers the right to request to know more details about the categories or specific pieces of personal information we collect (including how we use and disclose this information), to delete their personal information, to opt out of any “sales” that may be occurring, and to not be discriminated against for exercising these rights.
+
+California consumers may make a request pursuant to their rights under the CCPA by contacting us at [privacy@celtra.com](mailto:privacy@celtra.com) or toll free at 1-833-457-0177.  Celtra will verify your request using the information associated with your account (if any) or any other information you provide to Celtra to facilitate this search.  Government identification may be required. Consumers can also designated an authorized agent to exercise these rights on their behalf.
 
 ## 8\. Australia Privacy Rights
 
@@ -155,15 +168,15 @@ If you have any questions regarding the Privacy Policy, our use of cookies, or o
 Celtra, Inc.  
 545 Boylston Street, 11th Floor  
 Boston, MA 02116  
-Email: [privacy@celtra.com  
-](mailto:Privacy@Celtra.com)Telephone: 1.617.401.2226
+Email: [privacy@celtra.com](mailto:Privacy@Celtra.com)
 
 **Privacy Officer** :  
 Celtra doo  
 Kongresni trg 3  
 1000 Ljubljana, Slovenia  
-Email: [privacy@celtra.com](mailto:Privacy@Celtra.com)  
+Email: [privacy@celtra.com](mailto:Privacy@Celtra.com)
 
+Toll Free: 1.833.457.0177
 
 **A note to data subjects residing in the European Economic Area** : If you are not satisfied with our response, or believe we are processing your personal data not in accordance with the law, data subjects covered under the GDPR framework have the right to lodge a complaint with a supervisory authority in the Member State of their habitual residence, place of work, or place of the alleged infringement.
 
