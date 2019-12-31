@@ -1,218 +1,85 @@
-> *The following text is extracted and transformed from the momblognetwork.com privacy policy that was archived on 2012-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120303121637id_/http%3A//aetn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momblognetwork.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231211106id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# AETN Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-  
+HUGEDOMAINS.COM PRIVACY POLICY
 
+HugeDomains's Privacy Policy describes how this site collects and uses the personally identifiable information provided by customers/consumers/users of this site. It also describes the choices available to customers regarding HugeDomains's use of customer's personally identifiable information and how that information may be accessed and updated by customers and how it may be provided to third-parties.
 
-**_A &E Television networks, llc_** ** __**
+If you do not agree to HugeDomains's Privacy Policy and/or [Terms of Service](https://web.archive.org/terms.cfm), you must immediately cease use of HugeDomains.com. If you do not agree, do not use HugeDomains's website or services,  do not purchase domains and do not enter into payment plans with HugeDomains.com.
 
-**_PRIVACY POLICY_**
+HugeDomains.com is a United States company, located in Denver, Colorado, USA. HugeDomains complies with the U.S-EU Safe Harbor framework which is dictated and set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. HugeDomains further complies with the California Online Privacy Protection Act and the Children's Online Privacy Protection Act (COPPA).
 
-**_TABLE OF CONTENTS_**
+**What Information HugeDomains Collects**
 
-·         **Welcome**
+HugeDomains must collect certain personal data in order to conduct business, provide customer service and provide a customer with relevant requested services. Personal information is collected from customers when  a customer contacts HugeDomains through the website, when a customer purchases a domain, whenever a customer fills out a contact form on the HugeDomains platform; when a customer submits payment to HugeDomains; and when a customer contacts HugeDomains via phone or chat. HugeDomains will further collect certain personal information from customers as needed in order to continue to provide services to its customers and as required by any relevant law, rule, regulation, and other method that ensures the safety of HugeDomains, its customers, and the general public.
 
-·         **General Information Collected**
+HugeDomains collects customers' relevant personal information, including but not limited to: name, address, phone number, fax number (if applicable), email address and other data used to directly or indirectly to identify you in connection to your use of HugeDomains's services. Many products/services may require a customer to provide HugeDomains with additional information such as credit card information, associated billing information, or other financial and payment information. In order to protect HugeDomains and its customers, as well as intellectual property rights, HugeDomains may require customers to provide government identification and/or other documentation as proof of identity and physical address.
 
-·         **Personal Information Collected**
+**Why HugeDomains Collects This Information**
 
-·         **Personal Information Use**
+HugeDomains collects customer information for several reasons, including but not limited to: following relevant and required ICANN data collection requirements, along with and to abide and comply with United States laws, rules, and regulations. Further, HugeDomains collects such information in order to allow HugeDomains to: 
 
-·         **A+E Vendor Communications and Opt Out**
+a. **To personalize customer experience**  \- customer information helps HugeDomains better respond to customer's individual needs.
 
-·         **A+E Marketing Communications and Opt Out**
+b. **To improve the HugeDomains website and services** \- HugeDomains continually strives to improve its website offerings and services based on the information and feedback received from customers.
 
-·         **Ad Service Providers**
+c. **To improve customer service** \- customer information helps HugeDomains more effectively respond to specific customer service requests and support needs. Should a customer contact HugeDomains for service or support, it will keep an internal record of such correspondence, whether email or telephone call, along with an internal record of support given.
 
-·         **Cookies**
+d. **To process transactions**  \- other than specifically provided in this provision, or required by law, customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company without direct and express customer consent.
 
-·         **Web Beacons**
+e. **To send periodic emails** \- customer email addresses provided for order processing, will be used to send customers relevant and pertinent information and updates pertaining to their HugeDomains account and registered domain names and/or other services. These communications include, but are not limited, to: HugeDomains updates and questions or concerns regarding the customer, their account, or specific services. If a customer chooses to opt-in to a mailing list, they will receive email communications that may include company news, updates, related product or service information, as set per email preferences which is customizable from within each users' account.
 
-·         **DMCA Information**
+f. **Domain ownership information**  \- HugeDomains.com sells domain names, and all domain name purchases require registrant information in order to complete the purchase and facilitate the transfer of the domain name. The information provided by a customer when purchasing a domain can and will be used to transfer ownership of said domain names. The registration information provided for a domain is recorded and shared with trusted parties in order to deliver such purchases to domain buyers. If a customer does not opt-in for privacy protection, the whois information provided when buying domain names may be shared via a public record called "whois".
 
-·         **Contact by A+E**
+**How HugeDomains Collects this Information**
 
-·         **Maintenance of Personal Information**
+HugeDomains utilizes a variety of security measures to maintain the safety of customers' personal information. All supplied financial information (including credit card data) is transmitted via Secure Socket Layer (SSL) technology and then encrypted into the company's payment gateway provider's database. This database and the sensitive information contained within are only accessible by those authorized with special access rights to such systems and are required to keep the information confidential. 
 
-·         **Children**
+HugeDomains uses cookies (and other technologies such as web beacons, pixels, tags, scrips) to identify you so you don't need to log in each time you visit a HugeDomains website or its mobile applications. The cookies are linked to your customer account, which is associated with the information in your account. HugeDomains uses cookies to help remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that it can offer better site experiences and tools in the future. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most modern websites, if you turn your cookies off, some of HugeDomains's services may not function properly or function at all. HugeDomains does not test its website for this and does not guarantee use of services with cookies disabled. 
 
-·         **Links to Other Websites**
+HugeDomains, like most companies, obtains information about its customers automatically and stores this information in its internal databases. This information may include but is not limited to: Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring entry/exit pages, operating system, date/time stamp and/or clickstream data, and other data that could directly or indirectly identify you. HugeDomains uses this information to help personalize your experience and search results, diagnose problems with its systems, to administer the services on this site, and for other corporate uses.
 
-·         **Security**
+**How HugeDomains Uses this Information**
 
-·         **Your California Privacy Rights**
+HugeDomains must first and foremost abide by local law. As a US company, HugeDomains will first abide by US laws and regulations when two laws might differ and/or conflict with one another.
 
-·         **Governing Law / Transmission of Information**
+HugeDomains securely holds on to personal data internally. Such data can be held indefinitely in order to keep accurate records that may be required under local law and regulation. 
 
-·         **Changes**
+HugeDomains uses customer information to communicate directly with their customers. It is important for customers to keep their email address up to date and check their email regularly for updates regarding a HugeDomains account. 
 
-·         **How to Contact Us**
+HugeDomains may have the need to provide customer information to third parties for certain services required by HugeDomains, including but not limited to, credit card processors, technical support services, shipping of goods or services, customer relationship management, SMS delivery, Collections Agencies,  registry compliance, law enforcement, among other third parties for other similar such reasons. When a domain is purchased which is managed at a partner registrar, HugeDomains reserves the right to automatically push said domain name(s) into an account at that domain name registrar in order to provide the relevant purchased product(s) to the customer. HugeDomains will only share information that is necessary for the third party to provide the required services. This information will not be sold nor voluntarily disseminated unless reasonably needed at HugeDomains's sole discretion. 
 
-**1.       ****_WELCOME_**
+When a HugeDomains account is cancelled/suspended/terminated, either voluntarily or involuntarily, this does not mean that the customer's personally identifiable information has been deleted entirely from HugeDomains's systems and databases. Some or all this information may be retained by HugeDomains, including but not limited, to comply with legal obligations, resolve disputes, prevent fraud and/or enforce company agreements.  In addition, you will not be able to submit a form on this website without providing the exact information required to complete that specific action. It is forbidden and against of ICANN's rules to provide false Registrant information about any domain name registration(s). Providing false or fake information may and will result in suspension of the customer's HugeDomains account and forfeiture of any related domain name(s) registered with HugeDomains or any of its affiliate companies or domain name registrars.
 
-**Your privacy is important to us!**   A&E Television Networks, LLC and/or one of its subsidiaries or affiliated companies (collectively, “ _A+E_ ” or “we” or “us”) owns, operates and/or provides this and other websites, web pages, applications, widgets, blogs, games, virtual worlds and other online or wireless services (accessible through various desktop and mobile web browsers, locally installed mobile applications and various API services that A+E may offer from time to time) (collectively, the “ _Websites_ ”). 
+HugeDomains will cooperate with government, law enforcement officials and relevant private parties to enforce and comply with Unites States law and with applicable and mandatory regulations regarding the services it provides. If necessary, HugeDomains will disclose any customer information to the relevant officials or private parties when appropriate or deemed reasonably necessary. Further, if HugeDomains believes, in its sole discretion, (including without limitation to subpoenas), that the preservation of certain customer information is necessary to protect its rights or the property and/or the rights of a third party. HugeDomains may further maintain or share customer information in order to protect the safety of the public or any person, to prevent or stop activity HugeDomains considers to be illegal based on applicable laws, or to otherwise uphold the law.  By using HugeDomains's website and services, all customers expressly consent to this Privacy Policy. HugeDomains further reserves the right to modify this Policy at any time. If changes are made to this Policy, those changes will be publicly posted. HugeDomains is not required to directly notify its customers of changes made to this Policy, however, if material changes are made, HugeDomains will notify its customers by email or through a public notice on its website.
 
-This privacy policy (the “ _Privacy Policy_ ”) describes the information about you that A+E collects through the Websites and how this information is used, maintained and, in some cases, shared. A+E values your use of the Websites and is committed to protecting your privacy.  A+E shares your information only as described in this Privacy Policy.  A+E has provided this Privacy Policy to assist you in understanding the information that we collect, how we use it and the ways we maintain it, including the security of your personal information. By visiting or using the Websites, services, applications and any other pages, features or content on the Websites, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+**To Access, Update, or Delete Your Personal Information**
 
-This Privacy Policy applies only to information that you provide to A+E while visiting the Websites, and does not apply to any information that A+E has received, obtained or may obtain offline or through other traditional means.    
+You have the right to correct any personal information held about you that is inaccurate or incomplete. If there is information located on HugeDomains servers you wish to correct, you will be required to login to your account and update the appropriate information. This includes account owner information, information submitted for various products and services offered through this website, including but not limited to purchased domain names and payment methods linked to your account.
 
-**2.       ****_GENERAL INFORMATION COLLECTED_**
+You have the right issue a request that HugeDomains delete your personal data. HugeDomains will review your request and delete data if possible. HugeDomains reserves the right, in its sole discretion, to retain any personal data. Personal data may be retained for several reasons, including, but not limited to: fraud mitigation; preserving or enforcing legal and/or contractual rights; data retention mandated by local law,  domain registrars processing of your data, relevant domain registries, contracts, or reasons necessary to HugeDomains's business and operate such services. If you wish to have your data erased, you can use the contact details found on the bottom of this page, please provide as many details as possible as to your request, and the company will determine if you have a valid basis for the erasure of your data. If you have questions about data retention you may contact us with your questions or concerns. You have the right to lodge a complaint with a relevant supervisory authority.
 
-In order to enhance the content contained on the Websites, A+E may gather and store certain information about your visit.  “General Information” is information about you or your activities through which you cannot be identified.  This information may include some or all of the following items:
+**Third Parties**
 
-A.                  The Internet Protocol (“ _IP_ ”) address of your Internet Service Provider (“ _ISP_ ”) and/or your computer, if it has its own static IP address.  The domain name may also be collected. Your IP location information may be used during your visit to the Websites to serve you advertisements for goods or services available in your specific location, however, such information will not be collected or maintained by A+E except in aggregate form.
+HugeDomains.com may share your personal information with affiliated companies within its corporate family and other third-parties that integrate with HugeDomains services, and to provide products and services, including but not limited to: Customer Relationship Management; processing payments; fraud prevention; management of domain names; and serving advertisements. Many of these third parties are affiliate companies, and work in conjunction with HugeDomains to provide customers the products and services provided by HugeDomains to HugeDomains's customers.
 
-B.                   The date, time, length of stay and specific A+E web pages, images, documents or forms accessed by you at such Website.
+Targeted ads may be provided to HugeDomains customers based upon their webpages and Internet activity. These ads and offers may be displayed as product banners provided while you are engaged in Internet browsing or using HugeDomains.com and its services. In some instances, HugeDomains partners with third parties to manage advertising, including targeted advertising on HugeDomains webpages and other websites. These third-party partners may use certain data collection tools such as cookies in order to collect information about customer activities to provide customers with customized advertisements. When possible, such providers will give ways to opt-out of any such advertisements.
 
-C.                  Whether you are viewing any of the Websites for the first time, or are a return visitor.
+HugeDomains's website may contain links to third party websites. HugeDomains is not responsible for the privacy policy and data collection of third-party sites. You are solely responsible for reviewing any third-party privacy practices on all such websites.
 
-D.                  The Uniform Resource Locator (“ _URL_ ”) of the website or advertisement that referred you to any of the Websites. 
+Some Internet browsers may allow users to receive notifications when a website is utilizing tracking technology and may allow that user to use a "do not track" signal. There is no industry standard or agreement among industry participates as to what this "do not track" signal entails. As there is not set definition or regulation regarding this process, HugeDomains does not make any adjustments or alternations in its operating processes when a "do not track" signal is received from an Internet browser.
 
-E.                   The search engine that referred you and any search strings or phrases entered into the search engine to find any of the Websites.
+**Corporate Reorganization**
 
-F.                   Demographic information concerning your country of origin and language(s) used.
+If HugeDomains were to merge with another company or if HugeDomains is involved in an acquisition or sale of all a substantial portion of assets, or other similar sale transaction, your information will be transferred as part of that transaction and you will be notified by email and/or notice on HugeDomains website of any such transfer and any choices you may have regarding your information.
 
-G.                  The type and version of the Internet browser used to visit any of the Websites, the operating system on your computer and information regarding errors when viewing any of the Websites.
+**Contact Information**
 
-A+E collects this General Information and may use it to generate aggregate statistics about visitors to the Websites.  In situations where it is possible to do so, General Information may be linked to Personal Information.
+If you have any other questions about this Privacy Policy, the practices of HugeDomains you may use the contact us form on this web site to request additional information, or you can reach us  by phone at +1 (303) 893-0552 or by email at sales@hugedomains.com 
 
-**3.       ****_PERSONAL INFORMATION COLLECTED_**
+\---
 
-“Personal Information” is information through which you can be identified.  Providing your personal information to A+E is your choice.  A+E maintains one or more databases to store your Personal Information and may keep such information indefinitely. Personal Information that A+E may collect from you includes, but is not limited to, your name, postal address(es), telephone number(s), facsimile number(s), email address(es), date of birth and any other information that you voluntarily provide.  Personal Information you volunteer is used by A+E for internal verification, to complete requested transactions, to ensure appropriate legal use of A+E’s goods and/or services, to provide you notification about updates to the Websites, goods, services and data and to help provide you with technical support for A+E’s goods and services. 
+Last Revised: July 05, 2018
 
-Your Personal Information is collected from our Websites, through email and/or through online applications you complete, forums and message boards, blogs, requests for newsletters, requests for channel or show information, playing our games or in our virtual worlds, entering sweepstakes and prize promotions, taking surveys, reporting problems and through any of your other activities with A+E.  The Personal Information that A+E collects depends on the nature of your activities. 
-
-For example:
-
-A.                  _Registration_ – in order to register and activate an account for any of our Websites, you will need to provide your user name, email address, date of birth, nationality and postal/zip code. We strongly encourage you not to use any Personal Information in your username or password.
-
-B.                   _Sweepstakes and other prize promotions_ – from time to time, A+E may present sweepstakes, contests, special offers or other promotions, and in order for you to enter and win such promotions, you may need to provide Personal Information. The type and amount of Personal Information required will depend on the promotion. For example, a vacation sweepstakes entry will require you to provide, at a minimum, your full name, address, telephone number, date of birth and email address.  In the event that you are a sweepstakes or prize promotion winner, we will require you to submit to us a W9, which will require you to provide additional information, such as your social security number, in order to receive the prize. 
-
-C.                  _Voluntary submissions_ – information that you voluntarily submit on our “Contact Us” web page and via other surveys and feedback will require the disclosure of your first name and email address, may also include your telephone number and is used by A+E to enhance our Websites or to reply to your questions or comments. 
-
-D.                  _Online purchases_ – when you place an order online, we collect information associated with the transaction, including your full name, billing and mailing addresses, credit card, banking or other payment information, products ordered, shipping information and identity verification information (driver’s license, social security number). This information is used to enhance the goods that we offer through our store, as well as to ensure that our financial partners can process the payment to us and that our third party fulfillment company can deliver the products that you ordered to the address that you provided. 
-
-E.                   _Invitations_ – if you invite someone to use a feature of one of our Websites, we will disclose your real name as part of the invitation you send, as this information is necessary to ensure that the invited person knows who has sent the invitation.
-
-F.                   _Mobile applications_ – A+E collects information regarding your GPS location when you use the Websites and associated services from your mobile device if your device has location services enabled.
-
-**4.       ****_PERSONAL INFORMATION USE_**
-
-Unless otherwise specified in this Privacy Policy or unless legally required to do so, A+E will not sell, rent or otherwise disclose your Personal Information to any outside company or organization.  This Privacy Policy excludes data that may be stored or transmitted to or from the service provider hosting the Websites.
-
-In addition to those uses set forth in Section 3 above, A+E may hire companies to help provide products or services, like a shipping company that may deliver packages, a financial partner that assists in the completion of transactions you request or any other third party that is needed to assist in the completion of transactions you request.  In those instances, there is a need to share your information with these third parties.  A+E may also work with other companies who help either to gather your information or to communicate with you.  Your opt-out of receiving information from us and/or third parties will not apply to sharing by A+E of your Personal Information with any of these third parties.  Nonetheless, except as separately permitted by other provisions of this Privacy Policy, these third parties are allowed to gather, receive and use your information only for the purposes described herein or as required by law.
-
-A+E may make bulletin boards, chat rooms, job listing areas, message boards, news groups and other community services available to you on the Websites.  Please understand that any information that is disclosed by you in these areas becomes public information.  When you disclose such information in a bulletin board, message board, chat room, blog or any other public forum, you do so at your own risk.  A+E has no control over its use and you should exercise caution when deciding to disclose your Personal Information or any other information about yourself.  The information presented in these areas reflects the views of the individual users or hosts and does not necessarily reflect the views of A+E or any of its affiliates.  A+E reserves the right (but has no obligation) to monitor the use of bulletin boards, message boards, chat rooms, blogs or other public forums on the Websites.
-
-A+E may also disclose your Personal Information if: (a) your information is subject to disclosure in response to judicial or governmental subpoenas, warrants or orders served on A+E; (b) your information is subject to disclosure to protect A+E’s rights or property, to enforce the provisions of this Privacy Policy and/or A+E’s Terms of Use and/or to prevent harm to yourself or to another; or (c) your information is subject to disclosure or transfer if A+E or its business is sold or offered for sale to another entity or individual(s), a petition for relief is filed under U.S. Bankruptcy laws for or against A+E or if A+E becomes subject to an order of appointment of a trustee or receiver.  A+E reserves the right to release and/or use all information contained within our databases, access logs or other records concerning you if you violate this Privacy Policy, our Terms of Use or other rules, policies, notices, agreements or guidelines, or if you intentionally or unintentionally partake (or are reasonably suspected of partaking) in any illegal activity, including but not limited to hacking, even without a subpoena, warrant or other court order, and to release such information in response to court and governmental orders, civil subpoenas, discovery requests and as otherwise required by law and/or to initiate our own legal proceedings.  A+E cooperates with law enforcement agencies in identifying those who may be using the Websites (or any part thereof) for illegal activities.  A+E also reserves the right to report any suspected illegal activity to law enforcement individuals or to entities for investigation or prosecution.
-
-A+E may purchase a business or sell one or more of our businesses and your Personal Information may be transferred as a part of the purchase or sale.  In the event that we purchase a business, the Personal Information received with that business would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so.  In the event that we sell a business, we will attempt to include provisions in the selling contract requiring the purchaser to treat your Personal Information in the same manner required by this Privacy Policy.  Thus, any of your opt out requests will not affect our right to transfer your information to a purchaser in these circumstances.  A+E also reserves the right to transfer your Personal Information to a third party in the event of a transfer of all or substantially all of A+E’s assets to a third party, provided that the third party agrees to adhere to the terms of this Privacy Policy. 
-
-A+E may take your Personal Information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information).  Given the nature of this information, there are no restrictions under this Privacy Policy upon the right of A+E to aggregate or de-personalize your personal information, and A+E may use and/or share with third parties the resulting non-personally identifiable information in any manner in A+E’s sole discretion.
-
-**5.       ****_A+E VENDOR COMMUNICATIONS AND OPT OUT_**
-
-In addition to its own use, A+E may pass your Personal Information to third party fulfillment companies, web hosting companies, customer support specialists, data analysis firms, email service providers, shipping companies and credit card processors and/or any of their authorized agents who provide the goods or services requested to meet your needs.  A+E may also provide your email address to vendors that it deems provide goods or services which you may need.  If you do not want to receive any communications by email from such vendors, then you may opt out by contacting us at [feedback@aetv.com](mailto:feedback@aetv.com?subject=Opt%20Out%20Vendor%20Communications) (subject line: “Opt Out Vendor Communications”).
-
-**6.       ****_A+E MARKETING COMMUNICATIONS AND OPT OUT_**
-
-A+E may also use your Personal Information, or a portion thereof, to send you marketing materials, channel and/or show information, vendors with information that you may need, special event information, A+E newsletters or advertisements and/or information that A+E thinks may be of interest to you, unless you notify A+E that you do not wish to receive such materials.  A+E may also use the services of bonded mailing houses that are authorized to use your Personal Information only for the benefit of A+E.  Please contact A+E at [feedback@aetv.com](mailto:feedback@aetv.com?subject=Opt%20Out%20Marketing%20Communications) (subject line: “Opt Out Marketing Communications”) to request that you not be sent any or all of such information.
-
-**7.       ****_AD SERVICE PROVIDERS_**
-
-A+E may from time to time engage the services of third party ad service providers, which may collect non-personally identifying information about you. These providers use your non-personally identifying information to determine what types of advertisements you might like to see on our Websites, as well as when you would like to see our advertisements on third party websites.  This non-personally identifiable information can be collected through technical means such as cookies, flash cookies and/or session ID cookies. A+E and its third party ad service providers may collect this non-personally identifiable information for these purposes unless you opt out of such collection and/or use as explained further in our [Ad Choices Policy](http://www.aetn.com/ad_choices).
-
-A+E and/or our third party ad service provides are or are in the process of becoming members of regulatory organizations, including the Network Advertising Initiative (“ _NAI_ ”) and the Interactive Advertising Bureau (“ _IAB_ ”), which are working to address important privacy and consumer protection issues regarding the collection of information for use in online advertising. You may opt out of our collection of this non-personally identifying information using the Consumer Choice Page opt-out tool which allows you to opt out of our collection of such information, as well as to opt out of the data collection and preference-based ad programs of participating companies at [www.aboutads.info/choices](http://www.aboutads.info/choices).
-
-**8.       ****_COOKIES_**
-
-The use of “Cookies” is a standard practice among websites.  A Cookie is a small text file that is placed on your computer to uniquely distinguish your visit to a website.  Cookies are most often used to track specific information regarding your activity on a particular website.
-
-When you visit our Websites, we place a Cookie in a directory of your computer’s hard drive. The information that Cookies collect includes the date and time of your visit and your registration information.  Cookies offer you many conveniences for our Websites.  For example, they allow A+E to recognize certain information, such as your browser type, so we know if you can view certain plug-ins like Macromedia Flash files.  They also allow us to streamline your visit to the Websites based on your previous visits. 
-
-Cookies may be either permanent or temporary.  A+E uses both temporary and permanent cookies.  A temporary or “session” Cookie is placed on your computer during your visit to any of our Websites and is deleted when you exit your Internet browser and/or turn off your computer. A permanent or “persistent” Cookie means that the Cookie stays on your hard drive until you delete it. You can delete our permanent Cookie at any time by following the instructions contained in your browser’s help file, or by contacting the company providing your browser’s technical support.  A+E does not use cookies to store information such as credit card numbers, social security numbers or any other highly sensitive Personal Information. 
-
-You may configure your browser to accept or deny Cookies from our Websites.  However, disabling or denying Cookies from our Websites may render parts of them inaccessible or may cause certain web pages not to properly load. There are also several services and websites which allow you to visit websites, including our Websites anonymously. Again, you may not be able to access or use all of the web pages for the Websites if you use these anonymizing services or websites.
-
-**9.       ****_WEB BEACONS_**
-
-A+E may use “Web Beacons,” sometimes referred to as “clear gifs” or “web bugs,” which is another way (instead of Cookies) to help personalize your experience on the Websites.  Web Beacons are typically invisible to you and are generally embedded in very small clear graphics files. We may use Web Beacons to monitor certain non-personally identifiable information about you, including the URL of the page from which the Web Beacon originated, the type of browser used, the IP address of your computer and the time you viewed the Web Beacon. We may also use Web Beacons to assist our third party advertising and/or content companies in providing the contact they believe you want to see. Web Beacons are also used to allow such third parties to determine how many people view the advertisements and/or click through, and to assist in serving and managing advertisements and content.  While Web Beacons do not collect Personal Information, the information collected by them may be used in conjunction with Cookies to identify aggregate information about our Website users.
-
-**10.   ****_DMCA INFORMATION_**
-
-Personal Information that you provide to us in association with a DMCA notification or counter-notification will be disclosed to third parties. All information contained in or associated with a DMCA notification will be disclosed to the alleged infringer.  All information contained in or associated with a DMCA counter-notification will be disclosed to the initial claimant.  See our [Copyright Policy](http://www.aetn.com/DMCA) for more information on notifications and counter-notifications.
-
-**11.   ****_CONTACT BY A+E_**
-
-You do not have to participate in A+E’s mailing lists (newsletters) in order to use the Websites.  However, if you elect not to receive such newsletters, you may miss valuable information on A+E, its channels and shows and/or its goods or services.  A+E will not contact you nor send you marketing materials unless you have accepted to receive such contact or information (i.e., you have not opted out).
-
-**12.   ****_MAINTENANCE OF PERSONAL INFORMATION_**
-
-You can access your Personal Information contained in A+E’s database by contacting us at [feedback@aetv.com](mailto:feedback@aetv.com).  If you believe that any of your information is incorrect or needs updating, please let us know either at the email address listed in this section, or by U.S. Postal Mail to our address listed below (Attn: Information Access).  A+E will use reasonable efforts to correct your information and our records upon verification of the requested change.  If you no longer wish to receive email or postal notifications about our Websites, goods, services or special promotions, please let us know by sending an email to [feedback@aetv.com](mailto:feedback@aetv.com) or by sending us a letter via U.S. Postal Mail at our address listed below (Attn: Opt Out of Mailings) and specifying in the text of your email or letter which notifications you no longer wish to receive.  In addition, within the text of your email or letter, you should provide your exact name and address so that we can do our best to ensure that you stop receiving the notifications that you no longer wish to receive.  After such a request is received, A+E will use reasonable efforts to refrain from including you when sending such notifications by noting your opt out election in our database.
-
-You decide what Personal Information you make available to other users of our Websites, including in or on our bulletin boards, message boards, chats, blogs, posts and other disclosures.  All users of our Websites should be aware that information you make available via these disclosures is public and not private.  A+E is not responsible for and cannot control the actions of others who will have access to this information, therefore, we do not and cannot guarantee that the information you disclose in this manner will not be viewed by unauthorized persons.
-
-A+E may provide security measures that are designed to restrict access to certain portions of the Websites, such as private chat rooms, restricted forums or instant messaging, but A+E cannot and is not responsible for circumvention of these security measures or for further distribution or use of any information you disclose in public areas by others.  We may also provide you tools to edit and remove the information or materials you make available on our Websites, but even after removal, copies of any information you post may remain viewable in cached, archived or otherwise saved media that is outside the control of A+E. You are solely responsible for any information and materials that you choose to make available on public areas of our Websites.
-
-**13.   ****_CHILDREN_**
-
-A+E does not knowingly solicit or collect information from children (defined as minors younger than thirteen (13) years of age).  If you are the parent or guardian of a child under the age of eighteen (18), or the legal age of contract majority, and have authorized your child to use your computer, we urge you to instruct your child never to give out his or her real name, address, phone number, email address or other personally identifying information while on our Websites.  There are no computer applications on our Websites which allow for the determination of your age. If A+E discovers that Personal Information of a child under 13 has been collected, A+E will take reasonable steps to delete this information. All information volunteered to A+E will be treated the same as information given by an adult.  A+E recommends that the Internet browsing behavior of any child should be carefully supervised by a responsible adult at all times.
-
-**14.   ****_LINKS TO OTHER WEBSITES_**
-
-Our Websites contain several links to or integrations with other websites, including but not limited to Facebook Connect, Twitter, Disqus, etc., whose information practices may be different than ours.  Neither A+E, nor any of its officers, directors, partners, affiliates, subsidiaries, employees, agents, representatives, vendors or suppliers is responsible for the content, privacy policies, products, services, reliability, viewpoint or accuracy of information on any such websites.  We do not control and are not responsible for the collection of personal information by third party websites, including websites owned or controlled by our preferred financial partners, advertisers, vendors and/or websites not controlled or authorized by A+E.  Third party websites that are accessed through links on our Websites or integrations with other websites have separate privacy policies.  We have no responsibility or liability for the policies implemented by third parties on their websites.  You should contact those third parties directly to ask questions about their privacy policies.
-
-If you enter or choose to leave our Websites via links to other non-A+E websites, your visits and actions on those websites are not covered by this Privacy Policy.
-
-**15.   ****_SECURITY_**
-
-The security and confidentiality of your information is extremely important to us.  We have implemented technical, administrative and physical security measures to protect your information from unauthorized access and improper use.  A+E makes access to your Personal Information subject to certain security measures, including technological controls such as “firewalls,” in accordance with industry standards.  When the use of an A+E web page involves the transmission of Personal Information or confidential information, A+E may use Secure Socket Layer (“ _SSL_ ”) technology to establish a secure connection between your computer and A+E.  SSL allows the transmission of encrypted information from your computer to A+E and back again and is currently the industry standard for Internet platform security.  From time to time, we review our security procedures in order to consider appropriate new technology and methods. 
-
-**_Please be aware that no data transmission over the Internet can be guaranteed to be 100% secure, so while A+E strives to protect your Personal Information, A+E cannot ensure or warrant the security of any information that you voluntarily give to A+E_**.
-
-A+E reserves the right to monitor all network traffic to our Websites to identify and/or block unauthorized attempts or intrusions to upload or change information or cause damage to any of our Websites in any manner.  Anyone using any of our Websites expressly consents to such monitoring.
-
-**16.   ****_YOUR_** ** _CALIFORNIA_** ** _PRIVACY RIGHTS_**
-
-FOR RESIDENTS OF CALIFORNIA ONLY.  Section 1798.83 of the California Civil Code requires select businesses to disclose policies relating to the sharing of certain categories of your Personal Information with third parties.  If you reside in California and have provided your Personal Information to A+E, you may request information about our disclosures of certain categories of Personal Information to third parties for direct marketing purposes. Such requests must be submitted to us at one of the following addresses: [feedback@aetv.com](mailto:feedback@aetv.com) ** ** or 
-
-A&E Television Networks, LLC  
-Attn: California Privacy Rights  
-235 East 45th Street  
-New York, NY 10017
-
-Attention: Digital Media Counsel, Legal & Business Affairs
-
-Within thirty (30) days of receiving such a request, we will provide a list of the categories of Personal Information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of those third parties.  This request may be made no more than once per calendar year.  We reserve our right not to respond to requests submitted other than to the address specified in this section.
-
-**17.   ****_GOVERNING LAW / TRANSMISSION OF INFORMATION_**
-
-Our Websites are controlled and operated from our offices within the State of New York, United States of America.  By choosing to visit our Websites or otherwise provide information to A+E, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the State of New York as more fully set forth in our [Terms of Use](https://web.archive.org/termsofuse). 
-
-If you are accessing our Websites from any location with regulations or laws governing personal data collection, use or disclosure that differ from United States laws or regulations, please note that through your continued use of our Websites, which is governed by the laws of the State of New York and the United States of America and this Privacy Policy, you are transferring Personal Information to the United States of America and you consent to that transfer and any associated processing.
-
-**18.   ****_CHANGES_**
-
-A+E has included the effective date of this Privacy Policy at the top and bottom of this web page. A+E reserves the right to make changes to any terms of this Privacy Policy at any time, however, A+E shall provide notification to you in advance of any changes becoming effective, such as by posting a notification on the Websites or via email. If you continue to access and/or use any of the Websites after the effective date of such changes, then such access and/or use will be deemed an acceptance of and an agreement to follow and be bound by the terms as changed. The revised Privacy Policy supersedes all previous notices or statements regarding the Websites. For this reason, we encourage you to review this Privacy Policy any time you access or use the Websites, and we recommend that you print out a copy for your records. 
-
-**19.   ****_HOW TO CONTACT US_**
-
-If you have any questions or concerns about this Privacy Policy, you may contact us through any of the following means, however, please be sure to specify the reason for your communication.  Please be aware that any opt out or other requests with specific email addresses will not be addressed through communication to these general means.
-
-            Email:                           [feedback@aetv.com](mailto:feedback@aetv.com?subject=Privacy%20Policy%20Contact) **  **(subject line: “Privacy Policy Contact”) 
-
-U.S. Postal Mail:             A&E Television Networks, LLC  
-Contact: [Website Name]  
-235 E. 45th Street  
-New York, NY 10017
-
-Attention: Digital Media Counsel, Legal & Business Affairs
-
-Telephone:                    212-210-1400 ****
-
-Facsimile:                      212-210-1308, Attention: Digital Media Counsel, Legal & Business Affairs 
-
-**_© 2011 A &E Television Networks, LLC.  \-- All Rights Reserved_** **.**
-
-**_Updated: July 21, 2011_**
+Copyright 2005-2019 HugeDomains.com. All Rights Reserved.
