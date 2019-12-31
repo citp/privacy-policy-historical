@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226202217id_/https%3A//www.nature.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231203703id_/https%3A//www.nature.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Nature Info
 
-This is the privacy policy (“policy”) for _nature.com_ which is run and provided by Springer Nature Limited ( **we** , **us** and **our** ). Springer Nature Limited is located at The Campus, 4 Crinan Street, London N1 9XW _.   _We can also be contacted at [feedback@nature.com](mailto:feedback@nature.com).
+This is the privacy policy (“policy”) for nature.com which is run and provided by Springer Nature Limited ( **we, us** and **our** ). Springer Nature Limited is located at The Campus, 4 Crinan Street, London N1 9XW.  We can also be contacted at [feedback@nature.com](mailto:feedback@nature.com).
 
 We will only use the personal data gathered over this website as set out in this policy. Below you will find information on how we use your personal data, for which purposes your personal data is used, with whom it is shared and what control and information rights you may have.
 
 ## I. Summary of our processing activities
 
-We publish scholarly journals, books, news and data. Some of this material is freely available, some of it is only available to subscribers. The following summary offers a quick overview of the data processing activities that are undertaken on our website. You will find more detailed information under the indicated sections below.
+We publish scholarly journals, books, news and data. Some of this material is freely available; some of it is only available to subscribers. The following summary offers a quick overview of the data processing activities that are undertaken on our website. You will find more detailed information under the indicated sections below.
 
-  * When you visit our website for informational reasons without setting up an account, only limited personal data will be processed to provide you with the website itself (see III).
-  * If you are identified as belonging to a customer organisation then we collect information in order to be able to provide usage reporting to that customer.
-  * In case you register for one our services or subscribe to our newsletters, further personal data will be processed in the scope of such services (see IV and V).
-  * Furthermore, your personal data will be used to provide you with relevant advertising for our services and products (see VII) and for statistical analysis that helps us to improve our website (see VIII). Additionally, we improve your website experience with third party content (see IX).
-  * Your personal data may be disclosed to third parties (see X) that might be located outside your country of residence; potentially, different data protection standards may apply (see XI).
+  * When you visit our website for informational reasons without setting up an account, only limited personal  data will be processed to provide you with the website itself (see III).
+  * If you are identified as belonging to a customer organisation then we collect information in order to be able to provide usage reporting to that customer.
+  * In case you register for one of our services, use the submission and peer review systems or subscribe to our newsletters, further personal data will be processed in the scope of such services (see IV and V). 
+  * Furthermore, your personal data will be used to provide you with relevant advertising for our services and products (see VII) and for statistical analysis that helps us to improve our website (see VIII). Additionally, we improve your website experience with third party content (see IX).
+  * Your personal data may be disclosed to third parties (see X) that might be located outside your country of residence; potentially, different data protection standards may apply (see XI).
   * We have implemented appropriate safeguards to secure your personal data (see XII) and retain your personal data only as long as necessary (see XIII).
-  * Under the legislation applicable to you, you may be entitled to exercise certain rights with regard to the processing of your personal data (see XIV).
+  * Under the legislation applicable to you, you may be entitled to exercise certain rights with regard to the processing of your personal data (see XIV).
 
 
 
 ## II. Definitions
 
-  * **Personal data:** means any information relating to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, or an online identifier.
-  * **Processing:** means any operation which is performed on personal data, such as collection, recording, organisation, structuring, storage, adaptation or any kind of disclosure or other use.
+  * **Personal data** : means any information relating to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, or an online identifier.
+  * **Processing** : means any operation which is performed on personal data, such as collection, recording, organisation, structuring, storage, adaptation or any kind of disclosure or other use.
 
 
 
@@ -31,14 +31,15 @@ We publish scholarly journals, books, news and data. Some of this material is fr
 
 When you visit our website for informational reasons, i.e. without registering for any of our provided services listed under IV and without providing us with personal data in any other form, we may automatically collect additional information about you which will contain personal data only in limited cases and which is automatically recognised by our server, such as:
 
-_Examples might include:_  
-_\- your IP address;_  
-_\- your device type, name and IDs;_  
-_\- the date and time of your requests;_  
-_\- the content of your requests;_  
-_\- information on your browser version;_  
-_\- your screen resolution;_  
-_\- information on your operating system, including language settings._
+_Examples might include:_
+
+_\- your IP address;  
+\- your device type, name and IDs;  
+\- the date and time of your requests;  
+\- the content of your requests;  
+\- information on your browser version;  
+\- your screen resolution;  
+\- information on your operating system, including language settings._
 
 We use such information only to assist us in providing an effective service (e.g. to adapt our website to the needs of your device or to allow you to log in to our website), and to collect broad demographic information for anonymised, aggregated use.
 
@@ -48,25 +49,25 @@ The personal data automatically collected is necessary for us to provide the web
 
 ## IV. Registration for our services
 
-Access to subscription content is provided via a variety of mechanisms such as IP site licenses, login via third party federated identity providers or by an personal account with us. If your access to our content is provided by an organisation or an institution like a university or a company then they choose the access method on your behalf. A personal account is required to purchase content directly from us, or to receive personal services like newsletters and alerts.
+Access to subscription content is provided via a variety of mechanisms such as IP site licenses, login via third party federated identity providers or by a personal account with us. Using the federated authentication method institutional selection data may be stored locally in your browser and shared with third party websites that you visit to ease the process of institutional authentication. If your access to our content is provided by an organisation or an institution like a university or a company then they choose the access method on your behalf. A personal account is required to purchase content directly from us, or to receive personal services like newsletters and alerts.
 
-_If you need to create a personal login with us then we will store and process the following:_  
-_\- Information (such as your name, user name and email address) that is provided by registration;_  
-_\- Information in connection with an account sign-in facility (e.g. log-in and password details);_  
-_\- Communications sent by you (e.g. via e-mail or website communication forms)._
+_If you need to create a personal login with us then we will store and process the following:  
+\- Information (such as your name, user name and email address) that is provided by registration;  
+\- Information in connection with an account sign-in facility (e.g. log-in and password details);  
+\- Communications sent by you (e.g. via e-mail or website communication forms)._
 
 The information that is necessary for the performance of the service is labelled accordingly. All further information is provided voluntarily.
 
-_We will process the personal data you provide to:_  
-_Examples might include:_  
-_\- Identify you at sign-in;_  
-_\- Provide you with the services and information offered through the website or which you request;_  
-_\- Administer your account;_  
-_\- Communicate with you;_  
-_\- (behavioural) Advertising and profiling;_  
-_\- Facilitate attendance of a conference;_  
-_\- Manage manuscript submissions;_  
-_\- Provide access (where appropriate) to other Springer Nature group content if you so request_
+_We will process the personal data you provide to:  
+Examples might include:  
+\- Identify you at sign-in;  
+\- Provide you with the services and information offered through the website or which you request;  
+\- Administer your account;  
+\- Communicate with you;  
+\- (behavioural) Advertising and profiling;  
+\- Facilitate attendance of a conference;  
+\- Manage manuscript submissions;  
+\- Provide access (where appropriate) to other Springer Nature group content if you so request_
 
 For this, the legal basis is Article 6 sec. 1 sent. 1 lit. b GDPR. The use of your personal data for behavioural advertising and profiling is done for the legitimate interest to improve your experience while using the website, Article 6 sec. 1 sent. 1 lit. f GDPR.
 
@@ -92,15 +93,21 @@ We reserve the right to delete comments that are off-topic, spam, abusive, use e
 
 For the use of our web shop you have to set up an account as described under IV.  Your customer account retains your personal data for future purchases. You can delete the personal data as well as the account in your account’s settings. This processing is based on Article 6 sec. 1 sent. 1 lit. b.
 
-By statutory law we are required to retain the provided financial data in relation to transactions (including address, payment and order information) for ten years. However, after 2 years we will restrict the processing of your personal data to comply with the statutory requirements and will not process the personal data any further.  Regarding this, the retention of your personal data is based on Article 6 sec. 1 sent. 1 lit. c GDPR.
+By statutory law we are required to retain the provided financial data in relation to transactions (including address, payment and order information) for ten years. However, after 2 years we will restrict the processing of your personal data to comply with the statutory requirements and will not process the personal data any further.  Regarding this, the retention of your personal data is based on Article 6 sec. 1 sent. 1 lit. c GDPR.
 
 ### 3\. Newsletters
 
-With your email address you can subscribe to our newsletters that provide you with the latest news about our products and services if you consent to receiving such newsletters. The legal basis for this processing is Article 6 sec. 1 sent. 1 lit. a GDPR. Your email address will be retained as long as you subscribe to our newsletters.
+With your email address you can subscribe to our newsletters that provide you with the latest news about our products and services if you consent to receiving such newsletters. The legal basis for this processing is Article 6 sec. 1 sent. 1 lit. a GDPR. Your email address will be retained as long as you subscribe to our newsletters.
 
 This service is provided by means of a double-opt-in. Thus, you will receive an email containing a link by which you can confirm that you are the owner of the email address and wish to be notified via our email service. When your subscription is not confirmed within 96 hours after the confirmation mail has been requested, the personal data you provided will not be processed for any purpose and it will be automatically erased.
 
 You can unsubscribe from this service by opting out via the link provided in each newsletter.
+
+You can sign up for newsletters and request to be contacted about our products and services via Facebook. For this purpose, we are using Facebook Lead Ads, a service by Facebook Inc., 1601 South California Avenue, Palo Alto, CA 94304 U.S. ("Facebook"). Lead Ads makes it even easier for you to sign up to newsletters and request to be contacted as the form will already be pre-populated via Facebook with your data and you only need to submit the form. Of course, you have the opportunity to amend and review the data before submission. For more information on how lead ads works see here - <https://www.facebook.com/business/ads/lead-ads>.
+
+The legal basis for this processing is Article 6 sec. 1 sent. 1 lit. a GDPR. Your email address will be retained as long as you subscribe to our newsletters or until you request the removal of your email address.
+
+You can unsubscribe from newsletters by opting out via the link provided in each newsletter. If you inquired about a product or service and no longer wish to be contacted, you can email onlineservice@springernature.com, citing the name of the product or service, and request that your email address be removed.  
 
 ### 4\. Nature Conferences
 
@@ -108,21 +115,63 @@ Springer Nature America, Inc. (“SNAI”) [1 New York Plaza, Suite 4500, New Yo
 
 With the consent of attendees, we may use personal data, specifically identification data such as name and email address, to share information with attendees about future Nature conferences or other products, services and special offers. We’ll continue to send you information and store your data until you ask us to be removed. This notification service is based on your consent, Article 6 sec. 1 sent. 1 lit. a GDPR.
 
+### 5\. Manuscript submission and Peer Review
+
+Our Submission and Peer Review System offers the services of peer review, content preparation and proofing, publication and dissemination of research. In order to use the aforementioned services you have to set up an initial account. Where optional paid services may be engaged, you will be prompted to set up an additional, or enhance an existing account.
+
+With regard to the registration of an account and its subsequent use, we process the following information.
+
+_\- Information that is provided by registration such as your name, user name and email address.  
+\- Information in connection with an account sign-in facility, e.g. log-in and password details;  
+\- Communications sent by you, e.g. via e-mail or website communication forms.  
+\- Content files and covering letters provided by you  
+\- Grants, funding, membership, institution, society, committee registration  
+\- Billing or invoicing information  
+\- Information received from societies we work with, e.g. address, name, email address_
+
+The information that is necessary for the performance of the service is labelled accordingly.
+
+We will process the personal data you provide in order to:
+
+_\- Identify you at sign-in;  
+\- Administer your account;  
+\- Provide you with the services and information offered through the Submission and Peer  Review System or which you additionally request;  
+\- Communicate with you;  
+\- Process payments  
+\- To ensure the accuracy of content attribution and the quality and integrity of the peer review process  
+\- Provide you with e-alerts  
+\- Offer to transfer your submission to an alternative Springer Nature title if applicable  
+\- Authorise and process Article Publication Charges (APCs)_
+
+For this, the legal basis is Article 6 sec. 1 sent. 1 lit. b GDPR, and for our legitimate interest in optimizing our services and preventing fraud, Article 6 sec. 1 sent. 1 lit. f GDPR.
+
+Your personal account registration data is, in the absence of exceptions within the specific services mentioned, retained for as long as your account is used. Non-activity is defined at a minimum of three years, to facilitate ease-of-return for account holders. Content and communications, associated with submissions, reviews or decisions made by an account holder is held for a period of 12 months following final decision before being stored within long term limited-access archiving, as far as required in order to achieve the following purposes. Retrieval of archived content will only be engaged for the purposes of investigation into alleged fraud or misbehaviour, as related to the services provided and in the interests of the integrity of the public record of published research. Statutory storage obligations or the need for legal actions that may arise from misconduct within the services or payment problems can lead to a longer retention of your personal data.
+
+In order to ensure the high quality of our journals and publications as well as the significance of the scientific research published, we have implemented a peer review procedure.
+
+In order to find and contact suitable and qualified peer reviewers within the relevant research community, editorial team members may process some of your basic personal data (i.e. Email address, name and research interest) to register you for our Peer Review System. The legal basis for processing your personal data is our and the Publisher’s or the respective editor’s legitimate interest in finding and contacting suitable and qualified peer reviewers to ensure the high level of papers and articles published in our journals, Art. 6 (1) sent. 1 lit. f GDPR.
+
+If you do not wish to be contacted any longer, you can contact us under [dataprotection@springernature.com](mailto:dataprotection@springernature.com). Please note that we may keep some of your personal data to recall your explicit wish to not be contacted for any peer review procedure in the future and thus, to prevent any future processing of your data in this regard. The legal basis for this is our and your legitimate interest in recalling your wish and preventing any future contacting, Article 6 (1) sent. 1 lit. f GDPR.
+
 ## VI. Automated decision making
 
-We do not use your personal data for automated decision making which produces legal effects concerning you or similarly significantly affects you, however we do use your personal data to offer you content and services which we believe may be of interest.
+We do not use your personal data for automated decision making which produces legal effects concerning you or similarly significantly affects you; however we do use your personal data to offer you content and services which we believe may be of interest.
 
 ## VII. Online advertising
 
-We present online advertising provided using the services of _Google DFP, Google AdExchange, Google AdSense, Sovrn OnScroll_. Respective advertisement is labelled as ”ADVERTISEMENT” or “AdChoices”. In order to do so, we collect statistical information about you that will be processed by _Salesforce DMP, Oracle MOAT, Google Analytics, Google DFP, Google AdExchange, Google AdSense, Sovrn OnScroll, AdRoll, CJ Affiliate_ and _Quantcast_.  This processing is based on Article 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to improve your website experience and to promote our products and services. The above providers will be automatically informed about your visit on our website. For such purpose, a web beacon is used to place a cookie on your computer.
+We use marketing services to provide you with interesting offers. For this purpose, we place advertisements via advertising service providers that use cookies and/or web beacons that are activated when you visit our website. Cookies are small text files that are stored locally in the internet browser and allow recognition of a user. Web beacons are small image files, which allow log file recording and log file analysis. To present online advertising we use the services of, inter alia, Google DFP, Google AdExchange, Google AdSense, Sovrn OnScroll. Respective advertisement is labelled as “ADVERTISEMENT” or “AdChoices”.   
 
-Please note that we neither have the control of the extent of personal data that is collected by the respective plug-in provider nor do we know the processing’s purpose or the period your personal data will be retained. Your personal data will be transferred to and processed inside and outside of the EEA. For further information about the potential risks of a cross border data transfer refer to **XI.**
+The cookies and web beacons enable our service providers to collect information about you and your surfing behaviour, e.g. IP address, browser information, information on user activities and click data, and to recognize visitors to our website under a pseudonym and only display products that are likely to be of interest to our visitors. Most of the tools use pseudonymised or aggregated data, e.g. shortened IP addresses. The information is generally not combined with other personal information about the user. The data is used to analyse the use of our website and, thereby, improve and optimize the website and to display advertising tailored to your needs.
+
+This processing is based on Article 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to improve your website experience and to promote our products and services.
+
+Please note that we neither have the control of the extent of personal data that is collected by the respective plug-in provider nor do we know the processing’s purpose or the period your personal data will be retained. Your personal data will be transferred to and processed inside and outside of the EEA. For further information about the potential risks of a cross border data transfer refer to **XI**.
 
 It is possible that the above providers may disclose your personal data to its business partners, third parties or authorities.
 
-You can prevent the installation of such a cookie (i) by a respective setting of your browser that blocks the installation of third party cookies, (ii) by deactivating the interest-related advertising under <https://www.google.co.uk/ads/preferences>, (iii) generally blocking cookies under <https://www.google.co.uk/settings/ads/plugin> or (iv) by deselecting the option for tracking cookies via the Springer Nature cookie preference centre.
+You can prevent the installation of such a cookie (i) by a respective setting of your browser that blocks the installation of third party cookies, (ii) by deactivating the interest-related advertising under <https://www.google.co.uk/ads/preferences>, (iii) generally blocking cookies under <https://www.google.co.uk/settings/ads/plugin> or (iv) by deselecting the option for tracking cookies via the Springer Nature cookie preference centre.
 
-Further information about the processing of your personal data in the provider’s course of operation is provided by its privacy policy. Moreover, you will be provided with further information with regard to your rights and settings concerning privacy. You can access the provider’s privacy policy by following these links:
+Further information about the processing of your personal data in the provider’s course of operation is provided by its privacy policy. Moreover, you will be provided with further information with regard to your rights and settings concerning privacy. You can access the provider’s privacy policy by following these links:
 
 Google AdExchange - <https://policies.google.com/privacy?hl=en>  
 Google AdSense - <https://policies.google.com/privacy?hl=en>  
@@ -133,27 +182,62 @@ Google Analytics - <https://policies.google.com/privacy?hl=en>
 Google DFP - <https://policies.google.com/privacy?hl=en>  
 AdRoll - <https://www.adrollgroup.com/en-IE/privacy>  
 CJ Affiliate - <https://www.conversantmedia.com/legal/privacy>  
-Quantcast - <https://www.quantcast.com/en-uk/privacy/> 
+Quantcast - <https://www.quantcast.com/en-uk/privacy/>
 
-## VIII. Analytics
+### Google AdWords Remarketing and Facebook Custom Audience
+
+In this Website, we use the remarketing or “Similar audiences” feature of AdWords offered by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA, hereinafter referred to as “Google”
+
+Google uses Cookies/tracking technologies, i.e., text files that are stored on your computer and that allow us to analyze your use of our Website. Information generated by Cookies/tracking technology on your use of this Website (including your IP address) will be transferred to a Google server in the U.S. and stored on that server. After that, that last three digits of the IP address will be deleted by Google so that it is no longer possible to clearly match this IP address with personal data. Google has obtained a Privacy Shield Certification and agreed to compliance with thePrivacy Shield Treaty between the EU and the U.S. on the collection, use and storageof personal data from EU member states, as published by the U.S. Department of Commerce. Google will use this information to analyze your use of the Website, to create website activity reports for the website operators and to provide additional services in connection with the use of the Website and the Internet. Furthermore, Google may transfer this information to third parties, if it is required to do so in accordance with statutory provisions or if third parties process data on behalf of Google.
+
+Third party providers, including Google, place advertisements on websites on the Internet. Third party providers, including Google, use stored Cookies/tracking information to place advertisements based on previous visits of a user on this Website.
+
+For additional information on the anonymous analysis of your search behavior please refer to:
+
+  * <https://support.google.com/analytics/answer/6004245?hl=de>
+  * [http://www.google.com/policies/technologies/ads/](https://www.google.com/policies/technologies/ads/)
+
+
+
+You may object to data collection and storage for the purpose of remarketing at any time - this objection will be effective for the future, but not retroactively - by deactivating interest-based advertising in Google or by deactivating the services on the website of the Network Advertising Initiative. Note: in that case, you may not be able to use all features of this Website anymore. By using this Website, you grant your consent to the processing of data collected about you by Google in the manner and for the purpose described above.
+
+Furthermore, this Website uses retargeting tags and Custom Audience of Facebook Inc., 1601 South California Avenue, Palo Alto, CA 94304 U.S., hereinafter referred to as “Facebook”.
+
+When you visit our web pages, remarketing tags will build a direct connection between your browser and the Facebook server. This way, Facebook learns that you have visited our web page with your IP address. This will enable Facebook to match your visit of our pages with your user account. The information obtained this way can be used to display Facebook ads. Please note that we as the provider of the webpages do not receive any information on the contents of data transferred and their use by Facebook.
+
+With regard to the use of Custom Audience we would like to point out that Facebook and third parties use cookies, web beacons or similar technologies to collect or gather information on this Website. Based on the data gained we can make our Facebook activities more efficient and, e.g., arrange for contents or ads to be shown only to visitors of our Website. The data collected this way will encrypted and transferred to Facebook and is anonymous for us, e.g., we cannot see personal data of individual users.
+
+For further information on the privacy policy of Facebook and Custom Audience please refer to <https://www.facebook.com/about/privacy/> or <https://www.facebook.com/business/a/online-sales/custom-audiences-website>.
+
+If you do not wish your data to be collected via Custom Audience, you can deactivate Custom Audience using this link.
+
+### Criteo
+
+We use the Criteo-Service to advertise on our site and third party websites to previous visitors of our site. Criteo-Service is operated by Criteo SA, Rue Blanche, 75009, Paris, France (<https://www.criteo.com/>).
+
+The advertisements are displayed on the basis of information that is stored in cookies which Criteo places on your computer. The text files include information, on your visit of our website, in particular product views that is read-out in the course of subsequent visits of this or third party websites for specific product recommendations. The cookie includes a random alias. In case you visit our website within a certain period of time and view our products, Criteo is able to recognize you by means of the alias. However, the information cannot be attributed to you personally. We or Criteo will not merge this information with your personal data and will not disclose any of your personal data to any third party. You can prevent the storing and using of information in a cookie placed by Criteo by clicking on the following link <https://www.criteo.com/en/privacy-policy> and using the controller next to “Opt-Out” by switching it to “ON”.
+
+When you opt-out, a new cookie (Opt-Out-Cookie) is placed in your web browser that tells Criteo to cease data collection from and ad delivery to your browser. You can opt-in to Criteo’s ads again at any time by switching the controller to “OFF”. Please be aware that this configuration will be necessary for each of your browsers. In case all of your cookies in a browser are deleted, also the Opt-Out-Cookie of Criteo will be affected.
+
+##  VIII. Analytics
 
 For statistical analyses we use web analytics services such as Google Analytics, Webtrekk, and Webtrends to collect information about the use of this site.
 
 **General tracking information**
 
-_The tools collect information such as:_  
-_\- Device and browser information (operating system information, Mobile device identifier, mobile operating system, etc.)_  
-_\- IP address_  
-_\- Page accessed, URL click stream (the chronological order of our internet sites you visited)_  
-_\- Geographic location_  
-_\- Time of visit_  
-_\- Referring site, application, or service_
+_The tools collect information such as:  
+\- Device and browser information (operating system information, Mobile device identifier, mobile operating system,     etc.)  
+\- IP address  
+\- Page accessed, URL click stream (the chronological order of our internet sites you visited)  
+\- Geographic location  
+\- Time of visit  
+\- Referring site, application, or service_
 
 We use the information we get from the providers only to determine the most useful information you are looking for, and to improve and optimise this website. We do not combine the information collected through the use of the tools with personal data.
 
 Depending on the provider the information generated about your use of the website may be transferred to and processed in third countries, e.g. the United States. For further information about the potential risks of a cross border data transfer please refer to section XI. The tools collect only the IP address assigned to you on the date you visit this site, rather than your name or any other identifying information. The provider will use this information in order to evaluate your use of the website, to compile reports on website activities and to provide other services relating to website and internet use to us.
 
-The legal basis for this processing is Art. 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to analyse our website’s traffic to improve the user’s experience and to optimise the website in general _._
+The legal basis for this processing is Art. 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to analyse our website’s traffic to improve the user’s experience and to optimise the website in general.
 
 **Google Analytics / Google Tag Manager**
 
@@ -161,40 +245,43 @@ We use Google Analytics, a web analytics service provided by Google LLC, 1600 Am
 
 We have activated the IP-anonymisation within the Google Analytics service, and your IP address will be truncated within the area of member states of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases the whole IP address will be first transferred to a Google server in the USA and truncated there. The IP-address your browser conveys within the scope of Google Analytics will not be associated with any other data held by Google.
 
+The legal basis for the data transfer is Art. 28 GDPR in conjunction with the data processing agreement.
+
 You may refuse the use of cookies by selecting the appropriate settings on your browser; however please note that if you do this you may not be able to use the full functionality of this website. In addition to that you may prevent the collection of the information generated by the cookie about your use of the website (including you IP address) and the processing of this data by Google if you download and install the browser plug-in available at the following link: <http://tools.google.com/dlpage/gaoptout>
 
 **Webtrekk**
 
-We use Webtrekk, a web analytics service provided by Webtrekk GmbH, Robert-Koch-Platz 4, D-10115 Berlin (“Webtrekk”). We use Webtrekk services to collect and use statistical data on the use of our website to optimise our offering. In addition to cookies, Webtrekk also uses pixels (small gif files incorporated into the website).
+We use Webtrekk, a web analytics service provided by Webtrekk GmbH, Robert-Koch-Platz 4, D-10115 Berlin (“Webtrekk”). We use Webtrekk services to collect and use statistical data on the use of our website to optimise our offering. In addition to cookies, Webtrekk also uses pixels (small gif files incorporated into the website).
 
-_Webtrekk places the following types of cookies on your computer:_  
-_\- last click (used for session timeout; lasts one session)_  
-_\- “session cookie” (used for session identification; lasts one session)_
+_Webtrekk places the following types of cookies on your computer:  
+\- last click (used for session timeout; lasts one session)  
+\- “session cookie” (used for session identification; lasts one session)_
 
-_The following information is collected through the use of pixels:_  
-_\- request (file name of the requested file)_  
-_\- browser type/version (e.g. Internet Explorer 9.0)_  
-_\- browser language (e.g. German)_  
-_\- the operating system used (e.g. Windows 7)_  
-_\- JavaScript enabled_  
-_\- Java on/off_  
-_\- cookies on/off_  
-_\- the referrer URL_  
-_\- IP address (will be anonymised immediately and deleted after processing)_  
-_\- the time you access the site_  
-_\- clicks_  
-_\- product parameters (e.g. the ID of the product/subscription authorising you to access the site)_
+_The following information is collected through the use of pixels:  
+\- request (file name of the requested file)  
+\- browser type/version (e.g. Internet Explorer 9.0)  
+\- browser language (e.g. German)  
+\- the operating system used (e.g. Windows 7)  
+\- JavaScript enabled  
+\- Java on/off  
+\- cookies on/off  
+\- the referrer URL  
+\- IP address (will be anonymised immediately and deleted after processing)  
+\- the time you access the site  
+\- clicks  
+\- product parameters (e.g. the ID of the product/subscription authorising you to access the site)_
 
 This allows us to organise content into categories like “most read”, thereby making the website more comfortable to use. Moreover, the statistical information obtained about browser types and operating systems allows us to optimise our web design.
 
-Webtrekk stores IP addresses only anonymously (in shortened form) and uses them only for session identification and geo-localisation. After that, IP addresses are immediately deleted. The information collected through Webtrekk will not be used to identify you personally unless you have specifically given us your consent.
+Webtrekk stores IP addresses only anonymously (in shortened form) and uses them only for session identification and geo-localisation. After that, IP addresses are immediately deleted. The information collected through Webtrekk will not be used to identify you personally unless you have specifically given us your consent. Webtrekk processes your data on our behalf. The legal basis is Art. 28 GDPR in conjunction with the data processing agreement.
 
-You may object at any time to the collection of the data referred to above, and opt out of any future processing of such data by Webtrekk, by placing the opt-out cookie available at the following link on your computer:  
+You may object at any time to the collection of the data referred to above, and opt out of any future processing of such data by Webtrekk, by placing the opt-out cookie available at the following link on your computer:
+
 <https://www.webtrekk.com/en/index/opt-out-webtrekk/>
 
 You will then continue to be excluded from web tracking until the cookie is deleted. The cookie is set for the named domain, per browser and computer. Therefore, if you visit our website, for instance, from home and from work or using different browsers, you have to place the cookie for each computer and browser separately.
 
-For more information about privacy policies and Webtrekk, please refer to the Webtrekk website: <https://www.webtrekk.com/en/why-webtrekk/data-protection/>
+For more information about privacy policies and Webtrekk, please refer to the Webtrekk website: <https://www.webtrekk.com/en/why-webtrekk/data-protection/>
 
 **Webtrends**
 
@@ -202,36 +289,88 @@ We use Webtrends, a web analytics service provided by Webtrends Inc, 555 SW Oak 
 
 _Webtrends collects the following information:_
 
-_\- Anonymous:  Browser Information, Cookie Data, Demographic Data, Hardware/Software Type, Interaction Data, Page Views_  
-_\- Pseudonymous:  IP Address_
+_\- Anonymous: Browser Information, Cookie Data, Demographic Data, Hardware/Software Type, Interaction  Data, Page Views  
+\- Pseudonymous: IP Address_
 
-You can use the nature.com cookie banner, or your browser, to manage your cookie settings and opt out of these cookies at any time.
+Webtrends processes the data on our behalf. The legal basis is Art. 28 GDPR in conjunction with the data processing agreement. You can use the nature.com cookie banner, or your browser, to manage your cookie settings and opt out of these cookies at any time.
 
 For more information about privacy policies and Webtrends, please refer to the Webtrends website: <https://www.webtrends.com/terms-policies/privacy-notice/>
 
 ## IX. Third party content and social media plug-ins
 
-### 1\. Links to third party websites
+### 1\. Social media plug-ins
 
-This website may contain links to third party websites. We are not responsible for the content and the data collection on respective third party websites; please check the privacy policy of respective websites for information of respective websites’ data processing activities.
+We use the following social media plug-ins: Facebook, Google+, Twitter. This allows you to communicate with such services and like or comment from our website. Social media plug-ins enable a direct communication between your device and the servers of the social media provider, allowing the social media provider to communicate with you and collect information about you browsing our website. This processing is based on Article 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to improve your website experience and to optimise our services.
+
+Transfer of personal data takes places whether you have an account with the provider or not.
+
+Please note that we neither have the control of the extent of personal data that is collected by the respective plug-in provider nor do we know the processing’s purpose or the period your personal data will be retained.
+
+Further information about the processing of your personal data in the provider’s course of operation is provided via their respective privacy policy. Moreover, you will be provided with further information with regard to your rights and setting concerning privacy.
+
+### a) Facebook Social Plugins
+
+We use so-called social plugins („plugins“) of the social networking site facebook.com provided by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). The plugins can be identified by one of Facebook’s logos (white “f” on blue tile or a “thumps-up”-sign) or by the additional text “Facebook Social Plugin”. The list of Facebook Social Plugins and their appearance can be accessed via: <http://developers.facebook.com/plugins>.
+
+If a user visits one of the websites using such a plugin, the user’s browser directly connects to Facebook’s servers. The plugin and its content are made available directly on Facebook’s servers and included in the website by the user’s browser.
+
+Due to the integration of the plugin Facebook collects the information that a user is visiting the corresponding website. If the user is logged in on Facebook at the moment he or she visits the website, Facebook may be able to connect the visit on the website to the user’s Facebook account. If the user interacts with the plugin – for example if he or she presses the like button or comments on something – the user’s browser transmits this information to Facebook. Facebook stores this information. If a user is not a member of Facebook, Facebook may collect and store the user’s IP-address. Facebook states that it only collects anonymized IP-addresses in Germany.
+
+The reason for and scope of the data acquisition and information about the way in which the data is processed and used by Facebook, as well as the user’s rights in this respect and settings options for protecting the users privacy can be found under: <http://www.facebook.com/policy.php>.
+
+If the user is a member of Facebook and does not wish Facebook to collect personal data via this homepage and to link this with his data stored on Facebook, the user needs to log off from Facebook before going to this homepage.
+
+The user may also block Facebook’s plugins using add-ons for the user’s browser, for example the „Facebook Blocker“.
+
+### b) Google’s +1-button
+
+We use the “+1”-button of the social network Google Plus provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States (“Google”). The button is market using the sign “+1” on a white or colored background.
+
+If a user visits one of the websites using such a button, the user’s browser directly connects to Google’s servers. The “+1”-button and its content are loaded directly from Google’s servers and included in the website by the user’s browser. According to Google’s statements, personal data is only collected, if a user that is a Google Plus member and logged in on the network at the time of clicking on the “+1”-button.
+
+The reason for and scope of the data acquisition and information about the way in which the data is processed and used by Google, as well as the user’s rights in this respect and settings options for protecting the users privacy can be found in Google’s privacy statement relating to the “+1”-button: <http://www.google.com/intl/de/+/policy/+1button.html>.
+
+### c) Twitter
+
+We use the twitter-button. The button is provided by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. (“Twitter”) The buttons are marked using the text “Twitter” or “Follow” and a stylized blue bird. The button enables the user to share an article or a website of this homepage on Twitter or to follow the provider on Twitter.
+
+If a user visits one of the websites using such a button, the user’s browser directly connects to Twitter’s servers. The Twitter-button and its content are loaded directly from Twitter’s servers and included in the website by the user’s browser. According to the provider’s knowledge, Twitter collects the user IP-address and the website’s URL when the button is loaded from Twitter’s servers. However, this data is only be used for loading and displaying the Twitter-button.
+
+Further information can be found in Twitter’s privacy statement under: <https://twitter.com/privacy>.
+
+Should you have any questions regarding our privacy policy, please contact us via the e-mail address [dataprotection@springer.com](mailto:dataprotection@springer.com).
 
 ## X. Information sharing
 
 Where personal data is disclosed to the following third parties for the purposes mentioned above the legal basis for the transfer of your personal data is Article 6 sec. 1 sent. 1 lit. b and f GDPR. Some of the recipients may reside outside the EEA. For further information about cross border transfer in general and transfers outside of the EEA see XI.
 
-We may disclose anonymous aggregate statistics about users of the website in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will include no personal data.
+We may disclose anonymous aggregate statistics about users of the website in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will include no personal data. We also supply standardized usage reports to institutional customers, also known as Counter Reports. For more information on Counter Reports - <https://www.projectcounter.org/code-of-practice-sections/usage-reports/>
 
-We may disclose your personal data to contractors who assist us in providing the services we offer through the website. Such a transfer will be based on data processing agreements. Therefore, our contractors will only use your personal data to the extent necessary to perform their functions and will be contractually bound to process your personal data only on our behalf and in compliance with our requests.
+We may disclose your personal data to contractors who assist us in providing the services we offer through the website. Such a transfer will be based on data processing agreements (Art. 28 GDPR). Therefore, our contractors will only use your personal data to the extent necessary to perform their functions and will be contractually bound to process your personal data only on our behalf and in compliance with our requests.
 
 In the event that we undergo re-organisation or are sold to a third party, any personal data we hold about you may be transferred to that re-organised entity or third party in compliance with applicable law.
 
-We may disclose your personal data if legally entitled or required to do so (for example if required by law or by a court order).
+We may disclose your personal data if legally entitled or required to do so (for example if required by law or by a court order). The legal basis for this will be Article 6 sec. 1 sent. 1 lit. c GDPR (in conjunction with the respective national law).
+
+1.Peer Review and Author Services
+
+In the course of providing our peer review services, your data may be accessed by different members of the editorial team such as editors and assistant to the editorial office. To determine the locations of the Editorial board members, you may refer to a journal’s homepage. Granting access to your personal data and the respective processing activity will be based on our and the legitimate interest of the respective society publishing the Journal in successfully publishing high quality articles and papers and ensuring the quality and significance of the respective research published in our journals, products and databases, Article 6 sec. 1 sent. 1 lit. f GDPR. In order to do so we and/or the respective society may process your personal data to find, contact and evaluate suitable and qualified peer reviewers within the relevant research community.
+
+This also includes data sharing between us and the respective society. For example, we may share reviewer and author data to publish the journal.
+
+Please note that the society and we are independently responsible for the respective data processing conducted. We neither have the control of the extent to which personal data is processed by the respective society nor do we control the processing purpose or the period your personal data will be retained. It is also possible that the above-mentioned societies may disclose your personal data to their business partners, third parties or authorities. For further information on the data processing under the society’s control please refer to the respective society’s privacy notice.
+
+Your personal data will be transferred to and processed inside and outside of the EEA. For further information on cross border data transfer, please refer to section XI.
+
+As an author we’ll share your personal data with third parties, like your institution or employer. This is required to manage and approve payment of associated Article Publication Charges (APCs) in order to fulfill the publication of your manuscript. The legal basis is Art. 6 (1) 1 lit. c GDPR.
+
+Customer service, administrative, operational and systems support is provided by other entities of the Springer Nature Group and third party contractors (together “Contractors”). We may disclose your personal data to Contractors who assist us in providing the services we offer through the Submission and Peer Review System. Such a transfer will be based on data processing agreements in accordance with Article 28 of the GDPR. Therefore, our Contractors will only use your personal data to the extent necessary to perform their functions and will be contractually bound to process your personal data only on our behalf and in compliance with our requests. Further services, provided by third party technology and service providers, are similarly bound by data processing agreements.
 
 ## XI. Cross border data transfers
 
 Within the scope of our information sharing activities set out above, your personal data may be transferred to other countries (including countries outside the EEA) which may have different data protection standards from your country of residence. Please note that data processed in a foreign country may be subject to foreign laws and accessible to foreign governments, courts, law enforcement, and regulatory agencies. However, we will endeavour to take reasonable measures to maintain an adequate level of data protection when sharing your personal data with such countries.
 
-In the case of a transfer outside of the EEA, this transfer is safeguarded by privacy the Privacy Shield and EU Model Clauses. You can find further information about the aforementioned safeguards by following this link <https://ec.europa.eu/info/law/law-topic/data-protection_en>
+In the case of a transfer outside of the EEA, this transfer is either safeguarded by the Privacy Shield or EU Model Clauses in accordance with Article 46 GDPR. You can find further information about the aforementioned safeguards by following this link <https://ec.europa.eu/info/law/law-topic/data-protection_en> or contact our Group Data Protection Officer via [dataprotection@springernature.com](mailto:dataprotection@springernature.com) for specific information on respective safeguards.
 
 ## XII. Security
 
@@ -253,13 +392,13 @@ Under the legislation applicable to you, you may be entitled to exercise some or
 
 3\. refuse to provide and – without impact to data processing activities that have taken place before such withdrawal – withdraw your consent to processing of your personal data at any time;
 
-4\. object, on grounds relating to your particular situation, that your personal data shall be subject to a processing. In this case, please provide us with information about your particular situation. After the assessment of the facts presented by you we will either stop processing your personal data or present you our compelling legitimate grounds for an ongoing processing;
+4 **. object, on grounds relating to your particular situation, that your personal data shall be subject to a processing. In this case, please provide us with information about your particular situation. After the assessment of the facts presented by you we will either stop processing your personal data or present you our compelling legitimate grounds for an ongoing processing;**
 
 5\. take legal actions in relation to any potential breach of your rights regarding the processing of your personal data, as well as to lodge complaints before the competent data protection regulators;
 
 6\. require (i) to receive the personal data concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and (ii) to transmit those data to another controller without hindrance from our side; where technically feasible you shall have the right to have the personal data transmitted directly from us to another controller; and/or
 
-7\. not to be subject to any automated decision making, including profiling (automatic decisions based on data processing by automatic means, for the purpose of assessing several personal aspects) which produce legal effects on you or affects you with similar significance _._
+7\. not to be subject to any automated decision making, including profiling (automatic decisions based on data processing by automatic means, for the purpose of assessing several personal aspects) which produce legal effects on you or affects you with similar significance.
 
 You may (i) exercise the rights referred to above or (ii) pose any questions or (iii) make any complaints regarding our data processing by contacting us using the contact details set out below.
 
@@ -271,4 +410,4 @@ The information you provide when contacting us at [dataprotection@springernature
 
 ## XVI. Amendments to this policy
 
-We reserve the right to change this policy from time to time by updating our website respectively. Please visit the website regularly and check our respective current privacy policy. This policy was last updated on 16/05/2018.
+We reserve the right to change this policy from time to time by updating our website respectively. Please visit the website regularly and check our respective current privacy policy. This policy was last updated on 02/07/2019.
