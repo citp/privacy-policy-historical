@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the warez-bb.org privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617045158id_/https%3A//www.warez-bb.org/profile.php%3Fmode%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warez-bb.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231183247id_/https%3A//www.warez-bb.org/profile.php%3Fmode%3Dpp) for the most accurate reproduction.*
 
 # :: Warez-BB.org
 
-> Warez-BB (see "[TOS](http://www.warez-bb.org/profile.php?mode=tos)") considers that respect of privacy on the Internet is of utmost importance. This statement presents the rules applied by Warez-BB for the collection and dissemination of personal information given by users on the site. They apply to all "Warez-BB Sites", i.e. all sites within the "warez-bb.org� domain.
+> Warez-BB (see "[TOS](https://www.warez-bb.org/profile.php?mode=tos)") considers that respect of privacy on the Internet is of utmost importance. This statement presents the rules applied by Warez-BB for the collection and dissemination of personal information given by users on the site. They apply to all "Warez-BB Sites", i.e. all sites within the "warez-bb.org� domain.
 > 
 > **What information is collected by Warez-BB?**
 > 
