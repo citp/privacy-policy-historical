@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leadforce1.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224701id_/https%3A//www.salesforce.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadforce1.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231024840id_/https%3A//www.salesforce.com/au/company/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Salesforce.com
+# Privacy Policy - Salesforce ANZ
 
 When you use and interact with our websites or services, communicate with or otherwise contact us or visit our offices or attend our events, we may collect, use, share and process information relating to you ("Personal Data"). These Privacy Statement Highlights summarize our Personal Data processing practices and your related rights. 
 
@@ -8,7 +8,7 @@ Salesforce’s full Privacy Statement contains more information about Salesforce
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6)
 
-[ ](https://privacy.truste.com/privacy-seal/validation?rid=c4e93b5b-f002-44f6-86ac-2cdb22d2beeb)
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6)
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6)
 
