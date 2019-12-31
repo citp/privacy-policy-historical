@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backcountry.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223548id_/https%3A//www.backcountry.com/sc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backcountry.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231063959id_/https%3A//www.backcountry.com/sc/privacy-policy) for the most accurate reproduction.*
 
 # Updated Privacy Policy | Backcountry.com
 
