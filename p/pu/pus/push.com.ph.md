@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the push.com.ph privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231709id_/http%3A//corporate.abs-cbn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the push.com.ph privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231133603id_/http%3A//corporate.abs-cbn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ABS-CBN Corporate
 
@@ -9,7 +9,7 @@ A. Data Collection:
 1\. Personal Information you provide to ABS-CBN:  
 To allow you to access and/or use the Website, including the creation, registration or maintenance of a user account specific to you (the “Account”), ABS-CBN may ask you to provide certain contact and personal identifiable details, such as your name, e-mail, home, work or some other address, telephone numbers (landline or mobile),  as well as sensitive personal information, such as nationality, birthday, marital status, gender, educational attainment, occupation, religious, philosophical or political affiliations, family background, government issued data like social security number and passport details.   ABS-CBN also collects anonymous demographic information, which is not unique to you, such as your ZIP code, preferences, interests and favorites.  Please note that providing additional information about yourself may reveal your identity even when using the Website as "Anonymous" user.  
 
-Further information may be collected when ABS-CBN exchanges communications with you, for example, if you submit a request, contact ABS-CBN's support team, or report a violation or complaint to ABS-CBN’s Data Privacy Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) in accordance with your rights as provided below.
+Further information may be collected when ABS-CBN exchanges communications with you, for example, if you submit a request, contact ABS-CBN's support team, or report a violation or complaint to ABS-CBN’s Data Privacy Officer at dpo@abs-cbn.com in accordance with your rights as provided below.
 
 Any such information you provide ABS-CBN is used for its internal purpose only and/or in connection with the Website, and will be treated with utmost confidentiality. 
 
@@ -161,7 +161,7 @@ ABS-CBN recognizes and adheres to your rights to your personal data as provided 
 (d) be indemnified for any damages you may have sustained due to such inaccurate, incomplete, false, unlawfully obtained or unauthorized use of your personal data attributable to ABS-CBN fault or negligence; and/or  
 (e) object to the processing of your personal data, including processing for direct marketing, automated processing or profiling.
 
-Should you wish to exercise any of the foregoing rights, please contact us, by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) ABS-CBN shall endeavor to reply to or otherwise act on your concerns without undue delay and in any event within one (1) month from our receipt of your email. That period may be extended by a further period of two (2) months where necessary, taking into account the complexity and number of requests. ABS-CBN will inform you of any such extension within one (1) month of receipt of your email, together with the reason for the delay.
+Should you wish to exercise any of the foregoing rights, please contact us, by sending an email to dpo@abs-cbn.com. ABS-CBN shall endeavor to reply to or otherwise act on your concerns without undue delay and in any event within one (1) month from our receipt of your email. That period may be extended by a further period of two (2) months where necessary, taking into account the complexity and number of requests. ABS-CBN will inform you of any such extension within one (1) month of receipt of your email, together with the reason for the delay.
 
 B. Changes to this Privacy Notice
 
@@ -169,10 +169,10 @@ ABS-CBN may amend this Privacy Notice at any time in its sole discretion. Any am
 
 C. Contact Information
 
-ABS-CBN welcomes your comments, questions and suggestions regarding this Privacy Notice. You may contact ABS-CBN.com at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) ABS-CBN will use commercially reasonable efforts to promptly reply to your comments and/or questions.
+ABS-CBN welcomes your comments, questions and suggestions regarding this Privacy Notice. You may contact ABS-CBN.com at dpo@abs-cbn.com. ABS-CBN will use commercially reasonable efforts to promptly reply to your comments and/or questions.
 
 D. Opting out 
 
 At all times you may de-register or cancel your Account or uninstall the Website, by using the Website's uninstall option, or by using the programs removal feature of your operating system. Following the uninstallation process, ABS-CBN will not be able to collect any further location based information from you, or provide you with location based information about sites, shops and other places and attractions in your close vicinity.
 
-In some circumstances, you can ask us to delete your personal data.  If you wish to remove personally identifying details from ABS-CBN's servers, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for the facilitation of the request.
+In some circumstances, you can ask us to delete your personal data.  If you wish to remove personally identifying details from ABS-CBN's servers, please contact dpo@abs-cbn.com for the facilitation of the request.
