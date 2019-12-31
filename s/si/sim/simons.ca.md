@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the simons.ca privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621190305id_/https%3A//www.simons.ca/en/the-site/privacy-policy--a12935) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simons.ca privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231140039id_/https%3A//www.simons.ca/en/the-site/privacy-policy--a12935) for the most accurate reproduction.*
 
 # Privacy policy | Simons
 
-We are serious about protecting your identity and personal information. Our privacy policy applies to the personal information we collect in store, through our website at www.simons.ca, and through our customer relationships. At La Maison Simons Inc., we respect our customers. We understand your concerns about privacy, so we have posted this privacy policy to inform you what personal information we collect, how it is treated, what choices you have regarding our use of your information, and how you may access your personal information.
+We are serious about protecting your identity and the personal information you share with us. Our privacy policy applies to the personal information we collect in store, through our website at www.simons.ca, and www.simons.com, through the Simons application, and through our customer relationships. Please read through it. At La Maison Simons Inc., we respect our customers. We understand your concerns about privacy, so we have posted this privacy policy to inform you what personal information we collect, how it is treated, what choices you have regarding our use of your personal information, and how you may access your personal information.
 
-For more information about the Terms of Use for this site, please visit our legal page.
+For more information about the Terms of Use for this Website, please visit our legal page.
 
-This Privacy Policy applies to personal information we collect at our stores, through our website located at www.simons.ca, and through other interactions with our customers.
+This Privacy Policy applies to personal information we collect at our stores, through our Website located at www.simons.ca, and www.simons.com, through the Simons application, and through other interactions with our customers.
+
+In this document, "Website" is used to define all online properties and their domains, including the Simons application.
 
 ##  Collection and Use of Personal Information
 
