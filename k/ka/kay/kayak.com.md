@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kayak.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630174521id_/https%3A//www.kayak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayak.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231062402id_/https%3A//www.kayak.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - KAYAK
 
@@ -24,6 +24,7 @@ Your Choices and Rights | You have choices about your personal information, and 
 International Transfers of Information | We operate internationally, and information about you may be transferred to, or accessed by, entities located in countries outside of your home country. To protect your information, any such international transfers will be made in accordance with applicable law.Learn more  
 Links to Other Websites | Our Services may contain links to other websites or services that are not owned or controlled by KAYAK, including links to websites of our travel partners, our group companies, and other business partners (including advertisers). Learn more  
 Children | Our Services are not directed at or intended for use by children, nor do we knowingly collect information from children under 16 years of age. Learn more  
+Additional disclosures for California customers | These disclosures describe our personal information processing practices in California, as well as the rights that California consumers have with respect to their personal information. Learn more  
 Changes to This Policy | We update this Policy from time to time, and changes will be effective when posted (as identified in the Policy). Learn more  
 How to Contact Us | If you have any questions about this Policy or the way your personal information has been used, please contact us using our feedback form or at the contact details set out below. Learn more  
   
@@ -244,7 +245,7 @@ You can opt out of such sharing by changing your [KAYAK account preferences](htt
 
 If you wish to exercise the legal rights you may have under applicable law, please submit your request by using our [feedback](https://web.archive.org/k/feedback/form) form. So that we can better process your request, please provide the email you use to log into your KAYAK account. If you do not have a KAYAK account, please provide the email you used to make requests or to use our Services.
 
-Where applicable, you may also have the right to register a complaint to your local data protection authority. For residents of the EU and UK, contact information for the EU data protection authorities can be found at [ here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). For residents of Australia, if you are not satisfied with the outcome of your complaint after first contacting us, you may wish to contact the Office of the Australian Information Commissioner; for more information, please refer to [ here](http://www.oaic.gov.au/).
+Where applicable, you may also have the right to register a complaint to your local data protection authority. For residents of the EU and UK, contact the [EU data protection authorities](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). For residents of Australia, if you are not satisfied with the outcome of your complaint after first contacting us, you may wish to contact the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/).
 
 ###  INTERNATIONAL TRANSFERS OF INFORMATION 
 
@@ -259,6 +260,70 @@ Our Services contain links to other websites or services that are not owned or c
 ###  CHILDREN 
 
 Our Services are not directed at or intended for use by children. We do not knowingly collect information from, children under 16 years of age. If you become aware that your child or any child under your care has provided us with information without your consent, please contact us at using the contact details listed in the How to Contact Us section below.
+
+###  ADDITIONAL DISCLOSURES FOR CALIFORNIA CONSUMERS 
+
+These disclosures describe how KAYAK (as defined above) collects, uses, processes, and discloses personal information of California consumers and the rights you may have under California law. These disclosures are intended to supplement KAYAK’s Privacy Policy with information required by the California Consumer Privacy Act.
+
+California law requires that we describe the personal information we collect about California consumers, including by identifying specific categories of information. As we describe in more detail in the “Information We Collect and Use” section of the Privacy Policy, we have collected the following categories of personal information in the past 12 months:
+
+  * Identifiers such as contact information, name, email, or IP address
+  * Characteristics of protected classifications under California or federal law
+  * Commercial information such as transaction history
+  * Device, usage and internet or other electronic network activity information such as information about your device type, browser settings or interactions with our sites
+  * Geolocation data
+  * Visual information
+  * Professional or employment-related information
+  * Inferences about your preferences and interests from data we collect in order to provide and personalize our services and tailor the offers we and our partners provide to you
+
+
+
+  
+For information about the categories of sources from which we obtain personal information, or for additional details about the specific types of personal information we collect, please refer to the “Information We Collect and Use” section of the Privacy Policy. For information about our purpose(s) for collecting, or possibly sharing your personal information, please refer to the “How We Use Your Information” section of the Privacy Policy.
+
+We may share your personal information with third parties as described in the “How We Share Your Information” section of the Privacy Policy. California law also requires that we provide you with information about certain disclosures of personal information to third parties, where the disclosure involves monetary or other consideration. California treats these disclosures as “sales” of information, even if no money changes hands. Some of the disclosures we make constitute “sales” under California law and involve the disclosure of the following types of personal information:
+
+  * Identifiers
+  * Commercial information
+  * Internet activity
+  * Geolocation data
+  * Inferences
+
+
+
+  
+We also disclose certain personal information for “business purposes”, such as disclosures to service providers who assist us with securing our Services or delivering marketing messages and advertisements. We disclose the following types of personal information for our business purposes:
+
+  * Identifiers
+  * Characteristics of protected classifications under California or federal law
+  * Commercial information
+  * Internet activity
+  * Geolocation data
+  * Visual information
+  * Professional or employment-related information
+  * Inferences
+
+
+
+  
+California law grants certain rights to California consumers. These include the rights to:
+
+  * access specific pieces of personal information
+  * learn about how we process and share personal information
+  * request deletion of personal information
+  * opt out of “sales,” as that term is defined under California law
+  * not to be denied goods or services for exercising these rights
+
+
+
+  
+You may exercise your right to opt out of “sales” by clicking this link and following the instructions: [Do Not Sell My Info](https://web.archive.org/privacy/manage).
+
+To exercise your other rights under California law, please contact us using our [feedback form.](https://web.archive.org/k/feedback/form)
+
+If you are an authorized agent wishing to exercise rights on behalf of a California consumer, please contact us using our [feedback form.](https://web.archive.org/k/feedback/form) along with a copy of the consumer’s written authorization designating you as their agent.
+
+Please note that we may need to verify your identity before completing your rights request.
 
 ###  CHANGES TO THIS POLICY 
 
@@ -324,7 +389,7 @@ To personalize your experience of our Sites, for example, by showing you offers 
 
 Where required by law, functional cookies will only be used on the Sites where you have given your consent to their use.
 
-You can opt out of our use of Google Analytics by downloading the browser add-on [here](https://tools.google.com/dlpage/gaoptout).  
+[You can opt out of our use of Google Analytics by downloading the browser add-on](https://tools.google.com/dlpage/gaoptout).  
   
 Advertising (e.g., Google DoubleClick, Google Ads, Oath, Bing Ads)  | 
 
@@ -340,7 +405,7 @@ Where required by law, advertising cookies will be used only on the Sites where 
 
 See the section entitled “Your Cookie Choices” below to learn more about how to withdraw your consent to advertising cookies.
 
-You can opt out of our use of Google Analytics by downloading the browser add-on [here](https://tools.google.com/dlpage/gaoptout).  
+[You can opt out of our use of Google Analytics by downloading the browser add-on](https://tools.google.com/dlpage/gaoptout).  
   
 ###  Our Advertising Cookies 
 
