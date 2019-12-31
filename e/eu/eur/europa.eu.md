@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europa.eu privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611175527id_/https%3A//europa.eu/european-union/abouteuropa/privacy-policy_en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europa.eu privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231093427id_/https%3A//europa.eu/european-union/abouteuropa/privacy-policy_en) for the most accurate reproduction.*
 
 # Privacy policy | European Union
 
@@ -6,65 +6,73 @@
 
 The European Union is committed to user privacy.
 
-The policy on protection of individuals with regard to the processing of personal data by the Community institutions is based on [Regulation (EU) 2018/1725](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1725) of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC.
+The policy on protection of individuals with regard to the processing of personal data by the Community institutions is based on [Regulation (EU) 2018/1725](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1725) of the European Parliament and Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC.
 
-This general policy covers the European Union's family of institutional websites, within the eu domain. Although you can browse through most of these websites without giving any information about yourself, in some cases, personal information is required in order to provide the e-services you request. Websites that require such information treat it according to the policy described in the Regulation mentioned above and provide information about the use of your data in their specific privacy policy statements.
+This general policy covers the European Union's family of institutional websites, within the europa.eu domain. Although you can browse through most of these websites without giving any personal information, in some cases information is required in order to provide the e-services you request. Websites that require such information treat it in full compliance with the regulation mentioned above and provide information about the use of your data in their specific privacy policy statements.
 
 In this respect:
 
-  * for each specific e-service, a controller determines the purposes and means of the processing of personal data and ensures conformity of the specific e-service with the privacy policy;
-  * within each institution, a Data Protection Officer ensures that the provisions of the Regulation are applied and advises controllers on fulfilling their obligations (see [art. 24 of the Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32001R0045&qid=1439283006325#page=13));
-  * for all the institutions, the European Data Protection Supervisor will act as an independent supervisory authority see ([art. 41 to 45 of the Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32001R0045&qid=1439283006325#page=18)).
+  * for each e-service, a controller determines the purposes and means of personal data processing and ensures conformity with the privacy policy
+  * within each institution, a [Data Protection Officer](https://ec.europa.eu/info/departments/data-protection-officer_en) ensures that the provisions of the regulation are applied and advises controllers on fulfilling their obligations
+  * for all the institutions, the [European Data Protection Supervisor](https://secure.edps.europa.eu/EDPSWEB/edps/EDPS/cache/offonce?lang=en) acts as an independent supervisory authority
 
 
 
-The European Union's family of institutional websites, within the eu domain, provides links to third party sites. Since we do not control them, we encourage you to review their privacy policies.
+The European Union's family of institutional websites, within the europa.eu domain, provides links to third party sites. In order to use third party content on our websites, you may need to accept their specific terms and conditions, including their cookie policies, over which we have no control.
 
-### What is an e-service?
+## e-service
 
-An e-service on Europa is a service or resource made available on the Internet in order to improve the communication between citizens and businesses on the one hand and the European institutions on the other hand.
+An e-service on EUROPA is a service or resource made available on the Internet in order to improve the communication between citizens and businesses on the one hand and the European institutions on the other hand.
 
-Three types of e-services are or will be offered by Europa:
+3 types of e-services are, or will be, offered by EUROPA:
 
-  1. information services that provide citizens, media, business, administrations and other decision makers with easy and effective access to information, thus increasing transparency and understanding of the policies and activities of the EU;
-  2. interactive communication services that allow better contacts with citizens, business, civil society and public actors thus facilitating policy consultations, and feedback mechanisms, in order to contribute to the shaping of policies, the activities and the services of the EU;
-  3. transaction services that allow access to all basic forms of transactions with the EU, e.g. procurement, financial operations, recruitment, event enrolment, acquisition or purchase of documents, etc.
+  * information services that provide people, media, businesses, administrations and others with access to information
+  * interactive communication services that allow better contact with people, businesses, civil society and public bodies, in order to facilitate policy consultations and feedback
+  * services that allow access to all basic forms of transactions with the EU, such as procurement, financial operations, recruitment, event enrolment, and acquisition of documents
 
 
 
 ### Information contained in a specific privacy statement
 
-A specific privacy policy statement will contain the following information about the use of your data:
+A specific privacy policy statement will contain the following information about the use of your data
 
-  * what information is collected, for what purpose and through which technical means the EU collects personal information exclusively to the extent necessary to fulfil a specific purpose. The information will not be reused for an incompatible purpose.
-  * to whom your information is disclosed. The EU will only disclose information to third parties if that is necessary for the fulfilment of the purpose(s) identified above and to the mentioned (categories of) recipients. The EU will not divulge your personal data for direct marketing purposes.
-  * how you can access your information, verify its accuracy and, if necessary, correct it. As a data subject you also have the right to object to the processing of your personal data on legitimate compelling grounds except when it is collected in order to comply with a legal obligation, or is necessary for the performance of a contract to which you are a party, or is to be used for a purpose for which you have given your unambiguous consent.
-  * how long your data is kept. The EU only keeps the data for the time necessary to fulfil the purpose of collection or further processing.
-  * what are the security measures taken to safeguard your information against possible misuse or unauthorised access.
-  * whom to contact if you have queries or complaints.
+  * what information is collected, for what purpose and the technical means by which the EU collects personal information in order to fulfil a specific purpose
+  * to whom your information is disclosed
+  * how you can access your information, verify its accuracy and, if necessary, correct it
+  * how long your data is kept
+  * what security measures are taken to safeguard your information against possible misuse or unauthorised access
+  * whom to contact if you have queries or complaints
 
 
 
 ### Europa Analytics
 
-Europa Analytics is the corporate service which measures the effectiveness and efficiency of the Europa (europa.eu) top-level pages managed by the European Commission on behalf of all EU institutions and bodies.
+Europa Analytics is the corporate service that measures the effectiveness and efficiency of the europa.eu site managed by the European Commission on behalf of all EU institutions and bodies.
 
-By default, visitors to the Europa top-level pages are tracked using first-party persistent cookies from Europa (europa.eu).
+You are free to refuse the use of this service – either via the cookie banner that appears at the top of the first page you visit or at [Europa Analytics](https://europa.eu/european-union/abouteuropa/privacy-policy/europa-analytics_en).
 
-You may choose not to be tracked by Piwik (opt-out). If you change your mind, you can choose to be tracked again by Piwik (opt-in).
+The European Commission manages its own web pages (ec.europa.eu). Visit the [privacy policy](https://ec.europa.eu/info/privacy-policy_en) page to manage your options.
 
-The European Commission manages its own web pages (ec.europa.eu). Visit the [privacy policy](https://ec.europa.eu/info/privacy-policy_en) page to opt out from being tracked on these pages.
+EU institutions and bodies other than the European Commission (e.g. European Parliament) may use their own Analytics system. Visit their legal notice pages for more information.
 
-EU institutions and bodies other than the European Commission (i.e. European Parliament) currently use their own Analytics system. Visit their legal notice page for more information.
+Choosing not to use this service does not affect your navigation experience on Europa sites.
 
-Choosing not to be tracked by Piwik does not affect your navigation experience on Europa sites.
+[More about Europa Analytics](https://europa.eu/european-union/abouteuropa/privacy-policy/europa-analytics_en)
 
-[More about Europa Analytics](https://europa.eu/european-union/europa-analytics_en)
+## Contacting Europa sites
 
-## How do we treat e-mails you send us?
+Many web pages on Europa have a contact button, which activates your e-mail software and invites you to send your comments to a specific mailbox.
 
-Many web pages on Europa have a "Contact" button, which activates your e-mail software and invites you to send your comments to a specific functional mailbox.
-
-When you send such a message, your personal data is collected only to the extent necessary to reply. If the management team of the mailbox is unable to answer your question, it will forward your e-mail to another service. You will be informed, via e-mail, about which service your question has been forwarded to. 
+When you send such a message, your personal data is collected only to the extent necessary to reply. If the management team of the mailbox is unable to answer your question, it will forward your e-mail to another service. You will be informed, via e-mail, about which service your question has been forwarded to.
 
 If you have any questions about the processing of your e-mail and related personal data, do not hesitate to include them in your message.
+
+## Safeguarding information
+
+Collected personal data is stored on a computer of the external subcontractor acting as processor, who must guarantee the data protection and confidentiality required by Regulation (EU) 2018/1725.
+
+## Verifying, modifying or deleting information
+
+If you want to verify, modify or delete your personal data stored by the responsible controllers for the Europa website and its sub-sites, you can email the data controller for the Europa website in DG Communication at the address below. In your email, clearly state your request and include the URL of the website/webpages your request refers to.
+
+Email: [europamanagement@ec.europa.eu](mailto:europamanagement@ec.europa.eu)
