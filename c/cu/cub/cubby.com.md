@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the cubby.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226083212id_/https%3A//www.logmeininc.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubby.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231045234id_/https%3A//www.logmeininc.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LogMeIn
 
-Last Updated on January 1, 2018
+Last Updated on January 1, 2018  
+Reviewed on November 30, 2018
 
 **Introduction**
 
