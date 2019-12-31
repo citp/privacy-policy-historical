@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233832id_/https%3A//www.icims.com/legal/privacy-policy-website) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231051401id_/https%3A//www.icims.com/legal/privacy-policy-website) for the most accurate reproduction.*
 
 # iCIMS Talent Platform Privacy Policy - iCIMS
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=94c955a0-b685-4c0f-a302-910b2109963d "TRUSTe Privacy Certification")
 
-Last modified: April 12, 2019
+Last modified: October 30, 2019
 
 Please note, this Privacy Policy relates to the website [www.icims.com](https://www.icims.com/) and its related domains and subdomains, including without limitation, [www.icims.co.uk](https://www.icims.co.uk/) and [www.icims.ca](https://www.icims.ca/) (each the "Website" as applicable). Please refer to [https://www.icims.com/legal/privacy-policy](https://web.archive.org/legal/privacy-policy) for the Privacy Policy relating to the iCIMS Talent Platform.
 
 ###  Introduction
 
-iCIMS, Inc. and iCIMS International, LLC ("iCIMS" or "Company" or "We") respect your privacy and are committed to protecting it through our compliance with this policy.
+iCIMS, Inc., Jibe, Inc., and iCIMS International, LLC ("iCIMS" or "Company" or "We") respect your privacy and are committed to protecting it through our compliance with this policy.
 
 This policy describes the types of information we may collect from you or that you may provide when you interact with us through the Website, (including without limitation, by requesting a demo, by applying for a position with the Company, or by posting a comment or materials to any blog or other interactive part of the Website) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
@@ -27,25 +27,26 @@ Please read this policy carefully to understand our policies and practices regar
 
 ###  General Data Protection Regulation (GDPR), EU-U.S. Privacy Shield, and Swiss-U.S. Privacy Shield
 
-iCIMS, Inc. and its subsidiary company iCIMS International, LLC recognize the importance of protecting and ensuring the integrity of Sensitive and Confidential Information, including Personal Data as defined by the European Union’s (EU) General Data Protection Regulation (GDPR).
+iCIMS, Inc. and its subsidiary company iCIMS International, LLC recognize the importance of protecting and ensuring the integrity of Sensitive and Confidential Information, including Personal Data as defined by the European Union’s (EU) General Data Protection Regulation and the United Kingdom’s (UK) GDPR (collectively, GDPR). For clarity, the UK GDPR means the EU GDPR as amended and incorporated into UK law under the UK European Union (Withdrawal) Act 2018, if in force.
 
-iCIMS, Inc. and its subsidiary company iCIMS International, LLC also participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. iCIMS is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield [List](https://www.privacyshield.gov/list).
+iCIMS, Inc. and its subsidiary company iCIMS International, LLC also participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. iCIMS is committed to subjecting all personal data received from European Union (EU) member countries, the UK, and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield [List](https://www.privacyshield.gov/list).
 
-iCIMS is responsible for the processing of personal data it receives, under GDPR and each Privacy Shield Framework, and subsequent transfers to a third party acting as an agent on its behalf. iCIMS complies with GDPR and the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+iCIMS is responsible for the processing of personal data it receives, under GDPR and each Privacy Shield Framework, and subsequent transfers to a third party acting as an agent on its behalf. iCIMS complies with GDPR and the Privacy Shield Principles for all onward transfers of personal data from the EU, the UK, and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to GDPR iCIMS is subject to the regulatory enforcement powers of the European Union (EU) in conjunction with the U.S. Federal Trade Commission. For each Privacy Shield Framework, iCIMS is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, iCIMS may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to GDPR, iCIMS is subject to the regulatory enforcement powers of the European Union (EU) in conjunction with the U.S. Federal Trade Commission. For each Privacy Shield Framework, iCIMS is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, iCIMS may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 In compliance with GDPR and the Privacy Shield Principles, iCIMS commits to resolve complaints about our collection and use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our privacy practices should first contact iCIMS as provided below.
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at: [privacy@icims.com](mailto:privacy@icims.com).
 
 iCIMS, Inc.  
+Attn: Privacy, Legal Department  
 101 Crawfords Corner Road, Suite 3-100  
-Holmdel, NJ 07733
+Holmdel, NJ 07733 USA 
 
-iCIMS commits to cooperate with the panel established by the EU Data Protection authorities (DPAs) and/or the Swiss Federal Data Protection and Information Commissioner, as applicable and comply with the advice given by the panel and/or Commissioner, as applicable with regard to human resources data transferred from the EU and/or Switzerland, as applicable in the context of the employment relationship.
+iCIMS commits to cooperate with the panel established by the EU Data Protection authorities (DPAs) and/or the Swiss Federal Data Protection and Information Commissioner, as applicable and comply with the advice given by the panel and/or Commissioner, as applicable with regard to human resources data transferred from the EU, the UK, and/or Switzerland, as applicable in the context of the employment relationship.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste/watchdog/request.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 Under certain conditions, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. Additionally, if you believe that iCIMS is not processing your information in accordance with the requirements set forth herein or applicable European Economic Area (EEA) data protection and privacy laws, you may, at any time, lodge a complaint with the appropriate supervisory authority of the EEA country in which you reside or the supervisory authority of the country or state in which iCIMS has a registered seat.
 
@@ -97,7 +98,7 @@ As is true of most websites, we gather certain information automatically. This i
 
 iCIMS and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
-**Behavioral Re-targeting**. We partner with a third party to either display advertising on our Website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this Website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note that will continue to receive generic ads. If you who wish to prevent the collection of data by Google Analytics, you may use the opt-out browser add-on developed by Google for this purpose, as further described in applicable materials made publicly available by Google.
+**Behavioral Re-targeting**. We partner with a third party to either display advertising on our Website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this Website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note that will continue to receive generic ads. If you wish to prevent the collection of data by Google Analytics, you may use the opt-out browser add-on developed by Google for this purpose, as further described in applicable materials made publicly available by Google.
 
 ###  How We Use Your Information
 
