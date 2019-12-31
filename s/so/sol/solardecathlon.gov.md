@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solardecathlon.gov privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233840id_/https%3A//www.energy.gov/about-us/web-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solardecathlon.gov privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231093524id_/https%3A//www.energy.gov/about-us/web-policies/privacy) for the most accurate reproduction.*
 
 # Privacy | Department of Energy
 
