@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurphotographer.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235512id_/http%3A//www.timeincuk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurphotographer.co.uk privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231220604id_/http%3A//www.timeincuk.com/privacy) for the most accurate reproduction.*
 
 # TI Media Official Website|privacy policy
 
@@ -6,7 +6,7 @@ This Privacy & Cookies Policy explains how TI Media Limited and its group compan
 
 We will collect various types of information about you through your use of our sites to process your requests and orders, to provide a more personalised web-surfing and shopping experience and to help us improve the services we offer. In doing this we also collect information about you through the use of cookies and similar technologies.
 
-This version was last updated on 25 May 2018. We have updated our Privacy & Cookies Policy in order to comply with new data protection laws in the UK which will come into force on 25 May 2018. Please check back regularly as we will need to make periodic changes to this policy to reflect updated guidance and requirements when they become available.
+This version was last updated on 8 August 2019. We have updated our Privacy & Cookies Policy in order to comply with new data protection laws in the UK which came into force on 25 May 2018. Please check back regularly as we will need to make periodic changes to this policy to reflect updated guidance and requirements when they become available.
 
 **
 
@@ -31,6 +31,8 @@ International Transfers
 Your Rights
 
 Changes to our Privacy & Cookies Policy
+
+[Collective's Privacy Policy](http://collectiveuk.com/privacy-policy/)
 
 How to contact us
 
@@ -196,7 +198,7 @@ Cookies and other technologies
 
 **
 
-We use, and allow certain other companies to use, cookies, web beacons and other similar technologies on our sites, applications and communications. We do this to understand your use of our services, improve your user experience, enable personalised features and content, optimise our advertising and marketing and to enable third party advertising companies to assist us in serving you advertisements specific to your interests across the internet. The technologies we use do not collect any information which directly identifies you in the real world, such as your name, email address, address or phone number.
+We use, and allow certain other companies to use, cookies, web beacons and other similar technologies on our sites, applications and communications. This is to understand your use of our services, improve your user experience, enable personalised features and content, optimise advertising and marketing and enable us and third party advertising companies to serve you advertisements specific to your interests across the internet. The technologies we use do not collect any information which directly identifies you in the real world, such as your name, email address, address or phone number.
 
 **
 
@@ -339,6 +341,6 @@ If you have any other queries about our use of cookies, you can contact us at th
 
 **
 
-Last updated: 12 June 2018
+Last updated: 8 August 2019
 
 **  
