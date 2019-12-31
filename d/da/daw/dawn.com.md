@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawn.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231111556id_/https%3A//www.dawn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawn.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231190845id_/https%3A//www.dawn.com/privacy) for the most accurate reproduction.*
 
 # Privacy - DAWN.COM - DAWN.COM
 
