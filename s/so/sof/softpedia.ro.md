@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the softpedia.ro privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630153905id_/https%3A//www.softpedia.com/user/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softpedia.ro privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231173139id_/https%3A//www.softpedia.com/user/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_(updated May 24th, 2018; effective May 25, 2018)_
+_(updated December 30th, 2019; effective January 1, 2020)_
 
 ### Introduction
 
@@ -27,6 +27,8 @@ This version was last updated on 24th of May 2018. It is important that the pers
 
 This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
+* * *
+
 ### The data we collect about you
 
 Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous or anonymized data).
@@ -47,6 +49,8 @@ We also collect, use and share Aggregated Data such as statistical or demographi
 
 Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to deliver the product you have ordered but we will notify you if this is the case.
 
+* * *
+
 ### How is your personal data collected?
 
 We use different methods to collect data from and about you including through:
@@ -55,6 +59,8 @@ We use different methods to collect data from and about you including through:
   * Automated technologies or interactions: As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, and other similar technologies. 
 
 
+
+* * *
 
 ### How we use your personal data
 
@@ -73,15 +79,15 @@ A description of all the ways we plan to use your personal data, and which of th
 
 1\. User registration and authentication (log in)  
 Data processed: Contact Data, User Account Data  
-Lawful basis: legitimate interest 
+Lawful basis: legitimate interest
 
 2\. To manage our relationship with you (for example, sending you notifications about applications saved in your watchlist, if and only if you choose to receive them)  
 Data processed: Contact Data  
-Lawful basis: performance of a contract, legitimate interest 
+Lawful basis: performance of a contract, legitimate interest
 
 3\. To enable you to partake in a prize draw, competition or complete a survey  
 Data processed: Contact Data  
-Lawful basis: legitimate interest 
+Lawful basis: legitimate interest
 
 4\. To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)  
 Data processed: Technical Data, Usage Data  
@@ -89,11 +95,11 @@ Lawful basis: lawful obligation, legitimate interest
 
 5\. To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you  
 Data processed: Usage Data  
-Lawful basis: legitimate interest 
+Lawful basis: legitimate interest
 
 6\. To use data analytics to improve our website  
 Data processed: Technical Data, Usage Data  
-Lawful basis: legitimate interest 
+Lawful basis: legitimate interest
 
 You will receive marketing communications from us if you have requested information from us or purchased products from us and, in each case, you have not opted out of receiving that marketing.
 
@@ -113,9 +119,13 @@ We will get your express opt-in consent before we share your personal data with 
 
 You can set your browser to refuse all or some of the browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our [Cookies Policy](http://www.softpedia.com/user/cookies.shtml).
 
+* * *
+
 ### Disclosures of your personal data
 
 We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+* * *
 
 ### International transfers
 
@@ -125,11 +135,15 @@ We will only transfer your personal data to countries that have been deemed to p
 
 Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. For further details, see European Commission: EU-US Privacy Shield.
 
+* * *
+
 ### Data security
 
 We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorized way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
 
 We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+* * *
 
 ### Data retention
 
@@ -141,7 +155,7 @@ In some circumstances you can ask us to delete your data: see “request erasure
 
 In some circumstances we may anonymize your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
 
-### Specific legal Rights for users located in the [EEA region](https://en.wikipedia.org/wiki/European_Economic_Area)
+* * *
 
 You may contact our data protection officer at dpo@softnews.ro for more information or to exercise any of these rights:
 
@@ -175,10 +189,61 @@ We may need to request specific information from you to help us confirm your ide
 
 We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
+* * *
+
+### Specific legal rights for users located in California, United States of America (CCPA)
+
+The California Consumer Privacy Act, Cal. Civ. Code §1798.100 et. seq. (“CCPA”), grants residents of California certain rights with respect to their Personal Information and requires us to provide such individuals with certain information, described below.
+
+1\. California residents may exercise the following rights by contacting our Privacy Policy Coordinator by email at dpo@softnews.ro:
+
+  * Know the ways in which we acquire, use, share, disclose and otherwise process your Personal Information;
+  * Know the specific pieces of your Personal Information that we hold;
+  * Request the deletion of your Personal Information, subject to several exceptions;
+  * Not to be denied goods or services for exercising these rights
+
+
+
+2\. California residents also have the right to opt-out of the “sale” of their Personal Information. We put “sale” in quotation marks because the CCPA considers some transfers of Personal Information to third parties in exchange for value as “sales,” even if no money changes hands, such as when online identifiers, Device IDs, and other information is shared with Third Party Businesses to further their own commercial purposes such as generating profiles about individuals. . If we have actual knowledge that a California resident is younger than 16, we will request opt-in consent before selling their Personal Information. Note that we can still share Personal Information with third parties if those transfers aren’t “sales,” such as with our Service Providers.
+
+3\. Depending on the circumstances and which Service you use, we have disclosed the following categories of your Personal Information for a “business purpose” (as defined in the CCPA) in the preceding twelve (12) months:
+
+  * Identifiers
+  * Commercial information
+  * Geolocation data
+  * Internet or other electronic network activity information
+  * Professional information
+  * Education information
+  * Inferences drawn from any of the above information categories.
+
+
+
+4\. Depending on the circumstances and which Service you use, we have “sold” (as defined in the CCPA) the following categories of your Personal Information in the preceding twelve (12) months:
+
+  * Identifiers
+  * Commercial information
+  * Geolocation data
+  * Internet or other electronic network activity information
+  * Professional information
+  * Education information
+  * Inferences drawn from any of the above information categories.
+
+
+
+5\. You can designate an authorized agent to submit requests on your behalf. However, we will require written proof of the agent’s permission to do so and verify your identity directly.
+
+6\. You have the right not to receive discriminatory treatment by us for the exercise of any of your rights.
+
+7\. California's "Shine the Light" law permits customers who are California residents to request certain details about how a business shares their personal information as defined by "Shine the Light" with third parties (and in some cases affiliates) for those third parties' or affiliates' own direct marketing purposes. California customers may request information about our compliance with this law by contacting us by e-mail at california-privacy@maxmind.com or by mail at the address set forth in Section 11 above. Any such inquiry must include "California Privacy Rights Request" in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email or mail address.
+
+* * *
+
 ### Opt-outs
 
-[Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=en)  
-[Google Ads](https://www.google.com/settings/ads)  
-[European Digital Advertising Alliance](http://www.youronlinechoices.com/ro/)  
-[Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp)  
-[Digital Advertising Alliance](http://www.aboutads.info/)
+  * [Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=en)
+  * [Google Ads](https://www.google.com/settings/ads)
+  * [European Digital Advertising Alliance](http://www.youronlinechoices.com/ro/)
+  * [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp)
+  * [Digital Advertising Alliance](http://www.aboutads.info/)
+
+
