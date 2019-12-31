@@ -1,57 +1,38 @@
-> *The following text is extracted and transformed from the eudora.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629151958id_/http%3A//www.eudora.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eudora.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231205646id_/https%3A//computerhistory.org/privacy) for the most accurate reproduction.*
 
-# Eudora Privacy Statement
+# Privacy - CHM
 
-**Eudora Privacy Statement**
+The Computer History Museum (CHM) is concerned about protecting the privacy of all CHM web site visitors. CHM respects your privacy and your choice not to have your personal information shared with other people. CHM has created this privacy policy in order to demonstrate our firm commitment to protecting your privacy. Please read the following to learn more about our policy. Your use of our web site indicates your acceptance of this Privacy Policy.
 
-**QUALCOMM has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website,[WWW.EUDORA.COM](http://www.eudora.com/), and for our Eudora email client.**
+### Collection of Information
 
-**
+The Computer History Museum web site does not collect personally identifying data, such as names, addresses, email addresses, and the like, except when voluntarily submitted by web site visitors. Information collected from visitors of the CHM web site is used to make our web site more useful by helping us learn about the number of visitors to our site, the areas they access and the types of technology our visitors use. We do not track or record information about individuals and their visits. We may compile and report aggregate statistics about our web visitors — such as numbers, traffic patterns, and related site information — but these statistics include no personally identifying information.
 
-Eudora will never share information about you without your permission (unless required by law).
+###  Security 
 
-** **
+The Computer History Museum (CHM) web site has security measures in place to protect against the loss, misuse, or alteration of the information under our control. Attempts to gain access to restricted portions of this web site or to this web site’s technical infrastructure, for whatever purpose, are logged and may prompt commencement of an investigation by CHM staff, or local, federal (U.S.) or international law-enforcement agencies. Various provisions exist to monitor activities which could be deemed suspicious in terms of network or site security. In cases where such provisions are activated, you should have no expectation of privacy.
 
-Third-party Sites
+### Disclosure of Information
 
-**
+The Computer History Museum (CHM) will not disclose or share any personal information you provide to CHM with any other third party without your permission, except if requested to do so in accordance with a court order, subpoena, or similar legal order, and in the event such disclosure is necessary to protect the rights, property, and safety of CHM, its visitors, and other third parties. CHM will not sell, trade, or rent your personal information to others without your permission.
 
-> This site contains links to other sites for your convenience. These third-party sites may also request personal information from you. These third-party sites are not covered by this Privacy Statement and QUALCOMM is not responsible for the privacy practices or the content of such web sites. These sites may have their own privacy policies or statements and we encourage you to learn their practices before providing information. 
+### Third Party Processing
 
-**
+Event reservations, event tickets, other purchases and online donations made through the Computer History Museum (CHM) web site may be processed by third parties contracted by CHM who handle all related ordering, processing, and delivery of the products. The third parties’ practices in connection with the ordering, processing, and delivery of products are subject to their own privacy policies.
 
-WEB SITE: www.eudora.com
+### Communications Opt-In
 
-**
+The Computer History Museum (CHM) requires visitors to opt-in to receive information from CHM or from our partners or vendors via email. If you choose, you may opt-out from further email communication from CHM. Also you may request to have your contact information updated or amended. CHM provides web site visitors the following options for opting out of future communications: by email: [webmaster@computerhistory.org](mailto:webmaster@computerhistory.org)  
+As contact lists may be created several weeks in advance, please allow sufficient time for your request to be processed.
 
-> IP addresses of visitors to our Web site are used to help diagnose problems with our server and to administer our Web site. IP addresses are also used to compile general demographic information. We will not attempt to identify individual users through their IP addresses. 
-> 
-> Our website uses cookies, which are used to measure various metrics pertaining to user traffic and frequency of visit to our website. There is no personal identifiable information associated with these metrics. The metrics are aggregated and made available publicly to indicate website traffic patterns. 
+###  Links 
 
-**EUDORA Desktop Email Client.**
+The Computer History Museum (CHM) web site provides links to other third party web sites, and other, external web sites may provide links to the CHM web site. Third party web sites operate according to their own terms of use and privacy policies. CHM has no control over such third party Web sites, and therefore you acknowledge and agree that CHM is not responsible for the availability of such third party sites, and does not endorse and is not responsible or liable for any content, advertising, products, or other materials on or available from such third party sites. You further acknowledge and agree that CHM will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, advertising, products, or other materials on or available from such sites.
 
-> Eudora 4.3 or greater running in Sponsored mode, Light mode or Paid mode, whether purchased in a retail store or downloaded electronically, regularly contacts QUALCOMM update servers to check if newer versions of Eudora are available. If a newer version is available, Eudora will notify the user and give the user the option to upgrade. The user has the ability to disable the update check at any time. Instructions for disabling this feature can be found at eudora.com for [Windows](http://www.eudora.com/techsupport/kb/2111hq.html) and [Mac](http://www.eudora.com/techsupport/kb/2122hq.html) versions of the software. The program also checks to see whether the logo of a co-branding affiliate should appear in the Light and Sponsored modes. No personal information whatsoever is transmitted back to QUALCOMM during these processes. 
-> 
-> **Registration Information**  
->  When a user registers, we collect certain contact information (like email address and first and last name) that will be used to verify the user's eligibility for services and upgrades, provide services like technical support and verify a user's identity in the case of a lost registration code. This information may also be used to contact the user, with their permission. 
-> 
-> **Other Information**  
->  We also may ask, a small percentage of users who have authorized us to do so, to send us information on their Eudora usage (like features used) and Internet connection time. **This does not contain actual data entered by the user. Any identifying information gathered is immediately separated from this information, so that we have no idea whose usage pattern we have.**
-> 
-> **User Profile**  
->  When users fill out a demographic profile, a profile ID is generated and sent to the Eudora client software on the user's system. This information is used to serve ads that are more relevant to the user. The user can choose to modify or delete the profile at any time. 
-> 
-> We aggregate this information eliminating personally identifiable information in the process. The aggregate information is shared with advertisers 
-> 
-> **We will never, for any purpose whatsoever, examine the contents, addresses, subjects or attachments of user emails. This is true of all other data users enter in their address book, personalities, filters, stationery, etc.**
+###  Children 
 
-**Statement on Unsolicited Bulk or Commercial Email ("SPAM")**  
-QUALCOMM is committed to preventing the transmission, distribution or delivery of unsolicited bulk or commercial email ("SPAM") and it is the policy of QUALCOMM, its affiliates and advertisers at all times to comply with the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 and other applicable laws, rules, and regulations in connection with the transmission, distribution or delivery of SPAM. 
+The Computer History Museum (CHM) web site does not solicit personal information from children. Visitors who are 13 years of age and under must obtain a parent’s permission before submitting any personal information to this web site.
 
-**Updates to this Privacy Statement**  
-While we will never change our fundamental commitment to protecting user privacy, regulatory changes or other circumstances may require us to modify this Privacy Statement. In the event that we do amend this Statement, we will post the amended Statement on our website at http://www.eudora.com/privacy, and the amended Statement will be effective immediately. 
+### Changes to Our Policy
 
-**Contacting the Web Site**  
-If you have any questions about this Privacy Statement, the practices of this site, or your dealings with this Web site, you can contact our [webmaster](mailto:webmaster@eudora.com). 
-
-Last revised: July 2, 2004.
+The Computer History Museum may amend this privacy policy from time to time. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on this page.
