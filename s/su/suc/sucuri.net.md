@@ -1,151 +1,206 @@
-> *The following text is extracted and transformed from the sucuri.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624181559id_/https%3A//sucuri.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sucuri.net privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231144022id_/https%3A//sucuri.net/privacy) for the most accurate reproduction.*
 
 # Read Our Website Security Company Privacy Policy | Sucuri
 
-## Collected Information
+Last Revised:
 
-We collect and use personal data only as it might be needed for us or instructed by you to deliver you our world-class products, services, websites applications (collectively, our “Services”). Your personal data includes information such as:
+## December, 24th, 2019
+
+**To view our archived Privacy Policy,[click here](https://sucuri.net/archived-privacy-policy/).**
+
+GoDaddy Media Temple, Inc. d/b/a Sucuri cares about your privacy. For this reason, we collect and use personal information only as needed to deliver our products, services, websites and mobile applications, and to communicate with you about the same, or as you have requested(collectively, our“ Services”). Your personal information includes information such as:
 
   * Name
   * Address
   * Telephone number
+  * Date of birth
   * Email address
+  * Billing and payment information
+  * Candidate information(for job applicants)
   * Other data collected that could directly or indirectly identify you.
 
 
 
-We collect information so that we can provide the best possible experience when you utilize our Services. Much of what you likely consider personal data is collected directly from you when you:
+Our Privacy Policy not only explains how and why we use your personal information that we collect, but also how you can access, update or otherwise take control of your personal information.
 
-  * (1) create an account or purchase any of our Services (ex: billing information, including name, address, credit card number, government identification);
+If at any time you have questions about our practices or any of your rights described below, you may reach our Data Protection Officer(“DPO”) and our dedicated team that supports this office by contacting us at [privacy@sucuri.net](mailto:privacy@sucuri.net). This inbox is actively monitored and managed so that we can deliver an experience that you can confidently trust.
+
+## What information we collect, how we collect it, and why.
+
+Much of what you likely consider personal data is collected directly from you when you:
+
+  * (1) create an account or purchase any of our Services(ex: billing information, including name, address, credit card number, government identification);
+
   * (2) request assistance from our award-winning customer support team (ex: phone number);
+
   * (3) complete contact forms or request newsletters or other information from us (ex: email); or
+
   * (4) participate in contests and surveys, apply for a job, or otherwise participate in activities we promote that might require information about you.
 
 
 
-## Information Usage
 
-We may use the information we collect for certain purposes, including the following:
+However, we also collect additional information when delivering our Services to you to ensure necessary and optimal performance.These methods of collection may not be as obvious to you, so we thought we’ d highlight and explain a bit more about what these might be(as they vary from time to time):
 
-  * Maintain and provide our Site, products, and services
-  * Fulfill the purpose for which you provide it
-  * Personalize your experience
-  * Improve our Site, products and services
-  * Develop new products and services
-  * Process transactions
-  * Improve security
-  * Detect and prevent fraud
-  * Protect our and our visitors' safety
-  * Analyze and monitor activity on our Site
-  * Comply with our obligations
-  * Marketing
-  * Exercise our rights
-  * Enforce our contracts
+**Cookies and similar technologies** on our websites and our mobile applications allow us to track your browsing behavior, links clicked, items purchased, your device type, and to collect various data, including analytics, about how you use and interact with our Services.These technologies automatically collect data when you use and interact with our Services, including metadata, log files, cookie / device IDs, page load time, server response time, and approximate location information to measure website performance and improve our systems, including optimizing DNS resolution, network routing and server configurations.Specifically, interactions with the features, content and links(including those of third – parties, such as social media plugins) contained within the Services, Internet Protocol(IP) address, browser type and settings, the date and time the Services were used, information about browser configuration and plugins, language preferences and cookie data, information about devices accessing the Services, including type of device, what operating system is used, device settings, application IDs, unique device identifiers and error data is collected.All this allows us to provide you with more relevant product offerings, a better experience on our sites and mobile applications, and to collect, analyze and improve the performance of our Services.We may also collect your location(IP address) so that we can personalize our Services. For additional information, and to learn how to manage the technologies we utilize, please visit our [Cookie Policy](https://sucuri.net/cookies/). If you wish to opt out of interest – based advertising click [here](http://preferences-mgr.truste.com/) [or if located in the European Union click [here](http://www.youronlinechoices.eu/)].Please note you will continue to receive generic ads.
+
+**Supplemented Data** may be received about you from other sources, including publicly available databases or third parties from whom we have purchased data, in which case we may combine this data with information we already have about you so that we can update, expand and analyze the accuracy of our records, assess the qualifications of a candidate for employment, identify new customers, and provide products and services that may be of interest to you.If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+## How we utilize information.
+
+We strongly believe in both minimizing the data we collect and limiting its use and purpose to only that(1) for which we have been given permission, (2) as necessary to deliver the Services you purchase or interact with, or(3) as we might be required or permitted for legal compliance or other lawful purposes:
+
+## Delivering, improving, updating and enhancing our Services.
+
+We collect various information relating to your purchase, use and / or interactions with our Services.We utilize this information to:
+
+  * Improve and optimize the operation and performance of our Services(again, including our websites and mobile applications)
+
+  * Diagnose problems with and identify any security risks, errors, or needed enhancements to the Services
+
+  * Detect and prevent fraud and abuse of our Services and systems
+
+  * Collecting aggregate statistics about use of the Services
+
+  * Understand and analyze how you use our Services and what products and services are most relevant to you.
 
 
 
-## Information Sharing
 
-We may share your information in certain circumstances, including the following:
+Much of the data collected is aggregated or statistical data about how individuals use our Services, and is not linked to any personal information.
 
-**With Service Providers and Vendors:**  We may retain other companies and individuals to perform services for us, and we may collaborate with other companies and individuals with respect to particular products or services (collectively, “Providers”). In doing so, we may share information with these Providers and/or these Providers may collect and process your information. Examples of Providers include data analysis firms (e.g. Google Analytics), customer service and support providers, payment processors, and internet service companies. These companies are authorized to use your personal information only as necessary to provide these services to us.
+## Sharing with trusted third parties.
 
-**Legal Compliance & Protecting Rights:** In certain situations, Sucuri may be required to disclose personally identifiable information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may also disclose your personally identifiable information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. Sucuri may be required to disclose personally identifiable information for compliance with applicable laws. In addition, Sucuri may elect to monitor the areas of communication of any kind (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate Sucuri; or (iii) to protect the rights or property of Sucuri or others.
+We may share your personal information with affiliated companies within our corporate family, with third parties with which we have partnered to allow you to integrate their services into our own Services, and with trusted third party service providers as necessary for them to perform services on our behalf, such as:
 
-**To Members of the Corporate Family:**  Sucuri may disclose your information to our parent, subsidiaries and other affiliates, and their agents and employees.
+  * Processing credit card payments
+  * Serving advertisements
+  * Conducting contests or surveys
+  * Performing analysis of our Services and customers demographics
+  * Communicating with you, such as by way email or survey delivery
+  * Customer relationship management
+  * Recruiting support and related services.
 
-**Business Transfer:** In connection with the potential sale or transfer of Sucuri (in whole or in part), Sucuri reserves the right to sell or transfer your information (including, but not limited to name, address information, and other information you provided to Sucuri) to a third party.
 
-**Consent:** We may also disclose your personal information to any other third party with your prior consent.
 
-## Cookies & Other Tools
+We only share your personal information as necessary for any third party to provide the services as requested or as needed on our behalf. These third parties(and any subcontractors they may be permitted to use) are subject to strict data processing terms and conditions and are prohibited from utilizing, sharing or retaining your personal information for any purpose other than as they have been specifically contracted for (or without your consent).
 
-Our Site uses cookies to identify you so you don't need to log in each time you visit our Site. The cookies are linked to your customer identifier, which is associated with the information in your account. If you reject cookies, you may still use our Site and applications, but your ability to use some features or areas may be limited.
+We may also share your information with third parties for the purpose of facilitating / allowing a merger, acquisition or sale of all or substantially all of our assets, in which case the acquiring company may continue to utilize your data in the manner for which it was provided and intended.
 
-Within our Site we and our partners, affiliates, and/or analytics or service providers use technologies such as cookies, beacons, tags and scripts to analyze trends, administer the Site, track visitors' movements around the Site and to gather demographic information about our visitor base as a whole. We may receive reports based on the use of these technologies by these companies on an individual or aggregated basis.
+## Communicating with you.
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and/or clickstream data. We use this information gathered about you from our Site to help personalize search results, diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We may contact you directly or through a third party service provider regarding products or services you have signed up or purchased from us, such as necessary to deliver transactional or service related communications. We may also contact you with offers for additional services we think you’ ll find valuable if you give us consent, or where allowed based upon legitimate interests. You don’t need to provide consent as a condition to purchase our goods or services. These contacts may include:
 
-We also use tracking technologies such as: CI codes (click tracking), ISC (source tracking), and ITC (item tracking codes, attached to purchases at an item level, used to determine where within the application a product was added). We report this data back to our Sucuri web services. These results are not shared with any third parties and are used solely for deciding when to retire SDKs/OS versions and to identify characteristics of major visitors so that we may optimize our applications and services for those visitor types.
+  * Email
+  * Text (SMS) messages
+  * Telephone calls
+  * Messenger applications (e.g. WhatsApp, etc.)
+  * Automated phone calls or text messages.
 
-You can set your browser to notify you when you receive a cookie and you can refuse it; this may, however, reduce functionality of certain Site features.
 
-## Geolocation Data
 
-With your express consent, we may access and track location data from your mobile device in order to personalize results or other content. We do not tie any personally identifiable information about you to any of the location tracking technologies that we use.
+You may also update your subscription preferences with respect to receiving communications from us and/or our partners by signing into your account and visiting “Account Settings” page.
 
-## Targeted Advertisements
+If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy policy applies. In addition, it will describe any choice options you have in regards to the use and/or sharing of your personal information with a co-branded partner, as well as how to exercise those options. We are not responsible for the privacy practices or the content of third-party sites. Please read the privacy policy of any website you visit.
 
-Absent any instructions from you, Sucuri may use information you provide to inform you about additional services and products offered by Sucuri’s affiliates, Sucuri venture companies, Sucuri authorized agents, and, where you have consented or where permitted under applicable law, other goods and services providers with whom Sucuri has relationships and whose offerings might be of interest to you. Sucuri and our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/), or if located in the European Union click [here](http://preferences-mgr.truste.com/). Please note you will continue to receive generic ads.
+If you make use of a service that allows you to import contacts (ex. using email marketing services to send emails on your behalf), we will only use the contacts and any other personal information for the requested service. If you believe that anyone has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [privacy@sucuri.net](mailto:privacy@sucuri.net).
 
-## Supplementation of Information
+## Transfer of personal information abroad.
 
-In order to provide certain services to you, we may on occasion supplement the information you submit to us with information from third party sources (e.g., information from our strategic partners, service providers, or the United States Postal Service). We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+If you utilize our Services from a country other than the country where our servers are located, your personal information may be transferred across international borders. Also, when you call us or initiate a chat, we may provide you with support from one of our global locations outside your country of origin.
 
-## Security
+## Compliance with legal, regulatory and law enforcement requests.
 
-The security of your personally identifiable information is important to us. We follow generally accepted standards to protect the personally identifiable information submitted to us, both during transmission and once it is received. Even though we take precautions to protect information, no security measures can be 100% secure, and we cannot guarantee the security of your information. If you have any questions about the security of your personally identifiable information, you can contact us at [privacy@sucuri.net](mailto:privacy@sucuri.net).
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (such as subpoena requests), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical.
 
-## Do Not Track Disclosures
+To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process. 
 
-Do Not Track (“DNT”) is a privacy preference that visitors can set in their web browsers. When a visitor turns on DNT, the browser sends a message to websites requesting that they don’t track the visitor. Currently, there is no standardized way to respond to such signals, and we do not respond to such signals at this time. For information about DNT, visit [www.allaboutdnt.org](http://www.allaboutdnt.org/)
+## How we secure, store and retain your data.
 
-## Data Retention
+We follow generally accepted standards to store and protect the personal information we collect, both during transmission and once received and stored, including utilization of encryption where appropriate.
 
-We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements.
+We retain personal information only for as long as necessary to provide the Services you have requested and thereafter for a variety of legitimate legal or business purposes. These might include retention periods:
 
-## Visitor Consent
+  * mandated by law, contract or similar obligations applicable to our business operations;
 
-Information that you disclose in a public space, including on any blog, bulletin board, chat room, or website Sucuri may host for you as part of your Sucuri services, is available to anyone else who visits that space. Sucuri cannot safeguard any information you disclose in these locations.
+  * for preserving, resolving, defending or enforcing our legal/contractual rights; or
 
-If you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, Sucuri will treat that portion of the information as non-confidential and nonproprietary and, except as otherwise expressed in this Policy, Sucuri assumes no obligation to protect such information from disclosure. To request removal of your personally identifiable information from our blog or community forum, contact us at [privacy@sucuri.net](mailto:privacy@sucuri.net). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
+  * needed to maintain adequate and accurate business and financial records. 
 
-## Third Party Sites
 
-Additionally, the Sucuri Site contains links to sites that belong to third parties unrelated to Sucuri. Sucuri cannot protect any information you may disclose in these sites and recommends that you review the privacy policy statements of those sites you visit.
 
-## Transborder Transfer
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries. By visiting this Site and communicating electronically with us, you consent to such transfers.
+If you have any questions about the security or retention of your personal information, you can contact us at [privacy@sucuri.net](mailto:privacy@sucuri.net).
 
-## The E.U-U.S and Swiss-U.S. Privacy Shield Frameworks
+## How you can access, update or delete your data.
 
-Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Mad Mimi, Inc. and GoDaddy Media Temple, Inc.) participates in and has certified its compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Framework. Go Daddy Operating Company, LLC is committed to subjecting all personal data received from the EU or Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
+To easily access, view, update, delete or port your personal information, or to update your subscription preferences, please sign into your Account and visit “Account Settings.”
 
-Go Daddy Operating Company, LLC is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Go Daddy Operating Company, LLC complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+If you make a request to delete your personal information and that data is necessary for the products or services you have purchased, the request will be honored only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements.
 
-With respect to personal data received or transferred pursuant to each Privacy Shield Framework, Go Daddy Operating Company, LLC is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Go Daddy Operating Company, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+If you are unable for any reason to access your Account Settings, you may also contact us by one of the methods described in the “Contact Us” section below.
+
+## The E.U-U.S and Swiss-U.S. Privacy Shield Frameworks.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=97e75c6a-f9e7-467c-aa50-37378aff5354)
+
+Our parent company, GoDaddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Mad Mimi, Inc. and Media Temple, Inc.) participates in and has certified its compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Framework. GoDaddy Operating Company, LLC is committed to subjecting all personal information received from the EU or Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List.](https://www.privacyshield.gov/list)
+
+GoDaddy Media Temple, Inc. is responsible for the processing of personal information it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. GoDaddy Media Temple, Inc. complies with the Privacy Shield Principles for all onward transfers of personal information from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal information received or transferred pursuant to each Privacy Shield Framework, GoDaddy Media Temple, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, GoDaddy Media Temple, Inc. may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-## Access
+In compliance with the Privacy Shield Principles, GoDaddy Media Temple, Inc. commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us in any manner provided in the “CONTACT US” section below in this Privacy Policy.
 
-Upon request, we will provide you with a copy of your account data (EU customers only), or information about whether we hold, or process on behalf of a third party, any of your personally identifiable information. To request this information please contact us at [privacy@sucuri.net](mailto:privacy@sucuri.net).
+GoDaddy Media Temple, Inc. has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU and Switzerland in the context of the employment relationship.
 
-You may also correct or request deletion of your personally identifiable information by contacting us at [privacy@sucuri.net](mailto:privacy@sucuri.net) or through the Account Center (for instructions, [click here](https://support.sucuri.net/support/new-support-ticket/).) We will respond to these requests within a reasonable timeframe.
+## ‘Do Not Track’ notifications.
 
-## Children
+Some browsers allow you to automatically notify websites you visit not to track you using a “Do Not Track” signal. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit [www.allaboutdnt.com](https://web.archive.org/web/20191231144022id_/https://sucuri.net/privacy/www.allaboutdnt.com).
 
-Our Site, products, and services are not directed to children, and we do not knowingly collect personally identifiable information from children under 13. If you believe that a child under the age of 13 has given us personally identifiable information, please contact us at [privacy@sucuri.net](mailto:privacy@sucuri.net).
+## Age restrictions.
 
-## Updates
+Our Services are available for purchase only for those over the age of 18. Our Services are not targeted to, intended to be consumed by or designed to entice individuals under the age of 18. If you know of or have reason to believe anyone under the age of 18 has provided us with any personal information, please contact us.
 
-We may update this Policy to reflect changes to our information practices. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+## Non-Discrimination.
 
-## Data Protection Authority
+We will not discriminate against you for exercising any of your privacy rights. Unless permitted under applicable laws, we will not:
 
-If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority, the UK's Information Commissioner’s Office, as noted below:
+  * Deny you goods or services.
 
-[www.ico.org.uk](http://www.ico.org.uk/)  
-Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow,  
-Cheshire, SK9 5AF  
+  * Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties.
+
+  * Provide you a different level or quality of goods or services. 
+
+  * Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services. 
+
+
+
+
+## Changes to this policy.
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+## Data Protection Authority.
+
+If you are a resident of the European Economic Area (EEA) and believe we maintain your personal information subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to your local supervisory authority or our lead supervisory authority, the UK’s Information Commissioner’s Office, as noted below:
+
+[www.ico.org.uk](https://web.archive.org/web/20191231144022id_/https://sucuri.net/privacy/www.ico.org.uk)  
+Information Commissioner’s Office   
+Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, United Kingdom  
 Phone: 0303 123 1113
 
-## Contact Us
+## Contact us.
 
-If there are any questions regarding this privacy policy, you may contact us: 
+If you have any privacy-related questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at [privacy@godaddy.com](mailto:privacy@godaddy.com). In the alternative, you may contact us by either of the following means:
 
-GoDaddy Media Temple, Inc. d/b/a Sucuri  
-6060 Center Dr. Suite 500, Los Angeles CA 90045  
-P: 877.873.0817  
-E: [privacy@sucuri.net](mailto:privacy@sucuri.net)
+  * By Mail: Attn: Office of the Data Protection Officer, 14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA, or for customers established in the EEA, Attn: Legal, Office of the DPO, 5th Floor, The Shipping Building, Old Vinyl Factory, 252-254 Blyth Road, Hayes, UB3 1HA. 
+
+  * By Phone: 877.578.4000 
+
+
+
+
+**We will respond to all requests, inquiries or concerns within thirty (30) days.**
