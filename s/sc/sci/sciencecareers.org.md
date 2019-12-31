@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencecareers.org privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621062502id_/https%3A//www.sciencemag.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencecareers.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231125121id_/https%3A//www.sciencemag.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Science | AAAS
 
@@ -138,6 +138,8 @@ A cookie is a text file that is placed on your hard drive by a webpage server. W
 We use AdWords Remarketing, a remarketing and behavioral targeting service provided by Google. We also use Google and Adobe Analytics data and the DoubleClick cookie to serve ads based on a user's prior visits to our website.
 
 We also use a Google-provided tool called reCAPTCHA, which, on some form submissions, is intended to distinguish humans from robots in order to prevent spam and abuse of those forms.
+
+You may change your preferences here.
 
 ## Web Beacons
 
