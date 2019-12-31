@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the thestartv.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231338id_/http%3A//www.thestar.com.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestartv.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231094546id_/http%3A//www.thestar.com.my/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Star Online
 
-We, Star Media Group Berhad (ROC 10894D), together with our subsidiaries and affiliates (collectively, “ **Star Media Group** ”) respect the privacy of individuals with regard to personal data and are committed to protecting the privacy of our users/subscribers/customers (collectively, “ **Users** ”), and strive to provide a safe and secure user experience. This Privacy Policy is formulated in accordance with the Personal Data Protection Act 2010 ("Act"), which describes how your information (“ **Personal Data** ”) is collected and used and your choices with respect to your Personal Data. For absolute clarity, any reference to “we”, “our” or “us” in this Privacy Policy shall include any member of Star Media Group. The following discloses our information gathering and dissemination practices for The Star Online, starmediagroup.my, TheStarTV.com, Star2.com, R.AGE, mStar, dimsum, myStarjob.com, Carsifu, Kuali, and StarCherish.com, StarProperty.my, Propwall, iBilik, Perfect Livin, and Kuntum, (collectively, “ **Websites** ”) and if relevant, for the use of, or subscription to, or purchase of any products and/or services offered by Star Media Group.
+We, Star Media Group Berhad [Company No.: 197101000523 (10894D)], together with our subsidiaries and affiliates (collectively, “ **Star Media Group** ”) respect the privacy of individuals with regard to personal data and are committed to protecting the privacy of our users/subscribers/customers (collectively, “ **Users** ”), and strive to provide a safe and secure user experience. This Privacy Policy is formulated in accordance with the Personal Data Protection Act 2010 (" **Act** "), which describes how your information (“ **Personal Data** ”) is collected and used and your choices with respect to your Personal Data. For absolute clarity, any reference to “we”, “our” or “us” in this Privacy Policy shall include any member of Star Media Group. The following discloses our information gathering and dissemination practices for The Star Online, starmediagroup.my, TheStarTV.com, Star2.com, R.AGE, mStar, dimsum, myStarjob.com, Carsifu, Kuali, StarCherish.com, StarProperty.my, Propwall, iBilik, Perfect Livin, Kuntum, 988 and Suria FM (collectively, “ **Websites** ”) and if relevant, for the use of, or subscription to, or purchase of any products and/or services offered by Star Media Group.
 
 * ## Information collected by the Websites
 
 Our Websites’ servers do not automatically recognize specific information about individual users on our Websites. In addition, our servers do not automatically record information regarding a User's e- mail address unless the User supplies it.
 
-We collect information about Users during the registration process for certain parts of our sites; through their participation in certain activities, including contests, forums, and polls; and through the use of cookies. When you request pages from our server, it automatically collects some information about your preferences, including your internet protocol (“IP”) address. We use this to help diagnose problems with our server, and to administer our Websites.
+We collect information about Users during the registration process for certain parts of our sites; through their participation in certain activities, including contests, forums, and polls; and through the use of cookies. When you request pages from our server, it automatically collects some information about your preferences, including your internet protocol (“ **IP** ”) address. We use this to help diagnose problems with our server, and to administer our Websites.
 
 The User-supplied information collected through the registration process, surveys, contest entry forms, polls or other similar vehicles is used to improve the content of our sites, or used for our marketing purposes. It is not shared with other organizations for commercial purposes unless specifically stated herein.
 
 * ## Purpose of Personal Data collected
 
-Personal Data that you provide to us voluntarily on our Websites and the other related channels may be processed and/or disclosed to our Vendors (as hereinafter defined) for the following purposes (collectively, "Purposes"):
+Personal Data that you provide to us voluntarily on our Websites and the other related channels may be processed and/or disclosed to our Vendors (as hereinafter defined) for the following purposes (collectively, " **Purposes** "):
 
   * to manage, verify and complete transactions with you;
   * to manage and verify your membership for our customer loyalty scheme (where applicable);
@@ -59,7 +59,7 @@ Please note that in the event that sufficient Personal Data is not supplied, or 
 
 * ## Storage and Retention of Personal Data
 
-Your Personal Data shall be stored in hard and/or soft copies in our offices and/or in servers located in Malaysia. It may be necessary to transfer your Personal Data to third party services providers based/located outside Malaysia. By continuing to use the Websites, products and/or services of Star Media Group, you hereby consent to such transfer.
+Your Personal Data shall be stored either in hard copies in our offices or in servers located in Malaysia. It may be necessary to transfer your Personal Data to third party services providers based/located outside Malaysia. By continuing to use the Websites, products and/or services of Star Media Group, you hereby consent to such transfer.
 
 Any Personal Data supplied by you will be retained by us as long as necessary for the fulfilment of the Purposes stated in paragraph (2) above or as required to satisfy legal regulatory, accounting requirements or to protect our interests.
 
@@ -79,11 +79,11 @@ Through your use of telecommunications services to access the Websites and/or an
 
 To the extent that there is a compelling necessity, the collection, processing and use of your communications or utilization data will occur and will be performed in accordance with the applicable data privacy protection legal framework.
 
-* ## Automatic Collection of Non-Personal Data
+* ## Automatic Collection of Non-Personally Identifiable Data
 
-When you access the Websites and/or use of any product/services offered by Star Media Group, we may automatically (i.e., not by registration) collect non-personal data (e.g. type of Internet browser and operating system used, domain name of the website from which you came, number of visits, average time spent on the site, pages viewed).
+When you access the Websites and/or use of any product/services offered by Star Media Group, we may automatically (i.e., not by registration) collect, use and disclose non-personally identifiable data, including but not limited to information about your Internet browser and operating system, domain name of the website from which you came, number of visits, average time spent on the site and pages viewed.
 
-We may use this non-personal data and share it within Star Media Group to monitor the attractiveness of the Websites and improve their performance or content.
+We may use and disclose these non-personally identifiable data and share it within Star Media Group and/or third parties to inter alia; monitor the attractiveness of the Websites and improve our performance/product/services/content on an aggregate, anonymize and non-personally identifiable basis. However, please be assured that this information is not intended to be used to personally identify you.
 
 For example, we may collect:
 
@@ -154,10 +154,24 @@ Our Websites contain links to other sites. We are not responsible for the privac
 
 Under the Act, you have the right of access to your Personal Data held by us on payment of a prescribed fee and to request correction of the Personal Data that is inaccurate, incomplete, misleading or not up-to-date. If you have any questions regarding this Privacy Policy or if you wish to request access to your Personal Data or if you wish to correct your Personal Data or if you wish to withdraw your consent for future marketing communication, you may send your request in writing to:
 
+Star Media Group Berhad [Company No.: 197101000523 (10894D)]
+
+Menara Star
+
+15 Jalan 16/11
+
+46350 Petaling Jaya
+
+MALAYSIA
+
+or
+
+Email: [customerservice@thestar.com.my](mailto:customerservice@thestar.com.my)
+
 * ## Changes to Privacy Policy
 
 We reserve the right to amend this Privacy Policy from time to time without prior notice. Any changes to the Privacy Policy will be uploaded onto our Websites and therefore, we encourage you to check/visit the Websites from time to time for any changes on a regular basis.
 
 In the event of conflict between the English and Bahasa Melayu versions of the Privacy Policy, the English version of the Privacy Policy shall prevail.
 
-(Last updated 27 March 2019)
+(Last updated 15 November 2019)
