@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expressvpn.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526044703id_/https%3A//www.expressvpn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expressvpn.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231172920id_/https%3A//www.expressvpn.com/privacy-policy) for the most accurate reproduction.*
 
 # ExpressVPN Privacy Policy
 
@@ -7,6 +7,8 @@ ExpressVPN is committed to protecting your privacy. We want you to understand wh
 Our guiding principle toward data collection is to collect only the minimal data required to operate a world-class VPN service at scale. We designed our systems to not have sensitive data about our customers; even when compelled, we cannot provide data that we do not possess. 
 
 This privacy policy will help you understand how Express VPN International Ltd. (“ **ExpressVPN** ,” “ **we** ,” “ **our** ,” or “ **us** ”) collects, uses, and stores information. 
+
+[Learn more about the independent audit report of our privacy protections.](https://web.archive.org/blog/pwc-audits-expressvpn-servers-to-confirm-essential-privacy-protections/)
 
   
 
@@ -18,12 +20,12 @@ This privacy policy will help you understand how Express VPN International Ltd. 
   * General Information
   * Personal Information
   * Aggregate Apps and VPN Connection Summary Statistics
-  * Anonymous VPN Connection Diagnostics and Crash Reports (can be turned off by the user)
+  * Anonymous App Diagnostics, including Crash Reports (can be turned off by the user)
   * MediaStreamer
   * Jurisdiction and Applicable Law
   * Storing of Information Related to Email, Live Chat, and Feedback Forms
   * Security Measures to Protect Your Information
-  * Cookies
+  * Cookies and Mobile Identifiers
   * Third-Party Websites
   * Consent and Age Restrictions
   * Users in the European Union
@@ -46,9 +48,9 @@ This information is collected for the purpose of administering your ExpressVPN s
 
 ExpressVPN collects minimal information about usage in order to maintain excellent customer support and quality of service. The section below specifies in detail what information we collect. These statistics never include anything about what the user did with the VPN: no data about the contents or destinations of VPN traffic, no DNS queries, and no IP addresses. 
 
-###  (iii) (User-controlled option): Anonymous VPN connection diagnostics and crash reports 
+###  (iii) (User-controlled option): Anonymous app diagnostics, including crash reports 
 
-VPN connection diagnostics are anonymized and cannot be tied back to individual ExpressVPN users. This feature is similar to a “send bug report” option. Users can specify in the settings menu of any ExpressVPN App whether to send these data to us. 
+App diagnostic data, which include crash reports, usability diagnostics, and VPN connection diagnostics, are anonymized and cannot be tied back to individual ExpressVPN users. This feature is similar to a “send bug report” option. Users can specify in the settings menu of any ExpressVPN App whether to send these data to us. 
 
 ###  (iv) Only for users who choose to use the MediaStreamer service: IP addresses authorized to use MediaStreamer 
 
@@ -104,20 +106,21 @@ We collect minimal usage statistics to maintain our quality of service. We may k
 
 We’ve engineered our systems to categorically eliminate storage of sensitive data. **We may know THAT a customer has used ExpressVPN, but we never know HOW they have utilized our Service.** We stand by our firm commitment to our customers’ privacy by not possessing any data related to a user’s online activities. 
 
-##  Anonymous VPN Connection Diagnostics and Crash Reports (can be turned off by the user) 
+##  Anonymous App Diagnostics, including Crash Reports (can be turned off by the user) 
 
-With your permission, we collect anonymized analytics data used for network diagnostics. We use these data in our network operations tools to help optimize network speeds and to let us identify problems related to specific apps, VPN servers, or ISPs. The information we receive is **fully anonymized and cannot be tied back to individual ExpressVPN users** (i.e., we do not store which user sent which data, and we do not store IP addresses). 
+With your permission, we collect anonymized app diagnostic data, which include crash reports, usability diagnostics, and VPN connection diagnostics. We use these data in our network operations tools to help optimize network speeds and to let us identify problems and areas for improvement related to specific apps, VPN servers, or ISPs. The information we receive is **fully anonymized and cannot be tied back to individual ExpressVPN users** (i.e., we do not store which user sent which data, and we do not store user IP addresses). 
 
-If you **opt in** to share this information with ExpressVPN, we will collect the following information: 
+If you **opt in** to share this information with ExpressVPN, we will collect the following anonymized information: 
 
   * Diagnostic information about if and how a VPN connection attempt failed.
   * Speed test data.
-  * Crash reports, also without any personally identifiable information. These are handled in an anonymized form by these third parties, dependent on the platform you are using ExpressVPN on:
+  * App diagnostics, including crash reports and usability diagnostics, also without any personally identifiable information. These are handled in an anonymized form by these third parties, dependent on the platform you are using ExpressVPN on:
     * **Windows:** Hockeyapp, owned by Microsoft, and Sentry, owned by Functional Software, Inc. See [Microsoft’s Privacy Policy](https://privacy.microsoft.com/en-us/PrivacyStatement) and [Sentry’s Privacy Policy](https://sentry.io/privacy/). 
     * **Mac:** Crashlytics, owned by Google, and Sentry, owned by Functional Software, Inc. See [Crashlytics’s Privacy Policy](https://fabric.io/terms) and [Sentry’s Privacy Policy](https://sentry.io/privacy/). 
     * **Linux:** Sentry, owned by Functional Software, Inc. See [Sentry’s Privacy Policy](https://sentry.io/privacy/). 
     * **iOS:** Firebase Crashlytics, owned by Google, and Apple. See [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/en-ww/) and [Firebase’s Privacy and Security documentation](https://firebase.google.com/support/privacy/). You can [disable Apple’s crash reporting in iOS settings as described here](https://support.apple.com/en-us/HT202100). 
-    * **Android:** Google Analytics and Firebase Crashlytics, owned by Google. See [Google Analytics’s Terms of Service](https://www.google.com/analytics/terms/us.html) and [Firebase’s Privacy and Security documentation](https://firebase.google.com/support/privacy/). 
+    * **Android:** Firebase Crashlytics, owned by Google. See [Firebase’s Privacy and Security documentation](https://firebase.google.com/support/privacy/). 
+    * **Browser extensions:** Firebase Analytics, owned by Google. See [Firebase’s Privacy and Security documentation](https://firebase.google.com/support/privacy/). 
 
 
 
@@ -139,7 +142,7 @@ The BVI has no data retention laws, and any legal order requiring a BVI company 
 
 ExpressVPN keeps records of any correspondence, questions, complaints, or compliments you submit to us through our Site or Services, along with our response. Depending on how you contact ExpressVPN, we may collect your email address and any additional information you provide to us. Having full correspondence records enables our staff to provide the best possible customer support experience. 
 
-We use two different third-party platforms for support correspondence: Zendesk for emails and support tickets, and SnapEngage for live chat. When you correspond with us using these platforms, your correspondence records, including your name and email address, are stored in their systems. Both platforms utilize modern security practices and HTTPS encryption. 
+We use two different third-party platforms for support correspondence: Zendesk for emails and support tickets, and SnapEngage for live chat. When you correspond with us using these platforms, they will store your correspondence records—including your email address, as well as user and device attributes that help with troubleshooting, such as the country you are contacting us from and your device’s operating system. Both platforms utilize modern security practices and HTTPS encryption. 
 
 ##  Security Measures to Protect Your Information 
 
@@ -151,7 +154,7 @@ Servers are housed in data centers with strong security practices. None of these
 
 Even if a government were to physically seize one of our VPN servers and manage to break its disk encryption, there would be no logs or information that would tie any individual user to a particular event, website, or behavior. 
 
-##  Cookies 
+##  Cookies and Mobile Identifiers 
 
 ###  What is a cookie? 
 
@@ -172,6 +175,14 @@ ExpressVPN uses third-party services such as Google Analytics and Adwords. Cooki
 ExpressVPN uses Google AdWords remarketing to show advertisements on third-party websites (including Google) to users who have visited our Site. We may show such users advertisements on a Google search results page, or on a site in the Google Display Network. 
 
 Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Site. Any data collected will be used in accordance with our Privacy Policy and Google’s privacy policy. Users may opt out of Google’s use of cookies by visiting the Google Advertising Opt-out Page. Users may opt out of Google Analytics by visiting the Google Analytics Opt-out Page. Users may opt out of third-party vendor use of cookies by visiting the [Network Advertising Initiative Opt-out Page](http://optout.networkadvertising.org/#/). 
+
+###  Mobile identifiers 
+
+A mobile identifier is an identifier provided by an Android or iOS device. It does not contain your name or email address. ExpressVPN uses mobile identifiers to generate statistics related to the marketing channels and advertising partners through which users learned about and signed up for ExpressVPN mobile apps. 
+
+###  Disabling or resetting mobile identifiers 
+
+Users may disable or reset the mobile identifiers associated with their devices at any time. For instructions, see [Apple’s page on Advertising & Privacy on iOS devices](https://support.apple.com/en-us/HT205223) and [Google’s page on Managing your Google Settings on your Android device](https://support.google.com/android/answer/3118621?hl=en). 
 
 ##  Third-Party Websites 
 
