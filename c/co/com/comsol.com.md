@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comsol.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622082900id_/https%3A//www.comsol.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comsol.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231114244id_/https%3A//www.comsol.com/company/privacy) for the most accurate reproduction.*
 
 # COMSOL Privacy Policy
 
@@ -185,10 +185,10 @@ Attn: Data Protection
 100 District Ave.   
 Burlington, MA 01803   
 USA   
-[privacy@comsol.com](https://web.archive.org/web/20190622082856id_/https://www.comsol.com/privacy@comsol.com)   
+[privacy@comsol.com](https://web.archive.org/web/20191231114244id_/https://www.comsol.com/privacy@comsol.com)   
 +1 781 273 3322   
 
 
 COMSOL AB’s Privacy Manager shall be responsible for the compliance with this Privacy Policy and applicable law by COMSOL AB, its subsidiaries, and its affiliates. If you have a privacy concern, complaint, or question for COMSOL, please contact the Privacy Manager at [privacy@comsol.com](mailto:privacy@comsol.com). COMSOL and the Privacy Manager will attempt to resolve concerns, complaints, and questions regarding the use and disclosure of personal data in accordance with the principles contained in this Privacy Policy.
 
-**Last Revision Date** _04.06.2019_
+_Last revision date: June 4, 2019_
