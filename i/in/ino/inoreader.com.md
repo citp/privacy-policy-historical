@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inoreader.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412093552id_/https%3A//www.inoreader.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inoreader.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231142739id_/https%3A//www.inoreader.com/privacy_policy) for the most accurate reproduction.*
 
 # Inoreader • Privacy Policy
 
