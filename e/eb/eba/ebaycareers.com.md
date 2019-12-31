@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebaycareers.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627042127id_/https%3A//www.ebayinc.com/our-company/privacy-center) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaycareers.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231203049id_/https%3A//www.ebayinc.com/company/privacy-center) for the most accurate reproduction.*
 
 # Privacy Center - eBay Inc.
 
