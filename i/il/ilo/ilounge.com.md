@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517005845id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231141947id_/https%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | iLounge
 
 The policies below are applicable to iLounge. Any questions or comments you may have regarding this privacy policy, please [contact us](https://www.ilounge.com/index.php/ilounge/contact).
 
