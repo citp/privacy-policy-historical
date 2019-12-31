@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alexaholic.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616133138id_/https%3A//www.alexa.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexaholic.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231203439id_/https%3A//www.alexa.com/help/privacy) for the most accurate reproduction.*
 
-# Alexa Internet - Privacy Notice - Alexa
+# Alexa - Alexa Internet - Privacy Notice
 
 ## **Alexa Internet Privacy Notice**
 
