@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlacode.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630002729id_/https%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlacode.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231092819id_/https%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Joomla! Privacy Policy
 
