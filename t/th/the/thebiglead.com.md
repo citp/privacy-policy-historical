@@ -1,189 +1,130 @@
-> *The following text is extracted and transformed from the thebiglead.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614142119id_/http%3A//static.usatoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebiglead.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231194216id_/https%3A//www.thebiglead.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice | USAToday
+# Privacy Policy
 
-Last Updated: May 14, 2018
+## **SPORTORITY PRIVACY POLICY**
 
-We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
+Last updated: March 12, 2019
 
-This Privacy Notice discloses the privacy practices of our Websites, whether accessed through a computer, tablet, smartphone or other device (individually or collectively, “Device” or “Devices”), and our Apps. Specifically, it outlines the types of information that we gather about you while you are using our Websites or Apps (collectively, “Services”) or other websites, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail). In addition, this Privacy Notice does not apply to our non-digital products and services. Please read this Privacy Notice carefully. By using the Services, you agree that your use of our Services, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](https://web.archive.org/terms/) . Because the web and apps are evolving media, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on our Websites or Apps. If we make a significant change in the way we collect, use or share your information, the change will be posted on this page thirty (30) days before the change takes effect. We will also update the "Last Updated" date to reflect the date of the changes. By continuing to use the Services after we post any such changes, you accept the Privacy Notice as modified. Your access of the Services for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Privacy Notice unless you make any further use or access of our Services.
+##  **Our Commitment to You**
 
-  
+Pro Sportority (Israel) Ltd and its affiliated companies (“Sportority”) are dedicated to providing internet users with the highest level of transparency and control over the use of their data. In order for us to provide you with our services we are required to collect and process certain personal information about you and your activity.
 
+By entrusting us with your information, we would like to assure you of our commitment to keep such information private. We have taken measurable steps to protect the confidentiality, security and integrity of this Information. We encourage you to review the following information carefully.
 
-### Your California Privacy Rights
+##  **Grounds for data collection**
 
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
+Processing of your “Personal Data” (meaning any information which may potentially allow your identification with reasonable means) is necessary for the performance of our contractual obligations towards you and providing you with our services and the operation of our website (hereinafter the “Services” and “Website”), to protect our legitimate interests and for compliance with legal and regulatory obligations to which we are subject.
 
-Andrea Shandell  
-Online Privacy Coordinator  
-Gannett Law Department  
-7950 Jones Branch Drive  
-McLean, VA 22107
+When you use our Service, you consent to the collection, storage, use, disclosure and other uses of your Personal Information as described in this Privacy Policy.
 
-  
+##  **How do we receive data about you?**
 
+We receive your Personal Data from various sources:
 
-### SUMMARY
+  1. Registration information – When you voluntarily provide us your personal details in order to create an account or register to our Services (for example, your name and email address);
+  2. When you communicate with us – For example when you send us an email, we collect the Personal Information you provided us with.
+  3. Technical information – When operating our services, we use various technological tracking tools to collect information regarding your use of the Website. Along with our partners, we may use tracking technologies such as cookies, JavaScript, beacons and Local Storage such as HTML5, which are used to store content information and preferences. You can learn more about the tracking tools we use by visiting our Cookie Policy.
+  4. Third party information – We may receive your data from third party providers who help us with the provision and maintenance of our Services, such as social networks (for example your name and user name, when you register or log-in to our Service), traffic analytics vendors, fraud prevention agencies and others.
 
-Collection. We collect information that you give us and information that is automatically collected.   
-Use. We use the information for the purpose you gave it to us (for example, to register or make a purchase); to provide content and advertising; to contact you; and for other purposes.   
-Share. We share the information with our service providers and affiliates to administer the Services; to provide content for the Services; to provide advertising on the Services; and for other purposes. We also share the information with other third parties to provide advertising on the Services, on other sites and apps, and for other purposes.   
-**  
-**
 
-**Please read the rest of this notice for complete details.**
 
-  
+ **WHAT TYPE OF DATA WE COLLECT?**
 
+ **Personal Data**
 
-### How We Collect Information
+In the course of using the Service, we may ask you to provide us with certain Personal Data to provide and improve the Service, to contact or identify you, to enable you to access certain parts of the Website, and as otherwise indicated in this Policy. We collect the following Personal Data about you:
 
-The information that we collect about you while you are using our Services falls into two general categories: information you provide to us, and information that is automatically collected. All of the information we collect may be collected directly by us, or it may be collected by a vendor providing contractual services to us, such as a service provider.
+  *  **Registration information**  – your name, your email address, and your age range. If you connect your account to a social network (for example: if you log in via Facebook), we will also collect certain details, such as your Facebook token, profile and profile photo.  
+  *  **When using our Services**  – our webserver will collect your IP-address and UDID.
 
-1\. _Information You Provide to Us_.
 
-We may collect and store information that you voluntarily supply to us while using our Services, including information you send to us by email or other platforms in connection with a feature provided through the Services. This may include information that can be used to contact or identify you, such as your name, email address, postal address, telephone numbers, birthdate and gender. Some examples of this type of information include:
 
-  * information that you electronically submit when you contact us with questions or participate in contests, surveys or sweepstakes;   
+ **Non-Personal Data**
 
-  * information that you post on blogs, discussion forums or other community posting and social networking areas accessed through our Services;   
+We also collect data about the use of our Service and the characteristics and activities of users, in order to operate it and improve it. We may collect the following non-Personal Data:
 
-  * information and content you provide when you upload a photograph, video or audio file;  
+  *  **Technical information  **– this category includes data such as website visits, the browser you are using and its display settings, your operating system, device type, session start/stop time, time zone, network connection type (e.g., Wi-Fi, cellular), and cookie information and your general location (city and country).
+  *  **Information from third parties**  – this category includes information we receive from our business partners. This may include pseudonymous advertiser identifiers that some Advertisers or other third-party ad platforms choose to share with us. This information is also used to enhance data points about a particular unique browser or device.
 
-  * information that you electronically submit when you complete an online registration form to access and use certain features of our Services;   
 
-  * information that you provide within an advertisement on one of our Services; and   
 
-  * information contained in search requests that you submit through our Services.   
+If we combine Personal Data with non-Personal Data, the combined data will be treated as Personal Data. Further Personal Data will only be stored and processed if you voluntarily provide it to us, e.g. through a contact form.
 
+##  **Tracking Technologies**
 
+When you visit or access our Services we use (and authorize 3rd parties to use) pixels, cookies, events and other technologies. Those allow us to automatically collect information about you, your device and your online behavior, in order to enhance your navigation in our Services, improve our Website’s performance, perform analytics and customize your experience on it. In addition, we may merge information we have with information collected through these tracking technologies with information we may obtain from other sources and, as a result, such information may become Personal Data.
 
+To learn more about our Tracking Technologies please visit our Cookie Policy page.
 
-We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions through our Services.
+##  **How do we use the data we collect?**
 
-2\. _Information that is Automatically Collected_.   
+  *  **Provision of service** _  – _for the provision and improvement of our Services, including for support and to respond to your queries.
+  *  **Service announcements  **– we will use your Personal Data to communicate with you and to keep you informed of our latest updates to our Services and offer you service offers.
+  *  **Marketing and advertising purposes  **– by subscribing to our newsletter you will receive tips and announcements straight to your email account. We may also use your Personal Data in the following ways: we may send you promotional material concerning our Services, or our partners’ services, which we believe might interest you; we may also display certain adverts on our site, which we believe will be relevant for you. We make our best efforts to make sure you see only relevant ads and receive relevant communications from us, including but not limited to, by building an automated profile based on your Personal Data. You may however choose not to receive our promotional or marketing emails (all or any part thereof) by clicking on the “unsubscribe” link in the emails that you receive from us. Please note that even if you unsubscribe from our newsletter, we may continue to send you service-related updates and notifications or reply to your queries and feedback you provide us. You may also object to the use of your Personal Data for advertising purposes by disabling your cookies, as described in our Cookie Policy.
+  * Opt-out of receiving marketing materials – If you do not want us to use or share your Personal Data for marketing purposes, you may opt-out in accordance with this “Opt-out” section. Please note that even if you opt-out, we may still use and share your Personal Data with third parties for non-marketing purposes (for example to fulfill your requests, communicate with you and respond to your inquiries, etc.). In such cases, the companies with whom we share your Personal Data are authorized to use your Personal Data only as necessary to provide these non-marketing services.
 
 
-We also collect and store information that is generated automatically as you use our Services. Some examples of this type of information include: 
+  *  **Analytics, surveys and research**  – from time to time, we may conduct surveys or test features, and analyze the data we have to develop, evaluate and improve these features, all in order to improve our Services and think of new and exciting features for our users.
+  *  **Protecting our interests** ** _ _** _–  _we may use your Personal Data when we believe it’s necessary in order to take precautions against liabilities, investigate and defend ourselves against any third party claims or allegations, investigate and protect ourselves from fraud, protect the security or integrity of our services and protect the rights and property of Sportority, its users and/or partners.
+  *  **Enforcing of policies**  – we may use your Personal Data in order to enforce our policies, including but limited to our Terms.
+  *  **Compliance with legal and regulatory requirements**  – we may use your Personal Data to investigate violations, and as required by law, regulation or other governmental authority, or to comply with a subpoena or similar legal process.
 
-  * whether you downloaded an App;   
 
-  * the source of the download of the App (for example, through a particular advertisement for the App);   
 
-  * your Device’s connection to the Internet;   
+##  **With whom do we share your Personal Data?**
 
-  * your browser or operating system;   
+  *  **Internal concerned parties**  – we share your information with companies in our group, as well as our employees, in order to provide you with our services.
+  *  **Business partners  **– we share your information with business partners, such as storage and analytics providers who help us provide you with our service. These third parties may have access to your Personal Data so that they may perform these tasks on our behalf, but they are obligated to comply with this Privacy Policy and may not use your Personal Data for any other purpose.
+  *  **Compliance with laws and law enforcement entities**  – we cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any data about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect our or a third party’s property and rights, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable. We also may be required to disclose an individual’s Personal Data in response to a lawful request by public authorities, including meeting national security or law enforcement requirements.
+  *  **Merger and acquisitions**  – we may share your data if we enter into a business transaction such as a merger, acquisition, reorganization, bankruptcy, or sale of some or all of our assets. Any party that acquires our assets as part of such a transaction may continue to use your data in accordance with the terms of this Privacy Policy.
 
-  * which pages you visit through our Services and how often;   
 
-  * which features of our Services you interact with and how often;   
 
-  * which advertisements we serve to you and your engagement with them; and   
+##  **Transfer of data outside the EEA**
 
-  * information generated when you upload a photograph, video or audio file.   
+Please note that some data recipients may be located outside the EEA. In such cases we will transfer your data only to such countries as approved by the European Commission as providing adequate level of data protection, or enter into legal agreements ensuring an adequate level of data protection.
 
+##  **How we protect your information**
 
+We have implemented administrative, technical, and physical safeguards to help prevent unauthorized access, use, or disclosure of your Personal Data. Your data is stored on secure servers and isn’t publicly available. We limit access of your information only to those employees or partners on a “need to know” basis, in order to enable the carrying out of the agreement between us.
 
+While we seek to protect your information to ensure that it is kept confidential, we cannot absolutely guarantee its security. You need to help us prevent unauthorized access to your account by protecting your password appropriately and limiting access to your account. You will be solely responsible for keeping your password confidential and for all use of your password and your account, including any unauthorized use. You should also be aware that there is always some risk involved in transmitting information over the internet. While we strive to protect your Personal Data, we cannot ensure or warrant the security and privacy of your Personal Data or other content you transmit using the service, and you do so at your own risk.
 
-In addition, certain Devices and browsers contain unique identifiers that can be used to identify other information about your Device. When you use such a Device or browser to access our Services, your Device and/or your browser may automatically collect and/or transmit your Device's unique identifier, IP address, MAC address, profile information (if you connect through a social network such as Facebook), location information, the make and model of your Device, the wireless provider associated with your Device, and similar information. We may ask you whether we may access and collect your location information even when you are not using the Services, but you may decline this request. 
+##  **Retention**
 
-We also may use a standard feature found in browser software called a "cookie" to enhance your experience with our Services. Cookies are small files that your web browser or an App places on your Device for record-keeping purposes. By showing how and when visitors use the Services or other websites, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences for certain Services when you have entered preference information before. We also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who use the Services or other websites. Additionally, we may assign an anonymous identifier to the tracking pixel or session cookie. 
+We will retain your Personal Data for as long as necessary to provide our services, and as necessary to comply with our legal obligations, resolve disputes, and enforce our policies. Retention periods will be determined taking into account the type of information that is collected and the purpose for which it is collected, bearing in mind the requirements applicable to the situation and the need to destroy outdated, unused information at the earliest reasonable time. Under applicable regulations, we will keep records containing client personal data, trading information, account opening documents, communications and anything else as required by applicable laws and regulations.
 
-We, along with third parties, may use other kinds of technologies, such as local storage, in connection with our Services. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings (see below). The method for disabling local storage will vary depending on your browser and device. 
+##  **EU User Rights**
 
-3\. _Your Choices_. 
+You may request to:
 
-When we request information from you through our Services, you may always choose not to provide us with that information. But if you decline to supply or provide us with certain information while using our Services, you may not be able to use or participate in some or all of the features offered through our Services. 
+  1. Receive confirmation as to whether or not Personal Data concerning you is being processed, and access your stored Personal Data, together with supplementary information.
+  2. Receive a copy of Personal Data you directly volunteer to us in a structured, commonly used and machine-readable format.
+  3. Request rectification of your Personal Data that is in our control.
+  4. Request erasure of your Personal Data.
+  5. Object to the processing of Personal Data by us.
+  6. Request to restrict processing of your Personal Data by us.
+  7. Lodge a complaint with a supervisory authority.
 
-If you want to limit the information that is automatically collected while you use our Services or other websites, most web browsers allow you to disable certain functionality or set certain privacy settings. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Services. Our Site does not collect personally identifiable information or persistent identifiers from, deliver a personalized experience to, or otherwise track or monitor, persons reasonably identified as visiting our Site from the European Union.
 
-You can stop all future collection of information by the Apps by uninstalling the Apps according to the procedures outlined in the Apps or on your Device. 
 
-4\. _Collection of Information by Service Providers and Third-Party Advertising Service Providers_. 
+However, please note that these rights pertain to EU residents only, are not absolute, and may be subject to our own legitimate interests and regulatory requirements. Users outside the EU are welcome to contact us for any questions or requests at the details below.
 
-In addition, our service providers and third-party advertising service providers may use their own cookies, web beacons and other technologies to collect the information listed above from our Services. The data collected in connection with the ad serving and ad targeting through our Services does not include your name, postal address, email address, telephone number, birthdate or gender unless you affirmatively provide information within the ad. However, it may include Device identifying information such as the IP address, MAC address, cookie or other Device-specific unique ID. These service providers also may assign an anonymous identifier to the tracking pixel or session cookie. 
+##  **How to contact us?**
 
-The collection of information by our service providers and third-party advertising service providers is governed by their relevant privacy notices, for which we have no responsibility or liability, and are not covered by our Privacy Notice. If you have any questions regarding the privacy notice of one of our service providers, you should contact the service provider directly for more information. 
+If you wish to exercise any of the aforementioned rights, or receive more information, please contact our Data Protection Officer (“DPO”) using the details provided below:
 
-If you would like more information about the information collection practices of a particular third-party advertising service provider, or if you would like more information on how to opt out of a third-party advertising service provider’s information collection practices, go to [www.aboutads.info,](http://www.aboutads.info/) or for apps, at [www.aboutads.info/appchoices.](http://www.aboutads.info/appchoices) 
+Attn. DPO, Sportority Limited,
 
-Additionally, some of our third-party advertising service providers are members of the Network Advertising Initiative ("NAI"). You can obtain more information about these third-party advertising service providers' information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI's website at [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
+Email: dpo@minutemedia.com
 
-Please note that one of our third-party advertising service providers is DoubleClick. You can opt out of the use of cookies by DoubleClick by visiting [http://www.google.com/settings/ads.](http://www.google.com/settings/ads) 
+164 Bishopsgate EC2M 4LX, London
 
-**How We Use Information  **
+##  **Our Policy toward Children**
 
-We may use the information we collect from you while you are using the Services for any purpose related to the Services and in a variety of other ways, including, for example:  
+We understand the importance of protecting children’s privacy, especially in an online environment. The Site and Services are not designed for or directed at children under the age of 16 years old (“Minors”). We do not knowingly collect Personal Data from Minors. If a parent or guardian becomes aware that his or her child has provided us with Personal Data, he or she should contact us using the details provided above.
 
+##  **Updates to this Policy**
 
-  * for the purpose for which the information was submitted;
-  * to process your registration requests;
-  * to provide you with services and communications that you have requested;
-  * to send you email updates and other communications, promotional messages and advertisements that we believe may be of interest to you;  
-
-  * to customize features and advertising that appear through the Services;   
-
-  * to deliver our Services’ content to you;
-  * to contact you for customer service purposes;
-  * to send you administrative notices or notices regarding important changes or additions to our Services;
-  * to measure Services’ traffic;
-  * to measure and analyze user interests, behavior, trends and traffic patterns;
-  * to protect the rights of the Services and others or to comply with applicable law; and
-  * to improve the features offered via the Services. 
-
-
-
-We may use location information, either information you provided by you or information automatically collected, in order to provide you with location-based content, interest-based content services and advertising. We also may combine information we collect from you while you are using our Services with information that we collect from other sources, including other websites or apps, to customize features, content and advertising that appear through our Services. 
-
-For more information on how service providers, third-party advertising service providers, affiliates, third parties and advertisers use information, please refer to the next section. 
-
-**How We Share Information  **
-
-_Sharing for Services Administration_. We may provide your information to our affiliates or to service providers for purposes related to Services administration. If you use a credit or debit card to complete a transaction through our Services, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf. 
-
-_Sharing for Additional Content, Products and Services_. We also make some content, products and services available through cooperative relationships with service providers, where the brands of our service provider appear in connection with such content, products and/or services. We may share with our service provider any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our service provider. 
-
-If you do not wish certain information to be shared for these purposes, send a letter to the _Online Privacy Coordinator_ , whose contact information is listed at the end of this Privacy Notice. 
-
-_Sharing Information for Advertising and Other Promotional Purposes_. We may use service providers and third-party advertising service providers to target and serve some of the advertisements you see through the Services. We may share your information, or technical or aggregate information, with service providers, third-party advertising service providers, our affiliates, third parties and advertisers for their use in displaying ads through our Services or for other promotional purposes, including displaying ads on other sites and apps. The technical or aggregate information may be based on data that includes your information and such items as type of pages viewed and categories of interest. These service providers, third-party advertising service providers, affiliates, third parties and advertisers may use their own browser or flash cookies, web beacons and similar technologies to collect technical information (such as Device unique identifier, IP address, MAC address, browser type, pages visited, and location information) that is generated automatically as a user views or interacts with an ad. These service providers, third-party advertising service providers, affiliates, third parties and advertisers may use that information, sometimes in conjunction with similar information gathered through other websites and other sources, to deliver advertisements through the Services or for other promotional purposes. They also may use that information to deliver advertisements, or for other promotional purposes, on other websites, as well as on other websites that participate in our third-party advertising service providers’ advertising networks, which are tailored to match the perceived interests of consumers. The information obtained by service providers, third-party advertising service providers, affiliates, third parties and advertisers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes. 
-
-If you log into the Services with a social media service or you connect a social media account with the Services, we may share your information with that social media service. The social media services’ use of the shared information will be governed by the social media services’ privacy policy and your social media account settings, for which we have no responsibility or liability. If you do not want your information shared in this way, do not log into the Services through a social media service and do not connect your social media account with the Services. 
-
-If you do not wish certain information to be shared for these purposes, send a letter to the _Online Privacy Coordinator_ , whose contact information is listed at the end of this Privacy Notice. 
-
-_Sharing for Other Purposes_. Please be aware that we may occasionally release information about you if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](https://web.archive.org/terms/) or (c) to protect the rights, property, or personal safety of our Services, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
-
-Please also note that as our business grows, we may buy or sell various assets. If we sell some or all of our assets, or our Services are acquired by another company, information collected about our Services’ users may be among the transferred assets. 
-
-**Ad Serving and Targeting Choices**
-
-We operate in compliance with the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising, [www.aboutads.info.](http://www.aboutads.info/) 
-
-Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online -- for example on blogs, discussion forums, or other community posting or social networking areas offered through our Services -- that information can be seen, collected and used by others besides us. We are not responsible or liable for any unauthorized third-party use of such information. 
-
-**Children's Privacy Statement**
-
-The Services are not intended for children under the age of 13. We do not knowingly collect any personal information from a child under 13. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 through the Services, we will delete such information from our records. 
-
-**Changes to Your Information**
-
-If you are a registered user of our Services, you can make changes to your account information by logging in to the Services and using the tools available via the Services. If you have subscribed to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by logging in to your account. 
-
-**Security**
-
-All information we gather on our Services is stored within databases to which only we and service providers are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Services’ servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. 
-
-**Links to Other Sites**
-
-Our Websites and Apps also include links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control and for which we have no responsibility or liability. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the privacy notice of the operator of the site you are visiting or the provider of such products or services. 
-
-**Questions Regarding Privacy**
-
-If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact: 
-
-Andrea Shandell  
-Online Privacy Coordinator   
-Gannett Law Department   
-7950 Jones Branch Drive   
-McLean, VA 22107 
+This Privacy Policy is subject to changes from time to time, in our sole discretion. The most current version will always be posted on our website (as reflected in the “Last Updated” heading). You are advised to check for updates regularly. In the event of material changes, we will provide you with a notice. By continuing to access or use our Services after any revisions become effective, you agree to be bound by the updated Privacy Policy.
