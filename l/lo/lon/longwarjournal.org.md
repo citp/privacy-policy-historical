@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longwarjournal.org privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402181705id_/https%3A//www.longwarjournal.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longwarjournal.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231164954id_/https%3A//www.longwarjournal.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FDD's Long War Journal
 
