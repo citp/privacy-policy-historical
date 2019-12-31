@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zotero.org privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610205831id_/https%3A//www.zotero.org/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zotero.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231230527id_/https%3A//www.zotero.org/support/privacy) for the most accurate reproduction.*
 
 # privacy [Zotero Documentation]
 
@@ -48,16 +48,20 @@ You can disable all automatic communication with Zotero servers from the Zotero 
 
   * **Automatic PDF metadata retrieval:** General preferences → disable “Automatically retrieve metadata for PDFs”. _Note: We do not log any information about the contents of PDF metadata requests._
 
+  * **Open-access PDF retrieval:** General preferences → disable “Automatically attach associated PDFs and other files when saving items”. _Explanation: If a PDF can't be saved for an item with a DOI, Zotero will send the DOI to Zotero servers to check for open-access versions. We do not log the contents of these requests. Disabling this preference will disable all automatic attachment saving._
+
   * **Broken site translator reporting:** disable “Report broken site translators” in the Advanced pane of Zotero and the Zotero Connector
 
   * **Translator/style update checking:** Advanced preferences → disable “Automatically check for updated translators and styles”
 
   * **Zotero update checking:** Advanced → Config Editor → set `app.update.auto` to false. _Note: Automatic update checking is strongly recommended for security and stability reasons._
 
+  * **Retracted item checking:** Advanced → Config Editor → set `retractions.enabled` to false. Retraction checks are performed [without sharing](https://web.archive.org/blog/retracted-item-notifications/#designed-for-privacy "/blog/retracted-item-notifications/#designed-for-privacy") the items you have in your database.
 
 
 
-If automatic syncing or automatic translator/style updates is enabled, Zotero will maintain a persistent connection to Zotero servers when it is open in order to provide immediate updates. You can disable this connection by disabling both of those options or by setting `extensions.zotero.streaming.enabled` to false in the Config Editor. 
+
+If automatic syncing or automatic translator/style updates are enabled, Zotero will maintain a persistent connection to Zotero servers when it is open in order to provide immediate updates. You can disable this connection by disabling both of those options or by setting `extensions.zotero.streaming.enabled` to false in the Config Editor. 
 
 If you use the Zotero Connector without having Zotero open, the Connector will make a daily request to Zotero servers for information on available site translators. It will then download translators for the sites you visit. For example, if you load a _New York Times_ article, the Connector will download Zotero’s _New York Times_ translator and cache it. If Zotero doesn’t have a translator for a specific site, no request will be made. No information on the specific pages you visit is transmitted, and subsequent requests won’t be made for the same translator until you restart your browser or the translator is updated. You can avoid these requests by keeping Zotero open while you browse the web. 
 
