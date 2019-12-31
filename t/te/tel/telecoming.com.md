@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telecoming.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235637id_/https%3A//www.telecoming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecoming.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231172653id_/https%3A//www.telecoming.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Telecoming | Technology to monetize digital services
 
