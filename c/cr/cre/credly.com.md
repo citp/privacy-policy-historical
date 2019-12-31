@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the credly.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330223754id_/https%3A//www.youracclaim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credly.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231173940id_/https%3A//www.youracclaim.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Acclaim
 
