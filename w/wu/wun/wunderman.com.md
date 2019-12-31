@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wunderman.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630002516id_/https%3A//www.wunderman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wunderman.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231215706id_/https%3A//www.wunderman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wunderman
 
-Last Updated May 2018
+Last Updated November 12, 2019
 
 **This website[www.wunderman.com](https://www.wunderman.com/) ("Site") is operated by Wunderman Worldwide LLC ("Wunderman", "We", "Us"), a WPP Company. This policy only applies to the sites where it is posted. We take the privacy of our website users and the security of their personal information very seriously and are committed to best practices.**
 
@@ -35,16 +35,17 @@ We will use your personal information in the following ways. We are also require
 
 How we will use your personal information | Our legal basis for processing  
 ---|---  
-To provide you with information and materials that you have requested e.g. via our "Contact" section. | Consent – we only use your personal information for this purpose if you have asked us to do so. You can withdraw your consent at any time.  
+To provide you with information and materials that you have requested e.g. via our "Contact" section; | Consent – we only use your personal information for this purpose if you have asked us to do so. You can withdraw your consent at any time.  
 We may also send you information and materials which we determine would be of interest or relevant to you such as new business information, newsletters, bulletins etc.; | Our legitimate interests - we use your business-related contact information such as your work email address to communicate such information to you.  
 To respond to specific queries you may raise regarding Wunderman and its various operating companies and brands; | Consent – we only use your personal information for this purpose if you have asked us to do so. You can withdraw your consent at any time.  
 To provide you with better ways of accessing information from this website; | Our legitimate interests – we use your personal information to help us to deliver the best online experience to you and other website users.  
 To process and consider your queries and requests such as those submitted via or pursuant to the "Contact" and "Careers" section, such as job applications.
 
-If you have asked us to keep you informed of other opportunities at Wunderman, we may periodically contact you by any means provided to or available to us (such as email, post SMS, social media, phone) to tell you about these;
+We will update you on your application, and keep you informed of other opportunities (if you have asked us to) via the methods you have selected;
 
 | Our legitimate interests – we use your personal information to assess the information you have submitted to us and to communicate and respond accordingly. For example, if you submit a job application, we will need to keep you updated throughout the application process.  
 To allow you to submit information to our new business teams; | Our legitimate interests – we only use your personal information to assess the information submitted for new business purposes.  
+To process your registration for events, seminars, conferences, and meetings via the website for Wunderman Thompson, and its affiliates; | Our legitimate interests – we only use your information to book you on to the requested events and to send confirmation to you and the event organizer.  
   
 For how we use your information that is collected using cookies and similar technologies please [see the "Cookies" page here](https://web.archive.org/cookie-policy).
 
@@ -62,10 +63,12 @@ For your convenience, this website may contain links to other websites as well a
 
   * We may send your personal information to other Wunderman and WPP group companies, affiliates and third parties to help us process your personal information for the purposes set out in this notice. Further details of our group companies can be found [here](https://www.wpp.com/wpp/companies/?PageIndex=0&;SortBy=Name&PageSize=15&SortReverse=A-Z&Mode=company)
   * We may disclose your personal information if we or any of our assets are the subject of a sale or similar corporate transaction. We will ensure that the third parties who receive your personal information are required to keep it confidential.
-  * We may also share your personal information with third parties where required for processing. For example, when applying for a job through our website, we work with a company called iCims in some countries to help us manage the application process. To learn more about the privacy practices of iCims, please [click here](https://www.icims.com/legal/privacy-policy-website)
+  * We may also share your personal information with third parties where required for processing. For example, when applying for a job through our website, we work with a company called Greenhouse in some countries to help us manage the application process. To learn more about the privacy practices of Greenhouse, please [click here](https://www.greenhouse.io/privacy-policy)
   * We may disclose personal information to third parties when we reasonably believe we are required or permitted by law (such as third parties who provide services on our behalf), and in order to investigate, prevent, or take action regarding suspected or actual unlawful or otherwise prohibited activities, including, but not limited to, fraud.
 
 
+
+If you have previously applied to a job with Wunderman Thompson and would like to request that we update or delete the information that we hold about you, or you would like a copy of that information, please send your name and email address to [applicants@wundermanthompson.com](mailto:applicants@wundermanthompson.com) with as many details of your application as you can. PLEASE NOTE: We cannot accept new job applications via this email address.
 
 We will always take steps to require such third parties to keep your personal information confidential.
 
@@ -81,7 +84,7 @@ We take appropriate technical and organisational measures to ensure that your pe
 
 ## CHILDREN’S PRIVACY
 
-This web site is not intended or designed to attract children under the age of 16. We do not knowingly collect personal information from or about any person under the age of 16. If you are under 16 years old and wish to ask a question or use this site in any way which requires you to submit your personal information, please get your parent or guardian to do so on your behalf. Likewise, if you are a parent or guardian and think your child may have submitted their personal information to us by mistake, please let us know, [webmaster@wunderman.com](mailto:webmaster@wunderman.com), and we will delete that data.
+This web site is not intended or designed to attract children under the age of 16. We do not knowingly collect personal information from or about any person under the age of 16. If you are under 16 years old and wish to ask a question or use this site in any way which requires you to submit your personal information, please get your parent or guardian to do so on your behalf. Likewise, if you are a parent or guardian and think your child may have submitted their personal information to us by mistake, please let us know, [dpo@wundermanthompson.com](mailto:dpo@wundermanthompson.com), and we will delete that data.
 
 ## WHERE DO WE SEND YOUR INFORMATION?
 
@@ -105,4 +108,5 @@ You also have the right to make a complaint to the supervisory authority if you�
 
 ## HOW TO CONTACT US
 
-If you wish to exercise any of your rights in relation to your personal information or if you have any queries about how we use your personal information, please let us know by contacting us via the contact section of our website or via [webmaster@wunderman.com](mailto:webmaster@wunderman.com).
+If you wish to exercise any of your rights in relation to your personal information or if you have any queries about how we use your personal information, please let us know by contacting us via the contact section of our website or via [dpo@wundermanthomposon.com](mailto:dpo@wundermanthompson.com).[  
+](mailto:webmaster@wunderman.com)
