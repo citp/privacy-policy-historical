@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themag.co.uk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624170343id_/https%3A//www.themag.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themag.co.uk privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231053505id_/https%3A//www.themag.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # The Mag Privacy Policy | NUFC The Mag
 
@@ -26,7 +26,7 @@ We collect Device Information using the following technologies:
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 **How do we use your personal information?**
 
@@ -48,7 +48,7 @@ When we talk about “Personal Information” in this Privacy Policy, we are tal
 
 We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Shopify to power our online store–you can read more about how Shopify uses your Personal Information here: <https://www.shopify.com/legal/privacy>. We also use Google Analytics to help us understand how our customers use the Site. You can read more about how Google uses your Personal Information here: <https://www.google.com/intl/en/policies/privacy/>. You can also opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
 
-We use a third-party provider, MailChimp, to deliver our newsletters. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our newsletter. For more information, please see [MailChimp’s privacy notice](https://mailchimp.com/legal/privacy/). You can unsubscribe to mailings at any time by clicking the unsubscribe link at the bottom of any of our emails or by contacting us at [[email protected]](https://www.themag.co.uk/cdn-cgi/l/email-protection#cfa2aea8a1aab8bc8fbba7aaa2aea8e1aca0e1baa4)
+We use a third-party provider, MailChimp, to deliver our newsletters. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our newsletter. For more information, please see [MailChimp’s privacy notice](https://mailchimp.com/legal/privacy/). You can unsubscribe to mailings at any time by clicking the unsubscribe link at the bottom of any of our emails or by contacting us at [[email protected]](https://www.themag.co.uk/cdn-cgi/l/email-protection#2f424e48414a585c6f5b474a424e48014c40015a44)
 
 Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a legal request request for information we receive, or to otherwise protect our rights.
 
@@ -72,7 +72,7 @@ We may update this privacy policy from time to time in order to reflect, for exa
 
 **Contact us**
 
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [[email protected]](https://www.themag.co.uk/cdn-cgi/l/email-protection#4d28233c38243f24283e0d392528202c2a632e22633826) or by mail using the details provided below:
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [[email protected]](https://www.themag.co.uk/cdn-cgi/l/email-protection#74111a05011d061d110734001c111915135a171b5a011f) or by mail using the details provided below:
 
 The Mag Online  
 Privacy Compliance Officer  
