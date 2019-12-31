@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeshowboxapk.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330095927id_/https%3A//freeshowboxapk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeshowboxapk.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231184936id_/https%3A//freeshowboxapk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Apks Paradise
 
