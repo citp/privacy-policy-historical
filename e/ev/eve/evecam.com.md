@@ -1,79 +1,128 @@
-> *The following text is extracted and transformed from the evecam.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502101642id_/https%3A//evecam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evecam.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231050627id_/https%3A//chaturbate.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Evecam
+# Privacy Policy - Chaturbate
 
-Introduction
+This Privacy & Cookies Policy (the "Policy") dated May 22, 2018 replaces all previous policies. Please take the time to review before you continue to use our products and services.
 
-Tis document, **"Privacy policy"** , describes how EveCam collects, processes, and stores the personal data of users, also referred to as "Guests", "You", "Your", and "User", on EveCam ([www.EveCam.com](https://evecam.com/)), which may also be referred to as **"The Site"** , **"Site"** , **"Us"** , **"We"** , and **"Ours"**. By visiting the Site you show your agreement and acceptance of these terms. If for any reason you do not agree with this Privacy Policy, do not use the Site or any of its Services.
+This Policy applies to any information you provide to us, including through this website, our mobile apps, communications by email and through social media, by telephone and in person. It also covers any information we receive from third parties.
 
-Data We Collect/May Collect
+By using our products and services, including browsing our websites, registering or logging in, you agree we may use your information as outlined in this Policy. If you do not wish to have your information used in line with this Policy, you must not use our products and services and not otherwise provide us with your information.
 
-  * During registration for an account, we may request personal information including but not limited to your email address.
-  * We may also collect and/or request other personal information when you choose to share it with the Site, such as when you sign up for a mailing list, during general use of the Site, if you specifically request information from us, and/or otherwise make contact with the Site.
-  * Personal information may also be collected by means of a survey and/or to receive special promotions and/or rewards.
-  * Upon visiting the Site, we may collect your IP address and other electronical information transmitted via your web browser. This includes, but is not limited to, the type of browser used, the operating system used, and/or the domain from which you arrived at the Site. We may also insert a short piece if code onto your device to help us understand characteristics of your computer and help us recognize when you visit.
-  * We keep records of copies of all statements published on the Site and any correspondence communicated with us.
+## About us
 
+Multi Media, LLC operates the service located on Chaturbate.com (the "Site").
 
+## Information we may collect and process about you
 
-Cookies
-
-Cookies are small files that store certain information on your computer or mobile devices.
-
-  * We reserve the right to install cookies whenever a User enters the Site. These files may anonymously record information such as an identification code, personal preferences, and/or a record of pages visited. The purpose of Cookies is to help simplify subsequent interactions with the Site and to improve browsing experience. By using the Site, you consent to the use of Cookies.
-  * We use both Session ID cookies and Persistent cookies. Session ID cookies are maintained for the duration of your visit on the Site and expire once the web browser is closed. Persistent cookies may remain on your device for a longer period of time.
-  * Most web browsers automatically accept cookies, however, it is possible to modify preferences to issue an alert when a cookie is installed or to disable cookies altogether. The Site relies on cookies for numerous operations and to enjoy the full functionality of the Site we recommend enabling cookies on your web browser. Should you decide not to enable cookies, your experience on the Site may be limited.
-
-
-
-Sharing of Personal Data
-
-We reserve the right to share the personal data collected from you in the following ways:
-
-  * To third party service providers who provide the Site with technical, business, or professional support.
-  * If there has been a violation of the EveCam Terms and Conditions and/or rights and/or rights of a third party.
-  * If required for judicial process and/or to provide helpful information to any law enforcement agency and/or in relation to an investigation about public safety.
-  * To selected partners, affiliates, and other third parties that we believe may be of interest to you.
-  * As described at the time such information is collected.
-  * As part of a non-personal bulk information package to third parties for statistical, analytics, and/or marketing. 
-  * Personal data will not be sold or passed on to a third party under any other circumstances.
+  * Information you provide to us
+  * Your IP address
+  * Information about accounts you've visited, products and services you've clicked on or shown an interest
+  * Information provided by other companies who have obtained your permission through their own privacy policies to share information about you
+  * Information about your interaction with the Site including any advertisements
+  * Information we collect using cookies stored on your device about your use of the Site and/or selected third party websites.
+  * Information we collect or remember using technologies similar to cookies, such as device identifiers on your mobile device.
+  * Technical information from your device relating to the service you receive
+  * Information relating to the location of your device.
 
 
 
-Using Your Personal Data
+## How we may use your information
 
-  * We reserve the right to use your personal data in analysis to help us improve our products and/or services such as customizing your personal experience on the Site or catering to your personal interests.
-  * We reserve the right to use your personal data to deliver personalized information on offers, deals, promotions, and other beneficiary services and products via the Site.
-  * We reserve the right to use your personal data to respond to communications initiated by you such as to troubleshoot issues as well as to contact you in other situations such as a breach of our Terms and Conditions.
-  * We reserve the right to use your email address to contact you unless you have requested not to be contacted by this means.
+By accessing the Site, you agree that we may collect, hold, use or otherwise process your information (including personal information) for the purpose of providing you with those products and services you request or access, and developing our business.
+
+### Payment Processing
+
+Please note that we contract with various third parties to carry out payment processing in connection with any purchases you may make through the Site. The processing and storage of any and all information you may provide to any such third-party payment processor, including information they may collect from you, is not governed by this Policy. You will need to review the Privacy and Cookie Policy for such third party on their website.
+
+### Two Factor Authentication
+
+When you enable two factor authentication to protect your account, you may provide your phone number directly to a third party called Twilio. Their use of this information is outside of this Policy; however they do not receive any information regarding your account beyond the phone number you provide directly to them.
+
+### Fraud Prevention Services
+
+We use third party services in connection with preventing fraud and other damage to our system. As such we may provide to such services with your IP and device data should your account be terminated for fraud or behavior which is damaging to our Site or service. This information will be retained indefinitely for the protection of our Site and users.
+
+## How we may use your information in specific products or services
+
+### Registration
+
+**General account registration:** You are not required to provide any information to use the Site. You may determine to create an account with the Site. In such event you will be required to provide a user name, birthdate to demonstrate you meet our minimum age requirements, and your gender. This information, together with any information you determine to provide in your account profile, will be publicly posted in connection with your username.
+
+**Contributor registration:** Should you determine to create a "Contributor" account (which is an account that is permitted to receive digital currency from other users of the Site), you will be required to provide a color copy of your current government issued photo identification. This information is stored by us in compliance with United States Federal law. You will also be required to provide “pay to” information such as a bank account or home address. You may be required to provide certain taxpayer information. We report to the United States Internal Revenue Service all moneys paid by us to Contributors as required by law.
+
+**Webmaster registration:** Should you determine to create a webmaster account with the Site, you will be required to provide "pay to" information such as a bank account or home address. You may be required to provide certain taxpayer information. We report to the United States Internal Revenue Service moneys paid by us to webmasters as required by law.
+
+### Message boards, blogs and other public forums
+
+The Site may provide message boards, blogs and other user generated content facilities, in addition to user profiles. Anything that you share through any of these means is deemed public information. You should always be careful when deciding to disclose your personal information.
+
+### Location based services
+
+Where we provide services that utilize your device's location, we may permit other users of the service to block individuals in certain locations, based upon their IP, from accessing such users' content.
+
+## Certain Information Use Out of Our Control
+
+Should you determine to stream or upload any content to our Site, you understand that we cannot control the use of such content by any user/observer of our Site. Furthermore, we cannot control the use of any personal information you may determine to share with other users/observers of the Site. You should exercise caution in discussing your location, name, account information, and other identifying information. For privacy, we recommend using a unique username not in any way tied to any of your social media accounts or real name.
+
+## How we may share your information
+
+Your username will be associated with all activities you undertake on the Site including, without limitation, messages sent, content shared, and streamed content. Your gender information will be used to categorize your account and the content that you share so it is easier for site users to find. Your IP addresses, device data, and other use information is used by us in order to optimize our site for use. Your usage history may also be used to help our internal algorithm to recommend other Site users to you. Your "pay to" information, if provided to us, will be shared with third parties (such as, by way of example only, our bank) only as necessary to process payments to you using the "pay to" information you have provided to us. Your government identification, if provided to us, will be shared as required to comply with applicable law and as may be requested by you in writing. Notwithstanding the forgoing, we reserve the right to share any and all account information with law enforcement or agencies authorized by applicable governmental authorities either in response to their written request or should we believe, in our sole discretion, that you or your account may be involved with illegal activity, or if we determine in our sole discretion that such disclosure is necessary to protect the rights or property of Chaturbate, our users, or third parties.
+
+## Safeguards and security for your information
+
+We have measures in place to protect the security of your personal information from unauthorized access or use, such as by using encryption technology.
+
+## Information Deletion
+
+Should you request your personal data be deleted, it will be deleted in compliance with our data retention policy and applicable law and rules. In order to avoid abuse of our system, we will retain device and IP data relating to your account for a period of time to prevent you from creating a new account.
+
+You can request permanent deletion using our deletion tool [here](https://web.archive.org/security/privacy/delete/).
+
+## Cookies Policy
+
+You should be aware that when you use the Site we may collect information using cookies or similar technologies.
+
+### What are cookies and how do they work?
+
+Cookies are small files that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognize you. This allows websites to tailor what you see on the screen.
+
+### Do we use other technologies which are similar to cookies?
+
+Our websites, apps and emails often contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used in a way similar to cookies, to understand when a particular part of a webpage is viewed. Our apps often use device identifiers in the same way as cookies. A device identifier is a unique number on your device which allow us to remember your device.
+
+### What do we use cookies for?
+
+Cookies make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups:
+
+  1. Cookies that are needed to provide the service you have asked for. Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies gather information about you that can be used for remembering your browsing history or allowing you to stay logged in during your visit.
+  2. Cookies used to improve your browsing experience. These cookies allow the website to remember choices you make, such as your language or region and they provide improved features such as content provider recommendations and limiting the number of times a particular advertisement is shown to you.
+  3. Cookies used to understand how people use our products and services. This allows us to keep track of what pages are popular to help other users find such pages.
+  4. Cookies used to show advertising that is relevant to you based upon your viewing history.
 
 
 
-Personal Data and Third Parties
+We also use cookies in order to know how many advertisements we serve, how many times these are clicked or hovered over with a mouse cursor, how many advertisements we show to a given user and how many customer actions these generate.
 
-  * We may disclose your personal information to our affiliated companies, sites, and service providers who may use such information to provide you with a service.
-  * We may disclose your personal information in anonymous and/or statistical form to third parties.
-  * In such an event that the Site has sold assets to another company, all information, including personal information collected about you, will be transferred to such an entity. In the event of bankruptcy, a company restructure, or proceedings against the company, such personal information may be considered an asset and sols as such to third parties. In this scenario, we will request that the information is used in lines with this Privacy Policy.
-  * If required by law, we reserve the right to disclose your personal information to third parties.
+We may also use cookies on the Site and advertisers' sites to understand which customers reach a sale or other action page on an advertiser's site. This allows us to monitor how effective our advertising is.
 
+Some of our web pages will contain promotional links to other companies' sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. You will need to review the privacy policy of any website whose advertisement you click on as this Policy only applies to pages on our domain.
 
+## Contacting us and accessing your personal information
 
-External URLs
+If you have any queries or comments about this Privacy & Cookies Policy please contact us at:  
+[support@chaturbate.com](mailto:support@chaturbate.com)
 
-Throughout the Site you may find links to external websites. If you click on these links and navigate away from the Site, you should note that this Privacy Policy is no longer in effect and each site maintains their own Privacy Policy. EveCam does not take responsibility for the practices of such sites.
+If you wish to review or receive a copy of the personal information we hold about you, we offer a self-serve tool [here](https://web.archive.org/security/privacy/data_export/), else please write to us at:
 
-Third Party Collection of Information
+> Attention: Data Protection Officer  
+>  Grizzly Empire Ltd  
+>  Unit 4 Studios  
+>  100 Bradford Road  
+>  Dewsbury, United Kingdom, WF13 2EF  
+>  [privacyquestions@chaturbate.com](mailto:privacyquestions@chaturbate.com)
 
-This Privacy Policy refers only to EveCam and how we disclose and use your personal information. If you disclose personal information to a third party either via our system or outside our system, different rules and privacy Policies apply. This extends to the use of third party billers and/or IPSPs that may be used to process payments to EveCam who may need to collect credit card and Personal Information to process and/or authorize a payment. These companies may also provide us with your Personal Information, however, they will never disclose your credit card number.
+We reserve the right to charge an administration fee in relation to fulfilling a request for access to personal information which fee shall not exceed the maximum fee allowed by law.
 
-Your Rights Regarding Personal Data
+### Changes to this Privacy & Cookies Policy
 
-You may change, alter, or update your personal information on the EveCam database at any time by contacting our customer services team or by logging into your account on the Site and changing it there. It is important to note that should you choose to delete your account on the Site, the personal data from the account remains stored in our database under a deleted status until further notice.
-
-Miscellaneous
-
-  * The Site reserves the right at its own discretion to modify, change, add, remove, or otherwise revise any and/or all portions of this Privacy Policy at any time and without any notice.
-  * To receive more detail on information on how your personal data is used, or if you have any further questions or claims, please contact us via the appropriate channels. 
-  * If any terms, sections, or other parts of this Privacy policy is considered illegal and/or unenforceable by a court of law, this does not affect the other terms in this Privacy Policy. 
-
-
+We reserve the right to make changes to our Privacy & Cookies Policy. Changes to this policy will be posted here and will become effective as of the updated effective date. Your continued use of our website or platform will signify your acceptance of these changes.
