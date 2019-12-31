@@ -1,204 +1,210 @@
-> *The following text is extracted and transformed from the intercasino.co.uk privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607140815id_/https%3A//www.intercasino.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intercasino.co.uk privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231231525id_/https%3A//www.facebook.com/privacy/explanation) for the most accurate reproduction.*
 
-# InterCasino | privacy-policy » Home
+# Data Policy
 
-### Version 3.0 Date: 06.05.19
+This policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook ([Facebook Products](https://www.facebook.com/help/1561485474074139?ref=dp) or Products). You can find additional tools and information in the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT1ZZsh7sH1ss2HgihmQhVts8Qcq59mQYbcpETyYIacmXM6jCUXRAishiWgL5Ie6dHoMdiGZiviRBIPnOtCfudhl5t3MvvQY8Ly8vx47EYCOsMNX16MS8brCa9q9DYnzTmPJXUNLv7gCSfV_5WGA5Q). 
 
-Dumarca Gaming Limited ("we", "us", "our") is committed to protecting the privacy of any personal data that you provide to us or that we collect about you ("Personal Information"). Personal Information is information which identifies you and/or which relates to you, and may include your name, address, date of birth, payment card details, gaming history, account details, and any other information that we hold about you. We are a controller (also known as a "data controller") in respect of your Personal Information. Controller is a legal term and means that we are responsible for determining the purposes for which your Personal Information is processed.
+###  What kinds of information do we collect? 
 
-We will ensure that your Personal Information is processed in compliance with data protection laws and regulations in the countries where we operate. Accordingly, we have set out in this Privacy Policy how we use your Personal Information. 
+To provide the Facebook Products, we must process information about you. The types of information we collect depend on how you use our Products. You can learn how to access and delete information we collect by visiting the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT387CeuXLw1E1WM7aHHrQOHK6wjO7fHSGLY3uFIAiuGMXHCZBRS7P2e1FwvLqDAzbR4TI8BpTmNA0brqr1tRncvd1adAWmLa8ZqedNMoPwX8KT_AymNyaei6NuBQXCw-ughorCcMvgye7DETaBe4Q). 
 
-We may update this Privacy Policy from time to time, and therefore recommend that you review this Privacy Policy regularly. Where we make any material changes to this Privacy Policy, we will notify you that changes have been made. 
+Things you and others do and provide.
 
-### About us
+  *  **Information and content you provide.** We collect the content, communications and other information you provide when you use our Products, including when you sign up for an account, create or share content, and message or communicate with others. This can include information in or about the content you provide (like metadata), such as the location of a photo or the date a file was created. It can also include what you see through features we provide, such as our [camera](https://www.facebook.com/help/162347444215311), so we can do things like suggest masks and filters that you might like, or give you tips on using camera formats. Our systems automatically process content and communications you and others provide to analyze context and what's in them for the purposes described below. Learn more about how you can control who can see the things you [share](https://www.facebook.com/help/1297502253597210?ref=dp). 
 
-We are part of the Jackpotjoy group of companies, which is headed by Jackpotjoy Plc. Our group owns and/or operates a number of great gambling brands, such as Jackpotjoy; Starspins; Jackpot Happy; Vera&John; InterCasino; Costa Bingo; Sing Bingo; City Bingo; Costa Games; Slot Crazy; and Fantastic Spins. You can find a full list of our gambling brands [here](https://www.intercasino.com/update-marketing-subscriptions/whoweare) (www.intercasino.co.uk/promo/1749). Our Group includes companies such as Jackpotjoy Operations Ltd and Jet Management Group Ltd. 
+    * Data with special protections: You can choose to provide information in your Facebook [profile fields](https://www.facebook.com/help/353111348061173?ref=dp) or Life Events about your religious views, political views, who you are "interested in," or your health. This and other information (such as racial or ethnic origin, philosophical beliefs or trade union membership) could be subject to special protections under the laws of your country.
 
-### How we collect your Personal Information
+  *  **Networks and connections.** We collect information about the people, [Pages](https://www.facebook.com/help/282489752085908?ref=dp), accounts, [hashtags](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F351460621611097%3Fref%3Ddp&h=AT1gKBbGvS01UF5ZD3KeP3kqWShuv_NhbO760wMsP2i-9BXI7x1P1Sb6j6H6flU9rVenAJmTH-_CG-fZ8ftZK1wJ-QnmCYzd0jcBwlo3nouhIq9xgXuER74aTCVGsS0uhI_F0OBmyqMbaHkFNarhog) and groups you are connected to and how you interact with them across our Products, such as people you communicate with the most or groups you are part of. We also collect contact information if you [choose to upload, sync or import it from a device](https://www.facebook.com/help/561688620598358?ref=dp) (such as an address book or call log or SMS log history), which we use for things like helping you and others find people you may know and for the other purposes listed below.
 
-So that we can operate our websites and mobile applications, you will be asked to provide your Personal Information for the purposes of registering and opening an account with us. You are under no obligation to provide Personal Information to us. However, certain Personal Information is essential in order for us to provide you with our services (for example, enabling you to play the games on the website) and you might not be able to obtain certain services if you choose to withhold information we have requested that is required for those services.   
-We may offer you the option of providing a photographic image of your face to simplify the process for verifying your identity and/or creating your account. Whether you provide such an image will be entirely up to you, but if you prefer not to we will need you to provide us with some additional information about you so we can check your identity to comply with our legal/regulatory obligations.   
-We also collect information about the transactions you make, including details of payment cards used. We may collect Personal Information through surveys which we, or companies engaged by us for such purpose, undertake. In addition, we collect information about your use of our websites, mobile applications and services. We will also collect other information necessary for us to process your Personal Information for the purposes set out in this Privacy Policy. 
+  *  **Your usage.** We collect information about how you use our Products, such as the types of content you view or engage with; the features you use; the actions you take; the people or accounts you interact with; and the time, frequency and duration of your activities. For example, we log when you're using and have last used our Products, and what posts, videos and other content you view on our Products. We also collect information about how you use features like our camera.
 
-If you provide your name, address or any other Personal Information on the public area of our websites, we will process this Personal Information also. 
+  *  **Information about transactions made on our Products.** If you use our Products for [purchases](https://www.facebook.com/help/1434403039959381?ref=dp) or other financial transactions (such as when you make a purchase in a game or make a [donation](https://l.facebook.com/l.php?u=https%3A%2F%2Fdonations.fb.com%2F&h=AT1L-fFoy5hbNni7duKpYG-y2jSi5J404E0caDGbguB5iwecjOx98TrrAH4Pq_wzN-JyHo4eQFSKjqTyghif5T9t64a76PMryz22TK7wbfDkpCNYUf9eXtJCgqW2u-Cp5nqyXQBgvIhcTL8Cd1WpmQ)), we collect information about the purchase or transaction. This includes payment information, such as your credit or debit card number and other card information; other account and authentication information; and billing, shipping and contact details.
 
-We may also collect Personal Information from third party service providers, such as fraud prevention companies. 
+  *  **Things others do and information they provide about you.** We also receive and analyze content, communications and information that other people provide when they use our Products. This can include information about you, such as when others share or comment on a photo of you, send a message to you, or upload, sync or import your contact information.
 
-Finally, we also use "cookies" which may collect certain information about you, such as your devices' IP addresses, which constitutes Personal Information. You can learn more about the cookies we use in the 'Cookies' section below. 
 
-### How will we use your Personal Information?
 
-In accordance with data protection laws, we will only process your Personal Information where we have a lawful basis for doing so. In respect of your Personal Information, these bases are: (i) where it is necessary to provide services to you under the performance of the contract we have with you; (ii) where we are required to do so in accordance with legal or regulatory obligations; (iii) where such processing is in the public interest; (iv) where you have given your consent; and, (v) where it is in our legitimate interests to process your Personal Information, provided that none of these prejudice your own rights, freedoms and interests. 
 
-The following are a list of the purposes for which we process your Personal Information, and the lawful basis on which we carry out such processing: 
+Device Information
 
-**Purpose** | **Lawful Basis**  
----|---  
-To set-up, administer and manage your account (including processing deposits and withdrawals)  
-We may invite you to provide us with a photographic image of your face as an optional means of streamlining the process for verifying your identity and creating your account. | Necessary for the performance of a contract  
-The collection and processing of your image is subject to your consent.  
-To provide you with our services (including to allow you to play our games) | Necessary for the performance of a contract  
-To receive and respond to your communications and requests | Necessary for the performance of a contract where such communication relates specifically to our services, otherwise consent or legitimate interests  
-To notify you about updates to our websites, mobile applications and services | Necessary for the performance of a contract or legitimate interests  
-To ensure that we are able to fulfil our regulatory obligations regarding your use of our services, including by verifying the accuracy of any information you provide us and by verifying your age (which may involve us disclosing your Personal Information to third parties or supplementing your Personal Information with information received from third parties (such as credit reference agencies)  
-We may invite you to provide us with a photographic image of your face as an optional means of streamlining the verification process.  | Necessary to comply with a legal or regulatory obligation
+As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices you use. For example, we use information collected about your use of our Products on your phone to better personalize the content (including [ads](https://www.facebook.com/help/119468292028768?ref=dp)) or features you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device. 
 
-Consent  
-  
-To comply with our obligations under applicable laws (including gambling legislation, and regulatory and licensing requirements related to our gambling licences) | Necessary to comply with a legal or regulatory obligation  
-To identify and disclose any suspected unlawful, fraudulent, or other improper activity connected with our websites, mobile applications and services (including money laundering) | Necessary to comply with a legal or regulatory obligation  
-To prevent or detect unlawful acts or protecting members of the public against dishonesty, malpractice or other seriously improper conduct  |  Necessary to comply with a legal or regulatory obligation or necessary for reasons of substantial public interest   
-To carry out market research campaigns so that we can better understand the products and services that our customers most enjoy | Legitimate interests  
-To analyse how you and other players use our websites, mobile applications and services and respond to promotions and adverts, in order to identify relevant patterns and business insights, so that we can improve our products and services and provide tailored offers and recommendations | Legitimate interests  
-To build up your personal profile in order to gain a better understanding of your interests in our products and services, to make recommendations for games and other gaming websites owned by [our group](https://web.archive.org/update-marketing-subscriptions/whoweare) (www.intercasino.com/promo/1749) that are relevant to you, and to improve the gaming products and services offered by other companies in our group  | Legitimate interests  
-If you use other websites that are owned by us or by other companies in our group, to match your account details across those websites in order to build up your personal profile and gain a better understanding of your interests in our Group's products and services and to provide you with tailored recommendations  | Legitimate interests  
-If you use other websites that are owned by us or by other companies in our group, to match your account details across those websites in order to prevent abuse of our services  |  Legitimate interests  
-To send you offers and promotions relating to our services or the services of other members of our group that you may be interested in, provided that you have given your consent (and as more particularly described in the "Marketing" section below) | Consent  
-To send you offers about our other brands, provided that you have given your consent (and as more particularly described in the"Marketing" section below) | Consent  
-To provide you with ads on social media sites, except where you have requested not to receive such ads via your social media account | Legitimate interest  
-To support any other purpose necessary for performance of our contractual obligations or specifically stated at the time at which you provided your Personal Information | Necessary for the performance of a contract  
-To record telephone calls to and from, and live chats with, our customer services representatives for training so that we improve our customer services and also for security and identification purposes | Legitimate interests in respect of training, and necessary for a legal or regulatory obligation in respect of security and identification  
-To monitor gambling patterns and to identify possible responsible gambling concerns | Necessary to comply with a legal or regulatory obligation  
-To prevent you from using our websites, mobile applications and services if you have requested that we do so | Necessary to comply with a legal or regulatory obligation  
-To comply with any deposit, spend or loss limits that you have set | Necessary to comply with a legal or regulatory obligation  
-To use your name, image, username or location in publicity and marketing, but only where you have provided your express and informed consent for us to do so | Consent  
-Cookies: those that are necessary for the operation of our websites and mobile applications, including allowing you to interact with our websites and mobile applications and to recall selections as you move between pages | Necessary for the performance of the contract  
-Cookies: those that analyse your use of our websites and monitor our web audience so we can continue to analyse and improve our website and services, and those that populate certain content on our website in line with your usage so we can better tailor our website to our customers | Legitimate interest  
-Cookies: Those that track your journey to and from our website so we can understand how customers come to and from our website and give effect to any commercial arrangements | Legitimate interest  
-Cookies: Those that are necessary for regulatory compliance, including identifying multiple accounts, false logins or potential fraud | Necessary to comply with a legal or regulatory obligation  
-Cookies: those that are used for third party marketing | Consent  
-  
-### Disclosing your Personal Information
+Information we obtain from these devices includes: 
 
-Your Personal Information may, for the purposes described above, be disclosed by us to any companies which are part of our group, and processed by such companies in accordance with this Privacy Policy. 
+  * **Device attributes:** information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.
 
-We may also disclose your Personal Information to processors to provide services on our behalf. Such processors will only process your Personal Information in accordance with this Privacy Policy, and we will have a contract in place with each such processor to ensure your Personal Information is kept secure. 
+  *  **Device operations:** information about operations and behaviors performed on the device, such as whether a window is foregrounded or backgrounded, or mouse movements (which can help distinguish humans from bots).
 
-We may also disclose your Personal Information in the following circumstances: 
+  *  **Identifiers:** unique identifiers, device IDs, and other identifiers, such as from games, apps or accounts you use, and Family Device IDs (or other identifiers unique to [Facebook Company Products](https://www.facebook.com/help/195227921252400?ref=dp) associated with the same device or account).
 
-• where required by applicable law or regulation to a governmental, regulatory or enforcement authority;   
-• in order to defend ourselves legally and/or in relation to legal proceedings; and   
-• if we undertake a group restructuring, and transfer the operation of this website to another member of our group;  
-• if we choose to outsource the operation of this website to a third party service provider; and/or   
-• whilst negotiating a takeover, sale, purchase or merger, financing, investment, restructuring or other proceeding involving the sale, transfer, divestiture or disclosure of all or a portion of our business or assets, and pursuant to the same.   
+  *  **Device signals:** Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers.
 
+  *  **Data from device settings:** information you allow us to receive through device settings you turn on, such as access to your GPS location, camera or photos.
 
-### Transferring your Personal Information outside of the EEA
+  *  **Network and connections:** information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network, so we can do things like help you [stream a video from your phone to your TV](https://www.facebook.com/help/276515126152168?ref=dp).
 
-We do not transfer your Personal Information outside the European Economic Area ("EEA"). If we did transfer your Personal Information outside the EEA, we will take all reasonable steps to ensure that adequate measures are in place to keep your Personal Information as secure as it is within the EEA, and in accordance with this Privacy Policy. 
+  * 
 
-### Security
 
-We have implemented extensive technical and organisational measures to protect your data from loss, manipulation and unauthorised access. We are monitored and reviewed by the regulatory authorities in the jurisdictions where we have gaming licences. Security measures include, but are not limited to, digital and physical perimeter protection, asset management, access control and operational security controls. While we will use all reasonable endeavours to keep your Personal Information safe and secure at all times, you should note that security can never be guaranteed and we may not be liable to you unless your security is compromised due to our negligence. 
+Information from partners.
 
-### Marketing
+Advertisers, [app](https://www.facebook.com/help/1642635852727373?ref=dp) developers, and publishers can send us information through [Facebook Business Tools](https://www.facebook.com/help/331509497253087) they use, including our social plug-ins (such as the Like button), Facebook Login, our [APIs and SDKs](https://developers.facebook.com/docs/apis-and-sdks), or the Facebook [pixel](https://www.facebook.com/business/a/facebook-pixel). These partners provide information about your activities off Facebook—including information about your device, websites you visit, purchases you make, the ads you see, and how you use their services—whether or not you have a Facebook account or are logged into Facebook. For example, a game developer could use our API to tell us what games you play, or a business could tell us about a purchase you made in its store. We also receive information about your online and offline actions and purchases from third-party data providers who have the rights to provide us with your information. 
 
-We may engage the services of third party service providers and members of our Group to provide you with certain marketing services. We take steps to ensure that arrangements with these parties protect your privacy by ensuring that these parties comply strictly with our instructions when they are processing your Personal Information. 
+Partners receive your data when you visit or use their services or through third parties they work with. We require each of these partners to have lawful rights to collect, use and share your data before providing any data to us. [Learn more](https://www.facebook.com/help/494750870625830?ref=dp) about the types of partners we receive data from. 
 
-### Marketing communications about the website
+To learn more about how we use cookies in connection with Facebook Business Tools, review the [Facebook Cookies Policy](https://www.facebook.com/policies/cookies) and [Instagram Cookies Policy](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Flegal%2Fcookies%2F&h=AT1J8uzoQwyLEmyTHQltRe0xttDDNRtzDO9myESebAt_p03N2Mfj3KfurXr2DC-AHRRvpoEqZw9LaLOeVQwyVaUQi0dNR1cke24Pd8222F8UqCH04bjtniardwSqxtFv8c0iJA58ElgicZaZ0-ZnUA). 
 
-As a user of our website, you can tell us whether or not you wish to be contacted for marketing purposes and, if so, how we can contact you. 
+###  How do we use this information? 
 
-We may use your Personal Information to offer you personalised experiences on our website. We may deliver from time to time personalised content by using cookies to understand your behaviour and online preferences. To understand how cookies are used, please see the table above and the 'Cookies' section below. 
+We use the information we have (subject to choices you make) as described below and to provide and support the Facebook Products and related services described in the [Facebook Terms](https://www.facebook.com/legal/terms/update) and [Instagram Terms](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F581066165581870%3Fref%3Ddp&h=AT3uJTCNKxAoCS2a5LGo9FsNqh8fKgNDYK2W_ORmH9mn-pPOKqBGy1xMbtzrPpM2fPUx4t_y-wzkQDOAeDWOZM5DkAKLFpn-OzHCKjX6yVJMgSI1lGhudb4zrbYKI9x4pBHPcs9Xg2VcmfS4LuHBZA). Here's how: 
 
-Marketing communications about the website may contain details about: 
+Provide, personalize and improve our Products.
 
-• new games, jackpots and promotions available to you on our website;   
-• our loyalty programme (e.g. VIP), your rewards and promotional pay-outs on our website; and  
-• other promotional information about our website.   
+We use the information we have to deliver our Products, including to personalize features and content (including your [News Feed](https://www.facebook.com/help/166738576721085?ref=dp), [Instagram Feed](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1986234648360433%3Fref%3Ddp&h=AT3EBkyA71UdhPdAFoVXU6sCAZ03EfWJAcFDsaD4J9xTp9FgfqOZRPQMrNb7SB6OzHbSkxGMyB0YGcq3sFZuZORkxQdYtMgabn_3qqal8Aa8OmreS5wIhGzTuz2I_obYMfd7b-z2A2m8dRng5D7j_A), Instagram Stories and ads) and make suggestions for you (such as groups or [events](https://www.facebook.com/help/1076296042409786?ref=dp) you may be interested in or topics you may want to follow) on and off our Products. To create personalized Products that are unique and relevant to you, we use your connections, preferences, interests and activities based on the data we collect and learn from you and others (including any data with special protections you choose to provide); how you use and interact with our Products; and the people, places, or things you're connected to and interested in on and off our Products. Learn more about how we use information about you to personalize your Facebook and Instagram experience, including features, content and recommendations in Facebook Products; you can also learn more about how we choose the [ads](https://www.facebook.com/about/ads) that you see. 
 
+  * **Information across Facebook Products and devices:** We connect information about your activities on different Facebook Products and devices to provide a more tailored and consistent experience on all Facebook Products you use, wherever you use them. For example, we can suggest that you join a group on Facebook that includes people you follow on Instagram or communicate with using Messenger. We can also make your experience more seamless, for example, by automatically filling in your registration information (such as your phone number) from one Facebook Product when you sign up for an account on a different Product.
 
-You can choose to opt-in to receive marketing communications from us about the website via the following channels: 
+  *  **Location-related information:** We use [location-related information](https://www.facebook.com/about/basics/manage-your-privacy/location)-such as your current location, where you live, the places you like to go, and the businesses and people you're near-to provide, personalize and improve our Products, [including ads](https://www.facebook.com/about/ads), for you and others. Location-related information can be based on things like precise device location (if you've allowed us to collect it), IP addresses, and information from your and others' use of Facebook Products (such as check-ins or events you attend).
 
-• email marketing: when you opt-in on the website to receive marketing communications by email;   
-• SMS marketing: when you opt-in on the website to receive marketing communications by SMS;   
-• Phone Marketing: when you opt-in on the website to receive marketing communications by telephone;   
-• Post marketing: when you provide your contact details and have not opted-out from receiving marketing communications by post; and  
-• Push notifications: when you have installed our app on your device and enable push notifications in your device settings.   
+  *  **Product research and development:** We use the information we have to develop, test and improve our Products, including by conducting surveys and research, and testing and troubleshooting new products and features.
 
+  *  **Face recognition:** If you have it turned on, we use face recognition technology to recognize you in photos, videos and camera experiences. The face-recognition templates we create may constitute data with special protections under the laws of your country. Learn more about [how we use face recognition technology](https://www.facebook.com/help/122175507864081?ref=dp), or control our use of this technology in [Facebook Settings](https://www.facebook.com/settings/facerec). If we introduce face-recognition technology to your Instagram experience, we will let you know first, and you will have control over whether we use this technology for you.
 
-You can opt-out from receiving marketing communications from us about the website at any time by following the instructions below: 
+  *  **Ads and other sponsored content:** We use the information we have about you-including information about your interests, actions and connections-to select and personalize ads, offers and other sponsored content that we show you. Learn more about how we [select and personalize ads](https://www.facebook.com/ads/preferences), and your choices over the data we use to select ads and other sponsored content for you in the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT2qlMqoJBrVTcFXG1-iaCwqY6Is8gsdJvY7ADDB3T8OGUl7f5q6zd6HasC0oN_t2Dq4ngwiXtOx6aC9iag3YMy6IOS4YX0olxM1oxbArJwpH-grmc1ACKR2a1Ms_2utuuVaFohLO-t1vrCzwNdgmg).
 
-• Email marketing: to opt-out from emails, use the unsubscribe link provided within any email you receive or manage your preferences in your account;   
-• SMS Marketing: to opt-out from SMS, you can use the STOP code provided in any SMS you receive or manage your preferences in your account;   
-• Phone Marketing: to opt-out from being contacted by telephone for marketing purposes, you can manage your preferences in your account;   
-• Post Marketing: to opt-out from receiving mail marketing, you can manage your preferences in your account; and  
-• Push notifications: to opt-out from receiving push notifications, you can disable push notifications in your device settings.   
 
 
-When you choose to opt-out from email, SMS or phone marketing channels about the website, you will stop receiving marketing communications within 72 hours. 
 
-When you decide to opt-out from receiving post marketing about the website, please be aware it may take up to 28 days for your request to take effect. 
+Provide measurement, analytics, and other business services.
 
-### Marketing communications about the other great gaming websites in our group
+We use the information we have (including your activity off our Products, such as the websites you visit and ads you see) to help advertisers and other partners measure the effectiveness and distribution of their ads and services, and understand the types of people who use their services and how people interact with their websites, apps, and services. Learn how we share information with these partners. 
 
-You can choose to opt-in to receive marketing communications from us about the other great gaming websites owned by companies in our [group](https://www.intercasino.com/update-marketing-subscriptions/whoweare) (www.intercasino.com/promo/1749). These include other websites owned by us, and websites owned by Jackpotjoy Operations Ltd and Jet Management Group Limited. Don't worry, unless you register directly with those other gaming websites, they will not be able to send you marketing messages directly, and we will remain in control of whether marketing messages are sent to you. To the extent any members of our group are engaged by us to process your Personal Information on our behalf, we will ensure that these sister companies comply strictly with our instructions regarding such processing. 
+Promote safety, integrity and security.
 
-You can always change your contact preferences in the Account Settings section of [sitename].
+We use the information we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Products, and promote safety and security on and off of Facebook Products. For example, we use data we have to investigate suspicious activity or violations of our terms or policies, or to [detect when someone needs help](https://code.facebook.com/posts/286893341840510/under-the-hood-suicide-prevention-tools-powered-by-ai/). To learn more, visit the [Facebook Security Help Center](https://www.facebook.com/help/379220725465972?ref=dp) and [Instagram Security Tips](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F369001149843369&h=AT0jm0hzpIyNDeKIDa-ICobwBvixI95MAmuFMVD5qLuQ9AMuS0wVnjbHw_sXXeZDEKgOygPZ0yWDzP_q7PAKl-Jc33lPGCLibZizJ6NKtiy4zaRwzCC3mRXWqRe3rJD5MYpIWPe_64uv9-svrVhzTQ). 
 
-### Social Media Marketing
+Communicate with you.
 
-We may also use information you provide to us to show you relevant advertising and personalised content about our group's gaming websites on certain third party social media platforms (“Social Media Sites”) made available to us through those services (e.g. Facebook, Twitter). We do not control the way these Social Media Sites operate and collect your information, and you should read their respective privacy policies to understand how they use your personal information. 
+We use the information we have to send you marketing communications, communicate with you about our Products, and let you know about our policies and terms. We also use your information to respond to you when you contact us. 
 
-If you are a Facebook user, we may periodically use the Facebook Ads services to provide you with personalised content about our gaming websites. When you are logged into your Facebook account, we may provide you with personalised content. To provide this personalised content, Facebook may be sharing information with us that you have chosen to make available pursuant to your Facebook settings. You can read more information about how Facebook uses your information in their [privacy policy](https://www.facebook.com/privacy/explanation). We may also show you personalised and targeted advertisements on your Facebook account. If you no longer want to receive personalised and targeted advertisements from us on Facebook, you can manage your advertising preferences and decide what you want or do not want to see by using the settings in your Facebook account. You can read more details about how to manage your ad preferences on Facebook [here](https://www.facebook.com/help/769828729705201/).
+###  How is this information shared? 
 
-### Cookies
+Your information is shared with others in the following ways: 
 
-About Cookies: In this privacy policy, we use the expression ‘cookie’ to refer to cookies and similar technologies for storing information (such as web beacons). A cookie is a simple text file that is stored on your computer or mobile (or other) device by a website’s server, and only that server will be able to retrieve or read the contents of that cookie. Each cookie is unique to your web browser. It will contain some anonymous information, such as a unique identifier and the website name and some digits and numbers. 
+Sharing on Facebook Products
 
-Almost all websites and applications you visit, including our website, will use cookies in order to improve your user experience by enabling that website and/or application to ‘remember’ you, either for the duration of your visit (using a ‘session cookie’) or for repeat visits (using a ‘persistent cookie’). 
+People and accounts you share and communicate with
 
-Cookies do lots of different jobs that improve your use of a website or application, like letting you navigate between pages efficiently, storing your preferences, and generally improving your experience of a website. Cookies make the interaction between you and the website faster and easier. If a website or application doesn’t use cookies, it will think you are a new visitor every time you move to a new page on the website. 
+When you share and communicate using our Products, [you choose the audience for what you share](https://www.facebook.com/help/120939471321735?ref=dp). For example, when you post on Facebook, you select the audience for the post, such as a group, all of your friends, the public, or a customized list of people. Similarly, when you use Messenger or Instagram to communicate with people or businesses, those people and businesses can see the content you send. Your network can also see actions you have taken on our Products, including engagement with ads and sponsored content. We also let other accounts see who has viewed their Facebook or Instagram Stories. 
 
-Some websites, including our website and any mobile or device specific version and any related applications of our website (collectively referred to in this Cookies section as the “Website”), will also use cookies to enable them to target their advertising or marketing messages (based, for example, on your location and/or browsing habits). 
+**[Public information](https://www.facebook.com/help/203805466323736?ref=dp)** can be seen by anyone, on or off our Products, including if they don't have an account. This includes your Instagram username; any information you share with a public audience; information in your [public profile on Facebook](https://www.facebook.com/help/203805466323736?ref=dp); and content you share on a Facebook Page, [public Instagram account](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F448523408565555%3Fref%3Ddp&h=AT3UetoMWoseUk80ZpBRLztwrYrwXvL4KZJJInG72Ayhfc7FWuo9K9rIOeqmGILigVBvvdd6TXd45kp0U_jFQaRiidfER1fH3NOvhMTkJl_9Wbg55weeUVFXvfu5D9_jS3Dxw5xmq_SCYdlubmOQcQ) or any other public forum, such as [Facebook Marketplace](https://www.facebook.com/marketplace). You, other people using Facebook and Instagram, and we can provide access to or send public information to anyone on or off our Products, including in other Facebook Company Products, in search results, or through tools and APIs. Public information can also be seen, accessed, reshared or downloaded through third-party services such as search engines, APIs, and offline media such as TV, and by apps, websites and other services that integrate with our Products. 
 
-Cookies may be set by the website you are visiting (“first party cookies”) or they may be set by other websites who run content on the page or application you are viewing (“third party cookies”). 
+Learn more about what information is public and how to control your visibility on [Facebook](https://www.facebook.com/help/203805466323736?ref=dp) and [Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F243810329323104%3Fref%3Ddp&h=AT18mgfxIQ7NZ5X1p6U0to2x7WRXGSe4UNVXSUTZzM-m8UDOyzDZNAHh9V1tKRw7_E7nxURfzTCZjlPB-2hIjFaGfyoF9hsGvUNYHiEMTFKJu33oI88XO4gIbC5VHNQzWk225ZTIP-XAEQxcfYWFsw). 
 
-Our Cookies: We use a number of different cookies on this Website to help us to recognise you, track your activity and improve your use and experience of the Website. 
+Content others share or reshare about you
 
-In addition, we use a number of third party service providers, who also set cookies on this Website, in order to deliver the services that they are providing to us. Such services include, but are not limited to, helping us to improve your use and experience of the Website by tracking your activity on the Website, measuring the effectiveness of the Website and the effectiveness of our marketing campaigns. 
+You should consider who you choose to share with, because people who can see your activity on our Products can choose to share it with others on and off our Products, including people and businesses outside the audience you shared with. For example, when you share a post or send a message to specific friends or accounts, they can download, screenshot, or reshare that content to others across or off our Products, in person or in virtual reality experiences such as [Facebook Spaces](https://www.facebook.com/help/241256606347754?ref=dp). Also, when you comment on someone else's post or react to their content, your comment or reaction is visible to anyone who can see the other person's content, and that person can change the audience later. 
 
-We and/or third parties may use cookies to collect or receive information from the Website and use that information to advertise to you on other websites. You can view the cookies used for such purposes on this Website and opt out of the collection and use of your information for such targeted advertising here: [www.aboutads.info/choices](https://www.aboutads.info/choices). 
+People can also use our Products to create and share content about you with the audience they choose. For example, people can share a photo of you in a Story, mention or tag you at a location in a post, or share information about you in their posts or messages. If you are uncomfortable with what others have shared about you on our Products, you can learn how to [report the content](https://www.facebook.com/help/181495968648557?ref=dp). 
 
-What to do if you don’t want Cookies to be set: Some people find the idea of a website storing information on their computer or mobile (or other) device intrusive, particularly when this information is stored and used by a third party without them knowing. Although this is generally quite harmless, you may not, for example, want to see advertising that has been targeted to your interests. If you prefer, it is possible to block some or all cookies, or even to delete cookies that have already been set but you need to be aware that you might lose some functions of that website. Most online browsers automatically accept cookies. However, if you wish to restrict or block cookies you can modify your browser settings. Information on deleting or controlling cookies is available at [AboutCookies.org](https://www.aboutcookies.org/). 
+Information about your active status or presence on our Products.
 
-### Retention of your Personal Information
+People in your networks can see signals telling them whether you are active on our Products, including whether you are currently active on [Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F906123729538696%3Fref%3Ddp&h=AT3jIE0LSp1VTWwnIY34Dx2kDP4AoCnMe4JqzeGwGO7DZJeNvo2PMmjq_UiwpH4tHINqw5tAv8DvcAL3eCGac4edKqd6ZYgAndA5qckFh_hs-kSsmClbMZqKHKyT9I6FW8dUlWsf9JLUyDH-cnz9gw), [Messenger](https://www.facebook.com/help/149081061827062?ref=dp) or Facebook, or when you last used our Products. 
 
-We will retain your Personal Information for the period necessary for us to provide you with our services and to comply with our legal and regulatory responsibilities. Accordingly, your Personal Information will be retained for a minimum of five years following the closure of your account (if applicable) or the last contact with us from you. Where it is no longer necessary for us to process your Personal Information, we will delete it sooner (for example, any facial image you provide as part of the identity verification / account set-up process will be deleted as soon as that process has been completed). If you request that you should not be able to access our websites, mobile applications and services (i.e. self-exclude), we will retain this information for a minimum of seven years. 
+Apps, websites, and third-party integrations on or using our Products.
 
-### Updating Your Personal Information
+When you choose to use third-party apps, websites, or other services that use, or are integrated with, our Products, they can receive information about what you post or share. For example, when you play a game with your Facebook friends or use a Facebook Comment or Share button on a website, the game developer or website can receive information about your activities in the game or receive a comment or link that you share from the website on Facebook. Also, when you download or use such third-party services, they can access your [public profile](https://www.facebook.com/help/203805466323736?ref=dp) on Facebook, and any information that you share with them. Apps and websites you use may receive your list of Facebook friends if you choose to share it with them. But apps and websites you use will not be able to receive any other information about your Facebook friends from you, or information about any of your Instagram followers (although your friends and followers may, of course, choose to share this information themselves). Information collected by these third-party services is subject to their own terms and policies, not this one. 
 
-You can update your Personal Information at any time via your account. We request that where your Personal Information changes you update your account as soon as possible. 
+Devices and operating systems providing native versions of Facebook and Instagram (i.e. where we have not developed our own first-party apps) will have access to all information you choose to share with them, including information your friends share with you, so they can provide our core functionality to you. 
 
-### Your Rights
+_Note: We are in the process of restricting developers’ data access even further to help prevent abuse. For example, we will remove developers' access to your Facebook and Instagram data if you haven't used their app in 3 months, and we are changing Login, so that in the next version, we will reduce the data that an app can request without app review to include only name, Instagram username and bio, profile photo and email address. Requesting any other data will require our approval._
 
-You have the following rights in relation to your Personal Information: 
+New owner.
 
-• a right to access your Personal Information as held by us (also known as a subject access request);   
-• a right to receive certain Personal Information in machine-readable format;   
-• a right to have inaccurate Personal Information rectified;   
-• where we have specifically requested your consent to process your Personal Information and have no other lawful basis to process it, you have the right to withdraw this consent; and  
-• a right to have certain Personal Information erased where it is no longer necessary for us to process it, where you have withdrawn your consent pursuant to the paragraph above, where you have objected pursuant to the paragraph below, where your Personal Information has been unlawfully processed, or where erasing your Personal Information is required in accordance with a legal obligation;   
-• a right to object to processing where our lawful basis for processing it is that it is in our legitimate interests, but please note that we may still process your Personal Information where there are other relevant lawful bases or where we have compelling grounds to continue processing your Personal Information in our interests which are not overridden by your rights, interests or freedoms;   
-• a right to request an explanation of the logic involved where we make decisions about you solely through automated means;   
-• a right to complain to your national data protection supervisory authority;   
-• a right to object to direct marketing, which can be done by opting-out of direct marketing either through your account or by opting out via the communication itself. You also have a right to object to any profiling to the extent that it relates to direct marketing only.   
+If the ownership or control of all or part of our Products or their assets changes, we may transfer your information to the new owner. 
 
+Sharing with Third-Party Partners
 
-If you are unsure about your rights or are concerned about how your Personal Information may be processed, you should contact your national data protection supervisory authority. 
+We work with third-party partners who help us provide and improve our Products or who use Facebook Business Tools to grow their businesses, which makes it possible to operate our companies and provide free services to people around the world. We don't sell any of your information to anyone, and we never will. We also impose strict restrictions on how our partners can use and disclose the data we provide. Here are the types of third parties we share information with: 
 
-If you would like to exercise any of your rights then you can do so by contacting us as described below. Please be aware that while we will try to accommodate any request you make in respect of your rights, they are not necessarily absolute rights. This means that we may have to refuse your request or may only be able to comply with it in part. 
+Partners who use our analytics services.
 
-Where you make a request in respect of your rights we will require proof of identification. We may also ask that you clarify your request. We will aim to respond to any request within one month of verifying your identity. If we receive repeated requests, or have reason to believe requests are being made unreasonably, we reserve the right not to respond. 
+We provide aggregated statistics and insights that help people and businesses understand how people are engaging with their posts, listings, Pages, videos and other content on and off the Facebook Products. For example, Page admins and Instagram business profiles receive information about the number of people or accounts who viewed, reacted to, or commented on their posts, as well as aggregate demographic and other information that helps them understand interactions with their Page or account. 
 
-### Contact Us
+Advertisers.
 
-If you have any questions regarding our use of your Personal Information, or you would like to exercise any of your rights, please contact our DPO at [DumarcaDataprotection@jpj.com](mailto:DumarcaDataprotection@jpj.com)
+We provide advertisers with reports about the kinds of people seeing their ads and how their ads are performing, but we don't share information that personally identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us permission. For example, we provide general demographic and interest information to advertisers (for example, that an ad was seen by a woman between the ages of 25 and 34 who lives in Madrid and likes software engineering) to help them better understand their audience. We also confirm which Facebook ads led you to make a purchase or take an action with an advertiser. 
 
-Alternatively you can write a letter to:  
-Dumarca Gaming Limited  
-Attn: Data Protection Officer  
-The Emporium, Level 4,   
-St. Louis Street,   
-Msida, MSD 1421   
-Malta
+Measurement partners.
+
+We share information about you with companies that aggregate it to provide analytics and measurement reports to our partners. 
+
+Partners offering goods and services in our Products.
+
+When you subscribe to receive premium content, or buy something from a seller in our Products, the content creator or seller can receive your public information and other information you share with them, as well as the information needed to complete the transaction, including shipping and contact details. 
+
+Vendors and service providers.
+
+We provide information and content to vendors and service providers who support our business, such as by providing technical infrastructure services, analyzing how our Products are used, providing customer service, facilitating payments or conducting surveys. 
+
+Researchers and academics.
+
+We also provide information and content to research partners and [academics](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2Fprograms%2F&h=AT32UhEzyjS7KTDrfi6erWpXX-3qqleiItdivlJdPa9YohHR12kn1K0j13YAStiGxMXb1-s8_9V9qXXJzpbsuHUBgXYw645xwlI2U8BWoVHzU1i3aD_Hu1zLAQBkIwQgUPMINfaAkHhRkgUk-vByCQuynyg5OBKJafQ) to conduct research that advances scholarship and innovation that support our business or mission, and enhances discovery and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. 
+
+Law enforcement or legal requests.
+
+We share information with law enforcement or in response to legal requests in the circumstances outlined below. 
+
+Learn more about how you can control the information about you that you or others share with third-party partners in the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT04RxRvOuGMF2Wm31OGxeKj2GOE93JiQDhHj8YTAQdUBGLwGQW46UQ8K6p4fnMT5h8baq9qljiq-C7jGVYk6mhjO7hQGI60QrzzN-5P09v53QhFK90EpCkpB4mHMWQAD8XbBE9tN4_ghTjTtcm9Vg). 
+
+###  How do the Facebook Companies work together? 
+
+Facebook and Instagram share infrastructure, systems and technology with other [Facebook Companies](https://www.facebook.com/help/111814505650678?ref=dp) (which include WhatsApp and Oculus) to provide an innovative, relevant, consistent and safe experience across all [Facebook Company Products](https://www.facebook.com/help/195227921252400?ref=dp) you use. We also process information about you across the Facebook Companies for these purposes, as permitted by applicable law and in accordance with their terms and policies. For example, we process information from WhatsApp about accounts sending spam on its service so we can take appropriate action against those accounts on Facebook, Instagram or Messenger. We also work to understand how people use and interact with Facebook Company Products, such as understanding the number of unique users on different Facebook Company Products. 
+
+###  How can I manage or delete information about me? 
+
+We provide you with the ability to access, rectify, port and erase your data. Learn more in your [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT2x5buKz09eBBDiK2EZW7akhSjiITJK-v4JJaO7TpTvFtVLiymyhklkRV_tTQIojiltE9Ucf-vTDWy4uwrEP6STusF0nPOkHwpdWqFLEC5xilR_y7uOlROouAOCvOMTi-tdK-OWrvRG59IIpJQmKg). 
+
+We store data until it is no longer necessary to provide our services and Facebook Products, or until your account is deleted - whichever comes first. This is a case-by-case determination that depends on things like the nature of the data, why it is collected and processed, and relevant legal or operational retention needs. For example, when you search for something on Facebook, you can access and delete that query from within your search history at any time, but the log of that search is deleted after 6 months. If you submit a copy of your government-issued ID for account verification purposes, we delete that copy 30 days after submission. Learn more about deletion of [content you have shared](https://www.facebook.com/help/356107851084108?ref=dp) and [cookie data obtained through social plugins](https://www.facebook.com/help/206635839404055?ref=dp). 
+
+When you delete your account, we [delete things](https://www.facebook.com/help/356107851084108?ref=dp) you have posted, such as your photos and status updates, and you won't be able to recover that information later. Information that others have shared about you isn't part of your account and won't be deleted. If you don't want to delete your account but want to temporarily stop using the Products, you can deactivate your account instead. To delete your account at any time, please visit the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT1voJSL1RHuxWvWjPr5oJ6q-ooOjZFTbxTeTbWxFFYqdFjuDrt54M9Vzv90RUDDywvOUmMi99XI2L4JF2YHGWq_PMTYrJOJb-27sojJ_aBidIXa5iCztCpHi3vGqc8TTn0R6P1JU5gZLuRv1oIEuQ). 
+
+###  How do we respond to legal requests or prevent harm? 
+
+We access, preserve and share your information with regulators, law enforcement or others: 
+
+  * In response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States when we have a good-faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards.
+
+  * When we have a good-faith belief it is necessary to: detect, prevent and address fraud, unauthorized use of the Products, violations of our terms or policies, or other harmful or illegal activity; to protect ourselves (including our rights, property or Products), you or others, including as part of investigations or regulatory inquiries; or to prevent death or imminent bodily harm. For example, if relevant, we provide information to and receive information from third-party partners about the reliability of your account to prevent fraud, abuse and other harmful activity on and off our Products.
+
+
+
+
+Information we receive about you (including financial transaction data related to purchases made with Facebook) can be accessed and preserved for an extended period when it is the subject of a legal request or obligation, governmental investigation, or investigations of possible violations of our terms or policies, or otherwise to prevent harm. We also retain information from accounts disabled for terms violations for at least a year to prevent repeat abuse or other term violations. 
+
+###  How do we operate and transfer data as part of our global services? 
+
+We share information globally, both internally within the Facebook Companies, and externally with our partners and with those you connect and share with around the world in accordance with this policy. Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this policy. These data transfers are necessary to provide the services set forth in the [Facebook Terms](https://www.facebook.com/legal/terms/) and [Instagram Terms](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F581066165581870%3Fref%3Ddp&h=AT1kbN00dlOhVgYCdOmLBbI96Ubyk0QZO5ou18hKquNdJrOLFekTXNajjCpd6-2WnYiMxDDk4tjSiG9CP-5jgS1b20RnMItaEa4eoAVeooNctt440JE_gidJ-JLNeI61fqkvcdAornl0YMreZELfHw) and to globally operate and provide our Products to you. We utilize [standard contract clauses](https://l.facebook.com/l.php?u=http%3A%2F%2Feur-lex.europa.eu%2Flegal-content%2FEN%2FTXT%2FPDF%2F%3Furi%3DCELEX%3A32010D0087&h=AT2gf63EAqN9pX7dTtOVLR_X1NGAGwZhgQ34qZLSuzPpAcBGvMDMiwuKxK23bkggsq1DCVYGlyjahByxiODJXRugAZzI0c_D43s8D7db93Wr_M0sa6alKxBWhcwePgW8AMvMqtEGpEvU4I3UEG-ED8OKFdlRTCOGHgs), rely on the European Commission's [adequacy decisions](https://l.facebook.com/l.php?u=https%3A%2F%2Fec.europa.eu%2Finfo%2Flaw%2Flaw-topic%2Fdata-protection%2Fdata-transfers-outside-eu%2Fadequacy-protection-personal-data-non-eu-countries_en&h=AT1ihYxKTTrxQafl-Fu1S9czFncGkkIzcIHk49rRCN7xkvwkVgsyQ_N0gE0ufUekD2sdySdv3jA8tCm-EoxxKZbMX8oGbaSaTO6DWrZBIckIbLjxmRVIqoNMaOym6pHUgOT2_2P145sr3K0ie2VEvw) about certain countries, as applicable, and obtain your consent for these data transfers to the United States and other countries. 
+
+###  How will we notify you of changes to this policy? 
+
+We'll notify you before we make changes to this policy and give you the opportunity to review the revised policy before you choose to continue using our Products. 
+
+###  Privacy notice for California residents 
+
+If you are a California resident, you can learn more about your consumer privacy rights by reviewing the [California Privacy Notice](https://www.facebook.com/legal/policy/ccpa). 
+
+###  How to contact Facebook with questions 
+
+You can learn more about how privacy works [on Facebook](https://www.facebook.com/about/basics) and on [Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp&h=AT2N697bPyVWTa2ViObQCSgo2QSh3E9-JQqzbvI-acalyoeKyXjog9pG4MHKIWydhB_kFiHs-YOu4gmgxgMIQXmHkdjrRjHK4HL4whLce3G_TRCecOrYVnpZq636VW2XHKYTGb-L9PFrnVbp1yOpDA). If you have questions about this policy, you can contact us as described below. We may resolve disputes you have with us in connection with our privacy policies and practices through TrustArc. You can contact TrustArc through its [website](https://l.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=AT1Mt_QLH8dHSo2UskAP1ZB9HcgnYxUk79zxDc8firgN82PeK2hXKIpUDb86AvU3vG7WBIwzVHDhFPgGqW0nONQlKEHk0_3i8sbGErp6ZwdHGjVwFJmRaUcxNtCfhecurEfZDZg-SYrVBScFyNDMbw). 
+
+Contact Us 
+
+You can contact us [online](https://www.facebook.com/help/contact/861937627253138) or by mail at: 
+
+Facebook, Inc.  
+ATTN: Privacy Operations  
+1601 Willow Road  
+Menlo Park, CA 94025 
+
+Date of Last Revision: April 19, 2018 
