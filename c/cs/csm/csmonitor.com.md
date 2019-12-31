@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csmonitor.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231655id_/http%3A//www.csmonitor.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csmonitor.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231041918id_/https%3A//www.csmonitor.com/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Christian Science Monitor - CSMonitor.com
 
