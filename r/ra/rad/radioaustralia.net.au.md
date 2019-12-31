@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioaustralia.net.au privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215042id_/https%3A//about.abc.net.au/abc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioaustralia.net.au privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231195224id_/https%3A//about.abc.net.au/abc-privacy-policy) for the most accurate reproduction.*
 
 # ABC Privacy Policy | About the ABC
 
@@ -10,12 +10,11 @@ The ABC (“we”, “us”, “our”) is committed to protecting your privacy 
 
 This policy explains our personal information handling practices. It describes how we may collect, use, and disclose information about you or your use of our content, products, or services.
 
-ABC Program Material is not subject to the Privacy Act; it is governed by the  ** _[ABC Code of Practice](https://about.abc.net.au/reports-publications/code-of-practice/)_**  and  ** _[ABC Editorial Policies](https://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/editorial-policies/)_**.
+ABC Program Material is not subject to the Privacy Act; it is governed by the  ** _[ABC Code of Practice](https://about.abc.net.au/reports-publications/code-of-practice/)_**  and  ** _[ABC Editorial Policies](https://edpols.abc.net.au/)_**.
 
 You can find the date of the most recent review of this policy at the end of this document.
 
-1\. Collection of Personal Information  
-
+## 1\. Collection of Personal Information
 
 ### 1.1 How we collect personal information
 
