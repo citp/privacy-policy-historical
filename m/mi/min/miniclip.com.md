@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miniclip.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224545id_/https%3A//www.miniclip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniclip.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231213220id_/https%3A//www.miniclip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Miniclip, Play Games
 
@@ -546,7 +546,7 @@ Advertisement
 Lordz2.io](https://web.archive.org/games/lordz-conquest/en/#t-w-c)
   * [
 
-Lil Big Snake](https://web.archive.org/games/little-big-snake/en/#t-w-c)
+OurWorld](https://web.archive.org/games/ourworld/en/#t-w-c)
   * [
 
 Tanki Online](https://web.archive.org/games/tanki-online/en/#t-w-c)
