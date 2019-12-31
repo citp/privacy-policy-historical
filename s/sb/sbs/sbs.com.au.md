@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbs.com.au privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629233011id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbs.com.au privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231185445id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Policy | SBS HOMEPAGE
 
