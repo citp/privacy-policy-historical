@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fiz-x.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610011957id_/http%3A//www.fiz-x.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiz-x.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231142312id_/https%3A//www.fiz-x.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FizX
 
-We gather a small Privacy Policy so you can actually read it . There is nothing to complicated about it FizX is sworn for entertainment purposes only so you wont be finding any hard words or over the head terms its simple and its all this .
+We gather a small Privacy Policy so you can actually read it. There is nothing too complicated about it FizX is sworn for entertainment purposes only so you won’t be finding any hard words or over the head terms its simple and its all this.
 
 Upon visiting our website, demographical information including domain name and IP address may be collected by our server and other analytics tools. From time to time visitors may voluntarily submit their name, email addresses, and their works to the site.
 
@@ -16,6 +16,6 @@ We never use or share the personally identifiable information provided to us onl
 
 While serving advertisements on our website, our advertiser may place or recognize unique cookies on your browser.
 
-In an effort to provide our visitors with offers that are interesting and pertinent to them, we hand over the advertisement reigns to other companies which we allow to place ads on our web pages. These ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: http://www.indieclick.com
+In an effort to provide our visitors with offers that are interesting and pertinent to them, we hand over the advertisement reigns to other companies which we allow to place ads on our web pages. These ad server companies may collect information such as your domain type, your IP address, and clickstream information. For further information, consult the privacy policies of http://www.indieclick.com
 
-If you have any questions concerning our privacy policy, or feel that we are not acting within its bounds please email us using [Contact form](http://fiz-x.com/contact-us/).
+If you have any questions concerning our privacy policy or feel that we are not acting within its bounds please email us using the [contact form](https://www.fiz-x.com/contact-us/).
