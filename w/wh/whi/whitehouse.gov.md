@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitehouse.gov privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224842id_/https%3A//www.whitehouse.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitehouse.gov privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231123824id_/https%3A//www.whitehouse.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The White House
 
