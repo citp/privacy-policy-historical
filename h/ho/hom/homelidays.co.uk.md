@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homelidays.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630222231id_/https%3A//www.homeaway.co.uk/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homelidays.co.uk privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231013922id_/https%3A//www.homeaway.co.uk/info/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Homeaway UK (Holiday-Rentals)
+# Privacy Policy |
 
 ## Introduction
 
