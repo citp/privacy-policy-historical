@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puatraining.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616124456id_/https%3A//www.puatraining.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puatraining.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231180122id_/https%3A//www.puatraining.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -118,7 +118,7 @@ If you have any questions about this privacy policy or our treatment of your per
 
 The data controller responsible for our website is PUA Training Ltd.
 
-### **(14)  GDPR Rights for visitors**
+###  **(14)  GDPR Rights for visitors**
 
 If you are located within the European Union, you are entitled to certain information and have various rights under the General Data Protection Regulation. Those rights include:
 
