@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldofwarships.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620121207id_/http%3A//legal.na.wargaming.net/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofwarships.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231063048id_/http%3A//legal.na.wargaming.net/en/Privacy-Policy) for the most accurate reproduction.*
 
 # Legal Documentation | Wargaming.net
 
@@ -129,7 +129,7 @@ Website traffic volume and patterns, such as the number of visitors to a given w
 
 For more information about the names of the cookies used on our Sites, the cookie provider (Wargaming, third-party analytics partner, or third-party advertising partner), the purpose of the cookie (necessary for website to function, performance, or marketing), and the cookie life cycle please see <http://legal.eu.wargaming.net/en/cookies/>.
 
-**4.2.1.2. How to delete cookies and opt out of targeted advertising and analytics**
+**4.2.1.1. How to delete cookies and opt out of targeted advertising and analytics**
 
 Like most online services, we and our partners use cookies and similar technologies to provide and personalize the Service, analyse use, target advertisements and prevent fraud. You can disable cookies in your browser settings, but some parts of the Service may then not function properly.
 
@@ -163,15 +163,15 @@ In order to fix crashes and other technical issues that may arise while you are 
 
 To make Services more suitable for you and only upon your permission we can also collect your precise GPS location from mobile devices is collected only with your permission. Wi-Fi and IP addresses received from your browser or device may be used to determine approximate location.
 
-**4.2.3. Information required for fraud and violations detection**
+**4.2.4. Information required for fraud and violations detection**
 
 We may also collect certain data (like IP address, username, etc.) that is required for our detection, investigation and prevention of cheating in the Game and EULA violations. This data, being used only for the purposes of detection, investigation and prevention of frauds and cheating in the Game is deleted six months after its collection, unless the data can be used to prove that cheating has occurred. If the data can be used to prove that cheating or another fraud or EULA violation has occurred, we will further store the data for the establishment, exercise or defence of legal claims during the applicable statute of limitations. Please note that the specific data stored for this purpose may not be disclosed to you or any third parties, since the disclosure will compromise the mechanism through which we detect, investigate and prevent frauds and cheating in the Game, as well as other EULA violations. 
 
-**4.2.4. Information from publicly available online resources**
+**4.2.5. Information from publicly available online resources**
 
 We may use the information made publicly available, e.g. through YouTube, vk.com, Facebook, Instagram and Twitter, in order to find out your opinion about Games and Services, so that we could take them into account while improving our Services. Such data collection can be carried by Wargaming independently, or received from our partners making analysis of public sentiments on various issues, e.g., from Hootsuite Media Inc.
 
-**4.2.5. Information from our partners**
+**4.2.6. Information from our partners**
 
 In some cases, Wargaming receives your personal data as a data processor, which means that the data is controlled by our partners and we use it only in accordance with their instructions and applicable laws. We use this data in order to fulfil our obligation under the EULA, improve the Servcies, and when processing is required in order to comply with a legal obligation to which we are subject.
 
@@ -230,6 +230,7 @@ For the performance of a contract with you, compliance with a legal obligation t
   15. **Public authorities and auditors:** some personal data shall be disclosed to public authorities, e.g., tax and customs authorities, auditors, and other competent parties, in accordance with Union or Member State law; 
   16. **Wargaming subsidiaries and affiliates:** as a global company, we collect information that may be processed in our offices worldwide. Your information may also be processed outside of the European Economic Area, e.g. in the United States, the Republic of Belarus, or any other country in which we, our affiliates or subsidiaries maintain presence. 
   17. **Change of control:** we may share your data as part of our company’s sale, merger or change in control, or in preparation for any of these events. Any entity which buys us, or part of our business will have the right to continue using your data, but only in the manner set out in this Privacy Policy unless you are specifically informed otherwise. 
+  18. **Third-party game developers:** We also publish on our platform (Wargaming Game Center) games developed solely by third party developers. When you choose to play such games, we share your data with the third-party game developer, such as your Wargaming ID, nickname, in-game purchases, in-game bans of our Games, language preference of Wargaming Game Center. In such case we and the third-party game developer act as independent data controllers. 
 
 
 
@@ -239,7 +240,7 @@ When your personal data is shared with Wargaming affiliates and subsidiaries, as
 
 **7\. YOUR RIGHTS**
 
-To allow you to exercise your data protection rights in a simple way we have improved the Account Management tools available [here](https://wargaming.net/personal/) and – for Console Games – [here](https://console.worldoftanks.com/accounts/management/). If you are using a demo account, you will only be able to fully control our use of your data after you create the Account [here](http://wargaming.net/) or – for Console Games – [here](https://console.worldoftanks.com/). This means that if you are using a demo version of the Account, you will only be able to fully control our use of your data after you complete the Account here. Please visit it to make choices about which direct communications you would like to receive, as well as to exercise your rights to data access, data erasure and objection to data processing.
+To allow you to exercise your data protection rights in a simple way we have improved the Account Management tools available [here](https://wargaming.net/personal/) and – for Console Games – [here](https://console.worldoftanks.com/accounts/management/). If you are using a demo account, you will only be able to fully control our use of your data after you create the Account [here](http://wargaming.net/) or – for Console Games – [here](https://console.worldoftanks.com/). This means that if you are using a demo version of the Account, you will only be able to fully control our use of your data after you complete the Account here. Please visit it to make choices about which direct communications you would like to receive, as well as to exercise your rights to data access, data erasure and objection to data processing. In some cases, for games developed solely by third parties and published by Wargaming on Wargaming Game Center (see paragraph 6(18) above), you can exercise your rights directly from the third-party developer. You may contact us to assist you on how you can exercise your rights for games developed solely by third parties.
 
 **7.1. OPT-OUT OF DIRECT MARKETING AND RIGHT TO OBJECT**
 
