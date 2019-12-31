@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the walkme.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223193306id_/https%3A//www.walkme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkme.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231092041id_/https%3A//www.walkme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **WALKME GENERAL PRIVACY POLICY**
 
-Effective Date: May 15, 2018
+Effective Date: January 9, 2020
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=bc441f7f-090f-4585-9244-d59a3ee0664c)
 
@@ -12,7 +12,7 @@ WalkMe Ltd. and its affiliates (“ **WalkMe** “, “ **we** ” or “ **us**
 
 A User may be either an entity which executed an agreement with WalkMe or with WalkMe’s resellers or distributors who provide WalkMe’s Services (“ **Customer** “) or Customer’s users of the Services (“ **End User(s)** “) or visitors of the Site (collectively “ **Users** ” or “ **you** “).
 
-This Policy explains the types of information we may collect from you or that you may provide when you visit the Site or use the Services and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+This Policy explains the types of information we may collect from you or that you may provide when you visit the Site or use the Services and our practices for collecting, using, maintaining, protecting, and disclosing that information, as well as your rights in determining what we do with the information that we collect and hold about you.
 
 Please note: this Privacy Policy details WalkMe’s practices for the Site and Services it offers separately. In order to have the full picture of our privacy practices, you need to read the relevant Section about the Services you are using together with the General Section.
 
@@ -36,11 +36,11 @@ _**Please refer to the specific Section(s) about the Site or Services you use or
 
 WalkMe processes data fairly, lawfully, in a transparent manner and in accordance with individuals’ rights (as applicable). The use of information collected through our Services shall be limited to the purpose of providing the service for which our Client has engaged WalkMe or, if collected through the website or other marketing means, to WalkMe’s legitimate interests, where we have considered these are not overridden by your rights.
 
-WalkMe may process data of an End User on behalf of the Controller when the Controller obtains consent from an End User or when there is another basis for doing so under applicable law. For purposes of this Privacy Policy, a Controller may mean a Customer or anyone acting a Customer’s behalf or, Walkme (only in connection with information provided to it through the website or for marketing purposes). (the “ **Controller** ”), Customers who cause WalkMe to process Personal Information of an End User are obligated to hold all appropriate consents (if applicable) and may only utilize the Services pursuant to applicable law. If you are an End User of the Services, please contact the Controller for additional detail. We may transfer Personal Information to companies that help us provide our Services. Transfers to subsequent third parties are covered by the service agreements with our Customers (the Controller). Furthermore, WalkMe supports End Users’ rights to retrieve any information retained on our servers which relates to such End User. WalkMe acknowledges that you have the right to access your Personal Information. We have processes in place to accommodate an End User’s rights to delete data, amend erroneous data, access data and receive Personal Data or Sensitive Data in a machine readable commonly used format, all subject to reasonable technical restrains and abilities. For more information, please see the Section “Modification or Deletion of Data” under the applicable Site or Service Section.
+WalkMe may process data of an End User on behalf of the Controller when the Controller obtains consent from an End User or when there is another basis for doing so under applicable law. For purposes of this Privacy Policy, a Controller may mean a Customer or anyone acting a Customer’s behalf or, Walkme (only in connection with information provided to it through the website or for marketing purposes). (the “ **Controller** ”), Customers who cause WalkMe to process Personal Information of an End User are obligated to hold all appropriate consents (if applicable) and may only utilize the Services pursuant to applicable law. If you are an End User of the Services, please contact the Controller for additional detail. We may transfer Personal Information to companies that help us provide our Services. Transfers to subsequent third parties are covered by the service agreements with our Customers (the Controller). Furthermore, WalkMe supports End Users’ rights under certain laws, to retrieve any information retained on our servers which relates to such End User. WalkMe acknowledges that you may have the right to access your Personal Information. We have processes in place to accommodate an End User’s rights to delete data, amend erroneous data, access data and receive Personal Data or Sensitive Data in a machine readable commonly used format, all subject to reasonable technical restrains and abilities. For more information, please see the Section “Modification or Deletion of Data” under the applicable Site or Service Section. WalkMe will never discriminate against any person based on his/hers exercising of their rights hereunder.
 
 Personal Information or Personal Data is information by which an individual may be personally identified, including name, address, e-mail address, telephone number or any other information that is defined as Personal Information, Personal Data, or Personally Identifiable Information under an applicable law (hereinafter referred to as “ **Personal Information** ”)
 
-Users are not obligated to provide us with any information by law. However, we require certain information in order to operate properly. Under some jurisdictions (such as under certain E.U. regulations), a User has a right to withdraw its consent at any time. In such a case, the withdrawal will not affect the lawfulness of processing based on consent before its withdrawal.
+Users are not obligated to provide us with any information by law. However, we require certain information in order to operate properly. Under some jurisdictions (such as under certain applicable E.U. legal frameworks or California Laws), a User has a right to withdraw its consent at any time and in some cases (subject to applicable laws) to request cessation of any collection of Personal Information. In such a case, the withdrawal will not affect the lawfulness of processing based on consent before its withdrawal but certain services may not function without certain information provided.
 
 Please note that consent for the gathering and processing of data for one Service does not automatically mean that a User consents to the processing of data in connection with other Services. Controller should always make sure that the User’s consent is relevant, clear, valid, and to the extent reasonably possible, not “bundled” with any other written agreement (especially if required under applicable laws), unambiguous and if required under applicable law, affirmative and active (meaning not by virtue of any inaction).
 
@@ -58,11 +58,11 @@ We use a combination of processes, technology and physical security controls to 
 
 Unless otherwise agreed with the Customer and subject to applicable law, WalkMe shall act in accordance with its policies to promptly notify Customer in the event that any Personal Information or Personal Data processed by WalkMe on behalf of a Customer is lost, stolen, or where there has been any unauthorized access to it.
 
-WalkMe uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the WalkMe Service. Where practical, we seek to obtain confidentiality agreements that are consistent with this Privacy Policy and that limit others’ use or disclosure of your Personal Information and Personal Information.
+WalkMe may share and use your personal information with third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the WalkMe Service. Where practical, we seek to obtain confidentiality agreements that are consistent with this Privacy Policy and that limit others’ use or disclosure of your Personal Information and Personal Information.
 
 **D.     CHANGES TO THE PRIVACY POLICY**
 
-The terms of this Privacy Policy will govern the use of the Site and Service and any information collected in connection therewith, however, WalkMe may amend or update this Privacy Policy from time to time. The most current version of this Privacy Policy will always be posted at http://www.walkme.com/privacy-policy. We will endeavor to provide notice of material changes to this policy on the homepage of the Site and/or via an e-mail. Such material changes will take effect seven (7) days after such notice was provided on our Site or sent by email. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and your continued use of the Site and/or Services will constitute your written acceptance of, and agreement to be bound by, the changes to the Privacy Policy.
+The terms of this Privacy Policy will govern the use of the Site and Service and any information collected in connection therewith, however, WalkMe may amend or update this Privacy Policy from time to time. The most current version of this Privacy Policy will always be posted at https://www.walkme.com/privacy-policy. We will endeavor to provide notice of material changes to this policy on the homepage of the Site and/or via an e-mail. Such material changes will take effect seven (7) days after such notice was provided on our Site or sent by email. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and your continued use of the Site and/or Services will constitute your written acceptance of, and agreement to be bound by, the changes to the Privacy Policy.
 
 **E.     EU-US PRIVACY SHIELD AND SWISS-U.S. PRIVACY SHIELD**
 
@@ -85,7 +85,7 @@ If you have any questions (or comments) concerning this Privacy Policy, you are 
 E.U. citizens have the right to lodge a complaint with a supervisory authority (Data Protection Authority in your jurisdiction) in case of a breach of any E.U. data protection and privacy regulations. If the supervisory authority fails to deal with a complaint or inform you within the time frame set under applicable law, you have the right to an effective judicial remedy.
 
 Please do not hesitate to contact us:  
-[legal@walkme.com](mailto:support@walkme.com) or 1-855-4WALKME.
+[legal@walkme.com](mailto:support@walkme.com) or 1-855-4WALKME (925563 – Toll Free Number).
 
 WalkMe, Inc.  
 525 Market Street  
@@ -102,4 +102,4 @@ WalkMe, Inc.
 San Francisco, California, 94105  
 USA
 
-[WalkMe previous privacy-policy](https://www.walkme.com/privacy-policy-2017/)
+[WalkMe previous privacy-policy](https://www.walkme.com/privacy-policy-2019/)
