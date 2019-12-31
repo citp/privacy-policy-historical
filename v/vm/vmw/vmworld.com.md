@@ -1,151 +1,37 @@
-> *The following text is extracted and transformed from the vmworld.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224144212id_/http%3A//www.vmware.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmworld.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231132310id_/https%3A//www.vmware.com/help/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# VMware Privacy Policy - Personal Information Protection
 
-In January of 2004, VMware was acquired by EMC Corporation. As an indepdendent subsidiary of EMC Corporation, this privacy policy applies to the VMware web site.
+VMware uses personal information it collects for the following purposes (unless otherwise restricted by applicable law). For information on how VMware shares personal information, see Part III.
 
-#### EMC Corporation Privacy Statement
+**Communicate, Respond to Requests and Engage in/Process Transactions:** : VMware may use personal information to communicate with you, respond to your requests or provide information requested by you. VMware may also use personal information, including financial, credit card and payment information, to process your transactions.
 
-  * General Information
-  * Safe Harbor Compliance
-  * What personal information does EMC collect?
-  * How does EMC use personal information?
-  * With whom does EMC share personal information?
-  * Choice & Consent
-  * Sensitive Information
-  * Access to and accuracy of your information
-  * Security of Personal Information
-  * Other Information/Logging and Cookies
-  * Links to Non-EMC Web Sites and Third Parties
-  * Verification
-  * Contact Information
-  * Dispute Resolution
-  * Changes to this Statement
+**Facilitate the Delivery of the Service and Account Administration** : VMware may use personal information to provide you with the Services, to manage your account, and to communicate with you about your use of our Services. This may include managing product downloads, updates and fixes, providing support and recommendations, and sending other administrative or account-related communications, including release notes. VMware will also use personal information to facilitate the delivery of the Services and this may include tracking entitlements, verifying compliance, controlling access to the Service, and maintaining the security and operational integrity of the VMware IT infrastructure and our Services. See the VMware Products and Services Notice for details regarding the information VMware collects in connection with your use of the Services and in order to operate the Service.
 
+**Facilitate and Evaluate Use of the Online Properties** : VMware may use personal information to provide you with the online Properties, to facilitate your use of the online Properties (such as facilitating navigation and the login process, preserving information between sessions and enhancing security), to improve quality, to evaluate page response rates and personalize and determine content.
 
+**Improve our Properties** : VMware uses personal information and other data VMware collects from you to better understand our customers, users and website visitors and the way they use and interact with the Properties, including their user experience. VMware uses this information to provide a personalized experience, to implement the preferences you request, to improve quality and reliability, to diagnose issues with and improve the Properties and related user experiences, and to make recommendations.
 
-* * *
+**Improve the Accuracy of our Records** : We may use the personal information we receive from you or third parties to better understand you and/or maintain and improve the accuracy of the records we hold about you.
 
-#### General Information
+**Provide Support** : VMware uses personal information and other data VMware collects from you, in combination with other data we may have, in order to provide you with support in relation to our Properties.
 
-EMC respects the privacy of our customers, business partners and employees. We recognize the need for appropriate protections and management of your personal information that you provide to us. EMC has therefore established this Privacy Statement to assist you to understand what information we collect and how that information is used. This Privacy Statement applies to EMC Corporation including its Divisions and Subsidiaries.
+**Post Testimonials** : VMware may use personal information to post testimonials on its Online Properties. Prior to posting a testimonial, we will obtain your consent to use your name and testimonial. You can request your testimonial be updated or deleted at any time by sending a request with your name, testimonial location and contact information.
 
-* * *
+**Marketing** : VMware will use information it obtains from you, your interactions with VMware over time and across the Properties, and from third party sources to provide you with marketing and promotional communications, to deliver targeted and relevant advertising and marketing to you, to determine the effectiveness of our marketing and promotional campaigns, to better understand you and your preferences, and to position and promote our products and services. Our marketing will be conducted in accordance with your advertising / marketing preferences and as permitted by applicable law.
 
-#### Safe Harbor Compliance
+**Security** : VMware may use personal information to help monitor, prevent and detect fraud, enhance security, monitor and verify identity or access, and combat spam or other malware or security risks.
 
-EMC's privacy practices are in compliance with the U.S. and E.U. Safe Harbor principles. Information about the U.S. Department of Commerce Safe Harbor certification can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
+**Quality Control and Training** : VMware may use or access personal data for the purposes of quality control related to the Properties and staff training.
 
-* * *
+**Third Party Social Networks** : VMware may use personal information to interact with you on third party social networks (subject to that network's terms of use).
 
-#### What personal information does EMC collect?
+**Conferences and Events:** VMware and our partners may use personal information to communicate with you about our events or our partner events. After the event, VMware may contact you about the event and related products and services, and may share information about your attendance with your company and our conference sponsors and partners, where legally permitted to do so. If a partner or conference sponsor directly requests your personal information at their conference booths or presentations, your personal information will be handled in accordance with their privacy practices. We recommend that you review the privacy practices of such partners and sponsors.
 
-Personal Information is information that can be used to identify or contact a specific individual, such as a name, address, telephone number or email address. EMC may collect certain personal information from customers, business partners, employees and candidates for employment. EMC does not collect personal information when you visit EMC's web sites unless you choose to provide such personal information.
+**Provide Online Communities and Blogs** : We may use personal information and other information disclosed by you on our message boards, chat features, blogs and other services or platforms to which you are able to post information and materials for the purposes of providing you and our customers with a forum to discuss VMware Properties, responding to your request, providing you with support, improving our Properties or any other purposes set forth in this Privacy Notice. Any information that is disclosed in those forums becomes public information and may therefore appear in public ways, such as through search engines or other publicly available platforms, and may be “crawled” or searched by third parties. It could also be read, collected or used by other users to send you unsolicited messages. Please do not post any information that you do not want to reveal to the public at large.
 
-On EMC web sites you can order products or services, register products, request information, subscribe to marketing or support materials, register to a secure extranet site to obtain access to product information, support, services and training, or apply for jobs at EMC. The types of personal information you provide to us on these pages may include name, address, phone number, e-mail address, user IDs and passwords, billing and transaction information, credit card or other financial information, contact preferences, educational and employment background, job interest data and benefit choices.
+**Education and Training:** If you sign up for a VMware certification course or seminar, VMware will use your personal information to facilitate the delivery of such course or seminar. To the extent your organization has paid for your certification course or seminar, VMware may provide the status of your course or seminar to your organization upon notice to you.
 
-EMC also collects personal information of its employees (human resources data) in connection with administration of its Human Resources programs and functions. These programs and functions include compensation and benefit programs, performance appraisals, training, business travel, expense and tuition reimbursement, identification cards, access to EMC facilities and computer networks, employee profiles, internal employee directories, Human Resource recordkeeping, and other employment related purposes. EMC employees can go on-line to access their personal profile, job related data, compensation and benefit information, to make benefit elections and transactions and to make changes to their personal information.
+**Protect our Employees and Facilities** : VMware may use personal information as necessary to protect the health and safety of our employees and visitors, our facilities and our property and other rights. If you visit one of our sites, you may be photographed or videotaped as part of maintaining the security of such sites.
 
-* * *
-
-#### How does EMC use personal information?
-
-EMC will use personal information to provide customers and business partners with information and services and to help us better understand your needs and interests. Specifically, we use your information to help you complete a transaction or order, to communicate with you, to deliver products/services to you, to bill you for products/services you purchased, and to provide ongoing service and support. Occasionally we may use your information to contact you to complete surveys that we use for marketing and quality assurance purposes. Personal information collected online may be combined with information you provide to EMC through other sources such as trade shows or seminars.
-
-EMC may share your personal information with third parties in responding to your requests for products or services or product evaluations. Also, we may on occasion allow selected partners to send you special offers in blind mailings. Generally, you will be given the opportunity to opt out of having your personal information shared with these third parties. However, if you request information on any of our products/services, EMC may provide your information to third party distributors and resellers who may subsequently contact you directly to purchase such products/services. In these instances, you will not have the opportunity to opt out of having your information shared with these third party distributors and resellers.
-
-Some of EMC's websites make on-line newsgroups available to our users. Any information that is disclosed in these newsgroups becomes public information and you should exercise caution when deciding to disclose your personal information. EMC may, from time to time, send email regarding our products and services to users who have posted to our newsgroups. Each participant's opinion expressed in a newsgroup is his or her own and should not be considered as reflecting the opinion of EMC.
-
-To the extent that EMC uses personal information to email you about our product and services, EMC's email practices are in compliance with the U.S. and E.U. SPAM laws. Information about the U.S. and E.U. SPAM laws can be found at <http://www.spamlaws.com/>.
-
-EMC uses personal information to consider candidates for employment opportunities within EMC. EMC uses personal information about its employees in connection with the administration of its Human Resources programs and functions and for purpose of communicating with its employees.
-
-Except as provided in this Statement, EMC does not use your personal information for a purpose other than the stated purpose for which such information is collected.
-
-Personal information given to EMC may be transferred across state and country borders for data consolidation, storage and simplified information management.
-
-* * *
-
-#### With whom does EMC share personal information?
-
-EMC contracts with third party service providers and suppliers to deliver complete products, services and customer solutions. EMC may share personal information with its service providers and suppliers for the sole purpose and only to the extent needed to support the customers' business needs. Service providers and suppliers are required to keep confidential the personal information received from EMC and may not use it for any purpose other than as originally intended.
-
-Human Resources data may be shared with third party vendors for the exclusive purpose of enabling the vendor to provide service and/or support to EMC in connection with these Human Resource programs and functions. Personal data is not shared with third parties for non-employment related purposes.
-
-Third parties receiving personal information are expected to apply the same level of privacy protection as contained in this Privacy Statement.
-
-Except as provided above, EMC will not share personal information with any other third parties without your permission, unless required by, or in connection with, law enforcement action, subpoena or other litigation, or applicable law.
-
-EMC will not sell, trade or lease your personal information to others.
-
-* * *
-
-#### Choice & Consent
-
-EMC does not require that you provide EMC with personal information. The decision to provide personal information is voluntary. If you do not wish to provide the personal information requested, however, you may not be able to proceed with the activity or receive the benefit for which the personal information is being requested.
-
-Except as expressly stated otherwise in this Privacy Statement, you may opt out of having EMC share personal information with third parties as described in this Privacy Statement by notifying EMC in writing of your desire to do so.
-
-* * *
-
-#### Sensitive Information
-
-Sensitive information is defined as personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or information specifying the sex life of the individual.
-
-Except as provided below, EMC does not request or receive sensitive information from visitors to our web sites. EMC may receive sensitive information such as medical or health conditions, or race and ethnic data regarding its employees in connection with the administration of its health and welfare benefit plans, or as part of government mandated recordkeeping requirements. Such information will not be shared with third parties without the employee's affirmative approval as required by applicable law. In addition, sensitive information will not be used for a purpose other than its original purpose without the employee's approval. Further, EMC will treat as sensitive any information received from a third party where the third party treats and identifies the information as sensitive.
-
-* * *
-
-#### Access to and accuracy of your information
-
-EMC strives to keep your personal information accurate. We have implemented technology, management processes and policies to maintain data accuracy. We will provide you with access to your information, including making reasonable effort to provide you with online access and the opportunity to change your information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data.
-
-EMC will not process personal information in a way that is incompatible with the purposes for which it has been collected or subsequently authorized by the individual, as required by applicable law.
-
-* * *
-
-#### Security of Personal Information
-
-EMC is committed to taking reasonable efforts to secure the personal data you choose to provide us. To protect the privacy of any personal information you may have provided, EMC employs industry-standard controls including physical access controls, Internet firewalls, intrusion detection, and network monitoring. In addition, access to sensitive data as defined in this Statement is limited to those individuals and agents having a need to know.
-
-* * *
-
-#### Other Information/Logging and Cookies
-
-EMC collects and/or logs Internet Protocol addresses, Internet domain names, the web browser and operating system used to access the EMC web site, the files visited, the time spent in each file, and the time and date of each visit.
-
-EMC also uses cookies on some of its web sites. Cookies are identifiers that can be sent from a web site via your browser to be placed on your computers hard drive. Thereafter when you visit a web site, a message is sent back to the web server by the browser accessing the web site. You may elect not to accept cookies by changing the designated settings on your web browser. However, not utilizing cookies may prevent you from using certain functions and features of web sites. The information collected from the use of cookies is used and analyzed to improve EMC's web sites.
-
-You can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you and personalize your web-browsing experience.
-
-* * *
-
-#### Links to Non-EMC Web Sites and Third Parties
-
-The EMC web sites may provide links to third-party web sites for your convenience and information. If you access those links, you will leave the EMC web site. EMC does not control those sites or their privacy practices, which may differ from EMC's. We do not endorse or make any representations about third party web sites. The personal data you choose to give to unrelated third parties is not covered by the EMC Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information. Some third party companies may choose to share their personal data with EMC; that sharing is governed by that third party company's privacy policy.
-
-* * *
-
-#### Verification
-
-EMC will engage in periodic self-assessment to verify that it continues to be in compliance with this Privacy Statement.
-
-* * *
-
-#### Contact Information
-
-If you have any questions regarding the Privacy Statement or believe that the privacy of your personal information has not been respected, you may submit a complaint in writing to the attention of EMC's Office of the General Counsel, 176 South Street, Hopkinton, MA 01748.
-
-* * *
-
-#### Dispute Resolution
-
-If an employee living in an E.U. member country has a complaint regarding the transfer of human resources data to the U.S., EMC agrees to cooperate with the appropriate European data protection authority for handling such complaints. EMC agrees to handle all other disputes involving the transfer of personal data from the EU to the U.S. in accordance with the JAMS dispute resolution procedures.
-
-Except as provided above, dispute resolution for all other individuals shall be in accordance with applicable law.
-
-* * *
-
-#### Changes to this Statement
-
-EMC will review and update this Statement periodically.
+**Other Legitimate Business Purposes** : We may use your personal information when it is necessary for other legitimate purposes such as protecting VMware's confidential and proprietary information.
