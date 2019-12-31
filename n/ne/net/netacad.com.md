@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netacad.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627134311id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netacad.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231064652id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
 
 # Cisco Online Privacy Statement Summary - Cisco
 
