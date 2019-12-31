@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doesfollow.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512163829id_/https%3A//doesfollow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doesfollow.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231223354id_/https%3A//doesfollow.com/privacy) for the most accurate reproduction.*
 
 # DoesFollow - Find Out Who Follows Whom on Twitter - Privacy Policy
 
