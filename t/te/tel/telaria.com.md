@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the telaria.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235532id_/https%3A//telaria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telaria.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231220605id_/https%3A//telaria.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Telaria
 
-###### Last updated: May 25, 2018
+###### Last updated: December 23, 2019
 
 #### **This privacy policy describes how Telaria, Inc. and its affiliates (Telaria, we, us, or our) collects, uses, and shares information through both its video advertising services, including our video management platform, as well as the Telaria website, Telaria.com, and other Telaria digital properties and products that link to this privacy policy (Telaria Site or Site).  For information regarding Outstream Services, please visit [here](https://outstream.telaria.com/privacy-policy).**
 
-  1. ### **Telaria** **Video management platform**
-
-
-
+### **A. Telaria** **Video management platform**
 
 Telaria operates a self-service software platform that helps our publisher clients (i.e., content owners or other sellers of video advertising inventory, including websites and apps) analyze, manage and monetize their video advertising inventory on internet connected devices and platforms, including mobile devices, computers and connected TVs. This section of our privacy policy explains how our platform collects, receives, uses, and shares information in providing services to our clients.
 
@@ -96,10 +93,8 @@ As your primary touchpoint, publishers (i.e., the website or application on whic
   * <http://www.webroot.com/consumer/products/spysweeper/>
 
 
-  2. ### **Telaria Corporate** **Websites**
 
-
-
+### **B. Telaria Corporate** **Websites**
 
 [www.telaria.com](https://telaria.com/), and other digital Telaria properties that link to this privacy policy, are the corporate websites of Telaria. The websites (the Telaria Site or Site) provide current and prospective customers, partners, job seekers, and other visitors with information about our products and services, and give users the opportunity to contact us for further information. In addition, if you are a representative of a Telaria client, we may collect information about you in relation to or in the context of your use of our digital properties and products, including when you operate our video management platform. This section of the privacy policy describes the types of information that Telaria collects on the Site and how that information is used. Telaria reserves the right to revise this privacy policy from time to time by posting the changes on the Site. Your continued use of the Site constitutes your acceptance of the current posted privacy policy.
 
@@ -214,10 +209,46 @@ The Telaria Site is directed to, and intended for use by, adults only. We do not
 
 You may opt out from receiving electronic communications from us: If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt out of marketing- related emails [here](http://go.telaria.com//unsubscribe).  We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt out.
 
-  3. ### **Miscellaneous**
+### **C. Notice to California Residents**
+
+This notice explains what types of Personal Information may be collected by Telaria, about our prospective, current, and former employees, temporary employees, agents, subcontractors, consultants, and vendors who are California residents and how that information may be used and disclosed.  This privacy notice also applies to California residents who are designated by our prospective, current, and former employees as emergency contacts or benefits recipients.  As used in this privacy notice, “Personal Information” means, in general, information that identifies, relates to, or describes a particular California resident and includes the categories listed below.
+
+  1. Categories of Personal Information Collected: We collected the following categories of Personal Information during the last 12 months: 
+    1. Identifiers, such as name, government-issued identifier (e.g., Social Security number), and unique identifiers (e.g., employee ID);
+    2. Personal information, as defined in the California Records Law, such as contact and financial information;
+    3. Characteristics of protected classifications under California or federal law, such as age, gender, medical conditions, and marital status;
+    4. Commercial information, such as transaction information and purchase history (e.g., in connection with travel or other reimbursements);
+    5. Internet or network activity information, such as browsing history and interactions with our online systems and websites;
+    6. Geolocation data, such as device location;
+    7. Audio, electronic, visual, and similar information, such as call and video recordings;
+    8. Professional or employment-related information, such as work history and prior employer;
+    9. Non-public education information; and
+    10. Inferences drawn from any of the Personal Information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics.
 
 
 
+Depending on a particular California resident’s interactions with us, we may not have collected each of these categories of Personal Information about that person.
+
+  2. Uses of Personal Information. We may use Personal Information:
+
+
+  * To operate, manage, and maintain our business;
+  * For our employment purposes;
+  * To otherwise accomplish our business purposes and objectives, including, for example: 
+    * Conducting research, analytics, and data analysis;
+    * Maintaining our facilities and infrastructure;
+    * Quality and safety assurance measures;
+    * Conducting risk and security controls and monitoring;
+    * Detecting and preventing fraud;
+    * Performing identity verification;
+    * Performing accounting, audit, and other internal functions, such as internal investigations;
+    * Complying with the law, legal process, and internal policies;
+    * Maintaining records; and
+    * Exercising and defending legal claims.
+
+
+
+**D. Miscellaneous**
 
 **Updates** – Telaria reserves the right to revise this privacy policy from time to time. The “last updated” legend at the top of this privacy policy indicates when this privacy policy was last revised.  Any changes will become effective when we post the revised privacy policy on the Site.
 
