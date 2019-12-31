@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsdirect.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623232108id_/https%3A//www.sportsdirect.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsdirect.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231051849id_/https%3A//www.sportsdirect.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
 
 # Security and Privacy | SportsDirect.com
 
@@ -22,7 +22,7 @@ As set out in our [terms and conditions](https://web.archive.org/customerservice
 
 When you register to use our Website or App, purchase a product, apply for a job, enter a competition or promotion run by the Group or contact us, personal data you provide, such as your name, date of birth, contact details (including social media accounts), log in and payment information, will be collected. 
 
-When you browse our Website or App, whether or not you are registered, purchase a product, register to receive our emails or make a job application, we and our partner advertising networks, advertisers and advertising affiliates **(Third Party Advertisers)** , will collect user information such as your location, language, assumed gender, IP address, when you visited our Website or App, how you arrived on our Website or App, where you visit after our Website or App, the pages you visited, how long you spend browsing individual pages on our Website or App, any products you have purchased, and the browser (where applicable) and device you used to access our Website or App. 
+When you browse our Website or App, whether or not you are registered, purchase a product, register to receive our emails or make a job application, we and our partner advertising networks, advertisers and advertising affiliates **(Third Party Advertisers)** , will collect user information such as your location, language, assumed gender, IP address, when you visited our Website or App, how you arrived on our Website or App, where you visit after our Website or App, the pages you visited, how long you spend browsing individual pages on our Website or App, any products you have viewed, purchased, or put in your basket, and the browser (where applicable) and device you used to access our Website or App. 
 
 In our premises, including our stores, we use CCTV to monitor and record images for the purposes of security and health and safety, and store the images centrally. 
 
@@ -58,7 +58,7 @@ We may use your personal data in the following ways:
 
 • to keep our Website, App and network safe and secure; 
 
-• to process payments and prevent fraudulent transactions (we may pass your details to a third party to carry out these functions); and 
+• to process payments, and detect and prevent fraudulent transactions and/or any other criminal activity (we may pass your details to a third party to carry out these functions); and
 
 • to assess and process your job application. 
 
@@ -198,7 +198,7 @@ Google Analytics
 
 Purpose
 
-Google Analytics uses these cookies to discover when you first visited our site, how often you come back and how long you spend shopping. The information stored by these cookies can be seen only by the relevant teams at SportsDirect and Google and never shows any confidential information, we also use Google Analytics to track the performance of our website.
+Google Analytics uses these cookies to discover when you first visited our site, how often you come back and how long you spend shopping. The information stored by these cookies can be seen only by the relevant teams at SportsDirect.com and Google and never shows any confidential information, we also use Google Analytics to track the performance of our website.
 
 Cookie/tracking technology name
 
