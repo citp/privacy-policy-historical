@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the jivox.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235622id_/https%3A//www.jivox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jivox.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231212747id_/https%3A//www.jivox.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jivox
+
+Skip to content
+
+Privacy Policy[laurie](https://www.jivox.com/blog/author/laurie/ "Posts by laurie")2019-11-06T18:01:31+00:00
 
 Please read this Privacy Policy carefully to understand how Jivox, its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as “ **Jivox** ”, “ **we** ”, “ **us** ” or “ **our** ”) uses and protects the information you provide. This privacy policy (the “ **Privacy Policy** ”) applies to this World Wide Web site and any variations or successors to this Web site (www.jivox.com, the “ **Jivox Site** ”), any Jivox computer software, accessible, downloadable or otherwise available from the Jivox Site (“ **Jivox**   **Software** ”) and any Jivox services purchased or otherwise made available from the Jivox Site (“ **Jivox Services** ”) (collectively, the “ **Jivox Properties** ”). This Privacy Policy applies to all users (“ **Users** ”, “ **you** ” or “ **your** ”) of the Jivox Properties.
 
@@ -110,7 +114,7 @@ We will only retain personal information from EU Data Subjects as long as necess
 
 Under the EU-U.S. and Swiss-U.S. Privacy Shied Frameworks, we are responsible for the processing of information about you that we receive from the EU and Switzerland and onward transfers to a third party acting as an agent on our behalf. We comply with Privacy Shield Principles for such onward transfers and remain liable in accordance with Privacy Shield Principles if third party agents that we engage too process such information about you on our behalf do so in a manner inconsistent with Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage.
 
-Jivox complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Jivox has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit  _<https://www.privacyshield.gov/>_
+Jivox Corporation complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework(s) (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom and Switzerland to the United States in reliance on Privacy Shield. Jivox Corporation has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit _<https://www.privacyshield.gov/>_.
 
 In compliance with the Privacy Shield Principles, Jivox commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Jivox at:  _[support@jivox.com](mailto:support@jivox.com)_  Jivox has further committed to refer unresolved Privacy Shield complaints to JAMS ADR, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit  _<https://www.jamsadr.com/>_  for more information or to file a complaint. The services of JAMS ADR are provided at no cost to you.
 
@@ -134,4 +138,10 @@ Attn: Privacy
 San Mateo, CA 94404  
 [privacy@jivox.com](mailto:privacy@jivox.com)
 
-_Last updated October 2018_
+_Last updated October 2019_
+
+_You are opted-out to Jivox Personalization._
+
+Do you wish to change your preference?
+
+Jivox website and our third-party tools use cookies so that we can provide you with the best user experience by personalizing content that are relevant to you. By closing this banner or continuing to browse or interact with this website, you agree to the use of cookies. Please review our Privacy Policy to learn more about how cookies are used. Click here to [OPT-OUT](https://www.jivox.com/privacy/opt-out/)
