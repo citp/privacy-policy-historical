@@ -1,0 +1,3036 @@
+<!--The following is the downloaded HTML source of the daily-buzz.fr privacy policy that was archived on 2019-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191231062501id_/https%3A//yougov.co.uk/about/terms-combined/%23/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+        <title>YouGov | 
+Terms &amp; Conditions Combined
+</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1158.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MRSS3JG"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"28418fab15",applicationID:"213900229"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1158.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"transactionName":"YVFaZEdTWkZRBhBYC1gbfkVbUUBcXwtLUglFGk5ZUEVHD1QAEFANWkc=","applicationID":"213900229","errorBeacon":"bam.nr-data.net","beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"28418fab15","agent":"","applicationTime":265}</script>
+        <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+        <script>if(document.documentMode)document.documentElement.className+=' ie ie'+document.documentMode</script>
+
+        
+    
+    
+            
+                
+            
+            <meta property="og:site_name" content="YouGov: What the world thinks">
+            
+        
+    
+    <meta name="keywords" content="terms">
+
+    
+    <meta name="keywords" content="terms">
+
+
+        
+            
+            
+
+            
+                
+<link rel="stylesheet" href="//d1rq7cuzerol8r.cloudfront.net/unified/global/575b0454/common.bundle.css">
+<link rel="stylesheet" href="//d1rq7cuzerol8r.cloudfront.net/unified/global/575b0454/cumulus.bundle.css">
+
+
+            
+
+            <link href="//d1rq7cuzerol8r.cloudfront.net/unified/global/575b0454/unified-svg.css" rel="stylesheet">
+            <link href="//d1rq7cuzerol8r.cloudfront.net/unified/global/575b0454/unified-png.css" rel="stylesheet">
+
+            
+                
+            
+        
+
+        
+    <link rel="shortcut icon" href="//d1rq7cuzerol8r.cloudfront.net/unified/cu/img/favicon.ico">
+    <link href="" rel="alternate" type="applicaton/atom+xml">
+
+
+        
+    
+    
+
+    
+    
+
+    
+
+    <script src="//d1rq7cuzerol8r.cloudfront.net/unified/cu/js/modernizr.custom.js" charset="utf-8"></script>
+    <script src="//app-lon03.marketo.com/js/forms2/js/forms2.min.js"></script>
+
+
+        
+            
+                <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MRSS3JG');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+    if (typeof dataLayer !== 'undefined') {
+        dataLayer.push({
+            'event': 'Page View',
+            'content-name': location.pathname,
+        });
+    }
+</script>
+
+            
+        
+
+        
+    
+        
+    
+        
+            
+            <!-- Start of yougov Zendesk Widget script -->
+<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","yougov.zendesk.com");
+/*]]>*/</script>
+<!-- End of yougov Zendesk Widget script -->
+
+        
+    
+
+    
+
+    </head>
+    <body ng-strict-di="" class="unified cumulus lang-uk  uk terms-combined  new-page" ng-app="cumulusApp" id="cumulusApp">
+        
+            
+                <!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-MRSS3JG"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+            
+        
+
+        
+    <!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: YG - All Pages
+URL of the webpage where the tag is expected to be placed: https://yougov.co.uk/
+This tag must be placed between the <body> and <script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1430366461"></script>
+</body> tags, as close as possible to the opening tag.
+Creation Date: 05/15/2017
+-->
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="https://6930709.fls.doubleclick.net/activityi;src=6930709;type=remarket;cat=yg-al0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script><iframe src="https://6930709.fls.doubleclick.net/activityi;src=6930709;type=remarket;cat=yg-al0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1480978279707.8518?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+<noscript>
+<iframe src="https://6930709.fls.doubleclick.net/activityi;src=6930709;type=remarket;cat=yg-al0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+        
+            
+                
+                    
+                    <div id="fb-root">
+                        <script>
+                            window.fbAsyncInit = function() {
+                                FB.init({
+                                    appId: '273247149353565',
+                                    status: true,
+                                    cookie: true,
+                                    xfbml: true,
+                                    oauth: true,
+                                    version: 'v2.8'
+                                });
+
+                                fbApiInit = true; //init flag
+
+                                FB.AppEvents.logPageView();
+                            };
+
+                            (function(d, s, id){
+                                var js, fjs = d.getElementsByTagName(s)[0];
+                                if (d.getElementById(id)) {return;}
+                                js = d.createElement(s); js.id = id;
+                                js.src = "//connect.facebook.net/en_US/sdk.js";
+                                fjs.parentNode.insertBefore(js, fjs);
+                            }(document, 'script', 'facebook-jssdk'));
+
+                            if (typeof(fbEnsureInit) === 'undefined') {
+                                // Use this when you need to do a FB call contingent on the FB object loading.
+                                function fbEnsureInit(callback) {
+                                    if(!window.fbApiInit) {
+                                        setTimeout(function() {fbEnsureInit(callback);}, 50);
+                                    } else {
+                                        if(callback) {
+                                            callback();
+                                        }
+                                    }
+                                };
+                            }
+                        </script>
+                    </div>
+                
+            
+
+            <div class="off-canvas-wrapper" ng-class="{'off-canvas-opened' : offCanvas.isNavOpened}" ng-controller="offCanvasController">
+                <div class="content-wrapper">
+                    <script>
+                        window.mobileAndTabletcheck = function() {
+                            var check = false;
+                            (function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino|android|ipad|playbook|silk/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))) check = true;})(navigator.userAgent||navigator.vendor||window.opera);
+                                return check;
+                        };
+
+                        if (typeof zE === 'function' && window.mobileAndTabletcheck()) {
+                            zE(function () {
+                                zE.hide();
+                            });
+                        }
+                    </script>
+                    
+    
+        
+    
+        
+                        
+                            <section class="px-site-header">
+    <header class="header">
+        <div class="main-content-container">
+            <div class="content">
+                <a class="logo svgi icon-px-yougov-logo" href="/" aria-label="Go to homepage"></a>
+                
+                    <div class="menu-container">
+                        <nav>
+                            <ul class="menu ">
+                                
+                                
+                                <li class="item take-part">
+                                    <a class="" href="/uk-general-election-2019/">Election MRP</a>
+                                </li>
+                                
+                                
+                                
+                                <li class="item results">
+                                    <a class="" href="/topics/">Topics</a>
+                                </li>
+                                
+                                
+                                
+                                <li class="item find-solutions">
+                                    <a class="" href="/solutions/">Solutions</a>
+                                </li>
+                                
+                                
+                                
+                                <li class="item hidden-xs">
+                                    <a class="active" href="/about/">Company</a>
+                                </li>
+                                
+                                
+                                
+                                <li class="item join-community">
+                                    <a class="" href="/join-community/">Join</a>
+                                </li>
+                                
+                                
+                                
+                                <li class="item your-community">
+                                    <a class="" href="/opi/myfeed#/all">My Feed</a>
+                                </li>
+                                
+                                
+                            </ul>
+                        </nav>
+                    </div>
+                
+
+                
+                    <div class="user-section">
+                        <a href="/account/" class="login-link">
+                            <span class="login-label">Login</span>
+                            <span class="login-icon">
+                                <svg width="16" height="16" viewBox="0 0 24 24">
+                                    <path d="M12 14a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-3a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM3 22.5V24H0v-1.5c0-3.268 5.466-7 12.008-7 6.553 0 11.992 3.711 11.992 7V24h-3v-1.5c0-.006-.109-.26-.355-.59-.363-.491-.91-1.008-1.598-1.477-1.766-1.204-4.16-1.933-7.039-1.933-2.876 0-5.273.733-7.046 1.944-.69.47-1.24.99-1.607 1.48-.246.33-.355.58-.355.576z"></path>
+                                </svg>
+                            </span>
+                        </a>
+                        
+                        <a href="/(popup:explore)" class="explore" data-yg-tooltip="Search">
+                            <svg class="explore-icon" width="16" height="16" viewBox="0 0 16 16">
+                                <path d="M9.653 12.51c-3.493 0-6.348-2.82-6.348-6.273S6.16 0 9.653 0 16 2.821 16 6.274c0 3.452-2.817 6.236-6.347 6.236zm0-10.58c-2.438 0-4.395 1.935-4.395 4.344 0 2.41 1.957 4.344 4.395 4.344 2.437 0 4.394-1.935 4.394-4.344.037-2.409-1.957-4.344-4.394-4.344zM3.83 10.914c.376.483.864.891 1.352 1.262L1.315 16 0 14.7l3.831-3.786z"></path>
+                            </svg>
+                        </a>
+                        
+                    </div>
+                
+                <div class="mobile-menu-toggle-container">
+                    <button class="mobile-menu-toggle" type="button">
+                        <svg height="24" viewBox="0 0 24 24" width="24">
+                            <path d="M-1-3h24v24H-1z" fill="none"></path>
+                            <path d="M22 14.5v3H0v-3h22zm0-7v3H0v-3h22zm0-7v3H0v-3h22z"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section class="mobile-overlay">
+        <header class="header">
+            <div class="logo">
+                <a href="/">
+                    <svg width="200" height="43" viewBox="0 0 200 43">
+                        <g fill="#FF6352" fill-rule="evenodd">
+                            <path id="a" d="M14.948 24.675L0 .705h9.659l9.604 16.374L28.67.704h9.493L23.159 24.73v17.363h-8.21V24.675zm68.194 17.417v-4.488c-1.076 1.6-2.491 2.86-4.245 3.782a11.783 11.783 0 0 1-5.553 1.384c-1.986 0-3.768-.443-5.345-1.328-1.578-.882-2.719-2.127-3.424-3.727-.706-1.6-1.057-3.81-1.057-6.632V12.11h7.821v13.778c0 4.216.143 6.798.432 7.75.288.948.811 1.701 1.573 2.258.76.554 1.725.832 2.895.832 1.337 0 2.533-.372 3.59-1.114 1.058-.745 1.783-1.666 2.172-2.768.39-1.102.585-3.797.585-8.088V12.11h7.822v29.982h-7.266zm30.986-15.216v-6.972h17.761v16.485c-1.726 1.695-4.227 3.186-7.502 4.474-3.275 1.29-6.594 1.935-9.952 1.935-4.267 0-7.99-.908-11.163-2.725-3.173-1.817-5.558-4.412-7.153-7.79-1.597-3.378-2.395-7.056-2.395-11.026 0-4.31.891-8.139 2.672-11.49 1.781-3.35 4.39-5.918 7.823-7.706C106.837.687 110.092 0 113.99 0c5.066 0 9.024 1.076 11.873 3.231s4.681 5.135 5.498 8.936l-8.184 1.554c-.576-2.034-1.656-3.638-3.243-4.813-1.587-1.18-3.568-1.767-5.944-1.767-3.6 0-6.462 1.159-8.587 3.475-2.126 2.313-3.186 5.748-3.186 10.303 0 4.913 1.075 8.596 3.227 11.051 2.154 2.456 4.974 3.684 8.463 3.684 1.726 0 3.455-.344 5.192-1.03 1.735-.686 3.224-1.519 4.468-2.498v-5.25h-9.438zm61.416 15.216L163.629 12.11h8.212l5.568 15.302 1.615 5.108c.426-1.297.695-2.152.806-2.568.262-.847.54-1.693.836-2.54l5.623-15.302h8.046l-11.748 29.982h-7.043zm20.5-39.614a4 4 0 0 1 1.947.52c.632.344 1.126.84 1.479 1.483a4.12 4.12 0 0 1 .53 2.014c0 .691-.174 1.356-.522 1.995a3.702 3.702 0 0 1-1.463 1.487 3.971 3.971 0 0 1-1.971.529 3.966 3.966 0 0 1-1.968-.529 3.725 3.725 0 0 1-1.467-1.487 4.099 4.099 0 0 1-.525-1.995c0-.699.178-1.37.532-2.014a3.682 3.682 0 0 1 1.482-1.484 4.006 4.006 0 0 1 1.946-.519zm0 .665c-.555 0-1.097.144-1.623.433-.526.29-.938.703-1.235 1.24a3.425 3.425 0 0 0-.446 1.679c0 .578.146 1.133.439 1.662.29.53.699.945 1.224 1.24a3.28 3.28 0 0 0 1.64.445 3.29 3.29 0 0 0 1.644-.445 3.099 3.099 0 0 0 1.222-1.24c.29-.53.435-1.084.435-1.662 0-.582-.147-1.141-.443-1.679a3.065 3.065 0 0 0-1.235-1.24 3.334 3.334 0 0 0-1.622-.433zM30.47 26.678c0-2.635.64-5.183 1.921-7.651 1.28-2.464 3.094-4.347 5.443-5.647 2.346-1.298 4.968-1.947 7.863-1.947 4.472 0 8.138 1.472 10.996 4.417 2.858 2.946 4.287 6.666 4.287 11.167 0 4.535-1.444 8.293-4.33 11.278-2.885 2.984-6.518 4.475-10.898 4.475-2.71 0-5.293-.62-7.752-1.864-2.46-1.242-4.328-3.063-5.609-5.463-1.28-2.4-1.921-5.32-1.921-8.765zm8.017.423c0 2.974.697 5.25 2.088 6.833 1.393 1.58 3.109 2.371 5.15 2.371 2.042 0 3.754-.79 5.136-2.371 1.382-1.583 2.074-3.878 2.074-6.89 0-2.937-.692-5.194-2.074-6.775-1.382-1.582-3.094-2.37-5.136-2.37-2.041 0-3.757.788-5.15 2.37-1.391 1.581-2.088 3.858-2.088 6.832zm95.715-.423c0-2.635.639-5.183 1.92-7.651 1.28-2.464 3.094-4.347 5.443-5.647 2.348-1.298 4.968-1.947 7.863-1.947 4.473 0 8.138 1.472 10.997 4.417 2.857 2.946 4.286 6.666 4.286 11.167 0 4.535-1.443 8.293-4.327 11.278-2.887 2.984-6.52 4.475-10.9 4.475-2.71 0-5.294-.62-7.752-1.864-2.46-1.242-4.33-3.063-5.61-5.463-1.281-2.4-1.92-5.32-1.92-8.765zm8.017.423c0 2.974.696 5.25 2.088 6.833 1.391 1.58 3.108 2.371 5.15 2.371 2.04 0 3.752-.79 5.136-2.371 1.38-1.583 2.074-3.878 2.074-6.89 0-2.937-.693-5.194-2.074-6.775-1.384-1.582-3.096-2.37-5.136-2.37-2.042 0-3.759.788-5.15 2.37-1.392 1.581-2.088 3.858-2.088 6.832zm52.089-18.388v-4.32h1.463c.5 0 .863.04 1.085.12.225.08.404.22.536.418.133.198.2.409.2.632 0 .317-.112.591-.334.825-.222.234-.516.366-.884.394.15.064.272.14.362.228.172.17.382.457.63.858l.52.845h-.84l-.378-.68c-.297-.536-.536-.87-.719-1.006-.125-.099-.31-.149-.55-.149h-.405v1.835h-.686zm.686-2.431h.835c.398 0 .67-.06.816-.181a.59.59 0 0 0 .217-.479.582.582 0 0 0-.105-.343.621.621 0 0 0-.291-.227c-.124-.048-.353-.074-.69-.074h-.782v1.304z"></path>
+                        </g>
+                    </svg>
+                </a>
+            </div>
+            <button class="btn-close">
+                <svg width="22" height="22" viewBox="0 0 22 22">
+                    <path fill="#676276" fill-rule="evenodd" d="M21.586 2.847L13.433 11l8.153 8.153-2.433 2.433L11 13.433l-8.153 8.153-2.433-2.433L8.567 11 .414 2.847 2.847.414 11 8.567 19.153.414z"></path>
+                </svg>
+            </button>
+        </header>
+
+        <hr class="separator">
+
+        <div class="content">
+            <nav>
+                <ul class="menu ">
+                    
+                        
+                            <li class="item take-part">
+                                <a class="" href="/uk-general-election-2019/">Election MRP</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item results">
+                                <a class="" href="/topics/">Topics</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item find-solutions">
+                                <a class="" href="/solutions/">Solutions</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item hidden-xs">
+                                <a class="active" href="/about/">Company</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item join-community">
+                                <a class="" href="/join-community/">Join</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item your-community">
+                                <a class="" href="/opi/myfeed#/all">My Feed</a>
+                            </li>
+                        
+                    
+                </ul>
+            </nav>
+
+            <hr class="separator">
+
+            
+                <a href="/account" class="login">
+                    Login
+                </a>
+            
+            <hr class="separator">
+        </div>
+    </section>
+</section>
+
+                        
+                    
+    
+
+    
+
+
+                    
+    
+    
+<div class="layout-wrapper">
+    <div class="no-overflow">
+        <div class="layout-2-5-2">
+            <div class="col-1">
+                
+<div>
+    <a href="#" ng-hide="offCanvas.isNavOpened" ng-click="showCanvas($event)" class="ng-cloak menu-icon " aria-expanded="false">
+        <span><span class="text">Menu</span></span>
+    </a>
+    <div class="nav-wrapper" ng-class="{'open' : offCanvas.isNavOpened}">
+        <a href="#" ng-click="hideCanvas($event)" class="close-menu">
+            <span>Close menu</span>
+            <span class="times">×</span>
+        </a>
+        
+        <div class="user-info clearfix ng-cloak" ng-controller="userInfoCtrl as user" ng-show="user.data.user_id">
+            <div class="avatar pull-left">
+                <img ng-src="{[{ user.data.avatar_big }]}">
+            </div>
+            <div class="pull-left">
+                <div class="user-id">{[{ user.data.member_prefix }]} {[{ user.data.user_id }]}</div>
+                <a ng-href="{[{ ::user.appContextSrv.siteLanguage }]}/account/logout/" class="logins-box-logout link-dark">Logout</a>
+            </div>
+        </div>
+        
+        <div main-search="" placeholder-text="Search..." class="main-search" overlayed-area-selector=".search-overtake">
+            <input type="text">
+        </div>
+        
+        <div class="search-overtake">
+            <div class="left-nav">
+                <ul class="nav home-nav level-1 visible-xs">
+                    <li>
+                        <a href="/" target="_parent">
+                            <span class="nav-item-title">Home</span>
+                            <span class="svgi icon-menu-arrow"></span>
+                        </a>
+                    </li>
+                </ul>
+                
+                    <div class="nav-header take-part  hidden">
+                        <div class="header-name">
+                            <a href="/uk-general-election-2019/"><span class="svgi icon-take-part"></span>Election MRP</a>
+                        </div>
+                    </div>
+                    
+                        
+                            
+                                <ul class="nav level-1 hidden">
+    
+        
+            <li class=" ">
+
+            
+                <a href="/opi/myfeed" target="_parent">
+            
+                <span class="nav-item-title">
+                    My Feed
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="mobile-notifications-badge ">
+
+            
+                <a href="/opi/user/notifications" target="_parent">
+            
+                <span class="nav-item-title">
+                    Notifications
+                    
+                        <span mobile-notifications-badge=""></span>
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/opi/profile" target="_parent">
+            
+                <span class="nav-item-title">
+                    My Profile
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/account" target="_parent">
+            
+                <span class="nav-item-title">
+                    My Account
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="notifications_new_count ">
+
+            
+                <a href="/opi/user" target="_parent">
+            
+                <span class="nav-item-title">
+                    My Connections
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+                            
+                        
+                    
+
+                    
+                
+                    <div class="nav-header results  hidden">
+                        <div class="header-name">
+                            <a href="/topics/"><span class="svgi icon-results"></span>Topics</a>
+                        </div>
+                    </div>
+                    
+                        
+                            
+                                <ul class="nav level-1 hidden">
+    
+        
+            <li class=" ">
+
+            
+                <a href="overview" target="_parent">
+            
+                <span class="nav-item-title">
+                    All categories
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="politics" target="_parent">
+            
+                <span class="nav-item-title">
+                    Politics &amp; current affairs
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="entertainment" target="_parent">
+            
+                <span class="nav-item-title">
+                    Entertainment &amp; celebrity
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="consumer" target="_parent">
+            
+                <span class="nav-item-title">
+                    Retail &amp; consumer
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="technology" target="_parent">
+            
+                <span class="nav-item-title">
+                    Digital &amp; technology
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="media" target="_parent">
+            
+                <span class="nav-item-title">
+                    Media
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="lifestyle" target="_parent">
+            
+                <span class="nav-item-title">
+                    Lifestyle
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="arts" target="_parent">
+            
+                <span class="nav-item-title">
+                    Arts &amp; culture
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="transport" target="_parent">
+            
+                <span class="nav-item-title">
+                    Automotive &amp; transport
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="finance" target="_parent">
+            
+                <span class="nav-item-title">
+                    Business &amp; finance
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="economy" target="_parent">
+            
+                <span class="nav-item-title">
+                    Economy &amp; work
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="education" target="_parent">
+            
+                <span class="nav-item-title">
+                    Education &amp; parenting
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="food" target="_parent">
+            
+                <span class="nav-item-title">
+                    Food &amp; drink
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="health" target="_parent">
+            
+                <span class="nav-item-title">
+                    Health, medicine, &amp; beauty
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="international" target="_parent">
+            
+                <span class="nav-item-title">
+                    International
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="legal" target="_parent">
+            
+                <span class="nav-item-title">
+                    Legal
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="relationships" target="_parent">
+            
+                <span class="nav-item-title">
+                    Personal relationships
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="philosophy" target="_parent">
+            
+                <span class="nav-item-title">
+                    Philosophy &amp; religion
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="science" target="_parent">
+            
+                <span class="nav-item-title">
+                    Science &amp; environment
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="sport" target="_parent">
+            
+                <span class="nav-item-title">
+                    Sport
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="travel" target="_parent">
+            
+                <span class="nav-item-title">
+                    Travel &amp; countries
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="utilities" target="_parent">
+            
+                <span class="nav-item-title">
+                    Utilities &amp; appliances
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+                            
+                        
+                    
+
+                    
+                
+                    <div class="nav-header find-solutions  hidden">
+                        <div class="header-name">
+                            <a href="/solutions/"><span class="svgi icon-find-solutions"></span>Solutions</a>
+                        </div>
+                    </div>
+                    
+                        
+                            
+                                <ul class="nav level-1 hidden">
+    
+        
+            <li class=" ">
+
+            
+                <a href="/find-solutions/brandindex/" target="_parent">
+            
+                <span class="nav-item-title">
+                    BrandIndex
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/find-solutions/omnibus/" target="_parent">
+            
+                <span class="nav-item-title">
+                    Omnibus
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/find-solutions/profiles/" target="_parent">
+            
+                <span class="nav-item-title">
+                    Profiles
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/find-solutions/custom-research/" target="_parent">
+            
+                <span class="nav-item-title">
+                    Custom Research
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/find-solutions/sectors/" target="_parent">
+            
+                <span class="nav-item-title">
+                    Sectors
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/find-solutions/white-papers/" target="_parent">
+            
+                <span class="nav-item-title">
+                    White papers
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/find-solutions/events/" target="_parent">
+            
+                <span class="nav-item-title">
+                    Events
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/find-solutions/webinars/" target="_parent">
+            
+                <span class="nav-item-title">
+                    Webinars
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/about/about" target="_parent">
+            
+                <span class="nav-item-title">
+                    About
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/find-solutions/blog/" target="_parent">
+            
+                <span class="nav-item-title">
+                    Blog
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+                            
+                        
+                    
+
+                    
+                
+                    <div class="nav-header hidden-xs active hidden">
+                        <div class="header-name">
+                            <a href="/about/"><span class="svgi icon-hidden-xs"></span>Company</a>
+                        </div>
+                    </div>
+                    
+                        
+                            
+                                <ul class="nav level-1 active">
+    
+        
+            <li class="  active  ">
+
+            
+                <a href="/about/" target="_parent">
+            
+                <span class="nav-item-title">
+                    ABOUT
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/about/our-team/" target="_parent">
+            
+                <span class="nav-item-title">
+                    Our Team
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/about/our-panel/" target="_parent">
+            
+                <span class="nav-item-title">
+                    Our Panel
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/about/panel-methodology/" target="_parent">
+            
+                <span class="nav-item-title">
+                    Panel Methodology
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="https://corporate.yougov.com/" target="_parent">
+            
+                <span class="nav-item-title">
+                    INVESTOR RELATIONS
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="https://jobs.yougov.com/" target="_parent">
+            
+                <span class="nav-item-title">
+                    Careers
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/about/press-office/" target="_parent">
+            
+                <span class="nav-item-title">
+                    Press Office
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/about/contact-us" target="_parent">
+            
+                <span class="nav-item-title">
+                    CONTACT US
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/about/terms-combined/#terms" target="_parent">
+            
+                <span class="nav-item-title">
+                    Terms &amp; Conditions
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/about/terms-combined/#privacy" target="_parent">
+            
+                <span class="nav-item-title">
+                    PRIVACY
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+        
+            <li class=" ">
+
+            
+                <a href="/about/terms-combined/#cookies" target="_parent">
+            
+                <span class="nav-item-title">
+                    Cookies
+                    
+                </span>
+                <span class="svgi icon-menu-arrow"></span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+                            
+                        
+                    
+
+                    
+                        
+                    
+                
+                    <div class="nav-header join-community  hidden">
+                        <div class="header-name">
+                            <a href="/join-community/"><span class="svgi icon-join-community"></span>Join</a>
+                        </div>
+                    </div>
+                    
+                        
+                            
+                        
+                    
+
+                    
+                
+                    <div class="nav-header your-community  hidden">
+                        <div class="header-name">
+                            <a href="/opi/myfeed#/all"><span class="svgi icon-your-community"></span>My Feed</a>
+                        </div>
+                    </div>
+                    
+                        
+                            
+                        
+                    
+
+                    
+                
+            </div>
+            
+            <div class="footer-nav">
+                
+
+
+    <ul class="social-bookmarks">
+    
+        <li><a href="https://www.facebook.com/YouGov" class="pull-left facebook" target="_blank" rel="noopener"></a></li>
+    
+        <li><a href="https://twitter.com/YouGov" class="pull-left twitter" target="_blank" rel="noopener"></a></li>
+    
+        <li><a href="https://www.instagram.com/yougovuk/" class="pull-left instagram" target="_blank" rel="noopener"></a></li>
+    
+        <li><a href="https://yougov.co.uk/news/feeds/latest/" class="pull-left rss" target="_blank" rel="noopener"></a></li>
+    
+    </ul>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+            </div>
+            <div class="col-2">
+                <ul>
+	<li><a href="#terms">Terms and Conditions</a></li>
+	<li><a href="#privacy">Privacy and Cookies Notice</a></li>
+</ul>
+<h3><a id="terms" name="terms">Terms and Conditions of Use.</a></h3>
+
+<hr>
+<p>Welcome to YouGov UK.&nbsp; The&nbsp;<a href="https://yougov.co.uk/">www.yougov.co.uk&nbsp;</a>website (the "Website") and the YouGov mobile application(s) currently available on the Apple AppStore and Google Play e-stores (the “App”) are owned, operated and provided by YouGov Plc (a company registered in England and Wales with company number 03607311 whose registered office is at 50 Featherstone Street, London, EC1Y 8RT, United Kingdom)&nbsp; (referred to as "YouGov", “we”, “our” or “us”).</p>
+
+<p>Use of the Website and App including survey pages and content to which you may be directed (together the "YouGov WebPages") and membership of the consumer research panel set up and administered by YouGov (the "YouGov Panel") and participation in any YouGov research activities as described in our <u><a href="https://yougov.co.uk/about/terms-combined/#privacy">Privacy and Cookies Policy</a></u> ("YouGov Activities") is governed by these terms and conditions of use (the "Terms").</p>
+
+<p>Our group companies located in other countries operate panels in their respective countries for which different terms apply. If you are not registering with the YouGov Panel operated by YouGov Plc, please refer to the website of the panel operated by the relevant YouGov group company.</p>
+
+<p>Please see our <u><a href="https://yougov.co.uk/about/terms-combined/#privacy">Privacy and Cookie Policy</a></u> to understand how and why we collect your personal data, with whom we share it and the rights and choices you have over that data.</p>
+
+<hr>
+<p><strong>1. Acknowledgement and acceptance</strong></p>
+
+<p>1.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By ticking 'I agree' during the process to register your participation as a member of a YouGov Panel ("Member"), or by participating in a YouGov Activity or by simply accessing and using the YouGov WebPages, you agree to be bound by these Terms. Should you not wish to accept these Terms, you must exit the YouGov WebPages immediately and/or or cease participation in the YouGov Panel or YouGov Activities.</p>
+
+<p>1.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; YouGov reserves the right from time to time, to modify or amend these Terms or any part of them. You will be informed in advance of any changes in good time before they become effective and such changes will never vary your entitlement to points for surveys you have already completed prior to the effective date of the changes. Your continued use of the YouGov WebPages or continued participation in the YouGov Panel or the YouGov Activities once the changes take effect shall constitute an affirmative acknowledgement of any modification and your continued agreement to be bound by the modified Terms.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>2. Terms of participation</strong></p>
+
+<p>2.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>YouGov Registration Process for YouGov Panel Members</strong></p>
+
+<p>2.1.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To become a Member and to participate in a YouGov Panel, you need to register with YouGov and create a Panel Membership Profile following the registration process set out below (the "YouGov Registration Process").</p>
+
+<p>2.1.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prospective Members must complete a YouGov registration form each time they wish to join a YouGov Panel. Registration forms include:</p>
+
+<p>2.1.2.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The form available on the Website and App, but may also include registration forms hosted on third party websites;</p>
+
+<p>2.1.2.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Registration forms hosted by YouGov and accessed via third party websites; and</p>
+
+<p>2.1.2.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Registration forms accessed via links in an email sent to you by a third party or by YouGov where you have granted permission to receive such emails from these sources.</p>
+
+<p>2.1.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; During each YouGov Registration Process prospective Members will be notified of any terms in addition to these Terms which shall apply to membership of the respective YouGov Panel.</p>
+
+<p>2.1.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You have to be 16 years or older to join the YouGov Panel.&nbsp;</p>
+
+<p>2.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Information you provide to us</strong></p>
+
+<p>2.2.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In return for YouGov granting you access to the YouGov WebPages and/or the ability to participate in a YouGov Panel or YouGov Activity, you agree to:</p>
+
+<p>2.2.1.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provide true, accurate, current and complete information about yourself as prompted by the YouGov Registration Process;</p>
+
+<p>2.2.1.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maintain and promptly update your personal membership details including the Panel Membership Profile (defined below) so as to keep it true, accurate, current and complete; and</p>
+
+<p>2.2.1.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provide true, accurate, current and complete information about yourself as prompted by YouGov whilst participating in a YouGov Panel or YouGov Activity.</p>
+
+<p>2.2.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you provide any information that is untrue, inaccurate, not current, incomplete or inconsistent with prior answers to identical questions, or YouGov has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, YouGov has the right to suspend or terminate your current access to, use of, and/or participation in the YouGov Panel or YouGov Activities. For example, if in YouGov’s reasonable judgement your participation in YouGov Activities persistently indicates a location of residence different to the one you provided during the YouGov Registration Process, we reserve the right to suspend or terminate your membership or your participation in the YouGov Panel. This is subject to your right to refuse to answer any Panels or YouGov survey or information request.</p>
+
+<p>2.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Your Panel Membership Profile and YouGov Account</strong></p>
+
+<p>2.3.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Once they have completed the YouGov Registration Process, Members will be provided with a profile ("Panel Membership Profile") and an account ("YouGov Account") for the YouGov Panel and those YouGov Activities for which Points (as defined below) is awarded.</p>
+
+<p>2.3.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only one Panel Membership Profile is permitted per Member for the YouGov Panel and only one YouGov Account is permitted per Member for the YouGov Panel for which Points are awarded. Any Member found to have multiple Panel Membership Profiles and/or YouGov Accounts may have their primary and any secondary Panel Membership Profiles and/or YouGov Accounts deleted. Points earned via secondary YouGov Accounts may not be transferred. YouGov may demand proof of identity in the event of a dispute.</p>
+
+<p>2.3.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A unique email address must be used by each Member. (For example, this means that family members may not each have an account using a shared email address but must each have a separate account with a separate email address.)</p>
+
+<p>2.3.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Each Panel Membership Profile and YouGov Account must only be accessed by an individual Member, and may not be accessed by any other individual without the express permission and authorisation of YouGov. You agree to notify YouGov immediately you become aware of, or suspect any unauthorised use of your login information, Panel Membership Profile and/or YouGov Account, or any other breach of security.</p>
+
+<p>2.3.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the event of access to your YouGov Account by another individual, YouGov reserves the right to suspend your and/or that other individual’s account until a resolution has been reached. YouGov reserves the right to reclaim any Points or other incentive earned by access of the unauthorised user.</p>
+
+<p>2.3.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Members may earn points for their YouGov Account ("Points") in the prescribed manner detailed on the YouGov WebPages, including for completing the YouGov Registration Process and for participating in the YouGov Panel and related YouGov Activities for which Points are awarded. The amount of Points that can be earned for participation in a YouGov Panel or related YouGov Activity will be notified to Members via authorised communications.</p>
+
+<p>2.3.7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unless otherwise specifically notified, Points can only be earned through following all and any instructions regarding earning Points. A Member's failure to correctly follow any required instructions or procedures may result in no Points being earned.</p>
+
+<p>2.3.8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Points earned will be recorded in your YouGov Account, however no Points earned are ever available for redemption until the Member has (subject to paragraph 2.3.9 below) reached the specified fulfilment level advertised, together with details of the applicable reward(s) available, in the Account section of the Website.. If YouGov has suspended or terminated your YouGov Account for any of the reasons outlined in these Terms no Points that you have earned can be redeemed.</p>
+
+<p>2.3.9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; YouGov reserves the right to change the range of YouGov Activities and the YouGov Panel or related YouGov Activities for which Members may be eligible for Points and to vary the frequency of invitation to such activities. YouGov also reserves the right to alter the level of Points required before such Points can be redeemed.</p>
+
+<p>2.3.10.&nbsp;&nbsp;&nbsp;&nbsp; Points may not be transferred to other YouGov Accounts nor pooled together in any manner and the sale or barter of Points is strictly prohibited. Points have&nbsp;no monetary value, and cannot be used for any purpose other than redeeming the designated reward.</p>
+
+<p>2.3.11.&nbsp;&nbsp;&nbsp;&nbsp; YouGov may from time to time adjust a Member's YouGov Account upwards or downwards in response to errors which Members acknowledge may arise or suspected fraud, for which we have full authority.</p>
+
+<p>2.3.12.&nbsp;&nbsp;&nbsp;&nbsp; YouGov reserves the right to terminate any YouGov Account that has been dormant for a period of 12 months or more. By ‘dormant’ we mean, where the Member has not participated in the YouGov Panel or any related YouGov Activity within the preceding 12 month period. YouGov will attempt to contact the Member, via their nominated email address, if their YouGov Account is at risk of termination through inactivity. In the absence of a satisfactory response, the YouGov Account will be terminated, and any unused Points will be forfeited.</p>
+
+<p>&nbsp;</p>
+
+<p>2.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Survey invitations</strong></p>
+
+<p>2.4.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You acknowledge that:</p>
+
+<p>2.4.1.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if you register to the YouGov Panel, it is integral to your participation that we are able to send you emails and notifications inviting you to participate in surveys for research projects, whether via the Website or App or in person; and</p>
+
+<p>2.4.1.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if you wish to stop receiving such emails and notifications, you may terminate your membership in accordance with paragraph 6.1 of these Terms.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>3. Prize polls</strong></p>
+
+<p>3.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; YouGov may ask you to participate in YouGov Activities which will enter you into a prize draw or may permit you to use your Points to enter into a prize draw. Such draws will be governed by the respective terms and conditions specified and displayed for each prize draw.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>4. Referral Links</strong></p>
+
+<p>4.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may be able to earn extra Points by referring friends and family to the YouGov Panel, provided they join using a unique link that we provide to you for making referrals (“Referral Link”). The conditions attached to the awarding of such extra Points are explained in the Account section of the Website and App. When referring new panel Members, you agree to not pose as or claim to represent YouGov and you will not attempt to mislead or deceive prospective Members into using your Referral Link to join. You agree to make clear to any prospective Members you refer that they will be using your unique Referral Link and that you will receive Points if they join the YouGov panel via your Referral Link.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>5. User Content</strong></p>
+
+<p>5.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of the YouGov WebPages and participation in YouGov Activities or the YouGov Panel may involve you submitting survey responses and other content to us ("User Content") which may be visible to other users of the YouGov WebPages.</p>
+
+<p>5.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You acknowledge that User Content provided by you is your sole responsibility. This means that you, and not YouGov, are entirely responsible for all User Content you upload, post, link to, email or otherwise transmit via your use of the YouGov WebPages or your participation in any of the YouGov Activities or the YouGov Panel.</p>
+
+<p>5.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; YouGov does not control or pre-screen the User Content posted on the YouGov WebPages and does not guarantee the accuracy, integrity or quality of such User Content, and therefore assumes no liability in respect of the User Content.</p>
+
+<p>5.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You understand that by using the YouGov WebPages, you may be exposed to User Content, and you agree that you must evaluate, and bear, all risks associated with the use of any User Content, including any reliance on its accuracy, completeness, or usefulness. Notwithstanding the foregoing YouGov shall have the right in their sole discretion to refuse, edit, move or remove any such User Content, whether or not that content violates these Terms.</p>
+
+<p>5.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With respect to all User Content you elect to transmit to us (including User Content you post on the YouGov WebPages), you grant YouGov a royalty-free, perpetual, irrevocable, non-exclusive licence (with the right to sublicense) to use, reproduce, modify, adapt, edit, publish, translate, create derivative works from, exploit, perform and display such User Content (in whole or part) throughout the world and/or to incorporate it in other works in any form, media or technology now known or later developed, for any purposes.</p>
+
+<p>5.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the course of using the YouGov WebPages and/or participating in YouGov Activities or the YouGov Panel, you agree not to:</p>
+
+<p>5.6.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upload, post, link to, email or otherwise transmit any information that is unlawful in any way in the United Kingdom, or in the country in which you reside;</p>
+
+<p>5.6.2 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upload, post, link to, email or otherwise transmit any information that is abusive, defamatory, threatening, harassing, obscene, discriminatory, likely to cause distress, intended to incite hatred or is otherwise objectionable as determined by us in our sole discretion;</p>
+
+<p>5.6.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Impersonate any person (whether living or dead) or entity;</p>
+
+<p>5.6.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Forge headers or otherwise manipulate identities in order to disguise the origin of any content transmitted through the YouGov WebPages or provided through participation in YouGov Activities or the YouGov Panel;</p>
+
+<p>5.6.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upload, post, link to, or otherwise transmit any information that you do not have a right to transmit;</p>
+
+<p>5.6.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upload, post, link to, email or otherwise transmit any unsolicited or unauthorised advertising, promotional materials, "junk mail", "chain letters", "phishing emails", "pyramid schemes", or any other form of solicitation;</p>
+
+<p>5.6.7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upload, post, link to, email or otherwise transmit any material that contains software viruses or any other computer&nbsp;files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;</p>
+
+<p>5.6.8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collect or store personal data about other individuals; or</p>
+
+<p>5.6.9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attempt to submit more than one vote per survey or do any other act that may affect the validity of any result obtained through any YouGov Activity or the YouGov Panel.</p>
+
+<p><strong>6. Terminating your membership</strong></p>
+
+<p>6.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you no longer wish to be a Member please contact YouGov. YouGov will terminate your account and cease to contact you within 7 days of receiving notice from you that you wish to terminate you membership. You therefore acknowledge and agree that if you terminate your membership you may receive emails from YouGov for a period of 7 days after the date of your notice. If you decide to terminate using the ‘Unsubscribe’ option on your YouGov Account page, you will retain any Points previously earned, you will cease to receive emails and notifications from YouGov and be unable to participate in the YouGov Panel or in any YouGov Activities unless and until you reactivate your YouGov Account. If you request the erasure of your YouGov Account you will forfeit all Points previously earned and be unable to reactivate your YouGov Account.</p>
+
+<p>6.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You agree that YouGov, in its sole discretion, may terminate or suspend your YouGov Membership, or participation in any YouGov Activities or the YouGov Panel, or remove or discard any User Content, for any reason, including, without limitation, for lack of use, or if YouGov believed that you have violated or acted inconsistently with the letter or spirit of these Terms.</p>
+
+<p>6.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You agree that YouGov may terminate your access to YouGov Activities or the YouGov Panel under any provision of these Terms without notice, and acknowledge and agree that YouGov may immediately deactivate your registration as a Member and/or bar access to YouGov Activities and the YouGov Panel. Further, you agree that YouGov shall not be liable to you or any third-party for any termination of your access to the YouGov Activities or the YouGov Panel.</p>
+
+<p>6.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; YouGov reserves the right to terminate the YouGov Panel, or YouGov WebPages at any time. In such a case and unless specified otherwise, no YouGov Account Points will be redeemable by any Members.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>7. Your obligation to reimburse us</strong></p>
+
+<p>7.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You hereby agree to fully reimburse YouGov and its directors, officers, employees and agents from and against any and all liability, damages, losses, claims (including reasonable legal fees) each of them suffers or incurs resulting in any way from your use of the YouGov WebPages, the provision of User Content or your participation in the YouGov Activities or the YouGov Panel or resulting from any breach of these Terms whether such breach is carried out by you or by any other person through your Panel Membership Profile or YouGov Account as a result of your negligence.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>8. Third party websites</strong></p>
+
+<p>8.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Links included within the YouGov WebPages may let you leave the YouGov WebPages and enter into other website(s) ("Linked Site(s)"). The Linked Sites are not under the control of YouGov and YouGov is not responsible&nbsp;and nor shall it be liable for the contents of any Linked Sites or any links contained in a linked site or any changes or updates to such sites. YouGov is not responsible for webcasting or any other form of transmission received from any Linked Site. YouGov is only providing these links to you as a convenience and the inclusion of any link does not imply endorsement by YouGov of the site or any association with their operators.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>9. Intellectual property</strong></p>
+
+<p>9.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Website and App and all pages and content within the YouGov WebPages, including, but not limited to, text, graphics, audio, video, photographs, software, inventions, surveys, logos or other materials (“Materials”) are the intellectual property of, or are authorised for use by, YouGov and its licensors, business partners and affiliates, including all trademarks, service marks, copyrights, patents, database rights and trade secrets contained therein. The compilation, organisation and display of the content as well as all software and inventions used on and in connection with the YouGov WebPages are the exclusive property of YouGov. Except as expressly permitted in these Terms, you may not modify, copy, reproduce, create derivative works, republish, display, upload, post, transmit, distribute or use in any way content available on the Website or App without the prior written consent of YouGov.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>10.</strong>&nbsp;<strong>Other important terms</strong></p>
+
+<p>10.1.&nbsp;&nbsp;&nbsp;&nbsp; <u>Notices relating to these Terms</u>. All notices given by YouGov to Members will be sent to their designated email address provided by them during the YouGov Registration Process.</p>
+
+<p>10.2&nbsp;&nbsp;&nbsp; <u>If a court finds part of these Terms illegal or otherwise invalid, the rest will continue in force</u>. Each of the paragraphs of these Terms operates separately. If any court or relevant authority decides that any of them are unlawful, the remaining paragraphs will remain in full force and effect.</p>
+
+<p>10.3&nbsp;&nbsp;&nbsp; <u>Reliance on these Terms</u>.&nbsp; We intend to rely on these written Terms and any document expressly referred to in them in relation to the subject matter of any agreement between us.&nbsp; We and you will be legally bound by these Terms.</p>
+
+<p>10.4&nbsp;&nbsp;&nbsp; <u>Events or circumstances beyond our reasonable control.</u>&nbsp; If we are prevented or delayed from complying with our obligations under these Terms by anything you (or anyone acting on your behalf) does or fails to do or due to events or circumstances beyond our reasonable control, our inability or delay in performing our obligations will not be deemed to be in breach of these Terms. Examples of such events and circumstances include fire, flood and other acts of God, strikes, trade disputes, lock outs, restrictions of imports or exports, riot, accident, disruption to energy supplies, civil commotion, acts of terrorism or war.</p>
+
+<p>10.5&nbsp;&nbsp;&nbsp; <u>References to ‘including’ and other similar expressions.</u>&nbsp; In these Terms, words that appear after the expression ‘include’, ‘including’, ‘other’, ‘for example’, ‘such as’ or ‘in particular’ (or any similar expression) will not limit the meaning of the words appearing before such expression.&nbsp;</p>
+
+<p>10.6&nbsp;&nbsp;&nbsp; <u>We may transfer this Agreement to someone else.</u> We may transfer our rights and obligations under these Terms to another organisation. We will contact you to let you know if we plan to do this. If you are unhappy with the transfer you may contact us to end your membership within 14 days of us telling you about the transfer.</p>
+
+<p>10.7&nbsp;&nbsp;&nbsp; <u>You need our consent to transfer your rights to someone else.</u> &nbsp;You may only transfer your rights or your obligations under these terms to another person if we agree to this in writing.</p>
+
+<p>10.8&nbsp;&nbsp;&nbsp; <u>Nobody else has any rights under these Terms.</u> The agreement made under these Terms is between you and us. No other person shall have any rights to enforce any of its terms. Neither of us will need to get the agreement of any other person in order to end the agreement between us or to make any changes to these Terms.</p>
+
+<p>10.9&nbsp;&nbsp;&nbsp; <u>Language.</u>&nbsp; These Terms may be presented to you in more than one language. However, the English language version of these Terms shall prevail.&nbsp; Any agreement between us will be concluded in English.</p>
+
+<p>10.10&nbsp; <u>Even if we delay in enforcing a Contract, we can still enforce it later.</u> If we do not insist immediately that you do anything you are required to do under these Terms, or if we delay in taking steps against you in respect of your breaking the Contract, that will not mean that you do not have to do those things and it will not prevent us taking steps against you at a later date.</p>
+
+<p>10.11&nbsp; <u>The laws that apply to these Terms and where you may bring legal proceedings</u>. These Terms are governed by English law and you can bring legal proceedings in respect of them in the English courts. If you live in Scotland you can bring legal proceedings in respect of them in either the Scottish or the English courts. If you live in Northern Ireland you can bring legal proceedings in respect of them in either the Northern Irish or the English courts.</p>
+
+<p><b>Effective:</b> 23&nbsp;May&nbsp;2018</p>
+<h3><a id="privacy" name="privacy">Privacy Policy</a></h3>
+
+<hr>
+<p>YouGov is an ethical user of personal data. Without the trust of everyone who answers our questions, we could not produce the research that helps our clients make better decisions. The security of your personal data is important to us, too.</p>
+
+<p>We’ve tried to make the privacy and cookies notice that follows as easy to read as possible. If anything in here is unclear, please contact us at <a href="mailto:dataprotection@yougov.com">dataprotection@yougov.com</a>, and we’ll be happy to clear it up.</p>
+
+<p><strong>What this notice covers</strong></p>
+
+<p>As an organisation that relies on the use of personal data, YouGov is responsible for collecting and using your data in a responsible and safe way, and that starts with clearly telling you how we collect, use and protect your personal data.&nbsp; This privacy and cookies notice sets out:</p>
+
+<ul>
+	<li>What kind of personal data we may collect from you;</li>
+	<li>How and why we collect and use your personal data;</li>
+	<li>Why we may share personal data within YouGov and with other organisations; and</li>
+	<li>The rights and choices you have when it comes to your personal data.</li>
+</ul>
+
+<p>YouGov is made up of a number of companies, each of which separately controls the data provided to it by our panellists and those who otherwise participate in surveys or browse our website (“user”). &nbsp;If you are a user or panellist who registered in the UK, YouGov Plc (referred to as “we”, “us”, “our” or “YouGov”) is the controller of your personal data. This means we choose why and how that data is processed.&nbsp; We are based at 50 Featherstone St, London, EC1Y 8RT, United Kingdom.</p>
+
+<p><strong>Personal data we collect</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width: 601px;">
+			<p>In this section we explain what personal data we may collect when you become a YouGov member, use our website and participate in surveys, as well as data that we may collect from other sources</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><em>Data that we collect from you</em></strong></p>
+
+<p>When you interact with our website or take part in YouGov surveys, you provide us with the data that powers our business.&nbsp; While there are certain data that you must provide to use some of our services, such as account details when you join YouGov, you control how much data you share with us.&nbsp; Whether you only want to complete certain surveys, or all of them – it’s your choice. &nbsp;</p>
+
+<p>We will only retain your personal data for as long as we need to in order to fulfil the uses we describe in this notice (or until you exercise your right to erasure, which is explained in the <a href="#Your_rights">section about your rights</a>).</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width: 177px;">
+			<p>When you register with YouGov, we collect:</p>
+			</td>
+			<td style="width: 439px;">
+			<ul>
+				<li>Contact details such as your name, email and postal address</li>
+				<li>Demographic data, such as your age, gender, and general economic and household information</li>
+				<li>Your account login details, which will be your email address and the password that you have chosen</li>
+				<li>Referral partner IDs, if you arrived on our website by clicking a ‘Join YouGov’ advertisement online, or a link in an email from one of our recruitment partners (we only use this to track recruitment effectiveness and to pay our partners)</li>
+				<li>Some specific data you have shared with Facebook, but <u>only</u> if you choose to register with YouGov using Facebook Connect and give Facebook permission to share this information with us during that process. (Each item is specified as part of that process.)</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 177px;">
+			<p>When you answer questions in surveys, or on our website or mobile apps, we collect:</p>
+			</td>
+			<td style="width: 439px;">
+			<ul>
+				<li>Your opinions on social and political issues, companies and brands</li>
+				<li>Information about your behaviours, for example what shops you like to shop in, what TV shows you have recently watched, or what kind of things you own</li>
+				<li>Device and browser “metadata” (basically an audit trail of your device and browser use), including IP address, the make, model and operating system of the device you have used and browser type (this data is collected automatically when you answer questions in surveys or browse our website or mobile apps)</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 177px;">
+			<p>If you have agreed to download tracking software (you will have been specifically invited to do this, it doesn’t happen automatically), we collect:</p>
+			</td>
+			<td style="width: 439px;">
+			<ul>
+				<li>Your geolocation data, showing where you have been while carrying your mobile device</li>
+				<li>Device and browser metadata</li>
+				<li>Information about websites you have visited, which applications you have downloaded onto your computer and mobile devices, and how and when you use them (we never collect any information you enter into login and password fields when browsing the internet).</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 177px;">
+			<p>If you have been invited to participate in online or in-person qualitative research, we collect:</p>
+			</td>
+			<td style="width: 439px;">
+			<ul>
+				<li>Your opinions on the topics that the research is exploring</li>
+				<li>We may also record these interviews with you, but in such cases you will be given full information about the research project and the opportunity not to participate</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 177px;">
+			<p>When you browse our website or use our mobile apps, we collect:</p>
+			</td>
+			<td style="width: 439px;">
+			<ul>
+				<li>Information through the use of cookies and similar technologies&nbsp; (<a href="#_7.0_Cookies_and">click here to go to the section about the data we collect using cookies</a>)</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 177px;">
+			<p>When you contact us or interact with our website or social media pages, we collect:</p>
+			</td>
+			<td style="width: 439px;">
+			<ul>
+				<li>Any personal data that you may you provide about yourself, including your name and contact details and the conversation history of our communications with you</li>
+				<li>Any comments you make on our website or social media pages, and whether you have chosen to ‘follow’ any other YouGov member on our website</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><em>Special categories of personal data</em></strong></p>
+
+<p>Some of the data that you provide us will fall within what EU data protection law describes as ‘special categories of personal data’, such as your racial or ethnic origin, political opinions, religious beliefs or information concerning your health or sexual orientation.&nbsp; For example, during a survey we may ask you about your voting history or intention, or whether you regard yourself as belonging to a particular religion.&nbsp; We use this information in the same way we use all the other information we collect, but the law requires that we have your explicit consent to collect and use it.</p>
+
+<p>You will be explicitly asked to consent to YouGov using those categories of data if you register to the YouGov panel. Each time we ask a question that falls into one of these categories, if you haven’t consented to our use of data in that category we’ll remind you that we need it.&nbsp; You will always have the option to skip these questions if you would prefer not to allow us to use that category of data, and you can always change your consent settings on your <a href="http://yougov.co.uk/account/permissions" target="_blank">Account page</a>. From the moment you withdraw your consent for any category we will make no further use of any data you have shared in that category when producing research or providing services to our clients, unless and until you choose to re-consent.</p>
+
+<p><strong><em>Personal data collected from other sources</em></strong></p>
+
+<p>We may also use personal data you have shared with us to derive additional information from other sources:</p>
+
+<ul>
+	<li><strong>Public sources: </strong>for example, we may compare your postcode against public registers to determine that you live within a certain catchment area for a particular local authority or electoral constituency.</li>
+</ul>
+
+<ul>
+	<li><strong>Data matching partners: </strong>we may purchase data from companies which helps us to categorise our panellists’ data into groups or ‘segments’ based on a classification of consumers devised by the data matching partner. We add the segment information we purchase to the data we hold about you (<a href="#Segment_partners">click here for more information about how we share personal data with these companies to add these segments to our own data</a>).</li>
+</ul>
+
+<p>You may still receive invitations to participate in our research activities if you have not joined YouGov. &nbsp;In these cases we will have received your email address either from a client, or we’ll have acquired it from an organisation that maintains databases of contact details so that companies like YouGov can contact you.&nbsp; We <em>only</em> send emails where we have guarantees from those providing the email addresses that the recipient (that’s you) has agreed to receive third-party (e.g. from YouGov) communications, and we will always tell you where we’ve got your details from and give you the option to opt-out of receiving further emails from us.</p>
+
+<p><a name="How_use"><strong>How and why we use your personal data</strong></a><strong>, and who we share it with</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width: 601px;">
+			<p>In this section we explain how and why we use your personal data, the choices you have over how your data is used, and which other organisations we share it with</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><em>Uses of personal data for basic market research</em></strong></p>
+
+<p>We use the data that you share with us, or that we receive from the other sources mentioned above, to give you the best experience possible, and to provide useful research for our clients.&nbsp; The uses we describe below form the basic agreement we have with our panellists.</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width: 633px;" width="0">
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+			<p><strong>We use personal data to…</strong></p>
+			</td>
+			<td style="width: 433px;">
+			<p><strong>For example…</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 200px;">
+			<p>Register, authenticate and administer your account</p>
+			</td>
+			<td style="width: 433px;">
+			<p>If you register with the YouGov panel, we will use your email address and password to create your account and authenticate your identity each time you log on, and your account details to help us to answer your questions when you contact us</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 200px;">
+			<p>Select and invite you to participate in YouGov’s research activities</p>
+			</td>
+			<td style="width: 433px;">
+			<p>If a client wanted to know what people who live in a certain region and demographic think about soft drinks, we will use your postcode and other demographic data to determine whether you qualify for a particular project, and then use your name and email address to invite you to participate in a survey</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 200px;">
+			<p>Credit you with the points and rewards that you earn from participating in research opportunities</p>
+			</td>
+			<td style="width: 433px;">
+			<p>We will use your contact details to tell you if you have won a prize draw, and your bank account details to pay you if you convert your points into money</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 200px;">
+			<p>Produce aggregated and anonymous research for our clients</p>
+			</td>
+			<td style="width: 433px;">
+			<p>Once we’ve gathered your survey answers, we combine them with answers from other respondents and turn them into valuable insights for our clients, either in the form of statistical spreadsheets or aggregated reports.&nbsp; Some of your answers go directly into our major global brand tracking product (BrandIndex) and our segmentation and planning tool (Profiles).&nbsp; Our clients access these tools to create their own aggregated insights – they don’t see anything that identifies you</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 200px;">
+			<p>Produce anonymised but non-aggregated respondent-level data for clients</p>
+			</td>
+			<td style="width: 433px;">
+			<p>We may provide our clients with spreadsheets that contain each of your survey answers; these data sets are not aggregated but do not reveal your identity and recipients are contractually bound to not attempt to re-identify the individuals who provided the answers</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 200px;">
+			<p>Create articles and other content for our website</p>
+			</td>
+			<td style="width: 433px;">
+			<p>We use survey responses to write interesting articles that may be published on our website or included in news articles on third party websites</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 200px;">
+			<p>Develop and improve our services</p>
+			</td>
+			<td style="width: 433px;">
+			<p>We use your survey responses to improve our research tools and methods, which helps us ensure that we are giving you and our clients the best possible experience</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 200px;">
+			<p>Respond to you when you exercise any of your rights relating to the data we hold about you (<a href="#Your_rights">more information about the rights you have over your data is set out below</a>)</p>
+			</td>
+			<td style="width: 433px;">
+			<p>We will use your account information and internal identifiers to identify the data that is relevant to your request and respond to you</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 200px;">
+			<p>Detect and prevent fraudulent activity</p>
+			</td>
+			<td style="width: 433px;">
+			<p>We use your IP address to ensure your location matches the location of the panel that you joined, and we sometimes repeat questions during surveys to check for inattention or other indicators of poor quality responses</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>In order to use your personal data in the ways described above, we may share it within YouGov, with trusted third parties who provide services to us, and on rare occasions with clients (but only if you have agreed to that specifically, within the relevant survey). Here is some more information about the types of organisation and what we may share with them:</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width: 633px;" width="0">
+	<tbody>
+		<tr>
+			<td style="width: 140px;">
+			<p><a href="https://yougov.co.uk/about/investors/global-offices/" target="_blank"><strong>YouGov Group companies</strong></a></p>
+			</td>
+			<td style="width: 493px;">
+			<p>YouGov is a global organisation.&nbsp; This means that some of the personal data that we collect may be transferred within the YouGov Group of companies, for example when a client wants to run a survey in multiple countries, or our global data teams analyse data from across our global panel.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 140px;">
+			<p><strong>Our clients</strong></p>
+			</td>
+			<td style="width: 493px;">
+			<p>Our business is built on providing clients with <a href="#How_use">anonymised research insights</a>. On occasion, our clients may ask to combine your survey responses with their own data to obtain even greater insights. In such cases you will be asked in the relevant survey if you are willing to provide certain identifying data (such as your email address or a social media handle) to our clients to enable this. Whether you share this data or not is completely up to you – if you do not want to provide the requested data it will have no impact on the points you can earn or your participation in future research opportunities.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 140px;">
+			<p><strong>Our service providers</strong></p>
+			</td>
+			<td style="width: 493px;">
+			<p>We work with trusted service providers that carry out certain functions on our behalf so we can provide our services to you.&nbsp;</p>
+
+			<p>These organisations process data on our behalf. They only have access to the personal data that they absolutely need to provide the specific service to us, and in all cases we have contractual safeguards in place to ensure that they do not disclose or use it for any other purposes. In some cases, these organisations (for example our payment processors) may need to process your personal data for their own specific purposes, for example to ensure they are compliant with regulations or laws governing their own sectors.</p>
+
+			<p>Our service providers fall within the following categories (and process your data in the following location(s)):</p>
+
+			<ul>
+				<li>Processors of cash payments, gift cards and other incentives (European Economic Area (“EEA”), USA)</li>
+				<li>Data collection technology providers (EEA, USA)</li>
+				<li>Cloud data storage (EEA, USA)</li>
+				<li>Data centre storage (EEA, USA)</li>
+				<li>Communications platforms and technologies (EEA)</li>
+				<li>Online advertising (EEA, USA)</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 140px;">
+			<p><a name="Segment_partners"></a><strong>Our data matching partners</strong></p>
+			</td>
+			<td style="width: 493px;">
+			<p>Our data matching partners create and sell consumer classifications that help companies understand the demographics, lifestyles, preferences and behaviours of consumers.&nbsp; This information is valuable to our clients, and if requested we will add this data to the insights we provide to them.&nbsp;</p>
+
+			<p>To do this we share certain personal data, such as your name, email address and postcode, so that our partners can match it against their own data and tell us which of their segments you belong to.&nbsp; As with our other service providers, we only share the personal data that our data matching partners need to match our data to theirs, and we have contractual safeguards in place to ensure that they do not disclose or use the data for any other purposes.</p>
+
+			<p>Our data matching partners include:</p>
+
+			<ul>
+				<li>Experian (from whom we receive <a href="http://www.experian.co.uk/marketing-services/products/mosaic-uk.html" target="_blank">Mosaic</a>, <a href="http://www.experian.co.uk/marketing-services/products/financial-strategy-segments.html" target="_blank">FSS</a> and <a href="http://www.experian.co.uk/marketing-services/products/consumerview.html" target="_blank">Consumer View</a> codes)</li>
+				<li>Acxiom (from whom we receive <a href="http://www.personicx.co.uk/" target="_blank">Personicx</a> codes)</li>
+				<li>CACI (from whom we receive <a href="https://acorn.caci.co.uk/" target="_blank">Acorn</a> and <a href="https://fresco.caci.co.uk/fresco/" target="_blank">Fresco</a> codes)</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 140px;">
+			<p><strong>Other organisations</strong></p>
+			</td>
+			<td style="width: 493px;">
+			<p>These circumstances are unusual, but we may share personal data with other organisations if:</p>
+
+			<ul>
+				<li>we have to share your information to comply with legal or regulatory requirements (or we reasonably believe that we need to disclose your information for such purposes);</li>
+				<li>we need to share personal data in order to establish, exercise or defend our legal rights, including with our legal and other professional advisors;</li>
+				<li>we restructure our business or if we buy or sell any business or assets we may share your data with the prospective buyer or seller;</li>
+				<li>all or substantially all of our company assets are acquired by another party, your data will be one of the transferred assets</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>If you don’t want us to make use of your personal data in any of the ways described above, sharing your data with YouGov and using our services is not for you – you should unsubscribe <a href="http://yougov.co.uk/account/unsubscribe">here</a>, or contact us and ask us to do that for you. &nbsp;We need to use your data in these basic ways to be able to give your opinions meaning in the world, and to conduct the research that allows us to exist as a business.</p>
+
+<p><strong><em>Uses of personal data</em></strong><strong><em> for advanced research and modelling</em></strong></p>
+
+<p>In addition to the uses we describe above, provided you choose to participate as a panellist in this way, we may also share your data with trusted partner organisations.&nbsp; Our partners use this data to create and improve their products and services, and to create audiences for advertisers to target with more relevant communications and propositions.&nbsp; We do not permit these partners to include the data they receive from us in the modelled audience, so you could only be included in an audience modelled from YouGov data if these partners already separately hold information about you. &nbsp;Here is some more information about our partners and what we may share with them:</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width: 633px;" width="0">
+	<tbody>
+		<tr>
+			<td style="width: 137px;">
+			<p><strong>Our partners for advanced research and modelling</strong></p>
+			</td>
+			<td style="width: 496px;">
+			<p>By matching <em>personal details</em> (for example your name, email address and postcode or a unique identifier) or <em>online identifiers</em>, our partners can use survey responses to:</p>
+
+			<ul>
+				<li>Create and improve products and services, such as consumer segmentations, to help other organisations better understand the likely characteristics of their customers; and</li>
+				<li>Create audiences for advertisers to target with more relevant communications and propositions (the advertising audiences are created by finding people in the population who have similar characteristics to you, via a process called lookalike modelling).</li>
+			</ul>
+
+			<p>Provided you choose to participate in this way, we may share your <em>personal details</em> with the following partners for these purposes:</p>
+
+			<ul>
+				<li><a href="http://www.experian.co.uk/marketing-services/consumer-information-portal/products-services/" target="_blank">Experian</a></li>
+				<li><a href="https://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy/" target="_blank">Acxiom</a></li>
+				<li><a href="https://liveramp.uk/service-privacy-policy/" target="_blank">LiveRamp</a></li>
+				<li><a href="https://www.ipgmediabrands.com/privacy-notice/" target="_blank">MediaBrands</a>, part of IPG</li>
+			</ul>
+
+			<p>Again, provided you choose to participate in this way, we may share online identifiers with the following partners for these purposes:</p>
+
+			<ul>
+				<li><a href="https://www.eyeota.com/privacy-policy/" target="_blank">Eyeota</a></li>
+				<li><a href="https://www.groupm.com/mplatform-privacy-policy" target="_blank">mPlatform</a>, part of GroupM</li>
+				<li><a href="https://site.adform.com/privacy-center/platform-privacy/product-and-services-privacy-policy/" target="_blank">Adform</a></li>
+				<li><a href="https://www.semasio.com/privacy">Semasio</a></li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>You have complete control over whether we use your data in this way (i.e. non-anonymously).&nbsp; You can choose not to participate in these uses by changing your permission setting. To change your setting, go to your </strong><strong><a href="http://yougov.co.uk/account/permissions" target="_blank">Account page</a>, "Permissions" section, scroll down to "Uses of your data" and select the "No" option.</strong><strong>&nbsp;</strong></p>
+
+<p><strong><em>Legal grounds for processing your personal data</em></strong></p>
+
+<p>YouGov is committed to the lawful, fair and transparent use of personal data. For every use of your personal data we have described so far, we process your personal data on the grounds that our processing is necessary for legitimate interests we pursue as a business, namely that our business relies entirely on the ability to use your personal data to produce research and insight for our clients.</p>
+
+<p>If you have any questions about the grounds under which we process your personal data, or would like to find out more about the approach we take to determine that these grounds apply, please contact our Data Protection Officer using the contact details in the ‘Contact Us’ section at the bottom of the page.</p>
+
+<p><strong>Transferring personal data outside the EEA</strong></p>
+
+<p>We take all steps possible to ensure that your personal data remains within the European Economic Area (“EEA”).&nbsp; However, in some cases we need to share data with other YouGov group companies or third parties that are in countries outside the EEA, <a href="#How_use">as described earlier</a>.&nbsp; These countries may not have similar data protection laws to the UK and so they may not protect the use of your personal information to the same extent.</p>
+
+<p>In these cases we put in place appropriate safeguards to make sure your personal data remains adequately protected.&nbsp; Specifically, we make use of one of the following:</p>
+
+<ul>
+	<li><strong>Standard contractual clauses</strong>: we use standard contractual clauses for the transfer of personal data to organisations outside the EEA.&nbsp; These contractual commitments have been adopted by the European Commission and ensure adequate protection for personal data transferred to countries outside the EEA by binding recipients of personal data to certain data protection standards including obliging them to apply appropriate technical and security measures.&nbsp; We use standard contractual clauses when we transfer data to other YouGov Group companies and for transfers to recipients that are neither Privacy Shield certified nor located in a country covered by an adequacy decision (see below).</li>
+	<li><strong>EU-US Privacy Shield:</strong> the Privacy Shield is a program agreed between the EU and US which aims to protect the personal data of anyone in the EU when it is transferred to the US by placing data protection obligations on US companies that receive personal data from the EU.&nbsp; YouGov may rely on these safeguards when transferring data to companies based in the US where those companies are Privacy Shield certified.</li>
+	<li><strong>Adequacy decisions:</strong> where the&nbsp;European Commission has determined that a country outside the EU offers&nbsp;an adequate level of data protection, personal data may be sent to that third country without implementing any other safeguards mentioned above.&nbsp; YouGov may rely on adequacy decisions when transferring data to companies based in countries where such assurances have been given.</li>
+</ul>
+
+<p>Please contact us using the details at the end of this notice for more information about the protections that we put in place and to obtain a copy of the relevant documents.</p>
+
+<p><strong>How we store and protect your personal data</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width: 601px;">
+			<p>We know how important it is to protect your personal data while we have it.&nbsp; This section describes some of the measures we take to ensure that it is kept secure</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>We do everything we can to protect your personal data from loss or misuse, and from unauthorized access, disclosure, alteration and destruction.&nbsp; This section describes some of the measures we take to ensure that your personal data is secure:</p>
+
+<ul>
+	<li>We use data centres that have a high level of physical security measures to host and protect your data and our systems;</li>
+	<li>We conduct independent penetration tests on an annual basis and are continuously scanning our systems and applications for vulnerabilities in our systems; if you ever think that you have found a security issue or vulnerability in one of our systems please let us know at <a href="mailto:security@yougov.com">security@yougov.com</a>;</li>
+	<li>We use encryption to secure your personal data whilst it is in transit using TLS and in storage using AES256 encryption;</li>
+	<li>We allow access to attributable data (by which we mean data that directly identifies you) only to those YouGov employees who need it to carry out their job responsibilities, for example our support team to allow them to respond to you when you contact us;</li>
+	<li>We make security the responsibility of all our employees and we train our staff to identify security risks and protect your data.</li>
+</ul>
+
+<p>Our website may from time to time contain links to and from other websites. &nbsp;If you follow a link to any of those websites, please note that those websites ought to have their own privacy notices and that we do not accept any responsibility or liability for those websites. &nbsp;Please check those privacy notices before you submit your information to those websites.</p>
+
+<p><strong>Emails and notifications</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width: 601px;">
+			<p>This section explains the choices you have when it comes to emails and notifications we may send to you</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>If you register as a YouGov panellist, it is integral to your participation that we are able to send you emails and notifications inviting you to participate in research projects, which could be conducted online via survey, by downloading a mobile app, or in person. &nbsp;By its nature most of our research is time-sensitive, and without the ability to notify you that we would like your opinion you’ll be at a disadvantage to other panellists because you’ll miss out on opportunities to share your opinion and earn points.</p>
+
+<p>If you would prefer not to receive these service messages, you will need to withdraw from the panel entirely.</p>
+
+<p>Separately, we may want to send you emails and notifications when your opinions feature in the news, or to encourage you to refer your friends and family to join too. You can opt out of these communications at any time on your <a href="http://yougov.co.uk/account/permissions">Account page</a> on the website.</p>
+
+<p>In relation to all the emails and notifications mentioned above, we rely on our legitimate interest in running our research operation – and ensuring our panellists are adequately informed about their account with us – as the legal grounds for this processing.</p>
+
+<p><a name="_7.0_Cookies_and"></a><strong>Cookies and similar technologies</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width: 601px;">
+			<p>We use “cookies” to improve your experience as you use our website and mobile apps.&nbsp; This section tells you about the cookies that we use, what they do and your choices when it comes to cookies</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>Cookies are small data files that allow a website to collect and store a range of data on your desktop computer, laptop or mobile device.&nbsp; We use cookies and similar technologies, such as tags and pixels (“cookies”) to help us to provide features and functionality on our websites and mobile apps and generally improve the way they work.&nbsp; We use both cookies that YouGov sets (called ‘first party cookies’) and third party cookies (which are not set by YouGov, but by other websites with YouGov’s permission).</p>
+
+<p><strong><em>YouGov cookies</em></strong></p>
+
+<p>YouGov uses cookies to enable you to navigate our website and to use its features, and to collect information about your choices and preferences, which allows us to customise the website, for example by remembering your preferred language.&nbsp; The table below lists and describes the first party cookies that we are placed on our website.&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width: 661px;" width="0">
+	<tbody>
+		<tr>
+			<td style="width: 116px;">
+			<p><strong>Cookie name</strong></p>
+			</td>
+			<td style="width: 545px;">
+			<p><strong>What this cookies is used for</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 116px;">
+			<p>ygtrk</p>
+			</td>
+			<td style="width: 545px;">
+			<p>When this cookie has been placed on our website and those of our clients, we can use it to understand when you have visited those websites, or seen an online advertisement.&nbsp; We use this information, in combination with your survey responses, to help our clients understand if they have directed their advertising efforts at the right kinds of people, and may subsequently invite you to take part in our research activities for those clients.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 116px;">
+			<p>surveypopup</p>
+			</td>
+			<td style="width: 545px;">
+			<p>This cookie enables us to present you with a relevant pop-up message when you return to the website after completing a survey</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 116px;">
+			<p>sessionid</p>
+			</td>
+			<td style="width: 545px;">
+			<p>This cookie allows us to recognise you during your use of our website</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 116px;">
+			<p>ygmsg</p>
+			</td>
+			<td style="width: 545px;">
+			<p>This cookie allows us to provide you with feedback messages, such as authentication errors, with an external partner like Facebook</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 116px;">
+			<p>django_language</p>
+			</td>
+			<td style="width: 545px;">
+			<p>This cookie enables us to ensure that we can display content in the correct language, according to your preference</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 116px;">
+			<p>Csrftoken</p>
+			</td>
+			<td style="width: 545px;">
+			<p>This cookie is associated with the Django web development platform, and is designed to protect a website against software attacks on web forms</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 116px;">
+			<p>termsaccepted</p>
+			</td>
+			<td style="width: 545px;">
+			<p>This cookie tells us when you have accepted our cookie alert so that we do not repeatedly show you the same message</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><strong><em>Third party cookies</em></strong></p>
+
+<p>The table below lists and describes the third party cookies that we are placed on our website and mobile apps.&nbsp; You can learn more about the cookies we use by clicking on the links provided below.</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width: 661px;" width="0">
+	<tbody>
+		<tr>
+			<td style="width: 114px;">
+			<p><strong>Cookie type</strong></p>
+			</td>
+			<td style="width: 282px;">
+			<p><strong>What these cookies are used for</strong></p>
+			</td>
+			<td style="width: 265px;">
+			<p><strong>Cookies we use to achieve this</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">
+			<p>Analytics cookies</p>
+			</td>
+			<td style="width: 282px;">
+			<p>We use analytics cookies to understand how you use our websites and mobile apps so we can monitor performance and ultimately improve them.&nbsp; For example, by understanding how you use certain features and pages on the YouGov website, we can identify and fix page errors and improve the design and navigation of the website.</p>
+			</td>
+			<td style="width: 265px;">
+			<p><a href="https://newrelic.com/">New Relic</a></p>
+
+			<p><a href="https://www.google.com/webmasters/">Google Search Console</a></p>
+
+			<p><a href="https://itunesconnect.apple.com/">iTunes Connect iOS</a></p>
+
+			<p><a href="https://marketingplatform.google.com/intl/en_uk/about/optimize/">Google Optimize</a></p>
+
+			<p><a href="https://www.hotjar.com/">Hotjar</a></p>
+
+			<p><a href="https://www.google-analytics.com/">Google Analytics</a> (website and apps)</p>
+
+			<p><a href="https://www.google.com/analytics/tag-manager/">Google Tag Manager</a> (website and apps)</p>
+
+			<p><a href="https://console.firebase.google.com/">Google Firebase</a> (apps only)</p>
+
+			<p><a href="https://www.fabric.io/">Fabric</a> (apps only)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">
+			<p>Advertising&nbsp; cookies</p>
+			</td>
+			<td style="width: 282px;">
+			<p>Cookies can also be used to deliver online ads and to track ad campaign performance and efficiency.&nbsp; The marketing cookies on our website collect information about your online browsing activity, such as the pages you have viewed, and use that information to create relevant online ads that you will see on third party websites.</p>
+			</td>
+			<td style="width: 265px;">
+			<p><a href="https://www.criteo.com/privacy/">Criteo</a></p>
+
+			<p><a href="https://www.facebook.com/about/privacy/update/">Facebook</a></p>
+
+			<p><a href="https://policies.google.com/technologies/ads?hl=en-GB&amp;gl=uk">Google DoubleClick</a></p>
+
+			<p><a href="https://policies.google.com/technologies/ads?hl=en-GB&amp;gl=uk">Google DoubleClick Counter</a></p>
+
+			<p><a href="https://policies.google.com/technologies/ads?hl=en-GB&amp;gl=uk">Google Adwords</a></p>
+
+			<p><a href="https://policies.google.com/technologies/ads?hl=en-GB&amp;gl=uk">Google Remarketing</a></p>
+
+			<p><a href="https://twitter.com/privacy">Twitter</a></p>
+
+			<p><a href="https://www.linkedin.com/legal/privacy-policy">LinkedIn</a></p>
+
+			<p><a href="https://www.marketo.com/company/legal/">Marketo</a></p>
+
+			<p><a href="https://www.adition.com/en/">Adition</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">
+			<p>Communication cookies</p>
+			</td>
+			<td style="width: 282px;">
+			<p>We rely of certain cookies to communicate with you, and you with us.&nbsp; For example, the ‘Support’ button on our website, and the ability for you to comment on our online content are both powered by cookies.</p>
+			</td>
+			<td style="width: 265px;">
+			<p><a href="https://www.zendesk.com/">Zendesk</a></p>
+
+			<p><a href="https://disqus.com/">Disqus</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">Partner cookies</td>
+			<td style="width: 282px;">
+			<p>These cookies allow our partners to combine your survey data with their own data using common online identifiers.&nbsp; Our partners use this data to create and improve their products and services, and to create audiences for advertisers to target with more relevant communications and propositions.</p>
+
+			<p>You can find more information, including how you can opt-out of this activity, in the ‘Uses of personal data for advanced research and modelling’ section of this privacy notice.</p>
+			</td>
+			<td style="width: 265px;">
+			<p><a href="https://www.eyeota.com/privacy-policy/" target="_blank">Eyeota</a></p>
+
+			<p><a href="https://www.groupm.com/mplatform-privacy-policy" target="_blank">mPlatform</a>, part of GroupM</p>
+
+			<p><a href="https://site.adform.com/privacy-center/platform-privacy/product-and-services-privacy-policy/" target="_blank">Adform</a></p>
+
+			<p><a href="https://www.semasio.com/privacy">Semasio</a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><a name="Cookie_choices"><strong><em>Your choices when it comes to cookies</em></strong></a></p>
+
+<p>When you accessed this website you were presented with an alert that notified you of our use of cookies.&nbsp; If you continue to use the website you are agreeing to the use of the cookies described in this notice.&nbsp; However, you can use your browser settings to accept or reject new cookies and to delete existing cookies.&nbsp; The ‘Help’ function within your browser should tell you how, and you can find more about how you can delete and manage cookies at <a href="http://www.allaboutcookies.org/">http://www.allaboutcookies.org/</a>.&nbsp; If you are primarily concerned about third party advertising cookies, you can turn these off by going to Your Online Choices at <a href="http://www.youronlinechoices.com/uk/your-ad-choices">http://www.youronlinechoices.com/uk/your-ad-choices</a>.</p>
+
+<p>You should be aware that restricting the use of cookies may mean that you will not be able to take full advantage of all the features or services available on this website.</p>
+
+<p><strong><em>Email tracking</em></strong></p>
+
+<p>Some of the emails we send to you may contain a ‘web beacon pixel’ or tracked links which allows us to identify when you have opened the email and to verify which links contained in the email you have accessed.&nbsp; We use this information to determine which parts of our emails are of most interest to you.</p>
+
+<p>You can delete the pixel by deleting the email.&nbsp; If you do not wish to download the pixel to your computer or other device you can unsubscribe from our mailing list at any time on your <a href="http://yougov.co.uk/account/permissions">Account page</a> on our website.</p>
+
+<p><a name="Your_rights"></a><strong>Your rights</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width: 601px;">
+			<p>This section explains the rights that you have in relation to the personal data that we hold about you</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>You have certain rights in relation to the personal data that we hold about you, which are designed to give you more choice and control over your personal data.&nbsp; These rights are explained below.</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width: 601px;" width="0">
+	<tbody>
+		<tr>
+			<td style="width: 170px;">
+			<p><strong>Right</strong></p>
+			</td>
+			<td style="width: 283px;">
+			<p><strong>What does this mean?</strong></p>
+			</td>
+			<td style="width: 148px;">
+			<p><strong>Is it available to you?</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 170px;">
+			<p>The right to request access to personal data</p>
+			</td>
+			<td style="width: 283px;">
+			<p>You can request a copy of the data we hold about you and related information</p>
+			</td>
+			<td style="width: 148px;">
+			<p>Yes</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 170px;">
+			<p>The right to request rectification of personal data</p>
+			</td>
+			<td style="width: 283px;">
+			<p>You can ask us to correct any inaccurate data about you and to complete any incomplete data that we hold about you</p>
+			</td>
+			<td style="width: 148px;">
+			<p>Yes</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 170px;">
+			<p>The right to request erasure of personal data</p>
+			</td>
+			<td style="width: 283px;">
+			<p>You can request that we delete the personal data we hold about you</p>
+			</td>
+			<td style="width: 148px;">
+			<p>Yes, in certain situations</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 170px;">
+			<p>The right to request a restriction on processing of personal data</p>
+			</td>
+			<td style="width: 283px;">
+			<p>You can request that we restrict our use of your data to storage only, that we stop using it for all other purposes or that we retain data that was due for deletion.</p>
+			</td>
+			<td style="width: 148px;">
+			<p>Yes, in certain situations</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 170px;">
+			<p>The right to object to the processing of personal data</p>
+			</td>
+			<td style="width: 283px;">
+			<p>You can object to certain types of processing of your personal data in certain specific circumstances</p>
+			</td>
+			<td style="width: 148px;">
+			<p>Yes, in certain situations</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 170px;">
+			<p>The right of data portability</p>
+			</td>
+			<td style="width: 283px;">
+			<p>You have the right to receive a copy of your personal data in a structured and machine-readable format and, where possible, have this sent to another organisation</p>
+			</td>
+			<td style="width: 148px;">
+			<p>Generally, no.&nbsp; This is because almost all our processing activities rely on the grounds of our ‘legitimate interests’ to lawfully process your personal data.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><em>Automated decision making</em></strong></p>
+
+<p>We do not envisage that any decisions that will have a legal or other significant effect on you will be taken about you using purely automated means, however we will update this notice if this position changes and notify you of those changes.</p>
+
+<p><strong><em>Exercising your rights</em></strong></p>
+
+<p>You can exercise any of these rights by using the contact details below.&nbsp; Once you have submitted your request we may contact you to request further information to authenticate your identity (because we want to make sure it is actually you requesting your data) or to help us to respond to your request.&nbsp; Except in rare cases, we will respond to you within 1 month of receiving this information or, where no such information is required, after we have received full details of your request.&nbsp; As noted above, while some rights apply generally, some are only available in certain circumstances, so if we feel that any right is not available to you we will let you know along with the reason for our decision.</p>
+
+<p>Email:&nbsp;&nbsp;&nbsp; <a href="mailto:your.rights@yougov.com">your.rights@yougov.com</a></p>
+
+<p style="margin-left: 36.0pt;">Mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Data Protection Officer</p>
+
+<p style="margin-left: 36.0pt;">YouGov Plc</p>
+
+<p style="margin-left: 36.0pt;">50 Featherstone Street<br>
+London<br>
+EC1Y 8RT<br>
+United Kingdom</p>
+
+<p><strong><em>Lodging a complaint with a regulator </em></strong></p>
+
+<p>You have the right to lodge a complaint with a data protection regulator in Europe, in particular in a country you work or live, where your legal rights have been infringed or where your personal information has or is being used in a way that you believe does not comply with data. The contact details for the Information Commissioner’s Office (“ICO”), the UK’s independent regulatory body that upholds information rights, are available on <a href="https://ico.org.uk/concerns/">their website, which also contains details on how to make a complaint</a>.&nbsp; However, we encourage you to contact us before making any complaint and we will seek to resolve any issues or concerns you may have.</p>
+
+<p><strong>How to contact us</strong></p>
+
+<p>If you have questions about this notice, or about how we collect, store and use personal data, you can contact our Data Protection Officer.</p>
+
+<p>Email:&nbsp;&nbsp;&nbsp; <a href="mailto:dataprotection@yougov.com">dataprotection@yougov.com</a></p>
+
+<p style="margin-left: 36.0pt;">Mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Data Protection Officer</p>
+
+<p style="margin-left: 36.0pt;">YouGov Plc</p>
+
+<p style="margin-left: 36.0pt;">50 Featherstone Street<br>
+London<br>
+EC1Y 8RT<br>
+United Kingdom</p>
+
+<p>If you have any questions, concerns or feedback of a more general nature, please contact the Panel Manager <a href="https://yougov.zendesk.com/hc/en-us/requests/new">via our Help Center</a>, or at:</p>
+
+<p>Mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Panel Manager</p>
+
+<p style="margin-left: 36.0pt;">YouGov plc</p>
+
+<p style="margin-left: 36.0pt;">50 Featherstone Street<br>
+London<br>
+EC1Y 8RT<br>
+United Kingdom</p>
+
+<p><strong>Updates to this notice</strong></p>
+
+<p>This notice was last updated on the date that appears at the beginning of the notice.&nbsp;</p>
+
+<p>While we reserve the right to change this notice at any time, if any material changes are made we will provide notice to you via email or any other appropriate means to give you the opportunity to review the changes before they become effective.</p>
+
+<p>If you object to any future changes, you may&nbsp;close your account by going to your <a href="http://yougov.co.uk/account/permissions">Account page</a> and clicking ‘unsubscribe’.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Effective</strong>: 23&nbsp;May 2018</p>
+
+<p class="MsoNormal">&nbsp;</p>
+<style>
+    @media (max-width: 1059px) {
+        .unified .col-1 {
+            transform: none;
+        }
+
+       .unified .layout-1 .col-1 {
+          padding: 0 10px;
+       }
+    }
+
+    .tc-action-buttons-wrapper {
+        display: flex;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 44px;
+        background: #fff;
+        z-index: 300;
+        box-shadow: 0 1px 5px 0 rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.12)
+    }
+
+    .tc-action-buttons-wrapper.hidden {
+        display: none;
+    }
+
+    .agree,
+    .disagree {
+        width: 50%;
+        font-size: 17px;
+        font-weight: 300;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        border: none;
+    }
+
+    .agree {
+        background: #ee2e27;
+        color: #fff;
+    }
+
+    .agree:active {
+        background: #d22f29;
+        color: #e1e1e1;
+    }
+
+    .disagree {
+        background: #fff;
+        color: #ee2e27;
+    }
+
+    .disagree:active {
+        background: #f6f6f6;
+        color: #d22f29;
+    }
+</style>
+
+<div class="tc-action-buttons-wrapper hidden"></div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        if (window.terms_and_conditions) {
+            var container = $('.tc-action-buttons-wrapper').removeClass('hidden');
+            Object.keys(window.terms_and_conditions)
+                .sort()
+                .forEach(function (key) {
+                    var data = window.terms_and_conditions[key];
+
+                    $('<button></button>')
+                        .addClass(key)
+                        .text(data.label)
+                        .on('click', function() {
+                            location.href = data.url;
+                        })
+                        .prependTo(container);
+                });
+        }
+    }, false)
+
+</script>
+
+
+            </div>
+            <div class="col-3">
+                
+
+
+<div class="yougov-in-the-news">
+    <div class="box-header">YouGov in the news</div>
+    <ul>
+        
+        <li class="clearfix">
+            <div class="news-thumbnail pull-left">
+                <img src="//d18lkz4dllo6v2.cloudfront.net/cumulus_uploads/newssource/City A.M./City AM.jpg?w=15" title="City A.M.">
+            </div>
+            <div class="news-wrapper pull-left">
+                <div class="news-name">
+                    <a href="http://www.cityam.com/265809/customers-stay-sweet-cadburys-despite-low-tax-owner-" target="_blank" rel="noopener">City A.M.</a>
+                </div>
+                <div class="news-content">
+                    <a href="http://www.cityam.com/265809/customers-stay-sweet-cadburys-despite-low-tax-owner-" target="_blank" rel="noopener" class="link-dark">Customers stay sweet on Cadbury’s despite low-tax owner</a>
+                </div>
+            </div>
+        </li>
+        
+        <li class="clearfix">
+            <div class="news-thumbnail pull-left">
+                <img src="//d18lkz4dllo6v2.cloudfront.net/cumulus_uploads/newssource/Metro/Metro Logo.png?w=15" title="Metro">
+            </div>
+            <div class="news-wrapper pull-left">
+                <div class="news-name">
+                    <a href="https://metro.co.uk/2018/10/18/we-cant-get-through-a-meal-without-checking-our-phones-study-reveals-8050360/" target="_blank" rel="noopener">Metro</a>
+                </div>
+                <div class="news-content">
+                    <a href="https://metro.co.uk/2018/10/18/we-cant-get-through-a-meal-without-checking-our-phones-study-reveals-8050360/" target="_blank" rel="noopener" class="link-dark">We can’t get through a meal without checking our phones, study reveals
+
+
+</a>
+                </div>
+            </div>
+        </li>
+        
+        <li class="clearfix">
+            <div class="news-thumbnail pull-left">
+                <img src="//d18lkz4dllo6v2.cloudfront.net/cumulus_uploads/newssource/The Telegraph/Telegraph.png?w=15" title="The Telegraph">
+            </div>
+            <div class="news-wrapper pull-left">
+                <div class="news-name">
+                    <a href="https://www.telegraph.co.uk/news/2018/10/17/people-cant-get-meal-without-checking-mobile-phone-yougov-survey/" target="_blank" rel="noopener">The Telegraph</a>
+                </div>
+                <div class="news-content">
+                    <a href="https://www.telegraph.co.uk/news/2018/10/17/people-cant-get-meal-without-checking-mobile-phone-yougov-survey/" target="_blank" rel="noopener" class="link-dark">Most people can't get through a meal without checking their mobile phone, YouGov survey finds</a>
+                </div>
+            </div>
+        </li>
+        
+        <li class="clearfix">
+            <div class="news-thumbnail pull-left">
+                <img src="//d18lkz4dllo6v2.cloudfront.net/cumulus_uploads/newssource/Express/Express_logo.gif?w=15" title="Express">
+            </div>
+            <div class="news-wrapper pull-left">
+                <div class="news-name">
+                    <a href="https://www.express.co.uk/news/weather/1016464/met-Office-storm-names-weather-forecast-uk-national-hurricane-center" target="_blank" rel="noopener">Express</a>
+                </div>
+                <div class="news-content">
+                    <a href="https://www.express.co.uk/news/weather/1016464/met-Office-storm-names-weather-forecast-uk-national-hurricane-center" target="_blank" rel="noopener" class="link-dark">Met Office storm names: UK Storm names for 2018-19 revealed </a>
+                </div>
+            </div>
+        </li>
+        
+        <li class="clearfix">
+            <div class="news-thumbnail pull-left">
+                <img src="//d18lkz4dllo6v2.cloudfront.net/cumulus_uploads/newssource/Metro/Metro Logo.png?w=15" title="Metro">
+            </div>
+            <div class="news-wrapper pull-left">
+                <div class="news-name">
+                    <a href="https://metro.co.uk/2018/09/12/one-in-five-young-adults-think-we-will-all-be-vegans-by-2030-7934759/" target="_blank" rel="noopener">Metro</a>
+                </div>
+                <div class="news-content">
+                    <a href="https://metro.co.uk/2018/09/12/one-in-five-young-adults-think-we-will-all-be-vegans-by-2030-7934759/" target="_blank" rel="noopener" class="link-dark">One in five young adults think we will all be vegans by 2030</a>
+                </div>
+            </div>
+        </li>
+        
+    </ul>
+</div>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    
+    
+
+    
+
+
+                </div>
+            </div>
+
+            <a class="exit-off-canvas left-off-canvas-toggle-phone hidden"></a>
+
+            <yg-marketo-email-check></yg-marketo-email-check>
+
+            
+    
+        
+    
+        
+                <div cookie-confirm=""></div>
+            
+    
+
+    
+
+
+            
+                
+                    
+<footer class="px-site-footer">
+    <section>
+        <header class="header">
+            <h5 class="main-label">What the world thinks</h5>
+        </header>
+        <hr class="separator mobile-hide">
+        <section class="main-container">
+            <section class="about mobile-hide">
+    <h6 class="column-title">About YouGov</h6>
+    <p class="content">
+        At the heart of our company is a global online community, where millions of people and thousands of political, cultural and commercial organisations engage in a continuous conversation about their beliefs, behaviours and brands.
+    </p>
+    <ul class="icons">
+        <li class="icon">
+            
+                
+                    <a href="https://www.facebook.com/YouGov" rel="noopener" target="_blank">
+                        <svg width="8" height="14" viewBox="0 0 8 14">
+                            <path fill-rule="nonzero" d="M7.179.1C6.954.066 6.182 0 5.284 0 3.406 0 2.12 1.147 2.12 3.249v1.81H0v2.46h2.119v6.306H4.66V7.52h2.11l.324-2.46H4.661V3.49c0-.706.191-1.196 1.213-1.196H7.18V.1z"></path>
+                        </svg>
+                    </a>
+                
+                
+                
+                
+                
+                
+            
+                
+                
+                    <a href="https://twitter.com/YouGov" rel="noopener" target="_blank">
+                        <svg width="13" height="11" viewBox="0 0 13 11">
+                            <path fill-rule="nonzero" d="M13 1.254a5.342 5.342 0 0 1-1.534.412c.552-.33.973-.85 1.171-1.468a5.245 5.245 0 0 1-1.69.643A2.658 2.658 0 0 0 8.998 0a2.663 2.663 0 0 0-2.664 2.664c0 .207.025.413.066.61A7.573 7.573 0 0 1 .907.488a2.662 2.662 0 0 0 .825 3.563 2.684 2.684 0 0 1-1.204-.338v.033c0 1.295.916 2.367 2.136 2.615-.222.058-.462.09-.7.09-.174 0-.339-.016-.504-.04a2.669 2.669 0 0 0 2.491 1.847A5.336 5.336 0 0 1 .643 9.395c-.222 0-.429-.008-.643-.033a7.529 7.529 0 0 0 4.091 1.196c4.9 0 7.581-4.058 7.581-7.58 0-.116 0-.231-.008-.347.52-.38.973-.85 1.336-1.377z"></path>
+                        </svg>
+                    </a>
+                
+                
+                
+                
+                
+            
+                
+                
+                
+                
+                
+                    <a href="https://www.instagram.com/yougovuk/" rel="noopener" target="_blank">
+                        <svg width="16" height="16" viewBox="8 8 16 16">
+                            <path d="M19,8 C21.761,8 24,10.239 24,13 L24,19 C24,21.761 21.761,24 19,24 L13,24 C10.239,24 8,21.761 8,19 L8,13 C8,10.239 10.239,8 13,8 L19,8 Z M22.5,19 L22.5,13 C22.5,11.07 20.93,9.5 19,9.5 L13,9.5 C11.07,9.5 9.5,11.07 9.5,13 L9.5,19 C9.5,20.93 11.07,22.5 13,22.5 L19,22.5 C20.93,22.5 22.5,20.93 22.5,19 Z M16,12 C18.209,12 20,13.791 20,16 C20,18.209 18.209,20 16,20 C13.791,20 12,18.209 12,16 C12,13.791 13.791,12 16,12 Z M16,18.5 C17.378,18.5 18.5,17.378 18.5,16 C18.5,14.621 17.378,13.5 16,13.5 C14.622,13.5 13.5,14.621 13.5,16 C13.5,17.378 14.622,18.5 16,18.5 Z M20.3,12.233 C20.0056322,12.233 19.767,11.9943678 19.767,11.7 C19.767,11.4056322 20.0056322,11.167 20.3,11.167 C20.5943678,11.167 20.833,11.4056322 20.833,11.7 C20.833,11.9943678 20.5943678,12.233 20.3,12.233 Z"></path>
+                        </svg>
+                    </a>
+                
+                
+            
+                
+                
+                
+                
+                
+                
+                    <a href="https://yougov.co.uk/news/feeds/latest/" rel="noopener" target="_blank">
+                        <svg width="12" height="12" viewBox="0 0 12 12">
+                            <path fill-rule="nonzero" d="M3.272 10.363A1.637 1.637 0 1 1 0 10.362a1.637 1.637 0 0 1 3.273 0zm4.364 1.048a.551.551 0 0 1-.145.41.519.519 0 0 1-.4.178H5.94a.538.538 0 0 1-.537-.494A5.453 5.453 0 0 0 .494 6.596.538.538 0 0 1 0 6.06V4.91c0-.154.06-.299.179-.4a.523.523 0 0 1 .366-.146h.043a7.654 7.654 0 0 1 4.815 2.233 7.654 7.654 0 0 1 2.233 4.815zm4.363.017a.52.52 0 0 1-.153.4.522.522 0 0 1-.392.171h-1.219a.543.543 0 0 1-.545-.511A9.756 9.756 0 0 0 .51 2.3.54.54 0 0 1 0 1.764V.545C0 .392.06.255.17.153A.529.529 0 0 1 .545 0h.026a11.999 11.999 0 0 1 7.9 3.528 11.999 11.999 0 0 1 3.528 7.9z"></path>
+                        </svg>
+                    </a>
+                
+            
+        </li>
+    </ul>
+</section>
+<section class="company mobile-hide">
+    <h6 class="column-title">Company</h6>
+    <ul class="menu">
+        
+        <li>
+            <a href="/about/" target="self" rel="noopener">About YouGov</a>
+        </li>
+        
+        <li>
+            <a href="/about/contact-us/" target="self" rel="noopener">Contact Us</a>
+        </li>
+        
+        <li>
+            <a href="https://corporate.yougov.com/" target="blank" rel="noopener">Investor relations</a>
+        </li>
+        
+        <li>
+            <a href="https://yougov.co.uk/about/investors/modern-slavery-act-statement/" target="blank" rel="noopener">Modern slavery act</a>
+        </li>
+        
+    </ul>
+</section>
+<section class="global-sites mobile-hide">
+    <h6 class="column-title">Global Sites</h6>
+    <ul class="menu multi-column">
+        
+        <li>
+            <a class="" href="https://au.yougov.com" target="_blank" rel="noopener">Australia</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://ca.yougov.com/en-CA/" target="_blank" rel="noopener">Canada</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://yougov.dk" target="_blank" rel="noopener">Denmark</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://yougov.fi" target="_blank" rel="noopener">Finland</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://fr.yougov.com" target="_blank" rel="noopener">France</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://yougov.de" target="_blank" rel="noopener">Germany</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://hk.yougov.com/en-hk/" target="_blank" rel="noopener">Hong Kong</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://in.yougov.com/en-hi/" target="_blank" rel="noopener">India</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://id.yougov.com/en-id/" target="_blank" rel="noopener">Indonesia</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://it.yougov.com" target="_blank" rel="noopener">Italy</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://my.yougov.com/en-my/" target="_blank" rel="noopener">Malaysia</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://mx.yougov.com" target="_blank" rel="noopener">Mexico</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://mena.yougov.com/en/" target="_blank" rel="noopener">Middle East</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://yougov.no" target="_blank" rel="noopener">Norway</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://pk.yougov.com/en-ur/" target="_blank" rel="noopener">Pakistan</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://ph.yougov.com/en-ph/" target="_blank" rel="noopener">Philippines</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://pl.yougov.com" target="_blank" rel="noopener">Poland</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://sg.yougov.com/en-sg/" target="_blank" rel="noopener">Singapore</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://es.yougov.com" target="_blank" rel="noopener">Spain</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://yougov.se" target="_blank" rel="noopener">Sweden</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://tw.yougov.com/zh-tw/" target="_blank" rel="noopener">Taiwan</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://th.yougov.com/en-th/" target="_blank" rel="noopener">Thailand</a>
+        </li>
+        
+        <li>
+            <a class="active" href="https://yougov.co.uk" target="_blank" rel="noopener">United Kingdom</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://today.yougov.com" target="_blank" rel="noopener">United States</a>
+        </li>
+        
+        <li>
+            <a class="" href="https://vn.yougov.com" target="_blank" rel="noopener">Vietnam</a>
+        </li>
+        
+    </ul>
+</section>
+
+            <section class="about mobile-show">
+    <p class="content">
+        At the heart of our company is a global online community, where millions of people and thousands of political, cultural and commercial organisations engage in a continuous conversation about their beliefs, behaviours and brands.
+    </p>
+</section>
+<section class="company mobile-show">
+    <details>
+        <summary>
+            <div class="column-title">
+                <span>Company</span>
+            </div>
+        </summary>
+        <ul class="menu">
+            
+            <li>
+                <a href="/about/" target="self" rel="noopener">About YouGov</a>
+            </li>
+            
+            <li>
+                <a href="/about/contact-us/" target="self" rel="noopener">Contact Us</a>
+            </li>
+            
+            <li>
+                <a href="https://corporate.yougov.com/" target="blank" rel="noopener">Investor relations</a>
+            </li>
+            
+            <li>
+                <a href="https://yougov.co.uk/about/investors/modern-slavery-act-statement/" target="blank" rel="noopener">Modern slavery act</a>
+            </li>
+            
+        </ul>
+    </details>
+</section>
+<section class="global-sites mobile-show">
+    <details>
+        <summary>
+            <div class="column-title">
+                <span>Global Sites</span>
+            </div>
+        </summary>
+        <ul class="menu multi-column">
+            
+            <li>
+                <a class="" href="https://au.yougov.com" target="_blank" rel="noopener">Australia</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://ca.yougov.com/en-CA/" target="_blank" rel="noopener">Canada</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://yougov.dk" target="_blank" rel="noopener">Denmark</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://yougov.fi" target="_blank" rel="noopener">Finland</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://fr.yougov.com" target="_blank" rel="noopener">France</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://yougov.de" target="_blank" rel="noopener">Germany</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://hk.yougov.com/en-hk/" target="_blank" rel="noopener">Hong Kong</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://in.yougov.com/en-hi/" target="_blank" rel="noopener">India</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://id.yougov.com/en-id/" target="_blank" rel="noopener">Indonesia</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://it.yougov.com" target="_blank" rel="noopener">Italy</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://my.yougov.com/en-my/" target="_blank" rel="noopener">Malaysia</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://mx.yougov.com" target="_blank" rel="noopener">Mexico</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://mena.yougov.com/en/" target="_blank" rel="noopener">Middle East</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://yougov.no" target="_blank" rel="noopener">Norway</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://pk.yougov.com/en-ur/" target="_blank" rel="noopener">Pakistan</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://ph.yougov.com/en-ph/" target="_blank" rel="noopener">Philippines</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://pl.yougov.com" target="_blank" rel="noopener">Poland</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://sg.yougov.com/en-sg/" target="_blank" rel="noopener">Singapore</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://es.yougov.com" target="_blank" rel="noopener">Spain</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://yougov.se" target="_blank" rel="noopener">Sweden</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://tw.yougov.com/zh-tw/" target="_blank" rel="noopener">Taiwan</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://th.yougov.com/en-th/" target="_blank" rel="noopener">Thailand</a>
+            </li>
+            
+            <li>
+                <a class="active" href="https://yougov.co.uk" target="_blank" rel="noopener">United Kingdom</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://today.yougov.com" target="_blank" rel="noopener">United States</a>
+            </li>
+            
+            <li>
+                <a class="" href="https://vn.yougov.com" target="_blank" rel="noopener">Vietnam</a>
+            </li>
+            
+        </ul>
+    </details>
+</section>
+
+        </section>
+        <hr class="separator">
+        <footer class="footer">
+            <p class="copyright">Copyright © 2018 YouGov PLC. All Rights Reserved.</p>
+            <ul class="menu">
+                
+                <li class="item">
+                    <a href="/about/privacy/" target="self" rel="noopener">Privacy</a>
+                </li>
+                
+                <li class="item">
+                    <a href="/about/terms-conditions/" target="self" rel="noopener">Terms and Conditions</a>
+                </li>
+                
+                <li class="item">
+                    <a href="/about/cookies/" target="self" rel="noopener">Cookie Policy</a>
+                </li>
+                
+            </ul>
+        </footer>
+    </section>
+</footer>
+
+
+                
+            
+
+            
+    
+    
+                <script src="https://www.google.com/recaptcha/api.js?render=explicit" async="" defer=""></script>
+                <script>
+                    window.angular_data = {};
+                    window.angular_data.opigramEnabled = false;
+
+                    
+                        angular_data.registration_accept_terms_type = "registrationWithAcceptTerms";
+                    
+
+                    
+                        angular_data.recaptcha_site_key = "6LdWgF8UAAAAANbaAxdOQU3NY1thw6hMbg1B1l1R";
+                    
+
+                    
+                        angular_data.public_api_prefix = "/_pubapis/v5";
+                    
+
+                    
+                        angular_data.public_api_region = "uk";
+                    
+
+                    
+                        angular_data.hyperwallet_api_prefix = "https://api.paylution.com";
+                    
+
+                    
+                        angular_data.mobile_ad_display_frequency = 10/100;
+                    
+
+                    angular_data.new_page = true;
+                    angular_data.new_panel = true;
+
+                    window.angular_data.mobile_app_ids = {
+                        ios: "1154082222",
+                        android: "com.yougov.mobile.online",
+                    };
+
+                    window.angular_data.i18n = {"chapters": {"congratulations": "<strong>Congratulations!</strong>", "titleCompleted": "Chapter %s completed!", "completed": "You've completed all %s chapters - click below to get your hands on %s cash!", "email": "We'll invite you to the next chapter by email tomorrow!", "redeem": "Redeem %s", "description": "You're on your way to %s in cash.", "title": "You've completed %s of %s chapters!"}, "electionsProjectionsPlot": {"tooltip": {"high": "High", "low": "Low", "est": "Est."}}, "marketo": {"businessEmailError": "Please use a business email address.", "popup": {"title": "Would you like to know more about", "contact": "or call now for more info %s", "header": "Leave details below and one of our team will be in touch within 24 hours"}, "pleaseWait": "Please wait"}, "profilesLiteBanner": {"search": "Search...", "profiles": "Profiles", "contentText": "Search for any brand, celebrity or thing and find out about their customers"}, "ratings": {"notFound": "Not found", "addMoreRatings": "Add more ratings"}, "search": {"topics": "TOPICS:", "tryDiffTerm": "Try typing a different term...", "goToPage": "Go to page", "seeMore": "See more", "of": "of", "relatedArticles": "Related articles", "suggested_topics": "Suggested Topics:", "suggestedPages": "Suggested YouGov topic pages:", "relatedPdfs": "Related PDFs", "topHits": "Top hits:", "pages": "PAGES:"}, "mobileAd": {"downloadApp": "Download the new <strong>YouGov app</strong>", "additionalInfo": "to get notifications for paid surveys and take your next survey on your smartphone!"}, "reportToYougov": {"success_message": "Opinion reported", "question_text": "Are you sure?", "error_message": "Sorry, try again"}, "general": {"next": "Next", "attitudes": "Attitudes", "change": "Change", "previous": "Previous", "savedSuccessfully": "Changes saved successfully!", "noResults": "No results", "dontLike": "Don't like", "report": "Report", "ratings": "Ratings", "mildlyAgree": "Mildly agree", "cancel": "Cancel", "loadMore": "Load more", "done": "Done", "by": "by", "reallyDontLike": "Really don't like", "facts": "Facts", "commonLikes": "Common rarest likes", "reallyLike": "Really like", "no": "No", "since": "since", "opinions": "Opinions", "noThanks": "No thanks", "more": "More", "reviews": "Reviews", "total": "Total", "respond": "Respond", "like": "Like", "in": "in", "ok": "OK", "close": "Close", "typeHere": "Type here...", "surveys": "Surveys", "addNew": "Add new", "return": "Return", "mildlyDisagree": "Mildly disagree", "stronglyDisagree": "Strongly disagree", "strongInterests": "Strong interests", "topInterests": "Top interests", "member": "Member", "stronglyAgree": "Strongly agree", "otherInterests": "Other interests", "type": "Type", "yes": "Yes", "and": "and", "commonDislikes": "Common rarest dislikes", "skip": "Skip", "enter": "Enter", "results": "Results", "responses": "Responses"}, "login": {"myPoints": "My points", "notifications": "Notifications", "logout": "Logout", "myAccount": "My account", "join": "+ Join", "header": "Login"}, "rewards": {"seeMoreItems": "See more items", "points": "points", "redeem": "Redeem", "youHaveEnoughPoints": "You have enough points for any of the following items in red. Click to redeem...", "youHave": "You have", "header": "Rewards"}, "dailyEmailSubscribe": {"emailRequired": "Email is required", "incorrectEmail": "Your email format isn\u2019t correct", "subscribe": "Subscribe", "subscribeError": "Error occurred, please try again.", "subscribeSuccess": "Thanks, your subscription has been confirmed.", "enterEmail": "Enter email address"}, "loginRegister": {"register_choose_password": "Choose a password", "login_member_no": "No", "facebook_join": "Join with Facebook", "forgotten_your_password": "Forgotten your password?", "login_whats_next": "What would you like to do next?", "forgotten_password_enter_email": "Email", "login_label": "Login", "as_well_as_into_the": "as well as into the", "consent_use_data": "If you want to sign up, you have to consent to the use of your personal data as described in our", "data_privacy_rules": "data privacy rules", "sign_into_your_account": "Sign into your account...", "dont_ask_me_again": "Don't ask me again", "reset_password_success": "Forgotten your password?", "and_onboarding": "&", "register_thanks": "Thanks for registering!", "want_you": "We want <span>you</span>!", "register_enter_email_onboarding": "E-mail", "terms_of_service_onboarding": "Terms of Service", "ticking_square_on_the_left": "by ticking the square on the left", "register_not_now": "Not now", "reset_password_success_message": "We've sent you an email with a link to reset your password.", "facebook_sign_in": "Sign in with Facebook", "login_member_yes": "Yes", "invalid_email": "Oops: your email format isn\u2019t right", "general_users_agreement": "general user's agreement of the YouGov Online Panel", "connect": "Connect", "email_sign_in": "Sign in with e-mail", "agree_terms": "I agree to the", "opinion_on_issues": "Do you have an opinion on issues like", "invalid_email_and_password": "Oops: your email format isn\u2019t right and you need to enter a password.", "logIn": "Log in", "no_thanks": "No Thanks", "facebook_sign_up": "Sign up with Facebook", "register_you_receive_email": "You\u2019ll now receive an email from us containing a link that you\u2019ll need to click on for us to authenticate you.", "terms_and_conditions": "Terms and Conditions", "login_password_placeholder": "Password", "register_label": "+ Join", "enter_your_email": "Enter your e-mail address below, and we'll e-mail instructions for setting a new one.", "alreadyHaveAccount": "Already have an account?", "okTryOut": "OK then, I\u2019ll try it out", "already_member_login": "I\u2019m already a member of YouGov, log me in", "or_register_with": "or register with", "members_area": "Take me to the members area", "thanks_for_signing_in": "Thanks for signing in!", "or_sign_in_with": "or sign in with", "register_enter_email_info_onboarding": "We will use it only to notify you about new surveys", "agree_terms_onboarding": "I agree to", "register_privacy_policy": "Privacy Policy", "register_ok": "Ok", "joinWithFacebook": "Join with Facebook", "register_enter_email": "Enter your email address", "onBoardingHeader": "Join now", "email_sign_up_onboarding": "Join with Email", "join_yougov_today": "Join YouGov today to make your opinion count!", "login_email_placeholder": "Email", "register_click_emailed_link": "Click on the link and your registration will be complete and you\u2019ll be able to login into the site and create your own profile.", "register_thanks_onboarding": "Thank you for joining!", "earn_cash_and_prizes": "(And guess what, you earn cash and prizes along the way!)", "error_occured_try_again": "Error occurred, please try again", "enter_details_below": "Enter your details below", "login_here": "Login here", "carry_on_answering_questions": "Stay here and carry on answering questions", "register_by_joining_agree": "By joining, you agree to the", "or": "or", "register_choose_password_onboarding": "Password", "login_remember_label": "Keep me signed in", "email_sign_up": "Sign up with e-mail", "join_to_take_part": "Join YouGov today to take part in influential surveys on the big issues of the day.", "reset_my_password": "Reset my password", "already_yougov_member": "Already a member of YouGov.", "professional_services": "View YouGov\u2019s professional services", "register_join_yougov": "Join YouGov to take part in interesting surveys and earn points and rewards!", "invalid_password": "Oops: you need to enter a password at least 6 characters long.", "already_member_register": "I\u2019m not a member of YouGov, register me", "login_are_you_member": "Are you already a member of YouGov?", "sign_in_info": "You need to be signed in as a YouGov member to add your opinion...", "show_me_latest_news": "Show me latest news and polling data", "login_forgot_password": "Forgot your password?", "wouldYouTryYougov": "Would you like to try out being a YouGov member? It\u2019s the most influential opinion community in the country, where you take part in interesting surveys, earn points and cash", "password_remember": "I remember my password, log me in"}, "suggestions": {"clear_text_field": "Clear", "suggest_new": "Suggest a new:", "creating_page": "Creating the page", "wiki_search_info": "Want to share your opinion on something you can't find on YouGov? Then use the search field above to see if we can add it. We use a third-party database that has over 12,834,249 items, so there's a good chance it has what you're looking for. Unfortunately, if it doesn't have it, you're out of luck.", "select_subtypes": "Select subtypes", "select_type_info": "Select the type of thing you want to add in the list below.", "redirecting_to_page": "Redirecting to the page", "item_already_present": "Good news - we have this on YouGov already! Select CONFIRM to continue", "type_to_search_placeholder": "Type to search", "just_checking": "Just checking", "confirm": "CONFIRM", "go_back": "Go back", "suggest_new_item": "Suggest new item", "suggestions_source": {"yougov": "Results from YouGov", "wiki": "Results from Wikipedia"}, "suggest_sth_new": "Suggest something new..."}, "searchCube": {"resultsHeader": "Results", "typeHere": "Type here...", "hotTopicsHeader": "Hot Topics", "learnMoreAboutCube": "Learn more about the YouGov Cube", "header": "Search the YouGov Cube", "moreSuggestions": "More suggestions"}, "opinions": {"typeResponseHere": "Type your response here...", "latestOpinionOn": "Latest opinion on...", "swearError": "Obscene, threatening, abusive or hateful language violates our Terms and Conditions.", "myOpinionFeed": "My opinion feed"}, "permissions": {"saveChanges": "Save changes", "marketing": {"title": "Emails and notifications", "no": "No, thanks", "yes": "Yes, please", "description": "We would like to send you emails and notifications when your opinions feature in the news, or when we have interesting news to share about your YouGov account. Is that OK?"}, "anonymousUse": {"title": "Uses of your data"}, "spd": {"dataAbout": {"politics": "Data about your political opinions", "religion": "Data about your religious or philosophical beliefs", "sex": "Data about your sex life or sexual orientation", "union": "Data about your membership of trade unions", "race": "Data about your racial or ethnic origin", "health": "Data about your health"}, "title": "Special categories of personal data", "selectAll": "Select All", "privacyNotice": "Privacy notice", "description": "We need your specific permission to use your opinion on some special categories of personal data. You can review and edit your consents below. We will only ever use your data as described in our"}, "description": "We\u2019re very grateful that you are prepared to share your opinions with us. They shape the news and improve decisions made by the organisations that serve you. YouGov always has, and always will, treat everything you share with us with the utmost care, and we are committed to protecting your privacy. You can always use this page to control how we use your data.", "title": "Permissions", "giveConsent": {"politics": "By answering this question you will be giving your consent to YouGov using information about your political opinions. You can change this on your Account page at any time.", "religion": "By answering this question you will be giving your consent to YouGov using information about your religious or philosophical beliefs. You can change this on your Account page at any time.", "sex": "By answering this question you will be giving your consent to YouGov using information about your sex life or sexual orientation. You can change this on your Account page at any time.", "union": "By answering this question you will be giving your consent to YouGov using information about your membership of trade unions. You can change this on your Account page at any time.", "race": "By answering this question you will be giving your consent to YouGov using information about your racial or ethnic origin. You can change this on your Account page at any time.", "health": "By answering this question you will be giving your consent to YouGov using information about your health. You can change this on your Account page at any time."}, "unsubscribeFromPanel": "If you\u2019d like to stop receiving survey invites altogether, you will need to unsubscribe from the YouGov panel, which you can do on your account page."}, "correlations": {"correlation": "Correlation", "correlatedWith": "Correlated with"}, "prizeDraw": {"youveEntered": "You\u2019ve now entered %s points for %s Prize Draw Entries.", "confirmEntries": "Are you sure you want to enter %s points for %s Prize Draw Entries?", "receiveEntries": "Receive %s entries  into our monthly prize draw where you can win one of our range of exciting prizes.", "enterPoints": "Enter %s points", "goodLuck": "Good luck!", "header": "Prize draw"}, "yougovDailyAd": {"signUp": "Sign up", "content": "Get the first results from the three topical questions we ask the country every morning.", "header": "YouGov <br/> Daily"}, "surveysIntro": {"moreQuestions": "Answer more questions", "thanks": "Thank you. You have completed the survey and banked your points!", "checkPoints": "Check your points balance", "nextAction": "Would you be interested in answering a few more questions? They cover your attitudes to issues in the news and life in general."}, "lightbox": {"changeAvatar": "Change avatar", "opinionReport": "Opinion report"}, "searchFilters": {"topics": "Topics", "articles": "Web Pages", "pdfs": "PDFs", "dateRange": "Date range", "month": "Past month", "week": "Past week", "all": "All", "year": "Past year", "day": "Past 24 hour", "filters": "Filters"}, "home": {"loginRegisterWidget": {"joinThePanel": "Join the Panel", "alreadyMember": "I\u2019m already a member, log me in"}, "header": {"welcomeToYougov": "Welcome to YouGov", "whatIsYougov": "What is YouGov?", "takePoll": "Take today's poll on", "latest": "Latest", "whatWouldYouLike": "What would you like to do?"}, "whatTopicNext": "What topic would you like to go to next?"}, "opinionsMap": {"tipHeader": "Do you agree or disagree?"}, "siteChooser": {"languagesHeader": "Choose language", "countries": {"pl": "Poland", "it": "Italy", "es": "Spain", "china": "China", "mena": "Middle East &<br /> North Africa", "fr": "France", "fi": "Finland", "uk": "UK", "south_asia": "South Asia", "tw": "Taiwan", "us": "United States", "de": "Germany & Central Europe", "no": "Norway", "asia_pacific": "Asia Pacific", "se": "Sweden", "dk": "Denmark"}, "currentSite": {"tw": "Taiwan", "fr": "France", "se": "Sweden", "de": "Germany", "sg": "Singapore", "fi": "Finland", "dk": "Denmark", "ir": "Iran", "mena": "Middle East & North Africa", "uk": "United Kingdom", "us": "United States", "id": "Indonesia", "in": "India", "es": "Spain", "na": "North Africa", "au": "Australia", "cn": "China", "my": "Malaysia", "pl": "Poland", "ph": "Philippines", "pk": "Pakistan", "vn": "Vietnam", "th": "Thailand", "it": "Italy", "lev": "Middle East", "hk": "HongKong", "asia_pacific": "Asia Pacific", "no": "Norway", "gcc": "GCC"}, "header": "YouGov Global Sites"}, "latestArticles": {"header": "Latest Results"}, "live_survey_results": {"social_bookmarks": {"header_extended": "this survey", "header": "Share"}, "question_results": {"total": "Total", "seeResults": "See Results"}, "surveys_list": {"header": "Latest Live Survey Results"}, "rhs_sideabar": {"header": "Contact"}, "contact_info": {"press_office_header": "Press Office"}, "see_more_on": {"header": "See more on..."}, "surveys_results": {"interim_survey_results": "Interim survey results (unweighted)", "back_to_list": "See full archive", "interim_survey_results_date": "- survey closes at %survey_date% with final results available shortly after", "back_to_list_mobile": "Archive", "description": "%total% GB adults were questioned%survey_date%.<br/>Results are weighted to be representative of the GB population.", "end_date": "on %survey_date%", "header": "survey results", "results": "%s <span class=\"survey-results\"> results</span>"}, "social_share": {"title": "Live Survey Results", "page_title": "YouGov | Live Survey Results"}}, "surveys": {"live_notice": "Final weighted results published at the end of day.", "next": "Next", "notHeardOf": "Not heard of", "answers": {"validation": {"required": "Answer required", "min": "Please enter a value less than or equal to %s.", "generic": "Incorrect answer", "range": "Please enter a value between %s and %s.", "maxLength": "Please enter no more than %s characters.", "pattern": {"post_code": "Incorrect post code", "int": "Value is not a number"}, "max": "Please enter a value greater than or equal to %s."}, "opneText": {"placeholder": "Please specify"}}, "scoresError": "Sorry, there\u2019s a slight problem.", "live": "Live", "back": "Back", "scoresHeader": "Please tell us what you think about the following %s:", "live_poll": "Live Poll", "live_notice_short": "Weighted results published at end of day.", "scoresErrorClickHereToSkip": "Click here to skip..."}, "welcome": {"facebook": "Click the link below to start your first survey, and earn your first points.", "email": "Please check your email to confirm your registration and start earning points.", "startSurvey": "Start survey", "header": "Welcome to YouGov !"}, "joinYougovButton": {"joinYougovNow": "Join YouGov now"}, "smartBanner": {"storeIos": "On the App Store", "title": "YouGov", "storeAndroid": "In Google Play", "free": "Free", "view": "View"}, "twitterFollow": {"follow": "Follow", "message": "Follow %s on twitter and stay up to date with the latest news and results"}, "redeem": {"success_message": "Congratulations, you've successfully redeemed %s points for \u2018%s\u2019. Please refresh your account page to view your updated points balance.", "points": "points!", "error_message": "Error while redeeming points", "for": "for", "confirm_question": "Are you sure you want to redeem %s points for %s?", "lightbox_header": "Redeem %s", "disclaimer": "Please take care when entering your account details.  YouGov will not be responsible for any incorrect details entered and any subsequent non-payment.", "confirm": "Redeem"}, "previewPopups": {"thingsBothLike": "Things you both like", "thingsBothDislike": "Things you both dislike", "memberPreview": "Member preview", "visitFullProfile": "Visit full profile"}, "flyouts": {"seeFullResults": "See full results"}, "countdown": {"reddem_success_thank_you_message": "Thank you for your continued participation in YouGov!", "redeem_success_header": "Congratulations!", "redeem_message": "Click here to redeem %s now!", "subheader": "You still need %s points to redeem %s.", "footer": "Take more surveys to earn more points...", "lightbox_header": "Countdown to %s", "close": "Close", "redeem_success_message": "You have now successfully redeemed your points for %s. We are processing your request, and we will send you your reward within 4 weeks.", "header": "Countdown to %s"}, "available_surveys": {"currency": "\u00a3\u00a3\u00a3", "no_surveys_message": "We don't have a full length survey for you right now. Won't be long!", "header": "Available Surveys", "more": "More", "take_the_survey": "Take the Survey", "no_surveys_description": "In the meantime, why not fill in your profile by responding to the questions in your Feed...", "live_since": "Live since"}, "acceptTerms": {"validation": {"errors": {"required": "Please accept the terms to continue."}}}, "panelDropDownMenu": {"profile": "Profile", "permissions": "Permissions", "notifications": "Notifications", "logout": "Logout", "accountHistory": "Account history", "myAccount": "My account", "home": "Home", "support": "Support", "personalDetails": "Personal Details"}, "pushNotifications": {"yesPlease": "Yes", "dontSubscribe": "Don't subscribe to notifications", "getNotifications": "Sign up for notifications."}, "todaysAgenda": {"header": "Todays agenda"}, "userInfo": {"seeMyProfile": "See my profile", "memberSince": "Member since"}, "hyperWallet": {"success": "You redeemed!", "requirements": "This field requirements:", "hasMin": "has to have min", "undefinedError": "Undefined error occurred.", "require": "has to be filled", "hasMax": "has to have max", "submit": "submit", "digits": "digits", "hasPattern": "has to match pattern"}, "opiSet": {"addNewOpinion": "Add a new opinion", "joinDiscussionOn": "Join the discussion on...", "addResponse": "Add a response"}, "cookie_confirm": {"cookie_confirm_more": "More...", "cookie_confirm_accept": "Accept", "cookie_confirm_text": "YouGov uses cookies to give you the best experience on our site. By continuing to browse, you are agreeing to our use of cookies."}}
+
+                    
+                        window.angular_data.disqus_shortname = "yougovuk";
+                    
+                </script>
+
+                
+                    
+                        
+
+
+<script src="//d1rq7cuzerol8r.cloudfront.net/unified/global/575b0454/polyfills.bundle.js"></script>
+
+
+
+<script src="//d1rq7cuzerol8r.cloudfront.net/unified/global/575b0454/vendor-1.bundle.js"></script>
+<script src="//d1rq7cuzerol8r.cloudfront.net/unified/global/575b0454/vendor-2.bundle.js"></script>
+<script src="//d1rq7cuzerol8r.cloudfront.net/unified/global/575b0454/common.bundle.js"></script>
+<script src="//d1rq7cuzerol8r.cloudfront.net/unified/global/575b0454/cumulus.bundle.js"></script>
+
+
+                    
+                
+
+                
+            
+    <script>
+        window.angular_data = window.angular_data || {};
+        window.angular_data = angular.extend(window.angular_data, {"hyperwallet_config": {"type": "BANK_ACCOUNT", "currency": "GBP", "profileType": "INDIVIDUAL", "country": "GB"}, "loginRegister": {"terms_and_conditions_link": "/about/terms-conditions", "privacy_policy_link": "/about/privacy", "data_privacy_rules_link": "/about/data-privacy-rules"}, "response_buttons": {"2": {"level": 2, "css_class": "agree"}, "1": {"level": 1, "css_class": "agree-mildly"}, "-2": {"level": -2, "css_class": "disagree"}, "-1": {"level": -1, "css_class": "disagree-mildly"}}, "available_surveys": {"more_url": "/account/"}});
+        window.angular_data.rtl =  false ;
+        window.angular_data.show_social_media_icons =  true ;
+
+        window.angular_data.languages = null;
+        window.angular_data.site_language =  '' ;
+
+        window.appConfig = {
+            user: {
+                isLoggedIn: false,
+                panelistId: null
+            }
+        };
+
+        
+            angular_data.initial_user_logged_in = false;
+        
+        angular_data.enableLocalStorage = true;
+        angular_data.siteId = 53;
+    </script>
+    
+        <script src="//d1rq7cuzerol8r.cloudfront.net/unified/cu/js/jquery-ui.1.8.13.min.js" charset="utf-8"></script>
+        <script src="//d1rq7cuzerol8r.cloudfront.net/unified/cu/js/jquery.scrollTo.js" charset="utf-8"></script>
+        <script src="//d1rq7cuzerol8r.cloudfront.net/unified/cu/js/mediaqueries.js" charset="utf-8"></script>
+        <script src="//d1rq7cuzerol8r.cloudfront.net/unified/cu/js/cumulus-notifications.js" charset="utf-8"></script>
+        <script src="//d1rq7cuzerol8r.cloudfront.net/unified/cu/js/cumulus-core.js" charset="utf-8"></script>
+
+        
+
+
+
+    
+    
+    
+
+    
+        <script src="//munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
+<script>
+    if (window.Munchkin) {
+        window.Munchkin.init('060-QFD-941', {"wsInfo": "iFRQcQ%3D%3D"});
+    }
+</script>
+    
+
+    
+
+    
+
+
+    <script>
+        window.angular_data = window.angular_data || {};
+        window.angular_data = angular.extend(window.angular_data, {"hyperwallet_config": {"type": "BANK_ACCOUNT", "currency": "GBP", "profileType": "INDIVIDUAL", "country": "GB"}, "loginRegister": {"terms_and_conditions_link": "/about/terms-conditions", "privacy_policy_link": "/about/privacy", "data_privacy_rules_link": "/about/data-privacy-rules"}, "response_buttons": {"2": {"level": 2, "css_class": "agree"}, "1": {"level": 1, "css_class": "agree-mildly"}, "-2": {"level": -2, "css_class": "disagree"}, "-1": {"level": -1, "css_class": "disagree-mildly"}}, "available_surveys": {"more_url": "/account/"}});
+        window.angular_data.rtl =  false ;
+        window.angular_data.show_social_media_icons =  true ;
+
+        window.angular_data.languages = null;
+        window.angular_data.site_language =  '' ;
+
+        window.appConfig = {
+            user: {
+                isLoggedIn: false,
+                panelistId: null
+            }
+        };
+
+        
+            angular_data.initial_user_logged_in = false;
+        
+        angular_data.enableLocalStorage = true;
+        angular_data.siteId = 53;
+    </script>
+    
+        <script src="//d1rq7cuzerol8r.cloudfront.net/unified/cu/js/jquery-ui.1.8.13.min.js" charset="utf-8"></script>
+        <script src="//d1rq7cuzerol8r.cloudfront.net/unified/cu/js/jquery.scrollTo.js" charset="utf-8"></script>
+        <script src="//d1rq7cuzerol8r.cloudfront.net/unified/cu/js/mediaqueries.js" charset="utf-8"></script>
+        <script src="//d1rq7cuzerol8r.cloudfront.net/unified/cu/js/cumulus-notifications.js" charset="utf-8"></script>
+        <script src="//d1rq7cuzerol8r.cloudfront.net/unified/cu/js/cumulus-core.js" charset="utf-8"></script>
+
+        
+
+
+
+    
+    
+    
+
+    
+        <script src="//munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
+<script>
+    if (window.Munchkin) {
+        window.Munchkin.init('060-QFD-941', {"wsInfo": "iFRQcQ%3D%3D"});
+    }
+</script>
+    
+
+    
+
+    
+
+
+
+            
+    
+     
+    
+        
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-3409854-66', 'auto');
+    ga('require', 'linkid', 'linkid.js');
+    ga('set', 'anonymizeIp', true);
+
+    
+
+    
+
+    
+</script>
+    
+
+            
+                <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1006869934;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    var google_user_id = 'unique user id';
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt=""
+             src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1006869934/?value=0&amp;guid=ON&amp;script=0&amp;userId=<unique user id>"/>
+    </div>
+</noscript>
+
+            
+        
+    
+
+</body></html>
