@@ -1,6 +1,23 @@
-> *The following text is extracted and transformed from the involver.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429043028id_/https%3A//www.oracle.com/legal/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the involver.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231235719id_/https%3A//www.oracle.com/legal/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy @ Oracle | Oracle
+
+#### No results found
+
+Your search did not match any results.
+
+We suggest you try the following to help find what you're looking for:
+
+  * Check the spelling of your keyword search.
+  * Use synonyms for the keyword you typed, for example, try “application” instead of “software.”
+  * Try one of the popular searches shown below.
+  * Start a new search.
+
+
+
+**Trending Questions**
+
+Back
 
 Oracle respects your preferences concerning the collection and use of your Personal Information. The following privacy policies are tailored for the different ways your Personal Information may be collected, used, shared and processed by different Oracle lines of business:
 
