@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanguardngr.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630222943id_/https%3A//www.vanguardngr.com/about/mobile-app-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanguardngr.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231074921id_/https%3A//www.vanguardngr.com/about/mobile-app-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vanguard News
 
