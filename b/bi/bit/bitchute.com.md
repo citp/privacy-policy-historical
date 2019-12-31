@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bitchute.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231054426id_/https%3A//www.bitchute.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitchute.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231164057id_/https%3A//www.bitchute.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BitChute
 
-This Privacy Policy governs the manner in which BitChute collects, uses, maintains and discloses information collected from Users (each, a "User") of the BitChute website and associated services (collectively known as the "Service"). This privacy policy applies to all elements of the Service. Please ensure that you read this Privacy Policy, the [Terms of Service](https://web.archive.org/policy/terms/) and the [Cookie Policy](https://web.archive.org/policy/claw/) carefully. These are collectively known as the "Terms".
+This Privacy Policy governs the manner in which BitChute collects, uses, maintains and discloses information collected from Users (each, a "User") of the BitChute website and associated services (collectively known as the "Service"). This privacy policy applies to all elements of the Service. Please ensure that you read this Privacy Policy, the [Terms & Conditions](https://web.archive.org/policy/terms/) and the [Cookie Policy](https://web.archive.org/policy/claw/) carefully. These are collectively known as the "Terms".
 
 ### Your acceptance of these Terms
 
@@ -12,9 +12,9 @@ By using the Service, you are agreeing to be bound by these Terms. If you do not
 
 BitChute has the discretion to update the Terms at any time. When we do, we will revise the updated date at the bottom of this page. It is important that you frequently review the Terms for any changes to stay informed. By using the Service, you acknowledge and agree that it is your responsibility to review the Terms periodically to become aware of modifications. As our Service is constantly evolving over time, we may change or discontinue all or any part of the Service, at any time and without notice, at our sole discretion.
 
-### Terms of Service
+### Terms & Conditions
 
-Please refer to the [Terms of Service](https://web.archive.org/policy/terms/) for more information on the expected use of the Service.
+Please refer to the [Terms & Conditions](https://web.archive.org/policy/terms/) for more information on the expected use of the Service.
 
 ### Cookie Policy
 
@@ -26,7 +26,13 @@ We collect information from Users in a variety of ways, including but not limite
 
 #### Personal Identification Information
 
-The collection of personal identification information is limited to Registered Users of the Service. Registered Users may be asked for, as appropriate, their name, age, address, email address and/or phone number. Such personal identification information will only be collected from Registered Users if they voluntarily submit such information to us. Users can always refuse to supply personal identification information, with the understanding that it may prevent them from engaging in certain Service related activities. Explicit consent to this Privacy Policy is required when registering as a User of the Service.
+The collection of personal identification information is limited to Registered Users of the Service. Registered Users may be asked for, as appropriate for the goods and services they are utilising: their first and last name, age, residential address, delivery address, billing address, email address, phone number, and/or payment card details. Such personal identification information will only be collected from Registered Users if they voluntarily submit such information to us.
+
+Data will be processed by [Bit Chute Limited](https://web.archive.org/policy/contact/) in a way that is crucial to agreeing on a contract, its fulfilment, and in delivery of the wider Service.
+
+Users can always refuse to supply personal identification information, with the understanding that it may prevent them from engaging in certain Service related activities. Users have the right to see the content of their data and any corrections made to it.
+
+Explicit consent to this Privacy Policy is required when registering as a User of the Service.
 
 #### Non-personal Identification Information
 
@@ -71,4 +77,4 @@ If at any time a Registered User wishes to withdraw their consent to this policy
 
 If you have any questions about the Terms, the Service or the practices of BitChute, please contact us at [legal@bitchute.com](mailto:legal@bitchute.com).
 
-_This document was last updated on April 23rd, 2018._
+_This document was last updated on August 12th, 2019._
