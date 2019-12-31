@@ -1,222 +1,188 @@
-> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630184138id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231212935id_/https%3A//legalterms.cbsinteractive.com/privacy) for the most accurate reproduction.*
 
-# Medium Privacy Policy – Medium Policy – Medium
+# CBS Privacy Policy | Privacy.CBS
 
-**Effective Date: May 25, 2018**
+**Last Modified** : December 30, 2019
 
-This policy explains what information we collect when you use Medium’s sites, services, mobile applications, products, and content (“Services”). It also has information about how we store, use, transfer, and delete that information. Our aim is not just to comply with privacy law. It’s to earn your trust.
+_Note: The CBS Privacy Policy has been updated to more clearly explain our practices and add certain new rights for users. California residents, please see revisions to the notice to “California Visitors”. Please review the updated privacy policy carefully before using the CBS Services. By using any of the CBS Services, you acknowledge the terms of the updated Privacy Policy. Review the[previous version](https://www.cbsinteractive.com/legal/cbsi/privacy-policy/20181203) of the Privacy Policy._
 
-#### Information We Collect & How We Use It
+Welcome to the network of interactive services provided by CBS (referred to as “CBS,” “us,” or “we”) through our various brands, channels, sites, mobile or TV applications or other products and services that operate under the CBS brands (collectively, the “CBS Services”). Trust is a cornerstone of our mission at CBS. We are committed to gaining and maintaining your trust by following a core set of privacy principles:
 
-Medium doesn’t make money from ads. So we don’t collect data in order to advertise to you. The tracking we do at Medium is to make our product work as well as possible.
-
-In order to give you the best possible experience using Medium, we collect information from your interactions with our network. Some of this information, you actively tell us (such as your email address, which we use to track your account or communicate with you). Other information, we collect based on actions you take while using Medium, such as what pages you access and your interactions with our product features (like highlights, follows, and applause). This information includes records of those interactions, your Internet Protocol address, information about your device (such as device or browser type), and referral information.
-
-We use this information to:
-
-  * provide, test, improve, promote and personalize Medium Services
-  * fight spam and other forms of abuse
-  * generate aggregate, non-identifying information about how people use Medium Services
-
-
-
-When you create your Medium account, and authenticate with a third-party service (like Twitter, Facebook or Google) we may collect, store, and periodically update information associated with that third-party account, such as your lists of friends or followers. We will never publish through your third-party account without your permission.
-
-#### Information Disclosure
-
-Medium won’t transfer information about you to third parties for the purpose of providing or facilitating third-party advertising to you. We won’t sell information about you.
-
-We may share your account information with third parties in some circumstances, including: (1) with your consent; (2) to a service provider or partner who meets our data protection standards; (3) with academic or non-profit researchers, with aggregation, anonymization, or pseudonomization; (4) when we have a good faith belief it is required by law, such as pursuant to a subpoena or other legal process; (5) when we have a good faith belief that doing so will help prevent imminent harm to someone.
-
-If we are going to share your information in response to legal process, we’ll give you notice so you can challenge it (for example by seeking court intervention), unless we’re prohibited by law or believe doing so may endanger others. We will object to requests for information about users of our services that we believe are improper.
-
-#### Data Storage
-
-Medium uses third-party vendors and hosting partners, such as Amazon, for hardware, software, networking, storage, and related technology we need to run Medium. We [maintain two types of logs](https://medium.com/policy/mediums-data-logs-4d2f799a7d52): server logs and event logs. By using Medium Services, you authorize Medium to transfer, store, and use your information in the United States and any other country where we operate.
-
-#### Third-Party Embeds
-
-Some of the content that you see displayed on Medium is not hosted by Medium. These “embeds” are hosted by a third-party and embedded in Medium. For example: YouTube or Vimeo videos, Imgur or Giphy gifs, SoundCloud audio files, Twitter tweets, GitHub code, or Scribd documents that appear within a Medium post. These files send data to the hosted site just as if you were visiting that site directly (for example, when you load a Medium post page with a YouTube video embedded in it, YouTube receives data about your activity). Medium does not control what data third parties collect in cases like this, or what they will do with it. So, third-party embeds on Medium are not covered by this privacy policy. They are covered by the privacy policy of the third-party service.
-
-Some embeds may ask you for personal information, such as your email address, through a form. We do our best to keep bad actors off of Medium. However, if you choose to submit your information to a third party this way, we don’t know what they may do with it. As explained above, their actions are not covered by this Privacy Policy. So, please be careful when you see embedded forms on Medium asking for your email address or any other personal information. Make sure you understand who you are submitting your information to and what they say they plan to do with it. We suggest that you do not submit personal information to any third-party through an embedded form.
-
-If you embed a form that allows submission of personal information by users, you must provide near the embedded form a prominent link to an applicable Privacy Policy that clearly states how to you intend to use any information collected. Failure to do so may lead Medium to disable the post or take other action to limit or disable your account.
-
-#### Tracking & Cookies
-
-We use browser cookies and similar technologies to recognize you when you return to our Services. We use them in various ways, for example to log you in, remember your preferences (such as default language), evaluate email effectiveness, allow our paywall and meter to function, and personalize content and other information.
-
-Medium doesn’t track you across the Internet. We track only your interactions within the Medium network (which encompasses Medium.com and custom domains hosted by Medium).
-
-Some third-party services that we use to provide the Medium Service, such as [Google Analytics](http://www.google.com/policies/privacy/partners/), may place their own cookies in your browser. This Privacy Policy covers use of cookies by Medium only and not the use of cookies by third parties.
-
-Medium complies with the “[Do Not Track](https://www.w3.org/TR/tracking-compliance/)” (“DNT”) standard recommended by the World Wide Web Consortium. For logged-out users browsing with DNT enabled, Medium’s analytics will not receive data about you, but we will do some first-party tracking in order to customize content and provide data to third-party service providers that enable Medium Services to work. When you use Medium while logged-in to your account, we cannot comply with DNT. Here’s some more information about [Medium’s Do Not Track policy](https://medium.com/policy/how-we-handle-do-not-track-requests-on-medium-f2b4b4fb7c5e).
-
-####  **Modifying or Deleting Your Personal Information**
-
-If you have a Medium account, you can access, modify or export your personal information, or delete your account [here](https://medium.com/me/settings).
-
-To protect information from accidental or malicious destruction, we may maintain residual copies for a brief time period. But, if you delete your account, your information and content will be unrecoverable after that time. Medium may preserve and maintain copies of your information when required to do so by law.
-
-#### Data Security
-
-We use encryption (HTTPS/TLS) to protect data transmitted to and from our site. However, no data transmission over the Internet is 100% secure, so we can’t guarantee security. You use the Service at your own risk, and you’re responsible for taking reasonable measures to secure your account.
-
-#### Business Transfers
-
-If we are involved in a merger, acquisition, bankruptcy, reorganization or sale of assets such that your information would be transferred or become subject to a different privacy policy, we’ll notify you in advance so you can opt out of any such new policy by deleting your account before transfer.
-
-#### Email from Medium
-
-Sometimes we’ll send you emails about your account, service changes or new policies. You can’t opt out of this type of “transactional” email (unless you delete your account). But, you can opt out of non-administrative emails such as digests, newsletters, and activity notifications through your account’s “[Settings](https://help.medium.com/hc/en-us/articles/115004745907-How-can-I-turn-off-emails-from-Medium-)” page
-
-When your interact with an email sent from Medium (such as opening an email or clicking on a particular link in an email), we may receive information about that interaction. We won’t email you to ask for your password or other account information. If you receive such an email, please send it to us so we can investigate.
-
-#### Changes to this Policy
-
-Medium may periodically update this Policy. We’ll notify you about significant changes to it. The most current version of the policy will always be [here](https://medium.com/policy/f03bf92035c9) and we will archive former versions of the policy [here](http://github.com/Medium/policy).
-
-#### Questions
-
-We welcome feedback about this policy at [legal@medium.com](mailto:legal@medium.com).
-
-### Data Protection Statement for European Union Users
-
-#### Description of Processing Activity
-
-Medium collects and stores personal information about its users to customize their reading experience and enable personalized distribution of content. It shares minimal data with its service providers.
-
-#### Purposes of Processing
-
-  * Provide, test, promote, and improve the services
-  * Gather usage statistics of services
-  * Provide customized reading experience
-  * Publish and distribute user-generated content
-  * Provide access to paid content
-  * Pay authors in Partnership Program for certain content
-  * Fight spam, fraud, and other abuse of services
-
-
-
-#### Legal Bases
-
-In order to provide the services, Medium collects and stores personal data about its users on the legal basis of consent given when you create an account and agree to the Privacy Policy.
-
-Medium also pursues its legitimate interests by collecting minimal data of logged out users to provide the services, as outlined above.
-
-Where Medium collects and stores personal data about non-users, it does so under performance of contract obligations with users who use the services to publish content on web sites hosted by Medium. In such cases, users authoring such content containing personal data of third parties are responsible for that content. Medium will consider related complaints in compliance with the General Data Protection Regulation’s rights of the data subject, as well as rights of expression and access to information.
-
-#### Public Nature of Personal Data
-
-Logged-in users may choose to interact publicly with the Medium Services in the form of clapping for a post, highlighting parts of a post, following other user accounts, sharing links on connected social media accounts, or writing original posts. Where such personal data may reveal special category protected data, it is processed on the basis that it is manifestly made public by the user. Additional information on potential consequences of such processing can be found below. If you do not agree to this public usage, do not create an account or use these features of Medium Services.
-
-#### Categories of Personal Data Collected
-
-Logged out users
-
-  * Reading history
-  * IP address
-  * Browser information
-  * DNT status
-
-
-
-Logged in users:
-
-  * Username
-  * Display name
-  * Bio
-  * Avatar image
-  * Email address (non-public)
-  * Session activity (security)
-  * Linked social media accounts (optional)
-  * IP address
-  * Browser information
-  * Reading history (on Medium network only)
-  * Network interactions (recommends, follows, etc.)
-  * Posts, responses, or series published by user
-
-
-
-Members:
-
-  * Billing information and history
-
-
-
-Partner authors:
-
-  * Bank account for payments
-  * Business information, if applicable
-
-
-
-#### Categories of Recipients
-
-Medium shares minimal personal data with third-party processors in order to provide the Services. These processors offer at least the same level of data protection as that set out in this statement. This includes the following categories of recipients:
-
-  * Hosting, Storage, & Other Infrasructure
+  * Transparency
+  * Choice
+  * Access
   * Security
-  * Analytics
-  * Communication & Support
-  * Payment Processors
+  * Accountability
 
 
 
-Search engines will index user profiles, public interactions, and any user-generated content. Users may also share links to your content on social media.
+This Privacy Policy applies to information collected about you by the CBS Services. Please review this Privacy Policy carefully. In addition, please review our Terms of Use, which governs your use of the CBS Services. By using any of the CBS Services, you acknowledge the data collection practices and purposes outlined in this Privacy Policy.
 
-#### Payment Processors
+## TYPES OF INFORMATION WE COLLECT
 
-Medium provides Services in conjunction with several payment processors, including: Stripe, Paypal, Google Play, and Apple Pay, through which users may pay for Medium memberships or receive payment based on participation in our Partner program. Those companies acting as payment processors may collect and store personal data related to your billing information and history in order to provide their services, and may collect and store personal data and business data to prevent fraud and other abuse.
+When you use CBS Services, we collect a few different types, or “categories,” of information. This information generally falls within three broad categories: (a) the information you provide to us, (b) the information we collect automatically when you use our services, and (c) information we obtain from other sources. We describe this information, and the primary purpose for which it is used, below. The full description of how we use the personal information we collect is also provided below.
 
-When you delete your Medium account, Medium deletes your personal data as outlined in this document. However, to delete your payment or billing information, you will need to do so with your payment provider, as Medium only has minimal secure access to those records as needed to provide the services.
+### Information You Provide To Us
 
-####  **Embedded Content**
+CBS Services collects information you provide to us, including:
 
-Medium posts may contain third-party embeds, which may in some cases collect and store personal data. The use of personal data by embedded content providers is not covered by this statement, but by the privacy policies of those sites or services.
+  * **Registration Information.** _When you register for certain services, complete any application form, or enter contests or competitions, we sometimes ask you for your name, email address, postal address, demographic information, and any preferences that you may have (e.g., which newsletters you would like to receive). We use this to provide access to certain CBS Services, personalize them, and remember your preferences._
 
-#### Existence of Automated Decision-making
+  * **Billing and Payment Information.** _When you place an order with us or access a particular service, we will collect certain payment and identity verification information, including your name, email address, and credit card information. We use this to bill you for your use of the CBS Services._
 
-Medium collects and stores personal data about its users to customize reading. This includes automated decision-making to promote content tailored to the preferences and interests indicated by the user, and to their browsing history and network interactions.
+  * **Information You Post on the CBS Services.** _We collect personal information from you when you provide or post information to our Services, including your user name, comments, likes, interests, status, pictures and references to your online presence. We make this information available to others, as you request._
 
-Medium also filters content for the purposes of fighting and preventing spam, fraud, and other forms of abuse.
+  * **Correspondence You Send Us.** _When you contact us directly by calling our offices or providing feedback, comments or suggestions on programs and other activities, we may collect the information you provide as part of your correspondence to Us. We use this to provide services to you and to learn about your interests and concerns._
 
-#### Potential Consequences of Processing
+  * **Information You Provide About Others.** _Sometimes, you may provide information about others — for example, to refer a friend to certain CBS Services. We use this to make the CBS Services available to the people you refer._
 
-By creating an account on Medium, users may make certain personal data about themselves public and accessible to others on their profile and through network interactions. This may in some cases constitute special category protected data which is considered manifestly made public by the user.
-
-Due to the public nature of information posted to Medium, it may be possible for third parties to derive identifying personal data from posts, whether by reading, inference, supplemental research, or automated extraction and analysis.
-
-Users are free to use their real name and information, or a pseudonym of their choosing, for their account. Users may also choose to use the service without posting data or engaging in network interactions. However, if you do not agree with and accept the risks of such usage, you may not use the services.
-
-#### Cross-border Transfers
-
-Medium is hosted in the United States. By using Medium Services, you authorize Medium to transfer, store, and use your information in the United States and any other country where we operate. Where your data is disclosed to our processors, it is subject by contract to at least the same level of data protection as that set out in this statement.
-
-#### Retention
-
-Medium retains personal data associated with your account for the lifetime of your account. If you would like to delete your personal information, you can delete your account at any time. Deleted account profile pages will yield an error 404 “file not found” page, immediately upon initiating deletion, and will become unrecoverable in our system after a period of fourteen days. It may take several additional days for your personal data to be de-indexed from search engines, depending on those search engines’ practices, over which Medium may have limited or no control.
-
-To delete your payment or billing information, you will need to do so with your payment provider, as Medium only has minimal secure access to those records as needed to provide the services.
-
-#### Rights of Data Subjects
-
-  1. If you sign up for a Medium account, you may at any time request an export of your personal information from the [Settings](https://medium.com/me/settings) page.
-  2. You may correct information associated with your account from the [Settings page](https://medium.com/me/settings), and the [Customize Your Interests](https://medium.com/me/following/suggestions) page to update your interests.
-  3. You may withdraw consent by deleting your account at any time through the [Settings](https://medium.com/me/settings) page, which will erase your personal information completely within 14 days (except to the extent Medium is prevented by law from deleting your information).
-  4. You may object at any time to the use of your personal data by contacting privacy@medium.com. If your complaint relates to alleged misuse of your personal data by a third party, it may result in suspension of that post or account in keeping with relevant law, public interest, our contractual obligations, and the rights of expression and access to information of others.
-  5. You may at any time lodge a complaint regarding the processing of your personal data by Medium with the Supervisory Authority of your EU member state.
+  * **Information you Provide Offline.** _You might also provide personal information to us in person and offline. You may be recorded if you visit our offices (including by security surveillance of our premises, including CCTV), or attend a live performance or the taping of one of our programs as a member of a studio audience, or, if you submit sweepstakes entrance forms or an application to participate in one of our programs by mail or in person. We use this information to provide services to you, protect our security, and learn about your preferences._
 
 
 
-#### Contact Information
 
-> A Medium Corporation
+### Information Collected Automatically Through Cookies and Other Online Tracking Technologies
 
-> 799 Market Street, 5th Floor
+We and our service providers operating on our behalf, other businesses who collect information on our pages, may automatically collect or receive certain information associated with you and/or your device(s) as part of your use of the CBS Services through device-based tracking technologies such as cookies, pixels, tags, beacons, scripts or other technology. For more information about cookies and other tracking technologies visit [privacy.cbs/cookies](https://privacy.cbs/cookies). The information we collect automatically includes geolocation data, such as (a) information that identifies the precise location of your mobile device (when you agree to allow an app to collect this) and (b) your IP address, which may be used to estimate your approximate location. We use this information to ensure that the CBS Services work properly, and to deliver customized content and advertising, including personalized ads, to you.
 
-> San Francisco, CA 94103
+### Information We Obtain From Other Sources
 
-> United States of America
+The CBS Services collect information about you from other sources, such as publicly available databases and other third parties that have the right to share your personal information. The categories of information we get from these other sources include:
 
-Representative: Head of Legal — legal@medium.com
+  * Contact information, such as name, email address, postal address, and telephone number, used to contact you;
+
+  * Demographic data, such as age, gender, and income level, used to customize content and advertising, and learn about our audiences;
+
+  * Activity and usage information, including information about your interests, purchase behavior, and other navigation data, such as websites visited and advertisements viewed or clicked on, used to customize content and advertising;
+
+  * Publicly-observed data, such as activities on blogs, videos, and other online postings used to customize content and advertising;
+
+  * Employment-related data, including information from a recruitment agency if you are applying for a job with us used to help us match applicants to open positions;
+
+  * Account and profile data from third-party sources. If you access third party social networking services (e.g., Facebook, Twitter) through a CBS Service, or if you access a CBS Service through one of these services, we may receive your username and password for those services and other information available about you or collected from you on those services, used to customize content and advertising and learn about our audiences and the popularity of our content, as described further in our Video Services and Social Networking Policy available at [privacy.cbs/videoservices](https://privacy.cbs/videoservices);
+
+  * We collect information about you through interactive applications (e.g., mobile devices, third party social networking services, and embedded audio and video players), from co-branded partners and websites (e.g., on our Facebook pages), from our advertisers, and from commercially available sources (e.g., data aggregators and public databases). This Privacy Policy does not cover the practices of third parties, including those that may disclose information to us.
+
+
+
+
+## HOW WE USE THE INFORMATION WE COLLECT
+
+We use the information we collect for the purposes described in this Privacy Policy, including to:
+
+  * Make the CBS Services available to you, verify your identity when you log in, and remember your account settings.
+
+  * Bill you for subscription or other services for which there is a charge, and verify your identity or payment information for your security and protection.
+
+  * Respond to questions or concerns about your subscription or the CBS Services, and send you alerts and important updates about your account or the CBS Services.
+
+  * Send you updates and other offers, promotions, or updates for our products and services or the products and services of our advertising partners.
+
+  * Verify your entry into and eligibility to participate in contests, giveaways, or sweepstakes and inform you if you’ve won. If your entry information will be used for any other purposes, we will disclose that in the applicable rules governing that contest, giveaway, or sweepstakes.
+
+  * Provide content recommendations tailored to your tastes.
+
+  * Monitor and improve the operation, delivery, and general accessibility of the CBS Services.
+
+  * Maintain the safety and security of the CBS Services and those who use them including by investigating or blocking activities that may violate this Privacy Policy, the Terms of Use, or applicable law.
+
+  * Verify delivery and track performance of an advertising campaign and ensure that an ad is only delivered when a real person is visiting the site and that the same users don’t see the same ads too frequently.
+
+  * Provide you with personalized advertising on some of the CBS Services based on your online activity. For more information on how your information on how your information is accessed and used for personalized advertising visit [privacy.cbs/personalizedads](https://privacy.cbs/personalizedads).
+
+
+
+
+We sometimes share information collected about you as disclosed at the time of collection, as otherwise disclosed in this privacy policy, and in the following circumstances:
+
+  * **Within the CBS Services and with the CBS family of brands.** _Where permitted by law, we may share information we collect about you with the CBS companies so that we can provide you with information about products and services that might interest you._
+
+  * **Banks or Other Organizations In Connection with a Business Transfer.** _We may share your information in connection with a substantial corporate transaction, such as the sale of a CBS Service, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy._
+
+  * **Regulators, Courts, Law Enforcement, and Other Governmental Authorities.** _We may disclose information about our users, including contact information, to respond to subpoenas, court orders, legal process and other law enforcement measures, and to comply with other legal obligations. There may be circumstances where the law requires us to disclose the information, or where disclosure is required to prevent a risk to health or safety, or for law enforcement purposes._
+
+  * **Authorized Service Providers.** _We share your contact information with vendors who help us with specialized services, including customer support, email and text message deployment, analytics, marketing, suppression list management and data processing. These Service Providers are allowed to use your contact information to help us provide our services and not for any other purpose._
+
+  * **Audience Measurement Services.** _We share your information with audience measurement companies like Comscore and Nielsen that help us and other websites measure and understand the audiences that view our content._
+
+  * **Video Viewing Behavior.** _Consistent with applicable law, we may share your video viewing behavior with third parties including advertising companies, analytics partners, and social media sites. For more information see the Video Services and Social Networking Policy at[privacy.cbs/videoservices](https://privacy.cbs/videoservices)._
+
+  * **Sponsors and Other Partners for Sweepstakes, Contests, or Giveaways.** _When you choose to enter a sweepstakes, contest, or other promotion, and in accordance with the terms and conditions of the promotions, your information may be disclosed to our sponsors and others who help design, administer and implement the promotion, including in connection with winner selection, prize fulfillment and aggregated data analysis. Your information also may be disclosed as required by law, such as on a winners list. Further, by entering a promotion, you are agreeing to the official rules that govern that promotion, including allowing our sponsors to use your name, voice, and likeness in advertising and marketing associated with the promotion in accordance with applicable law. All terms applicable to the particular promotion will be made available to you at the time you enter the promotion._
+
+  * **Co-Branded Partners.** _Co-Branded Partners are companies with whom a CBS Service jointly offers a service or feature. You can tell when you are accessing a service or feature offered by a Co-Branded Partner because the Co-Branded Partner’s name will be featured prominently. You may be asked to provide information about yourself to register for a service offered with a Co-Branded Partner. In doing so, you may be providing your information to both us and the Co-Branded Partner. Please note that the Co-Branded Partner’s privacy policy may also apply to its use of your information._
+
+  * **Other Persons or Entities.** _With appropriate consent when required, certain CBS Services may share your contact information with third party marketing partners, and they may contact you by email, telephone, postal mail or other common communication methods with marketing and promotional messages about their products or services. Sometimes we will give you the option to receive further communications from one of our advertising partners, for example when we run a competition with that advertiser. When you provide consent to receive communications from that third party advertiser, your personal information will be managed by that third party’s own privacy policy._
+
+
+
+
+## MANAGING YOUR INFORMATION AND PRIVACY CHOICES
+
+You have certain options and rights related to the information we collect and how that information is used. While we must continue to collect and store certain information that is required to allow you to take advantage of certain features and services offered on CBS Services or to comply with legal, financial or other operational or regulatory requirements, your options for managing your information and privacy choices include:
+
+  * You can review and update your registration information through your account settings on the applicable CBS Services.
+
+  * You can opt out of receiving emails or text messages from particular CBS Services or other services or partners by following the instructions contained in any such message or by contacting us directly through your account settings. Please note that even if you unsubscribe to commercial messages, we may still need to send you communications relating to your use of the CBS Services.
+
+  * You can deactivate web and mobile push notification by changing the notification settings on your device for mobile and account settings for web.
+
+  * To better understand your options for managing Personalized Advertising see our page on Personalized Advertising at [privacy.cbs/personalizedads](https://privacy.cbs/personalizedads) and Cookies & Other Tracking Technologies at [privacy.cbs/cookies](https://privacy.cbs/cookies).
+
+  * You can always contact us using the contact information provided in this Privacy Policy to update, amend, or delete your information. _If you ask us to shut down your account or delete your information, we will disable your account within a reasonable period of time subject to any agreement between you and us. Please note that we may need to retain some information about you in order to satisfy our contractual, legal and security obligations. Some of your information may also remain in back-up storage for a period of time even if you ask us to delete it. In some cases, you may be entitled under local laws to access, correct, move, or object to the processing of information that we hold relating to you._
+
+
+
+
+## SECURITY
+
+We are committed to protecting your information. We have adopted commercially reasonable technical, administrative, and physical procedures to help protect your information from loss, misuse, unauthorized access, and alteration. Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using CBS Services but we cannot ensure or warrant the security of any information you transmit to us.
+
+## INFORMATION FOR CALIFORNIA VISITORS
+
+For additional information for residents of the State of California visit [ca.privacy.cbs](https://ca.privacy.cbs/).
+
+## INFORMATION FOR NEVADA VISITORS
+
+Nevada law requires website operators to provide a way for Nevada consumers to opt out of the sale of certain information that the website operator may collect about them. This information is limited to direct identifiers, such as your name, postal address, and email address. When Nevada consumers opt out of the sale of their information, website operators must ensure that the information is not sold to another business that will further license or sell the information to others. If you are a Nevada resident and you would like to opt out of any possible sale of this information, please contact us at [privacy@cbs.com](mailto:privacy@cbs.com).
+
+For all requests, you must put the statement “Your Nevada Privacy Rights” in the subject field of your request. You must also include your full name, street address, city, state, and zip code. We will not accept requests via telephone, postal mail, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+
+## VISITORS FROM OUTSIDE THE UNITED STATES
+
+For additional information about our privacy practices and additional rights you may have please click on the appropriate link for your jurisdiction:
+
+### Australia
+
+[privacy.cbs/australia](https://privacy.cbs/australia)
+
+### Canada
+
+[privacy.cbs/canada](https://privacy.cbs/canada)
+
+### The European Union
+
+[eu.privacy.cbs](https://eu.privacy.cbs/)
+
+## INTERNATIONAL TRANSFERS
+
+We are headquartered in the United States and has affiliate offices and partners in other countries. Please be aware that information you provide to us or that we obtain as a result of your use of the CBS Services may be collected in your country and subsequently transferred to the United States or another country in accordance with applicable law. The privacy and data protection laws in the country to which your information is transferred may not be equivalent to such laws in your country of residence. Your personal information may be subject to the laws of the country to which it is transferred and may be accessible without notice to you by the courts, law enforcement and national security authorities of that country. By using and participating in any CBS Services or providing us with your information, you acknowledge the collection, international transfer, storage, and processing of your information.
+
+## PRIVACY PROTECTION OF CHILDREN
+
+Most CBS Services are intended for a general audience and do not knowingly collect or store contact information about children under the age of 13 in the United States or the appropriate age for services directed toward children as defined under applicable laws in other jurisdictions. Some CBS Services may ask for your full date of birth date to ensure that they are not collecting information from children under 13 in the United States or the appropriate age for services directed toward children as defined under applicable laws in other jurisdictions or to identify when additional steps may need to be taken when information has been collected from children under 18 or under the age of majority in their jurisdiction, if higher than 18. To read about our privacy policy for children, please see the Children’s Privacy Policy at [privacy.cbs/childrensprivacypolicy](https://privacy.cbs/childrensprivacypolicy).
+
+## THIRD PARTY WEBSITES AND SERVICES
+
+Please note that some CBS Services may contain links to other websites and services. We are not responsible for the privacy practices of those third parties , and we recommend that you review the privacy policies of any third party property you visit. When you select a link to a third party property from one of the CBS Services (e.g., if you link to PayPal to pay for a product or service offered by a CBS Service), you will be leaving the CBS Service. Any information that you disclose on the third party website will be governed by that website’s privacy policy.
+
+## CHANGES TO THIS PRIVACY POLICY
+
+We will update this Privacy Policy from time to time to reflect changes in our practices and service offerings. If we modify our Privacy Policy, we will update the “Last Modified Date” at the top of this Privacy Policy and such changes will be effective upon posting. If we make any material changes to the way we use personal information we collect, we will notify you in advance by email through the email address you most recently provided to us or by prominently posting a prominent notice of the changes on the CBS Services. We will not use information we have already collected in a different way than we have described here, without your consent.
+
+## QUESTIONS
+
+If you have questions regarding this Privacy Policy, please contact us at [privacy@cbs.com](mailto:privacy@cbs.com) and we will endeavor to respond to your request within a reasonable period of time. You may also submit questions or comments using the postal address listed below:
+
+CBS Interactive Inc. 235 Second Street San Francisco, CA 94105 USA Attn: Legal Department
+
+We are committed to working with you to obtain a fair resolution of any privacy concerns.
