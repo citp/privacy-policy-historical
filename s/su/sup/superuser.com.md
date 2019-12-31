@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superuser.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231748id_/https%3A//stackoverflow.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superuser.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231211118id_/https%3A//stackoverflow.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stack Overflow
 
@@ -188,7 +188,7 @@ General Contact Information
 
 Privacy Officer 
 
-  * Adam Francoeur, Corporate Counsel, 110 William Street, Floor 28, New York, NY 10038, privacy (at) stackoverflow (dot) com, phone: 212-232-8280 
+  * Privacy Officer, 110 William Street, Floor 28, New York, NY 10038, privacy (at) stackoverflow (dot) com, phone: 212-232-8280 
 
 
 
@@ -200,6 +200,6 @@ Privacy Shield
 
 EU Representative 
 
-  * Mary Croskery, People Operations Partner, 2nd Floor, Bentima House, 168-172 Old Street, London EC1V 9BP, privacy (at) stackoverflow (dot) com +44 (0) 20 3349 0864 
+  * Privacy Officer, Bentima House, 168-172 Old Street, London EC1V 9BP, privacy (at) stackoverflow (dot) com, phone: +44 (0) 20 3349 1000 
 
 
