@@ -1,88 +1,84 @@
-> *The following text is extracted and transformed from the stepchange.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231109id_/https%3A//www.stepchange.org/Legal/Privacyandcookiespolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepchange.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231052448id_/https%3A//www.stepchange.org/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy. StepChange Debt Charity
+# StepChange Debt Charity Website: Privacy Policy
 
-We are committed to respecting and protecting your privacy.
+### Transferring information outside the EEA 
 
-The structure of the Site is such that you can browse any area within it, StepChange Debt Remedy in particular, without revealing who you are or any other personal information about you.
+We do not routinely transfer the personal information we collect about you outside of the European Economic Area (EEA). However, in the event that we did, to ensure that your personal information does receive an adequate level of protection we will put in place appropriate protective measures to ensure that your personal information is treated by those third parties in a way that is consistent with and which respects the EU and UK laws on data protection. 
 
-## Personal details
+Appropriate specific protective measure(s) include, for example, model contractual clauses and security assessments. If you require further information about these appropriate protective measures, you can request it from [dpo@stepchange.org](mailto:dpo@stepchange.org). 
 
-If you do elect to follow the advice offered in [StepChange Debt Remedy](https://web.archive.org/Debtremedy.aspx), your personal details will be required to enable us to contact you. Your consent will be required before you proceed. We will keep all your personal information confidential and secure and we will only use this data to provide you with the services requested.
+## 10\. How we protect your data
 
-While visiting our Site, and in particular when accepting the debt advice provided by Debt Remedy, you may voluntarily choose to provide your email address. This information will only be used for the purpose of providing you with the specific information requested by you, or to send you important updates concerning our debt advice or the debt solution you may have chosen. Should you not select a debt solution following a Debt Remedy session, your email address will be deleted after 6 months. It will not be passed to any other organisation.
+We have put in place measures to protect the security of your information. Details of these measures are available upon request from [dpo@stepchange.org](mailto:dpo@stepchange.org)
 
-You may also choose to provide your email address (on our website, during telephone calls with us, or via other recognised means of providing us consent to communicate with you) as a means of signing up to receive StepChange Debt Charity emails and newsletters.
+Third parties will only process your personal information on our instructions and where they have agreed to treat the information confidentially and to keep it secure 
 
-The privacy policy relating to our use of your email address for this purpose can be found [here](https://web.archive.org/Newsletter/EmailPrivacyPolicy.aspx). 
+We have in place appropriate security measures to prevent your personal information from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal information to those employees, agents, contractors and other third parties who have a business need to know. 
 
-## Security
+They will only process your personal information on our instructions and they are subject to a duty of confidentiality. Details of these measures may be obtained from [dpo@stepchange.org](mailto:dpo@stepchange.org). 
 
-If you decide to use the [StepChange Debt Remedy](https://web.archive.org/Debtremedy.aspx) service, you will be provided with a web number to enable you to re-enter the Site at your convenience.  You must take reasonable precautions to prevent the unauthorised use of your web number.
+We have put in place procedures to deal with any suspected data security breach and will notify you and any applicable regulator of a suspected breach where we are legally required to do so. 
 
-You should not record or disclose your web number in any way that may result in it becoming known to another person. This could lead to your financial details being accessed and used in an unauthorised manner.
+## 11\. How long we retain your data for
 
-You will be responsible for the accuracy of information transmitted by you and received by us between the time that you access the Site until you log off and exit it. Please note that this includes any input errors or instructions sent by anyone else, with or without your consent. Please do not therefore, leave the device you are using unattended while you are logged on to the Site.
+We will only retain your personal information for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. Details of retention periods for different aspects of your personal information are available in our retention policy which is available from [dpo@stepchange.org](mailto:dpo@stepchange.org). 
 
-## Cookies
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. 
 
-Cookies are small data files that are sent to your browser. We use these to collect anonymous information about your use of the Site. Unless you have specifically set your browser not to receive cookies, your browser will automatically accept them. No personal data is collected from them.
+In some circumstances we may anonymise your personal information so that it can no longer be associated with you, in which case we may use such information without further notice to you. We will retain and securely destroy your personal information in accordance with our data retention policy and/or applicable laws and regulations. 
 
-Cookies can be deleted from your computer and if you wish you may set your browser not to receive cookies in future. For more information on how to control cookies on your machine, read this guide.
+## 12\. What your rights are: rights of access, rectification, erasure, and restriction 
 
-<http://www.aboutcookies.org/>
+### Your duty to inform us of changes
 
-The information that the cookies collect is used to monitor the usage and measure the performance of the service that the Site offers.
+It is important that the personal information we hold about you is accurate and current. Please keep us informed if your personal information changes during your working relationship with us. 
 
-Other than the StepChange Debt Remedy option, acceptance or rejection of cookies does not affect your ability to use this Site. Use of StepChange Debt Remedy requires acceptance of cookies. No personal data is collected from you unless you specifically provide us with that information.
+### Your rights in connection with personal information
 
-### We use the following cookies on our sites and services:
+Under certain circumstances, by law you have the right to: 
 
-Cookie | Name | Purpose | Where are these used?  
----|---|---|---  
-Google Analytics | __utma  
-__utmz  
-__utmc  
-__utmb  
-__utmx  
-__utmxx | These cookies are used to collect information about how our visitors use our website. This information includes the number of visitors to the website, which website they came from and which pages they looked at on our website. The cookies collect information anonymously. | The main website, Debt Remedy, jobs website and Wellbeing  
-Webtrends | ACOOKIE  
-WT_FPC | These cookies are used to collect information about how our visitors use our website. This information includes the number of visitors to the website, which website they came from and which pages they looked at on our website. The cookies collect information anonymously. | The main website, Debt Remedy, jobs website, Online DMP and Wellbeing  
-YouTube | VISITOR_INFO1_LIVE  
-PREF  
-use_hitbox | These cookies are used in the video functionality of a YouTube embedded video. | The main website  
-ASP.NET | .ASPXANONYMOUS  
-ASP.NET_SessionId  
-ASPXAUTH  
-RequestVerificationToken_Lw | These cookies help the functionality of the website. These are deleted when you close your browser. | The main website, Debt Remedy, Online DMP, jobs website and Wellbeing  
-DotNetNuke | language | This cookie helps the functionality of the website. This is deleted when you close your browser. | The main website  
-Live Chat | JSESSIONID | This cookie helps the functionality of the Live Chat tool if the user needs help with debt advice or with completing Debt Remedy. This is deleted when you close your browser. | The main website and Debt Remedy  
-PDF Generator | ysm_bbk159O43…. | This cookie helps automatically generate a PDF information booklet at the end of Debt Remedy. This is deleted when you close your browser. | Debt Remedy  
-QuestionPro | Survey  
-siteRef | This cookie is set when you use the survey at the end of Debt Remedy, to aid its functionality. It does not collect any identifiable information. | The main website  
-Yahoo/Bing | B  
-BX | This cookie is set if you visit Debt Remedy from a pay-per-click advert in the Yahoo.co.uk search results. It does not collect any identifiable information. | Debt Remedy  
-Google | test_cookie | This cookie is set if you visit Debt Remedy from a pay-per-click advert in the Google.co.uk search results. It does not collect any identifiable information. | Debt Remedy  
-DoubleClick | id  
-test_cookie | We use Google Analytics and DoubleClick cookies and remarketing services to log when someone views a specific page or takes a specific action on our websites. This allows us to provide targeted information in the future, in the form of an advertisement on Google’s search results page. Of course, any data collected is used in accordance with our own privacy policy and Google’s privacy policy.* | The main website, Debt Remedy, Online DMP, jobs website and Wellbeing  
-Jobs website | ccp_name4697  
-ccp_user4697  
-lastaccesstime4697  
-sessionid4697  
-wedeputy_reg_email_5699  
-wedeputy_reg_username_5699< | These cookies are used to track details of applicants using our jobs website. | Jobs website  
-Atlas | ATN | This cookie logs when you view a specific page or takes a specific action on our websites. This allows us to provide targeted information in the future, in the form of an advertisement. | The main website, Debt Remedy, Online DMP, jobs website and Wellbeing  
-Device Atlas | DAPROPS | This cookie is used to track the activity during the visit for analytical purposes to improve the service. | The main website  
-Cookie policy | StepChange_AcceptCookiePolicy  
-cookillian_opt_in  | These cookies lets us know your cookie preferences when you're on our site. | The main website  
-Anti-forgery | __RequestVerificationToken_Lw__ | This cookie is associated with a particular anti-forgery method to prevent cross site request forgery in user forms. | Online DMP  
-Mobile detection | dnn_IsMobile | This cookie helps us know whether you're on a mobile device | The main website  
-Site preference | StepChangeSitePref | This cookie tracks whether you prefer the desktop or mobile version of our site | The main website  
-  
-*If you do not wish to receive this type of service from us you can opt-out of Google's use of cookies by visiting Google's [ Ad Preferences page](http://www.google.com/settings/ads/onweb/) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+  * **Request access** to your personal information (commonly known as a "data subject access request"). This enables you to receive a copy of the personal information we hold about you and to check that we are lawfully processing it. 
+  * **Request erasure** of your personal information. This enables you to ask us to delete or remove personal information where there is no legal reason for us continuing to process it. You also have the right to ask us to delete or remove your personal information where you have exercised your right to object to processing (see below). If you want to request a copy of the personal information we hold about you, or request erasure of your personal information, this request can be made in writing to customerrelations@stepchange.org or verbally via our telephone number 0800 138 1111. 
+  * **Object to processing** of your personal information where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground. You also have the right to object where we are processing your personal information for direct marketing purposes.
+  * **Request rectification** of the personal information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
+  * **Request the restriction of processing** of your personal information. This enables you to ask us to suspend the processing of personal information about you, for example if you want us to establish its accuracy or the reason for processing it.
+  * **Request a copy of your personal information** for transfer to another party.
 
-The companies who collect information on our websites may combine this with other information they’ve independently collected from other websites and/or other online or mobile products and services relating to your activities across their network of websites.  Many of these companies collect and use information under their own privacy policies.
 
-## Usage
 
-The Site is intended for non-commercial personal use only and is provided for the exclusive use of private individuals requiring debt advice. Interference or entry to the Site with intent to corrupt, damage or deny service from the Site or for commercial benefit is taken seriously and we will take such action as is necessary to protect the Site from any such activities. The Site and the elements of it are the property of StepChange Debt Charity. You are not allowed to modify or alter any material provided on the Site in any way.
+If you want to request a copy of the personal information we hold about you, or request erasure of your personal information, please contact customerrelations@stepchange.org in writing detailing your request. 
+
+If you want to review, verify, correct your personal information, object to the processing of your personal data, or request that we transfer a copy of your personal information to another party, please contact us using your usual method or email [customerrelations@stepchange.org](mailto:customerrelations@stepchange.org)
+
+### No fee usually required
+
+You will not have to pay a fee to access your personal information (or to exercise any of the other rights). However, we may charge a reasonable fee if your request for access is clearly unfounded or excessive. Alternatively, we may refuse to comply with the request in such circumstances. You will be informed of this in writing, where this is the case. 
+
+### What we may need from you
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access the information (or to exercise any of your other rights). This is another appropriate security measure to ensure that personal information is not disclosed to any person who has no right to receive it. 
+
+### Right to withdraw consent
+
+In the limited circumstances where you may have provided your explicit consent to the collection, processing and transfer of your personal information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. 
+
+To withdraw your consent, please contact us or use the appropriate unsubscribe links available. Once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose or purposes you originally agreed to, unless we have another lawful basis for doing so in law. 
+
+## 13\. Data Protection Officer
+
+We have appointed a Data Protection Officer (DPO) to oversee compliance with this privacy notice. If you have any questions about this privacy notice or how we handle your personal information, please [contact the DPO](mailto:dpo@stepchange.org). 
+
+You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues. Find out on their website [how to report a concern](https://ico.org.uk/concerns) or call the ICO helpline on 0303 123 1113. 
+
+## 14\. Changes to this notice
+
+We reserve the right to update this privacy notice at any time, and we will provide you with a new privacy notice when we make any substantial updates that would affect your rights or how we process your personal data. We may also notify you in other ways from time to time about the processing of your personal information. 
+
+**If you have any questions about this privacy notice, please contact[dpo@stepchange.org](mailto:DPO@StepChange.org)**
+
+_Version 1.0 - updated 25/05/2018_
+
+* * *
+
+## More in this section
