@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asmag.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317014036id_/https%3A//www.asmag.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmag.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231222410id_/https%3A//www.asmag.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - asmag.com
 
 What This Privacy Policy Covers
 
@@ -13,11 +13,10 @@ Who We Are and How to Contact Us
 We are Messe Frankfurt New Era Business Media Ltd, registered in Hong Kong. We publish the following websites:
 
   * [https://www.asmag.com](https://www.asmag.com/)
-  * [https://mysmahome.com](https://mysmahome.com/)
-  * <https://secutech.tw.messefrankfurt.com/taipei/en/visitors/welcome.html>
-  * <https://secutechthailand.tw.messefrankfurt.com/bangkok/en/exhibitors/welcome.html>
-  * <https://secutechvietnam.tw.messefrankfurt.com/hochiminhcity/en/exhibitors/welcome.html>
-  * <https://secutechindia.tw.messefrankfurt.com/mumbai/en/exhibitors/welcome.html>
+  * [https://secutech.tw.messefrankfurt.com/taipei/en/visitors/welcome.html](https://secutech.tw.messefrankfurt.com/taipei/en.html)
+  * [https://secutechthailand.tw.messefrankfurt.com/bangkok/en/exhibitors/welcome.html](https://secutechthailand.tw.messefrankfurt.com/bangkok/en.html)
+  * [https://secutechvietnam.tw.messefrankfurt.com/hochiminhcity/en/exhibitors/welcome.html](https://secutechvietnam.tw.messefrankfurt.com/hochiminhcity/en.html)
+  * [https://secutechindia.tw.messefrankfurt.com/mumbai/en/exhibitors/welcome.html](https://secutechindia.tw.messefrankfurt.com/mumbai/en.html)
 
 
 
