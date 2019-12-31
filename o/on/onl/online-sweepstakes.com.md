@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-sweepstakes.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629171049id_/http%3A//www.online-sweepstakes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-sweepstakes.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231092310id_/http%3A//www.online-sweepstakes.com/privacy) for the most accurate reproduction.*
 
 # Online-Sweepstakes.com | Privacy Statement
 
