@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nameberry.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609194401id_/https%3A//nameberry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nameberry.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231230525id_/https%3A//nameberry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
