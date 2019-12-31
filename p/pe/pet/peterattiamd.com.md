@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the peterattiamd.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322095544id_/https%3A//peterattiamd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterattiamd.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231210948id_/https%3A//peterattiamd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Peter Attia
 
 _Last updated: December 11, 2018_
 
-Attia Medical, P.C. (“Attia Medical,” “we,” “us,” or similar terms) values your privacy.  This Privacy Policy describes the types of information Attia Medical may collect from you or that you may provide when you visit our website [peterattiamd.com](http://peterattiamd.com/) (“Website”) and how we collect, use, disclose, and share that information.
+Attia Medical, P.C. (“Attia Medical,” “we,” “us,” or similar terms) values your privacy.  This Privacy Policy describes the types of information Attia Medical may collect from you or that you may provide when you visit our website [peterattiamd.com](https://peterattiamd.com/) (“Website”) and how we collect, use, disclose, and share that information.
 
 This Privacy Policy applies to information collected on or through the use of the Website listed above.  It does not apply to information collected by us offline or through any other means, including any link, content, or application that is accessible from or on our Website.
 
@@ -14,7 +14,7 @@ We reserve the right to change and update this Privacy Policy and such updated v
 
 ### Information We May Collect About You and How We Collect It
 
-_**Personally Identifiable Information**_. We collect personally identifiable information such as your name, contact information, company information or payment card information (collectively “personal information”) when you provide it to us directly, such as when you:
+ _ **Personally Identifiable Information**_. We collect personally identifiable information such as your name, contact information, company information or payment card information (collectively “personal information”) when you provide it to us directly, such as when you:
 
   * Register and create an account to use the Website;
   * Sign up to receive our weekly emails or other newsletters;
@@ -28,7 +28,7 @@ _**Personally Identifiable Information**_. We collect personally identifiable i
 
 You also may, at your option, choose to provide, upload, submit, store, send content and data, or other information to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Any User Contributions are posted on and transmitted to others at your own risk. We cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons or that User Contributions will not be re-distributed to a wider audience. All User Contributions are deemed public and non-confidential information.
 
-_**Non-Personal Information.**_ Like other companies, Attia Medical collects certain information about visitors to its website, including information about your internet connection, your IP address, the equipment you use to access the Website, usage details, and search queries submitted on the Website.  We may also collect non-personal information automatically as you navigate through our Website, using technologies such as cookies and analytics software.
+ _ **Non-Personal Information.**_ Like other companies, Attia Medical collects certain information about visitors to its website, including information about your internet connection, your IP address, the equipment you use to access the Website, usage details, and search queries submitted on the Website.  We may also collect non-personal information automatically as you navigate through our Website, using technologies such as cookies and analytics software.
 
 This technology allows our webservers to automatically recognize and collect the domain name and IP address of visitors to our Website.  We use the information gathered through these technologies to improve your experience on our Website, analyze trends, track visitor movements, diagnose problems, gather information on visitor preferences, and tailor our offerings to better meet your individual tastes.
 
