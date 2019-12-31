@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gobble.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309141442id_/https%3A//www.gobble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobble.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231011719id_/https%3A//www.gobble.com/privacy) for the most accurate reproduction.*
 
-# Dinner kits designed for 15 minutes with 1 pan | Gobble
+# Privacy Policy | Gobble
 
 #### 1\. Our Commitment to Privacy.
 
-Protecting your privacy and the personal information you provide us is a top priority for us. For this reason, we do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We want our users to fully understand what information we collect, how we use this information, and the steps we take to protect your personal information. Please read this privacy policy to learn more about the policies and procedures we have put in place to achieve this goal. This notice describes our Privacy Policy. By visiting this site, you are accepting the practices described in this Privacy Policy. 
+This notice describes our Privacy Policy. Protecting your privacy and the personal information you provide us is a top priority for Gobble. For this reason, we do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We want our users to fully understand what information we collect, how we use this information, and the steps we take to protect your personal information. Please read this Privacy Policy to learn more about the policies and procedures we have put in place to achieve this goal. By visiting this Site, you are accepting the practices described in this Privacy Policy. 
 
 For the convenience of our visitors, this Website may contain links to a number of sites that we believe may offer useful information. The policies and procedures we described here do not apply to those sites. We suggest contacting those sites directly for information on their privacy, security, data collection, and distribution policies. 
 
@@ -12,23 +12,35 @@ For the convenience of our visitors, this Website may contain links to a number 
 
 ##### (a) Information You Provide to Us:
 
-We collect any information you enter on our Site or that you give us in any other way. For example, any time you create a User account, we collect and save the information. This information may include your geographic location, photos, videos, blogs, favorite dishes, specialty dishes, ethnicity and other inarticleidual information useful in enabling Site Users to locate your services. At least some of this information will be visible to other Site Users, depending on your personal preferences. As such, please use your discretion in determining the amount and specificity of the information you provide and the level of visibility you select in your User preference page. 
-
-We may use and share information we collect from our users without prior consent when we collect and compile information in the aggregate, in a way that would not enable others from identifying personal information about inarticleidual Users. We also may save your email address, user-name, password, and first and last name (all of which may be edited and changed by signing onto your account) for account maintenance purposes, but we do not share this information. 
+We collect any information you enter on our Site or that you give us in any other way. This includes personal information such as your name, email address, mailing address, credit card information and phone number. It may also include, but is not limited to, other information related to servicing your meal subscription such as your weekly meal choices, food preferences, preferred delivery day, and meal feedback. 
 
 ##### (b) Your Usage of Our Site.
 
-We automatically track certain information about you based upon your use of our site. We use this information to conduct internal research on our users’ demographics and behavior to better understand and serve our users. This information may include the URL that you just came from, which URL you next go to, what browser you are using, and your IP address. 
+We automatically track certain information about you based upon your use of our Site, as well as from your interaction with emails that we send to you. The personal information we automatically collect may include your geolocation and other data, including your IP address, browser type, device type, the webpage you visited before coming to our Site, pages you visited on our Site, time spent on those pages, when and for how long you visited the Site, and similar information, which we collect through cookies, and other technologies. The information we automatically collect may be associated with any personal information that you have provided to us. 
 
 ##### (c) Cookies.
 
-In addition, we use “cookies” on certain pages of our site. Cookies are small files that can be used to track a user’s steps or automatically generate a user’s password. Cookies allow you to enter your password less frequently during a session. Cookies can also help us provide information which is targeted to your interests. Cookies are stored on your hard drive, not on our site. Most cookies are automatically deleted at the end of a session. You may decline our cookies if your browser permits, although your use of the site will then be restricted. 
+We use “cookies” on certain pages of our Site. Cookies are small files that can be used to track a user’s steps or automatically generate a user’s password. Cookies allow you to enter your password less frequently during a session and help us personalize your Site experience. Cookies are stored on your hard drive, not on our Site. Most cookies are automatically deleted at the end of a session. You may decline our cookies if your browser permits, although your use of the Site will then be restricted. 
 
 #### 3\. How and When the Information is Used.
 
-Information you submit to Us will fall into two categories. The first is personal information, which we will protect and not disclose to other Users. The second is information you submit for inclusion in your profile. Please note that your profile may be viewed by other Users, and as such, you should use discretion and consideration before submitting such profile information. 
+We may use your information to provide basic functionality on our Site, such as displaying appropriate meal recommendations, processing and fulfilling your meal subscription, communicating about orders and their status, and personalizing the customer experience where possible. 
 
-Your information is also used for administering our business activities. We may use the information to notify you, either directly or through our agent(s) about changes to our website, new services, or special offers. You authorize Us to send you newsletters relating to Our Service. 
+We may also use your information to contact you for informational or promotional purposes and provide customer service to you. 
+
+We may use non-personally identifiable information collected to determine user demographics, interests, and behavior and may market Gobble products using this information, or by sharing it with partners. Gobble may also provide your non-personally identifiable information to contractors so that they can perform services for us, such as IT or analytics. We may also utilize service providers to assist us in aggregating customer information, and then share such aggregated non-personally identifiable information with prospective marketing partners, advertisers and others. 
+
+Your personally identifiable information that you provide to us and information about your order may be combined with other personally identifiable information from our records and other sources. This information may be shared with service providers that perform analytics to help us improve our products and site, to market our services, and to identify new potential customers. These marketing service providers may share your name and contact information with their partners, but they will not identify you as a Gobble customer. We may also share this information with third parties with whom we offer co-branded or joint product and service promotions, but will be done so only under a confidentiality agreement at least as restrictive as the privacy provisions contained in this Privacy Policy. 
+
+**If you prefer that we do not use and share your information in this way, please email us at optout@gobble.com.**
+
+Gobble reserves the right to determine the form and means of providing notifications to our users, such as phone, text, email or mail. By providing Gobble with your email, phone number, and postal address, you consent to our using such contact information to send you notices. You may opt out of certain notifications by using the unsubscribe link found at the bottom of the email to opt-out of receiving future emails, replying STOP to text messages, email us a request at sous@gobble.com, or by changing your account settings. To stop receiving notices, you can also send us a request by mail to: 
+
+Gobble, Inc  
+Attn: Marketing Department  
+637 Natoma Street, Suite 5  
+San Francisco, CA 94103  
+
 
 #### 4\. Legal Requests
 
@@ -36,9 +48,9 @@ We cooperate with law enforcement authorities, as well as with other third parti
 
 #### 5\. How We Protect Your Information.
 
-The privacy and protection of your information is important to us. We therefore use practices that are consistent with standards in the industry to protect your privacy. Subject to the other sections of this Privacy Policy, we do not make any personal information available to third parties without your permission. Please note, however, that no transmission over the Internet can be fully guaranteed in its confidentiality and non-disclosure, and as such you transmit at your own risk. 
+The security of your personal information is important to us. When you provide sensitive information (such as a credit card number), we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. 
 
-Your access to some services and content, such as the viewing of full cook profiles, are password protected. We advise that you do not disclose your password to anyone. In addition, we recommend you sign out of password-protected services at the end of your session. You are responsible for all actions taken with your login name and password. Your user password should be held in strict confidence. If you lose control of your password, you may lose substantial control over your information and cook profile. Therefore, if your password has been compromised for any reason, you should immediately change your password. We offer you the ability to review and change the information you submit to us by logging into the site and entering in the new information yourself. Once logged in as a registered user, you can change your Password and user preferences. Please contact us at support@bookofcooks.com if you are unable to change your password. We will not be liable for any loss or damage arising from your failure to comply with this provision. 
+However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee the absolute security of such information. If you have any questions about security on our Site, please contact us as at sous@gobble.com. 
 
 #### 6\. Consent
 
@@ -50,4 +62,4 @@ If our Privacy Policy or procedures change, we will immediately post those chang
 
 #### 8\. Effective Date
 
-This Privacy Policy is effective as of September 1, 2010. 
+This Privacy Policy is effective as of October 1, 2019. 
