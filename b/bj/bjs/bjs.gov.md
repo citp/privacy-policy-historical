@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bjs.gov privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621180755id_/https%3A//www.justice.gov/doj/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjs.gov privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231153354id_/https%3A//www.justice.gov/doj/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DOJ | Department of Justice
+# Privacy Policy
 
 Thank you for visiting the United States Department of Justice (DOJ or Department) website and reviewing our Privacy Policy. The Department is committed to protecting your privacy and securing the personal information made available to us when you access our public-facing websites and applications. This Privacy Policy describes what information is made available to the Department, what information the Department collects, how that information is used, and how information is stored when you visit the Department’s public-facing websites or official DOJ accounts on third-party websites and applications.
 
