@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nhl.tv privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231537id_/https%3A//www.nhl.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhl.tv privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231083903id_/https%3A//www.nhl.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NHL.com
 
 **Privacy Policy**
 
- _Last Updated and Effective Date - May 25, 2018_
+ _Last Updated and Effective Date - September 13, 2019_
 
 This Privacy Policy describes the manner in which NHL Interactive CyberEnterprises, LLC, and its affiliates, including NHL Enterprises, L.P., NHL Enterprises Canada, L.P., and the National Hockey League (collectively, the "NHL," "we," "our," "us") use information in operating our websites, our mobile and other apps, and any other online service that displays or provides an authorized link to this Privacy Policy (collectively, the "Services"). 
 
@@ -18,7 +18,7 @@ We collect and receive the following types of information:
 
   * **Information You Provide Directly**. We receive the information you choose to provide when using our Services.
 
-    * For example, in connection with certain uses of our Services, such as when you register for our Services, bid on or purchase products on our Services, sign up for _[NHL.TV](http://nhl.tv/)_ (formerly known as NHL GameCenter LIVE and also referred to as Rogers NHL LIVE, (collectively, " _[NHL.TV](http://nhl.tv/)_ ")), sign up to receive electronic or other marketing communications, sign up to learn more about our upcoming events, enter a contest or sweepstakes, comment on an article, communicate with customer service, or complete a questionnaire you may be asked to provide information about yourself including:
+    * For example, in connection with certain uses of our Services, such as when you register for our Services, bid on or purchase products on our Services, sign up for _[NHL.TV](http://nhl.tv/)_ (formerly known as NHL GameCenter LIVE and also referred to as NHL LIVE™, (collectively, " _[NHL.TV](http://nhl.tv/)_ ")), sign up to receive electronic or other marketing communications, sign up to learn more about our upcoming events, enter a contest or sweepstakes, comment on an article, communicate with customer service, or complete a questionnaire you may be asked to provide information about yourself including:
 
       * Your first and last name, username, company name, mailing address, phone number, date of birth, email address, mobile phone number, payment information, favorite Member Club and Member Club players, a photograph, and/or information about your use of our Services.
 
@@ -137,7 +137,7 @@ You also may be able to link an account from a social networking service to an a
 
 5. ** _Notice to Rogers Communications Subscribers_**.
 
- _[NHL.TV](http://nhl.tv/)_ or Rogers NHL GameCentre LIVE by logging into your account with Rogers Communications Partnership, Rogers Communications Partnership and its affiliates ("Rogers") may receive information from the NHL about your use of _[NHL.TV](http://nhl.tv/)_ , such as the type of content watched, dates of activity, amount of time spent on _[NHL.TV](http://nhl.tv/)_ , and type of device used to access _[NHL.TV](http://nhl.tv/)_. Rogers will use this information for the purposes of offering and operating _[NHL.TV](http://nhl.tv/)_ in Canada, tailoring communications to you, and understanding and improving its products and service offerings. Rogers will use and handle the information it receives in connection with _[NHL.TV](http://nhl.tv/)_ in accordance with the Rogers privacy policy available at _<http://www.rogers.com/web/content/Privacy-Policy>_ and not with this Privacy Policy. In addition, when you use your MyRogers login to access _[NHL.TV](http://nhl.tv/)_ , Rogers NHL GameCentre LIVE, or other NHL content, the NHL will receive certain account-related information from Rogers (such as your name, username, contact information and type of subscription) and will use it in accordance with this Privacy Policy, including to identify you as a _[NHL.TV](http://nhl.tv/)_ user, to tailor content and communications, and to better understand and improve its products and service offerings.
+ _[NHL.TV](http://nhl.tv/)_ or NHL LIVE™ by logging into your account with Rogers Communications Partnership, Rogers Communications Partnership and its affiliates ("Rogers") may receive information from the NHL about your use of _[NHL.TV](http://nhl.tv/)_ , such as the type of content watched, dates of activity, amount of time spent on _[NHL.TV](http://nhl.tv/)_ , and type of device used to access _[NHL.TV](http://nhl.tv/)_. Rogers will use this information for the purposes of offering and operating _[NHL.TV](http://nhl.tv/)_ in Canada, tailoring communications to you, and understanding and improving its products and service offerings. Rogers will use and handle the information it receives in connection with _[NHL.TV](http://nhl.tv/)_ in accordance with the Rogers privacy policy available at _<http://www.rogers.com/web/content/Privacy-Policy>_ and not with this Privacy Policy. In addition, when you use your NHL LIVE™ login to access _[NHL.TV](http://nhl.tv/)_ , NHL LIVE™, or other NHL content, the NHL will receive certain account-related information from Rogers (such as your name, username, contact information and type of subscription) and will use it in accordance with this Privacy Policy, including to identify you as a _[NHL.TV](http://nhl.tv/)_ user, to tailor content and communications, and to better understand and improve its products and service offerings.
 
 6. ** _"Do Not Track" Signals_**.
 
