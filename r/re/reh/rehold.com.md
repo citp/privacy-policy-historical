@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rehold.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627045155id_/https%3A//rehold.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rehold.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231214039id_/https%3A//rehold.com/page/privacy) for the most accurate reproduction.*
 
 # Rehold Privacy Policy
 
