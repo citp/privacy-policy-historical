@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fsishare.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403184309id_/https%3A//www.freesexyindians.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsishare.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231093103id_/https%3A//www.freesexyindians.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FSI Blog
 
-**Welcome, and thank you for your interest in freesexyindians.com  ** **(“** **site”** **, “we” or “us”), and all related websites, downloadable software, mobile applications (including tablet applications), and other services provided by us and on which a link to this Privacy Policy is displayed, and all other communications with individuals through email.**
+**Welcome, and thank you for your interest in freesexyindians.com** **(“** **site”** **, “we” or “us”), and all related websites, downloadable software, mobile applications (including tablet applications), and other services provided by us and on which a link to this Privacy Policy is displayed, and all other communications with individuals through email.**
 
 This Privacy Policy (“Policy”) describes the information that we gather on or through the Service, how we use and disclose such information, and the steps we take to protect such information. By visiting the Site, or by purchasing or using the Service, you accept the privacy practices described in this Policy.
 
@@ -137,6 +137,6 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## 12\. How to contact us
 
-Please contact us with any questions or comments about this Policy, your Personal Data, our use and disclosure practices, or your consent choices by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection).
+Please contact us with any questions or comments about this Policy, your Personal Data, our use and disclosure practices, or your consent choices by email atzendesk@freesexyindians.com.
 
 Last update: 11.5. 2018 
