@@ -1,33 +1,152 @@
-<!--The following is the downloaded HTML source of the marimedia.net privacy policy that was archived on 2017-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170615193106id_/http%3A//www.taptica.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marimedia.net privacy policy that was archived on 2019-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191231062516id_/https%3A//www.taptica.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]--><head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-	<title>Privacy - Taptica</title>
+<!DOCTYPE html><html lang="en"><head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" href="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/themes/taptica3/assets/img/favicon.png" sizes="16x16" type="image/png">
+	<link href="https://fonts.googleapis.com/css?family=Courgette|Poppins:400,500|Zilla+Slab:400,400i,500,500i,600,700" rel="stylesheet">
+	<meta property="og:url" content="https://www.taptica.com/privacy-policy/">
+	<meta property="og:title" content="
+	Taptica	">
+	<meta property="og:image" content="
+	https://www.taptica.com/wp-content/uploads/2019/02/favicon_taptica.png		">
+	<meta property="og:description" content="
+	Taptica is a publicly traded, global end-to-end mobile advertising platform that helps the world’s top brands reach their most valuable users with the widest range of traffic sources available today.	">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
 
-<!-- This site is optimized with the Yoast SEO plugin v4.8 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://www.taptica.com/privacy/">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy - Taptica">
-<meta property="og:description" content="Privacy Statement The Company, including its direct and/or indirect subsidiaries and affiliates which include the platform and services for Taptica (the “Company”, “We”), its respective website (the “Website”) and the services and technologies they provide (the “Service” or “Platform”) has a strong commitment to protect the privacy of its users. Our privacy policy aims to …">
-<meta property="og:url" content="http://www.taptica.com/privacy/">
-<meta property="og:site_name" content="Taptica">
-<meta property="article:publisher" content="https://www.facebook.com/Taptica">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:description" content="Privacy Statement The Company, including its direct and/or indirect subsidiaries and affiliates which include the platform and services for Taptica (the “Company”, “We”), its respective website (the “Website”) and the services and technologies they provide (the “Service” or “Platform”) has a strong commitment to protect the privacy of its users. Our privacy policy aims to […]">
-<meta name="twitter:title" content="Privacy - Taptica">
-<meta name="twitter:site" content="@taptica">
-<meta name="twitter:creator" content="@taptica">
-<!-- / Yoast SEO plugin. -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-85401087-1"></script>
+
+	<script>
+
+	  window.dataLayer = window.dataLayer || [];
+
+	  function gtag(){dataLayer.push(arguments);}
+
+	  gtag('js', new Date());
+
+
+	  gtag('config', 'UA-85401087-1');
+
+	</script>
+	<!-- inject:css -->
+	<link rel="stylesheet" href="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/themes/taptica3/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/themes/taptica3/css/main.css">
+	<!-- endinject -->
+	<title>Taptica</title>
+	
+	<style>
+		.wpcf7-submit{
+			display:none;
+		}
+		.recaptcha-btn{
+			display:block;
+		}
+		.grecaptcha-badge {display: none;} 
+	</style>
+	<script type="text/javascript">
+		var contactform = [];
+		var checkIfCalled = true;
+		var renderGoogleInvisibleRecaptchaFront = function() {
+			// prevent form submit from enter key
+			jQuery("input[name=_wpcf7]").attr("class","formid");
+				jQuery('.wpcf7-form').on('keyup keypress', "input", function(e) {
+				  var keyCode = e.keyCode || e.which;
+				  if (keyCode === 13) {
+					e.preventDefault();
+					return false;
+				  }
+				});
+
+			jQuery('.wpcf7-submit').each(function(index){
+
+				var checkexclude = 0;
+				var form = jQuery(this).closest('.wpcf7-form');
+				var value = jQuery(form).find(".formid").val();
+				// check form exclude from invisible recaptcha
+								if(checkexclude == 0){
+					// Hide the form orig submit button
+					form.find('.wpcf7-submit').hide();
+
+					// Fetch class and value of orig submit button
+					btnClasses = form.find('.wpcf7-submit').attr('class');
+					btnValue = form.find('.wpcf7-submit').attr('value');
+
+					// Add custom button and recaptcha holder
+
+					form.find('.wpcf7-submit').after('<input type="button" id="wpcf-custom-btn-'+index+'" class="'+btnClasses+'  recaptcha-btn recaptcha-btn-type-css" value="'+btnValue+'" title="'+btnValue+'" >');
+					form.append('<div class="recaptcha-holder" id="recaptcha-holder-'+index+'"></div>');
+					// Recaptcha rendenr from here
+					var holderId = grecaptcha.render('recaptcha-holder-'+index,{
+								'sitekey':'6LdlzJIUAAAAAMhAH0ZkcthDNyzKv70Gb7RGnTDU',
+								'size': 'invisible',
+								'badge' : 'bottomright', // possible values: bottomright, bottomleft, inline
+								'callback' : function (recaptchaToken) {
+									//console.log(recaptchaToken);
+									var response=jQuery('#recaptcha-holder-'+index).find('.g-recaptcha-response').val();
+									//console.log(response);
+									//Remove old response and store new respone
+									jQuery('#recaptcha-holder-'+index).parent().find(".respose_post").remove();
+									jQuery('#recaptcha-holder-'+index).after('<input type="hidden" name="g-recaptcha-response"  value="'+response+'" class="respose_post">')
+									grecaptcha.reset(holderId);
+
+									if(typeof customCF7Validator !== 'undefined'){
+										if(!customCF7Validator(form)){
+											return;
+										}
+									}
+									// Call default Validator function
+									else if(contactFormDefaultValidator(form)){
+										return;
+									}
+									else{
+										// hide the custom button and show orig submit button again and submit the form
+										jQuery('#wpcf-custom-btn-'+index).hide();
+										form.find('input[type=submit]').show();
+										form.find("input[type=submit]").click();
+										form.find('input[type=submit]').hide();
+										jQuery('#wpcf-custom-btn-'+index).attr('style','');
+									}
+								}
+						},false);
+
+					// action call when click on custom button
+					jQuery('#wpcf-custom-btn-'+index).click(function(event){
+						event.preventDefault();
+						// Call custom validator function
+						if(typeof customCF7Validator == 'function'){
+							if(!customCF7Validator(form)){
+								return false;
+							}
+						}
+						// Call default Validator function
+						else if(contactFormDefaultValidator(form)){
+							return false;
+						}
+						else if(grecaptcha.getResponse(holderId) != ''){
+							grecaptcha.reset(holderId);
+						}
+						else{
+							// execute the recaptcha challenge
+							grecaptcha.execute(holderId);
+						}
+					});
+				}
+			});
+		}
+	</script><script src="https://www.google.com/recaptcha/api.js?onload=renderGoogleInvisibleRecaptchaFront&amp;render=explicit" async="" defer=""></script><link rel="alternate" hreflang="en" href="https://www.taptica.com/privacy-policy/">
+<link rel="alternate" hreflang="ja" href="https://www.taptica.com/ja/privacy-policy/">
+<link rel="alternate" hreflang="ko" href="https://www.taptica.com/ko/privacy-policy/">
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v9.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- / Yoast SEO Premium plugin. -->
 
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="Taptica » Privacy Comments Feed" href="http://www.taptica.com/privacy/feed/">
-<script async="" src="http://www.taptica.com/?gdbc-client=3.1.7-1580379763668"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script type="text/javascript" async="" src="https://tag.marinsm.com/serve/58bd3f81b55c70563000005f.js"></script><script async="" src="https://static.oktopost.com/oktrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var $TS_VCSC_CurrentPluginRelease = "5.2.1";var $TS_VCSC_CurrentComposerRelease = "5.1.1";var $TS_VCSC_Lightbox_Activated = true;var $TS_VCSC_Lightbox_Thumbs = "bottom";var $TS_VCSC_Lightbox_Thumbsize = 50;var $TS_VCSC_Lightbox_Animation = "random";var $TS_VCSC_Lightbox_Captions = "data-title";var $TS_VCSC_Lightbox_Closer = true;var $TS_VCSC_Lightbox_Durations = 5000;var $TS_VCSC_Lightbox_Share = false;var $TS_VCSC_Lightbox_LoadAPIs = true;var $TS_VCSC_Lightbox_Social = "fb,tw,gp,pin";var $TS_VCSC_Lightbox_NoTouch = false;var $TS_VCSC_Lightbox_BGClose = true;var $TS_VCSC_Lightbox_NoHashes = true;var $TS_VCSC_Lightbox_Keyboard = true;var $TS_VCSC_Lightbox_FullScreen = true;var $TS_VCSC_Lightbox_Zoom = true;var $TS_VCSC_Lightbox_FXSpeed = 300;var $TS_VCSC_Lightbox_Scheme = "dark";var $TS_VCSC_Lightbox_URLColor = false;var $TS_VCSC_Lightbox_Backlight = "#ffffff";var $TS_VCSC_Lightbox_UseColor = false;var $TS_VCSC_Lightbox_Overlay = "#000000";var $TS_VCSC_Lightbox_Background = "";var $TS_VCSC_Lightbox_Repeat = "no-repeat";var $TS_VCSC_Lightbox_Noise = "";var $TS_VCSC_Lightbox_CORS = false;var $TS_VCSC_Lightbox_Tapping = true;var $TS_VCSC_Lightbox_ScrollBlock = "js";var $TS_VCSC_Lightbox_Protection = "none";var $TS_VCSC_Lightbox_HistoryClose = false;var $TS_VCSC_Lightbox_HomeURL = "http://www.taptica.com";var $TS_VCSC_Lightbox_LastScroll = 0;var $TS_VCSC_Lightbox_Showing = false;var $TS_VCSC_Lightbox_PrettyPhoto = false;var $TS_VCSC_Hammer_ReleaseNew = true;var $TS_VCSC_Countdown_DaysLabel = "Days";var $TS_VCSC_Countdown_DayLabel = "Day";var $TS_VCSC_Countdown_HoursLabel = "Hours";var $TS_VCSC_Countdown_HourLabel = "Hour";var $TS_VCSC_Countdown_MinutesLabel = "Minutes";var $TS_VCSC_Countdown_MinuteLabel = "Minute";var $TS_VCSC_Countdown_SecondsLabel = "Seconds";var $TS_VCSC_Countdown_SecondLabel = "Second";</script>		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.taptica.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.taptica.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.5" type="text/javascript" defer=""></script>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.taptica.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.taptica.com/wp-includes/js/wp-emoji-release.min.js?ver=5.3.2" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -42,626 +161,512 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.taptica.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7" type="text/css" media="all">
-<link rel="stylesheet" id="pix-infiniteload-css" href="http://www.taptica.com/wp-content/plugins/infinite-scroll-and-load-more-ajax-pagination/css/infiniteload.css?ver=4.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="popup-maker-site-css" href="http://www.taptica.com/wp-content/plugins/popup-maker/assets/css/site.min.css?ver=1.6.3" type="text/css" media="all">
-<link rel="stylesheet" id="fontsLato-css" href="http://www.taptica.com/wp-content/themes/taptica/fonts/stylesheet.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="normalize-css" href="http://www.taptica.com/wp-content/themes/taptica/css/vendor/normalize.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="slick-css" href="http://www.taptica.com/wp-content/themes/taptica/css/vendor/slick.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="style-css" href="http://www.taptica.com/wp-content/themes/taptica/style.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://www.taptica.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="tooltipster-css" href="http://www.taptica.com/wp-content/themes/taptica/css/vendor/tooltipster.css?ver=4.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="more_styles-css" href="http://www.taptica.com/wp-content/themes/taptica/more_styles.css?ver=4.7.5" type="text/css" media="all">
-<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
-<script type="text/javascript" data-cfasync="false">
-	/* Function to detect opted out users */
-	function __gaTrackerIsOptedOut() {
-		return document.cookie.indexOf(disableStr + '=true') > -1;
-	}
-
-	/* Disable tracking if the opt-out cookie exists. */
-	var disableStr = 'ga-disable-UA-85401087-1';
-	if ( __gaTrackerIsOptedOut() ) {
-		window[disableStr] = true;
-	}
-
-	/* Opt-out function */
-	function __gaTrackerOptout() {
-	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-	  window[disableStr] = true;
-	}
-
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
-
-	__gaTracker('create', 'UA-85401087-1', 'auto', {'allowLinker':true});
-	__gaTracker('set', 'forceSSL', true);
-	__gaTracker('require', 'displayfeatures');
-	__gaTracker('require', 'linkid', 'linkid.js');
-	__gaTracker('send','pageview');
-</script>
-<!-- / Google Analytics by MonsterInsights -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/www.taptica.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.taptica.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.2.0"></script>
-<script type="text/javascript" src="http://www.taptica.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="http://www.taptica.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://www.taptica.com/wp-content/plugins/wp-mailto-links/public/js/wp-mailto-links.js?ver=4.7.5"></script>
-<script type="text/javascript" src="http://www.taptica.com/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=3.0.2"></script>
-<link rel="https://api.w.org/" href="http://www.taptica.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.taptica.com/xmlrpc.php?rsd">
-
-<link rel="shortlink" href="http://www.taptica.com/?p=959">
-<link rel="alternate" type="application/json+oembed" href="http://www.taptica.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.taptica.com%2Fprivacy%2F">
-<link rel="alternate" type="text/xml+oembed" href="http://www.taptica.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.taptica.com%2Fprivacy%2F&amp;format=xml">
-<style type="text/css" media="all">
-/* WP Mailto Links Plugin */
-span.wpml-nodis { display:none !important; }
-span.wpml-rtl { unicode-bidi:bidi-override !important; direction:rtl !important; display:inline !important; }
-.wpml-encoded { position:absolute; margin-top:-0.3em; z-index:1000; color:green; }
-.mail-link { white-space:nowrap; }
-
-a.mail-icon-1 {
-    background-image:url("http://www.taptica.com/wp-content/plugins/wp-mailto-links/public/images/mail-icon-1.png");
-    background-repeat:no-repeat;
-        background-position:100% 50%; padding-right:18px;
-    }
-</style>
-<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.taptica.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="http://www.taptica.com/wp-content/uploads/2017/04/cropped-favicon-32x32.png" sizes="32x32">
-<link rel="icon" href="http://www.taptica.com/wp-content/uploads/2017/04/cropped-favicon-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="http://www.taptica.com/wp-content/uploads/2017/04/cropped-favicon-180x180.png">
-<meta name="msapplication-TileImage" content="http://www.taptica.com/wp-content/uploads/2017/04/cropped-favicon-270x270.png">
-<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	<style id="pum-styles" type="text/css">
-	/* Popup Google Fonts */
-@import url('//fonts.googleapis.com/css?family=Montserrat|Acme');
-
-/* Popup Theme 2259: Light Box */
-.pum-theme-2259, .pum-theme-lightbox { background-color: rgba( 0, 0, 0, 0.6 ) } 
-.pum-theme-2259 .pum-container, .pum-theme-lightbox .pum-container { padding: 18px; border-radius: 3px; border: 8px solid #000000; box-shadow: 0px 0px 30px 0px rgba( 2, 2, 2, 1 ); background-color: rgba( 255, 255, 255, 1 ) } 
-.pum-theme-2259 .pum-title, .pum-theme-lightbox .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
-.pum-theme-2259 .pum-content, .pum-theme-lightbox .pum-content { color: #000000; font-family: inherit } 
-.pum-theme-2259 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close { height: 30px; width: 30px; left: auto; right: -24px; bottom: auto; top: -24px; padding: 0px; color: #ffffff; font-family: inherit; font-size: 24px; line-height: 26px; border: 2px solid #ffffff; border-radius: 30px; box-shadow: 0px 0px 15px 1px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 1 ) } 
-/* Popup Theme 2260: Enterprise Blue */
-.pum-theme-2260, .pum-theme-enterprise-blue { background-color: rgba( 0, 0, 0, 0.7 ) } 
-.pum-theme-2260 .pum-container, .pum-theme-enterprise-blue .pum-container { padding: 28px; border-radius: 5px; border: 1px none #000000; box-shadow: 0px 10px 25px 4px rgba( 2, 2, 2, 0.5 ); background-color: rgba( 255, 255, 255, 1 ) } 
-.pum-theme-2260 .pum-title, .pum-theme-enterprise-blue .pum-title { color: #315b7c; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 34px; line-height: 36px } 
-.pum-theme-2260 .pum-content, .pum-theme-enterprise-blue .pum-content { color: #2d2d2d; font-family: inherit } 
-.pum-theme-2260 .pum-content + .pum-close, .pum-theme-enterprise-blue .pum-content + .pum-close { height: 28px; width: 28px; left: auto; right: 8px; bottom: auto; top: 8px; padding: 4px; color: #ffffff; font-family: inherit; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 42px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 49, 91, 124, 1 ) } 
-/* Popup Theme 2261: Hello Box */
-.pum-theme-2261, .pum-theme-hello-box { background-color: rgba( 0, 0, 0, 0.75 ) } 
-.pum-theme-2261 .pum-container, .pum-theme-hello-box .pum-container { padding: 30px; border-radius: 80px; border: 14px solid #81d742; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0 ); background-color: rgba( 255, 255, 255, 1 ) } 
-.pum-theme-2261 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Montserrat; font-size: 32px; line-height: 36px } 
-.pum-theme-2261 .pum-content, .pum-theme-hello-box .pum-content { color: #2d2d2d; font-family: inherit } 
-.pum-theme-2261 .pum-content + .pum-close, .pum-theme-hello-box .pum-content + .pum-close { height: auto; width: auto; left: auto; right: -30px; bottom: auto; top: -30px; padding: 0px; color: #2d2d2d; font-family: inherit; font-size: 32px; line-height: 28px; border: 1px none #ffffff; border-radius: 28px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1 ) } 
-/* Popup Theme 2262: Cutting Edge */
-.pum-theme-2262, .pum-theme-cutting-edge { background-color: rgba( 0, 0, 0, 0.5 ) } 
-.pum-theme-2262 .pum-container, .pum-theme-cutting-edge .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 10px 25px 0px rgba( 2, 2, 2, 0.5 ); background-color: rgba( 30, 115, 190, 1 ) } 
-.pum-theme-2262 .pum-title, .pum-theme-cutting-edge .pum-title { color: #ffffff; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Sans-Serif; font-size: 26px; line-height: 28px } 
-.pum-theme-2262 .pum-content, .pum-theme-cutting-edge .pum-content { color: #ffffff; font-family: inherit } 
-.pum-theme-2262 .pum-content + .pum-close, .pum-theme-cutting-edge .pum-content + .pum-close { height: 24px; width: 24px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #1e73be; font-family: inherit; font-size: 32px; line-height: 24px; border: 1px none #ffffff; border-radius: 0px; box-shadow: -1px 1px 1px 0px rgba( 2, 2, 2, 0.1 ); text-shadow: -1px 1px 1px rgba( 0, 0, 0, 0.1 ); background-color: rgba( 238, 238, 34, 1 ) } 
-/* Popup Theme 2263: Framed Border */
-.pum-theme-2263, .pum-theme-framed-border { background-color: rgba( 255, 255, 255, 0.5 ) } 
-.pum-theme-2263 .pum-container, .pum-theme-framed-border .pum-container { padding: 18px; border-radius: 0px; border: 20px outset #dd3333; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.97 ) inset; background-color: rgba( 255, 251, 239, 1 ) } 
-.pum-theme-2263 .pum-title, .pum-theme-framed-border .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
-.pum-theme-2263 .pum-content, .pum-theme-framed-border .pum-content { color: #2d2d2d; font-family: inherit } 
-.pum-theme-2263 .pum-content + .pum-close, .pum-theme-framed-border .pum-content + .pum-close { height: 20px; width: 20px; left: auto; right: -20px; bottom: auto; top: -20px; padding: 0px; color: #ffffff; font-family: Acme; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 0.55 ) } 
-/* Popup Theme 1134: Default Theme */
-.pum-theme-1134, .pum-theme-default-theme { background-color: rgba( 10, 10, 10, 0.85 ) } 
-.pum-theme-1134 .pum-container, .pum-theme-default-theme .pum-container { padding: 30px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1 ) } 
-.pum-theme-1134 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: center; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: normal; font-size: 32px; font-style: normal; line-height: 36px } 
-.pum-theme-1134 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit; font-weight: normal; font-style: normal } 
-.pum-theme-1134 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 10px; color: #b2b2b2; font-family: inherit; font-weight: normal; font-size: 12px; font-style: normal; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ) } 
-
-	
-		</style></head>
-<body class="default page page-id-959 wpb-js-composer js-comp-ver-5.1.1 vc_responsive ">
-	<div class="page-load">
-            <div class="loader">
-                <div class="ball"></div>
-                <p>Loading</p>                
-            </div>
-        </div>
-    
-     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="0" height="0" viewBox="0 0 0 0" style="enable-background:new 0 0 0 0; display:none;" xml:space="preserve">
-    <defs>
-      <style type="text/css">
-        
-          .st0{fill:#ffffff;}
-          .st1{fill:#000000;}
-        
-      </style>
-        <g id="svg-logo-before-scroll">
-        <path data-id="Fill-1" class="st1" d="M128.418,29.23v-7.87c0-3.023-1.042-5.591-3.167-7.662c-2.04-2.029-4.624-3.065-7.665-3.065
-            c-3.043,0-5.584,1.036-7.627,3.065c-2.082,2.071-3.123,4.597-3.123,7.62c0,3.025,1.041,5.591,3.123,7.663
-            c2.043,2.071,4.584,3.106,7.627,3.106c0.833,0,1.541-0.291,2.082-0.828c0.5-0.539,0.792-1.201,0.792-2.029s-0.292-1.492-0.792-2.029
-            c-0.541-0.497-1.249-0.787-2.082-0.787c-1.377,0-2.626-0.498-3.584-1.492c-1-0.993-1.458-2.194-1.458-3.603
-            c0-1.408,0.458-2.567,1.458-3.562c0.958-0.952,2.207-1.49,3.584-1.49c1.416,0,2.582,0.538,3.623,1.49
-            c1,0.994,1.502,2.154,1.502,3.604v7.87c0,0.828,0.249,1.531,0.789,2.07c0.502,0.496,1.168,0.787,2.002,0.787
-            c0.833,0,1.541-0.291,2.083-0.787C128.127,30.762,128.418,30.059,128.418,29.23"></path>
-        <path data-id="Fill-2" class="st1" d="M67.254,6.451c-0.542,0.498-0.792,1.201-0.792,2.029v14.413c0,1.615,0.583,3.396,1.75,5.303
-            c1.416,2.277,3.125,3.644,5.208,4.141c0.291,0.041,0.584,0.125,0.917,0.248c0.083,0,0.25,0.043,0.333,0.083
-            c0.792,0.166,1.625,0.249,2.5,0.249c0.874,0,1.583-0.289,2.083-0.787c0.083-0.082,0.167-0.166,0.208-0.248
-            c0.375-0.497,0.583-1.119,0.583-1.822c0-0.746-0.208-1.285-0.583-1.781c-0.042-0.082-0.126-0.166-0.208-0.248
-            c-0.5-0.497-1.208-0.787-2.083-0.787c-0.751,0-1.5-0.125-2.126-0.456c-0.416-0.165-0.874-0.456-1.333-0.87
-            c-0.916-0.869-1.416-1.863-1.582-3.023v-6.502h4.667c1.916,0,2.833-0.953,2.833-2.899c0-0.828-0.25-1.491-0.791-1.988
-            c-0.5-0.539-1.168-0.787-2.042-0.787h-4.667V8.48c0-0.828-0.25-1.532-0.792-2.029c-0.542-0.538-1.25-0.828-2.083-0.828
-            C68.421,5.623,67.754,5.913,67.254,6.451"></path>
-        <path data-id="Fill-3" class="st1" d="M24.839,19.538c0.25-0.662,0.667-1.284,1.167-1.781c1-0.952,2.208-1.49,3.583-1.49
-            c1.375,0,2.625,0.538,3.625,1.49c1,0.994,1.5,2.153,1.5,3.603v7.87c0,0.828,0.25,1.531,0.75,2.07
-            c0.542,0.496,1.25,0.787,2.084,0.787c0.833,0,1.5-0.291,2.041-0.787c0.542-0.539,0.833-1.242,0.833-2.07v-7.87
-            c0-3.022-1.042-5.591-3.167-7.662c-2.041-2.029-4.624-3.065-7.666-3.065c-1.75,0-3.333,0.332-4.75,0.994
-            c-1.042,0.539-2,1.242-2.875,2.071c-2.083,2.07-3.125,4.597-3.125,7.621c0,0.455,0.042,0.911,0.084,1.367
-            c0.083,0.869,0.291,1.657,0.541,2.401c0.499,1.449,1.333,2.734,2.5,3.894c0.875,0.87,1.833,1.532,2.875,2.071
-            c0.291,0.123,0.667,0.289,1,0.414c0.291,0.082,0.583,0.207,0.916,0.248c0,0,0.042,0,0.042,0.041c0.125,0,0.208,0.041,0.292,0.041
-            c0.792,0.166,1.625,0.291,2.5,0.291s1.542-0.291,2.083-0.828c0.042-0.084,0.126-0.166,0.208-0.207
-            c0.376-0.497,0.584-1.119,0.584-1.822c0-0.746-0.208-1.326-0.584-1.822c-0.083-0.042-0.166-0.166-0.208-0.207
-            c-0.541-0.497-1.207-0.787-2.083-0.787c-0.916,0-1.75-0.207-2.5-0.664c-0.083-0.041-0.167-0.082-0.292-0.164
-            c0-0.043-0.042-0.043-0.042-0.043c-0.25-0.207-0.542-0.414-0.749-0.621c-0.042-0.041-0.084-0.082-0.167-0.165
-            c-0.167-0.208-0.333-0.413-0.5-0.663c-0.208-0.289-0.375-0.621-0.5-0.993c-0.042-0.124-0.084-0.249-0.125-0.414
-            c-0.126-0.415-0.208-0.912-0.208-1.367C24.506,20.698,24.631,20.118,24.839,19.538"></path>
-        <path data-id="Fill-4" class="st1" d="M103.752,15.438c0.5-0.538,0.791-1.201,0.791-2.071c0-0.828-0.291-1.491-0.791-2.029
-            c-0.541-0.539-1.207-0.787-2.083-0.787c-3.041,0-5.583,1.035-7.667,3.064c-2.041,2.071-3.083,4.639-3.083,7.662
-            c0,2.982,1.042,5.509,3.125,7.58c2.042,2.07,4.584,3.105,7.625,3.105c0.876,0,1.542-0.248,2.083-0.787
-            c0.5-0.496,0.791-1.159,0.791-2.029c0-0.828-0.291-1.532-0.791-2.029c-0.541-0.538-1.207-0.787-2.083-0.787
-            c-1.417,0-2.624-0.538-3.583-1.49c-0.957-0.994-1.457-2.153-1.457-3.563c0-1.366,0.5-2.609,1.457-3.561
-            c0.959-1.036,2.166-1.532,3.583-1.532C102.545,16.184,103.211,15.936,103.752,15.438"></path>
-        <path data-id="Fill-5" class="st1" d="M87.795,31.176c0.542-0.496,0.791-1.159,0.791-2.029V13.409c0-1.864-0.916-2.775-2.832-2.775
-            c-0.834,0-1.542,0.249-2.042,0.788c-0.542,0.497-0.75,1.16-0.75,1.988v15.738c0,0.87,0.208,1.533,0.75,2.029
-            c0.5,0.539,1.208,0.787,2.042,0.787C86.586,31.963,87.294,31.715,87.795,31.176"></path>
-        <path data-id="Fill-6" class="st1" d="M0.234,4.835c0,0.87,0.292,1.532,0.792,2.029c0.542,0.539,1.208,0.828,2.042,0.828h6.355v21.454
-            c0,0.87,0.251,1.533,0.792,2.029c0.5,0.539,1.208,0.787,2.041,0.787c0.834,0,1.542-0.248,2.042-0.787
-            c0.542-0.496,0.792-1.159,0.792-2.029V7.693h5.913c0.833,0,1.5-0.29,2.041-0.828c0.5-0.497,0.792-1.159,0.792-2.029
-            c0-0.829-0.292-1.532-0.792-2.029c-0.542-0.539-1.208-0.788-2.041-0.788H3.067c-0.833,0-1.5,0.249-2.042,0.788
-            C0.526,3.303,0.234,4.007,0.234,4.835"></path>
-        <path data-id="Fill-7" class="st1" d="M48.713,21.32c0-1.409,0.5-2.568,1.458-3.563c1-0.952,2.167-1.49,3.584-1.49
-            c1.416,0,2.583,0.538,3.625,1.49c1,0.994,1.499,2.154,1.499,3.563c0,1.408-0.499,2.609-1.499,3.602
-            c-1.042,0.994-2.209,1.492-3.584,1.492c-0.875,0-1.541,0.29-2.083,0.787c-0.5,0.537-0.792,1.201-0.792,2.029s0.291,1.49,0.792,2.029
-            c0.542,0.537,1.208,0.828,2.042,0.828c3.041,0,5.625-1.035,7.666-3.106c2.125-2.071,3.167-4.638,3.167-7.662
-            c0-3.024-1.042-5.55-3.167-7.621c-2.041-2.029-4.625-3.065-7.666-3.065c-3.042,0-5.583,1.036-7.667,3.065
-            c-2.042,2.071-3.083,4.597-3.083,7.621l-0.042,17.395c0,0.828,0.25,1.49,0.792,1.988c0.542,0.537,1.208,0.828,2.042,0.828
-            s1.542-0.291,2.041-0.828c0.542-0.498,0.792-1.201,0.792-1.988L48.713,21.32"></path>
-        <path data-id="Fill-1_1_" class="st0" d="M136.891,0.967c-0.811-0.272-1.623-0.227-2.299,0.136c-0.768,0.408-1.264,0.952-1.579,1.769
-            c-0.226,0.634-0.135,1.36,0.315,2.176l11.275,23.304c1.262,2.63,3.201,4.398,5.771,5.26c2.21,0.771,4.465,0.725,6.766-0.182h0.09
-            l11.004-5.804c2.119-1.27,3.654-3.037,4.465-5.351c0.857-2.583,0.631-5.167-0.676-7.843l-3.969-8.161
-            c-0.406-0.862-0.857-1.36-1.443-1.587h-0.046c-0.766-0.227-1.532-0.182-2.3,0.227c-0.721,0.317-1.263,0.907-1.578,1.632l0.045,0.045
-            c-0.271,0.59-0.18,1.315,0.271,2.177l3.969,8.161c0.542,1.179,0.632,2.312,0.226,3.4l-0.045,0.045
-            c-0.361,1.134-1.037,1.951-2.029,2.449c-0.045,0-0.045,0-0.045,0.045l-0.271,0.182l-9.335,4.896
-            c-1.037,0.453-2.074,0.499-3.292,0.137c-1.127-0.363-1.939-1.089-2.48-2.268L138.424,2.508
-            C137.974,1.692,137.522,1.193,136.891,0.967"></path>
-        <path data-id="Fill-2_1_" class="st0" d="M151.504,10.851c-0.451-0.816-0.948-1.315-1.579-1.496c-0.767-0.272-1.533-0.227-2.255,0.136
-            c-0.723,0.408-1.264,0.952-1.578,1.678l0.045,0.046c-0.271,0.634-0.136,1.314,0.27,2.13l1.579,3.265
-            c0.361,0.816,0.901,1.36,1.489,1.541c0.811,0.272,1.623,0.272,2.389-0.135c0.678-0.363,1.173-0.953,1.444-1.769
-            c0.226-0.589,0.135-1.315-0.271-2.131L151.504,10.851"></path>
-        <path data-id="Fill-3_1_" class="st0" d="M156.148,7.087c-0.722,0.318-1.263,0.907-1.533,1.723c-0.18,0.635-0.091,1.315,0.271,2.177
-            l1.579,3.219c0.404,0.816,0.901,1.36,1.487,1.587h0.045c0.812,0.227,1.579,0.227,2.301-0.182c0.722-0.317,1.218-0.907,1.487-1.723
-            c0.227-0.589,0.136-1.314-0.225-2.176l-1.579-3.219c-0.45-0.862-0.946-1.315-1.578-1.542C157.592,6.634,156.824,6.725,156.148,7.087
-            "></path>
-       </g>
-
-      <style type="text/css">
-        
-          .st2{fill:#FFFFFF;}
-          .st3{fill:#FCA423;}
-        
-      </style>
-        <g id="svg-logo-after-scroll">
-          <path id="Fill-1" class="st2" d="M109.5,25v-6.7c0-2.6-0.9-4.8-2.7-6.5c-1.7-1.7-3.9-2.6-6.5-2.6c-2.6,0-4.8,0.9-6.5,2.6
-              c-1.8,1.8-2.7,3.9-2.7,6.5c0,2.6,0.9,4.8,2.7,6.5c1.7,1.8,3.9,2.6,6.5,2.6c0.7,0,1.3-0.2,1.8-0.7c0.4-0.5,0.7-1,0.7-1.7
-              c0-0.7-0.2-1.3-0.7-1.7c-0.5-0.4-1.1-0.7-1.8-0.7c-1.2,0-2.2-0.4-3.1-1.3c-0.9-0.8-1.2-1.9-1.2-3.1c0-1.2,0.4-2.2,1.2-3
-              c0.8-0.8,1.9-1.3,3.1-1.3c1.2,0,2.2,0.5,3.1,1.3c0.9,0.8,1.3,1.8,1.3,3.1V25c0,0.7,0.2,1.3,0.7,1.8c0.4,0.4,1,0.7,1.7,0.7
-              c0.7,0,1.3-0.2,1.8-0.7C109.3,26.3,109.5,25.7,109.5,25"></path>
-          <path id="Fill-2" class="st2" d="M57.4,5.6c-0.5,0.4-0.7,1-0.7,1.7v12.3c0,1.4,0.5,2.9,1.5,4.5c1.2,1.9,2.7,3.1,4.4,3.5
-              c0.2,0,0.5,0.1,0.8,0.2c0.1,0,0.2,0,0.3,0.1c0.7,0.1,1.4,0.2,2.1,0.2c0.7,0,1.3-0.2,1.8-0.7c0.1-0.1,0.1-0.1,0.2-0.2
-              c0.3-0.4,0.5-1,0.5-1.6c0-0.6-0.2-1.1-0.5-1.5c0-0.1-0.1-0.1-0.2-0.2c-0.4-0.4-1-0.7-1.8-0.7c-0.6,0-1.3-0.1-1.8-0.4
-              c-0.4-0.1-0.7-0.4-1.1-0.7c-0.8-0.7-1.2-1.6-1.3-2.6V14h4c1.6,0,2.4-0.8,2.4-2.5c0-0.7-0.2-1.3-0.7-1.7c-0.4-0.5-1-0.7-1.7-0.7h-4
-              V7.3c0-0.7-0.2-1.3-0.7-1.7c-0.5-0.5-1.1-0.7-1.8-0.7C58.4,4.9,57.8,5.1,57.4,5.6"></path>
-          <path id="Fill-3" class="st2" d="M21.2,16.7c0.2-0.6,0.6-1.1,1-1.5c0.9-0.8,1.9-1.3,3.1-1.3c1.2,0,2.2,0.5,3.1,1.3
-              c0.9,0.8,1.3,1.8,1.3,3.1V25c0,0.7,0.2,1.3,0.6,1.8c0.5,0.4,1.1,0.7,1.8,0.7c0.7,0,1.3-0.2,1.7-0.7c0.5-0.5,0.7-1.1,0.7-1.8v-6.7
-              c0-2.6-0.9-4.8-2.7-6.5C30,10,27.8,9.1,25.2,9.1c-1.5,0-2.8,0.3-4.1,0.8c-0.9,0.5-1.7,1.1-2.5,1.8c-1.8,1.8-2.7,3.9-2.7,6.5
-              c0,0.4,0,0.8,0.1,1.2c0.1,0.7,0.2,1.4,0.5,2c0.4,1.2,1.1,2.3,2.1,3.3c0.7,0.7,1.6,1.3,2.5,1.8c0.2,0.1,0.6,0.2,0.9,0.4
-              c0.2,0.1,0.5,0.2,0.8,0.2c0,0,0,0,0,0c0.1,0,0.2,0,0.2,0c0.7,0.1,1.4,0.2,2.1,0.2c0.7,0,1.3-0.2,1.8-0.7c0-0.1,0.1-0.1,0.2-0.2
-              c0.3-0.4,0.5-1,0.5-1.6c0-0.6-0.2-1.1-0.5-1.6c-0.1,0-0.1-0.1-0.2-0.2c-0.5-0.4-1-0.7-1.8-0.7c-0.8,0-1.5-0.2-2.1-0.6
-              c-0.1,0-0.1-0.1-0.2-0.1c0,0,0,0,0,0c-0.2-0.2-0.5-0.4-0.6-0.5c0,0-0.1-0.1-0.1-0.1c-0.1-0.2-0.3-0.4-0.4-0.6
-              c-0.2-0.2-0.3-0.5-0.4-0.8c0-0.1-0.1-0.2-0.1-0.4c-0.1-0.4-0.2-0.8-0.2-1.2C20.9,17.7,21,17.2,21.2,16.7"></path>
-          <path id="Fill-4" class="st2" d="M88.5,13.2c0.4-0.5,0.7-1,0.7-1.8c0-0.7-0.2-1.3-0.7-1.7c-0.5-0.5-1-0.7-1.8-0.7
-              c-2.6,0-4.8,0.9-6.5,2.6c-1.7,1.8-2.6,4-2.6,6.5c0,2.5,0.9,4.7,2.7,6.5c1.7,1.8,3.9,2.6,6.5,2.6c0.7,0,1.3-0.2,1.8-0.7
-              c0.4-0.4,0.7-1,0.7-1.7c0-0.7-0.2-1.3-0.7-1.7c-0.5-0.5-1-0.7-1.8-0.7c-1.2,0-2.2-0.5-3.1-1.3c-0.8-0.8-1.2-1.8-1.2-3
-              c0-1.2,0.4-2.2,1.2-3c0.8-0.9,1.8-1.3,3.1-1.3C87.5,13.9,88,13.6,88.5,13.2"></path>
-          <path id="Fill-5" class="st2" d="M74.9,26.6c0.5-0.4,0.7-1,0.7-1.7V11.5c0-1.6-0.8-2.4-2.4-2.4c-0.7,0-1.3,0.2-1.7,0.7
-              c-0.5,0.4-0.6,1-0.6,1.7v13.4c0,0.7,0.2,1.3,0.6,1.7c0.4,0.5,1,0.7,1.7,0.7C73.8,27.3,74.4,27.1,74.9,26.6"></path>
-          <path id="Fill-6" class="st2" d="M0.2,4.2c0,0.7,0.2,1.3,0.7,1.7c0.5,0.5,1,0.7,1.7,0.7H8v18.3c0,0.7,0.2,1.3,0.7,1.7
-              c0.4,0.5,1,0.7,1.7,0.7c0.7,0,1.3-0.2,1.7-0.7c0.5-0.4,0.7-1,0.7-1.7V6.6h5c0.7,0,1.3-0.2,1.7-0.7c0.4-0.4,0.7-1,0.7-1.7
-              c0-0.7-0.2-1.3-0.7-1.7c-0.5-0.5-1-0.7-1.7-0.7H2.6C1.9,1.8,1.3,2,0.9,2.5C0.4,2.9,0.2,3.5,0.2,4.2"></path>
-          <path id="Fill-7" class="st2" d="M41.5,18.2c0-1.2,0.4-2.2,1.2-3c0.9-0.8,1.8-1.3,3.1-1.3c1.2,0,2.2,0.5,3.1,1.3
-              c0.9,0.8,1.3,1.8,1.3,3c0,1.2-0.4,2.2-1.3,3.1c-0.9,0.8-1.9,1.3-3.1,1.3c-0.7,0-1.3,0.2-1.8,0.7c-0.4,0.5-0.7,1-0.7,1.7
-              c0,0.7,0.2,1.3,0.7,1.7c0.5,0.5,1,0.7,1.7,0.7c2.6,0,4.8-0.9,6.5-2.6c1.8-1.8,2.7-4,2.7-6.5c0-2.6-0.9-4.7-2.7-6.5
-              c-1.7-1.7-3.9-2.6-6.5-2.6c-2.6,0-4.8,0.9-6.5,2.6c-1.7,1.8-2.6,3.9-2.6,6.5l0,14.8c0,0.7,0.2,1.3,0.7,1.7c0.5,0.5,1,0.7,1.7,0.7
-              c0.7,0,1.3-0.2,1.7-0.7c0.5-0.4,0.7-1,0.7-1.7L41.5,18.2"></path>
-          <path id="Fill-1_1_" class="st3" d="M116.7,0.9c-0.7-0.2-1.4-0.2-2,0.1c-0.7,0.3-1.1,0.8-1.3,1.5c-0.2,0.5-0.1,1.2,0.3,1.9
-              l9.6,19.9c1.1,2.2,2.7,3.8,4.9,4.5c1.9,0.7,3.8,0.6,5.8-0.2h0.1l9.4-4.9c1.8-1.1,3.1-2.6,3.8-4.6c0.7-2.2,0.5-4.4-0.6-6.7l-3.4-7
-              c-0.3-0.7-0.7-1.2-1.2-1.4h0c-0.7-0.2-1.3-0.2-2,0.2c-0.6,0.3-1.1,0.8-1.3,1.4l0,0c-0.2,0.5-0.2,1.1,0.2,1.9l3.4,7
-              c0.5,1,0.5,2,0.2,2.9l0,0c-0.3,1-0.9,1.7-1.7,2.1c0,0,0,0,0,0l-0.2,0.2l-8,4.2c-0.9,0.4-1.8,0.4-2.8,0.1c-1-0.3-1.7-0.9-2.1-1.9
-              l-9.6-19.9C117.7,1.5,117.3,1.1,116.7,0.9"></path>
-          <path id="Fill-2_1_" class="st3" d="M129.2,9.3c-0.4-0.7-0.8-1.1-1.3-1.3c-0.7-0.2-1.3-0.2-1.9,0.1c-0.6,0.3-1.1,0.8-1.3,1.4l0,0
-              c-0.2,0.5-0.1,1.1,0.2,1.8l1.3,2.8c0.3,0.7,0.8,1.2,1.3,1.3c0.7,0.2,1.4,0.2,2-0.1c0.6-0.3,1-0.8,1.2-1.5c0.2-0.5,0.1-1.1-0.2-1.8
-              L129.2,9.3"></path>
-          <path id="Fill-3_1_" class="st3" d="M133.2,6.1c-0.6,0.3-1.1,0.8-1.3,1.5c-0.2,0.5-0.1,1.1,0.2,1.9l1.3,2.7
-              c0.3,0.7,0.8,1.2,1.3,1.4h0c0.7,0.2,1.3,0.2,2-0.2c0.6-0.3,1-0.8,1.3-1.5c0.2-0.5,0.1-1.1-0.2-1.9l-1.3-2.7
-              c-0.4-0.7-0.8-1.1-1.3-1.3C134.4,5.7,133.7,5.8,133.2,6.1"></path>
-       </g>
-        
-        <g id="svg-scroll-down-arrow">
-        <path data-id="Scroll-Icon" class="scrolldown-arrow" d="M14.971,16.5l-0.227,0.228l-0.002-0.457L0.73,2.27l1.559-1.441l12.662,12.685L27.739,0.739
-            l1.442,1.524l-12.73,12.754l0.232,0.232l-1.44,1.521L14.971,16.5z"></path>
-      </g>
-        
-      <g id="svg-arrow-right">
-            <path id="Rectangle-6" class="newsflash-arrow" d="M0.506,12.436l23.974-0.002l0.076,3.982L0.5,16.434L0.506,12.436z"></path>
-            <path id="Rectangle-8" class="newsflash-arrow" d="M28.514,14.438L14.041,0.01l-2.529,2.447L24.5,15.469L28.514,14.438z"></path>
-            <path id="Rectangle-8_1_" class="newsflash-arrow" d="M11.5,26.438L25.974,12.01l2.529,2.447L13.962,29.018L11.5,26.438z"></path>
-      </g>
-        
-            <style type="text/css">
-            
-                .linkedin1{fill:#153F77;}
-                .linkedin2{fill:#FFFFFF;}
-            
-            </style>
-      <g id="svg-linkedin-team">
-            <path id="Rectangle-10" class="linkedin1" d="M0.718,0.718h41.558l0.007,41.564H0.725L0.718,0.718z"></path>
-            <path id="Fill-10" class="linkedin2" d="M15.393,10.559c1.175,0,2.13,0.954,2.13,2.128c0,1.176-0.955,2.13-2.13,2.13
-                c-1.181,0-2.132-0.955-2.132-2.13C13.26,11.513,14.212,10.559,15.393,10.559L15.393,10.559z M13.552,16.434h3.679V28.25h-3.679
-                V16.434z"></path>
-            <path id="Fill-11" class="linkedin2" d="M19.537,16.434h3.523v1.614h0.05c0.49-0.929,1.69-1.909,3.479-1.909
-                c3.719,0,4.406,2.447,4.406,5.629v6.481h-3.672v-5.746c0-1.37-0.027-3.133-1.91-3.133c-1.913,0-2.205,1.492-2.205,3.033v5.846h-3.67
-                V16.434"></path>
-      </g>
-        
-    <style type="text/css">
-    
-        .back-home-arrow{fill:none;stroke:#6F6F6F;stroke-width:2;}
-    
-    </style>
-      <g id="back-home-arrow">
-            <path id="MenuBackIcon" class="back-home-arrow" d="M7.5,1L1.6,6.9l5.7,5.7"></path>
-      </g>
-        
-      <g id="icon-facebook">
-            <path id="path-1_1_" class="icon-facebook" d="M9.3,30H3.1V15H0V9.8h3.1V6.7C3.1,2.5,4.9,0,9.8,0H14v5.2h-2.6c-1.9,0-2.1,0.7-2.1,2.1l0,2.6
-	H14L13.5,15H9.3V30L9.3,30z"></path>
-      </g>
-        
-      <g id="icon-linkedin">
-            <path id="linkedin-10" class="icon-linkedin" d="M3.7,0.4c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1c-1.7,0-3.1-1.4-3.1-3.1
-	C0.5,1.8,1.9,0.4,3.7,0.4L3.7,0.4z M1,9.1h5.4v17.3H1V9.1z"></path>
-            <path id="linkedin-11" class="icon-linkedin" d="M9.8,9.1H15v2.4h0.1c0.7-1.4,2.5-2.8,5.1-2.8c5.5,0,6.5,3.6,6.5,8.3v9.5h-5.4V18
-	c0-2,0-4.6-2.8-4.6c-2.8,0-3.3,2.2-3.3,4.5v8.6H9.8V9.1"></path>
-      </g>
-        
-      <g id="icon-twitter">
-            <path id="twitter-18" class="icon-twitter" d="M10.6,28c-4,0-7.6-1.2-10.7-3.1C0.4,24.9,1,25,1.6,25c3.3,0,6.3-1.1,8.7-3
-	c-3.1-0.1-5.6-2.1-6.5-4.9c0.4,0.1,0.9,0.1,1.3,0.1c0.6,0,1.3-0.1,1.8-0.2c-3.2-0.6-5.6-3.5-5.6-6.9c0,0,0-0.1,0-0.1
-	c0.9,0.5,2,0.8,3.2,0.9C2.6,9.7,1.3,7.5,1.3,5.1c0-1.3,0.3-2.5,0.9-3.5c3.5,4.2,8.6,7,14.4,7.3c-0.1-0.5-0.2-1-0.2-1.6
-	c0-3.9,3.1-7,7-7c2,0,3.8,0.8,5.1,2.2c1.6-0.3,3.1-0.9,4.4-1.7c-0.5,1.6-1.6,3-3.1,3.9c1.4-0.2,2.8-0.5,4-1.1
-	c-0.9,1.4-2.1,2.6-3.5,3.6c0,0.3,0,0.6,0,0.9C30.5,17.3,23.5,28,10.6,28"></path>
-      </g>
-    </defs>
-  </svg>
-    
-	<div id="page">
-        
-        
-        <header class="main ">
-            <div class="container">
-
-                <div class="logo fl">
-                    <a href="http://taptica.com">
-                                                    <img src="http://www.taptica.com/wp-content/uploads/2015/03/Taptica_Logo-white.svg">
-                                            </a>
-                </div>
-                <!-- .logo -->
-
-                <div class="header-nav fr">
-		     
-                                        <a href="#" class="sign-up popmake-1136">Sign up</a>
-                                        <a href="https://network.taptica.com/" class="sign-in popmake-1598">Sign in</a>
-                    		<a href="http://cn.taptica.com/" class="china" target="_blank"><img src="http://www.taptica.com/wp-content/uploads/2016/08/ch-flag-1.png"></a>
-                    <button class="menu" id="toggle-nav">Menu</button>
-                </div>
-                <!-- .header-nav -->
-
-            </div>
-            <!-- .container -->
-			
-            <div class="nav-overlay">
-                <div class="container">
-                    <a href="http://www.taptica.com/" class="back-home">
-                    <svg viewBox="0 0 9 14" width="9px" height="14px" class="back-home-arrow">
-                        <use xlink:href="#back-home-arrow"></use>
-                    </svg> Back Home</a>
-                    
-                    <div class="header-widgets cf">
-                                                    <div id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-first-column-container"><ul id="menu-first-column" class="menu"><li id="menu-item-39" class="heading menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.taptica.com/about/">Taptica</a></li><li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="http://www.taptica.com/about/">About</a></li><li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://www.taptica.com/press/">Press</a></li><li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="http://www.taptica.com/events/">Events</a></li><li id="menu-item-1444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1444"><a href="http://www.taptica.com/case-studies/">Case Studies</a></li><li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="http://www.taptica.com/careers/">Careers</a></li><li id="menu-item-2038" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2038"><a href="http://www.taptica.com/contact/">Contact</a></li>
-</ul></div></div><div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-second-column-container"><ul id="menu-second-column" class="menu"><li id="menu-item-1050" class="heading menu-item menu-item-type-post_type menu-item-object-page menu-item-1050"><a href="http://www.taptica.com/objectives/">Objectives</a></li><li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a href="/objectives/#acquisition">Acquisition</a></li><li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49"><a href="/objectives/#monetization">Monetization</a></li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50"><a href="/taptica.com/objectives/#insight">Insight</a></li>
-</ul></div></div><div id="nav_menu-4" class="widget widget_nav_menu"><div class="menu-third-column-container"><ul id="menu-third-column" class="menu"><li id="menu-item-1478" class="heading menu-item menu-item-type-post_type menu-item-object-page menu-item-1478"><a href="http://www.taptica.com/mediums/">Mediums</a></li><li id="menu-item-1112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1112"><a href="http://www.taptica.com/mediums/#mobile">Mobile</a></li><li id="menu-item-1613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1613"><a href="http://www.taptica.com/mediums/#Social">Social</a></li><li id="menu-item-1113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1113"><a href="http://www.taptica.com/mediums/#video">Video</a></li><li id="menu-item-1114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1114"><a href="http://www.taptica.com/mediums/#display">Display</a></li>
-</ul></div></div><div id="nav_menu-5" class="widget widget_nav_menu"><div class="menu-fourth-column-container"><ul id="menu-fourth-column" class="menu"><li id="menu-item-1805" class="heading menu-item menu-item-type-post_type menu-item-object-page menu-item-1805"><a href="http://www.taptica.com/innovation/">Innovation</a></li><li id="menu-item-1806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1806"><a href="http://www.taptica.com/innovation/#dmp">DMP</a></li><li id="menu-item-1807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1807"><a href="http://www.taptica.com/innovation/#dsp">DSP</a></li>
-</ul></div></div><div id="nav_menu-9" class="widget widget_nav_menu"><div class="menu-fifth-column-container"><ul id="menu-fifth-column" class="menu"><li id="menu-item-1809" class="heading menu-item menu-item-type-custom menu-item-object-custom menu-item-1809"><a href="http://blog.taptica.com/">Blog</a></li>
-</ul></div></div>                                                
-                    </div>
-                    <!-- .header-widgets -->
-                    
-                                        <div class="header-widgets mobile">
-                        <div id="nav_menu-8" class="widget widget_nav_menu"><div class="menu-mobile-nav-container"><ul id="menu-mobile-nav" class="menu"><li id="menu-item-564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-564"><a href="http://www.taptica.com/about/">About</a></li><li id="menu-item-563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-563"><a href="http://www.taptica.com/press/">Press</a></li><li id="menu-item-565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-565"><a href="http://www.taptica.com/events/">Events</a></li><li id="menu-item-1467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1467"><a href="http://www.taptica.com/case-studies/">Case Studies</a></li><li id="menu-item-566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-566"><a href="http://www.taptica.com/careers/">Careers</a></li><li id="menu-item-2040" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2040"><a href="http://www.taptica.com/contact/">Contact Us</a></li>
-</ul></div></div>                    </div>
-                    <!-- header-widgets mobile -->                    
-                            
-                    
-                    <div class="header-socials">
-                        <span>Socialize with us</span>
-                                                <a href="https://twitter.com/taptica" target="_blank" class="twitter">
-                            <svg width="26px" height="21px" viewBox="0 0 34 28">
-                                <use xlink:href="#icon-twitter"></use>
-                            </svg>                        
-                        </a>
-                                                <a href="https://www.facebook.com/Taptica" target="_blank" class="facebook">
-                            <svg width="10px" height="21px" viewBox="0 0 14 30">
-                                <use xlink:href="#icon-facebook"></use>
-                            </svg>                        
-                        </a>
-                                                <a href="https://www.linkedin.com/company/2478068?trk=prof-0-ovw-curr_pos" target="_blank" class="linkedin">
-                            <svg width="21px" height="21px" viewBox="0 0 27 27">
-                                <use xlink:href="#icon-linkedin"></use>
-                            </svg>                        
-                        </a>
-                                            </div>
-                    <!-- .header-socials -->
-                    
-                </div>
-                <!-- .container -->
-            </div>
-            <!-- .nav-overlay -->
-            
-        </header>
-        <!-- header.main -->                
-        
-                
-         
-
-        <div class="page-content without-parallax">
-            
-            
-<section class="single-entry">
-    <div class="container">
-        
-		<h1>Privacy</h1> 
-        
-    </div>
-</section>
-
-
-<section class="single-content">
-    <div class="container">
-
-        <div class="content">
-            <p><strong>Privacy Statement</strong></p>
-<p>The Company, including its direct and/or indirect subsidiaries and affiliates which include the platform and services for Taptica (the “Company”, “We”), its respective website (the “Website”) and the services and technologies they provide (the “Service” or “Platform”) has a strong commitment to protect the privacy of its users. Our privacy policy aims to ensure the protection of privacy of our users and to provide them with control over the decision how their information is being used.</p>
-<p><strong>Acceptance of Terms</strong></p>
-<p>By visiting the Website or using the Service, you (“You”, “Your”) agree to be bound by this Policy. If You do not agree with this Policy, please do not use the Website or Service. The Privacy Policy should be read together with the Terms of Use which together comprise of the full agreement between the Company and its users.</p>
-<p><a href="http://www.taptica.com/publisher-terms-conditions/">Publishers terms &amp; conditions</a></p>
-<p><a href="http://www.taptica.com/advertisers-terms-conditions/">Advertisers terms &amp; conditions</a></p>
-<p><strong>What this Policy Covers</strong></p>
-<p>This policy covers Advertisers and Affiliates. Our platform enables brands and app developers to engage valuable mobile users. Our technology utilizes a programmatic media-buying platform that harnesses the power of artificial intelligence to improve marketing ROI by finding the right users at the right time for the right campaign. This Privacy Policy explains how we treat users’privacy, so You may decide whether to useour Platform, including how You may opt-out. This policy does not cover the practices of companies that we do not own or control, or to people that we do not employ or manage, including any tracking technologies placed from outside our services.</p>
-<p><strong>Information Collection</strong></p>
-<p>To help Company personalize the advertising, to enhance ad effectiveness and relevancy, improve our Services and Platform, create new products, conduct research, and provide reporting for internal and external clients, we are required to use tracking technologies, to collect information about the way in which users may respond to, select and interact with an ad or any content provided therein, analyze usage patterns and record Your browsing activity.</p>
-<p>&nbsp;</p>
-<p>The tracking technologies are accessed to collect and send statistical information when a user uses the Platform. To serve our ads in mobile applications we collect identifiers, such as Android Id or IDFA depending on the operating system of Your mobile device based on Your policy. These identifiers consist of a string of anonymous and random characters singling out Your device that Company stored by Company with a hash (non reversible encrypting method).</p>
-<p>We only use these tracking technologies to better target and analyze consumer behavior with the goal of enabling us to provide our clients better and more relevant advertising.</p>
-<p>WE DO NOT USE TRACKING TECHNOLOGIES TO PROCESS OR COLLECT ANY PERSONALLY IDENTIFYING INFORMATION ABOUT YOU. For purposes of this document, personally identifying information (PII) is information that personally identifies You and that is not otherwise publicly available, such as Your first and last name, social security or identification number, credit card number, phone number, or email address. We use tracking technology for non-PII only, which is information that cannot be directly associated with a specific person or entity, such as Yourmobile device and/or computer’s configuration, and the version and type of browser You are using. While some non-PII could be used in conjunction with other information to personally identify a user (e.g., the address of a web page or of a computer on the Internet could identify a user when combined with Internet service provider records), we ourselves generally have no way of tying any of the information we collect back to a particular user, and in the unusual circumstance that we could use an Internet protocol address for such purposes, we do not do so unless required by law.</p>
-<p><strong>The Information We Collect</strong></p>
-<p>We may collect only anonymous data through anonymous tracking technologies that record such asevents related to Your activity that may include socio-demographic data such as age range, information related to Your device (device type, operating system, version) and events related to the platform activity.</p>
-<p><strong>How We Use that Information</strong></p>
-<p>We do not rent or sell any information about You to others, or trade any such information. We may share aggregate information, and other non-PII information about You for various purposes, such as to perform or enhance our services. We may also share any information (including to personally identify a user) with our affiliates or service providers, in response to any request by authorities that we believe legally compels us to respond, to establish or exercise legal rights or defend against legal claims, to investigate, prevent, or take action for violations of our terms of service, or as otherwise required by law.</p>
-<p><strong>International &amp; Data Internet-based Transfer</strong></p>
-<p>We use the Internet to collect and process personal data. It necessarily involves the transmission of data on an international basis. Therefore, by browsing this Website and communicating electronically with us, You acknowledge and agree to our processing of personal data in this way. Your information may be stored and processed in the United States and Israel or any other country where the Company has facilities</p>
-<p><strong>Your Ability to Edit/Delete Your Information</strong></p>
-<p>Because we do not collect PII, and the information we obtain is automatic through tracking technologies, We cannot provide You the ability to edit or update Your non-PII information after it is collected. You can always opt-out though. If You opt-out from tracking technologies, any information that We already have collected or stored may remain in back-up storage for some period of time after Your deletion request. This may be the case even though no more information remains in our active databases.</p>
-<p><strong>Ability to disable mobile interest-based or use of mobile device for advertising (in-app advertisements “Opt-Out” )</strong></p>
-<p>You can always opt out of interest-based ads by companies providing in app advertisements by adjusting your device settings. Note that each operating system offers an opt-out option in your device settings. For more information please contact your device manufacturer or refer to the links below.</p>
-<p>Android users – <a title="https://developer.android.com/google/play-services/id.html#get_started " href="https://developer.android.com/google/play-services/id.html#get_started%20" target="_blank" rel="noopener noreferrer">https://developer.android.com/google/play-services/id.html#get_started</a></p>
-<p>iOS users – <a title="http://support.apple.com/kb/HT4228" href="http://support.apple.com/kb/HT4228" target="_blank" rel="noopener noreferrer">http://support.apple.com/kb/HT4228</a></p>
-<p><strong>Your Ability to disable Tracking Technologies (“Opt-Out”)</strong></p>
-<p>You may disable tracking technologies by sending an e-mail request to <a href="javascript:;" data-enc-email="bcrengvbaf[at]gncgvpn.pbz" class="mail-link" data-wpel-link="ignore"><span class="wpml-rtl">moc.a<span class="wpml-nodis">1497555002</span>citpa<span class="wpml-nodis">1497555002</span>t@sno<span class="wpml-nodis">1497555002</span>itare<span class="wpml-nodis">1497555002</span>po<span class="wpml-nodis">1497555002</span></span></a>. &nbsp;Within 24 hours after receiving your e-mail we will no longer collect non-PII information from You or Your users.</p>
-<p><strong>Your End Users</strong></p>
-<p>You must conspicuously post, display, maintain, and make readily accessible to end usersYour privacy policy on Your web site(s) and otherwise make it available to all users. Your privacy policy must comply with all applicable laws and regulations regarding the privacy of user’s information, be commercially reasonable, and provide information on Your data collection practices, including information on the kind of data collected, the purposes for which the data will be processed, any disclosures that will be made of the data and use of any tracking mechanism, use of third party technology, use of cookies and information on how to disable those tracking mechanisms.</p>
-<p>The following provisions are hereby agreed:</p>
-<p>(I) At all&nbsp;times You agree: (i) to comply with all applicable data Protection Laws, which is defined as the law of the country corresponding to the place of collection of user data, and the place of residence of the user whose personal data is collected; (ii)&nbsp;to get affirmative consent prior to the first occurrence that third parties may be placing and reading cookies on end users’ browsers to collect information in the course of the advertising or content being served;</p>
-<p>(II) At all&nbsp;time during the term of this Agreement, You agree&nbsp;not to associate any cookies with any PII, or set, read, write, modify or delete any cookies on the Company&nbsp; domain, or use cookies or tracking technologies through the Service in a manner that could collect or transmit personally identifiable information unless prior to the first occurrence of any such collection or transmission, You: (A) You will fully, accurately, clearly and conspicuously, disclose&nbsp;the type of information collected (described with specificity in the case of personally identifiable information), the method of collection (e.g. by registration, etc.), and&nbsp;the location of (i.e., a link to) the privacy policy that governs the collection, use and disclosure of the information; and&nbsp;(B) Obtain the end user’s affirmative consent to such collection and/or transmission;</p>
-<p>(III)&nbsp;We reserve the right to change the required privacy disclosures as mandated by law including self-regulation or practice, upon written notice.&nbsp;&nbsp;You agree to cooperate to implement such revised disclosure or such other disclosure, or the Company has the right to terminate if not cured after notice of breach. You further agree upon request to provide company with a copy of the most current privacy policies, or any changes thereto, at the same time that such privacy policies or changes are made.</p>
-<p><strong>Children</strong></p>
-<p>Our Platform and Services are not designed for, or directed at children. We do not create segments to specifically target anyone under the age of 13, and we do not knowingly collect any information from them. If we become aware that we have inadvertently received information from a child under the age of 13, we will take all appropriate steps to delete such information from our records.</p>
-<p><strong>Data Security and Retention</strong></p>
-<p>The security of Your information is fundamental to us. We have implemented industry-standard security measures, which include the use of firewalls and encryption.</p>
-<p>Once You uninstall or disable all tracking technologies, it will expire within 2 days. No security measures, however thorough, are perfect and there can be no absolute assurance of security. Therefore, We cannot and do not offer an absolute guarantee or warrant the security of the information we possess.</p>
-<p><strong>Contact Us</strong></p>
-<p>If You have questions or concerns regarding this Privacy Policy, please contact us at *protected email*.</p>
-<p><strong>Updates to this Policy</strong></p>
-<p>From time to time We may make changes to this Policy and publish the same prominently on our website with the date of last update. These changes will supersede any prior changes. You understand and agree that We will treat Your continued use of our services after such changes have been published as Your acceptance of the updated Policy</p>
-<p><strong>Links to Other Content</strong></p>
-<p>While using the Service You may be linked from or to third parties sites. We are not responsible for information, content, terms, offers or any other use of privacy policy at these sites. When You use a link to go from our Website or Service to another website, our Privacy Policy is no longer in effect. By Your browsing and interaction on any other website, including websites which have a link on the Website, is subject to that website’s own rules and policies.</p>
-<p>&nbsp;</p>
-<p><em><b>Last Update: January 2015</b></em></p>
-     
-        </div>     
-        
-    </div>
-</section>
-
- 
- 
-
-
-<footer class="main">
-  <div class="footer-content">
-    <div class="container">
-      <div class="cols">
-        <div class="col-1-2">
-          <div class="footer-newsletter">
-            <p>Stay tuned!</p>
-<span class="white">Join Taptica’s Newsletter</span>
-<script type="text/javascript">(function() {
-	if (!window.mc4wp) {
-		window.mc4wp = {
-			listeners: [],
-			forms    : {
-				on: function (event, callback) {
-					window.mc4wp.listeners.push({
-						event   : event,
-						callback: callback
-					});
-				}
-			}
-		}
-	}
-})();
-</script><!-- MailChimp for WordPress v4.1.3 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-2278" method="post" data-id="2278" data-name="footer subscribtion"><input type="hidden" autocomplete="off" autocorrect="off" name="pI-Ma-B-u-EtU-y-jJ-Y-z" value=""><div class="mc4wp-form-fields"><div class="footer-mch">
-	<input type="email" name="EMAIL" placeholder="Email" required="">
-	<input type="submit" value="Join">
+	<link rel="stylesheet" id="sb_instagram_styles-css" href="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/plugins/instagram-feed/css/sb-instagram-2-1.min.css?ver=2.1.4" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.6" type="text/css" media="all">
+<link rel="stylesheet" id="wpml-legacy-horizontal-list-0-css" href="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.css?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="popup-maker-site-css" href="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/uploads/pum/pum-site-styles.css?generated=1574641526&amp;ver=1.8.14" type="text/css" media="all">
+<script type="text/javascript" src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
+<script type="text/javascript" src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/plugins/cf7-invisible-recaptcha/js/cf7_invisible_recaptcha.js?ver=1.2.3"></script>
+<link rel="https://api.w.org/" href="https://www.taptica.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.taptica.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.taptica.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://www.taptica.com/?p=26501">
+<link rel="alternate" type="application/json+oembed" href="https://www.taptica.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.taptica.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.taptica.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.taptica.com%2Fprivacy-policy%2F&amp;format=xml">
+<meta name="generator" content="WPML ver:4.3.6 stt:60,1,28,29;">
+</head>
+<body data-rsssl="1" class="no-scroll">
+<div class="preloader"></div>
+<header class=" nav-down">
+	<nav class="d-flex flex-column flex-lg-row justify-content-lg-around main-nav">
+	<div class="first-part top-nav-part">
+		<a href="https://www.taptica.com">
+			<img class="site-logo" src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/themes/taptica3/assets/img/logo.svg" alt="">
+		</a>
+		<ul class="d-none d-lg-flex desktop-menu">
+						<div style="display: none;">string(11) "Advertisers"
 </div>
+				<li class="page-link-main menu-page-link advertisers">
+					<a href="https://www.taptica.com/advertisers/">
+						Advertisers					</a>
+					<ul class="drop-down">
+  <li>
+    <a href="https://www.taptica.com/advertisers/#mobile" data-anchor="mobile" class="anchor-link mobile uppercase">
+      Mobile
+    </a>
+  </li>
+  <li>
+    <a href="https://www.taptica.com/advertisers/#social" data-anchor="social" class="anchor-link social uppercase">
+      Social    </a>
+  </li>
+  <li>
+    <a href="https://www.taptica.com/advertisers/#display" data-anchor="display" class="anchor-link display uppercase">
+      Display    </a>
+  </li>
+  <li>
+    <a href="https://www.taptica.com/advertisers/#video" data-anchor="video" class="anchor-link video uppercase">
+      Video    </a>
+  </li>
+  <li>
+    <a href="https://www.taptica.com/contact" class="uppercase&quot;">
+      Contact Us    </a>
+  </li>
+</ul>
+				</li>
+						<div style="display: none;">string(10) "Publishers"
+</div>
+				<li class="page-link-main menu-page-link publishers">
+					<a href="https://www.taptica.com/publishers/">
+						Publishers					</a>
+									</li>
+						<div style="display: none;">string(10) "Technology"
+</div>
+				<li class="page-link-main menu-page-link technology">
+					<a href="https://www.taptica.com/technology/">
+						Technology					</a>
+									</li>
+						<div style="display: none;">string(7) "Company"
+</div>
+				<li class="page-link-main menu-page-link company">
+					<a href="https://www.taptica.com/about/">
+						Company					</a>
+					<ul class="drop-down">
+    <li>
+    <a class="uppercase" href="https://www.taptica.com/about/">
+      <div class="uppercase">
+          About      </div>
+    </a>
+  </li>
+    <li>
+    <a class="uppercase" href="https://www.taptica.com/press-releases/">
+      <div class="uppercase">
+          Press      </div>
+    </a>
+  </li>
+    <li>
+    <a class="uppercase" href="https://www.taptica.com/partners/">
+      <div class="uppercase">
+          Partners      </div>
+    </a>
+  </li>
+    <li>
+    <a class="uppercase" href="https://www.taptica.com/events/">
+      <div class="uppercase">
+          Events      </div>
+    </a>
+  </li>
+    <li>
+    <a class="uppercase" href="https://www.taptica.com/careers/">
+      <div class="uppercase">
+          Careers      </div>
+    </a>
+  </li>
+  </ul>
+				</li>
+						<div style="display: none;">string(9) "Resources"
+</div>
+				<li class="page-link-main menu-page-link resources">
+					<a href="https://www.taptica.com/blog/">
+						Resources					</a>
+					<ul class="drop-down">
+    <li>
+    <a class="
+        " href="https://www.taptica.com/blog/">
+      <div class="uppercase">
+          Blog      </div>
+    </a>
+  </li>
+    <li>
+    <a class="
+        " href="https://www.taptica.com/case-studies/">
+      <div class="uppercase">
+          Case Studies      </div>
+    </a>
+  </li>
+  </ul>
+				</li>
+						<div style="display: none;">string(10) "Contact Us"
+</div>
+				<li class="page-link-main menu-page-link contact us">
+					<a href="https://www.taptica.com/contact/">
+						Contact Us					</a>
+									</li>
+					</ul>
+		<div class="ham-icon d-lg-none"></div>
+	</div>
+	<div class="second-part top-nav-part mobile-menu">
+		<ul>
+							<li class="d-lg-none menu-page-link">
+					<a href="https://www.taptica.com/advertisers/">
+						Advertisers					</a>
+					<ul class="drop-down">
+  <li>
+    <a href="https://www.taptica.com/advertisers/#mobile" data-anchor="mobile" class="anchor-link mobile uppercase">
+      Mobile
+    </a>
+  </li>
+  <li>
+    <a href="https://www.taptica.com/advertisers/#social" data-anchor="social" class="anchor-link social uppercase">
+      Social    </a>
+  </li>
+  <li>
+    <a href="https://www.taptica.com/advertisers/#display" data-anchor="display" class="anchor-link display uppercase">
+      Display    </a>
+  </li>
+  <li>
+    <a href="https://www.taptica.com/advertisers/#video" data-anchor="video" class="anchor-link video uppercase">
+      Video    </a>
+  </li>
+  <li>
+    <a href="https://www.taptica.com/contact" class="uppercase&quot;">
+      Contact Us    </a>
+  </li>
+</ul>
+				</li>
+							<li class="d-lg-none menu-page-link">
+					<a href="https://www.taptica.com/publishers/">
+						Publishers					</a>
+									</li>
+							<li class="d-lg-none menu-page-link">
+					<a href="https://www.taptica.com/technology/">
+						Technology					</a>
+									</li>
+							<li class="d-lg-none menu-page-link">
+					<a href="https://www.taptica.com/about/">
+						Company					</a>
+					<ul class="drop-down">
+    <li>
+    <a class="uppercase" href="https://www.taptica.com/about/">
+      <div class="uppercase">
+          About      </div>
+    </a>
+  </li>
+    <li>
+    <a class="uppercase" href="https://www.taptica.com/press-releases/">
+      <div class="uppercase">
+          Press      </div>
+    </a>
+  </li>
+    <li>
+    <a class="uppercase" href="https://www.taptica.com/partners/">
+      <div class="uppercase">
+          Partners      </div>
+    </a>
+  </li>
+    <li>
+    <a class="uppercase" href="https://www.taptica.com/events/">
+      <div class="uppercase">
+          Events      </div>
+    </a>
+  </li>
+    <li>
+    <a class="uppercase" href="https://www.taptica.com/careers/">
+      <div class="uppercase">
+          Careers      </div>
+    </a>
+  </li>
+  </ul>
+				</li>
+							<li class="d-lg-none menu-page-link">
+					<a href="https://www.taptica.com/blog/">
+						Resources					</a>
+					<ul class="drop-down">
+    <li>
+    <a class="
+        " href="https://www.taptica.com/blog/">
+      <div class="uppercase">
+          Blog      </div>
+    </a>
+  </li>
+    <li>
+    <a class="
+        " href="https://www.taptica.com/case-studies/">
+      <div class="uppercase">
+          Case Studies      </div>
+    </a>
+  </li>
+  </ul>
+				</li>
+							<li class="d-lg-none menu-page-link">
+					<a href="https://www.taptica.com/contact/">
+						Contact Us					</a>
+									</li>
+						<li class="hire grow-rotate">
+				<a href="https://www.taptica.com/careers/">
+					<img src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/hiring.png" alt="">
+				</a>
+			</li>
+			<li class="sign-in bold-effect">Sign In/Up</li>
+			<li class="langs d-none d-lg-block">
+														<div class="active-lang bold-effect d-flex">
+							<a href="" data-lang="en" target="_blank">
+								EN							</a>
+						</div>
+																									<ul class="lang-menu">
+					<li class="placeholder-lang"></li>
+																	<li class="lang bold-effect">
+								<a href="https://www.taptica.com/zh-hans/" data-lang="zh-hans" target="_blank">
+									CN								</a>
+							</li>
+																		<li class="lang bold-effect">
+								<a href="https://www.taptica.com/ja/privacy-policy/" data-lang="ja" target="_blank">
+									JP								</a>
+							</li>
+																		<li class="lang bold-effect">
+								<a href="https://www.taptica.com/ko/privacy-policy/" data-lang="ko" target="_blank">
+									KR								</a>
+							</li>
+															</ul>
+			</li>
+			<li class="langs-mobile d-lg-none">
+				<ul class="lang-menu">
+												<li class="lang-mobile bold-effect active-mobile">
+								<a href="" data-lang="en" target="_blank">
+									EN								</a>
+							</li>
+																																											<li class="lang-mobile bold-effect">
+								<a href="https://www.taptica.com/zh-hans/" data-lang="zh-hans" target="_blank">
+									CN								</a>
+							</li>
+																		<li class="lang-mobile bold-effect">
+								<a href="https://www.taptica.com/ja/privacy-policy/" data-lang="ja" target="_blank">
+									JP								</a>
+							</li>
+																		<li class="lang-mobile bold-effect">
+								<a href="https://www.taptica.com/ko/privacy-policy/" data-lang="ko" target="_blank">
+									KR								</a>
+							</li>
+															</ul>
+			</li>
+		</ul>
+	</div>
+</nav>
+		<!-- <nav class="submenu row drop-shadow resources-menu hidden
+		">
+			<div class="container">
+				<div class="row nav-links-container align-items-center">
 
-<div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1497555001"><input type="hidden" name="_mc4wp_form_id" value="2278"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->
-          </div>
-          <!-- .footer-newsletter --> 
-          
+				</div>
+			</div>
+		</nav>
+		<nav class="submenu row drop-shadow yellow company-menu hidden
+		">
+			<div class="container">
+				<div class="row nav-links-container align-items-center justify-content-between">
+
+				</div>
+			</div>
+		</nav>
+		<nav class="submenu row advertisers-menu drop-shadow red hidden
+		">
+			<div class="container">
+
+			</div>
+		</nav> -->
+</header>
+      <div class="container-fluid terms-page">
+  <div class="header-placeholder"></div>
+  <section class="terms-title posts-page-title row">
+    <div class="container">
+      <div class="row h-100 align-items-center">
+        <div class="col-12">
+          <h1 class="title">Privacy Policy</h1>
         </div>
-        <!-- .col-1-2 -->
-        
-        <div class="col-1-2">
-          <div class="footer-widgets cf">
-                        <div id="nav_menu-6" class="widget widget_nav_menu"><div class="menu-footer-first-column-container"><ul id="menu-footer-first-column" class="menu"><li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="http://www.taptica.com/press/">Press</a></li><li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="http://www.taptica.com/events/">Events</a></li><li id="menu-item-1466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1466"><a href="http://www.taptica.com/case-studies/">Case Studies</a></li><li id="menu-item-64" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64"><a href="/about/#theteam">Team</a></li><li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://www.taptica.com/careers/">Careers</a></li>
-</ul></div></div><div id="nav_menu-7" class="widget widget_nav_menu"><div class="menu-footer-second-column-container"><ul id="menu-footer-second-column" class="menu"><li id="menu-item-1407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1407"><a href="http://www.taptica.com/investors/">Investors</a></li><li id="menu-item-2039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2039"><a href="http://www.taptica.com/contact/">Contact Us</a></li>
-</ul></div></div>                      </div>
-          <!--  .footer-widgets --> 
-          
-        </div>
-        <!-- .col-1-2 --> 
-        
       </div>
-      <!-- .cols --> 
-      
     </div>
-    <!-- .container --> 
-  </div>
-  <!-- .footer-content -->
-  <section class="clients footer-partners">
-	<h4>We partner with</h4>
-    <div class="clients-carousel">
-    		<div class="client">
-   				   				<a href="https://www.adjust.com/integrated_partners/" target="_blank" rel="nofollow" title="Adjust">
-   				   					<img src="http://www.taptica.com/wp-content/uploads/2017/05/adjust.png" alt="Adjust" height="180">
-   				   				</a>
-   				   		</div>
-    		<div class="client">
-   				   				<a href="http://www.mobyaffiliates.com/guides/mobile-dsps/" target="_blank" rel="nofollow" title="Top Mobile DSPs 2017">
-   				   					<img src="http://www.taptica.com/wp-content/uploads/2017/06/top_mobile_dsps_guide-276x180.png" alt="Top Mobile DSPs 2017" height="180">
-   				   				</a>
-   				   		</div>
-    		<div class="client">
-   				   				<a href="http://explore.singular.net/singular-global-roi-index-2016/ " target="_blank" rel="nofollow" title="The Singular ROI Index">
-   				   					<img src="http://www.taptica.com/wp-content/uploads/2017/05/singular-161x180.png" alt="The Singular ROI Index" height="180">
-   				   				</a>
-   				   		</div>
-    		<div class="client">
-   				   				<a href="https://www.kochava.com/media-guide/" target="_blank" rel="nofollow" title="Kochava">
-   				   					<img src="http://www.taptica.com/wp-content/uploads/2017/05/kochava.png" alt="Kochava" height="180">
-   				   				</a>
-   				   		</div>
-    		<div class="client">
-   				   				<a href="https://www.appsflyer.com/partners/" target="_blank" rel="nofollow" title="AppsFlyer">
-   				   					<img src="http://www.taptica.com/wp-content/uploads/2017/05/appsflyer.png" alt="AppsFlyer" height="180">
-   				   				</a>
-   				   		</div>
-    		<div class="client">
-   				   				<a href="https://tagtoday.net/tagregistry/" target="_blank" rel="nofollow" title="TAG">
-   				   					<img src="http://www.taptica.com/wp-content/uploads/2017/05/tag-224x180.png" alt="TAG" height="180">
-   				   				</a>
-   				   		</div>
-    		<div class="client">
-   				   				<a href="https://www.tune.com/blog/top-25-global-advertising-partners-2016/" target="_blank" rel="nofollow" title="Tune">
-   				   					<img src="http://www.taptica.com/wp-content/uploads/2016/09/tune.png" alt="Tune" height="180">
-   				   				</a>
-   				   		</div>
-    		<div class="client">
-   				   				<a href="https://facebookmarketingpartners.com/marketing-partners/taptica/" target="_blank" rel="nofollow" title="Facebook Marketing Partner">
-   				   					<img src="http://www.taptica.com/wp-content/uploads/2017/05/fb.png" alt="Facebook Marketing Partner" height="180">
-   				   				</a>
-   				   		</div>
-    		<div class="client">
-   				   				<a href="https://iabuk.net/member-directory/taptica-ltd" target="_blank" rel="nofollow" title="IAB">
-   				   					<img src="http://www.taptica.com/wp-content/uploads/2017/05/iab-249x180.png" alt="IAB" height="180">
-   				   				</a>
-   				   		</div>
-    		<div class="client">
-   				   				<a href="https://instagrampartners.com/marketing-partners/taptica/" target="_blank" rel="nofollow" title="Instagram">
-   				   					<img src="http://www.taptica.com/wp-content/uploads/2017/05/instagram-337x180.png" alt="Instagram" height="180">
-   				   				</a>
-   				   		</div>
-        </div>
-    <!-- .clients-carousel -->
-
-</section>
-<!-- section.clients -->
-  <div class="footer-socials">
-          <div class="social-title">
-            <p class="partners">
-              Connect with us on            </p>
-          </div>
-         
-          <div class="social-links-cols">
-						  <ul class="social-networks">
-			  				  <li><a href="https://twitter.com/Taptica" target="_blank" rel="nofollow" title="Twitter" style="background-color: #0296cc"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-			  				  <li><a href="https://www.facebook.com/Taptica" target="_blank" rel="nofollow" title="Facebook" style="background-color: #3b529d"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-			  				  <li><a href="https://www.linkedin.com/company/2478068?trk=prof-0-ovw-curr_pos" target="_blank" rel="nofollow" title="LinkedIn" style="background-color: #1c4176"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-			  				  <li><a href="https://plus.google.com/u/1/112474110735290675508" target="_blank" rel="nofollow" title="Google+" style="background-color: #bc1717"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-			  				  <li><a href="https://www.youtube.com/channel/UC2H1xpETFICKoSrSgHGHAmA" target="_blank" rel="nofollow" title="Youtube" style="background-color: #ee1c1b"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-			  			  </ul>
-			      
-        </div>
-  </div>
-  <div class="footer-copyright">
+  </section>
+  <section class="terms-content">
     <div class="container">
-      <div class="footnote">
-              </div>
-      <div class="copyright">
-        <p>© 2017 All rights reserved to Taptica International Ltd.</p>
+      <div class="row">
+        <div class="col-12">
+          <h4><strong>Website Privacy Policy</strong></h4>
+<ol>
+<li>
+<h5><strong>INTRODUCTION</strong></h5>
+</li>
+</ol>
+<p class="BodyText1"><span lang="EN-GB">Tremor International Ltd. (formerly “Taptica International Ltd.” and “Taptica Ltd.” and hereafter: “Tremor”) respects your privacy and is committed to protecting your personal data. This privacy policy (“Policy”) will inform you how we look after your personal data when you visit our website. If you have any questions about this policy, please contact <a href="mailto:privacy@taptica.com">privacy@taptica.com</a>.&nbsp;</span></p>
+<ol start="2">
+<li>
+<h5><strong>INFORMATION ABOUT WHO WE ARE</strong></h5>
+</li>
+</ol>
+<p><strong>PURPOSE OF THIS POLICY:&nbsp; </strong>This Policy aims to give you information on how Tremor collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to our website or purchase products or services from us.</p>
+<p>It is important that you read this Policy together with any other policy or notice we may provide so that you are fully aware of how and why we are using your data. This Policy supplements the other notices and is not intended to override them.</p>
+<p><strong>CONTACT DETAILS:</strong>&nbsp;Our full details are:</p>
+<ul>
+<li>Full name of legal entity: Tremor International Ltd.</li>
+<li>Email address:&nbsp;<a href="mailto:info@taptica.com"><u>info@taptica.com</u></a></li>
+<li>Postal address: 121 Hashmonaim Tel Aviv, 6713328 Israel</li>
+<li>Telephone number: 972-3-545-3900</li>
+</ul>
+<p><strong>CONTROLLER:&nbsp; </strong>Tremor is made up of different legal entities. This Policy is issued on behalf of the Tremor Group so when we mention “Tremor”, “we”, “us” or “our” in this Policy, we are referring to the relevant company in the Tremor Group responsible for processing your data.</p>
+<p>If you have any concerns about how we are handling your data you have the right to make a complaint to your data protection supervisory authority. We would, however, appreciate the chance to deal with your concerns before you approach the supervisory authority so please contact us in the first instance.</p>
+<p><strong>CHANGES TO THE POLICY AND YOUR DUTY TO INFORM US OF CHANGES:</strong>&nbsp;This version was last updated on May, 2018. It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.</p>
+<p><strong>THIRD-PARTY LINKS:</strong>&nbsp;This website may include links to third-party websites, plug-ins and applications. We do not control these third-party websites. When you leave our website, we encourage you to read the privacy notice of every website you visit.</p>
+<p>Please note this website is not intended for children and we do not knowingly collect data relating to children.</p>
+<ol start="3">
+<li>
+<h5><strong>THE DATA WE COLLECT ABOUT YOU</strong></h5>
+</li>
+</ol>
+<p>Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).</p>
+<p>We may collect, use, store and transfer different kinds of personal data about you. We have categorised these as follows:</p>
+<ul>
+<li><strong>Identity&nbsp;</strong>includes first name, last name, username and title.</li>
+<li><strong>Contact&nbsp;</strong>includes billing and delivery address, email address and contact numbers.</li>
+<li><strong>Financial&nbsp;</strong>includes bank account and payment details.</li>
+<li><strong>Transaction&nbsp;</strong>includes details about payments to and from you and other details of products and services you have purchased from us.</li>
+<li><strong>Technical&nbsp;</strong>includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.</li>
+<li><strong>Usage&nbsp;</strong>includes information about how you use our website, products and services.</li>
+<li><strong>Marketing and Communications&nbsp;</strong>includes your preferences in receiving marketing from us and our third parties and your communication preferences.</li>
+</ul>
+<p>We also collect, use and share&nbsp;<strong>Aggregated Data</strong>&nbsp;such as statistical or demographic data for any purpose. This data does not directly or indirectly reveal your identity. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice.</p>
+<p>We do not collect any&nbsp;<strong>Special Categories of Personal Data</strong>&nbsp;about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.</p>
+<p>Where we need to collect personal data by law, or under the terms of a contract we have with you and you do not provide that data, we may not be able to perform the contract (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you.</p>
+<ol start="4">
+<li>
+<h5><strong>HOW DO WE COLLECT YOUR PERSONAL DATA?</strong></h5>
+</li>
+</ol>
+<p>We collect data from and about you as follows:</p>
+<ul>
+<li><strong>Direct interactions.</strong>You may give us your Identity, Contact and Financial Data by filling in forms or by corresponding with us by post, phone or email. This includes personal data you provide when you: (a) apply for our products or services; (b) create an account on our website; (c) subscribe to our service or publications; (d) request marketing to be sent to you; or (e) give us some feedback.</li>
+<li><strong>Automated technologies or interactions.</strong>As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns by using cookies, server logs and other similar technologies.</li>
+</ul>
+<ol start="5">
+<li>
+<h5><strong>HOW WE USE YOUR PERSONAL DATA</strong></h5>
+</li>
+</ol>
+<p>We only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:</p>
+<ul>
+<li>Where we need to perform the contract we are about to enter or have entered into with you.</li>
+<li>Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.</li>
+<li>Where we need to comply with a legal or regulatory obligation.</li>
+</ul>
+<p>Generally we do not rely on consent as a legal basis for processing your personal data other than when we send third party direct marketing communications to you via email. You have the right to withdraw consent to marketing at any time by contacting us at <a href="mailto:unsubscribe@taptica.com">unsubscribe@taptica.com</a>.</p>
+<p>Purposes for which we will use your personal data</p>
+<table>
+<thead>
+<tr>
+<td><strong>Purpose/Activity</strong></td>
+<td><strong>Type of data</strong></td>
+<td><strong>Lawful basis for processing including basis of legitimate interest</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>To register you as a new customer</td>
+<td>Identity; Contact</td>
+<td>Performance of a contract with you</td>
+</tr>
+<tr>
+<td>To process and deliver your order including managing payments, fees and charges and collecting and recovering money owed to us</td>
+<td>Identity; Contact; Financial; Transaction; Marketing and Communications</td>
+<td>Performance of a contract with you<p></p>
+<p>Necessary for our legitimate interests (to recover debts due to us)</p></td>
+</tr>
+<tr>
+<td>To manage our relationship with you which includes notifying you about changes to our terms or privacy policy</td>
+<td>Identity; Contact; Marketing and Communications</td>
+<td>Performance of a contract with you<p></p>
+<p>Necessary to comply with a legal obligation</p>
+<p>Necessary for our legitimate interests (to keep our records updated)</p></td>
+</tr>
+<tr>
+<td>To administer and protect our business and this website (including troubleshooting, data analysis, system maintenance, support, reporting and hosting of data)</td>
+<td>Identity; Contact; Technical</td>
+<td>Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud)<p></p>
+<p>Necessary to comply with a legal obligation</p></td>
+</tr>
+<tr>
+<td>To deliver relevant website content</td>
+<td>Identity; Contact; Usage; Marketing and Communications; Technical</td>
+<td>Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)</td>
+</tr>
+<tr>
+<td>To use data analytics to improve our website, products/services, marketing, customer relationships and experiences</td>
+<td>Technical; Usage</td>
+<td>Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Marketing.</strong> We want to ensure that you have choices regarding certain personal data uses, particularly around marketing and advertising. Please contact us if you want to change your marketing preferences.</li>
+<li><strong>Third-Party Marketing.</strong>We will get your express opt-in consent before we share your personal data with any company outside the Tremor group of companies for marketing purposes.</li>
+<li><strong>Opting out.</strong>You can ask us to stop sending you marketing messages at any time by contacting us at <a href="mailto:unsubcribe@taptica.com">unsubcribe@taptica.com</a>. Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase or other transactions.</li>
+<li><strong>Cookies:</strong> You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our&nbsp;<u><a href="https://www.taptica.com/cookies-policy/">cookie policy</a></u>.</li>
+<li><strong>Change of Purpose.</strong>We will only use your personal data for the purposes for which we collected it, unless we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact <a href="mailto:privacy@taptica.com">privacy@taptica.com</a>. If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.</li>
+</ul>
+<p><strong>Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.</strong></p>
+<ol start="6">
+<li>
+<h5><strong>DISCLOSURES OF YOUR PERSONAL DATA</strong></h5>
+</li>
+</ol>
+<p>We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 5 above.</p>
+<ul>
+<li>Internal Third Parties: other companies in the Tremor Group acting as joint controllers or processors.</li>
+<li>External Third Parties including:
+<ul>
+<li>Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers who provide services to us.</li>
+<li>Regulators and other authorities acting as processors or joint controllers who require reporting of processing activities in certain circumstances.</li>
+</ul>
+</li>
+<li>Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.</li>
+</ul>
+<p>We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We only permit our service providers to process your personal data for specified purposes and in accordance with our instructions.</p>
+<ol start="7">
+<li>
+<h5><strong>INTERNATIONAL TRANSFERS</strong></h5>
+</li>
+</ol>
+<p>We share your personal data within the Tremor Group. This will involve transferring your data outside the European Economic Area (<strong>EEA</strong>). In addition many of our external third parties are based outside the EEA so their processing of your personal data will involve a transfer of data outside the EEA.</p>
+<p>Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:</p>
+<ul>
+<li>We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission.</li>
+<li>Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe.</li>
+<li>Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US.</li>
+</ul>
+<p>Please contact us at&nbsp;<a href="mailto:privacy@taptica.com"><u>privacy@taptica.com</u></a>&nbsp;if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.</p>
+<ol start="8">
+<li>
+<h5><strong>DATA SECURITY</strong></h5>
+</li>
+</ol>
+<p>We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.</p>
+<p>To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.</p>
+<p>In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes. We may use this information indefinitely without further notice to you.</p>
+<ol start="9">
+<li>
+<h5><strong>YOUR LEGAL RIGHTS</strong></h5>
+</li>
+</ol>
+<p>You have rights under data protection laws in relation to your personal data.</p>
+<ul>
+<li><strong>Request access to your personal data.&nbsp;</strong>This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it</li>
+<li><strong>Request correction of your personal data.&nbsp;</strong>This enables you to have any incomplete or inaccurate data we hold about you corrected.</li>
+<li><strong>Request erasure of your personal data.&nbsp;</strong>This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it.</li>
+<li><strong>Object to processing of your personal data&nbsp;</strong>where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes.</li>
+<li><strong>Request restriction of processing your personal data.&nbsp;</strong>This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.</li>
+<li><strong>Request transfer of your personal data&nbsp;</strong>to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format.</li>
+<li><strong>Right to withdraw consent&nbsp;</strong>where we are relying on consent to process your personal data.</li>
+</ul>
+<p>If you wish to exercise any of the rights set out above, please contact us at&nbsp;<a href="mailto:privacy@taptica.com"><u>privacy@taptica.com</u></a>.</p>
+<p><strong>No fee usually required.</strong>&nbsp;You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.</p>
+<p><strong>What we may need from you.</strong>&nbsp;We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.</p>
+<p><strong>Time limit to respond.</strong>&nbsp;We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.</p>
+        </div>
       </div>
-      <nav class="footer-nav">
-        <ul class="menu"><li id="menu-item-1406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1406"><a href="http://www.taptica.com/investors/">Investors</a></li><li id="menu-item-59" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-59"><a href="/privacy">Privacy Policy</a></li><li id="menu-item-3355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3355"><a href="http://www.taptica.com/advertisers-terms-conditions/">Advertisers terms &amp; conditions</a></li><li id="menu-item-3356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3356"><a href="http://www.taptica.com/publisher-terms-conditions/">Publishers terms &amp; conditions</a></li>
-</ul>      </nav>
     </div>
-    <!-- .container --> 
-  </div>
-  <!-- .footer-copyright --> 
-  
-</footer>
-<!-- footer.main -->
-
+  </section>
 </div>
-<!-- .page-content --> 
-</div>
-<!-- /#page -->
+<div id="pum-10716" class="pum pum-overlay pum-theme-10709 pum-theme-default-theme popmake-overlay pum-overlay-disabled auto_open click_open" data-popmake="{&quot;id&quot;:10716,&quot;slug&quot;:&quot;gdpr&quot;,&quot;theme_id&quot;:10709,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;cookie-policy&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;time&quot;:&quot;3 month&quot;,&quot;path&quot;:true}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:[&quot;cookie-policy&quot;],&quot;delay&quot;:&quot;1000&quot;}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:&quot;1&quot;,&quot;overlay_disabled&quot;:&quot;1&quot;,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;custom&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;100%&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:&quot;1&quot;,&quot;location&quot;:&quot;center bottom&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:&quot;1&quot;,&quot;animation_type&quot;:&quot;slide&quot;,&quot;animation_speed&quot;:&quot;380&quot;,&quot;animation_origin&quot;:&quot;center bottom&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;X CLOSE&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true">
 
-<div class="tablet-detect"></div>
-<div class="tablet-portrait-detect"></div>
-<div class="mobile-detect"></div>
-<div id="pum-1598" class="pum pum-overlay pum-theme-1134 popmake-overlay click_open" data-popmake="{&quot;id&quot;:1598,&quot;slug&quot;:&quot;login-page&quot;,&quot;theme_id&quot;:1134,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;xlarge&quot;,&quot;responsive_min_width&quot;:&quot;300&quot;,&quot;responsive_max_width&quot;:&quot;900&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;position_fixed&quot;:&quot;1&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;location&quot;:&quot;center &quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;10110&quot;,&quot;zindex&quot;:&quot;10111&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;true&quot;,&quot;esc_press&quot;:&quot;true&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true">
-
-	<div id="popmake-1598" class="pum-container popmake theme-1134 pum-responsive pum-responsive-xlarge responsive size-xlarge pum-position-fixed">
+	<div id="popmake-10716" class="pum-container popmake theme-10709 size-custom pum-position-fixed">
 
 				
 
@@ -670,18 +675,8 @@ a.mail-icon-1 {
 		
 
 				<div class="pum-content popmake-content">
-			<div class="login-popup-wrapper double cols">
-<p class="text-intro">Please choose an account to log into:</p>
-<div class="tap-logo"><img src="http://www.taptica.com/wp-content/uploads/2015/12/Taptica-logo-1.png" alt="Taptica"></div>
-<div class="col-1-2 col-left">
-<div class="login-title">Mobile</div>
-<div class="login-btn"><a href="https://network.taptica.com/" target="_blank"><img src="http://www.taptica.com/wp-content/uploads/2015/12/Taptica-btn.png" alt="Log Into Mobile"></a></div>
-</div>
-<div class="col-1-2 col-right">
-<div class="login-title">Social</div>
-<div class="login-btn"><a href="http://social.taptica.com/portal/" target="_blank"><img src="http://www.taptica.com/wp-content/uploads/2015/12/AreaOne-btn.png" alt="Log Into Social"></a></div>
-</div>
-</div>
+			<p>This website uses cookies to improve functionality and performance. If you continue browsing the site, you are giving your consent to the use of cookies on this website.</p>
+<p>See our<strong> <a href="https://www.taptica.com/cookies-policy" target="_blank" rel="noopener">Cookies Policy</a></strong> for details.</p>
 		</div>
 
 
@@ -693,169 +688,230 @@ a.mail-icon-1 {
 	</div>
 
 </div>
-<div id="pum-1136" class="pum pum-overlay pum-theme-1134 popmake-overlay click_open" data-popmake="{&quot;id&quot;:1136,&quot;slug&quot;:&quot;sign-up&quot;,&quot;theme_id&quot;:1134,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.second-responsive&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;size&quot;:&quot;xlarge&quot;,&quot;responsive_min_width&quot;:&quot;200&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width&quot;:&quot;690&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;,&quot;custom_height_auto&quot;:&quot;true&quot;,&quot;location&quot;:&quot;center &quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:&quot;10100&quot;,&quot;zindex&quot;:&quot;10101&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;true&quot;,&quot;esc_press&quot;:&quot;true&quot;,&quot;f4_press&quot;:false},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true">
-
-	<div id="popmake-1136" class="pum-container popmake theme-1134 pum-responsive pum-responsive-xlarge responsive size-xlarge">
-
-				
-
-				
-
-		
-
-				<div class="pum-content popmake-content">
-			<div class="adv-link">
-<h3>Get access to a range of media sources&nbsp;delivering high quality and volume.</h3>
-<p><a class="contact" href="https://network.taptica.com/adv_signup.html">Become an Advertiser</a></p>
-</div>
-<div class="pub-link">
-<h3>Monetize your traffic and&nbsp;maximize your eCPM.</h3>
-<p><a class="contact" href="https://network.taptica.com/pub_signup.html">Become a Publisher</a></p>
-</div>
-		</div>
-
-
-				
-
-				            <button type="button" class="pum-close popmake-close" aria-label="Close">
-			X CLOSE            </button>
-		
-	</div>
-
-</div>
-<script>
-(function(a, b, c, d, e, m) {
-	a['OktopostTrackerObject'] = d;
-	a[d] = a[d] || function() {
-		(a[d].q = a[d].q || []).push(arguments);
-	};
-	e = b.createElement('script');
-	m = b.getElementsByTagName('script')[0];
-	e.async = 1;
-	e.src = ('https:' === document.location.protocol ? 'https://' : 'http://') + c;
-	m.parentNode.insertBefore(e, m);
-})(window, document, 'static.oktopost.com/oktrk.js', '_oktrk');
-
-_oktrk('create', '0010rif3e4zqeps');
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.taptica.com/wp-admin/admin-ajax.php";
 </script>
-
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
 <script type="text/javascript">
 /* <![CDATA[ */
-var google_conversion_id = 865391568;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.taptica.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+<script type="text/javascript" src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.6"></script>
+<script type="text/javascript" src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.8.14","ajaxurl":"https:\/\/www.taptica.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.taptica.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"10709","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[]};
+var ajaxurl = "https:\/\/www.taptica.com\/wp-admin\/admin-ajax.php";
+var pum_debug_vars = {"debug_mode_enabled":"Popup Maker: Debug Mode Enabled","debug_started_at":"Debug started at:","debug_more_info":"For more information on how to use this information visit https:\/\/docs.wppopupmaker.com\/?utm_medium=js-debug-info&utm_campaign=ContextualHelp&utm_source=browser-console&utm_content=more-info","global_info":"Global Information","localized_vars":"Localized variables","popups_initializing":"Popups Initializing","popups_initialized":"Popups Initialized","single_popup_label":"Popup: #","theme_id":"Theme ID: ","label_method_call":"Method Call:","label_method_args":"Method Arguments:","label_popup_settings":"Settings","label_triggers":"Triggers","label_cookies":"Cookies","label_delay":"Delay:","label_conditions":"Conditions","label_cookie":"Cookie:","label_settings":"Settings:","label_selector":"Selector:","label_mobile_disabled":"Mobile Disabled:","label_tablet_disabled":"Tablet Disabled:","label_event":"Event: %s","triggers":{"click_open":"Click Open","auto_open":"Time Delay \/ Auto Open"},"cookies":{"on_popup_close":"On Popup Close","on_popup_open":"On Popup Open","pum_sub_form_success":"Subscription Form: Successful","pum_sub_form_already_subscribed":"Subscription Form: Already Subscribed","manual":"Manual JavaScript","cf7_form_success":"Contact Form 7 Success"}};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.taptica.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-10716":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":true,"scrollable_content":false,"position_from_trigger":false,"position_fixed":true,"overlay_disabled":true,"stackable":true,"disable_reposition":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":true,"disable_accessibility":false,"triggers":[{"type":"auto_open","settings":{"cookie_name":["cookie-policy"],"delay":"1000"}}],"cookies":[{"event":"on_popup_close","settings":{"name":"cookie-policy","key":"","session":false,"time":"3 month","path":true}}],"theme_id":"10709","size":"custom","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"100%","custom_height":"380px","animation_type":"slide","animation_speed":"380","animation_origin":"center bottom","location":"center bottom","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","zindex":"1999999999","close_button_delay":"0","theme_slug":"default-theme","id":10716,"slug":"gdpr"}};
+/* ]]> */
 </script>
+<script type="text/javascript" src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/uploads/pum/pum-site-scripts.js?defer&amp;generated=1574641526&amp;ver=1.8.14"></script>
+<script type="text/javascript" src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=5.3.2"></script>
+
+<div class="popup newsletter-popup container-fluid hidden">
+  <div class="container content-box">
+    <div class="row">
+      <div class="col-12 col-lg-6 sign-up advertiser-sign">
+        <h4>Get access to a range of media sources delivering quality and volume</h4>
+        <a target="_blank" href="https://admin.taptica.com/portal/advertiser-signup">
+          <button class="adv-sign-up-btn flatten">
+            Become an Advertiser          </button>
+        </a>
+      </div>
+      <div class="col-12 col-lg-6 sign-up publisher-sign">
+        <h4>Monetize your traffic and maximize your eCPM</h4>
+        <a target="_blank" href="https://admin.taptica.com/portal/publisher-signup">
+          <button class="pub-sign-up-btn flatten">
+            Become a Publisher          </button>
+        </a>
+      </div>
+      <div class="col-12 login">
+        <a target="_blank" href="https://admin.taptica.com/portal/login">
+          <h4>
+            Log in to Taptica's Management Platform          </h4>
+        </a>
+      </div>
+      <button class="close-btn">X</button>
+    </div>
+  </div>
+</div>
+<footer class="container-fluid l-txt">
+	<div class="row justify-content-center spcl-black-bg-2 white-txt pb-4 align-items-center">
+		<div class="col-12 justify-content-center col-lg-3 text-center order-1">
+						<div class="title-wrapper position-relative mx-auto mt-3">
+				<h5 class="xl-txt position-relative decorative-txt cyan-txt">Stay Tuned</h5>
+			</div>
+			<p>Join Taptica’s Newsletter</p>
+			<div class="newsletter-wrapper btn-wrapper mx-auto position-relative">
+				<div role="form" class="wpcf7" id="wpcf7-f9993-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/privacy-policy/#wpcf7-f9993-o1" method="post" class="wpcf7-form mailchimp-ext-0.5.10" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="9993">
+<input type="hidden" name="_wpcf7_version" value="5.1.6">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f9993-o1">
+<input type="hidden" name="_wpcf7_container_post" value="0">
+</div>
+<p><span class="wpcf7-form-control-wrap sign-up-email"><input type="email" name="sign-up-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email w-100 text-left pl-4 email position-relative" aria-required="true" aria-invalid="false" placeholder="Email Address"></span><br>
+  <input type="submit" value="Join!" class="wpcf7-form-control wpcf7-submit cyan-txt white-bg position-absolute join"></p>
 <noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/865391568/?guid=ON&script=0"/>
+			<div class="wpcf7-response-output wpcf7-spam-blocked">Your browser does not support JavaScript!. Please enable javascript in your browser in order to get form work properly.</div>
+	</noscript><script type="text/javascript">
+
+						if(contactform === undefined){
+							var contactform = [];
+						}
+						var innerVal = [9993,'mail_sent_ok','Thank you for joining!'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'mail_sent_ng','There was an error trying to send your message. Please try again later.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'validation_error',''];
+						contactform.push(innerVal);
+						var innerVal = [9993,'spam','There was an error trying to send your message. Please try again later.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'accept_terms','You must accept the terms and conditions before sending your message.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'invalid_required','The field is required.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'invalid_too_long','The field is too long.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'invalid_too_short','The field is too short.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'invalid_date','The date format is incorrect.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'date_too_early','The date is before the earliest one allowed.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'date_too_late','The date is after the latest one allowed.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'upload_failed','There was an unknown error uploading the file.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'upload_file_type_invalid','You are not allowed to upload files of this type.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'upload_file_too_large','The file is too big.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'upload_failed_php_error','There was an error uploading the file.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'invalid_number','The number format is invalid.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'number_too_small','The number is smaller than the minimum allowed.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'number_too_large','The number is larger than the maximum allowed.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'quiz_answer_not_correct','The answer to the quiz is incorrect.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'captcha_not_match','Your entered code is incorrect.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'invalid_email','The e-mail address entered is invalid.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'invalid_url','The URL is invalid.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'invalid_tel','The telephone number is invalid.'];
+						contactform.push(innerVal);
+						var innerVal = [9993,'gdpr',''];
+						contactform.push(innerVal);
+						</script><input type="hidden" class="wpcf7-pum" value="{&quot;closepopup&quot;:false,&quot;closedelay&quot;:0,&quot;openpopup&quot;:false,&quot;openpopup_id&quot;:0}"><div class="wpcf7-response-output wpcf7-display-none"></div><p style="display: none !important"><span class="wpcf7-form-control-wrap referer-page"><input type="hidden" name="referer-page" value="direct visit" class="wpcf7-form-control wpcf7-text referer-page" aria-invalid="false"></span></p>
+<!-- Chimpmail extension by Renzo Johnson --></form></div>			</div>
+		</div>
+		<div class="col-10 col-lg-6 order-3 order-lg-2 text-center">
+			<nav class="row bottom-nav pt-3 pt-lg-4 r-txt">
+								<a class="col-6 col-lg-4 mb-3 mb-lg-4" href="https://www.taptica.com/advertisers/">
+					<div class="uppercase">
+							Advertisers					</div>
+				</a>
+								<a class="col-6 col-lg-4 mb-3 mb-lg-4" href="https://www.taptica.com/publishers/">
+					<div class="uppercase">
+							Publishers					</div>
+				</a>
+								<a class="col-6 col-lg-4 mb-3 mb-lg-4" href="https://www.taptica.com/technology/">
+					<div class="uppercase">
+							Technology					</div>
+				</a>
+								<a class="col-6 col-lg-4 mb-3 mb-lg-4" href="https://www.taptica.com/blog/">
+					<div class="uppercase">
+							Resources					</div>
+				</a>
+								<a class="col-6 col-lg-4 mb-3 mb-lg-4" href="https://www.tremorinternational.com/">
+					<div class="uppercase">
+							Tremor International					</div>
+				</a>
+								<a class="col-6 col-lg-4 mb-3 mb-lg-4" href="https://www.taptica.com/contact/">
+					<div class="uppercase">
+							Contact us					</div>
+				</a>
+							</nav>
+						<div class="row mt-3 justify-content-center text-center">
+				<div class="col-12 small-txt">
+					©2019, All Rights Reserved to Tremor International Ltd.				</div>
+			</div>
+			<div class="row mt-3 justify-content-center text-center light-gray-txt small-txt">
+								<a target="_blank" href="https://www.taptica.com/advertisers-terms-conditions/" class="col-4 text-center text-lg-left">
+					Advertisers Terms &amp; Conditions				</a>
+								<a target="_blank" href="https://www.taptica.com/privacy-policy/" class="col-4 text-center">
+					Privacy Policy				</a>
+								<a target="_blank" href="https://www.taptica.com/publishers-terms-conditions/" class="col-4 text-center text-lg-right">
+					Publishers Terms &amp; Conditions				</a>
+			</div>
+            
+            <div class="row mt-2 justify-content-center text-center light-gray-txt small-txt">
+								<a target="_blank" href="https://www.taptica.com/ccpa/" class="col-4 text-center">
+					CCPA				</a>
+							</div>
+            
+		</div>
+		<div class="col-12 col-lg-3 text-center order-2 order-lg-3 r-txt social-wrapper">
+			<div class="title-wrapper social-title position-relative mx-auto mt-3">
+								<h5 class="xl-txt position-relative decorative-txt cyan-txt">Let's Get Social</h5>
+			</div>
+			<div class="icons-wrapper row justify-content-around align-items-center mb-1">
+				<div class="col-12">
+											<div class="row justify-content-center">
+															<a href="https://www.facebook.com/Taptica" target="_blank" class="symmetric-xs m-3 m-lg-2 icon bob">
+									<img src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/facebook_tap_icon@2x.png">
+								</a>
+															<a href="https://twitter.com/Taptica" target="_blank" class="symmetric-xs m-3 m-lg-2 icon bob">
+									<img src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/twetter_tap_icon@2x.png">
+								</a>
+															<a href="https://www.youtube.com/channel/UC2H1xpETFICKoSrSgHGHAmA" target="_blank" class="symmetric-xs m-3 m-lg-2 icon bob">
+									<img src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/youtube_tap_icon@2x.png">
+								</a>
+															<a href="https://www.linkedin.com/company/taptica/" target="_blank" class="symmetric-xs m-3 m-lg-2 icon bob">
+									<img src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/linkdein_tap_icon@2x.png">
+								</a>
+															<a href="https://www.instagram.com/wearetaptica/" target="_blank" class="symmetric-xs m-3 m-lg-2 icon bob">
+									<img src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/instagram_tap_icon@2x.png">
+								</a>
+													</div>
+									</div>
+			</div>
+			<a class="mail" href="mailto:info@taptica.com">
+				<p>info@taptica.com</p>
+			</a>
+		</div>
+	</div>
+</footer>
+
+<div class="loik" style="display: none;">
+
 </div>
-</noscript>
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/themes/taptica3/assets/js/vendor/owl.carousel.min.js"></script>
 
 <script type="text/javascript">
-  (function() {
-    window._pa = window._pa || {};
-    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
-    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.marinsm.com/serve/58bd3f81b55c70563000005f.js";
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
-  })();
-</script><script type="text/javascript">(function() {function addEventListener(element,event,handler) {
-	if(element.addEventListener) {
-		element.addEventListener(event,handler, false);
-	} else if(element.attachEvent){
-		element.attachEvent('on'+event,handler);
-	}
-}function maybePrefixUrlField() {
-	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
-		this.value = "http://" + this.value;
-	}
-}
+	var templateUrl = 'https://www.taptica.com/wp-content/themes/taptica3';
+</script>
 
-var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
-if( urlFields && urlFields.length > 0 ) {
-	for( var j=0; j < urlFields.length; j++ ) {
-		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
-	}
-}/* test if browser supports date fields */
-var testInput = document.createElement('input');
-testInput.setAttribute('type', 'date');
-if( testInput.type !== 'date') {
+<script src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/themes/taptica3/assets/js/vendor/moment.min.js"></script>
+<script src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/themes/taptica3/assets/js/vendor/moment-timezone.min.js"></script>
+<script src="https://3w9xneegnw91xugij1i3j27a-wpengine.netdna-ssl.com/wp-content/themes/taptica3/assets/js/scripts.js"></script>
 
-	/* add placeholder & pattern to all date fields */
-	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
-	for(var i=0; i<dateFields.length; i++) {
-		if(!dateFields[i].placeholder) {
-			dateFields[i].placeholder = 'YYYY-MM-DD';
-		}
-		if(!dateFields[i].pattern) {
-			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
-		}
-	}
-}
 
-})();</script><script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
-			(function(){var wpbrLoader = (function(){var g=document,b=g.createElement('script'),c=g.scripts[0];b.async=1;b.src='http://www.taptica.com/?gdbc-client=3.1.7-'+(new Date()).getTime();c.parentNode.insertBefore(b,c);});wpBruiserDocReady(wpbrLoader);window.onunload=function(){};window.addEventListener('pageshow',function(event){if(event.persisted){(typeof window.WPBruiserClient==='undefined')?wpbrLoader():window.WPBruiserClient.requestTokens();}},false);})();
-</script><script type="text/javascript" src="http://www.taptica.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.taptica.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7"></script>
-<script type="text/javascript" src="http://www.taptica.com/wp-content/plugins/infinite-scroll-and-load-more-ajax-pagination/js/jquery.infiniteload.js?ver=4.7.5"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var pix_infiniteload = {"navSelector":".nav","contentSelector":".events-list","nextSelector":".old_posts a","itemSelector":"article.event-box","paginationType":"more","loadingImage":"http:\/\/www.taptica.com\/wp-content\/uploads\/2015\/12\/loader.gif","loadingButtonLabel":"Load more items","loadingButtonClass":"pix_load-btn","loadingFinishedText":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.taptica.com/wp-content/plugins/infinite-scroll-and-load-more-ajax-pagination/js/infiniteload.js?ver=4.7.5"></script>
-<script type="text/javascript" src="http://www.taptica.com/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=5.1.1"></script>
-<script type="text/javascript" src="http://www.taptica.com/wp-content/themes/taptica/node_modules/clipboard/dist/clipboard.min.js?ver=1.0.0"></script>
-<script type="text/javascript" src="http://www.taptica.com/wp-content/themes/taptica/js/vendor/jquery.tooltipster.min.js?ver=1.0.0"></script>
-<script type="text/javascript" src="http://www.taptica.com/wp-includes/js/comment-reply.min.js?ver=4.7.5"></script>
-<script type="text/javascript" src="http://www.taptica.com/wp-content/themes/taptica/js/vendor/stickyfill.min.js?ver=1.0"></script>
-<script type="text/javascript" src="http://www.taptica.com/wp-content/themes/taptica/js/vendor/velocity.min.js?ver=1.0"></script>
-<script type="text/javascript" src="http://www.taptica.com/wp-content/themes/taptica/js/vendor/slick.min.js?ver=1.0"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var SiteVars = {"siteUrl":"http:\/\/www.taptica.com","templateUrl":"http:\/\/www.taptica.com\/wp-content\/themes\/taptica","ajaxUrl":"http:\/\/www.taptica.com\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.taptica.com/wp-content/themes/taptica/js/script.js?ver=1.0"></script>
-<script type="text/javascript" src="http://www.taptica.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.taptica.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var pum_vars = {"ajaxurl":"http:\/\/www.taptica.com\/wp-admin\/admin-ajax.php","restapi":"http:\/\/www.taptica.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"1134","debug_mode":"","disable_open_tracking":""};
-var pum_debug_vars = {"debug_mode_enabled":"Popup Maker Debug Mode Enabled","debug_started_at":"Debug started at:","debug_more_info":"For more information on how to use this information visit http:\/\/docs.wppopupmaker.com\/?utm_medium=js-debug-info&utm_campaign=ContextualHelp&utm_source=browser-console&utm_content=more-info","global_info":"Global Information","localized_vars":"Localized variables","popups_initializing":"Popups Initializing","popups_initialized":"Popups Initialized","single_popup_label":"Popup: #","theme_id":"Theme ID: ","label_method_call":"Method Call:","label_method_args":"Method Arguments:","label_popup_settings":"Settings","label_triggers":"Triggers","label_cookies":"Cookies","label_delay":"Delay:","label_conditions":"Conditions","label_cookie":"Cookie:","label_settings":"Settings:","label_selector":"Selector:","label_mobile_disabled":"Mobile Disabled:","label_tablet_disabled":"Tablet Disabled:","label_display_settings":"Display Settings:","label_close_settings":"Close Settings:","label_event_before_open":"Event: Before Open","label_event_after_open":"Event: After Open","label_event_open_prevented":"Event: Open Prevented","label_event_setup_close":"Event: Setup Close","label_event_close_prevented":"Event: Close Prevented","label_event_before_close":"Event: Before Close","label_event_after_close":"Event: After Close","label_event_before_reposition":"Event: Before Reposition","label_event_after_reposition":"Event: After Reposition","label_event_checking_condition":"Event: Checking Condition","triggers":{"click_open":{"name":"Click Open","modal_title":"Click Trigger Settings","settings_column":"<strong>Extra Selectors<\/strong>: {{data.extra_selectors}}"},"auto_open":{"name":"Auto Open","modal_title":"Auto Open Settings","settings_column":"<strong>Delay<\/strong>: {{data.delay}}"}},"cookies":{"on_popup_open":{"name":"On Popup Open","modal_title":"On Popup Open Settings"},"on_popup_close":{"name":"On Popup Close","modal_title":"On Popup Close Settings"},"manual":{"name":"Manual JavaScript","modal_title":"Click Trigger Settings"}}};
-var ajaxurl = "http:\/\/www.taptica.com\/wp-admin\/admin-ajax.php";
-var popmake_default_theme = "1134";
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.taptica.com/wp-content/plugins/popup-maker/assets/js/site.min.js?defer&amp;ver=1.6.3" defer="defer"></script>
-<script type="text/javascript" src="http://www.taptica.com/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var mc4wp_forms_config = [];
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.taptica.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.1.3"></script>
-<!--[if lte IE 9]>
-<script type='text/javascript' src='http://www.taptica.com/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.1.3'></script>
-<![endif]-->
-
-<script type="text/javascript">
-//<![CDATA[
-(function() {
-var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
-var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
-})();
-// ]]>
-</script></body></html>
+</body></html>
