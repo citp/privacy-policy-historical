@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the wpdevel.wordpress.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629224512id_/https%3A//wordpress.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpdevel.wordpress.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231201733id_/https%3A//wordpress.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WordPress.org
 
 WordPress.org websites (collectively “WordPress.org” in this document) refer to sites hosted on the WordPress.org, WordPress.net, WordCamp.org, BuddyPress.org, bbPress.org, and other related domains and subdomains thereof. This privacy policy describes how WordPress.org uses and protects any information that you give us. We are committed to ensuring that your privacy is protected. If you provide us with personal information through WordPress.org, you can be assured that it will only be used in accordance with this privacy statement.
 
-### Website Visitors
+## Website Visitors
 
 Like most website operators, WordPress.org collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. WordPress.org’s purpose in collecting non-personally identifying information is to better understand how WordPress.org’s visitors use its website. From time to time, WordPress.org may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
 WordPress.org also collects potentially personally-identifying information like Internet Protocol (IP) addresses. WordPress.org does not use IP addresses to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-### Gathering of Personally-Identifying Information
+## Gathering of Personally-Identifying Information
 
 Certain visitors to WordPress.org choose to interact with WordPress.org in ways that require WordPress.org to gather personally-identifying information. The amount and type of information that WordPress.org gathers depends on the nature of the interaction. For example, we ask visitors who use our forums to provide a username and email address.
 
@@ -18,7 +18,7 @@ In each case, WordPress.org collects such information only insofar as is necessa
 
 All of the information that is collected on WordPress.org will be handled in accordance with GDPR legislation.
 
-### Protection of Certain Personally-Identifying Information
+## Protection of Certain Personally-Identifying Information
 
 WordPress.org discloses potentially personally-identifying and personally-identifying information only to those of project administrators, employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on WordPress.org’s behalf or to provide services available through WordPress.org, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using WordPress.org, you consent to the transfer of such information to them.
 
@@ -28,7 +28,7 @@ If you are a registered user of a WordPress.org website and have supplied your e
 
 If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. WordPress.org takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
 
-### Use of personal information
+## Use of personal information
 
 We use the information you provide to register for an account, attend our events, receive newsletters, use certain other services, or participate in the WordPress open source project in any other way.
 
@@ -38,7 +38,7 @@ We would like to send you email marketing communication which may be of interest
 
 You have a right at any time to stop us from contacting you for marketing purposes. If you no longer wish to be contacted for marketing purposes, please click on the unsubscribe link at the bottom of the email.
 
-### Legal grounds for processing personal information
+## Legal grounds for processing personal information
 
 We rely on one or more of the following processing conditions:
 
@@ -48,7 +48,7 @@ We rely on one or more of the following processing conditions:
 
 
 
-### Access to data
+## Access to data
 
 You have the right to request a copy of the information we hold about you. If you would like a copy of some or all your personal information, please follow the instructions at the end of this section.
 
@@ -72,7 +72,7 @@ If you would like to request access to your account data, please follow these st
 
 Note: If you have a WP.org account, it’s recommended you log in before submitting to associate your account with the request.
 
-### Retention of personal information
+## Retention of personal information
 
 We will retain your personal information on our systems only for as long as we need to, for the success of the WordPress open source project and the programs that support WordPress.org. We keep contact information (such as mailing list information) until a user unsubscribes or requests that we delete that information from our live systems. If you choose to unsubscribe from a mailing list, we may keep certain limited information about you so that we may honor your request.
 
@@ -94,7 +94,7 @@ If you would like to request deletion of your account and associated data, pleas
 
 Note: If you have a WP.org account, it’s recommended you log in before submitting to associate your account with the request.
 
-### Rights in relation to your information
+## Rights in relation to your information
 
 You may have certain rights under data protection law in relation to the personal information we hold about you. In particular, you may have a right to:
 
@@ -108,25 +108,25 @@ You may have certain rights under data protection law in relation to the persona
 
 If you would like to exercise these rights or understand if these rights apply to you, please follow the instructions at the end of this Privacy statement.
 
-### Third Party Links
+## Third Party Links
 
 Our website may contain links to other websites provided by third parties not under our control. When following a link and providing information to a 3rd-party website, please be aware that we are not responsible for the data provided to that third party. This privacy policy only applies to the websites listed at the beginning of this document, so when you visit other websites, even when you click on a link posted on WordPress.org, you should read their own privacy policies.
 
-### Aggregated Statistics
+## Aggregated Statistics
 
 WordPress.org may collect statistics about the behavior of visitors to its websites. For instance, WordPress.org may reveal how many times a particular version of WordPress was downloaded or report on which plugins are the most popular, based on data gathered by `api.wordpress.org`, a web service used by WordPress installations to check for new versions of WordPress and plugins. However, WordPress.org does not disclose personally-identifying information other than as described in this policy.
 
-### Cookies
+## Cookies
 
 Additionally, information about how you use our website is collected automatically using “cookies”. Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to compile statistical reports on website activity.
 
 Please see [our cookie policy](https://wordpress.org/about/privacy/cookies/) for more information about what cookies are collected on WordPress.org.
 
-### Privacy Policy Changes
+## Privacy Policy Changes
 
 Although most changes are likely to be minor, WordPress.org may change its Privacy Policy from time to time, and at WordPress.org’s sole discretion. WordPress.org encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-### Contact
+## Contact
 
 Please contact us if you have any questions about our privacy policy or information we hold about you by emailing dpo@wordcamp.org.
 
