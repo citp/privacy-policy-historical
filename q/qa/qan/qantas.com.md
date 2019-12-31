@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qantas.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201070907id_/https%3A//www.qantas.com/sg/en/support/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qantas.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231062452id_/https%3A//www.qantas.com/au/en/support/privacy-and-security.html) for the most accurate reproduction.*
 
-# Privacy and security | Qantas SG
+# Privacy and security | Qantas AU
 
 ### General
 
@@ -34,7 +34,8 @@ The types of personal information that we collect and process about you will dep
   * **Travel details:** such as travel itinerary, baggage, seat preferences, seat and meal requests
   * **Health and dietary information** : dietary requirement and health information, including requests for specific assistance, in connection with your use of our products and services
   * **Payment details:** such as credit or debit card number and expiry date
-  * **Your use of our products and services** : such as your use of our inflight entertainment systems and any related products and services, CCTV images captured in our airport lounges and on-board, and your previous travel arrangements with us
+  * **Your use of our products and services** : such as use of our inflight entertainment systems and your previous travel arrangements with us 
+  * **CCTV images** : captured in our airport lounges and other premises
   * **Our interactions with you** : such as any feedback, complaints, compliments, claims you have made (such as in relation to lost luggage), responses to market surveys, records of any correspondence and interactions with us and our staff (including in person, online, by telephone or email and via social media)
   * **Your interests** : such as destinations you have visited and products you have bought
   * **Website and mobile apps:** if you use our website or mobile applications, your geo-location, IP address, mobile telephone number or ID, and details of how you use the website or app and any third party sites that you have accessed from them
@@ -254,7 +255,7 @@ If you purchase or use goods or services that have been acquired as part of a tr
 
 Cookies are small pieces of data stored on the web browser on your computer. This website and associated websites (including those you reach by clicking on advertising) may store cookies on your web browser.
 
-You can visit our [viewing tips page](https://web.archive.org/sg/en/support/viewing.html) to see if you have cookies enabled in your browser. See [how we use cookies](https://web.archive.org/sg/en/support/cookies-policy.html) and to [enable or disable](https://web.archive.org/sg/en/support/manage-cookies.html) cookies in your browser by visiting our [Cookies Policies](https://web.archive.org/sg/en/support/cookies-policy.html).
+You can visit our [viewing tips page](https://web.archive.org/au/en/support/viewing.html) to see if you have cookies enabled in your browser. See [how we use cookies](https://web.archive.org/au/en/support/cookies-policy.html) and to [enable or disable](https://web.archive.org/au/en/support/manage-cookies.html) cookies in your browser by visiting our [Cookies Policies](https://web.archive.org/au/en/support/cookies-policy.html).
 
 ## How we hold information and keep it secure
 
@@ -271,7 +272,7 @@ If we have given you (or you have chosen) a password which enables you to access
 
 When we disclose personal information in accordance with this Privacy Policy, it may be accessed from, transferred to, and/or stored outside the country in which you are located. The data protection laws in that country may be of a lower standard than those in your own country.  We will, in all circumstances, safeguard the personal information as set out in this Privacy Policy.
 
-Refer to the section on [European Data Protection Laws](https://web.archive.org/sg/en/support/privacy-and-security.html#european-data-protection-laws) for information about the export of personal data from the EEA to outside the EEA.
+Refer to the section on [European Data Protection Laws](https://web.archive.org/au/en/support/privacy-and-security.html#european-data-protection-laws) for information about the export of personal data from the EEA to outside the EEA.
 
 ### In the course of providing our services and facilitating reservations made through us
 
@@ -283,7 +284,7 @@ We may also disclose your personal information to data processors (including ope
 
 ### Access to, and correction of, information about you
 
-In some countries you have the right to access, or correct, the personal information that we hold about you. If you would like to request access to, or correction of, your personal information that we hold, please contact us using the details in the section titled '[Contacting Us](https://web.archive.org/sg/en/support/privacy-and-security.html#contacting-us)'.
+In some countries you have the right to access, or correct, the personal information that we hold about you. If you would like to request access to, or correction of, your personal information that we hold, please contact us using the details in the section titled '[Contacting Us](https://web.archive.org/au/en/support/privacy-and-security.html#contacting-us)'.
 
 To the extent required by applicable law, we will provide you with access to the information we hold about you, including for the purpose of correcting or updating that information, within a reasonable timeframe (or any time frame stipulated by the laws that apply to your request). If we are permitted to withhold some of your personal information and we choose to do so, we will advise you when responding to your request. If we refuse to provide you with access to, or to amend, the information, to the extent required we will notify you of our reasons for the refusal and how you may complain about the refusal.
 
@@ -301,7 +302,7 @@ This section applies if you are based in the European Economic Area (EEA) during
 
 Under European data protection laws, use of personal information must be based on one of a number of legal grounds and we are required to set out the grounds in respect of each use. Companies may process personal data only when the processing is permitted by the specific legal ground set out in the law.
 
-In the table below, we have set out the relevant grounds that apply to each purpose of data processing that is mentioned in this Privacy Policy. You can find an explanation of each of the legal grounds for use of personal information [here](https://web.archive.org/sg/en/support/privacy-and-security.html#legal-grounds-for-use-of-personal-information).
+In the table below, we have set out the relevant grounds that apply to each purpose of data processing that is mentioned in this Privacy Policy. You can find an explanation of each of the legal grounds for use of personal information [here](https://web.archive.org/au/en/support/privacy-and-security.html#legal-grounds-for-use-of-personal-information).
 
 The purpose of data processing and it's uses  Purposes of the data processing | Use bases  
 ---|---  
@@ -405,7 +406,7 @@ The legal grounds for our use of the sensitive categories of personal informatio
 
 When we transfer personal information from inside the EEA to outside the EEA, we may be required by law to take specific measures to safeguard the relevant personal information. Certain countries outside the EEA have been approved by the European Commission as providing essentially equivalent protections to EEA data protection laws and therefore no additional safeguards are required to export personal information from the EEA to these jurisdictions. In countries which have not had these approvals, we will use appropriate safeguards to protect any personal information being transferred, such as EU Commission-approved model contractual clauses or binding corporate rules permitted by applicable legal requirements.
 
-Please refer to the section “[Contacting Us](https://web.archive.org/sg/en/support/privacy-and-security.html#contacting-us)” if you would like to see a copy of the specific safeguards applied to the export of your personal information.
+Please refer to the section “[Contacting Us](https://web.archive.org/au/en/support/privacy-and-security.html#contacting-us)” if you would like to see a copy of the specific safeguards applied to the export of your personal information.
 
 ### Retention period
 
@@ -413,7 +414,7 @@ Our retention periods for personal data are based on business needs and legal re
 
 ### Marketing
 
-You have the right to ask us not to process your personal information for marketing purposes. We will inform you if we intend to use your information for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by not opting in when we invite you to participate in our marketing activities. You can also exercise the right by contacting us as set out in the “[Contacting Us](https://web.archive.org/sg/en/support/privacy-and-security.html#contacting-us)” section below or by managing your marketing preferences at “My Profile” if your profile is registered on our website.
+You have the right to ask us not to process your personal information for marketing purposes. We will inform you if we intend to use your information for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by not opting in when we invite you to participate in our marketing activities. You can also exercise the right by contacting us as set out in the “[Contacting Us](https://web.archive.org/au/en/support/privacy-and-security.html#contacting-us)” section below or by managing your marketing preferences at “My Profile” if your profile is registered on our website.
 
 ### Additional Rights Under EU Law
 
@@ -434,9 +435,21 @@ In addition, under certain conditions, you have the right to:
 
 
 
-You can exercise these rights by contacting us at the “[Contacting Us](https://web.archive.org/sg/en/support/privacy-and-security.html#contacting-us)” section below.
+You can exercise these rights by contacting us at the “[Contacting Us](https://web.archive.org/au/en/support/privacy-and-security.html#contacting-us)” section below.
 
 These rights are subject to certain exemptions to safeguard the public interest (e.g. the prevention or detection of crime) and our interests (e.g. the maintenance of legal privilege).
+
+If you wish to gain access to your personal information, have a complaint about a breach of your privacy or you have any query on how your personal information is collected or used, please forward your request, complaint or query to the address below. We will respond to your query or complaint as soon as possible. Privacy complaints about our acts or practices may be investigated by the Privacy Commissioner who has the power to make a determination including a declaration that the claimant is entitled to compensation.
+
+Loyalty Program members can update their profile information online or by contacting the Qantas Frequent Flyer service centre. 
+
+## Matters Outside the Scope of the Privacy Policy
+
+Our website may contain links to other companies’ websites or materials. If you choose to access such third-party websites, our privacy policy will not apply, and the privacy policy of the third-party website will apply instead. 
+
+## Changes to this Privacy Policy
+
+We may amend this Privacy Policy as our business requirements or the law changes. Any changes to this Privacy Policy will be updated on this website, so please visit periodically to ensure that you have our most current privacy statement. 
 
 Our preferred method for receiving questions about privacy is for you to use our [online form](https://qantas.custhelp.com/app/ask/c/518,519).
 
@@ -449,4 +462,4 @@ Qantas Airways Limited
 Mascot NSW 2020  
 Australia
 
-If your inquiry relates to European data protection laws you may contact our European Data Protection Officer at [EU.DPO@qantas.com.au](mailto:EU.DPO@qantas.com.au)
+If your inquiry relates to European data protection laws you may contact our European Data Protection Officer at [PrivacyOfficer@qantas.com.au](mailto:PrivacyOfficer@qantas.com.au)
