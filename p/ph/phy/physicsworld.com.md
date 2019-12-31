@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physicsworld.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623192042id_/http%3A//ioppublishing.org/legal-statements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physicsworld.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231125254id_/http%3A//ioppublishing.org/legal-statements/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and cookies - IOP Publishing
 
