@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vitals.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408013032id_/https%3A//www.vitals.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitals.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231092633id_/https%3A//www.vitals.com/privacy) for the most accurate reproduction.*
 
 # Find a Doctor, Doctor Reviews & Ratings | Vitals.com
 
-This Privacy Policy is effective as of **December 22 nd, 2017**.
+This Privacy Policy is effective as of **July 25 th, 2019**.
 
-We at Vitals Consumer Services, LLC, together with our related, affiliated and/or subsidiary companies, including MDX Medical, Inc., its subsidiaries, divisions and affiliates (collectively, “VCS”, “Vitals”, “We”, “Us” and “Our”) have created this privacy policy (this “Privacy Policy”) because We know that you care about how information you provide to Us is used and shared.  This Privacy Policy relates to the information collection and use practices of Vitals in connection with our products and services (collectively, the “Products and Services”), which are made available to you through a variety of platforms, including, but not limited to, www.vitals.com (the “Website”) and our mobile app, which is accessible through tablets, cell phones, and other devices (the “App”).  The Website and the App are collectively referred to as the “Platform.”  This Privacy Policy is subject to our terms of use (“Terms of Use”) which are incorporated herein by reference (available at http://www.vitals.com/terms-of-use).
+We at Vitals Consumer Services, LLC, together with our related, affiliated and/or subsidiary companies (collectively, “VCS”, “Vitals”, “We”, “Us” and “Our”) have created this privacy policy (this “Privacy Policy”) because We know that you care about how information you provide to Us is used and shared. This Privacy Policy relates to the information collection and use practices of Vitals in connection with our products and services (collectively, the “Products and Services”), which are made available to you through a variety of platforms, including, but not limited to, [www.vitals.com](https://www.vitals.com/) (the “Website”) and our mobile app, which is accessible through tablets, cell phones, and other devices (the “App”). The Website and the App are collectively referred to as the “Platform.” This Privacy Policy is subject to our terms of use (“Terms of Use”) which are incorporated herein by reference (available at <https://www.vitals.com/terms-of-use>).
 
 ## DESCRIPTION OF USERS AND ACCEPTANCE OF TERMS
 
@@ -18,15 +18,15 @@ Please note that this Privacy Policy may change from time to time. Vitals will p
 
 If You have any additional questions or concerns about this Privacy Policy, please contact us at:
 
-Vitals c/o Vitals Consumer Services, LLC
+Vitals Consumer Services, LLC c/o WebMD LLC
 
-Attn: Senior Vice President, Legal and Compliance
+Office of Privacy
 
-160 Chubb Avenue
+1201 Peachtree Street NE, 400 Colony Square, Suite 2100
 
-Lyndhurst, NJ 07071
+Atlanta, GA 30361
 
-Email address [support@vitals.com](mailto:support@vitals.com)
+Contact us [https://www.vitals.com/feedback](https://www.vitals.com/feedback)
 
 ## WHAT INFORMATION DO WE COLLECT/RECEIVE
 
@@ -39,10 +39,10 @@ For the purposes of this Privacy Policy, “Personal Information” is informati
   * Vitals may obtain, collect, retain, store or otherwise maintain Your Personal Information from the following sources:
   * Your Vitals Account: This information may include, for example, information You provide to Vitals through Your creation, registration and maintenance of a user account on the Platform (“Registration Information”).
   * Purchase of Products and Services: To the extent that We offer Products and Services for purchase on the Platform, we may request that You provide Personal Information, a credit card account number and/or or other payment account information in order for You to access or purchase those Products and Services.
-  * Other Information You Provide to Vitals: Some of the Products and Services allow or require You to provide Personal Information, such as Your Healthcare Providers, pharmacies, insurance information, emergency contact information, personal health information, member number, group number and related information. Personal Information that You may store through the App by means of taking a photograph with Your mobile device (for example, taking a photograph of Your health insurance card) may be  stored on Your mobile device. Accordingly, the safety, security and privacy of Your mobile device and the information and photographs that You store on it are Your responsibility and not the responsibility of Vitals.
+  * Other Information You Provide to Vitals: Some of the Products and Services allow or require You to provide Personal Information, such as Your Healthcare Providers, pharmacies, insurance information, emergency contact information, personal health information, member number, group number and related information. Personal Information that You may store through the App by means of taking a photograph with Your mobile device (for example, taking a photograph of Your health insurance card) may be stored on Your mobile device. Accordingly, the safety, security and privacy of Your mobile device and the information and photographs that You store on it are Your responsibility and not the responsibility of Vitals.
   * Interactive Products and Services: Some of the Products and Services allow You to interact with Healthcare Providers through the Platform. These interactive Products and Services include, but are not limited to, scheduling appointments with Healthcare Providers. In order to provide you with these interactive Products and Services, We may ask you to provide Personal Information (such as the medical reasons for You scheduling the appointment). You understand and agree that Vitals may use and/or disclose such Personal Information to Healthcare Providers that You have selected in connection with providing You with the requested interactive Products and Services.
   * Your Responses to Communications from Vitals: From time to time, Vitals may communicate with You through postal mail, email, fax, telephone, or other forms of electronic communications regarding Your Vitals account on the Platform, inquiries you may make to Vitals customer service, the Products and Services and new Products and Services. If You respond to these communications, Your responses may also contain Personal Information.
-  * Online Appointments: You may schedule an on-line appointment with a Healthcare Provider through the Platform (“OLA”). In order to do so, You must submit the requested appointment information, including but not limited to Your Personal Information, dates, times, reasons of visit, and any other health-related information (“OLA Information”). We are committed to User privacy and have in place reasonable and appropriate data security policies and measures to protect the Personal Information, and ensure that Users control access to their information. Vitals may engage third party subcontractors, such as Cadit, (“Third Party”) to process Your OLA request. You acknowledge and agree that any information that you submit in connection with such OLA request will be submitted to such Third Party and will be subject to the privacy policy and terms of use of such Third Party. We urge you to review the Third Party privacy policies and terms of use carefully.  To the extent Vitals engages such Third Parties, Vitals shall ensure that any such Third Party to whom it provides Personal Information agrees to the same restrictions and conditions that apply to Vitals with respect to such Personal Information. Please be advised that Cadit may share certain Personal Information submitted to Cadit with Vitals to create Vitals user accounts and personalize the search experience on the Vitals Platform.  Vitals does not have, and does not assume, any responsibility for the confidentiality of communications between You and Your Healthcare Provider, other than those expressly stated in this Privacy Policy and the Terms of Use, or any responsibility for a violation of state or federal laws by Your Healthcare Provider. When You use the OLA service, you may automatically receive administrative emails from Us. You cannot opt-out of receiving administrative emails sent by Us.
+  * Online Appointments: You may schedule an on-line appointment with a Healthcare Provider through the Platform (“OLA”). In order to do so, You must submit the requested appointment information, including but not limited to Your Personal Information, dates, times, reasons of visit, and any other health-related information (“OLA Information”). We are committed to User privacy and have in place reasonable and appropriate data security policies and measures to protect the Personal Information, and ensure that Users control access to their information. Vitals may engage third party subcontractors, such as Cadit, (“Third Party”) to process Your OLA request. You acknowledge and agree that any information that you submit in connection with such OLA request will be submitted to such Third Party and will be subject to the privacy policy and terms of use of such Third Party. We urge you to review the Third Party privacy policies and terms of use carefully. To the extent Vitals engages such Third Parties, Vitals shall ensure that any such Third Party to whom it provides Personal Information agrees to the same restrictions and conditions that apply to Vitals with respect to such Personal Information. Please be advised that Cadit may share certain Personal Information submitted to Cadit with Vitals to create Vitals user accounts and personalize the search experience on the Vitals Platform. Vitals does not have, and does not assume, any responsibility for the confidentiality of communications between You and Your Healthcare Provider, other than those expressly stated in this Privacy Policy and the Terms of Use, or any responsibility for a violation of state or federal laws by Your Healthcare Provider. When You use the OLA service, you may automatically receive administrative emails from Us. You cannot opt-out of receiving administrative emails sent by Us.
 
 
 
@@ -77,7 +77,7 @@ You also authorize us to use and/or share Information as described below:
   * We may share Your Information with employees, contractors and agents of Vitals who need to know such Information for performing their duties with respect to the purposes set forth in this section. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination, if they fail to meet these obligations.
   * We may employ third parties to perform services on Our behalf. Examples may include services to improve our Platform, marketing, advertising, and promotional efforts and to facilitate transactions, includes processing orders by credit card. These third parties will have access to Your Information only as necessary to perform their services, and they may not use Your Information for any other purpose.
   * We may share some or all of your Information with any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us.
-  * As we develop our businesses, we might sell or buy businesses or assets.  In the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event, the Information may be part of the transferred assets.
+  * As we develop our businesses, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event, the Information may be part of the transferred assets.
   * We may disclose Your Information, including Personal Information, to government authorities, and to other third parties when compelled to do so by government authorities, at our discretion, or otherwise as required by law, including but not limited to in response to court orders and subpoenas. We also may disclose Your Information when we have reason to believe that someone is or may be causing injury to or interference with our rights or property, other Users of the Platform, or anyone else that could be harmed by such activities.
 
 
@@ -92,7 +92,7 @@ Vitals permits third-party advertising companies and networks to place paid adve
 
 You have options and choices about the collection and use of information by third-parties on our site:
 
-For more information about these third-party ad networks and opting out of tracking, see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+For more information about these third-party ad networks and opting out of tracking, see: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 For more information about interest-based information tracking and opting out, see: [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/)
 
@@ -100,7 +100,7 @@ For information about disabling and controlling third-party cookies in your brow
 
 ## EXTERNAL LINKS
 
-This Privacy Policy only applies to the Platform and the Products and Services made available through the Platform. This Privacy Policy does not apply to any other websites or mobile applications, including those that may link to or from any part of the Platform or those from which you may be able to download or launch the Platform  (collectively, the “External Sites”). Vitals does not endorse and is not responsible for the maintenance or content of any linked External Sites. These External Sites may have their own privacy policies and terms of use, which We encourage You to read. You should contact these External Sites directly if You have any questions about their use of Your information. Vitals is not responsible for any use of Your information, including Your Personal Information, when You use or visit such third party websites, mobile applications and services.
+This Privacy Policy only applies to the Platform and the Products and Services made available through the Platform. This Privacy Policy does not apply to any other websites or mobile applications, including those that may link to or from any part of the Platform or those from which you may be able to download or launch the Platform (collectively, the “External Sites”). Vitals does not endorse and is not responsible for the maintenance or content of any linked External Sites. These External Sites may have their own privacy policies and terms of use, which We encourage You to read. You should contact these External Sites directly if You have any questions about their use of Your information. Vitals is not responsible for any use of Your information, including Your Personal Information, when You use or visit such third party websites, mobile applications and services.
 
 ## INFORMATION SECURITY
 
@@ -116,13 +116,13 @@ Vitals processes Personal Information only for the purposes for which it was col
 
 Information You Provide When Registering For a Vitals Account
 
-You may change or update the e-mail address and password that You provided when You registered for Your Vitals account via the “settings” or “account settings” section of such account. If You registered separately for an account on both the Website and the App, changes or updates to registration information should be made separately on each account. You may terminate Your Vitals account by sending an e-mail with your account termination request to  [support@vitals.com](mailto:support@vitals.com).
+You may change or update the e-mail address and password that You provided when You registered for Your Vitals account via the “settings” or “account settings” section of such account. If You registered separately for an account on both the Website and the App, changes or updates to registration information should be made separately on each account. You may terminate Your Vitals account by sending an e-mail with your account termination request at [https://www.vitals.com/feedback](https://www.vitals.com/feedback).
 
 Information You Store or Access When Using the Products and Services
 
-When you use the Products and Services, We make good faith efforts to provide You with access to Your Personal Information. You may organize or delete or change certain of the information that is entered or uploaded into Your Vitals account (such as for patients, the names of Your Healthcare Providers, pharmacies, insurance information, emergency contact information, personal health information and related information, and such as for physicians, the address where Your practice is located, Your photograph and Your practice specialty) via the section of Your account where the information is located. Where applicable, We ask individual Users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case, where We provide information access and correction, We provide this service free of charge, except if doing so would require a disproportionate effort. If you have any questions or want more information about accessing or updating Your Personal Information, please contact Vitals by e-mail to [support@vitals.com](mailto:support@vitals.com).
+When you use the Products and Services, We make good faith efforts to provide You with access to Your Personal Information. You may organize or delete or change certain of the information that is entered or uploaded into Your Vitals account (such as for patients, the names of Your Healthcare Providers, pharmacies, insurance information, emergency contact information, personal health information and related information, and such as for physicians, the address where Your practice is located, Your photograph and Your practice specialty) via the section of Your account where the information is located. Where applicable, We ask individual Users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case, where We provide information access and correction, We provide this service free of charge, except if doing so would require a disproportionate effort. If you have any questions or want more information about accessing or updating Your Personal Information, please contact Vitals at [https://www.vitals.com/feedback](https://www.vitals.com/feedback).
 
-All deletions, changes or updates that you make to Your Personal Information and account  termination requests will take effect after We receive and process Your e-mail termination request. Except for deleted information that was stored exclusively on Your mobile device, residual copies of the deleted information, may remain in perpetuity in backup systems.
+All deletions, changes or updates that you make to Your Personal Information and account termination requests will take effect after We receive and process Your e-mail termination request. Except for deleted information that was stored exclusively on Your mobile device, residual copies of the deleted information, may remain in perpetuity in backup systems.
 
 Deleting the App from Your mobile device will not terminate Your Vitals account but will delete any information that You stored through the App by means of taking a photograph with Your mobile device (“Stored Photographic Information”). Terminating Your Vitals account will not delete Stored Photographic Information unless You also delete the App from Your mobile device.
 
@@ -130,30 +130,30 @@ Please note though that according to the Terms of Use, Your Submissions to the P
 
 ## CHILDREN
 
-We do not knowingly collect Personal Information from children under the age of 13 through the Platform.  If you are under 13, please do not give us any Personal Information.  We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Information through any website without their permission.  If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will endeavor to delete that information from our databases.
+We do not knowingly collect Personal Information from children under the age of 13 through the Platform. If you are under 13, please do not give us any Personal Information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Information through any website without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will endeavor to delete that information from our databases.
 
 ## ENFORCEMENT
 
 Please direct any questions or concerns regarding this Privacy Policy or Vitals’ treatment of Personal Information by contacting Us at the following address:
 
-Vitals c/o Vitals Consumer Services, LLC
+Vitals Consumer Services, LLC c/o WebMD LLC
 
-Attn: Senior Vice President, Legal and Compliance
+Office of Privacy
 
-160 Chubb Avenue
+1201 Peachtree Street NE, 400 Colony Square, Suite 2100
 
-Lyndhurst, NJ 07071
+Atlanta, GA 30361
 
-Email address [support@vitals.com](mailto:support@vitals.com)
+Contact us [https://www.vitals.com/feedback](https://www.vitals.com/feedback)
 
 When Vitals receives formal written complaints at this address, its policy is to contact the complaining User regarding his or her concerns. Vitals will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of Personal Information that cannot be resolved between an individual and Vitals.
 
 ## CALIFORNIA PRIVACY RIGHTS
 
-California Civil Code Section 1798.83 allows users who are California residents to request certain information about the disclosure of their Personal Information to third parties for direct marketing purposes. To make such a request, please contact us at [support@vitals.com](mailto:support@vitals.com).
+California Civil Code Section 1798.83 allows users who are California residents to request certain information about the disclosure of their Personal Information to third parties for direct marketing purposes. To make such a request, please contact us at [https://www.vitals.com/feedback](https://www.vitals.com/feedback).
 
 ## IMPORTANT NOTICE TO NON-U.S. RESIDENTS
 
-The Platform is operated in the United States.  If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States.  By providing us with any information through the Platform, you consent to this transfer and our use of such information in accordance with this Privacy Policy.
+The Platform is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By providing us with any information through the Platform, you consent to this transfer and our use of such information in accordance with this Privacy Policy.
 
-Copyright © 2016 Vitals. All Rights Reserved.
+Copyright © 2019 Vitals Consumer Services, LLC
