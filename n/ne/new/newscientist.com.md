@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627093411id_/https%3A//www.newscientist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231194044id_/https%3A//www.newscientist.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | New Scientist
 
@@ -335,99 +335,95 @@ You can control the cookies on your browser in a number of ways.
 
 You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 Ely_vID
 
-www.wpadmin.prod.nsdev.net
-
-_ga
-
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 __gads
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 apc_vID
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 roost-notes-read
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 roost-isopen
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 cookiesDirective
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 ns-session
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 PHPSESSID
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 _gid
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 joblink-cookie
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 iosapp-cookie
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 sciencejobs
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 navbar
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 ns-auth-cookie-934258
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 wordpress_logged_in_922c20a1efdfdb914a1a840ab0eb8fee
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 roost-flyout
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 wp-settings-time-53933
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 wp-settings-53933
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 _uetsid
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 __atuvc
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 __atuvs
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 _dc_gtm_UA-3467316-2
 
-www.wpadmin.prod.nsdev.net
+www.newscientist.com
 
 _gat_UA-3467316-2
 
