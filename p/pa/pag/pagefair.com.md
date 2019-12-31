@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pagefair.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503164710id_/https%3A//pagefair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagefair.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231194123id_/https%3A//pagefair.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | PageFair
 
-PageFair Limited and its subsidiaries ( **“We”** ) support online privacy, and are committed to protecting your privacy rights. This policy (together with our General [Terms and Conditions](http://pagefair.com/conditions)) sets out how any information we collect about you, or that you provide to us, will be processed by us.
+PageFair Limited and its subsidiaries ( **“We”** ) support online privacy, and are committed to protecting your privacy rights. This policy (together with our General [Terms and Conditions](https://pagefair.com/conditions)) sets out how any information we collect about you, or that you provide to us, will be processed by us.
 
 For the purpose of the Irish Data Protection Acts 1988 and 2003 (the **“Acts”** ), the data controller is PageFair Limited a company incorporated in Ireland with company number 530978 whose registered office is at Unit D, Mountpleasant Business Centre, Mountpleasant Avenue, Dublin 6, D06 N925, Ireland.
 
@@ -139,7 +139,7 @@ PageFair Advertising | LocalStorage (1st party) | adonisClientOptions | Predefin
   
 ### PageFair Services and Do-Not-Track
 
-We are committed to respecting privacy preferences have have been expressed by visitors to websites that use the Services. The Services do not employ 3rd party tracking cookies, and are configured to disable user matching or gathering of traffic data in relation to any user who has enabled privacy settings that We can detect with commercially reasonable effort (in which case advertising will still be displayed, but will not be targeted by advertisers to the interests of individual users). We currently detect the usage of “Do-Not-Track”, or browser extensions such as [Disconnect](http://disconnect.me/) or [Ghostery](https://www.ghostery.com/), or the Firefox web browser’s “private browsing” mode, or use of the “EasyPrivacy” list in the Adblock or Adblock Plus browser extensions. To opt out of user matching and processing of traffic information, please configure or install one of the above alternatives.
+We are committed to respecting privacy preferences have have been expressed by visitors to websites that use the Services. The Services do not employ 3rd party tracking cookies, and are configured to disable user matching or gathering of traffic data in relation to any user who has enabled privacy settings that We can detect with commercially reasonable effort (in which case advertising will still be displayed, but will not be targeted by advertisers to the interests of individual users). We currently detect the usage of “Do-Not-Track”, or browser extensions such as [Disconnect](https://disconnect.me/) or [Ghostery](https://www.ghostery.com/), or the Firefox web browser’s “private browsing” mode, or use of the “EasyPrivacy” list in the Adblock or Adblock Plus browser extensions. To opt out of user matching and processing of traffic information, please configure or install one of the above alternatives.
 
 ## Changes to This Privacy Policy
 
