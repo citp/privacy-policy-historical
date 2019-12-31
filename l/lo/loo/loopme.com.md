@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopme.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628230213id_/https%3A//loopme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopme.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231220607id_/https%3A//loopme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LoopMe
 
@@ -232,6 +232,3 @@ London EC1N 8FH
 United Kingdom
 
 Last Updated — 26th April 2018
-
-  
-
