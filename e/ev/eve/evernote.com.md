@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630041722id_/https%3A//evernote.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231171250id_/https%3A//evernote.com/privacy/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Effective Date: May 25, 2018 –[What’s New >>](https://web.archive.org/privacy/updates)**
+
+**In the event of a conflict, the English language version shall govern.**
 
 **[Return to Privacy Center](https://web.archive.org/privacy)**
 
@@ -362,8 +364,8 @@ Redwood City, California 94063 USA
 Attention: Privacy Team
 
 EVERNOTE GMBH  
-Walchestrasse 9  
-8006 Zurich, Switzerland  
+c/o Centralis Switzerland GmbH  
+Dufourstrasse 101, 8008 Zurich, Switzerland  
 Attention: Privacy Team
 
 EVERNOTE DO BRASIL SERVIÇOS DE APLICAÇÕES LTDA.  
@@ -387,5 +389,3 @@ Attention: Privacy Team
   * **Paid Service** means Evernote Plus, Evernote Premium, Evernote Business, and any other Evernote offering for which we collect payment (in the form of currency, Evernote points, coupon codes).
 
 
-
-In the event of a conflict, the English language version shall govern. 
