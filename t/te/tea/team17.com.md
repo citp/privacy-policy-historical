@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the team17.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527114746id_/https%3A//www.team17.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the team17.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231231701id_/https%3A//www.team17.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Team17 Group PLC
 
@@ -255,6 +255,6 @@ Where we use providers based in the USA, we may transfer data to them if they ar
 
 ### HOW DO I ASK A QUESTION OR FILE A COMPLAINT?
 
-For all questions or complaints about this Privacy Policy, we would appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance by contacting our Data Protection Officer via email at dataprotection@team17.com or by writing to Castleview House, Calder Island Way, Wakefield, West Yorkshire, WF2 7AW. If you are a Team17 Online Services user located in the European Union, please indicate that in your email or letter.
+For all questions or complaints about this Privacy Policy, we would appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance by contacting our Data Protection Officer via email at dataprotection@team17.com or by writing to Team17 Digital Ltd, 3 Red Hall Avenue, Paragon Business Park, Wakefield, West Yorkshire, WF1 2UL. If you are a Team17 Online Services user located in the European Union, please indicate that in your email or letter.
 
 You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](https://www.ico.org.uk/)).
