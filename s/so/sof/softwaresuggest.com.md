@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softwaresuggest.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331213603id_/https%3A//www.softwaresuggest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaresuggest.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231155418id_/https%3A//www.softwaresuggest.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# SoftwareSuggest Privacy Policy
 
 **Background:**
 
@@ -22,11 +22,11 @@ means an account required to access and/or use certain areas and features of Our
   
 ---|---  
   
-**[“Cookie”**
+**“Cookie”**
 
 | 
 
-means a small text file placed on your computer or device by Our Site when you visit certain parts of Our Site and/or when you use certain features of Our Site. Details of the Cookies used by Our Site are set out in section 12, below;]  
+means a small text file placed on your computer or device by Our Site when you visit certain parts of Our Site and/or when you use certain features of Our Site. Details of the Cookies used by Our Site are set out in section 12, below;  
   
 **“Our Site”**
 
@@ -34,7 +34,7 @@ means a small text file placed on your computer or device by Our Site when you v
 
 means this website, www.softwaresuggest.com  
   
-**[“UK and EU Cookie Law”**
+**“UK and EU Cookie Law”**
 
 | 
 
@@ -63,7 +63,7 @@ This Privacy Policy applies only to your use of Our Site. It does not extend to 
 
 Some data will be collected automatically by Our Site (for further details, please see section 12 on Our use of Cookies and Our Cookie Policy) other data will only be collected if you voluntarily submit it and consent to Us using it for the purposes set out in section 5, for example, when signing up for an Account.
 
-  1. If you are looking for Software, we may collect some or all of the following data: 
+  1. 4.1 If you are looking for Software, we may collect some or all of the following data: 
     * Name
     * Business Email
     * Phone number
@@ -81,7 +81,7 @@ Some data will be collected automatically by Our Site (for further details, plea
     * Reason to Changes
 
 
-  1. If you are Software Vendor, we may collect some or all of the following data: 
+  1. 4.2 If you are Software Vendor, we may collect some or all of the following data: 
     * Name
     * Business Email
     * Organization
@@ -97,7 +97,7 @@ Some data will be collected automatically by Our Site (for further details, plea
 
 **If you are customer:**
 
-  * Supplying you with email e.g. newsletters, alerts, promotional mails etc. that you have subscribed to (you may unsubscribe or opt-out at any time by Insert Description of Unsubscription Method;
+  * Supplying you with email e.g. newsletters, alerts, promotional mails etc. that you have subscribed to (you may unsubscribe or opt-out at any time by Insert Description of Unsubscription Method);
   * Responding to communications from you;
   * Market research;
   * Analysing your use of Our Site and gathering feedback to enable Us to continually improve Our Site and your user experience;
@@ -127,6 +127,7 @@ Some data will be collected automatically by Our Site (for further details, plea
     4. processing is necessary to protect the vital interests of you or of another natural person;
     5. processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller; and/or
     6. processing is necessary for the purposes of the legitimate interests pursued by us or by a third party, except where such interests are overridden by the fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child.
+  * SoftwareSuggest can do lead generation activities by adding a call to action buttons/banner/popups for companies with a profile page on the website.
 
 
   6. **How and Where Do We Store Your Data?**
@@ -138,7 +139,7 @@ Some data will be collected automatically by Our Site (for further details, plea
     * Steps We take to secure and protect your data include: 
       * Can be provided on request basis
     * Notwithstanding the security measures that We take, it is important to remember that the transmission of data via the internet may not be completely secure and that you are advised to take suitable precautions when transmitting to Us data via the internet.
-    * In case you discontinue using our services or products your data will only be stored for 6 months with us or our third party vendor. It will be kept confidential and will not be shared with anyone at any time. We will store the data till 6 months in case you want to revive the services or product and for analysis purpose. However, finance related data will not be deleted which is much necessary for our company for accounting and auditing purpose. In case you have any discrepancies related to your data retention of confidentiality, you may reach out to us at support@softwaresuggest.com
+    * In case you discontinue using our services or products your data will only be stored for 3 years with us or our third party vendor. It will be kept confidential and will not be shared with anyone at any time. We will store the data till 3 years in case you want to revive the services or product and for analysis purpose. However, finance related data will not be deleted which is much necessary for our company for accounting and auditing purpose. In case you have any discrepancies related to your data retention of confidentiality, you may reach out to us at support@softwaresuggest.com
 
 
   7. **Do We Share Your Data?**
@@ -151,6 +152,7 @@ Some data will be collected automatically by Our Site (for further details, plea
   8. **What Happens If Our Business Changes Hands?**
     * We may, from time to time, expand or reduce Our business and this may involve the sale and/or the transfer of control of all or part of Our business. Data provided by users will, where it is relevant to any part of Our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this Privacy Policy, be permitted to use the data for the purposes for which it was originally collected by Us.
     * In the event that any of your data is to be transferred in such a manner, you may be contacted in advance and informed of the changes. When contacted you will not, however, be given the choice to have your data deleted or withheld from the new owner or controller.
+    * Any consultant / business partners / affiliate who submits leads to SoftwareSuggest under the Lead Partner or Consultant Partner Program must have the ownership of the submitted leads.
 
 
   9. **How Can You Control Your Data?**
@@ -168,11 +170,11 @@ Some data will be collected automatically by Our Site (for further details, plea
 
 
   12. **What Cookies Do We Use and What For?**
-    * Our Site may place and access certain first party Cookies on your computer or device. First party Cookies are those placed directly by Us and are used only by Us. We use Cookies to facilitate and improve your experience of Our Site and to provide and improve Our services. For more details, please refer to section 5, above, and to section 12.6 below. We have carefully chosen these Cookies and have taken steps to ensure that your privacy is protected and respected at all times.
-    * By using Our Site you may also receive certain third party Cookies on your computer or device. Third party Cookies are those placed by websites, services, and/or parties other than Us. We use third party Cookies on Our Site for multiple reasons. For more details, please refer to section 5, above, and to section 12.6 below. These Cookies are not integral to the functioning of Our Site.
+    * Our Site may place and access certain first party Cookies on your computer or device. First party Cookies are those placed directly by Us and are used only by Us. We use Cookies to facilitate and improve your experience of Our Site and to provide and improve Our services. For more details, please refer to section 5, above and to section below, We have carefully chosen these Cookies and have taken steps to ensure that your privacy is protected and respected at all times.
+    * By using Our Site you may also receive certain third party Cookies on your computer or device. Third party Cookies are those placed by websites, services, and/or parties other than Us. We use third party Cookies on Our Site for multiple reasons. For more details, please refer to section 5, above, and to section below. These Cookies are not integral to the functioning of Our Site.
     * All Cookies used by and on Our Site are used in accordance with current English and EU Cookie Law.
-    * Before any Cookies are placed on your computer or device, subject to section 12.5 AND/OR section 12.8, you will be shown a prompt e.g. pop-up, message bar etc. requesting your consent to set those Cookies. By giving your consent to the placing of Cookies you are enabling Us to provide the best possible experience and service to you. You may, if you wish, deny consent to the placing of Cookies; however certain features of Our Site may not function fully or as intended.
-    * Certain features of Our Site depend on Cookies to function. UK and EU Cookie Law deems these Cookies to be “strictly necessary”. These Cookies are shown below in section 12.7. Your consent will not be sought to place these Cookies. You may still block these Cookies by changing your internet browser’s settings as detailed below in section 12.10, but please be aware that Our Site may not work as intended if you do so. We have taken great care to ensure that your privacy is not at risk by allowing them.
+    * Before any Cookies are placed on your computer or device, you will be shown a prompt e.g. pop-up, message bar etc. requesting your consent to set those Cookies. By giving your consent to the placing of Cookies you are enabling Us to provide the best possible experience and service to you. You may, if you wish, deny consent to the placing of Cookies; however certain features of Our Site may not function fully or as intended.
+    * Certain features of Our Site depend on Cookies to function. UK and EU Cookie Law deems these Cookies to be “strictly necessary”. These Cookies are shown below. Your consent will not be sought to place these Cookies. You may still block these Cookies by changing your internet browser’s settings, but please be aware that Our Site may not work as intended if you do so. We have taken great care to ensure that your privacy is not at risk by allowing them.
     * The following Third party Cookies may be placed on your computer or device:
 
 
@@ -416,7 +418,7 @@ exit intent popup for mobile
 Yes  
   
   * Our Site uses analytics services provided by Google and Facebook Website analytics refers to a set of tools used to collect and analyse usage statistics, enabling Us to better understand how people use Our Site. This, in turn, enables Us to improve Our Site and the services offered through it. You do not have to allow Us to use these Cookies, as detailed below, however whilst Our use of them does not pose any risk to your privacy or your safe use of Our Site, it does enable Us to continually improve Our Site, making it a better and more useful experience for you.
-  * The analytics service(s) used by Our Site use(s) Cookies to gather the required information. Certain of these Cookies may be placed immediately when you first visit Our Site and it may not be possible for Us to obtain your prior consent. You may remove these Cookies and prevent future use of them by following the steps set out below in section 12.10.
+  * The analytics service(s) used by Our Site use(s) Cookies to gather the required information. Certain of these Cookies may be placed immediately when you first visit Our Site and it may not be possible for Us to obtain your prior consent.
   * The analytics service(s) used by Our Site use(s) the following Cookies:
 
 
