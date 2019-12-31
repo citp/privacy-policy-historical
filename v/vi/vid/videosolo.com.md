@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videosolo.com privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125080250id_/https%3A//www.videosolo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosolo.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231183839id_/https%3A//www.videosolo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VideoSolo
 
