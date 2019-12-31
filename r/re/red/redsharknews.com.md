@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redsharknews.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515005947id_/https%3A//www.redsharknews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redsharknews.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231233747id_/https%3A//www.redsharknews.com/privacy-policy) for the most accurate reproduction.*
 
 # RedShark News - Privacy & cookie policy
 
