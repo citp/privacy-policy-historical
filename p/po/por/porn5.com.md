@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the porn5.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821234356id_/http%3A//porn5.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porn5.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231050627id_/https%3A//chaturbate.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Porn5
+# Privacy Policy - Chaturbate
 
 This Privacy & Cookies Policy (the "Policy") dated May 22, 2018 replaces all previous policies. Please take the time to review before you continue to use our products and services.
 
