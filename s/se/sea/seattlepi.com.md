@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattlepi.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231221112id_/https%3A//www.seattlepi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlepi.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231101221id_/https%3A//www.seattlepi.com/privacy) for the most accurate reproduction.*
 
 # seattlepi.com Web Site Privacy Policy - seattlepi.com
 
@@ -62,7 +62,7 @@ Read more here.
   * We use a variety of security technologies and procedures to help protect information from unauthorized access, use or disclosure.
   * The Digital Services are operated from the United States. Information may be processed and stored in the United States or other countries.
   * The Digital Services are not intended for use by children under the age of 13.
-  * This Privacy Notice is part of the [Terms of Use](https://web.archive.org/web/20181231221112id_/https://www.seattlepi.com/terms), which govern your use of the Digital Services and any disputes related to your use of the Digital Services (including our use of your information) will be resolved per the dispute resolution provision in the Terms of Use.
+  * This Privacy Notice is part of the [Terms of Use](https://web.archive.org/web/20191231101221id_/https://www.seattlepi.com/terms), which govern your use of the Digital Services and any disputes related to your use of the Digital Services (including our use of your information) will be resolved per the dispute resolution provision in the Terms of Use.
 
 
 
@@ -293,7 +293,7 @@ This Privacy Notice does not apply to web pages hosting our careers or job oppor
 
 ### L. DISPUTE RESOLUTION/TERMS OF USE
 
-Any dispute concerning the Digital Services (including our use of your personal information) will be resolved per the dispute resolution provision in the [Terms of Use](https://web.archive.org/web/20181231221112id_/https://www.seattlepi.com/tos), which govern your use of the Digital Services. Please take a few minutes to read the Terms of Use before using the Digital Services.
+Any dispute concerning the Digital Services (including our use of your personal information) will be resolved per the dispute resolution provision in the [Terms of Use](https://web.archive.org/web/20191231101221id_/https://www.seattlepi.com/tos), which govern your use of the Digital Services. Please take a few minutes to read the Terms of Use before using the Digital Services.
 
 ### M. CHANGES TO THIS PRIVACY NOTICE
 
