@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indexexchange.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235558id_/https%3A//www.indexexchange.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indexexchange.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231172447id_/https%3A//www.indexexchange.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Index Exchange
 
@@ -158,4 +158,4 @@ Index Exchange processes PII, PI and Personal Data in accordance with this Priva
 
 Any user who has consented to the use of their Personal Data by Index Exchange in accordance with the uses disclosed in this Privacy Policy, has the right to withdraw their consent to such use. In order to withdraw your consent, please contact our Privacy Team.
 
-Index Exchange uses cookies on this website for personalization, authentication and other purposes. By clicking the “Accept” button or continuing to use this site, you agree to our use of cookies. To learn more about Index’s data privacy practices and your choices click [here](https://web.archive.org/web/20190630235558id_/https://www.indexexchange.com/privacy/privacy/).
+Index Exchange uses cookies on this website for personalization, authentication and other purposes. By clicking the “Accept” button or continuing to use this site, you agree to our use of cookies. To learn more about Index’s data privacy practices and your choices click [here](https://web.archive.org/web/20191231172447id_/https://www.indexexchange.com/privacy/privacy/).
