@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 90min.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630210007id_/https%3A//www.90min.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 90min.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231235151id_/https%3A//www.90min.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -139,11 +139,8 @@ However, please note that these rights pertain to EU residents only, are not abs
 
 If you wish to exercise any of the aforementioned rights, or receive more information, please contact our Data Protection Officer (“DPO”) using the details provided below:
 
-Attn. DPO, Sportority Limited, 
+Email: dpo@minutemedia.com  
 
-Email: dpo@minutemedia.com
-
-164 Bishopsgate EC2M 4LX, London
 
 **Our Policy toward Children**
 
