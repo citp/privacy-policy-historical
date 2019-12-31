@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the fandangofanshop.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231021525id_/http%3A//www.fandango.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandangofanshop.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231084708id_/https%3A//www.fandango.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fandango
 
-[en Español](https://images.fandango.com/cms/assets/cb3489f0-5f5f-11e8-8eca-fd26e4965c58--fandango-privacy-policy52518-es-es.pdf) | [en Français](https://images.fandango.com/cms/assets/e302e630-5f5f-11e8-8eca-fd26e4965c58--fandango-privacy-policy52518-fr-ca.pdf) | [auf Deutsch](https://images.fandango.com/cms/assets/a4eb0e40-5f5f-11e8-8eca-fd26e4965c58--fandango-privacy-policy52518-de.pdf)
+[ en Español ](https://images.fandango.com/cms/assets/9ded8b80-1aa8-11ea-a1d8-836502298ce7--fandango-privacy-policy-12-10-19-spanish.pdf) | [ en Français ](https://images.fandango.com/cms/assets/dee83810-1aa8-11ea-b175-791e911be53d--fandango-privacy-policy-12-10-19-french.pdf) | [ auf Deutsch ](https://images.fandango.com/cms/assets/c0f1a030-1aa8-11ea-a9e5-4f516b36576d--fandango-privacy-policy-12-10-19-german.pdf)
 
-Last updated: May 25, 2018
+**Last updated: December 10, 2019**
 
-This Privacy Policy describes the privacy practices of Fandango Media, LLC and its subsidiary companies, including the businesses operating under the Fandango, FandangoNOW, Rotten Tomatoes, Flixster, Movieclips, Movies.com, Activaterewards.com, Fandango FanShop, MovieTickets (including but not limited to MovieTickets.com and MovieTickets.co.uk), or M-GO brands ("Fandango", "we", "our" or "us"), with respect to how we collect, use, disclose and transfer the information you provide when you interact with us via those of our websites, applications, emails and other communications that link to or reference this policy (the "Services"). For European users of Rotten Tomatoes and MovieTickets.co.uk, please see additional provisions in Section 14. 
+This Privacy Policy explains how Fandango Media, LLC and its subsidiary companies, including the businesses operating under the Fandango, FandangoNOW, Rotten Tomatoes, Flixster, Movieclips, Movies.com, Activaterewards.com, MovieTickets.com, or M-GO brands ("Fandango", "we", "our" or "us"), collect, use, and share information from or about you when you use our websites, downloadable applications, interactive TV applications, voice-activated skills, other digital services, connected devices, and off-line services that link to this policy, or if you generate ratings/reviews/public comments/content on our properties or engage in business with us (the “Services”). Note that this Privacy Policy does not apply to our movie ticketing business that operates in Latin America, as that business has a separate privacy policy. 
 
 **Our Owners**
 
-When the Services receive or collect information, that information is being received and collected, and will be owned, by Fandango and each of "Fandango's Owners" (i.e., each company that has an ownership interest in Fandango). While Fandango's use, handling, disclosure and practices with respect to that information will be governed by this Privacy Policy, each Fandango Owner's use, handling, disclosure and practices with respect to that information will be governed by that Fandango Owner's privacy policy. Fandango's Owners are currently NBC/Universal and Warner Bros. If you want to learn more about the privacy practices of NBC/Universal and Warner Bros., we encourage you to review their policies (linked below): 
+When the Services receive or collect information, that information is being received and collected, and will be owned, by Fandango and each of "Fandango's Owners" (i.e., each company that has an ownership interest in Fandango). While Fandango's use, handling, disclosure and practices with respect to that information will be governed by this Privacy Policy, each Fandango’s Owners’ use, handling, disclosure and practices with respect to that information will be governed by that Fandango’s Owners’ privacy policy. Fandango's Owners are currently NBCUniversal and Warner Bros. If you want to learn more about the privacy practices of NBCUniversal and Warner Bros., we encourage you to review their policies (linked below):
 
   * [NBC/Universal Privacy Policy](http://www.nbcuniversal.com/privacy)
   * [Warner Bros. Privacy Policy](http://www.warnerbros.com/privacy-center-wb-privacy-policy)
@@ -21,211 +21,478 @@ When the Services receive or collect information, that information is being rece
 
 **Your use of our websites and our other services are subject to binding individual arbitration of any disputes which may arise, as provided in the[Terms and Policies](https://web.archive.org/policies/terms-and-policies). Please read the arbitration provisions of the [Terms and Policies](https://web.archive.org/policies/terms-and-policies) carefully and do not use the Services if you are unwilling to arbitrate any disputes you may have with us as provided in our [Terms and Policies](https://web.archive.org/policies/terms-and-policies).**
 
-  1. TYPES OF INFORMATION WE COLLECT ABOUT YOU
-  2. HOW WE COLLECT INFORMATION ABOUT YOU
-  3. HOW WE USE INFORMATION ABOUT YOU
-  4. HOW WE SHARE INFORMATION ABOUT YOU
-  5. ADDITIONAL INFORMATION ABOUT HOW WE USE AND SHARE INFORMATION ABOUT YOU
-  6. CHILDREN
-  7. HOW WE PROTECT INFORMATION ABOUT YOU
-  8. YOUR RIGHTS AND CHOICES
-  9. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION ABOUT YOU
-  10. IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS
-  11. LINKS TO OTHER WEBSITES AND SERVICES
-  12. UPDATES TO OUR PRIVACY POLICY
-  13. CONTACT US
-  14. EUROPEAN USERS
+PLEASE READ THIS PRIVACY POLICY CAREFULLY TO UNDERSTAND HOW WE HANDLE YOUR INFORMATION. BY USING THE SERVICES, YOU ACKNOWLEDGE YOU HAVE READ AND UNDERSTAND THIS PRIVACY POLICY AND THAT WE WILL COLLECT, USE AND SHARE YOUR INFORMATION AS SET FORTH BELOW. 
+
+  1. Personal Information We Collect and Purposes
+  2. When We Share Your Information
+  3. Legal Bases For Use of Your Information
+  4. Children
+  5. Your Rights
+  6. Your Choices
+  7. How We Protect Your Information
+  8. International Transfers
+  9. Updates to Our Privacy Policy
+  10. Contact Us
 
 
 
-##### 1\. TYPES OF INFORMATION WE COLLECT ABOUT YOU
+##### 1\. PERSONAL INFORMATION WE COLLECT AND PURPOSES
 
-There are two main types of information we collect about users of the Services:
+The tables below explain the categories of information we collect and the purposes for which we use them. Please note that we may use any or all of this information to comply with the law, detect or prevent fraud, and to defend our legal rights. Further detail about each of the purposes is set out in the “Additional information on purposes of use” table below.
 
-  * **"Personally Identifiable Information"** is information that identifies you and may include, for example, your full (i.e., first and last) name, phone number, email address, postal address, credit or other payment card number, and photos of you or other individuals.
-  * **"Non-Personally Identifiable Information"** is information that relates to you or the computer or mobile device you use to access the online Services, but does not on its own identify you personally. This information may include (for example), information about your use of the Services, including web pages you have visited, apps you have downloaded, parts or functions of the Services you have used or viewed, gameplay data, content you have accessed or viewed, advertising sent to you or that you have viewed, transaction history, IP address and device identifiers, information about your Internet connection, information about the equipment or software you use to access the Services, and information you provide to or post on message boards or chat rooms that are part of the Services. 
+Categories of personal information we collect | Purpose of use  
+---|---  
+Information you provide to us:  
+  
+**Contact information and account registration**
+
+For example: name, email, postal address, telephone number, account user name and password, business contact information, and any information you may provide to us at an event or in person.
+
+| 
+
+  * Provide the Services 
+  * Personalize your experience 
+  * Send you marketing communications
+  * Provide seamless experience across platforms and devices
+  * Protect our users, Services and properties 
+  * Build and manage business-to-business relationships
+  * Market and advertise for third parties
+
+  
+  
+**Identification and demographics**
+
+For example: date of birth, gender, nationality, ethnicity, interests, lifestyle information, photos, social media credentials, including identification information about friends, contacts or referrals you provide.
+
+| 
+
+  * Provide the Services 
+  * Personalize your experience 
+  * Send you marketing communications
+  * Provide seamless experience across platforms and devices
+  * Protect our users, Services and properties 
+  * Market and advertise for third parties
+
+  
+  
+**Saved Preferences**
+
+For example: when you save on the Services your favorite theaters, favorite movies or genres, or city or zip code theater preferences.
+
+| 
+
+  * Provide the Services 
+  * Personalize your experience 
+  * Send you marketing communications
+  * Provide seamless experience across platforms and devices
+  * Protect our users, Services and properties 
+  * Market and advertise for third parties
+
+  
+  
+**Transactional**
+
+For example: credit/debit card details, other payment details (e.g., PayPal, Venmo), purchase history, delivery address, membership information, reservations, loyalty program memberships or subscriptions for companies or services other than Fandango, and the personal details of any of your guests.
+
+| 
+
+  * Provide the Services 
+  * Personalize your experience 
+  * Send you marketing communications
+  * Provide seamless experience across platforms and devices
+  * Protect our users, Services and properties 
+  * Market and advertise for third parties
+
+  
+  
+**User-generated content**
+
+For example: photos, videos, audio, and other information you may submit to us, such as ratings/reviews or comments on our forums.
+
+| 
+
+  * Provide the Services
+  * Personalize your experience 
+  * Send you marketing communications
+  * Provide seamless experience across platforms and devices
+  * Protect our users, Services and properties 
+  * Market and advertise for third parties
+
+  
+  
+**Research and feedback**
+
+For example: comments that you send us through online forms and social media platforms, by email, over the phone, by mail, or in surveys. 
+
+| 
+
+  * Provide the Services
+  * Personalize your experience 
+  * Send you marketing communications
+  * Provide seamless experience across platforms and devices
+  * Protect our users, Services and properties 
+  * Market and advertise for third parties
+
+  
+  
+**Biometric identifiers**
+
+For example: facial scans or fingerprints.
+
+| 
+
+  * Provide the Services 
+  * Personalize your experience 
+  * Provide seamless experience across platforms and devices
+  * Protect our users, Services and properties 
+
+  
+  
+**Audio and video**
+
+For example: audio recordings of a customer service call or security video footage if you visit one of our properties.
+
+| 
+
+  * Provide the Services 
+  * Personalize your experience 
+  * Protect our users, Services and properties
+
+  
+Categories of personal information we collect | Purpose of use  
+---|---  
+Information we collect automatically from you and/or your device:  
+  
+**Device information and identifiers**
+
+For example: IP address, cookie IDs, browser type and language, operating system, platform type, device type, and advertising and app identifiers.
+
+| 
+
+  * Provide the Services 
+  * Personalize your experience 
+  * Send you marketing communications
+  * Provide seamless experience across platforms and devices
+  * Protect our users, Services and properties 
+  * Market and advertise for third parties
+
+  
+  
+**Connection and Usage**
+
+For example: domain names, browsing activity, scrolling and keystroke activity, theaters searched, locations searched, movies searched, shows viewed, movie trailers or other advertisements viewed, forms or fields you complete or partially complete, search terms, whether you open an email, content you view and duration, quality of the service and interaction with the content, logs, and other similar information. If these events occur while you are offline, they may be logged and uploaded to us when you next connect.
+
+| 
+
+  * Provide the Services 
+  * Personalize your experience 
+  * Send you marketing communications
+  * Provide seamless experience across platforms and devices
+  * Protect our users, Services and properties 
+  * Market and advertise for third parties
+
+  
+  
+**Geolocation**
+
+For example: city, state and ZIP code associated with your IP address or derived through Wi-Fi triangulation.
+
+We will ask for your permission before using your precise location from GPS-based functionality on your mobile devices. 
+
+| 
+
+  * Provide the Services 
+  * Personalize your experience 
+  * Send you marketing communications
+  * Provide seamless experience across platforms and devices
+  * Protect our users, Services and properties 
+  * Market and advertise for third parties
+
+  
+Categories of personal information we collect | Purpose of use | Sources of information  
+---|---|---  
+Information we collect from third parties:  
+  
+**Information from public and commercial sources**
+
+For example: demographic and contact information, information about other members of your household, inferences about your preferences, loyalty program memberships or subscriptions for companies or services other than Fandango, and purchasing data. 
+
+| 
+
+  * Provide the Services 
+  * Personalize your experience 
+  * Send you marketing communications
+  * Provide seamless experience across platforms and devices
+  * Build and manage business-to-business relationships
+  * Market and advertise for third parties
+
+| 
+
+  * Advertising providers
+  * Analytics providers
+  * Marketers
+  * Partners (such as for sweepstakes partners) 
+  * Consumer data resellers
+  * Public records databases
+
+  
+  
+**Social Media Information**
+
+For example: if you interact with us through a social media service or log in using social media credentials, depending on your social media settings, we may have access to your information from that social network such as your name, email address, friend list, photo, age, gender, location, birthday, social networking ID, current city, your comments about the Services, and the people/sites you follow. 
+
+| 
+
+  * Provide the Services 
+  * Personalize your experience 
+  * Send you marketing communications
+  * Provide seamless experience across platforms and devices
+  * Market and advertise for third parties
+
+| 
+
+  * Social media networks 
+  * Partners of social media networks 
+  * Advertising providers
+  * Analytics providers
+  * Marketers
+  * Partners (such as for sweepstakes partners) 
+  * Consumer data resellers
+
+  
+Categories of personal information we collect | Purpose of use | Sources of information  
+---|---|---  
+Additional information that we collect for business relationships only   
+  
+**Business contact information**
+
+For example: company name, your name, email address, and job.
+
+| 
+
+  * Build and manage business relationships
+
+| 
+
+  * You 
+  * Your company 
+  * Trade associations 
+  * Social media 
+  * Business data resellers 
+
+  
+  
+**Due diligence information**
+
+For example: contact information, nationality, job title, age, date of birth, gender, country of residence, employment and education information, public, religious, political or trade union roles, personal and professional affiliations, connections to criminal activities or offenses related to money laundering.
+
+| 
+
+  * Compliance and risk management activities for business relationships
+
+| 
+
+  * Your or your company’s responses to our due diligence questions 
+  * Third party compliance screening tools and databases, such as those provided by LexisNexis Risk Solutions. Click [here](https://risk.lexisnexis.co.uk/processing-notices/business) for more information.
+
+  
+Additional information on purposes of use  
+---  
+  
+**Provide the Services, for example:**
+
+  * responding to your requests or inquiries, including technical support 
+  * sending you service-related communications
+  * providing ticketing, payment services, mapping guidance, and offers 
+  * displaying content you generate, such as video and comments
+  * carrying out research and analytics for uses including improving the Services and developing new ones 
+  * processing your information for promotional campaigns such as sweepstakes and contests, and for surveys, online and offline panels and focus groups
+
+  
+  
+**Personalize the experience, for example:**
+
+  * providing you with customized product experience, including personalized newsletters, viewing and other content recommendations from our partners and other organizations.
+  * providing you with advertising based on your activities and interests including at a household level 
+  * creating and updating profiles and audience segments that can be used for analytics, interest-based advertising and marketing on the Services, television, third party services and platforms, mobile apps and/or websites, connected devices and offline
+  * using inferences about your preferences and interests for any and all of the above purposes
+
+  
+  
+**Send marketing communications (with consent if required), for example:**
+
+  * sending you newsletters, surveys and information about products, services and promotions 
+
+  
+  
+**Provide a seamless experience across platforms and devices, for example:**
+
+  * identifying you when you log into the Services on multiple devices or web browsers to provide continuity and to match your interests across devices for the purposes of analytics, advertising, reporting and to improve the Services
+  * identifying you if your devices have attributes suggesting that they may be used by the same individual or household for purposes of analytics, advertising, reporting and to improve the Services
+
+  
+  
+**Build and manage business relationships, for example:**
+
+  * pursuing potential business opportunities, including identifying and contacting the correct person within the company
+  * sending communications for business purposes
+  * sending event invitations, marketing emails and campaigns, and tracking the effectiveness of such communications
+  * providing business contacts with access to our systems, and managing that access
+
+  
+  
+**Market and advertise for third parties, for example:**
+
+  * send you newsletters, promotional emails, surveys and information about products, services and promotions offered by our partners and other organizations with which we work
+  * customize content that our third-party partners deliver on the Services (e.g., personalized third-party advertising)
+  * create and update inferences about you and audience segments that can be used for interest-based advertising and marketing on the Services, third party services and platforms, and mobile apps 
+  * create profiles about you, including adding and combining information we obtain from third parties and matching your interests across devices, which may be used for third-party marketing and advertising on the Services, television, third party services and platforms, mobile apps and/or websites, connected devices and offline
+
+  
+  
+**Compliance and risk management activities for business relationships, for example:**
+
+  * compliance with laws and regulations
+  * managing third party and other risks to our business
+  * protecting the reputation of our businesses
+  * following the principles of ethical business conduct set out in our Code of Conduct
+
+  
+  
+**Protect our users, Services and properties, for example:**
+
+  * protecting the safety and security of users and visitors to the Services 
+  * protecting our digital and physical properties
+  * detecting and preventing other activities that may be illegal or in violation of our terms of service 
+
+  
+  
+We may combine all the information we collect from or receive about you for the outlined purposes. We may aggregate or deidentify your information and may use, share, rent or sell aggregated or deidentified information for any purpose, and such information is not subject to this Privacy Policy. 
+
+##### 2\. WHEN WE SHARE YOUR INFORMATION
+
+We may share your information with:
+
+  * **Theaters and Event Providers:** We may share information so that they may admit you, or address customer service issues at the theater or venue, or help process your ticketing or transactions, or otherwise to fulfill the Services. 
+  * **Advertisers, Advertising Networks, and Other Third Parties:** We may share information about how you use the Services and interact with content or ads to better tailor services, products, marketing and advertising on the Services and on third-party platforms. To enable these purposes, we may share certain demographics information, user-generated content, device information and identifiers, connection and usage data, geolocation data, public and commercial information, and social media information. These third parties may use their own tracking technologies to collect or request information about you, please see our [Cookies Notice](https://web.archive.org/policies/cookies-and-tracking). 
+  * **Partners:** We may share your information with third party partners. For instance, if you enter a contest or sweepstakes sponsored by a third party, we may share the information you provide for that entry with the sponsor. Depending on the partnership, we may share certain information including contact information (at your direction), identification and demographic information, transactional information, user-generated content that you provide, research and feedback, device information and identifiers, connection and usage information, public and commercial information, and social media information. We may also share your information with third parties that provide video locker services if you purchase a movie or other show to view at home. Examples of such a third party would be Movies Anywhere. Similarly, we may share your information with the providers of loyalty programs if you take an action in the Services indicating that you would like to obtain a benefit under such a program through activity on the Services.
+  * **Social Networks:** We may share your information with social media platforms for example, if you click on a Facebook “like” button on the Services, the “like” may appear on your Facebook account. To control this sharing of information, please review and adjust your privacy settings for the relevant social network. Depending on your privacy settings and actions on such network, we may share contact information, identification and demographic information, user-generated content, device information and identifiers, connection and usage data, and social media information.
+  * **Service Providers:** We engage vendors to perform services for business purposes on our behalf and share information with them to enable them to provide us with such services, including research and analytics, hosting, transaction and payment processing, promotion administration, fraud prevention, identity management, acquisition and other services. Service providers may use such information for their operational purposes in order to provide their services to us. 
+    * **Research and Measurement Companies:** We share information about content you view on the Services with video measurement services such as Nielsen TV Ratings, as well as other analytics providers. See Your Rights and Your Choices sections for more information. 
+  * **Search Engines:** You may be able to engage with other members of the Services or the public. This may make the name and photo associated with your profile and any comments or user-generated content you provide visible to other members of the Services or the general public. If the information is available to the general public, it may also be searchable by search engines. 
+  * **Law Enforcement, Regulators, Anti-fraud Coalitions and Other Groups:** We share any of the categories of information we collect, as appropriate, with these third parties in order to: protect and enforce the legal rights, privacy, and safety of ourselves and our visitors; protect against possible fraud or other illegal activity; respond to requests from government and other authorities; and otherwise comply with legal process. 
 
 
 
-##### 2\. HOW WE COLLECT INFORMATION FROM YOU
+###### **Other Sharing**
 
-We collect information about you in three main ways:
+We may share information about you, often along with a hashed or masked identifier, with third parties so they may better personalize your experience with them and the advertising and other offers they show or otherwise send you and to determine advertising effectiveness. With your appropriate consent when required, and consistent with applicable law, we may share your video viewing behavior with third parties including service providers, advertising companies, analytics partners, and social media sites. 
 
-  * **_Directly from you, when you provide it to us:_ ** for example, when you register with the website, download an app, sign up for email or text alerts, buy movie tickets or make other purchases via the Services, request products or services, respond to surveys, contact us or otherwise interact with us. Please remember that if others use devices into which you remain logged in, they may share information with us as if they were you, and they may have access to information that you have previously provided us. To protect your privacy, please log out from the Services you use on shared devices.
-  * **_Automatically, when you use our Services_ **: we collect information through the use of cookies and similar technologies, through logging your activities on the Services, and when you download our applications. Please see our [Cookies and Tracking Technologies Information Center](https://web.archive.org/policies/cookies-and-tracking), and [Mobile Apps Information Center](https://web.archive.org/mobileterms) for further information, including your choices in relation to the use of these technologies. In addition, after you have provided us with your information, we may automatically associate that information and other information that we collect with your account whenever you are logged-in so that we can identify you across multiple devices and browsers. When you are not logged-in, we may automatically collect information that can be used to recognize you across the devices you use. When you are using a Wi-Fi network to which we have access, we may also detect and identify a device to which you have previously logged-in. Further, Google may automatically obtain information from you when you use the Google Maps functionality in our Services in accordance with the Google Privacy Policy. You agree that Google, and not Fandango, shall be responsible for any of your information Google receives as a result of your use of Google Maps / Google Earth
-  * **_From third parties_ **: we may obtain information about you from third parties outside of the Services. When you sign-on to the Services or otherwise interact with social networks or if you interact with us through a social media function such as a plug-in (for example, a Facebook "like" button) then you may be permitting us to have on-going access to some information from your social network profile (such as your name, email address, your friend list, photo, age, gender, location, birthday, social networking ID, current city, the people/sites you follow, and so forth). We may also obtain information about you from a third party data aggregator, cookie technology operator, advertising network, or another type of data company.
+###### **Sale or Transfer of All or Part of Our Business or Assets**
 
+In the event that Fandango (or any Fandango business) is involved in a merger, acquisition, transfer of control, bankruptcy, reorganization or sale of assets, or diligence associated with such matters, we may sell or transfer the information described in this Privacy Policy as part of that transaction.
 
+##### 3\. LEGAL BASES FOR USE OF YOUR INFORMATION
 
-##### 3\. HOW WE USE INFORMATION ABOUT YOU
+Laws other than the federal, state and local laws of the United States do not apply to our watch-at-home movie Services (e.g., FandangoNOW/M-GO) as content from those Services can be viewed only in the United States. Similarly, for our movie ticketing Services (e.g., Flixster, Fandango.com and MovieTickets.com), the only laws that shall apply are the laws of the countries in which the theaters ticketed by each respective Service are located. The information set forth below in this section is applicable only to European Users of Rotten Tomatoes. It supplements certain sections of this Privacy Policy and provides additional information that should be read together with other sections of this Privacy Policy. To the extent there is any conflict between this section and another section of this Privacy Policy, this section shall govern. 
 
-We (and our service providers) may use the information we collect about you for a variety of business purposes. For example, we may use that information to:
+When this policy mentions "Fandango", "we", "our" or "us", it refers to the company or companies responsible for your information under this Privacy Policy (or “Data Controller”). This includes Fandango Media, LLC and Fandango’s Owners (as defined above), currently NBCUniversal, LLC and Warner Bros (please see above for further information on these companies).
 
-  * Provide the services and products you have requested;
-  * Create an account on the Services if you have requested one;
-  * Personalize the services we offer and the advertising displayed through the Services (see options for opting-out of personalized advertising at our [Cookies and Tracking Technologies Information Center](https://web.archive.org/policies/cookies-and-tracking)); 
-  * Respond to your inquiries, requests, and comments;
-  * Allow you to participate in the interactive features of our Services, where you choose to do so;
-  * Provide technical support for the Services;
-  * Understand how the Services are used so that we can continuously improve the services we provide to you;
-  * Send you service-related communications, including announcements and administrative messages;
-  * Send you newsletters and information about products, services and promotions relating to us or other companies or organizations that we work with.
-  * Display certain content, such as content you upload and make available, comments, and game statics and rankings;
-  * Deter fraud or any other potentially illegal activities, and to protect the safety of our users and others; 
-  * Enforce our terms of service;
-  * Create consumer profiles and audience segments, which may be used for targeted advertising on the Services or on third party services. 
-  * Recognize devices you use and associate the information with your profile. We may use data collected or received from others, such as information about devices you use, to make a deterministic or probabilistic match of advertising and cookie identifiers. For example, we or others may match devices you use if you log onto the same online service or multiple devices or web browsers (deterministic), or if devices you use share similar attributes that support an inference that they are used by the same user (probabilistic). We also may use this information, for example, to match a user’s interest across devices, as well as for analytics, ad reporting, or to improve the services;
-  * Send gifts to your requested recipients, provide other communications relating to those sorts of transactions, as well as any further communications as may be authorized by the recipients; and
-  * Combine all the information we collect or receive about you for any of the foregoing purposes.
+The laws of some jurisdictions, such as the European Union, require companies to tell you about the legal basis for using, sharing, or disclosing your information. To the extent those laws apply, we may rely on the following legal bases: 
+
+  * **Performance of a contract:** where use of your information is necessary to provide you with the Services under a contract, for example the terms of service.
+  * **Legitimate interest:** where use of your information is necessary for our or others’ legitimate interests and where the use is not outweighed by your rights and interests. Below are some examples of such interests: 
+    * providing the Services 
+    * improving the Services and developing new ones
+    * recognizing and better understanding our users, including across platforms 
+    * conducting security and fraud prevention activities
+    * marketing and promoting our content and services
+    * building and managing business relationships
+    * conducting compliance and risk management activities 
+    * providing and managing access to our systems
+  * **Legal obligation:** where use of your information is necessary to comply with laws and regulations such as those relating to anti-bribery and corruption and anti-money-laundering, complying with requests from government bodies or courts, or responding to litigation.
+  * **With consent:** we may ask for your consent to process your information in a certain way. Where we rely on this basis, you have the right to withdraw your consent at any time – please see the Your Rights and Your Choices sections below to do this. 
 
 
 
-##### 4\. HOW WE SHARE INFORMATION ABOUT YOU
+###### How Long We Keep Your Information
 
-We may share Non-Personally Identifiable Information, such as aggregate data and information about your use of the Services with third parties. We may also share information about you as disclosed at the time you provide that information, as set forth in this Privacy Policy, and in the following circumstances:
+We will keep your information only for as long as it is necessary to fulfill the purposes described above, unless a longer retention is required or permitted by law. We may delete or de-identify your information sooner if we receive a verifiable deletion request, subject to exemptions under applicable law. The retention period that applies to your information may vary depending on the Services you use and how you interact with them. 
 
-  * **_Fandango's Owners and Subsidiaries:_ ** As stated at the beginning of this Privacy Policy, when the Services receive or collect information from you, that information is being received and collected by Fandango under this Privacy Policy, as well as by each of Fandango's Owners, each under its own respective privacy policy. Fandango's Owners are currently NBC/Universal and Warner Bros. If you want to learn more about the privacy practices of NBC/Universal and Warner Bros., we encourage you to review their policies (linked below): 
-    * [NBC/Universal Privacy Policy](http://www.nbcuniversal.com/privacy)
-    * [Warner Bros. Privacy Policy](http://www.warnerbros.com/privacy-center-wb-privacy-policy)
-  * **_Service Providers that We Have Retained to Perform Certain Business-Related Functions on Our Behalf:_ ** For example, our service providers may offer services such as research, analytics, hosting websites, fulfilling transactions, maintaining databases, administering contests, providing technology services and platforms, deliveries, and processing payments. We may also need to share information with other companies in order to enable the uses described above in “How We Use Information About You” or elsewhere in this Privacy Policy. Typically, when these companies are provided with Personally Identifiable Information they are only provided with that Personally Identifiable Information they need to perform their functions and that Personally Identifiable Information can only be used as is necessary to perform the services on our behalf, or to comply with legal requirements. Similarly, where appropriate, we often take steps to require third-party service providers to protect Personally Identifiable Information.
-  * **_Third Parties who Separately Have Your Information:_ ** We may share information about you or your use of the Services with third parties to whom you separately provide (or to whom you already separately have provided) your Personally Identifiable Information (e.g., if you establish or have established accounts with them). In these instances, we may enhance the data they have about you by using or sharing a common identifier that itself is not Personally Identifiable Information. When we share Non-Personally Identifiable Information with these third party services, they may be able to match it with other information that they separately receive about you.
-  * **_Theaters, Venue Operators, Event Promoters:_ ** We may provide information (including Personally Identifiable Information) to theaters, venue operators and event promoters so that they can admit you to their premises (or to the premises of their events), or be prepared to handle issues relating to your attendance or planned attendance.
-  * **_Loyalty Program Operators_ :** Our services offer the ability for consumers to link their Fandango account with the loyalty rewards programs of certain theaters, venue operators, event promoters, movie studios or other companies offering loyalty reward programs. When you indicate that you'd like such a link to occur, we may share transaction information or other information (including Personally Identifiable Information) pertaining to you with the applicable program operator.
-  * **_Social Networks:_ ** You may interact with certain features of the Services that cause information to be published to your social networks. Or, you may sign up for features on the Services or a social network that are designed to require that we provide to the social network, or the social network provide to us, information, which may include Personally Identifiable Information, to associate our records relating to you in our data base with the records that social network has relating to you in their database, so that they or we can contact you or tailor messages to you, or otherwise. On pages of the Services that contain social network functionality, the social network providing the functionality may be able to collect information about you, even if you don't use that functionality.
-  * **_Message Boards and Other Public Areas:_ ** Information you provide to or post on message boards, chat rooms or other public areas that are part of the Services may be freely used and disclosed by us.
-  * **_For Mobile, Consumer Electronics or Other Device Apps:_ ** We may share information (including Personally Identifiable Information and how you use mobile apps, consumer electronics device apps or other device apps) with mobile carriers, technology providers, analytics providers, device makers or operators, or the operators of platforms, operating systems or other mobile, consumer electronics or other device apps. Please see our [Mobile Apps Information Center](https://web.archive.org/mobileterms) for additional details about mobile apps. 
-  * **_Opt-Ins:_ ** In some places on our Services we may place opt-ins where you can select to receive communications from companies with whom we have promotional relationships. If you opt-in to receive those communications, or opt-in to consent to share Personally Identifiable Information with them, we may disclose Personally Identifiable Information to them.
-  * **_Contests and Sweepstakes:_ ** We may publicly disclose the name, city and state of contest and sweepstakes winners if permitted by the contest/sweepstakes rules. 
-  * **_Sale of Our Business or Assets:_ ** If we sell all or part of our business or assets or are otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign any or all information to a third party as part of or in connection with that transaction. Upon such a transfer, the privacy policies of the acquiring entity may govern the use and further collection of Personally Identifiable Information and Non-Personally Identifiable Information.
-  * **_Legal Reasons:_ ** We may use or disclose information to cooperate with or enlist the support of law enforcement, government or regulatory bodies, content protection organizations or judicial processes with respect to, or to prevent, suspected or possible fraud or other suspected or possible illegal activities. We may also use or disclose information as we determine appropriate to the extent that records have been subpoenaed or otherwise in connection with pending or potential litigation, or to enforce or protect the rights or safety of Services users, us or others, or for risk management purposes. 
-
-
-
-**_A Special Note About Sharing Video Viewing Information:_ ** By using the Services, you are agreeing that we may share information about the video content viewed on your device through the Fandango Services with the analytics providers, advertising companies, third-party social media sites, and the other service providers we work with (as described in this Privacy Policy). If you have registered, you may withdraw your consent to sharing of personally identifiable viewing information associated with content viewed by sending an email to [privacy@fandango.com](mailto:privacy@fandango.com). You may also be able to control information shared with third parties, such as social media sites, through your privacy settings on those services.
-
-##### 5\. ADDITIONAL INFORMATION ABOUT HOW WE USE AND SHARE INFORMATION ABOUT YOU
-
-We may work with third party ad networks and consumer data companies to help present ads through the Services or to help us evaluate and provide us with information about the use of the Services and viewing of our ads and other content. These third parties may view, edit or set their own tracking technologies/cookies, which will allow them to collect information about how you interact with content and advertising while you are using the Services and while you are on other third party platforms where their tracking technologies are located. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy.
-
-If you do not want to receive the benefits of targeted advertising, you may opt out of some network advertising programs that use your information by visiting the [NAI Opt-out page](http://www.networkadvertising.org/choices/) or the [DAA Opt-out page](http://www.aboutads.info/choices/). Please note that even if you choose to opt out, you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you. Please also note that if you opt-out of targeted advertising, we may still track your visits to the Services for our own analytics, operations and security purposes. 
-
-For more information about your choices relating to these activities, see [Cookies and Tracking Technologies Information Center](https://web.archive.org/policies/cookies-and-tracking).
-
-###### GOOGLE MAPS
-
-If you use Google Maps / Google Earth as part of the Services, you agree to comply with the Google Maps / Google Earth Additional Terms of Service (including the Google Privacy Policy). Further, you agree that Google, and not Fandango, shall be responsible for any of your information Google receives as a result of your use of Google Maps / Google Earth. 
-
-##### 6\. CHILDREN
+##### 4\. CHILDREN
 
 The Services are not designed or intended for use by children under 13, and thus if you are under 13 we ask that you do not use the Services or provide us with any information. If we discover that we have inadvertently gathered any such information then we will, to the extent required by law, delete such information from our records. If a parent or guardian becomes aware that his or her child under 13 has provided us with information without his or her consent, he or she should contact us at [privacy@fandango.com](mailto:privacy@fandango.com).
 
-California minors under 18 years old may request the removal of any information that they posted to the Services by contacting [privacy@fandango.com](mailto:privacy@fandango.com). Upon such request, we will anonymize or remove from public view any content posted by a minor to one of the Services, unless required by law to retain such content or information.
+##### 5\. YOUR RIGHTS 
+
+Depending on where you live, you may have certain rights with respect to your information. For example, under local laws, you may be able to ask us to:
+
+  * provide access to certain information we hold about you, in some cases in a portable format, if technically feasible 
+  * update or correct your information 
+  * delete certain information 
+  * restrict the use of your information
+
+
+
+We will respond within the time period prescribed by applicable law. Please note that many of the above rights are subject to exceptions and limitations. 
+
+Some Services can be provided only if we have your information, therefore deletion of your information will result in termination of such Services. 
+
+We will take reasonable steps to verify your identity, including authenticating you through the email address we have on file. We may require further documentation such as a password and user ID before granting access to your information. 
+
+Starting January 1, 2020, you may submit the following types of requests as follows:
+
+  * Request Categories of Information: If you, or someone acting on your behalf, would like to request that we tell you the categories of personal information we collect, the categories of sources from which personal information is collected, the business or commercial purpose for collecting or selling the personal information, the categories of third parties with which the business shares personal information, the categories of information about you that we sell, the categories of third parties to whom the personal information was sold, or the categories of personal information that was disclosed for a business purpose, you or someone acting on your behalf can either [click here](https://privacyportal-cdn.onetrust.com/dsarwebform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/7e1e94a5-ce41-429f-8613-2b0b30850f6e.html) for such request, or send an email to [accessdata@fandango.com](mailto:accessdata@fandango.com).
+  * Request Specific Information: If you, or someone acting on your behalf, would like to request that we tell you about some of the specific personal information that we hold about you, you or someone acting on your behalf can either [click here](https://privacyportal-cdn.onetrust.com/dsarwebform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/7e1e94a5-ce41-429f-8613-2b0b30850f6e.html) for such request, or send an email to [accessdata@fandango.com](mailto:accessdata@fandango.com). 
+  * Request Deletion: If you, or someone acting on your behalf, would like to request that we delete information that we hold about you, you or someone acting on your behalf can either [click here](https://privacyportal-cdn.onetrust.com/dsarwebform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/69301b05-62be-4f68-bde4-7422891cbe2a.html) for such request, or send an email to [deletedata@fandango.com](mailto:deletedata@fandango.com). Note that certain information about you will not be deleted if you request such a deletion, as may be permitted by law. Also note that we will not be able to provide you with certain Services upon a deletion. You will also need to clear your cookies and re-set your MAIDs, as referenced in the link. 
+  * Do Not Sell My Personal Information: If you, or someone acting on your behalf, would like to request that we do not sell your personal information, you or someone acting on your behalf can either [click here](https://www.fandango.com/donotsellmyinfo) for such request, or send an email to [donotsell@fandango.com](mailto:donotsell@fandango.com). You will also need to clear your cookies and re-set your MAIDs, as referenced in the link. For more information about how to opt-out of receiving targeted advertising from certain third party advertisers, please see our [Cookies Notice](https://web.archive.org/policies/cookies-and-tracking). 
+
+
+
+Please note that you may be located in a jurisdiction where we are not obligated, or are unable, to fulfill a request. In such a case, your request may not be fulfilled.
+
+If you have any unresolved concerns, you may have the right to complain to your local data protection authority. 
+
+Additional Rights for California Residents: Residents of the State of California may request a list of all third parties to which the Services have disclosed certain personal information (as defined by California law) during the preceding year for those third parties' direct marketing purposes. If you are a California resident and want such a list, please contact us at Fandango, Attn: Privacy Officer, 407 N. Maple Dr., Suite 300, Beverly Hills, CA 90210. For all requests, you must put the statement "Your California Privacy Rights" in the body of your request, as well as your name, street address, city, state, and zip code. In the body of your request, please provide enough information for us to determine if this applies to you. You need to attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+
+##### 6\. YOUR CHOICES
+
+###### Cookies and Similar Technologies
+
+We and our service providers, advertisers, and other third parties use cookies and similar technologies (e.g., HTTP cookies, HTML 5, flash local storage cookies, web beacons, GIFs, embedded scripts, ETags/cache browsers, and software development kits) to recognize you on, off, and across the Services and your devices. For more information about the use of cookies and similar technologies on the Services (including your opt-out choices) please see our [Cookies Notice](https://web.archive.org/policies/cookies-and-tracking). 
+
+###### Mobile App and Connected Devices
+
+Depending on the device you use, you may be able to manage your advertising and location preferences through your device settings and as outlined in our [Cookies Notice](https://web.archive.org/policies/cookies-and-tracking). Many operating systems provide their own instructions on how to prevent the delivery of tailored in-application advertisements. We do not control how the applicable platform operator allows you to manage personalized in-application advertisements. You should review your device manufacturer’s support materials and/or the device settings for the respective operating systems for more detail on how to manage such preferences.
+
+You may opt out of location data collection on our mobile app(s) by managing your location preferences in the "My Account" section of that app, or by disabling the GPS services for that app on your mobile device. Contact [privacy@fandango.com](mailto:privacy@fandango.com) for information about how to opt out from allowing us to have further access to your precise location data. Please include as much detail as possible when you make a request.
+
+You can stop all collection of information by a mobile app by uninstalling the app. 
+
+###### Third-Party Online Services
+
+The Services may contain links to third party services. These other sites (even if co-branded as Fandango) may collect information about you and use this information in accordance with their own privacy policies and terms of service. We do not control those third parties’ policies or practices. Where Fandango collects personal information on a co-branded website or service, we will provide a link to our privacy policy as appropriate. In some circumstances, we may host some websites on behalf of others and those entities may place or permit the placement of cookies and other tracking technology. We are not responsible for these tracking practices.
+
+###### Google Maps
+
+If you use Google Maps / Google Earth as part of the Services, you agree to comply with the Google Maps / Google Earth Additional Terms of Service (including the [Google Privacy Policy](https://policies.google.com/privacy)). Further, you agree that Google, and not Fandango, shall be responsible for any of your information Google receives as a result of your use of Google Maps / Google Earth.
 
 ##### 7\. HOW WE PROTECT INFORMATION
 
-We maintain procedural, technical and physical safeguards for the Services to help protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of the Personally Identifiable Information you provide via the Services. Unfortunately, no transmission of data is guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. Therefore, any transmission of Personally Identifiable Information to us is made at your own risk. If you believe that your interaction with us is no longer secure, please notify us using the contact details below. 
+We maintain organizational, technical, and physical safeguards to help protect the information we collect and use. These safeguards vary depending upon a variety of factors including the sensitivity of the information we collect and use. Despite all reasonable practices, no security method is infallible. 
 
-##### 8\. YOUR RIGHTS AND CHOICES
+##### 8\. INTERNATIONAL TRANSFERS 
 
-**_Communication Preferences and Opt-outs_ **
+Fandango is a global company and has its headquarters in the United States. We may transfer your information to those described in this Privacy Policy outside of your country of residence, including in the United States and other countries. This is necessary to provide the Services and for the purposes outlined in this Privacy Policy. Data privacy laws vary from country to country and they may not be equivalent to, or as protective as, the laws in your home country. We take steps to ensure that reasonable safeguards are in place with an aim to ensure an appropriate level of protection for your information, in accordance with applicable law. By providing us with your information, you acknowledge any such transfer, storage or use.
 
-If you have subscribed to one or more of our email newsletters or are receiving them from us and you don't want them anymore, you can unsubscribe. Select the "unsubscribe" link at the bottom of any message, use other means provided to unsubscribe or change communication preferences, or use the contact details below, to unsubscribe from marketing and promotional e-mails. However, you cannot unsubscribe from some service related messages.
+##### 9\. UPDATES TO OUR PRIVACY POLICY
 
-_Mobile Apps_
+We reserve the right to amend this Privacy Policy at any time to reflect changes to our practices or the law. We will make the revised Privacy Policy accessible through the Services. Please check the Services periodically for updates.
 
-For more information about our information collection and use practices with respect to our mobile applications, including information on how to opt out of targeted advertising, see the [Mobile Apps Information Center](https://web.archive.org/mobileterms).
+The date at the top of this Privacy Policy tells you when it was last updated. If we make material changes to the way we collect or use your information, you will be provided with appropriate notice, including, but not limited to, by posting the updated Privacy Policy on this website, and providing notice in accordance with legal requirements. Any changes to this Privacy Policy will become effective when the revised Privacy Policy is posted. By continuing to use the Services following any changes to this Privacy Policy, you acknowledge you have read and understand the updated Privacy Policy, and you understand that we will collect, use, and share information as stated therein.
 
-**_Advertising/Cookies and Similar Technologies_ **
-
-For more information about the use of cookies and similar technology on our Services (including your opt-out choices) please see the [Cookies and Tracking Technologies Information Center](https://web.archive.org/policies/cookies-and-tracking). We provide opt-out choices through our [Cookies and Tracking Technologies Information Center](https://web.archive.org/policies/cookies-and-tracking). The effect of an opt-out for some advertisers will be to stop targeted advertising, but it will still allow the collection of usage data for certain purposes (e.g., research, analytics and internal Services operation purposes).
-
-**_Access and Correction_ **
-
-In addition to the functionality provided to you via the Services (such as using "account settings" for registered users), where legally required we provide online visitors with access to their Personally Identifiable Information and the ability to review, update and correct it. Some access requests may be subject to a small fee. To help your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, and possibly photo ID before granting access to Personally Identifiable Information about you. Please contact [privacy@fandango.com](mailto:privacy@fandango.com) for more information about exercising these rights.
-
-**_Data Retention and Deletion_ **
-
-We may retain your data for as long as you use the Services and for a reasonable time thereafter. If you'd like to delete, modify or update the Personally Identifiable Information that you provided via the Services please use the settings on the Services or contact us at [privacy@fandango.com](mailto:privacy@fandango.com) and we will respond in a reasonable time. Please note that some or all of this data may be required in order for the Services to function properly, and we may be required to retain certain information by law.
-
-##### 9\. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION ABOUT YOU
-
-The Services are governed by and operated in accordance with, the laws of the United States. Fandango makes no representation that the Services are governed by or operated in accordance with the laws of any other nation.
-
-If you are located outside of the United States, please be aware that information we collect, including Personally Identifiable Information, may be transferred to, processed, stored and used in the United States. Under United States law, your Personally Identifiable Information may be subject to access requests from governments, courts, or law enforcement in the United States.
-
-##### 10\. IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS
-
-Residents of the State of California may request a list of all third parties to which our Services have disclosed certain personal information (as defined by California law) during the preceding year for those third parties' direct marketing purposes. If you are a California resident and want such a list, please contact us at Fandango, Attn: Privacy Officer, 407 N. Maple Dr., Suite 300, Beverly Hills, CA 90210. For all requests, you must put the statement "Your California Privacy Rights" in the body of your request, as well as your name, street address, city, state, and zip code. In the body of your request, please provide enough information for us to determine if this applies to you. You need to attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
-
-**_DO NOT TRACK_ **
-
-Fandango does not currently take actions to respond to Do Not Track signals. When a uniform technological standard has been developed, Fandango will reconsider. We continue to review new technologies and may adopt a standard once one is created.
-
-##### 11\. LINKS TO OTHER WEBSITES AND SERVICES
-
-The Services may contain links to third-party websites or services. In some cases, we may embed a content feed, video player or other application from a third party into the Services, and those feeds, players or other applications may appear to be part of the Services, even though they are provided or served by a third party. If you access another website, or any such services, even ones that may contain the Fandango logo or are framed by the Services, please understand that the operators of these websites or services may collect information from you, or place or read cookies or other tracking devices, which will be used by them in accordance with their own privacy practices, which may differ from ours. We are not responsible for, and we do not endorse or control, the policies or practices of any such website or services. You should always read the Privacy Policy of any website or services you access carefully in order to understand their information usage practices.
-
-##### 12\. UPDATES TO OUR PRIVACY POLICY
-
-From time to time, we may revise this Privacy Policy. If we make material revisions to the way we collect or use your Personally Identifiable Information, we will provide you with notice of those changes by either: (1) announcing the change on our Services or (2) taking other actions as we deem appropriate under the circumstances, including without limitation, posting the revised version of this Privacy Policy online. You should check our Services frequently for updates. 
-
-You can determine when this Privacy Policy was last revised by referring to the "Last Updated" or similar legend at the top of this page. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using our Services.
-
-##### 13\. CONTACT US
+##### 10\. CONTACT US
 
 For any questions in relation to this Privacy Policy please contact us at [privacy@fandango.com](mailto:privacy@fandango.com) or Fandango, ATTN: Legal Department, 407 N. Maple Dr., Suite 300, Beverly Hills, CA 90210.
 
-For specific questions about the information you provided to MovieTickets.com, please contact us at [customerservice@movietickets.com](mailto:customerservice@movietickets.com) or MovieTickets.com, LLC, 2255 Glades Rd. Suite 100E, Boca Raton, FL 33431.
-
-##### 14\. EUROPEAN USERS
-
-This section is applicable only to European Users of Rotten Tomatoes and MovieTickets.co.uk. It supplements certain sections of the Privacy Policy and provides additional information that should be read together with other sections of the Privacy Policy. To the extent there is any conflict between this section and the other Privacy Policy, this section shall govern. 
-
-###### DATA CONTROLLERS 
-
-When this policy mentions "Fandango", "we", "our" or "us", it refers to the company or companies responsible for your information under this Privacy Policy (or “Data Controller”). This includes Fandango Media, LLC, and Fandango’s Owners (as defined above), namely, currently NBCUniversal, LLC and Warner Bros (please see above for further information on these companies).
-
-###### THE LEGAL BASES ON WHICH WE USE YOUR INFORMATION.
-
-We describe above in Section 3 how we use your information. We often rely on the following legal bases where we use your information, as described above:
-
-  * Where it is necessary to fulfil a contract that we have in place with you. Examples of situations where we rely on this basis include where we have a contract with you to provide you with Services or provide you with a sweepstakes prize you have won.
-  * Where it is necessary for the purposes our legitimate interests as a global media organisation. This may include our interests in understanding our customers, ensuring our services are being provided efficiently and satisfactorily and ensuring proper administration of our businesses. Examples of situations where we rely on this basis include providing you with technical support, responding to your requests and inquiries, preventing fraud or any other potentially illegal activities and protecting the safety of our users and others. 
-  * Where it is necessary in order to comply with a legal obligation to which we are subject. Examples of situations where we rely on this basis include complying with subpoenas, search warrants and court orders;
-  * Where you have given us your consent to do so. Examples include where we need to send you newsletters and information about products, services and promotions.
-
-
-
-###### YOUR RIGHTS AND CHOICES: WITHDRAWING CONSENT AND OPTING-OUT
-
-**_Porting Data_ **
-
-In addition to the rights above, you may have the right to have the information you have provided to us and which we use to provide services to you in a machine-readable format. This right enables you to move your information from one provider to another, for example, so that the other provider can continue to service your needs effectively.
-
-**_Change of mind or objection_ **
-
-Where you have given us consent to use your information for any of the above purposes, you have the right to withdraw that consent at any time. You may also have a right to object to our use of your information where we are relying on a legitimate interest and there is something about your particular situation that makes you want to object to our processing on this ground. 
-
-These rights do not apply in all cases however. Please contact the relevant online service or [privacy@fandango.com](mailto:privacy@fandango.com) for more information about whether these rights apply if so how they can be exercised. 
-
-###### WHERE YOUR INFORMATION WILL BE USED
-
-As a global organisation, Fandango, may need to transfer your information outside the European Economic Area and make it accessible to our affiliates, Partners and third party service providers internationally. We do so in order to provide you with our services and for the other purposes outlined above. Please be aware that the data protection laws in some of these countries may not offer the same level of protection as those in your country of residence. Before transferring your information in this way we will take steps to ensure that suitable safeguards are put in place aimed at ensuring an appropriate level of protection applies to your information. For further information on these safeguards, please contact us at [privacy@fandango.com](mailto:privacy@fandango.com). 
-
-###### PRIVACY SHIELD NOTICE
-
-MovieTickets.com, LLC participates in the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. MovieTickets.com, LLC has certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification page, please click here. 
-
-If you have any inquiries or complaints about MovieTickets.com, LLC’s handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at: [privacy@fandango.com](mailto:%20privacy@fandango.co)m. We will respond to your inquiry as soon as reasonably possible. If MovieTickets.com, LLC is unable to satisfactorily resolve any complaint relating to the Privacy Shield, or if we fail to acknowledge your complaint in a timely fashion, you can submit your complaint to the International Centre for Dispute Resolution ( [https://www.icdr.org](https://www.icdr.org/)). If your complaint is not resolved though these channels, under limited conditions, EU individuals may be able to invoke binding arbitration before a Privacy Shield Panel. 
-
-MovieTickets.com, LLC may sometimes provide personal information to third parties as discussed above. If MovieTickets.com, LLC transfers personal information received under the Privacy Shield to a third party, the third party's access, use, and disclosure of the personal data must also be in compliance with our Privacy Shield obligations. MovieTickets.com, LLC will remain liable under the Privacy Shield if the third party that it engages to process personal data on its behalf does so in a manner inconsistent with the Privacy Principles, unless MovieTickets.com, LLC can prove that it is not responsible for the event giving rise to the damage. 
-
-MovieTickets.com, LLC is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC) and other U.S. federal agencies. MovieTickets.com, LLC may be required to disclose personal information that MovieTickets.com, LLC handles under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, as discussed above. 
-
-###### HOW LONG WE KEEP YOUR INFORMATION
-
-We will keep your information only for long as it is necessary for the purposes described above (to provide you with the service or deliver a product, for our legitimate interests as described above and in order to detect and prevent fraud, and comply with our legal and regulatory obligations). This period will vary depending on your interactions with the Services. For example, depending on the type of service you use, we may retain your account data for a reasonable period of time after your last activity or after you stop paying for services. This is to enable you to easily come back and start using the service again. We may also keep a record of correspondence with you relating to the Services, for example, if you have made a complaint, for as long as is necessary to protect us from a legal claim. Similarly, when you unsubscribe from our email newsletters or promotional emails, we will keep a record of your email address to ensure we do not send you marketing emails in the future.
-
-###### COMPLAINTS
-
-If you have any enquiries about how we use your information, please contact us at [privacy@fandango.com](mailto:privacy@fandango.com). You may also have the right to lodge a complaint with a data protection authority should you have any concerns about the manner in which we use your information. Before doing so however, we would encourage you to first contact us directly to allow us an opportunity to resolve any concerns you may have.
+We have separate policies for workforce data, which is governed by the policies of our parent company, NBCUniversal. For example, please see the [Candidate Privacy Statement](https://www.nbcunicareers.com/candidate-privacy-statement) to find out more about the information collected during our recruitment process. 
