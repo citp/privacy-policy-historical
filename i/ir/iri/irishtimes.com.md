@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the irishtimes.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630200302id_/https%3A//www.irishtimes.com/policy-and-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishtimes.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231130322id_/https%3A//www.irishtimes.com/policy-and-terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Irish Times
 
-#### This privacy policy is effective as and from Dec 03rd, 2018
+#### This privacy policy is effective as and from Sep 26th, 2019
 
 Your privacy is important to The Irish Times and maintaining your trust is paramount to us. We are fully committed to keeping your personal information safe. This privacy policy is intended to provide you with information about the personal information we collect and how that information is used and shared.  We collect personal information about you when you access this website or other websites controlled by us or by a company within our group (including but not limited to irishtimes.com, newsdelivery.ie, rewardingtimes.ie, myhome.ie, irishracing.com, top1000.ie, myantiques.ie, Landmark Media Limited, The Irish Examiner. irishexaminer.com the Evening Echo, eveningecho.ie. breakingnews.ie, recruitIreland.ie, benchwarmers.ie, the Laois Nationalist, Kildare Nationalist, Carlow Nationalist, Western People; Waterford News and Star, the Roscommon Herald, and radio stations Beat 102-103 and WLR FM) or when you use any of our products, applications or services (collectively our “Services”).
 
@@ -123,7 +123,7 @@ You have the right to object to this processing, and if you wish to do so please
     * Details of our mobile applications used including but not limited to: traffic data; location data; weblogs; and other communication data and the resources accessed
     * Some of our location-enabled services require your personal GPS location data for the feature to work. If you wish to use a particular feature, you will be asked to specifically consent to your data being used for this purpose. This consent can by withdrawn at any time.
 
-We use cookies and similar technologies to facilitate our Services in the retrieving of your user preferences; to personalise your visits; for the operation of our website; to collect statistical information about our visitors for analytical purposes; to simplify any sign-in procedures; to personalise content and ads and to provide social media features. We use some of the information you provide to personalise your experience with us as you use our Services, such as addressing you personally and making navigation on our sites easier.  For more information on the use of cookies and similar technologies, please see our [Cookie Policy](https://www.irishtimes.com/policy-and-terms/cookie-policy).
+We use cookies and similar technologies to facilitate our Services in the retrieving of your user preferences; to personalise your visits; for the operation of our website; to collect statistical information about our visitors for analytical purposes (we use Google analytics and Comscore); to simplify any sign-in procedures; and to provide social media features. We use some of the information you provide to personalise your experience with us as you use our Services, such as addressing you personally and making navigation on our sites easier. For more information on the use of cookies and similar technologies, please see our [Cookie Policy](https://www.irishtimes.com/policy-and-terms/cookie-policy).
 
   * ### To measure the effectiveness of our email communications
 
@@ -134,13 +134,13 @@ We use such technologies to determine whether you’ve opened an email communica
 
 ## To support our advertising services
 
-Third-party vendors, including Google, display advertising on our Services. Some of the ads you see are targeted based on interests that have been inferred from the type of content you view when visiting our site. This type of behavioral advertising is targeted towards groups of users in an anonymous and aggregated manner as opposed to you as an individual. Such online advertising helps support the content, products and services we provide.
+Third-party vendors, including Google, display advertising on our Services. Some of the ads you see are targeted based on interests that have been inferred from the type of content you view when visiting our site or other sites. This type of behavioural advertising is targeted towards groups of users in an anonymous and aggregated manner as opposed to you as an individual. Such online advertising helps support the content, products and services we provide.
 
-Read More __
+Read More 
 
-We and third-party vendors use first-party cookies and third-party cookies together to inform, optimise and serve ads based on your browsing activities and interests. Any information we disclose to advertisers and advertising networks is non-personally identifiable.
+The third-party vendors (such as advertising networks) use third-party cookies together to inform, optimise and serve ads based on your browsing activities and interests. When you visit our Site, your browser redirects to the third party vendor and information is transmitted from from your browser to this third party vendor. Any information transmitted to advertisers and advertising networks in this manner is non-personally identifiable.
 
-Advertising networks may use cookies and similar technologies track you in order to measure the effectiveness of the ads they serve, detect fraudulent traffic, or to create a browsing profile that is used to deliver more relevant ads. For more information on how to manage advertising cookies please visit our [cookie policy](https://www.irishtimes.com/policy-and-terms/cookie-policy).
+Advertising networks may use cookies and similar technologies technologies to track you in order to measure the effectiveness of the ads they serve, detect fraudulent traffic, or to create a browsing profile that is used to deliver more relevant ads. For more information on how to manage advertising cookies please visit our [cookie policy](https://web.archive.org/web/20191231130322id_/https%3A//www.irishtimes.com/policy-and-terms/policy-and-terms/cookie-policy).
 
 ## To deliver recruitment services to you
 
@@ -275,7 +275,7 @@ We may share your personal information with any member of our group, which means
 
 ### Bundle subscriptions
 
-We may share your personal information with any member of our group if the service you have requested is fulfilled by them. For example, where subscriptions are offered as part of a bundle, if the digital access is provided by a member of our group, we will share your personal information to fulfil the services you have requested. 
+We may share your personal information with any member of our group if the service you have requested is fulfilled by them. For example, where subscriptions are offered as part of a bundle, if the digital access is provided by a member of our group, we will share your personal information to fulfil the services you have requested.
 
 ## With third parties
 
