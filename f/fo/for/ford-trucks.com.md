@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ford-trucks.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231949id_/https%3A//www.internetbrands.com/privacy/privacy-main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford-trucks.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231092638id_/https%3A//www.internetbrands.com/privacy/privacy-main.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,7 +55,7 @@ By visiting our sites and services, you consent to the placement of cookies and 
 
 2.2 Do Not Track
 
-You can opt-out of being targeted by certain third party advertising companies online by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp), [Omniture](http://www.d1.sc.omtrdc.net/optout.html?omniture=1&popup=1&locale=en_US&second=1&second_has_cookie=0), [Aperture](http://rt.displaymarketplace.com/optout.html), [PrivacyChoice](http://www.privacychoice.org/privacymark), and/or [Digital Advertising Alliance](http://www.aboutads.info/choices/).
+You can opt-out of being targeted by certain third party advertising companies online by visiting the [Network Advertising Initiative](https://www.networkadvertising.org/managing/opt_out.asp), [Omniture](https://www.d1.sc.omtrdc.net/optout.html?omniture=1&popup=1&locale=en_US&second=1&second_has_cookie=0), [Aperture](http://rt.displaymarketplace.com/optout.html), [PrivacyChoice](http://www.privacychoice.org/privacymark), and/or [Digital Advertising Alliance](http://www.aboutads.info/choices/).
 
 We currently do not respond to "Do Not Track" browser signals. Accordingly, your navigation on our sites and services may be tracked as part of our efforts to gather user information described above. If you arrive at our sites and services by way of a link from a third-party site that does respond to “Do Not Track” browser signals, such “Do Not Track” browser signal recognition will end as soon as you reach our sites and services. 
 
@@ -69,7 +69,7 @@ We will only collect and process personal information, including sharing it with
   2. our legitimate interests in keeping our sites and services safe and secure; 
   3. our third party service providers’ legitimate interests as described in “Other Information We Automatically Collect Through Cookies and Other Technologies” above;
   4. your consent to the processing of your personal information, which you can revoke at any time;
-  5. where the processing of personal information is necessary for the performance of a contract to which you are a party to, such as our [Terms of Use](http://www.internetbrands.com/ibterms/), Service Agreement, and License Agreement;
+  5. where the processing of personal information is necessary for the performance of a contract to which you are a party to, such as our [Terms of Use](https://www.internetbrands.com/ibterms/), Service Agreement, and License Agreement;
   6. where the processing of your personal information is required to protect your vital interests or those of another person, such as other users of our sites and services; 
   7. where the processing of personal information is necessary to comply with a legal obligation such as a law, regulation, search warrant, subpoena, or court order.
 
@@ -95,7 +95,7 @@ We may use the personal information that you provide in one or more of the follo
   13. to manage our sites' and services' administration, forum management, or fulfillment;
   14. to provide customer service and technical support;
   15. to administer surveys, sweepstakes, giveaways, contests, or similar promotions or events sponsored by us or our partners;
-  16. to prevent fraud or potentially illegal activities, enforce our sites' [Terms of Use](http://www.internetbrands.com/ibterms/), or to comply with applicable law;
+  16. to prevent fraud or potentially illegal activities, enforce our sites' [Terms of Use](https://www.internetbrands.com/ibterms/), or to comply with applicable law;
   17. for internal purposes such as auditing, data analysis, and research to improve our products, services, and communications;
   18. to allow you to apply for a job or sign-up for special offers from third parties through our sites and services;
   19. to help you contact or schedule an appointment with a healthcare provider or a legal professional listed in one of our directories and to remind you of upcoming or follow-up appointments;
@@ -129,7 +129,7 @@ We may share your personal information with third parties in the following circu
   4. where necessary to operate our sites and services, your personal information and the contents of all of your online communications on or through our sites and services may be accessed and monitored: 
     1. to satisfy any applicable laws or regulations,
     2. to defend ourselves in litigation or a regulatory action,
-    3. in order to protect the rights or property of Internet Brands and our subsidiaries and corporate affiliates, including to enforce our sites' or services' [Terms of Use.](http://www.internetbrands.com/ibterms/)
+    3. in order to protect the rights or property of Internet Brands and our subsidiaries and corporate affiliates, including to enforce our sites' or services' [Terms of Use.](https://www.internetbrands.com/ibterms/)
     4. when we have a good faith belief that we are required to disclose the information in response to legal process (for example, a subpoena, court order, or search warrant),
     5. where we believe our sites and services are being used in the commission of a crime, including to report such criminal activity or to exchange information with other companies and organizations for the purposes of fraud protection and risk management, and
     6. when we have a good faith belief that there is an emergency that poses a threat to the health and/or safety of you, another person, or the public generally;
@@ -209,13 +209,13 @@ You can also manage certain aspects of information collection and use, including
 
 If you have questions about your options, please fill out our [Privacy Contact Form](https://www.internetbrands.com/privacy/privacy-contact-form.php). Protecting your privacy and security is important and we also take reasonable steps to verify your identity before granting access to your data.
 
-Please be aware that certain records and information will be retained for specific purposes such as legal, payment, accounting, technical, dispute resolution, enforcement of our sites' and services' [Terms of Use](http://www.internetbrands.com/ibterms/), or customer service. If you have posted comments or user generated content on our site, we may not be able to delete it. Further, we take no responsibility for removing or editing any of your public activities or any submissions or content that is a result of your public activities. We may reject requests that are unreasonably repetitive or impractical, require disproportionate technical effort, or risk the privacy of others. 
+Please be aware that certain records and information will be retained for specific purposes such as legal, payment, accounting, technical, dispute resolution, enforcement of our sites' and services' [Terms of Use](https://www.internetbrands.com/ibterms/), or customer service. If you have posted comments or user generated content on our site, we may not be able to delete it. Further, we take no responsibility for removing or editing any of your public activities or any submissions or content that is a result of your public activities. We may reject requests that are unreasonably repetitive or impractical, require disproportionate technical effort, or risk the privacy of others. 
 
 * ### Storing Personal Information
 
  
 
-We retain your personal information while your account is active or as needed to provide you services. Additionally, we may retain personal information even after your account has been closed if retention is reasonably necessary to comply with our legal or regulatory obligations, resolve disputes, prevent fraud and abuse, enforce our [Terms of Use](http://www.internetbrands.com/ibterms/) or any other contract entered into between you and us, or if it is not technically feasible to delete your personal information.
+We retain your personal information while your account is active or as needed to provide you services. Additionally, we may retain personal information even after your account has been closed if retention is reasonably necessary to comply with our legal or regulatory obligations, resolve disputes, prevent fraud and abuse, enforce our [Terms of Use](https://www.internetbrands.com/ibterms/) or any other contract entered into between you and us, or if it is not technically feasible to delete your personal information.
 
 * ### Email and Other Communications
 
@@ -309,6 +309,12 @@ FOR RESIDENTS OF CALIFORNIA ONLY. Section 1798.83 of the California Civil Code r
 
 FOR RESIDENTS OF CALIFORNIA UNDER THE AGE OF 18. In accordance with Section 22581 of the California Business and Professions Code, you may request and obtain the removal of content or information you have publicly posted. To make such a request, please fill out our [Privacy Contact Form](https://www.internetbrands.com/privacy/privacy-contact-form.php) with “California Privacy Rights” in the subject line. Please specify the site(s) or service(s) to which your removal request relates, including any URLs where the content or information is posted, and the specific content or information you posted for which you are requesting removal. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
 
+*  
+
+### Nevada Privacy Rights
+
+FOR RESIDENTS OF NEVADA ONLY. In accordance with SB 220, Nevada consumers may opt-out of the sale of their personal information to third parties. If you reside in Nevada and you have provided us with your personal information, you may choose to opt-out of the sale of such personal information by filling out our [Privacy Contact Form](https://www.internetbrands.com/privacy/privacy-contact-form.php) or by emailing us at [privacy@internetbrands.com](mailto:privacy@internetbrands.com) with “Nevada Privacy Right” in the subject line. We may request for additional information from you in order to verify your identity and/or the authenticity of your request.
+
 * ### EU Privacy Rights
 
 FOR RESIDENTS OF THE EUROPEAN UNION ONLY. Under European data protection law, in certain circumstances, you have the right to:
@@ -331,7 +337,7 @@ You can exercise any of these rights by filling out our [Privacy Contact Form](h
 
 ### Contacting Us
 
-If you have any questions or concerns about this privacy policy or our practices you can [contact us](http://www.internetbrands.com/privacy/privacy-contact-form.php) or write to us at MH Sub I, LLC, Privacy Office, 909 N. Pacific Coast Highway, 11th Floor, El Segundo, California 90245 U.S.A. Please be sure to identify the specific website, software, or service about which you have a question or concern and how we can contact you.
+If you have any questions or concerns about this privacy policy or our practices you can [contact us](https://www.internetbrands.com/privacy/privacy-contact-form.php) or write to us at MH Sub I, LLC, Privacy Office, 909 N. Pacific Coast Highway, 11th Floor, El Segundo, California 90245 U.S.A. Please be sure to identify the specific website, software, or service about which you have a question or concern and how we can contact you.
 
 *  
 
@@ -339,4 +345,4 @@ If you have any questions or concerns about this privacy policy or our practices
 
 We may revise this privacy policy from time to time and, if we do, we will update it on this page and modify the "Last Updated" date. If our information practices change in a significant way, you will be provided notice by means of notice on our sites or otherwise in writing. Because our privacy policy can change at any time, we encourage you to reread it periodically to see if there have been any changes that affect you. If you disagree with any changes to this privacy policy and do not wish your information to be subject to the revised privacy policy, you will need to deactivate your account or terminate your services. Your use of our sites and services following any such change constitutes your agreement that all information collected from or about you through our sites and services after the revised privacy policy is posted will be subject to the terms of the revised privacy policy.
 
-Last Updated: August 6, 2018
+Last Updated: September 20, 2019
