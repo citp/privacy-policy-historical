@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caida.org privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609030449id_/https%3A//www.caida.org/home/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caida.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231113839id_/http%3A//www.caida.org/home/legal/privacy) for the most accurate reproduction.*
 
 # CAIDA Website Privacy Policy
 
@@ -41,7 +41,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Acceptable Use Policies
 
-Please also visit our Acceptable Use Policies section establishing the access obligations, use and disclosure restrictions, disclaimers, and limitations of liability governing CAIDA data sets at <http://www.caida.org/data/collection/aup/>. 
+Please also visit our Acceptable Use Policies section establishing the access obligations, use and disclosure restrictions, disclaimers, and limitations of liability governing CAIDA data sets at <https://www.caida.org/data/collection/aup/>. 
 
 ### Your Consent
 
