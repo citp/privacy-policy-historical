@@ -1,158 +1,174 @@
-> *The following text is extracted and transformed from the fedexuk.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624182534id_/https%3A//www.fedex.com/en-gb/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedexuk.net privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231014400id_/https%3A//www.fedex.com/en-gb/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | FedEx United Kingdom
 
 ## FEDEX PRIVACY NOTICE
 
-Your trust matters to us. That is why we protect your information and use it responsibly, while continuing to deliver the excellent service you expect from FedEx Corporation and its operating groups, subsidiaries and divisions, (hereafter “FedEx”). At FedEx, we are committed to protecting your privacy and the security of your personal data. FedEx has created this Privacy Notice to explain how FedEx collects and uses personal data.
+Your trust matters to us. That is why we protect your information and use it responsibly, while continuing to deliver the excellent services you expect from FedEx and its operating groups, subsidiaries and divisions, including any TNT company (hereafter “FedEx”). At FedEx, we are committed to protecting your privacy and the security of information that can directly or indirectly be used to identify a natural person (hereafter “Personal Data”). FedEx has created this privacy notice (hereafter “Privacy Notice”) to explain how FedEx collects and uses Personal Data. 
 
-**Contact information**
+Last update: January 2019.
 
-The contact information for FedEx is:
+When this Privacy Notice mentions “FedEx”, “we”, “us”, or “our”, FedEx is referring to the FedEx company that is deciding on the purposes and means of the processing of your Personal Data under this Privacy Notice. As all TNT companies are now part of FedEx, the Personal Data collected via any TNT domain, such as [www.tnt.com](http://www.tnt.com/), fall within the scope of this Privacy Notice. 
+
+When you are using our services in Europe, your Personal Data is controlled by FedEx Express International B.V., having its headquarters in Hoofddorp, The Netherlands. When you are using our services globally, your Personal Data is controlled by FedEx Corporation, having its headquarters in Memphis, Tennessee, United States. 
+
+### Contact information
+
+**FedEx Express International B.V.**  
+
+
+Attn: Legal Department  
+Taurusavenue 111  
+2132 LS Hoofddorp  
+The Netherlands  
+E: [dataprotection@tnt.com](mailto:dataprotection@tnt.com)
 
 **FedEx Corporation  
 **Attn: Legal Department - Compliance  
 1000 Ridgeway Loop Road, Ste 600  
 Memphis, TN 38120  
 United States of America  
-E: [dataprivacy@fedex.com](mailto:dataprivacy@fedex.com)
+E: [dataprivacy@fedex.com](mailto:dataprivacy@fedex.com)
 
-For Europe, you may also contact:
+### Overview
 
-**FedEx Express – European Office  
-**Attn: Legal Department  
-Taurusavenue 111  
-2132 LS Hoofddorp  
-The Netherlands  
-E: [dataprivacy@fedex.com](mailto:dataprivacy@fedex.com)
+This Privacy Notice answers the following questions:  
 
-**Overview**
-
-This Privacy Notice answers the following questions:
 
 ### 1\. Does this Privacy Notice apply to you?
 
-This Privacy Notice applies to you if you are a customer of FedEx, a recipient of a package delivered by FedEx, a supplier of FedEx, or if you contact FedEx, for instance by applying for a position with FedEx, by visiting [www.fedex.com](http://www.fedex.com/), using social media or if you receive emails from FedEx.
+This Privacy Notice applies to you if you are a customer of FedEx, a recipient of a package delivered by FedEx, a supplier of FedEx, or if you contact FedEx, for instance, by visiting our websites such as [www.fedex.com](http://www.fedex.com/) and [www.tnt.com](http://www.tnt.com/) including any (sub)pages and mobile apps (hereafter “Websites”), using social media or if you receive emails from FedEx.
 
-Our websites are for a general audience and not geared toward children. We do not knowingly or intentionally collect Personal Data from children under age 16. If you are under the age of 16, please do not submit any Personal Data to us, and rely on a parent or guardian to assist you. If you believe your child may have disclosed personally identifiable information to us, please contact us at [dataprivacy@fedex.com](mailto:dataprivacy@fedex.com) and we will remove it.
+Our Websites are for a general audience and not aimed at children. In principle, we do not collect Personal Data from children under age 16. If you are under the age of 16 and you want to use our services, please rely on a parent or guardian to assist you. 
 
-### 2\. What information does FedEx collect?
+If a child under the age of 16 may have disclosed Personal Data to us, the parent or guardian can contact us at [dataprotection@tnt.com](mailto:dataprotection@tnt.com) and we will remove Personal Data if required.
 
-In the course of its business activities and providing the services, FedEx will need to process personal data. “Personal Data” is any information that can directly or indirectly be used to identify a natural person. You provide most of your Personal Data directly to FedEx, for instance:
+### 2\. What Personal Data does FedEx collect?
 
-  * **Contact information** _._ Such as your name, address, e-mail address and phone number; ****
-  * **Financial information** _._ Such as your bank account number, payment status and invoices; __
-  * **Identification information** _._ Such as your driver’s license number; __
-  * **Account information** _._ Log-in details, including your email address and password, and other information provided in your account; __
-  * **Information related to shipment and services** _._ Such as shipment tracking number, shipment routing information, location data, status of a shipment, delivery location, packaging type, number of pieces, weight, picture of the parcel and customs information; __
-  * **User and preference information** _._ Such as shipping amounts, complaints, history of purchases and related commercial activities, communication, survey information and shopping preferences. __
+In the course of its business activities and providing the services, FedEx will need to process Personal Data. Without your Personal Data, we will not be able to provide you with the requested services. As a rule, the Personal Data that you provide directly or indirectly to FedEx when using our services and visiting our Websites are:
 
-
-
-In addition, FedEx may obtain Personal Data automatically when you visit the FedEx website ([www.fedex.com](http://www.fedex.com/)) or any of its subpages, for system administration and troubleshooting, to identify you so we can enhance your online experience and to help FedEx understand the effectiveness of the content messaging and information provided. This information may consist of:
-
-  * IP address;
-  * Unique device or user ID;
-  * System and browser type;
-  * Date and time stamps;
-  * Referring website address;
-  * Content and pages you access on our website or mobile apps;
-  * Dates, times and locations when actions take place;
-  * Collect websites you visit (if you connect to our in-store wireless service);
-  * Click-stream information; and
-  * Device location (if you turn on the feature in the mobile app).
+  * **Contact information.** Such as your name, address, e-mail address and phone number;
+  * **Financial information.** This will include your bank account number, payment status, and invoices;
+  * **Identification information.** This will include your driver’s license number. If you don’t have a driver’s license, another identification method will be used that ensures us that we can identify you, but is the least privacy invasive as possible;
+  * **Account information.** This will include log-in details, including your email address, and other information provided through your account;
+  * **Information related to shipment and services.** This will include shipment tracking number, shipment routing information, location data, status of a shipment, delivery location, packaging type, number of pieces, weight, picture of the parcel, and customs information;
+  * **User and preference information.** This will include – as applicable – shipping amounts, complaints, history of purchases and related commercial activities, communication, survey information, and shopping preferences.
+  * **Automatically generated information.** This will include IP address, unique device or user ID, system and browser type, date and time stamps, referring website address, content and pages you accessed on our Websites or mobile apps, dates, times and locations actions take place, websites you visit (if you connect to our in-store wireless services), click-stream information and device location (if you turn on the feature in the mobile app).
 
 
 
-This Personal Data is obtained through the use of cookies or similar technologies. To learn more about the use of these technologies, please consult our Digital Platform Privacy Notice.
+### 3\. Does FedEx use cookies?
 
-### 3\. Why does FedEx process Personal Data?
+Yes, FedEx uses cookies and similar technologies on its Websites. Through these cookies, FedEx automatically obtains Personal Data as listed above when you visit our Websites. To learn more about the cookies and similar technologies, please consult our [Cookie Notice](https://www.fedex.com/en-gb/cookie-notice.html).
 
-Personal Data shall be collected, used, stored or otherwise processed if necessary within the framework of responsible, efficient and effective business management of FedEx. We process Personal Data because it is necessary to perform our contractual obligations with you, or it is necessary for us to comply with our legal obligations, or for other legitimate business interests of FedEx to provide quality and secure shipping services. More specifically, FedEx uses Personal Data for the following activities:
+### 4\. Why does FedEx process Personal Data?
 
-  * **Product development, research and improvement of FedEx products** **and/or services**. FedEx processes Personal Data as necessary for the development and improvement of FedEx products and/or services, research and development.
-  * **Performing agreements.** This **** includes tracking FedEx services, communication with individuals and other parties regarding services, responding to requests for (further) information, dispute resolution and preparing agreements.
-  * **Relationship management and marketing for commercial activities.** FedEx may process Personal Data as necessary for the development and improvement of FedEx products and/or services, account management, client services and the performance of (targeted) marketing activities in order to establish a relationship with a client and/or maintaining as well as extending a relationship with a client, business partner or supplier and for performing analyses with respect to Personal Data for statistical and scientific purposes.
+Personal Data shall be collected, used, stored or otherwise processed when necessary within the framework of responsible, efficient and effective business management of FedEx. FedEx processes Personal Data based on applicable legal ground(s). The legal ground is often intrinsically linked to the business purpose. This means, for example, that the performance of an agreement can be both a legal ground and a business purpose for FedEx. Therefore, we will first clarify the legal ground(s) on which FedEx processes your Personal Data and, subsequently, the business purpose(s) that we use your Personal Data for:
 
-You can manage your accounts with FedEx through the following.
+_Legal Grounds  
+_In general, FedEx processes your Personal Data based on one of the following legal grounds:
 
-    * **Emails** : For your email preferences, visit the [Email Preference Center](https://www.fedex.com/preferences/).
-    * **Mobile** : To opt out for mobile, text STOP to 37473\. You can always opt back in by texting YES to the same number.
-    * **Cookies and other technologies** : To opt out of advertising, visit [NAI Consumer Opt Out](http://www.networkadvertising.org/optout_nonppii.asp).  
- 
-  * **Business process execution, internal management and management reporting.** This includes addressing activities such as managing company assets, conducting internal audits and investigations, finance and accounting, implementing business controls, provision of central processing facilities for efficiency purposes, managing mergers, acquisitions and divestitures and processing Personal Data for management reporting and analysis.
-  * **Safety and security**. Personal Data may be included in the processing for activities such as those involving safety and health, the protection of FedEx and customer, supplier or business partner assets and the authentication of customer, supplier or business partner status and access rights.
-  * **Protecting the vital interests** **of individuals.** This includes processing data when necessary to protect the vital interests of an individual (e.g., for urgent medical reasons).
-  * **Compliance with legal obligations**. This addresses the processing of Personal Data as necessary for compliance with laws, regulations and sector specific guidelines to which FedEx is subject (e.g., matching names of clients, suppliers and business partners against denied parties’ lists).
+  * The processing is necessary to perform an agreement between you and FedEx,
+  * The processing is necessary for us to comply with our legal obligations,
+  * The processing is necessary to protect your vital interests or of other individuals,
+  * The processing is necessary for the legitimate interests of FedEx, except where such interests are overridden by your interests or fundamental rights and freedoms, or
+  * Where appropriate and required, we will ask for your consent.
 
 
 
-### 4\. Who has access to your Personal Data?
+_Business Purposes  
+_FedEx shall only collect, use or otherwise process Personal Data if the processing falls within the scope of one (or more) of the legitimate business purposes listed below: 
 
-FedEx may share your Personal Data with third parties in the following circumstances:
+  1. **Product development, research and improvement of FedEx products and/or services.**. FedEx processes Personal Data as necessary for the development and improvement of FedEx products and/or services, research and development.
+  2. **Performing agreements.** This includes shipping services, tracking FedEx services, communication with individuals and other parties regarding services, responding to requests for (further) information, dispute resolution and preparing agreements (e.g. link the shipment tracking number to your account to enable you to follow your shipment).
+  3. **Relationship management and marketing for commercial activities.** In general, FedEx processes Personal Data as necessary for the development and improvement of FedEx products and/or services, account management, client services and the performance of (targeted) marketing activities in order to establish a relationship with a client and/or maintaining as well as extending a relationship with a client, business partner or supplier and for performing analyses with respect to Personal Data for statistical and scientific purposes (e.g. deliver advertising, communications and content from us on our sites and those of third parties more specific to your interests).
+  4. **Business process execution, internal management and management reporting.** This includes addressing activities such as managing company assets, conducting internal audits and investigations, finance and accounting, implementing business controls, provision of central processing facilities for efficiency purposes, managing mergers, acquisitions and divestitures and Processing Personal Data for management reporting and analysis (e.g. conduct investigations into shipping accounts to detect fraud).
+  5. **Safety and security**. Personal Data shall be included in the processing for activities such as those involving health and safety, the protection of FedEx and customer, supplier or business partner assets and the authentication of customer, supplier or business partner status and access rights (e.g. provide a safe and secure services for online and offline transactions).
+  6. **Protecting the vital interests of individuals.** This includes processing data when necessary to protect your vital interests or of other individuals (e.g. for urgent medical reasons).
+  7. **Compliance with legal obligations.** This addresses the processing of Personal Data as necessary for compliance with laws, regulations and sector specific guidelines to which FedEx is subject (e.g. matching names of clients, suppliers and business partners against denied parties’ lists).
 
-  * FedEx may share your Personal Data with its affiliates, operating groups, subsidiaries and divisions, or with third parties if such is necessary for the purposes as listed above. If appropriate, FedEx will require third parties to conduct activities in a manner consistent with FedEx policies and guidelines in relation to data protection.
-  * FedEx may share your Personal Data with data processors, i.e. parties processing Personal Data on our behalf. In such cases, these third parties may only use your Personal Data for the purposes described above and only in accordance with our instructions. FedEx will only use processors that provide sufficient guarantees to implement appropriate technical and organisational measures and ensure the protection of the rights of data subjects.
-  * FedEx employees may have access to your Personal Data if necessary for the performance of their tasks. In such a case, access will be granted only if necessary for the purposes described above and only if the employee is bound by confidentiality.
-  * FedEx may share your Personal Data if required to do so by law, court order, or other legal process, for example, with law enforcement agencies or other governmental agencies, to establish or exercise our legal rights or in connection with a corporate transaction, such as a divesture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+
+
+### 5\. Who has access to your Personal Data?
+
+As a rule, FedEx shares your Personal Data with third parties in the following circumstances:
+
+  * With its affiliates, operating groups, subsidiaries and divisions, or with third parties if such is necessary for the purposes as listed above. If appropriate, FedEx will require third parties to conduct activities in a manner consistent with FedEx policies and guidelines in relation to data protection. 
+  * With data processors, i.e. parties processing Personal Data on our behalf. In such cases, these third parties only use your Personal Data for the purposes described above and only in accordance with our instructions. FedEx will only use processors which provide sufficient guarantees to implement appropriate technical and organizational measures and ensure the protection of the rights of data subjects.
+  * With its employees if and to the extent necessary for the performance of their tasks. In such a case, access will be granted only if and to the extent necessary for the purposes described above and only if the employee is bound by confidentiality.
+  * If and when required to do so by law, court order, or other legal process, for example, with law enforcement agencies or other governmental agencies, to establish or exercise our legal rights or in connection with a corporate transaction, such as a divesture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy..
 
 
 
-### 5\. How long will FedEx process your Personal Data?
+### 6\. How long will FedEx process your Personal Data?
 
-FedEx retains your Personal Data for a limited amount of time and will delete your Personal Data after it is no longer necessary for the purposes of the processing. The exact period of time is based on the type of the Personal Data and the legal obligations or business purposes for retaining it.
+We will retain your Personal Data no longer than necessary for the purpose(s) for which we process your Personal Data. After the retention period we will delete or anonymize your Personal Data, unless we need to retain certain of your Personal Data for another purpose. We will only do so if we have a legal ground to retain your Personal Data. We will also ensure that Personal Data are only accessible for that other purpose. 
 
-### 6\. What measures does FedEx take to protect your Personal Data?
+For example, we need your Personal Data to perform the customs clearance process. Customs laws dictate that we have to retain/store - certain of - those Personal Data. Generally, this period varies from 3 to 7 years, depending on the applicable country and customs laws. In those cases, we will only store the Personal Data necessary to meet our legal obligations. 
+
+Please contact us using the contact details above if you have questions about specific retention periods.
+
+### 7\. What measures does FedEx take to protect your Personal Data?
 
 FedEx has taken appropriate technical and organizational measures to protect your Personal Data against accidental or unlawful processing, including by ensuring that:
 
-  * your Personal Data is protected against unauthorized access;
-  * the confidentiality of your Personal Data is assured;
-  * the integrity and availability of your Personal Data will be maintained;
-  * personnel is trained in information security requirements; and
-  * actual or suspected data breaches are reported in accordance with applicable law.
+  * Your Personal Data is protected against unauthorized access;
+  * The confidentiality of your Personal Data is assured;
+  * The integrity and availability of your Personal Data will be maintained;
+  * Personnel is trained in information security requirements; and
+  * Actual or suspected data breaches are reported in accordance with applicable law.
 
 
 
-### 7\. Where does FedEx store or transfer your Personal Data?
+### 8\. Where does FedEx store or transfer your Personal Data?
 
-Due to the nature of our business and the services we provide to our clients, FedEx may need to transfer your Personal Data to locations outside the country where you reside. In any case where we transfer Personal Data, FedEx shall ensure that such a transfer is subject to appropriate safeguards.
+Due to the nature of our business and the services we provide to our clients, FedEx may need to transfer your Personal Data to locations outside the country where you reside. In any case where we transfer Personal Data, FedEx shall ensure that such a transfer is subject to appropriate safeguards. For the European Economic Area, such transfers to third parties (outside the European Economic Area) will be governed by a contract based on the model contractual clauses for data transfers approved by the European Commission or other appropriate safeguards. For more detailed information about these safeguards, please contact [dataprotection@tnt.com](mailto:dataprotection@tnt.com) or [dataprivacy@fedex.com](mailto:dataprivacy@fedex.com).
 
-For the European Union, such transfers to third parties will be governed by a transfer mechanism approved by the European Commission or national data protection authorities, including model contractual clauses. For more detailed information about these safeguards, please contact [dataprivacy@fedex.com](mailto:dataprivacy@fedex.com).
+### 9\. What rights can you exercise in relation to your Personal Data?
 
-### 8\. What rights can you exercise in relation to your Personal Data?
-
-Based on the law applicable to the use of your Personal Data, you may be able to exercise a number of rights in relation to your Personal Data. Note that in many cases, your rights are not absolute and we may not be required to comply with your request.  A number of such rights, as may be applicable in the European Union, are explained below. 
+Based on the law applicable to the use of your Personal Data, you have rights in relation to your Personal Data. Note that we will have to balance your rights and your request to exercise them against our rights and obligations to process your Personal Data and to protect the rights and freedoms of others. A number of the rights you have in relation to your Personal Data, as applicable in the European Economic Area, are explained below: 
 
 _Right of access_  
-You are entitled to a copy of the Personal Data we hold about you and to learn details about how we use it. Your Personal Data will usually be provided to you digitally.
+You are entitled to a copy of the Personal Data we hold about you and to learn details about how we use it. Your Personal Data will usually be provided to you digitally. We may require you to prove your identity before providing the requested information. 
 
 _Right to rectification  
-_We take reasonable steps to ensure that the information we hold about you is accurate and complete. However, if you believe this is not the case, you can ask us to update or amend it.
+_We take reasonable steps to ensure that the information we hold about you is accurate and complete. However, if you believe this is not the case, you have the right to request that any incomplete or inaccurate Personal Data that we process about you is amended.
 
 _Right to erasure  
-_In certain circumstances, you have the right to ask us to erase your Personal Data; for example, where the Personal Data we collected is no longer necessary for the original purpose or where Personal Data has become obsolete. We will, however, need to balance this against other factors. For example, we may not be able comply with your request due to certain legal or regulatory obligations.
+_You have the right to ask us to erase your Personal Data, for example where the Personal Data is no longer necessary for the original purpose for which they were collected, where Personal Data has become obsolete or where you withdraw your consent to the grounds on which data is processed. However, this will need to be balanced against other factors. For example, we may not be able comply with your request due to certain legal or regulatory obligations.
 
 _Right to restriction of processing  
-_In certain circumstances, you are entitled to ask us to (temporarily) stop using your Personal Data.  For example, where you think that the Personal Data we hold about you may be inaccurate or where you think that we no longer need to use your Personal Data.
+_You are entitled to ask us to (temporarily) stop using your Personal Data, for example where you think that the Personal Data we hold about you may be inaccurate or where you think that we no longer need to use your Personal Data.
+
+_Right to data portability_  
+You may have the right to ask that we transfer Personal Data that you have provided to us to a third party of your choice. This right can only be exercised when you have provided the Personal Data to us, and when we are processing that data by automated means on the basis of your consent or in order to perform our obligations under a contract with you. 
 
 _Right to object  
-_You have the right to object to processing based on our legitimate interests. Unless we have a compelling legitimate ground for the processing, we will no longer process Personal Data on that basis when you file an objection. Note, however, that we may not be able to provide certain services or benefits if we are unable to process the necessary Personal Data for that purpose.
+_You have the right to object to processing which is based on our legitimate interests. You may also ask us to stop using your Personal Data for marketing purposes at any time, and if you do so, FedEx will immediately cease to use your Personal Data. For other purposes based on our legitimate interests, we will no longer process the Personal Data on that basis when you file an objection, unless we have a compelling legitimate ground for the processing. Note, however, that we may not be able to provide certain services or benefits if we are unable to process the necessary Personal Data for that purpose.
 
 _Rights relating to automated decision-making  
-_You have the right not to be subjected to automated decision-making, including profiling, which produces legal effect for you or has a similar significant effect. If you have been subject to an automated decision and do not agree with the outcome, you can contact us using the details below and ask us to review the decision.
+_You have the right not to be subjected to a decision based solely on automated decision-making, including profiling, which produces legal effects concerning you or similarly significantly affects you. If you have been subject to an automated decision and do not agree with the outcome, you can contact us using the details below and ask us to review the decision. 
 
 _Right to withdraw consent  
-_We may ask for your consent to process your Personal Data in specific cases.  You have the right to withdraw your consent at any time. FedEx will stop the further processing as soon as possible after the withdrawal of your consent. However, this does not affect the lawfulness of the processing before consent was withdrawn.
+_We may ask for your consent to process your Personal Data in specific cases. When we do this, you have the right to withdraw your consent at any time. FedEx will stop the further processing as soon as possible after the withdrawal of your consent. However, this does not affect the lawfulness of the processing before consent was withdrawn.
 
-Please use the contact details above if you would like to exercise any of your rights.
+Please use [this link](https://app.onetrust.com/app/#/webform/c121cce6-6cfb-4c3d-9b61-334f56a01b5f) if you would like to exercise any of your rights.
 
-### 9\. What if I have other questions or complaints?
+You can manage your accounts with FedEx through the following. 
+
+  * **Emails:** For your email preferences, visit the Email Preference Center. 
+  * **Mobile:** To opt out for mobile, text STOP to 37473. You can always opt back in by texting YES to the same number. 
+  * **Cookies and other technologies:** To opt out of advertising, visit NAI Consumer Opt Out. 
+
+
+
+### 10\. What if I have other questions or complaints?
 
 Questions or complaints regarding the processing of your Personal Data can be directed to FedEx by using the contact information as provided at the top of this Privacy Notice.
 
-You also have the right to lodge a complaint with local data protection authority in the jurisdiction where you work, where you live or where an alleged infringement takes place. A listing of the European Data Protection Authorities can be found [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
+You also have the right to lodge a complaint with the competent (local) data protection authority in the jurisdiction where you work, where you live or where an alleged infringement takes place. As a rule, the lead supervisory authority for FedEx in the European Economic Area is the Dutch Data Protection Authority (Dutch DPA), unless the alleged infringement is purely a local matter. A listing of the European Data Protection Authorities can be found [here](https://edpb.europa.eu/about-edpb/board/members_en).  
 
-### 10\. Will there be updates to this Privacy Notice?
 
-FedEx may update this Privacy Notice from time to time. If an amendment will have a serious impact, FedEx will endeavour to actively inform you about such amendments. FedEx will publish an up-to-date Privacy Notice on the website [www.fedex.com](http://www.fedex.com/) at all times, indicating the latest amendments.
+### 11\. Will there be updates to this Privacy Notice?
+
+FedEx may update this Privacy Notice from time to time. If an amendment will have a serious impact, FedEx will endeavor to actively inform you about such amendments. FedEx will publish an up-to-date Privacy Notice on the Websites at all times indicating the latest amendments.
