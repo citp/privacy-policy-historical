@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pastebin.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630193100id_/http%3A//www.pastebin.com/doc_privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pastebin.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231213039id_/https%3A//pastebin.com/doc_privacy_statement) for the most accurate reproduction.*
 
 # Pastebin.com - Privacy Statement
 
