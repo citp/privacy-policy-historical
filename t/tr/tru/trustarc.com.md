@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trustarc.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231114515id_/https%3A//www.trustarc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustarc.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231112747id_/https%3A//www.trustarc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrustArc
 
-This Privacy and Data Processing Policy reflects our TrustArc global privacy practices and standards as of the effective date. 
+This Privacy and Data Processing Policy reflects our TrustArc global privacy practices and standards as of the effective date.
 
 ## Who we are
 
@@ -10,7 +10,7 @@ TrustArc Inc (“TrustArc”) is a technology-powered privacy solutions company 
 
 TrustArc also operates through its subsidiaries TRUSTe Europe Ltd. in the UK, TRUSTe Web Services Technologies, Inc. in the Philippines, and TRUSTe LLC, in the USA.
 
-**If you have a privacy question** , you may contact the TrustArc privacy team and our Chief Data Governance Officer any time at [privacy@trustarc.com](mailto:privacy@trustarc.com?subject=Privacy%20Concerns) or by using the Policy Questions button on this page. We appreciate the opportunity to address your questions and concerns.
+If you have a privacy question, you may contact the TrustArc privacy team and our General Counsel any time at [privacy@trustarc.com](mailto:privacy@trustarc.com?subject=Privacy%20Concerns) or by using the Policy Questions button on this page. We appreciate the opportunity to address your questions and concerns.
 
 If you have concerns about how we handle your personal information, you have the right to make a complaint about us to the UK Information Commissioner’s Office (ICO) at [www.ico.org.uk](https://ico.org.uk/). You may also contact the privacy regulator in your country. Most privacy regulators can be contacted online using the resources provided at <https://icdppc.org/participation-in-the-conference/members-online/>. More information is included under “International Data Transfers” and “Privacy Shield.”
 
@@ -20,10 +20,10 @@ Return to Top ↑
 
 At TrustArc, _Privacy is our Business_.
 
-  * **Embedding privacy.** We strive to help businesses embed privacy into their strategy and operations by providing simple, scalable, and intelligent solutions that help our customers continually manage privacy compliance and risk.
-  * **Responsible use.** We help to promote responsible data use and stewardship among businesses and suppliers around the world.
-  * **Purpose driven.** We only collect, use, and share the information we need to provide and operate our solutions and to help our customers meet their accountability and regulatory compliance needs.
-  * **Always improving.** We process data about the use of our solutions and the way we operate our own business in order to help us better understand the needs of our customers, prospects, and other stakeholders, and to continue to improve user experience, features, and functionality of our solutions.
+  * Embedding privacy. We strive to help businesses embed privacy into their strategy and operations by providing simple, scalable, and intelligent solutions that help our customers continually manage privacy compliance and risk.
+  * Responsible use. We help to promote responsible data use and stewardship among businesses and suppliers around the world.
+  * Purpose driven. We only collect, use, and share the information we need to provide and operate our solutions and to help our customers meet their accountability and regulatory compliance needs.
+  * Always improving. We process data about the use of our solutions and the way we operate our own business in order to help us better understand the needs of our customers, prospects, and other stakeholders, and to continue to improve user experience, features, and functionality of our solutions.
 
 
 
@@ -33,21 +33,21 @@ Return to Top ↑
 
 You have six basic rights under privacy and data protection laws related to the data we process about you. You do not have to pay a fee, and we will aim to respond to your request within 30 days. We will honor the requests you make related to your rights as the law allows, which means in some cases there may be legal or other official reasons that we may not be able to address the specific request you make related to your rights. You may:
 
-**request access** to the personal information we process about you;
+request access to the personal information we process about you;
 
-**request that we correct** inaccurate or incomplete personal information about you;
+request that we correct inaccurate or incomplete personal information about you;
 
-**request deletion** of personal information about you;
+request deletion of personal information about you;
 
-**request restrictions** , temporarily or permanently, on our processing of some or all personal information about you;
+request restrictions, temporarily or permanently, on our processing of some or all personal information about you;
 
-**request transfer** of personal information to you or a third party where we process the data based on your consent or a contract with you, and where our processing is automated; and
+request transfer of personal information to you or a third party where we process the data based on your consent or a contract with you, and where our processing is automated; and
 
-**opt-out or object** to our use of personal information about you where our use is based on your consent or our legitimate interests.
+opt-out or object to our use of personal information about you where our use is based on your consent or our legitimate interests.
 
 Return to Top ↑
 
-**What personal information?**
+What personal information?
 
 The data we process about you depends on who you are and how we interact with you. Personal information is data that identifies you or that makes you identifiable. It includes data that could be used to identify, locate, track or contact you.  
   
@@ -55,72 +55,74 @@ The data we process about you depends on who you are and how we interact with yo
   
 If you are a customer, business partner, or express interest in our solutions:
 
-**Learning about our company and our solutions** : If you request or indicate an interest in information about our solutions or partnership opportunities, we process your name, email address, phone number, job title, information about the company where you work, including its website address, and any comments you provide. We append business information related to the company where you work from third party sources, such as business intelligence providers, information from publicly available sources, such as LinkedIn, as well as information about the number and frequency of your interactions with us online and offline, such as at events, webinars, via email and our website. We maintain and update this information as we continue to engage with you and use it as described under the **Legitimate Interests** processing purposes described below.
+Learning about our company and our solutions: If you request or indicate an interest in information about our solutions or partnership opportunities, we process your name, email address, phone number, job title, information about the company where you work, including its website address, and any comments you provide. We append business information related to the company where you work from third party sources, such as business intelligence providers, information from publicly available sources, such as LinkedIn, as well as information about the number and frequency of your interactions with us online and offline, such as at events, webinars, via email and our website. We maintain and update this information as we continue to engage with you and use it as described under the Legitimate Interests processing purposes described below.
 
-**Using the TrustArc Privacy Platform** : If you are a licensed or other authorized user of our privacy technology platform, we process your name, email address, username, password, IP address, job title, phone number, information about the company where you work, actions you have taken in the applications on the platform, such as record creation, changes, input, responses, analysis, and approvals, and tickets filed on your behalf related to our platform.
+Using the TrustArc Privacy Platform: If you are a licensed or other authorized user of our privacy technology platform, we process your name, email address, username, password, IP address, job title, phone number, information about the company where you work, actions you have taken in the applications on the platform, such as record creation, changes, input, responses, analysis, and approvals, and tickets filed on your behalf related to our platform.
 
-  * **TrustArc-IAPP Assessment Manager** : If you are using the free version of our Assessment Manager offered in partnership with the IAPP, we process your name, email address, company name, and password. Please refer to the [Privacy Notice](https://www.trustarc.com/iapp/privacy-notice) for that service for more information.
+  * TrustArc-IAPP Assessment Manager: If you are using the free version of our Assessment Manager offered in partnership with the IAPP, we process your name, email address, company name, and password. Please refer to the [Privacy Notice](https://www.trustarc.com/iapp/privacy-notice) for that service for more information.
 
 
 
-**Participation in our Assurance Programs and Solutions** : If you participate in our certification or verification programs, or our GDPR validation, we process your name, email address, country, phone number, job title and company name.
+Participation in our Assurance Programs and Solutions: If you participate in our certification or verification programs, or our GDPR validation, we process your name, email address, country, phone number, job title and company name.
 
-**Using our Consulting Services** : If you engage us to provide consulting services, we process your name, email address, postal address, job title, signature, and company information.
+Using our Consulting Services: If you engage us to provide consulting services, we process your name, email address, postal address, job title, signature, and company information.
 
-**Negotiating and entering into a contract with us and relationship management during the contract term** : If you enter into an agreement with us related to the licensing or purchase of our solutions, we process your name, email address, postal address, company name, billing information (e.g., purchase order number, bank wire information, credit card number), company size, company financial information, and signature.
+Negotiating and entering into a contract with us and relationship management during the contract term: If you enter into an agreement with us related to the licensing or purchase of our solutions, we process your name, email address, postal address, company name, billing information (e.g., purchase order number, bank wire information, credit card number), company size, company financial information, and signature.
 
-**Receiving marketing, sales-related and business development communications from us** : If our marketing team or a member of our sales or business development teams sends communications to you, we process your name, phone number, email address, postal address, job title, job function, company name, company size, company financial information, IP address, device type, email view information including IP address and associated city, and information about which of our solutions you use or which may be of interest to you.
+Receiving marketing, sales-related and business development communications from us: If our marketing team or a member of our sales or business development teams sends communications to you, we process your name, phone number, email address, postal address, job title, job function, company name, company size, company financial information, IP address, device type, email view information including IP address and associated city, and information about which of our solutions you use or which may be of interest to you.
 
-**Market research and surveys:** If you participate in our market research and surveys, we process your email address, job title, phone number, survey responses, company name, job function, state, country, and any comments you provide.
+Market research and surveys: If you participate in our market research and surveys, we process your email address, job title, phone number, survey responses, company name, job function, state, country, and any comments you provide.
+
+Participation on a recorded telephone call or video conference with TrustArc: If you have consented to a recorded telephone call or video conference with TrustArc, we may process your name, email address, job title and voice for analytical purposes to improve our training and customer relationship management, as described in the Consent processing purposes section below. For any such telephone calls or video conferences, notice of the recording will be provided in advance and during the meeting. You may decline recording at any time before or during the meeting, and you may request deletion of the recording at any time. All such recorded meetings will be automatically deleted within 180 days.
 
 | 
 
 If you visit the websites and online properties we provide:
 
-**Our website** : We process personal information about you that we collect either directly, through forms or data entry fields on our website, or through passive collection by cookies and other data collection technologies. The types of personal data we process in each of these contexts is further explained in the following four categories:
+Our website: We process personal information about you that we collect either directly, through forms or data entry fields on our website, or through passive collection by cookies and other data collection technologies. The types of personal data we process in each of these contexts is further explained in the following four categories:
 
-  * **Contact us and registration forms** : we process your name, email address, company where you work, phone number, job function, job title, country, and any comments you provide. 
-  * **Consumer opinion surveys** : we process your survey responses 
-  * **Cookies and other data collection technologies** : we use browser **session cookies** , which are temporary cookies that are erased from your device’s memory when you close your Internet browser or turn your computer off, and **persistent cookies** , which are stored on your device until they expire, unless you delete them before that time. We group browser cookies on our site into three categories, which you can manage through our “ **Cookie Preferences** ” manager: 
+  * Contact us and registration forms: we process your name, email address, company where you work, phone number, job function, job title, country, and any comments you provide. 
+  * Consumer opinion surveys: we process your survey responses 
+  * Cookies and other data collection technologies: we use browser session cookies, which are temporary cookies that are erased from your device’s memory when you close your Internet browser or turn your computer off, and persistent cookies, which are stored on your device until they expire, unless you delete them before that time. We group browser cookies on our site into three categories, which you can manage through our “Cookie Preferences” manager: 
     * _Required cookies_ : These cookies are necessary to enable the basic features of this site to function, such as allowing images to load or allowing you to select your cookie preferences.
     * _Functional cookies_ : These cookies allow us to analyze your use of the site to evaluate and improve our performance. They may also be used to provide a better customer experience on this site. For example, remembering your log-in details or providing us information about how our site is used.
     * _Advertising cookies_ : These cookies may be used to share data with advertisers so that the ads you see are more relevant to you, allow you to share certain pages with social networks, or allow you to post comments on our site.
 Videos and other features on our site use Flash cookies to collect and store your preferences, such as volume. Flash cookies are different from browser cookies because of the amount of, type of, and way that data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). Some cookies may be placed by third party service providers who perform some of these functions for us.
-  * **Server log files** : We automatically gather server log file information when you visit our websites. This includes IP address, browser type, referring and exit web pages, and your operating system.
+  * Server log files: We automatically gather server log file information when you visit our websites. This includes IP address, browser type, referring and exit web pages, and your operating system.
 
 
 
-**Cookie Preference Manager** : If you use our preference manager on a mobile device, we process your device’s Advertising Identifier. When you access our preference manager, session cookies will be set by the ad networks listed in our preference manager to honor your preferences if you choose not to receive interest-based advertising. If you clear your browser cookies, this will remove all cookies including the opt-out cookies set by the companies. You will need to re-access the opt-out tool to reset your preferences. Our cookie only knows your last set of preferences and does not reflect the current state of cookies on your browser.
+Cookie Preference Manager: If you use our preference manager on a mobile device, we process your device’s Advertising Identifier. When you access our preference manager, session cookies will be set by the ad networks listed in our preference manager to honor your preferences if you choose not to receive interest-based advertising. If you clear your browser cookies, this will remove all cookies including the opt-out cookies set by the companies. You will need to re-access the opt-out tool to reset your preferences. Our cookie only knows your last set of preferences and does not reflect the current state of cookies on your browser.
 
-**Individual Rights Manager** : When you submit a request related to our processing of personal information about you, we process your name, email address, type of request, the individual type you select on the form, and any comments you provide. When you submit a request to another company that has implemented our Individual Rights Manager, we process the information you provide in the form implemented by that company only as long as needed to ensure delivery of the request to that company.
+Individual Rights Manager: When you submit a request related to our processing of personal information about you, we process your name, email address, type of request, the individual type you select on the form, and any comments you provide. When you submit a request to another company that has implemented our Individual Rights Manager, we process the information you provide in the form implemented by that company only as long as needed to ensure delivery of the request to that company.
 
-**Direct Marketing Consent Manager** : If a company has implemented our Direct Marketing Consent Manager, we process a pseudonymous identifier related to you to help that company manage your consent preferences. TrustArc uses this approach to allow the company to manage your personal information rather than TrustArc.
+Direct Marketing Consent Manager: If a company has implemented our Direct Marketing Consent Manager, we process a pseudonymous identifier related to you to help that company manage your consent preferences. TrustArc uses this approach to allow the company to manage your personal information rather than TrustArc.
 
-**Ads Interests Manager** : If you click through an icon associated with our Ads Interests Manager in an online advertisement, we process information about your interests.
+Ads Interests Manager: If you click through an icon associated with our Ads Interests Manager in an online advertisement, we process information about your interests.
 
-**TrustArc Ads Compliance Manager** : We process cookies to deliver our interest-based advertising notice and choice program’s opt-out tools to assist with your opt-out choices and to help us measure usage. Our opt-out tool signals companies to not use your browsing behavior to provide interest-based advertising by setting their opt-out cookie in your browser. When you access our preference manager, session cookies will be set by the ad networks listed in our preference manager to honor your preferences if you choose not to receive interest-based advertising. If you clear your browser cookies, this will remove all cookies including the opt-out cookies set by the companies. You will need to re-access the opt-out tool to reset your preferences. Our cookie only knows your last set of preferences and does not reflect the current state of cookies on your browser.
+TrustArc Ads Compliance Manager: We process cookies to deliver our interest-based advertising notice and choice program’s opt-out tools to assist with your opt-out choices and to help us measure usage. Our opt-out tool signals companies to not use your browsing behavior to provide interest-based advertising by setting their opt-out cookie in your browser. When you access our preference manager, session cookies will be set by the ad networks listed in our preference manager to honor your preferences if you choose not to receive interest-based advertising. If you clear your browser cookies, this will remove all cookies including the opt-out cookies set by the companies. You will need to re-access the opt-out tool to reset your preferences. Our cookie only knows your last set of preferences and does not reflect the current state of cookies on your browser.
 
-**TRUSTe Dispute Resolution Program** : We encourage you to use TRUSTe’s [Dispute Resolution Program ](https://www.truste.com/consumer-resources/dispute-resolution/) to report and resolve privacy complaints you may have concerning TRUSTe Certification or Dispute Resolution Program Participants, or to report misuse of TRUSTe trademarks. If you file a privacy-related complaint, we process your name, email, and country location. We will also request that you provide the details that gave rise to your complaint. Any additional personal information you choose to provide in the complaint form is optional.
+TRUSTe Dispute Resolution Program: We encourage you to use TRUSTe’s [Dispute Resolution Program ](https://www.truste.com/consumer-resources/dispute-resolution/) to report and resolve privacy complaints you may have concerning TRUSTe Certification or Dispute Resolution Program Participants, or to report misuse of TRUSTe trademarks. If you file a privacy-related complaint, we process your name, email, and country location. We will also request that you provide the details that gave rise to your complaint. Any additional personal information you choose to provide in the complaint form is optional.
 
 | 
 
 If you are an employee, contractor, job applicant, or former employee:
 
-**Applying to work at TrustArc** : If you apply to work at TrustArc, we process personal information about you and your professional experience, education and training such as your application, your name (and any former names), postal address, email address, phone number, universities attended, academic degrees obtained, grades, professional certifications and licenses, employment history, and curriculum vitae or resume.
+Applying to work at TrustArc: If you apply to work at TrustArc, we process personal information about you and your professional experience, education and training such as your application, your name (and any former names), postal address, email address, phone number, universities attended, academic degrees obtained, grades, professional certifications and licenses, employment history, and curriculum vitae or resume.
 
-**Offer of employment or contractor position** : Prior to making an offer of employment or a contractor position, we process personal information to conduct professional reference checks in accordance with applicable laws. If we extend an offer of employment or a contractor position at TrustArc to you, we will process personal information about the position to which you have been appointed, your job title at TrustArc, the compensation or project-based contractor rate we offer to you, whether you accept the offer, your signature, and your starting compensation or project-based contractor rate, and your start date at TrustArc.
+Offer of employment or contractor position: Prior to making an offer of employment or a contractor position, we process personal information to conduct professional reference checks in accordance with applicable laws. If we extend an offer of employment or a contractor position at TrustArc to you, we will process personal information about the position to which you have been appointed, your job title at TrustArc, the compensation or project-based contractor rate we offer to you, whether you accept the offer, your signature, and your starting compensation or project-based contractor rate, and your start date at TrustArc.
 
-**Employment-Related Background checks** : Prior to commencement of your employment with us, we engage service providers to conduct background checks that involve the necessary personal information processing as permitted by the laws in the location in which you reside and/or work. More details are provided to you in the context of our request to you to complete these checks.
+Employment-Related Background checks: Prior to commencement of your employment with us, we engage service providers to conduct background checks that involve the necessary personal information processing as permitted by the laws in the location in which you reside and/or work. More details are provided to you in the context of our request to you to complete these checks.
 
-**As an employee or contractor of TrustArc** : we may process personal information about your benefits, nationality, residency status, email address, office or other workplace location, work phone number, mobile phone number, photographs, passport, visas, marital status, beneficiaries, emergency contact details, financial account information, social security number or other government-issued identification number, holiday and paid time off days, salary, incentive compensation, TrustArc stock options granted, TrustArc stock ownership, assigned projects, performance against your assigned goals, training completed, any performance improvement plans, any disciplinary actions taken, system accounts, technology and physical assets provided to you, your role and actions taken in connection with TrustArc projects and processes.
+As an employee or contractor of TrustArc: we may process personal information about your benefits, nationality, residency status, email address, office or other workplace location, work phone number, mobile phone number, photographs, passport, visas, marital status, beneficiaries, emergency contact details, financial account information, social security number or other government-issued identification number, holiday and paid time off days, salary, incentive compensation, TrustArc stock options granted, TrustArc stock ownership, assigned projects, performance against your assigned goals, training completed, any performance improvement plans, any disciplinary actions taken, system accounts, technology and physical assets provided to you, your role and actions taken in connection with TrustArc projects and processes.
 
-**If your employment with TrustArc ends** , we process personal information necessary to offboard you from TrustArc, including deactivation of your access to our systems, fulfilling our financial, benefits, and related obligations with respect to the end of your employment with TrustArc.
+If your employment with TrustArc ends, we process personal information necessary to offboard you from TrustArc, including deactivation of your access to our systems, fulfilling our financial, benefits, and related obligations with respect to the end of your employment with TrustArc.
 
-**In certain countries** , supplemental privacy notices will be provided to TrustArc employees and contractors, and where applicable, consent will be obtained, to ensure compliance with local requirements.  
+In certain countries, supplemental privacy notices will be provided to TrustArc employees and contractors, and where applicable, consent will be obtained, to ensure compliance with local requirements.  
   
 Return to Top ↑
 
-**Why do we process personal information?**
+Why do we process personal information?
 
 The reasons that we process about you depend on who you are and how we interact with you.  
   
@@ -128,7 +130,7 @@ The reasons that we process about you depend on who you are and how we interact 
   
 If you are a customer, business partner, or express interest in our solutions:
 
-**If you have a contract** or other agreement in place with us, we process personal information about you in order to fulfill the following obligations to you under that contract or agreement to:
+If you have a contract or other agreement in place with us, we process personal information about you in order to fulfill the following obligations to you under that contract or agreement to:
 
   * Provision your account on our platform;
   * Authenticate you to enable you to access your account on our platform, including additional users of the solution;
@@ -142,9 +144,11 @@ If you are a customer, business partner, or express interest in our solutions:
 
 
 
-**If you have provided your consent** , we process personal information about you to send direct email marketing communications about our solutions. You may withdraw your consent at any time by clicking the “unsubscribe” link in the email communications we send to you. You may also withdraw consent by exercising **Your Rights** as described above.
+If you have provided your consent, we process personal information about you to send direct email marketing communications about our solutions. You may withdraw your consent at any time by clicking the “unsubscribe” link in the email communications we send to you. You may also withdraw consent by exercising Your Rights as described above.
 
-**Our legitimate interests** \- We process personal information about you based on our legitimate business interests for the following purposes, to which you may exercise **Your Rights** to object as described above:
+If you have consented to our recording a telephone call or video conference, we process this information for analytical purposes to improve our training and customer relationship management. For any such telephone calls or video conferences, notice of the recording will be provided in advance and during the meeting. You may decline recording at any time before or during the meeting, and you may request deletion of the recording at any time. All such recorded meetings will be automatically deleted within 180 days.
+
+Our legitimate interests \- We process personal information about you based on our legitimate business interests for the following purposes, to which you may exercise Your Rights to object as described above:
 
   * To renew subscription-based solutions you have licensed based on our legitimate business interest in retaining you as a customer or partner;
   * To provide additional solutions you request based on our legitimate business interest to respond to your reasonable requests and to retain you as a customer or partner;
@@ -156,18 +160,18 @@ If you are a customer, business partner, or express interest in our solutions:
 
 
 
-**Statistical and research purposes** : We may further analyze use of our solutions, and characteristics of the companies that use our solutions (e.g., by size and industry sector) to help us understand and make decisions about customer and market needs, to improve our solutions, to design new solutions, and to inform partnership and business development decisions.
+Statistical and research purposes: We may further analyze use of our solutions, and characteristics of the companies that use our solutions (e.g., by size and industry sector) to help us understand and make decisions about customer and market needs, to improve our solutions, to design new solutions, and to inform partnership and business development decisions.
 
 | 
 
 If you visit the websites and online properties we provide:
 
-**If you have provided your consent** , we process personal information about you to: 
+If you have provided your consent, we process personal information about you to: 
 
   * Share your name or contact information with the TRUSTe Certification or Dispute Resolution Program Participant that is the subject of your privacy-related complaint, however, please be aware that if we cannot share this information, then we may not be able to resolve your complaint.
   * Respond to your individual rights requests.
   * Manage your consent preferences. 
-  * **Ads Interests Manager** : to apply your device-specific interests for both mobile apps and mobile websites, to create a non-permanent unique ID within our platform for the purpose of storing and communicating interests within our internal platform, to communicate and share your interests to advertising and data partners, including whether you want to receive interest-based ads, and to enable advertising and data partners to honor your interests according to the preferences you have set. To learn more about how TrustArc uses your interest data, [click here](https://www.trustarc.com/privacy-policy-interests/). To access and view interest information you have provided or made available to us, [click here](https://mobile.truste.com/mobile/preferences/consumer/0?pid=truste01). Please note, to view your interests you will need to access the link using the same device from which your interests were originally set.
+  * Ads Interests Manager: to apply your device-specific interests for both mobile apps and mobile websites, to create a non-permanent unique ID within our platform for the purpose of storing and communicating interests within our internal platform, to communicate and share your interests to advertising and data partners, including whether you want to receive interest-based ads, and to enable advertising and data partners to honor your interests according to the preferences you have set. To learn more about how TrustArc uses your interest data, [click here](https://www.trustarc.com/privacy-policy-interests/). To access and view interest information you have provided or made available to us, [click here](https://mobile.truste.com/mobile/preferences/consumer/0?pid=truste01). Please note, to view your interests you will need to access the link using the same device from which your interests were originally set.
   * Deliver the resources and information you have requested online.
   * Send direct email marketing communications about our solutions, events and related resources that may be of interest to you.
   * Use cookies and other data collection technologies to help you navigate our website or technical solutions, personalize and provide a more convenient experience to you, analyze which pages you visit, which features you use in our technical solutions, and which consumer privacy tools you use, provide features such as social sharing widgets and videos, measure advertising and promotional effectiveness, assess which areas of our site you visit to remarket to you after you visit our site, and to provide content to you from our third party content partners.
@@ -176,7 +180,7 @@ If you visit the websites and online properties we provide:
 
 You may withdraw your consent at any time by clicking the “unsubscribe” link in the email communications we send to you. You may also withdraw consent by exercising Your Rights as described above, including through our Individual Rights Manager and our Cookie Preferences Manager.
 
-**Our legitimate interests** \- We process personal information about you based on our legitimate business interests for the following purposes, to which you may exercise Your Rights to object as described above:
+Our legitimate interests \- We process personal information about you based on our legitimate business interests for the following purposes, to which you may exercise Your Rights to object as described above:
 
   * To investigate complaints or concerns based on our legitimate interest to ensure that such complaints or concerns are addressed appropriately;
   * To send optional customer satisfaction surveys once your complaint has been resolved based on our legitimate interest to continue to improve our processes;
@@ -187,13 +191,13 @@ You may withdraw your consent at any time by clicking the “unsubscribe” link
 
 
 
-**Statistical and research purposes** : We may further analyze information we gather online to improve the online experience, resources and tools we provide to our users.
+Statistical and research purposes: We may further analyze information we gather online to improve the online experience, resources and tools we provide to our users.
 
 | 
 
 If you are an employee, contractor, job applicant, or former employee:
 
-**If you have a contract** or other agreement with us, we process personal information about you to fulfill the specific obligations we have to you under the applicable contract or agreement such as:
+If you have a contract or other agreement with us, we process personal information about you to fulfill the specific obligations we have to you under the applicable contract or agreement such as:
 
   * Payment of project fees to contractors;
   * Managing performance obligations under employment contracts, where applicable;
@@ -202,7 +206,7 @@ If you are an employee, contractor, job applicant, or former employee:
 
 
 
-**Our legitimate interests** \- we process personal information about you based on our legitimate interests to establish and manage our relationship with and responsibilities to you and for effective operation of our business, such as to:
+Our legitimate interests \- we process personal information about you based on our legitimate interests to establish and manage our relationship with and responsibilities to you and for effective operation of our business, such as to:
 
   * Recruit new talent to join TrustArc;
   * Onboard employees and contractors to TrustArc;
@@ -222,7 +226,7 @@ If you are an employee, contractor, job applicant, or former employee:
 
 
 
-**Statistical and research purposes** : We may further analyze information to evaluate and understand employee engagement and to develop plans to continuously improve our workplace culture.  
+Statistical and research purposes: We may further analyze information to evaluate and understand employee engagement and to develop plans to continuously improve our workplace culture.  
   
 Return to Top ↑
 
@@ -243,13 +247,13 @@ Return to Top ↑
 
 At TrustArc, we only share personal information in ways that we tell you about. We do not sell or rent personal information to third parties and we do not share personal information with third parties that are not owned by us or under our control or direction except as described in this Policy.
 
-**Service providers**. We share personal information with service providers that help us with our business activities. They only are authorized to process that information as necessary and as directed by us.
+Service providers. We share personal information with service providers that help us with our business activities. They only are authorized to process that information as necessary and as directed by us.
 
-**Required by law**. If we are required to disclose personal information as part of a legal process, we will take commercially reasonable steps to inform you as part of that process. _We may also be required to disclose personal information in response to lawful requests by government authorities, including requests from national security agencies or law enforcement._
+Required by law. If we are required to disclose personal information as part of a legal process, we will take commercially reasonable steps to inform you as part of that process. We may also be required to disclose personal information in response to lawful requests by government authorities, including requests from national security agencies or law enforcement.
 
-**Safety, fraud prevention, government requests and protection of our rights** are all reasons where we may share personal information where we believe in good faith it is necessary.
+Safety, fraud prevention, government requests and protection of our rights are all reasons where we may share personal information where we believe in good faith it is necessary.
 
-**Mergers, acquisitions, divestitures, or asset sales** but only if the acquiring organization agrees to this Policy’s protections.
+Mergers, acquisitions, divestitures, or asset sales but only if the acquiring organization agrees to this Policy’s protections.
 
 Return to Top ↑
 
@@ -283,7 +287,7 @@ Return to Top ↑
 
 Business information - In the course of using our solutions, we may ask you to provide business information related to the company where you work. Business information may include information about your company’s practices, policies, processes, and supporting documentation. This business information is stored on TrustArc systems, and we use it to provide the solutions you have contracted us to provide and in accordance with the terms and conditions set forth in agreements between TrustArc and your company,
 
-_Links to other websites_ \- This Policy applies only to TrustArc practices, technologies, and services. Our online properties may include links to websites and online services that are operated by other companies not under the control or direction of TrustArc. If you provide or submit personal information to those websites or online services, the privacy policies on those websites or online services apply to your personal information. We encourage you to carefully read the privacy policies of any website you visit.
+Links to other websites \- This Policy applies only to TrustArc practices, technologies, and services. Our online properties may include links to websites and online services that are operated by other companies not under the control or direction of TrustArc. If you provide or submit personal information to those websites or online services, the privacy policies on those websites or online services apply to your personal information. We encourage you to carefully read the privacy policies of any website you visit.
 
 Return to Top ↑
 
