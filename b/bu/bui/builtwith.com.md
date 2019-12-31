@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the builtwith.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224143id_/https%3A//builtwith.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtwith.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231234224id_/https%3A//builtwith.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **PRIVACY POLICY AS DATA CONTROLLER**
 
 Effective: 1st May 2018  
-Last Updated: 1st September 2018
+Last Updated: 21st August 2019
 
 This privacy policy applies to builtwith.com owned and operated by BuiltWith Pty Ltd ("BuiltWith","we","us","our"). This privacy policy describes how BuiltWith collects, uses, shares and secures personal information you provide. It also describes your choices regarding use, access and correction of your personal information.
 
 TL;DR
 
-We collect your email address and IP address, store them securely and have a few third parties that need to see that data for email deliverability, fraud prevention and payment processing.
+We collect and store your email address if you consent to us doing that. We store it securely and have a few third parties that need to see that data for email deliverability, fraud prevention and payment processing.
 
 DIRECT COLLECTION AND PROCESSING OF PERSONAL DATA
 
@@ -29,13 +29,28 @@ FAILURE TO PROVIDE CONSENT
 
 The provision of consent is optional. However failure to provide consent for a. and b. above will render it impossible to use BuiltWith internet services as we require your email to allow you to login and enable your account.
 
+COOKIE POLICY
+
+We don't use cookies if you don't use any of the logged in features of BuiltWith.
+
+Our website uses cookies to allow us to identify you when you have logged in to your account.
+
+Cookie Name | Description  
+---|---  
+BWSSON| Encrypted cookie identifying your account.  
+ASP.NET_SessionId| Current session identification cookie.  
+  
+We do embed videos from Vimeo, they might set cookies; view their cookie policy here - https://vimeo.com/cookie_policy
+
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block our cookies you will not be able to login to BuiltWith.
+
 SERVICE PROVIDER THIRD PARTIES WHO MAY PROCESS YOUR DIRECT PERSONAL DATA
 
 Our sharing of your personal data is very limited and a requirement for us to operate BuiltWith. All third parties are listed below.
 
 The email addresses that provide consent will be processed by 3rd party email delivery service provider Postmark. See their privacy page here - https://postmarkapp.com/eu-privacy
 
-If you sign up for payment with credit card your personal details will be processed by Braintree/PayPal, see their privacy policy here - https://www.paypal.com/en/webapps/mpp/ua/privacy-full
+If you sign up for payment with credit card and/or PayPal your personal details will be processed by Braintree/PayPal, see their privacy policy here - https://www.paypal.com/en/webapps/mpp/ua/privacy-full
 
 If you sign up for payments with Cryptocurrency through Coinbase your email may be processed by Coinbase, see their privacy policy here - https://www.coinbase.com/legal/privacy?locale=en
 
@@ -47,11 +62,15 @@ INDIRECT COLLECTION AND PROCESS OF PERSONAL DATA
 
 Indirectly we will collect your IP address based on the system you use to access our website via our secure web servers logging system. We collect this information for the purposes of detecting and preventing fraud and unauthorized access and maintaining the security of our systems. We will use but not collect/store your geolocation based on your IP address to personalize your experience of using the BuiltWith website.
 
-BuiltWith uses Google Analytics for visitor tracking. We also use Google reCAPTCHA for fraud prevention which may collect your IP address for law enforcement requirements. See their privacy page here- https://policies.google.com/privacy
+We use Google reCAPTCHA for fraud prevention which may collect your IP address for law enforcement requirements. See their privacy page here- https://policies.google.com/privacy.
+
+We use Vimeo to display videos see their cookie policy here - https://vimeo.com/cookie_policy
+
+We use Firebase to send alerts if you enable this feature. See their privacy page here - https://firebase.google.com/support/privacy
 
 SECURITY AND DATA CENTER LOCATION
 
-BuiltWith Pty Ltd is PCI DSS compliant – as monitored by Security Metrics. BuiltWith data centers are ISO/IEC 27001 certified, SOC 1 Type II and SOC 2 Type II certified. Servers that process personal data are HSTS enabled, ensuring end-to-end encryption of your information.
+BuiltWith Pty Ltd is PCI DSS as monitored by ImmuniWeb. BuiltWith data centers are ISO/IEC 27001 certified, SOC 1 Type II and SOC 2 Type II certified. Servers that process personal data are HSTS enabled, ensuring end-to-end encryption of your information.
 
 Our short term encrypted backups are stored at Dropbox, ISO 27018 certified data center. See their privacy policy here - https://www.dropbox.com/privacy
 
