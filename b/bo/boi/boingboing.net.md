@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624220050id_/https%3A//boingboing.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231234844id_/https%3A//boingboing.net/privacy) for the most accurate reproduction.*
 
 # Boing Boing
 
 _
 
-Effective: Jun. 27, 2013 (updated: Jan. 1, 2015; Feb. 17, 2015, Dec. 20, 2016, April 4, 2018)
+Effective: Jun. 27, 2013 (updated: Jan. 1, 2015; Feb. 17, 2015, Dec. 20, 2016, April 4, 2018, July 25, 2019)
 
 _
 
@@ -94,7 +94,7 @@ We use Google Analytics to help us understand how you engage with our site so th
 
 2\. Social Media Widgets
 
-We display sharing buttons so you can use social networking to share items from our site. This includes [Rune](https://www.secretrune.com/privacy-policy), which allows us to understand what content you thought was worth sharing.
+We display sharing buttons so you can use social networking to share items from our site. 
 
 It also includes the Facebook recommend button and other interactive mini-programs that run on our site that collect your IP address, which page you are visiting on our site, and sets a cookie to enable the widget to function properly. Your interactions with these Widgets are governed by the privacy policy of the company providing them, not by this Privacy Policy.
 
@@ -111,9 +111,9 @@ when you make a purchase on Amazon.com, Etsy.com ([privacy policy](https://www.e
 
 ## Advertising
 
-1\. Digital Trends
+1\. Freestar
 
-We partner with [Digital Trends](http://www.digitaltrends.com/) to provide third-party advertising. Digital Trends, and the companies that it contracts with to serve ads may place or recognize unique cookies on your browser and use information about your visits to this and other sites to provide advertisements on this and other sites. We do not share any personal information with Digital Trends (like your email address). DT's [privacy policy](https://www.digitaltrends.com/privacy-policy/) and [terms of service](https://www.digitaltrends.com/terms-of-use/) are available to review.
+We partner with [Freestar](http://www.freestar.com/) to provide third-party advertising. Freestar, and the companies that it contracts with to serve ads may place or recognize unique cookies on your browser and use information about your visits to this and other sites to provide advertisements on this and other sites. We do not share any personal information with Freestar (like your email address). Freestar's [ platform privacy policy](https://freestar.com/privacy-policy/) and [website privacy policy](https://freestar.com/data-policy/) are available to review.
 
 2\. “Other”
 
