@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tvtropes.org privacy policy that was archived on 2019-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630050009id_/https%3A//tvtropes.org/pmwiki/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tvtropes.org privacy policy that was archived on 2019-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191231214524id_/https%3A//tvtropes.org/pmwiki/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head lang="en">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -40,7 +40,7 @@
                 propertag.cmd = [];
             </script>
 <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://static.tvtropes.org/design/assets/bundle.css?rev=269">
+<link rel="stylesheet" href="https://static.tvtropes.org/design/assets/bundle.css?rev=282">
 <script>
                 function object(objectId) {
                     if (document.getElementById && document.getElementById(objectId)) {
@@ -155,8 +155,18 @@
 
                 }
 
+
+                if (document.cookie.indexOf("scroll0=") < 0) {
+                    // do nothing
+                } else {
+                    console.log('ads removed by scroll.com');
+                    var adsRemovedWith = 'scroll';
+                    var style = document.createElement('style');
+                    style.innerHTML = '#header-ad, .proper-ad-unit, .square_ad, .sb-ad-unit { display: none !important; } ';
+                    document.head.appendChild(style);
+                }
             </script>
-<script async="" src="https://static.tvtropes.org/design/assets/bundle.js?rev=269"></script></head>
+<script async="" src="https://static.tvtropes.org/design/assets/bundle.js?rev=282"></script></head>
 <body class="">
 <i id="user-prefs" class="browser-chrome"></i>
 <script>updateUserPrefs();</script>
@@ -200,8 +210,8 @@
 <a href="#close-search" class="mobile-on mobile-search-toggle close-x"><i class="fa fa-close"></i></a>
 </div>
 <div id="random-box">
-<a href="/pmwiki/pmwiki.php/Main/Facecam" class="button-random-trope" rel="nofollow" onclick="ga('send', 'event', 'button', 'click', 'random trope');"></a>
-<a href="/pmwiki/pmwiki.php/Webcomic/TheFarSideofUtopia" class="button-random-media" rel="nofollow" onclick="ga('send', 'event', 'button', 'click', 'random media');"></a>
+<a href="/pmwiki/pmwiki.php/Main/MagnumOpus" class="button-random-trope" rel="nofollow" onclick="ga('send', 'event', 'button', 'click', 'random trope');"></a>
+<a href="/pmwiki/pmwiki.php/Film/Waiting" class="button-random-media" rel="nofollow" onclick="ga('send', 'event', 'button', 'click', 'random media');"></a>
 </div>
 </div>
 </div>
@@ -589,16 +599,39 @@ We reserve the right to make changes to this policy. Any changes to this policy 
 <h1 id="overlay-title"></h1>
 <p id="overlay-descrip" class="_pmvv-vidbox-descTxt">
 </p>
+<div class="rating-row" data-video-id="">
+<input type="hidden" name="is_logged_in" value="0">
+<p>How well does it match the trope?</p>
+<div id="star-rating-group">
+<div class="trope-rate">
+<input type="radio" id="lamp5" name="rate" value="5">
+<label for="lamp5" title="Absolutely"></label>
+<input type="radio" id="lamp4" name="rate" value="4">
+<label for="lamp4" title="Yes"></label>
+<input type="radio" id="lamp3" name="rate" value="3">
+<label for="lamp3" title="Kind of"></label>
+<input type="radio" id="lamp2" name="rate" value="2">
+<label for="lamp2" title="Not really"></label>
+<input type="radio" id="lamp1" name="rate" value="1">
+<label for="lamp1" title="No"></label>
+</div>
+<div id="star-rating-total">
+</div>
+</div>
+</div>
+<div class="example-media-row">
 <div class="example-overlay">
 <p>Example of:</p>
 <div id="overlay-trope"> / </div>
 </div>
 <div class="media-sources-overlay example-overlay">
+<p>Media sources:</p>
 <div id="overlay-media"> / </div>
+</div>
 </div>
 <p class="_pmvv-vidbox-stats text-right font-s" style="padding-top:8px; border-top: solid 1px rgba(255,255,255,0.2)">
 
-<a href="#video-feedback" class="float-right" data-modal-target="login">Feedback</a>
+<a href="#video-feedback" class="float-right" data-modal-target="login">Report</a>
 </p>
 </div>
 </div>
@@ -620,12 +653,16 @@ We reserve the right to make changes to this policy. Any changes to this policy 
         var snoozed = cookies.read('snoozedabm');
         var snoozable = "";
 
+        if (adsRemovedWith) {
+            live_ads = 0;
+        }
+
                     var adblock_check = snoozed && snoozable ? false : true;
         
         var elem = document.createElement('script');
         elem.async = true;
 
-        elem.src = 'https://static.tvtropes.org/design/assets/bundle.js?rev=269';
+        elem.src = 'https://static.tvtropes.org/design/assets/bundle.js?rev=282';
 
         elem.onload = function() {
                                  }
