@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lynda.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630173647id_/https%3A//www.lynda.com/aboutus/otl-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lynda.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231060841id_/https%3A//www.lynda.com/aboutus/otl-privacy.aspx) for the most accurate reproduction.*
 
 # lynda.com Online Training Library®: Privacy
-
-**View a[summary](https://www.lynda.com/aboutus/privacy-policy-summary) of the main changes.**
 
 If you reside in the United States, then the personal data provided to, or collected by, our Services is controlled by LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale, California 94085. If you reside outside the United States, then this personal data is controlled by LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Ireland. **If you have any concern about providing information to us or having such information used in any manner permitted in this Privacy Policy, you should not visit our websites, apps or otherwise use our Services.**
 
@@ -176,5 +174,3 @@ Wilton Place, Dublin 2
 Ireland
 
 If contacting us does not resolve your complaint you have more options. Residents in Designated Countries may also have the right to contact our Data Protection Officer at [EU-dpo@linkedin.com](mailto:EU-dpo@linkedin.com).
-
-Residents in Designated Countries may have additional rights under their laws. [Learn more](https://www.lynda.com/aboutus/privacy-policy-learn-more).
