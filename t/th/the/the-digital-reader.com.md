@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-digital-reader.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624081521id_/https%3A//the-digital-reader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-digital-reader.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231220606id_/https%3A//the-digital-reader.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Digital Reader
 
