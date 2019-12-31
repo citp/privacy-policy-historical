@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629143313id_/http%3A//www.nist.gov/public_affairs/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231120643id_/https%3A//www.nist.gov/privacy-policy%23privpolicy) for the most accurate reproduction.*
 
-# Privacy Statement/SecurityNotice/Accessibility Statement
+# Privacy Statement/Security Notice/Accessibility Statement | NIST
 
-[*](https://web.archive.org/public_affairs/disclaimer.cfm) |  [](https://www.addthis.com/bookmark.php?v=300&pub=usnistgov)  
----|---  
-  
-
-
-Privacy Policy | Cookie Disclaimer | Security Notice | Accessibility Statement | [NIST Privacy Impact Assessments](https://web.archive.org/director/oism/policies.cfm)
+Privacy Policy | Cookie Disclaimer | Security Notice | Accessibility Statement
 
 * * *
 
@@ -17,7 +12,7 @@ Thank you for visiting the National Institute of Standards and Technology Web si
 
 Here is how we handle information about your visit to our Web site.
 
-**Cookies:** To better serve our visitors, we use technology to track new and returning visitors actions while on the website. These small files are commonly referred to as "cookies." Our cookies do not contain any personally-identifiable information. Our web measurement applications compare the behavior of new and returning visitors in the aggregate to help us identify work flows and trends and also resolve common problems on our site.
+**[]()Cookies:** To better serve our visitors, we use technology to track new and returning visitors actions while on the website. These small files are commonly referred to as "cookies." Our cookies do not contain any personally-identifiable information. Our web measurement applications compare the behavior of new and returning visitors in the aggregate to help us identify work flows and trends and also resolve common problems on our site.
 
 Cookies are small files that Web servers place on a user's hard drive. They can serve several functions:
 
@@ -30,7 +25,7 @@ Cookies are small files that Web servers place on a user's hard drive. They can 
 
 
 
-We will retain data the technology makes available only as long as required by law, or specific program need as specified by the National Archives and Records Administration’s General Records Schedule 20, which pertains to Electronic Records or other approved records schedule as applicable.
+We will retain data the technology makes available only as long as required by law, or specific program need as specified by the National Archives and Records Administration's General Records Schedule 20, which pertains to Electronic Records or other approved records schedule as applicable.
 
 If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. You can remove or block the use of web measurement and customization technologies by changing the setting of your browser to block cookies as described at <http://www.usa.gov/optout_instructions.shtml>.
 
@@ -38,7 +33,7 @@ Currently, we are also using session cookies as part of a Web customer satisfact
 
 **Information collected and stored automatically:** If you do nothing during your visit but browse through the Web site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store information like the following concerning your visit:
 
-  * The Internet domain (for example, “xcompany.com” if you use a private Internet access account or “yourschool.edu” if you connect from a university’s domain);
+  * The Internet domain (for example, "xcompany.com" if you use a private Internet access account or "yourschool.edu" if you connect from a university's domain);
   * Your IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our Web site;
   * The type of browser and operating system used to access our site;
   * The date and time you access our site;
@@ -49,11 +44,11 @@ Currently, we are also using session cookies as part of a Web customer satisfact
 
 We use this information to help us make our site more useful to visitors, to learn about the number of visitors to our site, and the types of technology our visitors use. We do not track or record information about individuals and their visits.
 
-**Information protection:** For site security purposes and to ensure that this service remains available to all users, this Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. If such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act or other law.
+[]()**Information protection:** For site security purposes and to ensure that this service remains available to all users, this Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. If such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act or other law.
 
 **Information that you voluntarily provide:** We do not collect personally identifiable information unless you choose to provide it to us. If you provide us with personally identifiable information, for example, by sending an e-mail or by filling out a form and submitting it through our Web site, we use that information to respond to your message and to help us provide you with the information and services that you request. All uses of that information are described on the Web page containing the form.
 
-Submitting voluntary information constitutes your consent to the use of the information for the stated purpose. When you click the “Submit” button on any of the Web forms found on our sites, you are indicating your voluntary consent to use of the information you submit for the purpose stated.
+Submitting voluntary information constitutes your consent to the use of the information for the stated purpose. When you click the "Submit" usa-button on any of the Web forms found on our sites, you are indicating your voluntary consent to use of the information you submit for the purpose stated.
 
 **How information is used:** The information we collect is used for a variety of purposes (e.g., to register you for a conference, to respond to requests for information, and to fill orders). We make every effort to disclose clearly how information is used at the point where it is collected so you can determine whether you wish to provide the information.
 
@@ -61,16 +56,27 @@ Submitting voluntary information constitutes your consent to the use of the info
 
 Also, NIST is not responsible for the privacy practices employed by non-NIST sites that may link to the NIST web site or non-NIST sites hosted on NIST computers (e.g. web sites of professional organizations.
 
-**Interaction with children:** This Web site offers some educational content to children under 13. No personally identifiable information is collected from these visitors unless voluntarily submitted as a request for information or services. The information supplied is used to respond to the user’s inquiries or to provide services requested by the user.
+**Interaction with children:** This Web site offers some educational content to children under 13. No personally identifiable information is collected from these visitors unless voluntarily submitted as a request for information or services. The information supplied is used to respond to the user's inquiries or to provide services requested by the user.
 
 **Links to other sites:** Our Web site contains links to various other federal agencies and private organizations. Once you link to another site, you are then subject to the privacy policies of the new site. It is always a good idea to read the Privacy Policy of any site you visit.
 
-Your right under the Privacy Act: Information on the Privacy Act can be found on the following web site: <http://www.usa.gov/Topics/Reference-Shelf/FOIA.shtml>.
+Your right under the Privacy Act: Information on the Privacy Act can be found on the [website](http://www.osec.doc.gov/opog/privacyact/default.html).
 
-**Accessibility:** The National Institute of Standards and Technology is committed to making its web sites accessible to all NIST customers and staff in accordance with provisions of Section 508 of the Rehabilitation Act Amendments of 1998.
+[]()**Accessibility:** The National Institute of Standards and Technology is committed to making its web sites accessible to all NIST customers and staff in accordance with provisions of Section 508 of the Rehabilitation Act Amendments of 1998.
 
-If you have difficulty obtaining information from any NIST Web site, please contact [inquiries@nist.gov](mailto:inquiries@nist.gov) to get the material in another format. You should provide the URL of the Web site referencing that information.
+If you have difficulty obtaining information from any NIST Web site, please contact inquiries [at] nist.gov to get the material in another format. You should provide the URL of the Web site referencing that information.
 
-If you have any 508-related questions, comments, or suggestions for improvement, please contact the NIST Office of the Chief Information Officer by email at [nistcio@nist.gov](mailto:nistcio@nist.gov).
+If you have any 508-related questions, comments, or suggestions for improvement, please contact the NIST Office of the Chief Information Officer by email at nistcio [at] nist.gov.
 
-**See** [**NIST disclaimer**](https://web.archive.org/public_affairs/disclaimer.cfm).
+**See** [**NIST disclaimer**](https://www.nist.gov/property-fieldsection/nist-disclaimer-statement).
+
+**Plug-ins and File Viewers:**  The following plug-ins and viewers are free of charge and provide software that enable people to view some of the file types posted on NIST.gov. NIST does not endorse any of these products and does not control or guarantee the accuracy, relevance, timeliness, or completeness of these outside links. Questions about the particular plug-in or file viewer should be directed to the respective vendor.
+
+_Adobe Acrobat_  
+Use [Adobe Acrobat](https://get.adobe.com/reader/) to read Portable Document Format (PDF) files.
+
+_Microsoft Word, Excel, and PowerPoint_  
+Microsoft offers file viewer and converter programs to enable those who do not have Microsoft products to open and view files.
+
+_WinZip_  
+Zip files are single files, sometimes called "archives", that contain one or more compressed files. Files with this extension (.zip) require [WinZip](http://www.winzip.com/win/en/downwz.html), to open and extract them.
