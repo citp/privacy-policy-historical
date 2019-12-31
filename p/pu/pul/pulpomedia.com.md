@@ -1,6 +1,32 @@
-> *The following text is extracted and transformed from the pulpomedia.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308110914id_/https%3A//www.pulpo.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulpomedia.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231183541id_/https%3A//www.pulpo.com/privacy-policy) for the most accurate reproduction.*
 
-# Pulpo, an Entravision Company » Privacy Policy
+# Privacy Policy – Pulpo, an Entravision Company
+
+This website is owned or managed by Pulpo Media, Inc., an Entravision company, and Luminar Insights (together referred to in this Privacy Policy as “Pulpo”, the “Company”, “us,” “our,” and “we”). As part of the Company’s services, we deliver advertisements from various advertisers across a network of online and mobile websites and applications that are owned or operated by us, our affiliates or third parties with whom we do business (“Sites”). For more information about the Company and our services, please see our websites at [www.pulpo.com](https://www.pulpo.com/).
+
+This Privacy Policy covers the information that we collect from your interactions with us on the Sites and our practices for collecting, using, maintaining, protecting, and disclosing that information, including for the purposes of online behavioral advertising. Online behavioral advertising, or interest-based advertising, generally refers to the collection of information online for the purpose of delivering advertising based on the interests of consumers. To learn more about online behavioral advertising, please visit the Digital Advertising Alliance website at [www.aboutads.info/consumers/](http://www.aboutads.info/consumers/).
+
+This Privacy Policy applies to the services offered by Pulpo, including the Sites, mobile services and any other features, content, services, or applications offered from time to time by Pulpo in connection with the Sites (collectively, the “Services”). This Privacy Policy does not apply to information collected by us offline or through any other means, including on any other website operated by Pulpo that does not link to this Privacy Policy. This Privacy Policy does not apply to additional information that we collect from other sources.
+
+We provide this Privacy Policy to explain the type of information we collect and also to inform you of the specific practices and guidelines that protect the security and confidentiality of your personal data. Please read this Privacy Policy carefully. Please note that this Privacy Policy is incorporated into our Terms of Use, which also applies when you visit or use Services related to our Sites. If any term in this Privacy Policy is unacceptable to you, please do not use the Sites or provide any personal data. By accessing or using the Sites or the Services, you signify your acknowledgment of this Privacy Policy and consent to our practices as described herein.
+
+This Privacy Policy may change from time to time. Visiting the Sites or using our Services after we make any changes to this Privacy Policy will be considered to be an acceptance of and consent to those changes. Please check this Privacy Policy periodically for updates. If Pulpo materially changes its practices regarding collection or use of your personal data, your personal data will continue to be governed by the Privacy Policy under which it was collected unless you have been provided notice of, and have not objected to, the change.
+
+We adhere to the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising and the Code of Conduct of the Network Advertising Initiative (NAI). This website is owned or managed by Pulpo Media, Inc., an Entravision company, and Luminar Insights (together referred to in this Privacy Policy as “Pulpo”, the “Company”, “us,” “our,” and “we”). As part of the Company’s services, we deliver advertisements from various advertisers across a network of online and mobile websites and applications that are owned or operated by us, our affiliates or third parties with whom we do business (“Sites”).
+
+For more information about the Company and our services, please see our websites at [www.pulpo.com](https://www.pulpo.com/).
+
+This Privacy Policy covers the information that we collect from your interactions with us on the Sites and our practices for collecting, using, maintaining, protecting, and disclosing that information, including for the purposes of online behavioral advertising. Online behavioral advertising, or interest-based advertising, generally refers to the collection of information online for the purpose of delivering advertising based on the interests of consumers. To learn more about online behavioral advertising, please visit the Digital Advertising Alliance website at [www.aboutads.info/consumers/](http://www.aboutads.info/consumers/).
+
+This Privacy Policy applies to the services offered by Pulpo, including the Sites, mobile services and any other features, content, services, or applications offered from time to time by Pulpo in connection with the Sites (collectively, the “Services”). This Privacy Policy does not apply to information collected by us offline or through any other means, including on any other website operated by Pulpo that does not link to this Privacy Policy. This Privacy Policy does not apply to additional information that we collect from other sources.
+
+We provide this Privacy Policy to explain the type of information we collect and also to inform you of the specific practices and guidelines that protect the security and confidentiality of your personal data. Please read this Privacy Policy carefully. Please note that this Privacy Policy is incorporated into our Terms of Use, which also applies when you visit or use Services related to our Sites. If any term in this Privacy Policy is unacceptable to you, please do not use the Sites or provide any personal data. By accessing or using the Sites or the Services, you signify your acknowledgment of this Privacy Policy and consent to our practices as described herein.
+
+This Privacy Policy may change from time to time. Visiting the Sites or using our Services after we make any changes to this Privacy Policy will be considered to be an acceptance of and consent to those changes. Please check this Privacy Policy periodically for updates. If Pulpo materially changes its practices regarding collection or use of your personal data, your personal data will continue to be governed by the Privacy Policy under which it was collected unless you have been provided notice of, and have not objected to, the change.
+
+We adhere to the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising and the Code of Conduct of the Network Advertising Initiative (NAI).
+
+## TYPES OF INFORMATION WE COLLECT AND HOW WE COLLECT IT
 
 We collect several types of information from and about users of our Sites, which may include information defined as personal data or personally identifiable information under an applicable law (“Personal Data”). For example, we may collect information such as your name, birth date, gender, county, zip code, e-mail address, telephone number, address, job title, company/organization name, current supplier status, social media credentials (including profiles when you subscribe to specific websites), and information related to inquiries and requests. We also may collect information about the internet connection and equipment you use to access our Sites. As you navigate through the Sites, we may automatically collect information such as your usage details, IP addresses, and information collected through cookies.
 
@@ -64,7 +90,7 @@ Determine the frequency of user visits and last date of visit.
 
 We may share this information, and other non-Personal Data, with advertisers or other third parties that are not part of the Pulpo family on an aggregate or other basis that does not disclose your identity or contact information. We may also obtain Personal Data and make it Non-Personal Data by, for example, removing personally identifiable elements (such as your name) or by aggregating Personal Data with information about other individuals in order to “anonymize” or “de-identify” the information. We may also augment the Personal Data and Non-Personal Data we collect with information from other sources, including, for example, zip code, age, gender, language preference or income range in order to generate aggregate information that reflects activities, habits, preferences, or interests about our users as a group. We do not knowingly collect, use or share any financial account numbers or social security numbers for purposes of online behavior advertising without your specific consent.
 
-### How we use your information
+HOW WE USE YOUR INFORMATION
 
 Pulpo will only use your Personal Data you provide in a manner that is consistent with this Privacy Policy. If Pulpo obtains Personal Data from a third party, such as a business partner, our use of that information is also governed by this Privacy Policy. To enhance Pulpo’s ability to tailor the Sites to your preferences, we may combine information that you provide us on registration and other online sign-up forms with other information about you that we may obtain. Except where it is required by law, we may use non-Personal Data without restriction.
 
@@ -157,3 +183,113 @@ With third-parties regarding specific registration modules, like survey, contest
 When necessary to support certain functions and features of our Sites. For example, this may occur at a feature that enables you, via our Sites, to ask questions of persons or entities that are not part of the Pulpo family. By responding to those features of the Sites, whether by email or direct entry of information on our Sites, you are consenting to our transferring that information to such persons or entities.
 
 To comply with the law or a legal process, such as a court order or any regulatory proceeding.
+
+JURISDICTION AND CROSS-BOARDER TRANSFERS OF PERSONAL DATA
+
+The Sites and Services are intended for use in North America and Latin America. The data that we collect from you will be transferred to, and stored and processed in, the United States. Please note that the data protection and privacy laws of the United States may not be as protective as the laws in your country.
+
+We will take all steps reasonably necessary to ensure that your data is treated securely and subject to appropriate safeguards in accordance with this Privacy Policy and applicable legislation.
+
+DATA SECURITY
+
+Pulpo employs commercially reasonable security measures consistent with standard industry practice for information collected through the Sites. We believe that we have adequate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of the information we collect on our Sites. We also use internal protections to limit access to users’ Personal Data to only those employees who need the information to perform a specific job. You should be aware that the Internet is inherently susceptible to security failures beyond Pulpo’s control, and you should keep this in mind when communicating any information.
+
+THIRD PARTY LINKS
+
+This Pulpo Sites may contain links to websites operated by third parties. Pulpo does not monitor or control these sites and makes no representations regarding these links. Pulpo is not liable or responsible for the accuracy, completeness, timeliness, reliability or availability of any of the content uploaded, displayed, or distributed, or products or services available at these sites. If you choose to access any third-party site, you do so at your own risk. The presence of a link to a third-party site does not constitute or imply Pulpo’s endorsement, sponsorship, or recommendation of the third party or of the content, products, or services contained on, or available through, that site.
+
+COOKIE POLICY
+
+This Pulpo Sites may use a standard technology called a “cookie” to collect information about how you use the Sites. Cookies are small bits of information that Pulpo places on your computer. Pulpo uses the cookies to identify your Internet browser, store your preferences, and to determine whether you have installed the enabling software needed to access certain material on the Services. Cookies also help our Sites to recognize your computer’s browser as a previous visitor. This information allows us to customize delivery of information. We use cookies only to gather information as indicated in this Privacy Policy. We may use cookies, for example:
+
+To save and remember registration information or preferences that you may have set while browsing the Sites.
+
+To deliver content specific to your interests.
+
+To save your password so you don’t have to re-enter it each time you visit our Sites.
+
+We may also use “session cookies” which helps us administer the Sites. The session cookie expires when you close your browser and does not retain any information about you after it expires.
+
+Third-party advertisements displayed on the Services may also contain cookies set by Internet advertising companies or advertisers. Pulpo does not control these cookies and users of the Services should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies.
+
+You can program your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on the Services.
+
+This Pulpo Sites may be linked to Internet sites operated by other companies. Some of these third-party sites may be co-branded with the Pulpo logo or an affiliated entity, even though they are not operated or maintained by Pulpo (for example, co-sponsored chat pages, or advertising sponsor pages). The Pulpo Sites may also carry advertisements from other companies. Pulpo is not responsible for the privacy practices of websites operated by third parties that are linked to or integrated with the Pulpo Sites or for the privacy practices of third parties or Internet advertising companies. Once you’ve left the Pulpo Sites by such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third parties or advertiser website to determine how they will handle any Personal Data they collect from you.
+
+Some of the advertisements that appear on Pulpo are delivered to you by third party Internet advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to or use of our Services, including information about the ads they display, via a cookie placed on your computer that reads your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, see their individual websites.
+
+GOOGLE ANALYTICS
+
+Pulpo uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies, which are text files placed on your computer, to help the Sites analyze how users use the Sites. The information generated by the cookie about your use of the Sites will be transmitted to and stored by Google on servers in the United States. Google will use this information on behalf of us as the operator of the Sites for the purpose of evaluating your use of the Sites, compiling reports on Sites activity for Sites operators and providing them other services relating to Sites activity and internet usage. The data collected through these tools is not tied to any Personal Data about you.
+
+In case IP anonymization is activated on the Sites, your IP address will be truncated within the area of Member States of the European Union (“EU”) or other parties to the Agreement on the European Economic Area (“EEA”). Only in exceptional cases, will the whole IP address be first transferred to a Google server in the United States and truncated there. The IP anonymization is active on the Sites. The IP address that your browser conveys within the scope of Google Analytics will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser; however, please note that if you do this you may not be able to use the full functionality of the Sites.
+
+By using the Sites, you expressly consent to the use of Google Analytics on your activities on the Sites. You also can opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Add-on for your current web browser: (click here).
+
+OPTING OUT OF INFORMATION COLLECTION
+
+You can opt-out of having the Company collect or use information about you for online behavior advertising by clicking here or going to the website [www.tentaculos.net/opt-out/](http://www.tentaculos.net/opt-out/) and following the instructions, and we will place an opt-out cookie on your computer. You may also use the NAI opt out tool by clicking here or going to the website [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). The opt-out process is computer, device and browser specific and therefore must be repeated on each computer, device and browser that you use (for example, from within INTERNET EXPLORER AND FIREFOX). Please note that deleting, blocking or otherwise restricting cookies on your computer or device may delete our opt-out cookie and require you to renew your opt-out choice.
+
+Many browsers can be modified to prevent automatic acceptance and notify you every time a cookie is sent to you or to allow you to choose not to receive cookies at all. If you wish to change the settings on your browser to block cookies, please follow the instructions applicable to the web browser that you are using.
+
+BANNER ADVERTISING
+
+We may license ad-server software from another company to place banner advertising on our Sites. All of the data provided and generated by the ad-server software remains in our possession and no data is transferred to the licensor of the software. This feature of our Sites may, on occasion, set “cookies” on your computer. Any information collected or stored by the ad-service or the cookies is treated in the same manner as other information as described in this statement.
+
+CHOICES ABOUT HOW WE USE AND DISCLOSE YOUR INFORMATION
+
+Pulpo strives to provide you with choices regarding the Personal Data you provide us. We have created mechanisms to provide you with the following control over your information:
+
+Cookie Settings: If you do not wish for us to install cookies on your device for the purposes described above, you may change the settings on your browser to block or limit cookies. For more information, please see <http://www.aboutads.info/consumers>. Please note that if you block or limit cookies, you may not be able to use all of the features of the Sites.
+
+Do Not Track Signals: We do not currently respond to “do not track” signals.
+
+Opt Out of Receiving Email Message: This Pulpo Sites provides you the opportunity to opt-out of receiving email communications from us and our special relationship partners. To opt-out of receiving email communications, you:
+
+May use the unsubscribe link provided in promotional communications;
+
+May modify your registered user information on our Sites; or
+
+Opt Out of Receiving Promotional Materials: If you receive promotional materials from Pulpo, and want to stop receiving such materials, click the unsubscribe link at the bottom of each promotional email.
+
+CHILDREN UNDER THE AGE OF 16
+
+Our Sites is not intended for children under 16 years of age, and Pulpo does not knowingly collect or use any Personal Data from children under the age of 16. No one under the age of 16 may provide any information to or on the Sites. If we learn we have collected or received Personal Data from a child under the age of 16, we will delete that information. If you believe we might have any information from or about a child under the age of 16, please contact us at [privacy@pulpomedia.com](mailto:privacy@pulpomedia.com).
+
+CALIFORNIA PRIVACY RIGHTS
+
+Under California Civil Code section 1798.83, California residents who have an established business relationship with us are entitled to ask us for a notice describing the types of Personal Data we have shared with third parties for those parties’ direct marketing purposes during the preceding calendar year. That notice will identify the categories of information shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. If you are a California resident and would like to request a copy of this notice, please submit a written request to:
+
+General Counsel
+
+c/o Legal Department
+
+Entravision Communications Corporation
+
+2425 Olympic Boulevard
+
+Suite 6000 West
+
+Santa Monica, CA 90404
+
+SECURITY AND RETENTION
+
+We employ reasonable measures to protect the security of information that we collect. Unfortunately, no transmission of information and no data storage can be guaranteed to be completely secure and unauthorized access to data, hardware or software failure, and other factors may compromise data security. As a result, while we strive to protect your Personal Data, we cannot guarantee or warrant the security of any such information, and you provide any information, including Personal Data, at your own risk.
+
+We retain Personal Data for a maximum of six months from the last time a user is tracked to fulfill the delivery of advertising; administer transactions; conduct research and analysis, product development and reporting; comply with the law or legal process; protect or defend the legal rights of the Company, its employees, agents, advertisers, publishers or other contractors (including enforcement of agreements); protect against fraud or for risk management purposes; protect the rights, property or safety of the Company or the public; or as required or permitted by law or with your consent. We may retain Non- Personal Data indefinitely.
+
+We retain user-level data for Personalized Advertising or Ad Delivery and Reporting for a maximum duration of 90 days.
+
+REVISIONS TO OUR PRIVACY POLICY
+
+We reserve the right to change this Privacy Policy at any time. Any changes we make will be posted on this page. If we make material changes to how we treat your Personal Data, we will notify you by e-mail to the e-mail address provided by you or through a notice on Pulpo websites. The date of this Privacy Policy was last revised is identified at the top of the page. You are responsible for periodically monitoring and reviewing any updates to this policy. Your continued use of our Sites after such amendments will be deemed your acknowledgement and consent of these changes to this Privacy Policy.
+
+PUBLISHER SOURCING DISCLOSURE
+
+Paid traffic sources percentage in Entravision/Pulpo Properties: Q1 2017 less than 1% of total visitors; Q2 2017 less than 1% of total visitors; Q3 2017 less than 1% of total visitors. A visit is considered “acquired through paid sources” if the first page view is from a paid source. A visit is determined to be from a paid source based only on attributes collected during that visit.
+
+CONTACT US
+
+If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at: [privacy@pulpomedia.com](mailto:privacy@pulpomedia.com) or by mail at: OR BY MAIL AT: PULPO MEDIA, INC., 2425 OLYMPIC BLVD., SUITE 6000 WEST, SANTA MONICA, CALIFORNIA 90404.
+
+February 25 2019
