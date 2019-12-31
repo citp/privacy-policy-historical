@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deadsimplescreensharing.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302082539id_/https%3A//www.deadsimplescreensharing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deadsimplescreensharing.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231102058id_/https%3A//deadsimplescreensharing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dead Simple Screen Sharing
 
