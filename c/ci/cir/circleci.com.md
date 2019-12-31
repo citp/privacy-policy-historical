@@ -1,18 +1,34 @@
-> *The following text is extracted and transformed from the circleci.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401034014id_/https%3A//circleci.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleci.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231173240id_/https%3A//circleci.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CircleCI
 
-**This Privacy Policy is effective as of May 1, 2018.**
+**This Privacy Policy is effective as of January 1, 2020.**
 
 Circle Internet Services, Inc. dba CircleCI, a Delaware corporation (“ **CircleCI** ”, “ **we** ” or “ **us** ”) provides this Privacy Policy to inform users of our website at http://circleci.com (including all subdomains, the “ **Website** ”) and our software-as-a-service platform (the “ **Service** ”) of our policies and procedures regarding the collection, use and disclosure of personal data and other information. This Privacy Policy explains what data we collect when you use the Website and/or the Service, why we collect the data, how it is used and your rights and choices. 
 
 While providing our Service, we may collect information about our customers’ Users on behalf of our customers. Our use of information on behalf of our customers is governed by our agreement with the applicable customer and the customer’s own privacy policies. We cannot control and are not responsible for the privacy policies or privacy practices of our customers or any other third parties.
 
-CircleCI complies with the EU-U.S. and Swiss-U.S. Privacy Shield frameworks (“ **Frameworks** ”) as set forth by the U.S. Department of Commerce regarding the processing of personal data transferred from the EU and Switzerland to the U.S., respectively (for these purposes, reference to the EU also includes the European Economic Area countries of Iceland, Liechtenstein and Norway). CircleCI has certified that it adheres to the Privacy Shield Principles (described below). If there is any conflict between the policies in this Privacy Policy and the EU or Swiss Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Frameworks and to view our certification page, please visit <https://www.privacyshield.gov/>. Please go to the “Privacy Shield” section below for more information on how we comply with the Privacy Shield Frameworks.
-
 By using or accessing the Website or the Service and providing us with your Personal Data, you are accepting the practices described in this Privacy Policy, and you are consenting to our processing of your data as set forth in this Privacy Policy now and as amended by us (for information on how we may change our Privacy Policy, please read the “Privacy Policy Changes” section below). If you have any questions or comments about this Privacy Policy or our use of your Personal Data, please [contact us](https://support.circleci.com/hc/en-us).
 
 ## Information We Collect And How We Use It
+
+### Collection of Information
+
+We have collected the following categories of information from our users within the last twelve (12) months:
+
+  * Identifiers, including name, email address, phone number, IP address and cookie identifiers,
+  * Certain financial-related information, including credit card number and billing and shipping address,
+  * Protected classification information, such as age and gender,
+  * Commercial information, including purchasing history of our business customer’s employees and representatives who use our Service,
+  * Internet or other similar network activity, such as browsing history, information on your interaction with our Website, browser type, and referring site,
+  * Location data, and
+  * Professional or employment related data with respect to our job applicants and our business customer’s employees and representatives who use our Service, such as professional title.
+
+
+
+### Categories of Sources
+
+We obtain the personal information of our users from the following categories of sources:
 
 **I. Personal Data That You Provide To Us**
 
@@ -36,7 +52,7 @@ We will use your email to tell you about your Service usage, new features, solic
 
 Where required by applicable law (for example, if you are an EU data subject), we will only send you marketing information by email or mail, or contact you by phone, if you consent to us doing so. When you provide us with your consent to be contacted for marketing purposes, you have the right to withdraw your consent at any time by following the instructions to “opt-out” of receiving marketing communication in each marketing email we send you. In addition, if at any time you do not wish to receive future marketing communications or wish to have your name deleted from our mailing or calling lists, please contact us at [privacy@circleci.com](mailto:privacy@circleci.com). Please note that if you opt out from marketing communications, we may still contact you regarding issues related to our Service and to respond to your requests.
 
-## II. Automatically Collected Information
+**II. Automatically Collected Information**
 
 Like most hosted service operators, CircleCI collects information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site and the date and time of each visitor request and store it in log files. CircleCI also collects Internet Protocol (“IP”) addresses, which can be used to identify the location from which your computer is connecting to the Website, for providing the Service and for support purposes.
 
@@ -44,7 +60,7 @@ CircleCI also collects statistics about the behavior of visitors to the Website 
 
 Use of such automatically collected information is necessary for the performance of the contract between you and us, to the extent we process information that is needed for providing the Service and for support purposes, or is in our legitimate interest in understanding how the Service is being used by you and enhancing your experience on our Website and on the Service.
 
-## III. Information We Process On Behalf Of Our Customers
+**III. Information We Process On Behalf Of Our Customers**
 
 In providing the Service to our customers, we process on behalf of customers certain information that may include Personal Data, relating to customers’ employees, contractors or other users (“ **Users** ”) they transmit or otherwise submit to our Service. While our customers or Users decide what data to submit, this information typically includes email address and information relating to tests results.
 
@@ -60,11 +76,91 @@ If you submit a post or participate in a discussion on a bulletin board or chat 
 
 ## Disclosure Of Personal Data
 
-CircleCI discloses Personal Data only to those of its employees, contractors, and service providers that (1) need to know that data in order to perform certain services and functions on CircleCI’s behalf and (2) have agreed to data protection and confidentiality obligations requiring to protect data. Third-party service providers include: (i) providers of payment processing, customer support services and hosting (which support us in the provision of the Service and maintenance of the Website), (ii) web analytics service providers (which help us collect statistics and other information, including through cookies, about the behavior of users of the Website and the Service - for more details, please see the “Use of cookies” section below); (iii) marketing and sales automation tools that allow us to manage marketing and sales processes; (iv) phone and chat communication tools that allow us to communicate with prospects and customers; (v) integration tools that allow us to capture data in one platform and send it to another; (vi) survey and poll tools that allows us to capture information about our Service or Website; and (vii) event and meeting platforms that allow us to host and manage virtual and in-person events. Pursuant to our instructions, these parties may access, process or store Personal Data in the course of performing their duties to us and only as necessary to provide the services we request.
+In the preceding twelve (12) months, we have disclosed the following categories of personal information for a business purpose:
+
+  * Identifiers,
+  * Certain financial-related information,
+  * Protected classification information,
+  * Commercial information,
+  * Internet or other similar network activity,
+  * Location data, and
+  * Professional or employment related data.
+
+
+
+We share personal information for a business purpose with various categories of third parties. CircleCI discloses Personal Data only to those of its employees, contractors, and service providers that (1) need to know that data in order to perform certain services and functions on CircleCI’s behalf and (2) have agreed to data protection and confidentiality obligations requiring to protect data. Third-party service providers include: (i) providers of payment processing, customer support services and hosting (which support us in the provision of the Service and maintenance of the Website), (ii) web analytics service providers (which help us collect statistics and other information, including through cookies, about the behavior of users of the Website and the Service - for more details, please see the “Use of cookies” section below); (iii) marketing and sales automation tools that allow us to manage marketing and sales processes; (iv) phone and chat communication tools that allow us to communicate with prospects and customers; (v) integration tools that allow us to capture data in one platform and send it to another; (vi) survey and poll tools that allows us to capture information about our Service or Website; and (vii) event and meeting platforms that allow us to host and manage virtual and in-person events. Pursuant to our instructions, these parties may access, process or store Personal Data in the course of performing their duties to us and only as necessary to provide the services we request.
 
 CircleCI may also disclose Personal Data when required to do so by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process, or in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, or when CircleCI believes in good faith that disclosure is reasonably necessary to protect the property or rights of CircleCI, third parties, or the public at large. 
 
 CircleCI may disclose Personal Data in connection with a merger, acquisition, or sale of all or a portion of its assets (a “Corporate Transaction”). If CircleCI is involved in a Corporate Transaction, you will be notified either via email and/or a prominent notice through the Service of any change in ownership or uses of your Personal Data, as well as any choices you may have regarding your Personal Data or we will require any such buyer to agree to treat your Personal Data in accordance with this Privacy Policy.
+
+In the preceding twelve (12) months, we have not sold our users’ personal information.
+
+## Access and Deletion Requests
+
+You may contact us as indicated under the “Contact Us” section below and request that we provide you with a copy of your personal information or that we delete your personal information that we maintain on our systems. We will respond to your request within a reasonable timeframe. If you are an EU data subject or California resident, see your additional rights below.
+
+## Rights of Certain California Residents
+
+The California Consumer Privacy Act (CCPA) provides certain California residents with the additional rights listed below. The CCPA temporarily exempts from these CCPA rights certain personal information reflecting a written or verbal business-to-business communication or transaction as well as data about CircleCI’s employees, job applicants, contractors, controlling owners, directors, officers and medical staff (if any) in their capacities as such individuals at CircleCI.
+
+**Right to Access.** You have the right to request that we disclose certain information to you about our collection and use of your personal information over the past 12 months. Once we receive and confirm your verifiable consumer request, we will disclose to you:
+
+  * The categories of personal information we collected about you,
+  * The categories of sources for the personal information we collected about you,
+  * Our business or commercial purpose for collecting that personal information,
+  * The categories of third parties with whom we share that personal information, and
+  * The specific pieces of personal information we collected about you ( ** _which will also allow you to exercise your data portability right_** ).
+
+
+
+**Data Portability Right.** You have the right request that we provide you with access to the information above (under Right to Access) in a readily useable format that allows you to transmit (i.e., port) the information to another entity without hindrance. If you make a request under your right to request access, you will receive access to your information in a readily useable format.
+
+**Right to Delete.** You have the right to request that we delete any of your personal information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request, we will delete (and direct our service providers to delete) your personal information from our records, unless an exception applies. You must contact the applicable business customers directly to delete your information that they have in their systems.
+
+We may deny your deletion request or not delete some of your personal information, if retaining the information is necessary for us or our service provider(s) to:
+
+  1. Complete the transaction for which we collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you.
+  2. Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
+  3. Debug products to identify and repair errors that impair existing intended functionality.
+  4. Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
+  5. Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
+  6. Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if you previously provided informed consent.
+  7. Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.
+  8. Comply with a legal obligation.
+  9. Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
+
+
+
+We may also limit our deletion to the extent permitted by applicable law.
+
+**Exercising Your Rights.** To exercise your rights, please contact us as follows:
+
+  * Email us at [privacy@circleci.com](mailto:privacy@circleci.com) and provide the following information: 
+    * Full name and email address associated with your use of our Service, and
+    * Your specific request (e.g., right to access, right to portability, or right to delete).
+  * Submit your request via our web form on our Contact Us page (located at [https://circleci.com/contact/](https://web.archive.org/contact/)) and provide the following information: 
+    * Full name and email address associated with your use of our Service, and
+    * Your specific request (e.g., right to access, right to portability, or right to delete).
+
+
+
+We will attempt to respond to a consumer request for access or deletion within 45 days of receiving that request. If we require more time, we will inform you of the reason and extension period in writing.
+
+Only you, or someone legally authorized to act on your behalf, may make a verifiable consumer request related to your personal information.
+
+You may only make a verifiable consumer request for access or data portability **twice within a 12-month period**.
+
+**Non-Discrimination.** We will not discriminate against you for exercising any of your rights under the CCPA. Unless permitted by the CCPA, we will not:
+
+  * Deny you goods or services,
+  * Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties,
+  * Provide you a different level or quality of goods or services, or
+  * Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+
+
+
+However, we may offer you certain financial incentives permitted by the CCPA that can result in different prices, rates, or quality levels. Any CCPA-permitted financial incentive we offer will reasonably relate to your personal information's value to CircleCI and contain written terms that describe the program's material aspects. Participation in a financial incentive program requires your prior opt in consent, which you may revoke at any time. We currently do not provide any financial incentives.
 
 ## EU Data Subjects
 
@@ -90,11 +186,9 @@ You may exercise your rights by contacting us as indicated under “Contact Us�
 
 **_Legitimate Interest._** “Legitimate interests” means the interests of CircleCI in conducting and managing our organization. For example, we have a legitimate interest in processing your Personal Data to analyze how the Website and the Service are being used by you, and to ensure network and information security, as described in this Privacy Policy. When we process your Personal Data for our legitimate interests, we make sure to consider and balance any potential impact on you, and your rights under data protection laws. Our legitimate interests do not automatically override your interests. We will not use your Personal Data for activities where our interests are overridden by the impact on you, unless we have your consent or those activities are otherwise required or permitted to by law. You have the right to object to processing that is based on our legitimate interests. For more information on your rights, please see “Your Rights” section above.
 
-**_Data Transfers._** We rely on the EU-U.S. and Swiss-U.S. Privacy Shield certification to transfer Personal Data and other information that we receive from the EU and Switzerland to CircleCI in the U.S. (for more information, please read the “Privacy Shield” section below).
-
-**_Data Retention:_** We will keep your Personal Data only for as long as is reasonably necessary for the purposes outlined in this Privacy Policy, or for the duration required by law, whichever is the longer. 
-
 ## Privacy Shield
+
+CircleCI complies with the EU-U.S. and Swiss-U.S. Privacy Shield frameworks (“ **Frameworks** ”) as set forth by the U.S. Department of Commerce regarding the processing of personal data transferred from the EU and Switzerland to the U.S., respectively (for these purposes, reference to the EU also includes the European Economic Area countries of Iceland, Liechtenstein and Norway). CircleCI has certified that it adheres to the Privacy Shield Principles (described below). If there is any conflict between the policies in this Privacy Policy and the EU or Swiss Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Frameworks and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
 We rely on our Privacy Shield certification to transfer Personal Data and other information that we receive from the EU and Switzerland to CircleCI in the U.S. and we process this data in accordance with the Privacy Shield Principles of Notice and Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement and Liability (“ **Privacy Shield Principles** ”), as described below.
 
@@ -129,7 +223,7 @@ We are subject to the investigatory and enforcement powers of the Federal Trade 
 
 ## Cookies
 
-We and our partners use cookies or similar technologies to optimize the functionality of the Website, help us understand how the Website is used and provide you with interest-based advertising based upon a user’s browsing activities and interests. For more information about the cookies and similar technologies used on our Website, please refer to our [Security page](https://circleci.com/security/).
+We and our partners use cookies or similar technologies to optimize the functionality of the Website, help us understand how the Website is used and provide you with interest-based advertising based upon a user’s browsing activities and interests. For more information about the cookies and similar technologies used on our Website, please refer to our [Cookie Policy](https://web.archive.org/legal/cookie-policy/) and [Security page](https://web.archive.org/security/).
 
 ## Links to Other Websites
 
@@ -145,7 +239,7 @@ Currently, various browsers - including Internet Explorer, Firefox, and Safari -
 
 ## Security
 
-We take precautions to ensure the security of your Personal Data. We follow generally accepted standards to protect the Personal Data submitted to us, both during transmission and once we receive it. When you enter your login information on the Service, all information to and from the service is encrypted using Transport Layer Security (TLS). For more information on our data security policies, please check [here](https://circleci.com/security/).
+We take precautions to ensure the security of your Personal Data. We follow generally accepted standards to protect the Personal Data submitted to us, both during transmission and once we receive it. When you enter your login information on the Service, all information to and from the service is encrypted using Transport Layer Security (TLS). For more information on our data security policies, please check [here](https://web.archive.org/security/).
 
 That said, like any hosted service provider, we cannot guarantee that unauthorized third parties or unauthorized personnel will not gain access to your Personal Data despite our efforts. You should note that in using the Website and the Service, your information will travel through third-party infrastructures which are not under our control.
 
