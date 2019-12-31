@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mgid.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235515id_/https%3A//www.mgid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgid.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231220605id_/https%3A//www.mgid.com/privacy-policy) for the most accurate reproduction.*
 
 # MGID: Native Advertising Marketplace
 
@@ -101,7 +101,7 @@ The MGID Privacy Policy does not apply to, and we cannot control the activities 
 
 ### Changing or Deleting Your Information
 
-All registered users may review, update or correct the Personally Identifiable Information provided in their registration or account profile by changing their "user preferences" in their account. If you choose to opt out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account and information entirely or to prevent MGID from processing your data please email our Data Protection Compliance Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) However, you understand and agree that we are not able to remove your Personally Identifiable Information from the records of any third party who has been provided with your information in compliance with the use and sharing policy outlined above.
+All registered users may review, update or correct the Personally Identifiable Information provided in their registration or account profile by changing their "user preferences" in their account. If you choose to opt out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account and information entirely or to prevent MGID from processing your data please email our Data Protection Compliance Officer at privacy@mgid.com. However, you understand and agree that we are not able to remove your Personally Identifiable Information from the records of any third party who has been provided with your information in compliance with the use and sharing policy outlined above.
 
 ### Security
 
@@ -109,7 +109,7 @@ MGID is very concerned with safeguarding your information. MGID uses commerciall
 
 ### Policy Towards Children
 
-This Site is not directed to children under 16. We do not knowingly collect or solicit personal information from children under 16 or knowingly allow such persons to register for an account. If you are under 16, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 16 is allowed to provide any personal information to or on MGID. In the event that we learn that we have collected personal information from a child under age 16 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 16, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#78080a110e191b0138151f111c561b1715).
+This Site is not directed to children under 16. We do not knowingly collect or solicit personal information from children under 16 or knowingly allow such persons to register for an account. If you are under 16, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 16 is allowed to provide any personal information to or on MGID. In the event that we learn that we have collected personal information from a child under age 16 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 16, please contact us at [privacy@mgid.com](mailto:privacy@mgid.com).
 
 ### Data Protection Terms for European Economic Area
 
@@ -134,6 +134,6 @@ MGID may, in its sole discretion, modify or update this Privacy Policy from time
 We reserve the right to transfer your personal information in the event of a transfer of ownership of MGID, such as acquisition by or merger with another company.
 
 From time to time we may update this Privacy Policy. You should visit this page periodically to review any such changes to the privacy policy. In such cases, your continued use of this website or our service means that the provision of personally identifiable information to us after such material changes will be subject to the new terms. If we make material changes to this Privacy Policy that expand our rights to use your personal information that we have collected, we will notify you to seek your consent through email or a prominent posting on the site.  
-You always have the option to cancel your account with us at any time. Simply de-install the widget from your site. If you have any questions or need some clarification on our privacy policy, please do not hesitate to email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You always have the option to cancel your account with us at any time. Simply de-install the widget from your site. If you have any questions or need some clarification on our privacy policy, please do not hesitate to email us at support@mgid.com.
 
 This Privacy Policy was last updated on May 24, 2018
