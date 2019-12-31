@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutestat.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406001258id_/https%3A//www.cutestat.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutestat.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231040310id_/https%3A//www.cutestat.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CuteStat.com
 
@@ -37,5 +37,3 @@ Our tools may generate a cache copy of information that will be refreshed after 
 We reserves the right to change our Privacy Policy at any time to adjust it with the new services and tools that we launch. As we don't inform everyone, we suggest you (our users) to check this page periodically for any changes. Your continued use of our website, services and tools means that you accept those changes.
 
 Our Privacy Policy was Last Updated on May 07, 2013
-
-* * *
