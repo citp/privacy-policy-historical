@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the maketecheasier.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618122436id_/https%3A//www.maketecheasier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maketecheasier.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231155922id_/https%3A//www.maketecheasier.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For MakeTechEasier.com
 
 MakeTechEasier is committed to safeguarding your privacy. Contact us [here](https://www.maketecheasier.com/contact/) if you have any questions or problems regarding the use of your personal data and we will gladly assist you.
+
+To review your given consent, please click here
 
 By using this site or/and our services, you consent to the processing of your personal data as described in this Privacy Policy.
 
