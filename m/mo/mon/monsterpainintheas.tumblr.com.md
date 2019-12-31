@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the monsterpainintheas.tumblr.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630013251id_/https%3A//www.pharma.us.novartis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterpainintheas.tumblr.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231114512id_/https%3A//www.pharma.us.novartis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Novartis US
 
-## Effective January 07, 2016
+## Effective September 25, 2019
 
 Thank you for your trust in Novartis Pharmaceuticals Corporation ("Novartis Pharmaceuticals" "we", "our", or "us"). We are a United States-based affiliate of the [Novartis global group](http://www.novartis.com/), a world leader in healthcare. This Privacy Policy describes how we use and disclose the information we collect from you through our U.S. websites, mobile applications, social media forums, and other services, both offline and online, that link to, incorporate, or for which you are provided a copy of this Privacy Policy (collectively, the "Services"), and the choices you have about how we use that information.
 
@@ -91,13 +91,17 @@ We encourage you to update the personal information you provide to us to help us
 
 The Services may contain links to third-party services that are not under our control. We are not responsible for the collection and use of your information by such services, and we encourage you to review their privacy policies. In addition, we are not responsible for the information collection, use, disclosure, or security practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM, or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider, or device manufacturer, including in connection with any information you disclose to such other organizations through or in connection with the Services.
 
+### Nevada Residents as Covered by Nevada Privacy Law
+
+Novartis does not sell Covered Information as defined under Nevada law.  If you would like to make a further inquiry regarding the selling of your Covered Information, as defined under Nevada law, please contact [Nevada-Privacy.Request@novartis.com](mailto:Nevada-Privacy.Request@novartis.com). 
+
 ### Texas Residents
 
 Pursuant to the Texas Health and Safety Code, Sec. 181.154, please be advised that if Novartis Pharmaceuticals receives any information that identifies you and relates to your past, present or future physical or mental health, healthcare or payment for your healthcare, such information may be subject to electronic disclosure by such means as file transfers or email.
 
 ### Changes to This Privacy Policy
 
-This Privacy Policy became effective on January 07, 2016. We may update it from time to time by posting a new Privacy Policy on our website. You are advised to consult our website regularly for any changes, and your continued use of the Services after such changes have been made constitutes acceptance of those changes.
+This Privacy Policy became effective on September 25, 2019. We may update it from time to time by posting a new Privacy Policy on our website. You are advised to consult our website regularly for any changes, and your continued use of the Services after such changes have been made constitutes acceptance of those changes.
 
 ### How to Contact Us
 
