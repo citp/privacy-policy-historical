@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tips.net privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401064113id_/https%3A//www.tips.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tips.net privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231103411id_/https%3A//www.tips.net/privacy.html) for the most accurate reproduction.*
 
 # Tips.Net: Privacy Policy (Tips.Net)
 
