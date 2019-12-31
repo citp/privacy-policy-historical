@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the evesaddiction.com privacy policy that was archived on 2019-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190404182929id_/https%3A//www.evesaddiction.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the evesaddiction.com privacy policy that was archived on 2019-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191231091721id_/https%3A//www.evesaddiction.com/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en"><head>
   <base href="https://www.evesaddiction.com/">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="Content-Language" content="en">
@@ -10,10 +10,13 @@
   <link rel="canonical" href="https://www.evesaddiction.com/privacypolicy.html">
   <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
   <meta itemprop="enable_cdn" content="true">
-  <meta name="google-site-verification" content="KK2rxaTSjMsl2tesu0bYDtSv3AY9t3Nfqm_9PX3dqzc">
+
+  <meta name="google-site-verification" content="Fqsn9Z2dbf0IF30UmAliqa4SvTAaR_XfxvTZn1Z4iOY">
+  <meta name="google-site-verification" content="sjAdM5r7qKc-7JTNHTTTxZLpZcFxwBsaxgNR8BgG_8M">
+
   <link rel="publisher" href="https://plus.google.com/+Evesaddiction">
   <meta name="viewport" content="width=device-width">
-  <script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://s.pinimg.com/ct/core.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+  <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M43F673"></script><script>
     var cdn_base_url = 'https://eves.tac-cdn.net/';
     var time_page_start = new Date().getTime();
     console.log('page start', time_page_start);
@@ -23,7 +26,6 @@
   <link rel="stylesheet" type="text/css" href="https://eves.tac-cdn.net/css/magicscroll.min.css">
   <link rel="stylesheet" type="text/css" href="https://eves.tac-cdn.net/css/masterPage.css">
   <link rel="stylesheet" type="text/css" href="https://eves.tac-cdn.net/css/owl.carousel.css">
-  <link rel="stylesheet" type="text/css" href="https://eves.tac-cdn.net/css/jquery-ui.min.css">
   <!-- HEADER SCRIPTS -->
 <script type="text/javascript" src="https://eves.tac-cdn.net/js/raven-3.24.2.min.js"></script>
 <script type="text/javascript" src="/libraries"></script>
@@ -31,6 +33,8 @@
 <script type="text/javascript" src="https://eves.tac-cdn.net/js/jquery-migrate-3.0.0.min.js"></script>
 <script type="text/javascript" src="https://eves.tac-cdn.net/js/dataStore.js"></script>
 <!-- END HEADER SCRIPTS -->
+
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0021/9241.js" async="async"></script>
 
   <script>
     var gOverride = {
@@ -51,14 +55,16 @@
         var banner_height = $('div.topBanners').outerHeight();
         var sticky_height = $('div.topNav').parent().offset().top - banner_height;
         $el = $('.topNav');
-        if ($window.scrollTop() > sticky_height && ($el.css('position') != 'fixed' || force_render)) {
-          $(".topNav, .singleLine, .holidayRight").addClass("sticky");
-          $('.topNav').css('top', banner_height - 3);
-          $('.smallLogo').fadeIn({'opacity' : '1'},500);
-        }
-        if ($window.scrollTop() < sticky_height + 1 && $el.css('position') == 'fixed') {
-          $(".topNav, .singleLine").removeClass("sticky");
-          $('.smallLogo').fadeOut({'opacity' : '0'},1000);
+        if (deviceType === 'd') {
+          if ($window.scrollTop() > sticky_height && ($el.css('position') != 'fixed' || force_render)) {
+            $(".topNav, .singleLine, .holidayRight").addClass("sticky");
+            $('.topNav').css('top', banner_height - 3);
+            $('.smallLogo').fadeIn({'opacity' : '1'},500);
+          }
+          if ($window.scrollTop() < sticky_height + 1 && $el.css('position') == 'fixed') {
+            $(".topNav, .singleLine").removeClass("sticky");
+            $('.smallLogo').fadeOut({'opacity' : '0'},1000);
+          }
         }
       };
 
@@ -74,125 +80,49 @@
     });
   </script>
 
-  <script src="https://www.google.com/recaptcha/api.js?render=6LcyT5sUAAAAAKej3ikoBVJllVlNX4Aos7KC7Lms"></script>
   <script>
-  (function () {
-    var queue = [];
-    window.re3 = {};
-    /**
-     * Queue Action for execute. Setup to queue & execute once recaptcha is available
-     * and ready.
-     *
-     * @param {string}   action
-     * @param {Function} callback
-     */
-    window.re3.execute = function (action, callback) {
-      queue.push([action, callback]);
-    };
-
-    /**
-     * @param {string}    token
-     * @param {Function=} success
-     */
-    window.re3.verify = function (token, success) {
-      success = success || function () {};
-
-      $.ajax({
-        type: 'post',
-        cache: false,
-        url: '/verify',
-        data: {'response': token},
-        dataType: 'json',
-        success: success
-      });
-    };
-
-    grecaptcha.ready(function() {
-      var siteKey = "6LcyT5sUAAAAAKej3ikoBVJllVlNX4Aos7KC7Lms";
-
-      /**
-      * Execute action for re3.execute
-      * @param {string}   action
-      * @param {Function} callback
-      */
-      window.re3.execute = function (action, callback) {
-        grecaptcha.execute(siteKey, {action: action}).then(callback);
-      };
-
-      if (queue.length > 0) {
-        queue.forEach(function (params) {
-          window.re3.execute.apply(null, params);
-        });
-      }
-    });
-  }());
-  </script><!-- Google Analytics -->
-<script type="text/javascript">
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-216431-1', 'auto', { useAmpClientId: true });
-ga('require', 'linkid', 'linkid.js');
-ga('send', 'pageview');
-ga('require', 'ec');
-</script>
-<!-- Facebook Pixel Code -->
-<script>
- !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
- n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
- n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
- t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
- document,'script','https://connect.facebook.net/en_US/fbevents.js');
-
- if (typeof fbq === 'function') {
-   fbq('init', '629649340533820');
-   fbq('track', 'PageView');
-  }
- </script>
- <noscript><img height="1" width="1" style="display:none"
- src="https://www.facebook.com/tr?id=629649340533820&ev=PageView&noscript=1"
- /></noscript>
-<!-- End Facebook Pixel Code -->
-<!-- Pinterest Tracking Tag -->
-<script type="text/javascript">
-!function(e){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};
-var n=window.pintrk;n.queue=[],n.version="3.0";
-var t=document.createElement("script");t.async=!0,t.src=e;
-var r=document.getElementsByTagName("script")[0];
-r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
-  pintrk('load', '2618294045509'
-      );
-  pintrk('page', {"page_name":"Privacy Policy | Eve's Addiction","page_category":"page"}  );
-</script>
-<noscript>
+    // Initialize site-wide dataLayer variables
+    var dataLayer = [ {"experimentKey":"dimension52","experimentValue":0,"pageType":"page","pageTitle":"Privacy Policy | Eve's Addiction"} ];
+  </script>
   
-  <img height="1" width="1" style="display:none;" alt=""
-src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
-</noscript>
-<!-- End Pinterest Tracking Tag -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M43F673');
+
+</script>
+<!-- End Google Tag Manager -->
  </head>
- <body class="privacypolicy" data-refcode="" data-tel="">
- <div class="modal-backpanel"></div>
+ <body class="privacypolicy" data-refcode="" data-tel="" data-test-newsletter-banner="0">
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M43F673"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div class="aria-normal-page-content">
+
+ <a href="#main-site-content" class="visually-hidden">Skip To Content</a>
+
 
      <script type="text/javascript" src="//media.richrelevance.com/rrserver/js/1.2/p13n.js" async=""></script>
     <script type="text/javascript">
       if (typeof window._eves === 'undefined') {
         window._eves = [];
       }
-      window._eves.rr_placements = {"home_page.rr1":{"container":"#everybody-loves-carousel","header":"#everybody-loves-container .rich-relevance-header","type":"carousel","magicscroll":true},"home_page.rr2":{"container":"#recently-viewed-carousel","header":"#recently-viewed-container .rich-relevance-header","type":"carousel","magicscroll":true},"generic_page.gift_guide_rr1":{"container":"#gift-guide-carousel","header":"#gift-guide-container .rich-relevance-header","type":"carousel","magicscroll":true},"category_page.rr1":{"container":"#trending-now-carousel","header":"#trending-now-container > p","type":"carousel","magicscroll":true},"category_page.parent_cat_rr2":{"header":".categoryParentProductList > p","type":"crosssell","page_type":"parent_category","desktop":{"container":".categoryParentProductList ul.products"},"mobile":{"container":"#parent-category-carousel","type":"carousel","magicscroll":"true;"}},"search_page.rr1":{"container":"#search-results-carousel","header":"div.productList.rr-recommendations > p","type":"carousel","magicscroll":true},"search_page.rr2":{"container":"#search-no-results-products","header":"div.productList.rr-recommendations > p","type":"listing"},"item_page.rr1":{"container":"#product-cross-sell","header":".cross-sell-container .rich-relevance-header","type":"carousel","magicscroll":true},"item_page.rr2":{"container":"#rr-also-bought-magicscroll","sku_container":".rr-also-bought-container ul","header":".rr-also-bought-container h3","type":"carousel","magicscroll":true,"desktop":{"magicscroll_attributes":{"orientation":"vertical","items":3,"step":3}}},"item_page.rr3":{"container":"#recently-viewed-carousel","header":".recently-viewed-carousel .rich-relevance-header","type":"carousel","magicscroll":true},"cart_page.rr1":{"container":"#cross-sell-carousel","header":"div.cross-sell-header","type":"carousel","magicscroll":true},"add_to_cart_page.rr1":{"container":"#cart-addons-modal-carousel","header":".cart-addons-modal h4","type":"carousel","magicscroll":true,"desktop":{"magicscroll_attributes":{"items":4}}}};
+      window._eves.rr_placements = {"home_page.rr1":{"container":"#everybody-loves-carousel","header":"#everybody-loves-container .rich-relevance-header","type":"carousel","magicscroll":true},"home_page.rr2":{"container":"#recently-viewed-carousel","header":"#recently-viewed-container .rich-relevance-header","type":"carousel","magicscroll":true},"generic_page.gift_guide_rr1":{"container":"#gift-guide-carousel","header":"#gift-guide-container .rich-relevance-header","type":"carousel","magicscroll":true},"category_page.rr1":{"container":"#trending-now-carousel","header":"#trending-now-container > p","type":"carousel","magicscroll":true},"category_page.email_1205_rr1":{"container":"#weekly-specials-carousel-1","header":".weekly-specials-carousel-1 .rich-relevance-header","type":"carousel","magicscroll":true},"category_page.parent_cat_rr2":{"header":".categoryParentProductList > p","type":"crosssell","page_type":"parent_category","desktop":{"container":".categoryParentProductList ul.products"},"mobile":{"container":"#parent-category-carousel","type":"carousel","magicscroll":"true;"}},"search_page.rr1":{"container":"#search-results-carousel","header":"div.productList.rr-recommendations > p","type":"carousel","magicscroll":true},"search_page.rr2":{"container":"#search-no-results-products","header":"div.productList.rr-recommendations > p","type":"listing"},"item_page.rr1":{"container":"#product-cross-sell","header":".cross-sell-container .rich-relevance-header","type":"carousel","magicscroll":true},"item_page.rr2":{"container":"#rr-also-bought-magicscroll","sku_container":".rr-also-bought-container .rich-relevance-carousel","header":".rr-also-bought-container h2","type":"carousel","magicscroll":true,"desktop":{"magicscroll_attributes":{"orientation":"vertical","items":3,"step":3}}},"item_page.rr3":{"container":"#recently-viewed-carousel","header":".recently-viewed-carousel .rich-relevance-header","type":"carousel","magicscroll":true},"cart_page.rr1":{"container":"#cross-sell-carousel","header":"div.cross-sell-header","type":"carousel","magicscroll":true},"add_to_cart_page.rr1":{"container":"#cart-addons-modal-carousel","header":".cart-addons-modal h4","type":"carousel","magicscroll":true,"desktop":{"magicscroll_attributes":{"items":4}}}};
     </script><script type="text/javascript" src="https://eves.tac-cdn.net/js/rich-relevance.js"></script>
     <script charset="utf-8" type="text/javascript">
       if (typeof window._eves === 'undefined') {
         window._eves = [];
       }
       window._eves.init_rr_page_code = function() {
-        
             if (typeof r3_common == 'function') {
       var R3_COMMON = new r3_common();
       R3_COMMON.setApiKey("80d8033424684e65");
-      R3_COMMON.setSessionId("035ff6ad9dab464815d5e2335bcf8e049ca1adf7101eef3f396977e00156673b");
+      R3_COMMON.setSessionId("89a2953c90263ca3951be8c89a0b1e29a79d15b0091863e4aa8e83cce32e4391");
       R3_COMMON.setBaseUrl(window.location.protocol + '//recs.richrelevance.com/rrserver/');
       R3_COMMON.setClickthruServer(window.location.protocol + '//' + window.location.host);
       rr_flush_onload();
@@ -200,13 +130,14 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
     }
       }
       
-    </script><div class="newsletter-modal-main">
+    </script><div class="newsletter-modal-main" aria-labelledby="newsletter-modal-form-title" aria-modal="true" role="dialog">
+  <div class="aria-bookend" tabindex="0"></div>
   <div class="newsletter-modal-wrapper">
-    <h3 class="newsletter-modal-main-title">&nbsp; Get on the list! &nbsp;</h3>
-    <img class="newsletter-modal-close" src="https://eves.tac-cdn.net/images/v2/layout/icon_close.png?auto=webp&amp;quality=40">
+    <h3 id="newsletter-modal-form-title" class="newsletter-modal-main-title">&nbsp; Get on the list! &nbsp;</h3>
+    <button class="newsletter-modal-close modal-titlebar-close" aria-label="close promotion" type="button"><img src="https://eves.tac-cdn.net/images/v2/layout/icon_close.png?auto=webp&amp;quality=40" alt="Close"></button>
     <div id="newsletter-signup-form-desktop" class="newsletter-signup-form">
       <p>Good things come to those who join our mailing list! Enjoy 30% off your next purchase when you sign up.</p>
-      <input type="text" id="emailAddress-desktop" name="email" placeholder="Enter your email...">
+      <input type="text" id="emailAddress-desktop" aria-describedby="newsletter-modal-error-desktop" aria-label="Enter your email" name="email" placeholder="Enter your email...">
       <input type="button" value="Submit »" id="newsletter-modal-button-desktop" class="primaryButton newsletter-modal-main-button">
       <br><br>
       <span id="newsletter-modal-error-desktop" class="newsletter-modal-error error"></span>
@@ -217,32 +148,46 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
       </p>
     </div>
   </div>
+  <div class="aria-bookend" tabindex="0"></div>
 </div>
 <div class="newsletter-modal-bottom">
-  <h3>Subscribe and Save 30% on your Next Purchase</h3>
-  <img class="newsletter-modal-close-desktop" src="https://eves.tac-cdn.net/images/v2/layout/icon_close-white.png?auto=webp&amp;quality=40">
+  <div class="newsletter-modal-header">
+    <button type="button" class="activation-title" aria-haspopup="dialog">
+      Subscribe and Save 30% on your Next Purchase
+    </button>
+  </div>
+  <button class="newsletter-modal-close-desktop modal-titlebar-close" aria-label="close promotion" type="button">
+    <img src="https://eves.tac-cdn.net/images/v2/layout/icon_close-black.png?auto=webp&amp;quality=40" alt="Close">
+  </button>
 </div>
+
 <div class="newsletter-modal-mobile">
-  <div id="newsletter-modal-accordian">
-    <div class="newsletter-modal-title">
-      <img class="newsletter-modal-close-mobile" src="https://eves.tac-cdn.net/images/v2/layout/icon_close-black.png?auto=webp&amp;quality=40">
-      <span class="newsletter-open-close">+</span>
-      <h3>Subscribe &amp; Save 30%</h3>
+  <div class="newsletter-modal-title">
+    <button class="newsletter-modal-close-mobile modal-titlebar-close" aria-label="close promotion" type="button">
+      <img src="https://eves.tac-cdn.net/images/v2/layout/icon_close-black.png?auto=webp&amp;quality=40" alt="Close">
+    </button>
+    <span class="newsletter-open-close">+</span>
+    <div id="newsletter-modal-submit-title">
+      <button type="button" class="activation-title">
+        Subscribe &amp; Save 30%
+      </button>
     </div>
-    <div class="newsletter-modal-body">
-      <div id="newsletter-signup-form-mobile" class="newsletter-signup-form">
-        <input type="text" id="emailAddress-mobile" name="email" placeholder="Enter your email...">
-        <input type="button" value="Submit »" id="newsletter-modal-button-mobile" class="primaryButton newsletter-modal-main-button">
-        <br>
-        <span id="newsletter-modal-error-mobile" class="newsletter-modal-error error"></span>
-        <br>
-      </div>
-      <div id="email-thank-you-mobile" class="email-thank-you" style="display:none;">
-        <p> Thanks for signing up. You're on your way to receiving all our best deals and discounts on Eve's Addiction jewelry!
-            Coupon code WELCOME30 will be applied to your cart.
-        </p>
-      </div>
+  </div>
+  <div class="newsletter-modal-body">
+    <div class="aria-bookend" tabindex="0"></div>
+    <div id="newsletter-signup-form-mobile" class="newsletter-signup-form">
+      <input type="text" id="emailAddress-mobile" aria-label="Enter your email address" name="email" aria-describedby="newsletter-modal-error-mobile" placeholder="Enter your email...">
+      <input type="button" value="Submit »" id="newsletter-modal-button-mobile" class="primaryButton newsletter-modal-main-button">
+      <br>
+      <span id="newsletter-modal-error-mobile" class="newsletter-modal-error error"></span>
+      <br>
     </div>
+    <div id="email-thank-you-mobile" class="email-thank-you" style="display:none;">
+      <p> Thanks for signing up. You're on your way to receiving all our best deals and discounts on Eve's Addiction jewelry!
+          Coupon code WELCOME30 will be applied to your cart.
+      </p>
+    </div>
+    <div class="aria-bookend" tabindex="0"></div>
   </div>
 </div>
  
@@ -250,7 +195,7 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
   div.topBanners {
     background-color: #000;
     clear: both;
-    z-index: 97;
+    z-index: 102;
     width: 100%;
     -webkit-box-shadow: 0 3px 10px 0 rgba(0,0,0,.4);
     -moz-box-shadow: 0 3px 10px 0 rgba(0,0,0,.4);
@@ -283,7 +228,7 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
   div.topBanners .refcodeBanner p span.alert {
    background-color: #d35e93;
    padding: 0 5px;
-   color: #fff;
+   color: #000;
   }
   
   div.topBanners .refcodeBanner p span.alert {
@@ -368,8 +313,8 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
     
     
     
-    <!--<p>Guaranteed Valentine's Day Delivery! &nbsp;&bull;&nbsp; <strong><u>Last Day for 1st Class Shipping</strong></u> (ends 1p ET 2/7)</p>-->
-    <!--<p>Select <strong><u>UPS Next Day Air</u></strong> at Checkout for <strong><u>Guaranteed Valentine's Day Delivery</u></strong> (ends 1p ET 2/13)</p>-->
+    <!--<p>Need it by Christmas? &nbsp;&bull;&nbsp; <strong><u>Last Day for 1st Class Shipping</strong></u> (ends 1p ET 12/18)</p>-->
+    <!--<p>Select <strong><u>UPS Next Day Air</u></strong> at Checkout for <strong><u>Guaranteed Christmas Delivery</u></strong> (ends 1p ET 12/23)</p>-->
   </div>
 
 </div>
@@ -384,40 +329,55 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
    <li class="logo">
     <a href="https://www.evesaddiction.com">Eve's Addiction</a>
    </li>
-
    <li class="menu">
-    <a id="simple-menu" href="#sidr">Jewelry</a>
+    <button id="simple-menu" type="button" aria-haspopup="dialog" aria-controls="sidr">Jewelry</button>
    </li>
 
 <li class="bag empty"><a href="/cart" title="Cart">Cart<span></span></a></li>
 
-<li class="login-icon"><a class="log-in is-not-login-page is-https">Log In</a></li><li class="account-icon"><a href="/account"></a></li><li class="search-icon"><a href="/search">Search</a></li>
+<li class="login-icon"><a class="log-in is-not-login-page is-https">Log In</a></li><li class="account-icon"><a href="/account"></a></li><li class="search-icon"><a href="/search" id="search-icon-anchor">Search</a></li>
+
+    <script type="text/javascript">
+      document.getElementById("search-icon-anchor").onclick = mobile_search_toggle;
+        function mobile_search_toggle() {
+          document.getElementById("mobile-search-close").onclick = mobile_search_toggle;
+          var form_element = document.getElementById("nxt-search-form-mobile-page");
+          if ( form_element.style.display == "block" ) {
+            form_element.style.display = "none";
+          } else {
+            form_element.style.display = "block";
+          }
+          return false;
+        }
+    </script>
 
   </ul>
  </div><!--mobileHeader-->
 
- <div id="sidr" class="sidr left">
-<ul>
+  <div id="sidr" class="sidr left" role="dialog" name="Side Menu">
+    <ul>
   <li style="border-top: none;">
 
     <p class="sideHeader">
       Quick Links
-      <span id="sidr-nav-close">X</span>
+      <button id="sidr-nav-close" aria-label="Close Dialog">X</button>
     </p>
 
     <ul>
       
-        <li><form class="mobileSearch" method="GET" action="/search" id="nxt-search-form-mobile"><div class="search ui-front"><input type="text" class="text" autocomplete="off" name="q" value="What are you looking for?" onfocus="if (this.value=='What are you looking for?') this.value='';"><button type="submit" class="searchButton"><span class="search-Magnifying-Glass"></span></button></div></form></li>
+        <li><form class="mobileSearch nxt-search-form" method="GET" action="/search" id="nxt-search-form-mobile-nav"><div class="search ui-front"><input type="text" class="text" autocomplete="off" name="q" value="What are you looking for?" onfocus="if (this.value=='What are you looking for?') this.value='';"><button type="submit" class="searchButton"><span class="search-Magnifying-Glass"></span></button></div></form></li>
       
         <li><a href="/cart">Shopping Bag</a></li>
       
-        <li><a href="/next-day-jewelry-delivery/1048">Customized &amp; Ships in 24 Hours</a></li>
+        <li><a href="/next-day-jewelry-delivery/1048">Personalized &amp; Ships Today</a></li>
       
         <li><a href="/jewelry-best-sellers/430">Best Sellers</a></li>
       
         <li><a href="/weekly-specials/1055">Sale - Up to 60% Off</a></li>
       
         <li><a href="/new-jewelry-arrivals/427">New Arrivals</a></li>
+      
+        <li><a href="/instashop.html">Instashop</a></li>
       
         <li><a href="/login">Log In</a></li>
       
@@ -440,9 +400,11 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
             
               <a href="/custom-jewelry/1045">Shop All Personalized Jewelry</a>
             
-              <a href="/all-birthstone-jewelry/853">Birthstone Jewelry</a>
+              <a href="/bar-jewelry/1042">Bar Jewelry</a>
             
-              <a href="/custom-charm-necklaces/1060">Build Your Own Charm Necklaces</a>
+              <a href="/jewelry-best-sellers/430">Best Sellers</a>
+            
+              <a href="/all-birthstone-jewelry/853">Birthstone Jewelry</a>
             
               <a href="/cage-jewelry/1118">Caged Locket Jewelry</a>
             
@@ -454,122 +416,19 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
             
               <a href="/gifts-for-men/558">Custom Gifts for Men</a>
             
+              <a href="/dog-tag-necklaces/563">Dog Tag Necklaces</a>
+            
               <a href="/engraved-jewelry/599">Engravable Jewelry</a>
             
               <a href="/floating-lockets-charms/1038">Floating Locket Jewelry</a>
             
               <a href="/monogram-jewelry/771">Monogram Jewelry</a>
             
+              <a href="/nameplate-jewelry/579">Name Jewelry</a>
+            
               <a href="/photo-engravable-jewelry/967">Photo Engraved Jewelry</a>
             
               <a href="/roman-numeral-jewelry/1146">Roman Numeral Jewelry</a>
-            
-          </div>
-        </li>
-      
-        <li class="expand">
-          <span class="show_hide">Recipient</span>
-          <div class="slidingDiv">
-            
-              <a href="/custom-jewelry-for-her/1009">Gifts for Her</a>
-            
-              <a href="/gifts-for-men/558">Gifts for Him</a>
-            
-              <a href="/grandma-jewelry/1020">Gifts for Grandma</a>
-            
-              <a href="/custom-mom-jewelry/1011">Gifts for Mom</a>
-            
-              <a href="/custom-fathers-day-gifts/1056">Gifts for Dad</a>
-            
-              <a href="/new-baby-push-gifts/407">Gifts for New Moms</a>
-            
-              <a href="/girlfriend-gifts/1187">Gifts for Girlfriend</a>
-            
-              <a href="/custom-jewelry-for-kids/1010">Gifts for Kids</a>
-            
-              <a href="/personalized-best-friend-gifts/1109">Best Friend Gifts</a>
-            
-              <a href="/custom-aunt-jewelry/1120">Gifts for Aunt</a>
-            
-              <a href="/bridal-party-jewelry/542">Bridal Party Gifts</a>
-            
-              <a href="/graduation-jewelry-gifts/402">Gifts for Grads</a>
-            
-          </div>
-        </li>
-      
-        <li class="expand">
-          <span class="show_hide">Necklaces</span>
-          <div class="slidingDiv">
-            
-              <a href="/all-necklaces/213">Shop All Necklaces</a>
-            
-              <a href="/14k-gold-necklaces/1082">14K Gold Necklaces</a>
-            
-              <a href="/name-bar-necklace/1028">Bar Necklaces</a>
-            
-              <a href="/birthstone-necklaces/840">Birthstone Necklaces</a>
-            
-              <a href="/choker-necklaces/1141">Choker Necklaces</a>
-            
-              <a href="/clearance-necklaces/1030">Clearance Necklaces</a>
-            
-              <a href="/coordinate-necklaces/1126">Coordinate Necklaces</a>
-            
-              <a href="/dogeared-necklaces/1036">Dogeared Necklaces</a>
-            
-              <a href="/dog-tag-necklaces/563">Dog Tag Necklaces</a>
-            
-              <a href="/engraved-necklaces/545">Engravable Necklaces</a>
-            
-              <a href="/custom-birthstone-pendants/739">Family Tree Necklaces</a>
-            
-              <a href="/floating-lockets-charms/1038">Floating Locket Necklaces</a>
-            
-              <a href="/custom-gemstone-necklaces/1191">Gemstone Necklaces</a>
-            
-              <a href="/hand-stamped-necklaces/1049">Hand Stamped Necklaces</a>
-            
-              <a href="/heart-necklaces/221">Heart Necklaces</a>
-            
-              <a href="/initial-necklaces/230">Initial Necklaces</a>
-            
-              <a href="/silver-lockets/229">Lockets</a>
-            
-              <a href="/mens-necklaces/559">Men's Necklaces</a>
-            
-              <a href="/monogram-necklaces/904">Monogram Necklaces</a>
-            
-              <a href="/name-necklaces/827">Name Necklaces</a>
-            
-              <a href="/personalized-necklaces/733">Personalized Necklaces</a>
-            
-              <a href="/photo-necklaces/966">Photo Necklaces</a>
-            
-              <a href="/sterling-silver-necklaces/445">Sterling Silver Necklaces</a>
-            
-          </div>
-        </li>
-      
-        <li class="expand">
-          <span class="show_hide">Birthstones</span>
-          <div class="slidingDiv">
-            
-              <a href="/all-birthstone-jewelry/853">Shop All Birthstone Jewelry</a>
-            
-              <a href="/birthstone-bracelets/961">Birthstone Bracelets</a>
-            
-              <a href="/birthstone-earrings/837">Birthstone Earrings</a>
-            
-              <a href="/birthstone-necklaces/840">Birthstone Necklaces</a>
-            
-              <a href="/birthstone-rings/738">Birthstone Rings</a>
-            
-              <a href="/cage-jewelry/1118">Caged Locket Jewelry</a>
-            
-              <a href="/family-tree-necklaces/1041">Family Tree Jewelry</a>
-            
-              <a href="/shop-by-birthstone/982">Shop Birthstone by Month</a>
             
           </div>
         </li>
@@ -596,8 +455,6 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
             
               <a href="/geometric-rings/1137">Geometric Rings</a>
             
-              <a href="/gorjana-rings/1133">gorjana Rings</a>
-            
               <a href="/monogram-rings/1018">Initial &amp; Monogram Rings</a>
             
               <a href="/mens-rings/560">Men's Rings</a>
@@ -620,6 +477,65 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
         </li>
       
         <li class="expand">
+          <span class="show_hide">Necklaces</span>
+          <div class="slidingDiv">
+            
+              <a href="/all-necklaces/213">Shop All Necklaces</a>
+            
+              <a href="/14k-gold-necklaces/1082">14K Gold Necklaces</a>
+            
+              <a href="/name-bar-necklace/1028">Bar Necklaces</a>
+            
+              <a href="/birth-flower-necklaces/1218">Birth Flower Necklaces</a>
+            
+              <a href="/birthstone-necklaces/840">Birthstone Necklaces</a>
+            
+              <a href="/choker-necklaces/1141">Choker Necklaces</a>
+            
+              <a href="/clearance-necklaces/1030">Clearance Necklaces</a>
+            
+              <a href="/coordinate-necklaces/1126">Coordinate Necklaces</a>
+            
+              <a href="/dogeared-necklaces/1036">Dogeared Necklaces</a>
+            
+              <a href="/dog-tag-necklaces/563">Dog Tag Necklaces</a>
+            
+              <a href="/engraved-necklaces/545">Engravable Necklaces</a>
+            
+              <a href="/custom-birthstone-pendants/739">Family Tree Necklaces</a>
+            
+              <a href="/floating-lockets-charms/1038">Floating Locket Necklaces</a>
+            
+              <a href="/custom-gemstone-necklaces/1191">Gemstone Necklaces</a>
+            
+              <a href="/hand-stamped-necklaces/1049">Hand Stamped Necklaces</a>
+            
+              <a href="/heart-necklaces/221">Heart Necklaces</a>
+            
+              <a href="/infinity-necklaces/969">Infinity Necklaces</a>
+            
+              <a href="/initial-necklaces/230">Initial Necklaces</a>
+            
+              <a href="/silver-lockets/229">Lockets</a>
+            
+              <a href="/mens-necklaces/559">Men's Necklaces</a>
+            
+              <a href="/monogram-necklaces/904">Monogram Necklaces</a>
+            
+              <a href="/name-necklaces/827">Name Necklaces</a>
+            
+              <a href="/personalized-necklaces/733">Personalized Necklaces</a>
+            
+              <a href="/photo-necklaces/966">Photo Necklaces</a>
+            
+              <a href="/sterling-silver-necklaces/445">Sterling Silver Necklaces</a>
+            
+              <a href="/zodiac-necklace/1183">Zodiac Necklaces</a>
+            
+          </div>
+        </li>
+      
+        <li class="expand">
           <span class="show_hide">Bracelets</span>
           <div class="slidingDiv">
             
@@ -629,6 +545,8 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
             
               <a href="/bangle-bracelets/146">Bangle Bracelets</a>
             
+              <a href="/bead-charm-bracelets/1212">Bead Charm Bracelets</a>
+            
               <a href="/birthstone-bracelets/961">Birthstone Bracelets</a>
             
               <a href="/bolo-bracelets/1163">Bolo Bracelets</a>
@@ -637,7 +555,11 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
             
               <a href="/cuff-bracelets/145">Cuff Bracelets</a>
             
+              <a href="/cubic-zirconia-bracelets/143">Cubic Zirconia Bracelets</a>
+            
               <a href="/custom-leather-bracelets/1158">Custom Leather Bracelets</a>
+            
+              <a href="/personalized-name-bracelets/1160">Custom Name Bracelets</a>
             
               <a href="/engravable-bracelets/154">Engravable Bracelets</a>
             
@@ -649,9 +571,13 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
             
               <a href="/monogram-bracelets/999">Monogram Bracelets</a>
             
-              <a href="/personalized-name-bracelets/1160">Name Bracelets</a>
+              <a href="/nameplate-bracelet/1211">Nameplate Bracelets</a>
+            
+              <a href="/custom-anklet/1228">Personalized Anklets</a>
             
               <a href="/personalized-bracelets/732">Personalized Bracelets</a>
+            
+              <a href="/all-fashion-watches/1108">Watches</a>
             
               <a href="/wind-and-fire-bracelets/1079">Wind &amp; Fire Bracelets</a>
             
@@ -668,6 +594,8 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
             
               <a href="/clearance-earrings/1034">Clearance Earrings</a>
             
+              <a href="/clip-on-earrings/593">Clip On Earrings</a>
+            
               <a href="/cubic-zirconia-earrings/245">Cubic Zirconia Earrings</a>
             
               <a href="/cubic-zirconia-stud-earrings/253">Cubic Zirconia Stud Earrings</a>
@@ -678,7 +606,7 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
             
               <a href="/gemstone-earrings/1192">Gemstone Earrings</a>
             
-              <a href="/gorjana-earrings/1128">gorjana Earrings</a>
+              <a href="/heart-earrings/834">Heart Earrings</a>
             
               <a href="/hoop-earrings/250">Hoop Earrings</a>
             
@@ -687,6 +615,31 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
               <a href="/mens-earrings/679">Men's Earrings</a>
             
               <a href="/silver-earrings/497">Silver Earrings</a>
+            
+          </div>
+        </li>
+      
+        <li class="expand">
+          <span class="show_hide">Birthstones</span>
+          <div class="slidingDiv">
+            
+              <a href="/december-birthstone-jewelry/994">December Birthstone Jewelry</a>
+            
+              <a href="/all-birthstone-jewelry/853">Shop All Birthstone Jewelry</a>
+            
+              <a href="/birthstone-bar-necklace/1168">Birthstone Bar Necklaces</a>
+            
+              <a href="/birthstone-bracelets/961">Birthstone Bracelets</a>
+            
+              <a href="/birthstone-earrings/837">Birthstone Earrings</a>
+            
+              <a href="/birthstone-necklaces/840">Birthstone Necklaces</a>
+            
+              <a href="/birthstone-rings/738">Birthstone Rings</a>
+            
+              <a href="/cage-jewelry/1118">Caged Locket Jewelry</a>
+            
+              <a href="/family-tree-necklaces/1041">Family Tree Jewelry</a>
             
           </div>
         </li>
@@ -707,13 +660,17 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
             
               <a href="/cubic-zirconia-jewelry/669">Cubic Zirconia Jewelry</a>
             
-              <a href="/all-tiffany-style-jewelry/438">Designer Style Jewelry</a>
+              <a href="/dog-tag-jewelry/521">Dog Tag Jewelry</a>
             
               <a href="/dogeared-jewelry/1062">Dogeared Jewelry</a>
             
+              <a href="/enamel-jewelry/662">Enamel Jewelry</a>
+            
+              <a href="/engraved-accessories/551">Engravable Accessories</a>
+            
               <a href="/engravable-jewelry/543">Engravable Jewelry</a>
             
-              <a href="/foxy-jewelry/1124">Foxy Jewelry</a>
+              <a href="/evil-eye-jewelry/1216">Evil Eye Jewelry</a>
             
               <a href="/fornash-jewelry/1125">Fornash Jewelry</a>
             
@@ -721,11 +678,21 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
             
               <a href="/gorjana-jewelry/1117">gorjana Jewelry</a>
             
+              <a href="/hamsa-jewelry/1215">Hamsa Jewelry</a>
+            
               <a href="/i-love-you-to-the-moon-and-back-necklace/1051" style="line-height: 1em; padding: 9px 0 9px 40px;">I Love You to the Moon &amp; Back Jewelry</a>
             
               <a href="/all-mens-jewelry/609">Men's Jewelry</a>
             
+              <a href="/morganite-jewelry/1219">Morganite Jewelry</a>
+            
+              <a href="/pearl-jewelry/635">Pearl Jewelry</a>
+            
+              <a href="/rainbow-jewelry/1207">Rainbow Jewelry</a>
+            
               <a href="/all-religious-jewelry/642">Religious Jewelry</a>
+            
+              <a href="/stella-valle-charm-jewelry/1208">Stella Valle Jewelry</a>
             
               <a href="/vintage-jewelry/511">Vintage Jewelry</a>
             
@@ -733,20 +700,36 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
         </li>
       
         <li class="expand">
-          <span class="show_hide">Monograms</span>
+          <span class="show_hide">Recipient</span>
           <div class="slidingDiv">
             
-              <a href="/monogram-jewelry/771">Shop All Monogram Jewelry</a>
+              <a href="/personalized-best-friend-gifts/1109">Best Friend Gifts</a>
             
-              <a href="/monogram-bracelets/999">Monogram Bracelets</a>
+              <a href="/bridal-party-jewelry/542">Bridal Party Gifts</a>
             
-              <a href="/monogram-earrings/1002">Monogram Earrings</a>
+              <a href="/couples-jewelry/836">Couples Jewelry</a>
             
-              <a href="/monogram-necklaces/904">Monogram Necklaces</a>
+              <a href="/custom-aunt-jewelry/1120">Gifts for Aunt</a>
             
-              <a href="/monogram-rings/1018">Monogram Rings</a>
+              <a href="/custom-fathers-day-gifts/1056">Gifts for Dad</a>
             
-              <a href="/initial-number-jewelry/306">Number Necklaces</a>
+              <a href="/girlfriend-gifts/1187">Gifts for Girlfriend</a>
+            
+              <a href="/grandma-jewelry/1020">Gifts for Grandma</a>
+            
+              <a href="/custom-jewelry-for-her/1009">Gifts for Her</a>
+            
+              <a href="/gifts-for-men/558">Gifts for Him</a>
+            
+              <a href="/custom-jewelry-for-kids/1010">Gifts for Kids</a>
+            
+              <a href="/custom-mom-jewelry/1011">Gifts for Mom</a>
+            
+              <a href="/new-baby-push-gifts/407">Gifts for New Moms</a>
+            
+              <a href="/sister-jewelry/1104">Gifts for Sisters</a>
+            
+              <a href="/mother-daughter-jewelry/1156">Mother Daughter Jewelry</a>
             
           </div>
         </li>
@@ -755,13 +738,14 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
 
   </li>
 </ul>
- </div>
+  </div>
  <!--END MOBILE HEADER-->
 
- <form class="mobileSearch" method="GET" action="/search" id="nxt-search-form-mobile">
+ <form class="mobileSearch" method="GET" action="/search" id="nxt-search-form-mobile-page">
   <div class="search ui-front">
-   <input type="text" class="text" autocomplete="off" name="q" value="What are you looking for?" onfocus="if(this.value=='What are you looking for?') this.value='';">
-   <button type="submit" class="searchButton">
+   <input aria-label="Site Search" type="text" class="text" autocomplete="off" name="q" placeholder="What are you looking for?">
+
+   <button type="submit" class="searchButton" aria-label="Search">
      <span class="search-Magnifying-Glass"></span>
    </button>
    <span class="mobile-search-close" id="mobile-search-close"></span>  </div>
@@ -772,38 +756,38 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
    <div class="grid_4 alpha logo">
     <span class="coName">Eve's Addiction</span>
     <a href="https://www.evesaddiction.com">
-     <img src="https://eves.tac-cdn.net/images/v2/layout/logo.png?auto=webp&amp;quality=25" width="300" alt="Eve's Addiction">
+     <img src="https://eves.tac-cdn.net/images/v2/layout/logo.png?auto=webp&amp;quality=25" width="300" alt="Eve's Addiction - go to homepage">
      <span class="coName">Eve's Addiction</span>
    </a>
    </div><!--grid_4-->
    <div class="grid_5">
-	  <form class="search" method="GET" action="/search" id="nxt-search-form">
+    <form class="search nxt-search-form" method="GET" action="/search" id="nxt-search-form">
      <div class="search ui-front">
-      <input type="text" class="text" autocomplete="off" name="q" value="What are you looking for?" onfocus="if(this.value=='What are you looking for?') this.value='';">
-      <input type="submit" class="searchButton" value="">
+      <label for="desktop-site-search-txt" class="visually-hidden">Site Search: </label>
+      <input id="desktop-site-search-txt" aria-label="Site Search" type="text" class="text" autocomplete="off" name="q" placeholder="What are you looking for?">
+      <input type="submit" class="searchButton" value="Search">
      </div>
     </form>
-    <p id="shipTime">Order <span>now</span> &amp; it ships <span>Friday</span>!</p>
+    <p id="shipTime">Order in the next <span>8h</span> &amp; <span>42m</span> &amp; it could ship <span>TODAY</span>!</p>
    </div><!--grid_5-->
    <div class="grid_3 omega">
-    <a class="log-out" title="Log Out" href="/logout" style="display: none;">Log Out</a>
-    <a class="log-in is-not-login-page is-https" title="Log In To Your Account">Log In</a>
+    <button type="button" class="log-out" title="Log Out" href="/logout" style="display: none;">Log Out</button>
+    <button type="button" aria-haspopup="dialog" class="log-in is-not-login-page is-https" title="Log In To Your Account">Log In</button>
     <div class="header-account-link">
       | <a href="/account" title="account">My Account</a>
     </div>
 
-   | <a href="/custsrv.html" title="Contact">Contact Us</a>
-    <div class="bag empty"><a href="/cart" title="Cart">Cart<span></span></a></div>
+   | <a href="/custsrv.html">Contact Us</a>
+    <div class="bag empty"><a href="/cart">Cart<span></span></a></div>
 
    </div><!--grid_3-->
   </div><!--grid_12-->
 
-  <div class="grid_12">
+  <div>
 <style>
-.topNav ul.dropDown .holidayRight.sticky { margin-left: 37px !important; }
+.topNav ul.dropDown .holidayRight.sticky { margin-left: 22px !important; } 
 /* .sticky needs to stay here because it gets changed during the holidays. */
 
-.topNav a:hover, 
 .topNav ul.dropDown li.hover a#menu_1,
 .topNav ul.dropDown li.hover a#menu_2,
 .topNav ul.dropDown li.hover a#menu_3,
@@ -812,10 +796,51 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
 .topNav ul.dropDown li.hover a#menu_6,
 .topNav ul.dropDown li.hover a#menu_7,
 .topNav ul.dropDown li.hover a#menu_8,
-.topNav ul.dropDown li.hover a#menu_9 {
- background: #92adc9;
+.topNav ul.dropDown li.hover a#menu_9,
+.topNav ul.dropDown li.hover a#menu_11 {
+ background: #000;
  color: #fff;
  text-decoration: none;
+}
+.topNav ul.dropDown li.hover a#menu_1 + div.subMenu {
+ margin-left: -92px;
+ width: 938px;
+}
+.topNav ul.dropDown li.hover a#menu_2 + div.subMenu {
+ margin-left: -241px;
+ width: 938px;
+}
+.topNav ul.dropDown li.hover a#menu_3 + div.subMenu {
+ width: 938px;
+}
+.topNav ul.dropDown li.hover a#menu_4 + div.subMenu {
+ margin-left: -154px;
+ width: 938px;
+}
+.topNav ul.dropDown li.hover a#menu_5 + div.subMenu {
+ margin-left: -326px;
+ width: 938px;
+}
+.topNav ul.dropDown li.hover a#menu_6 + div.subMenu {
+ margin-left: -482px;
+ width: 748px;
+}
+.topNav ul.dropDown li.hover a#menu_7 + div.subMenu {
+ margin-left: -228px;
+ width: 558px;
+}
+.topNav ul.dropDown li.hover a#menu_8 + div.subMenu {
+ margin-left: -452px;
+ width: 748px;
+}
+.topNav ul.dropDown li.hover a#menu_9 + div.subMenu {
+ margin-left: -241px;
+ width: 369px;
+}
+.topNav ul.dropDown li.hover a#menu_10 + div.subMenu {
+ margin-left: -875px;
+ width: 938px;
+ margin-top: -1px;
 }
 .topNav ul.dropDown li.holidayRight {
  float: right;
@@ -830,27 +855,31 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
  color: #fff;
 }
 .topNav ul.dropDown li a {
- padding: 12px 14px 14px;
+ padding: 12px 12px 14px;
  display: block;
 }
-.topNav ul.dropDown li div.subMenu ul.grid_12 {
+.topNav ul.dropDown li div.subMenu ul.grid_12,
+div.subMenuContainer ul.grid_12 {
  width: 910px;
  height: 25px;
  background-color: #f5f5f5;
  padding: 20px 0 90px 30px;
  }
-.topNav ul.dropDown li div.subMenu ul.grid_12 li {
+.topNav ul.dropDown li div.subMenu ul.grid_12 li,
+div.subMenuContainer ul.grid_12 li {
  background-color: #fff;
  margin-right: 26px;
  height: 110px;
  width: 104px;
 }
-.topNav ul.dropDown li div.subMenu ul.grid_12 li a img {
+.topNav ul.dropDown li div.subMenu ul.grid_12 li a img,
+div.subMenuContainer ul.grid_12 li a img {
  margin: -12px 0 0 -18px;
  position: absolute;
  z-index: 0;
 }
-.topNav ul.dropDown li div.subMenu ul.grid_12 li a span {
+.topNav ul.dropDown li div.subMenu ul.grid_12 li a span,
+div.subMenuContainer ul.grid_12 li a span {
  background-color: #ccc;
  padding: 10px;
  width: 90px;
@@ -872,7 +901,8 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
  opacity:0.55;
  filter:alpha(opacity=55);
 }
-.topNav ul.dropDown li div.subMenu p.doubleLines {
+.topNav ul.dropDown li div.subMenu p.doubleLines,
+div.subMenuContainer p.doubleLines {
  margin-bottom: 8px;
  }
 .topNav ul.dropDown li a.browseAll {
@@ -885,20 +915,18 @@ src="https://ct.pinterest.com/v3/?tid=2618294045509&noscript=1" />
  text-decoration: underline;
  color: #000;
 }
-.topNav ul.dropDown li a#menu_9 {
-}
 .topNav ul.dropDown li a#menu_9:hover {
  padding-bottom: 15px;
 }
 .topNav ul.dropDown li a#menu_10 {
  margin-right: 0;
  padding: 12px 16px 15px 16px !important;
- color: #f87b6a;
+ color: #63769d;
 }
-.topNav ul.dropDown li a#menu_10:hover,
 .topNav ul.dropDown li.hover a#menu_10 {
- background-color: #f87b6a; 
+ background-color: #63769d;
  color: #fff;
+ text-decoration: none;
 }
 .topNav ul.dropDown li a#menu_holiday {
  background: #e61e4b;
@@ -915,13 +943,20 @@ color: #f283d7 !important;
 padding-left: 18px !important;
 background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?auto=webp&quality=25) 0 3px no-repeat !important;
 }
+.topNav.mobileTopNav {
+  display: none;
+}
+div.subMenuContainer {
+  display: none;
+}
+
 </style>
-<div class="topNav">
+<div class="topNav desktopTopNav">
  <ul class="dropDown">
  	<li><a href="https://www.evesaddiction.com/all-necklaces/213" title="" id="menu_3">Necklaces</a>
-   <div class="subMenu grid_12 alpha omega" style="width: 938px;">
-   <img src="https://eves.tac-cdn.net/images/v2/layout/icon_triangleHalf.png?auto=webp&amp;quality=25" width="19" height="9" alt="" style="position: absolute; top: -9px; left: 35px;">
-    <ul class="grid_2 alpha omega"> 
+   <div class="subMenu grid_12 alpha omega">
+   <img src="https://eves.tac-cdn.net/images/v2/layout/icon_triangleHalf.png?auto=webp&amp;quality=25" width="19" height="9" alt="" style="position: absolute; top: -9px; left: 36px;">
+    <ul class="grid_2 alpha omega">
      <li><span class="columnHead" style="color: #ee99b7;">PERSONALIZED</span></li>
      <li><a href="https://www.evesaddiction.com/name-bar-necklace/1028">Bar Necklaces</a></li>
      <li><a href="https://www.evesaddiction.com/birthstone-necklaces/840">Birthstone Necklaces</a></li>
@@ -941,6 +976,7 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
     <div class="vrOne"><div class="vr"></div></div>
     <ul class="grid_2 alpha omega">
      <li><span class="columnHead">Shop By Category</span></li>
+     <li><a href="https://www.evesaddiction.com/birth-flower-necklaces/1218">Birth Flower Necklaces</a></li>
      <li><a href="https://www.evesaddiction.com/charm-necklace-sets/1111">Charm Necklaces</a></li>
      <li><a href="https://www.evesaddiction.com/choker-necklaces/1141">Choker Necklaces</a></li>
      <li><a href="https://www.evesaddiction.com/cross-pendants/216">Cross Necklaces</a></li>
@@ -959,7 +995,7 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
     <ul class="grid_2 alpha omega">
      <li><span class="columnHead">Shop By Recipient</span></li>
      <li><a href="https://www.evesaddiction.com/friendship-necklaces/1003">Friendship Necklaces</a></li>
-     <li><a href="https://www.evesaddiction.com/top-jewelry-gifts/1155">Giftable Necklaces</a></li>
+     <li><a href="https://www.evesaddiction.com/necklace-with-card/1155">Giftable Necklaces</a></li>
      <li><a href="https://www.evesaddiction.com/girlfriend-necklace/1173">Girlfriend Necklaces</a></li>
      <li><a href="https://www.evesaddiction.com/grandmother-necklaces/1004">Grandmother's Necklaces</a></li>
      <li><a href="https://www.evesaddiction.com/mens-necklaces/559">Men's Necklaces</a></li>
@@ -990,8 +1026,8 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
   </li>
 
   <li><a href="https://www.evesaddiction.com/all-rings/166" title="" id="menu_1">Rings</a>
-   <div class="subMenu grid_12 alpha omega" style="width: 938px; left: -96px;">
-   <img src="https://eves.tac-cdn.net/images/v2/layout/icon_triangleHalf.png?auto=webp&amp;quality=25" width="19" height="9" alt="" style="position: absolute; top: -9px; left: 117px;">
+   <div class="subMenu grid_12 alpha omega">
+   <img src="https://eves.tac-cdn.net/images/v2/layout/icon_triangleHalf.png?auto=webp&amp;quality=25" width="19" height="9" alt="" style="position: absolute; top: -9px; left: 112px;">
     <ul class="grid_2 alpha omega">
      <li><span class="columnHead" style="color: #ee99b7;">PERSONALIZED</span></li>
      <li><a href="https://www.evesaddiction.com/birthstone-rings/738">Birthstone Rings</a></li>
@@ -1006,12 +1042,10 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
      <li><a href="https://www.evesaddiction.com/claddagh-rings/183">Claddagh Rings</a></li>
      <li><a href="https://www.evesaddiction.com/clearance-rings/1031">Clearance Rings</a></li>
      <li><a href="https://www.evesaddiction.com/cubic-zirconia-rings/168">Cubic Zirconia Rings</a></li>
-     <li><a href="https://www.evesaddiction.com/tiffany-style-rings/169">Designer Style Rings</a></li>
      <li><a href="https://www.evesaddiction.com/cubic-zirconia-engagement-rings/171">Engagement Rings</a></li>
      <li><a href="https://www.evesaddiction.com/fake-diamond-rings/186">Fake Diamond Rings</a></li>
      <li><a href="https://www.evesaddiction.com/custom-gemstone-rings/1193">Gemstone Rings</a></li>
      <li><a href="https://www.evesaddiction.com/geometric-rings/1137">Geometric Rings</a></li>
-     <li><a href="https://www.evesaddiction.com/gorjana-rings/1133">gorjana Rings</a></li>
      <li><a href="https://www.evesaddiction.com/infinity-rings/965">Infinity Rings</a></li>
      <li><a href="https://www.evesaddiction.com/promise-rings/811">Promise Rings</a></li>
      <li><a href="https://www.evesaddiction.com/stackable-rings/866">Stackable Rings</a></li>
@@ -1022,7 +1056,7 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
     <ul class="grid_2 alpha omega">
      <li><span class="columnHead">Shop By Recipient</span></li>
      <li><a href="https://www.evesaddiction.com/couples-rings/1015">Couple's Rings</a></li>
-     <li><a href="https://www.evesaddiction.com/friendship-rings/181">Friendship Rings</a></li>
+     <li><a href="https://www.evesaddiction.com/friendship-rings/181">Best Friend Rings</a></li>
      <li><a href="https://www.evesaddiction.com/grandmothers-rings/996">Grandmother's Rings</a></li>
      <li><a href="https://www.evesaddiction.com/mens-rings/560">Men's Rings</a></li>
      <li><a href="https://www.evesaddiction.com/mother-rings/1016">Mother's Rings</a></li>
@@ -1054,35 +1088,35 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
   </li>
 
   <li><a href="https://www.evesaddiction.com/all-bracelets/141" title="" id="menu_4">Bracelets</a>
-   <div class="subMenu grid_12 alpha omega" style="width: 938px; left: -162px;">
-   <img src="https://eves.tac-cdn.net/images/v2/layout/icon_triangleHalf.png?auto=webp&amp;quality=25" width="19" height="9" alt="" style="position: absolute; top: -9px; left: 196px;">
+   <div class="subMenu grid_12 alpha omega">
+   <img src="https://eves.tac-cdn.net/images/v2/layout/icon_triangleHalf.png?auto=webp&amp;quality=25" width="19" height="9" alt="" style="position: absolute; top: -9px; left: 187px;">
     <ul class="grid_2 alpha omega">
      <li><span class="columnHead" style="color: #ee99b7;">PERSONALIZED</span></li>
      <li><a href="https://www.evesaddiction.com/birthstone-bracelets/961">Birthstone Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/coordinate-bracelets/1139">Coordinate Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/custom-leather-bracelets/1158">Custom Leather Bracelets</a></li>
+     <li><a href="https://www.evesaddiction.com/personalized-name-bracelets/1160">Custom Name Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/engravable-bracelets/154">Engravable Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/engravable-id-bracelets/561">Engravable ID Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/monogram-bracelets/999">Monogram Bracelets</a></li>
-     <li><a href="https://www.evesaddiction.com/personalized-name-bracelets/1160">Name Bracelets</a></li>
+     <li><a href="https://www.evesaddiction.com/nameplate-bracelet/1211">Nameplate Bracelets</a></li>
+     <li><a href="https://www.evesaddiction.com/custom-anklet/1228">Personalized Anklets</a></li>
      <li><a href="https://www.evesaddiction.com/personalized-bracelets/732">Personalized Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/roman-numeral-bracelet/1181">Roman Numeral Bracelets</a></li>
     </ul>
     <div class="vrOne"><div class="vr"></div></div>
     <ul class="grid_2 alpha omega">
      <li><span class="columnHead">Shop By Category</span></li>
-     <li><a href="https://www.evesaddiction.com/anklets-and-toe-rings/423">Anklets</a></li>
      <li><a href="https://www.evesaddiction.com/bangle-bracelets/146">Bangle Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/bolo-bracelets/1163">Bolo Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/charm-bracelets/149">Charm Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/cuff-bracelets/145">Cuff Bracelets</a></li>
+     <li><a href="https://www.evesaddiction.com/cubic-zirconia-bracelets/143">Cubic Zirconia Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/hair-tie-bracelet/1189">Hairtie Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/inspirational-bracelets/1169">Inspirational Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/leather-bracelets/1090">Leather Bracelets</a></li>
-     <li><a href="https://www.evesaddiction.com/mantra-bracelets/1162">Mantra Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/signet-bracelets/1149">Signet Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/stackable-bracelets/157">Stackable Bracelets</a></li>
-     <li><a href="https://www.evesaddiction.com/tennis-bracelets/147">Tennis Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/wind-and-fire-bracelets/1079">Wind &amp; Fire Bracelets</a></li>
      <li><a href="https://www.evesaddiction.com/wrap-bracelets/909">Wrap Bracelets</a></li>
     </ul>
@@ -1117,8 +1151,8 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
   </li>
 
   <li><a href="https://www.evesaddiction.com/all-earrings/244" title="" id="menu_2">Earrings</a>
-   <div class="subMenu grid_12 alpha omega" style="width: 938px; left: -253px;">
-   <img src="https://eves.tac-cdn.net/images/v2/layout/icon_triangleHalf.png?auto=webp&amp;quality=25" width="19" height="9" alt="" style="position: absolute; top: -9px; left: 284px;">
+   <div class="subMenu grid_12 alpha omega">
+   <img src="https://eves.tac-cdn.net/images/v2/layout/icon_triangleHalf.png?auto=webp&amp;quality=25" width="19" height="9" alt="" style="position: absolute; top: -9px; left: 272px;">
     <ul class="grid_2 alpha omega">
      <li><span class="columnHead" style="color: #ee99b7;">PERSONALIZED</span></li>
      <li><a href="https://www.evesaddiction.com/birthstone-earrings/837">Birthstone Earrings</a></li>
@@ -1130,15 +1164,16 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
     <ul class="grid_2 alpha omega">
      <li><span class="columnHead">Shop By Category</span></li>
      <li><a href="https://www.evesaddiction.com/clearance-earrings/1034">Clearance Earrings</a></li>
+     <li><a href="https://www.evesaddiction.com/clip-on-earrings/593">Clip On Earrings</a></li>
      <li><a href="https://www.evesaddiction.com/cubic-zirconia-earrings/245">Cubic Zirconia Earrings</a></li>
      <li><a href="https://www.evesaddiction.com/cubic-zirconia-stud-earrings/253">Cubic Zirconia Stud Earrings</a></li>
      <li><a href="https://www.evesaddiction.com/dangle-earrings/249">Dangle Earrings</a></li>
      <li><a href="https://www.evesaddiction.com/tiffany-style-earrings/440">Designer Style Earrings</a></li>
      <li><a href="https://www.evesaddiction.com/ear-cuffs/1066">Ear Cuffs</a></li>
      <li><a href="https://www.evesaddiction.com/gemstone-earrings/1192">Gemstone Earrings</a></li>
-     <li><a href="https://www.evesaddiction.com/gorjana-earrings/1128">gorjana Earrings</a></li>
-     <li><a href="https://www.evesaddiction.com/huggy-earrings/260">Huggie Earrings</a></li>
+     <li><a href="https://www.evesaddiction.com/heart-earrings/834">Heart Earrings</a></li>
      <li><a href="https://www.evesaddiction.com/hoop-earrings/250">Hoop Earrings</a></li>
+     <li><a href="https://www.evesaddiction.com/huggy-earrings/260">Huggie Earrings</a></li>
      <li><a href="https://www.evesaddiction.com/silver-stud-earrings/717">Silver Stud Earrings</a></li>
      <li><a href="https://www.evesaddiction.com/vintage-earrings/262">Vintage Earrings</a></li>
     </ul>
@@ -1172,8 +1207,8 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
 
 
   <li><a href="https://www.evesaddiction.com/new-jewelry-trends/724" title="" id="menu_5">Collections</a>
-   <div class="subMenu grid_12 alpha omega" style="width: 938px; left: -342px;">
-   <img src="https://eves.tac-cdn.net/images/v2/layout/icon_triangleHalf.png?auto=webp&amp;quality=25" width="19" height="9" alt="" style="position: absolute; top: -9px; left: 384px;">
+   <div class="subMenu grid_12 alpha omega">
+   <img src="https://eves.tac-cdn.net/images/v2/layout/icon_triangleHalf.png?auto=webp&amp;quality=25" width="19" height="9" alt="" style="position: absolute; top: -9px; left: 364px;">
     <ul class="grid_2 alpha omega">
      <li><span class="columnHead" style="color: #ee99b7;">PERSONALIZED</span></li>
      <li><a href="https://www.evesaddiction.com/acrylic-jewelry/1080">Acrylic Jewelry</a></li>
@@ -1181,6 +1216,8 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
      <li><a href="https://www.evesaddiction.com/all-birthstone-jewelry/853">Birthstone Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/cage-jewelry/1118">Caged Locket Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/custom-coordinate-jewelry/1135">Coordinate Jewelry</a></li>
+     <li><a href="https://www.evesaddiction.com/dog-tag-jewelry/521">Dog Tag Jewelry</a></li>
+     <li><a href="https://www.evesaddiction.com/engraved-accessories/551">Engravable Accessories</a></li>
      <li><a href="https://www.evesaddiction.com/engravable-jewelry/543">Engravable Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/engraved-mens-jewelry/544">Engravable Men's Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/nameplate-jewelry/579">Nameplate Jewelry</a></li>
@@ -1193,15 +1230,14 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
      <li><a href="https://www.evesaddiction.com/amber-jewelry/920">Amber Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/anklets-and-toe-rings/423">Anklets</a></li>
      <li><a href="https://www.evesaddiction.com/wedding-jewelry/533">Bridal Jewelry</a></li>
-     <li><a href="https://www.evesaddiction.com/celebrity-jewelry/573">Celebrity Inspired Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/cubic-zirconia-jewelry/669">Cubic Zirconia Jewelry</a></li>
-     <li><a href="https://www.evesaddiction.com/all-tiffany-style-jewelry/438">Designer Style Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/dogeared-jewelry/1062">Dogeared Jewelry</a></li>
-     <li><a href="https://www.evesaddiction.com/foxy-jewelry/1124">Foxy Jewelry</a></li>
+     <li><a href="https://www.evesaddiction.com/evil-eye-jewelry/1216">Evil Eye Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/gemstone-jewelry/1159">Gemstone Jewelry</a></li>
-     <li><a href="https://www.evesaddiction.com/gorjana-jewelry/1117">gorjana Jewelry</a></li>
-     <li><a href="https://www.evesaddiction.com/nautical-jewelry/580">Nautical Jewelry</a></li>
+     <li><a href="https://www.evesaddiction.com/hamsa-jewelry/1215">Hamsa Jewelry</a></li>
+     <li><a href="https://www.evesaddiction.com/morganite-jewelry/1219">Morganite Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/new-jewelry-arrivals/427">New Arrivals</a></li>
+     <li><a href="https://www.evesaddiction.com/rainbow-jewelry/1207">Rainbow Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/all-religious-jewelry/642">Religious Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/vintage-jewelry/511">Vintage Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/all-fashion-watches/1108">Watches</a></li>
@@ -1219,61 +1255,33 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
     <ul class="grid_2 alpha omega">
      <li><span class="columnHead">Shop By Material</span></li>
      <li><a href="https://www.evesaddiction.com/14kt-gold-jewelry/1039">14K Gold Jewelry</a></li>
+     <li><a href="https://www.evesaddiction.com/enamel-jewelry/662">Enamel Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/personalized-gold-jewelry/690">Gold Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/all-rose-gold-jewelry/934">Rose Gold Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/sterling-silver-jewelry/1022">Sterling Silver Jewelry</a></li>
     </ul>
     <ul class="grid_2 alpha omega whiteLast">
      <li>
-      <a href="https://www.evesaddiction.com/all-tiffany-style-jewelry/438" class="rightThumb">
-       <img src="https://eves.tac-cdn.net/images/v2/products/catImages/nlz10017.jpg?auto=webp&amp;quality=60" width="150" height="150" alt="">
-       Designer Style Jewelry that Wows!
+      <a href="https://www.evesaddiction.com/custom-coordinate-jewelry/1135" class="rightThumb">
+       <img src="https://eves.tac-cdn.net/images/v2/products/catImages/nl12045.jpg?auto=webp&amp;quality=60" width="150" height="150" alt="">
+       Coordinate Jewelry<br>with Meaning
      </a>
      <p class="doubleLines"></p>
-     <a href="https://www.evesaddiction.com/all-tiffany-style-jewelry/438">Browse All Designer Style Jewelry »</a>
+     <a href="https://www.evesaddiction.com/custom-coordinate-jewelry/1135">Browse All Coordinate Jewelry »</a>
      </li>
     </ul>
    </div><!--subMenu-->
   </li>
 
-  <li><a href="https://www.evesaddiction.com/monogram-jewelry/771" title="" id="menu_7">Monograms</a>
-   <div class="subMenu grid_12 alpha omega" style="width: 558px; left: -228px;">
-   <img src="https://eves.tac-cdn.net/images/v2/layout/icon_triangleHalf.png?auto=webp&amp;quality=25" width="19" height="9" alt="" style="position: absolute; top: -9px; left: 272px;">
-    <ul class="grid_2 alpha omega">
-     <li><span class="columnHead">Shop By Category</span></li>
-     <li><a href="https://www.evesaddiction.com/monogram-jewelry/771">All Monogram Jewelry</a></li>
-     <li><a href="https://www.evesaddiction.com/monogram-necklaces/904">Monogram Necklaces</a></li>
-     <li><a href="https://www.evesaddiction.com/monogram-rings/1018">Monogram Rings</a></li>
-     <li><a href="https://www.evesaddiction.com/monogram-bracelets/999">Monogram Bracelets</a></li>
-     <li><a href="https://www.evesaddiction.com/monogram-earrings/1002">Monogram Earrings</a></li>
-     <li><a href="https://www.evesaddiction.com/initial-number-jewelry/306">Number Necklaces</a></li>
-    </ul>
-    <div class="vrOne"><div class="vr"></div></div>
-    <ul class="grid_2 alpha omega">
-     <li><span class="columnHead">Shop By Material</span></li>
-     <li><a href="https://www.evesaddiction.com/acrylic-necklaces/1012">Acrylic Monograms</a></li>
-     <li><a href="https://www.evesaddiction.com/gold-monogram-jewelry/1013">Gold Monograms</a></li>
-     <li><a href="https://www.evesaddiction.com/rose-gold-monogram-jewelry/1077">Rose Gold Monograms</a></li>
-     <li><a href="https://www.evesaddiction.com/silver-monogram-jewelry/1014">Sterling Silver Monograms</a></li>
-    </ul>
-    <ul class="grid_2 alpha omega whiteLast">
-     <li>
-      <a href="https://www.evesaddiction.com/monogram-jewelry/771" class="rightThumb">
-       <img src="https://eves.tac-cdn.net/images/v2/products/catImages/nl11388.jpg?auto=webp&amp;quality=60" width="150" height="150" alt="">
-       Add a Monogram to <i>Wow</i>
-     </a>
-     <p class="doubleLines"></p>
-     <a href="https://www.evesaddiction.com/monogram-jewelry/771">Browse All Monograms »</a>
-     </li>
-    </ul>
-   </div>
+  <li><a href="/instashop.html" title="" id="menu_3">Instashop</a>
   </li>
 
   <li><a href="https://www.evesaddiction.com/all-birthstone-jewelry/853" title="" id="menu_8">Birthstones</a>
-   <div class="subMenu grid_12 alpha omega" style="width: 748px; left: -452px;">
+   <div class="subMenu grid_12 alpha omega">
    <img src="https://eves.tac-cdn.net/images/v2/layout/icon_triangleHalf.png?auto=webp&amp;quality=25" width="19" height="9" alt="" style="position: absolute; top: -9px; left: 494px;">
     <ul class="grid_2 alpha omega">
      <li><span class="columnHead">Shop By Category</span></li>
+     <li><a href="https://www.evesaddiction.com/december-birthstone-jewelry/994">December Birthstone Jewelry</a></li>              
      <li><a href="https://www.evesaddiction.com/all-birthstone-jewelry/853">All Birthstone Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/birthstone-bar-necklace/1168">Birthstone Bar Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/birthstone-bracelets/961">Birthstone Bracelets</a></li>
@@ -1314,12 +1322,11 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
   </li>
 
   <li><a href="https://www.evesaddiction.com/custom-jewelry/1045" title="" id="menu_6">Custom</a>
-   <div class="subMenu grid_12 alpha omega" style="width: 748px; left: -482px;">
+   <div class="subMenu grid_12 alpha omega">
    <img src="https://eves.tac-cdn.net/images/v2/layout/icon_triangleHalf.png?auto=webp&amp;quality=25" width="19" height="9" alt="" style="position: absolute; top: -9px; left: 511px;">
     <ul class="grid_2 alpha omega">
      <li><span class="columnHead">Shop By Category</span></li>
      <li><a href="https://www.evesaddiction.com/all-birthstone-jewelry/853">Birthstone Jewelry</a></li>
-     <li><a href="https://www.evesaddiction.com/custom-charm-necklaces/1060">Build Your Own Charm Necklaces</a></li>
      <li><a href="https://www.evesaddiction.com/cage-jewelry/1118">Caged Locket Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/custom-coordinate-jewelry/1135">Coordinate Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/personalized-gifts/1053">Custom Gifts</a></li>
@@ -1363,22 +1370,24 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
   </li>
 
   <li><a href="https://www.evesaddiction.com/gifts-for-recipient/1194" title="" id="menu_9">Recipient</a>
-   <div class="subMenu grid_12 alpha omega" style="width: 369px; left: -241px;">
+   <div class="subMenu grid_12 alpha omega">
    <img src="https://eves.tac-cdn.net/images/v2/layout/icon_triangleHalfWhite.png?auto=webp&amp;quality=25" width="19" height="9" alt="" style="position: absolute; top: -9px; left: 272px;">
     <ul class="grid_2 alpha omega">
      <li><span class="columnHead">Shop By Recipient</span></li>
-     <li><a href="https://www.evesaddiction.com/custom-jewelry-for-her/1009">Gifts for Her</a></li>
-     <li><a href="https://www.evesaddiction.com/gifts-for-men/558">Gifts for Him</a></li>
-     <li><a href="https://www.evesaddiction.com/grandma-jewelry/1020">Gifts for Grandma</a></li>
-     <li><a href="https://www.evesaddiction.com/custom-mom-jewelry/1011">Gifts for Mom</a></li>
-     <li><a href="https://www.evesaddiction.com/new-baby-push-gifts/407">Gifts for New Moms</a></li>
+     <li><a href="https://www.evesaddiction.com/personalized-best-friend-gifts/1109">Best Friend Gifts</a></li>
+     <li><a href="https://www.evesaddiction.com/bridal-party-jewelry/542">Bridal Party Gifts</a></li>
+     <li><a href="https://www.evesaddiction.com/couples-jewelry/836">Couples Jewelry</a></li>
+     <li><a href="https://www.evesaddiction.com/custom-aunt-jewelry/1120">Gifts for Aunt</a></li>
      <li><a href="https://www.evesaddiction.com/custom-fathers-day-gifts/1056">Gifts for Dad</a></li>
      <li><a href="https://www.evesaddiction.com/girlfriend-gifts/1187">Gifts for Girlfriend</a></li>
+     <li><a href="https://www.evesaddiction.com/grandma-jewelry/1020">Gifts for Grandma</a></li>
+     <li><a href="https://www.evesaddiction.com/custom-jewelry-for-her/1009">Gifts for Her</a></li>
+     <li><a href="https://www.evesaddiction.com/gifts-for-men/558">Gifts for Him</a></li>
      <li><a href="https://www.evesaddiction.com/custom-jewelry-for-kids/1010">Gifts for Kids</a></li>
-     <li><a href="https://www.evesaddiction.com/personalized-best-friend-gifts/1109">Best Friend Gifts</a></li>
-     <li><a href="https://www.evesaddiction.com/custom-aunt-jewelry/1120">Gifts for Aunt</a></li>
-     <li><a href="https://www.evesaddiction.com/bridal-party-jewelry/542">Bridal Party Gifts</a></li>
-     <li><a href="https://www.evesaddiction.com/graduation-jewelry-gifts/402">Gifts for Grads</a></li>
+     <li><a href="https://www.evesaddiction.com/custom-mom-jewelry/1011">Gifts for Mom</a></li>
+     <li><a href="https://www.evesaddiction.com/new-baby-push-gifts/407">Gifts for New Moms</a></li>
+     <li><a href="https://www.evesaddiction.com/sister-jewelry/1104">Gifts for Sisters</a></li>
+     <li><a href="https://www.evesaddiction.com/mother-daughter-jewelry/1156">Mother Daugther Jewelry</a></li>
     </ul>
     <ul class="grid_2 alpha omega whiteLast">
      <li>
@@ -1392,9 +1401,12 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
     </ul>
    </div>
   </li>
+  
+  <li><a href="https://www.evesaddiction.com/black-friday-deals/1161" title="" id="menu_11">Sale</a>
+  
 
-  <li class="holidayRight"><a href="/gift-guide.html" title="" id="menu_10">GIFTS</a>
-   <div class="subMenu grid_12 alpha omega" style="width: 938px; left: -875px; margin-top: -1px;">
+  </li><li class="holidayRight"><a href="https://www.evesaddiction.com/personalized-gifts/1053" title="" id="menu_10">GIFTS</a>
+   <div class="subMenu grid_12 alpha omega">
    <img src="https://eves.tac-cdn.net/images/v2/layout/icon_triangleHalfWhite.png?auto=webp&amp;quality=25" width="19" height="9" alt="" style="position: absolute; top: -9px; left: 897px;">
     <ul class="grid_2 alpha omega">
      <li><span class="columnHead" style="color: #ee99b7;">PERSONALIZED</span></li>
@@ -1418,13 +1430,12 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
      <li><span class="columnHead">Shop By Category</span></li>
      <li><a href="https://www.evesaddiction.com/14kt-gold-jewelry/1039">14K Gold Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/jewelry-best-sellers/430">Best Sellers</a></li>
-     <li><a href="https://www.evesaddiction.com/popular-jewelry-brands/1095">Brands We Love</a></li>
      <li><a href="https://www.evesaddiction.com/dogeared-jewelry/1062">Dogeared Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/greeting-cards/1185">Greeting Cards</a></li>
      <li><a href="https://www.evesaddiction.com/heart-jewelry/523">Heart Jewelry</a></li>
      <li><a href="/i-love-you-to-the-moon-and-back-necklace/1051" absolute="1">I Love You to the Moon &amp; Back</a></li>
-     <li><a href="https://www.evesaddiction.com/mens-watches/1107">Men's Watches</a></li>
      <li><a href="https://www.evesaddiction.com/silver-lockets/229">The Locket Shop</a></li>
+     <li><a href="https://www.evesaddiction.com/mens-watches/1107">Men's Watches</a></li>
      <li><a href="https://www.evesaddiction.com/promise-rings/811">Promise Rings</a></li>
      <li><a href="https://www.evesaddiction.com/wedding-rings/173">Wedding Rings</a></li>
      <li><a href="https://www.evesaddiction.com/womens-watches/1204">Women's Watches</a></li>
@@ -1446,17 +1457,18 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
     <div class="vrOne"><div class="vr"></div></div>
     <ul class="grid_2 alpha omega">
      <li><span class="columnHead">Shop By Occasion</span></li>
-     <!--<li style="background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?auto=webp&quality=25) -1px 4px no-repeat;"><a href="/gift-guide.html" style="color: #fd7562; padding-left: 18px;"><strong>Valentine's Day Gift Guide</strong></a></li>-->
-     <!--<li><a href="/gift-guide.html" style="color: #ff8578;"><strong>Valentine's Day Gift Guide</strong></a></li>-->
-     <li><a href="https://www.evesaddiction.com/mothers-day-jewelry-gifts/400">Mother's Day Gifts</a></li>
+     <!--<li style="background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heart.png?auto=webp&quality=25) -1px 4px no-repeat;"><a href="/gift-guide.html" style="color: #e6474f; padding-left: 18px;"><strong>Holiday Gift Guide</strong></a></li>
+     <li><a href="/gift-guide.html" style="color: #ff8578;"><strong>Valentine's Day Gift Guide</strong></a></li>-->
+     <li><a href="https://www.evesaddiction.com/valentines-day-gifts/401">Valentine's Day Gifts</a></li>       
      <li><a href="https://www.evesaddiction.com/personalized-anniversary-gifts/406">Anniversary</a></li>
-     <li><a href="https://www.evesaddiction.com/all-wedding-jewelry/1086">Bridal Jewelry</a></li>
      <li><a href="https://www.evesaddiction.com/birthday-jewelry/1116">Birthday Gifts</a></li>
+     <li><a href="https://www.evesaddiction.com/all-wedding-jewelry/1086">Bridal Jewelry</a></li>
+     <li><a href="https://www.evesaddiction.com/custom-christmas-gifts/1102">Christmas Gifts</a></li>
      <li><a href="https://www.evesaddiction.com/custom-fathers-day-gifts/1056">Father's Day Gifts</a></li>
      <li><a href="https://www.evesaddiction.com/graduation-jewelry-gifts/402">Graduation Gifts</a></li>
-     <li><a href="https://www.evesaddiction.com/keepsake-memorial-jewelry/1046">Sympathy &amp; Memorial</a></li>
+     <li><a href="https://www.evesaddiction.com/mothers-day-jewelry-gifts/400">Mother's Day Gifts</a></li>
      <li><a href="https://www.evesaddiction.com/easter-jewelry-gifts/409">Religious</a></li>
-     <li><a href="https://www.evesaddiction.com/valentines-day-gifts/401">Valentine's Day Gifts</a></li>
+     <li><a href="https://www.evesaddiction.com/keepsake-memorial-jewelry/1046">Sympathy &amp; Memorial</a></li>
     </ul>
     <ul class="grid_2 alpha omega whiteLast">
      <li>
@@ -1465,7 +1477,9 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
        In a <br><i>hurry</i>?
      </a>
      <p class="doubleLines"></p>
-     <a href="https://www.evesaddiction.com/next-day-jewelry-delivery/1048">Shop Gifts that Ship<br>in 24 Hours »</a>
+     <a href="https://www.evesaddiction.com/next-day-jewelry-delivery/1048">
+       Shop Gifts that Can Ship<br>in 24 Hours »
+     </a>
      </li>
     </ul>
    </div>
@@ -1474,7 +1488,725 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
  </ul>
 <div class="singleLine"></div>
 </div><!--topNav-->
-  </div><!--grid_12 nav-->
+<style>
+@media (max-width: 760px) {
+  form.mobileSearch {
+    margin-bottom: 15px;
+  }
+  .product form.mobileSearch,
+  .category form.mobileSearch {
+    display: block;
+  }
+  .product form.mobileSearch .searchButton,
+  .category form.mobileSearch .searchButton {
+    right: 0;
+  }
+  .topNav.desktopTopNav {
+    display: none !important;
+  }
+  .topNav {
+    max-width: 100vw;
+    overflow-x: scroll;
+    overflow-y: visible;
+    height: 45px !important;
+  }
+  body.checkout .topNav,
+  body.cart .topNav {
+    display: none;
+  }
+  .topNav .dropDown {
+    width: 1500px !important;
+  }
+  .topNav ul.dropDown li a {
+    padding: 14px 12px;
+  }
+  .topNav.mobileTopNav {
+    display: block;
+    background-color: #e8e8e8;
+    border: 0;
+  }
+  .topNavMobileDropdown {
+    max-height: 0;
+    z-index: 99;
+  }
+  .topNavMobileDropdown div.subMenuContainer {
+    max-width: 100vw !important;
+    background-color: #ffffff;
+    height: auto;
+    display: none;
+    overflow-y: visible;
+    z-index: 99;
+    visibility: visible !important;
+    font: 15px 'function_prodemi', Arial, sans-serif;
+    text-transform: uppercase;
+    position: relative;
+    padding: 3px 10px;
+    border: 0;
+  }
+  div.subMenuContainer span.subMenuCloser {
+    text-align: right;
+    display: block;
+    color: #757575;
+    padding: 4px 0;
+  }
+  div.subMenuContainer ul.subMenuSubItems {
+    display: none;
+  }
+  div.subMenuContainer ul.subMenuItems .columnHead {
+    text-transform: none;
+    display: inline-block;
+    width: 90%;
+  }
+  div.subMenuContainer ul.subMenuItems .columnHeadRight {
+    display: inline-block;
+    width: 8%;
+    text-align: right;
+  }
+  div.subMenuContainer ul.subMenuItems .columnHeadRight:after {
+    content: "+";
+  }
+  div.subMenuContainer ul.subMenuItems .columnHeadRight.opened:after {
+    content: "-";
+  }
+  div.subMenuContainer ul.subMenuItems li:first-child,
+  div.subMenuContainer ul.subMenuSubItems li {
+    border: 1px solid #dddddd;
+    border-right: 0;
+    border-left: 0;
+    border-bottom: 0;
+    padding: 10px 5px;
+  }
+  div.subMenuContainer ul.subMenuItems li a {
+    display: block;
+    padding: 4px 0;
+    font: 15px 'function_probook', Arial, sans-serif;
+    text-transform: none;
+    color: #505050;
+    font-weight: bold;
+  }
+  .topNav.mobileTopNav a:hover {
+    text-decoration: none;
+  }
+  span.columnHead.personalized,
+  span.columnHeadRight.personalized {
+    color: #d35e93;
+  }
+  .topNav ul.dropDown li a#menu_10 {
+    margin-right: 0;
+    padding: 14px 12px !important;
+    color: #000;
+  }
+}
+</style>
+
+
+<div class="topNav mobileTopNav">
+ <ul class="dropDown">
+  <li>
+    <a href="https://www.evesaddiction.com/custom-jewelry/1045" title="" id="menu_3">Personalized</a>
+  </li>
+
+ 	<li><a href="https://www.evesaddiction.com/all-necklaces/213" title="" id="menu_3">Necklaces</a>
+   <div class="subMenu alpha">
+    <ul class="subMenuItems">
+      <li><span class="columnHead personalized">PERSONALIZED</span>
+          <span class="columnHeadRight personalized"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/name-bar-necklace/1028">Bar Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/birthstone-necklaces/840">Birthstone Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/coordinate-necklaces/1126">Coordinate Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/engraved-necklaces/545">Engravable Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-birthstone-pendants/739">Family Tree Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/floating-lockets-charms/1038">Floating Locket Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/hand-stamped-necklaces/1049">Hand Stamped Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/initial-necklaces/230">Initial Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/monogram-necklaces/904">Monogram Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/name-chokers/1178">Name Chokers</a></li>
+          <li><a href="https://www.evesaddiction.com/name-necklaces/827">Name Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-necklaces/733">Personalized Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/photo-necklaces/966">Photo Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/roman-numeral-necklace/1180">Roman Numeral Necklaces</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Category</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/charm-necklace-sets/1111">Charm Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/choker-necklaces/1141">Choker Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/cross-pendants/216">Cross Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/cubic-zirconia-necklaces/214">Cubic Zirconia Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/dogeared-necklaces/1036">Dogeared Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/dog-tag-necklaces/563">Dog Tag Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/essential-oil-necklaces/1206">Essential Oil Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-gemstone-necklaces/1191">Gemstone Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/heart-necklaces/221">Heart Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/infinity-necklaces/969">Infinity Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/silver-lockets/229">Lockets</a></li>
+          <li><a href="https://www.evesaddiction.com/meaningful-necklace/1175">Meaningful Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/pea-pod-jewelry/1164">Pea in a Pod Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/pearl-necklaces/219">Pearl Necklaces</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Recipient</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/friendship-necklaces/1003">Friendship Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/necklace-with-card/1155">Giftable Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/girlfriend-necklace/1173">Girlfriend Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/grandmother-necklaces/1004">Grandmother's Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/mens-necklaces/559">Men's Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/mother-necklaces/1005">Mother's Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/necklaces-for-women/1006">Women's Necklaces</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Material</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/14k-gold-necklaces/1082">14K Gold Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/acrylic-necklaces/1012">Acrylic Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/gold-necklaces/684">Gold Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/rose-gold-necklaces/951">Rose Gold Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/stainless-steel-necklaces/903">Stainless Steel Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/sterling-silver-necklaces/445">Sterling Silver Necklaces</a></li>
+        </ul>
+      </li>
+    </ul>
+   </div><!--subMenu-->
+  </li>
+
+  <li><a href="https://www.evesaddiction.com/all-rings/166" title="" id="menu_1">Rings</a>
+   <div class="subMenu alpha">
+    <ul class="subMenuItems">
+      <li><span class="columnHead personalized">PERSONALIZED</span>
+          <span class="columnHeadRight personalized"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/birthstone-rings/738">Birthstone Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/engraved-rings/546">Engravable Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/monogram-rings/1018">Initial &amp; Monogram Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-name-rings/956">Name Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-rings/731">Personalized Rings</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Category</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/claddagh-rings/183">Claddagh Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/clearance-rings/1031">Clearance Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/cubic-zirconia-rings/168">Cubic Zirconia Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/cubic-zirconia-engagement-rings/171">Engagement Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/fake-diamond-rings/186">Fake Diamond Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-gemstone-rings/1193">Gemstone Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/geometric-rings/1137">Geometric Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/infinity-rings/965">Infinity Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/promise-rings/811">Promise Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/stackable-rings/866">Stackable Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/vintage-rings/179">Vintage Style Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/wedding-rings/173">Wedding Rings</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Recipient</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/couples-rings/1015">Couple's Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/friendship-rings/181">Best Friend Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/grandmothers-rings/996">Grandmother's Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/mens-rings/560">Men's Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/mother-rings/1016">Mother's Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/women-rings/1017">Women's Rings</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Material</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/14k-gold-rings/1063">14K Gold Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/diamond-rings/1136">Diamond Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/gold-rings/683">Gold Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/rose-gold-rings/950">Rose Gold Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/stainless-steel-rings/907">Stainless Steel Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/sterling-silver-rings/167">Sterling Silver Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/titanium-rings/714">Titanium Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/tungsten-rings/868">Tungsten Rings</a></li>
+        </ul>
+      </li>
+    </ul>
+   </div><!--subMenu-->
+  </li>
+
+  <li><a href="https://www.evesaddiction.com/all-bracelets/141" title="" id="menu_4">Bracelets</a>
+   <div class="subMenu alpha">
+    <ul class="subMenuItems">
+      <li><span class="columnHead personalized">PERSONALIZED</span>
+          <span class="columnHeadRight personalized"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/birthstone-bracelets/961">Birthstone Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/coordinate-bracelets/1139">Coordinate Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-leather-bracelets/1158">Custom Leather Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/engravable-bracelets/154">Engravable Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/engravable-id-bracelets/561">Engravable ID Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/monogram-bracelets/999">Monogram Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-name-bracelets/1160">Name Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-bracelets/732">Personalized Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/roman-numeral-bracelet/1181">Roman Numeral Bracelets</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Category</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/anklets-and-toe-rings/423">Anklets</a></li>
+          <li><a href="https://www.evesaddiction.com/bangle-bracelets/146">Bangle Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/bolo-bracelets/1163">Bolo Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/charm-bracelets/149">Charm Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/cuff-bracelets/145">Cuff Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/hair-tie-bracelet/1189">Hairtie Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/inspirational-bracelets/1169">Inspirational Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/leather-bracelets/1090">Leather Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/mantra-bracelets/1162">Mantra Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/signet-bracelets/1149">Signet Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/stackable-bracelets/157">Stackable Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/wind-and-fire-bracelets/1079">Wind &amp; Fire Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/wrap-bracelets/909">Wrap Bracelets</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Recipient</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/friendship-bracelets/865">Friendship Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/grandma-bracelets/1186">Grandma Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/kids-bracelets/618">Kid's Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/mens-bracelets/557">Men's Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/bracelets-for-women/998">Women's Bracelets</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Material</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/gold-bracelets/158">Gold Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/rose-gold-bracelets/960">Rose Gold Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/stainless-steel-bracelets/910">Stainless Steel Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/sterling-silver-bracelets/142">Sterling Silver Bracelets</a></li>
+        </ul>
+      </li>
+    </ul>
+   </div><!--subMenu-->
+  </li>
+
+  <li><a href="https://www.evesaddiction.com/all-earrings/244" title="" id="menu_2">Earrings</a>
+   <div class="subMenu alpha">
+    <ul class="subMenuItems">
+      <li><span class="columnHead personalized">PERSONALIZED</span>
+          <span class="columnHeadRight personalized"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/birthstone-earrings/837">Birthstone Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/initial-earrings/1001">Initial &amp; Name Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/monogram-earrings/1002">Monogram Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-earrings/734">Personalized Earrings</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Category</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/clearance-earrings/1034">Clearance Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/cubic-zirconia-earrings/245">Cubic Zirconia Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/cubic-zirconia-stud-earrings/253">Cubic Zirconia Stud Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/dangle-earrings/249">Dangle Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/tiffany-style-earrings/440">Designer Style Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/ear-cuffs/1066">Ear Cuffs</a></li>
+          <li><a href="https://www.evesaddiction.com/gemstone-earrings/1192">Gemstone Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/huggy-earrings/260">Huggie Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/hoop-earrings/250">Hoop Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/silver-stud-earrings/717">Silver Stud Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/vintage-earrings/262">Vintage Earrings</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+     <li><span class="columnHead">Shop By Recipient</span>
+         <span class="columnHeadRight"></span>
+     </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/kids-earrings/619">Kid's Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/mens-earrings/679">Men's Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/women-earrings/1000">Women's Earrings</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Material</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/amber-earrings/957">Amber Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/gold-earrings/682">Gold Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/pearl-earrings/258">Pearl Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/silver-earrings/497">Silver Earrings</a></li>
+        </ul>
+      </li>
+    </ul>
+   </div><!--subMenu-->
+  </li>
+
+
+  <li><a href="https://www.evesaddiction.com/new-jewelry-trends/724" title="" id="menu_5">Collections</a>
+   <div class="subMenu alpha">
+    <ul class="subMenuItems">
+      <li><span class="columnHead personalized">PERSONALIZED</span>
+          <span class="columnHeadRight personalized"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/acrylic-jewelry/1080">Acrylic Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/bar-jewelry/1042">Bar Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/all-birthstone-jewelry/853">Birthstone Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/cage-jewelry/1118">Caged Locket Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-coordinate-jewelry/1135">Coordinate Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/engravable-jewelry/543">Engravable Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/engraved-mens-jewelry/544">Engravable Men's Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/nameplate-jewelry/579">Nameplate Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-jewelry/1045">Personalized Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/zodiac-necklace/1183">Zodiac Necklaces</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Category</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/amber-jewelry/920">Amber Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/anklets-and-toe-rings/423">Anklets</a></li>
+          <li><a href="https://www.evesaddiction.com/wedding-jewelry/533">Bridal Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/cubic-zirconia-jewelry/669">Cubic Zirconia Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/all-tiffany-style-jewelry/438">Designer Style Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/dogeared-jewelry/1062">Dogeared Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/gemstone-jewelry/1159">Gemstone Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/nautical-jewelry/580">Nautical Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/new-jewelry-arrivals/427">New Arrivals</a></li>
+          <li><a href="https://www.evesaddiction.com/rainbow-jewelry/1207">Rainbow Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/all-religious-jewelry/642">Religious Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/stella-valle-charm-jewelry/1208">Stella Valle Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/vintage-jewelry/511">Vintage Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/all-fashion-watches/1108">Watches</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Recipient</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/custom-baby-jewelry/1008">Baby Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/grandma-jewelry/1020">Grandmother's Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/kids-jewelry/616">Kid's Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/all-mens-jewelry/609">Men's Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/women-jewelry/1021">Women's Jewelry</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Material</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/14kt-gold-jewelry/1039">14K Gold Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-gold-jewelry/690">Gold Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/all-rose-gold-jewelry/934">Rose Gold Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/sterling-silver-jewelry/1022">Sterling Silver Jewelry</a></li>
+        </ul>
+      </li>
+    </ul>
+   </div><!--subMenu-->
+  </li>
+
+  <li><a href="https://www.evesaddiction.com/all-birthstone-jewelry/853" title="" id="menu_8">Birthstones</a>
+   <div class="subMenu alpha">
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Category</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/all-birthstone-jewelry/853">All Birthstone Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/birthstone-bar-necklace/1168">Birthstone Bar Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/birthstone-bracelets/961">Birthstone Bracelets</a></li>
+          <li><a href="https://www.evesaddiction.com/birthstone-earrings/837">Birthstone Earrings</a></li>
+          <li><a href="https://www.evesaddiction.com/birthstone-necklaces/840">Birthstone Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/birthstone-rings/738">Birthstone Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/birthstone-rings/839">Birthstone Rings for Mom</a></li>
+          <li><a href="https://www.evesaddiction.com/shop-by-birthstone/982">Birthstone by Month</a></li>
+          <li><a href="https://www.evesaddiction.com/cage-jewelry/1118">Caged Locket Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/family-tree-necklaces/1041">Family Tree Jewelry</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Recipient</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/couples-birthstone-jewelry/1072">For Couples</a></li>
+          <li><a href="https://www.evesaddiction.com/grandma-birthstone-jewelry/1073">For Grandma</a></li>
+          <li><a href="https://www.evesaddiction.com/kid-birthstone-jewelry/1071">For Kids</a></li>
+          <li><a href="https://www.evesaddiction.com/mom-birthstone-jewelry/1068">For Mom</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Material</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/gold-birthstone-jewelry/1075">Gold Birthstone Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/rose-gold-birthstone-jewelry/1123">Rose Gold Birthstone Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/silver-birthstone-jewelry/997">Sterling Silver Birthstone Jewelry</a></li>
+        
+      
+    </ul>
+   </li></ul></div><!--subMenu-->
+  </li>
+
+  <li><a href="https://www.evesaddiction.com/custom-jewelry/1045" title="" id="menu_6">Custom</a>
+   <div class="subMenu alpha">
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Category</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/all-birthstone-jewelry/853">Birthstone Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/cage-jewelry/1118">Caged Locket Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-coordinate-jewelry/1135">Coordinate Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-gifts/1053">Custom Gifts</a></li>
+          <li><a href="https://www.evesaddiction.com/engraved-jewelry/599">Engravable Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/floating-lockets-charms/1038">Floating Locket Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/hand-stamped-jewelry/1115">Hand Stamped Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/monogram-jewelry/771">Monogram Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-jewelry/730">Personalized Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/photo-engravable-jewelry/967">Photo Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/roman-numeral-jewelry/1146">Roman Numeral Jewelry</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Recipient</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/baby-jewelry/1019">For Baby</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-grandma-jewelry/1007">For Grandma</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-jewelry-for-her/1009">For Her</a></li>
+          <li><a href="https://www.evesaddiction.com/gifts-for-men/558">For Him</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-jewelry-for-kids/1010">For Kids</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-mom-jewelry/1011">For Mom</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Material</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/personalized-gold-jewelry/1069">Custom Gold Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-rose-gold-jewelry/1076">Custom Rose Gold Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-stainless-steel-jewelry/1070">Custom Stainless Steel Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-sterling-silver-jewelry/1074">Custom Sterling Silver Jewelry</a></li>
+        </ul>
+      </li>
+    </ul>
+   </div><!--subMenu-->
+  </li>
+
+  <li><a href="https://www.evesaddiction.com/gifts-for-recipient/1194" title="" id="menu_9">Recipient</a>
+   <div class="subMenu alpha">
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Recipient</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/custom-jewelry-for-her/1009">Gifts for Her</a></li>
+          <li><a href="https://www.evesaddiction.com/gifts-for-men/558">Gifts for Him</a></li>
+          <li><a href="https://www.evesaddiction.com/grandma-jewelry/1020">Gifts for Grandma</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-mom-jewelry/1011">Gifts for Mom</a></li>
+          <li><a href="https://www.evesaddiction.com/new-baby-push-gifts/407">Gifts for New Moms</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-fathers-day-gifts/1056">Gifts for Dad</a></li>
+          <li><a href="https://www.evesaddiction.com/girlfriend-gifts/1187">Gifts for Girlfriend</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-jewelry-for-kids/1010">Gifts for Kids</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-best-friend-gifts/1109">Best Friend Gifts</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-aunt-jewelry/1120">Gifts for Aunt</a></li>
+          <li><a href="https://www.evesaddiction.com/bridal-party-jewelry/542">Bridal Party Gifts</a></li>
+          <li><a href="https://www.evesaddiction.com/graduation-jewelry-gifts/402">Gifts for Grads</a></li>
+        </ul>
+      </li>
+    </ul>
+   </div>
+  </li>
+
+  <li><a href="https://www.evesaddiction.com/personalized-gifts/1053" title="" id="menu_10">GIFTS</a>
+   <div class="subMenu alpha">
+    <ul class="subMenuItems">
+      <li><span class="columnHead personalized">PERSONALIZED</span>
+          <span class="columnHeadRight personalized"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/all-birthstone-jewelry/853">Birthstone Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/cage-jewelry/1118">Caged Locket Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-gifts/1053">Custom Gifts</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-jewelry-boxes/1043">Custom Jewelry Boxes</a></li>
+          <li><a href="https://www.evesaddiction.com/dog-tag-necklaces/563">Dog Tag Necklaces</a></li>
+          <li><a href="https://www.evesaddiction.com/engraved-jewelry/599">Engravable Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/engraved-rings/546">Engravable Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/family-tree-necklaces/1041">Family Tree Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/floating-lockets-charms/1038">Floating Locket Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-kitchen-gifts/1064">Kitchen Gifts</a></li>
+          <li><a href="https://www.evesaddiction.com/monogram-jewelry/771">Monogram Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/name-bar-necklace/1028">Name Bar Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/photo-engravable-jewelry/967">Photo Engraved Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-picture-frames/1084">Picture Frames</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Category</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/14kt-gold-jewelry/1039">14K Gold Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/jewelry-best-sellers/430">Best Sellers</a></li>
+          <li><a href="https://www.evesaddiction.com/dogeared-jewelry/1062">Dogeared Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/greeting-cards/1185">Greeting Cards</a></li>
+          <li><a href="https://www.evesaddiction.com/heart-jewelry/523">Heart Jewelry</a></li>
+          <li><a href="/i-love-you-to-the-moon-and-back-necklace/1051" absolute="1">I Love You to the Moon &amp; Back</a></li>
+          <li><a href="https://www.evesaddiction.com/mens-watches/1107">Men's Watches</a></li>
+          <li><a href="https://www.evesaddiction.com/silver-lockets/229">The Locket Shop</a></li>
+          <li><a href="https://www.evesaddiction.com/promise-rings/811">Promise Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/wedding-rings/173">Wedding Rings</a></li>
+          <li><a href="https://www.evesaddiction.com/womens-watches/1204">Women's Watches</a></li>
+          <!--<li><a href="https://www.evesaddiction.com/next-day-jewelry-delivery/1048"><strong>In a hurry? Shop gifts that ship in 24 hours!</strong></a></li>-->
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Recipient</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <li><a href="https://www.evesaddiction.com/custom-jewelry-for-her/1009">Gifts for Her</a></li>
+          <li><a href="https://www.evesaddiction.com/gifts-for-men/558">Gifts for Him</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-grandma-jewelry/1007">Gifts for Grandma</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-mom-jewelry/1011">Gifts for Mom</a></li>
+          <li><a href="https://www.evesaddiction.com/new-baby-push-gifts/407">Gifts for New Moms</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-fathers-day-gifts/1056">Gifts for Dad</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-jewelry-for-kids/1010">Gifts for Kids</a></li>
+          <li><a href="https://www.evesaddiction.com/personalized-best-friend-gifts/1109">Best Friend Gifts</a></li>
+          <li><a href="https://www.evesaddiction.com/graduation-jewelry-gifts/402">Gifts for Grads</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="subMenuItems">
+      <li><span class="columnHead">Shop By Occasion</span>
+          <span class="columnHeadRight"></span>
+      </li>
+      <li>
+        <ul class="subMenuSubItems">
+          <!--<li style="background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?auto=webp&quality=25) -1px 4px no-repeat;"><a href="/gift-guide.html" style="color: #fd7562; padding-left: 18px;"><strong>Valentine's Day Gift Guide</strong></a></li>-->
+          <!--<li><a href="/gift-guide.html" style="color: #ff8578;"><strong>Valentine's Day Gift Guide</strong></a></li>-->
+          <li><a href="https://www.evesaddiction.com/personalized-anniversary-gifts/406">Anniversary</a></li>
+          <li><a href="https://www.evesaddiction.com/birthday-jewelry/1116">Birthday Gifts</a></li>
+          <li><a href="https://www.evesaddiction.com/all-wedding-jewelry/1086">Bridal Jewelry</a></li>
+          <li><a href="https://www.evesaddiction.com/custom-fathers-day-gifts/1056">Father's Day Gifts</a></li>
+          <li><a href="https://www.evesaddiction.com/graduation-jewelry-gifts/402">Graduation Gifts</a></li>
+          <li><a href="https://www.evesaddiction.com/mothers-day-jewelry-gifts/400">Mother's Day Gifts</a></li>
+          <li><a href="https://www.evesaddiction.com/easter-jewelry-gifts/409">Religious</a></li>
+          <li><a href="https://www.evesaddiction.com/keepsake-memorial-jewelry/1046">Sympathy &amp; Memorial</a></li>
+          <li><a href="https://www.evesaddiction.com/valentines-day-gifts/401">Valentine's Day Gifts</a></li>
+        </ul>
+      </li>
+    </ul>
+   </div>
+  </li>
+  <li>
+    <a href="https://www.evesaddiction.com/all-clearance/1037" title="" id="menu_3">Sale</a>
+  </li>
+  <li>
+    <a href="https://www.evesaddiction.com/jewelry-best-sellers/430" title="" id="menu_3">Best Sellers</a>
+  </li>
+  <li>
+    <a href="https://www.evesaddiction.com/new-jewelry-arrivals/427" title="" id="menu_3">New Arrivals</a>
+  </li>
+  <li>
+    <a href="https://www.evesaddiction.com/next-day-jewelry-delivery/1048" title="" id="menu_3">Can Ship in 24 Hours</a>
+  </li>
+  <li>
+    <a href="/instashop.html" title="" id="menu_3">Instashop</a>
+  </li>
+ </ul>
+<div class="singleLine"></div>
+</div><!--topNav-->
+<div class="topNavMobileDropdown">
+  <div class="subMenuContainer alpha">
+    <span class="subMenuCloser">X &nbsp; CLOSE</span>
+  </div>
+</div>  </div><!--div.nav-->
 
   <div class="grid_12">
 <style>
@@ -1485,8 +2217,6 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
   body.promo-PINS20 img.categoryBanner /* Refcode pnsp */ {
    display: none;
   }
-
-  .topNav ul.dropDown li.holidayRight.sticky { margin-left: 37px !important; }
 
   div.shippingDesktop {
    height: 70px;
@@ -1516,8 +2246,8 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
   }
   div.shippingDesktop p.cutOff span {
    padding: 1px 2px;
-   background-color: #ea80a8;
-   color: #fff;
+   background-color: #d35e92;
+   color: #000;
    font: 11px Arial, sans-serif;
    font-weight: bold;
   }
@@ -1544,7 +2274,7 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
   div.shippingDesktop.notGuaranteed { background: url(https://eves.tac-cdn.net/images/v2/layout/shipping_notGuaranteed.png?auto=webp&quality=25) top left no-repeat; margin-bottom: -15px; }
   div.shippingDesktop.notGuaranteed.bargainBazaar { background: url(https://eves.tac-cdn.net/images/v2/layout/shipping_notGuaranteed.png?auto=webp&quality=25) top left no-repeat; margin-bottom: -12px; }
   div.shippingDesktop.notGuaranteed.notAvailable { background: url(https://eves.tac-cdn.net/images/v2/layout/shipping_notAvailable.png?auto=webp&quality=25) top left no-repeat; margin-bottom: -15px; }
-
+            
   @media only screen and (max-width: 760px) {
 
    .ca-container, /* Hides "Best Sellers" container on parent category pages */
@@ -1558,15 +2288,14 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
     margin: 0 auto 15px;
     height: auto;
     width: 100%;
-    color: #fff;
+    color: #000;
     text-align: center;
-    background-color: #7e68df;
+    background-color: #d35e93;
     padding: 6px 0;
     font: 14px function_promedium, Arial, sans-serif;
    }
    div.shippingMobile a {
      text-decoration: underline;
-     color: #fff;
    }
    div.categoryBannerMobile {
     display: inline-block;
@@ -1590,29 +2319,422 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
    body.promo-PINS20 .categoryBannerMobile /* Refcode pnsp */ {
     display: none;
    }
+
   }
  </style>
  <ul class="valueProps grid_12 alpha omega">
-  <li class="valueProp1 grid_4 alpha">
+  <li class="valueProp1 grid_3 alpha">
    <a href="/returnpolicy.html"><span>60 DAYS</span> for Returns/Exchanges</a>
    <div class="vr"></div>
   </li>
 
-  <li class="valueProp2 grid_4">
-   <a href="/next-day-jewelry-delivery/1048">Orders Ship Within <span>24 HOURS</span></a>
+  <li class="valueProp2 grid_3">
+    <a href="/next-day-jewelry-delivery/1048"><span>24 HOUR</span><br>Shipping Option</a>
+    <div class="vr"></div>
+  </li>
+
+  <li class="valueProp3 grid_3">
+   <a href="/next-day-jewelry-delivery/1048"><span>FREE</span><br> Customization</a>
    <div class="vr"></div>
   </li>
 
-  <li class="valueProp3 grid_4 omega">
+  <li class="valueProp4 grid_3 omega">
    <a href="/freegiftboxing.html"><span>FREE</span> Gift Box With Every Purchase</a>
   </li>
  </ul><!--valueProps-->
   </div><!--grid_12 nav-->
 
   </div><!--container_12 headContent-->
+  <div id="main-site-content" class="container_12">
+<ul class="messages">
+</ul>
+<ul class="messages-errors">
+</ul>
+<div class="grid_12">
+ <h1>Privacy Policy</h1>
+ <p>What personal information do we collect? When you place an order with us, we
+ ask for the standard personal information in our order form (such as name,
+ address, email, contact phone number, and so forth) in order for us to
+ properly ship your order to you. This information is kept secure in
+ protected systems. If necessary, we may use this information to contact you
+ (via email for example) regarding a pending order, or to answer a question
+ prompted from a customer.</p>
+  
+ <p>From time to time, you may receive promotional information and special
+ offers through e-mail or regular mail from Eve's Addiction and/or our
+ marketing partners. However, if you do not want to receive e-mail
+ communications or other promotional communications, you are free to opt out
+ of our mailing list at any time. We do not sell, lease, or rent your email
+ address without your permission.  From time to time, we make certain third
+ party offers available through our site.  If you accept such offer, we will
+ disclose your contact and billing information to that third party, even if
+ you have previously opted out of our mailing list.</p>
+  
+ <p>What other kind of information do we collect? We use a commonly known file
+ called a "cookie" on our site. These are the same cookies used on millions
+ of other websites in order to help you navigate our site. In the case of our
+ site, we use cookies to let your computer remember the contents (products)
+ in your shopping cart and related information. In some cases, we may use a
+ cookie to let us know if you are coming from a site affiliated with us so
+ that we may attend to that site's due commissions. In the case of affiliated
+ sites, only the subtotal sale amount will be divulged to the affiliates for
+ payment purposes. Personally identifiable information will in NO WAY be
+ provided outside of EvesAddiction.com in these cases.</p>
+  
+ <p>Like most other websites, we monitor the aggregate (how many people) traffic
+ statistics on our website. This is done in order to provide our customers
+ with better and more efficient service. These general statistics do NOT
+ personally identify our customers and site visitors.</p>
 
- <div id="login-modal">
-   <script type="text/javascript" id="login_doer">  function evesCreateWidgetPasswordMatchHandler($widget) {
+ <p>We use affiliate software to track where potential customers are coming from
+ so that the affiliate site may be paid as a result. This software logs
+ computer ID as a security precaution.</p>
+
+ <p>At times, EvesAddiction.com uses web beacons alone or in conjunction with
+ cookies to compile information about customers and visitors’ usage of
+ our site and interaction with emails from us. Web beacons are clear
+ electronic images that can recognize certain types of information, such as
+ cookies, when you viewed a particular web site tied to the beacon, and a
+ description of our site tied to the web beacon. For example, we may place
+ web beacons in marketing emails that notify the us when you click on a link
+ in the email that directs you to our site. EvesAddiction.com uses web
+ beacons to operate and improve our site and email communications. We may use
+ information from web beacons in combination with data about our customers to
+ provide you with information about us.</p>
+  
+ <p>Eve's Addiction shares data with Google Analytics in order to understand how
+ our customers are using the website and optimize the site to create a better
+ experience. Google Analytics runs in the background of EvesAddiction.com
+ analyzing user information and returning reports to us based on this
+ information via an encrypted connection. Google Analytics maintains data
+ confidentially and only shares reports with Eve's Addiction. Password and
+ credit card information is not collected with Google Analytics. If you would
+ like to opt-out of Google Analytics collected data while you are on
+ EvesAddiction.com please <a target="_blank" href="https://tools.google.com/dlpage/gaoptout" rel="nofollow">click here.</a></p>
+
+ <p>We may provide you the opportunity to opt-in to additional newsletters or
+ promotional communications sent by email. If you have opted in or otherwise
+ qualify to receive these forms of communication, and no longer wish to
+ receive our newsletter or other promotional communications by email, you may
+ opt-out of receiving them by following the instructions included in each
+ communication.</p>
+  
+ <p>How do we protect your information? We encrypt order information for your
+ protection. EvesAddiction.com online store uses industry standard Secure
+ Sockets Layer (SSL) encryption on areas of our website where personal
+ information is needed. EvesAddiction.com does not accept email registration,
+ nor contest participation from children under the age of 13 due to the
+ Children's Online Privacy Protection Act (COPPA). If you are under the
+ age of 13, you must get parental permission to divulge your email address
+ and order-related information before using this site. Our contests are open
+ to users ages 13 and up, however if a sweepstake or contest winner is under
+ 18 years old, we will require a consent from signed by the winner's
+ parent or guardian in order to award the prize. Our contests and sweepstakes
+ are subject to all federal, state, and local laws and void where prohibited.</p>
+
+ <p><strong>EvesAddiction.com uses an Extended Validation SSL Certificate</strong>
+ <br>For your security and confidence, EvesAddiction.com uses Extended
+ Validation Secure Sockets Layer Certificate for confidence and security when
+ using your credit card online.</p>
+
+ <p>If you would like further details
+ about EvesAddiction.com, or would like to contact us please visit our front
+ page or email us at <a href="/cdn-cgi/l/email-protection#e98a9c9a9d86848c9b9a8c9b9f808a8ca98c9f8c9a888d8d808a9d808687c78a8684">
+ <span class="__cf_email__" data-cfemail="97f4e2e4e3f8faf2e5e4f2e5e1fef4f2d7d2e1f2e4d6f3f3fef4e3fef8f9b9f4f8fa">[email&nbsp;protected]</span></a>.</p><p>
+
+ </p><p>We reserve the right, at our sole discretion, to change, modify, or otherwise
+ alter these terms and conditions at anytime. Please review the terms and
+ conditions periodically. Your continued use of the site following the posting
+ of changes and/or modifications will constitute your acceptance of the revised
+ terms and conditions.</p>
+
+ <p>This site is protected by reCAPTCHA and the Google
+ <a href="https://policies.google.com/privacy" rel="nofollow">Privacy Policy</a> and
+ <a href="https://policies.google.com/terms" rel="nofollow">Terms of Service</a> apply.</p>
+</div>     </div><!--grid_12 main -->
+    <div class="shadow">
+    <!-- Five9 Chat Widget, left anchor -->
+    <div class="chatWidget">
+     <a onclick="onOpenChatLink()" class="chat">Begin Chat »</a>
+    </div><!--chatWidget-->
+    <!-- End Five9 Chat Widget, left anchor -->
+
+  </div><!--shadow-->
+    <div class="footer">
+     <div class="container_12 footerContent">
+      <div class="grid_12">
+      <div class="doubleLines"></div>
+      <a href="/today.html" class="featuredNBC">EVE'S JEWELRY <span>featured on</span> NBC'S TODAY SHOW</a>
+      <div class="doubleLines"></div>
+      
+<h2 class="sr-only">Footer</h2>
+  <div id="footer-mobile">
+    <div class="mobile-expand">
+     <h3 class="title">
+      <button class="Accordion-trigger" type="button">
+        <span class="Accordion-title">ABOUT EVE'S </span><span class="glyphicon Accordion-icon">+</span>
+      </button>
+     </h3>
+     <ul id="about" class="footer-ul">
+      <li><a href="/aboutus.html">About</a></li>
+      <li><a href="/custsrv.html">Contact</a></li>
+      <li><a href="/media.html">In the Media</a></li>
+      <li><a href="/testimonials2.html">Testimonials</a></li>
+      <li><a href="/freeshipping.html">Free Shipping</a></li>
+      <li><a href="/affiliate-marketing.html">Affiliate Info</a></li>
+      <li><a href="http://newton.newtonsoftware.com/career/CareerHome.action?clientId=8a7883c66613934801665f45ecc50f15" target="_blank">Careers</a></li>
+     </ul>
+     <div class="mobile-hr"></div>
+    </div>
+
+    <div class="mobile-expand">
+     <h3 class="title">
+      <button class="Accordion-trigger" type="button">
+        <span class="Accordion-title">SECURITY &amp; PRIVACY </span><span class="glyphicon Accordion-icon">+</span>
+      </button>
+     </h3>
+     <ul id="security" class="footer-ul">
+      <li><a href="/accessibility.html">Accessibility Statement</a></li>
+      <li><a href="/privacypolicy.html">Privacy Policy</a></li>
+      <li><a href="/returnpolicy.html">Return &amp; Exchange Policy</a></li>
+      <li><a href="/faq.html">FAQs</a></li>
+      <li><a href="/disclaimer.html">Disclaimer</a></li>
+      <li><a href="/info.html">Information</a></li>
+      <li><a href="/sitemap">Site Map</a></li>
+     </ul>
+     <div class="mobile-hr"></div>
+    </div>
+
+    <div class="mobile-expand">
+     <h3 class="title">
+      <button class="Accordion-trigger" type="button">
+        <span class="Accordion-title">MY ACCOUNT </span><span class="glyphicon Accordion-icon">+</span>
+      </button>
+     </h3>       
+     <ul id="account" class="footer-ul">
+      <li class="account-footer"><a href="/account">Account Details</a></li>
+      <li><a href="/track-your-order.html">Track Your Order</a></li>
+      <li><a href="/cart">Shopping Bag</a></li>
+      <li class="login-footer"><a href="/login">Log In</a></li>
+      <li><a href="/jewelry-guide">Jewelry Guide</a></li>
+     </ul>
+    </div>
+    <a href="/track-your-order.html" class="orderTrack">Track Your Order »</a>
+  </div>
+
+  <div class="footerLine1">
+   <div class="grid_2 alpha">
+    <h4>ABOUT EVE'S</h4>
+    <ul>
+     <li><a href="/aboutus.html">About</a></li>
+     <li><a href="/custsrv.html">Contact</a></li>
+     <li><a href="/media.html">In the Media</a></li>
+     <li><a href="/testimonials2.html">Testimonials</a></li>
+     <li><a href="/freeshipping.html">Free Shipping</a></li>
+     <li><a href="/affiliate-marketing.html">Affiliate Info</a></li>
+     <li><a href="http://newton.newtonsoftware.com/career/CareerHome.action?clientId=8a7883c66613934801665f45ecc50f15" target="_blank">Careers</a></li>
+    </ul>
+   </div><!--grid_2-->
+   <div class="grid_2">
+    <h4>SECURITY &amp; PRIVACY</h4>
+    <ul>
+     <li><a href="/accessibility.html">Accessibility Statement</a></li>
+     <li><a href="/privacypolicy.html">Privacy Policy</a></li>
+     <li><a href="/returnpolicy.html">Return &amp; Exchange Policy</a></li>
+     <li><a href="/faq.html">FAQs</a></li>
+     <li><a href="/disclaimer.html">Disclaimer</a></li>
+     <li><a href="/info.html">Information</a></li>
+     <li><a href="/sitemap">Site Map</a></li>
+    </ul>
+   </div><!--grid_2-->
+   <div class="grid_2">
+    <h4>MY ACCOUNT</h4>
+    <ul>
+     <li class="account-footer"><a href="/account">Account Details</a></li>
+     <li><a href="/track-your-order.html">Track Your Order</a></li>
+     <li><a href="/cart">Shopping Bag</a></li>
+     <li class="login-footer"><a href="/login">Log In</a></li>
+     <li><a href="/jewelry-guide">Jewelry Guide</a></li>
+    </ul>
+   </div><!--grid_2-->
+   <div class="grid_6 omega">
+    <div class="youFirstFooter">
+    <p>you first.</p>
+    <span>Sign up to get deals and new style alerts before anyone else.</span>
+    <form method="post" action="/mailing-list">
+      <label for="youFirstEmail" class="visually-hidden">E-mail Address:</label>
+      <input id="youFirstEmail" type="text" name="email" placeholder="Enter email address..." value="" maxlength="64">
+      <input type="submit" value="Sign Me Up »" class="primaryButton" id="signMeUp">
+    </form>
+   </div><!--youFirstFooter-->
+   <div class="thenUsFooter">
+    <p>then us.</p>
+    <ul class="socialLinks">
+     <li class="socialTwitter"><a href="https://twitter.com/evesaddiction" target="_blank">Twitter</a></li>
+     <li class="socialYoutube"><a href="http://www.youtube.com/user/evesaddictionjewelry/featured" target="_blank">YouTube</a></li>
+     <li class="socialPinterest"><a href="http://www.pinterest.com/evesaddiction/" target="_blank">Pinterest</a></li>
+     <li class="socialInstagram"><a href="http://www.instagram.com/evesaddiction/" target="_blank">Instagram</a></li>
+     <li class="socialFacebook"><a href="https://www.facebook.com/pages/EvesAddictioncom/66743809191" target="_blank">Facebook</a><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FEvesAddictioncom%2F66743809191%3Fref%3Dbr_tf&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=349967941752739" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowtransparency="true"></iframe></li>
+     <li class="socialBlog"><a href="https://blog.evesaddiction.com/" target="_blank">Our Blog: Eve Tells All</a></li>
+    </ul>
+   </div><!--thenUsFooter-->
+   <a href="/track-your-order.html" class="trackOrder">When will I get my order?</a>
+   </div><!--grid_4 omega-->
+  </div><!--footerLine1-->
+  <div class="footerLine2 bottomFifteen">
+   <div class="grid_4 omega" id="footer2">
+    <a href="http://www.bbb.org/connecticut/business-reviews/jewelers-retail/evesaddictioncom-in-deep-river-ct-84001742#sealclick" target="_blank" title="Click for the Business Review of EvesAddiction.com, a Jewelers - Retail in Old Saybrook CT" class="bbb">
+      <img src="https://eves.tac-cdn.net/images/v2/layout/icon_BBB.png?auto=webp&amp;quality=25" alt="EvesAddiction.com is a BBB Accredited Business. Click for our BBB Business Reviews." width="183" height="61"></a>
+    <a class="verified" href="#" onclick="window.open('https://seal.godaddy.com:443/verifySeal?sealID=tOYeB6b5ChoaPiA0GPJ3n2NhMCO9xQiAbLIRIJ2Txrv18rtKTzP','_blank','location=yes,status=yes,resizable=yes,scrollbars=yes,width=600,height=740,top=0,left=0'); return false;"><img src="https://eves.tac-cdn.net/images/v2/layout/icon_safeSecure.png?auto=webp&amp;quality=25" alt="GoDaddy Seal - Safe and Secure, Guaranteed"></a>
+   </div>
+  </div><!--footerLine2-->
+
+      <div class="chatWidgetMobile">
+       <!-- Five9 Chat Widget, low res -->
+       <a onclick="onOpenChatLink()" class="lowResChat">Begin Chat »</a>
+       <!-- ENd Five9 Chat Widget, low res -->
+      </div><!--chatWidgetMobile-->
+
+	  <div class="footerMobile">
+	   <ul class="socialLinks">
+	    <li class="socialInstagram"><a href="https://instagram.com/evesaddiction" target="_blank">Instagram</a></li>
+	    <li class="socialFacebook"><a href="https://www.facebook.com/pages/EvesAddictioncom/66743809191" target="_blank">Facebook</a></li>
+	    <li class="socialPinterest"><a href="http://www.pinterest.com/evesaddiction/" target="_blank">Pinterest</a></li>
+	    <li class="socialYoutube"><a href="http://www.youtube.com/user/evesaddictionjewelry/featured" target="_blank">YouTube</a></li>
+	    <li class="socialTwitter"><a href="https://twitter.com/evesaddiction" target="_blank">Twitter</a></li>
+	   </ul>
+       <a onclick="onOpenChatLink()" class="mobileChat">Need Help? Click Here for Live Chat »</a>
+       <img src="https://eves.tac-cdn.net/images/v2/layout_320/icon_paymentsMobile.png?auto=webp&amp;quality=25" class="paymentFooterMobile" width="320" height="40" alt="Visa, MasterCard, American Express, Discover, Google Checkout, and PayPal">
+       <img src="https://eves.tac-cdn.net/images/v2/layout/icon_BBB.png?auto=webp&amp;quality=25" class="bbbFooterMobile" width="150" height="50" alt="EvesAddiction.com is a BBB Accredited Business.">
+	  </div><!--footerMobile-->
+
+	  <div class="doubleLines doubleLast"></div>
+      <img src="https://eves.tac-cdn.net/images/v2/layout/icon_payments.png?auto=webp&amp;quality=25" class="paymentFooter" width="940" height="40" alt="Visa, MasterCard, American Express, Discover, Google Checkout, and PayPal">
+      <p class="copyright">© 2019 Eve's Addiction - Old Saybrook, CT - New York, NY. All rights reserved.</p>
+
+	  <div class="doubleLines doubleLast"></div>
+	  <p class="stats">B - 5</p>
+      <!-- B - 5 -->
+      <!-- SiteUptime Check -->
+     </div><!--grid_12-->
+     </div><!--content_12-->
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+    // <![CDATA[
+    window.Config = {
+    restAPI: 'https://app.five9.com',
+    rootUrl: 'https://app.five9.com/consoles/',
+    tenant: 'FromYouFlowers',
+    profiles: 'Eves Addiction Chat',
+    title: 'Eves Addiction Chat',
+    showProfiles: false
+    };
+
+    function onOpenChatLink() {
+    var rootUrl = Config.rootUrl + 'ChatConsole';
+    var url = rootUrl + '?tenant=' + Config.tenant + '&profiles=' + Config.profiles + '&title=' + Config.title + '&showProfiles=' + Config.showProfiles + '&logo=' + 'https://eves.tac-cdn.net/images/v2/layout/logo.png' + '&theme=' + 'https://eves.tac-cdn.net/css/masterChat.css';
+    url = encodeURI(url);
+    var props = 'width=320,height=550,location=no,menubar=no,resizable=yes,scrollbars=no,status=no,titlebar=no,toolbar=no';
+    window.open(url, 'Five9Chat', props);
+    }
+    // ]]></script>
+
+    </div><!--footer-->
+
+
+<a href="#" aria-label="Back to Top" id="scroll-to-top">↑</a>
+
+  <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+  <script type="text/javascript">
+    $(window).on( "adapted", function() {
+        window.criteo_q = window.criteo_q || [];
+        window.criteo_q.push(
+          {"event":"setSiteType","type":deviceType},
+          {"event":"setAccount","account":18351},
+      {"event":"setEmail","email":null}
+        );
+    });
+  </script>
+<!-- FOOTER SCRIPTS -->
+<script type="text/javascript" defer="" src="https://eves.tac-cdn.net/js/owl.carousel.js"></script>
+<script type="text/javascript" src="https://eves.tac-cdn.net/js/jquery.truncator.js"></script>
+<script type="text/javascript" src="https://eves.tac-cdn.net/js/jquery.eves.js"></script>
+<script type="text/javascript" src="https://eves.tac-cdn.net/js/site-v2.js"></script>
+<script type="text/javascript" defer="" async="" src="https://eves.tac-cdn.net/js/jquery.sidr-2.2.1.min.js"></script>
+<script type="text/javascript" src="//nxtcfm.s3.amazonaws.com/583ad090bd204db67bb8ad2215b54fb1-ac.js"></script>
+<!-- END FOOTER SCRIPTS -->
+    <!-- DEFERRED SCRIPTS -->
+    <script type="text/javascript">
+    function downloadDeferredJS() {
+      var scripts = ["https:\/\/eves.tac-cdn.net\/js\/magiczoom.js","https:\/\/eves.tac-cdn.net\/js\/magicscroll.js","https:\/\/eves.tac-cdn.net\/js\/mobile.js","https:\/\/eves.tac-cdn.net\/js\/ac_wordlist.js"];
+
+      for (var i = 0; i < scripts.length; i++) {
+        var script = document.createElement('script');
+        script.src = scripts[i];
+        document.body.appendChild(script);
+      }
+    }
+
+    if (window.addEventListener) {
+      window.addEventListener('load', downloadDeferredJS, false);
+    } else if (window.attachEvent) {
+      window.attachEvent('onload', downloadDeferredJS);
+    } else {
+      window.onload = downloadDeferredJS;
+    }
+
+    </script>
+    <!-- END DEFERRED SCRIPTS -->
+  
+    <!-- BEGIN GCR Opt-in Module Code -->
+    <script>
+      if ($(window).width() > 768) {
+        (function() {
+          var rb = document.createElement('script');
+          rb.type = 'text/javascript';
+          rb.async = true;
+          rb.defer = true;
+          rb.src = 'https://apis.google.com/js/platform.js?onload=renderBadge';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(rb, s);
+        })();
+      }
+
+      window.___gcfg = {
+        lang: 'en_US'
+      };
+      window.renderBadge = function() {
+        jQuery(function($) {
+
+          var ratingBadgeContainer = document.createElement('div');
+          var location = 'INLINE';
+
+          // in mobile
+          if (deviceType == 'm') {
+            $('div.footerMobile')[0].appendChild(ratingBadgeContainer);
+          } else {
+            // desktop
+            $('.footerLine2 .grid_4.omega')[0].appendChild(ratingBadgeContainer);
+            location = 'BOTTOM_RIGHT';
+          }
+
+          window.gapi.load('ratingbadge', function() {
+            window.gapi.ratingbadge.render(ratingBadgeContainer, {"merchant_id": 78501, 'position': location}, deviceType == 'm');
+          });
+        });
+      }
+    </script>
+    </div> <!-- aria-normal-page-content -->
+
+  <div class="modal-backpanel" style="display: none;" aria-hidden="true" tabindex="-1"></div>
+
+  <div id="login-modal" class="modal login-dialog ui-dialog" style="display: none;" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="login-modal-title" aria-modal="true">
+    <div class="aria-bookend" tabindex="0"></div>
+    <div role="document">
+      <div class="modal-titlebar">
+        <button type="button" class="modal-button modal-titlebar-close" aria-label="Close Modal">X</button>
+      </div>
+      <script type="text/javascript" id="login_doer">  function evesCreateWidgetPasswordMatchHandler($widget) {
     if ($widget.attr('data-active-widget') !== '.create-account-widget' &&
         $widget.attr('data-active-widget') !== '.account-creation') {
       return true;
@@ -1626,11 +2748,11 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
     var $confirm_field  = $widget.find('input[name="confirm"]:visible');
 
     var $insert_after = $confirm_field;
-    var error_html    = '<div class="account-error error">Passwords do not match</div>';
+    var error_html    = '<div id="create-password-error" class="account-error error">Passwords do not match</div>';
 
     if ($widget.find('.login-widget').hasClass('non-login-page')) {
       $insert_after = $confirm_field.parent('li');
-      error_html    = '<li><div class="account-error error">Passwords do not match</div></li>';
+      error_html    = '<li><div id="create-password-error" class="account-error error">Passwords do not match</div></li>';
     }
 
     return window.EvesLogin.validatePassword($password_field, $confirm_field, error_html, $insert_after);
@@ -1648,6 +2770,8 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
 
     if ($('body').hasClass('checkout')) {
       formData = formData + '&pagetype=checkout';
+    } else if ($('body').hasClass('thankyou')) {
+      formData = formData + '&pagetype=thankyou';
     }
 
     var $email = $self.find('input[name="email"]:visible');
@@ -1663,7 +2787,8 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
       if (required[idx].val().trim() === '') {
         required[idx].addClass('account-error');
         $self.find('label[for="' + required[idx].attr('name') + '"]').addClass('account-error');
-        required[idx].parent('li').after('<li><div class="account-error error">Field is empty</div></li>');
+        required[idx].parent('li').after('<li><div id="login-error-' + required[idx].attr('name') + '" class="account-error error">Field is empty</div></li>');
+        required[idx].focus();
         success = false;
       }
     }
@@ -1683,73 +2808,68 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
     $('#login-preloader').show();
     $('div.ui-dialog div.dialog-overlay').show();
 
-    console.log('login attempt?');
-    window.re3.execute('login', function (token) {
-      formData += '&g-token=' + encodeURIComponent(token);
-      console.log('execute re3');
+    $.post('/login?fmt=json', formData).done(function (data) {
+      var client_id         = data && data.client && data.client.client_id || '';
+      var client_fname      = data && data.client && data.client.client_fname || 'Jewelry Lover';
 
-      $.post('/login?fmt=json', formData).done(function (data) {
-        var client_id         = data && data.client && data.client.client_id || '';
-        var client_fname      = data && data.client && data.client.client_fname || 'Jewelry Lover';
-  
-        $('#login-preloader').hide();
-        $('div.ui-dialog div.dialog-overlay').hide();
-  
-        $body.addClass('logged-in').attr('data-client-id', client_id);
-        $('.welcomeBack').html('<a href="/account">Welcome back, ' + client_fname + '!</a>');
-  
-        if (data && data.reset.length && data.redirect) {
-          $(window).trigger('login', data);
-          window.location = data.redirect;
-          return;
-        }
-  
-        if (data && data.html && data.html.length) {
-          $body.find('form.login.widget').html(data.html);
-          if (data.client && data.client.client_stored_payments_html && data.client.client_stored_payments_html.length) {
-            $(data.client.client_stored_payments_html)
-              .insertAfter($('#order_b_pay_paypal'));
-  
-            var $pay_card = $('#order_b_pay_card').detach();
-            var $target = $('.billing-address-summary + .primaryButton').length ? $('.billing-address-summary + .primaryButton') : $('#order_b_saved');
-            $pay_card.insertAfter($target);
-          }
-        }
-  
-        if ($('#login-modal').dialog('isOpen')) {
-          $('#login-modal').dialog('close');
-        }
-  
-        client_saved_addr = data && data.client && data.client.client_stored_addresses || '';
-  
+      $('#login-preloader').hide();
+      $('div.ui-dialog div.dialog-overlay').hide();
+
+      $body.addClass('logged-in').attr('data-client-id', client_id);
+      $('.welcomeBack').html('<a href="/account">Welcome back, ' + client_fname + '!</a>');
+
+      if (data && data.reset.length && data.redirect) {
         $(window).trigger('login', data);
-      }).fail(function (jqXHR, code, text) {
-        var data = { errors: [text] };
-  
-        $('#login-preloader').hide();
-        $('div.ui-dialog div.dialog-overlay').hide();
-  
-        try {
-          var obj = JSON.parse(jqXHR.responseText);
-          data = obj;
-        } catch (e) {}
-  
-        if ( ! data) {
-          return;
+        window.location = data.redirect;
+        return;
+      }
+
+      if (data && data.html && data.html.length) {
+        $body.find('form.login.widget').html(data.html);
+        if (data.client && data.client.client_stored_payments_html && data.client.client_stored_payments_html.length) {
+          $(data.client.client_stored_payments_html)
+            .insertAfter($('#order_b_pay_paypal'));
+
+          var $pay_card = $('#order_b_pay_card').detach();
+          var $target = $('.billing-address-summary + .primaryButton').length ? $('.billing-address-summary + .primaryButton') : $('#order_b_saved');
+          $pay_card.insertAfter($target);
         }
-  
-        if (data.reset && data.reset.length && data.redirect) {
-          window.location = data.redirect;
-          return;
-        }
-  
-        if ($.isArray(data.errors)) {
+      }
+
+      $('#login-modal').evesDialog('close');
+
+      client_saved_addr = data && data.client && data.client.client_stored_addresses || '';
+
+      $(window).trigger('login', data);
+    }).fail(function (jqXHR, code, text) {
+      var data = { errors: [text] };
+
+      $('#login-preloader').hide();
+      $('div.ui-dialog div.dialog-overlay').hide();
+
+      try {
+        var obj = JSON.parse(jqXHR.responseText);
+        data = obj;
+      } catch (e) {}
+
+      if ( ! data) {
+        return;
+      }
+
+      if (data.reset && data.reset.length && data.redirect) {
+        window.location = data.redirect;
+        return;
+      }
+
+      if ($.isArray(data.errors)) {
           var $errors = $self.find('ul.errors:visible');
-          for (var i = 0; i < data.errors.length; i++) {
-            $errors.append('<li class="error"></li>').text(data.errors[i]);
-          }
+
+          $errors.removeAttr('role');
+        for (var i = 0; i < data.errors.length; i++) {
+          $errors.append($('<li class="error"></li>').text(data.errors[i]));
         }
-      });
+        $errors.attr('role', 'alert');
+      }
     });
 
     return false;
@@ -1784,8 +2904,8 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
     });
   });
 </script>
-<form class="login widget" name="login" method="POST" data-active-widget=".login-widget" onsubmit="return evesLoginWidgetAJAXSubmitHandler(event);">
-
+<form class="login widget" name="login" method="post" data-active-widget=".login-widget" onsubmit="return evesLoginWidgetAJAXSubmitHandler(event);">
+  
   <style>
     /* Non Modal Styles */
 
@@ -1805,13 +2925,13 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
       margin: 4px;
       margin-bottom: 16px;
     }
-    .create-account-widget .footer {
+    .create-account-widget .account-footer {
       width: 250px;
       background: transparent;
       margin: 0 auto;
       padding: 0;
     }
-    .create-account-widget .footer input {
+    .create-account-widget .account-footer input {
       text-align: center;
     }
 
@@ -1926,13 +3046,14 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
       text-decoration: underline;
     }
 
-    .login-dialog h3 {
+    .login-dialog span.non-login-page {
       display: inline-block;
       margin: 0;
       font: 15px 'function_promedium', sans-serif;
       float: right;
       margin-bottom: 12px;
       color: #666;
+      text-transform: lowercase;
     }
 
     .login-dialog .create-account-legend {
@@ -1943,76 +3064,70 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
     .login-dialog a.login-button {
       cursor: pointer;
     }
-
   </style>
-  
-  
   <div class="login-widget non-login-page">
-  
-  
+    
     <p class="is-login-page">
       If you don't already have one, you can
       <a data-activate-widget=".create-account-widget" href="/account/create" title="Create an Account">create an account here »</a>.
     </p>
     <p class="is-login-page">If you have an account but cannot remember your password, you can <a href="/login/reset-password" title="Reset Password">reset your password »</a>.</p>
     
-    <p class="modal-view title">Log Into Your Account</p>
-    <ul class="errors"></ul>
+      <p id="login-modal-title" class="modal-view title">Log Into Your Account</p>
+      <ul class="errors" role="alert"></ul>
     
-      <ul>
-        <li>
-          <label class="is-login-page" for="email">Email Address:</label>
-          <input type="text" name="email" placeholder="Email">
-        </li>
-        <li class="login-password">
-          <label class="is-login-page" for="password">Password:</label>
-          <input type="password" name="password" autocomplete="off" placeholder="Password">
-          
-            <a href="/login/reset-password" class="login-password-reset">forgot?</a>
-          
-          <img id="login-preloader" src="https://eves.tac-cdn.net/images/v2/layout/preloader.gif" style="display: none;">
-        </li>
-      </ul>
-      <input name="login" id="login-submit" type="submit" value="Log In »" class="primaryButton">
-      
+    <ul>
+      <li>
+        <label class="is-login-page" for="login-email">Email Address:</label>
+        <input type="text" name="email" aria-describedby="login-error-email" id="login-email" placeholder="Email">
+      </li>
+      <li class="login-password">
+        <label class="is-login-page" for="login-password">Password:</label>
+        <input type="password" name="password" id="login-password" aria-describedby="login-error-password" autocomplete="off" placeholder="Password">
+        
+          <a href="/login/reset-password" class="login-password-reset">forgot?</a>
+        
+        <img id="login-preloader" src="https://eves.tac-cdn.net/images/v2/layout/preloader.gif" style="display: none;">
+      </li>
+    </ul>
+    <input name="login" id="login-submit" type="submit" value="Log In »" class="primaryButton">
+    
       <input type="button" data-activate-widget=".create-account-widget" value="Create an Account »" class="create-account-button">
-      
-  </div><!-- .login-widget -->
-  
-  
-  <div class="create-account-widget non-login-page">
-  
     
-    <div class="create-account-legend">Create An Account</div>
-    <ul class="errors"></ul>
-    <h3 class="non-login-page">Already have an account? <a data-activate-widget=".login-widget" class="login-button">Log In »</a></h3>
+  </div><!-- .login-widget -->
+
+  <div class="create-account-widget non-login-page">
+    
+      <div class="create-account-legend">Create An Account</div>
+      <ul class="errors" role="alert"></ul>
+      <span class="non-login-page">Already have an account? <a data-activate-widget=".login-widget" class="login-button">Log In »</a></span>
     
     
     <ul>
       <li>
         <label class="is-login-page" for="client_fname">First Name:</label>
         <input type="text" placeholder="First Name" name="client_fname">
-        <label class="is-login-page" form="client_lname">Last Name:</label>
+        <label class="is-login-page" for="client_lname">Last Name:</label>
         <input type="text" placeholder="Last Name" name="client_lname">
       </li>
       <li>
-        <label class="is-login-page" for="password">Password</label>
-        <input type="password" placeholder="Password" name="password">
+        <label class="is-login-page" for="create-password">Password</label>
+        <input type="password" placeholder="Password" name="password" id="create-password" aria-describedby="create-password-error">
         
-        <label class="is-login-page" for="confirm">Confirm Password</label>
-        <input type="password" placeholder="Confirm Password" name="confirm">
+        <label class="is-login-page" for="create-confirm">Confirm Password</label>
+        <input type="password" placeholder="Confirm Password" name="confirm" id="create-confirm" aria-describedby="create-password-error">
       </li>
 
       
-      <li class="password-strength-meter meter-on-dialog"></li>
-      <input type="hidden" name="score" value="0" class="password-strength-score score-on-dialog">
+        <li class="password-strength-meter meter-on-dialog"></li>
+        <input type="hidden" name="score" value="0" class="password-strength-score score-on-dialog">
       
 
       <li>
-        <label class="is-login-page" for="email">Email Address</label>
-        <input type="email" placeholder="Email" name="email">
+        <label class="is-login-page" for="create-email">Email Address</label>
+        <input type="email" placeholder="Email" name="email" id="create-email" aria-describedby="login-error-email">
       </li>
-      <li class="footer">
+      <li class="account-footer">
         <input type="hidden" name="create" value="true">
         <input class="create-account-submit primaryButton" type="submit" value="Create Account »">
       </li>
@@ -2021,409 +3136,10 @@ background: url(https://eves.tac-cdn.net/images/v2/layout/icon_heartPink.png?aut
 
 
 
-</form>
- </div>
-  <div class="container_12">
-<ul class="messages">
-</ul>
-<ul class="messages-errors">
-</ul>
-<div class="grid_12">
-<h1>Privacy Policy</h1>
-<table border="0" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<td class="staticpages">
-<p>
-  What personal information do we collect? When you place an order with us, we
-  ask for the standard personal information in our order form (such as name,
-  address, email, contact phone number, and so forth) in order for us to
-  properly ship your order to you. This information is kept secure in
-  protected systems. If necessary, we may use this information to contact you
-  (via email for example) regarding a pending order, or to answer a question
-  prompted from a customer.
-  <br>
-  <br>
-  From time to time, you may receive promotional information and special
-  offers through e-mail or regular mail from Eve's Addiction and/or our
-  marketing partners. However, if you do not want to receive e-mail
-  communications or other promotional communications, you are free to opt out
-  of our mailing list at any time. We do not sell, lease, or rent your email
-  address without your permission.  From time to time, we make certain third
-  party offers available through our site.  If you accept such offer, we will
-  disclose your contact and billing information to that third party, even if
-  you have previously opted out of our mailing list.
-  <br>
-  <br>
-  What other kind of information do we collect? We use a commonly known file
-  called a "cookie" on our site. These are the same cookies used on millions
-  of other websites in order to help you navigate our site. In the case of our
-  site, we use cookies to let your computer remember the contents (products)
-  in your shopping cart and related information. In some cases, we may use a
-  cookie to let us know if you are coming from a site affiliated with us so
-  that we may attend to that site's due commissions. In the case of affiliated
-  sites, only the subtotal sale amount will be divulged to the affiliates for
-  payment purposes. Personally identifiable information will in NO WAY be
-  provided outside of EvesAddiction.com in these cases.
-  <br>
-  <br>
-  Like most other websites, we monitor the aggregate (how many people) traffic
-  statistics on our website. This is done in order to provide our customers
-  with better and more efficient service. These general statistics do NOT
-  personally identify our customers and site visitors.
-  <br>
-  <br>
-  We use affiliate software to track where potential customers are coming from
-  so that the affiliate site may be paid as a result. This software logs
-  computer ID as a security precaution.
-</p>
-<p>
-  At times, EvesAddiction.com uses web beacons alone or in conjunction with
-  cookies to compile information about customers and visitors’ usage of
-  our site and interaction with emails from us. Web beacons are clear
-  electronic images that can recognize certain types of information, such as
-  cookies, when you viewed a particular web site tied to the beacon, and a
-  description of our site tied to the web beacon. For example, we may place
-  web beacons in marketing emails that notify the us when you click on a link
-  in the email that directs you to our site. EvesAddiction.com uses web
-  beacons to operate and improve our site and email communications. We may use
-  information from web beacons in combination with data about our customers to
-  provide you with information about us.
-</p>
-<p>
-  Eve's Addiction shares data with Google Analytics in order to understand how
-  our customers are using the website and optimize the site to create a better
-  experience. Google Analytics runs in the background of EvesAddiction.com
-  analyzing user information and returning reports to us based on this
-  information via an encrypted connection. Google Analytics maintains data
-  confidentially and only shares reports with Eve's Addiction. Password and
-  credit card information is not collected with Google Analytics. If you would
-  like to opt-out of Google Analytics collected data while you are on
-  EvesAddiction.com please <a target="_blank" href="https://tools.google.com/dlpage/gaoptout">click here.</a>
-</p>
-<p>
-  We may provide you the opportunity to opt-in to additional newsletters or
-  promotional communications sent by email. If you have opted in or otherwise
-  qualify to receive these forms of communication, and no longer wish to
-  receive our newsletter or other promotional communications by email, you may
-  opt-out of receiving them by following the instructions included in each
-  communication.
-  <br>
-  <br>
-  <br>
-  How do we protect your information? We encrypt order information for your
-  protection. EvesAddiction.com online store uses industry standard Secure
-  Sockets Layer (SSL) encryption on areas of our website where personal
-  information is needed. EvesAddiction.com does not accept email registration,
-  nor contest participation from children under the age of 13 due to the
-  Children’s Online Privacy Protection Act (COPPA). If you are under the
-  age of 13, you must get parental permission to divulge your email address
-  and order-related information before using this site. Our contests are open
-  to users ages 13 and up, however if a sweepstake or contest winner is under
-  18 years old, we will require a consent from signed by the winner’s
-  parent or guardian in order to award the prize. Our contests and sweepstakes
-  are subject to all federal, state, and local laws and void where prohibited.
-  <br>
-  <br>
-</p>
-<div></div>
-<strong>EvesAddiction.com uses an Extended Validation SSL Certificate<br>
-</strong>For your security and confidence, EvesAddiction.com uses Extended
-Validation Secure Sockets Layer Certificate for confidence and security when
-using your credit card online.<br> <br>If you would like further details
-about EvesAddiction.com, or would like to contact us please visit our front
-page or email us at
-<a href="/cdn-cgi/l/email-protection#30534543445f5d5542435542465953557055465543515454595344595f5e1e535f5d"><span class="__cf_email__" data-cfemail="97f4e2e4e3f8faf2e5e4f2e5e1fef4f2d7d2e1f2e4d6f3f3fef4e3fef8f9b9f4f8fa">[email&nbsp;protected]</span></a>.
-<br>
-<br>
-We reserve the right, at our sole discretion, to change, modify, or otherwise
-alter these terms and conditions at anytime. Please review the terms and
-conditions periodically. Your continued use of the site following the posting
-of changes and/or modifications will constitute your acceptance of the revised
-terms and conditions.
-</td>
-</tr>
-</tbody>
-</table>
-<br>
-<br>
-</div>     </div><!--grid_12 main -->
-    <div class="shadow">
-
-    <!-- Five9 Chat Widget, left anchor -->
-    <div class="chatWidget">
-     <a onclick="onOpenChatLink()" class="chat">Begin Chat »</a>
-    </div><!--chatWidget-->
-    <!-- End Five9 Chat Widget, left anchor -->
-
-    </div><!--shadow-->
-    <div class="footer">
-     <div class="container_12 footerContent">
-      <div class="grid_12">
-      <div class="doubleLines"></div>
-      <a href="/today.html" class="featuredNBC">EVE'S JEWELRY <span>featured on</span> NBC'S TODAY SHOW</a>
-      <div class="doubleLines"></div>
-      
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
-  function about() {
-      $( "#about" ).toggle();
-  }
-  function security() {
-      $( "#security" ).toggle();
-  }
-  function account() {
-      $( "#account" ).toggle();
-  }
-</script>
-
-  <div id="footer-mobile">
-    <div class="mobile-expand">
-     <h4 class="title" onclick="about()">ABOUT EVE'S <span class="glyphicon">+</span></h4>
-     <ul id="about" class="footer-ul">
-      <li><a href="/aboutus.html">About</a></li>
-      <li><a href="/custsrv.html">Contact</a></li>
-      <li><a href="/media.html">In the Media</a></li>
-      <li><a href="/testimonials2.html">Testimonials</a></li>
-      <li><a href="/freeshipping.html">Free Shipping</a></li>
-      <li><a href="/affiliate-marketing.html">Affiliate Info</a></li>
-      <li><a href="http://newton.newtonsoftware.com/career/CareerHome.action?clientId=8a7883c66613934801665f45ecc50f15" target="_blank">Careers</a></li>
-     </ul>
-     <div class="mobile-hr"></div>
-    </div>
-    <div class="mobile-expand">
-     <h4 class="title" onclick="security()">SECURITY &amp; PRIVACY <span class="glyphicon">+</span></h4>
-     <ul id="security" class="footer-ul">
-      <li><a href="/privacypolicy.html">Privacy Policy</a></li>
-      <li><a href="/returnpolicy.html">Return &amp; Exchange Policy</a></li>
-      <li><a href="/faq.html">FAQs</a></li>
-      <li><a href="/disclaimer.html">Disclaimer</a></li>
-      <li><a href="/info.html">Information</a></li>
-      <li><a href="/sitemap">Site Map</a></li>
-     </ul>
-     <div class="mobile-hr"></div>
-    </div>
-    <div class="mobile-expand">
-     <h4 class="title" onclick="account()">MY ACCOUNT <span class="glyphicon">+</span></h4>
-     <ul id="account" class="footer-ul">
-      <li class="account-footer"><a href="/account">Account Details</a></li>
-      <li><a href="/track-your-order.html">Track Your Order</a></li>
-      <li><a href="/cart">Shopping Bag</a></li>
-      <li class="login-footer"><a href="/login">Log In</a></li>
-     </ul>
-    </div>
-    <a href="/track-your-order.html" class="orderTrack">Track Your Order »</a>
+</form>    </div>
+    <div class="aria-bookend" tabindex="0"></div>
   </div>
+ 
 
-  <div class="footerLine1">
-   <div class="grid_2 alpha">
-    <h4>ABOUT EVE'S</h4>
-    <ul>
-     <li><a href="/aboutus.html">About</a></li>
-     <li><a href="/custsrv.html">Contact</a></li>
-     <li><a href="/media.html">In the Media</a></li>
-     <li><a href="/testimonials2.html">Testimonials</a></li>
-     <li><a href="/freeshipping.html">Free Shipping</a></li>
-     <li><a href="/affiliate-marketing.html">Affiliate Info</a></li>
-     <li><a href="http://newton.newtonsoftware.com/career/CareerHome.action?clientId=8a7883c66613934801665f45ecc50f15" target="_blank">Careers</a></li>
-    </ul>
-   </div><!--grid_2-->
-   <div class="grid_2">
-    <h4>SECURITY &amp; PRIVACY</h4>
-    <ul>
-     <li><a href="/privacypolicy.html">Privacy Policy</a></li>
-     <li><a href="/returnpolicy.html">Return &amp; Exchange Policy</a></li>
-     <li><a href="/faq.html">FAQs</a></li>
-     <li><a href="/disclaimer.html">Disclaimer</a></li>
-     <li><a href="/info.html">Information</a></li>
-     <li><a href="/sitemap">Site Map</a></li>
-    </ul>
-   </div><!--grid_2-->
-   <div class="grid_2">
-    <h4>MY ACCOUNT</h4>
-    <ul>
-     <li class="account-footer"><a href="/account">Account Details</a></li>
-     <li><a href="/track-your-order.html">Track Your Order</a></li>
-     <li><a href="/cart">Shopping Bag</a></li>
-     <li class="login-footer"><a href="/login">Log In</a></li>
-    </ul>
-   </div><!--grid_2-->
-   <div class="grid_6 omega">
-    <div class="youFirstFooter">
-    <p>you first.</p>
-    <span>Sign up to get deals and new style alerts before anyone else.</span>
-    <form method="post" action="/mailing-list">
-     <input type="text" name="email" onfocus="if(this.value=='Enter email address...') this.value='';" value="Enter email address..." maxlength="64">
-     <input type="submit" value="Sign Me Up »" class="primaryButton" id="signMeUp">
-    </form>
-   </div><!--youFirstFooter-->
-   <div class="thenUsFooter">
-    <p>then us.</p>
-    <ul class="socialLinks">
-     <li class="socialTwitter"><a href="https://twitter.com/evesaddiction" target="_blank">Twitter</a></li>
-     <li class="socialYoutube"><a href="http://www.youtube.com/user/evesaddictionjewelry/featured" target="_blank">YouTube</a></li>
-     <li class="socialPinterest"><a href="http://www.pinterest.com/evesaddiction/" target="_blank">Pinterest</a></li>
-     <li class="socialInstagram"><a href="http://www.instagram.com/evesaddiction/" target="_blank">Pinterest</a></li>
-     <li class="socialFacebook"><a href="https://www.facebook.com/pages/EvesAddictioncom/66743809191" target="_blank">Facebook</a><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FEvesAddictioncom%2F66743809191%3Fref%3Dbr_tf&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=349967941752739" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowtransparency="true"></iframe></li>
-     <li class="socialBlog"><a href="https://blog.evesaddiction.com/" target="_blank">Our Blog: Eve Tells All</a></li>
-    </ul>
-   </div><!--thenUsFooter-->
-   <a href="/track-your-order.html" class="trackOrder"></a>
-   </div><!--grid_4 omega-->
-  </div><!--footerLine1-->
-  <div class="footerLine2 bottomFifteen">
-   <div class="grid_4 omega" id="footer2">
-    <a href="http://www.bbb.org/connecticut/business-reviews/jewelers-retail/evesaddictioncom-in-deep-river-ct-84001742#sealclick" target="_blank" title="Click for the Business Review of EvesAddiction.com, a Jewelers - Retail in Old Saybrook CT" class="bbb">
-      <img src="https://eves.tac-cdn.net/images/v2/layout/icon_BBB.png?auto=webp&amp;quality=25" alt="EvesAddiction.com is a BBB Accredited Business. Click for our BBB Business Reviews." width="183" height="61"></a>
-    <a class="verified" href="#" onclick="window.open('https://seal.godaddy.com:443/verifySeal?sealID=tOYeB6b5ChoaPiA0GPJ3n2NhMCO9xQiAbLIRIJ2Txrv18rtKTzP','_blank','location=yes,status=yes,resizable=yes,scrollbars=yes,width=600,height=740,top=0,left=0'); return false;"><img src="https://eves.tac-cdn.net/images/v2/layout/icon_safeSecure.png?auto=webp&amp;quality=25" alt=""></a>
-   </div>
-  </div><!--footerLine2-->
-
-      <div class="chatWidgetMobile">
-       <!-- Five9 Chat Widget, low res -->
-       <a onclick="onOpenChatLink()" class="lowResChat">Begin Chat »</a>
-       <!-- ENd Five9 Chat Widget, low res -->
-      </div><!--chatWidgetMobile-->
-
-	  <div class="footerMobile">
-	   <ul class="socialLinks">
-	    <li class="socialInstagram"><a href="https://instagram.com/evesaddiction" target="_blank">Instagram</a></li>
-	    <li class="socialFacebook"><a href="https://www.facebook.com/pages/EvesAddictioncom/66743809191" target="_blank">Facebook</a></li>
-	    <li class="socialPinterest"><a href="http://www.pinterest.com/evesaddiction/" target="_blank">Pinterest</a></li>
-	    <li class="socialYoutube"><a href="http://www.youtube.com/user/evesaddictionjewelry/featured" target="_blank">YouTube</a></li>
-	    <li class="socialTwitter"><a href="https://twitter.com/evesaddiction" target="_blank">Twitter</a></li>
-	   </ul>
-       <a onclick="onOpenChatLink()" class="mobileChat">Need Help? Click Here for Live Chat »</a>
-       <img src="https://eves.tac-cdn.net/images/v2/layout_320/icon_paymentsMobile.png?auto=webp&amp;quality=25" class="paymentFooterMobile" width="320" height="40" alt="Visa, MasterCard, American Express, Discover, Google Checkout, and PayPal">
-       <img src="https://eves.tac-cdn.net/images/v2/layout/icon_BBB.png?auto=webp&amp;quality=25" class="bbbFooterMobile" width="150" height="50" alt="EvesAddiction.com is a BBB Accredited Business.">
-	  </div><!--footerMobile-->
-
-	  <div class="doubleLines" id="doubleLast"></div>
-      <img src="https://eves.tac-cdn.net/images/v2/layout/icon_payments.png?auto=webp&amp;quality=25" class="paymentFooter" width="940" height="40" alt="Visa, MasterCard, American Express, Discover, Google Checkout, and PayPal">
-      <p class="google-recaptcha">
-        This site is protected by reCAPTCHA and the Google
-        <a href="https://policies.google.com/privacy" rel="nofollow">Privacy Policy</a> and
-        <a href="https://policies.google.com/terms" rel="nofollow">Terms of Service</a> apply.
-      </p>
-      <p class="copyright">© 2019 Eve's Addiction - Old Saybrook, CT - New York, NY. All rights reserved.</p>
-
-	  <div class="doubleLines" id="doubleLast"></div>
-	  <p class="stats">B - 1</p>
-      <!-- B - 1 -->
-      <!-- SiteUptime Check -->
-     </div><!--grid_12-->
-     </div><!--content_12-->
-
-    <script>
-    // <![CDATA[
-    window.Config = {
-    restAPI: 'https://app.five9.com',
-    rootUrl: 'https://app.five9.com/consoles/',
-    tenant: 'FromYouFlowers',
-    profiles: 'Eves Addiction Chat',
-    title: 'Eves Addiction Chat',
-    showProfiles: false
-    };
-
-    function onOpenChatLink() {
-    var rootUrl = Config.rootUrl + 'ChatConsole';
-    var url = rootUrl + '?tenant=' + Config.tenant + '&profiles=' + Config.profiles + '&title=' + Config.title + '&showProfiles=' + Config.showProfiles + '&logo=' + 'https://eves.tac-cdn.net/images/v2/layout/logo.png' + '&theme=' + 'https://eves.tac-cdn.net/css/masterChat.css';
-    url = encodeURI(url);
-    var props = 'width=320,height=550,location=no,menubar=no,resizable=yes,scrollbars=no,status=no,titlebar=no,toolbar=no';
-    window.open(url, 'Five9Chat', props);
-    }
-    // ]]></script>
-
-    </div><!--footer-->
-
-
-<a href="#" id="scroll-to-top">↑</a>
-
-  <script type="text/javascript">
-    var google_tag_params = {"ecomm_pagetype":"page","ecomm_prodid":"","ecomm_totalvalue":""};
-    var google_custom_params = google_tag_params;
-    var google_remarketing_only = true;
-  </script>
-
-  <script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 1071198340,
-        google_conversion_label = "SwHiCLDy0gEQhOHk_gM";
-    /* ]]> */
-  </script>
-  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-  <noscript>
-    <div style="display:inline;">
-      <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071198340/?value=0&amp;label=SwHiCLDy0gEQhOHk_gM&amp;guid=ON&amp;script=0"/>
-    </div>
-  </noscript>
-  <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
-  <script type="text/javascript">
-    $(window).on( "adapted", function() {
-        window.criteo_q = window.criteo_q || [];
-        window.criteo_q.push(
-          {"event":"setSiteType","type":deviceType},
-          {"event":"setAccount","account":18351},
-      {"event":"setEmail","email":null}
-        );
-    });
-  </script>
-  <script type="application/javascript">
-    (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4018930"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
-  </script>
-<!-- FOOTER SCRIPTS -->
-<script type="text/javascript" defer="" src="https://eves.tac-cdn.net/js/owl.carousel.js"></script>
-<script type="text/javascript" src="https://eves.tac-cdn.net/js/jquery.truncator.js"></script>
-<script type="text/javascript" src="https://eves.tac-cdn.net/js/site-v2.js"></script>
-<script type="text/javascript" src="https://eves.tac-cdn.net/js/jquery-ui-1.12.1.min.js"></script>
-<script type="text/javascript" defer="" async="" src="https://eves.tac-cdn.net/js/jquery.sidr-2.2.1.min.js"></script>
-<!-- END FOOTER SCRIPTS -->
-    <!-- DEFERRED SCRIPTS -->
-    <script type="text/javascript">
-    function downloadDeferredJS() {
-      var scripts = ["https:\/\/eves.tac-cdn.net\/js\/jquery.ui.touch-punch.min.js","https:\/\/eves.tac-cdn.net\/js\/magiczoom.js","https:\/\/eves.tac-cdn.net\/js\/magicscroll.js","https:\/\/eves.tac-cdn.net\/js\/mobile.js","https:\/\/eves.tac-cdn.net\/js\/ac_wordlist.js"];
-
-      for (var i = 0; i < scripts.length; i++) {
-        var script = document.createElement('script');
-        script.src = scripts[i];
-        document.body.appendChild(script);
-      }
-    }
-
-    if (window.addEventListener) {
-      window.addEventListener('load', downloadDeferredJS, false);
-    } else if (window.attachEvent) {
-      window.attachEvent('onload', downloadDeferredJS);
-    } else {
-      window.onload = downloadDeferredJS;
-    }
-
-    </script>
-    <!-- END DEFERRED SCRIPTS -->
-      <!-- BEGIN GCR Opt-in Module Code -->
-    <script src="https://apis.google.com/js/platform.js?onload=renderBadge" async="" defer="">
-    </script>
-    <script>
-      window.___gcfg = {
-        lang: 'en_US'
-      };
-      window.renderBadge = function() {
-        jQuery(function($) {
-
-          var ratingBadgeContainer = document.createElement('div');
-
-          if (deviceType == 'm') {
-            $('div.footerMobile')[0].appendChild(ratingBadgeContainer);
-          } else {
-            $('.footerLine2 .grid_4.omega')[0].appendChild(ratingBadgeContainer);
-          }
-
-          window.gapi.load('ratingbadge', function() {
-            window.gapi.ratingbadge.render(ratingBadgeContainer, {"merchant_id": 78501, 'position': 'INLINE'}, deviceType == 'm');
-          });
-        });
-      }
-    </script>
-   
-
-<!-- TPT 0.032380104064941 -->
-<script src="https://eves.tac-cdn.net/js/jquery.ui.touch-punch.min.js"></script><script src="https://eves.tac-cdn.net/js/magiczoom.js"></script><script src="https://eves.tac-cdn.net/js/magicscroll.js"></script><script src="https://eves.tac-cdn.net/js/mobile.js"></script><script src="https://eves.tac-cdn.net/js/ac_wordlist.js"></script></body></html>
+<!-- TPT 0.044001817703247 -->
+<script src="https://eves.tac-cdn.net/js/magiczoom.js"></script><script src="https://eves.tac-cdn.net/js/magicscroll.js"></script><script src="https://eves.tac-cdn.net/js/mobile.js"></script><script src="https://eves.tac-cdn.net/js/ac_wordlist.js"></script></body></html>
