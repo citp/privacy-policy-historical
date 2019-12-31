@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofcom.org.uk privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329183046id_/https%3A//www.ofcom.org.uk/about-ofcom/foi-dp/general-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofcom.org.uk privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231093239id_/https%3A//www.ofcom.org.uk/about-ofcom/foi-dp/general-privacy-statement) for the most accurate reproduction.*
 
 # General Privacy Statement – How we handle your personal data - Ofcom
 
