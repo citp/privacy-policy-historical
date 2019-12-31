@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinxo.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531222441id_/http%3A//www.spinxo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinxo.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231035649id_/http%3A//www.spinxo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,6 +18,6 @@ In sum, your security and privacy is of our utmost concern, and we will never in
 
 SpinXO helps you generate tons of name ideas with a few mouse clicks. You can find available usernames for Youtube, Instagram, Roblox, games and any other social network. 
 
-  * [ Generate Names ](http://www.spinxo.com/)
+  * [ Generate Names ](https://www.spinxo.com/)
 
 
