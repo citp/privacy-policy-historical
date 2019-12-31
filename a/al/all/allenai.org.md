@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allenai.org privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624182447id_/https%3A//allenai.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allenai.org privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231123517id_/https%3A//allenai.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy — Allen Institute for Artificial Intelligence
+# Privacy Policy — Allen Institute for AI
 
 AI2 Privacy Policy
 
