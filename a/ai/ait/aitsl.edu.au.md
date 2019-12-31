@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aitsl.edu.au privacy policy that was archived on 2019-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190314155224id_/https%3A//www.aitsl.edu.au/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aitsl.edu.au privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231180138id_/https%3A//www.aitsl.edu.au/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ AITSL is committed to protecting personal information and meeting its privacy ob
 
 
 
-If you do not wish for AITSL to collect this information, you [can opt out here](https://tools.google.com/dlpage/gaoptout/)
+If you do not wish for AITSL to collect this information, you [can opt out here](https://tools.google.com/dlpage/gaoptout/)
 
 European Union and United Kingdom residents can find AITSL’s GDPR policy [here](https://web.archive.org/docs/default-source/default-document-library/privacy---aitsl-privacy-\(external\)-2018.pdf?sfvrsn=6029f03c_0 "here").
 
