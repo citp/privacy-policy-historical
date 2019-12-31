@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2sms.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515085949id_/http%3A//www.way2sms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2sms.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231202247id_/https%3A//www.way2sms.com/privacy-policy) for the most accurate reproduction.*
 
 # Free SMS, Send Free SMS, Free SMS to india, Send Free SMS to india, Free text messaging, Send free SMS from PC to Mobile, Bulk SMS, Corporate SMS, SMS for Business need, SMS for Corporate, SMS API, SMS for Business need in india.
 
