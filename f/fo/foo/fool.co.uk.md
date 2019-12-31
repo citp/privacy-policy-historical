@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606124833id_/https%3A//www.fool.co.uk/help/privacy-and-cookie-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231234040id_/https%3A//www.fool.co.uk/help/privacy-and-cookie-statement) for the most accurate reproduction.*
 
 # Privacy Policy & Cookie Statement | The Motley Fool UK
 
