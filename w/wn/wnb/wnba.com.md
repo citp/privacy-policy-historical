@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the wnba.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627142010id_/http%3A//www.nba.com/news/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnba.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231215154id_/https%3A//www.nba.com/news/privacy_policy.html) for the most accurate reproduction.*
 
 # NBA Privacy Policy | NBA.com
 
-Skip to main content 
+#### **Effective Date: January 1, 2020 | [What's New?](http://www.nba.com/privacy-policy/new)**
 
-#### **NBA Privacy Policy**
+To review the Privacy Policy in place prior to January 1, 2020, please go to [NBA Privacy Policy](https://www.nba.com/news/privacy_policy_2019.html):
 
- **Last Updated: May 2018 |[What's New?](http://www.nba.com/privacy-policy/new)**
-
- **Table of Contents:**
+ **Table of Contents**
 
   1. About This Privacy Policy
   2. Data That We Collect and Receive
@@ -20,27 +18,31 @@ Skip to main content
   8. Third Party Sites and Sections
   9. Children and Parents
   10. Storing Data
-  11. European Privacy Rights
-  12. Changes to This Privacy Policy
-  13. [How to Contact Us](http://www.nba.com/news/privacy_policy.html#Contact_Us)
+  11. California Privacy Rights
+  12. European Privacy Rights
+  13. Changes to This Privacy Policy
+  14. How to Contact Us
 
 
+  1.  **About This Privacy Policy**
 
-  **1\. About This Privacy Policy**
+
 
 This privacy policy (the “Policy”) explains what data the NBA Family collects from you through our interactions with you and through our products, services, events and programs – including our websites, apps and digital platforms (each a “Service,” and collectively, the “Services”).
 
-“The NBA Family” means the National Basketball Association (“NBA”), the Women’s National Basketball Association (“WNBA”), the NBA Gatorade League (“G-League”), the NBA 2K League, their respective teams, and each of their respective affiliates (also referred to as “we,” “our” or “us”).
+“The NBA Family” means the National Basketball Association (“NBA”), the Women’s National Basketball Association (“WNBA”), the NBA Gatorade League (“G-League”), the NBA 2K League, the Basketball Africa League, their respective teams, and each of their respective affiliates (also referred to as “we,” “our” or “us”).
 
 By using any of the Services, you consent to the terms of this Policy.
 
-[Return to Top](http://www.nba.com/news/privacy_policy.html#Top)
+Return to Top
 
- **  2\. Data That We Collect and Receive**
+  2.  **Data That We Collect and Receive**
+
+
 
 When you interact with us through the Services, we may collect data from you or from other sources.  This “data” may be information that you directly provide to us, such as personal information you provide when you visit the Services, or information that is passively or automatically collected from you, such as anonymous information collected from your browser or device.
 
-The data we collect consists of:
+The data we collect consists of personal identifiers, commercial information, Internet/other electronic network activity information, geolocation data, professional or employment-related information, characteristics of protected classifications, and inferences drawn from this information.  More specifically, the data we collect includes:
 
   *  **Data that you provide directly when you register for, or use, the Services.**   This data will vary, but typically consists of name, email address, postal address, phone number and other similar contact data.  We also receive data from the communications you send to us, such as customer service inquiries, product reviews and other feedback regarding the Services.
   *  **User credentials** , such as username, password, password hints and similar security information used to create an account and authenticate users of the Services.
@@ -55,9 +57,11 @@ The data we collect consists of:
 
 
 
-[Return to Top](http://www.nba.com/news/privacy_policy.html#Top)
+Return to Top
 
-  **3\. How We Use Data**
+  3.  **How We Use Data**
+
+
 
 We use the data we collect for the following purposes:
 
@@ -79,7 +83,7 @@ We use the data we collect for the following purposes:
 
 
 
- **Marketing and advertising.**   We use the data we collect for marketing or advertising purposes, on behalf of ourselves, as well as our partners and other parties.  Specifically:
+ **Marketing and advertising.**  We use the data we collect for marketing or advertising purposes, on behalf of ourselves, as well as our partners and other parties.  Specifically:
 
   * To send you promotional messages and deliver advertisements about products, services, programs or events that may be of interest to you.  These may be offered by, or on behalf of, the NBA Family, or by our partners and other third parties with whom we have a relationship.
 
@@ -98,9 +102,11 @@ The promotional messages and advertisements that you see may be determined by da
 
 We may also use your data in any other manner as disclosed at the time of collection, or when we have otherwise obtained consent.  Please also note that this Policy is not intended to place any limits on what we do with aggregated, pseudonymized or anonymized data.
 
-[Return to Top](http://www.nba.com/news/privacy_policy.html#Top)
+Return to Top
 
-  **4\. How We Share and Disclose Data**
+  4.  **How We Share and Disclose Data**
+
+
 
 There are times when the data we collect may be shared by the NBA Family.  We share your data for the following purposes:
 
@@ -123,11 +129,13 @@ We may also share your data for any other purpose as disclosed at the time of co
 
 Return to Top
 
-  **5\. What Choices You Have**
+  5.  **What Choices You Have**
+
+
 
 You have many choices about how we collect, use and share your data.
 
- **Communications choices.**   You can choose whether you wish to receive promotional messages from the NBA and which types of messages you wish to receive.  If you receive promotional messages from us and would like to opt out, you may do so by following instructions within those messages.  You may also adjust your communications preferences by [logging into your NBA account](https://secure.nba.com/membership/user/login/) and viewing your preferences.  Please note that these preferences do not apply to informational or transactional communications regarding the Services or other communications that have their own unsubscribe method.
+ **Communications choices.**   You can choose whether you wish to receive promotional messages from the NBA Family and which types of messages you wish to receive.  If you receive promotional messages from us and would like to opt out, you may do so by following instructions within those messages.  You may also adjust your communications preferences by [logging into your NBA account](https://secure.nba.com/membership/user/login/) and viewing your preferences.  Please note that these preferences do not apply to informational or transactional communications regarding the Services or other communications that have their own unsubscribe method.
 
  **Advertising choices.**   You can opt out of interest-based advertising as described in this section and in the “Cookies and Similar Technologies” section of this Policy.  When you opt out, your selection is stored on a cookie on your device.  If you delete the cookie from that device or sign in from a different device, you will need to opt out again.
 
@@ -145,7 +153,9 @@ You can choose to limit the data that third party services (e.g., social media p
 
 Return to Top
 
-  **6\. Cookies and Similar Technologies**
+  6.  **Cookies and Similar Technologies**
+
+
 
 We use cookies and similar technologies (collectively, “Tracking Technologies”) to provide the Services and to collect data.  In addition, third parties may also use Tracking Technologies when you use the Services; for example, if we engaged a third party to operate the Services, or because the Services contain content or advertisements delivered by third parties.  These Tracking Technologies consist of:
 
@@ -187,7 +197,9 @@ Some browsers have incorporated “Do Not Track” features that send an automat
 
 Return to Top
 
-  **7\. Security of Data**
+  7.  **Security of Data**
+
+
 
 The NBA Family takes security seriously.  We take a number of steps to protect your data from unauthorized access, use or disclosure.  These steps take into account the sensitivity of the data we collect and use, as well as the current state of technology.  This includes, for example, storing your data on systems that have limited access and are maintained in controlled facilities.  We also use, and require our vendors to use, industry standard security protocols when processing any payments for your use of the Services. 
 
@@ -195,69 +207,53 @@ It is important to remember that no system can be guaranteed to be 100% secure.�
 
 Return to Top
 
- **  8\. Third Party Sites and Sections**
+  8.  **Third Party Sites and Sections**
+
+
 
 We work with a number of third parties to operate the Services.  When we engage third parties in connection with operating the Services, those third parties may only collect, use or access your data as needed for them to perform these functions.  These third parties include:
 
-  *  **NBA.com and other digital platforms.**   We have engaged Turner Digital Basketball Services, Inc. (“Turner”), including one or more of its affiliates, to operate the NBA.com website, mobile site and other digital platforms in the United States.  The list of Turner affiliates that may receive access to your data includes Bleacher Report Inc., Cable News International, Inc., Cable News Network, Inc., Cartoon Interactive Group, Inc., Cartoon Network Enterprises, Inc., CNE Tours, Inc, CNN Interactive Group, Inc., Court TV Digital LLC, Courtroom Television Network LLC, Great Big Story LLC, Retro, Inc., Superstation, Inc., TBS Interactive Group, Inc., TCM Interactive Group, Inc., The Cartoon Network, Inc., TNT Interactive Group, Inc., TNT Originals, Inc., Turner Broadcasting Sales, Inc., Turner Classic Movies, Inc., Turner Digital Basketball Services, Inc., Turner Digital Entertainment, LLC, Turner Entertainment Networks, Inc., Turner Festivals, Inc., Turner Media Ventures, Inc., Turner Network Sales, Inc., Turner Network Television, Inc., Turner Pages, Inc., Turner Sports Interactive, Inc., Turner Sports, Inc., Warner Bros. Entertainment, Inc., Home Box Office, Inc., and Time Warner, Inc.  Turner is a participant in the online self-regulatory program administered by the DAA and has agreed to adhere to the DAA’s principles applicable to interest-based advertisements.  For more information about the DAA and other choices you have with respect to interest-based advertisements, please visit the “[Cookies and Similar Technologies](http://www.nba.com/news/privacy_policy.html#Cookies)” section of this Policy.  
- 
+  *  **NBA.com and other digital platforms.**   We have engaged Turner Digital Basketball Services, Inc. (“Turner”), a WarnerMedia News & Sports property, including one or more of its affiliates, to operate the NBA.com website, mobile site and other digital platforms in the United States.  A representative list of Turner affiliates that may receive access to your data is available at: <https://turneraffiliates.turner.com/Affiliates/Turner-Affiliates-English>.  This list may be updated from time-to-time, so please check back periodically to keep up-to-date.  Turner is a participant in the online self-regulatory program administered by the DAA and has agreed to adhere to the DAA’s principles applicable to interest-based advertisements.  For more information about the DAA and other choices you have with respect to interest-based advertisements, please visit the “[Cookies and Similar Technologies](http://www.nba.com/news/privacy_policy.html#Cookies)” section of this Policy.  To learn more about how Turner collects, uses, protects and discloses your personal data, please visit   [https://www.nba.com/news/warnermedia_privacy_policy.html](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.nba.com_news_warnermedia-5Fprivacy-5Fpolicy.html&d=DwMFAg&c=W8uiIUydLnv14aAum3Oieg&r=SzmFfuY2t3wLjI7fc7Hb_Nprq2gvDp5ATZ16CGbmZBE&m=uH4BiU14PBcHPzEOEose-st76SNFyGiuoPq2quTjrvY&s=k5HARmGd9kqnfsLvEQ86ikGGFWHCRPRy95Pu3w2vihk&e=).
   *  **NBA Local Destinations**.  We have engaged partners in certain regions to operate localized NBA-focused websites (“NBA Local Destinations”).  As of the date on which this Policy was last updated, our NBA Local Destination operators are:
 
 
-  * 24Media Ltd. in Greece and Cyprus, available at: [nba.sport24.gr](https://web.archive.org/web/20180627142010id_/http%3A//www.nba.com/news/nba.sport24.gr)  
- 
-  * ABS-CBN Corporation in the Philippines, available at: <https://sports.abs-cbn.com/nba>  
- 
-  * beIN Sports France in France, Monaco, Andorra, Mauritius, Madagascar, French Guiana, French Polynesia, Guadeloupe, Martinique, Mayotte, New Caledonia, Réunion, Saint Barthélemy, Saint Martin, Saint Pierre and Miquelon, Wallis and Fortuna, Clipperton and French Southern and Antarctic Lands, available at: <http://www.beinsports.com/france/nba/>  
- 
-  * beIN Sports MENA LLC in certain countries in the Middle East and North Africa, available at: [http://www.beinsports.com/ar/الدوري-الأميركي-للمحترفين/](http://www.beinsports.com/ar/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%84%D9%84%D9%85%D8%AD%D8%AA%D8%B1%D9%81%D9%8A%D9%86/) (Arabic language), <http://beinsports.com/en/nba/> (English language) and <http://beinsports.com/fr/nba/> (French language)  
- 
-  * Delfi UAB in Lithuania, available at: <https://www.delfi.lt/nba/>  
- 
-  * Econet Media Limited in certain countries in Sub-Saharan Africa, available at: <http://nba.kwesesports.com/>  
- 
-  * Globo Comunicação e Participações S.A., Globosat Programadora Ltda. and Horizonte Conteúdos Ltda. in Brazil, available at: <http://sportv.globo.com/site/nba/>  
- 
-  * Maksimum Iletisim A.S. in Turkey, available at: <https://www.sporx.com/nba/>  
- 
-  * Perform Midco Limited in Austria and Germany, available at: <http://www.spox.com/de/sport/ussport/nba/index.html>  
- 
-  * Perform Media Channels Limited in Australia, Canada and Japan, available at: <http://www.sportingnews.com/au/nba> (Australia), <https://ca.nba.com/> (Canada) and <http://www.nba.co.jp/> (Japan)  
- 
-  * Sky Italia S.R.L. in Italy, available at: <https://sport.sky.it/nba/home.html>  
- 
-  * Sports New Media Limited in the United Kingdom, available at: <https://www.givemesport.com/nba>  
- 
-  * Sports.ru LLC in Russia, Ukraine and Belarus, available at: <https://www.sports.ru/nba/> (Russia), <https://ua.tribuna.com/nba/> (Ukraine) and <https://by.tribuna.com/nba/> (Belarus)  
- 
-  * Shenzhen Tencent Computer Systems Company Ltd. and Tencent Technology (Shenzhen) Company Limited in the People’s Republic of China, available at: <http://china.nba.com/>  
- 
-  * The Sports Channel Limited in Israel, available at: <https://nba.sport5.co.il/>  
- 
+  * 24Media Ltd. in Greece and Cyprus, available at: [nba.sport24.gr](https://c/Users/kglidewell/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.Outlook/E2IH2AB5/nba.sport24.gr)
+  * ABS-CBN Corporation in the Philippines, available at: <https://sports.abs-cbn.com/nba>
+  * beIN Sports France in France, Monaco, Andorra, Mauritius, Madagascar, French Guiana, French Polynesia, Guadeloupe, Martinique, Mayotte, New Caledonia, Réunion, Saint Barthélemy, Saint Martin, Saint Pierre and Miquelon, Wallis and Fortuna, Clipperton and French Southern and Antarctic Lands, available at: <http://www.beinsports.com/france/nba/>
+  * beIN Sports MENA LLC in certain countries in the Middle East and North Africa, available at: [http://www.beinsports.com/ar/الدوري-الأميركي-للمحترفين/](http://www.beinsports.com/ar/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%84%D9%84%D9%85%D8%AD%D8%AA%D8%B1%D9%81%D9%8A%D9%86/) (Arabic language), <http://beinsports.com/en/nba/> (English language) and <http://beinsports.com/fr/nba/> (French language)
+  * Delfi UAB in Lithuania, available at: <https://www.delfi.lt/nba/>
+  * Econet Media Limited in certain countries in Sub-Saharan Africa, available at:  <http://nba.kwesesports.com/>
+  * Globo Comunicação e Participações S.A., Globosat Programadora Ltda. and Horizonte Conteúdos Ltda. in Brazil, available at: <http://sportv.globo.com/site/nba/>
+  * Maksimum Iletisim A.S. in Turkey, available at: <https://www.sporx.com/nba/>
+  * Perform Midco Limited in Austria and Germany, available at: <http://www.spox.com/de/sport/ussport/nba/index.html>
+  * Perform Media Channels Limited in Australia, Canada and Japan, available at: <http://www.sportingnews.com/au/nba> (Australia), <https://ca.nba.com/> (Canada) and <http://www.nba.co.jp/> (Japan)
+  * Sky Italia S.R.L. in Italy, available at: <https://sport.sky.it/nba/home.html>
+  * Sports New Media Limited in the United Kingdom, available at: <https://www.givemesport.com/nba>
+  * Sports.ru LLC in Russia, Ukraine and Belarus, available at: <https://www.sports.ru/nba/> (Russia), <https://ua.tribuna.com/nba/> (Ukraine) and <https://by.tribuna.com/nba/> (Belarus)
+  * Shenzhen Tencent Computer Systems Company Ltd. and Tencent Technology (Shenzhen) Company Limited in the People’s Republic of China, available at: <http://china.nba.com/>
+  * The Sports Channel Limited in Israel, available at: <https://nba.sport5.co.il/>
   * UDN.com Co., Ltd. in Taiwan, available at: <https://nba.udn.com/nba/index>
 
 
-  * **NBA Store.**   We have engaged Fanatics, Inc., including one or more of its affiliates (“Fanatics”), to operate the NBA Store at [store.nba.com](http://store.nba.com/).  To learn more about how Fanatics collects, uses, protects and discloses your personal data, please visit <https://fanatics.custhelp.com/app/answers/detail/a_id/129/theme/standard>.  
- 
-  *  **NBA Auctions/NBA Game Worn.**   We have engaged Commerce Dynamics, Inc. to operate the NBA auction site at [auctions.nba.com](http://auctions.nba.com/) (the “NBA Auctions Site”) and the NBA game worn site at [nbagameworn.com](http://www.nbagameworn.com/) (the “NBA Game Worn Site”).  We have also engaged Meigray Group, LLC to sell merchandise through the NBA Auctions Site and the NBA Game Worn Site.  
- 
-  *  **NBA Photo Store.**   We have engaged Getty Images to operate the NBA photo store at [photostore.nba.com](http://photostore.nba.com/).  To learn more about how Getty Images collects, uses, protects and discloses your personal data, please visit <https://www.gettyimages.com/company/privacy-policy>.  
- 
-  *  **NBA Fantasy Games.**   We have engaged FanDuel, Inc. (“FanDuel”) and Yahoo! Sports (“Yahoo!”) to operate one or more fantasy games available at [nba.com/fantasy](http://nba.com/fantasy).  To learn more about how FanDuel collects, uses, protects and discloses your personal data, please visit <https://www.fanduel.com/privacy>.  To learn more about how Yahoo! collects, uses, protects and discloses your personal data, please visit <https://policies.yahoo.com/us/en/yahoo/privacy/products/sports/index.htm>.  
- 
+  * **NBA Store.**   We have engaged Fanatics, Inc., including one or more of its affiliates (“Fanatics”), to operate the NBA Store at [store.nba.com](http://store.nba.com/).  To learn more about how Fanatics collects, uses, protects and discloses your personal data, please visit <https://fanatics.custhelp.com/app/answers/detail/a_id/129/theme/standard>.
+  *  **NBA Auctions/NBA Game Worn.**   We have engaged Commerce Dynamics, Inc. to operate the NBA auction site at [auctions.nba.com](http://auctions.nba.com/) (the “NBA Auctions Site”) and the NBA game worn site at [nbagameworn.com](http://www.nbagameworn.com/) (the “NBA Game Worn Site”).  We have also engaged Meigray Group, LLC to sell merchandise through the NBA Auctions Site and the NBA Game Worn Site.
+  *  **NBA Photo Store.**   We have engaged Getty Images to operate the NBA photo store at [photostore.nba.com](http://photostore.nba.com/).  To learn more about how Getty Images collects, uses, protects and discloses your personal data, please visit <https://www.gettyimages.com/company/privacy-policy>.
+  *  **NBA Fantasy Games.**   We have engaged FanDuel, Inc. (“FanDuel”) and Yahoo! Sports (“Yahoo!”) to operate one or more fantasy games available at [nba.com/fantasy](http://nba.com/fantasy).  To learn more about how FanDuel collects, uses, protects and discloses your personal data, please visit <https://www.fanduel.com/privacy>.  To learn more about how Yahoo! collects, uses, protects and discloses your personal data, please visit <https://policies.yahoo.com/us/en/yahoo/privacy/products/sports/index.htm>.
   *  **NBA 2K League.**   We have partnered with Take-Two Interactive Software, Inc. (“Take-Two”) to operate the NBA 2K League, including the NBA 2K League site at 2kleague.nba.com.  To learn more about how Take-Two collects, uses, protects and discloses your personal data, please visit <https://www.take2games.com/privacy>.
 
 
 
-These third parties are only authorized to use your data as permitted under this Policy, or as disclosed to you at the time your data is collected.  Please note, however, that these third parties may supplement data collected or received in connection with the Services with data they collect or receive through other websites, platforms and services, in accordance with the policies and disclosures posted on those websites, platforms and services.
+These third parties are only authorized to use your data as permitted under this Policy, or as disclosed to you at the time your data is collected.  Please note, however, that these third parties may supplement data collected or received in connection with the Services with data they collect or receive through other websites, platforms and services, in accordance with the policies and disclosures posted on those websites, platforms and services.  Within the past twelve months, we have disclosed the following categories of personal information: personal identifiers, commercial information, Internet/other electronic network activity information, geolocation data, characteristics of protected classifications, and inferences drawn from this information.
 
 The Services may also contain links to, or integrations with, other websites, platforms or services that are not operated or controlled by the NBA Family (each a “Third Party Site,” and collectively, the “Third Party Sites”).  Please note that this Policy does not apply to those Third Party Sites.  For more information on how those Third Party Sites collect, use and share data, we suggest that you contact the operators of those Third Party Sites directly.
 
 Return to Top
 
-  **9\. Children and Parents**
+  9.  **Children and Parents**
 
-Although there are NBA fans of all ages, the Services are not directed at children under the age of 13, and our policy is to not knowingly collect personal data from children under the age of 13.  We encourage parents and guardians to monitor their children’s online behavior, put parental control tools in place, and teach children not to provide their personal data through the Services without parental consent.  For certain activities in which children are allowed to participate (e.g., Jr. NBA clinics), any request for personal data (such as registration data) is directed to the parent or legal guardian.
+
+
+Although there are NBA fans of all ages, the Services are not directed at children under the age of 16, and our policy is to not knowingly collect personal data from children under the age of 13.  We encourage parents and guardians to monitor their children’s online behavior, put parental control tools in place, and teach children not to provide their personal data through the Services without parental consent.  For certain activities in which children are allowed to participate (e.g., Jr. NBA clinics), any request for personal data (such as registration data) is directed to the parent or legal guardian.
 
 If you have reason to believe that a child under the age of 13 has provided personal data to us without parental consent, please contact us using any of the methods described in the “[How to Contact Us](http://www.nba.com/news/privacy_policy.html#Contact_Us)” section of this Policy, and we will endeavor to delete that data from our systems.
 
@@ -265,15 +261,17 @@ For children located in jurisdictions within the EU, we comply with the age limi
 
 Return to Top
 
-  **10\. Storing Data**
+  10.  **Storing Data**
 
-Personal data collected by the NBA Family may be stored and processed in the region in which it is collected, in the United States, and in any other region where we maintain major operations.  We maintain offices in Brazil, Canada, China, Hong Kong, India, Mexico, South Africa, Spain, Taiwan, the United Kingdom and the United States.  We take steps to ensure that the data we collect under this Policy is stored and processed in accordance with this Policy regardless of where the data is located.  By providing personal data in connection with the Services, you acknowledge and agree that such personal data may be transferred from your current location to the offices and servers of the NBA Family and our authorized third party service providers located in the United States.  Our practice when transferring personal data is to rely on standard data protection contract clauses or individual consent.
+
+
+Personal data collected by the NBA Family may be stored and processed in the region in which it is collected, in the United States, and in any other region where we maintain major operations.  We maintain offices in Brazil, Canada, China, Hong Kong, India, Mexico, the Philippines, South Africa, Spain, Taiwan, the United Kingdom and the United States.  We take steps to ensure that the data we collect under this Policy is stored and processed in accordance with this Policy regardless of where the data is located.  By providing personal data in connection with the Services, you acknowledge and agree that such personal data may be transferred from your current location to the offices and servers of the NBA Family and our authorized third party service providers located in the United States.  Our practice when transferring personal data is to rely on standard data protection contract clauses or individual consent.
 
 We retain personal data for as long as necessary to provide the Services and fulfill the transactions you have requested, or for other necessary purposes such as complying with our legal obligations, resolving disputes and enforcing our agreements.  Because these factors vary for different types of personal data, actual retention periods may vary.  The criteria we use to determine the appropriate retention periods include:
 
   *  **How long is the personal data needed to provide the Services?**   This is the baseline for most data retention periods.
-  *  **Do users expect that we will retain the personal data until they affirmatively remove it?**   For example, if a user is able to directly access, edit or remove the personal data at any time, we may maintain the data until the user affirmatively removes it.
-  *  **Is the personal data of a sensitive type?**   If so, a shortened data retention period will generally apply.
+  *  **Do users expect that we will retain the personal data until they affirmatively remove it?**   For example, if a user is able to directly access, edit or remove the personal data at any time, we may maintain the data until the user affirmatively removes it. 
+  * **Is the personal data of a sensitive type?**   If so, a shortened data retention period will generally apply.
   *  **Has the user provided consent for a longer retention period?**   If so, we will retain the data in accordance with the user’s consent.
   *  **Are we subject to a legal, contractual or similar obligation to retain the personal data?**   If so, we will retain the data in accordance with our obligations.
 
@@ -281,7 +279,35 @@ We retain personal data for as long as necessary to provide the Services and ful
 
 Return to Top
 
-  **11\. European Privacy Rights**
+  11.  **California Privacy Rights**
+
+
+
+This section supplements our privacy policy with additional information for California residents only.  As noted above, we collect data that you provide directly when you register for or use the Services, user credentials that you supply directly when you register for or update your login information to use the Services, demographic data, payment data, device data, usage data, location data, information about your interests and preferences, third party integrations, and other third party data.  In accordance with the California Consumer Privacy Act (“CCPA”), California residents have the right to request that we disclose the following information about our collection and use of personal information over the twelve months prior to your request:
+
+  * The categories of personal information we collect about you.
+  * The categories of sources for the personal information we collect about you.
+  * Our business or commercial purpose for collecting or selling that personal information.
+  * The categories of third parties with whom we share that personal information.
+  * The specific pieces of personal information collected about you.
+  * If we disclosed your personal information for a business purpose, a list of the categories of personal information we have disclosed in the prior twelve months.
+  * If we sold your personal information for a business purpose, a list of the categories of personal information we have sold in the prior twelve months.
+
+
+
+You also have the right to request that we delete any of your personal information.  In some circumstances we may not be able to honor your request for deletion – for example, if we need to hold on to your information to protect the security or functionality of our operations, to service your account, or to comply with legal obligations.
+
+To ask for a record of the information we hold about you, or to ask us to delete your information, please email us at [FanRelations@nba.com](mailto:FanRelations@nba.com) or call us at (866) 622-7674.  If you would like to submit a request to any third party operator of any of the Services, please visit the “Third Party Sites and Sections” section of this Policy and navigate to the third party’s website, where you can submit your request.  You must provide enough information that we can verify who you are and that you are a California resident.  We will only use personal information provided in a request to verify the requester’s identity and authority to make the request. 
+
+You also have the right to direct us not to sell your personal information at any time.  We have sold the following categories of personal information within the last twelve months: personal identifiers, commercial information, Internet/other electronic network activity information, geolocation data, characteristics of protected classifications, and inferences drawn from this information.  To opt out of the sale of your personal information, you may submit a request to us by email at [FanRelations@nba.com](mailto:FanRelations@nba.com).
+
+You have the right to designate an authorized agent to make any of these requests under the CCPA on your behalf.  We will not deny services, charge different prices, offer a different quality of service or otherwise discriminate against you for exercising your rights under the CCPA.
+
+Return to Top
+
+  12.  **European Privacy Rights**
+
+
 
 We adhere to applicable data protection laws in the European Union (“EU”).  In accordance with the General Data Protection Regulation (“GDPR”), users who are located in the EU have the following rights:
 
@@ -301,13 +327,17 @@ You may contact NBAP using any of the methods described in the “How to Contact
 
 Return to Top
 
-  **12\. Changes to This Privacy Policy**
+  13.  **Changes to This Privacy Policy**
+
+
 
 We may change this Policy from time to time to reflect changes in our business, the Services, or our practices and procedures.  If we do make changes, we will post any changes on this page and indicate the date on which the Policy was last revised.  We encourage you to review this Policy periodically, especially before you provide personal data directly to us through the Services.  Your continued use of the Services after any changes to this Policy are in effect constitutes your acceptance of the revised Policy.
 
 Return to Top
 
- ** 13\. How to Contact Us**
+  14.  **How to Contact Us**
+
+
 
 Although we strive to make this Policy as comprehensive as possible, we know you may still have questions or concerns about how we collect, use and share data.  If you have a question, concern or complaint regarding our data privacy practices, you may contact us by any of the following methods:
 
