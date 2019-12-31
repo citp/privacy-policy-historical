@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protonmail.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624175342id_/https%3A//protonmail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protonmail.com privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231194350id_/https%3A//protonmail.com/privacy-policy) for the most accurate reproduction.*
 
 # ProtonMail - Privacy Policy
 
@@ -38,11 +38,9 @@ Service's user data collection is limited to the following:
 
 **Communicating with ProtonMail:** Your communications with the Company, such as support requests, bug reports, or feature requests may be saved by our staff. The legal basis for processing is our legitimate interest to troubleshoot more efficiently and improve the quality of the ProtonMail service.
 
-**IP Logging:** By default, ProtonMail does not keep permanent IP logs. We also don't record your login IP address unless this feature is specifically enabled by the user. 
+**IP Logging:** By default, ProtonMail does not keep permanent IP logs. However, IP logs may be kept temporarily to combat abuse and fraud, and your IP address may be retained permanently if you are engaged in activities that breach our terms and conditions (spamming, DDoS attacks against ProtonMail infrastructure, brute force attacks, etc). The legal basis of this processing is our legitimate interest to protect our service against nefarious activities. 
 
-The legal basis of this processing is consent, and you are free to opt-in or opt-out at any time in the security panel of your ProtonMail account. 
-
-However, IP logs are sometimes kept to combat abuse and fraud, and your IP address may be retained if you are engaged in activities that breach our terms and conditions (spamming, DDoS attacks against ProtonMail infrastructure, brute force attacks, etc). The legal basis of this processing is our legitimate interest to protect our service against nefarious activities.
+Your login IP address is also kept permanently (until you delete it) if you enable authentication logging for your account (by default this is off). The legal basis of this processing is consent, and you are free to opt-in or opt-out at any time in the security panel of your ProtonMail account. 
 
 **Payment Information:** The Company relies on third parties to process credit card, PayPal, and Bitcoin transactions so the Company necessarily must share payment information with third parties. Anonymous cash or Bitcoin payments and donations are accepted however. The legal basis of this processing is the necessity to the execution of the contract between you and us.
 
@@ -88,7 +86,3 @@ For legal and security reasons, the ProtonVPN service is operated by a separate 
 ## Modifications to Privacy Policy
 
 ProtonMail reserves the right to periodically review and change this policy from time to time and we will notify users who have enabled the notification preference about changes to our Privacy Policy. Continued use of the Service will be deemed as acceptance of such changes.
-
-## Applicable Law
-
-This Agreement shall be governed in all respects by the substantive laws of Switzerland. Any controversy, claim, or dispute arising out of or relating to the Agreement shall be subject to the jurisdiction of the competent courts of the Canton of Geneva, the jurisdiction of the Swiss Federal Court being expressly reserved.
