@@ -1,17 +1,44 @@
-<!--The following is the downloaded HTML source of the washingtonexaminer.com privacy policy that was archived on 2019-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630222904id_/https%3A//www.washingtonexaminer.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the washingtonexaminer.com privacy policy that was archived on 2019-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191231200924id_/https%3A//www.washingtonexaminer.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="Page" lang="en" itemscope="" itemtype="http://schema.org/WebPage"><head><meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><link rel="stylesheet" type="text/css" media="all" href="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/vendor-assets/font-awesome/css/font-awesome.min.2b881135e09fe1a2f68c48cef79720f1.gz.css">
                 <link rel="stylesheet" type="text/css" media="all" href="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/vendor-assets/bootstrap-4.0.0-beta.3-dist/css/bootstrap.min.11888c731ca86dc2ebc38579b55c6059.gz.css">
                 <link rel="stylesheet" type="text/css" media="all" href="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/vendor-assets/bootstrap-4.0.0-beta.3-dist/css/bootstrap-grid.min.e9577ed0d342966eeefb75ae0b978a6a.gz.css">
                 <link rel="stylesheet" type="text/css" media="all" href="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/vendor-assets/bootstrap-4.0.0-beta.3-dist/css/bootstrap-reboot.min.be9d0488e50b9d7aba83bd66f740d0d4.gz.css">
-                <link rel="stylesheet" type="text/css" media="all" href="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.3b37ae98bd756a1d67a145931784b245.gz.css"><style>/* BounceX Ad Style Overrides */
+                <link rel="stylesheet" type="text/css" media="all" href="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.3b37ae98bd756a1d67a145931784b245.gz.css"><style>/* Increase line height on mobile articles */
+@media screen and (max-width: 576px) {
+    article .RichTextArticleBody-body p {
+        line-height: 1.8 !important;
+    }
+}
+/* Navigation Style Overrides */
+.Navigation > ul.Navigation-items > li:nth-of-type(6) > .NavigationItem > .NavigationItem-text {
+    color: #dc3545;
+    text-transform: uppercase;
+}
+.Navigation > ul.Navigation-items > li:nth-of-type(6) > .NavigationItem > .NavigationItem-text:before {
+    color: #dc3545 !important;
+}
+
+/* BounceX Ad Style Overrides */
 div.GoogleDfpAd[data-slot-name*="bouncex"] {
     margin: 0px !important;
     padding: 0px !important;
     display: inline !important;
     height: 3px !important;
+}
+/* Hide old .Page-subHeading1DynamicYieldModule container */
+.Page-subHeading1DynamicYieldModule {
+    display: none !important;
+}
+
+/* Undertone Desktop Styles */
+.GoogleDfpAd[data-slot-name="/4026082/washington_examiner/undertone_seethrough"] {
+    display: block;
+    margin: 0px !important;
+    max-height: 2px;
+    max-width: 2px;
 }
 
 /*Fix pagination on sections*/
@@ -29,6 +56,9 @@ div.GoogleDfpAd[data-slot-name*="bouncex"] {
 header .NavigationItem .NavigationItem-text {
     font-weight: bold;
     font-size: 14px;
+}
+.FixedHeader[data-menu-open] .FixedHeader-sideNav .Navigation .Navigation-items .Navigation-items-item .NavigationItem .NavigationItem-text .NavigationItem-text-link {
+    font-size: 16px !important;	
 }
 
 /*Fix ad placements in home page Topical Sections*/
@@ -277,9 +307,11 @@ article .RichTextArticleBody-body .Enhancement {
     }
 }
 /* 01-2019 NEW WEX MAGAZINE STYLE OVERRIDES */
+/*
 a:hover {
     color: #000000 !important;
 }
+*/
 .AboutAuthorPromo {
 	display: none;
 }
@@ -454,7 +486,68 @@ cite {
     line-height: normal;
     font-family: arial;
     font-style: normal;
+}
+
+/* Podcasts Landing page */
+.podcasts-list .KickerHeadlineBus-title {
+    font-size: 20px !important;
+}
+.podcasts-list .KickerHeadlineBus-bodyByline {
+    display: none !important;
+}
+
+/* TWS tag pages */
+.ThumbnailAuthorDatePromo  {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.Page-pageHeading.ul-heading.color-title, .Page-pageHeading.ul-heading.color-title h1 {
+	font-family: Roboto-Slab,serif !important;
+	text-align: center !important;
+	flex: 0 0 100% !important;
+    max-width: 100% !important;
+    margin-bottom: 1.5rem !important;
+    border-bottom: none !important;
+    font-size: 3.5rem !important;
+    font-weight: 300 !important;
+    line-height: 1.2 !important;
+}
+
+.Page-pageHeading.ul-heading.color-title h1 {
+    font-size: 3.5rem !important;
+    font-weight: 300 !important;
+   line-height: 1.2 !important;
+}
+
+/* ADA Complaince fixes */
+.ada-hide {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+/* Air.TV Player Adjustments */
+iframe[src*="embed.air.tv"] {
+    position: static !important;
+    height: 432px !important;
+}
+@media screen and (max-width: 768px) {
+    iframe[src*="embed.air.tv"] {
+    	height: 200px !important;
+    }
+}
+@media screen and (max-width: 576px) {
+    iframe[src*="embed.air.tv"] {
+    	height: 216px !important;
+    }
 }</style>
+<style></style>
+<script src="https://quantcast.mgr.consensu.org/cmp.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TM6VK66"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script type="text/javascript" src="//js-sec.indexww.com/ht/p/188883-10345561562372.js" async=""></script>
+<style></style>
 <style></style>
     <meta property="fb:admins" content="1285945407">
     <meta property="fb:pages" content="40656699159">
@@ -470,17 +563,11 @@ cite {
     <meta property="fb:pages" content="194967534010090">
     <meta property="fb:pages" content="193254747388429">
 <style></style>
-<style>.ArticlePage-articleBody .connatix { width:450px !important; max-width: 100% !important; }
-@media screen and (max-width: 992px) {
-    .ArticlePage-articleBody .connatix { 
-        width: 100% !important;
-    }
-}</style>
 <style></style>
 <link rel="manifest" href="/manifest.json">
 <style></style>
 <style></style>
-<script type="text/javascript" async="" src="//cdn.engine.addroplet.com/Scripts/infinity.js.aspx?guid=304458ac-b628-413b-a211-d32b9db034bd" id="infinity" data-guid="304458ac-b628-413b-a211-d32b9db034bd" data-version="async"></script><script src="https://quantcast.mgr.consensu.org/cmp.js" async="" type="text/javascript"></script><script src="//d2na2p72vtqyok.cloudfront.net/client-embed/f090cc51-78f5-4527-a4af-df93d00ebe5f.js" async=""></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TM6VK66"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script type="application/ld+json">
+<script type="application/ld+json">
 [{ "@context" : "http://schema.org",
   "@type" : "Organization",
   "name" : "Washington Examiner",
@@ -651,17 +738,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <meta name="brightspot.cached" content="true">
             
                 <script src="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.c470fb2fae9bb60f66e67597ef5f30b1.gz.js" async=""></script>
-<!-- Begin Dynamic Yield Code -->
-<script type="text/javascript">
-    window.DY = window.DY || { }; DY.recommendationContext = { type: "CATEGORY", data: ["Privacy Policy"] };
-</script>
-<script type="text/javascript" src="//cdn.dynamicyield.com/api/8767644/api_dynamic.js"></script>
-<script type="text/javascript" src="//cdn.dynamicyield.com/api/8767644/api_static.js"></script>
-
-<meta property="dy:url" content="https://www.washingtonexaminer.com/privacy-policy">
-
-<!-- End Dynamic Yield Code -->
-
     <script>
         window.mdc_page = window.mdc_page || {};
         // General Page Data
@@ -784,7 +860,17 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
     
         <script type="text/javascript" src="https://central.washingtonexaminer.com/scripts/js.cookie.js"></script>
     
-<script src="https://b-code.liadm.com/a-00jh.min.js" async=""></script>
+
+<!-- Begin Dynamic Yield Code -->
+<script type="text/javascript">
+    window.DY = window.DY || { }; DY.recommendationContext = { type: "CATEGORY", data: ["Privacy Policy"] };
+</script>
+<script type="text/javascript" src="//cdn.dynamicyield.com/api/8767644/api_dynamic.js"></script>
+<script type="text/javascript" src="//cdn.dynamicyield.com/api/8767644/api_static.js"></script>
+
+<meta property="dy:url" content="https://www.washingtonexaminer.com/privacy-policy">
+
+<!-- End Dynamic Yield Code -->
 <script>window.fbAsyncInit = function() {
     FB.init({
       appId      : '190451957673826',
@@ -802,11 +888,6 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
      js.src = "https://connect.facebook.net/en_US/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));</script>
-<script></script>
-<!--- UNDERDOGMEDIA EDGE EDGE_washingtonexaminer.com_160x600_Only JavaScript ADCODE START--->
-<script data-cfasync="false" language="javascript" async="" src="//udmserve.net/udm/img.fetch?sid=12591;tid=1;dt=6;"></script>
-<!--- UNDERDOGMEDIA EDGE EDGE_washingtonexaminer.com_160x600_Only JavaScript ADCODE END--->
-<script></script>
 <script src="//s.ntv.io/serve/load.js" async=""></script>
 <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
 <script>var OneSignal = window.OneSignal || [];
@@ -815,9 +896,6 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
       appId: "e4396f5f-89af-473c-a962-29506524e9e7",
     });
   });</script>
-<script></script>
-<!-- Insticator Header Tag Code --> <script data-cfasync="false" type="text/javascript">/*<![CDATA[*/(function (a, c, s, u){'Insticator'in a || (a.Insticator={ad:{loadAd: function (b){Insticator.ad.q.push(b)}, q: []}, helper:{}, embed:{}, version: "3.0", q: [], load: function (t, o){Insticator.q.push({t: t, o: o})}}); var b=c.createElement(s); b.src=u; b.async=!0; var d=c.getElementsByTagName(s)[0]; d.parentNode.insertBefore(b, d)})(window, document, 'script', '//d2na2p72vtqyok.cloudfront.net/client-embed/f090cc51-78f5-4527-a4af-df93d00ebe5f.js');/*]]>*/</script> <!-- End Header Tag Code -->
-<script></script>
 <script>    var elem = document.createElement('script');
     elem.src = 'https://quantcast.mgr.consensu.org/cmp.js';
     elem.async = true;
@@ -908,9 +986,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 		'Consent Scope': 'service',
 		'UI Layout': 'banner',
     });</script>
-<script src="/scripts/ad_load.js" async="" defer=""></script>
-<script src="//js-sec.indexww.com/ht/p/188883-10345561562372.js" async=""></script>
-<script>(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//cdn.engine.addroplet.com/Scripts/infinity.js.aspx?guid=304458ac-b628-413b-a211-d32b9db034bd";s.id="infinity";s.setAttribute("data-guid","304458ac-b628-413b-a211-d32b9db034bd");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script>
+<script src="/scripts/ad_load.js?v0.002" async="" defer=""></script>
 </head>
         <body class="Page-body">
 
@@ -950,6 +1026,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                     
                         <li class="NavigationItem-items-item">
     <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/campaigns">Campaigns</a>
+
+</li>
+                    
+                        <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/2020-election">2020 Election</a>
 
 </li>
                     
@@ -1140,6 +1221,16 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 </li>
                     
                         <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/letters-to-the-editor">Letters to the Editor</a>
+
+</li>
+                    
+                        <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion/cartoons">Editorial Cartoons</a>
+
+</li>
+                    
+                        <li class="NavigationItem-items-item">
     <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion">All Opinion</a>
 
 </li>
@@ -1222,7 +1313,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/tag/podcasts">Podcasts</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/podcasts">Podcasts</a>
 
 </li>
                     
@@ -1288,19 +1379,6 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="http://www.seaislandsummit.com/?utm_source=WEX%20Top%20Navigation&amp;utm_medium=referral&amp;utm_campaign=Sea%20Island%20Summit%20Promotion">Events</a>
-                
-            </div>
-        
-        
-    </div>
-</li>
-            
-              <li class="Navigation-items-item" data-toggle="collapse">
-    <div class="NavigationItem">
-        
-            <div tabindex="-1" class="NavigationItem-text">
-                
                     <a class="NavigationItem-text-link" href="http://newsletters.washingtonexaminer.com/?utm_source=washingtonexaminer.com&amp;utm_medium=navigation&amp;utm_campaign=wex_top_nav" target="_blank">Newsletters</a>
                 
             </div>
@@ -1350,10 +1428,10 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
             <div class="PageHeaderTextHat-leftItem">
                 
     <div class="PageHeaderTextItem">
-        <a href="https://www.washingtonexaminer.com/opinion/columnists/byron-york-anti-trump-fever-takes-threatening-turn">
+        <a href="https://www.washingtonexaminer.com/news/watch-10-most-embarrassing-tv-moments-of-2019">
             <small>
-    <time class="DateTime" datetime="2019-06-30T18:18:31.225-04:00">Sunday June 30, 2019</time>
-</small> Byron York: Anti-Trump fever takes threatening...
+    <time class="DateTime" datetime="2019-12-31T14:52:32.532-05:00">Tuesday December 31, 2019</time>
+</small> WATCH: 10 most embarrassing TV moments of 2019
         </a>
     </div>
 
@@ -1363,10 +1441,10 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
             <div class="PageHeaderTextHat-rightItem">
                 
     <div class="PageHeaderTextItem">
-        <a href="https://www.washingtonexaminer.com/news/service-members-give-trump-a-gift-in-korea">
+        <a href="https://www.washingtonexaminer.com/washington-secrets/exclusive-trumps-list-shows-319-results-achievements-kept-in-3-years">
             <small>
-    <time class="DateTime" datetime="2019-06-30T18:07:24.497-04:00">Sunday June 30, 2019</time>
-</small> Service members give Trump a gift in Korea
+    <time class="DateTime" datetime="2019-12-31T14:48:44.724-05:00">Tuesday December 31, 2019</time>
+</small> Exclusive: Trump’s list shows 319 'results,'...
         </a>
     </div>
 
@@ -1481,7 +1559,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                         <date class="Page-date nav-item">
                             <small>
                                 <a class="" rel="nofollow" tabindex="0" href="#">
-                                    Sunday, June 30, 2019
+                                    Tuesday, December 31, 2019
                                 </a>
                             </small>
                         </date>
@@ -1517,6 +1595,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                     
                         <li class="NavigationItem-items-item">
     <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/campaigns">Campaigns</a>
+
+</li>
+                    
+                        <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/2020-election">2020 Election</a>
 
 </li>
                     
@@ -1707,6 +1790,16 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 </li>
                     
                         <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/letters-to-the-editor">Letters to the Editor</a>
+
+</li>
+                    
+                        <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion/cartoons">Editorial Cartoons</a>
+
+</li>
+                    
+                        <li class="NavigationItem-items-item">
     <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion">All Opinion</a>
 
 </li>
@@ -1789,7 +1882,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/tag/podcasts">Podcasts</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/podcasts">Podcasts</a>
 
 </li>
                     
@@ -1855,19 +1948,6 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="http://www.seaislandsummit.com/?utm_source=WEX%20Top%20Navigation&amp;utm_medium=referral&amp;utm_campaign=Sea%20Island%20Summit%20Promotion">Events</a>
-                
-            </div>
-        
-        
-    </div>
-</li>
-            
-              <li class="Navigation-items-item" data-toggle="collapse">
-    <div class="NavigationItem">
-        
-            <div tabindex="-1" class="NavigationItem-text">
-                
                     <a class="NavigationItem-text-link" href="http://newsletters.washingtonexaminer.com/?utm_source=washingtonexaminer.com&amp;utm_medium=navigation&amp;utm_campaign=wex_top_nav" target="_blank">Newsletters</a>
                 
             </div>
@@ -1886,13 +1966,15 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 
         
             <div class="Page-above content-above pb-3 mb-3 d-flex justify-content-center">
-    <div id="googleAd55e393ce-3775-4d74-ab85-bd9bd4926e06" class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/top_banner" data-slot-sizes="[[970, 250], [970, 90], [728, 90], [320, 50]]" data-slot-adsizemap="[[[1024, 0], [970, 250], [970, 90], [728, 90]], [[768, 0], [728, 90]], [[320, 0], [320, 50]]]" data-slot-position="1">
+    <div id="googleAd81b28d9c-390a-492c-89cd-04c3db0262d6" class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/top_banner" data-slot-sizes="[[970, 250], [970, 90], [728, 90], [320, 50], [1, 1]]" data-slot-adsizemap="[[[1024, 0], [970, 250], [970, 90], [728, 90]], [[768, 0], [728, 90]], [[320, 0], [320, 50], [1, 1]]]" data-slot-position="1">
     </div>
 <script id="bx-tag" src="//assets.bounceexchange.com/assets/bounce/iframebuster.js" data-website-id="3268" charset="utf-8"></script>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TM6VK66"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+
+<div id="googleAddc7ee864-2edd-4a35-874d-de898404dd3d" class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/undertone_seethrough" data-slot-sizes="[[2, 2], [1, 1]]" data-slot-adsizemap="[[[1024, 0], [2, 2], [1, 1]]]"></div>
 
 </div><iframe name="__cmpLocator" style="display: none;"></iframe>
         
@@ -1923,307 +2005,44 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 
     <div class="RichTextModule">
         
-            <div class="RichTextModule-items"><div class="col-12 html_block">
-<h4>Effective: September 6, 2018</h4>
-<h4>Welcome!</h4>
-<p>We take your privacy seriously and know you do too. This Privacy  Policy is here to help you understand how we process your personal data. We  also describe your choices and rights with respect to how we process your  personal data. Please read this policy carefully.</p>
-<p>Who We Are</p>
-<p>This is the Privacy Policy of The Washington Examiner, which  is owned by The Washington Newspaper Publishing Co. LLC (<strong>“Examiner,” “us,”  “our,” </strong>or<strong> “we”</strong>). You  can <a href="https://www.washingtonexaminer.com/contact" target="_blank">contact us here</a>.</p>
-<h4>Applicability</h4>
-<p>This Privacy Policy applies to our “<strong>Digital</strong> <strong>Services</strong>” which  include our:</p>
-<ul>
-	<li>websites that link to/post this Privacy Policy, including  any subdomains (including but not limited to washingtonexaminer.com,  weeklystandard.com, and redalertpolitics.com) or mobile versions (the “<strong>Site(s)</strong>”); and </li>
-	<li>mobile applications (“<strong>Mobile App(s)</strong>”).</li>
-</ul>
-<h4>Agreement</h4>
-<p>This policy is incorporated into the Terms of Use governing  your use of any of our Digital Services. Any capitalized terms not defined in  this Privacy Policy will have the definitions provided in our Terms of Use.<br>
-<strong>Following notice to  you or your acknowledgement of this Privacy Policy (including any updates), your  continued use of any of our Digital Services indicates your consent to the  practices described in this Policy.</strong></p>
-<h4><a name="third_parties"></a>Third Parties</h4>
-<p>This Privacy  Policy does not apply to information collected by third parties, for example,  when you visit a third party website or interact with online advertisements,  unless and until we receive your information from those parties. Please review those  third-parties’ privacy policies before disclosing information to them. </p>
-<h4>Collection and Use of Personal Data</h4>
-<p><u><em><strong>Personal Data We Collect</strong></em></u></p>
-<p>We may collect and process information that relates to  identified or identifiable individuals (“<strong>Personal  Data</strong>”). We collect and process the following categories of Personal Data (note,  specific Personal Data elements listed in each category are only examples and may  change):</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
+            <div class="RichTextModule-items"><p><strong>Effective Date: January 1, 2020</strong><br>
+</p><h4>Welcome!</h4><p>We take your privacy seriously and know you do too. This Privacy Policy is here to help you understand how we process your Personal Data (defined below). We also describe your choices and rights with respect to how we process your Personal Data. Please read this Privacy Policy carefully. <br></p><h4>Who We Are</h4><p>This is the Privacy Policy of The Washington Examiner, which is owned by The Washington Newspaper Publishing Co. LLC (<b>“Examiner,” “us,” “our,” </b>or<b> “we”</b>). You can contact us <a href="https://www.washingtonexaminer.com/contact" data-cms-id="00000161-f709-d477-ab75-ffcdd0cc0000" data-cms-href="https://www.washingtonexaminer.com/contact">here</a>.<br></p><h4>Scope of This Privacy Policy</h4><p>This Privacy Policy applies to our “<b>Services</b>” which include our:</p><ul><li>“<b>Digital Services</b>” including:<ul><li>websites that link to/post this Privacy Policy, including any subdomains (including but not limited to washingtonexaminer.com, weeklystandard.com, and redalertpolitics.com) or mobile versions (the “<b>Site(s)</b>”); and</li><li>mobile applications (“<b>Mobile App(s)</b>”).</li></ul></li></ul><ul><li>“<b>Offline Services</b>” including:<ul><li>print publications (“<b>Publications</b>”) and data you may provide in connection with your subscription to and receipt of our Publications</li><li>offline events we may host or in which we may participate (“<b>Events</b>”); and</li><li>customer service telephone lines, and other offline means of providing Personal Data to us. </li></ul></li></ul><p>This Privacy Policy does not apply to information collected by third parties, for example, when you visit a third party website or interact with online advertisements, unless and until we receive your information from those parties. Please review those third-parties’ privacy policies before disclosing information to them. <br>This Privacy Policy is incorporated into the Terms of Use governing your use of any of our Digital Services. Any capitalized terms not defined in this Privacy Policy will have the definitions provided in our Terms of Use.<br></p><h4>Collection and Use of Personal Data</h4><p><u>Categories of Personal Data We Collect</u><br>We may collect and process information that relates to identified or identifiable individuals (“<b>Personal Data</b>”). We collect and process the following categories of Personal Data (note, specific Personal Data elements listed in each category are only examples and may change):</p><table width="100%" border="0" cellspacing="0" cellpadding="5">
 	<tbody>
-		<tr>
+		<tr align="left" valign="top">
 			<th width="15%" align="left" valign="top" scope="row"><em>Identity  Data</em>:</th>
-			<td><p>Personal Data about  you and your identity, such as your name, and other Personal Data you may provide  on various forms or in an account profile (e.g. biographical information).</p></td>
+			<td>Personal Data about you and your identity, such as your name, and other Personal Data you may provide on various forms or in an account profile (e.g. biographical information), or during an interview with our reporters.</td>
 		</tr>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Transaction  Data:</em></th>
-			<td>Personal Data we collect in connection with a  transaction or purchase, such as the item or subscription purchased, the price,  the delivery location, zip code, and other similar information.</td>
+		<tr align="left" valign="top">
+			<th width="15%" align="left" valign="top" scope="row"><em>Commercial  Data:</em></th>
+			<td>Personal Data we collect in connection with a transaction or purchase, such as the item or subscription purchased, the price, the delivery location, what has been provided to you, and other similar information.</td>
 		</tr>
-		<tr>
+		<tr align="left" valign="top">
 			<th width="15%" align="left" valign="top" scope="row"><em>Contact  Data:</em></th>
-			<td>Personal Data used to contact an individual,  e.g. email address, physical address, phone number, or social media or communications  platform username, as well as a name or other salutation.</td>
+			<td>Personal Data used to contact an individual, e.g. email address, physical address, phone number, or social media or communications platform username, as well as a name or other salutation.</td>
 		</tr>
-		<tr>
+		<tr align="left" valign="top">
 			<th width="15%" align="left" valign="top" scope="row"><em>Financial  Data:</em></th>
-			<td>Personal Data relating to financial accounts or  services, e.g. a credit card or other financial account number, and other  relevant information you provide in connection with a financial transaction.</td>
+			<td>Personal Data relating to financial accounts or services, e.g. a credit card or other financial account number, and other relevant information you provide in connection with a financial transaction.</td>
 		</tr>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Device  Data:</em></th>
-			<td>Personal Data relating to your device, browser,  or application e.g. IP addresses, MAC addresses, application ID/AdID/IDFA, session  navigation history and similar browsing metadata, and other data generated  through applications and browsers, including cookies and similar technologies. </td>
+		<tr align="left" valign="top">
+			<th width="15%" align="left" valign="top" scope="row"><i>Device/Network Data:</i></th>
+			<td>Personal Data relating to your device, browser, or application e.g. IP addresses, MAC addresses, application ID/AdID/IDFA, session navigation history and similar browsing metadata, search history, and other data generated through applications and browsers, including cookies and similar technologies. </td>
 		</tr>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Preferences Data:</em></th>
-			<td><p>Personal Data relating to your preferences, interests, personal demographics  (e.g. location of residence, age group, gender, etc.), your “likes,” and other  information provided to us via social media services and advertising  technologies, including any other categories of information (such as  Transaction Data or Identity Data linked to such information).</p></td>
+		<tr align="left" valign="top">
+			<th width="15%" align="left" valign="top" scope="row"><i>Inference Data:</i></th>
+			<td>Personal Data used to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes, market segments, likes, favorites and other data or analytics provided about you or your account by social media companies or data aggregators, including household data such as income, number of children, occupation, social grade, home ownership status, the products and services you use or intend to use or purchase, and your interests.</td>
 		</tr>
-		<tr>
+		<tr align="left" valign="top">
 			<th width="15%" align="left" valign="top" scope="row"><em>User Content</em>:</th>
-			<td><p>Comments or other content  that a user provides in any free-text or unstructured format, as on a Contact  Form (this may include Personal Data to the extent provided by the user).<u></u></p></td>
+			<td>Unstructured/free-form data that may include any category of Personal Data, e.g. data that you give us in free text fields such as comment boxes, answers you provide when you participate in sweepstakes, contests, votes and surveys, including any other Personal Data which you may provide through or in connection with our Services.</td>
+		</tr>
+		<tr align="left" valign="top">
+			<th width="15%" align="left" valign="top" scope="row"><em>Audio/Visual Data</em>:</th>
+			<td>Audio files and records, such as voicemails and call recordings; audio-visual recordings of interviews or events by our reporters or staff, and the like. </td>
 		</tr>
 	</tbody>
-</table>
-<p><strong><em><u>Processing of Personal Data</u></em></strong></p>
-<p>In addition to processing each  category of data in connection with marketing communications, behavioral  advertising, and to improve our Digital Services, Personal Data may be  processed for the following purposes.</p>
-<h4>Account Registration</h4>
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-	<tbody>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Data</em>:</th>
-			<td>You  may be able to register and create an account on our Digital Services. Registration  is optional in most cases. If you choose to register, we will process <strong>Identity Data, Preferences Data, </strong>and <strong>Contact Data. </strong></td>
-		</tr>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Uses</em>:</th>
-			<td>We  use the <strong>Identity Data</strong> and <strong>Contact Data</strong> as necessary to create,  maintain, and provide you with important information about your account. </td>
-		</tr>
-	</tbody>
-</table>
-<h4>Purchases</h4>
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-	<tbody>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Data</em>:</th>
-			<td>We process <strong>Transaction Data</strong>, <strong>Identity Data,</strong> <strong>Financial Data,</strong> <strong>Preferences  Data,</strong> and certain<strong> Contact Data </strong>when  you complete a purchase on our Digital Services. Note, some purchases are made  directly through us, and others are processed by third parties on our behalf. We  may obtain any Personal Data processed by a third party on our behalf. </td>
-		</tr>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Uses</em>:</th>
-			<td>We  use the <strong>Transaction Data, Identity Data,</strong> and <strong>Contact Data</strong> as necessary to complete  and provide you with information regarding your transaction. <strong>Financial Data</strong> is used only as  necessary to process your purchase. </td>
-		</tr>
-	</tbody>
-</table>
-<h4>Marketing Communications and Newsletters</h4>
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-	<tbody>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Data</em>:</th>
-			<td>We  may process <strong>Identity Data, Device Data,</strong> <strong>Preferences Data,</strong> and <strong>Contact Data</strong> when you are enrolled to  receive, and when you open or interact with, our electronic marketing  communications and newsletters.</td>
-		</tr>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Uses</em>:</th>
-			<td><p>We use <strong>Identity Data</strong> and <strong>Contact  Data</strong> as necessary to provide marketing communications, when you consent to  receive those messages, or consistent with our legitimate business interests.  See <a href="#rights_choices">Your Rights and Choices</a> for  information about how you can limit or opt out of this processing.</p></td>
-		</tr>
-	</tbody>
-</table>
-<h4>Special Promotions and Offers</h4>
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-	<tbody>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Data</em>:</th>
-			<td><p>We may process <strong>Identity Data, Preferences Data, </strong>and  certain <strong>Contact Data</strong> if you choose  to register for special promotions and offers such as discounts, sweepstakes, or  contests or participate in an online survey or poll<strong>. </strong>Some special promotions and offers are operated/controlled by us,  and others are operated/controlled by third parties. We sometimes receive this  data from <a href="#third_parties">third parties</a>; otherwise,  this Privacy Policy will not apply.</p></td>
-		</tr>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Uses</em>:</th>
-			<td><p>We  use this <strong>Identity Data</strong> and <strong>Contact Data</strong> as necessary to carry out  special promotions and related transactions. </p></td>
-		</tr>
-	</tbody>
-</table>
-<h4>User Content </h4>
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-	<tbody>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Data</em>:</th>
-			<td><p>We  process <strong>Identity Data, Contact Data, </strong>and  any other data in or relating to your <strong>User  Content </strong>if you choose to submit User Content (e.g. contact forms, posts on  message boards, etc.) through our Digital Services<strong>. </strong></p></td>
-		</tr>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Uses</em>:</th>
-			<td><p>Subject  to <a href="#rights_choices">Your Rights and Choices</a>, we may  use Identity Data and Preferences Data to create a <a href="#personalization">personalized user experience</a>.</p></td>
-		</tr>
-	</tbody>
-</table>
-<p><strong>Mobile  Apps</strong></p>
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-	<tbody>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Data</em>:</th>
-			<td><p>If you use our Mobile Apps, we process certain  Personal Data, which typically includes <strong>Identity  Data</strong>, <strong>Contact Data</strong>, and <strong>Device</strong> <strong>Data</strong>. Note, you may also be able to complete purchases, register  for an account, or enroll in marketing communications through our Mobile App. </p></td>
-		</tr>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Uses</em>:</th>
-			<td><p>We generally process the Identity Data, Contact  Data, and Device Data as necessary to create your account, deliver the Digital Services  and fulfill your requests. </p></td>
-		</tr>
-	</tbody>
-</table>
-<p><u><em><strong>Specific Processing Purposes</strong></em><strong></strong></u></p>
-<p><strong><a name="cookies"></a>Cookies and Similar  Technologies</strong><br>
-</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-	<tbody>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Data</em>:</th>
-			<td><p>We,  and certain <a href="#third_parties">third parties</a>, may  process <strong>Identity Data</strong>, <strong>Contact Data, Preferences Data</strong>, and <strong>Device Data</strong> when you<strong> </strong>interact with cookies and similar  technologies on our Digital Services. We sometimes receive this data from third  parties, and the privacy policies of third parties may apply to these  technologies and information collected. </p></td>
-		</tr>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Uses</em>:</th>
-			<td><p>Subject  to <a href="#rights_choices">Your Rights and Choices</a>, we and  our third party partners use: </p>
-				<ol style="list-style-type: lower-roman;">
-					<li>Device Data for “essential” or “functional”  purposes, such as to enable various features of the Digital Services or keep  you logged in during your session, or; </li>
-					<li>Device Data for “analytics” purposes, consistent  with our legitimate interests in how the Digital Services are used or perform,  how Users engage with and navigate through the Digital Services, what sites  Users visit before visiting our Digital Services, how often Users visit our Digital  Services, understanding User behaviors and improve the design and functionality  of the website, and other similar information; and </li>
-					<li>Identity Data, Contact Data, Preferences Data,  and Device Data for “retargeting” and/or <a href="#behavioral">behavioral  advertising</a> purposes, so that you can see advertisements from us on other  websites and ads that are more relevant to you based on content you have viewed.</li>
-			</ol></td>
-		</tr>
-		<tr>
-			<th align="left" valign="top" scope="row"><em>Note</em>:</th>
-			<td>Some  of these technologies can be used by us and/or our third-party partners to  identify you across platforms, devices, sites, and services.Please review our <a href="#cookies">Cookie Policy</a> for additional information.
-				<div>
-					<div> </div>
-			</div></td>
-		</tr>
-	</tbody>
-</table>
-<h4><a name="behavioral"></a>Behavioral Advertising</h4>
-<p>Subject to your consent where required by law, we, and  certain <a href="#third_parties">third parties</a> operating on  or through our Digital Services, may engage in online behavioral advertising. This  form of advertising includes various parties and service providers, including  third party data controllers, engaged in the processing of Personal Data in  connection with advertising.&nbsp; This form  of advertising uses <strong>Preferences Data</strong>, <strong>Device Data</strong>, <strong>Identity Data</strong>, and at times, <strong>Contact  Data</strong> in order to deliver more relevant advertising to you. The parties that  control the processing of Personal Data for behavioral advertising purposes may  build a profile of you containing this information, and may be able to identify  you across sites, devices, and over time. These services may also track whether  you view, interact with, or how often you have seen an ad, or whether or not  you complete a purchase for goods or services you were shown in an  advertisement. These tracking technologies may also be used to help limit the  number of times you see the same ads, or help determine whether you have  interacted with or viewed ads delivered to you.</p>
-<p>Processing of this data takes place on our Digital Services,  on third-party websites that participate in ad networks, and through other  services providers. Third party companies, for example social media companies,  may also collect this information via third-party social media cookies, or when  you share information using a social media sharing button or “like” button on  our Digital Services or you link your account or engage with our content on or  through a social networking website such as Facebook or Twitter.</p>
-<p>In some cases, the third parties described above may also  develop and assess aspects of a profile about you to determine whether you are  a type of person a company wants to advertise to, and determine whether and how  ads you see are effective, and may augment your profile with information  derived from observations about you on other websites.	</p>
-<p>See <a href="#rights_choices">Your Rights and  Choices</a> for information about how you can limit or opt out of this  processing.</p>
-<h4><a name="personalization"></a>Personalization</h4>
-<p>Consistent with our legitimate business interests, we may  personalize our Digital Services. To do so, we may link together and analyze  the Personal Data that we hold about you, which may be augmented with  Preferences Data. We may create Preferences Data, or obtain it from <a href="#third_parties">third parties</a>, using Personal Data we  hold about you. We process Preferences Data so that our communications and  Digital Services are more relevant to you. For example, we may greet you by  name, provide better recommendations to you, tailor content and communications  to your interests, and use the information to guide overall improvements to our  products and services. See <a href="#rights_choices">Your Rights  and Choices</a> for information about how you can limit or opt out of this  processing.</p>
-<h4><a name="direct_marketing"></a>Marketing Communications</h4>
-<p>Consistent with our legitimate business interests, we (or if  appropriate, our affiliates or trusted <a href="#third_parties">third  parties</a>) may send you marketing and promotional communications (including if  you sign up for such communications, purchase products or services from us or  an affiliate, register on our Digital Services or for a promotion or contest  with us or a partner, in connection with your communications with, or  submission of User Content to, us, or otherwise as allowed by law). These  communications may be <a href="#personalization">personalized</a>. See <a href="#rights_choices">Your Rights and Choices</a> for  information about how you can limit or opt out of Marketing Communications.</p>
-<h4>Additional Processing </h4>
-<p>If we process Personal Data in connection with our Digital  Services in a way not described in this Privacy Policy, this Privacy Policy  will still apply generally (e.g. with respect to <a href="#rights_choices">Your  Rights and Choices</a>) unless otherwise stated when you provide it. Note that  we may, without your consent, also process your Personal Data on certain public  interest grounds. For example, we may process information as necessary to fulfil  our legal obligations, protect the vital interests of any individuals, or otherwise  in the public interest. Please see the <a href="#data_sharing">data  sharing section</a> for more information.</p>
-<h3><a name="data_sharing"></a>Data Sharing</h3>
-<p>Information we collect may be shared with a variety of  parties, depending upon the purpose for and context in which that information  was provided. We generally transfer data to the following categories of  recipients:</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-	<tbody>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Service Providers:</em></th>
-			<td><p>In connection  with our general business operations, product/service improvements, to enable  certain features, and in connection with our other legitimate business  interests, we may share your Personal Data with service providers who provide  certain services or process data on our behalf.</p></td>
-		</tr>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Affiliates</em>:</th>
-			<td><p>In order to  streamline certain business operations, improve <a href="#personalization">personalization</a>, share promotions and content we believe would be of interest to you, and  develop products and services that better meet the interests and needs of our  customers, we may share your Personal Data with any of our current or future  affiliated entities, subsidiaries, and parent companies. </p></td>
-		</tr>
-		<tr>
-			<th align="left" valign="top" scope="row"><em>Partners</em>:</th>
-			<td>We  may share your Personal Data with business or marketing partners in connection  with promotions, events, products, and services that are promoted, managed, supported,  or otherwise undertaken with that third party. If appropriate, these parties  may engage in <a href="#direct_marketing">direct marketing</a> or <a href="#behavioral">behavioral advertising</a>.
-				<div>
-					<div> </div>
-				</div></td>
-		</tr>
-		<tr>
-			<th align="left" valign="top" scope="row"><em>Marketers</em>:</th>
-			<td>In  order to improve <a href="#personalization">personalization</a>, deliver more relevant information and advertisements to you, and develop better  products and services, we may share certain Personal Data with our affiliates  and trusted <a href="#third_parties">third parties</a> for  marketing, advertising, or other commercial purposes, and we may allow our  affiliates and other third parties (such as Facebook, ad exchanges, data  management platforms, or ad servers) to operate on our Digital Services and  process data for <a href="#behavioral">behavioral advertising</a>. </td>
-		</tr>
-		<tr>
-			<th align="left" valign="top" scope="row"><em>Social Media:</em></th>
-			<td>If  you use any social media plugin, API, or other similar feature, use a hashtag  or similar link, or otherwise interact with us or our Digital Services via  social media, we may make your post available on our Digital Services or to the  general public. We may share, rebroadcast, or redisplay Personal Data or other  information in the post to the extent permitted by the relevant social media  service.</td>
-		</tr>
-		<tr>
-			<th align="left" valign="top" scope="row"><em>Corporate Events:</em></th>
-			<td><p>Your Personal  Data may be processed if we go through a business transition, such as a merger,  acquisition, liquidation, or sale of all or a portion of our assets. For  example, Personal Data may be part of the assets transferred, or may be  disclosed (subject to confidentiality restrictions) during the due diligence  process for a potential transaction.</p></td>
-		</tr>
-		<tr>
-			<th align="left" valign="top" scope="row"><em>Legal Disclosures</em>:</th>
-			<td><p>In limited circumstances,  we may, without notice or your consent, access and disclose your Personal Data,  any communications sent or received by you, and any other information that we  may have about you to the extent we believe such disclosure is legally  required, to prevent or respond to a crime, to investigate violations of our  Terms of Use, or in the vital interests of us or any person. Note, these disclosures may be made to governments  that do not ensure the same degree of protection of your Personal Data as your  home jurisdiction. We may, in our sole discretion (but without any obligation),  object to the disclosure of your Personal Data to such parties.</p></td>
-		</tr>
-	</tbody>
-</table>
-<h4>International Transfers</h4>
-<p>We operate in and use service providers located in the  United States. If you are located outside the U.S., your Personal Data will be  transferred to the U.S. by necessity in order to deliver the services to you.  The U.S. does not provide the same legal protections guaranteed to Personal  Data in the European Union. Accordingly, your Personal Data may be transferred  to the U.S. pursuant to the EU-U.S. Privacy Shield Framework, the Standard  Contractual Clauses, or other adequacy mechanisms, or pursuant to exemptions under  EU law.</p>
-<h4><a name="rights_choices"></a>Your Rights &amp; Choices</h4>
-<h4>Your Rights</h4>
-<p>Subject to the rights granted to other individuals, and our  rights to limit or deny access/disclosure under applicable law, certain  individuals have the following rights in Personal Data under the GDPR or other  laws. Note, we may require that you provide additional Personal Data to exercise  these rights, e.g. information necessary to prove your identity. You may  exercise your rights by <a href="https://www.washingtonexaminer.com/contact" target="_blank">contacting us</a>:</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-	<tbody>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Access:</em></th>
-			<td><p>You  may receive a list of your Personal Data we process to the extent required and  permitted by law. </p></td>
-		</tr>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Rectification</em>:</th>
-			<td><p>You  may correct any Personal Data that we hold about you to the extent required and  permitted by law. For Registration Data, you may be able to make changes via  your account settings menu. </p></td>
-		</tr>
-		<tr>
-			<th align="left" valign="top" scope="row"><em>Erasure:</em></th>
-			<td>To  the extent required by law, you may request that we delete your Personal Data  from our systems.
-<div>
-					<div> </div>
-				</div></td>
-		</tr>
-		<tr>
-			<th align="left" valign="top" scope="row"><em>Data Export</em>:</th>
-			<td>To  the extent required by applicable law, we will send you a copy of your Personal  Data in a common portable format of our choice. </td>
-		</tr>
-		<tr>
-			<th align="left" valign="top" scope="row"><em>Direct Marketing</em>:</th>
-			<td><p>Residents of  California (and others as required by applicable law) may request a list of  Personal Data we have disclosed about you to <a href="#third_parties">third  parties</a> for direct marketing purposes during the preceding calendar year.  This request must be written, signed, and mailed to us.</p></td>
-		</tr>
-		<tr>
-			<th align="left" valign="top" scope="row"><em>Regulator Contact:</em></th>
-			<td><p>You  have the right to contact or file a complaint with regulators about our  processing of Personal Data. To do so, please contact your local data  protection or consumer protection authority.</p></td>
-		</tr>
-	</tbody>
-</table>
-<h3>Your Choices</h3>
-<p>It is possible for you to use some of our Digital Services  without providing any Personal Data, but you may not be able to access certain  features or view certain content. You have the following choices regarding the  Personal Data we process, which you may exercise by <a href="https://www.washingtonexaminer.com/contact" target="_blank">contacting us or otherwise as described below</a>:</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-	<tbody>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em>Consent</em>:</th>
-			<td><p>If  you consent to processing, you may withdraw consent any time, to the extent  required by law.</p></td>
-		</tr>
-		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em><a href="#direct_marketing">Direct  Marketing</a>:</em></th>
-			<td><p>You  have the choice to opt-out of processing related to marketing communications or  to withdraw your consent if marketing communication was initiated through  consent. You may exercise your choice via the links in our communications or by <a href="https://www.washingtonexaminer.com/contact" target="_blank">contacting us </a>re: direct marketing.</p></td>
-		</tr>
-		<tr>
-			<th align="left" valign="top" scope="row"><em><a href="#personalization">Profiling &amp; Personalization</a>:</em></th>
-			<td><p>You may opt out  of the creation or other processing of Preferences Data by automated means, and  object to processing for personalization purposes, to the extent applicable law  gives you the right to do so. Note that we may not be required to cease certain  types of processing based solely on an objection (for example, where we are  required to comply with applicable legal requirements).</p>
-<div>
-					<div> </div>
-			</div></td>
-		</tr>
-		<tr>
-			<th align="left" valign="top" scope="row"><em><a href="#cookies">Cookies  &amp; Similar Tech</a></em>:</th>
-			<td><p>If you do not  want information collected through the use of cookies, you can manage/deny  cookies (and certain technologies) using your browser’s settings menu. You must  opt out of third party services directly via the third party. For example, to  opt-out of Google’s analytic and marketing services, visit <a href="http://www.google.com/analytics/tos.html">Google Analytics Terms of Use</a>,  the <a href="http://www.google.com/privacypolicy.html">Google Privacy Policy</a>,  or <a href="https://tools.google.com/dlpage/gaoptout?hl=en-GB">Google Analytics  Opt-out</a>. Our Site does not respond to your browser’s  do-not-track request.</p></td>
-		</tr>
-		<tr>
-			<th align="left" valign="top" scope="row"><em><a href="#behavioral">Behavioral  Advertising</a></em>:</th>
-			<td><p>You may opt out  or withdraw your consent to behavioral advertising. You must opt out of third  party services directly via the third party. For example, to opt out of  Google’s use of cookies, visit Google’s Ads Settings, <a href="https://www.google.com/settings/u/0/ads?hl=en&amp;sig=ACi0TCiMsTp6hu2gwIWAph1FkupERVvz6U76wP-bPuXf-PU7jkGobIl9xnvmhGPWftIUqRO5jfqD7HmRfYDu-YQNYDT-kpUlM-6waE6L-s0tr4sqZOIvCkHqRJCn0zn3pZ9U7hBlkI7Ue6nMD6EtyapCYzG4ZRIutukmhqmav5FuNJZ7pFD2C08">here</a>.  To learn more about how to opt out of DoubleClick’s use of cookies, visit the  DoubleClick opt-out page, <a href="https://www.google.com/settings/ads?hl=en&amp;sig=ACi0TCi3R4mL7qb_WRaELD5Z_YPR5O5InCvFFgPTJ5jcWbHaE2tb_jOvoIkA5pP6F9oEvdNnVsMQuwj5HJV2Pg-6RADnzbP9mI_0dcxfwak_4v1_JeRylUrylqkCThZSDLaaI0iKKqsfaEE9pvltfXxOZH9ZarVDcsj6b7B5xIgS7XgzMgJjPq6m-L38v01JOJumwnkQh8Kt">here</a>.&nbsp; To opt out from Facebook Custom Audience  Pixel, visit their customer support page <a href="https://www.facebook.com/help/247395082112892">here</a>. To learn  more about how to opt out of Twitter’s use of audience pixels, visit the Twitter  help page <a href="https://support.twitter.com/articles/20170407">here</a>. If you  wish to take steps to opt-out of tracking by certain online advertisers, you  can visit the Digital Advertising Alliance’s opt-out page at <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a> or the Network Advertising Initiative at <a href="http://www.networkadvertising.org/optout_nonppii.asp">www.networkadvertising.org/optout_nonppii.asp</a>.  You can limit or opt out of our processing for behavioral advertising by contacting us.</p></td>
-		</tr>
-		<tr>
-			<th align="left" valign="top" scope="row"><em>Other Processing:</em></th>
-			<td><p>You may have  the right under applicable law to object to our processing of your Personal  Data for certain purposes. Note that we may not be required to cease processing  based solely on an objection.</p></td>
-		</tr>
-	</tbody>
-</table>
-<h4>Security</h4>
-<p>We follow and implement reasonable security measures to  safeguard the Personal Data you provide us. However, we sometimes share  Personal Data with third parties as noted above, and we do not have control  over third parties’ security processes. Please note, we do not warrant perfect  security and we do not provide any guarantee that your Personal Data or any  other information you provide us will remain secure. </p>
-<h4>Data Retention</h4>
-<p>We retain  information for so long as it, in our discretion, remains relevant to its  purpose, and in any event, for so long as is required by law. We will review  retention periods periodically, and may sometimes pseudonymize or anonymize  data held for longer periods, if appropriate and requested.</p>
-<h4>Minors </h4>
-<p>Our Digital Services are neither directed at nor intended  for use by minors under the age of majority in the relevant jurisdiction.  Further, we do not knowingly collect Personal Data from such individuals. If we  learn that we have inadvertently done so, we will promptly delete it.</p>
-<h4>Changes to Our Privacy Policy</h4>
-<p>We may change this Privacy Policy from time  to time. Changes will be posted on this page with the effective date. Please  visit this page regularly so that you are aware of our latest updates. Your use  of the Digital Service following notice of any changes indicates acceptance of  any changes.<u></u></p>
-<h4>Contact Us </h4>
-<p>Feel free to contact us with questions or concerns, to  exercise your marketing choices, or otherwise at <a href="mailto:privacy@mediadc.com">privacy@mediadc.com</a>.</p>
-<div>
-	<div>
-		<table width="100%" border="0" cellspacing="0" cellpadding="5">
-			<tbody>
-				<tr>
-					<th width="15%" align="left" valign="top" scope="row"><em>Physical</em><strong> </strong><em>address</em><strong>:</strong></th>
-					<td><p>MediaDC, Attn: Webmaster<br>
-1152 15th  St. NW, Suite 200<br>
-Washington, DC, 20005</p></td>
-				</tr>
-			</tbody>
-		</table>
-	</div>
-</div>
-</div></div>
+</table><p><u>Sources of Personal Data</u><br>We collect Personal Data from various sources, which vary depending on the context in which we process that Personal Data:<br></p><table width="100%" border="0" cellspacing="0" cellpadding="5"><tbody><tr align="left" valign="top"><td width="25%"><strong><i>Data you provide us</i></strong></td><td>We will receive your Personal Data when you provide it to us, when you subscribe to our Publications, complete a transaction via our Services, or when you otherwise use our Services, or when you communicate with our reporters or other staff. </td></tr><tr align="left" valign="top"><td><strong><i>Data we collect automatically</i></strong></td><td>We collect Personal Data about or generated by any device you have used to access our Services.</td></tr><tr align="left" valign="top"><td><strong><i>Data we receive from service providers </i></strong></td><td>We receive Personal Data from service providers performing services on our behalf.</td></tr><tr align="left" valign="top"><td><strong><i>Data we receive from aggregators and advertisers</i></strong></td><td>We receive Personal Data from ad networks, behavioral advertising vendors, market research, and social media companies or similar companies that provide us with additional Personal Data such as Inference Data.</td></tr><tr align="left" valign="top"><td><strong><i>Data we receive from social media companies</i></strong></td><td>We receive Personal Data from Facebook and other social media companies who may transfer Personal Data to us when you register for one of our Services or interact with that social media company on or in connection with our Services. </td></tr><tr align="left" valign="top"><td><strong><i>Data we create and infer</i></strong></td><td>We, certain partners, social media companies, and third parties operating on our behalf create and infer Personal Data such as Inference Data based on our observations or analysis of other Personal Data processed under this Privacy Policy, and we may correlate this data with other data we process about you. We may combine any Personal Data about you that we receive from you, and from third parties.</td></tr></tbody></table><p><u>How We Process Personal Data</u><br>We or our service providers typically collect and process Personal Data in several contexts when you use our Services, including:</p><p><b>When you make a purchase or other transaction through our Service</b><br>We generally process Identity Data, Financial Data, Commercial Data and Contact Data when you engage in a purchase transaction with our Services, or when you otherwise create an account and register with our Service, whether through our Digital Services or our Offline Services. We process this Personal Data as necessary to perform or initiate a contract with you, process your order and payment, engage in customer service functions, and carry out fulfillment and delivery. In addition, we may also collect or create Device/Network Data and Inference Data. This data, together with other data we collect in this context is used as necessary in connection with certain legitimate business interests, such as:</p><ul><li>ensuring the security of our Services and to prevent fraud; </li><li>providing you with information about our Services, to contact you about administrative matters, to manage and respond to any queries or complaints you make or any correspondence you send us.</li></ul><p>We may also use this Identity Data, Commercial Data, Contact Data, and Device/Network Data collected in this context for our Commercial Purposes.</p><p><b>When you access or use our Digital Services</b><br>When you use our Digital Services, we automatically collect and process Device/Network Data. We use this data as necessary to initiate or fulfill your requests for certain features or functions through our Services, such as keeping you logged in, delivering pages, etc. In addition to Device/Network Data, we may also collect and process Contact Data, Identity Data and Inference Data that we collect, create, and/or receive (including through the use of cookies and similar technologies), including if you sign up to receive our emails or other content. We typically use this data as necessary in connection with certain legitimate business interests, such as:</p><ul><li>ensuring the security of our websites and other technology systems; </li><li>analyzing the use of our Services, including navigation patterns, clicks, etc. to help understand and make improvements to the Services.</li></ul><p>Some Digital Services, such as our mobile apps, may, with your consent, process Location Data. We use this data, together with Inference Data, and Device/Network Data in order to provide contextual information to you, and other features that require the use of location. We may also use this information in connection with our legitimate business interests, such as, creating aggregate information about users’ location and patterns, which we use to help improve our Services. We may also process Identity Data, Contact Data, and User Content if you interact with or identify us on social media platforms.</p><p>We may also use Identity Data, Device/Network Data, Location Data, Inference Data and Contact Data collected in this context for Commercial Purposes.</p><p><b>Cookies and other tracking technologies</b><br>We use cookies and similar technologies on our Digital Services. These technologies can be used to collect or create Identity Data, Device/Network Data, Contact Data, or Inference Data. Third parties may be allowed to view, edit, or set their own cookies or place web beacons on our websites. Cookies and web beacons allow us and third parties to distinguish you from other users of our Digital Services, and some of these technologies can be used by us and/or our third party partners to identify you across platforms, devices, sites, and services. Third parties may engage in targeted advertising using this data.<i> </i><br>We and authorized third parties may use cookies and similar technologies for the following purposes:</p><ul><li>for “essential” or “functional” purposes, such as to enable certain features of our Digital Services (for example, to allow a customer to maintain a basket when they are shopping at an online store);</li><li>for “analytics” purposes, such as to analyze the traffic to and on our Digital Services (for example, we can count how many people have looked at a specific page, or see how visitors move around the website when they use it, what website they visited prior to visiting our website, and use this information to understand user behaviors and improve the design and functionality of the website);</li><li>for “retargeting” or similar advertising or commercial purposes, such as:<ul><li>for social media integration e.g. via third-party social media cookies, or when you share information using a social media sharing button or “like” button on our Services or you link your account or engage with our content on or through a social networking website such as Facebook or Twitter; </li><li>to collect information about your preferences and demographics to help target advertisements which are more likely to be of interest to you using behavioral advertising; and</li><li>to allow us to carry out retargeting (this includes, for example, when advertisements are presented to you for products or services which you have previously looked at on a website but have not purchased).</li></ul></li></ul><p>The use of these technologies by third parties may be subject to their own privacy policies and is not covered by this Privacy Policy, except as required by law.<b> </b></p><p>We may also use your Identity Data, Device/Network Data, Inference Data and Contact Data collected in this context for Business Purposes and Commercial Purposes.</p><p><b>When you enter a contest or other promotion </b><br>We collect and process Identity Data, Contact Data, and User Content as necessary to process your request to enter the contest, or take part in a promotion, notify you if you have won or to process delivery of a prize or for other related purposes. </p><p>In addition, we may process this information in connection with our legitimate business interests, such as: </p><ul><li>verifying your identity for authentication and security purposes; and</li><li>helping us to ensure our customers are genuine and to prevent fraud.</li></ul><p>Note, if you win a contest/sweepstakes, we may publicly post some of your Personal Data on our website. Where required by law, your information will not be posted without your consent. Unless prohibited by law, we may use this Identity Data, Contact Data, and User Content information for Commercial Purposes.</p><p><b>When you contact us or submit information to us</b><br>We collect and process Identity Data, Contact Data, and any Audio/Visual Data or User Content you provide as necessary to address your request, fulfill the business purpose for which that information was provided, or for other related purposes. We may use information collected in the process of developing our editorial content for those purposes (e.g. information collected during an interview will be used in the resulting article, or may be used in order to contact a source of relevant information). Additionally where you consent, if relevant to your request (such as an inquiry regarding a product, service, etc.) or if otherwise permitted by law, we may send you marketing communications as described further below, and use this information for Commercial Purposes.</p><p><b>Feedback and Surveys</b><br>We generally process Identity Data, Contact Data, Inference Data, and User Content collected in connection with feedback you provide to us, or surveys or questionnaires. We generally process this Personal Data as necessary to respond to your requests/concerns, and create aggregate analytics regarding customer satisfaction. We may also use the Identity Data, Contact Data, Inference Data, and User Content collected in this context for Business Purposes and Commercial Purposes.</p><p><u>How we Process Personal Data for Business Purposes</u><br>We and our service providers process Personal Data we hold for numerous business purposes, depending on the context of collection, your rights and choices, and our legitimate business interests. For example, we generally process Personal Data in connection with:</p><p><b>Service Provision and Contractual Obligations</b><br>We process any Personal Data as is necessary to provide our Services, to provide you with the products and services you purchase or request, to authenticate users and their rights to access the Services, or various data, features, or functionality, and as otherwise necessary to fulfill our contractual obligations to you, and provide you with the information, features, and Services you request. Additionally, we use information to authenticate your right to access our Services, deliver products and Services, and for other related matters. Similarly, we may use Personal Data as necessary to audit compliance, and log or measure aspects of service delivery (e.g. to document ad impressions).</p><p><b>Internal Processing and Service Improvement</b><br>We may use any Personal Data we process through our Services as necessary in connection with our legitimate business interests in improving the design of our Services, understanding how are Services are used or function, for customer service purposes, in connection with logs and metadata relating to service use, and for debugging and similar purposes relating our identification of errors and improving the stability of the Services, and for editorial purposes, including creating content for our Services. Additionally, we may use Personal Data to understand what parts of our Services are most relevant to users, how users interact with various aspects of our Services, how our Services perform, etc., or we may analyze use of the Services to determine if there are specific activities that might indicate an information security risk to the Services or our users.</p><p><b>Security and Incident Detection</b><br>We may process any Personal Data in connection with our legitimate business interest in ensuring that our Services are secure, and identify and prevent fraud, detect security incidents, protect against, and respond to malicious, deceptive, fraudulent, or illegal activity. We may analyze network traffic, device patterns and characteristics, maintain and analyze logs and process similar Personal Data in connection with our information security activities.</p><p><b>Compliance, safety, public interest</b><br>We may also process any Personal Data as necessary to comply with our legal obligations, such as where you exercise your rights under data protection law and make requests, for the establishment and defense of legal claims, or where we must comply with our legal obligations, lawful requests from government or law enforcement officials, and as may be required to meet national security or law enforcement requirements or prevent illegal activity. We may also process Personal Data to protect the vital interests of individuals, or on certain public interest grounds, each to the extent allowed under applicable law. Please see the data sharing section for more information about how we disclose Personal Data in extraordinary circumstances.</p><p><b>Aggregated data</b><br>We process Personal Data about our customers and users in order to identify trends (to create aggregated and anonymized data about our customers/users, use of our Services, and other similar information (“<b>Aggregated Data</b>”). We may pass Aggregated Data to the third parties referred to in the section below to give them a better understanding of our business and to bring you a better service. Aggregated Data will not contain information from which you may be personally identified.</p><p><b>Personalization</b> <br>We process certain Personal Data as necessary in connection with our legitimate business interest in personalizing our Digital Services. For example, aspects of the Digital Services may be customized to you, to display content that you have interacted with in the past, or to display content that we think may be of interest to you based on your interactions with our Digital Services and other content. This processing may involve the creation and use of Inference Data relating to your preferences.</p><p><b>Other Business Purposes</b><br>If we process Personal Data in connection with our Services in a way not described in this Privacy Notice, this Privacy Notice will still apply generally (e.g. with respect to your rights and choices) unless otherwise stated at collection. We will process such information in accordance with the notice provided at the time of collection or in a manner that is necessary and proportionate to achieve the operational purpose for which the personal information was collected or processed or for another operational purpose that is compatible with the context in which the personal information was collected.</p><p><u>How We Process Personal Data for Commercial Purposes</u><br>We and certain third parties process Personal Data we hold for certain purposes, depending on the context of collection and your <a href="#_Your_Rights">rights</a> and <a href="#_Your_Choices">choices</a>, including:</p><p><b>Personalization &amp; Consumer Profiles</b><br>In order to understand our customers’ preferences, and better recommend content and Services that are personalized to our customers, we may create a “<b>Consumer Profile</b>” by linking together and analyzing Personal Data collected in the following contexts:</p><ul><li>When you make a purchase or other transaction through our Services</li><li>When you access or use our Digital Services</li><li>Cookies and other tracking technologies</li><li>When you enter a contest or other promotion</li><li>When you contact us or submit information to us</li><li>Feedback and Surveys</li></ul><p>We may also augment Consumer Profiles with Personal Data that we create (such as Inference Data) or that we receive from our affiliated companies or third parties, and may include Personal Data such as information about Services you have used or purchased previously, and demographic data. </p><p>We use Consumer Profiles for our legitimate interests in market research and statistical analysis in connection with the improvement of our Services. For example, we may analyze the Personal Data of people who have subscribed to our Publications in the past, and compare them with other people in our database. If we identify people in the database who have similar Personal Data to the subscribers, we may then target marketing to the new people we have identified in our database, for example by sending marketing emails. We may conduct the profiling and send the direct marketing emails automatically. We may also use this information for other Commercial Purposes. </p><p><b>Marketing Communications</b><br>Consistent with our legitimate business interests, we (or if appropriate, our third-party partners) may send you marketing and promotional communications if you sign up for such communications or purchase products or services from us. Where allowed, we may also send you these communications if you register for our Services or for a promotion, or in connection with your communications with or submission of User Content to us. These communications may be personalized or customized based on your user profile. </p><p>Similarly, we may also collect Device/Network Data and Contact Data so that we can determine whether you have opened an email or otherwise interacted with our communications, and we may generate Inference Data based on these interactions.</p><p>We may also process this Personal Data for targeted advertising. However, where consent to processing is required by law, we will link and process this information for targeted advertising with appropriate consent.</p><p><b>Targeted Advertising</b><br>We, and certain third parties operating on or through our Services, may engage in targeted advertising. This form of advertising includes various parties and services providers, including third party data controllers, engaged in the processing of Personal Data in connection with advertising. These parties may be able to identify you across sites, devices, and over time. </p><p>The parties that control the processing of Personal Data for behavioral advertising purposes may create or leverage information derived from personalization and profiling. In some cases, these parties may also develop and assess aspects of a profile about you to determine whether you are a type of person a company wants to advertise to, and determine whether and how ads you see are effective. These third parties may augment your profile with demographic and other Inference Data derived from these observations, and may also track whether you view, interact with, or how often you have seen an ad, or whether you complete a purchase for a good or services you were shown in an advertisement. </p><p>We generally use targeted advertising for the purpose of marketing our Services and third-party goods and services, to send marketing communications, including by creating custom marketing audiences on third-party websites (such as Facebook).</p><p><b>Data Sales</b><br>Certain Commercial Processing purposes involve “sales” of data as defined by applicable law. For example, we may “sell” (as defined by applicable law) certain Personal Data when we engage in marketing campaigns with or on behalf of sponsors, when we conduct targeted advertising, or we may sell or grant access to Personal Data to our marketing partners, promoters, and other advertisers. See the California Rights &amp; Disclosures section for a list of categories of Personal Data sold. </p><p><b><i><u>Data Sharing/Transfers</u></i></b><br>Information we collect may be shared with a variety of parties, depending upon the purpose for and context in which that information was provided. We generally transfer data to the following categories of recipients:<br></p><table width="100%" border="0" cellspacing="0" cellpadding="5"><tbody><tr align="left" valign="top"><td width="25%"><strong><i>Service Providers:</i></strong></td><td>In connection with our general business operations, product/service improvements, to enable certain features, and in connection with our other legitimate business interests and our Business Purposes, we may share your Personal Data with service providers who provide certain services or process data on our behalf.</td></tr><tr align="left" valign="top"><td><strong><i>Affiliates</i>:</strong></td><td>In order to streamline certain business operations, improve personalization<u style="text-underline:
+dotted-heavy">,</u> share promotions and content we believe would be of interest to you, and develop products and services that better meet the interests and needs of our customers, we may share your Personal Data with any of our current or future affiliated entities, subsidiaries, and parent companies for our Business Purposes and Commercial Purposes. </td></tr><tr align="left" valign="top"><td><strong><i>Partners</i>:</strong></td><td>We may share your Personal Data with business or marketing partners in connection with promotions, events, products, and services that are promoted, managed, supported, or otherwise undertaken with that third party, and other Commercial Purposes. If appropriate, these parties may engage in direct marketing or behavioral advertising.</td></tr><tr align="left" valign="top"><td><strong><i>Marketers</i>:</strong></td><td>In order to improve personalization<u style="text-underline:dotted-heavy">,</u> deliver more relevant information and advertisements to you, and develop better products and services, we may share certain Personal Data with our affiliates and trusted third parties for marketing, advertising, or other Commercial Purposes, and we may allow our affiliates and other third parties (such as Facebook, ad exchanges, data management platforms, or ad servers) to operate on our Digital Services and process data for behavioral advertisin<u style="text-underline:dotted-heavy">g</u>. </td></tr><tr align="left" valign="top"><td><strong><i>Social Media:</i></strong></td><td>If you use any social media plugin, API, or other similar feature, use a hashtag or similar link, or otherwise interact with us or our Digital Services via social media, we may make your post available on our Digital Services or to the general public. We may share, rebroadcast, or redisplay Personal Data or other information in the post to the extent permitted by the relevant social media service and otherwise use the data for our Commercial Purposes. In addition, in order to improve personalization, deliver more relevant advertisements, and develop better products and services, we may share certain Personal Data with current or future affiliated entities and trusted third parties for marketing, advertising, or other commercial purposes, and we may allow third parties (such as Facebook and social media advertisers, ad exchanges, data management platforms, or ad servers) to operate on our Services and process data for targeted advertising. These transfers may be made for Commercial Purposes and in connection with Data Sales</td></tr><tr align="left" valign="top"><td><strong><i>Data Aggregators:</i></strong></td><td>In connection with our marketing operations, and subject to your rights and choices, we may share certain Personal Data with data aggregators for Commercial Purposes and in connection with Data Sales. These disclosures/sales can help better personalize our Services, the services of third parties, enrich Consumer Profiles and help ensure that you see advertisements that are more relevant to your interests.</td></tr><tr align="left" valign="top"><td><strong><i>Successors:</i></strong></td><td>Your Personal Data may be processed if we go through a business transition, such as a merger, acquisition, liquidation, or sale of all or a portion of our assets. For example, Personal Data may be part of the assets transferred, or may be disclosed (subject to confidentiality restrictions) during the due diligence process for a potential transaction.</td></tr><tr align="left" valign="top"><td><strong><i>Lawful Recipients</i>:</strong></td><td>In limited circumstances, we may, without notice or your consent, access and disclose your Personal Data, any communications sent or received by you, and any other information that we may have about you to the extent we believe such disclosure is legally required, to prevent or respond to a crime, to investigate violations of our Terms of Use, or in the vital interests of us or any person. Note, these disclosures may be made to governments that do not ensure the same degree of protection of your Personal Data as your home jurisdiction. We may, in our sole discretion (but without any obligation), object to the disclosure of your Personal Data to such parties.</td></tr><tr align="left" valign="top"><td><strong><i>International</i>:</strong></td><td>We operate in and use service providers located in the United States. If you are located outside the U.S., your Personal Data will be transferred to the U.S. by necessity in order to deliver the Services to you. The U.S. does not provide the same legal protections guaranteed to Personal Data in the European Union or certain other regions. Accordingly, your Personal Data may be transferred to the U.S. pursuant to the EU-U.S. Privacy Shield Framework, the Standard Contractual Clauses, or other adequacy mechanisms, or pursuant to exemptions under EU law.</td></tr></tbody></table><p><b>How we protect your Personal Data</b><br>We follow and implement reasonable security measures to safeguard the Personal Data you provide us. However, we sometimes share Personal Data with third parties as noted above, and we do not have control over third parties’ security processes. Please note, we do not warrant perfect security and we do not provide any guarantee that your Personal Data or any other information you provide us will remain secure. Where we have given you (or where you have chosen) a password which enables you to access one of our Services, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p><p><b>Data Retention</b><br>We retain information for so long as it, in our discretion, remains relevant to its purpose, and in any event, for so long as is required by law. We will review retention periods periodically, and may sometimes pseudonymize or anonymize data held for longer periods, if appropriate and requested.</p><p><b>Minors </b><br>Our Services are neither directed at nor intended for use by minors under the age of 16. Further, we do not knowingly collect Personal Data from such individuals. If we learn that we have inadvertently done so, we will promptly delete it. Do not access or use the Services if you are not of the age of majority in your jurisdiction unless you have the consent of your parent or guardian.</p><p><b><i><u>Your Rights &amp; Choices</u></i></b><br>You may have certain rights and choices regarding the Personal Data we process. Please note, these rights may vary based on the country or state where you reside, and our obligations under applicable law. </p><ul><li>Additional information regarding individuals’ rights in California are available here.</li><li>Additional information regarding individuals’ rights in the EU/EEA/Switzerland/Cayman Islands are available here. </li></ul><p>Your Rights<br>To the extent applicable law grants you the right to do so, and subject to any necessary verification, you may have the right to: </p><ul><li>request that we provide you with a copy of the Personal Data which we hold about you;</li><li>request that we update any of your Personal Data which are inaccurate or incomplete;</li><li>request that we delete any of your Personal Data which we are holding; or</li><li>request that we provide your Personal Data to you or a third-party provider of services in a structured, commonly-used and machine-readable format.</li></ul><p>To submit a request, you may contact our Data Privacy Team. Your request must include your name, email address and postal address and we may require proof of your identity. </p><p><u><i>Your Choices</i></u><br><b>Marketing Communications</b><br>You can withdraw your consent to receive marketing communications by clicking on the unsubscribe link in an email. You can also withdraw your consent to receive marketing communications or any other consent you have previously provided to us by contacting us. To opt-out of the collection of information relating to email opens, configure your email so that it does not load images in our emails.</p><p><b>Withdrawing Your Consent/Opt-Out</b><br>Where we are processing your Personal Data based on your consent, you may change your mind and withdraw your consent at any time. The consequence of you withdrawing consent might be that we cannot perform certain services for you, such as location-based services, personalization or providing certain types of advertising, or other services conditioned on your consent or choice not to opt-out.</p><p><b>Location Preferences</b><br>You may control or limit location data that we collect through our Services by changing your preferences in your device’s location services preferences menu, or through your choices regarding the use of Bluetooth, WiFi, and other network interfaces you may use to interact with our Services. However, please note that use of RFID technologies may be necessary for the functioning of hardware required for certain processing of Personal Data. Note, general location data may still be collected if you opt out of specific location services.</p><p><b>Do-not-Track</b><br>Our Services do not respond to your browser’s do-not-track request. If you do not want information collected through the use of cookies, you can manage/deny cookies (and certain technologies) using your browser’s settings menu. You must opt out of third party services directly via the third party. For example, to opt-out of Google’s analytic and marketing services, visit <a href="http://www.google.com/analytics/tos.html">Google Analytics Terms of Use</a>, the <a href="http://www.google.com/privacypolicy.html">Google Privacy Policy</a>, or <a href="https://tools.google.com/dlpage/gaoptout?hl=en-GB">Google Analytics Opt-out</a>. </p><p><b>Advertising</b><br>You may opt out or withdraw your consent to behavioral advertising. In some cases, we may be able to process third party opt-out requests directly (e.g. when you click the “do not sell my personal information” link on our website), however in some cases, you must opt out of third party services directly via the third party. For example, to opt out of Google’s use of cookies, visit Google’s Ads Settings, <a href="https://adssettings.google.com/">here</a>. If you wish to take steps to opt-out of tracking by certain online advertisers, you can visit the Digital Advertising Alliance’s opt-out page at <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a> or the Network Advertising Initiative at <a href="http://www.networkadvertising.org/optout_nonppii.asp">www.networkadvertising.org/optout_nonppii.asp</a>. You can limit or opt out of our processing for behavioral advertising by contacting us<u>.</u> </p><p><b>Data Sales</b><br>If you are a California Resident, or otherwise have the right to opt out of data sales, you may do so through the <i>Washington Examiner Rights Portal</i>. You may be required to validate your identity to ensure your request is not fraudulent. </p><p><b>Regional Rights</b><br>See the Your California Privacy Rights section for additional information regarding data sale opt-out, and other privacy rights under California law.</p><p>Residents and others in the EU, EEA and Cayman Islands may have rights under EU and other law. See the Your EU/Other Privacy Rights section for additional information.</p><p><b>Additional Rights and Disclosures: EU/EEA, Switzerland, Cayman Islands, etc.</b><br><u><i>Your EU/Other Privacy Rights</i></u><br>Under the GDPR and analogous legislation, you may have the following rights notwithstanding those set forth in the Rights &amp; Choices section above, subject to your submission of an appropriately verified request: </p><table width="100%" border="0" cellspacing="0" cellpadding="5"><tbody><tr align="left" valign="top"><td width="25%"><strong><i>Access:</i></strong></td><td>You may receive a list of your Personal Data we process to the extent required and permitted by law. </td></tr><tr align="left" valign="top"><td><strong><i>Rectification</i>:</strong></td><td>You may correct any Personal Data that we hold about you to the extent required and permitted by law. For Registration Data, you may be able to make changes via your account settings menu. </td></tr><tr align="left" valign="top"><td><strong><i>Erasure:</i></strong></td><td>To the extent required by law, you may request that we delete your Personal Data from our systems. </td></tr><tr align="left" valign="top"><td><strong><i>Data Export</i>:</strong></td><td>To the extent required by applicable law, we will send you a copy of your Personal Data in a common portable format of our choice. </td></tr><tr align="left" valign="top"><td><strong><i>Objection:</i></strong></td><td><p>You may have the right under applicable law to object to our processing of your Personal Data that we undertake without your consent as in connection with our legitimate business interests (including any processing specified as such, or processed under this Privacy Policy for a Business Purpose). You may do so by contacting us. Note that we may not be required to cease, or limit processing based solely on that objection, and we may continue processing cases where our interests in processing are balanced against individuals’ privacy interests.</p><p>You may also object to processing for direct marketing purposes. We will cease processing upon your objection to such processing.</p></td></tr><tr align="left" valign="top"><td><strong><i>Regulator Contact:</i></strong></td><td>You have the right to contact or file a complaint with regulators about our processing of Personal Data. To do so, please contact your local data protection or consumer protection authority.</td></tr></tbody></table><p><b>Additional Rights and Disclosures: California</b><br><u><i>Your California Privacy Rights</i></u><br>Under the California Consumer Privacy Act (“<b>CCPA</b>”) and other California laws, California residents may have the following rights in addition to those set forth in the <a href="#_Your_Rights_&amp;">Rights &amp; Choices</a> section above, subject to your submission of an appropriately verified request where required by applicable law (see below for verification requirements): </p><table width="100%" border="0" cellspacing="0" cellpadding="5"><tbody><tr align="left" valign="top"><td width="25%"><strong><i>Right to Know</i></strong></td><td>You may request any of following, for the 12 month period preceding your request: (1) the categories of Personal Data we have collected about you, or that we have sold, or disclosed for a commercial purpose; (2) the categories of sources from which your Personal Data was collected; (3) the business or commercial purpose for which we collected or sold your Personal Data; (4) the categories of third parties to whom we have sold your Personal Data, or disclosed it for a business purpose; and (5) the specific pieces of Personal Data we have collected about you. </td></tr><tr align="left" valign="top"><td><strong><i>Right to Delete</i></strong></td><td>You have the right to delete certain Personal Data that we hold about you, subject to exceptions under applicable law</td></tr><tr align="left" valign="top"><td><strong><i>Right to Non-Discrimination</i></strong></td><td>You have the right to not to receive discriminatory treatment as a result of your exercise of rights conferred by the CCPA.</td></tr><tr align="left" valign="top"><td><strong><i>Direct Marketing</i></strong></td><td>You may request a list of Personal Data we have disclosed about you to third parties for direct marketing purposes during the preceding calendar year. </td></tr><tr align="left" valign="top"><td><strong><i>Opt-Out of Sale</i></strong></td><td>If we engage in sales of data (as defined by applicable law), you may direct us to stop selling Personal Data to third parties.</td></tr><tr align="left" valign="top"><td><strong><i>Minors</i></strong></td><td><p>To the extent we have actual knowledge that we collect or maintain personal information of a minor under age 16, those minors between the age of 13 and 16 must opt in to any sales of personal information (as defined under CCPA), and minors under the age of 13 must have a parent consent to sales of personal information (as defined under CCPA); all minors have the right to opt-out later at any time. </p><p>Minors under age 13 may have other rights under the Children’s Online Privacy Protection Act (“COPPA”).</p></td></tr><tr align="left" valign="top"><td><strong><i>Minors’ User Content</i></strong></td><td>Individuals under the age of 18 in California can delete or remove posts using the same deletion or removal procedures described above, or otherwise made available through the Services. If you have questions about how to remove your posts or if you would like additional assistance with deletion you can contact us. We will work to delete your information, but we cannot guarantee comprehensive removal of that content or information posted through the Services.</td></tr></tbody></table><p><u><i>Submission of Requests</i></u><br>You may submit requests, as follows:<br></p><table width="100%" border="0" cellspacing="0" cellpadding="5"><tbody><tr align="left" valign="top"><td width="25%"><strong><i>Opt-Out of Sale, Right to Know, Right to Delete:</i></strong></td><td>You may visit the Washington Examiner Rights Portal</td></tr><tr align="left" valign="top"><td><strong><i>Direct Marketing; Remove User Content: </i></strong></td><td>You may request a list of any relevant direct marketing disclosures or may request deletion of User Content if required under applicable law, via email to our privacy team at privacy@mediadc.com.</td></tr></tbody></table><p><u><i>Verification of Requests</i></u><br>All rights requests must be verified to ensure that the individual making the request is authorized to make that request, to reduce fraud, and to ensure the security of your Personal Data. We may require that you provide the email address we have on file for you (and verify that you can access that email account) as well as an address, phone number, or other data we have on file, in order to verify your identity. If an agent is submitting the request on your behalf, we reserve the right to validate the agent’s authority to act on your behalf. </p><p><u><i>Data Processing</i></u><br><b>Categories of Personal Data Disclosed for Business Purposes</b><br>For purposes of the CCPA, we may disclose to Service Providers for “business purposes” the following categories of Personal Data: Identity Data, Contact Data, Location Data, Device/Network Data, Commercial Data, Inference Data, Financial Data, Audio/Visual Data, Health Data, Government ID Data, and User Content.</p><p><b>Categories of Personal Data Sold</b><br>For purposes of the CCPA, we may “sell” the following categories of Personal Data processed through our Services: Identity Data, Contact Data, Location Data, Device/Network Data, Commercial Data, Inference Data, and User Content.</p><p><b>Right to Know </b><br></p><table width="100%" border="0" cellspacing="0" cellpadding="5"> <tbody><tr align="left" valign="top"> <td width="15%"><b>Category of Data</b></td> <td width="15%"><p><b>Context</b></p></td> <td width="15%"><p><b>Category of Sources</b></p></td> <td width="15%"><p><b>Business Purposes</b></p></td> <td width="15%"><p><b>Commercial Purposes</b></p></td> <td><p><b>Category of Recipients</b></p></td> </tr> <tr align="left" valign="top"> <td><p>Identity Data</p></td> <td><p>· When you make a purchase or other transaction through our Service</p><p> · When you access or use our Digital Services</p><p> · Cookies and other tracking technologies</p><p> · Feedback and Surveys</p><p> · Contests or promotions</p><p> · When you submit information to us</p></td> <td> <p>From you; Automatic collection; Service providers; Agents and partners; Aggregators and advertisers; Social media companies; Data we create/infer</p><p></p>  </td> <td><p>Service Provision and Contractual Obligations; Internal Processing and Service Improvement; Security and Incident Detection; Compliance; Aggregated data; Personalization; Other Business Purposes</p></td> <td><p>Personalization &amp; Consumer Profiles; Marketing Communications; Targeted advertising; Data Sales</p></td> <td><p>Affiliates; Service Providers; Partners, Marketers,   Agents; Data Aggregators; Successors; Lawful Recipients</p></td> </tr> <tr align="left" valign="top"> <td><p>Commercial Data</p></td> <td><p>When you make a purchase or other transaction through our Service</p><p>  </p></td> <td>From you; Automatic collection; Service providers; Agents and partners; Data we create/infer<br></td> <td><p>Service Provision and Contractual Obligations; Internal Processing and Service Improvement; Security and Incident Detection; Compliance,; Aggregated data; Personalization; Other Business Purposes</p></td> <td><p>Personalization &amp; Consumer Profiles; Marketing Communications; Targeted advertising; Data Sales</p></td> <td><p>Affiliates; Service Providers; Partners, Marketers,  Agents; Data Aggregators; Successors; Lawful Recipients</p></td> </tr> <tr align="left" valign="top"> <td><p>Contact Data</p></td> <td><p>· When you make a purchase or other transaction through our Service</p><p> · When you access or use our Digital Services</p><p> · Cookies and other tracking technologies</p><p> · Feedback and Surveys</p><p> · Contests or promotions</p><p> · When you submit information to us</p></td> <td> <p>From you; Automatic collection; Service providers; Agents and partners; Aggregators and advertisers; Social media companies; Data we create/infer</p><p></p>  </td> <td><p>Service Provision and Contractual Obligations; Internal Processing and Service Improvement; Security and Incident Detection; Compliance; Aggregated data; Personalization; Other Business Purposes</p></td> <td><p>Personalization &amp; Consumer Profiles; Marketing Communications; Targeted advertising; Data Sales</p></td> <td><p>Affiliates; Service Providers; Partners, Marketers,  Agents; Data Aggregators; Successors; Lawful Recipients</p></td> </tr> <tr align="left" valign="top"> <td><p>Financial Data</p></td> <td><p>· When you make a purchase or other transaction through our Service</p></td> <td><p>From you; Service Providers</p></td> <td><p>Service Provision and Contractual Obligations; Security and Incident Detection; Compliance; Aggregated data; Other Business Purposes</p></td> <td><p>Personalization &amp; Consumer Profiles; Targeted advertising</p></td> <td><p>Affiliates; Service Providers; Agents; Successors; Lawful Recipients</p></td> </tr> <tr align="left" valign="top"> <td><p>Device/ Network Data </p></td> <td><p>· When you make a purchase or other transaction through our Service</p><p> · When you access or use our Digital Services</p><p> · Cookies and other tracking technologies</p></td> <td><p>From you; Automatic collection; Service providers; Agents and partners; Aggregators and advertisers; Social media companies; Data we create/infer</p></td> <td><p>Service Provision and Contractual Obligations; Internal Processing and Service Improvement; Security and Incident Detection; Compliance; Aggregated data; Personalization; Other Business Purposes</p></td> <td><p>Personalization &amp; Consumer Profiles; Marketing Communications; Targeted advertising; Data Sales</p></td> <td><p>Affiliates; Service Providers; Partners, Marketers,   Agents; Data Aggregators; Successors; Lawful Recipients</p></td> </tr> <tr align="left" valign="top"> <td><p>Inference Data</p></td> <td><p>· When you make a purchase or other transaction </p><p> · When you access or use our Digital Services</p><p> · Cookies and other tracking technologies</p><p> · Feedback and Surveys</p></td> <td><p>From you; Automatic collection; Service providers; Agents and partners; Aggregators and advertisers; Social media companies; Data we create/infer</p></td> <td><p>Service Provision and Contractual Obligations; Internal Processing and Service Improvement; Security and Incident Detection; Compliance; Aggregated data; Personalization; Other Business Purposes</p></td> <td><p>Personalization &amp; Consumer Profiles; Marketing Communications; Targeted advertising; Data Sales</p></td> <td><p>Affiliates; Service Providers; Partners, Marketers,   Agents; Data Aggregators; Successors; Lawful Recipients</p></td> </tr> <tr align="left" valign="top"> <td><p>User Content</p></td> <td><p>· When you access or use our Digital Services</p><p> · Contests or promotions</p><p> · Feedback and Surveys</p><p> · When you submit information to us</p></td> <td> <p>From you; Service providers; Social media companies</p><p>  </p></td> <td><p>Service Provision and Contractual Obligations; Internal Processing and Service Improvement; Security and Incident Detection; Personalization; Other Business Purposes</p></td> <td><p>Personalization &amp; Consumer Profiles; Marketing Communications; Targeted advertising; Data Sales</p></td> <td><p>Affiliates; Service Providers; Partners, Marketers,  Social Media Platforms; Agents; Data Aggregators; Successors; Lawful Recipients</p></td> </tr> <tr align="left" valign="top"> <td><p>Location Data </p></td> <td><p>When you access or use our Digital Services</p></td> <td>From you; Service Providers; Social media companies<br></td> <td><p>Service Provision and Contractual Obligations; Internal Processing and Service Improvement; Security and Incident Detection; Compliance; Aggregated data; Personalization; Other Business Purposes</p></td> <td><p>Personalization &amp; Consumer Profiles; Marketing Communications; Targeted advertising; Data Sales</p></td> <td><p>Affiliates; Service Providers; Partners, Marketers,  Agents; Data Aggregators; Successors; Lawful Recipients</p></td> </tr> <tr align="left" valign="top"> <td>Audio/Visual Data</td> <td><p>When you call us or our service providers</p></td> <td><p>From you; Automatic collection; Service Providers</p></td> <td><p>Service Provision and Contractual Obligations; Other Business Purposes</p></td> <td><p>none</p></td> <td><p>Service Providers; Successors; Lawful Recipients</p></td> </tr> </tbody></table><p><b>Changes to Our Privacy Policy</b><br>We may change this Privacy Policy from time to time. Changes will be posted on this page with the effective date. Please visit this page regularly so that you are aware of our latest updates. Your use of the Digital Service following notice of any changes indicates acceptance of any changes.</p><p><b>Contact Us</b><br>Feel free to contact us with questions or concerns, to exercise your privacy choices:</p><table width="100%" border="0" cellspacing="0" cellpadding="5"><tbody><tr align="left" valign="top"><td width="25%"><b>Physical address:</b></td><td>MediaDC, Attn: Privacy<br>1015 15<sup>th</sup> St. NW, Suite 500<br>Washington, DC, 20005</td></tr><tr align="left" valign="top"><td><b>General Inquiries, Marketing Choices, and Data Updates: </b></td><td>privacy@mediadc.com</td></tr><tr align="left" valign="top"><td><b>Data Rights Inquiries</b>: </td><td>visit the <i>Washington Examiner Rights Portal</i>. </td></tr><tr align="left" valign="top"><td><b>Opt-Out of Data Sales</b>: </td><td>visit the <i>Washington Examiner Rights Portal</i>. </td></tr><tr align="left" valign="top"><td><b>Direct Marketing Disclosure Requests</b>: </td><td>privacy@mediadc.com</td></tr></tbody></table></div>
         
     </div>
 
@@ -2234,10 +2053,10 @@ Washington, DC, 20005</p></td>
             <div class="RightRailContainer-columnTwo col-md-4">
                 
                 
-    <div id="googleAd9e10d74d-99a9-45b1-8e99-7da159b7893d" class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/sidebar_1" data-slot-sizes="[[300, 600], [300, 250], [300, 1050]]" data-slot-adsizemap="[[[1024, 0], [300, 1050], [300, 600], [300, 250]], [[768, 0], [300, 600], [300, 250]]]" data-slot-position="2">
+    <div id="googleAd94812bef-6d4e-4d50-8968-b03bf2fa701e" class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/sidebar_1" data-slot-sizes="[[300, 600], [300, 250], [300, 1050]]" data-slot-adsizemap="[[[1024, 0], [300, 1050], [300, 600], [300, 250]], [[768, 0], [300, 600], [300, 250]]]" data-slot-position="2">
     </div>
 
-    <div id="googleAd400a051d-fed5-445d-8e11-1f85db23a6dc" class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/sidebar_2" data-slot-sizes="[[300, 600], [300, 250], [1, 1]]" data-slot-adsizemap="[[[768, 0], [300, 600], [300, 250]]]" data-slot-position="3">
+    <div id="googleAd71c19f64-32a3-4f03-b96a-d0f453dc1418" class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/sidebar_2" data-slot-sizes="[[300, 600], [300, 250], [1, 1]]" data-slot-adsizemap="[[[768, 0], [300, 600], [300, 250]]]" data-slot-position="3">
     </div>
 
             </div>
@@ -2314,7 +2133,7 @@ Washington, DC, 20005</p></td>
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/digital-edition">Magazine Archive</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/editions">Magazine Archive</a>
                 
             </div>
         
@@ -2367,19 +2186,6 @@ Washington, DC, 20005</p></td>
             <div tabindex="-1" class="NavigationItem-text">
                 
                     <a class="NavigationItem-text-link" href="https://ssl.drgnetwork.com/ecom/MDC/app/live/subscriptions?org=MDC&amp;publ=WS&amp;key_code=IC9BTN3&amp;type=S">Subscribe</a>
-                
-            </div>
-        
-        
-    </div>
-</li>
-            
-              <li class="Navigation-items-item" data-toggle="collapse">
-    <div class="NavigationItem">
-        
-            <div tabindex="-1" class="NavigationItem-text">
-                
-                    <a class="NavigationItem-text-link" href="http://www.seaislandsummit.com/?utm_source=WEX%20Footer%20Navigation&amp;utm_medium=referral&amp;utm_campaign=Sea%20Island%20Summit%20Promotion">Events</a>
                 
             </div>
         
@@ -2461,7 +2267,7 @@ Washington, DC, 20005</p></td>
                     </div>
 
                     
-                        <div class="Page-disclaimer col-12 text-gray"><h6>Copyright 2019. Washington Examiner. All Rights Reserved.</h6></div>
+                        <div class="Page-disclaimer col-12 text-gray"><h6>Copyright 2020. Washington Examiner. All Rights Reserved.</h6></div>
                     
                 </div>
             </footer>
