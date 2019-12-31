@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theouterhaven.net privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407151203id_/https%3A//www.theouterhaven.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theouterhaven.net privacy policy that was archived on 2019-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191231063603id_/https%3A//www.theouterhaven.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – The Outerhaven
 
 (Updated 7/2016)
 
