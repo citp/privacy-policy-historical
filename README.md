@@ -19,7 +19,7 @@ that different snapshots of the policies can be easily compared.
 - History view: If you want to see past versions of a privacy policy, click the history link, while viewing a snapshot of the policy.
 - Metadata: You can find metadata about the privacy policy snapshot such as the Alexa rank and original Wayback Machine URL by clicking on the commit link ([example](https://github.com/citp/privacy-policy-historical/commit/49691d0802b320c2be4444afe9113838be05675a)). The metadata is JSON-formatted.
  
- ![Overview](../assets/policy-gh-repo.png?raw=true)
+ ![Overview](../assets/policy-gh-overview.png?raw=true)
  
 
 This repository is primarily intended for manual investigation of privacy policies. You can download a SQLite database version of this data [from our website](https://privacypolicies.cs.princeton.edu/).
