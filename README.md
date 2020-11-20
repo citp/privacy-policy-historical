@@ -13,6 +13,7 @@ that different snapshots of the policies can be easily compared.
 
 
 ## How do I navigate the data?
+- Use the repo frontend: [https://privacypolicies.cs.princeton.edu/ghfront/](https://privacypolicies.cs.princeton.edu/ghfront/)
 - Use Github search: Use the search box on the top left to look for a domain, keyword or metadata field that you want to investigate. Make sure you search “In this repository”. Click the Commits link on the results page if you are searching for metadata fields.
 - Navigate directly to the document: Privacy policies are stored in 3-layer deep folders, organized by first letters. For example, linux.org's privacy policy is stored in [**`l / li / lin / linux.org.md`**](https://github.com/citp/privacy-policy-historical/blob/master/l/li/lin/linux.org.md)
 
