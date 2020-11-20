@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="link_policy.svg" />
+    <link rel="prefetch" href="DataTables-1.10.21/images/sort_asc.png" />
+    <script
+      type="text/javascript"
+      language="javascript"
+      src="datatables.min.js"
+    ></script>
+
+    <script
+      type="text/javascript"
+      language="javascript"
+      src="popper.min.js"
+      defer
+    ></script>
+    <script src="bootstrap.min.js" crossorigin="anonymous" defer></script>
+    <link href="datatables.min.css" rel="stylesheet" />
+    <link href="bootstrap.min.css" rel="stylesheet" />
+    <style>
+      #table-refresh {
+        display: none;
+      }
+      #wrapper .dataTables_wrapper .dataTables_info {
+        clear: none;
+      }
+
+      /* .card-title {
+        font-size: 1.5rem;
+      } */
+      #spinner-table {
+        display: none !important;
+      }
+
+      .spinner-border-sm {
+        margin-right: 0.1em;
+      }
+      .close-icon {
+        cursor: pointer;
+        margin-left: 0.1em;
+        margin-top: -0.05em;
+      }
+      #loading {
+        display: none;
+      }
+
+      div#top-info-box h3 {
+        background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 32 32" x="0px" y="0px"><path d="M21 24.95v0 0c0.619-0.631 1-1.496 1-2.45 0-1.933-1.567-3.5-3.5-3.5s-3.5 1.567-3.5 3.5c0 0.954 0.381 1.818 1 2.45v1.050h-8c-0.545 0-1-0.446-1-0.995v-23.009c0-0.54 0.446-0.995 0.996-0.995h10.004v4.994c0 1.119 0.895 2.006 1.998 2.006h4.002v17.007c0 0.548-0.448 0.993-1 0.993h-2v-1.050zM17 25.663v0 0c0.455 0.216 0.963 0.337 1.5 0.337s1.045-0.121 1.5-0.337v3.937l-1.5-1.5-1.5 1.5v-3.937zM21 27h2.003c1.103 0 1.997-0.898 1.997-1.991v-18.009l-6-7h-10.997c-1.106 0-2.003 0.898-2.003 2.007v22.985c0 1.109 0.891 2.007 1.997 2.007h8.003v5l2.5-2.5 2.5 2.5v-5zM19 1.5l4.7 5.5h-3.703c-0.546 0-0.997-0.452-0.997-1.009v-4.491zM9 7v1h7v-1h-7zM9 4v1h7v-1h-7zM9 10v1h13v-1h-13zM9 13v1h13v-1h-13zM9 16v1h13v-1h-13zM18.5 25v0c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5c1.381 0 2.5 1.119 2.5 2.5s-1.119 2.5-2.5 2.5z"/></svg>')
+          no-repeat center;
+        background-size: 3.5rem;
+        background-position: 0.8rem;
+        padding: 1.5rem 1.5rem 1.5rem 4.5rem;
+        padding-left: 4.5rem;
+        font-weight: bold;
+        color: #333;
+      }
+      div#top-info-box .btn {
+        box-shadow: 3px 3px 3px -2px #888;
+        font-weight: bold;
+      }
+
+      div#top-info-box {
+        background-color: #ffea80;
+        box-shadow: 3px 3px 3px -2px #888;
+        width: 45rem;
+        margin-top: 1em;
+        margin-bottom: 1em;
+      }
+      a.gh-link {
+        border: none;
+        display: inline-block;
+        width: 24px;
+        height: 24px;
+        text-decoration: none;
+        overflow: hidden;
+        text-indent: 100%;
+        white-space: nowrap;
+      }
+      td a.gh-link {
+        margin-top: 0.5em;
+      }
+      a.text-link {
+        background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 32 32" x="0px" y="0px"><path d="M21 24.95v0 0c0.619-0.631 1-1.496 1-2.45 0-1.933-1.567-3.5-3.5-3.5s-3.5 1.567-3.5 3.5c0 0.954 0.381 1.818 1 2.45v1.050h-8c-0.545 0-1-0.446-1-0.995v-23.009c0-0.54 0.446-0.995 0.996-0.995h10.004v4.994c0 1.119 0.895 2.006 1.998 2.006h4.002v17.007c0 0.548-0.448 0.993-1 0.993h-2v-1.050zM17 25.663v0 0c0.455 0.216 0.963 0.337 1.5 0.337s1.045-0.121 1.5-0.337v3.937l-1.5-1.5-1.5 1.5v-3.937zM21 27h2.003c1.103 0 1.997-0.898 1.997-1.991v-18.009l-6-7h-10.997c-1.106 0-2.003 0.898-2.003 2.007v22.985c0 1.109 0.891 2.007 1.997 2.007h8.003v5l2.5-2.5 2.5 2.5v-5zM19 1.5l4.7 5.5h-3.703c-0.546 0-0.997-0.452-0.997-1.009v-4.491zM9 7v1h7v-1h-7zM9 4v1h7v-1h-7zM9 10v1h13v-1h-13zM9 13v1h13v-1h-13zM9 16v1h13v-1h-13zM18.5 25v0c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5c1.381 0 2.5 1.119 2.5 2.5s-1.119 2.5-2.5 2.5z"/></svg>')
+          no-repeat center;
+      }
+      a.text-link:hover,
+      a.text-link:focus {
+        background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 32 32" x="0px" y="0px"><path fill="blue" d="M21 24.95v0 0c0.619-0.631 1-1.496 1-2.45 0-1.933-1.567-3.5-3.5-3.5s-3.5 1.567-3.5 3.5c0 0.954 0.381 1.818 1 2.45v1.050h-8c-0.545 0-1-0.446-1-0.995v-23.009c0-0.54 0.446-0.995 0.996-0.995h10.004v4.994c0 1.119 0.895 2.006 1.998 2.006h4.002v17.007c0 0.548-0.448 0.993-1 0.993h-2v-1.050zM17 25.663v0 0c0.455 0.216 0.963 0.337 1.5 0.337s1.045-0.121 1.5-0.337v3.937l-1.5-1.5-1.5 1.5v-3.937zM21 27h2.003c1.103 0 1.997-0.898 1.997-1.991v-18.009l-6-7h-10.997c-1.106 0-2.003 0.898-2.003 2.007v22.985c0 1.109 0.891 2.007 1.997 2.007h8.003v5l2.5-2.5 2.5 2.5v-5zM19 1.5l4.7 5.5h-3.703c-0.546 0-0.997-0.452-0.997-1.009v-4.491zM9 7v1h7v-1h-7zM9 4v1h7v-1h-7zM9 10v1h13v-1h-13zM9 13v1h13v-1h-13zM9 16v1h13v-1h-13zM18.5 25v0c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5c1.381 0 2.5 1.119 2.5 2.5s-1.119 2.5-2.5 2.5z"/></svg>')
+          no-repeat center;
+      }
+      a.html-link {
+        background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="3.9 3.9 18 14.4" x="0px" y="0px" id="svg40" width="24" height="24"><path d="m 14.620951,2.7368297 h 0.282989 l 3.395867,4.3365671 V 18.230146 c 0,0.677124 -0.505984,1.233444 -1.130257,1.233444 H 8.6770502 c -0.6265367,0 -1.1302573,-0.55694 -1.1302573,-1.243356 V 3.980805 c 0,-0.6870361 0.5076817,-1.2433558 1.1336538,-1.2433558 H 14.621517 Z M 14.337962,3.3563393 H 8.675919 c -0.3112878,0 -0.5637146,0.2818769 -0.5637146,0.6164121 V 18.227048 c 0,0.340731 0.25752,0.616412 0.565978,0.616412 h 8.4896686 c 0.312421,0 0.565978,-0.275681 0.565978,-0.615172 V 7.6922871 h -2.265043 c -0.624274,0 -1.130824,-0.5495052 -1.130824,-1.2427361 V 3.3557199 Z m 0.565978,0.3097548 v 2.7822176 c 0,0.3450672 0.255255,0.6250851 0.56428,0.6250851 h 2.095816 z m -1.697934,8.3633789 -1.131956,4.956079 h 0.565978 l 1.131956,-4.956079 z m -2.263912,4.336568 -1.6979336,-1.858529 1.6979336,-1.858528 0.396185,0.433656 -1.301749,1.424872 1.301749,1.424873 z m 3.961846,0 1.697934,-1.858529 -1.697934,-1.858528 -0.396184,0.433656 1.301748,1.424872 -1.301748,1.424873 z" id="path38" style="stroke-width:0.6" /></svg>')
+          no-repeat center;
+      }
+      a.html-link:hover,
+      a.html-link:focus {
+        background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="3.9 3.9 18 14.4" x="0px" y="0px" id="svg40" width="24" height="24"><path fill="blue" d="m 14.620951,2.7368297 h 0.282989 l 3.395867,4.3365671 V 18.230146 c 0,0.677124 -0.505984,1.233444 -1.130257,1.233444 H 8.6770502 c -0.6265367,0 -1.1302573,-0.55694 -1.1302573,-1.243356 V 3.980805 c 0,-0.6870361 0.5076817,-1.2433558 1.1336538,-1.2433558 H 14.621517 Z M 14.337962,3.3563393 H 8.675919 c -0.3112878,0 -0.5637146,0.2818769 -0.5637146,0.6164121 V 18.227048 c 0,0.340731 0.25752,0.616412 0.565978,0.616412 h 8.4896686 c 0.312421,0 0.565978,-0.275681 0.565978,-0.615172 V 7.6922871 h -2.265043 c -0.624274,0 -1.130824,-0.5495052 -1.130824,-1.2427361 V 3.3557199 Z m 0.565978,0.3097548 v 2.7822176 c 0,0.3450672 0.255255,0.6250851 0.56428,0.6250851 h 2.095816 z m -1.697934,8.3633789 -1.131956,4.956079 h 0.565978 l 1.131956,-4.956079 z m -2.263912,4.336568 -1.6979336,-1.858529 1.6979336,-1.858528 0.396185,0.433656 -1.301749,1.424872 1.301749,1.424873 z m 3.961846,0 1.697934,-1.858529 -1.697934,-1.858528 -0.396184,0.433656 1.301748,1.424872 -1.301748,1.424873 z" id="path38" style="stroke-width:0.6" /></svg>')
+          no-repeat center;
+      }
+      /*https://thenounproject.com/icomoonpack/uploads/?i=3106575*/
+      a.diff-link {
+        background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" x="0px" y="0px" ><path d="m 19.65538,0.95707124 h 0.539242 L 26.665534,8.5064683 V 27.92891 c 0,1.178784 -0.964166,2.147264 -2.153735,2.147264 H 8.3291271 c -1.193883,0 -2.153735,-0.969558 -2.153735,-2.16452 V 3.1226697 c 0,-1.1960402 0.967401,-2.16451996 2.160206,-2.16451996 H 19.656458 Z M 19.116137,2.0355565 H 8.3269701 c -0.593167,0 -1.074171,0.4907108 -1.074171,1.0730929 V 27.923517 c 0,0.593167 0.490711,1.073093 1.078485,1.073093 H 24.508564 c 0.595324,0 1.078485,-0.479926 1.078485,-1.070936 V 9.5838753 h -4.316098 c -1.18957,0 -2.154814,-0.956617 -2.154814,-2.1634417 V 2.034478 Z m 1.078485,0.5392427 v 4.8434774 c 0,0.6007163 0.486397,1.0881917 1.07525,1.0881917 h 3.993631 z M 14.802196,12.820409 v 1.078486 h 8.627882 V 12.820409 Z M 9.4097691,11.741924 H 12.645225 V 14.97738 H 9.4097691 Z m 1.0784859,1.078485 v 1.078486 H 11.56674 V 12.820409 Z M 9.4097691,17.13435 h 3.2354559 v 3.235456 H 9.4097691 Z m 1.0784859,1.078486 v 1.078485 h 1.078485 v -1.078485 z m 4.313941,0 v 1.078485 h 8.627882 v -1.078485 z m -5.3924269,4.313941 h 3.2354559 v 3.235456 H 9.4097691 Z m 1.0784859,1.078485 v 1.078485 h 1.078485 v -1.078485 z m 4.313941,0 v 1.078485 h 8.627882 v -1.078485 z" id="path2" style="stroke-width:1" /></svg>')
+          no-repeat center;
+      }
+
+      a.diff-link:hover,
+      a.diff-link:focus {
+        background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" x="0px" y="0px" ><path fill="blue" d="m 19.65538,0.95707124 h 0.539242 L 26.665534,8.5064683 V 27.92891 c 0,1.178784 -0.964166,2.147264 -2.153735,2.147264 H 8.3291271 c -1.193883,0 -2.153735,-0.969558 -2.153735,-2.16452 V 3.1226697 c 0,-1.1960402 0.967401,-2.16451996 2.160206,-2.16451996 H 19.656458 Z M 19.116137,2.0355565 H 8.3269701 c -0.593167,0 -1.074171,0.4907108 -1.074171,1.0730929 V 27.923517 c 0,0.593167 0.490711,1.073093 1.078485,1.073093 H 24.508564 c 0.595324,0 1.078485,-0.479926 1.078485,-1.070936 V 9.5838753 h -4.316098 c -1.18957,0 -2.154814,-0.956617 -2.154814,-2.1634417 V 2.034478 Z m 1.078485,0.5392427 v 4.8434774 c 0,0.6007163 0.486397,1.0881917 1.07525,1.0881917 h 3.993631 z M 14.802196,12.820409 v 1.078486 h 8.627882 V 12.820409 Z M 9.4097691,11.741924 H 12.645225 V 14.97738 H 9.4097691 Z m 1.0784859,1.078485 v 1.078486 H 11.56674 V 12.820409 Z M 9.4097691,17.13435 h 3.2354559 v 3.235456 H 9.4097691 Z m 1.0784859,1.078486 v 1.078485 h 1.078485 v -1.078485 z m 4.313941,0 v 1.078485 h 8.627882 v -1.078485 z m -5.3924269,4.313941 h 3.2354559 v 3.235456 H 9.4097691 Z m 1.0784859,1.078485 v 1.078485 h 1.078485 v -1.078485 z m 4.313941,0 v 1.078485 h 8.627882 v -1.078485 z" id="path2" style="stroke-width:1" /></svg>')
+          no-repeat center;
+      }
+
+      a.no-link {
+        margin-bottom: -0.5em;
+        cursor: default;
+      }
+
+      #general_results th,
+      #sample th {
+        cursor: pointer;
+      }
+      #boxes {
+        float: left;
+        text-align: left;
+        display: none;
+      }
+      th.dt-body-center {
+        text-align: center;
+      }
+      /* TODO: should we mark analysis_subcorpus_true ? */
+      td.analysis_subcorpus_true {
+        background-color: gray;
+      }
+      #general_results_wrapper .dataTables_info,
+      #sample_wrapper .dataTables_info {
+        padding-right: 1em;
+      }
+      .DTFC_LeftBodyWrapper,
+      .DTFC_RightBodyWrapper,
+      .DTFC_LeftHeadWrapper {
+        z-index: 3;
+        box-shadow: 3px 0 3px -2px #888;
+      }
+      table.dataTable.table-striped.DTFC_Cloned tbody tr:nth-of-type(odd) {
+        background-color: #f3f3f3;
+      }
+      table.dataTable.table-striped.DTFC_Cloned tbody tr:nth-of-type(even) {
+        background-color: white;
+      }
+      .DTFC_LeftBodyLiner {
+        overflow-x: hidden;
+      }
+      .dataTables_scrollBody {
+        padding-bottom: 0px;
+      }
+
+      body {
+        padding: 1em;
+      }
+
+      .DTFC_ScrollWrapper {
+        box-shadow: 3px 3px 3px -2px #888;
+      }
+      .tooltip {
+        pointer-events: none;
+      }
+      .no-sort {
+        pointer-events: none !important;
+        cursor: default !important;
+        background: none !important;
+      }
+
+      .floatright {
+        float: right;
+      }
+
+      td:first-child {
+        font-weight: bolder;
+        color: #333;
+        min-width: 250px;
+      }
+
+      table.dataTable.compact td:first-child {
+        padding-left: 8px;
+        padding-right: 8px;
+      }
+
+      table td:nth-child(1) p {
+        font-size: 0.9em;
+        font-weight: normal;
+        color: gray;
+        margin-bottom: 0;
+      }
+
+      table td:nth-child(3),
+      table th:nth-child(3) {
+        min-width: 80px;
+      }
+
+      div#category_select {
+        width: auto;
+      }
+
+      .dataTables_filter,
+      #category_select {
+        float: left;
+        margin: 1em 0 1em 0;
+      }
+      .dataTables_length,
+      .dataTables_filter label,
+      #category_select label {
+        color: #333;
+      }
+
+      #category_select label {
+        margin-left: 2em;
+      }
+
+      .dt-body-right {
+        text-align: right;
+      }
+
+      #general_results td.dt-body-right,
+      #sample td.dt-body-right {
+        padding-right: 17px;
+      }
+
+      th {
+        background-color: #ddd;
+        color: #333;
+      }
+      .dataTables_wrapper.no-footer .dataTables_scrollBody {
+        border-bottom: none !important;
+      }
+      .dataTables_wrapper .dataTables_length {
+        float: left;
+        font-weight: 100;
+        margin-top: 1em;
+      }
+
+      table.dataTable thead th,
+      table.dataTable thead td {
+        border-bottom: 0;
+      }
+
+      .dataTable tbody > tr > td {
+        white-space: nowrap;
+      }
+      .dataTables_wrapper .dataTables_paginate {
+        padding-top: 0;
+        margin-bottom: 0.5em;
+      }
+      .dataTables_wrapper .dataTables_paginate .paginate_button {
+        padding: 0.4em 0.8em;
+      }
+
+      #general_results_length > label > select,
+      #sample_length > label > select {
+        width: auto;
+      }
+      #sample-info {
+        font-weight: bold;
+      }
+    </style>
+    <script type="text/javascript" charset="utf-8">
+      const TABLE_HEADER_TOOLTIPS = {
+        Website: "Website domain",
+        "Num. of policies":
+          "Number of archived privacy policies in our dataset for this website",
+        "Min. Alexa rank":
+          "Minimum Alexa rank observed in our dataset for this website \
+                        (Rank=1,000,001 means the website was not in the Alexa top \
+                        million when the policies were captured)",
+      };
+
+      const TOOLTIP_SETTINGS = {
+        sanitize: false,
+        html: false,
+        selector: "a, th, button",
+        trigger: "hover",
+      };
+      const USE_STR = false;
+
+      const USE_FOREACH = false;
+      const DOMAIN_CATEGORY_COL_INDEX = 0;
+      const HIDDEN_HOSTNAME_COL_INDEX = 1;
+      const HIDDEN_CATEGORY_COL_INDEX = 2;
+
+      let buildTableDataTime;
+
+      let METADATA_COLS = ["Website", "Num. of policies", "Min. Alexa rank"];
+
+      METADATA_COLS.splice(HIDDEN_HOSTNAME_COL_INDEX, 0, "_Hostname");
+      METADATA_COLS.splice(HIDDEN_CATEGORY_COL_INDEX, 0, "_Categories");
+
+      const NUM_FIXED_COLS = METADATA_COLS.length;
+
+      const MIN_YEAR = 1997;
+      const MAX_YEAR = 2019;
+      const NUM_INTERVALS = 2 * (MAX_YEAR - MIN_YEAR + 1);
+
+      const INTERVAL_COL_IDXS = Array.from(
+        { length: NUM_INTERVALS },
+        (v, k) => k + NUM_FIXED_COLS
+      );
+      let NON_SEARCHABLE_COL_IDXS = Array.from(
+        { length: NUM_INTERVALS + NUM_FIXED_COLS - 3 },
+        (v, k) => k + 3
+      );
+      NON_SEARCHABLE_COL_IDXS.push(0); // we don't want domain+category(IDX 0) to be searchable
+      const NUM_TOTAL_COLS = NUM_INTERVALS + NUM_FIXED_COLS;
+
+      const STRING_COLUMNS = INTERVAL_COL_IDXS.concat([
+        DOMAIN_CATEGORY_COL_INDEX,
+        HIDDEN_HOSTNAME_COL_INDEX,
+        HIDDEN_CATEGORY_COL_INDEX,
+      ]);
+      const NUMBER_COLUMNS = [3, 4];
+
+      let columns = [];
+
+      // add metadata columns
+      for (let col of METADATA_COLS) {
+        columns.push({ title: col });
+      }
+
+      // add interval columns
+      for (let year = MAX_YEAR; year >= MIN_YEAR; year--) {
+        for (let season of ["B", "A"]) {
+          columns.push({ title: year + "_" + season });
+        }
+      }
+      const GITHUB_LINK_BASE =
+        "https://github.com/citp/privacy-policy-historical";
+      const GITHUB_LINK_BASE_TEXT = `${GITHUB_LINK_BASE}/blob/`;
+      const GITHUB_LINK_BASE_DIFF = `${GITHUB_LINK_BASE}/commit/`;
+      const USE_IMG_LINKS = true;
+
+      function makeCommitLink(
+        hostname,
+        githubBasePath,
+        txtHash,
+        analysisSubcorpus,
+        htmlHash
+      ) {
+        const hrefRelTxt = `${
+          GITHUB_LINK_BASE_TEXT + txtHash + githubBasePath
+        }.md`;
+        const hrefRelHtml = `${
+          GITHUB_LINK_BASE_TEXT + htmlHash + githubBasePath
+        }.html`;
+
+        return `<a data-toggle="tooltip" class="gh-link text-link subcorpus_${analysisSubcorpus}"\
+                      title="View the archived privacy policy text of ${hostname}" \
+                      href="${hrefRelTxt}" target="_blank">Text</a>\
+                      <a data-toggle="tooltip" class="gh-link html-link" title="View the archived privacy policy HTML source of ${hostname}"\
+                        href="${hrefRelHtml}" target="_blank">HTML</a>\
+                      <a data-toggle="tooltip" class="gh-link diff-link" title="View the policy metadata, and difference of this \
+                      privacy policy compared to the previous snapshot" \
+                      href="https://github.com/citp/privacy-policy-historical/commit/${txtHash}?w=1"\
+                      target="_blank">Diff</a>`;
+      }
+
+      const NUM_NON_COMMIT_COLS_IN_DATA = 4;
+      const IDX_CATEGORY_COL_IN_DATA = 1;
+      const CELL_FILLER = "";
+
+      function getGithubBasePathForHost(hostname) {
+        return `/${hostname.substring(0, 1)}/${hostname.substring(
+          0,
+          2
+        )}/${hostname.substring(0, 3)}/${hostname}`;
+      }
+
+      function transformPolicyMetaEntry(policyMetaEntry) {
+        let result = [],
+          hostname,
+          hostGithubBasePath;
+
+        const policyMetaEntryLen = policyMetaEntry.length;
+        policyMetaEntry.forEach((item, index) => {
+          if (item === 0) {
+            result.push(CELL_FILLER);
+          } else if (index >= NUM_NON_COMMIT_COLS_IN_DATA) {
+            result.push(makeCommitLink(hostname, hostGithubBasePath, ...item));
+          } else if (index === 0) {
+            hostname = item;
+            hostGithubBasePath = getGithubBasePathForHost(hostname);
+          } else if (index === IDX_CATEGORY_COL_IN_DATA) {
+            result.push(`${hostname}<p>${item}</p>`);
+            result.splice(HIDDEN_HOSTNAME_COL_INDEX, 0, hostname);
+            result.splice(HIDDEN_CATEGORY_COL_INDEX, 0, item);
+          } else {
+            // min rank and num of policies
+            result.push(item);
+          }
+        });
+        const missingCols = NUM_TOTAL_COLS - policyMetaEntry.length - 1;
+        // console.log(missingCols, policyMetaEntry.length, NUM_TOTAL_COLS);
+        return result.concat(Array(missingCols).fill(CELL_FILLER));
+      }
+
+      // Taken from: https://gist.github.com/treyhuffine/2ced8b8c503e5246e2fd258ddbd21b8c
+      const debounce = (func, wait) => {
+        let timeout;
+
+        return function executedFunction(...args) {
+          const later = () => {
+            clearTimeout(timeout);
+            func(...args);
+          };
+
+          clearTimeout(timeout);
+          timeout = setTimeout(later, wait);
+        };
+      };
+
+      /* Add tooltip attributes to newly created th elements */
+      function addTableTooltips() {
+        $(".dataTable thead th").each(function () {
+          let $th = $(this);
+          const text = $th.text();
+          if (text in TABLE_HEADER_TOOLTIPS) {
+            $th.attr("title", TABLE_HEADER_TOOLTIPS[text]);
+          } else {
+            $th.attr(
+              "title",
+              `Privacy policies archived in the ${text} interval`
+            );
+          }
+        });
+      }
+
+      function initializeSearch(table) {
+        $("#cat_search").val("");
+        $("#cat_search").on("change", function () {
+          table.columns(HIDDEN_CATEGORY_COL_INDEX).search(this.value).draw();
+        });
+        $("#domain_search").val("");
+        const SEARCH_DEBOUNCE_TIME = 200; // ms
+        const debouncedSearch = debounce(function () {
+          table
+            .columns(HIDDEN_HOSTNAME_COL_INDEX)
+            .search($("#domain_search").val())
+            .draw();
+        }, SEARCH_DEBOUNCE_TIME);
+        $("#domain_search").on("keyup change clear search", debouncedSearch);
+      }
+
+      function buildTableData(dataSrc) {
+        if (startedDownloadingFullData) {
+          $("#loading #message").text(
+            "Converting the data into table format..."
+          );
+        }
+
+        const tBeforeTableData = performance.now();
+        const tableData = dataSrc.map(transformPolicyMetaEntry);
+        buildTableDataTime = performance.now() - tBeforeTableData;
+        console.log(`Built the table data in ${buildTableDataTime / 1000}s`);
+        return tableData;
+      }
+
+      let startedDownloadingFullData = false;
+
+      let tableId, tableIdSel, table;
+
+      function initTable(policyMetaArr) {
+        if (startedDownloadingFullData) {
+          $("#sample_wrapper").fadeOut({ duration: 800, queue: false });
+          tableId = "general_results";
+          table.destroy(true);
+          $("#loading #message").text("Building the table...");
+        } else {
+          tableId = "sample";
+        }
+        tableIdSel = `#${tableId}`;
+
+        const tableData = buildTableData(policyMetaArr);
+
+        const tBeforeInitTable = performance.now();
+        table = $(tableIdSel).DataTable({
+          data: tableData,
+          columns: columns,
+          deferRender: true,
+          length: true,
+          paging: true,
+          scrollX: true,
+          fixedColumns: {
+            leftColumns: 1,
+            heightMatch: "none",
+          },
+          autoWidth: false,
+          orderClasses: false,
+          initComplete: function () {
+            // $(tableIdSel).fadeIn();
+            $(tableIdSel).fadeIn({ duration: 800, queue: false });
+            $(`select[name ="${tableId}_length"]`).addClass("custom-select");
+            if (startedDownloadingFullData) {
+              $("#loading")
+                .removeClass("btn-secondary")
+                .addClass("btn-success");
+
+              $("#loading #message").text(
+                "Successfully loaded the data into the table!"
+              );
+              $("#spinner").removeClass("spinner-border").text("✓");
+              $("#table-refresh").hide();
+              $("#sample-info").hide();
+              $("#loading").append(`<span title="Close" class="floatright close-icon"">
+                        <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg">
+                          <g
+                            stroke="#000"
+                            stroke-width="2"
+                            fill="none"
+                            fill-rule="evenodd"
+                            stroke-linecap="round"
+                          >
+                            <path d="M6 6l12 12M6 18L18 6" />
+                          </g>
+                        </svg>
+                      </span>`);
+              $(".close-icon").on("click", function () {
+                $("#loading").fadeOut();
+              });
+
+              ///spinner-border-sm
+            }
+
+            //$("#loading").hide();
+            $("#boxes").show();
+            addTableTooltips();
+            console.log(
+              `Initialized the table in ${
+                (performance.now() - tBeforeInitTable) / 1000
+              }s`
+            );
+            if (!startedDownloadingFullData) {
+              console.log(`Finished loading in ${performance.now() / 1000}s`);
+            }
+          },
+          responsive: true,
+          lengthMenu: [
+            [10, 25, 50, 100],
+            [10, 25, 50, 100],
+          ],
+          language: {
+            lengthMenu: "Show _MENU_ rows",
+            info: "_START_ to _END_ of _TOTAL_ rows",
+            infoEmpty: "Showing 0 to 0 of 0 rows",
+            infoFiltered: "(filtered from _MAX_ total rows)",
+          },
+          columnDefs: [
+            // specify column types to prevent datatables from spending time to infer types
+            {
+              type: "string",
+              targets: STRING_COLUMNS,
+            },
+            { type: "num", targets: NUMBER_COLUMNS },
+            { orderable: false, targets: INTERVAL_COL_IDXS },
+            // make most columns non-searchable
+            { searchable: false, targets: NON_SEARCHABLE_COL_IDXS },
+            {
+              targets: INTERVAL_COL_IDXS,
+              className: "dt-body-center",
+            },
+            {
+              // right align number columns
+              targets: NUMBER_COLUMNS,
+              className: "dt-body-right",
+            },
+            // make space for the first column
+            { width: "250px", targets: 0 },
+            // use hidden columns to enable search by domain and category
+            {
+              targets: [HIDDEN_HOSTNAME_COL_INDEX, HIDDEN_CATEGORY_COL_INDEX],
+              visible: false,
+            },
+          ],
+          order: [[3, "desc"]], // sort by number of policies
+          dom: '<"top"ip<"clear">>rt<"bottom"l<"clear">>',
+        });
+        initializeSearch(table);
+      } // initTable
+
+      function startDownloadViaFetch(url) {
+        const tBeforeAjax = performance.now();
+
+        fetch(url, {
+          method: "GET",
+        })
+          .then((response) => {
+            response.json().then((jsonResponse) => {
+              setTimeout(initTable, 10, jsonResponse);
+              console.log(
+                `Downloaded table data via Fetch in ${
+                  (performance.now() - tBeforeAjax) / 1000
+                }s`
+              );
+            });
+          })
+          .catch((err) => {
+            console.log(`Fetch error: ${err}`);
+          });
+      }
+
+      function displayError(errMsg) {
+        console.log(`${errMsg}`);
+        $("#spinner").removeClass("spinner-border").text("X");
+        $("#loading").removeClass("btn-secondary").addClass("btn-danger");
+        $("#loading #message").text(`${errMsg}`);
+      }
+
+      function startDownloadViaJqueryAjax(url) {
+        const tBeforeAjax = performance.now();
+
+        $.ajax({
+          url: url,
+          dataType: "json",
+        }).done(function (jsonResponse) {
+          setTimeout(initTable, 10, jsonResponse);
+          console.log(
+            `Downloaded table data via Jquery Ajax"} in ${
+              (performance.now() - tBeforeAjax) / 1000
+            }s`
+          );
+        });
+      }
+      const USE_FETCH = true;
+      const SAMPLE_DATA_FILE_URL = "data_sample.min.json";
+      const DATA_FILE_URL = "data.min.json";
+
+      function startDownload(url) {
+        $("#loading #message").text("Downloading the data...");
+        $("#table-refresh").show();
+
+        if (USE_FETCH) {
+          startDownloadViaFetch(url);
+        } else {
+          startDownloadViaJqueryAjax(url);
+        }
+      }
+
+      startDownload(SAMPLE_DATA_FILE_URL);
+
+      $(document).ready(function () {
+        $('img[data-toggle="tooltip"], button[data-toggle="tooltip"]').tooltip({
+          trigger: "hover",
+        });
+        $("body").tooltip(TOOLTIP_SETTINGS);
+        $('body, img[data-toggle="tooltip"], button[data-toggle="tooltip"]').on("show.bs.tooltip", () => {
+          $(".tooltip").not(this).remove();
+        });
+
+        $("#load-full-data").click(function (e) {
+          $(this).tooltip("hide");
+          $(this).hide();
+          e.preventDefault();
+          $("#loading").show();
+          $("#load-full-data").prop("disabled", true);
+          startedDownloadingFullData = true;
+          try {
+            startDownload(DATA_FILE_URL);
+          } catch (error) {
+            displayError(error);
+          }
+        });
+      });
+    </script>
+    <title>Privacy policies</title>
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="mx-auto">
+          <div id="top-info-box" class="card">
+            <h3 class="card-header">
+              Princeton-Leuven Longitudinal Corpus of Privacy Policies
+            </h3>
+            <div class="card-body">
+              <p class="card-title">
+                Our dataset of historical privacy policies are available as a
+                public
+                <a
+                  href="https://github.com/citp/privacy-policy-historical"
+                  title="Click to access the repository"
+                  target="_blank"
+                  >Github repository</a
+                >.
+              </p>
+
+              <p class="card-text">
+                The links in the table point to text (<a
+                  title="Clicking this icon in the below table will take you to the <b>extracted text</b> for a given privacy policy"
+                  class="no-link gh-link text-link"
+                  data-toggle="tooltip"
+                  data-html="true"
+                  >text</a
+                >) , HTML (<a
+                  title="Clicking this icon in the below table will take you to the <b>HTML source</b> of a given privacy policy"
+                  class="no-link gh-link html-link"
+                  data-toggle="tooltip"
+                  data-html="true"
+                  >HTML</a
+                >) and metadata (<a
+                  title="Clicking this icon in the below table will take you to the <b>metadata and difference</b> of
+                a given privacy policy from its previous snapshot"
+                  class="no-link gh-link diff-link"
+                  data-toggle="tooltip"
+                  data-html="true"
+                  >metadata</a
+                >) extracted from the privacy policies archived by the Wayback
+                Machine. Check
+                <a
+                  target="_blank"
+                  href="https://privacypolicies.cs.princeton.edu/"
+                  >our project website</a
+                > or read <a href="https://arxiv.org/abs/2008.09159">our paper</a> for
+                more detailed information about our dataset.
+              </p>
+              <p class="card-text" id="sample-info">
+                The table below contains links to a <b>sample</b> of historical
+                privacy policies from 1,000 sites. Please click the button below
+                to load the full dataset (<em>130,620 websites, 1M+ privacy policies</em>)
+                into the table.
+              </p>
+              <button
+                id="load-full-data"
+                class="btn btn-success border-secondary"
+                title="Click to load the full dataset of privacy policy links (18.2MB).
+                The page may be temporarily unresponsive when loading the dataset as it
+                contains more than 130K rows and 3M+ links."
+                data-toggle="tooltip"
+                type="button"
+              >
+                <b>Load the full dataset</b>
+                <small>(~18MB)</small>
+              </button>
+
+              <button
+                id="loading"
+                class="btn btn-secondary"
+                type="button"
+                disabled
+              >
+                <span
+                  class="spinner-border spinner-border-sm"
+                  role="status"
+                  aria-hidden="true"
+                  id="spinner"
+                ></span>
+                <span id="message"> Loading... </span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="wrapper">
+        <div id="boxes">
+          <div class="dataTables_filter">
+            <label
+              >Search:
+              <input
+                id="domain_search"
+                type="search"
+                class="form-control"
+                placeholder="Search by website..."
+            /></label>
+          </div>
+
+          <div id="category_select">
+            <label
+              >Website category:
+              <select name="cat_search" id="cat_search" class="custom-select">
+                <option selected value="">(All)</option>
+                <option value="adult">Adult</option>
+                <option value="advertising">Advertising</option>
+                <option value="alcoholandtobacco">Alcohol and Tobacco</option>
+                <option value="blogsandpersonal">
+                  Blogs and Personal Sites
+                </option>
+                <option value="business">Business</option>
+                <option value="chatandmessaging">
+                  Chat and Instant Messaging
+                </option>
+                <option value="contentserver">Content Server</option>
+                <option value="deceptive">Deceptive</option>
+                <option value="drugs">Drugs</option>
+                <option value="economyandfinance">Economy and Finance</option>
+                <option value="education">Education</option>
+                <option value="entertainment">Entertainment</option>
+                <option value="foodandrecipes">Food and Recipes</option>
+                <option value="gambling">Gambling</option>
+                <option value="games">Games</option>
+                <option value="hacking">Hacking</option>
+                <option value="health">Health</option>
+                <option value="humor">Humor</option>
+                <option value="illegalcontent">Illegal Content</option>
+                <option value="informationtech">Information Technology</option>
+                <option value="jobrelated">Job Related</option>
+                <option value="malicious">Malicious</option>
+                <option value="mediasharing">Media Sharing</option>
+                <option value="messageboardsandforums">
+                  Messageboards and Forums
+                </option>
+                <option value="newsandmedia">News and Media</option>
+                <option value="parked">Parked</option>
+                <option value="personals">Dating and Personals</option>
+                <option value="proxyandfilteravoidance">
+                  Proxy and Filter Avoidance
+                </option>
+                <option value="realestate">Real Estate</option>
+                <option value="religion">Religion</option>
+                <option value="searchenginesandportals">
+                  Search Engines and Portals
+                </option>
+                <option value="shopping">Shopping</option>
+                <option value="socialnetworking">Social Networking</option>
+                <option value="sports">Sports</option>
+                <option value="streamingmedia">Streaming Media</option>
+                <option value="translators">Translation Sites</option>
+                <option value="travel">Travel</option>
+                <option value="uncategorized">Uncategorized</option>
+                <option value="vehicles">Vehicles</option>
+                <option value="virtualreality">Virtual Reality</option>
+                <option value="weapons">Weapons</option>
+              </select>
+            </label>
+          </div>
+        </div>
+
+        <div class="row col-md-12">
+          <div class="mx-auto">
+            <div
+              class="spinner-grow text-success"
+              role="status"
+              id="table-refresh"
+            >
+              <span class="sr-only">Loading...</span>
+            </div>
+          </div>
+        </div>
+        <div class="table-responsive">
+          <table
+            class="table table-hover compact table-striped table-bordered dt-responsive"
+            id="general_results"
+            style="width: 100%"
+          ></table>
+
+          <table
+            class="table table-hover compact table-striped table-bordered dt-responsive"
+            id="sample"
+            style="width: 100%"
+          ></table>
+        </div>
+      </div>
+      <!--wrapper -->
+      <footer><small>Icon credits:
+        <a href="https://thenounproject.com/icomoonpack/collection/document/">
+          Document collection
+        </a>
+        by <a href="https://thenounproject.com/icomoonpack/">
+          IcoMoon
+        </a> licensed under <a href="https://creativecommons.org/licenses/by/3.0/us/legalcode">CC BY 3.0</a>
+        &bull; <a href="https://thenounproject.com">Noun Project</a>.
+        </small></footer>
+    </div>
+  </body>
+</html>
