@@ -30,5 +30,23 @@ You can clone this repository if you want to do more complex, local searches.
 ## License
 Any contribution we (the authors of the paper) have made is public domain. We make no claims about the licensing of any other content. 
 
+## Reference
+**Bibtex:**
+```
+@inproceedings{amosPrivacyPoliciesTime2021,
+  title = {Privacy {{Policies}} over {{Time}}: {{Curation}} and {{Analysis}} of a {{Million}}-{{Document Dataset}}},
+  booktitle = {Proceedings of {{The Web Conference}} 2021},
+  author = {Amos, Ryan and Acar, Gunes and Lucherini, Elena and Kshirsagar, Mihir and Narayanan, Arvind and Mayer, Jonathan},
+  date = {2021-04-19},
+  pages = {22},
+  publisher = {{Association for Computing Machinery}},
+  location = {{Ljubljana, Slovenia}},
+  doi = {10.1145/3442381.3450048},
+  url = {https://doi.org/10.1145/3442381.3450048},
+  series = {{{WWW}} '21}
+}
+```
+
 ## Acknowledgements
 We thank Harshvardhan J. Pandit for his useful comments on the repository.
+
