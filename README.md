@@ -36,7 +36,7 @@ Any contribution we (the authors of the paper) have made is public domain. We ma
 @inproceedings{amosPrivacyPoliciesTime2021,
   title = {Privacy {{Policies}} over {{Time}}: {{Curation}} and {{Analysis}} of a {{Million}}-{{Document Dataset}}},
   booktitle = {Proceedings of {{The Web Conference}} 2021},
-  author = {Amos, Ryan and Acar, Gunes and Lucherini, Elena and Kshirsagar, Mihir and Narayanan, Arvind and Mayer, Jonathan},
+  author = {Amos, Ryan and Acar, Gunes and Lucherini, Eli and Kshirsagar, Mihir and Narayanan, Arvind and Mayer, Jonathan},
   date = {2021-04-19},
   pages = {22},
   publisher = {{Association for Computing Machinery}},
